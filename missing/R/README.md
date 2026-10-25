@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Pixel | 126241 | [126241-rainbow-pixel.json](./126241-rainbow-pixel.json) |
 | Rainbow Rage Squad | 30690 | [30690-rainbow-rage-squad.json](./30690-rainbow-rage-squad.json) |
 | Rainbow Rapture | 54702 | [54702-rainbow-rapture.json](./54702-rainbow-rapture.json) |
+| Rainbow Reactor | 113793 | [113793-rainbow-reactor.json](./113793-rainbow-reactor.json) |
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
 | Rainbow Robin | 123829 | [123829-rainbow-robin.json](./123829-rainbow-robin.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
@@ -1824,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
 | Ravenholm | 319744 | [319744-ravenholm.json](./319744-ravenholm.json) |
 | Ravenix: The Card Master | 139337 | [139337-ravenix-the-card-master.json](./139337-ravenix-the-card-master.json) |
+| Ravenland | 113616 | [113616-ravenland.json](./113616-ravenland.json) |
 | Ravenloft: Stone Prophet | 2504 | [2504-ravenloft-stone-prophet.json](./2504-ravenloft-stone-prophet.json) |
 | Ravenloft: Strahd's Possession | 2508 | [2508-ravenloft-strahds-possession.json](./2508-ravenloft-strahds-possession.json) |
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
@@ -1862,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
 | Ravisod | 272170 | [272170-ravisod.json](./272170-ravisod.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
+| Ravva and the Cyclops Curse | 110675 | [110675-ravva-and-the-cyclops-curse.json](./110675-ravva-and-the-cyclops-curse.json) |
 | Ravva and the Phantom Library | 236780 | [236780-ravva-and-the-phantom-library.json](./236780-ravva-and-the-phantom-library.json) |
 | Ravy Davy: Attack on Ambiguity | 373128 | [373128-ravy-davy-attack-on-ambiguity.json](./373128-ravy-davy-attack-on-ambiguity.json) |
 | Raw | 119581 | [119581-raw.json](./119581-raw.json) |
@@ -3005,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Algorithm | 152654 | [152654-red-algorithm.json](./152654-red-algorithm.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
 | Red Algorithm: Osiris | 155447 | [155447-red-algorithm-osiris.json](./155447-red-algorithm-osiris.json) |
+| Red Alliance | 110708 | [110708-red-alliance.json](./110708-red-alliance.json) |
 | Red Amazon | 231793 | [231793-red-amazon.json](./231793-red-amazon.json) |
 | Red and Blue | 133776 | [133776-red-and-blue.json](./133776-red-and-blue.json) |
 | Red and Blue Balls | 99395 | [99395-red-and-blue-balls.json](./99395-red-and-blue-balls.json) |
