@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintey | 33467 | [33467-paintey.json](./33467-paintey.json) |
 | Painting Christmas with Tito | 97160 | [97160-painting-christmas-with-tito.json](./97160-painting-christmas-with-tito.json) |
 | Painting Mel-chan | 237505 | [237505-painting-mel-chan.json](./237505-painting-mel-chan.json) |
+| Painting PC | 409352 | [409352-painting-pc.json](./409352-painting-pc.json) |
 | Painting Pixels | 393970 | [393970-painting-pixels.json](./393970-painting-pixels.json) |
 | Painting VR | 159090 | [159090-painting-vr.json](./159090-painting-vr.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
