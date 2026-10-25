@@ -9504,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Adventure | 343612 | [343612-dog-adventure.json](./343612-dog-adventure.json) |
 | Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
+| Dog Chaos | 397732 | [397732-dog-chaos.json](./397732-dog-chaos.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
 | Dog Collab | 288080 | [288080-dog-collab.json](./288080-dog-collab.json) |
 | Dog Couple | 334803 | [334803-dog-couple.json](./334803-dog-couple.json) |
@@ -13594,6 +13595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriftBorne | 399209 | [399209-driftborne.json](./399209-driftborne.json) |
 | DriftCE | 249331 | [249331-driftce.json](./249331-driftce.json) |
 | DriftCE: Toyota Supra MK5 DLC | 293465 | [293465-driftce-toyota-supra-mk5-dlc.json](./293465-driftce-toyota-supra-mk5-dlc.json) |
+| Driftcraft | 397731 | [397731-driftcraft.json](./397731-driftcraft.json) |
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
 | Drifted Tales | 116222 | [116222-drifted-tales.json](./116222-drifted-tales.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
@@ -13606,6 +13608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Drifties | 376233 | [376233-drifties.json](./376233-drifties.json) |
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
+| Drifting Afternoon | 397855 | [397855-drifting-afternoon.json](./397855-drifting-afternoon.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
 | Drifting Dots | 390694 | [390694-drifting-dots.json](./390694-drifting-dots.json) |
 | Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
