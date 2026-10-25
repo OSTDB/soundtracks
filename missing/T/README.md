@@ -8874,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hole Story | 35579 | [35579-the-hole-story.json](./35579-the-hole-story.json) |
 | The Hole Town | 304912 | [304912-the-hole-town.json](./304912-the-hole-town.json) |
 | The Holiday Bakeoff | 325348 | [325348-the-holiday-bakeoff.json](./325348-the-holiday-bakeoff.json) |
+| The Hollow | 388518 | [388518-the-hollow.json](./388518-the-hollow.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Line | 335122 | [335122-the-hollow-line.json](./335122-the-hollow-line.json) |
@@ -10471,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda Remastered | 260748 | [260748-the-legend-of-zelda-remastered.json](./260748-the-legend-of-zelda-remastered.json) |
 | The Legend of Zelda SNES | 377748 | [377748-the-legend-of-zelda-snes.json](./377748-the-legend-of-zelda-snes.json) |
 | The Legend of Zelda XD2: Mercuris' Chess | 243666 | [243666-the-legend-of-zelda-xd2-mercuris-chess.json](./243666-the-legend-of-zelda-xd2-mercuris-chess.json) |
+| The Legend of Zelda: 18 Hours Past | 388565 | [388565-the-legend-of-zelda-18-hours-past.json](./388565-the-legend-of-zelda-18-hours-past.json) |
 | The Legend of Zelda: 3rd Quest | 256296 | [256296-the-legend-of-zelda-3rd-quest.json](./256296-the-legend-of-zelda-3rd-quest.json) |
 | The Legend of Zelda: A Link to the Dream | 243669 | [243669-the-legend-of-zelda-a-link-to-the-dream.json](./243669-the-legend-of-zelda-a-link-to-the-dream.json) |
 | The Legend of Zelda: A Link to the Islands | 213893 | [213893-the-legend-of-zelda-a-link-to-the-islands.json](./213893-the-legend-of-zelda-a-link-to-the-islands.json) |
@@ -19899,6 +19901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TModLoader: Metroid Mod | 332466 | [332466-tmodloader-metroid-mod.json](./332466-tmodloader-metroid-mod.json) |
 | TmPaint | 399044 | [399044-tmpaint.json](./399044-tmpaint.json) |
 | TMT 1 | 387164 | [387164-tmt-1.json](./387164-tmt-1.json) |
+| TMT 2 | 388564 | [388564-tmt-2.json](./388564-tmt-2.json) |
 | TNA Impact! | 5228 | [5228-tna-impact.json](./5228-tna-impact.json) |
 | TNA Impact!: Cross the Line | 5229 | [5229-tna-impact-cross-the-line.json](./5229-tna-impact-cross-the-line.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
@@ -24646,6 +24649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcendence in the Poolrooms | 401031 | [401031-transcendence-in-the-poolrooms.json](./401031-transcendence-in-the-poolrooms.json) |
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
 | Transcender Starship | 118767 | [118767-transcender-starship.json](./118767-transcender-starship.json) |
+| Transcending the Rainbow | 388562 | [388562-transcending-the-rainbow.json](./388562-transcending-the-rainbow.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transcriptions of Time | 413818 | [413818-transcriptions-of-time.json](./413818-transcriptions-of-time.json) |
 | Transfer | 182769 | [182769-transfer.json](./182769-transfer.json) |
