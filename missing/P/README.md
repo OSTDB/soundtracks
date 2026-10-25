@@ -3558,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Ace: Pro Tournament Tennis | 67639 | [67639-perfect-ace-pro-tournament-tennis.json](./67639-perfect-ace-pro-tournament-tennis.json) |
 | Perfect Affection Plan: Cassiopeia | 168612 | [168612-perfect-affection-plan-cassiopeia.json](./168612-perfect-affection-plan-cassiopeia.json) |
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
+| Perfect Angle VR - Zen edition | 32410 | [32410-perfect-angle-vr-zen-edition.json](./32410-perfect-angle-vr-zen-edition.json) |
 | Perfect Apocalypse: The Day After | 304128 | [304128-perfect-apocalypse-the-day-after.json](./304128-perfect-apocalypse-the-day-after.json) |
 | Perfect Assassin | 73366 | [73366-perfect-assassin.json](./73366-perfect-assassin.json) |
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
@@ -4886,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
 | Pick & Place | 402298 | [402298-pick-and-place.json](./402298-pick-and-place.json) |
 | Pick a Boo | 406116 | [406116-pick-a-boo.json](./406116-pick-a-boo.json) |
+| Pick a Hero | 32442 | [32442-pick-a-hero.json](./32442-pick-a-hero.json) |
 | Pick and Learn - Easy Learning for Kids | 106015 | [106015-pick-and-learn-easy-learning-for-kids.json](./106015-pick-and-learn-easy-learning-for-kids.json) |
 | Pick Ball | 404428 | [404428-pick-ball.json](./404428-pick-ball.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
@@ -7018,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Zombie | 76389 | [76389-pixel-zombie.json](./76389-pixel-zombie.json) |
 | Pixel Zombie Survival | 155942 | [155942-pixel-zombie-survival.json](./155942-pixel-zombie-survival.json) |
 | Pixel Zumbi | 68502 | [68502-pixel-zumbi.json](./68502-pixel-zumbi.json) |
+| Pixel-Warfare: Pro | 31256 | [31256-pixel-warfare-pro.json](./31256-pixel-warfare-pro.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
 | Pixel's Unknown Battle Ground | 90958 | [90958-pixels-unknown-battle-ground.json](./90958-pixels-unknown-battle-ground.json) |
@@ -7365,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
 | Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
 | Plan it Green | 10703 | [10703-plan-it-green.json](./10703-plan-it-green.json) |
+| Plan Z Chapter 1 | 32420 | [32420-plan-z-chapter-1.json](./32420-plan-z-chapter-1.json) |
 | Plana Gravatatis | 135076 | [135076-plana-gravatatis.json](./135076-plana-gravatatis.json) |
 | Planar Conquest | 33335 | [33335-planar-conquest.json](./33335-planar-conquest.json) |
 | Planaris 2+ | 119996 | [119996-planaris-2.json](./119996-planaris-2.json) |
@@ -9893,8 +9897,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygeddon: Survive | 248035 | [248035-polygeddon-survive.json](./248035-polygeddon-survive.json) |
 | Polyglock | 348400 | [348400-polyglock.json](./348400-polyglock.json) |
 | Polyglot Language Learning Quiz | 370760 | [370760-polyglot-language-learning-quiz.json](./370760-polyglot-language-learning-quiz.json) |
+| Polygod | 31192 | [31192-polygod.json](./31192-polygod.json) |
 | Polygon | 130203 | [130203-polygon.json](./130203-polygon.json) |
 | Polygon Arena | 268976 | [268976-polygon-arena.json](./268976-polygon-arena.json) |
+| Polygon Attack | 31249 | [31249-polygon-attack.json](./31249-polygon-attack.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
 | Polygon Fantasy | 193813 | [193813-polygon-fantasy.json](./193813-polygon-fantasy.json) |
 | Polygon Fantasy Battle Simulator | 270007 | [270007-polygon-fantasy-battle-simulator.json](./270007-polygon-fantasy-battle-simulator.json) |
@@ -14536,6 +14542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Box 3D | 391087 | [391087-push-box-3d.json](./391087-push-box-3d.json) |
 | Push Comes to Shovel | 211783 | [211783-push-comes-to-shovel.json](./211783-push-comes-to-shovel.json) |
 | Push Corgi | 379156 | [379156-push-corgi.json](./379156-push-corgi.json) |
+| Push For Emor | 32468 | [32468-push-for-emor.json](./32468-push-for-emor.json) |
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Me | 152677 | [152677-push-me.json](./152677-push-me.json) |
 | Push Me Pull You | 19863 | [19863-push-me-pull-you.json](./19863-push-me-pull-you.json) |
