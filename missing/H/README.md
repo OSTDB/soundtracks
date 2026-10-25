@@ -3869,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's Forgotten Performance | 295778 | [295778-henrys-forgotten-performance.json](./295778-henrys-forgotten-performance.json) |
 | Henry's Hoard | 354568 | [354568-henrys-hoard.json](./354568-henrys-hoard.json) |
 | Hent-Ai Puzzle | 303669 | [303669-hent-ai-puzzle.json](./303669-hent-ai-puzzle.json) |
+| Hentai | 55752 | [55752-hentai.json](./55752-hentai.json) |
 | Hentai 15 Puzzle 2 | 236379 | [236379-hentai-15-puzzle-2.json](./236379-hentai-15-puzzle-2.json) |
 | Hentai 18+ | 261874 | [261874-hentai-18.json](./261874-hentai-18.json) |
 | Hentai 2+2=4 | 110176 | [110176-hentai-2-2-4.json](./110176-hentai-2-2-4.json) |
