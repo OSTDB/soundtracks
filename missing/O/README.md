@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onager! | 59235 | [59235-onager.json](./59235-onager.json) |
 | OnAir Airline Manager | 327816 | [327816-onair-airline-manager.json](./327816-onair-airline-manager.json) |
 | Onaji | 174335 | [174335-onaji.json](./174335-onaji.json) |
+| Onaka Game | 412005 | [412005-onaka-game.json](./412005-onaka-game.json) |
 | Onamae Battle | 331886 | [331886-onamae-battle.json](./331886-onamae-battle.json) |
 | Onamae nan dakke? Otona mo Kodomo mo Kantan Tanoshii Namae Ate Quiz Game | 233941 | [233941-onamae-nan-dakke-otona-mo-kodomo-mo-kantan-tanoshii-namae-ate-quiz-game.json](./233941-onamae-nan-dakke-otona-mo-kodomo-mo-kantan-tanoshii-namae-ate-quiz-game.json) |
 | Onanigan | 181383 | [181383-onanigan.json](./181383-onanigan.json) |
@@ -2690,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Day | 214622 | [214622-open-day.json](./214622-open-day.json) |
 | Open Doctrines | 417557 | [417557-open-doctrines.json](./417557-open-doctrines.json) |
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
+| Open Drive | 411958 | [411958-open-drive.json](./411958-open-drive.json) |
 | Open Fire | 327155 | [327155-open-fire.json](./327155-open-fire.json) |
 | Open Fire | 348792 | [348792-open-fire.json](./348792-open-fire.json) |
 | Open Fire: Ready | 389966 | [389966-open-fire-ready.json](./389966-open-fire-ready.json) |
