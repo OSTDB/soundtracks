@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daloman Depths | 159139 | [159139-daloman-depths.json](./159139-daloman-depths.json) |
 | Dalruan: World of Magic | 169254 | [169254-dalruan-world-of-magic.json](./169254-dalruan-world-of-magic.json) |
 | Dalton: The Awesome! | 263577 | [263577-dalton-the-awesome.json](./263577-dalton-the-awesome.json) |
+| Daluob | 388502 | [388502-daluob.json](./388502-daluob.json) |
 | Dam Dam Stompland | 92317 | [92317-dam-dam-stompland.json](./92317-dam-dam-stompland.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
 | Dam Rush XD | 397392 | [397392-dam-rush-xd.json](./397392-dam-rush-xd.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dat Gaem | 146749 | [146749-dat-gaem.json](./146749-dat-gaem.json) |
 | Data | 114781 | [114781-data.json](./114781-data.json) |
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
+| Data Breach | 388566 | [388566-data-breach.json](./388566-data-breach.json) |
 | Data Carddass Dragon Ball Z | 66916 | [66916-data-carddass-dragon-ball-z.json](./66916-data-carddass-dragon-ball-z.json) |
 | Data Carddass Dragon Ball Z 2 | 66915 | [66915-data-carddass-dragon-ball-z-2.json](./66915-data-carddass-dragon-ball-z-2.json) |
 | Data Center | 380236 | [380236-data-center.json](./380236-data-center.json) |
@@ -3600,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death & Lead | 392968 | [392968-death-and-lead.json](./392968-death-and-lead.json) |
 | Death & Tactics | 274931 | [274931-death-and-tactics.json](./274931-death-and-tactics.json) |
 | Death & Taxes | 370868 | [370868-death-and-taxes.json](./370868-death-and-taxes.json) |
+| Death a Live | 388516 | [388516-death-a-live.json](./388516-death-a-live.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
