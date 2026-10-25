@@ -3039,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack 'em All! | 91750 | [91750-whack-em-all.json](./91750-whack-em-all.json) |
 | Whack 'Em Smack 'Em Byrons | 306459 | [306459-whack-em-smack-em-byrons.json](./306459-whack-em-smack-em-byrons.json) |
 | Whack A Bubble | 45900 | [45900-whack-a-bubble.json](./45900-whack-a-bubble.json) |
+| Whack a Dicklett | 396068 | [396068-whack-a-dicklett.json](./396068-whack-a-dicklett.json) |
 | Whack A Hoe | 230139 | [230139-whack-a-hoe.json](./230139-whack-a-hoe.json) |
 | Whack A Rat VR | 147427 | [147427-whack-a-rat-vr.json](./147427-whack-a-rat-vr.json) |
 | Whack A Tako | 202179 | [202179-whack-a-tako.json](./202179-whack-a-tako.json) |
@@ -4919,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 10 | 240877 | [240877-winning-post-10.json](./240877-winning-post-10.json) |
 | Winning Post 10 2024 | 294217 | [294217-winning-post-10-2024.json](./294217-winning-post-10-2024.json) |
 | Winning Post 10 2025 | 322840 | [322840-winning-post-10-2025.json](./322840-winning-post-10-2025.json) |
+| Winning Post 10 2026 | 395978 | [395978-winning-post-10-2026.json](./395978-winning-post-10-2026.json) |
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 2: Program '96 | 79807 | [79807-winning-post-2-program-96.json](./79807-winning-post-2-program-96.json) |
 | Winning Post 4 | 78744 | [78744-winning-post-4.json](./78744-winning-post-4.json) |
