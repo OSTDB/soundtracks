@@ -3278,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -7201,6 +7202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormmy | 207592 | [207592-wormmy.json](./207592-wormmy.json) |
 | WorMoon: Awakening | 255042 | [255042-wormoon-awakening.json](./255042-wormoon-awakening.json) |
 | Worms | 409023 | [409023-worms.json](./409023-worms.json) |
+| Worms | 414951 | [414951-worms.json](./414951-worms.json) |
 | Worms | 87594 | [87594-worms.json](./87594-worms.json) |
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
@@ -7221,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Forts: Under Siege | 6245 | [6245-worms-forts-under-siege.json](./6245-worms-forts-under-siege.json) |
+| Worms Galactic Tactics | 414949 | [414949-worms-galactic-tactics.json](./414949-worms-galactic-tactics.json) |
 | Worms Pinball | 409028 | [409028-worms-pinball.json](./409028-worms-pinball.json) |
 | Worms Pinball | 9335 | [9335-worms-pinball.json](./9335-worms-pinball.json) |
 | Worms Reloaded | 1017 | [1017-worms-reloaded.json](./1017-worms-reloaded.json) |
