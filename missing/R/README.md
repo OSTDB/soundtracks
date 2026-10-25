@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raldi's Crackhouse | 285343 | [285343-raldis-crackhouse.json](./285343-raldis-crackhouse.json) |
 | Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
 | Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
+| Rallied! | 416352 | [416352-rallied.json](./416352-rallied.json) |
 | RalliSport Challenge | 841 | [841-rallisport-challenge.json](./841-rallisport-challenge.json) |
 | Rallo Gump | 73148 | [73148-rallo-gump.json](./73148-rallo-gump.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
@@ -1817,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
 | Raven Tea | 371563 | [371563-raven-tea.json](./371563-raven-tea.json) |
 | Raven the Last Neko Slayer | 114083 | [114083-raven-the-last-neko-slayer.json](./114083-raven-the-last-neko-slayer.json) |
+| Raven Tower | 416372 | [416372-raven-tower.json](./416372-raven-tower.json) |
 | Raven-Star | 350207 | [350207-raven-star.json](./350207-raven-star.json) |
 | Raven: Chapter 1 - The Commands of Eurybia | 74002 | [74002-raven-chapter-1-the-commands-of-eurybia.json](./74002-raven-chapter-1-the-commands-of-eurybia.json) |
 | Raven: The Rise | 224406 | [224406-raven-the-rise.json](./224406-raven-the-rise.json) |
@@ -7015,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
 | Roads & Riches | 410081 | [410081-roads-and-riches.json](./410081-roads-and-riches.json) |
 | Roads Construction Sim | 312716 | [312716-roads-construction-sim.json](./312716-roads-construction-sim.json) |
+| Roads of Middle Ages 2: Collector's Edition | 416381 | [416381-roads-of-middle-ages-2-collectors-edition.json](./416381-roads-of-middle-ages-2-collectors-edition.json) |
 | Roads of Rome | 34266 | [34266-roads-of-rome.json](./34266-roads-of-rome.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
