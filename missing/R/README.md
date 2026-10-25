@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Roach: Infinity | 193641 | [193641-radical-roach-infinity.json](./193641-radical-roach-infinity.json) |
 | Radical Road | 239732 | [239732-radical-road.json](./239732-radical-road.json) |
 | Radical Sonic | 330319 | [330319-radical-sonic.json](./330319-radical-sonic.json) |
+| Radical Spectrum: Volume 1 | 32416 | [32416-radical-spectrum-volume-1.json](./32416-radical-spectrum-volume-1.json) |
 | Radical Spectrum: Volume 2 | 55509 | [55509-radical-spectrum-volume-2.json](./55509-radical-spectrum-volume-2.json) |
 | Radicorn | 293225 | [293225-radicorn.json](./293225-radicorn.json) |
 | Radii | 211146 | [211146-radii.json](./211146-radii.json) |
@@ -4349,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem: Rise of the Reaver | 36343 | [36343-requiem-rise-of-the-reaver.json](./36343-requiem-rise-of-the-reaver.json) |
 | Requiem: Unleashed | 341093 | [341093-requiem-unleashed.json](./341093-requiem-unleashed.json) |
 | Requiescat | 164933 | [164933-requiescat.json](./164933-requiescat.json) |
+| Requiescence | 31219 | [31219-requiescence.json](./31219-requiescence.json) |
 | Requisition VR | 193293 | [193293-requisition-vr.json](./193293-requisition-vr.json) |
 | ReRave | 41506 | [41506-rerave.json](./41506-rerave.json) |
 | ReRise | 293862 | [293862-rerise.json](./293862-rerise.json) |
@@ -6416,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
 | Rise of Stikeez | 176696 | [176696-rise-of-stikeez.json](./176696-rise-of-stikeez.json) |
+| Rise of the Ancients | 32459 | [32459-rise-of-the-ancients.json](./32459-rise-of-the-ancients.json) |
 | Rise of the Argonauts | 7161 | [7161-rise-of-the-argonauts.json](./7161-rise-of-the-argonauts.json) |
 | Rise of the Blobs | 22157 | [22157-rise-of-the-blobs.json](./22157-rise-of-the-blobs.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
