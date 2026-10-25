@@ -10212,6 +10212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
 | The Legend of Heroes: Trails from Zero - Deluxe Edition | 248792 | [248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json](./248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json) |
 | The Legend of Heroes: Trails from Zero - Limited Edition | 313563 | [313563-the-legend-of-heroes-trails-from-zero-limited-edition.json](./313563-the-legend-of-heroes-trails-from-zero-limited-edition.json) |
+| The Legend of Heroes: Trails from Zero / The Legend of Heroes: Trails to Azure | 419594 | [419594-the-legend-of-heroes-trails-from-zero-the-legend-of-heroes-trails-to-azure.json](./419594-the-legend-of-heroes-trails-from-zero-the-legend-of-heroes-trails-to-azure.json) |
 | The Legend of Heroes: Trails in the Dawn M | 212846 | [212846-the-legend-of-heroes-trails-in-the-dawn-m.json](./212846-the-legend-of-heroes-trails-in-the-dawn-m.json) |
 | The Legend of Heroes: Trails in the Sky | 8986 | [8986-the-legend-of-heroes-trails-in-the-sky.json](./8986-the-legend-of-heroes-trails-in-the-sky.json) |
 | The Legend of Heroes: Trails in the Sky SC | 16665 | [16665-the-legend-of-heroes-trails-in-the-sky-sc.json](./16665-the-legend-of-heroes-trails-in-the-sky-sc.json) |
@@ -12932,6 +12933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rot Below | 386847 | [386847-the-rot-below.json](./386847-the-rot-below.json) |
 | The Rotting Man | 357208 | [357208-the-rotting-man.json](./357208-the-rotting-man.json) |
 | The Round-about Orchard | 386157 | [386157-the-round-about-orchard.json](./386157-the-round-about-orchard.json) |
+| The Rounds of Six | 419646 | [419646-the-rounds-of-six.json](./419646-the-rounds-of-six.json) |
 | The Route | 266320 | [266320-the-route.json](./266320-the-route.json) |
 | The Royal Finale | 313687 | [313687-the-royal-finale.json](./313687-the-royal-finale.json) |
 | The Royal Game of Ur | 73500 | [73500-the-royal-game-of-ur.json](./73500-the-royal-game-of-ur.json) |
