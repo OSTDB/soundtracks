@@ -4491,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link 'n' Launch | 67157 | [67157-link-n-launch.json](./67157-link-n-launch.json) |
 | Link and Spell | 269082 | [269082-link-and-spell.json](./269082-link-and-spell.json) |
 | Link Bomb Party | 221747 | [221747-link-bomb-party.json](./221747-link-bomb-party.json) |
+| Link Lab | 406511 | [406511-link-lab.json](./406511-link-lab.json) |
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
 | Link Penguins | 391224 | [391224-link-penguins.json](./391224-link-penguins.json) |
@@ -6666,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Dark Woods | 313997 | [313997-lost-in-the-dark-woods.json](./313997-lost-in-the-dark-woods.json) |
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
 | Lost in the Fire | 383142 | [383142-lost-in-the-fire.json](./383142-lost-in-the-fire.json) |
+| Lost in the Fogbound Deadwood | 406512 | [406512-lost-in-the-fogbound-deadwood.json](./406512-lost-in-the-fogbound-deadwood.json) |
 | Lost in the Grotto: Thievery | 344517 | [344517-lost-in-the-grotto-thievery.json](./344517-lost-in-the-grotto-thievery.json) |
 | Lost in the Hole | 401605 | [401605-lost-in-the-hole.json](./401605-lost-in-the-hole.json) |
 | Lost in the Maze of Those Memories I Wander and Nervously Laugh | 364243 | [364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json](./364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json) |
