@@ -3872,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladihaters | 149405 | [149405-gladihaters.json](./149405-gladihaters.json) |
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
+| Gladio | 107438 | [107438-gladio.json](./107438-gladio.json) |
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladium | 120784 | [120784-gladium.json](./120784-gladium.json) |
