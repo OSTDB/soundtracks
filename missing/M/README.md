@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Road: Apocalyptic Shooter Survival Killer | 251597 | [251597-mad-road-apocalyptic-shooter-survival-killer.json](./251597-mad-road-apocalyptic-shooter-survival-killer.json) |
 | Mad Rocket: Fog of War | 111758 | [111758-mad-rocket-fog-of-war.json](./111758-mad-rocket-fog-of-war.json) |
 | Mad Room No.3 | 333193 | [333193-mad-room-no-3.json](./333193-mad-room-no-3.json) |
+| Mad Scientist: Dr. Eureka | 24200 | [24200-mad-scientist-dr-eureka.json](./24200-mad-scientist-dr-eureka.json) |
 | Mad Shark | 322211 | [322211-mad-shark.json](./322211-mad-shark.json) |
 | Mad Shark | 40258 | [40258-mad-shark.json](./40258-mad-shark.json) |
 | Mad Shoji no Ganmen Kyoufu | 240169 | [240169-mad-shoji-no-ganmen-kyoufu.json](./240169-mad-shoji-no-ganmen-kyoufu.json) |
@@ -14023,17 +14024,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Gold Scorpion | 305613 | [305613-mortal-kombat-x-gold-scorpion.json](./305613-mortal-kombat-x-gold-scorpion.json) |
 | Mortal Kombat X: Goro | 141052 | [141052-mortal-kombat-x-goro.json](./141052-mortal-kombat-x-goro.json) |
 | Mortal Kombat X: Horror Pack | 305611 | [305611-mortal-kombat-x-horror-pack.json](./305611-mortal-kombat-x-horror-pack.json) |
+| Mortal Kombat X: Jason Voorhees | 24213 | [24213-mortal-kombat-x-jason-voorhees.json](./24213-mortal-kombat-x-jason-voorhees.json) |
 | Mortal Kombat X: Klassic Fatalities 1 | 339949 | [339949-mortal-kombat-x-klassic-fatalities-1.json](./339949-mortal-kombat-x-klassic-fatalities-1.json) |
 | Mortal Kombat X: Klassic Fatalities 2 | 340022 | [340022-mortal-kombat-x-klassic-fatalities-2.json](./340022-mortal-kombat-x-klassic-fatalities-2.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortal Kombat X: Kollector's Edition | 45150 | [45150-mortal-kombat-x-kollectors-edition.json](./45150-mortal-kombat-x-kollectors-edition.json) |
 | Mortal Kombat X: Leatherface | 141053 | [141053-mortal-kombat-x-leatherface.json](./141053-mortal-kombat-x-leatherface.json) |
 | Mortal Kombat X: Predator | 164819 | [164819-mortal-kombat-x-predator.json](./164819-mortal-kombat-x-predator.json) |
+| Mortal Kombat X: Predator | 24215 | [24215-mortal-kombat-x-predator.json](./24215-mortal-kombat-x-predator.json) |
 | Mortal Kombat X: Predator/Prey Pack | 303142 | [303142-mortal-kombat-x-predator-prey-pack.json](./303142-mortal-kombat-x-predator-prey-pack.json) |
 | Mortal Kombat X: Premium Edition | 53367 | [53367-mortal-kombat-x-premium-edition.json](./53367-mortal-kombat-x-premium-edition.json) |
 | Mortal Kombat X: Samurai Pack | 304314 | [304314-mortal-kombat-x-samurai-pack.json](./304314-mortal-kombat-x-samurai-pack.json) |
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
 | Mortal Kombat X: Tanya | 141050 | [141050-mortal-kombat-x-tanya.json](./141050-mortal-kombat-x-tanya.json) |
+| Mortal Kombat X: Tremor | 24214 | [24214-mortal-kombat-x-tremor.json](./24214-mortal-kombat-x-tremor.json) |
 | Mortal Kombat X: Triborg | 27887 | [27887-mortal-kombat-x-triborg.json](./27887-mortal-kombat-x-triborg.json) |
 | Mortal Kombat X: XL Pack | 141051 | [141051-mortal-kombat-x-xl-pack.json](./141051-mortal-kombat-x-xl-pack.json) |
 | Mortal Kombat XL | 18150 | [18150-mortal-kombat-xl.json](./18150-mortal-kombat-xl.json) |
@@ -15309,6 +15313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTP Target | 71566 | [71566-mtp-target.json](./71566-mtp-target.json) |
 | MTV Jersey Shore | 281023 | [281023-mtv-jersey-shore.json](./281023-mtv-jersey-shore.json) |
 | MTV Music Generator | 45098 | [45098-mtv-music-generator.json](./45098-mtv-music-generator.json) |
+| MTV Music Generator 3: This is the Remix | 24139 | [24139-mtv-music-generator-3-this-is-the-remix.json](./24139-mtv-music-generator-3-this-is-the-remix.json) |
 | MTV Remote Control | 18019 | [18019-mtv-remote-control.json](./18019-mtv-remote-control.json) |
 | MTV Sports Skateboarding | 45810 | [45810-mtv-sports-skateboarding.json](./45810-mtv-sports-skateboarding.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
