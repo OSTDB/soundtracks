@@ -4618,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
 | Finding Heart | 109911 | [109911-finding-heart.json](./109911-finding-heart.json) |
 | Finding Jack's Treasure | 95956 | [95956-finding-jacks-treasure.json](./95956-finding-jacks-treasure.json) |
+| Finding Lake Chewaucan | 410689 | [410689-finding-lake-chewaucan.json](./410689-finding-lake-chewaucan.json) |
 | Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
 | Finding Nemo | 210734 | [210734-finding-nemo.json](./210734-finding-nemo.json) |
