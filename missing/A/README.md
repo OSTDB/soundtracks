@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ghost Story for Christmas | 135779 | [135779-a-ghost-story-for-christmas.json](./135779-a-ghost-story-for-christmas.json) |
 | A Ghostly Tale | 123834 | [123834-a-ghostly-tale.json](./123834-a-ghostly-tale.json) |
 | A Gift of War | 189341 | [189341-a-gift-of-war.json](./189341-a-gift-of-war.json) |
+| A Girl A Rain | 415766 | [415766-a-girl-a-rain.json](./415766-a-girl-a-rain.json) |
 | A Girl in the City | 139722 | [139722-a-girl-in-the-city.json](./139722-a-girl-in-the-city.json) |
 | A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
@@ -1178,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wholesome Game About Farming | 199292 | [199292-a-wholesome-game-about-farming.json](./199292-a-wholesome-game-about-farming.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Wild Time Travelling Clone Dancing | 128952 | [128952-a-wild-time-travelling-clone-dancing.json](./128952-a-wild-time-travelling-clone-dancing.json) |
+| A Wind-Shaped Love | 415768 | [415768-a-wind-shaped-love.json](./415768-a-wind-shaped-love.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Winter Story | 181085 | [181085-a-winter-story.json](./181085-a-winter-story.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
