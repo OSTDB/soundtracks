@@ -6726,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Solaria | 297843 | [297843-world-of-solaria.json](./297843-world-of-solaria.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World of Solitaire: Deluxe Edition | 304777 | [304777-world-of-solitaire-deluxe-edition.json](./304777-world-of-solitaire-deluxe-edition.json) |
+| World of Speed | 8733 | [8733-world-of-speed.json](./8733-world-of-speed.json) |
 | World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
 | World of Submarines | 255764 | [255764-world-of-submarines.json](./255764-world-of-submarines.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
