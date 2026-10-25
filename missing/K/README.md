@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keymash | 141630 | [141630-keymash.json](./141630-keymash.json) |
 | Keymasher Ultimate | 201113 | [201113-keymasher-ultimate.json](./201113-keymasher-ultimate.json) |
 | Keypad Simulator | 412483 | [412483-keypad-simulator.json](./412483-keypad-simulator.json) |
+| Keypress Express | 420772 | [420772-keypress-express.json](./420772-keypress-express.json) |
 | Keypress Mania | 373544 | [373544-keypress-mania.json](./373544-keypress-mania.json) |
 | Keypybara | 387476 | [387476-keypybara.json](./387476-keypybara.json) |
 | Keyrin Loves You | 338737 | [338737-keyrin-loves-you.json](./338737-keyrin-loves-you.json) |
@@ -3855,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Rubbish | 112855 | [112855-knights-rubbish.json](./112855-knights-rubbish.json) |
 | Knights Together | 393812 | [393812-knights-together.json](./393812-knights-together.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
+| Knights vs Aliens | 420779 | [420779-knights-vs-aliens.json](./420779-knights-vs-aliens.json) |
 | Knights vs Knightesses | 175202 | [175202-knights-vs-knightesses.json](./175202-knights-vs-knightesses.json) |
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knights Within | 254047 | [254047-knights-within.json](./254047-knights-within.json) |
