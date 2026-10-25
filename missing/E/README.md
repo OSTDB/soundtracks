@@ -6599,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme Car Stunts Classic: Demolition Wreckfast | 95806 | [95806-extreme-car-stunts-classic-demolition-wreckfast.json](./95806-extreme-car-stunts-classic-demolition-wreckfast.json) |
 | Extreme City Delivery: Bike Ride Simulator | 323703 | [323703-extreme-city-delivery-bike-ride-simulator.json](./323703-extreme-city-delivery-bike-ride-simulator.json) |
+| Extreme Cleaning Simulator | 423200 | [423200-extreme-cleaning-simulator.json](./423200-extreme-cleaning-simulator.json) |
 | Extreme Custom Night | 277965 | [277965-extreme-custom-night.json](./277965-extreme-custom-night.json) |
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
