@@ -13081,6 +13081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
 | Project Retro Ninja | 179409 | [179409-project-retro-ninja.json](./179409-project-retro-ninja.json) |
 | Project Revenant | 368793 | [368793-project-revenant.json](./368793-project-revenant.json) |
+| Project RIP | 121495 | [121495-project-rip.json](./121495-project-rip.json) |
 | Project RIP Mobile | 174785 | [174785-project-rip-mobile.json](./174785-project-rip-mobile.json) |
 | Project Rocket: Invasion Resurgence | 297188 | [297188-project-rocket-invasion-resurgence.json](./297188-project-rocket-invasion-resurgence.json) |
 | Project Rod3nt | 401073 | [401073-project-rod3nt.json](./401073-project-rod3nt.json) |
@@ -13494,6 +13495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protector: Special Edition | 40809 | [40809-protector-special-edition.json](./40809-protector-special-edition.json) |
 | Protector/Y*A*S*I | 63809 | [63809-protector-y-a-s-i.json](./63809-protector-y-a-s-i.json) |
 | Protectors | 223988 | [223988-protectors.json](./223988-protectors.json) |
+| Protein for Muscle | 121962 | [121962-protein-for-muscle.json](./121962-protein-for-muscle.json) |
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
 | Protest | 105692 | [105692-protest.json](./105692-protest.json) |
 | Protestal | 393634 | [393634-protestal.json](./393634-protestal.json) |
