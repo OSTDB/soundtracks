@@ -4836,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IronBorn | 109585 | [109585-ironborn.json](./109585-ironborn.json) |
 | Ironborne | 391038 | [391038-ironborne.json](./391038-ironborne.json) |
 | Ironbound | 36982 | [36982-ironbound.json](./36982-ironbound.json) |
+| Ironcast Complete Collection | 83738 | [83738-ironcast-complete-collection.json](./83738-ironcast-complete-collection.json) |
 | Ironcast: The Stirling Pack | 170296 | [170296-ironcast-the-stirling-pack.json](./170296-ironcast-the-stirling-pack.json) |
 | Ironclad Tactics | 10459 | [10459-ironclad-tactics.json](./10459-ironclad-tactics.json) |
 | Ironclad Tactics: Deluxe Edition | 51849 | [51849-ironclad-tactics-deluxe-edition.json](./51849-ironclad-tactics-deluxe-edition.json) |
