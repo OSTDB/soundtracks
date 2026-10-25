@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Pocket | 261099 | [261099-last-pocket.json](./261099-last-pocket.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
 | Last Question | 334920 | [334920-last-question.json](./334920-last-question.json) |
+| Last Ranger | 418213 | [418213-last-ranger.json](./418213-last-ranger.json) |
 | Last Rebellion | 7363 | [7363-last-rebellion.json](./7363-last-rebellion.json) |
 | Last Regiment | 119908 | [119908-last-regiment.json](./119908-last-regiment.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
@@ -7827,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumber jacked | 62081 | [62081-lumber-jacked.json](./62081-lumber-jacked.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
 | Lumber Plumber | 403751 | [403751-lumber-plumber.json](./403751-lumber-plumber.json) |
+| Lumber Tycoon Island | 418249 | [418249-lumber-tycoon-island.json](./418249-lumber-tycoon-island.json) |
 | Lumberhill | 111771 | [111771-lumberhill.json](./111771-lumberhill.json) |
 | Lumberhill + It came from space and ate our brains | 287662 | [287662-lumberhill-it-came-from-space-and-ate-our-brains.json](./287662-lumberhill-it-came-from-space-and-ate-our-brains.json) |
 | Lumberhill: Powerful People Pack | 199884 | [199884-lumberhill-powerful-people-pack.json](./199884-lumberhill-powerful-people-pack.json) |
