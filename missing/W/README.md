@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Lost Our Human | 256874 | [256874-we-lost-our-human.json](./256874-we-lost-our-human.json) |
 | We Love Cake | 69093 | [69093-we-love-cake.json](./69093-we-love-cake.json) |
 | We Love Fish Tanks | 387332 | [387332-we-love-fish-tanks.json](./387332-we-love-fish-tanks.json) |
+| We Love Golf! | 5265 | [5265-we-love-golf.json](./5265-we-love-golf.json) |
 | We Love Juggler | 59361 | [59361-we-love-juggler.json](./59361-we-love-juggler.json) |
 | We Love Katamari Reroll + Royal Reverie - Katamari Damacy Series Music Bundle | 272559 | [272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json](./272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json) |
 | We Love Katamari Reroll + Royal Reverie: Deluxe Edition | 251602 | [251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json](./251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json) |
@@ -2400,7 +2401,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Ramble I: Starwake | 224711 | [224711-we-ramble-i-starwake.json](./224711-we-ramble-i-starwake.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
 | We should talk. | 132400 | [132400-we-should-talk.json](./132400-we-should-talk.json) |
+| We Sing | 5266 | [5266-we-sing.json](./5266-we-sing.json) |
 | We Sing | 80416 | [80416-we-sing.json](./80416-we-sing.json) |
+| We Sing 80s | 5267 | [5267-we-sing-80s.json](./5267-we-sing-80s.json) |
 | We Sing Deutsche Hits | 5268 | [5268-we-sing-deutsche-hits.json](./5268-we-sing-deutsche-hits.json) |
 | We Sing Deutsche Hits 2 | 268208 | [268208-we-sing-deutsche-hits-2.json](./268208-we-sing-deutsche-hits-2.json) |
 | We Sing Down Under | 5269 | [5269-we-sing-down-under.json](./5269-we-sing-down-under.json) |
@@ -3251,7 +3254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
