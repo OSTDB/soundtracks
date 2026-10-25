@@ -5545,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Super Mario Bros. | 279718 | [279718-normal-super-mario-bros.json](./279718-normal-super-mario-bros.json) |
 | Normal Super Mario Bros. 2 | 279720 | [279720-normal-super-mario-bros-2.json](./279720-normal-super-mario-bros-2.json) |
 | Normal Super Mario Bros. 3 | 279721 | [279721-normal-super-mario-bros-3.json](./279721-normal-super-mario-bros-3.json) |
+| Normalize Human Communication | 398982 | [398982-normalize-human-communication.json](./398982-normalize-human-communication.json) |
 | NormalTanks | 66658 | [66658-normaltanks.json](./66658-normaltanks.json) |
 | Norman | 245152 | [245152-norman.json](./245152-norman.json) |
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
