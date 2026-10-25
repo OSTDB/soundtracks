@@ -7437,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Express | 186685 | [186685-meow-express.json](./186685-meow-express.json) |
 | Meow Garden | 333906 | [333906-meow-garden.json](./333906-meow-garden.json) |
+| Meow Go | 76501 | [76501-meow-go.json](./76501-meow-go.json) |
 | Meow Lab | 149349 | [149349-meow-lab.json](./149349-meow-lab.json) |
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
 | Meow Meow Wizard Arena | 289256 | [289256-meow-meow-wizard-arena.json](./289256-meow-meow-wizard-arena.json) |
