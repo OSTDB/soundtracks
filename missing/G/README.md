@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactose: Pastries in Space | 109047 | [109047-galactose-pastries-in-space.json](./109047-galactose-pastries-in-space.json) |
 | Galactum Meridian | 415443 | [415443-galactum-meridian.json](./415443-galactum-meridian.json) |
 | Galador: The Prince and the Coward | 26484 | [26484-galador-the-prince-and-the-coward.json](./26484-galador-the-prince-and-the-coward.json) |
+| Galador: The Prince and the Coward - Digital Deluxe Edition | 406334 | [406334-galador-the-prince-and-the-coward-digital-deluxe-edition.json](./406334-galador-the-prince-and-the-coward-digital-deluxe-edition.json) |
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galaga | 239156 | [239156-galaga.json](./239156-galaga.json) |
 | Galaga | 254287 | [254287-galaga.json](./254287-galaga.json) |
@@ -4910,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God'n Spy Add-on: Power & Revolution 2023 Edition | 256989 | [256989-godn-spy-add-on-power-and-revolution-2023-edition.json](./256989-godn-spy-add-on-power-and-revolution-2023-edition.json) |
+| God’s Blessing on That Desire World! | 405872 | [405872-god-s-blessing-on-that-desire-world.json](./405872-god-s-blessing-on-that-desire-world.json) |
 | God's Death | 32747 | [32747-gods-death.json](./32747-gods-death.json) |
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
 | God's Gift | 236876 | [236876-gods-gift.json](./236876-gods-gift.json) |
@@ -5680,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Girl Gone Bad | 127911 | [127911-good-girl-gone-bad.json](./127911-good-girl-gone-bad.json) |
 | Good Girls: Angels With Dirty Intentions | 399638 | [399638-good-girls-angels-with-dirty-intentions.json](./399638-good-girls-angels-with-dirty-intentions.json) |
 | Good Girls: Seduction Starts With a Smile | 406066 | [406066-good-girls-seduction-starts-with-a-smile.json](./406066-good-girls-seduction-starts-with-a-smile.json) |
+| Good Girls: Sweet Faces | 405909 | [405909-good-girls-sweet-faces.json](./405909-good-girls-sweet-faces.json) |
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
 | Good Goliath | 132187 | [132187-good-goliath.json](./132187-good-goliath.json) |
 | Good Goods Incorporated | 129437 | [129437-good-goods-incorporated.json](./129437-good-goods-incorporated.json) |
@@ -7498,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid16 | 270637 | [270637-grid16.json](./270637-grid16.json) |
 | GridBeat! | 366584 | [366584-gridbeat.json](./366584-gridbeat.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
+| Gridbound Tactics | 405892 | [405892-gridbound-tactics.json](./405892-gridbound-tactics.json) |
 | Gridbug | 67680 | [67680-gridbug.json](./67680-gridbug.json) |
 | Gridbusters | 382494 | [382494-gridbusters.json](./382494-gridbusters.json) |
 | Gridcannon Evolution | 123946 | [123946-gridcannon-evolution.json](./123946-gridcannon-evolution.json) |
@@ -7815,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grisaia: Shuuketsu no Hyakka - Les Rassemblement Cent Fruits de la Grisaia | 403209 | [403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json](./403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json) |
 | Grisly Grottos | 271845 | [271845-grisly-grottos.json](./271845-grisly-grottos.json) |
+| Griswold the Goblin | 406243 | [406243-griswold-the-goblin.json](./406243-griswold-the-goblin.json) |
 | Grit | 145372 | [145372-grit.json](./145372-grit.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
 | Grit & Grind | 372620 | [372620-grit-and-grind.json](./372620-grit-and-grind.json) |
