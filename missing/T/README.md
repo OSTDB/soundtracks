@@ -5475,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blighted Core | 385945 | [385945-the-blighted-core.json](./385945-the-blighted-core.json) |
 | The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blind of the New World | 150049 | [150049-the-blind-of-the-new-world.json](./150049-the-blind-of-the-new-world.json) |
+| The Blinking Room | 405767 | [405767-the-blinking-room.json](./405767-the-blinking-room.json) |
 | The Blizzard 30-Year Celebration Collection | 147715 | [147715-the-blizzard-30-year-celebration-collection.json](./147715-the-blizzard-30-year-celebration-collection.json) |
 | The Blob | 94341 | [94341-the-blob.json](./94341-the-blob.json) |
 | The Blobjob | 261797 | [261797-the-blobjob.json](./261797-the-blobjob.json) |
@@ -5768,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Call of Paper Plane | 151441 | [151441-the-call-of-paper-plane.json](./151441-the-call-of-paper-plane.json) |
 | The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
 | The Calling | 339386 | [339386-the-calling.json](./339386-the-calling.json) |
+| The Calling Past | 405781 | [405781-the-calling-past.json](./405781-the-calling-past.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
 | The Callisto Protocol: Day One Edition | 204904 | [204904-the-callisto-protocol-day-one-edition.json](./204904-the-callisto-protocol-day-one-edition.json) |
 | The Callisto Protocol: Digital Deluxe Edition | 205001 | [205001-the-callisto-protocol-digital-deluxe-edition.json](./205001-the-callisto-protocol-digital-deluxe-edition.json) |
@@ -6838,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detective of the Red Horns | 96710 | [96710-the-detective-of-the-red-horns.json](./96710-the-detective-of-the-red-horns.json) |
 | The Detective Reaper Invites | 265962 | [265962-the-detective-reaper-invites.json](./265962-the-detective-reaper-invites.json) |
 | The Detectorist Guild | 373609 | [373609-the-detectorist-guild.json](./373609-the-detectorist-guild.json) |
+| The Detractor | 405326 | [405326-the-detractor.json](./405326-the-detractor.json) |
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
 | The Dev: Enter The Blockchain | 372075 | [372075-the-dev-enter-the-blockchain.json](./372075-the-dev-enter-the-blockchain.json) |
 | The DeviantArt Grind | 369464 | [369464-the-deviantart-grind.json](./369464-the-deviantart-grind.json) |
@@ -8763,6 +8766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Art of Innkeeping | 269192 | [269192-the-hidden-art-of-innkeeping.json](./269192-the-hidden-art-of-innkeeping.json) |
 | The Hidden Below | 9357 | [9357-the-hidden-below.json](./9357-the-hidden-below.json) |
 | The Hidden Dragon | 32157 | [32157-the-hidden-dragon.json](./32157-the-hidden-dragon.json) |
+| The Hidden Evils Club | 405746 | [405746-the-hidden-evils-club.json](./405746-the-hidden-evils-club.json) |
 | The Hidden Fragmentation | 261123 | [261123-the-hidden-fragmentation.json](./261123-the-hidden-fragmentation.json) |
 | The Hidden Game Society | 150254 | [150254-the-hidden-game-society.json](./150254-the-hidden-game-society.json) |
 | The Hidden Ghost | 195483 | [195483-the-hidden-ghost.json](./195483-the-hidden-ghost.json) |
@@ -12025,6 +12029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Others | 218667 | [218667-the-others.json](./218667-the-others.json) |
 | The Others | 343852 | [343852-the-others.json](./343852-the-others.json) |
 | The Others by Paprikari Games | 22086 | [22086-the-others-by-paprikari-games.json](./22086-the-others-by-paprikari-games.json) |
+| The Others Will Join Shortly | 405871 | [405871-the-others-will-join-shortly.json](./405871-the-others-will-join-shortly.json) |
 | The Otherwilde | 202655 | [202655-the-otherwilde.json](./202655-the-otherwilde.json) |
 | The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
 | The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
@@ -22957,6 +22962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
 | Traffic Safety | 199813 | [199813-traffic-safety.json](./199813-traffic-safety.json) |
 | Traffic Safety: Air Scrambled Hard | 204271 | [204271-traffic-safety-air-scrambled-hard.json](./204271-traffic-safety-air-scrambled-hard.json) |
+| Traffic Stop Anomaly | 405870 | [405870-traffic-stop-anomaly.json](./405870-traffic-stop-anomaly.json) |
 | Traffic Tour | 87282 | [87282-traffic-tour.json](./87282-traffic-tour.json) |
 | Traffic Tour Classic | 249690 | [249690-traffic-tour-classic.json](./249690-traffic-tour-classic.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
