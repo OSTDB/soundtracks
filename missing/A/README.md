@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Abiotic Factor | 219126 | [219126-abiotic-factor.json](./219126-abiotic-factor.json) |
 | Abiotic Factor - Supporter's Pack | 384765 | [384765-abiotic-factor-supporters-pack.json](./384765-abiotic-factor-supporters-pack.json) |
+| Abiotic Factor: Entropic Break | 405130 | [405130-abiotic-factor-entropic-break.json](./405130-abiotic-factor-entropic-break.json) |
 | Abiotic Factor: Temple of Stone | 376105 | [376105-abiotic-factor-temple-of-stone.json](./376105-abiotic-factor-temple-of-stone.json) |
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Abject Abyss | 337788 | [337788-abject-abyss.json](./337788-abject-abyss.json) |
@@ -5923,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Kamen Rider: Rider Generation | 65849 | [65849-all-kamen-rider-rider-generation.json](./65849-all-kamen-rider-rider-generation.json) |
 | All Kamen Rider: Rider Generation 2 | 64575 | [64575-all-kamen-rider-rider-generation-2.json](./64575-all-kamen-rider-rider-generation-2.json) |
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
+| All Lanes Must Exit | 405118 | [405118-all-lanes-must-exit.json](./405118-all-lanes-must-exit.json) |
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
@@ -8697,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anode Heart: Tenelon | 397589 | [397589-anode-heart-tenelon.json](./397589-anode-heart-tenelon.json) |
 | Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
+| Anodyne Franchise Bundle | 405119 | [405119-anodyne-franchise-bundle.json](./405119-anodyne-franchise-bundle.json) |
 | Anodyne Mobile | 108454 | [108454-anodyne-mobile.json](./108454-anodyne-mobile.json) |
 | Anoldor | 181300 | [181300-anoldor.json](./181300-anoldor.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
