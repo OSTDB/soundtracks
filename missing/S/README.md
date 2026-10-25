@@ -613,16 +613,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Dead Island 2 - Cosmetic Pack | 307139 | [307139-saints-row-dead-island-2-cosmetic-pack.json](./307139-saints-row-dead-island-2-cosmetic-pack.json) |
 | Saints Row: Double Pack | 144125 | [144125-saints-row-double-pack.json](./144125-saints-row-double-pack.json) |
 | Saints Row: Drive-By | 77307 | [77307-saints-row-drive-by.json](./77307-saints-row-drive-by.json) |
+| Saints Row: Exclusive Unkut Pack | 400843 | [400843-saints-row-exclusive-unkut-pack.json](./400843-saints-row-exclusive-unkut-pack.json) |
 | Saints Row: Front to Back Cosmetic Pack | 307141 | [307141-saints-row-front-to-back-cosmetic-pack.json](./307141-saints-row-front-to-back-cosmetic-pack.json) |
+| Saints Row: Funky Fresh Pack | 400840 | [400840-saints-row-funky-fresh-pack.json](./400840-saints-row-funky-fresh-pack.json) |
 | Saints Row: Gat Out of Hell | 7708 | [7708-saints-row-gat-out-of-hell.json](./7708-saints-row-gat-out-of-hell.json) |
 | Saints Row: Going Commando Cosmetic Pack | 307144 | [307144-saints-row-going-commando-cosmetic-pack.json](./307144-saints-row-going-commando-cosmetic-pack.json) |
 | Saints Row: Gold Edition | 169195 | [169195-saints-row-gold-edition.json](./169195-saints-row-gold-edition.json) |
+| Saints Row: Ho Ho Ho Pack | 400842 | [400842-saints-row-ho-ho-ho-pack.json](./400842-saints-row-ho-ho-ho-pack.json) |
 | Saints Row: Idols Anarchy Pack | 307146 | [307146-saints-row-idols-anarchy-pack.json](./307146-saints-row-idols-anarchy-pack.json) |
+| Saints Row: Industrial Map Pack | 400841 | [400841-saints-row-industrial-map-pack.json](./400841-saints-row-industrial-map-pack.json) |
 | Saints Row: Los Panteros American Muscle Bundle | 307148 | [307148-saints-row-los-panteros-american-muscle-bundle.json](./307148-saints-row-los-panteros-american-muscle-bundle.json) |
 | Saints Row: Platinum Edition | 169194 | [169194-saints-row-platinum-edition.json](./169194-saints-row-platinum-edition.json) |
 | Saints Row: Saints Criminal Customs | 307149 | [307149-saints-row-saints-criminal-customs.json](./307149-saints-row-saints-criminal-customs.json) |
 | Saints Row: SteelSeries Cosmetic Pack | 307151 | [307151-saints-row-steelseries-cosmetic-pack.json](./307151-saints-row-steelseries-cosmetic-pack.json) |
 | Saints Row: The Big Purple Package | 283181 | [283181-saints-row-the-big-purple-package.json](./283181-saints-row-the-big-purple-package.json) |
+| Saints Row: The Gankster Pack | 400839 | [400839-saints-row-the-gankster-pack.json](./400839-saints-row-the-gankster-pack.json) |
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
 | Saints Row: The Third - Enter the Dominatrix | 94133 | [94133-saints-row-the-third-enter-the-dominatrix.json](./94133-saints-row-the-third-enter-the-dominatrix.json) |
 | Saints Row: The Third - Genkibowl VII | 78454 | [78454-saints-row-the-third-genkibowl-vii.json](./78454-saints-row-the-third-genkibowl-vii.json) |
@@ -9431,6 +9436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinner 97 | 203755 | [203755-sinner-97.json](./203755-sinner-97.json) |
+| Sinner Maker | 400740 | [400740-sinner-maker.json](./400740-sinner-maker.json) |
 | Sinner's Grimoire | 359340 | [359340-sinners-grimoire.json](./359340-sinners-grimoire.json) |
 | Sinner's Tavern | 235623 | [235623-sinners-tavern.json](./235623-sinners-tavern.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
@@ -10212,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skwish | 212294 | [212294-skwish.json](./212294-skwish.json) |
 | Sky & Heart Last Survival | 83342 | [83342-sky-and-heart-last-survival.json](./83342-sky-and-heart-last-survival.json) |
 | Sky 2120 | 408216 | [408216-sky-2120.json](./408216-sky-2120.json) |
+| Sky Abyss | 400823 | [400823-sky-abyss.json](./400823-sky-abyss.json) |
 | Sky Aces | 343990 | [343990-sky-aces.json](./343990-sky-aces.json) |
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
 | Sky Aces 2 | 295937 | [295937-sky-aces-2.json](./295937-sky-aces-2.json) |
@@ -15134,6 +15141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
 | Soul Challenge | 149324 | [149324-soul-challenge.json](./149324-soul-challenge.json) |
 | Soul Chomper | 230867 | [230867-soul-chomper.json](./230867-soul-chomper.json) |
+| Soul Clicker | 400739 | [400739-soul-clicker.json](./400739-soul-clicker.json) |
 | Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
 | Soul Crystal | 47194 | [47194-soul-crystal.json](./47194-soul-crystal.json) |
 | Soul Dance Party | 141522 | [141522-soul-dance-party.json](./141522-soul-dance-party.json) |
@@ -18268,6 +18276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Fiction: Friend's Pass | 347331 | [347331-split-fiction-friends-pass.json](./347331-split-fiction-friends-pass.json) |
 | Split FPV: Drone Racing | 420565 | [420565-split-fpv-drone-racing.json](./420565-split-fpv-drone-racing.json) |
 | Split Happens | 400899 | [400899-split-happens.json](./400899-split-happens.json) |
+| Split Happens! | 400845 | [400845-split-happens.json](./400845-split-happens.json) |
 | Split Masters | 99498 | [99498-split-masters.json](./99498-split-masters.json) |
 | Split or Steal | 123963 | [123963-split-or-steal.json](./123963-split-or-steal.json) |
 | Split Out | 422466 | [422466-split-out.json](./422466-split-out.json) |
@@ -25337,6 +25346,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cute Alien | 132498 | [132498-super-cute-alien.json](./132498-super-cute-alien.json) |
 | Super Cute Alien's Adventure | 242584 | [242584-super-cute-aliens-adventure.json](./242584-super-cute-aliens-adventure.json) |
 | Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
+| Super Daisenryaku | 400829 | [400829-super-daisenryaku.json](./400829-super-daisenryaku.json) |
+| Super Daisenryaku | 400833 | [400833-super-daisenryaku.json](./400833-super-daisenryaku.json) |
+| Super Daisenryaku | 400835 | [400835-super-daisenryaku.json](./400835-super-daisenryaku.json) |
+| Super Daisenryaku 68K | 400834 | [400834-super-daisenryaku-68k.json](./400834-super-daisenryaku-68k.json) |
+| Super Daisenryaku 98 | 400836 | [400836-super-daisenryaku-98.json](./400836-super-daisenryaku-98.json) |
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
 | Super Danganronpa Another 2 ~The Moon of Hope and Sun of Despair~ | 143215 | [143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json](./143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json) |
 | Super Danganronpa Another 2: Summer Camp | 411317 | [411317-super-danganronpa-another-2-summer-camp.json](./411317-super-danganronpa-another-2-summer-camp.json) |
