@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Trial Love | 108911 | [108911-wangan-trial-love.json](./108911-wangan-trial-love.json) |
 | Wangan Warrior X | 81883 | [81883-wangan-warrior-x.json](./81883-wangan-warrior-x.json) |
 | Wángguó de Mófǎ Zhànzhēng | 163831 | [163831-wangguo-de-mofa-zhanzheng.json](./163831-wangguo-de-mofa-zhanzheng.json) |
+| Wàngyuè | 403953 | [403953-wangyue.json](./403953-wangyue.json) |
 | Wangzha: Dou Dizhu Roguelike | 420581 | [420581-wangzha-dou-dizhu-roguelike.json](./420581-wangzha-dou-dizhu-roguelike.json) |
 | Wani Wani Attack | 210896 | [210896-wani-wani-attack.json](./210896-wani-wani-attack.json) |
 | Wani Wani Picnic | 204208 | [204208-wani-wani-picnic.json](./204208-wani-wani-picnic.json) |
