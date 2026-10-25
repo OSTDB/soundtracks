@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero-G Gunfight | 150931 | [150931-zero-g-gunfight.json](./150931-zero-g-gunfight.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
 | Zero-G Revolution | 151124 | [151124-zero-g-revolution.json](./151124-zero-g-revolution.json) |
+| Zero-G VR | 32828 | [32828-zero-g-vr.json](./32828-zero-g-vr.json) |
 | Zero: Circle of Flow | 145579 | [145579-zero-circle-of-flow.json](./145579-zero-circle-of-flow.json) |
 | Zero's Fantastic Anecdote | 284789 | [284789-zeros-fantastic-anecdote.json](./284789-zeros-fantastic-anecdote.json) |
 | Zero4 Champ DooZy-J | 125856 | [125856-zero4-champ-doozy-j.json](./125856-zero4-champ-doozy-j.json) |
@@ -1583,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie War: New World | 194157 | [194157-zombie-war-new-world.json](./194157-zombie-war-new-world.json) |
 | Zombie Warrior Man | 349890 | [349890-zombie-warrior-man.json](./349890-zombie-warrior-man.json) |
 | Zombie Wars | 151263 | [151263-zombie-wars.json](./151263-zombie-wars.json) |
+| Zombie Wars: Invasion | 33859 | [33859-zombie-wars-invasion.json](./33859-zombie-wars-invasion.json) |
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
 | Zombie Watch | 82359 | [82359-zombie-watch.json](./82359-zombie-watch.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
