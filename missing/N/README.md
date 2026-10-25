@@ -3480,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
+| Night Call: Home | 413159 | [413159-night-call-home.json](./413159-night-call-home.json) |
 | Night Cart: The Immortal Plague | 413880 | [413880-night-cart-the-immortal-plague.json](./413880-night-cart-the-immortal-plague.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
 | Night Castle | 295075 | [295075-night-castle.json](./295075-night-castle.json) |
