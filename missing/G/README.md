@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemstone Puzzle Fury | 274028 | [274028-gemstone-puzzle-fury.json](./274028-gemstone-puzzle-fury.json) |
 | Gemstone Puzzle Fury: Expansion Pack | 275731 | [275731-gemstone-puzzle-fury-expansion-pack.json](./275731-gemstone-puzzle-fury-expansion-pack.json) |
 | Gemstone Realm | 368505 | [368505-gemstone-realm.json](./368505-gemstone-realm.json) |
+| Gemstone Tree | 399567 | [399567-gemstone-tree.json](./399567-gemstone-tree.json) |
 | Gemstone Warrior | 25693 | [25693-gemstone-warrior.json](./25693-gemstone-warrior.json) |
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
