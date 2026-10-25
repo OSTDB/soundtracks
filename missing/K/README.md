@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor III: Deluxe Edition | 336131 | [336131-killing-floor-iii-deluxe-edition.json](./336131-killing-floor-iii-deluxe-edition.json) |
 | Killing Floor III: Elite Nightfall Edition | 336153 | [336153-killing-floor-iii-elite-nightfall-edition.json](./336153-killing-floor-iii-elite-nightfall-edition.json) |
 | Killing Floor III: Operation Breakout | 380411 | [380411-killing-floor-iii-operation-breakout.json](./380411-killing-floor-iii-operation-breakout.json) |
+| Killing Floor III: Operation Deep Freeze | 394676 | [394676-killing-floor-iii-operation-deep-freeze.json](./394676-killing-floor-iii-operation-deep-freeze.json) |
 | Killing Floor III: Operation Shadow Hunter | 411360 | [411360-killing-floor-iii-operation-shadow-hunter.json](./411360-killing-floor-iii-operation-shadow-hunter.json) |
 | Killing Floor III: Rearmament | 370716 | [370716-killing-floor-iii-rearmament.json](./370716-killing-floor-iii-rearmament.json) |
 | Killing Floor: Ash Harding Character Pack | 162718 | [162718-killing-floor-ash-harding-character-pack.json](./162718-killing-floor-ash-harding-character-pack.json) |
@@ -2252,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Machine | 355234 | [355234-killing-machine.json](./355234-killing-machine.json) |
 | Killing Machine Loves Slime Prince | 300694 | [300694-killing-machine-loves-slime-prince.json](./300694-killing-machine-loves-slime-prince.json) |
 | Killing Machine: Movement | 263388 | [263388-killing-machine-movement.json](./263388-killing-machine-movement.json) |
+| Killing Momentum: Umbral Moon | 394089 | [394089-killing-momentum-umbral-moon.json](./394089-killing-momentum-umbral-moon.json) |
 | Killing Moon | 74725 | [74725-killing-moon.json](./74725-killing-moon.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
 | Killing Time | 4334 | [4334-killing-time.json](./4334-killing-time.json) |
@@ -2317,7 +2319,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
+| Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
 | Kimi ni Steady | 263694 | [263694-kimi-ni-steady.json](./263694-kimi-ni-steady.json) |
@@ -2730,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Throne: Royal Delights | 208592 | [208592-kings-throne-royal-delights.json](./208592-kings-throne-royal-delights.json) |
 | King's Valley | 19727 | [19727-kings-valley.json](./19727-kings-valley.json) |
 | King's Vessel | 108176 | [108176-kings-vessel.json](./108176-kings-vessel.json) |
+| King's Well | 393931 | [393931-kings-well.json](./393931-kings-well.json) |
 | KingAndSlaves | 122401 | [122401-kingandslaves.json](./122401-kingandslaves.json) |
 | Kingdom | 277325 | [277325-kingdom.json](./277325-kingdom.json) |
 | Kingdom | 304975 | [304975-kingdom.json](./304975-kingdom.json) |
@@ -3100,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira Kira Rainbow Pack | 26562 | [26562-kira-kira-rainbow-pack.json](./26562-kira-kira-rainbow-pack.json) |
 | Kira Kira: Rock’n’Roll Show | 242421 | [242421-kira-kira-rock-n-roll-show.json](./242421-kira-kira-rock-n-roll-show.json) |
 | Kira Legends | 285548 | [285548-kira-legends.json](./285548-kira-legends.json) |
+| Kira vs. Akira | 394701 | [394701-kira-vs-akira.json](./394701-kira-vs-akira.json) |
 | Kira-Kira Catgirl Rampage | 369193 | [369193-kira-kira-catgirl-rampage.json](./369193-kira-kira-catgirl-rampage.json) |
 | Kira-kira Star Night | 134518 | [134518-kira-kira-star-night.json](./134518-kira-kira-star-night.json) |
 | Kira-kira Star Night AC | 206341 | [206341-kira-kira-star-night-ac.json](./206341-kira-kira-star-night-ac.json) |
@@ -4090,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kofoin: Swarm Defense | 374821 | [374821-kofoin-swarm-defense.json](./374821-kofoin-swarm-defense.json) |
 | Kofun ha Ikiteiru: Maholova Club no Shitai Sagashi | 206563 | [206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json](./206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json) |
 | Kogaion | 410646 | [410646-kogaion.json](./410646-kogaion.json) |
+| Koganei-sou to Konjiki no Agehachou | 394580 | [394580-koganei-sou-to-konjiki-no-agehachou.json](./394580-koganei-sou-to-konjiki-no-agehachou.json) |
 | Kogent Defender | 102916 | [102916-kogent-defender.json](./102916-kogent-defender.json) |
 | Kogepan: Pan mo Game wo Yaru-rashii | 267588 | [267588-kogepan-pan-mo-game-wo-yaru-rashii.json](./267588-kogepan-pan-mo-game-wo-yaru-rashii.json) |
 | Koguma-Chan no Daibouken | 286586 | [286586-koguma-chan-no-daibouken.json](./286586-koguma-chan-no-daibouken.json) |
