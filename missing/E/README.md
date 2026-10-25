@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldervale | 118089 | [118089-eldervale.json](./118089-eldervale.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
+| ElDorado | 415753 | [415753-eldorado.json](./415753-eldorado.json) |
 | Eldorado Gate Volume 1 | 5553 | [5553-eldorado-gate-volume-1.json](./5553-eldorado-gate-volume-1.json) |
 | Eldorado Gate Volume 2 | 5554 | [5554-eldorado-gate-volume-2.json](./5554-eldorado-gate-volume-2.json) |
 | Eldorado Gate Volume 3 | 5555 | [5555-eldorado-gate-volume-3.json](./5555-eldorado-gate-volume-3.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electroquest: Resistance is Futile | 101310 | [101310-electroquest-resistance-is-futile.json](./101310-electroquest-resistance-is-futile.json) |
 | Elefunk | 21808 | [21808-elefunk.json](./21808-elefunk.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
+| Elegorithm | 415738 | [415738-elegorithm.json](./415738-elegorithm.json) |
 | Elegos | 197069 | [197069-elegos.json](./197069-elegos.json) |
 | Elegy for a Dead World | 16680 | [16680-elegy-for-a-dead-world.json](./16680-elegy-for-a-dead-world.json) |
 | Elegy for Them Vigil | 315490 | [315490-elegy-for-them-vigil.json](./315490-elegy-for-them-vigil.json) |
