@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Lab | 252573 | [252573-happy-lab.json](./252573-happy-lab.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Lesson: First Lesson | 64753 | [64753-happy-lesson-first-lesson.json](./64753-happy-lesson-first-lesson.json) |
+| Happy Little Farm | 405906 | [405906-happy-little-farm.json](./405906-happy-little-farm.json) |
 | Happy Live, Show Up! | 194472 | [194472-happy-live-show-up.json](./194472-happy-live-show-up.json) |
 | Happy Margaret! | 60479 | [60479-happy-margaret.json](./60479-happy-margaret.json) |
 | Happy Marriage Project: Starting from 9 Years Old | 151095 | [151095-happy-marriage-project-starting-from-9-years-old.json](./151095-happy-marriage-project-starting-from-9-years-old.json) |
@@ -2630,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hear No Evil | 114727 | [114727-hear-no-evil.json](./114727-hear-no-evil.json) |
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
+| Hearing Voices | 405323 | [405323-hearing-voices.json](./405323-hearing-voices.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
 | Heart | 285573 | [285573-heart.json](./285573-heart.json) |
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
@@ -5670,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Legacy: Dark Heirloom | 416709 | [416709-hidden-legacy-dark-heirloom.json](./416709-hidden-legacy-dark-heirloom.json) |
 | Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
 | Hidden Legends | 370817 | [370817-hidden-legends.json](./370817-hidden-legends.json) |
+| Hidden Legends 2 | 405908 | [405908-hidden-legends-2.json](./405908-hidden-legends-2.json) |
 | Hidden Life | 90406 | [90406-hidden-life.json](./90406-hidden-life.json) |
 | Hidden Liner | 91252 | [91252-hidden-liner.json](./91252-hidden-liner.json) |
 | Hidden Magic Town | 190008 | [190008-hidden-magic-town.json](./190008-hidden-magic-town.json) |
@@ -6637,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
 | Hiryuu no Ken Densetsu GB: Real Version | 351575 | [351575-hiryuu-no-ken-densetsu-gb-real-version.json](./351575-hiryuu-no-ken-densetsu-gb-real-version.json) |
 | Hiryuu no Ken Densetsu GB: SD Version | 351574 | [351574-hiryuu-no-ken-densetsu-gb-sd-version.json](./351574-hiryuu-no-ken-densetsu-gb-sd-version.json) |
+| Hiryuu no Ken Gaiden | 406343 | [406343-hiryuu-no-ken-gaiden.json](./406343-hiryuu-no-ken-gaiden.json) |
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
 | Hiryuu no Ken III: Go-nin no Ryuu Senshi | 61161 | [61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json](./61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json) |
 | Hiryuu no Ken Retsuden GB | 186591 | [186591-hiryuu-no-ken-retsuden-gb.json](./186591-hiryuu-no-ken-retsuden-gb.json) |
@@ -7675,6 +7679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homo Evolution | 180572 | [180572-homo-evolution.json](./180572-homo-evolution.json) |
 | Homo Flimsy | 103433 | [103433-homo-flimsy.json](./103433-homo-flimsy.json) |
 | Homo Machina | 101468 | [101468-homo-machina.json](./101468-homo-machina.json) |
+| Homo Sovieticus | 405885 | [405885-homo-sovieticus.json](./405885-homo-sovieticus.json) |
 | Homunculus | 255669 | [255669-homunculus.json](./255669-homunculus.json) |
 | Homunculus | 319807 | [319807-homunculus.json](./319807-homunculus.json) |
 | Homunculus Hotel | 192268 | [192268-homunculus-hotel.json](./192268-homunculus-hotel.json) |
