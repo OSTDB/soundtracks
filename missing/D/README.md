@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
 | Data Download | 309193 | [309193-data-download.json](./309193-data-download.json) |
 | Data Drift | 344519 | [344519-data-drift.json](./344519-data-drift.json) |
+| Data Duty | 413240 | [413240-data-duty.json](./413240-data-duty.json) |
 | Data East All-Star Collection | 77428 | [77428-data-east-all-star-collection.json](./77428-data-east-all-star-collection.json) |
 | Data East Arcade 1 | 149290 | [149290-data-east-arcade-1.json](./149290-data-east-arcade-1.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
@@ -6523,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
+| Devil Drive Polaris | 412774 | [412774-devil-drive-polaris.json](./412774-devil-drive-polaris.json) |
 | Devil Dumper Doris | 244918 | [244918-devil-dumper-doris.json](./244918-devil-dumper-doris.json) |
 | Devil Eater | 38506 | [38506-devil-eater.json](./38506-devil-eater.json) |
 | Devil Edge | 169450 | [169450-devil-edge.json](./169450-devil-edge.json) |
