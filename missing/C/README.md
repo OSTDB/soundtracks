@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
 | Cat Burglar | 380058 | [380058-cat-burglar.json](./380058-cat-burglar.json) |
 | Cat Busters: Collections | 144120 | [144120-cat-busters-collections.json](./144120-cat-busters-collections.json) |
+| Cat Cafe | 409371 | [409371-cat-cafe.json](./409371-cat-cafe.json) |
 | Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
 | Cat Cafe Manager 2: Big City Bliss | 313810 | [313810-cat-cafe-manager-2-big-city-bliss.json](./313810-cat-cafe-manager-2-big-city-bliss.json) |
 | Cat Cafe Simulator | 217249 | [217249-cat-cafe-simulator.json](./217249-cat-cafe-simulator.json) |
@@ -3821,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
 | Causality | 27072 | [27072-causality.json](./27072-causality.json) |
 | Causality Effect | 228343 | [228343-causality-effect.json](./228343-causality-effect.json) |
+| Causality: Antopolia | 409364 | [409364-causality-antopolia.json](./409364-causality-antopolia.json) |
 | Cause of Death | 91937 | [91937-cause-of-death.json](./91937-cause-of-death.json) |
 | Cause to Exist | 365174 | [365174-cause-to-exist.json](./365174-cause-to-exist.json) |
 | Causeway | 105406 | [105406-causeway.json](./105406-causeway.json) |
@@ -12039,6 +12041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrosion Protocol | 377073 | [377073-corrosion-protocol.json](./377073-corrosion-protocol.json) |
 | Corrosion: Cold Winter Waiting | 126027 | [126027-corrosion-cold-winter-waiting.json](./126027-corrosion-cold-winter-waiting.json) |
 | Corrosion: Cold Winter Waiting - Enhanced Edition | 35752 | [35752-corrosion-cold-winter-waiting-enhanced-edition.json](./35752-corrosion-cold-winter-waiting-enhanced-edition.json) |
+| Corrosiva | 409363 | [409363-corrosiva.json](./409363-corrosiva.json) |
 | Corru.Observer | 241239 | [241239-corru-observer.json](./241239-corru-observer.json) |
 | Corrupt | 343328 | [343328-corrupt.json](./343328-corrupt.json) |
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
@@ -13396,6 +13399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shinchan My Sugoroku Great Strategy | 390523 | [390523-crayon-shinchan-my-sugoroku-great-strategy.json](./390523-crayon-shinchan-my-sugoroku-great-strategy.json) |
 | Crayon Story: Thumbelina | 414884 | [414884-crayon-story-thumbelina.json](./414884-crayon-story-thumbelina.json) |
 | CrayonCore | 324990 | [324990-crayoncore.json](./324990-crayoncore.json) |
+| Crayondle | 409342 | [409342-crayondle.json](./409342-crayondle.json) |
 | Crayons | 159297 | [159297-crayons.json](./159297-crayons.json) |
 | Crayta | 133937 | [133937-crayta.json](./133937-crayta.json) |
 | Craz'D | 64870 | [64870-crazd.json](./64870-crazd.json) |
@@ -16897,6 +16901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CycloManiacs | 234694 | [234694-cyclomaniacs.json](./234694-cyclomaniacs.json) |
 | CycloManiacs 2 | 234696 | [234696-cyclomaniacs-2.json](./234696-cyclomaniacs-2.json) |
 | CycloManiacs Epic | 234698 | [234698-cyclomaniacs-epic.json](./234698-cyclomaniacs-epic.json) |
+| Cyclomaniacs Racers | 409354 | [409354-cyclomaniacs-racers.json](./409354-cyclomaniacs-racers.json) |
 | Cyclone | 133830 | [133830-cyclone.json](./133830-cyclone.json) |
 | Cyclone | 197556 | [197556-cyclone.json](./197556-cyclone.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
