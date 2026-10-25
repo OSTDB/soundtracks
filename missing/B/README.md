@@ -6551,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Wackadoo Watch | 231828 | [231828-bingo-wackadoo-watch.json](./231828-bingo-wackadoo-watch.json) |
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
+| BingoBango | 107462 | [107462-bingobango.json](./107462-bingobango.json) |
 | Bingus: My Beloved | 190888 | [190888-bingus-my-beloved.json](./190888-bingus-my-beloved.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
