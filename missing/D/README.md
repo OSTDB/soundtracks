@@ -13390,6 +13390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dressing Room | 361320 | [361320-dressing-room.json](./361320-dressing-room.json) |
 | Dressmaker | 365465 | [365465-dressmaker.json](./365465-dressmaker.json) |
 | DressMaker | 168654 | [168654-dressmaker.json](./168654-dressmaker.json) |
+| Dressmaker Simulator | 421422 | [421422-dressmaker-simulator.json](./421422-dressmaker-simulator.json) |
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
 | Drew | 176747 | [176747-drew.json](./176747-drew.json) |
 | Drew and the Floating Labyrinth | 35867 | [35867-drew-and-the-floating-labyrinth.json](./35867-drew-and-the-floating-labyrinth.json) |
@@ -13889,6 +13890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druaga Online: The Story of Aon | 54947 | [54947-druaga-online-the-story-of-aon.json](./54947-druaga-online-the-story-of-aon.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
 | Drug Business | 369040 | [369040-drug-business.json](./369040-drug-business.json) |
+| Drug Dealer 2049 | 421459 | [421459-drug-dealer-2049.json](./421459-drug-dealer-2049.json) |
 | Drug Dealer Manager | 217264 | [217264-drug-dealer-manager.json](./217264-drug-dealer-manager.json) |
 | Drug Dealer: Schedule I | 370790 | [370790-drug-dealer-schedule-i.json](./370790-drug-dealer-schedule-i.json) |
 | Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
@@ -14291,6 +14293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude in the Dark | 392863 | [392863-dude-in-the-dark.json](./392863-dude-in-the-dark.json) |
 | Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
+| Dude Perfect: Trickshot Challenge | 421397 | [421397-dude-perfect-trickshot-challenge.json](./421397-dude-perfect-trickshot-challenge.json) |
 | Dude Quest | 240139 | [240139-dude-quest.json](./240139-dude-quest.json) |
 | Dude Simulator | 37419 | [37419-dude-simulator.json](./37419-dude-simulator.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
