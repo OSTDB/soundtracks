@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahjongus: Mystery of Fortescue | 316192 | [316192-mahjongus-mystery-of-fortescue.json](./316192-mahjongus-mystery-of-fortescue.json) |
+| Mahjongus: The Warlock Within | 405900 | [405900-mahjongus-the-warlock-within.json](./405900-mahjongus-the-warlock-within.json) |
 | Mahluk: Dark demon | 31988 | [31988-mahluk-dark-demon.json](./31988-mahluk-dark-demon.json) |
 | Maho Shojo Ai | 97724 | [97724-maho-shojo-ai.json](./97724-maho-shojo-ai.json) |
 | Maho Shojo Pretty Sammy: Heart no Kimochi | 61330 | [61330-maho-shojo-pretty-sammy-heart-no-kimochi.json](./61330-maho-shojo-pretty-sammy-heart-no-kimochi.json) |
@@ -5909,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
 | Meditation VR | 168651 | [168651-meditation-vr.json](./168651-meditation-vr.json) |
 | Mediterranea Inferno | 252528 | [252528-mediterranea-inferno.json](./252528-mediterranea-inferno.json) |
+| Medium Chronicles: Room 644 | 405753 | [405753-medium-chronicles-room-644.json](./405753-medium-chronicles-room-644.json) |
 | Medium Rare | 128356 | [128356-medium-rare.json](./128356-medium-rare.json) |
 | Medium Rare | 383136 | [383136-medium-rare.json](./383136-medium-rare.json) |
 | Medium-naut | 151559 | [151559-medium-naut.json](./151559-medium-naut.json) |
@@ -9667,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Bouillon | 405630 | [405630-million-bouillon.json](./405630-million-bouillon.json) |
 | Million Depth | 262869 | [262869-million-depth.json](./262869-million-depth.json) |
 | Million Dollar Adventure | 88658 | [88658-million-dollar-adventure.json](./88658-million-dollar-adventure.json) |
+| Million Dollar Boys: OtomeGame | 405895 | [405895-million-dollar-boys-otomegame.json](./405895-million-dollar-boys-otomegame.json) |
 | Million Dollar Password: 2009 Edition | 67397 | [67397-million-dollar-password-2009-edition.json](./67397-million-dollar-password-2009-edition.json) |
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
 | Million Dungeon | 130059 | [130059-million-dungeon.json](./130059-million-dungeon.json) |
@@ -10677,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimum Mage Effort | 401049 | [401049-minimum-mage-effort.json](./401049-minimum-mage-effort.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
+| Mining and Dwarves | 405321 | [405321-mining-and-dwarves.json](./405321-mining-and-dwarves.json) |
 | Mining Away! | 408242 | [408242-mining-away.json](./408242-mining-away.json) |
 | Mining Cats | 191156 | [191156-mining-cats.json](./191156-mining-cats.json) |
 | Mining Company | 342103 | [342103-mining-company.json](./342103-mining-company.json) |
@@ -10818,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minnie's Eggs-Aspirating Hen House | 246513 | [246513-minnies-eggs-aspirating-hen-house.json](./246513-minnies-eggs-aspirating-hen-house.json) |
 | Minnie's Fruit Fiasco | 246514 | [246514-minnies-fruit-fiasco.json](./246514-minnies-fruit-fiasco.json) |
 | Minnie's Pearls | 246515 | [246515-minnies-pearls.json](./246515-minnies-pearls.json) |
+| Minnow | 405757 | [405757-minnow.json](./405757-minnow.json) |
 | Mino Monsters | 176697 | [176697-mino-monsters.json](./176697-mino-monsters.json) |
 | Mino Monsters 2: Evolution | 38735 | [38735-mino-monsters-2-evolution.json](./38735-mino-monsters-2-evolution.json) |
 | Mino Saga | 81040 | [81040-mino-saga.json](./81040-mino-saga.json) |
@@ -12073,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moékuri | 76546 | [76546-moekuri.json](./76546-moekuri.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moémon Mega FireRed | 229615 | [229615-moemon-mega-firered.json](./229615-moemon-mega-firered.json) |
+| Moémon Quetzal | 406271 | [406271-moemon-quetzal.json](./406271-moemon-quetzal.json) |
 | Moémon: Heart of Gold | 261128 | [261128-moemon-heart-of-gold.json](./261128-moemon-heart-of-gold.json) |
 | Moen | 258350 | [258350-moen.json](./258350-moen.json) |
 | Moeras | 129565 | [129565-moeras.json](./129565-moeras.json) |
@@ -12446,6 +12452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Simulator | 304431 | [304431-money-simulator.json](./304431-money-simulator.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
+| Money Tree | 405322 | [405322-money-tree.json](./405322-money-tree.json) |
 | Money Wash Tycoon | 358659 | [358659-money-wash-tycoon.json](./358659-money-wash-tycoon.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
 | MoneyMania | 93394 | [93394-moneymania.json](./93394-moneymania.json) |
@@ -12561,6 +12568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
 | Monkey Swag | 96580 | [96580-monkey-swag.json](./96580-monkey-swag.json) |
+| Monkey Tales | 405324 | [405324-monkey-tales.json](./405324-monkey-tales.json) |
 | Monkey Tales: The Abbey of Aviath | 18459 | [18459-monkey-tales-the-abbey-of-aviath.json](./18459-monkey-tales-the-abbey-of-aviath.json) |
 | Monkey Tales: The Castle of Draconion | 18460 | [18460-monkey-tales-the-castle-of-draconion.json](./18460-monkey-tales-the-castle-of-draconion.json) |
 | Monkey Tales: The Museum of Anything | 18458 | [18458-monkey-tales-the-museum-of-anything.json](./18458-monkey-tales-the-museum-of-anything.json) |
