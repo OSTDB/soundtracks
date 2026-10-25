@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - Versus | 314400 | [314400-warhammer-vermintide-2-versus.json](./314400-warhammer-vermintide-2-versus.json) |
 | Warhammer: Vermintide 2 - Warrior Priest Career | 195414 | [195414-warhammer-vermintide-2-warrior-priest-career.json](./195414-warhammer-vermintide-2-warrior-priest-career.json) |
 | Warhammer: Vermintide 2 - Winds of Magic | 115671 | [115671-warhammer-vermintide-2-winds-of-magic.json](./115671-warhammer-vermintide-2-winds-of-magic.json) |
+| Warhammer: Vermintide VR - Hero Trials | 34254 | [34254-warhammer-vermintide-vr-hero-trials.json](./34254-warhammer-vermintide-vr-hero-trials.json) |
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
@@ -5102,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish of Abyss Dungeon | 195143 | [195143-wish-of-abyss-dungeon.json](./195143-wish-of-abyss-dungeon.json) |
 | Wish Of Hers | 385744 | [385744-wish-of-hers.json](./385744-wish-of-hers.json) |
 | Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
+| Wish Project | 35307 | [35307-wish-project.json](./35307-wish-project.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
 | Wish Upon | 390618 | [390618-wish-upon.json](./390618-wish-upon.json) |
 | Wish Upon a Block | 388707 | [388707-wish-upon-a-block.json](./388707-wish-upon-a-block.json) |
