@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopian Mining | 408744 | [408744-utopian-mining.json](./408744-utopian-mining.json) |
 | Utopias: Navigating Without Coordinates | 132635 | [132635-utopias-navigating-without-coordinates.json](./132635-utopias-navigating-without-coordinates.json) |
 | Utopos | 156635 | [156635-utopos.json](./156635-utopos.json) |
+| uTris | 415733 | [415733-utris.json](./415733-utris.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsukushii Nihongo no Kakikata Hanashikata DS | 124114 | [124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json](./124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
