@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damage: Sadistic Butchering of Humanity | 30788 | [30788-damage-sadistic-butchering-of-humanity.json](./30788-damage-sadistic-butchering-of-humanity.json) |
 | Damaged | 181340 | [181340-damaged.json](./181340-damaged.json) |
 | Damaged Core | 24981 | [24981-damaged-core.json](./24981-damaged-core.json) |
+| Damaged In Transit | 121738 | [121738-damaged-in-transit.json](./121738-damaged-in-transit.json) |
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damascus Gear: Operation Osaka - HD Edition | 90093 | [90093-damascus-gear-operation-osaka-hd-edition.json](./90093-damascus-gear-operation-osaka-hd-edition.json) |
@@ -5197,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon of the Time | 341545 | [341545-demon-of-the-time.json](./341545-demon-of-the-time.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
+| Demon Pit | 121718 | [121718-demon-pit.json](./121718-demon-pit.json) |
 | Demon Positive | 376657 | [376657-demon-positive.json](./376657-demon-positive.json) |
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
 | Demon Queen Melissa | 116228 | [116228-demon-queen-melissa.json](./116228-demon-queen-melissa.json) |
@@ -7399,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Devil Story: Megami Tensei II | 48656 | [48656-digital-devil-story-megami-tensei-ii.json](./48656-digital-devil-story-megami-tensei-ii.json) |
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
+| Digital Diamond Baseball V8 | 117166 | [117166-digital-diamond-baseball-v8.json](./117166-digital-diamond-baseball-v8.json) |
 | Digital Dreams | 308068 | [308068-digital-dreams.json](./308068-digital-dreams.json) |
 | Digital Dreamware | 38823 | [38823-digital-dreamware.json](./38823-digital-dreamware.json) |
 | Digital Dungeon | 101352 | [101352-digital-dungeon.json](./101352-digital-dungeon.json) |
@@ -12737,6 +12740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread X Collection 5 | 196045 | [196045-dread-x-collection-5.json](./196045-dread-x-collection-5.json) |
 | Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
 | Dreadbone | 347786 | [347786-dreadbone.json](./347786-dreadbone.json) |
+| Dreadborne Drifters | 117371 | [117371-dreadborne-drifters.json](./117371-dreadborne-drifters.json) |
 | DreadBound | 382895 | [382895-dreadbound.json](./382895-dreadbound.json) |
 | Dreadcore: Locked Unit | 354556 | [354556-dreadcore-locked-unit.json](./354556-dreadcore-locked-unit.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
@@ -13935,6 +13939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Dragon | 310262 | [310262-drunken-dragon.json](./310262-drunken-dragon.json) |
 | Drunken Duel 2 | 146712 | [146712-drunken-duel-2.json](./146712-drunken-duel-2.json) |
 | Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
+| Drunken Fist | 117128 | [117128-drunken-fist.json](./117128-drunken-fist.json) |
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
 | Drunken Fist Totally Accurate Beat 'em up | 124272 | [124272-drunken-fist-totally-accurate-beat-em-up.json](./124272-drunken-fist-totally-accurate-beat-em-up.json) |
 | Drunken Goddess Reflux | 399414 | [399414-drunken-goddess-reflux.json](./399414-drunken-goddess-reflux.json) |
