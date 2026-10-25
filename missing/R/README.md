@@ -3105,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
 | Red Crucible: Able Archer | 154061 | [154061-red-crucible-able-archer.json](./154061-red-crucible-able-archer.json) |
 | Red Crucible: Phoenix Rising | 240786 | [240786-red-crucible-phoenix-rising.json](./240786-red-crucible-phoenix-rising.json) |
+| Red Cube VR | 29013 | [29013-red-cube-vr.json](./29013-red-cube-vr.json) |
 | Red Dawn | 373799 | [373799-red-dawn.json](./373799-red-dawn.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
 | Red Dead Redemption | 260735 | [260735-red-dead-redemption.json](./260735-red-dead-redemption.json) |
@@ -3232,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Nose Guy Gauntlet Inc.: The Burnout | 371328 | [371328-red-nose-guy-gauntlet-inc-the-burnout.json](./371328-red-nose-guy-gauntlet-inc-the-burnout.json) |
 | Red Nose Guy Suika | 280326 | [280326-red-nose-guy-suika.json](./280326-red-nose-guy-suika.json) |
 | Red November | 94031 | [94031-red-november.json](./94031-red-november.json) |
+| Red Obsidian Remnant | 29070 | [29070-red-obsidian-remnant.json](./29070-red-obsidian-remnant.json) |
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
 | Red Ops: The First Infection | 253860 | [253860-red-ops-the-first-infection.json](./253860-red-ops-the-first-infection.json) |
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
@@ -5612,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Reunion | 295308 | [295308-rhythm-reunion.json](./295308-rhythm-reunion.json) |
 | Rhythm Rewind | 177995 | [177995-rhythm-rewind.json](./177995-rhythm-rewind.json) |
 | Rhythm Road | 180540 | [180540-rhythm-road.json](./180540-rhythm-road.json) |
+| Rhythm Rush! | 29019 | [29019-rhythm-rush.json](./29019-rhythm-rush.json) |
 | Rhythm Slice | 417971 | [417971-rhythm-slice.json](./417971-rhythm-slice.json) |
 | Rhythm Spirit | 66486 | [66486-rhythm-spirit.json](./66486-rhythm-spirit.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
@@ -8371,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rojiura Satsuki: Chapter Heroine Sanctuary | 225654 | [225654-rojiura-satsuki-chapter-heroine-sanctuary.json](./225654-rojiura-satsuki-chapter-heroine-sanctuary.json) |
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
 | Roketz | 148717 | [148717-roketz.json](./148717-roketz.json) |
+| Rokh | 20190 | [20190-rokh.json](./20190-rokh.json) |
 | Rokka | 157492 | [157492-rokka.json](./157492-rokka.json) |
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
 | Roko-Loko into Ratozinger's Castle | 130111 | [130111-roko-loko-into-ratozingers-castle.json](./130111-roko-loko-into-ratozingers-castle.json) |
@@ -10227,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic - Legacy of Sin | 21964 | [21964-runic-legacy-of-sin.json](./21964-runic-legacy-of-sin.json) |
 | Runic Curse | 207851 | [207851-runic-curse.json](./207851-runic-curse.json) |
 | Runic Defenders: Trials of Ascension | 246800 | [246800-runic-defenders-trials-of-ascension.json](./246800-runic-defenders-trials-of-ascension.json) |
+| Runic Rampage | 28997 | [28997-runic-rampage.json](./28997-runic-rampage.json) |
 | Runic Relay: The Trials | 159121 | [159121-runic-relay-the-trials.json](./159121-runic-relay-the-trials.json) |
 | Runic Rogues | 413052 | [413052-runic-rogues.json](./413052-runic-rogues.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
