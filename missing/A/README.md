@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACE | 329188 | [329188-ace.json](./329188-ace.json) |
 | ACE | 329190 | [329190-ace.json](./329190-ace.json) |
 | ACE / ACE 2 | 138690 | [138690-ace-ace-2.json](./138690-ace-ace-2.json) |
+| Ace & Aro: Heart-to-Heart | 412607 | [412607-ace-and-aro-heart-to-heart.json](./412607-ace-and-aro-heart-to-heart.json) |
 | Ace & Hearts | 142084 | [142084-ace-and-hearts.json](./142084-ace-and-hearts.json) |
 | Ace Angler | 144863 | [144863-ace-angler.json](./144863-ace-angler.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
@@ -10445,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
 | Arcadletra | 391876 | [391876-arcadletra.json](./391876-arcadletra.json) |
+| Arcadox | 412623 | [412623-arcadox.json](./412623-arcadox.json) |
 | Arcadrome | 270642 | [270642-arcadrome.json](./270642-arcadrome.json) |
 | Arcaduis | 164984 | [164984-arcaduis.json](./164984-arcaduis.json) |
 | Arcaea | 147946 | [147946-arcaea.json](./147946-arcaea.json) |
@@ -12225,6 +12227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Singularity: Escalation - Secret Missions | 170300 | [170300-ashes-of-the-singularity-escalation-secret-missions.json](./170300-ashes-of-the-singularity-escalation-secret-missions.json) |
 | Ashes of the Singularity: Escalation - Turtle Wars | 170298 | [170298-ashes-of-the-singularity-escalation-turtle-wars.json](./170298-ashes-of-the-singularity-escalation-turtle-wars.json) |
 | Ashes of the Singularity: Escalation Gold | 52605 | [52605-ashes-of-the-singularity-escalation-gold.json](./52605-ashes-of-the-singularity-escalation-gold.json) |
+| Ashes of Vaelmoor | 412591 | [412591-ashes-of-vaelmoor.json](./412591-ashes-of-vaelmoor.json) |
 | Ashes of War | 369665 | [369665-ashes-of-war.json](./369665-ashes-of-war.json) |
 | Ashes of Xun | 377678 | [377678-ashes-of-xun.json](./377678-ashes-of-xun.json) |
 | Ashes Remember Us | 372746 | [372746-ashes-remember-us.json](./372746-ashes-remember-us.json) |
