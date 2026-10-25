@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaggaSim | 312563 | [312563-waggasim.json](./312563-waggasim.json) |
 | Waggle Words | 58560 | [58560-waggle-words.json](./58560-waggle-words.json) |
 | Wagie Run | 404965 | [404965-wagie-run.json](./404965-wagie-run.json) |
+| Wagon 00 | 390998 | [390998-wagon-00.json](./390998-wagon-00.json) |
 | Wagon Gloom | 288474 | [288474-wagon-gloom.json](./288474-wagon-gloom.json) |
 | Wagotabi | 283132 | [283132-wagotabi.json](./283132-wagotabi.json) |
 | Wagrrr | 129058 | [129058-wagrrr.json](./129058-wagrrr.json) |
@@ -5659,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
 | WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
 | WiZmans World ReTry | 265641 | [265641-wizmans-world-retry.json](./265641-wizmans-world-retry.json) |
+| WiZmans World ReTry: Bonus Monster Pack | 390924 | [390924-wizmans-world-retry-bonus-monster-pack.json](./390924-wizmans-world-retry-bonus-monster-pack.json) |
 | WizMo's Workshop: Dragons of Frozzbokk | 94577 | [94577-wizmos-workshop-dragons-of-frozzbokk.json](./94577-wizmos-workshop-dragons-of-frozzbokk.json) |
 | Wiznwar Pinball Bundle | 381804 | [381804-wiznwar-pinball-bundle.json](./381804-wiznwar-pinball-bundle.json) |
 | Wizodd | 137849 | [137849-wizodd.json](./137849-wizodd.json) |
