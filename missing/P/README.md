@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
 | Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
+| Para Academy | 414210 | [414210-para-academy.json](./414210-para-academy.json) |
 | Para Bellum | 139658 | [139658-para-bellum.json](./139658-para-bellum.json) |
 | Para Bellum | 297877 | [297877-para-bellum.json](./297877-para-bellum.json) |
 | Para Bellum: Hold the Line | 195914 | [195914-para-bellum-hold-the-line.json](./195914-para-bellum-hold-the-line.json) |
@@ -8419,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
 | Pocket Fishing | 286199 | [286199-pocket-fishing.json](./286199-pocket-fishing.json) |
 | Pocket Foosball | 280150 | [280150-pocket-foosball.json](./280150-pocket-foosball.json) |
+| Pocket Furies | 414323 | [414323-pocket-furies.json](./414323-pocket-furies.json) |
 | Pocket Gal | 39501 | [39501-pocket-gal.json](./39501-pocket-gal.json) |
 | Pocket Gal Deluxe | 40127 | [40127-pocket-gal-deluxe.json](./40127-pocket-gal-deluxe.json) |
 | Pocket Galaxy | 116454 | [116454-pocket-galaxy.json](./116454-pocket-galaxy.json) |
