@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales & Tactics | 244842 | [244842-tales-and-tactics.json](./244842-tales-and-tactics.json) |
 | Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
+| Tales After Dark: Something Upstairs | 418204 | [418204-tales-after-dark-something-upstairs.json](./418204-tales-after-dark-something-upstairs.json) |
 | Tales Beyond the Tomb: No Witnesses | 407331 | [407331-tales-beyond-the-tomb-no-witnesses.json](./407331-tales-beyond-the-tomb-no-witnesses.json) |
 | Tales Beyond the Tomb: Pineville Night Stalker | 322838 | [322838-tales-beyond-the-tomb-pineville-night-stalker.json](./322838-tales-beyond-the-tomb-pineville-night-stalker.json) |
 | Tales Beyond the Tomb: Route 86 | 362327 | [362327-tales-beyond-the-tomb-route-86.json](./362327-tales-beyond-the-tomb-route-86.json) |
@@ -2414,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDP5: Arena 3D | 35639 | [35639-tdp5-arena-3d.json](./35639-tdp5-arena-3d.json) |
 | TDS | 287793 | [287793-tds.json](./287793-tds.json) |
 | TDS Legacy | 331381 | [331381-tds-legacy.json](./331381-tds-legacy.json) |
+| TDS v0.1.3 | 418219 | [418219-tds-v0-1-3.json](./418219-tds-v0-1-3.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
 | Te Amo Mamá | 306753 | [306753-te-amo-mama.json](./306753-te-amo-mama.json) |
 | Te Encontré | 189986 | [189986-te-encontre.json](./189986-te-encontre.json) |
@@ -11614,6 +11616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -16095,6 +16098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is A Genie In My Szechuan Sauce | 75317 | [75317-there-is-a-genie-in-my-szechuan-sauce.json](./75317-there-is-a-genie-in-my-szechuan-sauce.json) |
 | There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
 | There is a Picture | 146083 | [146083-there-is-a-picture.json](./146083-there-is-a-picture.json) |
+| There is a Secret Tunnel to the Center of the Earth | 418190 | [418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json](./418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json) |
 | There is Never Enough Space! | 181617 | [181617-there-is-never-enough-space.json](./181617-there-is-never-enough-space.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
@@ -18770,6 +18774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time Flipper | 188884 | [188884-time-flipper.json](./188884-time-flipper.json) |
 | Time Flows But Does Not Return | 68421 | [68421-time-flows-but-does-not-return.json](./68421-time-flows-but-does-not-return.json) |
+| Time For Changes | 418203 | [418203-time-for-changes.json](./418203-time-for-changes.json) |
 | Time For Kill | 353633 | [353633-time-for-kill.json](./353633-time-for-kill.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
@@ -27571,6 +27576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyrian 2000 | 14432 | [14432-tyrian-2000.json](./14432-tyrian-2000.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
+| Tyrion Cuthbert: Beyond the Arcane | 418217 | [418217-tyrion-cuthbert-beyond-the-arcane.json](./418217-tyrion-cuthbert-beyond-the-arcane.json) |
 | Tyrium | 244701 | [244701-tyrium.json](./244701-tyrium.json) |
 | Tyro: Legend of Whisperwood | 345289 | [345289-tyro-legend-of-whisperwood.json](./345289-tyro-legend-of-whisperwood.json) |
 | Tyrofeud | 335239 | [335239-tyrofeud.json](./335239-tyrofeud.json) |
