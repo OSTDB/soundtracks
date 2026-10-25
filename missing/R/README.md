@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit | 46850 | [46850-rabbit.json](./46850-rabbit.json) |
 | Rabbit & Dominoes | 192874 | [192874-rabbit-and-dominoes.json](./192874-rabbit-and-dominoes.json) |
 | Rabbit & Steel | 229093 | [229093-rabbit-and-steel.json](./229093-rabbit-and-steel.json) |
+| Rabbit & Steel: Extra Mode | 388550 | [388550-rabbit-and-steel-extra-mode.json](./388550-rabbit-and-steel-extra-mode.json) |
 | Rabbit and the moon | 104437 | [104437-rabbit-and-the-moon.json](./104437-rabbit-and-the-moon.json) |
 | Rabbit and Turtle | 285846 | [285846-rabbit-and-turtle.json](./285846-rabbit-and-turtle.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
@@ -4287,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RepairBot | 114403 | [114403-repairbot.json](./114403-repairbot.json) |
 | Repairny | 204073 | [204073-repairny.json](./204073-repairny.json) |
 | Reparative | 177376 | [177376-reparative.json](./177376-reparative.json) |
+| Repartiendo Máscaras por Carratraca | 388511 | [388511-repartiendo-mascaras-por-carratraca.json](./388511-repartiendo-mascaras-por-carratraca.json) |
 | Repeat After Death | 327162 | [327162-repeat-after-death.json](./327162-repeat-after-death.json) |
 | Repeat It Back To Me | 397840 | [397840-repeat-it-back-to-me.json](./397840-repeat-it-back-to-me.json) |
 | Repeat the Ending | 275602 | [275602-repeat-the-ending.json](./275602-repeat-the-ending.json) |
@@ -5597,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
 | RGB Rush 2 | 298393 | [298393-rgb-rush-2.json](./298393-rgb-rush-2.json) |
 | RGB Simulator | 237278 | [237278-rgb-simulator.json](./237278-rgb-simulator.json) |
+| RGB: Execution | 388519 | [388519-rgb-execution.json](./388519-rgb-execution.json) |
 | RGBounce | 275836 | [275836-rgbounce.json](./275836-rgbounce.json) |
 | RGBverse | 29231 | [29231-rgbverse.json](./29231-rgbverse.json) |
 | Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
