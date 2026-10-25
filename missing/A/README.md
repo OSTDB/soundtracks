@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Corporate Machine | 420802 | [420802-a-corporate-machine.json](./420802-a-corporate-machine.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
+| A Couple Nights at the Chud House | 414402 | [414402-a-couple-nights-at-the-chud-house.json](./414402-a-couple-nights-at-the-chud-house.json) |
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
 | A Courting of Curses | 412246 | [412246-a-courting-of-curses.json](./412246-a-courting-of-curses.json) |
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
@@ -182,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dance of Fire and Ice - Neo Cosmos | 203226 | [203226-a-dance-of-fire-and-ice-neo-cosmos.json](./203226-a-dance-of-fire-and-ice-neo-cosmos.json) |
 | A Dark and Deadly Path | 73278 | [73278-a-dark-and-deadly-path.json](./73278-a-dark-and-deadly-path.json) |
 | A Dark and Stormy Entry | 73691 | [73691-a-dark-and-stormy-entry.json](./73691-a-dark-and-stormy-entry.json) |
+| A Dark Cave | 414272 | [414272-a-dark-cave.json](./414272-a-dark-cave.json) |
 | A Dark Forest | 319186 | [319186-a-dark-forest.json](./319186-a-dark-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
@@ -3017,7 +3019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3562,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath Z: Red Pine Lake | 380638 | [380638-aftermath-z-red-pine-lake.json](./380638-aftermath-z-red-pine-lake.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
+| Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
 | Afternoon Paralysis | 381330 | [381330-afternoon-paralysis.json](./381330-afternoon-paralysis.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
@@ -10775,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Adventures: Polar's Puzzles | 118931 | [118931-arctic-adventures-polars-puzzles.json](./118931-arctic-adventures-polars-puzzles.json) |
 | Arctic alive | 33647 | [33647-arctic-alive.json](./33647-arctic-alive.json) |
 | Arctic Anxiety | 151499 | [151499-arctic-anxiety.json](./151499-arctic-anxiety.json) |
+| Arctic Appetite | 414395 | [414395-arctic-appetite.json](./414395-arctic-appetite.json) |
 | Arctic Blue | 397588 | [397588-arctic-blue.json](./397588-arctic-blue.json) |
 | Arctic Cat Snowmobile Racing | 234499 | [234499-arctic-cat-snowmobile-racing.json](./234499-arctic-cat-snowmobile-racing.json) |
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
@@ -10844,6 +10847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardubullets | 381726 | [381726-ardubullets.json](./381726-ardubullets.json) |
 | ArduGods | 227994 | [227994-ardugods.json](./227994-ardugods.json) |
 | ArduGolf: 18-Hole Mini Golf | 227997 | [227997-ardugolf-18-hole-mini-golf.json](./227997-ardugolf-18-hole-mini-golf.json) |
+| ArduLO | 414321 | [414321-ardulo.json](./414321-ardulo.json) |
 | Arduminer | 227998 | [227998-arduminer.json](./227998-arduminer.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
 | Ardy Lightfoot | 42736 | [42736-ardy-lightfoot.json](./42736-ardy-lightfoot.json) |
@@ -14245,6 +14249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
 | Automobile Tycoon | 43078 | [43078-automobile-tycoon.json](./43078-automobile-tycoon.json) |
 | Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
+| Automobili Lamborghini: Recompiled | 414349 | [414349-automobili-lamborghini-recompiled.json](./414349-automobili-lamborghini-recompiled.json) |
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
 | Automobilista 2 | 119811 | [119811-automobilista-2.json](./119811-automobilista-2.json) |
 | Automobilista 2: Adrenaline Pack Pt2 | 352745 | [352745-automobilista-2-adrenaline-pack-pt2.json](./352745-automobilista-2-adrenaline-pack-pt2.json) |
@@ -14860,6 +14865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi no Shiro | 49150 | [49150-ayakashi-no-shiro.json](./49150-ayakashi-no-shiro.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
 | Ayakashi Yaji | 283806 | [283806-ayakashi-yaji.json](./283806-ayakashi-yaji.json) |
+| Ayakashi Yokocho no Natsuyasumi | 414273 | [414273-ayakashi-yokocho-no-natsuyasumi.json](./414273-ayakashi-yokocho-no-natsuyasumi.json) |
 | Ayakashi: Ghost Guild | 39179 | [39179-ayakashi-ghost-guild.json](./39179-ayakashi-ghost-guild.json) |
 | Ayakashi: Romance Reborn Dawn Chapter & Twilight Chapter | 147817 | [147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json](./147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json) |
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
