@@ -4500,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pheasants Forever | 23393 | [23393-pheasants-forever.json](./23393-pheasants-forever.json) |
 | Pheasants Forever: Wingshooter | 51112 | [51112-pheasants-forever-wingshooter.json](./51112-pheasants-forever-wingshooter.json) |
 | Pheenix | 93432 | [93432-pheenix.json](./93432-pheenix.json) |
+| Pheles Rebirth | 423298 | [423298-pheles-rebirth.json](./423298-pheles-rebirth.json) |
 | Phelios | 19510 | [19510-phelios.json](./19510-phelios.json) |
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
@@ -4876,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picaro | 361315 | [361315-picaro.json](./361315-picaro.json) |
 | PicaSim - Flight Simulator | 108517 | [108517-picasim-flight-simulator.json](./108517-picasim-flight-simulator.json) |
 | Picassio | 309584 | [309584-picassio.json](./309584-picassio.json) |
+| Picatso | 423213 | [423213-picatso.json](./423213-picatso.json) |
 | Picayune Dreams | 217435 | [217435-picayune-dreams.json](./217435-picayune-dreams.json) |
 | Picayune Dreams: Contamination | 332481 | [332481-picayune-dreams-contamination.json](./332481-picayune-dreams-contamination.json) |
 | Picbox | 93505 | [93505-picbox.json](./93505-picbox.json) |
@@ -9514,6 +9516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokeRank | 414554 | [414554-pokerank.json](./414554-pokerank.json) |
 | PokerBall | 313533 | [313533-pokerball.json](./313533-pokerball.json) |
 | Pokerchinko | 362593 | [362593-pokerchinko.json](./362593-pokerchinko.json) |
+| Pokericabra | 423212 | [423212-pokericabra.json](./423212-pokericabra.json) |
 | Pokeringo Bingo | 209348 | [209348-pokeringo-bingo.json](./209348-pokeringo-bingo.json) |
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
