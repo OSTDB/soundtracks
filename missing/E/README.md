@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Mana | 174178 | [174178-echoes-of-mana.json](./174178-echoes-of-mana.json) |
 | Echoes of Mayhem | 197207 | [197207-echoes-of-mayhem.json](./197207-echoes-of-mayhem.json) |
+| Echoes of Midnight | 405883 | [405883-echoes-of-midnight.json](./405883-echoes-of-midnight.json) |
 | Echoes of Mora | 361858 | [361858-echoes-of-mora.json](./361858-echoes-of-mora.json) |
 | Echoes of Mystralia | 314426 | [314426-echoes-of-mystralia.json](./314426-echoes-of-mystralia.json) |
 | Echoes of Nara | 348321 | [348321-echoes-of-nara.json](./348321-echoes-of-nara.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggerland: Meikyuu no Fukkatsu | 48510 | [48510-eggerland-meikyuu-no-fukkatsu.json](./48510-eggerland-meikyuu-no-fukkatsu.json) |
 | Eggerland: Souzou he no Tabidachi | 41338 | [41338-eggerland-souzou-he-no-tabidachi.json](./41338-eggerland-souzou-he-no-tabidachi.json) |
 | EggFight | 116073 | [116073-eggfight.json](./116073-eggfight.json) |
+| Eggfish | 406342 | [406342-eggfish.json](./406342-eggfish.json) |
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
 | Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
@@ -3263,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Eternal | 347297 | [347297-engine-eternal.json](./347297-engine-eternal.json) |
 | Engine Evolution 2023 | 226808 | [226808-engine-evolution-2023.json](./226808-engine-evolution-2023.json) |
+| Engine of Chaos | 405866 | [405866-engine-of-chaos.json](./405866-engine-of-chaos.json) |
 | Engine Roar | 238475 | [238475-engine-roar.json](./238475-engine-roar.json) |
 | Engine Room | 305448 | [305448-engine-room.json](./305448-engine-room.json) |
 | Engine Room | 305449 | [305449-engine-room.json](./305449-engine-room.json) |
@@ -6811,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of War | 249913 | [249913-eyes-of-war.json](./249913-eyes-of-war.json) |
 | Eyes on Me | 385855 | [385855-eyes-on-me.json](./385855-eyes-on-me.json) |
 | Eyes On Me | 383577 | [383577-eyes-on-me.json](./383577-eyes-on-me.json) |
+| Eyes on Them | 405769 | [405769-eyes-on-them.json](./405769-eyes-on-them.json) |
 | Eyes on Yuki | 361287 | [361287-eyes-on-yuki.json](./361287-eyes-on-yuki.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
 | Eyes: Nonogram | 294542 | [294542-eyes-nonogram.json](./294542-eyes-nonogram.json) |
