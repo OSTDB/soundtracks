@@ -10067,6 +10067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
 | Minecraft Randomizer | 211678 | [211678-minecraft-randomizer.json](./211678-minecraft-randomizer.json) |
 | Minecraft Tower Defence | 240149 | [240149-minecraft-tower-defence.json](./240149-minecraft-tower-defence.json) |
+| Minecraft Tower Defence 2 | 398372 | [398372-minecraft-tower-defence-2.json](./398372-minecraft-tower-defence-2.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
 | Minecraft x Crocs: Choose Your Mode | 310599 | [310599-minecraft-x-crocs-choose-your-mode.json](./310599-minecraft-x-crocs-choose-your-mode.json) |
