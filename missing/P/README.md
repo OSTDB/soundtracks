@@ -7507,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Morph | 216636 | [216636-planet-morph.json](./216636-planet-morph.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
 | Planet Nine | 417290 | [417290-planet-nine.json](./417290-planet-nine.json) |
+| Planet Nomads | 11350 | [11350-planet-nomads.json](./11350-planet-nomads.json) |
 | Planet of a Poisoned Past | 141750 | [141750-planet-of-a-poisoned-past.json](./141750-planet-of-a-poisoned-past.json) |
 | Planet of Blood Thirsty Santa | 125261 | [125261-planet-of-blood-thirsty-santa.json](./125261-planet-of-blood-thirsty-santa.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
@@ -12265,6 +12266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2012 | 10721 | [10721-pro-cycling-manager-2012.json](./10721-pro-cycling-manager-2012.json) |
 | Pro Cycling Manager 2013 | 10722 | [10722-pro-cycling-manager-2013.json](./10722-pro-cycling-manager-2013.json) |
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
+| Pro Cycling Manager 2015 | 17837 | [17837-pro-cycling-manager-2015.json](./17837-pro-cycling-manager-2015.json) |
 | Pro Cycling Manager 2016 | 19787 | [19787-pro-cycling-manager-2016.json](./19787-pro-cycling-manager-2016.json) |
 | Pro Cycling Manager 2017 | 37385 | [37385-pro-cycling-manager-2017.json](./37385-pro-cycling-manager-2017.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
