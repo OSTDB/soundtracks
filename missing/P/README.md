@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.I. | 331463 | [331463-p-i.json](./331463-p-i.json) |
 | P.I. Al Luminum: Haunted House | 325635 | [325635-p-i-al-luminum-haunted-house.json](./325635-p-i-al-luminum-haunted-house.json) |
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
+| P.I.S. File | 404533 | [404533-p-i-s-file.json](./404533-p-i-s-file.json) |
 | P.J. Pride Pet Detective, Destination: Europe | 209382 | [209382-p-j-pride-pet-detective-destination-europe.json](./209382-p-j-pride-pet-detective-destination-europe.json) |
 | P.M.P. Project Murder Party | 176911 | [176911-p-m-p-project-murder-party.json](./176911-p-m-p-project-murder-party.json) |
 | P.N.03 | 4060 | [4060-p-n-03.json](./4060-p-n-03.json) |
@@ -7670,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetes | 29094 | [29094-planetes.json](./29094-planetes.json) |
 | PlanetExplorerVR | 101566 | [101566-planetexplorervr.json](./101566-planetexplorervr.json) |
 | Planetfall | 12620 | [12620-planetfall.json](./12620-planetfall.json) |
+| Planetfall Conquerors | 404534 | [404534-planetfall-conquerors.json](./404534-planetfall-conquerors.json) |
 | PlanetForge Protocol | 404360 | [404360-planetforge-protocol.json](./404360-planetforge-protocol.json) |
 | PlanetFriend | 133879 | [133879-planetfriend.json](./133879-planetfriend.json) |
 | Planetgore | 255139 | [255139-planetgore.json](./255139-planetgore.json) |
@@ -14908,6 +14910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Book: Animals Edition | 378959 | [378959-puzzle-book-animals-edition.json](./378959-puzzle-book-animals-edition.json) |
 | Puzzle Book: Furry Friends Bundle | 223564 | [223564-puzzle-book-furry-friends-bundle.json](./223564-puzzle-book-furry-friends-bundle.json) |
 | Puzzle Book: Horizon Edition | 365552 | [365552-puzzle-book-horizon-edition.json](./365552-puzzle-book-horizon-edition.json) |
+| Puzzle Book: Square Edition | 404546 | [404546-puzzle-book-square-edition.json](./404546-puzzle-book-square-edition.json) |
 | Puzzle Book: Summer 2020 | 238036 | [238036-puzzle-book-summer-2020.json](./238036-puzzle-book-summer-2020.json) |
 | Puzzle Book: Summer 2021 | 238028 | [238028-puzzle-book-summer-2021.json](./238028-puzzle-book-summer-2021.json) |
 | Puzzle Bots | 10731 | [10731-puzzle-bots.json](./10731-puzzle-bots.json) |
@@ -15225,6 +15228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle! Animals | 100025 | [100025-puzzle-animals.json](./100025-puzzle-animals.json) |
 | Puzzle! Mushihimetama | 66102 | [66102-puzzle-mushihimetama.json](./66102-puzzle-mushihimetama.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
+| PuzzleCore | 404535 | [404535-puzzlecore.json](./404535-puzzlecore.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
 | Puzzled Cube | 335392 | [335392-puzzled-cube.json](./335392-puzzled-cube.json) |
 | Puzzled Heroes | 116294 | [116294-puzzled-heroes.json](./116294-puzzled-heroes.json) |
