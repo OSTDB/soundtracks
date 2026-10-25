@@ -6855,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo Prime Evil Collection | 173127 | [173127-diablo-prime-evil-collection.json](./173127-diablo-prime-evil-collection.json) |
 | Diablo V | 417647 | [417647-diablo-v.json](./417647-diablo-v.json) |
 | Diablo: Battle Chest | 46976 | [46976-diablo-battle-chest.json](./46976-diablo-battle-chest.json) |
+| Diablo: The Abyss | 399033 | [399033-diablo-the-abyss.json](./399033-diablo-the-abyss.json) |
 | Diabolical Pitch | 19904 | [19904-diabolical-pitch.json](./19904-diabolical-pitch.json) |
 | Diabolik 01: Inafferrabile Criminale | 138700 | [138700-diabolik-01-inafferrabile-criminale.json](./138700-diabolik-01-inafferrabile-criminale.json) |
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
