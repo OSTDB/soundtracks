@@ -4302,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Gun | 241517 | [241517-final-gun.json](./241517-final-gun.json) |
 | Final Hope: The Plot | 160101 | [160101-final-hope-the-plot.json](./160101-final-hope-the-plot.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
+| Final Hunter: Wild Animal Hunting | 101561 | [101561-final-hunter-wild-animal-hunting.json](./101561-final-hunter-wild-animal-hunting.json) |
 | Final Inferno | 179068 | [179068-final-inferno.json](./179068-final-inferno.json) |
 | Final Islands | 113476 | [113476-final-islands.json](./113476-final-islands.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
