@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particle | 309496 | [309496-particle.json](./309496-particle.json) |
 | Particle Accelerator | 357362 | [357362-particle-accelerator.json](./357362-particle-accelerator.json) |
 | Particle Accelerator | 62063 | [62063-particle-accelerator.json](./62063-particle-accelerator.json) |
+| Particle Clicker | 405676 | [405676-particle-clicker.json](./405676-particle-clicker.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
 | Particle Mace | 17304 | [17304-particle-mace.json](./17304-particle-mace.json) |
 | Particle of God | 217223 | [217223-particle-of-god.json](./217223-particle-of-god.json) |
@@ -5151,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pie O'Clock! | 190965 | [190965-pie-oclock.json](./190965-pie-oclock.json) |
 | Pie Pie Cafeteria | 392248 | [392248-pie-pie-cafeteria.json](./392248-pie-pie-cafeteria.json) |
 | Pie-Man | 287026 | [287026-pie-man.json](./287026-pie-man.json) |
+| Pie's Ancient Europe | 405744 | [405744-pies-ancient-europe.json](./405744-pies-ancient-europe.json) |
 | Piece by Piece | 332318 | [332318-piece-by-piece.json](./332318-piece-by-piece.json) |
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
 | Piece by Piece | 412923 | [412923-piece-by-piece.json](./412923-piece-by-piece.json) |
@@ -9454,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Generations | 413084 | [413084-pokemon-generations.json](./413084-pokemon-generations.json) |
 | Pokémon: Ghost Grey Version | 414524 | [414524-pokemon-ghost-grey-version.json](./414524-pokemon-ghost-grey-version.json) |
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
+| Pokémon: H Edition | 405761 | [405761-pokemon-h-edition.json](./405761-pokemon-h-edition.json) |
 | Pokémon: Harmonic Peace | 335148 | [335148-pokemon-harmonic-peace.json](./335148-pokemon-harmonic-peace.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
 | Pokémon: Let's Go, Eevee! | 102873 | [102873-pokemon-lets-go-eevee.json](./102873-pokemon-lets-go-eevee.json) |
@@ -10777,6 +10780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
 | Postal: Brain Damaged - These Sunny Daze | 347105 | [347105-postal-brain-damaged-these-sunny-daze.json](./347105-postal-brain-damaged-these-sunny-daze.json) |
+| Postal: Classic and Uncut | 405310 | [405310-postal-classic-and-uncut.json](./405310-postal-classic-and-uncut.json) |
 | Postal: Fudge Pack | 359857 | [359857-postal-fudge-pack.json](./359857-postal-fudge-pack.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postapo Mechanic Simulator | 211632 | [211632-postapo-mechanic-simulator.json](./211632-postapo-mechanic-simulator.json) |
