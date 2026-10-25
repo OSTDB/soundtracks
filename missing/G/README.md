@@ -2894,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
 | Get Out! | 163708 | [163708-get-out.json](./163708-get-out.json) |
 | Get Out! 2 | 226741 | [226741-get-out-2.json](./226741-get-out-2.json) |
+| Get Outta My Gut | 417608 | [417608-get-outta-my-gut.json](./417608-get-outta-my-gut.json) |
 | Get Over Here | 34715 | [34715-get-over-here.json](./34715-get-over-here.json) |
 | Get Over Here! | 286794 | [286794-get-over-here.json](./286794-get-over-here.json) |
 | Get Packed | 119248 | [119248-get-packed.json](./119248-get-packed.json) |
@@ -3359,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
 | Ghosts'n Goblins Arcade | 41139 | [41139-ghostsn-goblins-arcade.json](./41139-ghostsn-goblins-arcade.json) |
 | Ghostscape | 80158 | [80158-ghostscape.json](./80158-ghostscape.json) |
+| Ghostship | 417396 | [417396-ghostship.json](./417396-ghostship.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
 | Ghostus | 263329 | [263329-ghostus.json](./263329-ghostus.json) |
 | Ghostwage | 224694 | [224694-ghostwage.json](./224694-ghostwage.json) |
