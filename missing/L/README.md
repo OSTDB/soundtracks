@@ -8055,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
 | Lunch-Out 3: Waste Disposal 20XX | 371531 | [371531-lunch-out-3-waste-disposal-20xx.json](./371531-lunch-out-3-waste-disposal-20xx.json) |
 | Lunchy | 320401 | [320401-lunchy.json](./320401-lunchy.json) |
+| Lune | 32455 | [32455-lune.json](./32455-lune.json) |
 | Lunebug | 361916 | [361916-lunebug.json](./361916-lunebug.json) |
 | Luneia the Soothsayer | 409731 | [409731-luneia-the-soothsayer.json](./409731-luneia-the-soothsayer.json) |
 | Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
