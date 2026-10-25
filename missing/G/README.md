@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden City | 151118 | [151118-garden-city.json](./151118-garden-city.json) |
 | Garden City Bundle | 295257 | [295257-garden-city-bundle.json](./295257-garden-city-bundle.json) |
 | Garden Cleanup Simulator | 407366 | [407366-garden-cleanup-simulator.json](./407366-garden-cleanup-simulator.json) |
+| Garden Dash | 85805 | [85805-garden-dash.json](./85805-garden-dash.json) |
 | Garden Defense | 53086 | [53086-garden-defense.json](./53086-garden-defense.json) |
 | Garden Door | 387727 | [387727-garden-door.json](./387727-garden-door.json) |
 | Garden Dreams | 254323 | [254323-garden-dreams.json](./254323-garden-dreams.json) |
@@ -1894,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet | 81204 | [81204-gauntlet.json](./81204-gauntlet.json) |
 | Gauntlet Arcade Version | 45533 | [45533-gauntlet-arcade-version.json](./45533-gauntlet-arcade-version.json) |
 | Gauntlet Dark Legacy | 3927 | [3927-gauntlet-dark-legacy.json](./3927-gauntlet-dark-legacy.json) |
+| Gauntlet Dark Legacy | 85795 | [85795-gauntlet-dark-legacy.json](./85795-gauntlet-dark-legacy.json) |
 | Gauntlet II | 307077 | [307077-gauntlet-ii.json](./307077-gauntlet-ii.json) |
 | Gauntlet II | 3503 | [3503-gauntlet-ii.json](./3503-gauntlet-ii.json) |
 | Gauntlet III: The Final Quest | 7296 | [7296-gauntlet-iii-the-final-quest.json](./7296-gauntlet-iii-the-final-quest.json) |
