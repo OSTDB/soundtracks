@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -3337,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Adventure: A Very Meow Christmas | 232859 | [232859-kitten-adventure-a-very-meow-christmas.json](./232859-kitten-adventure-a-very-meow-christmas.json) |
 | Kitten Adventure: Ultimate Meow! | 217869 | [217869-kitten-adventure-ultimate-meow.json](./217869-kitten-adventure-ultimate-meow.json) |
 | Kitten Adventures in City Park | 44165 | [44165-kitten-adventures-in-city-park.json](./44165-kitten-adventures-in-city-park.json) |
+| Kitten Airsoft | 417250 | [417250-kitten-airsoft.json](./417250-kitten-airsoft.json) |
 | Kitten and Food: Adventure Park | 108022 | [108022-kitten-and-food-adventure-park.json](./108022-kitten-and-food-adventure-park.json) |
 | Kitten Burst | 201690 | [201690-kitten-burst.json](./201690-kitten-burst.json) |
 | Kitten Cannon | 25889 | [25889-kitten-cannon.json](./25889-kitten-cannon.json) |
