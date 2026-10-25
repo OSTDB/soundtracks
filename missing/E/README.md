@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Collector's Edition | 180258 | [180258-elden-ring-collectors-edition.json](./180258-elden-ring-collectors-edition.json) |
 | Elden Ring: Dark Moon | 309346 | [309346-elden-ring-dark-moon.json](./309346-elden-ring-dark-moon.json) |
 | Elden Ring: Deluxe Edition | 186227 | [186227-elden-ring-deluxe-edition.json](./186227-elden-ring-deluxe-edition.json) |
+| Elden Ring: Golden Age | 398157 | [398157-elden-ring-golden-age.json](./398157-elden-ring-golden-age.json) |
 | Elden Ring: Launch Edition | 180259 | [180259-elden-ring-launch-edition.json](./180259-elden-ring-launch-edition.json) |
 | Elden Ring: Nightreign - Seeker's Edition | 375852 | [375852-elden-ring-nightreign-seekers-edition.json](./375852-elden-ring-nightreign-seekers-edition.json) |
 | Elden Ring: Shadow of the Erdtree - Collector's Edition | 288654 | [288654-elden-ring-shadow-of-the-erdtree-collectors-edition.json](./288654-elden-ring-shadow-of-the-erdtree-collectors-edition.json) |
@@ -1656,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
 | Elderine: Dreams to Destiny | 31132 | [31132-elderine-dreams-to-destiny.json](./31132-elderine-dreams-to-destiny.json) |
 | Eldermyth | 419968 | [419968-eldermyth.json](./419968-eldermyth.json) |
+| Elders K.O. | 398379 | [398379-elders-k-o.json](./398379-elders-k-o.json) |
 | Eldertal | 422699 | [422699-eldertal.json](./422699-eldertal.json) |
 | Eldervale | 118089 | [118089-eldervale.json](./118089-eldervale.json) |
 | Eldervire | 414218 | [414218-eldervire.json](./414218-eldervire.json) |
@@ -6280,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Ship Saga | 172537 | [172537-exo-ship-saga.json](./172537-exo-ship-saga.json) |
 | Exo-tical | 334866 | [334866-exo-tical.json](./334866-exo-tical.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
+| Exobiota | 398376 | [398376-exobiota.json](./398376-exobiota.json) |
 | Exoblast | 149265 | [149265-exoblast.json](./149265-exoblast.json) |
 | Exocet | 40641 | [40641-exocet.json](./40641-exocet.json) |
 | Exocide | 197046 | [197046-exocide.json](./197046-exocide.json) |
@@ -6872,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eza | 176836 | [176836-eza.json](./176836-eza.json) |
 | Ezalm : Magic's Memory | 419955 | [419955-ezalm-magics-memory.json](./419955-ezalm-magics-memory.json) |
 | Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
+| Ezekiel: Noa and the Automaton Urbis | 398495 | [398495-ezekiel-noa-and-the-automaton-urbis.json](./398495-ezekiel-noa-and-the-automaton-urbis.json) |
 | Ezerath 3D | 298683 | [298683-ezerath-3d.json](./298683-ezerath-3d.json) |
 | Ezerath Plus | 271100 | [271100-ezerath-plus.json](./271100-ezerath-plus.json) |
 | Ezmeralda | 384265 | [384265-ezmeralda.json](./384265-ezmeralda.json) |
