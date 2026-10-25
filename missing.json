@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-25T07:48:38.188Z",
-  "total_missing": 259571,
+  "generated_at": "2026-10-25T08:09:37.016Z",
+  "total_missing": 259559,
   "games": [
     {
       "igdb_id": 191680,
@@ -61285,6 +61285,11 @@
       "igdb_id": 42434,
       "game_name": "Apocalypse II",
       "file": "missing/A/42434-apocalypse-ii.json"
+    },
+    {
+      "igdb_id": 420223,
+      "game_name": "Apocalypse Intern",
+      "file": "missing/A/420223-apocalypse-intern.json"
     },
     {
       "igdb_id": 157392,
@@ -128112,11 +128117,6 @@
       "file": "missing/B/57547-blade-ii-the-return-of-evil.json"
     },
     {
-      "igdb_id": 14847,
-      "game_name": "Blade Kitten",
-      "file": "missing/B/14847-blade-kitten.json"
-    },
-    {
       "igdb_id": 62089,
       "game_name": "Blade Kitten: Dirty Angels",
       "file": "missing/B/62089-blade-kitten-dirty-angels.json"
@@ -134270,11 +134270,6 @@
       "igdb_id": 105108,
       "game_name": "Blood Money",
       "file": "missing/B/105108-blood-money.json"
-    },
-    {
-      "igdb_id": 11968,
-      "game_name": "Blood Money",
-      "file": "missing/B/11968-blood-money.json"
     },
     {
       "igdb_id": 411673,
@@ -198837,11 +198832,6 @@
       "file": "missing/C/181161-chronokicker-202k.json"
     },
     {
-      "igdb_id": 10087,
-      "game_name": "Chronology",
-      "file": "missing/C/10087-chronology.json"
-    },
-    {
       "igdb_id": 257371,
       "game_name": "Chronology: Deluxe Edition",
       "file": "missing/C/257371-chronology-deluxe-edition.json"
@@ -220140,11 +220130,6 @@
       "igdb_id": 90230,
       "game_name": "Conspirocracy",
       "file": "missing/C/90230-conspirocracy.json"
-    },
-    {
-      "igdb_id": 258950,
-      "game_name": "Constance",
-      "file": "missing/C/258950-constance.json"
     },
     {
       "igdb_id": 323524,
@@ -268885,11 +268870,6 @@
       "igdb_id": 50148,
       "game_name": "DeathTrack",
       "file": "missing/D/50148-deathtrack.json"
-    },
-    {
-      "igdb_id": 7699,
-      "game_name": "Deathtrap",
-      "file": "missing/D/7699-deathtrap.json"
     },
     {
       "igdb_id": 8470,
@@ -360252,11 +360232,6 @@
       "file": "missing/E/289860-expeditions-a-mudrunner-game-the-great-don-71.json"
     },
     {
-      "igdb_id": 16523,
-      "game_name": "Expeditions: Conquistador",
-      "file": "missing/E/16523-expeditions-conquistador.json"
-    },
-    {
       "igdb_id": 146650,
       "game_name": "Expeditions: Rome",
       "file": "missing/E/146650-expeditions-rome.json"
@@ -363990,11 +363965,6 @@
       "igdb_id": 44394,
       "game_name": "Face Maker",
       "file": "missing/F/44394-face-maker.json"
-    },
-    {
-      "igdb_id": 2625,
-      "game_name": "Face Noir",
-      "file": "missing/F/2625-face-noir.json"
     },
     {
       "igdb_id": 373320,
@@ -473087,11 +473057,6 @@
       "file": "missing/H/243191-happy-feet.json"
     },
     {
-      "igdb_id": 3940,
-      "game_name": "Happy Feet",
-      "file": "missing/H/3940-happy-feet.json"
-    },
-    {
       "igdb_id": 345552,
       "game_name": "Happy Feet Two",
       "file": "missing/H/345552-happy-feet-two.json"
@@ -482925,11 +482890,6 @@
       "igdb_id": 133412,
       "game_name": "Hell Can Wait",
       "file": "missing/H/133412-hell-can-wait.json"
-    },
-    {
-      "igdb_id": 324256,
-      "game_name": "Hell Clock",
-      "file": "missing/H/324256-hell-clock.json"
     },
     {
       "igdb_id": 154568,
@@ -511792,11 +511752,6 @@
       "file": "missing/H/96226-hover-x-souls.json"
     },
     {
-      "igdb_id": 5605,
-      "game_name": "Hover: Revolt of Gamers",
-      "file": "missing/H/5605-hover-revolt-of-gamers.json"
-    },
-    {
       "igdb_id": 296909,
       "game_name": "Hoverbear",
       "file": "missing/H/296909-hoverbear.json"
@@ -512930,11 +512885,6 @@
       "igdb_id": 301074,
       "game_name": "Hoyo",
       "file": "missing/H/301074-hoyo.json"
-    },
-    {
-      "igdb_id": 345443,
-      "game_name": "Hozy",
-      "file": "missing/H/345443-hozy.json"
     },
     {
       "igdb_id": 258223,
@@ -771667,11 +771617,6 @@
       "file": "missing/O/32616-orcs.json"
     },
     {
-      "igdb_id": 21527,
-      "game_name": "Orcs & Elves",
-      "file": "missing/O/21527-orcs-and-elves.json"
-    },
-    {
       "igdb_id": 213270,
       "game_name": "Orcs & Elves II",
       "file": "missing/O/213270-orcs-and-elves-ii.json"
@@ -795370,6 +795315,11 @@
       "igdb_id": 337778,
       "game_name": "Pecking Order",
       "file": "missing/P/337778-pecking-order.json"
+    },
+    {
+      "igdb_id": 420222,
+      "game_name": "Peckout",
+      "file": "missing/P/420222-peckout.json"
     },
     {
       "igdb_id": 391192,
@@ -913602,11 +913552,6 @@
       "file": "missing/R/108958-runescape-quests-one-piercing-note.json"
     },
     {
-      "igdb_id": 337712,
-      "game_name": "RuneScape: Dragonwilds",
-      "file": "missing/R/337712-runescape-dragonwilds.json"
-    },
-    {
       "igdb_id": 381699,
       "game_name": "Runeseekers",
       "file": "missing/R/381699-runeseekers.json"
@@ -1008020,11 +1007965,6 @@
       "igdb_id": 22587,
       "game_name": "Spore Creatures",
       "file": "missing/S/22587-spore-creatures.json"
-    },
-    {
-      "igdb_id": 5191,
-      "game_name": "Spore Hero",
-      "file": "missing/S/5191-spore-hero.json"
     },
     {
       "igdb_id": 21214,
