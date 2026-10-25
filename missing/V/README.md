@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Reflex | 40648 | [40648-video-reflex.json](./40648-video-reflex.json) |
 | Video Simon | 40662 | [40662-video-simon.json](./40662-video-simon.json) |
 | Video Speedway | 45901 | [45901-video-speedway.json](./45901-video-speedway.json) |
+| Video Store Chaos | 422702 | [422702-video-store-chaos.json](./422702-video-store-chaos.json) |
 | Video Strip Poker | 79519 | [79519-video-strip-poker.json](./79519-video-strip-poker.json) |
 | Video Strip Poker HD | 109636 | [109636-video-strip-poker-hd.json](./109636-video-strip-poker-hd.json) |
 | Video Tennis but the Computer Asks About Your Ex-Girlfriend | 177413 | [177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json](./177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json) |
@@ -1936,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vine Time | 317424 | [317424-vine-time.json](./317424-vine-time.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
+| Vinera | 422682 | [422682-vinera.json](./422682-vinera.json) |
 | Vinewing | 74434 | [74434-vinewing.json](./74434-vinewing.json) |
 | Vineyard Valley | 247328 | [247328-vineyard-valley.json](./247328-vineyard-valley.json) |
 | Vinios | 118107 | [118107-vinios.json](./118107-vinios.json) |
