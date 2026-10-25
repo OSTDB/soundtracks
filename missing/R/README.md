@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Night | 128940 | [128940-rainy-night.json](./128940-rainy-night.json) |
 | Rainy Season | 119732 | [119732-rainy-season.json](./119732-rainy-season.json) |
 | Rainy single room | 205588 | [205588-rainy-single-room.json](./205588-rainy-single-room.json) |
+| Rainy Time Travel | 405864 | [405864-rainy-time-travel.json](./405864-rainy-time-travel.json) |
 | RainyCloud | 224542 | [224542-rainycloud.json](./224542-rainycloud.json) |
 | Rainyday | 67905 | [67905-rainyday.json](./67905-rainyday.json) |
 | RainyDay | 265243 | [265243-rainyday.json](./265243-rainyday.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
 | Regular Strategy Game | 203759 | [203759-regular-strategy-game.json](./203759-regular-strategy-game.json) |
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
+| Regulars | 405775 | [405775-regulars.json](./405775-regulars.json) |
 | Regulation Pool | 180471 | [180471-regulation-pool.json](./180471-regulation-pool.json) |
 | Regulators | 199251 | [199251-regulators.json](./199251-regulators.json) |
 | Regulus | 40071 | [40071-regulus.json](./40071-regulus.json) |
@@ -8197,6 +8199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: Season 12 - Virtual Horizons | 406734 | [406734-rogue-company-season-12-virtual-horizons.json](./406734-rogue-company-season-12-virtual-horizons.json) |
 | Rogue Company: Season 14 - The Winter Warfare | 403214 | [403214-rogue-company-season-14-the-winter-warfare.json](./403214-rogue-company-season-14-the-winter-warfare.json) |
 | Rogue Company: Season 2 | 404140 | [404140-rogue-company-season-2.json](./404140-rogue-company-season-2.json) |
+| Rogue Company: Season 7 - Wasteland Wilds Battle Pass | 405315 | [405315-rogue-company-season-7-wasteland-wilds-battle-pass.json](./405315-rogue-company-season-7-wasteland-wilds-battle-pass.json) |
 | Rogue Company: Season 9 - Mad Mercenaries | 406725 | [406725-rogue-company-season-9-mad-mercenaries.json](./406725-rogue-company-season-9-mad-mercenaries.json) |
 | Rogue Company: Season Four Starter Pack | 406768 | [406768-rogue-company-season-four-starter-pack.json](./406768-rogue-company-season-four-starter-pack.json) |
 | Rogue Company: Season Three Starter Pack | 406821 | [406821-rogue-company-season-three-starter-pack.json](./406821-rogue-company-season-three-starter-pack.json) |
@@ -10408,6 +10411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruptured Floor | 416635 | [416635-ruptured-floor.json](./416635-ruptured-floor.json) |
 | Rupupu Cube: Lup Salad | 66137 | [66137-rupupu-cube-lup-salad.json](./66137-rupupu-cube-lup-salad.json) |
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
+| Rural Racer | 405597 | [405597-rural-racer.json](./405597-rural-racer.json) |
 | Ruri Iro no Yuki | 108840 | [108840-ruri-iro-no-yuki.json](./108840-ruri-iro-no-yuki.json) |
 | Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
 | Rurizakura | 157566 | [157566-rurizakura.json](./157566-rurizakura.json) |
