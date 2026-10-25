@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jìyì de Zhǔrén | 373718 | [373718-jiyi-de-zhuren.json](./373718-jiyi-de-zhuren.json) |
 | JJ | 48451 | [48451-jj.json](./48451-jj.json) |
 | Jjat | 122897 | [122897-jjat.json](./122897-jjat.json) |
+| JJBoom | 107407 | [107407-jjboom.json](./107407-jjboom.json) |
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
 | JK Puzzle | 279516 | [279516-jk-puzzle.json](./279516-jk-puzzle.json) |
