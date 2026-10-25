@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zentomino | 91882 | [91882-zentomino.json](./91882-zentomino.json) |
 | Zentore: Muscle Your Brain | 371596 | [371596-zentore-muscle-your-brain.json](./371596-zentore-muscle-your-brain.json) |
 | Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
+| Zentris | 413420 | [413420-zentris.json](./413420-zentris.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
 | Zenza | 25949 | [25949-zenza.json](./25949-zenza.json) |
 | Zenzicube: The Power of Six | 346369 | [346369-zenzicube-the-power-of-six.json](./346369-zenzicube-the-power-of-six.json) |
