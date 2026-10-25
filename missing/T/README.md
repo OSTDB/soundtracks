@@ -16347,6 +16347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Live in the Fractures | 333431 | [333431-they-live-in-the-fractures.json](./333431-they-live-in-the-fractures.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
+| They Not Fae! | 397294 | [397294-they-not-fae.json](./397294-they-not-fae.json) |
 | They Remain | 302061 | [302061-they-remain.json](./302061-they-remain.json) |
 | They See Us | 342780 | [342780-they-see-us.json](./342780-they-see-us.json) |
 | They Sold a Million | 56933 | [56933-they-sold-a-million.json](./56933-they-sold-a-million.json) |
@@ -24934,6 +24935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler of Light | 366338 | [366338-traveler-of-light.json](./366338-traveler-of-light.json) |
 | Traveler Stories: Journeys of Real People | 414113 | [414113-traveler-stories-journeys-of-real-people.json](./414113-traveler-stories-journeys-of-real-people.json) |
 | Traveler: Set Sail | 273351 | [273351-traveler-set-sail.json](./273351-traveler-set-sail.json) |
+| Traveler's Backpack | 397213 | [397213-travelers-backpack.json](./397213-travelers-backpack.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Bastion: Spirit Guardians Expansion | 241506 | [241506-travelers-bastion-spirit-guardians-expansion.json](./241506-travelers-bastion-spirit-guardians-expansion.json) |
 | Traveler's Game | 256315 | [256315-travelers-game.json](./256315-travelers-game.json) |
