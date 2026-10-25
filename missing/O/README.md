@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
 | Ogopogo | 158539 | [158539-ogopogo.json](./158539-ogopogo.json) |
 | Ogora | 323936 | [323936-ogora.json](./323936-ogora.json) |
+| Ogre | 14783 | [14783-ogre.json](./14783-ogre.json) |
 | Ogre | 54713 | [54713-ogre.json](./54713-ogre.json) |
 | Ogre Battle 64: Person of Lordly Caliber | 3568 | [3568-ogre-battle-64-person-of-lordly-caliber.json](./3568-ogre-battle-64-person-of-lordly-caliber.json) |
 | Ogre Battle Gaiden | 66085 | [66085-ogre-battle-gaiden.json](./66085-ogre-battle-gaiden.json) |
