@@ -6573,6 +6573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
 | Pixel Fixel | 289020 | [289020-pixel-fixel.json](./289020-pixel-fixel.json) |
 | Pixel Flip | 336703 | [336703-pixel-flip.json](./336703-pixel-flip.json) |
+| Pixel Flow! | 418252 | [418252-pixel-flow.json](./418252-pixel-flow.json) |
 | Pixel Fodder | 34858 | [34858-pixel-fodder.json](./34858-pixel-fodder.json) |
 | Pixel Force | 120094 | [120094-pixel-force.json](./120094-pixel-force.json) |
 | Pixel Force 2 | 175278 | [175278-pixel-force-2.json](./175278-pixel-force-2.json) |
@@ -11228,6 +11229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
 | PowerWash Simulator | 400248 | [400248-powerwash-simulator.json](./400248-powerwash-simulator.json) |
 | PowerWash Simulator 2 | 335439 | [335439-powerwash-simulator-2.json](./335439-powerwash-simulator-2.json) |
+| PowerWash Simulator 2: Barbie Pack | 418240 | [418240-powerwash-simulator-2-barbie-pack.json](./418240-powerwash-simulator-2-barbie-pack.json) |
 | PowerWash Simulator: Back to the Future Special Pack | 276978 | [276978-powerwash-simulator-back-to-the-future-special-pack.json](./276978-powerwash-simulator-back-to-the-future-special-pack.json) |
 | PowerWash Simulator: Cruise Ship Sun Deck - Summer 2024 | 312018 | [312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json](./312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json) |
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
