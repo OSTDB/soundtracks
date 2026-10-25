@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daguri: Gambling Apocalypse | 208657 | [208657-daguri-gambling-apocalypse.json](./208657-daguri-gambling-apocalypse.json) |
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
+| Dahiana (G) | 395377 | [395377-dahiana-g.json](./395377-dahiana-g.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahlia no Wakudeki: Danchi-zuma Akiko ga Ochiru Jijou | 160198 | [160198-dahlia-no-wakudeki-danchi-zuma-akiko-ga-ochiru-jijou.json](./160198-dahlia-no-wakudeki-danchi-zuma-akiko-ga-ochiru-jijou.json) |
 | Dahlia: Lasciatemi morire | 275476 | [275476-dahlia-lasciatemi-morire.json](./275476-dahlia-lasciatemi-morire.json) |
@@ -9279,6 +9280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doala de Wii | 81237 | [81237-doala-de-wii.json](./81237-doala-de-wii.json) |
 | Doamari | 412340 | [412340-doamari.json](./412340-doamari.json) |
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
+| Dob | 395373 | [395373-dob.json](./395373-dob.json) |
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
 | DoBad Inc | 369896 | [369896-dobad-inc.json](./369896-dobad-inc.json) |
 | Dobbel | 94605 | [94605-dobbel.json](./94605-dobbel.json) |
