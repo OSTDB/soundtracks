@@ -8956,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hourglass of Summer | 73005 | [73005-hourglass-of-summer.json](./73005-hourglass-of-summer.json) |
 | House | 140372 | [140372-house.json](./140372-house.json) |
 | House | 342712 | [342712-house.json](./342712-house.json) |
+| House & Hand | 391007 | [391007-house-and-hand.json](./391007-house-and-hand.json) |
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Build Flipper | 104584 | [104584-house-build-flipper.json](./104584-house-build-flipper.json) |
