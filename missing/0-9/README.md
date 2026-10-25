@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1414: Crossroads | 241301 | [241301-1414-crossroads.json](./241301-1414-crossroads.json) |
 | 1428: Shadows over Silesia | 130261 | [130261-1428-shadows-over-silesia.json](./130261-1428-shadows-over-silesia.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
+| 1483 Anno Domini | 409431 | [409431-1483-anno-domini.json](./409431-1483-anno-domini.json) |
 | 1492: Anno Domini | 402829 | [402829-1492-anno-domini.json](./402829-1492-anno-domini.json) |
 | 1492: Colonization of the New World | 373086 | [373086-1492-colonization-of-the-new-world.json](./373086-1492-colonization-of-the-new-world.json) |
 | 1497: Five Years After | 38856 | [38856-1497-five-years-after.json](./38856-1497-five-years-after.json) |
