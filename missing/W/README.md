@@ -7502,6 +7502,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wretched Flesh | 274941 | [274941-wretched-flesh.json](./274941-wretched-flesh.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
 | WretchWorks Arcade Pack | 134279 | [134279-wretchworks-arcade-pack.json](./134279-wretchworks-arcade-pack.json) |
+| Wriggle Apple | 410026 | [410026-wriggle-apple.json](./410026-wriggle-apple.json) |
+| Wriggle Apple 2 | 410027 | [410027-wriggle-apple-2.json](./410027-wriggle-apple-2.json) |
+| Wriggle Apple 3 | 410028 | [410028-wriggle-apple-3.json](./410028-wriggle-apple-3.json) |
 | Wriggler | 46742 | [46742-wriggler.json](./46742-wriggler.json) |
 | Wrigglers | 63784 | [63784-wrigglers.json](./63784-wrigglers.json) |
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
