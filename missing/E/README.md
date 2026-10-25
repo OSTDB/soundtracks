@@ -2259,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Legacy Collection | 51764 | [51764-elven-legacy-collection.json](./51764-elven-legacy-collection.json) |
 | Elven Legend | 29458 | [29458-elven-legend.json](./29458-elven-legend.json) |
 | Elven Legend 2: The Bewitched Tree | 28739 | [28739-elven-legend-2-the-bewitched-tree.json](./28739-elven-legend-2-the-bewitched-tree.json) |
+| Elven Legend 3: The New Menace - Collector's Edition | 416382 | [416382-elven-legend-3-the-new-menace-collectors-edition.json](./416382-elven-legend-3-the-new-menace-collectors-edition.json) |
 | Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
 | Elven Mists 2 | 209199 | [209199-elven-mists-2.json](./209199-elven-mists-2.json) |
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
@@ -3304,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma of Sector Sigma | 262986 | [262986-enigma-of-sector-sigma.json](./262986-enigma-of-sector-sigma.json) |
 | Enigma of Sépia | 331861 | [331861-enigma-of-sepia.json](./331861-enigma-of-sepia.json) |
 | Enigma Prison | 32096 | [32096-enigma-prison.json](./32096-enigma-prison.json) |
+| Enigma Protocol | 416367 | [416367-enigma-protocol.json](./416367-enigma-protocol.json) |
 | Enigma Quest | 266995 | [266995-enigma-quest.json](./266995-enigma-quest.json) |
 | Enigma Sphere | 139286 | [139286-enigma-sphere.json](./139286-enigma-sphere.json) |
 | Enigma Sphere: Enhanced Edition | 29533 | [29533-enigma-sphere-enhanced-edition.json](./29533-enigma-sphere-enhanced-edition.json) |
