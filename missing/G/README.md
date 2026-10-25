@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Interactive 2 | 96506 | [96506-games-interactive-2.json](./96506-games-interactive-2.json) |
 | Games of Rome | 391815 | [391815-games-of-rome.json](./391815-games-of-rome.json) |
 | Games People Play: Hearts, Spades, and Euchre | 78910 | [78910-games-people-play-hearts-spades-and-euchre.json](./78910-games-people-play-hearts-spades-and-euchre.json) |
+| Games&Girls | 29106 | [29106-games-and-girls.json](./29106-games-and-girls.json) |
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
 | Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
@@ -7940,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrottyScape | 31045 | [31045-grottyscape.json](./31045-grottyscape.json) |
 | Grouls | 329010 | [329010-grouls.json](./329010-grouls.json) |
 | Ground Attack | 84255 | [84255-ground-attack.json](./84255-ground-attack.json) |
+| Ground Breakers | 19750 | [19750-ground-breakers.json](./19750-ground-breakers.json) |
 | Ground Control | 734 | [734-ground-control.json](./734-ground-control.json) |
 | Ground Control Anthology | 30240 | [30240-ground-control-anthology.json](./30240-ground-control-anthology.json) |
 | Ground Control II: Operation Exodus - Special Edition | 51829 | [51829-ground-control-ii-operation-exodus-special-edition.json](./51829-ground-control-ii-operation-exodus-special-edition.json) |
