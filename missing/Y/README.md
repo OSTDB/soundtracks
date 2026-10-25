@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaken Rodem | 333543 | [333543-yaken-rodem.json](./333543-yaken-rodem.json) |
 | Yakimochi Stream | 373023 | [373023-yakimochi-stream.json](./373023-yakimochi-stream.json) |
 | Yakiniku Bugyou | 65769 | [65769-yakiniku-bugyou.json](./65769-yakiniku-bugyou.json) |
+| Yakiniku Bugyou Bonfire! | 394685 | [394685-yakiniku-bugyou-bonfire.json](./394685-yakiniku-bugyou-bonfire.json) |
 | Yakiniku Simulatior | 203886 | [203886-yakiniku-simulatior.json](./203886-yakiniku-simulatior.json) |
 | Yakitate!! Japan | 124154 | [124154-yakitate-japan.json](./124154-yakitate-japan.json) |
 | Yako | 220731 | [220731-yako.json](./220731-yako.json) |
@@ -973,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have My Support | 321563 | [321563-you-have-my-support.json](./321563-you-have-my-support.json) |
 | You Have No Time | 244854 | [244854-you-have-no-time.json](./244854-you-have-no-time.json) |
 | You Have One Shot | 390120 | [390120-you-have-one-shot.json](./390120-you-have-one-shot.json) |
+| You Have Reached the End | 393259 | [393259-you-have-reached-the-end.json](./393259-you-have-reached-the-end.json) |
 | You Have to Burn the Rope | 218417 | [218417-you-have-to-burn-the-rope.json](./218417-you-have-to-burn-the-rope.json) |
 | You Have to Burn the Rope | 64078 | [64078-you-have-to-burn-the-rope.json](./64078-you-have-to-burn-the-rope.json) |
 | You Have To Climb Out | 308350 | [308350-you-have-to-climb-out.json](./308350-you-have-to-climb-out.json) |
