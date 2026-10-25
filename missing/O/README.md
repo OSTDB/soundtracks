@@ -3174,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Defender | 178635 | [178635-orbital-defender.json](./178635-orbital-defender.json) |
 | Orbital Descent | 339275 | [339275-orbital-descent.json](./339275-orbital-descent.json) |
 | Orbital Dogfight VR | 117661 | [117661-orbital-dogfight-vr.json](./117661-orbital-dogfight-vr.json) |
+| Orbital Drift | 403954 | [403954-orbital-drift.json](./403954-orbital-drift.json) |
 | Orbital Drop Shipping | 257919 | [257919-orbital-drop-shipping.json](./257919-orbital-drop-shipping.json) |
 | Orbital Frenzy | 376452 | [376452-orbital-frenzy.json](./376452-orbital-frenzy.json) |
 | Orbital Gear | 17359 | [17359-orbital-gear.json](./17359-orbital-gear.json) |
@@ -4180,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outback | 107412 | [107412-outback.json](./107412-outback.json) |
 | Outback Joey | 281554 | [281554-outback-joey.json](./281554-outback-joey.json) |
 | Outback Pet Rescue 3D | 85321 | [85321-outback-pet-rescue-3d.json](./85321-outback-pet-rescue-3d.json) |
+| Outblast | 403928 | [403928-outblast.json](./403928-outblast.json) |
 | Outblight | 415325 | [415325-outblight.json](./415325-outblight.json) |
 | Outbound | 286869 | [286869-outbound.json](./286869-outbound.json) |
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
