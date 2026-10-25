@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Startup | 96707 | [96707-e-startup.json](./96707-e-startup.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
 | E.B. | 129049 | [129049-e-b.json](./129049-e-b.json) |
+| E.C.H.O.S | 400266 | [400266-e-c-h-o-s.json](./400266-e-c-h-o-s.json) |
 | E.E.R.I.E | 148838 | [148838-e-e-r-i-e.json](./148838-e-e-r-i-e.json) |
 | E.E.R.I.E2 | 221760 | [221760-e-e-r-i-e2.json](./221760-e-e-r-i-e2.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Crimson PC-8801mkIISR | 328527 | [328527-eggconsole-crimson-pc-8801mkiisr.json](./328527-eggconsole-crimson-pc-8801mkiisr.json) |
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
 | Eggconsole Deep Dungeon II MSX | 420692 | [420692-eggconsole-deep-dungeon-ii-msx.json](./420692-eggconsole-deep-dungeon-ii-msx.json) |
+| Eggconsole Deep Dungeon MSX | 400164 | [400164-eggconsole-deep-dungeon-msx.json](./400164-eggconsole-deep-dungeon-msx.json) |
 | Eggconsole Diable de Laplace PC-8801mkIISR | 362200 | [362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json](./362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json) |
 | Eggconsole Dragon Slayer IV Draslefamily MSX2 | 295687 | [295687-eggconsole-dragon-slayer-iv-draslefamily-msx2.json](./295687-eggconsole-dragon-slayer-iv-draslefamily-msx2.json) |
 | Eggconsole Dragon Slayer Level 2.0 PC-8801 | 410380 | [410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json](./410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json) |
@@ -1351,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggular Game | 307310 | [307310-eggular-game.json](./307310-eggular-game.json) |
 | Eggventure | 390125 | [390125-eggventure.json](./390125-eggventure.json) |
 | Eggwolf: Office Eggscape | 257331 | [257331-eggwolf-office-eggscape.json](./257331-eggwolf-office-eggscape.json) |
+| Eggworld | 400278 | [400278-eggworld.json](./400278-eggworld.json) |
 | Eggy | 152921 | [152921-eggy.json](./152921-eggy.json) |
 | Eggy | 91413 | [91413-eggy.json](./91413-eggy.json) |
 | Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
