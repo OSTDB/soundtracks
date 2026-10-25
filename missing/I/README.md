@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Mission Remastered | 171358 | [171358-impossible-mission-remastered.json](./171358-impossible-mission-remastered.json) |
 | Impossible Moto Sim | 337512 | [337512-impossible-moto-sim.json](./337512-impossible-moto-sim.json) |
 | Impossible Pixels | 140867 | [140867-impossible-pixels.json](./140867-impossible-pixels.json) |
+| Impossible Quest | 32454 | [32454-impossible-quest.json](./32454-impossible-quest.json) |
 | Impossible Road | 22158 | [22158-impossible-road.json](./22158-impossible-road.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impossible Runner! | 87582 | [87582-impossible-runner.json](./87582-impossible-runner.json) |
