@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radial Overdrive | 351485 | [351485-radial-overdrive.json](./351485-radial-overdrive.json) |
 | Radial-G: Proteus | 130820 | [130820-radial-g-proteus.json](./130820-radial-g-proteus.json) |
 | Radiance | 120096 | [120096-radiance.json](./120096-radiance.json) |
+| Radiance of Annihilation: Disorder Eclipse | 397752 | [397752-radiance-of-annihilation-disorder-eclipse.json](./397752-radiance-of-annihilation-disorder-eclipse.json) |
 | RadiAngel | 225745 | [225745-radiangel.json](./225745-radiangel.json) |
 | Radiant Arc | 117142 | [117142-radiant-arc.json](./117142-radiant-arc.json) |
 | Radiant Baby | 185397 | [185397-radiant-baby.json](./185397-radiant-baby.json) |
