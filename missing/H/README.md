@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Trouble 5 | 270149 | [270149-halloween-trouble-5.json](./270149-halloween-trouble-5.json) |
 | Halloween Trouble 6: Pumpkin Rampage | 371900 | [371900-halloween-trouble-6-pumpkin-rampage.json](./371900-halloween-trouble-6-pumpkin-rampage.json) |
 | Halloween Trouble 7: The Apprentice | 417521 | [417521-halloween-trouble-7-the-apprentice.json](./417521-halloween-trouble-7-the-apprentice.json) |
+| Halloween Trouble 8 | 420780 | [420780-halloween-trouble-8.json](./420780-halloween-trouble-8.json) |
 | Halloween Waifu | 378573 | [378573-halloween-waifu.json](./378573-halloween-waifu.json) |
 | Halloween with Veronica | 286397 | [286397-halloween-with-veronica.json](./286397-halloween-with-veronica.json) |
 | Halloween: Global Candy Cup 2015 | 275629 | [275629-halloween-global-candy-cup-2015.json](./275629-halloween-global-candy-cup-2015.json) |
@@ -7681,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Magician | 277969 | [277969-honey-magician.json](./277969-honey-magician.json) |
 | Honey Milf | 367044 | [367044-honey-milf.json](./367044-honey-milf.json) |
+| Honey or Else | 420796 | [420796-honey-or-else.json](./420796-honey-or-else.json) |
 | Honey Peach | 48307 | [48307-honey-peach.json](./48307-honey-peach.json) |
 | Honey Pot | 317391 | [317391-honey-pot.json](./317391-honey-pot.json) |
 | Honey Select | 22486 | [22486-honey-select.json](./22486-honey-select.json) |
