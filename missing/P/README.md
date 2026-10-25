@@ -13205,6 +13205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Search | 325637 | [325637-project-search.json](./325637-project-search.json) |
 | Project Sekai: Ayakashi Yokochou no Natsuyasumi | 411777 | [411777-project-sekai-ayakashi-yokochou-no-natsuyasumi.json](./411777-project-sekai-ayakashi-yokochou-no-natsuyasumi.json) |
 | Project Sekuter | 317606 | [317606-project-sekuter.json](./317606-project-sekuter.json) |
+| Project Sentinel: Zero Tolerance | 411974 | [411974-project-sentinel-zero-tolerance.json](./411974-project-sentinel-zero-tolerance.json) |
 | Project Sever | 368581 | [368581-project-sever.json](./368581-project-sever.json) |
 | Project SF2 | 174833 | [174833-project-sf2.json](./174833-project-sf2.json) |
 | Project Shadow | 330291 | [330291-project-shadow.json](./330291-project-shadow.json) |
@@ -14573,6 +14574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrkour | 122925 | [122925-purrkour.json](./122925-purrkour.json) |
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
+| Purrrfect Spa | 412014 | [412014-purrrfect-spa.json](./412014-purrrfect-spa.json) |
 | Purrrification | 365161 | [365161-purrrification.json](./365161-purrrification.json) |
 | Purrrifiers: Cleaning Chaos | 322196 | [322196-purrrifiers-cleaning-chaos.json](./322196-purrrifiers-cleaning-chaos.json) |
 | Purrs In Heaven | 146800 | [146800-purrs-in-heaven.json](./146800-purrs-in-heaven.json) |
