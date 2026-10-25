@@ -2389,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embraced by Autumn | 154032 | [154032-embraced-by-autumn.json](./154032-embraced-by-autumn.json) |
 | Embracelet | 136409 | [136409-embracelet.json](./136409-embracelet.json) |
 | Embracing Darkness | 235483 | [235483-embracing-darkness.json](./235483-embracing-darkness.json) |
+| Embrawl | 423906 | [423906-embrawl.json](./423906-embrawl.json) |
 | Embric of Wulfhammer's Castle | 66174 | [66174-embric-of-wulfhammers-castle.json](./66174-embric-of-wulfhammers-castle.json) |
 | Embroideryvania | 345825 | [345825-embroideryvania.json](./345825-embroideryvania.json) |
 | Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
 | Epsilon corp. | 33082 | [33082-epsilon-corp.json](./33082-epsilon-corp.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
+| Epsilon Hyperpunk | 423888 | [423888-epsilon-hyperpunk.json](./423888-epsilon-hyperpunk.json) |
 | Epsilon Protocol | 342277 | [342277-epsilon-protocol.json](./342277-epsilon-protocol.json) |
 | Epsilon Tahari: Reign of the Machines | 69736 | [69736-epsilon-tahari-reign-of-the-machines.json](./69736-epsilon-tahari-reign-of-the-machines.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
@@ -4043,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESC | 127884 | [127884-esc.json](./127884-esc.json) |
 | ESC | 292229 | [292229-esc.json](./292229-esc.json) |
 | ESC Ape | 185557 | [185557-esc-ape.json](./185557-esc-ape.json) |
+| Esc Ape, You Died? | 423870 | [423870-esc-ape-you-died.json](./423870-esc-ape-you-died.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
 | Esca | 339765 | [339765-esca.json](./339765-esca.json) |
@@ -5968,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | EWar | 296189 | [296189-ewar.json](./296189-ewar.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
+| Ewephoria | 423879 | [423879-ewephoria.json](./423879-ewephoria.json) |
 | Ewgeebeez | 348941 | [348941-ewgeebeez.json](./348941-ewgeebeez.json) |
 | Ewig | 395247 | [395247-ewig.json](./395247-ewig.json) |
 | Ewoks | 373198 | [373198-ewoks.json](./373198-ewoks.json) |
