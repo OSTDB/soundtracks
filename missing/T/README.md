@@ -8004,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
 | The Fruit Stealing Girls | 290812 | [290812-the-fruit-stealing-girls.json](./290812-the-fruit-stealing-girls.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
+| The Fruitless Flower | 86254 | [86254-the-fruitless-flower.json](./86254-the-fruitless-flower.json) |
 | The Fruits of the Literature Club | 379137 | [379137-the-fruits-of-the-literature-club.json](./379137-the-fruits-of-the-literature-club.json) |
 | The Fugitives | 330309 | [330309-the-fugitives.json](./330309-the-fugitives.json) |
 | The Full Ann Petting Experience | 409795 | [409795-the-full-ann-petting-experience.json](./409795-the-full-ann-petting-experience.json) |
@@ -22769,6 +22770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
 | Traffic Safety | 199813 | [199813-traffic-safety.json](./199813-traffic-safety.json) |
 | Traffic Safety: Air Scrambled Hard | 204271 | [204271-traffic-safety-air-scrambled-hard.json](./204271-traffic-safety-air-scrambled-hard.json) |
+| Traffic Tour | 87282 | [87282-traffic-tour.json](./87282-traffic-tour.json) |
 | Traffic Tour Classic | 249690 | [249690-traffic-tour-classic.json](./249690-traffic-tour-classic.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
 | Traffic X | 68096 | [68096-traffic-x.json](./68096-traffic-x.json) |
@@ -25181,6 +25183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick Room Mysteries | 399792 | [399792-trick-room-mysteries.json](./399792-trick-room-mysteries.json) |
 | Trick Shot | 40625 | [40625-trick-shot.json](./40625-trick-shot.json) |
 | Trick Shot | 87820 | [87820-trick-shot.json](./87820-trick-shot.json) |
+| Trick Shot Bowling | 87311 | [87311-trick-shot-bowling.json](./87311-trick-shot-bowling.json) |
 | Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick Trap | 46874 | [46874-trick-trap.json](./46874-trick-trap.json) |
@@ -27340,6 +27343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tycoon of the HighSeas | 181124 | [181124-tycoon-of-the-highseas.json](./181124-tycoon-of-the-highseas.json) |
 | Tycoon Tex | 133669 | [133669-tycoon-tex.json](./133669-tycoon-tex.json) |
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
+| Tyde Pod Challenge | 86277 | [86277-tyde-pod-challenge.json](./86277-tyde-pod-challenge.json) |
 | Tyfortress: Tactical Typing | 161154 | [161154-tyfortress-tactical-typing.json](./161154-tyfortress-tactical-typing.json) |
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
 | Tyke and Sons Lumber Co. | 154241 | [154241-tyke-and-sons-lumber-co.json](./154241-tyke-and-sons-lumber-co.json) |
