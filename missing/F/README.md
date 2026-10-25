@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed The Queen | 387138 | [387138-feed-the-queen.json](./387138-feed-the-queen.json) |
 | Feed The Reactor | 384052 | [384052-feed-the-reactor.json](./384052-feed-the-reactor.json) |
 | Feed The Scorchpot | 377819 | [377819-feed-the-scorchpot.json](./377819-feed-the-scorchpot.json) |
+| Feed Them | 415058 | [415058-feed-them.json](./415058-feed-them.json) |
 | Feed Us | 235245 | [235245-feed-us.json](./235245-feed-us.json) |
 | Feed Us 4 | 327185 | [327185-feed-us-4.json](./327185-feed-us-4.json) |
 | Feed Us Happy | 393518 | [393518-feed-us-happy.json](./393518-feed-us-happy.json) |
@@ -4317,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fleet | 32118 | [32118-final-fleet.json](./32118-final-fleet.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
 | Final Foe | 153955 | [153955-final-foe.json](./153955-final-foe.json) |
+| Final Footage | 414946 | [414946-final-footage.json](./414946-final-footage.json) |
 | Final Football Tactics | 182152 | [182152-final-football-tactics.json](./182152-final-football-tactics.json) |
 | Final Forge | 244296 | [244296-final-forge.json](./244296-final-forge.json) |
 | Final Fortress: Idle Survival | 23276 | [23276-final-fortress-idle-survival.json](./23276-final-fortress-idle-survival.json) |
@@ -7119,6 +7121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Nightmares | 4257 | [4257-flying-nightmares.json](./4257-flying-nightmares.json) |
 | Flying over the Penguin's Hollow | 413134 | [413134-flying-over-the-penguins-hollow.json](./413134-flying-over-the-penguins-hollow.json) |
 | Flying Pengy | 31530 | [31530-flying-pengy.json](./31530-flying-pengy.json) |
+| Flying Pigs | 415013 | [415013-flying-pigs.json](./415013-flying-pigs.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
 | Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
 | Flying Red Barrel: The Diary of a Little Aviator | 50841 | [50841-flying-red-barrel-the-diary-of-a-little-aviator.json](./50841-flying-red-barrel-the-diary-of-a-little-aviator.json) |
@@ -7682,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Her | 338327 | [338327-for-her.json](./338327-for-her.json) |
 | For Home | 288687 | [288687-for-home.json](./288687-for-home.json) |
 | For Honor: Afeera Hero | 234539 | [234539-for-honor-afeera-hero.json](./234539-for-honor-afeera-hero.json) |
+| For Honor: Arakure - Hero | 415018 | [415018-for-honor-arakure-hero.json](./415018-for-honor-arakure-hero.json) |
 | For Honor: Assassin's Creed Shadows Hero Skin Bundle | 408889 | [408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json](./408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json) |
 | For Honor: Assassin's Creed Ultimate Hero Skin Bundle | 409029 | [409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json](./409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json) |
 | For Honor: Complete Edition | 118695 | [118695-for-honor-complete-edition.json](./118695-for-honor-complete-edition.json) |
@@ -7705,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
+| For Honor: The Oni's Hunt Deluxe - Hero Skin Bundle | 415019 | [415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json](./415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json) |
 | For Honor: The Oni's Wrath – Sohei Hero Skin | 408965 | [408965-for-honor-the-onis-wrath-sohei-hero-skin.json](./408965-for-honor-the-onis-wrath-sohei-hero-skin.json) |
 | For Honor: The Scorching Herald – Gryphon Legendary Hero Skin | 408967 | [408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json](./408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json) |
 | For Honor: Ultimate Edition | 291540 | [291540-for-honor-ultimate-edition.json](./291540-for-honor-ultimate-edition.json) |
@@ -11290,6 +11295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
 | Fussball Manager Bundesliga 2001 | 209417 | [209417-fussball-manager-bundesliga-2001.json](./209417-fussball-manager-bundesliga-2001.json) |
+| Fusty Dungeon | 415043 | [415043-fusty-dungeon.json](./415043-fusty-dungeon.json) |
 | Futa Battle TD | 196143 | [196143-futa-battle-td.json](./196143-futa-battle-td.json) |
 | Futa Heroism | 235707 | [235707-futa-heroism.json](./235707-futa-heroism.json) |
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
