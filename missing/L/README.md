@@ -3555,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Library Escape | 400487 | [400487-library-escape.json](./400487-library-escape.json) |
 | Library Fantasy | 128554 | [128554-library-fantasy.json](./128554-library-fantasy.json) |
 | Library Fantasy | 287001 | [287001-library-fantasy.json](./287001-library-fantasy.json) |
+| Library Frustration | 398370 | [398370-library-frustration.json](./398370-library-frustration.json) |
 | Library Game | 337640 | [337640-library-game.json](./337640-library-game.json) |
 | Library of Babel | 389018 | [389018-library-of-babel.json](./389018-library-of-babel.json) |
 | Library of Blabber | 177265 | [177265-library-of-blabber.json](./177265-library-of-blabber.json) |
@@ -5225,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liu Yi's strange world adventure | 193637 | [193637-liu-yis-strange-world-adventure.json](./193637-liu-yis-strange-world-adventure.json) |
 | Liu Yin | 175728 | [175728-liu-yin.json](./175728-liu-yin.json) |
 | Liú Yǐn | 375417 | [375417-liu-yin.json](./375417-liu-yin.json) |
+| Liùdào Fēng Yān | 398176 | [398176-liudao-feng-yan.json](./398176-liudao-feng-yan.json) |
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Liv | 386475 | [386475-liv.json](./386475-liv.json) |
@@ -7775,6 +7777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luffi: Homebound | 292998 | [292998-luffi-homebound.json](./292998-luffi-homebound.json) |
 | Luffy: Way Back Home | 152616 | [152616-luffy-way-back-home.json](./152616-luffy-way-back-home.json) |
 | Lufia II: Rise of the Sinistrals | 1178 | [1178-lufia-ii-rise-of-the-sinistrals.json](./1178-lufia-ii-rise-of-the-sinistrals.json) |
+| Lufia V: For the Savior | 398373 | [398373-lufia-v-for-the-savior.json](./398373-lufia-v-for-the-savior.json) |
 | Lufia: Beginning of a Legend | 67818 | [67818-lufia-beginning-of-a-legend.json](./67818-lufia-beginning-of-a-legend.json) |
 | Lufia: Curse of the Sinistrals | 1181 | [1181-lufia-curse-of-the-sinistrals.json](./1181-lufia-curse-of-the-sinistrals.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
