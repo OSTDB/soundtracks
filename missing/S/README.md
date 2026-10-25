@@ -11873,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
 | Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
 | Smugglers V - Secession | 50422 | [50422-smugglers-v-secession.json](./50422-smugglers-v-secession.json) |
+| Smugglers V: Invasion | 8817 | [8817-smugglers-v-invasion.json](./8817-smugglers-v-invasion.json) |
 | Smugglers V: Invasion - Warrior Within | 51902 | [51902-smugglers-v-invasion-warrior-within.json](./51902-smugglers-v-invasion-warrior-within.json) |
 | Smugglers V: The Smugglers Guild | 171333 | [171333-smugglers-v-the-smugglers-guild.json](./171333-smugglers-v-the-smugglers-guild.json) |
 | Smurf | 198891 | [198891-smurf.json](./198891-smurf.json) |
@@ -15123,6 +15124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Sacrifice Delta | 6061 | [6061-soul-sacrifice-delta.json](./6061-soul-sacrifice-delta.json) |
 | Soul Sader | 285982 | [285982-soul-sader.json](./285982-soul-sader.json) |
 | Soul Saga | 63252 | [63252-soul-saga.json](./63252-soul-saga.json) |
+| Soul Saga: Episode 1 | 8174 | [8174-soul-saga-episode-1.json](./8174-soul-saga-episode-1.json) |
 | Soul Saver | 134637 | [134637-soul-saver.json](./134637-soul-saver.json) |
 | Soul Scathe | 120112 | [120112-soul-scathe.json](./120112-soul-scathe.json) |
 | Soul Searching | 216872 | [216872-soul-searching.json](./216872-soul-searching.json) |
@@ -15149,6 +15151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Taker | 235618 | [235618-soul-taker.json](./235618-soul-taker.json) |
 | Soul Tech: Millennium | 116052 | [116052-soul-tech-millennium.json](./116052-soul-tech-millennium.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
+| Soul Tides | 425447 | [425447-soul-tides.json](./425447-soul-tides.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
 | Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
@@ -18189,6 +18192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob Laptop | 293737 | [293737-spongebob-laptop.json](./293737-spongebob-laptop.json) |
 | SpongeBob Marbles & Slides | 97200 | [97200-spongebob-marbles-and-slides.json](./97200-spongebob-marbles-and-slides.json) |
+| SpongeBob Moves In | 7991 | [7991-spongebob-moves-in.json](./7991-spongebob-moves-in.json) |
 | SpongeBob PixelPants | 393091 | [393091-spongebob-pixelpants.json](./393091-spongebob-pixelpants.json) |
 | SpongeBob Run | 304261 | [304261-spongebob-run.json](./304261-spongebob-run.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
@@ -28563,6 +28567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Jelly Crush Mania | 106935 | [106935-sweet-jelly-crush-mania.json](./106935-sweet-jelly-crush-mania.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Kimono | 367311 | [367311-sweet-kimono.json](./367311-sweet-kimono.json) |
+| Sweet Lily Dreams | 9273 | [9273-sweet-lily-dreams.json](./9273-sweet-lily-dreams.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
 | Sweet Magic Madness | 99774 | [99774-sweet-magic-madness.json](./99774-sweet-magic-madness.json) |
 | Sweet Massage | 339453 | [339453-sweet-massage.json](./339453-sweet-massage.json) |
