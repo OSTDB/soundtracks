@@ -5340,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonizer | 139678 | [139678-demonizer.json](./139678-demonizer.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
+| Demonlisher | 17813 | [17813-demonlisher.json](./17813-demonlisher.json) |
 | Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
 | Demonology: Incubus: Chapter 1 | 315244 | [315244-demonology-incubus-chapter-1.json](./315244-demonology-incubus-chapter-1.json) |
 | Demonology: Incubus: Chapter 2 | 315246 | [315246-demonology-incubus-chapter-2.json](./315246-demonology-incubus-chapter-2.json) |
@@ -8652,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disobedient Sheep | 115623 | [115623-disobedient-sheep.json](./115623-disobedient-sheep.json) |
 | Disobey - Revolt Simulator | 33031 | [33031-disobey-revolt-simulator.json](./33031-disobey-revolt-simulator.json) |
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
+| Disorder | 17827 | [17827-disorder.json](./17827-disorder.json) |
 | Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
 | Disorder | 229817 | [229817-disorder.json](./229817-disorder.json) |
 | Disorder | 309728 | [309728-disorder.json](./309728-disorder.json) |
@@ -14163,6 +14165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Duck Shark | 390163 | [390163-duck-duck-shark.json](./390163-duck-duck-shark.json) |
 | Duck Duck Shoot | 330181 | [330181-duck-duck-shoot.json](./330181-duck-duck-shoot.json) |
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
+| Duck Dynasty | 17766 | [17766-duck-dynasty.json](./17766-duck-dynasty.json) |
 | Duck Dynasty | 210288 | [210288-duck-dynasty.json](./210288-duck-dynasty.json) |
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duck Eggs | 325058 | [325058-duck-eggs.json](./325058-duck-eggs.json) |
