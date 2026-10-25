@@ -4599,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 4 | 18870 | [18870-championship-manager-4.json](./18870-championship-manager-4.json) |
 | Championship Manager Quiz | 43786 | [43786-championship-manager-quiz.json](./43786-championship-manager-quiz.json) |
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
+| Championship Manager: Season 00/01 | 24170 | [24170-championship-manager-season-00-01.json](./24170-championship-manager-season-00-01.json) |
 | Championship Manager: Season 01/02 | 5769 | [5769-championship-manager-season-01-02.json](./5769-championship-manager-season-01-02.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
@@ -12112,6 +12113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Rift | 72918 | [72918-cosmic-rift.json](./72918-cosmic-rift.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
 | Cosmic Rochambo | 131920 | [131920-cosmic-rochambo.json](./131920-cosmic-rochambo.json) |
+| Cosmic Rocket Defender | 24212 | [24212-cosmic-rocket-defender.json](./24212-cosmic-rocket-defender.json) |
 | Cosmic Rollers: Orbital Odyssey | 278551 | [278551-cosmic-rollers-orbital-odyssey.json](./278551-cosmic-rollers-orbital-odyssey.json) |
 | Cosmic Royale | 324161 | [324161-cosmic-royale.json](./324161-cosmic-royale.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
@@ -15832,6 +15834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
 | Curse Lsland | 157925 | [157925-curse-lsland.json](./157925-curse-lsland.json) |
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
+| Curse of Atlantis: Thorgal's Quest | 23696 | [23696-curse-of-atlantis-thorgals-quest.json](./23696-curse-of-atlantis-thorgals-quest.json) |
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Dares | 303673 | [303673-curse-of-dares.json](./303673-curse-of-dares.json) |
