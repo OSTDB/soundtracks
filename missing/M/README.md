@@ -7887,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta | 260065 | [260065-meta.json](./260065-meta.json) |
 | Meta Apes | 235261 | [235261-meta-apes.json](./235261-meta-apes.json) |
 | Meta Ball | 237245 | [237245-meta-ball.json](./237245-meta-ball.json) |
+| Meta Card Backpack Legend | 392009 | [392009-meta-card-backpack-legend.json](./392009-meta-card-backpack-legend.json) |
 | Meta Checkpoint | 179442 | [179442-meta-checkpoint.json](./179442-meta-checkpoint.json) |
 | Meta Communication Therapy: Nee Kiite! | 37572 | [37572-meta-communication-therapy-nee-kiite.json](./37572-meta-communication-therapy-nee-kiite.json) |
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
@@ -8352,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro: Last Light - Limited Edition | 47429 | [47429-metro-last-light-limited-edition.json](./47429-metro-last-light-limited-edition.json) |
 | Metro.Siberia | 283743 | [283743-metro-siberia.json](./283743-metro-siberia.json) |
 | Metrocide | 8757 | [8757-metrocide.json](./8757-metrocide.json) |
+| Metrocity | 392102 | [392102-metrocity.json](./392102-metrocity.json) |
 | Metrocraft | 399674 | [399674-metrocraft.json](./399674-metrocraft.json) |
 | Metrocraft 2036 | 399676 | [399676-metrocraft-2036.json](./399676-metrocraft-2036.json) |
 | Metrocubevania | 218309 | [218309-metrocubevania.json](./218309-metrocubevania.json) |
@@ -11146,6 +11148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misery | 342489 | [342489-misery.json](./342489-misery.json) |
 | Misery Dungeon | 417471 | [417471-misery-dungeon.json](./417471-misery-dungeon.json) |
+| Misery Nights | 392008 | [392008-misery-nights.json](./392008-misery-nights.json) |
 | Misery Street | 154063 | [154063-misery-street.json](./154063-misery-street.json) |
 | Misfiction | 177905 | [177905-misfiction.json](./177905-misfiction.json) |
 | Misfit | 108062 | [108062-misfit.json](./108062-misfit.json) |
@@ -11503,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Isles | 179408 | [179408-misty-isles.json](./179408-misty-isles.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
 | Misty Puzzle | 350231 | [350231-misty-puzzle.json](./350231-misty-puzzle.json) |
+| Misty Vol.1 | 392402 | [392402-misty-vol-1.json](./392402-misty-vol-1.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
 | Misty's Shining Blacksmithing | 212199 | [212199-mistys-shining-blacksmithing.json](./212199-mistys-shining-blacksmithing.json) |
 | Misty's Super Golf Solitaire | 339911 | [339911-mistys-super-golf-solitaire.json](./339911-mistys-super-golf-solitaire.json) |
