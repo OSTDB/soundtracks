@@ -6630,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Blue 2: Fate's Island | 318018 | [318018-lost-in-blue-2-fates-island.json](./318018-lost-in-blue-2-fates-island.json) |
 | Lost in Blue 3 | 21361 | [21361-lost-in-blue-3.json](./21361-lost-in-blue-3.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
+| Lost in Damnation | 401485 | [401485-lost-in-damnation.json](./401485-lost-in-damnation.json) |
 | Lost in Darklight | 250481 | [250481-lost-in-darklight.json](./250481-lost-in-darklight.json) |
 | Lost in Darkness | 258328 | [258328-lost-in-darkness.json](./258328-lost-in-darkness.json) |
 | Lost in Dungeon | 158406 | [158406-lost-in-dungeon.json](./158406-lost-in-dungeon.json) |
