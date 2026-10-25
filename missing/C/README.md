@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Rush | 214348 | [214348-capybara-rush.json](./214348-capybara-rush.json) |
 | Capybara Spa | 186141 | [186141-capybara-spa.json](./186141-capybara-spa.json) |
 | Capybara Village | 369231 | [369231-capybara-village.json](./369231-capybara-village.json) |
+| Capybara Zen | 403345 | [403345-capybara-zen.json](./403345-capybara-zen.json) |
 | Capybara: The Story of Sisyphus | 291546 | [291546-capybara-the-story-of-sisyphus.json](./291546-capybara-the-story-of-sisyphus.json) |
 | Capybara: The Story of Sisyphus - Extra Content | 335467 | [335467-capybara-the-story-of-sisyphus-extra-content.json](./335467-capybara-the-story-of-sisyphus-extra-content.json) |
 | Capybara's Happytime | 346215 | [346215-capybaras-happytime.json](./346215-capybaras-happytime.json) |
@@ -2309,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Battles WW2: Admiral of the Fleet | 171481 | [171481-carrier-battles-ww2-admiral-of-the-fleet.json](./171481-carrier-battles-ww2-admiral-of-the-fleet.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
 | Carrier Command 2 VR | 159147 | [159147-carrier-command-2-vr.json](./159147-carrier-command-2-vr.json) |
+| Carrier Cuties: Pets in Mechs! | 403371 | [403371-carrier-cuties-pets-in-mechs.json](./403371-carrier-cuties-pets-in-mechs.json) |
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landing HD | 103940 | [103940-carrier-landing-hd.json](./103940-carrier-landing-hd.json) |
@@ -12692,6 +12694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Orange 2 | 403222 | [403222-cover-orange-2.json](./403222-cover-orange-2.json) |
 | Cover Orange 2 | 89106 | [89106-cover-orange-2.json](./89106-cover-orange-2.json) |
 | Cover Orange 2: Journey | 88889 | [88889-cover-orange-2-journey.json](./88889-cover-orange-2-journey.json) |
+| Cover Orange Players Pack 3 | 403355 | [403355-cover-orange-players-pack-3.json](./403355-cover-orange-players-pack-3.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | Cover Your Eyes | 127161 | [127161-cover-your-eyes.json](./127161-cover-your-eyes.json) |
 | Covermount | 327295 | [327295-covermount.json](./327295-covermount.json) |
