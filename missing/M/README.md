@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Shanghai | 64254 | [64254-mahjong-shanghai.json](./64254-mahjong-shanghai.json) |
 | Mahjong Shikaku | 138675 | [138675-mahjong-shikaku.json](./138675-mahjong-shikaku.json) |
 | Mahjong Shikaku Retsuden: Mahjong Wars | 37676 | [37676-mahjong-shikaku-retsuden-mahjong-wars.json](./37676-mahjong-shikaku-retsuden-mahjong-wars.json) |
+| Mahjong Sisters | 397742 | [397742-mahjong-sisters.json](./397742-mahjong-sisters.json) |
 | Mahjong Solitaire | 230697 | [230697-mahjong-solitaire.json](./230697-mahjong-solitaire.json) |
 | Mahjong Solitaire | 232382 | [232382-mahjong-solitaire.json](./232382-mahjong-solitaire.json) |
 | Mahjong Solitaire | 80453 | [80453-mahjong-solitaire.json](./80453-mahjong-solitaire.json) |
@@ -9786,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimics | 176438 | [176438-mimics.json](./176438-mimics.json) |
 | Mimics the Bots | 238514 | [238514-mimics-the-bots.json](./238514-mimics-the-bots.json) |
 | MimiK | 246806 | [246806-mimik.json](./246806-mimik.json) |
+| Mimikaki Collect | 397747 | [397747-mimikaki-collect.json](./397747-mimikaki-collect.json) |
 | MiMiMi | 256984 | [256984-mimimi.json](./256984-mimimi.json) |
 | Mimimishka | 286404 | [286404-mimimishka.json](./286404-mimimishka.json) |
 | Mimir's Recruit | 166822 | [166822-mimirs-recruit.json](./166822-mimirs-recruit.json) |
@@ -12616,6 +12618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeys!! | 179506 | [179506-monkeys.json](./179506-monkeys.json) |
 | Monkeys!! | 416023 | [416023-monkeys.json](./416023-monkeys.json) |
 | Monkeyshines | 41566 | [41566-monkeyshines.json](./41566-monkeyshines.json) |
+| Monkeyslide | 397843 | [397843-monkeyslide.json](./397843-monkeyslide.json) |
 | Monkeytype | 137456 | [137456-monkeytype.json](./137456-monkeytype.json) |
 | Monmon and the Legendary Banana | 400100 | [400100-monmon-and-the-legendary-banana.json](./400100-monmon-and-the-legendary-banana.json) |
 | MONMUSU | 75970 | [75970-monmusu.json](./75970-monmusu.json) |
