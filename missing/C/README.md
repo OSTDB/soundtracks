@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
 | Cabela's 4X4 Off-Road Adventure 3 | 23702 | [23702-cabelas-4x4-off-road-adventure-3.json](./23702-cabelas-4x4-off-road-adventure-3.json) |
 | Cabela's Adventure Camp | 6648 | [6648-cabelas-adventure-camp.json](./6648-cabelas-adventure-camp.json) |
+| Cabela's African Adventures | 7807 | [7807-cabelas-african-adventures.json](./7807-cabelas-african-adventures.json) |
 | Cabela's African Safari | 6931 | [6931-cabelas-african-safari.json](./6931-cabelas-african-safari.json) |
 | Cabela's Big Game Hunter | 100218 | [100218-cabelas-big-game-hunter.json](./100218-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter | 43250 | [43250-cabelas-big-game-hunter.json](./43250-cabelas-big-game-hunter.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's GrandSlam Hunting: 2004 Trophies | 209774 | [209774-cabelas-grandslam-hunting-2004-trophies.json](./209774-cabelas-grandslam-hunting-2004-trophies.json) |
 | Cabela's Legendary Adventures | 51037 | [51037-cabelas-legendary-adventures.json](./51037-cabelas-legendary-adventures.json) |
 | Cabela's Monster Bass | 43219 | [43219-cabelas-monster-bass.json](./43219-cabelas-monster-bass.json) |
+| Cabela's North American Adventures | 7809 | [7809-cabelas-north-american-adventures.json](./7809-cabelas-north-american-adventures.json) |
 | Cabela's Outdoor Adventures | 3844 | [3844-cabelas-outdoor-adventures.json](./3844-cabelas-outdoor-adventures.json) |
 | Cabela's Outdoor Adventures | 91390 | [91390-cabelas-outdoor-adventures.json](./91390-cabelas-outdoor-adventures.json) |
 | Cabela's Sportman's Challenge | 93435 | [93435-cabelas-sportmans-challenge.json](./93435-cabelas-sportmans-challenge.json) |
@@ -2335,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrotting Brain | 34418 | [34418-carrotting-brain.json](./34418-carrotting-brain.json) |
 | Carrum | 68413 | [68413-carrum.json](./68413-carrum.json) |
 | Carrumble | 122252 | [122252-carrumble.json](./122252-carrumble.json) |
+| Carry On Together | 425647 | [425647-carry-on-together.json](./425647-carry-on-together.json) |
 | Carry Onward | 249787 | [249787-carry-onward.json](./249787-carry-onward.json) |
 | Carry the Count | 414477 | [414477-carry-the-count.json](./414477-carry-the-count.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
@@ -3541,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatExpress | 271077 | [271077-catexpress.json](./271077-catexpress.json) |
 | Catfender | 109871 | [109871-catfender.json](./109871-catfender.json) |
 | Catffee Time! | 303727 | [303727-catffee-time.json](./303727-catffee-time.json) |
+| CatFight: The Ultimate Female Fighting Game | 8537 | [8537-catfight-the-ultimate-female-fighting-game.json](./8537-catfight-the-ultimate-female-fighting-game.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
 | CatFish - gotta fish them all! | 101110 | [101110-catfish-gotta-fish-them-all.json](./101110-catfish-gotta-fish-them-all.json) |
 | Catfishing | 340353 | [340353-catfishing.json](./340353-catfishing.json) |
@@ -3935,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern Escape | 30878 | [30878-cavern-escape.json](./30878-cavern-escape.json) |
 | Cavern Fighter | 69706 | [69706-cavern-fighter.json](./69706-cavern-fighter.json) |
+| Cavern Kings | 7874 | [7874-cavern-kings.json](./7874-cavern-kings.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
 | Cavern Sweeper | 328334 | [328334-cavern-sweeper.json](./328334-cavern-sweeper.json) |
