@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Elder Gods | 347882 | [347882-call-of-the-elder-gods.json](./347882-call-of-the-elder-gods.json) |
 | Call of the Golden Valley | 219217 | [219217-call-of-the-golden-valley.json](./219217-call-of-the-golden-valley.json) |
 | Call of the Grave | 310089 | [310089-call-of-the-grave.json](./310089-call-of-the-grave.json) |
+| Call of the Mighty Warriors | 32483 | [32483-call-of-the-mighty-warriors.json](./32483-call-of-the-mighty-warriors.json) |
 | Call of the Ninja! | 35730 | [35730-call-of-the-ninja.json](./35730-call-of-the-ninja.json) |
 | Call of the Sea: Deluxe Edition | 154508 | [154508-call-of-the-sea-deluxe-edition.json](./154508-call-of-the-sea-deluxe-edition.json) |
 | Call of the Sea: Journey Edition | 185978 | [185978-call-of-the-sea-journey-edition.json](./185978-call-of-the-sea-journey-edition.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Night at Gigi's | 407854 | [407854-card-night-at-gigis.json](./407854-card-night-at-gigis.json) |
 | Card Nova Hyper | 236193 | [236193-card-nova-hyper.json](./236193-card-nova-hyper.json) |
 | Card of Darkness | 122759 | [122759-card-of-darkness.json](./122759-card-of-darkness.json) |
+| Card of Spirits | 32439 | [32439-card-of-spirits.json](./32439-card-of-spirits.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
 | Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
 | Card Quest | 301976 | [301976-card-quest.json](./301976-card-quest.json) |
@@ -2750,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Empire | 263969 | [263969-castle-empire.json](./263969-castle-empire.json) |
 | Castle Escape | 187100 | [187100-castle-escape.json](./187100-castle-escape.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
+| Castle Explorer | 31200 | [31200-castle-explorer.json](./31200-castle-explorer.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
 | Castle Explorer: Heroes and rings | 167906 | [167906-castle-explorer-heroes-and-rings.json](./167906-castle-explorer-heroes-and-rings.json) |
 | Castle Explorer: The Dark Below | 174172 | [174172-castle-explorer-the-dark-below.json](./174172-castle-explorer-the-dark-below.json) |
@@ -9702,6 +9705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Switch Trivia | 89751 | [89751-color-switch-trivia.json](./89751-color-switch-trivia.json) |
 | Color Symphony | 17725 | [17725-color-symphony.json](./17725-color-symphony.json) |
 | Color Symphony 2 | 34396 | [34396-color-symphony-2.json](./34396-color-symphony-2.json) |
+| Color Syndrome | 32447 | [32447-color-syndrome.json](./32447-color-syndrome.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
 | Color Tiles - Puzzle | 106911 | [106911-color-tiles-puzzle.json](./106911-color-tiles-puzzle.json) |
@@ -10638,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comrade-in-Arms | 130169 | [130169-comrade-in-arms.json](./130169-comrade-in-arms.json) |
 | Comrades and Barons: Gates of Freedom | 152820 | [152820-comrades-and-barons-gates-of-freedom.json](./152820-comrades-and-barons-gates-of-freedom.json) |
 | Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
+| Con Amore | 32419 | [32419-con-amore.json](./32419-con-amore.json) |
 | Con Man: The Game | 76571 | [76571-con-man-the-game.json](./76571-con-man-the-game.json) |
 | Con-Quest | 13512 | [13512-con-quest.json](./13512-con-quest.json) |
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
@@ -16466,6 +16471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Seekers: Conquest | 298239 | [298239-cyber-seekers-conquest.json](./298239-cyber-seekers-conquest.json) |
 | Cyber Sensation: Malware Breakout | 298275 | [298275-cyber-sensation-malware-breakout.json](./298275-cyber-sensation-malware-breakout.json) |
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
+| Cyber Sentinel | 32460 | [32460-cyber-sentinel.json](./32460-cyber-sentinel.json) |
 | Cyber Sentinel | 352329 | [352329-cyber-sentinel.json](./352329-cyber-sentinel.json) |
 | Cyber Seraph | 140447 | [140447-cyber-seraph.json](./140447-cyber-seraph.json) |
 | Cyber Serpent | 276681 | [276681-cyber-serpent.json](./276681-cyber-serpent.json) |
