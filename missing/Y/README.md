@@ -1369,6 +1369,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys X: Nordics - Starter Pack | 324351 | [324351-ys-x-nordics-starter-pack.json](./324351-ys-x-nordics-starter-pack.json) |
 | Ys X: Proud Nordics | 326507 | [326507-ys-x-proud-nordics.json](./326507-ys-x-proud-nordics.json) |
 | Ys X: Proud Nordics - Balduq Mascot Set | 393070 | [393070-ys-x-proud-nordics-balduq-mascot-set.json](./393070-ys-x-proud-nordics-balduq-mascot-set.json) |
+| Ys X: Proud Nordics - Costume Pack | 402141 | [402141-ys-x-proud-nordics-costume-pack.json](./402141-ys-x-proud-nordics-costume-pack.json) |
+| Ys X: Proud Nordics - Deluxe Edition | 402124 | [402124-ys-x-proud-nordics-deluxe-edition.json](./402124-ys-x-proud-nordics-deluxe-edition.json) |
 | Ys X: Proud Nordics - Isle of Seiren Mascot Set | 393071 | [393071-ys-x-proud-nordics-isle-of-seiren-mascot-set.json](./393071-ys-x-proud-nordics-isle-of-seiren-mascot-set.json) |
 | Ys X: Proud Nordics - Ultimate Edition | 401733 | [401733-ys-x-proud-nordics-ultimate-edition.json](./401733-ys-x-proud-nordics-ultimate-edition.json) |
 | Ys X: Proud Nordics: Launch Edition | 403562 | [403562-ys-x-proud-nordics-launch-edition.json](./403562-ys-x-proud-nordics-launch-edition.json) |
@@ -1683,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunoha na Spring!: Mellow Times for Nintendo Switch | 136836 | [136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json](./136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json) |
 | Yunoha na Spring!: Welcome to Fukujuro | 13019 | [13019-yunoha-na-spring-welcome-to-fukujuro.json](./13019-yunoha-na-spring-welcome-to-fukujuro.json) |
 | Yunoia | 249649 | [249649-yunoia.json](./249649-yunoia.json) |
+| Yuntai | 405776 | [405776-yuntai.json](./405776-yuntai.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
 | Yuoni | 146806 | [146806-yuoni.json](./146806-yuoni.json) |
 | Yuoni | 206573 | [206573-yuoni.json](./206573-yuoni.json) |
