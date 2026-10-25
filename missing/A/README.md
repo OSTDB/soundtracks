@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gummy's Life | 29662 | [29662-a-gummys-life.json](./29662-a-gummys-life.json) |
 | A Gunshot in Room 37 | 311660 | [311660-a-gunshot-in-room-37.json](./311660-a-gunshot-in-room-37.json) |
 | A Gypsy's Tale: The Tower of Secrets | 109193 | [109193-a-gypsys-tale-the-tower-of-secrets.json](./109193-a-gypsys-tale-the-tower-of-secrets.json) |
+| A Halloween Afternoon | 409356 | [409356-a-halloween-afternoon.json](./409356-a-halloween-afternoon.json) |
 | A Halloween Valentine | 219975 | [219975-a-halloween-valentine.json](./219975-a-halloween-valentine.json) |
 | A Hand in the Darkness | 28800 | [28800-a-hand-in-the-darkness.json](./28800-a-hand-in-the-darkness.json) |
 | A Hand With Many Fingers | 129453 | [129453-a-hand-with-many-fingers.json](./129453-a-hand-with-many-fingers.json) |
@@ -1610,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above the Law | 195529 | [195529-above-the-law.json](./195529-above-the-law.json) |
 | Above the Skies | 166623 | [166623-above-the-skies.json](./166623-above-the-skies.json) |
 | Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
+| Above the Sun | 409353 | [409353-above-the-sun.json](./409353-above-the-sun.json) |
 | Above the Waters | 145510 | [145510-above-the-waters.json](./145510-above-the-waters.json) |
 | Above VR | 30855 | [30855-above-vr.json](./30855-above-vr.json) |
 | ABPA Backgammon | 5653 | [5653-abpa-backgammon.json](./5653-abpa-backgammon.json) |
@@ -3023,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3050,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Megara: Demeter's Cat-astrophe - Collector's Edition | 357014 | [357014-adventures-of-megara-demeters-cat-astrophe-collectors-edition.json](./357014-adventures-of-megara-demeters-cat-astrophe-collectors-edition.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Mister Big T 2: Dimensional Problems | 372222 | [372222-adventures-of-mister-big-t-2-dimensional-problems.json](./372222-adventures-of-mister-big-t-2-dimensional-problems.json) |
+| Adventures of Norman the Cat | 409368 | [409368-adventures-of-norman-the-cat.json](./409368-adventures-of-norman-the-cat.json) |
 | Adventures of Pipi | 75208 | [75208-adventures-of-pipi.json](./75208-adventures-of-pipi.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
 | Adventures of Quin85 | 209629 | [209629-adventures-of-quin85.json](./209629-adventures-of-quin85.json) |
@@ -3433,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Death | 65786 | [65786-after-death.json](./65786-after-death.json) |
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
 | After Egypt | 206635 | [206635-after-egypt.json](./206635-after-egypt.json) |
+| After End | 409348 | [409348-after-end.json](./409348-after-end.json) |
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
@@ -5778,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
 | Aliro1 | 381680 | [381680-aliro1.json](./381680-aliro1.json) |
+| Alis: World Reborn | 409410 | [409410-alis-world-reborn.json](./409410-alis-world-reborn.json) |
 | Alisa Quest | 146060 | [146060-alisa-quest.json](./146060-alisa-quest.json) |
 | Alisa's Grimoire | 375561 | [375561-alisas-grimoire.json](./375561-alisas-grimoire.json) |
 | Alisa’s Incident Report | 390627 | [390627-alisa-s-incident-report.json](./390627-alisa-s-incident-report.json) |
@@ -8067,6 +8073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Cafe | 356711 | [356711-animal-cafe.json](./356711-animal-cafe.json) |
 | Animal Camp: Healing Resort | 299393 | [299393-animal-camp-healing-resort.json](./299393-animal-camp-healing-resort.json) |
 | Animal Care Shop | 212499 | [212499-animal-care-shop.json](./212499-animal-care-shop.json) |
+| Animal Chameleon | 409344 | [409344-animal-chameleon.json](./409344-animal-chameleon.json) |
 | Animal Circus: Learning Games | 106521 | [106521-animal-circus-learning-games.json](./106521-animal-circus-learning-games.json) |
 | Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
 | Animal Color Cross | 84755 | [84755-animal-color-cross.json](./84755-animal-color-cross.json) |
@@ -11435,6 +11442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Armor MMO | 69511 | [69511-armor-mmo.json](./69511-armor-mmo.json) |
 | Armor of Doom | 308886 | [308886-armor-of-doom.json](./308886-armor-of-doom.json) |
+| Armor of God | 409327 | [409327-armor-of-god.json](./409327-armor-of-god.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
 | Armor Stride | 369337 | [369337-armor-stride.json](./369337-armor-stride.json) |
 | Armor Valley | 66430 | [66430-armor-valley.json](./66430-armor-valley.json) |
