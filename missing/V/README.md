@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanishing Point: Tenshi no Kieta Machi | 308971 | [308971-vanishing-point-tenshi-no-kieta-machi.json](./308971-vanishing-point-tenshi-no-kieta-machi.json) |
 | Vanishing Realms | 18694 | [18694-vanishing-realms.json](./18694-vanishing-realms.json) |
 | Vanishing Realms: The Sundered Rift | 167244 | [167244-vanishing-realms-the-sundered-rift.json](./167244-vanishing-realms-the-sundered-rift.json) |
+| Vanishing Starlight | 395337 | [395337-vanishing-starlight.json](./395337-vanishing-starlight.json) |
 | Vanitas | 137923 | [137923-vanitas.json](./137923-vanitas.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
 | Vanity: Fighter Skin | 380206 | [380206-vanity-fighter-skin.json](./380206-vanity-fighter-skin.json) |
