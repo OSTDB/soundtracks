@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleria | 107082 | [107082-eleria.json](./107082-eleria.json) |
 | Elestrals | 261897 | [261897-elestrals.json](./261897-elestrals.json) |
 | Elestrals Awakened | 376549 | [376549-elestrals-awakened.json](./376549-elestrals-awakened.json) |
+| Elestrals Beyond | 412612 | [412612-elestrals-beyond.json](./412612-elestrals-beyond.json) |
 | Elestrals Clash! | 356622 | [356622-elestrals-clash.json](./356622-elestrals-clash.json) |
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
 | Elette | 231871 | [231871-elette.json](./231871-elette.json) |
