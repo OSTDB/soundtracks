@@ -917,6 +917,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War World: Tactical Combat | 25985 | [25985-war-world-tactical-combat.json](./25985-war-world-tactical-combat.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | War Z | 94041 | [94041-war-z.json](./94041-war-z.json) |
+| War Zone | 421413 | [421413-war-zone.json](./421413-war-zone.json) |
+| War Zone II | 421414 | [421414-war-zone-ii.json](./421414-war-zone-ii.json) |
 | War Zone Soldier: Battle Royale Shooter | 273303 | [273303-war-zone-soldier-battle-royale-shooter.json](./273303-war-zone-soldier-battle-royale-shooter.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
@@ -1785,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warsoup | 78606 | [78606-warsoup.json](./78606-warsoup.json) |
 | Warspace | 151093 | [151093-warspace.json](./151093-warspace.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
+| Warspace | 421426 | [421426-warspace.json](./421426-warspace.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
 | WarSpawn | 344335 | [344335-warspawn.json](./344335-warspawn.json) |
 | Warspear Online | 68475 | [68475-warspear-online.json](./68475-warspear-online.json) |
@@ -3006,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WGT Golf | 64369 | [64369-wgt-golf.json](./64369-wgt-golf.json) |
 | WGT Golf: Birdie Bundle | 168433 | [168433-wgt-golf-birdie-bundle.json](./168433-wgt-golf-birdie-bundle.json) |
 | WGV: Dreamcatcher | 338380 | [338380-wgv-dreamcatcher.json](./338380-wgv-dreamcatcher.json) |
+| Whac-a-Mole | 421420 | [421420-whac-a-mole.json](./421420-whac-a-mole.json) |
 | Whac-A-Mole | 49347 | [49347-whac-a-mole.json](./49347-whac-a-mole.json) |
 | Whack 'em All! | 91750 | [91750-whack-em-all.json](./91750-whack-em-all.json) |
 | Whack 'Em Smack 'Em Byrons | 306459 | [306459-whack-em-smack-em-byrons.json](./306459-whack-em-smack-em-byrons.json) |
@@ -7516,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
+| Wroom Classic | 421437 | [421437-wroom-classic.json](./421437-wroom-classic.json) |
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
 | Wrought Flesh | 184780 | [184780-wrought-flesh.json](./184780-wrought-flesh.json) |
