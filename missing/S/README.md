@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Wars: Laser Massacre | 248062 | [248062-sausage-wars-laser-massacre.json](./248062-sausage-wars-laser-massacre.json) |
 | Sausage Wars: Trapdoor Hell | 248061 | [248061-sausage-wars-trapdoor-hell.json](./248061-sausage-wars-trapdoor-hell.json) |
 | Saut | 242578 | [242578-saut.json](./242578-saut.json) |
+| Sauve le Shérif | 403945 | [403945-sauve-le-sherif.json](./403945-sauve-le-sherif.json) |
 | Savage | 129527 | [129527-savage.json](./129527-savage.json) |
 | Savage | 15361 | [15361-savage.json](./15361-savage.json) |
 | Savage 2: A Tortured Soul | 2243 | [2243-savage-2-a-tortured-soul.json](./2243-savage-2-a-tortured-soul.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
 | Screw Master | 340523 | [340523-screw-master.json](./340523-screw-master.json) |
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
+| Screw That | 403975 | [403975-screw-that.json](./403975-screw-that.json) |
 | Screw Workshop | 421452 | [421452-screw-workshop.json](./421452-screw-workshop.json) |
 | Screw You, Bear Dad | 57495 | [57495-screw-you-bear-dad.json](./57495-screw-you-bear-dad.json) |
 | Screw-Nut | 87970 | [87970-screw-nut.json](./87970-screw-nut.json) |
@@ -4827,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent: Resurrection | 268877 | [268877-serpent-resurrection.json](./268877-serpent-resurrection.json) |
 | Serpent's Wake | 263361 | [263361-serpents-wake.json](./263361-serpents-wake.json) |
 | Serpentes | 141594 | [141594-serpentes.json](./141594-serpentes.json) |
+| Serpentes: Anniversary Edition | 403951 | [403951-serpentes-anniversary-edition.json](./403951-serpentes-anniversary-edition.json) |
 | Serpentine | 22769 | [22769-serpentine.json](./22769-serpentine.json) |
 | Serpico | 353816 | [353816-serpico.json](./353816-serpico.json) |
 | Serpy | 78054 | [78054-serpy.json](./78054-serpy.json) |
@@ -15363,6 +15366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls Unguarded | 129686 | [129686-souls-unguarded.json](./129686-souls-unguarded.json) |
 | Souls-Like Bundle | 227390 | [227390-souls-like-bundle.json](./227390-souls-like-bundle.json) |
 | SoulSaverOnline | 30733 | [30733-soulsaveronline.json](./30733-soulsaveronline.json) |
+| Soulscale | 403934 | [403934-soulscale.json](./403934-soulscale.json) |
 | Soulscape | 120764 | [120764-soulscape.json](./120764-soulscape.json) |
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
@@ -22827,6 +22831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strayed: Sundown Pack | 382430 | [382430-strayed-sundown-pack.json](./382430-strayed-sundown-pack.json) |
 | Strayed: Sweet Tooth Revolver Skin | 382422 | [382422-strayed-sweet-tooth-revolver-skin.json](./382422-strayed-sweet-tooth-revolver-skin.json) |
 | Strayed: Toon Revolver | 382419 | [382419-strayed-toon-revolver.json](./382419-strayed-toon-revolver.json) |
+| Straying Rules | 403922 | [403922-straying-rules.json](./403922-straying-rules.json) |
 | Strays of Rage | 341679 | [341679-strays-of-rage.json](./341679-strays-of-rage.json) |
 | Strays POV Tales | 403727 | [403727-strays-pov-tales.json](./403727-strays-pov-tales.json) |
 | StrayShot | 277808 | [277808-strayshot.json](./277808-strayshot.json) |
