@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasaba | 217369 | [217369-kasaba.json](./217369-kasaba.json) |
 | Kasama: The Awakening | 349459 | [349459-kasama-the-awakening.json](./349459-kasama-the-awakening.json) |
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
+| Kaschei | 412017 | [412017-kaschei.json](./412017-kaschei.json) |
 | Kase & Thyme: The Manor Rouge | 250180 | [250180-kase-and-thyme-the-manor-rouge.json](./250180-kase-and-thyme-the-manor-rouge.json) |
 | Kasei Monogatari | 122942 | [122942-kasei-monogatari.json](./122942-kasei-monogatari.json) |
 | Kaseifu Koi wa Keiyaku Kara | 238408 | [238408-kaseifu-koi-wa-keiyaku-kara.json](./238408-kaseifu-koi-wa-keiyaku-kara.json) |
