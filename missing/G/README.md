@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gladiators | 5473 | [5473-galactic-gladiators.json](./5473-galactic-gladiators.json) |
 | Galactic Glitch | 250761 | [250761-galactic-glitch.json](./250761-galactic-glitch.json) |
 | Galactic Glitch: Prologue | 211690 | [211690-galactic-glitch-prologue.json](./211690-galactic-glitch-prologue.json) |
+| Galactic Gravity Golf | 387921 | [387921-galactic-gravity-golf.json](./387921-galactic-gravity-golf.json) |
 | Galactic Guardian | 316807 | [316807-galactic-guardian.json](./316807-galactic-guardian.json) |
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
@@ -3104,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Giant | 103272 | [103272-ghost-giant.json](./103272-ghost-giant.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
 | Ghost Grimoire | 178949 | [178949-ghost-grimoire.json](./178949-ghost-grimoire.json) |
+| Ghost Guidance | 387922 | [387922-ghost-guidance.json](./387922-ghost-guidance.json) |
 | Ghost Gunners | 367822 | [367822-ghost-gunners.json](./367822-ghost-gunners.json) |
 | Ghost Guns | 122175 | [122175-ghost-guns.json](./122175-ghost-guns.json) |
 | Ghost Hand | 264672 | [264672-ghost-hand.json](./264672-ghost-hand.json) |
@@ -4007,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glazed Mirror: Myriad Cards | 417338 | [417338-glazed-mirror-myriad-cards.json](./417338-glazed-mirror-myriad-cards.json) |
 | Gleam of Fire | 105817 | [105817-gleam-of-fire.json](./105817-gleam-of-fire.json) |
 | Gleamlight | 127304 | [127304-gleamlight.json](./127304-gleamlight.json) |
+| Glean | 387924 | [387924-glean.json](./387924-glean.json) |
 | Gleaner Heights: Season 2 | 196082 | [196082-gleaner-heights-season-2.json](./196082-gleaner-heights-season-2.json) |
 | Glee. | 92687 | [92687-glee.json](./92687-glee.json) |
 | Gleeb Glob | 221613 | [221613-gleeb-glob.json](./221613-gleeb-glob.json) |
@@ -9061,6 +9064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunmancer | 164963 | [164963-gunmancer.json](./164963-gunmancer.json) |
 | GunMania | 328953 | [328953-gunmania.json](./328953-gunmania.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
+| GunMaster Onslaught 2.0 | 387925 | [387925-gunmaster-onslaught-2-0.json](./387925-gunmaster-onslaught-2-0.json) |
 | Gunmen Wars | 62095 | [62095-gunmen-wars.json](./62095-gunmen-wars.json) |
 | Gunmetal Gothic | 252581 | [252581-gunmetal-gothic.json](./252581-gunmetal-gothic.json) |
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
