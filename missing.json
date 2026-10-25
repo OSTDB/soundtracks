@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-25T14:53:18.961Z",
-  "total_missing": 260901,
+  "generated_at": "2026-10-25T15:03:35.827Z",
+  "total_missing": 260950,
   "games": [
     {
       "igdb_id": 191680,
@@ -29497,6 +29497,11 @@
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
     },
     {
+      "igdb_id": 342233,
+      "game_name": "Adventures In Time & Space",
+      "file": "missing/A/342233-adventures-in-time-and-space.json"
+    },
+    {
       "igdb_id": 134695,
       "game_name": "Adventures of a Radish",
       "file": "missing/A/134695-adventures-of-a-radish.json"
@@ -36105,6 +36110,11 @@
       "igdb_id": 196643,
       "game_name": "Air Hockey Puzzles",
       "file": "missing/A/196643-air-hockey-puzzles.json"
+    },
+    {
+      "igdb_id": 404511,
+      "game_name": "Air Hockey Roguelike",
+      "file": "missing/A/404511-air-hockey-roguelike.json"
     },
     {
       "igdb_id": 379525,
@@ -63172,6 +63182,11 @@
       "file": "missing/A/270300-aquapark-io-complete-edition.json"
     },
     {
+      "igdb_id": 404544,
+      "game_name": "Aquapark io: Cool Edition",
+      "file": "missing/A/404544-aquapark-io-cool-edition.json"
+    },
+    {
       "igdb_id": 263526,
       "game_name": "Aquapark io: Movie Stars DLC",
       "file": "missing/A/263526-aquapark-io-movie-stars-dlc.json"
@@ -68880,6 +68895,11 @@
       "igdb_id": 73794,
       "game_name": "Are We There Yet?",
       "file": "missing/A/73794-are-we-there-yet.json"
+    },
+    {
+      "igdb_id": 404514,
+      "game_name": "Are You a Pilot",
+      "file": "missing/A/404514-are-you-a-pilot.json"
     },
     {
       "igdb_id": 132566,
@@ -79100,6 +79120,11 @@
       "igdb_id": 202583,
       "game_name": "Astral Ascension",
       "file": "missing/A/202583-astral-ascension.json"
+    },
+    {
+      "igdb_id": 404539,
+      "game_name": "Astral Ascent: Arven - The Wolf Blade",
+      "file": "missing/A/404539-astral-ascent-arven-the-wolf-blade.json"
     },
     {
       "igdb_id": 313217,
@@ -93757,11 +93782,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -106560,6 +106580,11 @@
       "igdb_id": 336704,
       "game_name": "Battle Street",
       "file": "missing/B/336704-battle-street.json"
+    },
+    {
+      "igdb_id": 404526,
+      "game_name": "Battle Strike",
+      "file": "missing/B/404526-battle-strike.json"
     },
     {
       "igdb_id": 169103,
@@ -197582,6 +197607,11 @@
       "file": "missing/C/232002-choreo-legend-of-loco.json"
     },
     {
+      "igdb_id": 404519,
+      "game_name": "ChoreoCraft",
+      "file": "missing/C/404519-choreocraft.json"
+    },
+    {
       "igdb_id": 261728,
       "game_name": "Chores of Corruption",
       "file": "missing/C/261728-chores-of-corruption.json"
@@ -253512,6 +253542,11 @@
       "file": "missing/D/276199-damsels-in-distress.json"
     },
     {
+      "igdb_id": 404525,
+      "game_name": "Damsels in Distress",
+      "file": "missing/D/404525-damsels-in-distress.json"
+    },
+    {
       "igdb_id": 91825,
       "game_name": "Damzel",
       "file": "missing/D/91825-damzel.json"
@@ -271572,6 +271607,11 @@
       "file": "missing/D/305845-decor-dream.json"
     },
     {
+      "igdb_id": 404527,
+      "game_name": "Decorate Cozy Home",
+      "file": "missing/D/404527-decorate-cozy-home.json"
+    },
+    {
       "igdb_id": 375544,
       "game_name": "Decoration Disorder Disconnection 1",
       "file": "missing/D/375544-decoration-disorder-disconnection-1.json"
@@ -274560,6 +274600,11 @@
       "igdb_id": 136116,
       "game_name": "Defrag",
       "file": "missing/D/136116-defrag.json"
+    },
+    {
+      "igdb_id": 404516,
+      "game_name": "Defrag Incremental",
+      "file": "missing/D/404516-defrag-incremental.json"
     },
     {
       "igdb_id": 33935,
@@ -294627,6 +294672,11 @@
       "file": "missing/D/262829-dissent-on-mars.json"
     },
     {
+      "igdb_id": 404507,
+      "game_name": "Dissida Final Fantasy NT: Riona Heartlilly Starter Pack",
+      "file": "missing/D/404507-dissida-final-fantasy-nt-riona-heartlilly-starter-pack.json"
+    },
+    {
       "igdb_id": 383762,
       "game_name": "Dissida Final Fantsy NT: Tifa Lockhart Starter Pack",
       "file": "missing/D/383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json"
@@ -294647,9 +294697,19 @@
       "file": "missing/D/224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json"
     },
     {
+      "igdb_id": 404522,
+      "game_name": "Dissidia Final Fantasy NT: Kam'lanaut Starter Pack",
+      "file": "missing/D/404522-dissidia-final-fantasy-nt-kamlanaut-starter-pack.json"
+    },
+    {
       "igdb_id": 224427,
       "game_name": "Dissidia Final Fantasy NT: Samurai App. Set & 5th Weapon for Bartz Klauser",
       "file": "missing/D/224427-dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser.json"
+    },
+    {
+      "igdb_id": 404524,
+      "game_name": "Dissidia Final Fantasy NT: Snow Villiers Starter Pack",
+      "file": "missing/D/404524-dissidia-final-fantasy-nt-snow-villiers-starter-pack.json"
     },
     {
       "igdb_id": 224429,
@@ -294665,6 +294725,11 @@
       "igdb_id": 136333,
       "game_name": "Dissidia Final Fantasy NT: Steelbook Brawler Edition",
       "file": "missing/D/136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json"
+    },
+    {
+      "igdb_id": 404523,
+      "game_name": "Dissidia Final Fantasy NT: Yuna Starter Pack",
+      "file": "missing/D/404523-dissidia-final-fantasy-nt-yuna-starter-pack.json"
     },
     {
       "igdb_id": 293516,
@@ -362647,6 +362712,11 @@
       "file": "missing/E/47265-explorers-of-space.json"
     },
     {
+      "igdb_id": 404528,
+      "game_name": "Explorers of the Brick Universe",
+      "file": "missing/E/404528-explorers-of-the-brick-universe.json"
+    },
+    {
       "igdb_id": 152280,
       "game_name": "Explorers: Deluxe Edition",
       "file": "missing/E/152280-explorers-deluxe-edition.json"
@@ -379700,6 +379770,11 @@
       "igdb_id": 406282,
       "game_name": "Fee Payment & Cigarettes",
       "file": "missing/F/406282-fee-payment-and-cigarettes.json"
+    },
+    {
+      "igdb_id": 404510,
+      "game_name": "FeeBay Simulator",
+      "file": "missing/F/404510-feebay-simulator.json"
     },
     {
       "igdb_id": 105545,
@@ -428687,6 +428762,11 @@
       "file": "missing/G/207865-gamestart-pixel-battle.json"
     },
     {
+      "igdb_id": 404513,
+      "game_name": "GameSyndicates",
+      "file": "missing/G/404513-gamesyndicates.json"
+    },
+    {
       "igdb_id": 72072,
       "game_name": "Gametrak: Dark Wind",
       "file": "missing/G/72072-gametrak-dark-wind.json"
@@ -429735,6 +429815,11 @@
       "igdb_id": 53086,
       "game_name": "Garden Defense",
       "file": "missing/G/53086-garden-defense.json"
+    },
+    {
+      "igdb_id": 404529,
+      "game_name": "Garden Designer Simulator",
+      "file": "missing/G/404529-garden-designer-simulator.json"
     },
     {
       "igdb_id": 387727,
@@ -478847,6 +478932,11 @@
       "file": "missing/H/28843-harvest-moon-light-of-hope.json"
     },
     {
+      "igdb_id": 404555,
+      "game_name": "Harvest Moon: Light of Hope - Decorations & Tool Upgrade Pack",
+      "file": "missing/H/404555-harvest-moon-light-of-hope-decorations-and-tool-upgrade-pack.json"
+    },
+    {
       "igdb_id": 225043,
       "game_name": "Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack",
       "file": "missing/H/225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json"
@@ -478935,6 +479025,11 @@
       "igdb_id": 269053,
       "game_name": "Harvest Moon: The Winds of Anthos - Animal Avalanche Pack",
       "file": "missing/H/269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json"
+    },
+    {
+      "igdb_id": 404553,
+      "game_name": "Harvest Moon: The Winds of Anthos - Interior Design & Tool Upgrade Pack",
+      "file": "missing/H/404553-harvest-moon-the-winds-of-anthos-interior-design-and-tool-upgrade-pack.json"
     },
     {
       "igdb_id": 270288,
@@ -495520,6 +495615,11 @@
       "igdb_id": 110601,
       "game_name": "Hexanome",
       "file": "missing/H/110601-hexanome.json"
+    },
+    {
+      "igdb_id": 404530,
+      "game_name": "Hexara",
+      "file": "missing/H/404530-hexara.json"
     },
     {
       "igdb_id": 175932,
@@ -537932,6 +538032,11 @@
       "file": "missing/I/120843-infinity-pipe.json"
     },
     {
+      "igdb_id": 404508,
+      "game_name": "Infinity Plus",
+      "file": "missing/I/404508-infinity-plus.json"
+    },
+    {
       "igdb_id": 211042,
       "game_name": "Infinity Project: Patterns",
       "file": "missing/I/211042-infinity-project-patterns.json"
@@ -561707,6 +561812,11 @@
       "file": "missing/J/369575-journey-of-carrying-light.json"
     },
     {
+      "igdb_id": 404520,
+      "game_name": "Journey of Destiny",
+      "file": "missing/J/404520-journey-of-destiny.json"
+    },
+    {
       "igdb_id": 116510,
       "game_name": "Journey of Greed",
       "file": "missing/J/116510-journey-of-greed.json"
@@ -579520,11 +579630,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -606657,9 +606762,19 @@
       "file": "missing/L/404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json"
     },
     {
+      "igdb_id": 404540,
+      "game_name": "LEGO Batman: Legacy of the Dark Knight - Mayhem Mode",
+      "file": "missing/L/404540-lego-batman-legacy-of-the-dark-knight-mayhem-mode.json"
+    },
+    {
       "igdb_id": 404395,
       "game_name": "LEGO Batman: Legacy of the Dark Knight - Party Music Pack",
       "file": "missing/L/404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json"
+    },
+    {
+      "igdb_id": 404541,
+      "game_name": "LEGO Batman: Legacy of the Dark Knight - Sinister Pack",
+      "file": "missing/L/404541-lego-batman-legacy-of-the-dark-knight-sinister-pack.json"
     },
     {
       "igdb_id": 409868,
@@ -666492,6 +666607,11 @@
       "file": "missing/M/271696-mega-dystopia-micro-architect.json"
     },
     {
+      "igdb_id": 404531,
+      "game_name": "Mega Eater Girls",
+      "file": "missing/M/404531-mega-eater-girls.json"
+    },
+    {
       "igdb_id": 213057,
       "game_name": "Mega Fast Food",
       "file": "missing/M/213057-mega-fast-food.json"
@@ -699832,6 +699952,11 @@
       "file": "missing/M/193971-monstar.json"
     },
     {
+      "igdb_id": 404532,
+      "game_name": "MonStars: Karaoke Party",
+      "file": "missing/M/404532-monstars-karaoke-party.json"
+    },
+    {
       "igdb_id": 67095,
       "game_name": "Monsteca Corral",
       "file": "missing/M/67095-monsteca-corral.json"
@@ -707920,6 +708045,11 @@
       "igdb_id": 252361,
       "game_name": "Móshòu Shìjiè: Èmó Lièrén",
       "file": "missing/M/252361-moshou-shijie-emo-lieren.json"
+    },
+    {
+      "igdb_id": 404512,
+      "game_name": "MoSimulator",
+      "file": "missing/M/404512-mosimulator.json"
     },
     {
       "igdb_id": 293361,
@@ -720460,6 +720590,11 @@
       "igdb_id": 385205,
       "game_name": "My Horse Stories: Gold Edition",
       "file": "missing/M/385205-my-horse-stories-gold-edition.json"
+    },
+    {
+      "igdb_id": 404545,
+      "game_name": "My Horse Stories: Stylish Edition",
+      "file": "missing/M/404545-my-horse-stories-stylish-edition.json"
     },
     {
       "igdb_id": 300932,
@@ -784222,6 +784357,11 @@
       "file": "missing/P/382221-p-i-s.json"
     },
     {
+      "igdb_id": 404533,
+      "game_name": "P.I.S. File",
+      "file": "missing/P/404533-p-i-s-file.json"
+    },
+    {
       "igdb_id": 209382,
       "game_name": "P.J. Pride Pet Detective, Destination: Europe",
       "file": "missing/P/209382-p-j-pride-pet-detective-destination-europe.json"
@@ -822412,6 +822552,11 @@
       "file": "missing/P/12620-planetfall.json"
     },
     {
+      "igdb_id": 404534,
+      "game_name": "Planetfall Conquerors",
+      "file": "missing/P/404534-planetfall-conquerors.json"
+    },
+    {
       "igdb_id": 404360,
       "game_name": "PlanetForge Protocol",
       "file": "missing/P/404360-planetforge-protocol.json"
@@ -858602,6 +858747,11 @@
       "file": "missing/P/365552-puzzle-book-horizon-edition.json"
     },
     {
+      "igdb_id": 404546,
+      "game_name": "Puzzle Book: Square Edition",
+      "file": "missing/P/404546-puzzle-book-square-edition.json"
+    },
+    {
       "igdb_id": 238036,
       "game_name": "Puzzle Book: Summer 2020",
       "file": "missing/P/238036-puzzle-book-summer-2020.json"
@@ -860185,6 +860335,11 @@
       "igdb_id": 138794,
       "game_name": "Puzzlebot Challenge",
       "file": "missing/P/138794-puzzlebot-challenge.json"
+    },
+    {
+      "igdb_id": 404535,
+      "game_name": "PuzzleCore",
+      "file": "missing/P/404535-puzzlecore.json"
     },
     {
       "igdb_id": 100211,
@@ -862005,6 +862160,11 @@
       "igdb_id": 63548,
       "game_name": "Qbots",
       "file": "missing/Q/63548-qbots.json"
+    },
+    {
+      "igdb_id": 404548,
+      "game_name": "QBReader",
+      "file": "missing/Q/404548-qbreader.json"
     },
     {
       "igdb_id": 78079,
@@ -875310,6 +875470,11 @@
       "igdb_id": 398265,
       "game_name": "Rapunzel",
       "file": "missing/R/398265-rapunzel.json"
+    },
+    {
+      "igdb_id": 404536,
+      "game_name": "Rapunzel & Thumbelina: The Tiny Adventure",
+      "file": "missing/R/404536-rapunzel-and-thumbelina-the-tiny-adventure.json"
     },
     {
       "igdb_id": 264325,
@@ -921142,6 +921307,11 @@
       "file": "missing/S/303881-s-n-i-p-e-r-hunter-scope-ultimate-firepower.json"
     },
     {
+      "igdb_id": 404554,
+      "game_name": "S.N.I.P.E.R.: Hunter Scope - Weaponry Upgrade",
+      "file": "missing/S/404554-s-n-i-p-e-r-hunter-scope-weaponry-upgrade.json"
+    },
+    {
       "igdb_id": 378966,
       "game_name": "S.N.I.P.E.R.: Hunter Scope Hostile Territory",
       "file": "missing/S/378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json"
@@ -931200,6 +931370,11 @@
       "igdb_id": 333020,
       "game_name": "Sayonara Wild Hearts",
       "file": "missing/S/333020-sayonara-wild-hearts.json"
+    },
+    {
+      "igdb_id": 404543,
+      "game_name": "Sayonara Wild Hearts + Lorelei and the Laser Eyes Bundle",
+      "file": "missing/S/404543-sayonara-wild-hearts-lorelei-and-the-laser-eyes-bundle.json"
     },
     {
       "igdb_id": 409424,
@@ -1010512,6 +1010687,11 @@
       "file": "missing/S/194335-spire-blast.json"
     },
     {
+      "igdb_id": 404542,
+      "game_name": "Spire Blast: Blastee Costumes Pack 3",
+      "file": "missing/S/404542-spire-blast-blastee-costumes-pack-3.json"
+    },
+    {
       "igdb_id": 257687,
       "game_name": "Spire Horizon",
       "file": "missing/S/257687-spire-horizon.json"
@@ -1039527,6 +1039707,11 @@
       "file": "missing/S/77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json"
     },
     {
+      "igdb_id": 404509,
+      "game_name": "Subfault",
+      "file": "missing/S/404509-subfault.json"
+    },
+    {
       "igdb_id": 59725,
       "game_name": "SubGlobal",
       "file": "missing/S/59725-subglobal.json"
@@ -1066322,6 +1066507,11 @@
       "file": "missing/S/180718-sword-fishing.json"
     },
     {
+      "igdb_id": 404518,
+      "game_name": "Sword Flinger",
+      "file": "missing/S/404518-sword-flinger.json"
+    },
+    {
       "igdb_id": 143473,
       "game_name": "Sword Game",
       "file": "missing/S/143473-sword-game.json"
@@ -1075555,6 +1075745,11 @@
       "igdb_id": 140560,
       "game_name": "Talisman Online",
       "file": "missing/T/140560-talisman-online.json"
+    },
+    {
+      "igdb_id": 404556,
+      "game_name": "Talisman Ultimate Upgrade Bundle",
+      "file": "missing/T/404556-talisman-ultimate-upgrade-bundle.json"
     },
     {
       "igdb_id": 302175,
@@ -1107710,6 +1107905,11 @@
       "igdb_id": 379150,
       "game_name": "The Farm",
       "file": "missing/T/379150-the-farm.json"
+    },
+    {
+      "igdb_id": 404521,
+      "game_name": "The Farm Racing",
+      "file": "missing/T/404521-the-farm-racing.json"
     },
     {
       "igdb_id": 180749,
@@ -1168532,6 +1168732,11 @@
       "file": "missing/T/207133-to-become-a-tengu.json"
     },
     {
+      "igdb_id": 404537,
+      "game_name": "To Bee Jazz",
+      "file": "missing/T/404537-to-bee-jazz.json"
+    },
+    {
       "igdb_id": 184801,
       "game_name": "To Bee or Not to Bee",
       "file": "missing/T/184801-to-bee-or-not-to-bee.json"
@@ -1208350,6 +1208555,11 @@
       "igdb_id": 317245,
       "game_name": "Uboat Attack: Complete Edition",
       "file": "missing/U/317245-uboat-attack-complete-edition.json"
+    },
+    {
+      "igdb_id": 404547,
+      "game_name": "Uboat Attack: Double Attack Edition",
+      "file": "missing/U/404547-uboat-attack-double-attack-edition.json"
     },
     {
       "igdb_id": 385212,
@@ -1276147,6 +1276357,11 @@
       "file": "missing/W/251049-world-war-combat-guardian.json"
     },
     {
+      "igdb_id": 404538,
+      "game_name": "World War: D-Day 1944",
+      "file": "missing/W/404538-world-war-d-day-1944.json"
+    },
+    {
       "igdb_id": 275042,
       "game_name": "World War: D-Day Part One",
       "file": "missing/W/275042-world-war-d-day-part-one.json"
@@ -1277927,9 +1278142,29 @@
       "file": "missing/W/114432-wrc-8.json"
     },
     {
+      "igdb_id": 404552,
+      "game_name": "WRC 8: Alpine A110 (1973)",
+      "file": "missing/W/404552-wrc-8-alpine-a110-1973.json"
+    },
+    {
       "igdb_id": 216231,
       "game_name": "WRC 8: Deluxe Edition",
       "file": "missing/W/216231-wrc-8-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 404551,
+      "game_name": "WRC 8: Ford Escort MkII 1800 (1979)",
+      "file": "missing/W/404551-wrc-8-ford-escort-mkii-1800-1979.json"
+    },
+    {
+      "igdb_id": 404550,
+      "game_name": "WRC 8: Lancia Delta HF Integrale Evoluzione (1992)",
+      "file": "missing/W/404550-wrc-8-lancia-delta-hf-integrale-evoluzione-1992.json"
+    },
+    {
+      "igdb_id": 404549,
+      "game_name": "WRC 8: RWD Legends",
+      "file": "missing/W/404549-wrc-8-rwd-legends.json"
     },
     {
       "igdb_id": 133773,
@@ -1300257,6 +1300492,11 @@
       "file": "missing/Z/130195-zombie-defense-shelter.json"
     },
     {
+      "igdb_id": 404557,
+      "game_name": "Zombie Defense: Banana",
+      "file": "missing/Z/404557-zombie-defense-banana.json"
+    },
+    {
       "igdb_id": 277914,
       "game_name": "Zombie Defense: Commando Edition",
       "file": "missing/Z/277914-zombie-defense-commando-edition.json"
@@ -1300285,6 +1300525,11 @@
       "igdb_id": 306518,
       "game_name": "Zombie Defense: Pew Pew Edition",
       "file": "missing/Z/306518-zombie-defense-pew-pew-edition.json"
+    },
+    {
+      "igdb_id": 404558,
+      "game_name": "Zombie Defense: Thunder Hammer",
+      "file": "missing/Z/404558-zombie-defense-thunder-hammer.json"
     },
     {
       "igdb_id": 340994,
