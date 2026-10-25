@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Dark | 243606 | [243606-back-to-the-dark.json](./243606-back-to-the-dark.json) |
 | Back to the Dawn | 200544 | [200544-back-to-the-dawn.json](./200544-back-to-the-dawn.json) |
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
+| Back to the Egg! | 55742 | [55742-back-to-the-egg.json](./55742-back-to-the-egg.json) |
 | Back to the Fooker: Zombie Fooker 2 | 273820 | [273820-back-to-the-fooker-zombie-fooker-2.json](./273820-back-to-the-fooker-zombie-fooker-2.json) |
 | Back to the Future | 8516 | [8516-back-to-the-future.json](./8516-back-to-the-future.json) |
 | Back to the Future III | 218360 | [218360-back-to-the-future-iii.json](./218360-back-to-the-future-iii.json) |
@@ -9456,6 +9457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Angel 69 | 11970 | [11970-blue-angel-69.json](./11970-blue-angel-69.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
+| Blue Angels Aerobatic Flight Simulator | 55544 | [55544-blue-angels-aerobatic-flight-simulator.json](./55544-blue-angels-aerobatic-flight-simulator.json) |
 | Blue Angels: Aerobatic Sim | 110206 | [110206-blue-angels-aerobatic-sim.json](./110206-blue-angels-aerobatic-sim.json) |
 | Blue Angels: Formation Flight Simulation | 11971 | [11971-blue-angels-formation-flight-simulation.json](./11971-blue-angels-formation-flight-simulation.json) |
 | Blue Angels: Ready, Break! | 110207 | [110207-blue-angels-ready-break.json](./110207-blue-angels-ready-break.json) |
@@ -14037,6 +14039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Mark | 171851 | [171851-bullet-mark.json](./171851-bullet-mark.json) |
 | Bullet Noir | 317536 | [317536-bullet-noir.json](./317536-bullet-noir.json) |
 | Bullet Ouroboros | 391646 | [391646-bullet-ouroboros.json](./391646-bullet-ouroboros.json) |
+| Bullet Party | 43075 | [43075-bullet-party.json](./43075-bullet-party.json) |
 | Bullet Priest | 219732 | [219732-bullet-priest.json](./219732-bullet-priest.json) |
 | Bullet Quest | 199461 | [199461-bullet-quest.json](./199461-bullet-quest.json) |
 | Bullet Race | 281975 | [281975-bullet-race.json](./281975-bullet-race.json) |
