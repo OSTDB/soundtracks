@@ -5558,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Viral | 90535 | [90535-gone-viral.json](./90535-gone-viral.json) |
 | Gone Wandering | 215061 | [215061-gone-wandering.json](./215061-gone-wandering.json) |
 | Gone with Hideyoshi | 64636 | [64636-gone-with-hideyoshi.json](./64636-gone-with-hideyoshi.json) |
+| Gone with the Demon | 31244 | [31244-gone-with-the-demon.json](./31244-gone-with-the-demon.json) |
 | GONE: Game of Necromancy Education | 364989 | [364989-gone-game-of-necromancy-education.json](./364989-gone-game-of-necromancy-education.json) |
 | Gone: Survival | 132473 | [132473-gone-survival.json](./132473-gone-survival.json) |
 | Goner In The Town | 320037 | [320037-goner-in-the-town.json](./320037-goner-in-the-town.json) |
