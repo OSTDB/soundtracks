@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
 | Carbuncle Pi | 400985 | [400985-carbuncle-pi.json](./400985-carbuncle-pi.json) |
 | Carcará: Asas da Justiça | 133857 | [133857-carcara-asas-da-justica.json](./133857-carcara-asas-da-justica.json) |
+| Carcass Clad | 405160 | [405160-carcass-clad.json](./405160-carcass-clad.json) |
 | Carcassonne | 21832 | [21832-carcassonne.json](./21832-carcassonne.json) |
 | Carcassonne | 370250 | [370250-carcassonne.json](./370250-carcassonne.json) |
 | Carcassonne DS | 66992 | [66992-carcassonne-ds.json](./66992-carcassonne-ds.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Bridge 2 | 197233 | [197233-cargo-bridge-2.json](./197233-cargo-bridge-2.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
 | Cargo Crew Driver | 147691 | [147691-cargo-crew-driver.json](./147691-cargo-crew-driver.json) |
+| Cargo Crush Zero | 405141 | [405141-cargo-crush-zero.json](./405141-cargo-crush-zero.json) |
 | Cargo Cult | 111539 | [111539-cargo-cult.json](./111539-cargo-cult.json) |
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
 | Cargo Duty | 284809 | [284809-cargo-duty.json](./284809-cargo-duty.json) |
@@ -6711,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Odyssey | 338522 | [338522-chromatic-odyssey.json](./338522-chromatic-odyssey.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromatic: Color Puzzles | 134425 | [134425-chromatic-color-puzzles.json](./134425-chromatic-color-puzzles.json) |
+| Chromatide | 405166 | [405166-chromatide.json](./405166-chromatide.json) |
 | Chromatism | 80304 | [80304-chromatism.json](./80304-chromatism.json) |
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
 | Chromatron | 77636 | [77636-chromatron.json](./77636-chromatron.json) |
@@ -8024,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
 | Classic Word Games | 79535 | [79535-classic-word-games.json](./79535-classic-word-games.json) |
 | Classic Words Plus | 101589 | [101589-classic-words-plus.json](./101589-classic-words-plus.json) |
+| Classic: Snake | 405129 | [405129-classic-snake.json](./405129-classic-snake.json) |
 | Classic64 | 308474 | [308474-classic64.json](./308474-classic64.json) |
 | Classical Contraption | 249364 | [249364-classical-contraption.json](./249364-classical-contraption.json) |
 | Classical Jukebox | 175933 | [175933-classical-jukebox.json](./175933-classical-jukebox.json) |
@@ -10623,6 +10627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Battle of Crete | 127909 | [127909-company-of-heroes-battle-of-crete.json](./127909-company-of-heroes-battle-of-crete.json) |
 | Company of Heroes: Blitzkrieg Mod | 127910 | [127910-company-of-heroes-blitzkrieg-mod.json](./127910-company-of-heroes-blitzkrieg-mod.json) |
 | Company of Heroes: Collector's Edition | 47410 | [47410-company-of-heroes-collectors-edition.json](./47410-company-of-heroes-collectors-edition.json) |
+| Company of Heroes: Definitive Edition | 405123 | [405123-company-of-heroes-definitive-edition.json](./405123-company-of-heroes-definitive-edition.json) |
 | Company of Heroes: Eastern Front | 127898 | [127898-company-of-heroes-eastern-front.json](./127898-company-of-heroes-eastern-front.json) |
 | Company of Heroes: Europe at War | 127899 | [127899-company-of-heroes-europe-at-war.json](./127899-company-of-heroes-europe-at-war.json) |
 | Company of Heroes: Far East War | 127897 | [127897-company-of-heroes-far-east-war.json](./127897-company-of-heroes-far-east-war.json) |
@@ -15414,6 +15419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ctrl-U | 272863 | [272863-ctrl-u.json](./272863-ctrl-u.json) |
 | Ctrl.Alt.Deal | 291738 | [291738-ctrl-alt-deal.json](./291738-ctrl-alt-deal.json) |
 | Ctrl/Esc | 213293 | [213293-ctrl-esc.json](./213293-ctrl-esc.json) |
+| Ctrl+Alt+Defeat Zero Humanity | 405138 | [405138-ctrl-alt-defeat-zero-humanity.json](./405138-ctrl-alt-defeat-zero-humanity.json) |
 | CtrlC | 239735 | [239735-ctrlc.json](./239735-ctrlc.json) |
 | Ctrlsink | 390252 | [390252-ctrlsink.json](./390252-ctrlsink.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
