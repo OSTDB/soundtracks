@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldermyth | 419968 | [419968-eldermyth.json](./419968-eldermyth.json) |
 | Eldertal | 422699 | [422699-eldertal.json](./422699-eldertal.json) |
 | Eldervale | 118089 | [118089-eldervale.json](./118089-eldervale.json) |
+| Eldervire | 414218 | [414218-eldervire.json](./414218-eldervire.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
 | ElDorado | 415753 | [415753-eldorado.json](./415753-eldorado.json) |
