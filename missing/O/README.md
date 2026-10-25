@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Two-Three | 91910 | [91910-one-two-three.json](./91910-one-two-three.json) |
 | One-Way | 202317 | [202317-one-way.json](./202317-one-way.json) |
 | One-way Ticket: Ep. 1 | 177797 | [177797-one-way-ticket-ep-1.json](./177797-one-way-ticket-ep-1.json) |
+| One, Two, Death | 389949 | [389949-one-two-death.json](./389949-one-two-death.json) |
 | One, Two, Three Fiancées?! | 269471 | [269471-one-two-three-fiancees.json](./269471-one-two-three-fiancees.json) |
 | One: Kagayaku Kisetsu he | 72705 | [72705-one-kagayaku-kisetsu-he.json](./72705-one-kagayaku-kisetsu-he.json) |
 | One: Secret Empire | 298657 | [298657-one-secret-empire.json](./298657-one-secret-empire.json) |
@@ -4428,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Zero | 81207 | [81207-outpost-zero.json](./81207-outpost-zero.json) |
 | Outpost: Save Yourselves | 61697 | [61697-outpost-save-yourselves.json](./61697-outpost-save-yourselves.json) |
 | Outpost: Vikings | 158616 | [158616-outpost-vikings.json](./158616-outpost-vikings.json) |
+| Outpost4 | 389936 | [389936-outpost4.json](./389936-outpost4.json) |
 | Outposts of the Wasteland | 318869 | [318869-outposts-of-the-wasteland.json](./318869-outposts-of-the-wasteland.json) |
 | Outpour | 366406 | [366406-outpour.json](./366406-outpour.json) |
 | Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
