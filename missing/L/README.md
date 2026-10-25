@@ -2017,7 +2017,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Dead Sun | 141216 | [141216-legacy-of-kain-dead-sun.json](./141216-legacy-of-kain-dead-sun.json) |
 | Legacy of Kain: Defiance | 367956 | [367956-legacy-of-kain-defiance.json](./367956-legacy-of-kain-defiance.json) |
 | Legacy of Kain: Defiance Remastered | 389423 | [389423-legacy-of-kain-defiance-remastered.json](./389423-legacy-of-kain-defiance-remastered.json) |
+| Legacy of Kain: Defiance Remastered - Ascendance Skin Pack | 403941 | [403941-legacy-of-kain-defiance-remastered-ascendance-skin-pack.json](./403941-legacy-of-kain-defiance-remastered-ascendance-skin-pack.json) |
 | Legacy of Kain: Defiance Remastered - Shifter Skin Pack | 402541 | [402541-legacy-of-kain-defiance-remastered-shifter-skin-pack.json](./402541-legacy-of-kain-defiance-remastered-shifter-skin-pack.json) |
+| Legacy of Kain: Heart of Darkness Collection | 403942 | [403942-legacy-of-kain-heart-of-darkness-collection.json](./403942-legacy-of-kain-heart-of-darkness-collection.json) |
 | Legacy of Kain: Soul Reaver | 4122 | [4122-legacy-of-kain-soul-reaver.json](./4122-legacy-of-kain-soul-reaver.json) |
 | Legacy of Kain: Soul Reaver 2 | 7893 | [7893-legacy-of-kain-soul-reaver-2.json](./7893-legacy-of-kain-soul-reaver-2.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
@@ -7564,6 +7566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Cycle | 149940 | [149940-lucid-cycle.json](./149940-lucid-cycle.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
+| Lucid Dreams | 403918 | [403918-lucid-dreams.json](./403918-lucid-dreams.json) |
 | Lucid Echoes | 275537 | [275537-lucid-echoes.json](./275537-lucid-echoes.json) |
 | Lucid Lucy | 228957 | [228957-lucid-lucy.json](./228957-lucid-lucy.json) |
 | Lucid Night | 277800 | [277800-lucid-night.json](./277800-lucid-night.json) |
