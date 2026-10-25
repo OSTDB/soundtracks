@@ -530,6 +530,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YiShi | 295135 | [295135-yishi.json](./295135-yishi.json) |
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
 | Yitien Chronicles | 23638 | [23638-yitien-chronicles.json](./23638-yitien-chronicles.json) |
+| Yīxiàxià Míngyóu Dàquán: Jīngdiǎn Chóngwēn | 408609 | [408609-yixiaxia-mingyou-daquan-jingdian-chongwen.json](./408609-yixiaxia-mingyou-daquan-jingdian-chongwen.json) |
+| Yīxiàxià Míngyóu Dàquán: Qīngsōng Xiūxián | 408615 | [408615-yixiaxia-mingyou-daquan-qingsong-xiuxian.json](./408615-yixiaxia-mingyou-daquan-qingsong-xiuxian.json) |
+| Yīxiàxià Míngyóu Dàquán: Zhìyǒng Shuāngquán | 408617 | [408617-yixiaxia-mingyou-daquan-zhiyong-shuangquan.json](./408617-yixiaxia-mingyou-daquan-zhiyong-shuangquan.json) |
 | YiYi | 368018 | [368018-yiyi.json](./368018-yiyi.json) |
 | Yīzìqiānjīn | 386966 | [386966-yiziqianjin.json](./386966-yiziqianjin.json) |
 | YKnytt | 408144 | [408144-yknytt.json](./408144-yknytt.json) |
