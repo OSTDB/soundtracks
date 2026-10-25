@@ -6066,6 +6066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Drive Mini | 215403 | [215403-mega-drive-mini.json](./215403-mega-drive-mini.json) |
 | Mega Drive Mini 2 | 215702 | [215702-mega-drive-mini-2.json](./215702-mega-drive-mini-2.json) |
 | Mega Dystopia Micro Architect | 271696 | [271696-mega-dystopia-micro-architect.json](./271696-mega-dystopia-micro-architect.json) |
+| Mega Eater Girls | 404531 | [404531-mega-eater-girls.json](./404531-mega-eater-girls.json) |
 | Mega Fast Food | 213057 | [213057-mega-fast-food.json](./213057-mega-fast-food.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
@@ -12734,6 +12735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstania | 42486 | [42486-monstania.json](./42486-monstania.json) |
 | Monstapals | 106482 | [106482-monstapals.json](./106482-monstapals.json) |
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
+| MonStars: Karaoke Party | 404532 | [404532-monstars-karaoke-party.json](./404532-monstars-karaoke-party.json) |
 | Monsteca Corral | 67095 | [67095-monsteca-corral.json](./67095-monsteca-corral.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
 | Monster 2 | 266314 | [266314-monster-2.json](./266314-monster-2.json) |
@@ -14352,6 +14354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshinken Monogatari | 410898 | [410898-moshinken-monogatari.json](./410898-moshinken-monogatari.json) |
 | Moshling Rescue! | 395487 | [395487-moshling-rescue.json](./395487-moshling-rescue.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
+| MoSimulator | 404512 | [404512-mosimulator.json](./404512-mosimulator.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
 | Mosquito Simulator | 320607 | [320607-mosquito-simulator.json](./320607-mosquito-simulator.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
@@ -16860,6 +16863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Stories | 300847 | [300847-my-horse-stories.json](./300847-my-horse-stories.json) |
 | My Horse Stories: Fancy | 300931 | [300931-my-horse-stories-fancy.json](./300931-my-horse-stories-fancy.json) |
 | My Horse Stories: Gold Edition | 385205 | [385205-my-horse-stories-gold-edition.json](./385205-my-horse-stories-gold-edition.json) |
+| My Horse Stories: Stylish Edition | 404545 | [404545-my-horse-stories-stylish-edition.json](./404545-my-horse-stories-stylish-edition.json) |
 | My Horse Stories: Summer | 300932 | [300932-my-horse-stories-summer.json](./300932-my-horse-stories-summer.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
 | My Horse Stories: Winter | 300933 | [300933-my-horse-stories-winter.json](./300933-my-horse-stories-winter.json) |
