@@ -3463,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Waifu Wash Simulator | 406570 | [406570-giant-waifu-wash-simulator.json](./406570-giant-waifu-wash-simulator.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
 | Giant’s Heart | 349948 | [349948-giant-s-heart.json](./349948-giant-s-heart.json) |
+| Giant's Path | 393442 | [393442-giants-path.json](./393442-giants-path.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
 | Giantess Playground | 413114 | [413114-giantess-playground.json](./413114-giantess-playground.json) |
 | Giantfall | 381676 | [381676-giantfall.json](./381676-giantfall.json) |
