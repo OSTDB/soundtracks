@@ -8663,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Telling B | 354389 | [354389-fortune-telling-b.json](./354389-fortune-telling-b.json) |
 | Fortune the Fated | 223415 | [223415-fortune-the-fated.json](./223415-fortune-the-fated.json) |
 | Fortune Tiles Gold | 53063 | [53063-fortune-tiles-gold.json](./53063-fortune-tiles-gold.json) |
+| Fortune Wheel | 390463 | [390463-fortune-wheel.json](./390463-fortune-wheel.json) |
 | Fortune x World: Bokura ga Game wo Tsukuru Riyuu | 382467 | [382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json](./382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json) |
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
 | Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
@@ -9153,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
 | Fragile Existence | 173020 | [173020-fragile-existence.json](./173020-fragile-existence.json) |
 | Fragile Feelings | 240688 | [240688-fragile-feelings.json](./240688-fragile-feelings.json) |
+| Fragile Frontier | 390372 | [390372-fragile-frontier.json](./390372-fragile-frontier.json) |
 | Fragile Hero and the Immortal Frog | 353830 | [353830-fragile-hero-and-the-immortal-frog.json](./353830-fragile-hero-and-the-immortal-frog.json) |
 | Fragile Peace | 370264 | [370264-fragile-peace.json](./370264-fragile-peace.json) |
 | Fragile Reflection | 309533 | [309533-fragile-reflection.json](./309533-fragile-reflection.json) |
