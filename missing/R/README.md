@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
 | Rapture: World Conquest | 47163 | [47163-rapture-world-conquest.json](./47163-rapture-world-conquest.json) |
 | Rapunzel | 398265 | [398265-rapunzel.json](./398265-rapunzel.json) |
+| Rapunzel & Thumbelina: The Tiny Adventure | 404536 | [404536-rapunzel-and-thumbelina-the-tiny-adventure.json](./404536-rapunzel-and-thumbelina-the-tiny-adventure.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rara Magic | 298790 | [298790-rara-magic.json](./298790-rara-magic.json) |
 | Rara Racer | 125769 | [125769-rara-racer.json](./125769-rara-racer.json) |
