@@ -8193,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Gaia | 217263 | [217263-guardians-of-gaia.json](./217263-guardians-of-gaia.json) |
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
 | Guardians of Gold | 90223 | [90223-guardians-of-gold.json](./90223-guardians-of-gold.json) |
+| Guardians of Graxia | 16225 | [16225-guardians-of-graxia.json](./16225-guardians-of-graxia.json) |
 | Guardians of Graxia: Elves & Dwarves | 170320 | [170320-guardians-of-graxia-elves-and-dwarves.json](./170320-guardians-of-graxia-elves-and-dwarves.json) |
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
 | Guardians of Greyrock: Card Pack - Ancient Necropolis | 335312 | [335312-guardians-of-greyrock-card-pack-ancient-necropolis.json](./335312-guardians-of-greyrock-card-pack-ancient-necropolis.json) |
