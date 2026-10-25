@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talon | 300500 | [300500-talon.json](./300500-talon.json) |
 | Talon City: Death from Above | 214173 | [214173-talon-city-death-from-above.json](./214173-talon-city-death-from-above.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
+| Talon Towers | 420755 | [420755-talon-towers.json](./420755-talon-towers.json) |
 | Talon's Blade | 221138 | [221138-talons-blade.json](./221138-talons-blade.json) |
 | Talon's End | 300033 | [300033-talons-end.json](./300033-talons-end.json) |
 | Talos Descent | 182801 | [182801-talos-descent.json](./182801-talos-descent.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teardown: Deluxe Edition | 270589 | [270589-teardown-deluxe-edition.json](./270589-teardown-deluxe-edition.json) |
 | Teardown: Folkrace | 307673 | [307673-teardown-folkrace.json](./307673-teardown-folkrace.json) |
 | Teardown: Multiplayer | 393378 | [393378-teardown-multiplayer.json](./393378-teardown-multiplayer.json) |
+| Teardown: Rally | 420797 | [420797-teardown-rally.json](./420797-teardown-rally.json) |
 | Teardown: Time Campers | 276809 | [276809-teardown-time-campers.json](./276809-teardown-time-campers.json) |
 | Teared | 287186 | [287186-teared.json](./287186-teared.json) |
 | Tearfallen | 298635 | [298635-tearfallen.json](./298635-tearfallen.json) |
@@ -8998,8 +9000,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Platinum Stars | 22507 | [22507-the-idolmaster-platinum-stars.json](./22507-the-idolmaster-platinum-stars.json) |
 | The Idolmaster: Poplinks | 142765 | [142765-the-idolmaster-poplinks.json](./142765-the-idolmaster-poplinks.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
+| The Idolmaster: Shiny Colors - A.X.E.8: Houkago Climax Girls | 420789 | [420789-the-idolmaster-shiny-colors-a-x-e-8-houkago-climax-girls.json](./420789-the-idolmaster-shiny-colors-a-x-e-8-houkago-climax-girls.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
 | The Idolmaster: Shiny Colors - Itsuka Kaze ga Yamu Sono Hi made | 415460 | [415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json](./415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json) |
+| The Idolmaster: Shiny Colors - Moshimo, L'Antica ja Nakattara | 420792 | [420792-the-idolmaster-shiny-colors-moshimo-lantica-ja-nakattara.json](./420792-the-idolmaster-shiny-colors-moshimo-lantica-ja-nakattara.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
 | The Idolmaster: Shiny Colors - Song for Prism: Honjitsu Haishin! Illumine Renaigaku Josetsu | 413515 | [413515-the-idolmaster-shiny-colors-song-for-prism-honjitsu-haishin-illumine-renaigaku-josetsu.json](./413515-the-idolmaster-shiny-colors-song-for-prism-honjitsu-haishin-illumine-renaigaku-josetsu.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
@@ -15813,6 +15817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Writer Will Do Something | 128420 | [128420-the-writer-will-do-something.json](./128420-the-writer-will-do-something.json) |
 | The Writer: A Change of Identity | 31087 | [31087-the-writer-a-change-of-identity.json](./31087-the-writer-a-change-of-identity.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
+| The Wrong Ones | 420754 | [420754-the-wrong-ones.json](./420754-the-wrong-ones.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
 | The X Animal | 54997 | [54997-the-x-animal.json](./54997-the-x-animal.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
@@ -18607,6 +18612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileKnight | 389028 | [389028-tileknight.json](./389028-tileknight.json) |
 | Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
 | TileMan.io | 262188 | [262188-tileman-io.json](./262188-tileman-io.json) |
+| Tilemancer | 420752 | [420752-tilemancer.json](./420752-tilemancer.json) |
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
 | Tiler More | 232501 | [232501-tiler-more.json](./232501-tiler-more.json) |
 | Tiles | 104574 | [104574-tiles.json](./104574-tiles.json) |
@@ -21153,6 +21159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torawase: The Girl in the Mirror | 397911 | [397911-torawase-the-girl-in-the-mirror.json](./397911-torawase-the-girl-in-the-mirror.json) |
 | Torb | 176326 | [176326-torb.json](./176326-torb.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
+| Torbjorn and the Birthday Cake Mishap | 420786 | [420786-torbjorn-and-the-birthday-cake-mishap.json](./420786-torbjorn-and-the-birthday-cake-mishap.json) |
 | Torc: Legend Of The Ogre Crown | 362968 | [362968-torc-legend-of-the-ogre-crown.json](./362968-torc-legend-of-the-ogre-crown.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
