@@ -3664,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica: Scattered Hopes | 361822 | [361822-battlestar-galactica-scattered-hopes.json](./361822-battlestar-galactica-scattered-hopes.json) |
 | Battlestar Galactica: Squadrons | 83398 | [83398-battlestar-galactica-squadrons.json](./83398-battlestar-galactica-squadrons.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
+| Battlestation: Harbinger | 24202 | [24202-battlestation-harbinger.json](./24202-battlestation-harbinger.json) |
 | Battlestations | 13872 | [13872-battlestations.json](./13872-battlestations.json) |
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
 | Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
@@ -9052,6 +9053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood: The Last Vampire - First Volume | 65028 | [65028-blood-the-last-vampire-first-volume.json](./65028-blood-the-last-vampire-first-volume.json) |
 | Blood: The Last Vampire - Last Volume | 65026 | [65026-blood-the-last-vampire-last-volume.json](./65026-blood-the-last-vampire-last-volume.json) |
 | Blood+ | 286589 | [286589-blood.json](./286589-blood.json) |
+| Blood+ One Night Kiss | 23128 | [23128-blood-one-night-kiss.json](./23128-blood-one-night-kiss.json) |
 | Blood+: Final Piece | 72478 | [72478-blood-final-piece.json](./72478-blood-final-piece.json) |
 | Blood+: Souyoku no Battle Rondo | 72477 | [72477-blood-souyoku-no-battle-rondo.json](./72477-blood-souyoku-no-battle-rondo.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
@@ -13073,6 +13075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms 3: Sons of War | 19263 | [19263-brothers-in-arms-3-sons-of-war.json](./19263-brothers-in-arms-3-sons-of-war.json) |
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
 | Brothers in Arms: Art of War | 152213 | [152213-brothers-in-arms-art-of-war.json](./152213-brothers-in-arms-art-of-war.json) |
+| Brothers in Arms: D-Day | 23117 | [23117-brothers-in-arms-d-day.json](./23117-brothers-in-arms-d-day.json) |
 | Brothers in Arms: Double Time | 4730 | [4730-brothers-in-arms-double-time.json](./4730-brothers-in-arms-double-time.json) |
 | Brothers in Arms: Furious 4 | 2034 | [2034-brothers-in-arms-furious-4.json](./2034-brothers-in-arms-furious-4.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
