@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cash_Out | 35167 | [35167-cash-out.json](./35167-cash-out.json) |
 | Cashand Case | 183822 | [183822-cashand-case.json](./183822-cashand-case.json) |
+| Cashgrab | 418216 | [418216-cashgrab.json](./418216-cashgrab.json) |
 | CashGrab | 368686 | [368686-cashgrab.json](./368686-cashgrab.json) |
 | CashGrab: Refunded | 350952 | [350952-cashgrab-refunded.json](./350952-cashgrab-refunded.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
@@ -4405,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
 | Chain Reaction | 264566 | [264566-chain-reaction.json](./264566-chain-reaction.json) |
 | Chain Reaction | 377351 | [377351-chain-reaction.json](./377351-chain-reaction.json) |
+| Chain Reaction | 418192 | [418192-chain-reaction.json](./418192-chain-reaction.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Shotgun | 374403 | [374403-chain-shotgun.json](./374403-chain-shotgun.json) |
@@ -4613,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions World Class Soccer | 46229 | [46229-champions-world-class-soccer.json](./46229-champions-world-class-soccer.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championsheep Rally | 52499 | [52499-championsheep-rally.json](./52499-championsheep-rally.json) |
+| Championship 3D Snooker | 418195 | [418195-championship-3d-snooker.json](./418195-championship-3d-snooker.json) |
 | Championship Baseball | 44396 | [44396-championship-baseball.json](./44396-championship-baseball.json) |
 | Championship Bass | 45229 | [45229-championship-bass.json](./45229-championship-bass.json) |
 | Championship Bowling | 131262 | [131262-championship-bowling.json](./131262-championship-bowling.json) |
@@ -6052,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Tycoon | 247457 | [247457-chinese-tycoon.json](./247457-chinese-tycoon.json) |
 | Chinese universities | 338515 | [338515-chinese-universities.json](./338515-chinese-universities.json) |
 | Chinese Zombie War | 62495 | [62495-chinese-zombie-war.json](./62495-chinese-zombie-war.json) |
+| Chinese-Style Takeaway | 418238 | [418238-chinese-style-takeaway.json](./418238-chinese-style-takeaway.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | ChingMing | 303730 | [303730-chingming.json](./303730-chingming.json) |
 | Chinhai | 38151 | [38151-chinhai.json](./38151-chinhai.json) |
@@ -8097,6 +8101,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Up Crew | 360057 | [360057-clean-up-crew.json](./360057-clean-up-crew.json) |
 | Clean Up Earth | 367820 | [367820-clean-up-earth.json](./367820-clean-up-earth.json) |
 | Clean Up Kids | 103115 | [103115-clean-up-kids.json](./103115-clean-up-kids.json) |
+| Clean Up Service | 418199 | [418199-clean-up-service.json](./418199-clean-up-service.json) |
+| Clean Up Time | 418200 | [418200-clean-up-time.json](./418200-clean-up-time.json) |
 | Clean Your Room | 353775 | [353775-clean-your-room.json](./353775-clean-your-room.json) |
 | Clean-up Squad | 258493 | [258493-clean-up-squad.json](./258493-clean-up-squad.json) |
 | Clean'Em Up | 35709 | [35709-cleanem-up.json](./35709-cleanem-up.json) |
@@ -9581,6 +9587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Defenders TD | 286648 | [286648-colony-defenders-td.json](./286648-colony-defenders-td.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
 | Colony Defense | 52520 | [52520-colony-defense.json](./52520-colony-defense.json) |
+| Colony Flow! | 418244 | [418244-colony-flow.json](./418244-colony-flow.json) |
 | Colony on Mars | 81916 | [81916-colony-on-mars.json](./81916-colony-on-mars.json) |
 | Colony Prospector | 99430 | [99430-colony-prospector.json](./99430-colony-prospector.json) |
 | Colony Ship: A Post-Earth Role Playing Game | 129128 | [129128-colony-ship-a-post-earth-role-playing-game.json](./129128-colony-ship-a-post-earth-role-playing-game.json) |
@@ -13720,6 +13727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create Your Own Model Railway | 158939 | [158939-create-your-own-model-railway.json](./158939-create-your-own-model-railway.json) |
 | Create your own monster | 228285 | [228285-create-your-own-monster.json](./228285-create-your-own-monster.json) |
 | Create: Above and Beyond | 331400 | [331400-create-above-and-beyond.json](./331400-create-above-and-beyond.json) |
+| CreateDun | 418239 | [418239-createdun.json](./418239-createdun.json) |
 | Createscape Town Nyanzou & Kumakichi: Escape Game | 213799 | [213799-createscape-town-nyanzou-and-kumakichi-escape-game.json](./213799-createscape-town-nyanzou-and-kumakichi-escape-game.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
@@ -15251,6 +15259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
 | Crystball | 64807 | [64807-crystball.json](./64807-crystball.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
+| Crystian and Lost Crystals | 418210 | [418210-crystian-and-lost-crystals.json](./418210-crystian-and-lost-crystals.json) |
 | Crystle Castles | 80391 | [80391-crystle-castles.json](./80391-crystle-castles.json) |
 | Cryzen.io | 282507 | [282507-cryzen-io.json](./282507-cryzen-io.json) |
 | Cryzon Part1 | 371419 | [371419-cryzon-part1.json](./371419-cryzon-part1.json) |
@@ -15376,6 +15385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
 | Cube Battler: Anna Miraiden | 70875 | [70875-cube-battler-anna-miraiden.json](./70875-cube-battler-anna-miraiden.json) |
 | Cube Battler: Debugger Shou-hen | 70874 | [70874-cube-battler-debugger-shou-hen.json](./70874-cube-battler-debugger-shou-hen.json) |
+| Cube Boy | 418208 | [418208-cube-boy.json](./418208-cube-boy.json) |
 | Cube Burst 3D | 387740 | [387740-cube-burst-3d.json](./387740-cube-burst-3d.json) |
 | Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
 | Cube Clash: Rumble and Smash | 251966 | [251966-cube-clash-rumble-and-smash.json](./251966-cube-clash-rumble-and-smash.json) |
