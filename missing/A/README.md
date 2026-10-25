@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gracewind Tale: Do You Copy? | 97468 | [97468-a-gracewind-tale-do-you-copy.json](./97468-a-gracewind-tale-do-you-copy.json) |
 | A Grain of Truth | 388278 | [388278-a-grain-of-truth.json](./388278-a-grain-of-truth.json) |
 | A Grande Bagunça Espacial: The Big Space Mess | 90459 | [90459-a-grande-bagunca-espacial-the-big-space-mess.json](./90459-a-grande-bagunca-espacial-the-big-space-mess.json) |
+| A Grave Errand | 419620 | [419620-a-grave-errand.json](./419620-a-grave-errand.json) |
 | A Graveyard for Dreams | 182105 | [182105-a-graveyard-for-dreams.json](./182105-a-graveyard-for-dreams.json) |
 | A Gravity Conspiracy | 316462 | [316462-a-gravity-conspiracy.json](./316462-a-gravity-conspiracy.json) |
 | A Great Day at the Races | 45946 | [45946-a-great-day-at-the-races.json](./45946-a-great-day-at-the-races.json) |
@@ -1564,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abo Hadeed | 84434 | [84434-abo-hadeed.json](./84434-abo-hadeed.json) |
 | Abo Mando | 33826 | [33826-abo-mando.json](./33826-abo-mando.json) |
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
+| Abobi's Guide | 419622 | [419622-abobis-guide.json](./419622-abobis-guide.json) |
 | Abobo's Big Adventure | 8735 | [8735-abobos-big-adventure.json](./8735-abobos-big-adventure.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abode | 415495 | [415495-abode.json](./415495-abode.json) |
@@ -8097,6 +8099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Force | 104271 | [104271-animal-force.json](./104271-animal-force.json) |
 | Animal Frenzy | 256374 | [256374-animal-frenzy.json](./256374-animal-frenzy.json) |
 | Animal Friends Adventure | 117637 | [117637-animal-friends-adventure.json](./117637-animal-friends-adventure.json) |
+| Animal Games | 419587 | [419587-animal-games.json](./419587-animal-games.json) |
 | Animal Gem Puzzle | 297653 | [297653-animal-gem-puzzle.json](./297653-animal-gem-puzzle.json) |
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
 | Animal Genius | 69192 | [69192-animal-genius.json](./69192-animal-genius.json) |
@@ -9932,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Bomb Bee | 378489 | [378489-arcade-archives-2-bomb-bee.json](./378489-arcade-archives-2-bomb-bee.json) |
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
+| Arcade Archives 2: Dacholer | 419602 | [419602-arcade-archives-2-dacholer.json](./419602-arcade-archives-2-dacholer.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
@@ -11649,6 +11653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrrrrr! | 72310 | [72310-arrrrrr.json](./72310-arrrrrr.json) |
 | Arruyo | 201561 | [201561-arruyo.json](./201561-arruyo.json) |
 | Ars Demonium Invocatum | 350230 | [350230-ars-demonium-invocatum.json](./350230-ars-demonium-invocatum.json) |
+| Ars et Anima | 419585 | [419585-ars-et-anima.json](./419585-ars-et-anima.json) |
 | Ars Goetia | 338157 | [338157-ars-goetia.json](./338157-ars-goetia.json) |
 | Ars Mechanica | 382198 | [382198-ars-mechanica.json](./382198-ars-mechanica.json) |
 | Ars Notoria | 214014 | [214014-ars-notoria.json](./214014-ars-notoria.json) |
@@ -11954,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arxon | 93062 | [93062-arxon.json](./93062-arxon.json) |
 | Ary and the Secret of Seasons | 54645 | [54645-ary-and-the-secret-of-seasons.json](./54645-ary-and-the-secret-of-seasons.json) |
 | Arya Vaiv | 69710 | [69710-arya-vaiv.json](./69710-arya-vaiv.json) |
+| Aryze | 419625 | [419625-aryze.json](./419625-aryze.json) |
 | ARZombi | 103569 | [103569-arzombi.json](./103569-arzombi.json) |
 | As A Vampire | 382553 | [382553-as-a-vampire.json](./382553-as-a-vampire.json) |
 | As Above AtumRa So Below | 235772 | [235772-as-above-atumra-so-below.json](./235772-as-above-atumra-so-below.json) |
@@ -13152,6 +13158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astropulse: Reincarnation | 327646 | [327646-astropulse-reincarnation.json](./327646-astropulse-reincarnation.json) |
 | Astrorun | 330601 | [330601-astrorun.json](./330601-astrorun.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
+| Astrosaurox | 419603 | [419603-astrosaurox.json](./419603-astrosaurox.json) |
 | AstroScaper | 337774 | [337774-astroscaper.json](./337774-astroscaper.json) |
 | AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
 | AstroSlugs | 8393 | [8393-astroslugs.json](./8393-astroslugs.json) |
@@ -14292,6 +14299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn's End | 420211 | [420211-autumns-end.json](./420211-autumns-end.json) |
 | Autumn's Journey | 114775 | [114775-autumns-journey.json](./114775-autumns-journey.json) |
 | Autumn's Treasures: The Jade Coin | 22119 | [22119-autumns-treasures-the-jade-coin.json](./22119-autumns-treasures-the-jade-coin.json) |
+| Aux Battles | 419617 | [419617-aux-battles.json](./419617-aux-battles.json) |
 | Auxin | 267478 | [267478-auxin.json](./267478-auxin.json) |
 | Auxworld | 272306 | [272306-auxworld.json](./272306-auxworld.json) |
 | AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
