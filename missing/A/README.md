@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A storm is approaching | 184447 | [184447-a-storm-is-approaching.json](./184447-a-storm-is-approaching.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
+| A Story Beside | 110710 | [110710-a-story-beside.json](./110710-a-story-beside.json) |
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
 | A Story of a Band | 103227 | [103227-a-story-of-a-band.json](./103227-a-story-of-a-band.json) |
 | A Story of Distress | 86606 | [86606-a-story-of-distress.json](./86606-a-story-of-distress.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adapta Solva | 376842 | [376842-adapta-solva.json](./376842-adapta-solva.json) |
 | AdaptaTank | 143930 | [143930-adaptatank.json](./143930-adaptatank.json) |
 | Adaptory | 222870 | [222870-adaptory.json](./222870-adaptory.json) |
+| Adaptr | 110574 | [110574-adaptr.json](./110574-adaptr.json) |
 | Adarin Farm | 187408 | [187408-adarin-farm.json](./187408-adarin-farm.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Adarna: Alamat ni Maria Blanca | 120168 | [120168-adarna-alamat-ni-maria-blanca.json](./120168-adarna-alamat-ni-maria-blanca.json) |
@@ -2844,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Joystick | 214687 | [214687-adventure-joystick.json](./214687-adventure-joystick.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Lamp | 24040 | [24040-adventure-lamp.json](./24040-adventure-lamp.json) |
+| Adventure Land: The Code MMORPG | 113728 | [113728-adventure-land-the-code-mmorpg.json](./113728-adventure-land-the-code-mmorpg.json) |
 | Adventure Learning Inside Humans | 356071 | [356071-adventure-learning-inside-humans.json](./356071-adventure-learning-inside-humans.json) |
 | ADventure Lib | 35109 | [35109-adventure-lib.json](./35109-adventure-lib.json) |
 | Adventure Light | 149534 | [149534-adventure-light.json](./149534-adventure-light.json) |
@@ -3699,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear 4: The Iron Killer | 118733 | [118733-age-of-fear-4-the-iron-killer.json](./118733-age-of-fear-4-the-iron-killer.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
+| Age of Fear: The Undead King Gold | 110714 | [110714-age-of-fear-the-undead-king-gold.json](./110714-age-of-fear-the-undead-king-gold.json) |
 | Age of Fear: The Undead King Gold - The Quest for Immortality | 171429 | [171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json](./171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
@@ -3760,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Tribes | 104520 | [104520-age-of-tribes.json](./104520-age-of-tribes.json) |
 | Age of Undead | 211145 | [211145-age-of-undead.json](./211145-age-of-undead.json) |
 | Age of Valakas: Vietnam | 190456 | [190456-age-of-valakas-vietnam.json](./190456-age-of-valakas-vietnam.json) |
+| Age of Viking Conquest | 109424 | [109424-age-of-viking-conquest.json](./109424-age-of-viking-conquest.json) |
 | Age of Wanderer | 135588 | [135588-age-of-wanderer.json](./135588-age-of-wanderer.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
 | Age of War 2 | 165304 | [165304-age-of-war-2.json](./165304-age-of-war-2.json) |
@@ -3980,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha! I Got It! Escape Game | 51098 | [51098-aha-i-got-it-escape-game.json](./51098-aha-i-got-it-escape-game.json) |
 | Ahapika: Heroic Agency | 333057 | [333057-ahapika-heroic-agency.json](./333057-ahapika-heroic-agency.json) |
 | Ahead | 161704 | [161704-ahead.json](./161704-ahead.json) |
+| Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
@@ -8986,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
 | Antiques Roadshow | 52414 | [52414-antiques-roadshow.json](./52414-antiques-roadshow.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
+| Antiquitas | 109392 | [109392-antiquitas.json](./109392-antiquitas.json) |
 | Antiquity Jones | 391280 | [391280-antiquity-jones.json](./391280-antiquity-jones.json) |
 | Antireal | 272833 | [272833-antireal.json](./272833-antireal.json) |
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
@@ -10543,6 +10550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archen Broom Game | 402366 | [402366-archen-broom-game.json](./402366-archen-broom-game.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
 | Archeo | 391282 | [391282-archeo.json](./391282-archeo.json) |
+| Archeo: Shinar | 113840 | [113840-archeo-shinar.json](./113840-archeo-shinar.json) |
 | Archeologist Simulator | 148988 | [148988-archeologist-simulator.json](./148988-archeologist-simulator.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
 | Archer | 235264 | [235264-archer.json](./235264-archer.json) |
@@ -14509,6 +14517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awake | 148290 | [148290-awake.json](./148290-awake.json) |
 | Awake | 34025 | [34025-awake.json](./34025-awake.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
+| Awake Episode One | 110717 | [110717-awake-episode-one.json](./110717-awake-episode-one.json) |
 | Awake: Definitive Edition | 113787 | [113787-awake-definitive-edition.json](./113787-awake-definitive-edition.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
 | Awaken | 183954 | [183954-awaken.json](./183954-awaken.json) |
