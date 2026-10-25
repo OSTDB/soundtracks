@@ -5297,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
 | Living Metal | 295406 | [295406-living-metal.json](./295406-living-metal.json) |
 | Living Nightmares: False Familiar | 344531 | [344531-living-nightmares-false-familiar.json](./344531-living-nightmares-false-familiar.json) |
+| Living on Plain Pasta | 409386 | [409386-living-on-plain-pasta.json](./409386-living-on-plain-pasta.json) |
 | Living Puzzles: Triazzle | 72023 | [72023-living-puzzles-triazzle.json](./72023-living-puzzles-triazzle.json) |
 | Living Room | 315586 | [315586-living-room.json](./315586-living-room.json) |
 | Living Room: Wild Style | 354377 | [354377-living-room-wild-style.json](./354377-living-room-wild-style.json) |
@@ -7119,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is a Canvas | 210315 | [210315-love-is-a-canvas.json](./210315-love-is-a-canvas.json) |
 | Love Is All Around | 253391 | [253391-love-is-all-around.json](./253391-love-is-all-around.json) |
 | Love Is All Around 2 | 348790 | [348790-love-is-all-around-2.json](./348790-love-is-all-around-2.json) |
+| Love is All Around Collection | 409337 | [409337-love-is-all-around-collection.json](./409337-love-is-all-around-collection.json) |
 | Love is All Around: Echoes of Yesterday | 327196 | [327196-love-is-all-around-echoes-of-yesterday.json](./327196-love-is-all-around-echoes-of-yesterday.json) |
 | Love Is All Around: Love In The Room | 285362 | [285362-love-is-all-around-love-in-the-room.json](./285362-love-is-all-around-love-in-the-room.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
