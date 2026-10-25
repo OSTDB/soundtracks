@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damascus Gear: Operation Osaka - HD Edition | 90093 | [90093-damascus-gear-operation-osaka-hd-edition.json](./90093-damascus-gear-operation-osaka-hd-edition.json) |
+| Damascus Gear: Operation Tokyo | 21706 | [21706-damascus-gear-operation-tokyo.json](./21706-damascus-gear-operation-tokyo.json) |
 | Damashi Game | 321830 | [321830-damashi-game.json](./321830-damashi-game.json) |
 | Damatte Watashi no Muko ni Nare! | 60369 | [60369-damatte-watashi-no-muko-ni-nare.json](./60369-damatte-watashi-no-muko-ni-nare.json) |
 | Damatte Watashi no Muko ni Nare! Reona After | 60370 | [60370-damatte-watashi-no-muko-ni-nare-reona-after.json](./60370-damatte-watashi-no-muko-ni-nare-reona-after.json) |
@@ -2613,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: UH-1H Peacekeeper Lebanon Campaign by Flying Cyking | 324908 | [324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json](./324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json) |
 | DCS World: UH-1H The Huey Last Show Campaign by SorelRo | 257864 | [257864-dcs-world-uh-1h-the-huey-last-show-campaign-by-sorelro.json](./257864-dcs-world-uh-1h-the-huey-last-show-campaign-by-sorelro.json) |
 | DCS World: UH-1H Worlds Apart Stormfront Campaign by Low-Level-Heaven Mission Development | 325096 | [325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json](./325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json) |
+| DCS: Black Shark | 21208 | [21208-dcs-black-shark.json](./21208-dcs-black-shark.json) |
 | DCS: F-15C Aggressors Air Combat Maneuvering Campaign by Maple Flag | 296518 | [296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json](./296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
 | DD Sequencer | 356285 | [356285-dd-sequencer.json](./356285-dd-sequencer.json) |
@@ -5909,6 +5911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Survivors 98 | 325702 | [325702-desktop-survivors-98.json](./325702-desktop-survivors-98.json) |
 | Desktop Table Tennis | 119524 | [119524-desktop-table-tennis.json](./119524-desktop-table-tennis.json) |
 | Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
+| Desktop Tower Defense | 21189 | [21189-desktop-tower-defense.json](./21189-desktop-tower-defense.json) |
 | Desktop Town | 372681 | [372681-desktop-town.json](./372681-desktop-town.json) |
 | Desktop Volleyball | 147834 | [147834-desktop-volleyball.json](./147834-desktop-volleyball.json) |
 | Desktop Waifu | 377572 | [377572-desktop-waifu.json](./377572-desktop-waifu.json) |
@@ -8852,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Rush | 295638 | [295638-divine-rush.json](./295638-divine-rush.json) |
 | Divine Sealing | 4505 | [4505-divine-sealing.json](./4505-divine-sealing.json) |
 | Divine Sin | 373151 | [373151-divine-sin.json](./373151-divine-sin.json) |
+| Divine Slice of Life | 22215 | [22215-divine-slice-of-life.json](./22215-divine-slice-of-life.json) |
 | Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
 | Divine Trials | 311757 | [311757-divine-trials.json](./311757-divine-trials.json) |
@@ -11336,6 +11340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
 | Downfall: A Slay the Spire Fan Expansion | 198469 | [198469-downfall-a-slay-the-spire-fan-expansion.json](./198469-downfall-a-slay-the-spire-fan-expansion.json) |
 | Downfall: Redux | 51750 | [51750-downfall-redux.json](./51750-downfall-redux.json) |
+| Downforce | 22219 | [22219-downforce.json](./22219-downforce.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
 | Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
 | Downhill Deceits | 95253 | [95253-downhill-deceits.json](./95253-downhill-deceits.json) |
@@ -13606,6 +13611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drizzlepath: Glass | 29733 | [29733-drizzlepath-glass.json](./29733-drizzlepath-glass.json) |
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
+| DRM: Death Ray Manta | 22197 | [22197-drm-death-ray-manta.json](./22197-drm-death-ray-manta.json) |
 | DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
 | Drod RPG 2 | 363048 | [363048-drod-rpg-2.json](./363048-drod-rpg-2.json) |
 | DROD: Journey to Rooted Hold | 9085 | [9085-drod-journey-to-rooted-hold.json](./9085-drod-journey-to-rooted-hold.json) |
@@ -13747,6 +13753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop7 | 29044 | [29044-drop7.json](./29044-drop7.json) |
 | Dropboy | 178492 | [178492-dropboy.json](./178492-dropboy.json) |
 | DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
+| Dropchord | 22169 | [22169-dropchord.json](./22169-dropchord.json) |
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
