@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Largo Winch: Empire Under Threat | 3971 | [3971-largo-winch-empire-under-threat.json](./3971-largo-winch-empire-under-threat.json) |
 | Larkin building by Frank Lloyd Wright | 101272 | [101272-larkin-building-by-frank-lloyd-wright.json](./101272-larkin-building-by-frank-lloyd-wright.json) |
 | Larn | 2889 | [2889-larn.json](./2889-larn.json) |
+| LARP With Your Friends | 423310 | [423310-larp-with-your-friends.json](./423310-larp-with-your-friends.json) |
 | Larry and the Long Look for a Luscious Lover | 195509 | [195509-larry-and-the-long-look-for-a-luscious-lover.json](./195509-larry-and-the-long-look-for-a-luscious-lover.json) |
 | Larry Bond's Harpoon 3: Advanced Naval Warfare | 130797 | [130797-larry-bonds-harpoon-3-advanced-naval-warfare.json](./130797-larry-bonds-harpoon-3-advanced-naval-warfare.json) |
 | Larry Bond's Harpoon Commander's Edition | 130796 | [130796-larry-bonds-harpoon-commanders-edition.json](./130796-larry-bonds-harpoon-commanders-edition.json) |
@@ -2609,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes: Iron Patriot Minifigure - Limited Edition | 89899 | [89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json](./89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json) |
 | LEGO Marvel Super Heroes: Universe in Peril | 47966 | [47966-lego-marvel-super-heroes-universe-in-peril.json](./47966-lego-marvel-super-heroes-universe-in-peril.json) |
 | LEGO Marvel's Avengers | 11069 | [11069-lego-marvels-avengers.json](./11069-lego-marvels-avengers.json) |
+| LEGO Marvel's Avengers | 423220 | [423220-lego-marvels-avengers.json](./423220-lego-marvels-avengers.json) |
 | LEGO Marvel's Avengers: Classic Captain Marvel Pack | 137663 | [137663-lego-marvels-avengers-classic-captain-marvel-pack.json](./137663-lego-marvels-avengers-classic-captain-marvel-pack.json) |
 | LEGO Marvel's Avengers: Deluxe Edition | 53270 | [53270-lego-marvels-avengers-deluxe-edition.json](./53270-lego-marvels-avengers-deluxe-edition.json) |
 | LEGO Marvel's Avengers: Marvel's Agents of S.H.I.E.L.D. Pack | 137633 | [137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json](./137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json) |
@@ -7436,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
 | LowPoly 3D Art Paint by Number | 390548 | [390548-lowpoly-3d-art-paint-by-number.json](./390548-lowpoly-3d-art-paint-by-number.json) |
+| LowPoly Cars | 423219 | [423219-lowpoly-cars.json](./423219-lowpoly-cars.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | LowPolyExplorer | 163019 | [163019-lowpolyexplorer.json](./163019-lowpolyexplorer.json) |
 | LowRes Collection | 223632 | [223632-lowres-collection.json](./223632-lowres-collection.json) |
