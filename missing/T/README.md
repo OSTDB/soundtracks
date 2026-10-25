@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take the Money and Run! | 23290 | [23290-take-the-money-and-run.json](./23290-take-the-money-and-run.json) |
 | Take the Throne | 142301 | [142301-take-the-throne.json](./142301-take-the-throne.json) |
 | Take the Veil | 201638 | [201638-take-the-veil.json](./201638-take-the-veil.json) |
+| Take Thy Throne | 32819 | [32819-take-thy-throne.json](./32819-take-thy-throne.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
 | Take Your Altushka | 310106 | [310106-take-your-altushka.json](./310106-take-your-altushka.json) |
 | Take Your Best Shot | 69794 | [69794-take-your-best-shot.json](./69794-take-your-best-shot.json) |
@@ -4456,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abduction of Bacon at Dawn | 120356 | [120356-the-abduction-of-bacon-at-dawn.json](./120356-the-abduction-of-bacon-at-dawn.json) |
 | The Abduction of Oscar Z | 300808 | [300808-the-abduction-of-oscar-z.json](./300808-the-abduction-of-oscar-z.json) |
 | The Abettor's Letters | 58071 | [58071-the-abettors-letters.json](./58071-the-abettors-letters.json) |
+| The Ables: Freepoint High | 33901 | [33901-the-ables-freepoint-high.json](./33901-the-ables-freepoint-high.json) |
 | The Abominable Shitpit | 418772 | [418772-the-abominable-shitpit.json](./418772-the-abominable-shitpit.json) |
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
 | The Absence | 29530 | [29530-the-absence.json](./29530-the-absence.json) |
@@ -4984,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
 | The Awakening of Mummies | 147323 | [147323-the-awakening-of-mummies.json](./147323-the-awakening-of-mummies.json) |
 | The Awakening Program | 235606 | [235606-the-awakening-program.json](./235606-the-awakening-program.json) |
+| The Away Team | 33939 | [33939-the-away-team.json](./33939-the-away-team.json) |
 | The Away Team: Lost Exodus | 120897 | [120897-the-away-team-lost-exodus.json](./120897-the-away-team-lost-exodus.json) |
 | The Awesome Adventures of Captain Spirit | 103283 | [103283-the-awesome-adventures-of-captain-spirit.json](./103283-the-awesome-adventures-of-captain-spirit.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
@@ -11578,6 +11581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15621,6 +15625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witches' Tea Party | 51383 | [51383-the-witches-tea-party.json](./51383-the-witches-tea-party.json) |
 | The Witches' Whisk | 304257 | [304257-the-witches-whisk.json](./304257-the-witches-whisk.json) |
 | The Witchmade Shop | 189865 | [189865-the-witchmade-shop.json](./189865-the-witchmade-shop.json) |
+| The Withering | 33907 | [33907-the-withering.json](./33907-the-withering.json) |
 | The Witness | 7425 | [7425-the-witness.json](./7425-the-witness.json) |
 | The Wizard | 181239 | [181239-the-wizard.json](./181239-the-wizard.json) |
 | The Wizard | 236332 | [236332-the-wizard.json](./236332-the-wizard.json) |
@@ -18834,6 +18839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Takers | 361861 | [361861-time-takers.json](./361861-time-takers.json) |
 | Time Tangle: Adventure Time | 61147 | [61147-time-tangle-adventure-time.json](./61147-time-tangle-adventure-time.json) |
 | Time Tenshi | 318022 | [318022-time-tenshi.json](./318022-time-tenshi.json) |
+| Time Tenshi 2 | 32837 | [32837-time-tenshi-2.json](./32837-time-tenshi-2.json) |
 | Time Tenshi 2: Special Edition | 30407 | [30407-time-tenshi-2-special-edition.json](./30407-time-tenshi-2-special-edition.json) |
 | Time Tenshi 2: Special Edition DLC | 168070 | [168070-time-tenshi-2-special-edition-dlc.json](./168070-time-tenshi-2-special-edition-dlc.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
@@ -27468,6 +27474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typos and Brains | 179893 | [179893-typos-and-brains.json](./179893-typos-and-brains.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
+| Tyran | 33937 | [33937-tyran.json](./33937-tyran.json) |
 | Tyrania: A Kinetic Visual Novel | 161579 | [161579-tyrania-a-kinetic-visual-novel.json](./161579-tyrania-a-kinetic-visual-novel.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
 | Tyrannis: Co-Prosperity | 253824 | [253824-tyrannis-co-prosperity.json](./253824-tyrannis-co-prosperity.json) |
