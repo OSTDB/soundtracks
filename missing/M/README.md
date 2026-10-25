@@ -5103,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayonaka no Kanshoku | 233934 | [233934-mayonaka-no-kanshoku.json](./233934-mayonaka-no-kanshoku.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
 | Mayonnaise Hole | 210827 | [210827-mayonnaise-hole.json](./210827-mayonnaise-hole.json) |
+| Mayor Life Simulator | 391545 | [391545-mayor-life-simulator.json](./391545-mayor-life-simulator.json) |
 | Mayor May Knott | 249857 | [249857-mayor-may-knott.json](./249857-mayor-may-knott.json) |
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
@@ -8004,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid 4 Database | 131255 | [131255-metal-gear-solid-4-database.json](./131255-metal-gear-solid-4-database.json) |
 | Metal Gear Solid 4: 25th Anniversary Edition | 44569 | [44569-metal-gear-solid-4-25th-anniversary-edition.json](./44569-metal-gear-solid-4-25th-anniversary-edition.json) |
 | Metal Gear Solid 4: Guns of the Patriots - Limited Edition | 45177 | [45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json](./45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json) |
+| Metal Gear Solid 4: Guns of the Patriots - Master Collection Version | 391780 | [391780-metal-gear-solid-4-guns-of-the-patriots-master-collection-version.json](./391780-metal-gear-solid-4-guns-of-the-patriots-master-collection-version.json) |
 | Metal Gear Solid Delta Snake Eater: Day One Edition | 362057 | [362057-metal-gear-solid-delta-snake-eater-day-one-edition.json](./362057-metal-gear-solid-delta-snake-eater-day-one-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Digital Deluxe Edition | 331472 | [331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json](./331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Sneaking DLC Pack | 331467 | [331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json](./331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json) |
@@ -16672,6 +16674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Early Words | 25420 | [25420-my-early-words.json](./25420-my-early-words.json) |
 | My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
 | My Eerie Lair | 373749 | [373749-my-eerie-lair.json](./373749-my-eerie-lair.json) |
+| My Egg Girls: A Gentle Story | 391529 | [391529-my-egg-girls-a-gentle-story.json](./391529-my-egg-girls-a-gentle-story.json) |
 | My Eggduck | 403183 | [403183-my-eggduck.json](./403183-my-eggduck.json) |
 | My Eggs | 255999 | [255999-my-eggs.json](./255999-my-eggs.json) |
 | My Elemental Girlfriend | 210612 | [210612-my-elemental-girlfriend.json](./210612-my-elemental-girlfriend.json) |
@@ -17804,6 +17807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Detective Adventure | 308509 | [308509-mystery-detective-adventure.json](./308509-mystery-detective-adventure.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
 | Mystery Dungeon: Shiren the Wanderer | 78341 | [78341-mystery-dungeon-shiren-the-wanderer.json](./78341-mystery-dungeon-shiren-the-wanderer.json) |
+| Mystery Egg Shop Simulator | 391526 | [391526-mystery-egg-shop-simulator.json](./391526-mystery-egg-shop-simulator.json) |
 | Mystery Egyptian Kings | 102259 | [102259-mystery-egyptian-kings.json](./102259-mystery-egyptian-kings.json) |
 | Mystery Fun House | 18520 | [18520-mystery-fun-house.json](./18520-mystery-fun-house.json) |
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
