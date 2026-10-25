@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal Pani X | 250208 | [250208-gal-pani-x.json](./250208-gal-pani-x.json) |
+| Gal Vs Village | 390714 | [390714-gal-vs-village.json](./390714-gal-vs-village.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
 | Gal's Dungeon | 376186 | [376186-gals-dungeon.json](./376186-gals-dungeon.json) |
 | Gal*Gun | 304988 | [304988-gal-gun.json](./304988-gal-gun.json) |
@@ -1208,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game.bps | 277153 | [277153-game-bps.json](./277153-game-bps.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
 | Game.exe | 153144 | [153144-game-exe.json](./153144-game-exe.json) |
+| Game.exe 2: Phantom Strike | 390382 | [390382-game-exe-2-phantom-strike.json](./390382-game-exe-2-phantom-strike.json) |
 | Gamebook Adventures 10: Lords of Nurroth | 175166 | [175166-gamebook-adventures-10-lords-of-nurroth.json](./175166-gamebook-adventures-10-lords-of-nurroth.json) |
 | Gamebook Adventures 8: Curse of the Assassin | 174344 | [174344-gamebook-adventures-8-curse-of-the-assassin.json](./174344-gamebook-adventures-8-curse-of-the-assassin.json) |
 | Gamebook Adventures 9: Sultans of Rema | 175167 | [175167-gamebook-adventures-9-sultans-of-rema.json](./175167-gamebook-adventures-9-sultans-of-rema.json) |
@@ -6586,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Trucker Aniki: Shigoto to Kenka to Koimoyou | 133781 | [133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json](./133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json) |
 | Grand Truckismo | 61012 | [61012-grand-truckismo.json](./61012-grand-truckismo.json) |
 | Grand Unified Game | 212692 | [212692-grand-unified-game.json](./212692-grand-unified-game.json) |
+| Grand Valor | 390466 | [390466-grand-valor.json](./390466-grand-valor.json) |
 | Grand Values: Monaco | 52224 | [52224-grand-values-monaco.json](./52224-grand-values-monaco.json) |
 | Grand Vegas Casino | 401559 | [401559-grand-vegas-casino.json](./401559-grand-vegas-casino.json) |
 | Grand Vegas Mafia Crime: Fight to Survive | 98781 | [98781-grand-vegas-mafia-crime-fight-to-survive.json](./98781-grand-vegas-mafia-crime-fight-to-survive.json) |
