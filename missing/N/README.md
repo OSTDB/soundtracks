@@ -5950,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novastrike | 52614 | [52614-novastrike.json](./52614-novastrike.json) |
 | Novath | 347766 | [347766-novath.json](./347766-novath.json) |
 | Novaxandria Volume 01 | 358447 | [358447-novaxandria-volume-01.json](./358447-novaxandria-volume-01.json) |
+| Novel Haven | 389182 | [389182-novel-haven.json](./389182-novel-haven.json) |
 | Novel Simulator | 392130 | [392130-novel-simulator.json](./392130-novel-simulator.json) |
 | NovelAI | 162735 | [162735-novelai.json](./162735-novelai.json) |
 | Novelist Simulator | 79177 | [79177-novelist-simulator.json](./79177-novelist-simulator.json) |
