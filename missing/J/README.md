@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiaozi & Shopkeeper | 383578 | [383578-jiaozi-and-shopkeeper.json](./383578-jiaozi-and-shopkeeper.json) |
 | Jiayou MemoVirus | 134978 | [134978-jiayou-memovirus.json](./134978-jiayou-memovirus.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
+| Jibbers | 389170 | [389170-jibbers.json](./389170-jibbers.json) |
 | Jibchag-ui Mangja: Jib-eulobuteoui Talchul | 368041 | [368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json](./368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json) |
 | Jibi Land: Princess Castle | 299211 | [299211-jibi-land-princess-castle.json](./299211-jibi-land-princess-castle.json) |
 | Jibi Land: Princess Town | 299212 | [299212-jibi-land-princess-town.json](./299212-jibi-land-princess-town.json) |
