@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenBlox | 376648 | [376648-openblox.json](./376648-openblox.json) |
 | Openbound Online | 183583 | [183583-openbound-online.json](./183583-openbound-online.json) |
 | OpenBVE | 51272 | [51272-openbve.json](./51272-openbve.json) |
+| Opencast Mining | 113846 | [113846-opencast-mining.json](./113846-opencast-mining.json) |
 | OpenCity | 142948 | [142948-opencity.json](./142948-opencity.json) |
 | OpenFront | 333095 | [333095-openfront.json](./333095-openfront.json) |
 | OpenGeneral | 79518 | [79518-opengeneral.json](./79518-opengeneral.json) |
