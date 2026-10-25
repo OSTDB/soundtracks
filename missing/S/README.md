@@ -17495,6 +17495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire | 83466 | [83466-spider-solitaire.json](./83466-spider-solitaire.json) |
 | Spider Solitaire | 91178 | [91178-spider-solitaire.json](./91178-spider-solitaire.json) |
 | Spider Solitaire - Classic Deck Card Games | 88588 | [88588-spider-solitaire-classic-deck-card-games.json](./88588-spider-solitaire-classic-deck-card-games.json) |
+| Spider Solitaire - iSpider | 87308 | [87308-spider-solitaire-ispider.json](./87308-spider-solitaire-ispider.json) |
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
 | Spider Solitaire Black | 147630 | [147630-spider-solitaire-black.json](./147630-spider-solitaire-black.json) |
@@ -23689,6 +23690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suburban Hive II: Crimson Moon | 308483 | [308483-suburban-hive-ii-crimson-moon.json](./308483-suburban-hive-ii-crimson-moon.json) |
 | Suburban Scavengers | 103950 | [103950-suburban-scavengers.json](./103950-suburban-scavengers.json) |
 | Suburbia | 273232 | [273232-suburbia.json](./273232-suburbia.json) |
+| Suburbia | 87278 | [87278-suburbia.json](./87278-suburbia.json) |
 | Suburi | 163710 | [163710-suburi.json](./163710-suburi.json) |
 | Subverse | 116848 | [116848-subverse.json](./116848-subverse.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
@@ -24529,6 +24531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
 | Sunday Lawd Reel 1 | 213580 | [213580-sunday-lawd-reel-1.json](./213580-sunday-lawd-reel-1.json) |
+| Sunday Lawn | 85804 | [85804-sunday-lawn.json](./85804-sunday-lawn.json) |
 | Sunday Lawn Seasons | 87206 | [87206-sunday-lawn-seasons.json](./87206-sunday-lawn-seasons.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
@@ -25405,6 +25408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hyper Hippo | 315889 | [315889-super-hyper-hippo.json](./315889-super-hyper-hippo.json) |
 | Super Hyperactive Ninja | 68358 | [68358-super-hyperactive-ninja.json](./68358-super-hyperactive-ninja.json) |
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
+| Super Ice Cream Maker | 87323 | [87323-super-ice-cream-maker.json](./87323-super-ice-cream-maker.json) |
 | Super Ice Hockey | 38196 | [38196-super-ice-hockey.json](./38196-super-ice-hockey.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
 | Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
@@ -27437,6 +27441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermaze | 385915 | [385915-supermaze.json](./385915-supermaze.json) |
 | SuperMind | 86906 | [86906-supermind.json](./86906-supermind.json) |
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
+| Supermodel Salon: Makeup & Dress up Game for Girls | 87276 | [87276-supermodel-salon-makeup-and-dress-up-game-for-girls.json](./87276-supermodel-salon-makeup-and-dress-up-game-for-girls.json) |
 | SuperModels Go Wild | 58031 | [58031-supermodels-go-wild.json](./58031-supermodels-go-wild.json) |
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
 | Supermotor | 288132 | [288132-supermotor.json](./288132-supermotor.json) |
