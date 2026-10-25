@@ -3936,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightsoil | 391672 | [391672-nightsoil.json](./391672-nightsoil.json) |
 | Nightsong | 257202 | [257202-nightsong.json](./257202-nightsong.json) |
 | Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
+| Nightstar: Rogue Wings | 29419 | [29419-nightstar-rogue-wings.json](./29419-nightstar-rogue-wings.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | Nightstars | 233964 | [233964-nightstars.json](./233964-nightstars.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
