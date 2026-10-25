@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
 | K3LVN | 208793 | [208793-k3lvn.json](./208793-k3lvn.json) |
 | K9 Uprising | 200383 | [200383-k9-uprising.json](./200383-k9-uprising.json) |
+| Ka Mate | 55542 | [55542-ka-mate.json](./55542-ka-mate.json) |
 | Ka-50 Hokum | 94959 | [94959-ka-50-hokum.json](./94959-ka-50-hokum.json) |
 | Ka-52 Team Alligator | 78646 | [78646-ka-52-team-alligator.json](./78646-ka-52-team-alligator.json) |
 | Ka-Blooey | 42660 | [42660-ka-blooey.json](./42660-ka-blooey.json) |
