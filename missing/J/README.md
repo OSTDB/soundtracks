@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Barau | 342411 | [342411-jack-barau.json](./342411-jack-barau.json) |
 | Jack Big Chin: Alien Invasion | 212130 | [212130-jack-big-chin-alien-invasion.json](./212130-jack-big-chin-alien-invasion.json) |
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
+| Jack Bonecroft 4 | 402726 | [402726-jack-bonecroft-4.json](./402726-jack-bonecroft-4.json) |
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
 | Jack Hayes: The Lazarus Sign | 133067 | [133067-jack-hayes-the-lazarus-sign.json](./133067-jack-hayes-the-lazarus-sign.json) |
