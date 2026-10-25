@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoBoxer | 293473 | [293473-geoboxer.json](./293473-geoboxer.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
+| GeoCoach | 424677 | [424677-geocoach.json](./424677-geocoach.json) |
 | Geocore | 35654 | [35654-geocore.json](./35654-geocore.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
 | geoDefence Swarm | 23254 | [23254-geodefence-swarm.json](./23254-geodefence-swarm.json) |
