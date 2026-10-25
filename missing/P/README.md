@@ -3916,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pest Control | 343758 | [343758-pest-control.json](./343758-pest-control.json) |
 | Pest Control in the Crypt | 410303 | [410303-pest-control-in-the-crypt.json](./410303-pest-control-in-the-crypt.json) |
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
+| Pest Protocol | 408580 | [408580-pest-protocol.json](./408580-pest-protocol.json) |
 | Pest Quest | 178855 | [178855-pest-quest.json](./178855-pest-quest.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
 | Pester | 35632 | [35632-pester.json](./35632-pester.json) |
@@ -11361,6 +11362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | Precision Sniping: Competitive | 93785 | [93785-precision-sniping-competitive.json](./93785-precision-sniping-competitive.json) |
 | Precognition Dream's Greenhouse | 392240 | [392240-precognition-dreams-greenhouse.json](./392240-precognition-dreams-greenhouse.json) |
+| Precrna Rupa | 408598 | [408598-precrna-rupa.json](./408598-precrna-rupa.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
 | Predator | 15345 | [15345-predator.json](./15345-predator.json) |
 | Predator | 298432 | [298432-predator.json](./298432-predator.json) |
