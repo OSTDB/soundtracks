@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Bird | 128602 | [128602-legacy-bird.json](./128602-legacy-bird.json) |
 | Legacy Bites | 163852 | [163852-legacy-bites.json](./163852-legacy-bites.json) |
 | Legacy Code | 185034 | [185034-legacy-code.json](./185034-legacy-code.json) |
+| Legacy Code | 421444 | [421444-legacy-code.json](./421444-legacy-code.json) |
 | Legacy of Aeroja | 193480 | [193480-legacy-of-aeroja.json](./193480-legacy-of-aeroja.json) |
 | Legacy of Ancestors | 346589 | [346589-legacy-of-ancestors.json](./346589-legacy-of-ancestors.json) |
 | Legacy of Animal: Hog's Life 2 | 291390 | [291390-legacy-of-animal-hogs-life-2.json](./291390-legacy-of-animal-hogs-life-2.json) |
