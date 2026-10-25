@@ -8215,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Game: Granny | 100232 | [100232-horror-game-granny.json](./100232-horror-game-granny.json) |
 | Horror Girl Puzzle | 112702 | [112702-horror-girl-puzzle.json](./112702-horror-girl-puzzle.json) |
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
+| Horror Golf | 423871 | [423871-horror-golf.json](./423871-horror-golf.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
 | Horror Hospital 2: Survival | 294536 | [294536-horror-hospital-2-survival.json](./294536-horror-hospital-2-survival.json) |
 | Horror Hotel | 222734 | [222734-horror-hotel.json](./222734-horror-hotel.json) |
@@ -9028,6 +9029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Phoenix | 394197 | [394197-hover-phoenix.json](./394197-hover-phoenix.json) |
 | Hover Point | 390802 | [390802-hover-point.json](./390802-hover-point.json) |
 | Hover Racer | 207904 | [207904-hover-racer.json](./207904-hover-racer.json) |
+| Hover Raid | 423859 | [423859-hover-raid.json](./423859-hover-raid.json) |
 | Hover Rev Hispeed Burst | 340488 | [340488-hover-rev-hispeed-burst.json](./340488-hover-rev-hispeed-burst.json) |
 | Hover Rider | 244796 | [244796-hover-rider.json](./244796-hover-rider.json) |
 | Hover Ship | 171944 | [171944-hover-ship.json](./171944-hover-ship.json) |
