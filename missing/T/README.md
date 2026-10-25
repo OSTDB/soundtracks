@@ -2952,22 +2952,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Advanced Edition | 338032 | [338032-tekken-8-advanced-edition.json](./338032-tekken-8-advanced-edition.json) |
 | Tekken 8: Armor King | 374182 | [374182-tekken-8-armor-king.json](./374182-tekken-8-armor-king.json) |
 | Tekken 8: Baobab Horizon | 379704 | [379704-tekken-8-baobab-horizon.json](./379704-tekken-8-baobab-horizon.json) |
+| Tekken 8: Bob | 389216 | [389216-tekken-8-bob.json](./389216-tekken-8-bob.json) |
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Clive Rosfield | 325597 | [325597-tekken-8-clive-rosfield.json](./325597-tekken-8-clive-rosfield.json) |
 | Tekken 8: Collaboration Set - Clive Rosfield & Phoenix Gate | 384749 | [384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json](./384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
 | Tekken 8: Heihachi Mishima | 310523 | [310523-tekken-8-heihachi-mishima.json](./310523-tekken-8-heihachi-mishima.json) |
 | Tekken 8: Hibiscus Pack | 317357 | [317357-tekken-8-hibiscus-pack.json](./317357-tekken-8-hibiscus-pack.json) |
+| Tekken 8: Kunimitsu | 389215 | [389215-tekken-8-kunimitsu.json](./389215-tekken-8-kunimitsu.json) |
 | Tekken 8: Launch Edition | 283759 | [283759-tekken-8-launch-edition.json](./283759-tekken-8-launch-edition.json) |
 | Tekken 8: Miary Zo | 374185 | [374185-tekken-8-miary-zo.json](./374185-tekken-8-miary-zo.json) |
 | Tekken 8: Pac-Pixels | 374187 | [374187-tekken-8-pac-pixels.json](./374187-tekken-8-pac-pixels.json) |
 | Tekken 8: Phoenix Gate | 333580 | [333580-tekken-8-phoenix-gate.json](./333580-tekken-8-phoenix-gate.json) |
 | Tekken 8: Premium Collector's Edition | 271396 | [271396-tekken-8-premium-collectors-edition.json](./271396-tekken-8-premium-collectors-edition.json) |
+| Tekken 8: Roger Jr. | 389217 | [389217-tekken-8-roger-jr.json](./389217-tekken-8-roger-jr.json) |
 | Tekken 8: Season 1 Character & Stage Pass | 347697 | [347697-tekken-8-season-1-character-and-stage-pass.json](./347697-tekken-8-season-1-character-and-stage-pass.json) |
 | Tekken 8: Season 2 - Deluxe Edition | 338222 | [338222-tekken-8-season-2-deluxe-edition.json](./338222-tekken-8-season-2-deluxe-edition.json) |
 | Tekken 8: Season 2 - Ultimate Edition | 338221 | [338221-tekken-8-season-2-ultimate-edition.json](./338221-tekken-8-season-2-ultimate-edition.json) |
 | Tekken 8: Season 2 Character & Stage Pass | 347701 | [347701-tekken-8-season-2-character-and-stage-pass.json](./347701-tekken-8-season-2-character-and-stage-pass.json) |
+| Tekken 8: Season 3 Pass | 389221 | [389221-tekken-8-season-3-pass.json](./389221-tekken-8-season-3-pass.json) |
+| Tekken 8: Subsea Lockdown | 389219 | [389219-tekken-8-subsea-lockdown.json](./389219-tekken-8-subsea-lockdown.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
+| Tekken 8: Yujiro Hanma | 389218 | [389218-tekken-8-yujiro-hanma.json](./389218-tekken-8-yujiro-hanma.json) |
 | Tekken Advance | 1240 | [1240-tekken-advance.json](./1240-tekken-advance.json) |
 | Tekken Arena | 62497 | [62497-tekken-arena.json](./62497-tekken-arena.json) |
 | Tekken Bowl | 63782 | [63782-tekken-bowl.json](./63782-tekken-bowl.json) |
@@ -12072,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other | 185366 | [185366-the-other.json](./185366-the-other.json) |
 | The Other Brothers | 116428 | [116428-the-other-brothers.json](./116428-the-other-brothers.json) |
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
+| The Other Me Reborn | 389208 | [389208-the-other-me-reborn.json](./389208-the-other-me-reborn.json) |
 | The Other Order | 384793 | [384793-the-other-order.json](./384793-the-other-order.json) |
 | The Other Room | 101663 | [101663-the-other-room.json](./101663-the-other-room.json) |
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
@@ -16183,6 +16190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Their Story. | 404398 | [404398-their-story.json](./404398-their-story.json) |
 | Thekku Island | 389376 | [389376-thekku-island.json](./389376-thekku-island.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
+| Thelma Fantastic | 389165 | [389165-thelma-fantastic.json](./389165-thelma-fantastic.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Thelos | 216443 | [216443-thelos.json](./216443-thelos.json) |
 | Them and Us | 107688 | [107688-them-and-us.json](./107688-them-and-us.json) |
