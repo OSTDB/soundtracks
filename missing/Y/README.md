@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukinas Diary | 114254 | [114254-yukinas-diary.json](./114254-yukinas-diary.json) |
 | Yukinko Burning | 167122 | [167122-yukinko-burning.json](./167122-yukinko-burning.json) |
 | Yukiusa | 277270 | [277270-yukiusa.json](./277270-yukiusa.json) |
+| Yukizuki no Seisou | 422661 | [422661-yukizuki-no-seisou.json](./422661-yukizuki-no-seisou.json) |
 | Yukkuri Diary | 373010 | [373010-yukkuri-diary.json](./373010-yukkuri-diary.json) |
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
 | Yukkuri no Meikyuu | 54703 | [54703-yukkuri-no-meikyuu.json](./54703-yukkuri-no-meikyuu.json) |
