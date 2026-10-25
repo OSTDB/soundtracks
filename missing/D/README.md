@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising Deluxe Remaster: Costume & BGM - Tron Bonne | 360162 | [360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json](./360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
+| Dead Rivals | 100892 | [100892-dead-rivals.json](./100892-dead-rivals.json) |
 | Dead Room | 301998 | [301998-dead-room.json](./301998-dead-room.json) |
 | Dead Rose | 404237 | [404237-dead-rose.json](./404237-dead-rose.json) |
 | Dead Route | 87095 | [87095-dead-route.json](./87095-dead-route.json) |
@@ -5280,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Residence | 207878 | [207878-demons-residence.json](./207878-demons-residence.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
 | Demon's Rise - Lords of Chaos | 97899 | [97899-demons-rise-lords-of-chaos.json](./97899-demons-rise-lords-of-chaos.json) |
+| Demon's Rise 2 | 100872 | [100872-demons-rise-2.json](./100872-demons-rise-2.json) |
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
 | Demon's Rise: War for the Deep | 99656 | [99656-demons-rise-war-for-the-deep.json](./99656-demons-rise-war-for-the-deep.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
@@ -6800,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Diaries Saga | 105511 | [105511-diamond-diaries-saga.json](./105511-diamond-diaries-saga.json) |
 | Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
+| Diamond Dino | 100908 | [100908-diamond-dino.json](./100908-diamond-dino.json) |
 | Diamond Drop | 70782 | [70782-diamond-drop.json](./70782-diamond-drop.json) |
 | Diamond Gems | 246265 | [246265-diamond-gems.json](./246265-diamond-gems.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
@@ -14441,6 +14444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
 | Dummy Pirates | 235171 | [235171-dummy-pirates.json](./235171-dummy-pirates.json) |
+| Dummy Test | 100911 | [100911-dummy-test.json](./100911-dummy-test.json) |
 | DummyDoodle | 303494 | [303494-dummydoodle.json](./303494-dummydoodle.json) |
 | Dummynation | 196265 | [196265-dummynation.json](./196265-dummynation.json) |
 | Dump of the Dead X | 368232 | [368232-dump-of-the-dead-x.json](./368232-dump-of-the-dead-x.json) |
