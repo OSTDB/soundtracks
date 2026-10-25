@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
 | Ochimono Puzzle King | 82582 | [82582-ochimono-puzzle-king.json](./82582-ochimono-puzzle-king.json) |
 | Ochin ni Toshi Puzzle Tonjan!? | 48798 | [48798-ochin-ni-toshi-puzzle-tonjan.json](./48798-ochin-ni-toshi-puzzle-tonjan.json) |
+| Ochiru Part Tsuma: Toshishita Otoko to no Jouji ni Oboreta Hate ni... | 413706 | [413706-ochiru-part-tsuma-toshishita-otoko-to-no-jouji-ni-oboreta-hate-ni.json](./413706-ochiru-part-tsuma-toshishita-otoko-to-no-jouji-ni-oboreta-hate-ni.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
 | Ocolast | 158027 | [158027-ocolast.json](./158027-ocolast.json) |
