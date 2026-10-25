@@ -6021,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
 | Meeting Places | 373287 | [373287-meeting-places.json](./373287-meeting-places.json) |
 | MeetLight and the Secrets of the Universe | 209765 | [209765-meetlight-and-the-secrets-of-the-universe.json](./209765-meetlight-and-the-secrets-of-the-universe.json) |
+| Meetrix | 407770 | [407770-meetrix.json](./407770-meetrix.json) |
 | Meeuw | 135829 | [135829-meeuw.json](./135829-meeuw.json) |
 | MEFB | 130736 | [130736-mefb.json](./130736-mefb.json) |
 | MEG 9: Lost Echoes | 59944 | [59944-meg-9-lost-echoes.json](./59944-meg-9-lost-echoes.json) |
@@ -16121,6 +16122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
 | Musle vs Zombies | 179371 | [179371-musle-vs-zombies.json](./179371-musle-vs-zombies.json) |
 | Musou Glory | 304240 | [304240-musou-glory.json](./304240-musou-glory.json) |
+| Musou Orochi 2 Special | 407843 | [407843-musou-orochi-2-special.json](./407843-musou-orochi-2-special.json) |
 | Musou Orochi Z | 7480 | [7480-musou-orochi-z.json](./7480-musou-orochi-z.json) |
 | Musou Tourou | 59328 | [59328-musou-tourou.json](./59328-musou-tourou.json) |
 | Musou Yuugi | 167126 | [167126-musou-yuugi.json](./167126-musou-yuugi.json) |
