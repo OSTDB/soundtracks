@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
 | Racer | 282668 | [282668-racer.json](./282668-racer.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
+| Racer Mini Yonku: Japan Cup | 17590 | [17590-racer-mini-yonku-japan-cup.json](./17590-racer-mini-yonku-japan-cup.json) |
 | Racer Overdrive | 373188 | [373188-racer-overdrive.json](./373188-racer-overdrive.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | RaceRoom - Audi Sport TT Cup 2015 | 53170 | [53170-raceroom-audi-sport-tt-cup-2015.json](./53170-raceroom-audi-sport-tt-cup-2015.json) |
@@ -3126,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction: Armageddon - Path to War | 78455 | [78455-red-faction-armageddon-path-to-war.json](./78455-red-faction-armageddon-path-to-war.json) |
 | Red Faction: Armageddon - Ultimate Edition | 99958 | [99958-red-faction-armageddon-ultimate-edition.json](./99958-red-faction-armageddon-ultimate-edition.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
+| Red Faction: Battlegrounds | 20447 | [20447-red-faction-battlegrounds.json](./20447-red-faction-battlegrounds.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Faction: Guerrilla Re-Mars-tered | 96027 | [96027-red-faction-guerrilla-re-mars-tered.json](./96027-red-faction-guerrilla-re-mars-tered.json) |
 | Red Feud | 69566 | [69566-red-feud.json](./69566-red-feud.json) |
@@ -5301,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Memories | 143594 | [143594-reverse-memories.json](./143594-reverse-memories.json) |
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
+| Reverse Side | 17733 | [17733-reverse-side.json](./17733-reverse-side.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
 | Reverse: 1999 | 188383 | [188383-reverse-1999.json](./188383-reverse-1999.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
