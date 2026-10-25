@@ -8095,6 +8095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTFO | 36646 | [36646-gtfo.json](./36646-gtfo.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
+| GTI Racing | 14804 | [14804-gti-racing.json](./14804-gti-racing.json) |
 | GTJ: Grand Theft Japan | 390088 | [390088-gtj-grand-theft-japan.json](./390088-gtj-grand-theft-japan.json) |
 | gToons | 203646 | [203646-gtoons.json](./203646-gtoons.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
@@ -8879,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
 | Gunlocked: The 2nd Gunning | 238464 | [238464-gunlocked-the-2nd-gunning.json](./238464-gunlocked-the-2nd-gunning.json) |
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
+| Gunlord | 9124 | [9124-gunlord.json](./9124-gunlord.json) |
 | Gunlord X | 108254 | [108254-gunlord-x.json](./108254-gunlord-x.json) |
 | Gunma no Yabou for Nintendo 3DS | 222294 | [222294-gunma-no-yabou-for-nintendo-3ds.json](./222294-gunma-no-yabou-for-nintendo-3ds.json) |
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
