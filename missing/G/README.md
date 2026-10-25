@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games&Girls | 29106 | [29106-games-and-girls.json](./29106-games-and-girls.json) |
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
+| GameSyndicates | 404513 | [404513-gamesyndicates.json](./404513-gamesyndicates.json) |
 | Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
 | GameWhizzards | 120101 | [120101-gamewhizzards.json](./120101-gamewhizzards.json) |
 | Gaminator | 360982 | [360982-gaminator.json](./360982-gaminator.json) |
@@ -1517,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Cleanup Simulator | 407366 | [407366-garden-cleanup-simulator.json](./407366-garden-cleanup-simulator.json) |
 | Garden Dash | 85805 | [85805-garden-dash.json](./85805-garden-dash.json) |
 | Garden Defense | 53086 | [53086-garden-defense.json](./53086-garden-defense.json) |
+| Garden Designer Simulator | 404529 | [404529-garden-designer-simulator.json](./404529-garden-designer-simulator.json) |
 | Garden Door | 387727 | [387727-garden-door.json](./387727-garden-door.json) |
 | Garden Dreams | 254323 | [254323-garden-dreams.json](./254323-garden-dreams.json) |
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
