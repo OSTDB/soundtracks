@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
 | Davy's Debris | 201537 | [201537-davys-debris.json](./201537-davys-debris.json) |
 | Davy's Dreams of Chasing Things | 323366 | [323366-davys-dreams-of-chasing-things.json](./323366-davys-dreams-of-chasing-things.json) |
+| Davyria: Heroes of Eternity | 29438 | [29438-davyria-heroes-of-eternity.json](./29438-davyria-heroes-of-eternity.json) |
 | Dawes-24 | 185356 | [185356-dawes-24.json](./185356-dawes-24.json) |
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
 | Dawn | 29216 | [29216-dawn.json](./29216-dawn.json) |
@@ -4336,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
 | Deep Sheol | 372838 | [372838-deep-sheol.json](./372838-deep-sheol.json) |
 | Deep Siren | 371010 | [371010-deep-siren.json](./371010-deep-siren.json) |
+| Deep Sixed | 29504 | [29504-deep-sixed.json](./29504-deep-sixed.json) |
 | Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
 | Deep Sky Derelicts: Definitive Edition | 131855 | [131855-deep-sky-derelicts-definitive-edition.json](./131855-deep-sky-derelicts-definitive-edition.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
@@ -14457,6 +14459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
 | Dumb Witchfinder | 362018 | [362018-dumb-witchfinder.json](./362018-dumb-witchfinder.json) |
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
+| Dumbass Drivers! | 29407 | [29407-dumbass-drivers.json](./29407-dumbass-drivers.json) |
 | Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
 | DumbBots: Hello World | 167540 | [167540-dumbbots-hello-world.json](./167540-dumbbots-hello-world.json) |
 | Dumber dwarves | 182724 | [182724-dumber-dwarves.json](./182724-dumber-dwarves.json) |
@@ -15598,6 +15601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamaite the Las Vegas | 44441 | [44441-dynamaite-the-las-vegas.json](./44441-dynamaite-the-las-vegas.json) |
 | Dynami Tracer | 2981 | [2981-dynami-tracer.json](./2981-dynami-tracer.json) |
 | Dynamic | 226170 | [226170-dynamic.json](./226170-dynamic.json) |
+| Dynamic | 30875 | [30875-dynamic.json](./30875-dynamic.json) |
 | Dynamic Arms VR | 190968 | [190968-dynamic-arms-vr.json](./190968-dynamic-arms-vr.json) |
 | Dynamic Chord feat. Apple-Polisher | 142447 | [142447-dynamic-chord-feat-apple-polisher.json](./142447-dynamic-chord-feat-apple-polisher.json) |
 | Dynamic Chord feat. Apple-Polisher: V Edition | 223081 | [223081-dynamic-chord-feat-apple-polisher-v-edition.json](./223081-dynamic-chord-feat-apple-polisher-v-edition.json) |
