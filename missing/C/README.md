@@ -10403,7 +10403,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer 3: Kane's Wrath | 395863 | [395863-command-and-conquer-3-kanes-wrath.json](./395863-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Kane's Wrath | 707 | [707-command-and-conquer-3-kanes-wrath.json](./707-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
+| Command & Conquer 3: Tiberium Wars - Ground Zero Map | 403955 | [403955-command-and-conquer-3-tiberium-wars-ground-zero-map.json](./403955-command-and-conquer-3-tiberium-wars-ground-zero-map.json) |
 | Command & Conquer 3: Tiberium Wars - Kane Edition | 207005 | [207005-command-and-conquer-3-tiberium-wars-kane-edition.json](./207005-command-and-conquer-3-tiberium-wars-kane-edition.json) |
+| Command & Conquer 3: Tiberium Wars - Map Pack 1 | 403965 | [403965-command-and-conquer-3-tiberium-wars-map-pack-1.json](./403965-command-and-conquer-3-tiberium-wars-map-pack-1.json) |
 | Command & Conquer 3D | 414520 | [414520-command-and-conquer-3d.json](./414520-command-and-conquer-3d.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
@@ -10413,6 +10415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert - The Aftermath | 652 | [652-command-and-conquer-red-alert-the-aftermath.json](./652-command-and-conquer-red-alert-the-aftermath.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
 | Command & Conquer: Red Alert 3 - Commander's Challenge | 833 | [833-command-and-conquer-red-alert-3-commanders-challenge.json](./833-command-and-conquer-red-alert-3-commanders-challenge.json) |
+| Command & Conquer: Red Alert 3 - Decimation Map Pack | 403957 | [403957-command-and-conquer-red-alert-3-decimation-map-pack.json](./403957-command-and-conquer-red-alert-3-decimation-map-pack.json) |
 | Command & Conquer: Red Alert 3 - Premier Edition | 210703 | [210703-command-and-conquer-red-alert-3-premier-edition.json](./210703-command-and-conquer-red-alert-3-premier-edition.json) |
 | Command & Conquer: Red Alert 3 - Ultimate Edition | 21205 | [21205-command-and-conquer-red-alert-3-ultimate-edition.json](./21205-command-and-conquer-red-alert-3-ultimate-edition.json) |
 | Command & Conquer: Red Alert 3 - Uprising | 759 | [759-command-and-conquer-red-alert-3-uprising.json](./759-command-and-conquer-red-alert-3-uprising.json) |
