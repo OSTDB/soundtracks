@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D+Vine[Luv] | 283302 | [283302-d-vine-luv.json](./283302-d-vine-luv.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D1896 | 126365 | [126365-d1896.json](./126365-d1896.json) |
+| D1AL-ogue+ | 394403 | [394403-d1al-ogue.json](./394403-d1al-ogue.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
 | D20 Dungeons | 126975 | [126975-d20-dungeons.json](./126975-d20-dungeons.json) |
 | d20: Sweet Roll Club | 36761 | [36761-d20-sweet-roll-club.json](./36761-d20-sweet-roll-club.json) |
@@ -2305,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Survivors 2 | 179971 | [179971-dawn-of-survivors-2.json](./179971-dawn-of-survivors-2.json) |
 | Dawn of the Abyss | 345827 | [345827-dawn-of-the-abyss.json](./345827-dawn-of-the-abyss.json) |
 | Dawn of the Breakers | 106972 | [106972-dawn-of-the-breakers.json](./106972-dawn-of-the-breakers.json) |
+| Dawn of the Celebs | 394214 | [394214-dawn-of-the-celebs.json](./394214-dawn-of-the-celebs.json) |
 | Dawn of the Celestialpod | 99159 | [99159-dawn-of-the-celestialpod.json](./99159-dawn-of-the-celestialpod.json) |
 | Dawn of the Damned | 259477 | [259477-dawn-of-the-damned.json](./259477-dawn-of-the-damned.json) |
 | Dawn of the Dead | 262432 | [262432-dawn-of-the-dead.json](./262432-dawn-of-the-dead.json) |
@@ -3497,6 +3499,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone Rogue 2 | 403822 | [403822-deadzone-rogue-2.json](./403822-deadzone-rogue-2.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
+| Deadzone: Rogue - Deluxe Edition | 393895 | [393895-deadzone-rogue-deluxe-edition.json](./393895-deadzone-rogue-deluxe-edition.json) |
+| Deadzone: Rogue - Mark II Pack | 393898 | [393898-deadzone-rogue-mark-ii-pack.json](./393898-deadzone-rogue-mark-ii-pack.json) |
 | DeadZone: Survival Ops Zombie Shooter | 376225 | [376225-deadzone-survival-ops-zombie-shooter.json](./376225-deadzone-survival-ops-zombie-shooter.json) |
 | DeadZone: Survival Ops Zombie Shooter & WW2 Soldiers of Honor - Warzone Assault | 393065 | [393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json](./393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json) |
 | Deadzoned | 157461 | [157461-deadzoned.json](./157461-deadzoned.json) |
@@ -4374,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Supporter II Upgrade | 289558 | [289558-deep-rock-galactic-supporter-ii-upgrade.json](./289558-deep-rock-galactic-supporter-ii-upgrade.json) |
 | Deep Rock Galactic: Supporter Upgrade | 224177 | [224177-deep-rock-galactic-supporter-upgrade.json](./224177-deep-rock-galactic-supporter-upgrade.json) |
 | Deep Rock Galactic: Survivor | 240556 | [240556-deep-rock-galactic-survivor.json](./240556-deep-rock-galactic-survivor.json) |
+| Deep Rock Galactic: Survivor - Heavy Duty | 394682 | [394682-deep-rock-galactic-survivor-heavy-duty.json](./394682-deep-rock-galactic-survivor-heavy-duty.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Room | 347559 | [347559-deep-room.json](./347559-deep-room.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
@@ -5146,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demian Saga | 243621 | [243621-demian-saga.json](./243621-demian-saga.json) |
 | Demian: The Ritual | 157412 | [157412-demian-the-ritual.json](./157412-demian-the-ritual.json) |
 | Demigod | 9279 | [9279-demigod.json](./9279-demigod.json) |
+| Demigod Daycare | 394080 | [394080-demigod-daycare.json](./394080-demigod-daycare.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
 | Demigod Islands: A Puzzle to Die For | 390620 | [390620-demigod-islands-a-puzzle-to-die-for.json](./390620-demigod-islands-a-puzzle-to-die-for.json) |
 | Demigod Kiugi | 245267 | [245267-demigod-kiugi.json](./245267-demigod-kiugi.json) |
@@ -7706,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash Rush | 351764 | [351764-diner-dash-rush.json](./351764-diner-dash-rush.json) |
 | Diner Dash: Family Style | 366420 | [366420-diner-dash-family-style.json](./366420-diner-dash-family-style.json) |
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
+| Diner Dash: Hometown Hero - Once Upon a Diner | 393905 | [393905-diner-dash-hometown-hero-once-upon-a-diner.json](./393905-diner-dash-hometown-hero-once-upon-a-diner.json) |
 | Diner Dash: Sizzle & Serve | 21418 | [21418-diner-dash-sizzle-and-serve.json](./21418-diner-dash-sizzle-and-serve.json) |
 | Diner Mania | 34984 | [34984-diner-mania.json](./34984-diner-mania.json) |
 | Diner Out | 314520 | [314520-diner-out.json](./314520-diner-out.json) |
@@ -8183,6 +8190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
 | Disaster Will Strike | 101404 | [101404-disaster-will-strike.json](./101404-disaster-will-strike.json) |
 | Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
+| DisasterFire | 394180 | [394180-disasterfire.json](./394180-disasterfire.json) |
 | Disasteroids 3D | 94945 | [94945-disasteroids-3d.json](./94945-disasteroids-3d.json) |
 | DisasterPR+ | 392484 | [392484-disasterpr.json](./392484-disasterpr.json) |
 | Disastles Online | 398593 | [398593-disastles-online.json](./398593-disastles-online.json) |
@@ -9400,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Doctor Who's 50th Anniversary | 235305 | [235305-doctor-whos-50th-anniversary.json](./235305-doctor-whos-50th-anniversary.json) |
 | Doctor's Orders | 299532 | [299532-doctors-orders.json](./299532-doctors-orders.json) |
+| Doctordle | 394399 | [394399-doctordle.json](./394399-doctordle.json) |
 | Doctrine: C.U.L.T. | 391702 | [391702-doctrine-c-u-l-t.json](./391702-doctrine-c-u-l-t.json) |
 | Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
 | DodecaDragons | 320010 | [320010-dodecadragons.json](./320010-dodecadragons.json) |
@@ -11330,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
 | Double Memory | 68326 | [68326-double-memory.json](./68326-double-memory.json) |
 | Double Moon Densetsu | 48522 | [48522-double-moon-densetsu.json](./48522-double-moon-densetsu.json) |
+| Double Mystery: Escape Room Bundle | 394569 | [394569-double-mystery-escape-room-bundle.json](./394569-double-mystery-escape-room-bundle.json) |
 | Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
 | Double Play | 170258 | [170258-double-play.json](./170258-double-play.json) |
 | Double Play Adventure: Time Quest / Crystal Quest | 85973 | [85973-double-play-adventure-time-quest-crystal-quest.json](./85973-double-play-adventure-time-quest-crystal-quest.json) |
