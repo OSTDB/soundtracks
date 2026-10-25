@@ -2599,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Classic | 11395 | [11395-empire-classic.json](./11395-empire-classic.json) |
 | Empire Defenders | 129630 | [129630-empire-defenders.json](./129630-empire-defenders.json) |
 | Empire Deluxe | 70251 | [70251-empire-deluxe.json](./70251-empire-deluxe.json) |
+| Empire Deluxe: Combined Edition | 75326 | [75326-empire-deluxe-combined-edition.json](./75326-empire-deluxe-combined-edition.json) |
 | Empire Deluxe: Masters Edition | 69745 | [69745-empire-deluxe-masters-edition.json](./69745-empire-deluxe-masters-edition.json) |
 | Empire Earth II | 1608 | [1608-empire-earth-ii.json](./1608-empire-earth-ii.json) |
 | Empire Earth II: The Art of Supremacy | 1607 | [1607-empire-earth-ii-the-art-of-supremacy.json](./1607-empire-earth-ii-the-art-of-supremacy.json) |
