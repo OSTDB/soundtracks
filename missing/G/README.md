@@ -7231,6 +7231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green World: Catharsis | 169744 | [169744-green-world-catharsis.json](./169744-green-world-catharsis.json) |
 | Green Wounds | 197190 | [197190-green-wounds.json](./197190-green-wounds.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
+| Green: An Orc's Life | 128115 | [128115-green-an-orcs-life.json](./128115-green-an-orcs-life.json) |
 | Green: The Life Algorithm | 120863 | [120863-green-the-life-algorithm.json](./120863-green-the-life-algorithm.json) |
 | Green's Xmas Collection | 80193 | [80193-greens-xmas-collection.json](./80193-greens-xmas-collection.json) |
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
@@ -7348,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
 | Grey: An Alien Dream | 123508 | [123508-grey-an-alien-dream.json](./123508-grey-an-alien-dream.json) |
 | Grey: The Lost Technology | 61719 | [61719-grey-the-lost-technology.json](./61719-grey-the-lost-technology.json) |
+| Grey's Anatomy: The Video Game | 4897 | [4897-greys-anatomy-the-video-game.json](./4897-greys-anatomy-the-video-game.json) |
 | Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
 | Greyfox | 19377 | [19377-greyfox.json](./19377-greyfox.json) |
 | Greyhill Incident | 196995 | [196995-greyhill-incident.json](./196995-greyhill-incident.json) |
@@ -8211,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Orion | 34326 | [34326-guardians-of-orion.json](./34326-guardians-of-orion.json) |
 | Guardians of Restoration | 309739 | [309739-guardians-of-restoration.json](./309739-guardians-of-restoration.json) |
 | Guardians of the 'Hood | 39353 | [39353-guardians-of-the-hood.json](./39353-guardians-of-the-hood.json) |
+| Guardians of the Ashes | 127753 | [127753-guardians-of-the-ashes.json](./127753-guardians-of-the-ashes.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
 | Guardians of the Rose | 110195 | [110195-guardians-of-the-rose.json](./110195-guardians-of-the-rose.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
@@ -8470,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guinea-Pig | 81879 | [81879-guinea-pig.json](./81879-guinea-pig.json) |
 | Guinevere | 313874 | [313874-guinevere.json](./313874-guinevere.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
+| Guinness World Records: The Video Game | 4901 | [4901-guinness-world-records-the-video-game.json](./4901-guinness-world-records-the-video-game.json) |
 | Guise of the Wolf | 7669 | [7669-guise-of-the-wolf.json](./7669-guise-of-the-wolf.json) |
 | Guitar Band Battle | 175729 | [175729-guitar-band-battle.json](./175729-guitar-band-battle.json) |
 | Guitar Band: Rock Battle | 299999 | [299999-guitar-band-rock-battle.json](./299999-guitar-band-rock-battle.json) |
