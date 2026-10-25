@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Feud: 2012 Edition | 6678 | [6678-family-feud-2012-edition.json](./6678-family-feud-2012-edition.json) |
 | Family Feud: Battle of the Sexes | 358962 | [358962-family-feud-battle-of-the-sexes.json](./358962-family-feud-battle-of-the-sexes.json) |
+| Family Fitness Challenge | 421396 | [421396-family-fitness-challenge.json](./421396-family-fitness-challenge.json) |
 | Family Fun Pack | 100092 | [100092-family-fun-pack.json](./100092-family-fun-pack.json) |
 | Family Fun Pack | 391196 | [391196-family-fun-pack.json](./391196-family-fun-pack.json) |
 | Family Funday | 310582 | [310582-family-funday.json](./310582-family-funday.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeding the Velociraptors | 348578 | [348578-feeding-the-velociraptors.json](./348578-feeding-the-velociraptors.json) |
 | Feeding Yuyuko | 412226 | [412226-feeding-yuyuko.json](./412226-feeding-yuyuko.json) |
 | Feedn' Chloe | 206051 | [206051-feedn-chloe.json](./206051-feedn-chloe.json) |
+| Feedstock | 421435 | [421435-feedstock.json](./421435-feedstock.json) |
 | FeedVid Live | 214433 | [214433-feedvid-live.json](./214433-feedvid-live.json) |
 | Feeet | 150242 | [150242-feeet.json](./150242-feeet.json) |
 | Feel For You | 98053 | [98053-feel-for-you.json](./98053-feel-for-you.json) |
@@ -5595,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit & Fun | 50604 | [50604-fit-and-fun.json](./50604-fit-and-fun.json) |
 | Fit Adventures Bundle | 227109 | [227109-fit-adventures-bundle.json](./227109-fit-adventures-bundle.json) |
 | Fit and Fry | 342148 | [342148-fit-and-fry.json](./342148-fit-and-fry.json) |
+| Fit and Grow | 421424 | [421424-fit-and-grow.json](./421424-fit-and-grow.json) |
 | Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
 | Fit Fantasy | 144268 | [144268-fit-fantasy.json](./144268-fit-fantasy.json) |
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
@@ -11310,6 +11313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
 | Futari no Fantavision | 222750 | [222750-futari-no-fantavision.json](./222750-futari-no-fantavision.json) |
+| Futari no Tabi no Kiroku | 421436 | [421436-futari-no-tabi-no-kiroku.json](./421436-futari-no-tabi-no-kiroku.json) |
 | Futari wa Precure Max Heart: Danzen! DS de Precure - Chikara wo Awasete Dai Battle | 130571 | [130571-futari-wa-precure-max-heart-danzen-ds-de-precure-chikara-wo-awasete-dai-battle.json](./130571-futari-wa-precure-max-heart-danzen-ds-de-precure-chikara-wo-awasete-dai-battle.json) |
 | Futari wa Precure Max Heart: Maji? Maji!? Fight de IN Janai | 49568 | [49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json](./49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
