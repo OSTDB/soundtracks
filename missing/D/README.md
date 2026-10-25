@@ -5296,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
 | Demon Lord Reincarnation Gaiden | 286046 | [286046-demon-lord-reincarnation-gaiden.json](./286046-demon-lord-reincarnation-gaiden.json) |
 | Demon Lord: Clicker | 312739 | [312739-demon-lord-clicker.json](./312739-demon-lord-clicker.json) |
+| Demon Lord: Just a Block | 389374 | [389374-demon-lord-just-a-block.json](./389374-demon-lord-just-a-block.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
 | Demon Mage | 261660 | [261660-demon-mage.json](./261660-demon-mage.json) |
 | Demon Mark: A Russian Saga | 28779 | [28779-demon-mark-a-russian-saga.json](./28779-demon-mark-a-russian-saga.json) |
@@ -6350,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
 | Detective Bass: Fish Out Of Water | 299369 | [299369-detective-bass-fish-out-of-water.json](./299369-detective-bass-fish-out-of-water.json) |
 | Detective Bloodphobia | 374913 | [374913-detective-bloodphobia.json](./374913-detective-bloodphobia.json) |
+| Detective Bogey | 389380 | [389380-detective-bogey.json](./389380-detective-bogey.json) |
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
 | Detective Bot | 133121 | [133121-detective-bot.json](./133121-detective-bot.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
@@ -7218,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Fast | 338289 | [338289-die-fast.json](./338289-die-fast.json) |
 | Die First | 414557 | [414557-die-first.json](./414557-die-first.json) |
 | Die For Metal | 197703 | [197703-die-for-metal.json](./197703-die-for-metal.json) |
+| Die for Pay | 389385 | [389385-die-for-pay.json](./389385-die-for-pay.json) |
 | Die for the Economy! | 325314 | [325314-die-for-the-economy.json](./325314-die-for-the-economy.json) |
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
@@ -11136,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dormitabis Remastered | 281298 | [281298-dormitabis-remastered.json](./281298-dormitabis-remastered.json) |
 | Dormitory Hentai Clicker | 243575 | [243575-dormitory-hentai-clicker.json](./243575-dormitory-hentai-clicker.json) |
+| Dorobune to Zainin | 389381 | [389381-dorobune-to-zainin.json](./389381-dorobune-to-zainin.json) |
 | Dorodon | 40100 | [40100-dorodon.json](./40100-dorodon.json) |
 | Doronko Wanko | 290647 | [290647-doronko-wanko.json](./290647-doronko-wanko.json) |
 | Doronko Wanko: Bulldog | 356790 | [356790-doronko-wanko-bulldog.json](./356790-doronko-wanko-bulldog.json) |
