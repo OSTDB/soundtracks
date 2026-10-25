@@ -6211,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Craft | 291843 | [291843-ring-craft.json](./291843-ring-craft.json) |
 | Ring Cycle | 2499 | [2499-ring-cycle.json](./2499-ring-cycle.json) |
 | Ring Fit Adventure: Rhythm Game | 320954 | [320954-ring-fit-adventure-rhythm-game.json](./320954-ring-fit-adventure-rhythm-game.json) |
+| Ring Flyer | 411314 | [411314-ring-flyer.json](./411314-ring-flyer.json) |
 | Ring II: Twilight of the Gods | 73656 | [73656-ring-ii-twilight-of-the-gods.json](./73656-ring-ii-twilight-of-the-gods.json) |
 | Ring Jongg | 209020 | [209020-ring-jongg.json](./209020-ring-jongg.json) |
 | Ring King | 218329 | [218329-ring-king.json](./218329-ring-king.json) |
@@ -7821,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocket Zap | 216125 | [216125-rocket-zap.json](./216125-rocket-zap.json) |
 | Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
+| Rocket1994 | 411352 | [411352-rocket1994.json](./411352-rocket1994.json) |
 | Rocketball | 47184 | [47184-rocketball.json](./47184-rocketball.json) |
 | Rocketball: Championship Cup | 175706 | [175706-rocketball-championship-cup.json](./175706-rocketball-championship-cup.json) |
 | RocketBallZ | 188454 | [188454-rocketballz.json](./188454-rocketballz.json) |
@@ -9881,6 +9883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule & Expand | 316370 | [316370-rule-and-expand.json](./316370-rule-and-expand.json) |
 | Rule No. 1 | 146645 | [146645-rule-no-1.json](./146645-rule-no-1.json) |
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
+| Rule No. 3: Downpour | 411315 | [411315-rule-no-3-downpour.json](./411315-rule-no-3-downpour.json) |
 | Rule of Rose | 7415 | [7415-rule-of-rose.json](./7415-rule-of-rose.json) |
 | Rule The Beach Volleyball | 324832 | [324832-rule-the-beach-volleyball.json](./324832-rule-the-beach-volleyball.json) |
 | Rule the Kingdom | 343760 | [343760-rule-the-kingdom.json](./343760-rule-the-kingdom.json) |
