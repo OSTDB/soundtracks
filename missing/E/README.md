@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Pets Pup - Christmas Run | 91275 | [91275-elf-pets-pup-christmas-run.json](./91275-elf-pets-pup-christmas-run.json) |
 | Elf Pets: Virtual Reindeer | 95345 | [95345-elf-pets-virtual-reindeer.json](./95345-elf-pets-virtual-reindeer.json) |
 | Elf Shield | 279891 | [279891-elf-shield.json](./279891-elf-shield.json) |
+| Elf Shift | 420759 | [420759-elf-shift.json](./420759-elf-shift.json) |
 | Elf Survivor | 320830 | [320830-elf-survivor.json](./320830-elf-survivor.json) |
 | Elf Tennis Club | 419881 | [419881-elf-tennis-club.json](./419881-elf-tennis-club.json) |
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
