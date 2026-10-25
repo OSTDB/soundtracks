@@ -4554,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go, Diego, Go! Great Dinosaur Rescue | 47978 | [47978-go-diego-go-great-dinosaur-rescue.json](./47978-go-diego-go-great-dinosaur-rescue.json) |
 | Go, Diego, Go! Safari Rescue | 209758 | [209758-go-diego-go-safari-rescue.json](./209758-go-diego-go-safari-rescue.json) |
 | Go, Diego, Go! Safari Rescue | 209759 | [209759-go-diego-go-safari-rescue.json](./209759-go-diego-go-safari-rescue.json) |
+| Go, Diego, Go!: Diego's Underwater Adventure | 413701 | [413701-go-diego-go-diegos-underwater-adventure.json](./413701-go-diego-go-diegos-underwater-adventure.json) |
 | Go, Go, Knight! | 195004 | [195004-go-go-knight.json](./195004-go-go-knight.json) |
 | Go, Smile | 246336 | [246336-go-smile.json](./246336-go-smile.json) |
 | Go, Sprout! | 200397 | [200397-go-sprout.json](./200397-go-sprout.json) |
