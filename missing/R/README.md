@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radish | 122180 | [122180-radish.json](./122180-radish.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Radium | 209320 | [209320-radium.json](./209320-radium.json) |
+| Radium | 35607 | [35607-radium.json](./35607-radium.json) |
 | Radium | 405335 | [405335-radium.json](./405335-radium.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
@@ -2855,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recess | 406223 | [406223-recess.json](./406223-recess.json) |
 | Recess Riot | 242455 | [242455-recess-riot.json](./242455-recess-riot.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
+| Recession | 38797 | [38797-recession.json](./38797-recession.json) |
 | Recettear: An Item Shop's Tale | 12524 | [12524-recettear-an-item-shops-tale.json](./12524-recettear-an-item-shops-tale.json) |
 | Recharge | 332861 | [332861-recharge.json](./332861-recharge.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
@@ -3742,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign and Ruin | 211662 | [211662-reign-and-ruin.json](./211662-reign-and-ruin.json) |
 | Reign Down | 280348 | [280348-reign-down.json](./280348-reign-down.json) |
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
+| Reign of Bullets | 35604 | [35604-reign-of-bullets.json](./35604-reign-of-bullets.json) |
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
 | Reign of Fire | 248461 | [248461-reign-of-fire.json](./248461-reign-of-fire.json) |
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
@@ -5101,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Northbury Grove | 271602 | [271602-return-to-northbury-grove.json](./271602-return-to-northbury-grove.json) |
 | Return to Paradise | 294066 | [294066-return-to-paradise.json](./294066-return-to-paradise.json) |
 | Return to Pirate's Isle | 18527 | [18527-return-to-pirates-isle.json](./18527-return-to-pirates-isle.json) |
+| Return to Planet X | 38810 | [38810-return-to-planet-x.json](./38810-return-to-planet-x.json) |
 | Return to PopoloCrois: A Story of Seasons Fairytale | 11005 | [11005-return-to-popolocrois-a-story-of-seasons-fairytale.json](./11005-return-to-popolocrois-a-story-of-seasons-fairytale.json) |
 | Return to Ravenholm | 237522 | [237522-return-to-ravenholm.json](./237522-return-to-ravenholm.json) |
 | Return to Riddle School | 261427 | [261427-return-to-riddle-school.json](./261427-return-to-riddle-school.json) |
@@ -9978,6 +9982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Ninja Run | 190074 | [190074-run-ninja-run.json](./190074-run-ninja-run.json) |
 | Run Ninja Run | 394143 | [394143-run-ninja-run.json](./394143-run-ninja-run.json) |
 | Run Ninja Run 2 | 394144 | [394144-run-ninja-run-2.json](./394144-run-ninja-run-2.json) |
+| Run of Mydan | 38336 | [38336-run-of-mydan.json](./38336-run-of-mydan.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run or Die | 378405 | [378405-run-or-die.json](./378405-run-or-die.json) |
