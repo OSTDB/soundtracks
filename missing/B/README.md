@@ -5464,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestiary | 135083 | [135083-bestiary.json](./135083-bestiary.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary Exam | 114749 | [114749-bestiary-exam.json](./114749-bestiary-exam.json) |
+| Bestiary of Sigillum | 113666 | [113666-bestiary-of-sigillum.json](./113666-bestiary-of-sigillum.json) |
 | Bestiary of the Mountains and Seas | 343823 | [343823-bestiary-of-the-mountains-and-seas.json](./343823-bestiary-of-the-mountains-and-seas.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
@@ -11307,6 +11308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
 | Bound To Fail | 396718 | [396718-bound-to-fail.json](./396718-bound-to-fail.json) |
 | Bound to Light | 74494 | [74494-bound-to-light.json](./74494-bound-to-light.json) |
+| Bound Up & Squirming! | 113674 | [113674-bound-up-and-squirming.json](./113674-bound-up-and-squirming.json) |
 | Bounda | 199441 | [199441-bounda.json](./199441-bounda.json) |
 | Bounda Forever | 249361 | [249361-bounda-forever.json](./249361-bounda-forever.json) |
 | Boundary | 22395 | [22395-boundary.json](./22395-boundary.json) |
