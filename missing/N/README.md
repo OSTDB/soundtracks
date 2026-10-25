@@ -5153,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal: Boston Nightfall | 64719 | [64719-nocturnal-boston-nightfall.json](./64719-nocturnal-boston-nightfall.json) |
 | Nocturnals | 279107 | [279107-nocturnals.json](./279107-nocturnals.json) |
 | Nocturnals: Cacti Coast | 356601 | [356601-nocturnals-cacti-coast.json](./356601-nocturnals-cacti-coast.json) |
+| Nocturnarya | 420790 | [420790-nocturnarya.json](./420790-nocturnarya.json) |
 | Nocturnarya: Collector's Edition | 362846 | [362846-nocturnarya-collectors-edition.json](./362846-nocturnarya-collectors-edition.json) |
 | Nocturne | 150509 | [150509-nocturne.json](./150509-nocturne.json) |
 | Nocturne | 229636 | [229636-nocturne.json](./229636-nocturne.json) |
