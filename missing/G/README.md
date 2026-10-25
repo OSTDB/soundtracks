@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Tower Defense 2 | 196510 | [196510-gem-tower-defense-2.json](./196510-gem-tower-defense-2.json) |
 | Gem Twyx | 88153 | [88153-gem-twyx.json](./88153-gem-twyx.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
+| Gem Warrior R | 392084 | [392084-gem-warrior-r.json](./392084-gem-warrior-r.json) |
 | Gem Wars: Attack of the Jiblets | 35242 | [35242-gem-wars-attack-of-the-jiblets.json](./35242-gem-wars-attack-of-the-jiblets.json) |
 | Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
 | Gem Wizards Tactics | 142742 | [142742-gem-wizards-tactics.json](./142742-gem-wizards-tactics.json) |
@@ -2521,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep2 | 118018 | [118018-genius-nazi-girl-goeppels-chan-ep2.json](./118018-genius-nazi-girl-goeppels-chan-ep2.json) |
 | Genji Koi Emaki | 130010 | [130010-genji-koi-emaki.json](./130010-genji-koi-emaki.json) |
+| Genji Reincarnation: The Seven Mysteries of Shirahata High | 391540 | [391540-genji-reincarnation-the-seven-mysteries-of-shirahata-high.json](./391540-genji-reincarnation-the-seven-mysteries-of-shirahata-high.json) |
 | Genji: Dawn of the Samurai | 14407 | [14407-genji-dawn-of-the-samurai.json](./14407-genji-dawn-of-the-samurai.json) |
 | Genji: Days of the Blade | 7315 | [7315-genji-days-of-the-blade.json](./7315-genji-days-of-the-blade.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
@@ -3904,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator | 401718 | [401718-gladiator.json](./401718-gladiator.json) |
 | Gladiator 3D | 403536 | [403536-gladiator-3d.json](./403536-gladiator-3d.json) |
 | Gladiator Bastards | 114698 | [114698-gladiator-bastards.json](./114698-gladiator-bastards.json) |
+| Gladiator Command | 391532 | [391532-gladiator-command.json](./391532-gladiator-command.json) |
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
 | Gladiator Manager | 278095 | [278095-gladiator-manager.json](./278095-gladiator-manager.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
@@ -7867,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grizelda: Lynx and the Nine Lives | 201678 | [201678-grizelda-lynx-and-the-nine-lives.json](./201678-grizelda-lynx-and-the-nine-lives.json) |
 | Grizzly Adventure | 107829 | [107829-grizzly-adventure.json](./107829-grizzly-adventure.json) |
 | Grizzly Cup Turbo Challenge '92 | 393927 | [393927-grizzly-cup-turbo-challenge-92.json](./393927-grizzly-cup-turbo-challenge-92.json) |
+| Grizzly Gulch Western Extravaganza | 392340 | [392340-grizzly-gulch-western-extravaganza.json](./392340-grizzly-gulch-western-extravaganza.json) |
 | Grizzly Retro Platformer | 98784 | [98784-grizzly-retro-platformer.json](./98784-grizzly-retro-platformer.json) |
 | Grizzly Valley | 33048 | [33048-grizzly-valley.json](./33048-grizzly-valley.json) |
 | Grizzly's | 231429 | [231429-grizzlys.json](./231429-grizzlys.json) |
@@ -8337,6 +8341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
 | Guardians of Atlas | 46726 | [46726-guardians-of-atlas.json](./46726-guardians-of-atlas.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
+| Guardians of Dao | 391995 | [391995-guardians-of-dao.json](./391995-guardians-of-dao.json) |
 | Guardians of Eden | 277360 | [277360-guardians-of-eden.json](./277360-guardians-of-eden.json) |
 | Guardians of Ember | 26692 | [26692-guardians-of-ember.json](./26692-guardians-of-ember.json) |
 | Guardians of Gaia | 217263 | [217263-guardians-of-gaia.json](./217263-guardians-of-gaia.json) |
