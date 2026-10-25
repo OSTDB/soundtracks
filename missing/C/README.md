@@ -14478,6 +14478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosscountry USA Photo Safari | 399082 | [399082-crosscountry-usa-photo-safari.json](./399082-crosscountry-usa-photo-safari.json) |
 | CrossCraze | 140504 | [140504-crosscraze.json](./140504-crosscraze.json) |
 | Crossdoku: Math Crossword Sudoku | 127789 | [127789-crossdoku-math-crossword-sudoku.json](./127789-crossdoku-math-crossword-sudoku.json) |
+| Crossed Parallel Lines Murder Case | 415076 | [415076-crossed-parallel-lines-murder-case.json](./415076-crossed-parallel-lines-murder-case.json) |
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossed Paths: Connected Worlds - At First Sight | 180105 | [180105-crossed-paths-connected-worlds-at-first-sight.json](./180105-crossed-paths-connected-worlds-at-first-sight.json) |
 | Crossed Swords | 39642 | [39642-crossed-swords.json](./39642-crossed-swords.json) |
