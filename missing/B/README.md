@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6079,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
 | Big City Adventure: Barcelona | 341050 | [341050-big-city-adventure-barcelona.json](./341050-big-city-adventure-barcelona.json) |
 | Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
+| Big City Adventure: London - Premium Edition | 417381 | [417381-big-city-adventure-london-premium-edition.json](./417381-big-city-adventure-london-premium-edition.json) |
 | Big City Adventure: London Classic | 417564 | [417564-big-city-adventure-london-classic.json](./417564-big-city-adventure-london-classic.json) |
 | Big City Adventure: London Story | 341625 | [341625-big-city-adventure-london-story.json](./341625-big-city-adventure-london-story.json) |
 | Big City Adventure: New York City | 65201 | [65201-big-city-adventure-new-york-city.json](./65201-big-city-adventure-new-york-city.json) |
