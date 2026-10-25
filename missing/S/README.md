@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
 | S.E.C.U. | 213208 | [213208-s-e-c-u.json](./213208-s-e-c-u.json) |
 | S.E.U.I.S. | 24886 | [24886-s-e-u-i-s.json](./24886-s-e-u-i-s.json) |
+| S.E.X. Project: Simulated Emotional Xenotech | 401448 | [401448-s-e-x-project-simulated-emotional-xenotech.json](./401448-s-e-x-project-simulated-emotional-xenotech.json) |
 | S.E.X. Retreat: WellCum In! | 278381 | [278381-s-e-x-retreat-wellcum-in.json](./278381-s-e-x-retreat-wellcum-in.json) |
 | S.F.77 | 104838 | [104838-s-f-77.json](./104838-s-f-77.json) |
 | S.H.E. | 183800 | [183800-s-h-e.json](./183800-s-h-e.json) |
@@ -1520,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Ski vs. Zombies Ski | 257012 | [257012-santa-ski-vs-zombies-ski.json](./257012-santa-ski-vs-zombies-ski.json) |
 | Santa Slays Nazis | 196117 | [196117-santa-slays-nazis.json](./196117-santa-slays-nazis.json) |
 | Santa Sleigher | 354763 | [354763-santa-sleigher.json](./354763-santa-sleigher.json) |
+| Santa Slide Rush | 401446 | [401446-santa-slide-rush.json](./401446-santa-slide-rush.json) |
 | Santa Sling | 30074 | [30074-santa-sling.json](./30074-santa-sling.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
@@ -2887,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
 | Scramble Cobra | 4315 | [4315-scramble-cobra.json](./4315-scramble-cobra.json) |
 | Scramble Heart City | 319148 | [319148-scramble-heart-city.json](./319148-scramble-heart-city.json) |
+| Scramble Mania | 401447 | [401447-scramble-mania.json](./401447-scramble-mania.json) |
 | Scramble of the Far East | 364555 | [364555-scramble-of-the-far-east.json](./364555-scramble-of-the-far-east.json) |
 | Scramble Spirits | 12847 | [12847-scramble-spirits.json](./12847-scramble-spirits.json) |
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
@@ -5578,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
 | Shadow Returns | 330114 | [330114-shadow-returns.json](./330114-shadow-returns.json) |
 | Shadow Rising: Reinedgening | 330307 | [330307-shadow-rising-reinedgening.json](./330307-shadow-rising-reinedgening.json) |
+| Shadow Rose | 401449 | [401449-shadow-rose.json](./401449-shadow-rose.json) |
 | Shadow Run | 116882 | [116882-shadow-run.json](./116882-shadow-run.json) |
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
 | Shadow Runner | 385379 | [385379-shadow-runner.json](./385379-shadow-runner.json) |
@@ -6176,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Siege | 296460 | [296460-shark-siege.json](./296460-shark-siege.json) |
 | Shark Simulator | 68769 | [68769-shark-simulator.json](./68769-shark-simulator.json) |
+| Shark Simulator: Ocean RPG Survival | 401443 | [401443-shark-simulator-ocean-rpg-survival.json](./401443-shark-simulator-ocean-rpg-survival.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
 | Shark Tale: Fish Eat Fish | 325144 | [325144-shark-tale-fish-eat-fish.json](./325144-shark-tale-fish-eat-fish.json) |
 | Shark Trap | 24901 | [24901-shark-trap.json](./24901-shark-trap.json) |
@@ -6245,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Earth | 315109 | [315109-shattered-earth.json](./315109-shattered-earth.json) |
 | Shattered Echoes | 278512 | [278512-shattered-echoes.json](./278512-shattered-echoes.json) |
 | Shattered Fate | 307270 | [307270-shattered-fate.json](./307270-shattered-fate.json) |
+| Shattered Frames 4: Micro Worlds | 401442 | [401442-shattered-frames-4-micro-worlds.json](./401442-shattered-frames-4-micro-worlds.json) |
 | Shattered Galaxy | 73258 | [73258-shattered-galaxy.json](./73258-shattered-galaxy.json) |
 | Shattered God - Quest for the Divine Relic | 41935 | [41935-shattered-god-quest-for-the-divine-relic.json](./41935-shattered-god-quest-for-the-divine-relic.json) |
 | Shattered Haven | 9407 | [9407-shattered-haven.json](./9407-shattered-haven.json) |
@@ -8532,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Dread: Last Order | 408116 | [408116-silent-dread-last-order.json](./408116-silent-dread-last-order.json) |
 | Silent Earth | 151495 | [151495-silent-earth.json](./151495-silent-earth.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
+| Silent Evil Dead Horror Syndrome | 401441 | [401441-silent-evil-dead-horror-syndrome.json](./401441-silent-evil-dead-horror-syndrome.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Footsteps | 105072 | [105072-silent-footsteps.json](./105072-silent-footsteps.json) |
 | Silent Forest: Deadly Night Horror | 330404 | [330404-silent-forest-deadly-night-horror.json](./330404-silent-forest-deadly-night-horror.json) |
@@ -13160,6 +13167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soilborn: Ant Empire | 372003 | [372003-soilborn-ant-empire.json](./372003-soilborn-ant-empire.json) |
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
+| Sojourner | 401457 | [401457-sojourner.json](./401457-sojourner.json) |
 | Sojourner | 54901 | [54901-sojourner.json](./54901-sojourner.json) |
 | SojournVR | 74259 | [74259-sojournvr.json](./74259-sojournvr.json) |
 | Sok Max | 82364 | [82364-sok-max.json](./82364-sok-max.json) |
