@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machineers | 35621 | [35621-machineers.json](./35621-machineers.json) |
 | Machinegun Geometry | 68756 | [68756-machinegun-geometry.json](./68756-machinegun-geometry.json) |
 | Machinegun Geometry: The Right Angle | 68757 | [68757-machinegun-geometry-the-right-angle.json](./68757-machinegun-geometry-the-right-angle.json) |
+| Machinegun Joe vs The Mafia | 394160 | [394160-machinegun-joe-vs-the-mafia.json](./394160-machinegun-joe-vs-the-mafia.json) |
 | MachineGunner2: Bullet Transcending | 365270 | [365270-machinegunner2-bullet-transcending.json](./365270-machinegunner2-bullet-transcending.json) |
 | MachineryWorld | 158118 | [158118-machineryworld.json](./158118-machineryworld.json) |
 | Machines at War 3 | 17485 | [17485-machines-at-war-3.json](./17485-machines-at-war-3.json) |
@@ -1283,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Princess | 339996 | [339996-magical-princess.json](./339996-magical-princess.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
 | Magical Psalter II: Féngmó zhī Tú | 394500 | [394500-magical-psalter-ii-fengmo-zhi-tu.json](./394500-magical-psalter-ii-fengmo-zhi-tu.json) |
+| Magical Psalter: Yù Mó zhī Lù | 394412 | [394412-magical-psalter-yu-mo-zhi-lu.json](./394412-magical-psalter-yu-mo-zhi-lu.json) |
 | Magical Queen's Land | 207599 | [207599-magical-queens-land.json](./207599-magical-queens-land.json) |
 | Magical Runes | 368600 | [368600-magical-runes.json](./368600-magical-runes.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
@@ -4164,7 +4166,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass for the Dead | 115452 | [115452-mass-for-the-dead.json](./115452-mass-for-the-dead.json) |
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
+| Mass Mayhem 2 | 393902 | [393902-mass-mayhem-2.json](./393902-mass-mayhem-2.json) |
 | Mass Mayhem 2099 A.D. | 394147 | [394147-mass-mayhem-2099-a-d.json](./394147-mass-mayhem-2099-a-d.json) |
+| Mass Mayhem 3 | 393904 | [393904-mass-mayhem-3.json](./393904-mass-mayhem-3.json) |
 | Mass Mayhem 4 | 337228 | [337228-mass-mayhem-4.json](./337228-mass-mayhem-4.json) |
 | Mass Murderer | 421398 | [421398-mass-murderer.json](./421398-mass-murderer.json) |
 | Mass Plus | 126576 | [126576-mass-plus.json](./126576-mass-plus.json) |
@@ -4438,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterWorks: Journey Through History | 281263 | [281263-masterworks-journey-through-history.json](./281263-masterworks-journey-through-history.json) |
 | Mastery of Fate: Phantom King's Rise | 262594 | [262594-mastery-of-fate-phantom-kings-rise.json](./262594-mastery-of-fate-phantom-kings-rise.json) |
 | Mastodonte | 189062 | [189062-mastodonte.json](./189062-mastodonte.json) |
+| Masturbrowse | 394684 | [394684-masturbrowse.json](./394684-masturbrowse.json) |
 | Masuku | 406740 | [406740-masuku.json](./406740-masuku.json) |
 | Masuzoe Youichi: Asa made Famicom | 48784 | [48784-masuzoe-youichi-asa-made-famicom.json](./48784-masuzoe-youichi-asa-made-famicom.json) |
 | Masyanya Under The Yellow Press | 335429 | [335429-masyanya-under-the-yellow-press.json](./335429-masyanya-under-the-yellow-press.json) |
@@ -14392,6 +14397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | MoSimulator | 404512 | [404512-mosimulator.json](./404512-mosimulator.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
+| Mosquito | 394426 | [394426-mosquito.json](./394426-mosquito.json) |
 | Mosquito Simulator | 320607 | [320607-mosquito-simulator.json](./320607-mosquito-simulator.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
@@ -14671,6 +14677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 25 | 333787 | [333787-motogp-25.json](./333787-motogp-25.json) |
 | MotoGP 25: Iconic Liveries Pack | 374757 | [374757-motogp-25-iconic-liveries-pack.json](./374757-motogp-25-iconic-liveries-pack.json) |
 | MotoGP 25: Off Road Helmets Pack | 374758 | [374758-motogp-25-off-road-helmets-pack.json](./374758-motogp-25-off-road-helmets-pack.json) |
+| MotoGP 26 | 394406 | [394406-motogp-26.json](./394406-motogp-26.json) |
 | MotoGP 3 | 5938 | [5938-motogp-3.json](./5938-motogp-3.json) |
 | MotoGP Guru Racing 25/26 | 196554 | [196554-motogp-guru-racing-25-26.json](./196554-motogp-guru-racing-25-26.json) |
 | MotoGP4 | 20536 | [20536-motogp4.json](./20536-motogp4.json) |
