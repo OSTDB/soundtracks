@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Diamond Edition | 271837 | [271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json](./271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Elite Edition | 268546 | [268546-s-n-i-p-e-r-hunter-scope-elite-edition.json](./268546-s-n-i-p-e-r-hunter-scope-elite-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Enhanced Edition | 412582 | [412582-s-n-i-p-e-r-hunter-scope-enhanced-edition.json](./412582-s-n-i-p-e-r-hunter-scope-enhanced-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Enhancement Edition | 404284 | [404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json](./404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Full Edition | 333723 | [333723-s-n-i-p-e-r-hunter-scope-full-edition.json](./333723-s-n-i-p-e-r-hunter-scope-full-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - GOTY Edition | 283164 | [283164-s-n-i-p-e-r-hunter-scope-goty-edition.json](./283164-s-n-i-p-e-r-hunter-scope-goty-edition.json) |
@@ -377,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe Safe Revolution | 340597 | [340597-safe-safe-revolution.json](./340597-safe-safe-revolution.json) |
 | Safe Squares | 159833 | [159833-safe-squares.json](./159833-safe-squares.json) |
 | Safe Zone | 342744 | [342744-safe-zone.json](./342744-safe-zone.json) |
+| Safe Zone | 412608 | [412608-safe-zone.json](./412608-safe-zone.json) |
 | Safebreaker | 296373 | [296373-safebreaker.json](./296373-safebreaker.json) |
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
@@ -11052,6 +11054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Adventure Legacy | 121537 | [121537-slime-adventure-legacy.json](./121537-slime-adventure-legacy.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime Alchemist | 265108 | [265108-slime-alchemist.json](./265108-slime-alchemist.json) |
+| Slime and Machinegun | 412599 | [412599-slime-and-machinegun.json](./412599-slime-and-machinegun.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
 | Slime Battle | 380752 | [380752-slime-battle.json](./380752-slime-battle.json) |
 | Slime Brawly Brawl | 280295 | [280295-slime-brawly-brawl.json](./280295-slime-brawly-brawl.json) |
@@ -15751,6 +15754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crusaders | 211582 | [211582-space-crusaders.json](./211582-space-crusaders.json) |
 | Space Cube Tower Defense | 169096 | [169096-space-cube-tower-defense.json](./169096-space-cube-tower-defense.json) |
 | Space Cycle | 318129 | [318129-space-cycle.json](./318129-space-cycle.json) |
+| Space Cycler | 412602 | [412602-space-cycler.json](./412602-space-cycler.json) |
 | Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
 | Space Dance Harmony | 149323 | [149323-space-dance-harmony.json](./149323-space-dance-harmony.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
