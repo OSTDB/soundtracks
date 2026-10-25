@@ -2986,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursed: The Ice Palace | 322272 | [322272-recursed-the-ice-palace.json](./322272-recursed-the-ice-palace.json) |
 | Recursion | 296738 | [296738-recursion.json](./296738-recursion.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
+| Recursion Deluxe | 33924 | [33924-recursion-deluxe.json](./33924-recursion-deluxe.json) |
 | Recursive | 382590 | [382590-recursive.json](./382590-recursive.json) |
 | Recursive Dragon | 103648 | [103648-recursive-dragon.json](./103648-recursive-dragon.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
@@ -3176,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Hands: 2-Player Game | 174002 | [174002-red-hands-2-player-game.json](./174002-red-hands-2-player-game.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
+| Red Haze | 33886 | [33886-red-haze.json](./33886-red-haze.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
 | Red Heat | 12743 | [12743-red-heat.json](./12743-red-heat.json) |
 | Red Hell | 203210 | [203210-red-hell.json](./203210-red-hell.json) |
@@ -4461,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
 | Reset | 305373 | [305373-reset.json](./305373-reset.json) |
+| Reset 1-1 | 32832 | [32832-reset-1-1.json](./32832-reset-1-1.json) |
 | Reset Co. | 180620 | [180620-reset-co.json](./180620-reset-co.json) |
 | Reset Day | 396552 | [396552-reset-day.json](./396552-reset-day.json) |
 | Reset Memory | 195545 | [195545-reset-memory.json](./195545-reset-memory.json) |
