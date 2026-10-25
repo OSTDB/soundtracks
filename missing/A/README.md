@@ -2984,7 +2984,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -8840,6 +8839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Keeping Simulator | 293092 | [293092-ant-keeping-simulator.json](./293092-ant-keeping-simulator.json) |
 | Ant Man | 313899 | [313899-ant-man.json](./313899-ant-man.json) |
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
+| Ant Nation | 21197 | [21197-ant-nation.json](./21197-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Ant Simulator | 18016 | [18016-ant-simulator.json](./18016-ant-simulator.json) |
 | Ant Simulator | 360700 | [360700-ant-simulator.json](./360700-ant-simulator.json) |
@@ -12304,6 +12304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III Remastered | 109532 | [109532-assassins-creed-iii-remastered.json](./109532-assassins-creed-iii-remastered.json) |
 | Assassin's Creed III Remastered | 237701 | [237701-assassins-creed-iii-remastered.json](./237701-assassins-creed-iii-remastered.json) |
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
+| Assassin's Creed III: Deluxe Edition | 21695 | [21695-assassins-creed-iii-deluxe-edition.json](./21695-assassins-creed-iii-deluxe-edition.json) |
 | Assassin's Creed III: Freedom Edition | 383009 | [383009-assassins-creed-iii-freedom-edition.json](./383009-assassins-creed-iii-freedom-edition.json) |
 | Assassin's Creed III: Join or Die Edition | 45117 | [45117-assassins-creed-iii-join-or-die-edition.json](./45117-assassins-creed-iii-join-or-die-edition.json) |
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
