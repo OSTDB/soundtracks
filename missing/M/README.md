@@ -13302,6 +13302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trouble Anniversary Edition | 175590 | [175590-monster-trouble-anniversary-edition.json](./175590-monster-trouble-anniversary-edition.json) |
 | Monster Truck | 332857 | [332857-monster-truck.json](./332857-monster-truck.json) |
 | Monster Truck Arena: Battle Royale | 322419 | [322419-monster-truck-arena-battle-royale.json](./322419-monster-truck-arena-battle-royale.json) |
+| Monster Truck Attack Collection | 386788 | [386788-monster-truck-attack-collection.json](./386788-monster-truck-attack-collection.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
 | Monster Truck Demolition | 106910 | [106910-monster-truck-demolition.json](./106910-monster-truck-demolition.json) |
