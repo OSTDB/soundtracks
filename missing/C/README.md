@@ -10365,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comfort Zone | 266724 | [266724-comfort-zone.json](./266724-comfort-zone.json) |
 | Comforting Sounds | 183924 | [183924-comforting-sounds.json](./183924-comforting-sounds.json) |
 | Comfwee Café | 393517 | [393517-comfwee-cafe.json](./393517-comfwee-cafe.json) |
+| Comfy Corners: Unpack and Decorate | 399656 | [399656-comfy-corners-unpack-and-decorate.json](./399656-comfy-corners-unpack-and-decorate.json) |
 | Comfy Cosmos | 339897 | [339897-comfy-cosmos.json](./339897-comfy-cosmos.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
@@ -11816,6 +11817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
+| Copper Odyssey 2 Demo | 399587 | [399587-copper-odyssey-2-demo.json](./399587-copper-odyssey-2-demo.json) |
 | Copper Quest | 184879 | [184879-copper-quest.json](./184879-copper-quest.json) |
 | Copperbell | 122841 | [122841-copperbell.json](./122841-copperbell.json) |
 | Copperfell | 373737 | [373737-copperfell.json](./373737-copperfell.json) |
