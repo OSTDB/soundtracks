@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile 2: The Third Edict | 380175 | [380175-path-of-exile-2-the-third-edict.json](./380175-path-of-exile-2-the-third-edict.json) |
 | Path of Exile Mobile | 125735 | [125735-path-of-exile-mobile.json](./125735-path-of-exile-mobile.json) |
 | Path of Exile: Crucible | 257831 | [257831-path-of-exile-crucible.json](./257831-path-of-exile-crucible.json) |
+| Path of Exile: Curse of the Allflame | 411344 | [411344-path-of-exile-curse-of-the-allflame.json](./411344-path-of-exile-curse-of-the-allflame.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Forbidden Sanctum | 228596 | [228596-path-of-exile-forbidden-sanctum.json](./228596-path-of-exile-forbidden-sanctum.json) |
 | Path of Exile: Forsaken Masters | 75573 | [75573-path-of-exile-forsaken-masters.json](./75573-path-of-exile-forsaken-masters.json) |
@@ -10698,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
 | Possessed | 36520 | [36520-possessed.json](./36520-possessed.json) |
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
+| Possessed Kingdom | 411313 | [411313-possessed-kingdom.json](./411313-possessed-kingdom.json) |
 | Possession | 343026 | [343026-possession.json](./343026-possession.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | Possession 1881 | 150750 | [150750-possession-1881.json](./150750-possession-1881.json) |
