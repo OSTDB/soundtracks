@@ -4473,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Progress | 316919 | [316919-lines-progress.json](./316919-lines-progress.json) |
 | Lines Splitter | 142876 | [142876-lines-splitter.json](./142876-lines-splitter.json) |
 | Lines Universe | 204878 | [204878-lines-universe.json](./204878-lines-universe.json) |
+| Lines We Draw | 390987 | [390987-lines-we-draw.json](./390987-lines-we-draw.json) |
 | Lines X | 119522 | [119522-lines-x.json](./119522-lines-x.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
 | Lines XL | 130042 | [130042-lines-xl.json](./130042-lines-xl.json) |
