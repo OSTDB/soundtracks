@@ -12023,6 +12023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake It 'Til You Make It | 153833 | [153833-snake-it-til-you-make-it.json](./153833-snake-it-til-you-make-it.json) |
 | Snake Jump | 259579 | [259579-snake-jump.json](./259579-snake-jump.json) |
 | Snake King | 340358 | [340358-snake-king.json](./340358-snake-king.json) |
+| Snake Line | 100893 | [100893-snake-line.json](./100893-snake-line.json) |
 | Snake Man's Adventure | 158066 | [158066-snake-mans-adventure.json](./158066-snake-mans-adventure.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
 | Snake of Maths! Cool Education Game | 204973 | [204973-snake-of-maths-cool-education-game.json](./204973-snake-of-maths-cool-education-game.json) |
@@ -16247,6 +16248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Siege | 9276 | [9276-space-siege.json](./9276-space-siege.json) |
 | Space Sim Tycoon | 373354 | [373354-space-sim-tycoon.json](./373354-space-sim-tycoon.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
+| Space Simulator HD - Planet Flight | 95529 | [95529-space-simulator-hd-planet-flight.json](./95529-space-simulator-hd-planet-flight.json) |
 | Space Sirens 2: Megababes from Ajia | 73459 | [73459-space-sirens-2-megababes-from-ajia.json](./73459-space-sirens-2-megababes-from-ajia.json) |
 | Space Slalom | 6138 | [6138-space-slalom.json](./6138-space-slalom.json) |
 | Space Slayer | 26793 | [26793-space-slayer.json](./26793-space-slayer.json) |
@@ -18131,6 +18133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | Spongebob Boat-O-Cross | 235316 | [235316-spongebob-boat-o-cross.json](./235316-spongebob-boat-o-cross.json) |
 | Spongebob Boo or Boom | 307863 | [307863-spongebob-boo-or-boom.json](./307863-spongebob-boo-or-boom.json) |
+| SpongeBob Bubble Party | 95538 | [95538-spongebob-bubble-party.json](./95538-spongebob-bubble-party.json) |
 | SpongeBob Diner Dash 2: Two Times the Trouble | 208781 | [208781-spongebob-diner-dash-2-two-times-the-trouble.json](./208781-spongebob-diner-dash-2-two-times-the-trouble.json) |
 | SpongeBob Excludes Squidward | 388139 | [388139-spongebob-excludes-squidward.json](./388139-spongebob-excludes-squidward.json) |
 | SpongeBob GameStation | 196552 | [196552-spongebob-gamestation.json](./196552-spongebob-gamestation.json) |
@@ -19070,6 +19073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SShield Reborn | 90176 | [90176-sshield-reborn.json](./90176-sshield-reborn.json) |
 | sspp03's Super Mario Bros. Hack | 322818 | [322818-sspp03s-super-mario-bros-hack.json](./322818-sspp03s-super-mario-bros-hack.json) |
 | SSR Wives: The Murder Of My Winter Crush | 296468 | [296468-ssr-wives-the-murder-of-my-winter-crush.json](./296468-ssr-wives-the-murder-of-my-winter-crush.json) |
+| SSS: Super Scrap Sandbox - Become a Mechanic | 100904 | [100904-sss-super-scrap-sandbox-become-a-mechanic.json](./100904-sss-super-scrap-sandbox-become-a-mechanic.json) |
 | SSS222: HyperSpace | 211177 | [211177-sss222-hyperspace.json](./211177-sss222-hyperspace.json) |
 | SSSM: In the Shadow of Jupiter | 221295 | [221295-sssm-in-the-shadow-of-jupiter.json](./221295-sssm-in-the-shadow-of-jupiter.json) |
 | Sssnake | 195058 | [195058-sssnake.json](./195058-sssnake.json) |
@@ -26621,6 +26625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sans Race Running | 221710 | [221710-super-sans-race-running.json](./221710-super-sans-race-running.json) |
 | Super Sapiens | 325522 | [325522-super-sapiens.json](./325522-super-sapiens.json) |
 | Super Sarrador | 208238 | [208238-super-sarrador.json](./208238-super-sarrador.json) |
+| Super Sayajin UI Kakaroto VS Red Flame Warrior | 100918 | [100918-super-sayajin-ui-kakaroto-vs-red-flame-warrior.json](./100918-super-sayajin-ui-kakaroto-vs-red-flame-warrior.json) |
 | Super Scary Cylinder | 390135 | [390135-super-scary-cylinder.json](./390135-super-scary-cylinder.json) |
 | Super Schwarzschild | 41996 | [41996-super-schwarzschild.json](./41996-super-schwarzschild.json) |
 | Super Schwarzschild 2 | 401871 | [401871-super-schwarzschild-2.json](./401871-super-schwarzschild-2.json) |
