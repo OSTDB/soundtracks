@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3452,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Hours | 113144 | [113144-after-hours.json](./113144-after-hours.json) |
 | After Hours | 117511 | [117511-after-hours.json](./117511-after-hours.json) |
 | After Hours | 307401 | [307401-after-hours.json](./307401-after-hours.json) |
+| After Hue | 401467 | [401467-after-hue.json](./401467-after-hue.json) |
 | After I Met That Catgirl, My Questlist Got Too Long! | 117631 | [117631-after-i-met-that-catgirl-my-questlist-got-too-long.json](./117631-after-i-met-that-catgirl-my-questlist-got-too-long.json) |
 | After Inc: Revival | 344549 | [344549-after-inc-revival.json](./344549-after-inc-revival.json) |
 | After Inc. | 323935 | [323935-after-inc.json](./323935-after-inc.json) |
@@ -3577,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath Z: Red Pine Lake | 380638 | [380638-aftermath-z-red-pine-lake.json](./380638-aftermath-z-red-pine-lake.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
+| Afternoon Affairs & Helpless Housewives | 401455 | [401455-afternoon-affairs-and-helpless-housewives.json](./401455-afternoon-affairs-and-helpless-housewives.json) |
 | Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
 | Afternoon Paralysis | 381330 | [381330-afternoon-paralysis.json](./381330-afternoon-paralysis.json) |
@@ -4629,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
 | AirShooShoo | 207589 | [207589-airshooshoo.json](./207589-airshooshoo.json) |
+| Airskipper | 401463 | [401463-airskipper.json](./401463-airskipper.json) |
 | Airsoft Allstars | 393023 | [393023-airsoft-allstars.json](./393023-airsoft-allstars.json) |
 | Airsoft Bomb | 102575 | [102575-airsoft-bomb.json](./102575-airsoft-bomb.json) |
 | Airsoft Online | 297765 | [297765-airsoft-online.json](./297765-airsoft-online.json) |
