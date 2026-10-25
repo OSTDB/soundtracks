@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
 | Unlucky Charlie | 114685 | [114685-unlucky-charlie.json](./114685-unlucky-charlie.json) |
 | Unlucky Chicken | 330586 | [330586-unlucky-chicken.json](./330586-unlucky-chicken.json) |
+| Unlucky Day | 406513 | [406513-unlucky-day.json](./406513-unlucky-day.json) |
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
 | Unlucky Seven | 29783 | [29783-unlucky-seven.json](./29783-unlucky-seven.json) |
