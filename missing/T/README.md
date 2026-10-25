@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takoway | 133691 | [133691-takoway.json](./133691-takoway.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
 | Takoyaki Run | 398374 | [398374-takoyaki-run.json](./398374-takoyaki-run.json) |
+| Taksakah | 396649 | [396649-taksakah.json](./396649-taksakah.json) |
 | Takt of Magic | 91755 | [91755-takt-of-magic.json](./91755-takt-of-magic.json) |
 | Takuhai Maid Shiiko & Nono | 77901 | [77901-takuhai-maid-shiiko-and-nono.json](./77901-takuhai-maid-shiiko-and-nono.json) |
 | Takuhai Maid Shiiko-san | 77944 | [77944-takuhai-maid-shiiko-san.json](./77944-takuhai-maid-shiiko-san.json) |
@@ -9676,6 +9677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kingdom of Syree | 171845 | [171845-the-kingdom-of-syree.json](./171845-the-kingdom-of-syree.json) |
 | The Kingdom of Syree II: Black Magic | 231536 | [231536-the-kingdom-of-syree-ii-black-magic.json](./231536-the-kingdom-of-syree-ii-black-magic.json) |
 | The Kingdom of Syree III: The Depths of Hell | 231537 | [231537-the-kingdom-of-syree-iii-the-depths-of-hell.json](./231537-the-kingdom-of-syree-iii-the-depths-of-hell.json) |
+| The Kingdom of the Golden Thread and the MadClocks | 396652 | [396652-the-kingdom-of-the-golden-thread-and-the-madclocks.json](./396652-the-kingdom-of-the-golden-thread-and-the-madclocks.json) |
 | The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
 | The Kingpin | 245775 | [245775-the-kingpin.json](./245775-the-kingpin.json) |
 | The Kings Crusade | 2039 | [2039-the-kings-crusade.json](./2039-the-kings-crusade.json) |
@@ -26116,6 +26118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Mechanic Simulator 2015 | 36188 | [36188-truck-mechanic-simulator-2015.json](./36188-truck-mechanic-simulator-2015.json) |
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
 | Truck Mondai | 244351 | [244351-truck-mondai.json](./244351-truck-mondai.json) |
+| Truck Night in America: AR | 396687 | [396687-truck-night-in-america-ar.json](./396687-truck-night-in-america-ar.json) |
 | Truck Parking Simulator | 129628 | [129628-truck-parking-simulator.json](./129628-truck-parking-simulator.json) |
 | Truck Parking Simulator 2026 | 410833 | [410833-truck-parking-simulator-2026.json](./410833-truck-parking-simulator-2026.json) |
 | Truck Parking Simulator VR | 305943 | [305943-truck-parking-simulator-vr.json](./305943-truck-parking-simulator-vr.json) |
@@ -27463,6 +27466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Against the Legion | 158509 | [158509-two-against-the-legion.json](./158509-two-against-the-legion.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
+| Two Beasts Or Not To Beast! | 396674 | [396674-two-beasts-or-not-to-beast.json](./396674-two-beasts-or-not-to-beast.json) |
 | Two Bit Hero | 157498 | [157498-two-bit-hero.json](./157498-two-bit-hero.json) |
 | Two Brain Sides | 157421 | [157421-two-brain-sides.json](./157421-two-brain-sides.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
@@ -27656,6 +27660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
 | Type to Continue | 177971 | [177971-type-to-continue.json](./177971-type-to-continue.json) |
+| Type To Kill | 396696 | [396696-type-to-kill.json](./396696-type-to-kill.json) |
 | Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
 | Type To Report | 308045 | [308045-type-to-report.json](./308045-type-to-report.json) |
 | Type-Rope | 98219 | [98219-type-rope.json](./98219-type-rope.json) |
