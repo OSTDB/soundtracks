@@ -2831,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geronimo Stilton: Return to the Kingdom of Fantasy - The Videogame | 99956 | [99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json](./99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json) |
 | Geronimo Stilton: The Return to the Kingdom of Fantasy | 52225 | [52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json](./52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json) |
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
+| Gerry Dae | 392838 | [392838-gerry-dae.json](./392838-gerry-dae.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
 | Gerrymander Madness | 157434 | [157434-gerrymander-madness.json](./157434-gerrymander-madness.json) |
 | Gerrymandering: Red vs Blue | 27865 | [27865-gerrymandering-red-vs-blue.json](./27865-gerrymandering-red-vs-blue.json) |
@@ -4004,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleaner Heights: Season 2 | 196082 | [196082-gleaner-heights-season-2.json](./196082-gleaner-heights-season-2.json) |
 | Glee. | 92687 | [92687-glee.json](./92687-glee.json) |
 | Gleeb Glob | 221613 | [221613-gleeb-glob.json](./221613-gleeb-glob.json) |
+| Gleeorp the Great Great | 392984 | [392984-gleeorp-the-great-great.json](./392984-gleeorp-the-great-great.json) |
 | Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
 | Glen Hoddle Soccer | 85907 | [85907-glen-hoddle-soccer.json](./85907-glen-hoddle-soccer.json) |
 | Glen-moril | 373831 | [373831-glen-moril.json](./373831-glen-moril.json) |
@@ -6457,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix | 234094 | [234094-grand-prix.json](./234094-grand-prix.json) |
 | Grand Prix | 279694 | [279694-grand-prix.json](./279694-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
+| Grand Prix | 392844 | [392844-grand-prix.json](./392844-grand-prix.json) |
 | Grand Prix | 40611 | [40611-grand-prix.json](./40611-grand-prix.json) |
 | Grand Prix / Demolition Derby | 169270 | [169270-grand-prix-demolition-derby.json](./169270-grand-prix-demolition-derby.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
@@ -6477,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Manager 2 | 71439 | [71439-grand-prix-manager-2.json](./71439-grand-prix-manager-2.json) |
 | Grand Prix Multiplication | 397211 | [397211-grand-prix-multiplication.json](./397211-grand-prix-multiplication.json) |
 | Grand Prix Racing | 147355 | [147355-grand-prix-racing.json](./147355-grand-prix-racing.json) |
+| Grand Prix Racing | 392843 | [392843-grand-prix-racing.json](./392843-grand-prix-racing.json) |
 | Grand Prix Racing on Line | 167390 | [167390-grand-prix-racing-on-line.json](./167390-grand-prix-racing-on-line.json) |
 | Grand Prix Racing Universal | 302736 | [302736-grand-prix-racing-universal.json](./302736-grand-prix-racing-universal.json) |
 | Grand Prix Rally II | 46750 | [46750-grand-prix-rally-ii.json](./46750-grand-prix-rally-ii.json) |
@@ -7495,6 +7499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid 2: Reloaded Edition | 26185 | [26185-grid-2-reloaded-edition.json](./26185-grid-2-reloaded-edition.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
 | Grid Battles | 370427 | [370427-grid-battles.json](./370427-grid-battles.json) |
+| Grid Clash | 392830 | [392830-grid-clash.json](./392830-grid-clash.json) |
 | Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Empire | 347843 | [347843-grid-empire.json](./347843-grid-empire.json) |
@@ -7515,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Runner | 258951 | [258951-grid-runner.json](./258951-grid-runner.json) |
 | Grid Seeker: Project Storm Hammer | 39866 | [39866-grid-seeker-project-storm-hammer.json](./39866-grid-seeker-project-storm-hammer.json) |
 | Grid Start | 55992 | [55992-grid-start.json](./55992-grid-start.json) |
+| Grid Tycoon | 392970 | [392970-grid-tycoon.json](./392970-grid-tycoon.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
 | Grid-Tsugi | 386538 | [386538-grid-tsugi.json](./386538-grid-tsugi.json) |
