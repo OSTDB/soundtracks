@@ -2702,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones | 80377 | [80377-indiana-jones.json](./80377-indiana-jones.json) |
 | Indiana Jones and Fountain of Youth | 18934 | [18934-indiana-jones-and-fountain-of-youth.json](./18934-indiana-jones-and-fountain-of-youth.json) |
 | Indiana Jones and the Emperor's Tomb | 187 | [187-indiana-jones-and-the-emperors-tomb.json](./187-indiana-jones-and-the-emperors-tomb.json) |
+| Indiana Jones and the Fate of Atlantis | 389762 | [389762-indiana-jones-and-the-fate-of-atlantis.json](./389762-indiana-jones-and-the-fate-of-atlantis.json) |
 | Indiana Jones and the Fate of Atlantis: Special Edition | 22037 | [22037-indiana-jones-and-the-fate-of-atlantis-special-edition.json](./22037-indiana-jones-and-the-fate-of-atlantis-special-edition.json) |
 | Indiana Jones and the Fate of Atlantis: The Action Game | 12155 | [12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json](./12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
