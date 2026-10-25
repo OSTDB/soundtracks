@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back To Back | 379992 | [379992-back-to-back.json](./379992-back-to-back.json) |
 | Back to Base(Q2)ics Jam 1 | 316741 | [316741-back-to-base-q2-ics-jam-1.json](./316741-back-to-base-q2-ics-jam-1.json) |
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
+| Back to Bed | 392381 | [392381-back-to-bed.json](./392381-back-to-bed.json) |
 | Back to Bed | 9418 | [9418-back-to-bed.json](./9418-back-to-bed.json) |
 | Back to Belt | 164581 | [164581-back-to-belt.json](./164581-back-to-belt.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
@@ -793,7 +794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Báipiáo Sānguó | 150245 | [150245-baipiao-sanguo.json](./150245-baipiao-sanguo.json) |
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
 | Bait & Tackle | 371542 | [371542-bait-and-tackle.json](./371542-bait-and-tackle.json) |
+| Bait Soul | 392005 | [392005-bait-soul.json](./392005-bait-soul.json) |
 | Baitcore | 415189 | [415189-baitcore.json](./415189-baitcore.json) |
 | Bàito | 312125 | [312125-baito.json](./312125-baito.json) |
 | Baito Fight!!: Part-time Devil Hunter | 271688 | [271688-baito-fight-part-time-devil-hunter.json](./271688-baito-fight-part-time-devil-hunter.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Heroes: Fruit Survivor | 245371 | [245371-banana-heroes-fruit-survivor.json](./245371-banana-heroes-fruit-survivor.json) |
 | Banana Hunter | 192954 | [192954-banana-hunter.json](./192954-banana-hunter.json) |
 | Banana Islands | 73773 | [73773-banana-islands.json](./73773-banana-islands.json) |
+| Banana Keeper | 391998 | [391998-banana-keeper.json](./391998-banana-keeper.json) |
 | Banana Kong | 63881 | [63881-banana-kong.json](./63881-banana-kong.json) |
 | Banana Kong 2 | 209711 | [209711-banana-kong-2.json](./209711-banana-kong-2.json) |
 | Banana Kong Blast | 375828 | [375828-banana-kong-blast.json](./375828-banana-kong-blast.json) |
@@ -2229,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Barji Kart | 223065 | [223065-barji-kart.json](./223065-barji-kart.json) |
 | Bark & Blade | 420015 | [420015-bark-and-blade.json](./420015-bark-and-blade.json) |
+| Bark and Catch | 392070 | [392070-bark-and-catch.json](./392070-bark-and-catch.json) |
 | Bark Beat | 177443 | [177443-bark-beat.json](./177443-bark-beat.json) |
 | Bark Tank | 338194 | [338194-bark-tank.json](./338194-bark-tank.json) |
 | Barkane: The Folds of Calamity | 323718 | [323718-barkane-the-folds-of-calamity.json](./323718-barkane-the-folds-of-calamity.json) |
@@ -2331,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel Roll | 135056 | [135056-barrel-roll.json](./135056-barrel-roll.json) |
 | Barrel Roll | 372665 | [372665-barrel-roll.json](./372665-barrel-roll.json) |
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
+| BarrelBots | 391525 | [391525-barrelbots.json](./391525-barrelbots.json) |
 | Barrels Up | 75181 | [75181-barrels-up.json](./75181-barrels-up.json) |
 | Barren Realms Elite | 97310 | [97310-barren-realms-elite.json](./97310-barren-realms-elite.json) |
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
@@ -4130,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear-ly There | 134971 | [134971-bear-ly-there.json](./134971-bear-ly-there.json) |
 | Bear, Vodka, Balalaika: Cyberpunk | 168768 | [168768-bear-vodka-balalaika-cyberpunk.json](./168768-bear-vodka-balalaika-cyberpunk.json) |
 | Bear, Vodka, Fall of Berlin! | 131836 | [131836-bear-vodka-fall-of-berlin.json](./131836-bear-vodka-fall-of-berlin.json) |
+| Bear's Imagine That! | 392079 | [392079-bears-imagine-that.json](./392079-bears-imagine-that.json) |
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
 | Bearable - Return to Candyland | 232391 | [232391-bearable-return-to-candyland.json](./232391-bearable-return-to-candyland.json) |
 | Bearable Nightmares | 148893 | [148893-bearable-nightmares.json](./148893-bearable-nightmares.json) |
@@ -7247,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitter Belief | 223350 | [223350-bitter-belief.json](./223350-bitter-belief.json) |
 | Bitter Dream | 319660 | [319660-bitter-dream.json](./319660-bitter-dream.json) |
 | Bitter End | 175682 | [175682-bitter-end.json](./175682-bitter-end.json) |
+| Bitter Harvest | 391535 | [391535-bitter-harvest.json](./391535-bitter-harvest.json) |
 | Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
@@ -7450,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole: Farmageddon | 382410 | [382410-black-hole-farmageddon.json](./382410-black-hole-farmageddon.json) |
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
 | Black Home | 35247 | [35247-black-home.json](./35247-black-home.json) |
+| Black Horizon: Armada | 391983 | [391983-black-horizon-armada.json](./391983-black-horizon-armada.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
 | Black Ice | 17589 | [17589-black-ice.json](./17589-black-ice.json) |
 | Black Ice Mod Advanced | 394546 | [394546-black-ice-mod-advanced.json](./394546-black-ice-mod-advanced.json) |
@@ -7765,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Shop Simulator | 344980 | [344980-blacksmith-shop-simulator.json](./344980-blacksmith-shop-simulator.json) |
 | Blacksmith Simulator | 326469 | [326469-blacksmith-simulator.json](./326469-blacksmith-simulator.json) |
 | Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
+| Blacksmith Tales | 391990 | [391990-blacksmith-tales.json](./391990-blacksmith-tales.json) |
 | Blacksmith Together | 396641 | [396641-blacksmith-together.json](./396641-blacksmith-together.json) |
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
@@ -8174,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines | 230339 | [230339-blaze-and-the-monster-machines.json](./230339-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
+| Blaze of Empires | 392080 | [392080-blaze-of-empires.json](./392080-blaze-of-empires.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
 | Blaze Revolutions | 130068 | [130068-blaze-revolutions.json](./130068-blaze-revolutions.json) |
@@ -8359,6 +8368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
 | Blind and Schizophrenic | 242965 | [242965-blind-and-schizophrenic.json](./242965-blind-and-schizophrenic.json) |
 | Blind Blades | 31461 | [31461-blind-blades.json](./31461-blind-blades.json) |
+| Blind Bluff | 391527 | [391527-blind-bluff.json](./391527-blind-bluff.json) |
 | Blind Boris | 84061 | [84061-blind-boris.json](./84061-blind-boris.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
 | Blind Date 3D | 286396 | [286396-blind-date-3d.json](./286396-blind-date-3d.json) |
@@ -9992,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
 | BoBo | 14328 | [14328-bobo.json](./14328-bobo.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
+| Bobo in Hell | 391980 | [391980-bobo-in-hell.json](./391980-bobo-in-hell.json) |
 | Bobo Robot | 129653 | [129653-bobo-robot.json](./129653-bobo-robot.json) |
 | Bobo the Cat | 221984 | [221984-bobo-the-cat.json](./221984-bobo-the-cat.json) |
 | BoBo World: Hospital | 237645 | [237645-bobo-world-hospital.json](./237645-bobo-world-hospital.json) |
@@ -10128,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boidtrancer | 295625 | [295625-boidtrancer.json](./295625-boidtrancer.json) |
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
+| Boiled | 392010 | [392010-boiled.json](./392010-boiled.json) |
 | Boiling Bolt | 32983 | [32983-boiling-bolt.json](./32983-boiling-bolt.json) |
 | Boiling Over | 207168 | [207168-boiling-over.json](./207168-boiling-over.json) |
 | Boiling Point: Road to Hell | 9508 | [9508-boiling-point-road-to-hell.json](./9508-boiling-point-road-to-hell.json) |
@@ -11408,6 +11420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
+| Bouncing to the Top With Quantum Quacks | 392103 | [392103-bouncing-to-the-top-with-quantum-quacks.json](./392103-bouncing-to-the-top-with-quantum-quacks.json) |
 | Bouncing Traveler | 166838 | [166838-bouncing-traveler.json](./166838-bouncing-traveler.json) |
 | Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
@@ -11529,6 +11542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounzy! | 89139 | [89139-bounzy.json](./89139-bounzy.json) |
 | Bouquet | 184525 | [184525-bouquet.json](./184525-bouquet.json) |
 | Bouquet | 346085 | [346085-bouquet.json](./346085-bouquet.json) |
+| Bouquet for You in the Dark | 391555 | [391555-bouquet-for-you-in-the-dark.json](./391555-bouquet-for-you-in-the-dark.json) |
 | Bourbon Empire | 217320 | [217320-bourbon-empire.json](./217320-bourbon-empire.json) |
 | Bourbon Risky | 378414 | [378414-bourbon-risky.json](./378414-bourbon-risky.json) |
 | Bourgeois Megawad | 262987 | [262987-bourgeois-megawad.json](./262987-bourgeois-megawad.json) |
@@ -12270,6 +12284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Minus | 139163 | [139163-brawl-minus.json](./139163-brawl-minus.json) |
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
+| Brawl Squad X: Battle Arena | 392082 | [392082-brawl-squad-x-battle-arena.json](./392082-brawl-squad-x-battle-arena.json) |
 | Brawl Stars: Back To Ranger Ranch | 318588 | [318588-brawl-stars-back-to-ranger-ranch.json](./318588-brawl-stars-back-to-ranger-ranch.json) |
 | Brawl Stars: Biodome | 318579 | [318579-brawl-stars-biodome.json](./318579-brawl-stars-biodome.json) |
 | Brawl Stars: Bizarre Circus | 318589 | [318589-brawl-stars-bizarre-circus.json](./318589-brawl-stars-bizarre-circus.json) |
@@ -12337,6 +12352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2024 Pack | 292744 | [292744-brawlhalla-winter-championship-2024-pack.json](./292744-brawlhalla-winter-championship-2024-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
+| BrawlMart | 392015 | [392015-brawlmart.json](./392015-brawlmart.json) |
 | Brawlout: Deluxe Edition | 119077 | [119077-brawlout-deluxe-edition.json](./119077-brawlout-deluxe-edition.json) |
 | BrawlQuest | 103637 | [103637-brawlquest.json](./103637-brawlquest.json) |
 | Brawlygon | 276252 | [276252-brawlygon.json](./276252-brawlygon.json) |
@@ -12912,6 +12928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brie Parmesan Mysteries | 244909 | [244909-brie-parmesan-mysteries.json](./244909-brie-parmesan-mysteries.json) |
 | Brief Battles | 77536 | [77536-brief-battles.json](./77536-brief-battles.json) |
 | Brief Karate Foolish | 30877 | [30877-brief-karate-foolish.json](./30877-brief-karate-foolish.json) |
+| Briefcase | 391559 | [391559-briefcase.json](./391559-briefcase.json) |
 | Brig 12 | 105714 | [105714-brig-12.json](./105714-brig-12.json) |
 | Brigade Commander | 14349 | [14349-brigade-commander.json](./14349-brigade-commander.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
@@ -13362,6 +13379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
 | Brutal Universe | 178979 | [178979-brutal-universe.json](./178979-brutal-universe.json) |
 | Brutal Unreal 99 | 202848 | [202848-brutal-unreal-99.json](./202848-brutal-unreal-99.json) |
+| Brutal War | 391543 | [391543-brutal-war.json](./391543-brutal-war.json) |
 | Brutal Warrior | 114439 | [114439-brutal-warrior.json](./114439-brutal-warrior.json) |
 | Brutal Wizardry | 159869 | [159869-brutal-wizardry.json](./159869-brutal-wizardry.json) |
 | Brutal Wolfenstein 3D | 198685 | [198685-brutal-wolfenstein-3d.json](./198685-brutal-wolfenstein-3d.json) |
