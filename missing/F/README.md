@@ -2372,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Friends: Super Edition | 262328 | [262328-fashion-friends-super-edition.json](./262328-fashion-friends-super-edition.json) |
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
 | Fashion Fupa | 397138 | [397138-fashion-fupa.json](./397138-fashion-fupa.json) |
+| Fashion Girl - Makeup and Dress Up Game | 93649 | [93649-fashion-girl-makeup-and-dress-up-game.json](./93649-fashion-girl-makeup-and-dress-up-game.json) |
 | Fashion Girls | 213214 | [213214-fashion-girls.json](./213214-fashion-girls.json) |
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
@@ -5341,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Blast | 299526 | [299526-fishing-blast.json](./299526-fishing-blast.json) |
 | Fishing Break | 79746 | [79746-fishing-break.json](./79746-fishing-break.json) |
 | Fishing Break Online | 120618 | [120618-fishing-break-online.json](./120618-fishing-break-online.json) |
+| Fishing Cat ~ Meow | 89154 | [89154-fishing-cat-meow.json](./89154-fishing-cat-meow.json) |
 | Fishing Cat's Slack-off Diary | 392862 | [392862-fishing-cats-slack-off-diary.json](./392862-fishing-cats-slack-off-diary.json) |
 | Fishing Champion | 200398 | [200398-fishing-champion.json](./200398-fishing-champion.json) |
 | Fishing Clash | 91230 | [91230-fishing-clash.json](./91230-fishing-clash.json) |
@@ -9381,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell - Card Game | 87152 | [87152-freecell-card-game.json](./87152-freecell-card-game.json) |
 | FreeCell 2018 | 86693 | [86693-freecell-2018.json](./86693-freecell-2018.json) |
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
+| Freecell Solitaire | 89168 | [89168-freecell-solitaire.json](./89168-freecell-solitaire.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | FreeCell Solitaire Collection | 148324 | [148324-freecell-solitaire-collection.json](./148324-freecell-solitaire-collection.json) |
@@ -10913,6 +10916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
 | Funny Pizza Land 2 | 217485 | [217485-funny-pizza-land-2.json](./217485-funny-pizza-land-2.json) |
 | Funny puzzle | 173214 | [173214-funny-puzzle.json](./173214-funny-puzzle.json) |
+| Funny puzzles for kids | 89192 | [89192-funny-puzzles-for-kids.json](./89192-funny-puzzles-for-kids.json) |
 | Funny Racer | 291008 | [291008-funny-racer.json](./291008-funny-racer.json) |
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
@@ -10940,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funtime with Buffy | 158057 | [158057-funtime-with-buffy.json](./158057-funtime-with-buffy.json) |
 | Funtography: A Gameboy Cameradventure | 265229 | [265229-funtography-a-gameboy-cameradventure.json](./265229-funtography-a-gameboy-cameradventure.json) |
 | Funtoon's World | 51964 | [51964-funtoons-world.json](./51964-funtoons-world.json) |
+| Funtoon's World HD | 92092 | [92092-funtoons-world-hd.json](./92092-funtoons-world-hd.json) |
 | FunTown Mahjong | 77280 | [77280-funtown-mahjong.json](./77280-funtown-mahjong.json) |
 | Funus: The Climb | 379895 | [379895-funus-the-climb.json](./379895-funus-the-climb.json) |
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
