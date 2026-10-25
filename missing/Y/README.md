@@ -1061,6 +1061,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Not Family | 264515 | [264515-youre-not-family.json](./264515-youre-not-family.json) |
 | You're the Boss | 415950 | [415950-youre-the-boss.json](./415950-youre-the-boss.json) |
 | You're the OS! | 261911 | [261911-youre-the-os.json](./261911-youre-the-os.json) |
+| You're Toast | 407781 | [407781-youre-toast.json](./407781-youre-toast.json) |
+| You're Toast 2 | 407782 | [407782-youre-toast-2.json](./407782-youre-toast-2.json) |
+| You're Toast 3: Prehistoric | 407784 | [407784-youre-toast-3-prehistoric.json](./407784-youre-toast-3-prehistoric.json) |
 | You're Under Arrest | 311062 | [311062-youre-under-arrest.json](./311062-youre-under-arrest.json) |
 | You're Watching Icebox! | 186023 | [186023-youre-watching-icebox.json](./186023-youre-watching-icebox.json) |
 | You've been ReMaid! | 265487 | [265487-youve-been-remaid.json](./265487-youve-been-remaid.json) |
@@ -1568,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Dreamer | 201778 | [201778-yume-dreamer.json](./201778-yume-dreamer.json) |
 | Yume Fumi | 201847 | [201847-yume-fumi.json](./201847-yume-fumi.json) |
 | Yume Gatari | 220078 | [220078-yume-gatari.json](./220078-yume-gatari.json) |
+| Yume Goshi no Sora | 408078 | [408078-yume-goshi-no-sora.json](./408078-yume-goshi-no-sora.json) |
 | Yume Graffiti | 145036 | [145036-yume-graffiti.json](./145036-yume-graffiti.json) |
 | Yume Inu | 229680 | [229680-yume-inu.json](./229680-yume-inu.json) |
 | Yume Iro | 202348 | [202348-yume-iro.json](./202348-yume-iro.json) |
@@ -1670,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunashi no Yume | 330298 | [330298-yunashi-no-yume.json](./330298-yunashi-no-yume.json) |
 | Yúndiān | 129644 | [129644-yundian.json](./129644-yundian.json) |
+| Yunduan Zhi Yue | 407846 | [407846-yunduan-zhi-yue.json](./407846-yunduan-zhi-yue.json) |
 | Yúnduān zhī Yuē | 164280 | [164280-yunduan-zhi-yue.json](./164280-yunduan-zhi-yue.json) |
 | Yunhanzhi | 366115 | [366115-yunhanzhi.json](./366115-yunhanzhi.json) |
 | Yúnhuāng Xiāoyáozhuàn | 399741 | [399741-yunhuang-xiaoyaozhuan.json](./399741-yunhuang-xiaoyaozhuan.json) |
