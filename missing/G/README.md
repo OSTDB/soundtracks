@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geoff Capes Strongman | 79164 | [79164-geoff-capes-strongman.json](./79164-geoff-capes-strongman.json) |
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
 | GeoFußball | 422707 | [422707-geofu-ball.json](./422707-geofu-ball.json) |
+| Geograficus | 418226 | [418226-geograficus.json](./418226-geograficus.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geographical Adventures | 191450 | [191450-geographical-adventures.json](./191450-geographical-adventures.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
@@ -5538,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golly Soda Pop | 333208 | [333208-golly-soda-pop.json](./333208-golly-soda-pop.json) |
 | Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
 | Golod | 406677 | [406677-golod.json](./406677-golod.json) |
+| Golubi | 418222 | [418222-golubi.json](./418222-golubi.json) |
 | Golvellius: Valley of Doom | 46146 | [46146-golvellius-valley-of-doom.json](./46146-golvellius-valley-of-doom.json) |
 | Golyathe | 393507 | [393507-golyathe.json](./393507-golyathe.json) |
 | Goma Ayakaze | 236741 | [236741-goma-ayakaze.json](./236741-goma-ayakaze.json) |
@@ -7692,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire | 296800 | [296800-grimoire.json](./296800-grimoire.json) |
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
+| Grimoire of Blanks | 418214 | [418214-grimoire-of-blanks.json](./418214-grimoire-of-blanks.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
 | Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
