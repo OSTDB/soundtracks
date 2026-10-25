@@ -12430,6 +12430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
 | Snekris | 291002 | [291002-snekris.json](./291002-snekris.json) |
+| Snekromancy | 387969 | [387969-snekromancy.json](./387969-snekromancy.json) |
 | Sneks Fiend | 184977 | [184977-sneks-fiend.json](./184977-sneks-fiend.json) |
 | Snekteks | 365232 | [365232-snekteks.json](./365232-snekteks.json) |
 | Snepzhen Solitaire | 339682 | [339682-snepzhen-solitaire.json](./339682-snepzhen-solitaire.json) |
@@ -17419,6 +17420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Casting: Meowgically Enhanced Edition | 21981 | [21981-spell-casting-meowgically-enhanced-edition.json](./21981-spell-casting-meowgically-enhanced-edition.json) |
 | Spell Casting: Purrfectly Portable Edition | 119541 | [119541-spell-casting-purrfectly-portable-edition.json](./119541-spell-casting-purrfectly-portable-edition.json) |
 | Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
+| Spell Circle Mage | 387960 | [387960-spell-circle-mage.json](./387960-spell-circle-mage.json) |
 | Spell Crisis | 192697 | [192697-spell-crisis.json](./192697-spell-crisis.json) |
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
 | Spell Death | 419606 | [419606-spell-death.json](./419606-spell-death.json) |
