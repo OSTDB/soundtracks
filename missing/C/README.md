@@ -5803,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
 | Chikasuiji kara no Dasshutsu | 251616 | [251616-chikasuiji-kara-no-dasshutsu.json](./251616-chikasuiji-kara-no-dasshutsu.json) |
 | Chiki Chiki Machine Mou Race | 56545 | [56545-chiki-chiki-machine-mou-race.json](./56545-chiki-chiki-machine-mou-race.json) |
+| Chiki Poki: Rush | 422705 | [422705-chiki-poki-rush.json](./422705-chiki-poki-rush.json) |
 | Chiki-Chiki | 258025 | [258025-chiki-chiki.json](./258025-chiki-chiki.json) |
 | Chiki-Chiki Boxy Pro Wrestling | 119429 | [119429-chiki-chiki-boxy-pro-wrestling.json](./119429-chiki-chiki-boxy-pro-wrestling.json) |
 | Chiki-Chiki Boxy Racers | 107229 | [107229-chiki-chiki-boxy-racers.json](./107229-chiki-chiki-boxy-racers.json) |
