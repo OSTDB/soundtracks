@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ghost Porno Page By Page | 300821 | [300821-a-ghost-porno-page-by-page.json](./300821-a-ghost-porno-page-by-page.json) |
 | A Ghost Story | 307700 | [307700-a-ghost-story.json](./307700-a-ghost-story.json) |
 | A Ghost Story for Christmas | 135779 | [135779-a-ghost-story-for-christmas.json](./135779-a-ghost-story-for-christmas.json) |
+| A Ghostly Journey | 393470 | [393470-a-ghostly-journey.json](./393470-a-ghostly-journey.json) |
 | A Ghostly Tale | 123834 | [123834-a-ghostly-tale.json](./123834-a-ghostly-tale.json) |
 | A Gift of War | 189341 | [189341-a-gift-of-war.json](./189341-a-gift-of-war.json) |
 | A Girl A Rain | 415766 | [415766-a-girl-a-rain.json](./415766-a-girl-a-rain.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mole in a Hole | 211249 | [211249-a-mole-in-a-hole.json](./211249-a-mole-in-a-hole.json) |
 | A Mole in Space | 322750 | [322750-a-mole-in-space.json](./322750-a-mole-in-space.json) |
 | A Moment of a Self Portrait | 179000 | [179000-a-moment-of-a-self-portrait.json](./179000-a-moment-of-a-self-portrait.json) |
+| A Moment of Bliss | 393582 | [393582-a-moment-of-bliss.json](./393582-a-moment-of-bliss.json) |
 | A Monster's Expedition | 131845 | [131845-a-monsters-expedition.json](./131845-a-monsters-expedition.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
@@ -2487,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
+| Adam N Eve 4 | 393320 | [393320-adam-n-eve-4.json](./393320-adam-n-eve-4.json) |
 | Adam Savage's Tested VR | 174554 | [174554-adam-savages-tested-vr.json](./174554-adam-savages-tested-vr.json) |
 | Adam the Storyteller | 157454 | [157454-adam-the-storyteller.json](./157454-adam-the-storyteller.json) |
 | Adam Wolfe | 26860 | [26860-adam-wolfe.json](./26860-adam-wolfe.json) |
@@ -4108,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Olympius | 254030 | [254030-ai-olympius.json](./254030-ai-olympius.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI People | 317314 | [317314-ai-people.json](./317314-ai-people.json) |
+| AI Protocol | 393603 | [393603-ai-protocol.json](./393603-ai-protocol.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
 | Ai Ren Lover | 148328 | [148328-ai-ren-lover.json](./148328-ai-ren-lover.json) |
 | AI Roguelite | 192216 | [192216-ai-roguelite.json](./192216-ai-roguelite.json) |
@@ -5761,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
 | Aliens vs. Predator: Requiem | 21675 | [21675-aliens-vs-predator-requiem.json](./21675-aliens-vs-predator-requiem.json) |
 | Aliens vs. Predator: Requiem - Combat Evolved | 343377 | [343377-aliens-vs-predator-requiem-combat-evolved.json](./343377-aliens-vs-predator-requiem-combat-evolved.json) |
+| Aliens Want Our Mascot?! | 393291 | [393291-aliens-want-our-mascot.json](./393291-aliens-want-our-mascot.json) |
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
 | Aliens: A Comic Book Adventure | 2169 | [2169-aliens-a-comic-book-adventure.json](./2169-aliens-a-comic-book-adventure.json) |
 | Aliens: Alien 2 | 36811 | [36811-aliens-alien-2.json](./36811-aliens-alien-2.json) |
@@ -8738,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
 | Anodyne Franchise Bundle | 405119 | [405119-anodyne-franchise-bundle.json](./405119-anodyne-franchise-bundle.json) |
 | Anodyne Mobile | 108454 | [108454-anodyne-mobile.json](./108454-anodyne-mobile.json) |
+| Anokye | 393581 | [393581-anokye.json](./393581-anokye.json) |
 | Anoldor | 181300 | [181300-anoldor.json](./181300-anoldor.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
 | Anoma | 399681 | [399681-anoma.json](./399681-anoma.json) |
@@ -14657,6 +14663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveyond: The Darkthrop Prophecy | 17821 | [17821-aveyond-the-darkthrop-prophecy.json](./17821-aveyond-the-darkthrop-prophecy.json) |
 | Aveyond: The Lost Orb | 17820 | [17820-aveyond-the-lost-orb.json](./17820-aveyond-the-lost-orb.json) |
 | Avia Corporation | 240756 | [240756-avia-corporation.json](./240756-avia-corporation.json) |
+| Avia: Tropic Edition | 393432 | [393432-avia-tropic-edition.json](./393432-avia-tropic-edition.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
 | Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
 | Avians Against Aviation | 298264 | [298264-avians-against-aviation.json](./298264-avians-against-aviation.json) |
