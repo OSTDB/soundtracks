@@ -8754,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Soccer Director PRO 2020 | 120578 | [120578-club-soccer-director-pro-2020.json](./120578-club-soccer-director-pro-2020.json) |
 | Club Sports Collection Upgrade Edition | 397887 | [397887-club-sports-collection-upgrade-edition.json](./397887-club-sports-collection-upgrade-edition.json) |
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
+| Club Sports Collection: Legendary Edition | 407114 | [407114-club-sports-collection-legendary-edition.json](./407114-club-sports-collection-legendary-edition.json) |
 | Club Sports Collection: Premium Edition | 395676 | [395676-club-sports-collection-premium-edition.json](./395676-club-sports-collection-premium-edition.json) |
 | Club Sports Collection: Superior Edition | 413576 | [413576-club-sports-collection-superior-edition.json](./413576-club-sports-collection-superior-edition.json) |
 | Club Suicide | 196493 | [196493-club-suicide.json](./196493-club-suicide.json) |
@@ -13525,6 +13526,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Demolition Derby Car 2022 | 220827 | [220827-crazy-demolition-derby-car-2022.json](./220827-crazy-demolition-derby-car-2022.json) |
 | Crazy Designer | 239789 | [239789-crazy-designer.json](./239789-crazy-designer.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
+| Crazy Digger | 407508 | [407508-crazy-digger.json](./407508-crazy-digger.json) |
+| Crazy Digger 2 | 407509 | [407509-crazy-digger-2.json](./407509-crazy-digger-2.json) |
+| Crazy Digger 2 Level Pack | 407510 | [407510-crazy-digger-2-level-pack.json](./407510-crazy-digger-2-level-pack.json) |
 | Crazy Dino Park | 143448 | [143448-crazy-dino-park.json](./143448-crazy-dino-park.json) |
 | Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
@@ -13770,6 +13774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create | 4778 | [4778-create.json](./4778-create.json) |
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
 | Create a Pop Sensation | 369695 | [369695-create-a-pop-sensation.json](./369695-create-a-pop-sensation.json) |
+| Create a Ride | 407516 | [407516-create-a-ride.json](./407516-create-a-ride.json) |
 | Create City | 24750 | [24750-create-city.json](./24750-create-city.json) |
 | Create Real Games | 89283 | [89283-create-real-games.json](./89283-create-real-games.json) |
 | Create With Garfield! | 67238 | [67238-create-with-garfield.json](./67238-create-with-garfield.json) |
