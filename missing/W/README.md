@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warm Potato | 307727 | [307727-warm-potato.json](./307727-warm-potato.json) |
 | Warm Snow: The End Of Karma | 277353 | [277353-warm-snow-the-end-of-karma.json](./277353-warm-snow-the-end-of-karma.json) |
 | WarMA | 103948 | [103948-warma.json](./103948-warma.json) |
+| Warmada | 30798 | [30798-warmada.json](./30798-warmada.json) |
 | Warmage | 280234 | [280234-warmage.json](./280234-warmage.json) |
 | WarMage | 26542 | [26542-warmage.json](./26542-warmage.json) |
 | WarMages | 68676 | [68676-warmages.json](./68676-warmages.json) |
