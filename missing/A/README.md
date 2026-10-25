@@ -3027,7 +3027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7145,6 +7144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnork | 62239 | [62239-amnork.json](./62239-amnork.json) |
 | Amnyam | 345280 | [345280-amnyam.json](./345280-amnyam.json) |
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
+| Amoeba | 407517 | [407517-amoeba.json](./407517-amoeba.json) |
 | Amoeba Battle: Microscopic RTS Action | 131972 | [131972-amoeba-battle-microscopic-rts-action.json](./131972-amoeba-battle-microscopic-rts-action.json) |
 | Amoeba Jump | 195568 | [195568-amoeba-jump.json](./195568-amoeba-jump.json) |
 | Amoebae | 253789 | [253789-amoebae.json](./253789-amoebae.json) |
@@ -13667,6 +13667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom | 42154 | [42154-atom.json](./42154-atom.json) |
 | Atom Antics | 243178 | [243178-atom-antics.json](./243178-atom-antics.json) |
 | Atom by Atom | 418620 | [418620-atom-by-atom.json](./418620-atom-by-atom.json) |
+| Atom de Pon! | 407314 | [407314-atom-de-pon.json](./407314-atom-de-pon.json) |
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom Grrrl!! | 33781 | [33781-atom-grrrl.json](./33781-atom-grrrl.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
