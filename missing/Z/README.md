@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziria | 106091 | [106091-ziria.json](./106091-ziria.json) |
 | Ziriax | 80305 | [80305-ziriax.json](./80305-ziriax.json) |
 | Zirkus-Simulator 2013 | 52781 | [52781-zirkus-simulator-2013.json](./52781-zirkus-simulator-2013.json) |
+| Ziro | 9298 | [9298-ziro.json](./9298-ziro.json) |
 | Zissi's Island | 31644 | [31644-zissis-island.json](./31644-zissis-island.json) |
 | Zitifono | 362715 | [362715-zitifono.json](./362715-zitifono.json) |
 | Zitrax | 106305 | [106305-zitrax.json](./106305-zitrax.json) |
@@ -1881,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zool: Ninja of the Nth Dimension | 2547 | [2547-zool-ninja-of-the-nth-dimension.json](./2547-zool-ninja-of-the-nth-dimension.json) |
 | Zoolax Nights: Evil Clowns | 69356 | [69356-zoolax-nights-evil-clowns.json](./69356-zoolax-nights-evil-clowns.json) |
 | Zoological Era | 110546 | [110546-zoological-era.json](./110546-zoological-era.json) |
+| Zooloretto | 9292 | [9292-zooloretto.json](./9292-zooloretto.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
 | Zoom | 356025 | [356025-zoom.json](./356025-zoom.json) |
 | Zoom | 80351 | [80351-zoom.json](./80351-zoom.json) |
