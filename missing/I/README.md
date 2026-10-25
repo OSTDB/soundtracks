@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine Nations | 62521 | [62521-imagine-nations.json](./62521-imagine-nations.json) |
 | Imagine Sisyphus Happy | 366716 | [366716-imagine-sisyphus-happy.json](./366716-imagine-sisyphus-happy.json) |
 | Imagine We Were Human | 419839 | [419839-imagine-we-were-human.json](./419839-imagine-we-were-human.json) |
+| Imagine Wind | 418891 | [418891-imagine-wind.json](./418891-imagine-wind.json) |
 | Imagine: Animal Doctor Care Center | 7948 | [7948-imagine-animal-doctor-care-center.json](./7948-imagine-animal-doctor-care-center.json) |
 | Imagine: Artist | 7944 | [7944-imagine-artist.json](./7944-imagine-artist.json) |
 | Imagine: Babies 3D | 7951 | [7951-imagine-babies-3d.json](./7951-imagine-babies-3d.json) |
@@ -5039,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iskib | 138526 | [138526-iskib.json](./138526-iskib.json) |
 | Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
 | Isla Dorada: Episode 1 - The Sands of Ephranis | 210046 | [210046-isla-dorada-episode-1-the-sands-of-ephranis.json](./210046-isla-dorada-episode-1-the-sands-of-ephranis.json) |
+| Isla Hearts | 418849 | [418849-isla-hearts.json](./418849-isla-hearts.json) |
 | Isla Mosa Adventure: The Secret of the Southern Capital | 265606 | [265606-isla-mosa-adventure-the-secret-of-the-southern-capital.json](./265606-isla-mosa-adventure-the-secret-of-the-southern-capital.json) |
 | Isla Sinaloa | 212838 | [212838-isla-sinaloa.json](./212838-isla-sinaloa.json) |
 | ISLA test | 123573 | [123573-isla-test.json](./123573-isla-test.json) |
