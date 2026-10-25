@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Abyss: Mieu no Daibouken | 294607 | [294607-tales-of-the-abyss-mieu-no-daibouken.json](./294607-tales-of-the-abyss-mieu-no-daibouken.json) |
 | Tales of the Abyss: Mieu no Fonic Gojiten | 294608 | [294608-tales-of-the-abyss-mieu-no-fonic-gojiten.json](./294608-tales-of-the-abyss-mieu-no-fonic-gojiten.json) |
 | Tales of the Abyss: Mieu no Jikkenshitsu? | 294609 | [294609-tales-of-the-abyss-mieu-no-jikkenshitsu.json](./294609-tales-of-the-abyss-mieu-no-jikkenshitsu.json) |
+| Tales of the Arabian Nights | 415048 | [415048-tales-of-the-arabian-nights.json](./415048-tales-of-the-arabian-nights.json) |
 | Tales of the Aswang VR | 111877 | [111877-tales-of-the-aswang-vr.json](./111877-tales-of-the-aswang-vr.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Black Forest | 119744 | [119744-tales-of-the-black-forest.json](./119744-tales-of-the-black-forest.json) |
@@ -6303,9 +6304,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creeps! | 232581 | [232581-the-creeps.json](./232581-the-creeps.json) |
 | The Cremation of Sam McGee | 141717 | [141717-the-cremation-of-sam-mcgee.json](./141717-the-cremation-of-sam-mcgee.json) |
 | The Crevice | 275826 | [275826-the-crevice.json](./275826-the-crevice.json) |
+| The Crew 2: American Summit Pack | 415032 | [415032-the-crew-2-american-summit-pack.json](./415032-the-crew-2-american-summit-pack.json) |
+| The Crew 2: Audi Car Pack | 415026 | [415026-the-crew-2-audi-car-pack.json](./415026-the-crew-2-audi-car-pack.json) |
+| The Crew 2: Bike Pack | 415022 | [415022-the-crew-2-bike-pack.json](./415022-the-crew-2-bike-pack.json) |
+| The Crew 2: BMW Car Pack | 415025 | [415025-the-crew-2-bmw-car-pack.json](./415025-the-crew-2-bmw-car-pack.json) |
 | The Crew 2: Deluxe Edition | 89836 | [89836-the-crew-2-deluxe-edition.json](./89836-the-crew-2-deluxe-edition.json) |
 | The Crew 2: Digital Deluxe Edition | 118708 | [118708-the-crew-2-digital-deluxe-edition.json](./118708-the-crew-2-digital-deluxe-edition.json) |
+| The Crew 2: European Summit Pack | 415030 | [415030-the-crew-2-european-summit-pack.json](./415030-the-crew-2-european-summit-pack.json) |
 | The Crew 2: Gold Edition | 89835 | [89835-the-crew-2-gold-edition.json](./89835-the-crew-2-gold-edition.json) |
+| The Crew 2: Japanese Summit Pack | 415031 | [415031-the-crew-2-japanese-summit-pack.json](./415031-the-crew-2-japanese-summit-pack.json) |
+| The Crew 2: Mega Car Pack | 415027 | [415027-the-crew-2-mega-car-pack.json](./415027-the-crew-2-mega-car-pack.json) |
+| The Crew 2: Mercedes Car Pack | 415024 | [415024-the-crew-2-mercedes-car-pack.json](./415024-the-crew-2-mercedes-car-pack.json) |
+| The Crew 2: Nissan Car Pack | 415021 | [415021-the-crew-2-nissan-car-pack.json](./415021-the-crew-2-nissan-car-pack.json) |
+| The Crew 2: Porsche Car Pack | 415020 | [415020-the-crew-2-porsche-car-pack.json](./415020-the-crew-2-porsche-car-pack.json) |
+| The Crew 2: Sky, Dirt, and Waves Pack | 415023 | [415023-the-crew-2-sky-dirt-and-waves-pack.json](./415023-the-crew-2-sky-dirt-and-waves-pack.json) |
 | The Crew 2: Special Edition | 161179 | [161179-the-crew-2-special-edition.json](./161179-the-crew-2-special-edition.json) |
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
 | The Crew Motorfest: JDM Custom Car Pack | 393736 | [393736-the-crew-motorfest-jdm-custom-car-pack.json](./393736-the-crew-motorfest-jdm-custom-car-pack.json) |
@@ -11628,6 +11640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -23241,6 +23254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 6: Schnellfahrstrecke Nürnberg - Ingolstadt Route Add-On | 412417 | [412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json](./412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json) |
 | Train Sim World 6: Tadami Line: Aizu-Wakamatsu - Tadami Route Add-On | 412418 | [412418-train-sim-world-6-tadami-line-aizu-wakamatsu-tadami-route-add-on.json](./412418-train-sim-world-6-tadami-line-aizu-wakamatsu-tadami-route-add-on.json) |
 | Train Sim World 6: Thames Valley - Windsor, Henley & Marlow Branch Lines Add-On | 412419 | [412419-train-sim-world-6-thames-valley-windsor-henley-and-marlow-branch-lines-add-on.json](./412419-train-sim-world-6-thames-valley-windsor-henley-and-marlow-branch-lines-add-on.json) |
+| Train Sim World 7 | 414945 | [414945-train-sim-world-7.json](./414945-train-sim-world-7.json) |
 | Train Sim World VR: New York | 314357 | [314357-train-sim-world-vr-new-york.json](./314357-train-sim-world-vr-new-york.json) |
 | Train Sim World: CSX Heavy Haul | 196284 | [196284-train-sim-world-csx-heavy-haul.json](./196284-train-sim-world-csx-heavy-haul.json) |
 | Train Sim World: Digital Deluxe Edition | 106008 | [106008-train-sim-world-digital-deluxe-edition.json](./106008-train-sim-world-digital-deluxe-edition.json) |
