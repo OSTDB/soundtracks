@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
 | Screw Master | 340523 | [340523-screw-master.json](./340523-screw-master.json) |
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
+| Screw Workshop | 421452 | [421452-screw-workshop.json](./421452-screw-workshop.json) |
 | Screw You, Bear Dad | 57495 | [57495-screw-you-bear-dad.json](./57495-screw-you-bear-dad.json) |
 | Screw-Nut | 87970 | [87970-screw-nut.json](./87970-screw-nut.json) |
 | Screwball | 25498 | [25498-screwball.json](./25498-screwball.json) |
@@ -4836,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street Mecha Builders | 342765 | [342765-sesame-street-mecha-builders.json](./342765-sesame-street-mecha-builders.json) |
 | Sesame Street Sports | 49916 | [49916-sesame-street-sports.json](./49916-sesame-street-sports.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
+| Sesame Street: Cookie Monster’s Cookie Factory | 421421 | [421421-sesame-street-cookie-monster-s-cookie-factory.json](./421421-sesame-street-cookie-monster-s-cookie-factory.json) |
 | Sesame Street: Cookie's Counting Carnival | 50709 | [50709-sesame-street-cookies-counting-carnival.json](./50709-sesame-street-cookies-counting-carnival.json) |
 | Sesame Street: Elmo and Abby Nature Explorers | 231465 | [231465-sesame-street-elmo-and-abby-nature-explorers.json](./231465-sesame-street-elmo-and-abby-nature-explorers.json) |
 | Sesame Street: Elmo Says | 384072 | [384072-sesame-street-elmo-says.json](./384072-sesame-street-elmo-says.json) |
@@ -4850,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Lets Make a Word! | 71441 | [71441-sesame-street-lets-make-a-word.json](./71441-sesame-street-lets-make-a-word.json) |
 | Sesame Street: Letter-Go-Round | 25175 | [25175-sesame-street-letter-go-round.json](./25175-sesame-street-letter-go-round.json) |
 | Sesame Street: Magic on Sesame Street | 59162 | [59162-sesame-street-magic-on-sesame-street.json](./59162-sesame-street-magic-on-sesame-street.json) |
+| Sesame Street: Move & Groove with Grover | 421406 | [421406-sesame-street-move-and-groove-with-grover.json](./421406-sesame-street-move-and-groove-with-grover.json) |
 | Sesame Street: Music Maker | 138578 | [138578-sesame-street-music-maker.json](./138578-sesame-street-music-maker.json) |
 | Sesame Street: Numbers | 4276 | [4276-sesame-street-numbers.json](./4276-sesame-street-numbers.json) |
 | Sesame Street: Preschool | 138486 | [138486-sesame-street-preschool.json](./138486-sesame-street-preschool.json) |
@@ -24786,6 +24789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft Collection | 79526 | [79526-sunsoft-collection.json](./79526-sunsoft-collection.json) |
 | Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
+| Sunsoft is Back! Retro Game Selection 2 | 421447 | [421447-sunsoft-is-back-retro-game-selection-2.json](./421447-sunsoft-is-back-retro-game-selection-2.json) |
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
 | Sunstone of Time | 421822 | [421822-sunstone-of-time.json](./421822-sunstone-of-time.json) |
 | Sunu Ikkibu: Din Nahu | 27377 | [27377-sunu-ikkibu-din-nahu.json](./27377-sunu-ikkibu-din-nahu.json) |
