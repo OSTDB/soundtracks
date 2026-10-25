@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karnov | 198791 | [198791-karnov.json](./198791-karnov.json) |
 | Karnov | 288188 | [288188-karnov.json](./288188-karnov.json) |
 | Karnov's Revenge | 39546 | [39546-karnovs-revenge.json](./39546-karnovs-revenge.json) |
+| Karnov's Revenge Revolution | 406507 | [406507-karnovs-revenge-revolution.json](./406507-karnovs-revenge-revolution.json) |
 | Karol Ball | 125840 | [125840-karol-ball.json](./125840-karol-ball.json) |
 | Karol World Breaker | 343299 | [343299-karol-world-breaker.json](./343299-karol-world-breaker.json) |
 | Karos Returns | 35215 | [35215-karos-returns.json](./35215-karos-returns.json) |
@@ -1156,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaze no Tayori 2 | 403039 | [403039-kaze-no-tayori-2.json](./403039-kaze-no-tayori-2.json) |
 | Kazeiro Surf | 92345 | [92345-kazeiro-surf.json](./92345-kazeiro-surf.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
+| Kazeko and the Midnight Guild | 406771 | [406771-kazeko-and-the-midnight-guild.json](./406771-kazeko-and-the-midnight-guild.json) |
 | Kazfall | 413875 | [413875-kazfall.json](./413875-kazfall.json) |
 | Kazoe Meshi | 258953 | [258953-kazoe-meshi.json](./258953-kazoe-meshi.json) |
 | Kazoete | 130030 | [130030-kazoete.json](./130030-kazoete.json) |
@@ -3401,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Dentist | 98787 | [98787-kitty-dentist.json](./98787-kitty-dentist.json) |
 | Kitty Disastrous | 59761 | [59761-kitty-disastrous.json](./59761-kitty-disastrous.json) |
 | Kitty Farm Island | 409536 | [409536-kitty-farm-island.json](./409536-kitty-farm-island.json) |
+| Kitty Found a Camera | 407812 | [407812-kitty-found-a-camera.json](./407812-kitty-found-a-camera.json) |
 | Kitty Hates Water | 105900 | [105900-kitty-hates-water.json](./105900-kitty-hates-water.json) |
 | Kitty Haven | 385350 | [385350-kitty-haven.json](./385350-kitty-haven.json) |
 | Kitty Hawk | 81208 | [81208-kitty-hawk.json](./81208-kitty-hawk.json) |
