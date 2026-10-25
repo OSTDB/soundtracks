@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.R.A | 369367 | [369367-s-r-a.json](./369367-s-r-a.json) |
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
+| S.T.A.C.K.E.R.: Nuclear Scavenger | 410017 | [410017-s-t-a-c-k-e-r-nuclear-scavenger.json](./410017-s-t-a-c-k-e-r-nuclear-scavenger.json) |
 | S.T.A.G. | 272454 | [272454-s-t-a-g.json](./272454-s-t-a-g.json) |
 | S.T.A.L.K.E.R. 2: Cost of Hope | 396025 | [396025-s-t-a-l-k-e-r-2-cost-of-hope.json](./396025-s-t-a-l-k-e-r-2-cost-of-hope.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition | 284360 | [284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json](./284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json) |
@@ -12509,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoop Dogg Boxing | 224503 | [224503-snoop-dogg-boxing.json](./224503-snoop-dogg-boxing.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
+| Snoopy | 410060 | [410060-snoopy.json](./410060-snoopy.json) |
 | Snoopy & The Great Mystery Club | 360904 | [360904-snoopy-and-the-great-mystery-club.json](./360904-snoopy-and-the-great-mystery-club.json) |
 | Snoopy & The Great Mystery Club: Deluxe Edition | 368775 | [368775-snoopy-and-the-great-mystery-club-deluxe-edition.json](./368775-snoopy-and-the-great-mystery-club-deluxe-edition.json) |
 | Snoopy & The Great Mystery Club: Joe Cool Fun Pack | 368784 | [368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json](./368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json) |
@@ -18297,6 +18299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Battle for Bikini Bottom | 261266 | [261266-spongebob-squarepants-battle-for-bikini-bottom.json](./261266-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Beta Mod | 413219 | [413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json](./413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | 119239 | [119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json](./119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json) |
+| SpongeBob SquarePants: Battle for Bikini Bottom - Second Strike | 410036 | [410036-spongebob-squarepants-battle-for-bikini-bottom-second-strike.json](./410036-spongebob-squarepants-battle-for-bikini-bottom-second-strike.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme | 308374 | [308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json](./308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom Deluxe | 358255 | [358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json](./358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json) |
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
@@ -24613,6 +24616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo Stuntmen 7 | 189987 | [189987-sumo-stuntmen-7.json](./189987-sumo-stuntmen-7.json) |
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
+| SumoRoll | 410044 | [410044-sumoroll.json](./410044-sumoroll.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
 | Sumrak | 321444 | [321444-sumrak.json](./321444-sumrak.json) |
@@ -27646,6 +27650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova | 100090 | [100090-supernova.json](./100090-supernova.json) |
 | Supernova | 11463 | [11463-supernova.json](./11463-supernova.json) |
 | Supernova | 198095 | [198095-supernova.json](./198095-supernova.json) |
+| SuperNova | 410006 | [410006-supernova.json](./410006-supernova.json) |
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
@@ -28233,6 +28238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susan Taxpayer | 265722 | [265722-susan-taxpayer.json](./265722-susan-taxpayer.json) |
 | Susano O Densetsu | 37688 | [37688-susano-o-densetsu.json](./37688-susano-o-densetsu.json) |
 | Susanoo | 409005 | [409005-susanoo.json](./409005-susanoo.json) |
+| SusDoku | 410008 | [410008-susdoku.json](./410008-susdoku.json) |
 | Sushi Academy | 47780 | [47780-sushi-academy.json](./47780-sushi-academy.json) |
 | Sushi Alone | 151808 | [151808-sushi-alone.json](./151808-sushi-alone.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
