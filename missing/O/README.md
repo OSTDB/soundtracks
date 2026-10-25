@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooedo Blacksmith | 143445 | [143445-ooedo-blacksmith.json](./143445-ooedo-blacksmith.json) |
 | Ooedo Senryoubako | 269521 | [269521-ooedo-senryoubako.json](./269521-ooedo-senryoubako.json) |
 | Ooer | 137342 | [137342-ooer.json](./137342-ooer.json) |
+| Oof Dah Lite | 392967 | [392967-oof-dah-lite.json](./392967-oof-dah-lite.json) |
 | OOG: The Object Orientation Game | 69545 | [69545-oog-the-object-orientation-game.json](./69545-oog-the-object-orientation-game.json) |
 | Ooga | 279469 | [279469-ooga.json](./279469-ooga.json) |
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
