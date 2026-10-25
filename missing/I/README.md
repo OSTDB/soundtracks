@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hurt Myself: Postjam Edition | 198456 | [198456-i-hurt-myself-postjam-edition.json](./198456-i-hurt-myself-postjam-edition.json) |
 | I Just Wanna Land! | 289036 | [289036-i-just-wanna-land.json](./289036-i-just-wanna-land.json) |
 | I Just Want to Be Single!! | 180571 | [180571-i-just-want-to-be-single.json](./180571-i-just-want-to-be-single.json) |
+| I Just Wanted to Fish | 422700 | [422700-i-just-wanted-to-fish.json](./422700-i-just-wanted-to-fish.json) |
 | I Keep Dying in Another World | 279510 | [279510-i-keep-dying-in-another-world.json](./279510-i-keep-dying-in-another-world.json) |
 | I Knew You Would Find This | 177816 | [177816-i-knew-you-would-find-this.json](./177816-i-knew-you-would-find-this.json) |
 | I Know a Guy | 389006 | [389006-i-know-a-guy.json](./389006-i-know-a-guy.json) |
@@ -5192,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
 | Isles | 209323 | [209323-isles.json](./209323-isles.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
+| Isles of Arcana | 422652 | [422652-isles-of-arcana.json](./422652-isles-of-arcana.json) |
 | Isles of Derek | 73726 | [73726-isles-of-derek.json](./73726-isles-of-derek.json) |
 | Isles of Etherion | 187874 | [187874-isles-of-etherion.json](./187874-isles-of-etherion.json) |
 | Isles of Monsters | 286782 | [286782-isles-of-monsters.json](./286782-isles-of-monsters.json) |
