@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Destiny | 1201 | [1201-tales-of-destiny.json](./1201-tales-of-destiny.json) |
 | Tales of Destiny | 229160 | [229160-tales-of-destiny.json](./229160-tales-of-destiny.json) |
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
+| Tales of Destiny 2 | 397736 | [397736-tales-of-destiny-2.json](./397736-tales-of-destiny-2.json) |
 | Tales of Destiny II | 1202 | [1202-tales-of-destiny-ii.json](./1202-tales-of-destiny-ii.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
 | Tales of Djungarian Hamster | 148322 | [148322-tales-of-djungarian-hamster.json](./148322-tales-of-djungarian-hamster.json) |
@@ -6390,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crooked Man | 46989 | [46989-the-crooked-man.json](./46989-the-crooked-man.json) |
 | The Crosley Tower Horror | 399709 | [399709-the-crosley-tower-horror.json](./399709-the-crosley-tower-horror.json) |
 | The Cross Horror Game | 120812 | [120812-the-cross-horror-game.json](./120812-the-cross-horror-game.json) |
+| The Crossing | 397852 | [397852-the-crossing.json](./397852-the-crossing.json) |
 | The Crossing | 51690 | [51690-the-crossing.json](./51690-the-crossing.json) |
 | The Crossroads | 179684 | [179684-the-crossroads.json](./179684-the-crossroads.json) |
 | The Crossroads | 326269 | [326269-the-crossroads.json](./326269-the-crossroads.json) |
@@ -7141,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Echo Whispers | 261652 | [261652-the-echo-whispers.json](./261652-the-echo-whispers.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
 | The Echoes of Me | 398479 | [398479-the-echoes-of-me.json](./398479-the-echoes-of-me.json) |
+| The Eclipse Files | 397745 | [397745-the-eclipse-files.json](./397745-the-eclipse-files.json) |
 | The EdCo Incident | 240372 | [240372-the-edco-incident.json](./240372-the-edco-incident.json) |
 | The Eden of Grisaia | 11458 | [11458-the-eden-of-grisaia.json](./11458-the-eden-of-grisaia.json) |
 | The Edge | 340937 | [340937-the-edge.json](./340937-the-edge.json) |
@@ -8680,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harvest | 66425 | [66425-the-harvest.json](./66425-the-harvest.json) |
 | The Harvest 3D | 233095 | [233095-the-harvest-3d.json](./233095-the-harvest-3d.json) |
 | The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
+| The Hatchings | 397859 | [397859-the-hatchings.json](./397859-the-hatchings.json) |
 | The Hate Flow | 261454 | [261454-the-hate-flow.json](./261454-the-hate-flow.json) |
 | The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
@@ -15559,6 +15563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way Home | 248902 | [248902-the-way-home.json](./248902-the-way-home.json) |
 | The Way Home | 307686 | [307686-the-way-home.json](./307686-the-way-home.json) |
 | The Way Home | 362293 | [362293-the-way-home.json](./362293-the-way-home.json) |
+| The Way Home | 397849 | [397849-the-way-home.json](./397849-the-way-home.json) |
 | The Way Home: Dungeon Cat | 193711 | [193711-the-way-home-dungeon-cat.json](./193711-the-way-home-dungeon-cat.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
 | The Way of Cinnamon | 120006 | [120006-the-way-of-cinnamon.json](./120006-the-way-of-cinnamon.json) |
@@ -16910,6 +16915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
 | Throne of Maiden | 223875 | [223875-throne-of-maiden.json](./223875-throne-of-maiden.json) |
 | Throne of Shadows | 384271 | [384271-throne-of-shadows.json](./384271-throne-of-shadows.json) |
+| Throne of Shards | 397738 | [397738-throne-of-shards.json](./397738-throne-of-shards.json) |
 | Throne of the Dead VR: Halloween | 161726 | [161726-throne-of-the-dead-vr-halloween.json](./161726-throne-of-the-dead-vr-halloween.json) |
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Throne Quest | 112953 | [112953-throne-quest.json](./112953-throne-quest.json) |
