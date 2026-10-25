@@ -4834,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawaranu Hoshi no Stellarium | 358343 | [358343-mawaranu-hoshi-no-stellarium.json](./358343-mawaranu-hoshi-no-stellarium.json) |
 | Mawashite Tsunageru Touch Panic | 66498 | [66498-mawashite-tsunageru-touch-panic.json](./66498-mawashite-tsunageru-touch-panic.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
+| Mawgate | 396639 | [396639-mawgate.json](./396639-mawgate.json) |
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
 | Mawthorne | 201504 | [201504-mawthorne.json](./201504-mawthorne.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
@@ -12655,6 +12656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome World | 133104 | [133104-monochrome-world.json](./133104-monochrome-world.json) |
 | Monochrono | 57937 | [57937-monochrono.json](./57937-monochrono.json) |
 | Monocity | 220680 | [220680-monocity.json](./220680-monocity.json) |
+| Monocre | 396637 | [396637-monocre.json](./396637-monocre.json) |
 | Monodot | 207828 | [207828-monodot.json](./207828-monodot.json) |
 | Monogatari Series Puc Puc | 133755 | [133755-monogatari-series-puc-puc.json](./133755-monogatari-series-puc-puc.json) |
 | Monogatari: Love Letter | 297029 | [297029-monogatari-love-letter.json](./297029-monogatari-love-letter.json) |
@@ -14940,6 +14942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moustake | 202022 | [202022-moustake.json](./202022-moustake.json) |
 | Mouth Trap | 318429 | [318429-mouth-trap.json](./318429-mouth-trap.json) |
 | Mouthwashing | 264410 | [264410-mouthwashing.json](./264410-mouthwashing.json) |
+| Mouton Noir | 396643 | [396643-mouton-noir.json](./396643-mouton-noir.json) |
 | Movafort | 212190 | [212190-movafort.json](./212190-movafort.json) |
 | Move 78 | 157207 | [157207-move-78.json](./157207-move-78.json) |
 | Move Animals | 220160 | [220160-move-animals.json](./220160-move-animals.json) |
