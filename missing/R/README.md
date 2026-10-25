@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razor Global Domination Pro Tour | 62076 | [62076-razor-global-domination-pro-tour.json](./62076-razor-global-domination-pro-tour.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
+| Razor2: Hidden Skies | 14972 | [14972-razor2-hidden-skies.json](./14972-razor2-hidden-skies.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
 | Razortron 2084 | 116893 | [116893-razortron-2084.json](./116893-razortron-2084.json) |
 | Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
@@ -3144,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Frozen | 149207 | [149207-red-frozen.json](./149207-red-frozen.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
 | Red Galaxy | 418869 | [418869-red-galaxy.json](./418869-red-galaxy.json) |
+| Red Game Without a Great Name | 15038 | [15038-red-game-without-a-great-name.json](./15038-red-game-without-a-great-name.json) |
 | Red Gate | 118360 | [118360-red-gate.json](./118360-red-gate.json) |
 | Red Genesis | 367592 | [367592-red-genesis.json](./367592-red-genesis.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
@@ -7418,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotrek | 42649 | [42649-robotrek.json](./42649-robotrek.json) |
 | RobotRiot | 25505 | [25505-robotriot.json](./25505-robotriot.json) |
 | RobotRiot: Hyper Edition | 99491 | [99491-robotriot-hyper-edition.json](./99491-robotriot-hyper-edition.json) |
+| Robotron X | 9186 | [9186-robotron-x.json](./9186-robotron-x.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots | 176770 | [176770-robots.json](./176770-robots.json) |
 | Robots | 248488 | [248488-robots.json](./248488-robots.json) |
