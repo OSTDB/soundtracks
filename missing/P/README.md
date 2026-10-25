@@ -3932,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pest Control | 120123 | [120123-pest-control.json](./120123-pest-control.json) |
 | Pest Control | 343758 | [343758-pest-control.json](./343758-pest-control.json) |
 | Pest Control in the Crypt | 410303 | [410303-pest-control-in-the-crypt.json](./410303-pest-control-in-the-crypt.json) |
+| Pest Control Simulator | 394421 | [394421-pest-control-simulator.json](./394421-pest-control-simulator.json) |
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pest Protocol | 408580 | [408580-pest-protocol.json](./408580-pest-protocol.json) |
 | Pest Quest | 178855 | [178855-pest-quest.json](./178855-pest-quest.json) |
@@ -10598,6 +10599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
 | Pornographer | 411054 | [411054-pornographer.json](./411054-pornographer.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
+| Pororo Sports Day | 394387 | [394387-pororo-sports-day.json](./394387-pororo-sports-day.json) |
 | Porp | 133656 | [133656-porp.json](./133656-porp.json) |
 | Porpetha | 249882 | [249882-porpetha.json](./249882-porpetha.json) |
 | Porradaria 2: Pagode of the Night | 33840 | [33840-porradaria-2-pagode-of-the-night.json](./33840-porradaria-2-pagode-of-the-night.json) |
@@ -11761,6 +11763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Dinosaur Shooter: Dino Killer | 374672 | [374672-primal-dinosaur-shooter-dino-killer.json](./374672-primal-dinosaur-shooter-dino-killer.json) |
 | Primal Dominion | 148664 | [148664-primal-dominion.json](./148664-primal-dominion.json) |
 | Primal Dungeon | 158008 | [158008-primal-dungeon.json](./158008-primal-dungeon.json) |
+| Primal Dungeon Adventure | 394575 | [394575-primal-dungeon-adventure.json](./394575-primal-dungeon-adventure.json) |
 | Primal Echo | 374822 | [374822-primal-echo.json](./374822-primal-echo.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
 | Primal Forge | 117402 | [117402-primal-forge.json](./117402-primal-forge.json) |
