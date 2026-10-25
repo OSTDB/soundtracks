@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZaciSa's Last Stand | 84957 | [84957-zacisas-last-stand.json](./84957-zacisas-last-stand.json) |
 | Zack & Wiki: Quest for Barbaros' Treasure | 2264 | [2264-zack-and-wiki-quest-for-barbaros-treasure.json](./2264-zack-and-wiki-quest-for-barbaros-treasure.json) |
 | Zack 2: Celestine's Map | 139640 | [139640-zack-2-celestines-map.json](./139640-zack-2-celestines-map.json) |
+| Zack in Fight | 412012 | [412012-zack-in-fight.json](./412012-zack-in-fight.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
 | Zack Zero | 7490 | [7490-zack-zero.json](./7490-zack-zero.json) |
 | Zack! | 106300 | [106300-zack.json](./106300-zack.json) |
