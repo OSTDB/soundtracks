@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake Up | 178453 | [178453-wake-up.json](./178453-wake-up.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
 | Wake Up and Jump! | 392480 | [392480-wake-up-and-jump.json](./392480-wake-up-and-jump.json) |
+| Wake Up Calls | 397842 | [397842-wake-up-calls.json](./397842-wake-up-calls.json) |
 | Wake Up The Box | 334223 | [334223-wake-up-the-box.json](./334223-wake-up-the-box.json) |
 | Wake up the House | 360888 | [360888-wake-up-the-house.json](./360888-wake-up-the-house.json) |
 | Wake up, Az. | 395691 | [395691-wake-up-az.json](./395691-wake-up-az.json) |
@@ -4849,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings Over China: Air Battles of the Flying Tigers | 69563 | [69563-wings-over-china-air-battles-of-the-flying-tigers.json](./69563-wings-over-china-air-battles-of-the-flying-tigers.json) |
 | Wings Over Europe: Cold War Gone Hot | 23120 | [23120-wings-over-europe-cold-war-gone-hot.json](./23120-wings-over-europe-cold-war-gone-hot.json) |
 | Wings over Vietnam | 16320 | [16320-wings-over-vietnam.json](./16320-wings-over-vietnam.json) |
+| Wings Over Water | 397864 | [397864-wings-over-water.json](./397864-wings-over-water.json) |
 | Wings Through Time | 174731 | [174731-wings-through-time.json](./174731-wings-through-time.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
 | Wings: Emulated Amiga Edition | 154945 | [154945-wings-emulated-amiga-edition.json](./154945-wings-emulated-amiga-edition.json) |
