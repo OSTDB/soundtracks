@@ -4630,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney | 221284 | [221284-phoenix-wright-ace-attorney.json](./221284-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney | 221285 | [221285-phoenix-wright-ace-attorney.json](./221285-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 253012 | [253012-phoenix-wright-ace-attorney-dual-destinies.json](./253012-phoenix-wright-ace-attorney-dual-destinies.json) |
+| Phoenix Wright: Ace Attorney - Dual Destinies VR | 419608 | [419608-phoenix-wright-ace-attorney-dual-destinies-vr.json](./419608-phoenix-wright-ace-attorney-dual-destinies-vr.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies: Special Episode - Turnabout Reclaimed | 24973 | [24973-phoenix-wright-ace-attorney-dual-destinies-special-episode-turnabout-reclaimed.json](./24973-phoenix-wright-ace-attorney-dual-destinies-special-episode-turnabout-reclaimed.json) |
 | Phoenix Wright: Ace Attorney - Episode 5: Rise from the Ashes | 340577 | [340577-phoenix-wright-ace-attorney-episode-5-rise-from-the-ashes.json](./340577-phoenix-wright-ace-attorney-episode-5-rise-from-the-ashes.json) |
 | Phoenix Wright: Ace Attorney - Justice for All | 1427 | [1427-phoenix-wright-ace-attorney-justice-for-all.json](./1427-phoenix-wright-ace-attorney-justice-for-all.json) |
