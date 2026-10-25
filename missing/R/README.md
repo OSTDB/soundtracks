@@ -2846,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReBullet | 313979 | [313979-rebullet.json](./313979-rebullet.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
 | Reburning Meteorite | 320806 | [320806-reburning-meteorite.json](./320806-reburning-meteorite.json) |
+| Rebus Master: Picture Puzzles | 420787 | [420787-rebus-master-picture-puzzles.json](./420787-rebus-master-picture-puzzles.json) |
 | Rebut! | 389003 | [389003-rebut.json](./389003-rebut.json) |
 | Rec | 322669 | [322669-rec.json](./322669-rec.json) |
 | Rec Center Tycoon | 28694 | [28694-rec-center-tycoon.json](./28694-rec-center-tycoon.json) |
@@ -3278,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ruins | 304466 | [304466-red-ruins.json](./304466-red-ruins.json) |
 | Red Runner | 184938 | [184938-red-runner.json](./184938-red-runner.json) |
 | Red Rust Pioneers | 349941 | [349941-red-rust-pioneers.json](./349941-red-rust-pioneers.json) |
+| Red Sauce: The Leftovers | 420775 | [420775-red-sauce-the-leftovers.json](./420775-red-sauce-the-leftovers.json) |
 | Red Scorpion | 47144 | [47144-red-scorpion.json](./47144-red-scorpion.json) |
 | Red Sea | 223032 | [223032-red-sea.json](./223032-red-sea.json) |
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
