@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On & Off Racing | 356302 | [356302-on-and-off-racing.json](./356302-on-and-off-racing.json) |
 | On a Rainy Day | 68731 | [68731-on-a-rainy-day.json](./68731-on-a-rainy-day.json) |
 | On a Roll | 71017 | [71017-on-a-roll.json](./71017-on-a-roll.json) |
+| On A Roll | 9247 | [9247-on-a-roll.json](./9247-on-a-roll.json) |
 | On a Roll 3D: Levels 7 - 9 | 197382 | [197382-on-a-roll-3d-levels-7-9.json](./197382-on-a-roll-3d-levels-7-9.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
 | On Air | 122173 | [122173-on-air.json](./122173-on-air.json) |
