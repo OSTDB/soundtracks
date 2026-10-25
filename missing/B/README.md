@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5242,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benders of Moona | 236728 | [236728-benders-of-moona.json](./236728-benders-of-moona.json) |
 | Bending the Light | 167911 | [167911-bending-the-light.json](./167911-bending-the-light.json) |
 | Bendo | 245981 | [245981-bendo.json](./245981-bendo.json) |
+| Bendy and the Brine Barrel | 414386 | [414386-bendy-and-the-brine-barrel.json](./414386-bendy-and-the-brine-barrel.json) |
 | Bendy and the Ink Machine: Chapter Five | 281029 | [281029-bendy-and-the-ink-machine-chapter-five.json](./281029-bendy-and-the-ink-machine-chapter-five.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy Scary & Ink Machines | 216095 | [216095-bendy-scary-and-ink-machines.json](./216095-bendy-scary-and-ink-machines.json) |
@@ -15111,6 +15113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte the Bullet | 197213 | [197213-byte-the-bullet.json](./197213-byte-the-bullet.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Bytebond | 286955 | [286955-bytebond.json](./286955-bytebond.json) |
+| ByteBuddies | 414081 | [414081-bytebuddies.json](./414081-bytebuddies.json) |
 | ByteBurst | 281977 | [281977-byteburst.json](./281977-byteburst.json) |
 | Bytecollector | 349621 | [349621-bytecollector.json](./349621-bytecollector.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
