@@ -12726,6 +12726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
 | Snug Finder: More Fun | 219472 | [219472-snug-finder-more-fun.json](./219472-snug-finder-more-fun.json) |
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
+| Snuggle Truck | 9025 | [9025-snuggle-truck.json](./9025-snuggle-truck.json) |
 | Snusoed | 154389 | [154389-snusoed.json](./154389-snusoed.json) |
 | Snwbrd: Freestyle Snowboarding | 235196 | [235196-snwbrd-freestyle-snowboarding.json](./235196-snwbrd-freestyle-snowboarding.json) |
 | Snyatcher | 292387 | [292387-snyatcher.json](./292387-snyatcher.json) |
@@ -20698,6 +20699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsation | 150987 | [150987-starsation.json](./150987-starsation.json) |
 | StarSavior | 350191 | [350191-starsavior.json](./350191-starsavior.json) |
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
+| Starscape | 14925 | [14925-starscape.json](./14925-starscape.json) |
 | StarScraper | 148405 | [148405-starscraper.json](./148405-starscraper.json) |
 | Starseed | 150998 | [150998-starseed.json](./150998-starseed.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
@@ -27331,6 +27333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superluminal: A Universe Sandbox | 107032 | [107032-superluminal-a-universe-sandbox.json](./107032-superluminal-a-universe-sandbox.json) |
 | SuperLuminauts | 54490 | [54490-superluminauts.json](./54490-superluminauts.json) |
 | Superlunary: Episode 1.0 | 136873 | [136873-superlunary-episode-1-0.json](./136873-superlunary-episode-1-0.json) |
+| Supermagical | 14714 | [14714-supermagical.json](./14714-supermagical.json) |
 | Superman | 131546 | [131546-superman.json](./131546-superman.json) |
 | Superman | 18711 | [18711-superman.json](./18711-superman.json) |
 | Superman | 207162 | [207162-superman.json](./207162-superman.json) |
@@ -28261,6 +28264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm | 13766 | [13766-swarm.json](./13766-swarm.json) |
 | Swarm | 19138 | [19138-swarm.json](./19138-swarm.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
+| Swarm Arena | 15025 | [15025-swarm-arena.json](./15025-swarm-arena.json) |
 | Swarm Assault | 63166 | [63166-swarm-assault.json](./63166-swarm-assault.json) |
 | Swarm Fortress | 294372 | [294372-swarm-fortress.json](./294372-swarm-fortress.json) |
 | Swarm Grinder | 223371 | [223371-swarm-grinder.json](./223371-swarm-grinder.json) |
@@ -28881,6 +28885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Necromancer: Resurrection | 290642 | [290642-sword-of-the-necromancer-resurrection.json](./290642-sword-of-the-necromancer-resurrection.json) |
 | Sword of the Necromancer: Revenant | 228280 | [228280-sword-of-the-necromancer-revenant.json](./228280-sword-of-the-necromancer-revenant.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
+| Sword of the Samurai | 9218 | [9218-sword-of-the-samurai.json](./9218-sword-of-the-samurai.json) |
 | Sword of the Slayer | 123524 | [123524-sword-of-the-slayer.json](./123524-sword-of-the-slayer.json) |
 | Sword of the Spirit | 243123 | [243123-sword-of-the-spirit.json](./243123-sword-of-the-spirit.json) |
 | Sword of the Stars Complete Collection | 30143 | [30143-sword-of-the-stars-complete-collection.json](./30143-sword-of-the-stars-complete-collection.json) |
