@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.L.T. | 239590 | [239590-a-l-t.json](./239590-a-l-t.json) |
 | A.M.C.: Astro Marine Corps | 11881 | [11881-a-m-c-astro-marine-corps.json](./11881-a-m-c-astro-marine-corps.json) |
 | A.N.N. | 306778 | [306778-a-n-n.json](./306778-a-n-n.json) |
+| A.N.N.E. | 8639 | [8639-a-n-n-e.json](./8639-a-n-n-e.json) |
 | A.N.O.N.Y.M.U.S. | 279027 | [279027-a-n-o-n-y-m-u-s.json](./279027-a-n-o-n-y-m-u-s.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
@@ -3104,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeolus Fighter 3 | 265585 | [265585-aeolus-fighter-3.json](./265585-aeolus-fighter-3.json) |
 | Aeon Alpha | 141071 | [141071-aeon-alpha.json](./141071-aeon-alpha.json) |
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
+| Aeon Command | 8374 | [8374-aeon-command.json](./8374-aeon-command.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon Flux | 80426 | [80426-aeon-flux.json](./80426-aeon-flux.json) |
 | Aeon Guard | 381196 | [381196-aeon-guard.json](./381196-aeon-guard.json) |
@@ -5540,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
 | Alien Odyssey | 50325 | [50325-alien-odyssey.json](./50325-alien-odyssey.json) |
 | Alien Olympics | 73317 | [73317-alien-olympics.json](./73317-alien-olympics.json) |
+| Alien Olympics 2044 AD | 7750 | [7750-alien-olympics-2044-ad.json](./7750-alien-olympics-2044-ad.json) |
 | Alien on the Radar | 235609 | [235609-alien-on-the-radar.json](./235609-alien-on-the-radar.json) |
 | Alien on the Run | 61537 | [61537-alien-on-the-run.json](./61537-alien-on-the-run.json) |
 | Alien Outbreak | 57602 | [57602-alien-outbreak.json](./57602-alien-outbreak.json) |
