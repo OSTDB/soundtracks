@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Panadero: The Baker | 239662 | [239662-el-panadero-the-baker.json](./239662-el-panadero-the-baker.json) |
 | El Pansas | 110530 | [110530-el-pansas.json](./110530-el-pansas.json) |
 | El Paso, Elsewhere | 151788 | [151788-el-paso-elsewhere.json](./151788-el-paso-elsewhere.json) |
+| El Paso, Elsewhere 2 | 405159 | [405159-el-paso-elsewhere-2.json](./405159-el-paso-elsewhere-2.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
 | El Pescador | 174033 | [174033-el-pescador.json](./174033-el-pescador.json) |
 | El Principio del Fin | 99684 | [99684-el-principio-del-fin.json](./99684-el-principio-del-fin.json) |
