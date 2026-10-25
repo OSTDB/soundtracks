@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill 'Em All | 98754 | [98754-kill-em-all.json](./98754-kill-em-all.json) |
 | Kill a Million Rats | 265340 | [265340-kill-a-million-rats.json](./265340-kill-a-million-rats.json) |
 | Kill AI | 288812 | [288812-kill-ai.json](./288812-kill-ai.json) |
+| Kill All Clankers | 420215 | [420215-kill-all-clankers.json](./420215-kill-all-clankers.json) |
 | Kill All Enemies | 340009 | [340009-kill-all-enemies.json](./340009-kill-all-enemies.json) |
 | Kill All Lice | 320322 | [320322-kill-all-lice.json](./320322-kill-all-lice.json) |
 | Kill All Vampires | 184776 | [184776-kill-all-vampires.json](./184776-kill-all-vampires.json) |
@@ -3602,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight and Mourning | 202703 | [202703-knight-and-mourning.json](./202703-knight-and-mourning.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Arms: The Hyblid Framer | 62594 | [62594-knight-arms-the-hyblid-framer.json](./62594-knight-arms-the-hyblid-framer.json) |
+| Knight Before Dawn | 420220 | [420220-knight-before-dawn.json](./420220-knight-before-dawn.json) |
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
 | Knight Case Files | 275522 | [275522-knight-case-files.json](./275522-knight-case-files.json) |
 | Knight Cats: Leaves on the Road | 260879 | [260879-knight-cats-leaves-on-the-road.json](./260879-knight-cats-leaves-on-the-road.json) |
