@@ -17396,6 +17396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbreaker | 1949 | [1949-spellbreaker.json](./1949-spellbreaker.json) |
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
 | Spellbroken | 152012 | [152012-spellbroken.json](./152012-spellbroken.json) |
+| Spellbrush’s Tactical Game | 402685 | [402685-spellbrush-s-tactical-game.json](./402685-spellbrush-s-tactical-game.json) |
 | SpellCarved | 397268 | [397268-spellcarved.json](./397268-spellcarved.json) |
 | Spellcast | 361626 | [361626-spellcast.json](./361626-spellcast.json) |
 | SpellCast | 254447 | [254447-spellcast.json](./254447-spellcast.json) |
@@ -28326,6 +28327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Fun | 219111 | [219111-sushi-fun.json](./219111-sushi-fun.json) |
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
+| Sushi Lick | 402686 | [402686-sushi-lick.json](./402686-sushi-lick.json) |
 | Sushi Loop | 409770 | [409770-sushi-loop.json](./409770-sushi-loop.json) |
 | Sushi Master VR | 134938 | [134938-sushi-master-vr.json](./134938-sushi-master-vr.json) |
 | Sushi Monster | 327994 | [327994-sushi-monster.json](./327994-sushi-monster.json) |
@@ -29503,6 +29505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate Wars | 51 | [51-syndicate-wars.json](./51-syndicate-wars.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
 | Syndoy | 251064 | [251064-syndoy.json](./251064-syndoy.json) |
+| Syndream | 402689 | [402689-syndream.json](./402689-syndream.json) |
 | Syndrome | 13366 | [13366-syndrome.json](./13366-syndrome.json) |
 | Syndrome VR | 74263 | [74263-syndrome-vr.json](./74263-syndrome-vr.json) |
 | Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
