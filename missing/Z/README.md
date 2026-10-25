@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
 | Zoms & Guns | 190201 | [190201-zoms-and-guns.json](./190201-zoms-and-guns.json) |
+| ZomVox | 410705 | [410705-zomvox.json](./410705-zomvox.json) |
 | Zomzoms | 130381 | [130381-zomzoms.json](./130381-zomzoms.json) |
 | Zonbi Panic | 138734 | [138734-zonbi-panic.json](./138734-zonbi-panic.json) |
 | Zonder: Real-World Travel Game | 282723 | [282723-zonder-real-world-travel-game.json](./282723-zonder-real-world-travel-game.json) |
