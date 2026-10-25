@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack n Slash | 8438 | [8438-hack-n-slash.json](./8438-hack-n-slash.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
 | Hack Run Zero | 34898 | [34898-hack-run-zero.json](./34898-hack-run-zero.json) |
+| Hack Slash Crawl | 387926 | [387926-hack-slash-crawl.json](./387926-hack-slash-crawl.json) |
 | Hack the Babel Inc. | 207558 | [207558-hack-the-babel-inc.json](./207558-hack-the-babel-inc.json) |
 | Hack the Core | 108367 | [108367-hack-the-core.json](./108367-hack-the-core.json) |
 | Hack the FBI | 29702 | [29702-hack-the-fbi.json](./29702-hack-the-fbi.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haftsin Maker | 182092 | [182092-haftsin-maker.json](./182092-haftsin-maker.json) |
 | Hag | 245946 | [245946-hag.json](./245946-hag.json) |
 | Hag's Castle | 105115 | [105115-hags-castle.json](./105115-hags-castle.json) |
+| Hag's Hand | 388500 | [388500-hags-hand.json](./388500-hags-hand.json) |
 | Hagalegacy | 311113 | [311113-hagalegacy.json](./311113-hagalegacy.json) |
 | Hagane Orchestra | 393562 | [393562-hagane-orchestra.json](./393562-hagane-orchestra.json) |
 | Hagane: The Final Conflict | 42611 | [42611-hagane-the-final-conflict.json](./42611-hagane-the-final-conflict.json) |
@@ -1086,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands of the Sovereign | 372062 | [372062-hands-of-the-sovereign.json](./372062-hands-of-the-sovereign.json) |
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
 | Hands of Victory | 380801 | [380801-hands-of-victory.json](./380801-hands-of-victory.json) |
+| Hands of War | 387927 | [387927-hands-of-war.json](./387927-hands-of-war.json) |
 | Hands On! Pattern Blocks | 92156 | [92156-hands-on-pattern-blocks.json](./92156-hands-on-pattern-blocks.json) |
 | Hands On! Tangrams | 48043 | [48043-hands-on-tangrams.json](./48043-hands-on-tangrams.json) |
 | Hands Over | 403826 | [403826-hands-over.json](./403826-hands-over.json) |
@@ -1416,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Street | 63750 | [63750-happy-street.json](./63750-happy-street.json) |
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
 | Happy Sumotori Dreams | 102237 | [102237-happy-sumotori-dreams.json](./102237-happy-sumotori-dreams.json) |
+| Happy Supercop! Catch the Thief | 388528 | [388528-happy-supercop-catch-the-thief.json](./388528-happy-supercop-catch-the-thief.json) |
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
 | Happy Tails: Animal Shelter | 198076 | [198076-happy-tails-animal-shelter.json](./198076-happy-tails-animal-shelter.json) |
 | Happy Telepathy | 286218 | [286218-happy-telepathy.json](./286218-happy-telepathy.json) |
@@ -3758,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Yogurt | 306801 | [306801-hello-yogurt.json](./306801-hello-yogurt.json) |
 | Hello Yuna | 336869 | [336869-hello-yuna.json](./336869-hello-yuna.json) |
 | Hello, Boss! | 364845 | [364845-hello-boss.json](./364845-hello-boss.json) |
+| Hello, Dot | 387965 | [387965-hello-dot.json](./387965-hello-dot.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
 | Hello, Good-bye | 111803 | [111803-hello-good-bye.json](./111803-hello-good-bye.json) |
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
@@ -7750,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homunculus Meat | 375503 | [375503-homunculus-meat.json](./375503-homunculus-meat.json) |
 | Homura | 43330 | [43330-homura.json](./43330-homura.json) |
 | Homura Hime | 199055 | [199055-homura-hime.json](./199055-homura-hime.json) |
+| Homura: The Crimson Warriors | 387933 | [387933-homura-the-crimson-warriors.json](./387933-homura-the-crimson-warriors.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
 | Hon Shogi | 228563 | [228563-hon-shogi.json](./228563-hon-shogi.json) |
 | Honcho | 303564 | [303564-honcho.json](./303564-honcho.json) |
@@ -8144,6 +8150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopping girl Kohane Jumping Kingdom: Princess of the Black Rabbit | 124022 | [124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json](./124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json) |
 | Hopping Mappy | 40056 | [40056-hopping-mappy.json](./40056-hopping-mappy.json) |
 | Hopping Ninja-san | 389112 | [389112-hopping-ninja-san.json](./389112-hopping-ninja-san.json) |
+| Hopping Out | 387963 | [387963-hopping-out.json](./387963-hopping-out.json) |
 | Hopping Up for It | 32075 | [32075-hopping-up-for-it.json](./32075-hopping-up-for-it.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hoppy Bobby | 58494 | [58494-hoppy-bobby.json](./58494-hoppy-bobby.json) |
@@ -8252,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horn | 38704 | [38704-horn.json](./38704-horn.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
+| Horn of the Warlord | 387962 | [387962-horn-of-the-warlord.json](./387962-horn-of-the-warlord.json) |
 | Horn Sounds | 262887 | [262887-horn-sounds.json](./262887-horn-sounds.json) |
 | Horn Swaggle Islands | 67828 | [67828-horn-swaggle-islands.json](./67828-horn-swaggle-islands.json) |
 | Horn-Nie | 291037 | [291037-horn-nie.json](./291037-horn-nie.json) |
@@ -9675,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humilau Resort: A Pokémon Escape Room | 341924 | [341924-humilau-resort-a-pokemon-escape-room.json](./341924-humilau-resort-a-pokemon-escape-room.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
 | Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
+| Hummingbird Garden | 388542 | [388542-hummingbird-garden.json](./388542-hummingbird-garden.json) |
 | Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
 | Hummingbird's Crown | 207241 | [207241-hummingbirds-crown.json](./207241-hummingbirds-crown.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
