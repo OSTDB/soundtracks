@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
 | Pacific Drive: Whispers Edition | 376034 | [376034-pacific-drive-whispers-edition.json](./376034-pacific-drive-whispers-edition.json) |
 | Pacific Drive: Whispers in the Woods | 366375 | [366375-pacific-drive-whispers-in-the-woods.json](./366375-pacific-drive-whispers-in-the-woods.json) |
+| Pacific Fighters | 24163 | [24163-pacific-fighters.json](./24163-pacific-fighters.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
@@ -5427,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PillPop | 138645 | [138645-pillpop.json](./138645-pillpop.json) |
 | Pills4Skills | 33903 | [33903-pills4skills.json](./33903-pills4skills.json) |
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
+| Pilot Academy | 23121 | [23121-pilot-academy.json](./23121-pilot-academy.json) |
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
 | Pilot Brothers 2 | 36090 | [36090-pilot-brothers-2.json](./36090-pilot-brothers-2.json) |
@@ -5682,12 +5684,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Zen Originals Collection 1 | 239015 | [239015-pinball-fx-zen-originals-collection-1.json](./239015-pinball-fx-zen-originals-collection-1.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
 | Pinball FX2 VR | 26292 | [26292-pinball-fx2-vr.json](./26292-pinball-fx2-vr.json) |
+| Pinball FX2: Aliens vs. Pinball | 24204 | [24204-pinball-fx2-aliens-vs-pinball.json](./24204-pinball-fx2-aliens-vs-pinball.json) |
 | Pinball FX2: Civil War Table DLC | 10694 | [10694-pinball-fx2-civil-war-table-dlc.json](./10694-pinball-fx2-civil-war-table-dlc.json) |
 | Pinball FX2: Epic Quest Table | 10695 | [10695-pinball-fx2-epic-quest-table.json](./10695-pinball-fx2-epic-quest-table.json) |
 | Pinball FX2: Fantastic Four Table | 10696 | [10696-pinball-fx2-fantastic-four-table.json](./10696-pinball-fx2-fantastic-four-table.json) |
 | Pinball FX2: Iron & Steel Pack | 20946 | [20946-pinball-fx2-iron-and-steel-pack.json](./20946-pinball-fx2-iron-and-steel-pack.json) |
 | Pinball FX2: Mars Table | 20544 | [20544-pinball-fx2-mars-table.json](./20544-pinball-fx2-mars-table.json) |
 | Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
+| Pinball FX2: Marvel's Ant-Man | 24218 | [24218-pinball-fx2-marvels-ant-man.json](./24218-pinball-fx2-marvels-ant-man.json) |
 | Pinball FX2: Ms. Splosion Man | 320183 | [320183-pinball-fx2-ms-splosion-man.json](./320183-pinball-fx2-ms-splosion-man.json) |
 | Pinball FX2: Nightmare Mansion | 354447 | [354447-pinball-fx2-nightmare-mansion.json](./354447-pinball-fx2-nightmare-mansion.json) |
 | Pinball FX2: Paranormal | 10698 | [10698-pinball-fx2-paranormal.json](./10698-pinball-fx2-paranormal.json) |
@@ -9666,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
 | Police Story | 95788 | [95788-police-story.json](./95788-police-story.json) |
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
+| Police Tactics: Imperio | 24210 | [24210-police-tactics-imperio.json](./24210-police-tactics-imperio.json) |
 | Police Train Prison Transport | 88420 | [88420-police-train-prison-transport.json](./88420-police-train-prison-transport.json) |
 | Police Trainer | 39838 | [39838-police-trainer.json](./39838-police-trainer.json) |
 | Police Transporter Simulator | 220650 | [220650-police-transporter-simulator.json](./220650-police-transporter-simulator.json) |
