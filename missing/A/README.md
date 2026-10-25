@@ -2799,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Boy Jailbreak | 127824 | [127824-adventure-boy-jailbreak.json](./127824-adventure-boy-jailbreak.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | Adventure Canoe | 392769 | [392769-adventure-canoe.json](./392769-adventure-canoe.json) |
+| Adventure Chronicles: The Search For Lost Treasure | 11441 | [11441-adventure-chronicles-the-search-for-lost-treasure.json](./11441-adventure-chronicles-the-search-for-lost-treasure.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
 | Adventure Climb VR: Brave the Elements | 209300 | [209300-adventure-climb-vr-brave-the-elements.json](./209300-adventure-climb-vr-brave-the-elements.json) |
 | AdVenture Communist | 32997 | [32997-adventure-communist.json](./32997-adventure-communist.json) |
@@ -4221,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiphobia | 379520 | [379520-aiphobia.json](./379520-aiphobia.json) |
 | Aipom's Great Pirate Adventure | 414465 | [414465-aipoms-great-pirate-adventure.json](./414465-aipoms-great-pirate-adventure.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
+| Air | 11411 | [11411-air.json](./11411-air.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Ace | 180650 | [180650-air-ace.json](./180650-air-ace.json) |
@@ -4561,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Simulator | 52386 | [52386-airport-simulator.json](./52386-airport-simulator.json) |
 | Airport Simulator 2013 | 100124 | [100124-airport-simulator-2013.json](./100124-airport-simulator-2013.json) |
 | Airport Simulator 2014 | 16899 | [16899-airport-simulator-2014.json](./16899-airport-simulator-2014.json) |
+| Airport Simulator 2015 | 17771 | [17771-airport-simulator-2015.json](./17771-airport-simulator-2015.json) |
 | Airport Simulator 2019 | 100545 | [100545-airport-simulator-2019.json](./100545-airport-simulator-2019.json) |
 | Airport Simulator: Day & Night | 187310 | [187310-airport-simulator-day-and-night.json](./187310-airport-simulator-day-and-night.json) |
 | Airport Tower Simulator 2012 | 52385 | [52385-airport-tower-simulator-2012.json](./52385-airport-tower-simulator-2012.json) |
