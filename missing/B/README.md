@@ -793,7 +793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3354,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
 | Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
 | Battle Street | 336704 | [336704-battle-street.json](./336704-battle-street.json) |
+| Battle Strike | 404526 | [404526-battle-strike.json](./404526-battle-strike.json) |
 | Battle Strike World War | 169103 | [169103-battle-strike-world-war.json](./169103-battle-strike-world-war.json) |
 | Battle Submarine | 38185 | [38185-battle-submarine.json](./38185-battle-submarine.json) |
 | Battle Suit Aces | 305021 | [305021-battle-suit-aces.json](./305021-battle-suit-aces.json) |
