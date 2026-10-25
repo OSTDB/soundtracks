@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasic Tambourine | 129537 | [129537-fantasic-tambourine.json](./129537-fantasic-tambourine.json) |
 | Fantasica | 61399 | [61399-fantasica.json](./61399-fantasica.json) |
 | FantasicReverie | 407897 | [407897-fantasicreverie.json](./407897-fantasicreverie.json) |
+| Fantasista Asuka | 389206 | [389206-fantasista-asuka.json](./389206-fantasista-asuka.json) |
 | Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
 | Fantasma | 153915 | [153915-fantasma.json](./153915-fantasma.json) |
 | Fantasma Ville | 166826 | [166826-fantasma-ville.json](./166826-fantasma-ville.json) |
@@ -2387,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
 | Farwoods | 203248 | [203248-farwoods.json](./203248-farwoods.json) |
+| Faryloopa | 389198 | [389198-faryloopa.json](./389198-faryloopa.json) |
 | FAS: Fight Action Sandbox | 243569 | [243569-fas-fight-action-sandbox.json](./243569-fas-fight-action-sandbox.json) |
 | Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
 | Fasaria World: Ancients of Moons | 53051 | [53051-fasaria-world-ancients-of-moons.json](./53051-fasaria-world-ancients-of-moons.json) |
