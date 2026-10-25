@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Silence | 29121 | [29121-eternal-silence.json](./29121-eternal-silence.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
 | Eternal Slumber Party II | 261960 | [261960-eternal-slumber-party-ii.json](./261960-eternal-slumber-party-ii.json) |
+| Eternal Sonata: Reprise | 412771 | [412771-eternal-sonata-reprise.json](./412771-eternal-sonata-reprise.json) |
 | Eternal Space | 285532 | [285532-eternal-space.json](./285532-eternal-space.json) |
 | Eternal Spectre | 195584 | [195584-eternal-spectre.json](./195584-eternal-spectre.json) |
 | Eternal Spring VR | 290119 | [290119-eternal-spring-vr.json](./290119-eternal-spring-vr.json) |
