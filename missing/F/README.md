@@ -2725,6 +2725,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Ordeal Call III - Archetype Inception | 413506 | [413506-fate-grand-order-ordeal-call-iii-archetype-inception.json](./413506-fate-grand-order-ordeal-call-iii-archetype-inception.json) |
 | Fate/Grand Order: Realm of the Thanatos Impulse, Traum - Life and Death of an Illusion | 416558 | [416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json](./416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json) |
 | Fate/Grand Order: Singularity III - Okeanos | 415658 | [415658-fate-grand-order-singularity-iii-okeanos.json](./415658-fate-grand-order-singularity-iii-okeanos.json) |
+| Fate/Grand Order: Singularity IV - London | 417337 | [417337-fate-grand-order-singularity-iv-london.json](./417337-fate-grand-order-singularity-iv-london.json) |
+| Fate/Grand Order: Singularity V - E Pluribus Unum | 417399 | [417399-fate-grand-order-singularity-v-e-pluribus-unum.json](./417399-fate-grand-order-singularity-v-e-pluribus-unum.json) |
 | Fate/Grand Order: Tokugawa Restoration Labyrinth - Ooku | 413488 | [413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json](./413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Hollow Ataraxia Remastered | 312302 | [312302-fate-hollow-ataraxia-remastered.json](./312302-fate-hollow-ataraxia-remastered.json) |
@@ -3390,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FFA Cards | 290514 | [290514-ffa-cards.json](./290514-ffa-cards.json) |
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | Ffff You Machine | 349504 | [349504-ffff-you-machine.json](./349504-ffff-you-machine.json) |
+| FFFF: Fatal Five Finger Fillet | 417258 | [417258-ffff-fatal-five-finger-fillet.json](./417258-ffff-fatal-five-finger-fillet.json) |
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
 | FFS: Football Freekick Simulator | 312436 | [312436-ffs-football-freekick-simulator.json](./312436-ffs-football-freekick-simulator.json) |
 | FFX Runner | 8776 | [8776-ffx-runner.json](./8776-ffx-runner.json) |
@@ -8526,6 +8529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress Guardian | 394140 | [394140-fortress-guardian.json](./394140-fortress-guardian.json) |
 | Fortress Interior | 272168 | [272168-fortress-interior.json](./272168-fortress-interior.json) |
+| Fortress Merge | 417272 | [417272-fortress-merge.json](./417272-fortress-merge.json) |
 | Fortress of the Arcane Conduit | 282617 | [282617-fortress-of-the-arcane-conduit.json](./282617-fortress-of-the-arcane-conduit.json) |
 | Fortress of the Undead | 248075 | [248075-fortress-of-the-undead.json](./248075-fortress-of-the-undead.json) |
 | Fortress of Zorlac | 319579 | [319579-fortress-of-zorlac.json](./319579-fortress-of-zorlac.json) |
