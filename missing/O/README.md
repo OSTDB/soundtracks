@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Mind | 390594 | [390594-one-mind.json](./390594-one-mind.json) |
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
 | One Minute To Close | 310005 | [310005-one-minute-to-close.json](./310005-one-minute-to-close.json) |
+| One More Adventure | 423307 | [423307-one-more-adventure.json](./423307-one-more-adventure.json) |
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
 | One More Button | 106299 | [106299-one-more-button.json](./106299-one-more-button.json) |
