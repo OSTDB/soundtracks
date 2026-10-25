@@ -3858,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Rivals: PlayStation Exclusive | 355092 | [355092-marvel-rivals-playstation-exclusive.json](./355092-marvel-rivals-playstation-exclusive.json) |
 | Marvel Rivals: Season 0 - Dooms' Rise | 325047 | [325047-marvel-rivals-season-0-dooms-rise.json](./325047-marvel-rivals-season-0-dooms-rise.json) |
 | Marvel Rivals: Season 1 - Eternal Night Falls | 327796 | [327796-marvel-rivals-season-1-eternal-night-falls.json](./327796-marvel-rivals-season-1-eternal-night-falls.json) |
+| Marvel Rivals: Season 10 - Butcher's Blasphemy | 422672 | [422672-marvel-rivals-season-10-butchers-blasphemy.json](./422672-marvel-rivals-season-10-butchers-blasphemy.json) |
 | Marvel Rivals: Season 2 - Hellfire Gala | 339814 | [339814-marvel-rivals-season-2-hellfire-gala.json](./339814-marvel-rivals-season-2-hellfire-gala.json) |
 | Marvel Rivals: Season 2 Bundle | 355094 | [355094-marvel-rivals-season-2-bundle.json](./355094-marvel-rivals-season-2-bundle.json) |
 | Marvel Rivals: Season 4 - Heart of the Dragon | 367417 | [367417-marvel-rivals-season-4-heart-of-the-dragon.json](./367417-marvel-rivals-season-4-heart-of-the-dragon.json) |
@@ -4160,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
 | Massive Galaxy | 89669 | [89669-massive-galaxy.json](./89669-massive-galaxy.json) |
 | Massive Warfare: Aftermath | 347878 | [347878-massive-warfare-aftermath.json](./347878-massive-warfare-aftermath.json) |
+| Massively Singleplayer | 422685 | [422685-massively-singleplayer.json](./422685-massively-singleplayer.json) |
 | MassMouth 2 | 294519 | [294519-massmouth-2.json](./294519-massmouth-2.json) |
 | Massmouthmas | 294516 | [294516-massmouthmas.json](./294516-massmouthmas.json) |
 | Mastaba Snoopy | 221788 | [221788-mastaba-snoopy.json](./221788-mastaba-snoopy.json) |
@@ -9316,6 +9318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Alpha Droid | 56384 | [56384-mighty-alpha-droid.json](./56384-mighty-alpha-droid.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
 | Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
+| Mighty Aphid: Remastered Edition | 422668 | [422668-mighty-aphid-remastered-edition.json](./422668-mighty-aphid-remastered-edition.json) |
 | Mighty Arms | 348751 | [348751-mighty-arms.json](./348751-mighty-arms.json) |
 | Mighty Beanz Pocket Puzzles | 6510 | [6510-mighty-beanz-pocket-puzzles.json](./6510-mighty-beanz-pocket-puzzles.json) |
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
@@ -11050,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
 | Mischief Moves In | 414166 | [414166-mischief-moves-in.json](./414166-mischief-moves-in.json) |
 | Mischief on Main Street | 105232 | [105232-mischief-on-main-street.json](./105232-mischief-on-main-street.json) |
+| Miscreant | 422649 | [422649-miscreant.json](./422649-miscreant.json) |
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
@@ -17588,6 +17592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery At Woodbrook Hall: Hidden Object Game | 197743 | [197743-mystery-at-woodbrook-hall-hidden-object-game.json](./197743-mystery-at-woodbrook-hall-hidden-object-game.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
+| Mystery Box Simulator | 422703 | [422703-mystery-box-simulator.json](./422703-mystery-box-simulator.json) |
 | Mystery Box VR: Hidden Secrets | 343773 | [343773-mystery-box-vr-hidden-secrets.json](./343773-mystery-box-vr-hidden-secrets.json) |
 | Mystery Box: Escape The Room | 259740 | [259740-mystery-box-escape-the-room.json](./259740-mystery-box-escape-the-room.json) |
 | Mystery Box: Hidden Secrets | 174041 | [174041-mystery-box-hidden-secrets.json](./174041-mystery-box-hidden-secrets.json) |
