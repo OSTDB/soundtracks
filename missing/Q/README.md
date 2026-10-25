@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QBob | 342685 | [342685-qbob.json](./342685-qbob.json) |
 | QBob: Remastered | 358309 | [358309-qbob-remastered.json](./358309-qbob-remastered.json) |
 | Qbots | 63548 | [63548-qbots.json](./63548-qbots.json) |
+| QBReader | 404548 | [404548-qbreader.json](./404548-qbreader.json) |
 | QBz | 78079 | [78079-qbz.json](./78079-qbz.json) |
 | QChat | 243510 | [243510-qchat.json](./243510-qchat.json) |
 | Qdice | 232975 | [232975-qdice.json](./232975-qdice.json) |
