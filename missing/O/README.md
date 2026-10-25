@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddsparks: An Automation Adventure - Craftsman's Elemental Decorations Pack | 406333 | [406333-oddsparks-an-automation-adventure-craftsmans-elemental-decorations-pack.json](./406333-oddsparks-an-automation-adventure-craftsmans-elemental-decorations-pack.json) |
 | Oddsparks: An Automation Adventure - Deluxe Edition | 403586 | [403586-oddsparks-an-automation-adventure-deluxe-edition.json](./403586-oddsparks-an-automation-adventure-deluxe-edition.json) |
 | Oddsparks: An Automation Adventure - Deluxe Upgrade | 403587 | [403587-oddsparks-an-automation-adventure-deluxe-upgrade.json](./403587-oddsparks-an-automation-adventure-deluxe-upgrade.json) |
+| Oddsparks: An Automation Adventure - Ultimate Edition | 402701 | [402701-oddsparks-an-automation-adventure-ultimate-edition.json](./402701-oddsparks-an-automation-adventure-ultimate-edition.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
 | Oddware | 188924 | [188924-oddware.json](./188924-oddware.json) |
 | Oddwings Escape | 345263 | [345263-oddwings-escape.json](./345263-oddwings-escape.json) |
@@ -3661,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshiete! Popotan | 411405 | [411405-oshiete-popotan.json](./411405-oshiete-popotan.json) |
 | Oshiete! Rena-sensei | 97793 | [97793-oshiete-rena-sensei.json](./97793-oshiete-rena-sensei.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
+| Oshikake Kanojo ha, Ore no Sewa wo Shitai | 402721 | [402721-oshikake-kanojo-ha-ore-no-sewa-wo-shitai.json](./402721-oshikake-kanojo-ha-ore-no-sewa-wo-shitai.json) |
 | Oshino Ruka ha Iyashite Agetai | 401183 | [401183-oshino-ruka-ha-iyashite-agetai.json](./401183-oshino-ruka-ha-iyashite-agetai.json) |
 | Oshinui Tune | 345355 | [345355-oshinui-tune.json](./345355-oshinui-tune.json) |
 | Oshioki Kirai! 2 | 130769 | [130769-oshioki-kirai-2.json](./130769-oshioki-kirai-2.json) |
