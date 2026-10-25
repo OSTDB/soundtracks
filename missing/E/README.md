@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Cute Clean Up Lesson | 320469 | [320469-easy-cute-clean-up-lesson.json](./320469-easy-cute-clean-up-lesson.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
+| Easy Gems Free: Amazing Match 3 Puzzle | 89177 | [89177-easy-gems-free-amazing-match-3-puzzle.json](./89177-easy-gems-free-amazing-match-3-puzzle.json) |
 | Easy Godding | 274669 | [274669-easy-godding.json](./274669-easy-godding.json) |
 | Easy Golf | 70617 | [70617-easy-golf.json](./70617-easy-golf.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
