@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 27: Ultimate Plus Edition | 411107 | [411107-ea-sports-fc-27-ultimate-plus-edition.json](./411107-ea-sports-fc-27-ultimate-plus-edition.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
 | EA Sports FC Tactical | 302626 | [302626-ea-sports-fc-tactical.json](./302626-ea-sports-fc-tactical.json) |
+| EA Sports FIFA 18 & NHL 18 Bundle | 83749 | [83749-ea-sports-fifa-18-and-nhl-18-bundle.json](./83749-ea-sports-fifa-18-and-nhl-18-bundle.json) |
 | EA Sports Madden NFL 25: Deluxe Edition | 301508 | [301508-ea-sports-madden-nfl-25-deluxe-edition.json](./301508-ea-sports-madden-nfl-25-deluxe-edition.json) |
 | EA Sports MMA | 6984 | [6984-ea-sports-mma.json](./6984-ea-sports-mma.json) |
 | EA Sports MVP Bundle | 308590 | [308590-ea-sports-mvp-bundle.json](./308590-ea-sports-mvp-bundle.json) |
