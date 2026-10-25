@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Scary Gays | 177909 | [177909-very-scary-gays.json](./177909-very-scary-gays.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | Very Very Valet | 141680 | [141680-very-very-valet.json](./141680-very-very-valet.json) |
+| Verydice | 88876 | [88876-verydice.json](./88876-verydice.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
 | Verzaken! | 74982 | [74982-verzaken.json](./74982-verzaken.json) |
 | Verzerk | 46508 | [46508-verzerk.json](./46508-verzerk.json) |
@@ -3241,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Rhythm Action Seiya | 76522 | [76522-vr-rhythm-action-seiya.json](./76522-vr-rhythm-action-seiya.json) |
 | VR Robinhood Archery | 209390 | [209390-vr-robinhood-archery.json](./209390-vr-robinhood-archery.json) |
 | VR Rock Climbing | 220524 | [220524-vr-rock-climbing.json](./220524-vr-rock-climbing.json) |
+| VR Roller Coaster | 88899 | [88899-vr-roller-coaster.json](./88899-vr-roller-coaster.json) |
 | VR Roller Coaster - Cave Depths | 75659 | [75659-vr-roller-coaster-cave-depths.json](./75659-vr-roller-coaster-cave-depths.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
 | VR Rome | 111385 | [111385-vr-rome.json](./111385-vr-rome.json) |
