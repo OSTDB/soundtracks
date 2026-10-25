@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -784,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Santa | 281946 | [281946-bad-santa.json](./281946-bad-santa.json) |
 | Bad School Boy | 81160 | [81160-bad-school-boy.json](./81160-bad-school-boy.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
+| Bad Sector HDD | 31203 | [31203-bad-sector-hdd.json](./31203-bad-sector-hdd.json) |
 | Bad Shooter 2 | 55284 | [55284-bad-shooter-2.json](./55284-bad-shooter-2.json) |
 | Bad Smell | 62083 | [62083-bad-smell.json](./62083-bad-smell.json) |
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
@@ -3608,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles of Cardista | 356653 | [356653-battles-of-cardista.json](./356653-battles-of-cardista.json) |
 | Battles of Destiny | 19704 | [19704-battles-of-destiny.json](./19704-battles-of-destiny.json) |
 | Battles of Kursk: Southern Flank | 59312 | [59312-battles-of-kursk-southern-flank.json](./59312-battles-of-kursk-southern-flank.json) |
+| Battles of Norghan | 31233 | [31233-battles-of-norghan.json](./31233-battles-of-norghan.json) |
 | Battles of Normandy | 59319 | [59319-battles-of-normandy.json](./59319-battles-of-normandy.json) |
 | Battles of Prince of Persia | 20485 | [20485-battles-of-prince-of-persia.json](./20485-battles-of-prince-of-persia.json) |
 | Battles of the Ancient World | 67597 | [67597-battles-of-the-ancient-world.json](./67597-battles-of-the-ancient-world.json) |
@@ -5693,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Pearl Harbor: Pacific Warriors | 37289 | [37289-beyond-pearl-harbor-pacific-warriors.json](./37289-beyond-pearl-harbor-pacific-warriors.json) |
 | Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
 | Beyond Polaris Guardian | 161589 | [161589-beyond-polaris-guardian.json](./161589-beyond-polaris-guardian.json) |
+| Beyond Power VR | 31245 | [31245-beyond-power-vr.json](./31245-beyond-power-vr.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
 | Beyond Reach | 316725 | [316725-beyond-reach.json](./316725-beyond-reach.json) |
 | Beyond Reality | 317339 | [317339-beyond-reality.json](./317339-beyond-reality.json) |
@@ -12217,6 +12221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braxx Bluff | 13435 | [13435-braxx-bluff.json](./13435-braxx-bluff.json) |
 | Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
 | Brayz | 407998 | [407998-brayz.json](./407998-brayz.json) |
+| Brazed | 32443 | [32443-brazed.json](./32443-brazed.json) |
 | Brazen | 399776 | [399776-brazen.json](./399776-brazen.json) |
 | Brazen | 64256 | [64256-brazen.json](./64256-brazen.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
