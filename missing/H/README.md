@@ -8859,6 +8859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houma Hunter Lime: Special Collection Vol. 1 | 117026 | [117026-houma-hunter-lime-special-collection-vol-1.json](./117026-houma-hunter-lime-special-collection-vol-1.json) |
 | Houma Hunter Lime: Special Collection Vol.2 | 166538 | [166538-houma-hunter-lime-special-collection-vol-2.json](./166538-houma-hunter-lime-special-collection-vol-2.json) |
 | Hound | 30316 | [30316-hound.json](./30316-hound.json) |
+| Hound Riders | 415780 | [415780-hound-riders.json](./415780-hound-riders.json) |
 | Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
 | Hounded | 347083 | [347083-hounded.json](./347083-hounded.json) |
 | Hounds: The Last Hope | 35373 | [35373-hounds-the-last-hope.json](./35373-hounds-the-last-hope.json) |
