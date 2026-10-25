@@ -7373,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loved by King Bs | 202707 | [202707-loved-by-king-bs.json](./202707-loved-by-king-bs.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
 | Lovehammer 400 000: The Buttlerian Crusade | 131831 | [131831-lovehammer-400-000-the-buttlerian-crusade.json](./131831-lovehammer-400-000-the-buttlerian-crusade.json) |
+| Lovejuiced!: Hi Neighbor, meet Gamer | 392989 | [392989-lovejuiced-hi-neighbor-meet-gamer.json](./392989-lovejuiced-hi-neighbor-meet-gamer.json) |
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
 | LoveKami -Useless Goddess- | 28375 | [28375-lovekami-useless-goddess.json](./28375-lovekami-useless-goddess.json) |
 | LoveKami Trilogy | 381756 | [381756-lovekami-trilogy.json](./381756-lovekami-trilogy.json) |
