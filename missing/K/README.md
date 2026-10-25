@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
 | KelimeLink | 409855 | [409855-kelimelink.json](./409855-kelimelink.json) |
 | Kelipot | 121851 | [121851-kelipot.json](./121851-kelipot.json) |
+| Kellogg's Frosties Gr-r-rand Prix | 398944 | [398944-kelloggs-frosties-gr-r-rand-prix.json](./398944-kelloggs-frosties-gr-r-rand-prix.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
@@ -2204,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killfest | 232932 | [232932-killfest.json](./232932-killfest.json) |
 | KillFish | 278925 | [278925-killfish.json](./278925-killfish.json) |
 | Killflow | 400500 | [400500-killflow.json](./400500-killflow.json) |
+| Killgun | 399045 | [399045-killgun.json](./399045-killgun.json) |
 | Killing a Superstar | 160228 | [160228-killing-a-superstar.json](./160228-killing-a-superstar.json) |
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
@@ -2311,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -4567,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kotone no Shuki Shuki Polynesian Sex | 398693 | [398693-kotone-no-shuki-shuki-polynesian-sex.json](./398693-kotone-no-shuki-shuki-polynesian-sex.json) |
+| Kotonoha Decadence | 398987 | [398987-kotonoha-decadence.json](./398987-kotonoha-decadence.json) |
 | Kotonoha Lernado | 250245 | [250245-kotonoha-lernado.json](./250245-kotonoha-lernado.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
 | Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
