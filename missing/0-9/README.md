@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 MiniBattles | 139356 | [139356-12-minibattles.json](./139356-12-minibattles.json) |
 | 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
 | 12 pm Break | 262992 | [262992-12-pm-break.json](./262992-12-pm-break.json) |
+| 12 Rounds Against Satan | 100913 | [100913-12-rounds-against-satan.json](./100913-12-rounds-against-satan.json) |
 | 12 Vengeful Ghosts | 305864 | [305864-12-vengeful-ghosts.json](./305864-12-vengeful-ghosts.json) |
 | 12 Word Searches | 381921 | [381921-12-word-searches.json](./381921-12-word-searches.json) |
 | 12-ji no Kane to Cinderella ~Halloween Wedding~ | 56552 | [56552-12-ji-no-kane-to-cinderella-halloween-wedding.json](./56552-12-ji-no-kane-to-cinderella-halloween-wedding.json) |
@@ -911,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Jellyfish | 176793 | [176793-13-jellyfish.json](./176793-13-jellyfish.json) |
 | 13 Laurel Road | 177834 | [177834-13-laurel-road.json](./177834-13-laurel-road.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
+| 13 Letters: Deluxe Edition | 100897 | [100897-13-letters-deluxe-edition.json](./100897-13-letters-deluxe-edition.json) |
 | 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
 | 13 Minutes of Light | 98413 | [98413-13-minutes-of-light.json](./98413-13-minutes-of-light.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
