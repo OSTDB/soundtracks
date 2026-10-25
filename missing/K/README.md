@@ -1112,7 +1112,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawasaki Caribbean Challenge | 42508 | [42508-kawasaki-caribbean-challenge.json](./42508-kawasaki-caribbean-challenge.json) |
 | Kawasaki Devils | 376881 | [376881-kawasaki-devils.json](./376881-kawasaki-devils.json) |
 | Kawasaki Fantasy Motocross | 91690 | [91690-kawasaki-fantasy-motocross.json](./91690-kawasaki-fantasy-motocross.json) |
+| Kawasaki Jet Ski | 4950 | [4950-kawasaki-jet-ski.json](./4950-kawasaki-jet-ski.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
+| Kawasaki Quad Bikes | 4951 | [4951-kawasaki-quad-bikes.json](./4951-kawasaki-quad-bikes.json) |
 | Kawasaki Snowmobiles | 4952 | [4952-kawasaki-snowmobiles.json](./4952-kawasaki-snowmobiles.json) |
 | Kawasaki Superbike Challenge | 46540 | [46540-kawasaki-superbike-challenge.json](./46540-kawasaki-superbike-challenge.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
@@ -2508,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bowling 2: Professional-hen | 166544 | [166544-king-of-bowling-2-professional-hen.json](./166544-king-of-bowling-2-professional-hen.json) |
 | King of Bowling 3 | 278873 | [278873-king-of-bowling-3.json](./278873-king-of-bowling-3.json) |
 | King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
+| King of Clubs | 4958 | [4958-king-of-clubs.json](./4958-king-of-clubs.json) |
 | King of Conquerors | 211175 | [211175-king-of-conquerors.json](./211175-king-of-conquerors.json) |
 | King of Cooking | 151158 | [151158-king-of-cooking.json](./151158-king-of-cooking.json) |
 | King of Crabs | 133077 | [133077-king-of-crabs.json](./133077-king-of-crabs.json) |
@@ -4908,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda Holiday | 74856 | [74856-kung-fu-panda-holiday.json](./74856-kung-fu-panda-holiday.json) |
 | Kung Fu Panda World | 357266 | [357266-kung-fu-panda-world.json](./357266-kung-fu-panda-world.json) |
 | Kung Fu Panda: Legendary Warriors | 259266 | [259266-kung-fu-panda-legendary-warriors.json](./259266-kung-fu-panda-legendary-warriors.json) |
+| Kung Fu Panda: Legendary Warriors | 4963 | [4963-kung-fu-panda-legendary-warriors.json](./4963-kung-fu-panda-legendary-warriors.json) |
 | Kung Fu Panda: Path of the Panda | 70689 | [70689-kung-fu-panda-path-of-the-panda.json](./70689-kung-fu-panda-path-of-the-panda.json) |
 | Kung Fu Panda: Showdown of Legendary Legends | 20089 | [20089-kung-fu-panda-showdown-of-legendary-legends.json](./20089-kung-fu-panda-showdown-of-legendary-legends.json) |
 | Kung Fu Panda: Showdown of Legendary Legends - Armored Mr. Ping and Jombie Oogway | 170753 | [170753-kung-fu-panda-showdown-of-legendary-legends-armored-mr-ping-and-jombie-oogway.json](./170753-kung-fu-panda-showdown-of-legendary-legends-armored-mr-ping-and-jombie-oogway.json) |
