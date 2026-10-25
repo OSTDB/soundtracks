@@ -4362,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Toy Warrior - Legendary Ninja Fight | 100935 | [100935-ninja-toy-warrior-legendary-ninja-fight.json](./100935-ninja-toy-warrior-legendary-ninja-fight.json) |
 | Ninja Trip | 102726 | [102726-ninja-trip.json](./102726-ninja-trip.json) |
 | Ninja Turtles: The Next Mutation | 198840 | [198840-ninja-turtles-the-next-mutation.json](./198840-ninja-turtles-the-next-mutation.json) |
+| Ninja Tycoon | 83811 | [83811-ninja-tycoon.json](./83811-ninja-tycoon.json) |
 | Ninja USA | 100277 | [100277-ninja-usa.json](./100277-ninja-usa.json) |
 | Ninja Usagimaru: The Mysterious Karakuri Castle | 44391 | [44391-ninja-usagimaru-the-mysterious-karakuri-castle.json](./44391-ninja-usagimaru-the-mysterious-karakuri-castle.json) |
 | Ninja Usagimaru: Two Tails of Adventure | 44484 | [44484-ninja-usagimaru-two-tails-of-adventure.json](./44484-ninja-usagimaru-two-tails-of-adventure.json) |
