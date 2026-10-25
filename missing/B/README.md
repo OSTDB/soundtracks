@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Deluxe | 69568 | [69568-backgammon-deluxe.json](./69568-backgammon-deluxe.json) |
 | Backgammon Live | 245322 | [245322-backgammon-live.json](./245322-backgammon-live.json) |
 | Backgammon Master | 346110 | [346110-backgammon-master.json](./346110-backgammon-master.json) |
+| Backgammon NJ HD | 91981 | [91981-backgammon-nj-hd.json](./91981-backgammon-nj-hd.json) |
 | Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
 | Backgammon Pro for Nintendo Switch | 245986 | [245986-backgammon-pro-for-nintendo-switch.json](./245986-backgammon-pro-for-nintendo-switch.json) |
 | Backgammon Professional | 338799 | [338799-backgammon-professional.json](./338799-backgammon-professional.json) |
@@ -1275,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball-istic | 258436 | [258436-ball-istic.json](./258436-ball-istic.json) |
 | Ball-it Hell | 302492 | [302492-ball-it-hell.json](./302492-ball-it-hell.json) |
 | Ball.io | 171880 | [171880-ball-io.json](./171880-ball-io.json) |
+| Ball's Journey | 92113 | [92113-balls-journey.json](./92113-balls-journey.json) |
 | Ballad of Angels | 310927 | [310927-ballad-of-angels.json](./310927-ballad-of-angels.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
 | Ballad of Ba'al | 189181 | [189181-ballad-of-baal.json](./189181-ballad-of-baal.json) |
@@ -4037,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Bovver | 13812 | [13812-bear-bovver.json](./13812-bear-bovver.json) |
 | Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
+| Bear Football | 93598 | [93598-bear-football.json](./93598-bear-football.json) |
 | Bear Haven Nights | 33743 | [33743-bear-haven-nights.json](./33743-bear-haven-nights.json) |
 | Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
 | Bear Horror | 408726 | [408726-bear-horror.json](./408726-bear-horror.json) |
@@ -7301,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dog Bar | 216623 | [216623-black-dog-bar.json](./216623-black-dog-bar.json) |
 | Black Dragon | 38590 | [38590-black-dragon.json](./38590-black-dragon.json) |
+| Black Dream | 93713 | [93713-black-dream.json](./93713-black-dream.json) |
 | Black Dungeon | 303368 | [303368-black-dungeon.json](./303368-black-dungeon.json) |
 | Black Dungeon: Draw A Card | 347195 | [347195-black-dungeon-draw-a-card.json](./347195-black-dungeon-draw-a-card.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
@@ -7437,6 +7441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Plague | 405942 | [405942-black-plague.json](./405942-black-plague.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
+| Black Powder \| Red Earth | 92764 | [92764-black-powder-red-earth.json](./92764-black-powder-red-earth.json) |
 | Black Powder Desolation | 260539 | [260539-black-powder-desolation.json](./260539-black-powder-desolation.json) |
 | Black Prophecy | 11509 | [11509-black-prophecy.json](./11509-black-prophecy.json) |
 | Black Prophecy | 280361 | [280361-black-prophecy.json](./280361-black-prophecy.json) |
@@ -8167,6 +8172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleakwood | 304574 | [304574-bleakwood.json](./304574-bleakwood.json) |
 | Bleap | 352247 | [352247-bleap.json](./352247-bleap.json) |
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
+| Blebrity | 89176 | [89176-blebrity.json](./89176-blebrity.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
 | Bleed + Bleed 2: Limited Edition | 167059 | [167059-bleed-bleed-2-limited-edition.json](./167059-bleed-bleed-2-limited-edition.json) |
 | Bleed 2 | 26725 | [26725-bleed-2.json](./26725-bleed-2.json) |
@@ -11099,6 +11105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
 | Bottom of the 9th | 3369 | [3369-bottom-of-the-9th.json](./3369-bottom-of-the-9th.json) |
+| Bottom of the 9th | 93658 | [93658-bottom-of-the-9th.json](./93658-bottom-of-the-9th.json) |
 | Bottom of the 9th '97 | 43857 | [43857-bottom-of-the-9th-97.json](./43857-bottom-of-the-9th-97.json) |
 | Bottom of the 9th '99 | 43856 | [43856-bottom-of-the-9th-99.json](./43856-bottom-of-the-9th-99.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
