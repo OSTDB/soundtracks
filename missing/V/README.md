@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeful Bat Dungeon Crawler | 116837 | [116837-vengeful-bat-dungeon-crawler.json](./116837-vengeful-bat-dungeon-crawler.json) |
 | Vengeful Guardian: Moonrider | 213741 | [213741-vengeful-guardian-moonrider.json](./213741-vengeful-guardian-moonrider.json) |
 | Vengeful Heart | 120056 | [120056-vengeful-heart.json](./120056-vengeful-heart.json) |
+| Vengeful Rites | 103064 | [103064-vengeful-rites.json](./103064-vengeful-rites.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice | 14810 | [14810-venice.json](./14810-venice.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
@@ -1743,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: School | 89609 | [89609-viki-spotter-school.json](./89609-viki-spotter-school.json) |
 | Viki Spotter: Space Mission | 97116 | [97116-viki-spotter-space-mission.json](./97116-viki-spotter-space-mission.json) |
 | Viki Spotter: Sports | 99088 | [99088-viki-spotter-sports.json](./99088-viki-spotter-sports.json) |
+| Viki Spotter: Zoo | 107511 | [107511-viki-spotter-zoo.json](./107511-viki-spotter-zoo.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
 | Viking | 41184 | [41184-viking.json](./41184-viking.json) |
 | Viking Age: Odin’s Warrior | 103414 | [103414-viking-age-odin-s-warrior.json](./103414-viking-age-odin-s-warrior.json) |
@@ -2216,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Monster Battle | 206446 | [206446-virtual-monster-battle.json](./206446-virtual-monster-battle.json) |
 | Virtual Mother Family Game: Working Mom Simulator | 101587 | [101587-virtual-mother-family-game-working-mom-simulator.json](./101587-virtual-mother-family-game-working-mom-simulator.json) |
 | Virtual Mother Home Chef Family Simulator | 103903 | [103903-virtual-mother-home-chef-family-simulator.json](./103903-virtual-mother-home-chef-family-simulator.json) |
+| Virtual Mother New Baby Twins Family Simulator | 101558 | [101558-virtual-mother-new-baby-twins-family-simulator.json](./101558-virtual-mother-new-baby-twins-family-simulator.json) |
 | Virtual Mother Twins Baby | 296743 | [296743-virtual-mother-twins-baby.json](./296743-virtual-mother-twins-baby.json) |
 | Virtual Murder 1: Who Killed Sam Rupert? | 73604 | [73604-virtual-murder-1-who-killed-sam-rupert.json](./73604-virtual-murder-1-who-killed-sam-rupert.json) |
 | Virtual Murder 2: The Magic Death | 71929 | [71929-virtual-murder-2-the-magic-death.json](./71929-virtual-murder-2-the-magic-death.json) |
