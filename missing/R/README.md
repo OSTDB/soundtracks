@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Madness | 280261 | [280261-realms-of-madness.json](./280261-realms-of-madness.json) |
 | Realms of Magic | 76686 | [76686-realms-of-magic.json](./76686-realms-of-magic.json) |
 | Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
+| Realms of Resurgence | 423222 | [423222-realms-of-resurgence.json](./423222-realms-of-resurgence.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
 | Realms of Riddles: Wizards'Keep | 273794 | [273794-realms-of-riddles-wizardskeep.json](./273794-realms-of-riddles-wizardskeep.json) |
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
@@ -2756,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebeloid VR | 364978 | [364978-rebeloid-vr.json](./364978-rebeloid-vr.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels and Redcoats II | 194171 | [194171-rebels-and-redcoats-ii.json](./194171-rebels-and-redcoats-ii.json) |
+| Rebels of the Realm | 423306 | [423306-rebels-of-the-realm.json](./423306-rebels-of-the-realm.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebels: Under the Spell of Magic | 150777 | [150777-rebels-under-the-spell-of-magic.json](./150777-rebels-under-the-spell-of-magic.json) |
 | Rebels: Under the Spell of Magic - Chapter 2 | 193149 | [193149-rebels-under-the-spell-of-magic-chapter-2.json](./193149-rebels-under-the-spell-of-magic-chapter-2.json) |
@@ -8274,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue State | 20358 | [20358-rogue-state.json](./20358-rogue-state.json) |
 | Rogue State Revolution | 122070 | [122070-rogue-state-revolution.json](./122070-rogue-state-revolution.json) |
 | Rogue Stormers | 17374 | [17374-rogue-stormers.json](./17374-rogue-stormers.json) |
+| Rogue Suits | 423228 | [423228-rogue-suits.json](./423228-rogue-suits.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Sweeper | 151090 | [151090-rogue-sweeper.json](./151090-rogue-sweeper.json) |
@@ -9150,6 +9153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rota's Nautical Chronicles of Trade: Nekozeno Shin - Collaboration Commemorative Residentization DLC | 323258 | [323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json](./323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotaeno | 121276 | [121276-rotaeno.json](./121276-rotaeno.json) |
+| Rotaliate | 423214 | [423214-rotaliate.json](./423214-rotaliate.json) |
 | Rotata | 349184 | [349184-rotata.json](./349184-rotata.json) |
 | Rotate 'N' Shoot | 176155 | [176155-rotate-n-shoot.json](./176155-rotate-n-shoot.json) |
 | Rotate & Roll | 342600 | [342600-rotate-and-roll.json](./342600-rotate-and-roll.json) |
@@ -10398,6 +10402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush VR | 110864 | [110864-rush-vr.json](./110864-rush-vr.json) |
 | Rush Wars | 122044 | [122044-rush-wars.json](./122044-rush-wars.json) |
+| Rush Your Band | 423229 | [423229-rush-your-band.json](./423229-rush-your-band.json) |
 | Rush: Run Up Super High | 258354 | [258354-rush-run-up-super-high.json](./258354-rush-run-up-super-high.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
 | Rush'n Attack | 287587 | [287587-rushn-attack.json](./287587-rushn-attack.json) |
