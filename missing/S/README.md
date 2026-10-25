@@ -4695,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sergeant Seymour RobotCop | 39166 | [39166-sergeant-seymour-robotcop.json](./39166-sergeant-seymour-robotcop.json) |
 | Sergeant Squidley: Space Cop! | 236895 | [236895-sergeant-squidley-space-cop.json](./236895-sergeant-squidley-space-cop.json) |
 | Sergei and the Tax Return | 289267 | [289267-sergei-and-the-tax-return.json](./289267-sergei-and-the-tax-return.json) |
+| Sergei Bubka's Millennium Games | 24138 | [24138-sergei-bubkas-millennium-games.json](./24138-sergei-bubkas-millennium-games.json) |
 | Serguei's Destiny | 74041 | [74041-sergueis-destiny.json](./74041-sergueis-destiny.json) |
 | Sergueis Destiny | 230188 | [230188-sergueis-destiny.json](./230188-sergueis-destiny.json) |
 | Serial Assault: The Memory of the Summer. | 97478 | [97478-serial-assault-the-memory-of-the-summer.json](./97478-serial-assault-the-memory-of-the-summer.json) |
@@ -18435,6 +18436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Goes to Hollywood | 4454 | [4454-spot-goes-to-hollywood.json](./4454-spot-goes-to-hollywood.json) |
 | Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
 | Spot It in the Picture! Worldwide Knowledge x Academic Quiz | 409516 | [409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json](./409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json) |
+| Spot It! Mean Machines | 23679 | [23679-spot-it-mean-machines.json](./23679-spot-it-mean-machines.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
 | Spot the Diff 3D | 268955 | [268955-spot-the-diff-3d.json](./268955-spot-the-diff-3d.json) |
@@ -18678,6 +18680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Hunter: Nowhere to Run | 6155 | [6155-spy-hunter-nowhere-to-run.json](./6155-spy-hunter-nowhere-to-run.json) |
 | Spy Intrigue | 59687 | [59687-spy-intrigue.json](./59687-spy-intrigue.json) |
 | Spy Kids 2: Mega Mission Zone | 9207 | [9207-spy-kids-2-mega-mission-zone.json](./9207-spy-kids-2-mega-mission-zone.json) |
+| Spy Kids 3-D: Game Over | 23693 | [23693-spy-kids-3-d-game-over.json](./23693-spy-kids-3-d-game-over.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
 | Spy Kids Learning Adventures: Mission - The Nightmare Machine | 73205 | [73205-spy-kids-learning-adventures-mission-the-nightmare-machine.json](./73205-spy-kids-learning-adventures-mission-the-nightmare-machine.json) |
@@ -19799,6 +19802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Infinite - Deluxe Edition | 265851 | [265851-star-trek-infinite-deluxe-edition.json](./265851-star-trek-infinite-deluxe-edition.json) |
 | Star Trek: Infinite - Designing the Galaxy | 271921 | [271921-star-trek-infinite-designing-the-galaxy.json](./271921-star-trek-infinite-designing-the-galaxy.json) |
 | Star Trek: Infinite Space | 65900 | [65900-star-trek-infinite-space.json](./65900-star-trek-infinite-space.json) |
+| Star Trek: Invasion | 24155 | [24155-star-trek-invasion.json](./24155-star-trek-invasion.json) |
 | Star Trek: Judgment Rites | 2229 | [2229-star-trek-judgment-rites.json](./2229-star-trek-judgment-rites.json) |
 | Star Trek: Judgment Rites Movie & Sound Pack | 131180 | [131180-star-trek-judgment-rites-movie-and-sound-pack.json](./131180-star-trek-judgment-rites-movie-and-sound-pack.json) |
 | Star Trek: Klingon Academy | 19627 | [19627-star-trek-klingon-academy.json](./19627-star-trek-klingon-academy.json) |
@@ -27172,6 +27176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbike GP | 43328 | [43328-superbike-gp.json](./43328-superbike-gp.json) |
 | Superbike Masters | 43860 | [43860-superbike-masters.json](./43860-superbike-masters.json) |
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
+| Superbikes Riding Challenge | 23130 | [23130-superbikes-riding-challenge.json](./23130-superbikes-riding-challenge.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
 | Superbot Arena | 257979 | [257979-superbot-arena.json](./257979-superbot-arena.json) |
 | Superbowl | 172527 | [172527-superbowl.json](./172527-superbowl.json) |
