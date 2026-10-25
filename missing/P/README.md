@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paca Plus Minus | 63136 | [63136-paca-plus-minus.json](./63136-paca-plus-minus.json) |
 | Paca Plus Plus! | 63135 | [63135-paca-plus-plus.json](./63135-paca-plus-plus.json) |
 | Pacapaca Passion | 139118 | [139118-pacapaca-passion.json](./139118-pacapaca-passion.json) |
+| PacaPlus | 29104 | [29104-pacaplus.json](./29104-pacaplus.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
 | Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
 | Pacar | 6122 | [6122-pacar.json](./6122-pacar.json) |
@@ -4397,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Signal | 81703 | [81703-phantom-signal.json](./81703-phantom-signal.json) |
 | Phantom Smog | 391083 | [391083-phantom-smog.json](./391083-phantom-smog.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
+| Phantom Soldier | 29110 | [29110-phantom-soldier.json](./29110-phantom-soldier.json) |
 | Phantom Spider | 119434 | [119434-phantom-spider.json](./119434-phantom-spider.json) |
 | Phantom Squad | 291391 | [291391-phantom-squad.json](./291391-phantom-squad.json) |
 | Phantom Stars | 297184 | [297184-phantom-stars.json](./297184-phantom-stars.json) |
@@ -7625,6 +7627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetCon | 114780 | [114780-planetcon.json](./114780-planetcon.json) |
 | PlanetDrop: A Tiny Space Adventure | 180011 | [180011-planetdrop-a-tiny-space-adventure.json](./180011-planetdrop-a-tiny-space-adventure.json) |
 | Planetes | 184628 | [184628-planetes.json](./184628-planetes.json) |
+| Planetes | 29094 | [29094-planetes.json](./29094-planetes.json) |
 | PlanetExplorerVR | 101566 | [101566-planetexplorervr.json](./101566-planetexplorervr.json) |
 | Planetfall | 12620 | [12620-planetfall.json](./12620-planetfall.json) |
 | PlanetForge Protocol | 404360 | [404360-planetforge-protocol.json](./404360-planetforge-protocol.json) |
@@ -9483,6 +9486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Puzzle Pokers Wii | 408944 | [408944-poker-puzzle-pokers-wii.json](./408944-poker-puzzle-pokers-wii.json) |
 | Poker Relay | 328422 | [328422-poker-relay.json](./328422-poker-relay.json) |
 | Poker Rivals | 342478 | [342478-poker-rivals.json](./342478-poker-rivals.json) |
+| Poker Show VR | 29093 | [29093-poker-show-vr.json](./29093-poker-show-vr.json) |
 | Poker Smash | 21351 | [21351-poker-smash.json](./21351-poker-smash.json) |
 | Poker Soul | 213571 | [213571-poker-soul.json](./213571-poker-soul.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
@@ -12261,6 +12265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2012 | 10721 | [10721-pro-cycling-manager-2012.json](./10721-pro-cycling-manager-2012.json) |
 | Pro Cycling Manager 2013 | 10722 | [10722-pro-cycling-manager-2013.json](./10722-pro-cycling-manager-2013.json) |
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
+| Pro Cycling Manager 2016 | 19787 | [19787-pro-cycling-manager-2016.json](./19787-pro-cycling-manager-2016.json) |
 | Pro Cycling Manager 2017 | 37385 | [37385-pro-cycling-manager-2017.json](./37385-pro-cycling-manager-2017.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
 | Pro Cycling Manager 2021 | 145325 | [145325-pro-cycling-manager-2021.json](./145325-pro-cycling-manager-2021.json) |
