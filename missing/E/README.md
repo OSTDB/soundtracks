@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
 | E.x.p.l.o.r.: A New World | 148962 | [148962-e-x-p-l-o-r-a-new-world.json](./148962-e-x-p-l-o-r-a-new-world.json) |
 | E.Y.E: Divine Cybermancy | 6230 | [6230-e-y-e-divine-cybermancy.json](./6230-e-y-e-divine-cybermancy.json) |
+| E.Z | 86280 | [86280-e-z.json](./86280-e-z.json) |
 | E's Laf | 135884 | [135884-es-laf.json](./135884-es-laf.json) |
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi | 204482 | [204482-etude-prologue-yureugoku-kokoro-no-katachi.json](./204482-etude-prologue-yureugoku-kokoro-no-katachi.json) |
