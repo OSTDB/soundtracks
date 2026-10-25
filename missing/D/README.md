@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
 | Daisy Grotto | 264647 | [264647-daisy-grotto.json](./264647-daisy-grotto.json) |
 | Daisy's Crazy Adventure | 314712 | [314712-daisys-crazy-adventure.json](./314712-daisys-crazy-adventure.json) |
+| Daisy's Dead | 422691 | [422691-daisys-dead.json](./422691-daisys-dead.json) |
 | Daisy's Garden | 336605 | [336605-daisys-garden.json](./336605-daisys-garden.json) |
 | DaisyPop | 230230 | [230230-daisypop.json](./230230-daisypop.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
@@ -1365,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Maze 2 | 102393 | [102393-dark-maze-2.json](./102393-dark-maze-2.json) |
 | Dark Meadow: The Pact | 65599 | [65599-dark-meadow-the-pact.json](./65599-dark-meadow-the-pact.json) |
 | Dark Memories: Prologue | 284829 | [284829-dark-memories-prologue.json](./284829-dark-memories-prologue.json) |
+| Dark Memory | 422653 | [422653-dark-memory.json](./422653-dark-memory.json) |
 | Dark Menace | 381388 | [381388-dark-menace.json](./381388-dark-menace.json) |
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
@@ -2877,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hand | 120740 | [120740-dead-hand.json](./120740-dead-hand.json) |
 | Dead Hand | 380244 | [380244-dead-hand.json](./380244-dead-hand.json) |
+| Dead Hand | 422676 | [422676-dead-hand.json](./422676-dead-hand.json) |
 | Dead Hand Drive | 59132 | [59132-dead-hand-drive.json](./59132-dead-hand-drive.json) |
 | Dead Head Fred | 21047 | [21047-dead-head-fred.json](./21047-dead-head-fred.json) |
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
@@ -13507,6 +13510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
 | Drifty Pool | 187835 | [187835-drifty-pool.json](./187835-drifty-pool.json) |
+| DriftyLands | 422674 | [422674-driftylands.json](./422674-driftylands.json) |
 | DriftZ | 168133 | [168133-driftz.json](./168133-driftz.json) |
 | Drihoo | 194332 | [194332-drihoo.json](./194332-drihoo.json) |
 | DRiiFT Mania | 51117 | [51117-driift-mania.json](./51117-driift-mania.json) |
