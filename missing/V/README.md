@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant Force | 56568 | [56568-valiant-force.json](./56568-valiant-force.json) |
 | Valiant Gears | 130226 | [130226-valiant-gears.json](./130226-valiant-gears.json) |
 | Valiant Hearts: The Collection | 290111 | [290111-valiant-hearts-the-collection.json](./290111-valiant-hearts-the-collection.json) |
+| Valiant Knights: Typing Battle | 29053 | [29053-valiant-knights-typing-battle.json](./29053-valiant-knights-typing-battle.json) |
 | Valiant Rooster | 262413 | [262413-valiant-rooster.json](./262413-valiant-rooster.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
 | Valiant: Resurrection | 35281 | [35281-valiant-resurrection.json](./35281-valiant-resurrection.json) |
@@ -3121,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Catgirl | 162846 | [162846-vr-catgirl.json](./162846-vr-catgirl.json) |
 | VR Catgirl Isle 2100 | 325508 | [325508-vr-catgirl-isle-2100.json](./325508-vr-catgirl-isle-2100.json) |
 | VR Chair Games | 29227 | [29227-vr-chair-games.json](./29227-vr-chair-games.json) |
+| VR Coaster Extreme | 28994 | [28994-vr-coaster-extreme.json](./28994-vr-coaster-extreme.json) |
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
 | VR Cops: Pack 1 | 253020 | [253020-vr-cops-pack-1.json](./253020-vr-cops-pack-1.json) |
 | VR Crane Master | 51728 | [51728-vr-crane-master.json](./51728-vr-crane-master.json) |
