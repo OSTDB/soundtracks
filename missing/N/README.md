@@ -2532,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Go Home | 120880 | [120880-never-go-home.json](./120880-never-go-home.json) |
 | Never Going Home | 142299 | [142299-never-going-home.json](./142299-never-going-home.json) |
 | Never Gone | 110211 | [110211-never-gone.json](./110211-never-gone.json) |
+| Never Grave: The Witch and The Curse - Deluxe Edition | 393896 | [393896-never-grave-the-witch-and-the-curse-deluxe-edition.json](./393896-never-grave-the-witch-and-the-curse-deluxe-edition.json) |
 | Never Happened | 421829 | [421829-never-happened.json](./421829-never-happened.json) |
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never Not Shooting | 55625 | [55625-never-not-shooting.json](./55625-never-not-shooting.json) |
@@ -5109,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Haouden with Power Up Kit | 91186 | [91186-nobunagas-ambition-haouden-with-power-up-kit.json](./91186-nobunagas-ambition-haouden-with-power-up-kit.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
 | Nobunaga's Ambition: Iron Triangle | 21290 | [21290-nobunagas-ambition-iron-triangle.json](./21290-nobunagas-ambition-iron-triangle.json) |
+| Nobunaga's Ambition: Lord of Darkness | 394236 | [394236-nobunagas-ambition-lord-of-darkness.json](./394236-nobunagas-ambition-lord-of-darkness.json) |
 | Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
 | Nobunaga's Ambition: Reppuden with Power Up Kit | 55810 | [55810-nobunagas-ambition-reppuden-with-power-up-kit.json](./55810-nobunagas-ambition-reppuden-with-power-up-kit.json) |
