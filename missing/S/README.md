@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
 | Scavenger | 92066 | [92066-scavenger.json](./92066-scavenger.json) |
 | Scavenger Hunt | 214335 | [214335-scavenger-hunt.json](./214335-scavenger-hunt.json) |
+| Scavenger Hunt Find Hidden Objects | 393890 | [393890-scavenger-hunt-find-hidden-objects.json](./393890-scavenger-hunt-find-hidden-objects.json) |
 | Scavenger Hunt: Italy | 257327 | [257327-scavenger-hunt-italy.json](./257327-scavenger-hunt-italy.json) |
 | Scavenger Hunt: Switzerland | 253256 | [253256-scavenger-hunt-switzerland.json](./253256-scavenger-hunt-switzerland.json) |
 | Scavenger of Dunomini | 185952 | [185952-scavenger-of-dunomini.json](./185952-scavenger-of-dunomini.json) |
@@ -3952,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
 | Seed | 36953 | [36953-seed.json](./36953-seed.json) |
 | Seed | 383792 | [383792-seed.json](./383792-seed.json) |
+| Seed | 394683 | [394683-seed.json](./394683-seed.json) |
 | Seed | 403825 | [403825-seed.json](./403825-seed.json) |
 | Seed 2313 | 359604 | [359604-seed-2313.json](./359604-seed-2313.json) |
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
@@ -4023,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
 | Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
+| Seeker 3 | 394077 | [394077-seeker-3.json](./394077-seeker-3.json) |
 | Seeker Eye | 413757 | [413757-seeker-eye.json](./413757-seeker-eye.json) |
 | Seeker Neeko | 359853 | [359853-seeker-neeko.json](./359853-seeker-neeko.json) |
 | Seeker Of Shadows | 296625 | [296625-seeker-of-shadows.json](./296625-seeker-of-shadows.json) |
@@ -6705,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shiftlings: Enhanced Edition | 86377 | [86377-shiftlings-enhanced-edition.json](./86377-shiftlings-enhanced-edition.json) |
 | Shifty | 217777 | [217777-shifty.json](./217777-shifty.json) |
+| Shigaisen 200X-nen | 394043 | [394043-shigaisen-200x-nen.json](./394043-shigaisen-200x-nen.json) |
 | Shigatari | 55307 | [55307-shigatari.json](./55307-shigatari.json) |
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
 | Shigatsu Youka | 275642 | [275642-shigatsu-youka.json](./275642-shigatsu-youka.json) |
@@ -7112,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
 | Shio | 31393 | [31393-shio.json](./31393-shio.json) |
 | Shio: Deluxe Edition | 53597 | [53597-shio-deluxe-edition.json](./53597-shio-deluxe-edition.json) |
+| Shiokaze no Kieru Umi ni | 394418 | [394418-shiokaze-no-kieru-umi-ni.json](./394418-shiokaze-no-kieru-umi-ni.json) |
 | Shion no Ou: The Flowers of Hard Blood | 122896 | [122896-shion-no-ou-the-flowers-of-hard-blood.json](./122896-shion-no-ou-the-flowers-of-hard-blood.json) |
 | Shion to One Room: Kizuna Kirameku Koi Iroha SS | 371592 | [371592-shion-to-one-room-kizuna-kirameku-koi-iroha-ss.json](./371592-shion-to-one-room-kizuna-kirameku-koi-iroha-ss.json) |
 | Shiori no Kotoha: Dark Reflections | 186841 | [186841-shiori-no-kotoha-dark-reflections.json](./186841-shiori-no-kotoha-dark-reflections.json) |
@@ -7570,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty and the Catfish: Episode 2 | 181936 | [181936-shooty-and-the-catfish-episode-2.json](./181936-shooty-and-the-catfish-episode-2.json) |
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
 | Shooty Fruity | 54700 | [54700-shooty-fruity.json](./54700-shooty-fruity.json) |
+| Shooty McSpaceFace | 393891 | [393891-shooty-mcspaceface.json](./393891-shooty-mcspaceface.json) |
 | Shooty Mine | 129043 | [129043-shooty-mine.json](./129043-shooty-mine.json) |
 | Shooty Shooty Robot Invasion | 349889 | [349889-shooty-shooty-robot-invasion.json](./349889-shooty-shooty-robot-invasion.json) |
 | Shooty Skies | 59547 | [59547-shooty-skies.json](./59547-shooty-skies.json) |
@@ -8329,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidrial | 230164 | [230164-sidrial.json](./230164-sidrial.json) |
 | Siebenpolis | 308458 | [308458-siebenpolis.json](./308458-siebenpolis.json) |
 | Siebenstreich's Nerdventure | 150270 | [150270-siebenstreichs-nerdventure.json](./150270-siebenstreichs-nerdventure.json) |
+| Siege | 394227 | [394227-siege.json](./394227-siege.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Demolishers | 411500 | [411500-siege-demolishers.json](./411500-siege-demolishers.json) |
@@ -10744,6 +10751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Knight | 105925 | [105925-slashy-knight.json](./105925-slashy-knight.json) |
 | Slashy Souls | 18107 | [18107-slashy-souls.json](./18107-slashy-souls.json) |
 | Slashy Sushi | 99268 | [99268-slashy-sushi.json](./99268-slashy-sushi.json) |
+| SlashZero | 394680 | [394680-slashzero.json](./394680-slashzero.json) |
 | Slate | 312714 | [312714-slate.json](./312714-slate.json) |
 | Slaugher League | 141529 | [141529-slaugher-league.json](./141529-slaugher-league.json) |
 | Slaughter | 383031 | [383031-slaughter.json](./383031-slaughter.json) |
@@ -11494,6 +11502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slugterra: Slug Life | 188286 | [188286-slugterra-slug-life.json](./188286-slugterra-slug-life.json) |
 | Slugtrip | 347796 | [347796-slugtrip.json](./347796-slugtrip.json) |
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
+| Slumber | 394397 | [394397-slumber.json](./394397-slumber.json) |
 | Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
 | Slumberer's Universe | 226622 | [226622-slumberers-universe.json](./226622-slumberers-universe.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
@@ -11554,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64: Rocky Mountain Revisited | 256295 | [256295-sm64-rocky-mountain-revisited.json](./256295-sm64-rocky-mountain-revisited.json) |
 | SM64.z64 | 297540 | [297540-sm64-z64.json](./297540-sm64-z64.json) |
 | SM64CoOpDX | 307768 | [307768-sm64coopdx.json](./307768-sm64coopdx.json) |
+| SM64CoopDX: Kirby Deluxe! | 394592 | [394592-sm64coopdx-kirby-deluxe.json](./394592-sm64coopdx-kirby-deluxe.json) |
 | SM64DS: The Adventurous Journey | 315012 | [315012-sm64ds-the-adventurous-journey.json](./315012-sm64ds-the-adventurous-journey.json) |
 | SM64EX Coop | 198369 | [198369-sm64ex-coop.json](./198369-sm64ex-coop.json) |
 | SM64EX Coop: Lug's Delightful Dioramas | 378300 | [378300-sm64ex-coop-lugs-delightful-dioramas.json](./378300-sm64ex-coop-lugs-delightful-dioramas.json) |
@@ -15249,6 +15259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Park | 307846 | [307846-soul-park.json](./307846-soul-park.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Reaper | 128464 | [128464-soul-reaper.json](./128464-soul-reaper.json) |
+| Soul Reaper: Endless Harvest | 394407 | [394407-soul-reaper-endless-harvest.json](./394407-soul-reaper-endless-harvest.json) |
 | Soul Rebellion | 108071 | [108071-soul-rebellion.json](./108071-soul-rebellion.json) |
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
@@ -15537,6 +15548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souten no Shiroki Kami no Kura: Great Peak | 166501 | [166501-souten-no-shiroki-kami-no-kura-great-peak.json](./166501-souten-no-shiroki-kami-no-kura-great-peak.json) |
 | Souterrain | 413481 | [413481-souterrain.json](./413481-souterrain.json) |
 | South of Hell | 273560 | [273560-south-of-hell.json](./273560-south-of-hell.json) |
+| South of Midnight: Weaver's Edition | 394391 | [394391-south-of-midnight-weavers-edition.json](./394391-south-of-midnight-weavers-edition.json) |
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South of Real: Rough Beast | 124671 | [124671-south-of-real-rough-beast.json](./124671-south-of-real-rough-beast.json) |
 | South Pacific Quest | 69529 | [69529-south-pacific-quest.json](./69529-south-pacific-quest.json) |
@@ -15635,6 +15647,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sp!te | 108070 | [108070-sp-te.json](./108070-sp-te.json) |
 | Sp(l/r)ite | 277510 | [277510-sp-l-r-ite.json](./277510-sp-l-r-ite.json) |
 | Spa Mania | 32733 | [32733-spa-mania.json](./32733-spa-mania.json) |
+| Spa Massage Boys: Love & Relax | 393892 | [393892-spa-massage-boys-love-and-relax.json](./393892-spa-massage-boys-love-and-relax.json) |
+| Spa Massage Girls: Love & Relax | 393893 | [393893-spa-massage-girls-love-and-relax.json](./393893-spa-massage-girls-love-and-relax.json) |
 | Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
@@ -22476,6 +22490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storming the Grandmothership | 181227 | [181227-storming-the-grandmothership.json](./181227-storming-the-grandmothership.json) |
 | Stormlander | 378994 | [378994-stormlander.json](./378994-stormlander.json) |
 | Stormlord | 12781 | [12781-stormlord.json](./12781-stormlord.json) |
+| Stormlord | 393907 | [393907-stormlord.json](./393907-stormlord.json) |
 | Stormovik: Soviet Attack Fighter SU-25 | 79594 | [79594-stormovik-soviet-attack-fighter-su-25.json](./79594-stormovik-soviet-attack-fighter-su-25.json) |
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
 | Stormrise | 7197 | [7197-stormrise.json](./7197-stormrise.json) |
@@ -24984,6 +24999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunwards | 138467 | [138467-sunwards.json](./138467-sunwards.json) |
 | Sunwave Hotel | 204192 | [204192-sunwave-hotel.json](./204192-sunwave-hotel.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
+| Sunya no Karabako | 394572 | [394572-sunya-no-karabako.json](./394572-sunya-no-karabako.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
 | SUP Multiplayer Racing | 88760 | [88760-sup-multiplayer-racing.json](./88760-sup-multiplayer-racing.json) |
 | Supa Birdie Boi | 149200 | [149200-supa-birdie-boi.json](./149200-supa-birdie-boi.json) |
@@ -25647,6 +25663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Haste | 409791 | [409791-super-haste.json](./409791-super-haste.json) |
 | Super Haste: Debris DLC | 384296 | [384296-super-haste-debris-dlc.json](./384296-super-haste-debris-dlc.json) |
 | Super Haste: Exclusive Physical Edition | 397631 | [397631-super-haste-exclusive-physical-edition.json](./397631-super-haste-exclusive-physical-edition.json) |
+| Super Haste: Winter DLC | 394064 | [394064-super-haste-winter-dlc.json](./394064-super-haste-winter-dlc.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
 | Super Health Club | 191533 | [191533-super-health-club.json](./191533-super-health-club.json) |
 | Super Heavy Sword | 61134 | [61134-super-heavy-sword.json](./61134-super-heavy-sword.json) |
@@ -27115,6 +27132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Fighters Pass Bonus Mii Fighter Costume (Ancient Soldier) | 317688 | [317688-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-ancient-soldier.json](./317688-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-ancient-soldier.json) |
 | Super Smash Bros. Ultimate: Fighters Pass Vol. 2 | 133834 | [133834-super-smash-bros-ultimate-fighters-pass-vol-2.json](./133834-super-smash-bros-ultimate-fighters-pass-vol-2.json) |
 | Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
+| Super Smash Bros. Ultimate: Geralt of Rivia Moveset | 394594 | [394594-super-smash-bros-ultimate-geralt-of-rivia-moveset.json](./394594-super-smash-bros-ultimate-geralt-of-rivia-moveset.json) |
 | Super Smash Bros. Ultimate: Gil's Armor and Helmet | 306452 | [306452-super-smash-bros-ultimate-gils-armor-and-helmet.json](./306452-super-smash-bros-ultimate-gils-armor-and-helmet.json) |
 | Super Smash Bros. Ultimate: Goemon Outfit and Wig | 317672 | [317672-super-smash-bros-ultimate-goemon-outfit-and-wig.json](./317672-super-smash-bros-ultimate-goemon-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Gogeta Moveset | 376026 | [376026-super-smash-bros-ultimate-gogeta-moveset.json](./376026-super-smash-bros-ultimate-gogeta-moveset.json) |
@@ -27159,6 +27177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
 | Super Smash Bros. Ultimate: Waxing Crescent Meta Knight Moveset | 394597 | [394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json](./394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json) |
+| Super Smash Bros. Ultimate: Z Broly Moveset | 394593 | [394593-super-smash-bros-ultimate-z-broly-moveset.json](./394593-super-smash-bros-ultimate-z-broly-moveset.json) |
 | Super Smash Bros. Ultimate: Zero Moveset | 395033 | [395033-super-smash-bros-ultimate-zero-moveset.json](./395033-super-smash-bros-ultimate-zero-moveset.json) |
 | Super Smash Bros. Ultimate: Zero's Armor and Helmet | 317937 | [317937-super-smash-bros-ultimate-zeros-armor-and-helmet.json](./317937-super-smash-bros-ultimate-zeros-armor-and-helmet.json) |
 | Super Smash Flash 2 | 14247 | [14247-super-smash-flash-2.json](./14247-super-smash-flash-2.json) |
