@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbor Master | 67604 | [67604-harbor-master.json](./67604-harbor-master.json) |
 | Harbor Tycoon | 192228 | [192228-harbor-tycoon.json](./192228-harbor-tycoon.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
+| Harbour Attack | 423204 | [423204-harbour-attack.json](./423204-harbour-attack.json) |
 | Harbour Master | 206089 | [206089-harbour-master.json](./206089-harbour-master.json) |
 | Harca | 340413 | [340413-harca.json](./340413-harca.json) |
 | Hard 'n' Heavy | 47178 | [47178-hard-n-heavy.json](./47178-hard-n-heavy.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Destiny | 396481 | [396481-heros-destiny.json](./396481-heros-destiny.json) |
 | Hero's Everyday Life | 157706 | [157706-heros-everyday-life.json](./157706-heros-everyday-life.json) |
 | Hero's Fever Dream | 255558 | [255558-heros-fever-dream.json](./255558-heros-fever-dream.json) |
+| Hero's Guild | 423304 | [423304-heros-guild.json](./423304-heros-guild.json) |
 | Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
 | Hero's Heart | 50485 | [50485-heros-heart.json](./50485-heros-heart.json) |
 | Hero's Hour 2 | 381190 | [381190-heros-hour-2.json](./381190-heros-hour-2.json) |
