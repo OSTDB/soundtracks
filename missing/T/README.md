@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talevania | 235613 | [235613-talevania.json](./235613-talevania.json) |
 | Talewarden: Riders of the New Day | 361248 | [361248-talewarden-riders-of-the-new-day.json](./361248-talewarden-riders-of-the-new-day.json) |
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
+| Talewyn Harbor | 422013 | [422013-talewyn-harbor.json](./422013-talewyn-harbor.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
 | Talion | 109508 | [109508-talion.json](./109508-talion.json) |
 | Talisman | 32540 | [32540-talisman.json](./32540-talisman.json) |
@@ -3287,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenet of the Spark | 249701 | [249701-tenet-of-the-spark.json](./249701-tenet-of-the-spark.json) |
 | Tenfold Loop | 290856 | [290856-tenfold-loop.json](./290856-tenfold-loop.json) |
 | Tenfold Tales | 365831 | [365831-tenfold-tales.json](./365831-tenfold-tales.json) |
+| Tenfold: Number Puzzle | 422031 | [422031-tenfold-number-puzzle.json](./422031-tenfold-number-puzzle.json) |
 | Tengai | 79156 | [79156-tengai.json](./79156-tengai.json) |
 | Tengai Makyou Zero | 38186 | [38186-tengai-makyou-zero.json](./38186-tengai-makyou-zero.json) |
 | Tengai Makyou Zero: Shonen Jump no Shou | 186735 | [186735-tengai-makyou-zero-shonen-jump-no-shou.json](./186735-tengai-makyou-zero-shonen-jump-no-shou.json) |
@@ -3729,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraforming Mars: Hellas & Elysium | 199774 | [199774-terraforming-mars-hellas-and-elysium.json](./199774-terraforming-mars-hellas-and-elysium.json) |
 | Terraforming Mars: Venus Next | 273965 | [273965-terraforming-mars-venus-next.json](./273965-terraforming-mars-venus-next.json) |
 | Terrafort | 285966 | [285966-terrafort.json](./285966-terrafort.json) |
+| TerraFront | 422055 | [422055-terrafront.json](./422055-terrafront.json) |
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
 | TerraGenesis: Landfall | 213339 | [213339-terragenesis-landfall.json](./213339-terragenesis-landfall.json) |
@@ -10685,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
 | The Living Dungeon | 21316 | [21316-the-living-dungeon.json](./21316-the-living-dungeon.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
+| The Living Graveyard | 422052 | [422052-the-living-graveyard.json](./422052-the-living-graveyard.json) |
 | The Living Handra | 186669 | [186669-the-living-handra.json](./186669-the-living-handra.json) |
 | The Living Remain | 103536 | [103536-the-living-remain.json](./103536-the-living-remain.json) |
 | The Lizard King | 239154 | [239154-the-lizard-king.json](./239154-the-lizard-king.json) |
@@ -10887,6 +10891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Heir 3: Demon War | 27875 | [27875-the-lost-heir-3-demon-war.json](./27875-the-lost-heir-3-demon-war.json) |
 | The Lost Heir: The Fall of Daria | 33594 | [33594-the-lost-heir-the-fall-of-daria.json](./33594-the-lost-heir-the-fall-of-daria.json) |
 | The Lost Hotel | 253395 | [253395-the-lost-hotel.json](./253395-the-lost-hotel.json) |
+| The Lost Hunter | 422048 | [422048-the-lost-hunter.json](./422048-the-lost-hunter.json) |
 | The Lost Identity | 417354 | [417354-the-lost-identity.json](./417354-the-lost-identity.json) |
 | The Lost Inca Prophecy | 63122 | [63122-the-lost-inca-prophecy.json](./63122-the-lost-inca-prophecy.json) |
 | The Lost Island | 194248 | [194248-the-lost-island.json](./194248-the-lost-island.json) |
@@ -11247,6 +11252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Message | 60409 | [60409-the-message.json](./60409-the-message.json) |
 | The Messenger | 44838 | [44838-the-messenger.json](./44838-the-messenger.json) |
 | The Messenger | 71628 | [71628-the-messenger.json](./71628-the-messenger.json) |
+| The Messenger from Athens at Marathon | 422053 | [422053-the-messenger-from-athens-at-marathon.json](./422053-the-messenger-from-athens-at-marathon.json) |
 | The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Metronomicon: Deluxe Edition | 53761 | [53761-the-metronomicon-deluxe-edition.json](./53761-the-metronomicon-deluxe-edition.json) |
@@ -21312,6 +21318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
 | Toss | 402223 | [402223-toss.json](./402223-toss.json) |
 | Toss King | 226753 | [226753-toss-king.json](./226753-toss-king.json) |
+| Toss Office | 422029 | [422029-toss-office.json](./422029-toss-office.json) |
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Toss! | 138028 | [138028-toss.json](./138028-toss.json) |
 | Tota Life: Parent-kid Suite | 299206 | [299206-tota-life-parent-kid-suite.json](./299206-tota-life-parent-kid-suite.json) |
@@ -26863,6 +26870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TUS | 160201 | [160201-tus.json](./160201-tus.json) |
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
+| Tussle Works | 422050 | [422050-tussle-works.json](./422050-tussle-works.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 218928 | [218928-tutankham.json](./218928-tutankham.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
