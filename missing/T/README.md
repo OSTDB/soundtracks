@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TanukiTumble | 103143 | [103143-tanukitumble.json](./103143-tanukitumble.json) |
 | Tanx | 296009 | [296009-tanx.json](./296009-tanx.json) |
 | Tanx | 71058 | [71058-tanx.json](./71058-tanx.json) |
+| Tanxl | 412622 | [412622-tanxl.json](./412622-tanxl.json) |
 | Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
 | TanZen HD | 100144 | [100144-tanzen-hd.json](./100144-tanzen-hd.json) |
@@ -15372,6 +15373,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Season Two - Episode 3: In Harm's Way | 127059 | [127059-the-walking-dead-season-two-episode-3-in-harms-way.json](./127059-the-walking-dead-season-two-episode-3-in-harms-way.json) |
 | The Walking Dead: Season Two - Episode 4: Amid the Ruins | 127060 | [127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json](./127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json) |
 | The Walking Dead: Season Two - Episode 5: No Going Back | 127061 | [127061-the-walking-dead-season-two-episode-5-no-going-back.json](./127061-the-walking-dead-season-two-episode-5-no-going-back.json) |
+| The Walking Dead: Streets of Survival - Arcade Apocalypse Pack | 412574 | [412574-the-walking-dead-streets-of-survival-arcade-apocalypse-pack.json](./412574-the-walking-dead-streets-of-survival-arcade-apocalypse-pack.json) |
+| The Walking Dead: Streets of Survival - Deluxe Edition | 412573 | [412573-the-walking-dead-streets-of-survival-deluxe-edition.json](./412573-the-walking-dead-streets-of-survival-deluxe-edition.json) |
 | The Walking Dead: Survival Instinct | 1831 | [1831-the-walking-dead-survival-instinct.json](./1831-the-walking-dead-survival-instinct.json) |
 | The Walking Dead: Survivors | 142749 | [142749-the-walking-dead-survivors.json](./142749-the-walking-dead-survivors.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
@@ -17195,6 +17198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiddy Bounce | 156061 | [156061-tiddy-bounce.json](./156061-tiddy-bounce.json) |
 | Tide Girl: Phenomena | 241266 | [241266-tide-girl-phenomena.json](./241266-tide-girl-phenomena.json) |
 | Tide of Lone Stars | 412910 | [412910-tide-of-lone-stars.json](./412910-tide-of-lone-stars.json) |
+| Tide of Tactics | 412609 | [412609-tide-of-tactics.json](./412609-tide-of-tactics.json) |
 | Tide of the Depths | 421228 | [421228-tide-of-the-depths.json](./421228-tide-of-the-depths.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide Up | 194387 | [194387-tide-up.json](./194387-tide-up.json) |
@@ -19423,6 +19427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
 | Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
 | Tiny Tank Showdown | 420658 | [420658-tiny-tank-showdown.json](./420658-tiny-tank-showdown.json) |
+| Tiny Tanks | 412601 | [412601-tiny-tanks.json](./412601-tiny-tanks.json) |
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tap Quest | 307066 | [307066-tiny-tap-quest.json](./307066-tiny-tap-quest.json) |
 | Tiny Tarot | 182869 | [182869-tiny-tarot.json](./182869-tiny-tarot.json) |
