@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivion Eagle | 231795 | [231795-oblivion-eagle.json](./231795-oblivion-eagle.json) |
 | Oblivion Eclipse | 216976 | [216976-oblivion-eclipse.json](./216976-oblivion-eclipse.json) |
 | Oblivion Eve | 290295 | [290295-oblivion-eve.json](./290295-oblivion-eve.json) |
+| Oblivion Lost Remake Semi-Official Patches: Standalone | 423905 | [423905-oblivion-lost-remake-semi-official-patches-standalone.json](./423905-oblivion-lost-remake-semi-official-patches-standalone.json) |
 | Oblivion Maiden | 407419 | [407419-oblivion-maiden.json](./407419-oblivion-maiden.json) |
 | Oblivion Tesseract VR | 29708 | [29708-oblivion-tesseract-vr.json](./29708-oblivion-tesseract-vr.json) |
 | Oblivion's Edge | 30673 | [30673-oblivions-edge.json](./30673-oblivions-edge.json) |
@@ -469,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
 | Ocular Deprivation | 211615 | [211615-ocular-deprivation.json](./211615-ocular-deprivation.json) |
+| Ocularis | 423883 | [423883-ocularis.json](./423883-ocularis.json) |
 | Oculto | 111231 | [111231-oculto.json](./111231-oculto.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
 | Oculus Malus | 269664 | [269664-oculus-malus.json](./269664-oculus-malus.json) |
