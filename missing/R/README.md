@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckpunk | 32262 | [32262-reckpunk.json](./32262-reckpunk.json) |
 | Reclaim | 366721 | [366721-reclaim.json](./366721-reclaim.json) |
 | Reclaim | 405688 | [405688-reclaim.json](./405688-reclaim.json) |
+| Reclaim ! Azhe-giiwewining | 395950 | [395950-reclaim-azhe-giiwewining.json](./395950-reclaim-azhe-giiwewining.json) |
 | Reclaim Earth | 177730 | [177730-reclaim-earth.json](./177730-reclaim-earth.json) |
 | Reclaim the Sea | 216954 | [216954-reclaim-the-sea.json](./216954-reclaim-the-sea.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
@@ -3625,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
 | Refinery Complex | 259398 | [259398-refinery-complex.json](./259398-refinery-complex.json) |
+| Reflec Beat Groovin'!! Upper | 395944 | [395944-reflec-beat-groovin-upper.json](./395944-reflec-beat-groovin-upper.json) |
 | Reflec Beat Limelight | 76462 | [76462-reflec-beat-limelight.json](./76462-reflec-beat-limelight.json) |
 | Reflec Beat Volzza | 369138 | [369138-reflec-beat-volzza.json](./369138-reflec-beat-volzza.json) |
 | Reflec Beat: The Reflesia of Eternity | 140455 | [140455-reflec-beat-the-reflesia-of-eternity.json](./140455-reflec-beat-the-reflesia-of-eternity.json) |
@@ -4900,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Adventure | 308399 | [308399-retro-adventure.json](./308399-retro-adventure.json) |
 | Retro Adventurer | 344232 | [344232-retro-adventurer.json](./344232-retro-adventurer.json) |
 | Retro Arcade Classics | 209194 | [209194-retro-arcade-classics.json](./209194-retro-arcade-classics.json) |
+| Retro Arcade Electronic Game | 395972 | [395972-retro-arcade-electronic-game.json](./395972-retro-arcade-electronic-game.json) |
 | Retro Arcade Shooter - Attack from Pluto | 147863 | [147863-retro-arcade-shooter-attack-from-pluto.json](./147863-retro-arcade-shooter-attack-from-pluto.json) |
 | Retro Arcade Shop Simulator | 384086 | [384086-retro-arcade-shop-simulator.json](./384086-retro-arcade-shop-simulator.json) |
 | Retro Arcade Toppers | 60317 | [60317-retro-arcade-toppers.json](./60317-retro-arcade-toppers.json) |
@@ -6140,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftborne | 398474 | [398474-riftborne.json](./398474-riftborne.json) |
 | Riftcast | 311635 | [311635-riftcast.json](./311635-riftcast.json) |
 | Rifted Worlds | 280439 | [280439-rifted-worlds.json](./280439-rifted-worlds.json) |
+| Riftella | 395960 | [395960-riftella.json](./395960-riftella.json) |
 | Rifter | 255498 | [255498-rifter.json](./255498-rifter.json) |
 | Riftfall | 411762 | [411762-riftfall.json](./411762-riftfall.json) |
 | Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
