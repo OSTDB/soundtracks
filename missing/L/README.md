@@ -2469,7 +2469,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman Trilogy | 125173 | [125173-lego-batman-trilogy.json](./125173-lego-batman-trilogy.json) |
 | LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
+| LEGO Batman: Legacy of the Dark Knight - Mayhem Mode | 404540 | [404540-lego-batman-legacy-of-the-dark-knight-mayhem-mode.json](./404540-lego-batman-legacy-of-the-dark-knight-mayhem-mode.json) |
 | LEGO Batman: Legacy of the Dark Knight - Party Music Pack | 404395 | [404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json](./404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json) |
+| LEGO Batman: Legacy of the Dark Knight - Sinister Pack | 404541 | [404541-lego-batman-legacy-of-the-dark-knight-sinister-pack.json](./404541-lego-batman-legacy-of-the-dark-knight-sinister-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - The Dark Knight Returns Suit | 409868 | [409868-lego-batman-legacy-of-the-dark-knight-the-dark-knight-returns-suit.json](./409868-lego-batman-legacy-of-the-dark-knight-the-dark-knight-returns-suit.json) |
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
