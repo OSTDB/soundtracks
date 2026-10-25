@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
 | Far Side of the Mirror | 368511 | [368511-far-side-of-the-mirror.json](./368511-far-side-of-the-mirror.json) |
 | Far Space | 91005 | [91005-far-space.json](./91005-far-space.json) |
+| Far Space VR | 29449 | [29449-far-space-vr.json](./29449-far-space-vr.json) |
 | Far Star | 197044 | [197044-far-star.json](./197044-far-star.json) |
 | Far Starlight | 355219 | [355219-far-starlight.json](./355219-far-starlight.json) |
 | Far Tale | 248020 | [248020-far-tale.json](./248020-far-tale.json) |
