@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Matter of Caos: Episode 3 | 101922 | [101922-a-matter-of-caos-episode-3.json](./101922-a-matter-of-caos-episode-3.json) |
 | A Matter of Caos: Episode 4 | 101913 | [101913-a-matter-of-caos-episode-4.json](./101913-a-matter-of-caos-episode-4.json) |
 | A Matter of Murder | 26887 | [26887-a-matter-of-murder.json](./26887-a-matter-of-murder.json) |
+| A Matter of Murder: Second Stab | 422054 | [422054-a-matter-of-murder-second-stab.json](./422054-a-matter-of-murder-second-stab.json) |
 | A Matter of Principle | 226218 | [226218-a-matter-of-principle.json](./226218-a-matter-of-principle.json) |
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
 | A Mausoleum for All | 294058 | [294058-a-mausoleum-for-all.json](./294058-a-mausoleum-for-all.json) |
