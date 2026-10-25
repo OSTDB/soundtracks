@@ -3003,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Slits | 349277 | [349277-wet-slits.json](./349277-wet-slits.json) |
 | Wet Squirrels | 177753 | [177753-wet-squirrels.json](./177753-wet-squirrels.json) |
 | Wet Steps | 158072 | [158072-wet-steps.json](./158072-wet-steps.json) |
+| Wet VR | 395366 | [395366-wet-vr.json](./395366-wet-vr.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
@@ -5817,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfsong | 33568 | [33568-wolfsong.json](./33568-wolfsong.json) |
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
 | Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
+| WolfTeam: Classic | 395375 | [395375-wolfteam-classic.json](./395375-wolfteam-classic.json) |
 | Wolfteam: Reboot | 236760 | [236760-wolfteam-reboot.json](./236760-wolfteam-reboot.json) |
 | WolfWars | 10498 | [10498-wolfwars.json](./10498-wolfwars.json) |
 | Wolfy | 131354 | [131354-wolfy.json](./131354-wolfy.json) |
