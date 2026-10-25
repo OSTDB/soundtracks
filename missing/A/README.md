@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A World With No Colour | 122257 | [122257-a-world-with-no-colour.json](./122257-a-world-with-no-colour.json) |
 | A World With out You | 239205 | [239205-a-world-with-out-you.json](./239205-a-world-with-out-you.json) |
 | A World Without... Videogames | 352373 | [352373-a-world-without-videogames.json](./352373-a-world-without-videogames.json) |
+| A Writer and His Daughter | 55551 | [55551-a-writer-and-his-daughter.json](./55551-a-writer-and-his-daughter.json) |
 | A xustiza pola man | 176271 | [176271-a-xustiza-pola-man.json](./176271-a-xustiza-pola-man.json) |
 | A Year at Pooh Corner | 45575 | [45575-a-year-at-pooh-corner.json](./45575-a-year-at-pooh-corner.json) |
 | A Year of Riddles | 232505 | [232505-a-year-of-riddles.json](./232505-a-year-of-riddles.json) |
@@ -2583,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adopt A Boyfriend | 332439 | [332439-adopt-a-boyfriend.json](./332439-adopt-a-boyfriend.json) |
 | Adopt Me Please | 410894 | [410894-adopt-me-please.json](./410894-adopt-me-please.json) |
 | Adopted Passion Realize Your Dream | 279849 | [279849-adopted-passion-realize-your-dream.json](./279849-adopted-passion-realize-your-dream.json) |
+| Adoption | 55670 | [55670-adoption.json](./55670-adoption.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorabilis | 254373 | [254373-adorabilis.json](./254373-adorabilis.json) |
 | Adorable Adventures | 353276 | [353276-adorable-adventures.json](./353276-adorable-adventures.json) |
@@ -14169,6 +14171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatrain | 217329 | [217329-automatrain.json](./217329-automatrain.json) |
 | Automatrons | 153151 | [153151-automatrons.json](./153151-automatrons.json) |
 | Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
+| Automobile Tycoon | 43078 | [43078-automobile-tycoon.json](./43078-automobile-tycoon.json) |
 | Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
 | Automobilista 2 | 119811 | [119811-automobilista-2.json](./119811-automobilista-2.json) |
