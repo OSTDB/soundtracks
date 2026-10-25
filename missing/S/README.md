@@ -19133,6 +19133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Life | 233367 | [233367-square-life.json](./233367-square-life.json) |
 | Square Logic | 269206 | [269206-square-logic.json](./269206-square-logic.json) |
 | Square Love | 359554 | [359554-square-love.json](./359554-square-love.json) |
+| Square Man Puzzle Game | 389187 | [389187-square-man-puzzle-game.json](./389187-square-man-puzzle-game.json) |
 | Square Massacre | 76526 | [76526-square-massacre.json](./76526-square-massacre.json) |
 | Square Meal | 276104 | [276104-square-meal.json](./276104-square-meal.json) |
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
@@ -20236,7 +20237,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Battlefront - Renegade Squadron | 23063 | [23063-star-wars-battlefront-renegade-squadron.json](./23063-star-wars-battlefront-renegade-squadron.json) |
 | Star Wars: Beyond Victory | 372103 | [372103-star-wars-beyond-victory.json](./372103-star-wars-beyond-victory.json) |
+| Star Wars: Blaster Strike | 389227 | [389227-star-wars-blaster-strike.json](./389227-star-wars-blaster-strike.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
+| Star Wars: Clone Trooper | 389232 | [389232-star-wars-clone-trooper.json](./389232-star-wars-clone-trooper.json) |
+| Star Wars: Clone Trooper Blaster Game | 389235 | [389235-star-wars-clone-trooper-blaster-game.json](./389235-star-wars-clone-trooper-blaster-game.json) |
 | Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
 | Star Wars: Clone Wars: Planetary Forces | 314981 | [314981-star-wars-clone-wars-planetary-forces.json](./314981-star-wars-clone-wars-planetary-forces.json) |
 | Star Wars: Commander | 19429 | [19429-star-wars-commander.json](./19429-star-wars-commander.json) |
