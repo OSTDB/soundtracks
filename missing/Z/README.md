@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Spring Episode 1 | 112125 | [112125-zero-spring-episode-1.json](./112125-zero-spring-episode-1.json) |
 | Zero spring episode 2 | 112370 | [112370-zero-spring-episode-2.json](./112370-zero-spring-episode-2.json) |
 | Zero spring episode 3 | 114305 | [114305-zero-spring-episode-3.json](./114305-zero-spring-episode-3.json) |
+| Zero Stress King: Idle Defense | 389938 | [389938-zero-stress-king-idle-defense.json](./389938-zero-stress-king-idle-defense.json) |
 | Zero Sum | 406149 | [406149-zero-sum.json](./406149-zero-sum.json) |
 | Zero Sum Future | 107751 | [107751-zero-sum-future.json](./107751-zero-sum-future.json) |
 | Zero Target | 272797 | [272797-zero-target.json](./272797-zero-target.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZOLO: Zombies Only Live Once | 112823 | [112823-zolo-zombies-only-live-once.json](./112823-zolo-zombies-only-live-once.json) |
 | Zoltan's Curse | 302158 | [302158-zoltans-curse.json](./302158-zoltans-curse.json) |
 | Zolyx | 52202 | [52202-zolyx.json](./52202-zolyx.json) |
+| Zom Mat Taeng | 389927 | [389927-zom-mat-taeng.json](./389927-zom-mat-taeng.json) |
 | Zom Nom | 127768 | [127768-zom-nom.json](./127768-zom-nom.json) |
 | Zom Tom | 199372 | [199372-zom-tom.json](./199372-zom-tom.json) |
 | Zom: Rise of the Apocalypse | 239796 | [239796-zom-rise-of-the-apocalypse.json](./239796-zom-rise-of-the-apocalypse.json) |
