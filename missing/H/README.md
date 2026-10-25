@@ -1303,7 +1303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Feet | 243189 | [243189-happy-feet.json](./243189-happy-feet.json) |
 | Happy Feet | 243190 | [243190-happy-feet.json](./243190-happy-feet.json) |
 | Happy Feet | 243191 | [243191-happy-feet.json](./243191-happy-feet.json) |
-| Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
 | Happy Feet Two | 345552 | [345552-happy-feet-two.json](./345552-happy-feet-two.json) |
 | Happy Feet Two: Erik's Adventure | 65354 | [65354-happy-feet-two-eriks-adventure.json](./65354-happy-feet-two-eriks-adventure.json) |
 | Happy Fishing | 61559 | [61559-happy-fishing.json](./61559-happy-fishing.json) |
@@ -3271,7 +3270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
 | Hell Cab | 57625 | [57625-hell-cab.json](./57625-hell-cab.json) |
 | Hell Can Wait | 133412 | [133412-hell-can-wait.json](./133412-hell-can-wait.json) |
-| Hell Clock | 324256 | [324256-hell-clock.json](./324256-hell-clock.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
 | Hell Court | 179534 | [179534-hell-court.json](./179534-hell-court.json) |
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
@@ -9044,7 +9042,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hover the Edge | 195963 | [195963-hover-the-edge.json](./195963-hover-the-edge.json) |
 | Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
-| Hover: Revolt of Gamers | 5605 | [5605-hover-revolt-of-gamers.json](./5605-hover-revolt-of-gamers.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hoverbike Joust | 176219 | [176219-hoverbike-joust.json](./176219-hoverbike-joust.json) |
 | Hoverboard Chase | 154081 | [154081-hoverboard-chase.json](./154081-hoverboard-chase.json) |
@@ -9272,7 +9269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Word Games | 98884 | [98884-hoyle-word-games.json](./98884-hoyle-word-games.json) |
 | Hoyle's Backgammon & Cribbage | 77795 | [77795-hoyles-backgammon-and-cribbage.json](./77795-hoyles-backgammon-and-cribbage.json) |
 | Hoyo | 301074 | [301074-hoyo.json](./301074-hoyo.json) |
-| Hozy | 345443 | [345443-hozy.json](./345443-hozy.json) |
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
 | HPRZ: The Syndrome | 149551 | [149551-hprz-the-syndrome.json](./149551-hprz-the-syndrome.json) |
 | HPS1 Sports | 276756 | [276756-hps1-sports.json](./276756-hps1-sports.json) |
