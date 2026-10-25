@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
 | Life One | 114867 | [114867-life-one.json](./114867-life-one.json) |
+| Life Quest 2: Metropoville | 60938 | [60938-life-quest-2-metropoville.json](./60938-life-quest-2-metropoville.json) |
 | Life Redemption | 123904 | [123904-life-redemption.json](./123904-life-redemption.json) |
 | Life Save Service | 376677 | [376677-life-save-service.json](./376677-life-save-service.json) |
 | Life Saver | 247989 | [247989-life-saver.json](./247989-life-saver.json) |
@@ -6976,6 +6977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Begins with Goodbye | 344975 | [344975-love-begins-with-goodbye.json](./344975-love-begins-with-goodbye.json) |
 | Love Birds | 236734 | [236734-love-birds.json](./236734-love-birds.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
+| Love Bites | 75578 | [75578-love-bites.json](./75578-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Brings You Home | 238907 | [238907-love-brings-you-home.json](./238907-love-brings-you-home.json) |
 | Love Cat Life | 123349 | [123349-love-cat-life.json](./123349-love-cat-life.json) |
