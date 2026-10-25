@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narc | 4010 | [4010-narc.json](./4010-narc.json) |
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
+| Narcissist Tail | 394576 | [394576-narcissist-tail.json](./394576-narcissist-tail.json) |
 | Narcissu | 95463 | [95463-narcissu.json](./95463-narcissu.json) |
 | Narcissu 0 | 122223 | [122223-narcissu-0.json](./122223-narcissu-0.json) |
 | Narcissu 10th Anniversary Anthology Project | 33893 | [33893-narcissu-10th-anniversary-anthology-project.json](./33893-narcissu-10th-anniversary-anthology-project.json) |
@@ -4335,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
 | Ninja Monkey | 309849 | [309849-ninja-monkey.json](./309849-ninja-monkey.json) |
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
+| Ninja Nightfall | 394573 | [394573-ninja-nightfall.json](./394573-ninja-nightfall.json) |
 | Ninja no Gakko | 290402 | [290402-ninja-no-gakko.json](./290402-ninja-no-gakko.json) |
 | Ninja Numpties | 324333 | [324333-ninja-numpties.json](./324333-ninja-numpties.json) |
 | Ninja Online | 58607 | [58607-ninja-online.json](./58607-ninja-online.json) |
@@ -4902,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Report | 295503 | [295503-no-report.json](./295503-no-report.json) |
 | No Response | 105405 | [105405-no-response.json](./105405-no-response.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
+| No Rest for Lex | 394423 | [394423-no-rest-for-lex.json](./394423-no-rest-for-lex.json) |
 | No Rest for the Living | 313179 | [313179-no-rest-for-the-living.json](./313179-no-rest-for-the-living.json) |
 | No Rest for the Weary | 334198 | [334198-no-rest-for-the-weary.json](./334198-no-rest-for-the-weary.json) |
 | No Results Found | 412478 | [412478-no-results-found.json](./412478-no-results-found.json) |
@@ -5285,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir: Dead On Arrival | 327892 | [327892-noir-dead-on-arrival.json](./327892-noir-dead-on-arrival.json) |
 | Noiramore Academy | 317543 | [317543-noiramore-academy.json](./317543-noiramore-academy.json) |
 | Noircotics | 312185 | [312185-noircotics.json](./312185-noircotics.json) |
+| Noire Police Detective: Gangster Drama Simulator | 394567 | [394567-noire-police-detective-gangster-drama-simulator.json](./394567-noire-police-detective-gangster-drama-simulator.json) |
 | Noirmancer | 400955 | [400955-noirmancer.json](./400955-noirmancer.json) |
 | NoirNet: The Neon Enigma | 249188 | [249188-noirnet-the-neon-enigma.json](./249188-noirnet-the-neon-enigma.json) |
 | Noise | 131406 | [131406-noise.json](./131406-noise.json) |
