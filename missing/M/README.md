@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball | 5682 | [5682-major-league-baseball.json](./5682-major-league-baseball.json) |
 | Major League Baseball | 80424 | [80424-major-league-baseball.json](./80424-major-league-baseball.json) |
 | Major League Baseball 2K10 | 4991 | [4991-major-league-baseball-2k10.json](./4991-major-league-baseball-2k10.json) |
+| Major League Baseball 2K11 | 4992 | [4992-major-league-baseball-2k11.json](./4992-major-league-baseball-2k11.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
 | Major League Baseball 2K5 | 8907 | [8907-major-league-baseball-2k5.json](./8907-major-league-baseball-2k5.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
@@ -7560,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Fallen | 69385 | [69385-mercury-fallen.json](./69385-mercury-fallen.json) |
 | Mercury Hg | 20142 | [20142-mercury-hg.json](./20142-mercury-hg.json) |
 | Mercury Meltdown Remix | 20628 | [20628-mercury-meltdown-remix.json](./20628-mercury-meltdown-remix.json) |
+| Mercury Meltdown Revolution | 5003 | [5003-mercury-meltdown-revolution.json](./5003-mercury-meltdown-revolution.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
 | Mercury Particle Sandbox | 151300 | [151300-mercury-particle-sandbox.json](./151300-mercury-particle-sandbox.json) |
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
@@ -8475,6 +8477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miasmata | 11062 | [11062-miasmata.json](./11062-miasmata.json) |
 | Miautemágica | 393559 | [393559-miautemagica.json](./393559-miautemagica.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
+| MIB: Alien Crisis | 5005 | [5005-mib-alien-crisis.json](./5005-mib-alien-crisis.json) |
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
 | Mibo: Escape Adventure | 194156 | [194156-mibo-escape-adventure.json](./194156-mibo-escape-adventure.json) |
 | Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
@@ -9961,6 +9964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
 | Minecraft Classic | 325724 | [325724-minecraft-classic.json](./325724-minecraft-classic.json) |
 | Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
+| Minecraft Dungeons II - Deluxe DLC | 407116 | [407116-minecraft-dungeons-ii-deluxe-dlc.json](./407116-minecraft-dungeons-ii-deluxe-dlc.json) |
 | Minecraft Dungeons: Echoing Void | 164849 | [164849-minecraft-dungeons-echoing-void.json](./164849-minecraft-dungeons-echoing-void.json) |
 | Minecraft Dungeons: Flames of the Nether | 146161 | [146161-minecraft-dungeons-flames-of-the-nether.json](./146161-minecraft-dungeons-flames-of-the-nether.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
@@ -11568,6 +11572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Perfect Inning 24 | 321667 | [321667-mlb-perfect-inning-24.json](./321667-mlb-perfect-inning-24.json) |
 | MLB Perfect Inning Live | 96295 | [96295-mlb-perfect-inning-live.json](./96295-mlb-perfect-inning-live.json) |
 | MLB Perfect Inning: 23 | 212436 | [212436-mlb-perfect-inning-23.json](./212436-mlb-perfect-inning-23.json) |
+| MLB Power Pros | 5009 | [5009-mlb-power-pros.json](./5009-mlb-power-pros.json) |
 | MLB Power Pros 2008 | 5010 | [5010-mlb-power-pros-2008.json](./5010-mlb-power-pros-2008.json) |
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
@@ -16705,6 +16710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Home VR | 127206 | [127206-my-home-vr.json](./127206-my-home-vr.json) |
 | My Hooptie | 369656 | [369656-my-hooptie.json](./369656-my-hooptie.json) |
+| My Horse & Me | 5030 | [5030-my-horse-and-me.json](./5030-my-horse-and-me.json) |
 | My Horse 3D: Best Friends | 147823 | [147823-my-horse-3d-best-friends.json](./147823-my-horse-3d-best-friends.json) |
 | My Horse Farm | 206774 | [206774-my-horse-farm.json](./206774-my-horse-farm.json) |
 | My Horse Farm: Welcome to Trotterville | 206775 | [206775-my-horse-farm-welcome-to-trotterville.json](./206775-my-horse-farm-welcome-to-trotterville.json) |
@@ -17882,6 +17888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth II: Worlds | 210108 | [210108-myth-ii-worlds.json](./210108-myth-ii-worlds.json) |
 | Myth Landers | 247617 | [247617-myth-landers.json](./247617-myth-landers.json) |
 | Myth Makers Super Kart GP | 5043 | [5043-myth-makers-super-kart-gp.json](./5043-myth-makers-super-kart-gp.json) |
+| Myth Makers: Orbs of Doom | 5041 | [5041-myth-makers-orbs-of-doom.json](./5041-myth-makers-orbs-of-doom.json) |
 | Myth Makers: Trixie in Toyland | 5044 | [5044-myth-makers-trixie-in-toyland.json](./5044-myth-makers-trixie-in-toyland.json) |
 | Myth Match | 122267 | [122267-myth-match.json](./122267-myth-match.json) |
 | Myth of Ambition | 114139 | [114139-myth-of-ambition.json](./114139-myth-of-ambition.json) |
