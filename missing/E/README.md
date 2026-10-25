@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
 | Eighth Day Kishimoto-kun | 349991 | [349991-eighth-day-kishimoto-kun.json](./349991-eighth-day-kishimoto-kun.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
+| Eighth Heaven | 411306 | [411306-eighth-heaven.json](./411306-eighth-heaven.json) |
 | EightMan | 40976 | [40976-eightman.json](./40976-eightman.json) |
 | Eightrun | 242523 | [242523-eightrun.json](./242523-eightrun.json) |
 | Eights | 354652 | [354652-eights.json](./354652-eights.json) |
@@ -3779,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch of Guardians | 339759 | [339759-epoch-of-guardians.json](./339759-epoch-of-guardians.json) |
 | Epoch of Love | 211778 | [211778-epoch-of-love.json](./211778-epoch-of-love.json) |
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
+| Epoch Vault | 411293 | [411293-epoch-vault.json](./411293-epoch-vault.json) |
 | Epoch Wars | 64216 | [64216-epoch-wars.json](./64216-epoch-wars.json) |
 | Epoch-Man | 218322 | [218322-epoch-man.json](./218322-epoch-man.json) |
 | Epochs of Enmity | 196012 | [196012-epochs-of-enmity.json](./196012-epochs-of-enmity.json) |
