@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Cove | 103999 | [103999-castaway-cove.json](./103999-castaway-cove.json) |
 | Castaway Diary: Portal to the Unknown Isles | 398422 | [398422-castaway-diary-portal-to-the-unknown-isles.json](./398422-castaway-diary-portal-to-the-unknown-isles.json) |
 | Castaway Hand | 326195 | [326195-castaway-hand.json](./326195-castaway-hand.json) |
+| Castaway Home Designer | 43079 | [43079-castaway-home-designer.json](./43079-castaway-home-designer.json) |
 | Castaway II: Isle of the Titans | 141759 | [141759-castaway-ii-isle-of-the-titans.json](./141759-castaway-ii-isle-of-the-titans.json) |
 | Castaway of Steel | 273328 | [273328-castaway-of-steel.json](./273328-castaway-of-steel.json) |
 | Castaway of the Ardusta Sea | 207689 | [207689-castaway-of-the-ardusta-sea.json](./207689-castaway-of-the-ardusta-sea.json) |
@@ -7674,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CJ's Elephant Antics | 12007 | [12007-cjs-elephant-antics.json](./12007-cjs-elephant-antics.json) |
 | CKZ Origins | 87164 | [87164-ckz-origins.json](./87164-ckz-origins.json) |
 | Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
+| Clad in Iron: Gulf of Mexico 1864 | 55607 | [55607-clad-in-iron-gulf-of-mexico-1864.json](./55607-clad-in-iron-gulf-of-mexico-1864.json) |
 | Clad in Iron: Philippines 1898 | 75343 | [75343-clad-in-iron-philippines-1898.json](./75343-clad-in-iron-philippines-1898.json) |
 | Clad in Iron: Philippines 1898 - Manila Bay 1898 | 170949 | [170949-clad-in-iron-philippines-1898-manila-bay-1898.json](./170949-clad-in-iron-philippines-1898-manila-bay-1898.json) |
 | Clad in Iron: Sakhalin 1904 | 111222 | [111222-clad-in-iron-sakhalin-1904.json](./111222-clad-in-iron-sakhalin-1904.json) |
@@ -8732,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Climber | 105782 | [105782-clumsy-climber.json](./105782-clumsy-climber.json) |
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
 | Clumsy Fish | 240836 | [240836-clumsy-fish.json](./240836-clumsy-fish.json) |
+| Clumsy Fred | 43103 | [43103-clumsy-fred.json](./43103-clumsy-fred.json) |
 | Clumsy Knight vs. Skeletons R | 200065 | [200065-clumsy-knight-vs-skeletons-r.json](./200065-clumsy-knight-vs-skeletons-r.json) |
 | Clumsy Moose Season | 34314 | [34314-clumsy-moose-season.json](./34314-clumsy-moose-season.json) |
 | Clumsy Ninja | 89108 | [89108-clumsy-ninja.json](./89108-clumsy-ninja.json) |
@@ -12635,6 +12638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
 | Cowboy Yakuza | 130240 | [130240-cowboy-yakuza.json](./130240-cowboy-yakuza.json) |
+| Cowboy's Adventure | 43101 | [43101-cowboys-adventure.json](./43101-cowboys-adventure.json) |
 | Cowboyana | 72896 | [72896-cowboyana.json](./72896-cowboyana.json) |
 | Cowboys & Aliens | 344313 | [344313-cowboys-and-aliens.json](./344313-cowboys-and-aliens.json) |
 | Cowboys & Zombies VR | 226185 | [226185-cowboys-and-zombies-vr.json](./226185-cowboys-and-zombies-vr.json) |
@@ -16242,6 +16246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Knight | 72589 | [72589-cute-knight.json](./72589-cute-knight.json) |
 | Cute Knight Kingdom | 60944 | [60944-cute-knight-kingdom.json](./60944-cute-knight-kingdom.json) |
 | Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
+| Cute Monsters Battle Arena | 55655 | [55655-cute-monsters-battle-arena.json](./55655-cute-monsters-battle-arena.json) |
 | Cute Munchies | 56857 | [56857-cute-munchies.json](./56857-cute-munchies.json) |
 | Cute Nurses | 367011 | [367011-cute-nurses.json](./367011-cute-nurses.json) |
 | Cute Patoots | 404909 | [404909-cute-patoots.json](./404909-cute-patoots.json) |
