@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particulars | 5578 | [5578-particulars.json](./5578-particulars.json) |
 | Particulate | 127244 | [127244-particulate.json](./127244-particulate.json) |
 | Particulitix | 390515 | [390515-particulitix.json](./390515-particulitix.json) |
+| Parting Shadows | 397750 | [397750-parting-shadows.json](./397750-parting-shadows.json) |
 | Partisan | 10656 | [10656-partisan.json](./10656-partisan.json) |
 | Partisans 1941 | 117497 | [117497-partisans-1941.json](./117497-partisans-1941.json) |
 | Partisans 1941: Extended Edition | 193743 | [193743-partisans-1941-extended-edition.json](./193743-partisans-1941-extended-edition.json) |
@@ -4406,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Lamb | 377906 | [377906-phantom-lamb.json](./377906-phantom-lamb.json) |
 | Phantom Legacy | 124527 | [124527-phantom-legacy.json](./124527-phantom-legacy.json) |
 | Phantom Mansion Chapter 1: The Red Chamber | 397699 | [397699-phantom-mansion-chapter-1-the-red-chamber.json](./397699-phantom-mansion-chapter-1-the-red-chamber.json) |
+| Phantom Mansion Chapter 2: The Orange Library | 397792 | [397792-phantom-mansion-chapter-2-the-orange-library.json](./397792-phantom-mansion-chapter-2-the-orange-library.json) |
 | Phantom Mansion II: Treasures of the Seven Seas - The Arabian Sea | 405128 | [405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json](./405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
@@ -8985,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Beyond DX | 360180 | [360180-pokemon-beyond-dx.json](./360180-pokemon-beyond-dx.json) |
 | Pokémon Black 2 /White 2 Deluxe | 335436 | [335436-pokemon-black-2-white-2-deluxe.json](./335436-pokemon-black-2-white-2-deluxe.json) |
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
+| Pokémon Black Pearl Emerald | 397764 | [397764-pokemon-black-pearl-emerald.json](./397764-pokemon-black-pearl-emerald.json) |
 | Pokémon Black Version 2 | 8284 | [8284-pokemon-black-version-2.json](./8284-pokemon-black-version-2.json) |
 | Pokémon Black/White Redux | 335435 | [335435-pokemon-black-white-redux.json](./335435-pokemon-black-white-redux.json) |
 | Pokémon Blaze Black | 141482 | [141482-pokemon-blaze-black.json](./141482-pokemon-blaze-black.json) |
@@ -9178,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Hoenn's Last Wish | 396514 | [396514-pokemon-hoenns-last-wish.json](./396514-pokemon-hoenns-last-wish.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
+| Pokémon Hyper Emerald | 397757 | [397757-pokemon-hyper-emerald.json](./397757-pokemon-hyper-emerald.json) |
 | Pokémon I Choose You Challenge | 198863 | [198863-pokemon-i-choose-you-challenge.json](./198863-pokemon-i-choose-you-challenge.json) |
 | Pokémon Iberia | 145370 | [145370-pokemon-iberia.json](./145370-pokemon-iberia.json) |
 | Pokémon Infinite Fusion | 143761 | [143761-pokemon-infinite-fusion.json](./143761-pokemon-infinite-fusion.json) |
@@ -9255,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Origins | 395775 | [395775-pokemon-origins.json](./395775-pokemon-origins.json) |
 | Pokémon Overlord | 383168 | [383168-pokemon-overlord.json](./383168-pokemon-overlord.json) |
 | Pokémon Panteón | 314723 | [314723-pokemon-panteon.json](./314723-pokemon-panteon.json) |
+| Pokémon Parallel Emerald | 397762 | [397762-pokemon-parallel-emerald.json](./397762-pokemon-parallel-emerald.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
 | Pokémon Pathways | 154415 | [154415-pokemon-pathways.json](./154415-pokemon-pathways.json) |
 | Pokémon Peach Version | 359916 | [359916-pokemon-peach-version.json](./359916-pokemon-peach-version.json) |
@@ -9372,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sors 2 | 360194 | [360194-pokemon-sors-2.json](./360194-pokemon-sors-2.json) |
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
+| Pokémon Spirits of the Storm | 397766 | [397766-pokemon-spirits-of-the-storm.json](./397766-pokemon-spirits-of-the-storm.json) |
 | Pokémon Stadium 2 | 2290 | [2290-pokemon-stadium-2.json](./2290-pokemon-stadium-2.json) |
 | Pokémon Stadium Club | 357347 | [357347-pokemon-stadium-club.json](./357347-pokemon-stadium-club.json) |
 | Pokémon Stadium Fusion | 262412 | [262412-pokemon-stadium-fusion.json](./262412-pokemon-stadium-fusion.json) |
