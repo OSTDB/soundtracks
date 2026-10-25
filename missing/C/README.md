@@ -3476,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Clown II | 331897 | [331897-catch-the-clown-ii.json](./331897-catch-the-clown-ii.json) |
 | Catch the Donut | 164276 | [164276-catch-the-donut.json](./164276-catch-the-donut.json) |
 | Catch the Dustling | 329077 | [329077-catch-the-dustling.json](./329077-catch-the-dustling.json) |
+| Catch the Fish | 418907 | [418907-catch-the-fish.json](./418907-catch-the-fish.json) |
 | Catch The Fox | 247499 | [247499-catch-the-fox.json](./247499-catch-the-fox.json) |
 | Catch the Head | 119601 | [119601-catch-the-head.json](./119601-catch-the-head.json) |
 | Catch the Kids | 111388 | [111388-catch-the-kids.json](./111388-catch-the-kids.json) |
@@ -6508,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
 | Christmas Griddlers: Journey to Santa | 88653 | [88653-christmas-griddlers-journey-to-santa.json](./88653-christmas-griddlers-journey-to-santa.json) |
 | Christmas Hair Salon | 96837 | [96837-christmas-hair-salon.json](./96837-christmas-hair-salon.json) |
+| Christmas Hentai Party | 418859 | [418859-christmas-hentai-party.json](./418859-christmas-hentai-party.json) |
 | Christmas Hidden Objects | 102729 | [102729-christmas-hidden-objects.json](./102729-christmas-hidden-objects.json) |
 | Christmas Horror | 185877 | [185877-christmas-horror.json](./185877-christmas-horror.json) |
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
@@ -10754,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete Burial | 414555 | [414555-concrete-burial.json](./414555-concrete-burial.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
 | Concrete Jungle | 14148 | [14148-concrete-jungle.json](./14148-concrete-jungle.json) |
+| Concrete Polishing Simulator | 418890 | [418890-concrete-polishing-simulator.json](./418890-concrete-polishing-simulator.json) |
 | Concrete Rage | 269117 | [269117-concrete-rage.json](./269117-concrete-rage.json) |
 | Concrete Sky | 36967 | [36967-concrete-sky.json](./36967-concrete-sky.json) |
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
@@ -10795,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conduits | 338883 | [338883-conduits.json](./338883-conduits.json) |
 | Cone Flyers Castaways | 389723 | [389723-cone-flyers-castaways.json](./389723-cone-flyers-castaways.json) |
 | Cone Punk | 420575 | [420575-cone-punk.json](./420575-cone-punk.json) |
+| Cone Sweet Cone | 418882 | [418882-cone-sweet-cone.json](./418882-cone-sweet-cone.json) |
 | Cone Wars | 57918 | [57918-cone-wars.json](./57918-cone-wars.json) |
 | Cone’Z Broken Bonez | 369901 | [369901-cone-z-broken-bonez.json](./369901-cone-z-broken-bonez.json) |
 | Coneru: Dimension Girl | 267466 | [267466-coneru-dimension-girl.json](./267466-coneru-dimension-girl.json) |
