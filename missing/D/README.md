@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Resort Killing | 228264 | [228264-danganronpa-resort-killing.json](./228264-danganronpa-resort-killing.json) |
 | Danganronpa: Salvation's Fears | 338840 | [338840-danganronpa-salvations-fears.json](./338840-danganronpa-salvations-fears.json) |
 | Danganronpa: Survivor's Guilt | 341080 | [341080-danganronpa-survivors-guilt.json](./341080-danganronpa-survivors-guilt.json) |
+| Danganronpa/Zero: The Fangame - Despair Through Memetic Waves | 413639 | [413639-danganronpa-zero-the-fangame-despair-through-memetic-waves.json](./413639-danganronpa-zero-the-fangame-despair-through-memetic-waves.json) |
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
 | Danger City | 279591 | [279591-danger-city.json](./279591-danger-city.json) |
@@ -5440,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengeki Stryker | 64954 | [64954-dengeki-stryker.json](./64954-dengeki-stryker.json) |
 | Dengen Tenshi Taisen Mahjong Shangri-La | 131571 | [131571-dengen-tenshi-taisen-mahjong-shangri-la.json](./131571-dengen-tenshi-taisen-mahjong-shangri-la.json) |
 | Dengenki Days | 287358 | [287358-dengenki-days.json](./287358-dengenki-days.json) |
+| Denis McCrane's Ski Jumping Challenge: Sarajevo 1983 | 413858 | [413858-denis-mccranes-ski-jumping-challenge-sarajevo-1983.json](./413858-denis-mccranes-ski-jumping-challenge-sarajevo-1983.json) |
 | Denis Through the Drinking Glass | 73823 | [73823-denis-through-the-drinking-glass.json](./73823-denis-through-the-drinking-glass.json) |
 | Denizen | 227193 | [227193-denizen.json](./227193-denizen.json) |
 | Denizen's Den | 65382 | [65382-denizens-den.json](./65382-denizens-den.json) |
