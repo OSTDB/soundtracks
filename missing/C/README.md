@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Crash Racing: Stunt Master | 231977 | [231977-car-crash-racing-stunt-master.json](./231977-car-crash-racing-stunt-master.json) |
 | Car Crush Racing Simulator | 132508 | [132508-car-crush-racing-simulator.json](./132508-car-crush-racing-simulator.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
+| Car Dealer Garage Simulator 2026 | 393297 | [393297-car-dealer-garage-simulator-2026.json](./393297-car-dealer-garage-simulator-2026.json) |
 | Car Dealership Business Simulator | 336414 | [336414-car-dealership-business-simulator.json](./336414-car-dealership-business-simulator.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
 | Car Demolition Clicker | 74140 | [74140-car-demolition-clicker.json](./74140-car-demolition-clicker.json) |
@@ -6763,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromophore: The Two Brothers Director's Cut | 61512 | [61512-chromophore-the-two-brothers-directors-cut.json](./61512-chromophore-the-two-brothers-directors-cut.json) |
 | Chromosome Evil | 116334 | [116334-chromosome-evil.json](./116334-chromosome-evil.json) |
 | Chromosome Evil 2 | 261720 | [261720-chromosome-evil-2.json](./261720-chromosome-evil-2.json) |
+| Chromosome Evil Trilogy | 393572 | [393572-chromosome-evil-trilogy.json](./393572-chromosome-evil-trilogy.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
 | Chromosome Evil: New Weapon & Weapons Customization | 230808 | [230808-chromosome-evil-new-weapon-and-weapons-customization.json](./230808-chromosome-evil-new-weapon-and-weapons-customization.json) |
 | Chrona & Sirona | 413716 | [413716-chrona-and-sirona.json](./413716-chrona-and-sirona.json) |
