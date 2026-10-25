@@ -6829,7 +6829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
 | ChronoForge | 365311 | [365311-chronoforge.json](./365311-chronoforge.json) |
 | Chronokicker 202K | 181161 | [181161-chronokicker-202k.json](./181161-chronokicker-202k.json) |
-| Chronology | 10087 | [10087-chronology.json](./10087-chronology.json) |
 | Chronology: Deluxe Edition | 257371 | [257371-chronology-deluxe-edition.json](./257371-chronology-deluxe-edition.json) |
 | Chronomancy: Watchmaker's Curse | 184504 | [184504-chronomancy-watchmakers-curse.json](./184504-chronomancy-watchmakers-curse.json) |
 | Chronometer | 92352 | [92352-chronometer.json](./92352-chronometer.json) |
@@ -11089,7 +11088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
 | Conspirocracy | 90230 | [90230-conspirocracy.json](./90230-conspirocracy.json) |
-| Constance | 258950 | [258950-constance.json](./258950-constance.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
