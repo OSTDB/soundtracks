@@ -4989,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awesome Adventures of Victor Vector & Yondo: The Hypnotic Harp | 70457 | [70457-the-awesome-adventures-of-victor-vector-and-yondo-the-hypnotic-harp.json](./70457-the-awesome-adventures-of-victor-vector-and-yondo-the-hypnotic-harp.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Last Dinosaur Egg | 73364 | [73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json](./73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Vampire's Coffin | 70794 | [70794-the-awesome-adventures-of-victor-vector-and-yondo-the-vampires-coffin.json](./70794-the-awesome-adventures-of-victor-vector-and-yondo-the-vampires-coffin.json) |
+| The Awkward Steve Duology | 43117 | [43117-the-awkward-steve-duology.json](./43117-the-awkward-steve-duology.json) |
 | The Axis Unseen | 217404 | [217404-the-axis-unseen.json](./217404-the-axis-unseen.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Azmodeus Project | 240096 | [240096-the-azmodeus-project.json](./240096-the-azmodeus-project.json) |
@@ -11229,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Metronomicon: Slay the Dance Floor - J-Punch Challenge Pack | 225233 | [225233-the-metronomicon-slay-the-dance-floor-j-punch-challenge-pack.json](./225233-the-metronomicon-slay-the-dance-floor-j-punch-challenge-pack.json) |
 | The Metronomicon: Slay the Dance Floor - The End Records Challenge Pack | 225580 | [225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
 | The Metronomicon: Slay The Dance Floor - The End Records Challenge Pack | 225234 | [225234-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225234-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
+| The Mexican Dream | 55622 | [55622-the-mexican-dream.json](./55622-the-mexican-dream.json) |
 | The Miami Horror | 176347 | [176347-the-miami-horror.json](./176347-the-miami-horror.json) |
 | The Mice Guys | 179939 | [179939-the-mice-guys.json](./179939-the-mice-guys.json) |
 | The Mice of Riddle Place - The Mystery of Mrs. Wirth | 108605 | [108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json](./108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json) |
@@ -14872,6 +14874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trip | 287216 | [287216-the-trip.json](./287216-the-trip.json) |
 | The Trip Adventure | 66636 | [66636-the-trip-adventure.json](./66636-the-trip-adventure.json) |
 | The Tripods | 72927 | [72927-the-tripods.json](./72927-the-tripods.json) |
+| The Tritan Initiative | 43077 | [43077-the-tritan-initiative.json](./43077-the-tritan-initiative.json) |
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
 | The Troll | 265623 | [265623-the-troll.json](./265623-the-troll.json) |
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
@@ -25100,6 +25103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trialspire | 397782 | [397782-trialspire.json](./397782-trialspire.json) |
 | Trialtime Reborn | 192793 | [192793-trialtime-reborn.json](./192793-trialtime-reborn.json) |
 | Triametric | 112641 | [112641-triametric.json](./112641-triametric.json) |
+| Trianga's Project: Battle Splash 2.0 | 55705 | [55705-triangas-project-battle-splash-2-0.json](./55705-triangas-project-battle-splash-2-0.json) |
 | Trianga's Project: Battle Splash 2.0 - Earth's Legacy M.A.I.A | 289466 | [289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json](./289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json) |
 | Triangle Again | 63017 | [63017-triangle-again.json](./63017-triangle-again.json) |
 | Triangle Again 2 | 63018 | [63018-triangle-again-2.json](./63018-triangle-again-2.json) |
@@ -25536,12 +25540,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Golf Trivia | 93772 | [93772-trivia-vault-golf-trivia.json](./93772-trivia-vault-golf-trivia.json) |
 | Trivia Vault: Health Trivia Deluxe | 81880 | [81880-trivia-vault-health-trivia-deluxe.json](./81880-trivia-vault-health-trivia-deluxe.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
+| Trivia Vault: Mini Mixed Trivia | 55739 | [55739-trivia-vault-mini-mixed-trivia.json](./55739-trivia-vault-mini-mixed-trivia.json) |
 | Trivia Vault: Mini Mixed Trivia 2 | 55738 | [55738-trivia-vault-mini-mixed-trivia-2.json](./55738-trivia-vault-mini-mixed-trivia-2.json) |
 | Trivia Vault: Mini Mixed Trivia 3 | 59131 | [59131-trivia-vault-mini-mixed-trivia-3.json](./59131-trivia-vault-mini-mixed-trivia-3.json) |
 | Trivia Vault: Mixed Trivia | 52779 | [52779-trivia-vault-mixed-trivia.json](./52779-trivia-vault-mixed-trivia.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
 | Trivia Vault: Music Trivia | 104219 | [104219-trivia-vault-music-trivia.json](./104219-trivia-vault-music-trivia.json) |
+| Trivia Vault: Science & History Trivia 2 | 55550 | [55550-trivia-vault-science-and-history-trivia-2.json](./55550-trivia-vault-science-and-history-trivia-2.json) |
 | Trivia Vault: Soccer Trivia | 99432 | [99432-trivia-vault-soccer-trivia.json](./99432-trivia-vault-soccer-trivia.json) |
+| Trivia Vault: Super Heroes Trivia 2 | 55748 | [55748-trivia-vault-super-heroes-trivia-2.json](./55748-trivia-vault-super-heroes-trivia-2.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
