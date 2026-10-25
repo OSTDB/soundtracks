@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthquake: Margarita School | 369380 | [369380-earthquake-margarita-school.json](./369380-earthquake-margarita-school.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
+| Earths Edge | 403333 | [403333-earths-edge.json](./403333-earths-edge.json) |
 | Earthshakers | 117374 | [117374-earthshakers.json](./117374-earthshakers.json) |
 | Earthshield | 209178 | [209178-earthshield.json](./209178-earthshield.json) |
 | Earthshine | 117799 | [117799-earthshine.json](./117799-earthshine.json) |
@@ -5721,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
 | Everything is Garbage | 140390 | [140390-everything-is-garbage.json](./140390-everything-is-garbage.json) |
 | Everything is Going to be OK | 75861 | [75861-everything-is-going-to-be-ok.json](./75861-everything-is-going-to-be-ok.json) |
+| Everything Is Gun! | 403363 | [403363-everything-is-gun.json](./403363-everything-is-gun.json) |
 | Everything is Mayo | 121326 | [121326-everything-is-mayo.json](./121326-everything-is-mayo.json) |
 | Everything is Peachy | 31646 | [31646-everything-is-peachy.json](./31646-everything-is-peachy.json) |
 | Everything Must Fall | 28132 | [28132-everything-must-fall.json](./28132-everything-must-fall.json) |
