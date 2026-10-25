@@ -5804,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Dive | 317425 | [317425-desert-dive.json](./317425-desert-dive.json) |
 | Desert Domination | 122922 | [122922-desert-domination.json](./122922-desert-domination.json) |
 | Desert Dungeons | 258635 | [258635-desert-dungeons.json](./258635-desert-dungeons.json) |
+| Desert Echo | 418234 | [418234-desert-echo.json](./418234-desert-echo.json) |
 | Desert Falcon | 11870 | [11870-desert-falcon.json](./11870-desert-falcon.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Fox | 26235 | [26235-desert-fox.json](./26235-desert-fox.json) |
@@ -6424,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
 | Detroit Metal City DS: Death Shout | 70602 | [70602-detroit-metal-city-ds-death-shout.json](./70602-detroit-metal-city-ds-death-shout.json) |
 | Detroit: Become Human - Digital Deluxe Edition | 118902 | [118902-detroit-become-human-digital-deluxe-edition.json](./118902-detroit-become-human-digital-deluxe-edition.json) |
+| Detstvo | 418227 | [418227-detstvo.json](./418227-detstvo.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deuces Wild: Video Poker | 147833 | [147833-deuces-wild-video-poker.json](./147833-deuces-wild-video-poker.json) |
 | Deul | 38507 | [38507-deul.json](./38507-deul.json) |
@@ -11562,6 +11564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Maybee and the Adventures of Scarygirl | 44514 | [44514-dr-maybee-and-the-adventures-of-scarygirl.json](./44514-dr-maybee-and-the-adventures-of-scarygirl.json) |
 | Dr. Mikio Hiraiwa-Supervised Yomu Tore GO! | 145389 | [145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json](./145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json) |
 | Dr. Mini Games | 202163 | [202163-dr-mini-games.json](./202163-dr-mini-games.json) |
+| Dr. Monty's Traveling Caravan of Moth-Based Oddities! | 418188 | [418188-dr-montys-traveling-caravan-of-moth-based-oddities.json](./418188-dr-montys-traveling-caravan-of-moth-based-oddities.json) |
 | Dr. Moonlight's Happyworld | 387515 | [387515-dr-moonlights-happyworld.json](./387515-dr-moonlights-happyworld.json) |
 | Dr. Murph | 304703 | [304703-dr-murph.json](./304703-dr-murph.json) |
 | Dr. Muto | 248455 | [248455-dr-muto.json](./248455-dr-muto.json) |
@@ -12479,6 +12482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 272320 | [272320-dragons-lair.json](./272320-dragons-lair.json) |
 | Dragon's Lair HD | 100618 | [100618-dragons-lair-hd.json](./100618-dragons-lair-hd.json) |
 | Dragon's Lair II: Time Warp | 323845 | [323845-dragons-lair-ii-time-warp.json](./323845-dragons-lair-ii-time-warp.json) |
+| Dragon's Lair Part II: Escape from Singe's Castle | 418248 | [418248-dragons-lair-part-ii-escape-from-singes-castle.json](./418248-dragons-lair-part-ii-escape-from-singes-castle.json) |
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
 | Dragon's Lair: The Legend | 117950 | [117950-dragons-lair-the-legend.json](./117950-dragons-lair-the-legend.json) |
