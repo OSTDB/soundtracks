@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Knifflis | 365463 | [365463-2d-knifflis.json](./365463-2d-knifflis.json) |
 | 2D Knock-Out | 326747 | [326747-2d-knock-out.json](./326747-2d-knock-out.json) |
+| 2D Neon Cube | 55635 | [55635-2d-neon-cube.json](./55635-2d-neon-cube.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Platformer Game (Toy Factory) | 184282 | [184282-2d-platformer-game-toy-factory.json](./184282-2d-platformer-game-toy-factory.json) |
 | 2D Top Racing | 304445 | [304445-2d-top-racing.json](./304445-2d-top-racing.json) |
