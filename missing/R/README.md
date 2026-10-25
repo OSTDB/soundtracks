@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race: Total Toon Race | 153328 | [153328-race-total-toon-race.json](./153328-race-total-toon-race.json) |
 | Race! Beauty! Bugs! | 187174 | [187174-race-beauty-bugs.json](./187174-race-beauty-bugs.json) |
 | Race! Make 'm finish... | 129117 | [129117-race-make-m-finish.json](./129117-race-make-m-finish.json) |
+| Race! Then Retry... | 415788 | [415788-race-then-retry.json](./415788-race-then-retry.json) |
 | Race.a.bit | 36114 | [36114-race-a-bit.json](./36114-race-a-bit.json) |
 | Race07 | 50162 | [50162-race07.json](./50162-race07.json) |
 | Raceborn | 311638 | [311638-raceborn.json](./311638-raceborn.json) |
