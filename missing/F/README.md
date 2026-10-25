@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable II: Limited Collector's Edition | 47415 | [47415-fable-ii-limited-collectors-edition.json](./47415-fable-ii-limited-collectors-edition.json) |
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
+| Fable III: Traitor's Keep Quest Pack | 20438 | [20438-fable-iii-traitors-keep-quest-pack.json](./20438-fable-iii-traitors-keep-quest-pack.json) |
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
 | Fable Legends | 5624 | [5624-fable-legends.json](./5624-fable-legends.json) |
 | Fable Mosaics: Rapunzel | 294218 | [294218-fable-mosaics-rapunzel.json](./294218-fable-mosaics-rapunzel.json) |
