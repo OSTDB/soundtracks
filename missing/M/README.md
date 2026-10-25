@@ -4481,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
 | Match Village | 217372 | [217372-match-village.json](./217372-match-village.json) |
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
+| Match-3: Matchington Mansion | 86782 | [86782-match-3-matchington-mansion.json](./86782-match-3-matchington-mansion.json) |
 | Match-o-3000 | 336722 | [336722-match-o-3000.json](./336722-match-o-3000.json) |
 | Match-Off | 182854 | [182854-match-off.json](./182854-match-off.json) |
 | Match, Talk, Date!: A Modern Dating Sim! | 258937 | [258937-match-talk-date-a-modern-dating-sim.json](./258937-match-talk-date-a-modern-dating-sim.json) |
@@ -10528,6 +10529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniballist | 90530 | [90530-miniballist.json](./90530-miniballist.json) |
 | Minibash | 223621 | [223621-minibash.json](./223621-minibash.json) |
 | MiniBikers | 34085 | [34085-minibikers.json](./34085-minibikers.json) |
+| MiniBikers: The game of mini racing motorbikes | 87299 | [87299-minibikers-the-game-of-mini-racing-motorbikes.json](./87299-minibikers-the-game-of-mini-racing-motorbikes.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
 | Minibus Simulator | 407372 | [407372-minibus-simulator.json](./407372-minibus-simulator.json) |
@@ -16253,6 +16255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mxsimulator | 137035 | [137035-mxsimulator.json](./137035-mxsimulator.json) |
 | My 1/6 Lover | 111404 | [111404-my-1-6-lover.json](./111404-my-1-6-lover.json) |
 | My 11 Heroes | 234508 | [234508-my-11-heroes.json](./234508-my-11-heroes.json) |
+| My 1980's Dashboard | 86245 | [86245-my-1980s-dashboard.json](./86245-my-1980s-dashboard.json) |
 | My 3rd Date with my Cyber Girlfriend | 183401 | [183401-my-3rd-date-with-my-cyber-girlfriend.json](./183401-my-3rd-date-with-my-cyber-girlfriend.json) |
 | My 5-Star Hotel | 106897 | [106897-my-5-star-hotel.json](./106897-my-5-star-hotel.json) |
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
