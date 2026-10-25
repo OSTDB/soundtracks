@@ -3365,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
 | Seablip | 144811 | [144811-seablip.json](./144811-seablip.json) |
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
+| SeaColony | 415067 | [415067-seacolony.json](./415067-seacolony.json) |
 | Seacorp Technologies | 108903 | [108903-seacorp-technologies.json](./108903-seacorp-technologies.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
 | Seacurity Breach | 109309 | [109309-seacurity-breach.json](./109309-seacurity-breach.json) |
@@ -12105,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Rivals | 138453 | [138453-snake-rivals.json](./138453-snake-rivals.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Snafu | 180479 | [180479-snake-snafu.json](./180479-snake-snafu.json) |
+| Snake Sphere | 415033 | [415033-snake-sphere.json](./415033-snake-sphere.json) |
 | Snake VR | 78551 | [78551-snake-vr.json](./78551-snake-vr.json) |
 | Snake VS Block Math | 86730 | [86730-snake-vs-block-math.json](./86730-snake-vs-block-math.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
