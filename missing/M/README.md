@@ -10422,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Gunn | 327639 | [327639-mini-gunn.json](./327639-mini-gunn.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
 | Mini Healer | 101692 | [101692-mini-healer.json](./101692-mini-healer.json) |
+| Mini Heroes: Squad Online | 415760 | [415760-mini-heroes-squad-online.json](./415760-mini-heroes-squad-online.json) |
 | Mini Hi-Fi City | 245209 | [245209-mini-hi-fi-city.json](./245209-mini-hi-fi-city.json) |
 | Mini Hockey Champ! | 74502 | [74502-mini-hockey-champ.json](./74502-mini-hockey-champ.json) |
 | Mini Hockey VR | 55478 | [55478-mini-hockey-vr.json](./55478-mini-hockey-vr.json) |
@@ -11327,6 +11328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Twentyeight | 193412 | [193412-mission-twentyeight.json](./193412-mission-twentyeight.json) |
 | Mission Twentynine | 296983 | [296983-mission-twentynine.json](./296983-mission-twentynine.json) |
 | Mission Veterinaire | 149283 | [149283-mission-veterinaire.json](./149283-mission-veterinaire.json) |
+| Mission Whilkas | 415754 | [415754-mission-whilkas.json](./415754-mission-whilkas.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
