@@ -6491,6 +6491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorers of Palan | 416843 | [416843-explorers-of-palan.json](./416843-explorers-of-palan.json) |
 | Explorers of Space | 305452 | [305452-explorers-of-space.json](./305452-explorers-of-space.json) |
 | Explorers of Space | 47265 | [47265-explorers-of-space.json](./47265-explorers-of-space.json) |
+| Explorers of the Brick Universe | 404528 | [404528-explorers-of-the-brick-universe.json](./404528-explorers-of-the-brick-universe.json) |
 | Explorers: Deluxe Edition | 152280 | [152280-explorers-deluxe-edition.json](./152280-explorers-deluxe-edition.json) |
 | Explorers: The Game | 174242 | [174242-explorers-the-game.json](./174242-explorers-the-game.json) |
 | Exploria | 188419 | [188419-exploria.json](./188419-exploria.json) |
