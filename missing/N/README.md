@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Stop Never Stopping | 317085 | [317085-never-stop-never-stopping.json](./317085-never-stop-never-stopping.json) |
 | Never Stop Rolling | 312123 | [312123-never-stop-rolling.json](./312123-never-stop-rolling.json) |
 | Never Stop Sneakin' | 74161 | [74161-never-stop-sneakin.json](./74161-never-stop-sneakin.json) |
+| Never Trust a Girl in a Portal | 420205 | [420205-never-trust-a-girl-in-a-portal.json](./420205-never-trust-a-girl-in-a-portal.json) |
 | Never wake up | 287711 | [287711-never-wake-up.json](./287711-never-wake-up.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
 | Never-Lander | 419893 | [419893-never-lander.json](./419893-never-lander.json) |
