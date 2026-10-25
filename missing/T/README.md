@@ -8620,6 +8620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hacking Intern | 53743 | [53743-the-hacking-intern.json](./53743-the-hacking-intern.json) |
 | The Haioku Byoutou | 124076 | [124076-the-haioku-byoutou.json](./124076-the-haioku-byoutou.json) |
 | The Half-Life 2 Exhibit | 252091 | [252091-the-half-life-2-exhibit.json](./252091-the-half-life-2-exhibit.json) |
+| The Hall | 399025 | [399025-the-hall.json](./399025-the-hall.json) |
 | The Hall of Epiphany | 276379 | [276379-the-hall-of-epiphany.json](./276379-the-hall-of-epiphany.json) |
 | The Halloween | 376175 | [376175-the-halloween.json](./376175-the-halloween.json) |
 | The Halloween Party | 316470 | [316470-the-halloween-party.json](./316470-the-halloween-party.json) |
@@ -10081,6 +10082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Shape | 199798 | [199798-the-last-shape.json](./199798-the-last-shape.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
+| The Last Show | 399035 | [399035-the-last-show.json](./399035-the-last-show.json) |
 | The Last Show | 404387 | [404387-the-last-show.json](./404387-the-last-show.json) |
 | The Last Show of Mr. Chardish | 138389 | [138389-the-last-show-of-mr-chardish.json](./138389-the-last-show-of-mr-chardish.json) |
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
@@ -11105,6 +11107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Elevator | 148810 | [148810-the-magic-elevator.json](./148810-the-magic-elevator.json) |
 | The Magic Flute | 60386 | [60386-the-magic-flute.json](./60386-the-magic-flute.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
+| The Magic Hour | 399053 | [399053-the-magic-hour.json](./399053-the-magic-hour.json) |
 | The Magic Land | 182450 | [182450-the-magic-land.json](./182450-the-magic-land.json) |
 | The Magic Master | 412494 | [412494-the-magic-master.json](./412494-the-magic-master.json) |
 | The Magic Obelisk | 67182 | [67182-the-magic-obelisk.json](./67182-the-magic-obelisk.json) |
@@ -13554,6 +13557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Case 2425: Deluxe Edition | 146185 | [146185-the-silver-case-2425-deluxe-edition.json](./146185-the-silver-case-2425-deluxe-edition.json) |
 | The Silver Case 2425: Limited Edition | 167074 | [167074-the-silver-case-2425-limited-edition.json](./167074-the-silver-case-2425-limited-edition.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
+| The Silver Crow | 399018 | [399018-the-silver-crow.json](./399018-the-silver-crow.json) |
 | The SIlver Key | 19087 | [19087-the-silver-key.json](./19087-the-silver-key.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
 | The Silver Spoon Caper | 185403 | [185403-the-silver-spoon-caper.json](./185403-the-silver-spoon-caper.json) |
@@ -19812,6 +19816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
 | tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
 | TModLoader: Metroid Mod | 332466 | [332466-tmodloader-metroid-mod.json](./332466-tmodloader-metroid-mod.json) |
+| TmPaint | 399044 | [399044-tmpaint.json](./399044-tmpaint.json) |
 | TMT 1 | 387164 | [387164-tmt-1.json](./387164-tmt-1.json) |
 | TNA Impact! | 5228 | [5228-tna-impact.json](./5228-tna-impact.json) |
 | TNA Impact!: Cross the Line | 5229 | [5229-tna-impact-cross-the-line.json](./5229-tna-impact-cross-the-line.json) |
@@ -25627,6 +25632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip Time Collection | 328467 | [328467-trip-time-collection.json](./328467-trip-time-collection.json) |
 | Trip to Europe 12: Romantic Tour - Collector's Edition | 398815 | [398815-trip-to-europe-12-romantic-tour-collectors-edition.json](./398815-trip-to-europe-12-romantic-tour-collectors-edition.json) |
 | Trip To Nonogram: Bali Ubud | 245375 | [245375-trip-to-nonogram-bali-ubud.json](./245375-trip-to-nonogram-bali-ubud.json) |
+| Trip to the Core | 399023 | [399023-trip-to-the-core.json](./399023-trip-to-the-core.json) |
 | Trip to Vinelands | 30865 | [30865-trip-to-vinelands.json](./30865-trip-to-vinelands.json) |
 | Trip World | 6549 | [6549-trip-world.json](./6549-trip-world.json) |
 | Trip World DX | 263533 | [263533-trip-world-dx.json](./263533-trip-world-dx.json) |
