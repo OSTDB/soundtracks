@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Birds of Prey | 7016 | [7016-il-2-sturmovik-birds-of-prey.json](./7016-il-2-sturmovik-birds-of-prey.json) |
 | IL-2 Sturmovik: CG-4A Collector Plane | 285552 | [285552-il-2-sturmovik-cg-4a-collector-plane.json](./285552-il-2-sturmovik-cg-4a-collector-plane.json) |
 | IL-2 Sturmovik: Cliffs of Dover | 27471 | [27471-il-2-sturmovik-cliffs-of-dover.json](./27471-il-2-sturmovik-cliffs-of-dover.json) |
+| IL-2 Sturmovik: Cliffs of Dover - Blitz Edition | 20651 | [20651-il-2-sturmovik-cliffs-of-dover-blitz-edition.json](./20651-il-2-sturmovik-cliffs-of-dover-blitz-edition.json) |
 | IL-2 Sturmovik: Cliffs of Dover Blitz | 80996 | [80996-il-2-sturmovik-cliffs-of-dover-blitz.json](./80996-il-2-sturmovik-cliffs-of-dover-blitz.json) |
 | IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
 | IL-2 Sturmovik: Flying Circus - Volume III | 285554 | [285554-il-2-sturmovik-flying-circus-volume-iii.json](./285554-il-2-sturmovik-flying-circus-volume-iii.json) |
@@ -3956,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interdictor Pilot | 342035 | [342035-interdictor-pilot.json](./342035-interdictor-pilot.json) |
 | Interdimension | 191076 | [191076-interdimension.json](./191076-interdimension.json) |
 | Interesting Kaizo World | 215768 | [215768-interesting-kaizo-world.json](./215768-interesting-kaizo-world.json) |
+| Interfectorem | 30826 | [30826-interfectorem.json](./30826-interfectorem.json) |
 | Interference | 131445 | [131445-interference.json](./131445-interference.json) |
 | Interference | 56447 | [56447-interference.json](./56447-interference.json) |
 | Interference: Dead Air | 211199 | [211199-interference-dead-air.json](./211199-interference-dead-air.json) |
@@ -4341,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Introvert | 337573 | [337573-introvert.json](./337573-introvert.json) |
 | Introvert Quest | 30327 | [30327-introvert-quest.json](./30327-introvert-quest.json) |
 | Introvert: Consequences | 192727 | [192727-introvert-consequences.json](./192727-introvert-consequences.json) |
+| Intrude | 20469 | [20469-intrude.json](./20469-intrude.json) |
 | Intruder | 245134 | [245134-intruder.json](./245134-intruder.json) |
 | Intruder | 292079 | [292079-intruder.json](./292079-intruder.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
