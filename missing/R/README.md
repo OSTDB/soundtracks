@@ -3766,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regulars | 405775 | [405775-regulars.json](./405775-regulars.json) |
 | Regulation Pool | 180471 | [180471-regulation-pool.json](./180471-regulation-pool.json) |
 | Regulators | 199251 | [199251-regulators.json](./199251-regulators.json) |
+| Regulea | 402698 | [402698-regulea.json](./402698-regulea.json) |
 | Regulus | 40071 | [40071-regulus.json](./40071-regulus.json) |
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
 | Regxkcd | 182864 | [182864-regxkcd.json](./182864-regxkcd.json) |
@@ -9767,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rudra: A Tale of Time | 244616 | [244616-rudra-a-tale-of-time.json](./244616-rudra-a-tale-of-time.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Rue Valley | 217012 | [217012-rue-valley.json](./217012-rue-valley.json) |
+| Rue Valley: Digital Deluxe Edition | 402699 | [402699-rue-valley-digital-deluxe-edition.json](./402699-rue-valley-digital-deluxe-edition.json) |
 | Ruff 'N' Tumble | 12755 | [12755-ruff-n-tumble.json](./12755-ruff-n-tumble.json) |
 | Ruff and Reddy in the Space Adventure | 57566 | [57566-ruff-and-reddy-in-the-space-adventure.json](./57566-ruff-and-reddy-in-the-space-adventure.json) |
 | Ruff City | 278937 | [278937-ruff-city.json](./278937-ruff-city.json) |
