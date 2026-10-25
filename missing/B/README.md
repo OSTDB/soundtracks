@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10456,6 +10457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomsy | 74681 | [74681-bomsy.json](./74681-bomsy.json) |
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
 | Bon Bon Paradise | 109481 | [109481-bon-bon-paradise.json](./109481-bon-bon-paradise.json) |
+| Bon Vivant: Plan the Perfect Party | 410695 | [410695-bon-vivant-plan-the-perfect-party.json](./410695-bon-vivant-plan-the-perfect-party.json) |
 | Bon Voyage | 415295 | [415295-bon-voyage.json](./415295-bon-voyage.json) |
 | Bona Fido | 321415 | [321415-bona-fido.json](./321415-bona-fido.json) |
 | Bonanit: A Menorcan Horror Story | 319753 | [319753-bonanit-a-menorcan-horror-story.json](./319753-bonanit-a-menorcan-horror-story.json) |
@@ -10799,6 +10801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomby! | 334452 | [334452-boomby.json](./334452-boomby.json) |
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
+| Boomer | 410649 | [410649-boomer.json](./410649-boomer.json) |
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
 | Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
