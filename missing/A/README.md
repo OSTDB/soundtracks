@@ -2351,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Commando 2 | 152711 | [152711-action-commando-2.json](./152711-action-commando-2.json) |
 | Action Commando: Max Shooting | 108191 | [108191-action-commando-max-shooting.json](./108191-action-commando-max-shooting.json) |
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
+| Action Doom 2: Urban Brawl Reloaded | 395412 | [395412-action-doom-2-urban-brawl-reloaded.json](./395412-action-doom-2-urban-brawl-reloaded.json) |
 | Action Double | 92900 | [92900-action-double.json](./92900-action-double.json) |
 | Action Draw Jumper | 339861 | [339861-action-draw-jumper.json](./339861-action-draw-jumper.json) |
 | Action Entities | 343608 | [343608-action-entities.json](./343608-action-entities.json) |
@@ -3035,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -9142,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
 | Antivirus Survivors 2003 Professional | 384325 | [384325-antivirus-survivors-2003-professional.json](./384325-antivirus-survivors-2003-professional.json) |
 | AntiVirus_Snake | 240656 | [240656-antivirus-snake.json](./240656-antivirus-snake.json) |
+| AntiWirus | 395356 | [395356-antiwirus.json](./395356-antiwirus.json) |
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
 | Antixonix | 140493 | [140493-antixonix.json](./140493-antixonix.json) |
 | Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
@@ -12079,6 +12082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Duty Demands | 383103 | [383103-as-duty-demands.json](./383103-as-duty-demands.json) |
 | As Far as the Eye | 129107 | [129107-as-far-as-the-eye.json](./129107-as-far-as-the-eye.json) |
 | As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
+| As If Through Glass | 395339 | [395339-as-if-through-glass.json](./395339-as-if-through-glass.json) |
 | As Long As It's Not Illegal: Act I | 230322 | [230322-as-long-as-its-not-illegal-act-i.json](./230322-as-long-as-its-not-illegal-act-i.json) |
 | As Long As It's Not Illegal: Act II | 254367 | [254367-as-long-as-its-not-illegal-act-ii.json](./254367-as-long-as-its-not-illegal-act-ii.json) |
 | As Long As It's Not Illegal: Last Act | 264812 | [264812-as-long-as-its-not-illegal-last-act.json](./264812-as-long-as-its-not-illegal-last-act.json) |
@@ -13041,6 +13045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralis | 156019 | [156019-astralis.json](./156019-astralis.json) |
 | Astralis | 376870 | [376870-astralis.json](./376870-astralis.json) |
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
+| Astralith | 395380 | [395380-astralith.json](./395380-astralith.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astranded | 317045 | [317045-astranded.json](./317045-astranded.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
