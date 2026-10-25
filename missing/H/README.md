@@ -3249,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump: Party Skins | 277898 | [277898-helix-jump-party-skins.json](./277898-helix-jump-party-skins.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
+| HelixMod VR | 121871 | [121871-helixmod-vr.json](./121871-helixmod-vr.json) |
 | Hell | 17612 | [17612-hell.json](./17612-hell.json) |
 | Hell | 184834 | [184834-hell.json](./184834-hell.json) |
 | Hell | 287523 | [287523-hell.json](./287523-hell.json) |
@@ -8595,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wax | 380688 | [380688-hot-wax.json](./380688-hot-wax.json) |
 | Hot Wheels | 230413 | [230413-hot-wheels.json](./230413-hot-wheels.json) |
 | Hot Wheels | 94908 | [94908-hot-wheels.json](./94908-hot-wheels.json) |
+| Hot Wheels Infinite Loop | 121938 | [121938-hot-wheels-infinite-loop.json](./121938-hot-wheels-infinite-loop.json) |
 | Hot Wheels Infinite Rush: Bone Shaker Skeletor Edition | 411833 | [411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json](./411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json) |
 | Hot Wheels Infinite Rush: Boost'n'Slide Pack | 411829 | [411829-hot-wheels-infinite-rush-boostnslide-pack.json](./411829-hot-wheels-infinite-rush-boostnslide-pack.json) |
 | Hot Wheels Infinite Rush: Feel the Heat Pack | 411831 | [411831-hot-wheels-infinite-rush-feel-the-heat-pack.json](./411831-hot-wheels-infinite-rush-feel-the-heat-pack.json) |
@@ -10350,6 +10352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypno-Mart | 246815 | [246815-hypno-mart.json](./246815-hypno-mart.json) |
 | Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
 | HypnoCuck: The Arrogant Rich Bitch Till She Falls | 82761 | [82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json](./82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json) |
+| Hypnocult | 121694 | [121694-hypnocult.json](./121694-hypnocult.json) |
 | HypnoFamily Game | 109198 | [109198-hypnofamily-game.json](./109198-hypnofamily-game.json) |
 | Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
 | Hypnolab VR | 168626 | [168626-hypnolab-vr.json](./168626-hypnolab-vr.json) |
