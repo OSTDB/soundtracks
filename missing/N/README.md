@@ -5375,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonograms: Pirates | 285703 | [285703-nonograms-pirates.json](./285703-nonograms-pirates.json) |
 | Nonograms: Vegetables | 285707 | [285707-nonograms-vegetables.json](./285707-nonograms-vegetables.json) |
 | Nonograms: Weapons | 285702 | [285702-nonograms-weapons.json](./285702-nonograms-weapons.json) |
+| NonogramZ: 1000+ online pic-a-pix puzzles | 87288 | [87288-nonogramz-1000-online-pic-a-pix-puzzles.json](./87288-nonogramz-1000-online-pic-a-pix-puzzles.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
 | Nonomura Byouin no Hitobito | 85977 | [85977-nonomura-byouin-no-hitobito.json](./85977-nonomura-byouin-no-hitobito.json) |
