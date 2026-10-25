@@ -3492,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
 | Night Confessional | 293343 | [293343-night-confessional.json](./293343-night-confessional.json) |
+| Night Creed | 412619 | [412619-night-creed.json](./412619-night-creed.json) |
 | Night Crisis | 113838 | [113838-night-crisis.json](./113838-night-crisis.json) |
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
 | Night Dessert | 334458 | [334458-night-dessert.json](./334458-night-dessert.json) |
@@ -5793,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing But Me and You | 380631 | [380631-nothing-but-me-and-you.json](./380631-nothing-but-me-and-you.json) |
 | Nothing Can | 223340 | [223340-nothing-can.json](./223340-nothing-can.json) |
 | Nothing Can Stop Us Encore | 236307 | [236307-nothing-can-stop-us-encore.json](./236307-nothing-can-stop-us-encore.json) |
+| Nothing Goes Right: Bad Business | 412603 | [412603-nothing-goes-right-bad-business.json](./412603-nothing-goes-right-bad-business.json) |
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
 | Nothing Strange Here | 352856 | [352856-nothing-strange-here.json](./352856-nothing-strange-here.json) |
