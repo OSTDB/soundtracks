@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
 | 3D Miner | 242978 | [242978-3d-miner.json](./242978-3d-miner.json) |
 | 3D Minesweeper | 384102 | [384102-3d-minesweeper.json](./384102-3d-minesweeper.json) |
+| 3D MiniGolf | 11434 | [11434-3d-minigolf.json](./11434-3d-minigolf.json) |
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
 | 3D MiniGolf | 147887 | [147887-3d-minigolf.json](./147887-3d-minigolf.json) |
 | 3D MiniGolf Remastered | 187270 | [187270-3d-minigolf-remastered.json](./187270-3d-minigolf-remastered.json) |
@@ -2848,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
 | 9PM Football Managers | 243078 | [243078-9pm-football-managers.json](./243078-9pm-football-managers.json) |
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
+| 9th Company: Roots of Terror | 11440 | [11440-9th-company-roots-of-terror.json](./11440-9th-company-roots-of-terror.json) |
 | 9th Dawn | 50404 | [50404-9th-dawn.json](./50404-9th-dawn.json) |
 | 9th Dawn Classic | 55684 | [55684-9th-dawn-classic.json](./55684-9th-dawn-classic.json) |
 | 9th Dawn II | 36407 | [36407-9th-dawn-ii.json](./36407-9th-dawn-ii.json) |
