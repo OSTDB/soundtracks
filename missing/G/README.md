@@ -9091,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns 4 Hire | 222959 | [222959-guns-4-hire.json](./222959-guns-4-hire.json) |
 | Guns and Blood: 2D Zombie Shooter | 96025 | [96025-guns-and-blood-2d-zombie-shooter.json](./96025-guns-and-blood-2d-zombie-shooter.json) |
 | Guns and Braps | 127027 | [127027-guns-and-braps.json](./127027-guns-and-braps.json) |
+| Guns and Bullets Bundle | 397734 | [397734-guns-and-bullets-bundle.json](./397734-guns-and-bullets-bundle.json) |
 | Guns and Donuts | 260635 | [260635-guns-and-donuts.json](./260635-guns-and-donuts.json) |
 | Guns and Ghosts | 110676 | [110676-guns-and-ghosts.json](./110676-guns-and-ghosts.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
