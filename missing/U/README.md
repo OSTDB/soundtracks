@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uboat Attack | 314607 | [314607-uboat-attack.json](./314607-uboat-attack.json) |
 | Uboat Attack: Cloverfield DLC | 316235 | [316235-uboat-attack-cloverfield-dlc.json](./316235-uboat-attack-cloverfield-dlc.json) |
 | Uboat Attack: Complete Edition | 317245 | [317245-uboat-attack-complete-edition.json](./317245-uboat-attack-complete-edition.json) |
+| Uboat Attack: Double Attack Edition | 404547 | [404547-uboat-attack-double-attack-edition.json](./404547-uboat-attack-double-attack-edition.json) |
 | Uboat Attack: Gold Edition | 385212 | [385212-uboat-attack-gold-edition.json](./385212-uboat-attack-gold-edition.json) |
 | Uboat Attack: Vortice DLC | 316234 | [316234-uboat-attack-vortice-dlc.json](./316234-uboat-attack-vortice-dlc.json) |
 | Uboat Attack: Zeppelin DLC | 316233 | [316233-uboat-attack-zeppelin-dlc.json](./316233-uboat-attack-zeppelin-dlc.json) |
