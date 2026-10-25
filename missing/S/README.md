@@ -5352,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Boxing | 364578 | [364578-shadow-boxing.json](./364578-shadow-boxing.json) |
 | Shadow Boxing 2 | 364579 | [364579-shadow-boxing-2.json](./364579-shadow-boxing-2.json) |
 | Shadow BoXR | 241368 | [241368-shadow-boxr.json](./241368-shadow-boxr.json) |
+| Shadow Brawlers | 107404 | [107404-shadow-brawlers.json](./107404-shadow-brawlers.json) |
 | Shadow Breakers | 333139 | [333139-shadow-breakers.json](./333139-shadow-breakers.json) |
 | Shadow Bridge | 414182 | [414182-shadow-bridge.json](./414182-shadow-bridge.json) |
 | Shadow Bug | 44246 | [44246-shadow-bug.json](./44246-shadow-bug.json) |
@@ -12951,6 +12952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
 | Sock Puppet Superstar | 400678 | [400678-sock-puppet-superstar.json](./400678-sock-puppet-superstar.json) |
+| Socketeer | 107225 | [107225-socketeer.json](./107225-socketeer.json) |
 | Sockman | 75634 | [75634-sockman.json](./75634-sockman.json) |
 | Sockpuppet Noir | 191655 | [191655-sockpuppet-noir.json](./191655-sockpuppet-noir.json) |
 | Socks | 181679 | [181679-socks.json](./181679-socks.json) |
@@ -16012,6 +16014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mash | 366877 | [366877-space-mash.json](./366877-space-mash.json) |
 | Space Master | 292440 | [292440-space-master.json](./292440-space-master.json) |
 | Space Mayhem | 113039 | [113039-space-mayhem.json](./113039-space-mayhem.json) |
+| Space Maze | 103021 | [103021-space-maze.json](./103021-space-maze.json) |
 | Space Maze | 260322 | [260322-space-maze.json](./260322-space-maze.json) |
 | Space Maze | 345522 | [345522-space-maze.json](./345522-space-maze.json) |
 | Space Maze Attack | 277537 | [277537-space-maze-attack.json](./277537-space-maze-attack.json) |
@@ -27843,6 +27846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
+| Survival.io - Battle Royale | 101560 | [101560-survival-io-battle-royale.json](./101560-survival-io-battle-royale.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
 | Survivalist | 35994 | [35994-survivalist.json](./35994-survivalist.json) |
 | Survivalist: Invisible Strain | 117233 | [117233-survivalist-invisible-strain.json](./117233-survivalist-invisible-strain.json) |
