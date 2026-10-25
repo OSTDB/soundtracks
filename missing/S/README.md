@@ -21119,6 +21119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamburg | 74585 | [74585-steamburg.json](./74585-steamburg.json) |
 | SteamCity Chronicles: Rise of the Rose | 123959 | [123959-steamcity-chronicles-rise-of-the-rose.json](./123959-steamcity-chronicles-rise-of-the-rose.json) |
 | Steamcore | 213821 | [213821-steamcore.json](./213821-steamcore.json) |
+| Steamcraft | 113835 | [113835-steamcraft.json](./113835-steamcraft.json) |
 | Steamdle | 362034 | [362034-steamdle.json](./362034-steamdle.json) |
 | SteamDolls | 33028 | [33028-steamdolls.json](./33028-steamdolls.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
@@ -22216,6 +22217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
 | Stormgate | 204358 | [204358-stormgate.json](./204358-stormgate.json) |
+| Stormhill Mystery: Family Shadows | 113784 | [113784-stormhill-mystery-family-shadows.json](./113784-stormhill-mystery-family-shadows.json) |
 | Storming the Grandmothership | 181227 | [181227-storming-the-grandmothership.json](./181227-storming-the-grandmothership.json) |
 | Stormlander | 378994 | [378994-stormlander.json](./378994-stormlander.json) |
 | Stormlord | 12781 | [12781-stormlord.json](./12781-stormlord.json) |
