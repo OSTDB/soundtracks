@@ -3814,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Definitive Edition | 283141 | [283141-knights-and-guns-definitive-edition.json](./283141-knights-and-guns-definitive-edition.json) |
 | Knights & Guns: Deluxe Edition | 257532 | [257532-knights-and-guns-deluxe-edition.json](./257532-knights-and-guns-deluxe-edition.json) |
 | Knights & Guns: Diamond Edition | 271835 | [271835-knights-and-guns-diamond-edition.json](./271835-knights-and-guns-diamond-edition.json) |
+| Knights & Guns: Essentials Edition | 386802 | [386802-knights-and-guns-essentials-edition.json](./386802-knights-and-guns-essentials-edition.json) |
 | Knights & Guns: Expansion Pack #1 | 223559 | [223559-knights-and-guns-expansion-pack-1.json](./223559-knights-and-guns-expansion-pack-1.json) |
 | Knights & Guns: Expansion Pack #2 | 226326 | [226326-knights-and-guns-expansion-pack-2.json](./226326-knights-and-guns-expansion-pack-2.json) |
 | Knights & Guns: Expansion Packs Collection | 231282 | [231282-knights-and-guns-expansion-packs-collection.json](./231282-knights-and-guns-expansion-packs-collection.json) |
@@ -4527,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korokoro | 338756 | [338756-korokoro.json](./338756-korokoro.json) |
 | Korokoro Post Nin | 92677 | [92677-korokoro-post-nin.json](./92677-korokoro-post-nin.json) |
 | Korolevskaya Noch | 327667 | [327667-korolevskaya-noch.json](./327667-korolevskaya-noch.json) |
+| Koromeke | 386768 | [386768-koromeke.json](./386768-koromeke.json) |
 | Korona:Nemesis | 121281 | [121281-korona-nemesis.json](./121281-korona-nemesis.json) |
 | KoroNeko | 262856 | [262856-koroneko.json](./262856-koroneko.json) |
 | Koropokkur in Love: A Little Fairy's Tale | 107769 | [107769-koropokkur-in-love-a-little-fairys-tale.json](./107769-koropokkur-in-love-a-little-fairys-tale.json) |
