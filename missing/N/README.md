@@ -3646,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift: 1999 | 366829 | [366829-night-shift-1999.json](./366829-night-shift-1999.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
 | Night Shift: Remade | 181792 | [181792-night-shift-remade.json](./181792-night-shift-remade.json) |
+| Night Shift: Something Is Wrong | 417005 | [417005-night-shift-something-is-wrong.json](./417005-night-shift-something-is-wrong.json) |
 | Night shot | 116071 | [116071-night-shot.json](./116071-night-shot.json) |
 | Night Shot | 343744 | [343744-night-shot.json](./343744-night-shot.json) |
 | Night Signal | 119740 | [119740-night-signal.json](./119740-night-signal.json) |
@@ -5184,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noddy's Magic Adventure | 273015 | [273015-noddys-magic-adventure.json](./273015-noddys-magic-adventure.json) |
 | Noddy's Playtime | 145496 | [145496-noddys-playtime.json](./145496-noddys-playtime.json) |
 | Node Along | 103946 | [103946-node-along.json](./103946-node-along.json) |
+| Node Crown | 416981 | [416981-node-crown.json](./416981-node-crown.json) |
 | Node Farm | 287772 | [287772-node-farm.json](./287772-node-farm.json) |
 | Node Math | 370712 | [370712-node-math.json](./370712-node-math.json) |
 | Node RPG | 373008 | [373008-node-rpg.json](./373008-node-rpg.json) |
