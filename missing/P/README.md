@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
+| Pachincro | 390288 | [390288-pachincro.json](./390288-pachincro.json) |
 | Pachinko | 6123 | [6123-pachinko.json](./6123-pachinko.json) |
 | Pachinko | 85898 | [85898-pachinko.json](./85898-pachinko.json) |
 | Pachinko 365 Nichi | 136737 | [136737-pachinko-365-nichi.json](./136737-pachinko-365-nichi.json) |
@@ -2096,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parry de Bougai! Dual Runner | 355190 | [355190-parry-de-bougai-dual-runner.json](./355190-parry-de-bougai-dual-runner.json) |
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
 | Parry Nightmare | 214214 | [214214-parry-nightmare.json](./214214-parry-nightmare.json) |
+| Parrydox: Battle of the Alamo | 389930 | [389930-parrydox-battle-of-the-alamo.json](./389930-parrydox-battle-of-the-alamo.json) |
 | Parrygon | 424656 | [424656-parrygon.json](./424656-parrygon.json) |
 | ParryMaster | 374810 | [374810-parrymaster.json](./374810-parrymaster.json) |
 | ParryRobot | 277371 | [277371-parryrobot.json](./277371-parryrobot.json) |
@@ -4986,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
 | Pickup Trash Simulator Remastered | 312426 | [312426-pickup-trash-simulator-remastered.json](./312426-pickup-trash-simulator-remastered.json) |
+| Pickupbal | 389931 | [389931-pickupbal.json](./389931-pickupbal.json) |
 | Picky Pop | 73123 | [73123-picky-pop.json](./73123-picky-pop.json) |
 | Picma: Picture Enigmas | 102044 | [102044-picma-picture-enigmas.json](./102044-picma-picture-enigmas.json) |
 | Picme | 245739 | [245739-picme.json](./245739-picme.json) |
@@ -7964,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plattis | 341569 | [341569-plattis.json](./341569-plattis.json) |
 | Platty Game | 417678 | [417678-platty-game.json](./417678-platty-game.json) |
 | Platwormer | 181325 | [181325-platwormer.json](./181325-platwormer.json) |
+| Platyguard: Swarm Slayer | 389955 | [389955-platyguard-swarm-slayer.json](./389955-platyguard-swarm-slayer.json) |
 | Platypus Adventures | 173032 | [173032-platypus-adventures.json](./173032-platypus-adventures.json) |
 | Platypus Evolution | 268491 | [268491-platypus-evolution.json](./268491-platypus-evolution.json) |
 | Platypus II | 36229 | [36229-platypus-ii.json](./36229-platypus-ii.json) |
@@ -10923,6 +10927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
 | Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
+| Potion Craft Together | 389950 | [389950-potion-craft-together.json](./389950-potion-craft-together.json) |
 | Potion Dealer | 411087 | [411087-potion-dealer.json](./411087-potion-dealer.json) |
 | Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
 | Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
