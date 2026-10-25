@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Creator | 163788 | [163788-magical-girl-creator.json](./163788-magical-girl-creator.json) |
 | Magical Girl Critical | 130605 | [130605-magical-girl-critical.json](./130605-magical-girl-critical.json) |
 | Magical Girl Critical Deluxe | 339978 | [339978-magical-girl-critical-deluxe.json](./339978-magical-girl-critical-deluxe.json) |
+| Magical Girl ER | 410041 | [410041-magical-girl-er.json](./410041-magical-girl-er.json) |
 | Magical Girl Fist Fight | 353812 | [353812-magical-girl-fist-fight.json](./353812-magical-girl-fist-fight.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
@@ -3875,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Rivals: Season 5.5 - Rogue | 381241 | [381241-marvel-rivals-season-5-5-rogue.json](./381241-marvel-rivals-season-5-5-rogue.json) |
 | Marvel Rivals: Season 6 - Night at Museum | 381240 | [381240-marvel-rivals-season-6-night-at-museum.json](./381240-marvel-rivals-season-6-night-at-museum.json) |
 | Marvel Rivals: Season 7 - The Hunt is On | 395763 | [395763-marvel-rivals-season-7-the-hunt-is-on.json](./395763-marvel-rivals-season-7-the-hunt-is-on.json) |
+| Marvel Rivals: Season 9 – The Mystery of Thebes | 410021 | [410021-marvel-rivals-season-9-the-mystery-of-thebes.json](./410021-marvel-rivals-season-9-the-mystery-of-thebes.json) |
 | Marvel Snap | 202279 | [202279-marvel-snap.json](./202279-marvel-snap.json) |
 | Marvel Spider-Man | 198900 | [198900-marvel-spider-man.json](./198900-marvel-spider-man.json) |
 | Marvel Spider-Man Unlimited | 89103 | [89103-marvel-spider-man-unlimited.json](./89103-marvel-spider-man-unlimited.json) |
