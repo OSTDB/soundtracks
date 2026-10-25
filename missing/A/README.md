@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Puzzled | 68482 | [68482-aca-neo-geo-puzzled.json](./68482-aca-neo-geo-puzzled.json) |
 | ACA Neo Geo: Ragnagard | 113552 | [113552-aca-neo-geo-ragnagard.json](./113552-aca-neo-geo-ragnagard.json) |
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
+| ACA Neo Geo: Real Bout Fatal Fury Special | 78127 | [78127-aca-neo-geo-real-bout-fatal-fury-special.json](./78127-aca-neo-geo-real-bout-fatal-fury-special.json) |
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
 | ACA Neo Geo: Robo Army | 99483 | [99483-aca-neo-geo-robo-army.json](./99483-aca-neo-geo-robo-army.json) |
 | ACA Neo Geo: Samurai Shodown IV | 103848 | [103848-aca-neo-geo-samurai-shodown-iv.json](./103848-aca-neo-geo-samurai-shodown-iv.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Twinkle Star Sprites | 113209 | [113209-aca-neo-geo-twinkle-star-sprites.json](./113209-aca-neo-geo-twinkle-star-sprites.json) |
 | ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
 | ACA Neo Geo: World Heroes 2 | 99740 | [99740-aca-neo-geo-world-heroes-2.json](./99740-aca-neo-geo-world-heroes-2.json) |
+| ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
 | ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
 | ACA NeoGeo Selection Vol. 3 | 342070 | [342070-aca-neogeo-selection-vol-3.json](./342070-aca-neogeo-selection-vol-3.json) |
@@ -3873,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
 | Agents of Mayhem: Lazarus | 118270 | [118270-agents-of-mayhem-lazarus.json](./118270-agents-of-mayhem-lazarus.json) |
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
+| Agents of Mayhem: Total Mayhem Bundle | 83756 | [83756-agents-of-mayhem-total-mayhem-bundle.json](./83756-agents-of-mayhem-total-mayhem-bundle.json) |
 | Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
 | Agents of Spleef | 316459 | [316459-agents-of-spleef.json](./316459-agents-of-spleef.json) |
 | Agents of Storm | 62566 | [62566-agents-of-storm.json](./62566-agents-of-storm.json) |
@@ -9195,6 +9198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment Dream | 332462 | [332462-apartment-dream.json](./332462-apartment-dream.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
+| Apartment of Love | 83803 | [83803-apartment-of-love.json](./83803-apartment-of-love.json) |
 | Apartment Story | 314709 | [314709-apartment-story.json](./314709-apartment-story.json) |
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
 | Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
@@ -11796,7 +11800,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifacts of the Past: Ancient Mysteries | 417297 | [417297-artifacts-of-the-past-ancient-mysteries.json](./417297-artifacts-of-the-past-ancient-mysteries.json) |
+| Artifex Mundi Adventure Collection | 83755 | [83755-artifex-mundi-adventure-collection.json](./83755-artifex-mundi-adventure-collection.json) |
 | Artifex Mundi Essential Bundle | 82380 | [82380-artifex-mundi-essential-bundle.json](./82380-artifex-mundi-essential-bundle.json) |
+| Artifex Mundi Fantasy Bundle | 83733 | [83733-artifex-mundi-fantasy-bundle.json](./83733-artifex-mundi-fantasy-bundle.json) |
 | Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
 | Artifice | 258313 | [258313-artifice.json](./258313-artifice.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
@@ -13879,6 +13885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Arena | 33141 | [33141-audio-arena.json](./33141-audio-arena.json) |
 | Audio Clash: Battle of the Bands | 152128 | [152128-audio-clash-battle-of-the-bands.json](./152128-audio-clash-battle-of-the-bands.json) |
 | Audio Drive 2 VR | 338181 | [338181-audio-drive-2-vr.json](./338181-audio-drive-2-vr.json) |
+| Audio Drive Neon | 76491 | [76491-audio-drive-neon.json](./76491-audio-drive-neon.json) |
 | Audio Factory | 76149 | [76149-audio-factory.json](./76149-audio-factory.json) |
 | Audio Forager | 83963 | [83963-audio-forager.json](./83963-audio-forager.json) |
 | Audio Game (Wizard's Choice 2) | 100886 | [100886-audio-game-wizards-choice-2.json](./100886-audio-game-wizards-choice-2.json) |
