@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -10978,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares Fighter 2 | 235181 | [235181-ares-fighter-2.json](./235181-ares-fighter-2.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | ARES: Automated Relay System | 400051 | [400051-ares-automated-relay-system.json](./400051-ares-automated-relay-system.json) |
+| Ares: The Iron Vanguard | 418196 | [418196-ares-the-iron-vanguard.json](./418196-ares-the-iron-vanguard.json) |
 | Aresda | 385422 | [385422-aresda.json](./385422-aresda.json) |
 | Aretha | 222820 | [222820-aretha.json](./222820-aretha.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
@@ -14560,6 +14562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid Falls! | 293477 | [293477-avoid-falls.json](./293477-avoid-falls.json) |
 | Avoid It! | 241420 | [241420-avoid-it.json](./241420-avoid-it.json) |
 | Avoid Korean Memes | 245207 | [245207-avoid-korean-memes.json](./245207-avoid-korean-memes.json) |
+| Avoid Mushrooms | 418241 | [418241-avoid-mushrooms.json](./418241-avoid-mushrooms.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avoid the Demons | 168589 | [168589-avoid-the-demons.json](./168589-avoid-the-demons.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
