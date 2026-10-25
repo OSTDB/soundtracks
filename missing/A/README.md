@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night at Manster Mansion | 178826 | [178826-a-night-at-manster-mansion.json](./178826-a-night-at-manster-mansion.json) |
 | A Night at Moka Efti: A Babylon Berlin Story | 409210 | [409210-a-night-at-moka-efti-a-babylon-berlin-story.json](./409210-a-night-at-moka-efti-a-babylon-berlin-story.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
+| A Night at the Races | 121901 | [121901-a-night-at-the-races.json](./121901-a-night-at-the-races.json) |
 | A Night at the Watermill | 266072 | [266072-a-night-at-the-watermill.json](./266072-a-night-at-the-watermill.json) |
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
@@ -6378,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alterlight | 256705 | [256705-alterlight.json](./256705-alterlight.json) |
 | AlterMage | 388878 | [388878-altermage.json](./388878-altermage.json) |
 | Alterna Vvelt: Blue Exorcist Another Story | 350046 | [350046-alterna-vvelt-blue-exorcist-another-story.json](./350046-alterna-vvelt-blue-exorcist-another-story.json) |
+| Alternate DiMansion Diary | 115437 | [115437-alternate-dimansion-diary.json](./115437-alternate-dimansion-diary.json) |
 | Alternate Dimensions | 403483 | [403483-alternate-dimensions.json](./403483-alternate-dimensions.json) |
 | Alternate Reality: The Dungeon | 44128 | [44128-alternate-reality-the-dungeon.json](./44128-alternate-reality-the-dungeon.json) |
 | Alternate Tales of Ryukyu: Bonds of the Red Sakura Trees | 408706 | [408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json](./408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json) |
@@ -11388,6 +11390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armorik the Viking: The Eight Conquests | 69172 | [69172-armorik-the-viking-the-eight-conquests.json](./69172-armorik-the-viking-the-eight-conquests.json) |
 | Armorines: Project S.W.A.R.M. | 186027 | [186027-armorines-project-s-w-a-r-m.json](./186027-armorines-project-s-w-a-r-m.json) |
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
+| Armortale | 121572 | [121572-armortale.json](./121572-armortale.json) |
 | Armory & Machine | 137363 | [137363-armory-and-machine.json](./137363-armory-and-machine.json) |
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
 | Armory Simulator | 400663 | [400663-armory-simulator.json](./400663-armory-simulator.json) |
