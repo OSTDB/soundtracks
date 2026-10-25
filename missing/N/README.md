@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu Koi High Pressure | 194597 | [194597-natsu-koi-high-pressure.json](./194597-natsu-koi-high-pressure.json) |
 | Natsu no Hi no Resonance | 201810 | [201810-natsu-no-hi-no-resonance.json](./201810-natsu-no-hi-no-resonance.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
+| Natsu no Sippo wo Oikakete | 400755 | [400755-natsu-no-sippo-wo-oikakete.json](./400755-natsu-no-sippo-wo-oikakete.json) |
 | Natsu Shoujo: Promised Summer | 401155 | [401155-natsu-shoujo-promised-summer.json](./401155-natsu-shoujo-promised-summer.json) |
 | Natsu to Hakaba to Urameshiya | 285378 | [285378-natsu-to-hakaba-to-urameshiya.json](./285378-natsu-to-hakaba-to-urameshiya.json) |
 | Natsu Uso: Ahead of the Reminiscence | 379631 | [379631-natsu-uso-ahead-of-the-reminiscence.json](./379631-natsu-uso-ahead-of-the-reminiscence.json) |
