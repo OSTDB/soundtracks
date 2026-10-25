@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Stories to Tell]: The Stoneville Incident | 410259 | [410259-stories-to-tell-the-stoneville-incident.json](./410259-stories-to-tell-the-stoneville-incident.json) |
 | [Untitled] | 261441 | [261441-untitled.json](./261441-untitled.json) |
 | [Visible] | 381404 | [381404-visible.json](./381404-visible.json) |
+| [Vlast] | 399048 | [399048-vlast.json](./399048-vlast.json) |
 | {Undefined} | 159190 | [159190-undefined.json](./159190-undefined.json) |
 | @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | @Card SD Gundam Gaiden | 130888 | [130888-card-sd-gundam-gaiden.json](./130888-card-sd-gundam-gaiden.json) |
@@ -952,6 +953,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 14 Nights With Beatrice | 381403 | [381403-14-nights-with-beatrice.json](./381403-14-nights-with-beatrice.json) |
 | 14/? | 259464 | [259464-14.json](./259464-14.json) |
+| 14/?? | 398948 | [398948-14.json](./398948-14.json) |
+| 14/??? | 398949 | [398949-14.json](./398949-14.json) |
 | 1402 | 358062 | [358062-1402.json](./358062-1402.json) |
 | 1406 | 116102 | [116102-1406.json](./116102-1406.json) |
 | 141 | 126351 | [126351-141.json](./126351-141.json) |
@@ -2680,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Waterslide | 101105 | [101105-8-bit-waterslide.json](./101105-8-bit-waterslide.json) |
 | 8-BIT Yu-No's Great Adventure | 209737 | [209737-8-bit-yu-nos-great-adventure.json](./209737-8-bit-yu-nos-great-adventure.json) |
 | 8-gatsu 7-ka no Amayadori | 403956 | [403956-8-gatsu-7-ka-no-amayadori.json](./403956-8-gatsu-7-ka-no-amayadori.json) |
+| 8-Hour Workday | 399003 | [399003-8-hour-workday.json](./399003-8-hour-workday.json) |
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
 | 8-in-1 IQ Scale Bundle | 81896 | [81896-8-in-1-iq-scale-bundle.json](./81896-8-in-1-iq-scale-bundle.json) |
 | 8:00 AM: Still Morning | 394616 | [394616-8-00-am-still-morning.json](./394616-8-00-am-still-morning.json) |
