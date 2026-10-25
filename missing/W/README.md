@@ -3758,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisperwind | 150284 | [150284-whisperwind.json](./150284-whisperwind.json) |
 | Whispike Survivors: Sword of the Necromancer | 253812 | [253812-whispike-survivors-sword-of-the-necromancer.json](./253812-whispike-survivors-sword-of-the-necromancer.json) |
 | Whistle Pig | 350451 | [350451-whistle-pig.json](./350451-whistle-pig.json) |
+| Whistle Willie | 422057 | [422057-whistle-willie.json](./422057-whistle-willie.json) |
 | Whistle: Fuki Nukeru Kaze | 61407 | [61407-whistle-fuki-nukeru-kaze.json](./61407-whistle-fuki-nukeru-kaze.json) |
 | Whistle! Dai 37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai | 386986 | [386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json](./386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json) |
 | Whistle1 | 402524 | [402524-whistle1.json](./402524-whistle1.json) |
@@ -5588,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizdom | 174082 | [174082-wizdom.json](./174082-wizdom.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
 | Wizdom Academy | 279478 | [279478-wizdom-academy.json](./279478-wizdom-academy.json) |
+| Wizherd | 422032 | [422032-wizherd.json](./422032-wizherd.json) |
 | Wizhood | 43092 | [43092-wizhood.json](./43092-wizhood.json) |
 | Wizkid: The Story of Wizball II | 69742 | [69742-wizkid-the-story-of-wizball-ii.json](./69742-wizkid-the-story-of-wizball-ii.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
