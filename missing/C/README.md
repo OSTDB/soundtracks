@@ -4170,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celetania | 92415 | [92415-celetania.json](./92415-celetania.json) |
 | Cell | 287357 | [287357-cell.json](./287357-cell.json) |
 | Cell | 86632 | [86632-cell.json](./86632-cell.json) |
+| Cell 0 | 420198 | [420198-cell-0.json](./420198-cell-0.json) |
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
@@ -4340,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerberus: Orbital watch | 126392 | [126392-cerberus-orbital-watch.json](./126392-cerberus-orbital-watch.json) |
 | Cerbirds | 180448 | [180448-cerbirds.json](./180448-cerbirds.json) |
 | Cereal Cafe | 351799 | [351799-cereal-cafe.json](./351799-cereal-cafe.json) |
+| Cereal Friend | 420169 | [420169-cereal-friend.json](./420169-cereal-friend.json) |
 | Cereal Killer | 326634 | [326634-cereal-killer.json](./326634-cereal-killer.json) |
 | Cereal Soup | 99128 | [99128-cereal-soup.json](./99128-cereal-soup.json) |
 | Cerealman | 419884 | [419884-cerealman.json](./419884-cerealman.json) |
@@ -7790,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash | 125302 | [125302-clash.json](./125302-clash.json) |
 | Clash | 213861 | [213861-clash.json](./213861-clash.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
+| Clash & Run | 420174 | [420174-clash-and-run.json](./420174-clash-and-run.json) |
 | Clash Battle Simulator | 326450 | [326450-clash-battle-simulator.json](./326450-clash-battle-simulator.json) |
 | Clash Bro's! | 330962 | [330962-clash-bros.json](./330962-clash-bros.json) |
 | Clash Caddie | 104495 | [104495-clash-caddie.json](./104495-clash-caddie.json) |
@@ -15630,6 +15633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
 | Cubiverse | 108774 | [108774-cubiverse.json](./108774-cubiverse.json) |
 | Cubivore: Survival of the Fittest | 3865 | [3865-cubivore-survival-of-the-fittest.json](./3865-cubivore-survival-of-the-fittest.json) |
+| Cubix | 420185 | [420185-cubix.json](./420185-cubix.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cubix Robots for Everyone: Showdown | 3866 | [3866-cubix-robots-for-everyone-showdown.json](./3866-cubix-robots-for-everyone-showdown.json) |
