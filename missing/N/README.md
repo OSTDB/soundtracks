@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nana: Live Staff Daiboshuu! Shoshinsha Kangei | 65421 | [65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json](./65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json) |
 | Nanafushigi: Nanase to Fushigi no Otome-dou | 200950 | [200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json](./200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json) |
+| Nanairo Reincarnation | 113845 | [113845-nanairo-reincarnation.json](./113845-nanairo-reincarnation.json) |
 | Nanaka: Fushigi no Meikyuuroku | 200951 | [200951-nanaka-fushigi-no-meikyuuroku.json](./200951-nanaka-fushigi-no-meikyuuroku.json) |
 | Nanako Descends to Hell | 39151 | [39151-nanako-descends-to-hell.json](./39151-nanako-descends-to-hell.json) |
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
@@ -1335,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neckbeards: Basement Arena | 36699 | [36699-neckbeards-basement-arena.json](./36699-neckbeards-basement-arena.json) |
 | Neckbeards: Cuck Invaders | 81737 | [81737-neckbeards-cuck-invaders.json](./81737-neckbeards-cuck-invaders.json) |
 | Neckbreak | 308504 | [308504-neckbreak.json](./308504-neckbreak.json) |
+| Necken | 113788 | [113788-necken.json](./113788-necken.json) |
 | Necks Please... | 294212 | [294212-necks-please.json](./294212-necks-please.json) |
 | Neco Drop 2 | 145351 | [145351-neco-drop-2.json](./145351-neco-drop-2.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
@@ -1346,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
 | Necro Gaia | 50362 | [50362-necro-gaia.json](./50362-necro-gaia.json) |
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
+| Necro Mutex | 113819 | [113819-necro-mutex.json](./113819-necro-mutex.json) |
 | Necro Pop | 401894 | [401894-necro-pop.json](./401894-necro-pop.json) |
 | Necro Rumble | 285906 | [285906-necro-rumble.json](./285906-necro-rumble.json) |
 | Necro Saga | 219504 | [219504-necro-saga.json](./219504-necro-saga.json) |
@@ -4717,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
 | No Jokes With Mages | 392373 | [392373-no-jokes-with-mages.json](./392373-no-jokes-with-mages.json) |
 | No King No Kingdom | 75606 | [75606-no-king-no-kingdom.json](./75606-no-king-no-kingdom.json) |
+| No King No Kingdom VR | 110684 | [110684-no-king-no-kingdom-vr.json](./110684-no-king-no-kingdom-vr.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Law | 381205 | [381205-no-law.json](./381205-no-law.json) |
 | No Life: Zombie Survivor | 293872 | [293872-no-life-zombie-survivor.json](./293872-no-life-zombie-survivor.json) |
@@ -5280,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad: Steppeborn Saga | 340957 | [340957-nomad-steppeborn-saga.json](./340957-nomad-steppeborn-saga.json) |
 | Nomadica | 292430 | [292430-nomadica.json](./292430-nomadica.json) |
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
+| Nomads of the Fallen Star | 113640 | [113640-nomads-of-the-fallen-star.json](./113640-nomads-of-the-fallen-star.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
 | Noman's Dungeon | 181177 | [181177-nomans-dungeon.json](./181177-nomans-dungeon.json) |
 | Nomark Baku Haitou: Shijou Saikyou no Jakushi Tatsu | 44401 | [44401-nomark-baku-haitou-shijou-saikyou-no-jakushi-tatsu.json](./44401-nomark-baku-haitou-shijou-saikyou-no-jakushi-tatsu.json) |
