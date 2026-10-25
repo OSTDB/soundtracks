@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takorita Meets Fries | 158181 | [158181-takorita-meets-fries.json](./158181-takorita-meets-fries.json) |
 | Takoway | 133691 | [133691-takoway.json](./133691-takoway.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
+| Takoyaki Run | 398374 | [398374-takoyaki-run.json](./398374-takoyaki-run.json) |
 | Takt of Magic | 91755 | [91755-takt-of-magic.json](./91755-takt-of-magic.json) |
 | Takuhai Maid Shiiko & Nono | 77901 | [77901-takuhai-maid-shiiko-and-nono.json](./77901-takuhai-maid-shiiko-and-nono.json) |
 | Takuhai Maid Shiiko-san | 77944 | [77944-takuhai-maid-shiiko-san.json](./77944-takuhai-maid-shiiko-san.json) |
@@ -6107,6 +6108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ClueFinders 6th Grade Adventures: The Empire of the Plant People | 142139 | [142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json](./142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json) |
 | The ClueFinders Reading Adventures | 91799 | [91799-the-cluefinders-reading-adventures.json](./91799-the-cluefinders-reading-adventures.json) |
 | The Clumsys | 53706 | [53706-the-clumsys.json](./53706-the-clumsys.json) |
+| The Cluster | 398150 | [398150-the-cluster.json](./398150-the-cluster.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
 | The Coagulation | 360506 | [360506-the-coagulation.json](./360506-the-coagulation.json) |
@@ -9944,6 +9946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Human: Go! | 278942 | [278942-the-last-human-go.json](./278942-the-last-human-go.json) |
 | The Last Hunt | 86613 | [86613-the-last-hunt.json](./86613-the-last-hunt.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
+| The Last Inquisition | 398375 | [398375-the-last-inquisition.json](./398375-the-last-inquisition.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
 | The Last Journey | 231538 | [231538-the-last-journey.json](./231538-the-last-journey.json) |
@@ -10097,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
 | The Last Solver | 256162 | [256162-the-last-solver.json](./256162-the-last-solver.json) |
 | The Last Son of Vorona | 367012 | [367012-the-last-son-of-vorona.json](./367012-the-last-son-of-vorona.json) |
+| The Last Song of Witch | 398371 | [398371-the-last-song-of-witch.json](./398371-the-last-song-of-witch.json) |
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
