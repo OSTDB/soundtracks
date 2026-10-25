@@ -793,7 +793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8961,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
 | Blood Ancestors: Open Alpha | 100573 | [100573-blood-ancestors-open-alpha.json](./100573-blood-ancestors-open-alpha.json) |
 | Blood and Bones: A Skeleton Scorned | 262312 | [262312-blood-and-bones-a-skeleton-scorned.json](./262312-blood-and-bones-a-skeleton-scorned.json) |
+| Blood and Brass | 395386 | [395386-blood-and-brass.json](./395386-blood-and-brass.json) |
 | Blood And Fear: Part 1 | 293104 | [293104-blood-and-fear-part-1.json](./293104-blood-and-fear-part-1.json) |
 | Blood and Guts Bundle | 147758 | [147758-blood-and-guts-bundle.json](./147758-blood-and-guts-bundle.json) |
 | Blood and Jade | 62706 | [62706-blood-and-jade.json](./62706-blood-and-jade.json) |
@@ -12724,6 +12724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker VR | 133667 | [133667-brick-breaker-vr.json](./133667-brick-breaker-vr.json) |
 | Brick Breaker X: Deluxe | 180130 | [180130-brick-breaker-x-deluxe.json](./180130-brick-breaker-x-deluxe.json) |
 | Brick Breaker: Ball Shooter | 219479 | [219479-brick-breaker-ball-shooter.json](./219479-brick-breaker-ball-shooter.json) |
+| Brick Breaker: Galaxy Defense | 395352 | [395352-brick-breaker-galaxy-defense.json](./395352-brick-breaker-galaxy-defense.json) |
 | Brick Breaker: Infinity | 331353 | [331353-brick-breaker-infinity.json](./331353-brick-breaker-infinity.json) |
 | Brick Breaker: Shoot Puzzle | 164292 | [164292-brick-breaker-shoot-puzzle.json](./164292-brick-breaker-shoot-puzzle.json) |
 | Brick Breaker: Space Outlaw | 140555 | [140555-brick-breaker-space-outlaw.json](./140555-brick-breaker-space-outlaw.json) |
@@ -12782,6 +12783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks | 93476 | [93476-bricks.json](./93476-bricks.json) |
 | Bricks '2000 | 375585 | [375585-bricks-2000.json](./375585-bricks-2000.json) |
 | Bricks Ahead | 184792 | [184792-bricks-ahead.json](./184792-bricks-ahead.json) |
+| Bricks Breaker | 395353 | [395353-bricks-breaker.json](./395353-bricks-breaker.json) |
 | Bricks Breaker Challenge | 234561 | [234561-bricks-breaker-challenge.json](./234561-bricks-breaker-challenge.json) |
 | Bricks Breaker Mission | 95808 | [95808-bricks-breaker-mission.json](./95808-bricks-breaker-mission.json) |
 | Bricks Breaker Puzzle Classic | 220807 | [220807-bricks-breaker-puzzle-classic.json](./220807-bricks-breaker-puzzle-classic.json) |
