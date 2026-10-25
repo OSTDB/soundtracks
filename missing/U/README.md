@@ -2447,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until the Last Plane 1942 | 278347 | [278347-until-the-last-plane-1942.json](./278347-until-the-last-plane-1942.json) |
 | Until the Night | 202734 | [202734-until-the-night.json](./202734-until-the-night.json) |
 | Until Then | 134165 | [134165-until-then.json](./134165-until-then.json) |
+| Until Then: Afterimages | 392987 | [392987-until-then-afterimages.json](./392987-until-then-afterimages.json) |
 | Until Then: Deluxe Edition | 407104 | [407104-until-then-deluxe-edition.json](./407104-until-then-deluxe-edition.json) |
 | Until They Burn | 400949 | [400949-until-they-burn.json](./400949-until-they-burn.json) |
 | Until We Die | 127240 | [127240-until-we-die.json](./127240-until-we-die.json) |
