@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 7 | 162239 | [162239-jigsaw-puzzle-pro-edition-expansion-pack-7.json](./162239-jigsaw-puzzle-pro-edition-expansion-pack-7.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 8 | 162238 | [162238-jigsaw-puzzle-pro-edition-expansion-pack-8.json](./162238-jigsaw-puzzle-pro-edition-expansion-pack-8.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 9 | 162234 | [162234-jigsaw-puzzle-pro-edition-expansion-pack-9.json](./162234-jigsaw-puzzle-pro-edition-expansion-pack-9.json) |
+| Jigsaw Puzzle: Worlds Beyond | 399646 | [399646-jigsaw-puzzle-worlds-beyond.json](./399646-jigsaw-puzzle-worlds-beyond.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
 | Jigsaw Puzzles | 91249 | [91249-jigsaw-puzzles.json](./91249-jigsaw-puzzles.json) |
