@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
 | Mahjong 2 Classroom | 246266 | [246266-mahjong-2-classroom.json](./246266-mahjong-2-classroom.json) |
 | Mahjong 300 | 401018 | [401018-mahjong-300.json](./401018-mahjong-300.json) |
+| Mahjong 3D | 89161 | [89161-mahjong-3d.json](./89161-mahjong-3d.json) |
 | Mahjong 3D: Essentials | 85269 | [85269-mahjong-3d-essentials.json](./85269-mahjong-3d-essentials.json) |
 | Mahjong 3D: Warriors of the Emperor | 85268 | [85268-mahjong-3d-warriors-of-the-emperor.json](./85268-mahjong-3d-warriors-of-the-emperor.json) |
 | Mahjong Adventure | 147322 | [147322-mahjong-adventure.json](./147322-mahjong-adventure.json) |
@@ -14888,6 +14889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mowing Mazes | 299615 | [299615-mowing-mazes.json](./299615-mowing-mazes.json) |
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
 | Mówùniáng Wùyǔ | 100540 | [100540-mowuniang-wuyu.json](./100540-mowuniang-wuyu.json) |
+| Mowy Lawn | 92096 | [92096-mowy-lawn.json](./92096-mowy-lawn.json) |
 | Mowzie's Mobs | 331346 | [331346-mowzies-mobs.json](./331346-mowzies-mobs.json) |
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moxie 2 // Overdrive | 422460 | [422460-moxie-2-overdrive.json](./422460-moxie-2-overdrive.json) |
@@ -16872,6 +16874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
 | My Little Princess | 90367 | [90367-my-little-princess.json](./90367-my-little-princess.json) |
 | My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
+| My Little Princess : Wizard | 91990 | [91990-my-little-princess-wizard.json](./91990-my-little-princess-wizard.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Ramenbar | 175815 | [175815-my-little-ramenbar.json](./175815-my-little-ramenbar.json) |
 | My Little Ranch | 421182 | [421182-my-little-ranch.json](./421182-my-little-ranch.json) |
