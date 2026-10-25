@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloweenistry | 55673 | [55673-halloweenistry.json](./55673-halloweenistry.json) |
 | Halloweenistry 2 | 55776 | [55776-halloweenistry-2.json](./55776-halloweenistry-2.json) |
 | Hallowlands | 203674 | [203674-hallowlands.json](./203674-hallowlands.json) |
+| Hallows Hill | 407385 | [407385-hallows-hill.json](./407385-hallows-hill.json) |
 | Hallows' Eve | 74961 | [74961-hallows-eve.json](./74961-hallows-eve.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
@@ -7145,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Blossom Edition | 378958 | [378958-hole-io-blossom-edition.json](./378958-hole-io-blossom-edition.json) |
 | Hole io: Complete Edition | 268563 | [268563-hole-io-complete-edition.json](./268563-hole-io-complete-edition.json) |
 | Hole io: Construction DLC | 380392 | [380392-hole-io-construction-dlc.json](./380392-hole-io-construction-dlc.json) |
+| Hole io: Construction Edition | 407112 | [407112-hole-io-construction-edition.json](./407112-hole-io-construction-edition.json) |
 | Hole io: Freak Edition | 275051 | [275051-hole-io-freak-edition.json](./275051-hole-io-freak-edition.json) |
 | Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
 | Hole io: Japan DLC | 378969 | [378969-hole-io-japan-dlc.json](./378969-hole-io-japan-dlc.json) |
@@ -10114,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hype Prototype | 225520 | [225520-hype-prototype.json](./225520-hype-prototype.json) |
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
 | HypeHype | 369889 | [369889-hypehype.json](./369889-hypehype.json) |
+| HypePets | 407495 | [407495-hypepets.json](./407495-hypepets.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
 | Hyper Aggressive | 275480 | [275480-hyper-aggressive.json](./275480-hyper-aggressive.json) |
 | Hyper Apocalypse | 303052 | [303052-hyper-apocalypse.json](./303052-hyper-apocalypse.json) |
