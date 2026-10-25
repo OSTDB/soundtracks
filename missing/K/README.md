@@ -4633,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon's Curse | 178268 | [178268-kowloons-curse.json](./178268-kowloons-curse.json) |
 | Kowloon's Curse: Lost Report | 217159 | [217159-kowloons-curse-lost-report.json](./217159-kowloons-curse-lost-report.json) |
 | Kowloon's Gate | 66177 | [66177-kowloons-gate.json](./66177-kowloons-gate.json) |
+| Kowloon's Gate Suzaku | 403947 | [403947-kowloons-gate-suzaku.json](./403947-kowloons-gate-suzaku.json) |
 | Kowloon's Gate VR: Suzaku | 49511 | [49511-kowloons-gate-vr-suzaku.json](./49511-kowloons-gate-vr-suzaku.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 1 | 255804 | [255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json](./255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 2 | 255806 | [255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json](./255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json) |
@@ -4889,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukumushi Virtual Pet | 189134 | [189134-kukumushi-virtual-pet.json](./189134-kukumushi-virtual-pet.json) |
 | Kuky Adventure | 388286 | [388286-kuky-adventure.json](./388286-kuky-adventure.json) |
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
+| Kula Collection | 403969 | [403969-kula-collection.json](./403969-kula-collection.json) |
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
 | Kulipari: United | 383198 | [383198-kulipari-united.json](./383198-kulipari-united.json) |
 | Kulkis | 413236 | [413236-kulkis.json](./413236-kulkis.json) |
