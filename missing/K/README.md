@@ -3561,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klim:S21 | 374397 | [374397-klim-s21.json](./374397-klim-s21.json) |
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
+| Klitter | 390473 | [390473-klitter.json](./390473-klitter.json) |
 | Kloa: Child of the Forest | 209916 | [209916-kloa-child-of-the-forest.json](./209916-kloa-child-of-the-forest.json) |
 | Klocki | 20472 | [20472-klocki.json](./20472-klocki.json) |
 | Kloinks! | 335051 | [335051-kloinks.json](./335051-kloinks.json) |
