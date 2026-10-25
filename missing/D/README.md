@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Collision | 359283 | [359283-deep-collision.json](./359283-deep-collision.json) |
 | Deep Combat | 385933 | [385933-deep-combat.json](./385933-deep-combat.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
+| Deep Corp | 390993 | [390993-deep-corp.json](./390993-deep-corp.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
 | Deep Dark Block | 334247 | [334247-deep-dark-block.json](./334247-deep-dark-block.json) |
 | Deep Dark Dungeon | 32229 | [32229-deep-dark-dungeon.json](./32229-deep-dark-dungeon.json) |
@@ -13713,6 +13714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
 | Drip Drip | 86203 | [86203-drip-drip.json](./86203-drip-drip.json) |
 | Drip Feed | 262178 | [262178-drip-feed.json](./262178-drip-feed.json) |
+| DripDrip | 391005 | [391005-dripdrip.json](./391005-dripdrip.json) |
 | Driv3r | 194978 | [194978-driv3r.json](./194978-driv3r.json) |
 | Drive | 366908 | [366908-drive.json](./366908-drive.json) |
 | Drive | 94414 | [94414-drive.json](./94414-drive.json) |
