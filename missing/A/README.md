@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Crown of Sorcery and Steel | 197050 | [197050-a-crown-of-sorcery-and-steel.json](./197050-a-crown-of-sorcery-and-steel.json) |
 | A Crown of Thorns | 207740 | [207740-a-crown-of-thorns.json](./207740-a-crown-of-thorns.json) |
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
+| A Cup of Tea | 392397 | [392397-a-cup-of-tea.json](./392397-a-cup-of-tea.json) |
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
@@ -1777,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Manager | 116089 | [116089-abyss-manager.json](./116089-abyss-manager.json) |
 | Abyss Manager Idle | 271667 | [271667-abyss-manager-idle.json](./271667-abyss-manager-idle.json) |
 | Abyss Memory Fallen Angel and the Path of Magic | 192081 | [192081-abyss-memory-fallen-angel-and-the-path-of-magic.json](./192081-abyss-memory-fallen-angel-and-the-path-of-magic.json) |
+| Abyss Occult | 392076 | [392076-abyss-occult.json](./392076-abyss-occult.json) |
 | Abyss Odyssey | 14414 | [14414-abyss-odyssey.json](./14414-abyss-odyssey.json) |
 | Abyss Odyssey: Extended Dream Edition | 21110 | [21110-abyss-odyssey-extended-dream-edition.json](./21110-abyss-odyssey-extended-dream-edition.json) |
 | Abyss of Cain | 273756 | [273756-abyss-of-cain.json](./273756-abyss-of-cain.json) |
@@ -4207,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikiss 3 Cute: Complete Limited Edition | 182478 | [182478-aikiss-3-cute-complete-limited-edition.json](./182478-aikiss-3-cute-complete-limited-edition.json) |
 | Aikode | 255658 | [255658-aikode.json](./255658-aikode.json) |
 | Aikokuryuu no Memoria | 257455 | [257455-aikokuryuu-no-memoria.json](./257455-aikokuryuu-no-memoria.json) |
+| Aileronia | 392098 | [392098-aileronia.json](./392098-aileronia.json) |
 | Ailin: Traps and Treasures | 210576 | [210576-ailin-traps-and-treasures.json](./210576-ailin-traps-and-treasures.json) |
 | Ailing Space | 176201 | [176201-ailing-space.json](./176201-ailing-space.json) |
 | Ailment | 120310 | [120310-ailment.json](./120310-ailment.json) |
@@ -4412,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
 | Air Raid | 11113 | [11113-air-raid.json](./11113-air-raid.json) |
+| Air Raid | 392396 | [392396-air-raid.json](./392396-air-raid.json) |
 | Air Raid 3 | 68270 | [68270-air-raid-3.json](./68270-air-raid-3.json) |
 | Air Raid Over Britain | 89949 | [89949-air-raid-over-britain.json](./89949-air-raid-over-britain.json) |
 | Air Raid: This Is Not a Drill! | 52370 | [52370-air-raid-this-is-not-a-drill.json](./52370-air-raid-this-is-not-a-drill.json) |
@@ -4803,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ake no Yosuga: Twilight Loop | 402477 | [402477-ake-no-yosuga-twilight-loop.json](./402477-ake-no-yosuga-twilight-loop.json) |
 | Ake-Bre | 130602 | [130602-ake-bre.json](./130602-ake-bre.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
+| Akegarasu: Journey to the Underworld | 392094 | [392094-akegarasu-journey-to-the-underworld.json](./392094-akegarasu-journey-to-the-underworld.json) |
 | Akeiro ni Somaru, Utsukushiki Yashiro de | 394791 | [394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json](./394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json) |
 | Akemi-tan | 150550 | [150550-akemi-tan.json](./150550-akemi-tan.json) |
 | Akeno's Veil | 343874 | [343874-akenos-veil.json](./343874-akenos-veil.json) |
@@ -13031,6 +13036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
 | Astral Hound VR | 338168 | [338168-astral-hound-vr.json](./338168-astral-hound-vr.json) |
+| Astral Lords | 392083 | [392083-astral-lords.json](./392083-astral-lords.json) |
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
 | Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
 | Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
@@ -14248,6 +14254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Austrian Truck Simulator | 61524 | [61524-austrian-truck-simulator.json](./61524-austrian-truck-simulator.json) |
+| Author Sim | 392011 | [392011-author-sim.json](./392011-author-sim.json) |
 | Auti-Sim | 306806 | [306806-auti-sim.json](./306806-auti-sim.json) |
 | Auto Afterlife | 133251 | [133251-auto-afterlife.json](./133251-auto-afterlife.json) |
 | Auto Age: Standoff | 33119 | [33119-auto-age-standoff.json](./33119-auto-age-standoff.json) |
