@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Fun | 359281 | [359281-farm-fun.json](./359281-farm-fun.json) |
 | Farm Garden Simulator | 263963 | [263963-farm-garden-simulator.json](./263963-farm-garden-simulator.json) |
 | Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
+| Farm Harbeest | 419609 | [419609-farm-harbeest.json](./419609-farm-harbeest.json) |
 | Farm Harvest | 233380 | [233380-farm-harvest.json](./233380-farm-harvest.json) |
 | Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
 | Farm Idle Game | 371738 | [371738-farm-idle-game.json](./371738-farm-idle-game.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finsternis Kreuz | 298366 | [298366-finsternis-kreuz.json](./298366-finsternis-kreuz.json) |
 | FINSummerVR | 104059 | [104059-finsummervr.json](./104059-finsummervr.json) |
 | Finterior Decorator | 222791 | [222791-finterior-decorator.json](./222791-finterior-decorator.json) |
+| Finto | 419640 | [419640-finto.json](./419640-finto.json) |
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
 | Fio: Figure It Out! | 186584 | [186584-fio-figure-it-out.json](./186584-fio-figure-it-out.json) |
 | Fiona's Dream of Atlantis | 294228 | [294228-fionas-dream-of-atlantis.json](./294228-fionas-dream-of-atlantis.json) |
