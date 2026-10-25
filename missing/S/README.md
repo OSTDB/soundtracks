@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screeps: Arena | 121571 | [121571-screeps-arena.json](./121571-screeps-arena.json) |
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
+| Screw It | 418223 | [418223-screw-it.json](./418223-screw-it.json) |
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
 | Screw Master | 340523 | [340523-screw-master.json](./340523-screw-master.json) |
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
@@ -11388,6 +11389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slug Slasher | 93786 | [93786-slug-slasher.json](./93786-slug-slasher.json) |
 | Slug Survival | 393817 | [393817-slug-survival.json](./393817-slug-survival.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
+| Sluggernauts | 418194 | [418194-sluggernauts.json](./418194-sluggernauts.json) |
 | Sluggerpunk | 298141 | [298141-sluggerpunk.json](./298141-sluggerpunk.json) |
 | Sluggish Morss | 103223 | [103223-sluggish-morss.json](./103223-sluggish-morss.json) |
 | Sluggish Morss: A Delicate Time in History | 103237 | [103237-sluggish-morss-a-delicate-time-in-history.json](./103237-sluggish-morss-a-delicate-time-in-history.json) |
@@ -19444,6 +19446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Baphomet - Deluxe edition | 276600 | [276600-star-conflict-baphomet-deluxe-edition.json](./276600-star-conflict-baphomet-deluxe-edition.json) |
 | Star Conflict: Bark-2 | 310391 | [310391-star-conflict-bark-2.json](./310391-star-conflict-bark-2.json) |
 | Star Conflict: Bark-2 - Deluxe Edition | 310392 | [310392-star-conflict-bark-2-deluxe-edition.json](./310392-star-conflict-bark-2-deluxe-edition.json) |
+| Star Conflict: Burrownauts | 418229 | [418229-star-conflict-burrownauts.json](./418229-star-conflict-burrownauts.json) |
 | Star Conflict: Classic Pirate Weapon Pack | 355155 | [355155-star-conflict-classic-pirate-weapon-pack.json](./355155-star-conflict-classic-pirate-weapon-pack.json) |
 | Star Conflict: Cor Vulnus | 296633 | [296633-star-conflict-cor-vulnus.json](./296633-star-conflict-cor-vulnus.json) |
 | Star Conflict: Cor Vulnus - Deluxe Edition | 296634 | [296634-star-conflict-cor-vulnus-deluxe-edition.json](./296634-star-conflict-cor-vulnus-deluxe-edition.json) |
@@ -21415,6 +21418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Vampire | 111415 | [111415-steel-vampire.json](./111415-steel-vampire.json) |
 | Steel Wars Royale | 148368 | [148368-steel-wars-royale.json](./148368-steel-wars-royale.json) |
+| Steel Wolverines: Modern Armored Combat | 418233 | [418233-steel-wolverines-modern-armored-combat.json](./418233-steel-wolverines-modern-armored-combat.json) |
 | Steel Wool Studios Bundle | 240350 | [240350-steel-wool-studios-bundle.json](./240350-steel-wool-studios-bundle.json) |
 | Steel Worker | 299481 | [299481-steel-worker.json](./299481-steel-worker.json) |
 | Steel Wound | 217310 | [217310-steel-wound.json](./217310-steel-wound.json) |
