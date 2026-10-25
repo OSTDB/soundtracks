@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Posse | 154049 | [154049-parkour-posse.json](./154049-parkour-posse.json) |
 | Parkour Simulator | 377589 | [377589-parkour-simulator.json](./377589-parkour-simulator.json) |
 | Parkour Simulator | 89265 | [89265-parkour-simulator.json](./89265-parkour-simulator.json) |
+| Parkour Simulator 2026 | 386784 | [386784-parkour-simulator-2026.json](./386784-parkour-simulator-2026.json) |
 | Parkour Simulator 3D | 87303 | [87303-parkour-simulator-3d.json](./87303-parkour-simulator-3d.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | Parkour Trials | 346757 | [346757-parkour-trials.json](./346757-parkour-trials.json) |
@@ -8379,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plush Dog | 287544 | [287544-plush-dog.json](./287544-plush-dog.json) |
 | Plush Hospital | 319999 | [319999-plush-hospital.json](./319999-plush-hospital.json) |
 | Plush Parade | 391336 | [391336-plush-parade.json](./391336-plush-parade.json) |
+| Plush Rangers | 386766 | [386766-plush-rangers.json](./386766-plush-rangers.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
@@ -10284,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Protocol: Loop | 346456 | [346456-pool-protocol-loop.json](./346456-pool-protocol-loop.json) |
 | Pool Quiz | 246477 | [246477-pool-quiz.json](./246477-pool-quiz.json) |
 | Pool Revolution: Cue Sports | 70649 | [70649-pool-revolution-cue-sports.json](./70649-pool-revolution-cue-sports.json) |
+| Pool Room Billiard | 386785 | [386785-pool-room-billiard.json](./386785-pool-room-billiard.json) |
 | Pool Shark | 169226 | [169226-pool-shark.json](./169226-pool-shark.json) |
 | Pool Shark | 205949 | [205949-pool-shark.json](./205949-pool-shark.json) |
 | Pool Shark 2 | 5984 | [5984-pool-shark-2.json](./5984-pool-shark-2.json) |
