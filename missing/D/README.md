@@ -5189,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Killer | 349847 | [349847-demon-killer.json](./349847-demon-killer.json) |
 | Demon Killer VR | 156543 | [156543-demon-killer-vr.json](./156543-demon-killer-vr.json) |
 | Demon King | 192687 | [192687-demon-king.json](./192687-demon-king.json) |
+| Demon King Box | 61163 | [61163-demon-king-box.json](./61163-demon-king-box.json) |
 | Demon King Chronicle | 145345 | [145345-demon-king-chronicle.json](./145345-demon-king-chronicle.json) |
 | Demon Kingdom | 303470 | [303470-demon-kingdom.json](./303470-demon-kingdom.json) |
 | Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
