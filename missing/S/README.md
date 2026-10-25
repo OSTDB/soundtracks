@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saltwater Bodies | 325645 | [325645-saltwater-bodies.json](./325645-saltwater-bodies.json) |
 | Saltwater Shells | 250642 | [250642-saltwater-shells.json](./250642-saltwater-shells.json) |
 | Salty Dogs | 401476 | [401476-salty-dogs.json](./401476-salty-dogs.json) |
+| Salty Fish Go! | 55699 | [55699-salty-fish-go.json](./55699-salty-fish-go.json) |
 | Salty Seabird Bay | 102959 | [102959-salty-seabird-bay.json](./102959-salty-seabird-bay.json) |
 | Salty's Garbage | 406881 | [406881-saltys-garbage.json](./406881-saltys-garbage.json) |
 | Salubrious Scales | 167265 | [167265-salubrious-scales.json](./167265-salubrious-scales.json) |
@@ -2223,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlett | 258869 | [258869-scarlett.json](./258869-scarlett.json) |
 | Scarlett Mysteries: Cursed Child | 37006 | [37006-scarlett-mysteries-cursed-child.json](./37006-scarlett-mysteries-cursed-child.json) |
 | Scarlett: Nichijou no Kyoukaisen | 258870 | [258870-scarlett-nichijou-no-kyoukaisen.json](./258870-scarlett-nichijou-no-kyoukaisen.json) |
+| Scarlett's Dungeon | 55749 | [55749-scarletts-dungeon.json](./55749-scarletts-dungeon.json) |
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
 | Scarred Stars | 154985 | [154985-scarred-stars.json](./154985-scarred-stars.json) |
@@ -2468,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Rumble Ni-Gakki Kyoufu no Natsugasshuku Youkan ni Yuurei Arawaru Otakara wo Megutte Makkou Shoubu no Maki | 94864 | [94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json](./94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json) |
 | School Rumble: Nee-san Jiken Desu! | 67683 | [67683-school-rumble-nee-san-jiken-desu.json](./67683-school-rumble-nee-san-jiken-desu.json) |
 | School Rumble: Neru Musume ha Sodatsu | 72583 | [72583-school-rumble-neru-musume-ha-sodatsu.json](./72583-school-rumble-neru-musume-ha-sodatsu.json) |
+| School Simulator | 55721 | [55721-school-simulator.json](./55721-school-simulator.json) |
 | School Trip | 181022 | [181022-school-trip.json](./181022-school-trip.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
@@ -15514,6 +15517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Assistance | 207573 | [207573-space-assistance.json](./207573-space-assistance.json) |
+| Space Asteroid Shooter | 55649 | [55649-space-asteroid-shooter.json](./55649-space-asteroid-shooter.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
 | Space Attack | 66909 | [66909-space-attack.json](./66909-space-attack.json) |
 | Space Avenger: Empire of Nexx | 133185 | [133185-space-avenger-empire-of-nexx.json](./133185-space-avenger-empire-of-nexx.json) |
@@ -22127,6 +22131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop! Fill-in-the-Blank Word Game | 217979 | [217979-stop-fill-in-the-blank-word-game.json](./217979-stop-fill-in-the-blank-word-game.json) |
 | Stop10 | 292156 | [292156-stop10.json](./292156-stop10.json) |
 | stopDrop | 137354 | [137354-stopdrop.json](./137354-stopdrop.json) |
+| Stophat | 43113 | [43113-stophat.json](./43113-stophat.json) |
 | Stoplights | 392140 | [392140-stoplights.json](./392140-stoplights.json) |
 | Stopocop | 192739 | [192739-stopocop.json](./192739-stopocop.json) |
 | Stopots | 50157 | [50157-stopots.json](./50157-stopots.json) |
@@ -24640,6 +24645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise Paradise | 171786 | [171786-sunrise-paradise.json](./171786-sunrise-paradise.json) |
+| Sunrise survival | 43094 | [43094-sunrise-survival.json](./43094-sunrise-survival.json) |
 | Sunrise Tragedy | 168614 | [168614-sunrise-tragedy.json](./168614-sunrise-tragedy.json) |
 | Sunrise Village: Farm Game | 248100 | [248100-sunrise-village-farm-game.json](./248100-sunrise-village-farm-game.json) |
 | Sunrise World War | 145271 | [145271-sunrise-world-war.json](./145271-sunrise-world-war.json) |
