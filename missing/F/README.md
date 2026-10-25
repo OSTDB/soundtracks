@@ -4007,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
 | Final Assault | 94615 | [94615-final-assault.json](./94615-final-assault.json) |
+| Final Battle in Zhifudao | 415755 | [415755-final-battle-in-zhifudao.json](./415755-final-battle-in-zhifudao.json) |
 | Final Blade | 115187 | [115187-final-blade.json](./115187-final-blade.json) |
 | Final Blade | 175765 | [175765-final-blade.json](./175765-final-blade.json) |
 | Final Blaster | 37713 | [37713-final-blaster.json](./37713-final-blaster.json) |
