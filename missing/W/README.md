@@ -3989,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who’s the Fairest of Them All | 177779 | [177779-who-s-the-fairest-of-them-all.json](./177779-who-s-the-fairest-of-them-all.json) |
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
+| Who's your Santa !? | 55588 | [55588-whos-your-santa.json](./55588-whos-your-santa.json) |
 | Who's Your Weapon | 181664 | [181664-whos-your-weapon.json](./181664-whos-your-weapon.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Whodunnit | 387577 | [387577-whodunnit.json](./387577-whodunnit.json) |
