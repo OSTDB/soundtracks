@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Astral | 285510 | [285510-saving-astral.json](./285510-saving-astral.json) |
 | Saving Bumblebrook | 410461 | [410461-saving-bumblebrook.json](./410461-saving-bumblebrook.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
+| Saving Clicklandia: Collector's Edition | 416361 | [416361-saving-clicklandia-collectors-edition.json](./416361-saving-clicklandia-collectors-edition.json) |
 | Saving Diary | 316655 | [316655-saving-diary.json](./316655-saving-diary.json) |
 | Saving from the Devil | 405463 | [405463-saving-from-the-devil.json](./405463-saving-from-the-devil.json) |
 | Saving Ghost | 159710 | [159710-saving-ghost.json](./159710-saving-ghost.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
 | Sea of Lies: Leviathan Reef | 22109 | [22109-sea-of-lies-leviathan-reef.json](./22109-sea-of-lies-leviathan-reef.json) |
+| Sea of Lies: Leviathan Reef - Collector's Edition | 416360 | [416360-sea-of-lies-leviathan-reef-collectors-edition.json](./416360-sea-of-lies-leviathan-reef-collectors-edition.json) |
 | Sea of Lies: Mutiny of the Heart | 139729 | [139729-sea-of-lies-mutiny-of-the-heart.json](./139729-sea-of-lies-mutiny-of-the-heart.json) |
 | Sea of Lies: Mutiny of the Heart - Collector's Edition | 30678 | [30678-sea-of-lies-mutiny-of-the-heart-collectors-edition.json](./30678-sea-of-lies-mutiny-of-the-heart-collectors-edition.json) |
 | Sea of Lies: Nemesis | 139730 | [139730-sea-of-lies-nemesis.json](./139730-sea-of-lies-nemesis.json) |
@@ -19209,6 +19211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
+| Stack & Spell | 416348 | [416348-stack-and-spell.json](./416348-stack-and-spell.json) |
 | Stack Ball | 345833 | [345833-stack-ball.json](./345833-stack-ball.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
@@ -19812,6 +19815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
 | Star Sonata 2 | 36276 | [36276-star-sonata-2.json](./36276-star-sonata-2.json) |
 | Star Soraight Fantasy: Magic to Reach the Sky | 343981 | [343981-star-soraight-fantasy-magic-to-reach-the-sky.json](./343981-star-soraight-fantasy-magic-to-reach-the-sky.json) |
+| Star Space | 416351 | [416351-star-space.json](./416351-star-space.json) |
 | Star Spectre | 217393 | [217393-star-spectre.json](./217393-star-spectre.json) |
 | Star Speeder | 97237 | [97237-star-speeder.json](./97237-star-speeder.json) |
 | Star Splash: Shattered Star | 85392 | [85392-star-splash-shattered-star.json](./85392-star-splash-shattered-star.json) |
@@ -23885,6 +23889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Sexy Devils | 345111 | [345111-succubus-sexy-devils.json](./345111-succubus-sexy-devils.json) |
 | Succubus Shop | 185414 | [185414-succubus-shop.json](./185414-succubus-shop.json) |
 | Succubus Successor: Delilah's Juicy Journey | 406898 | [406898-succubus-successor-delilahs-juicy-journey.json](./406898-succubus-successor-delilahs-juicy-journey.json) |
+| Succubus Temptation | 416377 | [416377-succubus-temptation.json](./416377-succubus-temptation.json) |
 | Succubus Throne | 385254 | [385254-succubus-throne.json](./385254-succubus-throne.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
@@ -27789,6 +27794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Return to Another World - Collector's Edition | 105166 | [105166-surface-return-to-another-world-collectors-edition.json](./105166-surface-return-to-another-world-collectors-edition.json) |
 | Surface: Strings of Fate | 89625 | [89625-surface-strings-of-fate.json](./89625-surface-strings-of-fate.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
+| Surface: The Noise She Couldn't Make - Collector's Edition | 416358 | [416358-surface-the-noise-she-couldnt-make-collectors-edition.json](./416358-surface-the-noise-she-couldnt-make-collectors-edition.json) |
 | Surface: The Pantheon | 139748 | [139748-surface-the-pantheon.json](./139748-surface-the-pantheon.json) |
 | Surface: The Pantheon - Collector's Edition | 32734 | [32734-surface-the-pantheon-collectors-edition.json](./32734-surface-the-pantheon-collectors-edition.json) |
 | Surface: The Soaring City | 139749 | [139749-surface-the-soaring-city.json](./139749-surface-the-soaring-city.json) |
