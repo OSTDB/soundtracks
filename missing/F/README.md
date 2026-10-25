@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Passion: Art Prison | 139775 | [139775-fatal-passion-art-prison.json](./139775-fatal-passion-art-prison.json) |
 | Fatal Paws | 189351 | [189351-fatal-paws.json](./189351-fatal-paws.json) |
 | Fatal Pursuit | 362996 | [362996-fatal-pursuit.json](./362996-fatal-pursuit.json) |
+| Fatal Research | 398168 | [398168-fatal-research.json](./398168-fatal-research.json) |
 | Fatal Run | 12323 | [12323-fatal-run.json](./12323-fatal-run.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
@@ -4815,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
 | Fire Emblem Guess | 410101 | [410101-fire-emblem-guess.json](./410101-fire-emblem-guess.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
+| Fire Emblem Proto-Rogue | 398378 | [398378-fire-emblem-proto-rogue.json](./398378-fire-emblem-proto-rogue.json) |
 | Fire Emblem Shadows | 370036 | [370036-fire-emblem-shadows.json](./370036-fire-emblem-shadows.json) |
 | Fire Emblem Warriors | 26769 | [26769-fire-emblem-warriors.json](./26769-fire-emblem-warriors.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
