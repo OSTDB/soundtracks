@@ -4254,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
+| Seisenshi Denshou: Jantaku no Kishi | 403318 | [403318-seisenshi-denshou-jantaku-no-kishi.json](./403318-seisenshi-denshou-jantaku-no-kishi.json) |
 | Seishin - Virtual Rhythm | 86522 | [86522-seishin-virtual-rhythm.json](./86522-seishin-virtual-rhythm.json) |
 | Seishin Destiny | 150911 | [150911-seishin-destiny.json](./150911-seishin-destiny.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
@@ -8456,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Zone | 381195 | [381195-signal-zone.json](./381195-signal-zone.json) |
 | Signal: Uncharted Lands | 333239 | [333239-signal-uncharted-lands.json](./333239-signal-uncharted-lands.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
+| Signalfall | 403347 | [403347-signalfall.json](./403347-signalfall.json) |
 | Signals of Chaos | 195007 | [195007-signals-of-chaos.json](./195007-signals-of-chaos.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
@@ -13221,6 +13223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokodice | 147080 | [147080-sokodice.json](./147080-sokodice.json) |
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
+| Sokogeek | 403321 | [403321-sokogeek.json](./403321-sokogeek.json) |
 | SokoGhost: Unfinished Business | 390021 | [390021-sokoghost-unfinished-business.json](./390021-sokoghost-unfinished-business.json) |
 | Sokoku | 369349 | [369349-sokoku.json](./369349-sokoku.json) |
 | SokoLab | 244173 | [244173-sokolab.json](./244173-sokolab.json) |
@@ -13774,6 +13777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Old Stuff | 147300 | [147300-some-old-stuff.json](./147300-some-old-stuff.json) |
 | Some Peace of Mind | 144108 | [144108-some-peace-of-mind.json](./144108-some-peace-of-mind.json) |
 | Some Peace of Mind | 22361 | [22361-some-peace-of-mind.json](./22361-some-peace-of-mind.json) |
+| Some Puzzles | 403329 | [403329-some-puzzles.json](./403329-some-puzzles.json) |
 | Some RPG Game | 273422 | [273422-some-rpg-game.json](./273422-some-rpg-game.json) |
 | Some Say It Has Always Been Here | 142082 | [142082-some-say-it-has-always-been-here.json](./142082-some-say-it-has-always-been-here.json) |
 | Some Some Convenience Store | 128227 | [128227-some-some-convenience-store.json](./128227-some-some-convenience-store.json) |
@@ -29651,6 +29655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
 | Synthwave Racers | 197218 | [197218-synthwave-racers.json](./197218-synthwave-racers.json) |
 | Synthwave Runner | 277519 | [277519-synthwave-runner.json](./277519-synthwave-runner.json) |
+| Synthwave Show Dawn | 403341 | [403341-synthwave-show-dawn.json](./403341-synthwave-show-dawn.json) |
 | Synthwave Tunnel | 333427 | [333427-synthwave-tunnel.json](./333427-synthwave-tunnel.json) |
 | Synzzball | 123499 | [123499-synzzball.json](./123499-synzzball.json) |
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
