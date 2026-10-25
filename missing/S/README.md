@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Spider Train Survival 1 | 245370 | [245370-scary-spider-train-survival-1.json](./245370-scary-spider-train-survival-1.json) |
 | Scary Stickmen | 386963 | [386963-scary-stickmen.json](./386963-scary-stickmen.json) |
 | Scary Stories | 323518 | [323518-scary-stories.json](./323518-scary-stories.json) |
+| Scary Stories Grotesque | 417277 | [417277-scary-stories-grotesque.json](./417277-scary-stories-grotesque.json) |
 | Scary Stranger 3D | 303249 | [303249-scary-stranger-3d.json](./303249-scary-stranger-3d.json) |
 | Scary Sun | 311691 | [311691-scary-sun.json](./311691-scary-sun.json) |
 | Scary Tales | 13033 | [13033-scary-tales.json](./13033-scary-tales.json) |
@@ -3731,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Pet Detective | 96574 | [96574-secret-pet-detective.json](./96574-secret-pet-detective.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
 | Secret Photo | 269212 | [269212-secret-photo.json](./269212-secret-photo.json) |
+| Secret Photo Memory | 417276 | [417276-secret-photo-memory.json](./417276-secret-photo-memory.json) |
 | Secret Pie | 345529 | [345529-secret-pie.json](./345529-secret-pie.json) |
 | Secret Pie: End Roll | 298024 | [298024-secret-pie-end-roll.json](./298024-secret-pie-end-roll.json) |
 | Secret Pie: Hidden Room | 255018 | [255018-secret-pie-hidden-room.json](./255018-secret-pie-hidden-room.json) |
@@ -8561,6 +8563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Paws | 250772 | [250772-silent-paws.json](./250772-silent-paws.json) |
 | Silent Paws: Hidden Valley | 264006 | [264006-silent-paws-hidden-valley.json](./264006-silent-paws-hidden-valley.json) |
+| Silent Raid | 417268 | [417268-silent-raid.json](./417268-silent-raid.json) |
 | Silent Rain | 258078 | [258078-silent-rain.json](./258078-silent-rain.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
 | Silent Residence | 362402 | [362402-silent-residence.json](./362402-silent-residence.json) |
@@ -10479,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
 | Skylords Reborn | 122901 | [122901-skylords-reborn.json](./122901-skylords-reborn.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
+| Skymote | 417612 | [417612-skymote.json](./417612-skymote.json) |
 | Skynet Rising : Portal to the Past | 25738 | [25738-skynet-rising-portal-to-the-past.json](./25738-skynet-rising-portal-to-the-past.json) |
 | Skynet Simulator | 177429 | [177429-skynet-simulator.json](./177429-skynet-simulator.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
@@ -11627,6 +11631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Boy Ver.KZ | 106547 | [106547-smash-boy-ver-kz.json](./106547-smash-boy-ver-kz.json) |
 | Smash Bros. Rumble | 210677 | [210677-smash-bros-rumble.json](./210677-smash-bros-rumble.json) |
 | Smash Cars | 335702 | [335702-smash-cars.json](./335702-smash-cars.json) |
+| Smash Cat | 417269 | [417269-smash-cat.json](./417269-smash-cat.json) |
 | Smash Cat Heroes | 84882 | [84882-smash-cat-heroes.json](./84882-smash-cat-heroes.json) |
 | Smash Champs | 350197 | [350197-smash-champs.json](./350197-smash-champs.json) |
 | Smash Club: Streets of Shmeenis | 147650 | [147650-smash-club-streets-of-shmeenis.json](./147650-smash-club-streets-of-shmeenis.json) |
@@ -21004,6 +21009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State.io | 304954 | [304954-state-io.json](./304954-state-io.json) |
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
 | Statele | 246240 | [246240-statele.json](./246240-statele.json) |
+| StateOS: The Political Sandbox | 417262 | [417262-stateos-the-political-sandbox.json](./417262-stateos-the-political-sandbox.json) |
 | States and Capitals | 71737 | [71737-states-and-capitals.json](./71737-states-and-capitals.json) |
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
 | States of Power | 391110 | [391110-states-of-power.json](./391110-states-of-power.json) |
@@ -21995,6 +22001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Alive | 415464 | [415464-still-alive.json](./415464-still-alive.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Alive: Hollowed Horizon | 355075 | [355075-still-alive-hollowed-horizon.json](./355075-still-alive-hollowed-horizon.json) |
+| Still Alive: Idle | 417604 | [417604-still-alive-idle.json](./417604-still-alive-idle.json) |
 | Still Be a Human | 192088 | [192088-still-be-a-human.json](./192088-still-be-a-human.json) |
 | Still Breathing | 418545 | [418545-still-breathing.json](./418545-still-breathing.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
