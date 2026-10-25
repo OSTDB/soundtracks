@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
 | Echoes+ | 28586 | [28586-echoes.json](./28586-echoes.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
+| Echofall | 391560 | [391560-echofall.json](./391560-echofall.json) |
 | Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
 | Echolight | 287712 | [287712-echolight.json](./287712-echolight.json) |
 | Echolink: Recursion | 406946 | [406946-echolink-recursion.json](./406946-echolink-recursion.json) |
@@ -1421,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Settlement Gold | 35308 | [35308-egyptian-settlement-gold.json](./35308-egyptian-settlement-gold.json) |
 | Egyptian Trilogy | 209179 | [209179-egyptian-trilogy.json](./209179-egyptian-trilogy.json) |
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
+| Ehub Cities: Blackout | 392004 | [392004-ehub-cities-blackout.json](./392004-ehub-cities-blackout.json) |
 | Eia | 149319 | [149319-eia.json](./149319-eia.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidol | 405550 | [405550-eidol.json](./405550-eidol.json) |
@@ -1819,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronics Circuits Simulator | 41919 | [41919-electronics-circuits-simulator.json](./41919-electronics-circuits-simulator.json) |
 | Electronics Puzzle Lab | 264799 | [264799-electronics-puzzle-lab.json](./264799-electronics-puzzle-lab.json) |
 | Electronics Puzzle Lab 2 | 362342 | [362342-electronics-puzzle-lab-2.json](./362342-electronics-puzzle-lab-2.json) |
+| Electronics Shop Simulator | 392100 | [392100-electronics-shop-simulator.json](./392100-electronics-shop-simulator.json) |
 | Electronics Supermarket Simulator | 326445 | [326445-electronics-supermarket-simulator.json](./326445-electronics-supermarket-simulator.json) |
 | Electroplankton | 18340 | [18340-electroplankton.json](./18340-electroplankton.json) |
 | Electroplankton Beatnes | 85105 | [85105-electroplankton-beatnes.json](./85105-electroplankton-beatnes.json) |
@@ -2221,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elmo's Kangaroo of the damned: Punishment Edition | 171404 | [171404-elmos-kangaroo-of-the-damned-punishment-edition.json](./171404-elmos-kangaroo-of-the-damned-punishment-edition.json) |
 | Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
+| Elmo's Reading Basics | 392088 | [392088-elmos-reading-basics.json](./392088-elmos-reading-basics.json) |
 | Elnark no Zaihou | 48507 | [48507-elnark-no-zaihou.json](./48507-elnark-no-zaihou.json) |
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
 | Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
@@ -3408,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
 | Enotria: The Last Song | 218521 | [218521-enotria-the-last-song.json](./218521-enotria-the-last-song.json) |
 | Enotria: The Last Song - Deluxe Edition | 324763 | [324763-enotria-the-last-song-deluxe-edition.json](./324763-enotria-the-last-song-deluxe-edition.json) |
+| Enough | 391542 | [391542-enough.json](./391542-enough.json) |
 | Enough Plumbers | 141730 | [141730-enough-plumbers.json](./141730-enough-plumbers.json) |
 | Enough Sheep | 277382 | [277382-enough-sheep.json](./277382-enough-sheep.json) |
 | Enough with the Witch | 298677 | [298677-enough-with-the-witch.json](./298677-enough-with-the-witch.json) |
