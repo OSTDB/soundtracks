@@ -5877,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caverns of Freitag | 21922 | [21922-the-caverns-of-freitag.json](./21922-the-caverns-of-freitag.json) |
 | The Caverns of Hammerfest | 55979 | [55979-the-caverns-of-hammerfest.json](./55979-the-caverns-of-hammerfest.json) |
 | The Caves | 179367 | [179367-the-caves.json](./179367-the-caves.json) |
+| The Celebrated Race | 416971 | [416971-the-celebrated-race.json](./416971-the-celebrated-race.json) |
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
 | The Celestra | 191090 | [191090-the-celestra.json](./191090-the-celestra.json) |
 | The Cell | 131348 | [131348-the-cell.json](./131348-the-cell.json) |
@@ -12810,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
 | The Rewrite Journal | 297573 | [297573-the-rewrite-journal.json](./297573-the-rewrite-journal.json) |
 | The Rez! | 327293 | [327293-the-rez.json](./327293-the-rez.json) |
+| The Rhapsody of Zephyr Remastered | 416992 | [416992-the-rhapsody-of-zephyr-remastered.json](./416992-the-rhapsody-of-zephyr-remastered.json) |
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
@@ -20968,6 +20970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
 | Toon Roads: Superbike | 308490 | [308490-toon-roads-superbike.json](./308490-toon-roads-superbike.json) |
+| Toon Shift | 416936 | [416936-toon-shift.json](./416936-toon-shift.json) |
 | Toon Shooters the Freelancers | 57193 | [57193-toon-shooters-the-freelancers.json](./57193-toon-shooters-the-freelancers.json) |
 | Toon Siege | 348038 | [348038-toon-siege.json](./348038-toon-siege.json) |
 | Toon Skate: True Freedom Racing | 232577 | [232577-toon-skate-true-freedom-racing.json](./232577-toon-skate-true-freedom-racing.json) |
@@ -21711,6 +21714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge: JDM Dealership Simulator | 414158 | [414158-touge-jdm-dealership-simulator.json](./414158-touge-jdm-dealership-simulator.json) |
 | Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
 | Tougenkyou | 151807 | [151807-tougenkyou.json](./151807-tougenkyou.json) |
+| Tough Cat | 416966 | [416966-tough-cat.json](./416966-tough-cat.json) |
 | Tough Love Arena | 142114 | [142114-tough-love-arena.json](./142114-tough-love-arena.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
 | Tough Trucks: Modified Monsters | 73111 | [73111-tough-trucks-modified-monsters.json](./73111-tough-trucks-modified-monsters.json) |
@@ -26303,6 +26307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukasa no Satisfaction | 77851 | [77851-tsukasa-no-satisfaction.json](./77851-tsukasa-no-satisfaction.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
+| Tsuki Journey | 416980 | [416980-tsuki-journey.json](./416980-tsuki-journey.json) |
 | Tsuki no Hikari | 322241 | [322241-tsuki-no-hikari.json](./322241-tsuki-no-hikari.json) |
 | Tsuki no Hikari: Shizumeru Kane no Satsujin | 62539 | [62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
 | Tsuki no Kanata de Aimashou | 150037 | [150037-tsuki-no-kanata-de-aimashou.json](./150037-tsuki-no-kanata-de-aimashou.json) |
