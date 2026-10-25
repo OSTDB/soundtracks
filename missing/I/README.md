@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice World: The Frozen Age | 314882 | [314882-ice-world-the-frozen-age.json](./314882-ice-world-the-frozen-age.json) |
 | Ice-Story | 130886 | [130886-ice-story.json](./130886-ice-story.json) |
 | Ice! | 370207 | [370207-ice.json](./370207-ice.json) |
+| Icebear 2026 | 394404 | [394404-icebear-2026.json](./394404-icebear-2026.json) |
 | Iceberg Command | 256311 | [256311-iceberg-command.json](./256311-iceberg-command.json) |
 | Iceberg the Game | 232484 | [232484-iceberg-the-game.json](./232484-iceberg-the-game.json) |
 | Icebergs | 180076 | [180076-icebergs.json](./180076-icebergs.json) |
@@ -3264,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Golden Dust | 410212 | [410212-infinity-nikki-golden-dust.json](./410212-infinity-nikki-golden-dust.json) |
 | Infinity Nikki: Life as a Poem | 383945 | [383945-infinity-nikki-life-as-a-poem.json](./383945-infinity-nikki-life-as-a-poem.json) |
 | Infinity Nikki: Revelry Season | 336160 | [336160-infinity-nikki-revelry-season.json](./336160-infinity-nikki-revelry-season.json) |
+| Infinity Nikki: Uncrowned Heart | 393593 | [393593-infinity-nikki-uncrowned-heart.json](./393593-infinity-nikki-uncrowned-heart.json) |
 | Infinity Nikki: Where All Souls Return | 399186 | [399186-infinity-nikki-where-all-souls-return.json](./399186-infinity-nikki-where-all-souls-return.json) |
 | Infinity Nikki: Where Stars Yearn | 407838 | [407838-infinity-nikki-where-stars-yearn.json](./407838-infinity-nikki-where-stars-yearn.json) |
 | Infinity Ops | 174826 | [174826-infinity-ops.json](./174826-infinity-ops.json) |
@@ -4925,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
 | Irotoridori No Sekai: The Colorful World | 276652 | [276652-irotoridori-no-sekai-the-colorful-world.json](./276652-irotoridori-no-sekai-the-colorful-world.json) |
 | Irotoridori no Sekai: World's End Rebirth | 61144 | [61144-irotoridori-no-sekai-worlds-end-rebirth.json](./61144-irotoridori-no-sekai-worlds-end-rebirth.json) |
+| iRozQ8 | 393444 | [393444-irozq8.json](./393444-irozq8.json) |
 | Irradiant | 243539 | [243539-irradiant.json](./243539-irradiant.json) |
 | Irradiant Skies | 385591 | [385591-irradiant-skies.json](./385591-irradiant-skies.json) |
 | Irradiate 235 | 359603 | [359603-irradiate-235.json](./359603-irradiate-235.json) |
