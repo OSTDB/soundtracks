@@ -4227,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Dive | 150258 | [150258-wild-dive.json](./150258-wild-dive.json) |
 | Wild Dose | 140919 | [140919-wild-dose.json](./140919-wild-dose.json) |
 | Wild Downtown | 76704 | [76704-wild-downtown.json](./76704-wild-downtown.json) |
+| Wild Draw | 420795 | [420795-wild-draw.json](./420795-wild-draw.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Earth: African Safari | 50711 | [50711-wild-earth-african-safari.json](./50711-wild-earth-african-safari.json) |
 | Wild Explorer | 373298 | [373298-wild-explorer.json](./373298-wild-explorer.json) |
