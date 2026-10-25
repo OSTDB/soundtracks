@@ -13442,6 +13442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo Lander | 118528 | [118528-moo-lander.json](./118528-moo-lander.json) |
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
+| Moo-A-Doodle-Doo | 415055 | [415055-moo-a-doodle-doo.json](./415055-moo-a-doodle-doo.json) |
 | Mooch | 34536 | [34536-mooch.json](./34536-mooch.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
 | Moofa | 125698 | [125698-moofa.json](./125698-moofa.json) |
@@ -16593,6 +16594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
 | My Fairy Pony | 87180 | [87180-my-fairy-pony.json](./87180-my-fairy-pony.json) |
 | My Fairy Pony - Dress Up Game For Girls | 88045 | [88045-my-fairy-pony-dress-up-game-for-girls.json](./88045-my-fairy-pony-dress-up-game-for-girls.json) |
+| My Fairy Princess | 415014 | [415014-my-fairy-princess.json](./415014-my-fairy-princess.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
 | My Fake Marriage | 299500 | [299500-my-fake-marriage.json](./299500-my-fake-marriage.json) |
