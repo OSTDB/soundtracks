@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3on3 FreeStyle: P6 Selection Rookie Pack | 377368 | [377368-3on3-freestyle-p6-selection-rookie-pack.json](./377368-3on3-freestyle-p6-selection-rookie-pack.json) |
 | 3on3 FreeStyle: Rebound | 135748 | [135748-3on3-freestyle-rebound.json](./135748-3on3-freestyle-rebound.json) |
 | 3rd Degree | 45948 | [45948-3rd-degree.json](./45948-3rd-degree.json) |
+| 3rd Eye | 107236 | [107236-3rd-eye.json](./107236-3rd-eye.json) |
 | 3rd Invasion: Zombies vs. Steel | 114555 | [114555-3rd-invasion-zombies-vs-steel.json](./114555-3rd-invasion-zombies-vs-steel.json) |
 | 3rd Space Incursion | 205958 | [205958-3rd-space-incursion.json](./205958-3rd-space-incursion.json) |
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
