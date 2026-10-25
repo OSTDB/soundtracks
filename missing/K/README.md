@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasparov Chessmate | 23528 | [23528-kasparov-chessmate.json](./23528-kasparov-chessmate.json) |
 | Kasparov's Gambit | 47114 | [47114-kasparovs-gambit.json](./47114-kasparovs-gambit.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
+| Kassei: Road Cycling - Next Season | 410020 | [410020-kassei-road-cycling-next-season.json](./410020-kassei-road-cycling-next-season.json) |
 | Kassei: Road Cycling 2025 | 357207 | [357207-kassei-road-cycling-2025.json](./357207-kassei-road-cycling-2025.json) |
 | Kasumi | 285383 | [285383-kasumi.json](./285383-kasumi.json) |
 | Kasumi Ninja | 40798 | [40798-kasumi-ninja.json](./40798-kasumi-ninja.json) |
