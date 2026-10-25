@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlord | 120659 | [120659-warlord.json](./120659-warlord.json) |
 | Warlord | 184287 | [184287-warlord.json](./184287-warlord.json) |
 | Warlord Arena: Evolution | 232318 | [232318-warlord-arena-evolution.json](./232318-warlord-arena-evolution.json) |
+| Warlord: Awaji | 417248 | [417248-warlord-awaji.json](./417248-warlord-awaji.json) |
 | Warlord: Britannia | 199476 | [199476-warlord-britannia.json](./199476-warlord-britannia.json) |
 | WarLord: Edenui Churak | 220281 | [220281-warlord-edenui-churak.json](./220281-warlord-edenui-churak.json) |
 | Warlordocracy | 190023 | [190023-warlordocracy.json](./190023-warlordocracy.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
 | Warpzone Drifter | 111853 | [111853-warpzone-drifter.json](./111853-warpzone-drifter.json) |
 | WarpZone vs. The Dimension | 122148 | [122148-warpzone-vs-the-dimension.json](./122148-warpzone-vs-the-dimension.json) |
+| Warraff Online | 417397 | [417397-warraff-online.json](./417397-warraff-online.json) |
 | Warranty Man | 338397 | [338397-warranty-man.json](./338397-warranty-man.json) |
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
 | Warrens Of Random | 389614 | [389614-warrens-of-random.json](./389614-warrens-of-random.json) |
@@ -6494,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Bus Driving Simulator | 174613 | [174613-world-bus-driving-simulator.json](./174613-world-bus-driving-simulator.json) |
 | World Challenge Golf | 385844 | [385844-world-challenge-golf.json](./385844-world-challenge-golf.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
+| World Champion Icehockey | 417485 | [417485-world-champion-icehockey.json](./417485-world-champion-icehockey.json) |
 | World Champions: Decathlon | 165936 | [165936-world-champions-decathlon.json](./165936-world-champions-decathlon.json) |
 | World Championship Boxing Manager | 76142 | [76142-world-championship-boxing-manager.json](./76142-world-championship-boxing-manager.json) |
 | World Championship Boxing Manager 2 | 200931 | [200931-world-championship-boxing-manager-2.json](./200931-world-championship-boxing-manager-2.json) |
