@@ -6290,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Sculptors | 313155 | [313155-ring-sculptors.json](./313155-ring-sculptors.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ring Toss Legend | 408939 | [408939-ring-toss-legend.json](./408939-ring-toss-legend.json) |
+| Ring Toss Simulator | 391003 | [391003-ring-toss-simulator.json](./391003-ring-toss-simulator.json) |
 | Ring War | 203662 | [203662-ring-war.json](./203662-ring-war.json) |
 | Ring Wars | 56582 | [56582-ring-wars.json](./56582-ring-wars.json) |
 | Ring^-27 | 130599 | [130599-ring-27.json](./130599-ring-27.json) |
@@ -6724,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Rite of Passage: The Perfect Show - Collector's Edition | 30628 | [30628-rite-of-passage-the-perfect-show-collectors-edition.json](./30628-rite-of-passage-the-perfect-show-collectors-edition.json) |
 | Rite of Titans | 220706 | [220706-rite-of-titans.json](./220706-rite-of-titans.json) |
+| Rite or Ruin | 391242 | [391242-rite-or-ruin.json](./391242-rite-or-ruin.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
 | Rites of a Mailmare | 181141 | [181141-rites-of-a-mailmare.json](./181141-rites-of-a-mailmare.json) |
 | Ritmais | 308023 | [308023-ritmais.json](./308023-ritmais.json) |
@@ -8020,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocks and Ravens | 177818 | [177818-rocks-and-ravens.json](./177818-rocks-and-ravens.json) |
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
+| Rocks Tools Hordes | 391009 | [391009-rocks-tools-hordes.json](./391009-rocks-tools-hordes.json) |
 | Rocks'n'Gems | 169451 | [169451-rocksngems.json](./169451-rocksngems.json) |
 | RockShot | 74731 | [74731-rockshot.json](./74731-rockshot.json) |
 | RockSlide | 212798 | [212798-rockslide.json](./212798-rockslide.json) |
@@ -9228,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosemary's Fate: Chapter 1 | 163808 | [163808-rosemarys-fate-chapter-1.json](./163808-rosemarys-fate-chapter-1.json) |
 | Rosenkreuzstilette | 27181 | [27181-rosenkreuzstilette.json](./27181-rosenkreuzstilette.json) |
 | Rosenkreuzstilette Freudenstachel | 76865 | [76865-rosenkreuzstilette-freudenstachel.json](./76865-rosenkreuzstilette-freudenstachel.json) |
+| Rosepine Hotel | 390991 | [390991-rosepine-hotel.json](./390991-rosepine-hotel.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
 | Roses&Heart | 104262 | [104262-roses-and-heart.json](./104262-roses-and-heart.json) |
