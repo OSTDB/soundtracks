@@ -9298,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
 | Rough Kuts: 3D | 200572 | [200572-rough-kuts-3d.json](./200572-rough-kuts-3d.json) |
+| Rough Kuts: Night of the Living Dead | 405124 | [405124-rough-kuts-night-of-the-living-dead.json](./405124-rough-kuts-night-of-the-living-dead.json) |
 | Rough Ranger | 78369 | [78369-rough-ranger.json](./78369-rough-ranger.json) |
 | Rough Sketch | 83373 | [83373-rough-sketch.json](./83373-rough-sketch.json) |
 | Rough Waters Decentralised Tarots | 176810 | [176810-rough-waters-decentralised-tarots.json](./176810-rough-waters-decentralised-tarots.json) |
