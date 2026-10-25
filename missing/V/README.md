@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veritas Tales: Witch of the Dark Castle | 399423 | [399423-veritas-tales-witch-of-the-dark-castle.json](./399423-veritas-tales-witch-of-the-dark-castle.json) |
 | Veritex | 81166 | [81166-veritex.json](./81166-veritex.json) |
 | Veritus | 260627 | [260627-veritus.json](./260627-veritus.json) |
+| Verity JE | 417531 | [417531-verity-je.json](./417531-verity-je.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
 | Verjaded | 179512 | [179512-verjaded.json](./179512-verjaded.json) |
 | Verlet Ascend | 213560 | [213560-verlet-ascend.json](./213560-verlet-ascend.json) |
