@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
 | Sad Virus Space | 369346 | [369346-sad-virus-space.json](./369346-sad-virus-space.json) |
 | Sad Virus Town | 365877 | [365877-sad-virus-town.json](./365877-sad-virus-town.json) |
+| Sad Virus Up & Up | 422064 | [422064-sad-virus-up-and-up.json](./422064-sad-virus-up-and-up.json) |
 | Sad Virus Waterland | 408021 | [408021-sad-virus-waterland.json](./408021-sad-virus-waterland.json) |
 | Sad Virus Western | 368286 | [368286-sad-virus-western.json](./368286-sad-virus-western.json) |
 | Sadakichi Seven | 37656 | [37656-sadakichi-seven.json](./37656-sadakichi-seven.json) |
@@ -6440,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Sheltered From the Storm | 373865 | [373865-sheltered-from-the-storm.json](./373865-sheltered-from-the-storm.json) |
 | Sheltering With You | 148944 | [148944-sheltering-with-you.json](./148944-sheltering-with-you.json) |
+| Shelved | 422069 | [422069-shelved.json](./422069-shelved.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
 | Shén Guǐ Dìguó zhī Èmó Chéng | 404075 | [404075-shen-gui-diguo-zhi-emo-cheng.json](./404075-shen-gui-diguo-zhi-emo-cheng.json) |
 | Shén Mó Qìyuē | 164591 | [164591-shen-mo-qiyue.json](./164591-shen-mo-qiyue.json) |
@@ -7952,6 +7954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shura no Mon | 46258 | [46258-shura-no-mon.json](./46258-shura-no-mon.json) |
 | Shura No Mon | 179996 | [179996-shura-no-mon.json](./179996-shura-no-mon.json) |
 | Shurado | 74775 | [74775-shurado.json](./74775-shurado.json) |
+| Shurigatto | 422012 | [422012-shurigatto.json](./422012-shurigatto.json) |
 | Shuriken & Aliens | 124144 | [124144-shuriken-and-aliens.json](./124144-shuriken-and-aliens.json) |
 | Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
@@ -9346,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink the Fish | 282539 | [282539-sink-the-fish.json](./282539-sink-the-fish.json) |
 | Sink the Fish: Spy Kit | 282542 | [282542-sink-the-fish-spy-kit.json](./282542-sink-the-fish-spy-kit.json) |
 | Sink/Swim | 179006 | [179006-sink-swim.json](./179006-sink-swim.json) |
+| Sinking | 422016 | [422016-sinking.json](./422016-sinking.json) |
 | Sinking Inn | 151111 | [151111-sinking-inn.json](./151111-sinking-inn.json) |
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
 | Sinking Island | 36163 | [36163-sinking-island.json](./36163-sinking-island.json) |
@@ -11814,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoker the Car Game | 107706 | [107706-smoker-the-car-game.json](./107706-smoker-the-car-game.json) |
 | Smokestack Saints: The Parkour Game Part I | 355350 | [355350-smokestack-saints-the-parkour-game-part-i.json](./355350-smokestack-saints-the-parkour-game-part-i.json) |
 | Smokey Bear | 286947 | [286947-smokey-bear.json](./286947-smokey-bear.json) |
+| Smokey Mike | 422036 | [422036-smokey-mike.json](./422036-smokey-mike.json) |
 | Smokin Barrels 2 | 102016 | [102016-smokin-barrels-2.json](./102016-smokin-barrels-2.json) |
 | Smokin Potions | 360455 | [360455-smokin-potions.json](./360455-smokin-potions.json) |
 | Smokin' Guns | 27607 | [27607-smokin-guns.json](./27607-smokin-guns.json) |
@@ -21811,6 +21816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticker Clicker | 306722 | [306722-sticker-clicker.json](./306722-sticker-clicker.json) |
 | Sticker Craft | 30660 | [30660-sticker-craft.json](./30660-sticker-craft.json) |
 | Sticker Delight | 311854 | [311854-sticker-delight.json](./311854-sticker-delight.json) |
+| Sticker Picker | 422017 | [422017-sticker-picker.json](./422017-sticker-picker.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
 | Stickets | 22156 | [22156-stickets.json](./22156-stickets.json) |
@@ -24460,6 +24466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon Elemental | 223402 | [223402-summon-elemental.json](./223402-summon-elemental.json) |
+| Summon Island: The Robot Pirate Invasion Was Today?! | 422041 | [422041-summon-island-the-robot-pirate-invasion-was-today.json](./422041-summon-island-the-robot-pirate-invasion-was-today.json) |
 | Summon Legion | 317988 | [317988-summon-legion.json](./317988-summon-legion.json) |
 | Summon Masks | 130221 | [130221-summon-masks.json](./130221-summon-masks.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
@@ -27142,6 +27149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tennis Blast | 116486 | [116486-super-tennis-blast.json](./116486-super-tennis-blast.json) |
 | Super Tennis Breakout | 349088 | [349088-super-tennis-breakout.json](./349088-super-tennis-breakout.json) |
 | Super Tennis Champs | 56442 | [56442-super-tennis-champs.json](./56442-super-tennis-champs.json) |
+| Super Terrestrial | 422059 | [422059-super-terrestrial.json](./422059-super-terrestrial.json) |
 | Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
 | Super Tetris | 100287 | [100287-super-tetris.json](./100287-super-tetris.json) |
 | Super Tetris | 46116 | [46116-super-tetris.json](./46116-super-tetris.json) |
