@@ -4215,6 +4215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Sandy's Cities | 314149 | [314149-into-sandys-cities.json](./314149-into-sandys-cities.json) |
 | Into the Abyss | 159729 | [159729-into-the-abyss.json](./159729-into-the-abyss.json) |
 | Into the Abyss | 191130 | [191130-into-the-abyss.json](./191130-into-the-abyss.json) |
+| Into the Belly of the Beast | 33890 | [33890-into-the-belly-of-the-beast.json](./33890-into-the-belly-of-the-beast.json) |
 | Into the Blue | 109033 | [109033-into-the-blue.json](./109033-into-the-blue.json) |
 | Into the Box | 183001 | [183001-into-the-box.json](./183001-into-the-box.json) |
 | Into the Breach: Advanced Edition | 247511 | [247511-into-the-breach-advanced-edition.json](./247511-into-the-breach-advanced-edition.json) |
@@ -5192,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
 | Isles of Yore | 189958 | [189958-isles-of-yore.json](./189958-isles-of-yore.json) |
 | Islet Hell | 367596 | [367596-islet-hell.json](./367596-islet-hell.json) |
+| Islet Online | 33917 | [33917-islet-online.json](./33917-islet-online.json) |
 | Islets | 180154 | [180154-islets.json](./180154-islets.json) |
 | Islets Defense | 322054 | [322054-islets-defense.json](./322054-islets-defense.json) |
 | Isleward | 145941 | [145941-isleward.json](./145941-isleward.json) |
