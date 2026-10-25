@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuletide Legends: Who Framed Santa Claus | 127738 | [127738-yuletide-legends-who-framed-santa-claus.json](./127738-yuletide-legends-who-framed-santa-claus.json) |
 | Yuletide Machine | 402856 | [402856-yuletide-machine.json](./402856-yuletide-machine.json) |
 | Yuletide Regicide | 381113 | [381113-yuletide-regicide.json](./381113-yuletide-regicide.json) |
+| YuleTown | 396686 | [396686-yuletown.json](./396686-yuletown.json) |
 | Yulgang 2 | 23593 | [23593-yulgang-2.json](./23593-yulgang-2.json) |
 | Yulgang Mobile | 174698 | [174698-yulgang-mobile.json](./174698-yulgang-mobile.json) |
 | Yulgang Rush | 208067 | [208067-yulgang-rush.json](./208067-yulgang-rush.json) |
