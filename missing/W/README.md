@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp 1 | 131295 | [131295-warp-1.json](./131295-warp-1.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
 | Warp Bot | 347879 | [347879-warp-bot.json](./347879-warp-bot.json) |
+| Warp Bound | 387421 | [387421-warp-bound.json](./387421-warp-bound.json) |
 | Warp Cinema | 321600 | [321600-warp-cinema.json](./321600-warp-cinema.json) |
 | Warp Commander | 360673 | [360673-warp-commander.json](./360673-warp-commander.json) |
 | Warp Defender | 290984 | [290984-warp-defender.json](./290984-warp-defender.json) |
@@ -3412,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When You See It | 312122 | [312122-when-you-see-it.json](./312122-when-you-see-it.json) |
 | When You Wish Upon a Star | 200447 | [200447-when-you-wish-upon-a-star.json](./200447-when-you-wish-upon-a-star.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
+| Whendle | 387313 | [387313-whendle.json](./387313-whendle.json) |
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | WhenNightComes | 193102 | [193102-whennightcomes.json](./193102-whennightcomes.json) |
 | WhenTaken | 289005 | [289005-whentaken.json](./289005-whentaken.json) |
@@ -5864,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wombel | 315329 | [315329-wombel.json](./315329-wombel.json) |
 | WomboCombo | 390248 | [390248-wombocombo.json](./390248-wombocombo.json) |
 | Wǒmen de Dàxué | 120600 | [120600-women-de-daxue.json](./120600-women-de-daxue.json) |
+| Women Rule! A Reverse World Romance | 388533 | [388533-women-rule-a-reverse-world-romance.json](./388533-women-rule-a-reverse-world-romance.json) |
 | Women's Murder Club: A Darker Shade of Grey | 64712 | [64712-womens-murder-club-a-darker-shade-of-grey.json](./64712-womens-murder-club-a-darker-shade-of-grey.json) |
 | Women's Murder Club: Death in Scarlet | 51404 | [51404-womens-murder-club-death-in-scarlet.json](./51404-womens-murder-club-death-in-scarlet.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
@@ -7694,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: By Sun's Scourge, By Moon's Revelation | 361302 | [361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json](./361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json) |
 | Wuthering Waves: Dawn Breaks on Dark Tides | 372570 | [372570-wuthering-waves-dawn-breaks-on-dark-tides.json](./372570-wuthering-waves-dawn-breaks-on-dark-tides.json) |
 | Wuthering Waves: Fiery Arpeggio of Summer Reunion | 341103 | [341103-wuthering-waves-fiery-arpeggio-of-summer-reunion.json](./341103-wuthering-waves-fiery-arpeggio-of-summer-reunion.json) |
+| Wuthering Waves: For You Who Walk in Snow | 388537 | [388537-wuthering-waves-for-you-who-walk-in-snow.json](./388537-wuthering-waves-for-you-who-walk-in-snow.json) |
 | Wuthering Waves: In the Turquoise Moonglow | 314735 | [314735-wuthering-waves-in-the-turquoise-moonglow.json](./314735-wuthering-waves-in-the-turquoise-moonglow.json) |
 | Wuthering Waves: Lightly We Toss the Crown | 346182 | [346182-wuthering-waves-lightly-we-toss-the-crown.json](./346182-wuthering-waves-lightly-we-toss-the-crown.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
