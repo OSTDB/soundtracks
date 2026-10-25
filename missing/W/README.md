@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Could Just Be Annoying | 382442 | [382442-we-could-just-be-annoying.json](./382442-we-could-just-be-annoying.json) |
 | We Dance | 20580 | [20580-we-dance.json](./20580-we-dance.json) |
 | We Die | 169849 | [169849-we-die.json](./169849-we-die.json) |
+| We Die Standing | 398945 | [398945-we-die-standing.json](./398945-we-die-standing.json) |
 | We don't die here | 212281 | [212281-we-dont-die-here.json](./212281-we-dont-die-here.json) |
 | We Don't Talk About It | 177294 | [177294-we-dont-talk-about-it.json](./177294-we-dont-talk-about-it.json) |
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
