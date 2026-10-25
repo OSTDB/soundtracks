@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep of the Witch | 221186 | [221186-keep-of-the-witch.json](./221186-keep-of-the-witch.json) |
 | Keep On | 180641 | [180641-keep-on.json](./180641-keep-on.json) |
 | Keep on Mining! | 349928 | [349928-keep-on-mining.json](./349928-keep-on-mining.json) |
+| Keep on Mining!: Worlds | 393578 | [393578-keep-on-mining-worlds.json](./393578-keep-on-mining-worlds.json) |
 | Keep On Winning! | 397914 | [397914-keep-on-winning.json](./397914-keep-on-winning.json) |
 | Keep Out | 108846 | [108846-keep-out.json](./108846-keep-out.json) |
 | Keep Runnin | 304581 | [304581-keep-runnin.json](./304581-keep-runnin.json) |
@@ -1587,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
 | Key | 217484 | [217484-key.json](./217484-key.json) |
+| Key | 393589 | [393589-key.json](./393589-key.json) |
 | Key 2 | 369579 | [369579-key-2.json](./369579-key-2.json) |
 | Key and Lokk | 408505 | [408505-key-and-lokk.json](./408505-key-and-lokk.json) |
 | Key Defence | 122339 | [122339-key-defence.json](./122339-key-defence.json) |
@@ -4339,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong Studios | 368009 | [368009-kong-studios.json](./368009-kong-studios.json) |
 | Kong: King of Atlantis | 49334 | [49334-kong-king-of-atlantis.json](./49334-kong-king-of-atlantis.json) |
 | Kong: Survivor Instinct | 314136 | [314136-kong-survivor-instinct.json](./314136-kong-survivor-instinct.json) |
+| Kong: Survivor Instinct - Titans Edition | 393449 | [393449-kong-survivor-instinct-titans-edition.json](./393449-kong-survivor-instinct-titans-edition.json) |
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
 | Kong: The Animated Series | 49333 | [49333-kong-the-animated-series.json](./49333-kong-the-animated-series.json) |
 | Kongeer | 201006 | [201006-kongeer.json](./201006-kongeer.json) |
