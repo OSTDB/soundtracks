@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Trigger | 253440 | [253440-hell-trigger.json](./253440-hell-trigger.json) |
 | Hell Unearthed | 261445 | [261445-hell-unearthed.json](./261445-hell-unearthed.json) |
 | Hell University | 264140 | [264140-hell-university.json](./264140-hell-university.json) |
+| Hell Wait | 399052 | [399052-hell-wait.json](./399052-hell-wait.json) |
 | Hell Warders | 28009 | [28009-hell-warders.json](./28009-hell-warders.json) |
 | Hell Warders - Beta | 36473 | [36473-hell-warders-beta.json](./36473-hell-warders-beta.json) |
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
@@ -8458,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi Saga 8: Dokuringo | 377800 | [377800-hoshi-saga-8-dokuringo.json](./377800-hoshi-saga-8-dokuringo.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
+| Hoshiai no Sora | 398986 | [398986-hoshiai-no-sora.json](./398986-hoshiai-no-sora.json) |
 | Hoshigami: Ruining Blue Earth | 45223 | [45223-hoshigami-ruining-blue-earth.json](./45223-hoshigami-ruining-blue-earth.json) |
 | Hoshigari Empusa! | 268646 | [268646-hoshigari-empusa.json](./268646-hoshigari-empusa.json) |
 | Hoshiiro no Okurimono | 218376 | [218376-hoshiiro-no-okurimono.json](./218376-hoshiiro-no-okurimono.json) |
