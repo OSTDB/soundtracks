@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
 | H.Z.T. | 366091 | [366091-h-z-t.json](./366091-h-z-t.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
+| H+H=H2 | 395374 | [395374-h-h-h2.json](./395374-h-h-h2.json) |
 | H0st | 88058 | [88058-h0st.json](./88058-h0st.json) |
 | H1-Mod | 313565 | [313565-h1-mod.json](./313565-h1-mod.json) |
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
@@ -7140,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
 | Hold the Core | 403779 | [403779-hold-the-core.json](./403779-hold-the-core.json) |
 | Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
+| Hold The Line | 395363 | [395363-hold-the-line.json](./395363-hold-the-line.json) |
 | Hold The Line | 408209 | [408209-hold-the-line.json](./408209-hold-the-line.json) |
 | Hold the Line: The American Revolution | 55518 | [55518-hold-the-line-the-american-revolution.json](./55518-hold-the-line-the-american-revolution.json) |
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
