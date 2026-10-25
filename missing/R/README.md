@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radial-G: Proteus | 130820 | [130820-radial-g-proteus.json](./130820-radial-g-proteus.json) |
 | Radiance | 120096 | [120096-radiance.json](./120096-radiance.json) |
 | Radiance of Annihilation: Disorder Eclipse | 397752 | [397752-radiance-of-annihilation-disorder-eclipse.json](./397752-radiance-of-annihilation-disorder-eclipse.json) |
+| Radiance of Souls | 392960 | [392960-radiance-of-souls.json](./392960-radiance-of-souls.json) |
 | RadiAngel | 225745 | [225745-radiangel.json](./225745-radiangel.json) |
 | Radiant Arc | 117142 | [117142-radiant-arc.json](./117142-radiant-arc.json) |
 | Radiant Baby | 185397 | [185397-radiant-baby.json](./185397-radiant-baby.json) |
@@ -2253,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reachin' Pichin | 322826 | [322826-reachin-pichin.json](./322826-reachin-pichin.json) |
 | Reaching for Petals: VR Edition | 68664 | [68664-reaching-for-petals-vr-edition.json](./68664-reaching-for-petals-vr-edition.json) |
 | Reaching the Seven: Asteroids | 178627 | [178627-reaching-the-seven-asteroids.json](./178627-reaching-the-seven-asteroids.json) |
+| React Wars | 392959 | [392959-react-wars.json](./392959-react-wars.json) |
 | ReactFuse | 264641 | [264641-reactfuse.json](./264641-reactfuse.json) |
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reaction Game: Hit the Color! | 56764 | [56764-reaction-game-hit-the-color.json](./56764-reaction-game-hit-the-color.json) |
