@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanting Mahjong Match | 90097 | [90097-enchanting-mahjong-match.json](./90097-enchanting-mahjong-match.json) |
 | Enchantment 2: Sun's Tear | 337836 | [337836-enchantment-2-suns-tear.json](./337836-enchantment-2-suns-tear.json) |
 | Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
+| Enchantment: Secret Hideaway - Collector's Edition | 395948 | [395948-enchantment-secret-hideaway-collectors-edition.json](./395948-enchantment-secret-hideaway-collectors-edition.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclave HD | 169240 | [169240-enclave-hd.json](./169240-enclave-hd.json) |
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
@@ -5776,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Below | 151500 | [151500-evil-below.json](./151500-evil-below.json) |
 | Evil Bird Simulator | 209301 | [209301-evil-bird-simulator.json](./209301-evil-bird-simulator.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
+| Evil Cat Simulator vs. Granny | 395967 | [395967-evil-cat-simulator-vs-granny.json](./395967-evil-cat-simulator-vs-granny.json) |
 | Evil Clowns | 125267 | [125267-evil-clowns.json](./125267-evil-clowns.json) |
 | Evil Cogs | 93740 | [93740-evil-cogs.json](./93740-evil-cogs.json) |
 | Evil Core: The Fallen Cities | 71916 | [71916-evil-core-the-fallen-cities.json](./71916-evil-core-the-fallen-cities.json) |
