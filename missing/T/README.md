@@ -14444,6 +14444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Marena's Deft | 298716 | [298716-the-tale-of-marenas-deft.json](./298716-the-tale-of-marenas-deft.json) |
 | The Tale of Onogoro | 196312 | [196312-the-tale-of-onogoro.json](./196312-the-tale-of-onogoro.json) |
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
+| The Tale of Spring City | 391004 | [391004-the-tale-of-spring-city.json](./391004-the-tale-of-spring-city.json) |
 | The Tale of the ADHD Dinosaur | 179621 | [179621-the-tale-of-the-adhd-dinosaur.json](./179621-the-tale-of-the-adhd-dinosaur.json) |
 | The Tale of Treasonous Tom | 207752 | [207752-the-tale-of-treasonous-tom.json](./207752-the-tale-of-treasonous-tom.json) |
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
