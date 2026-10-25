@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Throne Edition | 410859 | [410859-s-n-i-p-e-r-hunter-scope-throne-edition.json](./410859-s-n-i-p-e-r-hunter-scope-throne-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Ultimate Firepower | 303881 | [303881-s-n-i-p-e-r-hunter-scope-ultimate-firepower.json](./303881-s-n-i-p-e-r-hunter-scope-ultimate-firepower.json) |
 | S.N.I.P.E.R.: Hunter Scope - Weaponry Upgrade | 404554 | [404554-s-n-i-p-e-r-hunter-scope-weaponry-upgrade.json](./404554-s-n-i-p-e-r-hunter-scope-weaponry-upgrade.json) |
+| S.N.I.P.E.R.: Hunter Scope Content Bundle | 390911 | [390911-s-n-i-p-e-r-hunter-scope-content-bundle.json](./390911-s-n-i-p-e-r-hunter-scope-content-bundle.json) |
 | S.N.I.P.E.R.: Hunter Scope Hostile Territory | 378966 | [378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json](./378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json) |
 | S.O.L School Of Labyrinth | 412447 | [412447-s-o-l-school-of-labyrinth.json](./412447-s-o-l-school-of-labyrinth.json) |
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
@@ -10534,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
 | Skyhood's Innocent Six | 250256 | [250256-skyhoods-innocent-six.json](./250256-skyhoods-innocent-six.json) |
 | Skyhook | 19303 | [19303-skyhook.json](./19303-skyhook.json) |
+| SkyInFlames | 391000 | [391000-skyinflames.json](./391000-skyinflames.json) |
 | SkyIsland | 238062 | [238062-skyisland.json](./238062-skyisland.json) |
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
 | SkyJumper | 190732 | [190732-skyjumper.json](./190732-skyjumper.json) |
@@ -18726,6 +18728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot The Object | 283376 | [283376-spot-the-object.json](./283376-spot-the-object.json) |
 | Spot the Odd! | 300831 | [300831-spot-the-odd.json](./300831-spot-the-odd.json) |
 | Spot the Oddity | 111516 | [111516-spot-the-oddity.json](./111516-spot-the-oddity.json) |
+| Spot the Spy Guy | 390910 | [390910-spot-the-spy-guy.json](./390910-spot-the-spy-guy.json) |
 | Spot the Wrong Character | 362361 | [362361-spot-the-wrong-character.json](./362361-spot-the-wrong-character.json) |
 | Spot Venture | 243170 | [243170-spot-venture.json](./243170-spot-venture.json) |
 | Spot Zero | 338744 | [338744-spot-zero.json](./338744-spot-zero.json) |
@@ -18936,6 +18939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Indonesia Deluxe | 347334 | [347334-spy-guy-indonesia-deluxe.json](./347334-spy-guy-indonesia-deluxe.json) |
 | Spy Guy Memory | 300837 | [300837-spy-guy-memory.json](./300837-spy-guy-memory.json) |
 | Spy Guy Memory Abstraction Bundle | 400204 | [400204-spy-guy-memory-abstraction-bundle.json](./400204-spy-guy-memory-abstraction-bundle.json) |
+| Spy Guy Memory Funny Bundle | 390909 | [390909-spy-guy-memory-funny-bundle.json](./390909-spy-guy-memory-funny-bundle.json) |
 | Spy Guy Memory: Circus | 368782 | [368782-spy-guy-memory-circus.json](./368782-spy-guy-memory-circus.json) |
 | Spy Guy Memory: Fantasy Edition | 362219 | [362219-spy-guy-memory-fantasy-edition.json](./362219-spy-guy-memory-fantasy-edition.json) |
 | Spy Guy Memory: Indonesia | 364102 | [364102-spy-guy-memory-indonesia.json](./364102-spy-guy-memory-indonesia.json) |
@@ -24374,6 +24378,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugarcreek | 204110 | [204110-sugarcreek.json](./204110-sugarcreek.json) |
 | Sugardew Island: Christmas Bundle | 385187 | [385187-sugardew-island-christmas-bundle.json](./385187-sugardew-island-christmas-bundle.json) |
 | Sugardew Island: Christmas Costume | 385178 | [385178-sugardew-island-christmas-costume.json](./385178-sugardew-island-christmas-costume.json) |
+| Sugardew Island: Vintage Farmer Bundle | 390923 | [390923-sugardew-island-vintage-farmer-bundle.json](./390923-sugardew-island-vintage-farmer-bundle.json) |
+| Sugardew Island: Vintage Farmer Outfit | 390922 | [390922-sugardew-island-vintage-farmer-outfit.json](./390922-sugardew-island-vintage-farmer-outfit.json) |
 | Sugardew Island: Your Cozy Farm Shop | 289259 | [289259-sugardew-island-your-cozy-farm-shop.json](./289259-sugardew-island-your-cozy-farm-shop.json) |
 | SugarKiss! | 191629 | [191629-sugarkiss.json](./191629-sugarkiss.json) |
 | Sugarlawn | 209610 | [209610-sugarlawn.json](./209610-sugarlawn.json) |
@@ -25023,6 +25029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Love | 342763 | [342763-sunshine-love.json](./342763-sunshine-love.json) |
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
+| Sunshine.EXE | 391266 | [391266-sunshine-exe.json](./391266-sunshine-exe.json) |
 | Sunshore City | 396737 | [396737-sunshore-city.json](./396737-sunshore-city.json) |
 | Sunshower | 183946 | [183946-sunshower.json](./183946-sunshower.json) |
 | Sunsoft Collection | 79526 | [79526-sunsoft-collection.json](./79526-sunsoft-collection.json) |
@@ -25290,6 +25297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Caesars Palace | 9622 | [9622-super-caesars-palace.json](./9622-super-caesars-palace.json) |
 | Super Cakeboy | 240816 | [240816-super-cakeboy.json](./240816-super-cakeboy.json) |
 | Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
+| Super Candle World | 391010 | [391010-super-candle-world.json](./391010-super-candle-world.json) |
 | Super Candy Ball: Color Clash | 235253 | [235253-super-candy-ball-color-clash.json](./235253-super-candy-ball-color-clash.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Captain 3D | 111485 | [111485-super-captain-3d.json](./111485-super-captain-3d.json) |
