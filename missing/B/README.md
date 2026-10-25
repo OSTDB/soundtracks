@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
 | Backstage Pass: The Ultimate Rock and Roll Trivia Game | 205902 | [205902-backstage-pass-the-ultimate-rock-and-roll-trivia-game.json](./205902-backstage-pass-the-ultimate-rock-and-roll-trivia-game.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
+| Backsteine | 421412 | [421412-backsteine.json](./421412-backsteine.json) |
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
 | Backstreet Billiards | 94359 | [94359-backstreet-billiards.json](./94359-backstreet-billiards.json) |
 | Backstreet Warriors | 351158 | [351158-backstreet-warriors.json](./351158-backstreet-warriors.json) |
@@ -8043,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastgrid | 303365 | [303365-blastgrid.json](./303365-blastgrid.json) |
 | Blasting Bad | 326112 | [326112-blasting-bad.json](./326112-blasting-bad.json) |
 | Blasting Courier | 181047 | [181047-blasting-courier.json](./181047-blasting-courier.json) |
+| Blastlane Racers | 421462 | [421462-blastlane-racers.json](./421462-blastlane-racers.json) |
 | BlastLast | 310263 | [310263-blastlast.json](./310263-blastlast.json) |
 | BlastMania | 201458 | [201458-blastmania.json](./201458-blastmania.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
@@ -11945,6 +11947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bram Stoker's Dracula | 5366 | [5366-bram-stokers-dracula.json](./5366-bram-stokers-dracula.json) |
 | Bram the Toymaker | 165951 | [165951-bram-the-toymaker.json](./165951-bram-the-toymaker.json) |
 | Bramble Royale: A Meteorfall Story | 317991 | [317991-bramble-royale-a-meteorfall-story.json](./317991-bramble-royale-a-meteorfall-story.json) |
+| Bramble Sling | 421453 | [421453-bramble-sling.json](./421453-bramble-sling.json) |
 | Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
