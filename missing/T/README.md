@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take the Veil | 201638 | [201638-take-the-veil.json](./201638-take-the-veil.json) |
 | Take Thy Throne | 32819 | [32819-take-thy-throne.json](./32819-take-thy-throne.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
+| Take You Home | 391991 | [391991-take-you-home.json](./391991-take-you-home.json) |
 | Take Your Altushka | 310106 | [310106-take-your-altushka.json](./310106-take-your-altushka.json) |
 | Take Your Best Shot | 69794 | [69794-take-your-best-shot.json](./69794-take-your-best-shot.json) |
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
@@ -3054,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell a Story | 89057 | [89057-tell-a-story.json](./89057-tell-a-story.json) |
 | Tell It Slant | 318546 | [318546-tell-it-slant.json](./318546-tell-it-slant.json) |
 | Tell Me Everything | 100715 | [100715-tell-me-everything.json](./100715-tell-me-everything.json) |
+| Tell Me Owl | 392017 | [392017-tell-me-owl.json](./392017-tell-me-owl.json) |
 | Tell me tonight was real | 281021 | [281021-tell-me-tonight-was-real.json](./281021-tell-me-tonight-was-real.json) |
 | Tell Me Why | 125628 | [125628-tell-me-why.json](./125628-tell-me-why.json) |
 | Tell Me Why: Chapter One - Homecoming | 141012 | [141012-tell-me-why-chapter-one-homecoming.json](./141012-tell-me-why-chapter-one-homecoming.json) |
@@ -4588,6 +4590,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bertram Fiddle: Episode 1 - A Dreadly Business | 14307 | [14307-the-adventures-of-bertram-fiddle-episode-1-a-dreadly-business.json](./14307-the-adventures-of-bertram-fiddle-episode-1-a-dreadly-business.json) |
 | The Adventures of Bertram Fiddle: Episode 2 - A Bleaker Predicklement | 32834 | [32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json](./32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
+| The Adventures of Bleeposaurus | 392327 | [392327-the-adventures-of-bleeposaurus.json](./392327-the-adventures-of-bleeposaurus.json) |
+| The Adventures of Bleeposaurus: Dragonfire | 392329 | [392329-the-adventures-of-bleeposaurus-dragonfire.json](./392329-the-adventures-of-bleeposaurus-dragonfire.json) |
 | The Adventures of Bond... Basildon Bond | 41149 | [41149-the-adventures-of-bond-basildon-bond.json](./41149-the-adventures-of-bond-basildon-bond.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
 | The Adventures of Bryan Scott | 172541 | [172541-the-adventures-of-bryan-scott.json](./172541-the-adventures-of-bryan-scott.json) |
@@ -5347,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bible: Exodus | 155381 | [155381-the-bible-exodus.json](./155381-the-bible-exodus.json) |
 | The Bibleman | 72773 | [72773-the-bibleman.json](./72773-the-bibleman.json) |
 | The Bibleman Videogame Adventure: A Fight for Faith | 206659 | [206659-the-bibleman-videogame-adventure-a-fight-for-faith.json](./206659-the-bibleman-videogame-adventure-a-fight-for-faith.json) |
+| The Bicameral Protocol | 392003 | [392003-the-bicameral-protocol.json](./392003-the-bicameral-protocol.json) |
 | The Big 6 | 65241 | [65241-the-big-6.json](./65241-the-big-6.json) |
 | The Big Adventure | 339216 | [339216-the-big-adventure.json](./339216-the-big-adventure.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
@@ -8113,6 +8118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frozen Shore | 231462 | [231462-the-frozen-shore.json](./231462-the-frozen-shore.json) |
 | The Fruit | 392165 | [392165-the-fruit.json](./392165-the-fruit.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
+| The Fruit Merchant's Diary | 391976 | [391976-the-fruit-merchants-diary.json](./391976-the-fruit-merchants-diary.json) |
 | The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
 | The Fruit Stealing Girls | 290812 | [290812-the-fruit-stealing-girls.json](./290812-the-fruit-stealing-girls.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
@@ -8297,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gift | 192151 | [192151-the-gift.json](./192151-the-gift.json) |
 | The Gift | 53739 | [53739-the-gift.json](./53739-the-gift.json) |
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
+| The Gilded Lady: Life and Love in a Cyborg Shop | 391984 | [391984-the-gilded-lady-life-and-love-in-a-cyborg-shop.json](./391984-the-gilded-lady-life-and-love-in-a-cyborg-shop.json) |
 | The Giraffe G | 210925 | [210925-the-giraffe-g.json](./210925-the-giraffe-g.json) |
 | The Giraffe World | 174095 | [174095-the-giraffe-world.json](./174095-the-giraffe-world.json) |
 | The Girl and the Robot | 22777 | [22777-the-girl-and-the-robot.json](./22777-the-girl-and-the-robot.json) |
@@ -12336,6 +12343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pinecone | 140352 | [140352-the-pinecone.json](./140352-the-pinecone.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
 | The Pink Panther's Passport to Peril | 47088 | [47088-the-pink-panthers-passport-to-peril.json](./47088-the-pink-panthers-passport-to-peril.json) |
+| The Pinkman Files | 391523 | [391523-the-pinkman-files.json](./391523-the-pinkman-files.json) |
 | The Pioneers: Surviving Desolation | 171471 | [171471-the-pioneers-surviving-desolation.json](./171471-the-pioneers-surviving-desolation.json) |
 | The PipeTuber's Guide to the Solar System | 373802 | [373802-the-pipetubers-guide-to-the-solar-system.json](./373802-the-pipetubers-guide-to-the-solar-system.json) |
 | The Pirate King | 152731 | [152731-the-pirate-king.json](./152731-the-pirate-king.json) |
@@ -12480,6 +12488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price is Right: Decades | 20213 | [20213-the-price-is-right-decades.json](./20213-the-price-is-right-decades.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
+| The Primitive | 392334 | [392334-the-primitive.json](./392334-the-primitive.json) |
 | The Primordial World | 147121 | [147121-the-primordial-world.json](./147121-the-primordial-world.json) |
 | The Primrose Path | 300362 | [300362-the-primrose-path.json](./300362-the-primrose-path.json) |
 | The Primrose Theater | 335860 | [335860-the-primrose-theater.json](./335860-the-primrose-theater.json) |
@@ -19365,6 +19374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
 | Tiny Bird Garden Deluxe | 112826 | [112826-tiny-bird-garden-deluxe.json](./112826-tiny-bird-garden-deluxe.json) |
+| Tiny Birdtopia | 391537 | [391537-tiny-birdtopia.json](./391537-tiny-birdtopia.json) |
 | Tiny Block: One Block Skyblock | 416378 | [416378-tiny-block-one-block-skyblock.json](./416378-tiny-block-one-block-skyblock.json) |
 | Tiny Blues vs. Mini Reds | 219768 | [219768-tiny-blues-vs-mini-reds.json](./219768-tiny-blues-vs-mini-reds.json) |
 | Tiny Bookshop | 216718 | [216718-tiny-bookshop.json](./216718-tiny-bookshop.json) |
@@ -26223,6 +26233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucked | 232292 | [232292-trucked.json](./232292-trucked.json) |
 | Trucker | 25425 | [25425-trucker.json](./25425-trucker.json) |
 | Trucker 2 | 25506 | [25506-trucker-2.json](./25506-trucker-2.json) |
+| Trucker 2056 | 392007 | [392007-trucker-2056.json](./392007-trucker-2056.json) |
 | Trucker Horror | 336499 | [336499-trucker-horror.json](./336499-trucker-horror.json) |
 | Trucker Transporter 2 - Parking Simulator | 89516 | [89516-trucker-transporter-2-parking-simulator.json](./89516-trucker-transporter-2-parking-simulator.json) |
 | Trucker's Dynasty - Cuba Libre | 122002 | [122002-truckers-dynasty-cuba-libre.json](./122002-truckers-dynasty-cuba-libre.json) |
