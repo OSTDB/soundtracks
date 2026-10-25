@@ -10221,7 +10221,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneScape | 5611 | [5611-runescape.json](./5611-runescape.json) |
 | RuneScape 2 | 362749 | [362749-runescape-2.json](./362749-runescape-2.json) |
 | RuneScape Quests: One Piercing Note | 108958 | [108958-runescape-quests-one-piercing-note.json](./108958-runescape-quests-one-piercing-note.json) |
-| RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
 | Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
 | Runeseekers 2 | 381721 | [381721-runeseekers-2.json](./381721-runeseekers-2.json) |
 | Runeshard | 56272 | [56272-runeshard.json](./56272-runeshard.json) |
