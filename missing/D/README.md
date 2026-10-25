@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reefs | 50284 | [50284-dead-reefs.json](./50284-dead-reefs.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
 | Dead Rider | 87312 | [87312-dead-rider.json](./87312-dead-rider.json) |
+| Dead Rig | 402729 | [402729-dead-rig.json](./402729-dead-rig.json) |
 | Dead Rising | 4797 | [4797-dead-rising.json](./4797-dead-rising.json) |
 | Dead Rising 2 | 496 | [496-dead-rising-2.json](./496-dead-rising-2.json) |
 | Dead Rising 2: Case West | 21764 | [21764-dead-rising-2-case-west.json](./21764-dead-rising-2-case-west.json) |
@@ -3906,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathlord | 13838 | [13838-deathlord.json](./13838-deathlord.json) |
 | Deathlust | 387082 | [387082-deathlust.json](./387082-deathlust.json) |
 | Deathly Dangerous | 244338 | [244338-deathly-dangerous.json](./244338-deathly-dangerous.json) |
+| Deathly Delights | 402727 | [402727-deathly-delights.json](./402727-deathly-delights.json) |
 | Deathly Stillness | 166619 | [166619-deathly-stillness.json](./166619-deathly-stillness.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
 | Deathly Survival | 74509 | [74509-deathly-survival.json](./74509-deathly-survival.json) |
