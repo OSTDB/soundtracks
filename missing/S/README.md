@@ -22616,6 +22616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Adventures in Infinite Space | 23510 | [23510-strange-adventures-in-infinite-space.json](./23510-strange-adventures-in-infinite-space.json) |
 | Strange Aeons | 216861 | [216861-strange-aeons.json](./216861-strange-aeons.json) |
 | Strange Alchemy | 337807 | [337807-strange-alchemy.json](./337807-strange-alchemy.json) |
+| Strange and Luig | 398155 | [398155-strange-and-luig.json](./398155-strange-and-luig.json) |
 | Strange and Mysterious Domain | 308864 | [308864-strange-and-mysterious-domain.json](./308864-strange-and-mysterious-domain.json) |
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
 | Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
@@ -26496,6 +26497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
 | Super Metroid: Phazon | 42524 | [42524-super-metroid-phazon.json](./42524-super-metroid-phazon.json) |
 | Super Metroid: Project Base | 198334 | [198334-super-metroid-project-base.json](./198334-super-metroid-project-base.json) |
+| Super Metroid: Recovery | 398162 | [398162-super-metroid-recovery.json](./398162-super-metroid-recovery.json) |
 | Super Metroid: Redesign | 42521 | [42521-super-metroid-redesign.json](./42521-super-metroid-redesign.json) |
 | Super Metroid: Redesign - Axeil Edition | 198163 | [198163-super-metroid-redesign-axeil-edition.json](./198163-super-metroid-redesign-axeil-edition.json) |
 | Super Metroid: Redux | 188575 | [188575-super-metroid-redux.json](./188575-super-metroid-redux.json) |
