@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkies | 238474 | [238474-walkies.json](./238474-walkies.json) |
 | Walking | 186108 | [186108-walking.json](./186108-walking.json) |
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
+| Walking In | 407810 | [407810-walking-in.json](./407810-walking-in.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
 | Walking into Walls | 164315 | [164315-walking-into-walls.json](./164315-walking-into-walls.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3365,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
 | When the Stars Come Down on Us | 177896 | [177896-when-the-stars-come-down-on-us.json](./177896-when-the-stars-come-down-on-us.json) |
+| When the Stars Threw Down Their Spears | 407759 | [407759-when-the-stars-threw-down-their-spears.json](./407759-when-the-stars-threw-down-their-spears.json) |
 | When the Strawberry Muffin Ate a Goth | 249323 | [249323-when-the-strawberry-muffin-ate-a-goth.json](./249323-when-the-strawberry-muffin-ate-a-goth.json) |
 | When the Wildflowers Leave | 380226 | [380226-when-the-wildflowers-leave.json](./380226-when-the-wildflowers-leave.json) |
 | When The World Became Black | 298134 | [298134-when-the-world-became-black.json](./298134-when-the-world-became-black.json) |
@@ -4663,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Traveler | 324311 | [324311-wind-traveler.json](./324311-wind-traveler.json) |
 | Wind Tunnel Simulator | 372729 | [372729-wind-tunnel-simulator.json](./372729-wind-tunnel-simulator.json) |
 | Wind Up | 231291 | [231291-wind-up.json](./231291-wind-up.json) |
+| Wind Up Deadman | 407934 | [407934-wind-up-deadman.json](./407934-wind-up-deadman.json) |
 | Wind Up! | 152785 | [152785-wind-up.json](./152785-wind-up.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Wind-Up Maze HD | 232497 | [232497-wind-up-maze-hd.json](./232497-wind-up-maze-hd.json) |
