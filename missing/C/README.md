@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch 'Em! Goldfish Scooping | 106973 | [106973-catch-em-goldfish-scooping.json](./106973-catch-em-goldfish-scooping.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
 | Catch & Defense | 373190 | [373190-catch-and-defense.json](./373190-catch-and-defense.json) |
+| Catch & Release | 103032 | [103032-catch-and-release.json](./103032-catch-and-release.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch a Lover | 29543 | [29543-catch-a-lover.json](./29543-catch-a-lover.json) |
 | Catch Beshi!! Scooping Game | 322666 | [322666-catch-beshi-scooping-game.json](./322666-catch-beshi-scooping-game.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman | 284224 | [284224-caveman.json](./284224-caveman.json) |
 | Caveman | 335472 | [335472-caveman.json](./335472-caveman.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
+| Caveman adventures | 107479 | [107479-caveman-adventures.json](./107479-caveman-adventures.json) |
 | Caveman Alive | 68499 | [68499-caveman-alive.json](./68499-caveman-alive.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
 | Caveman Caravan | 369667 | [369667-caveman-caravan.json](./369667-caveman-caravan.json) |
@@ -5981,6 +5983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Chess Online - Play Xiangqi Live | 87244 | [87244-chinese-chess-online-play-xiangqi-live.json](./87244-chinese-chess-online-play-xiangqi-live.json) |
 | Chinese Chess Party | 242372 | [242372-chinese-chess-party.json](./242372-chinese-chess-party.json) |
 | Chinese Chess Wargame | 259502 | [259502-chinese-chess-wargame.json](./259502-chinese-chess-wargame.json) |
+| Chinese Chess, Xiangqi (Professional Edition) | 101565 | [101565-chinese-chess-xiangqi-professional-edition.json](./101565-chinese-chess-xiangqi-professional-edition.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
 | Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
@@ -8328,6 +8331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cling! | 21730 | [21730-cling.json](./21730-cling.json) |
 | Clinical Marshmallows | 374285 | [374285-clinical-marshmallows.json](./374285-clinical-marshmallows.json) |
 | Clinical Trial | 326760 | [326760-clinical-trial.json](./326760-clinical-trial.json) |
+| Clinically Dead | 107474 | [107474-clinically-dead.json](./107474-clinically-dead.json) |
 | CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
