@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Canasta HD | 354965 | [354965-canasta-hd.json](./354965-canasta-hd.json) |
 | Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
+| Canasta Royale | 87318 | [87318-canasta-royale.json](./87318-canasta-royale.json) |
 | Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
 | Cancelled Christmas | 399267 | [399267-cancelled-christmas.json](./399267-cancelled-christmas.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
@@ -3253,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Simulator | 283154 | [283154-cat-simulator.json](./283154-cat-simulator.json) |
 | Cat Simulator 2 | 306469 | [306469-cat-simulator-2.json](./306469-cat-simulator-2.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
+| Cat Simulator 3D: Pets and Friends | 87300 | [87300-cat-simulator-3d-pets-and-friends.json](./87300-cat-simulator-3d-pets-and-friends.json) |
 | Cat Simulator: Animals on Farm | 168135 | [168135-cat-simulator-animals-on-farm.json](./168135-cat-simulator-animals-on-farm.json) |
 | Cat Simulator: Meow | 152473 | [152473-cat-simulator-meow.json](./152473-cat-simulator-meow.json) |
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
@@ -7015,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
 | Cinderella After 4 | 303292 | [303292-cinderella-after-4.json](./303292-cinderella-after-4.json) |
+| Cinderella Classic Tale | 87319 | [87319-cinderella-classic-tale.json](./87319-cinderella-classic-tale.json) |
 | Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
 | Cinderella Escape! R12 | 34330 | [34330-cinderella-escape-r12.json](./34330-cinderella-escape-r12.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
@@ -11432,6 +11435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
 | Cookie Gluttons TD | 213334 | [213334-cookie-gluttons-td.json](./213334-cookie-gluttons-td.json) |
 | Cookie Invaders | 133124 | [133124-cookie-invaders.json](./133124-cookie-invaders.json) |
+| Cookie Jam Blast | 86780 | [86780-cookie-jam-blast.json](./86780-cookie-jam-blast.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Monster Munch | 40587 | [40587-cookie-monster-munch.json](./40587-cookie-monster-munch.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
