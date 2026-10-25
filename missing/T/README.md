@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
 | Tactical Assassin 3 | 388108 | [388108-tactical-assassin-3.json](./388108-tactical-assassin-3.json) |
 | Tactical Assault VR | 242021 | [242021-tactical-assault-vr.json](./242021-tactical-assault-vr.json) |
+| Tactical Assault VR: Winter Cosmetics Pack | 400737 | [400737-tactical-assault-vr-winter-cosmetics-pack.json](./400737-tactical-assault-vr-winter-cosmetics-pack.json) |
 | Tactical Bandits | 207578 | [207578-tactical-bandits.json](./207578-tactical-bandits.json) |
 | Tactical Battles | 342846 | [342846-tactical-battles.json](./342846-tactical-battles.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
@@ -11328,6 +11329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Messenger from Athens at Marathon | 422053 | [422053-the-messenger-from-athens-at-marathon.json](./422053-the-messenger-from-athens-at-marathon.json) |
 | The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
+| The Meter is Running | 400816 | [400816-the-meter-is-running.json](./400816-the-meter-is-running.json) |
 | The Metronomicon: Deluxe Edition | 53761 | [53761-the-metronomicon-deluxe-edition.json](./53761-the-metronomicon-deluxe-edition.json) |
 | The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 1 | 225230 | [225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json](./225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json) |
 | The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 2 | 225231 | [225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json](./225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json) |
