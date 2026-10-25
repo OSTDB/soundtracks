@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
 | Saru Get You: Pipo Saru Racer | 66511 | [66511-saru-get-you-pipo-saru-racer.json](./66511-saru-get-you-pipo-saru-racer.json) |
 | Saru Getchu Saru Saru Daisakusen | 79069 | [79069-saru-getchu-saru-saru-daisakusen.json](./79069-saru-getchu-saru-saru-daisakusen.json) |
+| Saru! Get You! 2: Ukki Ukki Disc | 386769 | [386769-saru-get-you-2-ukki-ukki-disc.json](./386769-saru-get-you-2-ukki-ukki-disc.json) |
 | Sarukhstart Takeover | 419198 | [419198-sarukhstart-takeover.json](./419198-sarukhstart-takeover.json) |
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
 | SAS Secure Tomorrow | 10811 | [10811-sas-secure-tomorrow.json](./10811-sas-secure-tomorrow.json) |
@@ -18734,6 +18735,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot It! Mean Machines | 23679 | [23679-spot-it-mean-machines.json](./23679-spot-it-mean-machines.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
+| Spot the Cat: Cat's Stories | 386797 | [386797-spot-the-cat-cats-stories.json](./386797-spot-the-cat-cats-stories.json) |
+| Spot the Cat: Stories Edition | 386803 | [386803-spot-the-cat-stories-edition.json](./386803-spot-the-cat-stories-edition.json) |
 | Spot the Diff 3D | 268955 | [268955-spot-the-diff-3d.json](./268955-spot-the-diff-3d.json) |
 | Spot the Difference | 409199 | [409199-spot-the-difference.json](./409199-spot-the-difference.json) |
 | Spot the Difference 3D | 365000 | [365000-spot-the-difference-3d.json](./365000-spot-the-difference-3d.json) |
@@ -18958,6 +18961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Europe | 395211 | [395211-spy-guy-europe.json](./395211-spy-guy-europe.json) |
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
 | Spy Guy Hidden Objects: Deluxe Edition | 285543 | [285543-spy-guy-hidden-objects-deluxe-edition.json](./285543-spy-guy-hidden-objects-deluxe-edition.json) |
+| Spy Guy Hidden Objects: Poznan | 386798 | [386798-spy-guy-hidden-objects-poznan.json](./386798-spy-guy-hidden-objects-poznan.json) |
 | Spy Guy Hidden Objects: Spy Guy Indonesia | 347333 | [347333-spy-guy-hidden-objects-spy-guy-indonesia.json](./347333-spy-guy-hidden-objects-spy-guy-indonesia.json) |
 | Spy Guy Indonesia Deluxe | 347334 | [347334-spy-guy-indonesia-deluxe.json](./347334-spy-guy-indonesia-deluxe.json) |
 | Spy Guy Memory | 300837 | [300837-spy-guy-memory.json](./300837-spy-guy-memory.json) |
@@ -18968,6 +18972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Memory: Indonesia | 364102 | [364102-spy-guy-memory-indonesia.json](./364102-spy-guy-memory-indonesia.json) |
 | Spy Guy Memory: Vacation Edition | 404286 | [404286-spy-guy-memory-vacation-edition.json](./404286-spy-guy-memory-vacation-edition.json) |
 | Spy Guy The Circus Mission Edition | 364093 | [364093-spy-guy-the-circus-mission-edition.json](./364093-spy-guy-the-circus-mission-edition.json) |
+| Spy Guy: Poznan Edition | 386804 | [386804-spy-guy-poznan-edition.json](./386804-spy-guy-poznan-edition.json) |
 | Spy Guy: Vacation Bundle | 404287 | [404287-spy-guy-vacation-bundle.json](./404287-spy-guy-vacation-bundle.json) |
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
 | Spy Hunter | 287079 | [287079-spy-hunter.json](./287079-spy-hunter.json) |
@@ -20629,6 +20634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
 | StarFlyers: Alien Space Chase | 122951 | [122951-starflyers-alien-space-chase.json](./122951-starflyers-alien-space-chase.json) |
 | StarFlyers: Royal Jewel Rescue | 122950 | [122950-starflyers-royal-jewel-rescue.json](./122950-starflyers-royal-jewel-rescue.json) |
+| Starforce Rangers | 386763 | [386763-starforce-rangers.json](./386763-starforce-rangers.json) |
 | StarForce: 2193 | 34475 | [34475-starforce-2193.json](./34475-starforce-2193.json) |
 | Starforge | 172038 | [172038-starforge.json](./172038-starforge.json) |
 | Starforge | 2649 | [2649-starforge.json](./2649-starforge.json) |
@@ -24218,6 +24224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 264458 | [264458-sudoku.json](./264458-sudoku.json) |
 | Sudoku | 267544 | [267544-sudoku.json](./267544-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
+| Sudoku | 386771 | [386771-sudoku.json](./386771-sudoku.json) |
 | Sudoku | 397667 | [397667-sudoku.json](./397667-sudoku.json) |
 | Sudoku | 86387 | [86387-sudoku.json](./86387-sudoku.json) |
 | Sudoku | 86840 | [86840-sudoku.json](./86840-sudoku.json) |
