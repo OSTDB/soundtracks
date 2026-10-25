@@ -7350,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 9: Audi Quattro A2 1984 | 196111 | [196111-wrc-9-audi-quattro-a2-1984.json](./196111-wrc-9-audi-quattro-a2-1984.json) |
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
+| WRC Collection FIA World Rally Championship | 83770 | [83770-wrc-collection-fia-world-rally-championship.json](./83770-wrc-collection-fia-world-rally-championship.json) |
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
 | WRC Generations: Citroën C4 WRC 2010 | 231225 | [231225-wrc-generations-citroen-c4-wrc-2010.json](./231225-wrc-generations-citroen-c4-wrc-2010.json) |
 | WRC Generations: Peugeot 206 WRC 2002 | 231224 | [231224-wrc-generations-peugeot-206-wrc-2002.json](./231224-wrc-generations-peugeot-206-wrc-2002.json) |
