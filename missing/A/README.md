@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
+| A Daily Cup of Tea | 397847 | [397847-a-daily-cup-of-tea.json](./397847-a-daily-cup-of-tea.json) |
 | A Dance of Fire and Ice | 114392 | [114392-a-dance-of-fire-and-ice.json](./114392-a-dance-of-fire-and-ice.json) |
 | A Dance of Fire and Ice - Neo Cosmos | 203226 | [203226-a-dance-of-fire-and-ice-neo-cosmos.json](./203226-a-dance-of-fire-and-ice-neo-cosmos.json) |
 | A Dark and Deadly Path | 73278 | [73278-a-dark-and-deadly-path.json](./73278-a-dark-and-deadly-path.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Divine Wager | 176912 | [176912-a-divine-wager.json](./176912-a-divine-wager.json) |
 | A Doctor's Term | 297762 | [297762-a-doctors-term.json](./297762-a-doctors-term.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
+| A Dog for All Seasons | 397850 | [397850-a-dog-for-all-seasons.json](./397850-a-dog-for-all-seasons.json) |
 | A Dog Named Dave Stuck on a Rave | 103280 | [103280-a-dog-named-dave-stuck-on-a-rave.json](./103280-a-dog-named-dave-stuck-on-a-rave.json) |
 | A Dog Named Mato | 159533 | [159533-a-dog-named-mato.json](./159533-a-dog-named-mato.json) |
 | A Dog of Flanders | 258387 | [258387-a-dog-of-flanders.json](./258387-a-dog-of-flanders.json) |
@@ -1816,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Merge | 384912 | [384912-abyssal-merge.json](./384912-abyssal-merge.json) |
 | Abyssal Shade | 337790 | [337790-abyssal-shade.json](./337790-abyssal-shade.json) |
 | Abyssal Soul | 412810 | [412810-abyssal-soul.json](./412810-abyssal-soul.json) |
+| Abyssal Sun | 397737 | [397737-abyssal-sun.json](./397737-abyssal-sun.json) |
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | Abyssalis | 421843 | [421843-abyssalis.json](./421843-abyssalis.json) |
@@ -3031,7 +3034,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7474,6 +7476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaza Aku Yatsu: Another World | 67353 | [67353-anaza-aku-yatsu-another-world.json](./67353-anaza-aku-yatsu-another-world.json) |
 | Anaza: Kaleidoscope Special | 47537 | [47537-anaza-kaleidoscope-special.json](./47537-anaza-kaleidoscope-special.json) |
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
+| Anbennar: A Fantasy Total Conversion | 397813 | [397813-anbennar-a-fantasy-total-conversion.json](./397813-anbennar-a-fantasy-total-conversion.json) |
 | Anceder | 105204 | [105204-anceder.json](./105204-anceder.json) |
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
 | Ancestors Legacy Multiplayer Open Beta | 86625 | [86625-ancestors-legacy-multiplayer-open-beta.json](./86625-ancestors-legacy-multiplayer-open-beta.json) |
