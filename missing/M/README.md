@@ -13116,7 +13116,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 14 | 384811 | [384811-monster-ops-14.json](./384811-monster-ops-14.json) |
 | Monster Ops 15 | 384812 | [384812-monster-ops-15.json](./384812-monster-ops-15.json) |
 | Monster Ops 17 | 400694 | [400694-monster-ops-17.json](./400694-monster-ops-17.json) |
+| Monster Ops 18 | 400747 | [400747-monster-ops-18.json](./400747-monster-ops-18.json) |
+| Monster Ops 19 | 400748 | [400748-monster-ops-19.json](./400748-monster-ops-19.json) |
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
+| Monster Ops 20 | 400749 | [400749-monster-ops-20.json](./400749-monster-ops-20.json) |
+| Monster Ops 21 | 400750 | [400750-monster-ops-21.json](./400750-monster-ops-21.json) |
+| Monster Ops 22 | 400751 | [400751-monster-ops-22.json](./400751-monster-ops-22.json) |
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
 | Monster Ops 5 | 370276 | [370276-monster-ops-5.json](./370276-monster-ops-5.json) |
@@ -15353,6 +15358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Triangle Mania 2 | 265857 | [265857-mr-triangle-mania-2.json](./265857-mr-triangle-mania-2.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 | 316362 | [316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json](./316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 Turbo HD Remix GOTY 2024 Edition: Coked Up + 1.5 Collection DX Directors Cut & Knuckles | 316364 | [316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json](./316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json) |
+| Mr. Troove | 400857 | [400857-mr-troove.json](./400857-mr-troove.json) |
 | Mr. Tuff | 214975 | [214975-mr-tuff.json](./214975-mr-tuff.json) |
 | Mr. Tulip Head | 183274 | [183274-mr-tulip-head.json](./183274-mr-tulip-head.json) |
 | Mr. Walker's Basement | 155688 | [155688-mr-walkers-basement.json](./155688-mr-walkers-basement.json) |
