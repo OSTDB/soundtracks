@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3803,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
 | White Middle Class Guy Simulator | 261976 | [261976-white-middle-class-guy-simulator.json](./261976-white-middle-class-guy-simulator.json) |
 | White Mirror | 214734 | [214734-white-mirror.json](./214734-white-mirror.json) |
+| White Mirror | 33882 | [33882-white-mirror.json](./33882-white-mirror.json) |
 | White Mourning: Museum In Pale | 226117 | [226117-white-mourning-museum-in-pale.json](./226117-white-mourning-museum-in-pale.json) |
 | White Night | 352190 | [352190-white-night.json](./352190-white-night.json) |
 | White Night | 8921 | [8921-white-night.json](./8921-white-night.json) |
@@ -5764,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Womb | 262595 | [262595-womb.json](./262595-womb.json) |
 | Womb Defense Force | 311575 | [311575-womb-defense-force.json](./311575-womb-defense-force.json) |
 | Womb of Worms | 394378 | [394378-womb-of-worms.json](./394378-womb-of-worms.json) |
+| Womb Room | 33934 | [33934-womb-room.json](./33934-womb-room.json) |
 | Wombel | 315329 | [315329-wombel.json](./315329-wombel.json) |
 | WomboCombo | 390248 | [390248-wombocombo.json](./390248-wombocombo.json) |
 | Wǒmen de Dàxué | 120600 | [120600-women-de-daxue.json](./120600-women-de-daxue.json) |
@@ -6936,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Truck Driving Simulator | 103891 | [103891-world-truck-driving-simulator.json](./103891-world-truck-driving-simulator.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World Voyage | 53109 | [53109-world-voyage.json](./53109-world-voyage.json) |
+| World VR Competition | 32801 | [32801-world-vr-competition.json](./32801-world-vr-competition.json) |
 | World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
 | World War 1: Ruined - Part 2 | 265118 | [265118-world-war-1-ruined-part-2.json](./265118-world-war-1-ruined-part-2.json) |
 | World War 1945 | 109534 | [109534-world-war-1945.json](./109534-world-war-1945.json) |
