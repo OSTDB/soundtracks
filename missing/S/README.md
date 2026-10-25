@@ -5177,9 +5177,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Monsters for Sex Motel | 288886 | [288886-sex-monsters-for-sex-motel.json](./288886-sex-monsters-for-sex-motel.json) |
 | Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
 | Sex Novel: Cheating Wife | 418852 | [418852-sex-novel-cheating-wife.json](./418852-sex-novel-cheating-wife.json) |
+| Sex Novel: Swingers Yacht | 389755 | [389755-sex-novel-swingers-yacht.json](./389755-sex-novel-swingers-yacht.json) |
 | Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
 | Sex Olympics | 289398 | [289398-sex-olympics.json](./289398-sex-olympics.json) |
 | Sex on Beach | 252271 | [252271-sex-on-beach.json](./252271-sex-on-beach.json) |
+| Sex On Fire | 389761 | [389761-sex-on-fire.json](./389761-sex-on-fire.json) |
 | Sex On The Beach | 301651 | [301651-sex-on-the-beach.json](./301651-sex-on-the-beach.json) |
 | Sex On The Beach | 376820 | [376820-sex-on-the-beach.json](./376820-sex-on-the-beach.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
@@ -5247,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex With Friends | 367048 | [367048-sex-with-friends.json](./367048-sex-with-friends.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
 | Sex with Stalin | 142719 | [142719-sex-with-stalin.json](./142719-sex-with-stalin.json) |
+| Sex With Succubus | 389753 | [389753-sex-with-succubus.json](./389753-sex-with-succubus.json) |
 | Sex with Teachers | 234110 | [234110-sex-with-teachers.json](./234110-sex-with-teachers.json) |
 | Sex with the Devil | 165543 | [165543-sex-with-the-devil.json](./165543-sex-with-the-devil.json) |
 | Sex with the Devil 2 | 260567 | [260567-sex-with-the-devil-2.json](./260567-sex-with-the-devil-2.json) |
@@ -5264,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexophobia | 417410 | [417410-sexophobia.json](./417410-sexophobia.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
+| SexSide | 389759 | [389759-sexside.json](./389759-sexside.json) |
 | Sexstellar | 379531 | [379531-sexstellar.json](./379531-sexstellar.json) |
 | SexStone | 367206 | [367206-sexstone.json](./367206-sexstone.json) |
 | Sextris | 185629 | [185629-sextris.json](./185629-sextris.json) |
@@ -5331,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
 | Sexy Space Airlines | 286444 | [286444-sexy-space-airlines.json](./286444-sexy-space-airlines.json) |
 | Sexy Space Defender | 389648 | [389648-sexy-space-defender.json](./389648-sexy-space-defender.json) |
+| Sexy Stories | 389758 | [389758-sexy-stories.json](./389758-sexy-stories.json) |
 | Sexy Strippers | 275834 | [275834-sexy-strippers.json](./275834-sexy-strippers.json) |
 | Sexy Valentine | 235607 | [235607-sexy-valentine.json](./235607-sexy-valentine.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
@@ -5716,6 +5721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowfire | 13034 | [13034-shadowfire.json](./13034-shadowfire.json) |
 | ShadowFlare | 70866 | [70866-shadowflare.json](./70866-shadowflare.json) |
 | Shadowforge | 138684 | [138684-shadowforge.json](./138684-shadowforge.json) |
+| Shadowgate | 389384 | [389384-shadowgate.json](./389384-shadowgate.json) |
 | Shadowgate | 8697 | [8697-shadowgate.json](./8697-shadowgate.json) |
 | Shadowgate | 8866 | [8866-shadowgate.json](./8866-shadowgate.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
@@ -7210,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ships Simulator | 229181 | [229181-ships-simulator.json](./229181-ships-simulator.json) |
 | Ships Simulator 2024 | 219609 | [219609-ships-simulator-2024.json](./219609-ships-simulator-2024.json) |
 | Ships Simulator Bundle | 273007 | [273007-ships-simulator-bundle.json](./273007-ships-simulator-bundle.json) |
+| Ships That Fight Underground | 389379 | [389379-ships-that-fight-underground.json](./389379-ships-that-fight-underground.json) |
 | ShipSwing | 206185 | [206185-shipswing.json](./206185-shipswing.json) |
 | Shipwreck | 35936 | [35936-shipwreck.json](./35936-shipwreck.json) |
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
@@ -11786,6 +11793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Monkeys | 142850 | [142850-smash-monkeys.json](./142850-smash-monkeys.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
 | Smash Out | 69902 | [69902-smash-out.json](./69902-smash-out.json) |
+| Smash Out 2 | 389378 | [389378-smash-out-2.json](./389378-smash-out-2.json) |
 | Smash Out Colony | 373130 | [373130-smash-out-colony.json](./373130-smash-out-colony.json) |
 | Smash Out! | 81175 | [81175-smash-out.json](./81175-smash-out.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
@@ -13768,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
 | Solo Crisis | 62975 | [62975-solo-crisis.json](./62975-solo-crisis.json) |
 | Solo Defender | 333110 | [333110-solo-defender.json](./333110-solo-defender.json) |
+| Solo Defender | 389390 | [389390-solo-defender.json](./389390-solo-defender.json) |
 | Solo Flight | 25037 | [25037-solo-flight.json](./25037-solo-flight.json) |
 | Solo Flight | 289550 | [289550-solo-flight.json](./289550-solo-flight.json) |
 | Solo Fox | 143369 | [143369-solo-fox.json](./143369-solo-fox.json) |
@@ -28021,6 +28030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Club | 141656 | [141656-surf-club.json](./141656-surf-club.json) |
 | Surf Dance | 333243 | [333243-surf-dance.json](./333243-surf-dance.json) |
 | Surf Game | 296007 | [296007-surf-game.json](./296007-surf-game.json) |
+| Surf Girls Love Sex | 389764 | [389764-surf-girls-love-sex.json](./389764-surf-girls-love-sex.json) |
 | Surf Ninjas | 181670 | [181670-surf-ninjas.json](./181670-surf-ninjas.json) |
 | Surf Ninjas | 38836 | [38836-surf-ninjas.json](./38836-surf-ninjas.json) |
 | Surf Park | 270883 | [270883-surf-park.json](./270883-surf-park.json) |
