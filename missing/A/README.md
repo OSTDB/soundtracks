@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Achilles: Survivor | 319802 | [319802-achilles-survivor.json](./319802-achilles-survivor.json) |
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
+| Achron | 16264 | [16264-achron.json](./16264-achron.json) |
 | Achtung die Kugel! | 110927 | [110927-achtung-die-kugel.json](./110927-achtung-die-kugel.json) |
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
 | Achtung Panzer: Kharkov 1943 | 2008 | [2008-achtung-panzer-kharkov-1943.json](./2008-achtung-panzer-kharkov-1943.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3151,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | Aerocraft | 134973 | [134973-aerocraft.json](./134973-aerocraft.json) |
 | Aerodangle | 266123 | [266123-aerodangle.json](./266123-aerodangle.json) |
+| aerofly FS | 16383 | [16383-aerofly-fs.json](./16383-aerofly-fs.json) |
 | Aerofly FS 1 Flight Simulator | 28220 | [28220-aerofly-fs-1-flight-simulator.json](./28220-aerofly-fs-1-flight-simulator.json) |
 | Aerofly FS 2 Flight Simulator | 33736 | [33736-aerofly-fs-2-flight-simulator.json](./33736-aerofly-fs-2-flight-simulator.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Cessna 152 | 162744 | [162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json](./162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json) |
@@ -3577,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
 | Agarest: Generations of War | 8764 | [8764-agarest-generations-of-war.json](./8764-agarest-generations-of-war.json) |
+| Agarest: Generations of War 2 | 17620 | [17620-agarest-generations-of-war-2.json](./17620-agarest-generations-of-war-2.json) |
 | AgarIO Hub Rebirth | 329413 | [329413-agario-hub-rebirth.json](./329413-agario-hub-rebirth.json) |
 | Agartha | 145519 | [145519-agartha.json](./145519-agartha.json) |
 | Agartha | 82627 | [82627-agartha.json](./82627-agartha.json) |
@@ -6605,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazin' Lumo | 207895 | [207895-amazin-lumo.json](./207895-amazin-lumo.json) |
 | Amazin' Mage | 270867 | [270867-amazin-mage.json](./270867-amazin-mage.json) |
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
+| Amazing Adventures: The Caribbean Secret | 20436 | [20436-amazing-adventures-the-caribbean-secret.json](./20436-amazing-adventures-the-caribbean-secret.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
 | Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
 | Amazing Bats | 234468 | [234468-amazing-bats.json](./234468-amazing-bats.json) |
@@ -10327,6 +10332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadecraft | 17338 | [17338-arcadecraft.json](./17338-arcadecraft.json) |
 | Arcadegeddon | 154814 | [154814-arcadegeddon.json](./154814-arcadegeddon.json) |
 | Arcadeon VR | 148826 | [148826-arcadeon-vr.json](./148826-arcadeon-vr.json) |
+| Arcadia | 16219 | [16219-arcadia.json](./16219-arcadia.json) |
 | Arcadia | 202654 | [202654-arcadia.json](./202654-arcadia.json) |
 | Arcadia | 236852 | [236852-arcadia.json](./236852-arcadia.json) |
 | Arcadia 64 | 13793 | [13793-arcadia-64.json](./13793-arcadia-64.json) |
@@ -14390,7 +14396,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 2 | 19581 | [19581-avernum-2.json](./19581-avernum-2.json) |
 | Avernum 2: Crystal Souls | 8802 | [8802-avernum-2-crystal-souls.json](./8802-avernum-2-crystal-souls.json) |
 | Avernum 3 | 57680 | [57680-avernum-3.json](./57680-avernum-3.json) |
+| Avernum 4 | 16337 | [16337-avernum-4.json](./16337-avernum-4.json) |
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
+| Avernum 6 | 16339 | [16339-avernum-6.json](./16339-avernum-6.json) |
 | Avernum: The Complete Saga | 51709 | [51709-avernum-the-complete-saga.json](./51709-avernum-the-complete-saga.json) |
 | Avernus | 109377 | [109377-avernus.json](./109377-avernus.json) |
 | Averon Rising | 126874 | [126874-averon-rising.json](./126874-averon-rising.json) |
@@ -14708,6 +14716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axona | 283969 | [283969-axona.json](./283969-axona.json) |
 | Axria Retro World | 124568 | [124568-axria-retro-world.json](./124568-axria-retro-world.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
+| Axyos | 17740 | [17740-axyos.json](./17740-axyos.json) |
 | Axyos: Battlecards | 115522 | [115522-axyos-battlecards.json](./115522-axyos-battlecards.json) |
 | AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
