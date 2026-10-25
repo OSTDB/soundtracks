@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Monsters & Mortals - US Creator | 291694 | [291694-dark-deception-monsters-and-mortals-us-creator.json](./291694-dark-deception-monsters-and-mortals-us-creator.json) |
 | Dark Decline | 269271 | [269271-dark-decline.json](./269271-dark-decline.json) |
 | Dark Deity | 147215 | [147215-dark-deity.json](./147215-dark-deity.json) |
+| Dark Deity III | 405171 | [405171-dark-deity-iii.json](./405171-dark-deity-iii.json) |
 | Dark Deity: Complete Edition | 227862 | [227862-dark-deity-complete-edition.json](./227862-dark-deity-complete-edition.json) |
 | Dark Deity: Suns Out, Swords Out | 209658 | [209658-dark-deity-suns-out-swords-out.json](./209658-dark-deity-suns-out-swords-out.json) |
 | Dark Deity's Bastion | 268761 | [268761-dark-deitys-bastion.json](./268761-dark-deitys-bastion.json) |
