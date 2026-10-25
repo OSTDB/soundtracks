@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Jump | 147846 | [147846-panda-jump.json](./147846-panda-jump.json) |
 | Panda Jump Seasons | 353362 | [353362-panda-jump-seasons.json](./353362-panda-jump-seasons.json) |
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
+| Panda Love | 43087 | [43087-panda-love.json](./43087-panda-love.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Panda Lu Baby Bear City | 102672 | [102672-panda-lu-baby-bear-city.json](./102672-panda-lu-baby-bear-city.json) |
 | Panda Lu Fun Park | 88994 | [88994-panda-lu-fun-park.json](./88994-panda-lu-fun-park.json) |
@@ -4453,6 +4454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
 | Pharmacy Management Simulator | 348031 | [348031-pharmacy-management-simulator.json](./348031-pharmacy-management-simulator.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
+| Pharmakon | 43138 | [43138-pharmakon.json](./43138-pharmakon.json) |
 | Pharos | 340568 | [340568-pharos.json](./340568-pharos.json) |
 | Pharos Light | 292764 | [292764-pharos-light.json](./292764-pharos-light.json) |
 | Phase | 183277 | [183277-phase.json](./183277-phase.json) |
@@ -8163,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleroma | 135687 | [135687-pleroma.json](./135687-pleroma.json) |
 | Pleurghburg: Dark Ages | 79805 | [79805-pleurghburg-dark-ages.json](./79805-pleurghburg-dark-ages.json) |
 | Plexar | 84322 | [84322-plexar.json](./84322-plexar.json) |
+| Plexarium: Mega Maze Crawler | 55685 | [55685-plexarium-mega-maze-crawler.json](./55685-plexarium-mega-maze-crawler.json) |
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
 | Plight | 86370 | [86370-plight.json](./86370-plight.json) |
 | Plighters | 386386 | [386386-plighters.json](./386386-plighters.json) |
@@ -10188,6 +10191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
+| PooPee Wars | 55623 | [55623-poopee-wars.json](./55623-poopee-wars.json) |
 | Pooper Scooper | 74261 | [74261-pooper-scooper.json](./74261-pooper-scooper.json) |
 | PooPig | 374367 | [374367-poopig.json](./374367-poopig.json) |
 | Poople | 420545 | [420545-poople.json](./420545-poople.json) |
@@ -11462,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press “A” to Party | 147712 | [147712-press-a-to-party.json](./147712-press-a-to-party.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
 | Press all the buttons | 18891 | [18891-press-all-the-buttons.json](./18891-press-all-the-buttons.json) |
+| Press and Jump | 55602 | [55602-press-and-jump.json](./55602-press-and-jump.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Axe | 252000 | [252000-press-axe.json](./252000-press-axe.json) |
@@ -12291,6 +12296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Football Agent | 269972 | [269972-pro-football-agent.json](./269972-pro-football-agent.json) |
 | Pro Football Online | 388173 | [388173-pro-football-online.json](./388173-pro-football-online.json) |
 | Pro Gamer Manager | 34320 | [34320-pro-gamer-manager.json](./34320-pro-gamer-manager.json) |
+| Pro Gamer Manager 2 | 55581 | [55581-pro-gamer-manager-2.json](./55581-pro-gamer-manager-2.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
 | Pro Games Player | 203660 | [203660-pro-games-player.json](./203660-pro-games-player.json) |
 | Pro Golf | 385778 | [385778-pro-golf.json](./385778-pro-golf.json) |
@@ -14848,6 +14854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
 | Puzzle Cube: Magic Urbik Game | 207876 | [207876-puzzle-cube-magic-urbik-game.json](./207876-puzzle-cube-magic-urbik-game.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
+| Puzzle Dating | 55725 | [55725-puzzle-dating.json](./55725-puzzle-dating.json) |
 | Puzzle Dazzle 3D | 160059 | [160059-puzzle-dazzle-3d.json](./160059-puzzle-dazzle-3d.json) |
 | Puzzle De Bowling | 70863 | [70863-puzzle-de-bowling.json](./70863-puzzle-de-bowling.json) |
 | Puzzle de Harvest Moon | 20897 | [20897-puzzle-de-harvest-moon.json](./20897-puzzle-de-harvest-moon.json) |
