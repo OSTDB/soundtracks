@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of the New Age: Premium Edition | 36265 | [36265-fall-of-the-new-age-premium-edition.json](./36265-fall-of-the-new-age-premium-edition.json) |
 | Fall of the Son | 264108 | [264108-fall-of-the-son.json](./264108-fall-of-the-son.json) |
 | Fall of the Space Core, Vol. 1 | 392847 | [392847-fall-of-the-space-core-vol-1.json](./392847-fall-of-the-space-core-vol-1.json) |
+| Fall of the Titanic | 15036 | [15036-fall-of-the-titanic.json](./15036-fall-of-the-titanic.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fall Squad Guys: Stumble Knockout Royale | 314016 | [314016-fall-squad-guys-stumble-knockout-royale.json](./314016-fall-squad-guys-stumble-knockout-royale.json) |
 | Fall Up | 188897 | [188897-fall-up.json](./188897-fall-up.json) |
@@ -2467,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast RMX | 26816 | [26816-fast-rmx.json](./26816-fast-rmx.json) |
 | Fast Rolling | 77178 | [77178-fast-rolling.json](./77178-fast-rolling.json) |
 | Fast Running | 311183 | [311183-fast-running.json](./311183-fast-running.json) |
+| Fast Striker | 9125 | [9125-fast-striker.json](./9125-fast-striker.json) |
 | Fast Striker 1.5 | 45787 | [45787-fast-striker-1-5.json](./45787-fast-striker-1-5.json) |
 | Fast Striker: Limited Edition | 166998 | [166998-fast-striker-limited-edition.json](./166998-fast-striker-limited-edition.json) |
 | Fast Tracks: The Computer Slot Car Construction Kit | 131157 | [131157-fast-tracks-the-computer-slot-car-construction-kit.json](./131157-fast-tracks-the-computer-slot-car-construction-kit.json) |
@@ -6182,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleece Lightning | 175392 | [175392-fleece-lightning.json](./175392-fleece-lightning.json) |
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
 | Fleet Battle | 272460 | [272460-fleet-battle.json](./272460-fleet-battle.json) |
+| Fleet Command | 14803 | [14803-fleet-command.json](./14803-fleet-command.json) |
 | Fleet Commander | 48493 | [48493-fleet-commander.json](./48493-fleet-commander.json) |
 | Fleet Commander II | 41805 | [41805-fleet-commander-ii.json](./41805-fleet-commander-ii.json) |
 | Fleet Conquest | 410277 | [410277-fleet-conquest.json](./410277-fleet-conquest.json) |
@@ -10209,6 +10212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Tactics | 15322 | [15322-frontline-tactics.json](./15322-frontline-tactics.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Assault Corps WW2 | 340264 | [340264-frontline-assault-corps-ww2.json](./340264-frontline-assault-corps-ww2.json) |
+| Frontline: Fields of Thunder | 11108 | [11108-frontline-fields-of-thunder.json](./11108-frontline-fields-of-thunder.json) |
 | Frontline: Panzers & Generals Vol. I | 378608 | [378608-frontline-panzers-and-generals-vol-i.json](./378608-frontline-panzers-and-generals-vol-i.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Great Patriotic War | 127577 | [127577-frontline-the-great-patriotic-war.json](./127577-frontline-the-great-patriotic-war.json) |
