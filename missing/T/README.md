@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: Normandy | 46849 | [46849-tank-battle-normandy.json](./46849-tank-battle-normandy.json) |
 | Tank Battle: North Africa | 32775 | [32775-tank-battle-north-africa.json](./32775-tank-battle-north-africa.json) |
 | Tank Battle: Pacific | 44090 | [44090-tank-battle-pacific.json](./44090-tank-battle-pacific.json) |
+| Tank Battles | 20422 | [20422-tank-battles.json](./20422-tank-battles.json) |
 | Tank Beat | 21532 | [21532-tank-beat.json](./21532-tank-beat.json) |
 | Tank Blazers | 113155 | [113155-tank-blazers.json](./113155-tank-blazers.json) |
 | Tank Brawl | 33648 | [33648-tank-brawl.json](./33648-tank-brawl.json) |
@@ -1618,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Odyssey | 414550 | [414550-tank-odyssey.json](./414550-tank-odyssey.json) |
 | Tank of War-VR | 81051 | [81051-tank-of-war-vr.json](./81051-tank-of-war-vr.json) |
 | Tank Off | 137554 | [137554-tank-off.json](./137554-tank-off.json) |
+| Tank On Tank Digital - West Front | 29011 | [29011-tank-on-tank-digital-west-front.json](./29011-tank-on-tank-digital-west-front.json) |
 | Tank on Tank Digital: Bundle West - East Front | 53720 | [53720-tank-on-tank-digital-bundle-west-east-front.json](./53720-tank-on-tank-digital-bundle-west-east-front.json) |
 | Tank Online: War Shooting Simulator | 240094 | [240094-tank-online-war-shooting-simulator.json](./240094-tank-online-war-shooting-simulator.json) |
 | Tank Onslaught | 147811 | [147811-tank-onslaught.json](./147811-tank-onslaught.json) |
@@ -1748,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tanky Tanks VR | 128928 | [128928-tanky-tanks-vr.json](./128928-tanky-tanks-vr.json) |
 | TankYou! | 31685 | [31685-tankyou.json](./31685-tankyou.json) |
+| TankZone Battle | 20343 | [20343-tankzone-battle.json](./20343-tankzone-battle.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
@@ -14341,6 +14344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
 | The Temple of Torment | 181257 | [181257-the-temple-of-torment.json](./181257-the-temple-of-torment.json) |
 | The Temple Warrior: Battleground of Demons | 262786 | [262786-the-temple-warrior-battleground-of-demons.json](./262786-the-temple-warrior-battleground-of-demons.json) |
+| The Temporal Invasion | 19896 | [19896-the-temporal-invasion.json](./19896-the-temporal-invasion.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Ten Soul | 289960 | [289960-the-ten-soul.json](./289960-the-ten-soul.json) |
 | The Tenants | 115012 | [115012-the-tenants.json](./115012-the-tenants.json) |
@@ -16328,6 +16332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think Quick! | 69222 | [69222-think-quick.json](./69222-think-quick.json) |
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
+| Think to Die 3 | 29071 | [29071-think-to-die-3.json](./29071-think-to-die-3.json) |
 | THiNK-X | 94539 | [94539-think-x.json](./94539-think-x.json) |
 | Think: Logik Trainer | 70447 | [70447-think-logik-trainer.json](./70447-think-logik-trainer.json) |
 | Think: Train Your Brain | 124092 | [124092-think-train-your-brain.json](./124092-think-train-your-brain.json) |
