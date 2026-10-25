@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy 2 | 307087 | [307087-paperboy-2.json](./307087-paperboy-2.json) |
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
 | PaperCat | 59224 | [59224-papercat.json](./59224-papercat.json) |
+| Papercraft | 107418 | [107418-papercraft.json](./107418-papercraft.json) |
 | Papercraft Tactics | 345092 | [345092-papercraft-tactics.json](./345092-papercraft-tactics.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
@@ -3733,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perseus & Andromeda | 24696 | [24696-perseus-and-andromeda.json](./24696-perseus-and-andromeda.json) |
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
 | Perseverance | 149218 | [149218-perseverance.json](./149218-perseverance.json) |
+| Perseverance: Part 1 | 103226 | [103226-perseverance-part-1.json](./103226-perseverance-part-1.json) |
 | Perseverance: Part 2 | 171991 | [171991-perseverance-part-2.json](./171991-perseverance-part-2.json) |
 | Perseverance: Part 3 | 200410 | [200410-perseverance-part-3.json](./200410-perseverance-part-3.json) |
 | Persevere | 350006 | [350006-persevere.json](./350006-persevere.json) |
@@ -11650,6 +11652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 214977 | [214977-prime.json](./214977-prime.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
+| Prime & Load: 1776 | 107470 | [107470-prime-and-load-1776.json](./107470-prime-and-load-1776.json) |
 | Prime Arena | 67874 | [67874-prime-arena.json](./67874-prime-arena.json) |
 | Prime Directive | 212676 | [212676-prime-directive.json](./212676-prime-directive.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
