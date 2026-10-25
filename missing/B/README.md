@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7524,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
 | Black Moon Chronicles | 25056 | [25056-black-moon-chronicles.json](./25056-black-moon-chronicles.json) |
 | Black Morph | 165519 | [165519-black-morph.json](./165519-black-morph.json) |
+| Black Mountain of Tlaltecuhtli | 388557 | [388557-black-mountain-of-tlaltecuhtli.json](./388557-black-mountain-of-tlaltecuhtli.json) |
 | Black My White | 334763 | [334763-black-my-white.json](./334763-black-my-white.json) |
 | Black My White Again | 334764 | [334764-black-my-white-again.json](./334764-black-my-white-again.json) |
 | Black Myth: Destiny Man | 320608 | [320608-black-myth-destiny-man.json](./320608-black-myth-destiny-man.json) |
