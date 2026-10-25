@@ -3533,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Dominion: Last Penny | 170988 | [170988-market-dominion-last-penny.json](./170988-market-dominion-last-penny.json) |
 | Market Empire Simulator | 366962 | [366962-market-empire-simulator.json](./366962-market-empire-simulator.json) |
 | Market Hours | 399710 | [399710-market-hours.json](./399710-market-hours.json) |
+| Market Manager Simulator | 412597 | [412597-market-manager-simulator.json](./412597-market-manager-simulator.json) |
 | Market Master Simulator | 309952 | [309952-market-master-simulator.json](./309952-market-master-simulator.json) |
 | Market Moe | 383171 | [383171-market-moe.json](./383171-market-moe.json) |
 | Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
@@ -6530,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Schwarzschild | 46388 | [46388-mega-schwarzschild.json](./46388-mega-schwarzschild.json) |
 | Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
+| Mega Snake: 16-Bit Edition | 412598 | [412598-mega-snake-16-bit-edition.json](./412598-mega-snake-16-bit-edition.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
 | Mega Sports | 94333 | [94333-mega-sports.json](./94333-mega-sports.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
@@ -14517,6 +14519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Premium Edition | 221591 | [221591-moto-rush-gt-premium-edition.json](./221591-moto-rush-gt-premium-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Silver Edition | 254688 | [254688-moto-rush-gt-silver-edition.json](./254688-moto-rush-gt-silver-edition.json) |
+| Moto Rush GT: Throne Edition | 412583 | [412583-moto-rush-gt-throne-edition.json](./412583-moto-rush-gt-throne-edition.json) |
 | Moto Rush GT: Ultimate Edition | 283138 | [283138-moto-rush-gt-ultimate-edition.json](./283138-moto-rush-gt-ultimate-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
 | Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
@@ -14651,6 +14654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Prime Edition | 404281 | [404281-motorbikes-pro-2025-prime-edition.json](./404281-motorbikes-pro-2025-prime-edition.json) |
 | Motorbikes Pro 2025: Superior Edition | 410857 | [410857-motorbikes-pro-2025-superior-edition.json](./410857-motorbikes-pro-2025-superior-edition.json) |
+| Motorbikes Pro 2025: Upgrade Edition | 412584 | [412584-motorbikes-pro-2025-upgrade-edition.json](./412584-motorbikes-pro-2025-upgrade-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcross Mania 2 | 200477 | [200477-motorcross-mania-2.json](./200477-motorcross-mania-2.json) |
 | Motorcycle Biker Simulator | 169141 | [169141-motorcycle-biker-simulator.json](./169141-motorcycle-biker-simulator.json) |
