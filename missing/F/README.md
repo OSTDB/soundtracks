@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Star | 322177 | [322177-fallen-star.json](./322177-fallen-star.json) |
 | Fallen Starborn | 401042 | [401042-fallen-starborn.json](./401042-fallen-starborn.json) |
 | Fallen Survivors | 244921 | [244921-fallen-survivors.json](./244921-fallen-survivors.json) |
+| Fallen Sword II | 422027 | [422027-fallen-sword-ii.json](./422027-fallen-sword-ii.json) |
 | Fallen Symphony | 258903 | [258903-fallen-symphony.json](./258903-fallen-symphony.json) |
 | Fallen Tear: The Ascension | 142304 | [142304-fallen-tear-the-ascension.json](./142304-fallen-tear-the-ascension.json) |
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
@@ -2962,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearful Tales: Hansel and Gretel | 22108 | [22108-fearful-tales-hansel-and-gretel.json](./22108-fearful-tales-hansel-and-gretel.json) |
 | Fearful Tales: Hansel and Gretel - Collector's Edition | 22078 | [22078-fearful-tales-hansel-and-gretel-collectors-edition.json](./22078-fearful-tales-hansel-and-gretel-collectors-edition.json) |
 | Fearless | 302933 | [302933-fearless.json](./302933-fearless.json) |
+| Fearless Crew | 422058 | [422058-fearless-crew.json](./422058-fearless-crew.json) |
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
 | Fearless Night | 63679 | [63679-fearless-night.json](./63679-fearless-night.json) |
 | Fearless Tigor | 114819 | [114819-fearless-tigor.json](./114819-fearless-tigor.json) |
@@ -4621,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Findme: 30sai no Yume Ooibito | 197204 | [197204-findme-30sai-no-yume-ooibito.json](./197204-findme-30sai-no-yume-ooibito.json) |
 | Findola | 94677 | [94677-findola.json](./94677-findola.json) |
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
+| Fine Dying | 422056 | [422056-fine-dying.json](./422056-fine-dying.json) |
 | Fine Ski Jumping | 188333 | [188333-fine-ski-jumping.json](./188333-fine-ski-jumping.json) |
 | Fine Sweeper | 35349 | [35349-fine-sweeper.json](./35349-fine-sweeper.json) |
 | Fine Work Act I | 285980 | [285980-fine-work-act-i.json](./285980-fine-work-act-i.json) |
@@ -5001,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters: The Simulation - Platinum Edition | 146129 | [146129-firefighters-the-simulation-platinum-edition.json](./146129-firefighters-the-simulation-platinum-edition.json) |
 | Firefighting Rescue Simulator | 359988 | [359988-firefighting-rescue-simulator.json](./359988-firefighting-rescue-simulator.json) |
 | Firefighting Simulator | 55630 | [55630-firefighting-simulator.json](./55630-firefighting-simulator.json) |
+| Firefighting Simulator: Be a Hero | 422049 | [422049-firefighting-simulator-be-a-hero.json](./422049-firefighting-simulator-be-a-hero.json) |
 | Firefighting Simulator: Ignite | 335254 | [335254-firefighting-simulator-ignite.json](./335254-firefighting-simulator-ignite.json) |
 | Firefighting Simulator: The Squad | 228376 | [228376-firefighting-simulator-the-squad.json](./228376-firefighting-simulator-the-squad.json) |
 | Firefleet | 293743 | [293743-firefleet.json](./293743-firefleet.json) |
@@ -5532,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
 | FishVille | 92386 | [92386-fishville.json](./92386-fishville.json) |
 | Fishy | 104572 | [104572-fishy.json](./104572-fishy.json) |
+| Fishy | 422039 | [422039-fishy.json](./422039-fishy.json) |
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
 | Fishy Business | 376818 | [376818-fishy-business.json](./376818-fishy-business.json) |
 | Fishy Business | 385373 | [385373-fishy-business.json](./385373-fishy-business.json) |
@@ -8081,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill: The Wardrobe - Other Friends | 393167 | [393167-forgotten-hill-the-wardrobe-other-friends.json](./393167-forgotten-hill-the-wardrobe-other-friends.json) |
 | Forgotten Hope | 147234 | [147234-forgotten-hope.json](./147234-forgotten-hope.json) |
 | Forgotten Hope | 319675 | [319675-forgotten-hope.json](./319675-forgotten-hope.json) |
+| Forgotten Isle | 422067 | [422067-forgotten-isle.json](./422067-forgotten-isle.json) |
 | Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
 | Forgotten Lands: First Colony | 64724 | [64724-forgotten-lands-first-colony.json](./64724-forgotten-lands-first-colony.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
