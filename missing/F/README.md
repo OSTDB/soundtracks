@@ -5561,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of Truth | 98502 | [98502-fist-of-truth.json](./98502-fist-of-truth.json) |
 | Fist of Yokai | 253485 | [253485-fist-of-yokai.json](./253485-fist-of-yokai.json) |
 | Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
+| Fist Slash: Of Ultimate Fury | 34302 | [34302-fist-slash-of-ultimate-fury.json](./34302-fist-slash-of-ultimate-fury.json) |
 | Fist Tower | 233125 | [233125-fist-tower.json](./233125-fist-tower.json) |
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fista Retro Horror Pack | 309323 | [309323-fista-retro-horror-pack.json](./309323-fista-retro-horror-pack.json) |
@@ -6215,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Sweep | 139892 | [139892-fleet-sweep.json](./139892-fleet-sweep.json) |
 | Fleet Wars | 28812 | [28812-fleet-wars.json](./28812-fleet-wars.json) |
 | Fleetbreakers | 342190 | [342190-fleetbreakers.json](./342190-fleetbreakers.json) |
+| FleetComm | 35312 | [35312-fleetcomm.json](./35312-fleetcomm.json) |
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
 | Fleeting Iris: Alansya Chronicles Ren'Py Edition | 302042 | [302042-fleeting-iris-alansya-chronicles-renpy-edition.json](./302042-fleeting-iris-alansya-chronicles-renpy-edition.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
@@ -7105,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Tickets | 130873 | [130873-flying-tickets.json](./130873-flying-tickets.json) |
 | Flying Tigers | 269764 | [269764-flying-tigers.json](./269764-flying-tigers.json) |
 | Flying Tigers II | 269763 | [269763-flying-tigers-ii.json](./269763-flying-tigers-ii.json) |
+| Flying Tigers: Shadows Over China | 35361 | [35361-flying-tigers-shadows-over-china.json](./35361-flying-tigers-shadows-over-china.json) |
 | Flying Tigers: Shadows Over China - Paradise Island | 167208 | [167208-flying-tigers-shadows-over-china-paradise-island.json](./167208-flying-tigers-shadows-over-china-paradise-island.json) |
 | Flying Tobacco Eggs | 305922 | [305922-flying-tobacco-eggs.json](./305922-flying-tobacco-eggs.json) |
 | Flying Toyz | 258005 | [258005-flying-toyz.json](./258005-flying-toyz.json) |
