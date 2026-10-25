@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dog McCree: Gunslinger Pack | 78300 | [78300-mad-dog-mccree-gunslinger-pack.json](./78300-mad-dog-mccree-gunslinger-pack.json) |
 | Mad Dojo | 29627 | [29627-mad-dojo.json](./29627-mad-dojo.json) |
 | Mad Donna | 40366 | [40366-mad-donna.json](./40366-mad-donna.json) |
+| Mad Driver | 55708 | [55708-mad-driver.json](./55708-mad-driver.json) |
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
 | Mad Experiments: Escape Room | 127216 | [127216-mad-experiments-escape-room.json](./127216-mad-experiments-escape-room.json) |
@@ -373,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad World: Age of Darkness | 197594 | [197594-mad-world-age-of-darkness.json](./197594-mad-world-age-of-darkness.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
 | Mad Zombie | 86562 | [86562-mad-zombie.json](./86562-mad-zombie.json) |
+| Mad-Sector | 43083 | [43083-mad-sector.json](./43083-mad-sector.json) |
 | MAD: Global Thermonuclear Warfare | 69534 | [69534-mad-global-thermonuclear-warfare.json](./69534-mad-global-thermonuclear-warfare.json) |
 | MAD: Mutually Assured Destruction | 101727 | [101727-mad-mutually-assured-destruction.json](./101727-mad-mutually-assured-destruction.json) |
 | Madagascar | 230436 | [230436-madagascar.json](./230436-madagascar.json) |
@@ -12943,6 +12945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Steel Titans | 115477 | [115477-monster-jam-steel-titans.json](./115477-monster-jam-steel-titans.json) |
 | Monster Jam Steel Titans 2 | 142603 | [142603-monster-jam-steel-titans-2.json](./142603-monster-jam-steel-titans-2.json) |
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
+| Monster Jam: Crush It! | 42932 | [42932-monster-jam-crush-it.json](./42932-monster-jam-crush-it.json) |
 | Monster Jam: Maximum Destruction | 242805 | [242805-monster-jam-maximum-destruction.json](./242805-monster-jam-maximum-destruction.json) |
 | Monster Jam: Maximum Destruction | 4019 | [4019-monster-jam-maximum-destruction.json](./4019-monster-jam-maximum-destruction.json) |
 | Monster Jam: Path of Destruction | 5016 | [5016-monster-jam-path-of-destruction.json](./5016-monster-jam-path-of-destruction.json) |
