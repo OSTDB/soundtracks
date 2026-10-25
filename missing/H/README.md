@@ -4575,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
 | Herder | 149862 | [149862-herder.json](./149862-herder.json) |
 | Herding Cats | 208262 | [208262-herding-cats.json](./208262-herding-cats.json) |
+| Herding Dog | 34307 | [34307-herding-dog.json](./34307-herding-dog.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here | 396372 | [396372-here.json](./396372-here.json) |
 | Here & There with the Mr. Men | 97798 | [97798-here-and-there-with-the-mr-men.json](./97798-here-and-there-with-the-mr-men.json) |
@@ -4959,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
 | Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
 | Heroes of Newerth Reborn | 376014 | [376014-heroes-of-newerth-reborn.json](./376014-heroes-of-newerth-reborn.json) |
+| Heroes of Normandie | 35367 | [35367-heroes-of-normandie.json](./35367-heroes-of-normandie.json) |
 | Heroes of Normandie: 21st Panzer Division | 155340 | [155340-heroes-of-normandie-21st-panzer-division.json](./155340-heroes-of-normandie-21st-panzer-division.json) |
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
@@ -8836,6 +8838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hound | 30316 | [30316-hound.json](./30316-hound.json) |
 | Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
 | Hounded | 347083 | [347083-hounded.json](./347083-hounded.json) |
+| Hounds: The Last Hope | 35373 | [35373-hounds-the-last-hope.json](./35373-hounds-the-last-hope.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
 | Hour of Victory | 7011 | [7011-hour-of-victory.json](./7011-hour-of-victory.json) |
