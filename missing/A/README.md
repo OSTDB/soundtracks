@@ -7339,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy: Wolf's Law - Summer Adventure | 226222 | [226222-anarchy-wolfs-law-summer-adventure.json](./226222-anarchy-wolfs-law-summer-adventure.json) |
 | AnarchyField: Infinite Euphoric Level Destruction | 273639 | [273639-anarchyfield-infinite-euphoric-level-destruction.json](./273639-anarchyfield-infinite-euphoric-level-destruction.json) |
 | Anarcute | 20471 | [20471-anarcute.json](./20471-anarcute.json) |
+| Anarea Battle Royale | 128037 | [128037-anarea-battle-royale.json](./128037-anarea-battle-royale.json) |
 | Anaria | 350965 | [350965-anaria.json](./350965-anaria.json) |
 | Anark.io | 95592 | [95592-anark-io.json](./95592-anark-io.json) |
 | Anasozas: Another Surreal World | 379449 | [379449-anasozas-another-surreal-world.json](./379449-anasozas-another-surreal-world.json) |
@@ -8210,6 +8211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs: Hollywood Hypnotics | 200362 | [200362-animaniacs-hollywood-hypnotics.json](./200362-animaniacs-hollywood-hypnotics.json) |
 | Animaniacs: Lights, Camera, Action! | 248756 | [248756-animaniacs-lights-camera-action.json](./248756-animaniacs-lights-camera-action.json) |
 | Animaniacs: Ten Pin Alley | 19432 | [19432-animaniacs-ten-pin-alley.json](./19432-animaniacs-ten-pin-alley.json) |
+| Animaniacs: The Great Edgar Hunt | 3786 | [3786-animaniacs-the-great-edgar-hunt.json](./3786-animaniacs-the-great-edgar-hunt.json) |
 | Animarama | 217231 | [217231-animarama.json](./217231-animarama.json) |
 | Animas | 335259 | [335259-animas.json](./335259-animas.json) |
 | Animastar Puzzle | 364354 | [364354-animastar-puzzle.json](./364354-animastar-puzzle.json) |
@@ -13792,6 +13794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
 | ATV Quad Power Racing | 248615 | [248615-atv-quad-power-racing.json](./248615-atv-quad-power-racing.json) |
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
+| ATV Quad Power Racing 2 | 3790 | [3790-atv-quad-power-racing-2.json](./3790-atv-quad-power-racing-2.json) |
 | ATV Quad Power Racing 2 | 4173 | [4173-atv-quad-power-racing-2.json](./4173-atv-quad-power-racing-2.json) |
 | ATV Quads Bike Stunt Racing 3D | 296774 | [296774-atv-quads-bike-stunt-racing-3d.json](./296774-atv-quads-bike-stunt-racing-3d.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
@@ -14727,6 +14730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya Shameimaru's Case File | 231785 | [231785-aya-shameimarus-case-file.json](./231785-aya-shameimarus-case-file.json) |
 | Aya: The Tale of Tails | 244161 | [244161-aya-the-tale-of-tails.json](./244161-aya-the-tale-of-tails.json) |
 | Aya's Journey | 55747 | [55747-ayas-journey.json](./55747-ayas-journey.json) |
+| Ayahuasca | 128131 | [128131-ayahuasca.json](./128131-ayahuasca.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Gohan | 70885 | [70885-ayakashi-gohan.json](./70885-ayakashi-gohan.json) |
 | Ayakashi Gohan: Okawari! | 200008 | [200008-ayakashi-gohan-okawari.json](./200008-ayakashi-gohan-okawari.json) |
