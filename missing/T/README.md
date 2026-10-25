@@ -14371,6 +14371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge: Fire & Ice Weapon Pack | 69512 | [69512-the-surge-fire-and-ice-weapon-pack.json](./69512-the-surge-fire-and-ice-weapon-pack.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
 | The Surgeon | 222813 | [222813-the-surgeon.json](./222813-the-surgeon.json) |
+| The Surprise Gift | 387949 | [387949-the-surprise-gift.json](./387949-the-surprise-gift.json) |
 | The Surprising Adventures of Munchausen | 55659 | [55659-the-surprising-adventures-of-munchausen.json](./55659-the-surprising-adventures-of-munchausen.json) |
 | The Surprisingly Short Adventure of Leopold Kettle | 232556 | [232556-the-surprisingly-short-adventure-of-leopold-kettle.json](./232556-the-surprisingly-short-adventure-of-leopold-kettle.json) |
 | The Surreal Imaginarium | 135765 | [135765-the-surreal-imaginarium.json](./135765-the-surreal-imaginarium.json) |
