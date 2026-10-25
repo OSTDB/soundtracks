@@ -288,6 +288,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
 | Pachi-Slot Kanzen Kouryaku | 38138 | [38138-pachi-slot-kanzen-kouryaku.json](./38138-pachi-slot-kanzen-kouryaku.json) |
 | Pachi-Slot Kanzen Kouryaku Uni-Colle'97 | 176134 | [176134-pachi-slot-kanzen-kouryaku-uni-colle97.json](./176134-pachi-slot-kanzen-kouryaku-uni-colle97.json) |
+| Pachi-Slot Kanzen Kouryaku: Takasago Super Project | 402737 | [402737-pachi-slot-kanzen-kouryaku-takasago-super-project.json](./402737-pachi-slot-kanzen-kouryaku-takasago-super-project.json) |
+| Pachi-Slot Kanzen Kouryaku: Takasago Super Project 2 | 402740 | [402740-pachi-slot-kanzen-kouryaku-takasago-super-project-2.json](./402740-pachi-slot-kanzen-kouryaku-takasago-super-project-2.json) |
 | Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
 | Pachi-Slot Kenkyuu | 37900 | [37900-pachi-slot-kenkyuu.json](./37900-pachi-slot-kenkyuu.json) |
 | Pachi-Slot Land: Pachi-pachi Coin no Densetsu | 37899 | [37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json](./37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json) |
@@ -2253,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
 | Pashtet | 113705 | [113705-pashtet.json](./113705-pashtet.json) |
 | Paska Battle Style! | 111885 | [111885-paska-battle-style.json](./111885-paska-battle-style.json) |
+| Paskahousu | 402694 | [402694-paskahousu.json](./402694-paskahousu.json) |
 | Paskal's Path | 213646 | [213646-paskals-path.json](./213646-paskals-path.json) |
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | Paso Pico McDonald's de Asobo! | 202088 | [202088-paso-pico-mcdonalds-de-asobo.json](./202088-paso-pico-mcdonalds-de-asobo.json) |
@@ -2520,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathogen | 201641 | [201641-pathogen.json](./201641-pathogen.json) |
 | Pathogen | 213588 | [213588-pathogen.json](./213588-pathogen.json) |
 | Pathogen | 257288 | [257288-pathogen.json](./257288-pathogen.json) |
+| Pathogen | 402692 | [402692-pathogen.json](./402692-pathogen.json) |
 | Pathogen Purge: Tower Defense | 273825 | [273825-pathogen-purge-tower-defense.json](./273825-pathogen-purge-tower-defense.json) |
 | Pathogen Wars | 62080 | [62080-pathogen-wars.json](./62080-pathogen-wars.json) |
 | Pathogen-X | 143064 | [143064-pathogen-x.json](./143064-pathogen-x.json) |
@@ -8326,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
 | Plus Plum 2 Again | 263958 | [263958-plus-plum-2-again.json](./263958-plus-plum-2-again.json) |
 | Plus Plumb | 263957 | [263957-plus-plumb.json](./263957-plus-plumb.json) |
+| Plus Two | 402739 | [402739-plus-two.json](./402739-plus-two.json) |
 | Plus Ultra: Legado | 276828 | [276828-plus-ultra-legado.json](./276828-plus-ultra-legado.json) |
 | Plus/Minus Zero | 405134 | [405134-plus-minus-zero.json](./405134-plus-minus-zero.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
