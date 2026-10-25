@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Framed Roger Rabbit | 75692 | [75692-who-framed-roger-rabbit.json](./75692-who-framed-roger-rabbit.json) |
 | Who Gave Them Weapons | 418853 | [418853-who-gave-them-weapons.json](./418853-who-gave-them-weapons.json) |
 | Who Has the Biggest Brain? | 182214 | [182214-who-has-the-biggest-brain.json](./182214-who-has-the-biggest-brain.json) |
+| Who Haunts the Haunters? | 405751 | [405751-who-haunts-the-haunters.json](./405751-who-haunts-the-haunters.json) |
 | Who I Am | 386415 | [386415-who-i-am.json](./386415-who-i-am.json) |
 | Who I See | 236810 | [236810-who-i-see.json](./236810-who-i-see.json) |
 | Who is Awesome | 128355 | [128355-who-is-awesome.json](./128355-who-is-awesome.json) |
@@ -7522,6 +7523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
 | Write 'n' Fight | 160204 | [160204-write-n-fight.json](./160204-write-n-fight.json) |
 | Write Emails At Work | 394102 | [394102-write-emails-at-work.json](./394102-write-emails-at-work.json) |
+| Write Night | 405749 | [405749-write-night.json](./405749-write-night.json) |
 | Write Warz | 297755 | [297755-write-warz.json](./297755-write-warz.json) |
 | Write, Camera, Action! | 70815 | [70815-write-camera-action.json](./70815-write-camera-action.json) |
 | Write'n'Slash | 153769 | [153769-writenslash.json](./153769-writenslash.json) |
