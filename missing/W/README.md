@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake World | 216846 | [216846-wake-world.json](./216846-wake-world.json) |
 | Wakeari! | 22473 | [22473-wakeari.json](./22473-wakeari.json) |
 | Wakeboarding HD | 53013 | [53013-wakeboarding-hd.json](./53013-wakeboarding-hd.json) |
+| Wakeboarding Unleashed Featuring Shaun Murray | 23694 | [23694-wakeboarding-unleashed-featuring-shaun-murray.json](./23694-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Wakeboarding Unleashed Featuring Shaun Murray | 248685 | [248685-wakeboarding-unleashed-featuring-shaun-murray.json](./248685-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
 | Wakey Wakey | 178568 | [178568-wakey-wakey.json](./178568-wakey-wakey.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords II Deluxe | 50356 | [50356-warlords-ii-deluxe.json](./50356-warlords-ii-deluxe.json) |
 | Warlords II: Scenario Builder | 100044 | [100044-warlords-ii-scenario-builder.json](./100044-warlords-ii-scenario-builder.json) |
 | Warlords III: Frontier | 401822 | [401822-warlords-iii-frontier.json](./401822-warlords-iii-frontier.json) |
+| Warlords IV: Heroes of Etheria | 24182 | [24182-warlords-iv-heroes-of-etheria.json](./24182-warlords-iv-heroes-of-etheria.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
 | Warlords: Evolved | 329637 | [329637-warlords-evolved.json](./329637-warlords-evolved.json) |
@@ -4688,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
 | Wing Commander 5: Prophecy - Gold Edition | 51779 | [51779-wing-commander-5-prophecy-gold-edition.json](./51779-wing-commander-5-prophecy-gold-edition.json) |
 | Wing Commander Academy | 14484 | [14484-wing-commander-academy.json](./14484-wing-commander-academy.json) |
+| Wing Commander Arena | 23131 | [23131-wing-commander-arena.json](./23131-wing-commander-arena.json) |
 | Wing Commander II: Deluxe Edition | 51373 | [51373-wing-commander-ii-deluxe-edition.json](./51373-wing-commander-ii-deluxe-edition.json) |
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 1 | 50170 | [50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json](./50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json) |
@@ -6899,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World to the West | 27518 | [27518-world-to-the-west.json](./27518-world-to-the-west.json) |
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
+| World Tour Soccer 06 | 24180 | [24180-world-tour-soccer-06.json](./24180-world-tour-soccer-06.json) |
 | World Tour Soccer 2002 | 23444 | [23444-world-tour-soccer-2002.json](./23444-world-tour-soccer-2002.json) |
 | World Tour Soccer 2003 | 71327 | [71327-world-tour-soccer-2003.json](./71327-world-tour-soccer-2003.json) |
 | World Tour Soccer 2005 | 23546 | [23546-world-tour-soccer-2005.json](./23546-world-tour-soccer-2005.json) |
