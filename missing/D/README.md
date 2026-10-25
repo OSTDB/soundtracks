@@ -5020,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Ski Jump 2 | 11676 | [11676-deluxe-ski-jump-2.json](./11676-deluxe-ski-jump-2.json) |
 | Deluxe Ski Jump 3 | 56910 | [56910-deluxe-ski-jump-3.json](./56910-deluxe-ski-jump-3.json) |
 | Deluxe Ski Jump 4 | 7500 | [7500-deluxe-ski-jump-4.json](./7500-deluxe-ski-jump-4.json) |
+| Deluxe Spider Solitaire | 93689 | [93689-deluxe-spider-solitaire.json](./93689-deluxe-spider-solitaire.json) |
 | Deluxe Sudoku | 88575 | [88575-deluxe-sudoku.json](./88575-deluxe-sudoku.json) |
 | Deluxe Track&Field | 90506 | [90506-deluxe-track-and-field.json](./90506-deluxe-track-and-field.json) |
 | Deluxe Trivial Pursuit | 265974 | [265974-deluxe-trivial-pursuit.json](./265974-deluxe-trivial-pursuit.json) |
@@ -5113,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
 | Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
 | Demolition Derby Reloaded | 303219 | [303219-demolition-derby-reloaded.json](./303219-demolition-derby-reloaded.json) |
+| Demolition Derby: Arena of Death | 89193 | [89193-demolition-derby-arena-of-death.json](./89193-demolition-derby-arena-of-death.json) |
 | Demolition Division | 44354 | [44354-demolition-division.json](./44354-demolition-division.json) |
 | Demolition Dodge | 233114 | [233114-demolition-dodge.json](./233114-demolition-dodge.json) |
 | Demolition Engineer | 99660 | [99660-demolition-engineer.json](./99660-demolition-engineer.json) |
@@ -9865,6 +9867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Effect | 81766 | [81766-domino-effect.json](./81766-domino-effect.json) |
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
+| Domino for Mac | 89150 | [89150-domino-for-mac.json](./89150-domino-for-mac.json) |
 | Domino Lounge | 209121 | [209121-domino-lounge.json](./209121-domino-lounge.json) |
 | Domino Man | 23239 | [23239-domino-man.json](./23239-domino-man.json) |
 | Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
