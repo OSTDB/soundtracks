@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
 | Dash DE Lei-Lei | 161711 | [161711-dash-de-lei-lei.json](./161711-dash-de-lei-lei.json) |
 | Dash Dot Die | 391634 | [391634-dash-dot-die.json](./391634-dash-dot-die.json) |
+| Dash Duels | 414390 | [414390-dash-duels.json](./414390-dash-duels.json) |
 | Dash Fleet | 29626 | [29626-dash-fleet.json](./29626-dash-fleet.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
 | Dash Galactic | 58094 | [58094-dash-galactic.json](./58094-dash-galactic.json) |
@@ -8101,6 +8102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Arms: Impact Project B.A.H.N. | 331183 | [331183-disaster-arms-impact-project-b-a-h-n.json](./331183-disaster-arms-impact-project-b-a-h-n.json) |
 | Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
 | Disaster City: Magical Girl Dispatch | 423300 | [423300-disaster-city-magical-girl-dispatch.json](./423300-disaster-city-magical-girl-dispatch.json) |
+| Disaster Crew | 414271 | [414271-disaster-crew.json](./414271-disaster-crew.json) |
+| Disaster Crew | 414274 | [414274-disaster-crew.json](./414274-disaster-crew.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
 | Disaster Dragon x Girls from Different Worlds | 131214 | [131214-disaster-dragon-x-girls-from-different-worlds.json](./131214-disaster-dragon-x-girls-from-different-worlds.json) |
