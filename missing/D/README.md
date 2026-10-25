@@ -5171,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
 | Demon Heart | 158588 | [158588-demon-heart.json](./158588-demon-heart.json) |
 | Demon Heart: Pylon Wars | 38508 | [38508-demon-heart-pylon-wars.json](./38508-demon-heart-pylon-wars.json) |
+| Demon Hearts | 35313 | [35313-demon-hearts.json](./35313-demon-hearts.json) |
 | Demon Hentai Slayer | 235784 | [235784-demon-hentai-slayer.json](./235784-demon-hentai-slayer.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter | 117579 | [117579-demon-hunter.json](./117579-demon-hunter.json) |
