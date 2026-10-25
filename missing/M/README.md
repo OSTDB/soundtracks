@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MA-RI-A: Ningyoukan no Noroi | 112053 | [112053-ma-ri-a-ningyoukan-no-noroi.json](./112053-ma-ri-a-ningyoukan-no-noroi.json) |
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
+| Maaaaath! | 418879 | [418879-maaaaath.json](./418879-maaaaath.json) |
 | Maanu: Academic Version | 254908 | [254908-maanu-academic-version.json](./254908-maanu-academic-version.json) |
 | Mabel's Mansion | 24780 | [24780-mabels-mansion.json](./24780-mabels-mansion.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
@@ -13912,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Ritual | 97706 | [97706-morning-ritual.json](./97706-morning-ritual.json) |
 | Morning Room | 317091 | [317091-morning-room.json](./317091-morning-room.json) |
 | Morning Star | 103323 | [103323-morning-star.json](./103323-morning-star.json) |
+| Morning,Star-2021 | 418904 | [418904-morning-star-2021.json](./418904-morning-star-2021.json) |
 | Morningdew Farms: A Gay Farming Game | 118602 | [118602-morningdew-farms-a-gay-farming-game.json](./118602-morningdew-farms-a-gay-farming-game.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
 | Mornings with Java | 229770 | [229770-mornings-with-java.json](./229770-mornings-with-java.json) |
@@ -16852,6 +16854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lady Juliet | 238406 | [238406-my-lady-juliet.json](./238406-my-lady-juliet.json) |
 | My Lady Sayo: Zettai Kunshu! Sayo-sama | 196175 | [196175-my-lady-sayo-zettai-kunshu-sayo-sama.json](./196175-my-lady-sayo-zettai-kunshu-sayo-sama.json) |
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
+| My Landlord Is a Sadistic MILF | 418857 | [418857-my-landlord-is-a-sadistic-milf.json](./418857-my-landlord-is-a-sadistic-milf.json) |
 | My Last First Kiss | 186572 | [186572-my-last-first-kiss.json](./186572-my-last-first-kiss.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
 | My Last Friend | 134911 | [134911-my-last-friend.json](./134911-my-last-friend.json) |
