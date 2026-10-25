@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
 | Samurai Ninja Wars | 285522 | [285522-samurai-ninja-wars.json](./285522-samurai-ninja-wars.json) |
 | Samurai Obby | 395771 | [395771-samurai-obby.json](./395771-samurai-obby.json) |
+| Samurai of Hyuga Book 4 | 121372 | [121372-samurai-of-hyuga-book-4.json](./121372-samurai-of-hyuga-book-4.json) |
 | Samurai of Hyuga Book 4: Side Stories 1-10 | 170737 | [170737-samurai-of-hyuga-book-4-side-stories-1-10.json](./170737-samurai-of-hyuga-book-4-side-stories-1-10.json) |
 | Samurai of Hyuga Book 5 | 321212 | [321212-samurai-of-hyuga-book-5.json](./321212-samurai-of-hyuga-book-5.json) |
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
