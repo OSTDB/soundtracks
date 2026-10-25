@@ -5004,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Savvarah: Part 1 | 224727 | [224727-gods-of-savvarah-part-1.json](./224727-gods-of-savvarah-part-1.json) |
 | Gods of the Arena Dungeon | 295852 | [295852-gods-of-the-arena-dungeon.json](./295852-gods-of-the-arena-dungeon.json) |
 | Gods of the Fallen Land | 51413 | [51413-gods-of-the-fallen-land.json](./51413-gods-of-the-fallen-land.json) |
+| Gods of the Grid | 414265 | [414265-gods-of-the-grid.json](./414265-gods-of-the-grid.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Unchained | 109087 | [109087-gods-unchained.json](./109087-gods-unchained.json) |
@@ -5101,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gohei | 406074 | [406074-gohei.json](./406074-gohei.json) |
 | GoHome | 259599 | [259599-gohome.json](./259599-gohome.json) |
 | Gohorobo | 90122 | [90122-gohorobo.json](./90122-gohorobo.json) |
+| Goi Coins | 414267 | [414267-goi-coins.json](./414267-goi-coins.json) |
 | Goi Survivors | 279518 | [279518-goi-survivors.json](./279518-goi-survivors.json) |
 | Goi: Let's Play Together | 235995 | [235995-goi-lets-play-together.json](./235995-goi-lets-play-together.json) |
 | Goiken Muyou II | 43831 | [43831-goiken-muyou-ii.json](./43831-goiken-muyou-ii.json) |
@@ -6581,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrandNestling | 130232 | [130232-grandnestling.json](./130232-grandnestling.json) |
 | Grandpa | 329782 | [329782-grandpa.json](./329782-grandpa.json) |
 | Grandpa And Granny Home Escape | 248177 | [248177-grandpa-and-granny-home-escape.json](./248177-grandpa-and-granny-home-escape.json) |
+| Grandpa and Me vs the Numbers | 414303 | [414303-grandpa-and-me-vs-the-numbers.json](./414303-grandpa-and-me-vs-the-numbers.json) |
 | Grandpa and the Zombies | 75624 | [75624-grandpa-and-the-zombies.json](./75624-grandpa-and-the-zombies.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
@@ -7567,6 +7570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: The Artist and The Pretender | 140217 | [140217-grim-facade-the-artist-and-the-pretender.json](./140217-grim-facade-the-artist-and-the-pretender.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
+| Grim Hand | 414399 | [414399-grim-hand.json](./414399-grim-hand.json) |
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
 | Grim Knight | 235672 | [235672-grim-knight.json](./235672-grim-knight.json) |
