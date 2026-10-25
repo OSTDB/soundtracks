@@ -8334,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime: Trial of Strength | 339260 | [339260-metroid-prime-trial-of-strength.json](./339260-metroid-prime-trial-of-strength.json) |
 | Metroid Prime: Trilogy - Collector's Edition | 115548 | [115548-metroid-prime-trilogy-collectors-edition.json](./115548-metroid-prime-trilogy-collectors-edition.json) |
 | Metroid Ravenous | 408719 | [408719-metroid-ravenous.json](./408719-metroid-ravenous.json) |
+| Metroid Ravenous: Special Edition | 418230 | [418230-metroid-ravenous-special-edition.json](./418230-metroid-ravenous-special-edition.json) |
 | Metroid Redemption | 134629 | [134629-metroid-redemption.json](./134629-metroid-redemption.json) |
 | Metroid RPG: Kilo Squadron​ | 323036 | [323036-metroid-rpg-kilo-squadron.json](./323036-metroid-rpg-kilo-squadron.json) |
 | Metroid SNES | 377749 | [377749-metroid-snes.json](./377749-metroid-snes.json) |
@@ -13924,6 +13925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morodashi Sumo | 211046 | [211046-morodashi-sumo.json](./211046-morodashi-sumo.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
 | Morok | 123972 | [123972-morok.json](./123972-morok.json) |
+| Moros | 418206 | [418206-moros.json](./418206-moros.json) |
 | Morph | 13053 | [13053-morph.json](./13053-morph.json) |
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
 | Morph Girl | 54443 | [54443-morph-girl.json](./54443-morph-girl.json) |
