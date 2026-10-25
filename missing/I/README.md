@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iNeko | 84453 | [84453-ineko.json](./84453-ineko.json) |
 | Inequalis | 224688 | [224688-inequalis.json](./224688-inequalis.json) |
 | Inertia | 261311 | [261311-inertia.json](./261311-inertia.json) |
+| Inertia | 411978 | [411978-inertia.json](./411978-inertia.json) |
 | Inertia | 54694 | [54694-inertia.json](./54694-inertia.json) |
 | Inertia 2 | 276128 | [276128-inertia-2.json](./276128-inertia-2.json) |
 | Inertia Ball | 264803 | [264803-inertia-ball.json](./264803-inertia-ball.json) |
