@@ -10460,6 +10460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Master of Time | 159195 | [159195-the-legend-of-zelda-master-of-time.json](./159195-the-legend-of-zelda-master-of-time.json) |
 | The Legend of Zelda: Mercuris' Chest | 243269 | [243269-the-legend-of-zelda-mercuris-chest.json](./243269-the-legend-of-zelda-mercuris-chest.json) |
 | The Legend of Zelda: Mirror of Worlds | 412171 | [412171-the-legend-of-zelda-mirror-of-worlds.json](./412171-the-legend-of-zelda-mirror-of-worlds.json) |
+| The Legend of Zelda: Moonrise Regalia | 413105 | [413105-the-legend-of-zelda-moonrise-regalia.json](./413105-the-legend-of-zelda-moonrise-regalia.json) |
 | The Legend of Zelda: Mystery of Solarus DX | 243615 | [243615-the-legend-of-zelda-mystery-of-solarus-dx.json](./243615-the-legend-of-zelda-mystery-of-solarus-dx.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Navi Trackers | 91680 | [91680-the-legend-of-zelda-navi-trackers.json](./91680-the-legend-of-zelda-navi-trackers.json) |
@@ -22292,6 +22293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Pestilence | 347482 | [347482-tower-of-pestilence.json](./347482-tower-of-pestilence.json) |
 | Tower of Radia | 48876 | [48876-tower-of-radia.json](./48876-tower-of-radia.json) |
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
+| Tower of Scherbenmark | 413023 | [413023-tower-of-scherbenmark.json](./413023-tower-of-scherbenmark.json) |
 | Tower of Shades | 127386 | [127386-tower-of-shades.json](./127386-tower-of-shades.json) |
 | Tower of Souls | 61550 | [61550-tower-of-souls.json](./61550-tower-of-souls.json) |
 | Tower of Spirit | 203670 | [203670-tower-of-spirit.json](./203670-tower-of-spirit.json) |
@@ -25441,6 +25443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
 | Trigonarium | 284311 | [284311-trigonarium.json](./284311-trigonarium.json) |
 | Trigonarium | 34718 | [34718-trigonarium.json](./34718-trigonarium.json) |
+| Trigono | 413156 | [413156-trigono.json](./413156-trigono.json) |
 | Trigonometric Equations | 399883 | [399883-trigonometric-equations.json](./399883-trigonometric-equations.json) |
 | Trigonometry | 75792 | [75792-trigonometry.json](./75792-trigonometry.json) |
 | Trigonometry Dash | 283128 | [283128-trigonometry-dash.json](./283128-trigonometry-dash.json) |
