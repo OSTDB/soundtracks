@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevin Keegan's Player Manager | 42618 | [42618-kevin-keegans-player-manager.json](./42618-kevin-keegans-player-manager.json) |
 | Kevin Sheedy's AFL Coach 2002 | 79667 | [79667-kevin-sheedys-afl-coach-2002.json](./79667-kevin-sheedys-afl-coach-2002.json) |
 | Kevin Toms Football Star Manager | 362012 | [362012-kevin-toms-football-star-manager.json](./362012-kevin-toms-football-star-manager.json) |
+| Kevin Toms World Football Cup | 100887 | [100887-kevin-toms-world-football-cup.json](./100887-kevin-toms-world-football-cup.json) |
 | Kevin's Adventure | 174713 | [174713-kevins-adventure.json](./174713-kevins-adventure.json) |
 | Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
@@ -1903,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Puzzle Animal Game | 259974 | [259974-kids-puzzle-animal-game.json](./259974-kids-puzzle-animal-game.json) |
+| Kids Puzzles, Funny Animals #2 | 100914 | [100914-kids-puzzles-funny-animals-2.json](./100914-kids-puzzles-funny-animals-2.json) |
 | Kids Sight Words | 107560 | [107560-kids-sight-words.json](./107560-kids-sight-words.json) |
 | Kids Slide Puzzle World mystic squares 15 game | 100290 | [100290-kids-slide-puzzle-world-mystic-squares-15-game.json](./100290-kids-slide-puzzle-world-mystic-squares-15-game.json) |
 | Kids Station: Asobou! Hanasou! Guru-guru Town Hanamaru-kun | 148374 | [148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json](./148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json) |
