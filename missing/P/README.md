@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
+| Pac-Man on Nex | 421408 | [421408-pac-man-on-nex.json](./421408-pac-man-on-nex.json) |
 | Pac-Man Palace: Festive Folleys | 182728 | [182728-pac-man-palace-festive-folleys.json](./182728-pac-man-palace-festive-folleys.json) |
 | Pac-Man Party | 5089 | [5089-pac-man-party.json](./5089-pac-man-party.json) |
 | Pac-Man Party 3D | 21723 | [21723-pac-man-party-3d.json](./21723-pac-man-party-3d.json) |
@@ -861,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pan Galactic Railway | 101447 | [101447-pan-galactic-railway.json](./101447-pan-galactic-railway.json) |
 | Pan Panda | 110527 | [110527-pan-panda.json](./110527-pan-panda.json) |
 | Pan-Arcade Airlines | 150990 | [150990-pan-arcade-airlines.json](./150990-pan-arcade-airlines.json) |
+| Pan-Dae-Mon-Ium | 421463 | [421463-pan-dae-mon-ium.json](./421463-pan-dae-mon-ium.json) |
 | Pan-Dimensional Conga Combat | 86253 | [86253-pan-dimensional-conga-combat.json](./86253-pan-dimensional-conga-combat.json) |
 | Pan-Pan | 23352 | [23352-pan-pan.json](./23352-pan-pan.json) |
 | Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
