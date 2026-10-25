@@ -5479,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest VR | 18971 | [18971-everest-vr.json](./18971-everest-vr.json) |
 | Everest: Only the Strong Survive | 209220 | [209220-everest-only-the-strong-survive.json](./209220-everest-only-the-strong-survive.json) |
 | Everest: Real Climbing Simulator | 373352 | [373352-everest-real-climbing-simulator.json](./373352-everest-real-climbing-simulator.json) |
+| Everest: Survival Simulator | 425441 | [425441-everest-survival-simulator.json](./425441-everest-survival-simulator.json) |
 | Everest: The Ultimate Strategy Game | 85763 | [85763-everest-the-ultimate-strategy-game.json](./85763-everest-the-ultimate-strategy-game.json) |
 | Everett Isle | 214989 | [214989-everett-isle.json](./214989-everett-isle.json) |
 | Everfall | 246852 | [246852-everfall.json](./246852-everfall.json) |
