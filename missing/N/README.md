@@ -3036,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Protocol | 329049 | [329049-nexus-protocol.json](./329049-nexus-protocol.json) |
 | Nexus Rumble: The Ultimate Showdown | 304869 | [304869-nexus-rumble-the-ultimate-showdown.json](./304869-nexus-rumble-the-ultimate-showdown.json) |
 | Nexus Station | 318997 | [318997-nexus-station.json](./318997-nexus-station.json) |
+| Nexus Storm | 417245 | [417245-nexus-storm.json](./417245-nexus-storm.json) |
 | Nexus Travelers: Hero of Elocea | 278980 | [278980-nexus-travelers-hero-of-elocea.json](./278980-nexus-travelers-hero-of-elocea.json) |
 | Nexus War: Civilization | 259624 | [259624-nexus-war-civilization.json](./259624-nexus-war-civilization.json) |
 | Nexus Wars | 295081 | [295081-nexus-wars.json](./295081-nexus-wars.json) |
