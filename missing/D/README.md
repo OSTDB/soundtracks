@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
 | Dance Master | 247074 | [247074-dance-master.json](./247074-dance-master.json) |
 | Dance Mat Typing | 141118 | [141118-dance-mat-typing.json](./141118-dance-mat-typing.json) |
+| Dance Moms Rising Star | 396691 | [396691-dance-moms-rising-star.json](./396691-dance-moms-rising-star.json) |
 | Dance of Cards | 210594 | [210594-dance-of-cards.json](./210594-dance-of-cards.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
 | Dance of Death | 33827 | [33827-dance-of-death.json](./33827-dance-of-death.json) |
