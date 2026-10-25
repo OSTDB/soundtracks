@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Reindeer Run | 106367 | [106367-santas-reindeer-run.json](./106367-santas-reindeer-run.json) |
 | Santa's Salvation | 200040 | [200040-santas-salvation.json](./200040-santas-salvation.json) |
 | Santa's Secret Valley | 215791 | [215791-santas-secret-valley.json](./215791-santas-secret-valley.json) |
+| Santa's Shop | 396682 | [396682-santas-shop.json](./396682-santas-shop.json) |
 | Santa's Silent Night | 183912 | [183912-santas-silent-night.json](./183912-santas-silent-night.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
@@ -5046,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance | 374827 | [374827-severance.json](./374827-severance.json) |
 | Severed | 319081 | [319081-severed.json](./319081-severed.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
+| Severed Souls | 396675 | [396675-severed-souls.json](./396675-severed-souls.json) |
 | Severed Steel | 152172 | [152172-severed-steel.json](./152172-severed-steel.json) |
 | Severed Steel: Digital Deluxe Edition | 173103 | [173103-severed-steel-digital-deluxe-edition.json](./173103-severed-steel-digital-deluxe-edition.json) |
 | Severed Ties | 229751 | [229751-severed-ties.json](./229751-severed-ties.json) |
@@ -6126,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaqing | 298281 | [298281-shaqing.json](./298281-shaqing.json) |
 | ShaQu | 358233 | [358233-shaqu.json](./358233-shaqu.json) |
 | Shararam | 329986 | [329986-shararam.json](./329986-shararam.json) |
+| Shard Legends: Clan Wars | 396657 | [396657-shard-legends-clan-wars.json](./396657-shard-legends-clan-wars.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
 | Shard Seekers | 267823 | [267823-shard-seekers.json](./267823-shard-seekers.json) |
@@ -8007,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shujinkou: Swimsuit Quests | 368785 | [368785-shujinkou-swimsuit-quests.json](./368785-shujinkou-swimsuit-quests.json) |
 | Shukkou!! Container-maru | 107070 | [107070-shukkou-container-maru.json](./107070-shukkou-container-maru.json) |
 | Shukuchi Ninja | 213457 | [213457-shukuchi-ninja.json](./213457-shukuchi-ninja.json) |
+| Shukufuku no Campanella Portable | 396680 | [396680-shukufuku-no-campanella-portable.json](./396680-shukufuku-no-campanella-portable.json) |
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shukusei no Girlfriend AllStar | 305323 | [305323-shukusei-no-girlfriend-allstar.json](./305323-shukusei-no-girlfriend-allstar.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
@@ -10448,6 +10452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skycadia | 139643 | [139643-skycadia.json](./139643-skycadia.json) |
 | Skycards | 322122 | [322122-skycards.json](./322122-skycards.json) |
 | Skycat | 132751 | [132751-skycat.json](./132751-skycat.json) |
+| SkyChart: Airline Executive | 396650 | [396650-skychart-airline-executive.json](./396650-skychart-airline-executive.json) |
 | SkyChase | 12769 | [12769-skychase.json](./12769-skychase.json) |
 | Skycity | 274216 | [274216-skycity.json](./274216-skycity.json) |
 | Skycliffs | 190727 | [190727-skycliffs.json](./190727-skycliffs.json) |
@@ -29458,6 +29463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
 | Symbol Link | 264219 | [264219-symbol-link.json](./264219-symbol-link.json) |
 | Symbol Sudoku | 221101 | [221101-symbol-sudoku.json](./221101-symbol-sudoku.json) |
+| Symbolika | 396694 | [396694-symbolika.json](./396694-symbolika.json) |
 | symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
 | Symmetra's Qualifying Matches | 184325 | [184325-symmetras-qualifying-matches.json](./184325-symmetras-qualifying-matches.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
