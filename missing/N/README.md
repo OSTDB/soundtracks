@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Runner - Gravity Dash | 55166 | [55166-neon-runner-gravity-dash.json](./55166-neon-runner-gravity-dash.json) |
 | Neon Runners | 288831 | [288831-neon-runners.json](./288831-neon-runners.json) |
 | Neon Rush | 290554 | [290554-neon-rush.json](./290554-neon-rush.json) |
+| Neon Rush 3D Endless Speed Challenge | 402106 | [402106-neon-rush-3d-endless-speed-challenge.json](./402106-neon-rush-3d-endless-speed-challenge.json) |
 | Neon Seoul: Outrun | 76933 | [76933-neon-seoul-outrun.json](./76933-neon-seoul-outrun.json) |
 | Neon Sex Dream | 231352 | [231352-neon-sex-dream.json](./231352-neon-sex-dream.json) |
 | Neon Shadow | 36331 | [36331-neon-shadow.json](./36331-neon-shadow.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Adult Reality | 113457 | [113457-new-adult-reality.json](./113457-new-adult-reality.json) |
 | New Adventure All-Stars | 294795 | [294795-new-adventure-all-stars.json](./294795-new-adventure-all-stars.json) |
 | New Adventure Island | 28521 | [28521-new-adventure-island.json](./28521-new-adventure-island.json) |
+| New Adventures of Robercleiton: The Turbo Rebirth - Complete and Remade Edition | 402107 | [402107-new-adventures-of-robercleiton-the-turbo-rebirth-complete-and-remade-edition.json](./402107-new-adventures-of-robercleiton-the-turbo-rebirth-complete-and-remade-edition.json) |
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
 | New Age | 117628 | [117628-new-age.json](./117628-new-age.json) |
 | New Age of Machine Warfare | 252663 | [252663-new-age-of-machine-warfare.json](./252663-new-age-of-machine-warfare.json) |
@@ -6060,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nu//void | 183777 | [183777-nu-void.json](./183777-nu-void.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
 | Nubarron: The adventure of an unlucky gnome | 126978 | [126978-nubarron-the-adventure-of-an-unlucky-gnome.json](./126978-nubarron-the-adventure-of-an-unlucky-gnome.json) |
+| Nubert's Stand | 402134 | [402134-nuberts-stand.json](./402134-nuberts-stand.json) |
 | NubiaPhobia | 345019 | [345019-nubiaphobia.json](./345019-nubiaphobia.json) |
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
 | Nuclear Apocalypse 101 | 110032 | [110032-nuclear-apocalypse-101.json](./110032-nuclear-apocalypse-101.json) |
