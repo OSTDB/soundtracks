@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G Press | 394476 | [394476-g-press.json](./394476-g-press.json) |
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Sides | 324399 | [324399-g-sides.json](./324399-g-sides.json) |
+| G Squad | 408577 | [408577-g-squad.json](./408577-g-squad.json) |
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Ball | 9238 | [9238-g-ball.json](./9238-g-ball.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
@@ -9075,6 +9076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns N' Rushes | 217474 | [217474-guns-n-rushes.json](./217474-guns-n-rushes.json) |
 | Guns n' Souls feat. Song Summoner | 287009 | [287009-guns-n-souls-feat-song-summoner.json](./287009-guns-n-souls-feat-song-summoner.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
+| Guns of Eschaton | 408607 | [408607-guns-of-eschaton.json](./408607-guns-of-eschaton.json) |
 | Guns of Fort Defiance | 24797 | [24797-guns-of-fort-defiance.json](./24797-guns-of-fort-defiance.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns of Gaia | 353779 | [353779-guns-of-gaia.json](./353779-guns-of-gaia.json) |
