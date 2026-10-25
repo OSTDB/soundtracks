@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| P | 387293 | [387293-p.json](./387293-p.json) |
 | P Diddy Songs Quiz / Trivia, Music Player, Lyrics, & News: Ultimate P Diddy Fan App | 334882 | [334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json](./334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json) |
 | P Fit | 315938 | [315938-p-fit.json](./315938-p-fit.json) |
 | P World | 332449 | [332449-p-world.json](./332449-p-world.json) |
@@ -2813,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | PayaPaya | 243724 | [243724-payapaya.json](./243724-payapaya.json) |
 | Payasos & Balazos | 373828 | [373828-payasos-and-balazos.json](./373828-payasos-and-balazos.json) |
+| Payback | 387404 | [387404-payback.json](./387404-payback.json) |
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
@@ -5342,6 +5344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
 | Pike: Operacija Gromoverzhec | 72306 | [72306-pike-operacija-gromoverzhec.json](./72306-pike-operacija-gromoverzhec.json) |
 | Pikelets | 183947 | [183947-pikelets.json](./183947-pikelets.json) |
+| Pikes and Pursestrings | 387291 | [387291-pikes-and-pursestrings.json](./387291-pikes-and-pursestrings.json) |
 | Pikes.io | 306978 | [306978-pikes-io.json](./306978-pikes-io.json) |
 | Piki 2 | 291559 | [291559-piki-2.json](./291559-piki-2.json) |
 | Pikiinya! | 38144 | [38144-pikiinya.json](./38144-pikiinya.json) |
@@ -8574,6 +8577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Player: Bubble Bobble | 245544 | [245544-pocket-player-bubble-bobble.json](./245544-pocket-player-bubble-bobble.json) |
 | Pocket Player: Dig Dug | 275241 | [275241-pocket-player-dig-dug.json](./275241-pocket-player-dig-dug.json) |
 | Pocket Player: Pac-Man | 233036 | [233036-pocket-player-pac-man.json](./233036-pocket-player-pac-man.json) |
+| Pocket Playground | 387399 | [387399-pocket-playground.json](./387399-pocket-playground.json) |
 | Pocket Politics | 88860 | [88860-pocket-politics.json](./88860-pocket-politics.json) |
 | Pocket Pool | 21618 | [21618-pocket-pool.json](./21618-pocket-pool.json) |
 | Pocket Pool | 225877 | [225877-pocket-pool.json](./225877-pocket-pool.json) |
@@ -9371,6 +9375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
 | Pokémon Ruckus | 360176 | [360176-pokemon-ruckus.json](./360176-pokemon-ruckus.json) |
 | Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
+| Pokémon Rumble: Weekend Edition | 387401 | [387401-pokemon-rumble-weekend-edition.json](./387401-pokemon-rumble-weekend-edition.json) |
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
 | Pokémon Rutile Ruby | 288072 | [288072-pokemon-rutile-ruby.json](./288072-pokemon-rutile-ruby.json) |
 | Pokemon Ryen | 323879 | [323879-pokemon-ryen.json](./323879-pokemon-ryen.json) |
@@ -15577,6 +15582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
 | Pyromaniacs | 110190 | [110190-pyromaniacs.json](./110190-pyromaniacs.json) |
+| Pyromasters | 387292 | [387292-pyromasters.json](./387292-pyromasters.json) |
 | PyroSlam: VR Table Tennis | 238359 | [238359-pyroslam-vr-table-tennis.json](./238359-pyroslam-vr-table-tennis.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
