@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Dogs: Red's Return | 147095 | [147095-war-dogs-reds-return.json](./147095-war-dogs-reds-return.json) |
 | War Dots | 211150 | [211150-war-dots.json](./211150-war-dots.json) |
 | War Doves | 24999 | [24999-war-doves.json](./24999-war-doves.json) |
+| War Dragons | 60209 | [60209-war-dragons.json](./60209-war-dragons.json) |
 | War Drone | 386955 | [386955-war-drone.json](./386955-war-drone.json) |
 | War Drone FPV Quad Simulator | 312417 | [312417-war-drone-fpv-quad-simulator.json](./312417-war-drone-fpv-quad-simulator.json) |
 | War Drones | 74617 | [74617-war-drones.json](./74617-war-drones.json) |
@@ -7081,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds Align: Deadly Dream | 187945 | [187945-worlds-align-deadly-dream.json](./187945-worlds-align-deadly-dream.json) |
 | Worlds Align: Deadly Dream - Collector's Edition | 170209 | [170209-worlds-align-deadly-dream-collectors-edition.json](./170209-worlds-align-deadly-dream-collectors-edition.json) |
 | Worlds and World's End | 397228 | [397228-worlds-and-worlds-end.json](./397228-worlds-and-worlds-end.json) |
+| Worlds Apart | 60111 | [60111-worlds-apart.json](./60111-worlds-apart.json) |
 | Worlds at War: Monitors Only | 117095 | [117095-worlds-at-war-monitors-only.json](./117095-worlds-at-war-monitors-only.json) |
 | Worlds Best Freaking Card Game | 65416 | [65416-worlds-best-freaking-card-game.json](./65416-worlds-best-freaking-card-game.json) |
 | Worlds Builder | 189343 | [189343-worlds-builder.json](./189343-worlds-builder.json) |
