@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetborne Racing | 150003 | [150003-jetborne-racing.json](./150003-jetborne-racing.json) |
 | Jetbot | 90896 | [90896-jetbot.json](./90896-jetbot.json) |
 | Jetbounce | 189927 | [189927-jetbounce.json](./189927-jetbounce.json) |
+| JetBound | 423209 | [423209-jetbound.json](./423209-jetbound.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
 | Jetbros | 44517 | [44517-jetbros.json](./44517-jetbros.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
@@ -2966,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | June 30th | 229591 | [229591-june-30th.json](./229591-june-30th.json) |
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | June Exhibit | 205963 | [205963-june-exhibit.json](./205963-june-exhibit.json) |
+| Junebug | 423265 | [423265-junebug.json](./423265-junebug.json) |
 | Junebug vs. Evil | 155455 | [155455-junebug-vs-evil.json](./155455-junebug-vs-evil.json) |
 | Jung Rhythm | 55856 | [55856-jung-rhythm.json](./55856-jung-rhythm.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
