@@ -3934,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intellivision Shark! Shark! Gen2 | 61858 | [61858-intellivision-shark-shark-gen2.json](./61858-intellivision-shark-shark-gen2.json) |
 | Intellivision Skiing | 228882 | [228882-intellivision-skiing.json](./228882-intellivision-skiing.json) |
+| Intelroach | 410013 | [410013-intelroach.json](./410013-intelroach.json) |
 | Intemporel | 132537 | [132537-intemporel.json](./132537-intemporel.json) |
 | Intense Love Shot | 186514 | [186514-intense-love-shot.json](./186514-intense-love-shot.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
@@ -4733,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
 | Iron Brigade | 7668 | [7668-iron-brigade.json](./7668-iron-brigade.json) |
 | Iron Carnage | 368292 | [368292-iron-carnage.json](./368292-iron-carnage.json) |
+| Iron Carrot | 410063 | [410063-iron-carrot.json](./410063-iron-carrot.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Chef | 64456 | [64456-iron-chef.json](./64456-iron-chef.json) |
 | Iron Clash | 208176 | [208176-iron-clash.json](./208176-iron-clash.json) |
@@ -4759,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
 | Iron Frost | 197030 | [197030-iron-frost.json](./197030-iron-frost.json) |
+| Iron Fuse | 410047 | [410047-iron-fuse.json](./410047-iron-fuse.json) |
 | Iron Grip: Marauders | 50831 | [50831-iron-grip-marauders.json](./50831-iron-grip-marauders.json) |
 | Iron Grip: Warlord | 8720 | [8720-iron-grip-warlord.json](./8720-iron-grip-warlord.json) |
 | Iron Guard | 193635 | [193635-iron-guard.json](./193635-iron-guard.json) |
@@ -4925,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is it Love? Blue Swan Hospital | 116392 | [116392-is-it-love-blue-swan-hospital.json](./116392-is-it-love-blue-swan-hospital.json) |
 | Is It Love? Stories | 133702 | [133702-is-it-love-stories.json](./133702-is-it-love-stories.json) |
 | Is it Love?: Adam | 103110 | [103110-is-it-love-adam.json](./103110-is-it-love-adam.json) |
+| Is it Normal to be Down Bad For My Friend? | 410025 | [410025-is-it-normal-to-be-down-bad-for-my-friend.json](./410025-is-it-normal-to-be-down-bad-for-my-friend.json) |
 | Is it OK to pick up Anomalies at a University? | 301946 | [301946-is-it-ok-to-pick-up-anomalies-at-a-university.json](./301946-is-it-ok-to-pick-up-anomalies-at-a-university.json) |
 | Is It Wrong to Repay the Debt in a Dungeon? | 220040 | [220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json](./220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate | 47160 | [47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json](./47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json) |
