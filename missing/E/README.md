@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Reader 5-Card Sample Pack | 355538 | [355538-e-reader-5-card-sample-pack.json](./355538-e-reader-5-card-sample-pack.json) |
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Shop Tycoon | 390034 | [390034-e-shop-tycoon.json](./390034-e-shop-tycoon.json) |
+| E-Startup | 96707 | [96707-e-startup.json](./96707-e-startup.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
 | E.B. | 129049 | [129049-e-b.json](./129049-e-b.json) |
 | E.E.R.I.E | 148838 | [148838-e-e-r-i-e.json](./148838-e-e-r-i-e.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagles Strike | 59314 | [59314-eagles-strike.json](./59314-eagles-strike.json) |
 | Eagletalon vs. Horde of the Flies | 127604 | [127604-eagletalon-vs-horde-of-the-flies.json](./127604-eagletalon-vs-horde-of-the-flies.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
+| Ear Cat | 100916 | [100916-ear-cat.json](./100916-ear-cat.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
 | Earache: Extreme Metal Racing | 72596 | [72596-earache-extreme-metal-racing.json](./72596-earache-extreme-metal-racing.json) |
 | Eardis: Revolution Force | 112893 | [112893-eardis-revolution-force.json](./112893-eardis-revolution-force.json) |
