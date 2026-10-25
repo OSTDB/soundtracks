@@ -4025,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remains: Echoes of Strength | 391127 | [391127-remains-echoes-of-strength.json](./391127-remains-echoes-of-strength.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
 | Remanence | 339145 | [339145-remanence.json](./339145-remanence.json) |
+| Remanence | 401456 | [401456-remanence.json](./401456-remanence.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
 | Rematch: Season 5 - Blue Lock | 416130 | [416130-rematch-season-5-blue-lock.json](./416130-rematch-season-5-blue-lock.json) |
@@ -5546,6 +5547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rezrog | 23504 | [23504-rezrog.json](./23504-rezrog.json) |
 | Rezzil Player | 220710 | [220710-rezzil-player.json](./220710-rezzil-player.json) |
 | Rezzil Player: Forest Team Pack | 263130 | [263130-rezzil-player-forest-team-pack.json](./263130-rezzil-player-forest-team-pack.json) |
+| RF Online Next | 401458 | [401458-rf-online-next.json](./401458-rf-online-next.json) |
 | RF Project | 193820 | [193820-rf-project.json](./193820-rf-project.json) |
 | RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
 | rFactor | 9493 | [9493-rfactor.json](./9493-rfactor.json) |
@@ -7063,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
 | Roadsters '98 | 208859 | [208859-roadsters-98.json](./208859-roadsters-98.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
+| Roadtrip Ruckus: RV Survival Crew | 401444 | [401444-roadtrip-ruckus-rv-survival-crew.json](./401444-roadtrip-ruckus-rv-survival-crew.json) |
 | Roadtrip: The Engine of Madness | 366601 | [366601-roadtrip-the-engine-of-madness.json](./366601-roadtrip-the-engine-of-madness.json) |
 | Roadwar 2000 | 12746 | [12746-roadwar-2000.json](./12746-roadwar-2000.json) |
 | Roadwar Europa | 12747 | [12747-roadwar-europa.json](./12747-roadwar-europa.json) |
@@ -7835,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
 | Rocket Squad: Infinity | 332856 | [332856-rocket-squad-infinity.json](./332856-rocket-squad-infinity.json) |
 | Rocket Stop Incident | 151512 | [151512-rocket-stop-incident.json](./151512-rocket-stop-incident.json) |
+| Rocket Storm | 401445 | [401445-rocket-storm.json](./401445-rocket-storm.json) |
 | Rocket Sword | 172992 | [172992-rocket-sword.json](./172992-rocket-sword.json) |
 | Rocket Swords | 107793 | [107793-rocket-swords.json](./107793-rocket-swords.json) |
 | Rocket Theater Rehearsal | 185484 | [185484-rocket-theater-rehearsal.json](./185484-rocket-theater-rehearsal.json) |
