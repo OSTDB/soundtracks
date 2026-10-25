@@ -3607,6 +3607,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Denshou: Galaxy Odyssey | 41301 | [41301-ginga-denshou-galaxy-odyssey.json](./41301-ginga-denshou-galaxy-odyssey.json) |
 | Ginga Eiyuu Densetsu | 48502 | [48502-ginga-eiyuu-densetsu.json](./48502-ginga-eiyuu-densetsu.json) |
 | Ginga Eiyuu Densetsu | 71896 | [71896-ginga-eiyuu-densetsu.json](./71896-ginga-eiyuu-densetsu.json) |
+| Ginga Eiyuu Densetsu III | 400830 | [400830-ginga-eiyuu-densetsu-iii.json](./400830-ginga-eiyuu-densetsu-iii.json) |
+| Ginga Eiyuu Densetsu III SP | 400831 | [400831-ginga-eiyuu-densetsu-iii-sp.json](./400831-ginga-eiyuu-densetsu-iii-sp.json) |
 | Ginga Eiyuu Densetsu: Senjutsu Simulation | 80806 | [80806-ginga-eiyuu-densetsu-senjutsu-simulation.json](./80806-ginga-eiyuu-densetsu-senjutsu-simulation.json) |
 | Ginga Force | 7810 | [7810-ginga-force.json](./7810-ginga-force.json) |
 | Ginga Fukei Densetsu Sapphire | 37613 | [37613-ginga-fukei-densetsu-sapphire.json](./37613-ginga-fukei-densetsu-sapphire.json) |
@@ -7394,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory Horror Show Soul of Roses | 320168 | [320168-gregory-horror-show-soul-of-roses.json](./320168-gregory-horror-show-soul-of-roses.json) |
 | Gregory Horror Show: Lost Qualia | 322154 | [322154-gregory-horror-show-lost-qualia.json](./322154-gregory-horror-show-lost-qualia.json) |
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
+| GregTech: New Horizons | 400822 | [400822-gregtech-new-horizons.json](./400822-gregtech-new-horizons.json) |
 | Grejsimojs | 287305 | [287305-grejsimojs.json](./287305-grejsimojs.json) |
 | Gremlin Collection 1 | 185977 | [185977-gremlin-collection-1.json](./185977-gremlin-collection-1.json) |
 | Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
