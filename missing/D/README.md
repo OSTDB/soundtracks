@@ -6052,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate Defence | 115433 | [115433-desperate-defence.json](./115433-desperate-defence.json) |
 | Desperate Escape | 282830 | [282830-desperate-escape.json](./282830-desperate-escape.json) |
 | Desperate Escape | 340273 | [340273-desperate-escape.json](./340273-desperate-escape.json) |
+| Desperate Gambling | 405865 | [405865-desperate-gambling.json](./405865-desperate-gambling.json) |
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
 | Desperate Gods | 63167 | [63167-desperate-gods.json](./63167-desperate-gods.json) |
 | Desperate Housewives: The Game | 18516 | [18516-desperate-housewives-the-game.json](./18516-desperate-housewives-the-game.json) |
@@ -6655,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
 | Devil's Kiss | 130127 | [130127-devils-kiss.json](./130127-devils-kiss.json) |
+| Devil's Logic | 405765 | [405765-devils-logic.json](./405765-devils-logic.json) |
 | Devil's Mansion | 267318 | [267318-devils-mansion.json](./267318-devils-mansion.json) |
 | Devil's Menu | 372588 | [372588-devils-menu.json](./372588-devils-menu.json) |
 | Devil's Peak Rally | 235124 | [235124-devils-peak-rally.json](./235124-devils-peak-rally.json) |
@@ -7232,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Wolf | 129635 | [129635-die-wolf.json](./129635-die-wolf.json) |
 | Die Young | 33758 | [33758-die-young.json](./33758-die-young.json) |
 | Die Young: Prologue | 118781 | [118781-die-young-prologue.json](./118781-die-young-prologue.json) |
+| Die Zuschauer | 405657 | [405657-die-zuschauer.json](./405657-die-zuschauer.json) |
 | Die-Rise | 245277 | [245277-die-rise.json](./245277-die-rise.json) |
 | Die, A.I | 203191 | [203191-die-a-i.json](./203191-die-a-i.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
@@ -8317,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discworld: Limited Edition | 132078 | [132078-discworld-limited-edition.json](./132078-discworld-limited-edition.json) |
 | Disdain | 215077 | [215077-disdain.json](./215077-disdain.json) |
 | Disdoored | 102093 | [102093-disdoored.json](./102093-disdoored.json) |
+| Disease | 405780 | [405780-disease.json](./405780-disease.json) |
 | Disease -Hidden Object- | 103372 | [103372-disease-hidden-object.json](./103372-disease-hidden-object.json) |
 | Disease Infected: Plague | 187976 | [187976-disease-infected-plague.json](./187976-disease-infected-plague.json) |
 | Disease Z | 245842 | [245842-disease-z.json](./245842-disease-z.json) |
@@ -10691,6 +10695,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
 | Doom Delta | 252029 | [252029-doom-delta.json](./252029-doom-delta.json) |
 | Doom Eternal KaiserCampaign | 344310 | [344310-doom-eternal-kaisercampaign.json](./344310-doom-eternal-kaisercampaign.json) |
+| Doom Eternal: Doomicorn Master Collection Cosmetic Pack | 405862 | [405862-doom-eternal-doomicorn-master-collection-cosmetic-pack.json](./405862-doom-eternal-doomicorn-master-collection-cosmetic-pack.json) |
+| Doom Eternal: Mullet Slayer Master Collection Cosmetic Pack | 405863 | [405863-doom-eternal-mullet-slayer-master-collection-cosmetic-pack.json](./405863-doom-eternal-mullet-slayer-master-collection-cosmetic-pack.json) |
+| Doom Eternal: Series Five Cosmetic Pack | 405859 | [405859-doom-eternal-series-five-cosmetic-pack.json](./405859-doom-eternal-series-five-cosmetic-pack.json) |
+| Doom Eternal: Series Four Cosmetic Pack | 405858 | [405858-doom-eternal-series-four-cosmetic-pack.json](./405858-doom-eternal-series-four-cosmetic-pack.json) |
+| Doom Eternal: Series One Cosmetic Pack | 405853 | [405853-doom-eternal-series-one-cosmetic-pack.json](./405853-doom-eternal-series-one-cosmetic-pack.json) |
+| Doom Eternal: Series Seven Cosmetic Pack | 405861 | [405861-doom-eternal-series-seven-cosmetic-pack.json](./405861-doom-eternal-series-seven-cosmetic-pack.json) |
+| Doom Eternal: Series Six Cosmetic Pack | 405860 | [405860-doom-eternal-series-six-cosmetic-pack.json](./405860-doom-eternal-series-six-cosmetic-pack.json) |
+| Doom Eternal: Series Three Cosmetic Pack | 405857 | [405857-doom-eternal-series-three-cosmetic-pack.json](./405857-doom-eternal-series-three-cosmetic-pack.json) |
+| Doom Eternal: Series Two Cosmetic Pack | 405856 | [405856-doom-eternal-series-two-cosmetic-pack.json](./405856-doom-eternal-series-two-cosmetic-pack.json) |
 | Doom Eternal: The Ancient Gods - Expansion Pass | 281566 | [281566-doom-eternal-the-ancient-gods-expansion-pass.json](./281566-doom-eternal-the-ancient-gods-expansion-pass.json) |
 | Doom Eternal: The Ancient Gods - Part One | 136539 | [136539-doom-eternal-the-ancient-gods-part-one.json](./136539-doom-eternal-the-ancient-gods-part-one.json) |
 | Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
