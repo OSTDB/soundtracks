@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbral | 273389 | [273389-umbral.json](./273389-umbral.json) |
 | Umbral Astral Dreamers | 333440 | [333440-umbral-astral-dreamers.json](./333440-umbral-astral-dreamers.json) |
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
+| Umbral Coterie | 405147 | [405147-umbral-coterie.json](./405147-umbral-coterie.json) |
 | Umbral Omen | 212837 | [212837-umbral-omen.json](./212837-umbral-omen.json) |
 | UmbraNet | 388359 | [388359-umbranet.json](./388359-umbranet.json) |
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United States Quiz | 92820 | [92820-united-states-quiz.json](./92820-united-states-quiz.json) |
 | United Tactics | 41815 | [41815-united-tactics.json](./41815-united-tactics.json) |
 | United We Chess | 181635 | [181635-united-we-chess.json](./181635-united-we-chess.json) |
+| United2030 | 405779 | [405779-united2030.json](./405779-united2030.json) |
 | Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
