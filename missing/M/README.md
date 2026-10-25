@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make or Break: The Routine | 180644 | [180644-make-or-break-the-routine.json](./180644-make-or-break-the-routine.json) |
 | Make Route | 109658 | [109658-make-route.json](./109658-make-route.json) |
 | Make Route: Escape the police | 117397 | [117397-make-route-escape-the-police.json](./117397-make-route-escape-the-police.json) |
+| Make Sail | 75419 | [75419-make-sail.json](./75419-make-sail.json) |
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
 | Make That Date! | 313896 | [313896-make-that-date.json](./313896-make-that-date.json) |
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
@@ -9134,6 +9135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Pufferfish Show | 250860 | [250860-midnight-pufferfish-show.json](./250860-midnight-pufferfish-show.json) |
 | Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
 | Midnight Puppeteer | 108881 | [108881-midnight-puppeteer.json](./108881-midnight-puppeteer.json) |
+| Midnight Quest | 75590 | [75590-midnight-quest.json](./75590-midnight-quest.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
 | Midnight Racing | 54203 | [54203-midnight-racing.json](./54203-midnight-racing.json) |
 | Midnight Racing: Long Night | 25414 | [25414-midnight-racing-long-night.json](./25414-midnight-racing-long-night.json) |
@@ -10780,6 +10782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur | 305839 | [305839-minotaur.json](./305839-minotaur.json) |
 | Minotaur | 32202 | [32202-minotaur.json](./32202-minotaur.json) |
 | Minotaur | 398656 | [398656-minotaur.json](./398656-minotaur.json) |
+| Minotaur | 75354 | [75354-minotaur.json](./75354-minotaur.json) |
 | Minotaur Arcade Volume 1 | 112492 | [112492-minotaur-arcade-volume-1.json](./112492-minotaur-arcade-volume-1.json) |
 | Minotaur Hotel | 166032 | [166032-minotaur-hotel.json](./166032-minotaur-hotel.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
@@ -11702,6 +11705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Armor | 43777 | [43777-mobile-armor.json](./43777-mobile-armor.json) |
 | Mobile Ball | 109476 | [109476-mobile-ball.json](./109476-mobile-ball.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
+| Mobile Empire | 75387 | [75387-mobile-empire.json](./75387-mobile-empire.json) |
 | Mobile Golf | 3402 | [3402-mobile-golf.json](./3402-mobile-golf.json) |
 | Mobile Hangman | 220624 | [220624-mobile-hangman.json](./220624-mobile-hangman.json) |
 | Mobile Legends: Adventure | 133687 | [133687-mobile-legends-adventure.json](./133687-mobile-legends-adventure.json) |
@@ -15093,6 +15097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Driller: Drill Spirits | 18330 | [18330-mr-driller-drill-spirits.json](./18330-mr-driller-drill-spirits.json) |
 | Mr. Driller: Drill Till You Drop | 25176 | [25176-mr-driller-drill-till-you-drop.json](./25176-mr-driller-drill-till-you-drop.json) |
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
+| Mr. Dubstep | 68322 | [68322-mr-dubstep.json](./68322-mr-dubstep.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
 | Mr. Fat's Chopstick Challenge | 410441 | [410441-mr-fats-chopstick-challenge.json](./410441-mr-fats-chopstick-challenge.json) |
