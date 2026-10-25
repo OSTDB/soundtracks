@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus | 289578 | [289578-virus.json](./289578-virus.json) |
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
 | Virus Alert 3D | 320478 | [320478-virus-alert-3d.json](./320478-virus-alert-3d.json) |
+| Virus Attack | 421409 | [421409-virus-attack.json](./421409-virus-attack.json) |
 | Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
 | Virus Brotherhood | 387752 | [387752-virus-brotherhood.json](./387752-virus-brotherhood.json) |
 | Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
