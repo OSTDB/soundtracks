@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Arena | 138630 | [138630-quarantine-arena.json](./138630-quarantine-arena.json) |
 | Quarantine Circular | 102119 | [102119-quarantine-circular.json](./102119-quarantine-circular.json) |
 | Quarantine Cutz | 150519 | [150519-quarantine-cutz.json](./150519-quarantine-cutz.json) |
+| Quarantine II: Road Warrior | 9234 | [9234-quarantine-ii-road-warrior.json](./9234-quarantine-ii-road-warrior.json) |
 | Quarantine Lockdown Simulator: Zombie Border | 366217 | [366217-quarantine-lockdown-simulator-zombie-border.json](./366217-quarantine-lockdown-simulator-zombie-border.json) |
 | Quarantine Market Simulator | 399218 | [399218-quarantine-market-simulator.json](./399218-quarantine-market-simulator.json) |
 | Quarantine Run | 155999 | [155999-quarantine-run.json](./155999-quarantine-run.json) |
