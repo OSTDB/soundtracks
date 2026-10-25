@@ -6547,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Story | 378202 | [378202-christmas-story.json](./378202-christmas-story.json) |
 | Christmas Sweeper 3 | 227365 | [227365-christmas-sweeper-3.json](./227365-christmas-sweeper-3.json) |
 | Christmas Time 2019 | 114326 | [114326-christmas-time-2019.json](./114326-christmas-time-2019.json) |
+| Christmas Tina | 117085 | [117085-christmas-tina.json](./117085-christmas-tina.json) |
 | Christmas Town: Passion House | 207795 | [207795-christmas-town-passion-house.json](./207795-christmas-town-passion-house.json) |
 | Christmas Tree Decorating Simulator | 324993 | [324993-christmas-tree-decorating-simulator.json](./324993-christmas-tree-decorating-simulator.json) |
 | Christmas Tree Decorator | 323445 | [323445-christmas-tree-decorator.json](./323445-christmas-tree-decorator.json) |
@@ -14695,6 +14696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumbling World | 115386 | [115386-crumbling-world.json](./115386-crumbling-world.json) |
 | Crumpets | 141484 | [141484-crumpets.json](./141484-crumpets.json) |
 | Crumpets 2 | 287308 | [287308-crumpets-2.json](./287308-crumpets-2.json) |
+| Crumple Zone | 117365 | [117365-crumple-zone.json](./117365-crumple-zone.json) |
 | Crumps | 334270 | [334270-crumps.json](./334270-crumps.json) |
 | Crunch | 119478 | [119478-crunch.json](./119478-crunch.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
@@ -14988,6 +14990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptorig | 203965 | [203965-cryptorig.json](./203965-cryptorig.json) |
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
 | Cryptract | 110859 | [110859-cryptract.json](./110859-cryptract.json) |
+| Cryptrunner | 117090 | [117090-cryptrunner.json](./117090-cryptrunner.json) |
 | Crypts & Curves | 344880 | [344880-crypts-and-curves.json](./344880-crypts-and-curves.json) |
 | Crypts of Carith | 387528 | [387528-crypts-of-carith.json](./387528-crypts-of-carith.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
@@ -16361,6 +16364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
 | Cyber Girls 2022 | 189878 | [189878-cyber-girls-2022.json](./189878-cyber-girls-2022.json) |
 | Cyber Grannies | 307383 | [307383-cyber-grannies.json](./307383-cyber-grannies.json) |
+| Cyber Gun | 117382 | [117382-cyber-gun.json](./117382-cyber-gun.json) |
 | Cyber Gunner | 208095 | [208095-cyber-gunner.json](./208095-cyber-gunner.json) |
 | Cyber Hamster Tilt | 186049 | [186049-cyber-hamster-tilt.json](./186049-cyber-hamster-tilt.json) |
 | Cyber Heart | 247977 | [247977-cyber-heart.json](./247977-cyber-heart.json) |
@@ -16394,6 +16398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Noir Stories: The Trunk | 217207 | [217207-cyber-noir-stories-the-trunk.json](./217207-cyber-noir-stories-the-trunk.json) |
 | Cyber Ops | 114068 | [114068-cyber-ops.json](./114068-cyber-ops.json) |
 | Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
+| Cyber OutRun | 121461 | [121461-cyber-outrun.json](./121461-cyber-outrun.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
