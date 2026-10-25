@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Craft HD | 175601 | [175601-jewel-craft-hd.json](./175601-jewel-craft-hd.json) |
 | Jewel Crush | 233434 | [233434-jewel-crush.json](./233434-jewel-crush.json) |
 | Jewel Defender | 230747 | [230747-jewel-defender.json](./230747-jewel-defender.json) |
+| Jewel Diamond | 87735 | [87735-jewel-diamond.json](./87735-jewel-diamond.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Dragon | 63149 | [63149-jewel-dragon.json](./63149-jewel-dragon.json) |
 | Jewel Drop! | 209995 | [209995-jewel-drop.json](./209995-jewel-drop.json) |
@@ -1186,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Fever 3 | 328391 | [328391-jewel-fever-3.json](./328391-jewel-fever-3.json) |
 | Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
 | Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
+| Jewel Legends: Atlantis | 87522 | [87522-jewel-legends-atlantis.json](./87522-jewel-legends-atlantis.json) |
 | Jewel Legends: Magical Kingdom | 87085 | [87085-jewel-legends-magical-kingdom.json](./87085-jewel-legends-magical-kingdom.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
@@ -2936,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Horse | 88163 | [88163-jumpy-horse.json](./88163-jumpy-horse.json) |
 | Jumpy Horse Breeding | 87891 | [87891-jumpy-horse-breeding.json](./87891-jumpy-horse-breeding.json) |
 | Jumpy Horse Racing | 89741 | [89741-jumpy-horse-racing.json](./89741-jumpy-horse-racing.json) |
+| Jumpy Horse Show Jumping | 87510 | [87510-jumpy-horse-show-jumping.json](./87510-jumpy-horse-show-jumping.json) |
 | Jumpy Hunt | 114866 | [114866-jumpy-hunt.json](./114866-jumpy-hunt.json) |
 | Jumpy Jack | 343977 | [343977-jumpy-jack.json](./343977-jumpy-jack.json) |
 | Jumpy Kitten | 101672 | [101672-jumpy-kitten.json](./101672-jumpy-kitten.json) |
