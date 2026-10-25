@@ -5998,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chikafag and Chika | 165133 | [165133-the-chikafag-and-chika.json](./165133-the-chikafag-and-chika.json) |
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
 | The Children of Clay | 320420 | [320420-the-children-of-clay.json](./320420-the-children-of-clay.json) |
+| The Children of Magia | 393014 | [393014-the-children-of-magia.json](./393014-the-children-of-magia.json) |
 | The Children of The Woods: Lost Tape | 285891 | [285891-the-children-of-the-woods-lost-tape.json](./285891-the-children-of-the-woods-lost-tape.json) |
 | The Children's Friend | 236731 | [236731-the-childrens-friend.json](./236731-the-childrens-friend.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
@@ -7738,6 +7739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Feeble Files | 12428 | [12428-the-feeble-files.json](./12428-the-feeble-files.json) |
 | The Fellowship Saga | 149338 | [149338-the-fellowship-saga.json](./149338-the-fellowship-saga.json) |
 | The Female Teacher's Sex Training | 97789 | [97789-the-female-teachers-sex-training.json](./97789-the-female-teachers-sex-training.json) |
+| The Femdom Project | 392981 | [392981-the-femdom-project.json](./392981-the-femdom-project.json) |
 | The Fennels Figure Math | 93189 | [93189-the-fennels-figure-math.json](./93189-the-fennels-figure-math.json) |
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
 | The Fermi Paradox | 154094 | [154094-the-fermi-paradox.json](./154094-the-fermi-paradox.json) |
@@ -11257,6 +11259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marvelous Raincaster of Yell Holler | 402520 | [402520-the-marvelous-raincaster-of-yell-holler.json](./402520-the-marvelous-raincaster-of-yell-holler.json) |
 | The Marvelous Snail | 208849 | [208849-the-marvelous-snail.json](./208849-the-marvelous-snail.json) |
 | The Mary Jane of Tomorrow | 139274 | [139274-the-mary-jane-of-tomorrow.json](./139274-the-mary-jane-of-tomorrow.json) |
+| The Masculine Urge to Blow a Femboy | 392982 | [392982-the-masculine-urge-to-blow-a-femboy.json](./392982-the-masculine-urge-to-blow-a-femboy.json) |
 | The Mask | 42730 | [42730-the-mask.json](./42730-the-mask.json) |
 | The Mask Game | 278993 | [278993-the-mask-game.json](./278993-the-mask-game.json) |
 | The Mask of Agnosia | 399720 | [399720-the-mask-of-agnosia.json](./399720-the-mask-of-agnosia.json) |
@@ -12619,6 +12622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen of Duellist Gaiden α | 63911 | [63911-the-queen-of-duellist-gaiden.json](./63911-the-queen-of-duellist-gaiden.json) |
 | The Queen of Duellist Gaiden α+ | 63914 | [63914-the-queen-of-duellist-gaiden.json](./63914-the-queen-of-duellist-gaiden.json) |
 | The Queen of Hearts Maze Game | 25153 | [25153-the-queen-of-hearts-maze-game.json](./25153-the-queen-of-hearts-maze-game.json) |
+| The Queen of Phalli | 392986 | [392986-the-queen-of-phalli.json](./392986-the-queen-of-phalli.json) |
 | The Queen of Snakes | 408090 | [408090-the-queen-of-snakes.json](./408090-the-queen-of-snakes.json) |
 | The Queen TV-Game 2 | 147931 | [147931-the-queen-tv-game-2.json](./147931-the-queen-tv-game-2.json) |
 | The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
@@ -12783,6 +12787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Recipe of Madness | 134879 | [134879-the-recipe-of-madness.json](./134879-the-recipe-of-madness.json) |
 | The Reconnection Clinic | 183775 | [183775-the-reconnection-clinic.json](./183775-the-reconnection-clinic.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
+| The Record of the Male Demon Witch | 392979 | [392979-the-record-of-the-male-demon-witch.json](./392979-the-record-of-the-male-demon-witch.json) |
 | The Recurrence | 289968 | [289968-the-recurrence.json](./289968-the-recurrence.json) |
 | The Recursive Dollhouse | 176918 | [176918-the-recursive-dollhouse.json](./176918-the-recursive-dollhouse.json) |
 | The Red | 249030 | [249030-the-red.json](./249030-the-red.json) |
@@ -15774,6 +15779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Night Watch | 288988 | [288988-the-witchs-night-watch.json](./288988-the-witchs-night-watch.json) |
 | The Witch's Realm | 346583 | [346583-the-witchs-realm.json](./346583-the-witchs-realm.json) |
 | The Witch's Redemption | 298629 | [298629-the-witchs-redemption.json](./298629-the-witchs-redemption.json) |
+| The Witch's Warehouse Management | 392975 | [392975-the-witchs-warehouse-management.json](./392975-the-witchs-warehouse-management.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
 | The Witcher 2: Assassins of Kings - Collector's Edition | 16209 | [16209-the-witcher-2-assassins-of-kings-collectors-edition.json](./16209-the-witcher-2-assassins-of-kings-collectors-edition.json) |
 | The Witcher 2: Assassins of Kings - Dark Edition | 22319 | [22319-the-witcher-2-assassins-of-kings-dark-edition.json](./22319-the-witcher-2-assassins-of-kings-dark-edition.json) |
@@ -16984,6 +16990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Galaxy | 312129 | [312129-through-the-galaxy.json](./312129-through-the-galaxy.json) |
 | Through the Helios | 148849 | [148849-through-the-helios.json](./148849-through-the-helios.json) |
+| Through the Lens | 392977 | [392977-through-the-lens.json](./392977-through-the-lens.json) |
 | Through the Looking Glass | 71709 | [71709-through-the-looking-glass.json](./71709-through-the-looking-glass.json) |
 | Through the Manor | 406320 | [406320-through-the-manor.json](./406320-through-the-manor.json) |
 | Through the Mirror | 30731 | [30731-through-the-mirror.json](./30731-through-the-mirror.json) |
@@ -21517,6 +21524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toshinden Card Quest | 43946 | [43946-toshinden-card-quest.json](./43946-toshinden-card-quest.json) |
 | Toshishita Kanojo | 382783 | [382783-toshishita-kanojo.json](./382783-toshishita-kanojo.json) |
 | Toshiue Kanojo | 317092 | [317092-toshiue-kanojo.json](./317092-toshiue-kanojo.json) |
+| Toshiue Kanojo 2 | 392966 | [392966-toshiue-kanojo-2.json](./392966-toshiue-kanojo-2.json) |
 | Toshiue Kanojo no Amayaka Dousei | 402711 | [402711-toshiue-kanojo-no-amayaka-dousei.json](./402711-toshiue-kanojo-no-amayaka-dousei.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
@@ -23012,6 +23020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
 | Trading Towns | 297880 | [297880-trading-towns.json](./297880-trading-towns.json) |
+| TradingLife | 392961 | [392961-tradinglife.json](./392961-tradinglife.json) |
 | Traditional Braves with Sess-AI 2.0 | 387668 | [387668-traditional-braves-with-sess-ai-2-0.json](./387668-traditional-braves-with-sess-ai-2-0.json) |
 | Traditional Story | 241460 | [241460-traditional-story.json](./241460-traditional-story.json) |
 | Traditional Tactics | 122293 | [122293-traditional-tactics.json](./122293-traditional-tactics.json) |
