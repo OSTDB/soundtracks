@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Vault Rush | 394634 | [394634-neon-vault-rush.json](./394634-neon-vault-rush.json) |
 | Neon Village | 302358 | [302358-neon-village.json](./302358-neon-village.json) |
 | Neon Void Runner | 96905 | [96905-neon-void-runner.json](./96905-neon-void-runner.json) |
+| Neon Warp | 32458 | [32458-neon-warp.json](./32458-neon-warp.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
 | Neon: Eternal | 169735 | [169735-neon-eternal.json](./169735-neon-eternal.json) |
