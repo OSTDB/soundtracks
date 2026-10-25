@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Flicking A Switch | 287146 | [287146-a-game-about-flicking-a-switch.json](./287146-a-game-about-flicking-a-switch.json) |
 | A Game About Flipping Cards | 407864 | [407864-a-game-about-flipping-cards.json](./407864-a-game-about-flipping-cards.json) |
 | A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
+| A Game About Having a Job | 389933 | [389933-a-game-about-having-a-job.json](./389933-a-game-about-having-a-job.json) |
 | A Game About Making Mosaics | 379507 | [379507-a-game-about-making-mosaics.json](./379507-a-game-about-making-mosaics.json) |
 | A Game About Media & Warfare | 419131 | [419131-a-game-about-media-and-warfare.json](./419131-a-game-about-media-and-warfare.json) |
 | A Game About Mining an Asteroid | 379508 | [379508-a-game-about-mining-an-asteroid.json](./379508-a-game-about-mining-an-asteroid.json) |
@@ -561,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little Golf Journey | 132300 | [132300-a-little-golf-journey.json](./132300-a-little-golf-journey.json) |
 | A Little Less Desperation | 392213 | [392213-a-little-less-desperation.json](./392213-a-little-less-desperation.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
+| A Little Physics Roguelike | 389960 | [389960-a-little-physics-roguelike.json](./389960-a-little-physics-roguelike.json) |
 | A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
 | A Little Rogue | 184232 | [184232-a-little-rogue.json](./184232-a-little-rogue.json) |
@@ -917,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simpler World | 407758 | [407758-a-simpler-world.json](./407758-a-simpler-world.json) |
 | A Sing-Along Surprise Party | 293982 | [293982-a-sing-along-surprise-party.json](./293982-a-sing-along-surprise-party.json) |
 | A Single Fallen Feather | 325299 | [325299-a-single-fallen-feather.json](./325299-a-single-fallen-feather.json) |
+| A Sinister Glitch | 389944 | [389944-a-sinister-glitch.json](./389944-a-sinister-glitch.json) |
 | A Siren's Call | 132562 | [132562-a-sirens-call.json](./132562-a-sirens-call.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
 | A Sketchbook About Her Sun | 152682 | [152682-a-sketchbook-about-her-sun.json](./152682-a-sketchbook-about-her-sun.json) |
@@ -3044,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3650,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
 | Against the Will of a Chainsaw | 207132 | [207132-against-the-will-of-a-chainsaw.json](./207132-against-the-will-of-a-chainsaw.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
+| Against Wokou Frontline | 389992 | [389992-against-wokou-frontline.json](./389992-against-wokou-frontline.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
@@ -5070,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist Adventure | 137444 | [137444-alchemist-adventure.json](./137444-alchemist-adventure.json) |
 | Alchemist Arena | 195460 | [195460-alchemist-arena.json](./195460-alchemist-arena.json) |
 | Alchemist Bundle | 295645 | [295645-alchemist-bundle.json](./295645-alchemist-bundle.json) |
+| Alchemist Business Simulation | 389937 | [389937-alchemist-business-simulation.json](./389937-alchemist-business-simulation.json) |
 | Alchemist Chronicles | 405574 | [405574-alchemist-chronicles.json](./405574-alchemist-chronicles.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
 | Alchemist Defender VR | 29319 | [29319-alchemist-defender-vr.json](./29319-alchemist-defender-vr.json) |
@@ -8516,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Sunset Ride | 153014 | [153014-anime-sunset-ride.json](./153014-anime-sunset-ride.json) |
 | Anime Tank Blitz: Warbound Legends | 283293 | [283293-anime-tank-blitz-warbound-legends.json](./283293-anime-tank-blitz-warbound-legends.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
+| Anime Toy Shop Simulator: Japanese Style | 389920 | [389920-anime-toy-shop-simulator-japanese-style.json](./389920-anime-toy-shop-simulator-japanese-style.json) |
 | Anime Uni | 273943 | [273943-anime-uni.json](./273943-anime-uni.json) |
 | Anime Uni 2 | 300730 | [300730-anime-uni-2.json](./300730-anime-uni-2.json) |
 | Anime Uni 3 | 328090 | [328090-anime-uni-3.json](./328090-anime-uni-3.json) |
