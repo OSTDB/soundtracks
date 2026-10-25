@@ -3250,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a Button | 63178 | [63178-just-a-button.json](./63178-just-a-button.json) |
 | Just a Chest | 212128 | [212128-just-a-chest.json](./212128-just-a-chest.json) |
 | Just a Cute Capybara Puzzle | 295284 | [295284-just-a-cute-capybara-puzzle.json](./295284-just-a-cute-capybara-puzzle.json) |
+| Just A Dice Game | 415791 | [415791-just-a-dice-game.json](./415791-just-a-dice-game.json) |
 | Just A Dream | 304894 | [304894-just-a-dream.json](./304894-just-a-dream.json) |
 | Just A Dream | 65788 | [65788-just-a-dream.json](./65788-just-a-dream.json) |
 | Just a Game | 111431 | [111431-just-a-game.json](./111431-just-a-game.json) |
