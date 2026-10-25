@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
 | Earl's Minecart Adventures | 237218 | [237218-earls-minecart-adventures.json](./237218-earls-minecart-adventures.json) |
 | Early Bird | 368229 | [368229-early-bird.json](./368229-early-bird.json) |
+| Early Bird Gets the Space Worm | 390469 | [390469-early-bird-gets-the-space-worm.json](./390469-early-bird-gets-the-space-worm.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
 | Early Quest | 160127 | [160127-early-quest.json](./160127-early-quest.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Amexs-137 | 289257 | [289257-escape-from-amexs-137.json](./289257-escape-from-amexs-137.json) |
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
 | Escape from Andromeda | 289733 | [289733-escape-from-andromeda.json](./289733-escape-from-andromeda.json) |
+| Escape From Area 51 | 390439 | [390439-escape-from-area-51.json](./390439-escape-from-area-51.json) |
 | Escape from Bash Street School! | 312818 | [312818-escape-from-bash-street-school.json](./312818-escape-from-bash-street-school.json) |
 | Escape From Bell Cave | 166300 | [166300-escape-from-bell-cave.json](./166300-escape-from-bell-cave.json) |
 | Escape From Biochemical | 334325 | [334325-escape-from-biochemical.json](./334325-escape-from-biochemical.json) |
