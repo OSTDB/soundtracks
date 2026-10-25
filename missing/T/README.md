@@ -2450,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
 | Teaching Assistant Life | 415769 | [415769-teaching-assistant-life.json](./415769-teaching-assistant-life.json) |
 | Teaching Assistant Life: Song Ha-Yoon | 415771 | [415771-teaching-assistant-life-song-ha-yoon.json](./415771-teaching-assistant-life-song-ha-yoon.json) |
+| Teaching Gender-Affirming Care | 405151 | [405151-teaching-gender-affirming-care.json](./405151-teaching-gender-affirming-care.json) |
 | Teaching Simulator: Elite Class | 377972 | [377972-teaching-simulator-elite-class.json](./377972-teaching-simulator-elite-class.json) |
 | Teacup | 214023 | [214023-teacup.json](./214023-teacup.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
@@ -7336,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Forest | 13585 | [13585-the-endless-forest.json](./13585-the-endless-forest.json) |
 | The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
 | The Endless Mission | 95922 | [95922-the-endless-mission.json](./95922-the-endless-mission.json) |
+| The Endless Night | 405133 | [405133-the-endless-night.json](./405133-the-endless-night.json) |
 | The Endless Summer Surfing Challenge | 197056 | [197056-the-endless-summer-surfing-challenge.json](./197056-the-endless-summer-surfing-challenge.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
 | The Endless White | 126518 | [126518-the-endless-white.json](./126518-the-endless-white.json) |
@@ -16380,6 +16382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief: The Bank Heist | 117274 | [117274-thief-the-bank-heist.json](./117274-thief-the-bank-heist.json) |
 | Thief: The Complete Collection | 275496 | [275496-thief-the-complete-collection.json](./275496-thief-the-complete-collection.json) |
 | Thief: The Dark Project | 2 | [2-thief-the-dark-project.json](./2-thief-the-dark-project.json) |
+| Thief: The Dark Project Remastered | 405156 | [405156-thief-the-dark-project-remastered.json](./405156-thief-the-dark-project-remastered.json) |
 | Thief: The Trail of the Arch-Heretic | 268465 | [268465-thief-the-trail-of-the-arch-heretic.json](./268465-thief-the-trail-of-the-arch-heretic.json) |
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
 | Thief's Market | 384798 | [384798-thiefs-market.json](./384798-thiefs-market.json) |
@@ -18973,6 +18976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
 | Time Stone | 134479 | [134479-time-stone.json](./134479-time-stone.json) |
 | Time Storm | 166834 | [166834-time-storm.json](./166834-time-storm.json) |
+| Time Strike | 405153 | [405153-time-strike.json](./405153-time-strike.json) |
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
 | Time Surfer | 22175 | [22175-time-surfer.json](./22175-time-surfer.json) |
 | Time Survivors: Chapter 0 | 258108 | [258108-time-survivors-chapter-0.json](./258108-time-survivors-chapter-0.json) |
