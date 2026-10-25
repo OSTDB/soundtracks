@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Anime Jigsaw Puzzle | 242015 | [242015-ultimate-anime-jigsaw-puzzle.json](./242015-ultimate-anime-jigsaw-puzzle.json) |
 | Ultimate Apocalypse | 252841 | [252841-ultimate-apocalypse.json](./252841-ultimate-apocalypse.json) |
 | Ultimate Arcade Games | 49262 | [49262-ultimate-arcade-games.json](./49262-ultimate-arcade-games.json) |
+| Ultimate Arctic Simulator | 88926 | [88926-ultimate-arctic-simulator.json](./88926-ultimate-arctic-simulator.json) |
 | Ultimate Arena | 33667 | [33667-ultimate-arena.json](./33667-ultimate-arena.json) |
 | Ultimate Arena | 51456 | [51456-ultimate-arena.json](./51456-ultimate-arena.json) |
 | Ultimate Arena FPS | 124534 | [124534-ultimate-arena-fps.json](./124534-ultimate-arena-fps.json) |
@@ -419,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Derby Online | 241204 | [241204-ultimate-derby-online.json](./241204-ultimate-derby-online.json) |
 | Ultimate Destruction Simulator | 343790 | [343790-ultimate-destruction-simulator.json](./343790-ultimate-destruction-simulator.json) |
 | Ultimate Dice Wars: Reborn | 233058 | [233058-ultimate-dice-wars-reborn.json](./233058-ultimate-dice-wars-reborn.json) |
+| Ultimate Dinosaur Simulator | 88927 | [88927-ultimate-dinosaur-simulator.json](./88927-ultimate-dinosaur-simulator.json) |
 | Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
 | Ultimate Domain | 12430 | [12430-ultimate-domain.json](./12430-ultimate-domain.json) |
 | Ultimate Dragon Simulator | 86894 | [86894-ultimate-dragon-simulator.json](./86894-ultimate-dragon-simulator.json) |
