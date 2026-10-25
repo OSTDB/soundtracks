@@ -3080,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
 | Dead Reefs | 50284 | [50284-dead-reefs.json](./50284-dead-reefs.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
+| Dead Rider | 87312 | [87312-dead-rider.json](./87312-dead-rider.json) |
 | Dead Rising | 4797 | [4797-dead-rising.json](./4797-dead-rising.json) |
 | Dead Rising 2 | 496 | [496-dead-rising-2.json](./496-dead-rising-2.json) |
 | Dead Rising 2: Case West | 21764 | [21764-dead-rising-2-case-west.json](./21764-dead-rising-2-case-west.json) |
@@ -5753,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desecration | 157019 | [157019-desecration.json](./157019-desecration.json) |
 | Desecration | 343843 | [343843-desecration.json](./343843-desecration.json) |
+| Desecration of Wings | 86305 | [86305-desecration-of-wings.json](./86305-desecration-of-wings.json) |
 | Desecrators | 144823 | [144823-desecrators.json](./144823-desecrators.json) |
 | Desenho Livre | 290092 | [290092-desenho-livre.json](./290092-desenho-livre.json) |
 | Desert | 18605 | [18605-desert.json](./18605-desert.json) |
@@ -6876,6 +6878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicast: Rules of Chaos | 133686 | [133686-dicast-rules-of-chaos.json](./133686-dicast-rules-of-chaos.json) |
 | Dice | 288365 | [288365-dice.json](./288365-dice.json) |
 | Dice | 309457 | [309457-dice.json](./309457-dice.json) |
+| Dice | 87320 | [87320-dice.json](./87320-dice.json) |
 | Dice & Fighter | 126388 | [126388-dice-and-fighter.json](./126388-dice-and-fighter.json) |
 | Dice & Fold | 276684 | [276684-dice-and-fold.json](./276684-dice-and-fold.json) |
 | Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
