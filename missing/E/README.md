@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Architects | 323020 | [323020-echoes-of-the-architects.json](./323020-echoes-of-the-architects.json) |
 | Echoes of the Ashen | 290833 | [290833-echoes-of-the-ashen.json](./290833-echoes-of-the-ashen.json) |
 | Echoes of The Backrooms | 303053 | [303053-echoes-of-the-backrooms.json](./303053-echoes-of-the-backrooms.json) |
+| Echoes Of The City | 393443 | [393443-echoes-of-the-city.json](./393443-echoes-of-the-city.json) |
 | Echoes of the Core | 365840 | [365840-echoes-of-the-core.json](./365840-echoes-of-the-core.json) |
 | Echoes of the Court | 366349 | [366349-echoes-of-the-court.json](./366349-echoes-of-the-court.json) |
 | Echoes of the Emergent | 288686 | [288686-echoes-of-the-emergent.json](./288686-echoes-of-the-emergent.json) |
@@ -1082,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of War | 262885 | [262885-edge-of-war.json](./262885-edge-of-war.json) |
 | Edge on Truth | 397008 | [397008-edge-on-truth.json](./397008-edge-on-truth.json) |
 | Edge Out : Escape Game | 90891 | [90891-edge-out-escape-game.json](./90891-edge-out-escape-game.json) |
+| Edge Poker | 394700 | [394700-edge-poker.json](./394700-edge-poker.json) |
 | Edge Road | 258904 | [258904-edge-road.json](./258904-edge-road.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
 | Edge Runner | 87239 | [87239-edge-runner.json](./87239-edge-runner.json) |
@@ -3079,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Pinball | 243573 | [243573-endless-pinball.json](./243573-endless-pinball.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Q | 180649 | [180649-endless-q.json](./180649-endless-q.json) |
+| Endless Racing | 393574 | [393574-endless-racing.json](./393574-endless-racing.json) |
 | Endless Racing Game | 63204 | [63204-endless-racing-game.json](./63204-endless-racing-game.json) |
 | Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
 | Endless Railway | 240042 | [240042-endless-railway.json](./240042-endless-railway.json) |
@@ -3456,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Cum | 203946 | [203946-enter-the-cum.json](./203946-enter-the-cum.json) |
 | Enter the Cyberjungle | 241853 | [241853-enter-the-cyberjungle.json](./241853-enter-the-cyberjungle.json) |
 | Enter the Depths | 406137 | [406137-enter-the-depths.json](./406137-enter-the-depths.json) |
+| Enter the Dodgeball | 394388 | [394388-enter-the-dodgeball.json](./394388-enter-the-dodgeball.json) |
 | Enter the Dojo | 367732 | [367732-enter-the-dojo.json](./367732-enter-the-dojo.json) |
 | Enter the Drunkgeon | 149971 | [149971-enter-the-drunkgeon.json](./149971-enter-the-drunkgeon.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
@@ -5564,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlast: Undying Tale | 381335 | [381335-everlast-undying-tale.json](./381335-everlast-undying-tale.json) |
 | Everlasting Abundance | 247420 | [247420-everlasting-abundance.json](./247420-everlasting-abundance.json) |
 | Everlasting Alchemists | 298999 | [298999-everlasting-alchemists.json](./298999-everlasting-alchemists.json) |
+| Everlasting Curse | 394547 | [394547-everlasting-curse.json](./394547-everlasting-curse.json) |
 | Everlasting Flowers | 261194 | [261194-everlasting-flowers.json](./261194-everlasting-flowers.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
 | Everlasting Snooze | 297879 | [297879-everlasting-snooze.json](./297879-everlasting-snooze.json) |
@@ -6543,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explottens: The time is meow! | 36933 | [36933-explottens-the-time-is-meow.json](./36933-explottens-the-time-is-meow.json) |
 | Expo 2020 | 174900 | [174900-expo-2020.json](./174900-expo-2020.json) |
 | Expo. Decay | 185318 | [185318-expo-decay.json](./185318-expo-decay.json) |
+| Exponent: The Scaling Tower Defense | 394589 | [394589-exponent-the-scaling-tower-defense.json](./394589-exponent-the-scaling-tower-defense.json) |
 | Exposed Livestream | 360184 | [360184-exposed-livestream.json](./360184-exposed-livestream.json) |
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
 | Exposure | 101244 | [101244-exposure.json](./101244-exposure.json) |
@@ -6823,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeRoll | 153321 | [153321-eyeroll.json](./153321-eyeroll.json) |
 | Eyeron Defender | 56856 | [56856-eyeron-defender.json](./56856-eyeron-defender.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
+| Eyes & Ears | 393258 | [393258-eyes-and-ears.json](./393258-eyes-and-ears.json) |
 | Eyes Behind | 351257 | [351257-eyes-behind.json](./351257-eyes-behind.json) |
 | Eyes Behind 2 | 422491 | [422491-eyes-behind-2.json](./422491-eyes-behind-2.json) |
 | Eyes First: Double Up | 210742 | [210742-eyes-first-double-up.json](./210742-eyes-first-double-up.json) |
