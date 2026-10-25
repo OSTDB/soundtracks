@@ -5434,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's T-Time | 230843 | [230843-its-t-time.json](./230843-its-t-time.json) |
 | It's Time | 201246 | [201246-its-time.json](./201246-its-time.json) |
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
+| It's Titanic | 89188 | [89188-its-titanic.json](./89188-its-titanic.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
 | It's Too Rainy Day | 116057 | [116057-its-too-rainy-day.json](./116057-its-too-rainy-day.json) |
 | It's Walky! Resurrection | 60470 | [60470-its-walky-resurrection.json](./60470-its-walky-resurrection.json) |
