@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
 | Kill Demons | 150951 | [150951-kill-demons.json](./150951-kill-demons.json) |
 | Kill Fish | 142189 | [142189-kill-fish.json](./142189-kill-fish.json) |
+| Kill Fun Yeah | 11173 | [11173-kill-fun-yeah.json](./11173-kill-fun-yeah.json) |
 | Kill H1N1 | 394208 | [394208-kill-h1n1.json](./394208-kill-h1n1.json) |
 | Kill Him! Online Wars | 102880 | [102880-kill-him-online-wars.json](./102880-kill-him-online-wars.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
