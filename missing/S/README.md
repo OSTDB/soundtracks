@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraper | 105731 | [105731-scraper.json](./105731-scraper.json) |
 | Scraper: First Strike | 111091 | [111091-scraper-first-strike.json](./111091-scraper-first-strike.json) |
 | Scraplers | 156963 | [156963-scraplers.json](./156963-scraplers.json) |
+| Scraplings | 420774 | [420774-scraplings.json](./420774-scraplings.json) |
 | Scrapmetalship | 183007 | [183007-scrapmetalship.json](./183007-scrapmetalship.json) |
 | Scrappage | 236248 | [236248-scrappage.json](./236248-scrappage.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
@@ -8643,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk | 121573 | [121573-silk.json](./121573-silk.json) |
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silk and Secrets: Rites of Pleasure | 397846 | [397846-silk-and-secrets-rites-of-pleasure.json](./397846-silk-and-secrets-rites-of-pleasure.json) |
+| Silk Collector: Tidy Up the Clothing Store! | 420751 | [420751-silk-collector-tidy-up-the-clothing-store.json](./420751-silk-collector-tidy-up-the-clothing-store.json) |
 | Silk Roads II: Paths of Fortune | 348562 | [348562-silk-roads-ii-paths-of-fortune.json](./348562-silk-roads-ii-paths-of-fortune.json) |
 | Silk Roads: Caravan Kings | 169612 | [169612-silk-roads-caravan-kings.json](./169612-silk-roads-caravan-kings.json) |
 | Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
@@ -13401,6 +13403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soli-tair-ror | 382969 | [382969-soli-tair-ror.json](./382969-soli-tair-ror.json) |
 | Solicheck | 68426 | [68426-solicheck.json](./68426-solicheck.json) |
 | Solid Aether | 107763 | [107763-solid-aether.json](./107763-solid-aether.json) |
+| Solid Boat Adventure | 420801 | [420801-solid-boat-adventure.json](./420801-solid-boat-adventure.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
 | Solid Force | 80122 | [80122-solid-force.json](./80122-solid-force.json) |
 | Solid Gold | 38832 | [38832-solid-gold.json](./38832-solid-gold.json) |
@@ -14077,6 +14080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Clockwork | 417679 | [417679-sonic-clockwork.json](./417679-sonic-clockwork.json) |
 | Sonic Coconut Hunter | 330532 | [330532-sonic-coconut-hunter.json](./330532-sonic-coconut-hunter.json) |
 | Sonic Collector's Edition | 210298 | [210298-sonic-collectors-edition.json](./210298-sonic-collectors-edition.json) |
+| Sonic Collision | 420776 | [420776-sonic-collision.json](./420776-sonic-collision.json) |
 | Sonic Color Contrast | 129145 | [129145-sonic-color-contrast.json](./129145-sonic-color-contrast.json) |
 | Sonic Color Cursed | 337168 | [337168-sonic-color-cursed.json](./337168-sonic-color-cursed.json) |
 | Sonic Colors | 2267 | [2267-sonic-colors.json](./2267-sonic-colors.json) |
@@ -22403,6 +22407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyteller | 159299 | [159299-storyteller.json](./159299-storyteller.json) |
 | Storyteller | 383135 | [383135-storyteller.json](./383135-storyteller.json) |
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
+| Storytime Cats: Meows and Mistletoes | 420769 | [420769-storytime-cats-meows-and-mistletoes.json](./420769-storytime-cats-meows-and-mistletoes.json) |
 | Storyvale | 57464 | [57464-storyvale.json](./57464-storyvale.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
 | Stowaway | 174008 | [174008-stowaway.json](./174008-stowaway.json) |
@@ -27323,6 +27328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
+| Supercar Collection Together | 420753 | [420753-supercar-collection-together.json](./420753-supercar-collection-together.json) |
 | Supercar Drift | 123822 | [123822-supercar-drift.json](./123822-supercar-drift.json) |
 | Supercar Street Challenge | 43220 | [43220-supercar-street-challenge.json](./43220-supercar-street-challenge.json) |
 | Supercars Racing | 87147 | [87147-supercars-racing.json](./87147-supercars-racing.json) |
