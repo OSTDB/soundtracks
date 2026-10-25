@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
+| RabbiruN | 93692 | [93692-rabbirun.json](./93692-rabbirun.json) |
 | Rabbit | 46850 | [46850-rabbit.json](./46850-rabbit.json) |
 | Rabbit & Dominoes | 192874 | [192874-rabbit-and-dominoes.json](./192874-rabbit-and-dominoes.json) |
 | Rabbit & Steel | 229093 | [229093-rabbit-and-steel.json](./229093-rabbit-and-steel.json) |
@@ -5373,6 +5374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revizor | 154593 | [154593-revizor.json](./154593-revizor.json) |
 | Revline Online | 411689 | [411689-revline-online.json](./411689-revline-online.json) |
 | Revn | 131342 | [131342-revn.json](./131342-revn.json) |
+| Revoke | 93726 | [93726-revoke.json](./93726-revoke.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
 | Revolgear Zero | 373901 | [373901-revolgear-zero.json](./373901-revolgear-zero.json) |
@@ -6888,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
 | Road Runner's Death Valley Rally | 8099 | [8099-road-runners-death-valley-rally.json](./8099-road-runners-death-valley-rally.json) |
 | Road Rush Racer | 235125 | [235125-road-rush-racer.json](./235125-road-rush-racer.json) |
+| Road Scars: Origins | 93060 | [93060-road-scars-origins.json](./93060-road-scars-origins.json) |
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
 | Road Star | 359383 | [359383-road-star.json](./359383-road-star.json) |
 | Road Star | 359384 | [359384-road-star.json](./359384-road-star.json) |
@@ -9411,6 +9414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Offense | 28928 | [28928-royal-offense.json](./28928-royal-offense.json) |
 | Royal Order | 182143 | [182143-royal-order.json](./182143-royal-order.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
+| Royal Princess Makeover | 89148 | [89148-royal-princess-makeover.json](./89148-royal-princess-makeover.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
 | Royal Protectors | 102000 | [102000-royal-protectors.json](./102000-royal-protectors.json) |
 | Royal Quest | 10786 | [10786-royal-quest.json](./10786-royal-quest.json) |
@@ -10288,6 +10292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runr End | 197538 | [197538-runr-end.json](./197538-runr-end.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
 | Runt | 392177 | [392177-runt.json](./392177-runt.json) |
+| Runventure | 92117 | [92117-runventure.json](./92117-runventure.json) |
 | RunVR | 30732 | [30732-runvr.json](./30732-runvr.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
