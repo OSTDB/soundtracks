@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxian | 277391 | [277391-galaxian.json](./277391-galaxian.json) |
 | Galaxian | 277392 | [277392-galaxian.json](./277392-galaxian.json) |
 | Galaxian | 4614 | [4614-galaxian.json](./4614-galaxian.json) |
+| Galaxian DX | 413202 | [413202-galaxian-dx.json](./413202-galaxian-dx.json) |
 | Galaxian Sleena | 304143 | [304143-galaxian-sleena.json](./304143-galaxian-sleena.json) |
 | Galaxian Wars: Alien Shooter | 411525 | [411525-galaxian-wars-alien-shooter.json](./411525-galaxian-wars-alien-shooter.json) |
 | Galaxian2 | 218316 | [218316-galaxian2.json](./218316-galaxian2.json) |
@@ -5560,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomi x Chou Trash x Talk | 350959 | [350959-gomi-x-chou-trash-x-talk.json](./350959-gomi-x-chou-trash-x-talk.json) |
 | Gomiboru | 333017 | [333017-gomiboru.json](./333017-gomiboru.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
+| Gomoku | 413065 | [413065-gomoku.json](./413065-gomoku.json) |
 | Gomoku and Renju | 44350 | [44350-gomoku-and-renju.json](./44350-gomoku-and-renju.json) |
 | Gomoku HD | 106453 | [106453-gomoku-hd.json](./106453-gomoku-hd.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
@@ -5933,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorepunk | 337747 | [337747-gorepunk.json](./337747-gorepunk.json) |
 | Gorescript | 28889 | [28889-gorescript.json](./28889-gorescript.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
+| Goreticulture | 412773 | [412773-goreticulture.json](./412773-goreticulture.json) |
 | Gorf | 282064 | [282064-gorf.json](./282064-gorf.json) |
 | Gorf the Frog | 324724 | [324724-gorf-the-frog.json](./324724-gorf-the-frog.json) |
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
