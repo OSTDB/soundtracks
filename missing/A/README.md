@@ -4423,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airforce Delta | 3710 | [3710-airforce-delta.json](./3710-airforce-delta.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
 | AirForce Delta Storm | 5718 | [5718-airforce-delta-storm.json](./5718-airforce-delta-storm.json) |
+| AirForce Delta Strike | 24187 | [24187-airforce-delta-strike.json](./24187-airforce-delta-strike.json) |
 | Airframe Ultra | 257450 | [257450-airframe-ultra.json](./257450-airframe-ultra.json) |
 | Airglow | 119496 | [119496-airglow.json](./119496-airglow.json) |
 | Airgrave | 43804 | [43804-airgrave.json](./43804-airgrave.json) |
@@ -5371,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
 | Alien Bastards! | 143536 | [143536-alien-bastards.json](./143536-alien-bastards.json) |
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
+| Alien Blast: The Encounter | 24188 | [24188-alien-blast-the-encounter.json](./24188-alien-blast-the-encounter.json) |
 | Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
 | Alien Block | 328425 | [328425-alien-block.json](./328425-alien-block.json) |
 | Alien Bloom | 411508 | [411508-alien-bloom.json](./411508-alien-bloom.json) |
