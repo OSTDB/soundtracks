@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Realms of Cards | 52353 | [52353-5-realms-of-cards.json](./52353-5-realms-of-cards.json) |
 | 5 Red Mickeys | 362723 | [362723-5-red-mickeys.json](./362723-5-red-mickeys.json) |
 | 5 Spots Party | 51102 | [51102-5-spots-party.json](./51102-5-spots-party.json) |
+| 5 Star Booker | 415778 | [415778-5-star-booker.json](./415778-5-star-booker.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
 | 5 Star Generals | 205960 | [205960-5-star-generals.json](./205960-5-star-generals.json) |
 | 5 Star Hawaii Resort | 338906 | [338906-5-star-hawaii-resort.json](./338906-5-star-hawaii-resort.json) |
@@ -2782,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Ways: Hentai Harem | 337785 | [337785-9-ways-hentai-harem.json](./337785-9-ways-hentai-harem.json) |
 | 9 Years of Dreaming | 337786 | [337786-9-years-of-dreaming.json](./337786-9-years-of-dreaming.json) |
 | 9 Years of Shadows | 143635 | [143635-9-years-of-shadows.json](./143635-9-years-of-shadows.json) |
+| 9 Yin Sutra: Immortal | 415734 | [415734-9-yin-sutra-immortal.json](./415734-9-yin-sutra-immortal.json) |
 | 9-Bit Armies: A Bit Too Far | 273041 | [273041-9-bit-armies-a-bit-too-far.json](./273041-9-bit-armies-a-bit-too-far.json) |
 | 9-Bit Armies: Going Rogue! | 369442 | [369442-9-bit-armies-going-rogue.json](./369442-9-bit-armies-going-rogue.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
