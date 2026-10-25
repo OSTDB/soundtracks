@@ -13256,6 +13256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Mates | 421343 | [421343-sol-mates.json](./421343-sol-mates.json) |
 | Sol Moonarge | 85809 | [85809-sol-moonarge.json](./85809-sol-moonarge.json) |
 | Sol Negro | 78899 | [78899-sol-negro.json](./78899-sol-negro.json) |
+| Sol One | 406523 | [406523-sol-one.json](./406523-sol-one.json) |
 | Sol Protocol | 380566 | [380566-sol-protocol.json](./380566-sol-protocol.json) |
 | Sol Raiders | 188554 | [188554-sol-raiders.json](./188554-sol-raiders.json) |
 | Sol Rush Misadventure | 333710 | [333710-sol-rush-misadventure.json](./333710-sol-rush-misadventure.json) |
@@ -13908,6 +13909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of the Tides | 158172 | [158172-song-of-the-tides.json](./158172-song-of-the-tides.json) |
 | Song of Twilight | 384231 | [384231-song-of-twilight.json](./384231-song-of-twilight.json) |
 | Song of Yellow River | 130952 | [130952-song-of-yellow-river.json](./130952-song-of-yellow-river.json) |
+| Song Quiz | 406788 | [406788-song-quiz.json](./406788-song-quiz.json) |
 | Song Song | 273406 | [273406-song-song.json](./273406-song-song.json) |
 | Song Summoner: The Unsung Heroes | 23042 | [23042-song-summoner-the-unsung-heroes.json](./23042-song-summoner-the-unsung-heroes.json) |
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
@@ -16597,6 +16599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaced | 93176 | [93176-spaced.json](./93176-spaced.json) |
 | Spaced Liberation | 305645 | [305645-spaced-liberation.json](./305645-spaced-liberation.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
+| Spaced Penguin! | 406779 | [406779-spaced-penguin.json](./406779-spaced-penguin.json) |
 | Spacedust Defender | 179410 | [179410-spacedust-defender.json](./179410-spacedust-defender.json) |
 | SpaceDweller | 59864 | [59864-spacedweller.json](./59864-spacedweller.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
@@ -23517,6 +23520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck in the Airport | 357186 | [357186-stuck-in-the-airport.json](./357186-stuck-in-the-airport.json) |
 | Stuck in the Dark | 184359 | [184359-stuck-in-the-dark.json](./184359-stuck-in-the-dark.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
+| Stuck in the Sewers | 406508 | [406508-stuck-in-the-sewers.json](./406508-stuck-in-the-sewers.json) |
 | Stuck Inside | 329404 | [329404-stuck-inside.json](./329404-stuck-inside.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
 | Stuck Together | 159562 | [159562-stuck-together.json](./159562-stuck-together.json) |
