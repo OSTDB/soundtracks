@@ -6952,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Blocks: The Last Rotation | 57742 | [57742-gravity-blocks-the-last-rotation.json](./57742-gravity-blocks-the-last-rotation.json) |
 | Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
+| Gravity Boy! | 407519 | [407519-gravity-boy.json](./407519-gravity-boy.json) |
 | Gravity Brawl | 159056 | [159056-gravity-brawl.json](./159056-gravity-brawl.json) |
 | Gravity Bumpers | 404652 | [404652-gravity-bumpers.json](./404652-gravity-bumpers.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
