@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Kero Keroppi: Uki Uki Party Land | 270162 | [270162-kero-kero-keroppi-uki-uki-party-land.json](./270162-kero-kero-keroppi-uki-uki-party-land.json) |
 | Kero Kero King | 54969 | [54969-kero-kero-king.json](./54969-kero-kero-king.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
+| Kerogen | 399667 | [399667-kerogen.json](./399667-kerogen.json) |
 | Keroppi to Keroriinu no Splash Bomb! | 48441 | [48441-keroppi-to-keroriinu-no-splash-bomb.json](./48441-keroppi-to-keroriinu-no-splash-bomb.json) |
 | Keroro Gunsou: MeroMero Battle Royale | 61422 | [61422-keroro-gunsou-meromero-battle-royale.json](./61422-keroro-gunsou-meromero-battle-royale.json) |
 | Keroro Gunsou: MeroMero Battle Royale Z | 61420 | [61420-keroro-gunsou-meromero-battle-royale-z.json](./61420-keroro-gunsou-meromero-battle-royale-z.json) |
@@ -2310,7 +2311,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
