@@ -2257,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MalOvent | 408536 | [408536-malovent.json](./408536-malovent.json) |
 | Malpiot Horror | 369927 | [369927-malpiot-horror.json](./369927-malpiot-horror.json) |
 | Malpraxis | 389124 | [389124-malpraxis.json](./389124-malpraxis.json) |
+| Malsort | 423900 | [423900-malsort.json](./423900-malsort.json) |
 | Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
 | Maltese Cross | 134418 | [134418-maltese-cross.json](./134418-maltese-cross.json) |
@@ -5943,6 +5944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet me at Noon | 197148 | [197148-meet-me-at-noon.json](./197148-meet-me-at-noon.json) |
 | Meet Me at the Apple Garden | 374608 | [374608-meet-me-at-the-apple-garden.json](./374608-meet-me-at-the-apple-garden.json) |
 | Meet Me at The Workers' Club | 302426 | [302426-meet-me-at-the-workers-club.json](./302426-meet-me-at-the-workers-club.json) |
+| Meet Me in the Well | 423874 | [423874-meet-me-in-the-well.json](./423874-meet-me-in-the-well.json) |
 | Meet Me on the Mountain | 268990 | [268990-meet-me-on-the-mountain.json](./268990-meet-me-on-the-mountain.json) |
 | Meet Media Band | 209533 | [209533-meet-media-band.json](./209533-meet-media-band.json) |
 | Meet My Stepmoms | 376748 | [376748-meet-my-stepmoms.json](./376748-meet-my-stepmoms.json) |
@@ -6773,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
 | Megas XLR: Final Battle | 343395 | [343395-megas-xlr-final-battle.json](./343395-megas-xlr-final-battle.json) |
 | Megashigi Too | 359287 | [359287-megashigi-too.json](./359287-megashigi-too.json) |
+| Megashootsplosion | 423862 | [423862-megashootsplosion.json](./423862-megashootsplosion.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
 | MegaSphere | 34846 | [34846-megasphere.json](./34846-megasphere.json) |
 | Megasuki: Love Through Lenses with Ayumu Sakura | 416598 | [416598-megasuki-love-through-lenses-with-ayumu-sakura.json](./416598-megasuki-love-through-lenses-with-ayumu-sakura.json) |
@@ -11660,6 +11663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mmmmmm | 207138 | [207138-mmmmmm.json](./207138-mmmmmm.json) |
 | MMORPG NPC Simulator | 404197 | [404197-mmorpg-npc-simulator.json](./404197-mmorpg-npc-simulator.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
+| MMOS: MMO Simulator | 423904 | [423904-mmos-mmo-simulator.json](./423904-mmos-mmo-simulator.json) |
 | MMX | 384056 | [384056-mmx.json](./384056-mmx.json) |
 | MMX Hill Dash | 86927 | [86927-mmx-hill-dash.json](./86927-mmx-hill-dash.json) |
 | MMX Hill Dash 2 - Race Offroad | 97262 | [97262-mmx-hill-dash-2-race-offroad.json](./97262-mmx-hill-dash-2-race-offroad.json) |
