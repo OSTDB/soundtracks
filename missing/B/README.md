@@ -7732,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwell Unbound | 9041 | [9041-blackwell-unbound.json](./9041-blackwell-unbound.json) |
 | BlackWhite | 201105 | [201105-blackwhite.json](./201105-blackwhite.json) |
 | Blackwood Division | 373110 | [373110-blackwood-division.json](./373110-blackwood-division.json) |
+| Blackwood: A Sétima Safra | 423896 | [423896-blackwood-a-setima-safra.json](./423896-blackwood-a-setima-safra.json) |
 | Blackwood: Beneath the Silence | 365181 | [365181-blackwood-beneath-the-silence.json](./365181-blackwood-beneath-the-silence.json) |
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
 | Blackwyche | 26250 | [26250-blackwyche.json](./26250-blackwyche.json) |
@@ -9971,6 +9972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
 | Body Harvest: Recompiled | 418633 | [418633-body-harvest-recompiled.json](./418633-body-harvest-recompiled.json) |
 | Body Hiding Simulator | 400689 | [400689-body-hiding-simulator.json](./400689-body-hiding-simulator.json) |
+| Body Kounts | 423863 | [423863-body-kounts.json](./423863-body-kounts.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body of Mine | 302198 | [302198-body-of-mine.json](./302198-body-of-mine.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
