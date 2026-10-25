@@ -9843,6 +9843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins Magus | 198229 | [198229-ruins-magus.json](./198229-ruins-magus.json) |
 | Ruins of Albion | 169148 | [169148-ruins-of-albion.json](./169148-ruins-of-albion.json) |
 | Ruins of Blackspire | 388787 | [388787-ruins-of-blackspire.json](./388787-ruins-of-blackspire.json) |
+| Ruins of Dawn | 413732 | [413732-ruins-of-dawn.json](./413732-ruins-of-dawn.json) |
 | Ruins of Dawnseeker | 318251 | [318251-ruins-of-dawnseeker.json](./318251-ruins-of-dawnseeker.json) |
 | Ruins of Endoth | 310000 | [310000-ruins-of-endoth.json](./310000-ruins-of-endoth.json) |
 | Ruins of Istanbul | 226631 | [226631-ruins-of-istanbul.json](./226631-ruins-of-istanbul.json) |
