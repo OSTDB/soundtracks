@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Supreme Edition | 324369 | [324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json](./324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Throne Edition | 410859 | [410859-s-n-i-p-e-r-hunter-scope-throne-edition.json](./410859-s-n-i-p-e-r-hunter-scope-throne-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Ultimate Firepower | 303881 | [303881-s-n-i-p-e-r-hunter-scope-ultimate-firepower.json](./303881-s-n-i-p-e-r-hunter-scope-ultimate-firepower.json) |
+| S.N.I.P.E.R.: Hunter Scope - Weaponry Upgrade | 404554 | [404554-s-n-i-p-e-r-hunter-scope-weaponry-upgrade.json](./404554-s-n-i-p-e-r-hunter-scope-weaponry-upgrade.json) |
 | S.N.I.P.E.R.: Hunter Scope Hostile Territory | 378966 | [378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json](./378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json) |
 | S.O.L School Of Labyrinth | 412447 | [412447-s-o-l-school-of-labyrinth.json](./412447-s-o-l-school-of-labyrinth.json) |
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
 | Sayonara Wild Hearts | 113107 | [113107-sayonara-wild-hearts.json](./113107-sayonara-wild-hearts.json) |
 | Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
+| Sayonara Wild Hearts + Lorelei and the Laser Eyes Bundle | 404543 | [404543-sayonara-wild-hearts-lorelei-and-the-laser-eyes-bundle.json](./404543-sayonara-wild-hearts-lorelei-and-the-laser-eyes-bundle.json) |
 | Sayonara, Space Rocks | 409424 | [409424-sayonara-space-rocks.json](./409424-sayonara-space-rocks.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
@@ -17946,6 +17948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiraling Snow | 246547 | [246547-spiraling-snow.json](./246547-spiraling-snow.json) |
 | Spire Adventure | 233422 | [233422-spire-adventure.json](./233422-spire-adventure.json) |
 | Spire Blast | 194335 | [194335-spire-blast.json](./194335-spire-blast.json) |
+| Spire Blast: Blastee Costumes Pack 3 | 404542 | [404542-spire-blast-blastee-costumes-pack-3.json](./404542-spire-blast-blastee-costumes-pack-3.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
 | Spire Horizon: Companion Expansion | 259496 | [259496-spire-horizon-companion-expansion.json](./259496-spire-horizon-companion-expansion.json) |
@@ -23748,6 +23751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subespaço | 247355 | [247355-subespaco.json](./247355-subespaco.json) |
 | Subespaço | 247356 | [247356-subespaco.json](./247356-subespaco.json) |
 | Subete wa Oshi no Tame ni!! Josou Shitara Chouzetsu Oshi ni Niteta Ken | 77866 | [77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json](./77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json) |
+| Subfault | 404509 | [404509-subfault.json](./404509-subfault.json) |
 | SubGlobal | 59725 | [59725-subglobal.json](./59725-subglobal.json) |
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
@@ -29106,6 +29110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Drift | 263108 | [263108-sword-drift.json](./263108-sword-drift.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
 | Sword Fishing | 180718 | [180718-sword-fishing.json](./180718-sword-fishing.json) |
+| Sword Flinger | 404518 | [404518-sword-flinger.json](./404518-sword-flinger.json) |
 | Sword Game | 143473 | [143473-sword-game.json](./143473-sword-game.json) |
 | Sword Girls | 64902 | [64902-sword-girls.json](./64902-sword-girls.json) |
 | Sword Hero | 346122 | [346122-sword-hero.json](./346122-sword-hero.json) |
