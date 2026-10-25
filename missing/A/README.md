@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Machine | 100398 | [100398-achievement-machine.json](./100398-achievement-machine.json) |
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achievement Park | 90437 | [90437-achievement-park.json](./90437-achievement-park.json) |
+| Achievement printer part 1 | 93691 | [93691-achievement-printer-part-1.json](./93691-achievement-printer-part-1.json) |
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
 | Achievement Unlocked 2 | 165420 | [165420-achievement-unlocked-2.json](./165420-achievement-unlocked-2.json) |
 | Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
