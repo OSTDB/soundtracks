@@ -9334,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
 | Freaky Flyers | 3918 | [3918-freaky-flyers.json](./3918-freaky-flyers.json) |
 | Freaky Fun | 386914 | [386914-freaky-fun.json](./386914-freaky-fun.json) |
+| Freaky Lab VR | 401383 | [401383-freaky-lab-vr.json](./401383-freaky-lab-vr.json) |
 | Freaky Panties | 262601 | [262601-freaky-panties.json](./262601-freaky-panties.json) |
 | Freaky Racing | 233112 | [233112-freaky-racing.json](./233112-freaky-racing.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
