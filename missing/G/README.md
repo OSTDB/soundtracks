@@ -239,11 +239,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Defense | 285923 | [285923-gachi-defense.json](./285923-gachi-defense.json) |
 | Gachi Dungeon Master | 157470 | [157470-gachi-dungeon-master.json](./157470-gachi-dungeon-master.json) |
 | Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
+| Gachi Heroes | 110694 | [110694-gachi-heroes.json](./110694-gachi-heroes.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
 | Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
 | Gachi: Space Orgasm | 235786 | [235786-gachi-space-orgasm.json](./235786-gachi-space-orgasm.json) |
 | Gachimuchi | 75195 | [75195-gachimuchi.json](./75195-gachimuchi.json) |
 | Gachimuchi Monthly Puzzle | 112761 | [112761-gachimuchi-monthly-puzzle.json](./112761-gachimuchi-monthly-puzzle.json) |
+| Gachimuchi Rebirth | 113652 | [113652-gachimuchi-rebirth.json](./113652-gachimuchi-rebirth.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
 | Gachimuchi: The Card Game | 115583 | [115583-gachimuchi-the-card-game.json](./115583-gachimuchi-the-card-game.json) |
 | Gachinco Tennis S | 222196 | [222196-gachinco-tennis-s.json](./222196-gachinco-tennis-s.json) |
@@ -4705,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin's Expedition | 217014 | [217014-goblins-expedition.json](./217014-goblins-expedition.json) |
 | Goblin's Gamble 24 | 395045 | [395045-goblins-gamble-24.json](./395045-goblins-gamble-24.json) |
 | Goblin's Journey | 240635 | [240635-goblins-journey.json](./240635-goblins-journey.json) |
+| Goblin's Shop | 110690 | [110690-goblins-shop.json](./110690-goblins-shop.json) |
 | Goblin's WAY Jigsaw Challenge | 110198 | [110198-goblins-way-jigsaw-challenge.json](./110198-goblins-way-jigsaw-challenge.json) |
 | Goblin's Workshop | 248168 | [248168-goblins-workshop.json](./248168-goblins-workshop.json) |
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
