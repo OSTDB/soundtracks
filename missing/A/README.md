@@ -3025,7 +3025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -5093,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcoholic Daddy | 337054 | [337054-alcoholic-daddy.json](./337054-alcoholic-daddy.json) |
 | AlcremieStudio | 319561 | [319561-alcremiestudio.json](./319561-alcremiestudio.json) |
 | Alcúdia | 165367 | [165367-alcudia.json](./165367-alcudia.json) |
+| Alcurio | 408572 | [408572-alcurio.json](./408572-alcurio.json) |
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
@@ -7289,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
 | An American Tail: Fievel Goes West | 2308 | [2308-an-american-tail-fievel-goes-west.json](./2308-an-american-tail-fievel-goes-west.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
+| An Angler's Light | 408596 | [408596-an-anglers-light.json](./408596-an-anglers-light.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
 | An Anniversary Dinner | 201985 | [201985-an-anniversary-dinner.json](./201985-an-anniversary-dinner.json) |
 | An Annventure to End Them All | 221774 | [221774-an-annventure-to-end-them-all.json](./221774-an-annventure-to-end-them-all.json) |
@@ -7757,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Rhapsody | 397871 | [397871-angel-rhapsody.json](./397871-angel-rhapsody.json) |
 | Angel Senki | 84334 | [84334-angel-senki.json](./84334-angel-senki.json) |
 | Angel Sex Pet | 158038 | [158038-angel-sex-pet.json](./158038-angel-sex-pet.json) |
+| Angel Shell | 408593 | [408593-angel-shell.json](./408593-angel-shell.json) |
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
 | Angel Squad | 216082 | [216082-angel-squad.json](./216082-angel-squad.json) |
 | Angel Sweet | 261446 | [261446-angel-sweet.json](./261446-angel-sweet.json) |
@@ -7897,6 +7899,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Bounce | 347237 | [347237-angry-birds-bounce.json](./347237-angry-birds-bounce.json) |
 | Angry Birds Breaker | 280802 | [280802-angry-birds-breaker.json](./280802-angry-birds-breaker.json) |
 | Angry Birds Champions | 87865 | [87865-angry-birds-champions.json](./87865-angry-birds-champions.json) |
+| Angry Birds Cheetos | 408769 | [408769-angry-birds-cheetos.json](./408769-angry-birds-cheetos.json) |
+| Angry Birds Cheetos 2 | 408779 | [408779-angry-birds-cheetos-2.json](./408779-angry-birds-cheetos-2.json) |
 | Angry Birds Coca-Cola | 202090 | [202090-angry-birds-coca-cola.json](./202090-angry-birds-coca-cola.json) |
 | Angry Birds Dice | 264224 | [264224-angry-birds-dice.json](./264224-angry-birds-dice.json) |
 | Angry Birds Dice Adventure | 246307 | [246307-angry-birds-dice-adventure.json](./246307-angry-birds-dice-adventure.json) |
@@ -7911,7 +7915,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Fuji TV | 218530 | [218530-angry-birds-fuji-tv.json](./218530-angry-birds-fuji-tv.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
+| Angry Birds Heikki | 408794 | [408794-angry-birds-heikki.json](./408794-angry-birds-heikki.json) |
 | Angry Birds Hot Wheels Smashup | 195093 | [195093-angry-birds-hot-wheels-smashup.json](./195093-angry-birds-hot-wheels-smashup.json) |
+| Angry Birds in Ultrabook Adventure | 408781 | [408781-angry-birds-in-ultrabook-adventure.json](./408781-angry-birds-in-ultrabook-adventure.json) |
 | Angry Birds Kingdom | 240247 | [240247-angry-birds-kingdom.json](./240247-angry-birds-kingdom.json) |
 | Angry Birds Legends | 199980 | [199980-angry-birds-legends.json](./199980-angry-birds-legends.json) |
 | Angry Birds Match | 56590 | [56590-angry-birds-match.json](./56590-angry-birds-match.json) |
@@ -7919,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Matching | 325566 | [325566-angry-birds-matching.json](./325566-angry-birds-matching.json) |
 | Angry Birds McDonald's | 202075 | [202075-angry-birds-mcdonalds.json](./202075-angry-birds-mcdonalds.json) |
 | Angry Birds Opera | 237496 | [237496-angry-birds-opera.json](./237496-angry-birds-opera.json) |
+| Angry Birds Philadelphia Eagles | 408808 | [408808-angry-birds-philadelphia-eagles.json](./408808-angry-birds-philadelphia-eagles.json) |
 | Angry Birds POP 2 | 122716 | [122716-angry-birds-pop-2.json](./122716-angry-birds-pop-2.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
@@ -14462,6 +14469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Racedrome | 54704 | [54704-avatar-racedrome.json](./54704-avatar-racedrome.json) |
 | Avatar Raiders | 190875 | [190875-avatar-raiders.json](./190875-avatar-raiders.json) |
 | Avatar Rockets | 77586 | [77586-avatar-rockets.json](./77586-avatar-rockets.json) |
+| Avatar Rumble | 408573 | [408573-avatar-rumble.json](./408573-avatar-rumble.json) |
 | Avatar Showdown | 144034 | [144034-avatar-showdown.json](./144034-avatar-showdown.json) |
 | Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
 | Avatar Superstar | 20120 | [20120-avatar-superstar.json](./20120-avatar-superstar.json) |
