@@ -7428,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HolyHunt | 241791 | [241791-holyhunt.json](./241791-holyhunt.json) |
 | HolyZone | 311884 | [311884-holyzone.json](./311884-holyzone.json) |
 | Homam: An Inventor's Fist | 369366 | [369366-homam-an-inventors-fist.json](./369366-homam-an-inventors-fist.json) |
+| Homauton | 411301 | [411301-homauton.json](./411301-homauton.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
 | Home | 10142 | [10142-home.json](./10142-home.json) |
 | Home | 116768 | [116768-home.json](./116768-home.json) |
