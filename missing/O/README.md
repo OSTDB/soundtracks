@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Dungeon: Limited Edition | 167007 | [167007-one-more-dungeon-limited-edition.json](./167007-one-more-dungeon-limited-edition.json) |
 | One More Encounter | 298817 | [298817-one-more-encounter.json](./298817-one-more-encounter.json) |
 | One More Experiment | 346576 | [346576-one-more-experiment.json](./346576-one-more-experiment.json) |
+| One More Flight | 424672 | [424672-one-more-flight.json](./424672-one-more-flight.json) |
 | One more game | 152931 | [152931-one-more-game.json](./152931-one-more-game.json) |
 | One More Gate : A Wakfu Legend | 204689 | [204689-one-more-gate-a-wakfu-legend.json](./204689-one-more-gate-a-wakfu-legend.json) |
 | One More Gate: Companion#1 DLC | 289328 | [289328-one-more-gate-companion-1-dlc.json](./289328-one-more-gate-companion-1-dlc.json) |
