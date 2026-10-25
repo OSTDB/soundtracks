@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Reverse | 240158 | [240158-ice-reverse.json](./240158-ice-reverse.json) |
 | Ice River | 374442 | [374442-ice-river.json](./374442-ice-river.json) |
 | Ice Run | 309531 | [309531-ice-run.json](./309531-ice-run.json) |
+| Ice Rush | 87523 | [87523-ice-rush.json](./87523-ice-rush.json) |
 | Ice Scream 3 | 224040 | [224040-ice-scream-3.json](./224040-ice-scream-3.json) |
 | Ice Scream 4: Rod's Factory | 275007 | [275007-ice-scream-4-rods-factory.json](./275007-ice-scream-4-rods-factory.json) |
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
