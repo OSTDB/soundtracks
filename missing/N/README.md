@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
 | Night Shift: Remade | 181792 | [181792-night-shift-remade.json](./181792-night-shift-remade.json) |
 | Night Shift: Something Is Wrong | 417005 | [417005-night-shift-something-is-wrong.json](./417005-night-shift-something-is-wrong.json) |
+| Night Shift: Warehouse | 412015 | [412015-night-shift-warehouse.json](./412015-night-shift-warehouse.json) |
 | Night shot | 116071 | [116071-night-shot.json](./116071-night-shot.json) |
 | Night Shot | 343744 | [343744-night-shot.json](./343744-night-shot.json) |
 | Night Signal | 119740 | [119740-night-signal.json](./119740-night-signal.json) |
@@ -6319,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nursery Curse | 176310 | [176310-nursery-curse.json](./176310-nursery-curse.json) |
 | Nursery Mania | 209014 | [209014-nursery-mania.json](./209014-nursery-mania.json) |
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
+| Nursery Rhyme: Full HD Remaster | 411964 | [411964-nursery-rhyme-full-hd-remaster.json](./411964-nursery-rhyme-full-hd-remaster.json) |
 | Nursery Slime | 195642 | [195642-nursery-slime.json](./195642-nursery-slime.json) |
 | Nurtopu: Fetö ile Mücadele | 204357 | [204357-nurtopu-feto-ile-mucadele.json](./204357-nurtopu-feto-ile-mucadele.json) |
 | Nurtured Human Plan: Meet a Date | 233031 | [233031-nurtured-human-plan-meet-a-date.json](./233031-nurtured-human-plan-meet-a-date.json) |
@@ -6345,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts | 309576 | [309576-nuts.json](./309576-nuts.json) |
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
+| Nuts Pipeline | 411994 | [411994-nuts-pipeline.json](./411994-nuts-pipeline.json) |
 | Nuts Protocol | 207192 | [207192-nuts-protocol.json](./207192-nuts-protocol.json) |
 | Nuts Space Shooter | 201515 | [201515-nuts-space-shooter.json](./201515-nuts-space-shooter.json) |
 | Nuts!: Battle of the Bulge | 33809 | [33809-nuts-battle-of-the-bulge.json](./33809-nuts-battle-of-the-bulge.json) |
