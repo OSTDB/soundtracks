@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
+| Papa Sangre II | 392337 | [392337-papa-sangre-ii.json](./392337-papa-sangre-ii.json) |
 | Papa-Léguas e Coyote | 281881 | [281881-papa-leguas-e-coyote.json](./281881-papa-leguas-e-coyote.json) |
 | Papa-letras | 290083 | [290083-papa-letras.json](./290083-papa-letras.json) |
 | Papa's Bakeria | 101027 | [101027-papas-bakeria.json](./101027-papas-bakeria.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Mania | 275533 | [275533-parcel-mania.json](./275533-parcel-mania.json) |
 | Parcel Packing Simulator | 263994 | [263994-parcel-packing-simulator.json](./263994-parcel-packing-simulator.json) |
 | Parcel Panic | 125093 | [125093-parcel-panic.json](./125093-parcel-panic.json) |
+| Parcel Peaks | 391551 | [391551-parcel-peaks.json](./391551-parcel-peaks.json) |
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
@@ -3074,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
 | Pearl Harbour 2: Day of Infamy | 54255 | [54255-pearl-harbour-2-day-of-infamy.json](./54255-pearl-harbour-2-day-of-infamy.json) |
 | Pearl Jam Live: Rock Band | 68299 | [68299-pearl-jam-live-rock-band.json](./68299-pearl-jam-live-rock-band.json) |
+| Pearl Music | 391989 | [391989-pearl-music.json](./391989-pearl-music.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pearl's Peril | 86803 | [86803-pearls-peril.json](./86803-pearls-peril.json) |
 | Pearlessential | 337732 | [337732-pearlessential.json](./337732-pearlessential.json) |
@@ -6555,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Chess | 416592 | [416592-pixel-chess.json](./416592-pixel-chess.json) |
 | Pixel Chess Idle RPG | 414174 | [414174-pixel-chess-idle-rpg.json](./414174-pixel-chess-idle-rpg.json) |
 | Pixel Chix | 296823 | [296823-pixel-chix.json](./296823-pixel-chix.json) |
+| Pixel Clicker | 392000 | [392000-pixel-clicker.json](./392000-pixel-clicker.json) |
 | Pixel Collector | 312165 | [312165-pixel-collector.json](./312165-pixel-collector.json) |
 | Pixel Colony | 262875 | [262875-pixel-colony.json](./262875-pixel-colony.json) |
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
@@ -8230,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Puzzle:Workshop - Part 3 | 163466 | [163466-pleasure-puzzle-workshop-part-3.json](./163466-pleasure-puzzle-workshop-part-3.json) |
 | Pleasure Puzzle:Workshop - Part 4 | 163469 | [163469-pleasure-puzzle-workshop-part-4.json](./163469-pleasure-puzzle-workshop-part-4.json) |
 | Pleasure Puzzle:Workshop - Part 5 | 163465 | [163465-pleasure-puzzle-workshop-part-5.json](./163465-pleasure-puzzle-workshop-part-5.json) |
+| Pleasure Ran Online | 392332 | [392332-pleasure-ran-online.json](./392332-pleasure-ran-online.json) |
 | Pleasure Sweet Secret | 309737 | [309737-pleasure-sweet-secret.json](./309737-pleasure-sweet-secret.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
@@ -9230,6 +9235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Mega Get! | 59116 | [59116-pokemon-mega-get.json](./59116-pokemon-mega-get.json) |
 | Pokémon Mezastar | 253787 | [253787-pokemon-mezastar.json](./253787-pokemon-mezastar.json) |
+| Pokémon Mini Ambulation | 392331 | [392331-pokemon-mini-ambulation.json](./392331-pokemon-mini-ambulation.json) |
 | Pokémon Mini: Snorlax's Lunch Time | 144721 | [144721-pokemon-mini-snorlaxs-lunch-time.json](./144721-pokemon-mini-snorlaxs-lunch-time.json) |
 | Pokémon Mino | 265214 | [265214-pokemon-mino.json](./265214-pokemon-mino.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
@@ -12967,6 +12973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Delta | 189146 | [189146-project-delta.json](./189146-project-delta.json) |
 | Project Demigod | 153945 | [153945-project-demigod.json](./153945-project-demigod.json) |
 | Project Deniz | 327647 | [327647-project-deniz.json](./327647-project-deniz.json) |
+| Project DevourSlime | 392101 | [392101-project-devourslime.json](./392101-project-devourslime.json) |
 | Project Dew | 215327 | [215327-project-dew.json](./215327-project-dew.json) |
 | Project Diablo 2 | 285285 | [285285-project-diablo-2.json](./285285-project-diablo-2.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
@@ -13425,6 +13432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project; Virai: Doomer's Life Escape | 342758 | [342758-project-virai-doomers-life-escape.json](./342758-project-virai-doomers-life-escape.json) |
 | Project: Aftershock | 390126 | [390126-project-aftershock.json](./390126-project-aftershock.json) |
 | Project: Another Use - Graftage | 374080 | [374080-project-another-use-graftage.json](./374080-project-another-use-graftage.json) |
+| Project: Ascesis | 391530 | [391530-project-ascesis.json](./391530-project-ascesis.json) |
 | Project: Aurora | 155503 | [155503-project-aurora.json](./155503-project-aurora.json) |
 | Project: Bits | 29741 | [29741-project-bits.json](./29741-project-bits.json) |
 | Project: Break//Down | 400524 | [400524-project-break-down.json](./400524-project-break-down.json) |
@@ -13905,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
 | Psychic Idle | 281288 | [281288-psychic-idle.json](./281288-psychic-idle.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
+| Psychic Kung Fu Master | 392086 | [392086-psychic-kung-fu-master.json](./392086-psychic-kung-fu-master.json) |
 | Psychic Shadows | 298799 | [298799-psychic-shadows.json](./298799-psychic-shadows.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
 | Psychic Storm | 37618 | [37618-psychic-storm.json](./37618-psychic-storm.json) |
@@ -13924,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
 | Psycho Fox | 46131 | [46131-psycho-fox.json](./46131-psycho-fox.json) |
+| Psycho Frogo | 391999 | [391999-psycho-frogo.json](./391999-psycho-frogo.json) |
 | Psycho Harrier | 327465 | [327465-psycho-harrier.json](./327465-psycho-harrier.json) |
 | Psycho Hopper | 83405 | [83405-psycho-hopper.json](./83405-psycho-hopper.json) |
 | Psycho Inn | 396477 | [396477-psycho-inn.json](./396477-psycho-inn.json) |
@@ -14522,6 +14532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Chase 80's | 187094 | [187094-pure-chase-80s.json](./187094-pure-chase-80s.json) |
 | Pure Chess: Grandmaster Edition | 82428 | [82428-pure-chess-grandmaster-edition.json](./82428-pure-chess-grandmaster-edition.json) |
 | Pure Crosswords | 199889 | [199889-pure-crosswords.json](./199889-pure-crosswords.json) |
+| Pure Domino | 392016 | [392016-pure-domino.json](./392016-pure-domino.json) |
 | Pure Electric Love "Everyone else!" Ema Sakura | 105976 | [105976-pure-electric-love-everyone-else-ema-sakura.json](./105976-pure-electric-love-everyone-else-ema-sakura.json) |
 | Pure Electric Love "Look at my eyes!" Moe Yamauchi | 105977 | [105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json](./105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json) |
 | Pure Electric Love "What do you want?" Eri Kitami | 105978 | [105978-pure-electric-love-what-do-you-want-eri-kitami.json](./105978-pure-electric-love-what-do-you-want-eri-kitami.json) |
@@ -14637,6 +14648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
 | Purr Pals | 5110 | [5110-purr-pals.json](./5110-purr-pals.json) |
 | Purr Pals Purrfection | 209375 | [209375-purr-pals-purrfection.json](./209375-purr-pals-purrfection.json) |
+| Purr-fect Chef: Cats Can Cook | 391993 | [391993-purr-fect-chef-cats-can-cook.json](./391993-purr-fect-chef-cats-can-cook.json) |
 | Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
 | Purrate Adventure: Volcano Isle | 200382 | [200382-purrate-adventure-volcano-isle.json](./200382-purrate-adventure-volcano-isle.json) |
 | Purrates | 353799 | [353799-purrates.json](./353799-purrates.json) |
