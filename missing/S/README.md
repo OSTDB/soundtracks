@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavengers | 91041 | [91041-scavengers.json](./91041-scavengers.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scawy Game | 414867 | [414867-scawy-game.json](./414867-scawy-game.json) |
+| SCE_2 | 392835 | [392835-sce-2.json](./392835-sce-2.json) |
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
 | Scenario 5B | 171558 | [171558-scenario-5b.json](./171558-scenario-5b.json) |
 | Scene It? 80s | 23790 | [23790-scene-it-80s.json](./23790-scene-it-80s.json) |
@@ -5094,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: The Job Interview | 286475 | [286475-sex-adventures-the-job-interview.json](./286475-sex-adventures-the-job-interview.json) |
 | Sex Adventures: The Job Promotion | 368621 | [368621-sex-adventures-the-job-promotion.json](./368621-sex-adventures-the-job-promotion.json) |
 | Sex Adventures: The Naughty Maid | 226627 | [226627-sex-adventures-the-naughty-maid.json](./226627-sex-adventures-the-naughty-maid.json) |
+| Sex Adventures: The Office Slut | 392976 | [392976-sex-adventures-the-office-slut.json](./392976-sex-adventures-the-office-slut.json) |
 | Sex Adventures: The Pool Party | 213459 | [213459-sex-adventures-the-pool-party.json](./213459-sex-adventures-the-pool-party.json) |
 | Sex Adventures: The Secret Club | 286472 | [286472-sex-adventures-the-secret-club.json](./286472-sex-adventures-the-secret-club.json) |
 | Sex Adventures: Vampire Express Train | 224966 | [224966-sex-adventures-vampire-express-train.json](./224966-sex-adventures-vampire-express-train.json) |
@@ -7312,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmoup | 283533 | [283533-shmoup.json](./283533-shmoup.json) |
 | Shmoupity Shmoup | 316493 | [316493-shmoupity-shmoup.json](./316493-shmoupity-shmoup.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
+| SHMUP | 393007 | [393007-shmup.json](./393007-shmup.json) |
 | Shmup Ball | 186052 | [186052-shmup-ball.json](./186052-shmup-ball.json) |
 | Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
 | Shmup Collection | 133583 | [133583-shmup-collection.json](./133583-shmup-collection.json) |
@@ -14947,6 +14950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sopwith: The Author's Edition | 73126 | [73126-sopwith-the-authors-edition.json](./73126-sopwith-the-authors-edition.json) |
 | Sor.Op: Dark Shades | 355883 | [355883-sor-op-dark-shades.json](./355883-sor-op-dark-shades.json) |
 | Sora | 18569 | [18569-sora.json](./18569-sora.json) |
+| Sora ni Kizanda Parallelogram | 392973 | [392973-sora-ni-kizanda-parallelogram.json](./392973-sora-ni-kizanda-parallelogram.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
 | Sora no Fudousan | 112523 | [112523-sora-no-fudousan.json](./112523-sora-no-fudousan.json) |
 | Sora no Hiraketa Basho | 411403 | [411403-sora-no-hiraketa-basho.json](./411403-sora-no-hiraketa-basho.json) |
@@ -16026,6 +16030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Grunts: Chrono Shard | 345099 | [345099-space-grunts-chrono-shard.json](./345099-space-grunts-chrono-shard.json) |
 | Space Guard | 78613 | [78613-space-guard.json](./78613-space-guard.json) |
 | Space Guardian | 246777 | [246777-space-guardian.json](./246777-space-guardian.json) |
+| Space Guerilla | 392974 | [392974-space-guerilla.json](./392974-space-guerilla.json) |
 | Space Gun | 12856 | [12856-space-gun.json](./12856-space-gun.json) |
 | Space Gun | 272928 | [272928-space-gun.json](./272928-space-gun.json) |
 | Space Hack | 17680 | [17680-space-hack.json](./17680-space-hack.json) |
@@ -21336,6 +21341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Operative Syn: Virtual Training | 406221 | [406221-stealth-operative-syn-virtual-training.json](./406221-stealth-operative-syn-virtual-training.json) |
 | Stealth Prankster | 180126 | [180126-stealth-prankster.json](./180126-stealth-prankster.json) |
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
+| Stealth Runner | 392836 | [392836-stealth-runner.json](./392836-stealth-runner.json) |
 | Stealth Strike | 333577 | [333577-stealth-strike.json](./333577-stealth-strike.json) |
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
