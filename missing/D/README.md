@@ -1159,7 +1159,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Chinese Chess Online | 89799 | [89799-dark-chinese-chess-online.json](./89799-dark-chinese-chess-online.json) |
 | Dark Chronicles: The Soul Reaver | 156934 | [156934-dark-chronicles-the-soul-reaver.json](./156934-dark-chronicles-the-soul-reaver.json) |
 | Dark City Trouble Nights | 266817 | [266817-dark-city-trouble-nights.json](./266817-dark-city-trouble-nights.json) |
+| Dark City: Amsterdam | 397181 | [397181-dark-city-amsterdam.json](./397181-dark-city-amsterdam.json) |
 | Dark City: Amsterdam Collector's Edition | 337180 | [337180-dark-city-amsterdam-collectors-edition.json](./337180-dark-city-amsterdam-collectors-edition.json) |
+| Dark City: Barcelona | 397182 | [397182-dark-city-barcelona.json](./397182-dark-city-barcelona.json) |
 | Dark City: Barcelona Collector's Edition | 362832 | [362832-dark-city-barcelona-collectors-edition.json](./362832-dark-city-barcelona-collectors-edition.json) |
 | Dark City: Budapest | 397157 | [397157-dark-city-budapest.json](./397157-dark-city-budapest.json) |
 | Dark City: Budapest - Collector's Edition | 397158 | [397158-dark-city-budapest-collectors-edition.json](./397158-dark-city-budapest-collectors-edition.json) |
@@ -2751,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
 | Dead by Daylight: A Nightmare on Elm Street | 76226 | [76226-dead-by-daylight-a-nightmare-on-elm-street.json](./76226-dead-by-daylight-a-nightmare-on-elm-street.json) |
 | Dead by Daylight: Alien Chapter Pack | 263939 | [263939-dead-by-daylight-alien-chapter-pack.json](./263939-dead-by-daylight-alien-chapter-pack.json) |
+| Dead by Daylight: All Kill - Comeback | 397275 | [397275-dead-by-daylight-all-kill-comeback.json](./397275-dead-by-daylight-all-kill-comeback.json) |
 | Dead by Daylight: All Things Wicked Chapter | 290845 | [290845-dead-by-daylight-all-things-wicked-chapter.json](./290845-dead-by-daylight-all-things-wicked-chapter.json) |
 | Dead by Daylight: All-Kill Chapter | 154346 | [154346-dead-by-daylight-all-kill-chapter.json](./154346-dead-by-daylight-all-kill-chapter.json) |
 | Dead by Daylight: Ash vs Evil Dead | 129475 | [129475-dead-by-daylight-ash-vs-evil-dead.json](./129475-dead-by-daylight-ash-vs-evil-dead.json) |
@@ -3519,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dealer's Choice | 350175 | [350175-dealers-choice.json](./350175-dealers-choice.json) |
 | Dealer's Choice Collection | 73513 | [73513-dealers-choice-collection.json](./73513-dealers-choice-collection.json) |
 | Dealer's Dice | 410091 | [410091-dealers-dice.json](./410091-dealers-dice.json) |
+| Dealer's Doom | 397278 | [397278-dealers-doom.json](./397278-dealers-doom.json) |
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
 | Dealer's Life 2 | 139339 | [139339-dealers-life-2.json](./139339-dealers-life-2.json) |
 | Dealey Plaza Paintball | 59863 | [59863-dealey-plaza-paintball.json](./59863-dealey-plaza-paintball.json) |
