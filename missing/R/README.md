@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RagingFist | 181012 | [181012-ragingfist.json](./181012-ragingfist.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
 | Ragna-Block | 97984 | [97984-ragna-block.json](./97984-ragna-block.json) |
+| RagnaCook: Co-op Viking Kitchen | 391544 | [391544-ragnacook-co-op-viking-kitchen.json](./391544-ragnacook-co-op-viking-kitchen.json) |
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | RagnaQuest | 108896 | [108896-ragnaquest.json](./108896-ragnaquest.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE: Prince of Nigeria | 126001 | [126001-re-prince-of-nigeria.json](./126001-re-prince-of-nigeria.json) |
 | Re: Rem Plus | 108843 | [108843-re-rem-plus.json](./108843-re-rem-plus.json) |
 | Re: Rem Plus | 231787 | [231787-re-rem-plus.json](./231787-re-rem-plus.json) |
+| Re: Spin. Die. Repeat. | 392073 | [392073-re-spin-die-repeat.json](./392073-re-spin-die-repeat.json) |
 | Re: Survivor | 193430 | [193430-re-survivor.json](./193430-re-survivor.json) |
 | Re: Tree of Savior | 174808 | [174808-re-tree-of-savior.json](./174808-re-tree-of-savior.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
@@ -3277,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Nose Guy Gauntlet Inc.: The Burnout | 371328 | [371328-red-nose-guy-gauntlet-inc-the-burnout.json](./371328-red-nose-guy-gauntlet-inc-the-burnout.json) |
 | Red Nose Guy Suika | 280326 | [280326-red-nose-guy-suika.json](./280326-red-nose-guy-suika.json) |
 | Red November | 94031 | [94031-red-november.json](./94031-red-november.json) |
+| Red Oath: The Forsaken One | 391528 | [391528-red-oath-the-forsaken-one.json](./391528-red-oath-the-forsaken-one.json) |
 | Red Obsidian Remnant | 29070 | [29070-red-obsidian-remnant.json](./29070-red-obsidian-remnant.json) |
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
 | Red Ops: The First Infection | 253860 | [253860-red-ops-the-first-infection.json](./253860-red-ops-the-first-infection.json) |
@@ -4622,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Outbreak File #2 | 973 | [973-resident-evil-outbreak-file-2.json](./973-resident-evil-outbreak-file-2.json) |
 | Resident Evil Re:Verse | 142740 | [142740-resident-evil-re-verse.json](./142740-resident-evil-re-verse.json) |
 | Resident Evil Requiem: Deluxe Kit | 378871 | [378871-resident-evil-requiem-deluxe-kit.json](./378871-resident-evil-requiem-deluxe-kit.json) |
+| Resident Evil Requiem: Grace's Costume - Apocalypse | 392092 | [392092-resident-evil-requiem-graces-costume-apocalypse.json](./392092-resident-evil-requiem-graces-costume-apocalypse.json) |
 | Resident Evil Requiem: Lenticular Edition | 392779 | [392779-resident-evil-requiem-lenticular-edition.json](./392779-resident-evil-requiem-lenticular-edition.json) |
 | Resident Evil Requiem: Leon Must Die Forever | 400876 | [400876-resident-evil-requiem-leon-must-die-forever.json](./400876-resident-evil-requiem-leon-must-die-forever.json) |
 | Resident Evil Resistance | 122108 | [122108-resident-evil-resistance.json](./122108-resident-evil-resistance.json) |
@@ -5330,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revengers | 220626 | [220626-revengers.json](./220626-revengers.json) |
 | Revengers of Vengeance | 46411 | [46411-revengers-of-vengeance.json](./46411-revengers-of-vengeance.json) |
 | Revenggie | 412308 | [412308-revenggie.json](./412308-revenggie.json) |
+| Reveniev: A Day in Nassiriyah | 391978 | [391978-reveniev-a-day-in-nassiriyah.json](./391978-reveniev-a-day-in-nassiriyah.json) |
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Revenot | 144225 | [144225-revenot.json](./144225-revenot.json) |
 | Rever dun Manege | 118211 | [118211-rever-dun-manege.json](./118211-rever-dun-manege.json) |
@@ -6742,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
 | Ritual: Crown of Horns | 117897 | [117897-ritual-crown-of-horns.json](./117897-ritual-crown-of-horns.json) |
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
+| Ritualist | 392001 | [392001-ritualist.json](./392001-ritualist.json) |
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
 | RitualRX | 346188 | [346188-ritualrx.json](./346188-ritualrx.json) |
 | Rituals | 27264 | [27264-rituals.json](./27264-rituals.json) |
@@ -7034,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Vegas | 123402 | [123402-road-to-vegas.json](./123402-road-to-vegas.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
 | Road to Wealth | 348873 | [348873-road-to-wealth.json](./348873-road-to-wealth.json) |
+| Road to Yvhalon | 392068 | [392068-road-to-yvhalon.json](./392068-road-to-yvhalon.json) |
 | Road Toad | 290485 | [290485-road-toad.json](./290485-road-toad.json) |
 | Road Toads | 333135 | [333135-road-toads.json](./333135-road-toads.json) |
 | Road Trip | 166458 | [166458-road-trip.json](./166458-road-trip.json) |
@@ -8127,6 +8134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky & Bullwinkle | 20780 | [20780-rocky-and-bullwinkle.json](./20780-rocky-and-bullwinkle.json) |
 | Rocky & Co | 271686 | [271686-rocky-and-co.json](./271686-rocky-and-co.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
+| Rocky Idle | 391524 | [391524-rocky-idle.json](./391524-rocky-idle.json) |
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
 | Rocky Mayhem | 157103 | [157103-rocky-mayhem.json](./157103-rocky-mayhem.json) |
 | Rocky Memphis and the Temple of Ophuxoff | 65773 | [65773-rocky-memphis-and-the-temple-of-ophuxoff.json](./65773-rocky-memphis-and-the-temple-of-ophuxoff.json) |
@@ -8154,6 +8162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocpain: Rock Paper Scissors | 226366 | [226366-rocpain-rock-paper-scissors.json](./226366-rocpain-rock-paper-scissors.json) |
 | Rod & Ripple | 343223 | [343223-rod-and-ripple.json](./343223-rod-and-ripple.json) |
 | Rod Multiplayer Car Driving | 226146 | [226146-rod-multiplayer-car-driving.json](./226146-rod-multiplayer-car-driving.json) |
+| Rod of Asclepius | 392006 | [392006-rod-of-asclepius.json](./392006-rod-of-asclepius.json) |
 | Rod Roll | 329102 | [329102-rod-roll.json](./329102-rod-roll.json) |
 | Rod-Land | 292796 | [292796-rod-land.json](./292796-rod-land.json) |
 | Rod-Land | 293157 | [293157-rod-land.json](./293157-rod-land.json) |
@@ -8420,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguecraft GB | 391265 | [391265-roguecraft-gb.json](./391265-roguecraft-gb.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | RogueDiceR | 383664 | [383664-roguedicer.json](./383664-roguedicer.json) |
+| Roguefall | 392014 | [392014-roguefall.json](./392014-roguefall.json) |
 | Rogueflite Extraction | 418314 | [418314-rogueflite-extraction.json](./418314-rogueflite-extraction.json) |
 | Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
 | Roguegg: Hardboiled Survivors | 390798 | [390798-roguegg-hardboiled-survivors.json](./390798-roguegg-hardboiled-survivors.json) |
@@ -8562,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollaround | 13029 | [13029-rollaround.json](./13029-rollaround.json) |
 | Rollback | 149366 | [149366-rollback.json](./149366-rollback.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
+| Rollbound | 392095 | [392095-rollbound.json](./392095-rollbound.json) |
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
 | Rollcage: Limited Edition | 43736 | [43736-rollcage-limited-edition.json](./43736-rollcage-limited-edition.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
@@ -8841,6 +8852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing SaGa Re;UniverSe | 109593 | [109593-romancing-saga-re-universe.json](./109593-romancing-saga-re-universe.json) |
 | Romancing SaGa: Minstrel Song Remastered | 203315 | [203315-romancing-saga-minstrel-song-remastered.json](./203315-romancing-saga-minstrel-song-remastered.json) |
+| Romancing SaGa: Minstrel Song Remastered International Special Edition | 391997 | [391997-romancing-saga-minstrel-song-remastered-international-special-edition.json](./391997-romancing-saga-minstrel-song-remastered-international-special-edition.json) |
 | Romancing the Kingdom | 224775 | [224775-romancing-the-kingdom.json](./224775-romancing-the-kingdom.json) |
 | Romania Prop Hunt | 324291 | [324291-romania-prop-hunt.json](./324291-romania-prop-hunt.json) |
 | Romanizer | 304569 | [304569-romanizer.json](./304569-romanizer.json) |
@@ -10314,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
 | Runers | 10801 | [10801-runers.json](./10801-runers.json) |
 | Runes | 82009 | [82009-runes.json](./82009-runes.json) |
+| Runes & Revenue | 392069 | [392069-runes-and-revenue.json](./392069-runes-and-revenue.json) |
 | Runes Magica | 197541 | [197541-runes-magica.json](./197541-runes-magica.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
 | Runes of Avalon | 25538 | [25538-runes-of-avalon.json](./25538-runes-of-avalon.json) |
