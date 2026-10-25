@@ -5503,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Attack | 214103 | [214103-mecha-attack.json](./214103-mecha-attack.json) |
 | Mecha Destruction | 157944 | [157944-mecha-destruction.json](./157944-mecha-destruction.json) |
 | Mecha Domination | 304957 | [304957-mecha-domination.json](./304957-mecha-domination.json) |
+| Mecha Dress Up Game | 409369 | [409369-mecha-dress-up-game.json](./409369-mecha-dress-up-game.json) |
 | Mecha Genesis: Tactics | 183253 | [183253-mecha-genesis-tactics.json](./183253-mecha-genesis-tactics.json) |
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare | 125202 | [125202-mecha-knights-nightmare.json](./125202-mecha-knights-nightmare.json) |
@@ -12883,6 +12884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
 | Monster Home | 263987 | [263987-monster-home.json](./263987-monster-home.json) |
 | Monster Hospital - Kids Game | 90368 | [90368-monster-hospital-kids-game.json](./90368-monster-hospital-kids-game.json) |
+| Monster Host Club | 409347 | [409347-monster-host-club.json](./409347-monster-host-club.json) |
 | Monster House | 112156 | [112156-monster-house.json](./112156-monster-house.json) |
 | Monster House | 4018 | [4018-monster-house.json](./4018-monster-house.json) |
 | Monster House Racing | 376708 | [376708-monster-house-racing.json](./376708-monster-house-racing.json) |
@@ -16631,6 +16633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Father's House | 265318 | [265318-my-fathers-house.json](./265318-my-fathers-house.json) |
 | My Father's Secret | 170351 | [170351-my-fathers-secret.json](./170351-my-fathers-secret.json) |
+| My Fav Chill Streamer Dies a Million Times | 409387 | [409387-my-fav-chill-streamer-dies-a-million-times.json](./409387-my-fav-chill-streamer-dies-a-million-times.json) |
 | My Favorite Doll | 290328 | [290328-my-favorite-doll.json](./290328-my-favorite-doll.json) |
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
 | My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
