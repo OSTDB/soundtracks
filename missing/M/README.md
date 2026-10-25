@@ -14893,6 +14893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Trophy | 59057 | [59057-mouse-trophy.json](./59057-mouse-trophy.json) |
 | Mouse Wants Cheese | 261308 | [261308-mouse-wants-cheese.json](./261308-mouse-wants-cheese.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
+| Mouse: P.I. For Hire Story DLC | 401468 | [401468-mouse-p-i-for-hire-story-dlc.json](./401468-mouse-p-i-for-hire-story-dlc.json) |
 | MouseBot | 112062 | [112062-mousebot.json](./112062-mousebot.json) |
 | MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
 | Mousebound | 139290 | [139290-mousebound.json](./139290-mousebound.json) |
