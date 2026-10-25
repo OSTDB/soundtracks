@@ -3363,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin-kun Gira-Gira Wars | 54924 | [54924-penguin-kun-gira-gira-wars.json](./54924-penguin-kun-gira-gira-wars.json) |
 | Penguin-kun Wars | 39396 | [39396-penguin-kun-wars.json](./39396-penguin-kun-wars.json) |
 | Penguin: Sokoban Adventure | 313459 | [313459-penguin-sokoban-adventure.json](./313459-penguin-sokoban-adventure.json) |
+| Penguin's ArcticDex | 405899 | [405899-penguins-arcticdex.json](./405899-penguins-arcticdex.json) |
 | Penguin's Love | 361639 | [361639-penguins-love.json](./361639-penguins-love.json) |
 | Penguin's Road | 304822 | [304822-penguins-road.json](./304822-penguins-road.json) |
 | PenguinLinks v2 | 253268 | [253268-penguinlinks-v2.json](./253268-penguinlinks-v2.json) |
@@ -6502,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
 | Pixel Become Human: The Hostage | 411552 | [411552-pixel-become-human-the-hostage.json](./411552-pixel-become-human-the-hostage.json) |
 | Pixel Beef Battle | 96619 | [96619-pixel-beef-battle.json](./96619-pixel-beef-battle.json) |
+| Pixel Blaster DX | 405916 | [405916-pixel-blaster-dx.json](./405916-pixel-blaster-dx.json) |
 | Pixel Blitz - Impossible Runner | 86913 | [86913-pixel-blitz-impossible-runner.json](./86913-pixel-blitz-impossible-runner.json) |
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
 | Pixel Boat Rush | 91110 | [91110-pixel-boat-rush.json](./91110-pixel-boat-rush.json) |
@@ -9064,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
 | Pokémon Electronic Battle Arena | 198862 | [198862-pokemon-electronic-battle-arena.json](./198862-pokemon-electronic-battle-arena.json) |
 | Pokémon Elite Redux | 261954 | [261954-pokemon-elite-redux.json](./261954-pokemon-elite-redux.json) |
+| Pokemon Emerald Azure | 405893 | [405893-pokemon-emerald-azure.json](./405893-pokemon-emerald-azure.json) |
 | Pokémon Emerald BR Deluxe | 335433 | [335433-pokemon-emerald-br-deluxe.json](./335433-pokemon-emerald-br-deluxe.json) |
 | Pokémon Emerald Crest | 267421 | [267421-pokemon-emerald-crest.json](./267421-pokemon-emerald-crest.json) |
 | Pokémon Emerald Cross | 301933 | [301933-pokemon-emerald-cross.json](./301933-pokemon-emerald-cross.json) |
