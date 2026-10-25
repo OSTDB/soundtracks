@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Dodger 3D | 256355 | [256355-real-dodger-3d.json](./256355-real-dodger-3d.json) |
 | Real Drags | 24992 | [24992-real-drags.json](./24992-real-drags.json) |
 | Real Drift | 89963 | [89963-real-drift.json](./89963-real-drift.json) |
+| Real Drift Car Racing | 60308 | [60308-real-drift-car-racing.json](./60308-real-drift-car-racing.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
 | Real Drift Multiplayer 2 | 265586 | [265586-real-drift-multiplayer-2.json](./265586-real-drift-multiplayer-2.json) |
 | Real Drift Racing | 119444 | [119444-real-drift-racing.json](./119444-real-drift-racing.json) |
@@ -2780,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | ReBlade: The Death Spiral | 387145 | [387145-reblade-the-death-spiral.json](./387145-reblade-the-death-spiral.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
+| Reboant: Rise of the Nuhort | 75519 | [75519-reboant-rise-of-the-nuhort.json](./75519-reboant-rise-of-the-nuhort.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
 | Rebons | 68890 | [68890-rebons.json](./68890-rebons.json) |
 | Rebooker | 377415 | [377415-rebooker.json](./377415-rebooker.json) |
