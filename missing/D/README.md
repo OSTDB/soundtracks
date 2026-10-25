@@ -3145,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Some Day | 33155 | [33155-dead-some-day.json](./33155-dead-some-day.json) |
 | Dead Soul Tower Defense: Shadow Labyrinth | 357839 | [357839-dead-soul-tower-defense-shadow-labyrinth.json](./357839-dead-soul-tower-defense-shadow-labyrinth.json) |
 | Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
+| Dead Space | 420186 | [420186-dead-space.json](./420186-dead-space.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
 | Dead Space 2: Limited Edition | 44613 | [44613-dead-space-2-limited-edition.json](./44613-dead-space-2-limited-edition.json) |
 | Dead Space 2: Severed | 20440 | [20440-dead-space-2-severed.json](./20440-dead-space-2-severed.json) |
@@ -13149,6 +13150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer Series: Top Model | 69105 | [69105-dreamer-series-top-model.json](./69105-dreamer-series-top-model.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamer's Canal | 383143 | [383143-dreamers-canal.json](./383143-dreamers-canal.json) |
+| Dreamer's Wake | 420170 | [420170-dreamers-wake.json](./420170-dreamers-wake.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
 | Dreamers: A Nostalgic Adventure | 274441 | [274441-dreamers-a-nostalgic-adventure.json](./274441-dreamers-a-nostalgic-adventure.json) |
@@ -14851,6 +14853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Astaroth | 293976 | [293976-dungeon-of-astaroth.json](./293976-dungeon-of-astaroth.json) |
 | Dungeon of Choices | 178859 | [178859-dungeon-of-choices.json](./178859-dungeon-of-choices.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
+| Dungeon of Distrust | 420204 | [420204-dungeon-of-distrust.json](./420204-dungeon-of-distrust.json) |
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
 | Dungeon Of Dragon Knight Remake | 412556 | [412556-dungeon-of-dragon-knight-remake.json](./412556-dungeon-of-dragon-knight-remake.json) |
