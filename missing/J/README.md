@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Mambo | 101268 | [101268-john-mambo.json](./101268-john-mambo.json) |
 | John Novak | 270552 | [270552-john-novak.json](./270552-john-novak.json) |
 | John Parkour | 345254 | [345254-john-parkour.json](./345254-john-parkour.json) |
+| John the Zombie | 75333 | [75333-john-the-zombie.json](./75333-john-the-zombie.json) |
 | John Tiller's Campaign Series | 129544 | [129544-john-tillers-campaign-series.json](./129544-john-tillers-campaign-series.json) |
 | John Wheel Memorial | 269568 | [269568-john-wheel-memorial.json](./269568-john-wheel-memorial.json) |
 | John Wick | 143750 | [143750-john-wick.json](./143750-john-wick.json) |
@@ -2682,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
 | Jump Generation | 74995 | [74995-jump-generation.json](./74995-jump-generation.json) |
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
+| Jump Gunners | 75296 | [75296-jump-gunners.json](./75296-jump-gunners.json) |
 | Jump Heading | 206555 | [206555-jump-heading.json](./206555-jump-heading.json) |
 | Jump Heat | 391104 | [391104-jump-heat.json](./391104-jump-heat.json) |
 | Jump Hero | 137956 | [137956-jump-hero.json](./137956-jump-hero.json) |
