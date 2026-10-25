@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Battle Spirit Link | 107742 | [107742-card-battle-spirit-link.json](./107742-card-battle-spirit-link.json) |
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
+| Card Brawl | 113712 | [113712-card-brawl.json](./113712-card-brawl.json) |
 | Card Brawl: Dungeon Slayer | 233395 | [233395-card-brawl-dungeon-slayer.json](./233395-card-brawl-dungeon-slayer.json) |
 | Card Captor Sakura: Sakura Card-hen - Sakura Card to Tomodachi | 49518 | [49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json](./49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json) |
 | Card Captor Sakura: Sakura to Fushigi na Clow Card | 37523 | [37523-card-captor-sakura-sakura-to-fushigi-na-clow-card.json](./37523-card-captor-sakura-sakura-to-fushigi-na-clow-card.json) |
