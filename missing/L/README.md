@@ -4797,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Dentist | 351702 | [351702-little-dentist.json](./351702-little-dentist.json) |
 | Little Desktop Runner | 385833 | [385833-little-desktop-runner.json](./385833-little-desktop-runner.json) |
 | Little Deviants | 20736 | [20736-little-deviants.json](./20736-little-deviants.json) |
+| Little Devil | 402144 | [402144-little-devil.json](./402144-little-devil.json) |
 | Little Devil Inside | 9687 | [9687-little-devil-inside.json](./9687-little-devil-inside.json) |
 | Little Devil: Foster Mayhem | 261970 | [261970-little-devil-foster-mayhem.json](./261970-little-devil-foster-mayhem.json) |
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
