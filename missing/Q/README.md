@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quandary | 336585 | [336585-quandary.json](./336585-quandary.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
 | Quando fuori piove | 287355 | [287355-quando-fuori-piove.json](./287355-quando-fuori-piove.json) |
+| Quanect | 76527 | [76527-quanect.json](./76527-quanect.json) |
 | Quanero | 32194 | [32194-quanero.json](./32194-quanero.json) |
 | Quanero 2 - System Release | 83817 | [83817-quanero-2-system-release.json](./83817-quanero-2-system-release.json) |
 | Quánmín Wángzhě | 82037 | [82037-quanmin-wangzhe.json](./82037-quanmin-wangzhe.json) |
