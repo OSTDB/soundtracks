@@ -12577,6 +12577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Party 2 | 38716 | [38716-snowboard-party-2.json](./38716-snowboard-party-2.json) |
 | Snowboard Party World Tour Pro | 88189 | [88189-snowboard-party-world-tour-pro.json](./88189-snowboard-party-world-tour-pro.json) |
 | Snowboard Party: Aspen | 86954 | [86954-snowboard-party-aspen.json](./86954-snowboard-party-aspen.json) |
+| Snowboard Riot | 20477 | [20477-snowboard-riot.json](./20477-snowboard-riot.json) |
 | Snowboard Stunts | 387732 | [387732-snowboard-stunts.json](./387732-snowboard-stunts.json) |
 | Snowboard Xtreme | 85384 | [85384-snowboard-xtreme.json](./85384-snowboard-xtreme.json) |
 | Snowboarder MP | 247189 | [247189-snowboarder-mp.json](./247189-snowboarder-mp.json) |
@@ -21418,6 +21419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Horizon | 108185 | [108185-stellar-horizon.json](./108185-stellar-horizon.json) |
 | Stellar Howl: Galactic Repairs | 417368 | [417368-stellar-howl-galactic-repairs.json](./417368-stellar-howl-galactic-repairs.json) |
 | Stellar Hunter | 141567 | [141567-stellar-hunter.json](./141567-stellar-hunter.json) |
+| Stellar Impact | 16342 | [16342-stellar-impact.json](./16342-stellar-impact.json) |
 | Stellar Impact: Artillery Ship | 162582 | [162582-stellar-impact-artillery-ship.json](./162582-stellar-impact-artillery-ship.json) |
 | Stellar Impact: Carrier Ship | 162580 | [162580-stellar-impact-carrier-ship.json](./162580-stellar-impact-carrier-ship.json) |
 | Stellar Impact: Science Vessel | 162581 | [162581-stellar-impact-science-vessel.json](./162581-stellar-impact-science-vessel.json) |
