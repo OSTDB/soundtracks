@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni II: Innin Densetsu | 63371 | [63371-oni-ii-innin-densetsu.json](./63371-oni-ii-innin-densetsu.json) |
 | Oni III: Kuro no Hakaishin | 63372 | [63372-oni-iii-kuro-no-hakaishin.json](./63372-oni-iii-kuro-no-hakaishin.json) |
 | Oni IV: Kishin no Ketsuzoku | 63370 | [63370-oni-iv-kishin-no-ketsuzoku.json](./63370-oni-iv-kishin-no-ketsuzoku.json) |
+| Oni no Kamen | 393433 | [393433-oni-no-kamen.json](./393433-oni-no-kamen.json) |
 | Oni No Kenkyuushitsu | 286761 | [286761-oni-no-kenkyuushitsu.json](./286761-oni-no-kenkyuushitsu.json) |
 | Oni no Moribito | 355201 | [355201-oni-no-moribito.json](./355201-oni-no-moribito.json) |
 | Oni no Yakata | 286759 | [286759-oni-no-yakata.json](./286759-oni-no-yakata.json) |
@@ -3616,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OS:Memories | 203179 | [203179-os-memories.json](./203179-os-memories.json) |
 | OS:Path | 97084 | [97084-os-path.json](./97084-os-path.json) |
 | OS95 Plus! | 389500 | [389500-os95-plus.json](./389500-os95-plus.json) |
+| Osaka Kowloonjo | 394451 | [394451-osaka-kowloonjo.json](./394451-osaka-kowloonjo.json) |
 | Osaka's Dream | 325667 | [325667-osakas-dream.json](./325667-osakas-dream.json) |
 | Osakabe | 159144 | [159144-osakabe.json](./159144-osakabe.json) |
 | Osananajimi no Onee-chan wa Senzoku Maid!: Natsuyasumi Dousei Seikatsu | 280643 | [280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json](./280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json) |
