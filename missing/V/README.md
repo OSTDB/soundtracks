@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorian Admirals: Marianas Incident 1887 | 58293 | [58293-victorian-admirals-marianas-incident-1887.json](./58293-victorian-admirals-marianas-incident-1887.json) |
 | Victorian Admirals: Panama Crisis 1885 | 58291 | [58291-victorian-admirals-panama-crisis-1885.json](./58291-victorian-admirals-panama-crisis-1885.json) |
 | Victorian Admirals: Samoan Crisis 1889 | 58289 | [58289-victorian-admirals-samoan-crisis-1889.json](./58289-victorian-admirals-samoan-crisis-1889.json) |
+| Victorian BMX: Death on Wheels | 397134 | [397134-victorian-bmx-death-on-wheels.json](./397134-victorian-bmx-death-on-wheels.json) |
 | Victorian Deathbed Simulator | 331354 | [331354-victorian-deathbed-simulator.json](./331354-victorian-deathbed-simulator.json) |
 | Victorian Mysteries: The Yellow Room | 120009 | [120009-victorian-mysteries-the-yellow-room.json](./120009-victorian-mysteries-the-yellow-room.json) |
 | Victoriana - Steampunk Text Adventure | 123965 | [123965-victoriana-steampunk-text-adventure.json](./123965-victoriana-steampunk-text-adventure.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Boxing Champion Edition | 43728 | [43728-victory-boxing-champion-edition.json](./43728-victory-boxing-champion-edition.json) |
 | Victory Bubbles | 106662 | [106662-victory-bubbles.json](./106662-victory-bubbles.json) |
 | Victory Day | 226742 | [226742-victory-day.json](./226742-victory-day.json) |
+| Victory Garden | 397194 | [397194-victory-garden.json](./397194-victory-garden.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
 | Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
