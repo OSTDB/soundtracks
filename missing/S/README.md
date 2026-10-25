@@ -6598,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shienryu | 92074 | [92074-shienryu.json](./92074-shienryu.json) |
 | Shieven | 330376 | [330376-shieven.json](./330376-shieven.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
+| Shift | 32446 | [32446-shift.json](./32446-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift 2 | 273276 | [273276-shift-2.json](./273276-shift-2.json) |
 | Shift 247 | 94411 | [94411-shift-247.json](./94411-shift-247.json) |
@@ -8984,6 +8985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple 500 Series Vol. 3: The Misshitsu kara no Dasshutsu Tsukiyo no Mansion-hen | 65475 | [65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json](./65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json) |
 | Simple Arena Robots | 374959 | [374959-simple-arena-robots.json](./374959-simple-arena-robots.json) |
+| Simple Ball: Extended Edition | 32406 | [32406-simple-ball-extended-edition.json](./32406-simple-ball-extended-edition.json) |
 | Simple Battle FX | 298949 | [298949-simple-battle-fx.json](./298949-simple-battle-fx.json) |
 | Simple Boxing Drills VR | 371587 | [371587-simple-boxing-drills-vr.json](./371587-simple-boxing-drills-vr.json) |
 | Simple Characters 2000 Series Vol. 01: Kidou Senshi Gundam - The Gunjin Shougi | 203131 | [203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json](./203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json) |
@@ -11779,6 +11781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithing Master | 297615 | [297615-smithing-master.json](./297615-smithing-master.json) |
 | SmithStory II | 193879 | [193879-smithstory-ii.json](./193879-smithstory-ii.json) |
 | Smithworks | 204603 | [204603-smithworks.json](./204603-smithworks.json) |
+| Smithy | 32486 | [32486-smithy.json](./32486-smithy.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
@@ -13514,6 +13517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
 | Solitaire Quest: Love Blossoms | 340354 | [340354-solitaire-quest-love-blossoms.json](./340354-solitaire-quest-love-blossoms.json) |
 | Solitaire Retro | 102598 | [102598-solitaire-retro.json](./102598-solitaire-retro.json) |
+| Solitaire Royale | 31223 | [31223-solitaire-royale.json](./31223-solitaire-royale.json) |
 | Solitaire Royale | 339853 | [339853-solitaire-royale.json](./339853-solitaire-royale.json) |
 | Solitaire Royale | 400982 | [400982-solitaire-royale.json](./400982-solitaire-royale.json) |
 | Solitaire Royale | 400988 | [400988-solitaire-royale.json](./400988-solitaire-royale.json) |
@@ -16680,6 +16684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spare Teeth VR | 116203 | [116203-spare-teeth-vr.json](./116203-spare-teeth-vr.json) |
 | Spared! | 330112 | [330112-spared.json](./330112-spared.json) |
 | Sparedevil | 303840 | [303840-sparedevil.json](./303840-sparedevil.json) |
+| Spareware | 31224 | [31224-spareware.json](./31224-spareware.json) |
 | Sparganator | 348963 | [348963-sparganator.json](./348963-sparganator.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
@@ -19597,6 +19602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Chapter 9 | 196149 | [196149-star-melody-yumemi-dreamer-chapter-9.json](./196149-star-melody-yumemi-dreamer-chapter-9.json) |
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star Melody: Yumemi Dreamer - Special Pack | 227142 | [227142-star-melody-yumemi-dreamer-special-pack.json](./227142-star-melody-yumemi-dreamer-special-pack.json) |
+| Star Merc | 32453 | [32453-star-merc.json](./32453-star-merc.json) |
 | Star Mercenary | 236417 | [236417-star-mercenary.json](./236417-star-mercenary.json) |
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mission: Remote Sectors | 336570 | [336570-star-mission-remote-sectors.json](./336570-star-mission-remote-sectors.json) |
@@ -21124,6 +21130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Engine Simulator | 249057 | [249057-steam-engine-simulator.json](./249057-steam-engine-simulator.json) |
 | Steam Engine Simulator: Power Generation | 276602 | [276602-steam-engine-simulator-power-generation.json](./276602-steam-engine-simulator-power-generation.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
+| Steam Hammer | 31210 | [31210-steam-hammer.json](./31210-steam-hammer.json) |
 | Steam Heart | 185323 | [185323-steam-heart.json](./185323-steam-heart.json) |
 | Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
 | Steam Highwayman | 174265 | [174265-steam-highwayman.json](./174265-steam-highwayman.json) |
@@ -24380,6 +24387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Resort Mogul | 53683 | [53683-summer-resort-mogul.json](./53683-summer-resort-mogul.json) |
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
 | Summer Rose Court | 125327 | [125327-summer-rose-court.json](./125327-summer-rose-court.json) |
+| Summer Sale | 32456 | [32456-summer-sale.json](./32456-summer-sale.json) |
 | Summer Seaside Search | 408530 | [408530-summer-seaside-search.json](./408530-summer-seaside-search.json) |
 | Summer Secrets | 82182 | [82182-summer-secrets.json](./82182-summer-secrets.json) |
 | Summer Shift At Arbor's | 354815 | [354815-summer-shift-at-arbors.json](./354815-summer-shift-at-arbors.json) |
