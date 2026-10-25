@@ -8505,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia's Science Adventure: Romaine's New Hat | 381689 | [381689-mias-science-adventure-romaines-new-hat.json](./381689-mias-science-adventure-romaines-new-hat.json) |
 | Miageta Sora ni Ochiteiku | 60052 | [60052-miageta-sora-ni-ochiteiku.json](./60052-miageta-sora-ni-ochiteiku.json) |
 | Miai Kekkon Shita Osanazuma ga Otoko no Ko Datta Ken | 59046 | [59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json](./59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json) |
+| Miami Bay | 407388 | [407388-miami-bay.json](./407388-miami-bay.json) |
 | Miami Chase | 85920 | [85920-miami-chase.json](./85920-miami-chase.json) |
 | Miami Cruise | 105087 | [105087-miami-cruise.json](./105087-miami-cruise.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
@@ -10028,6 +10029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Classic | 325724 | [325724-minecraft-classic.json](./325724-minecraft-classic.json) |
 | Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
 | Minecraft Dungeons II - Deluxe DLC | 407116 | [407116-minecraft-dungeons-ii-deluxe-dlc.json](./407116-minecraft-dungeons-ii-deluxe-dlc.json) |
+| Minecraft Dungeons II: Deluxe Edition | 407111 | [407111-minecraft-dungeons-ii-deluxe-edition.json](./407111-minecraft-dungeons-ii-deluxe-edition.json) |
 | Minecraft Dungeons: Echoing Void | 164849 | [164849-minecraft-dungeons-echoing-void.json](./164849-minecraft-dungeons-echoing-void.json) |
 | Minecraft Dungeons: Flames of the Nether | 146161 | [146161-minecraft-dungeons-flames-of-the-nether.json](./146161-minecraft-dungeons-flames-of-the-nether.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
