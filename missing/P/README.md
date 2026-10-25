@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
 | Panzer Panic VR | 29537 | [29537-panzer-panic-vr.json](./29537-panzer-panic-vr.json) |
 | Panzer Party | 85329 | [85329-panzer-party.json](./85329-panzer-party.json) |
+| Panzer Strategy | 83612 | [83612-panzer-strategy.json](./83612-panzer-strategy.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzer Strike! | 68564 | [68564-panzer-strike.json](./68564-panzer-strike.json) |
 | Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
@@ -2405,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
 | Path of Exile: The Fall of Oriath | 51543 | [51543-path-of-exile-the-fall-of-oriath.json](./51543-path-of-exile-the-fall-of-oriath.json) |
 | Path of Exile: Trial of the Ancestors | 262570 | [262570-path-of-exile-trial-of-the-ancestors.json](./262570-path-of-exile-trial-of-the-ancestors.json) |
+| Path of Exile: War for the Atlas Bundle | 83765 | [83765-path-of-exile-war-for-the-atlas-bundle.json](./83765-path-of-exile-war-for-the-atlas-bundle.json) |
 | Path of Exile: Warlord of the Karui Supporter Pack | 332082 | [332082-path-of-exile-warlord-of-the-karui-supporter-pack.json](./332082-path-of-exile-warlord-of-the-karui-supporter-pack.json) |
 | Path of Fury: Episode I - Tetsuo's Tower | 335484 | [335484-path-of-fury-episode-i-tetsuos-tower.json](./335484-path-of-fury-episode-i-tetsuos-tower.json) |
 | Path of Gear: Blacksmith’s Legend | 358971 | [358971-path-of-gear-blacksmith-s-legend.json](./358971-path-of-gear-blacksmith-s-legend.json) |
@@ -5972,6 +5974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinocchia no Miru Yume | 203288 | [203288-pinocchia-no-miru-yume.json](./203288-pinocchia-no-miru-yume.json) |
 | Pinocchio: Interactive Book | 265189 | [265189-pinocchio-interactive-book.json](./265189-pinocchio-interactive-book.json) |
 | Pinocchio's Puzzle | 84821 | [84821-pinocchios-puzzle.json](./84821-pinocchios-puzzle.json) |
+| Pinochle | 83700 | [83700-pinochle.json](./83700-pinochle.json) |
 | Pinochle by Webfoot | 99396 | [99396-pinochle-by-webfoot.json](./99396-pinochle-by-webfoot.json) |
 | Pinochle HD | 90707 | [90707-pinochle-hd.json](./90707-pinochle-hd.json) |
 | Pinochle Plus | 105937 | [105937-pinochle-plus.json](./105937-pinochle-plus.json) |
@@ -9468,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
 | Poker Squares | 40607 | [40607-poker-squares.json](./40607-poker-squares.json) |
 | Poker Stacker | 78902 | [78902-poker-stacker.json](./78902-poker-stacker.json) |
+| Poker Starter Pack | 83767 | [83767-poker-starter-pack.json](./83767-poker-starter-pack.json) |
 | Poker Superstars III: Gold Chip Challenge | 209345 | [209345-poker-superstars-iii-gold-chip-challenge.json](./209345-poker-superstars-iii-gold-chip-challenge.json) |
 | Poker Superstars: Invitational Tournament | 61699 | [61699-poker-superstars-invitational-tournament.json](./61699-poker-superstars-invitational-tournament.json) |
 | Poker Supreme: Las Vegas | 174099 | [174099-poker-supreme-las-vegas.json](./174099-poker-supreme-las-vegas.json) |
@@ -13997,6 +14001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Puk | 195985 | [195985-puk.json](./195985-puk.json) |
 | Puke | 277256 | [277256-puke.json](./277256-puke.json) |
+| Puke Simulator | 76488 | [76488-puke-simulator.json](./76488-puke-simulator.json) |
 | Puke the Pirate | 268123 | [268123-puke-the-pirate.json](./268123-puke-the-pirate.json) |
 | PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
 | Pukunpa: Joshikousei No Houkago | 71023 | [71023-pukunpa-joshikousei-no-houkago.json](./71023-pukunpa-joshikousei-no-houkago.json) |
