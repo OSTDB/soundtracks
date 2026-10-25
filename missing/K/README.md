@@ -5061,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
 | Kuroobi | 272462 | [272462-kuroobi.json](./272462-kuroobi.json) |
 | Kuros | 16059 | [16059-kuros.json](./16059-kuros.json) |
+| Kuroshio: Neon Blood | 425456 | [425456-kuroshio-neon-blood.json](./425456-kuroshio-neon-blood.json) |
 | Kuroshitsuji: Phantom & Ghost | 36752 | [36752-kuroshitsuji-phantom-and-ghost.json](./36752-kuroshitsuji-phantom-and-ghost.json) |
 | Kuroyuki Hime: Snow Black | 218951 | [218951-kuroyuki-hime-snow-black.json](./218951-kuroyuki-hime-snow-black.json) |
 | Kuroyuki Hime: Snow Magic | 218952 | [218952-kuroyuki-hime-snow-magic.json](./218952-kuroyuki-hime-snow-magic.json) |
