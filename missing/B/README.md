@@ -793,7 +793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1898,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barb | 191812 | [191812-barb.json](./191812-barb.json) |
 | Barb Wire | 92451 | [92451-barb-wire.json](./92451-barb-wire.json) |
 | Barback Blues: A Valhalla Story - Uttoushiki Hibi | 182777 | [182777-barback-blues-a-valhalla-story-uttoushiki-hibi.json](./182777-barback-blues-a-valhalla-story-uttoushiki-hibi.json) |
+| Barball | 401466 | [401466-barball.json](./401466-barball.json) |
 | Barbar Bar | 36828 | [36828-barbar-bar.json](./36828-barbar-bar.json) |
 | Barbara-ian | 35006 | [35006-barbara-ian.json](./35006-barbara-ian.json) |
 | Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
@@ -4824,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beek: Familiar Spirit - Remastered | 342497 | [342497-beek-familiar-spirit-remastered.json](./342497-beek-familiar-spirit-remastered.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
 | Beekyr | 114307 | [114307-beekyr.json](./114307-beekyr.json) |
+| Beel the Pollinator | 401372 | [401372-beel-the-pollinator.json](./401372-beel-the-pollinator.json) |
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
 | Beellionaire Idle | 422147 | [422147-beellionaire-idle.json](./422147-beellionaire-idle.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
@@ -10212,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
 | Boll Tower | 344695 | [344695-boll-tower.json](./344695-boll-tower.json) |
 | Boll's Journey | 365065 | [365065-bolls-journey.json](./365065-bolls-journey.json) |
+| Bolmn | 401373 | [401373-bolmn.json](./401373-bolmn.json) |
 | Bolo | 21916 | [21916-bolo.json](./21916-bolo.json) |
 | Bolo | 376750 | [376750-bolo.json](./376750-bolo.json) |
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
@@ -11682,6 +11684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxception | 211463 | [211463-boxception.json](./211463-boxception.json) |
 | Boxcorp Employee Training | 179137 | [179137-boxcorp-employee-training.json](./179137-boxcorp-employee-training.json) |
 | Boxed | 100703 | [100703-boxed.json](./100703-boxed.json) |
+| Boxed Beasts | 401374 | [401374-boxed-beasts.json](./401374-boxed-beasts.json) |
 | Boxed In | 403087 | [403087-boxed-in.json](./403087-boxed-in.json) |
 | Boxed In | 76687 | [76687-boxed-in.json](./76687-boxed-in.json) |
 | Boxed In | 95394 | [95394-boxed-in.json](./95394-boxed-in.json) |
@@ -11980,6 +11983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Battle | 363564 | [363564-brainrot-battle.json](./363564-brainrot-battle.json) |
 | Brainrot Battle Royale | 366730 | [366730-brainrot-battle-royale.json](./366730-brainrot-battle-royale.json) |
 | Brainrot Battle Simulator | 369317 | [369317-brainrot-battle-simulator.json](./369317-brainrot-battle-simulator.json) |
+| Brainrot Clicker: Steal All | 401375 | [401375-brainrot-clicker-steal-all.json](./401375-brainrot-clicker-steal-all.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
 | Brainrot Kart | 349904 | [349904-brainrot-kart.json](./349904-brainrot-kart.json) |
 | Brainrot Showdown | 408239 | [408239-brainrot-showdown.json](./408239-brainrot-showdown.json) |
@@ -11988,6 +11992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot: Animal Quizzes | 343259 | [343259-brainrot-animal-quizzes.json](./343259-brainrot-animal-quizzes.json) |
 | Brainrot: Story of Glorbo Frutodrillo & Ballerino Cappuccino | 351591 | [351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json](./351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json) |
 | Brainrot: Tralalero and The Lost Soul of AI | 368760 | [368760-brainrot-tralalero-and-the-lost-soul-of-ai.json](./368760-brainrot-tralalero-and-the-lost-soul-of-ai.json) |
+| Brainrots Evolution | 401376 | [401376-brainrots-evolution.json](./401376-brainrots-evolution.json) |
 | Brainrotting | 425550 | [425550-brainrotting.json](./425550-brainrotting.json) |
 | Brains & Hearts | 330163 | [330163-brains-and-hearts.json](./330163-brains-and-hearts.json) |
 | Brains Diamonds | 246435 | [246435-brains-diamonds.json](./246435-brains-diamonds.json) |
