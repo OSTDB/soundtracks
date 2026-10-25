@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Ambulance Simulator | 63673 | [63673-emergency-ambulance-simulator.json](./63673-emergency-ambulance-simulator.json) |
 | Emergency Ambulance Simulator 2013 | 137549 | [137549-emergency-ambulance-simulator-2013.json](./137549-emergency-ambulance-simulator-2013.json) |
 | Emergency Call 112: KEF - Das Kleineinsatzfahrzeug | 170724 | [170724-emergency-call-112-kef-das-kleineinsatzfahrzeug.json](./170724-emergency-call-112-kef-das-kleineinsatzfahrzeug.json) |
+| Emergency Call 112: The Fire Fighting Simulation | 32829 | [32829-emergency-call-112-the-fire-fighting-simulation.json](./32829-emergency-call-112-the-fire-fighting-simulation.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 - The Swap Body Vehicle | 315608 | [315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json](./315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 - Volunteer Firefighters | 315605 | [315605-emergency-call-112-the-fire-fighting-simulation-2-volunteer-firefighters.json](./315605-emergency-call-112-the-fire-fighting-simulation-2-volunteer-firefighters.json) |
