@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Monsters & Mortals - US Creator | 291694 | [291694-dark-deception-monsters-and-mortals-us-creator.json](./291694-dark-deception-monsters-and-mortals-us-creator.json) |
 | Dark Decline | 269271 | [269271-dark-decline.json](./269271-dark-decline.json) |
 | Dark Deity | 147215 | [147215-dark-deity.json](./147215-dark-deity.json) |
+| Dark Deity 1 & 2 | 398151 | [398151-dark-deity-1-and-2.json](./398151-dark-deity-1-and-2.json) |
 | Dark Deity III | 405171 | [405171-dark-deity-iii.json](./405171-dark-deity-iii.json) |
 | Dark Deity: Complete Edition | 227862 | [227862-dark-deity-complete-edition.json](./227862-dark-deity-complete-edition.json) |
 | Dark Deity: Suns Out, Swords Out | 209658 | [209658-dark-deity-suns-out-swords-out.json](./209658-dark-deity-suns-out-swords-out.json) |
@@ -3130,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 2: Case West | 21764 | [21764-dead-rising-2-case-west.json](./21764-dead-rising-2-case-west.json) |
 | Dead Rising 2: Case Zero | 20409 | [20409-dead-rising-2-case-zero.json](./20409-dead-rising-2-case-zero.json) |
 | Dead Rising 2: Off the Record | 5924 | [5924-dead-rising-2-off-the-record.json](./5924-dead-rising-2-off-the-record.json) |
+| Dead Rising 2: Off the Record Plus - A Fan-Made Expansion | 398148 | [398148-dead-rising-2-off-the-record-plus-a-fan-made-expansion.json](./398148-dead-rising-2-off-the-record-plus-a-fan-made-expansion.json) |
 | Dead Rising 3 | 3199 | [3199-dead-rising-3.json](./3199-dead-rising-3.json) |
 | Dead Rising 3: Apocalypse Edition | 21611 | [21611-dead-rising-3-apocalypse-edition.json](./21611-dead-rising-3-apocalypse-edition.json) |
 | Dead Rising 3: Chaos Rising | 20940 | [20940-dead-rising-3-chaos-rising.json](./20940-dead-rising-3-chaos-rising.json) |
@@ -4530,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
 | Deer Hunting King | 85076 | [85076-deer-hunting-king.json](./85076-deer-hunting-king.json) |
 | Deer in the Headlights | 302177 | [302177-deer-in-the-headlights.json](./302177-deer-in-the-headlights.json) |
+| Deer Legend | 398182 | [398182-deer-legend.json](./398182-deer-legend.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
 | Deer Simulator | 83185 | [83185-deer-simulator.json](./83185-deer-simulator.json) |
@@ -7560,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Road | 70057 | [70057-digital-road.json](./70057-digital-road.json) |
 | Digital Rose | 122014 | [122014-digital-rose.json](./122014-digital-rose.json) |
 | Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
+| Digital Shift | 398380 | [398380-digital-shift.json](./398380-digital-shift.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
 | Digital Tamers: ReBorn | 177283 | [177283-digital-tamers-reborn.json](./177283-digital-tamers-reborn.json) |
@@ -8307,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
 | Discoverx | 374213 | [374213-discoverx.json](./374213-discoverx.json) |
 | Discovery | 354575 | [354575-discovery.json](./354575-discovery.json) |
+| Discovery 2 | 398385 | [398385-discovery-2.json](./398385-discovery-2.json) |
 | Discovery Freelancer | 111445 | [111445-discovery-freelancer.json](./111445-discovery-freelancer.json) |
 | Discovery Islands | 399706 | [399706-discovery-islands.json](./399706-discovery-islands.json) |
 | Discovery Kids Snake Safari | 202079 | [202079-discovery-kids-snake-safari.json](./202079-discovery-kids-snake-safari.json) |
