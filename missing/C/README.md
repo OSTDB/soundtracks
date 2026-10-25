@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C-Dogs SDL | 182203 | [182203-c-dogs-sdl.json](./182203-c-dogs-sdl.json) |
 | C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
 | C-Hue-B | 57463 | [57463-c-hue-b.json](./57463-c-hue-b.json) |
+| C-ko-fn-ta-C | 411963 | [411963-c-ko-fn-ta-c.json](./411963-c-ko-fn-ta-c.json) |
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
 | C-Smash VRS | 237742 | [237742-c-smash-vrs.json](./237742-c-smash-vrs.json) |
 | C-Smash VRS: New Dimension | 321377 | [321377-c-smash-vrs-new-dimension.json](./321377-c-smash-vrs-new-dimension.json) |
