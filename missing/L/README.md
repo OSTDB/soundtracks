@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Assassin | 114226 | [114226-legend-of-the-assassin.json](./114226-legend-of-the-assassin.json) |
 | Legend of the Corndog(s) | 382551 | [382551-legend-of-the-corndog-s.json](./382551-legend-of-the-corndog-s.json) |
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
+| Legend of the Dragon | 4967 | [4967-legend-of-the-dragon.json](./4967-legend-of-the-dragon.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
