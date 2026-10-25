@@ -6283,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Wilds | 337437 | [337437-lord-of-the-wilds.json](./337437-lord-of-the-wilds.json) |
 | Lord of the Wings | 255537 | [255537-lord-of-the-wings.json](./255537-lord-of-the-wings.json) |
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
+| Lord of Tokens | 415772 | [415772-lord-of-tokens.json](./415772-lord-of-tokens.json) |
 | Lord of Ultima | 66713 | [66713-lord-of-ultima.json](./66713-lord-of-ultima.json) |
 | Lord of Vermilion | 68298 | [68298-lord-of-vermilion.json](./68298-lord-of-vermilion.json) |
 | Lord of Vermilion II | 65461 | [65461-lord-of-vermilion-ii.json](./65461-lord-of-vermilion-ii.json) |
