@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
 | Baby Universe | 43793 | [43793-baby-universe.json](./43793-baby-universe.json) |
+| Baby Walking Simulator | 121780 | [121780-baby-walking-simulator.json](./121780-baby-walking-simulator.json) |
 | Baby Wild Katzen | 269655 | [269655-baby-wild-katzen.json](./269655-baby-wild-katzen.json) |
 | Baby's Day Out | 264089 | [264089-babys-day-out.json](./264089-babys-day-out.json) |
 | Baby's Day Out | 45740 | [45740-babys-day-out.json](./45740-babys-day-out.json) |
@@ -5648,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Dreams | 192681 | [192681-beyond-dreams.json](./192681-beyond-dreams.json) |
 | Beyond Eden | 37397 | [37397-beyond-eden.json](./37397-beyond-eden.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
+| Beyond Enemy Lines 2 | 117082 | [117082-beyond-enemy-lines-2.json](./117082-beyond-enemy-lines-2.json) |
 | Beyond Enemy Lines 2: Enhanced Edition | 242371 | [242371-beyond-enemy-lines-2-enhanced-edition.json](./242371-beyond-enemy-lines-2-enhanced-edition.json) |
 | Beyond Enemy Lines: Covert Operations | 115467 | [115467-beyond-enemy-lines-covert-operations.json](./115467-beyond-enemy-lines-covert-operations.json) |
 | Beyond Enemy Lines: Essentials | 147869 | [147869-beyond-enemy-lines-essentials.json](./147869-beyond-enemy-lines-essentials.json) |
@@ -6635,6 +6637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
 | Bioma | 179945 | [179945-bioma.json](./179945-bioma.json) |
+| Biomass | 121890 | [121890-biomass.json](./121890-biomass.json) |
 | Biomass | 142950 | [142950-biomass.json](./142950-biomass.json) |
 | Biomass: Extermination | 361275 | [361275-biomass-extermination.json](./361275-biomass-extermination.json) |
 | Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
