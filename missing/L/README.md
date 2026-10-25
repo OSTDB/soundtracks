@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Avancée du Désert | 203841 | [203841-lavancee-du-desert.json](./203841-lavancee-du-desert.json) |
 | L'Cestrue Seyuntres | 128451 | [128451-lcestrue-seyuntres.json](./128451-lcestrue-seyuntres.json) |
 | L'Empereur | 85737 | [85737-lempereur.json](./85737-lempereur.json) |
+| L'Empire Banger V1 | 412766 | [412766-lempire-banger-v1.json](./412766-lempire-banger-v1.json) |
 | L'esprit du loup | 144074 | [144074-lesprit-du-loup.json](./144074-lesprit-du-loup.json) |
 | L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
 | L'Île Archéo | 285119 | [285119-lile-archeo.json](./285119-lile-archeo.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamb Fountain and Dungeon | 208086 | [208086-lamb-fountain-and-dungeon.json](./208086-lamb-fountain-and-dungeon.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
+| Lambda Neros R | 412767 | [412767-lambda-neros-r.json](./412767-lambda-neros-r.json) |
 | Lambda Spellcrafting Academy | 243541 | [243541-lambda-spellcrafting-academy.json](./243541-lambda-spellcrafting-academy.json) |
 | Lambda Wars | 60785 | [60785-lambda-wars.json](./60785-lambda-wars.json) |
 | Lambdarune | 351685 | [351685-lambdarune.json](./351685-lambdarune.json) |
@@ -3963,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthouse | 262307 | [262307-lighthouse.json](./262307-lighthouse.json) |
 | Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
 | Lighthouse | 270715 | [270715-lighthouse.json](./270715-lighthouse.json) |
+| Lighthouse | 412772 | [412772-lighthouse.json](./412772-lighthouse.json) |
 | Lighthouse Keeper | 143472 | [143472-lighthouse-keeper.json](./143472-lighthouse-keeper.json) |
 | Lighthouse of Better Days | 185386 | [185386-lighthouse-of-better-days.json](./185386-lighthouse-of-better-days.json) |
 | Lighthouse of Guiding Flames | 120933 | [120933-lighthouse-of-guiding-flames.json](./120933-lighthouse-of-guiding-flames.json) |
