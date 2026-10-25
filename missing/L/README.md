@@ -3513,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
 | Liberty City | 196522 | [196522-liberty-city.json](./196522-liberty-city.json) |
 | Liberty City Preservation Project | 334671 | [334671-liberty-city-preservation-project.json](./334671-liberty-city-preservation-project.json) |
+| Liberty Extended | 414988 | [414988-liberty-extended.json](./414988-liberty-extended.json) |
 | Liberty Fighters | 155685 | [155685-liberty-fighters.json](./155685-liberty-fighters.json) |
 | Liberty or Death | 45776 | [45776-liberty-or-death.json](./45776-liberty-or-death.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
