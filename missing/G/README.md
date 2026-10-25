@@ -4396,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Vs. Fairies | 34349 | [34349-gnomes-vs-fairies.json](./34349-gnomes-vs-fairies.json) |
 | Gnomes Vs. Fairies: Greckel's Quest | 53078 | [53078-gnomes-vs-fairies-greckels-quest.json](./53078-gnomes-vs-fairies-greckels-quest.json) |
 | Gnomes vs. Knights | 310272 | [310272-gnomes-vs-knights.json](./310272-gnomes-vs-knights.json) |
+| Gnomesplosion! | 420798 | [420798-gnomesplosion.json](./420798-gnomesplosion.json) |
 | Gnomic | 93469 | [93469-gnomic.json](./93469-gnomic.json) |
 | Gnomium: Pocket Edition | 241215 | [241215-gnomium-pocket-edition.json](./241215-gnomium-pocket-edition.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
@@ -4619,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
 | Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
 | Goat Simulator 3: Pre-Udder Edition | 204913 | [204913-goat-simulator-3-pre-udder-edition.json](./204913-goat-simulator-3-pre-udder-edition.json) |
+| Goat Simulator 3: Ticket to Dizzyworld | 420793 | [420793-goat-simulator-3-ticket-to-dizzyworld.json](./420793-goat-simulator-3-ticket-to-dizzyworld.json) |
 | Goat Simulator GoatZ | 23190 | [23190-goat-simulator-goatz.json](./23190-goat-simulator-goatz.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
