@@ -2154,6 +2154,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Manager 2021: Brewing & Winemaking | 171606 | [171606-farm-manager-2021-brewing-and-winemaking.json](./171606-farm-manager-2021-brewing-and-winemaking.json) |
 | Farm Manager 2022 | 193460 | [193460-farm-manager-2022.json](./193460-farm-manager-2022.json) |
 | Farm Manager World | 257967 | [257967-farm-manager-world.json](./257967-farm-manager-world.json) |
+| Farm Manager World: Africa | 402705 | [402705-farm-manager-world-africa.json](./402705-farm-manager-world-africa.json) |
+| Farm Manager World: Flags Pack | 402706 | [402706-farm-manager-world-flags-pack.json](./402706-farm-manager-world-flags-pack.json) |
 | Farm Mania 3 | 180113 | [180113-farm-mania-3.json](./180113-farm-mania-3.json) |
 | Farm Mania: Hot Vacation | 34168 | [34168-farm-mania-hot-vacation.json](./34168-farm-mania-hot-vacation.json) |
 | Farm Mechanic Simulator | 147774 | [147774-farm-mechanic-simulator.json](./147774-farm-mechanic-simulator.json) |
@@ -8789,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Sweeper | 247462 | [247462-fossil-sweeper.json](./247462-fossil-sweeper.json) |
 | Fossilfuel | 148665 | [148665-fossilfuel.json](./148665-fossilfuel.json) |
 | Fossilfuel 2 | 249025 | [249025-fossilfuel-2.json](./249025-fossilfuel-2.json) |
+| Fossilfuel 3 | 402715 | [402715-fossilfuel-3.json](./402715-fossilfuel-3.json) |
 | Fossilfuel VR: Raptor Isolation | 192777 | [192777-fossilfuel-vr-raptor-isolation.json](./192777-fossilfuel-vr-raptor-isolation.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Fost - Ghost Vs Fox | 124519 | [124519-fost-ghost-vs-fox.json](./124519-fost-ghost-vs-fox.json) |
