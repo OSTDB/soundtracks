@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O:anquan | 230214 | [230214-o-anquan.json](./230214-o-anquan.json) |
 | O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
 | O! My Genesis VR | 27182 | [27182-o-my-genesis-vr.json](./27182-o-my-genesis-vr.json) |
+| O! Nalchik is my favourite place | 107525 | [107525-o-nalchik-is-my-favourite-place.json](./107525-o-nalchik-is-my-favourite-place.json) |
 | O! Strelalka!!! | 55265 | [55265-o-strelalka.json](./55265-o-strelalka.json) |
 | O.A.C: World Begins | 197581 | [197581-o-a-c-world-begins.json](./197581-o-a-c-world-begins.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
@@ -490,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
 | Odd Hue Out! | 297310 | [297310-odd-hue-out.json](./297310-odd-hue-out.json) |
 | Odd Infinitum: First Contact | 267274 | [267274-odd-infinitum-first-contact.json](./267274-odd-infinitum-first-contact.json) |
+| Odd Island | 103037 | [103037-odd-island.json](./103037-odd-island.json) |
 | Odd Mobs Zero: Arrange | 375587 | [375587-odd-mobs-zero-arrange.json](./375587-odd-mobs-zero-arrange.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
@@ -4114,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out, Damned Spot! | 112321 | [112321-out-damned-spot.json](./112321-out-damned-spot.json) |
 | Outage Navigation | 398038 | [398038-outage-navigation.json](./398038-outage-navigation.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
+| Outback | 107412 | [107412-outback.json](./107412-outback.json) |
 | Outback Joey | 281554 | [281554-outback-joey.json](./281554-outback-joey.json) |
 | Outback Pet Rescue 3D | 85321 | [85321-outback-pet-rescue-3d.json](./85321-outback-pet-rescue-3d.json) |
 | Outblight | 415325 | [415325-outblight.json](./415325-outblight.json) |
