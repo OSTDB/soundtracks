@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joker Poker: Video Poker | 146862 | [146862-joker-poker-video-poker.json](./146862-joker-poker-video-poker.json) |
 | Joker Show: Horror Escape | 258503 | [258503-joker-show-horror-escape.json](./258503-joker-show-horror-escape.json) |
 | Joker w Coat Physics | 342188 | [342188-joker-w-coat-physics.json](./342188-joker-w-coat-physics.json) |
+| Joker's Knock | 422671 | [422671-jokers-knock.json](./422671-jokers-knock.json) |
 | Jollibae | 355173 | [355173-jollibae.json](./355173-jollibae.json) |
 | Jollitown | 364382 | [364382-jollitown.json](./364382-jollitown.json) |
 | Jolly 3: Chapter 1 | 184507 | [184507-jolly-3-chapter-1.json](./184507-jolly-3-chapter-1.json) |
@@ -3453,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Shapes & Beats | 31194 | [31194-just-shapes-and-beats.json](./31194-just-shapes-and-beats.json) |
 | Just Shapes & Beats: Hardcore Edition | 118174 | [118174-just-shapes-and-beats-hardcore-edition.json](./118174-just-shapes-and-beats-hardcore-edition.json) |
 | Just Shoot: Slimes | 219651 | [219651-just-shoot-slimes.json](./219651-just-shoot-slimes.json) |
+| Just Shovel It! | 422666 | [422666-just-shovel-it.json](./422666-just-shovel-it.json) |
 | Just Sign! | 207297 | [207297-just-sign.json](./207297-just-sign.json) |
 | Just Sing | 23386 | [23386-just-sing.json](./23386-just-sing.json) |
 | Just Sing! | 81460 | [81460-just-sing.json](./81460-just-sing.json) |
