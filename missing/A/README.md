@@ -11970,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Conquest | 238538 | [238538-artifact-conquest.json](./238538-artifact-conquest.json) |
 | Artifact Foundry | 159594 | [159594-artifact-foundry.json](./159594-artifact-foundry.json) |
+| Artifact Hunt: Yao | 390435 | [390435-artifact-hunt-yao.json](./390435-artifact-hunt-yao.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Hunter: The Lost Prophecy | 195014 | [195014-artifact-hunter-the-lost-prophecy.json](./195014-artifact-hunter-the-lost-prophecy.json) |
 | Artifact Quest 2 | 75035 | [75035-artifact-quest-2.json](./75035-artifact-quest-2.json) |
