@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrician Simulator: Smart Devices | 245991 | [245991-electrician-simulator-smart-devices.json](./245991-electrician-simulator-smart-devices.json) |
 | Electricman 2: The Tournament of Voltagen | 195021 | [195021-electricman-2-the-tournament-of-voltagen.json](./195021-electricman-2-the-tournament-of-voltagen.json) |
 | ElectricScribe | 44222 | [44222-electricscribe.json](./44222-electricscribe.json) |
+| ElectricVLab | 107367 | [107367-electricvlab.json](./107367-electricvlab.json) |
 | Electrified | 168238 | [168238-electrified.json](./168238-electrified.json) |
 | Electro Air Hockey | 323960 | [323960-electro-air-hockey.json](./323960-electro-air-hockey.json) |
 | Electro Air Hockey: Under the Mallet | 323957 | [323957-electro-air-hockey-under-the-mallet.json](./323957-electro-air-hockey-under-the-mallet.json) |
@@ -5327,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve of Calamity | 224623 | [224623-eve-of-calamity.json](./224623-eve-of-calamity.json) |
 | Eve of Cultivation | 390199 | [390199-eve-of-cultivation.json](./390199-eve-of-cultivation.json) |
 | Eve of Destruction | 290946 | [290946-eve-of-destruction.json](./290946-eve-of-destruction.json) |
+| Eve of Souls: Static Pod | 107461 | [107461-eve-of-souls-static-pod.json](./107461-eve-of-souls-static-pod.json) |
 | Eve of the Genesis | 38500 | [38500-eve-of-the-genesis.json](./38500-eve-of-the-genesis.json) |
 | Eve of the Storm | 265558 | [265558-eve-of-the-storm.json](./265558-eve-of-the-storm.json) |
 | Eve Online | 2584 | [2584-eve-online.json](./2584-eve-online.json) |
