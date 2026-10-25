@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
 | Casanova Simulator | 373085 | [373085-casanova-simulator.json](./373085-casanova-simulator.json) |
 | Casanova: The Duel of the Black Rose | 71708 | [71708-casanova-the-duel-of-the-black-rose.json](./71708-casanova-the-duel-of-the-black-rose.json) |
+| Cascabel | 423260 | [423260-cascabel.json](./423260-cascabel.json) |
 | Cascada | 349186 | [349186-cascada.json](./349186-cascada.json) |
 | Cascade | 128645 | [128645-cascade.json](./128645-cascade.json) |
 | Cascade | 352412 | [352412-cascade.json](./352412-cascade.json) |
@@ -12849,6 +12850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabling | 244904 | [244904-crabling.json](./244904-crabling.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crabmeat | 351084 | [351084-crabmeat.json](./351084-crabmeat.json) |
+| Crabrun | 423302 | [423302-crabrun.json](./423302-crabrun.json) |
 | Crabs | 362816 | [362816-crabs.json](./362816-crabs.json) |
 | Crabs | 375338 | [375338-crabs.json](./375338-crabs.json) |
 | Crabs & Cocktails | 412211 | [412211-crabs-and-cocktails.json](./412211-crabs-and-cocktails.json) |
@@ -13426,6 +13428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
 | Crazy Christmas | 310552 | [310552-crazy-christmas.json](./310552-crazy-christmas.json) |
 | Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
+| Crazy City Golf | 423215 | [423215-crazy-city-golf.json](./423215-crazy-city-golf.json) |
 | Crazy Click Thursday | 219746 | [219746-crazy-click-thursday.json](./219746-crazy-click-thursday.json) |
 | Crazy Climber | 307266 | [307266-crazy-climber.json](./307266-crazy-climber.json) |
 | Crazy Climber | 347695 | [347695-crazy-climber.json](./347695-crazy-climber.json) |
