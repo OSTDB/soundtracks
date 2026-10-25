@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardens | 122900 | [122900-wardens.json](./122900-wardens.json) |
+| Wardens of Avalon | 405146 | [405146-wardens-of-avalon.json](./405146-wardens-of-avalon.json) |
 | Wardens of Chaos | 288477 | [288477-wardens-of-chaos.json](./288477-wardens-of-chaos.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
 | WarDevil: Unleash the Beast Within | 72988 | [72988-wardevil-unleash-the-beast-within.json](./72988-wardevil-unleash-the-beast-within.json) |
@@ -3495,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Serpents Ever Dwell | 268466 | [268466-where-serpents-ever-dwell.json](./268466-where-serpents-ever-dwell.json) |
 | Where Shadows Slumber | 73171 | [73171-where-shadows-slumber.json](./73171-where-shadows-slumber.json) |
 | Where Stars Belong | 189059 | [189059-where-stars-belong.json](./189059-where-stars-belong.json) |
+| Where Stones Sleep | 405162 | [405162-where-stones-sleep.json](./405162-where-stones-sleep.json) |
 | Where the Anemones Bloom | 302118 | [302118-where-the-anemones-bloom.json](./302118-where-the-anemones-bloom.json) |
 | Where the Bees Make Honey | 114306 | [114306-where-the-bees-make-honey.json](./114306-where-the-bees-make-honey.json) |
 | Where the Chips Fall | 353859 | [353859-where-the-chips-fall.json](./353859-where-the-chips-fall.json) |
