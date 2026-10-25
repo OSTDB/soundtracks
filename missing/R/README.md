@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbitoad | 203663 | [203663-rabbitoad.json](./203663-rabbitoad.json) |
 | Rabbitra 2 | 291846 | [291846-rabbitra-2.json](./291846-rabbitra-2.json) |
 | Rabbits and Magic | 315787 | [315787-rabbits-and-magic.json](./315787-rabbits-and-magic.json) |
+| Rabbits Hunt | 405881 | [405881-rabbits-hunt.json](./405881-rabbits-hunt.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
 | Rabdonut | 219106 | [219106-rabdonut.json](./219106-rabdonut.json) |
 | Rabengeist: The Tale of Lizzie Ulm | 413483 | [413483-rabengeist-the-tale-of-lizzie-ulm.json](./413483-rabengeist-the-tale-of-lizzie-ulm.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raspberry Coast | 157040 | [157040-raspberry-coast.json](./157040-raspberry-coast.json) |
 | Raspberry Cube | 117515 | [117515-raspberry-cube.json](./117515-raspberry-cube.json) |
 | Raspberry Mash | 146746 | [146746-raspberry-mash.json](./146746-raspberry-mash.json) |
+| Raspberry's Berry Match | 405923 | [405923-raspberrys-berry-match.json](./405923-raspberrys-berry-match.json) |
 | Rasputin | 26351 | [26351-rasputin.json](./26351-rasputin.json) |
 | Rasta Rainbow | 88099 | [88099-rasta-rainbow.json](./88099-rasta-rainbow.json) |
 | Rastan Saga II | 4466 | [4466-rastan-saga-ii.json](./4466-rastan-saga-ii.json) |
@@ -7525,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots.io | 55754 | [55754-robots-io.json](./55754-robots-io.json) |
 | Robotville: Dawn of Robot AI | 327961 | [327961-robotville-dawn-of-robot-ai.json](./327961-robotville-dawn-of-robot-ai.json) |
 | RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
+| Robotz | 405876 | [405876-robotz.json](./405876-robotz.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior | 8473 | [8473-robowarrior.json](./8473-robowarrior.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
