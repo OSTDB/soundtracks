@@ -3147,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helbreath Argentina | 306180 | [306180-helbreath-argentina.json](./306180-helbreath-argentina.json) |
 | Helbreath Nemesis | 292432 | [292432-helbreath-nemesis.json](./292432-helbreath-nemesis.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
+| Heldritch Rush | 422038 | [422038-heldritch-rush.json](./422038-heldritch-rush.json) |
 | Helen | 272210 | [272210-helen.json](./272210-helen.json) |
 | Helen Keller Simulator | 412205 | [412205-helen-keller-simulator.json](./412205-helen-keller-simulator.json) |
 | Helen's Doll House | 184269 | [184269-helens-doll-house.json](./184269-helens-doll-house.json) |
@@ -5086,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
 | Heroines Paradox | 408539 | [408539-heroines-paradox.json](./408539-heroines-paradox.json) |
 | Heroines Through My Lens | 381971 | [381971-heroines-through-my-lens.json](./381971-heroines-through-my-lens.json) |
+| Heroines' Chord | 422068 | [422068-heroines-chord.json](./422068-heroines-chord.json) |
 | Heróis de Noname | 318850 | [318850-herois-de-noname.json](./318850-herois-de-noname.json) |
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
 | Heroism | 155055 | [155055-heroism.json](./155055-heroism.json) |
