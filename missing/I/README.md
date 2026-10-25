@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Trust My Eyes | 323343 | [323343-i-cant-trust-my-eyes.json](./323343-i-cant-trust-my-eyes.json) |
 | I Cannot Drown | 201154 | [201154-i-cannot-drown.json](./201154-i-cannot-drown.json) |
 | I Cheated on You | 179049 | [179049-i-cheated-on-you.json](./179049-i-cheated-on-you.json) |
+| I Chew, Therefore I Am | 400742 | [400742-i-chew-therefore-i-am.json](./400742-i-chew-therefore-i-am.json) |
 | I Ching | 308885 | [308885-i-ching.json](./308885-i-ching.json) |
 | I Commissioned Some Bees 0 | 211735 | [211735-i-commissioned-some-bees-0.json](./211735-i-commissioned-some-bees-0.json) |
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Sand Tycoon | 245205 | [245205-idle-sand-tycoon.json](./245205-idle-sand-tycoon.json) |
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
 | Idle Shapes | 226164 | [226164-idle-shapes.json](./226164-idle-shapes.json) |
+| Idle Shelter: Dog Rescue Tycoon | 400825 | [400825-idle-shelter-dog-rescue-tycoon.json](./400825-idle-shelter-dog-rescue-tycoon.json) |
 | Idle ShowOff | 368683 | [368683-idle-showoff.json](./368683-idle-showoff.json) |
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
 | Idle Simple RPG | 243212 | [243212-idle-simple-rpg.json](./243212-idle-simple-rpg.json) |
