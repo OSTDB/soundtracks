@@ -4355,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Pyrox Wizard Smackdown | 102924 | [102924-master-pyrox-wizard-smackdown.json](./102924-master-pyrox-wizard-smackdown.json) |
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
+| Master Show VR | 403968 | [403968-master-show-vr.json](./403968-master-show-vr.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
 | Master Spy | 24583 | [24583-master-spy.json](./24583-master-spy.json) |
 | Master System 3 | 230823 | [230823-master-system-3.json](./230823-master-system-3.json) |
@@ -4785,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | matuslab.net's Hangman | 91254 | [91254-matuslab-nets-hangman.json](./91254-matuslab-nets-hangman.json) |
 | Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
+| Maui Pong | 403930 | [403930-maui-pong.json](./403930-maui-pong.json) |
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
 | Maui Wowie Cart | 105742 | [105742-maui-wowie-cart.json](./105742-maui-wowie-cart.json) |
 | Maui Wowie Smash Up | 105743 | [105743-maui-wowie-smash-up.json](./105743-maui-wowie-smash-up.json) |
@@ -14474,6 +14476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
 | Mothership | 273235 | [273235-mothership.json](./273235-mothership.json) |
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
+| Mothership Down | 403976 | [403976-mothership-down.json](./403976-mothership-down.json) |
 | Mothership Forever | 235737 | [235737-mothership-forever.json](./235737-mothership-forever.json) |
 | Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
 | Mothman | 277983 | [277983-mothman.json](./277983-mothman.json) |
