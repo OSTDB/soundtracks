@@ -7612,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Valley | 260647 | [260647-planet-valley.json](./260647-planet-valley.json) |
 | Planet Wars | 207855 | [207855-planet-wars.json](./207855-planet-wars.json) |
 | Planet Waves | 177001 | [177001-planet-waves.json](./177001-planet-waves.json) |
+| Planet Wow Wildlife Adventure | 400179 | [400179-planet-wow-wildlife-adventure.json](./400179-planet-wow-wildlife-adventure.json) |
 | Planet X: Space Shooter VR | 104609 | [104609-planet-x-space-shooter-vr.json](./104609-planet-x-space-shooter-vr.json) |
 | Planet X16 | 285453 | [285453-planet-x16.json](./285453-planet-x16.json) |
 | Planet X3 | 103211 | [103211-planet-x3.json](./103211-planet-x3.json) |
@@ -11943,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Date Diaries: A Fairy Tale Love | 397870 | [397870-princess-date-diaries-a-fairy-tale-love.json](./397870-princess-date-diaries-a-fairy-tale-love.json) |
 | Princess Dating Sim | 225216 | [225216-princess-dating-sim.json](./225216-princess-dating-sim.json) |
 | Princess Debut | 21225 | [21225-princess-debut.json](./21225-princess-debut.json) |
+| Princess Dress Up Collection Fives Games in One | 400180 | [400180-princess-dress-up-collection-fives-games-in-one.json](./400180-princess-dress-up-collection-fives-games-in-one.json) |
 | Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
 | Princess Erch | 165741 | [165741-princess-erch.json](./165741-princess-erch.json) |
 | Princess escape | 174119 | [174119-princess-escape.json](./174119-princess-escape.json) |
@@ -13673,6 +13675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol VR | 116289 | [116289-protocol-vr.json](./116289-protocol-vr.json) |
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
 | Protocol Zero | 57929 | [57929-protocol-zero.json](./57929-protocol-zero.json) |
+| Protocol: Annihilation | 400169 | [400169-protocol-annihilation.json](./400169-protocol-annihilation.json) |
 | Protocol: Chapter 1 - Limbo | 415150 | [415150-protocol-chapter-1-limbo.json](./415150-protocol-chapter-1-limbo.json) |
 | Protocol: Children of War | 215325 | [215325-protocol-children-of-war.json](./215325-protocol-children-of-war.json) |
 | Protocol: Hyperspace Dive‪r‬ | 144008 | [144008-protocol-hyperspace-dive-r.json](./144008-protocol-hyperspace-dive-r.json) |
