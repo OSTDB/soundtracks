@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon | 338390 | [338390-watermelon.json](./338390-watermelon.json) |
 | Watermelon (with a Broken Head) Game | 334307 | [334307-watermelon-with-a-broken-head-game.json](./334307-watermelon-with-a-broken-head-game.json) |
 | Watermelon Blocks | 148953 | [148953-watermelon-blocks.json](./148953-watermelon-blocks.json) |
+| Watermelon Bomb | 407514 | [407514-watermelon-bomb.json](./407514-watermelon-bomb.json) |
 | Watermelon Challenge | 275693 | [275693-watermelon-challenge.json](./275693-watermelon-challenge.json) |
 | Watermelon Country | 165769 | [165769-watermelon-country.json](./165769-watermelon-country.json) |
 | Watermelon Game | 273806 | [273806-watermelon-game.json](./273806-watermelon-game.json) |
@@ -3285,7 +3286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
