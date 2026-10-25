@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liblade | 181032 | [181032-liblade.json](./181032-liblade.json) |
 | Libra of the Vampire Princess | 37392 | [37392-libra-of-the-vampire-princess.json](./37392-libra-of-the-vampire-princess.json) |
 | Libra of the Vampire Princess: Lycoris & Aoi in The Promise Plus Iris in Homeworld | 90627 | [90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json](./90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json) |
+| Librarian of Aquademia: The Forbidden Grimoire | 402690 | [402690-librarian-of-aquademia-the-forbidden-grimoire.json](./402690-librarian-of-aquademia-the-forbidden-grimoire.json) |
 | Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
 | Library Escape | 400487 | [400487-library-escape.json](./400487-library-escape.json) |
@@ -7698,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Stars: Special Edition | 107711 | [107711-lucky-stars-special-edition.json](./107711-lucky-stars-special-edition.json) |
 | Lucky Streak Poker | 54176 | [54176-lucky-streak-poker.json](./54176-lucky-streak-poker.json) |
 | Lucky Sudoku | 95899 | [95899-lucky-sudoku.json](./95899-lucky-sudoku.json) |
+| Lucky Swirl Island | 402703 | [402703-lucky-swirl-island.json](./402703-lucky-swirl-island.json) |
 | Lucky Time | 287532 | [287532-lucky-time.json](./287532-lucky-time.json) |
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
 | Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
