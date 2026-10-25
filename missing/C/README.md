@@ -4231,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centaur | 79685 | [79685-centaur.json](./79685-centaur.json) |
 | Centauri Dark | 275655 | [275655-centauri-dark.json](./275655-centauri-dark.json) |
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
+| Centauri Sector | 35616 | [35616-centauri-sector.json](./35616-centauri-sector.json) |
 | Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
 | Center Court | 40073 | [40073-center-court.json](./40073-center-court.json) |
 | Center Court Tennis | 100041 | [100041-center-court-tennis.json](./100041-center-court-tennis.json) |
@@ -8014,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawfish | 152190 | [152190-clawfish.json](./152190-clawfish.json) |
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
 | Claws & Chaos | 261674 | [261674-claws-and-chaos.json](./261674-claws-and-chaos.json) |
+| Claws & Feathers | 35664 | [35664-claws-and-feathers.json](./35664-claws-and-feathers.json) |
 | Claws of Furry | 76436 | [76436-claws-of-furry.json](./76436-claws-of-furry.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clawstar Wrestling | 227115 | [227115-clawstar-wrestling.json](./227115-clawstar-wrestling.json) |
@@ -14587,6 +14589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowded. Followed. | 311200 | [311200-crowded-followed.json](./311200-crowded-followed.json) |
 | Crowdy Farm Puzzle | 147612 | [147612-crowdy-farm-puzzle.json](./147612-crowdy-farm-puzzle.json) |
 | Crowdy Farm Rush | 147614 | [147614-crowdy-farm-rush.json](./147614-crowdy-farm-rush.json) |
+| Crowe: The Drowned Armory | 38811 | [38811-crowe-the-drowned-armory.json](./38811-crowe-the-drowned-armory.json) |
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
 | Crowhille: Detective Case Files VR | 151064 | [151064-crowhille-detective-case-files-vr.json](./151064-crowhille-detective-case-files-vr.json) |
 | CrowKart | 165443 | [165443-crowkart.json](./165443-crowkart.json) |
