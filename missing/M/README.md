@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Mafioso | 388793 | [388793-mafioso.json](./388793-mafioso.json) |
+| Mafioso Football Manager | 413845 | [413845-mafioso-football-manager.json](./413845-mafioso-football-manager.json) |
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
 | MAG | 229766 | [229766-mag.json](./229766-mag.json) |
 | MAG | 7365 | [7365-mag.json](./7365-mag.json) |
@@ -5374,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Beans: Party Hat Pack | 257859 | [257859-mean-beans-party-hat-pack.json](./257859-mean-beans-party-hat-pack.json) |
 | Mean City | 47154 | [47154-mean-city.json](./47154-mean-city.json) |
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
+| Mean Machine | 413633 | [413633-mean-machine.json](./413633-mean-machine.json) |
 | Mean Machines | 246257 | [246257-mean-machines.json](./246257-mean-machines.json) |
 | Mean Machines | 51691 | [51691-mean-machines.json](./51691-mean-machines.json) |
 | Mean Routine | 111540 | [111540-mean-routine.json](./111540-mean-routine.json) |
@@ -15937,6 +15939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushi no Idokoro | 259990 | [259990-mushi-no-idokoro.json](./259990-mushi-no-idokoro.json) |
 | Mushi Taro | 279223 | [279223-mushi-taro.json](./279223-mushi-taro.json) |
 | Mushihime-sama Futari | 27626 | [27626-mushihime-sama-futari.json](./27626-mushihime-sama-futari.json) |
+| Mushihime-sama Futari Ver 1.5 | 413697 | [413697-mushihime-sama-futari-ver-1-5.json](./413697-mushihime-sama-futari-ver-1-5.json) |
 | Mushihime-sama Futari: Black Label | 79369 | [79369-mushihime-sama-futari-black-label.json](./79369-mushihime-sama-futari-black-label.json) |
 | Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
@@ -17084,6 +17087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Nuclear Octopus | 151516 | [151516-my-nuclear-octopus.json](./151516-my-nuclear-octopus.json) |
 | My Nurse Girlfriend | 205891 | [205891-my-nurse-girlfriend.json](./205891-my-nurse-girlfriend.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
+| My Old Car Was Green | 413415 | [413415-my-old-car-was-green.json](./413415-my-old-car-was-green.json) |
 | My Om Nom | 88980 | [88980-my-om-nom.json](./88980-my-om-nom.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
 | My Only Sunshine | 122152 | [122152-my-only-sunshine.json](./122152-my-only-sunshine.json) |
