@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Winter Games | 49207 | [49207-ultimate-winter-games.json](./49207-ultimate-winter-games.json) |
 | Ultimate Wizard | 28705 | [28705-ultimate-wizard.json](./28705-ultimate-wizard.json) |
 | Ultimate Wizard | 398392 | [398392-ultimate-wizard.json](./398392-ultimate-wizard.json) |
+| Ultimate Wobble Run | 407102 | [407102-ultimate-wobble-run.json](./407102-ultimate-wobble-run.json) |
 | Ultimate Word Search 2: Letter Boxed | 31678 | [31678-ultimate-word-search-2-letter-boxed.json](./31678-ultimate-word-search-2-letter-boxed.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
 | Ultimate Zombie Defense | 127723 | [127723-ultimate-zombie-defense.json](./127723-ultimate-zombie-defense.json) |
@@ -2435,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until the Last Plane 1942 | 278347 | [278347-until-the-last-plane-1942.json](./278347-until-the-last-plane-1942.json) |
 | Until the Night | 202734 | [202734-until-the-night.json](./202734-until-the-night.json) |
 | Until Then | 134165 | [134165-until-then.json](./134165-until-then.json) |
+| Until Then: Deluxe Edition | 407104 | [407104-until-then-deluxe-edition.json](./407104-until-then-deluxe-edition.json) |
 | Until They Burn | 400949 | [400949-until-they-burn.json](./400949-until-they-burn.json) |
 | Until We Die | 127240 | [127240-until-we-die.json](./127240-until-we-die.json) |
 | Until You Return to the Earth | 339430 | [339430-until-you-return-to-the-earth.json](./339430-until-you-return-to-the-earth.json) |
