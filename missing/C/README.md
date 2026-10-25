@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal Cookout: Lines | 238982 | [238982-cannibal-cookout-lines.json](./238982-cannibal-cookout-lines.json) |
 | Cannibal Court | 395205 | [395205-cannibal-court.json](./395205-cannibal-court.json) |
 | Cannibal Crossing | 140364 | [140364-cannibal-crossing.json](./140364-cannibal-crossing.json) |
+| Cannibal Date | 388499 | [388499-cannibal-date.json](./388499-cannibal-date.json) |
 | Cannibal Harvest | 334645 | [334645-cannibal-harvest.json](./334645-cannibal-harvest.json) |
 | Cannibal Island: Survival | 266780 | [266780-cannibal-island-survival.json](./266780-cannibal-island-survival.json) |
 | Cannibal Lottery | 113571 | [113571-cannibal-lottery.json](./113571-cannibal-lottery.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
 | Capy Hoky | 129426 | [129426-capy-hoky.json](./129426-capy-hoky.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
+| Capy Spa | 388541 | [388541-capy-spa.json](./388541-capy-spa.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
 | Capybara | 229820 | [229820-capybara.json](./229820-capybara.json) |
 | Capybara | 312611 | [312611-capybara.json](./312611-capybara.json) |
@@ -4676,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Bass | 45229 | [45229-championship-bass.json](./45229-championship-bass.json) |
 | Championship Bowling | 131262 | [131262-championship-bowling.json](./131262-championship-bowling.json) |
 | Championship Bowling | 317525 | [317525-championship-bowling.json](./317525-championship-bowling.json) |
+| Championship Bowling | 388576 | [388576-championship-bowling.json](./388576-championship-bowling.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
 | Championship Foosball | 51017 | [51017-championship-foosball.json](./51017-championship-foosball.json) |
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
@@ -16466,6 +16469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Animals Memory Card Game | 153455 | [153455-cute-animals-memory-card-game.json](./153455-cute-animals-memory-card-game.json) |
 | Cute Army: A Cat Story | 176448 | [176448-cute-army-a-cat-story.json](./176448-cute-army-a-cat-story.json) |
 | Cute as Shell | 329984 | [329984-cute-as-shell.json](./329984-cute-as-shell.json) |
+| Cute Astro | 388543 | [388543-cute-astro.json](./388543-cute-astro.json) |
 | Cute Away: Paws Caretaker Simulator | 390216 | [390216-cute-away-paws-caretaker-simulator.json](./390216-cute-away-paws-caretaker-simulator.json) |
 | Cute Bar | 368063 | [368063-cute-bar.json](./368063-cute-bar.json) |
 | Cute Bendy and Projectionist | 106520 | [106520-cute-bendy-and-projectionist.json](./106520-cute-bendy-and-projectionist.json) |
