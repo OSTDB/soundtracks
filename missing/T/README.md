@@ -15023,6 +15023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Traveller: Vanilla Version | 280201 | [280201-the-traveller-vanilla-version.json](./280201-the-traveller-vanilla-version.json) |
 | The Traveller's Sight | 403201 | [403201-the-travellers-sight.json](./403201-the-travellers-sight.json) |
 | The Travelling Salesfrog Problem | 229073 | [229073-the-travelling-salesfrog-problem.json](./229073-the-travelling-salesfrog-problem.json) |
+| The Travels of Joe Rabbit in the Big City | 389411 | [389411-the-travels-of-joe-rabbit-in-the-big-city.json](./389411-the-travels-of-joe-rabbit-in-the-big-city.json) |
 | The Travels of Marco Polo | 35339 | [35339-the-travels-of-marco-polo.json](./35339-the-travels-of-marco-polo.json) |
 | The Travels of the Dung Beetle | 177448 | [177448-the-travels-of-the-dung-beetle.json](./177448-the-travels-of-the-dung-beetle.json) |
 | The Travelyan Home | 133225 | [133225-the-travelyan-home.json](./133225-the-travelyan-home.json) |
@@ -16180,6 +16181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Their Navy Is Their Doom | 319138 | [319138-their-navy-is-their-doom.json](./319138-their-navy-is-their-doom.json) |
 | Their Radiance | 155939 | [155939-their-radiance.json](./155939-their-radiance.json) |
 | Their Story. | 404398 | [404398-their-story.json](./404398-their-story.json) |
+| Thekku Island | 389376 | [389376-thekku-island.json](./389376-thekku-island.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Thelos | 216443 | [216443-thelos.json](./216443-thelos.json) |
@@ -17346,6 +17348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tideheart | 420221 | [420221-tideheart.json](./420221-tideheart.json) |
 | Tidepool | 407503 | [407503-tidepool.json](./407503-tidepool.json) |
 | Tides Odyssey | 315777 | [315777-tides-odyssey.json](./315777-tides-odyssey.json) |
+| Tides of Blazefall | 389474 | [389474-tides-of-blazefall.json](./389474-tides-of-blazefall.json) |
 | Tides of Despair | 255013 | [255013-tides-of-despair.json](./255013-tides-of-despair.json) |
 | Tides of Dominion | 256419 | [256419-tides-of-dominion.json](./256419-tides-of-dominion.json) |
 | Tides of Existence | 126504 | [126504-tides-of-existence.json](./126504-tides-of-existence.json) |
