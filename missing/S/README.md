@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saeki Chizu Shiki Yumemihada: Dream Skincare | 68435 | [68435-saeki-chizu-shiki-yumemihada-dream-skincare.json](./68435-saeki-chizu-shiki-yumemihada-dream-skincare.json) |
 | Saeko-san to Issho! | 77850 | [77850-saeko-san-to-issho.json](./77850-saeko-san-to-issho.json) |
 | Saeko: Giantess Dating Sim | 258823 | [258823-saeko-giantess-dating-sim.json](./258823-saeko-giantess-dating-sim.json) |
+| Saeko: Giantess Dating Sim - Digital Deluxe Edition | 407105 | [407105-saeko-giantess-dating-sim-digital-deluxe-edition.json](./407105-saeko-giantess-dating-sim-digital-deluxe-edition.json) |
 | Saelig | 36643 | [36643-saelig.json](./36643-saelig.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
@@ -15204,6 +15205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Saga: Episode 1 | 8174 | [8174-soul-saga-episode-1.json](./8174-soul-saga-episode-1.json) |
 | Soul Saver | 134637 | [134637-soul-saver.json](./134637-soul-saver.json) |
 | Soul Scathe | 120112 | [120112-soul-scathe.json](./120112-soul-scathe.json) |
+| Soul Searchin' | 407515 | [407515-soul-searchin.json](./407515-soul-searchin.json) |
 | Soul Searching | 216872 | [216872-soul-searching.json](./216872-soul-searching.json) |
 | Soul Searching | 27357 | [27357-soul-searching.json](./27357-soul-searching.json) |
 | Soul Seed | 182074 | [182074-soul-seed.json](./182074-soul-seed.json) |
@@ -26837,6 +26839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Samurai Rampage | 54500 | [54500-super-samurai-rampage.json](./54500-super-samurai-rampage.json) |
 | Super Sangokushi | 42226 | [42226-super-sangokushi.json](./42226-super-sangokushi.json) |
 | Super Sans Race Running | 221710 | [221710-super-sans-race-running.json](./221710-super-sans-race-running.json) |
+| Super Santa Kicker | 407511 | [407511-super-santa-kicker.json](./407511-super-santa-kicker.json) |
 | Super Sapiens | 325522 | [325522-super-sapiens.json](./325522-super-sapiens.json) |
 | Super Sarrador | 208238 | [208238-super-sarrador.json](./208238-super-sarrador.json) |
 | Super Sayajin UI Kakaroto VS Red Flame Warrior | 100918 | [100918-super-sayajin-ui-kakaroto-vs-red-flame-warrior.json](./100918-super-sayajin-ui-kakaroto-vs-red-flame-warrior.json) |
