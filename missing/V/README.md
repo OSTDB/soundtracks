@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vellum Quest: Kami no Zanshi | 331895 | [331895-vellum-quest-kami-no-zanshi.json](./331895-vellum-quest-kami-no-zanshi.json) |
 | Vellum: Raid Night Study Hall | 387632 | [387632-vellum-raid-night-study-hall.json](./387632-vellum-raid-night-study-hall.json) |
 | VeLM | 117120 | [117120-velm.json](./117120-velm.json) |
+| Velmora Online | 423263 | [423263-velmora-online.json](./423263-velmora-online.json) |
 | Velo | 244347 | [244347-velo.json](./244347-velo.json) |
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
@@ -2102,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
 | Virtua Fighter Kids | 1549 | [1549-virtua-fighter-kids.json](./1549-virtua-fighter-kids.json) |
 | Virtua Fighter PC | 1546 | [1546-virtua-fighter-pc.json](./1546-virtua-fighter-pc.json) |
+| Virtua Fighter Recomp | 423261 | [423261-virtua-fighter-recomp.json](./423261-virtua-fighter-recomp.json) |
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
 | Virtua Golf | 131345 | [131345-virtua-golf.json](./131345-virtua-golf.json) |
