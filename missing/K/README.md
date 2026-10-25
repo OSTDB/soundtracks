@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Puzzle Animal Game | 259974 | [259974-kids-puzzle-animal-game.json](./259974-kids-puzzle-animal-game.json) |
 | Kids Puzzles, Funny Animals #2 | 100914 | [100914-kids-puzzles-funny-animals-2.json](./100914-kids-puzzles-funny-animals-2.json) |
+| Kids Shave Salon Spa Games (Boys & Girls) | 88915 | [88915-kids-shave-salon-spa-games-boys-and-girls.json](./88915-kids-shave-salon-spa-games-boys-and-girls.json) |
 | Kids Sight Words | 107560 | [107560-kids-sight-words.json](./107560-kids-sight-words.json) |
 | Kids Slide Puzzle World mystic squares 15 game | 100290 | [100290-kids-slide-puzzle-world-mystic-squares-15-game.json](./100290-kids-slide-puzzle-world-mystic-squares-15-game.json) |
 | Kids Station: Asobou! Hanasou! Guru-guru Town Hanamaru-kun | 148374 | [148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json](./148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json) |
