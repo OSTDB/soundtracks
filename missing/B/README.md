@@ -4766,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedroom Brawl | 385916 | [385916-bedroom-brawl.json](./385916-bedroom-brawl.json) |
 | Bedrooms | 342732 | [342732-bedrooms.json](./342732-bedrooms.json) |
 | Bedrotting | 298265 | [298265-bedrotting.json](./298265-bedrotting.json) |
+| Bedrotting Simulator | 400277 | [400277-bedrotting-simulator.json](./400277-bedrotting-simulator.json) |
 | Bedtime | 182911 | [182911-bedtime.json](./182911-bedtime.json) |
 | Bedtime Blues | 112782 | [112782-bedtime-blues.json](./112782-bedtime-blues.json) |
 | Bedtime Fright | 178917 | [178917-bedtime-fright.json](./178917-bedtime-fright.json) |
@@ -6886,6 +6887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Game 3 | 380006 | [380006-bird-game-3.json](./380006-bird-game-3.json) |
 | Bird Game 3 | 380007 | [380007-bird-game-3.json](./380007-bird-game-3.json) |
 | Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
+| Bird Game III | 400160 | [400160-bird-game-iii.json](./400160-bird-game-iii.json) |
 | Bird Hunter | 246433 | [246433-bird-hunter.json](./246433-bird-hunter.json) |
 | Bird Hunter 2003: Legendary Hunting | 69525 | [69525-bird-hunter-2003-legendary-hunting.json](./69525-bird-hunter-2003-legendary-hunting.json) |
 | Bird Hunter: Wild Wings Edition | 73491 | [73491-bird-hunter-wild-wings-edition.json](./73491-bird-hunter-wild-wings-edition.json) |
@@ -10045,6 +10047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Recorded | 377079 | [377079-bodycam-recorded.json](./377079-bodycam-recorded.json) |
 | Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
 | Bodycam Shooter 2025 | 330807 | [330807-bodycam-shooter-2025.json](./330807-bodycam-shooter-2025.json) |
+| Bodycamera FPS | 400174 | [400174-bodycamera-fps.json](./400174-bodycamera-fps.json) |
 | Bodycheck | 10666 | [10666-bodycheck.json](./10666-bodycheck.json) |
 | BodyConQuest I: Abakareshi Musume-tachi | 41238 | [41238-bodyconquest-i-abakareshi-musume-tachi.json](./41238-bodyconquest-i-abakareshi-musume-tachi.json) |
 | Bodyconscious Digital Rave! Part 1: Shinjuku & Takashi | 245249 | [245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json](./245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json) |
