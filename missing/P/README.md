@@ -1450,8 +1450,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
 | PapiBatting | 87237 | [87237-papibatting.json](./87237-papibatting.json) |
+| PapiBlocks | 87302 | [87302-papiblocks.json](./87302-papiblocks.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
 | Papich - The Game Ep.1 | 81749 | [81749-papich-the-game-ep-1.json](./81749-papich-the-game-ep-1.json) |
+| PapiDefense | 87306 | [87306-papidefense.json](./87306-papidefense.json) |
 | PapiDiving | 87246 | [87246-papidiving.json](./87246-papidiving.json) |
 | PapiDrive | 88821 | [88821-papidrive.json](./88821-papidrive.json) |
 | Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
@@ -2038,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Posse | 154049 | [154049-parkour-posse.json](./154049-parkour-posse.json) |
 | Parkour Simulator | 377589 | [377589-parkour-simulator.json](./377589-parkour-simulator.json) |
 | Parkour Simulator | 89265 | [89265-parkour-simulator.json](./89265-parkour-simulator.json) |
+| Parkour Simulator 3D | 87303 | [87303-parkour-simulator-3d.json](./87303-parkour-simulator-3d.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | Parkour Trials | 346757 | [346757-parkour-trials.json](./346757-parkour-trials.json) |
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
@@ -9427,6 +9430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Club | 138204 | [138204-poker-club.json](./138204-poker-club.json) |
 | Poker Club 6 in 1 | 248181 | [248181-poker-club-6-in-1.json](./248181-poker-club-6-in-1.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
+| Poker Cruncher: Expert Odds | 87325 | [87325-poker-cruncher-expert-odds.json](./87325-poker-cruncher-expert-odds.json) |
 | Poker Dice Solitaire Future | 61338 | [61338-poker-dice-solitaire-future.json](./61338-poker-dice-solitaire-future.json) |
 | Poker Drop | 146691 | [146691-poker-drop.json](./146691-poker-drop.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
@@ -15307,6 +15311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Shooter | 89515 | [89515-pyramid-shooter.json](./89515-pyramid-shooter.json) |
 | Pyramid Solitaire | 304761 | [304761-pyramid-solitaire.json](./304761-pyramid-solitaire.json) |
 | Pyramid Solitaire | 79592 | [79592-pyramid-solitaire.json](./79592-pyramid-solitaire.json) |
+| Pyramid Solitaire - Card Game | 86777 | [86777-pyramid-solitaire-card-game.json](./86777-pyramid-solitaire-card-game.json) |
 | Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
 | Pyramid Solitaire Cube | 56916 | [56916-pyramid-solitaire-cube.json](./56916-pyramid-solitaire-cube.json) |
 | Pyramid Solitaire Mummy Curse | 61046 | [61046-pyramid-solitaire-mummy-curse.json](./61046-pyramid-solitaire-mummy-curse.json) |
