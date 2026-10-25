@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valist Leznalt | 206377 | [206377-valist-leznalt.json](./206377-valist-leznalt.json) |
 | Valkalim | 192983 | [192983-valkalim.json](./192983-valkalim.json) |
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
+| Valkeala Climb Race | 394075 | [394075-valkeala-climb-race.json](./394075-valkeala-climb-race.json) |
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
 | Valkkryes: Ashes of War | 221230 | [221230-valkkryes-ashes-of-war.json](./221230-valkkryes-ashes-of-war.json) |
 | Valknut | 74367 | [74367-valknut.json](./74367-valknut.json) |
@@ -588,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire! At the Masquerade | 301919 | [301919-vampire-at-the-masquerade.json](./301919-vampire-at-the-masquerade.json) |
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
 | Vampire's Empire | 53924 | [53924-vampires-empire.json](./53924-vampires-empire.json) |
+| Vampire's Fall 2 | 392096 | [392096-vampires-fall-2.json](./392096-vampires-fall-2.json) |
 | Vampire's Fall: Origins | 123580 | [123580-vampires-fall-origins.json](./123580-vampires-fall-origins.json) |
 | Vampire's Kiss: Time Paradox | 390260 | [390260-vampires-kiss-time-paradox.json](./390260-vampires-kiss-time-paradox.json) |
 | Vampire's Slave | 149387 | [149387-vampires-slave.json](./149387-vampires-slave.json) |
@@ -850,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vec Sports Boxing | 273284 | [273284-vec-sports-boxing.json](./273284-vec-sports-boxing.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Veccol | 111535 | [111535-veccol.json](./111535-veccol.json) |
+| Vecindad Sistema Solar | 394590 | [394590-vecindad-sistema-solar.json](./394590-vecindad-sistema-solar.json) |
 | Vecitas | 30524 | [30524-vecitas.json](./30524-vecitas.json) |
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
 | Vecmania | 46513 | [46513-vecmania.json](./46513-vecmania.json) |
@@ -1417,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vet Emergency | 93024 | [93024-vet-emergency.json](./93024-vet-emergency.json) |
 | Veteran | 65004 | [65004-veteran.json](./65004-veteran.json) |
 | Veteran Combat | 35710 | [35710-veteran-combat.json](./35710-veteran-combat.json) |
+| Veterans: Napoleonic Wars | 390282 | [390282-veterans-napoleonic-wars.json](./390282-veterans-napoleonic-wars.json) |
 | Veterum | 211815 | [211815-veterum.json](./211815-veterum.json) |
 | Vetica | 94192 | [94192-vetica.json](./94192-vetica.json) |
 | Vetitum_VRC | 319868 | [319868-vetitum-vrc.json](./319868-vetitum-vrc.json) |
@@ -2040,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIQ-Bert | 69738 | [69738-viq-bert.json](./69738-viq-bert.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Vira | 244118 | [244118-vira.json](./244118-vira.json) |
+| Vira!!! | 389461 | [389461-vira.json](./389461-vira.json) |
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
 | Virago: Herstory | 226184 | [226184-virago-herstory.json](./226184-virago-herstory.json) |
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
@@ -2715,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Hazard | 372628 | [372628-void-hazard.json](./372628-void-hazard.json) |
 | Void Heart | 189985 | [189985-void-heart.json](./189985-void-heart.json) |
 | Void Hearts | 161698 | [161698-void-hearts.json](./161698-void-hearts.json) |
+| Void Hunters | 394679 | [394679-void-hunters.json](./394679-void-hunters.json) |
 | Void Ignition | 406522 | [406522-void-ignition.json](./406522-void-ignition.json) |
 | Void Inc. | 183895 | [183895-void-inc.json](./183895-void-inc.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
@@ -2810,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidExpanse - Complete Collection | 53870 | [53870-voidexpanse-complete-collection.json](./53870-voidexpanse-complete-collection.json) |
 | VoidExpanse: Pariahs' Bane | 171331 | [171331-voidexpanse-pariahs-bane.json](./171331-voidexpanse-pariahs-bane.json) |
 | Voidface | 332424 | [332424-voidface.json](./332424-voidface.json) |
+| VoidFront: Galactic Warfare | 394390 | [394390-voidfront-galactic-warfare.json](./394390-voidfront-galactic-warfare.json) |
 | VoidGate | 111447 | [111447-voidgate.json](./111447-voidgate.json) |
 | VoidHue | 403319 | [403319-voidhue.json](./403319-voidhue.json) |
 | Voidhunter | 184221 | [184221-voidhunter.json](./184221-voidhunter.json) |
@@ -2943,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volunteers | 207587 | [207587-volunteers.json](./207587-volunteers.json) |
 | Volunteers | 278953 | [278953-volunteers.json](./278953-volunteers.json) |
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
+| Volvo V70 Racing | 394587 | [394587-volvo-v70-racing.json](./394587-volvo-v70-racing.json) |
 | Volvo: The Game | 84449 | [84449-volvo-the-game.json](./84449-volvo-the-game.json) |
 | Volvox | 18551 | [18551-volvox.json](./18551-volvox.json) |
 | Volvy’s Adventure: Reslimed | 323369 | [323369-volvy-s-adventure-reslimed.json](./323369-volvy-s-adventure-reslimed.json) |
