@@ -3115,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
 | Feeding Kimunakji 2 | 122924 | [122924-feeding-kimunakji-2.json](./122924-feeding-kimunakji-2.json) |
+| Feeding My Ducks | 390995 | [390995-feeding-my-ducks.json](./390995-feeding-my-ducks.json) |
 | Feeding the Monster | 69237 | [69237-feeding-the-monster.json](./69237-feeding-the-monster.json) |
 | Feeding the Velociraptors | 348578 | [348578-feeding-the-velociraptors.json](./348578-feeding-the-velociraptors.json) |
 | Feeding Yuyuko | 412226 | [412226-feeding-yuyuko.json](./412226-feeding-yuyuko.json) |
@@ -4431,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Star Force | 40986 | [40986-final-star-force.json](./40986-final-star-force.json) |
 | Final Stardust: Cosmic Nexus | 197262 | [197262-final-stardust-cosmic-nexus.json](./197262-final-stardust-cosmic-nexus.json) |
 | Final Stepasy | 395463 | [395463-final-stepasy.json](./395463-final-stepasy.json) |
+| Final Strategy | 390997 | [390997-final-strategy.json](./390997-final-strategy.json) |
 | Final Sword | 135636 | [135636-final-sword.json](./135636-final-sword.json) |
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
@@ -6666,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Block Forever | 393095 | [393095-floating-block-forever.json](./393095-floating-block-forever.json) |
 | Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
+| Floating Frontiers | 390988 | [390988-floating-frontiers.json](./390988-floating-frontiers.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
 | Floating Girl | 270156 | [270156-floating-girl.json](./270156-floating-girl.json) |
 | Floating Isle Days | 379015 | [379015-floating-isle-days.json](./379015-floating-isle-days.json) |
@@ -7289,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus Find | 199260 | [199260-focus-find.json](./199260-focus-find.json) |
 | Focus Friend | 367721 | [367721-focus-friend.json](./367721-focus-friend.json) |
 | Focus Froggy | 412600 | [412600-focus-froggy.json](./412600-focus-froggy.json) |
+| Focus Grove | 391002 | [391002-focus-grove.json](./391002-focus-grove.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
 | Fodders Grapple Gauntlet | 401602 | [401602-fodders-grapple-gauntlet.json](./401602-fodders-grapple-gauntlet.json) |
@@ -9666,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy | 220026 | [220026-frenzy.json](./220026-frenzy.json) |
 | Frenzy Blood | 287183 | [287183-frenzy-blood.json](./287183-frenzy-blood.json) |
 | Frenzy Fall | 347808 | [347808-frenzy-fall.json](./347808-frenzy-fall.json) |
+| Frenzy Force | 392104 | [392104-frenzy-force.json](./392104-frenzy-force.json) |
 | Frenzy Freak Fantasy | 370198 | [370198-frenzy-freak-fantasy.json](./370198-frenzy-freak-fantasy.json) |
 | Frenzy Plants | 122187 | [122187-frenzy-plants.json](./122187-frenzy-plants.json) |
 | Frenzy Retribution | 122306 | [122306-frenzy-retribution.json](./122306-frenzy-retribution.json) |
