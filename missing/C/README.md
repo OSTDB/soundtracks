@@ -6388,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
 | Choreo: Legend of Loco | 232002 | [232002-choreo-legend-of-loco.json](./232002-choreo-legend-of-loco.json) |
+| ChoreoCraft | 404519 | [404519-choreocraft.json](./404519-choreocraft.json) |
 | Chores of Corruption | 261728 | [261728-chores-of-corruption.json](./261728-chores-of-corruption.json) |
 | Chorizo | 217409 | [217409-chorizo.json](./217409-chorizo.json) |
 | Chornobyl Breakout | 372279 | [372279-chornobyl-breakout.json](./372279-chornobyl-breakout.json) |
