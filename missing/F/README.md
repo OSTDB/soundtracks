@@ -3036,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
 | Fedya Mod | 394099 | [394099-fedya-mod.json](./394099-fedya-mod.json) |
 | Fee Payment & Cigarettes | 406282 | [406282-fee-payment-and-cigarettes.json](./406282-fee-payment-and-cigarettes.json) |
+| FeeBay Simulator | 404510 | [404510-feebay-simulator.json](./404510-feebay-simulator.json) |
 | Feeble Force | 105545 | [105545-feeble-force.json](./105545-feeble-force.json) |
 | Feeble Origins: Path of a Hero | 115056 | [115056-feeble-origins-path-of-a-hero.json](./115056-feeble-origins-path-of-a-hero.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
