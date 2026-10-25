@@ -7197,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Hometown | 339812 | [339812-hollow-hometown.json](./339812-hollow-hometown.json) |
 | Hollow Host | 350224 | [350224-hollow-host.json](./350224-hollow-host.json) |
 | Hollow Inn | 400349 | [400349-hollow-inn.json](./400349-hollow-inn.json) |
+| Hollow Island | 128050 | [128050-hollow-island.json](./128050-hollow-island.json) |
 | Hollow Jump | 348466 | [348466-hollow-jump.json](./348466-hollow-jump.json) |
 | Hollow Knight | 365702 | [365702-hollow-knight.json](./365702-hollow-knight.json) |
 | Hollow Knight Gun Mod | 341658 | [341658-hollow-knight-gun-mod.json](./341658-hollow-knight-gun-mod.json) |
