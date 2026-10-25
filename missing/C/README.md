@@ -2253,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caromble! | 24655 | [24655-caromble.json](./24655-caromble.json) |
 | Carousel | 13700 | [13700-carousel.json](./13700-carousel.json) |
 | Carousel | 261887 | [261887-carousel.json](./261887-carousel.json) |
+| Carp Fishing Simulator | 35329 | [35329-carp-fishing-simulator.json](./35329-carp-fishing-simulator.json) |
 | Carpark Hero | 404216 | [404216-carpark-hero.json](./404216-carpark-hero.json) |
 | Carpathian Night | 108757 | [108757-carpathian-night.json](./108757-carpathian-night.json) |
 | Carpathian Night Starring Bela Lugosi | 330234 | [330234-carpathian-night-starring-bela-lugosi.json](./330234-carpathian-night-starring-bela-lugosi.json) |
@@ -8462,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Castles | 61157 | [61157-close-castles.json](./61157-close-castles.json) |
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
+| Close Combat : Panthers in the Fog | 35328 | [35328-close-combat-panthers-in-the-fog.json](./35328-close-combat-panthers-in-the-fog.json) |
 | Close Combat 4: Battle of the Bulge | 24125 | [24125-close-combat-4-battle-of-the-bulge.json](./24125-close-combat-4-battle-of-the-bulge.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
@@ -10500,6 +10502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
 | Company of Heroes 2: German Commander - Lightning War Doctrine | 168086 | [168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json](./168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json) |
 | Company of Heroes 2: German Commander - Spearhead Doctrine | 168294 | [168294-company-of-heroes-2-german-commander-spearhead-doctrine.json](./168294-company-of-heroes-2-german-commander-spearhead-doctrine.json) |
+| Company of Heroes 2: Platinum Edition | 35362 | [35362-company-of-heroes-2-platinum-edition.json](./35362-company-of-heroes-2-platinum-edition.json) |
 | Company of Heroes 2: Soviet Commander - Counterattack Tactics | 158409 | [158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json](./158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Partisan Tactics | 168291 | [168291-company-of-heroes-2-soviet-commander-partisan-tactics.json](./168291-company-of-heroes-2-soviet-commander-partisan-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Tank Hunter Tactics | 168292 | [168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json](./168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json) |
@@ -11280,6 +11283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraband Police - Crimson Fall | 381783 | [381783-contraband-police-crimson-fall.json](./381783-contraband-police-crimson-fall.json) |
 | Contrablade World | 197162 | [197162-contrablade-world.json](./197162-contrablade-world.json) |
 | Contract | 131217 | [131217-contract.json](./131217-contract.json) |
+| Contract | 34305 | [34305-contract.json](./34305-contract.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract Demon | 140911 | [140911-contract-demon.json](./140911-contract-demon.json) |
@@ -15644,6 +15648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cue Academy | 61545 | [61545-cue-academy.json](./61545-cue-academy.json) |
 | Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
 | Cue Club | 50317 | [50317-cue-club.json](./50317-cue-club.json) |
+| Cue Club 2 | 35340 | [35340-cue-club-2.json](./35340-cue-club-2.json) |
 | Cue Club 2 - Pool & Snooker | 52849 | [52849-cue-club-2-pool-and-snooker.json](./52849-cue-club-2-pool-and-snooker.json) |
 | Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
