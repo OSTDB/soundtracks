@@ -3192,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Fox and the Four Seasons: Design My Forest | 212679 | [212679-red-fox-and-the-four-seasons-design-my-forest.json](./212679-red-fox-and-the-four-seasons-design-my-forest.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
 | Red Fox: Exploration on the the Red Fox Island | 358886 | [358886-red-fox-exploration-on-the-the-red-fox-island.json](./358886-red-fox-exploration-on-the-the-red-fox-island.json) |
+| Red Frame | 403320 | [403320-red-frame.json](./403320-red-frame.json) |
 | Red Frontier | 374885 | [374885-red-frontier.json](./374885-red-frontier.json) |
 | Red Frozen | 149207 | [149207-red-frozen.json](./149207-red-frozen.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
@@ -5297,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenger | 164983 | [164983-revenger.json](./164983-revenger.json) |
 | Revenger Origin | 413450 | [413450-revenger-origin.json](./413450-revenger-origin.json) |
 | Revenger: Age of Morons | 89980 | [89980-revenger-age-of-morons.json](./89980-revenger-age-of-morons.json) |
+| Revenger3 | 403349 | [403349-revenger3.json](./403349-revenger3.json) |
 | Revengers | 220626 | [220626-revengers.json](./220626-revengers.json) |
 | Revengers of Vengeance | 46411 | [46411-revengers-of-vengeance.json](./46411-revengers-of-vengeance.json) |
 | Revenggie | 412308 | [412308-revenggie.json](./412308-revenggie.json) |
@@ -8919,6 +8921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Pirate Cat | 394844 | [394844-rooftop-rascal-the-pirate-cat.json](./394844-rooftop-rascal-the-pirate-cat.json) |
 | Rooftop Rascal: The Spooky Cat | 320373 | [320373-rooftop-rascal-the-spooky-cat.json](./320373-rooftop-rascal-the-spooky-cat.json) |
 | Rooftop Renegade | 139449 | [139449-rooftop-renegade.json](./139449-rooftop-renegade.json) |
+| Rooftop Run | 403330 | [403330-rooftop-run.json](./403330-rooftop-run.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Rooftops Jam | 421431 | [421431-rooftops-jam.json](./421431-rooftops-jam.json) |
