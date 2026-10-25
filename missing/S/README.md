@@ -4727,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Office | 81950 | [81950-serious-office.json](./81950-serious-office.json) |
 | Serious Sam | 198137 | [198137-serious-sam.json](./198137-serious-sam.json) |
 | Serious Sam | 291050 | [291050-serious-sam.json](./291050-serious-sam.json) |
+| Serious Sam 3 VR: BFE | 75581 | [75581-serious-sam-3-vr-bfe.json](./75581-serious-sam-3-vr-bfe.json) |
 | Serious Sam 3: BFE | 527 | [527-serious-sam-3-bfe.json](./527-serious-sam-3-bfe.json) |
 | Serious Sam 3: BFE - Serious Digital Edition | 53587 | [53587-serious-sam-3-bfe-serious-digital-edition.json](./53587-serious-sam-3-bfe-serious-digital-edition.json) |
 | Serious Sam 3: BFE Gold Edition | 53586 | [53586-serious-sam-3-bfe-gold-edition.json](./53586-serious-sam-3-bfe-gold-edition.json) |
@@ -16093,6 +16094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
 | Space Outpost Sigma | 331742 | [331742-space-outpost-sigma.json](./331742-space-outpost-sigma.json) |
 | Space Overlord: I got Isekai'd into a Sci-fi World | 195979 | [195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json](./195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json) |
+| Space Panic Defense | 75306 | [75306-space-panic-defense.json](./75306-space-panic-defense.json) |
 | Space Panic VR (Room Escape) | 37405 | [37405-space-panic-vr-room-escape.json](./37405-space-panic-vr-room-escape.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
 | Space Paranoids | 63774 | [63774-space-paranoids.json](./63774-space-paranoids.json) |
@@ -16254,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Siege | 9276 | [9276-space-siege.json](./9276-space-siege.json) |
 | Space Sim Tycoon | 373354 | [373354-space-sim-tycoon.json](./373354-space-sim-tycoon.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
+| Space Simulator | 60066 | [60066-space-simulator.json](./60066-space-simulator.json) |
 | Space Simulator HD - Planet Flight | 95529 | [95529-space-simulator-hd-planet-flight.json](./95529-space-simulator-hd-planet-flight.json) |
 | Space Sirens 2: Megababes from Ajia | 73459 | [73459-space-sirens-2-megababes-from-ajia.json](./73459-space-sirens-2-megababes-from-ajia.json) |
 | Space Slalom | 6138 | [6138-space-slalom.json](./6138-space-slalom.json) |
@@ -22866,6 +22869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: SFL2020 NASR Costumes Bundle | 332657 | [332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json](./332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json) |
 | Street Fighter V: SFL2020 UYU Costumes Bundle | 332656 | [332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json](./332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json) |
 | Street Fighter V: Skies of Honor | 321652 | [321652-street-fighter-v-skies-of-honor.json](./321652-street-fighter-v-skies-of-honor.json) |
+| Street Fighter V: Special Shoryuken Edition | 75374 | [75374-street-fighter-v-special-shoryuken-edition.json](./75374-street-fighter-v-special-shoryuken-edition.json) |
 | Street Fighter V: Story Costume Pack Season 1-3 | 342577 | [342577-street-fighter-v-story-costume-pack-season-1-3.json](./342577-street-fighter-v-story-costume-pack-season-1-3.json) |
 | Street Fighter V: Zangief Costume Bundle | 388881 | [388881-street-fighter-v-zangief-costume-bundle.json](./388881-street-fighter-v-zangief-costume-bundle.json) |
 | Street Fighter V: Zeku | 332476 | [332476-street-fighter-v-zeku.json](./332476-street-fighter-v-zeku.json) |
@@ -25193,6 +25197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Duck! | 222363 | [222363-super-duck.json](./222363-super-duck.json) |
 | Super Dude-Shooter: The Omni-Revenge | 140994 | [140994-super-dude-shooter-the-omni-revenge.json](./140994-super-dude-shooter-the-omni-revenge.json) |
 | Super Duelling Minivans | 71794 | [71794-super-duelling-minivans.json](./71794-super-duelling-minivans.json) |
+| Super Dungeon Boy | 75342 | [75342-super-dungeon-boy.json](./75342-super-dungeon-boy.json) |
 | Super Dungeon Boy 2 | 86576 | [86576-super-dungeon-boy-2.json](./86576-super-dungeon-boy-2.json) |
 | Super Dungeon Bros Mega Bundle Pack | 82413 | [82413-super-dungeon-bros-mega-bundle-pack.json](./82413-super-dungeon-bros-mega-bundle-pack.json) |
 | Super Dungeon Bros: Broettes | 172385 | [172385-super-dungeon-bros-broettes.json](./172385-super-dungeon-bros-broettes.json) |
@@ -27829,6 +27834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
 | Survival Messenger Adventure | 231453 | [231453-survival-messenger-adventure.json](./231453-survival-messenger-adventure.json) |
+| Survival Method | 75340 | [75340-survival-method.json](./75340-survival-method.json) |
 | Survival Mobile:10,000 BC | 90381 | [90381-survival-mobile-10-000-bc.json](./90381-survival-mobile-10-000-bc.json) |
 | Survival Nation | 228586 | [228586-survival-nation.json](./228586-survival-nation.json) |
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
