@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterful | 404861 | [404861-waterful.json](./404861-waterful.json) |
 | Watergate Xtreme | 52090 | [52090-watergate-xtreme.json](./52090-watergate-xtreme.json) |
 | Watering a Flower | 183907 | [183907-watering-a-flower.json](./183907-watering-a-flower.json) |
+| Watering The Plant Girl: Roots & Rehydrated | 411343 | [411343-watering-the-plant-girl-roots-and-rehydrated.json](./411343-watering-the-plant-girl-roots-and-rehydrated.json) |
 | Waterjacked! | 362330 | [362330-waterjacked.json](./362330-waterjacked.json) |
 | Waterloo | 12821 | [12821-waterloo.json](./12821-waterloo.json) |
 | Waterloo | 328018 | [328018-waterloo.json](./328018-waterloo.json) |
