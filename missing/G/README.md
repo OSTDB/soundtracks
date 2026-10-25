@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Scramble | 107555 | [107555-gamble-scramble.json](./107555-gamble-scramble.json) |
 | Gamble Tower | 172398 | [172398-gamble-tower.json](./172398-gamble-tower.json) |
 | Gamble With Your Friends | 361027 | [361027-gamble-with-your-friends.json](./361027-gamble-with-your-friends.json) |
+| Gamble Your Breath | 415756 | [415756-gamble-your-breath.json](./415756-gamble-your-breath.json) |
 | Gamble: Hard Exit | 389481 | [389481-gamble-hard-exit.json](./389481-gamble-hard-exit.json) |
 | Gamblemancer TD | 280101 | [280101-gamblemancer-td.json](./280101-gamblemancer-td.json) |
 | Gambler Densetsu Tetsuya: Shinjuku Tenun-hen | 281451 | [281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json](./281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json) |
@@ -2748,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geopod XE | 93384 | [93384-geopod-xe.json](./93384-geopod-xe.json) |
 | Geopoesis: Eos | 197782 | [197782-geopoesis-eos.json](./197782-geopoesis-eos.json) |
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
+| Geopogo Cities: Windsor–Detroit | 415747 | [415747-geopogo-cities-windsor-detroit.json](./415747-geopogo-cities-windsor-detroit.json) |
 | Geopolitics | 181229 | [181229-geopolitics.json](./181229-geopolitics.json) |
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
 | Geopoly | 235170 | [235170-geopoly.json](./235170-geopoly.json) |
@@ -4753,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins | 239103 | [239103-goblins.json](./239103-goblins.json) |
 | Goblins | 306054 | [306054-goblins.json](./306054-goblins.json) |
 | Goblins & Grottos | 20379 | [20379-goblins-and-grottos.json](./20379-goblins-and-grottos.json) |
+| Goblins and Gunslingers | 415761 | [415761-goblins-and-gunslingers.json](./415761-goblins-and-gunslingers.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
 | Goblins Keep Coming - Tower Defense | 75390 | [75390-goblins-keep-coming-tower-defense.json](./75390-goblins-keep-coming-tower-defense.json) |
