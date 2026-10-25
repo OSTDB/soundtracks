@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campire of Oasis: The Story | 397659 | [397659-campire-of-oasis-the-story.json](./397659-campire-of-oasis-the-story.json) |
 | Camplandia | 249872 | [249872-camplandia.json](./249872-camplandia.json) |
 | CampNight | 223502 | [223502-campnight.json](./223502-campnight.json) |
+| Campo Largo | 414211 | [414211-campo-largo.json](./414211-campo-largo.json) |
 | Camps | 293469 | [293469-camps.json](./293469-camps.json) |
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
@@ -6670,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma+Elektron | 199564 | [199564-chroma-elektron.json](./199564-chroma-elektron.json) |
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
+| ChromaFlow | 414393 | [414393-chromaflow.json](./414393-chromaflow.json) |
 | ChromaGun 2: Dye Hard | 305224 | [305224-chromagun-2-dye-hard.json](./305224-chromagun-2-dye-hard.json) |
 | ChromaGun VR | 118742 | [118742-chromagun-vr.json](./118742-chromagun-vr.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
@@ -7759,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clam Man | 114921 | [114921-clam-man.json](./114921-clam-man.json) |
 | Clam Man 2: Open Mic | 150779 | [150779-clam-man-2-open-mic.json](./150779-clam-man-2-open-mic.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
+| Clamber | 414398 | [414398-clamber.json](./414398-clamber.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
@@ -10191,6 +10194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
 | Combat Mission: Shock Force | 21234 | [21234-combat-mission-shock-force.json](./21234-combat-mission-shock-force.json) |
 | Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
+| Combat Online 2 | 414219 | [414219-combat-online-2.json](./414219-combat-online-2.json) |
 | Combat Pilot: Carrier Qualification | 392211 | [392211-combat-pilot-carrier-qualification.json](./392211-combat-pilot-carrier-qualification.json) |
 | Combat Raccoon | 54857 | [54857-combat-raccoon.json](./54857-combat-raccoon.json) |
 | Combat Racers | 33461 | [33461-combat-racers.json](./33461-combat-racers.json) |
