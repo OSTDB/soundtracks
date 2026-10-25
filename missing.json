@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-25T11:33:30.777Z",
-  "total_missing": 260259,
+  "generated_at": "2026-10-25T11:50:19.785Z",
+  "total_missing": 260309,
   "games": [
     {
       "igdb_id": 191680,
@@ -147017,6 +147017,11 @@
       "file": "missing/B/240106-bowl-em-down.json"
     },
     {
+      "igdb_id": 411351,
+      "game_name": "Bowl Big",
+      "file": "missing/B/411351-bowl-big.json"
+    },
+    {
       "igdb_id": 32315,
       "game_name": "Bowl VR",
       "file": "missing/B/32315-bowl-vr.json"
@@ -173007,6 +173012,11 @@
       "file": "missing/C/385801-captain-tsubasa-moeyo-drive-shoot.json"
     },
     {
+      "igdb_id": 411298,
+      "game_name": "Captain Tsubasa: My Golden XI",
+      "file": "missing/C/411298-captain-tsubasa-my-golden-xi.json"
+    },
+    {
       "igdb_id": 47865,
       "game_name": "Captain Tsubasa: New Kick Off",
       "file": "missing/C/47865-captain-tsubasa-new-kick-off.json"
@@ -191665,6 +191675,11 @@
       "igdb_id": 23249,
       "game_name": "Chemicus: Journey to the Other Side",
       "file": "missing/C/23249-chemicus-journey-to-the-other-side.json"
+    },
+    {
+      "igdb_id": 411342,
+      "game_name": "Cheminots",
+      "file": "missing/C/411342-cheminots.json"
     },
     {
       "igdb_id": 66959,
@@ -211765,6 +211780,11 @@
       "igdb_id": 337067,
       "game_name": "Coin Smith",
       "file": "missing/C/337067-coin-smith.json"
+    },
+    {
+      "igdb_id": 411316,
+      "game_name": "Coin Tavern",
+      "file": "missing/C/411316-coin-tavern.json"
     },
     {
       "igdb_id": 272871,
@@ -254112,9 +254132,34 @@
       "file": "missing/D/304336-danganronpa-mauve.json"
     },
     {
+      "igdb_id": 411328,
+      "game_name": "Danganronpa O: Sea of Despair",
+      "file": "missing/D/411328-danganronpa-o-sea-of-despair.json"
+    },
+    {
+      "igdb_id": 411320,
+      "game_name": "Danganronpa Oldmaid",
+      "file": "missing/D/411320-danganronpa-oldmaid.json"
+    },
+    {
       "igdb_id": 152366,
       "game_name": "Danganronpa S: Ultimate Summer Camp",
       "file": "missing/D/152366-danganronpa-s-ultimate-summer-camp.json"
+    },
+    {
+      "igdb_id": 411326,
+      "game_name": "Danganronpa Split",
+      "file": "missing/D/411326-danganronpa-split.json"
+    },
+    {
+      "igdb_id": 411332,
+      "game_name": "Danganronpa Twinn",
+      "file": "missing/D/411332-danganronpa-twinn.json"
+    },
+    {
+      "igdb_id": 411341,
+      "game_name": "Danganronpa V: Friendly Shot",
+      "file": "missing/D/411341-danganronpa-v-friendly-shot.json"
     },
     {
       "igdb_id": 152401,
@@ -254147,6 +254192,11 @@
       "file": "missing/D/337577-danganronpa-z-patient-madness-cropper.json"
     },
     {
+      "igdb_id": 411321,
+      "game_name": "Danganronpa Zero: Memory Lapse",
+      "file": "missing/D/411321-danganronpa-zero-memory-lapse.json"
+    },
+    {
       "igdb_id": 304348,
       "game_name": "Danganronpa: Abandoned Lights",
       "file": "missing/D/304348-danganronpa-abandoned-lights.json"
@@ -254177,6 +254227,16 @@
       "file": "missing/D/134504-danganronpa-dead-end.json"
     },
     {
+      "igdb_id": 411319,
+      "game_name": "Danganronpa: Despair Among Us",
+      "file": "missing/D/411319-danganronpa-despair-among-us.json"
+    },
+    {
+      "igdb_id": 411323,
+      "game_name": "Danganronpa: Despair's Loss",
+      "file": "missing/D/411323-danganronpa-despairs-loss.json"
+    },
+    {
       "igdb_id": 304347,
       "game_name": "Danganronpa: Eternal Endings",
       "file": "missing/D/304347-danganronpa-eternal-endings.json"
@@ -254192,9 +254252,29 @@
       "file": "missing/D/341110-danganronpa-gods-at-gunpoint.json"
     },
     {
+      "igdb_id": 411329,
+      "game_name": "Danganronpa: Grand Lie",
+      "file": "missing/D/411329-danganronpa-grand-lie.json"
+    },
+    {
+      "igdb_id": 411338,
+      "game_name": "Danganronpa: Greenlit",
+      "file": "missing/D/411338-danganronpa-greenlit.json"
+    },
+    {
+      "igdb_id": 411337,
+      "game_name": "Danganronpa: High Expectations",
+      "file": "missing/D/411337-danganronpa-high-expectations.json"
+    },
+    {
       "igdb_id": 341105,
       "game_name": "Danganronpa: Hope Restoration",
       "file": "missing/D/341105-danganronpa-hope-restoration.json"
+    },
+    {
+      "igdb_id": 411324,
+      "game_name": "Danganronpa: Interstellar Despair",
+      "file": "missing/D/411324-danganronpa-interstellar-despair.json"
     },
     {
       "igdb_id": 337574,
@@ -254222,6 +254302,16 @@
       "file": "missing/D/339399-danganronpa-new-world-order.json"
     },
     {
+      "igdb_id": 411340,
+      "game_name": "Danganronpa: Objectfiedronpa",
+      "file": "missing/D/411340-danganronpa-objectfiedronpa.json"
+    },
+    {
+      "igdb_id": 411322,
+      "game_name": "Danganronpa: Post-Mortem Memories",
+      "file": "missing/D/411322-danganronpa-post-mortem-memories.json"
+    },
+    {
       "igdb_id": 228264,
       "game_name": "Danganronpa: Resort Killing",
       "file": "missing/D/228264-danganronpa-resort-killing.json"
@@ -254232,9 +254322,24 @@
       "file": "missing/D/338840-danganronpa-salvations-fears.json"
     },
     {
+      "igdb_id": 411327,
+      "game_name": "Danganronpa: Slurpsoul",
+      "file": "missing/D/411327-danganronpa-slurpsoul.json"
+    },
+    {
+      "igdb_id": 411339,
+      "game_name": "Danganronpa: Streamers Despair",
+      "file": "missing/D/411339-danganronpa-streamers-despair.json"
+    },
+    {
       "igdb_id": 341080,
       "game_name": "Danganronpa: Survivor's Guilt",
       "file": "missing/D/341080-danganronpa-survivors-guilt.json"
+    },
+    {
+      "igdb_id": 411334,
+      "game_name": "Danganronpa: Survivor's Guilt - Origin",
+      "file": "missing/D/411334-danganronpa-survivors-guilt-origin.json"
     },
     {
       "igdb_id": 413639,
@@ -304342,6 +304447,11 @@
       "file": "missing/D/339295-doors.json"
     },
     {
+      "igdb_id": 411310,
+      "game_name": "Doors",
+      "file": "missing/D/411310-doors.json"
+    },
+    {
       "igdb_id": 112745,
       "game_name": "Doors & Rooms",
       "file": "missing/D/112745-doors-and-rooms.json"
@@ -311795,6 +311905,11 @@
       "igdb_id": 402964,
       "game_name": "Dragon Raja: ReRise",
       "file": "missing/D/402964-dragon-raja-rerise.json"
+    },
+    {
+      "igdb_id": 411333,
+      "game_name": "Dragon Raja: The Farewell Passage",
+      "file": "missing/D/411333-dragon-raja-the-farewell-passage.json"
     },
     {
       "igdb_id": 348661,
@@ -321500,6 +321615,11 @@
       "igdb_id": 224949,
       "game_name": "Duck Think Outside the Flock",
       "file": "missing/D/224949-duck-think-outside-the-flock.json"
+    },
+    {
+      "igdb_id": 411312,
+      "game_name": "Duck Trust",
+      "file": "missing/D/411312-duck-trust.json"
     },
     {
       "igdb_id": 228963,
@@ -336472,6 +336592,11 @@
       "file": "missing/E/329967-eighth-era.json"
     },
     {
+      "igdb_id": 411306,
+      "game_name": "Eighth Heaven",
+      "file": "missing/E/411306-eighth-heaven.json"
+    },
+    {
       "igdb_id": 40976,
       "game_name": "EightMan",
       "file": "missing/E/40976-eightman.json"
@@ -348190,6 +348315,11 @@
       "igdb_id": 380414,
       "game_name": "Epoch Reset",
       "file": "missing/E/380414-epoch-reset.json"
+    },
+    {
+      "igdb_id": 411293,
+      "game_name": "Epoch Vault",
+      "file": "missing/E/411293-epoch-vault.json"
     },
     {
       "igdb_id": 64216,
@@ -371017,6 +371147,16 @@
       "file": "missing/F/407192-fang-and-izzy-pinball-bash.json"
     },
     {
+      "igdb_id": 411336,
+      "game_name": "Fangan! Dead Chivalry",
+      "file": "missing/F/411336-fangan-dead-chivalry.json"
+    },
+    {
+      "igdb_id": 411335,
+      "game_name": "Fangan! OVA: Buried Secrets",
+      "file": "missing/F/411335-fangan-ova-buried-secrets.json"
+    },
+    {
       "igdb_id": 114161,
       "game_name": "Fāngkuài Liánméng",
       "file": "missing/F/114161-fangkuai-lianmeng.json"
@@ -376670,6 +376810,11 @@
       "igdb_id": 388988,
       "game_name": "Fatal Fury: City of the Wolves - Nightmare Geese",
       "file": "missing/F/388988-fatal-fury-city-of-the-wolves-nightmare-geese.json"
+    },
+    {
+      "igdb_id": 411295,
+      "game_name": "Fatal Fury: City of the Wolves - Rick Strowd",
+      "file": "missing/F/411295-fatal-fury-city-of-the-wolves-rick-strowd.json"
     },
     {
       "igdb_id": 317833,
@@ -505127,6 +505272,11 @@
       "file": "missing/H/369366-homam-an-inventors-fist.json"
     },
     {
+      "igdb_id": 411301,
+      "game_name": "Homauton",
+      "file": "missing/H/411301-homauton.json"
+    },
+    {
       "igdb_id": 224223,
       "game_name": "Homaysa",
       "file": "missing/H/224223-homaysa.json"
@@ -581382,6 +581532,11 @@
       "file": "missing/K/344914-kings-of-the-realm.json"
     },
     {
+      "igdb_id": 411290,
+      "game_name": "Kings on the Corner",
+      "file": "missing/K/411290-kings-on-the-corner.json"
+    },
+    {
       "igdb_id": 237073,
       "game_name": "Kings Shire",
       "file": "missing/K/237073-kings-shire.json"
@@ -592760,6 +592915,11 @@
       "igdb_id": 66146,
       "game_name": "Kyuukyoku Tiger II Plus",
       "file": "missing/K/66146-kyuukyoku-tiger-ii-plus.json"
+    },
+    {
+      "igdb_id": 411330,
+      "game_name": "Kyuukyuu Enshi",
+      "file": "missing/K/411330-kyuukyuu-enshi.json"
     },
     {
       "igdb_id": 268510,
@@ -653347,6 +653507,11 @@
       "file": "missing/M/28107-marvel-contest-of-champions.json"
     },
     {
+      "igdb_id": 411354,
+      "game_name": "Marvel Cosmic Invasion: Cyclops & The Thing",
+      "file": "missing/M/411354-marvel-cosmic-invasion-cyclops-and-the-thing.json"
+    },
+    {
       "igdb_id": 61656,
       "game_name": "Marvel Disk Wars: Avengers - Ultimate Heroes",
       "file": "missing/M/61656-marvel-disk-wars-avengers-ultimate-heroes.json"
@@ -695002,6 +695167,11 @@
       "file": "missing/M/227819-moguuru-dabas.json"
     },
     {
+      "igdb_id": 411288,
+      "game_name": "Moha",
+      "file": "missing/M/411288-moha.json"
+    },
+    {
       "igdb_id": 42487,
       "game_name": "Mohawk & Headphone Jack",
       "file": "missing/M/42487-mohawk-and-headphone-jack.json"
@@ -731972,6 +732142,11 @@
       "file": "missing/N/68014-necessary-force.json"
     },
     {
+      "igdb_id": 411289,
+      "game_name": "Nechromia",
+      "file": "missing/N/411289-nechromia.json"
+    },
+    {
       "igdb_id": 40381,
       "game_name": "Neck-N-Neck",
       "file": "missing/N/40381-neck-n-neck.json"
@@ -738650,6 +738825,11 @@
       "igdb_id": 129521,
       "game_name": "New Colony",
       "file": "missing/N/129521-new-colony.json"
+    },
+    {
+      "igdb_id": 411318,
+      "game_name": "New Danganronpa: Paint the Town Nude",
+      "file": "missing/N/411318-new-danganronpa-paint-the-town-nude.json"
     },
     {
       "igdb_id": 168074,
@@ -773562,6 +773742,11 @@
       "file": "missing/O/140450-orbquest-the-search-for-seven-wards.json"
     },
     {
+      "igdb_id": 411311,
+      "game_name": "Orbra",
+      "file": "missing/O/411311-orbra.json"
+    },
+    {
       "igdb_id": 243525,
       "game_name": "OrbRider",
       "file": "missing/O/243525-orbrider.json"
@@ -781190,6 +781375,11 @@
       "igdb_id": 382478,
       "game_name": "Overtime",
       "file": "missing/O/382478-overtime.json"
+    },
+    {
+      "igdb_id": 411348,
+      "game_name": "Overtime",
+      "file": "missing/O/411348-overtime.json"
     },
     {
       "igdb_id": 136410,
@@ -794045,6 +794235,11 @@
       "igdb_id": 257831,
       "game_name": "Path of Exile: Crucible",
       "file": "missing/P/257831-path-of-exile-crucible.json"
+    },
+    {
+      "igdb_id": 411344,
+      "game_name": "Path of Exile: Curse of the Allflame",
+      "file": "missing/P/411344-path-of-exile-curse-of-the-allflame.json"
     },
     {
       "igdb_id": 142400,
@@ -835490,6 +835685,11 @@
       "igdb_id": 157570,
       "game_name": "Possessed Bloody Asylum",
       "file": "missing/P/157570-possessed-bloody-asylum.json"
+    },
+    {
+      "igdb_id": 411313,
+      "game_name": "Possessed Kingdom",
+      "file": "missing/P/411313-possessed-kingdom.json"
     },
     {
       "igdb_id": 343026,
@@ -895857,6 +896057,11 @@
       "file": "missing/R/320954-ring-fit-adventure-rhythm-game.json"
     },
     {
+      "igdb_id": 411314,
+      "game_name": "Ring Flyer",
+      "file": "missing/R/411314-ring-flyer.json"
+    },
+    {
       "igdb_id": 73656,
       "game_name": "Ring II: Twilight of the Gods",
       "file": "missing/R/73656-ring-ii-twilight-of-the-gods.json"
@@ -903905,6 +904110,11 @@
       "igdb_id": 377774,
       "game_name": "Rocket-Man",
       "file": "missing/R/377774-rocket-man.json"
+    },
+    {
+      "igdb_id": 411352,
+      "game_name": "Rocket1994",
+      "file": "missing/R/411352-rocket1994.json"
     },
     {
       "igdb_id": 47184,
@@ -914205,6 +914415,11 @@
       "igdb_id": 199562,
       "game_name": "Rule No. 2",
       "file": "missing/R/199562-rule-no-2.json"
+    },
+    {
+      "igdb_id": 411315,
+      "game_name": "Rule No. 3: Downpour",
+      "file": "missing/R/411315-rule-no-3-downpour.json"
     },
     {
       "igdb_id": 7415,
@@ -956660,6 +956875,11 @@
       "igdb_id": 183958,
       "game_name": "ShortStacked",
       "file": "missing/S/183958-shortstacked.json"
+    },
+    {
+      "igdb_id": 411302,
+      "game_name": "Shortstop by the Sea",
+      "file": "missing/S/411302-shortstop-by-the-sea.json"
     },
     {
       "igdb_id": 293214,
@@ -1040577,6 +1040797,11 @@
       "file": "missing/S/250360-summer-daze-tillys-tale.json"
     },
     {
+      "igdb_id": 411331,
+      "game_name": "Summer Delusion: The Girl Only I Can See",
+      "file": "missing/S/411331-summer-delusion-the-girl-only-i-can-see.json"
+    },
+    {
       "igdb_id": 41013,
       "game_name": "Summer Events",
       "file": "missing/S/41013-summer-events.json"
@@ -1044725,6 +1044950,11 @@
       "igdb_id": 143215,
       "game_name": "Super Danganronpa Another 2 ~The Moon of Hope and Sun of Despair~",
       "file": "missing/S/143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json"
+    },
+    {
+      "igdb_id": 411317,
+      "game_name": "Super Danganronpa Another 2: Summer Camp",
+      "file": "missing/S/411317-super-danganronpa-another-2-summer-camp.json"
     },
     {
       "igdb_id": 42658,
@@ -1115510,6 +1115740,11 @@
       "igdb_id": 165454,
       "game_name": "The Last Act",
       "file": "missing/T/165454-the-last-act.json"
+    },
+    {
+      "igdb_id": 411349,
+      "game_name": "The Last Admiral",
+      "file": "missing/T/411349-the-last-admiral.json"
     },
     {
       "igdb_id": 331756,
@@ -1209047,6 +1209282,11 @@
       "file": "missing/U/265132-ultradian.json"
     },
     {
+      "igdb_id": 411305,
+      "game_name": "Ultrafeminine",
+      "file": "missing/U/411305-ultrafeminine.json"
+    },
+    {
       "igdb_id": 11130,
       "game_name": "Ultraflow",
       "file": "missing/U/11130-ultraflow.json"
@@ -1217225,6 +1217465,11 @@
       "igdb_id": 386715,
       "game_name": "Untitled God of War Live-Service Game",
       "file": "missing/U/386715-untitled-god-of-war-live-service-game.json"
+    },
+    {
+      "igdb_id": 411299,
+      "game_name": "Untitled God of War Sequel",
+      "file": "missing/U/411299-untitled-god-of-war-sequel.json"
     },
     {
       "igdb_id": 181668,
@@ -1248180,6 +1248425,11 @@
       "igdb_id": 183907,
       "game_name": "Watering a Flower",
       "file": "missing/W/183907-watering-a-flower.json"
+    },
+    {
+      "igdb_id": 411343,
+      "game_name": "Watering The Plant Girl: Roots & Rehydrated",
+      "file": "missing/W/411343-watering-the-plant-girl-roots-and-rehydrated.json"
     },
     {
       "igdb_id": 362330,
