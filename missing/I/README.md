@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Ikuma: The Frozen Compass | 339619 | [339619-ikuma-the-frozen-compass.json](./339619-ikuma-the-frozen-compass.json) |
 | Ikun Go Go Go | 390628 | [390628-ikun-go-go-go.json](./390628-ikun-go-go-go.json) |
+| Ikun vs. Xhz | 407798 | [407798-ikun-vs-xhz.json](./407798-ikun-vs-xhz.json) |
 | Ikusa Megami | 208288 | [208288-ikusa-megami.json](./208288-ikusa-megami.json) |
 | Ikusa Megami 2: Ushinawareshi Kioku he no Chinkonka | 208285 | [208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json](./208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json) |
 | Ikusa Megami Verita | 208286 | [208286-ikusa-megami-verita.json](./208286-ikusa-megami-verita.json) |
@@ -3250,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Life as a Poem | 383945 | [383945-infinity-nikki-life-as-a-poem.json](./383945-infinity-nikki-life-as-a-poem.json) |
 | Infinity Nikki: Revelry Season | 336160 | [336160-infinity-nikki-revelry-season.json](./336160-infinity-nikki-revelry-season.json) |
 | Infinity Nikki: Where All Souls Return | 399186 | [399186-infinity-nikki-where-all-souls-return.json](./399186-infinity-nikki-where-all-souls-return.json) |
+| Infinity Nikki: Where Stars Yearn | 407838 | [407838-infinity-nikki-where-stars-yearn.json](./407838-infinity-nikki-where-stars-yearn.json) |
 | Infinity Ops | 174826 | [174826-infinity-ops.json](./174826-infinity-ops.json) |
 | Infinity Party Battle | 224034 | [224034-infinity-party-battle.json](./224034-infinity-party-battle.json) |
 | Infinity Pinball | 142871 | [142871-infinity-pinball.json](./142871-infinity-pinball.json) |
@@ -4258,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dead 2: Zombie Survival | 101418 | [101418-into-the-dead-2-zombie-survival.json](./101418-into-the-dead-2-zombie-survival.json) |
 | Into the Dead: Crimson Heights | 404913 | [404913-into-the-dead-crimson-heights.json](./404913-into-the-dead-crimson-heights.json) |
 | Into the Dead: Our Darkest Days | 230366 | [230366-into-the-dead-our-darkest-days.json](./230366-into-the-dead-our-darkest-days.json) |
+| Into the Deep | 407764 | [407764-into-the-deep.json](./407764-into-the-deep.json) |
 | Into the Deep Web | 184608 | [184608-into-the-deep-web.json](./184608-into-the-deep-web.json) |
 | Into the Depth of the Sky | 318825 | [318825-into-the-depth-of-the-sky.json](./318825-into-the-depth-of-the-sky.json) |
 | Into The Depths | 287741 | [287741-into-the-depths.json](./287741-into-the-depths.json) |
@@ -4577,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Inc.: Contingency Plan | 68275 | [68275-invisible-inc-contingency-plan.json](./68275-invisible-inc-contingency-plan.json) |
 | Invisible Love | 286774 | [286774-invisible-love.json](./286774-invisible-love.json) |
 | Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
+| Invisible Opus | 407841 | [407841-invisible-opus.json](./407841-invisible-opus.json) |
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
 | Invisible Services: Pixel Art Jigsaw Puzzle | 162208 | [162208-invisible-services-pixel-art-jigsaw-puzzle.json](./162208-invisible-services-pixel-art-jigsaw-puzzle.json) |
 | Invisible Sign: Isu | 221028 | [221028-invisible-sign-isu.json](./221028-invisible-sign-isu.json) |
@@ -4988,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Frontier | 244714 | [244714-isekai-frontier.json](./244714-isekai-frontier.json) |
 | Isekai Frontline | 273887 | [273887-isekai-frontline.json](./273887-isekai-frontline.json) |
 | Isekai Guild | 417935 | [417935-isekai-guild.json](./417935-isekai-guild.json) |
+| Isekai Guild Simulation | 407811 | [407811-isekai-guild-simulation.json](./407811-isekai-guild-simulation.json) |
 | Isekai Harem Quest: Love, Blades, and Power | 334180 | [334180-isekai-harem-quest-love-blades-and-power.json](./334180-isekai-harem-quest-love-blades-and-power.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
 | Isekai Infinity: Worlds Unleashed | 291852 | [291852-isekai-infinity-worlds-unleashed.json](./291852-isekai-infinity-worlds-unleashed.json) |
@@ -5444,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Just TIC TAC TOE | 101704 | [101704-its-just-tic-tac-toe.json](./101704-its-just-tic-tac-toe.json) |
 | It's Kooky + Cyber Protocol | 231344 | [231344-its-kooky-cyber-protocol.json](./231344-its-kooky-cyber-protocol.json) |
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
+| It's Locked | 407791 | [407791-its-locked.json](./407791-its-locked.json) |
 | It's Mealtime! | 145505 | [145505-its-mealtime.json](./145505-its-mealtime.json) |
 | It's Mealtime! | 167247 | [167247-its-mealtime.json](./167247-its-mealtime.json) |
 | It's Not Like I LIke You | 354538 | [354538-its-not-like-i-like-you.json](./354538-its-not-like-i-like-you.json) |
