@@ -13538,6 +13538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonBeam | 313535 | [313535-moonbeam.json](./313535-moonbeam.json) |
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
+| Moonblood Mountain | 423221 | [423221-moonblood-mountain.json](./423221-moonblood-mountain.json) |
 | Moonbound | 186550 | [186550-moonbound.json](./186550-moonbound.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
 | Moonbrella | 335633 | [335633-moonbrella.json](./335633-moonbrella.json) |
