@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Caos: Overture - Act II | 170821 | [170821-a-tale-of-caos-overture-act-ii.json](./170821-a-tale-of-caos-overture-act-ii.json) |
 | A Tale of Caos: Overture - Act III | 170820 | [170820-a-tale-of-caos-overture-act-iii.json](./170820-a-tale-of-caos-overture-act-iii.json) |
 | A Tale of Caos: Prelude | 58086 | [58086-a-tale-of-caos-prelude.json](./58086-a-tale-of-caos-prelude.json) |
+| A Tale of Colours | 413679 | [413679-a-tale-of-colours.json](./413679-a-tale-of-colours.json) |
 | A Tale of Dirty Whiskers | 353795 | [353795-a-tale-of-dirty-whiskers.json](./353795-a-tale-of-dirty-whiskers.json) |
 | A Tale of Misery | 348913 | [348913-a-tale-of-misery.json](./348913-a-tale-of-misery.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
@@ -2273,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across | 30823 | [30823-across.json](./30823-across.json) |
 | Across Age DX | 38714 | [38714-across-age-dx.json](./38714-across-age-dx.json) |
 | Across Age II | 38713 | [38713-across-age-ii.json](./38713-across-age-ii.json) |
+| Across Crime | 413637 | [413637-across-crime.json](./413637-across-crime.json) |
 | Across Icaria | 337794 | [337794-across-icaria.json](./337794-across-icaria.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the demon realm | 150546 | [150546-across-the-demon-realm.json](./150546-across-the-demon-realm.json) |
@@ -3019,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -6490,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alvastia Chronicles | 113623 | [113623-alvastia-chronicles.json](./113623-alvastia-chronicles.json) |
 | Alveari | 32509 | [32509-alveari.json](./32509-alveari.json) |
 | Alvegia Online | 218397 | [218397-alvegia-online.json](./218397-alvegia-online.json) |
+| Alvein | 413674 | [413674-alvein.json](./413674-alvein.json) |
 | Alveole | 164863 | [164863-alveole.json](./164863-alveole.json) |
 | Alveron: Withering Roots | 244651 | [244651-alveron-withering-roots.json](./244651-alveron-withering-roots.json) |
 | Alvin and the Chipmunks | 4669 | [4669-alvin-and-the-chipmunks.json](./4669-alvin-and-the-chipmunks.json) |
@@ -11247,6 +11251,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkhelom 3D | 35178 | [35178-arkhelom-3d.json](./35178-arkhelom-3d.json) |
 | ArkLight | 52406 | [52406-arklight.json](./52406-arklight.json) |
 | Arknights | 123395 | [123395-arknights.json](./123395-arknights.json) |
+| Arknights Episode 00: Evil Time Part 1 | 413421 | [413421-arknights-episode-00-evil-time-part-1.json](./413421-arknights-episode-00-evil-time-part-1.json) |
+| Arknights Episode 02: Separated Hearts | 413423 | [413423-arknights-episode-02-separated-hearts.json](./413423-arknights-episode-02-separated-hearts.json) |
 | Arknights Episode 04: Burning Run | 413425 | [413425-arknights-episode-04-burning-run.json](./413425-arknights-episode-04-burning-run.json) |
 | Arknights Episode 05: Necessary Solutions | 413427 | [413427-arknights-episode-05-necessary-solutions.json](./413427-arknights-episode-05-necessary-solutions.json) |
 | Arknights Episode 06: Partial Necrosis | 413428 | [413428-arknights-episode-06-partial-necrosis.json](./413428-arknights-episode-06-partial-necrosis.json) |
@@ -11260,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights Episode 14: Absolved Will Be the Seekers | 413437 | [413437-arknights-episode-14-absolved-will-be-the-seekers.json](./413437-arknights-episode-14-absolved-will-be-the-seekers.json) |
 | Arknights Episode 15: Dissociative Recombination | 413438 | [413438-arknights-episode-15-dissociative-recombination.json](./413438-arknights-episode-15-dissociative-recombination.json) |
 | Arknights Episode 16: Abnormal Spectrum | 413439 | [413439-arknights-episode-16-abnormal-spectrum.json](./413439-arknights-episode-16-abnormal-spectrum.json) |
+| Arknights Episode 17: Critical Phase Transition | 413440 | [413440-arknights-episode-17-critical-phase-transition.json](./413440-arknights-episode-17-critical-phase-transition.json) |
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
 | Arknights: Endfield - Update 1.4: Homecoming | 410274 | [410274-arknights-endfield-update-1-4-homecoming.json](./410274-arknights-endfield-update-1-4-homecoming.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
