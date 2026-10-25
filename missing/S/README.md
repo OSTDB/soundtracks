@@ -17383,6 +17383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Sniffers | 420512 | [420512-spell-sniffers.json](./420512-spell-sniffers.json) |
 | Spell Something | 328682 | [328682-spell-something.json](./328682-spell-something.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
+| Spell Strike | 395350 | [395350-spell-strike.json](./395350-spell-strike.json) |
 | Spell Sweeper | 192598 | [192598-spell-sweeper.json](./192598-spell-sweeper.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Weaver | 335381 | [335381-spell-weaver.json](./335381-spell-weaver.json) |
@@ -28858,6 +28859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Sport | 368572 | [368572-sweet-sport.json](./368572-sweet-sport.json) |
 | Sweet Spring Festival | 339441 | [339441-sweet-spring-festival.json](./339441-sweet-spring-festival.json) |
 | Sweet Starlight Sisters | 378897 | [378897-sweet-starlight-sisters.json](./378897-sweet-starlight-sisters.json) |
+| Sweet Starlight Sisters: Full Production Limited Edition | 395334 | [395334-sweet-starlight-sisters-full-production-limited-edition.json](./395334-sweet-starlight-sisters-full-production-limited-edition.json) |
 | Sweet Story Neko | 371441 | [371441-sweet-story-neko.json](./371441-sweet-story-neko.json) |
 | Sweet Story Wet-Bottom Pie | 369675 | [369675-sweet-story-wet-bottom-pie.json](./369675-sweet-story-wet-bottom-pie.json) |
 | Sweet Succubus | 379532 | [379532-sweet-succubus.json](./379532-sweet-succubus.json) |
