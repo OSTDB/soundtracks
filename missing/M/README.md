@@ -7743,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Melody: Pichi Pichi Pitch - Pichi Pichitto Live Start! | 63793 | [63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json](./63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json) |
 | Mermaid Mission: Titanic | 101288 | [101288-mermaid-mission-titanic.json](./101288-mermaid-mission-titanic.json) |
 | Mermaid no Kisetsu | 371011 | [371011-mermaid-no-kisetsu.json](./371011-mermaid-no-kisetsu.json) |
+| Mermaid no Kisetsu: Curtain Call | 419600 | [419600-mermaid-no-kisetsu-curtain-call.json](./419600-mermaid-no-kisetsu-curtain-call.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
 | Mermaid Secrets11- Mermaids Spa Salon Makeover | 99370 | [99370-mermaid-secrets11-mermaids-spa-salon-makeover.json](./99370-mermaid-secrets11-mermaids-spa-salon-makeover.json) |
@@ -13107,6 +13108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
 | Monster Pub | 100561 | [100561-monster-pub.json](./100561-monster-pub.json) |
 | Monster Pub: Chapter 2 | 178827 | [178827-monster-pub-chapter-2.json](./178827-monster-pub-chapter-2.json) |
+| Monster Punish | 419627 | [419627-monster-punish.json](./419627-monster-punish.json) |
 | Monster Puroresu | 266632 | [266632-monster-puroresu.json](./266632-monster-puroresu.json) |
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
 | Monster Puzzle | 32304 | [32304-monster-puzzle.json](./32304-monster-puzzle.json) |
@@ -13517,6 +13519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Patrol | 287080 | [287080-moon-patrol.json](./287080-moon-patrol.json) |
 | Moon Patrol | 377904 | [377904-moon-patrol.json](./377904-moon-patrol.json) |
 | Moon Patrol: The Milky Way Chronicles | 138567 | [138567-moon-patrol-the-milky-way-chronicles.json](./138567-moon-patrol-the-milky-way-chronicles.json) |
+| Moon Pool | 419593 | [419593-moon-pool.json](./419593-moon-pool.json) |
 | Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
 | Moon Ranger | 48198 | [48198-moon-ranger.json](./48198-moon-ranger.json) |
 | Moon Rat | 330829 | [330829-moon-rat.json](./330829-moon-rat.json) |
@@ -14695,6 +14698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto Shiritai Karada no Hatena | 261370 | [261370-motto-shiritai-karada-no-hatena.json](./261370-motto-shiritai-karada-no-hatena.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto Shiritai Nippon no Meijou | 261369 | [261369-motto-shiritai-nippon-no-meijou.json](./261369-motto-shiritai-nippon-no-meijou.json) |
+| Motto! Nyan to Wonderful 2 | 419631 | [419631-motto-nyan-to-wonderful-2.json](./419631-motto-nyan-to-wonderful-2.json) |
 | Motto! SoniComi | 93600 | [93600-motto-sonicomi.json](./93600-motto-sonicomi.json) |
 | Motto! Stitch! DS: Rhythm de Rakugaki Daisakusen | 98569 | [98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json](./98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json) |
 | Motto!? Atai no Gensoukyou | 207037 | [207037-motto-atai-no-gensoukyou.json](./207037-motto-atai-no-gensoukyou.json) |
@@ -14789,6 +14793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mounted War | 336691 | [336691-mounted-war.json](./336691-mounted-war.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
 | Mountris | 341639 | [341639-mountris.json](./341639-mountris.json) |
+| Mouri Motonari: Chikai no Sanshi | 419639 | [419639-mouri-motonari-chikai-no-sanshi.json](./419639-mouri-motonari-chikai-no-sanshi.json) |
 | Mourir en mer | 70435 | [70435-mourir-en-mer.json](./70435-mourir-en-mer.json) |
 | Mourn-born | 204938 | [204938-mourn-born.json](./204938-mourn-born.json) |
 | Mournful Sword | 121583 | [121583-mournful-sword.json](./121583-mournful-sword.json) |
