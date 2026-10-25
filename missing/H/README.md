@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Island Life | 194862 | [194862-happy-island-life.json](./194862-happy-island-life.json) |
 | Happy Jump | 112902 | [112902-happy-jump.json](./112902-happy-jump.json) |
 | Happy Lab | 252573 | [252573-happy-lab.json](./252573-happy-lab.json) |
+| Happy Landing Bundle: Evel Knievel + Finnigan Fox + Cornhole | 386789 | [386789-happy-landing-bundle-evel-knievel-finnigan-fox-cornhole.json](./386789-happy-landing-bundle-evel-knievel-finnigan-fox-cornhole.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Lesson: First Lesson | 64753 | [64753-happy-lesson-first-lesson.json](./64753-happy-lesson-first-lesson.json) |
 | Happy Little Farm | 405906 | [405906-happy-little-farm.json](./405906-happy-little-farm.json) |
