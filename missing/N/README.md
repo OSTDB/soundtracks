@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
 | Nacah | 71348 | [71348-nacah.json](./71348-nacah.json) |
 | Nachkriegsratten Punk-Rock Puzzle | 203300 | [203300-nachkriegsratten-punk-rock-puzzle.json](./203300-nachkriegsratten-punk-rock-puzzle.json) |
+| Nacho Libre | 7997 | [7997-nacho-libre.json](./7997-nacho-libre.json) |
 | Nacho Trave vs. Joako Tronico | 323357 | [323357-nacho-trave-vs-joako-tronico.json](./323357-nacho-trave-vs-joako-tronico.json) |
 | NachoCado | 246084 | [246084-nachocado.json](./246084-nachocado.json) |
 | Nacht-sama is quitting being the demon king! | 262788 | [262788-nacht-sama-is-quitting-being-the-demon-king.json](./262788-nacht-sama-is-quitting-being-the-demon-king.json) |
