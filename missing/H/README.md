@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon 6: Starbase Commander Lightspeed Edition | 90955 | [90955-halcyon-6-starbase-commander-lightspeed-edition.json](./90955-halcyon-6-starbase-commander-lightspeed-edition.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon Days at Taoyuan | 347560 | [347560-halcyon-days-at-taoyuan.json](./347560-halcyon-days-at-taoyuan.json) |
+| Halcyon Sun: Episodes 1 & 2 | 24172 | [24172-halcyon-sun-episodes-1-and-2.json](./24172-halcyon-sun-episodes-1-and-2.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
@@ -4554,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herc's Adventures | 318269 | [318269-hercs-adventures.json](./318269-hercs-adventures.json) |
 | Hercequary | 56922 | [56922-hercequary.json](./56922-hercequary.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
+| Hercules Prophet 2 MX | 24160 | [24160-hercules-prophet-2-mx.json](./24160-hercules-prophet-2-mx.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
 | Hercules: Slayer of the Damned! | 67193 | [67193-hercules-slayer-of-the-damned.json](./67193-hercules-slayer-of-the-damned.json) |
 | Hercules: The Legendary Journeys | 186028 | [186028-hercules-the-legendary-journeys.json](./186028-hercules-the-legendary-journeys.json) |
