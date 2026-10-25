@@ -5285,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy: Secrets of the Machine | 294976 | [294976-bendy-secrets-of-the-machine.json](./294976-bendy-secrets-of-the-machine.json) |
 | Bendy: The Silent City | 265858 | [265858-bendy-the-silent-city.json](./265858-bendy-the-silent-city.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
+| BendyVR | 398356 | [398356-bendyvr.json](./398356-bendyvr.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
@@ -8307,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
 | Blessing of Mokosh | 176749 | [176749-blessing-of-mokosh.json](./176749-blessing-of-mokosh.json) |
 | Blessing of the Flower Goddess | 358641 | [358641-blessing-of-the-flower-goddess.json](./358641-blessing-of-the-flower-goddess.json) |
+| Blessing: Part I | 398166 | [398166-blessing-part-i.json](./398166-blessing-part-i.json) |
 | Blest | 367534 | [367534-blest.json](./367534-blest.json) |
 | Bleu | 187169 | [187169-bleu.json](./187169-bleu.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
@@ -10090,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggle | 59965 | [59965-boggle.json](./59965-boggle.json) |
 | Boggle Bash | 366411 | [366411-boggle-bash.json](./366411-boggle-bash.json) |
 | Boggle Bash 2 | 354963 | [354963-boggle-bash-2.json](./354963-boggle-bash-2.json) |
+| Boggle Party | 398180 | [398180-boggle-party.json](./398180-boggle-party.json) |
 | Boggle Plus | 92264 | [92264-boggle-plus.json](./92264-boggle-plus.json) |
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
