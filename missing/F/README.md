@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables Mosaic: Cinderella | 296204 | [296204-fables-mosaic-cinderella.json](./296204-fables-mosaic-cinderella.json) |
 | Fables Mosaic: Little Red Riding Hood | 296205 | [296205-fables-mosaic-little-red-riding-hood.json](./296205-fables-mosaic-little-red-riding-hood.json) |
 | Fables Mosaic: Snow White and the Seven Dwarfs | 296207 | [296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json](./296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json) |
+| Fables of Dwale | 403354 | [403354-fables-of-dwale.json](./403354-fables-of-dwale.json) |
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
 | Fables of the Kingdom III: Collector's Edition | 337251 | [337251-fables-of-the-kingdom-iii-collectors-edition.json](./337251-fables-of-the-kingdom-iii-collectors-edition.json) |
 | Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
@@ -7354,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
 | FOnline: Ashes of Phoenix | 146067 | [146067-fonline-ashes-of-phoenix.json](./146067-fonline-ashes-of-phoenix.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
+| Fonsermónique’s Culinary Diary | 403314 | [403314-fonsermonique-s-culinary-diary.json](./403314-fonsermonique-s-culinary-diary.json) |
 | Font Quiz | 232059 | [232059-font-quiz.json](./232059-font-quiz.json) |
 | Fonzi Fuddy: Ace Defective | 322050 | [322050-fonzi-fuddy-ace-defective.json](./322050-fonzi-fuddy-ace-defective.json) |
 | Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
