@@ -2548,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adidas Power Soccer International '97 | 43743 | [43743-adidas-power-soccer-international-97.json](./43743-adidas-power-soccer-international-97.json) |
 | Adios | 138270 | [138270-adios.json](./138270-adios.json) |
+| Adios Amigos | 107241 | [107241-adios-amigos.json](./107241-adios-amigos.json) |
 | Adios Amigos: Galactic Explorers | 197685 | [197685-adios-amigos-galactic-explorers.json](./197685-adios-amigos-galactic-explorers.json) |
 | Adit 11 | 379557 | [379557-adit-11.json](./379557-adit-11.json) |
 | Adiverboz | 379558 | [379558-adiverboz.json](./379558-adiverboz.json) |
@@ -3237,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aesthetic Melody | 28894 | [28894-aesthetic-melody.json](./28894-aesthetic-melody.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
+| Aesthetic World | 107481 | [107481-aesthetic-world.json](./107481-aesthetic-world.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aeterna Noctis: Virtuoso | 270860 | [270860-aeterna-noctis-virtuoso.json](./270860-aeterna-noctis-virtuoso.json) |
 | Aeterna: Curse of The First King | 424050 | [424050-aeterna-curse-of-the-first-king.json](./424050-aeterna-curse-of-the-first-king.json) |
@@ -10324,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Tale | 28902 | [28902-arcade-tale.json](./28902-arcade-tale.json) |
 | Arcade Tanks World II: Tank Battle Simulator | 319786 | [319786-arcade-tanks-world-ii-tank-battle-simulator.json](./319786-arcade-tanks-world-ii-tank-battle-simulator.json) |
 | Arcade Tanks World: Tank Battle Simulator | 312093 | [312093-arcade-tanks-world-tank-battle-simulator.json](./312093-arcade-tanks-world-tank-battle-simulator.json) |
+| Arcade Tycoon | 103039 | [103039-arcade-tycoon.json](./103039-arcade-tycoon.json) |
 | Arcade Ultimate | 202783 | [202783-arcade-ultimate.json](./202783-arcade-ultimate.json) |
 | Arcade Ultimate Portable | 202788 | [202788-arcade-ultimate-portable.json](./202788-arcade-ultimate-portable.json) |
 | Arcade Ultimate Portable Video Game Player | 202790 | [202790-arcade-ultimate-portable-video-game-player.json](./202790-arcade-ultimate-portable-video-game-player.json) |
@@ -14702,6 +14705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Football 2015 | 35276 | [35276-axis-football-2015.json](./35276-axis-football-2015.json) |
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2017 | 54812 | [54812-axis-football-2017.json](./54812-axis-football-2017.json) |
+| Axis Football 2018 | 107524 | [107524-axis-football-2018.json](./107524-axis-football-2018.json) |
 | Axis Football 2020 | 140957 | [140957-axis-football-2020.json](./140957-axis-football-2020.json) |
 | Axis Football 2021 | 153011 | [153011-axis-football-2021.json](./153011-axis-football-2021.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
