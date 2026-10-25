@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba Marble Blast | 309056 | [309056-zumba-marble-blast.json](./309056-zumba-marble-blast.json) |
 | Zumba World: The Crazy Marble Dimension | 389076 | [389076-zumba-world-the-crazy-marble-dimension.json](./389076-zumba-world-the-crazy-marble-dimension.json) |
 | Zumba: Dragon's Marble Trial | 381714 | [381714-zumba-dragons-marble-trial.json](./381714-zumba-dragons-marble-trial.json) |
+| Zumba: Jurassic Marble Quest | 405921 | [405921-zumba-jurassic-marble-quest.json](./405921-zumba-jurassic-marble-quest.json) |
 | Zumba: Magical Marble Saga | 417284 | [417284-zumba-magical-marble-saga.json](./417284-zumba-magical-marble-saga.json) |
 | Zumba: Marble Jungle Adventure | 410365 | [410365-zumba-marble-jungle-adventure.json](./410365-zumba-marble-jungle-adventure.json) |
 | Zumba: Soccer Marble League | 364083 | [364083-zumba-soccer-marble-league.json](./364083-zumba-soccer-marble-league.json) |
