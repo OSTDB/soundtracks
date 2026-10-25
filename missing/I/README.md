@@ -5503,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Street: Gorgeous King | 60478 | [60478-itadaki-street-gorgeous-king.json](./60478-itadaki-street-gorgeous-king.json) |
 | Itako Works | 182898 | [182898-itako-works.json](./182898-itako-works.json) |
 | Italia 1990 | 94594 | [94594-italia-1990.json](./94594-italia-1990.json) |
+| Italian Horror Trilogy | 402123 | [402123-italian-horror-trilogy.json](./402123-italian-horror-trilogy.json) |
 | Italian Journey | 216142 | [216142-italian-journey.json](./216142-italian-journey.json) |
 | Italian Journey: Nitro | 216144 | [216144-italian-journey-nitro.json](./216144-italian-journey-nitro.json) |
 | Italian Night 1999 | 386393 | [386393-italian-night-1999.json](./386393-italian-night-1999.json) |
