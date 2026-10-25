@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
 | Redtape | 158999 | [158999-redtape.json](./158999-redtape.json) |
 | Redtape | 388152 | [388152-redtape.json](./388152-redtape.json) |
+| Redubla | 417437 | [417437-redubla.json](./417437-redubla.json) |
 | Redumption | 236419 | [236419-redumption.json](./236419-redumption.json) |
 | Redundancy | 262311 | [262311-redundancy.json](./262311-redundancy.json) |
 | ReDungeon | 38943 | [38943-redungeon.json](./38943-redungeon.json) |
@@ -8452,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
 | Roll of Fate | 184456 | [184456-roll-of-fate.json](./184456-roll-of-fate.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
+| Roll or Die | 417252 | [417252-roll-or-die.json](./417252-roll-or-die.json) |
 | Roll Out | 43151 | [43151-roll-out.json](./43151-roll-out.json) |
 | Roll Over Princess | 280116 | [280116-roll-over-princess.json](./280116-roll-over-princess.json) |
 | Roll Player | 200527 | [200527-roll-player.json](./200527-roll-player.json) |
@@ -10636,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RV Roadtrip Simulator | 403730 | [403730-rv-roadtrip-simulator.json](./403730-rv-roadtrip-simulator.json) |
 | RV Tags | 405672 | [405672-rv-tags.json](./405672-rv-tags.json) |
 | RV There Yet? Mt. Yurbuttsk | 381944 | [381944-rv-there-yet-mt-yurbuttsk.json](./381944-rv-there-yet-mt-yurbuttsk.json) |
+| RV There Yet? St. Búttin Bay | 417609 | [417609-rv-there-yet-st-buttin-bay.json](./417609-rv-there-yet-st-buttin-bay.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RVF Honda | 12927 | [12927-rvf-honda.json](./12927-rvf-honda.json) |
 | RWBY Fading Light | 184878 | [184878-rwby-fading-light.json](./184878-rwby-fading-light.json) |
