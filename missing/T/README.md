@@ -5556,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bogtavern | 236259 | [236259-the-bogtavern.json](./236259-the-bogtavern.json) |
 | The Bogus Guru | 93133 | [93133-the-bogus-guru.json](./93133-the-bogus-guru.json) |
+| The Bold Club | 390383 | [390383-the-bold-club.json](./390383-the-bold-club.json) |
 | The Bolt Age | 165532 | [165532-the-bolt-age.json](./165532-the-bolt-age.json) |
 | The Bomb Disarmament Expert | 290985 | [290985-the-bomb-disarmament-expert.json](./290985-the-bomb-disarmament-expert.json) |
 | The Bomb Project | 124139 | [124139-the-bomb-project.json](./124139-the-bomb-project.json) |
@@ -7820,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Hours of Titanfall | 36336 | [36336-the-final-hours-of-titanfall.json](./36336-the-final-hours-of-titanfall.json) |
 | The Final Image | 118650 | [118650-the-final-image.json](./118650-the-final-image.json) |
 | The Final Matrix | 14066 | [14066-the-final-matrix.json](./14066-the-final-matrix.json) |
+| The Final Oath | 390374 | [390374-the-final-oath.json](./390374-the-final-oath.json) |
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
 | The Final Pin | 262277 | [262277-the-final-pin.json](./262277-the-final-pin.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
@@ -16714,6 +16716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas and Friends: Calling All Engines | 69068 | [69068-thomas-and-friends-calling-all-engines.json](./69068-thomas-and-friends-calling-all-engines.json) |
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
 | Thomas and the Magic Railroad Print Studio | 225521 | [225521-thomas-and-the-magic-railroad-print-studio.json](./225521-thomas-and-the-magic-railroad-print-studio.json) |
+| Thomas Ireham in Crimson Spotlight | 390377 | [390377-thomas-ireham-in-crimson-spotlight.json](./390377-thomas-ireham-in-crimson-spotlight.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
 | Thomas the Tank Engine & Friends | 128845 | [128845-thomas-the-tank-engine-and-friends.json](./128845-thomas-the-tank-engine-and-friends.json) |
