@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman - Frostmarch | 53696 | [53696-talisman-frostmarch.json](./53696-talisman-frostmarch.json) |
 | Talisman Codes | 406518 | [406518-talisman-codes.json](./406518-talisman-codes.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
+| Talisman Ultimate Upgrade Bundle | 404556 | [404556-talisman-ultimate-upgrade-bundle.json](./404556-talisman-ultimate-upgrade-bundle.json) |
 | Talisman: Digital 5th Edition | 302175 | [302175-talisman-digital-5th-edition.json](./302175-talisman-digital-5th-edition.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
 | Talisman: Digital Edition | 10952 | [10952-talisman-digital-edition.json](./10952-talisman-digital-edition.json) |
@@ -7669,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faraway Land | 152786 | [152786-the-faraway-land.json](./152786-the-faraway-land.json) |
 | The Farm | 231524 | [231524-the-farm.json](./231524-the-farm.json) |
 | The Farm | 379150 | [379150-the-farm.json](./379150-the-farm.json) |
+| The Farm Racing | 404521 | [404521-the-farm-racing.json](./404521-the-farm-racing.json) |
 | The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
 | The Farmer's Daughter | 71913 | [71913-the-farmers-daughter.json](./71913-the-farmers-daughter.json) |
@@ -19832,6 +19834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be With You | 138677 | [138677-to-be-with-you.json](./138677-to-be-with-you.json) |
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
 | To Become a Tengu | 207133 | [207133-to-become-a-tengu.json](./207133-to-become-a-tengu.json) |
+| To Bee Jazz | 404537 | [404537-to-bee-jazz.json](./404537-to-bee-jazz.json) |
 | To Bee or Not to Bee | 184801 | [184801-to-bee-or-not-to-bee.json](./184801-to-bee-or-not-to-bee.json) |
 | To Bring Her Back | 316804 | [316804-to-bring-her-back.json](./316804-to-bring-her-back.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
