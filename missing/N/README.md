@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neofeud 2 | 397714 | [397714-neofeud-2.json](./397714-neofeud-2.json) |
 | NeoFlux Drift | 146026 | [146026-neoflux-drift.json](./146026-neoflux-drift.json) |
 | Neofold | 404070 | [404070-neofold.json](./404070-neofold.json) |
+| Neofold: The Feast | 424717 | [424717-neofold-the-feast.json](./424717-neofold-the-feast.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
 | NeoGeo Heroes Ultimate Shooting | 44507 | [44507-neogeo-heroes-ultimate-shooting.json](./44507-neogeo-heroes-ultimate-shooting.json) |
@@ -3243,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
 | Ni Hao, Kai-Lan: Super Happy Day! | 230393 | [230393-ni-hao-kai-lan-super-happy-day.json](./230393-ni-hao-kai-lan-super-happy-day.json) |
 | Nǐ Jiùshì Zhǔbō? | 367705 | [367705-ni-jiushi-zhubo.json](./367705-ni-jiushi-zhubo.json) |
+| Ni Natte Kuremasen ka? | 424693 | [424693-ni-natte-kuremasen-ka.json](./424693-ni-natte-kuremasen-ka.json) |
 | Ni no Kuni II: Revenant Kingdom - Adventure Pack | 154454 | [154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json](./154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json) |
 | Ni no Kuni II: Revenant Kingdom - Collector's Edition | 136358 | [136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json](./136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Day One Edition | 136325 | [136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json](./136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json) |
@@ -3321,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Racing Stars | 259984 | [259984-nick-racing-stars.json](./259984-nick-racing-stars.json) |
 | Nick SpongeBob SquarePants: Snowball Showdown | 243825 | [243825-nick-spongebob-squarepants-snowball-showdown.json](./243825-nick-spongebob-squarepants-snowball-showdown.json) |
 | Nick Sports | 87199 | [87199-nick-sports.json](./87199-nick-sports.json) |
+| Nick vs. the Brick of Ick from space | 424657 | [424657-nick-vs-the-brick-of-ick-from-space.json](./424657-nick-vs-the-brick-of-ick-from-space.json) |
 | Nick Wacky Racers 3D | 283381 | [283381-nick-wacky-racers-3d.json](./283381-nick-wacky-racers-3d.json) |
 | Nick's Night Out | 123052 | [123052-nicks-night-out.json](./123052-nicks-night-out.json) |
 | Nick's Recursive Videogame About Deciphering Word Puzzles to Discover Your Identity and Redefine the Universe! | 381968 | [381968-nicks-recursive-videogame-about-deciphering-word-puzzles-to-discover-your-identity-and-redefine-the-universe.json](./381968-nicks-recursive-videogame-about-deciphering-word-puzzles-to-discover-your-identity-and-redefine-the-universe.json) |
@@ -6326,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts Space Shooter | 201515 | [201515-nuts-space-shooter.json](./201515-nuts-space-shooter.json) |
 | Nuts!: Battle of the Bulge | 33809 | [33809-nuts-battle-of-the-bulge.json](./33809-nuts-battle-of-the-bulge.json) |
 | NutShot | 291356 | [291356-nutshot.json](./291356-nutshot.json) |
+| Nutshot Simulator | 424683 | [424683-nutshot-simulator.json](./424683-nutshot-simulator.json) |
 | NutsMania | 401757 | [401757-nutsmania.json](./401757-nutsmania.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
 | Nutty Motorcars | 215626 | [215626-nutty-motorcars.json](./215626-nutty-motorcars.json) |
