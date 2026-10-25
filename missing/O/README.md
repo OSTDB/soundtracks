@@ -4069,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
 | Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
 | Ouranos! | 58567 | [58567-ouranos.json](./58567-ouranos.json) |
+| Ourath: A Place in Peace | 389191 | [389191-ourath-a-place-in-peace.json](./389191-ourath-a-place-in-peace.json) |
 | Oure | 75237 | [75237-oure.json](./75237-oure.json) |
 | Ourea | 132681 | [132681-ourea.json](./132681-ourea.json) |
 | Ouritsu Anapoko Gakuen | 112888 | [112888-ouritsu-anapoko-gakuen.json](./112888-ouritsu-anapoko-gakuen.json) |
