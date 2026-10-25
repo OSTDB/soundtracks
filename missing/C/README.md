@@ -11102,6 +11102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer | 83821 | [83821-conquer.json](./83821-conquer.json) |
 | Conquer and Breed the Demon Queen | 160057 | [160057-conquer-and-breed-the-demon-queen.json](./160057-conquer-and-breed-the-demon-queen.json) |
 | Conquer City Wars | 100333 | [100333-conquer-city-wars.json](./100333-conquer-city-wars.json) |
+| Conquer Countries | 387397 | [387397-conquer-countries.json](./387397-conquer-countries.json) |
 | Conquer Humanity | 225687 | [225687-conquer-humanity.json](./225687-conquer-humanity.json) |
 | Conquer II | 193841 | [193841-conquer-ii.json](./193841-conquer-ii.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
@@ -14051,6 +14052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
 | Crescent Pale Mist | 21085 | [21085-crescent-pale-mist.json](./21085-crescent-pale-mist.json) |
 | Crescent Prism | 221664 | [221664-crescent-prism.json](./221664-crescent-prism.json) |
+| Crescent Prism | 387403 | [387403-crescent-prism.json](./387403-crescent-prism.json) |
 | Crescent Quest | 250849 | [250849-crescent-quest.json](./250849-crescent-quest.json) |
 | Crescent Quest: Furry Home Expansion | 276415 | [276415-crescent-quest-furry-home-expansion.json](./276415-crescent-quest-furry-home-expansion.json) |
 | Crescent Quest: Y2K Home Expansion | 276850 | [276850-crescent-quest-y2k-home-expansion.json](./276850-crescent-quest-y2k-home-expansion.json) |
@@ -14890,6 +14892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
 | Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
 | Crownseeker | 399443 | [399443-crownseeker.json](./399443-crownseeker.json) |
+| Crownslayers | 387416 | [387416-crownslayers.json](./387416-crownslayers.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crowntakers: Undead Undertakings | 170221 | [170221-crowntakers-undead-undertakings.json](./170221-crowntakers-undead-undertakings.json) |
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
