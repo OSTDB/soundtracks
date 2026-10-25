@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
+| Unlisted | 422034 | [422034-unlisted.json](./422034-unlisted.json) |
 | Unlit | 126831 | [126831-unlit.json](./126831-unlit.json) |
 | Unlit: Side Scrolling Arcade | 122092 | [122092-unlit-side-scrolling-arcade.json](./122092-unlit-side-scrolling-arcade.json) |
 | Unload | 412472 | [412472-unload.json](./412472-unload.json) |
