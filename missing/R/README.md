@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycle Design | 195055 | [195055-recycle-design.json](./195055-recycle-design.json) |
 | Recycle it! | 296273 | [296273-recycle-it.json](./296273-recycle-it.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
+| Recycle Rivals | 425610 | [425610-recycle-rivals.json](./425610-recycle-rivals.json) |
 | Recycle Shop Eco | 415993 | [415993-recycle-shop-eco.json](./415993-recycle-shop-eco.json) |
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
 | Recyclic | 348888 | [348888-recyclic.json](./348888-recyclic.json) |
@@ -8870,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
 | Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
+| Rookie Rook | 425439 | [425439-rookie-rook.json](./425439-rookie-rook.json) |
 | Rookie Table Tennis | 328445 | [328445-rookie-table-tennis.json](./328445-rookie-table-tennis.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Rooks Keep | 17373 | [17373-rooks-keep.json](./17373-rooks-keep.json) |
