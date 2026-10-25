@@ -5861,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova the Squirrel | 108807 | [108807-nova-the-squirrel.json](./108807-nova-the-squirrel.json) |
 | Nova Urbana | 222859 | [222859-nova-urbana.json](./222859-nova-urbana.json) |
 | Nova Usagi no Game de Ryuugaku!? DS | 72929 | [72929-nova-usagi-no-game-de-ryuugaku-ds.json](./72929-nova-usagi-no-game-de-ryuugaku-ds.json) |
+| Nova Warp | 423868 | [423868-nova-warp.json](./423868-nova-warp.json) |
 | Nova Wing | 86634 | [86634-nova-wing.json](./86634-nova-wing.json) |
 | Nova Wing II | 95609 | [95609-nova-wing-ii.json](./95609-nova-wing-ii.json) |
 | Nova X9 | 258413 | [258413-nova-x9.json](./258413-nova-x9.json) |
