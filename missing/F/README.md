@@ -7078,6 +7078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Hard | 381027 | [381027-fly-hard.json](./381027-fly-hard.json) |
 | Fly Harder | 38847 | [38847-fly-harder.json](./38847-fly-harder.json) |
 | Fly High | 110161 | [110161-fly-high.json](./110161-fly-high.json) |
+| Fly High Collection | 386787 | [386787-fly-high-collection.json](./386787-fly-high-collection.json) |
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
 | Fly Light | 361497 | [361497-fly-light.json](./361497-fly-light.json) |
@@ -8764,7 +8765,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
 | Forza Horizon 6 1998 Nissan Skyline Gt-r 40th Anniversary | 409011 | [409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json](./409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json) |
 | Forza Horizon 6: 1990 Nissan #12 Skyline GT-R (BNR32 Gr.A) JTC | 402245 | [402245-forza-horizon-6-1990-nissan-12-skyline-gt-r-bnr32-gr-a-jtc.json](./402245-forza-horizon-6-1990-nissan-12-skyline-gt-r-bnr32-gr-a-jtc.json) |
+| Forza Horizon 6: Deluxe Edition | 386816 | [386816-forza-horizon-6-deluxe-edition.json](./386816-forza-horizon-6-deluxe-edition.json) |
 | Forza Horizon 6: Italian Passion Car Pack | 402244 | [402244-forza-horizon-6-italian-passion-car-pack.json](./402244-forza-horizon-6-italian-passion-car-pack.json) |
+| Forza Horizon 6: Premium Edition | 386817 | [386817-forza-horizon-6-premium-edition.json](./386817-forza-horizon-6-premium-edition.json) |
 | Forza Horizon 6: Time Attack Car Pack | 401832 | [401832-forza-horizon-6-time-attack-car-pack.json](./401832-forza-horizon-6-time-attack-car-pack.json) |
 | Forza Horizon 6: Treasure Map | 401830 | [401830-forza-horizon-6-treasure-map.json](./401830-forza-horizon-6-treasure-map.json) |
 | Forza Horizon 6: VIP Membership | 401831 | [401831-forza-horizon-6-vip-membership.json](./401831-forza-horizon-6-vip-membership.json) |
@@ -8929,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
 | Four Seasons Around the World: Autumn in France | 341616 | [341616-four-seasons-around-the-world-autumn-in-france.json](./341616-four-seasons-around-the-world-autumn-in-france.json) |
 | Four Seasons Around the World: Winter in New York | 294389 | [294389-four-seasons-around-the-world-winter-in-new-york.json](./294389-four-seasons-around-the-world-winter-in-new-york.json) |
+| Four seasons: Spring | 386808 | [386808-four-seasons-spring.json](./386808-four-seasons-spring.json) |
 | Four Second Firestorm | 387918 | [387918-four-second-firestorm.json](./387918-four-second-firestorm.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
 | Four Second Frenzy | 196796 | [196796-four-second-frenzy.json](./196796-four-second-frenzy.json) |
@@ -11237,6 +11241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Futanari: 3 in 1 | 367042 | [367042-furry-futanari-3-in-1.json](./367042-furry-futanari-3-in-1.json) |
 | Furry Girl Puzzle | 281345 | [281345-furry-girl-puzzle.json](./281345-furry-girl-puzzle.json) |
 | Furry Girlfriend Simulator | 367038 | [367038-furry-girlfriend-simulator.json](./367038-furry-girlfriend-simulator.json) |
+| Furry Girls Paradise: Love & Fun | 386793 | [386793-furry-girls-paradise-love-and-fun.json](./386793-furry-girls-paradise-love-and-fun.json) |
 | Furry Hentai Isekai | 201587 | [201587-furry-hentai-isekai.json](./201587-furry-hentai-isekai.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
 | Furry Heroes | 150431 | [150431-furry-heroes.json](./150431-furry-heroes.json) |
@@ -11254,6 +11259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry OwO | 236936 | [236936-furry-owo.json](./236936-furry-owo.json) |
 | Furry Pet Dog Yiff Hentai | 209022 | [209022-furry-pet-dog-yiff-hentai.json](./209022-furry-pet-dog-yiff-hentai.json) |
 | Furry Pride | 148570 | [148570-furry-pride.json](./148570-furry-pride.json) |
+| Furry Pride Paradise Love & Fun | 386794 | [386794-furry-pride-paradise-love-and-fun.json](./386794-furry-pride-paradise-love-and-fun.json) |
 | Furry Puzzle | 163552 | [163552-furry-puzzle.json](./163552-furry-puzzle.json) |
 | Furry Reich | 237055 | [237055-furry-reich.json](./237055-furry-reich.json) |
 | Furry Senpai: Bear in the Woods | 340269 | [340269-furry-senpai-bear-in-the-woods.json](./340269-furry-senpai-bear-in-the-woods.json) |
