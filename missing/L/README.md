@@ -5628,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
 | Locura | 265334 | [265334-locura.json](./265334-locura.json) |
 | Locus | 92844 | [92844-locus.json](./92844-locus.json) |
+| Locus Alba | 395985 | [395985-locus-alba.json](./395985-locus-alba.json) |
 | Locus Solus | 32243 | [32243-locus-solus.json](./32243-locus-solus.json) |
 | Locust Hunter | 310821 | [310821-locust-hunter.json](./310821-locust-hunter.json) |
 | Lode Runner | 166708 | [166708-lode-runner.json](./166708-lode-runner.json) |
