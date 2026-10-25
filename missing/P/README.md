@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
 | Paper Anne | 89763 | [89763-paper-anne.json](./89763-paper-anne.json) |
 | Paper Attack | 227738 | [227738-paper-attack.json](./227738-paper-attack.json) |
+| Paper Baseball | 420781 | [420781-paper-baseball.json](./420781-paper-baseball.json) |
 | Paper Beast | 117293 | [117293-paper-beast.json](./117293-paper-beast.json) |
 | Paper Beast: Enhanced Edition | 268370 | [268370-paper-beast-enhanced-edition.json](./268370-paper-beast-enhanced-edition.json) |
 | Paper Beast: Folded Edition | 140295 | [140295-paper-beast-folded-edition.json](./140295-paper-beast-folded-edition.json) |
@@ -13627,6 +13628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protos Magos | 235804 | [235804-protos-magos.json](./235804-protos-magos.json) |
 | Protoshift | 34555 | [34555-protoshift.json](./34555-protoshift.json) |
 | Protoshock | 258442 | [258442-protoshock.json](./258442-protoshock.json) |
+| ProtoStar | 420763 | [420763-protostar.json](./420763-protostar.json) |
 | Protostar Drift | 103679 | [103679-protostar-drift.json](./103679-protostar-drift.json) |
 | Protostar Twilight | 294716 | [294716-protostar-twilight.json](./294716-protostar-twilight.json) |
 | Protostar: War on the Frontier | 73495 | [73495-protostar-war-on-the-frontier.json](./73495-protostar-war-on-the-frontier.json) |
