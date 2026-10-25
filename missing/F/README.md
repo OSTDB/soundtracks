@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fears to Fathom: Scratch Creek | 348971 | [348971-fears-to-fathom-scratch-creek.json](./348971-fears-to-fathom-scratch-creek.json) |
 | Fearsome Five | 177217 | [177217-fearsome-five.json](./177217-fearsome-five.json) |
 | Fearsome Shadows Bundle | 125135 | [125135-fearsome-shadows-bundle.json](./125135-fearsome-shadows-bundle.json) |
+| Fearstruck | 405854 | [405854-fearstruck.json](./405854-fearstruck.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
 | Feasibility Experiment | 24693 | [24693-feasibility-experiment.json](./24693-feasibility-experiment.json) |
@@ -5845,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights of Nightmare: Escape Horror Story | 297313 | [297313-five-nights-of-nightmare-escape-horror-story.json](./297313-five-nights-of-nightmare-escape-horror-story.json) |
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
 | Five Nights on the Toilet: Number 2 | 267388 | [267388-five-nights-on-the-toilet-number-2.json](./267388-five-nights-on-the-toilet-number-2.json) |
+| Five Nights with Firearms | 405308 | [405308-five-nights-with-firearms.json](./405308-five-nights-with-firearms.json) |
 | Five Nights with Floppa: R | 370213 | [370213-five-nights-with-floppa-r.json](./370213-five-nights-with-floppa-r.json) |
 | Five Nights With James | 212249 | [212249-five-nights-with-james.json](./212249-five-nights-with-james.json) |
 | Five Nights with Mac Tonight | 268031 | [268031-five-nights-with-mac-tonight.json](./268031-five-nights-with-mac-tonight.json) |
@@ -6302,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshgrinder | 415905 | [415905-fleshgrinder.json](./415905-fleshgrinder.json) |
 | Fleshinsane | 336863 | [336863-fleshinsane.json](./336863-fleshinsane.json) |
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
+| Fleshwalk: An Experience | 405748 | [405748-fleshwalk-an-experience.json](./405748-fleshwalk-an-experience.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
 | Flewberry | 108747 | [108747-flewberry.json](./108747-flewberry.json) |
 | Flewfies Adventure | 148814 | [148814-flewfies-adventure.json](./148814-flewfies-adventure.json) |
@@ -9189,6 +9192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Framed by the Yakuza | 210313 | [210313-framed-by-the-yakuza.json](./210313-framed-by-the-yakuza.json) |
 | Framed Fear | 340953 | [340953-framed-fear.json](./340953-framed-fear.json) |
 | FramePerfect | 394532 | [394532-frameperfect.json](./394532-frameperfect.json) |
+| Framework Zero: Terminal Panic | 405750 | [405750-framework-zero-terminal-panic.json](./405750-framework-zero-terminal-panic.json) |
 | Framing Dawes | 126916 | [126916-framing-dawes.json](./126916-framing-dawes.json) |
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
 | Fran Bow Chapter 1 | 90962 | [90962-fran-bow-chapter-1.json](./90962-fran-bow-chapter-1.json) |
