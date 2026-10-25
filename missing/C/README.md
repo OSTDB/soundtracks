@@ -6062,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese mother in law | 158166 | [158166-chinese-mother-in-law.json](./158166-chinese-mother-in-law.json) |
 | Chinese Mythology: Journey to the West | 369216 | [369216-chinese-mythology-journey-to-the-west.json](./369216-chinese-mythology-journey-to-the-west.json) |
 | Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
+| Chinese Newcomer | 406524 | [406524-chinese-newcomer.json](./406524-chinese-newcomer.json) |
 | Chinese Paladin 5 Prequel | 68175 | [68175-chinese-paladin-5-prequel.json](./68175-chinese-paladin-5-prequel.json) |
 | Chinese Pancake Simulator | 408238 | [408238-chinese-pancake-simulator.json](./408238-chinese-pancake-simulator.json) |
 | Chinese Parents | 86430 | [86430-chinese-parents.json](./86430-chinese-parents.json) |
@@ -9839,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Party Wars | 201248 | [201248-colorful-party-wars.json](./201248-colorful-party-wars.json) |
 | Colorful Recolor | 208315 | [208315-colorful-recolor.json](./208315-colorful-recolor.json) |
 | Colorful Shooting | 370468 | [370468-colorful-shooting.json](./370468-colorful-shooting.json) |
+| Colorful Slots | 406525 | [406525-colorful-slots.json](./406525-colorful-slots.json) |
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
@@ -11128,6 +11130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Toujin Makyou-den - Heracles no Eikou | 402567 | [402567-console-archives-toujin-makyou-den-heracles-no-eikou.json](./402567-console-archives-toujin-makyou-den-heracles-no-eikou.json) |
 | Console Archives: Touki Denshou Angel Eyes | 415385 | [415385-console-archives-touki-denshou-angel-eyes.json](./415385-console-archives-touki-denshou-angel-eyes.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
+| Console Colour: Minnie Mouse | 406817 | [406817-console-colour-minnie-mouse.json](./406817-console-colour-minnie-mouse.json) |
 | Console Info: 2010 Edition | 91399 | [91399-console-info-2010-edition.json](./91399-console-info-2010-edition.json) |
 | Console Store Simulator | 391748 | [391748-console-store-simulator.json](./391748-console-store-simulator.json) |
 | Console Tycoon | 335813 | [335813-console-tycoon.json](./335813-console-tycoon.json) |
@@ -15983,6 +15986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious George In Outer Space | 39364 | [39364-curious-george-in-outer-space.json](./39364-curious-george-in-outer-space.json) |
 | Curious George Visits the Library | 39365 | [39365-curious-george-visits-the-library.json](./39365-curious-george-visits-the-library.json) |
 | Curious Paws: Hidden Objects | 409206 | [409206-curious-paws-hidden-objects.json](./409206-curious-paws-hidden-objects.json) |
+| Curious? | 406813 | [406813-curious.json](./406813-curious.json) |
 | Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
