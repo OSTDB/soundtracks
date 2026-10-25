@@ -4859,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious! Pretty Girls Mahjong Solitaire | 31053 | [31053-delicious-pretty-girls-mahjong-solitaire.json](./31053-delicious-pretty-girls-mahjong-solitaire.json) |
 | DeLight | 208101 | [208101-delight.json](./208101-delight.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
+| Delightful Adventure 2: Double Demise | 420768 | [420768-delightful-adventure-2-double-demise.json](./420768-delightful-adventure-2-double-demise.json) |
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
 | Delila's Gift | 28740 | [28740-delilas-gift.json](./28740-delilas-gift.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
@@ -7902,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs: A Prehistoric Adventure 2 | 195579 | [195579-dinosaurs-a-prehistoric-adventure-2.json](./195579-dinosaurs-a-prehistoric-adventure-2.json) |
 | Dinosaurs: Mission Dino Camp | 252172 | [252172-dinosaurs-mission-dino-camp.json](./252172-dinosaurs-mission-dino-camp.json) |
 | Dinosaurus Life VR | 112711 | [112711-dinosaurus-life-vr.json](./112711-dinosaurus-life-vr.json) |
+| DinoSawUs | 420777 | [420777-dinosawus.json](./420777-dinosawus.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
 | Dinostria | 288638 | [288638-dinostria.json](./288638-dinostria.json) |
@@ -10030,6 +10032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drink the Pink | 307786 | [307786-dont-drink-the-pink.json](./307786-dont-drink-the-pink.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
+| Don't Drop the Ball | 420764 | [420764-dont-drop-the-ball.json](./420764-dont-drop-the-ball.json) |
 | Don't Drop the Bass | 32660 | [32660-dont-drop-the-bass.json](./32660-dont-drop-the-bass.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Drop the Soap | 343228 | [343228-dont-drop-the-soap.json](./343228-dont-drop-the-soap.json) |
@@ -11466,6 +11469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doxxed | 214111 | [214111-doxxed.json](./214111-doxxed.json) |
 | DoxyLanD | 169662 | [169662-doxyland.json](./169662-doxyland.json) |
 | Doza 2: Novogodniy Peredoz | 116060 | [116060-doza-2-novogodniy-peredoz.json](./116060-doza-2-novogodniy-peredoz.json) |
+| Dozen Chess | 420782 | [420782-dozen-chess.json](./420782-dozen-chess.json) |
 | Dozie Penguins | 216411 | [216411-dozie-penguins.json](./216411-dozie-penguins.json) |
 | DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
