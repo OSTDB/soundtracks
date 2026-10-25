@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbreak!: Source | 165134 | [165134-jailbreak-source.json](./165134-jailbreak-source.json) |
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
+| Jaipur: the board game | 91985 | [91985-jaipur-the-board-game.json](./91985-jaipur-the-board-game.json) |
 | JaJaMaru Gekimaden: Maboroshi no Kinmajou | 48458 | [48458-jajamaru-gekimaden-maboroshi-no-kinmajou.json](./48458-jajamaru-gekimaden-maboroshi-no-kinmajou.json) |
 | JaJaMaru Jr: Denshouki Jaleco Memorial | 122912 | [122912-jajamaru-jr-denshouki-jaleco-memorial.json](./122912-jajamaru-jr-denshouki-jaleco-memorial.json) |
 | JaJaMaru Ninpouchou | 48456 | [48456-jajamaru-ninpouchou.json](./48456-jajamaru-ninpouchou.json) |
@@ -1650,6 +1651,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu '98: Kettei-ban | 229572 | [229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json](./229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kaimaku-ban | 138738 | [138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json](./138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kettei-ban | 229574 | [229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json](./229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 10 | 92692 | [92692-jikkyou-pawafuru-puroyakyu-10.json](./92692-jikkyou-pawafuru-puroyakyu-10.json) |
+| Jikkyou Pawafuru Puroyakyu 11 | 92693 | [92693-jikkyou-pawafuru-puroyakyu-11.json](./92693-jikkyou-pawafuru-puroyakyu-11.json) |
 | Jikkyou Pawafuru Puroyakyu 12: Kettei-ban | 229545 | [229545-jikkyou-pawafuru-puroyakyu-12-kettei-ban.json](./229545-jikkyou-pawafuru-puroyakyu-12-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 13 | 78581 | [78581-jikkyou-pawafuru-puroyakyu-13.json](./78581-jikkyou-pawafuru-puroyakyu-13.json) |
 | Jikkyou Pawafuru Puroyakyu 13: Kettei-ban | 229546 | [229546-jikkyou-pawafuru-puroyakyu-13-kettei-ban.json](./229546-jikkyou-pawafuru-puroyakyu-13-kettei-ban.json) |
@@ -1680,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 7: Kettei-ban | 229541 | [229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json](./229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 8 | 74702 | [74702-jikkyou-pawafuru-puroyakyu-8.json](./74702-jikkyou-pawafuru-puroyakyu-8.json) |
 | Jikkyou Pawafuru Puroyakyu 8: Kettei-ban | 229543 | [229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json](./229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 9 | 92694 | [92694-jikkyou-pawafuru-puroyakyu-9.json](./92694-jikkyou-pawafuru-puroyakyu-9.json) |
 | Jikkyou Pawafuru Puroyakyu Championship 2017 | 98511 | [98511-jikkyou-pawafuru-puroyakyu-championship-2017.json](./98511-jikkyou-pawafuru-puroyakyu-championship-2017.json) |
 | Jikkyou Pawafuru Puroyakyu Next | 229557 | [229557-jikkyou-pawafuru-puroyakyu-next.json](./229557-jikkyou-pawafuru-puroyakyu-next.json) |
 | Jikkyou Pawafuru Puroyakyu Portable | 229582 | [229582-jikkyou-pawafuru-puroyakyu-portable.json](./229582-jikkyou-pawafuru-puroyakyu-portable.json) |
@@ -3165,6 +3169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Park: Survival | 66354 | [66354-jurassic-park-survival.json](./66354-jurassic-park-survival.json) |
 | Jurassic Park: The Game | 7025 | [7025-jurassic-park-the-game.json](./7025-jurassic-park-the-game.json) |
+| Jurassic Park: The Game 1 HD | 89173 | [89173-jurassic-park-the-game-1-hd.json](./89173-jurassic-park-the-game-1-hd.json) |
+| Jurassic Park: The Game 2 HD | 89174 | [89174-jurassic-park-the-game-2-hd.json](./89174-jurassic-park-the-game-2-hd.json) |
 | Jurassic Park: The Game 3 HD | 90866 | [90866-jurassic-park-the-game-3-hd.json](./90866-jurassic-park-the-game-3-hd.json) |
 | Jurassic Park: The Game 4 HD | 87272 | [87272-jurassic-park-the-game-4-hd.json](./87272-jurassic-park-the-game-4-hd.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
