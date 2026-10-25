@@ -6930,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disney/Pixar Collection | 230424 | [230424-the-disney-pixar-collection.json](./230424-the-disney-pixar-collection.json) |
 | The Dispatcher | 329003 | [329003-the-dispatcher.json](./329003-the-dispatcher.json) |
 | The Displacement | 316712 | [316712-the-displacement.json](./316712-the-displacement.json) |
+| The Distant Circular World | 395381 | [395381-the-distant-circular-world.json](./395381-the-distant-circular-world.json) |
 | The Distortion Beast | 299141 | [299141-the-distortion-beast.json](./299141-the-distortion-beast.json) |
 | The District | 35538 | [35538-the-district.json](./35538-the-district.json) |
 | The Ditty of Carmeana | 58592 | [58592-the-ditty-of-carmeana.json](./58592-the-ditty-of-carmeana.json) |
@@ -26477,6 +26478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: Supernatural Supermarket | 319850 | [319850-tsugunohi-supernatural-supermarket.json](./319850-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
+| Tsuka Shikiru ha Yarazu no Ame | 395358 | [395358-tsuka-shikiru-ha-yarazu-no-ame.json](./395358-tsuka-shikiru-ha-yarazu-no-ame.json) |
 | Tsukasa no Satisfaction | 77851 | [77851-tsukasa-no-satisfaction.json](./77851-tsukasa-no-satisfaction.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
@@ -27299,6 +27301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Skies | 72775 | [72775-twin-skies.json](./72775-twin-skies.json) |
 | Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
+| Twin Souls | 395344 | [395344-twin-souls.json](./395344-twin-souls.json) |
 | Twin Souls: The Path of Shadows | 110233 | [110233-twin-souls-the-path-of-shadows.json](./110233-twin-souls-the-path-of-shadows.json) |
 | Twin Stick | 278345 | [278345-twin-stick.json](./278345-twin-stick.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
