@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bae Yong-joon to Manabu Kankokugo DS: Date-Hen | 269660 | [269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json](./269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Test-Hen | 269659 | [269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json](./269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json) |
 | Baezult | 31846 | [31846-baezult.json](./31846-baezult.json) |
+| Baezult 2 | 30832 | [30832-baezult-2.json](./30832-baezult-2.json) |
 | Baff | 118340 | [118340-baff.json](./118340-baff.json) |
 | Baff 2 | 120095 | [120095-baff-2.json](./120095-baff-2.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta Origins: Cereza and the Lost Demon | 228528 | [228528-bayonetta-origins-cereza-and-the-lost-demon.json](./228528-bayonetta-origins-cereza-and-the-lost-demon.json) |
 | Bayonetta: Nonstop Climax Edition | 136898 | [136898-bayonetta-nonstop-climax-edition.json](./136898-bayonetta-nonstop-climax-edition.json) |
 | Bayou Boats | 387711 | [387711-bayou-boats.json](./387711-bayou-boats.json) |
+| Bayou Island: Point and Click Adventure | 29412 | [29412-bayou-island-point-and-click-adventure.json](./29412-bayou-island-point-and-click-adventure.json) |
 | Bazaar | 19033 | [19033-bazaar.json](./19033-bazaar.json) |
 | Bazaar Simulator | 312155 | [312155-bazaar-simulator.json](./312155-bazaar-simulator.json) |
 | Bazar Don JC | 404447 | [404447-bazar-don-jc.json](./404447-bazar-don-jc.json) |
@@ -4225,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Blocks VR | 111609 | [111609-beat-blocks-vr.json](./111609-beat-blocks-vr.json) |
 | Beat Bolt City | 151502 | [151502-beat-bolt-city.json](./151502-beat-bolt-city.json) |
 | Beat Bop: Pop Star Clicker | 243742 | [243742-beat-bop-pop-star-clicker.json](./243742-beat-bop-pop-star-clicker.json) |
+| Beat Boxer | 30838 | [30838-beat-boxer.json](./30838-beat-boxer.json) |
 | Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Boxing | 120129 | [120129-beat-boxing.json](./120129-beat-boxing.json) |
 | Beat Boy | 148803 | [148803-beat-boy.json](./148803-beat-boy.json) |
@@ -4699,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | Bed Wars | 265850 | [265850-bed-wars.json](./265850-bed-wars.json) |
 | BederSnake | 361220 | [361220-bedersnake.json](./361220-bedersnake.json) |
+| Bedfellows Frenzy | 30889 | [30889-bedfellows-frenzy.json](./30889-bedfellows-frenzy.json) |
 | Bedlam | 13391 | [13391-bedlam.json](./13391-bedlam.json) |
 | Bedlam | 2390 | [2390-bedlam.json](./2390-bedlam.json) |
 | Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
@@ -12247,6 +12251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach 2 | 14345 | [14345-breach-2.json](./14345-breach-2.json) |
 | Breach 3 | 57650 | [57650-breach-3.json](./57650-breach-3.json) |
 | Breach in Space | 245820 | [245820-breach-in-space.json](./245820-breach-in-space.json) |
+| Breach It | 29494 | [29494-breach-it.json](./29494-breach-it.json) |
 | Breach of Contract Reloaded | 89947 | [89947-breach-of-contract-reloaded.json](./89947-breach-of-contract-reloaded.json) |
 | Breach Point | 118823 | [118823-breach-point.json](./118823-breach-point.json) |
 | Breach Signal | 341065 | [341065-breach-signal.json](./341065-breach-signal.json) |
