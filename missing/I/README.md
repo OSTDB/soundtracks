@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zombies Clicker | 213529 | [213529-idle-zombies-clicker.json](./213529-idle-zombies-clicker.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
 | Idle Zoo Tycoon | 220814 | [220814-idle-zoo-tycoon.json](./220814-idle-zoo-tycoon.json) |
+| Idle: Doodle Realm | 389939 | [389939-idle-doodle-realm.json](./389939-idle-doodle-realm.json) |
 | Idle: Generators | 252289 | [252289-idle-generators.json](./252289-idle-generators.json) |
 | IDLE: Intergalactic Defense League Exterminators | 408578 | [408578-idle-intergalactic-defense-league-exterminators.json](./408578-idle-intergalactic-defense-league-exterminators.json) |
 | Idle: Multipliers | 250186 | [250186-idle-multipliers.json](./250186-idle-multipliers.json) |
