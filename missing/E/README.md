@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Eggstravaganza | 196077 | [196077-easter-eggstravaganza.json](./196077-easter-eggstravaganza.json) |
 | Easter Eggztravaganza | 76899 | [76899-easter-eggztravaganza.json](./76899-easter-eggztravaganza.json) |
 | Easter Eggztravaganza 2 | 418548 | [418548-easter-eggztravaganza-2.json](./418548-easter-eggztravaganza-2.json) |
+| Easter Hunting | 419635 | [419635-easter-hunting.json](./419635-easter-hunting.json) |
 | Easter Jewels HD | 87068 | [87068-easter-jewels-hd.json](./87068-easter-jewels-hd.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Easter Squad VR | 101054 | [101054-easter-squad-vr.json](./101054-easter-squad-vr.json) |
