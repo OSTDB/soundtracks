@@ -4190,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai House | 365438 | [365438-hentai-house.json](./365438-hentai-house.json) |
 | Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
+| Hentai House: Puzzle Nights | 399645 | [399645-hentai-house-puzzle-nights.json](./399645-hentai-house-puzzle-nights.json) |
 | Hentai Hunter | 272223 | [272223-hentai-hunter.json](./272223-hentai-hunter.json) |
 | Hentai in the Forest | 155689 | [155689-hentai-in-the-forest.json](./155689-hentai-in-the-forest.json) |
 | Hentai IQ Puzzle | 163570 | [163570-hentai-iq-puzzle.json](./163570-hentai-iq-puzzle.json) |
@@ -4380,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Solitaire: Special Edition | 317911 | [317911-hentai-solitaire-special-edition.json](./317911-hentai-solitaire-special-edition.json) |
 | Hentai Solitaire: Ultimate Edition | 313785 | [313785-hentai-solitaire-ultimate-edition.json](./313785-hentai-solitaire-ultimate-edition.json) |
 | Hentai SpaceSuit | 243553 | [243553-hentai-spacesuit.json](./243553-hentai-spacesuit.json) |
+| Hentai Special 4-in-1 | 399644 | [399644-hentai-special-4-in-1.json](./399644-hentai-special-4-in-1.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
 | Hentai Sport | 371362 | [371362-hentai-sport.json](./371362-hentai-sport.json) |
 | Hentai SportsGirl | 230894 | [230894-hentai-sportsgirl.json](./230894-hentai-sportsgirl.json) |
@@ -9104,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Shooting Defence | 265151 | [265151-hover-shooting-defence.json](./265151-hover-shooting-defence.json) |
 | Hover Skate VR | 30167 | [30167-hover-skate-vr.json](./30167-hover-skate-vr.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
+| Hover Tank 3D | 399596 | [399596-hover-tank-3d.json](./399596-hover-tank-3d.json) |
 | Hover the Edge | 195963 | [195963-hover-the-edge.json](./195963-hover-the-edge.json) |
 | Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
@@ -9611,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humblets | 349461 | [349461-humblets.json](./349461-humblets.json) |
 | Humbug | 413687 | [413687-humbug.json](./413687-humbug.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
+| Humbug 2 | 399584 | [399584-humbug-2.json](./399584-humbug-2.json) |
 | Humbug 2 | 413690 | [413690-humbug-2.json](./413690-humbug-2.json) |
 | Humbug Tales: Keeper of the Swarm | 263974 | [263974-humbug-tales-keeper-of-the-swarm.json](./263974-humbug-tales-keeper-of-the-swarm.json) |
 | Humbugger | 413688 | [413688-humbugger.json](./413688-humbugger.json) |
