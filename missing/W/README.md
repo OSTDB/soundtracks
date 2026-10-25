@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wade | 385384 | [385384-wade.json](./385384-wade.json) |
 | WadoVice64 | 387157 | [387157-wadovice64.json](./387157-wadovice64.json) |
 | Waffle Blast | 245181 | [245181-waffle-blast.json](./245181-waffle-blast.json) |
+| Waffle Boy's Jungle Adventure | 416939 | [416939-waffle-boys-jungle-adventure.json](./416939-waffle-boys-jungle-adventure.json) |
 | Waffle Cone Willie | 311888 | [311888-waffle-cone-willie.json](./311888-waffle-cone-willie.json) |
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
 | Waffle Painter | 383699 | [383699-waffle-painter.json](./383699-waffle-painter.json) |
