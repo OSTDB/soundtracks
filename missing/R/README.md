@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Me In | 316949 | [316949-reel-me-in.json](./316949-reel-me-in.json) |
 | Reel Run | 367743 | [367743-reel-run.json](./367743-reel-run.json) |
 | Reel Steal | 151984 | [151984-reel-steal.json](./151984-reel-steal.json) |
+| Reel Talk | 389750 | [389750-reel-talk.json](./389750-reel-talk.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reelism | 141643 | [141643-reelism.json](./141643-reelism.json) |
