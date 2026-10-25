@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
 | Legendary Heros in the Three Kingdoms | 96941 | [96941-legendary-heros-in-the-three-kingdoms.json](./96941-legendary-heros-in-the-three-kingdoms.json) |
 | Legendary Hoplite | 216738 | [216738-legendary-hoplite.json](./216738-legendary-hoplite.json) |
+| Legendary Hunter VR | 38629 | [38629-legendary-hunter-vr.json](./38629-legendary-hunter-vr.json) |
 | Legendary Journeys | 150281 | [150281-legendary-journeys.json](./150281-legendary-journeys.json) |
 | Legendary Knight | 130087 | [130087-legendary-knight.json](./130087-legendary-knight.json) |
 | Legendary Knight | 199786 | [199786-legendary-knight.json](./199786-legendary-knight.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifting Journey | 115431 | [115431-lifting-journey.json](./115431-lifting-journey.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Liftlands | 284567 | [284567-liftlands.json](./284567-liftlands.json) |
+| Liftoff | 34251 | [34251-liftoff.json](./34251-liftoff.json) |
 | Liftoff Inc. | 410396 | [410396-liftoff-inc.json](./410396-liftoff-inc.json) |
 | Liftoff: Drone Racing | 138528 | [138528-liftoff-drone-racing.json](./138528-liftoff-drone-racing.json) |
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
@@ -5815,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Leader | 31578 | [31578-lone-leader.json](./31578-lone-leader.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
+| Lone Pirate VR | 38794 | [38794-lone-pirate-vr.json](./38794-lone-pirate-vr.json) |
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
 | Lone Samurai. | 100666 | [100666-lone-samurai.json](./100666-lone-samurai.json) |
 | Lone Shadow | 370997 | [370997-lone-shadow.json](./370997-lone-shadow.json) |
@@ -6179,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
 | Lootem | 226181 | [226181-lootem.json](./226181-lootem.json) |
+| Lootfest | 35351 | [35351-lootfest.json](./35351-lootfest.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
 | Lootist | 316735 | [316735-lootist.json](./316735-lootist.json) |
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
