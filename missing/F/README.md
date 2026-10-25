@@ -7520,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
 | Football Club Inside | 390711 | [390711-football-club-inside.json](./390711-football-club-inside.json) |
 | Football Club Management 2023 | 214062 | [214062-football-club-management-2023.json](./214062-football-club-management-2023.json) |
+| Football Club Manager 26 Live | 403972 | [403972-football-club-manager-26-live.json](./403972-football-club-manager-26-live.json) |
 | Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
 | Football Clubs | 306056 | [306056-football-clubs.json](./306056-football-clubs.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
@@ -10349,6 +10350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Heart | 193760 | [193760-frost-heart.json](./193760-frost-heart.json) |
 | Frost Kin | 402474 | [402474-frost-kin.json](./402474-frost-kin.json) |
 | Frost Loop | 391230 | [391230-frost-loop.json](./391230-frost-loop.json) |
+| Frost Ornament | 403919 | [403919-frost-ornament.json](./403919-frost-ornament.json) |
 | Frost Survivors: Text Game | 318197 | [318197-frost-survivors-text-game.json](./318197-frost-survivors-text-game.json) |
 | Frost Vale | 389056 | [389056-frost-vale.json](./389056-frost-vale.json) |
 | Frost Wars: The Rise of Fatty Sparkles | 64440 | [64440-frost-wars-the-rise-of-fatty-sparkles.json](./64440-frost-wars-the-rise-of-fatty-sparkles.json) |
