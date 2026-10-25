@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo ha Ira-ira Jirai Girl | 251613 | [251613-kanojo-ha-ira-ira-jirai-girl.json](./251613-kanojo-ha-ira-ira-jirai-girl.json) |
 | Kanojo ha Sensei no Model | 97697 | [97697-kanojo-ha-sensei-no-model.json](./97697-kanojo-ha-sensei-no-model.json) |
 | Kanojo no Seiiki | 59879 | [59879-kanojo-no-seiiki.json](./59879-kanojo-no-seiiki.json) |
+| Kanojo to Ore no Koisome Dousei | 402722 | [402722-kanojo-to-ore-no-koisome-dousei.json](./402722-kanojo-to-ore-no-koisome-dousei.json) |
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
 | Kanojo wa Dare to demo Sex suru. | 82984 | [82984-kanojo-wa-dare-to-demo-sex-suru.json](./82984-kanojo-wa-dare-to-demo-sex-suru.json) |
 | Kanojo x Switch | 368113 | [368113-kanojo-x-switch.json](./368113-kanojo-x-switch.json) |
@@ -1227,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep It Running: Together | 330692 | [330692-keep-it-running-together.json](./330692-keep-it-running-together.json) |
 | Keep It Steady! | 295893 | [295893-keep-it-steady.json](./295893-keep-it-steady.json) |
 | Keep it Up | 312824 | [312824-keep-it-up.json](./312824-keep-it-up.json) |
+| Keep It Up! | 402733 | [402733-keep-it-up.json](./402733-keep-it-up.json) |
 | Keep Keepers | 272363 | [272363-keep-keepers.json](./272363-keep-keepers.json) |
 | Keep Killing | 257889 | [257889-keep-killing.json](./257889-keep-killing.json) |
 | Keep Leapin' | 309753 | [309753-keep-leapin.json](./309753-keep-leapin.json) |
@@ -2306,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2740,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance - Limited Edition | 166176 | [166176-kingdom-come-deliverance-limited-edition.json](./166176-kingdom-come-deliverance-limited-edition.json) |
 | Kingdom Come: Deliverance - Royal Collector’s Edition | 167066 | [167066-kingdom-come-deliverance-royal-collector-s-edition.json](./167066-kingdom-come-deliverance-royal-collector-s-edition.json) |
 | Kingdom Come: Deliverance - Royal DLC Package | 155078 | [155078-kingdom-come-deliverance-royal-dlc-package.json](./155078-kingdom-come-deliverance-royal-dlc-package.json) |
+| Kingdom Come: Deliverance - Saga Bundle | 402700 | [402700-kingdom-come-deliverance-saga-bundle.json](./402700-kingdom-come-deliverance-saga-bundle.json) |
 | Kingdom Come: Deliverance - Special Edition | 136164 | [136164-kingdom-come-deliverance-special-edition.json](./136164-kingdom-come-deliverance-special-edition.json) |
 | Kingdom Come: Deliverance II - Brushes with Death | 343669 | [343669-kingdom-come-deliverance-ii-brushes-with-death.json](./343669-kingdom-come-deliverance-ii-brushes-with-death.json) |
 | Kingdom Come: Deliverance II - Collectors' Edition | 326774 | [326774-kingdom-come-deliverance-ii-collectors-edition.json](./326774-kingdom-come-deliverance-ii-collectors-edition.json) |
@@ -3899,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock Knock | 323988 | [323988-knock-knock.json](./323988-knock-knock.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
 | Knock on the Coffin Lid | 131645 | [131645-knock-on-the-coffin-lid.json](./131645-knock-on-the-coffin-lid.json) |
+| Knock on the Coffin Lid: Complete Edition | 402712 | [402712-knock-on-the-coffin-lid-complete-edition.json](./402712-knock-on-the-coffin-lid-complete-edition.json) |
 | Knock on the Coffin Lid: Nightmares of Millenis | 381880 | [381880-knock-on-the-coffin-lid-nightmares-of-millenis.json](./381880-knock-on-the-coffin-lid-nightmares-of-millenis.json) |
 | Knock on the Occult Door | 374817 | [374817-knock-on-the-occult-door.json](./374817-knock-on-the-occult-door.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
@@ -4008,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KO Seiki Beast Sanjuushi | 108922 | [108922-ko-seiki-beast-sanjuushi.json](./108922-ko-seiki-beast-sanjuushi.json) |
 | Koa: A Gluttonous Wizard | 215335 | [215335-koa-a-gluttonous-wizard.json](./215335-koa-a-gluttonous-wizard.json) |
 | Koakuma | 222787 | [222787-koakuma.json](./222787-koakuma.json) |
+| Koakuma Nurse no Itazura Karte: Kangoshi Kanojo to no Dousei Seikatsu | 402718 | [402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json](./402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json) |
 | Koala Kids | 34981 | [34981-koala-kids.json](./34981-koala-kids.json) |
 | Koala Lumpur: Journey to the Edge | 6736 | [6736-koala-lumpur-journey-to-the-edge.json](./6736-koala-lumpur-journey-to-the-edge.json) |
 | Koala Quest: Parenthood Prevention | 171321 | [171321-koala-quest-parenthood-prevention.json](./171321-koala-quest-parenthood-prevention.json) |
@@ -4106,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Remake | 212444 | [212444-koi-remake.json](./212444-koi-remake.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
 | Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
+| Koi Suru Amairo Homestay: Ryuugakusei ha Wanko-kei Osananajimi | 402717 | [402717-koi-suru-amairo-homestay-ryuugakusei-ha-wanko-kei-osananajimi.json](./402717-koi-suru-amairo-homestay-ryuugakusei-ha-wanko-kei-osananajimi.json) |
 | Koi suru Kanojo no Bukiyou na Butai | 238100 | [238100-koi-suru-kanojo-no-bukiyou-na-butai.json](./238100-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kanojo no Bukiyou na Butai | 77888 | [77888-koi-suru-kanojo-no-bukiyou-na-butai.json](./77888-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kimochi no Kasanekata: Kasaneta Omoi o Zutto | 82498 | [82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json](./82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json) |
@@ -4457,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Rail Driving Tour: LRT Busan-Gimhae | 303617 | [303617-korean-rail-driving-tour-lrt-busan-gimhae.json](./303617-korean-rail-driving-tour-lrt-busan-gimhae.json) |
 | Korean Rail Driving Tour: LRT Uijeongbu | 292361 | [292361-korean-rail-driving-tour-lrt-uijeongbu.json](./292361-korean-rail-driving-tour-lrt-uijeongbu.json) |
 | Korean Scary Folk Tales VR : The Forbidden Book | 103181 | [103181-korean-scary-folk-tales-vr-the-forbidden-book.json](./103181-korean-scary-folk-tales-vr-the-forbidden-book.json) |
+| Korean Student Simulator | 402734 | [402734-korean-student-simulator.json](./402734-korean-student-simulator.json) |
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
 | Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
 | KORG DS-10 Plus | 124490 | [124490-korg-ds-10-plus.json](./124490-korg-ds-10-plus.json) |
