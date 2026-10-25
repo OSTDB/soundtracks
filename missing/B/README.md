@@ -9636,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Time | 128306 | [128306-blue-time.json](./128306-blue-time.json) |
 | Blue Toad Murder Files: The Mysteries of Little Riddle | 18790 | [18790-blue-toad-murder-files-the-mysteries-of-little-riddle.json](./18790-blue-toad-murder-files-the-mysteries-of-little-riddle.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
+| Blue Vector | 415750 | [415750-blue-vector.json](./415750-blue-vector.json) |
 | Blue Volta | 120251 | [120251-blue-volta.json](./120251-blue-volta.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
 | Blue Wars | 194159 | [194159-blue-wars.json](./194159-blue-wars.json) |
