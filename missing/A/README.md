@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
+| AI Escort | 96421 | [96421-ai-escort.json](./96421-ai-escort.json) |
 | AI Fantasy | 293500 | [293500-ai-fantasy.json](./293500-ai-fantasy.json) |
 | AI Fightclub | 303890 | [303890-ai-fightclub.json](./303890-ai-fightclub.json) |
 | Ai ga Mie Hajimetara | 151840 | [151840-ai-ga-mie-hajimetara.json](./151840-ai-ga-mie-hajimetara.json) |
@@ -5928,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Mods 10: To the Sky | 366322 | [366322-all-the-mods-10-to-the-sky.json](./366322-all-the-mods-10-to-the-sky.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
+| All the Rain | 96699 | [96699-all-the-rain.json](./96699-all-the-rain.json) |
 | All The Stars | 364866 | [364866-all-the-stars.json](./364866-all-the-stars.json) |
 | All the Way Down | 171978 | [171978-all-the-way-down.json](./171978-all-the-way-down.json) |
 | All the Wiser | 274011 | [274011-all-the-wiser.json](./274011-all-the-wiser.json) |
@@ -10214,6 +10216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
 | Arcade Audience | 417501 | [417501-arcade-audience.json](./417501-arcade-audience.json) |
 | Arcade Bank 3 Minute Tetris | 233648 | [233648-arcade-bank-3-minute-tetris.json](./233648-arcade-bank-3-minute-tetris.json) |
+| Arcade Basketball | 100900 | [100900-arcade-basketball.json](./100900-arcade-basketball.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
 | Arcade Basketball Blitz Online | 235128 | [235128-arcade-basketball-blitz-online.json](./235128-arcade-basketball-blitz-online.json) |
 | Arcade Blast | 202699 | [202699-arcade-blast.json](./202699-arcade-blast.json) |
@@ -13871,6 +13874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Drive 2 VR | 338181 | [338181-audio-drive-2-vr.json](./338181-audio-drive-2-vr.json) |
 | Audio Factory | 76149 | [76149-audio-factory.json](./76149-audio-factory.json) |
 | Audio Forager | 83963 | [83963-audio-forager.json](./83963-audio-forager.json) |
+| Audio Game (Wizard's Choice 2) | 100886 | [100886-audio-game-wizards-choice-2.json](./100886-audio-game-wizards-choice-2.json) |
 | Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
 | Audio Party Pack | 143923 | [143923-audio-party-pack.json](./143923-audio-party-pack.json) |
@@ -14647,6 +14651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Champ | 102707 | [102707-axe-champ.json](./102707-axe-champ.json) |
 | Axe Champ Shoot Out | 322659 | [322659-axe-champ-shoot-out.json](./322659-axe-champ-shoot-out.json) |
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
+| Axe Climber | 96715 | [96715-axe-climber.json](./96715-axe-climber.json) |
 | Axe Cop | 128955 | [128955-axe-cop.json](./128955-axe-cop.json) |
 | Axe Gang | 151494 | [151494-axe-gang.json](./151494-axe-gang.json) |
 | Axe Ghost | 295353 | [295353-axe-ghost.json](./295353-axe-ghost.json) |
