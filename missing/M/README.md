@@ -9900,6 +9900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Over Melee Radio | 169768 | [169768-mind-over-melee-radio.json](./169768-mind-over-melee-radio.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
 | Mind Over Mushroom | 86605 | [86605-mind-over-mushroom.json](./86605-mind-over-mushroom.json) |
+| Mind Over Scissors | 387301 | [387301-mind-over-scissors.json](./387301-mind-over-scissors.json) |
 | Mind OVR Matter | 32838 | [32838-mind-ovr-matter.json](./32838-mind-ovr-matter.json) |
 | Mind Palace | 177267 | [177267-mind-palace.json](./177267-mind-palace.json) |
 | Mind Palace | 277775 | [277775-mind-palace.json](./277775-mind-palace.json) |
@@ -13819,6 +13820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
 | Moony: Black_Lotus | 326226 | [326226-moony-black-lotus.json](./326226-moony-black-lotus.json) |
 | Moonyolk | 213914 | [213914-moonyolk.json](./213914-moonyolk.json) |
+| Moonzytale | 387398 | [387398-moonzytale.json](./387398-moonzytale.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Mooon | 292371 | [292371-mooon.json](./292371-mooon.json) |
