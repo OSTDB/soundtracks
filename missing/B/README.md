@@ -478,12 +478,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Exploration | 242406 | [242406-backrooms-exploration.json](./242406-backrooms-exploration.json) |
 | Backrooms Exploration Liminal | 258475 | [258475-backrooms-exploration-liminal.json](./258475-backrooms-exploration-liminal.json) |
 | Backrooms Fishing | 405621 | [405621-backrooms-fishing.json](./405621-backrooms-fishing.json) |
+| Backrooms Game Creator | 407797 | [407797-backrooms-game-creator.json](./407797-backrooms-game-creator.json) |
 | Backrooms Game No. 999999 | 283973 | [283973-backrooms-game-no-999999.json](./283973-backrooms-game-no-999999.json) |
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms Horror Escape | 317563 | [317563-backrooms-horror-escape.json](./317563-backrooms-horror-escape.json) |
 | Backrooms Interception | 378603 | [378603-backrooms-interception.json](./378603-backrooms-interception.json) |
 | Backrooms Invasion | 298365 | [298365-backrooms-invasion.json](./298365-backrooms-invasion.json) |
 | Backrooms Journey: Into the unknown | 329167 | [329167-backrooms-journey-into-the-unknown.json](./329167-backrooms-journey-into-the-unknown.json) |
+| Backrooms Levels | 407821 | [407821-backrooms-levels.json](./407821-backrooms-levels.json) |
 | Backrooms Liminal Escape | 343301 | [343301-backrooms-liminal-escape.json](./343301-backrooms-liminal-escape.json) |
 | Backrooms Lost Runners | 364009 | [364009-backrooms-lost-runners.json](./364009-backrooms-lost-runners.json) |
 | Backrooms Mainframe | 234687 | [234687-backrooms-mainframe.json](./234687-backrooms-mainframe.json) |
@@ -501,9 +503,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Society | 245870 | [245870-backrooms-society.json](./245870-backrooms-society.json) |
 | Backrooms Stories | 374784 | [374784-backrooms-stories.json](./374784-backrooms-stories.json) |
 | Backrooms The Company | 309864 | [309864-backrooms-the-company.json](./309864-backrooms-the-company.json) |
+| Backrooms Union | 407806 | [407806-backrooms-union.json](./407806-backrooms-union.json) |
 | Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | BackRooms X | 337438 | [337438-backrooms-x.json](./337438-backrooms-x.json) |
+| Backrooms: 2005 | 407824 | [407824-backrooms-2005.json](./407824-backrooms-2005.json) |
+| Backrooms: 5 Missing Wanderers | 407820 | [407820-backrooms-5-missing-wanderers.json](./407820-backrooms-5-missing-wanderers.json) |
 | Backrooms: Apprehension | 233366 | [233366-backrooms-apprehension.json](./233366-backrooms-apprehension.json) |
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
 | Backrooms: Beyond One Year | 289230 | [289230-backrooms-beyond-one-year.json](./289230-backrooms-beyond-one-year.json) |
@@ -514,17 +519,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
 | Backrooms: Eternal Shadows | 293849 | [293849-backrooms-eternal-shadows.json](./293849-backrooms-eternal-shadows.json) |
 | Backrooms: Eternals | 408307 | [408307-backrooms-eternals.json](./408307-backrooms-eternals.json) |
+| Backrooms: Exit 8 | 407792 | [407792-backrooms-exit-8.json](./407792-backrooms-exit-8.json) |
 | Backrooms: Exit from Supermarket | 333729 | [333729-backrooms-exit-from-supermarket.json](./333729-backrooms-exit-from-supermarket.json) |
 | Backrooms: Exploration | 338326 | [338326-backrooms-exploration.json](./338326-backrooms-exploration.json) |
 | Backrooms: Extractions | 342580 | [342580-backrooms-extractions.json](./342580-backrooms-extractions.json) |
 | Backrooms: Fade | 409742 | [409742-backrooms-fade.json](./409742-backrooms-fade.json) |
 | Backrooms: Final Exam | 350290 | [350290-backrooms-final-exam.json](./350290-backrooms-final-exam.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
+| Backrooms: Glitchfield | 407807 | [407807-backrooms-glitchfield.json](./407807-backrooms-glitchfield.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
 | Backrooms: Imposter | 384916 | [384916-backrooms-imposter.json](./384916-backrooms-imposter.json) |
 | Backrooms: Inside the Escape | 324985 | [324985-backrooms-inside-the-escape.json](./324985-backrooms-inside-the-escape.json) |
+| Backrooms: Labyrinth Glitch | 407803 | [407803-backrooms-labyrinth-glitch.json](./407803-backrooms-labyrinth-glitch.json) |
+| Backrooms: Last Chance | 407802 | [407802-backrooms-last-chance.json](./407802-backrooms-last-chance.json) |
 | BackRooms: Lost | 301270 | [301270-backrooms-lost.json](./301270-backrooms-lost.json) |
 | Backrooms: Lost Place | 290543 | [290543-backrooms-lost-place.json](./290543-backrooms-lost-place.json) |
+| Backrooms: Lost Signal | 407801 | [407801-backrooms-lost-signal.json](./407801-backrooms-lost-signal.json) |
 | Backrooms: Maintenance | 308905 | [308905-backrooms-maintenance.json](./308905-backrooms-maintenance.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
 | Backrooms: Missing Persons | 374889 | [374889-backrooms-missing-persons.json](./374889-backrooms-missing-persons.json) |
@@ -537,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Partygoers | 320451 | [320451-backrooms-partygoers.json](./320451-backrooms-partygoers.json) |
 | Backrooms: Perpetual | 205072 | [205072-backrooms-perpetual.json](./205072-backrooms-perpetual.json) |
 | Backrooms: Poolrooms | 389062 | [389062-backrooms-poolrooms.json](./389062-backrooms-poolrooms.json) |
+| Backrooms: Realism | 407804 | [407804-backrooms-realism.json](./407804-backrooms-realism.json) |
 | Backrooms: Realm of Shadows | 247513 | [247513-backrooms-realm-of-shadows.json](./247513-backrooms-realm-of-shadows.json) |
 | Backrooms: Realm of Shadows - Full Version | 283972 | [283972-backrooms-realm-of-shadows-full-version.json](./283972-backrooms-realm-of-shadows-full-version.json) |
 | Backrooms: Rebirth | 290916 | [290916-backrooms-rebirth.json](./290916-backrooms-rebirth.json) |
@@ -545,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Splatter | 410300 | [410300-backrooms-splatter.json](./410300-backrooms-splatter.json) |
 | Backrooms: Steps into the abyss | 283971 | [283971-backrooms-steps-into-the-abyss.json](./283971-backrooms-steps-into-the-abyss.json) |
 | Backrooms: Surreality | 226241 | [226241-backrooms-surreality.json](./226241-backrooms-surreality.json) |
+| Backrooms: The Deep Dark | 407814 | [407814-backrooms-the-deep-dark.json](./407814-backrooms-the-deep-dark.json) |
 | Backrooms: The Lost Circus | 335054 | [335054-backrooms-the-lost-circus.json](./335054-backrooms-the-lost-circus.json) |
 | Backrooms: The Next Level | 353784 | [353784-backrooms-the-next-level.json](./353784-backrooms-the-next-level.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
@@ -552,9 +564,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: The Phobolore | 265538 | [265538-backrooms-the-phobolore.json](./265538-backrooms-the-phobolore.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
 | Backrooms: The Silence | 339449 | [339449-backrooms-the-silence.json](./339449-backrooms-the-silence.json) |
+| Backrooms: The True Level | 407809 | [407809-backrooms-the-true-level.json](./407809-backrooms-the-true-level.json) |
 | Backrooms: The Twisted One | 399294 | [399294-backrooms-the-twisted-one.json](./399294-backrooms-the-twisted-one.json) |
 | Backrooms: The Void | 407469 | [407469-backrooms-the-void.json](./407469-backrooms-the-void.json) |
 | Backrooms: The Wrong Door | 404887 | [404887-backrooms-the-wrong-door.json](./404887-backrooms-the-wrong-door.json) |
+| Backrooms: The Wrong Level | 407808 | [407808-backrooms-the-wrong-level.json](./407808-backrooms-the-wrong-level.json) |
+| Backrooms: The Yellow Dream | 407817 | [407817-backrooms-the-yellow-dream.json](./407817-backrooms-the-yellow-dream.json) |
 | Backrooms: What's Next | 404792 | [404792-backrooms-whats-next.json](./404792-backrooms-whats-next.json) |
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | BackRooms's 1995: The Lost Footage - Chapter1 | 303097 | [303097-backroomss-1995-the-lost-footage-chapter1.json](./303097-backroomss-1995-the-lost-footage-chapter1.json) |
@@ -778,7 +793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3941,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Club Simulator 2024 | 289429 | [289429-beach-club-simulator-2024.json](./289429-beach-club-simulator-2024.json) |
 | Beach Club Tycoon | 249683 | [249683-beach-club-tycoon.json](./249683-beach-club-tycoon.json) |
 | Beach de Reach! | 45418 | [45418-beach-de-reach.json](./45418-beach-de-reach.json) |
+| Beach Defense: Zombie Invasion | 407795 | [407795-beach-defense-zombie-invasion.json](./407795-beach-defense-zombie-invasion.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
 | Beach Fun Summer Challenge | 50739 | [50739-beach-fun-summer-challenge.json](./50739-beach-fun-summer-challenge.json) |
@@ -4670,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beavers in the Stream | 422061 | [422061-beavers-in-the-stream.json](./422061-beavers-in-the-stream.json) |
 | Beavertale | 403519 | [403519-beavertale.json](./403519-beavertale.json) |
 | Beavis and Butt-head: Wiener Take All | 8460 | [8460-beavis-and-butt-head-wiener-take-all.json](./8460-beavis-and-butt-head-wiener-take-all.json) |
+| Beavus | 407779 | [407779-beavus.json](./407779-beavus.json) |
 | Bebder Game: Bebder Than the Rest | 209389 | [209389-bebder-game-bebder-than-the-rest.json](./209389-bebder-game-bebder-than-the-rest.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beberserker | 132094 | [132094-beberserker.json](./132094-beberserker.json) |
@@ -15088,6 +15104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By Lamplight | 135612 | [135612-by-lamplight.json](./135612-by-lamplight.json) |
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
+| By My Side | 407785 | [407785-by-my-side.json](./407785-by-my-side.json) |
 | By Myself | 390185 | [390185-by-myself.json](./390185-by-myself.json) |
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
