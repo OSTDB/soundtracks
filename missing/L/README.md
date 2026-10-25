@@ -5982,6 +5982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look At Me | 285564 | [285564-look-at-me.json](./285564-look-at-me.json) |
 | Look At Me | 327452 | [327452-look-at-me.json](./327452-look-at-me.json) |
 | Look Back | 304827 | [304827-look-back.json](./304827-look-back.json) |
+| Look Closer Dark Traditions | 417274 | [417274-look-closer-dark-traditions.json](./417274-look-closer-dark-traditions.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
 | Look Find Find | 219671 | [219671-look-find-find.json](./219671-look-find-find.json) |
 | Look for Danger | 226138 | [226138-look-for-danger.json](./226138-look-for-danger.json) |
@@ -6751,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Oath | 260600 | [260600-lost-oath.json](./260600-lost-oath.json) |
 | Lost Oddies | 243097 | [243097-lost-oddies.json](./243097-lost-oddies.json) |
 | Lost Odyssey | 7057 | [7057-lost-odyssey.json](./7057-lost-odyssey.json) |
+| Lost Odyssey: Recompiled | 417263 | [417263-lost-odyssey-recompiled.json](./417263-lost-odyssey-recompiled.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Oliver | 235595 | [235595-lost-oliver.json](./235595-lost-oliver.json) |
 | Lost on Jupiter | 185927 | [185927-lost-on-jupiter.json](./185927-lost-on-jupiter.json) |
