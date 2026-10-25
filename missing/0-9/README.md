@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Me | 358079 | [358079-2me.json](./358079-2me.json) |
 | 2Metal | 331359 | [331359-2metal.json](./331359-2metal.json) |
 | 2Moons | 93995 | [93995-2moons.json](./93995-2moons.json) |
+| 2nd by a Second | 419618 | [419618-2nd-by-a-second.json](./419618-2nd-by-a-second.json) |
 | 2nd Child | 358082 | [358082-2nd-child.json](./358082-2nd-child.json) |
 | 2nd Circle: Powerful Places | 109872 | [109872-2nd-circle-powerful-places.json](./109872-2nd-circle-powerful-places.json) |
 | 2nd Eve | 358083 | [358083-2nd-eve.json](./358083-2nd-eve.json) |
