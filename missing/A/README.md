@@ -3031,7 +3031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3769,8 +3768,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Drakonis Faction | 399102 | [399102-age-of-gods-drakonis-faction.json](./399102-age-of-gods-drakonis-faction.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
 | Age of Gods: Igneous Faction | 399103 | [399103-age-of-gods-igneous-faction.json](./399103-age-of-gods-igneous-faction.json) |
+| Age of Gods: Necros Campaign | 399093 | [399093-age-of-gods-necros-campaign.json](./399093-age-of-gods-necros-campaign.json) |
+| Age of Gods: Necros Faction | 399095 | [399095-age-of-gods-necros-faction.json](./399095-age-of-gods-necros-faction.json) |
+| Age of Gods: Nordheim Faction | 399097 | [399097-age-of-gods-nordheim-faction.json](./399097-age-of-gods-nordheim-faction.json) |
 | Age of Gods: Sanctus Campaign | 399100 | [399100-age-of-gods-sanctus-campaign.json](./399100-age-of-gods-sanctus-campaign.json) |
+| Age of Gods: Skyborne Faction | 399099 | [399099-age-of-gods-skyborne-faction.json](./399099-age-of-gods-skyborne-faction.json) |
 | Age of Gods: Spirit Faction | 399101 | [399101-age-of-gods-spirit-faction.json](./399101-age-of-gods-spirit-faction.json) |
+| Age of Gods: Tribal Faction | 399098 | [399098-age-of-gods-tribal-faction.json](./399098-age-of-gods-tribal-faction.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes VR | 51381 | [51381-age-of-heroes-vr.json](./51381-age-of-heroes-vr.json) |
@@ -3791,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: Extended Edition | 9902 | [9902-age-of-mythology-extended-edition.json](./9902-age-of-mythology-extended-edition.json) |
 | Age of Mythology: Gold Edition | 129851 | [129851-age-of-mythology-gold-edition.json](./129851-age-of-mythology-gold-edition.json) |
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
+| Age of Mythology: Retold - New Gods Pack: Demeter | 399022 | [399022-age-of-mythology-retold-new-gods-pack-demeter.json](./399022-age-of-mythology-retold-new-gods-pack-demeter.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Mythology: The Titans | 8221 | [8221-age-of-mythology-the-titans.json](./8221-age-of-mythology-the-titans.json) |
@@ -5368,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Running Adventures | 235044 | [235044-alice-running-adventures.json](./235044-alice-running-adventures.json) |
 | Alice Senki 2 | 191880 | [191880-alice-senki-2.json](./191880-alice-senki-2.json) |
 | Alice Sisters | 157033 | [157033-alice-sisters.json](./157033-alice-sisters.json) |
+| Alice Slaughters Wonderland | 399051 | [399051-alice-slaughters-wonderland.json](./399051-alice-slaughters-wonderland.json) |
 | Alice Through the Fey Realm | 294248 | [294248-alice-through-the-fey-realm.json](./294248-alice-through-the-fey-realm.json) |
 | Alice Through the Looking-Glass | 401059 | [401059-alice-through-the-looking-glass.json](./401059-alice-through-the-looking-glass.json) |
 | Alice to Marisa to Inakunatta Shanghai Ningyou | 214364 | [214364-alice-to-marisa-to-inakunatta-shanghai-ningyou.json](./214364-alice-to-marisa-to-inakunatta-shanghai-ningyou.json) |
@@ -9373,6 +9379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex 2026: Rise of Legends | 401727 | [401727-apex-2026-rise-of-legends.json](./401727-apex-2026-rise-of-legends.json) |
 | Apex Arena | 104237 | [104237-apex-arena.json](./104237-apex-arena.json) |
 | Apex Automata | 297347 | [297347-apex-automata.json](./297347-apex-automata.json) |
+| Apex Byte Reeling | 399042 | [399042-apex-byte-reeling.json](./399042-apex-byte-reeling.json) |
 | Apex Construct | 75283 | [75283-apex-construct.json](./75283-apex-construct.json) |
 | Apex Defenders | 293973 | [293973-apex-defenders.json](./293973-apex-defenders.json) |
 | Apex Drift Tokyo Streets | 323305 | [323305-apex-drift-tokyo-streets.json](./323305-apex-drift-tokyo-streets.json) |
