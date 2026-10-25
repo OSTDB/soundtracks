@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Rescue Saga | 60077 | [60077-pet-rescue-saga.json](./60077-pet-rescue-saga.json) |
 | Pet Rock Duty | 278994 | [278994-pet-rock-duty.json](./278994-pet-rock-duty.json) |
 | Pet Run | 59488 | [59488-pet-run.json](./59488-pet-run.json) |
+| Pet Salon: Hair Spa,Makeover,Facial,Makeup & Dressup | 95566 | [95566-pet-salon-hair-spa-makeover-facial-makeup-and-dressup.json](./95566-pet-salon-hair-spa-makeover-facial-makeup-and-dressup.json) |
 | Pet Sanctuary | 249052 | [249052-pet-sanctuary.json](./249052-pet-sanctuary.json) |
 | Pet Shop Hop | 208863 | [208863-pet-shop-hop.json](./208863-pet-shop-hop.json) |
 | Pet Shop Monogatari DS 2 | 259490 | [259490-pet-shop-monogatari-ds-2.json](./259490-pet-shop-monogatari-ds-2.json) |
@@ -5238,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigs a Pop'n | 112208 | [112208-pigs-a-popn.json](./112208-pigs-a-popn.json) |
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
 | Pigs in Space | 40575 | [40575-pigs-in-space.json](./40575-pigs-in-space.json) |
+| Pigs In War - Strategy Game | 100912 | [100912-pigs-in-war-strategy-game.json](./100912-pigs-in-war-strategy-game.json) |
 | Pigsaw | 177269 | [177269-pigsaw.json](./177269-pigsaw.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin | 39398 | [39398-pigskin.json](./39398-pigskin.json) |
@@ -13945,6 +13947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puella Magi Madoka Magica: The Movie - Magicard Battle | 61439 | [61439-puella-magi-madoka-magica-the-movie-magicard-battle.json](./61439-puella-magi-madoka-magica-the-movie-magicard-battle.json) |
 | Puerto Rico HD | 90795 | [90795-puerto-rico-hd.json](./90795-puerto-rico-hd.json) |
 | Puerto Rico No Está Apaga'o | 96316 | [96316-puerto-rico-no-esta-apagao.json](./96316-puerto-rico-no-esta-apagao.json) |
+| Puerto Rico No Esta Apagao | 100875 | [100875-puerto-rico-no-esta-apagao.json](./100875-puerto-rico-no-esta-apagao.json) |
 | Puerto Viejo | 157394 | [157394-puerto-viejo.json](./157394-puerto-viejo.json) |
 | Puff and the Catnip Caper | 185430 | [185430-puff-and-the-catnip-caper.json](./185430-puff-and-the-catnip-caper.json) |
 | Puff Go | 188287 | [188287-puff-go.json](./188287-puff-go.json) |
