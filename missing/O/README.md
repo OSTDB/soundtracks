@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Honey: Boku ha Kimi ni Koishiteru | 72580 | [72580-orange-honey-boku-ha-kimi-ni-koishiteru.json](./72580-orange-honey-boku-ha-kimi-ni-koishiteru.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
 | Orange Island | 116936 | [116936-orange-island.json](./116936-orange-island.json) |
+| Orange Jet Fighter | 416338 | [416338-orange-jet-fighter.json](./416338-orange-jet-fighter.json) |
 | Orange Life | 360496 | [360496-orange-life.json](./360496-orange-life.json) |
 | Orange Man Smash! | 412432 | [412432-orange-man-smash.json](./412432-orange-man-smash.json) |
 | Orange Ocean | 396412 | [396412-orange-ocean.json](./396412-orange-ocean.json) |
