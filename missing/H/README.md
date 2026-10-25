@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Party | 178915 | [178915-halloween-party.json](./178915-halloween-party.json) |
 | Halloween Patchwork Trick or Treat | 159782 | [159782-halloween-patchwork-trick-or-treat.json](./159782-halloween-patchwork-trick-or-treat.json) |
 | Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
+| Halloween Poppp | 425446 | [425446-halloween-poppp.json](./425446-halloween-poppp.json) |
 | Halloween Pumpkin Brawl | 317447 | [317447-halloween-pumpkin-brawl.json](./317447-halloween-pumpkin-brawl.json) |
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
 | Halloween Puzzle | 172998 | [172998-halloween-puzzle.json](./172998-halloween-puzzle.json) |
