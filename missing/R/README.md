@@ -4161,6 +4161,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult Of Remute | 321789 | [321789-remute-the-cult-of-remute.json](./321789-remute-the-cult-of-remute.json) |
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Remute: There Is Hope | 321800 | [321800-remute-there-is-hope.json](./321800-remute-there-is-hope.json) |
+| Remy Raccoon and the Lost Temple: Festive Frolics - Volume 1 | 393591 | [393591-remy-raccoon-and-the-lost-temple-festive-frolics-volume-1.json](./393591-remy-raccoon-and-the-lost-temple-festive-frolics-volume-1.json) |
+| Remy Raccoon and the Lost Temple: Festive Frolics - Volume 2 | 393592 | [393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json](./393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json) |
+| Remy Raccoon and the Lost Temple: Halloween Hijinks - Volume 1 | 393590 | [393590-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-1.json](./393590-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-1.json) |
 | Remyadry | 104873 | [104873-remyadry.json](./104873-remyadry.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren & Stimpy: Match-Master | 273881 | [273881-ren-and-stimpy-match-master.json](./273881-ren-and-stimpy-match-master.json) |
@@ -10110,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
+| Run Like Hell!: Heart Breaker | 393434 | [393434-run-like-hell-heart-breaker.json](./393434-run-like-hell-heart-breaker.json) |
 | Run Mr. Bunny | 94879 | [94879-run-mr-bunny.json](./94879-run-mr-bunny.json) |
 | Run Mr. Robo! | 307872 | [307872-run-mr-robo.json](./307872-run-mr-robo.json) |
 | Run N' Gun | 195737 | [195737-run-n-gun.json](./195737-run-n-gun.json) |
@@ -10457,6 +10461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruptured | 226438 | [226438-ruptured.json](./226438-ruptured.json) |
 | Ruptured Floor | 416635 | [416635-ruptured-floor.json](./416635-ruptured-floor.json) |
 | Rupupu Cube: Lup Salad | 66137 | [66137-rupupu-cube-lup-salad.json](./66137-rupupu-cube-lup-salad.json) |
+| Rural Cat Trails | 393290 | [393290-rural-cat-trails.json](./393290-rural-cat-trails.json) |
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
 | Rural Racer | 405597 | [405597-rural-racer.json](./405597-rural-racer.json) |
 | Ruri Iro no Yuki | 108840 | [108840-ruri-iro-no-yuki.json](./108840-ruri-iro-no-yuki.json) |
