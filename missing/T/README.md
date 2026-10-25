@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
 | Temple of the Lost | 107410 | [107410-temple-of-the-lost.json](./107410-temple-of-the-lost.json) |
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
+| Temple of Yog | 60419 | [60419-temple-of-yog.json](./60419-temple-of-yog.json) |
 | Temple Raid | 74503 | [74503-temple-raid.json](./74503-temple-raid.json) |
 | Temple Raider | 181596 | [181596-temple-raider.json](./181596-temple-raider.json) |
 | Temple Roll | 256231 | [256231-temple-roll.json](./256231-temple-roll.json) |
@@ -15376,6 +15377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wassie Games | 215730 | [215730-the-wassie-games.json](./215730-the-wassie-games.json) |
 | The Wasted Knight | 207325 | [207325-the-wasted-knight.json](./207325-the-wasted-knight.json) |
+| The Wastes | 59604 | [59604-the-wastes.json](./59604-the-wastes.json) |
 | The Watch | 377135 | [377135-the-watch.json](./377135-the-watch.json) |
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Watcher | 413734 | [413734-the-watcher.json](./413734-the-watcher.json) |
@@ -16027,6 +16029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Can Only be Two | 235711 | [235711-there-can-only-be-two.json](./235711-there-can-only-be-two.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
 | There Is A Bomb | 210830 | [210830-there-is-a-bomb.json](./210830-there-is-a-bomb.json) |
+| There Is A Genie In My Szechuan Sauce | 75317 | [75317-there-is-a-genie-in-my-szechuan-sauce.json](./75317-there-is-a-genie-in-my-szechuan-sauce.json) |
 | There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
 | There is a Picture | 146083 | [146083-there-is-a-picture.json](./146083-there-is-a-picture.json) |
 | There is Never Enough Space! | 181617 | [181617-there-is-never-enough-space.json](./181617-there-is-never-enough-space.json) |
@@ -21168,6 +21171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormentum - Mystery Adventure | 90807 | [90807-tormentum-mystery-adventure.json](./90807-tormentum-mystery-adventure.json) |
 | Tormentum II | 111364 | [111364-tormentum-ii.json](./111364-tormentum-ii.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
+| Torn | 60675 | [60675-torn.json](./60675-torn.json) |
 | Torn | 90106 | [90106-torn.json](./90106-torn.json) |
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
 | Torn Earth | 114803 | [114803-torn-earth.json](./114803-torn-earth.json) |
