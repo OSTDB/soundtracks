@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
+| Paganitzu | 35549 | [35549-paganitzu.json](./35549-paganitzu.json) |
 | Paganitzu Part 1: Romancing the Rose | 50428 | [50428-paganitzu-part-1-romancing-the-rose.json](./50428-paganitzu-part-1-romancing-the-rose.json) |
 | Paganitzu Part 2: The Silver Dagger | 50477 | [50477-paganitzu-part-2-the-silver-dagger.json](./50477-paganitzu-part-2-the-silver-dagger.json) |
 | Paganitzu Part 3: Jewel of the Yucatan | 50475 | [50475-paganitzu-part-3-jewel-of-the-yucatan.json](./50475-paganitzu-part-3-jewel-of-the-yucatan.json) |
@@ -2227,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
 | PartySaur: Dino Mayhem | 261731 | [261731-partysaur-dino-mayhem.json](./261731-partysaur-dino-mayhem.json) |
 | PartyToons | 215555 | [215555-partytoons.json](./215555-partytoons.json) |
+| Parvaneh: Legacy of the Light's Guardians | 35657 | [35657-parvaneh-legacy-of-the-lights-guardians.json](./35657-parvaneh-legacy-of-the-lights-guardians.json) |
 | Pas's restaurant | 346618 | [346618-pass-restaurant.json](./346618-pass-restaurant.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pasapalabra | 302728 | [302728-pasapalabra.json](./302728-pasapalabra.json) |
@@ -3897,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pest Quest | 178855 | [178855-pest-quest.json](./178855-pest-quest.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
+| Pester | 35632 | [35632-pester.json](./35632-pester.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
 | Pesterquest | 122062 | [122062-pesterquest.json](./122062-pesterquest.json) |
 | Pestersim | 276955 | [276955-pestersim.json](./276955-pestersim.json) |
@@ -5466,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Sports | 105426 | [105426-pilot-sports.json](./105426-pilot-sports.json) |
 | Pilot Unknown | 116284 | [116284-pilot-unknown.json](./116284-pilot-unknown.json) |
 | Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
+| Piloteer | 35617 | [35617-piloteer.json](./35617-piloteer.json) |
 | Pilots of Darsalon | 133452 | [133452-pilots-of-darsalon.json](./133452-pilots-of-darsalon.json) |
 | Pilotwings 64 | 3573 | [3573-pilotwings-64.json](./3573-pilotwings-64.json) |
 | Pilotwings Resort | 6862 | [6862-pilotwings-resort.json](./6862-pilotwings-resort.json) |
@@ -6689,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles 2: Halloween | 125736 | [125736-pixel-puzzles-2-halloween.json](./125736-pixel-puzzles-2-halloween.json) |
 | Pixel Puzzles 2: Paintings | 116762 | [116762-pixel-puzzles-2-paintings.json](./116762-pixel-puzzles-2-paintings.json) |
 | Pixel Puzzles 2: Radical Roach | 32126 | [32126-pixel-puzzles-2-radical-roach.json](./32126-pixel-puzzles-2-radical-roach.json) |
+| Pixel Puzzles 2: Space | 35618 | [35618-pixel-puzzles-2-space.json](./35618-pixel-puzzles-2-space.json) |
 | Pixel Puzzles 3: Ukiyo-e Jigsaws | 312692 | [312692-pixel-puzzles-3-ukiyo-e-jigsaws.json](./312692-pixel-puzzles-3-ukiyo-e-jigsaws.json) |
 | Pixel Puzzles 4k: Japan | 163411 | [163411-pixel-puzzles-4k-japan.json](./163411-pixel-puzzles-4k-japan.json) |
 | Pixel Puzzles Aardman Jigsaws | 295126 | [295126-pixel-puzzles-aardman-jigsaws.json](./295126-pixel-puzzles-aardman-jigsaws.json) |
@@ -7402,6 +7407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Alcatraz | 36385 | [36385-planet-alcatraz.json](./36385-planet-alcatraz.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
 | Planet Ancrya Chronicles | 105557 | [105557-planet-ancrya-chronicles.json](./105557-planet-ancrya-chronicles.json) |
+| Planet Ancyra Chronicles | 38795 | [38795-planet-ancyra-chronicles.json](./38795-planet-ancyra-chronicles.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
 | Planet Ballet | 179051 | [179051-planet-ballet.json](./179051-planet-ballet.json) |
@@ -12854,6 +12860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
 | Project Exhibited | 132216 | [132216-project-exhibited.json](./132216-project-exhibited.json) |
 | Project Exo | 214038 | [214038-project-exo.json](./214038-project-exo.json) |
+| Project Explore | 35533 | [35533-project-explore.json](./35533-project-explore.json) |
 | Project F | 256459 | [256459-project-f.json](./256459-project-f.json) |
 | Project F.A.L.S.E. | 156529 | [156529-project-f-a-l-s-e.json](./156529-project-f-a-l-s-e.json) |
 | Project Faceless | 340048 | [340048-project-faceless.json](./340048-project-faceless.json) |
