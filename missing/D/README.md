@@ -5788,6 +5788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desastre Colectivo | 135077 | [135077-desastre-colectivo.json](./135077-desastre-colectivo.json) |
 | Desaturation Point | 195472 | [195472-desaturation-point.json](./195472-desaturation-point.json) |
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
+| Descend | 400828 | [400828-descend.json](./400828-descend.json) |
 | Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descendants of the Hellbeast | 184250 | [184250-descendants-of-the-hellbeast.json](./184250-descendants-of-the-hellbeast.json) |
@@ -14462,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dueling Dungeon | 95584 | [95584-dueling-dungeon.json](./95584-dueling-dungeon.json) |
 | Dueling Network | 136180 | [136180-dueling-network.json](./136180-dueling-network.json) |
 | Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
+| Duelist: Idle Expedition | 400826 | [400826-duelist-idle-expedition.json](./400826-duelist-idle-expedition.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
