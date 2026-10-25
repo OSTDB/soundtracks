@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranecro | 201459 | [201459-paranecro.json](./201459-paranecro.json) |
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
+| Paranoia | 399031 | [399031-paranoia.json](./399031-paranoia.json) |
 | Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
 | Paranoia Place | 214118 | [214118-paranoia-place.json](./214118-paranoia-place.json) |
 | Paranoia Vol 1 | 398269 | [398269-paranoia-vol-1.json](./398269-paranoia-vol-1.json) |
