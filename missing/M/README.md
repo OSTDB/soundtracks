@@ -7170,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Home | 51568 | [51568-memories-of-home.json](./51568-memories-of-home.json) |
 | Memories of Hyrule | 381769 | [381769-memories-of-hyrule.json](./381769-memories-of-hyrule.json) |
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
+| Memories of Magic | 424654 | [424654-memories-of-magic.json](./424654-memories-of-magic.json) |
 | Memories of Mir | 215837 | [215837-memories-of-mir.json](./215837-memories-of-mir.json) |
 | Memories of Misery | 297345 | [297345-memories-of-misery.json](./297345-memories-of-misery.json) |
 | Memories of Planet | 223324 | [223324-memories-of-planet.json](./223324-memories-of-planet.json) |
