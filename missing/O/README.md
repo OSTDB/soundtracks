@@ -4709,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overnight Interview | 376024 | [376024-overnight-interview.json](./376024-overnight-interview.json) |
 | Overnight Watch | 311589 | [311589-overnight-watch.json](./311589-overnight-watch.json) |
 | Overpaint | 102702 | [102702-overpaint.json](./102702-overpaint.json) |
+| Overpainted | 397741 | [397741-overpainted.json](./397741-overpainted.json) |
 | Overpass | 117886 | [117886-overpass.json](./117886-overpass.json) |
 | Overpass | 97402 | [97402-overpass.json](./97402-overpass.json) |
 | Overpass 2 | 264500 | [264500-overpass-2.json](./264500-overpass-2.json) |
