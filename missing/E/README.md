@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Room: Code Blue | 201269 | [201269-emergency-room-code-blue.json](./201269-emergency-room-code-blue.json) |
 | Emergency Room: Disaster Strikes | 12424 | [12424-emergency-room-disaster-strikes.json](./12424-emergency-room-disaster-strikes.json) |
 | Emergency Room: Heroic Measures | 201270 | [201270-emergency-room-heroic-measures.json](./201270-emergency-room-heroic-measures.json) |
+| Emergency Rush | 415057 | [415057-emergency-rush.json](./415057-emergency-rush.json) |
 | Emergency: Fighters for Life | 79837 | [79837-emergency-fighters-for-life.json](./79837-emergency-fighters-for-life.json) |
 | Emergency: Road Services Simulator | 217410 | [217410-emergency-road-services-simulator.json](./217410-emergency-road-services-simulator.json) |
 | Emergency! Disaster Rescue Squad | 339374 | [339374-emergency-disaster-rescue-squad.json](./339374-emergency-disaster-rescue-squad.json) |
