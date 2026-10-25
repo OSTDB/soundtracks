@@ -3334,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levantera: Tale of The Winds | 71598 | [71598-levantera-tale-of-the-winds.json](./71598-levantera-tale-of-the-winds.json) |
 | Levedad | 176244 | [176244-levedad.json](./176244-levedad.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
+| Level 13 | 407816 | [407816-level-13.json](./407816-level-13.json) |
 | Level 20 | 150739 | [150739-level-20.json](./150739-level-20.json) |
 | Level 22 | 249634 | [249634-level-22.json](./249634-level-22.json) |
 | Level 22: Gary's Misadventures | 33844 | [33844-level-22-garys-misadventures.json](./33844-level-22-garys-misadventures.json) |
@@ -3643,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in Quarantine | 145474 | [145474-life-in-quarantine.json](./145474-life-in-quarantine.json) |
 | Life in Santa County | 241240 | [241240-life-in-santa-county.json](./241240-life-in-santa-county.json) |
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
+| Life in the Crater Lake | 407827 | [407827-life-in-the-crater-lake.json](./407827-life-in-the-crater-lake.json) |
 | Life in the Dorms | 107031 | [107031-life-in-the-dorms.json](./107031-life-in-the-dorms.json) |
 | Life in the Fast Lane | 74057 | [74057-life-in-the-fast-lane.json](./74057-life-in-the-fast-lane.json) |
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
@@ -3928,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Weaver | 183381 | [183381-light-weaver.json](./183381-light-weaver.json) |
 | Light x Shadow | 75671 | [75671-light-x-shadow.json](./75671-light-x-shadow.json) |
 | Light-Bot | 63577 | [63577-light-bot.json](./63577-light-bot.json) |
+| Light-Bot 2.0 | 407765 | [407765-light-bot-2-0.json](./407765-light-bot-2-0.json) |
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
 | Light-It Up | 266253 | [266253-light-it-up.json](./266253-light-it-up.json) |
 | Light-It Up: Complete Edition | 283170 | [283170-light-it-up-complete-edition.json](./283170-light-it-up-complete-edition.json) |
@@ -4259,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
 | Limestone | 322057 | [322057-limestone.json](./322057-limestone.json) |
 | Liminal | 105106 | [105106-liminal.json](./105106-liminal.json) |
+| Liminal 98 | 407790 | [407790-liminal-98.json](./407790-liminal-98.json) |
 | Liminal Aero | 399213 | [399213-liminal-aero.json](./399213-liminal-aero.json) |
 | Liminal Border Part II | 285128 | [285128-liminal-border-part-ii.json](./285128-liminal-border-part-ii.json) |
 | Liminal Border Part III | 315044 | [315044-liminal-border-part-iii.json](./315044-liminal-border-part-iii.json) |
@@ -4267,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
 | Liminal Doom 2 | 301972 | [301972-liminal-doom-2.json](./301972-liminal-doom-2.json) |
 | Liminal Exploration | 177807 | [177807-liminal-exploration.json](./177807-liminal-exploration.json) |
+| Liminal Explorer | 407805 | [407805-liminal-explorer.json](./407805-liminal-explorer.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Game | 341082 | [341082-liminal-game.json](./341082-liminal-game.json) |
 | Liminal Industries | 359721 | [359721-liminal-industries.json](./359721-liminal-industries.json) |
@@ -4289,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Underground: Creatures Beyond | 411125 | [411125-liminal-underground-creatures-beyond.json](./411125-liminal-underground-creatures-beyond.json) |
 | Liminal Universe | 324176 | [324176-liminal-universe.json](./324176-liminal-universe.json) |
 | Liminal Waters | 373545 | [373545-liminal-waters.json](./373545-liminal-waters.json) |
+| Liminal: Escape Route | 407800 | [407800-liminal-escape-route.json](./407800-liminal-escape-route.json) |
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
 | Liminalcore | 312982 | [312982-liminalcore.json](./312982-liminalcore.json) |
 | Liminalia | 215646 | [215646-liminalia.json](./215646-liminalia.json) |
