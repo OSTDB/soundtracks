@@ -5972,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Lontra-Metragem | 237326 | [237326-lontra-metragem.json](./237326-lontra-metragem.json) |
 | Loofy | 157010 | [157010-loofy.json](./157010-loofy.json) |
+| Look / Don't | 419599 | [419599-look-dont.json](./419599-look-dont.json) |
 | Look and Find: Curiosity | 170297 | [170297-look-and-find-curiosity.json](./170297-look-and-find-curiosity.json) |
 | Look and Find: Elmo on Sesame Street | 88402 | [88402-look-and-find-elmo-on-sesame-street.json](./88402-look-and-find-elmo-on-sesame-street.json) |
 | Look and Guess a Word! | 108198 | [108198-look-and-guess-a-word.json](./108198-look-and-guess-a-word.json) |
