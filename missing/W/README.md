@@ -4297,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Metal Country | 20132 | [20132-wild-metal-country.json](./20132-wild-metal-country.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
+| Wild N Chill | 403353 | [403353-wild-n-chill.json](./403353-wild-n-chill.json) |
 | Wild Ones | 65950 | [65950-wild-ones.json](./65950-wild-ones.json) |
 | Wild Ones Battle Stadium | 338365 | [338365-wild-ones-battle-stadium.json](./338365-wild-ones-battle-stadium.json) |
 | Wild Origin: Scout | 130616 | [130616-wild-origin-scout.json](./130616-wild-origin-scout.json) |
