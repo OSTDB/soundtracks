@@ -5518,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Survivors | 359921 | [359921-mecha-survivors.json](./359921-mecha-survivors.json) |
 | Mecha Tactics | 154392 | [154392-mecha-tactics.json](./154392-mecha-tactics.json) |
 | Mecha Taisen on Planet Oldskool | 73497 | [73497-mecha-taisen-on-planet-oldskool.json](./73497-mecha-taisen-on-planet-oldskool.json) |
+| Mecha Tower Defense | 413241 | [413241-mecha-tower-defense.json](./413241-mecha-tower-defense.json) |
 | Mecha-Tokyo Rush | 103828 | [103828-mecha-tokyo-rush.json](./103828-mecha-tokyo-rush.json) |
 | Mecha: War Robots | 208170 | [208170-mecha-war-robots.json](./208170-mecha-war-robots.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
@@ -11994,6 +11995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
+| Modular Delight | 413218 | [413218-modular-delight.json](./413218-modular-delight.json) |
 | Modularity | 395260 | [395260-modularity.json](./395260-modularity.json) |
 | Modulate | 61733 | [61733-modulate.json](./61733-modulate.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
@@ -15242,6 +15244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Parkour | 141034 | [141034-mr-parkour.json](./141034-mr-parkour.json) |
 | Mr. Parkour 2 | 169725 | [169725-mr-parkour-2.json](./169725-mr-parkour-2.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
+| Mr. Pelicoins | 413021 | [413021-mr-pelicoins.json](./413021-mr-pelicoins.json) |
 | Mr. Pencil Presents DoodleCraft | 230332 | [230332-mr-pencil-presents-doodlecraft.json](./230332-mr-pencil-presents-doodlecraft.json) |
 | Mr. Pencil Saves Doodleburg | 137935 | [137935-mr-pencil-saves-doodleburg.json](./137935-mr-pencil-saves-doodleburg.json) |
 | Mr. Photographer | 292750 | [292750-mr-photographer.json](./292750-mr-photographer.json) |
@@ -17112,6 +17115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet Femboy | 355617 | [355617-my-pet-femboy.json](./355617-my-pet-femboy.json) |
 | My Pet Hotel | 17048 | [17048-my-pet-hotel.json](./17048-my-pet-hotel.json) |
 | My Pet Hotel 2 | 17049 | [17049-my-pet-hotel-2.json](./17049-my-pet-hotel-2.json) |
+| My Pet Protector 2 | 413085 | [413085-my-pet-protector-2.json](./413085-my-pet-protector-2.json) |
 | My Pet Puppy 3D | 65470 | [65470-my-pet-puppy-3d.json](./65470-my-pet-puppy-3d.json) |
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
 | My Pet Store | 361007 | [361007-my-pet-store.json](./361007-my-pet-store.json) |
