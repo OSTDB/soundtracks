@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
 | Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
 | MadOut Ice Storm | 34479 | [34479-madout-ice-storm.json](./34479-madout-ice-storm.json) |
+| MadOut Open City | 33869 | [33869-madout-open-city.json](./33869-madout-open-city.json) |
 | MadOut: Metal | 187793 | [187793-madout-metal.json](./187793-madout-metal.json) |
 | MadPug | 418257 | [418257-madpug.json](./418257-madpug.json) |
 | Madrid Noir | 181050 | [181050-madrid-noir.json](./181050-madrid-noir.json) |
@@ -1553,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Deluxe HD | 70900 | [70900-mahjong-deluxe-hd.json](./70900-mahjong-deluxe-hd.json) |
 | Mahjong Demon | 104419 | [104419-mahjong-demon.json](./104419-mahjong-demon.json) |
 | Mahjong Demon XL | 221333 | [221333-mahjong-demon-xl.json](./221333-mahjong-demon-xl.json) |
+| Mahjong Destiny | 32830 | [32830-mahjong-destiny.json](./32830-mahjong-destiny.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Domino | 89830 | [89830-mahjong-domino.json](./89830-mahjong-domino.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
@@ -10193,6 +10195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Gun Builder | 248159 | [248159-miner-gun-builder.json](./248159-miner-gun-builder.json) |
 | Miner Lou | 116918 | [116918-miner-lou.json](./116918-miner-lou.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
+| Miner Meltdown | 33936 | [33936-miner-meltdown.json](./33936-miner-meltdown.json) |
 | Miner Open Chests | 320581 | [320581-miner-open-chests.json](./320581-miner-open-chests.json) |
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
