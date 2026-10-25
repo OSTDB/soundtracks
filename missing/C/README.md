@@ -4838,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charade Maniacs for Nintendo Switch | 201618 | [201618-charade-maniacs-for-nintendo-switch.json](./201618-charade-maniacs-for-nintendo-switch.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
 | Charades Taboo Game | 100145 | [100145-charades-taboo-game.json](./100145-charades-taboo-game.json) |
+| Charades! | 88858 | [88858-charades.json](./88858-charades.json) |
 | Charem of Metropolitan | 236909 | [236909-charem-of-metropolitan.json](./236909-charem-of-metropolitan.json) |
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
 | Charge 'n Blast | 45822 | [45822-charge-n-blast.json](./45822-charge-n-blast.json) |
@@ -12552,6 +12553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
 | Cover Orange 2 | 403222 | [403222-cover-orange-2.json](./403222-cover-orange-2.json) |
 | Cover Orange 2 | 89106 | [89106-cover-orange-2.json](./89106-cover-orange-2.json) |
+| Cover Orange 2: Journey | 88889 | [88889-cover-orange-2-journey.json](./88889-cover-orange-2-journey.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | Cover Your Eyes | 127161 | [127161-cover-your-eyes.json](./127161-cover-your-eyes.json) |
 | Covermount | 327295 | [327295-covermount.json](./327295-covermount.json) |
