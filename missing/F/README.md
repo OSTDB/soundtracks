@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Away From Home | 190432 | [190432-far-away-from-home.json](./190432-far-away-from-home.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Beyond the World | 158979 | [158979-far-beyond-the-world.json](./158979-far-beyond-the-world.json) |
+| Far Beyond: A space odyssey VR | 31230 | [31230-far-beyond-a-space-odyssey-vr.json](./31230-far-beyond-a-space-odyssey-vr.json) |
 | Far Cnight | 99729 | [99729-far-cnight.json](./99729-far-cnight.json) |
 | Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
 | Far Cry 2 + Ghost Recon Advanced Warfighter | 147227 | [147227-far-cry-2-ghost-recon-advanced-warfighter.json](./147227-far-cry-2-ghost-recon-advanced-warfighter.json) |
