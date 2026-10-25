@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Saiko Mystery Series Vol. 2 - Angel City | 254928 | [254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json](./254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.3 - Sin | 260681 | [260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json](./260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
+| G-Mode Archives+: Spica Adventure | 409349 | [409349-g-mode-archives-spica-adventure.json](./409349-g-mode-archives-spica-adventure.json) |
 | G-Mode Archives+: Stella Deus - The Age of Alchemy | 378337 | [378337-g-mode-archives-stella-deus-the-age-of-alchemy.json](./378337-g-mode-archives-stella-deus-the-age-of-alchemy.json) |
 | G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
 | G-Mode Archives+: Tantei Kibugawa Ryousuke Jiken-bo vol.11 - Ane no Kabe | 251473 | [251473-g-mode-archives-tantei-kibugawa-ryousuke-jiken-bo-vol-11-ane-no-kabe.json](./251473-g-mode-archives-tantei-kibugawa-ryousuke-jiken-bo-vol-11-ane-no-kabe.json) |
@@ -6676,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
 | Grapplers: Relic Rivals | 297860 | [297860-grapplers-relic-rivals.json](./297860-grapplers-relic-rivals.json) |
 | GrappleShot | 159585 | [159585-grappleshot.json](./159585-grappleshot.json) |
+| Grapplin' Apples | 409351 | [409351-grapplin-apples.json](./409351-grapplin-apples.json) |
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
 | Grappling Gunners: Arena FPS | 273772 | [273772-grappling-gunners-arena-fps.json](./273772-grappling-gunners-arena-fps.json) |
@@ -6980,6 +6982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
+| Gravity Grove | 409385 | [409385-gravity-grove.json](./409385-gravity-grove.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
 | Gravity Guy 2 | 64142 | [64142-gravity-guy-2.json](./64142-gravity-guy-2.json) |
 | Gravity Hook | 182716 | [182716-gravity-hook.json](./182716-gravity-hook.json) |
