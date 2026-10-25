@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vehicle Cavalier | 64199 | [64199-vehicle-cavalier.json](./64199-vehicle-cavalier.json) |
 | Vehicle Construction Kit | 375588 | [375588-vehicle-construction-kit.json](./375588-vehicle-construction-kit.json) |
 | Vehicle No. 4 | 364835 | [364835-vehicle-no-4.json](./364835-vehicle-no-4.json) |
+| Vehicle Simulator | 34243 | [34243-vehicle-simulator.json](./34243-vehicle-simulator.json) |
 | Vehicle VR | 38731 | [38731-vehicle-vr.json](./38731-vehicle-vr.json) |
 | VehiCraft | 116047 | [116047-vehicraft.json](./116047-vehicraft.json) |
 | Vehicular Rampage | 219520 | [219520-vehicular-rampage.json](./219520-vehicular-rampage.json) |
@@ -1015,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektar | 382791 | [382791-vektar.json](./382791-vektar.json) |
 | Vektor 2089 | 134661 | [134661-vektor-2089.json](./134661-vektor-2089.json) |
 | Vektor Tank 3D+ | 85468 | [85468-vektor-tank-3d.json](./85468-vektor-tank-3d.json) |
+| Vektor Wars | 35359 | [35359-vektor-wars.json](./35359-vektor-wars.json) |
 | Vektor Z | 186672 | [186672-vektor-z.json](./186672-vektor-z.json) |
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
 | Vektropolis | 64782 | [64782-vektropolis.json](./64782-vektropolis.json) |
@@ -1328,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo | 26620 | [26620-vertigo.json](./26620-vertigo.json) |
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
+| Vertigo Void | 34255 | [34255-vertigo-void.json](./34255-vertigo-void.json) |
 | Vertigo: Binaural Beats | 233063 | [233063-vertigo-binaural-beats.json](./233063-vertigo-binaural-beats.json) |
 | Vertigo: Remastered | 135121 | [135121-vertigo-remastered.json](./135121-vertigo-remastered.json) |
 | Vertigo! | 116908 | [116908-vertigo.json](./116908-vertigo.json) |
