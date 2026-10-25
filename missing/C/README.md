@@ -10100,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission Shock Force 2: NATO Forces | 170371 | [170371-combat-mission-shock-force-2-nato-forces.json](./170371-combat-mission-shock-force-2-nato-forces.json) |
 | Combat Mission Shock Force: Marines | 21263 | [21263-combat-mission-shock-force-marines.json](./21263-combat-mission-shock-force-marines.json) |
 | Combat Mission: Afrika Korps | 52517 | [52517-combat-mission-afrika-korps.json](./52517-combat-mission-afrika-korps.json) |
+| Combat Mission: Battle for Normandy | 76473 | [76473-combat-mission-battle-for-normandy.json](./76473-combat-mission-battle-for-normandy.json) |
 | Combat Mission: Battle for Normandy - Battle Pack 1 | 242618 | [242618-combat-mission-battle-for-normandy-battle-pack-1.json](./242618-combat-mission-battle-for-normandy-battle-pack-1.json) |
 | Combat Mission: Battle for Normandy - Battle Pack 2 | 304384 | [304384-combat-mission-battle-for-normandy-battle-pack-2.json](./304384-combat-mission-battle-for-normandy-battle-pack-2.json) |
 | Combat Mission: Battle for Normandy - Commonwealth Forces | 242616 | [242616-combat-mission-battle-for-normandy-commonwealth-forces.json](./242616-combat-mission-battle-for-normandy-commonwealth-forces.json) |
