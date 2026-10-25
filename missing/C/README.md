@@ -3345,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cradle | 151471 | [151471-cats-cradle.json](./151471-cats-cradle.json) |
 | Cat's Dream | 325900 | [325900-cats-dream.json](./325900-cats-dream.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
+| Cat's Meow Live Wallpaper | 402102 | [402102-cats-meow-live-wallpaper.json](./402102-cats-meow-live-wallpaper.json) |
 | Cat's Princess | 150770 | [150770-cats-princess.json](./150770-cats-princess.json) |
 | Cat's Rage | 366550 | [366550-cats-rage.json](./366550-cats-rage.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
@@ -3613,7 +3614,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catizens | 153167 | [153167-catizens.json](./153167-catizens.json) |
 | Catjam | 419928 | [419928-catjam.json](./419928-catjam.json) |
+| Catjong 2: Pawprints in the Snow | 402101 | [402101-catjong-2-pawprints-in-the-snow.json](./402101-catjong-2-pawprints-in-the-snow.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
+| Catjong 5: Paw Canyon | 402100 | [402100-catjong-5-paw-canyon.json](./402100-catjong-5-paw-canyon.json) |
 | CatJump | 256139 | [256139-catjump.json](./256139-catjump.json) |
 | Catkanoid | 373297 | [373297-catkanoid.json](./373297-catkanoid.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
@@ -11829,6 +11832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
 | Copy! Right? | 280734 | [280734-copy-right.json](./280734-copy-right.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
+| Copycat Games: Imposter Party Games | 402135 | [402135-copycat-games-imposter-party-games.json](./402135-copycat-games-imposter-party-games.json) |
 | Copycat: Cee Ann | 185480 | [185480-copycat-cee-ann.json](./185480-copycat-cee-ann.json) |
 | CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
 | Copz N Zombies | 291866 | [291866-copz-n-zombies.json](./291866-copz-n-zombies.json) |
@@ -13771,6 +13775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyCars3D | 33431 | [33431-crazycars3d.json](./33431-crazycars3d.json) |
 | CrazyCattle3D | 339875 | [339875-crazycattle3d.json](./339875-crazycattle3d.json) |
 | CrazyCubes - Mobile Low Poly Game | 117483 | [117483-crazycubes-mobile-low-poly-game.json](./117483-crazycubes-mobile-low-poly-game.json) |
+| CrazyDish | 402110 | [402110-crazydish.json](./402110-crazydish.json) |
 | CrazyDoc | 148503 | [148503-crazydoc.json](./148503-crazydoc.json) |
 | CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
@@ -15412,6 +15417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Virtual Pet 2 | 123992 | [123992-cthulhu-virtual-pet-2.json](./123992-cthulhu-virtual-pet-2.json) |
 | Cthulhu: An Unspeakable Mod | 221668 | [221668-cthulhu-an-unspeakable-mod.json](./221668-cthulhu-an-unspeakable-mod.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
+| Cthulhu: The Cosmic Abyss - R'lyeh Edition | 402122 | [402122-cthulhu-the-cosmic-abyss-rlyeh-edition.json](./402122-cthulhu-the-cosmic-abyss-rlyeh-edition.json) |
 | Cthulhu: The Cosmic Abyss - Sanity Skin Pack | 402540 | [402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json](./402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json) |
 | Cthulhu's Catharsis | 120008 | [120008-cthulhus-catharsis.json](./120008-cthulhus-catharsis.json) |
 | Cthulhu's Reach: Devil Reef | 258013 | [258013-cthulhus-reach-devil-reef.json](./258013-cthulhus-reach-devil-reef.json) |
@@ -16672,6 +16678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Troopers Virtual-On Oratorio Tangram | 9190 | [9190-cyber-troopers-virtual-on-oratorio-tangram.json](./9190-cyber-troopers-virtual-on-oratorio-tangram.json) |
 | Cyber Troopers Virtual-On: Oratorio Tangram - M.S.B.S. Ver. 5.66 | 172535 | [172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json](./172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json) |
 | Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki | 144179 | [144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json](./144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json) |
+| Cyber Units | 402103 | [402103-cyber-units.json](./402103-cyber-units.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber Village | 401905 | [401905-cyber-village.json](./401905-cyber-village.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
