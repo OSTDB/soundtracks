@@ -12369,6 +12369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco Grand Prix | 3413 | [3413-monaco-grand-prix.json](./3413-monaco-grand-prix.json) |
 | Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
 | Monaco: What's Yours Is Mine | 8739 | [8739-monaco-whats-yours-is-mine.json](./8739-monaco-whats-yours-is-mine.json) |
+| Monadi.sys | 410703 | [410703-monadi-sys.json](./410703-monadi-sys.json) |
 | Monads | 109428 | [109428-monads.json](./109428-monads.json) |
 | Monads II | 166842 | [166842-monads-ii.json](./166842-monads-ii.json) |
 | Monarch of Greed - Act 1 | 75631 | [75631-monarch-of-greed-act-1.json](./75631-monarch-of-greed-act-1.json) |
@@ -16335,6 +16336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP 2020: The Official Motocross Videogame | 139939 | [139939-mxgp-2020-the-official-motocross-videogame.json](./139939-mxgp-2020-the-official-motocross-videogame.json) |
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
 | MXGP 24: The Official Game | 323182 | [323182-mxgp-24-the-official-game.json](./323182-mxgp-24-the-official-game.json) |
+| MXGP 26: The Official Game | 410677 | [410677-mxgp-26-the-official-game.json](./410677-mxgp-26-the-official-game.json) |
 | MXGP Motocross Rush | 251736 | [251736-mxgp-motocross-rush.json](./251736-mxgp-motocross-rush.json) |
 | MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
 | MXGP: The Official Motocross Videogame | 7692 | [7692-mxgp-the-official-motocross-videogame.json](./7692-mxgp-the-official-motocross-videogame.json) |
