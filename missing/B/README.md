@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Panda's Birthday Party | 233381 | [233381-baby-pandas-birthday-party.json](./233381-baby-pandas-birthday-party.json) |
 | Baby Panda's Forest Feast: Party Fun | 105846 | [105846-baby-pandas-forest-feast-party-fun.json](./105846-baby-pandas-forest-feast-party-fun.json) |
 | Baby Panda's Holidays | 107546 | [107546-baby-pandas-holidays.json](./107546-baby-pandas-holidays.json) |
+| Baby Panda's Juice Shop | 100917 | [100917-baby-pandas-juice-shop.json](./100917-baby-pandas-juice-shop.json) |
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Princess Phone | 101656 | [101656-baby-princess-phone.json](./101656-baby-princess-phone.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
@@ -3628,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
 | Battleship War Multiplayer | 325534 | [325534-battleship-war-multiplayer.json](./325534-battleship-war-multiplayer.json) |
 | Battleship War: Time to Sink the Fleet | 215116 | [215116-battleship-war-time-to-sink-the-fleet.json](./215116-battleship-war-time-to-sink-the-fleet.json) |
+| Battleship: Official Edition | 100850 | [100850-battleship-official-edition.json](./100850-battleship-official-edition.json) |
 | Battleship: Online Game Hall | 88649 | [88649-battleship-online-game-hall.json](./88649-battleship-online-game-hall.json) |
 | Battleship: Surface Thunder | 9735 | [9735-battleship-surface-thunder.json](./9735-battleship-surface-thunder.json) |
 | Battleship: The Classic Naval Warfare Game | 46437 | [46437-battleship-the-classic-naval-warfare-game.json](./46437-battleship-the-classic-naval-warfare-game.json) |
@@ -3923,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Life | 11822 | [11822-beach-life.json](./11822-beach-life.json) |
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
 | Beach Love Shop | 138564 | [138564-beach-love-shop.json](./138564-beach-love-shop.json) |
+| Beach Makeover | 95563 | [95563-beach-makeover.json](./95563-beach-makeover.json) |
 | Beach Mini Golf 2 | 243740 | [243740-beach-mini-golf-2.json](./243740-beach-mini-golf-2.json) |
 | Beach Outlet Simulator | 326472 | [326472-beach-outlet-simulator.json](./326472-beach-outlet-simulator.json) |
 | Beach Paddle | 65860 | [65860-beach-paddle.json](./65860-beach-paddle.json) |
@@ -7647,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksite Theta | 272784 | [272784-blacksite-theta.json](./272784-blacksite-theta.json) |
 | BlackSite: Area 51 | 5730 | [5730-blacksite-area-51.json](./5730-blacksite-area-51.json) |
 | BlackSky | 199446 | [199446-blacksky.json](./199446-blacksky.json) |
+| Blacksmith | 96739 | [96739-blacksmith.json](./96739-blacksmith.json) |
 | Blacksmith Bay | 150604 | [150604-blacksmith-bay.json](./150604-blacksmith-bay.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | BlackSmith HIT | 31917 | [31917-blacksmith-hit.json](./31917-blacksmith-hit.json) |
@@ -7771,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Runner 2049: Replicant Pursuit | 51529 | [51529-blade-runner-2049-replicant-pursuit.json](./51529-blade-runner-2049-replicant-pursuit.json) |
 | Blade Runner 9732 | 80854 | [80854-blade-runner-9732.json](./80854-blade-runner-9732.json) |
 | Blade Runner: Enhanced Edition | 131847 | [131847-blade-runner-enhanced-edition.json](./131847-blade-runner-enhanced-edition.json) |
+| Blade Runner: Revelations | 100901 | [100901-blade-runner-revelations.json](./100901-blade-runner-revelations.json) |
 | Blade Strangers | 37032 | [37032-blade-strangers.json](./37032-blade-strangers.json) |
 | Blade Symphony | 8408 | [8408-blade-symphony.json](./8408-blade-symphony.json) |
 | Blade Tempest | 372454 | [372454-blade-tempest.json](./372454-blade-tempest.json) |
