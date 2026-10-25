@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Rush | 288269 | [288269-virus-rush.json](./288269-virus-rush.json) |
 | Virüs Saldırısı | 346464 | [346464-virus-sald-r-s.json](./346464-virus-sald-r-s.json) |
 | Virus Shooter XX | 65317 | [65317-virus-shooter-xx.json](./65317-virus-shooter-xx.json) |
+| Virus X | 407840 | [407840-virus-x.json](./407840-virus-x.json) |
 | Virus Z | 43098 | [43098-virus-z.json](./43098-virus-z.json) |
 | Virus: It is Aware | 43794 | [43794-virus-it-is-aware.json](./43794-virus-it-is-aware.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
@@ -2705,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Hazard | 372628 | [372628-void-hazard.json](./372628-void-hazard.json) |
 | Void Heart | 189985 | [189985-void-heart.json](./189985-void-heart.json) |
 | Void Hearts | 161698 | [161698-void-hearts.json](./161698-void-hearts.json) |
+| Void Ignition | 406522 | [406522-void-ignition.json](./406522-void-ignition.json) |
 | Void Inc. | 183895 | [183895-void-inc.json](./183895-void-inc.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
