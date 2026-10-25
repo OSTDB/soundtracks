@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TappyLoop | 307612 | [307612-tappyloop.json](./307612-tappyloop.json) |
 | TapRacer | 415146 | [415146-tapracer.json](./415146-tapracer.json) |
 | TapRPG: The Second One | 107888 | [107888-taprpg-the-second-one.json](./107888-taprpg-the-second-one.json) |
+| Taps to Riches | 88862 | [88862-taps-to-riches.json](./88862-taps-to-riches.json) |
 | Taps: Beautifully Simple | 175267 | [175267-taps-beautifully-simple.json](./175267-taps-beautifully-simple.json) |
 | Tapsonic Bold | 110700 | [110700-tapsonic-bold.json](./110700-tapsonic-bold.json) |
 | Tapsonic Top | 108873 | [108873-tapsonic-top.json](./108873-tapsonic-top.json) |
@@ -20923,6 +20924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Angler: Real Bass Fishing | 4206 | [4206-top-angler-real-bass-fishing.json](./4206-top-angler-real-bass-fishing.json) |
 | Top Banana | 69564 | [69564-top-banana.json](./69564-top-banana.json) |
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
+| Top Bike: Real Racing Speed & Best Moto Drag Racer | 87524 | [87524-top-bike-real-racing-speed-and-best-moto-drag-racer.json](./87524-top-bike-real-racing-speed-and-best-moto-drag-racer.json) |
 | Top Billiards | 159547 | [159547-top-billiards.json](./159547-top-billiards.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
@@ -25274,6 +25276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Dungeon | 187256 | [187256-trigger-dungeon.json](./187256-trigger-dungeon.json) |
 | Trigger Fever | 254657 | [254657-trigger-fever.json](./254657-trigger-fever.json) |
 | Trigger Finger | 77589 | [77589-trigger-finger.json](./77589-trigger-finger.json) |
+| Trigger Fist | 87739 | [87739-trigger-fist.json](./87739-trigger-fist.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
@@ -25682,6 +25685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Fish Shop 2 | 33298 | [33298-tropical-fish-shop-2.json](./33298-tropical-fish-shop-2.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Heat Jet Ski Racing | 63155 | [63155-tropical-heat-jet-ski-racing.json](./63155-tropical-heat-jet-ski-racing.json) |
+| Tropical Liquor | 87764 | [87764-tropical-liquor.json](./87764-tropical-liquor.json) |
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
