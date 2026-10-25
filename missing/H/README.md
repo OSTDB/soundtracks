@@ -3282,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
 | Hell Cab | 57625 | [57625-hell-cab.json](./57625-hell-cab.json) |
 | Hell Can Wait | 133412 | [133412-hell-can-wait.json](./133412-hell-can-wait.json) |
+| Hell Cleaners | 407771 | [407771-hell-cleaners.json](./407771-hell-cleaners.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
 | Hell Court | 179534 | [179534-hell-court.json](./179534-hell-court.json) |
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
@@ -5189,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Shop | 398260 | [398260-hex-shop.json](./398260-hex-shop.json) |
 | Hex Slayer | 158115 | [158115-hex-slayer.json](./158115-hex-slayer.json) |
 | Hex Tetris | 61331 | [61331-hex-tetris.json](./61331-hex-tetris.json) |
+| Hex Tower Boogie | 407836 | [407836-hex-tower-boogie.json](./407836-hex-tower-boogie.json) |
 | Hex Tunnel | 43070 | [43070-hex-tunnel.json](./43070-hex-tunnel.json) |
 | Hex Tunnel Touch | 100602 | [100602-hex-tunnel-touch.json](./100602-hex-tunnel-touch.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
@@ -9186,6 +9188,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
+| How to Make a Game | 407830 | [407830-how-to-make-a-game.json](./407830-how-to-make-a-game.json) |
+| How to Make a Sequel | 407831 | [407831-how-to-make-a-sequel.json](./407831-how-to-make-a-sequel.json) |
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
 | How to Make Slime: DIY Jelly Toy Play Fun | 96975 | [96975-how-to-make-slime-diy-jelly-toy-play-fun.json](./96975-how-to-make-slime-diy-jelly-toy-play-fun.json) |
 | How to Make Slime: DIY Slime Making for Kids | 90838 | [90838-how-to-make-slime-diy-slime-making-for-kids.json](./90838-how-to-make-slime-diy-slime-making-for-kids.json) |
