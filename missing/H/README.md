@@ -3821,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help! I'm Haunted | 111442 | [111442-help-im-haunted.json](./111442-help-im-haunted.json) |
 | Help! I'm Turning Into a Mermaid! | 407892 | [407892-help-im-turning-into-a-mermaid.json](./407892-help-im-turning-into-a-mermaid.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
+| Help! My Giant Goth Girlfriend Is Insane | 418858 | [418858-help-my-giant-goth-girlfriend-is-insane.json](./418858-help-my-giant-goth-girlfriend-is-insane.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
 | Helper to Hero | 271410 | [271410-helper-to-hero.json](./271410-helper-to-hero.json) |
 | Helping Frankenstein | 96581 | [96581-helping-frankenstein.json](./96581-helping-frankenstein.json) |
