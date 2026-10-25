@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hill Race | 147265 | [147265-zombie-hill-race.json](./147265-zombie-hill-race.json) |
 | Zombie Hills | 139905 | [139905-zombie-hills.json](./139905-zombie-hills.json) |
 | Zombie Hobby VR | 41950 | [41950-zombie-hobby-vr.json](./41950-zombie-hobby-vr.json) |
+| Zombie Hooker Nightmare | 397165 | [397165-zombie-hooker-nightmare.json](./397165-zombie-hooker-nightmare.json) |
 | Zombie Horde | 167196 | [167196-zombie-horde.json](./167196-zombie-horde.json) |
 | Zombie Horde Dominator | 263144 | [263144-zombie-horde-dominator.json](./263144-zombie-horde-dominator.json) |
 | Zombie House Defense | 301635 | [301635-zombie-house-defense.json](./301635-zombie-house-defense.json) |
@@ -1760,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
 | Zoms & Guns | 190201 | [190201-zoms-and-guns.json](./190201-zoms-and-guns.json) |
+| Zomt | 397171 | [397171-zomt.json](./397171-zomt.json) |
 | ZomVox | 410705 | [410705-zomvox.json](./410705-zomvox.json) |
 | Zomzoms | 130381 | [130381-zomzoms.json](./130381-zomzoms.json) |
 | Zonbi Panic | 138734 | [138734-zonbi-panic.json](./138734-zonbi-panic.json) |
