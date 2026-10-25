@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam Vol. 1 | 154442 | [154442-pajama-sam-vol-1.json](./154442-pajama-sam-vol-1.json) |
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
 | Pajama Sam: Don't Fear the Dark | 51107 | [51107-pajama-sam-dont-fear-the-dark.json](./51107-pajama-sam-dont-fear-the-dark.json) |
+| Pajama Sam: Games to Play on Any Day | 17716 | [17716-pajama-sam-games-to-play-on-any-day.json](./17716-pajama-sam-games-to-play-on-any-day.json) |
 | Pajama Sam's Lost & Found | 10651 | [10651-pajama-sams-lost-and-found.json](./10651-pajama-sams-lost-and-found.json) |
 | Pajama Sam's Sock Works | 10652 | [10652-pajama-sams-sock-works.json](./10652-pajama-sams-sock-works.json) |
 | Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: The Thousand-Year Door Randomizer | 407252 | [407252-paper-mario-the-thousand-year-door-randomizer.json](./407252-paper-mario-the-thousand-year-door-randomizer.json) |
 | Paper Mario: Time Strewn Star | 323363 | [323363-paper-mario-time-strewn-star.json](./323363-paper-mario-time-strewn-star.json) |
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
+| Paper Monsters Recut | 17668 | [17668-paper-monsters-recut.json](./17668-paper-monsters-recut.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
 | Paper Nomad: Master Edition | 311733 | [311733-paper-nomad-master-edition.json](./311733-paper-nomad-master-edition.json) |
 | Paper Pal | 305481 | [305481-paper-pal.json](./305481-paper-pal.json) |
@@ -2327,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pasture Palette | 374251 | [374251-pasture-palette.json](./374251-pasture-palette.json) |
+| Pat & Mat | 16210 | [16210-pat-and-mat.json](./16210-pat-and-mat.json) |
 | Pat Pat Cat | 387590 | [387590-pat-pat-cat.json](./387590-pat-pat-cat.json) |
 | Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
@@ -6377,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfall: The Lost Expedition | 209384 | [209384-pitfall-the-lost-expedition.json](./209384-pitfall-the-lost-expedition.json) |
 | Pitfall: The Lost Expedition | 4070 | [4070-pitfall-the-lost-expedition.json](./4070-pitfall-the-lost-expedition.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
+| Pitfall! | 19908 | [19908-pitfall.json](./19908-pitfall.json) |
 | Pitfall! | 5411 | [5411-pitfall.json](./5411-pitfall.json) |
 | Pitfalls 64 | 411707 | [411707-pitfalls-64.json](./411707-pitfalls-64.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
@@ -6589,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Hunt | 304621 | [304621-pixel-hunt.json](./304621-pixel-hunt.json) |
+| Pixel Hunter | 17626 | [17626-pixel-hunter.json](./17626-pixel-hunter.json) |
 | Pixel Hunter | 402339 | [402339-pixel-hunter.json](./402339-pixel-hunter.json) |
 | Pixel Hunter Idle | 273564 | [273564-pixel-hunter-idle.json](./273564-pixel-hunter-idle.json) |
 | Pixel Islands | 177328 | [177328-pixel-islands.json](./177328-pixel-islands.json) |
@@ -15101,6 +15106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler King | 97261 | [97261-puzzler-king.json](./97261-puzzler-king.json) |
 | Puzzler Mind Gym 3D | 21571 | [21571-puzzler-mind-gym-3d.json](./21571-puzzler-mind-gym-3d.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
+| Puzzler World 2 | 16272 | [16272-puzzler-world-2.json](./16272-puzzler-world-2.json) |
 | Puzzler World XL | 84786 | [84786-puzzler-world-xl.json](./84786-puzzler-world-xl.json) |
 | Puzzlerama | 289567 | [289567-puzzlerama.json](./289567-puzzlerama.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
