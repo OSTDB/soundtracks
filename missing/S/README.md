@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam: Gundam Wars | 48518 | [48518-sd-gundam-gundam-wars.json](./48518-sd-gundam-gundam-wars.json) |
 | SD Gundam: Operation U.C. | 66590 | [66590-sd-gundam-operation-u-c.json](./66590-sd-gundam-operation-u-c.json) |
 | SD Gundam: Psycho Salamander no Kyoui | 40410 | [40410-sd-gundam-psycho-salamander-no-kyoui.json](./40410-sd-gundam-psycho-salamander-no-kyoui.json) |
+| SD Gundam: Scad Hammers | 5144 | [5144-sd-gundam-scad-hammers.json](./5144-sd-gundam-scad-hammers.json) |
 | SD Gundam: SD Sengokuden Kunitori Monogatari | 65385 | [65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json](./65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json) |
 | SD Hero Soukessen: Taose! Aku no Gundan | 79278 | [79278-sd-hero-soukessen-taose-aku-no-gundan.json](./79278-sd-hero-soukessen-taose-aku-no-gundan.json) |
 | SD Hiryuu no Ken | 38322 | [38322-sd-hiryuu-no-ken.json](./38322-sd-hiryuu-no-ken.json) |
@@ -3951,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Girl | 114277 | [114277-seek-girl.json](./114277-seek-girl.json) |
 | Seek Girl 2 | 130249 | [130249-seek-girl-2.json](./130249-seek-girl-2.json) |
 | Seek Girl III | 127147 | [127147-seek-girl-iii.json](./127147-seek-girl-iii.json) |
+| Seek Girl IV | 127856 | [127856-seek-girl-iv.json](./127856-seek-girl-iv.json) |
 | Seek Girl V | 171393 | [171393-seek-girl-v.json](./171393-seek-girl-v.json) |
 | Seek Girl Ⅵ | 171394 | [171394-seek-girl-vi.json](./171394-seek-girl-vi.json) |
 | Seek Girl VII | 171392 | [171392-seek-girl-vii.json](./171392-seek-girl-vii.json) |
@@ -8599,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
 | Silicon Foundry | 401759 | [401759-silicon-foundry.json](./401759-silicon-foundry.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
+| Silicon Rising | 128041 | [128041-silicon-rising.json](./128041-silicon-rising.json) |
 | Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
@@ -9886,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Zoo | 244091 | [244091-ski-zoo.json](./244091-ski-zoo.json) |
 | Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
 | Ski-Doo: Snow X Racing | 21419 | [21419-ski-doo-snow-x-racing.json](./21419-ski-doo-snow-x-racing.json) |
+| Ski-Doo: Snowmobile Challenge | 5158 | [5158-ski-doo-snowmobile-challenge.json](./5158-ski-doo-snowmobile-challenge.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
 | Ski-On-Neon | 65340 | [65340-ski-on-neon.json](./65340-ski-on-neon.json) |
 | Ski-World Simulator | 36395 | [36395-ski-world-simulator.json](./36395-ski-world-simulator.json) |
@@ -11556,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smartsquid | 243732 | [243732-smartsquid.json](./243732-smartsquid.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
+| Smarty Pants | 5161 | [5161-smarty-pants.json](./5161-smarty-pants.json) |
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
 | Smash 'N Grab | 361867 | [361867-smash-n-grab.json](./361867-smash-n-grab.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
@@ -12733,6 +12738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So 2 Mice Walk into a Bar... | 282702 | [282702-so-2-mice-walk-into-a-bar.json](./282702-so-2-mice-walk-into-a-bar.json) |
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
+| So Blonde | 5171 | [5171-so-blonde.json](./5171-so-blonde.json) |
 | So Far, So High | 191647 | [191647-so-far-so-high.json](./191647-so-far-so-high.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So How About Swapping Our Wives and Disciplining Them? | 98498 | [98498-so-how-about-swapping-our-wives-and-disciplining-them.json](./98498-so-how-about-swapping-our-wives-and-disciplining-them.json) |
