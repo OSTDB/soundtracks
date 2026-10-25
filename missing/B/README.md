@@ -776,7 +776,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5295,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benjamin of Blackstone Edge | 134892 | [134892-benjamin-of-blackstone-edge.json](./134892-benjamin-of-blackstone-edge.json) |
 | Benjamin's Quest | 291161 | [291161-benjamins-quest.json](./291161-benjamins-quest.json) |
 | Benjamin's Revenge | 291157 | [291157-benjamins-revenge.json](./291157-benjamins-revenge.json) |
+| Benjamins Big Adventure | 418242 | [418242-benjamins-big-adventure.json](./418242-benjamins-big-adventure.json) |
 | Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
 | Benji Bananas | 234749 | [234749-benji-bananas.json](./234749-benji-bananas.json) |
 | Benji Challenges | 34711 | [34711-benji-challenges.json](./34711-benji-challenges.json) |
