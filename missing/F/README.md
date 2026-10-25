@@ -6893,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowfall | 256669 | [256669-flowfall.json](./256669-flowfall.json) |
 | Flowing Lights | 76657 | [76657-flowing-lights.json](./76657-flowing-lights.json) |
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
+| FloWooooT | 410037 | [410037-flowoooot.json](./410037-flowoooot.json) |
 | Floworks | 408289 | [408289-floworks.json](./408289-floworks.json) |
 | Floworlds | 351486 | [351486-floworlds.json](./351486-floworlds.json) |
 | Flowpaper | 68922 | [68922-flowpaper.json](./68922-flowpaper.json) |
@@ -7923,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Legends: The Call of Love - Collector's Edition | 76916 | [76916-forest-legends-the-call-of-love-collectors-edition.json](./76916-forest-legends-the-call-of-love-collectors-edition.json) |
 | Forest Liberation | 149558 | [149558-forest-liberation.json](./149558-forest-liberation.json) |
 | Forest Life | 234019 | [234019-forest-life.json](./234019-forest-life.json) |
+| Forest Lookout | 410057 | [410057-forest-lookout.json](./410057-forest-lookout.json) |
 | Forest Loop | 389520 | [389520-forest-loop.json](./389520-forest-loop.json) |
 | Forest Mage | 120815 | [120815-forest-mage.json](./120815-forest-mage.json) |
 | Forest Mystery | 192704 | [192704-forest-mystery.json](./192704-forest-mystery.json) |
@@ -8003,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Meow | 59708 | [59708-forever-meow.json](./59708-forever-meow.json) |
 | Forever Night | 155673 | [155673-forever-night.json](./155673-forever-night.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
+| Forever RPG | 410030 | [410030-forever-rpg.json](./410030-forever-rpg.json) |
 | Forever Skies | 187096 | [187096-forever-skies.json](./187096-forever-skies.json) |
 | Forever Skies: The Final Echoes Update | 404906 | [404906-forever-skies-the-final-echoes-update.json](./404906-forever-skies-the-final-echoes-update.json) |
 | Forever Space | 89366 | [89366-forever-space.json](./89366-forever-space.json) |
