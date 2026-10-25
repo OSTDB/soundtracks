@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VanillaBeast: Ace in the Hole | 148992 | [148992-vanillabeast-ace-in-the-hole.json](./148992-vanillabeast-ace-in-the-hole.json) |
 | VanillaSugar | 356695 | [356695-vanillasugar.json](./356695-vanillasugar.json) |
 | VanimateApp | 270855 | [270855-vanimateapp.json](./270855-vanimateapp.json) |
+| Vanirya Legends | 419586 | [419586-vanirya-legends.json](./419586-vanirya-legends.json) |
 | Vanish | 28150 | [28150-vanish.json](./28150-vanish.json) |
 | Vanisha | 398305 | [398305-vanisha.json](./398305-vanisha.json) |
 | Vanished Anniversary | 305366 | [305366-vanished-anniversary.json](./305366-vanished-anniversary.json) |
