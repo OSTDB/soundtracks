@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuretsu Hunters: Mahjong Special | 123058 | [123058-bakuretsu-hunters-mahjong-special.json](./123058-bakuretsu-hunters-mahjong-special.json) |
 | Bakurokei Haishinsha vs. Kuzukei Utaite vs. Menhera Stalker | 285387 | [285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json](./285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json) |
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
+| Bakusei | 416974 | [416974-bakusei.json](./416974-bakusei.json) |
 | Bakushou Mondai no Totsugeki Star Pirates | 134496 | [134496-bakushou-mondai-no-totsugeki-star-pirates.json](./134496-bakushou-mondai-no-totsugeki-star-pirates.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-1-kai | 179956 | [179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json](./179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-2-kai | 179957 | [179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json](./179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json) |
@@ -1691,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
 | Bang Bang Racing | 15286 | [15286-bang-bang-racing.json](./15286-bang-bang-racing.json) |
 | Bang Bang Simulations | 266288 | [266288-bang-bang-simulations.json](./266288-bang-bang-simulations.json) |
+| Bang Bang Streaming | 416970 | [416970-bang-bang-streaming.json](./416970-bang-bang-streaming.json) |
 | Bang Bang Tank | 377921 | [377921-bang-bang-tank.json](./377921-bang-bang-tank.json) |
 | Bang Bead | 40235 | [40235-bang-bead.json](./40235-bang-bead.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
@@ -1707,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BangBangShooting | 151141 | [151141-bangbangshooting.json](./151141-bangbangshooting.json) |
 | Bangers Unlimited 2 | 107006 | [107006-bangers-unlimited-2.json](./107006-bangers-unlimited-2.json) |
 | Bangkok Story: A Stray Dog | 216760 | [216760-bangkok-story-a-stray-dog.json](./216760-bangkok-story-a-stray-dog.json) |
+| Bangkok: City of Legends | 416965 | [416965-bangkok-city-of-legends.json](./416965-bangkok-city-of-legends.json) |
 | Bangungot | 217862 | [217862-bangungot.json](./217862-bangungot.json) |
 | Bangy: Adventures in Egypt | 179135 | [179135-bangy-adventures-in-egypt.json](./179135-bangy-adventures-in-egypt.json) |
 | BanHammer | 286506 | [286506-banhammer.json](./286506-banhammer.json) |
@@ -13016,6 +13019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Depths RPG | 412898 | [412898-broken-depths-rpg.json](./412898-broken-depths-rpg.json) |
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
+| Broken Drive | 416958 | [416958-broken-drive.json](./416958-broken-drive.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
 | Broken Edge | 204335 | [204335-broken-edge.json](./204335-broken-edge.json) |
 | Broken Fields: Stay or Run? | 420676 | [420676-broken-fields-stay-or-run.json](./420676-broken-fields-stay-or-run.json) |
@@ -14838,6 +14842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bussy Master: Count Fuckula's Cum Castle | 393831 | [393831-bussy-master-count-fuckulas-cum-castle.json](./393831-bussy-master-count-fuckulas-cum-castle.json) |
 | Bussy Master: Halloween Advent 2024 | 318421 | [318421-bussy-master-halloween-advent-2024.json](./318421-bussy-master-halloween-advent-2024.json) |
 | Bussy Master: Ropeshooter Ranch | 393379 | [393379-bussy-master-ropeshooter-ranch.json](./393379-bussy-master-ropeshooter-ranch.json) |
+| Bust 'Em Up: Online FFA | 417007 | [417007-bust-em-up-online-ffa.json](./417007-bust-em-up-online-ffa.json) |
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
 | Bust a Block 2 | 322070 | [322070-bust-a-block-2.json](./322070-bust-a-block-2.json) |
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
