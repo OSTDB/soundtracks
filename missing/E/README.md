@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Dangerous: Odyssey - Deluxe Edition | 227190 | [227190-elite-dangerous-odyssey-deluxe-edition.json](./227190-elite-dangerous-odyssey-deluxe-edition.json) |
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
 | Elite Encounter | 28660 | [28660-elite-encounter.json](./28660-elite-encounter.json) |
+| Elite Escape | 121842 | [121842-elite-escape.json](./121842-elite-escape.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Forces | 224703 | [224703-elite-forces.json](./224703-elite-forces.json) |
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
@@ -3548,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
 | Ephemeral Night | 339757 | [339757-ephemeral-night.json](./339757-ephemeral-night.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
+| Ephemeral Unnatural Balance | 121484 | [121484-ephemeral-unnatural-balance.json](./121484-ephemeral-unnatural-balance.json) |
 | Ephemeral: Miniature Garden | 222866 | [222866-ephemeral-miniature-garden.json](./222866-ephemeral-miniature-garden.json) |
 | Ephemreal | 166572 | [166572-ephemreal.json](./166572-ephemreal.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
