@@ -7205,6 +7205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amortizer Off-Road | 118294 | [118294-amortizer-off-road.json](./118294-amortizer-off-road.json) |
 | Amos Green's Final Repose | 198104 | [198104-amos-greens-final-repose.json](./198104-amos-greens-final-repose.json) |
 | Amoto's Puf | 47557 | [47557-amotos-puf.json](./47557-amotos-puf.json) |
+| Amountle | 413092 | [413092-amountle.json](./413092-amountle.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | AmourVortex | 83846 | [83846-amourvortex.json](./83846-amourvortex.json) |
 | Amparito: En Busca del Nabo Dorado | 366987 | [366987-amparito-en-busca-del-nabo-dorado.json](./366987-amparito-en-busca-del-nabo-dorado.json) |
@@ -9951,6 +9952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Bermuda Triangle | 382576 | [382576-arcade-archives-2-bermuda-triangle.json](./382576-arcade-archives-2-bermuda-triangle.json) |
 | Arcade Archives 2: Bomb Bee | 378489 | [378489-arcade-archives-2-bomb-bee.json](./378489-arcade-archives-2-bomb-bee.json) |
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
+| Arcade Archives 2: Combat School | 412762 | [412762-arcade-archives-2-combat-school.json](./412762-arcade-archives-2-combat-school.json) |
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
 | Arcade Archives 2: Dacholer | 419602 | [419602-arcade-archives-2-dacholer.json](./419602-arcade-archives-2-dacholer.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
