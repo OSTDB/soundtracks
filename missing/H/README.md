@@ -10410,6 +10410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnocult | 121694 | [121694-hypnocult.json](./121694-hypnocult.json) |
 | HypnoFamily Game | 109198 | [109198-hypnofamily-game.json](./109198-hypnofamily-game.json) |
 | Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
+| HypnoFish Inc. | 413025 | [413025-hypnofish-inc.json](./413025-hypnofish-inc.json) |
 | Hypnolab VR | 168626 | [168626-hypnolab-vr.json](./168626-hypnolab-vr.json) |
 | Hypnomemoria | 295615 | [295615-hypnomemoria.json](./295615-hypnomemoria.json) |
 | Hypnophobia; From Your Shadow | 397035 | [397035-hypnophobia-from-your-shadow.json](./397035-hypnophobia-from-your-shadow.json) |
