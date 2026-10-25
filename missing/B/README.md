@@ -793,7 +793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -866,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadSmith | 223365 | [223365-badsmith.json](./223365-badsmith.json) |
 | Baduk Challenge | 365880 | [365880-baduk-challenge.json](./365880-baduk-challenge.json) |
 | Badventure | 267257 | [267257-badventure.json](./267257-badventure.json) |
+| BadZone | 406203 | [406203-badzone.json](./406203-badzone.json) |
 | Bae Bash! The Chaos Collection | 372066 | [372066-bae-bash-the-chaos-collection.json](./372066-bae-bash-the-chaos-collection.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Date-Hen | 269660 | [269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json](./269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Test-Hen | 269659 | [269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json](./269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json) |
@@ -6721,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
 | BioMech Vendetta | 380402 | [380402-biomech-vendetta.json](./380402-biomech-vendetta.json) |
 | Biomechanical Toy | 39613 | [39613-biomechanical-toy.json](./39613-biomechanical-toy.json) |
+| Biomechanical Toy | 405910 | [405910-biomechanical-toy.json](./405910-biomechanical-toy.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | BioMenace Remastered | 373528 | [373528-biomenace-remastered.json](./373528-biomenace-remastered.json) |
 | Biomes | 254993 | [254993-biomes.json](./254993-biomes.json) |
