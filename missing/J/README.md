@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly God | 221721 | [221721-jelly-god.json](./221721-jelly-god.json) |
 | Jelly in the Dark | 215587 | [215587-jelly-in-the-dark.json](./215587-jelly-in-the-dark.json) |
+| Jelly in the sky | 29460 | [29460-jelly-in-the-sky.json](./29460-jelly-in-the-sky.json) |
 | Jelly Is Sticky | 158142 | [158142-jelly-is-sticky.json](./158142-jelly-is-sticky.json) |
 | Jelly Jam Blast | 105882 | [105882-jelly-jam-blast.json](./105882-jelly-jam-blast.json) |
 | Jelly Jellies | 108788 | [108788-jelly-jellies.json](./108788-jelly-jellies.json) |
@@ -1270,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest: Seven Seas - Collector's Edition | 31047 | [31047-jewel-quest-seven-seas-collectors-edition.json](./31047-jewel-quest-seven-seas-collectors-edition.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
+| Jewel Rotation | 38668 | [38668-jewel-rotation.json](./38668-jewel-rotation.json) |
 | Jewel Shooter | 10477 | [10477-jewel-shooter.json](./10477-jewel-shooter.json) |
 | Jewel Spirits | 347733 | [347733-jewel-spirits.json](./347733-jewel-spirits.json) |
 | Jewel Thief | 78923 | [78923-jewel-thief.json](./78923-jewel-thief.json) |
