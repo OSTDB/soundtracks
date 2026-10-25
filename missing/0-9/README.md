@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Grab Points | 358076 | [358076-24-grab-points.json](./358076-24-grab-points.json) |
 | 24 Hour Crime Scene: Travel Edition | 176826 | [176826-24-hour-crime-scene-travel-edition.json](./176826-24-hour-crime-scene-travel-edition.json) |
 | 24 Hours | 308346 | [308346-24-hours.json](./308346-24-hours.json) |
+| 24 Hours | 32489 | [32489-24-hours.json](./32489-24-hours.json) |
 | 24 Hours 'til Rescue | 33491 | [33491-24-hours-til-rescue.json](./33491-24-hours-til-rescue.json) |
 | 24 Jingles to Bell | 394832 | [394832-24-jingles-to-bell.json](./394832-24-jingles-to-bell.json) |
 | 24 Locks | 58470 | [58470-24-locks.json](./58470-24-locks.json) |
