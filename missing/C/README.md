@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom vs. SNK: Millennium Fight 2000 | 39593 | [39593-capcom-vs-snk-millennium-fight-2000.json](./39593-capcom-vs-snk-millennium-fight-2000.json) |
 | Capcom vs. SNK: Millennium Fight 2000 Pro | 45829 | [45829-capcom-vs-snk-millennium-fight-2000-pro.json](./45829-capcom-vs-snk-millennium-fight-2000-pro.json) |
 | Capcom vs. SNK: Millennium Fight 2001 | 247455 | [247455-capcom-vs-snk-millennium-fight-2001.json](./247455-capcom-vs-snk-millennium-fight-2001.json) |
+| Capcom vs. Square: Parallel Destinies | 422070 | [422070-capcom-vs-square-parallel-destinies.json](./422070-capcom-vs-square-parallel-destinies.json) |
 | Capcom's Gold Medal Challenge '92 | 48159 | [48159-capcoms-gold-medal-challenge-92.json](./48159-capcoms-gold-medal-challenge-92.json) |
 | Capcom's MVP Football | 42597 | [42597-capcoms-mvp-football.json](./42597-capcoms-mvp-football.json) |
 | Capcom's Soccer Shootout | 42598 | [42598-capcoms-soccer-shootout.json](./42598-capcoms-soccer-shootout.json) |
@@ -5185,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
 | Cheese Rolling | 362406 | [362406-cheese-rolling.json](./362406-cheese-rolling.json) |
 | Cheese Runner | 209474 | [209474-cheese-runner.json](./209474-cheese-runner.json) |
+| Cheese Stack | 422046 | [422046-cheese-stack.json](./422046-cheese-stack.json) |
 | Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
 | Cheese: The Cheese Collector | 319092 | [319092-cheese-the-cheese-collector.json](./319092-cheese-the-cheese-collector.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
@@ -12777,6 +12779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Organizer | 333419 | [333419-cozy-organizer.json](./333419-cozy-organizer.json) |
 | Cozy Pets and Friends | 386544 | [386544-cozy-pets-and-friends.json](./386544-cozy-pets-and-friends.json) |
 | Cozy Places | 82176 | [82176-cozy-places.json](./82176-cozy-places.json) |
+| Cozy Plates | 422018 | [422018-cozy-plates.json](./422018-cozy-plates.json) |
 | Cozy Puzzles | 390702 | [390702-cozy-puzzles.json](./390702-cozy-puzzles.json) |
 | Cozy Room Decorator | 269688 | [269688-cozy-room-decorator.json](./269688-cozy-room-decorator.json) |
 | Cozy Sanctuary | 337692 | [337692-cozy-sanctuary.json](./337692-cozy-sanctuary.json) |
@@ -15926,6 +15929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Atlantis: Thorgal's Quest | 23696 | [23696-curse-of-atlantis-thorgals-quest.json](./23696-curse-of-atlantis-thorgals-quest.json) |
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
+| Curse of Cards | 422033 | [422033-curse-of-cards.json](./422033-curse-of-cards.json) |
 | Curse of Dares | 303673 | [303673-curse-of-dares.json](./303673-curse-of-dares.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
 | Curse of Destiny | 82728 | [82728-curse-of-destiny.json](./82728-curse-of-destiny.json) |
