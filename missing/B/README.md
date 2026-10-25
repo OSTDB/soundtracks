@@ -795,7 +795,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1686,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Knight | 258991 | [258991-bandit-knight.json](./258991-bandit-knight.json) |
 | Bandit Point | 114717 | [114717-bandit-point.json](./114717-bandit-point.json) |
 | Bandit Simulator | 121474 | [121474-bandit-simulator.json](./121474-bandit-simulator.json) |
+| Bandit Simulator TD | 389945 | [389945-bandit-simulator-td.json](./389945-bandit-simulator-td.json) |
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
 | Bandit Trap | 306417 | [306417-bandit-trap.json](./306417-bandit-trap.json) |
 | Bandits | 115164 | [115164-bandits.json](./115164-bandits.json) |
@@ -6653,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo VR | 151492 | [151492-bingo-vr.json](./151492-bingo-vr.json) |
 | Bingo Wackadoo Watch | 231828 | [231828-bingo-wackadoo-watch.json](./231828-bingo-wackadoo-watch.json) |
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
+| Bingo! | 389943 | [389943-bingo.json](./389943-bingo.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
 | BingoBango | 107462 | [107462-bingobango.json](./107462-bingobango.json) |
 | Bingus: My Beloved | 190888 | [190888-bingus-my-beloved.json](./190888-bingus-my-beloved.json) |
