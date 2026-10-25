@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-O-X | 290312 | [290312-p-o-x.json](./290312-p-o-x.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P-Walker's Simulation | 36820 | [36820-p-walkers-simulation.json](./36820-p-walkers-simulation.json) |
+| P.A.M.E.L.A. | 9216 | [9216-p-a-m-e-l-a.json](./9216-p-a-m-e-l-a.json) |
 | P.A.M.U | 184808 | [184808-p-a-m-u.json](./184808-p-a-m-u.json) |
 | P.A.S. | 105431 | [105431-p-a-s.json](./105431-p-a-s.json) |
 | P.A.T.H. | 175565 | [175565-p-a-t-h.json](./175565-p-a-t-h.json) |
@@ -364,6 +365,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Liberation Force | 17627 | [17627-pacific-liberation-force.json](./17627-pacific-liberation-force.json) |
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Rim | 3763 | [3763-pacific-rim.json](./3763-pacific-rim.json) |
+| Pacific Storm | 14884 | [14884-pacific-storm.json](./14884-pacific-storm.json) |
+| Pacific Storm: Allies | 14855 | [14855-pacific-storm-allies.json](./14855-pacific-storm-allies.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
 | Pacific Strike Speech Pack | 137375 | [137375-pacific-strike-speech-pack.json](./137375-pacific-strike-speech-pack.json) |
 | Pacific Theatre | 208985 | [208985-pacific-theatre.json](./208985-pacific-theatre.json) |
@@ -3664,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
 | Perimbó | 349431 | [349431-perimbo.json](./349431-perimbo.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
+| Perimeter 2: New Earth | 14859 | [14859-perimeter-2-new-earth.json](./14859-perimeter-2-new-earth.json) |
 | Perimeter: Emperor's Testament | 10692 | [10692-perimeter-emperors-testament.json](./10692-perimeter-emperors-testament.json) |
 | Period Cube: Shackles of Amadeus | 59160 | [59160-period-cube-shackles-of-amadeus.json](./59160-period-cube-shackles-of-amadeus.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
@@ -7395,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Bounce | 127616 | [127616-planet-bounce.json](./127616-planet-bounce.json) |
 | Planet Breakout 2 | 224701 | [224701-planet-breakout-2.json](./224701-planet-breakout-2.json) |
 | Planet Builder - Create Your Own Solar System | 106924 | [106924-planet-builder-create-your-own-solar-system.json](./106924-planet-builder-create-your-own-solar-system.json) |
+| Planet Busters | 14908 | [14908-planet-busters.json](./14908-planet-busters.json) |
 | Planet Centauri | 34841 | [34841-planet-centauri.json](./34841-planet-centauri.json) |
 | Planet Chyton | 391760 | [391760-planet-chyton.json](./391760-planet-chyton.json) |
 | Planet Coaster 2 | 308099 | [308099-planet-coaster-2.json](./308099-planet-coaster-2.json) |
@@ -12068,6 +12073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Survival: Architect of Crime Simulator | 259052 | [259052-prison-survival-architect-of-crime-simulator.json](./259052-prison-survival-architect-of-crime-simulator.json) |
 | Prison Survival: Inmate Life Simulator | 317437 | [317437-prison-survival-inmate-life-simulator.json](./317437-prison-survival-inmate-life-simulator.json) |
 | Prison Test | 102369 | [102369-prison-test.json](./102369-prison-test.json) |
+| Prison Tycoon 3: Lockdown | 14862 | [14862-prison-tycoon-3-lockdown.json](./14862-prison-tycoon-3-lockdown.json) |
 | Prison Tycoon 4: Supermax | 14882 | [14882-prison-tycoon-4-supermax.json](./14882-prison-tycoon-4-supermax.json) |
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
@@ -15323,6 +15329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyro Sand | 146670 | [146670-pyro-sand.json](./146670-pyro-sand.json) |
 | Pyro the Exterminator | 130092 | [130092-pyro-the-exterminator.json](./130092-pyro-the-exterminator.json) |
 | Pyro VR | 29602 | [29602-pyro-vr.json](./29602-pyro-vr.json) |
+| Pyroblazer | 14928 | [14928-pyroblazer.json](./14928-pyroblazer.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyroclysm | 54271 | [54271-pyroclysm.json](./54271-pyroclysm.json) |
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
