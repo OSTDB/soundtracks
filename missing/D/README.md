@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
 | Dad's Coming | 212671 | [212671-dads-coming.json](./212671-dads-coming.json) |
 | Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
+| Dad’s Gonna Be a Travel Influencer. | 403932 | [403932-dad-s-gonna-be-a-travel-influencer.json](./403932-dad-s-gonna-be-a-travel-influencer.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
@@ -1418,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Nemesis: Infinite Quest | 194160 | [194160-dark-nemesis-infinite-quest.json](./194160-dark-nemesis-infinite-quest.json) |
 | Dark Nest: Snake Contract | 368580 | [368580-dark-nest-snake-contract.json](./368580-dark-nest-snake-contract.json) |
 | Dark Night | 33742 | [33742-dark-night.json](./33742-dark-night.json) |
+| Dark Night Endless Tales: Bitter Forest | 403971 | [403971-dark-night-endless-tales-bitter-forest.json](./403971-dark-night-endless-tales-bitter-forest.json) |
 | Dark Night Maze | 232938 | [232938-dark-night-maze.json](./232938-dark-night-maze.json) |
 | Dark Nights | 138769 | [138769-dark-nights.json](./138769-dark-nights.json) |
 | Dark Nights: Reflections | 397602 | [397602-dark-nights-reflections.json](./397602-dark-nights-reflections.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
 | Demon with a Pickaxe | 363145 | [363145-demon-with-a-pickaxe.json](./363145-demon-with-a-pickaxe.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
+| Demon Work Walk: Hello Work Poke Park | 403966 | [403966-demon-work-walk-hello-work-poke-park.json](./403966-demon-work-walk-hello-work-poke-park.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
 | Demon World: Raya's Way of Life | 412922 | [412922-demon-world-rayas-way-of-life.json](./412922-demon-world-rayas-way-of-life.json) |
 | Demon Zombie Outpost | 149861 | [149861-demon-zombie-outpost.json](./149861-demon-zombie-outpost.json) |
@@ -12861,6 +12864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drazen Petrovic Basket | 69676 | [69676-drazen-petrovic-basket.json](./69676-drazen-petrovic-basket.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
+| Dread Admiral | 403933 | [403933-dread-admiral.json](./403933-dread-admiral.json) |
 | Dread Chess | 338338 | [338338-dread-chess.json](./338338-dread-chess.json) |
 | Dread Dawn | 250233 | [250233-dread-dawn.json](./250233-dread-dawn.json) |
 | Dread Delusion | 159735 | [159735-dread-delusion.json](./159735-dread-delusion.json) |
