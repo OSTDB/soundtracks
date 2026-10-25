@@ -7029,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roam Survival | 215728 | [215728-roam-survival.json](./215728-roam-survival.json) |
 | Roamaor | 249314 | [249314-roamaor.json](./249314-roamaor.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
+| Roaming Fortress | 17841 | [17841-roaming-fortress.json](./17841-roaming-fortress.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
 | Roanoke | 260561 | [260561-roanoke.json](./260561-roanoke.json) |
 | Roanoke | 86233 | [86233-roanoke.json](./86233-roanoke.json) |
@@ -8964,6 +8965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooster Rampage | 150285 | [150285-rooster-rampage.json](./150285-rooster-rampage.json) |
 | Rooster Saga: I Believe I Can Fly | 393529 | [393529-rooster-saga-i-believe-i-can-fly.json](./393529-rooster-saga-i-believe-i-can-fly.json) |
 | Rooster Tale | 236157 | [236157-rooster-tale.json](./236157-rooster-tale.json) |
+| Rooster Teeth vs. Zombiens | 11248 | [11248-rooster-teeth-vs-zombiens.json](./11248-rooster-teeth-vs-zombiens.json) |
 | Rooster Teeth vs. Zombiens: Remember the Bungalow | 174541 | [174541-rooster-teeth-vs-zombiens-remember-the-bungalow.json](./174541-rooster-teeth-vs-zombiens-remember-the-bungalow.json) |
 | Rooster Wars Tactic | 120235 | [120235-rooster-wars-tactic.json](./120235-rooster-wars-tactic.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
