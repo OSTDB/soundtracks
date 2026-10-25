@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Nemesi | 260106 | [260106-scp-nemesi.json](./260106-scp-nemesi.json) |
 | SCP: New Operative | 202740 | [202740-scp-new-operative.json](./202740-scp-new-operative.json) |
 | SCP: November 2010 | 337593 | [337593-scp-november-2010.json](./337593-scp-november-2010.json) |
+| SCP: Permafrost | 409328 | [409328-scp-permafrost.json](./409328-scp-permafrost.json) |
 | SCP: ReEnter | 377925 | [377925-scp-reenter.json](./377925-scp-reenter.json) |
 | SCP: Refinarium | 407500 | [407500-scp-refinarium.json](./407500-scp-refinarium.json) |
 | SCP: Resonance | 126252 | [126252-scp-resonance.json](./126252-scp-resonance.json) |
@@ -2833,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
 | SCP: Secret Files | 204886 | [204886-scp-secret-files.json](./204886-scp-secret-files.json) |
 | SCP: Secret Laboratory | 70385 | [70385-scp-secret-laboratory.json](./70385-scp-secret-laboratory.json) |
+| SCP: Short Story | 409333 | [409333-scp-short-story.json](./409333-scp-short-story.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
 | SCP: The Endurance | 228377 | [228377-scp-the-endurance.json](./228377-scp-the-endurance.json) |
@@ -3019,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble | 86248 | [86248-scribble.json](./86248-scribble.json) |
 | Scribble Adventure Unlimited | 107126 | [107126-scribble-adventure-unlimited.json](./107126-scribble-adventure-unlimited.json) |
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
+| Scribble Hunt | 409358 | [409358-scribble-hunt.json](./409358-scribble-hunt.json) |
 | Scribble It! | 120649 | [120649-scribble-it.json](./120649-scribble-it.json) |
 | Scribble Ships | 30801 | [30801-scribble-ships.json](./30801-scribble-ships.json) |
 | Scribble Shooter | 21152 | [21152-scribble-shooter.json](./21152-scribble-shooter.json) |
@@ -4392,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
 | Sender Unknown: The Woods | 74404 | [74404-sender-unknown-the-woods.json](./74404-sender-unknown-the-woods.json) |
 | Senderos de Fugüm | 326606 | [326606-senderos-de-fugum.json](./326606-senderos-de-fugum.json) |
+| Sending my Pet Rock To Heaven! | 409339 | [409339-sending-my-pet-rock-to-heaven.json](./409339-sending-my-pet-rock-to-heaven.json) |
 | Seneca | 183756 | [183756-seneca.json](./183756-seneca.json) |
 | Seneca 7: A Cyberpunk Odyssey | 201643 | [201643-seneca-7-a-cyberpunk-odyssey.json](./201643-seneca-7-a-cyberpunk-odyssey.json) |
 | Senet | 71209 | [71209-senet.json](./71209-senet.json) |
@@ -15772,6 +15776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dash | 373135 | [373135-space-dash.json](./373135-space-dash.json) |
 | Space Dash: Earth Defender | 58769 | [58769-space-dash-earth-defender.json](./58769-space-dash-earth-defender.json) |
 | Space Dave! | 27526 | [27526-space-dave.json](./27526-space-dave.json) |
+| Space Deadbeef | 409377 | [409377-space-deadbeef.json](./409377-space-deadbeef.json) |
 | Space Debris | 103533 | [103533-space-debris.json](./103533-space-debris.json) |
 | Space Debris | 43833 | [43833-space-debris.json](./43833-space-debris.json) |
 | Space Defend | 246424 | [246424-space-defend.json](./246424-space-defend.json) |
@@ -24878,6 +24883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
 | Sunstone of Time | 421822 | [421822-sunstone-of-time.json](./421822-sunstone-of-time.json) |
 | Sunu Ikkibu: Din Nahu | 27377 | [27377-sunu-ikkibu-din-nahu.json](./27377-sunu-ikkibu-din-nahu.json) |
+| Sunward | 409346 | [409346-sunward.json](./409346-sunward.json) |
 | Sunwards | 138467 | [138467-sunwards.json](./138467-sunwards.json) |
 | Sunwave Hotel | 204192 | [204192-sunwave-hotel.json](./204192-sunwave-hotel.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
@@ -25233,6 +25239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cosmic Land | 239594 | [239594-super-cosmic-land.json](./239594-super-cosmic-land.json) |
 | Super CosmoJet | 160248 | [160248-super-cosmojet.json](./160248-super-cosmojet.json) |
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
+| Super Coupon Club | 409340 | [409340-super-coupon-club.json](./409340-super-coupon-club.json) |
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
 | Super Craft: Exploration Survival | 100961 | [100961-super-craft-exploration-survival.json](./100961-super-craft-exploration-survival.json) |
 | Super Crane Bug | 239706 | [239706-super-crane-bug.json](./239706-super-crane-bug.json) |
