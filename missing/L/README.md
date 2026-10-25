@@ -3259,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
 | Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
+| Letter Soup | 86787 | [86787-letter-soup.json](./86787-letter-soup.json) |
 | Letter Stack | 233106 | [233106-letter-stack.json](./233106-letter-stack.json) |
 | Letter Taps | 56383 | [56383-letter-taps.json](./56383-letter-taps.json) |
 | Letter Targets | 94380 | [94380-letter-targets.json](./94380-letter-targets.json) |
@@ -5164,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Liv | 386475 | [386475-liv.json](./386475-liv.json) |
+| Live | 85682 | [85682-live.json](./85682-live.json) |
 | Live a Hero | 208172 | [208172-live-a-hero.json](./208172-live-a-hero.json) |
 | Live Action-Bit Theater "Route Yonroku" | 319312 | [319312-live-action-bit-theater-route-yonroku.json](./319312-live-action-bit-theater-route-yonroku.json) |
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
