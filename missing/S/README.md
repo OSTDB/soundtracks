@@ -3838,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Section Z | 206629 | [206629-section-z.json](./206629-section-z.json) |
 | Section-Z | 285595 | [285595-section-z.json](./285595-section-z.json) |
 | Section-Z | 9755 | [9755-section-z.json](./9755-section-z.json) |
+| SectMind | 413866 | [413866-sectmind.json](./413866-sectmind.json) |
 | Sector | 35347 | [35347-sector.json](./35347-sector.json) |
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
 | Sector 13: Haunted Woods | 390056 | [390056-sector-13-haunted-woods.json](./390056-sector-13-haunted-woods.json) |
@@ -9865,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchball | 418870 | [418870-sketchball.json](./418870-sketchball.json) |
 | Sketchbook | 359617 | [359617-sketchbook.json](./359617-sketchbook.json) |
 | Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
+| Sketchbook: Schoolgirls in Love and Other Assorted Heartbreak | 413694 | [413694-sketchbook-schoolgirls-in-love-and-other-assorted-heartbreak.json](./413694-sketchbook-schoolgirls-in-love-and-other-assorted-heartbreak.json) |
 | Sketchcross | 52824 | [52824-sketchcross.json](./52824-sketchcross.json) |
 | Sketchfab VR | 32920 | [32920-sketchfab-vr.json](./32920-sketchfab-vr.json) |
 | SketchFighter 4000 Alpha | 146190 | [146190-sketchfighter-4000-alpha.json](./146190-sketchfighter-4000-alpha.json) |
@@ -10408,6 +10410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
 | Skye Tales | 204532 | [204532-skye-tales.json](./204532-skye-tales.json) |
 | Skye: The Misty Isle | 163459 | [163459-skye-the-misty-isle.json](./163459-skye-the-misty-isle.json) |
+| Skye's Repose | 413705 | [413705-skyes-repose.json](./413705-skyes-repose.json) |
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
 | SkyFactory 3 | 360610 | [360610-skyfactory-3.json](./360610-skyfactory-3.json) |
 | SkyFactory 4 | 204695 | [204695-skyfactory-4.json](./204695-skyfactory-4.json) |
@@ -10794,6 +10797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Tight | 75866 | [75866-sleep-tight.json](./75866-sleep-tight.json) |
 | Sleep Tight PC | 154310 | [154310-sleep-tight-pc.json](./154310-sleep-tight-pc.json) |
 | Sleep Walk | 331170 | [331170-sleep-walk.json](./331170-sleep-walk.json) |
+| Sleep Walk | 413417 | [413417-sleep-walk.json](./413417-sleep-walk.json) |
 | Sleep Walker | 305471 | [305471-sleep-walker.json](./305471-sleep-walker.json) |
 | Sleep When I'm Dead | 140918 | [140918-sleep-when-im-dead.json](./140918-sleep-when-im-dead.json) |
 | sleep_mode | 384331 | [384331-sleep-mode.json](./384331-sleep-mode.json) |
@@ -12850,6 +12854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soap Bubble 2 | 322846 | [322846-soap-bubble-2.json](./322846-soap-bubble-2.json) |
 | Soap Dodgem | 96195 | [96195-soap-dodgem.json](./96195-soap-dodgem.json) |
 | Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
+| Soap Land no Hasshaku-sama | 413693 | [413693-soap-land-no-hasshaku-sama.json](./413693-soap-land-no-hasshaku-sama.json) |
 | Soap Land Story II: Memory | 67387 | [67387-soap-land-story-ii-memory.json](./67387-soap-land-story-ii-memory.json) |
 | Soap Opera Dash | 56905 | [56905-soap-opera-dash.json](./56905-soap-opera-dash.json) |
 | Soap Slide | 369177 | [369177-soap-slide.json](./369177-soap-slide.json) |
@@ -17633,6 +17638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 2: The Game | 149275 | [149275-spider-man-2-the-game.json](./149275-spider-man-2-the-game.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
 | Spider-Man 2: The Snap Game | 224660 | [224660-spider-man-2-the-snap-game.json](./224660-spider-man-2-the-snap-game.json) |
+| Spider-Man 2: Web Action | 413814 | [413814-spider-man-2-web-action.json](./413814-spider-man-2-web-action.json) |
 | Spider-Man 2: Web of Words | 338778 | [338778-spider-man-2-web-of-words.json](./338778-spider-man-2-web-of-words.json) |
 | Spider-Man 3 | 200967 | [200967-spider-man-3.json](./200967-spider-man-3.json) |
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
@@ -21877,6 +21883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman 3D Tennis: Deluxe | 404210 | [404210-stickman-3d-tennis-deluxe.json](./404210-stickman-3d-tennis-deluxe.json) |
 | Stickman 3D Wingsuit: Deluxe | 406699 | [406699-stickman-3d-wingsuit-deluxe.json](./406699-stickman-3d-wingsuit-deluxe.json) |
 | Stickman Adventure | 311127 | [311127-stickman-adventure.json](./311127-stickman-adventure.json) |
+| Stickman Adventure | 413419 | [413419-stickman-adventure.json](./413419-stickman-adventure.json) |
 | Stickman Adventures | 347781 | [347781-stickman-adventures.json](./347781-stickman-adventures.json) |
 | Stickman and the Sword of Legends | 246925 | [246925-stickman-and-the-sword-of-legends.json](./246925-stickman-and-the-sword-of-legends.json) |
 | Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
@@ -28575,6 +28582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Cheerleaders | 339469 | [339469-sweet-cheerleaders.json](./339469-sweet-cheerleaders.json) |
 | Sweet Cheongsam | 384626 | [384626-sweet-cheongsam.json](./384626-sweet-cheongsam.json) |
 | Sweet Cinema | 339468 | [339468-sweet-cinema.json](./339468-sweet-cinema.json) |
+| Sweet Clockwork | 413832 | [413832-sweet-clockwork.json](./413832-sweet-clockwork.json) |
 | Sweet Clown: Gozen San-ji no Okashi na Doukeshi | 59989 | [59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json](./59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json) |
 | Sweet Collector | 188497 | [188497-sweet-collector.json](./188497-sweet-collector.json) |
 | Sweet Cookie Pie | 49803 | [49803-sweet-cookie-pie.json](./49803-sweet-cookie-pie.json) |
