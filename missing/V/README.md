@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victim 10 PM | 358336 | [358336-victim-10-pm.json](./358336-victim-10-pm.json) |
 | Victim Cache: The RPG | 54973 | [54973-victim-cache-the-rpg.json](./54973-victim-cache-the-rpg.json) |
 | Victim Doll | 239195 | [239195-victim-doll.json](./239195-victim-doll.json) |
+| Victim of Xen | 8348 | [8348-victim-of-xen.json](./8348-victim-of-xen.json) |
 | Victim.exe | 335344 | [335344-victim-exe.json](./335344-victim-exe.json) |
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
 | Victor Banana | 171478 | [171478-victor-banana.json](./171478-victor-banana.json) |
