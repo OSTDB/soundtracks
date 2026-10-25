@@ -6255,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose and Easy Number IQ Quiz | 308650 | [308650-choose-and-easy-number-iq-quiz.json](./308650-choose-and-easy-number-iq-quiz.json) |
 | Choose Cthulhu Files: The Call of Cthulhu | 329343 | [329343-choose-cthulhu-files-the-call-of-cthulhu.json](./329343-choose-cthulhu-files-the-call-of-cthulhu.json) |
+| Choose Wisely | 75583 | [75583-choose-wisely.json](./75583-choose-wisely.json) |
 | Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
 | Choose Your Own Nightmare: Night of the Werewolf | 144032 | [144032-choose-your-own-nightmare-night-of-the-werewolf.json](./144032-choose-your-own-nightmare-night-of-the-werewolf.json) |
@@ -7673,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CJ's Elephant Antics | 12007 | [12007-cjs-elephant-antics.json](./12007-cjs-elephant-antics.json) |
 | CKZ Origins | 87164 | [87164-ckz-origins.json](./87164-ckz-origins.json) |
 | Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
+| Clad in Iron: Philippines 1898 | 75343 | [75343-clad-in-iron-philippines-1898.json](./75343-clad-in-iron-philippines-1898.json) |
 | Clad in Iron: Philippines 1898 - Manila Bay 1898 | 170949 | [170949-clad-in-iron-philippines-1898-manila-bay-1898.json](./170949-clad-in-iron-philippines-1898-manila-bay-1898.json) |
 | Clad in Iron: Sakhalin 1904 | 111222 | [111222-clad-in-iron-sakhalin-1904.json](./111222-clad-in-iron-sakhalin-1904.json) |
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
@@ -8830,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastal World | 325038 | [325038-coastal-world.json](./325038-coastal-world.json) |
 | Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
 | Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
+| Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
 | Coaster Works | 6725 | [6725-coaster-works.json](./6725-coaster-works.json) |
 | Coasterama | 372830 | [372830-coasterama.json](./372830-coasterama.json) |
@@ -9296,6 +9299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold House | 190092 | [190092-cold-house.json](./190092-cold-house.json) |
 | Cold Ice Remastered | 229223 | [229223-cold-ice-remastered.json](./229223-cold-ice-remastered.json) |
 | Cold in the Dark | 180062 | [180062-cold-in-the-dark.json](./180062-cold-in-the-dark.json) |
+| Cold Iron | 60199 | [60199-cold-iron.json](./60199-cold-iron.json) |
 | Cold Iron: Quick Draw Western Duels | 30768 | [30768-cold-iron-quick-draw-western-duels.json](./30768-cold-iron-quick-draw-western-duels.json) |
 | Cold Massacre | 220585 | [220585-cold-massacre.json](./220585-cold-massacre.json) |
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
