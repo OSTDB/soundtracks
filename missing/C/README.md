@@ -813,8 +813,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cam Quest | 380689 | [380689-cam-quest.json](./380689-cam-quest.json) |
 | Cam4Z: Bodycam Zombie Elevator Survivor | 373682 | [373682-cam4z-bodycam-zombie-elevator-survivor.json](./373682-cam4z-bodycam-zombie-elevator-survivor.json) |
 | Camae | 197015 | [197015-camae.json](./197015-camae.json) |
+| Camazotz no Nazo | 394696 | [394696-camazotz-no-nazo.json](./394696-camazotz-no-nazo.json) |
 | Camazotz no Ongaku | 394769 | [394769-camazotz-no-ongaku.json](./394769-camazotz-no-ongaku.json) |
+| Camazotz no Saigo | 394697 | [394697-camazotz-no-saigo.json](./394697-camazotz-no-saigo.json) |
 | Camazotz no Shuugou | 394764 | [394764-camazotz-no-shuugou.json](./394764-camazotz-no-shuugou.json) |
+| Camazotz no Tanjou | 394692 | [394692-camazotz-no-tanjou.json](./394692-camazotz-no-tanjou.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
 | Cambo: Webbed Fist | 307126 | [307126-cambo-webbed-fist.json](./307126-cambo-webbed-fist.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
@@ -1585,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CaptainMarlene | 117385 | [117385-captainmarlene.json](./117385-captainmarlene.json) |
 | Captains & Dungeons | 157425 | [157425-captains-and-dungeons.json](./157425-captains-and-dungeons.json) |
 | Captains of the Wacky Waters | 146045 | [146045-captains-of-the-wacky-waters.json](./146045-captains-of-the-wacky-waters.json) |
+| CAPTCHA Hell | 394401 | [394401-captcha-hell.json](./394401-captcha-hell.json) |
 | Captcha Overload | 411493 | [411493-captcha-overload.json](./411493-captcha-overload.json) |
 | CAPTCHA.Exe | 406540 | [406540-captcha-exe.json](./406540-captcha-exe.json) |
 | CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
@@ -8346,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Guardians | 237773 | [237773-clicker-guardians.json](./237773-clicker-guardians.json) |
 | Clicker Guild | 30457 | [30457-clicker-guild.json](./30457-clicker-guild.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
+| Clicker Kids | 394068 | [394068-clicker-kids.json](./394068-clicker-kids.json) |
 | Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
 | Clicker Racing | 100716 | [100716-clicker-racing.json](./100716-clicker-racing.json) |
 | Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
@@ -8734,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown | 359365 | [359365-clown.json](./359365-clown.json) |
+| Clown | 394087 | [394087-clown.json](./394087-clown.json) |
 | Clown Art | 267856 | [267856-clown-art.json](./267856-clown-art.json) |
 | Clown Ball | 368228 | [368228-clown-ball.json](./368228-clown-ball.json) |
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
@@ -11899,6 +11905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Cordillera | 287878 | [287878-cordillera.json](./287878-cordillera.json) |
 | Córdoba Court | 398659 | [398659-cordoba-court.json](./398659-cordoba-court.json) |
+| Cordura | 394664 | [394664-cordura.json](./394664-cordura.json) |
 | Cordy | 112066 | [112066-cordy.json](./112066-cordy.json) |
 | Cordy 2 | 112067 | [112067-cordy-2.json](./112067-cordy-2.json) |
 | Cordy Sky | 290259 | [290259-cordy-sky.json](./290259-cordy-sky.json) |
@@ -13510,6 +13517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Boss | 238401 | [238401-crazy-boss.json](./238401-crazy-boss.json) |
 | Crazy Bowling | 96840 | [96840-crazy-bowling.json](./96840-crazy-bowling.json) |
 | Crazy Brain | 254381 | [254381-crazy-brain.json](./254381-crazy-brain.json) |
+| Crazy Brix | 394458 | [394458-crazy-brix.json](./394458-crazy-brix.json) |
 | Crazy Buggy Racing | 29107 | [29107-crazy-buggy-racing.json](./29107-crazy-buggy-racing.json) |
 | Crazy Bugs! | 248572 | [248572-crazy-bugs.json](./248572-crazy-bugs.json) |
 | Crazy Burger | 208796 | [208796-crazy-burger.json](./208796-crazy-burger.json) |
@@ -13647,6 +13655,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
 | Crazy Hands | 164865 | [164865-crazy-hands.json](./164865-crazy-hands.json) |
+| Crazy Hangover | 393913 | [393913-crazy-hangover.json](./393913-crazy-hangover.json) |
+| Crazy Hangover 2 | 393916 | [393916-crazy-hangover-2.json](./393916-crazy-hangover-2.json) |
+| Crazy Hangover 3 | 393917 | [393917-crazy-hangover-3.json](./393917-crazy-hangover-3.json) |
 | Crazy Hill Racing | 235200 | [235200-crazy-hill-racing.json](./235200-crazy-hill-racing.json) |
 | Crazy Hit 2 | 275261 | [275261-crazy-hit-2.json](./275261-crazy-hit-2.json) |
 | Crazy Home Run! | 87878 | [87878-crazy-home-run.json](./87878-crazy-home-run.json) |
@@ -14871,6 +14882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucible Of Time | 359041 | [359041-crucible-of-time.json](./359041-crucible-of-time.json) |
 | Crucible TD | 380098 | [380098-crucible-td.json](./380098-crucible-td.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
+| Crucifier | 394410 | [394410-crucifier.json](./394410-crucifier.json) |
 | Crude | 171388 | [171388-crude.json](./171388-crude.json) |
 | Crude Oil | 369093 | [369093-crude-oil.json](./369093-crude-oil.json) |
 | Crude Survivor TD | 370890 | [370890-crude-survivor-td.json](./370890-crude-survivor-td.json) |
@@ -15313,6 +15325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
+| Crystal of Death | 394071 | [394071-crystal-of-death.json](./394071-crystal-of-death.json) |
 | Crystal Ortha | 140966 | [140966-crystal-ortha.json](./140966-crystal-ortha.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
 | Crystal Pixels | 68904 | [68904-crystal-pixels.json](./68904-crystal-pixels.json) |
@@ -16155,6 +16168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Armor | 106507 | [106507-cursed-armor.json](./106507-cursed-armor.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
+| Cursed Blight | 394083 | [394083-cursed-blight.json](./394083-cursed-blight.json) |
 | Cursed Blocks | 146708 | [146708-cursed-blocks.json](./146708-cursed-blocks.json) |
 | Cursed Blood | 195469 | [195469-cursed-blood.json](./195469-cursed-blood.json) |
 | Cursed Blood | 331280 | [331280-cursed-blood.json](./331280-cursed-blood.json) |
