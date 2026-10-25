@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sàngshī Wéichéng: Límíng | 369184 | [369184-sangshi-weicheng-liming.json](./369184-sangshi-weicheng-liming.json) |
 | Sanguinaria | 337674 | [337674-sanguinaria.json](./337674-sanguinaria.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
+| Sanguine Cycle; Redux | 405766 | [405766-sanguine-cycle-redux.json](./405766-sanguine-cycle-redux.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
 | Sanguine Rose | 213261 | [213261-sanguine-rose.json](./213261-sanguine-rose.json) |
@@ -2502,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolgirl Card Pull Simulator | 394559 | [394559-schoolgirl-card-pull-simulator.json](./394559-schoolgirl-card-pull-simulator.json) |
 | Schoolgirl Supervisor: Saori Sato | 322266 | [322266-schoolgirl-supervisor-saori-sato.json](./322266-schoolgirl-supervisor-saori-sato.json) |
 | Schoolgirl Tournament Fighting | 60086 | [60086-schoolgirl-tournament-fighting.json](./60086-schoolgirl-tournament-fighting.json) |
+| Schoolgirl vs. Fishman | 405768 | [405768-schoolgirl-vs-fishman.json](./405768-schoolgirl-vs-fishman.json) |
 | Schoolhouse Note | 182160 | [182160-schoolhouse-note.json](./182160-schoolhouse-note.json) |
 | Schoolhouse Rock! Grammar Rock | 209767 | [209767-schoolhouse-rock-grammar-rock.json](./209767-schoolhouse-rock-grammar-rock.json) |
 | Schoolhouse Rock!: America Rock | 113469 | [113469-schoolhouse-rock-america-rock.json](./113469-schoolhouse-rock-america-rock.json) |
@@ -2827,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Nemesi | 260106 | [260106-scp-nemesi.json](./260106-scp-nemesi.json) |
 | SCP: New Operative | 202740 | [202740-scp-new-operative.json](./202740-scp-new-operative.json) |
 | SCP: November 2010 | 337593 | [337593-scp-november-2010.json](./337593-scp-november-2010.json) |
+| SCP: Pale Weaver | 405867 | [405867-scp-pale-weaver.json](./405867-scp-pale-weaver.json) |
 | SCP: Permafrost | 409328 | [409328-scp-permafrost.json](./409328-scp-permafrost.json) |
 | SCP: ReEnter | 377925 | [377925-scp-reenter.json](./377925-scp-reenter.json) |
 | SCP: Refinarium | 407500 | [407500-scp-refinarium.json](./407500-scp-refinarium.json) |
@@ -3410,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal Save: Royal Decree | 419124 | [419124-seal-save-royal-decree.json](./419124-seal-save-royal-decree.json) |
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
 | SEAL Team 12 | 17602 | [17602-seal-team-12.json](./17602-seal-team-12.json) |
+| Seal the Breach | 405762 | [405762-seal-the-breach.json](./405762-seal-the-breach.json) |
 | Seal World | 168583 | [168583-seal-world.json](./168583-seal-world.json) |
 | Seal: Travelers of Destiny | 63106 | [63106-seal-travelers-of-destiny.json](./63106-seal-travelers-of-destiny.json) |
 | Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
@@ -5335,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
 | Shaark! | 175152 | [175152-shaark.json](./175152-shaark.json) |
 | Shaberu! DS Cooking Navi | 345570 | [345570-shaberu-ds-cooking-navi.json](./345570-shaberu-ds-cooking-navi.json) |
+| Shablon: Color Patterns | 405869 | [405869-shablon-color-patterns.json](./405869-shablon-color-patterns.json) |
 | Shachibato! President, It's Time for Battle! Maju Wars | 145520 | [145520-shachibato-president-its-time-for-battle-maju-wars.json](./145520-shachibato-president-its-time-for-battle-maju-wars.json) |
 | Shachou Eiyuuden: The Eagle Shooting Heroes | 78343 | [78343-shachou-eiyuuden-the-eagle-shooting-heroes.json](./78343-shachou-eiyuuden-the-eagle-shooting-heroes.json) |
 | Shackle | 145273 | [145273-shackle.json](./145273-shackle.json) |
@@ -8556,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hope | 254330 | [254330-silent-hope.json](./254330-silent-hope.json) |
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
 | Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
+| Silent Howl | 405758 | [405758-silent-howl.json](./405758-silent-howl.json) |
 | Silent Hunt | 374694 | [374694-silent-hunt.json](./374694-silent-hunt.json) |
 | Silent Hunter | 15517 | [15517-silent-hunter.json](./15517-silent-hunter.json) |
 | Silent Hunter | 287557 | [287557-silent-hunter.json](./287557-silent-hunter.json) |
@@ -24881,6 +24887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
 | Sunset Survival Station | 258973 | [258973-sunset-survival-station.json](./258973-sunset-survival-station.json) |
+| Sunset Survival: Miami | 405329 | [405329-sunset-survival-miami.json](./405329-sunset-survival-miami.json) |
 | Sunset Town | 333093 | [333093-sunset-town.json](./333093-sunset-town.json) |
 | Sunset World Online | 188585 | [188585-sunset-world-online.json](./188585-sunset-world-online.json) |
 | Sunshine | 110784 | [110784-sunshine.json](./110784-sunshine.json) |
