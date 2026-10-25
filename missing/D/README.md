@@ -4073,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decimals | 44355 | [44355-decimals.json](./44355-decimals.json) |
 | Decimals 2 | 44356 | [44356-decimals-2.json](./44356-decimals-2.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
+| Decimation | 390437 | [390437-decimation.json](./390437-decimation.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
 | Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Hole | 115373 | [115373-deep-hole.json](./115373-deep-hole.json) |
 | Deep Horizon | 41969 | [41969-deep-horizon.json](./41969-deep-horizon.json) |
 | Deep Horrors of Fishing | 323724 | [323724-deep-horrors-of-fishing.json](./323724-deep-horrors-of-fishing.json) |
+| Deep Hunger | 390443 | [390443-deep-hunger.json](./390443-deep-hunger.json) |
 | Deep II: The Center of the Earth | 69793 | [69793-deep-ii-the-center-of-the-earth.json](./69793-deep-ii-the-center-of-the-earth.json) |
 | Deep in Brixen Space | 140585 | [140585-deep-in-brixen-space.json](./140585-deep-in-brixen-space.json) |
 | Deep in hell | 185448 | [185448-deep-in-hell.json](./185448-deep-in-hell.json) |
@@ -10145,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drink & Drive Simulator 2018 | 182794 | [182794-dont-drink-and-drive-simulator-2018.json](./182794-dont-drink-and-drive-simulator-2018.json) |
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drink the Pink | 307786 | [307786-dont-drink-the-pink.json](./307786-dont-drink-the-pink.json) |
+| Don't Drive Dead | 390462 | [390462-dont-drive-dead.json](./390462-dont-drive-dead.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop the Ball | 420764 | [420764-dont-drop-the-ball.json](./420764-dont-drop-the-ball.json) |
 | Don't Drop the Bass | 32660 | [32660-dont-drop-the-bass.json](./32660-dont-drop-the-bass.json) |
