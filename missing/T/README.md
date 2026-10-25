@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailor Tales: Neil Plus | 257536 | [257536-tailor-tales-neil-plus.json](./257536-tailor-tales-neil-plus.json) |
 | Tails | 22500 | [22500-tails.json](./22500-tails.json) |
 | Tails & Titties: Hot Spring | 192696 | [192696-tails-and-titties-hot-spring.json](./192696-tails-and-titties-hot-spring.json) |
+| Tails & Trails | 415775 | [415775-tails-and-trails.json](./415775-tails-and-trails.json) |
 | Tails 64 Revamped | 335635 | [335635-tails-64-revamped.json](./335635-tails-64-revamped.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
 | Tails Adventure | 19715 | [19715-tails-adventure.json](./19715-tails-adventure.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of a Wolf | 139641 | [139641-tale-of-a-wolf.json](./139641-tale-of-a-wolf.json) |
 | Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
+| Tale of Dark Light | 415748 | [415748-tale-of-dark-light.json](./415748-tale-of-dark-light.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
 | Tale of Fallen Dragons | 30076 | [30076-tale-of-fallen-dragons.json](./30076-tale-of-fallen-dragons.json) |
 | Tale of Honor | 274041 | [274041-tale-of-honor.json](./274041-tale-of-honor.json) |
@@ -2439,6 +2441,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teachers. With Love and Passion | 250441 | [250441-teachers-with-love-and-passion.json](./250441-teachers-with-love-and-passion.json) |
 | Teachers. With Love and Passion. | 390717 | [390717-teachers-with-love-and-passion.json](./390717-teachers-with-love-and-passion.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
+| Teaching Assistant Life | 415769 | [415769-teaching-assistant-life.json](./415769-teaching-assistant-life.json) |
+| Teaching Assistant Life: Song Ha-Yoon | 415771 | [415771-teaching-assistant-life-song-ha-yoon.json](./415771-teaching-assistant-life-song-ha-yoon.json) |
 | Teaching Simulator: Elite Class | 377972 | [377972-teaching-simulator-elite-class.json](./377972-teaching-simulator-elite-class.json) |
 | Teacup | 214023 | [214023-teacup.json](./214023-teacup.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
@@ -3976,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
 | Testament | 100039 | [100039-testament.json](./100039-testament.json) |
 | Testament | 237303 | [237303-testament.json](./237303-testament.json) |
+| Testament | 415737 | [415737-testament.json](./415737-testament.json) |
 | Testbed Terror | 50541 | [50541-testbed-terror.json](./50541-testbed-terror.json) |
 | Tested With Robots! | 85433 | [85433-tested-with-robots.json](./85433-tested-with-robots.json) |
 | Tester | 397704 | [397704-tester.json](./397704-tester.json) |
@@ -5344,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Secret of a Small Town | 34303 | [34303-the-big-secret-of-a-small-town.json](./34303-the-big-secret-of-a-small-town.json) |
 | The Big Simulation Box 3: Best of Simulations | 136373 | [136373-the-big-simulation-box-3-best-of-simulations.json](./136373-the-big-simulation-box-3-best-of-simulations.json) |
 | The Big SokoBang | 127162 | [127162-the-big-sokobang.json](./127162-the-big-sokobang.json) |
+| The Big Suck | 415770 | [415770-the-big-suck.json](./415770-the-big-suck.json) |
 | The Big Three | 102130 | [102130-the-big-three.json](./102130-the-big-three.json) |
 | The Big Wall | 221292 | [221292-the-big-wall.json](./221292-the-big-wall.json) |
 | The Big Wave | 135018 | [135018-the-big-wave.json](./135018-the-big-wave.json) |
@@ -5413,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Knight | 371875 | [371875-the-black-knight.json](./371875-the-black-knight.json) |
 | The Black Knight: Halloween | 274639 | [274639-the-black-knight-halloween.json](./274639-the-black-knight-halloween.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
+| The Black Lily Blooms in Her Eyes | 415735 | [415735-the-black-lily-blooms-in-her-eyes.json](./415735-the-black-lily-blooms-in-her-eyes.json) |
 | The Black Masses | 113833 | [113833-the-black-masses.json](./113833-the-black-masses.json) |
 | The Black Mirror | 11261 | [11261-the-black-mirror.json](./11261-the-black-mirror.json) |
 | The Black Onyx | 6099 | [6099-the-black-onyx.json](./6099-the-black-onyx.json) |
@@ -24972,6 +24979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | TreasureHunter by R.Garfield | 175579 | [175579-treasurehunter-by-r-garfield.json](./175579-treasurehunter-by-r-garfield.json) |
 | Treasurenauts | 27447 | [27447-treasurenauts.json](./27447-treasurenauts.json) |
+| Treasurer | 415751 | [415751-treasurer.json](./415751-treasurer.json) |
 | Treasures Boom | 256158 | [256158-treasures-boom.json](./256158-treasures-boom.json) |
 | Treasures of Montezuma Blitz | 65272 | [65272-treasures-of-montezuma-blitz.json](./65272-treasures-of-montezuma-blitz.json) |
 | Treasures of Montezuma: Arena | 61539 | [61539-treasures-of-montezuma-arena.json](./61539-treasures-of-montezuma-arena.json) |
