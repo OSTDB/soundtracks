@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
 | UFO 2: Extraterrestrials | 195935 | [195935-ufo-2-extraterrestrials.json](./195935-ufo-2-extraterrestrials.json) |
 | UFO 50 | 54555 | [54555-ufo-50.json](./54555-ufo-50.json) |
+| UFO 50 Nonograms | 397748 | [397748-ufo-50-nonograms.json](./397748-ufo-50-nonograms.json) |
 | UFO Chase | 110855 | [110855-ufo-chase.json](./110855-ufo-chase.json) |
 | UFO Clones | 100698 | [100698-ufo-clones.json](./100698-ufo-clones.json) |
 | UFO Combat 2000 | 111175 | [111175-ufo-combat-2000.json](./111175-ufo-combat-2000.json) |
