@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Love: Ghost or Not? | 414444 | [414444-false-love-ghost-or-not.json](./414444-false-love-ghost-or-not.json) |
 | False Mall | 311570 | [311570-false-mall.json](./311570-false-mall.json) |
 | False Myth | 132742 | [132742-false-myth.json](./132742-false-myth.json) |
+| False Myth 2 | 416387 | [416387-false-myth-2.json](./416387-false-myth-2.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
 | False Princess Iruruu | 330020 | [330020-false-princess-iruruu.json](./330020-false-princess-iruruu.json) |
 | False Shelter | 28785 | [28785-false-shelter.json](./28785-false-shelter.json) |
@@ -5573,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
 | Fist of Brave | 86231 | [86231-fist-of-brave.json](./86231-fist-of-brave.json) |
+| Fist of Goal | 416340 | [416340-fist-of-goal.json](./416340-fist-of-goal.json) |
 | Fist of Heaven & Hell | 120117 | [120117-fist-of-heaven-and-hell.json](./120117-fist-of-heaven-and-hell.json) |
 | Fist of Physics | 32130 | [32130-fist-of-physics.json](./32130-fist-of-physics.json) |
 | Fist of the North Star | 172517 | [172517-fist-of-the-north-star.json](./172517-fist-of-the-north-star.json) |
