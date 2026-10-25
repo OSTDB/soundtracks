@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paletta | 133822 | [133822-paletta.json](./133822-paletta.json) |
 | Palette | 62668 | [62668-palette.json](./62668-palette.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
+| Palette: Glass Shard Mosaic | 410046 | [410046-palette-glass-shard-mosaic.json](./410046-palette-glass-shard-mosaic.json) |
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
 | Palhalla | 285921 | [285921-palhalla.json](./285921-palhalla.json) |
 | Palia: The Elderwood | 348035 | [348035-palia-the-elderwood.json](./348035-palia-the-elderwood.json) |
@@ -4911,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick a Hero | 32442 | [32442-pick-a-hero.json](./32442-pick-a-hero.json) |
 | Pick and Learn - Easy Learning for Kids | 106015 | [106015-pick-and-learn-easy-learning-for-kids.json](./106015-pick-and-learn-easy-learning-for-kids.json) |
 | Pick Ball | 404428 | [404428-pick-ball.json](./404428-pick-ball.json) |
+| Pick Me Chance | 410018 | [410018-pick-me-chance.json](./410018-pick-me-chance.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
 | Pick me up! Rescue Rangers | 147822 | [147822-pick-me-up-rescue-rangers.json](./147822-pick-me-up-rescue-rangers.json) |
 | Pick me! Visual Novel | 349293 | [349293-pick-me-visual-novel.json](./349293-pick-me-visual-novel.json) |
@@ -11280,6 +11282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PPDD | 121266 | [121266-ppdd.json](./121266-ppdd.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
 | PPP | 259093 | [259093-ppp.json](./259093-ppp.json) |
+| Pppoker | 410010 | [410010-pppoker.json](./410010-pppoker.json) |
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | PQ2: Practical Intelligence Quotient 2 | 44506 | [44506-pq2-practical-intelligence-quotient-2.json](./44506-pq2-practical-intelligence-quotient-2.json) |
