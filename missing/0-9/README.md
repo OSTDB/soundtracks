@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77 Oleander Avenue Ghost House Investigation | 205674 | [205674-77-oleander-avenue-ghost-house-investigation.json](./205674-77-oleander-avenue-ghost-house-investigation.json) |
 | 77: Beyond the Milky Way | 58053 | [58053-77-beyond-the-milky-way.json](./58053-77-beyond-the-milky-way.json) |
 | 771 | 416809 | [416809-771.json](./416809-771.json) |
+| 7743 | 412624 | [412624-7743.json](./412624-7743.json) |
 | 7776 II: Dwarven Greed | 122259 | [122259-7776-ii-dwarven-greed.json](./122259-7776-ii-dwarven-greed.json) |
 | 77p Egg: Cubicle 77 | 377403 | [377403-77p-egg-cubicle-77.json](./377403-77p-egg-cubicle-77.json) |
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
