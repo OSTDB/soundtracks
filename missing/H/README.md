@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsukoi Monogatari | 330102 | [330102-hatsukoi-monogatari.json](./330102-hatsukoi-monogatari.json) |
 | Hatsukoi Monogatari | 330209 | [330209-hatsukoi-monogatari.json](./330209-hatsukoi-monogatari.json) |
+| Hatsukoi, Mikan ni Tsuki Tsuzuku | 394076 | [394076-hatsukoi-mikan-ni-tsuki-tsuzuku.json](./394076-hatsukoi-mikan-ni-tsuki-tsuzuku.json) |
 | Hatsukoi! | 122109 | [122109-hatsukoi.json](./122109-hatsukoi.json) |
 | Hatsumira: From the Future Undying | 197543 | [197543-hatsumira-from-the-future-undying.json](./197543-hatsumira-from-the-future-undying.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
@@ -4006,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Valentine Is Streaming | 389612 | [389612-hentai-clicker-valentine-is-streaming.json](./389612-hentai-clicker-valentine-is-streaming.json) |
 | Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
 | Hentai Climber | 365418 | [365418-hentai-climber.json](./365418-hentai-climber.json) |
+| Hentai Collection 4-in-1 | 394392 | [394392-hentai-collection-4-in-1.json](./394392-hentai-collection-4-in-1.json) |
 | Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
 | Hentai Cookie | 365419 | [365419-hentai-cookie.json](./365419-hentai-cookie.json) |
 | Hentai Cosplay Elf | 286442 | [286442-hentai-cosplay-elf.json](./286442-hentai-cosplay-elf.json) |
@@ -4196,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
 | Hentai House | 365438 | [365438-hentai-house.json](./365438-hentai-house.json) |
 | Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
+| Hentai House: Mystery Rooms | 394566 | [394566-hentai-house-mystery-rooms.json](./394566-hentai-house-mystery-rooms.json) |
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
 | Hentai House: Puzzle Nights | 399645 | [399645-hentai-house-puzzle-nights.json](./399645-hentai-house-puzzle-nights.json) |
 | Hentai Hunter | 272223 | [272223-hentai-hunter.json](./272223-hentai-hunter.json) |
@@ -4265,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Minesweeper | 353207 | [353207-hentai-minesweeper.json](./353207-hentai-minesweeper.json) |
 | Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
 | Hentai MineSweeper: Endless Mode | 146281 | [146281-hentai-minesweeper-endless-mode.json](./146281-hentai-minesweeper-endless-mode.json) |
+| Hentai Misaki | 393929 | [393929-hentai-misaki.json](./393929-hentai-misaki.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
 | Hentai Mommy | 379652 | [379652-hentai-mommy.json](./379652-hentai-mommy.json) |
 | Hentai Morgana | 411072 | [411072-hentai-morgana.json](./411072-hentai-morgana.json) |
@@ -6038,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide & Chick | 206196 | [206196-hide-and-chick.json](./206196-hide-and-chick.json) |
 | Hide & Dance! | 146759 | [146759-hide-and-dance.json](./146759-hide-and-dance.json) |
 | Hide & Hold Out - H2o | 20463 | [20463-hide-and-hold-out-h2o.json](./20463-hide-and-hold-out-h2o.json) |
+| Hide & Scream | 394085 | [394085-hide-and-scream.json](./394085-hide-and-scream.json) |
 | Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
 | Hide & Spook: The Haunted Alchemist | 32722 | [32722-hide-and-spook-the-haunted-alchemist.json](./32722-hide-and-spook-the-haunted-alchemist.json) |
@@ -7818,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Moonshade Epic | 276424 | [276424-honkai-impact-3rd-moonshade-epic.json](./276424-honkai-impact-3rd-moonshade-epic.json) |
 | Honkai Impact 3rd: Ninja's Noir | 281572 | [281572-honkai-impact-3rd-ninjas-noir.json](./281572-honkai-impact-3rd-ninjas-noir.json) |
 | Honkai Impact 3rd: Part 2 - Extinguished Starlight and Rekindled Fire | 269737 | [269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json](./269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json) |
+| Honkai Impact 3rd: Passage to New Dawns | 393908 | [393908-honkai-impact-3rd-passage-to-new-dawns.json](./393908-honkai-impact-3rd-passage-to-new-dawns.json) |
 | Honkai Impact 3rd: Planetary Rewind | 319450 | [319450-honkai-impact-3rd-planetary-rewind.json](./319450-honkai-impact-3rd-planetary-rewind.json) |
 | Honkai Impact 3rd: Post-Dusk Odyssey | 276501 | [276501-honkai-impact-3rd-post-dusk-odyssey.json](./276501-honkai-impact-3rd-post-dusk-odyssey.json) |
 | Honkai Impact 3rd: Pristine Realm | 276504 | [276504-honkai-impact-3rd-pristine-realm.json](./276504-honkai-impact-3rd-pristine-realm.json) |
@@ -8488,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
 | Hospital | 261662 | [261662-hospital.json](./261662-hospital.json) |
+| Hospital & Animal Care Collection: 3 Game Bundle | 394568 | [394568-hospital-and-animal-care-collection-3-game-bundle.json](./394568-hospital-and-animal-care-collection-3-game-bundle.json) |
 | Hospital 9 | 123818 | [123818-hospital-9.json](./123818-hospital-9.json) |
 | Hospital 9: Mai's Report | 174174 | [174174-hospital-9-mais-report.json](./174174-hospital-9-mais-report.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
@@ -10052,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
 | Hwaet! The Vercelli Book Saga | 403085 | [403085-hwaet-the-vercelli-book-saga.json](./403085-hwaet-the-vercelli-book-saga.json) |
 | Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
+| HWTC: Happy Worker Tool Company | 394427 | [394427-hwtc-happy-worker-tool-company.json](./394427-hwtc-happy-worker-tool-company.json) |
 | HWY 17 | 252093 | [252093-hwy-17.json](./252093-hwy-17.json) |
 | HWY Chase | 198122 | [198122-hwy-chase.json](./198122-hwy-chase.json) |
 | HWY3310 | 182786 | [182786-hwy3310.json](./182786-hwy3310.json) |
