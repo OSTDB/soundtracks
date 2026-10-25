@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gig Crawler | 334347 | [334347-gig-crawler.json](./334347-gig-crawler.json) |
 | Gig Life | 198449 | [198449-gig-life.json](./198449-gig-life.json) |
 | Gig Life Tycoon | 256173 | [256173-gig-life-tycoon.json](./256173-gig-life-tycoon.json) |
+| Giga Digger | 423890 | [423890-giga-digger.json](./423890-giga-digger.json) |
 | Giga Fighters Batman & Robin | 218016 | [218016-giga-fighters-batman-and-robin.json](./218016-giga-fighters-batman-and-robin.json) |
 | Giga Fighters WCW/nWo | 218017 | [218017-giga-fighters-wcw-nwo.json](./218017-giga-fighters-wcw-nwo.json) |
 | Giga Pets Plus: Rugrats | 198880 | [198880-giga-pets-plus-rugrats.json](./198880-giga-pets-plus-rugrats.json) |
@@ -5898,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore | 263419 | [263419-gore.json](./263419-gore.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
+| Gore Grind | 423867 | [423867-gore-grind.json](./423867-gore-grind.json) |
 | Gore Screaming Show | 224168 | [224168-gore-screaming-show.json](./224168-gore-screaming-show.json) |
 | Gore: Ultimate Soldier | 46969 | [46969-gore-ultimate-soldier.json](./46969-gore-ultimate-soldier.json) |
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
