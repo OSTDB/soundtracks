@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.U.M.A | 30619 | [30619-r-u-m-a.json](./30619-r-u-m-a.json) |
 | R.U.N | 166292 | [166292-r-u-n.json](./166292-r-u-n.json) |
 | R.U.R.U.R.: Petit Prince | 59363 | [59363-r-u-r-u-r-petit-prince.json](./59363-r-u-r-u-r-petit-prince.json) |
+| R.U.S.E.: The Chimera Pack | 400743 | [400743-r-u-s-e-the-chimera-pack.json](./400743-r-u-s-e-the-chimera-pack.json) |
 | R.U.S.H.: Rival Ultimate Steel Hand | 395527 | [395527-r-u-s-h-rival-ultimate-steel-hand.json](./395527-r-u-s-h-rival-ultimate-steel-hand.json) |
 | R'lyeh Assault | 230194 | [230194-rlyeh-assault.json](./230194-rlyeh-assault.json) |
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
@@ -9028,6 +9029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomscale Coaster | 29479 | [29479-roomscale-coaster.json](./29479-roomscale-coaster.json) |
 | Roomscale Tower | 31984 | [31984-roomscale-tower.json](./31984-roomscale-tower.json) |
 | Roomservice | 194840 | [194840-roomservice.json](./194840-roomservice.json) |
+| Roomspeed | 400848 | [400848-roomspeed.json](./400848-roomspeed.json) |
 | Rooniverse | 214984 | [214984-rooniverse.json](./214984-rooniverse.json) |
 | Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
 | Roost | 220147 | [220147-roost.json](./220147-roost.json) |
@@ -10195,6 +10197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Train 2D | 400908 | [400908-runaway-train-2d.json](./400908-runaway-train-2d.json) |
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
+| Runback | 400815 | [400815-runback.json](./400815-runback.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
 | Rune | 3085 | [3085-rune.json](./3085-rune.json) |
