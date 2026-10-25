@@ -7313,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
+| Pizza No Pizza | 390986 | [390986-pizza-no-pizza.json](./390986-pizza-no-pizza.json) |
 | Pizza Nostra | 171527 | [171527-pizza-nostra.json](./171527-pizza-nostra.json) |
 | Pizza Now! | 420178 | [420178-pizza-now.json](./420178-pizza-now.json) |
 | Pizza Panic | 70202 | [70202-pizza-panic.json](./70202-pizza-panic.json) |
