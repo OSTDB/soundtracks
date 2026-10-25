@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Magic Chips | 119619 | [119619-mahjong-magic-chips.json](./119619-mahjong-magic-chips.json) |
 | MahJong: Medieval Fantasy | 171511 | [171511-mahjong-medieval-fantasy.json](./171511-mahjong-medieval-fantasy.json) |
 | Mahjong: Mystery Mansion | 107068 | [107068-mahjong-mystery-mansion.json](./107068-mahjong-mystery-mansion.json) |
+| Mahjong: Orient Mysteries | 402736 | [402736-mahjong-orient-mysteries.json](./402736-mahjong-orient-mysteries.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mahjongg 4 Deluxe | 24757 | [24757-mahjongg-4-deluxe.json](./24757-mahjongg-4-deluxe.json) |
 | Mahjongg Artifacts: Chapter 2 | 66978 | [66978-mahjongg-artifacts-chapter-2.json](./66978-mahjongg-artifacts-chapter-2.json) |
@@ -9886,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Teazzer | 4306 | [4306-mind-teazzer.json](./4306-mind-teazzer.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mind the Clown | 349094 | [349094-mind-the-clown.json](./349094-mind-the-clown.json) |
+| Mind The Crates | 402738 | [402738-mind-the-crates.json](./402738-mind-the-crates.json) |
 | Mind the Dragon | 347011 | [347011-mind-the-dragon.json](./347011-mind-the-dragon.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
@@ -14756,6 +14758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto Shiritai Karada no Hatena | 261370 | [261370-motto-shiritai-karada-no-hatena.json](./261370-motto-shiritai-karada-no-hatena.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto Shiritai Nippon no Meijou | 261369 | [261369-motto-shiritai-nippon-no-meijou.json](./261369-motto-shiritai-nippon-no-meijou.json) |
+| Motto Trump Shiyouyo! i-Mode de Grand Prix | 402735 | [402735-motto-trump-shiyouyo-i-mode-de-grand-prix.json](./402735-motto-trump-shiyouyo-i-mode-de-grand-prix.json) |
 | Motto! Nyan to Wonderful 2 | 419631 | [419631-motto-nyan-to-wonderful-2.json](./419631-motto-nyan-to-wonderful-2.json) |
 | Motto! SoniComi | 93600 | [93600-motto-sonicomi.json](./93600-motto-sonicomi.json) |
 | Motto! Stitch! DS: Rhythm de Rakugaki Daisakusen | 98569 | [98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json](./98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json) |
@@ -17808,6 +17811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
 | Mystery of Myths: Heart of Athens - Collector's Edition | 337258 | [337258-mystery-of-myths-heart-of-athens-collectors-edition.json](./337258-mystery-of-myths-heart-of-athens-collectors-edition.json) |
 | Mystery of Myths: Mystery of the Fjords - Collector's Edition | 356775 | [356775-mystery-of-myths-mystery-of-the-fjords-collectors-edition.json](./356775-mystery-of-myths-mystery-of-the-fjords-collectors-edition.json) |
+| Mystery of Myths: Whisper of Depth - Collector's Edition | 402730 | [402730-mystery-of-myths-whisper-of-depth-collectors-edition.json](./402730-mystery-of-myths-whisper-of-depth-collectors-edition.json) |
 | Mystery of the Ancients: Curse of the Black Water | 140235 | [140235-mystery-of-the-ancients-curse-of-the-black-water.json](./140235-mystery-of-the-ancients-curse-of-the-black-water.json) |
 | Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
 | Mystery of the Ancients: Deadly Cold | 140236 | [140236-mystery-of-the-ancients-deadly-cold.json](./140236-mystery-of-the-ancients-deadly-cold.json) |
