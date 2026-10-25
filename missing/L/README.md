@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Gardien du Savoir | 340553 | [340553-le-gardien-du-savoir.json](./340553-le-gardien-du-savoir.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Havre: The Inland Port | 24027 | [24027-le-havre-the-inland-port.json](./24027-le-havre-the-inland-port.json) |
+| Le jeu du chômeur | 387285 | [387285-le-jeu-du-chomeur.json](./387285-le-jeu-du-chomeur.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
 | Le Maître des Âmes | 94596 | [94596-le-maitre-des-ames.json](./94596-le-maitre-des-ames.json) |
 | Le Manoir | 385441 | [385441-le-manoir.json](./385441-le-manoir.json) |
@@ -6812,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lost Lost | 330507 | [330507-lost-lost-lost.json](./330507-lost-lost-lost.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Luggage | 18501 | [18501-lost-luggage.json](./18501-lost-luggage.json) |
+| Lost Lures | 387302 | [387302-lost-lures.json](./387302-lost-lures.json) |
 | Lost Luxury | 268896 | [268896-lost-luxury.json](./268896-lost-luxury.json) |
 | Lost Manor | 302190 | [302190-lost-manor.json](./302190-lost-manor.json) |
 | Lost Marbles | 36365 | [36365-lost-marbles.json](./36365-lost-marbles.json) |
