@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
 | Abbot's Book | 92095 | [92095-abbots-book.json](./92095-abbots-book.json) |
 | Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
+| Abby Monkey Basic Skills Pre K | 88921 | [88921-abby-monkey-basic-skills-pre-k.json](./88921-abby-monkey-basic-skills-pre-k.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
 | Abby Normalli in Mayhem Mansion | 377424 | [377424-abby-normalli-in-mayhem-mansion.json](./377424-abby-normalli-in-mayhem-mansion.json) |
 | Abbys Endless Adventure | 77591 | [77591-abbys-endless-adventure.json](./77591-abbys-endless-adventure.json) |
@@ -1527,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abhay | 377430 | [377430-abhay.json](./377430-abhay.json) |
+| Abi: A Robot's Tale | 88929 | [88929-abi-a-robots-tale.json](./88929-abi-a-robots-tale.json) |
 | Abide | 389091 | [389091-abide.json](./389091-abide.json) |
 | Abide With Me | 179614 | [179614-abide-with-me.json](./179614-abide-with-me.json) |
 | Abigail | 377429 | [377429-abigail.json](./377429-abigail.json) |
@@ -5854,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Is Dust | 35171 | [35171-all-is-dust.json](./35171-all-is-dust.json) |
 | All is Fair in Dust and Air | 142266 | [142266-all-is-fair-in-dust-and-air.json](./142266-all-is-fair-in-dust-and-air.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
+| All is Lost | 87734 | [87734-all-is-lost.json](./87734-all-is-lost.json) |
 | All Japan Super Bombliss Cup '95 | 150163 | [150163-all-japan-super-bombliss-cup-95.json](./150163-all-japan-super-bombliss-cup-95.json) |
 | All Japan Super Bombliss Cup '95: Dai-1-kai | 179707 | [179707-all-japan-super-bombliss-cup-95-dai-1-kai.json](./179707-all-japan-super-bombliss-cup-95-dai-1-kai.json) |
 | All Japan Super Bombliss Cup '95: Dai-2-kai | 179708 | [179708-all-japan-super-bombliss-cup-95-dai-2-kai.json](./179708-all-japan-super-bombliss-cup-95-dai-2-kai.json) |
@@ -6630,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Bumpman | 12292 | [12292-amazing-bumpman.json](./12292-amazing-bumpman.json) |
 | Amazing Cat Saves the World From Space Blobs | 185460 | [185460-amazing-cat-saves-the-world-from-space-blobs.json](./185460-amazing-cat-saves-the-world-from-space-blobs.json) |
 | Amazing Chicken Adventures | 173262 | [173262-amazing-chicken-adventures.json](./173262-amazing-chicken-adventures.json) |
+| Amazing City: Frog Adventures | 87512 | [87512-amazing-city-frog-adventures.json](./87512-amazing-city-frog-adventures.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Amazing Cruise: Mediterranean | 416878 | [416878-amazing-cruise-mediterranean.json](./416878-amazing-cruise-mediterranean.json) |
 | Amazing Cultivation Simulator | 127939 | [127939-amazing-cultivation-simulator.json](./127939-amazing-cultivation-simulator.json) |
