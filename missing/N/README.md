@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebulus | 7817 | [7817-nebulus.json](./7817-nebulus.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necessary Force | 68014 | [68014-necessary-force.json](./68014-necessary-force.json) |
+| Nechromia | 411289 | [411289-nechromia.json](./411289-nechromia.json) |
 | Neck-N-Neck | 40381 | [40381-neck-n-neck.json](./40381-neck-n-neck.json) |
 | Neckbeardia | 121288 | [121288-neckbeardia.json](./121288-neckbeardia.json) |
 | Neckbeards: Basement Arena | 36699 | [36699-neckbeards-basement-arena.json](./36699-neckbeards-basement-arena.json) |
@@ -2671,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Citizen | 224690 | [224690-new-citizen.json](./224690-new-citizen.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
 | New Colony | 129521 | [129521-new-colony.json](./129521-new-colony.json) |
+| New Danganronpa: Paint the Town Nude | 411318 | [411318-new-danganronpa-paint-the-town-nude.json](./411318-new-danganronpa-paint-the-town-nude.json) |
 | New Dawn | 168074 | [168074-new-dawn.json](./168074-new-dawn.json) |
 | New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
 | New Dawn Protocol | 416562 | [416562-new-dawn-protocol.json](./416562-new-dawn-protocol.json) |
