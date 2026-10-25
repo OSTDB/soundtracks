@@ -11683,6 +11683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: Food Truck Tycoon Asian Cuisine | 260035 | [260035-cooking-arena-food-truck-tycoon-asian-cuisine.json](./260035-cooking-arena-food-truck-tycoon-asian-cuisine.json) |
 | Cooking Arena: Pancake Bar Tycoon | 260039 | [260039-cooking-arena-pancake-bar-tycoon.json](./260039-cooking-arena-pancake-bar-tycoon.json) |
 | Cooking Arena: Pizza Bar Tycoon | 260038 | [260038-cooking-arena-pizza-bar-tycoon.json](./260038-cooking-arena-pizza-bar-tycoon.json) |
+| Cooking Arena: Platinum Edition | 386800 | [386800-cooking-arena-platinum-edition.json](./386800-cooking-arena-platinum-edition.json) |
 | Cooking Arena: Salad Bar Tycoon | 260041 | [260041-cooking-arena-salad-bar-tycoon.json](./260041-cooking-arena-salad-bar-tycoon.json) |
 | Cooking Arena: Sushi Master | 308810 | [308810-cooking-arena-sushi-master.json](./308810-cooking-arena-sushi-master.json) |
 | Cooking Arena: Sushi Time! | 260040 | [260040-cooking-arena-sushi-time.json](./260040-cooking-arena-sushi-time.json) |
@@ -11745,6 +11746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons: 3 in 1 Bundle - Silver Edition | 412586 | [412586-cooking-tycoons-3-in-1-bundle-silver-edition.json](./412586-cooking-tycoons-3-in-1-bundle-silver-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle Diamond Edition | 410854 | [410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json](./410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle Elite Edition | 404275 | [404275-cooking-tycoons-3-in-1-bundle-elite-edition.json](./404275-cooking-tycoons-3-in-1-bundle-elite-edition.json) |
+| Cooking Tycoons: 3 in 1 Bundle The Ultimate Pizzeria | 386801 | [386801-cooking-tycoons-3-in-1-bundle-the-ultimate-pizzeria.json](./386801-cooking-tycoons-3-in-1-bundle-the-ultimate-pizzeria.json) |
 | Cooking Voyage: Cook & Travel | 233494 | [233494-cooking-voyage-cook-and-travel.json](./233494-cooking-voyage-cook-and-travel.json) |
 | Cooking Witch | 28741 | [28741-cooking-witch.json](./28741-cooking-witch.json) |
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
@@ -13810,6 +13812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Sports Bundle | 82457 | [82457-crazy-sports-bundle.json](./82457-crazy-sports-bundle.json) |
 | Crazy Sprint | 256461 | [256461-crazy-sprint.json](./256461-crazy-sprint.json) |
 | Crazy Squares: Milk River Run | 365889 | [365889-crazy-squares-milk-river-run.json](./365889-crazy-squares-milk-river-run.json) |
+| Crazy Stars: Rhythm Party | 386778 | [386778-crazy-stars-rhythm-party.json](./386778-crazy-stars-rhythm-party.json) |
 | Crazy Stars: Sport Climbing | 312081 | [312081-crazy-stars-sport-climbing.json](./312081-crazy-stars-sport-climbing.json) |
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
 | Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
