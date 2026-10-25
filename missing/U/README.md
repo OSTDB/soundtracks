@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UrlX | 350541 | [350541-urlx.json](./350541-urlx.json) |
 | Urmels großer Flug | 410090 | [410090-urmels-gro-er-flug.json](./410090-urmels-gro-er-flug.json) |
 | Uro2 | 125121 | [125121-uro2.json](./125121-uro2.json) |
+| Uroboros | 399020 | [399020-uroboros.json](./399020-uroboros.json) |
 | Urok | 319766 | [319766-urok.json](./319766-urok.json) |
 | Urok | 380735 | [380735-urok.json](./380735-urok.json) |
 | Uropa 2: The Ulterior Colony | 91822 | [91822-uropa-2-the-ulterior-colony.json](./91822-uropa-2-the-ulterior-colony.json) |
