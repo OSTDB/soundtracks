@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factorio: Space Exploration | 314004 | [314004-factorio-space-exploration.json](./314004-factorio-space-exploration.json) |
 | Factorio: UltraCube | 326050 | [326050-factorio-ultracube.json](./326050-factorio-ultracube.json) |
 | Factorized | 421349 | [421349-factorized.json](./421349-factorized.json) |
+| Factory | 400736 | [400736-factory.json](./400736-factory.json) |
 | Factory & Roof Collection | 328529 | [328529-factory-and-roof-collection.json](./328529-factory-and-roof-collection.json) |
 | Factory Balls | 224951 | [224951-factory-balls.json](./224951-factory-balls.json) |
 | Factory Balls | 87256 | [87256-factory-balls.json](./87256-factory-balls.json) |
@@ -1973,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far North Survival | 146065 | [146065-far-north-survival.json](./146065-far-north-survival.json) |
 | Far Out: Selene | 258028 | [258028-far-out-selene.json](./258028-far-out-selene.json) |
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
+| Far Side Moon: Chikyuu Boueigun II | 400832 | [400832-far-side-moon-chikyuu-boueigun-ii.json](./400832-far-side-moon-chikyuu-boueigun-ii.json) |
 | Far Side of the Mirror | 368511 | [368511-far-side-of-the-mirror.json](./368511-far-side-of-the-mirror.json) |
 | Far Space | 91005 | [91005-far-space.json](./91005-far-space.json) |
 | Far Space VR | 29449 | [29449-far-space-vr.json](./29449-far-space-vr.json) |
