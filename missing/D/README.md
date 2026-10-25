@@ -3259,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Z Meat | 147083 | [147083-dead-z-meat.json](./147083-dead-z-meat.json) |
 | Dead Zed | 122128 | [122128-dead-zed.json](./122128-dead-zed.json) |
 | Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
+| Dead Zombie | 386815 | [386815-dead-zombie.json](./386815-dead-zombie.json) |
 | Dead Zombie Shooter | 224070 | [224070-dead-zombie-shooter.json](./224070-dead-zombie-shooter.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
 | Dead Zone | 41278 | [41278-dead-zone.json](./41278-dead-zone.json) |
@@ -11496,6 +11497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dovetail Games: Euro Fishing | 17666 | [17666-dovetail-games-euro-fishing.json](./17666-dovetail-games-euro-fishing.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | Down | 295887 | [295887-down.json](./295887-down.json) |
+| Down Among the Dead Men | 386779 | [386779-down-among-the-dead-men.json](./386779-down-among-the-dead-men.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down Fall | 203246 | [203246-down-fall.json](./203246-down-fall.json) |
 | Down Fast VR | 203937 | [203937-down-fast-vr.json](./203937-down-fast-vr.json) |
