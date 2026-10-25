@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
 | Lalli | 311161 | [311161-lalli.json](./311161-lalli.json) |
 | Lam Lam | 223317 | [223317-lam-lam.json](./223317-lam-lam.json) |
+| Lam's Untitled Neon | 399027 | [399027-lams-untitled-neon.json](./399027-lams-untitled-neon.json) |
 | Lama Azavtani | 151446 | [151446-lama-azavtani.json](./151446-lama-azavtani.json) |
 | Lama by Reiner Knizia | 223602 | [223602-lama-by-reiner-knizia.json](./223602-lama-by-reiner-knizia.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
@@ -3296,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter To A Friend | 251451 | [251451-letter-to-a-friend.json](./251451-letter-to-a-friend.json) |
 | Letter to a Landlord | 309345 | [309345-letter-to-a-landlord.json](./309345-letter-to-a-landlord.json) |
 | Letter to Neml | 392710 | [392710-letter-to-neml.json](./392710-letter-to-neml.json) |
+| Letter Trek | 399036 | [399036-letter-trek.json](./399036-letter-trek.json) |
 | Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
 | Letter Wizard | 175856 | [175856-letter-wizard.json](./175856-letter-wizard.json) |
 | Letter Zap! | 70430 | [70430-letter-zap.json](./70430-letter-zap.json) |
@@ -3346,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levania | 367018 | [367018-levania.json](./367018-levania.json) |
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
 | Levantera: Tale of The Winds | 71598 | [71598-levantera-tale-of-the-winds.json](./71598-levantera-tale-of-the-winds.json) |
+| Levate | 399038 | [399038-levate.json](./399038-levate.json) |
 | Levedad | 176244 | [176244-levedad.json](./176244-levedad.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
 | Level 13 | 406273 | [406273-level-13.json](./406273-level-13.json) |
@@ -7049,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love at First Sight | 342424 | [342424-love-at-first-sight.json](./342424-love-at-first-sight.json) |
 | Love at First Sight | 35697 | [35697-love-at-first-sight.json](./35697-love-at-first-sight.json) |
 | Love At First Squeak | 251068 | [251068-love-at-first-squeak.json](./251068-love-at-first-squeak.json) |
+| Love at the RatbagTrash Cabin! | 399040 | [399040-love-at-the-ratbagtrash-cabin.json](./399040-love-at-the-ratbagtrash-cabin.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
 | Love Balls | 100812 | [100812-love-balls.json](./100812-love-balls.json) |
