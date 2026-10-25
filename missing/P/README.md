@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P4st3l | 297357 | [297357-p4st3l.json](./297357-p4st3l.json) |
 | P9: The GateAway | 129093 | [129093-p9-the-gateaway.json](./129093-p9-the-gateaway.json) |
 | På Ekspedition i Bibelen | 129775 | [129775-pa-ekspedition-i-bibelen.json](./129775-pa-ekspedition-i-bibelen.json) |
+| På Sporet af Jesus | 396002 | [396002-pa-sporet-af-jesus.json](./396002-pa-sporet-af-jesus.json) |
 | PA-3 X Pac-Man Special Game | 219446 | [219446-pa-3-x-pac-man-special-game.json](./219446-pa-3-x-pac-man-special-game.json) |
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
 | PABG: Player Anime Battlegrounds | 393107 | [393107-pabg-player-anime-battlegrounds.json](./393107-pabg-player-anime-battlegrounds.json) |
@@ -9426,6 +9427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
 | Pokémon Trading Card Game Pocket: Eevee Grove | 350768 | [350768-pokemon-trading-card-game-pocket-eevee-grove.json](./350768-pokemon-trading-card-game-pocket-eevee-grove.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
+| Pokémon Trading Card Game Pocket: Mega Shine | 395990 | [395990-pokemon-trading-card-game-pocket-mega-shine.json](./395990-pokemon-trading-card-game-pocket-mega-shine.json) |
 | Pokémon Trading Card Game Pocket: Mythical Island | 328294 | [328294-pokemon-trading-card-game-pocket-mythical-island.json](./328294-pokemon-trading-card-game-pocket-mythical-island.json) |
 | Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
 | Pokémon Trading Card Game Pocket: Pulsing Aura | 401264 | [401264-pokemon-trading-card-game-pocket-pulsing-aura.json](./401264-pokemon-trading-card-game-pocket-pulsing-aura.json) |
@@ -10417,6 +10419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Pop | 209956 | [209956-popn-pop.json](./209956-popn-pop.json) |
 | Pop'n Pop | 64307 | [64307-popn-pop.json](./64307-popn-pop.json) |
 | Pop'n pop globos | 50060 | [50060-popn-pop-globos.json](./50060-popn-pop-globos.json) |
+| Pop'n rhythmin | 395964 | [395964-popn-rhythmin.json](./395964-popn-rhythmin.json) |
 | Pop'n Stage EX | 314354 | [314354-popn-stage-ex.json](./314354-popn-stage-ex.json) |
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
 | Pop'n Tanks | 43801 | [43801-popn-tanks.json](./43801-popn-tanks.json) |
