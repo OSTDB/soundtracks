@@ -4487,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
 | Sengoku Rance | 37138 | [37138-sengoku-rance.json](./37138-sengoku-rance.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
+| Sengoku Taisen | 393579 | [393579-sengoku-taisen.json](./393579-sengoku-taisen.json) |
 | Sengoku Tenka Touitsu | 69195 | [69195-sengoku-tenka-touitsu.json](./69195-sengoku-tenka-touitsu.json) |
 | Sengoku Turb | 246940 | [246940-sengoku-turb.json](./246940-sengoku-turb.json) |
 | Sengoku Turb: Fanfan I Heart Me Dunce-Doublentendre | 142401 | [142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json](./142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json) |
@@ -6736,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki | 125100 | [125100-shiki.json](./125100-shiki.json) |
 | Shiki Eiyuuden: Hito Ryuu Densetsu | 58589 | [58589-shiki-eiyuuden-hito-ryuu-densetsu.json](./58589-shiki-eiyuuden-hito-ryuu-densetsu.json) |
+| Shiki no Kyouken | 393555 | [393555-shiki-no-kyouken.json](./393555-shiki-no-kyouken.json) |
 | Shiki no Kyouken: Kanna Zekkei | 147339 | [147339-shiki-no-kyouken-kanna-zekkei.json](./147339-shiki-no-kyouken-kanna-zekkei.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daiisshou | 240302 | [240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json](./240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
@@ -6760,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shima Shima Tora no Shimajiro: Tanoshi Ichinichi | 54946 | [54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json](./54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json) |
 | Shimagami | 342015 | [342015-shimagami.json](./342015-shimagami.json) |
 | Shimai no Omoide | 283824 | [283824-shimai-no-omoide.json](./283824-shimai-no-omoide.json) |
+| Shimaigusa | 393339 | [393339-shimaigusa.json](./393339-shimaigusa.json) |
 | Shimaise | 109183 | [109183-shimaise.json](./109183-shimaise.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
@@ -8122,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Girl | 226198 | [226198-shy-girl.json](./226198-shy-girl.json) |
 | Shy Girl's Makeover | 295148 | [295148-shy-girls-makeover.json](./295148-shy-girls-makeover.json) |
 | Shy Guy Surfing | 310662 | [310662-shy-guy-surfing.json](./310662-shy-guy-surfing.json) |
+| Shybot | 393473 | [393473-shybot.json](./393473-shybot.json) |
 | ShyChess | 106495 | [106495-shychess.json](./106495-shychess.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Si Da Ming Bu | 93387 | [93387-si-da-ming-bu.json](./93387-si-da-ming-bu.json) |
@@ -8404,10 +8408,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads World: Act 3 - Alonzo's Reinforcement | 229949 | [229949-sift-heads-world-act-3-alonzos-reinforcement.json](./229949-sift-heads-world-act-3-alonzos-reinforcement.json) |
 | Sift Heads: Cartels 4 | 414489 | [414489-sift-heads-cartels-4.json](./414489-sift-heads-cartels-4.json) |
 | Sift Heads: Legendary Pack | 311993 | [311993-sift-heads-legendary-pack.json](./311993-sift-heads-legendary-pack.json) |
+| Sift Heads: The Hidden Chapter | 393355 | [393355-sift-heads-the-hidden-chapter.json](./393355-sift-heads-the-hidden-chapter.json) |
 | Sift Renegade | 393397 | [393397-sift-renegade.json](./393397-sift-renegade.json) |
 | Sift Renegade 2 | 393399 | [393399-sift-renegade-2.json](./393399-sift-renegade-2.json) |
 | Sift Renegade 3 | 393400 | [393400-sift-renegade-3.json](./393400-sift-renegade-3.json) |
 | Sift Renegade 3 Defiance | 393401 | [393401-sift-renegade-3-defiance.json](./393401-sift-renegade-3-defiance.json) |
+| Sift With Shorty | 393429 | [393429-sift-with-shorty.json](./393429-sift-with-shorty.json) |
+| Sift With Shorty X-Mess | 393430 | [393430-sift-with-shorty-x-mess.json](./393430-sift-with-shorty-x-mess.json) |
 | Sifu | 144022 | [144022-sifu.json](./144022-sifu.json) |
 | Sifu: Arenas | 240171 | [240171-sifu-arenas.json](./240171-sifu-arenas.json) |
 | Sifu: Deluxe Edition | 169165 | [169165-sifu-deluxe-edition.json](./169165-sifu-deluxe-edition.json) |
@@ -8656,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scream II: The Bride | 312211 | [312211-silent-scream-ii-the-bride.json](./312211-silent-scream-ii-the-bride.json) |
 | Silent Sector | 132554 | [132554-silent-sector.json](./132554-silent-sector.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
+| Silent Service | 393329 | [393329-silent-service.json](./393329-silent-service.json) |
 | Silent Service 1 + 2 | 154240 | [154240-silent-service-1-2.json](./154240-silent-service-1-2.json) |
 | Silent Service II | 8826 | [8826-silent-service-ii.json](./8826-silent-service-ii.json) |
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
@@ -10013,6 +10021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski-Doo: Snowmobile Challenge | 5158 | [5158-ski-doo-snowmobile-challenge.json](./5158-ski-doo-snowmobile-challenge.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
 | Ski-On-Neon | 65340 | [65340-ski-on-neon.json](./65340-ski-on-neon.json) |
+| Ski-Street Serenade | 393372 | [393372-ski-street-serenade.json](./393372-ski-street-serenade.json) |
 | Ski-World Simulator | 36395 | [36395-ski-world-simulator.json](./36395-ski-world-simulator.json) |
 | Ski-World Simulator 2012 | 54364 | [54364-ski-world-simulator-2012.json](./54364-ski-world-simulator-2012.json) |
 | Skibi's Castle TD 2 | 348357 | [348357-skibis-castle-td-2.json](./348357-skibis-castle-td-2.json) |
@@ -13777,6 +13786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
 | Solstice | 36253 | [36253-solstice.json](./36253-solstice.json) |
+| Solstice | 393587 | [393587-solstice.json](./393587-solstice.json) |
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
 | Solstice: Digital Collector's Edition | 154447 | [154447-solstice-digital-collectors-edition.json](./154447-solstice-digital-collectors-edition.json) |
 | Solstride | 381210 | [381210-solstride.json](./381210-solstride.json) |
@@ -15441,6 +15451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
 | Soulstonia | 415792 | [415792-soulstonia.json](./415792-soulstonia.json) |
 | Soulstopia: Phi | 173212 | [173212-soulstopia-phi.json](./173212-soulstopia-phi.json) |
+| SoulStream Saga | 393438 | [393438-soulstream-saga.json](./393438-soulstream-saga.json) |
 | Soulstrive | 193260 | [193260-soulstrive.json](./193260-soulstrive.json) |
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
 | SoulSync City | 306800 | [306800-soulsync-city.json](./306800-soulsync-city.json) |
@@ -16433,6 +16444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shooter | 155173 | [155173-space-shooter.json](./155173-space-shooter.json) |
 | Space Shooter | 186184 | [186184-space-shooter.json](./186184-space-shooter.json) |
 | Space Shooter | 336670 | [336670-space-shooter.json](./336670-space-shooter.json) |
+| Space Shooter | 393436 | [393436-space-shooter.json](./393436-space-shooter.json) |
 | Space Shooter 24 | 267821 | [267821-space-shooter-24.json](./267821-space-shooter-24.json) |
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
 | Space Shooter: Alpha Impact | 71482 | [71482-space-shooter-alpha-impact.json](./71482-space-shooter-alpha-impact.json) |
@@ -19419,6 +19431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stage Fright | 81853 | [81853-stage-fright.json](./81853-stage-fright.json) |
 | Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
+| Stage Tour | 393269 | [393269-stage-tour.json](./393269-stage-tour.json) |
 | Staged: Open House | 397249 | [397249-staged-open-house.json](./397249-staged-open-house.json) |
 | Stagehand Survival Simulator | 239733 | [239733-stagehand-survival-simulator.json](./239733-stagehand-survival-simulator.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
@@ -23172,6 +23185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Food South East Asia | 197699 | [197699-street-food-south-east-asia.json](./197699-street-food-south-east-asia.json) |
 | Street Football | 169301 | [169301-street-football.json](./169301-street-football.json) |
 | Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
+| Street Football | 393440 | [393440-street-football.json](./393440-street-football.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Street Gang Football | 331343 | [331343-street-gang-football.json](./331343-street-gang-football.json) |
 | Street Gears | 92348 | [92348-street-gears.json](./92348-street-gears.json) |
@@ -24972,6 +24986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Squid | 180659 | [180659-sunset-squid.json](./180659-sunset-squid.json) |
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
+| Sunset Summit | 393584 | [393584-sunset-summit.json](./393584-sunset-summit.json) |
 | Sunset Survival Station | 258973 | [258973-sunset-survival-station.json](./258973-sunset-survival-station.json) |
 | Sunset Survival: Miami | 405329 | [405329-sunset-survival-miami.json](./405329-sunset-survival-miami.json) |
 | Sunset Town | 333093 | [333093-sunset-town.json](./333093-sunset-town.json) |
