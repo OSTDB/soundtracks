@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartorn | 328003 | [328003-wartorn.json](./328003-wartorn.json) |
 | WarTorn | 179473 | [179473-wartorn.json](./179473-wartorn.json) |
 | WarTorn | 94337 | [94337-wartorn.json](./94337-wartorn.json) |
+| Wartracks | 397298 | [397298-wartracks.json](./397298-wartracks.json) |
 | Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
 | Wartune Reborn | 160087 | [160087-wartune-reborn.json](./160087-wartune-reborn.json) |
 | Wartune Ultra | 392881 | [392881-wartune-ultra.json](./392881-wartune-ultra.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterscape Solitaire: American Falls | 416139 | [416139-waterscape-solitaire-american-falls.json](./416139-waterscape-solitaire-american-falls.json) |
 | Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
 | Waterside Chirping | 105017 | [105017-waterside-chirping.json](./105017-waterside-chirping.json) |
+| Waterslide Inferno | 397137 | [397137-waterslide-inferno.json](./397137-waterslide-inferno.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | WaterWays | 67881 | [67881-waterways.json](./67881-waterways.json) |
 | Waterworks! | 182757 | [182757-waterworks.json](./182757-waterworks.json) |
@@ -2937,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
 | Westbound: Pioneer Adventure | 39170 | [39170-westbound-pioneer-adventure.json](./39170-westbound-pioneer-adventure.json) |
 | Westerado | 8903 | [8903-westerado.json](./8903-westerado.json) |
+| Westerado Poker | 397140 | [397140-westerado-poker.json](./397140-westerado-poker.json) |
 | Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
 | Western 1849 Reloaded | 27335 | [27335-western-1849-reloaded.json](./27335-western-1849-reloaded.json) |
 | Western Adventure - Cowboy Revenge 3D | 99186 | [99186-western-adventure-cowboy-revenge-3d.json](./99186-western-adventure-cowboy-revenge-3d.json) |
@@ -4752,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy Zetsumetsu Keikaku | 412337 | [412337-windy-zetsumetsu-keikaku.json](./412337-windy-zetsumetsu-keikaku.json) |
 | Wine & Roses | 124456 | [124456-wine-and-roses.json](./124456-wine-and-roses.json) |
 | Wine Factory Simulator | 332485 | [332485-wine-factory-simulator.json](./332485-wine-factory-simulator.json) |
+| Wine Pong | 397155 | [397155-wine-pong.json](./397155-wine-pong.json) |
 | Wine Tycoon | 201074 | [201074-wine-tycoon.json](./201074-wine-tycoon.json) |
 | Winery Simulator | 216836 | [216836-winery-simulator.json](./216836-winery-simulator.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
@@ -5693,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobolob Classic | 180477 | [180477-wobolob-classic.json](./180477-wobolob-classic.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
 | Woe | 211577 | [211577-woe.json](./211577-woe.json) |
+| Woe Reigns Unending | 397272 | [397272-woe-reigns-unending.json](./397272-woe-reigns-unending.json) |
 | Woebegone Woods | 149897 | [149897-woebegone-woods.json](./149897-woebegone-woods.json) |
 | Woeful Woebots | 37019 | [37019-woeful-woebots.json](./37019-woeful-woebots.json) |
 | Woim | 404431 | [404431-woim.json](./404431-woim.json) |
@@ -7535,6 +7540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wriggle Apple | 410026 | [410026-wriggle-apple.json](./410026-wriggle-apple.json) |
 | Wriggle Apple 2 | 410027 | [410027-wriggle-apple-2.json](./410027-wriggle-apple-2.json) |
 | Wriggle Apple 3 | 410028 | [410028-wriggle-apple-3.json](./410028-wriggle-apple-3.json) |
+| Wriggle Apple 4 | 397279 | [397279-wriggle-apple-4.json](./397279-wriggle-apple-4.json) |
 | Wriggler | 46742 | [46742-wriggler.json](./46742-wriggler.json) |
 | Wrigglers | 63784 | [63784-wrigglers.json](./63784-wrigglers.json) |
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
