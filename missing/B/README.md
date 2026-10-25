@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
+| Balloonatics | 83622 | [83622-balloonatics.json](./83622-balloonatics.json) |
 | BalloonBoyBob | 129096 | [129096-balloonboybob.json](./129096-balloonboybob.json) |
 | Balloone | 395872 | [395872-balloone.json](./395872-balloone.json) |
 | Ballooni | 240640 | [240640-ballooni.json](./240640-ballooni.json) |
@@ -3066,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Heroin Crisis: Heroin Pack - Satellizer Another & Cassie | 226243 | [226243-battle-heroin-crisis-heroin-pack-satellizer-another-and-cassie.json](./226243-battle-heroin-crisis-heroin-pack-satellizer-another-and-cassie.json) |
 | Battle Heroine Crisis | 189972 | [189972-battle-heroine-crisis.json](./189972-battle-heroine-crisis.json) |
 | Battle High 2 | 19093 | [19093-battle-high-2.json](./19093-battle-high-2.json) |
+| Battle High 2 A+ | 76497 | [76497-battle-high-2-a.json](./76497-battle-high-2-a.json) |
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
 | Battle High: San Bruno | 91792 | [91792-battle-high-san-bruno.json](./91792-battle-high-san-bruno.json) |
 | Battle Hunters Zero | 194167 | [194167-battle-hunters-zero.json](./194167-battle-hunters-zero.json) |
@@ -7084,6 +7086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Collector | 53209 | [53209-bitcoin-collector.json](./53209-bitcoin-collector.json) |
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
 | Bitcoin Escape | 253283 | [253283-bitcoin-escape.json](./253283-bitcoin-escape.json) |
+| Bitcoin Farm | 76487 | [76487-bitcoin-farm.json](./76487-bitcoin-farm.json) |
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
 | Bitcoin Man Clicker | 251654 | [251654-bitcoin-man-clicker.json](./251654-bitcoin-man-clicker.json) |
 | Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
@@ -9143,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | Bloodlust | 22123 | [22123-bloodlust.json](./22123-bloodlust.json) |
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
+| BloodLust 2: Nemesis | 83605 | [83605-bloodlust-2-nemesis.json](./83605-bloodlust-2-nemesis.json) |
 | Bloodlust Online | 157015 | [157015-bloodlust-online.json](./157015-bloodlust-online.json) |
 | BloodLust Shadowhunter | 17108 | [17108-bloodlust-shadowhunter.json](./17108-bloodlust-shadowhunter.json) |
 | Bloodlust: Santa Monica | 184751 | [184751-bloodlust-santa-monica.json](./184751-bloodlust-santa-monica.json) |
