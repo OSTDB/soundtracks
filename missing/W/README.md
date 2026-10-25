@@ -3659,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
 | Whisper in the Dark | 177349 | [177349-whisper-in-the-dark.json](./177349-whisper-in-the-dark.json) |
 | Whisper Mountain Outbreak | 236169 | [236169-whisper-mountain-outbreak.json](./236169-whisper-mountain-outbreak.json) |
+| Whisper of a Rose | 11041 | [11041-whisper-of-a-rose.json](./11041-whisper-of-a-rose.json) |
 | Whisper Of The Curse | 287706 | [287706-whisper-of-the-curse.json](./287706-whisper-of-the-curse.json) |
 | Whisper of the House | 312555 | [312555-whisper-of-the-house.json](./312555-whisper-of-the-house.json) |
 | Whisper of the Shade: Gray | 338372 | [338372-whisper-of-the-shade-gray.json](./338372-whisper-of-the-shade-gray.json) |
