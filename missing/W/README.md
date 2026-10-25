@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ward 107: Silence | 392822 | [392822-ward-107-silence.json](./392822-ward-107-silence.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
 | Ward 777 | 357460 | [357460-ward-777.json](./357460-ward-777.json) |
+| Ward: Descent | 398377 | [398377-ward-descent.json](./398377-ward-descent.json) |
 | Warden | 123819 | [123819-warden.json](./123819-warden.json) |
 | Warden | 324729 | [324729-warden.json](./324729-warden.json) |
 | Warden | 377157 | [377157-warden.json](./377157-warden.json) |
@@ -3976,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Stole My Beard? | 132747 | [132747-who-stole-my-beard.json](./132747-who-stole-my-beard.json) |
 | Who Stole My Bone? | 177361 | [177361-who-stole-my-bone.json](./177361-who-stole-my-bone.json) |
+| Who tells your story | 398383 | [398383-who-tells-your-story.json](./398383-who-tells-your-story.json) |
 | Who tells your story: Fantasy Pack | 404269 | [404269-who-tells-your-story-fantasy-pack.json](./404269-who-tells-your-story-fantasy-pack.json) |
 | Who Tied Me to the Rocket? | 199965 | [199965-who-tied-me-to-the-rocket.json](./199965-who-tied-me-to-the-rocket.json) |
 | Who Wants to Be a Hypnoslut? | 263668 | [263668-who-wants-to-be-a-hypnoslut.json](./263668-who-wants-to-be-a-hypnoslut.json) |
@@ -4942,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter | 127791 | [127791-winter.json](./127791-winter.json) |
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter | 226686 | [226686-winter.json](./226686-winter.json) |
+| Winter and Luig | 398153 | [398153-winter-and-luig.json](./398153-winter-and-luig.json) |
 | Winter and People | 195534 | [195534-winter-and-people.json](./195534-winter-and-people.json) |
 | Winter Blast: 9 Snow & Ice Games | 51027 | [51027-winter-blast-9-snow-and-ice-games.json](./51027-winter-blast-9-snow-and-ice-games.json) |
 | Winter Cats | 283039 | [283039-winter-cats.json](./283039-winter-cats.json) |
@@ -5265,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Stories | 329681 | [329681-witch-stories.json](./329681-witch-stories.json) |
 | Witch Story | 215653 | [215653-witch-story.json](./215653-witch-story.json) |
 | Witch Sword | 81963 | [81963-witch-sword.json](./81963-witch-sword.json) |
+| Witch the Showdown | 398388 | [398388-witch-the-showdown.json](./398388-witch-the-showdown.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
 | Witch Trainer | 251384 | [251384-witch-trainer.json](./251384-witch-trainer.json) |
 | Witch Trials | 76874 | [76874-witch-trials.json](./76874-witch-trials.json) |
