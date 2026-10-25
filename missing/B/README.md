@@ -768,7 +768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4980,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled Classic HD | 102591 | [102591-bejeweled-classic-hd.json](./102591-bejeweled-classic-hd.json) |
 | Bejeweled Deluxe | 220074 | [220074-bejeweled-deluxe.json](./220074-bejeweled-deluxe.json) |
 | Bejeweled Deluxe | 27819 | [27819-bejeweled-deluxe.json](./27819-bejeweled-deluxe.json) |
+| Bejeweled Stars | 19941 | [19941-bejeweled-stars.json](./19941-bejeweled-stars.json) |
 | Beki, Do You Copy? | 372731 | [372731-beki-do-you-copy.json](./372731-beki-do-you-copy.json) |
 | Bekkouame | 93708 | [93708-bekkouame.json](./93708-bekkouame.json) |
 | Bel & Poppy | 184979 | [184979-bel-and-poppy.json](./184979-bel-and-poppy.json) |
@@ -7337,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
 | Black Home | 35247 | [35247-black-home.json](./35247-black-home.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
+| Black Ice | 17589 | [17589-black-ice.json](./17589-black-ice.json) |
 | Black Ice Mod Advanced | 394546 | [394546-black-ice-mod-advanced.json](./394546-black-ice-mod-advanced.json) |
 | Black ICE/White Noise | 341681 | [341681-black-ice-white-noise.json](./341681-black-ice-white-noise.json) |
 | Black Idea | 370880 | [370880-black-idea.json](./370880-black-idea.json) |
@@ -9340,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloop | 28846 | [28846-bloop.json](./28846-bloop.json) |
 | Bloop | 348024 | [348024-bloop.json](./348024-bloop.json) |
 | Bloop Go! | 105799 | [105799-bloop-go.json](./105799-bloop-go.json) |
+| Bloop Reloaded | 17676 | [17676-bloop-reloaded.json](./17676-bloop-reloaded.json) |
 | Blooper's Revenge | 237492 | [237492-bloopers-revenge.json](./237492-bloopers-revenge.json) |
 | Blooper's Revenge DX | 321671 | [321671-bloopers-revenge-dx.json](./321671-bloopers-revenge-dx.json) |
 | Bloops Game | 175744 | [175744-bloops-game.json](./175744-bloops-game.json) |
@@ -10517,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo Boo Bananas | 101322 | [101322-boo-boo-bananas.json](./101322-boo-boo-bananas.json) |
 | Boo Boo Booster | 343325 | [343325-boo-boo-booster.json](./343325-boo-boo-booster.json) |
 | Boo Breakers: The Ghostening | 30808 | [30808-boo-breakers-the-ghostening.json](./30808-boo-breakers-the-ghostening.json) |
+| Boo Bunny Plague | 17634 | [17634-boo-bunny-plague.json](./17634-boo-bunny-plague.json) |
 | Boo Men | 201498 | [201498-boo-men.json](./201498-boo-men.json) |
 | Boo: The World's Cutest Dog Game | 57909 | [57909-boo-the-worlds-cutest-dog-game.json](./57909-boo-the-worlds-cutest-dog-game.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
@@ -14904,6 +14907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
 | Buzz Aldrin: Cycling Pathways to Mars | 170776 | [170776-buzz-aldrin-cycling-pathways-to-mars.json](./170776-buzz-aldrin-cycling-pathways-to-mars.json) |
+| Buzz Aldrin's Space Program Manager | 17557 | [17557-buzz-aldrins-space-program-manager.json](./17557-buzz-aldrins-space-program-manager.json) |
 | Buzz Aldrins Race into Space | 50355 | [50355-buzz-aldrins-race-into-space.json](./50355-buzz-aldrins-race-into-space.json) |
 | Buzz Bombers | 356783 | [356783-buzz-bombers.json](./356783-buzz-bombers.json) |
 | Buzz Bombers | 5665 | [5665-buzz-bombers.json](./5665-buzz-bombers.json) |
