@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation of Sisyphus | 297866 | [297866-salvation-of-sisyphus.json](./297866-salvation-of-sisyphus.json) |
 | Salvation of the soul | 224686 | [224686-salvation-of-the-soul.json](./224686-salvation-of-the-soul.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
+| Salvation: Echoes of War | 407766 | [407766-salvation-echoes-of-war.json](./407766-salvation-echoes-of-war.json) |
 | Salvator | 86530 | [86530-salvator.json](./86530-salvator.json) |
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
 | Salve a Fantasia | 387619 | [387619-salve-a-fantasia.json](./387619-salve-a-fantasia.json) |
@@ -10064,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
 | Skipping Stones | 60833 | [60833-skipping-stones.json](./60833-skipping-stones.json) |
 | Skipping Stones | 60848 | [60848-skipping-stones.json](./60848-skipping-stones.json) |
+| Skipping Stones to Lonely Homes | 407957 | [407957-skipping-stones-to-lonely-homes.json](./407957-skipping-stones-to-lonely-homes.json) |
 | Skippy Cat | 60999 | [60999-skippy-cat.json](./60999-skippy-cat.json) |
 | Skippy Saves the Day | 326676 | [326676-skippy-saves-the-day.json](./326676-skippy-saves-the-day.json) |
 | Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
@@ -11212,6 +11214,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimy Timey | 384673 | [384673-slimy-timey.json](./384673-slimy-timey.json) |
 | Sling | 261801 | [261801-sling.json](./261801-sling.json) |
 | Sling Drift | 102767 | [102767-sling-drift.json](./102767-sling-drift.json) |
+| Sling Jumper | 407776 | [407776-sling-jumper.json](./407776-sling-jumper.json) |
+| Sling Jumper 2 | 407777 | [407777-sling-jumper-2.json](./407777-sling-jumper-2.json) |
 | Sling Junior | 261800 | [261800-sling-junior.json](./261800-sling-junior.json) |
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Sling Ming | 74400 | [74400-sling-ming.json](./74400-sling-ming.json) |
@@ -15453,6 +15457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source of Power | 179359 | [179359-source-of-power.json](./179359-source-of-power.json) |
 | Sourcebound | 423224 | [423224-sourcebound.json](./423224-sourcebound.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
+| Sourcevoid Online | 407768 | [407768-sourcevoid-online.json](./407768-sourcevoid-online.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
 | Sousaku Alice to Ouji-sama! | 202608 | [202608-sousaku-alice-to-ouji-sama.json](./202608-sousaku-alice-to-ouji-sama.json) |
 | Sousaku Kanojo no Renai Koushiki | 191520 | [191520-sousaku-kanojo-no-renai-koushiki.json](./191520-sousaku-kanojo-no-renai-koushiki.json) |
@@ -22175,6 +22180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age | 278664 | [278664-stone-age.json](./278664-stone-age.json) |
 | Stone Age | 282733 | [282733-stone-age.json](./282733-stone-age.json) |
 | Stone Age | 346714 | [346714-stone-age.json](./346714-stone-age.json) |
+| Stone Age Assassin | 407826 | [407826-stone-age-assassin.json](./407826-stone-age-assassin.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
 | Stone Age: Digital Edition | 237210 | [237210-stone-age-digital-edition.json](./237210-stone-age-digital-edition.json) |
@@ -23348,6 +23354,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strimpland | 395698 | [395698-strimpland.json](./395698-strimpland.json) |
 | String 'Em Up | 180554 | [180554-string-em-up.json](./180554-string-em-up.json) |
 | String Along | 231754 | [231754-string-along.json](./231754-string-along.json) |
+| String Avoider | 407786 | [407786-string-avoider.json](./407786-string-avoider.json) |
+| String Avoider 2 | 407828 | [407828-string-avoider-2.json](./407828-string-avoider-2.json) |
+| String Avoider Deluxe | 407789 | [407789-string-avoider-deluxe.json](./407789-string-avoider-deluxe.json) |
 | String Mace | 403644 | [403644-string-mace.json](./403644-string-mace.json) |
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 240706 | [240706-string-theory.json](./240706-string-theory.json) |
