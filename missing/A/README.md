@@ -10784,6 +10784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcticide | 249053 | [249053-arcticide.json](./249053-arcticide.json) |
 | Arcticmind | 182268 | [182268-arcticmind.json](./182268-arcticmind.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
+| Arcturus | 421400 | [421400-arcturus.json](./421400-arcturus.json) |
 | Arcturus Proving Grounds | 61711 | [61711-arcturus-proving-grounds.json](./61711-arcturus-proving-grounds.json) |
 | Arcus | 80836 | [80836-arcus.json](./80836-arcus.json) |
 | Arcus Chroma | 133786 | [133786-arcus-chroma.json](./133786-arcus-chroma.json) |
@@ -13736,6 +13737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
 | Attack of the Astrals | 384306 | [384306-attack-of-the-astrals.json](./384306-attack-of-the-astrals.json) |
+| Attack of the Creepers | 421402 | [421402-attack-of-the-creepers.json](./421402-attack-of-the-creepers.json) |
 | Attack of the Creeps | 72054 | [72054-attack-of-the-creeps.json](./72054-attack-of-the-creeps.json) |
 | Attack of the Dead | 299026 | [299026-attack-of-the-dead.json](./299026-attack-of-the-dead.json) |
 | Attack of The Dead | 379986 | [379986-attack-of-the-dead.json](./379986-attack-of-the-dead.json) |
