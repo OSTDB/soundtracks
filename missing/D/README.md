@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Hunting Ground | 296239 | [296239-dark-hunting-ground.json](./296239-dark-hunting-ground.json) |
 | Dark Hyrule Fantasy | 199422 | [199422-dark-hyrule-fantasy.json](./199422-dark-hyrule-fantasy.json) |
 | Dark Ill | 367852 | [367852-dark-ill.json](./367852-dark-ill.json) |
+| Dark in Light | 392012 | [392012-dark-in-light.json](./392012-dark-in-light.json) |
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Interval | 185936 | [185936-dark-interval.json](./185936-dark-interval.json) |
@@ -4117,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck of Stabs | 346745 | [346745-deck-of-stabs.json](./346745-deck-of-stabs.json) |
 | Deck of the Dead | 240689 | [240689-deck-of-the-dead.json](./240689-deck-of-the-dead.json) |
+| Deck of Treads | 392085 | [392085-deck-of-treads.json](./392085-deck-of-treads.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
 | Deck RX | 180509 | [180509-deck-rx.json](./180509-deck-rx.json) |
 | Deck the Halls, Gieves | 371403 | [371403-deck-the-halls-gieves.json](./371403-deck-the-halls-gieves.json) |
@@ -5827,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent from Arkov's Tower | 277273 | [277273-descent-from-arkovs-tower.json](./277273-descent-from-arkovs-tower.json) |
 | Descent II | 668 | [668-descent-ii.json](./668-descent-ii.json) |
 | Descent II: The Vertigo Series | 82175 | [82175-descent-ii-the-vertigo-series.json](./82175-descent-ii-the-vertigo-series.json) |
+| Descent Into Darkness | 391977 | [391977-descent-into-darkness.json](./391977-descent-into-darkness.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Descent Into the Abyss | 268883 | [268883-descent-into-the-abyss.json](./268883-descent-into-the-abyss.json) |
 | Descent Maximum | 20130 | [20130-descent-maximum.json](./20130-descent-maximum.json) |
@@ -7339,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Bombers | 135759 | [135759-dig-bombers.json](./135759-dig-bombers.json) |
 | Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
 | Dig Deeper | 358464 | [358464-dig-deeper.json](./358464-dig-deeper.json) |
+| Dig Dig Burrito! | 391996 | [391996-dig-dig-burrito.json](./391996-dig-dig-burrito.json) |
 | Dig Dirt | 278462 | [278462-dig-dirt.json](./278462-dig-dirt.json) |
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
@@ -7373,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig to the Stars | 113408 | [113408-dig-to-the-stars.json](./113408-dig-to-the-stars.json) |
 | Dig Too Deep | 402553 | [402553-dig-too-deep.json](./402553-dig-too-deep.json) |
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
+| Dig, Craft, Kill | 391547 | [391547-dig-craft-kill.json](./391547-dig-craft-kill.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
 | Dig! | 341070 | [341070-dig.json](./341070-dig.json) |
 | Dig! Dig! Dig! | 423201 | [423201-dig-dig-dig.json](./423201-dig-dig-dig.json) |
@@ -13627,6 +13632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifter King Online | 133358 | [133358-drifter-king-online.json](./133358-drifter-king-online.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
+| Drifters Don't Brake: Midnight | 392002 | [392002-drifters-dont-brake-midnight.json](./392002-drifters-dont-brake-midnight.json) |
 | Drifters Loot the Galaxy | 138705 | [138705-drifters-loot-the-galaxy.json](./138705-drifters-loot-the-galaxy.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Drifties | 376233 | [376233-drifties.json](./376233-drifties.json) |
