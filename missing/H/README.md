@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handicap Golf | 94661 | [94661-handicap-golf.json](./94661-handicap-golf.json) |
 | Handkerchief | 191627 | [191627-handkerchief.json](./191627-handkerchief.json) |
 | Handle With Care | 133864 | [133864-handle-with-care.json](./133864-handle-with-care.json) |
+| Handle with Care! | 419590 | [419590-handle-with-care.json](./419590-handle-with-care.json) |
 | Handle With Care.. | 330816 | [330816-handle-with-care.json](./330816-handle-with-care.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
 | Handmancers | 260587 | [260587-handmancers.json](./260587-handmancers.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
 | Hazmat Hijinks | 101327 | [101327-hazmat-hijinks.json](./101327-hazmat-hijinks.json) |
 | Hazmat Magic | 180789 | [180789-hazmat-magic.json](./180789-hazmat-magic.json) |
+| Hazmat Simulator | 419614 | [419614-hazmat-simulator.json](./419614-hazmat-simulator.json) |
 | Hazordhu | 142926 | [142926-hazordhu.json](./142926-hazordhu.json) |
 | Hazuki Dies: She Has No Name | 130633 | [130633-hazuki-dies-she-has-no-name.json](./130633-hazuki-dies-she-has-no-name.json) |
 | Hazuki Makimura's Love Story | 221265 | [221265-hazuki-makimuras-love-story.json](./221265-hazuki-makimuras-love-story.json) |
