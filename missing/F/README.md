@@ -11265,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Whores | 340268 | [340268-furry-whores.json](./340268-furry-whores.json) |
 | Furry Woof | 322704 | [322704-furry-woof.json](./322704-furry-woof.json) |
 | Furry Woof and Nya | 169750 | [169750-furry-woof-and-nya.json](./169750-furry-woof-and-nya.json) |
+| Furry X Bussy Master: Randy the Red Knot Reindeer | 392980 | [392980-furry-x-bussy-master-randy-the-red-knot-reindeer.json](./392980-furry-x-bussy-master-randy-the-red-knot-reindeer.json) |
 | FurryFury: Smash & Roll | 116361 | [116361-furryfury-smash-and-roll.json](./116361-furryfury-smash-and-roll.json) |
 | FurryMUCK | 262192 | [262192-furrymuck.json](./262192-furrymuck.json) |
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
