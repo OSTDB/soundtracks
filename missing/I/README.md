@@ -2797,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Fear | 310648 | [310648-industrial-fear.json](./310648-industrial-fear.json) |
 | Industrial Infection! | 107810 | [107810-industrial-infection.json](./107810-industrial-infection.json) |
 | Industrial Legion | 398570 | [398570-industrial-legion.json](./398570-industrial-legion.json) |
+| Industrial Petting | 113736 | [113736-industrial-petting.json](./113736-industrial-petting.json) |
 | Industrial Spy: Operation Espionage | 45851 | [45851-industrial-spy-operation-espionage.json](./45851-industrial-spy-operation-espionage.json) |
 | Industrial War | 241515 | [241515-industrial-war.json](./241515-industrial-war.json) |
 | Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
@@ -4402,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invariant | 410973 | [410973-invariant.json](./410973-invariant.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
 | Invaseave | 229525 | [229525-invaseave.json](./229525-invaseave.json) |
+| Invasher | 113848 | [113848-invasher.json](./113848-invasher.json) |
 | Invasia | 414161 | [414161-invasia.json](./414161-invasia.json) |
 | Invasion | 100298 | [100298-invasion.json](./100298-invasion.json) |
 | Invasion | 109448 | [109448-invasion.json](./109448-invasion.json) |
