@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Sliding Puzzle | 166638 | [166638-fantasy-sliding-puzzle.json](./166638-fantasy-sliding-puzzle.json) |
 | Fantasy Sliding Puzzle 4 | 189970 | [189970-fantasy-sliding-puzzle-4.json](./189970-fantasy-sliding-puzzle-4.json) |
 | Fantasy Sliding Puzzle 5 | 286462 | [286462-fantasy-sliding-puzzle-5.json](./286462-fantasy-sliding-puzzle-5.json) |
+| Fantasy Slots: Adventure Slots and Games | 60449 | [60449-fantasy-slots-adventure-slots-and-games.json](./60449-fantasy-slots-adventure-slots-and-games.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Soul Revenge | 384288 | [384288-fantasy-soul-revenge.json](./384288-fantasy-soul-revenge.json) |
 | Fantasy Sprite Island | 157946 | [157946-fantasy-sprite-island.json](./157946-fantasy-sprite-island.json) |
@@ -3423,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
 | Fidget Spinner - Extra Speed | 102606 | [102606-fidget-spinner-extra-speed.json](./102606-fidget-spinner-extra-speed.json) |
 | Fidget Spinner Editor | 68595 | [68595-fidget-spinner-editor.json](./68595-fidget-spinner-editor.json) |
+| Fidget Spinner In Space | 75315 | [75315-fidget-spinner-in-space.json](./75315-fidget-spinner-in-space.json) |
 | Fidget Spinner RPG | 199784 | [199784-fidget-spinner-rpg.json](./199784-fidget-spinner-rpg.json) |
 | Fidget Spinner Simulator | 51415 | [51415-fidget-spinner-simulator.json](./51415-fidget-spinner-simulator.json) |
 | Fidget Town | 220247 | [220247-fidget-town.json](./220247-fidget-town.json) |
