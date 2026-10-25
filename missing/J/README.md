@@ -571,6 +571,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jansou Ou | 78089 | [78089-jansou-ou.json](./78089-jansou-ou.json) |
 | Jantaku Boy | 62577 | [62577-jantaku-boy.json](./62577-jantaku-boy.json) |
 | Jantei Monogatari | 4453 | [4453-jantei-monogatari.json](./4453-jantei-monogatari.json) |
+| Jantei Monogatari 2: Uchuu Tantei Divan - Kanketsu-hen | 418910 | [418910-jantei-monogatari-2-uchuu-tantei-divan-kanketsu-hen.json](./418910-jantei-monogatari-2-uchuu-tantei-divan-kanketsu-hen.json) |
+| Jantei Monogatari 2: Uchuu Tantei Divan - Shutsudou-hen | 418908 | [418908-jantei-monogatari-2-uchuu-tantei-divan-shutsudou-hen.json](./418908-jantei-monogatari-2-uchuu-tantei-divan-shutsudou-hen.json) |
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
 | January | 124545 | [124545-january.json](./124545-january.json) |
 | Janusz: The Handyman Simulator | 163404 | [163404-janusz-the-handyman-simulator.json](./163404-janusz-the-handyman-simulator.json) |
@@ -1473,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Pieces: Valentine's Day | 145365 | [145365-jigsaw-pieces-valentines-day.json](./145365-jigsaw-pieces-valentines-day.json) |
 | Jigsaw Pink | 248440 | [248440-jigsaw-pink.json](./248440-jigsaw-pink.json) |
 | JigSaw Preschool Puzzles | 97145 | [97145-jigsaw-preschool-puzzles.json](./97145-jigsaw-preschool-puzzles.json) |
+| Jigsaw Pussy: Hardcore Explicit Sex | 418850 | [418850-jigsaw-pussy-hardcore-explicit-sex.json](./418850-jigsaw-pussy-hardcore-explicit-sex.json) |
 | Jigsaw Puzzle | 294556 | [294556-jigsaw-puzzle.json](./294556-jigsaw-puzzle.json) |
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
 | Jigsaw Puzzle | 359084 | [359084-jigsaw-puzzle.json](./359084-jigsaw-puzzle.json) |
