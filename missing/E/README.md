@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 25: Ultimate Edition | 309043 | [309043-ea-sports-fc-25-ultimate-edition.json](./309043-ea-sports-fc-25-ultimate-edition.json) |
 | EA Sports FC 26: Icons Edition | 397889 | [397889-ea-sports-fc-26-icons-edition.json](./397889-ea-sports-fc-26-icons-edition.json) |
 | EA Sports FC 26: The World's Game Edition | 407113 | [407113-ea-sports-fc-26-the-worlds-game-edition.json](./407113-ea-sports-fc-26-the-worlds-game-edition.json) |
+| EA Sports FC 26: TOTY Edition | 386799 | [386799-ea-sports-fc-26-toty-edition.json](./386799-ea-sports-fc-26-toty-edition.json) |
 | EA Sports FC 26: Ultimate Edition | 356805 | [356805-ea-sports-fc-26-ultimate-edition.json](./356805-ea-sports-fc-26-ultimate-edition.json) |
 | EA Sports FC 27 | 408819 | [408819-ea-sports-fc-27.json](./408819-ea-sports-fc-27.json) |
 | EA Sports FC 27: Ultimate Edition | 410902 | [410902-ea-sports-fc-27-ultimate-edition.json](./410902-ea-sports-fc-27-ultimate-edition.json) |
@@ -986,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
 | Eden Island | 202548 | [202548-eden-island.json](./202548-eden-island.json) |
 | Eden Isle: Resort Paradise | 261841 | [261841-eden-isle-resort-paradise.json](./261841-eden-isle-resort-paradise.json) |
+| Eden of Creation | 386792 | [386792-eden-of-creation.json](./386792-eden-of-creation.json) |
 | Eden of Ikemen: Love in a Lost World | 206034 | [206034-eden-of-ikemen-love-in-a-lost-world.json](./206034-eden-of-ikemen-love-in-a-lost-world.json) |
 | Eden Remains: Arrival | 203944 | [203944-eden-remains-arrival.json](./203944-eden-remains-arrival.json) |
 | Eden Reverse | 125883 | [125883-eden-reverse.json](./125883-eden-reverse.json) |
@@ -1576,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Ministerio del Tiempo VR: El tiempo en tus manos | 72345 | [72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json](./72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json) |
 | El Ministerio del Tiempo VR: Salva el tiempo | 74294 | [74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json](./74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json) |
 | El Misterio del Nilo | 104590 | [104590-el-misterio-del-nilo.json](./104590-el-misterio-del-nilo.json) |
+| El Mono | 387395 | [387395-el-mono.json](./387395-el-mono.json) |
 | El Monstruo de los Globos | 238900 | [238900-el-monstruo-de-los-globos.json](./238900-el-monstruo-de-los-globos.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Ne Rue | 232943 | [232943-el-ne-rue.json](./232943-el-ne-rue.json) |
@@ -4399,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game Cake | 122037 | [122037-escape-game-cake.json](./122037-escape-game-cake.json) |
 | Escape Game Fort Boyard | 151474 | [151474-escape-game-fort-boyard.json](./151474-escape-game-fort-boyard.json) |
 | Escape Game R00m 05 | 362201 | [362201-escape-game-r00m-05.json](./362201-escape-game-r00m-05.json) |
+| Escape Game R00m 09 | 386791 | [386791-escape-game-r00m-09.json](./386791-escape-game-r00m-09.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
 | Escape game R00m08 | 381797 | [381797-escape-game-r00m08.json](./381797-escape-game-r00m08.json) |
