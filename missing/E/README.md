@@ -2252,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Forest | 369767 | [369767-elven-forest.json](./369767-elven-forest.json) |
 | Elven Legacy | 2028 | [2028-elven-legacy.json](./2028-elven-legacy.json) |
 | Elven Legacy Collection | 51764 | [51764-elven-legacy-collection.json](./51764-elven-legacy-collection.json) |
+| Elven Legend | 29458 | [29458-elven-legend.json](./29458-elven-legend.json) |
 | Elven Legend 2: The Bewitched Tree | 28739 | [28739-elven-legend-2-the-bewitched-tree.json](./28739-elven-legend-2-the-bewitched-tree.json) |
 | Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
 | Elven Mists 2 | 209199 | [209199-elven-mists-2.json](./209199-elven-mists-2.json) |
@@ -2598,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire | 105227 | [105227-empire.json](./105227-empire.json) |
 | Empire | 272474 | [272474-empire.json](./272474-empire.json) |
 | Empire Above All | 63674 | [63674-empire-above-all.json](./63674-empire-above-all.json) |
+| Empire Architect | 29459 | [29459-empire-architect.json](./29459-empire-architect.json) |
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
 | Empire Business | 403092 | [403092-empire-business.json](./403092-empire-business.json) |
 | Empire Business 2 | 403107 | [403107-empire-business-2.json](./403107-empire-business-2.json) |
