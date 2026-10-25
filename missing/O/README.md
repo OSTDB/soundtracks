@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohanaya-san Monogatari GBA | 49740 | [49740-ohanaya-san-monogatari-gba.json](./49740-ohanaya-san-monogatari-gba.json) |
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
 | Ohayo Gianthook!: Monster Fishing Adventure | 422074 | [422074-ohayo-gianthook-monster-fishing-adventure.json](./422074-ohayo-gianthook-monster-fishing-adventure.json) |
+| Ohayou, Somnia. | 395359 | [395359-ohayou-somnia.json](./395359-ohayou-somnia.json) |
 | Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
@@ -3834,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoca D'or | 395764 | [395764-otoca-dor.json](./395764-otoca-dor.json) |
 | Otocky | 41234 | [41234-otocky.json](./41234-otocky.json) |
 | Otogi Banashi Taisen | 228629 | [228629-otogi-banashi-taisen.json](./228629-otogi-banashi-taisen.json) |
+| Otogi Ningyou Geki: Hansel's Gretel | 395360 | [395360-otogi-ningyou-geki-hansels-gretel.json](./395360-otogi-ningyou-geki-hansels-gretel.json) |
 | Otogi: Myth of Demons | 5975 | [5975-otogi-myth-of-demons.json](./5975-otogi-myth-of-demons.json) |
 | Otogi: Spirit Agents | 28122 | [28122-otogi-spirit-agents.json](./28122-otogi-spirit-agents.json) |
 | Otogirisou | 44381 | [44381-otogirisou.json](./44381-otogirisou.json) |
@@ -4817,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwhelmed | 249033 | [249033-overwhelmed.json](./249033-overwhelmed.json) |
 | Overwhelmed | 260712 | [260712-overwhelmed.json](./260712-overwhelmed.json) |
 | OverWing | 337291 | [337291-overwing.json](./337291-overwing.json) |
+| Overwords: Infinity | 395343 | [395343-overwords-infinity.json](./395343-overwords-infinity.json) |
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
 | Overworked Alice | 289226 | [289226-overworked-alice.json](./289226-overworked-alice.json) |
 | Overworld | 139291 | [139291-overworld.json](./139291-overworld.json) |
