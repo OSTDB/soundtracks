@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oaken Tower | 345143 | [345143-oaken-tower.json](./345143-oaken-tower.json) |
 | Oakenfold | 163742 | [163742-oakenfold.json](./163742-oakenfold.json) |
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
+| Oaks vs. Orcs | 417257 | [417257-oaks-vs-orcs.json](./417257-oaks-vs-orcs.json) |
 | Oakwood | 112433 | [112433-oakwood.json](./112433-oakwood.json) |
 | Oakwood Academy of Spells and Sorcery | 90196 | [90196-oakwood-academy-of-spells-and-sorcery.json](./90196-oakwood-academy-of-spells-and-sorcery.json) |
 | OAOA: Off and on Again | 115139 | [115139-oaoa-off-and-on-again.json](./115139-oaoa-off-and-on-again.json) |
