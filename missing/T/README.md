@@ -3751,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terranny | 238536 | [238536-terranny.json](./238536-terranny.json) |
 | Terranova | 176160 | [176160-terranova.json](./176160-terranova.json) |
 | Terranova | 193634 | [193634-terranova.json](./193634-terranova.json) |
+| TerraNova: Legend of the Runes | 423303 | [423303-terranova-legend-of-the-runes.json](./423303-terranova-legend-of-the-runes.json) |
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | TerrApocalipse | 370857 | [370857-terrapocalipse.json](./370857-terrapocalipse.json) |
@@ -21801,6 +21802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Houtenkyou: Treasure Castle Labyrinth | 276761 | [276761-touhou-houtenkyou-treasure-castle-labyrinth.json](./276761-touhou-houtenkyou-treasure-castle-labyrinth.json) |
 | Touhou Hyouibana: Antinomy of Common Flowers | 76829 | [76829-touhou-hyouibana-antinomy-of-common-flowers.json](./76829-touhou-hyouibana-antinomy-of-common-flowers.json) |
 | Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
+| Touhou Idle | 423296 | [423296-touhou-idle.json](./423296-touhou-idle.json) |
 | Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
 | Touhou Iyuushou: What the Bullet Hell?! | 351102 | [351102-touhou-iyuushou-what-the-bullet-hell.json](./351102-touhou-iyuushou-what-the-bullet-hell.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
