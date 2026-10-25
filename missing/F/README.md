@@ -3171,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom Waifu VR | 368641 | [368641-femdom-waifu-vr.json](./368641-femdom-waifu-vr.json) |
 | Femdom Wife Game: Zoe | 367045 | [367045-femdom-wife-game-zoe.json](./367045-femdom-wife-game-zoe.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
+| Femida | 128189 | [128189-femida.json](./128189-femida.json) |
 | Feminist Confessional | 176401 | [176401-feminist-confessional.json](./176401-feminist-confessional.json) |
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Femme | 181745 | [181745-femme.json](./181745-femme.json) |
@@ -4342,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Rites | 405685 | [405685-final-rites.json](./405685-final-rites.json) |
 | Final Round | 398954 | [398954-final-round.json](./398954-final-round.json) |
 | Final Round Tennis | 246328 | [246328-final-round-tennis.json](./246328-final-round-tennis.json) |
+| Final Rush | 3776 | [3776-final-rush.json](./3776-final-rush.json) |
 | Final Saga | 66763 | [66763-final-saga.json](./66763-final-saga.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
 | Final Set | 44430 | [44430-final-set.json](./44430-final-set.json) |
@@ -4587,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
 | Finding Teddy 2 | 47045 | [47045-finding-teddy-2.json](./47045-finding-teddy-2.json) |
 | Finding Teddy 2: Definitive Edition | 132059 | [132059-finding-teddy-2-definitive-edition.json](./132059-finding-teddy-2-definitive-edition.json) |
+| Finding the Soul Orb | 128099 | [128099-finding-the-soul-orb.json](./128099-finding-the-soul-orb.json) |
 | Finding Xavier | 232928 | [232928-finding-xavier.json](./232928-finding-xavier.json) |
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
