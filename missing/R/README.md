@@ -2338,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - DeathShroud DLC | 393067 | [393067-real-boxing-2-remastered-deathshroud-dlc.json](./393067-real-boxing-2-remastered-deathshroud-dlc.json) |
 | Real Boxing 2: Remastered - DeathShroud Edition | 400203 | [400203-real-boxing-2-remastered-deathshroud-edition.json](./400203-real-boxing-2-remastered-deathshroud-edition.json) |
 | Real Boxing 2: Remastered - El Loco Edition | 380721 | [380721-real-boxing-2-remastered-el-loco-edition.json](./380721-real-boxing-2-remastered-el-loco-edition.json) |
+| Real Boxing 2: Remastered - Emerald Edition | 407106 | [407106-real-boxing-2-remastered-emerald-edition.json](./407106-real-boxing-2-remastered-emerald-edition.json) |
 | Real Boxing 2: Remastered - Gold Edition | 411837 | [411837-real-boxing-2-remastered-gold-edition.json](./411837-real-boxing-2-remastered-gold-edition.json) |
 | Real Boxing 2: Remastered - Jonathan DLC | 393068 | [393068-real-boxing-2-remastered-jonathan-dlc.json](./393068-real-boxing-2-remastered-jonathan-dlc.json) |
 | Real Boxing 2: Remastered - Landon Edition | 346002 | [346002-real-boxing-2-remastered-landon-edition.json](./346002-real-boxing-2-remastered-landon-edition.json) |
@@ -3035,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Aleph | 185395 | [185395-red-aleph.json](./185395-red-aleph.json) |
 | Red Alert | 282458 | [282458-red-alert.json](./282458-red-alert.json) |
 | Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
+| Red Alert | 408112 | [408112-red-alert.json](./408112-red-alert.json) |
 | Red Alert 2: Apocalypse Rising | 376096 | [376096-red-alert-2-apocalypse-rising.json](./376096-red-alert-2-apocalypse-rising.json) |
 | Red Algorithm | 152654 | [152654-red-algorithm.json](./152654-red-algorithm.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
@@ -9322,6 +9324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
 | Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
 | Roundabout | 15852 | [15852-roundabout.json](./15852-roundabout.json) |
+| RoundAbout | 407955 | [407955-roundabout.json](./407955-roundabout.json) |
 | Roundabout 3 | 210567 | [210567-roundabout-3.json](./210567-roundabout-3.json) |
 | Roundball: 2 on 2 Challenge | 48203 | [48203-roundball-2-on-2-challenge.json](./48203-roundball-2-on-2-challenge.json) |
 | Rounded | 156011 | [156011-rounded.json](./156011-rounded.json) |
@@ -10094,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Tank Run | 247889 | [247889-run-tank-run.json](./247889-run-tank-run.json) |
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
 | Run Tekila Run! | 278901 | [278901-run-tekila-run.json](./278901-run-tekila-run.json) |
+| Run the Backrooms | 407819 | [407819-run-the-backrooms.json](./407819-run-the-backrooms.json) |
 | Run the Fan | 122361 | [122361-run-the-fan.json](./122361-run-the-fan.json) |
 | Run the Gamut | 32880 | [32880-run-the-gamut.json](./32880-run-the-gamut.json) |
 | Run the Gauntlet | 47203 | [47203-run-the-gauntlet.json](./47203-run-the-gauntlet.json) |
