@@ -4439,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outta This Kingdom | 25509 | [25509-outta-this-kingdom.json](./25509-outta-this-kingdom.json) |
 | Outter Carrier | 327382 | [327382-outter-carrier.json](./327382-outter-carrier.json) |
 | Outtrigger | 39605 | [39605-outtrigger.json](./39605-outtrigger.json) |
+| Outvote | 421430 | [421430-outvote.json](./421430-outvote.json) |
 | Outwall | 364965 | [364965-outwall.json](./364965-outwall.json) |
 | Outward | 22778 | [22778-outward.json](./22778-outward.json) |
 | Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
