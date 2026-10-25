@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL Arcade | 52551 | [52551-madden-nfl-arcade.json](./52551-madden-nfl-arcade.json) |
 | Madden NFL Football | 6845 | [6845-madden-nfl-football.json](./6845-madden-nfl-football.json) |
 | Madden NFL Football | 80472 | [80472-madden-nfl-football.json](./80472-madden-nfl-football.json) |
+| Madden NFL Football | 88906 | [88906-madden-nfl-football.json](./88906-madden-nfl-football.json) |
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
 | Madden Season 2 | 90917 | [90917-madden-season-2.json](./90917-madden-season-2.json) |
 | Maddening Overload | 60326 | [60326-maddening-overload.json](./60326-maddening-overload.json) |
@@ -1588,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong In Poculis | 89782 | [89782-mahjong-in-poculis.json](./89782-mahjong-in-poculis.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
 | Mahjong Jo-ou | 228609 | [228609-mahjong-jo-ou.json](./228609-mahjong-jo-ou.json) |
+| Mahjong Journey | 88898 | [88898-mahjong-journey.json](./88898-mahjong-journey.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
 | Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
 | Mahjong Keiji | 49706 | [49706-mahjong-keiji.json](./49706-mahjong-keiji.json) |
@@ -10803,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minus Zero | 33835 | [33835-minus-zero.json](./33835-minus-zero.json) |
 | Minuse | 368361 | [368361-minuse.json](./368361-minuse.json) |
 | Minute | 266090 | [266090-minute.json](./266090-minute.json) |
+| Minute Commander | 87517 | [87517-minute-commander.json](./87517-minute-commander.json) |
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
@@ -14716,6 +14719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
 | Mountain Shoot | 54976 | [54976-mountain-shoot.json](./54976-mountain-shoot.json) |
 | Mountain Sniper Shooter Elite Assassin | 102844 | [102844-mountain-sniper-shooter-elite-assassin.json](./102844-mountain-sniper-shooter-elite-assassin.json) |
+| Mountain Tanks | 87744 | [87744-mountain-tanks.json](./87744-mountain-tanks.json) |
 | Mountain Taxi Challenge | 382978 | [382978-mountain-taxi-challenge.json](./382978-mountain-taxi-challenge.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mountain Trap 2: Under the Cloak of Fear | 30309 | [30309-mountain-trap-2-under-the-cloak-of-fear.json](./30309-mountain-trap-2-under-the-cloak-of-fear.json) |
@@ -15481,6 +15485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Game Party | 291822 | [291822-multi-game-party.json](./291822-multi-game-party.json) |
 | Multi Idle | 197175 | [197175-multi-idle.json](./197175-multi-idle.json) |
 | Multi Impact | 252708 | [252708-multi-impact.json](./252708-multi-impact.json) |
+| Multi Level 5 Airport Driver | 87741 | [87741-multi-level-5-airport-driver.json](./87741-multi-level-5-airport-driver.json) |
 | Multi Level Car Parking Simulator | 255738 | [255738-multi-level-car-parking-simulator.json](./255738-multi-level-car-parking-simulator.json) |
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
 | Multi Maze 3D: Complete Edition | 298574 | [298574-multi-maze-3d-complete-edition.json](./298574-multi-maze-3d-complete-edition.json) |
@@ -16961,6 +16966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is You and it's the only unusual thing in my life | 127707 | [127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json](./127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json) |
 | My Name Is... | 372803 | [372803-my-name-is.json](./372803-my-name-is.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
+| My NBA 2K18 | 88856 | [88856-my-nba-2k18.json](./88856-my-nba-2k18.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor Enide | 295630 | [295630-my-neighbor-enide.json](./295630-my-neighbor-enide.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
@@ -17258,10 +17264,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
 | My Town : Street Fun | 104496 | [104496-my-town-street-fun.json](./104496-my-town-street-fun.json) |
 | My Town: Airport | 88533 | [88533-my-town-airport.json](./88533-my-town-airport.json) |
+| My Town: Bakery | 88909 | [88909-my-town-bakery.json](./88909-my-town-bakery.json) |
+| My Town: Best Friends' House | 88931 | [88931-my-town-best-friends-house.json](./88931-my-town-best-friends-house.json) |
 | My Town: Dessert Slice | 130086 | [130086-my-town-dessert-slice.json](./130086-my-town-dessert-slice.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
+| My Town: Shopping Mall | 88919 | [88919-my-town-shopping-mall.json](./88919-my-town-shopping-mall.json) |
 | My Traditional Princes | 299600 | [299600-my-traditional-princes.json](./299600-my-traditional-princes.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
 | My Train Arrives | 121980 | [121980-my-train-arrives.json](./121980-my-train-arrives.json) |
