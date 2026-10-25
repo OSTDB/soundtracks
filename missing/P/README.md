@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Sickness | 270769 | [270769-paradise-sickness.json](./270769-paradise-sickness.json) |
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
 | Paradise Tomb | 224560 | [224560-paradise-tomb.json](./224560-paradise-tomb.json) |
+| Paradise Trails | 418848 | [418848-paradise-trails.json](./418848-paradise-trails.json) |
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
 | Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
 | Paradise: Musubi | 384712 | [384712-paradise-musubi.json](./384712-paradise-musubi.json) |
@@ -1704,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel | 342083 | [342083-parallel.json](./342083-parallel.json) |
 | Parallel Arena | 105134 | [105134-parallel-arena.json](./105134-parallel-arena.json) |
 | Parallel Doomensions | 308071 | [308071-parallel-doomensions.json](./308071-parallel-doomensions.json) |
+| Parallel Dungeons | 418901 | [418901-parallel-dungeons.json](./418901-parallel-dungeons.json) |
 | Parallel Harmony ~Getsuyou no Tobira wa Suiyou no Mukou ni~ | 153737 | [153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json](./153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json) |
 | Parallel Kingdom | 70600 | [70600-parallel-kingdom.json](./70600-parallel-kingdom.json) |
 | Parallel Lab | 198114 | [198114-parallel-lab.json](./198114-parallel-lab.json) |
@@ -5553,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
 | Pinball | 86507 | [86507-pinball.json](./86507-pinball.json) |
 | Pinball 2018 | 100587 | [100587-pinball-2018.json](./100587-pinball-2018.json) |
+| Pinball 99 | 418920 | [418920-pinball-99.json](./418920-pinball-99.json) |
 | Pinball Action | 39419 | [39419-pinball-action.json](./39419-pinball-action.json) |
 | Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
 | Pinball Adventure | 359731 | [359731-pinball-adventure.json](./359731-pinball-adventure.json) |
@@ -11558,6 +11561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
 | Pretty Cure Connection Puzzlun | 112063 | [112063-pretty-cure-connection-puzzlun.json](./112063-pretty-cure-connection-puzzlun.json) |
 | Pretty Dinosaur Adventures of Ancient Earth VR | 234514 | [234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json](./234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json) |
+| Pretty Girl Puzzle: Summer Phantom | 418851 | [418851-pretty-girl-puzzle-summer-phantom.json](./418851-pretty-girl-puzzle-summer-phantom.json) |
 | Pretty Girl Ukiyo-e Artist Hoku | 406942 | [406942-pretty-girl-ukiyo-e-artist-hoku.json](./406942-pretty-girl-ukiyo-e-artist-hoku.json) |
 | Pretty Girls 2048 Strike | 227923 | [227923-pretty-girls-2048-strike.json](./227923-pretty-girls-2048-strike.json) |
 | Pretty Girls and Dark Witch. A simple story | 173816 | [173816-pretty-girls-and-dark-witch-a-simple-story.json](./173816-pretty-girls-and-dark-witch-a-simple-story.json) |
@@ -13355,6 +13359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Longtail | 114707 | [114707-project-longtail.json](./114707-project-longtail.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: Mirror | 233562 | [233562-project-mirror.json](./233562-project-mirror.json) |
+| Project: Mirror 2 | 418838 | [418838-project-mirror-2.json](./418838-project-mirror-2.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
 | Project: Neo | 276618 | [276618-project-neo.json](./276618-project-neo.json) |
 | Project: Nightlight | 224650 | [224650-project-nightlight.json](./224650-project-nightlight.json) |
