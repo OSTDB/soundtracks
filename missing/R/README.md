@@ -5416,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution '76 | 208785 | [208785-revolution-76.json](./208785-revolution-76.json) |
 | Revolution 3 | 261098 | [261098-revolution-3.json](./261098-revolution-3.json) |
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
+| Revolution Core | 422073 | [422073-revolution-core.json](./422073-revolution-core.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution Kart DS | 338848 | [338848-revolution-kart-ds.json](./338848-revolution-kart-ds.json) |
