@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T15:41:07.144Z",
-  "total_soundtracks": 2575,
+  "generated_at": "2026-10-25T08:08:05.867Z",
+  "total_soundtracks": 2592,
   "games": [
     {
       "igdb_id": 7522,
@@ -3351,6 +3351,20 @@
       ]
     },
     {
+      "igdb_id": 14847,
+      "game_name": "Blade Kitten",
+      "game_url": "https://ostdb.net/games/blade-kitten",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733da79e666b912b1671bb8438",
+      "albums": [
+        {
+          "album_name": "Blade Kitten (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/65Rjk0SQfHHqgpOmvJkoo9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 333600,
       "game_name": "Blades of Fire",
       "game_url": "https://ostdb.net/games/blades-of-fire",
@@ -3429,6 +3443,20 @@
         {
           "album_name": "Blood & Truth (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4uZmHjC20S6TUOkFbF54Pd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11968,
+      "game_name": "Blood Money",
+      "game_url": "https://ostdb.net/games/blood-money",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739d52f181207fd9ef266b455d",
+      "albums": [
+        {
+          "album_name": "Blood Money (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/76BInk7Ffxdif9zweU30Qu",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4881,6 +4909,20 @@
       ]
     },
     {
+      "igdb_id": 10087,
+      "game_name": "Chronology",
+      "game_url": "https://ostdb.net/games/chronology",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bef91349b8da132dcda9b2bd",
+      "albums": [
+        {
+          "album_name": "Chronology (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4RPvSwYDQnKjPplQxvomHk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 9066,
       "game_name": "Cities: Skylines",
       "game_url": "https://ostdb.net/games/cities-skylines",
@@ -5337,6 +5379,20 @@
         {
           "album_name": "Concrete Genie (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3K4wEc0r2DftDLJ70OtITW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 258950,
+      "game_name": "Constance",
+      "game_url": "https://ostdb.net/games/constance",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e3230ac7088e35cdd7a0d1e9",
+      "albums": [
+        {
+          "album_name": "Constance (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/57t8SztniWWXb39kqba6Ey",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -6654,6 +6710,20 @@
           "album_name": "Deathloop: Pitch Black (Original Trailer Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/45MXckqRFUX9fjI1LTgZoF",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7699,
+      "game_name": "Deathtrap",
+      "game_url": "https://ostdb.net/games/deathtrap",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737913fd7ad3a574de951b9f41",
+      "albums": [
+        {
+          "album_name": "DeathTrap (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7e1mEHkbTAutqtaaGwOpVn",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -9003,6 +9073,20 @@
       ]
     },
     {
+      "igdb_id": 16523,
+      "game_name": "Expeditions: Conquistador",
+      "game_url": "https://ostdb.net/games/expeditions-conquistador",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ca86dda27f1cc1263baa5df3",
+      "albums": [
+        {
+          "album_name": "Expeditions: Conquistador (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0kpFsJ7ZXSfK2fEAd6DC8r",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 115851,
       "game_name": "F.I.S.T.: Forged In Shadow Torch",
       "game_url": "https://ostdb.net/games/f-i-s-t-forged-in-shadow-torch",
@@ -9053,6 +9137,20 @@
         {
           "album_name": "Façade (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5shYYIlcNwNfksbZQu57oz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2625,
+      "game_name": "Face Noir",
+      "game_url": "https://ostdb.net/games/face-noir",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273272c0f195719ed295606519c",
+      "albums": [
+        {
+          "album_name": "Face Noir (original soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6UzEAYJeAKi9Ej0dyfAeaf",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -12345,6 +12443,20 @@
       ]
     },
     {
+      "igdb_id": 3940,
+      "game_name": "Happy Feet",
+      "game_url": "https://ostdb.net/games/happy-feet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273447968ad02a3f0f62e8856e1",
+      "albums": [
+        {
+          "album_name": "Happy Feet (Original Score)",
+          "spotify_url": "https://open.spotify.com/album/7dPPjZGmsKJsQKOgi4mvIw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 141681,
       "game_name": "Happy Game",
       "game_url": "https://ostdb.net/games/happy-game",
@@ -12507,6 +12619,20 @@
         {
           "album_name": "Heat Signature (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7wc5969CeTDcp4aZdQv44r",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 324256,
+      "game_name": "Hell Clock",
+      "game_url": "https://ostdb.net/games/hell-clock",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d577e6b569e0599adee63de7",
+      "albums": [
+        {
+          "album_name": "Hell Clock (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/60JcjB1qAe0UGvFvPp47Up",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13101,6 +13227,20 @@
       ]
     },
     {
+      "igdb_id": 5605,
+      "game_name": "Hover: Revolt of Gamers",
+      "game_url": "https://ostdb.net/games/hover-revolt-of-gamers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27321ec6d06408d4350fe0827d0",
+      "albums": [
+        {
+          "album_name": "Hover: Revolt of Gamers (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2hQ7OcR3x4NizO80CNnOuB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 378170,
       "game_name": "How to Fish",
       "game_url": "https://ostdb.net/games/how-to-fish",
@@ -13109,6 +13249,20 @@
         {
           "album_name": "How to Fish (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5DlT9FvWRluCXPfb0cqjVG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 345443,
+      "game_name": "Hozy",
+      "game_url": "https://ostdb.net/games/hozy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730eb9dc848d41996f31955608",
+      "albums": [
+        {
+          "album_name": "Hozy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/466XBKuQlhq2gviZuhPC6N",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19043,6 +19197,20 @@
       ]
     },
     {
+      "igdb_id": 21527,
+      "game_name": "Orcs & Elves",
+      "game_url": "https://ostdb.net/games/orcs-and-elves",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731bae1da909bd85ebf8217e92",
+      "albums": [
+        {
+          "album_name": "Orcs & Elves (Original Mobile Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/732dfUTNbmRNFeTwCRZp9C",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7344,
       "game_name": "Ori and the Blind Forest",
       "game_url": "https://ostdb.net/games/ori-and-the-blind-forest",
@@ -22147,6 +22315,20 @@
       ]
     },
     {
+      "igdb_id": 337712,
+      "game_name": "RuneScape: Dragonwilds",
+      "game_url": "https://ostdb.net/games/runescape-dragonwilds",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733daaeb82a61d2693ac2e2b39",
+      "albums": [
+        {
+          "album_name": "RuneScape: Dragonwilds Volume 1 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ATwGQIgJJWYuUniyG3Yu7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 25658,
       "game_name": "Runner3",
       "game_url": "https://ostdb.net/games/runner3",
@@ -23015,6 +23197,20 @@
         {
           "album_name": "Sherlock Holmes the Awakened (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5eIXer3q13ChddjYnC9RPF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11250,
+      "game_name": "Shift Happens",
+      "game_url": "https://ostdb.net/games/shift-happens",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737ea5de98d1b24a326f29cd0d",
+      "albums": [
+        {
+          "album_name": "Shift Happens (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7xBa0Zt8LT7mjfEHQF36rA",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24448,6 +24644,20 @@
           "album_name": "Split Fiction (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0AvtXMZEQFwONeBDf2N5ll",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5191,
+      "game_name": "Spore Hero",
+      "game_url": "https://ostdb.net/games/spore-hero",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736345a1ec0d61f576943aa9b4",
+      "albums": [
+        {
+          "album_name": "Spore Hero (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/45w0X5yaXdrQJftz3vt9T0",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -29265,6 +29475,20 @@
       ]
     },
     {
+      "igdb_id": 1526,
+      "game_name": "Trauma Center: Under the Knife 2",
+      "game_url": "https://ostdb.net/games/trauma-center-under-the-knife-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b427fbcbcf7fa17067188e32",
+      "albums": [
+        {
+          "album_name": "Trauma Center: Under the Knife 2 Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7dO0hlsTYg2YTgdRhwkLMH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152203,
       "game_name": "Trek to Yomi",
       "game_url": "https://ostdb.net/games/trek-to-yomi",
@@ -29836,6 +30060,20 @@
           "album_name": "Unknown 9: Awakening (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/15TWz4YSHmhrGI7F8kAVlB",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11314,
+      "game_name": "Unlimited SaGa",
+      "game_url": "https://ostdb.net/games/unlimited-saga",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739690e96079637b7d444c0128",
+      "albums": [
+        {
+          "album_name": "Unlimited:SaGa Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/72eyjjnFH2eBIanw8XkFEP",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
