@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
 | Elderine: Dreams to Destiny | 31132 | [31132-elderine-dreams-to-destiny.json](./31132-elderine-dreams-to-destiny.json) |
 | Eldermyth | 419968 | [419968-eldermyth.json](./419968-eldermyth.json) |
+| Eldertal | 422699 | [422699-eldertal.json](./422699-eldertal.json) |
 | Eldervale | 118089 | [118089-eldervale.json](./118089-eldervale.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
@@ -3898,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erepublik | 63258 | [63258-erepublik.json](./63258-erepublik.json) |
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
 | Erevos | 93226 | [93226-erevos.json](./93226-erevos.json) |
+| Erewhon | 422708 | [422708-erewhon.json](./422708-erewhon.json) |
 | Ergastulum | 75580 | [75580-ergastulum.json](./75580-ergastulum.json) |
 | Ergenekon | 378430 | [378430-ergenekon.json](./378430-ergenekon.json) |
 | Ergo | 152799 | [152799-ergo.json](./152799-ergo.json) |
