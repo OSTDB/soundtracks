@@ -5320,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl: Nuclear Power Plant Simulation | 54710 | [54710-chernobyl-nuclear-power-plant-simulation.json](./54710-chernobyl-nuclear-power-plant-simulation.json) |
 | Chernobyl: Origins | 196666 | [196666-chernobyl-origins.json](./196666-chernobyl-origins.json) |
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
+| Chernobyl: Simulator | 415774 | [415774-chernobyl-simulator.json](./415774-chernobyl-simulator.json) |
 | Chernobyl: Terrorist Attack | 30844 | [30844-chernobyl-terrorist-attack.json](./30844-chernobyl-terrorist-attack.json) |
 | Chernobylite 2: Exclusion Zone | 313433 | [313433-chernobylite-2-exclusion-zone.json](./313433-chernobylite-2-exclusion-zone.json) |
 | Chernobylite: Black Smoke Pack | 323250 | [323250-chernobylite-black-smoke-pack.json](./323250-chernobylite-black-smoke-pack.json) |
@@ -9385,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Storage | 329214 | [329214-cold-storage.json](./329214-cold-storage.json) |
 | Cold Storage | 70857 | [70857-cold-storage.json](./70857-cold-storage.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
+| Cold Trigger | 415759 | [415759-cold-trigger.json](./415759-cold-trigger.json) |
 | Cold Vengeance | 26877 | [26877-cold-vengeance.json](./26877-cold-vengeance.json) |
 | Cold Verdict | 188943 | [188943-cold-verdict.json](./188943-cold-verdict.json) |
 | Cold Verdict 2 | 263989 | [263989-cold-verdict-2.json](./263989-cold-verdict-2.json) |
@@ -10014,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorma | 304967 | [304967-colorma.json](./304967-colorma.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colormeleons | 127703 | [127703-colormeleons.json](./127703-colormeleons.json) |
+| Coloropus | 415758 | [415758-coloropus.json](./415758-coloropus.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | ColorPixel: Color by Number, Pixel Art | 101658 | [101658-colorpixel-color-by-number-pixel-art.json](./101658-colorpixel-color-by-number-pixel-art.json) |
 | Colors | 377345 | [377345-colors.json](./377345-colors.json) |
@@ -13912,6 +13915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Satsujin Jiken: Reporter Saotome Kyouko | 276101 | [276101-crescent-satsujin-jiken-reporter-saotome-kyouko.json](./276101-crescent-satsujin-jiken-reporter-saotome-kyouko.json) |
 | Crescent Satsujin Jiken: Tozasareta Nikki | 276102 | [276102-crescent-satsujin-jiken-tozasareta-nikki.json](./276102-crescent-satsujin-jiken-tozasareta-nikki.json) |
 | Crescent Tower | 339979 | [339979-crescent-tower.json](./339979-crescent-tower.json) |
+| Crescent Tower: Rising | 415736 | [415736-crescent-tower-rising.json](./415736-crescent-tower-rising.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
 | Crest | 35957 | [35957-crest.json](./35957-crest.json) |
 | Crest of the Stars | 57940 | [57940-crest-of-the-stars.json](./57940-crest-of-the-stars.json) |
