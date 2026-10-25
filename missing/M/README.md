@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Masters | 163164 | [163164-mahjong-masters.json](./163164-mahjong-masters.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
 | Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
+| Mahjong Match | 395349 | [395349-mahjong-match.json](./395349-mahjong-match.json) |
 | Mahjong Match | 83156 | [83156-mahjong-match.json](./83156-mahjong-match.json) |
 | Mahjong Match Puzzle | 99420 | [99420-mahjong-match-puzzle.json](./99420-mahjong-match-puzzle.json) |
 | Mahjong Minimal | 213249 | [213249-mahjong-minimal.json](./213249-mahjong-minimal.json) |
@@ -8201,6 +8202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaplace | 78077 | [78077-metaplace.json](./78077-metaplace.json) |
 | Metarun | 234754 | [234754-metarun.json](./234754-metarun.json) |
 | MetaShooter | 211673 | [211673-metashooter.json](./211673-metashooter.json) |
+| MetaShot Smart Cricket | 395453 | [395453-metashot-smart-cricket.json](./395453-metashot-smart-cricket.json) |
 | MetaSoul | 296764 | [296764-metasoul.json](./296764-metasoul.json) |
 | MetaSpace | 126902 | [126902-metaspace.json](./126902-metaspace.json) |
 | Metasweeper | 217352 | [217352-metasweeper.json](./217352-metasweeper.json) |
@@ -14025,6 +14027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphman | 232517 | [232517-morphman.json](./232517-morphman.json) |
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
 | Morphopolis | 9768 | [9768-morphopolis.json](./9768-morphopolis.json) |
+| Morphos | 395345 | [395345-morphos.json](./395345-morphos.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
 | Morpi Card Mix | 291686 | [291686-morpi-card-mix.json](./291686-morpi-card-mix.json) |
 | Morps | 75601 | [75601-morps.json](./75601-morps.json) |
