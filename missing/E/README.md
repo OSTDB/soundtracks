@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Fey Episode 0: The Immolation | 29634 | [29634-echoes-of-the-fey-episode-0-the-immolation.json](./29634-echoes-of-the-fey-episode-0-the-immolation.json) |
 | Echoes of the Fey: The Fox's Trail | 24053 | [24053-echoes-of-the-fey-the-foxs-trail.json](./24053-echoes-of-the-fey-the-foxs-trail.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
+| Echoes of the Flame | 401459 | [401459-echoes-of-the-flame.json](./401459-echoes-of-the-flame.json) |
 | Echoes of the Forgotten | 251006 | [251006-echoes-of-the-forgotten.json](./251006-echoes-of-the-forgotten.json) |
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Hollow | 393635 | [393635-echoes-of-the-hollow.json](./393635-echoes-of-the-hollow.json) |
@@ -6235,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
 | Exit VR | 51713 | [51713-exit-vr.json](./51713-exit-vr.json) |
 | Exit Ways | 346652 | [346652-exit-ways.json](./346652-exit-ways.json) |
+| Exit, Seriously? | 401385 | [401385-exit-seriously.json](./401385-exit-seriously.json) |
 | Exit: A Biodelic Adventure | 129020 | [129020-exit-a-biodelic-adventure.json](./129020-exit-a-biodelic-adventure.json) |
 | Exit: Echoes of Insanity | 395145 | [395145-exit-echoes-of-insanity.json](./395145-exit-echoes-of-insanity.json) |
 | Exit: Left or Right | 290653 | [290653-exit-left-or-right.json](./290653-exit-left-or-right.json) |
