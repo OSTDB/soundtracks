@@ -3724,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regency Solitaire | 35745 | [35745-regency-solitaire.json](./35745-regency-solitaire.json) |
 | Regency Solitaire II | 237089 | [237089-regency-solitaire-ii.json](./237089-regency-solitaire-ii.json) |
 | Regeneration | 318279 | [318279-regeneration.json](./318279-regeneration.json) |
+| Regeneration Engine | 400184 | [400184-regeneration-engine.json](./400184-regeneration-engine.json) |
 | Regenesis | 238620 | [238620-regenesis.json](./238620-regenesis.json) |
 | Regenesis Ultimatum | 258120 | [258120-regenesis-ultimatum.json](./258120-regenesis-ultimatum.json) |
 | Regeria Hope Episode 1 | 33403 | [33403-regeria-hope-episode-1.json](./33403-regeria-hope-episode-1.json) |
@@ -4916,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Classix Collection #1: Data East | 147905 | [147905-retro-classix-collection-1-data-east.json](./147905-retro-classix-collection-1-data-east.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Collection 1 | 280632 | [280632-retro-collection-1.json](./280632-retro-collection-1.json) |
+| Retro Collection: 3 in 1 | 400181 | [400181-retro-collection-3-in-1.json](./400181-retro-collection-3-in-1.json) |
 | Retro Combat | 271601 | [271601-retro-combat.json](./271601-retro-combat.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro Cube Slider | 421381 | [421381-retro-cube-slider.json](./421381-retro-cube-slider.json) |
