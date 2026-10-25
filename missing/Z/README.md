@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba Fitness | 3705 | [3705-zumba-fitness.json](./3705-zumba-fitness.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Fitness Core | 5307 | [5307-zumba-fitness-core.json](./5307-zumba-fitness-core.json) |
+| Zumba Fitness Party | 421399 | [421399-zumba-fitness-party.json](./421399-zumba-fitness-party.json) |
 | Zumba Fitness Rush | 47389 | [47389-zumba-fitness-rush.json](./47389-zumba-fitness-rush.json) |
 | Zumba Fitness World Party | 5308 | [5308-zumba-fitness-world-party.json](./5308-zumba-fitness-world-party.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
