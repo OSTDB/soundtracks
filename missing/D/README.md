@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Streets / Wing Commander | 82504 | [82504-dangerous-streets-wing-commander.json](./82504-dangerous-streets-wing-commander.json) |
 | Dangerous Superheroes After Dark: Heroines Behind the Mask | 396131 | [396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json](./396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
+| Dangerous Waters | 14789 | [14789-dangerous-waters.json](./14789-dangerous-waters.json) |
 | Dangerous World | 300504 | [300504-dangerous-world.json](./300504-dangerous-world.json) |
 | Dangerous World 2 | 321815 | [321815-dangerous-world-2.json](./321815-dangerous-world-2.json) |
 | Dangerous Zone | 169741 | [169741-dangerous-zone.json](./169741-dangerous-zone.json) |
@@ -7582,6 +7583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Simulator | 345063 | [345063-diner-simulator.json](./345063-diner-simulator.json) |
 | Diner Simulator: Horror Story | 326200 | [326200-diner-simulator-horror-story.json](./326200-diner-simulator-horror-story.json) |
 | Diner Together | 192648 | [192648-diner-together.json](./192648-diner-together.json) |
+| DinerTown Tycoon | 15000 | [15000-dinertown-tycoon.json](./15000-dinertown-tycoon.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Dead | 272495 | [272495-ding-dong-dead.json](./272495-ding-dong-dead.json) |
 | Ding Dong Delivery 2: Pizza | 249594 | [249594-ding-dong-delivery-2-pizza.json](./249594-ding-dong-delivery-2-pizza.json) |
@@ -11595,6 +11597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconis Race | 358440 | [358440-draconis-race.json](./358440-draconis-race.json) |
 | Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
 | Draconius GO | 74900 | [74900-draconius-go.json](./74900-draconius-go.json) |
+| Draconus: Cult of the Wyrm | 9189 | [9189-draconus-cult-of-the-wyrm.json](./9189-draconus-cult-of-the-wyrm.json) |
 | Dracs After Dusk | 347735 | [347735-dracs-after-dusk.json](./347735-dracs-after-dusk.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula | 154323 | [154323-dracula.json](./154323-dracula.json) |
