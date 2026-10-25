@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Advanced Preschool | 77094 | [77094-jumpstart-advanced-preschool.json](./77094-jumpstart-advanced-preschool.json) |
 | JumpStart Advanced Preschool: StoryLand | 77093 | [77093-jumpstart-advanced-preschool-storyland.json](./77093-jumpstart-advanced-preschool-storyland.json) |
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
+| JumpStart Adventures 4th Grade: Sapphire Falls | 406755 | [406755-jumpstart-adventures-4th-grade-sapphire-falls.json](./406755-jumpstart-adventures-4th-grade-sapphire-falls.json) |
 | JumpStart Artist | 294512 | [294512-jumpstart-artist.json](./294512-jumpstart-artist.json) |
 | JumpStart Baby | 144858 | [144858-jumpstart-baby.json](./144858-jumpstart-baby.json) |
 | JumpStart Escape from Adventure Island | 50725 | [50725-jumpstart-escape-from-adventure-island.json](./50725-jumpstart-escape-from-adventure-island.json) |
