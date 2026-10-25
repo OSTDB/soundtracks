@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Slime 2 | 159125 | [159125-carrot-slime-2.json](./159125-carrot-slime-2.json) |
 | Carrot Smash | 378522 | [378522-carrot-smash.json](./378522-carrot-smash.json) |
 | Carrot the Cat | 261314 | [261314-carrot-the-cat.json](./261314-carrot-the-cat.json) |
+| Carrot Track | 397857 | [397857-carrot-track.json](./397857-carrot-track.json) |
 | Carrot: Pancakes and Waffles | 201676 | [201676-carrot-pancakes-and-waffles.json](./201676-carrot-pancakes-and-waffles.json) |
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carrots and Cream | 22414 | [22414-carrots-and-cream.json](./22414-carrots-and-cream.json) |
@@ -2512,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casablanca ni Ai wo: Satsujinsha wa Jikuu o Koete | 97461 | [97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json](./97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json) |
 | Casablanca: The Day After | 319808 | [319808-casablanca-the-day-after.json](./319808-casablanca-the-day-after.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
+| Casanova | 397863 | [397863-casanova.json](./397863-casanova.json) |
 | Casanova Simulator | 373085 | [373085-casanova-simulator.json](./373085-casanova-simulator.json) |
 | Casanova: The Duel of the Black Rose | 71708 | [71708-casanova-the-duel-of-the-black-rose.json](./71708-casanova-the-duel-of-the-black-rose.json) |
 | Cascabel | 423260 | [423260-cascabel.json](./423260-cascabel.json) |
@@ -3082,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat & Butterfly | 303725 | [303725-cat-and-butterfly.json](./303725-cat-and-butterfly.json) |
 | Cat & Farm Pals | 341294 | [341294-cat-and-farm-pals.json](./341294-cat-and-farm-pals.json) |
 | Cat & Friends Memory | 379975 | [379975-cat-and-friends-memory.json](./379975-cat-and-friends-memory.json) |
+| Cat & Friends: Purrfect Jump | 397733 | [397733-cat-and-friends-purrfect-jump.json](./397733-cat-and-friends-purrfect-jump.json) |
 | Cat & Gold | 272369 | [272369-cat-and-gold.json](./272369-cat-and-gold.json) |
 | Cat & Mice | 217774 | [217774-cat-and-mice.json](./217774-cat-and-mice.json) |
 | Cat & Onion | 284800 | [284800-cat-and-onion.json](./284800-cat-and-onion.json) |
@@ -11198,6 +11201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
 | Constellation Distantia | 30090 | [30090-constellation-distantia.json](./30090-constellation-distantia.json) |
 | Constellation Tango | 191178 | [191178-constellation-tango.json](./191178-constellation-tango.json) |
+| Constellations | 397860 | [397860-constellations.json](./397860-constellations.json) |
 | Constellations: Beyond the Edges | 167256 | [167256-constellations-beyond-the-edges.json](./167256-constellations-beyond-the-edges.json) |
 | Constellations: Puzzles in the Sky | 195428 | [195428-constellations-puzzles-in-the-sky.json](./195428-constellations-puzzles-in-the-sky.json) |
 | Consternation II | 169640 | [169640-consternation-ii.json](./169640-consternation-ii.json) |
