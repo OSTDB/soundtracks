@@ -4337,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzles | 96468 | [96468-hentai-puzzles.json](./96468-hentai-puzzles.json) |
 | Hentai Puzzles: Attack on Tight Panties | 245767 | [245767-hentai-puzzles-attack-on-tight-panties.json](./245767-hentai-puzzles-attack-on-tight-panties.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
+| Hentai Reality 3 | 400177 | [400177-hentai-reality-3.json](./400177-hentai-reality-3.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
 | Hentai Rina | 271623 | [271623-hentai-rina.json](./271623-hentai-rina.json) |
 | Hentai Room | 230781 | [230781-hentai-room.json](./230781-hentai-room.json) |
@@ -8482,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
 | Hospital Hustle | 52235 | [52235-hospital-hustle.json](./52235-hospital-hustle.json) |
 | Hospital of the Undead | 291914 | [291914-hospital-of-the-undead.json](./291914-hospital-of-the-undead.json) |
+| Hospital Romance: Anime Doctor Crush | 400178 | [400178-hospital-romance-anime-doctor-crush.json](./400178-hospital-romance-anime-doctor-crush.json) |
 | Hospital Tycoon | 10133 | [10133-hospital-tycoon.json](./10133-hospital-tycoon.json) |
 | Hospital Tycoon | 220171 | [220171-hospital-tycoon.json](./220171-hospital-tycoon.json) |
 | Hospitality VR | 160135 | [160135-hospitality-vr.json](./160135-hospitality-vr.json) |
@@ -9235,6 +9237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive 2 | 13210 | [13210-how-to-survive-2.json](./13210-how-to-survive-2.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
 | How to Survive 2: Kovac's Ultimate Edition | 53194 | [53194-how-to-survive-2-kovacs-ultimate-edition.json](./53194-how-to-survive-2-kovacs-ultimate-edition.json) |
+| How to Survive Religious Trauma | 400275 | [400275-how-to-survive-religious-trauma.json](./400275-how-to-survive-religious-trauma.json) |
 | How to Survive the Night shift | 295870 | [295870-how-to-survive-the-night-shift.json](./295870-how-to-survive-the-night-shift.json) |
 | How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
 | How to Survive: El Diablo Islands - Host | 172087 | [172087-how-to-survive-el-diablo-islands-host.json](./172087-how-to-survive-el-diablo-islands-host.json) |
