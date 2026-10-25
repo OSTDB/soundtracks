@@ -7464,6 +7464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
 | Football Academy Manager | 372745 | [372745-football-academy-manager.json](./372745-football-academy-manager.json) |
+| Football Academy Simulator | 420757 | [420757-football-academy-simulator.json](./420757-football-academy-simulator.json) |
 | Football Agent | 370452 | [370452-football-agent.json](./370452-football-agent.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
 | Football Battle: Touchdown! | 231952 | [231952-football-battle-touchdown.json](./231952-football-battle-touchdown.json) |
@@ -8755,6 +8756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foto Frenzy | 78070 | [78070-foto-frenzy.json](./78070-foto-frenzy.json) |
 | Foto Showdown | 47903 | [47903-foto-showdown.json](./47903-foto-showdown.json) |
+| FotoMuseo 3D | 420770 | [420770-fotomuseo-3d.json](./420770-fotomuseo-3d.json) |
 | Fotress S | 245985 | [245985-fotress-s.json](./245985-fotress-s.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
 | Foul Play | 160072 | [160072-foul-play.json](./160072-foul-play.json) |
