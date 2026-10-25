@@ -15962,6 +15962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Path | 261837 | [261837-mushroom-path.json](./261837-mushroom-path.json) |
 | Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
 | Mushroom Pin | 246807 | [246807-mushroom-pin.json](./246807-mushroom-pin.json) |
+| Mushroom Pop | 420190 | [420190-mushroom-pop.json](./420190-mushroom-pop.json) |
 | Mushroom Quest | 104060 | [104060-mushroom-quest.json](./104060-mushroom-quest.json) |
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
 | Mushroom Story | 323973 | [323973-mushroom-story.json](./323973-mushroom-story.json) |
