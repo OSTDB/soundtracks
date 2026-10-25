@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Dash | 77878 | [77878-wedding-dash.json](./77878-wedding-dash.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
 | Wedding Designer | 121340 | [121340-wedding-designer.json](./121340-wedding-designer.json) |
+| Wedding Fiasco - The Race for the Perfect Dress | 101562 | [101562-wedding-fiasco-the-race-for-the-perfect-dress.json](./101562-wedding-fiasco-the-race-for-the-perfect-dress.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach | 296178 | [296178-wedding-peach.json](./296178-wedding-peach.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
