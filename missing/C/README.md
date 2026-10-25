@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Chronicles | 294251 | [294251-cardboard-chronicles.json](./294251-cardboard-chronicles.json) |
 | Cardboard Clash | 125904 | [125904-cardboard-clash.json](./125904-cardboard-clash.json) |
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
+| Cardboard Fighter | 395370 | [395370-cardboard-fighter.json](./395370-cardboard-fighter.json) |
 | Cardboard Fish | 268311 | [268311-cardboard-fish.json](./268311-cardboard-fish.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
@@ -2217,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
 | Carnage | 298396 | [298396-carnage.json](./298396-carnage.json) |
 | Carnage | 399041 | [399041-carnage.json](./399041-carnage.json) |
+| Carnage Contest | 395407 | [395407-carnage-contest.json](./395407-carnage-contest.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
 | Carnage Heart EZ: Easy Zapping | 66184 | [66184-carnage-heart-ez-easy-zapping.json](./66184-carnage-heart-ez-easy-zapping.json) |
@@ -5849,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chigau!!! | 170786 | [170786-chigau.json](./170786-chigau.json) |
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
 | Chigau!!!+: Premium Edition | 186232 | [186232-chigau-premium-edition.json](./186232-chigau-premium-edition.json) |
+| Chigirareta Kioku | 395355 | [395355-chigirareta-kioku.json](./395355-chigirareta-kioku.json) |
 | Chigusa's Diary | 412422 | [412422-chigusas-diary.json](./412422-chigusas-diary.json) |
 | Chihiro Himukai Always Walks Away | 159136 | [159136-chihiro-himukai-always-walks-away.json](./159136-chihiro-himukai-always-walks-away.json) |
 | Chihuahua Controller | 373115 | [373115-chihuahua-controller.json](./373115-chihuahua-controller.json) |
@@ -6474,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Mentei Sherlock-chan: Okiteyaburi no Misdirection | 334558 | [334558-chou-mentei-sherlock-chan-okiteyaburi-no-misdirection.json](./334558-chou-mentei-sherlock-chan-okiteyaburi-no-misdirection.json) |
 | Chou Nanmon Nazotoki Chousenjou | 251511 | [251511-chou-nanmon-nazotoki-chousenjou.json](./251511-chou-nanmon-nazotoki-chousenjou.json) |
 | Chou Sentou-chuu: Battle for Money | 280328 | [280328-chou-sentou-chuu-battle-for-money.json](./280328-chou-sentou-chuu-battle-for-money.json) |
+| Chou Shin Jikuu Geimu Neptune: Unlimited | 395340 | [395340-chou-shin-jikuu-geimu-neptune-unlimited.json](./395340-chou-shin-jikuu-geimu-neptune-unlimited.json) |
 | Chou Tousouchuu & Chou Sentouchuu Double Pack | 107656 | [107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json](./107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json) |
 | Chou Yakkyou Miracle Nine | 45541 | [45541-chou-yakkyou-miracle-nine.json](./45541-chou-yakkyou-miracle-nine.json) |
 | Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou | 37700 | [37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json](./37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json) |
@@ -10356,6 +10360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Alpha Rescue | 313538 | [313538-comet-alpha-rescue.json](./313538-comet-alpha-rescue.json) |
 | Comet Angel | 303736 | [303736-comet-angel.json](./303736-comet-angel.json) |
 | Comet Busters! | 74014 | [74014-comet-busters.json](./74014-comet-busters.json) |
+| Comet Cats | 395341 | [395341-comet-cats.json](./395341-comet-cats.json) |
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
 | Comet Crash | 21246 | [21246-comet-crash.json](./21246-comet-crash.json) |
 | Comet Crash 2: The Kronkoid Wars | 52155 | [52155-comet-crash-2-the-kronkoid-wars.json](./52155-comet-crash-2-the-kronkoid-wars.json) |
@@ -14021,6 +14026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crete | 211383 | [211383-crete.json](./211383-crete.json) |
 | Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
+| Crewcial | 395346 | [395346-crewcial.json](./395346-crewcial.json) |
 | Crewed | 402465 | [402465-crewed.json](./402465-crewed.json) |
 | Crewmate Rush Space Escape Runner | 414539 | [414539-crewmate-rush-space-escape-runner.json](./414539-crewmate-rush-space-escape-runner.json) |
 | Crewmember Pigeon and the Case of the Burgled Buttons | 188593 | [188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json](./188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json) |
@@ -16535,6 +16541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyan's Snow House | 289446 | [289446-cyans-snow-house.json](./289446-cyans-snow-house.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyanide Angel | 397162 | [397162-cyanide-angel.json](./397162-cyanide-angel.json) |
+| Cyanos: Ao wo Tayutau Nageki no Chou | 395357 | [395357-cyanos-ao-wo-tayutau-nageki-no-chou.json](./395357-cyanos-ao-wo-tayutau-nageki-no-chou.json) |
 | Cyanotype Daydream: The Girl Who Dreamed the World | 191059 | [191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json](./191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json) |
 | Cyball | 225843 | [225843-cyball.json](./225843-cyball.json) |
 | CybArena | 326244 | [326244-cybarena.json](./326244-cybarena.json) |
