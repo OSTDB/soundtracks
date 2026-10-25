@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gato | 19702 | [19702-gato.json](./19702-gato.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
+| Gatotag | 403924 | [403924-gatotag.json](./403924-gatotag.json) |
 | Gats.io | 327907 | [327907-gats-io.json](./327907-gats-io.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
@@ -2113,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gehirntrainer | 76942 | [76942-gehirntrainer.json](./76942-gehirntrainer.json) |
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
+| Geist Heist | 403931 | [403931-geist-heist.json](./403931-geist-heist.json) |
 | Geisterbahnhof | 362990 | [362990-geisterbahnhof.json](./362990-geisterbahnhof.json) |
 | Geki Atsu!! Pachige Damashii Vol.2: Evangelion - Shinjitsu no Tsubasa | 178404 | [178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json](./178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
@@ -9289,6 +9291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts 'n' Garters in DNA Danger | 70029 | [70029-guts-n-garters-in-dna-danger.json](./70029-guts-n-garters-in-dna-danger.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
+| Gutspill | 403929 | [403929-gutspill.json](./403929-gutspill.json) |
 | Gutsy Grid | 402438 | [402438-gutsy-grid.json](./402438-gutsy-grid.json) |
 | Gutted: Infested Crypts | 405682 | [405682-gutted-infested-crypts.json](./405682-gutted-infested-crypts.json) |
 | Gutter Night | 376028 | [376028-gutter-night.json](./376028-gutter-night.json) |
