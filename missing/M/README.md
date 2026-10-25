@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manairons | 369857 | [369857-manairons.json](./369857-manairons.json) |
 | Manakoto Hitomi no Bawai | 268135 | [268135-manakoto-hitomi-no-bawai.json](./268135-manakoto-hitomi-no-bawai.json) |
+| Manala: Equinox War | 408594 | [408594-manala-equinox-war.json](./408594-manala-equinox-war.json) |
 | Manalith | 142902 | [142902-manalith.json](./142902-manalith.json) |
 | Manall's FF1 | 309580 | [309580-manalls-ff1.json](./309580-manalls-ff1.json) |
 | ManaRocks | 77163 | [77163-manarocks.json](./77163-manarocks.json) |
@@ -4794,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maurim: Unepic Thief | 182719 | [182719-maurim-unepic-thief.json](./182719-maurim-unepic-thief.json) |
 | Mauritius Atoll | 176294 | [176294-mauritius-atoll.json](./176294-mauritius-atoll.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
+| Mausoleum | 408613 | [408613-mausoleum.json](./408613-mausoleum.json) |
 | Mausoleum of Memories | 295078 | [295078-mausoleum-of-memories.json](./295078-mausoleum-of-memories.json) |
 | Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
 | Mave's Castle | 415323 | [415323-maves-castle.json](./415323-maves-castle.json) |
@@ -12369,6 +12371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco | 178055 | [178055-monaco.json](./178055-monaco.json) |
 | Monaco 2 | 194505 | [194505-monaco-2.json](./194505-monaco-2.json) |
 | Monaco 360: Retro Racing | 68556 | [68556-monaco-360-retro-racing.json](./68556-monaco-360-retro-racing.json) |
+| Monaco GP | 408809 | [408809-monaco-gp.json](./408809-monaco-gp.json) |
 | Monaco Grand Prix | 3413 | [3413-monaco-grand-prix.json](./3413-monaco-grand-prix.json) |
 | Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
 | Monaco: What's Yours Is Mine | 8739 | [8739-monaco-whats-yours-is-mine.json](./8739-monaco-whats-yours-is-mine.json) |
@@ -14280,6 +14283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Girl Savior | 272367 | [272367-mosaic-girl-savior.json](./272367-mosaic-girl-savior.json) |
 | Mosaic Hearts | 172497 | [172497-mosaic-hearts.json](./172497-mosaic-hearts.json) |
 | Mosaic Mini Golf | 175234 | [175234-mosaic-mini-golf.json](./175234-mosaic-mini-golf.json) |
+| Mosaic no Tenshi | 408588 | [408588-mosaic-no-tenshi.json](./408588-mosaic-no-tenshi.json) |
 | Mosaic of Life | 419154 | [419154-mosaic-of-life.json](./419154-mosaic-of-life.json) |
 | Mosaic of the Pharaohs | 337076 | [337076-mosaic-of-the-pharaohs.json](./337076-mosaic-of-the-pharaohs.json) |
 | Mosaic of the Strange | 345024 | [345024-mosaic-of-the-strange.json](./345024-mosaic-of-the-strange.json) |
@@ -16875,6 +16879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Joyful Aquarium | 330902 | [330902-my-joyful-aquarium.json](./330902-my-joyful-aquarium.json) |
 | My Jurassic Darling | 231419 | [231419-my-jurassic-darling.json](./231419-my-jurassic-darling.json) |
 | My Jurassic Farm | 61473 | [61473-my-jurassic-farm.json](./61473-my-jurassic-farm.json) |
+| My Keyboard is Full of Ants! | 408597 | [408597-my-keyboard-is-full-of-ants.json](./408597-my-keyboard-is-full-of-ants.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
