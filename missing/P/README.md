@@ -5701,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Dreams Deluxe | 250197 | [250197-pinball-dreams-deluxe.json](./250197-pinball-dreams-deluxe.json) |
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
+| PinBall Escape | 397282 | [397282-pinball-escape.json](./397282-pinball-escape.json) |
 | Pinball Fantasies | 6023 | [6023-pinball-fantasies.json](./6023-pinball-fantasies.json) |
 | Pinball Fantasies Deluxe | 78624 | [78624-pinball-fantasies-deluxe.json](./78624-pinball-fantasies-deluxe.json) |
 | Pinball Fantastic | 107554 | [107554-pinball-fantastic.json](./107554-pinball-fantastic.json) |
@@ -10344,6 +10345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Logo Quiz | 105862 | [105862-pop-logo-quiz.json](./105862-pop-logo-quiz.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Off 2 | 264771 | [264771-pop-off-2.json](./264771-pop-off-2.json) |
+| Pop Optics | 397271 | [397271-pop-optics.json](./397271-pop-optics.json) |
 | Pop Pixie | 382504 | [382504-pop-pixie.json](./382504-pop-pixie.json) |
 | Pop Plus: Solo | 67886 | [67886-pop-plus-solo.json](./67886-pop-plus-solo.json) |
 | Pop Pop | 204211 | [204211-pop-pop.json](./204211-pop-pop.json) |
