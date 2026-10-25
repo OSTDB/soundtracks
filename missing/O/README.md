@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Obscure Figures | 387648 | [387648-obscure-figures.json](./387648-obscure-figures.json) |
 | Obscure Horrors | 386684 | [386684-obscure-horrors.json](./386684-obscure-horrors.json) |
+| Obscure Legends: Curse of the Ring | 418191 | [418191-obscure-legends-curse-of-the-ring.json](./418191-obscure-legends-curse-of-the-ring.json) |
 | Obscure Realm | 74198 | [74198-obscure-realm.json](./74198-obscure-realm.json) |
 | Obscure: Dark Aura | 66408 | [66408-obscure-dark-aura.json](./66408-obscure-dark-aura.json) |
 | ObsCure: The Aftermath | 5080 | [5080-obscure-the-aftermath.json](./5080-obscure-the-aftermath.json) |
@@ -1955,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Mind | 390594 | [390594-one-mind.json](./390594-one-mind.json) |
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
 | One Minute To Close | 310005 | [310005-one-minute-to-close.json](./310005-one-minute-to-close.json) |
+| One Mistake | 418245 | [418245-one-mistake.json](./418245-one-mistake.json) |
 | One More Adventure | 423307 | [423307-one-more-adventure.json](./423307-one-more-adventure.json) |
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
@@ -3309,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordinary Family | 126433 | [126433-ordinary-family.json](./126433-ordinary-family.json) |
 | Ordinary Rooms | 253237 | [253237-ordinary-rooms.json](./253237-ordinary-rooms.json) |
 | Ordinary Stickman Goes For A Walk | 289245 | [289245-ordinary-stickman-goes-for-a-walk.json](./289245-ordinary-stickman-goes-for-a-walk.json) |
+| Ordinary Suspects | 418211 | [418211-ordinary-suspects.json](./418211-ordinary-suspects.json) |
 | Ordinem | 114339 | [114339-ordinem.json](./114339-ordinem.json) |
 | Ordo Et Chao: New World | 113562 | [113562-ordo-et-chao-new-world.json](./113562-ordo-et-chao-new-world.json) |
 | Ore & Odds | 400688 | [400688-ore-and-odds.json](./400688-ore-and-odds.json) |
