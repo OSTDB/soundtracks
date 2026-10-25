@@ -7907,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Woodman | 127773 | [127773-forest-woodman.json](./127773-forest-woodman.json) |
 | Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
 | Forest's Secret | 138716 | [138716-forests-secret.json](./138716-forests-secret.json) |
+| Forestation | 76446 | [76446-forestation.json](./76446-forestation.json) |
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
 | Forested Super Mario Bros. U | 314122 | [314122-forested-super-mario-bros-u.json](./314122-forested-super-mario-bros-u.json) |
 | Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
@@ -8652,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 5 | 2131 | [2131-forza-motorsport-5.json](./2131-forza-motorsport-5.json) |
 | Forza Motorsport 5: Game of the Year Edition | 136175 | [136175-forza-motorsport-5-game-of-the-year-edition.json](./136175-forza-motorsport-5-game-of-the-year-edition.json) |
 | Forza Motorsport 6 and Forza Horizon 2 Bundle | 311355 | [311355-forza-motorsport-6-and-forza-horizon-2-bundle.json](./311355-forza-motorsport-6-and-forza-horizon-2-bundle.json) |
+| Forza Motorsport 7 and Forza Horizon 3 Bundle | 83742 | [83742-forza-motorsport-7-and-forza-horizon-3-bundle.json](./83742-forza-motorsport-7-and-forza-horizon-3-bundle.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
 | Forza Motorsport and Forza Horizon 5 Premium Editions Bundle | 277243 | [277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json](./277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json) |
@@ -9173,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franklin: A Birthday Surprise | 118948 | [118948-franklin-a-birthday-surprise.json](./118948-franklin-a-birthday-surprise.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
+| Franky the Bumwalker | 76493 | [76493-franky-the-bumwalker.json](./76493-franky-the-bumwalker.json) |
 | Frankystein | 97451 | [97451-frankystein.json](./97451-frankystein.json) |
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
@@ -10113,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frond Online | 307348 | [307348-frond-online.json](./307348-frond-online.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
+| Front Line Pack | 83741 | [83741-front-line-pack.json](./83741-front-line-pack.json) |
 | Front Lines | 340265 | [340265-front-lines.json](./340265-front-lines.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
 | Front Mission 1st | 21541 | [21541-front-mission-1st.json](./21541-front-mission-1st.json) |
