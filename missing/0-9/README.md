@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
 | ¿ Y ? A Short Memoir Told in Bits | 381331 | [381331-y-a-short-memoir-told-in-bits.json](./381331-y-a-short-memoir-told-in-bits.json) |
 | ¿Me verán? | 401164 | [401164-me-veran.json](./401164-me-veran.json) |
+| ... :D | 407769 | [407769-d.json](./407769-d.json) |
 | ...Iru! | 93548 | [93548-iru.json](./93548-iru.json) |
 | ...Knew the Beginning | 195155 | [195155-knew-the-beginning.json](./195155-knew-the-beginning.json) |
 | ...Vincent: Mansion of The Dead | 376667 | [376667-vincent-mansion-of-the-dead.json](./376667-vincent-mansion-of-the-dead.json) |
