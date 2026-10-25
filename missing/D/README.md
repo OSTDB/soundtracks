@@ -5997,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desouled | 413087 | [413087-desouled.json](./413087-desouled.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
+| Despair Beneath the Sunless Sky | 416383 | [416383-despair-beneath-the-sunless-sky.json](./416383-despair-beneath-the-sunless-sky.json) |
 | Despair Mario's Gambit 64 | 378345 | [378345-despair-marios-gambit-64.json](./378345-despair-marios-gambit-64.json) |
 | Despair Mario's Gambit: Hint Arts | 388248 | [388248-despair-marios-gambit-hint-arts.json](./388248-despair-marios-gambit-hint-arts.json) |
 | Despair: Blood Curse | 153951 | [153951-despair-blood-curse.json](./153951-despair-blood-curse.json) |
@@ -12765,6 +12766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Telephone Game: Telpic | 138635 | [138635-drawing-telephone-game-telpic.json](./138635-drawing-telephone-game-telpic.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
+| Drawmi: Creature Collector | 416374 | [416374-drawmi-creature-collector.json](./416374-drawmi-creature-collector.json) |
 | Drawmi: Terraform Sim | 424696 | [424696-drawmi-terraform-sim.json](./424696-drawmi-terraform-sim.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
 | Drawn Down | 117448 | [117448-drawn-down.json](./117448-drawn-down.json) |
@@ -14474,6 +14476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dukes of Hazzard 2 | 40653 | [40653-dukes-of-hazzard-2.json](./40653-dukes-of-hazzard-2.json) |
 | Duketroid | 308457 | [308457-duketroid.json](./308457-duketroid.json) |
 | Dukkido | 330897 | [330897-dukkido.json](./330897-dukkido.json) |
+| Dulat | 416350 | [416350-dulat.json](./416350-dulat.json) |
 | Dulce et Decorum | 195202 | [195202-dulce-et-decorum.json](./195202-dulce-et-decorum.json) |
 | Duline | 199489 | [199489-duline.json](./199489-duline.json) |
 | Dull Ache | 181843 | [181843-dull-ache.json](./181843-dull-ache.json) |
@@ -14650,6 +14653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Breakout: Chapter 1 | 252616 | [252616-dungeon-breakout-chapter-1.json](./252616-dungeon-breakout-chapter-1.json) |
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
 | Dungeon Bricker | 159015 | [159015-dungeon-bricker.json](./159015-dungeon-bricker.json) |
+| Dungeon Bucko | 416376 | [416376-dungeon-bucko.json](./416376-dungeon-bucko.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
