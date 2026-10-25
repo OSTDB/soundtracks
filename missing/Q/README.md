@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quell 4D | 25070 | [25070-quell-4d.json](./25070-quell-4d.json) |
 | Quell Logic Collection | 15816 | [15816-quell-logic-collection.json](./15816-quell-logic-collection.json) |
 | Quell Memento | 15743 | [15743-quell-memento.json](./15743-quell-memento.json) |
+| Quell Zen | 32836 | [32836-quell-zen.json](./32836-quell-zen.json) |
 | Quemarropa | 402341 | [402341-quemarropa.json](./402341-quemarropa.json) |
 | Quench | 106138 | [106138-quench.json](./106138-quench.json) |
 | QuentBlast | 218666 | [218666-quentblast.json](./218666-quentblast.json) |
