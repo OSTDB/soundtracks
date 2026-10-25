@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
 | Santa Simulator: Christmas Factory | 381892 | [381892-santa-simulator-christmas-factory.json](./381892-santa-simulator-christmas-factory.json) |
 | Santa Ski vs. Zombies Ski | 257012 | [257012-santa-ski-vs-zombies-ski.json](./257012-santa-ski-vs-zombies-ski.json) |
+| Santa Slayer | 396061 | [396061-santa-slayer.json](./396061-santa-slayer.json) |
 | Santa Slays Nazis | 196117 | [196117-santa-slays-nazis.json](./196117-santa-slays-nazis.json) |
 | Santa Sleigher | 354763 | [354763-santa-sleigher.json](./354763-santa-sleigher.json) |
 | Santa Slide Rush | 401446 | [401446-santa-slide-rush.json](./401446-santa-slide-rush.json) |
@@ -9566,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirwood | 141708 | [141708-sirwood.json](./141708-sirwood.json) |
 | Sis and Bro The Cyborg Siblings | 292962 | [292962-sis-and-bro-the-cyborg-siblings.json](./292962-sis-and-bro-the-cyborg-siblings.json) |
 | Sisão | 172558 | [172558-sisao.json](./172558-sisao.json) |
+| Sísifo va lentin | 395959 | [395959-sisifo-va-lentin.json](./395959-sisifo-va-lentin.json) |
 | Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
 | Sissy's Magical Ponycorn Adventure | 65919 | [65919-sissys-magical-ponycorn-adventure.json](./65919-sissys-magical-ponycorn-adventure.json) |
 | Sister Adventure | 123919 | [123919-sister-adventure.json](./123919-sister-adventure.json) |
@@ -12996,6 +12998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Hero 2019 | 223913 | [223913-soccer-hero-2019.json](./223913-soccer-hero-2019.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
+| Soccer Is Football | 395970 | [395970-soccer-is-football.json](./395970-soccer-is-football.json) |
 | Soccer Kick | 104501 | [104501-soccer-kick.json](./104501-soccer-kick.json) |
 | Soccer Kick-ups | 406059 | [406059-soccer-kick-ups.json](./406059-soccer-kick-ups.json) |
 | Soccer Kid | 4302 | [4302-soccer-kid.json](./4302-soccer-kid.json) |
@@ -21217,6 +21220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive: Apocalypse | 76582 | [76582-stay-alive-apocalypse.json](./76582-stay-alive-apocalypse.json) |
 | Stay Alive: Zombie Survival | 153508 | [153508-stay-alive-zombie-survival.json](./153508-stay-alive-zombie-survival.json) |
 | Stay At Home | 123918 | [123918-stay-at-home.json](./123918-stay-at-home.json) |
+| Stay Awake | 395942 | [395942-stay-awake.json](./395942-stay-awake.json) |
 | Stay Away from the Lighthouse | 415473 | [415473-stay-away-from-the-lighthouse.json](./415473-stay-away-from-the-lighthouse.json) |
 | Stay Away From Zombies | 195543 | [195543-stay-away-from-zombies.json](./195543-stay-away-from-zombies.json) |
 | Stay Close | 33182 | [33182-stay-close.json](./33182-stay-close.json) |
@@ -27002,6 +27006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slam | 46794 | [46794-super-slam.json](./46794-super-slam.json) |
 | Super Slam Dunk | 42452 | [42452-super-slam-dunk.json](./42452-super-slam-dunk.json) |
 | Super Slam Dunk Touchdown | 27664 | [27664-super-slam-dunk-touchdown.json](./27664-super-slam-dunk-touchdown.json) |
+| Super Slam with the Super Duper Sumos | 396073 | [396073-super-slam-with-the-super-duper-sumos.json](./396073-super-slam-with-the-super-duper-sumos.json) |
 | Super Slap Shot | 94561 | [94561-super-slap-shot.json](./94561-super-slap-shot.json) |
 | Super Slapshot | 42451 | [42451-super-slapshot.json](./42451-super-slapshot.json) |
 | Super Sled Acer | 421227 | [421227-super-sled-acer.json](./421227-super-sled-acer.json) |
@@ -28559,6 +28564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
 | Swann's Song | 345889 | [345889-swanns-song.json](./345889-swanns-song.json) |
 | Swans At The Welkin | 390718 | [390718-swans-at-the-welkin.json](./390718-swans-at-the-welkin.json) |
+| Swans in the Wallow | 395991 | [395991-swans-in-the-wallow.json](./395991-swans-in-the-wallow.json) |
 | Swap | 177370 | [177370-swap.json](./177370-swap.json) |
 | Swap | 219556 | [219556-swap.json](./219556-swap.json) |
 | Swap | 247928 | [247928-swap.json](./247928-swap.json) |
