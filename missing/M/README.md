@@ -12146,6 +12146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojo Solitaire Collection | 102560 | [102560-mojo-solitaire-collection.json](./102560-mojo-solitaire-collection.json) |
 | Mojo XXX | 292684 | [292684-mojo-xxx.json](./292684-mojo-xxx.json) |
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
+| Moka Future | 411996 | [411996-moka-future.json](./411996-moka-future.json) |
 | Mokens League | 222788 | [222788-mokens-league.json](./222788-mokens-league.json) |
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
 | Mokhtar: Uprising Season | 319446 | [319446-mokhtar-uprising-season.json](./319446-mokhtar-uprising-season.json) |
@@ -13778,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooshie's Kitchen 2 | 273983 | [273983-mooshies-kitchen-2.json](./273983-mooshies-kitchen-2.json) |
 | Mooshie's Kitchen 3 | 273984 | [273984-mooshies-kitchen-3.json](./273984-mooshies-kitchen-3.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
+| Mootation | 412016 | [412016-mootation.json](./412016-mootation.json) |
 | Mop of the Dead | 249876 | [249876-mop-of-the-dead.json](./249876-mop-of-the-dead.json) |
 | MOP Operation Cleanup | 32961 | [32961-mop-operation-cleanup.json](./32961-mop-operation-cleanup.json) |
 | Mopar Drag N Brag | 246965 | [246965-mopar-drag-n-brag.json](./246965-mopar-drag-n-brag.json) |
