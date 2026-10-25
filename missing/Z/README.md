@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zavod | 367584 | [367584-zavod.json](./367584-zavod.json) |
 | Zavod: Conveyor Logic | 298623 | [298623-zavod-conveyor-logic.json](./298623-zavod-conveyor-logic.json) |
 | Závody o jahody | 397107 | [397107-zavody-o-jahody.json](./397107-zavody-o-jahody.json) |
+| Zawisza The Black | 393894 | [393894-zawisza-the-black.json](./393894-zawisza-the-black.json) |
 | Zax: The Alien Hunter | 22013 | [22013-zax-the-alien-hunter.json](./22013-zax-the-alien-hunter.json) |
 | Zaxterion: Space Frenzy! | 203877 | [203877-zaxterion-space-frenzy.json](./203877-zaxterion-space-frenzy.json) |
 | Zaxxon | 218317 | [218317-zaxxon.json](./218317-zaxxon.json) |
@@ -2055,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba World: The Crazy Marble Dimension | 389076 | [389076-zumba-world-the-crazy-marble-dimension.json](./389076-zumba-world-the-crazy-marble-dimension.json) |
 | Zumba World: The Marble Monster Adventure | 400172 | [400172-zumba-world-the-marble-monster-adventure.json](./400172-zumba-world-the-marble-monster-adventure.json) |
 | Zumba: Dragon's Marble Trial | 381714 | [381714-zumba-dragons-marble-trial.json](./381714-zumba-dragons-marble-trial.json) |
+| Zumba: Galactic Marble Blast | 394389 | [394389-zumba-galactic-marble-blast.json](./394389-zumba-galactic-marble-blast.json) |
 | Zumba: Jurassic Marble Quest | 405921 | [405921-zumba-jurassic-marble-quest.json](./405921-zumba-jurassic-marble-quest.json) |
 | Zumba: Magical Marble Saga | 417284 | [417284-zumba-magical-marble-saga.json](./417284-zumba-magical-marble-saga.json) |
 | Zumba: Marble Jungle Adventure | 410365 | [410365-zumba-marble-jungle-adventure.json](./410365-zumba-marble-jungle-adventure.json) |
