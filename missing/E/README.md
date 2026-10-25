@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Total War - Elite Units of the West | 82086 | [82086-empire-total-war-elite-units-of-the-west.json](./82086-empire-total-war-elite-units-of-the-west.json) |
 | Empire: Total War - Special Forces Units & Bonus Content | 82087 | [82087-empire-total-war-special-forces-units-and-bonus-content.json](./82087-empire-total-war-special-forces-units-and-bonus-content.json) |
 | Empire! | 13640 | [13640-empire.json](./13640-empire.json) |
+| Empires | 29123 | [29123-empires.json](./29123-empires.json) |
 | Empires | 36445 | [36445-empires.json](./36445-empires.json) |
 | Empires & Allies | 257272 | [257272-empires-and-allies.json](./257272-empires-and-allies.json) |
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
@@ -5819,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Superhero Simulator | 364054 | [364054-evil-superhero-simulator.json](./364054-evil-superhero-simulator.json) |
 | Evil Superhero VR: Superhero Simulator | 370884 | [370884-evil-superhero-vr-superhero-simulator.json](./370884-evil-superhero-vr-superhero-simulator.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
+| Evil Tag | 29072 | [29072-evil-tag.json](./29072-evil-tag.json) |
 | Evil Timefall | 324162 | [324162-evil-timefall.json](./324162-evil-timefall.json) |
 | Evil Tonight | 143329 | [143329-evil-tonight.json](./143329-evil-tonight.json) |
 | Evil Twin | 22045 | [22045-evil-twin.json](./22045-evil-twin.json) |
