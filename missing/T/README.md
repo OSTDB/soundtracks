@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
 | Terminus: Zombie Survivors | 155570 | [155570-terminus-zombie-survivors.json](./155570-terminus-zombie-survivors.json) |
 | Terminus: Zombie Survivors - Last Escape | 366727 | [366727-terminus-zombie-survivors-last-escape.json](./366727-terminus-zombie-survivors-last-escape.json) |
+| Terminus: Zombie Survivors 2 | 417266 | [417266-terminus-zombie-survivors-2.json](./417266-terminus-zombie-survivors-2.json) |
 | Termite | 112748 | [112748-termite.json](./112748-termite.json) |
 | Termite | 377177 | [377177-termite.json](./377177-termite.json) |
 | Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
@@ -6007,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Church in the Darkness | 18113 | [18113-the-church-in-the-darkness.json](./18113-the-church-in-the-darkness.json) |
 | The Church of Cheesus Crisp: An All You Can Pray Buffet | 159364 | [159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json](./159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json) |
 | The Cinder War | 410393 | [410393-the-cinder-war.json](./410393-the-cinder-war.json) |
+| The Cinderella Contract | 417578 | [417578-the-cinderella-contract.json](./417578-the-cinderella-contract.json) |
 | The Cinderling | 404855 | [404855-the-cinderling.json](./404855-the-cinderling.json) |
 | The Cinema Rosa | 101449 | [101449-the-cinema-rosa.json](./101449-the-cinema-rosa.json) |
 | The Circle Move | 341106 | [341106-the-circle-move.json](./341106-the-circle-move.json) |
@@ -11616,7 +11618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
