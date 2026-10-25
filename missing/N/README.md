@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Stones | 239711 | [239711-night-stones.json](./239711-night-stones.json) |
 | Night Stop | 228319 | [228319-night-stop.json](./228319-night-stop.json) |
 | Night Strike Infiltrators | 185388 | [185388-night-strike-infiltrators.json](./185388-night-strike-infiltrators.json) |
+| Night Strike Resistance: WW2 | 386782 | [386782-night-strike-resistance-ww2.json](./386782-night-strike-resistance-ww2.json) |
 | Night Striker | 37324 | [37324-night-striker.json](./37324-night-striker.json) |
 | Night Striker Gear | 330380 | [330380-night-striker-gear.json](./330380-night-striker-gear.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
@@ -6444,6 +6445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan Cat: The Space Journey | 344905 | [344905-nyan-cat-the-space-journey.json](./344905-nyan-cat-the-space-journey.json) |
 | Nyan Cat! | 64260 | [64260-nyan-cat.json](./64260-nyan-cat.json) |
 | Nyan Nikki | 229663 | [229663-nyan-nikki.json](./229663-nyan-nikki.json) |
+| Nyan Nyan Nyan Nyan Nyan | 386783 | [386783-nyan-nyan-nyan-nyan-nyan.json](./386783-nyan-nyan-nyan-nyan-nyan.json) |
 | Nyan Nyan Nyanko no Nyan Collection | 49745 | [49745-nyan-nyan-nyanko-no-nyan-collection.json](./49745-nyan-nyan-nyanko-no-nyan-collection.json) |
 | Nyan Nyan Parasol | 306578 | [306578-nyan-nyan-parasol.json](./306578-nyan-nyan-parasol.json) |
 | Nyan Nyan Tower | 268446 | [268446-nyan-nyan-tower.json](./268446-nyan-nyan-tower.json) |
