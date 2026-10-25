@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad | 286771 | [286771-sad.json](./286771-sad.json) |
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
+| Sad God | 390286 | [390286-sad-god.json](./390286-sad-god.json) |
 | Sad Rabbit's Alien Night Out | 336171 | [336171-sad-rabbits-alien-night-out.json](./336171-sad-rabbits-alien-night-out.json) |
 | Sad Robot | 254976 | [254976-sad-robot.json](./254976-sad-robot.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
@@ -11201,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Maker Factory: Fun Play | 106522 | [106522-slime-maker-factory-fun-play.json](./106522-slime-maker-factory-fun-play.json) |
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
 | Slime Match Adventure | 363056 | [363056-slime-match-adventure.json](./363056-slime-match-adventure.json) |
+| Slime Must Grow | 389917 | [389917-slime-must-grow.json](./389917-slime-must-grow.json) |
 | Slime Musume ha Ningen to Tomodachi ni Naritai you da | 308910 | [308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json](./308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
 | Slime Pandemic TD | 171932 | [171932-slime-pandemic-td.json](./171932-slime-pandemic-td.json) |
@@ -19387,6 +19389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
 | Stack Dango | 108734 | [108734-stack-dango.json](./108734-stack-dango.json) |
 | Stack Defense | 156906 | [156906-stack-defense.json](./156906-stack-defense.json) |
+| Stack Haven | 389940 | [389940-stack-haven.json](./389940-stack-haven.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
 | Stack Machines | 232434 | [232434-stack-machines.json](./232434-stack-machines.json) |
@@ -19571,6 +19574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Age: Space Combat | 193175 | [193175-star-age-space-combat.json](./193175-star-age-space-combat.json) |
 | Star Ally | 246403 | [246403-star-ally.json](./246403-star-ally.json) |
 | Star and Light | 134508 | [134508-star-and-light.json](./134508-star-and-light.json) |
+| Star and Serpent Solitaire | 389953 | [389953-star-and-serpent-solitaire.json](./389953-star-and-serpent-solitaire.json) |
 | Star Apoligce: Survivors | 390735 | [390735-star-apoligce-survivors.json](./390735-star-apoligce-survivors.json) |
 | Star Apprentice: Dazzling Danmaku Detective | 260235 | [260235-star-apprentice-dazzling-danmaku-detective.json](./260235-star-apprentice-dazzling-danmaku-detective.json) |
 | Star Apprentice: Magical Murder Mystery | 153909 | [153909-star-apprentice-magical-murder-mystery.json](./153909-star-apprentice-magical-murder-mystery.json) |
@@ -24135,6 +24139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
 | Sucronomicon | 414171 | [414171-sucronomicon.json](./414171-sucronomicon.json) |
+| Suction Bot | 390278 | [390278-suction-bot.json](./390278-suction-bot.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
 | Sudama Relation | 252814 | [252814-sudama-relation.json](./252814-sudama-relation.json) |
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
@@ -24368,6 +24373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
 | Sugar Service | 379590 | [379590-sugar-service.json](./379590-sugar-service.json) |
 | Sugar Shack | 236767 | [236767-sugar-shack.json](./236767-sugar-shack.json) |
+| Sugar Shatter | 389919 | [389919-sugar-shatter.json](./389919-sugar-shatter.json) |
 | Sugar Shock | 130052 | [130052-sugar-shock.json](./130052-sugar-shock.json) |
 | Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
 | Sugar Sling Showdown | 341685 | [341685-sugar-sling-showdown.json](./341685-sugar-sling-showdown.json) |
@@ -27156,6 +27162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Melee: Hyrule Temple, but It’s a Half Decent Stage | 342698 | [342698-super-smash-bros-melee-hyrule-temple-but-it-s-a-half-decent-stage.json](./342698-super-smash-bros-melee-hyrule-temple-but-it-s-a-half-decent-stage.json) |
 | Super Smash Bros. Melee: Melee-Style Castle Siege | 342699 | [342699-super-smash-bros-melee-melee-style-castle-siege.json](./342699-super-smash-bros-melee-melee-style-castle-siege.json) |
 | Super Smash Bros. Melee: Tourney Floats | 342701 | [342701-super-smash-bros-melee-tourney-floats.json](./342701-super-smash-bros-melee-tourney-floats.json) |
+| Super Smash Bros. Melee: Yoshi's Forest | 390287 | [390287-super-smash-bros-melee-yoshis-forest.json](./390287-super-smash-bros-melee-yoshis-forest.json) |
 | Super Smash Bros. Open | 269059 | [269059-super-smash-bros-open.json](./269059-super-smash-bros-open.json) |
 | Super Smash Bros. Sonic 2 Mod | 173085 | [173085-super-smash-bros-sonic-2-mod.json](./173085-super-smash-bros-sonic-2-mod.json) |
 | Super Smash Bros. Ultimate - Piranha Plant | 136383 | [136383-super-smash-bros-ultimate-piranha-plant.json](./136383-super-smash-bros-ultimate-piranha-plant.json) |
@@ -27220,6 +27227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Sackboy Moveset | 395026 | [395026-super-smash-bros-ultimate-sackboy-moveset.json](./395026-super-smash-bros-ultimate-sackboy-moveset.json) |
 | Super Smash Bros. Ultimate: Sandbag Moveset | 376033 | [376033-super-smash-bros-ultimate-sandbag-moveset.json](./376033-super-smash-bros-ultimate-sandbag-moveset.json) |
 | Super Smash Bros. Ultimate: Sans Outfit and Mask | 317934 | [317934-super-smash-bros-ultimate-sans-outfit-and-mask.json](./317934-super-smash-bros-ultimate-sans-outfit-and-mask.json) |
+| Super Smash Bros. Ultimate: Selectable Namco Roulette | 390281 | [390281-super-smash-bros-ultimate-selectable-namco-roulette.json](./390281-super-smash-bros-ultimate-selectable-namco-roulette.json) |
 | Super Smash Bros. Ultimate: Shy Guy Moveset | 395032 | [395032-super-smash-bros-ultimate-shy-guy-moveset.json](./395032-super-smash-bros-ultimate-shy-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Silver Moveset | 268014 | [268014-super-smash-bros-ultimate-silver-moveset.json](./268014-super-smash-bros-ultimate-silver-moveset.json) |
 | Super Smash Bros. Ultimate: Special Edition | 136326 | [136326-super-smash-bros-ultimate-special-edition.json](./136326-super-smash-bros-ultimate-special-edition.json) |
@@ -27232,6 +27240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
 | Super Smash Bros. Ultimate: Waxing Crescent Meta Knight Moveset | 394597 | [394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json](./394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json) |
+| Super Smash Bros. Ultimate: World of Memes | 390285 | [390285-super-smash-bros-ultimate-world-of-memes.json](./390285-super-smash-bros-ultimate-world-of-memes.json) |
 | Super Smash Bros. Ultimate: Z Broly Moveset | 394593 | [394593-super-smash-bros-ultimate-z-broly-moveset.json](./394593-super-smash-bros-ultimate-z-broly-moveset.json) |
 | Super Smash Bros. Ultimate: Zero Moveset | 395033 | [395033-super-smash-bros-ultimate-zero-moveset.json](./395033-super-smash-bros-ultimate-zero-moveset.json) |
 | Super Smash Bros. Ultimate: Zero's Armor and Helmet | 317937 | [317937-super-smash-bros-ultimate-zeros-armor-and-helmet.json](./317937-super-smash-bros-ultimate-zeros-armor-and-helmet.json) |
@@ -27240,6 +27249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Land | 133944 | [133944-super-smash-land.json](./133944-super-smash-land.json) |
 | Super Smash T.V. | 19117 | [19117-super-smash-t-v.json](./19117-super-smash-t-v.json) |
 | Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
+| Super Smash War | 390279 | [390279-super-smash-war.json](./390279-super-smash-war.json) |
 | Super Snail | 260198 | [260198-super-snail.json](./260198-super-snail.json) |
 | Super Snake | 71997 | [71997-super-snake.json](./71997-super-snake.json) |
 | Super Snake 3D | 134940 | [134940-super-snake-3d.json](./134940-super-snake-3d.json) |
@@ -28469,6 +28479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Plus | 302236 | [302236-sushi-plus.json](./302236-sushi-plus.json) |
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
 | Sushi Shot | 283228 | [283228-sushi-shot.json](./283228-sushi-shot.json) |
+| Sushi Simulator | 389924 | [389924-sushi-simulator.json](./389924-sushi-simulator.json) |
 | Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
