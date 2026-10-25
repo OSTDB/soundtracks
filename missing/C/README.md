@@ -6344,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chook & Sosig: Hit the Club | 134413 | [134413-chook-and-sosig-hit-the-club.json](./134413-chook-and-sosig-hit-the-club.json) |
 | Chook & Sosig: Long Weekend | 134412 | [134412-chook-and-sosig-long-weekend.json](./134412-chook-and-sosig-long-weekend.json) |
 | Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
+| Choom | 392983 | [392983-choom.json](./392983-choom.json) |
 | Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose and Easy Number IQ Quiz | 308650 | [308650-choose-and-easy-number-iq-quiz.json](./308650-choose-and-easy-number-iq-quiz.json) |
@@ -10160,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colt-55 | 128430 | [128430-colt-55.json](./128430-colt-55.json) |
 | Colton Owen: After All's Over | 309993 | [309993-colton-owen-after-alls-over.json](./309993-colton-owen-after-alls-over.json) |
 | Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
+| Columbine | 392878 | [392878-columbine.json](./392878-columbine.json) |
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
 | Columbus Discovery | 78317 | [78317-columbus-discovery.json](./78317-columbus-discovery.json) |
 | Columbus: Ougon no Yoake | 48534 | [48534-columbus-ougon-no-yoake.json](./48534-columbus-ougon-no-yoake.json) |
@@ -12122,6 +12124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
 | Corrupt The Priest | 111526 | [111526-corrupt-the-priest.json](./111526-corrupt-the-priest.json) |
+| Corrupt Them All: Devilina Vein | 392985 | [392985-corrupt-them-all-devilina-vein.json](./392985-corrupt-them-all-devilina-vein.json) |
 | Corrupt Them All: Tokyo Meow | 370577 | [370577-corrupt-them-all-tokyo-meow.json](./370577-corrupt-them-all-tokyo-meow.json) |
 | Corrupt.exe | 408850 | [408850-corrupt-exe.json](./408850-corrupt-exe.json) |
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
