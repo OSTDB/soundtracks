@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Hitman | 59757 | [59757-galactic-hitman.json](./59757-galactic-hitman.json) |
 | Galactic Incoming | 111534 | [111534-galactic-incoming.json](./111534-galactic-incoming.json) |
 | Galactic Inferno | 336695 | [336695-galactic-inferno.json](./336695-galactic-inferno.json) |
+| Galactic Inheritors | 17833 | [17833-galactic-inheritors.json](./17833-galactic-inheritors.json) |
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
 | Galactic Junk League | 26782 | [26782-galactic-junk-league.json](./26782-galactic-junk-league.json) |
 | Galactic Keep | 29594 | [29594-galactic-keep.json](./29594-galactic-keep.json) |
@@ -2280,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gendai Daisenryaku: Isshoku Sokuhatsu Gunji Balance Houkai | 269495 | [269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json](./269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json) |
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
 | Gender Bender | 55614 | [55614-gender-bender.json](./55614-gender-bender.json) |
+| Gender Bender DNA Twister Extreme | 17795 | [17795-gender-bender-dna-twister-extreme.json](./17795-gender-bender-dna-twister-extreme.json) |
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
 | Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
 | Gender Lab Escape Simulator 2030 | 178469 | [178469-gender-lab-escape-simulator-2030.json](./178469-gender-lab-escape-simulator-2030.json) |
