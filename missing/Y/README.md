@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Mountain | 408488 | [408488-yeti-mountain.json](./408488-yeti-mountain.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
+| Yeti Sasquatch Annihilation | 397156 | [397156-yeti-sasquatch-annihilation.json](./397156-yeti-sasquatch-annihilation.json) |
 | Yeti Ski | 350228 | [350228-yeti-ski.json](./350228-yeti-ski.json) |
 | Yeti Sports: Pingu Throw | 66983 | [66983-yeti-sports-pingu-throw.json](./66983-yeti-sports-pingu-throw.json) |
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
