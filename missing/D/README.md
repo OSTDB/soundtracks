@@ -5045,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve Diver | 320606 | [320606-delve-diver.json](./320606-delve-diver.json) |
 | Delve into Pawssion | 308049 | [308049-delve-into-pawssion.json](./308049-delve-into-pawssion.json) |
 | Delve Survivors | 351789 | [351789-delve-survivors.json](./351789-delve-survivors.json) |
+| Delve! Die! Repeat! | 423301 | [423301-delve-die-repeat.json](./423301-delve-die-repeat.json) |
 | Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
 | Delvedown | 184223 | [184223-delvedown.json](./184223-delvedown.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
@@ -7283,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
 | Dig! | 341070 | [341070-dig.json](./341070-dig.json) |
+| Dig! Dig! Dig! | 423201 | [423201-dig-dig-dig.json](./423201-dig-dig-dig.json) |
 | Dig!t | 232042 | [232042-dig-t.json](./232042-dig-t.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
@@ -8079,6 +8081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
 | Disaster Arms: Impact Project B.A.H.N. | 331183 | [331183-disaster-arms-impact-project-b-a-h-n.json](./331183-disaster-arms-impact-project-b-a-h-n.json) |
 | Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
+| Disaster City: Magical Girl Dispatch | 423300 | [423300-disaster-city-magical-girl-dispatch.json](./423300-disaster-city-magical-girl-dispatch.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
 | Disaster Dragon x Girls from Different Worlds | 131214 | [131214-disaster-dragon-x-girls-from-different-worlds.json](./131214-disaster-dragon-x-girls-from-different-worlds.json) |
@@ -12579,6 +12582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drain | 179560 | [179560-drain.json](./179560-drain.json) |
 | Drain Mania | 57166 | [57166-drain-mania.json](./57166-drain-mania.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
+| Drain the Galaxy | 423230 | [423230-drain-the-galaxy.json](./423230-drain-the-galaxy.json) |
 | Drained | 390699 | [390699-drained.json](./390699-drained.json) |
 | DrainLive | 126368 | [126368-drainlive.json](./126368-drainlive.json) |
 | Drains | 62662 | [62662-drains.json](./62662-drains.json) |
