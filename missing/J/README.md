@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeep Climb Mountain | 312834 | [312834-jeep-climb-mountain.json](./312834-jeep-climb-mountain.json) |
 | Jeep Command | 47177 | [47177-jeep-command.json](./47177-jeep-command.json) |
 | Jeep Jamboree: Off Road Adventure | 48979 | [48979-jeep-jamboree-off-road-adventure.json](./48979-jeep-jamboree-off-road-adventure.json) |
+| Jeep Thrills | 4940 | [4940-jeep-thrills.json](./4940-jeep-thrills.json) |
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
 | Jeepney Simulator 2 | 292301 | [292301-jeepney-simulator-2.json](./292301-jeepney-simulator-2.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jillian Michael's Fitness Ultamatum 2009 | 50989 | [50989-jillian-michaels-fitness-ultamatum-2009.json](./50989-jillian-michaels-fitness-ultamatum-2009.json) |
 | Jillian Michaels Fitness Ultimatum 2011 | 65429 | [65429-jillian-michaels-fitness-ultimatum-2011.json](./65429-jillian-michaels-fitness-ultimatum-2011.json) |
 | Jillian Michaels' Fitness Adventure | 20222 | [20222-jillian-michaels-fitness-adventure.json](./20222-jillian-michaels-fitness-adventure.json) |
+| Jillian Michaels' Fitness Ultimatum 2009 | 4942 | [4942-jillian-michaels-fitness-ultimatum-2009.json](./4942-jillian-michaels-fitness-ultimatum-2009.json) |
 | Jillian Michaels' Fitness Ultimatum 2010 | 79817 | [79817-jillian-michaels-fitness-ultimatum-2010.json](./79817-jillian-michaels-fitness-ultimatum-2010.json) |
 | Jim & Dill 3 | 342118 | [342118-jim-and-dill-3.json](./342118-jim-and-dill-3.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
