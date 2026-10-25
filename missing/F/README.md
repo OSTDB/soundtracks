@@ -5486,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing: North Atlantic - Enhanced Edition | 188055 | [188055-fishing-north-atlantic-enhanced-edition.json](./188055-fishing-north-atlantic-enhanced-edition.json) |
 | Fishing? | 316952 | [316952-fishing.json](./316952-fishing.json) |
 | FishingCard | 373870 | [373870-fishingcard.json](./373870-fishingcard.json) |
+| FishingStrike | 100879 | [100879-fishingstrike.json](./100879-fishingstrike.json) |
 | Fishjong 2 | 239724 | [239724-fishjong-2.json](./239724-fishjong-2.json) |
 | Fishlets | 278522 | [278522-fishlets.json](./278522-fishlets.json) |
 | Fishlets: Natural Decor Pack | 313679 | [313679-fishlets-natural-decor-pack.json](./313679-fishlets-natural-decor-pack.json) |
