@@ -3260,7 +3260,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5142,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wissen Heroes | 123501 | [123501-wissen-heroes.json](./123501-wissen-heroes.json) |
 | Wit and Dice | 284838 | [284838-wit-and-dice.json](./284838-wit-and-dice.json) |
 | Wit's | 40549 | [40549-wits.json](./40549-wits.json) |
+| Witan | 32425 | [32425-witan.json](./32425-witan.json) |
 | Witanlore: Dreamtime | 27309 | [27309-witanlore-dreamtime.json](./27309-witanlore-dreamtime.json) |
 | Witch | 120153 | [120153-witch.json](./120153-witch.json) |
 | Witch | 299159 | [299159-witch.json](./299159-witch.json) |
