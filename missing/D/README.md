@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
 | DearS | 60880 | [60880-dears.json](./60880-dears.json) |
 | Death | 123553 | [123553-death.json](./123553-death.json) |
+| Death & Lead | 392968 | [392968-death-and-lead.json](./392968-death-and-lead.json) |
 | Death & Tactics | 274931 | [274931-death-and-tactics.json](./274931-death-and-tactics.json) |
 | Death & Taxes | 370868 | [370868-death-and-taxes.json](./370868-death-and-taxes.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
@@ -5998,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
 | Desktop Farm | 150447 | [150447-desktop-farm.json](./150447-desktop-farm.json) |
+| Desktop Fidget | 392831 | [392831-desktop-fidget.json](./392831-desktop-fidget.json) |
 | Desktop Fisher | 348752 | [348752-desktop-fisher.json](./348752-desktop-fisher.json) |
 | Desktop Fishes | 364006 | [364006-desktop-fishes.json](./364006-desktop-fishes.json) |
 | Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
@@ -9091,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Boy | 28038 | [28038-dj-boy.json](./28038-dj-boy.json) |
 | DJ Bunny | 389673 | [389673-dj-bunny.json](./389673-dj-bunny.json) |
 | DJ Clicker: World Tour | 264655 | [264655-dj-clicker-world-tour.json](./264655-dj-clicker-world-tour.json) |
+| DJ Fest Vol.1 | 393494 | [393494-dj-fest-vol-1.json](./393494-dj-fest-vol-1.json) |
 | DJ Fuzz Ball | 419206 | [419206-dj-fuzz-ball.json](./419206-dj-fuzz-ball.json) |
 | DJ Hero | 2679 | [2679-dj-hero.json](./2679-dj-hero.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
@@ -9850,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doler | 129446 | [129446-doler.json](./129446-doler.json) |
 | Dolguth | 34721 | [34721-dolguth.json](./34721-dolguth.json) |
 | Dolgyeogyongsa Kiugi: Bangchihyeong RPG | 224402 | [224402-dolgyeogyongsa-kiugi-bangchihyeong-rpg.json](./224402-dolgyeogyongsa-kiugi-bangchihyeong-rpg.json) |
+| Doll | 393477 | [393477-doll.json](./393477-doll.json) |
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
 | Doll Catching Simulator | 326440 | [326440-doll-catching-simulator.json](./326440-doll-catching-simulator.json) |
 | Doll Date | 395202 | [395202-doll-date.json](./395202-doll-date.json) |
