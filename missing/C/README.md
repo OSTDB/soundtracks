@@ -9849,6 +9849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book: Complete Bundle - 410 drawings | 283191 | [283191-coloring-book-complete-bundle-410-drawings.json](./283191-coloring-book-complete-bundle-410-drawings.json) |
 | Coloring Book: Cute Edition | 332514 | [332514-coloring-book-cute-edition.json](./332514-coloring-book-cute-edition.json) |
 | Coloring Book: Farm Life | 204295 | [204295-coloring-book-farm-life.json](./204295-coloring-book-farm-life.json) |
+| Coloring Book: Gold Edition | 412587 | [412587-coloring-book-gold-edition.json](./412587-coloring-book-gold-edition.json) |
 | Coloring Book: Mandalas | 319314 | [319314-coloring-book-mandalas.json](./319314-coloring-book-mandalas.json) |
 | Coloring Book: Ocean Animals | 204294 | [204294-coloring-book-ocean-animals.json](./204294-coloring-book-ocean-animals.json) |
 | Coloring Book: Spring 2022 DLC Pack | 223595 | [223595-coloring-book-spring-2022-dlc-pack.json](./223595-coloring-book-spring-2022-dlc-pack.json) |
@@ -11631,6 +11632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons: 3 in 1 Bundle | 129512 | [129512-cooking-tycoons-3-in-1-bundle.json](./129512-cooking-tycoons-3-in-1-bundle.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Extended Edition | 332511 | [332511-cooking-tycoons-3-in-1-bundle-extended-edition.json](./332511-cooking-tycoons-3-in-1-bundle-extended-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
+| Cooking Tycoons: 3 in 1 Bundle - Silver Edition | 412586 | [412586-cooking-tycoons-3-in-1-bundle-silver-edition.json](./412586-cooking-tycoons-3-in-1-bundle-silver-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle Diamond Edition | 410854 | [410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json](./410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle Elite Edition | 404275 | [404275-cooking-tycoons-3-in-1-bundle-elite-edition.json](./404275-cooking-tycoons-3-in-1-bundle-elite-edition.json) |
 | Cooking Voyage: Cook & Travel | 233494 | [233494-cooking-voyage-cook-and-travel.json](./233494-cooking-voyage-cook-and-travel.json) |
@@ -12159,6 +12161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Crowbar | 410939 | [410939-cosmic-crowbar.json](./410939-cosmic-crowbar.json) |
 | Cosmic Crucible | 293173 | [293173-cosmic-crucible.json](./293173-cosmic-crucible.json) |
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
+| Cosmic Crumbs: Bakery Simulator | 412605 | [412605-cosmic-crumbs-bakery-simulator.json](./412605-cosmic-crumbs-bakery-simulator.json) |
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
 | Cosmic Crusader | 14494 | [14494-cosmic-crusader.json](./14494-cosmic-crusader.json) |
 | Cosmic Crusader | 413237 | [413237-cosmic-crusader.json](./413237-cosmic-crusader.json) |
@@ -14659,6 +14662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow Crime: A Murder Mystery | 129534 | [129534-crow-crime-a-murder-mystery.json](./129534-crow-crime-a-murder-mystery.json) |
 | Crow Heist | 401039 | [401039-crow-heist.json](./401039-crow-heist.json) |
 | Crow Quest | 218063 | [218063-crow-quest.json](./218063-crow-quest.json) |
+| Crow Sign | 412614 | [412614-crow-sign.json](./412614-crow-sign.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
 | Crow Style | 353797 | [353797-crow-style.json](./353797-crow-style.json) |
 | Crow-Sourcing | 312854 | [312854-crow-sourcing.json](./312854-crow-sourcing.json) |
@@ -16529,6 +16533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Manhunt 2: New World | 276679 | [276679-cyber-manhunt-2-new-world.json](./276679-cyber-manhunt-2-new-world.json) |
 | Cyber Manhunt: A Company Man of Titan | 211901 | [211901-cyber-manhunt-a-company-man-of-titan.json](./211901-cyber-manhunt-a-company-man-of-titan.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
+| Cyber Miner | 412616 | [412616-cyber-miner.json](./412616-cyber-miner.json) |
 | Cyber Mission | 241294 | [241294-cyber-mission.json](./241294-cyber-mission.json) |
 | Cyber Nations | 63777 | [63777-cyber-nations.json](./63777-cyber-nations.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
