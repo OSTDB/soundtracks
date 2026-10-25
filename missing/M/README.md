@@ -5345,6 +5345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meadow: Streaked Tenrec and Leopard Cub Skin Pack | 274666 | [274666-meadow-streaked-tenrec-and-leopard-cub-skin-pack.json](./274666-meadow-streaked-tenrec-and-leopard-cub-skin-pack.json) |
 | Meadow: Striped Polecat and Leopard Skin Pack | 274659 | [274659-meadow-striped-polecat-and-leopard-skin-pack.json](./274659-meadow-striped-polecat-and-leopard-skin-pack.json) |
 | Meadow: Zebra and Hyena Skin Pack | 274661 | [274661-meadow-zebra-and-hyena-skin-pack.json](./274661-meadow-zebra-and-hyena-skin-pack.json) |
+| Meadowland | 17778 | [17778-meadowland.json](./17778-meadowland.json) |
 | Meadows Lanes | 40358 | [40358-meadows-lanes.json](./40358-meadows-lanes.json) |
 | Meadowside Mayor | 354517 | [354517-meadowside-mayor.json](./354517-meadowside-mayor.json) |
 | Meal Escape | 86513 | [86513-meal-escape.json](./86513-meal-escape.json) |
@@ -13718,6 +13719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: Kart Racer | 282435 | [282435-moorhuhn-kart-racer.json](./282435-moorhuhn-kart-racer.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
+| Moorhuhn: Tiger and Chicken | 17822 | [17822-moorhuhn-tiger-and-chicken.json](./17822-moorhuhn-tiger-and-chicken.json) |
 | Moorhuhn: Winter-Edition | 256675 | [256675-moorhuhn-winter-edition.json](./256675-moorhuhn-winter-edition.json) |
 | Moorko | 414155 | [414155-moorko.json](./414155-moorko.json) |
 | Moosa: Dirty Fate | 396026 | [396026-moosa-dirty-fate.json](./396026-moosa-dirty-fate.json) |
