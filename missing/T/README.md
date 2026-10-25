@@ -3744,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrain of Magical Expertise | 72762 | [72762-terrain-of-magical-expertise.json](./72762-terrain-of-magical-expertise.json) |
 | TerraKids: Save The World Kidos! | 285425 | [285425-terrakids-save-the-world-kidos.json](./285425-terrakids-save-the-world-kidos.json) |
 | Terralora | 260614 | [260614-terralora.json](./260614-terralora.json) |
+| TerraLounge | 418912 | [418912-terralounge.json](./418912-terralounge.json) |
 | Terralysia | 284591 | [284591-terralysia.json](./284591-terralysia.json) |
 | Terramachi: Battle Card Game | 215007 | [215007-terramachi-battle-card-game.json](./215007-terramachi-battle-card-game.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
@@ -4237,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Textiling | 182904 | [182904-textiling.json](./182904-textiling.json) |
 | Texting of the Bread | 92152 | [92152-texting-of-the-bread.json](./92152-texting-of-the-bread.json) |
 | Texting the Awkward Ace Guy You've Had a Crush on Since High School | 279706 | [279706-texting-the-awkward-ace-guy-youve-had-a-crush-on-since-high-school.json](./279706-texting-the-awkward-ace-guy-youve-had-a-crush-on-since-high-school.json) |
+| Textorio | 418899 | [418899-textorio.json](./418899-textorio.json) |
 | TextQuests | 397056 | [397056-textquests.json](./397056-textquests.json) |
 | Textreme 2 | 168084 | [168084-textreme-2.json](./168084-textreme-2.json) |
 | Textris | 62713 | [62713-textris.json](./62713-textris.json) |
@@ -4452,6 +4454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
 | The A-Team | 300553 | [300553-the-a-team.json](./300553-the-a-team.json) |
+| The A-Team | 418886 | [418886-the-a-team.json](./418886-the-a-team.json) |
 | The A.Typical RPG | 125185 | [125185-the-a-typical-rpg.json](./125185-the-a-typical-rpg.json) |
 | The A500 Mini | 275245 | [275245-the-a500-mini.json](./275245-the-a500-mini.json) |
 | The Abandoned Factory | 276396 | [276396-the-abandoned-factory.json](./276396-the-abandoned-factory.json) |
@@ -10128,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy 2 | 95830 | [95830-the-legacy-2.json](./95830-the-legacy-2.json) |
 | The Legacy of Castle Terroretra | 231804 | [231804-the-legacy-of-castle-terroretra.json](./231804-the-legacy-of-castle-terroretra.json) |
 | The Legacy of Griselda | 409056 | [409056-the-legacy-of-griselda.json](./409056-the-legacy-of-griselda.json) |
+| The Legacy of Kythos | 418895 | [418895-the-legacy-of-kythos.json](./418895-the-legacy-of-kythos.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legacy of Music | 113572 | [113572-the-legacy-of-music.json](./113572-the-legacy-of-music.json) |
 | The Legacy of Robin Hood | 320470 | [320470-the-legacy-of-robin-hood.json](./320470-the-legacy-of-robin-hood.json) |
@@ -11610,7 +11614,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13922,6 +13925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
 | The Soul Stone Escape | 315793 | [315793-the-soul-stone-escape.json](./315793-the-soul-stone-escape.json) |
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
+| The Soulstream Expansive: Prelude | 418837 | [418837-the-soulstream-expansive-prelude.json](./418837-the-soulstream-expansive-prelude.json) |
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
 | The Sound of Fireworks: The Haiku | 160266 | [160266-the-sound-of-fireworks-the-haiku.json](./160266-the-sound-of-fireworks-the-haiku.json) |
 | The Sound of Piano | 410190 | [410190-the-sound-of-piano.json](./410190-the-sound-of-piano.json) |
@@ -17027,6 +17031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Thystle | 146628 | [146628-thystle.json](./146628-thystle.json) |
 | THZ | 238345 | [238345-thz.json](./238345-thz.json) |
+| TI Breakout | 418917 | [418917-ti-breakout.json](./418917-ti-breakout.json) |
 | TI Lander | 421401 | [421401-ti-lander.json](./421401-ti-lander.json) |
 | TI Puck | 421222 | [421222-ti-puck.json](./421222-ti-puck.json) |
 | TI-Pei | 419895 | [419895-ti-pei.json](./419895-ti-pei.json) |
@@ -22678,6 +22683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TPK | 372077 | [372077-tpk.json](./372077-tpk.json) |
 | Tplosjons | 138128 | [138128-tplosjons.json](./138128-tplosjons.json) |
 | TPM Football | 151536 | [151536-tpm-football.json](./151536-tpm-football.json) |
+| TPVR | 418905 | [418905-tpvr.json](./418905-tpvr.json) |
 | TR-12 | 295351 | [295351-tr-12.json](./295351-tr-12.json) |
 | TR-49 | 378335 | [378335-tr-49.json](./378335-tr-49.json) |
 | Tr4pp3d | 277975 | [277975-tr4pp3d.json](./277975-tr4pp3d.json) |
@@ -26202,6 +26208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tryptic | 326688 | [326688-tryptic.json](./326688-tryptic.json) |
 | Trysaria | 116273 | [116273-trysaria.json](./116273-trysaria.json) |
 | Tryst | 11030 | [11030-tryst.json](./11030-tryst.json) |
+| TryToAct | 418866 | [418866-trytoact.json](./418866-trytoact.json) |
 | Ts Fantasy | 192247 | [192247-ts-fantasy.json](./192247-ts-fantasy.json) |
 | TS Marketplace: 1800s Rolling Stock Pack 02 Add-On | 227296 | [227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json](./227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json) |
 | TS Marketplace: B&O Mountain Subdivision Scenario Pack 01 | 227287 | [227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json](./227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json) |
