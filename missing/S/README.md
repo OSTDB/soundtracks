@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shampoo | 153879 | [153879-samurai-shampoo.json](./153879-samurai-shampoo.json) |
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
 | Samurai Shodown | 191471 | [191471-samurai-shodown.json](./191471-samurai-shodown.json) |
+| Samurai Shodown | 422681 | [422681-samurai-shodown.json](./422681-samurai-shodown.json) |
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
 | Samurai Shodown Anthology | 50648 | [50648-samurai-shodown-anthology.json](./50648-samurai-shodown-anthology.json) |
@@ -10525,6 +10526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slackline VR | 194920 | [194920-slackline-vr.json](./194920-slackline-vr.json) |
 | Slag | 253336 | [253336-slag.json](./253336-slag.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
+| Slag Run | 422651 | [422651-slag-run.json](./422651-slag-run.json) |
 | Slain 2: The Beast Within | 340587 | [340587-slain-2-the-beast-within.json](./340587-slain-2-the-beast-within.json) |
 | Slain: Back from Hell | 18509 | [18509-slain-back-from-hell.json](./18509-slain-back-from-hell.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
@@ -19095,6 +19097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrels Forest Race | 310269 | [310269-squirrels-forest-race.json](./310269-squirrels-forest-race.json) |
 | Squirrels Gone Nuts | 290551 | [290551-squirrels-gone-nuts.json](./290551-squirrels-gone-nuts.json) |
 | Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
+| SquirrelTower | 422648 | [422648-squirreltower.json](./422648-squirreltower.json) |
 | Squish | 342865 | [342865-squish.json](./342865-squish.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
 | Squish and the Corrupted Crystal | 47996 | [47996-squish-and-the-corrupted-crystal.json](./47996-squish-and-the-corrupted-crystal.json) |
@@ -29315,6 +29318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
 | Synco Path: Automaton Prison | 366028 | [366028-synco-path-automaton-prison.json](./366028-synco-path-automaton-prison.json) |
 | Syncope | 189041 | [189041-syncope.json](./189041-syncope.json) |
+| Syncrafice | 422704 | [422704-syncrafice.json](./422704-syncrafice.json) |
 | Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
 | Syndicate | 213568 | [213568-syndicate.json](./213568-syndicate.json) |
 | Syndicate | 213570 | [213570-syndicate.json](./213570-syndicate.json) |
