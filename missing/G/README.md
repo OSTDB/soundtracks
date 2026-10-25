@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy | 217776 | [217776-galaxy.json](./217776-galaxy.json) |
 | Galaxy | 24000 | [24000-galaxy.json](./24000-galaxy.json) |
 | Galaxy | 381043 | [381043-galaxy.json](./381043-galaxy.json) |
+| Galaxy Admirals | 34261 | [34261-galaxy-admirals.json](./34261-galaxy-admirals.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
@@ -4781,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
 | God For A Day | 277267 | [277267-god-for-a-day.json](./277267-god-for-a-day.json) |
 | God Game | 150432 | [150432-god-game.json](./150432-god-game.json) |
+| God Game : The Odyssey | 34235 | [34235-god-game-the-odyssey.json](./34235-god-game-the-odyssey.json) |
 | God Girl | 250927 | [250927-god-girl.json](./250927-god-girl.json) |
 | God Give Me One More Chance | 400282 | [400282-god-give-me-one-more-chance.json](./400282-god-give-me-one-more-chance.json) |
 | God Hand | 114865 | [114865-god-hand.json](./114865-god-hand.json) |
@@ -8642,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Blade | 212204 | [212204-gun-blade.json](./212204-gun-blade.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
 | Gun Boat Duck Hunt | 274110 | [274110-gun-boat-duck-hunt.json](./274110-gun-boat-duck-hunt.json) |
+| Gun Bombers | 34242 | [34242-gun-bombers.json](./34242-gun-bombers.json) |
 | Gun Bots | 157067 | [157067-gun-bots.json](./157067-gun-bots.json) |
 | Gun Breaker | 227258 | [227258-gun-breaker.json](./227258-gun-breaker.json) |
 | Gun Bro | 325001 | [325001-gun-bro.json](./325001-gun-bro.json) |
