@@ -11581,7 +11581,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -11881,6 +11880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orb Chambers Remastered | 166814 | [166814-the-orb-chambers-remastered.json](./166814-the-orb-chambers-remastered.json) |
 | The Orb of Darkness | 370410 | [370410-the-orb-of-darkness.json](./370410-the-orb-of-darkness.json) |
 | The Orc Invasion | 237950 | [237950-the-orc-invasion.json](./237950-the-orc-invasion.json) |
+| The Orchard of Stray Sheep | 32474 | [32474-the-orchard-of-stray-sheep.json](./32474-the-orchard-of-stray-sheep.json) |
 | The Orchid's Edge | 231373 | [231373-the-orchids-edge.json](./231373-the-orchids-edge.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
 | The Order of Souls | 60911 | [60911-the-order-of-souls.json](./60911-the-order-of-souls.json) |
@@ -20255,6 +20255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
+| Tokyo Warfare | 32427 | [32427-tokyo-warfare.json](./32427-tokyo-warfare.json) |
 | Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
 | Tokyo Xanadu eX+: Limited Edition | 89846 | [89846-tokyo-xanadu-ex-limited-edition.json](./89846-tokyo-xanadu-ex-limited-edition.json) |
 | Tokyo Xtreme Racer 3 | 24184 | [24184-tokyo-xtreme-racer-3.json](./24184-tokyo-xtreme-racer-3.json) |
@@ -25088,6 +25089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Ascension: Exile | 105147 | [105147-trials-of-ascension-exile.json](./105147-trials-of-ascension-exile.json) |
+| Trials of Azra | 32399 | [32399-trials-of-azra.json](./32399-trials-of-azra.json) |
 | Trials of Cascadia | 226364 | [226364-trials-of-cascadia.json](./226364-trials-of-cascadia.json) |
 | Trials of Dash | 415889 | [415889-trials-of-dash.json](./415889-trials-of-dash.json) |
 | Trials of Enkidu | 379717 | [379717-trials-of-enkidu.json](./379717-trials-of-enkidu.json) |
