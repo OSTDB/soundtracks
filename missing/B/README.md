@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baboon! | 42894 | [42894-baboon.json](./42894-baboon.json) |
 | Babs' Potion Shop | 238449 | [238449-babs-potion-shop.json](./238449-babs-potion-shop.json) |
 | Babsi Bullet | 297335 | [297335-babsi-bullet.json](./297335-babsi-bullet.json) |
+| Babu Me Baby! | 412764 | [412764-babu-me-baby.json](./412764-babu-me-baby.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Babushka | 414754 | [414754-babushka.json](./414754-babushka.json) |
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bally Jump | 293174 | [293174-bally-jump.json](./293174-bally-jump.json) |
 | Bally Pin | 130870 | [130870-bally-pin.json](./130870-bally-pin.json) |
 | Ballz | 305983 | [305983-ballz.json](./305983-ballz.json) |
+| Ballz | 413235 | [413235-ballz.json](./413235-ballz.json) |
 | BallZ | 230914 | [230914-ballz.json](./230914-ballz.json) |
 | Ballz Break | 104397 | [104397-ballz-break.json](./104397-ballz-break.json) |
 | Ballz Deep | 245286 | [245286-ballz-deep.json](./245286-ballz-deep.json) |
@@ -9420,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloops Game | 175744 | [175744-bloops-game.json](./175744-bloops-game.json) |
 | Bloopy & Droopy | 168685 | [168685-bloopy-and-droopy.json](./168685-bloopy-and-droopy.json) |
 | Blopper | 287236 | [287236-blopper.json](./287236-blopper.json) |
+| Blopy Ventures N0 | 413160 | [413160-blopy-ventures-n0.json](./413160-blopy-ventures-n0.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
 | Blortasia | 32178 | [32178-blortasia.json](./32178-blortasia.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
@@ -10235,6 +10238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Jack | 265023 | [265023-bomb-jack.json](./265023-bomb-jack.json) |
 | Bomb Jack | 416566 | [416566-bomb-jack.json](./416566-bomb-jack.json) |
 | Bomb Jack | 6100 | [6100-bomb-jack.json](./6100-bomb-jack.json) |
+| Bomb Jack Beer Edition | 413222 | [413222-bomb-jack-beer-edition.json](./413222-bomb-jack-beer-edition.json) |
 | Bomb Jack DX | 279677 | [279677-bomb-jack-dx.json](./279677-bomb-jack-dx.json) |
 | Bomb Jack II | 13421 | [13421-bomb-jack-ii.json](./13421-bomb-jack-ii.json) |
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
@@ -10791,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
+| Boomerang | 413199 | [413199-boomerang.json](./413199-boomerang.json) |
 | Boomerang Battles | 243593 | [243593-boomerang-battles.json](./243593-boomerang-battles.json) |
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
@@ -14777,6 +14782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator City Ride | 210909 | [210909-bus-simulator-city-ride.json](./210909-bus-simulator-city-ride.json) |
 | Bus Simulator Driver 2024: City Zone | 315933 | [315933-bus-simulator-driver-2024-city-zone.json](./315933-bus-simulator-driver-2024-city-zone.json) |
+| Bus Simulator Offroad | 413059 | [413059-bus-simulator-offroad.json](./413059-bus-simulator-offroad.json) |
 | Bus Simulator Vietnam | 384614 | [384614-bus-simulator-vietnam.json](./384614-bus-simulator-vietnam.json) |
 | Bus Simulator: Car Driving | 231770 | [231770-bus-simulator-car-driving.json](./231770-bus-simulator-car-driving.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
