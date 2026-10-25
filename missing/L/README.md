@@ -6150,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopfang | 418663 | [418663-loopfang.json](./418663-loopfang.json) |
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
 | Loophole Pie | 364619 | [364619-loophole-pie.json](./364619-loophole-pie.json) |
+| Loophole: Skrattmagi och glädjetjuvar | 400844 | [400844-loophole-skrattmagi-och-gladjetjuvar.json](./400844-loophole-skrattmagi-och-gladjetjuvar.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Loopical | 175602 | [175602-loopical.json](./175602-loopical.json) |
 | Looping | 18511 | [18511-looping.json](./18511-looping.json) |
