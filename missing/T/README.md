@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
 | Tales from the Crossing: The Captain's Chair | 195126 | [195126-tales-from-the-crossing-the-captains-chair.json](./195126-tales-from-the-crossing-the-captains-chair.json) |
 | Tales From the Dark Manor | 414324 | [414324-tales-from-the-dark-manor.json](./414324-tales-from-the-dark-manor.json) |
+| Tales from the Dragon Mountain 2: The Lair | 10951 | [10951-tales-from-the-dragon-mountain-2-the-lair.json](./10951-tales-from-the-dragon-mountain-2-the-lair.json) |
 | Tales from the Dragon Mountain: the Lair | 89102 | [89102-tales-from-the-dragon-mountain-the-lair.json](./89102-tales-from-the-dragon-mountain-the-lair.json) |
 | Tales From The Dragon Mountain: The Strix | 17060 | [17060-tales-from-the-dragon-mountain-the-strix.json](./17060-tales-from-the-dragon-mountain-the-strix.json) |
 | Tales From the Herd | 277296 | [277296-tales-from-the-herd.json](./277296-tales-from-the-herd.json) |
@@ -5077,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ballad of Radolf | 207295 | [207295-the-ballad-of-radolf.json](./207295-the-ballad-of-radolf.json) |
 | The Ballad of the Metamorphosis of M. Dolly | 125214 | [125214-the-ballad-of-the-metamorphosis-of-m-dolly.json](./125214-the-ballad-of-the-metamorphosis-of-m-dolly.json) |
 | The Ballad Singer | 78156 | [78156-the-ballad-singer.json](./78156-the-ballad-singer.json) |
+| The Ballads of Reemus: When the Bed Bites | 11096 | [11096-the-ballads-of-reemus-when-the-bed-bites.json](./11096-the-ballads-of-reemus-when-the-bed-bites.json) |
 | The Balldragon | 335265 | [335265-the-balldragon.json](./335265-the-balldragon.json) |
 | The Ballet of Light and Shadow | 68425 | [68425-the-ballet-of-light-and-shadow.json](./68425-the-ballet-of-light-and-shadow.json) |
 | The Balloonist: Beyond the Clouds | 75831 | [75831-the-balloonist-beyond-the-clouds.json](./75831-the-balloonist-beyond-the-clouds.json) |
@@ -6088,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collector | 68424 | [68424-the-collector.json](./68424-the-collector.json) |
 | The Collector’s Curio Cabinet: Toy Soldiers | 416776 | [416776-the-collector-s-curio-cabinet-toy-soldiers.json](./416776-the-collector-s-curio-cabinet-toy-soldiers.json) |
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
+| The Collider | 17769 | [17769-the-collider.json](./17769-the-collider.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
 | The Colonists | 75065 | [75065-the-colonists.json](./75065-the-colonists.json) |
@@ -7874,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flowertest | 341003 | [341003-the-flowertest.json](./341003-the-flowertest.json) |
 | The Flute | 233094 | [233094-the-flute.json](./233094-the-flute.json) |
 | The Flying Baron | 91525 | [91525-the-flying-baron.json](./91525-the-flying-baron.json) |
+| The Flying Dutchman | 17812 | [17812-the-flying-dutchman.json](./17812-the-flying-dutchman.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Flying Hamster | 42825 | [42825-the-flying-hamster.json](./42825-the-flying-hamster.json) |
 | The Flying Jet | 366223 | [366223-the-flying-jet.json](./366223-the-flying-jet.json) |
@@ -12718,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
 | The Repair House | 234542 | [234542-the-repair-house.json](./234542-the-repair-house.json) |
 | The Repairing Mantis | 171295 | [171295-the-repairing-mantis.json](./171295-the-repairing-mantis.json) |
+| The Repopulation | 17831 | [17831-the-repopulation.json](./17831-the-repopulation.json) |
 | The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
 | The Reposessor | 71161 | [71161-the-reposessor.json](./71161-the-reposessor.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
@@ -15402,6 +15407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warriors: Street Brawl | 21218 | [21218-the-warriors-street-brawl.json](./21218-the-warriors-street-brawl.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wassie Games | 215730 | [215730-the-wassie-games.json](./215730-the-wassie-games.json) |
+| The Waste Land | 10987 | [10987-the-waste-land.json](./10987-the-waste-land.json) |
 | The Wasted Knight | 207325 | [207325-the-wasted-knight.json](./207325-the-wasted-knight.json) |
 | The Wastes | 59604 | [59604-the-wastes.json](./59604-the-wastes.json) |
 | The Watch | 377135 | [377135-the-watch.json](./377135-the-watch.json) |
@@ -15723,6 +15729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Ends With You: Live Remix | 288144 | [288144-the-world-ends-with-you-live-remix.json](./288144-the-world-ends-with-you-live-remix.json) |
 | The World Ends With You: Noise Busters | 306596 | [306596-the-world-ends-with-you-noise-busters.json](./306596-the-world-ends-with-you-noise-busters.json) |
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
+| The World II: Hunting Boss | 17843 | [17843-the-world-ii-hunting-boss.json](./17843-the-world-ii-hunting-boss.json) |
 | The World is Binary: Why Love is the Answer | 195562 | [195562-the-world-is-binary-why-love-is-the-answer.json](./195562-the-world-is-binary-why-love-is-the-answer.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
 | The World is Strange | 413513 | [413513-the-world-is-strange.json](./413513-the-world-is-strange.json) |
@@ -21016,6 +21023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: The Second Mission | 22911 | [22911-top-gun-the-second-mission.json](./22911-top-gun-the-second-mission.json) |
 | Top Gun: Wingman Edition | 206750 | [206750-top-gun-wingman-edition.json](./206750-top-gun-wingman-edition.json) |
 | Top Gunner | 17477 | [17477-top-gunner.json](./17477-top-gunner.json) |
+| Top Hat | 11012 | [11012-top-hat.json](./11012-top-hat.json) |
 | Top Heroes | 321427 | [321427-top-heroes.json](./321427-top-heroes.json) |
 | Top Hunter: Roddy & Cathy | 46520 | [46520-top-hunter-roddy-and-cathy.json](./46520-top-hunter-roddy-and-cathy.json) |
 | Top Jump | 255584 | [255584-top-jump.json](./255584-top-jump.json) |
@@ -23548,6 +23556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train to Nowhere | 309617 | [309617-train-to-nowhere.json](./309617-train-to-nowhere.json) |
 | Train to Sachsenhausen | 400563 | [400563-train-to-sachsenhausen.json](./400563-train-to-sachsenhausen.json) |
 | Train Toremaru: Connect & Solve | 159159 | [159159-train-toremaru-connect-and-solve.json](./159159-train-toremaru-connect-and-solve.json) |
+| Train Town | 17777 | [17777-train-town.json](./17777-train-town.json) |
 | Train Traffic Manager | 276126 | [276126-train-traffic-manager.json](./276126-train-traffic-manager.json) |
 | Train Traffic Manager: Deluxe Edition | 298576 | [298576-train-traffic-manager-deluxe-edition.json](./298576-train-traffic-manager-deluxe-edition.json) |
 | Train Traffic Manager: Diamond Edition | 317244 | [317244-train-traffic-manager-diamond-edition.json](./317244-train-traffic-manager-diamond-edition.json) |
@@ -24201,6 +24210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Simulator World Tour | 408040 | [408040-trainz-simulator-world-tour.json](./408040-trainz-simulator-world-tour.json) |
 | Trainz Simulator: Classic Cabon City | 11021 | [11021-trainz-simulator-classic-cabon-city.json](./11021-trainz-simulator-classic-cabon-city.json) |
 | Trainz Simulator: Murchison 2 | 11022 | [11022-trainz-simulator-murchison-2.json](./11022-trainz-simulator-murchison-2.json) |
+| Trainz: A New Era | 11020 | [11020-trainz-a-new-era.json](./11020-trainz-a-new-era.json) |
 | Trainz: A New Era - Aerotrain | 156169 | [156169-trainz-a-new-era-aerotrain.json](./156169-trainz-a-new-era-aerotrain.json) |
 | Trainz: A New Era - Amtrak F40PH 2 Pack | 162676 | [162676-trainz-a-new-era-amtrak-f40ph-2-pack.json](./162676-trainz-a-new-era-amtrak-f40ph-2-pack.json) |
 | Trainz: A New Era - Amtrak P42DC: Phase III | 162642 | [162642-trainz-a-new-era-amtrak-p42dc-phase-iii.json](./162642-trainz-a-new-era-amtrak-p42dc-phase-iii.json) |
