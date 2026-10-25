@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
+| O Empire! Ward off Thy Rot | 399039 | [399039-o-empire-ward-off-thy-rot.json](./399039-o-empire-ward-off-thy-rot.json) |
 | O Horror Amarelo | 338939 | [338939-o-horror-amarelo.json](./338939-o-horror-amarelo.json) |
 | O Jardim Magico 3 | 251380 | [251380-o-jardim-magico-3.json](./251380-o-jardim-magico-3.json) |
 | O Livro Mágico | 290084 | [290084-o-livro-magico.json](./290084-o-livro-magico.json) |
@@ -2319,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneiro | 226668 | [226668-oneiro.json](./226668-oneiro.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
 | Oneiro(Phobia/Phrenia) | 327159 | [327159-oneiro-phobia-phrenia.json](./327159-oneiro-phobia-phrenia.json) |
+| Oneiroi | 399043 | [399043-oneiroi.json](./399043-oneiroi.json) |
 | Oneirology Online | 276922 | [276922-oneirology-online.json](./276922-oneirology-online.json) |
 | Oneironaut | 118108 | [118108-oneironaut.json](./118108-oneironaut.json) |
 | Oneirophobia | 300794 | [300794-oneirophobia.json](./300794-oneirophobia.json) |
@@ -3254,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Colony | 119875 | [119875-orc-colony.json](./119875-orc-colony.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Hunter VR | 32275 | [32275-orc-hunter-vr.json](./32275-orc-hunter-vr.json) |
+| Orc Incremental | 399030 | [399030-orc-incremental.json](./399030-orc-incremental.json) |
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
