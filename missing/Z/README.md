@@ -1294,12 +1294,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defence TD | 223527 | [223527-zombie-defence-td.json](./223527-zombie-defence-td.json) |
 | Zombie Defense | 271703 | [271703-zombie-defense.json](./271703-zombie-defense.json) |
 | Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
+| Zombie Defense: Banana | 404557 | [404557-zombie-defense-banana.json](./404557-zombie-defense-banana.json) |
 | Zombie Defense: Commando Edition | 277914 | [277914-zombie-defense-commando-edition.json](./277914-zombie-defense-commando-edition.json) |
 | Zombie Defense: Definitive Edition | 275047 | [275047-zombie-defense-definitive-edition.json](./275047-zombie-defense-definitive-edition.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
 | Zombie Defense: Jungle Edition | 371432 | [371432-zombie-defense-jungle-edition.json](./371432-zombie-defense-jungle-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
 | Zombie Defense: Pew Pew Edition | 306518 | [306518-zombie-defense-pew-pew-edition.json](./306518-zombie-defense-pew-pew-edition.json) |
+| Zombie Defense: Thunder Hammer | 404558 | [404558-zombie-defense-thunder-hammer.json](./404558-zombie-defense-thunder-hammer.json) |
 | Zombie Defense: War | 340994 | [340994-zombie-defense-war.json](./340994-zombie-defense-war.json) |
 | Zombie Demolition: Infinite Zombie Shooter | 344558 | [344558-zombie-demolition-infinite-zombie-shooter.json](./344558-zombie-demolition-infinite-zombie-shooter.json) |
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
