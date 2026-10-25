@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malfunction | 43167 | [43167-malfunction.json](./43167-malfunction.json) |
 | Malfunction FPS | 168326 | [168326-malfunction-fps.json](./168326-malfunction-fps.json) |
 | Malfunction II | 167392 | [167392-malfunction-ii.json](./167392-malfunction-ii.json) |
+| Malgosia | 395973 | [395973-malgosia.json](./395973-malgosia.json) |
 | Malibu Beach Volleyball | 49045 | [49045-malibu-beach-volleyball.json](./49045-malibu-beach-volleyball.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | Malice & Greed | 143568 | [143568-malice-and-greed.json](./143568-malice-and-greed.json) |
@@ -6812,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaRacer QuantumRush | 332892 | [332892-megaracer-quantumrush.json](./332892-megaracer-quantumrush.json) |
 | MegaRamp | 169789 | [169789-megaramp.json](./169789-megaramp.json) |
 | MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
+| Megaris | 395988 | [395988-megaris.json](./395988-megaris.json) |
 | Megas XLR: Final Battle | 343395 | [343395-megas-xlr-final-battle.json](./343395-megas-xlr-final-battle.json) |
 | Megashigi Too | 359287 | [359287-megashigi-too.json](./359287-megashigi-too.json) |
 | Megashootsplosion | 423862 | [423862-megashootsplosion.json](./423862-megashootsplosion.json) |
@@ -9749,6 +9751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiM: Meditation Interactive Matrix | 358995 | [358995-mim-meditation-interactive-matrix.json](./358995-mim-meditation-interactive-matrix.json) |
 | Mima and Nina's Chocolate Workshop | 191618 | [191618-mima-and-ninas-chocolate-workshop.json](./191618-mima-and-ninas-chocolate-workshop.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
+| Mimamo-Roll! | 395969 | [395969-mimamo-roll.json](./395969-mimamo-roll.json) |
 | Mimana Iyar Chronicle | 80165 | [80165-mimana-iyar-chronicle.json](./80165-mimana-iyar-chronicle.json) |
 | Mimelet | 187784 | [187784-mimelet.json](./187784-mimelet.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
@@ -16011,6 +16014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushi Battle Arena | 328616 | [328616-mushi-battle-arena.json](./328616-mushi-battle-arena.json) |
 | Mushi Life | 376115 | [376115-mushi-life.json](./376115-mushi-life.json) |
 | Mushi no Idokoro | 259990 | [259990-mushi-no-idokoro.json](./259990-mushi-no-idokoro.json) |
+| Mushi no Me Matsuri | 395968 | [395968-mushi-no-me-matsuri.json](./395968-mushi-no-me-matsuri.json) |
 | Mushi Taro | 279223 | [279223-mushi-taro.json](./279223-mushi-taro.json) |
 | Mushihime-sama Futari | 27626 | [27626-mushihime-sama-futari.json](./27626-mushihime-sama-futari.json) |
 | Mushihime-sama Futari Ver 1.5 | 413697 | [413697-mushihime-sama-futari-ver-1-5.json](./413697-mushihime-sama-futari-ver-1-5.json) |
