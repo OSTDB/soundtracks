@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor: Lingering Memories Side-Story | 171385 | [171385-neighbor-lingering-memories-side-story.json](./171385-neighbor-lingering-memories-side-story.json) |
 | Neighbor's Wife | 298652 | [298652-neighbors-wife.json](./298652-neighbors-wife.json) |
 | Neighborhood | 122004 | [122004-neighborhood.json](./122004-neighborhood.json) |
+| Neighborhood Games | 5066 | [5066-neighborhood-games.json](./5066-neighborhood-games.json) |
 | Neighborhood Video | 374045 | [374045-neighborhood-video.json](./374045-neighborhood-video.json) |
 | Neighborhoods | 403820 | [403820-neighborhoods.json](./403820-neighborhoods.json) |
 | Neighborhorde | 33452 | [33452-neighborhorde.json](./33452-neighborhorde.json) |
@@ -3359,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons & The Dice of Destiny: Deluxe Edition | 365553 | [365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json](./365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json) |
 | Nicktoons & The Dice of Destiny: Wardrobe of Wonder Pack | 365583 | [365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json](./365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json) |
 | Nicktoons Basketball | 7984 | [7984-nicktoons-basketball.json](./7984-nicktoons-basketball.json) |
+| Nicktoons MLB | 5072 | [5072-nicktoons-mlb.json](./5072-nicktoons-mlb.json) |
 | Nicktoons Nick Tunes | 210028 | [210028-nicktoons-nick-tunes.json](./210028-nicktoons-nick-tunes.json) |
 | Nicktoons Nitro | 7981 | [7981-nicktoons-nitro.json](./7981-nicktoons-nitro.json) |
 | Nicktoons Racing | 248732 | [248732-nicktoons-racing.json](./248732-nicktoons-racing.json) |
