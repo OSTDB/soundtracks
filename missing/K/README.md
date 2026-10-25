@@ -4317,6 +4317,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konjiki no Gash Bell!! Yuujou no Tag Battle Full Power | 3969 | [3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json](./3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json) |
 | Konjiki no Gash Bell!! Yuujou Tag Battle | 234643 | [234643-konjiki-no-gash-bell-yuujou-tag-battle.json](./234643-konjiki-no-gash-bell-yuujou-tag-battle.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
+| Konkey Dong | 413215 | [413215-konkey-dong.json](./413215-konkey-dong.json) |
+| Konkey Dong | 413216 | [413216-konkey-dong.json](./413216-konkey-dong.json) |
 | Konkonkon | 337741 | [337741-konkonkon.json](./337741-konkonkon.json) |
 | Konkord | 204949 | [204949-konkord.json](./204949-konkord.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
@@ -4876,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
 | Kulipari: United | 383198 | [383198-kulipari-united.json](./383198-kulipari-united.json) |
+| Kulkis | 413236 | [413236-kulkis.json](./413236-kulkis.json) |
 | Kulla-Di-Bulla | 103111 | [103111-kulla-di-bulla.json](./103111-kulla-di-bulla.json) |
 | Kulm Skiflug WM 2016 | 18965 | [18965-kulm-skiflug-wm-2016.json](./18965-kulm-skiflug-wm-2016.json) |
 | KuloNiku: Bowl Up! | 346735 | [346735-kuloniku-bowl-up.json](./346735-kuloniku-bowl-up.json) |
