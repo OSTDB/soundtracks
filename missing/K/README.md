@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-1 World Grand Prix 2001 Kaimakuden | 66883 | [66883-k-1-world-grand-prix-2001-kaimakuden.json](./66883-k-1-world-grand-prix-2001-kaimakuden.json) |
 | K-9 Dog Job | 286756 | [286756-k-9-dog-job.json](./286756-k-9-dog-job.json) |
 | K-Bot | 303610 | [303610-k-bot.json](./303610-k-bot.json) |
+| K-FED: Dancing with Fire | 387928 | [387928-k-fed-dancing-with-fire.json](./387928-k-fed-dancing-with-fire.json) |
 | K-Jo Chases the Cheese | 321653 | [321653-k-jo-chases-the-cheese.json](./321653-k-jo-chases-the-cheese.json) |
 | K-Jo Chases the Cheese | 321655 | [321655-k-jo-chases-the-cheese.json](./321655-k-jo-chases-the-cheese.json) |
 | K-ON Galge!?: Mio to Yui | 206001 | [206001-k-on-galge-mio-to-yui.json](./206001-k-on-galge-mio-to-yui.json) |
@@ -40,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K.C. Munchkin! | 18738 | [18738-k-c-munchkin.json](./18738-k-c-munchkin.json) |
 | K.C.'s Crazy Nightmare! | 40730 | [40730-k-c-s-crazy-nightmare.json](./40730-k-c-s-crazy-nightmare.json) |
 | K.H.L.E.E | 410434 | [410434-k-h-l-e-e.json](./410434-k-h-l-e-e.json) |
+| K.I.N.G. | 387930 | [387930-k-i-n-g.json](./387930-k-i-n-g.json) |
 | K.O. King | 66942 | [66942-k-o-king.json](./66942-k-o-king.json) |
 | K.O. The Live Boxing | 386677 | [386677-k-o-the-live-boxing.json](./386677-k-o-the-live-boxing.json) |
 | K.O.L.M. | 68899 | [68899-k-o-l-m.json](./68899-k-o-l-m.json) |
@@ -2323,7 +2325,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3643,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight 24/7 | 183846 | [183846-knight-24-7.json](./183846-knight-24-7.json) |
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight Age | 23548 | [23548-knight-age.json](./23548-knight-age.json) |
+| Knight Age: Jousting | 387935 | [387935-knight-age-jousting.json](./387935-knight-age-jousting.json) |
 | Knight and Mourning | 202703 | [202703-knight-and-mourning.json](./202703-knight-and-mourning.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Arms: The Hyblid Framer | 62594 | [62594-knight-arms-the-hyblid-framer.json](./62594-knight-arms-the-hyblid-framer.json) |
@@ -3772,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightess | 262943 | [262943-knightess.json](./262943-knightess.json) |
 | Knightess Layla: The Humiliating Life of a Seed Bed | 82687 | [82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json](./82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json) |
 | Knightess Leticia | 82685 | [82685-knightess-leticia.json](./82685-knightess-leticia.json) |
+| Knightfall | 387936 | [387936-knightfall.json](./387936-knightfall.json) |
 | Knightfall 2 | 128659 | [128659-knightfall-2.json](./128659-knightfall-2.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knightfall: A Daring Journey | 195019 | [195019-knightfall-a-daring-journey.json](./195019-knightfall-a-daring-journey.json) |
