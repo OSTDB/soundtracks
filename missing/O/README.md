@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivion Maiden | 407419 | [407419-oblivion-maiden.json](./407419-oblivion-maiden.json) |
 | Oblivion Tesseract VR | 29708 | [29708-oblivion-tesseract-vr.json](./29708-oblivion-tesseract-vr.json) |
 | Oblivion's Edge | 30673 | [30673-oblivions-edge.json](./30673-oblivions-edge.json) |
+| Oblivious Garden: Carmina Burana | 17850 | [17850-oblivious-garden-carmina-burana.json](./17850-oblivious-garden-carmina-burana.json) |
 | Oblivious Garden: Carmina Burana - Oblivious Garden: White Day | 171914 | [171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json](./171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json) |
 | Oblivistar | 264674 | [264674-oblivistar.json](./264674-oblivistar.json) |
 | Oblivium | 375318 | [375318-oblivium.json](./375318-oblivium.json) |
