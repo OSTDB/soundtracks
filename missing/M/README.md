@@ -4210,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Digital Deluxe Edition | 247654 | [247654-master-detective-archives-rain-code-digital-deluxe-edition.json](./247654-master-detective-archives-rain-code-digital-deluxe-edition.json) |
 | Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
+| Master Detective Reiji Takatori: Mystery Investigation | 400168 | [400168-master-detective-reiji-takatori-mystery-investigation.json](./400168-master-detective-reiji-takatori-mystery-investigation.json) |
 | Master Fighter IV | 48574 | [48574-master-fighter-iv.json](./48574-master-fighter-iv.json) |
 | Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
 | Master Games 1 | 60330 | [60330-master-games-1.json](./60330-master-games-1.json) |
@@ -7071,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Amethyst | 307869 | [307869-melty-amethyst.json](./307869-melty-amethyst.json) |
 | Melty Blood Actress Again | 22984 | [22984-melty-blood-actress-again.json](./22984-melty-blood-actress-again.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
+| Melty Blood: Twi-Lumina | 400268 | [400268-melty-blood-twi-lumina.json](./400268-melty-blood-twi-lumina.json) |
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
 | Melty Blood: Type Lumina - Deluxe Edition | 165597 | [165597-melty-blood-type-lumina-deluxe-edition.json](./165597-melty-blood-type-lumina-deluxe-edition.json) |
 | MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
@@ -16652,6 +16654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Extraordinary Girlfriend | 238097 | [238097-my-extraordinary-girlfriend.json](./238097-my-extraordinary-girlfriend.json) |
 | My Eyes | 155683 | [155683-my-eyes.json](./155683-my-eyes.json) |
 | My Eyes Deceive | 274399 | [274399-my-eyes-deceive.json](./274399-my-eyes-deceive.json) |
+| My Eyes Inside Out | 400280 | [400280-my-eyes-inside-out.json](./400280-my-eyes-inside-out.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
 | My Fair Link: Yousei Byakuya Monogatari | 416555 | [416555-my-fair-link-yousei-byakuya-monogatari.json](./416555-my-fair-link-yousei-byakuya-monogatari.json) |
