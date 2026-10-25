@@ -5017,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Underworld | 403812 | [403812-heroes-of-the-underworld.json](./403812-heroes-of-the-underworld.json) |
 | Heroes of Three Kingdoms | 170770 | [170770-heroes-of-three-kingdoms.json](./170770-heroes-of-three-kingdoms.json) |
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
+| Heroes of Throgg | 413793 | [413793-heroes-of-throgg.json](./413793-heroes-of-throgg.json) |
 | Heroes of Time | 200470 | [200470-heroes-of-time.json](./200470-heroes-of-time.json) |
 | Heroes of Tomorrow: Hidden Potential | 392321 | [392321-heroes-of-tomorrow-hidden-potential.json](./392321-heroes-of-tomorrow-hidden-potential.json) |
 | Heroes of Umbra | 3226 | [3226-heroes-of-umbra.json](./3226-heroes-of-umbra.json) |
@@ -6129,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Quality Funkin' | 405006 | [405006-high-quality-funkin.json](./405006-high-quality-funkin.json) |
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
+| High Roller Penny | 413416 | [413416-high-roller-penny.json](./413416-high-roller-penny.json) |
 | High Roller: Farkle | 216169 | [216169-high-roller-farkle.json](./216169-high-roller-farkle.json) |
 | High Rollers | 67393 | [67393-high-rollers.json](./67393-high-rollers.json) |
 | High Rollers: Dice Drop Duel | 399737 | [399737-high-rollers-dice-drop-duel.json](./399737-high-rollers-dice-drop-duel.json) |
@@ -6291,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Sniper Shooter | 107545 | [107545-highway-sniper-shooter.json](./107545-highway-sniper-shooter.json) |
 | Highway Terror | 322600 | [322600-highway-terror.json](./322600-highway-terror.json) |
 | Highway to Heal | 344445 | [344445-highway-to-heal.json](./344445-highway-to-heal.json) |
+| Highway to Hell-th | 413748 | [413748-highway-to-hell-th.json](./413748-highway-to-hell-th.json) |
 | Highway to the Moon | 32890 | [32890-highway-to-the-moon.json](./32890-highway-to-the-moon.json) |
 | Highway Traffic Pro | 387664 | [387664-highway-traffic-pro.json](./387664-highway-traffic-pro.json) |
 | Highway Traffic Racer | 168638 | [168638-highway-traffic-racer.json](./168638-highway-traffic-racer.json) |
@@ -6621,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiromichi Oniisan no Oyako Taisou Navi | 220581 | [220581-hiromichi-oniisan-no-oyako-taisou-navi.json](./220581-hiromichi-oniisan-no-oyako-taisou-navi.json) |
 | Hiroshi | 343290 | [343290-hiroshi.json](./343290-hiroshi.json) |
 | Hirotonfa's American Revolution Smuggler | 366565 | [366565-hirotonfas-american-revolution-smuggler.json](./366565-hirotonfas-american-revolution-smuggler.json) |
+| Hirusagari, Yokkyuu Fuman na Hitozuma-tachi ha...: Mesu Ochi Kikenbi Tanetsuke Koubi Kurui | 413704 | [413704-hirusagari-yokkyuu-fuman-na-hitozuma-tachi-ha-mesu-ochi-kikenbi-tanetsuke-koubi-kurui.json](./413704-hirusagari-yokkyuu-fuman-na-hitozuma-tachi-ha-mesu-ochi-kikenbi-tanetsuke-koubi-kurui.json) |
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
 | Hiryuu no Ken Densetsu GB: Real Version | 351575 | [351575-hiryuu-no-ken-densetsu-gb-real-version.json](./351575-hiryuu-no-ken-densetsu-gb-real-version.json) |
 | Hiryuu no Ken Densetsu GB: SD Version | 351574 | [351574-hiryuu-no-ken-densetsu-gb-sd-version.json](./351574-hiryuu-no-ken-densetsu-gb-sd-version.json) |
@@ -9560,8 +9564,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humble Rumble | 128371 | [128371-humble-rumble.json](./128371-humble-rumble.json) |
 | Humble Zombie | 343765 | [343765-humble-zombie.json](./343765-humble-zombie.json) |
 | Humblets | 349461 | [349461-humblets.json](./349461-humblets.json) |
+| Humbug | 413687 | [413687-humbug.json](./413687-humbug.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
+| Humbug 2 | 413690 | [413690-humbug-2.json](./413690-humbug-2.json) |
 | Humbug Tales: Keeper of the Swarm | 263974 | [263974-humbug-tales-keeper-of-the-swarm.json](./263974-humbug-tales-keeper-of-the-swarm.json) |
+| Humbugger | 413688 | [413688-humbugger.json](./413688-humbugger.json) |
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
 | Humerous | 282795 | [282795-humerous.json](./282795-humerous.json) |
 | Humilau Resort: A Pokémon Escape Room | 341924 | [341924-humilau-resort-a-pokemon-escape-room.json](./341924-humilau-resort-a-pokemon-escape-room.json) |
