@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offshore Racing | 234617 | [234617-offshore-racing.json](./234617-offshore-racing.json) |
 | Offshore Tycoon | 50740 | [50740-offshore-tycoon.json](./50740-offshore-tycoon.json) |
 | Offside | 127802 | [127802-offside.json](./127802-offside.json) |
+| Offside Deal: Football At Any Costs | 422011 | [422011-offside-deal-football-at-any-costs.json](./422011-offside-deal-football-at-any-costs.json) |
 | Offsuit Pair | 354938 | [354938-offsuit-pair.json](./354938-offsuit-pair.json) |
 | Offworld Trading Company - Jupiter's Forge | 51865 | [51865-offworld-trading-company-jupiters-forge.json](./51865-offworld-trading-company-jupiters-forge.json) |
 | Offworld Trading Company: Almanac | 124802 | [124802-offworld-trading-company-almanac.json](./124802-offworld-trading-company-almanac.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
 | Ohanaya-san Monogatari GBA | 49740 | [49740-ohanaya-san-monogatari-gba.json](./49740-ohanaya-san-monogatari-gba.json) |
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
+| Ohayo Gianthook!: Monster Fishing Adventure | 422074 | [422074-ohayo-gianthook-monster-fishing-adventure.json](./422074-ohayo-gianthook-monster-fishing-adventure.json) |
 | Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
@@ -1687,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Your Hands | 188826 | [188826-on-your-hands.json](./188826-on-your-hands.json) |
 | On Your Mark | 120115 | [120115-on-your-mark.json](./120115-on-your-mark.json) |
 | On Your Notebook | 365845 | [365845-on-your-notebook.json](./365845-on-your-notebook.json) |
+| On Your Own: Survival Inventory | 422030 | [422030-on-your-own-survival-inventory.json](./422030-on-your-own-survival-inventory.json) |
 | On-Court Tennis | 26244 | [26244-on-court-tennis.json](./26244-on-court-tennis.json) |
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
 | On-Together | 347835 | [347835-on-together.json](./347835-on-together.json) |
@@ -2400,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Warlords | 5845 | [5845-onimusha-warlords.json](./5845-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
 | Onimusha: Way of the Sword | 325602 | [325602-onimusha-way-of-the-sword.json](./325602-onimusha-way-of-the-sword.json) |
+| Onimusha: Way of the Sword - Lenticular Edition | 422014 | [422014-onimusha-way-of-the-sword-lenticular-edition.json](./422014-onimusha-way-of-the-sword-lenticular-edition.json) |
 | Onimusha: Way of the Sword - Sword Appearance: Whittled Oar | 407136 | [407136-onimusha-way-of-the-sword-sword-appearance-whittled-oar.json](./407136-onimusha-way-of-the-sword-sword-appearance-whittled-oar.json) |
 | Oninaki | 115280 | [115280-oninaki.json](./115280-oninaki.json) |
 | Onion Delivery | 318730 | [318730-onion-delivery.json](./318730-onion-delivery.json) |
