@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Mahjong | 48769 | [48769-family-mahjong.json](./48769-family-mahjong.json) |
 | Family Mahjong II: Shanghai he no Michi | 48768 | [48768-family-mahjong-ii-shanghai-he-no-michi.json](./48768-family-mahjong-ii-shanghai-he-no-michi.json) |
 | Family Man | 107416 | [107416-family-man.json](./107416-family-man.json) |
+| Family Manners | 425470 | [425470-family-manners.json](./425470-family-manners.json) |
 | Family Mansion | 177249 | [177249-family-mansion.json](./177249-family-mansion.json) |
 | Family Mini Golf | 50744 | [50744-family-mini-golf.json](./50744-family-mini-golf.json) |
 | Family Mysteries 2: Echoes of Tomorrow | 132610 | [132610-family-mysteries-2-echoes-of-tomorrow.json](./132610-family-mysteries-2-echoes-of-tomorrow.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Overrun | 168585 | [168585-far-cry-4-overrun.json](./168585-far-cry-4-overrun.json) |
 | Far Cry 4: Season Pass | 142907 | [142907-far-cry-4-season-pass.json](./142907-far-cry-4-season-pass.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
+| Far Cry 4: Ultimate Kyrat Edition | 7829 | [7829-far-cry-4-ultimate-kyrat-edition.json](./7829-far-cry-4-ultimate-kyrat-edition.json) |
 | Far Cry 4: Valley of The Yetis | 23383 | [23383-far-cry-4-valley-of-the-yetis.json](./23383-far-cry-4-valley-of-the-yetis.json) |
 | Far Cry 5 + Far Cry: New Dawn Double Pack | 146032 | [146032-far-cry-5-far-cry-new-dawn-double-pack.json](./146032-far-cry-5-far-cry-new-dawn-double-pack.json) |
 | Far Cry 5 Season Pass | 95960 | [95960-far-cry-5-season-pass.json](./95960-far-cry-5-season-pass.json) |
