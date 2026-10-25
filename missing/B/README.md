@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8565,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Basher 3D | 346913 | [346913-block-basher-3d.json](./346913-block-basher-3d.json) |
 | Block Beast | 353794 | [353794-block-beast.json](./353794-block-beast.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
+| Block Blast! | 400746 | [400746-block-blast.json](./400746-block-blast.json) |
 | Block Blaster | 245184 | [245184-block-blaster.json](./245184-block-blaster.json) |
 | Block Blaster DX! | 324190 | [324190-block-blaster-dx.json](./324190-block-blaster-dx.json) |
 | Block Blitz | 207280 | [207280-block-blitz.json](./207280-block-blitz.json) |
@@ -12796,6 +12798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
 | Bride of Frankenstein | 39118 | [39118-bride-of-frankenstein.json](./39118-bride-of-frankenstein.json) |
+| Bride Of The Abyss | 400838 | [400838-bride-of-the-abyss.json](./400838-bride-of-the-abyss.json) |
 | Bride of the Full Moon | 254616 | [254616-bride-of-the-full-moon.json](./254616-bride-of-the-full-moon.json) |
 | Bride of the Nightmare | 253757 | [253757-bride-of-the-nightmare.json](./253757-bride-of-the-nightmare.json) |
 | Bride of the Robot | 14347 | [14347-bride-of-the-robot.json](./14347-bride-of-the-robot.json) |
