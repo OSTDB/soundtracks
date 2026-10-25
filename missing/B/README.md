@@ -5978,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big 4 Sports Trivia | 89050 | [89050-big-4-sports-trivia.json](./89050-big-4-sports-trivia.json) |
 | Big Action Mega Fight! | 35586 | [35586-big-action-mega-fight.json](./35586-big-action-mega-fight.json) |
 | Big Adventure | 330271 | [330271-big-adventure.json](./330271-big-adventure.json) |
+| Big Adventure | 411977 | [411977-big-adventure.json](./411977-big-adventure.json) |
 | Big Adventure 5-in-1 Bundle | 328559 | [328559-big-adventure-5-in-1-bundle.json](./328559-big-adventure-5-in-1-bundle.json) |
 | Big Adventure of Fighting Chicken | 163848 | [163848-big-adventure-of-fighting-chicken.json](./163848-big-adventure-of-fighting-chicken.json) |
 | Big Adventure: Trip to Europe | 237359 | [237359-big-adventure-trip-to-europe.json](./237359-big-adventure-trip-to-europe.json) |
@@ -10090,6 +10091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing! The Game | 15703 | [15703-boing-the-game.json](./15703-boing-the-game.json) |
 | BoingBoingOuch | 196480 | [196480-boingboingouch.json](./196480-boingboingouch.json) |
 | Boinggg! | 13419 | [13419-boinggg.json](./13419-boinggg.json) |
+| Boingus' Big Day | 411981 | [411981-boingus-big-day.json](./411981-boingus-big-day.json) |
 | Boingz | 51082 | [51082-boingz.json](./51082-boingz.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
