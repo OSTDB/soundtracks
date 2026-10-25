@@ -3334,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nichibutsu Mahjong Collection | 251087 | [251087-nichibutsu-mahjong-collection.json](./251087-nichibutsu-mahjong-collection.json) |
 | Nichibutsu Mahjong III: Mahjong G Men | 48804 | [48804-nichibutsu-mahjong-iii-mahjong-g-men.json](./48804-nichibutsu-mahjong-iii-mahjong-g-men.json) |
 | Nichijou: Uchuujin | 63077 | [63077-nichijou-uchuujin.json](./63077-nichijou-uchuujin.json) |
+| Nicholas' Weird Adventure | 387941 | [387941-nicholas-weird-adventure.json](./387941-nicholas-weird-adventure.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
 | Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
@@ -4460,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjas Infinity | 339842 | [339842-ninjas-infinity.json](./339842-ninjas-infinity.json) |
 | Ninjas on Trampolines | 351613 | [351613-ninjas-on-trampolines.json](./351613-ninjas-on-trampolines.json) |
 | Ninjas Stars | 344967 | [344967-ninjas-stars.json](./344967-ninjas-stars.json) |
+| Ninjas vs Mafia Deluxe! | 387942 | [387942-ninjas-vs-mafia-deluxe.json](./387942-ninjas-vs-mafia-deluxe.json) |
 | Ninjas: Stolen Scrolls | 196647 | [196647-ninjas-stolen-scrolls.json](./196647-ninjas-stolen-scrolls.json) |
 | NinjaThea 2 | 341479 | [341479-ninjathea-2.json](./341479-ninjathea-2.json) |
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
