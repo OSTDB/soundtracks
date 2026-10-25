@@ -5550,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Champion | 261715 | [261715-hidden-champion.json](./261715-hidden-champion.json) |
 | Hidden Chinese Chess | 242109 | [242109-hidden-chinese-chess.json](./242109-hidden-chinese-chess.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
+| Hidden City: Hidden Object Adventure | 88900 | [88900-hidden-city-hidden-object-adventure.json](./88900-hidden-city-hidden-object-adventure.json) |
 | Hidden Clues: Gang Wars | 295101 | [295101-hidden-clues-gang-wars.json](./295101-hidden-clues-gang-wars.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
