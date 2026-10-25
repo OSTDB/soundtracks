@@ -4295,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Nest | 262950 | [262950-deep-nest.json](./262950-deep-nest.json) |
 | Deep Night Detective | 165440 | [165440-deep-night-detective.json](./165440-deep-night-detective.json) |
 | Deep Night Detective: Chapter One | 167263 | [167263-deep-night-detective-chapter-one.json](./167263-deep-night-detective-chapter-one.json) |
+| Deep Nightmare: Phobias | 416999 | [416999-deep-nightmare-phobias.json](./416999-deep-nightmare-phobias.json) |
 | Deep Ocean Rush | 125083 | [125083-deep-ocean-rush.json](./125083-deep-ocean-rush.json) |
 | Deep Ones | 55258 | [55258-deep-ones.json](./55258-deep-ones.json) |
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
@@ -6257,6 +6258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detanabi Pro Yakyuu 2 | 65590 | [65590-detanabi-pro-yakyuu-2.json](./65590-detanabi-pro-yakyuu-2.json) |
 | Detariki Z | 316484 | [316484-detariki-z.json](./316484-detariki-z.json) |
 | DeTechtive 2112 | 295333 | [295333-detechtive-2112.json](./295333-detechtive-2112.json) |
+| Detect Dan the Dog! | 416975 | [416975-detect-dan-the-dog.json](./416975-detect-dan-the-dog.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
 | Detective 26 | 390789 | [390789-detective-26.json](./390789-detective-26.json) |
