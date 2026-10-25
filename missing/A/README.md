@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slight Chance of Sawblades | 232313 | [232313-a-slight-chance-of-sawblades.json](./232313-a-slight-chance-of-sawblades.json) |
 | A Slight Chance of Sawblades+ | 296794 | [296794-a-slight-chance-of-sawblades.json](./296794-a-slight-chance-of-sawblades.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
+| A Slime at Midnight | 416326 | [416326-a-slime-at-midnight.json](./416326-a-slime-at-midnight.json) |
 | A Slime's Quest for Freedom | 136181 | [136181-a-slimes-quest-for-freedom.json](./136181-a-slimes-quest-for-freedom.json) |
 | A Slime's Test for Intelligence | 212660 | [212660-a-slimes-test-for-intelligence.json](./212660-a-slimes-test-for-intelligence.json) |
 | A Slit of Joy | 195076 | [195076-a-slit-of-joy.json](./195076-a-slit-of-joy.json) |
@@ -3269,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeterna Noctis: Virtuoso | 270860 | [270860-aeterna-noctis-virtuoso.json](./270860-aeterna-noctis-virtuoso.json) |
 | Aeterna: Curse of The First King | 424050 | [424050-aeterna-curse-of-the-first-king.json](./424050-aeterna-curse-of-the-first-king.json) |
 | Aeterna: Rubra Plena | 233579 | [233579-aeterna-rubra-plena.json](./233579-aeterna-rubra-plena.json) |
+| Aeterna: Shattered Legacy | 416379 | [416379-aeterna-shattered-legacy.json](./416379-aeterna-shattered-legacy.json) |
 | Aeternitas | 111896 | [111896-aeternitas.json](./111896-aeternitas.json) |
 | AeternoBlade | 52034 | [52034-aeternoblade.json](./52034-aeternoblade.json) |
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
@@ -5352,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Adventures | 96939 | [96939-alices-adventures.json](./96939-alices-adventures.json) |
 | Alice's Adventures in Wonderland | 95466 | [95466-alices-adventures-in-wonderland.json](./95466-alices-adventures-in-wonderland.json) |
 | Alice's Burger Shop | 223485 | [223485-alices-burger-shop.json](./223485-alices-burger-shop.json) |
+| Alice's Desktop Adventure | 416353 | [416353-alices-desktop-adventure.json](./416353-alices-desktop-adventure.json) |
 | Alice's Jigsaw: Time Travel | 163005 | [163005-alices-jigsaw-time-travel.json](./163005-alices-jigsaw-time-travel.json) |
 | Alice's Jigsaw: Time Travel 2 | 163001 | [163001-alices-jigsaw-time-travel-2.json](./163001-alices-jigsaw-time-travel-2.json) |
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
@@ -11638,6 +11641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Rain | 351122 | [351122-arrow-rain.json](./351122-arrow-rain.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
 | Arrow Survival: 15 Seconds | 372080 | [372080-arrow-survival-15-seconds.json](./372080-arrow-survival-15-seconds.json) |
+| Arrow Tap Puzzle | 416380 | [416380-arrow-tap-puzzle.json](./416380-arrow-tap-puzzle.json) |
 | Arrow Time U | 84768 | [84768-arrow-time-u.json](./84768-arrow-time-u.json) |
 | Arrow Tourney | 127924 | [127924-arrow-tourney.json](./127924-arrow-tourney.json) |
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
