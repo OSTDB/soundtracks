@@ -2317,7 +2317,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -3291,6 +3290,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissing Simulator | 118987 | [118987-kissing-simulator.json](./118987-kissing-simulator.json) |
 | Kissing the Buddha's Feet | 217780 | [217780-kissing-the-buddhas-feet.json](./217780-kissing-the-buddhas-feet.json) |
 | Kissrim | 378917 | [378917-kissrim.json](./378917-kissrim.json) |
+| Kissrim: Full Production Limited Edition | 395335 | [395335-kissrim-full-production-limited-edition.json](./395335-kissrim-full-production-limited-edition.json) |
+| Kissrim: Motto Miryoku!? Extra Story | 395336 | [395336-kissrim-motto-miryoku-extra-story.json](./395336-kissrim-motto-miryoku-extra-story.json) |
 | Kisten Royale | 352228 | [352228-kisten-royale.json](./352228-kisten-royale.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
 | KIT-10 | 372211 | [372211-kit-10.json](./372211-kit-10.json) |
@@ -4845,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
 | KSI Unleashed | 350371 | [350371-ksi-unleashed.json](./350371-ksi-unleashed.json) |
 | Ksiega Dzungli | 318486 | [318486-ksiega-dzungli.json](./318486-ksiega-dzungli.json) |
+| KSTG | 395364 | [395364-kstg.json](./395364-kstg.json) |
 | Ktgame | 189877 | [189877-ktgame.json](./189877-ktgame.json) |
 | KTX-1 | 170044 | [170044-ktx-1.json](./170044-ktx-1.json) |
 | Ku Blast Brawl | 133699 | [133699-ku-blast-brawl.json](./133699-ku-blast-brawl.json) |
