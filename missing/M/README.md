@@ -3774,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Avengers Alliance Tactics | 61694 | [61694-marvel-avengers-alliance-tactics.json](./61694-marvel-avengers-alliance-tactics.json) |
 | Marvel Avengers: Battle for Earth | 5315 | [5315-marvel-avengers-battle-for-earth.json](./5315-marvel-avengers-battle-for-earth.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
+| Marvel Cosmic Invasion: Cyclops & The Thing | 411354 | [411354-marvel-cosmic-invasion-cyclops-and-the-thing.json](./411354-marvel-cosmic-invasion-cyclops-and-the-thing.json) |
 | Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
 | Marvel Duel | 138543 | [138543-marvel-duel.json](./138543-marvel-duel.json) |
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
@@ -12105,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
 | Mogutte Nanbo | 366907 | [366907-mogutte-nanbo.json](./366907-mogutte-nanbo.json) |
 | MoGuuRu Dabas | 227819 | [227819-moguuru-dabas.json](./227819-moguuru-dabas.json) |
+| Moha | 411288 | [411288-moha.json](./411288-moha.json) |
 | Mohawk & Headphone Jack | 42487 | [42487-mohawk-and-headphone-jack.json](./42487-mohawk-and-headphone-jack.json) |
 | Mohism | 152378 | [152378-mohism.json](./152378-mohism.json) |
 | MoHo | 176877 | [176877-moho.json](./176877-moho.json) |
