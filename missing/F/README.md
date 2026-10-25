@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Frenzy World | 77118 | [77118-finger-frenzy-world.json](./77118-finger-frenzy-world.json) |
 | Finger Gravity | 253263 | [253263-finger-gravity.json](./253263-finger-gravity.json) |
 | Finger Guessing King | 169722 | [169722-finger-guessing-king.json](./169722-finger-guessing-king.json) |
+| Finger Hoola | 22199 | [22199-finger-hoola.json](./22199-finger-hoola.json) |
 | Finger Is 300 Bugs | 242958 | [242958-finger-is-300-bugs.json](./242958-finger-is-300-bugs.json) |
 | Finger Jets: Phase Challenge | 99452 | [99452-finger-jets-phase-challenge.json](./99452-finger-jets-phase-challenge.json) |
 | Finger Maniac | 262351 | [262351-finger-maniac.json](./262351-finger-maniac.json) |
@@ -6922,6 +6923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluxion | 243568 | [243568-fluxion.json](./243568-fluxion.json) |
 | Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
 | Fluxteria | 135587 | [135587-fluxteria.json](./135587-fluxteria.json) |
+| Fluxx | 22185 | [22185-fluxx.json](./22185-fluxx.json) |
 | FLW Professional Bass Tournament 2000 | 74028 | [74028-flw-professional-bass-tournament-2000.json](./74028-flw-professional-bass-tournament-2000.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
@@ -8613,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 6: VIP Membership | 401831 | [401831-forza-horizon-6-vip-membership.json](./401831-forza-horizon-6-vip-membership.json) |
 | Forza Horizon 6: Welcome Pack | 401829 | [401829-forza-horizon-6-welcome-pack.json](./401829-forza-horizon-6-welcome-pack.json) |
 | Forza Horizon: Limited Collector's Edition | 41594 | [41594-forza-horizon-limited-collectors-edition.json](./41594-forza-horizon-limited-collectors-edition.json) |
+| Forza Horizon: Rally | 22201 | [22201-forza-horizon-rally.json](./22201-forza-horizon-rally.json) |
 | Forza Motorsport | 3073 | [3073-forza-motorsport.json](./3073-forza-motorsport.json) |
 | Forza Motorsport 2 | 3072 | [3072-forza-motorsport-2.json](./3072-forza-motorsport-2.json) |
 | Forza Motorsport 2: Limited Collector's Edition | 47469 | [47469-forza-motorsport-2-limited-collectors-edition.json](./47469-forza-motorsport-2-limited-collectors-edition.json) |
