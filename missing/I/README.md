@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
 | Ice Scream United | 243705 | [243705-ice-scream-united.json](./243705-ice-scream-united.json) |
 | Ice Slider | 355232 | [355232-ice-slider.json](./355232-ice-slider.json) |
+| Ice Slider | 409373 | [409373-ice-slider.json](./409373-ice-slider.json) |
 | Ice Slider Z | 294403 | [294403-ice-slider-z.json](./294403-ice-slider-z.json) |
 | Ice Star | 150630 | [150630-ice-star.json](./150630-ice-star.json) |
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
@@ -2639,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incursion 2: The Artifact | 95947 | [95947-incursion-2-the-artifact.json](./95947-incursion-2-the-artifact.json) |
 | Incursion: The Thing | 30723 | [30723-incursion-the-thing.json](./30723-incursion-the-thing.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
+| Incyanspace | 409359 | [409359-incyanspace.json](./409359-incyanspace.json) |
 | Inde Rally | 47090 | [47090-inde-rally.json](./47090-inde-rally.json) |
 | Indecent Desires | 211617 | [211617-indecent-desires.json](./211617-indecent-desires.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
