@@ -4649,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeaverKarts | 253254 | [253254-beaverkarts.json](./253254-beaverkarts.json) |
 | Beavers | 12350 | [12350-beavers.json](./12350-beavers.json) |
 | Beavers Be Dammed | 81704 | [81704-beavers-be-dammed.json](./81704-beavers-be-dammed.json) |
+| Beavers in the Stream | 422061 | [422061-beavers-in-the-stream.json](./422061-beavers-in-the-stream.json) |
 | Beavertale | 403519 | [403519-beavertale.json](./403519-beavertale.json) |
 | Beavis and Butt-head: Wiener Take All | 8460 | [8460-beavis-and-butt-head-wiener-take-all.json](./8460-beavis-and-butt-head-wiener-take-all.json) |
 | Bebder Game: Bebder Than the Rest | 209389 | [209389-bebder-game-bebder-than-the-rest.json](./209389-bebder-game-bebder-than-the-rest.json) |
@@ -15064,6 +15065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byouki na Generation: Crane Catcher no Bourei | 383043 | [383043-byouki-na-generation-crane-catcher-no-bourei.json](./383043-byouki-na-generation-crane-catcher-no-bourei.json) |
 | Byoutai Seiri DS: Image Dekiru! Shikkan, Shoujou to Care | 269672 | [269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json](./269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json) |
 | Bypass | 382884 | [382884-bypass.json](./382884-bypass.json) |
+| Byrd Ronin | 422065 | [422065-byrd-ronin.json](./422065-byrd-ronin.json) |
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
 | Byte | 301066 | [301066-byte.json](./301066-byte.json) |
 | Byte Bitten | 93183 | [93183-byte-bitten.json](./93183-byte-bitten.json) |
