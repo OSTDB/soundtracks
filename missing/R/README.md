@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
 | Rail Maze | 19512 | [19512-rail-maze.json](./19512-rail-maze.json) |
 | Rail Maze : Train puzzle | 88743 | [88743-rail-maze-train-puzzle.json](./88743-rail-maze-train-puzzle.json) |
+| Rail Maze 2 : Train Puzzler | 87301 | [87301-rail-maze-2-train-puzzler.json](./87301-rail-maze-2-train-puzzler.json) |
 | Rail Nation | 23617 | [23617-rail-nation.json](./23617-rail-nation.json) |
 | Rail of Möbius | 147810 | [147810-rail-of-mobius.json](./147810-rail-of-mobius.json) |
 | Rail Racers | 9252 | [9252-rail-racers.json](./9252-rail-racers.json) |
@@ -1599,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Fire | 112751 | [112751-rapid-fire.json](./112751-rapid-fire.json) |
 | Rapid Fire Brigade | 248178 | [248178-rapid-fire-brigade.json](./248178-rapid-fire-brigade.json) |
 | Rapid Hero | 39881 | [39881-rapid-hero.json](./39881-rapid-hero.json) |
+| Rapid Jump | 87290 | [87290-rapid-jump.json](./87290-rapid-jump.json) |
 | Rapid Magic Arcane Crystals | 174210 | [174210-rapid-magic-arcane-crystals.json](./174210-rapid-magic-arcane-crystals.json) |
 | Rapid Puppet | 391122 | [391122-rapid-puppet.json](./391122-rapid-puppet.json) |
 | Rapid Racing | 107746 | [107746-rapid-racing.json](./107746-rapid-racing.json) |
