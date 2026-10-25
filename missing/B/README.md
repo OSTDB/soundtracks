@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back in Time Part II: Back to the Nineties | 57996 | [57996-back-in-time-part-ii-back-to-the-nineties.json](./57996-back-in-time-part-ii-back-to-the-nineties.json) |
 | Back Light | 319864 | [319864-back-light.json](./319864-back-light.json) |
 | Back of Space | 171436 | [171436-back-of-space.json](./171436-back-of-space.json) |
+| Back Pain Delivery | 390460 | [390460-back-pain-delivery.json](./390460-back-pain-delivery.json) |
 | Back Rank Chess | 232923 | [232923-back-rank-chess.json](./232923-back-rank-chess.json) |
 | Back Rank Chess: Zombie Strike | 289341 | [289341-back-rank-chess-zombie-strike.json](./289341-back-rank-chess-zombie-strike.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
@@ -7735,6 +7736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
 | Blackout | 284008 | [284008-blackout.json](./284008-blackout.json) |
 | BlackOut | 63061 | [63061-blackout.json](./63061-blackout.json) |
+| Blackout Arena | 390436 | [390436-blackout-arena.json](./390436-blackout-arena.json) |
 | Blackout Hospital | 238533 | [238533-blackout-hospital.json](./238533-blackout-hospital.json) |
 | Blackout Memphis | 253414 | [253414-blackout-memphis.json](./253414-blackout-memphis.json) |
 | Blackout Route | 419157 | [419157-blackout-route.json](./419157-blackout-route.json) |
@@ -14436,6 +14438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Defense | 161631 | [161631-bunker-defense.json](./161631-bunker-defense.json) |
 | Bunker Down | 344437 | [344437-bunker-down.json](./344437-bunker-down.json) |
 | Bunker Farmer | 296590 | [296590-bunker-farmer.json](./296590-bunker-farmer.json) |
+| Bunker KYS | 390456 | [390456-bunker-kys.json](./390456-bunker-kys.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
 | Bunker Protection | 281973 | [281973-bunker-protection.json](./281973-bunker-protection.json) |
@@ -15000,6 +15003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster | 62831 | [62831-buster.json](./62831-buster.json) |
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
+| Buster Breaks Out | 390373 | [390373-buster-breaks-out.json](./390373-buster-breaks-out.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
 | Buster Bros. Collection | 20137 | [20137-buster-bros-collection.json](./20137-buster-bros-collection.json) |
 | Buster Bubbles | 354231 | [354231-buster-bubbles.json](./354231-buster-bubbles.json) |
