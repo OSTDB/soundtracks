@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Guardians | 38881 | [38881-dark-guardians.json](./38881-dark-guardians.json) |
 | Dark Half | 42562 | [42562-dark-half.json](./42562-dark-half.json) |
 | Dark Harvest | 166821 | [166821-dark-harvest.json](./166821-dark-harvest.json) |
+| Dark Harvest | 419642 | [419642-dark-harvest.json](./419642-dark-harvest.json) |
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
 | Dark Haunting | 192225 | [192225-dark-haunting.json](./192225-dark-haunting.json) |
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
@@ -4727,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defuser VR | 29538 | [29538-defuser-vr.json](./29538-defuser-vr.json) |
 | Defy Gravity | 8678 | [8678-defy-gravity.json](./8678-defy-gravity.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
+| Defy the Abyss | 419592 | [419592-defy-the-abyss.json](./419592-defy-the-abyss.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
 | Deg-Deg the Ravenous | 194470 | [194470-deg-deg-the-ravenous.json](./194470-deg-deg-the-ravenous.json) |
@@ -8169,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Rise of the Elves Gold | 224495 | [224495-disciples-ii-rise-of-the-elves-gold.json](./224495-disciples-ii-rise-of-the-elves-gold.json) |
 | Disciples II: Servants of the Dark | 11402 | [11402-disciples-ii-servants-of-the-dark.json](./11402-disciples-ii-servants-of-the-dark.json) |
 | Disciples III: Renaissance | 9824 | [9824-disciples-iii-renaissance.json](./9824-disciples-iii-renaissance.json) |
+| Disciples of Canada | 419604 | [419604-disciples-of-canada.json](./419604-disciples-of-canada.json) |
 | Disciples of Dawn | 119334 | [119334-disciples-of-dawn.json](./119334-disciples-of-dawn.json) |
 | Disciples of Steel | 71793 | [71793-disciples-of-steel.json](./71793-disciples-of-steel.json) |
 | Disciples of the Storm | 110236 | [110236-disciples-of-the-storm.json](./110236-disciples-of-the-storm.json) |
@@ -13174,6 +13177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamHack Beyond | 150568 | [150568-dreamhack-beyond.json](./150568-dreamhack-beyond.json) |
 | DreamHero | 373118 | [373118-dreamhero.json](./373118-dreamhero.json) |
 | Dreamhouse: The Game | 156981 | [156981-dreamhouse-the-game.json](./156981-dreamhouse-the-game.json) |
+| Dreamhunter: The Prophecy | 419632 | [419632-dreamhunter-the-prophecy.json](./419632-dreamhunter-the-prophecy.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreamin' Cat | 276714 | [276714-dreamin-cat.json](./276714-dreamin-cat.json) |
 | Dreaminal | 270077 | [270077-dreaminal.json](./270077-dreaminal.json) |
@@ -14135,6 +14139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duality ZF | 92062 | [92062-duality-zf.json](./92062-duality-zf.json) |
 | DualMania!: Universes Connect | 176389 | [176389-dualmania-universes-connect.json](./176389-dualmania-universes-connect.json) |
 | DualPenSports | 25179 | [25179-dualpensports.json](./25179-dualpensports.json) |
+| Dualspace | 419634 | [419634-dualspace.json](./419634-dualspace.json) |
 | Dualsus | 62655 | [62655-dualsus.json](./62655-dualsus.json) |
 | DualVerse86 | 373175 | [373175-dualverse86.json](./373175-dualverse86.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
