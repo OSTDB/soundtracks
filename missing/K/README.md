@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Me Yesterday | 415999 | [415999-kill-me-yesterday.json](./415999-kill-me-yesterday.json) |
 | Kill or Love | 123995 | [123995-kill-or-love.json](./123995-kill-or-love.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
+| Kill Pig Death Squads | 396067 | [396067-kill-pig-death-squads.json](./396067-kill-pig-death-squads.json) |
 | Kill Pill | 237451 | [237451-kill-pill.json](./237451-kill-pill.json) |
 | Kill Santa | 279464 | [279464-kill-santa.json](./279464-kill-santa.json) |
 | Kill Shot | 221901 | [221901-kill-shot.json](./221901-kill-shot.json) |
@@ -4659,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon's Rhizome: A Day of the Fire - Vol. 2 | 255806 | [255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json](./255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json) |
 | Köy | 320997 | [320997-koy.json](./320997-koy.json) |
 | Koya Rift | 17953 | [17953-koya-rift.json](./17953-koya-rift.json) |
+| Koyamachou Watch Repair Shop | 395974 | [395974-koyamachou-watch-repair-shop.json](./395974-koyamachou-watch-repair-shop.json) |
 | Koyomin's Revenge | 343473 | [343473-koyomins-revenge.json](./343473-koyomins-revenge.json) |
 | Koza | 183314 | [183314-koza.json](./183314-koza.json) |
 | Kozeni Mushi | 396453 | [396453-kozeni-mushi.json](./396453-kozeni-mushi.json) |
