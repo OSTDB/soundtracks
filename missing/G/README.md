@@ -5589,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
 | Gonshit infarct | 253510 | [253510-gonshit-infarct.json](./253510-gonshit-infarct.json) |
 | Gonta no Okiraku Daibouken | 98292 | [98292-gonta-no-okiraku-daibouken.json](./98292-gonta-no-okiraku-daibouken.json) |
+| Gonzalo the Chicken | 423267 | [423267-gonzalo-the-chicken.json](./423267-gonzalo-the-chicken.json) |
 | GonzoVR | 109865 | [109865-gonzovr.json](./109865-gonzovr.json) |
 | Gonzzalezz | 39154 | [39154-gonzzalezz.json](./39154-gonzzalezz.json) |
 | Goo Fighter | 283725 | [283725-goo-fighter.json](./283725-goo-fighter.json) |
@@ -7411,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid | 327878 | [327878-grid.json](./327878-grid.json) |
 | Grid | 390054 | [390054-grid.json](./390054-grid.json) |
+| Grid & Guilt | 423217 | [423217-grid-and-guilt.json](./423217-grid-and-guilt.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
 | Grid 2: Reloaded Edition | 26185 | [26185-grid-2-reloaded-edition.json](./26185-grid-2-reloaded-edition.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
@@ -7729,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gringo Hero | 339472 | [339472-gringo-hero.json](./339472-gringo-hero.json) |
 | Grinlox is here | 266901 | [266901-grinlox-is-here.json](./266901-grinlox-is-here.json) |
 | Grinnel | 389586 | [389586-grinnel.json](./389586-grinnel.json) |
+| Grinner's Diner | 423216 | [423216-grinners-diner.json](./423216-grinners-diner.json) |
 | Grip | 18452 | [18452-grip.json](./18452-grip.json) |
 | Grip Games Anthology | 99557 | [99557-grip-games-anthology.json](./99557-grip-games-anthology.json) |
 | Grip on Reality | 232527 | [232527-grip-on-reality.json](./232527-grip-on-reality.json) |
@@ -8179,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
 | Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
 | Guardian | 55133 | [55133-guardian.json](./55133-guardian.json) |
+| Guardian Above the Domes | 423199 | [423199-guardian-above-the-domes.json](./423199-guardian-above-the-domes.json) |
 | Guardian Angel | 299584 | [299584-guardian-angel.json](./299584-guardian-angel.json) |
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
@@ -8377,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild of Monsters | 369175 | [369175-guild-of-monsters.json](./369175-guild-of-monsters.json) |
 | Guild of Rogues | 271626 | [271626-guild-of-rogues.json](./271626-guild-of-rogues.json) |
+| Guild of the Tower | 423297 | [423297-guild-of-the-tower.json](./423297-guild-of-the-tower.json) |
 | Guild of Three | 404651 | [404651-guild-of-three.json](./404651-guild-of-three.json) |
 | Guild Quest | 30820 | [30820-guild-quest.json](./30820-guild-quest.json) |
 | Guild Receptionist 2: Stardust Liberate | 329239 | [329239-guild-receptionist-2-stardust-liberate.json](./329239-guild-receptionist-2-stardust-liberate.json) |
