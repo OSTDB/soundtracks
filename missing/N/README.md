@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Furries | 367512 | [367512-night-furries.json](./367512-night-furries.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
 | Night Gate | 212967 | [212967-night-gate.json](./212967-night-gate.json) |
+| Night Guard Skull Steve | 396681 | [396681-night-guard-skull-steve.json](./396681-night-guard-skull-steve.json) |
 | Night Guard: The Last Shift | 177533 | [177533-night-guard-the-last-shift.json](./177533-night-guard-the-last-shift.json) |
 | Night Guardian | 123527 | [123527-night-guardian.json](./123527-night-guardian.json) |
 | Night Gunner | 46078 | [46078-night-gunner.json](./46078-night-gunner.json) |
@@ -6186,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
+| Null: Initiative | 396671 | [396671-null-initiative.json](./396671-null-initiative.json) |
 | Null: Remastered | 392719 | [392719-null-remastered.json](./392719-null-remastered.json) |
 | Null.Process | 358844 | [358844-null-process.json](./358844-null-process.json) |
 | Nulla Via | 390023 | [390023-nulla-via.json](./390023-nulla-via.json) |
