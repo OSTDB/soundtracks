@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoExpert - World | 100616 | [100616-geoexpert-world.json](./100616-geoexpert-world.json) |
 | Geoff Capes Strongman | 79164 | [79164-geoff-capes-strongman.json](./79164-geoff-capes-strongman.json) |
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
+| GeoFußball | 422707 | [422707-geofu-ball.json](./422707-geofu-ball.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geographical Adventures | 191450 | [191450-geographical-adventures.json](./191450-geographical-adventures.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
@@ -4750,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblintown: Really Hard Driving Game | 341290 | [341290-goblintown-really-hard-driving-game.json](./341290-goblintown-really-hard-driving-game.json) |
 | Goblita’s Delivery Service | 349264 | [349264-goblita-s-delivery-service.json](./349264-goblita-s-delivery-service.json) |
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
+| GoBlomb | 422663 | [422663-goblomb.json](./422663-goblomb.json) |
 | Goblomite | 348893 | [348893-goblomite.json](./348893-goblomite.json) |
 | Goblr: Goblin Date Night Simulator | 238719 | [238719-goblr-goblin-date-night-simulator.json](./238719-goblr-goblin-date-night-simulator.json) |
 | Gobo & Spike | 357303 | [357303-gobo-and-spike.json](./357303-gobo-and-spike.json) |
