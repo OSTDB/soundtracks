@@ -7242,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus and Find Stereogram Training | 364087 | [364087-focus-and-find-stereogram-training.json](./364087-focus-and-find-stereogram-training.json) |
 | Focus Find | 199260 | [199260-focus-find.json](./199260-focus-find.json) |
 | Focus Friend | 367721 | [367721-focus-friend.json](./367721-focus-friend.json) |
+| Focus Froggy | 412600 | [412600-focus-froggy.json](./412600-focus-froggy.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
 | Fodders Grapple Gauntlet | 401602 | [401602-fodders-grapple-gauntlet.json](./401602-fodders-grapple-gauntlet.json) |
@@ -8156,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Tunnels: Episode 1 | 178418 | [178418-forgotten-tunnels-episode-1.json](./178418-forgotten-tunnels-episode-1.json) |
 | Forgotten Tunnels: Episode 2 | 178428 | [178428-forgotten-tunnels-episode-2.json](./178428-forgotten-tunnels-episode-2.json) |
 | Forgotten Vale | 295312 | [295312-forgotten-vale.json](./295312-forgotten-vale.json) |
+| Forgotten Vault | 412577 | [412577-forgotten-vault.json](./412577-forgotten-vault.json) |
 | Forgotten VIlla | 389042 | [389042-forgotten-villa.json](./389042-forgotten-villa.json) |
 | Forgotten War | 252068 | [252068-forgotten-war.json](./252068-forgotten-war.json) |
 | Forgotten Warrior | 243728 | [243728-forgotten-warrior.json](./243728-forgotten-warrior.json) |
@@ -8293,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: Diamond Edition | 410856 | [410856-formula-racing-pro-2026-diamond-edition.json](./410856-formula-racing-pro-2026-diamond-edition.json) |
 | Formula Racing Pro 2026: Elite Edition | 404278 | [404278-formula-racing-pro-2026-elite-edition.json](./404278-formula-racing-pro-2026-elite-edition.json) |
 | Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
+| Formula Racing Pro 2026: Silver Edtion | 412585 | [412585-formula-racing-pro-2026-silver-edtion.json](./412585-formula-racing-pro-2026-silver-edtion.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Racing: Grand Prix League | 319317 | [319317-formula-racing-grand-prix-league.json](./319317-formula-racing-grand-prix-league.json) |
 | Formula Rush | 332868 | [332868-formula-rush.json](./332868-formula-rush.json) |
