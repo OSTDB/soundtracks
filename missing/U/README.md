@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia | 390549 | [390549-utopia.json](./390549-utopia.json) |
 | Utopia | 5702 | [5702-utopia.json](./5702-utopia.json) |
 | Utopia 9: A Volatile Vacation | 20360 | [20360-utopia-9-a-volatile-vacation.json](./20360-utopia-9-a-volatile-vacation.json) |
+| Utopia Gatekeeper | 412617 | [412617-utopia-gatekeeper.json](./412617-utopia-gatekeeper.json) |
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
 | Utopia Process | 153390 | [153390-utopia-process.json](./153390-utopia-process.json) |
 | Utopia Syndrome | 110738 | [110738-utopia-syndrome.json](./110738-utopia-syndrome.json) |
