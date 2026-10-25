@@ -4989,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
 | May I Open My Eyes to the Night!? | 303293 | [303293-may-i-open-my-eyes-to-the-night.json](./303293-may-i-open-my-eyes-to-the-night.json) |
 | May I Take Your Order? | 123025 | [123025-may-i-take-your-order.json](./123025-may-i-take-your-order.json) |
+| May the Cards Lay Out a Straight | 390989 | [390989-may-the-cards-lay-out-a-straight.json](./390989-may-the-cards-lay-out-a-straight.json) |
 | May Your Memory Be a Blessing | 308422 | [308422-may-your-memory-be-a-blessing.json](./308422-may-your-memory-be-a-blessing.json) |
 | May's Mysteries: The Secret of Dragonville | 17928 | [17928-mays-mysteries-the-secret-of-dragonville.json](./17928-mays-mysteries-the-secret-of-dragonville.json) |
 | May's Mystery: Forbidden Memories | 21144 | [21144-mays-mystery-forbidden-memories.json](./21144-mays-mystery-forbidden-memories.json) |
@@ -11732,6 +11733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 25 | 329844 | [329844-mlb-the-show-25.json](./329844-mlb-the-show-25.json) |
 | MLB The Show 26 | 387374 | [387374-mlb-the-show-26.json](./387374-mlb-the-show-26.json) |
 | MLB The Show 26: Digital Deluxe Edition | 390533 | [390533-mlb-the-show-26-digital-deluxe-edition.json](./390533-mlb-the-show-26-digital-deluxe-edition.json) |
+| MLB The Show 26: Digital Deluxe Edition Bonus Content | 390925 | [390925-mlb-the-show-26-digital-deluxe-edition-bonus-content.json](./390925-mlb-the-show-26-digital-deluxe-edition-bonus-content.json) |
 | MLB.com Franchise MVP | 61355 | [61355-mlb-com-franchise-mvp.json](./61355-mlb-com-franchise-mvp.json) |
 | MLB.com Home Run Derby 14 | 61357 | [61357-mlb-com-home-run-derby-14.json](./61357-mlb-com-home-run-derby-14.json) |
 | MLF 2 | 43242 | [43242-mlf-2.json](./43242-mlf-2.json) |
@@ -16027,6 +16029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Other Realities | 118168 | [118168-museum-of-other-realities.json](./118168-museum-of-other-realities.json) |
 | Museum of Other Realities: Canadian Collection | 193176 | [193176-museum-of-other-realities-canadian-collection.json](./193176-museum-of-other-realities-canadian-collection.json) |
 | Museum of Parallel Art | 182871 | [182871-museum-of-parallel-art.json](./182871-museum-of-parallel-art.json) |
+| Museum of Sweet Potatoes | 390984 | [390984-museum-of-sweet-potatoes.json](./390984-museum-of-sweet-potatoes.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Museum Simulator | 349824 | [349824-museum-simulator.json](./349824-museum-simulator.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
