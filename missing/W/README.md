@@ -3271,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
 | Wheatley's Unscientific Tests | 416797 | [416797-wheatleys-unscientific-tests.json](./416797-wheatleys-unscientific-tests.json) |
 | Wheeeee! | 357359 | [357359-wheeeee.json](./357359-wheeeee.json) |
+| Wheel Balance | 389185 | [389185-wheel-balance.json](./389185-wheel-balance.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel Make It | 402549 | [402549-wheel-make-it.json](./402549-wheel-make-it.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
