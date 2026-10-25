@@ -12214,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash & Rust | 190902 | [190902-ash-and-rust.json](./190902-ash-and-rust.json) |
 | Ash and Tor: Yuma's Quest | 276265 | [276265-ash-and-tor-yumas-quest.json](./276265-ash-and-tor-yumas-quest.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
+| Ash Arms 2: The Darkside of the Moon | 396684 | [396684-ash-arms-2-the-darkside-of-the-moon.json](./396684-ash-arms-2-the-darkside-of-the-moon.json) |
 | Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
 | Ash Echoes | 376880 | [376880-ash-echoes.json](./376880-ash-echoes.json) |
 | ASH II: Shadows | 65269 | [65269-ash-ii-shadows.json](./65269-ash-ii-shadows.json) |
