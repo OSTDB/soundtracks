@@ -4610,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatstar: Supercell - "Hay Day Theme" | 358782 | [358782-beatstar-supercell-hay-day-theme.json](./358782-beatstar-supercell-hay-day-theme.json) |
 | Beatstar: Ultimate Studio, Tim Spicer, Yahor Milkota - "Hotshot (Hot Lap League Theme)" | 358784 | [358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json](./358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json) |
 | Beatstar: Yeah Yeah Yeahs - "Heads Will Roll" | 358783 | [358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json](./358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json) |
+| BeatStream AnimTribe | 395961 | [395961-beatstream-animtribe.json](./395961-beatstream-animtribe.json) |
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
 | Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
 | Beau Jolly 48K Value Pack | 100077 | [100077-beau-jolly-48k-value-pack.json](./100077-beau-jolly-48k-value-pack.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before We Leave: Deluxe Edition | 242609 | [242609-before-we-leave-deluxe-edition.json](./242609-before-we-leave-deluxe-edition.json) |
 | Before You Depart | 252817 | [252817-before-you-depart.json](./252817-before-you-depart.json) |
 | Before You Die | 185434 | [185434-before-you-die.json](./185434-before-you-die.json) |
+| Before You Disappear | 395971 | [395971-before-you-disappear.json](./395971-before-you-disappear.json) |
 | Before You Forget | 261447 | [261447-before-you-forget.json](./261447-before-you-forget.json) |
 | Before Your Eyes | 305472 | [305472-before-your-eyes.json](./305472-before-your-eyes.json) |
 | BeforeDisaster | 368224 | [368224-beforedisaster.json](./368224-beforedisaster.json) |
