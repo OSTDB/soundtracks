@@ -3005,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble Adventure Unlimited | 107126 | [107126-scribble-adventure-unlimited.json](./107126-scribble-adventure-unlimited.json) |
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
 | Scribble It! | 120649 | [120649-scribble-it.json](./120649-scribble-it.json) |
+| Scribble Ships | 30801 | [30801-scribble-ships.json](./30801-scribble-ships.json) |
 | Scribble Shooter | 21152 | [21152-scribble-shooter.json](./21152-scribble-shooter.json) |
 | Scribble Space | 35711 | [35711-scribble-space.json](./35711-scribble-space.json) |
 | Scribble Wolf | 368812 | [368812-scribble-wolf.json](./368812-scribble-wolf.json) |
@@ -3526,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons: Toddler learning game | 105435 | [105435-seasons-toddler-learning-game.json](./105435-seasons-toddler-learning-game.json) |
 | Seasonspree | 152195 | [152195-seasonspree.json](./152195-seasonspree.json) |
 | Seastalker | 12622 | [12622-seastalker.json](./12622-seastalker.json) |
+| Seasteader | 29473 | [29473-seasteader.json](./29473-seasteader.json) |
 | Seat of War | 104832 | [104832-seat-of-war.json](./104832-seat-of-war.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
@@ -10821,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
+| Sleight | 30885 | [30885-sleight.json](./30885-sleight.json) |
 | Sleight: Nerve Wracking Espionage Party Game | 110740 | [110740-sleight-nerve-wracking-espionage-party-game.json](./110740-sleight-nerve-wracking-espionage-party-game.json) |
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
@@ -15259,6 +15262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | Soulscape 2: Fragments of the Present | 374380 | [374380-soulscape-2-fragments-of-the-present.json](./374380-soulscape-2-fragments-of-the-present.json) |
+| SoulSet | 29508 | [29508-soulset.json](./29508-soulset.json) |
 | SoulSet: Necromancer Edition | 53623 | [53623-soulset-necromancer-edition.json](./53623-soulset-necromancer-edition.json) |
 | SoulShake | 295597 | [295597-soulshake.json](./295597-soulshake.json) |
 | SoulShards Arena | 197223 | [197223-soulshards-arena.json](./197223-soulshards-arena.json) |
@@ -16066,6 +16070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mercenary Defense Force | 228910 | [228910-space-mercenary-defense-force.json](./228910-space-mercenary-defense-force.json) |
 | Space Mercenary Shooter : Episode 1 | 119998 | [119998-space-mercenary-shooter-episode-1.json](./119998-space-mercenary-shooter-episode-1.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
+| Space Merchants: Arena | 30799 | [30799-space-merchants-arena.json](./30799-space-merchants-arena.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner Blast | 120662 | [120662-space-miner-blast.json](./120662-space-miner-blast.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
@@ -16086,6 +16091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Moonshiner | 230969 | [230969-space-moonshiner.json](./230969-space-moonshiner.json) |
 | Space Mosaics | 383727 | [383727-space-mosaics.json](./383727-space-mosaics.json) |
 | Space Moth DX | 33928 | [33928-space-moth-dx.json](./33928-space-moth-dx.json) |
+| Space Mouse | 30874 | [30874-space-mouse.json](./30874-space-mouse.json) |
 | Space Mouse 2 | 149507 | [149507-space-mouse-2.json](./149507-space-mouse-2.json) |
 | Space Mouse: 35th Anniversary Edition | 98525 | [98525-space-mouse-35th-anniversary-edition.json](./98525-space-mouse-35th-anniversary-edition.json) |
 | Space Moves | 272141 | [272141-space-moves.json](./272141-space-moves.json) |
@@ -16205,6 +16211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
 | Space Rift - Episode 1 | 33655 | [33655-space-rift-episode-1.json](./33655-space-rift-episode-1.json) |
 | Space Rift Non-VR - Episode 1 | 30622 | [30622-space-rift-non-vr-episode-1.json](./30622-space-rift-non-vr-episode-1.json) |
+| Space Ripper | 29505 | [29505-space-ripper.json](./29505-space-ripper.json) |
 | Space Ripper Plastiline | 108362 | [108362-space-ripper-plastiline.json](./108362-space-ripper-plastiline.json) |
 | Space Road | 125713 | [125713-space-road.json](./125713-space-road.json) |
 | Space Roaming | 149832 | [149832-space-roaming.json](./149832-space-roaming.json) |
@@ -16448,6 +16455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Zone | 310161 | [310161-space-zone.json](./310161-space-zone.json) |
 | Space zone defender | 130856 | [130856-space-zone-defender.json](./130856-space-zone-defender.json) |
 | Space-D Launch Program | 334836 | [334836-space-d-launch-program.json](./334836-space-d-launch-program.json) |
+| Space-Fright | 29467 | [29467-space-fright.json](./29467-space-fright.json) |
 | Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
@@ -16614,6 +16622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceteam VR | 119337 | [119337-spaceteam-vr.json](./119337-spaceteam-vr.json) |
 | Spaceteam: The Second Dimension | 211606 | [211606-spaceteam-the-second-dimension.json](./211606-spaceteam-the-second-dimension.json) |
 | Spacetour Express | 315890 | [315890-spacetour-express.json](./315890-spacetour-express.json) |
+| Spacetours VR: Ep.1 - The Solar System | 29475 | [29475-spacetours-vr-ep-1-the-solar-system.json](./29475-spacetours-vr-ep-1-the-solar-system.json) |
 | Spacetron | 258469 | [258469-spacetron.json](./258469-spacetron.json) |
 | Spacetronic | 270683 | [270683-spacetronic.json](./270683-spacetronic.json) |
 | Spacetug | 179028 | [179028-spacetug.json](./179028-spacetug.json) |
@@ -18150,6 +18159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spocon! Sports Wear-Complex | 77844 | [77844-spocon-sports-wear-complex.json](./77844-spocon-sports-wear-complex.json) |
 | Spod Blaster | 85979 | [85979-spod-blaster.json](./85979-spod-blaster.json) |
 | Spogs Racing | 21048 | [21048-spogs-racing.json](./21048-spogs-racing.json) |
+| Spoids | 29512 | [29512-spoids.json](./29512-spoids.json) |
 | Spoiler Alert | 20097 | [20097-spoiler-alert.json](./20097-spoiler-alert.json) |
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
 | Spoko and Poko | 35395 | [35395-spoko-and-poko.json](./35395-spoko-and-poko.json) |
@@ -19604,6 +19614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Special Pack | 227142 | [227142-star-melody-yumemi-dreamer-special-pack.json](./227142-star-melody-yumemi-dreamer-special-pack.json) |
 | Star Merc | 32453 | [32453-star-merc.json](./32453-star-merc.json) |
 | Star Mercenary | 236417 | [236417-star-mercenary.json](./236417-star-mercenary.json) |
+| Star Merchant | 29448 | [29448-star-merchant.json](./29448-star-merchant.json) |
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mission: Remote Sectors | 336570 | [336570-star-mission-remote-sectors.json](./336570-star-mission-remote-sectors.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
@@ -21146,6 +21157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Train Simulator | 328089 | [328089-steam-train-simulator.json](./328089-steam-train-simulator.json) |
 | Steam Veins | 319062 | [319062-steam-veins.json](./319062-steam-veins.json) |
 | Steam-Heart's | 45973 | [45973-steam-hearts.json](./45973-steam-hearts.json) |
+| Steam: Rails to Riches | 29429 | [29429-steam-rails-to-riches.json](./29429-steam-rails-to-riches.json) |
 | Steam: Rails to Riches - Belgium & Luxembourg Map | 162706 | [162706-steam-rails-to-riches-belgium-and-luxembourg-map.json](./162706-steam-rails-to-riches-belgium-and-luxembourg-map.json) |
 | Steam: Rails to Riches - Carcassonne Map | 162705 | [162705-steam-rails-to-riches-carcassonne-map.json](./162705-steam-rails-to-riches-carcassonne-map.json) |
 | Steam: Rails to Riches - Golden Train Edition | 53666 | [53666-steam-rails-to-riches-golden-train-edition.json](./53666-steam-rails-to-riches-golden-train-edition.json) |
@@ -24800,6 +24812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
 | Super Alloy Ranger | 200550 | [200550-super-alloy-ranger.json](./200550-super-alloy-ranger.json) |
 | Super Alpaca Bros. | 114336 | [114336-super-alpaca-bros.json](./114336-super-alpaca-bros.json) |
+| Super Amazeballs | 29452 | [29452-super-amazeballs.json](./29452-super-amazeballs.json) |
 | Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
 | Super Ancient Keys | 321450 | [321450-super-ancient-keys.json](./321450-super-ancient-keys.json) |
 | Super Aneurysm | 207120 | [207120-super-aneurysm.json](./207120-super-aneurysm.json) |
