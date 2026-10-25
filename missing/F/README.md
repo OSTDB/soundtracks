@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facing the Rain | 324718 | [324718-facing-the-rain.json](./324718-facing-the-rain.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
 | Facist | 61515 | [61515-facist.json](./61515-facist.json) |
+| Fact Attack | 420192 | [420192-fact-attack.json](./420192-fact-attack.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Faction Reticent | 366125 | [366125-faction-reticent.json](./366125-faction-reticent.json) |
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
@@ -9928,6 +9929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Pond | 342285 | [342285-frog-pond.json](./342285-frog-pond.json) |
 | Frog Pond Simulator | 394780 | [394780-frog-pond-simulator.json](./394780-frog-pond-simulator.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
+| Frog Race | 420171 | [420171-frog-race.json](./420171-frog-race.json) |
 | Frog Smith | 182717 | [182717-frog-smith.json](./182717-frog-smith.json) |
 | Frog Soup | 315773 | [315773-frog-soup.json](./315773-frog-soup.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
@@ -10785,6 +10787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Football Tournament | 22073 | [22073-fun-football-tournament.json](./22073-fun-football-tournament.json) |
 | Fun Fox’s Biscuit Bash | 397089 | [397089-fun-fox-s-biscuit-bash.json](./397089-fun-fox-s-biscuit-bash.json) |
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
+| Fun Goat Facts | 420191 | [420191-fun-goat-facts.json](./420191-fun-goat-facts.json) |
 | Fun Gus | 310159 | [310159-fun-gus.json](./310159-fun-gus.json) |
 | Fun Home | 374298 | [374298-fun-home.json](./374298-fun-home.json) |
 | Fun Hospital | 241814 | [241814-fun-hospital.json](./241814-fun-hospital.json) |
