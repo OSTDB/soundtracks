@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
 | Girls und Panzer: Senshadou Daisakusen! | 208236 | [208236-girls-und-panzer-senshadou-daisakusen.json](./208236-girls-und-panzer-senshadou-daisakusen.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
+| Girls Who Are Totally Into Me | 400165 | [400165-girls-who-are-totally-into-me.json](./400165-girls-who-are-totally-into-me.json) |
 | Girls Will Bite | 260068 | [260068-girls-will-bite.json](./260068-girls-will-bite.json) |
 | Girls With Secrets | 294397 | [294397-girls-with-secrets.json](./294397-girls-with-secrets.json) |
 | Girls x Battle 2 | 137467 | [137467-girls-x-battle-2.json](./137467-girls-x-battle-2.json) |
@@ -9130,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns'n'Glory WW2 | 97445 | [97445-gunsnglory-ww2.json](./97445-gunsnglory-ww2.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | Guns'n'Stories: Bulletproof VR | 55382 | [55382-gunsnstories-bulletproof-vr.json](./55382-gunsnstories-bulletproof-vr.json) |
+| Gunsaw | 400267 | [400267-gunsaw.json](./400267-gunsaw.json) |
 | GunsBox VR | 188431 | [188431-gunsbox-vr.json](./188431-gunsbox-vr.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
 | Gunscape: Seismic | 171921 | [171921-gunscape-seismic.json](./171921-gunscape-seismic.json) |
