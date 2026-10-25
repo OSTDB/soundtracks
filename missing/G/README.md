@@ -2194,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gematombe | 101445 | [101445-gematombe.json](./101445-gematombe.json) |
 | Gemaze TD | 411665 | [411665-gemaze-td.json](./411665-gemaze-td.json) |
 | Gemblades | 386881 | [386881-gemblades.json](./386881-gemblades.json) |
+| GemBreak | 32813 | [32813-gembreak.json](./32813-gembreak.json) |
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
 | GemCraft | 23979 | [23979-gemcraft.json](./23979-gemcraft.json) |
 | GemCraft - Chasing Shadows | 17321 | [17321-gemcraft-chasing-shadows.json](./17321-gemcraft-chasing-shadows.json) |
@@ -2242,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
 | Gems of Magic: Double Pack | 242051 | [242051-gems-of-magic-double-pack.json](./242051-gems-of-magic-double-pack.json) |
 | Gems of Magic: Lost Family | 116367 | [116367-gems-of-magic-lost-family.json](./116367-gems-of-magic-lost-family.json) |
+| Gems of the Aztecs | 33868 | [33868-gems-of-the-aztecs.json](./33868-gems-of-the-aztecs.json) |
 | Gems of War | 9531 | [9531-gems-of-war.json](./9531-gems-of-war.json) |
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
 | Gems With Friends | 60469 | [60469-gems-with-friends.json](./60469-gems-with-friends.json) |
@@ -4619,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat's Tale Plus | 187173 | [187173-goats-tale-plus.json](./187173-goats-tale-plus.json) |
 | GoatBrains | 405036 | [405036-goatbrains.json](./405036-goatbrains.json) |
 | Goatlings | 166460 | [166460-goatlings.json](./166460-goatlings.json) |
+| GoatPunks | 33929 | [33929-goatpunks.json](./33929-goatpunks.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | GoatUp | 93491 | [93491-goatup.json](./93491-goatup.json) |
 | GoatUp 2 | 22195 | [22195-goatup-2.json](./22195-goatup-2.json) |
@@ -7513,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
 | Grim Dawn: Fangs of Asterkarn | 298931 | [298931-grim-dawn-fangs-of-asterkarn.json](./298931-grim-dawn-fangs-of-asterkarn.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
+| Grim Dragons | 32825 | [32825-grim-dragons.json](./32825-grim-dragons.json) |
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
 | Grim Facade: A Wealth of Betrayal | 140214 | [140214-grim-facade-a-wealth-of-betrayal.json](./140214-grim-facade-a-wealth-of-betrayal.json) |
