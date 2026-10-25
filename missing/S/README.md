@@ -3262,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Legends: Phantasmal Light - Collector's Edition | 36244 | [36244-sea-legends-phantasmal-light-collectors-edition.json](./36244-sea-legends-phantasmal-light-collectors-edition.json) |
 | Sea Life Safari | 21829 | [21829-sea-life-safari.json](./21829-sea-life-safari.json) |
 | Sea Loot | 176275 | [176275-sea-loot.json](./176275-sea-loot.json) |
+| Sea Magic | 411961 | [411961-sea-magic.json](./411961-sea-magic.json) |
 | Sea Monkeys | 419846 | [419846-sea-monkeys.json](./419846-sea-monkeys.json) |
 | Sea Monster | 92823 | [92823-sea-monster.json](./92823-sea-monster.json) |
 | Sea Monster Attacks Hunter | 176446 | [176446-sea-monster-attacks-hunter.json](./176446-sea-monster-attacks-hunter.json) |
@@ -5811,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaftdiver | 218090 | [218090-shaftdiver.json](./218090-shaftdiver.json) |
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
+| Shaggy Run | 411962 | [411962-shaggy-run.json](./411962-shaggy-run.json) |
 | Shagster Online 2 | 176812 | [176812-shagster-online-2.json](./176812-shagster-online-2.json) |
 | Shǎguāshì SGB Cūlòu Xīndé | 161597 | [161597-shaguashi-sgb-culou-xinde.json](./161597-shaguashi-sgb-culou-xinde.json) |
 | Shahmaran | 337047 | [337047-shahmaran.json](./337047-shahmaran.json) |
@@ -7230,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitlings | 369626 | [369626-shitlings.json](./369626-shitlings.json) |
 | ShitMan | 285140 | [285140-shitman.json](./285140-shitman.json) |
 | Shitsuji ga Aruji wo Erabu Toki | 216245 | [216245-shitsuji-ga-aruji-wo-erabu-toki.json](./216245-shitsuji-ga-aruji-wo-erabu-toki.json) |
+| Shitsurensha Doumei | 411965 | [411965-shitsurensha-doumei.json](./411965-shitsurensha-doumei.json) |
 | Shitty Cactus | 129450 | [129450-shitty-cactus.json](./129450-shitty-cactus.json) |
 | Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
 | Shiver | 325717 | [325717-shiver.json](./325717-shiver.json) |
@@ -12297,6 +12300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Beings | 301061 | [301061-sneaky-beings.json](./301061-sneaky-beings.json) |
 | Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
 | Sneaky Claws | 358649 | [358649-sneaky-claws.json](./358649-sneaky-claws.json) |
+| Sneaky Clean | 411990 | [411990-sneaky-clean.json](./411990-sneaky-clean.json) |
 | Sneaky Fishy | 419369 | [419369-sneaky-fishy.json](./419369-sneaky-fishy.json) |
 | Sneaky IT Support | 211572 | [211572-sneaky-it-support.json](./211572-sneaky-it-support.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
@@ -22497,6 +22501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded | 308327 | [308327-stranded.json](./308327-stranded.json) |
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
 | Stranded | 376811 | [376811-stranded.json](./376811-stranded.json) |
+| Stranded | 411980 | [411980-stranded.json](./411980-stranded.json) |
 | Stranded 2 | 170896 | [170896-stranded-2.json](./170896-stranded-2.json) |
 | Stranded Alone | 81874 | [81874-stranded-alone.json](./81874-stranded-alone.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
@@ -27636,6 +27641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
+| SuperPacker | 411995 | [411995-superpacker.json](./411995-superpacker.json) |
 | Superpanda | 186549 | [186549-superpanda.json](./186549-superpanda.json) |
 | Superpanel | 377702 | [377702-superpanel.json](./377702-superpanel.json) |
 | Superpantsu Harematchii | 151607 | [151607-superpantsu-harematchii.json](./151607-superpantsu-harematchii.json) |
