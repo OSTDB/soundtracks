@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
 | Wee-Woo | 130640 | [130640-wee-woo.json](./130640-wee-woo.json) |
+| Weebish Mines | 29085 | [29085-weebish-mines.json](./29085-weebish-mines.json) |
 | Weed | 82143 | [82143-weed.json](./82143-weed.json) |
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
 | Weed Bakery | 374631 | [374631-weed-bakery.json](./374631-weed-bakery.json) |
@@ -4256,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Man Jump | 305465 | [305465-wild-man-jump.json](./305465-wild-man-jump.json) |
 | Wild Man Jump | 305473 | [305473-wild-man-jump.json](./305473-wild-man-jump.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
+| Wild Metal Country | 20132 | [20132-wild-metal-country.json](./20132-wild-metal-country.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
 | Wild Ones | 65950 | [65950-wild-ones.json](./65950-wild-ones.json) |
 | Wild Ones Battle Stadium | 338365 | [338365-wild-ones-battle-stadium.json](./338365-wild-ones-battle-stadium.json) |
