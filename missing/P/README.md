@@ -3271,6 +3271,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Marks | 365144 | [365144-pencil-marks.json](./365144-pencil-marks.json) |
 | Pencil Peril | 176356 | [176356-pencil-peril.json](./176356-pencil-peril.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
+| Pencil Racer | 406912 | [406912-pencil-racer.json](./406912-pencil-racer.json) |
+| Pencil Racer 3: Drive It | 406916 | [406916-pencil-racer-3-drive-it.json](./406916-pencil-racer-3-drive-it.json) |
+| Pencil Racer XL | 406914 | [406914-pencil-racer-xl.json](./406914-pencil-racer-xl.json) |
 | Pencil Sharpening Simulator | 57172 | [57172-pencil-sharpening-simulator.json](./57172-pencil-sharpening-simulator.json) |
 | Pencil Story - Free Logic Game | 36487 | [36487-pencil-story-free-logic-game.json](./36487-pencil-story-free-logic-game.json) |
 | Pencil Whipped | 72546 | [72546-pencil-whipped.json](./72546-pencil-whipped.json) |
@@ -10126,6 +10129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony World: Color by Numbers | 279874 | [279874-pony-world-color-by-numbers.json](./279874-pony-world-color-by-numbers.json) |
 | Pony World: Color by Numbers & Animal Golf: Battle Race Bundle | 289205 | [289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json](./289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json) |
 | PonyGuessr | 259414 | [259414-ponyguessr.json](./259414-ponyguessr.json) |
+| Poo Dodger | 406875 | [406875-poo-dodger.json](./406875-poo-dodger.json) |
 | Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poobo | 383160 | [383160-poobo.json](./383160-poobo.json) |
