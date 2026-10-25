@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badaboom: Deluxe Edition | 281948 | [281948-badaboom-deluxe-edition.json](./281948-badaboom-deluxe-edition.json) |
 | Badanamu First Step | 201094 | [201094-badanamu-first-step.json](./201094-badanamu-first-step.json) |
 | Badass | 29536 | [29536-badass.json](./29536-badass.json) |
+| Badass Brad | 424716 | [424716-badass-brad.json](./424716-badass-brad.json) |
 | Badass Brigade | 376209 | [376209-badass-brigade.json](./376209-badass-brigade.json) |
 | Badass Inc. | 133271 | [133271-badass-inc.json](./133271-badass-inc.json) |
 | Badass Tennis | 214968 | [214968-badass-tennis.json](./214968-badass-tennis.json) |
@@ -7081,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
 | Bit-Boom | 86292 | [86292-bit-boom.json](./86292-bit-boom.json) |
+| Bit-Broken Identity | 424655 | [424655-bit-broken-identity.json](./424655-bit-broken-identity.json) |
 | Bit-Buster | 184936 | [184936-bit-buster.json](./184936-bit-buster.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit-cremental: Fishistry Color | 387693 | [387693-bit-cremental-fishistry-color.json](./387693-bit-cremental-fishistry-color.json) |
@@ -9175,6 +9177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodlust.exe | 370871 | [370871-bloodlust-exe.json](./370871-bloodlust-exe.json) |
 | Bloodmatch | 366728 | [366728-bloodmatch.json](./366728-bloodmatch.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
+| Bloodmoon Bastion | 424713 | [424713-bloodmoon-bastion.json](./424713-bloodmoon-bastion.json) |
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
 | Bloodmoon Rush | 333152 | [333152-bloodmoon-rush.json](./333152-bloodmoon-rush.json) |
 | Bloodmoon Survivors | 398629 | [398629-bloodmoon-survivors.json](./398629-bloodmoon-survivors.json) |
@@ -13969,6 +13972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Built Different | 215029 | [215029-built-different.json](./215029-built-different.json) |
 | Built for Speed | 242681 | [242681-built-for-speed.json](./242681-built-for-speed.json) |
 | Buissons | 123543 | [123543-buissons.json](./123543-buissons.json) |
+| Buitopia DVD | 424702 | [424702-buitopia-dvd.json](./424702-buitopia-dvd.json) |
 | Bujingai: The Forsaken City | 19413 | [19413-bujingai-the-forsaken-city.json](./19413-bujingai-the-forsaken-city.json) |
 | Buka | 96028 | [96028-buka.json](./96028-buka.json) |
 | Buki Buki! | 184837 | [184837-buki-buki.json](./184837-buki-buki.json) |
