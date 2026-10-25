@@ -4976,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Demons | 168590 | [168590-seven-demons.json](./168590-seven-demons.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Dragon Saga | 60626 | [60626-seven-dragon-saga.json](./60626-seven-dragon-saga.json) |
+| Seven Favors | 399024 | [399024-seven-favors.json](./399024-seven-favors.json) |
 | Seven Guardians | 58313 | [58313-seven-guardians.json](./58313-seven-guardians.json) |
 | Seven Haunted Seas | 69148 | [69148-seven-haunted-seas.json](./69148-seven-haunted-seas.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
@@ -5519,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Mammon | 258453 | [258453-shadow-of-mammon.json](./258453-shadow-of-mammon.json) |
 | Shadow of Naught | 138042 | [138042-shadow-of-naught.json](./138042-shadow-of-naught.json) |
 | Shadow of Nebula | 20366 | [20366-shadow-of-nebula.json](./20366-shadow-of-nebula.json) |
+| Shadow of Oryda | 399021 | [399021-shadow-of-oryda.json](./399021-shadow-of-oryda.json) |
 | Shadow of Paris | 385563 | [385563-shadow-of-paris.json](./385563-shadow-of-paris.json) |
 | Shadow of Pharos | 305951 | [305951-shadow-of-pharos.json](./305951-shadow-of-pharos.json) |
 | Shadow of Rome | 14406 | [14406-shadow-of-rome.json](./14406-shadow-of-rome.json) |
@@ -13896,6 +13898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnius | 416579 | [416579-somnius.json](./416579-somnius.json) |
 | Somnography | 172769 | [172769-somnography.json](./172769-somnography.json) |
 | Somnokid | 201114 | [201114-somnokid.json](./201114-somnokid.json) |
+| Somnosec | 399017 | [399017-somnosec.json](./399017-somnosec.json) |
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
 | Somny & Yawn: Dream Detectives | 132604 | [132604-somny-and-yawn-dream-detectives.json](./132604-somny-and-yawn-dream-detectives.json) |
 | Somos | 110494 | [110494-somos.json](./110494-somos.json) |
