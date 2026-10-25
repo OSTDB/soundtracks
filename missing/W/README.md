@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Crystal Lair | 360337 | [360337-walkabout-mini-golf-crystal-lair.json](./360337-walkabout-mini-golf-crystal-lair.json) |
 | Walkabout Mini Golf: Forgotten Fairyland | 372655 | [372655-walkabout-mini-golf-forgotten-fairyland.json](./372655-walkabout-mini-golf-forgotten-fairyland.json) |
 | Walkabout Mini Golf: Gardens of Babylon | 196105 | [196105-walkabout-mini-golf-gardens-of-babylon.json](./196105-walkabout-mini-golf-gardens-of-babylon.json) |
+| Walkabout Mini Golf: Homestar Runner Distraction Pack | 402688 | [402688-walkabout-mini-golf-homestar-runner-distraction-pack.json](./402688-walkabout-mini-golf-homestar-runner-distraction-pack.json) |
 | Walkabout Mini Golf: Jim Henson's Labyrinth | 198158 | [198158-walkabout-mini-golf-jim-hensons-labyrinth.json](./198158-walkabout-mini-golf-jim-hensons-labyrinth.json) |
 | Walkabout Mini Golf: Journey to the Center of the Earth | 251576 | [251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json](./251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json) |
 | Walkabout Mini Golf: Laser Lair | 251577 | [251577-walkabout-mini-golf-laser-lair.json](./251577-walkabout-mini-golf-laser-lair.json) |
@@ -2521,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather Lord: Royal Holidays - Collector's Edition | 30117 | [30117-weather-lord-royal-holidays-collectors-edition.json](./30117-weather-lord-royal-holidays-collectors-edition.json) |
 | Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
 | Weathered | 62827 | [62827-weathered.json](./62827-weathered.json) |
+| Weatherium | 402693 | [402693-weatherium.json](./402693-weatherium.json) |
 | Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
 | Weave | 183935 | [183935-weave.json](./183935-weave.json) |
