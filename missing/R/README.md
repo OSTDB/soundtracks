@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio.Signal | 176910 | [176910-radio-signal.json](./176910-radio-signal.json) |
 | Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
 | Radioactive Dwarfs: Evil From the Sewers | 159731 | [159731-radioactive-dwarfs-evil-from-the-sewers.json](./159731-radioactive-dwarfs-evil-from-the-sewers.json) |
+| Radioactive Inc. | 410009 | [410009-radioactive-inc.json](./410009-radioactive-inc.json) |
 | Radioactive Teddy Bear Zombies | 396746 | [396746-radioactive-teddy-bear-zombies.json](./396746-radioactive-teddy-bear-zombies.json) |
 | Radioactivity | 335502 | [335502-radioactivity.json](./335502-radioactivity.json) |
 | Radioapan: Banankalas! | 182330 | [182330-radioapan-banankalas.json](./182330-radioapan-banankalas.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
 | Ragtag Rescue | 183914 | [183914-ragtag-rescue.json](./183914-ragtag-rescue.json) |
 | Raguna and the Crystal of Miracles | 225801 | [225801-raguna-and-the-crystal-of-miracles.json](./225801-raguna-and-the-crystal-of-miracles.json) |
+| Rahasya | 410058 | [410058-rahasya.json](./410058-rahasya.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
 | Raia Nova | 189911 | [189911-raia-nova.json](./189911-raia-nova.json) |
 | Raicing | 262821 | [262821-raicing.json](./262821-raicing.json) |
@@ -2884,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recipe For Disaster | 398022 | [398022-recipe-for-disaster.json](./398022-recipe-for-disaster.json) |
 | Recipe For Love | 177354 | [177354-recipe-for-love.json](./177354-recipe-for-love.json) |
 | Recipe of Love | 376709 | [376709-recipe-of-love.json](./376709-recipe-of-love.json) |
+| Reciprocity: The Liminal Void | 410056 | [410056-reciprocity-the-liminal-void.json](./410056-reciprocity-the-liminal-void.json) |
 | Reciros | 393949 | [393949-reciros.json](./393949-reciros.json) |
 | Recital of the Heart | 335366 | [335366-recital-of-the-heart.json](./335366-recital-of-the-heart.json) |
 | Reckless Auto Racing | 230779 | [230779-reckless-auto-racing.json](./230779-reckless-auto-racing.json) |
