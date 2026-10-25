@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabby's Dollhouse: Ready to Party | 355923 | [355923-gabbys-dollhouse-ready-to-party.json](./355923-gabbys-dollhouse-ready-to-party.json) |
 | Gabe Newell Simulator | 13618 | [13618-gabe-newell-simulator.json](./13618-gabe-newell-simulator.json) |
 | Gaben Clicker | 54468 | [54468-gaben-clicker.json](./54468-gaben-clicker.json) |
+| Gaben Kingdom | 29457 | [29457-gaben-kingdom.json](./29457-gaben-kingdom.json) |
 | GabeN: The Final Decision | 34448 | [34448-gaben-the-final-decision.json](./34448-gaben-the-final-decision.json) |
 | Gabenwood 2: 99 Hidden Euros | 296513 | [296513-gabenwood-2-99-hidden-euros.json](./296513-gabenwood-2-99-hidden-euros.json) |
 | Gabenwood 3: 99 Hidden Yen | 316965 | [316965-gabenwood-3-99-hidden-yen.json](./316965-gabenwood-3-99-hidden-yen.json) |
@@ -1746,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Guzzlers Extreme | 8472 | [8472-gas-guzzlers-extreme.json](./8472-gas-guzzlers-extreme.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
 | Gas Guzzlers Extreme: Full Metal Zombie | 171519 | [171519-gas-guzzlers-extreme-full-metal-zombie.json](./171519-gas-guzzlers-extreme-full-metal-zombie.json) |
+| Gas Guzzlers: Combat Carnage | 29396 | [29396-gas-guzzlers-combat-carnage.json](./29396-gas-guzzlers-combat-carnage.json) |
 | Gas Hog | 85742 | [85742-gas-hog.json](./85742-gas-hog.json) |
 | Gas N Cars | 410455 | [410455-gas-n-cars.json](./410455-gas-n-cars.json) |
 | Gas Pack | 332479 | [332479-gas-pack.json](./332479-gas-pack.json) |
@@ -2154,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
 | Gem Defense | 256226 | [256226-gem-defense.json](./256226-gem-defense.json) |
 | Gem Excavator | 223943 | [223943-gem-excavator.json](./223943-gem-excavator.json) |
+| Gem Forge | 30867 | [30867-gem-forge.json](./30867-gem-forge.json) |
 | Gem Gem Monster | 228551 | [228551-gem-gem-monster.json](./228551-gem-gem-monster.json) |
 | Gem Hunter | 29057 | [29057-gem-hunter.json](./29057-gem-hunter.json) |
 | Gem Hunter | 304160 | [304160-gem-hunter.json](./304160-gem-hunter.json) |
@@ -2369,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic Jumper | 107719 | [107719-generic-jumper.json](./107719-generic-jumper.json) |
 | Generic Kart Racing | 216424 | [216424-generic-kart-racing.json](./216424-generic-kart-racing.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
+| Genesia Legacy: Ultimate Domain | 29493 | [29493-genesia-legacy-ultimate-domain.json](./29493-genesia-legacy-ultimate-domain.json) |
 | Genesis | 112652 | [112652-genesis.json](./112652-genesis.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
 | Genesis | 141479 | [141479-genesis.json](./141479-genesis.json) |
@@ -4404,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Ace It | 192198 | [192198-go-ace-it.json](./192198-go-ace-it.json) |
 | Go All Out: Free to Play | 130190 | [130190-go-all-out-free-to-play.json](./130190-go-all-out-free-to-play.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
+| Go Away, There's Kumis Over There! | 30893 | [30893-go-away-theres-kumis-over-there.json](./30893-go-away-theres-kumis-over-there.json) |
 | Go Babies | 368661 | [368661-go-babies.json](./368661-go-babies.json) |
 | Go Ballistic | 152306 | [152306-go-ballistic.json](./152306-go-ballistic.json) |
 | Go Bananas | 269016 | [269016-go-bananas.json](./269016-go-bananas.json) |
@@ -7192,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Day: Rock Band | 2694 | [2694-green-day-rock-band.json](./2694-green-day-rock-band.json) |
 | Green Devil: Fish and Grow | 95656 | [95656-green-devil-fish-and-grow.json](./95656-green-devil-fish-and-grow.json) |
 | Green Diver | 204832 | [204832-green-diver.json](./204832-green-diver.json) |
+| Green Elephant 2D | 29509 | [29509-green-elephant-2d.json](./29509-green-elephant-2d.json) |
 | Green Elephant: Epilogue | 128842 | [128842-green-elephant-epilogue.json](./128842-green-elephant-epilogue.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
 | Green Fairy VR | 156984 | [156984-green-fairy-vr.json](./156984-green-fairy-vr.json) |
