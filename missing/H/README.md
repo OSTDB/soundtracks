@@ -6121,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Cars 3 | 386368 | [386368-high-cars-3.json](./386368-high-cars-3.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
 | High Command: Europe 1939-'45 | 71806 | [71806-high-command-europe-1939-45.json](./71806-high-command-europe-1939-45.json) |
+| High Delivery | 397844 | [397844-high-delivery.json](./397844-high-delivery.json) |
 | High Dimension | 194952 | [194952-high-dimension.json](./194952-high-dimension.json) |
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
 | High Dragon Tower | 357842 | [357842-high-dragon-tower.json](./357842-high-dragon-tower.json) |
