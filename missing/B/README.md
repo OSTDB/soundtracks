@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7000,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Mangekyou: Wasurenagusa to Eien no Shoujo | 115723 | [115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json](./115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json) |
 | Bishoujo Senshi Sailor Moon | 37636 | [37636-bishoujo-senshi-sailor-moon.json](./37636-bishoujo-senshi-sailor-moon.json) |
 | Bishoujo Senshi Sailor Moon | 38279 | [38279-bishoujo-senshi-sailor-moon.json](./38279-bishoujo-senshi-sailor-moon.json) |
+| Bishoujo Senshi Sailor Moon Collection | 418888 | [418888-bishoujo-senshi-sailor-moon-collection.json](./418888-bishoujo-senshi-sailor-moon-collection.json) |
 | Bishoujo Senshi Sailor Moon R | 309013 | [309013-bishoujo-senshi-sailor-moon-r.json](./309013-bishoujo-senshi-sailor-moon-r.json) |
 | Bishoujo Senshi Sailor Moon R | 48987 | [48987-bishoujo-senshi-sailor-moon-r.json](./48987-bishoujo-senshi-sailor-moon-r.json) |
 | Bishoujo Senshi Sailor Moon R: Moon Sensation! | 385787 | [385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json](./385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json) |
@@ -7369,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Gold | 156052 | [156052-black-gold.json](./156052-black-gold.json) |
 | Black Gold | 435 | [435-black-gold.json](./435-black-gold.json) |
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
+| Black Gold: Shining Town | 418854 | [418854-black-gold-shining-town.json](./418854-black-gold-shining-town.json) |
 | Black Hair Girl is Best Girl | 155007 | [155007-black-hair-girl-is-best-girl.json](./155007-black-hair-girl-is-best-girl.json) |
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
 | Black Hat | 90892 | [90892-black-hat.json](./90892-black-hat.json) |
@@ -10684,6 +10687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booking Revolution HD | 89018 | [89018-booking-revolution-hd.json](./89018-booking-revolution-hd.json) |
 | Bookmark Hero | 404936 | [404936-bookmark-hero.json](./404936-bookmark-hero.json) |
 | Books | 55327 | [55327-books.json](./55327-books.json) |
+| Books & Blood | 418903 | [418903-books-and-blood.json](./418903-books-and-blood.json) |
 | Books for Bad Neighbors | 416042 | [416042-books-for-bad-neighbors.json](./416042-books-for-bad-neighbors.json) |
 | Books in Wrong Places | 216622 | [216622-books-in-wrong-places.json](./216622-books-in-wrong-places.json) |
 | Books of Grandura | 245806 | [245806-books-of-grandura.json](./245806-books-of-grandura.json) |
@@ -10691,6 +10695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookshop Simulator | 337720 | [337720-bookshop-simulator.json](./337720-bookshop-simulator.json) |
 | Bookshop Wonderland: Supermarket Simulator | 320452 | [320452-bookshop-wonderland-supermarket-simulator.json](./320452-bookshop-wonderland-supermarket-simulator.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
+| Bookstore Incremental | 418880 | [418880-bookstore-incremental.json](./418880-bookstore-incremental.json) |
 | BookStore Simulator | 407491 | [407491-bookstore-simulator.json](./407491-bookstore-simulator.json) |
 | Bookworm | 316279 | [316279-bookworm.json](./316279-bookworm.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
