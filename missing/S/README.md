@@ -7649,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shortest Trip to Earth: The Old Enemies | 154610 | [154610-shortest-trip-to-earth-the-old-enemies.json](./154610-shortest-trip-to-earth-the-old-enemies.json) |
 | Shortline Railroad | 223008 | [223008-shortline-railroad.json](./223008-shortline-railroad.json) |
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
+| Shortstop by the Sea | 411302 | [411302-shortstop-by-the-sea.json](./411302-shortstop-by-the-sea.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
 | Shot in the Dark | 35162 | [35162-shot-in-the-dark.json](./35162-shot-in-the-dark.json) |
@@ -24430,6 +24431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Dash: Our Track Team's Summer Training Trip | 412765 | [412765-summer-dash-our-track-teams-summer-training-trip.json](./412765-summer-dash-our-track-teams-summer-training-trip.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
+| Summer Delusion: The Girl Only I Can See | 411331 | [411331-summer-delusion-the-girl-only-i-can-see.json](./411331-summer-delusion-the-girl-only-i-can-see.json) |
 | Summer Events | 41013 | [41013-summer-events.json](./41013-summer-events.json) |
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
 | Summer Fling | 22210 | [22210-summer-fling.json](./22210-summer-fling.json) |
@@ -25260,6 +25262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
 | Super Danganronpa Another 2 ~The Moon of Hope and Sun of Despair~ | 143215 | [143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json](./143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json) |
+| Super Danganronpa Another 2: Summer Camp | 411317 | [411317-super-danganronpa-another-2-summer-camp.json](./411317-super-danganronpa-another-2-summer-camp.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Darius II | 37641 | [37641-super-darius-ii.json](./37641-super-darius-ii.json) |
