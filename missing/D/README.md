@@ -12898,6 +12898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day: Wedding | 209173 | [209173-dream-day-wedding.json](./209173-dream-day-wedding.json) |
 | Dream Day: Wedding Destinations | 47781 | [47781-dream-day-wedding-destinations.json](./47781-dream-day-wedding-destinations.json) |
 | Dream Dazia | 378543 | [378543-dream-dazia.json](./378543-dream-dazia.json) |
+| Dream Dealer | 31214 | [31214-dream-dealer.json](./31214-dream-dealer.json) |
 | Dream Detective | 126379 | [126379-dream-detective.json](./126379-dream-detective.json) |
 | Dream Distortion | 375830 | [375830-dream-distortion.json](./375830-dream-distortion.json) |
 | Dream Divers 2 | 303014 | [303014-dream-divers-2.json](./303014-dream-divers-2.json) |
@@ -14745,6 +14746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Janitor | 345607 | [345607-dungeon-janitor.json](./345607-dungeon-janitor.json) |
 | Dungeon Jinrou | 308914 | [308914-dungeon-jinrou.json](./308914-dungeon-jinrou.json) |
 | Dungeon Journey | 253964 | [253964-dungeon-journey.json](./253964-dungeon-journey.json) |
+| Dungeon Journey | 32485 | [32485-dungeon-journey.json](./32485-dungeon-journey.json) |
 | Dungeon Keep | 323796 | [323796-dungeon-keep.json](./323796-dungeon-keep.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Keeper 2 | 36 | [36-dungeon-keeper-2.json](./36-dungeon-keeper-2.json) |
