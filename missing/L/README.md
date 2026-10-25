@@ -7409,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lower to Higher | 102072 | [102072-lower-to-higher.json](./102072-lower-to-higher.json) |
 | Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
 | Lowland Keepers | 328956 | [328956-lowland-keepers.json](./328956-lowland-keepers.json) |
+| Lowlander | 95556 | [95556-lowlander.json](./95556-lowlander.json) |
 | Lowlander II: Lowerlander | 104706 | [104706-lowlander-ii-lowerlander.json](./104706-lowlander-ii-lowerlander.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
