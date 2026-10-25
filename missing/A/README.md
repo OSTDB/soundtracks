@@ -3029,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4351,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air hockey hero | 95677 | [95677-air-hockey-hero.json](./95677-air-hockey-hero.json) |
 | Air Hockey Pink | 175177 | [175177-air-hockey-pink.json](./175177-air-hockey-pink.json) |
 | Air Hockey Puzzles | 196643 | [196643-air-hockey-puzzles.json](./196643-air-hockey-puzzles.json) |
+| Air Hockey Roguelike | 404511 | [404511-air-hockey-roguelike.json](./404511-air-hockey-roguelike.json) |
 | Air Hockey Simulator | 379525 | [379525-air-hockey-simulator.json](./379525-air-hockey-simulator.json) |
 | Air Hockey XL | 100276 | [100276-air-hockey-xl.json](./100276-air-hockey-xl.json) |
 | Air Hockey-fuu: Soukai Taisen Action Game - Breaking Beats! | 250444 | [250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json](./250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json) |
@@ -9755,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaNox: The Angels Tears | 1999 | [1999-aquanox-the-angels-tears.json](./1999-aquanox-the-angels-tears.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
 | Aquapark io: Complete Edition | 270300 | [270300-aquapark-io-complete-edition.json](./270300-aquapark-io-complete-edition.json) |
+| Aquapark io: Cool Edition | 404544 | [404544-aquapark-io-cool-edition.json](./404544-aquapark-io-cool-edition.json) |
 | Aquapark io: Movie Stars DLC | 263526 | [263526-aquapark-io-movie-stars-dlc.json](./263526-aquapark-io-movie-stars-dlc.json) |
 | Aquapark io: Sweet and Spooky DLC | 263525 | [263525-aquapark-io-sweet-and-spooky-dlc.json](./263525-aquapark-io-sweet-and-spooky-dlc.json) |
 | Aquapark io: Sweet Edition | 364098 | [364098-aquapark-io-sweet-edition.json](./364098-aquapark-io-sweet-edition.json) |
@@ -10896,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are We Sinking Yet? | 400961 | [400961-are-we-sinking-yet.json](./400961-are-we-sinking-yet.json) |
 | Are We Thawing | 241984 | [241984-are-we-thawing.json](./241984-are-we-thawing.json) |
 | Are We There Yet? | 73794 | [73794-are-we-there-yet.json](./73794-are-we-there-yet.json) |
+| Are You a Pilot | 404514 | [404514-are-you-a-pilot.json](./404514-are-you-a-pilot.json) |
 | Are You A Wizard | 132566 | [132566-are-you-a-wizard.json](./132566-are-you-a-wizard.json) |
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
 | Are You Afraid of the Dark? The Tale of Orpheo's Curse | 2208 | [2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json](./2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json) |
@@ -12937,6 +12941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Abstraction | 282523 | [282523-astral-abstraction.json](./282523-astral-abstraction.json) |
 | Astral Alliance | 272487 | [272487-astral-alliance.json](./272487-astral-alliance.json) |
 | Astral Ascension | 202583 | [202583-astral-ascension.json](./202583-astral-ascension.json) |
+| Astral Ascent: Arven - The Wolf Blade | 404539 | [404539-astral-ascent-arven-the-wolf-blade.json](./404539-astral-ascent-arven-the-wolf-blade.json) |
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
 | Astral Attack | 13806 | [13806-astral-attack.json](./13806-astral-attack.json) |
 | Astral Blaze | 368593 | [368593-astral-blaze.json](./368593-astral-blaze.json) |
