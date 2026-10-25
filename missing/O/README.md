@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oli One: Sneak in | 235378 | [235378-oli-one-sneak-in.json](./235378-oli-one-sneak-in.json) |
 | Oligopoly | 71993 | [71993-oligopoly.json](./71993-oligopoly.json) |
 | Olimdal | 113558 | [113558-olimdal.json](./113558-olimdal.json) |
+| Olimpia OT | 415015 | [415015-olimpia-ot.json](./415015-olimpia-ot.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Oliver's Tale | 248502 | [248502-olivers-tale.json](./248502-olivers-tale.json) |
@@ -2140,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Yume no Luffy Kaizoku-dan Tanjou! | 75739 | [75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json](./75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json) |
 | One Ping Only | 95610 | [95610-one-ping-only.json](./95610-one-ping-only.json) |
 | One Piu Day | 107747 | [107747-one-piu-day.json](./107747-one-piu-day.json) |
+| One Plus Two = 3 | 415036 | [415036-one-plus-two-3.json](./415036-one-plus-two-3.json) |
 | One Possible Future | 404702 | [404702-one-possible-future.json](./404702-one-possible-future.json) |
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
 | One Punch Man | 175711 | [175711-one-punch-man.json](./175711-one-punch-man.json) |
@@ -4689,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
 | Overrun: Zombie Base Defense | 208024 | [208024-overrun-zombie-base-defense.json](./208024-overrun-zombie-base-defense.json) |
+| Oversaturation | 415012 | [415012-oversaturation.json](./415012-oversaturation.json) |
 | Overseer | 150454 | [150454-overseer.json](./150454-overseer.json) |
 | Overseer: Field Trials | 315127 | [315127-overseer-field-trials.json](./315127-overseer-field-trials.json) |
 | Overserved: Food Fighters! | 398995 | [398995-overserved-food-fighters.json](./398995-overserved-food-fighters.json) |
@@ -4703,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overstrike Arena | 235650 | [235650-overstrike-arena.json](./235650-overstrike-arena.json) |
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
 | OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
+| Overthinking | 414950 | [414950-overthinking.json](./414950-overthinking.json) |
 | Overthrown | 309472 | [309472-overthrown.json](./309472-overthrown.json) |
 | Overtime | 136483 | [136483-overtime.json](./136483-overtime.json) |
 | Overtime | 180137 | [180137-overtime.json](./180137-overtime.json) |
