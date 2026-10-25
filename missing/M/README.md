@@ -4078,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Mason: Building Bricks | 141068 | [141068-mason-building-bricks.json](./141068-mason-building-bricks.json) |
 | Masonic Mysteries: Secrets Unveiled | 249087 | [249087-masonic-mysteries-secrets-unveiled.json](./249087-masonic-mysteries-secrets-unveiled.json) |
+| Masonry - 3D Brick Creativity | 95541 | [95541-masonry-3d-brick-creativity.json](./95541-masonry-3d-brick-creativity.json) |
 | Masplado | 86595 | [86595-masplado.json](./86595-masplado.json) |
 | Masq | 93353 | [93353-masq.json](./93353-masq.json) |
 | Masquaradious | 266291 | [266291-masquaradious.json](./266291-masquaradious.json) |
@@ -7716,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
 | Mermaid Secrets11- Mermaids Spa Salon Makeover | 99370 | [99370-mermaid-secrets11-mermaids-spa-salon-makeover.json](./99370-mermaid-secrets11-mermaids-spa-salon-makeover.json) |
 | Mermaid Secrets12 - Heartbreak Love Story | 100838 | [100838-mermaid-secrets12-heartbreak-love-story.json](./100838-mermaid-secrets12-heartbreak-love-story.json) |
+| Mermaid Secrets13-Secret Admirer | 100903 | [100903-mermaid-secrets13-secret-admirer.json](./100903-mermaid-secrets13-secret-admirer.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
 | Mermaid Secrets9- Hidden Crimes in High School | 95890 | [95890-mermaid-secrets9-hidden-crimes-in-high-school.json](./95890-mermaid-secrets9-hidden-crimes-in-high-school.json) |
 | Mermaid Spa & Makeover | 90733 | [90733-mermaid-spa-and-makeover.json](./90733-mermaid-spa-and-makeover.json) |
@@ -11656,6 +11658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
 | Moai IV: Terra Incognita | 53381 | [53381-moai-iv-terra-incognita.json](./53381-moai-iv-terra-incognita.json) |
 | Moai no Hihou | 41789 | [41789-moai-no-hihou.json](./41789-moai-no-hihou.json) |
+| Moai V: Collector's Edition | 96693 | [96693-moai-v-collectors-edition.json](./96693-moai-v-collectors-edition.json) |
 | Moai-kun | 48424 | [48424-moai-kun.json](./48424-moai-kun.json) |
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | Moana: Island Life | 97982 | [97982-moana-island-life.json](./97982-moana-island-life.json) |
@@ -12124,6 +12127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Patrol | 347686 | [347686-mole-patrol.json](./347686-mole-patrol.json) |
 | Mole Royal | 285693 | [285693-mole-royal.json](./285693-mole-royal.json) |
 | Mole Story: games for kids | 91108 | [91108-mole-story-games-for-kids.json](./91108-mole-story-games-for-kids.json) |
+| Mole word | 95565 | [95565-mole-word.json](./95565-mole-word.json) |
 | Mole: Great Adventure | 333389 | [333389-mole-great-adventure.json](./333389-mole-great-adventure.json) |
 | Mole's Quest | 329728 | [329728-moles-quest.json](./329728-moles-quest.json) |
 | Mole's Quest | 343208 | [343208-moles-quest.json](./343208-moles-quest.json) |
@@ -16392,6 +16396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
 | My Craft : Creative & Survival | 97166 | [97166-my-craft-creative-and-survival.json](./97166-my-craft-creative-and-survival.json) |
 | My Craft: Block Edition | 102849 | [102849-my-craft-block-edition.json](./102849-my-craft-block-edition.json) |
+| My Craft: Pro Exploration | 96701 | [96701-my-craft-pro-exploration.json](./96701-my-craft-pro-exploration.json) |
 | My Crazy High School Romcom | 205894 | [205894-my-crazy-high-school-romcom.json](./205894-my-crazy-high-school-romcom.json) |
 | My Crazy New Fake Love Life | 277189 | [277189-my-crazy-new-fake-love-life.json](./277189-my-crazy-new-fake-love-life.json) |
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
