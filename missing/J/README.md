@@ -2625,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Julian & Friends | 328143 | [328143-julian-and-friends.json](./328143-julian-and-friends.json) |
 | Juliäntli | 106408 | [106408-juliantli.json](./106408-juliantli.json) |
 | Juliette's Fashion Empire | 54162 | [54162-juliettes-fashion-empire.json](./54162-juliettes-fashion-empire.json) |
+| Julius | 405771 | [405771-julius.json](./405771-julius.json) |
 | July | 200946 | [200946-july.json](./200946-july.json) |
 | July | 62243 | [62243-july.json](./62243-july.json) |
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
@@ -3430,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Jump | 81016 | [81016-just-jump.json](./81016-just-jump.json) |
 | Just Jumping | 96294 | [96294-just-jumping.json](./96294-just-jumping.json) |
 | Just Keep Digging | 304370 | [304370-just-keep-digging.json](./304370-just-keep-digging.json) |
+| Just Keep Fishing | 405319 | [405319-just-keep-fishing.json](./405319-just-keep-fishing.json) |
 | Just Keep Looting | 352837 | [352837-just-keep-looting.json](./352837-just-keep-looting.json) |
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
 | Just Kill Me. | 341133 | [341133-just-kill-me.json](./341133-just-kill-me.json) |
