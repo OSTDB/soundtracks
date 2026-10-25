@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barghest | 177727 | [177727-barghest.json](./177727-barghest.json) |
 | Bargin to Win | 213438 | [213438-bargin-to-win.json](./213438-bargin-to-win.json) |
 | BarGirls | 400463 | [400463-bargirls.json](./400463-bargirls.json) |
+| Bargoer | 403372 | [403372-bargoer.json](./403372-bargoer.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
 | Barista | 310682 | [310682-barista.json](./310682-barista.json) |
 | Barista | 347150 | [347150-barista.json](./347150-barista.json) |
@@ -9405,6 +9406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
 | Blooming Nightshade | 122025 | [122025-blooming-nightshade.json](./122025-blooming-nightshade.json) |
 | Blooming Suspicion | 365308 | [365308-blooming-suspicion.json](./365308-blooming-suspicion.json) |
+| Bloomino | 403357 | [403357-bloomino.json](./403357-bloomino.json) |
 | Bloompunk | 249355 | [249355-bloompunk.json](./249355-bloompunk.json) |
 | Blooms | 202241 | [202241-blooms.json](./202241-blooms.json) |
 | Blooms of April | 372280 | [372280-blooms-of-april.json](./372280-blooms-of-april.json) |
@@ -12946,6 +12948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
 | Brimstone | 347874 | [347874-brimstone.json](./347874-brimstone.json) |
 | Brimstone Brawlers | 105267 | [105267-brimstone-brawlers.json](./105267-brimstone-brawlers.json) |
+| Brimvahl Crown | 403342 | [403342-brimvahl-crown.json](./403342-brimvahl-crown.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brine Flow | 222869 | [222869-brine-flow.json](./222869-brine-flow.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
