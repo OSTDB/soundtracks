@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabernet | 250803 | [250803-cabernet.json](./250803-cabernet.json) |
 | Cabernet: Deluxe Edition | 380151 | [380151-cabernet-deluxe-edition.json](./380151-cabernet-deluxe-edition.json) |
+| Cabin | 400182 | [400182-cabin.json](./400182-cabin.json) |
 | Cabin Corpse | 303718 | [303718-cabin-corpse.json](./303718-cabin-corpse.json) |
 | Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
 | Cabin Escape | 362984 | [362984-cabin-escape.json](./362984-cabin-escape.json) |
@@ -488,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Me Emperor | 221961 | [221961-call-me-emperor.json](./221961-call-me-emperor.json) |
 | Call Me Hero | 305924 | [305924-call-me-hero.json](./305924-call-me-hero.json) |
 | Call Me Skyfish | 54334 | [54334-call-me-skyfish.json](./54334-call-me-skyfish.json) |
+| Call of Abdulov | 400234 | [400234-call-of-abdulov.json](./400234-call-of-abdulov.json) |
 | Call of Agents | 38963 | [38963-call-of-agents.json](./38963-call-of-agents.json) |
 | Call of Antia | 200141 | [200141-call-of-antia.json](./200141-call-of-antia.json) |
 | Call of Atlantis | 26961 | [26961-call-of-atlantis.json](./26961-call-of-atlantis.json) |
@@ -3588,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | Catharsis | 363813 | [363813-catharsis.json](./363813-catharsis.json) |
+| Cathderal Deer | 400279 | [400279-cathderal-deer.json](./400279-cathderal-deer.json) |
 | Cathedral | 122001 | [122001-cathedral.json](./122001-cathedral.json) |
 | Cathedral | 301338 | [301338-cathedral.json](./301338-cathedral.json) |
 | Cathedral 3-D | 123364 | [123364-cathedral-3-d.json](./123364-cathedral-3-d.json) |
@@ -9265,6 +9268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffin Mall | 175615 | [175615-coffin-mall.json](./175615-coffin-mall.json) |
 | Coffin of Ashes | 30864 | [30864-coffin-of-ashes.json](./30864-coffin-of-ashes.json) |
 | Coffin Rot Brewing Co. | 121291 | [121291-coffin-rot-brewing-co.json](./121291-coffin-rot-brewing-co.json) |
+| Coffin Valley | 400210 | [400210-coffin-valley.json](./400210-coffin-valley.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
 | Cog Hero | 251733 | [251733-cog-hero.json](./251733-cog-hero.json) |
@@ -9966,6 +9970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Candy Pack | 351621 | [351621-coloring-pixels-candy-pack.json](./351621-coloring-pixels-candy-pack.json) |
 | Coloring Pixels: Celebration XL Pack | 351626 | [351626-coloring-pixels-celebration-xl-pack.json](./351626-coloring-pixels-celebration-xl-pack.json) |
 | Coloring Pixels: Celtic Pack | 294176 | [294176-coloring-pixels-celtic-pack.json](./294176-coloring-pixels-celtic-pack.json) |
+| Coloring Pixels: Collection 1 | 400190 | [400190-coloring-pixels-collection-1.json](./400190-coloring-pixels-collection-1.json) |
 | Coloring Pixels: Collection 2 | 224199 | [224199-coloring-pixels-collection-2.json](./224199-coloring-pixels-collection-2.json) |
 | Coloring Pixels: Collection 3 | 247490 | [247490-coloring-pixels-collection-3.json](./247490-coloring-pixels-collection-3.json) |
 | Coloring Pixels: Collection 4 | 317232 | [317232-coloring-pixels-collection-4.json](./317232-coloring-pixels-collection-4.json) |
@@ -10051,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorizing: Collection 1 | 368770 | [368770-colorizing-collection-1.json](./368770-colorizing-collection-1.json) |
 | Colorizing: Cozy Days | 362199 | [362199-colorizing-cozy-days.json](./362199-colorizing-cozy-days.json) |
 | Colorizing: Daydream | 371420 | [371420-colorizing-daydream.json](./371420-colorizing-daydream.json) |
+| Colorizing: Daylight | 400175 | [400175-colorizing-daylight.json](./400175-colorizing-daylight.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
 | Colorizing: Pleasure | 411811 | [411811-colorizing-pleasure.json](./411811-colorizing-pleasure.json) |
 | Colorizing: Satisfaction | 351225 | [351225-colorizing-satisfaction.json](./351225-colorizing-satisfaction.json) |
@@ -11153,6 +11159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Nobunaga's Ambition | 394383 | [394383-console-archives-nobunagas-ambition.json](./394383-console-archives-nobunagas-ambition.json) |
 | Console Archives: Rhapsody - A Musical Adventure | 409617 | [409617-console-archives-rhapsody-a-musical-adventure.json](./409617-console-archives-rhapsody-a-musical-adventure.json) |
 | Console Archives: Rhapsody II - Ballad of the Little Princess | 415220 | [415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json](./415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json) |
+| Console Archives: Rohga - Armor Force | 400163 | [400163-console-archives-rohga-armor-force.json](./400163-console-archives-rohga-armor-force.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Archives: The Conveni | 411151 | [411151-console-archives-the-conveni.json](./411151-console-archives-the-conveni.json) |
 | Console Archives: Toujin Makyou-den - Heracles no Eikou | 402567 | [402567-console-archives-toujin-makyou-den-heracles-no-eikou.json](./402567-console-archives-toujin-makyou-den-heracles-no-eikou.json) |
@@ -13412,6 +13419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Computer | 284989 | [284989-crayon-computer.json](./284989-crayon-computer.json) |
 | Crayon Dino | 350861 | [350861-crayon-dino.json](./350861-crayon-dino.json) |
+| Crayon Farm Animals | 400176 | [400176-crayon-farm-animals.json](./400176-crayon-farm-animals.json) |
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
 | Crayon Little Dino | 393416 | [393416-crayon-little-dino.json](./393416-crayon-little-dino.json) |
 | Crayon Magic World | 402566 | [402566-crayon-magic-world.json](./402566-crayon-magic-world.json) |
