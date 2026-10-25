@@ -6533,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Three Kingdoms | 172068 | [172068-rise-of-three-kingdoms.json](./172068-rise-of-three-kingdoms.json) |
 | Rise of Titans | 58158 | [58158-rise-of-titans.json](./58158-rise-of-titans.json) |
 | Rise of Transport | 365882 | [365882-rise-of-transport.json](./365882-rise-of-transport.json) |
+| Rise of Valor | 396689 | [396689-rise-of-valor.json](./396689-rise-of-valor.json) |
 | Rise of Venice: Beyond the Sea | 10775 | [10775-rise-of-venice-beyond-the-sea.json](./10775-rise-of-venice-beyond-the-sea.json) |
 | Rise of Venice: Gold Edition | 53510 | [53510-rise-of-venice-gold-edition.json](./53510-rise-of-venice-gold-edition.json) |
 | Rise of Warlords | 155475 | [155475-rise-of-warlords.json](./155475-rise-of-warlords.json) |
@@ -8351,6 +8352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue State Revolution | 122070 | [122070-rogue-state-revolution.json](./122070-rogue-state-revolution.json) |
 | Rogue Stormers | 17374 | [17374-rogue-stormers.json](./17374-rogue-stormers.json) |
 | Rogue Suits | 423228 | [423228-rogue-suits.json](./423228-rogue-suits.json) |
+| Rogue Sundown | 396638 | [396638-rogue-sundown.json](./396638-rogue-sundown.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Sweeper | 151090 | [151090-rogue-sweeper.json](./151090-rogue-sweeper.json) |
@@ -10278,6 +10280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
 | Runefall 2: Collector's Edition | 221696 | [221696-runefall-2-collectors-edition.json](./221696-runefall-2-collectors-edition.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
+| RuneKeeper | 396664 | [396664-runekeeper.json](./396664-runekeeper.json) |
 | RuneLight | 250858 | [250858-runelight.json](./250858-runelight.json) |
 | RuneLite | 142955 | [142955-runelite.json](./142955-runelite.json) |
 | Runemancer | 272245 | [272245-runemancer.json](./272245-runemancer.json) |
