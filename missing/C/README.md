@@ -9825,6 +9825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | Color-A-Cube | 330266 | [330266-color-a-cube.json](./330266-color-a-cube.json) |
 | Color-A-Cube x Gorn | 360771 | [360771-color-a-cube-x-gorn.json](./360771-color-a-cube-x-gorn.json) |
+| Color-A-Cube: Flora Pack | 400738 | [400738-color-a-cube-flora-pack.json](./400738-color-a-cube-flora-pack.json) |
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
@@ -10752,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comrade Trump's Re-election | 286523 | [286523-comrade-trumps-re-election.json](./286523-comrade-trumps-re-election.json) |
 | Comrade-in-Arms | 130169 | [130169-comrade-in-arms.json](./130169-comrade-in-arms.json) |
 | Comrades and Barons: Gates of Freedom | 152820 | [152820-comrades-and-barons-gates-of-freedom.json](./152820-comrades-and-barons-gates-of-freedom.json) |
+| Comune 0-41 | 400837 | [400837-comune-0-41.json](./400837-comune-0-41.json) |
 | Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
 | Con Amore | 32419 | [32419-con-amore.json](./32419-con-amore.json) |
 | Con Man: The Game | 76571 | [76571-con-man-the-game.json](./76571-con-man-the-game.json) |
@@ -15997,6 +15999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
 | Curio Compendium | 358643 | [358643-curio-compendium.json](./358643-curio-compendium.json) |
 | Curio Quest | 102027 | [102027-curio-quest.json](./102027-curio-quest.json) |
+| Curio Shop | 400821 | [400821-curio-shop.json](./400821-curio-shop.json) |
 | Curiosaurios Club: Un Viaje Espacial | 147375 | [147375-curiosaurios-club-un-viaje-espacial.json](./147375-curiosaurios-club-un-viaje-espacial.json) |
 | Curiosity | 108949 | [108949-curiosity.json](./108949-curiosity.json) |
 | Curiosity | 171329 | [171329-curiosity.json](./171329-curiosity.json) |
