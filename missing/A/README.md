@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Conscious Decision | 249637 | [249637-a-conscious-decision.json](./249637-a-conscious-decision.json) |
 | A Conversation With Mister Rabbit | 156961 | [156961-a-conversation-with-mister-rabbit.json](./156961-a-conversation-with-mister-rabbit.json) |
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
+| A Corporate Machine | 420802 | [420802-a-corporate-machine.json](./420802-a-corporate-machine.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
 | A Courting of Curses | 412246 | [412246-a-courting-of-curses.json](./412246-a-courting-of-curses.json) |
@@ -6050,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alleyway DX | 279682 | [279682-alleyway-dx.json](./279682-alleyway-dx.json) |
 | AlleZ | 184942 | [184942-allez.json](./184942-allez.json) |
 | Allez Raconte | 269548 | [269548-allez-raconte.json](./269548-allez-raconte.json) |
+| Allfather | 420758 | [420758-allfather.json](./420758-allfather.json) |
 | Allfiring | 401870 | [401870-allfiring.json](./401870-allfiring.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
