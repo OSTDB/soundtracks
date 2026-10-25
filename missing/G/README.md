@@ -7991,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grounds of Glory | 114873 | [114873-grounds-of-glory.json](./114873-grounds-of-glory.json) |
 | Groundskeeper | 183402 | [183402-groundskeeper.json](./183402-groundskeeper.json) |
 | Groundskeeper 2 | 22101 | [22101-groundskeeper-2.json](./22101-groundskeeper-2.json) |
+| Groundwork Simulator | 421457 | [421457-groundwork-simulator.json](./421457-groundwork-simulator.json) |
 | GroundZero | 276666 | [276666-groundzero.json](./276666-groundzero.json) |
 | Group S Challenge | 5856 | [5856-group-s-challenge.json](./5856-group-s-challenge.json) |
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
