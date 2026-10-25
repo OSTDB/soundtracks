@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
 | Heads-Up: Action Soccer | 208364 | [208364-heads-up-action-soccer.json](./208364-heads-up-action-soccer.json) |
 | Headshot | 91383 | [91383-headshot.json](./91383-headshot.json) |
+| Headshot Holdout | 418247 | [418247-headshot-holdout.json](./418247-headshot-holdout.json) |
 | Headshot Roulette | 356705 | [356705-headshot-roulette.json](./356705-headshot-roulette.json) |
 | Headsnatchers | 95026 | [95026-headsnatchers.json](./95026-headsnatchers.json) |
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
@@ -6314,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Jan | 229816 | [229816-higurashi-no-naku-koro-ni-jan.json](./229816-higurashi-no-naku-koro-ni-jan.json) |
 | Higurashi no Naku Koro ni Jan: Gouka Genteiban na no desu yo Box | 352787 | [352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json](./352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json) |
 | Higurashi no Naku Koro ni Jong | 67829 | [67829-higurashi-no-naku-koro-ni-jong.json](./67829-higurashi-no-naku-koro-ni-jong.json) |
+| Higurashi no Naku Koro ni Jong Remaster | 418198 | [418198-higurashi-no-naku-koro-ni-jong-remaster.json](./418198-higurashi-no-naku-koro-ni-jong-remaster.json) |
 | Higurashi no Naku Koro ni Kizuna Volume I: Tatari | 69157 | [69157-higurashi-no-naku-koro-ni-kizuna-volume-i-tatari.json](./69157-higurashi-no-naku-koro-ni-kizuna-volume-i-tatari.json) |
 | Higurashi no Naku Koro ni Kizuna Volume II: Sou | 111749 | [111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json](./111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json) |
 | Higurashi no Naku Koro ni Kizuna Volume III: Rasen | 69165 | [69165-higurashi-no-naku-koro-ni-kizuna-volume-iii-rasen.json](./69165-higurashi-no-naku-koro-ni-kizuna-volume-iii-rasen.json) |
@@ -6691,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historical Jigsaw Puzzle: World War I | 154287 | [154287-historical-jigsaw-puzzle-world-war-i.json](./154287-historical-jigsaw-puzzle-world-war-i.json) |
 | Historical Trilogy | 218494 | [218494-historical-trilogy.json](./218494-historical-trilogy.json) |
 | HistoriCity: Florence | 262859 | [262859-historicity-florence.json](./262859-historicity-florence.json) |
+| Historion: Babylons Fluch | 418224 | [418224-historion-babylons-fluch.json](./418224-historion-babylons-fluch.json) |
 | Historium VR - Relive the history of Bruges | 30290 | [30290-historium-vr-relive-the-history-of-bruges.json](./30290-historium-vr-relive-the-history-of-bruges.json) |
 | History Civil War: Secret Missions | 7010 | [7010-history-civil-war-secret-missions.json](./7010-history-civil-war-secret-missions.json) |
 | History in Letters - The Eternal Alchemist | 36226 | [36226-history-in-letters-the-eternal-alchemist.json](./36226-history-in-letters-the-eternal-alchemist.json) |
