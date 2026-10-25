@@ -4527,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs: Dachshund & Friends | 47710 | [47710-nintendogs-dachshund-and-friends.json](./47710-nintendogs-dachshund-and-friends.json) |
 | Nintendogs: Dalmatian & Friends | 23817 | [23817-nintendogs-dalmatian-and-friends.json](./23817-nintendogs-dalmatian-and-friends.json) |
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
+| NintenDoku | 410709 | [410709-nintendoku.json](./410709-nintendoku.json) |
 | Nintengogo 11 | 89849 | [89849-nintengogo-11.json](./89849-nintengogo-11.json) |
 | Nintengogo 13 Hex | 89850 | [89850-nintengogo-13-hex.json](./89850-nintengogo-13-hex.json) |
 | Ninth Day Memorial | 318721 | [318721-ninth-day-memorial.json](./318721-ninth-day-memorial.json) |
