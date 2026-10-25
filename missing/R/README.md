@@ -7176,6 +7176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robinson Crusoe and the Cursed Pirates | 36129 | [36129-robinson-crusoe-and-the-cursed-pirates.json](./36129-robinson-crusoe-and-the-cursed-pirates.json) |
 | Robinson's Requiem | 2511 | [2511-robinsons-requiem.json](./2511-robinsons-requiem.json) |
 | Robinson's Requiem Collection | 51871 | [51871-robinsons-requiem-collection.json](./51871-robinsons-requiem-collection.json) |
+| Robinsons Simulations World | 403974 | [403974-robinsons-simulations-world.json](./403974-robinsons-simulations-world.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robits | 183968 | [183968-robits.json](./183968-robits.json) |
 | Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
@@ -8608,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Adventure | 163152 | [163152-rolling-adventure.json](./163152-rolling-adventure.json) |
 | Rolling Ball | 345116 | [345116-rolling-ball.json](./345116-rolling-ball.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
+| Rolling Ball: HD Remaster | 403978 | [403978-rolling-ball-hd-remaster.json](./403978-rolling-ball-hd-remaster.json) |
 | Rolling Balls | 106898 | [106898-rolling-balls.json](./106898-rolling-balls.json) |
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
 | Rolling Bird | 113510 | [113510-rolling-bird.json](./113510-rolling-bird.json) |
@@ -9268,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
 | Rotox | 15360 | [15360-rotox.json](./15360-rotox.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
+| Rotted: A Brain Rot Simulator | 403927 | [403927-rotted-a-brain-rot-simulator.json](./403927-rotted-a-brain-rot-simulator.json) |
 | Rotten Apple | 238539 | [238539-rotten-apple.json](./238539-rotten-apple.json) |
 | Rotten Apple: New York Fallen | 211639 | [211639-rotten-apple-new-york-fallen.json](./211639-rotten-apple-new-york-fallen.json) |
 | Rotten Apples | 255543 | [255543-rotten-apples.json](./255543-rotten-apples.json) |
