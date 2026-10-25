@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabiez: Epidemic | 33347 | [33347-rabiez-epidemic.json](./33347-rabiez-epidemic.json) |
 | Rabio | 219169 | [219169-rabio.json](./219169-rabio.json) |
+| Rabisco | 121867 | [121867-rabisco.json](./121867-rabisco.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
 | Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
 | Raccateer | 346381 | [346381-raccateer.json](./346381-raccateer.json) |
@@ -501,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radial-G: Proteus | 130820 | [130820-radial-g-proteus.json](./130820-radial-g-proteus.json) |
 | Radiance | 120096 | [120096-radiance.json](./120096-radiance.json) |
 | RadiAngel | 225745 | [225745-radiangel.json](./225745-radiangel.json) |
+| Radiant Arc | 117142 | [117142-radiant-arc.json](./117142-radiant-arc.json) |
 | Radiant Baby | 185397 | [185397-radiant-baby.json](./185397-radiant-baby.json) |
 | Radiant Cell | 211140 | [211140-radiant-cell.json](./211140-radiant-cell.json) |
 | Radiant Click | 373105 | [373105-radiant-click.json](./373105-radiant-click.json) |
@@ -2476,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
 | RealFlight 8 Horizon: Hobby Edition | 162745 | [162745-realflight-8-horizon-hobby-edition.json](./162745-realflight-8-horizon-hobby-edition.json) |
+| RealFlight 9 | 121855 | [121855-realflight-9.json](./121855-realflight-9.json) |
 | RealFlight Evolution | 225210 | [225210-realflight-evolution.json](./225210-realflight-evolution.json) |
 | RealFlight Evolution: 2024 Year Content Pass | 297729 | [297729-realflight-evolution-2024-year-content-pass.json](./297729-realflight-evolution-2024-year-content-pass.json) |
 | RealFlight Evolution: Blade Eclipse 360 | 311080 | [311080-realflight-evolution-blade-eclipse-360.json](./311080-realflight-evolution-blade-eclipse-360.json) |
@@ -9351,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roy's Rugs | 199385 | [199385-roys-rugs.json](./199385-roys-rugs.json) |
 | Royal Agents: Sweet Zombie | 55638 | [55638-royal-agents-sweet-zombie.json](./55638-royal-agents-sweet-zombie.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
+| Royal Area | 121795 | [121795-royal-area.json](./121795-royal-area.json) |
 | Royal Battleground IO | 158959 | [158959-royal-battleground-io.json](./158959-royal-battleground-io.json) |
 | Royal Birkdale Championship Golf | 93341 | [93341-royal-birkdale-championship-golf.json](./93341-royal-birkdale-championship-golf.json) |
 | Royal Blade | 95879 | [95879-royal-blade.json](./95879-royal-blade.json) |
