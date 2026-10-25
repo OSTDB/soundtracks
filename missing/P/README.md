@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris-Marseille Racing | 249771 | [249771-paris-marseille-racing.json](./249771-paris-marseille-racing.json) |
 | Paris-Marseille Racing II | 249772 | [249772-paris-marseille-racing-ii.json](./249772-paris-marseille-racing-ii.json) |
 | Paris: Jigsaw Puzzles | 104078 | [104078-paris-jigsaw-puzzles.json](./104078-paris-jigsaw-puzzles.json) |
+| ParisGuessr | 413860 | [413860-parisguessr.json](./413860-parisguessr.json) |
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
 | Parisyte | 285933 | [285933-parisyte.json](./285933-parisyte.json) |
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
@@ -5514,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
 | Pimpy Da Pimp | 299555 | [299555-pimpy-da-pimp.json](./299555-pimpy-da-pimp.json) |
 | PiN | 28154 | [28154-pin.json](./28154-pin.json) |
+| Pin A Million | 413696 | [413696-pin-a-million.json](./413696-pin-a-million.json) |
 | Pin Ball | 59809 | [59809-pin-ball.json](./59809-pin-ball.json) |
 | Pin Ball Voyage | 100768 | [100768-pin-ball-voyage.json](./100768-pin-ball-voyage.json) |
 | Pin Bot | 217973 | [217973-pin-bot.json](./217973-pin-bot.json) |
