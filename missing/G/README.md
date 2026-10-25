@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General Knowledge Quiz | 251042 | [251042-general-knowledge-quiz.json](./251042-general-knowledge-quiz.json) |
 | General Mayhem | 179470 | [179470-general-mayhem.json](./179470-general-mayhem.json) |
 | General Population | 169820 | [169820-general-population.json](./169820-general-population.json) |
+| General Practice | 402720 | [402720-general-practice.json](./402720-general-practice.json) |
 | General Practitioner 2 | 196468 | [196468-general-practitioner-2.json](./196468-general-practitioner-2.json) |
 | General Room | 176979 | [176979-general-room.json](./176979-general-room.json) |
 | General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
