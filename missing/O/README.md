@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oak Beats | 306754 | [306754-oak-beats.json](./306754-oak-beats.json) |
 | Oak Defenders | 183514 | [183514-oak-defenders.json](./183514-oak-defenders.json) |
 | Oak Hill | 219043 | [219043-oak-hill.json](./219043-oak-hill.json) |
+| Oak Quercana | 401479 | [401479-oak-quercana.json](./401479-oak-quercana.json) |
 | Oaken Tower | 345143 | [345143-oaken-tower.json](./345143-oaken-tower.json) |
 | Oakenfold | 163742 | [163742-oakenfold.json](./163742-oakenfold.json) |
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Ocean: Online | 60845 | [60845-one-ocean-online.json](./60845-one-ocean-online.json) |
 | One of 500 | 141637 | [141637-one-of-500.json](./141637-one-of-500.json) |
 | One of a Kind | 325551 | [325551-one-of-a-kind.json](./325551-one-of-a-kind.json) |
+| One of Everything | 401471 | [401471-one-of-everything.json](./401471-one-of-everything.json) |
 | One of the Victims | 195100 | [195100-one-of-the-victims.json](./195100-one-of-the-victims.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One on One: Dr. J vs. Larry Bird | 69833 | [69833-one-on-one-dr-j-vs-larry-bird.json](./69833-one-on-one-dr-j-vs-larry-bird.json) |
@@ -2850,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation DogFight | 95396 | [95396-operation-dogfight.json](./95396-operation-dogfight.json) |
 | Operation Echo | 228919 | [228919-operation-echo.json](./228919-operation-echo.json) |
 | Operation Eco-Nightmare | 210686 | [210686-operation-eco-nightmare.json](./210686-operation-eco-nightmare.json) |
+| Operation Epic Furious: Strait to Hell | 401453 | [401453-operation-epic-furious-strait-to-hell.json](./401453-operation-epic-furious-strait-to-hell.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
 | Operation Eventide | 392457 | [392457-operation-eventide.json](./392457-operation-eventide.json) |
 | Operation Eventide: Dolorosa | 365815 | [365815-operation-eventide-dolorosa.json](./365815-operation-eventide-dolorosa.json) |
