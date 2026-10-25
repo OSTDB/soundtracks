@@ -3005,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Runner | 192842 | [192842-jungle-runner.json](./192842-jungle-runner.json) |
 | Jungle Shadow | 374082 | [374082-jungle-shadow.json](./374082-jungle-shadow.json) |
 | Jungle Shoot | 410182 | [410182-jungle-shoot.json](./410182-jungle-shoot.json) |
+| Jungle Speed | 11299 | [11299-jungle-speed.json](./11299-jungle-speed.json) |
 | Jungle Taitei | 353329 | [353329-jungle-taitei.json](./353329-jungle-taitei.json) |
 | Jungle Town: Birthday quest | 170498 | [170498-jungle-town-birthday-quest.json](./170498-jungle-town-birthday-quest.json) |
 | Jungle Trouble | 47207 | [47207-jungle-trouble.json](./47207-jungle-trouble.json) |
