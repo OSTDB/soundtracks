@@ -5696,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Done | 273374 | [273374-chicken-done.json](./273374-chicken-done.json) |
 | Chicken Duty | 170359 | [170359-chicken-duty.json](./170359-chicken-duty.json) |
 | Chicken Empire: Weasel in Shadows | 189027 | [189027-chicken-empire-weasel-in-shadows.json](./189027-chicken-empire-weasel-in-shadows.json) |
+| Chicken Escape | 407754 | [407754-chicken-escape.json](./407754-chicken-escape.json) |
 | Chicken Evolution | 377251 | [377251-chicken-evolution.json](./377251-chicken-evolution.json) |
 | Chicken Fall | 202648 | [202648-chicken-fall.json](./202648-chicken-fall.json) |
 | Chicken Farm | 131417 | [131417-chicken-farm.json](./131417-chicken-farm.json) |
@@ -6803,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronime Puzzle: Animals | 423869 | [423869-chronime-puzzle-animals.json](./423869-chronime-puzzle-animals.json) |
 | Chronime Puzzle: Cats | 416969 | [416969-chronime-puzzle-cats.json](./416969-chronime-puzzle-cats.json) |
 | Chronime Puzzle: Dogs | 418572 | [418572-chronime-puzzle-dogs.json](./418572-chronime-puzzle-dogs.json) |
+| Chronime Puzzle: Girls | 407844 | [407844-chronime-puzzle-girls.json](./407844-chronime-puzzle-girls.json) |
 | Chronique des Silencieux | 218671 | [218671-chronique-des-silencieux.json](./218671-chronique-des-silencieux.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
 | Chrono | 112964 | [112964-chrono.json](./112964-chrono.json) |
@@ -9366,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Case Summer | 151544 | [151544-cold-case-summer.json](./151544-cold-case-summer.json) |
 | Cold City | 401838 | [401838-cold-city.json](./401838-cold-city.json) |
 | Cold Comfort | 28096 | [28096-cold-comfort.json](./28096-cold-comfort.json) |
+| Cold Contours: Intake | 407822 | [407822-cold-contours-intake.json](./407822-cold-contours-intake.json) |
 | Cold Contract | 60601 | [60601-cold-contract.json](./60601-cold-contract.json) |
 | Cold Cuts | 77171 | [77171-cold-cuts.json](./77171-cold-cuts.json) |
 | Cold Dead Hands | 367606 | [367606-cold-dead-hands.json](./367606-cold-dead-hands.json) |
@@ -12474,6 +12477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count of Wallachia | 276403 | [276403-count-of-wallachia.json](./276403-count-of-wallachia.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count the Dead | 148787 | [148787-count-the-dead.json](./148787-count-the-dead.json) |
+| Count the Score | 407839 | [407839-count-the-score.json](./407839-count-the-score.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
 | Countdown | 13524 | [13524-countdown.json](./13524-countdown.json) |
@@ -15385,6 +15389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu's Spelling Bee | 183813 | [183813-cthulhus-spelling-bee.json](./183813-cthulhus-spelling-bee.json) |
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
+| CTR Native | 407953 | [407953-ctr-native.json](./407953-ctr-native.json) |
 | CTR: St. Patrick's Day Racing | 399179 | [399179-ctr-st-patricks-day-racing.json](./399179-ctr-st-patricks-day-racing.json) |
 | Ctrl | 78068 | [78068-ctrl.json](./78068-ctrl.json) |
 | Ctrl Alt Ego | 178378 | [178378-ctrl-alt-ego.json](./178378-ctrl-alt-ego.json) |
@@ -16118,6 +16123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
 | Cursed House 13 | 289813 | [289813-cursed-house-13.json](./289813-cursed-house-13.json) |
 | Cursed House 14 | 337213 | [337213-cursed-house-14.json](./337213-cursed-house-14.json) |
+| Cursed House 16 | 407845 | [407845-cursed-house-16.json](./407845-cursed-house-16.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
 | Cursed House 6 | 419591 | [419591-cursed-house-6.json](./419591-cursed-house-6.json) |
 | Cursed House 7 | 337215 | [337215-cursed-house-7.json](./337215-cursed-house-7.json) |
@@ -16893,6 +16899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
 | Cycles of Aylorea | 168613 | [168613-cycles-of-aylorea.json](./168613-cycles-of-aylorea.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
+| Cyclical Recurrences | 408079 | [408079-cyclical-recurrences.json](./408079-cyclical-recurrences.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
 | Cycling Manager | 94619 | [94619-cycling-manager.json](./94619-cycling-manager.json) |
 | Cycling Manager 3 | 94644 | [94644-cycling-manager-3.json](./94644-cycling-manager-3.json) |
