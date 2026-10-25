@@ -12840,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Fishing Legends | 108277 | [108277-monster-fishing-legends.json](./108277-monster-fishing-legends.json) |
 | Monster Fishing: Fishing Life RPG | 233510 | [233510-monster-fishing-fishing-life-rpg.json](./233510-monster-fishing-fishing-life-rpg.json) |
 | Monster Fishing: Tournament | 188362 | [188362-monster-fishing-tournament.json](./188362-monster-fishing-tournament.json) |
+| Monster Flipper | 406502 | [406502-monster-flipper.json](./406502-monster-flipper.json) |
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
 | Monster Frenzy | 123360 | [123360-monster-frenzy.json](./123360-monster-frenzy.json) |
