@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ylands: Exploration Pack | 164420 | [164420-ylands-exploration-pack.json](./164420-ylands-exploration-pack.json) |
 | Ylands: Supporter Pack | 305546 | [305546-ylands-supporter-pack.json](./305546-ylands-supporter-pack.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
+| Yn Moddey Dhoo | 414389 | [414389-yn-moddey-dhoo.json](./414389-yn-moddey-dhoo.json) |
 | Yni^ | 339804 | [339804-yni.json](./339804-yni.json) |
 | YNN | 222206 | [222206-ynn.json](./222206-ynn.json) |
 | Ynth | 67673 | [67673-ynth.json](./67673-ynth.json) |
