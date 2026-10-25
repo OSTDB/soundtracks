@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
 | Mall Craze | 129090 | [129090-mall-craze.json](./129090-mall-craze.json) |
+| Mall Empire | 29478 | [29478-mall-empire.json](./29478-mall-empire.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
 | Mall Manager | 320444 | [320444-mall-manager.json](./320444-mall-manager.json) |
 | Mall Manager Simulator | 309444 | [309444-mall-manager-simulator.json](./309444-mall-manager-simulator.json) |
@@ -9054,6 +9055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
 | Midnight Calling: Wise Dragon | 95917 | [95917-midnight-calling-wise-dragon.json](./95917-midnight-calling-wise-dragon.json) |
 | Midnight Calling: Wise Dragon - Collector's Edition | 221136 | [221136-midnight-calling-wise-dragon-collectors-edition.json](./221136-midnight-calling-wise-dragon-collectors-edition.json) |
+| Midnight Carnival | 30851 | [30851-midnight-carnival.json](./30851-midnight-carnival.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
 | Midnight Cat Heist | 378996 | [378996-midnight-cat-heist.json](./378996-midnight-cat-heist.json) |
 | Midnight Cemetery | 273457 | [273457-midnight-cemetery.json](./273457-midnight-cemetery.json) |
@@ -11845,6 +11847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moby's Revenge | 243093 | [243093-mobys-revenge.json](./243093-mobys-revenge.json) |
 | Mocap Boxing | 61667 | [61667-mocap-boxing.json](./61667-mocap-boxing.json) |
 | Mocaverse | 244773 | [244773-mocaverse.json](./244773-mocaverse.json) |
+| Moccasin | 29462 | [29462-moccasin.json](./29462-moccasin.json) |
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
 | Mochi Conquest | 376004 | [376004-mochi-conquest.json](./376004-mochi-conquest.json) |
 | Mochi in Frosting | 146518 | [146518-mochi-in-frosting.json](./146518-mochi-in-frosting.json) |
@@ -14222,6 +14225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
 | Mosaic Quiz Fastest Finger Battle | 403745 | [403745-mosaic-quiz-fastest-finger-battle.json](./403745-mosaic-quiz-fastest-finger-battle.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
+| Mosaic: Game of Gods | 30814 | [30814-mosaic-game-of-gods.json](./30814-mosaic-game-of-gods.json) |
 | Mosaic: Game of Gods II | 99446 | [99446-mosaic-game-of-gods-ii.json](./99446-mosaic-game-of-gods-ii.json) |
 | Mosaic: Tomb of Mystery | 210122 | [210122-mosaic-tomb-of-mystery.json](./210122-mosaic-tomb-of-mystery.json) |
 | Mosaica: Arboreal | 386877 | [386877-mosaica-arboreal.json](./386877-mosaica-arboreal.json) |
