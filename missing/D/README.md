@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadfall Adventures: Heart of Atlantis | 52182 | [52182-deadfall-adventures-heart-of-atlantis.json](./52182-deadfall-adventures-heart-of-atlantis.json) |
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
 | DeadFright | 154429 | [154429-deadfright.json](./154429-deadfright.json) |
+| Deadful Leningrad: Developer Life Simulator | 422026 | [422026-deadful-leningrad-developer-life-simulator.json](./422026-deadful-leningrad-developer-life-simulator.json) |
 | Deadhead: Autorail | 412245 | [412245-deadhead-autorail.json](./412245-deadhead-autorail.json) |
 | Deadheat Road | 43799 | [43799-deadheat-road.json](./43799-deadheat-road.json) |
 | DeadHex | 270566 | [270566-deadhex.json](./270566-deadhex.json) |
@@ -3665,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death In Your Dice | 334740 | [334740-death-in-your-dice.json](./334740-death-in-your-dice.json) |
 | Death Inn | 118605 | [118605-death-inn.json](./118605-death-inn.json) |
 | Death Inn Ⅱ :The Immortal Is Coming | 284288 | [284288-death-inn-ii-the-immortal-is-coming.json](./284288-death-inn-ii-the-immortal-is-coming.json) |
+| Death Insurance | 422037 | [422037-death-insurance.json](./422037-death-insurance.json) |
 | Death is better than Hell | 51971 | [51971-death-is-better-than-hell.json](./51971-death-is-better-than-hell.json) |
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
@@ -9172,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Really Know? | 390777 | [390777-do-you-really-know.json](./390777-do-you-really-know.json) |
 | Do you remember the '60s? | 77153 | [77153-do-you-remember-the-60s.json](./77153-do-you-remember-the-60s.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
+| Do You Remember? | 422071 | [422071-do-you-remember.json](./422071-do-you-remember.json) |
 | Do You See Sparky? | 242484 | [242484-do-you-see-sparky.json](./242484-do-you-see-sparky.json) |
 | Do You See the Waving Cape | 150391 | [150391-do-you-see-the-waving-cape.json](./150391-do-you-see-the-waving-cape.json) |
 | Do You Want More!? | 203938 | [203938-do-you-want-more.json](./203938-do-you-want-more.json) |
@@ -12459,6 +12462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Heaven | 264306 | [264306-dragons-heaven.json](./264306-dragons-heaven.json) |
 | Dragon's Hoard | 93621 | [93621-dragons-hoard.json](./93621-dragons-hoard.json) |
 | Dragon's Hope | 113740 | [113740-dragons-hope.json](./113740-dragons-hope.json) |
+| Dragon's Jewels | 422045 | [422045-dragons-jewels.json](./422045-dragons-jewels.json) |
 | Dragon's Keep | 21959 | [21959-dragons-keep.json](./21959-dragons-keep.json) |
 | Dragon's Lair | 126283 | [126283-dragons-lair.json](./126283-dragons-lair.json) |
 | Dragon's Lair | 142473 | [142473-dragons-lair.json](./142473-dragons-lair.json) |
@@ -15021,6 +15025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
 | Dungeonborne Settlement | 366740 | [366740-dungeonborne-settlement.json](./366740-dungeonborne-settlement.json) |
 | Dungeonborne: Mithril Satchel | 382563 | [382563-dungeonborne-mithril-satchel.json](./382563-dungeonborne-mithril-satchel.json) |
+| Dungeonbound | 422022 | [422022-dungeonbound.json](./422022-dungeonbound.json) |
 | Dungeonbowl: Knockout Edition | 28084 | [28084-dungeonbowl-knockout-edition.json](./28084-dungeonbowl-knockout-edition.json) |
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
 | Dungeoncraft | 35249 | [35249-dungeoncraft.json](./35249-dungeoncraft.json) |
