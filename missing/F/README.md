@@ -1487,6 +1487,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
 | Fanfare Fantasy | 181636 | [181636-fanfare-fantasy.json](./181636-fanfare-fantasy.json) |
 | Fang and Izzy Pinball Bash | 407192 | [407192-fang-and-izzy-pinball-bash.json](./407192-fang-and-izzy-pinball-bash.json) |
+| Fangan! Dead Chivalry | 411336 | [411336-fangan-dead-chivalry.json](./411336-fangan-dead-chivalry.json) |
+| Fangan! OVA: Buried Secrets | 411335 | [411335-fangan-ova-buried-secrets.json](./411335-fangan-ova-buried-secrets.json) |
 | Fāngkuài Liánméng | 114161 | [114161-fangkuai-lianmeng.json](./114161-fangkuai-lianmeng.json) |
 | Fangs | 172477 | [172477-fangs.json](./172477-fangs.json) |
 | Fangs and Friends | 176436 | [176436-fangs-and-friends.json](./176436-fangs-and-friends.json) |
@@ -2618,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Kim Jae Hoon | 388987 | [388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json](./388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json) |
 | Fatal Fury: City of the Wolves - Legend Edition | 399203 | [399203-fatal-fury-city-of-the-wolves-legend-edition.json](./399203-fatal-fury-city-of-the-wolves-legend-edition.json) |
 | Fatal Fury: City of the Wolves - Nightmare Geese | 388988 | [388988-fatal-fury-city-of-the-wolves-nightmare-geese.json](./388988-fatal-fury-city-of-the-wolves-nightmare-geese.json) |
+| Fatal Fury: City of the Wolves - Rick Strowd | 411295 | [411295-fatal-fury-city-of-the-wolves-rick-strowd.json](./411295-fatal-fury-city-of-the-wolves-rick-strowd.json) |
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
 | Fatal Fury: City of the Wolves - Special Edition | 327461 | [327461-fatal-fury-city-of-the-wolves-special-edition.json](./327461-fatal-fury-city-of-the-wolves-special-edition.json) |
 | Fatal Fury: City of the Wolves - Wolfgang Krauser | 388990 | [388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json](./388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json) |
