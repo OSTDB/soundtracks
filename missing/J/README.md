@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles: Photo Puzzles | 232304 | [232304-jigsaw-puzzles-photo-puzzles.json](./232304-jigsaw-puzzles-photo-puzzles.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Puzzles+ by WallpaperFusion | 90451 | [90451-jigsaw-puzzles-by-wallpaperfusion.json](./90451-jigsaw-puzzles-by-wallpaperfusion.json) |
+| Jigsaw Realms: Lost Isles | 387412 | [387412-jigsaw-realms-lost-isles.json](./387412-jigsaw-realms-lost-isles.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
 | Jigsaw Realms: Oasis | 389066 | [389066-jigsaw-realms-oasis.json](./389066-jigsaw-realms-oasis.json) |
 | Jigsaw Realms: Villages | 386370 | [386370-jigsaw-realms-villages.json](./386370-jigsaw-realms-villages.json) |
