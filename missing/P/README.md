@@ -6976,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Space | 35182 | [35182-pixel-space.json](./35182-pixel-space.json) |
+| Pixel Star | 35311 | [35311-pixel-star.json](./35311-pixel-star.json) |
 | Pixel Stars | 97224 | [97224-pixel-stars.json](./97224-pixel-stars.json) |
 | Pixel Stars Digital Dreamhouse | 245424 | [245424-pixel-stars-digital-dreamhouse.json](./245424-pixel-stars-digital-dreamhouse.json) |
 | Pixel Starships | 56258 | [56258-pixel-starships.json](./56258-pixel-starships.json) |
@@ -13426,6 +13427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promo Pack 2x1 | 212786 | [212786-promo-pack-2x1.json](./212786-promo-pack-2x1.json) |
 | ProMods Canada | 376091 | [376091-promods-canada.json](./376091-promods-canada.json) |
 | Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
+| Prompt | 35336 | [35336-prompt.json](./35336-prompt.json) |
 | PromptCrafter | 297912 | [297912-promptcrafter.json](./297912-promptcrafter.json) |
 | Pröng | 183003 | [183003-prong.json](./183003-prong.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
