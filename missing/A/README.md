@@ -7245,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among the Sleep: Enhanced Edition | 114411 | [114411-among-the-sleep-enhanced-edition.json](./114411-among-the-sleep-enhanced-edition.json) |
 | Among the Stars | 224942 | [224942-among-the-stars.json](./224942-among-the-stars.json) |
 | Among the Stones | 27985 | [27985-among-the-stones.json](./27985-among-the-stones.json) |
+| Among the Strangers | 386765 | [386765-among-the-strangers.json](./386765-among-the-strangers.json) |
 | Among the Trolls | 201754 | [201754-among-the-trolls.json](./201754-among-the-trolls.json) |
 | Among The Whispers: Provocation | 291465 | [291465-among-the-whispers-provocation.json](./291465-among-the-whispers-provocation.json) |
 | Among the Wild | 305170 | [305170-among-the-wild.json](./305170-among-the-wild.json) |
@@ -7598,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Life | 153154 | [153154-ancient-life.json](./153154-ancient-life.json) |
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
+| Ancient Maze | 386811 | [386811-ancient-maze.json](./386811-ancient-maze.json) |
 | Ancient Medieval Empire | 192246 | [192246-ancient-medieval-empire.json](./192246-ancient-medieval-empire.json) |
 | Ancient Metal | 184826 | [184826-ancient-metal.json](./184826-ancient-metal.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
@@ -7758,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Androne | 42155 | [42155-androne.json](./42155-androne.json) |
 | Androsystem Idle | 303145 | [303145-androsystem-idle.json](./303145-androsystem-idle.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
+| Andy Runner | 386818 | [386818-andy-runner.json](./386818-andy-runner.json) |
 | Andy's Adventure Game | 316760 | [316760-andys-adventure-game.json](./316760-andys-adventure-game.json) |
 | Andy's Apple Farm | 177383 | [177383-andys-apple-farm.json](./177383-andys-apple-farm.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
@@ -10215,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Konami's Table Tennis | 322440 | [322440-arcade-archives-konamis-table-tennis.json](./322440-arcade-archives-konamis-table-tennis.json) |
 | Arcade Archives: Koutetsu Yousai Strahl | 147107 | [147107-arcade-archives-koutetsu-yousai-strahl.json](./147107-arcade-archives-koutetsu-yousai-strahl.json) |
 | Arcade Archives: Kuri Kinton | 164766 | [164766-arcade-archives-kuri-kinton.json](./164766-arcade-archives-kuri-kinton.json) |
+| Arcade Archives: Labyrinth Runner | 386775 | [386775-arcade-archives-labyrinth-runner.json](./386775-arcade-archives-labyrinth-runner.json) |
 | Arcade Archives: Land Sea Air Squad | 337975 | [337975-arcade-archives-land-sea-air-squad.json](./337975-arcade-archives-land-sea-air-squad.json) |
 | Arcade Archives: Lead Angle | 315929 | [315929-arcade-archives-lead-angle.json](./315929-arcade-archives-lead-angle.json) |
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
@@ -13189,6 +13193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Ninja Man DX | 206600 | [206600-astro-ninja-man-dx.json](./206600-astro-ninja-man-dx.json) |
 | Astro Odyssey | 336510 | [336510-astro-odyssey.json](./336510-astro-odyssey.json) |
 | Astro Party | 103234 | [103234-astro-party.json](./103234-astro-party.json) |
+| Astro Party EX | 386777 | [386777-astro-party-ex.json](./386777-astro-party-ex.json) |
 | Astro Pig | 240751 | [240751-astro-pig.json](./240751-astro-pig.json) |
 | Astro Pirates | 217156 | [217156-astro-pirates.json](./217156-astro-pirates.json) |
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
