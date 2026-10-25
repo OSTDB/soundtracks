@@ -8496,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Jordan in Flight | 69585 | [69585-michael-jordan-in-flight.json](./69585-michael-jordan-in-flight.json) |
 | Michael Ninn's Latex: The Game | 70788 | [70788-michael-ninns-latex-the-game.json](./70788-michael-ninns-latex-the-game.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
+| Michael Phelps: Push the Limit | 19945 | [19945-michael-phelps-push-the-limit.json](./19945-michael-phelps-push-the-limit.json) |
 | Michael Schacht's Web of Power Card Game: The Duel | 175293 | [175293-michael-schachts-web-of-power-card-game-the-duel.json](./175293-michael-schachts-web-of-power-card-game-the-duel.json) |
 | Michael Schumacher Racing World Kart 2002 | 8853 | [8853-michael-schumacher-racing-world-kart-2002.json](./8853-michael-schumacher-racing-world-kart-2002.json) |
 | Michael Schumacher World Tour Kart 2004 | 64863 | [64863-michael-schumacher-world-tour-kart-2004.json](./64863-michael-schumacher-world-tour-kart-2004.json) |
@@ -12095,6 +12096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole | 277532 | [277532-mole.json](./277532-mole.json) |
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
 | Mole Cart Mining | 391830 | [391830-mole-cart-mining.json](./391830-mole-cart-mining.json) |
+| Mole Control | 20423 | [20423-mole-control.json](./20423-mole-control.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
 | Mole Game | 129721 | [129721-mole-game.json](./129721-mole-game.json) |
 | Mole Gem Mayhem | 294988 | [294988-mole-gem-mayhem.json](./294988-mole-gem-mayhem.json) |
@@ -13041,6 +13043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Puzzle | 32304 | [32304-monster-puzzle.json](./32304-monster-puzzle.json) |
 | Monster Race 2 | 61172 | [61172-monster-race-2.json](./61172-monster-race-2.json) |
 | Monster Race Okawari | 61173 | [61173-monster-race-okawari.json](./61173-monster-race-okawari.json) |
+| Monster Racer | 20466 | [20466-monster-racer.json](./20466-monster-racer.json) |
 | Monster Racers | 72742 | [72742-monster-racers.json](./72742-monster-racers.json) |
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Rain | 110226 | [110226-monster-rain.json](./110226-monster-rain.json) |
