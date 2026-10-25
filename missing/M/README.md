@@ -6546,6 +6546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
 | Mega Math Blaster | 10675 | [10675-mega-math-blaster.json](./10675-mega-math-blaster.json) |
 | Mega Maze | 44287 | [44287-mega-maze.json](./44287-mega-maze.json) |
+| Mega Memory | 389915 | [389915-mega-memory.json](./389915-mega-memory.json) |
 | Mega Merge | 414874 | [414874-mega-merge.json](./414874-mega-merge.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
 | Mega Minis: Volume 1 | 45998 | [45998-mega-minis-volume-1.json](./45998-mega-minis-volume-1.json) |
@@ -7878,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messy Desktop 98 | 184614 | [184614-messy-desktop-98.json](./184614-messy-desktop-98.json) |
 | Messy Hearts | 373178 | [373178-messy-hearts.json](./373178-messy-hearts.json) |
 | Messy Minecart | 413583 | [413583-messy-minecart.json](./413583-messy-minecart.json) |
+| Messy Recipe: A Hidden Object Game | 389921 | [389921-messy-recipe-a-hidden-object-game.json](./389921-messy-recipe-a-hidden-object-game.json) |
 | Messy Room Girlfriend Project | 393129 | [393129-messy-room-girlfriend-project.json](./393129-messy-room-girlfriend-project.json) |
 | Messy Room Simulator | 157950 | [157950-messy-room-simulator.json](./157950-messy-room-simulator.json) |
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
@@ -10593,6 +10595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Trains | 123358 | [123358-mini-trains.json](./123358-mini-trains.json) |
 | Mini Transport | 129742 | [129742-mini-transport.json](./129742-mini-transport.json) |
 | Mini Treasure Girl | 291066 | [291066-mini-treasure-girl.json](./291066-mini-treasure-girl.json) |
+| Mini Up | 390290 | [390290-mini-up.json](./390290-mini-up.json) |
 | Mini War: Three Kingdoms | 171456 | [171456-mini-war-three-kingdoms.json](./171456-mini-war-three-kingdoms.json) |
 | Mini Warrior Defense | 404217 | [404217-mini-warrior-defense.json](./404217-mini-warrior-defense.json) |
 | Mini Warriors: Three Kingdoms | 196305 | [196305-mini-warriors-three-kingdoms.json](./196305-mini-warriors-three-kingdoms.json) |
@@ -12656,6 +12659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monmusu Fight! | 99601 | [99601-monmusu-fight.json](./99601-monmusu-fight.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono | 29074 | [29074-mono.json](./29074-mono.json) |
+| Mono | 389926 | [389926-mono.json](./389926-mono.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Mono-Space | 278923 | [278923-mono-space.json](./278923-mono-space.json) |
@@ -17327,6 +17331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
 | My Singing Monsters: Thumpies | 289727 | [289727-my-singing-monsters-thumpies.json](./289727-my-singing-monsters-thumpies.json) |
 | My Sleeper | 345062 | [345062-my-sleeper.json](./345062-my-sleeper.json) |
+| My Sliem Gets Stronger After It Dies | 389954 | [389954-my-sliem-gets-stronger-after-it-dies.json](./389954-my-sliem-gets-stronger-after-it-dies.json) |
 | My Slime Garden | 328458 | [328458-my-slime-garden.json](./328458-my-slime-garden.json) |
 | My Slow Life with the Princess Knight and Her Devoted Handmaiden | 270974 | [270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json](./270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json) |
 | My Smug Bully Girlfriend | 167380 | [167380-my-smug-bully-girlfriend.json](./167380-my-smug-bully-girlfriend.json) |
