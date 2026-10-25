@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WatanOS | 208572 | [208572-watanos.json](./208572-watanos.json) |
 | Wataoma Extra | 97668 | [97668-wataoma-extra.json](./97668-wataoma-extra.json) |
 | Wataru no Pinball | 284451 | [284451-wataru-no-pinball.json](./284451-wataru-no-pinball.json) |
+| Watashi ga Sekai wo Sukutta Hi | 408584 | [408584-watashi-ga-sekai-wo-sukutta-hi.json](./408584-watashi-ga-sekai-wo-sukutta-hi.json) |
 | Watashi ha Joyuu ni Naritai no | 202137 | [202137-watashi-ha-joyuu-ni-naritai-no.json](./202137-watashi-ha-joyuu-ni-naritai-no.json) |
 | Watashi Koso ga Gakuen no Joou-sama | 296192 | [296192-watashi-koso-ga-gakuen-no-joou-sama.json](./296192-watashi-koso-ga-gakuen-no-joou-sama.json) |
 | Watashi no Happy Manner Book | 287631 | [287631-watashi-no-happy-manner-book.json](./287631-watashi-no-happy-manner-book.json) |
@@ -3283,7 +3284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
