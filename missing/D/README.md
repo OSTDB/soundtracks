@@ -3361,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Curse | 107683 | [107683-deadly-curse.json](./107683-deadly-curse.json) |
 | Deadly Dainosaur: Hunting Safari | 147289 | [147289-deadly-dainosaur-hunting-safari.json](./147289-deadly-dainosaur-hunting-safari.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
+| Deadly Dash | 387407 | [387407-deadly-dash.json](./387407-deadly-dash.json) |
 | Deadly Daycare VR | 157909 | [157909-deadly-daycare-vr.json](./157909-deadly-daycare-vr.json) |
 | Deadly Days: The Final Shelter | 199941 | [199941-deadly-days-the-final-shelter.json](./199941-deadly-days-the-final-shelter.json) |
 | Deadly Deals | 348591 | [348591-deadly-deals.json](./348591-deadly-deals.json) |
@@ -15002,6 +15003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mercenaries | 309568 | [309568-dungeon-mercenaries.json](./309568-dungeon-mercenaries.json) |
 | Dungeon Mercenary | 182721 | [182721-dungeon-mercenary.json](./182721-dungeon-mercenary.json) |
 | Dungeon Merchant | 250872 | [250872-dungeon-merchant.json](./250872-dungeon-merchant.json) |
+| Dungeon Misfits | 387423 | [387423-dungeon-misfits.json](./387423-dungeon-misfits.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Munchies: Deluxe Edition | 300483 | [300483-dungeon-munchies-deluxe-edition.json](./300483-dungeon-munchies-deluxe-edition.json) |
 | Dungeon Mutt | 386236 | [386236-dungeon-mutt.json](./386236-dungeon-mutt.json) |
