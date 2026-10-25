@@ -6978,6 +6978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melly the Naughty Dog | 323262 | [323262-melly-the-naughty-dog.json](./323262-melly-the-naughty-dog.json) |
 | Melo's Cat Cafe | 307568 | [307568-melos-cat-cafe.json](./307568-melos-cat-cafe.json) |
 | Melo's Nightmare | 299367 | [299367-melos-nightmare.json](./299367-melos-nightmare.json) |
+| Meloa | 416388 | [416388-meloa.json](./416388-meloa.json) |
 | Melobot: A Last Song | 199252 | [199252-melobot-a-last-song.json](./199252-melobot-a-last-song.json) |
 | Melod | 235145 | [235145-melod.json](./235145-melod.json) |
 | Melodic Mage | 374426 | [374426-melodic-mage.json](./374426-melodic-mage.json) |
@@ -17490,6 +17491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mýrdalssandur, Iceland | 130176 | [130176-myrdalssandur-iceland.json](./130176-myrdalssandur-iceland.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad | 194299 | [194299-myriad.json](./194299-myriad.json) |
+| Myriad | 416363 | [416363-myriad.json](./416363-myriad.json) |
 | Myriad | 60033 | [60033-myriad.json](./60033-myriad.json) |
 | Myriad Death | 336758 | [336758-myriad-death.json](./336758-myriad-death.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
@@ -18081,6 +18083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythlands: Dragon Racing | 107084 | [107084-mythlands-dragon-racing.json](./107084-mythlands-dragon-racing.json) |
 | Mythlands: Flappy Dragon | 164220 | [164220-mythlands-flappy-dragon.json](./164220-mythlands-flappy-dragon.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
+| Mythmon: Mythic Monsters | 416370 | [416370-mythmon-mythic-monsters.json](./416370-mythmon-mythic-monsters.json) |
 | Mytho Duel | 320042 | [320042-mytho-duel.json](./320042-mytho-duel.json) |
 | Mythology | 50378 | [50378-mythology.json](./50378-mythology.json) |
 | MythoMania | 419981 | [419981-mythomania.json](./419981-mythomania.json) |
