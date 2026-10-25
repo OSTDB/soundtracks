@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Coteries of New York | 119225 | [119225-vampire-the-masquerade-coteries-of-new-york.json](./119225-vampire-the-masquerade-coteries-of-new-york.json) |
 | Vampire: The Masquerade - Coteries of New York & Shadows of New York | 146128 | [146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json](./146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json) |
 | Vampire: The Masquerade - Coteries of New York Deluxe Edition | 154227 | [154227-vampire-the-masquerade-coteries-of-new-york-deluxe-edition.json](./154227-vampire-the-masquerade-coteries-of-new-york-deluxe-edition.json) |
+| Vampire: The Masquerade - Eternal Whispers | 405157 | [405157-vampire-the-masquerade-eternal-whispers.json](./405157-vampire-the-masquerade-eternal-whispers.json) |
 | Vampire: The Masquerade - Heartless Lullaby | 197222 | [197222-vampire-the-masquerade-heartless-lullaby.json](./197222-vampire-the-masquerade-heartless-lullaby.json) |
 | Vampire: The Masquerade - Heartless Symphony | 394759 | [394759-vampire-the-masquerade-heartless-symphony.json](./394759-vampire-the-masquerade-heartless-symphony.json) |
 | Vampire: The Masquerade - Justice | 251559 | [251559-vampire-the-masquerade-justice.json](./251559-vampire-the-masquerade-justice.json) |
@@ -2427,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision of Aurora Borealis | 32347 | [32347-vision-of-aurora-borealis.json](./32347-vision-of-aurora-borealis.json) |
 | Vision Origin | 28735 | [28735-vision-origin.json](./28735-vision-origin.json) |
 | Vision Quench | 378413 | [378413-vision-quench.json](./378413-vision-quench.json) |
+| Vision Quest: A New Ascent | 405125 | [405125-vision-quest-a-new-ascent.json](./405125-vision-quest-a-new-ascent.json) |
 | Vision Runner | 33850 | [33850-vision-runner.json](./33850-vision-runner.json) |
 | Vision Soft Reset | 113732 | [113732-vision-soft-reset.json](./113732-vision-soft-reset.json) |
 | Visionarium | 113737 | [113737-visionarium.json](./113737-visionarium.json) |
