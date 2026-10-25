@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
 | RagBlo Set3 | 97728 | [97728-ragblo-set3.json](./97728-ragblo-set3.json) |
 | RagBrawl | 244163 | [244163-ragbrawl.json](./244163-ragbrawl.json) |
+| Ragdoll Achievement | 387950 | [387950-ragdoll-achievement.json](./387950-ragdoll-achievement.json) |
 | Ragdoll Arena: Kick the body | 374893 | [374893-ragdoll-arena-kick-the-body.json](./374893-ragdoll-arena-kick-the-body.json) |
 | Ragdoll Backflips | 104575 | [104575-ragdoll-backflips.json](./104575-ragdoll-backflips.json) |
 | Ragdoll Blaster | 67691 | [67691-ragdoll-blaster.json](./67691-ragdoll-blaster.json) |
@@ -3859,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated as a Rookie | 302798 | [302798-reincarnated-as-a-rookie.json](./302798-reincarnated-as-a-rookie.json) |
 | Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
+| Reincarnation: A Demon's Day Out | 387952 | [387952-reincarnation-a-demons-day-out.json](./387952-reincarnation-a-demons-day-out.json) |
 | Reincarnations: Awakening | 65846 | [65846-reincarnations-awakening.json](./65846-reincarnations-awakening.json) |
 | Reincarnations: Uncover the Past | 209209 | [209209-reincarnations-uncover-the-past.json](./209209-reincarnations-uncover-the-past.json) |
 | Reincarnator | 391887 | [391887-reincarnator.json](./391887-reincarnator.json) |
@@ -4024,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relive | 334323 | [334323-relive.json](./334323-relive.json) |
 | Relive | 34413 | [34413-relive.json](./34413-relive.json) |
 | Relive the Fear: Perfect Neighbor | 410494 | [410494-relive-the-fear-perfect-neighbor.json](./410494-relive-the-fear-perfect-neighbor.json) |
+| Relive The Past | 387966 | [387966-relive-the-past.json](./387966-relive-the-past.json) |
 | Reliving the End | 318155 | [318155-reliving-the-end.json](./318155-reliving-the-end.json) |
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
 | Relo | 295306 | [295306-relo.json](./295306-relo.json) |
@@ -6732,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: Hide and Seek HD | 104215 | [104215-rite-of-passage-hide-and-seek-hd.json](./104215-rite-of-passage-hide-and-seek-hd.json) |
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Rite of Passage: The Perfect Show - Collector's Edition | 30628 | [30628-rite-of-passage-the-perfect-show-collectors-edition.json](./30628-rite-of-passage-the-perfect-show-collectors-edition.json) |
+| Rite of Red Snow | 387961 | [387961-rite-of-red-snow.json](./387961-rite-of-red-snow.json) |
 | Rite of Titans | 220706 | [220706-rite-of-titans.json](./220706-rite-of-titans.json) |
 | Rite or Ruin | 391242 | [391242-rite-or-ruin.json](./391242-rite-or-ruin.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
@@ -7705,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors Champion | 33322 | [33322-rock-paper-scissors-champion.json](./33322-rock-paper-scissors-champion.json) |
 | Rock Paper Scissors Party | 391732 | [391732-rock-paper-scissors-party.json](./391732-rock-paper-scissors-party.json) |
 | Rock Paper Scissors: Breakthrough Gaming Arcade | 199781 | [199781-rock-paper-scissors-breakthrough-gaming-arcade.json](./199781-rock-paper-scissors-breakthrough-gaming-arcade.json) |
+| Rock Paper Scissors: Extreme Deathmatch | 387956 | [387956-rock-paper-scissors-extreme-deathmatch.json](./387956-rock-paper-scissors-extreme-deathmatch.json) |
 | Rock Paper Scissors: The Final Match | 369705 | [369705-rock-paper-scissors-the-final-match.json](./369705-rock-paper-scissors-the-final-match.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
 | Rock Paper Shift | 137433 | [137433-rock-paper-shift.json](./137433-rock-paper-shift.json) |
