@@ -3809,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch-Man | 218322 | [218322-epoch-man.json](./218322-epoch-man.json) |
 | Epochs of Enmity | 196012 | [196012-epochs-of-enmity.json](./196012-epochs-of-enmity.json) |
 | Epochs of Fire | 333009 | [333009-epochs-of-fire.json](./333009-epochs-of-fire.json) |
+| EpochStar | 395400 | [395400-epochstar.json](./395400-epochstar.json) |
 | Epocria | 137409 | [137409-epocria.json](./137409-epocria.json) |
 | Epolevne | 176355 | [176355-epolevne.json](./176355-epolevne.json) |
 | Eponymous | 74257 | [74257-eponymous.json](./74257-eponymous.json) |
