@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Express: Cabin 909 | 366348 | [366348-quiet-express-cabin-909.json](./366348-quiet-express-cabin-909.json) |
 | Quiet Farm | 190450 | [190450-quiet-farm.json](./190450-quiet-farm.json) |
 | Quiet Godo | 160058 | [160058-quiet-godo.json](./160058-quiet-godo.json) |
+| Quiet Hour | 415779 | [415779-quiet-hour.json](./415779-quiet-hour.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quiet in the Library | 390688 | [390688-quiet-in-the-library.json](./390688-quiet-in-the-library.json) |
 | Quiet is the Eyes | 279263 | [279263-quiet-is-the-eyes.json](./279263-quiet-is-the-eyes.json) |
