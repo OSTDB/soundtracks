@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleportal | 323580 | [323580-teleportal.json](./323580-teleportal.json) |
 | Teleportal 2 | 323583 | [323583-teleportal-2.json](./323583-teleportal-2.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
+| Teleportals. I swear it's a nice game. | 103192 | [103192-teleportals-i-swear-its-a-nice-game.json](./103192-teleportals-i-swear-its-a-nice-game.json) |
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
@@ -8365,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Beyond | 401634 | [401634-the-great-beyond.json](./401634-the-great-beyond.json) |
 | The Great Biohazard Escape | 183837 | [183837-the-great-biohazard-escape.json](./183837-the-great-biohazard-escape.json) |
 | The Great Book of Mario | 227972 | [227972-the-great-book-of-mario.json](./227972-the-great-book-of-mario.json) |
+| The Great C | 107306 | [107306-the-great-c.json](./107306-the-great-c.json) |
 | The Great Cave Offensive | 271262 | [271262-the-great-cave-offensive.json](./271262-the-great-cave-offensive.json) |
 | The Great Cave Offensive | 271405 | [271405-the-great-cave-offensive.json](./271405-the-great-cave-offensive.json) |
 | The Great Chain of Being | 174603 | [174603-the-great-chain-of-being.json](./174603-the-great-chain-of-being.json) |
@@ -19108,6 +19110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Bakery | 374400 | [374400-tiny-bakery.json](./374400-tiny-bakery.json) |
 | Tiny Balls | 275085 | [275085-tiny-balls.json](./275085-tiny-balls.json) |
 | Tiny Barbarian DX | 16693 | [16693-tiny-barbarian-dx.json](./16693-tiny-barbarian-dx.json) |
+| Tiny Battle Simulator | 107431 | [107431-tiny-battle-simulator.json](./107431-tiny-battle-simulator.json) |
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
 | Tiny Bird Garden Deluxe | 112826 | [112826-tiny-bird-garden-deluxe.json](./112826-tiny-bird-garden-deluxe.json) |
@@ -22086,6 +22089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Guy: Remastered | 177224 | [177224-tower-guy-remastered.json](./177224-tower-guy-remastered.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower Inc. | 369717 | [369717-tower-inc.json](./369717-tower-inc.json) |
+| Tower Jump | 101559 | [101559-tower-jump.json](./101559-tower-jump.json) |
 | Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
 | Tower Lord: Sword Loop Saga | 176267 | [176267-tower-lord-sword-loop-saga.json](./176267-tower-lord-sword-loop-saga.json) |
