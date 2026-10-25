@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old Mate Dave | 406105 | [406105-old-mate-dave.json](./406105-old-mate-dave.json) |
 | Old Monastery Escape | 114753 | [114753-old-monastery-escape.json](./114753-old-monastery-escape.json) |
+| Old Monterrey | 412604 | [412604-old-monterrey.json](./412604-old-monterrey.json) |
 | Old Quarry | 163746 | [163746-old-quarry.json](./163746-old-quarry.json) |
 | Old Retro Shooter | 209668 | [209668-old-retro-shooter.json](./209668-old-retro-shooter.json) |
 | Old Roots | 204940 | [204940-old-roots.json](./204940-old-roots.json) |
