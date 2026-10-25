@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Lost Someone | 362296 | [362296-i-lost-someone.json](./362296-i-lost-someone.json) |
 | I Love Babies | 199994 | [199994-i-love-babies.json](./199994-i-love-babies.json) |
 | I Love Beauty: Hollywood Makeover | 47849 | [47849-i-love-beauty-hollywood-makeover.json](./47849-i-love-beauty-hollywood-makeover.json) |
+| I Love Coffee | 412775 | [412775-i-love-coffee.json](./412775-i-love-coffee.json) |
 | I Love Dolphin | 123321 | [123321-i-love-dolphin.json](./123321-i-love-dolphin.json) |
 | I Love Finding 9-in-1 Bundle | 328514 | [328514-i-love-finding-9-in-1-bundle.json](./328514-i-love-finding-9-in-1-bundle.json) |
 | I Love Finding Birds | 236500 | [236500-i-love-finding-birds.json](./236500-i-love-finding-birds.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
 | Imperial Island 5: Ski Resort | 294858 | [294858-imperial-island-5-ski-resort.json](./294858-imperial-island-5-ski-resort.json) |
 | Imperial Kingdoms | 391765 | [391765-imperial-kingdoms.json](./391765-imperial-kingdoms.json) |
+| Imperial Knights | 412770 | [412770-imperial-knights.json](./412770-imperial-knights.json) |
 | Imperial SaGa | 11316 | [11316-imperial-saga.json](./11316-imperial-saga.json) |
 | Imperial Saga: Eclipse | 265624 | [265624-imperial-saga-eclipse.json](./265624-imperial-saga-eclipse.json) |
 | Imperial Settlers Roll & Write | 175292 | [175292-imperial-settlers-roll-and-write.json](./175292-imperial-settlers-roll-and-write.json) |
