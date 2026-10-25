@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego's Great Chase Through Time | 19426 | [19426-carmen-sandiegos-great-chase-through-time.json](./19426-carmen-sandiegos-great-chase-through-time.json) |
 | Carmen Sandiego's Think Quick Challenge | 66607 | [66607-carmen-sandiegos-think-quick-challenge.json](./66607-carmen-sandiegos-think-quick-challenge.json) |
 | Carmen's World Orchestra | 343379 | [343379-carmens-world-orchestra.json](./343379-carmens-world-orchestra.json) |
+| Carmencarmen | 389188 | [389188-carmencarmen.json](./389188-carmencarmen.json) |
 | Carmilla | 134341 | [134341-carmilla.json](./134341-carmilla.json) |
 | Carmilla: Crimson Moon | 418574 | [418574-carmilla-crimson-moon.json](./418574-carmilla-crimson-moon.json) |
 | Carmine | 92134 | [92134-carmine.json](./92134-carmine.json) |
@@ -12417,6 +12418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Solitaire | 295922 | [295922-cosmo-solitaire.json](./295922-cosmo-solitaire.json) |
 | Cosmo Solitaire 2 | 337254 | [337254-cosmo-solitaire-2.json](./337254-cosmo-solitaire-2.json) |
 | Cosmo Solitaire 4: Edge of the Galaxy | 421790 | [421790-cosmo-solitaire-4-edge-of-the-galaxy.json](./421790-cosmo-solitaire-4-edge-of-the-galaxy.json) |
+| Cosmo Strike: Complete Edition | 389184 | [389184-cosmo-strike-complete-edition.json](./389184-cosmo-strike-complete-edition.json) |
 | Cosmo Tales | 362053 | [362053-cosmo-tales.json](./362053-cosmo-tales.json) |
 | Cosmo Vulpes | 216194 | [216194-cosmo-vulpes.json](./216194-cosmo-vulpes.json) |
 | Cosmo-Champion | 346089 | [346089-cosmo-champion.json](./346089-cosmo-champion.json) |
@@ -14122,6 +14124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimax | 130912 | [130912-crimax.json](./130912-crimax.json) |
 | cRiMe | 93459 | [93459-crime.json](./93459-crime.json) |
 | Crime and Punishment | 24663 | [24663-crime-and-punishment.json](./24663-crime-and-punishment.json) |
+| Crime and Punishment: Lost in Nightmares | 389171 | [389171-crime-and-punishment-lost-in-nightmares.json](./389171-crime-and-punishment-lost-in-nightmares.json) |
 | Crime Boss: Heavy Hitters Pack | 276298 | [276298-crime-boss-heavy-hitters-pack.json](./276298-crime-boss-heavy-hitters-pack.json) |
 | Crime Boss: Rockay City - Baker's Bundle | 334548 | [334548-crime-boss-rockay-city-bakers-bundle.json](./334548-crime-boss-rockay-city-bakers-bundle.json) |
 | Crime Boss: Rockay City - Cagnali's Order | 315500 | [315500-crime-boss-rockay-city-cagnalis-order.json](./315500-crime-boss-rockay-city-cagnalis-order.json) |
