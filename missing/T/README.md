@@ -8707,6 +8707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The Hilltop Mansion | 149878 | [149878-the-hilltop-mansion.json](./149878-the-hilltop-mansion.json) |
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
+| The History Channel: Battle for the Pacific | 4913 | [4913-the-history-channel-battle-for-the-pacific.json](./4913-the-history-channel-battle-for-the-pacific.json) |
 | The History Channel: Civil War - A Nation Divided | 7009 | [7009-the-history-channel-civil-war-a-nation-divided.json](./7009-the-history-channel-civil-war-a-nation-divided.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
@@ -11466,6 +11467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
 | The Mummy: Dark Universe Stories | 36858 | [36858-the-mummy-dark-universe-stories.json](./36858-the-mummy-dark-universe-stories.json) |
 | The Mummy: Prodigium Strike | 36857 | [36857-the-mummy-prodigium-strike.json](./36857-the-mummy-prodigium-strike.json) |
+| The Mummy: Tomb of the Dragon Emperor | 5023 | [5023-the-mummy-tomb-of-the-dragon-emperor.json](./5023-the-mummy-tomb-of-the-dragon-emperor.json) |
 | The Muncher | 67800 | [67800-the-muncher.json](./67800-the-muncher.json) |
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
@@ -12079,6 +12081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguin IQ Test | 151282 | [151282-the-penguin-iq-test.json](./151282-the-penguin-iq-test.json) |
 | The Penguin P | 215107 | [215107-the-penguin-p.json](./215107-the-penguin-p.json) |
 | The Penguins of Madagascar | 18273 | [18273-the-penguins-of-madagascar.json](./18273-the-penguins-of-madagascar.json) |
+| The Penguins of Madagascar: Dr. Blowhole Returns Again! | 3768 | [3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 51108 | [51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
 | The Penguins of Madagascar: Operation Plushy Rescue | 230396 | [230396-the-penguins-of-madagascar-operation-plushy-rescue.json](./230396-the-penguins-of-madagascar-operation-plushy-rescue.json) |
@@ -14235,6 +14238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Despereaux | 51163 | [51163-the-tale-of-despereaux.json](./51163-the-tale-of-despereaux.json) |
 | The Tale of Doris and the Dragon | 79274 | [79274-the-tale-of-doris-and-the-dragon.json](./79274-the-tale-of-doris-and-the-dragon.json) |
 | The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
+| The Tale of Doris and the Dragon - Episode 2 | 128082 | [128082-the-tale-of-doris-and-the-dragon-episode-2.json](./128082-the-tale-of-doris-and-the-dragon-episode-2.json) |
 | The Tale of Dragons and Oceans | 259440 | [259440-the-tale-of-dragons-and-oceans.json](./259440-the-tale-of-dragons-and-oceans.json) |
 | The tale of Five Kingdoms | 194154 | [194154-the-tale-of-five-kingdoms.json](./194154-the-tale-of-five-kingdoms.json) |
 | The Tale of Food | 246983 | [246983-the-tale-of-food.json](./246983-the-tale-of-food.json) |
