@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen | 26796 | [26796-fallen.json](./26796-fallen.json) |
 | Fallen | 271114 | [271114-fallen.json](./271114-fallen.json) |
 | Fallen | 374204 | [374204-fallen.json](./374204-fallen.json) |
+| Fallen | 394084 | [394084-fallen.json](./394084-fallen.json) |
 | Fallen Angel | 121988 | [121988-fallen-angel.json](./121988-fallen-angel.json) |
 | Fallen Angel | 322457 | [322457-fallen-angel.json](./322457-fallen-angel.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Tycoon | 8912 | [8912-fast-food-tycoon.json](./8912-fast-food-tycoon.json) |
 | Fast Food Tycoon 2 | 80335 | [80335-fast-food-tycoon-2.json](./80335-fast-food-tycoon-2.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
+| Fast Food Van Simulator | 394565 | [394565-fast-food-van-simulator.json](./394565-fast-food-van-simulator.json) |
 | Fast Food: Restaurant Simulator | 310138 | [310138-fast-food-restaurant-simulator.json](./310138-fast-food-restaurant-simulator.json) |
 | Fast Fox | 152198 | [152198-fast-fox.json](./152198-fast-fox.json) |
 | Fast Freddie | 46795 | [46795-fast-freddie.json](./46795-fast-freddie.json) |
@@ -3518,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
 | Field of Glory: Empires - Persia 550-330 BCE | 154941 | [154941-field-of-glory-empires-persia-550-330-bce.json](./154941-field-of-glory-empires-persia-550-330-bce.json) |
 | Field of Glory: Kingdoms | 200987 | [200987-field-of-glory-kingdoms.json](./200987-field-of-glory-kingdoms.json) |
+| Field of Heroes | 394074 | [394074-field-of-heroes.json](./394074-field-of-heroes.json) |
 | Field of Nine: Digital Edition 2001 | 49576 | [49576-field-of-nine-digital-edition-2001.json](./49576-field-of-nine-digital-edition-2001.json) |
 | Field of Polarity | 392145 | [392145-field-of-polarity.json](./392145-field-of-polarity.json) |
 | Field of Screams | 375279 | [375279-field-of-screams.json](./375279-field-of-screams.json) |
@@ -4423,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
 | Final Soul | 57634 | [57634-final-soul.json](./57634-final-soul.json) |
 | Final Splash | 386851 | [386851-final-splash.json](./386851-final-splash.json) |
+| Final Stand Waves | 394672 | [394672-final-stand-waves.json](./394672-final-stand-waves.json) |
 | Final Star | 113440 | [113440-final-star.json](./113440-final-star.json) |
 | Final Star Force | 40986 | [40986-final-star-force.json](./40986-final-star-force.json) |
 | Final Stardust: Cosmic Nexus | 197262 | [197262-final-stardust-cosmic-nexus.json](./197262-final-stardust-cosmic-nexus.json) |
@@ -5759,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at F***boy's 2: Final Mix | 170335 | [170335-five-nights-at-f-boys-2-final-mix.json](./170335-five-nights-at-f-boys-2-final-mix.json) |
 | Five Nights at F***boy's 3: Final Mix | 171894 | [171894-five-nights-at-f-boys-3-final-mix.json](./171894-five-nights-at-f-boys-3-final-mix.json) |
 | Five Nights at F***boy's: Final Mix | 170035 | [170035-five-nights-at-f-boys-final-mix.json](./170035-five-nights-at-f-boys-final-mix.json) |
+| Five Nights at F**kboy's: Sister Location | 393576 | [393576-five-nights-at-f-kboys-sister-location.json](./393576-five-nights-at-f-kboys-sister-location.json) |
 | Five Nights at Floppa 0 | 207759 | [207759-five-nights-at-floppa-0.json](./207759-five-nights-at-floppa-0.json) |
 | Five Nights at Flow's | 377841 | [377841-five-nights-at-flows.json](./377841-five-nights-at-flows.json) |
 | Five Nights at Flow's 1 Remaster | 377843 | [377843-five-nights-at-flows-1-remaster.json](./377843-five-nights-at-flows-1-remaster.json) |
@@ -6320,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Psychosis | 333041 | [333041-flesh-psychosis.json](./333041-flesh-psychosis.json) |
 | Flesh, Blood, & Concrete | 172807 | [172807-flesh-blood-and-concrete.json](./172807-flesh-blood-and-concrete.json) |
 | Flesharmonic | 271178 | [271178-flesharmonic.json](./271178-flesharmonic.json) |
+| Fleshborn | 393299 | [393299-fleshborn.json](./393299-fleshborn.json) |
 | FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
 | FleshBound | 397043 | [397043-fleshbound.json](./397043-fleshbound.json) |
 | Fleshcancer | 395805 | [395805-fleshcancer.json](./395805-fleshcancer.json) |
@@ -9720,6 +9726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night 3D Darts | 74061 | [74061-friday-night-3d-darts.json](./74061-friday-night-3d-darts.json) |
 | Friday Night 3D Pool | 57610 | [57610-friday-night-3d-pool.json](./57610-friday-night-3d-pool.json) |
 | Friday Night Bullet Arena | 31702 | [31702-friday-night-bullet-arena.json](./31702-friday-night-bullet-arena.json) |
+| Friday Night Crunchin' | 393266 | [393266-friday-night-crunchin.json](./393266-friday-night-crunchin.json) |
 | Friday Night Dustin' | 360892 | [360892-friday-night-dustin.json](./360892-friday-night-dustin.json) |
 | Friday Night Funk'n: Funkin' is Magic | 203223 | [203223-friday-night-funkn-funkin-is-magic.json](./203223-friday-night-funkn-funkin-is-magic.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
@@ -9787,9 +9794,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs.Tails Doll | 275262 | [275262-friday-night-funkin-vs-tails-doll.json](./275262-friday-night-funkin-vs-tails-doll.json) |
 | Friday Night Funkin': Wednesday's Infidelity | 325668 | [325668-friday-night-funkin-wednesdays-infidelity.json](./325668-friday-night-funkin-wednesdays-infidelity.json) |
 | Friday Night Knockout | 357671 | [357671-friday-night-knockout.json](./357671-friday-night-knockout.json) |
+| Friday Night Monster of Monsters | 393270 | [393270-friday-night-monster-of-monsters.json](./393270-friday-night-monster-of-monsters.json) |
 | Friday Night Pikmin | 308375 | [308375-friday-night-pikmin.json](./308375-friday-night-pikmin.json) |
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
 | Friday Night Trepidation | 231470 | [231470-friday-night-trepidation.json](./231470-friday-night-trepidation.json) |
+| Friday Night Troubleshootin' | 393267 | [393267-friday-night-troubleshootin.json](./393267-friday-night-troubleshootin.json) |
 | Friday the 13th | 8530 | [8530-friday-the-13th.json](./8530-friday-the-13th.json) |
 | Friday the 13th Revisited | 395706 | [395706-friday-the-13th-revisited.json](./395706-friday-the-13th-revisited.json) |
 | Friday the 13th RPG: A Fan Game | 270660 | [270660-friday-the-13th-rpg-a-fan-game.json](./270660-friday-the-13th-rpg-a-fan-game.json) |
@@ -10295,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Army 1644 | 154060 | [154060-frontier-army-1644.json](./154060-frontier-army-1644.json) |
 | Frontier Brain | 376129 | [376129-frontier-brain.json](./376129-frontier-brain.json) |
 | Frontier Combat: Beginnings | 366120 | [366120-frontier-combat-beginnings.json](./366120-frontier-combat-beginnings.json) |
+| Frontier Control: Invasion | 394396 | [394396-frontier-control-invasion.json](./394396-frontier-control-invasion.json) |
 | Frontier Days: Founding Pioneers | 85165 | [85165-frontier-days-founding-pioneers.json](./85165-frontier-days-founding-pioneers.json) |
 | Frontier Diver Progenexis | 177342 | [177342-frontier-diver-progenexis.json](./177342-frontier-diver-progenexis.json) |
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
