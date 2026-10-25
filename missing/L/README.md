@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Len'en Tasouken: Earthen Miraculous Sword | 125796 | [125796-lenen-tasouken-earthen-miraculous-sword.json](./125796-lenen-tasouken-earthen-miraculous-sword.json) |
 | Len'en Ten'eisenki: Brilliant Pagoda or Haze Castle | 125794 | [125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json](./125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json) |
 | Len's Island | 136594 | [136594-lens-island.json](./136594-lens-island.json) |
+| Lendarios: Limits Breakers 1 | 393450 | [393450-lendarios-limits-breakers-1.json](./393450-lendarios-limits-breakers-1.json) |
 | Lendele | 182744 | [182744-lendele.json](./182744-lendele.json) |
 | Lěngxiě Zhèng Shǎizǐ | 157365 | [157365-lengxie-zheng-shaizi.json](./157365-lengxie-zheng-shaizi.json) |
 | Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Guignols de l'info: Le Cauchemar de PPD | 306964 | [306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json](./306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json) |
 | Les Habitants Del Soleil | 177993 | [177993-les-habitants-del-soleil.json](./177993-les-habitants-del-soleil.json) |
 | Les Heures Bleues: Sang sur pierre à Pétrichor | 394172 | [394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json](./394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json) |
+| Les Heures Bleues: Wedding at Astérie | 393577 | [393577-les-heures-bleues-wedding-at-asterie.json](./393577-les-heures-bleues-wedding-at-asterie.json) |
 | Les Incollables CE1-CE2 | 269834 | [269834-les-incollables-ce1-ce2.json](./269834-les-incollables-ce1-ce2.json) |
 | Les Manley in: Lost in L.A. | 72090 | [72090-les-manley-in-lost-in-l-a.json](./72090-les-manley-in-lost-in-l-a.json) |
 | Les Manley in: Search for the King | 73837 | [73837-les-manley-in-search-for-the-king.json](./73837-les-manley-in-search-for-the-king.json) |
@@ -4677,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Painful | 8492 | [8492-lisa-the-painful.json](./8492-lisa-the-painful.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
+| Lisa: The Pointless - Velvet Collection | 393294 | [393294-lisa-the-pointless-velvet-collection.json](./393294-lisa-the-pointless-velvet-collection.json) |
 | Lisa: The Purposeful | 221839 | [221839-lisa-the-purposeful.json](./221839-lisa-the-purposeful.json) |
 | Lisa: The Timeless | 159151 | [159151-lisa-the-timeless.json](./159151-lisa-the-timeless.json) |
 | Lisa: The Unbreakable RPG | 215081 | [215081-lisa-the-unbreakable-rpg.json](./215081-lisa-the-unbreakable-rpg.json) |
