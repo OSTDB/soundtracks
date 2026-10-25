@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
 | 3D Ninja Fighter | 217715 | [217715-3d-ninja-fighter.json](./217715-3d-ninja-fighter.json) |
+| 3D Paraglider | 35324 | [35324-3d-paraglider.json](./35324-3d-paraglider.json) |
 | 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
 | 3D Pinball: Space Cadet | 403520 | [403520-3d-pinball-space-cadet.json](./403520-3d-pinball-space-cadet.json) |
 | 3D Pinball: Space Cadet | 79247 | [79247-3d-pinball-space-cadet.json](./79247-3d-pinball-space-cadet.json) |
