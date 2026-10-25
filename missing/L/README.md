@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lane Mastodon vs. the Blubbermen | 59855 | [59855-lane-mastodon-vs-the-blubbermen.json](./59855-lane-mastodon-vs-the-blubbermen.json) |
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
+| Lane-4: A dystopian Programming Thriller | 403334 | [403334-lane-4-a-dystopian-programming-thriller.json](./403334-lane-4-a-dystopian-programming-thriller.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
 | Lanesplit | 345072 | [345072-lanesplit.json](./345072-lanesplit.json) |
 | Lanesplitterz | 340895 | [340895-lanesplitterz.json](./340895-lanesplitterz.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender Memories | 303309 | [303309-lavender-memories.json](./303309-lavender-memories.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Lavender Woods | 185491 | [185491-lavender-woods.json](./185491-lavender-woods.json) |
+| Lavender's | 403350 | [403350-lavenders.json](./403350-lavenders.json) |
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
 | Lavi Quest | 55010 | [55010-lavi-quest.json](./55010-lavi-quest.json) |
 | LaVonne's Lemons Idle | 402229 | [402229-lavonnes-lemons-idle.json](./402229-lavonnes-lemons-idle.json) |
@@ -2471,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman Trilogy | 125173 | [125173-lego-batman-trilogy.json](./125173-lego-batman-trilogy.json) |
 | LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
+| LEGO Batman: Legacy of the Dark Knight - Deluxe Edition Upgrade | 403335 | [403335-lego-batman-legacy-of-the-dark-knight-deluxe-edition-upgrade.json](./403335-lego-batman-legacy-of-the-dark-knight-deluxe-edition-upgrade.json) |
 | LEGO Batman: Legacy of the Dark Knight - Mayhem Mode | 404540 | [404540-lego-batman-legacy-of-the-dark-knight-mayhem-mode.json](./404540-lego-batman-legacy-of-the-dark-knight-mayhem-mode.json) |
 | LEGO Batman: Legacy of the Dark Knight - Party Music Pack | 404395 | [404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json](./404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Sinister Pack | 404541 | [404541-lego-batman-legacy-of-the-dark-knight-sinister-pack.json](./404541-lego-batman-legacy-of-the-dark-knight-sinister-pack.json) |
@@ -5511,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock & Key: A Magical Girl Mystery | 202633 | [202633-lock-and-key-a-magical-girl-mystery.json](./202633-lock-and-key-a-magical-girl-mystery.json) |
 | Lock 5 | 70429 | [70429-lock-5.json](./70429-lock-5.json) |
 | Lock Her Up: The Trump Supremacy | 81815 | [81815-lock-her-up-the-trump-supremacy.json](./81815-lock-her-up-the-trump-supremacy.json) |
+| Lock In | 403324 | [403324-lock-in.json](./403324-lock-in.json) |
 | Lock In: Final Cut | 202754 | [202754-lock-in-final-cut.json](./202754-lock-in-final-cut.json) |
 | Lock Lock: Farm | 168628 | [168628-lock-lock-farm.json](./168628-lock-lock-farm.json) |
 | Lock n Drop Bracket Racing | 289786 | [289786-lock-n-drop-bracket-racing.json](./289786-lock-n-drop-bracket-racing.json) |
