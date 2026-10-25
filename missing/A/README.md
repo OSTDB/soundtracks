@@ -3048,7 +3048,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -12452,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Igo ga Sara ni Tsuyoku Naru: Ginsei Igo DS Chuukyuu-hen | 269558 | [269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json](./269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json) |
 | Asonde Igo ga Tsuyoku Naru! Ginsei Igo DX | 136958 | [136958-asonde-igo-ga-tsuyoku-naru-ginsei-igo-dx.json](./136958-asonde-igo-ga-tsuyoku-naru-ginsei-igo-dx.json) |
 | Asonde Igo ga Tsuyoku Naru!! Ginsei Igo DS | 269651 | [269651-asonde-igo-ga-tsuyoku-naru-ginsei-igo-ds.json](./269651-asonde-igo-ga-tsuyoku-naru-ginsei-igo-ds.json) |
+| Asonde Kazu Suuji | 387304 | [387304-asonde-kazu-suuji.json](./387304-asonde-kazu-suuji.json) |
 | Asonde Mahjong ga Tsuyoku Naru! Ginsei Mahjong DX | 222372 | [222372-asonde-mahjong-ga-tsuyoku-naru-ginsei-mahjong-dx.json](./222372-asonde-mahjong-ga-tsuyoku-naru-ginsei-mahjong-dx.json) |
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Asonde Shogi ga Tsuyoku Naru! Ginsei Shogi DX | 83460 | [83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json](./83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json) |
@@ -12816,6 +12816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterigos: Curse of the Stars - Collectors Edition | 283589 | [283589-asterigos-curse-of-the-stars-collectors-edition.json](./283589-asterigos-curse-of-the-stars-collectors-edition.json) |
 | Asterika: Phantom Rose Refrain | 342606 | [342606-asterika-phantom-rose-refrain.json](./342606-asterika-phantom-rose-refrain.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
+| Asterisk 2: Next Now a Day | 387389 | [387389-asterisk-2-next-now-a-day.json](./387389-asterisk-2-next-now-a-day.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterism | 245712 | [245712-asterism.json](./245712-asterism.json) |
 | Asterism Basketball | 147071 | [147071-asterism-basketball.json](./147071-asterism-basketball.json) |
@@ -15157,6 +15158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
 | Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
+| Azure Archipelago | 387394 | [387394-azure-archipelago.json](./387394-azure-archipelago.json) |
 | Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
 | Azure Domain | 160162 | [160162-azure-domain.json](./160162-azure-domain.json) |
 | Azure Dreams | 228476 | [228476-azure-dreams.json](./228476-azure-dreams.json) |
