@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fablewood Chronicles | 413112 | [413112-fablewood-chronicles.json](./413112-fablewood-chronicles.json) |
 | Fabric of Reality | 219767 | [219767-fabric-of-reality.json](./219767-fabric-of-reality.json) |
 | FabStyle | 185897 | [185897-fabstyle.json](./185897-fabstyle.json) |
+| Fabula Mortis | 17792 | [17792-fabula-mortis.json](./17792-fabula-mortis.json) |
 | Fabular: Once upon a Spacetime | 116429 | [116429-fabular-once-upon-a-spacetime.json](./116429-fabular-once-upon-a-spacetime.json) |
 | Fábulas Porteñas | 316123 | [316123-fabulas-portenas.json](./316123-fabulas-portenas.json) |
 | Fabuloso's Fantastic Flight | 343380 | [343380-fabulosos-fantastic-flight.json](./343380-fabulosos-fantastic-flight.json) |
@@ -537,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairly Life | 90928 | [90928-fairly-life.json](./90928-fairly-life.json) |
 | Fairly Nude | 75575 | [75575-fairly-nude.json](./75575-fairly-nude.json) |
 | Fairly Nude | 75576 | [75576-fairly-nude.json](./75576-fairly-nude.json) |
+| Fairspace | 17803 | [17803-fairspace.json](./17803-fairspace.json) |
 | Fairune | 386353 | [386353-fairune.json](./386353-fairune.json) |
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
@@ -5090,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
 | Fireworks Show A | 354392 | [354392-fireworks-show-a.json](./354392-fireworks-show-a.json) |
 | Fireworks Show B | 354393 | [354393-fireworks-show-b.json](./354393-fireworks-show-b.json) |
+| Fireworks Simulator | 17856 | [17856-fireworks-simulator.json](./17856-fireworks-simulator.json) |
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
 | Firey's Candy Bar Adventure | 296227 | [296227-fireys-candy-bar-adventure.json](./296227-fireys-candy-bar-adventure.json) |
 | Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
@@ -9454,6 +9457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | Freedom's Eye | 188984 | [188984-freedoms-eye.json](./188984-freedoms-eye.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
+| Freefall | 11297 | [11297-freefall.json](./11297-freefall.json) |
 | Freefall 3050 A.D. | 51180 | [51180-freefall-3050-a-d.json](./51180-freefall-3050-a-d.json) |
 | Freefall by MSX Murcia | 267563 | [267563-freefall-by-msx-murcia.json](./267563-freefall-by-msx-murcia.json) |
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
