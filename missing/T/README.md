@@ -6950,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Draugr | 107004 | [107004-the-draugr.json](./107004-the-draugr.json) |
 | The Drawn Hour | 408727 | [408727-the-drawn-hour.json](./408727-the-drawn-hour.json) |
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
+| The Drawratos | 423855 | [423855-the-drawratos.json](./423855-the-drawratos.json) |
 | The Drawstring Dungeon | 348864 | [348864-the-drawstring-dungeon.json](./348864-the-drawstring-dungeon.json) |
 | The Dreadful Space | 197096 | [197096-the-dreadful-space.json](./197096-the-dreadful-space.json) |
 | The Dreadful Whispers | 121181 | [121181-the-dreadful-whispers.json](./121181-the-dreadful-whispers.json) |
@@ -15740,6 +15741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Animals | 293980 | [293980-the-world-of-animals.json](./293980-the-world-of-animals.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
 | The World of Decadence | 53791 | [53791-the-world-of-decadence.json](./53791-the-world-of-decadence.json) |
+| The World of Dokkaebi | 423907 | [423907-the-world-of-dokkaebi.json](./423907-the-world-of-dokkaebi.json) |
 | The World of Gangs | 201546 | [201546-the-world-of-gangs.json](./201546-the-world-of-gangs.json) |
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
 | The World of Golden Eggs: Nori Nori Uta Dekichatte Kei | 124089 | [124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json](./124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json) |
@@ -19226,6 +19228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Galaxy | 84951 | [84951-tiny-galaxy.json](./84951-tiny-galaxy.json) |
 | Tiny Games: Knights & Dragons | 84950 | [84950-tiny-games-knights-and-dragons.json](./84950-tiny-games-knights-and-dragons.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
+| Tiny Garden Café | 423866 | [423866-tiny-garden-cafe.json](./423866-tiny-garden-cafe.json) |
 | Tiny Gems Bundle | 292617 | [292617-tiny-gems-bundle.json](./292617-tiny-gems-bundle.json) |
 | Tiny Gladiators | 125755 | [125755-tiny-gladiators.json](./125755-tiny-gladiators.json) |
 | Tiny Gnome Game | 288591 | [288591-tiny-gnome-game.json](./288591-tiny-gnome-game.json) |
@@ -22370,6 +22373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towercore: Survivors | 272898 | [272898-towercore-survivors.json](./272898-towercore-survivors.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | Towerdefense Blobsmash | 344730 | [344730-towerdefense-blobsmash.json](./344730-towerdefense-blobsmash.json) |
+| Towered | 423897 | [423897-towered.json](./423897-towered.json) |
 | Towerfall 8-Player | 133331 | [133331-towerfall-8-player.json](./133331-towerfall-8-player.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
