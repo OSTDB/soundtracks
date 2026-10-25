@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Maze Against Time | 324980 | [324980-a-maze-against-time.json](./324980-a-maze-against-time.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
 | A maze in Citadel | 120037 | [120037-a-maze-in-citadel.json](./120037-a-maze-in-citadel.json) |
+| A Maze in Labyrinth | 406526 | [406526-a-maze-in-labyrinth.json](./406526-a-maze-in-labyrinth.json) |
 | A Maze In Love | 69381 | [69381-a-maze-in-love.json](./69381-a-maze-in-love.json) |
 | A Maze. / Space | 178487 | [178487-a-maze-space.json](./178487-a-maze-space.json) |
 | A Mazeing Tower Defense | 54470 | [54470-a-mazeing-tower-defense.json](./54470-a-mazeing-tower-defense.json) |
@@ -6539,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I Live | 333075 | [333075-am-i-live.json](./333075-am-i-live.json) |
 | Am I Nima | 329692 | [329692-am-i-nima.json](./329692-am-i-nima.json) |
 | Am I Part of the Problem? | 182914 | [182914-am-i-part-of-the-problem.json](./182914-am-i-part-of-the-problem.json) |
+| Am I Still Me | 406519 | [406519-am-i-still-me.json](./406519-am-i-still-me.json) |
 | Am I The Asshole? | 373829 | [373829-am-i-the-asshole.json](./373829-am-i-the-asshole.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
@@ -7887,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Angry Dad | 183222 | [183222-angry-angry-dad.json](./183222-angry-angry-dad.json) |
 | Angry Angry Shark | 161619 | [161619-angry-angry-shark.json](./161619-angry-angry-shark.json) |
 | Angry Angus | 224540 | [224540-angry-angus.json](./224540-angry-angus.json) |
+| Angry Animals | 406795 | [406795-angry-animals.json](./406795-angry-animals.json) |
 | Angry Arrows | 34755 | [34755-angry-arrows.json](./34755-angry-arrows.json) |
 | Angry Ball VR | 112961 | [112961-angry-ball-vr.json](./112961-angry-ball-vr.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
