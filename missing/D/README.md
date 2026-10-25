@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkflame Survivors | 343121 | [343121-darkflame-survivors.json](./343121-darkflame-survivors.json) |
 | Darkflow | 316363 | [316363-darkflow.json](./316363-darkflow.json) |
 | Darkgate | 319837 | [319837-darkgate.json](./319837-darkgate.json) |
+| Darkhand | 387951 | [387951-darkhand.json](./387951-darkhand.json) |
 | Darkhaven | 359222 | [359222-darkhaven.json](./359222-darkhaven.json) |
 | Darkheart: Flight of the Harpies | 112741 | [112741-darkheart-flight-of-the-harpies.json](./112741-darkheart-flight-of-the-harpies.json) |
 | Darkheart: Flight of the Harpies - Collector's Edition | 339840 | [339840-darkheart-flight-of-the-harpies-collectors-edition.json](./339840-darkheart-flight-of-the-harpies-collectors-edition.json) |
@@ -10874,6 +10875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOMpad | 246907 | [246907-doompad.json](./246907-doompad.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Dooms | 340999 | [340999-dooms.json](./340999-dooms.json) |
+| Dooms 4: Endgame | 387929 | [387929-dooms-4-endgame.json](./387929-dooms-4-endgame.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
 | Doomsday | 219754 | [219754-doomsday.json](./219754-doomsday.json) |
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
