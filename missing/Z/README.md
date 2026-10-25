@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
 | Zombie Graveyard Simulator | 333007 | [333007-zombie-graveyard-simulator.json](./333007-zombie-graveyard-simulator.json) |
 | Zombie Grenades Practice | 93665 | [93665-zombie-grenades-practice.json](./93665-zombie-grenades-practice.json) |
+| Zombie Grinder | 86124 | [86124-zombie-grinder.json](./86124-zombie-grinder.json) |
 | Zombie Groove | 148861 | [148861-zombie-groove.json](./148861-zombie-groove.json) |
 | Zombie Gunship | 65326 | [65326-zombie-gunship.json](./65326-zombie-gunship.json) |
 | Zombie Gunship Revenant AR | 87281 | [87281-zombie-gunship-revenant-ar.json](./87281-zombie-gunship-revenant-ar.json) |
@@ -1423,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
 | Zombie Office Politics | 34166 | [34166-zombie-office-politics.json](./34166-zombie-office-politics.json) |
+| Zombie Ops 3D Shooter | 87286 | [87286-zombie-ops-3d-shooter.json](./87286-zombie-ops-3d-shooter.json) |
 | Zombie Outbreak 1942 | 344485 | [344485-zombie-outbreak-1942.json](./344485-zombie-outbreak-1942.json) |
 | Zombie Outbreak 1943 | 362390 | [362390-zombie-outbreak-1943.json](./362390-zombie-outbreak-1943.json) |
 | Zombie Outbreak Simulator Pro | 96563 | [96563-zombie-outbreak-simulator-pro.json](./96563-zombie-outbreak-simulator-pro.json) |
