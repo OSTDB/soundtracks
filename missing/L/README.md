@@ -4103,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Life Every Hour | 56554 | [56554-like-life-every-hour.json](./56554-like-life-every-hour.json) |
 | Like No Other: The Legend Of The Twin Books | 211915 | [211915-like-no-other-the-legend-of-the-twin-books.json](./211915-like-no-other-the-legend-of-the-twin-books.json) |
+| Like the Shooting Stars | 420194 | [420194-like-the-shooting-stars.json](./420194-like-the-shooting-stars.json) |
 | Like Them | 177258 | [177258-like-them.json](./177258-like-them.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
 | Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
@@ -6749,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Oliver | 235595 | [235595-lost-oliver.json](./235595-lost-oliver.json) |
 | Lost on Jupiter | 185927 | [185927-lost-on-jupiter.json](./185927-lost-on-jupiter.json) |
+| Lost on the Lost Planet | 420172 | [420172-lost-on-the-lost-planet.json](./420172-lost-on-the-lost-planet.json) |
 | Lost Orbit | 21597 | [21597-lost-orbit.json](./21597-lost-orbit.json) |
 | Lost Orbit: Terminal Velocity | 120185 | [120185-lost-orbit-terminal-velocity.json](./120185-lost-orbit-terminal-velocity.json) |
 | Lost Order | 22789 | [22789-lost-order.json](./22789-lost-order.json) |
