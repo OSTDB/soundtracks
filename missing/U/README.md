@@ -2777,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Strife | 134954 | [134954-urban-strife.json](./134954-urban-strife.json) |
 | Urban Survival | 148957 | [148957-urban-survival.json](./148957-urban-survival.json) |
 | Urban Survival Simulator: The Bum's Journey | 309053 | [309053-urban-survival-simulator-the-bums-journey.json](./309053-urban-survival-simulator-the-bums-journey.json) |
+| Urban Tale | 113746 | [113746-urban-tale.json](./113746-urban-tale.json) |
 | Urban Taxi Simulator | 268937 | [268937-urban-taxi-simulator.json](./268937-urban-taxi-simulator.json) |
 | Urban Terror | 9532 | [9532-urban-terror.json](./9532-urban-terror.json) |
 | Urban Trace: Parkour Simulator Pursuit | 303862 | [303862-urban-trace-parkour-simulator-pursuit.json](./303862-urban-trace-parkour-simulator-pursuit.json) |
