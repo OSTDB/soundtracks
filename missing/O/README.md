@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OlliOlli2: Welcome to Olliwood | 9523 | [9523-olliolli2-welcome-to-olliwood.json](./9523-olliolli2-welcome-to-olliwood.json) |
 | OlliOlli2: XL Edition | 82442 | [82442-olliolli2-xl-edition.json](./82442-olliolli2-xl-edition.json) |
 | Olllo | 288313 | [288313-olllo.json](./288313-olllo.json) |
+| Ollo | 22183 | [22183-ollo.json](./22183-ollo.json) |
 | Ollo in the Sunny Valley Fair | 122219 | [122219-ollo-in-the-sunny-valley-fair.json](./122219-ollo-in-the-sunny-valley-fair.json) |
 | OLO game | 88816 | [88816-olo-game.json](./88816-olo-game.json) |
 | Olo Loco | 175224 | [175224-olo-loco.json](./175224-olo-loco.json) |
