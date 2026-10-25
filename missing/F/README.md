@@ -6560,6 +6560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flippin' Phones | 58884 | [58884-flippin-phones.json](./58884-flippin-phones.json) |
 | Flipping Beat | 185976 | [185976-flipping-beat.json](./185976-flipping-beat.json) |
 | Flipping Filip | 104820 | [104820-flipping-filip.json](./104820-flipping-filip.json) |
+| Flipping Football Clubs | 405928 | [405928-flipping-football-clubs.json](./405928-flipping-football-clubs.json) |
 | Flipping Frogs 64 | 369060 | [369060-flipping-frogs-64.json](./369060-flipping-frogs-64.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | Flipping is Hard | 351111 | [351111-flipping-is-hard.json](./351111-flipping-is-hard.json) |
@@ -7963,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Smasher | 337413 | [337413-forest-smasher.json](./337413-forest-smasher.json) |
 | Forest spiders | 123891 | [123891-forest-spiders.json](./123891-forest-spiders.json) |
 | Forest Spirit | 261679 | [261679-forest-spirit.json](./261679-forest-spirit.json) |
+| Forest Spirit | 406266 | [406266-forest-spirit.json](./406266-forest-spirit.json) |
 | Forest Star | 189356 | [189356-forest-star.json](./189356-forest-star.json) |
 | Forest Survival | 109382 | [109382-forest-survival.json](./109382-forest-survival.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
@@ -10555,6 +10557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits of Fury | 260205 | [260205-fruits-of-fury.json](./260205-fruits-of-fury.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
 | Fruits Salad | 89787 | [89787-fruits-salad.json](./89787-fruits-salad.json) |
+| Fruits Slot Machine | 405901 | [405901-fruits-slot-machine.json](./405901-fruits-slot-machine.json) |
 | Fruits vs. Veggies | 392236 | [392236-fruits-vs-veggies.json](./392236-fruits-vs-veggies.json) |
 | Fruits-mura no Doubutsu-tachi | 49572 | [49572-fruits-mura-no-doubutsu-tachi.json](./49572-fruits-mura-no-doubutsu-tachi.json) |
 | Fruits' Harvest Sorter | 315809 | [315809-fruits-harvest-sorter.json](./315809-fruits-harvest-sorter.json) |
