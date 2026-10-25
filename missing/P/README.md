@@ -8387,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluvia: Episode II | 211906 | [211906-pluvia-episode-ii.json](./211906-pluvia-episode-ii.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
 | Plylbl | 333977 | [333977-plylbl.json](./333977-plylbl.json) |
+| Plyxo Games | 393446 | [393446-plyxo-games.json](./393446-plyxo-games.json) |
 | PM-1 Inverse Universe | 126382 | [126382-pm-1-inverse-universe.json](./126382-pm-1-inverse-universe.json) |
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
 | Pmcman | 178433 | [178433-pmcman.json](./178433-pmcman.json) |
@@ -9556,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
 | Poker Mega Pack | 118884 | [118884-poker-mega-pack.json](./118884-poker-mega-pack.json) |
 | Poker Memory | 150441 | [150441-poker-memory.json](./150441-poker-memory.json) |
+| Poker Monsters | 393594 | [393594-poker-monsters.json](./393594-poker-monsters.json) |
 | Poker Night | 147158 | [147158-poker-night.json](./147158-poker-night.json) |
 | Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
 | Poker Night with David Sklansky | 209347 | [209347-poker-night-with-david-sklansky.json](./209347-poker-night-with-david-sklansky.json) |
