@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
 | Rat Shoot | 223337 | [223337-rat-shoot.json](./223337-rat-shoot.json) |
 | Rat Simulator | 29405 | [29405-rat-simulator.json](./29405-rat-simulator.json) |
+| Rat Tag! | 423892 | [423892-rat-tag.json](./423892-rat-tag.json) |
 | Rat Toy | 351197 | [351197-rat-toy.json](./351197-rat-toy.json) |
 | Rat Trap | 280113 | [280113-rat-trap.json](./280113-rat-trap.json) |
 | Rat vs. Cat | 242794 | [242794-rat-vs-cat.json](./242794-rat-vs-cat.json) |
