@@ -2022,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Campus Club | 161561 | [161561-ace-campus-club.json](./161561-ace-campus-club.json) |
 | Ace Combat 3: Electrosphere | 14751 | [14751-ace-combat-3-electrosphere.json](./14751-ace-combat-3-electrosphere.json) |
 | Ace Combat 3: Electrosphere | 306600 | [306600-ace-combat-3-electrosphere.json](./306600-ace-combat-3-electrosphere.json) |
+| Ace Combat 5: Recompiled | 418841 | [418841-ace-combat-5-recompiled.json](./418841-ace-combat-5-recompiled.json) |
 | Ace Combat 5: The Unsung War | 14753 | [14753-ace-combat-5-the-unsung-war.json](./14753-ace-combat-5-the-unsung-war.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Edition | 218508 | [218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json](./218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
@@ -3012,7 +3013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -13076,6 +13076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroclone | 28478 | [28478-astroclone.json](./28478-astroclone.json) |
 | Astrocode | 383119 | [383119-astrocode.json](./383119-astrocode.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
+| Astrocraft | 418889 | [418889-astrocraft.json](./418889-astrocraft.json) |
 | Astrodelia | 290827 | [290827-astrodelia.json](./290827-astrodelia.json) |
 | Astroderps | 32323 | [32323-astroderps.json](./32323-astroderps.json) |
 | AstroDiner Manager | 387097 | [387097-astrodiner-manager.json](./387097-astrodiner-manager.json) |
