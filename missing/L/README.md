@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladybugs and Storm | 236736 | [236736-ladybugs-and-storm.json](./236736-ladybugs-and-storm.json) |
 | Ladybugs Lines | 54170 | [54170-ladybugs-lines.json](./54170-ladybugs-lines.json) |
 | Ladykiller in a Bind | 25572 | [25572-ladykiller-in-a-bind.json](./25572-ladykiller-in-a-bind.json) |
+| Ladykiller in a Bind: Ladykiller Unleashed | 424650 | [424650-ladykiller-in-a-bind-ladykiller-unleashed.json](./424650-ladykiller-in-a-bind-ladykiller-unleashed.json) |
 | Ladylike | 152769 | [152769-ladylike.json](./152769-ladylike.json) |
 | Laedomanes | 142094 | [142094-laedomanes.json](./142094-laedomanes.json) |
 | Laetus. | 198297 | [198297-laetus.json](./198297-laetus.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Command: B-Side | 376749 | [376749-last-command-b-side.json](./376749-last-command-b-side.json) |
 | Last Command: Scream Fest pack | 263039 | [263039-last-command-scream-fest-pack.json](./263039-last-command-scream-fest-pack.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
+| Last Core | 424718 | [424718-last-core.json](./424718-last-core.json) |
 | Last Course | 356289 | [356289-last-course.json](./356289-last-course.json) |
 | Last Crash | 209299 | [209299-last-crash.json](./209299-last-crash.json) |
 | Last Dawn | 236847 | [236847-last-dawn.json](./236847-last-dawn.json) |
@@ -1125,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Mage Standing | 141498 | [141498-last-mage-standing.json](./141498-last-mage-standing.json) |
 | Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
 | Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
+| Last Man Running | 424653 | [424653-last-man-running.json](./424653-last-man-running.json) |
 | Last Man Sitting | 76091 | [76091-last-man-sitting.json](./76091-last-man-sitting.json) |
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
@@ -2373,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
 | Legends of the Mist | 201863 | [201863-legends-of-the-mist.json](./201863-legends-of-the-mist.json) |
 | Legends of the Past | 208392 | [208392-legends-of-the-past.json](./208392-legends-of-the-past.json) |
+| Legends of the Pitch | 424698 | [424698-legends-of-the-pitch.json](./424698-legends-of-the-pitch.json) |
 | Legends of the Round Table | 287791 | [287791-legends-of-the-round-table.json](./287791-legends-of-the-round-table.json) |
 | Legends of the Shadows | 208391 | [208391-legends-of-the-shadows.json](./208391-legends-of-the-shadows.json) |
 | Legends of the Universe - Cosmic Bounty | 75953 | [75953-legends-of-the-universe-cosmic-bounty.json](./75953-legends-of-the-universe-cosmic-bounty.json) |
