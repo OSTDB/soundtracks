@@ -5176,6 +5176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reunion | 281565 | [281565-reunion.json](./281565-reunion.json) |
 | Reunion | 323776 | [323776-reunion.json](./323776-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
+| Reunion | 408589 | [408589-reunion.json](./408589-reunion.json) |
 | Reunion of Angel | 271706 | [271706-reunion-of-angel.json](./271706-reunion-of-angel.json) |
 | Reunion Online | 379155 | [379155-reunion-online.json](./379155-reunion-online.json) |
 | Reunion: Autumn Leaf - Final Release | 385893 | [385893-reunion-autumn-leaf-final-release.json](./385893-reunion-autumn-leaf-final-release.json) |
@@ -6071,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: hololive - "Carbonated Love" | 352281 | [352281-rift-of-the-necrodancer-hololive-carbonated-love.json](./352281-rift-of-the-necrodancer-hololive-carbonated-love.json) |
 | Rift of the NecroDancer: hololive - "Play Dice!" | 352284 | [352284-rift-of-the-necrodancer-hololive-play-dice.json](./352284-rift-of-the-necrodancer-hololive-play-dice.json) |
 | Rift of the NecroDancer: Hololive - "Reflect" | 352282 | [352282-rift-of-the-necrodancer-hololive-reflect.json](./352282-rift-of-the-necrodancer-hololive-reflect.json) |
+| Rift of the NecroDancer: K/DA Music Pack | 408576 | [408576-rift-of-the-necrodancer-k-da-music-pack.json](./408576-rift-of-the-necrodancer-k-da-music-pack.json) |
 | Rift of the NecroDancer: Monstercat - "Crab Rave" | 375961 | [375961-rift-of-the-necrodancer-monstercat-crab-rave.json](./375961-rift-of-the-necrodancer-monstercat-crab-rave.json) |
 | Rift of the NecroDancer: Monstercat - "Final Boss" | 375959 | [375959-rift-of-the-necrodancer-monstercat-final-boss.json](./375959-rift-of-the-necrodancer-monstercat-final-boss.json) |
 | Rift of the NecroDancer: Monstercat - "New Game" | 375958 | [375958-rift-of-the-necrodancer-monstercat-new-game.json](./375958-rift-of-the-necrodancer-monstercat-new-game.json) |
@@ -6601,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain 2: Starstorm 2 | 310529 | [310529-risk-of-rain-2-starstorm-2.json](./310529-risk-of-rain-2-starstorm-2.json) |
 | Risk of Rain 2: Survivors of the Void | 189842 | [189842-risk-of-rain-2-survivors-of-the-void.json](./189842-risk-of-rain-2-survivors-of-the-void.json) |
 | Risk of Rain Returns | 229794 | [229794-risk-of-rain-returns.json](./229794-risk-of-rain-returns.json) |
+| Risk of Rain Returns: Starstorm Returns | 408679 | [408679-risk-of-rain-returns-starstorm-returns.json](./408679-risk-of-rain-returns-starstorm-returns.json) |
 | Risk of Rain: Hostile Worlds | 287506 | [287506-risk-of-rain-hostile-worlds.json](./287506-risk-of-rain-hostile-worlds.json) |
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
 | Risk of Rain: Starstorm | 262102 | [262102-risk-of-rain-starstorm.json](./262102-risk-of-rain-starstorm.json) |
