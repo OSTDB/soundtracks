@@ -6379,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Brickout | 370290 | [370290-bikini-brickout.json](./370290-bikini-brickout.json) |
 | Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
 | Bikini Girls | 387080 | [387080-bikini-girls.json](./387080-bikini-girls.json) |
+| Bikini Horrors | 406521 | [406521-bikini-horrors.json](./406521-bikini-horrors.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bikini Island | 385819 | [385819-bikini-island.json](./385819-bikini-island.json) |
 | Bikini Island Challenge | 169817 | [169817-bikini-island-challenge.json](./169817-bikini-island-challenge.json) |
@@ -12449,6 +12450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakers | 315054 | [315054-breakers.json](./315054-breakers.json) |
 | Breakers | 72533 | [72533-breakers.json](./72533-breakers.json) |
 | Breakers Revenge | 39558 | [39558-breakers-revenge.json](./39558-breakers-revenge.json) |
+| Breakers Revenge Chicago | 406501 | [406501-breakers-revenge-chicago.json](./406501-breakers-revenge-chicago.json) |
 | BreakEven: Idle | 409865 | [409865-breakeven-idle.json](./409865-breakeven-idle.json) |
 | Breakfall: Nuclear Winter | 342616 | [342616-breakfall-nuclear-winter.json](./342616-breakfall-nuclear-winter.json) |
 | Breakfast at Twilight | 271771 | [271771-breakfast-at-twilight.json](./271771-breakfast-at-twilight.json) |
