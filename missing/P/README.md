@@ -11949,6 +11949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Paradise | 284777 | [284777-princess-paradise.json](./284777-princess-paradise.json) |
 | Princess Parent | 271598 | [271598-princess-parent.json](./271598-princess-parent.json) |
 | Princess Party | 394498 | [394498-princess-party.json](./394498-princess-party.json) |
+| Princess Party | 417261 | [417261-princess-party.json](./417261-princess-party.json) |
 | Princess Party Camellia | 77129 | [77129-princess-party-camellia.json](./77129-princess-party-camellia.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
@@ -14273,6 +14274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punchgolf | 291035 | [291035-punchgolf.json](./291035-punchgolf.json) |
 | Punchhead | 96074 | [96074-punchhead.json](./96074-punchhead.json) |
 | Punching a Concrete Wall | 399013 | [399013-punching-a-concrete-wall.json](./399013-punching-a-concrete-wall.json) |
+| Punching a Dirty Wizard | 417247 | [417247-punching-a-dirty-wizard.json](./417247-punching-a-dirty-wizard.json) |
 | Punching Bags | 93139 | [93139-punching-bags.json](./93139-punching-bags.json) |
 | Punching Storm | 358332 | [358332-punching-storm.json](./358332-punching-storm.json) |
 | Punchline | 291572 | [291572-punchline.json](./291572-punchline.json) |
