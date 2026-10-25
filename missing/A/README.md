@@ -8524,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annie and the Art Gallery | 192656 | [192656-annie-and-the-art-gallery.json](./192656-annie-and-the-art-gallery.json) |
 | Annie and the Shadow Palace | 158071 | [158071-annie-and-the-shadow-palace.json](./158071-annie-and-the-shadow-palace.json) |
 | Annie Android: Automated Affection | 165510 | [165510-annie-android-automated-affection.json](./165510-annie-android-automated-affection.json) |
+| Annie's Dineinn | 416982 | [416982-annies-dineinn.json](./416982-annies-dineinn.json) |
 | Annie's Millions: A Hidden Object Shopping Spree! | 198079 | [198079-annies-millions-a-hidden-object-shopping-spree.json](./198079-annies-millions-a-hidden-object-shopping-spree.json) |
 | Annihilate | 215553 | [215553-annihilate.json](./215553-annihilate.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
@@ -13401,6 +13402,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Iris: Eternal Mana 2 After Episode | 314917 | [314917-atelier-iris-eternal-mana-2-after-episode.json](./314917-atelier-iris-eternal-mana-2-after-episode.json) |
 | Atelier Judie: The Alchemist of Gramnad - Imprisoned Guardian | 42756 | [42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json](./42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json) |
 | Atelier Karia: The Night Kingdom & the Guide of Memories | 405457 | [405457-atelier-karia-the-night-kingdom-and-the-guide-of-memories.json](./405457-atelier-karia-the-night-kingdom-and-the-guide-of-memories.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - Animate Limited Set | 416948 | [416948-atelier-karia-the-night-kingdom-and-the-guide-of-memories-animate-limited-set.json](./416948-atelier-karia-the-night-kingdom-and-the-guide-of-memories-animate-limited-set.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - Famitsu DX Pack | 416950 | [416950-atelier-karia-the-night-kingdom-and-the-guide-of-memories-famitsu-dx-pack.json](./416950-atelier-karia-the-night-kingdom-and-the-guide-of-memories-famitsu-dx-pack.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - Gamers Super Limited Edition | 416951 | [416951-atelier-karia-the-night-kingdom-and-the-guide-of-memories-gamers-super-limited-edition.json](./416951-atelier-karia-the-night-kingdom-and-the-guide-of-memories-gamers-super-limited-edition.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - GS Saikyou Galaxy Combo Set | 416947 | [416947-atelier-karia-the-night-kingdom-and-the-guide-of-memories-gs-saikyou-galaxy-combo-set.json](./416947-atelier-karia-the-night-kingdom-and-the-guide-of-memories-gs-saikyou-galaxy-combo-set.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - Premium Box | 416942 | [416942-atelier-karia-the-night-kingdom-and-the-guide-of-memories-premium-box.json](./416942-atelier-karia-the-night-kingdom-and-the-guide-of-memories-premium-box.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - Rakuten Books Exclusive Set | 416952 | [416952-atelier-karia-the-night-kingdom-and-the-guide-of-memories-rakuten-books-exclusive-set.json](./416952-atelier-karia-the-night-kingdom-and-the-guide-of-memories-rakuten-books-exclusive-set.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - Special Premium Box | 416946 | [416946-atelier-karia-the-night-kingdom-and-the-guide-of-memories-special-premium-box.json](./416946-atelier-karia-the-night-kingdom-and-the-guide-of-memories-special-premium-box.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - WonderGOO Original Limited Set | 416957 | [416957-atelier-karia-the-night-kingdom-and-the-guide-of-memories-wondergoo-original-limited-set.json](./416957-atelier-karia-the-night-kingdom-and-the-guide-of-memories-wondergoo-original-limited-set.json) |
 | Atelier Lilie Plus: The Alchemist of Salburg 3 | 43516 | [43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json](./43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json) |
 | Atelier Lilie: The Alchemist of Salburg 3 | 26441 | [26441-atelier-lilie-the-alchemist-of-salburg-3.json](./26441-atelier-lilie-the-alchemist-of-salburg-3.json) |
 | Atelier Lina: The Alchemist of Strahl | 67708 | [67708-atelier-lina-the-alchemist-of-strahl.json](./67708-atelier-lina-the-alchemist-of-strahl.json) |
@@ -14333,6 +14342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
 | Avadon: The Black Fortress | 7407 | [7407-avadon-the-black-fortress.json](./7407-avadon-the-black-fortress.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
+| Avalan | 416943 | [416943-avalan.json](./416943-avalan.json) |
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
 | Avalanche Escape | 313554 | [313554-avalanche-escape.json](./313554-avalanche-escape.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
