@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | Canvas Street | 347904 | [347904-canvas-street.json](./347904-canvas-street.json) |
+| Canvas the Gallery | 29515 | [29515-canvas-the-gallery.json](./29515-canvas-the-gallery.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
 | Canvasmount | 341635 | [341635-canvasmount.json](./341635-canvasmount.json) |
 | CanVerse | 227999 | [227999-canverse.json](./227999-canverse.json) |
@@ -3274,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Stories: New Year | 182223 | [182223-cat-stories-new-year.json](./182223-cat-stories-new-year.json) |
 | Cat Sudoku | 369682 | [369682-cat-sudoku.json](./369682-cat-sudoku.json) |
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
+| Cat survival | 29474 | [29474-cat-survival.json](./29474-cat-survival.json) |
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
 | Cat Swap Tiles | 187280 | [187280-cat-swap-tiles.json](./187280-cat-swap-tiles.json) |
 | Cat Syndicate: Istanbul | 327648 | [327648-cat-syndicate-istanbul.json](./327648-cat-syndicate-istanbul.json) |
@@ -3929,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Creatures | 25602 | [25602-cavern-creatures.json](./25602-cavern-creatures.json) |
 | Cavern Crumblers | 43073 | [43073-cavern-crumblers.json](./43073-cavern-crumblers.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
+| Cavern Escape | 30878 | [30878-cavern-escape.json](./30878-cavern-escape.json) |
 | Cavern Fighter | 69706 | [69706-cavern-fighter.json](./69706-cavern-fighter.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
@@ -5782,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiikawa Pocket | 327682 | [327682-chiikawa-pocket.json](./327682-chiikawa-pocket.json) |
 | Chiisana Obake: Acchi Socchi Kocchi | 48537 | [48537-chiisana-obake-acchi-socchi-kocchi.json](./48537-chiisana-obake-acchi-socchi-kocchi.json) |
 | Chiisana Oukoku Eltoria | 387132 | [387132-chiisana-oukoku-eltoria.json](./387132-chiisana-oukoku-eltoria.json) |
+| Chika Militant Cockroach | 29516 | [29516-chika-militant-cockroach.json](./29516-chika-militant-cockroach.json) |
 | Chikai no Kiss wa Totsuzen ni | 221241 | [221241-chikai-no-kiss-wa-totsuzen-ni.json](./221241-chikai-no-kiss-wa-totsuzen-ni.json) |
 | Chikankyou: Gachi Tsukaeru Appli de Muchimuchi Kyonyuu Shiri o Monde Sawatte! Acme-gao de Ikasetai!! | 109000 | [109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json](./109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json) |
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
@@ -9168,6 +9172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffin | 94136 | [94136-coffin.json](./94136-coffin.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
 | Coffin Mall | 175615 | [175615-coffin-mall.json](./175615-coffin-mall.json) |
+| Coffin of Ashes | 30864 | [30864-coffin-of-ashes.json](./30864-coffin-of-ashes.json) |
 | Coffin Rot Brewing Co. | 121291 | [121291-coffin-rot-brewing-co.json](./121291-coffin-rot-brewing-co.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
@@ -13442,6 +13447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
 | Crazy Farm: Roguelike Idle Building Game | 412497 | [412497-crazy-farm-roguelike-idle-building-game.json](./412497-crazy-farm-roguelike-idle-building-game.json) |
 | Crazy Fatties | 188930 | [188930-crazy-fatties.json](./188930-crazy-fatties.json) |
+| Crazy Fishing | 29446 | [29446-crazy-fishing.json](./29446-crazy-fishing.json) |
 | Crazy Fishing Champion | 256200 | [256200-crazy-fishing-champion.json](./256200-crazy-fishing-champion.json) |
 | Crazy Flasher 2 | 398917 | [398917-crazy-flasher-2.json](./398917-crazy-flasher-2.json) |
 | Crazy Flasher 3 | 62165 | [62165-crazy-flasher-3.json](./62165-crazy-flasher-3.json) |
@@ -14138,6 +14144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisp Cube | 125886 | [125886-crisp-cube.json](./125886-crisp-cube.json) |
 | Crisp's Charging Challenge | 214051 | [214051-crisps-charging-challenge.json](./214051-crisps-charging-challenge.json) |
 | Crispy Cheese | 218148 | [218148-crispy-cheese.json](./218148-crispy-cheese.json) |
+| Crispy Chicken | 30876 | [30876-crispy-chicken.json](./30876-crispy-chicken.json) |
 | Crispy Chicken Speedmap Session 02 | 312892 | [312892-crispy-chicken-speedmap-session-02.json](./312892-crispy-chicken-speedmap-session-02.json) |
 | Crispy Chicken Speedmap Session 04 | 321202 | [321202-crispy-chicken-speedmap-session-04.json](./321202-crispy-chicken-speedmap-session-04.json) |
 | Crispy Chicken Speedmap Session 5: Paint It Doom | 323912 | [323912-crispy-chicken-speedmap-session-5-paint-it-doom.json](./323912-crispy-chicken-speedmap-session-5-paint-it-doom.json) |
@@ -15250,6 +15257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CTGP Deluxe | 311038 | [311038-ctgp-deluxe.json](./311038-ctgp-deluxe.json) |
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
 | CTGP-Universe | 232873 | [232873-ctgp-universe.json](./232873-ctgp-universe.json) |
+| Cthon | 29456 | [29456-cthon.json](./29456-cthon.json) |
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
 | Cthulhu Clicker | 58162 | [58162-cthulhu-clicker.json](./58162-cthulhu-clicker.json) |
 | Cthulhu Go Teaching | 405091 | [405091-cthulhu-go-teaching.json](./405091-cthulhu-go-teaching.json) |
