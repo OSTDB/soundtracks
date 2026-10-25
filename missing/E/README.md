@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthshine | 117799 | [117799-earthshine.json](./117799-earthshine.json) |
 | Earthsiege 2 | 11229 | [11229-earthsiege-2.json](./11229-earthsiege-2.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
+| Earthtongue | 35546 | [35546-earthtongue.json](./35546-earthtongue.json) |
 | Earthworm Jim | 3480 | [3480-earthworm-jim.json](./3480-earthworm-jim.json) |
 | Earthworm Jim | 362035 | [362035-earthworm-jim.json](./362035-earthworm-jim.json) |
 | Earthworm Jim | 362036 | [362036-earthworm-jim.json](./362036-earthworm-jim.json) |
@@ -423,6 +424,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
 | East Prussia '14 | 59185 | [59185-east-prussia-14.json](./59185-east-prussia-14.json) |
 | East Scarp | 299612 | [299612-east-scarp.json](./299612-east-scarp.json) |
+| East Tower - Akio | 35634 | [35634-east-tower-akio.json](./35634-east-tower-akio.json) |
+| East Tower - Kuon | 35600 | [35600-east-tower-kuon.json](./35600-east-tower-kuon.json) |
+| East Tower - Kurenai | 35601 | [35601-east-tower-kurenai.json](./35601-east-tower-kurenai.json) |
+| East Tower - Takashi | 35599 | [35599-east-tower-takashi.json](./35599-east-tower-takashi.json) |
 | East Trade Tycoon | 214113 | [214113-east-trade-tycoon.json](./214113-east-trade-tycoon.json) |
 | East Trade Tycoon: Inheritance | 320577 | [320577-east-trade-tycoon-inheritance.json](./320577-east-trade-tycoon-inheritance.json) |
 | East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
@@ -3293,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma Sphere: Enhanced Edition | 29533 | [29533-enigma-sphere-enhanced-edition.json](./29533-enigma-sphere-enhanced-edition.json) |
 | Enigma Squad: Animal Chaos | 298978 | [298978-enigma-squad-animal-chaos.json](./298978-enigma-squad-animal-chaos.json) |
 | Enigma: A Codebreaking Game | 186587 | [186587-enigma-a-codebreaking-game.json](./186587-enigma-a-codebreaking-game.json) |
+| Enigma: An Illusion Named Family | 35612 | [35612-enigma-an-illusion-named-family.json](./35612-enigma-an-illusion-named-family.json) |
 | Enigma: Rising Tide | 24099 | [24099-enigma-rising-tide.json](./24099-enigma-rising-tide.json) |
 | Enigmarble | 269024 | [269024-enigmarble.json](./269024-enigmarble.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
@@ -4996,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Protectors | 157373 | [157373-eternity-protectors.json](./157373-eternity-protectors.json) |
 | Eternity Warriors | 38502 | [38502-eternity-warriors.json](./38502-eternity-warriors.json) |
 | ﻿Eternity Warriors 4 | 348747 | [348747-eternity-warriors-4.json](./348747-eternity-warriors-4.json) |
+| Eternity Warriors II | 38501 | [38501-eternity-warriors-ii.json](./38501-eternity-warriors-ii.json) |
 | Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
 | Eternity: Farfalla the Holy sword | 105812 | [105812-eternity-farfalla-the-holy-sword.json](./105812-eternity-farfalla-the-holy-sword.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
@@ -5865,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evochron Legends | 15118 | [15118-evochron-legends.json](./15118-evochron-legends.json) |
 | Evochron Mobile | 188288 | [188288-evochron-mobile.json](./188288-evochron-mobile.json) |
 | Evochron Renegades | 15117 | [15117-evochron-renegades.json](./15117-evochron-renegades.json) |
+| EvoCreo | 38064 | [38064-evocreo.json](./38064-evocreo.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoke | 111613 | [111613-evoke.json](./111613-evoke.json) |
