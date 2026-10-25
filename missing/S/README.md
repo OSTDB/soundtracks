@@ -6627,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift 247 | 94411 | [94411-shift-247.json](./94411-shift-247.json) |
 | Shift at Midnight | 352789 | [352789-shift-at-midnight.json](./352789-shift-at-midnight.json) |
 | Shift Change | 299868 | [299868-shift-change.json](./299868-shift-change.json) |
+| Shift Chess | 415763 | [415763-shift-chess.json](./415763-shift-chess.json) |
 | Shift DX | 26737 | [26737-shift-dx.json](./26737-shift-dx.json) |
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
 | Shift Extended | 44531 | [44531-shift-extended.json](./44531-shift-extended.json) |
@@ -10505,6 +10506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
 | Skyscraper Climb VR | 90824 | [90824-skyscraper-climb-vr.json](./90824-skyscraper-climb-vr.json) |
 | Skyscraper Jump | 199392 | [199392-skyscraper-jump.json](./199392-skyscraper-jump.json) |
+| Skyscraper Security: Zombie Rain | 415731 | [415731-skyscraper-security-zombie-rain.json](./415731-skyscraper-security-zombie-rain.json) |
 | Skyscraper Simulator | 9421 | [9421-skyscraper-simulator.json](./9421-skyscraper-simulator.json) |
 | Skyscrapers Puzzle: Airi's tale | 104155 | [104155-skyscrapers-puzzle-airis-tale.json](./104155-skyscrapers-puzzle-airis-tale.json) |
 | Skyseeker | 139284 | [139284-skyseeker.json](./139284-skyseeker.json) |
@@ -10761,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayin | 59671 | [59671-slayin.json](./59671-slayin.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
 | Slayin DX | 266754 | [266754-slayin-dx.json](./266754-slayin-dx.json) |
+| Slaymeji: Roguelite Desktop Survivor | 415784 | [415784-slaymeji-roguelite-desktop-survivor.json](./415784-slaymeji-roguelite-desktop-survivor.json) |
 | Slays Demons in the DaTang | 368369 | [368369-slays-demons-in-the-datang.json](./368369-slays-demons-in-the-datang.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | SlaytheCube Remake | 133898 | [133898-slaythecube-remake.json](./133898-slaythecube-remake.json) |
@@ -14793,6 +14796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonyeojeonjaeng: Hwansangui Cheonhatongil-jeon | 233548 | [233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json](./233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json) |
 | Sonzai | 138210 | [138210-sonzai.json](./138210-sonzai.json) |
 | Soon Shine | 85389 | [85389-soon-shine.json](./85389-soon-shine.json) |
+| Soon We'll Be No One | 415789 | [415789-soon-well-be-no-one.json](./415789-soon-well-be-no-one.json) |
 | Soon, Only the Ocean | 412938 | [412938-soon-only-the-ocean.json](./412938-soon-only-the-ocean.json) |
 | Soona | 128923 | [128923-soona.json](./128923-soona.json) |
 | Soopah Doopah Poopah | 138151 | [138151-soopah-doopah-poopah.json](./138151-soopah-doopah-poopah.json) |
@@ -15322,6 +15326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
+| Soulstonia | 415792 | [415792-soulstonia.json](./415792-soulstonia.json) |
 | Soulstopia: Phi | 173212 | [173212-soulstopia-phi.json](./173212-soulstopia-phi.json) |
 | Soulstrive | 193260 | [193260-soulstrive.json](./193260-soulstrive.json) |
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
@@ -20044,6 +20049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Rebels: Recon Missions | 23976 | [23976-star-wars-rebels-recon-missions.json](./23976-star-wars-rebels-recon-missions.json) |
 | Star Wars Trilogy Arcade | 39351 | [39351-star-wars-trilogy-arcade.json](./39351-star-wars-trilogy-arcade.json) |
 | Star Wars Trilogy: Apprentice of the Force | 6609 | [6609-star-wars-trilogy-apprentice-of-the-force.json](./6609-star-wars-trilogy-apprentice-of-the-force.json) |
+| Star Wars Zero Company: Deluxe Edition | 415762 | [415762-star-wars-zero-company-deluxe-edition.json](./415762-star-wars-zero-company-deluxe-edition.json) |
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
 | Star Wars: Attack Squadrons | 62510 | [62510-star-wars-attack-squadrons.json](./62510-star-wars-attack-squadrons.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
@@ -21572,6 +21578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Nexus | 209943 | [209943-stellar-nexus.json](./209943-stellar-nexus.json) |
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
 | Stellar Odyssey | 413089 | [413089-stellar-odyssey.json](./413089-stellar-odyssey.json) |
+| Stellar Odyssey | 415740 | [415740-stellar-odyssey.json](./415740-stellar-odyssey.json) |
 | Stellar Outpost Commander | 292325 | [292325-stellar-outpost-commander.json](./292325-stellar-outpost-commander.json) |
 | Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
@@ -22435,6 +22442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StorySpark | 303283 | [303283-storyspark.json](./303283-storyspark.json) |
 | Storyteller | 159299 | [159299-storyteller.json](./159299-storyteller.json) |
 | Storyteller | 383135 | [383135-storyteller.json](./383135-storyteller.json) |
+| Storyteller Special Edition | 415776 | [415776-storyteller-special-edition.json](./415776-storyteller-special-edition.json) |
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
 | Storytime Cats: Meows and Mistletoes | 420769 | [420769-storytime-cats-meows-and-mistletoes.json](./420769-storytime-cats-meows-and-mistletoes.json) |
 | Storyvale | 57464 | [57464-storyvale.json](./57464-storyvale.json) |
@@ -22472,6 +22480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Alone | 81874 | [81874-stranded-alone.json](./81874-stranded-alone.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
+| Stranded Deep 2 | 415782 | [415782-stranded-deep-2.json](./415782-stranded-deep-2.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
 | Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
@@ -25003,6 +25012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
 | Super Blood Hockey | 31160 | [31160-super-blood-hockey.json](./31160-super-blood-hockey.json) |
 | Super Blood Hockey: Rogue Manager | 410956 | [410956-super-blood-hockey-rogue-manager.json](./410956-super-blood-hockey-rogue-manager.json) |
+| Super Bloom | 415743 | [415743-super-bloom.json](./415743-super-bloom.json) |
 | Super Blox | 113576 | [113576-super-blox.json](./113576-super-blox.json) |
 | Super Blue Fighter | 32965 | [32965-super-blue-fighter.json](./32965-super-blue-fighter.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
