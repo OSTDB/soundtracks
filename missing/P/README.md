@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 4 Dancing All Night: Heaven featuring Hatsune Miku | 319167 | [319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json](./319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json) |
 | Persona 4 Golden | 234702 | [234702-persona-4-golden.json](./234702-persona-4-golden.json) |
 | Persona 4 Revival: Digital Premium Edition | 407470 | [407470-persona-4-revival-digital-premium-edition.json](./407470-persona-4-revival-digital-premium-edition.json) |
+| Persona 4 Revival: Limited Box | 405121 | [405121-persona-4-revival-limited-box.json](./405121-persona-4-revival-limited-box.json) |
 | Persona 4 Revival: Steelbook Edition | 422015 | [422015-persona-4-revival-steelbook-edition.json](./422015-persona-4-revival-steelbook-edition.json) |
 | Persona 4: Dancing All Night | 11056 | [11056-persona-4-dancing-all-night.json](./11056-persona-4-dancing-all-night.json) |
 | Persona 4: Dancing All Night - Disco Fever Edition | 41873 | [41873-persona-4-dancing-all-night-disco-fever-edition.json](./41873-persona-4-dancing-all-night-disco-fever-edition.json) |
@@ -4396,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Lamb | 377906 | [377906-phantom-lamb.json](./377906-phantom-lamb.json) |
 | Phantom Legacy | 124527 | [124527-phantom-legacy.json](./124527-phantom-legacy.json) |
 | Phantom Mansion Chapter 1: The Red Chamber | 397699 | [397699-phantom-mansion-chapter-1-the-red-chamber.json](./397699-phantom-mansion-chapter-1-the-red-chamber.json) |
+| Phantom Mansion II: Treasures of the Seven Seas - The Arabian Sea | 405128 | [405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json](./405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
 | Phantom of the Grove | 337306 | [337306-phantom-of-the-grove.json](./337306-phantom-of-the-grove.json) |
@@ -6132,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipes Puzzle Casual Arcade | 213808 | [213808-pipes-puzzle-casual-arcade.json](./213808-pipes-puzzle-casual-arcade.json) |
 | Pipes Puzzles | 213539 | [213539-pipes-puzzles.json](./213539-pipes-puzzles.json) |
 | Pipes Racer | 77158 | [77158-pipes-racer.json](./77158-pipes-racer.json) |
+| Pipes.exe | 405155 | [405155-pipes-exe.json](./405155-pipes-exe.json) |
 | PipeWorks | 116927 | [116927-pipeworks.json](./116927-pipeworks.json) |
 | Pipi & Bibi's | 40138 | [40138-pipi-and-bibis.json](./40138-pipi-and-bibis.json) |
 | Piping Hot | 126842 | [126842-piping-hot.json](./126842-piping-hot.json) |
@@ -8319,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plus Plum 2 Again | 263958 | [263958-plus-plum-2-again.json](./263958-plus-plum-2-again.json) |
 | Plus Plumb | 263957 | [263957-plus-plumb.json](./263957-plus-plumb.json) |
 | Plus Ultra: Legado | 276828 | [276828-plus-ultra-legado.json](./276828-plus-ultra-legado.json) |
+| Plus/Minus Zero | 405134 | [405134-plus-minus-zero.json](./405134-plus-minus-zero.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
 | Plush Dog | 287544 | [287544-plush-dog.json](./287544-plush-dog.json) |
 | Plush Hospital | 319999 | [319999-plush-hospital.json](./319999-plush-hospital.json) |
@@ -8732,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pok The Little Artiste | 279557 | [279557-pok-the-little-artiste.json](./279557-pok-the-little-artiste.json) |
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
+| Poke a Nose | 405173 | [405173-poke-a-nose.json](./405173-poke-a-nose.json) |
 | Poke Abby | 210464 | [210464-poke-abby.json](./210464-poke-abby.json) |
 | Poke All Toads | 241785 | [241785-poke-all-toads.json](./241785-poke-all-toads.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
