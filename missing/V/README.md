@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentine Candy: Break Head to Head | 214567 | [214567-valentine-candy-break-head-to-head.json](./214567-valentine-candy-break-head-to-head.json) |
 | Valentine Disaster | 184893 | [184893-valentine-disaster.json](./184893-valentine-disaster.json) |
 | Valentine for Futureless Butterfly | 396031 | [396031-valentine-for-futureless-butterfly.json](./396031-valentine-for-futureless-butterfly.json) |
+| Valentine in Bitterness | 413707 | [413707-valentine-in-bitterness.json](./413707-valentine-in-bitterness.json) |
 | Valentine Panic | 68587 | [68587-valentine-panic.json](./68587-valentine-panic.json) |
 | Valentine's Day Bikini Femdom | 400903 | [400903-valentines-day-bikini-femdom.json](./400903-valentines-day-bikini-femdom.json) |
 | Valentine's Day Griddlers | 181073 | [181073-valentines-day-griddlers.json](./181073-valentines-day-griddlers.json) |
