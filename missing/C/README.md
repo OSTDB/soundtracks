@@ -5450,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Master | 247054 | [247054-chess-master.json](./247054-chess-master.json) |
 | Chess Master | 346114 | [346114-chess-master.json](./346114-chess-master.json) |
 | Chess Match | 231202 | [231202-chess-match.json](./231202-chess-match.json) |
+| Chess Mate | 398149 | [398149-chess-mate.json](./398149-chess-mate.json) |
 | Chess Mates | 93402 | [93402-chess-mates.json](./93402-chess-mates.json) |
 | Chess Mega Bundle | 152872 | [152872-chess-mega-bundle.json](./152872-chess-mega-bundle.json) |
 | Chess Mess | 353772 | [353772-chess-mess.json](./353772-chess-mess.json) |
@@ -10051,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Voxels: Zoo Pack | 406839 | [406839-coloring-voxels-zoo-pack.json](./406839-coloring-voxels-zoo-pack.json) |
 | Coloris | 335115 | [335115-coloris.json](./335115-coloris.json) |
 | Coloristic | 134426 | [134426-coloristic.json](./134426-coloristic.json) |
+| Colorium | 398384 | [398384-colorium.json](./398384-colorium.json) |
 | Colorize | 380079 | [380079-colorize.json](./380079-colorize.json) |
 | Colorize ASMR | 303051 | [303051-colorize-asmr.json](./303051-colorize-asmr.json) |
 | Colorize Inspect | 150425 | [150425-colorize-inspect.json](./150425-colorize-inspect.json) |
