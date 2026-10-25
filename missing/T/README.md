@@ -24404,6 +24404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tralalero Tralala: Backrooms | 392343 | [392343-tralalero-tralala-backrooms.json](./392343-tralalero-tralala-backrooms.json) |
 | Tralalero Tralala: Escape Backrooms | 367977 | [367977-tralalero-tralala-escape-backrooms.json](./367977-tralalero-tralala-escape-backrooms.json) |
 | Tralalero Tralala: Survive the Night | 352385 | [352385-tralalero-tralala-survive-the-night.json](./352385-tralalero-tralala-survive-the-night.json) |
+| Tram | 413414 | [413414-tram.json](./413414-tram.json) |
 | Tram Simulator Duesseldorf | 101082 | [101082-tram-simulator-duesseldorf.json](./101082-tram-simulator-duesseldorf.json) |
 | TramCity Hakodate | 278893 | [278893-tramcity-hakodate.json](./278893-tramcity-hakodate.json) |
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
@@ -24447,6 +24448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
 | Transcender Starship | 118767 | [118767-transcender-starship.json](./118767-transcender-starship.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
+| Transcriptions of Time | 413818 | [413818-transcriptions-of-time.json](./413818-transcriptions-of-time.json) |
 | Transfer | 182769 | [182769-transfer.json](./182769-transfer.json) |
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
 | Transference | 37064 | [37064-transference.json](./37064-transference.json) |
@@ -26342,6 +26344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki no Kanata de Aimashou | 150037 | [150037-tsuki-no-kanata-de-aimashou.json](./150037-tsuki-no-kanata-de-aimashou.json) |
 | Tsuki no Kanata de Aimashou: Sweet Summer Rainbow | 150038 | [150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json](./150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json) |
 | Tsuki no Namida | 277953 | [277953-tsuki-no-namida.json](./277953-tsuki-no-namida.json) |
+| Tsuki no Sabaki | 413801 | [413801-tsuki-no-sabaki.json](./413801-tsuki-no-sabaki.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
 | Tsuki to Taiyou no Raksharuki | 194926 | [194926-tsuki-to-taiyou-no-raksharuki.json](./194926-tsuki-to-taiyou-no-raksharuki.json) |
 | Tsuki to Taiyou no Raksharuki 2: Sabaku no Kuni no Ohime-sama | 194927 | [194927-tsuki-to-taiyou-no-raksharuki-2-sabaku-no-kuni-no-ohime-sama.json](./194927-tsuki-to-taiyou-no-raksharuki-2-sabaku-no-kuni-no-ohime-sama.json) |
@@ -26881,6 +26884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret Lab | 223519 | [223519-turret-lab.json](./223519-turret-lab.json) |
 | Turret Rampage | 260519 | [260519-turret-rampage.json](./260519-turret-rampage.json) |
 | Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
+| Turret Tower | 413730 | [413730-turret-tower.json](./413730-turret-tower.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | TurretMaster | 75954 | [75954-turretmaster.json](./75954-turretmaster.json) |
