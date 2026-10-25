@@ -8522,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
 | Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
+| Annalog | 411988 | [411988-annalog.json](./411988-annalog.json) |
 | Annalynn | 142687 | [142687-annalynn.json](./142687-annalynn.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
 | Annapurna Interactive: Ultimate Collection | 139065 | [139065-annapurna-interactive-ultimate-collection.json](./139065-annapurna-interactive-ultimate-collection.json) |
