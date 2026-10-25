@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: Space Fight | 188954 | [188954-lawnmower-game-space-fight.json](./188954-lawnmower-game-space-fight.json) |
 | Lawnmower Game: Space Race | 225605 | [225605-lawnmower-game-space-race.json](./225605-lawnmower-game-space-race.json) |
 | Lawnmower Game: Survival | 334244 | [334244-lawnmower-game-survival.json](./334244-lawnmower-game-survival.json) |
+| Lawnmower Game: UFO Chase 2 | 395365 | [395365-lawnmower-game-ufo-chase-2.json](./395365-lawnmower-game-ufo-chase-2.json) |
 | Lawnmower Maniac | 385874 | [385874-lawnmower-maniac.json](./385874-lawnmower-maniac.json) |
 | Lawnmower Runner | 398505 | [398505-lawnmower-runner.json](./398505-lawnmower-runner.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legends: Saint George | 349812 | [349812-legends-saint-george.json](./349812-legends-saint-george.json) |
+| Legendum | 395385 | [395385-legendum.json](./395385-legendum.json) |
 | Legenne | 70381 | [70381-legenne.json](./70381-legenne.json) |
 | Leggite Luta Livre | 198482 | [198482-leggite-luta-livre.json](./198482-leggite-luta-livre.json) |
 | Legie | 81407 | [81407-legie.json](./81407-legie.json) |
@@ -4256,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
 | Limb.Inc | 381275 | [381275-limb-inc.json](./381275-limb-inc.json) |
 | Limberjack | 32123 | [32123-limberjack.json](./32123-limberjack.json) |
+| Limbo | 395367 | [395367-limbo.json](./395367-limbo.json) |
 | Limbo 64 | 109488 | [109488-limbo-64.json](./109488-limbo-64.json) |
 | Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
 | Limbo of the Lost | 50390 | [50390-limbo-of-the-lost.json](./50390-limbo-of-the-lost.json) |
@@ -7825,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
 | Luigi's Adventure OSE | 276786 | [276786-luigis-adventure-ose.json](./276786-luigis-adventure-ose.json) |
 | Luigi's Boo Hunt | 352300 | [352300-luigis-boo-hunt.json](./352300-luigis-boo-hunt.json) |
+| Luigi's Cursed Fortune | 395362 | [395362-luigis-cursed-fortune.json](./395362-luigis-cursed-fortune.json) |
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
 | Luigi's Game | 318029 | [318029-luigis-game.json](./318029-luigis-game.json) |
 | Luigi's Lost Levels | 314099 | [314099-luigis-lost-levels.json](./314099-luigis-lost-levels.json) |
