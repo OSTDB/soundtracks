@@ -5713,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cages: Pro Style Batting Practice | 51038 | [51038-the-cages-pro-style-batting-practice.json](./51038-the-cages-pro-style-batting-practice.json) |
 | The Caiysware Collection | 53709 | [53709-the-caiysware-collection.json](./53709-the-caiysware-collection.json) |
 | The Cake is Alive | 330811 | [330811-the-cake-is-alive.json](./330811-the-cake-is-alive.json) |
+| The Cake Mistake | 422689 | [422689-the-cake-mistake.json](./422689-the-cake-mistake.json) |
 | The Cakeman | 274493 | [274493-the-cakeman.json](./274493-the-cakeman.json) |
 | The Caldecott Caper | 305872 | [305872-the-caldecott-caper.json](./305872-the-caldecott-caper.json) |
 | The California Raisins | 73306 | [73306-the-california-raisins.json](./73306-the-california-raisins.json) |
@@ -11469,6 +11470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mountain | 372538 | [372538-the-mountain.json](./372538-the-mountain.json) |
 | The Mountain Hunting | 152757 | [152757-the-mountain-hunting.json](./152757-the-mountain-hunting.json) |
 | The Mountain is as It Always Was | 276772 | [276772-the-mountain-is-as-it-always-was.json](./276772-the-mountain-is-as-it-always-was.json) |
+| The Mountain Peak | 422695 | [422695-the-mountain-peak.json](./422695-the-mountain-peak.json) |
 | The Mountaineer | 262440 | [262440-the-mountaineer.json](./262440-the-mountaineer.json) |
 | The Mountaineers | 244713 | [244713-the-mountaineers.json](./244713-the-mountaineers.json) |
 | The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
@@ -11597,6 +11599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12864,6 +12867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Robot Club | 67096 | [67096-the-robot-club.json](./67096-the-robot-club.json) |
 | THE Robot Tsukurou Ze! | 69149 | [69149-the-robot-tsukurou-ze.json](./69149-the-robot-tsukurou-ze.json) |
 | The Roc | 220512 | [220512-the-roc.json](./220512-the-roc.json) |
+| The Roc | 422690 | [422690-the-roc.json](./422690-the-roc.json) |
 | The Rock | 308461 | [308461-the-rock.json](./308461-the-rock.json) |
 | The Rock | 308462 | [308462-the-rock.json](./308462-the-rock.json) |
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
@@ -14988,6 +14992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
 | The Ultimate Heist | 76928 | [76928-the-ultimate-heist.json](./76928-the-ultimate-heist.json) |
 | The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G | 82811 | [82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json](./82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json) |
+| The Ultimate Idiot | 422658 | [422658-the-ultimate-idiot.json](./422658-the-ultimate-idiot.json) |
 | The Ultimate Math Teaching Game | 304435 | [304435-the-ultimate-math-teaching-game.json](./304435-the-ultimate-math-teaching-game.json) |
 | The Ultimate Might and Magic Archives | 206778 | [206778-the-ultimate-might-and-magic-archives.json](./206778-the-ultimate-might-and-magic-archives.json) |
 | The Ultimate Nerd Game | 182086 | [182086-the-ultimate-nerd-game.json](./182086-the-ultimate-nerd-game.json) |
@@ -19077,6 +19082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
 | Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
+| Tin Coffins | 422683 | [422683-tin-coffins.json](./422683-tin-coffins.json) |
 | Tin Hearts | 111090 | [111090-tin-hearts.json](./111090-tin-hearts.json) |
 | Tin Knight | 240093 | [240093-tin-knight.json](./240093-tin-knight.json) |
 | Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
