@@ -6632,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Under The Water | 403421 | [403421-pixel-paint-under-the-water.json](./403421-pixel-paint-under-the-water.json) |
 | Pixel Painter Story | 58618 | [58618-pixel-painter-story.json](./58618-pixel-painter-story.json) |
 | Pixel Panic | 285902 | [285902-pixel-panic.json](./285902-pixel-panic.json) |
+| Pixel People | 22178 | [22178-pixel-people.json](./22178-pixel-people.json) |
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
 | Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
 | Pixel Petz | 140428 | [140428-pixel-petz.json](./140428-pixel-petz.json) |
@@ -10181,6 +10182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooyan | 4618 | [4618-pooyan.json](./4618-pooyan.json) |
 | Poozle Mania | 224974 | [224974-poozle-mania.json](./224974-poozle-mania.json) |
 | Pop | 21828 | [21828-pop.json](./21828-pop.json) |
+| Pop 'Em Drop 'Em SameGame | 21180 | [21180-pop-em-drop-em-samegame.json](./21180-pop-em-drop-em-samegame.json) |
 | Pop 'n Magic | 37582 | [37582-pop-n-magic.json](./37582-pop-n-magic.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
@@ -11560,6 +11562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pricolage: Idolized | 260237 | [260237-pricolage-idolized.json](./260237-pricolage-idolized.json) |
 | Priconne! Grand Masters | 196523 | [196523-priconne-grand-masters.json](./196523-priconne-grand-masters.json) |
 | Pride | 181737 | [181737-pride.json](./181737-pride.json) |
+| Pride and Prejudice | 22177 | [22177-pride-and-prejudice.json](./22177-pride-and-prejudice.json) |
 | Pride and Prejudice: Blood Ties | 192776 | [192776-pride-and-prejudice-blood-ties.json](./192776-pride-and-prejudice-blood-ties.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
 | Pride GP Grand Prix 2003 | 67048 | [67048-pride-gp-grand-prix-2003.json](./67048-pride-gp-grand-prix-2003.json) |
