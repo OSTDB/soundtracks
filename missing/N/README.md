@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Run | 372468 | [372468-next-run.json](./372468-next-run.json) |
 | Next Space Rebels | 152256 | [152256-next-space-rebels.json](./152256-next-space-rebels.json) |
 | Next Star System | 194288 | [194288-next-star-system.json](./194288-next-star-system.json) |
+| Next Station | 405763 | [405763-next-station.json](./405763-next-station.json) |
 | Next Station: Jianghu | 188403 | [188403-next-station-jianghu.json](./188403-next-station-jianghu.json) |
 | Next Station: Zombies | 255278 | [255278-next-station-zombies.json](./255278-next-station-zombies.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
@@ -4824,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Buttons | 100695 | [100695-no-more-buttons.json](./100695-no-more-buttons.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
 | No More Deep | 346395 | [346395-no-more-deep.json](./346395-no-more-deep.json) |
+| No More Demon | 405755 | [405755-no-more-demon.json](./405755-no-more-demon.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
 | No More Heroes | 377191 | [377191-no-more-heroes.json](./377191-no-more-heroes.json) |
 | No More Heroes 1 & 2 | 175207 | [175207-no-more-heroes-1-and-2.json](./175207-no-more-heroes-1-and-2.json) |
