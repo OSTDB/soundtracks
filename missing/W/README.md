@@ -3275,7 +3275,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3911,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Dunit | 40552 | [40552-who-dunit.json](./40552-who-dunit.json) |
 | Who Framed Roger Rabbit | 72470 | [72470-who-framed-roger-rabbit.json](./72470-who-framed-roger-rabbit.json) |
 | Who Framed Roger Rabbit | 75692 | [75692-who-framed-roger-rabbit.json](./75692-who-framed-roger-rabbit.json) |
+| Who Gave Them Weapons | 418853 | [418853-who-gave-them-weapons.json](./418853-who-gave-them-weapons.json) |
 | Who Has the Biggest Brain? | 182214 | [182214-who-has-the-biggest-brain.json](./182214-who-has-the-biggest-brain.json) |
 | Who I Am | 386415 | [386415-who-i-am.json](./386415-who-i-am.json) |
 | Who I See | 236810 | [236810-who-i-see.json](./236810-who-i-see.json) |
@@ -4431,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
 | Wildhollow | 25496 | [25496-wildhollow.json](./25496-wildhollow.json) |
 | WildIsland | 129038 | [129038-wildisland.json](./129038-wildisland.json) |
+| Wildixir | 418845 | [418845-wildixir.json](./418845-wildixir.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
 | WildKids | 113560 | [113560-wildkids.json](./113560-wildkids.json) |
 | Wildland | 120831 | [120831-wildland.json](./120831-wildland.json) |
@@ -4796,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Destiny | 15484 | [15484-wings-of-destiny.json](./15484-wings-of-destiny.json) |
 | Wings of Duty | 174771 | [174771-wings-of-duty.json](./174771-wings-of-duty.json) |
 | Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
+| Wings of Fire | 418877 | [418877-wings-of-fire.json](./418877-wings-of-fire.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Horus | 415980 | [415980-wings-of-horus.json](./415980-wings-of-horus.json) |
