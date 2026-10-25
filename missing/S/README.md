@@ -10736,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep | 160280 | [160280-sleep.json](./160280-sleep.json) |
 | Sleep Aid | 414413 | [414413-sleep-aid.json](./414413-sleep-aid.json) |
 | Sleep and Girls | 365272 | [365272-sleep-and-girls.json](./365272-sleep-and-girls.json) |
+| Sleep Attack | 35374 | [35374-sleep-attack.json](./35374-sleep-attack.json) |
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
 | Sleep Cycles | 144742 | [144742-sleep-cycles.json](./144742-sleep-cycles.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
@@ -15903,6 +15904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Impact | 282457 | [282457-space-impact.json](./282457-space-impact.json) |
 | Space Impact Glitch | 29762 | [29762-space-impact-glitch.json](./29762-space-impact-glitch.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
+| Space Impossible | 34246 | [34246-space-impossible.json](./34246-space-impossible.json) |
 | Space Inc | 190878 | [190878-space-inc.json](./190878-space-inc.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
 | Space Industry | 415263 | [415263-space-industry.json](./415263-space-industry.json) |
@@ -16541,6 +16543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceman in Space | 171781 | [171781-spaceman-in-space.json](./171781-spaceman-in-space.json) |
 | Spaceman Memories | 250972 | [250972-spaceman-memories.json](./250972-spaceman-memories.json) |
 | Spaceman Sid | 330888 | [330888-spaceman-sid.json](./330888-spaceman-sid.json) |
+| Spaceman Sparkles 2 | 35364 | [35364-spaceman-sparkles-2.json](./35364-spaceman-sparkles-2.json) |
 | Spaceman Sparkles 3 | 33242 | [33242-spaceman-sparkles-3.json](./33242-spaceman-sparkles-3.json) |
 | Spaceman Splorf: Planet of Doom | 58497 | [58497-spaceman-splorf-planet-of-doom.json](./58497-spaceman-splorf-planet-of-doom.json) |
 | Spaceman Wakes Up In A New World, The Government Has Been Experimenting On People On the Moon and Created Crazy Vine Monsters | 322081 | [322081-spaceman-wakes-up-in-a-new-world-the-government-has-been-experimenting-on-people-on-the-moon-and-created-crazy-vine-monsters.json](./322081-spaceman-wakes-up-in-a-new-world-the-government-has-been-experimenting-on-people-on-the-moon-and-created-crazy-vine-monsters.json) |
@@ -20227,6 +20230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcatcher | 348208 | [348208-starcatcher.json](./348208-starcatcher.json) |
 | Starcatcher | 86630 | [86630-starcatcher.json](./86630-starcatcher.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
+| Starchaser: Priestess of the Night Sky | 35363 | [35363-starchaser-priestess-of-the-night-sky.json](./35363-starchaser-priestess-of-the-night-sky.json) |
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
@@ -28317,6 +28321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapmeat | 304473 | [304473-swapmeat.json](./304473-swapmeat.json) |
 | Swapologic | 233517 | [233517-swapologic.json](./233517-swapologic.json) |
 | SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
+| Swapperoo | 34274 | [34274-swapperoo.json](./34274-swapperoo.json) |
 | SwapPics: Knights vs Demons | 272914 | [272914-swappics-knights-vs-demons.json](./272914-swappics-knights-vs-demons.json) |
 | Swappy World | 276973 | [276973-swappy-world.json](./276973-swappy-world.json) |
 | SwapQuest | 23483 | [23483-swapquest.json](./23483-swapquest.json) |
