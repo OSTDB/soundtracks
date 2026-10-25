@@ -12961,6 +12961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Superstars | 39603 | [39603-astra-superstars.json](./39603-astra-superstars.json) |
 | Astra Vortex | 370906 | [370906-astra-vortex.json](./370906-astra-vortex.json) |
 | Astra Wing | 384825 | [384825-astra-wing.json](./384825-astra-wing.json) |
+| Astra: Ardent Show | 395947 | [395947-astra-ardent-show.json](./395947-astra-ardent-show.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astra's Garden | 234543 | [234543-astras-garden.json](./234543-astras-garden.json) |
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
@@ -14189,6 +14190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurum Online | 158968 | [158968-aurum-online.json](./158968-aurum-online.json) |
 | Auryn Quest | 94591 | [94591-auryn-quest.json](./94591-auryn-quest.json) |
 | Ausbruch | 271943 | [271943-ausbruch.json](./271943-ausbruch.json) |
+| Ausencia de Color | 395956 | [395956-ausencia-de-color.json](./395956-ausencia-de-color.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Joker Poker | 14276 | [14276-aussie-joker-poker.json](./14276-aussie-joker-poker.json) |
 | Aussie Rules Footy | 9107 | [9107-aussie-rules-footy.json](./9107-aussie-rules-footy.json) |
