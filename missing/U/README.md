@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up | 230362 | [230362-up.json](./230362-up.json) |
 | Up | 360706 | [360706-up.json](./360706-up.json) |
 | Up | 5254 | [5254-up.json](./5254-up.json) |
+| Up ' N ' Up: Mountain Express | 400846 | [400846-up-n-up-mountain-express.json](./400846-up-n-up-mountain-express.json) |
 | Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
 | UP 9 - Hexa Puzzle! | 100653 | [100653-up-9-hexa-puzzle.json](./100653-up-9-hexa-puzzle.json) |
