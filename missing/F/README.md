@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me Billy | 125264 | [125264-feed-me-billy.json](./125264-feed-me-billy.json) |
 | Feed Me Billy | 320267 | [320267-feed-me-billy.json](./320267-feed-me-billy.json) |
 | Feed Me More Brains | 410907 | [410907-feed-me-more-brains.json](./410907-feed-me-more-brains.json) |
+| Feed Me Now! | 387409 | [387409-feed-me-now.json](./387409-feed-me-now.json) |
 | Feed Me Oil 2 | 39207 | [39207-feed-me-oil-2.json](./39207-feed-me-oil-2.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed My Alien | 60629 | [60629-feed-my-alien.json](./60629-feed-my-alien.json) |
@@ -6150,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
 | Flash Diving | 290609 | [290609-flash-diving.json](./290609-flash-diving.json) |
 | Flash Doll | 326178 | [326178-flash-doll.json](./326178-flash-doll.json) |
+| Flash Element TD | 387290 | [387290-flash-element-td.json](./387290-flash-element-td.json) |
 | Flash Flash Revolution | 62802 | [62802-flash-flash-revolution.json](./62802-flash-flash-revolution.json) |
 | Flash Flood | 94405 | [94405-flash-flood.json](./94405-flash-flood.json) |
 | Flash Focus: Vision Training in Minutes a Day | 21912 | [21912-flash-focus-vision-training-in-minutes-a-day.json](./21912-flash-focus-vision-training-in-minutes-a-day.json) |
@@ -9405,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freckles | 318875 | [318875-freckles.json](./318875-freckles.json) |
 | Fred | 25841 | [25841-fred.json](./25841-fred.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
+| Fred and Jeff: The Atomic Sulfate | 387396 | [387396-fred-and-jeff-the-atomic-sulfate.json](./387396-fred-and-jeff-the-atomic-sulfate.json) |
 | Fred Figglehorn | 261966 | [261966-fred-figglehorn.json](./261966-fred-figglehorn.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
