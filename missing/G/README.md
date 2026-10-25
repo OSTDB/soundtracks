@@ -5998,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Banana | 375451 | [375451-gorilla-banana.json](./375451-gorilla-banana.json) |
 | Gorilla Cop | 392725 | [392725-gorilla-cop.json](./392725-gorilla-cop.json) |
 | Gorilla Online! | 188402 | [188402-gorilla-online.json](./188402-gorilla-online.json) |
+| Gorilla Showdown | 396646 | [396646-gorilla-showdown.json](./396646-gorilla-showdown.json) |
 | Gorilla Simulator | 396017 | [396017-gorilla-simulator.json](./396017-gorilla-simulator.json) |
 | Gorilla Slot Infinity | 326704 | [326704-gorilla-slot-infinity.json](./326704-gorilla-slot-infinity.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
@@ -7775,6 +7776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimscape | 185959 | [185959-grimscape.json](./185959-grimscape.json) |
 | Grimsfield | 21638 | [21638-grimsfield.json](./21638-grimsfield.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
+| Grimshaw's Blotto | 396636 | [396636-grimshaws-blotto.json](./396636-grimshaws-blotto.json) |
 | Grimshire | 284411 | [284411-grimshire.json](./284411-grimshire.json) |
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimsonland | 112765 | [112765-grimsonland.json](./112765-grimsonland.json) |
