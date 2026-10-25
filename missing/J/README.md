@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Shot | 46858 | [46858-jump-shot.json](./46858-jump-shot.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
 | Jump Soul | 130035 | [130035-jump-soul.json](./130035-jump-soul.json) |
+| Jump Space Joyride | 403949 | [403949-jump-space-joyride.json](./403949-jump-space-joyride.json) |
 | Jump Squad | 218412 | [218412-jump-squad.json](./218412-jump-squad.json) |
 | Jump Squared | 176681 | [176681-jump-squared.json](./176681-jump-squared.json) |
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
