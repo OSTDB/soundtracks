@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Strike | 147759 | [147759-ace-strike.json](./147759-ace-strike.json) |
 | Ace Tennis 64 | 180516 | [180516-ace-tennis-64.json](./180516-ace-tennis-64.json) |
 | Ace the Space-Case | 76194 | [76194-ace-the-space-case.json](./76194-ace-the-space-case.json) |
+| Ace Thunder: Aircraft Wingman Simulator | 399610 | [399610-ace-thunder-aircraft-wingman-simulator.json](./399610-ace-thunder-aircraft-wingman-simulator.json) |
 | Ace Triad | 283890 | [283890-ace-triad.json](./283890-ace-triad.json) |
 | Ace Ventura | 4586 | [4586-ace-ventura.json](./4586-ace-ventura.json) |
 | Ace Ventura: Pet Detective | 218423 | [218423-ace-ventura-pet-detective.json](./218423-ace-ventura-pet-detective.json) |
@@ -3030,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4041,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha! Art na Machigai-sagashi | 251512 | [251512-aha-art-na-machigai-sagashi.json](./251512-aha-art-na-machigai-sagashi.json) |
 | Aha! I Found It! Hidden Object Game | 51099 | [51099-aha-i-found-it-hidden-object-game.json](./51099-aha-i-found-it-hidden-object-game.json) |
 | Aha! I Got It! Escape Game | 51098 | [51098-aha-i-got-it-escape-game.json](./51098-aha-i-got-it-escape-game.json) |
+| Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
 | Ahapika: Heroic Agency | 333057 | [333057-ahapika-heroic-agency.json](./333057-ahapika-heroic-agency.json) |
 | Ahead | 161704 | [161704-ahead.json](./161704-ahead.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
@@ -6166,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost My Floor: Duality | 210905 | [210905-almost-my-floor-duality.json](./210905-almost-my-floor-duality.json) |
 | Almost My Floor: Halloween Party | 196131 | [196131-almost-my-floor-halloween-party.json](./196131-almost-my-floor-halloween-party.json) |
 | Almost Nearly Borderline Perfect | 402119 | [402119-almost-nearly-borderline-perfect.json](./402119-almost-nearly-borderline-perfect.json) |
+| Almost Out of Mana | 399583 | [399583-almost-out-of-mana.json](./399583-almost-out-of-mana.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
 | Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
