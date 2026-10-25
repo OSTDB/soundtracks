@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
+| A Kappa's Trail | 66681 | [66681-a-kappas-trail.json](./66681-a-kappas-trail.json) |
 | A Killer Chat! Christmas | 370876 | [370876-a-killer-chat-christmas.json](./370876-a-killer-chat-christmas.json) |
 | A Killer's Dream | 91625 | [91625-a-killers-dream.json](./91625-a-killers-dream.json) |
 | A Killer's Sorrow | 110926 | [110926-a-killers-sorrow.json](./110926-a-killers-sorrow.json) |
@@ -2125,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
 | Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
 | Achar Chronicles: Oblitus | 58068 | [58068-achar-chronicles-oblitus.json](./58068-achar-chronicles-oblitus.json) |
+| AchBall | 75432 | [75432-achball.json](./75432-achball.json) |
 | Acheron | 154386 | [154386-acheron.json](./154386-acheron.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Acheton | 2296 | [2296-acheton.json](./2296-acheton.json) |
@@ -2300,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Adventure Bundle | 125128 | [125128-action-adventure-bundle.json](./125128-action-adventure-bundle.json) |
 | Action Alien | 34934 | [34934-action-alien.json](./34934-action-alien.json) |
 | Action Alien : Prelude | 81907 | [81907-action-alien-prelude.json](./81907-action-alien-prelude.json) |
+| Action Arcade Wrestling | 61145 | [61145-action-arcade-wrestling.json](./61145-action-arcade-wrestling.json) |
 | Action Arcade Wrestling | 62516 | [62516-action-arcade-wrestling.json](./62516-action-arcade-wrestling.json) |
 | Action Arcade Wrestling 2 | 62515 | [62515-action-arcade-wrestling-2.json](./62515-action-arcade-wrestling-2.json) |
 | Action Ball | 71933 | [71933-action-ball.json](./71933-action-ball.json) |
@@ -4018,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
+| AI Dummy | 75434 | [75434-ai-dummy.json](./75434-ai-dummy.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
 | AI Escort | 96421 | [96421-ai-escort.json](./96421-ai-escort.json) |
 | AI Fantasy | 293500 | [293500-ai-fantasy.json](./293500-ai-fantasy.json) |
@@ -13501,6 +13505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis no Puzzle | 230250 | [230250-atlantis-no-puzzle.json](./230250-atlantis-no-puzzle.json) |
 | Atlantis Odyssey | 320345 | [320345-atlantis-odyssey.json](./320345-atlantis-odyssey.json) |
 | Atlantis Quest | 73744 | [73744-atlantis-quest.json](./73744-atlantis-quest.json) |
+| Atlantis VR | 75328 | [75328-atlantis-vr.json](./75328-atlantis-vr.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlantis: Coral Quest | 205895 | [205895-atlantis-coral-quest.json](./205895-atlantis-coral-quest.json) |
 | Atlantis: Evolution | 19446 | [19446-atlantis-evolution.json](./19446-atlantis-evolution.json) |
