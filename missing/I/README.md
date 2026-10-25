@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuminati Online | 304837 | [304837-illuminati-online.json](./304837-illuminati-online.json) |
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
 | Illuminati Tycoon | 184859 | [184859-illuminati-tycoon.json](./184859-illuminati-tycoon.json) |
+| Illuminati Wars MLG Edition | 397735 | [397735-illuminati-wars-mlg-edition.json](./397735-illuminati-wars-mlg-edition.json) |
 | Illumination | 292940 | [292940-illumination.json](./292940-illumination.json) |
 | Illumination Laser | 280690 | [280690-illumination-laser.json](./280690-illumination-laser.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
