@@ -4261,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Core | 118429 | [118429-into-the-core.json](./118429-into-the-core.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
 | Into the Crypt | 212129 | [212129-into-the-crypt.json](./212129-into-the-crypt.json) |
+| Into the Crypt | 395983 | [395983-into-the-crypt.json](./395983-into-the-crypt.json) |
 | Into the Cthulhu Mythology | 187848 | [187848-into-the-cthulhu-mythology.json](./187848-into-the-cthulhu-mythology.json) |
 | Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
 | Into the Dark | 229514 | [229514-into-the-dark.json](./229514-into-the-dark.json) |
