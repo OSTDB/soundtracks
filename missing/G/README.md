@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
+| Galactic Seals Survivors | 398169 | [398169-galactic-seals-survivors.json](./398169-galactic-seals-survivors.json) |
 | Galactic Shipwright | 75399 | [75399-galactic-shipwright.json](./75399-galactic-shipwright.json) |
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
 | Galactic Simulator2: Stargate | 344539 | [344539-galactic-simulator2-stargate.json](./344539-galactic-simulator2-stargate.json) |
@@ -3616,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Kagekidan | 121391 | [121391-ginga-kagekidan.json](./121391-ginga-kagekidan.json) |
 | Ginga no San-nin | 48503 | [48503-ginga-no-san-nin.json](./48503-ginga-no-san-nin.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
+| Ginga Tetsudou no Tabi | 398408 | [398408-ginga-tetsudou-no-tabi.json](./398408-ginga-tetsudou-no-tabi.json) |
 | Gingar Ail | 295847 | [295847-gingar-ail.json](./295847-gingar-ail.json) |
 | Ginger | 328946 | [328946-ginger.json](./328946-ginger.json) |
 | Ginger Rangers | 120233 | [120233-ginger-rangers.json](./120233-ginger-rangers.json) |
