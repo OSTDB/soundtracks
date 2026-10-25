@@ -3966,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris | 52017 | [52017-debris.json](./52017-debris.json) |
 | Debris II | 151855 | [151855-debris-ii.json](./151855-debris-ii.json) |
 | Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
+| Debris Zone | 409355 | [409355-debris-zone.json](./409355-debris-zone.json) |
 | Debrisverse | 408000 | [408000-debrisverse.json](./408000-debrisverse.json) |
 | Debrysis - an Awesome Badtrip | 30498 | [30498-debrysis-an-awesome-badtrip.json](./30498-debrysis-an-awesome-badtrip.json) |
 | Debt | 192816 | [192816-debt.json](./192816-debt.json) |
@@ -13103,6 +13104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Prisoner | 70294 | [70294-dream-prisoner.json](./70294-dream-prisoner.json) |
 | Dream Quest | 30475 | [30475-dream-quest.json](./30475-dream-quest.json) |
 | Dream Quest: Knight and Princess | 225555 | [225555-dream-quest-knight-and-princess.json](./225555-dream-quest-knight-and-princess.json) |
+| Dream Racer 2 | 409338 | [409338-dream-racer-2.json](./409338-dream-racer-2.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
 | Dream Raiders | 62637 | [62637-dream-raiders.json](./62637-dream-raiders.json) |
 | Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
