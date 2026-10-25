@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflec Beat Limelight | 76462 | [76462-reflec-beat-limelight.json](./76462-reflec-beat-limelight.json) |
 | Reflec Beat Volzza | 369138 | [369138-reflec-beat-volzza.json](./369138-reflec-beat-volzza.json) |
 | Reflec Beat: The Reflesia of Eternity | 140455 | [140455-reflec-beat-the-reflesia-of-eternity.json](./140455-reflec-beat-the-reflesia-of-eternity.json) |
+| Reflect Laser | 399670 | [399670-reflect-laser.json](./399670-reflect-laser.json) |
 | Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
 | Reflect-on | 157569 | [157569-reflect-on.json](./157569-reflect-on.json) |
 | Reflected | 163398 | [163398-reflected.json](./163398-reflected.json) |
@@ -3642,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection Witch | 272257 | [272257-reflection-witch.json](./272257-reflection-witch.json) |
 | Reflection: Puzzle Game | 88170 | [88170-reflection-puzzle-game.json](./88170-reflection-puzzle-game.json) |
 | Reflection: The Greed | 211712 | [211712-reflection-the-greed.json](./211712-reflection-the-greed.json) |
+| Reflections in Amber | 399672 | [399672-reflections-in-amber.json](./399672-reflections-in-amber.json) |
 | Reflections Life: Equilibrium | 106451 | [106451-reflections-life-equilibrium.json](./106451-reflections-life-equilibrium.json) |
 | Reflections of Life: Call of the Ancestors | 187954 | [187954-reflections-of-life-call-of-the-ancestors.json](./187954-reflections-of-life-call-of-the-ancestors.json) |
 | Reflections of Life: Call of the Ancestors - Collector's Edition | 362827 | [362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json](./362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json) |
