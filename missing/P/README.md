@@ -4444,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom: Phantom of Inferno | 242388 | [242388-phantom-phantom-of-inferno.json](./242388-phantom-phantom-of-inferno.json) |
 | Phantom: Phantom of Inferno - Nitro Archive | 413191 | [413191-phantom-phantom-of-inferno-nitro-archive.json](./413191-phantom-phantom-of-inferno-nitro-archive.json) |
 | Phantom's Call | 262858 | [262858-phantoms-call.json](./262858-phantoms-call.json) |
+| Phantom's Hour | 407387 | [407387-phantoms-hour.json](./407387-phantoms-hour.json) |
 | Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
 | Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
 | Phantomphobia: Yijie | 331945 | [331945-phantomphobia-yijie.json](./331945-phantomphobia-yijie.json) |
@@ -10145,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
 | Pool | 91205 | [91205-pool.json](./91205-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
+| Pool & Snooker Fever: 2 in 1 Bundle - Legendary Edition | 407107 | [407107-pool-and-snooker-fever-2-in-1-bundle-legendary-edition.json](./407107-pool-and-snooker-fever-2-in-1-bundle-legendary-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Superior Edition | 413572 | [413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json](./413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle Upgrade Edition | 397886 | [397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json](./397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json) |
@@ -12013,6 +12015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princesses Never Lose! | 117701 | [117701-princesses-never-lose.json](./117701-princesses-never-lose.json) |
 | PrincessGuardians | 114563 | [114563-princessguardians.json](./114563-princessguardians.json) |
 | PrincessGuardiansParodyH | 118343 | [118343-princessguardiansparodyh.json](./118343-princessguardiansparodyh.json) |
+| Principia | 407911 | [407911-principia.json](./407911-principia.json) |
 | Principia: Master of Science | 32826 | [32826-principia-master-of-science.json](./32826-principia-master-of-science.json) |
 | Principle of Karma | 201447 | [201447-principle-of-karma.json](./201447-principle-of-karma.json) |
 | Pringles | 45559 | [45559-pringles.json](./45559-pringles.json) |
