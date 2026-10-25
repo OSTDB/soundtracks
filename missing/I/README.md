@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iGrow Game | 21986 | [21986-igrow-game.json](./21986-igrow-game.json) |
 | IGS Classic Arcade Collection | 245916 | [245916-igs-classic-arcade-collection.json](./245916-igs-classic-arcade-collection.json) |
 | IGT Aztec Temple | 25064 | [25064-igt-aztec-temple.json](./25064-igt-aztec-temple.json) |
+| IGT Slots Kitty Glitter | 87322 | [87322-igt-slots-kitty-glitter.json](./87322-igt-slots-kitty-glitter.json) |
 | IGT Slots Paradise Garden | 17793 | [17793-igt-slots-paradise-garden.json](./17793-igt-slots-paradise-garden.json) |
 | IguaRPG | 242410 | [242410-iguarpg.json](./242410-iguarpg.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
@@ -4822,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Sword: Wizards and Warriors II | 218332 | [218332-iron-sword-wizards-and-warriors-ii.json](./218332-iron-sword-wizards-and-warriors-ii.json) |
 | Iron Tangle Breakout | 352233 | [352233-iron-tangle-breakout.json](./352233-iron-tangle-breakout.json) |
 | Iron Tank: The Invasion of Normandy | 19956 | [19956-iron-tank-the-invasion-of-normandy.json](./19956-iron-tank-the-invasion-of-normandy.json) |
+| Iron Tanks: Battle online | 87297 | [87297-iron-tanks-battle-online.json](./87297-iron-tanks-battle-online.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
 | Iron Trails: Outlaw Pursuit | 322242 | [322242-iron-trails-outlaw-pursuit.json](./322242-iron-trails-outlaw-pursuit.json) |
