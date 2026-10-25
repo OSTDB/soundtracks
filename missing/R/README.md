@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenloft: Stone Prophet | 2504 | [2504-ravenloft-stone-prophet.json](./2504-ravenloft-stone-prophet.json) |
 | Ravenloft: Strahd's Possession | 2508 | [2508-ravenloft-strahds-possession.json](./2508-ravenloft-strahds-possession.json) |
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
+| Ravenmark: Scourge of Estellion | 35354 | [35354-ravenmark-scourge-of-estellion.json](./35354-ravenmark-scourge-of-estellion.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
 | Ravenous | 361635 | [361635-ravenous.json](./361635-ravenous.json) |
 | Ravenous | 377340 | [377340-ravenous.json](./377340-ravenous.json) |
@@ -3483,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
 | Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
+| Redshift Blueshift | 35314 | [35314-redshift-blueshift.json](./35314-redshift-blueshift.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | RedShip | 188968 | [188968-redship.json](./188968-redship.json) |
 | Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
@@ -6495,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
 | Rising Angels: Fates | 60441 | [60441-rising-angels-fates.json](./60441-rising-angels-fates.json) |
 | Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
+| Rising Angels: Hope | 35326 | [35326-rising-angels-hope.json](./35326-rising-angels-hope.json) |
 | Rising Angels: Reborn | 17817 | [17817-rising-angels-reborn.json](./17817-rising-angels-reborn.json) |
 | Rising Angels: The Red Rose | 60424 | [60424-rising-angels-the-red-rose.json](./60424-rising-angels-the-red-rose.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
@@ -8167,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hanafuda | 389638 | [389638-rogue-hanafuda.json](./389638-rogue-hanafuda.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
+| Rogue Harvest | 34280 | [34280-rogue-harvest.json](./34280-rogue-harvest.json) |
 | Rogue Hearts | 88529 | [88529-rogue-hearts.json](./88529-rogue-hearts.json) |
 | Rogue Hearts Dungeon | 43269 | [43269-rogue-hearts-dungeon.json](./43269-rogue-hearts-dungeon.json) |
 | Rogue Heist | 105233 | [105233-rogue-heist.json](./105233-rogue-heist.json) |
@@ -9712,6 +9716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
+| Rugby League Team Manager 2015 | 35315 | [35315-rugby-league-team-manager-2015.json](./35315-rugby-league-team-manager-2015.json) |
 | Rugby League Team Manager 2018 | 68707 | [68707-rugby-league-team-manager-2018.json](./68707-rugby-league-team-manager-2018.json) |
 | Rugby League Team Manager 3 | 128263 | [128263-rugby-league-team-manager-3.json](./128263-rugby-league-team-manager-3.json) |
 | Rugby Nations 15 | 194164 | [194164-rugby-nations-15.json](./194164-rugby-nations-15.json) |
@@ -9865,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Box | 71498 | [71498-rumble-box.json](./71498-rumble-box.json) |
 | Rumble City | 60213 | [60213-rumble-city.json](./60213-rumble-city.json) |
 | Rumble Fighter | 67352 | [67352-rumble-fighter.json](./67352-rumble-fighter.json) |
+| Rumble Fighter: Unleashed | 35531 | [35531-rumble-fighter-unleashed.json](./35531-rumble-fighter-unleashed.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble Hockey | 137866 | [137866-rumble-hockey.json](./137866-rumble-hockey.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
@@ -9993,6 +9999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Pharaoh Run! | 181329 | [181329-run-pharaoh-run.json](./181329-run-pharaoh-run.json) |
 | Run Pizza Run | 275705 | [275705-run-pizza-run.json](./275705-run-pizza-run.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
+| Run Rabbit Run | 34282 | [34282-run-rabbit-run.json](./34282-run-rabbit-run.json) |
 | Run Ralph Run | 158112 | [158112-run-ralph-run.json](./158112-run-ralph-run.json) |
 | Run Ran! Side Scrollers | 270018 | [270018-run-ran-side-scrollers.json](./270018-run-ran-side-scrollers.json) |
 | Run Roll Rumble | 120936 | [120936-run-roll-rumble.json](./120936-run-roll-rumble.json) |
