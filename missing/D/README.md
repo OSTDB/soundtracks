@@ -4708,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deformity | 189854 | [189854-deformity.json](./189854-deformity.json) |
 | Deformuseum | 405485 | [405485-deformuseum.json](./405485-deformuseum.json) |
 | Defrag | 136116 | [136116-defrag.json](./136116-defrag.json) |
+| Defragmented | 33935 | [33935-defragmented.json](./33935-defragmented.json) |
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
 | Deft | 182742 | [182742-deft.json](./182742-deft.json) |
@@ -12503,6 +12504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonMirrored with Hyoga & Magma | 305769 | [305769-dragonmirrored-with-hyoga-and-magma.json](./305769-dragonmirrored-with-hyoga-and-magma.json) |
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
 | Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
+| Dragonpath | 33931 | [33931-dragonpath.json](./33931-dragonpath.json) |
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
@@ -13394,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
 | Drift Go | 211770 | [211770-drift-go.json](./211770-drift-go.json) |
 | Drift Highway: Retro Console Edition | 365855 | [365855-drift-highway-retro-console-edition.json](./365855-drift-highway-retro-console-edition.json) |
+| Drift Horizon Online | 32820 | [32820-drift-horizon-online.json](./32820-drift-horizon-online.json) |
 | Drift Horizon: Racing, Driving & Parking Trial Simulator Games | 219453 | [219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json](./219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json) |
 | Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
 | Drift Island | 243590 | [243590-drift-island.json](./243590-drift-island.json) |
