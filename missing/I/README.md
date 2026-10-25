@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iberia | 298787 | [298787-iberia.json](./298787-iberia.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Ibiza Beach Party | 340341 | [340341-ibiza-beach-party.json](./340341-ibiza-beach-party.json) |
+| Ibiza Madness: Zombie vs. Demons | 406503 | [406503-ibiza-madness-zombie-vs-demons.json](./406503-ibiza-madness-zombie-vs-demons.json) |
 | iBlast Moki | 23256 | [23256-iblast-moki.json](./23256-iblast-moki.json) |
 | iBlast Moki 2 HD | 174235 | [174235-iblast-moki-2-hd.json](./174235-iblast-moki-2-hd.json) |
 | Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
