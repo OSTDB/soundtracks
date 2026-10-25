@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.U.M.B. Ducks | 322425 | [322425-d-u-m-b-ducks.json](./322425-d-u-m-b-ducks.json) |
 | D.U.M.B.E.R. Ducks | 403734 | [403734-d-u-m-b-e-r-ducks.json](./403734-d-u-m-b-e-r-ducks.json) |
 | D.U.N.K.L.E.R | 204876 | [204876-d-u-n-k-l-e-r.json](./204876-d-u-n-k-l-e-r.json) |
+| D.U.S.T. | 35648 | [35648-d-u-s-t.json](./35648-d-u-s-t.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
 | D.W. The Picky Eater | 297896 | [297896-d-w-the-picky-eater.json](./297896-d-w-the-picky-eater.json) |
 | D.W.'s Nightmare | 248212 | [248212-d-w-s-nightmare.json](./248212-d-w-s-nightmare.json) |
@@ -515,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
 | Damn Ropes | 146622 | [146622-damn-ropes.json](./146622-damn-ropes.json) |
+| Damn virgins | 35537 | [35537-damn-virgins.json](./35537-damn-virgins.json) |
 | Damn, what was yesterday? | 157919 | [157919-damn-what-was-yesterday.json](./157919-damn-what-was-yesterday.json) |
 | Damnation | 6952 | [6952-damnation.json](./6952-damnation.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
@@ -2842,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Estate: Home Theater | 366968 | [366968-dead-estate-home-theater.json](./366968-dead-estate-home-theater.json) |
 | Dead Event | 177035 | [177035-dead-event.json](./177035-dead-event.json) |
 | Dead Exhale | 357444 | [357444-dead-exhale.json](./357444-dead-exhale.json) |
+| Dead Exit | 38755 | [38755-dead-exit.json](./38755-dead-exit.json) |
 | Dead Exodus | 421203 | [421203-dead-exodus.json](./421203-dead-exodus.json) |
 | Dead Exposure | 379698 | [379698-dead-exposure.json](./379698-dead-exposure.json) |
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
@@ -4023,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Battles of WWII: Korsun Pocket | 768 | [768-decisive-battles-of-wwii-korsun-pocket.json](./768-decisive-battles-of-wwii-korsun-pocket.json) |
 | Decisive Campaigns: Ardennes Offensive | 143427 | [143427-decisive-campaigns-ardennes-offensive.json](./143427-decisive-campaigns-ardennes-offensive.json) |
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
+| Decisive Campaigns: Case Blue | 35666 | [35666-decisive-campaigns-case-blue.json](./35666-decisive-campaigns-case-blue.json) |
 | Decisive Strike | 199812 | [199812-decisive-strike.json](./199812-decisive-strike.json) |
 | Deck 'Em! | 236650 | [236650-deck-em.json](./236650-deck-em.json) |
 | Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
@@ -5586,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depthscraper | 183890 | [183890-depthscraper.json](./183890-depthscraper.json) |
 | Deputinization | 219240 | [219240-deputinization.json](./219240-deputinization.json) |
 | Deputy Arsh | 329192 | [329192-deputy-arsh.json](./329192-deputy-arsh.json) |
+| Deputy Dangle | 35615 | [35615-deputy-dangle.json](./35615-deputy-dangle.json) |
 | Deputy Den | 346751 | [346751-deputy-den.json](./346751-deputy-den.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | DeQuoter | 83457 | [83457-dequoter.json](./83457-dequoter.json) |
@@ -5795,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Kingdom Portable: Limited Edition | 44510 | [44510-desert-kingdom-portable-limited-edition.json](./44510-desert-kingdom-portable-limited-edition.json) |
 | Desert Kingdoms | 279497 | [279497-desert-kingdoms.json](./279497-desert-kingdoms.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
+| Desert Law | 35592 | [35592-desert-law.json](./35592-desert-law.json) |
 | Desert Lions | 335459 | [335459-desert-lions.json](./335459-desert-lions.json) |
 | Desert Lost | 202200 | [202200-desert-lost.json](./202200-desert-lost.json) |
 | Desert Magic Adventures | 175771 | [175771-desert-magic-adventures.json](./175771-desert-magic-adventures.json) |
@@ -6433,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Machina Demonbane | 97094 | [97094-deus-machina-demonbane.json](./97094-deus-machina-demonbane.json) |
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
 | Deus Vult | 139763 | [139763-deus-vult.json](./139763-deus-vult.json) |
+| Deus Vult | 38783 | [38783-deus-vult.json](./38783-deus-vult.json) |
 | Deus Vult - Arena | 74266 | [74266-deus-vult-arena.json](./74266-deus-vult-arena.json) |
 | Deus Vult Arena: Fastest 3rd person gameplay ever! | 74264 | [74264-deus-vult-arena-fastest-3rd-person-gameplay-ever.json](./74264-deus-vult-arena-fastest-3rd-person-gameplay-ever.json) |
 | Deus Vult II | 139765 | [139765-deus-vult-ii.json](./139765-deus-vult-ii.json) |
@@ -6659,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devour the Elixir | 390151 | [390151-devour-the-elixir.json](./390151-devour-the-elixir.json) |
 | Devour Them All | 72510 | [72510-devour-them-all.json](./72510-devour-them-all.json) |
 | Devoured Time | 35583 | [35583-devoured-time.json](./35583-devoured-time.json) |
+| Devouring Stars | 35663 | [35663-devouring-stars.json](./35663-devouring-stars.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
 | DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
 | Devwill Too MD | 141061 | [141061-devwill-too-md.json](./141061-devwill-too-md.json) |
@@ -12486,6 +12494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfly II | 97467 | [97467-dragonfly-ii.json](./97467-dragonfly-ii.json) |
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
+| Dragonia | 38788 | [38788-dragonia.json](./38788-dragonia.json) |
 | Dragonica Mama | 335716 | [335716-dragonica-mama.json](./335716-dragonica-mama.json) |
 | Dragonium Adventure | 226673 | [226673-dragonium-adventure.json](./226673-dragonium-adventure.json) |
 | DragonKill3D | 95911 | [95911-dragonkill3d.json](./95911-dragonkill3d.json) |
@@ -13698,6 +13707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
 | Drone Flight Simulator Online | 274379 | [274379-drone-flight-simulator-online.json](./274379-drone-flight-simulator-online.json) |
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
+| Drone Hero | 38750 | [38750-drone-hero.json](./38750-drone-hero.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Operator | 247902 | [247902-drone-operator.json](./247902-drone-operator.json) |
@@ -14608,6 +14618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crawl 94: What Was Taken | 419947 | [419947-dungeon-crawl-94-what-was-taken.json](./419947-dungeon-crawl-94-what-was-taken.json) |
 | Dungeon Crawl Tower Run | 260633 | [260633-dungeon-crawl-tower-run.json](./260633-dungeon-crawl-tower-run.json) |
 | Dungeon Crawler | 191823 | [191823-dungeon-crawler.json](./191823-dungeon-crawler.json) |
+| Dungeon Crawlers HD | 35642 | [35642-dungeon-crawlers-hd.json](./35642-dungeon-crawlers-hd.json) |
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
 | Dungeon Creator | 241999 | [241999-dungeon-creator.json](./241999-dungeon-creator.json) |
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
@@ -14713,6 +14724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hack | 2529 | [2529-dungeon-hack.json](./2529-dungeon-hack.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
 | Dungeon Hero | 18788 | [18788-dungeon-hero.json](./18788-dungeon-hero.json) |
+| Dungeon Highway | 35645 | [35645-dungeon-highway.json](./35645-dungeon-highway.json) |
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
 | Dungeon Hunter | 23258 | [23258-dungeon-hunter.json](./23258-dungeon-hunter.json) |
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
