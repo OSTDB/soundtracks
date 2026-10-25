@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
 | Paws & Claws: Pet School | 29198 | [29198-paws-and-claws-pet-school.json](./29198-paws-and-claws-pet-school.json) |
 | Paws & Clean | 316847 | [316847-paws-and-clean.json](./316847-paws-and-clean.json) |
+| Paws & Clean: Japan | 388539 | [388539-paws-and-clean-japan.json](./388539-paws-and-clean-japan.json) |
 | Paws & Effect: My Dogs Are Human! | 128455 | [128455-paws-and-effect-my-dogs-are-human.json](./128455-paws-and-effect-my-dogs-are-human.json) |
 | Paws & Perils: Out Of This World | 327386 | [327386-paws-and-perils-out-of-this-world.json](./327386-paws-and-perils-out-of-this-world.json) |
 | Paws & Potions | 337301 | [337301-paws-and-potions.json](./337301-paws-and-potions.json) |
@@ -6411,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pistol Whip | 119341 | [119341-pistol-whip.json](./119341-pistol-whip.json) |
 | Pistola | 202750 | [202750-pistola.json](./202750-pistola.json) |
 | Pistols at Dawn | 92502 | [92502-pistols-at-dawn.json](./92502-pistols-at-dawn.json) |
+| Pistonica | 388551 | [388551-pistonica.json](./388551-pistonica.json) |
 | Pit & Run | 40402 | [40402-pit-and-run.json](./40402-pit-and-run.json) |
 | Pit Blocks 3D | 108282 | [108282-pit-blocks-3d.json](./108282-pit-blocks-3d.json) |
 | Pit Crew Panic! | 70650 | [70650-pit-crew-panic.json](./70650-pit-crew-panic.json) |
@@ -7268,6 +7270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
 | Piyokoro | 280072 | [280072-piyokoro.json](./280072-piyokoro.json) |
 | Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
+| PiyoShogi | 388512 | [388512-piyoshogi.json](./388512-piyoshogi.json) |
 | Piyotama | 21882 | [21882-piyotama.json](./21882-piyotama.json) |
 | Pizz'Amore | 304233 | [304233-pizzamore.json](./304233-pizzamore.json) |
 | Pizza Apocalypse | 169748 | [169748-pizza-apocalypse.json](./169748-pizza-apocalypse.json) |
@@ -10040,6 +10043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyjump | 366390 | [366390-polyjump.json](./366390-polyjump.json) |
 | PolyKat | 57028 | [57028-polykat.json](./57028-polykat.json) |
 | Polyko's Super Jelly Bean Quest in the Sketchbook of Illusion | 130777 | [130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json](./130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json) |
+| Polylumina | 388510 | [388510-polylumina.json](./388510-polylumina.json) |
 | Polymaniacs | 183418 | [183418-polymaniacs.json](./183418-polymaniacs.json) |
 | Polymatic | 103624 | [103624-polymatic.json](./103624-polymatic.json) |
 | Polymega Collection Vol. 2: Karate Champ | 324512 | [324512-polymega-collection-vol-2-karate-champ.json](./324512-polymega-collection-vol-2-karate-champ.json) |
@@ -12163,6 +12167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism: Master Tape | 369236 | [369236-prism-master-tape.json](./369236-prism-master-tape.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
 | Prisma Light | 236849 | [236849-prisma-light.json](./236849-prisma-light.json) |
+| Prismarch | 388553 | [388553-prismarch.json](./388553-prismarch.json) |
 | Prismata | 8215 | [8215-prismata.json](./8215-prismata.json) |
 | Prismata: Founder's Edition DLC | 167920 | [167920-prismata-founders-edition-dlc.json](./167920-prismata-founders-edition-dlc.json) |
 | Prismatic Solid | 66305 | [66305-prismatic-solid.json](./66305-prismatic-solid.json) |
