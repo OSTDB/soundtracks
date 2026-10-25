@@ -4843,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apothecary Diaries Palace Chronicles | 406943 | [406943-the-apothecary-diaries-palace-chronicles.json](./406943-the-apothecary-diaries-palace-chronicles.json) |
 | The Apothecary of Trubiz | 376645 | [376645-the-apothecary-of-trubiz.json](./376645-the-apothecary-of-trubiz.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
+| The Apotheosis Project | 35551 | [35551-the-apotheosis-project.json](./35551-the-apotheosis-project.json) |
 | The Apple Girl | 379969 | [379969-the-apple-girl.json](./379969-the-apple-girl.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
@@ -6413,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Kudan | 131892 | [131892-the-curse-of-kudan.json](./131892-the-curse-of-kudan.json) |
 | The Curse of Mantras | 150965 | [150965-the-curse-of-mantras.json](./150965-the-curse-of-mantras.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
+| The Curse of Nordic Cove | 35544 | [35544-the-curse-of-nordic-cove.json](./35544-the-curse-of-nordic-cove.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of Rabenstein | 231520 | [231520-the-curse-of-rabenstein.json](./231520-the-curse-of-rabenstein.json) |
 | The Curse of Sherwood | 13538 | [13538-the-curse-of-sherwood.json](./13538-the-curse-of-sherwood.json) |
@@ -7218,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Empress Quest: Full Moons Saga | 212840 | [212840-the-empress-quest-full-moons-saga.json](./212840-the-empress-quest-full-moons-saga.json) |
 | The Empress: Awakening | 255851 | [255851-the-empress-awakening.json](./255851-the-empress-awakening.json) |
 | The Emptiness | 139431 | [139431-the-emptiness.json](./139431-the-emptiness.json) |
+| The Emptiness: Deluxe Edition | 35624 | [35624-the-emptiness-deluxe-edition.json](./35624-the-emptiness-deluxe-edition.json) |
 | The Empty Desk | 333612 | [333612-the-empty-desk.json](./333612-the-empty-desk.json) |
 | The Empty Eyes | 385967 | [385967-the-empty-eyes.json](./385967-the-empty-eyes.json) |
 | The Empty House: A Dementia Interactive Experience | 342014 | [342014-the-empty-house-a-dementia-interactive-experience.json](./342014-the-empty-house-a-dementia-interactive-experience.json) |
@@ -7819,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flayed Man | 329396 | [329396-the-flayed-man.json](./329396-the-flayed-man.json) |
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
 | The Flea Evolution: Bugaboo | 189151 | [189151-the-flea-evolution-bugaboo.json](./189151-the-flea-evolution-bugaboo.json) |
+| The Fleet | 38720 | [38720-the-fleet.json](./38720-the-fleet.json) |
 | The Fleets of Sol | 34949 | [34949-the-fleets-of-sol.json](./34949-the-fleets-of-sol.json) |
 | The Flesh God | 74187 | [74187-the-flesh-god.json](./74187-the-flesh-god.json) |
 | The Flick of the Dead | 125152 | [125152-the-flick-of-the-dead.json](./125152-the-flick-of-the-dead.json) |
@@ -8672,6 +8676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero of Bangaona | 173067 | [173067-the-hero-of-bangaona.json](./173067-the-hero-of-bangaona.json) |
 | The Hero of Budgie Island | 134966 | [134966-the-hero-of-budgie-island.json](./134966-the-hero-of-budgie-island.json) |
 | The Hero of Destiny Was Killed by the Final Boss | 386940 | [386940-the-hero-of-destiny-was-killed-by-the-final-boss.json](./386940-the-hero-of-destiny-was-killed-by-the-final-boss.json) |
+| The Hero of Kendrickstone | 35619 | [35619-the-hero-of-kendrickstone.json](./35619-the-hero-of-kendrickstone.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
 | The Hero Project: Open Season | 96193 | [96193-the-hero-project-open-season.json](./96193-the-hero-project-open-season.json) |
 | The Hero Project: Open Season - Prodigal's Database for Powereds | 159595 | [159595-the-hero-project-open-season-prodigals-database-for-powereds.json](./159595-the-hero-project-open-season-prodigals-database-for-powereds.json) |
@@ -11571,6 +11576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
