@@ -3618,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Velocity: Boosted Edition | 236239 | [236239-terminal-velocity-boosted-edition.json](./236239-terminal-velocity-boosted-edition.json) |
 | Terminal Voltage | 279775 | [279775-terminal-voltage.json](./279775-terminal-voltage.json) |
 | Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
+| Terminal War | 403368 | [403368-terminal-war.json](./403368-terminal-war.json) |
 | Terminal22 | 279099 | [279099-terminal22.json](./279099-terminal22.json) |
 | TerminalMaster | 339407 | [339407-terminalmaster.json](./339407-terminalmaster.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
@@ -14128,6 +14129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Still | 373826 | [373826-the-still.json](./373826-the-still.json) |
 | The Stillness of the Wind | 96275 | [96275-the-stillness-of-the-wind.json](./96275-the-stillness-of-the-wind.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
+| The Stinky Adventures of DungDung | 403365 | [403365-the-stinky-adventures-of-dungdung.json](./403365-the-stinky-adventures-of-dungdung.json) |
 | The Stockpile | 253770 | [253770-the-stockpile.json](./253770-the-stockpile.json) |
 | The Stoevi Curse | 247476 | [247476-the-stoevi-curse.json](./247476-the-stoevi-curse.json) |
 | The Stomping Land | 6731 | [6731-the-stomping-land.json](./6731-the-stomping-land.json) |
@@ -17302,6 +17304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tier 1 | 30204 | [30204-tier-1.json](./30204-tier-1.json) |
 | Tierbabys Puzzle: Echter Puzzlespass für Unterwegs | 252658 | [252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json](./252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Tierra | 170906 | [170906-tierra.json](./170906-tierra.json) |
+| Tierra de Gigantes | 403346 | [403346-tierra-de-gigantes.json](./403346-tierra-de-gigantes.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
 | Tierras del Sur | 79074 | [79074-tierras-del-sur.json](./79074-tierras-del-sur.json) |
 | Tierras Perdidas | 147176 | [147176-tierras-perdidas.json](./147176-tierras-perdidas.json) |
@@ -21668,6 +21671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Rigged | 407170 | [407170-totally-rigged.json](./407170-totally-rigged.json) |
 | Totally Safe Jump Enhancement System | 328303 | [328303-totally-safe-jump-enhancement-system.json](./328303-totally-safe-jump-enhancement-system.json) |
+| Totally Safe Moon Project | 403360 | [403360-totally-safe-moon-project.json](./403360-totally-safe-moon-project.json) |
 | Totally Safe Railway Co | 419170 | [419170-totally-safe-railway-co.json](./419170-totally-safe-railway-co.json) |
 | Totally Secure Airport | 389505 | [389505-totally-secure-airport.json](./389505-totally-secure-airport.json) |
 | Totally Smashed | 74304 | [74304-totally-smashed.json](./74304-totally-smashed.json) |
@@ -25873,6 +25877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Tronic | 73163 | [73163-tronic.json](./73163-tronic.json) |
 | Tronika | 58147 | [58147-tronika.json](./58147-tronika.json) |
+| Trooops! | 403325 | [403325-trooops.json](./403325-trooops.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
 | Troopers | 264498 | [264498-troopers.json](./264498-troopers.json) |
@@ -27546,6 +27551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twofer Goofer | 388748 | [388748-twofer-goofer.json](./388748-twofer-goofer.json) |
 | Twofold | 202559 | [202559-twofold.json](./202559-twofold.json) |
 | Twofold Inc. | 80559 | [80559-twofold-inc.json](./80559-twofold-inc.json) |
+| Twofold Tower | 403331 | [403331-twofold-tower.json](./403331-twofold-tower.json) |
 | Twofold: The Perfect Circle Collection | 410214 | [410214-twofold-the-perfect-circle-collection.json](./410214-twofold-the-perfect-circle-collection.json) |
 | Twogether: Project Indigos Chapter 1 | 214054 | [214054-twogether-project-indigos-chapter-1.json](./214054-twogether-project-indigos-chapter-1.json) |
 | TwoKinds Online | 129112 | [129112-twokinds-online.json](./129112-twokinds-online.json) |
