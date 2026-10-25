@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsuyuki Sakura: First Press Limited Edition | 122288 | [122288-hatsuyuki-sakura-first-press-limited-edition.json](./122288-hatsuyuki-sakura-first-press-limited-edition.json) |
 | Hatsuyuki Sakura: White Graduation | 259616 | [259616-hatsuyuki-sakura-white-graduation.json](./259616-hatsuyuki-sakura-white-graduation.json) |
 | Hatter by Night | 420213 | [420213-hatter-by-night.json](./420213-hatter-by-night.json) |
+| Hatters | 391779 | [391779-hatters.json](./391779-hatters.json) |
 | Hattrick | 138665 | [138665-hattrick.json](./138665-hattrick.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | HatTrick Beginnings | 272483 | [272483-hattrick-beginnings.json](./272483-hattrick-beginnings.json) |
@@ -2444,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haymaker | 171900 | [171900-haymaker.json](./171900-haymaker.json) |
 | Haymaker | 60898 | [60898-haymaker.json](./60898-haymaker.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
+| Haypi Monster: The Lost Tower | 392105 | [392105-haypi-monster-the-lost-tower.json](./392105-haypi-monster-the-lost-tower.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Haywire | 400380 | [400380-haywire.json](./400380-haywire.json) |
 | Haywire Hospital | 233639 | [233639-haywire-hospital.json](./233639-haywire-hospital.json) |
@@ -6650,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
+| Hiragana Flashcards | 391533 | [391533-hiragana-flashcards.json](./391533-hiragana-flashcards.json) |
 | Hiragana Hero | 303308 | [303308-hiragana-hero.json](./303308-hiragana-hero.json) |
 | Hiragana Katakana Ninja | 372185 | [372185-hiragana-katakana-ninja.json](./372185-hiragana-katakana-ninja.json) |
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
@@ -7686,6 +7689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestead Arcana | 217635 | [217635-homestead-arcana.json](./217635-homestead-arcana.json) |
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Homesteader | 62660 | [62660-homesteader.json](./62660-homesteader.json) |
+| Homestuck: Strife Project | 392326 | [392326-homestuck-strife-project.json](./392326-homestuck-strife-project.json) |
 | Hometown Farm | 208191 | [208191-hometown-farm.json](./208191-hometown-farm.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
 | Hometown Story | 6808 | [6808-hometown-story.json](./6808-hometown-story.json) |
@@ -7695,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeward Duck | 117589 | [117589-homeward-duck.json](./117589-homeward-duck.json) |
 | Homeward in the Roil | 345596 | [345596-homeward-in-the-roil.json](./345596-homeward-in-the-roil.json) |
 | Homewords | 153947 | [153947-homewords.json](./153947-homewords.json) |
+| Homework | 392325 | [392325-homework.json](./392325-homework.json) |
 | Homework is Crazy | 118334 | [118334-homework-is-crazy.json](./118334-homework-is-crazy.json) |
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
 | Homeworld | 749 | [749-homeworld.json](./749-homeworld.json) |
@@ -8458,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
 | Horton Genetics: Breach | 414260 | [414260-horton-genetics-breach.json](./414260-horton-genetics-breach.json) |
 | Horus Idle | 340485 | [340485-horus-idle.json](./340485-horus-idle.json) |
+| Horus: Desert Survivor | 392097 | [392097-horus-desert-survivor.json](./392097-horus-desert-survivor.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoser | 342601 | [342601-hoser.json](./342601-hoser.json) |
 | Hoser Hockey | 141089 | [141089-hoser-hockey.json](./141089-hoser-hockey.json) |
@@ -10092,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakuretsuken: Hokuto no Ken Gekiuchi 3 | 64183 | [64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json](./64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json) |
 | Hyakusen no Jou ni Kawatareshi Toki | 301362 | [301362-hyakusen-no-jou-ni-kawatareshi-toki.json](./301362-hyakusen-no-jou-ni-kawatareshi-toki.json) |
 | Hyakusen Renma: Kyousha no Sengoku | 216221 | [216221-hyakusen-renma-kyousha-no-sengoku.json](./216221-hyakusen-renma-kyousha-no-sengoku.json) |
+| HyakuTyping | 391552 | [391552-hyakutyping.json](./391552-hyakutyping.json) |
 | Hyas: The Side Effects Within | 301633 | [301633-hyas-the-side-effects-within.json](./301633-hyas-the-side-effects-within.json) |
 | Hybrid | 178464 | [178464-hybrid.json](./178464-hybrid.json) |
 | Hybrid | 21069 | [21069-hybrid.json](./21069-hybrid.json) |
@@ -10512,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnospace Enforcer | 216271 | [216271-hypnospace-enforcer.json](./216271-hypnospace-enforcer.json) |
 | Hypnospace Outlaw | 99071 | [99071-hypnospace-outlaw.json](./99071-hypnospace-outlaw.json) |
 | Hypnospace Outlaw & Slayers X: Terminal Aftermath: Vengance of the Slayer Bundle | 251655 | [251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json](./251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json) |
+| Hypnostasis | 391781 | [391781-hypnostasis.json](./391781-hypnostasis.json) |
 | Hypnotica Quest | 302509 | [302509-hypnotica-quest.json](./302509-hypnotica-quest.json) |
 | Hypogea | 303550 | [303550-hypogea.json](./303550-hypogea.json) |
 | Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
