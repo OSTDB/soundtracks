@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Care of It: Memories | 405443 | [405443-take-care-of-it-memories.json](./405443-take-care-of-it-memories.json) |
 | Take Care of It. | 383121 | [383121-take-care-of-it.json](./383121-take-care-of-it.json) |
 | Take Care of My Heifer | 414421 | [414421-take-care-of-my-heifer.json](./414421-take-care-of-my-heifer.json) |
+| Take Care Of The Cat | 412018 | [412018-take-care-of-the-cat.json](./412018-take-care-of-the-cat.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
@@ -17225,12 +17226,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidewoken | 133334 | [133334-tidewoken.json](./133334-tidewoken.json) |
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
+| Tidy Backpack: In the Faraway Lands | 412003 | [412003-tidy-backpack-in-the-faraway-lands.json](./412003-tidy-backpack-in-the-faraway-lands.json) |
 | Tidy Cauldron | 288613 | [288613-tidy-cauldron.json](./288613-tidy-cauldron.json) |
+| Tidy Mart | 411999 | [411999-tidy-mart.json](./411999-tidy-mart.json) |
+| Tidy Shadows | 412004 | [412004-tidy-shadows.json](./412004-tidy-shadows.json) |
 | Tidy to the Max! | 416345 | [416345-tidy-to-the-max.json](./416345-tidy-to-the-max.json) |
 | Tidy Toys | 364033 | [364033-tidy-toys.json](./364033-tidy-toys.json) |
 | Tidy Up | 406153 | [406153-tidy-up.json](./406153-tidy-up.json) |
+| Tidy Up | 412006 | [412006-tidy-up.json](./412006-tidy-up.json) |
+| Tidy Up History | 412000 | [412000-tidy-up-history.json](./412000-tidy-up-history.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
+| Tidy Wizard: A Place For Every Plate | 411998 | [411998-tidy-wizard-a-place-for-every-plate.json](./411998-tidy-wizard-a-place-for-every-plate.json) |
 | TidyUp 2000 | 418503 | [418503-tidyup-2000.json](./418503-tidyup-2000.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
@@ -22629,6 +22636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
 | Toy Shop Boys | 43195 | [43195-toy-shop-boys.json](./43195-toy-shop-boys.json) |
+| Toy Shop: Tidy Up | 412001 | [412001-toy-shop-tidy-up.json](./412001-toy-shop-tidy-up.json) |
 | Toy Shot | 65330 | [65330-toy-shot.json](./65330-toy-shot.json) |
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
 | Toy soldier: Bastion | 102241 | [102241-toy-soldier-bastion.json](./102241-toy-soldier-bastion.json) |
@@ -24421,6 +24429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TramSim Munich | 165382 | [165382-tramsim-munich.json](./165382-tramsim-munich.json) |
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
+| Trance World | 412007 | [412007-trance-world.json](./412007-trance-world.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
 | Trance, Trauma | 240633 | [240633-trance-trauma.json](./240633-trance-trauma.json) |
 | TranceWave Neo | 304467 | [304467-trancewave-neo.json](./304467-trancewave-neo.json) |
@@ -27048,6 +27057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
 | Twilight City | 315643 | [315643-twilight-city.json](./315643-twilight-city.json) |
 | Twilight City: Love as a Cure | 33875 | [33875-twilight-city-love-as-a-cure.json](./33875-twilight-city-love-as-a-cure.json) |
+| Twilight Code | 411967 | [411967-twilight-code.json](./411967-twilight-code.json) |
 | Twilight Crusade | 227902 | [227902-twilight-crusade.json](./227902-twilight-crusade.json) |
 | Twilight Dream | 364683 | [364683-twilight-dream.json](./364683-twilight-dream.json) |
 | Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
