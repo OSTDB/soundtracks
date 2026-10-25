@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
 | Kadobat Wars | 103257 | [103257-kadobat-wars.json](./103257-kadobat-wars.json) |
 | Kadomon: Hyper Auto Battlers | 215708 | [215708-kadomon-hyper-auto-battlers.json](./215708-kadomon-hyper-auto-battlers.json) |
+| Kaebon | 424691 | [424691-kaebon.json](./424691-kaebon.json) |
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
 | Kaen no Seito | 308878 | [308878-kaen-no-seito.json](./308878-kaen-no-seito.json) |
 | Kaen Seibo: The Virgin on Megiddo | 70269 | [70269-kaen-seibo-the-virgin-on-megiddo.json](./70269-kaen-seibo-the-virgin-on-megiddo.json) |
