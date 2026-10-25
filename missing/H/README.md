@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Monogatari 64 | 3509 | [3509-hamster-monogatari-64.json](./3509-hamster-monogatari-64.json) |
 | Hamster Monogatari Collection | 49589 | [49589-hamster-monogatari-collection.json](./49589-hamster-monogatari-collection.json) |
 | Hamster Monogatari GB + Magi Ham Mahou no Shoujo | 97853 | [97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json](./97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json) |
+| Hamster no Odekake | 387298 | [387298-hamster-no-odekake.json](./387298-hamster-no-odekake.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
 | Hamster Paradise | 228499 | [228499-hamster-paradise.json](./228499-hamster-paradise.json) |
 | Hamster Paradise 2 | 281544 | [281544-hamster-paradise-2.json](./281544-hamster-paradise-2.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Curse of Naxxramas | 21977 | [21977-hearthstone-curse-of-naxxramas.json](./21977-hearthstone-curse-of-naxxramas.json) |
 | Hearthstone: Descent of Dragons | 125176 | [125176-hearthstone-descent-of-dragons.json](./125176-hearthstone-descent-of-dragons.json) |
 | Hearthstone: Descent of Dragons - Galakrond's Awakening | 135706 | [135706-hearthstone-descent-of-dragons-galakronds-awakening.json](./135706-hearthstone-descent-of-dragons-galakronds-awakening.json) |
+| Hearthstone: Festival of Legends | 387391 | [387391-hearthstone-festival-of-legends.json](./387391-hearthstone-festival-of-legends.json) |
 | Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
 | Hearthstone: Goblins vs Gnomes | 21971 | [21971-hearthstone-goblins-vs-gnomes.json](./21971-hearthstone-goblins-vs-gnomes.json) |
@@ -2783,6 +2785,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Knights of the Frozen Throne | 52016 | [52016-hearthstone-knights-of-the-frozen-throne.json](./52016-hearthstone-knights-of-the-frozen-throne.json) |
 | Hearthstone: Kobolds & Catacombs | 76152 | [76152-hearthstone-kobolds-and-catacombs.json](./76152-hearthstone-kobolds-and-catacombs.json) |
 | Hearthstone: Madness at the Darkmoon Faire | 387380 | [387380-hearthstone-madness-at-the-darkmoon-faire.json](./387380-hearthstone-madness-at-the-darkmoon-faire.json) |
+| Hearthstone: March of the Lich King | 387390 | [387390-hearthstone-march-of-the-lich-king.json](./387390-hearthstone-march-of-the-lich-king.json) |
+| Hearthstone: Murder at Castle Nathria | 387387 | [387387-hearthstone-murder-at-castle-nathria.json](./387387-hearthstone-murder-at-castle-nathria.json) |
 | Hearthstone: One Night in Karazhan | 21976 | [21976-hearthstone-one-night-in-karazhan.json](./21976-hearthstone-one-night-in-karazhan.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Hearthstone: Rastakhan's Rumble | 111655 | [111655-hearthstone-rastakhans-rumble.json](./111655-hearthstone-rastakhans-rumble.json) |
@@ -2796,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: The Witchwood | 96374 | [96374-hearthstone-the-witchwood.json](./96374-hearthstone-the-witchwood.json) |
 | Hearthstone: Titans | 256780 | [256780-hearthstone-titans.json](./256780-hearthstone-titans.json) |
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
+| Hearthstone: Voyage to the Sunken City | 387386 | [387386-hearthstone-voyage-to-the-sunken-city.json](./387386-hearthstone-voyage-to-the-sunken-city.json) |
 | Hearthstone: Whispers of Old Gods | 19162 | [19162-hearthstone-whispers-of-old-gods.json](./19162-hearthstone-whispers-of-old-gods.json) |
 | Hearthwater | 412947 | [412947-hearthwater.json](./412947-hearthwater.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
@@ -3884,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helvetii | 119673 | [119673-helvetii.json](./119673-helvetii.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
+| Helyana | 387385 | [387385-helyana.json](./387385-helyana.json) |
 | Hemera | 345658 | [345658-hemera.json](./345658-hemera.json) |
 | HemiRoids | 229020 | [229020-hemiroids.json](./229020-hemiroids.json) |
 | Hemlock | 295862 | [295862-hemlock.json](./295862-hemlock.json) |
@@ -8307,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horripilant | 342102 | [342102-horripilant.json](./342102-horripilant.json) |
+| Horror | 387419 | [387419-horror.json](./387419-horror.json) |
 | Horror | 409374 | [409374-horror.json](./409374-horror.json) |
 | Horror & Adventure Pinball | 176148 | [176148-horror-and-adventure-pinball.json](./176148-horror-and-adventure-pinball.json) |
 | Horror & Sports Pinball | 186698 | [186698-horror-and-sports-pinball.json](./186698-horror-and-sports-pinball.json) |
