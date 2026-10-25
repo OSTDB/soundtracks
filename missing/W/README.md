@@ -5131,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wired | 307616 | [307616-wired.json](./307616-wired.json) |
+| Wired 2 Kill | 396668 | [396668-wired-2-kill.json](./396668-wired-2-kill.json) |
 | Wired Gambit | 307207 | [307207-wired-gambit.json](./307207-wired-gambit.json) |
 | Wired to the Moon | 185472 | [185472-wired-to-the-moon.json](./185472-wired-to-the-moon.json) |
 | Wired Tokyo | 395793 | [395793-wired-tokyo.json](./395793-wired-tokyo.json) |
@@ -5227,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Cram Sorceries | 262901 | [262901-witch-cram-sorceries.json](./262901-witch-cram-sorceries.json) |
 | Witch Cry 2 | 301129 | [301129-witch-cry-2.json](./301129-witch-cry-2.json) |
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
+| Witch Dance | 396645 | [396645-witch-dance.json](./396645-witch-dance.json) |
 | Witch Elixir | 149370 | [149370-witch-elixir.json](./149370-witch-elixir.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
 | Witch Explorer | 185923 | [185923-witch-explorer.json](./185923-witch-explorer.json) |
@@ -6087,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody's Incredible Journey to the Escape from Eternal Terror | 265684 | [265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json](./265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json) |
 | WoodZone | 107815 | [107815-woodzone.json](./107815-woodzone.json) |
 | Woofice Chair! | 183525 | [183525-woofice-chair.json](./183525-woofice-chair.json) |
+| WoofWatch | 396644 | [396644-woofwatch.json](./396644-woofwatch.json) |
 | Woofy Run | 373017 | [373017-woofy-run.json](./373017-woofy-run.json) |
 | Woogles | 321119 | [321119-woogles.json](./321119-woogles.json) |
 | Woohoo! | 304017 | [304017-woohoo.json](./304017-woohoo.json) |
@@ -7239,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WormJuice Skateboarding Olympics | 159795 | [159795-wormjuice-skateboarding-olympics.json](./159795-wormjuice-skateboarding-olympics.json) |
 | Wormmy | 207592 | [207592-wormmy.json](./207592-wormmy.json) |
 | WorMoon: Awakening | 255042 | [255042-wormoon-awakening.json](./255042-wormoon-awakening.json) |
+| Worms | 396679 | [396679-worms.json](./396679-worms.json) |
 | Worms | 409023 | [409023-worms.json](./409023-worms.json) |
 | Worms | 414951 | [414951-worms.json](./414951-worms.json) |
 | Worms | 87594 | [87594-worms.json](./87594-worms.json) |
