@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
 | Party Planner | 209413 | [209413-party-planner.json](./209413-party-planner.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
+| Party Pool | 399655 | [399655-party-pool.json](./399655-party-pool.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
 | Party PooperZ | 273776 | [273776-party-pooperz.json](./273776-party-pooperz.json) |
 | Party Pop Bubblyz | 387722 | [387722-party-pop-bubblyz.json](./387722-party-pop-bubblyz.json) |
@@ -7212,6 +7213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixie Farm VR | 169483 | [169483-pixie-farm-vr.json](./169483-pixie-farm-vr.json) |
 | Pixie Panic Garden | 110526 | [110526-pixie-panic-garden.json](./110526-pixie-panic-garden.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
+| Pixie Plates | 399654 | [399654-pixie-plates.json](./399654-pixie-plates.json) |
 | Pixie Plates: Ember Peaks DLC | 399803 | [399803-pixie-plates-ember-peaks-dlc.json](./399803-pixie-plates-ember-peaks-dlc.json) |
 | Pixie Plates: Royal Edition | 411835 | [411835-pixie-plates-royal-edition.json](./411835-pixie-plates-royal-edition.json) |
 | Pixie Plates: Royal Gardens DLC | 399804 | [399804-pixie-plates-royal-gardens-dlc.json](./399804-pixie-plates-royal-gardens-dlc.json) |
@@ -11284,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator | 400248 | [400248-powerwash-simulator.json](./400248-powerwash-simulator.json) |
 | PowerWash Simulator 2 | 335439 | [335439-powerwash-simulator-2.json](./335439-powerwash-simulator-2.json) |
 | PowerWash Simulator 2: Barbie Pack | 418240 | [418240-powerwash-simulator-2-barbie-pack.json](./418240-powerwash-simulator-2-barbie-pack.json) |
+| PowerWash Simulator 2: Star Wars Pack | 399677 | [399677-powerwash-simulator-2-star-wars-pack.json](./399677-powerwash-simulator-2-star-wars-pack.json) |
 | PowerWash Simulator: Back to the Future Special Pack | 276978 | [276978-powerwash-simulator-back-to-the-future-special-pack.json](./276978-powerwash-simulator-back-to-the-future-special-pack.json) |
 | PowerWash Simulator: Cruise Ship Sun Deck - Summer 2024 | 312018 | [312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json](./312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json) |
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
@@ -14461,6 +14464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Dog: Jigsaw Puzzles | 105994 | [105994-puppy-dog-jigsaw-puzzles.json](./105994-puppy-dog-jigsaw-puzzles.json) |
 | Puppy Doge VR | 28595 | [28595-puppy-doge-vr.json](./28595-puppy-doge-vr.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
+| Puppy Land Online | 399574 | [399574-puppy-land-online.json](./399574-puppy-land-online.json) |
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
 | Puppy Luv Adventures | 62033 | [62033-puppy-luv-adventures.json](./62033-puppy-luv-adventures.json) |
 | Puppy Luv: Spa and Resort | 49473 | [49473-puppy-luv-spa-and-resort.json](./49473-puppy-luv-spa-and-resort.json) |
