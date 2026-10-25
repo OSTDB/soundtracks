@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Mario 75 | 294791 | [294791-nice-mario-75.json](./294791-nice-mario-75.json) |
 | Nice On | 37563 | [37563-nice-on.json](./37563-nice-on.json) |
 | Nice Pro? | 336749 | [336749-nice-pro.json](./336749-nice-pro.json) |
+| Nice Pudding World DX | 398175 | [398175-nice-pudding-world-dx.json](./398175-nice-pudding-world-dx.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
 | Nice Slice | 29541 | [29541-nice-slice.json](./29541-nice-slice.json) |
