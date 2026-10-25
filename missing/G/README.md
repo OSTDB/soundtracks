@@ -5722,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Hands | 407762 | [407762-good-hands.json](./407762-good-hands.json) |
 | Good Heavens! | 204463 | [204463-good-heavens.json](./204463-good-heavens.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
+| Good Human | 387392 | [387392-good-human.json](./387392-good-human.json) |
 | Good Idea! | 301962 | [301962-good-idea.json](./301962-good-idea.json) |
 | Good Intentions | 54070 | [54070-good-intentions.json](./54070-good-intentions.json) |
 | Good Job | 416125 | [416125-good-job.json](./416125-good-job.json) |
@@ -8444,6 +8445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
 | Guess the Movie Game | 232503 | [232503-guess-the-movie-game.json](./232503-guess-the-movie-game.json) |
+| Guess The Movie.Name | 387316 | [387316-guess-the-movie-name.json](./387316-guess-the-movie-name.json) |
 | Guess the Person? | 88466 | [88466-guess-the-person.json](./88466-guess-the-person.json) |
 | Guess the Word | 115339 | [115339-guess-the-word.json](./115339-guess-the-word.json) |
 | Guess the Word | 277341 | [277341-guess-the-word.json](./277341-guess-the-word.json) |
@@ -8656,6 +8658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero 7 | 251431 | [251431-guitar-hero-7.json](./251431-guitar-hero-7.json) |
 | Guitar Hero Dual Pack: Guitar Hero II & Guitar Hero Aerosmith | 314957 | [314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json](./314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
+| Guitar Hero II: Hits Indonesia 2025 | 387303 | [387303-guitar-hero-ii-hits-indonesia-2025.json](./387303-guitar-hero-ii-hits-indonesia-2025.json) |
 | Guitar Hero II: Indonesia 2018 | 293740 | [293740-guitar-hero-ii-indonesia-2018.json](./293740-guitar-hero-ii-indonesia-2018.json) |
 | Guitar Hero II: Indonesia 2021 | 331737 | [331737-guitar-hero-ii-indonesia-2021.json](./331737-guitar-hero-ii-indonesia-2021.json) |
 | Guitar Hero III Mobile | 85864 | [85864-guitar-hero-iii-mobile.json](./85864-guitar-hero-iii-mobile.json) |
@@ -9361,6 +9364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guys with Magnets | 405741 | [405741-guys-with-magnets.json](./405741-guys-with-magnets.json) |
 | Gūzhùyīzhì de Míngtiān | 221048 | [221048-guzhuyizhi-de-mingtian.json](./221048-guzhuyizhi-de-mingtian.json) |
 | Guzzler | 13865 | [13865-guzzler.json](./13865-guzzler.json) |
+| Guzzler | 387406 | [387406-guzzler.json](./387406-guzzler.json) |
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
 | Gwan Moon High School: The Ghost Gate | 144011 | [144011-gwan-moon-high-school-the-ghost-gate.json](./144011-gwan-moon-high-school-the-ghost-gate.json) |
 | GWARP | 395152 | [395152-gwarp.json](./395152-gwarp.json) |
