@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
 | Hell Heroes | 226720 | [226720-hell-heroes.json](./226720-hell-heroes.json) |
+| Hell Hold'em | 401460 | [401460-hell-holdem.json](./401460-hell-holdem.json) |
 | Hell Hole | 73173 | [73173-hell-hole.json](./73173-hell-hole.json) |
 | Hell Hospital | 414424 | [414424-hell-hospital.json](./414424-hell-hospital.json) |
 | Hell Hunt | 138481 | [138481-hell-hunt.json](./138481-hell-hunt.json) |
@@ -3326,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Inspector's Mod of Stupidity | 280765 | [280765-hell-inspectors-mod-of-stupidity.json](./280765-hell-inspectors-mod-of-stupidity.json) |
 | Hell Invades Heaven | 190165 | [190165-hell-invades-heaven.json](./190165-hell-invades-heaven.json) |
 | Hell Is Empty, Demons Are Playing Apokerlypse | 399129 | [399129-hell-is-empty-demons-are-playing-apokerlypse.json](./399129-hell-is-empty-demons-are-playing-apokerlypse.json) |
+| Hell Is Other People | 401462 | [401462-hell-is-other-people.json](./401462-hell-is-other-people.json) |
 | Hell is Others: Good Neighbor Pack | 262886 | [262886-hell-is-others-good-neighbor-pack.json](./262886-hell-is-others-good-neighbor-pack.json) |
 | Hell is Us: Deluxe Edition | 331310 | [331310-hell-is-us-deluxe-edition.json](./331310-hell-is-us-deluxe-edition.json) |
 | Hell Is Us: Hollow Walker Pack | 360092 | [360092-hell-is-us-hollow-walker-pack.json](./360092-hell-is-us-hollow-walker-pack.json) |
@@ -7423,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Journey of Salvation | 249801 | [249801-holy-journey-of-salvation.json](./249801-holy-journey-of-salvation.json) |
 | Holy Knight Bitch | 82902 | [82902-holy-knight-bitch.json](./82902-holy-knight-bitch.json) |
 | Holy Light | 305966 | [305966-holy-light.json](./305966-holy-light.json) |
+| Holy Moonlight | 401454 | [401454-holy-moonlight.json](./401454-holy-moonlight.json) |
 | Holy Ocean | 239744 | [239744-holy-ocean.json](./239744-holy-ocean.json) |
 | Holy Potatoes! A Spy Story?! | 96384 | [96384-holy-potatoes-a-spy-story.json](./96384-holy-potatoes-a-spy-story.json) |
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
