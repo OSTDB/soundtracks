@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Deluxe | 69568 | [69568-backgammon-deluxe.json](./69568-backgammon-deluxe.json) |
 | Backgammon Live | 245322 | [245322-backgammon-live.json](./245322-backgammon-live.json) |
 | Backgammon Master | 346110 | [346110-backgammon-master.json](./346110-backgammon-master.json) |
+| Backgammon Masters | 87285 | [87285-backgammon-masters.json](./87285-backgammon-masters.json) |
 | Backgammon NJ HD | 91981 | [91981-backgammon-nj-hd.json](./91981-backgammon-nj-hd.json) |
 | Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
 | Backgammon Pro for Nintendo Switch | 245986 | [245986-backgammon-pro-for-nintendo-switch.json](./245986-backgammon-pro-for-nintendo-switch.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Jump | 100740 | [100740-ball-jump.json](./100740-ball-jump.json) |
 | Ball Jumper | 272854 | [272854-ball-jumper.json](./272854-ball-jumper.json) |
 | Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
+| Ball King | 87283 | [87283-ball-king.json](./87283-ball-king.json) |
 | Ball laB | 89384 | [89384-ball-lab.json](./89384-ball-lab.json) |
 | Ball laB 2 | 226239 | [226239-ball-lab-2.json](./226239-ball-lab-2.json) |
 | Ball League | 107119 | [107119-ball-league.json](./107119-ball-league.json) |
@@ -6804,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Feather: Aquamarine World | 297917 | [297917-bird-feather-aquamarine-world.json](./297917-bird-feather-aquamarine-world.json) |
 | Bird Game | 349937 | [349937-bird-game.json](./349937-bird-game.json) |
 | Bird Game | 394488 | [394488-bird-game.json](./394488-bird-game.json) |
+| Bird Game | 86302 | [86302-bird-game.json](./86302-bird-game.json) |
 | Bird Game + | 117932 | [117932-bird-game.json](./117932-bird-game.json) |
 | Bird Game 3 | 380006 | [380006-bird-game-3.json](./380006-bird-game-3.json) |
 | Bird Game 3 | 380007 | [380007-bird-game-3.json](./380007-bird-game-3.json) |
@@ -7054,6 +7057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Storm VR: First Loop | 74192 | [74192-bit-storm-vr-first-loop.json](./74192-bit-storm-vr-first-loop.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
+| Bit-Boom | 86292 | [86292-bit-boom.json](./86292-bit-boom.json) |
 | Bit-Buster | 184936 | [184936-bit-buster.json](./184936-bit-buster.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit-cremental: Fishistry Color | 387693 | [387693-bit-cremental-fishistry-color.json](./387693-bit-cremental-fishistry-color.json) |
@@ -11798,6 +11802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Party | 70629 | [70629-brain-party.json](./70629-brain-party.json) |
 | Brain Please Don't | 135563 | [135563-brain-please-dont.json](./135563-brain-please-dont.json) |
 | Brain Power | 70868 | [70868-brain-power.json](./70868-brain-power.json) |
+| Brain Practice | 87287 | [87287-brain-practice.json](./87287-brain-practice.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
 | Brain Puzzle: Tricky Quest | 354394 | [354394-brain-puzzle-tricky-quest.json](./354394-brain-puzzle-tricky-quest.json) |
@@ -13534,6 +13539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BubbleGum: Push | 368249 | [368249-bubblegum-push.json](./368249-bubblegum-push.json) |
 | Bubbler | 13448 | [13448-bubbler.json](./13448-bubbler.json) |
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
+| Bubbles for Kids | 87289 | [87289-bubbles-for-kids.json](./87289-bubbles-for-kids.json) |
 | Bubbles in the Air | 347093 | [347093-bubbles-in-the-air.json](./347093-bubbles-in-the-air.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
 | Bubbles Popper 2 | 255009 | [255009-bubbles-popper-2.json](./255009-bubbles-popper-2.json) |
@@ -14444,6 +14450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Yum! | 233995 | [233995-burger-yum.json](./233995-burger-yum.json) |
 | Burger Zombies | 253502 | [253502-burger-zombies.json](./253502-burger-zombies.json) |
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
+| Burger: The Tasty Burger Game | 87294 | [87294-burger-the-tasty-burger-game.json](./87294-burger-the-tasty-burger-game.json) |
 | Burgerkill | 66987 | [66987-burgerkill.json](./66987-burgerkill.json) |
 | Burgers | 18912 | [18912-burgers.json](./18912-burgers.json) |
 | Burgers 2 | 30521 | [30521-burgers-2.json](./30521-burgers-2.json) |
