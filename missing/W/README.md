@@ -3278,7 +3278,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4182,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilberforce: The Sorcerer's Apprentice | 73201 | [73201-wilberforce-the-sorcerers-apprentice.json](./73201-wilberforce-the-sorcerers-apprentice.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
 | Wilbur's Quest | 152659 | [152659-wilburs-quest.json](./152659-wilburs-quest.json) |
+| Wilco Quiz | 414279 | [414279-wilco-quiz.json](./414279-wilco-quiz.json) |
 | Wild | 242115 | [242115-wild.json](./242115-wild.json) |
 | Wild | 257947 | [257947-wild.json](./257947-wild.json) |
 | WiLD | 7608 | [7608-wild.json](./7608-wild.json) |
