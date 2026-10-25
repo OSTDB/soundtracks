@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn Quest: Blast Effect | 142188 | [142188-saturn-quest-blast-effect.json](./142188-saturn-quest-blast-effect.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
+| Saturn Slalom | 413157 | [413157-saturn-slalom.json](./413157-saturn-slalom.json) |
 | Saturn V | 148403 | [148403-saturn-v.json](./148403-saturn-v.json) |
 | Saturn Valley Online | 323764 | [323764-saturn-valley-online.json](./323764-saturn-valley-online.json) |
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
@@ -3209,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Bass Fishing | 176136 | [176136-sea-bass-fishing.json](./176136-sea-bass-fishing.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
 | Sea Battle | 134381 | [134381-sea-battle.json](./134381-sea-battle.json) |
+| Sea Battle | 413060 | [413060-sea-battle.json](./413060-sea-battle.json) |
 | Sea Battle | 5694 | [5694-sea-battle.json](./5694-sea-battle.json) |
 | Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
 | Sea Battle 2 | 294535 | [294535-sea-battle-2.json](./294535-sea-battle-2.json) |
@@ -10059,6 +10061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish | 13756 | [13756-skirmish.json](./13756-skirmish.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish | 327165 | [327165-skirmish.json](./327165-skirmish.json) |
+| Skirmish | 413242 | [413242-skirmish.json](./413242-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skirmish Mayhem | 224428 | [224428-skirmish-mayhem.json](./224428-skirmish-mayhem.json) |
 | Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
@@ -14983,6 +14986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
 | Sorting Sortilege | 176213 | [176213-sorting-sortilege.json](./176213-sorting-sortilege.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
+| Sortzy States | 413224 | [413224-sortzy-states.json](./413224-sortzy-states.json) |
 | Sorvice | 70879 | [70879-sorvice.json](./70879-sorvice.json) |
 | SOS | 24008 | [24008-sos.json](./24008-sos.json) |
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
@@ -23735,6 +23739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine | 68458 | [68458-submarine.json](./68458-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
+| Submarine Attack | 413048 | [413048-submarine-attack.json](./413048-submarine-attack.json) |
 | Submarine Attack | 46120 | [46120-submarine-attack.json](./46120-submarine-attack.json) |
 | Submarine Attack! | 118118 | [118118-submarine-attack.json](./118118-submarine-attack.json) |
 | Submarine Battle | 44351 | [44351-submarine-battle.json](./44351-submarine-battle.json) |
@@ -23746,6 +23751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Dash | 56762 | [56762-submarine-dash.json](./56762-submarine-dash.json) |
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
+| Submarine Strike | 413047 | [413047-submarine-strike.json](./413047-submarine-strike.json) |
 | Submarine Terror | 269205 | [269205-submarine-terror.json](./269205-submarine-terror.json) |
 | Submarine Titans | 93354 | [93354-submarine-titans.json](./93354-submarine-titans.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
@@ -24413,6 +24419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
 | Summer Catchers | 106435 | [106435-summer-catchers.json](./106435-summer-catchers.json) |
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
+| Summer Dash: Our Track Team's Summer Training Trip | 412765 | [412765-summer-dash-our-track-teams-summer-training-trip.json](./412765-summer-dash-our-track-teams-summer-training-trip.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Events | 41013 | [41013-summer-events.json](./41013-summer-events.json) |
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
@@ -26219,6 +26226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
 | Super Mario Universe | 314115 | [314115-super-mario-universe.json](./314115-super-mario-universe.json) |
+| Super Mario Universe Deluxe | 413228 | [413228-super-mario-universe-deluxe.json](./413228-super-mario-universe-deluxe.json) |
 | Super Mario Unlimited Deluxe | 256778 | [256778-super-mario-unlimited-deluxe.json](./256778-super-mario-unlimited-deluxe.json) |
 | Super Mario War | 305742 | [305742-super-mario-war.json](./305742-super-mario-war.json) |
 | Super Mario War | 87815 | [87815-super-mario-war.json](./87815-super-mario-war.json) |
@@ -29574,6 +29582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter | 4115 | [4115-syphon-filter.json](./4115-syphon-filter.json) |
 | Syphon Filter 2 | 218372 | [218372-syphon-filter-2.json](./218372-syphon-filter-2.json) |
 | Syphon Filter 2 | 4116 | [4116-syphon-filter-2.json](./4116-syphon-filter-2.json) |
+| Syphon Filter 2: Recompiled | 412769 | [412769-syphon-filter-2-recompiled.json](./412769-syphon-filter-2-recompiled.json) |
 | Syphon Filter 3 | 231777 | [231777-syphon-filter-3.json](./231777-syphon-filter-3.json) |
 | Syphon Filter 3 | 4117 | [4117-syphon-filter-3.json](./4117-syphon-filter-3.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
