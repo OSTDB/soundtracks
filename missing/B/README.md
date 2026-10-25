@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10169,6 +10170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku to Iu Mono | 325731 | [325731-boku-to-iu-mono.json](./325731-boku-to-iu-mono.json) |
 | Boku to Joi no Shinsatsu Nisshi [Nurse Enjoy Pack] | 146110 | [146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json](./146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json) |
 | Boku to Joi no Shinsatsu Nisshi: Premium Edition | 146113 | [146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json](./146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json) |
+| Boku to Kanojo no Gohoushi Dousei | 402723 | [402723-boku-to-kanojo-no-gohoushi-dousei.json](./402723-boku-to-kanojo-no-gohoushi-dousei.json) |
 | Boku to Kare no Kiken na Doukyo Seikatsu | 203875 | [203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json](./203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json) |
 | Boku to Nurse no Kenshuu Nisshi | 121275 | [121275-boku-to-nurse-no-kenshuu-nisshi.json](./121275-boku-to-nurse-no-kenshuu-nisshi.json) |
 | Boku to Nurse no Kenshuu Nisshi: Premium Edition | 146119 | [146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json](./146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json) |
@@ -14335,6 +14337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Buna Wants Beer | 318525 | [318525-buna-wants-beer.json](./318525-buna-wants-beer.json) |
 | Bunbons | 210322 | [210322-bunbons.json](./210322-bunbons.json) |
+| Bunbun Shinbunbu: You are Newspaper! | 402707 | [402707-bunbun-shinbunbu-you-are-newspaper.json](./402707-bunbun-shinbunbu-you-are-newspaper.json) |
 | Bunbun Tower | 179365 | [179365-bunbun-tower.json](./179365-bunbun-tower.json) |
 | Bunce | 189903 | [189903-bunce.json](./189903-bunce.json) |
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
