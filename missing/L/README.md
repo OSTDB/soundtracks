@@ -4817,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
 | Little Grimm | 390706 | [390706-little-grimm.json](./390706-little-grimm.json) |
 | Little Groves | 422494 | [422494-little-groves.json](./422494-little-groves.json) |
+| Little Guardians: The Last Hope | 418878 | [418878-little-guardians-the-last-hope.json](./418878-little-guardians-the-last-hope.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Hats | 155880 | [155880-little-hats.json](./155880-little-hats.json) |
 | Little Hawk | 36772 | [36772-little-hawk.json](./36772-little-hawk.json) |
@@ -5840,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Stars | 377908 | [377908-lone-stars.json](./377908-lone-stars.json) |
 | Lone Survivor: The Director's Cut | 21683 | [21683-lone-survivor-the-directors-cut.json](./21683-lone-survivor-the-directors-cut.json) |
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
+| Lone Tower | 418913 | [418913-lone-tower.json](./418913-lone-tower.json) |
 | Lone Tower Roguelite Defense | 255805 | [255805-lone-tower-roguelite-defense.json](./255805-lone-tower-roguelite-defense.json) |
 | Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
 | Lone Vessel | 67603 | [67603-lone-vessel.json](./67603-lone-vessel.json) |
@@ -7680,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Leap | 289243 | [289243-ludicrous-leap.json](./289243-ludicrous-leap.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
+| Ludo | 418923 | [418923-ludo.json](./418923-ludo.json) |
 | Ludo | 88853 | [88853-ludo.json](./88853-ludo.json) |
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
