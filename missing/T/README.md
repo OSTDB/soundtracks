@@ -6175,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
 | The Combatribes | 39639 | [39639-the-combatribes.json](./39639-the-combatribes.json) |
+| The Comeback King | 400273 | [400273-the-comeback-king.json](./400273-the-comeback-king.json) |
 | The Comedian Adventure | 266884 | [266884-the-comedian-adventure.json](./266884-the-comedian-adventure.json) |
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
@@ -17216,6 +17217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
 | Ticket | 30271 | [30271-ticket.json](./30271-ticket.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
+| Ticket to Heart | 400185 | [400185-ticket-to-heart.json](./400185-ticket-to-heart.json) |
 | Ticket to Nowhere | 412807 | [412807-ticket-to-nowhere.json](./412807-ticket-to-nowhere.json) |
 | Ticket to Ride | 267278 | [267278-ticket-to-ride.json](./267278-ticket-to-ride.json) |
 | Ticket to Ride: First Journey | 69654 | [69654-ticket-to-ride-first-journey.json](./69654-ticket-to-ride-first-journey.json) |
@@ -20405,6 +20407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan | 67287 | [67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json](./67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json) |
 | Tokyo Nampa Street | 66132 | [66132-tokyo-nampa-street.json](./66132-tokyo-nampa-street.json) |
 | Tokyo Necro | 60484 | [60484-tokyo-necro.json](./60484-tokyo-necro.json) |
+| Tokyo Necro: Suicide Mission | 400269 | [400269-tokyo-necro-suicide-mission.json](./400269-tokyo-necro-suicide-mission.json) |
 | Tokyo Ogre Gate | 84488 | [84488-tokyo-ogre-gate.json](./84488-tokyo-ogre-gate.json) |
 | Tokyo Onmyouji: Tengenjibashi Rei no Baai - V Edition | 144684 | [144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json](./144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
@@ -20760,6 +20763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Scavenger Scout | 406555 | [406555-tomb-raider-scavenger-scout.json](./406555-tomb-raider-scavenger-scout.json) |
 | Tomb Raider: Shanty Town | 172133 | [172133-tomb-raider-shanty-town.json](./172133-tomb-raider-shanty-town.json) |
 | Tomb Raider: Shipwrecked Multiplayer Map Pack | 406556 | [406556-tomb-raider-shipwrecked-multiplayer-map-pack.json](./406556-tomb-raider-shipwrecked-multiplayer-map-pack.json) |
+| Tomb Raider: Side-Scroller Edition | 400166 | [400166-tomb-raider-side-scroller-edition.json](./400166-tomb-raider-side-scroller-edition.json) |
 | Tomb Raider: Silverballer | 406543 | [406543-tomb-raider-silverballer.json](./406543-tomb-raider-silverballer.json) |
 | Tomb Raider: Sure-Shot Skin | 406558 | [406558-tomb-raider-sure-shot-skin.json](./406558-tomb-raider-sure-shot-skin.json) |
 | Tomb Raider: Survival Edition | 53817 | [53817-tomb-raider-survival-edition.json](./53817-tomb-raider-survival-edition.json) |
