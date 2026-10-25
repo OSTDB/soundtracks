@@ -3324,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostnote | 423279 | [423279-ghostnote.json](./423279-ghostnote.json) |
 | Ghostory | 68661 | [68661-ghostory.json](./68661-ghostory.json) |
 | GhostPad | 110267 | [110267-ghostpad.json](./110267-ghostpad.json) |
+| Ghostpunk | 407757 | [407757-ghostpunk.json](./407757-ghostpunk.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | GhostRing | 180517 | [180517-ghostring.json](./180517-ghostring.json) |
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
@@ -3350,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts and Bureaucracy | 133064 | [133064-ghosts-and-bureaucracy.json](./133064-ghosts-and-bureaucracy.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts in the Toybox: Chapter 1 | 99479 | [99479-ghosts-in-the-toybox-chapter-1.json](./99479-ghosts-in-the-toybox-chapter-1.json) |
+| Ghosts Keep Out | 407793 | [407793-ghosts-keep-out.json](./407793-ghosts-keep-out.json) |
 | Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
 | Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
 | Ghosts of Mistwood | 61960 | [61960-ghosts-of-mistwood.json](./61960-ghosts-of-mistwood.json) |
@@ -4298,6 +4300,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glück Auf | 90598 | [90598-gluck-auf.json](./90598-gluck-auf.json) |
 | Glucky Labs | 227734 | [227734-glucky-labs.json](./227734-glucky-labs.json) |
 | Glue Blocks | 382469 | [382469-glue-blocks.json](./382469-glue-blocks.json) |
+| GlueFO | 407834 | [407834-gluefo.json](./407834-gluefo.json) |
+| GlueFO 2.0 | 407835 | [407835-gluefo-2-0.json](./407835-gluefo-2-0.json) |
+| GlueFO 3: Asteroid Wars | 407837 | [407837-gluefo-3-asteroid-wars.json](./407837-gluefo-3-asteroid-wars.json) |
 | Gluf | 141080 | [141080-gluf.json](./141080-gluf.json) |
 | Gluk the Thunder Warrior | 48565 | [48565-gluk-the-thunder-warrior.json](./48565-gluk-the-thunder-warrior.json) |
 | Gluk'Oza Action | 54053 | [54053-glukoza-action.json](./54053-glukoza-action.json) |
@@ -5678,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Goods Incorporated | 129437 | [129437-good-goods-incorporated.json](./129437-good-goods-incorporated.json) |
 | Good Guy Card | 158535 | [158535-good-guy-card.json](./158535-good-guy-card.json) |
 | Good Guys | 289183 | [289183-good-guys.json](./289183-good-guys.json) |
+| Good Hands | 407762 | [407762-good-hands.json](./407762-good-hands.json) |
 | Good Heavens! | 204463 | [204463-good-heavens.json](./204463-good-heavens.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
 | Good Idea! | 301962 | [301962-good-idea.json](./301962-good-idea.json) |
@@ -6507,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto V: Special Edition | 45131 | [45131-grand-theft-auto-v-special-edition.json](./45131-grand-theft-auto-v-special-edition.json) |
 | Grand Theft Auto V: Story Mode | 239060 | [239060-grand-theft-auto-v-story-mode.json](./239060-grand-theft-auto-v-story-mode.json) |
 | Grand Theft Auto VI: Ultimate Edition | 407999 | [407999-grand-theft-auto-vi-ultimate-edition.json](./407999-grand-theft-auto-vi-ultimate-edition.json) |
+| Grand Theft Auto VI: Vintage Vice City Pack | 408002 | [408002-grand-theft-auto-vi-vintage-vice-city-pack.json](./408002-grand-theft-auto-vi-vintage-vice-city-pack.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
@@ -6598,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa And Granny Home Escape | 248177 | [248177-grandpa-and-granny-home-escape.json](./248177-grandpa-and-granny-home-escape.json) |
 | Grandpa and Me vs the Numbers | 414303 | [414303-grandpa-and-me-vs-the-numbers.json](./414303-grandpa-and-me-vs-the-numbers.json) |
 | Grandpa and the Zombies | 75624 | [75624-grandpa-and-the-zombies.json](./75624-grandpa-and-the-zombies.json) |
+| Grandpa Needs Fish | 407753 | [407753-grandpa-needs-fish.json](./407753-grandpa-needs-fish.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
 | Grandpa's Cheese | 200532 | [200532-grandpas-cheese.json](./200532-grandpas-cheese.json) |
@@ -7189,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
 | Greed Adventure | 102323 | [102323-greed-adventure.json](./102323-greed-adventure.json) |
 | Greed and Fear and the Rest | 295857 | [295857-greed-and-fear-and-the-rest.json](./295857-greed-and-fear-and-the-rest.json) |
+| Greed and Greed | 407842 | [407842-greed-and-greed.json](./407842-greed-and-greed.json) |
 | Greed Champions | 402386 | [402386-greed-champions.json](./402386-greed-champions.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
 | Greed Corp | 16170 | [16170-greed-corp.json](./16170-greed-corp.json) |
