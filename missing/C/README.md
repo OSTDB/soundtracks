@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Keepalive: Endless Summer | 348426 | [348426-camp-keepalive-endless-summer.json](./348426-camp-keepalive-endless-summer.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Camp Lazlo: Leaky Lake Games | 2808 | [2808-camp-lazlo-leaky-lake-games.json](./2808-camp-lazlo-leaky-lake-games.json) |
+| Camp Lazlo: Squirreled Away | 416333 | [416333-camp-lazlo-squirreled-away.json](./416333-camp-lazlo-squirreled-away.json) |
 | Camp Life: Wilderness Survival 2025 | 362209 | [362209-camp-life-wilderness-survival-2025.json](./362209-camp-life-wilderness-survival-2025.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
@@ -2391,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Racing | 93163 | [93163-cart-racing.json](./93163-cart-racing.json) |
 | Cart To The End | 306598 | [306598-cart-to-the-end.json](./306598-cart-to-the-end.json) |
 | Cart World Series | 43834 | [43834-cart-world-series.json](./43834-cart-world-series.json) |
+| Carta Bellum | 416346 | [416346-carta-bellum.json](./416346-carta-bellum.json) |
 | Cartacombs | 114858 | [114858-cartacombs.json](./114858-cartacombs.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartagra: Tamashii no Kunou | 166451 | [166451-cartagra-tamashii-no-kunou.json](./166451-cartagra-tamashii-no-kunou.json) |
@@ -3671,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats are Liquid: A Better Place | 126727 | [126727-cats-are-liquid-a-better-place.json](./126727-cats-are-liquid-a-better-place.json) |
 | Cats are Liquid: A Light in the Shadows | 32163 | [32163-cats-are-liquid-a-light-in-the-shadows.json](./32163-cats-are-liquid-a-light-in-the-shadows.json) |
 | Cats Around Us: Black Cat | 347859 | [347859-cats-around-us-black-cat.json](./347859-cats-around-us-black-cat.json) |
+| Cats Around Us: Yarn Ball | 416389 | [416389-cats-around-us-yarn-ball.json](./416389-cats-around-us-yarn-ball.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Bundle | 273329 | [273329-cats-bundle.json](./273329-cats-bundle.json) |
@@ -11874,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi's Travel | 300537 | [300537-corgis-travel.json](./300537-corgis-travel.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
 | Coria and the Sunken City | 141621 | [141621-coria-and-the-sunken-city.json](./141621-coria-and-the-sunken-city.json) |
+| Corid | 416339 | [416339-corid.json](./416339-corid.json) |
 | Coridden | 158972 | [158972-coridden.json](./158972-coridden.json) |
 | Coridden: Deluxe Edition | 380150 | [380150-coridden-deluxe-edition.json](./380150-coridden-deluxe-edition.json) |
 | Corinne | 377986 | [377986-corinne.json](./377986-corinne.json) |
@@ -12761,6 +12765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Cleaner | 393392 | [393392-cozy-cleaner.json](./393392-cozy-cleaner.json) |
 | Cozy Cleanup | 407203 | [407203-cozy-cleanup.json](./407203-cozy-cleanup.json) |
 | Cozy Climbing Game | 364976 | [364976-cozy-climbing-game.json](./364976-cozy-climbing-game.json) |
+| Cozy Coco Catcher | 416336 | [416336-cozy-coco-catcher.json](./416336-cozy-coco-catcher.json) |
 | Cozy Collection | 356848 | [356848-cozy-collection.json](./356848-cozy-collection.json) |
 | Cozy Cooking: Lo-fi Beats | 338205 | [338205-cozy-cooking-lo-fi-beats.json](./338205-cozy-cooking-lo-fi-beats.json) |
 | Cozy Cooking: Tiny Tastes | 356847 | [356847-cozy-cooking-tiny-tastes.json](./356847-cozy-cooking-tiny-tastes.json) |
