@@ -3031,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -11035,6 +11036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of the Mad King | 234142 | [234142-arena-of-the-mad-king.json](./234142-arena-of-the-mad-king.json) |
 | Arena of the Myths | 205663 | [205663-arena-of-the-myths.json](./205663-arena-of-the-myths.json) |
 | Arena of the Titans | 368365 | [368365-arena-of-the-titans.json](./368365-arena-of-the-titans.json) |
+| Arena of Trials | 398163 | [398163-arena-of-trials.json](./398163-arena-of-trials.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
 | Arena Quest RPG | 56990 | [56990-arena-quest-rpg.json](./56990-arena-quest-rpg.json) |
 | Arena Renovation | 110384 | [110384-arena-renovation.json](./110384-arena-renovation.json) |
