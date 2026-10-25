@@ -16615,6 +16615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades classic card game | 95285 | [95285-spades-classic-card-game.json](./95285-spades-classic-card-game.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
+| Spades: Classic Fun Card Game | 92011 | [92011-spades-classic-fun-card-game.json](./92011-spades-classic-fun-card-game.json) |
 | Spades+ | 279708 | [279708-spades.json](./279708-spades.json) |
 | Spades++ | 89124 | [89124-spades.json](./89124-spades.json) |
 | Spadyssey | 93736 | [93736-spadyssey.json](./93736-spadyssey.json) |
@@ -23951,6 +23952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku X | 68433 | [68433-sudoku-x.json](./68433-sudoku-x.json) |
 | Sudoku XL | 90885 | [90885-sudoku-xl.json](./90885-sudoku-xl.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
+| Sudoku Zenkai | 93712 | [93712-sudoku-zenkai.json](./93712-sudoku-zenkai.json) |
 | Sudoku-Color | 366325 | [366325-sudoku-color.json](./366325-sudoku-color.json) |
 | Sudoku-Duo | 366290 | [366290-sudoku-duo.json](./366290-sudoku-duo.json) |
 | Sudoku-Edge | 366289 | [366289-sudoku-edge.json](./366289-sudoku-edge.json) |
