@@ -4523,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
 | Go! Go! Birdie Chance | 61416 | [61416-go-go-birdie-chance.json](./61416-go-go-birdie-chance.json) |
+| Go! Go! Cosmo Cops! | 21211 | [21211-go-go-cosmo-cops.json](./21211-go-go-cosmo-cops.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
@@ -4608,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goatlings | 166460 | [166460-goatlings.json](./166460-goatlings.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | GoatUp | 93491 | [93491-goatup.json](./93491-goatup.json) |
+| GoatUp 2 | 22195 | [22195-goatup-2.json](./22195-goatup-2.json) |
 | Gob | 146080 | [146080-gob.json](./146080-gob.json) |
 | Gob | 415231 | [415231-gob.json](./415231-gob.json) |
 | Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
