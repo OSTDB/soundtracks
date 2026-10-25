@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Break! Crosswords | 76557 | [76557-take-a-break-crosswords.json](./76557-take-a-break-crosswords.json) |
 | Take a Break! Pinball | 73688 | [73688-take-a-break-pinball.json](./73688-take-a-break-pinball.json) |
 | Take a Break's Puzzle Bonanza | 371457 | [371457-take-a-breaks-puzzle-bonanza.json](./371457-take-a-breaks-puzzle-bonanza.json) |
+| Take a Hint | 393928 | [393928-take-a-hint.json](./393928-take-a-hint.json) |
 | Take A Leak | 267424 | [267424-take-a-leak.json](./267424-take-a-leak.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
@@ -1178,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Unknown: Volume I - The Bard's Tale | 394228 | [394228-tales-of-the-unknown-volume-i-the-bards-tale.json](./394228-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394230 | [394230-tales-of-the-unknown-volume-i-the-bards-tale.json](./394230-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394234 | [394234-tales-of-the-unknown-volume-i-the-bards-tale.json](./394234-tales-of-the-unknown-volume-i-the-bards-tale.json) |
+| Tales of the Unknown: Volume I - The Bard's Tale | 394235 | [394235-tales-of-the-unknown-volume-i-the-bards-tale.json](./394235-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Vagabond | 244676 | [244676-tales-of-the-vagabond.json](./244676-tales-of-the-vagabond.json) |
 | Tales of the Valente | 310826 | [310826-tales-of-the-valente.json](./310826-tales-of-the-valente.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
@@ -6999,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dope Game: Android Edition | 109202 | [109202-the-dope-game-android-edition.json](./109202-the-dope-game-android-edition.json) |
 | The Dope Game: Dope Fiend Edition | 53726 | [53726-the-dope-game-dope-fiend-edition.json](./53726-the-dope-game-dope-fiend-edition.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
+| The Double | 394086 | [394086-the-double.json](./394086-the-double.json) |
 | The Douchebag Workout | 393546 | [393546-the-douchebag-workout.json](./393546-the-douchebag-workout.json) |
 | The Doulos Study | 120581 | [120581-the-doulos-study.json](./120581-the-doulos-study.json) |
 | The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
@@ -7569,6 +7572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faces of Evil Remastered Randomizer | 242113 | [242113-the-faces-of-evil-remastered-randomizer.json](./242113-the-faces-of-evil-remastered-randomizer.json) |
 | The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
 | The Facility | 422081 | [422081-the-facility.json](./422081-the-facility.json) |
+| The Factory Must Fall | 394065 | [394065-the-factory-must-fall.json](./394065-the-factory-must-fall.json) |
 | The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
 | The Factory Must Survive | 105207 | [105207-the-factory-must-survive.json](./105207-the-factory-must-survive.json) |
 | The Fading of Nicole Wilson | 319711 | [319711-the-fading-of-nicole-wilson.json](./319711-the-fading-of-nicole-wilson.json) |
@@ -15788,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
 | The Witches' Tea Party | 51383 | [51383-the-witches-tea-party.json](./51383-the-witches-tea-party.json) |
 | The Witches' Whisk | 304257 | [304257-the-witches-whisk.json](./304257-the-witches-whisk.json) |
+| The Witching Hour | 394223 | [394223-the-witching-hour.json](./394223-the-witching-hour.json) |
 | The Witchmade Shop | 189865 | [189865-the-witchmade-shop.json](./189865-the-witchmade-shop.json) |
 | The Withering | 33907 | [33907-the-withering.json](./33907-the-withering.json) |
 | The Witness | 7425 | [7425-the-witness.json](./7425-the-witness.json) |
@@ -16189,6 +16194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
+| TheParcelEscape | 394073 | [394073-theparcelescape.json](./394073-theparcelescape.json) |
 | Thera 1 | 225796 | [225796-thera-1.json](./225796-thera-1.json) |
 | Thera: Legacy of Great Torment | 356250 | [356250-thera-legacy-of-great-torment.json](./356250-thera-legacy-of-great-torment.json) |
 | Theralite | 329770 | [329770-theralite.json](./329770-theralite.json) |
@@ -17131,6 +17137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderman: Adventures in Another Realm | 357668 | [357668-thunderman-adventures-in-another-realm.json](./357668-thunderman-adventures-in-another-realm.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
 | Thunderscape | 51804 | [51804-thunderscape.json](./51804-thunderscape.json) |
+| Thunderstrike | 394226 | [394226-thunderstrike.json](./394226-thunderstrike.json) |
 | Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
 | Thunderstrike: Operation Phoenix | 43278 | [43278-thunderstrike-operation-phoenix.json](./43278-thunderstrike-operation-phoenix.json) |
 | ThunderWheels | 72481 | [72481-thunderwheels.json](./72481-thunderwheels.json) |
@@ -17368,6 +17375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiffy's Magical Tales: Pinocchio | 323976 | [323976-tiffys-magical-tales-pinocchio.json](./323976-tiffys-magical-tales-pinocchio.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
 | Tiger & Bunny: On Air Jack! | 64861 | [64861-tiger-and-bunny-on-air-jack.json](./64861-tiger-and-bunny-on-air-jack.json) |
+| Tiger Burger | 394217 | [394217-tiger-burger.json](./394217-tiger-burger.json) |
 | Tiger Casino | 131276 | [131276-tiger-casino.json](./131276-tiger-casino.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
 | Tiger Claw | 41176 | [41176-tiger-claw.json](./41176-tiger-claw.json) |
@@ -20893,6 +20901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
+| Tomodachi Ijou, Joubutsu Miman | 394078 | [394078-tomodachi-ijou-joubutsu-miman.json](./394078-tomodachi-ijou-joubutsu-miman.json) |
 | Tomodachi Life | 6403 | [6403-tomodachi-life.json](./6403-tomodachi-life.json) |
 | Tomodachi Life: Living the Dream | 337036 | [337036-tomodachi-life-living-the-dream.json](./337036-tomodachi-life-living-the-dream.json) |
 | Tomodachi Life: The Gay Mod | 350609 | [350609-tomodachi-life-the-gay-mod.json](./350609-tomodachi-life-the-gay-mod.json) |
@@ -21132,6 +21141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Skate: True Freedom Racing | 232577 | [232577-toon-skate-true-freedom-racing.json](./232577-toon-skate-true-freedom-racing.json) |
 | Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
 | Toon Tastic | 359205 | [359205-toon-tastic.json](./359205-toon-tastic.json) |
+| Toon TD | 394079 | [394079-toon-td.json](./394079-toon-td.json) |
 | Toon Team | 236337 | [236337-toon-team.json](./236337-toon-team.json) |
 | Toon Toon Racing | 244650 | [244650-toon-toon-racing.json](./244650-toon-toon-racing.json) |
 | Toon Troops Strategy | 307868 | [307868-toon-troops-strategy.json](./307868-toon-troops-strategy.json) |
