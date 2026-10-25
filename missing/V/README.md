@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguards | 30836 | [30836-vanguards.json](./30836-vanguards.json) |
 | Vanilla | 399755 | [399755-vanilla.json](./399755-vanilla.json) |
 | Vanilla & Chocolate | 416155 | [416155-vanilla-and-chocolate.json](./416155-vanilla-and-chocolate.json) |
+| Vanilla Bagel: The Roguelike | 32827 | [32827-vanilla-bagel-the-roguelike.json](./32827-vanilla-bagel-the-roguelike.json) |
 | Vanilla Brain Exam | 367608 | [367608-vanilla-brain-exam.json](./367608-vanilla-brain-exam.json) |
 | Vanilla Click | 157177 | [157177-vanilla-click.json](./157177-vanilla-click.json) |
 | Vanilla Inspector | 154019 | [154019-vanilla-inspector.json](./154019-vanilla-inspector.json) |
