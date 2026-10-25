@@ -18410,7 +18410,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
 | Spore Creatures | 22587 | [22587-spore-creatures.json](./22587-spore-creatures.json) |
-| Spore Hero | 5191 | [5191-spore-hero.json](./5191-spore-hero.json) |
 | Spore Hero Arena | 21214 | [21214-spore-hero-arena.json](./21214-spore-hero-arena.json) |
 | Spore Monsters.io 3D | 105810 | [105810-spore-monsters-io-3d.json](./105810-spore-monsters-io-3d.json) |
 | Spore Origins | 78885 | [78885-spore-origins.json](./78885-spore-origins.json) |
