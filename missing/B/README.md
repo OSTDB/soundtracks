@@ -14656,6 +14656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burokku Girls | 33525 | [33525-burokku-girls.json](./33525-burokku-girls.json) |
 | Burr Puzzle | 357978 | [357978-burr-puzzle.json](./357978-burr-puzzle.json) |
 | Burrilka | 342710 | [342710-burrilka.json](./342710-burrilka.json) |
+| Burrito Aftermath | 423223 | [423223-burrito-aftermath.json](./423223-burrito-aftermath.json) |
 | Burrito Bear | 216634 | [216634-burrito-bear.json](./216634-burrito-bear.json) |
 | Burrito Bison | 284172 | [284172-burrito-bison.json](./284172-burrito-bison.json) |
 | Burrito Bison Revenge | 95938 | [95938-burrito-bison-revenge.json](./95938-burrito-bison-revenge.json) |
