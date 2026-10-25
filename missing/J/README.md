@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Into Darkness | 243122 | [243122-journey-into-darkness.json](./243122-journey-into-darkness.json) |
 | Journey North | 335377 | [335377-journey-north.json](./335377-journey-north.json) |
 | Journey of a Roach | 9000 | [9000-journey-of-a-roach.json](./9000-journey-of-a-roach.json) |
+| Journey of a Special Average Balloon | 19616 | [19616-journey-of-a-special-average-balloon.json](./19616-journey-of-a-special-average-balloon.json) |
 | Journey of a Sprite | 179403 | [179403-journey-of-a-sprite.json](./179403-journey-of-a-sprite.json) |
 | Journey of Carrying Light | 369575 | [369575-journey-of-carrying-light.json](./369575-journey-of-carrying-light.json) |
 | Journey of Greed | 116510 | [116510-journey-of-greed.json](./116510-journey-of-greed.json) |
