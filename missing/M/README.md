@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicmaker | 8865 | [8865-magicmaker.json](./8865-magicmaker.json) |
 | Magicoal | 62260 | [62260-magicoal.json](./62260-magicoal.json) |
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
+| Magicolors | 121489 | [121489-magicolors.json](./121489-magicolors.json) |
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
 | Magiculon's Tower | 372622 | [372622-magiculons-tower.json](./372622-magiculons-tower.json) |
@@ -12901,6 +12902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter: World - Iceborne: Master Edition Digital Deluxe | 164814 | [164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json](./164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json) |
 | Monster Hunter: World - Steelbook Edition | 81355 | [81355-monster-hunter-world-steelbook-edition.json](./81355-monster-hunter-world-steelbook-edition.json) |
 | Monster Hunting: Incremental Grind Forever | 341332 | [341332-monster-hunting-incremental-grind-forever.json](./341332-monster-hunting-incremental-grind-forever.json) |
+| Monster Hunting... For Love! | 115436 | [115436-monster-hunting-for-love.json](./115436-monster-hunting-for-love.json) |
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
 | Monster Inn | 42140 | [42140-monster-inn.json](./42140-monster-inn.json) |
@@ -17247,6 +17249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
 | My Traditional Princes | 299600 | [299600-my-traditional-princes.json](./299600-my-traditional-princes.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
+| My Train Arrives | 121980 | [121980-my-train-arrives.json](./121980-my-train-arrives.json) |
 | My Train Arrives: Sea and Mountains | 274927 | [274927-my-train-arrives-sea-and-mountains.json](./274927-my-train-arrives-sea-and-mountains.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
