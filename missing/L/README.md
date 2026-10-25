@@ -5308,8 +5308,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living in the Ending World | 140406 | [140406-living-in-the-ending-world.json](./140406-living-in-the-ending-world.json) |
 | Living Island Project | 284330 | [284330-living-island-project.json](./284330-living-island-project.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
+| Living Legends Remastered: Frozen Beauty | 397289 | [397289-living-legends-remastered-frozen-beauty.json](./397289-living-legends-remastered-frozen-beauty.json) |
+| Living Legends Remastered: Frozen Beauty - Collector’s Edition | 397290 | [397290-living-legends-remastered-frozen-beauty-collector-s-edition.json](./397290-living-legends-remastered-frozen-beauty-collector-s-edition.json) |
 | Living Legends Remastered: Ice Rose | 187917 | [187917-living-legends-remastered-ice-rose.json](./187917-living-legends-remastered-ice-rose.json) |
 | Living Legends Remastered: Ice Rose - Collector's Edition | 170185 | [170185-living-legends-remastered-ice-rose-collectors-edition.json](./170185-living-legends-remastered-ice-rose-collectors-edition.json) |
+| Living Legends Remastered: Wrath of the Beast | 397292 | [397292-living-legends-remastered-wrath-of-the-beast.json](./397292-living-legends-remastered-wrath-of-the-beast.json) |
 | Living Legends Remastered: Wrath of the Beast - Collector's Edition | 241421 | [241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json](./241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json) |
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
 | Living Legends: Bound by Wishes - Collector's Edition | 212207 | [212207-living-legends-bound-by-wishes-collectors-edition.json](./212207-living-legends-bound-by-wishes-collectors-edition.json) |
@@ -7372,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
 | Lovely Anemone | 184905 | [184905-lovely-anemone.json](./184905-lovely-anemone.json) |
 | Lovely Animal Stories | 173201 | [173201-lovely-animal-stories.json](./173201-lovely-animal-stories.json) |
+| Lovely Anime Puzzle: Autumn | 397288 | [397288-lovely-anime-puzzle-autumn.json](./397288-lovely-anime-puzzle-autumn.json) |
 | Lovely Anime Puzzle: Christmas | 369696 | [369696-lovely-anime-puzzle-christmas.json](./369696-lovely-anime-puzzle-christmas.json) |
 | Lovely Anime Puzzle: Easter | 397639 | [397639-lovely-anime-puzzle-easter.json](./397639-lovely-anime-puzzle-easter.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
