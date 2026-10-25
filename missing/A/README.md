@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Pack I Prince of Persia: Revelations & Prince of Persia: Rival Swords | 159110 | [159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json](./159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json) |
 | Action Pack: Armed Forces Corp. and Terrorist Takedown 2 | 202058 | [202058-action-pack-armed-forces-corp-and-terrorist-takedown-2.json](./202058-action-pack-armed-forces-corp-and-terrorist-takedown-2.json) |
 | Action Painting Pro | 128587 | [128587-action-painting-pro.json](./128587-action-painting-pro.json) |
+| Action Potato | 38671 | [38671-action-potato.json](./38671-action-potato.json) |
 | Action Puzzle: Prism Land | 266272 | [266272-action-puzzle-prism-land.json](./266272-action-puzzle-prism-land.json) |
 | Action Quake 2 | 221842 | [221842-action-quake-2.json](./221842-action-quake-2.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
@@ -3000,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7276,6 +7278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An ExScourgeon Through Space and Time! | 180658 | [180658-an-exscourgeon-through-space-and-time.json](./180658-an-exscourgeon-through-space-and-time.json) |
 | An Idle Nightmare | 334839 | [334839-an-idle-nightmare.json](./334839-an-idle-nightmare.json) |
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
+| An Imp? A Fiend! | 35635 | [35635-an-imp-a-fiend.json](./35635-an-imp-a-fiend.json) |
 | An Incremental Game About Placing Blocks | 390177 | [390177-an-incremental-game-about-placing-blocks.json](./390177-an-incremental-game-about-placing-blocks.json) |
 | An Indie Game a Month: Unreal Journey | 190973 | [190973-an-indie-game-a-month-unreal-journey.json](./190973-an-indie-game-a-month-unreal-journey.json) |
 | An Inner Walk | 251061 | [251061-an-inner-walk.json](./251061-an-inner-walk.json) |
@@ -8781,6 +8784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Small Favor... | 58011 | [58011-another-small-favor.json](./58011-another-small-favor.json) |
 | Another Sonic 2 Remake | 299015 | [299015-another-sonic-2-remake.json](./299015-another-sonic-2-remake.json) |
 | Another Space Opera: Episode 1 - The Wake of The Giant | 216469 | [216469-another-space-opera-episode-1-the-wake-of-the-giant.json](./216469-another-space-opera-episode-1-the-wake-of-the-giant.json) |
+| Another Star | 35545 | [35545-another-star.json](./35545-another-star.json) |
 | Another Summer | 420474 | [420474-another-summer.json](./420474-another-summer.json) |
 | Another Super Mario 3D | 132829 | [132829-another-super-mario-3d.json](./132829-another-super-mario-3d.json) |
 | Another Super Mario Bros. Wii | 132850 | [132850-another-super-mario-bros-wii.json](./132850-another-super-mario-bros-wii.json) |
@@ -9574,6 +9578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | April 7th | 58863 | [58863-april-7th.json](./58863-april-7th.json) |
 | April Grove | 339401 | [339401-april-grove.json](./339401-april-grove.json) |
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
+| APT | 35534 | [35534-apt.json](./35534-apt.json) |
 | Apt. 407 | 345437 | [345437-apt-407.json](./345437-apt-407.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
@@ -13070,6 +13075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
 | Astron Belt | 22732 | [22732-astron-belt.json](./22732-astron-belt.json) |
 | Astronarch | 132353 | [132353-astronarch.json](./132353-astronarch.json) |
+| Astronaut Simulator | 35580 | [35580-astronaut-simulator.json](./35580-astronaut-simulator.json) |
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | Astronauters | 252690 | [252690-astronauters.json](./252690-astronauters.json) |
@@ -13721,6 +13727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Killer Swarm | 78922 | [78922-attack-of-the-killer-swarm.json](./78922-attack-of-the-killer-swarm.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 7761 | [7761-attack-of-the-killer-tomatoes.json](./7761-attack-of-the-killer-tomatoes.json) |
+| Attack of the Labyrinth + | 35539 | [35539-attack-of-the-labyrinth.json](./35539-attack-of-the-labyrinth.json) |
 | Attack of the Mechadonk: The Ultimate Donkey | 173200 | [173200-attack-of-the-mechadonk-the-ultimate-donkey.json](./173200-attack-of-the-mechadonk-the-ultimate-donkey.json) |
 | Attack of the Movies 3D | 4683 | [4683-attack-of-the-movies-3d.json](./4683-attack-of-the-movies-3d.json) |
 | Attack of the Murder Hornets | 180495 | [180495-attack-of-the-murder-hornets.json](./180495-attack-of-the-murder-hornets.json) |
