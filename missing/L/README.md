@@ -2913,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lesbian Voyeur Simulator 2 | 196128 | [196128-lesbian-voyeur-simulator-2.json](./196128-lesbian-voyeur-simulator-2.json) |
 | LesbiAnts | 291593 | [291593-lesbiants.json](./291593-lesbiants.json) |
 | Leshy Prelude | 321117 | [321117-leshy-prelude.json](./321117-leshy-prelude.json) |
+| Leslie | 411993 | [411993-leslie.json](./411993-leslie.json) |
 | Leslie & Brianne's Galactic Rampage | 353374 | [353374-leslie-and-briannes-galactic-rampage.json](./353374-leslie-and-briannes-galactic-rampage.json) |
 | LesLove.Club: Emily and Sarah | 155569 | [155569-leslove-club-emily-and-sarah.json](./155569-leslove-club-emily-and-sarah.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
@@ -3184,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Tap | 4970 | [4970-lets-tap.json](./4970-lets-tap.json) |
 | Let's Tap: Tap Runner | 56899 | [56899-lets-tap-tap-runner.json](./56899-lets-tap-tap-runner.json) |
 | Let's Throoow! Street Basketball Simulator | 300869 | [300869-lets-throoow-street-basketball-simulator.json](./300869-lets-throoow-street-basketball-simulator.json) |
+| Let's Tidy Up!: Konbini | 412002 | [412002-lets-tidy-up-konbini.json](./412002-lets-tidy-up-konbini.json) |
 | Let's Watch Steamboat Willie | 319001 | [319001-lets-watch-steamboat-willie.json](./319001-lets-watch-steamboat-willie.json) |
 | Let's Worm | 115686 | [115686-lets-worm.json](./115686-lets-worm.json) |
 | Let's zig zag | 81655 | [81655-lets-zig-zag.json](./81655-lets-zig-zag.json) |
@@ -4248,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LimeLight Lemonade Jam | 371255 | [371255-limelight-lemonade-jam.json](./371255-limelight-lemonade-jam.json) |
 | Limen | 236921 | [236921-limen.json](./236921-limen.json) |
 | limentional | 296930 | [296930-limentional.json](./296930-limentional.json) |
+| Limerence | 411959 | [411959-limerence.json](./411959-limerence.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
 | Limestone | 322057 | [322057-limestone.json](./322057-limestone.json) |
@@ -6205,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbox Lyfe | 118586 | [118586-lootbox-lyfe.json](./118586-lootbox-lyfe.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
+| Lootdeck | 411986 | [411986-lootdeck.json](./411986-lootdeck.json) |
 | Lootem | 226181 | [226181-lootem.json](./226181-lootem.json) |
 | Lootfest | 35351 | [35351-lootfest.json](./35351-lootfest.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
