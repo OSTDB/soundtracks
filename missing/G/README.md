@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
+| Galactic Shipwright | 75399 | [75399-galactic-shipwright.json](./75399-galactic-shipwright.json) |
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
 | Galactic Simulator2: Stargate | 344539 | [344539-galactic-simulator2-stargate.json](./344539-galactic-simulator2-stargate.json) |
 | Galactic Space Guard | 373171 | [373171-galactic-space-guard.json](./373171-galactic-space-guard.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins & Grottos | 20379 | [20379-goblins-and-grottos.json](./20379-goblins-and-grottos.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
+| Goblins Keep Coming - Tower Defense | 75390 | [75390-goblins-keep-coming-tower-defense.json](./75390-goblins-keep-coming-tower-defense.json) |
 | Goblins Never Die | 258446 | [258446-goblins-never-die.json](./258446-goblins-never-die.json) |
 | Goblins of Elderstone | 55262 | [55262-goblins-of-elderstone.json](./55262-goblins-of-elderstone.json) |
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
@@ -5970,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha Babes X-treme | 57912 | [57912-gotcha-babes-x-treme.json](./57912-gotcha-babes-x-treme.json) |
 | Gotcha Force | 3936 | [3936-gotcha-force.json](./3936-gotcha-force.json) |
 | Gotcha Number for Playdate | 276716 | [276716-gotcha-number-for-playdate.json](./276716-gotcha-number-for-playdate.json) |
+| Gotcha Racing | 59897 | [59897-gotcha-racing.json](./59897-gotcha-racing.json) |
 | Gotcha! | 27535 | [27535-gotcha.json](./27535-gotcha.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotchaball | 252006 | [252006-gotchaball.json](./252006-gotchaball.json) |
@@ -6599,6 +6602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
 | Grapple Dogs: Cosmic Canines | 263347 | [263347-grapple-dogs-cosmic-canines.json](./263347-grapple-dogs-cosmic-canines.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
+| Grapple Force Rena | 59774 | [59774-grapple-force-rena.json](./59774-grapple-force-rena.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
 | Grapple Gear | 194876 | [194876-grapple-gear.json](./194876-grapple-gear.json) |
 | Grapple Glide | 213533 | [213533-grapple-glide.json](./213533-grapple-glide.json) |
