@@ -10576,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyshine's Bedlam | 12637 | [12637-skyshines-bedlam.json](./12637-skyshines-bedlam.json) |
 | Skyshine's Bedlam Redux! | 51904 | [51904-skyshines-bedlam-redux.json](./51904-skyshines-bedlam-redux.json) |
 | Skyshine's Bedlam: Deluxe Edition | 51905 | [51905-skyshines-bedlam-deluxe-edition.json](./51905-skyshines-bedlam-deluxe-edition.json) |
+| Skyship Quest Story | 400170 | [400170-skyship-quest-story.json](./400170-skyship-quest-story.json) |
 | SkySouls | 262947 | [262947-skysouls.json](./262947-skysouls.json) |
 | Skystead Christmas | 327864 | [327864-skystead-christmas.json](./327864-skystead-christmas.json) |
 | Skystead Ranch | 258560 | [258560-skystead-ranch.json](./258560-skystead-ranch.json) |
@@ -12027,6 +12028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
 | Snack & Slash | 100665 | [100665-snack-and-slash.json](./100665-snack-and-slash.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
+| Snack and Quack: Duckling Steps | 400171 | [400171-snack-and-quack-duckling-steps.json](./400171-snack-and-quack-duckling-steps.json) |
 | Snack Attack | 374133 | [374133-snack-attack.json](./374133-snack-attack.json) |
 | Snack Attack and Friends | 74750 | [74750-snack-attack-and-friends.json](./74750-snack-attack-and-friends.json) |
 | Snack Attack II | 25151 | [25151-snack-attack-ii.json](./25151-snack-attack-ii.json) |
@@ -13727,6 +13729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Raid: Mage | 394614 | [394614-solo-raid-mage.json](./394614-solo-raid-mage.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
 | Solo Royale | 172950 | [172950-solo-royale.json](./172950-solo-royale.json) |
+| Solo Shift! | 400173 | [400173-solo-shift.json](./400173-solo-shift.json) |
 | Solo Tactics | 374790 | [374790-solo-tactics.json](./374790-solo-tactics.json) |
 | Solo_Poker | 118936 | [118936-solo-poker.json](./118936-solo-poker.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
@@ -22645,6 +22648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Shadow | 258651 | [258651-strange-shadow.json](./258651-strange-shadow.json) |
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
 | Strange Space | 35437 | [35437-strange-space.json](./35437-strange-space.json) |
+| Strange Tales from Longchun: Sacrifice | 400188 | [400188-strange-tales-from-longchun-sacrifice.json](./400188-strange-tales-from-longchun-sacrifice.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
 | Strange Terror from the Deep | 184939 | [184939-strange-terror-from-the-deep.json](./184939-strange-terror-from-the-deep.json) |
