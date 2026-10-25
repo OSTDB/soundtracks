@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hansel and Gretel: Interactive Book | 265837 | [265837-hansel-and-gretel-interactive-book.json](./265837-hansel-and-gretel-interactive-book.json) |
 | Hanshin Tigers DS | 123320 | [123320-hanshin-tigers-ds.json](./123320-hanshin-tigers-ds.json) |
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
+| Hantu and Hunted | 408579 | [408579-hantu-and-hunted.json](./408579-hantu-and-hunted.json) |
 | Hanx101 Trivia | 215154 | [215154-hanx101-trivia.json](./215154-hanx101-trivia.json) |
 | Hany Party Game | 65315 | [65315-hany-party-game.json](./65315-hany-party-game.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
@@ -5170,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Gambit: Respawned | 133136 | [133136-hex-gambit-respawned.json](./133136-hex-gambit-respawned.json) |
 | HEX Hacking Simulator | 156205 | [156205-hex-hacking-simulator.json](./156205-hex-hacking-simulator.json) |
 | Hex Heroes | 61974 | [61974-hex-heroes.json](./61974-hex-heroes.json) |
+| Hex Judge | 408581 | [408581-hex-judge.json](./408581-hex-judge.json) |
 | Hex Jump | 264208 | [264208-hex-jump.json](./264208-hex-jump.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
 | Hex Mechs | 103555 | [103555-hex-mechs.json](./103555-hex-mechs.json) |
@@ -7996,6 +7998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope 01 | 398473 | [398473-hope-01.json](./398473-hope-01.json) |
 | Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
 | Hope Despair Chaos | 176688 | [176688-hope-despair-chaos.json](./176688-hope-despair-chaos.json) |
+| Hope Falters | 408602 | [408602-hope-falters.json](./408602-hope-falters.json) |
 | Hope for City | 122163 | [122163-hope-for-city.json](./122163-hope-for-city.json) |
 | Hope for Village | 116813 | [116813-hope-for-village.json](./116813-hope-for-village.json) |
 | Hope For Winter | 167584 | [167584-hope-for-winter.json](./167584-hope-for-winter.json) |
