@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S. Prysm Destroyer | 302785 | [302785-s-prysm-destroyer.json](./302785-s-prysm-destroyer.json) |
 | S.A.B.A.H. (Sun As Biased As Harmony) | 264596 | [264596-s-a-b-a-h-sun-as-biased-as-harmony.json](./264596-s-a-b-a-h-sun-as-biased-as-harmony.json) |
 | S.A.C. Alert | 282792 | [282792-s-a-c-alert.json](./282792-s-a-c-alert.json) |
+| S.A.F.E | 390459 | [390459-s-a-f-e.json](./390459-s-a-f-e.json) |
 | S.A.I.A Awakening: A Robothorium Visual Novel | 180058 | [180058-s-a-i-a-awakening-a-robothorium-visual-novel.json](./180058-s-a-i-a-awakening-a-robothorium-visual-novel.json) |
 | S.A.I.A awaknening: a Robothorium visual novel | 111851 | [111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json](./111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json) |
 | S.A.M | 312951 | [312951-s-a-m.json](./312951-s-a-m.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
 | Secret Paws: Cozy Apartments | 363887 | [363887-secret-paws-cozy-apartments.json](./363887-secret-paws-cozy-apartments.json) |
 | Secret Paws: Cozy Offices | 348838 | [348838-secret-paws-cozy-offices.json](./348838-secret-paws-cozy-offices.json) |
+| Secret Perfore | 390453 | [390453-secret-perfore.json](./390453-secret-perfore.json) |
 | Secret Pet Detective | 96574 | [96574-secret-pet-detective.json](./96574-secret-pet-detective.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
 | Secret Photo | 269212 | [269212-secret-photo.json](./269212-secret-photo.json) |
@@ -8346,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Sidius Nova | 413813 | [413813-sidius-nova.json](./413813-sidius-nova.json) |
 | Sidrial | 230164 | [230164-sidrial.json](./230164-sidrial.json) |
+| Sidyq | 390472 | [390472-sidyq.json](./390472-sidyq.json) |
 | Siebenpolis | 308458 | [308458-siebenpolis.json](./308458-siebenpolis.json) |
 | Siebenstreich's Nerdventure | 150270 | [150270-siebenstreichs-nerdventure.json](./150270-siebenstreichs-nerdventure.json) |
 | Siege | 394227 | [394227-siege.json](./394227-siege.json) |
@@ -15280,6 +15283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
 | Soul of Yokai | 229529 | [229529-soul-of-yokai.json](./229529-soul-of-yokai.json) |
 | Soul Orb | 9650 | [9650-soul-orb.json](./9650-soul-orb.json) |
+| Soul Order Online | 390657 | [390657-soul-order-online.json](./390657-soul-order-online.json) |
 | Soul Park | 307846 | [307846-soul-park.json](./307846-soul-park.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Reaper | 128464 | [128464-soul-reaper.json](./128464-soul-reaper.json) |
@@ -18919,6 +18923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Chaser | 146767 | [146767-spy-chaser.json](./146767-spy-chaser.json) |
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
 | Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
+| Spy Drops Gaiden | 390464 | [390464-spy-drops-gaiden.json](./390464-spy-drops-gaiden.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Fox 3: Operation Ozone | 7653 | [7653-spy-fox-3-operation-ozone.json](./7653-spy-fox-3-operation-ozone.json) |
 | Spy Fox Dry: Cereal and Cheese Chase - Activity Game | 208772 | [208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json](./208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json) |
@@ -22019,6 +22024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
 | Stick With It | 366557 | [366557-stick-with-it.json](./366557-stick-with-it.json) |
+| Stickcross Classic | 390470 | [390470-stickcross-classic.json](./390470-stickcross-classic.json) |
 | StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
 | Sticked Man Fighting Deluxe- Gravity Combat | 97096 | [97096-sticked-man-fighting-deluxe-gravity-combat.json](./97096-sticked-man-fighting-deluxe-gravity-combat.json) |
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
@@ -23159,7 +23165,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Pro-JP 2022 Saishunkan Sol Kumamoto Costumes Bundle | 342576 | [342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json](./342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json) |
 | Street Fighter V: Pro-JP 2022 v6plus FAV gaming Costumes Bundle | 345847 | [345847-street-fighter-v-pro-jp-2022-v6plus-fav-gaming-costumes-bundle.json](./345847-street-fighter-v-pro-jp-2022-v6plus-fav-gaming-costumes-bundle.json) |
 | Street Fighter V: School Costume Pack | 345849 | [345849-street-fighter-v-school-costume-pack.json](./345849-street-fighter-v-school-costume-pack.json) |
+| Street Fighter V: Season 1 Character Pass | 390441 | [390441-street-fighter-v-season-1-character-pass.json](./390441-street-fighter-v-season-1-character-pass.json) |
 | Street Fighter V: Season 1-3 Nostalgia Costume Pack | 343900 | [343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json](./343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json) |
+| Street Fighter V: Season 2 Character Pass | 390440 | [390440-street-fighter-v-season-2-character-pass.json](./390440-street-fighter-v-season-2-character-pass.json) |
+| Street Fighter V: Season 3 Character Pass | 390438 | [390438-street-fighter-v-season-3-character-pass.json](./390438-street-fighter-v-season-3-character-pass.json) |
 | Street Fighter V: Season 4 Character Pass | 350071 | [350071-street-fighter-v-season-4-character-pass.json](./350071-street-fighter-v-season-4-character-pass.json) |
 | Street Fighter V: Season 5 Character Pass | 350070 | [350070-street-fighter-v-season-5-character-pass.json](./350070-street-fighter-v-season-5-character-pass.json) |
 | Street Fighter V: SFL2020 NASR Costumes Bundle | 332657 | [332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json](./332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json) |
@@ -29131,6 +29140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Race | 306517 | [306517-switch-race.json](./306517-switch-race.json) |
 | Switch Shapes | 406772 | [406772-switch-shapes.json](./406772-switch-shapes.json) |
 | Switch Sides 2: Sea Sandwich | 255037 | [255037-switch-sides-2-sea-sandwich.json](./255037-switch-sides-2-sea-sandwich.json) |
+| Switch the Darkness | 390449 | [390449-switch-the-darkness.json](./390449-switch-the-darkness.json) |
 | Switch: Or Die Trying | 31968 | [31968-switch-or-die-trying.json](./31968-switch-or-die-trying.json) |
 | Switch: The Case of the Curious Cat | 414828 | [414828-switch-the-case-of-the-curious-cat.json](./414828-switch-the-case-of-the-curious-cat.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
