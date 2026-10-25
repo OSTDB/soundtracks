@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurei Hunt | 336741 | [336741-yurei-hunt.json](./336741-yurei-hunt.json) |
 | Yurei Ninja | 242213 | [242213-yurei-ninja.json](./242213-yurei-ninja.json) |
 | Yurei Station | 28495 | [28495-yurei-station.json](./28495-yurei-station.json) |
+| Yurei: Ink of the Damned | 388552 | [388552-yurei-ink-of-the-damned.json](./388552-yurei-ink-of-the-damned.json) |
 | Yureishia Eiyuusenki: Chronicle of Arstenia 500 | 409846 | [409846-yureishia-eiyuusenki-chronicle-of-arstenia-500.json](./409846-yureishia-eiyuusenki-chronicle-of-arstenia-500.json) |
 | Yuri Blossom! | 358314 | [358314-yuri-blossom.json](./358314-yuri-blossom.json) |
 | Yuri Kago no Sora | 133739 | [133739-yuri-kago-no-sora.json](./133739-yuri-kago-no-sora.json) |
