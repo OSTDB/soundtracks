@@ -2946,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nex-Ara | 364884 | [364884-nex-ara.json](./364884-nex-ara.json) |
 | Nex:Os Colosseum | 108760 | [108760-nex-os-colosseum.json](./108760-nex-os-colosseum.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
+| Nexagon: Deathmatch | 23691 | [23691-nexagon-deathmatch.json](./23691-nexagon-deathmatch.json) |
 | Nexo | 368376 | [368376-nexo.json](./368376-nexo.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
 | Nexomon + Nexomon Extinction: Complete Collection | 203097 | [203097-nexomon-nexomon-extinction-complete-collection.json](./203097-nexomon-nexomon-extinction-complete-collection.json) |
