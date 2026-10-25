@@ -3029,7 +3029,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -12929,6 +12928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra's Garden | 234543 | [234543-astras-garden.json](./234543-astras-garden.json) |
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
 | Astraaal | 133270 | [133270-astraaal.json](./133270-astraaal.json) |
+| Astrae Oratio | 403926 | [403926-astrae-oratio.json](./403926-astrae-oratio.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
 | Astraeus Odyssey | 365307 | [365307-astraeus-odyssey.json](./365307-astraeus-odyssey.json) |
