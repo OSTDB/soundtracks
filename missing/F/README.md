@@ -3155,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felspire | 23660 | [23660-felspire.json](./23660-felspire.json) |
 | Felt Mansion | 187315 | [187315-felt-mansion.json](./187315-felt-mansion.json) |
 | Felt That: Boxing | 347117 | [347117-felt-that-boxing.json](./347117-felt-that-boxing.json) |
+| Felt Tip Circus | 33906 | [33906-felt-tip-circus.json](./33906-felt-tip-circus.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
 | Female Knight Fllay: Tentacle Party | 97285 | [97285-female-knight-fllay-tentacle-party.json](./97285-female-knight-fllay-tentacle-party.json) |
 | Female Nation Takeover: josei Kokka Nottori Keikaku - Touzoku no Ore ga Ou ni naru | 260696 | [260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json](./260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json) |
@@ -9823,6 +9824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz: Don't Call Me a Chess Bot | 251396 | [251396-fritz-dont-call-me-a-chess-bot.json](./251396-fritz-dont-call-me-a-chess-bot.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Fritz&Chesster: learn to play chess Vol. 1 - Edition 2023 | 249044 | [249044-fritz-and-chesster-learn-to-play-chess-vol-1-edition-2023.json](./249044-fritz-and-chesster-learn-to-play-chess-vol-1-edition-2023.json) |
+| FritzChess 15 | 33899 | [33899-fritzchess-15.json](./33899-fritzchess-15.json) |
 | Frizzle | 319194 | [319194-frizzle.json](./319194-frizzle.json) |
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
 | Frobbutt 3D | 379139 | [379139-frobbutt-3d.json](./379139-frobbutt-3d.json) |
