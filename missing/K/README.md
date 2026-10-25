@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kelder | 311185 | [311185-kelder.json](./311185-kelder.json) |
 | Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
 | KelimeLink | 409855 | [409855-kelimelink.json](./409855-kelimelink.json) |
+| Kelipot | 121851 | [121851-kelipot.json](./121851-kelipot.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
