@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Memory: Reimagined | 196844 | [196844-one-last-memory-reimagined.json](./196844-one-last-memory-reimagined.json) |
 | One Last Planet | 177199 | [177199-one-last-planet.json](./177199-one-last-planet.json) |
 | One Last Raid | 307109 | [307109-one-last-raid.json](./307109-one-last-raid.json) |
+| One Last Ride | 387967 | [387967-one-last-ride.json](./387967-one-last-ride.json) |
 | One Last Sacrifice | 385342 | [385342-one-last-sacrifice.json](./385342-one-last-sacrifice.json) |
 | One Last Star Trip | 342073 | [342073-one-last-star-trip.json](./342073-one-last-star-trip.json) |
 | One Last Story | 327041 | [327041-one-last-story.json](./327041-one-last-story.json) |
@@ -2602,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onnanoko Keeper 2 | 150494 | [150494-onnanoko-keeper-2.json](./150494-onnanoko-keeper-2.json) |
 | Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
+| Onomastica | 387943 | [387943-onomastica.json](./387943-onomastica.json) |
 | Onomastica 2 | 102046 | [102046-onomastica-2.json](./102046-onomastica-2.json) |
 | Onoow | 298039 | [298039-onoow.json](./298039-onoow.json) |
 | OnOrbit: Virtual Space Lab | 216929 | [216929-onorbit-virtual-space-lab.json](./216929-onorbit-virtual-space-lab.json) |
@@ -2621,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onslaught | 341510 | [341510-onslaught.json](./341510-onslaught.json) |
 | Onslaught | 69201 | [69201-onslaught.json](./69201-onslaught.json) |
 | OnSlaught | 163293 | [163293-onslaught.json](./163293-onslaught.json) |
+| Onslaught 2.2 | 387944 | [387944-onslaught-2-2.json](./387944-onslaught-2-2.json) |
 | Onslaught on the Solar Frontier | 306369 | [306369-onslaught-on-the-solar-frontier.json](./306369-onslaught-on-the-solar-frontier.json) |
 | Onslaught VR | 90813 | [90813-onslaught-vr.json](./90813-onslaught-vr.json) |
 | Onslaught: Armoured Assault | 116740 | [116740-onslaught-armoured-assault.json](./116740-onslaught-armoured-assault.json) |
