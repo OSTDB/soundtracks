@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game no Tatsujin | 44404 | [44404-game-no-tatsujin.json](./44404-game-no-tatsujin.json) |
 | Game no Tatsujin: Money Wars | 41314 | [41314-game-no-tatsujin-money-wars.json](./41314-game-no-tatsujin-money-wars.json) |
 | Game no Tetsujin: The Shanghai | 44413 | [44413-game-no-tetsujin-the-shanghai.json](./44413-game-no-tetsujin-the-shanghai.json) |
+| Game of Bombs | 393930 | [393930-game-of-bombs.json](./393930-game-of-bombs.json) |
 | Game of Chaloupe | 105758 | [105758-game-of-chaloupe.json](./105758-game-of-chaloupe.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
 | Game of Crafts | 333992 | [333992-game-of-crafts.json](./333992-game-of-crafts.json) |
@@ -1819,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GasZilla | 226800 | [226800-gaszilla.json](./226800-gaszilla.json) |
 | Gat Life: Boyfriend Bar | 60451 | [60451-gat-life-boyfriend-bar.json](./60451-gat-life-boyfriend-bar.json) |
 | Gat Rat | 348830 | [348830-gat-rat.json](./348830-gat-rat.json) |
+| Gata Guressi | 394588 | [394588-gata-guressi.json](./394588-gata-guressi.json) |
 | Gataela | 56405 | [56405-gataela.json](./56405-gataela.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
 | Gatcha Gear | 285115 | [285115-gatcha-gear.json](./285115-gatcha-gear.json) |
@@ -4227,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloria: Kindan no Ketsuzoku | 94940 | [94940-gloria-kindan-no-ketsuzoku.json](./94940-gloria-kindan-no-ketsuzoku.json) |
 | Gloriana | 169888 | [169888-gloriana.json](./169888-gloriana.json) |
 | Glorious | 169851 | [169851-glorious.json](./169851-glorious.json) |
+| Glorious Cocktails | 394218 | [394218-glorious-cocktails.json](./394218-glorious-cocktails.json) |
 | Glorious Companions | 113839 | [113839-glorious-companions.json](./113839-glorious-companions.json) |
 | Glorious Dawn | 176179 | [176179-glorious-dawn.json](./176179-glorious-dawn.json) |
 | Glorious Golf | 353445 | [353445-glorious-golf.json](./353445-glorious-golf.json) |
@@ -5178,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gokichi-kun Series: Igo Nyuumon Doujou | 239566 | [239566-gokichi-kun-series-igo-nyuumon-doujou.json](./239566-gokichi-kun-series-igo-nyuumon-doujou.json) |
 | Gokinjo Boukentai | 42398 | [42398-gokinjo-boukentai.json](./42398-gokinjo-boukentai.json) |
 | Goku Makaimura Kai | 63644 | [63644-goku-makaimura-kai.json](./63644-goku-makaimura-kai.json) |
+| Gokudou no Hanayome | 394081 | [394081-gokudou-no-hanayome.json](./394081-gokudou-no-hanayome.json) |
 | Gokudou Simulation Teppoudama Jingi | 376131 | [376131-gokudou-simulation-teppoudama-jingi.json](./376131-gokudou-simulation-teppoudama-jingi.json) |
 | Gokujou Parodius: Kako no Eikou wo Motomete | 186142 | [186142-gokujou-parodius-kako-no-eikou-wo-motomete.json](./186142-gokujou-parodius-kako-no-eikou-wo-motomete.json) |
 | Gokujou!! Mecha Mote Iinchou: Girls Motekawa Box | 130713 | [130713-gokujou-mecha-mote-iinchou-girls-motekawa-box.json](./130713-gokujou-mecha-mote-iinchou-girls-motekawa-box.json) |
@@ -7591,6 +7595,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
 | Grigore’s Tales: Halloween | 315797 | [315797-grigore-s-tales-halloween.json](./315797-grigore-s-tales-halloween.json) |
 | GrigoriNightDragon | 336581 | [336581-grigorinightdragon.json](./336581-grigorinightdragon.json) |
+| Grii | 394583 | [394583-grii.json](./394583-grii.json) |
+| Grii 2 | 394585 | [394585-grii-2.json](./394585-grii-2.json) |
 | Grill it! Sanma | 370818 | [370818-grill-it-sanma.json](./370818-grill-it-sanma.json) |
 | Grill on Wheels | 272214 | [272214-grill-on-wheels.json](./272214-grill-on-wheels.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
@@ -7853,6 +7859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
 | Grizelda: Lynx and the Nine Lives | 201678 | [201678-grizelda-lynx-and-the-nine-lives.json](./201678-grizelda-lynx-and-the-nine-lives.json) |
 | Grizzly Adventure | 107829 | [107829-grizzly-adventure.json](./107829-grizzly-adventure.json) |
+| Grizzly Cup Turbo Challenge '92 | 393927 | [393927-grizzly-cup-turbo-challenge-92.json](./393927-grizzly-cup-turbo-challenge-92.json) |
 | Grizzly Retro Platformer | 98784 | [98784-grizzly-retro-platformer.json](./98784-grizzly-retro-platformer.json) |
 | Grizzly Valley | 33048 | [33048-grizzly-valley.json](./33048-grizzly-valley.json) |
 | Grizzly's | 231429 | [231429-grizzlys.json](./231429-grizzlys.json) |
