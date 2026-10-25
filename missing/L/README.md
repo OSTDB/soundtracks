@@ -6101,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LooperLands | 291984 | [291984-looperlands.json](./291984-looperlands.json) |
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
 | Loopers Plus | 280453 | [280453-loopers-plus.json](./280453-loopers-plus.json) |
+| Loopers: Duel | 422072 | [422072-loopers-duel.json](./422072-loopers-duel.json) |
 | Loopfang | 418663 | [418663-loopfang.json](./418663-loopfang.json) |
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
 | Loophole Pie | 364619 | [364619-loophole-pie.json](./364619-loophole-pie.json) |
