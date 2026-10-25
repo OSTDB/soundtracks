@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Wars Online | 110261 | [110261-idol-wars-online.json](./110261-idol-wars-online.json) |
 | Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
 | Idola Phantasy Star Saga | 106103 | [106103-idola-phantasy-star-saga.json](./106103-idola-phantasy-star-saga.json) |
+| Idolaters | 401470 | [401470-idolaters.json](./401470-idolaters.json) |
 | Idolish7 Twelve Fantasia! | 136760 | [136760-idolish7-twelve-fantasia.json](./136760-idolish7-twelve-fantasia.json) |
 | Idols Galore! | 92700 | [92700-idols-galore.json](./92700-idols-galore.json) |
 | Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
