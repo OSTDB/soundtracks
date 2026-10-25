@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
+| Mad Tower Tycoon | 107423 | [107423-mad-tower-tycoon.json](./107423-mad-tower-tycoon.json) |
 | Mad Trapper | 210845 | [210845-mad-trapper.json](./210845-mad-trapper.json) |
 | Mad Trax | 46442 | [46442-mad-trax.json](./46442-mad-trax.json) |
 | Mad TV | 14719 | [14719-mad-tv.json](./14719-mad-tv.json) |
@@ -13715,6 +13716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's Maximum Mahjongg 3 | 202186 | [202186-moraffs-maximum-mahjongg-3.json](./202186-moraffs-maximum-mahjongg-3.json) |
 | Moraff's MoreJongg | 209193 | [209193-moraffs-morejongg.json](./209193-moraffs-morejongg.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
+| Moral King | 107413 | [107413-moral-king.json](./107413-moral-king.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
 | Morana Online | 358221 | [358221-morana-online.json](./358221-morana-online.json) |
 | Moratheia | 171835 | [171835-moratheia.json](./171835-moratheia.json) |
@@ -14197,6 +14199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic: Tomb of Mystery | 210122 | [210122-mosaic-tomb-of-mystery.json](./210122-mosaic-tomb-of-mystery.json) |
 | Mosaica: Arboreal | 386877 | [386877-mosaica-arboreal.json](./386877-mosaica-arboreal.json) |
 | Mosaico | 287861 | [287861-mosaico.json](./287861-mosaico.json) |
+| Mosaics Galore | 107157 | [107157-mosaics-galore.json](./107157-mosaics-galore.json) |
 | Mosaics Galore 2 | 97005 | [97005-mosaics-galore-2.json](./97005-mosaics-galore-2.json) |
 | Mosaics Galore: Challenging Journey | 106143 | [106143-mosaics-galore-challenging-journey.json](./106143-mosaics-galore-challenging-journey.json) |
 | Mosaics Galore: Glorious Journey | 212972 | [212972-mosaics-galore-glorious-journey.json](./212972-mosaics-galore-glorious-journey.json) |
@@ -17049,6 +17052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Racing Car | 419864 | [419864-my-racing-car.json](./419864-my-racing-car.json) |
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
+| My RC Buggy! VR | 103196 | [103196-my-rc-buggy-vr.json](./103196-my-rc-buggy-vr.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
 | My Reaper Girlfriend | 230358 | [230358-my-reaper-girlfriend.json](./230358-my-reaper-girlfriend.json) |
 | My Recycling Center: Car Scrapyard Expansion | 358251 | [358251-my-recycling-center-car-scrapyard-expansion.json](./358251-my-recycling-center-car-scrapyard-expansion.json) |
