@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | Earyh-Quake | 138523 | [138523-earyh-quake.json](./138523-earyh-quake.json) |
 | Ease Out | 224544 | [224544-ease-out.json](./224544-ease-out.json) |
+| Easoar | 396670 | [396670-easoar.json](./396670-easoar.json) |
 | Eason | 192695 | [192695-eason.json](./192695-eason.json) |
 | East | 182314 | [182314-east.json](./182314-east.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
