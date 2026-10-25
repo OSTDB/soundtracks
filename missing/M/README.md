@@ -4424,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of the Universe | 280865 | [280865-masters-of-the-universe.json](./280865-masters-of-the-universe.json) |
 | Masters of the Universe II: Super Masters! | 41492 | [41492-masters-of-the-universe-ii-super-masters.json](./41492-masters-of-the-universe-ii-super-masters.json) |
 | Masters of the Universe: He-Man - Power of Grayskull | 6432 | [6432-masters-of-the-universe-he-man-power-of-grayskull.json](./6432-masters-of-the-universe-he-man-power-of-grayskull.json) |
+| Masters of the Universe: Legends Unite | 399034 | [399034-masters-of-the-universe-legends-unite.json](./399034-masters-of-the-universe-legends-unite.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
 | Masters of the World: Geopolitical Simulator 3 | 10542 | [10542-masters-of-the-world-geopolitical-simulator-3.json](./10542-masters-of-the-world-geopolitical-simulator-3.json) |
