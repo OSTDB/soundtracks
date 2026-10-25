@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
 | Legions of Dawn | 124722 | [124722-legions-of-dawn.json](./124722-legions-of-dawn.json) |
 | Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
+| Legions of Steel | 17614 | [17614-legions-of-steel.json](./17614-legions-of-steel.json) |
 | Legions of Tyrandel | 31123 | [31123-legions-of-tyrandel.json](./31123-legions-of-tyrandel.json) |
 | Legions: Overdrive | 72933 | [72933-legions-overdrive.json](./72933-legions-overdrive.json) |
 | Legionwood: Tale of the Two Swords | 33016 | [33016-legionwood-tale-of-the-two-swords.json](./33016-legionwood-tale-of-the-two-swords.json) |
@@ -2978,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Create! Pottery VR | 113887 | [113887-lets-create-pottery-vr.json](./113887-lets-create-pottery-vr.json) |
 | Let's Dance | 245698 | [245698-lets-dance.json](./245698-lets-dance.json) |
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
+| Let's Dance with Mel B | 19936 | [19936-lets-dance-with-mel-b.json](./19936-lets-dance-with-mel-b.json) |
 | Let's Do the Writing | 98849 | [98849-lets-do-the-writing.json](./98849-lets-do-the-writing.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Draw A Picture Together! | 68548 | [68548-lets-draw-a-picture-together.json](./68548-lets-draw-a-picture-together.json) |
