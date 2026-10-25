@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Otter Climb | 341495 | [341495-ocean-otter-climb.json](./341495-ocean-otter-climb.json) |
 | Ocean Patrol | 249138 | [249138-ocean-patrol.json](./249138-ocean-patrol.json) |
 | Ocean Planet | 301811 | [301811-ocean-planet.json](./301811-ocean-planet.json) |
+| Ocean Planet | 410687 | [410687-ocean-planet.json](./410687-ocean-planet.json) |
 | Ocean Playground | 341496 | [341496-ocean-playground.json](./341496-ocean-playground.json) |
 | Ocean Pop!: Calypso Collision | 390478 | [390478-ocean-pop-calypso-collision.json](./390478-ocean-pop-calypso-collision.json) |
 | Ocean Pressure | 269214 | [269214-ocean-pressure.json](./269214-ocean-pressure.json) |
@@ -1831,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
 | One Day of Mr. Potato | 246383 | [246383-one-day-of-mr-potato.json](./246383-one-day-of-mr-potato.json) |
 | One Day, the World | 414429 | [414429-one-day-the-world.json](./414429-one-day-the-world.json) |
+| One Death at a Time | 410688 | [410688-one-death-at-a-time.json](./410688-one-death-at-a-time.json) |
 | One Deck Dungeon: Abyssal Depths | 163255 | [163255-one-deck-dungeon-abyssal-depths.json](./163255-one-deck-dungeon-abyssal-depths.json) |
 | One Deck Dungeon: Caliana | 163257 | [163257-one-deck-dungeon-caliana.json](./163257-one-deck-dungeon-caliana.json) |
 | One Deck Dungeon: Cinder Plains | 163258 | [163258-one-deck-dungeon-cinder-plains.json](./163258-one-deck-dungeon-cinder-plains.json) |
