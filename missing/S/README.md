@@ -8417,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
 | Silence Falls | 231766 | [231766-silence-falls.json](./231766-silence-falls.json) |
 | Silence Forest | 346455 | [346455-silence-forest.json](./346455-silence-forest.json) |
+| Silence in Space - Season One | 83734 | [83734-silence-in-space-season-one.json](./83734-silence-in-space-season-one.json) |
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
 | Silence in the Dark | 157420 | [157420-silence-in-the-dark.json](./157420-silence-in-the-dark.json) |
 | Silence Notes | 110169 | [110169-silence-notes.json](./110169-silence-notes.json) |
@@ -11943,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Storm | 185330 | [185330-snail-storm.json](./185330-snail-storm.json) |
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
 | Snail Trainer | 282541 | [282541-snail-trainer.json](./282541-snail-trainer.json) |
+| Snail Trek Chapter 2 | 76494 | [76494-snail-trek-chapter-2.json](./76494-snail-trek-chapter-2.json) |
 | Snail Trek: Chapter 1 - Intershellar | 83336 | [83336-snail-trek-chapter-1-intershellar.json](./83336-snail-trek-chapter-1-intershellar.json) |
 | Snail Trek: Chapter 2 - A Snail of Two Worlds | 83337 | [83337-snail-trek-chapter-2-a-snail-of-two-worlds.json](./83337-snail-trek-chapter-2-a-snail-of-two-worlds.json) |
 | Snail Trek: Chapter 3 - Lettuce Be | 81675 | [81675-snail-trek-chapter-3-lettuce-be.json](./81675-snail-trek-chapter-3-lettuce-be.json) |
@@ -19745,6 +19747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Surveyor | 32760 | [32760-star-surveyor.json](./32760-star-surveyor.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sweep | 200367 | [200367-star-sweep.json](./200367-star-sweep.json) |
+| Star Sweet | 76476 | [76476-star-sweet.json](./76476-star-sweet.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star System Battle | 309463 | [309463-star-system-battle.json](./309463-star-system-battle.json) |
 | Star Tactics | 32001 | [32001-star-tactics.json](./32001-star-tactics.json) |
@@ -21350,6 +21353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
 | Steep X Games: Gold Edition | 164854 | [164854-steep-x-games-gold-edition.json](./164854-steep-x-games-gold-edition.json) |
 | Steep: Gold Edition | 53668 | [53668-steep-gold-edition.json](./53668-steep-gold-edition.json) |
+| Steep: Winter Games Edition | 83776 | [83776-steep-winter-games-edition.json](./83776-steep-winter-games-edition.json) |
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
 | Steeple Chase | 40693 | [40693-steeple-chase.json](./40693-steeple-chase.json) |
 | Steeplechase | 18204 | [18204-steeplechase.json](./18204-steeplechase.json) |
@@ -26570,14 +26574,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen Alpha for Dreamcast | 241829 | [241829-super-robot-taisen-alpha-for-dreamcast.json](./241829-super-robot-taisen-alpha-for-dreamcast.json) |
 | Super Robot Taisen Alpha Gaiden | 44850 | [44850-super-robot-taisen-alpha-gaiden.json](./44850-super-robot-taisen-alpha-gaiden.json) |
 | Super Robot Taisen Compact 3 | 37316 | [37316-super-robot-taisen-compact-3.json](./37316-super-robot-taisen-compact-3.json) |
+| Super Robot Taisen Complete Box | 79336 | [79336-super-robot-taisen-complete-box.json](./79336-super-robot-taisen-complete-box.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
 | Super Robot Taisen EX | 38234 | [38234-super-robot-taisen-ex.json](./38234-super-robot-taisen-ex.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
 | Super Robot Taisen Gaiden: Masou Kishin - The Lord of Elemental | 38233 | [38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json](./38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json) |
 | Super Robot Taisen GC | 4189 | [4189-super-robot-taisen-gc.json](./4189-super-robot-taisen-gc.json) |
+| Super Robot Taisen K | 79340 | [79340-super-robot-taisen-k.json](./79340-super-robot-taisen-k.json) |
 | Super Robot Taisen Neo | 76902 | [76902-super-robot-taisen-neo.json](./76902-super-robot-taisen-neo.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG Gaiden | 72741 | [72741-super-robot-taisen-og-gaiden.json](./72741-super-robot-taisen-og-gaiden.json) |
+| Super Robot Taisen OG Saga: Masou Kishin - The Lord of Elemental | 79343 | [79343-super-robot-taisen-og-saga-masou-kishin-the-lord-of-elemental.json](./79343-super-robot-taisen-og-saga-masou-kishin-the-lord-of-elemental.json) |
 | Super Robot Taisen OG Saga: Masou Kishin F - Coffin of the End | 61553 | [61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json](./61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json) |
 | Super Robot Taisen OG Saga: Masou Kishin II - Revelation of Evil God | 65453 | [65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json](./65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json) |
 | Super Robot Taisen OG Saga: Masou Kishin III - Pride of Justice | 63363 | [63363-super-robot-taisen-og-saga-masou-kishin-iii-pride-of-justice.json](./63363-super-robot-taisen-og-saga-masou-kishin-iii-pride-of-justice.json) |
