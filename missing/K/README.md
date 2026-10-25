@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
 | King of the Hat | 54974 | [54974-king-of-the-hat.json](./54974-king-of-the-hat.json) |
 | King of the Hill | 365459 | [365459-king-of-the-hill.json](./365459-king-of-the-hill.json) |
+| King of the Hill | 408566 | [408566-king-of-the-hill.json](./408566-king-of-the-hill.json) |
 | King of the Hill | 72285 | [72285-king-of-the-hill.json](./72285-king-of-the-hill.json) |
 | King of The Hill | 290519 | [290519-king-of-the-hill.json](./290519-king-of-the-hill.json) |
 | King of the Hill Classic | 256234 | [256234-king-of-the-hill-classic.json](./256234-king-of-the-hill-classic.json) |
