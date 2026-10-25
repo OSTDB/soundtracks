@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Home Sweet Home Special Edition | 361908 | [361908-harvest-moon-home-sweet-home-special-edition.json](./361908-harvest-moon-home-sweet-home-special-edition.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
+| Harvest Moon: Light of Hope - Decorations & Tool Upgrade Pack | 404555 | [404555-harvest-moon-light-of-hope-decorations-and-tool-upgrade-pack.json](./404555-harvest-moon-light-of-hope-decorations-and-tool-upgrade-pack.json) |
 | Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
 | Harvest Moon: Light of Hope - Special Edition: Doc's & Melanie's Special Episodes | 171296 | [171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json](./171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json) |
 | Harvest Moon: Light of Hope - Special Edition: New Marriageable Characters Pack | 171415 | [171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json](./171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
 | Harvest Moon: The Winds of Anthos | 228855 | [228855-harvest-moon-the-winds-of-anthos.json](./228855-harvest-moon-the-winds-of-anthos.json) |
 | Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
+| Harvest Moon: The Winds of Anthos - Interior Design & Tool Upgrade Pack | 404553 | [404553-harvest-moon-the-winds-of-anthos-interior-design-and-tool-upgrade-pack.json](./404553-harvest-moon-the-winds-of-anthos-interior-design-and-tool-upgrade-pack.json) |
 | Harvest Moon: The Winds of Anthos - Visitors From Afar Pack | 270288 | [270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json](./270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json) |
 | Harvest Moon: The Winds of Anthos Bundle | 269054 | [269054-harvest-moon-the-winds-of-anthos-bundle.json](./269054-harvest-moon-the-winds-of-anthos-bundle.json) |
 | Harvest of Names | 403443 | [403443-harvest-of-names.json](./403443-harvest-of-names.json) |
@@ -5264,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaMon | 75204 | [75204-hexamon.json](./75204-hexamon.json) |
 | Hexane | 214367 | [214367-hexane.json](./214367-hexane.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
+| Hexara | 404530 | [404530-hexara.json](./404530-hexara.json) |
 | Hexarchia | 175932 | [175932-hexarchia.json](./175932-hexarchia.json) |
 | Hexarchy | 139362 | [139362-hexarchy.json](./139362-hexarchy.json) |
 | Hexarden | 58586 | [58586-hexarden.json](./58586-hexarden.json) |
