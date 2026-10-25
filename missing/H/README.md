@@ -3247,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump: Letter Madness | 277896 | [277896-helix-jump-letter-madness.json](./277896-helix-jump-letter-madness.json) |
 | Helix Jump: Party Edition | 297301 | [297301-helix-jump-party-edition.json](./297301-helix-jump-party-edition.json) |
 | Helix Jump: Party Skins | 277898 | [277898-helix-jump-party-skins.json](./277898-helix-jump-party-skins.json) |
+| Helix Rush | 100919 | [100919-helix-rush.json](./100919-helix-rush.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
 | HelixMod VR | 121871 | [121871-helixmod-vr.json](./121871-helixmod-vr.json) |
@@ -8321,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Manager | 288809 | [288809-horse-racing-manager.json](./288809-horse-racing-manager.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Racing Manager 2018 | 100652 | [100652-horse-racing-manager-2018.json](./100652-horse-racing-manager-2018.json) |
+| Horse Racing Manager 2018 | 100907 | [100907-horse-racing-manager-2018.json](./100907-horse-racing-manager-2018.json) |
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
 | Horse Racing Rally | 133103 | [133103-horse-racing-rally.json](./133103-horse-racing-rally.json) |
 | Horse Riding Classic | 391814 | [391814-horse-riding-classic.json](./391814-horse-riding-classic.json) |
