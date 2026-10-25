@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G. Series: Shin Hero Ouga | 67370 | [67370-g-g-series-shin-hero-ouga.json](./67370-g-g-series-shin-hero-ouga.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.H.O.S.T. Hunters: The Haunting of Majesty Manor | 209751 | [209751-g-h-o-s-t-hunters-the-haunting-of-majesty-manor.json](./209751-g-h-o-s-t-hunters-the-haunting-of-majesty-manor.json) |
+| G.I. Combat: Episode 1 - Battle of Normandy | 79387 | [79387-g-i-combat-episode-1-battle-of-normandy.json](./79387-g-i-combat-episode-1-battle-of-normandy.json) |
 | G.I. Joe | 178246 | [178246-g-i-joe.json](./178246-g-i-joe.json) |
 | G.I. Joe: A Real American Hero | 218433 | [218433-g-i-joe-a-real-american-hero.json](./218433-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: A Real American Hero | 8165 | [8165-g-i-joe-a-real-american-hero.json](./8165-g-i-joe-a-real-american-hero.json) |
@@ -8227,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the 'Hood | 39353 | [39353-guardians-of-the-hood.json](./39353-guardians-of-the-hood.json) |
 | Guardians of the Ashes | 127753 | [127753-guardians-of-the-ashes.json](./127753-guardians-of-the-ashes.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
+| Guardians of the Galaxy Pinball | 83706 | [83706-guardians-of-the-galaxy-pinball.json](./83706-guardians-of-the-galaxy-pinball.json) |
 | Guardians of the Rose | 110195 | [110195-guardians-of-the-rose.json](./110195-guardians-of-the-rose.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
