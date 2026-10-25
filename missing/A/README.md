@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Loving Family | 297061 | [297061-a-loving-family.json](./297061-a-loving-family.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Lucky Hunt With Calista | 385277 | [385277-a-lucky-hunt-with-calista.json](./385277-a-lucky-hunt-with-calista.json) |
+| A Lucky Hunt With: Elara | 392958 | [392958-a-lucky-hunt-with-elara.json](./392958-a-lucky-hunt-with-elara.json) |
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
 | A Lullaby of Colors | 114901 | [114901-a-lullaby-of-colors.json](./114901-a-lullaby-of-colors.json) |
 | A Machine That Kills You | 307340 | [307340-a-machine-that-kills-you.json](./307340-a-machine-that-kills-you.json) |
@@ -6379,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlphaFurry | 347205 | [347205-alphafurry.json](./347205-alphafurry.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaJax | 64151 | [64151-alphajax.json](./64151-alphajax.json) |
+| Alphaland | 392990 | [392990-alphaland.json](./392990-alphaland.json) |
 | AlphaLink | 173170 | [173170-alphalink.json](./173170-alphalink.json) |
 | AlphaMan | 100109 | [100109-alphaman.json](./100109-alphaman.json) |
 | AlphaMan | 308344 | [308344-alphaman.json](./308344-alphaman.json) |
@@ -7421,6 +7423,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaheim Girl's Love Story | 83387 | [83387-anaheim-girls-love-story.json](./83387-anaheim-girls-love-story.json) |
 | Anahita | 81133 | [81133-anahita.json](./81133-anahita.json) |
 | Anahita: The Good Girl | 83151 | [83151-anahita-the-good-girl.json](./83151-anahita-the-good-girl.json) |
+| Anaksha Mini Adventures 1: A Sea of Fire | 392995 | [392995-anaksha-mini-adventures-1-a-sea-of-fire.json](./392995-anaksha-mini-adventures-1-a-sea-of-fire.json) |
+| Anaksha Mini Adventures 1.5: Quick Stop | 392997 | [392997-anaksha-mini-adventures-1-5-quick-stop.json](./392997-anaksha-mini-adventures-1-5-quick-stop.json) |
+| Anaksha Mini Adventures 2: A New Threat | 392998 | [392998-anaksha-mini-adventures-2-a-new-threat.json](./392998-anaksha-mini-adventures-2-a-new-threat.json) |
+| Anaksha: Dark Angel | 392999 | [392999-anaksha-dark-angel.json](./392999-anaksha-dark-angel.json) |
+| Anaksha: Female Assassin | 392994 | [392994-anaksha-female-assassin.json](./392994-anaksha-female-assassin.json) |
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
