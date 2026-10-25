@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Presence | 252725 | [252725-ominous-presence.json](./252725-ominous-presence.json) |
 | Ominous Recall | 317382 | [317382-ominous-recall.json](./317382-ominous-recall.json) |
 | Ominous Stew | 249022 | [249022-ominous-stew.json](./249022-ominous-stew.json) |
+| Ominous Tales: The Forsaken Isle | 38759 | [38759-ominous-tales-the-forsaken-isle.json](./38759-ominous-tales-the-forsaken-isle.json) |
 | Ominous Tales: The Forsaken Isle - Collector's Edition | 283839 | [283839-ominous-tales-the-forsaken-isle-collectors-edition.json](./283839-ominous-tales-the-forsaken-isle-collectors-edition.json) |
 | Ominous! | 135069 | [135069-ominous.json](./135069-ominous.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
@@ -3088,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Defender | 74195 | [74195-orbit-defender.json](./74195-orbit-defender.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
 | Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
+| Orbit HD | 35595 | [35595-orbit-hd.json](./35595-orbit-hd.json) |
 | Orbit Legends | 110029 | [110029-orbit-legends.json](./110029-orbit-legends.json) |
 | Orbit Maze | 347189 | [347189-orbit-maze.json](./347189-orbit-maze.json) |
 | Orbit of Death | 129423 | [129423-orbit-of-death.json](./129423-orbit-of-death.json) |
