@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 in 1 Family Games Mega Collection | 386365 | [386365-20-in-1-family-games-mega-collection.json](./386365-20-in-1-family-games-mega-collection.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Minutes Till Dawn | 199748 | [199748-20-minutes-till-dawn.json](./199748-20-minutes-till-dawn.json) |
+| 20 More, Somehow Even Smaller, Mazes | 393460 | [393460-20-more-somehow-even-smaller-mazes.json](./393460-20-more-somehow-even-smaller-mazes.json) |
 | 20 Small Mazes | 272249 | [272249-20-small-mazes.json](./272249-20-small-mazes.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
 | 20 Trials to Heaven | 416104 | [416104-20-trials-to-heaven.json](./416104-20-trials-to-heaven.json) |
