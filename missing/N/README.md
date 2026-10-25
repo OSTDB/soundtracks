@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naive Boy Super Lash | 309751 | [309751-naive-boy-super-lash.json](./309751-naive-boy-super-lash.json) |
 | Naive Novel | 297744 | [297744-naive-novel.json](./297744-naive-novel.json) |
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
+| Najavu no Daibouken: My Favorite Namjatown | 403315 | [403315-najavu-no-daibouken-my-favorite-namjatown.json](./403315-najavu-no-daibouken-my-favorite-namjatown.json) |
 | Nak | 330344 | [330344-nak.json](./330344-nak.json) |
 | Nak Sim: Fallen Warriors | 153380 | [153380-nak-sim-fallen-warriors.json](./153380-nak-sim-fallen-warriors.json) |
 | Nakadashi Banzai | 249100 | [249100-nakadashi-banzai.json](./249100-nakadashi-banzai.json) |
