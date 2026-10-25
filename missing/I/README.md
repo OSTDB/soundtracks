@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle League | 174777 | [174777-idle-league.json](./174777-idle-league.json) |
 | Idle Legends | 303184 | [303184-idle-legends.json](./303184-idle-legends.json) |
 | Idle Lemonade Tycoon Empire | 255802 | [255802-idle-lemonade-tycoon-empire.json](./255802-idle-lemonade-tycoon-empire.json) |
+| Idle Library | 395347 | [395347-idle-library.json](./395347-idle-library.json) |
 | Idle looter | 376073 | [376073-idle-looter.json](./376073-idle-looter.json) |
 | Idle Love | 101067 | [101067-idle-love.json](./101067-idle-love.json) |
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | III Spy | 71453 | [71453-iii-spy.json](./71453-iii-spy.json) |
 | iii: Revolving Wonderland | 151701 | [151701-iii-revolving-wonderland.json](./151701-iii-revolving-wonderland.json) |
 | Iin | 133920 | [133920-iin.json](./133920-iin.json) |
+| Iintwo | 395368 | [395368-iintwo.json](./395368-iintwo.json) |
 | IIslands of War | 126162 | [126162-iislands-of-war.json](./126162-iislands-of-war.json) |
 | Iiwake Docchi!? | 251621 | [251621-iiwake-docchi.json](./251621-iiwake-docchi.json) |
 | iJezzball | 88218 | [88218-ijezzball.json](./88218-ijezzball.json) |
@@ -1781,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illove dream | 243650 | [243650-illove-dream.json](./243650-illove-dream.json) |
 | Illu-Logi VOW | 269635 | [269635-illu-logi-vow.json](./269635-illu-logi-vow.json) |
 | Illum | 247605 | [247605-illum.json](./247605-illum.json) |
+| Illumi-Naughty ;): Remastered | 395372 | [395372-illumi-naughty-remastered.json](./395372-illumi-naughty-remastered.json) |
 | Illumina | 232868 | [232868-illumina.json](./232868-illumina.json) |
 | Illumina Defender | 369737 | [369737-illumina-defender.json](./369737-illumina-defender.json) |
 | Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
