@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parry de Bougai! Dual Runner | 355190 | [355190-parry-de-bougai-dual-runner.json](./355190-parry-de-bougai-dual-runner.json) |
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
 | Parry Nightmare | 214214 | [214214-parry-nightmare.json](./214214-parry-nightmare.json) |
+| Parrygon | 424656 | [424656-parrygon.json](./424656-parrygon.json) |
 | ParryMaster | 374810 | [374810-parrymaster.json](./374810-parrymaster.json) |
 | ParryRobot | 277371 | [277371-parryrobot.json](./277371-parryrobot.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
@@ -10821,6 +10822,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Lore | 56919 | [56919-potion-lore.json](./56919-potion-lore.json) |
 | Potion Meister | 163834 | [163834-potion-meister.json](./163834-potion-meister.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
+| Potion Pantry | 424645 | [424645-potion-pantry.json](./424645-potion-pantry.json) |
+| Potion Pantry: Sort the Apothecary | 424647 | [424647-potion-pantry-sort-the-apothecary.json](./424647-potion-pantry-sort-the-apothecary.json) |
 | Potion Party | 127583 | [127583-potion-party.json](./127583-potion-party.json) |
 | Potion Permit: Christmas Tree | 366954 | [366954-potion-permit-christmas-tree.json](./366954-potion-permit-christmas-tree.json) |
 | Potion Permit: Complete DLC Bundle | 304803 | [304803-potion-permit-complete-dlc-bundle.json](./304803-potion-permit-complete-dlc-bundle.json) |
@@ -14227,6 +14230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch the Stool John | 172510 | [172510-punch-the-stool-john.json](./172510-punch-the-stool-john.json) |
 | Punch The Undead | 291519 | [291519-punch-the-undead.json](./291519-punch-the-undead.json) |
 | Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
+| Punch Your Way Out | 424703 | [424703-punch-your-way-out.json](./424703-punch-your-way-out.json) |
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
 | Punch-Out!! | 84799 | [84799-punch-out.json](./84799-punch-out.json) |
 | Punch-Out!! | 9150 | [9150-punch-out.json](./9150-punch-out.json) |
