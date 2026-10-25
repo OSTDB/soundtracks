@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
 | Farming Simulator 14 | 52213 | [52213-farming-simulator-14.json](./52213-farming-simulator-14.json) |
 | Farming Simulator 15 | 9499 | [9499-farming-simulator-15.json](./9499-farming-simulator-15.json) |
+| Farming Simulator 15: Gold Edition | 24209 | [24209-farming-simulator-15-gold-edition.json](./24209-farming-simulator-15-gold-edition.json) |
 | Farming Simulator 15: Holmer | 166091 | [166091-farming-simulator-15-holmer.json](./166091-farming-simulator-15-holmer.json) |
 | Farming Simulator 15: JCB | 166084 | [166084-farming-simulator-15-jcb.json](./166084-farming-simulator-15-jcb.json) |
 | Farming Simulator 15: New Holland Pack | 166083 | [166083-farming-simulator-15-new-holland-pack.json](./166083-farming-simulator-15-new-holland-pack.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Nemo | 230428 | [230428-finding-nemo.json](./230428-finding-nemo.json) |
 | Finding Nemo | 273854 | [273854-finding-nemo.json](./273854-finding-nemo.json) |
 | Finding Nemo | 78481 | [78481-finding-nemo.json](./78481-finding-nemo.json) |
+| Finding Nemo: Escape to the Big Blue - Special Edition | 23681 | [23681-finding-nemo-escape-to-the-big-blue-special-edition.json](./23681-finding-nemo-escape-to-the-big-blue-special-edition.json) |
 | Finding Nemo: Learning with Nemo | 23777 | [23777-finding-nemo-learning-with-nemo.json](./23777-finding-nemo-learning-with-nemo.json) |
 | Finding Nemo: Nemo's Ocean Discoveries | 85838 | [85838-finding-nemo-nemos-ocean-discoveries.json](./85838-finding-nemo-nemos-ocean-discoveries.json) |
 | Finding Nemo: Nemo's Underwater World of Fun | 18258 | [18258-finding-nemo-nemos-underwater-world-of-fun.json](./18258-finding-nemo-nemos-underwater-world-of-fun.json) |
