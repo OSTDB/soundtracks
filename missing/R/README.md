@@ -8933,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
 | Room Planner | 183268 | [183268-room-planner.json](./183268-room-planner.json) |
+| Room Prison | 418835 | [418835-room-prison.json](./418835-room-prison.json) |
 | Room Room | 176336 | [176336-room-room.json](./176336-room-room.json) |
 | Room Rules | 382951 | [382951-room-rules.json](./382951-room-rules.json) |
 | Room Service | 343231 | [343231-room-service.json](./343231-room-service.json) |
@@ -10322,6 +10323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Shadow - RPG Runner | 38718 | [38718-running-shadow-rpg-runner.json](./38718-running-shadow-rpg-runner.json) |
 | Running Sheep | 25480 | [25480-running-sheep.json](./25480-running-sheep.json) |
 | Running Sheep: Tiny Worlds | 95252 | [95252-running-sheep-tiny-worlds.json](./95252-running-sheep-tiny-worlds.json) |
+| Running Souls | 418868 | [418868-running-souls.json](./418868-running-souls.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
 | Running Through Russia 2 | 104074 | [104074-running-through-russia-2.json](./104074-running-through-russia-2.json) |
