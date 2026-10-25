@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-25T11:03:34.486Z",
-  "total_missing": 260159,
+  "generated_at": "2026-10-25T11:18:54.402Z",
+  "total_missing": 260209,
   "games": [
     {
       "igdb_id": 191680,
@@ -12907,6 +12907,11 @@
       "file": "missing/0-9/416809-771.json"
     },
     {
+      "igdb_id": 412624,
+      "game_name": "7743",
+      "file": "missing/0-9/412624-7743.json"
+    },
+    {
       "igdb_id": 122259,
       "game_name": "7776 II: Dwarven Greed",
       "file": "missing/0-9/122259-7776-ii-dwarven-greed.json"
@@ -24330,6 +24335,11 @@
       "igdb_id": 138690,
       "game_name": "ACE / ACE 2",
       "file": "missing/A/138690-ace-ace-2.json"
+    },
+    {
+      "igdb_id": 412607,
+      "game_name": "Ace & Aro: Heart-to-Heart",
+      "file": "missing/A/412607-ace-and-aro-heart-to-heart.json"
     },
     {
       "igdb_id": 142084,
@@ -66602,6 +66612,11 @@
       "file": "missing/A/391876-arcadletra.json"
     },
     {
+      "igdb_id": 412623,
+      "game_name": "Arcadox",
+      "file": "missing/A/412623-arcadox.json"
+    },
+    {
       "igdb_id": 270642,
       "game_name": "Arcadrome",
       "file": "missing/A/270642-arcadrome.json"
@@ -75515,6 +75530,11 @@
       "igdb_id": 52605,
       "game_name": "Ashes of the Singularity: Escalation Gold",
       "file": "missing/A/52605-ashes-of-the-singularity-escalation-gold.json"
+    },
+    {
+      "igdb_id": 412591,
+      "game_name": "Ashes of Vaelmoor",
+      "file": "missing/A/412591-ashes-of-vaelmoor.json"
     },
     {
       "igdb_id": 369665,
@@ -93872,6 +93892,11 @@
       "file": "missing/B/402299-bag-fight.json"
     },
     {
+      "igdb_id": 412589,
+      "game_name": "Bag Fight: Gem Satchel Edition",
+      "file": "missing/B/412589-bag-fight-gem-satchel-edition.json"
+    },
+    {
       "igdb_id": 410852,
       "game_name": "Bag Fight: Handful Edition",
       "file": "missing/B/410852-bag-fight-handful-edition.json"
@@ -95762,6 +95787,11 @@
       "file": "missing/B/187356-ball-physics-draw-puzzles-2.json"
     },
     {
+      "igdb_id": 412590,
+      "game_name": "Ball Picker: Clean Up the Golf Yard",
+      "file": "missing/B/412590-ball-picker-clean-up-the-golf-yard.json"
+    },
+    {
       "igdb_id": 276257,
       "game_name": "Ball Pit King 3D",
       "file": "missing/B/276257-ball-pit-king-3d.json"
@@ -96560,6 +96590,11 @@
       "igdb_id": 67699,
       "game_name": "Balloon Rescue",
       "file": "missing/B/67699-balloon-rescue.json"
+    },
+    {
+      "igdb_id": 412625,
+      "game_name": "Balloon Ride",
+      "file": "missing/B/412625-balloon-ride.json"
     },
     {
       "igdb_id": 307371,
@@ -100850,6 +100885,11 @@
       "igdb_id": 14287,
       "game_name": "Baron Baldric: A Grave Adventure",
       "file": "missing/B/14287-baron-baldric-a-grave-adventure.json"
+    },
+    {
+      "igdb_id": 412592,
+      "game_name": "Baron Misanthrope",
+      "file": "missing/B/412592-baron-misanthrope.json"
     },
     {
       "igdb_id": 159153,
@@ -114310,6 +114350,11 @@
       "igdb_id": 277979,
       "game_name": "Behind the Beyond: Ulti",
       "file": "missing/B/277979-behind-the-beyond-ulti.json"
+    },
+    {
+      "igdb_id": 412620,
+      "game_name": "Behind the Broadcast: The Director's Cut",
+      "file": "missing/B/412620-behind-the-broadcast-the-directors-cut.json"
     },
     {
       "igdb_id": 342609,
@@ -131232,6 +131277,11 @@
       "file": "missing/B/346760-blind-touch.json"
     },
     {
+      "igdb_id": 412610,
+      "game_name": "Blind Touch VR",
+      "file": "missing/B/412610-blind-touch-vr.json"
+    },
+    {
       "igdb_id": 32672,
       "game_name": "Blind Trust",
       "file": "missing/B/32672-blind-trust.json"
@@ -147110,6 +147160,11 @@
       "igdb_id": 404274,
       "game_name": "Bowling Fever: Master Edition",
       "file": "missing/B/404274-bowling-fever-master-edition.json"
+    },
+    {
+      "igdb_id": 412588,
+      "game_name": "Bowling Fever: Max Edition",
+      "file": "missing/B/412588-bowling-fever-max-edition.json"
     },
     {
       "igdb_id": 399811,
@@ -214412,6 +214467,11 @@
       "file": "missing/C/204295-coloring-book-farm-life.json"
     },
     {
+      "igdb_id": 412587,
+      "game_name": "Coloring Book: Gold Edition",
+      "file": "missing/C/412587-coloring-book-gold-edition.json"
+    },
+    {
       "igdb_id": 319314,
       "game_name": "Coloring Book: Mandalas",
       "file": "missing/C/319314-coloring-book-mandalas.json"
@@ -223322,6 +223382,11 @@
       "file": "missing/C/396916-cooking-tycoons-3-in-1-bundle-premium-edition.json"
     },
     {
+      "igdb_id": 412586,
+      "game_name": "Cooking Tycoons: 3 in 1 Bundle - Silver Edition",
+      "file": "missing/C/412586-cooking-tycoons-3-in-1-bundle-silver-edition.json"
+    },
+    {
       "igdb_id": 410854,
       "game_name": "Cooking Tycoons: 3 in 1 Bundle Diamond Edition",
       "file": "missing/C/410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json"
@@ -225960,6 +226025,11 @@
       "igdb_id": 210871,
       "game_name": "Cosmic Cruiser",
       "file": "missing/C/210871-cosmic-cruiser.json"
+    },
+    {
+      "igdb_id": 412605,
+      "game_name": "Cosmic Crumbs: Bakery Simulator",
+      "file": "missing/C/412605-cosmic-crumbs-bakery-simulator.json"
     },
     {
       "igdb_id": 59448,
@@ -238462,6 +238532,11 @@
       "file": "missing/C/218063-crow-quest.json"
     },
     {
+      "igdb_id": 412614,
+      "game_name": "Crow Sign",
+      "file": "missing/C/412614-crow-sign.json"
+    },
+    {
       "igdb_id": 189147,
       "game_name": "Crow Story",
       "file": "missing/C/189147-crow-story.json"
@@ -247815,6 +247890,11 @@
       "igdb_id": 188493,
       "game_name": "Cyber Manhunt: Hello World",
       "file": "missing/C/188493-cyber-manhunt-hello-world.json"
+    },
+    {
+      "igdb_id": 412616,
+      "game_name": "Cyber Miner",
+      "file": "missing/C/412616-cyber-miner.json"
     },
     {
       "igdb_id": 241294,
@@ -271745,6 +271825,11 @@
       "igdb_id": 85077,
       "game_name": "Deep Sea Creatures",
       "file": "missing/D/85077-deep-sea-creatures.json"
+    },
+    {
+      "igdb_id": 412575,
+      "game_name": "Deep Sea Delivery & Co.",
+      "file": "missing/D/412575-deep-sea-delivery-and-co.json"
     },
     {
       "igdb_id": 114894,
@@ -338997,6 +339082,11 @@
       "file": "missing/E/376549-elestrals-awakened.json"
     },
     {
+      "igdb_id": 412612,
+      "game_name": "Elestrals Beyond",
+      "file": "missing/E/412612-elestrals-beyond.json"
+    },
+    {
       "igdb_id": 356622,
       "game_name": "Elestrals Clash!",
       "file": "missing/E/356622-elestrals-clash.json"
@@ -399652,6 +399742,11 @@
       "file": "missing/F/367721-focus-friend.json"
     },
     {
+      "igdb_id": 412600,
+      "game_name": "Focus Froggy",
+      "file": "missing/F/412600-focus-froggy.json"
+    },
+    {
       "igdb_id": 187499,
       "game_name": "Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die!",
       "file": "missing/F/187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json"
@@ -404222,6 +404317,11 @@
       "file": "missing/F/295312-forgotten-vale.json"
     },
     {
+      "igdb_id": 412577,
+      "game_name": "Forgotten Vault",
+      "file": "missing/F/412577-forgotten-vault.json"
+    },
+    {
       "igdb_id": 389042,
       "game_name": "Forgotten VIlla",
       "file": "missing/F/389042-forgotten-villa.json"
@@ -404905,6 +405005,11 @@
       "igdb_id": 399819,
       "game_name": "Formula Racing Pro 2026: GOTY Edition",
       "file": "missing/F/399819-formula-racing-pro-2026-goty-edition.json"
+    },
+    {
+      "igdb_id": 412585,
+      "game_name": "Formula Racing Pro 2026: Silver Edtion",
+      "file": "missing/F/412585-formula-racing-pro-2026-silver-edtion.json"
     },
     {
       "igdb_id": 396918,
@@ -438622,6 +438727,11 @@
       "file": "missing/G/412346-giggleport.json"
     },
     {
+      "igdb_id": 412578,
+      "game_name": "Giggleport: A Brainrot-Style Read-Along Adventure",
+      "file": "missing/G/412578-giggleport-a-brainrot-style-read-along-adventure.json"
+    },
+    {
       "igdb_id": 391762,
       "game_name": "Gigils",
       "file": "missing/G/391762-gigils.json"
@@ -446015,6 +446125,16 @@
       "igdb_id": 141207,
       "game_name": "Gods Will Fall",
       "file": "missing/G/141207-gods-will-fall.json"
+    },
+    {
+      "igdb_id": 412581,
+      "game_name": "Gods With Guns: Deluxe Edition",
+      "file": "missing/G/412581-gods-with-guns-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 412579,
+      "game_name": "Gods With Guns: Samurai Spirit",
+      "file": "missing/G/412579-gods-with-guns-samurai-spirit.json"
     },
     {
       "igdb_id": 328104,
@@ -530045,6 +530165,11 @@
       "igdb_id": 21688,
       "game_name": "Immortal Empire",
       "file": "missing/I/21688-immortal-empire.json"
+    },
+    {
+      "igdb_id": 412621,
+      "game_name": "Immortal Faces",
+      "file": "missing/I/412621-immortal-faces.json"
     },
     {
       "igdb_id": 369374,
@@ -651902,6 +652027,11 @@
       "file": "missing/M/399710-market-hours.json"
     },
     {
+      "igdb_id": 412597,
+      "game_name": "Market Manager Simulator",
+      "file": "missing/M/412597-market-manager-simulator.json"
+    },
+    {
       "igdb_id": 309952,
       "game_name": "Market Master Simulator",
       "file": "missing/M/309952-market-master-simulator.json"
@@ -666885,6 +667015,11 @@
       "igdb_id": 224750,
       "game_name": "Mega Serval",
       "file": "missing/M/224750-mega-serval.json"
+    },
+    {
+      "igdb_id": 412598,
+      "game_name": "Mega Snake: 16-Bit Edition",
+      "file": "missing/M/412598-mega-snake-16-bit-edition.json"
     },
     {
       "igdb_id": 209528,
@@ -706822,6 +706957,11 @@
       "file": "missing/M/254688-moto-rush-gt-silver-edition.json"
     },
     {
+      "igdb_id": 412583,
+      "game_name": "Moto Rush GT: Throne Edition",
+      "file": "missing/M/412583-moto-rush-gt-throne-edition.json"
+    },
+    {
       "igdb_id": 283138,
       "game_name": "Moto Rush GT: Ultimate Edition",
       "file": "missing/M/283138-moto-rush-gt-ultimate-edition.json"
@@ -707490,6 +707630,11 @@
       "igdb_id": 410857,
       "game_name": "Motorbikes Pro 2025: Superior Edition",
       "file": "missing/M/410857-motorbikes-pro-2025-superior-edition.json"
+    },
+    {
+      "igdb_id": 412584,
+      "game_name": "Motorbikes Pro 2025: Upgrade Edition",
+      "file": "missing/M/412584-motorbikes-pro-2025-upgrade-edition.json"
     },
     {
       "igdb_id": 396921,
@@ -742487,6 +742632,11 @@
       "file": "missing/N/293343-night-confessional.json"
     },
     {
+      "igdb_id": 412619,
+      "game_name": "Night Creed",
+      "file": "missing/N/412619-night-creed.json"
+    },
+    {
       "igdb_id": 113838,
       "game_name": "Night Crisis",
       "file": "missing/N/113838-night-crisis.json"
@@ -753992,6 +754142,11 @@
       "file": "missing/N/236307-nothing-can-stop-us-encore.json"
     },
     {
+      "igdb_id": 412603,
+      "game_name": "Nothing Goes Right: Bad Business",
+      "file": "missing/N/412603-nothing-goes-right-bad-business.json"
+    },
+    {
       "igdb_id": 297161,
       "game_name": "Nothing Good Can Come Of This",
       "file": "missing/N/297161-nothing-good-can-come-of-this.json"
@@ -763205,6 +763360,11 @@
       "igdb_id": 114753,
       "game_name": "Old Monastery Escape",
       "file": "missing/O/114753-old-monastery-escape.json"
+    },
+    {
+      "igdb_id": 412604,
+      "game_name": "Old Monterrey",
+      "file": "missing/O/412604-old-monterrey.json"
     },
     {
       "igdb_id": 163746,
@@ -861482,6 +861642,11 @@
       "file": "missing/Q/155999-quarantine-run.json"
     },
     {
+      "igdb_id": 412571,
+      "game_name": "Quarantine Wing: Horror",
+      "file": "missing/Q/412571-quarantine-wing-horror.json"
+    },
+    {
       "igdb_id": 373349,
       "game_name": "Quarantine Zombies",
       "file": "missing/Q/373349-quarantine-zombies.json"
@@ -866095,6 +866260,11 @@
       "igdb_id": 24770,
       "game_name": "Race: Caterham",
       "file": "missing/R/24770-race-caterham.json"
+    },
+    {
+      "igdb_id": 412580,
+      "game_name": "Race: ExTerminator Pack",
+      "file": "missing/R/412580-race-exterminator-pack.json"
     },
     {
       "igdb_id": 226724,
@@ -879692,6 +879862,11 @@
       "file": "missing/R/154018-red-and-white.json"
     },
     {
+      "igdb_id": 412613,
+      "game_name": "Red Ant Simulator",
+      "file": "missing/R/412613-red-ant-simulator.json"
+    },
+    {
       "igdb_id": 262797,
       "game_name": "Red Antz",
       "file": "missing/R/262797-red-antz.json"
@@ -879972,6 +880147,11 @@
       "file": "missing/R/366989-red-cape-knight.json"
     },
     {
+      "igdb_id": 412615,
+      "game_name": "Red Capture",
+      "file": "missing/R/412615-red-capture.json"
+    },
+    {
       "igdb_id": 313688,
       "game_name": "Red Carpet Diaries: Book 1",
       "file": "missing/R/313688-red-carpet-diaries-book-1.json"
@@ -880200,6 +880380,11 @@
       "igdb_id": 270941,
       "game_name": "Red Echo",
       "file": "missing/R/270941-red-echo.json"
+    },
+    {
+      "igdb_id": 412606,
+      "game_name": "Red Echoes: Berlin",
+      "file": "missing/R/412606-red-echoes-berlin.json"
     },
     {
       "igdb_id": 256353,
@@ -899987,6 +900172,11 @@
       "file": "missing/R/106804-robbotto.json"
     },
     {
+      "igdb_id": 412618,
+      "game_name": "RobBred: Funny Chat",
+      "file": "missing/R/412618-robbred-funny-chat.json"
+    },
+    {
       "igdb_id": 55806,
       "game_name": "Robby's Adventure",
       "file": "missing/R/55806-robbys-adventure.json"
@@ -918367,6 +918557,11 @@
       "file": "missing/S/268546-s-n-i-p-e-r-hunter-scope-elite-edition.json"
     },
     {
+      "igdb_id": 412582,
+      "game_name": "S.N.I.P.E.R.: Hunter Scope - Enhanced Edition",
+      "file": "missing/S/412582-s-n-i-p-e-r-hunter-scope-enhanced-edition.json"
+    },
+    {
       "igdb_id": 404284,
       "game_name": "S.N.I.P.E.R.: Hunter Scope - Enhancement Edition",
       "file": "missing/S/404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json"
@@ -919950,6 +920145,11 @@
       "igdb_id": 342744,
       "game_name": "Safe Zone",
       "file": "missing/S/342744-safe-zone.json"
+    },
+    {
+      "igdb_id": 412608,
+      "game_name": "Safe Zone",
+      "file": "missing/S/412608-safe-zone.json"
     },
     {
       "igdb_id": 296373,
@@ -973327,6 +973527,11 @@
       "file": "missing/S/265108-slime-alchemist.json"
     },
     {
+      "igdb_id": 412599,
+      "game_name": "Slime and Machinegun",
+      "file": "missing/S/412599-slime-and-machinegun.json"
+    },
+    {
       "igdb_id": 102756,
       "game_name": "Slime and Rancher",
       "file": "missing/S/102756-slime-and-rancher.json"
@@ -996825,6 +997030,11 @@
       "igdb_id": 318129,
       "game_name": "Space Cycle",
       "file": "missing/S/318129-space-cycle.json"
+    },
+    {
+      "igdb_id": 412602,
+      "game_name": "Space Cycler",
+      "file": "missing/S/412602-space-cycler.json"
     },
     {
       "igdb_id": 90818,
@@ -1075602,6 +1075812,11 @@
       "file": "missing/T/71058-tanx.json"
     },
     {
+      "igdb_id": 412622,
+      "game_name": "Tanxl",
+      "file": "missing/T/412622-tanxl.json"
+    },
+    {
       "igdb_id": 366377,
       "game_name": "Tanya Grotter And Magic Double Bass",
       "file": "missing/T/366377-tanya-grotter-and-magic-double-bass.json"
@@ -1143172,6 +1143387,16 @@
       "file": "missing/T/127061-the-walking-dead-season-two-episode-5-no-going-back.json"
     },
     {
+      "igdb_id": 412574,
+      "game_name": "The Walking Dead: Streets of Survival - Arcade Apocalypse Pack",
+      "file": "missing/T/412574-the-walking-dead-streets-of-survival-arcade-apocalypse-pack.json"
+    },
+    {
+      "igdb_id": 412573,
+      "game_name": "The Walking Dead: Streets of Survival - Deluxe Edition",
+      "file": "missing/T/412573-the-walking-dead-streets-of-survival-deluxe-edition.json"
+    },
+    {
       "igdb_id": 1831,
       "game_name": "The Walking Dead: Survival Instinct",
       "file": "missing/T/1831-the-walking-dead-survival-instinct.json"
@@ -1152285,6 +1152510,11 @@
       "igdb_id": 412910,
       "game_name": "Tide of Lone Stars",
       "file": "missing/T/412910-tide-of-lone-stars.json"
+    },
+    {
+      "igdb_id": 412609,
+      "game_name": "Tide of Tactics",
+      "file": "missing/T/412609-tide-of-tactics.json"
     },
     {
       "igdb_id": 421228,
@@ -1163425,6 +1163655,11 @@
       "igdb_id": 420658,
       "game_name": "Tiny Tank Showdown",
       "file": "missing/T/420658-tiny-tank-showdown.json"
+    },
+    {
+      "igdb_id": 412601,
+      "game_name": "Tiny Tanks",
+      "file": "missing/T/412601-tiny-tanks.json"
     },
     {
       "igdb_id": 78904,
@@ -1219422,6 +1219657,11 @@
       "file": "missing/U/20360-utopia-9-a-volatile-vacation.json"
     },
     {
+      "igdb_id": 412617,
+      "game_name": "Utopia Gatekeeper",
+      "file": "missing/U/412617-utopia-gatekeeper.json"
+    },
+    {
       "igdb_id": 378191,
       "game_name": "Utopia no Soubou",
       "file": "missing/U/378191-utopia-no-soubou.json"
@@ -1259247,6 +1259487,11 @@
       "file": "missing/W/333056-wild-willy-west.json"
     },
     {
+      "igdb_id": 412595,
+      "game_name": "Wild Wind",
+      "file": "missing/W/412595-wild-wind.json"
+    },
+    {
       "igdb_id": 391607,
       "game_name": "Wild Wizard War",
       "file": "missing/W/391607-wild-wizard-war.json"
@@ -1292320,6 +1292565,11 @@
       "igdb_id": 170772,
       "game_name": "Zeliria Sanctuary: Isle's Memories",
       "file": "missing/Z/170772-zeliria-sanctuary-isles-memories.json"
+    },
+    {
+      "igdb_id": 412572,
+      "game_name": "Zella's Gun",
+      "file": "missing/Z/412572-zellas-gun.json"
     },
     {
       "igdb_id": 220734,
