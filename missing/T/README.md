@@ -12178,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Inheritance | 71171 | [71171-the-phantom-inheritance.json](./71171-the-phantom-inheritance.json) |
 | The Phantom of the City | 112837 | [112837-the-phantom-of-the-city.json](./112837-the-phantom-of-the-city.json) |
 | The Phantom of the Museum | 412937 | [412937-the-phantom-of-the-museum.json](./412937-the-phantom-of-the-museum.json) |
+| The Phantom of the Opera | 421442 | [421442-the-phantom-of-the-opera.json](./421442-the-phantom-of-the-opera.json) |
 | The Phantom P.I. Mission Apparition | 61894 | [61894-the-phantom-p-i-mission-apparition.json](./61894-the-phantom-p-i-mission-apparition.json) |
 | The Phantom Slayer | 71212 | [71212-the-phantom-slayer.json](./71212-the-phantom-slayer.json) |
 | The Phantom Soul | 57548 | [57548-the-phantom-soul.json](./57548-the-phantom-soul.json) |
@@ -13481,6 +13482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons Bowling | 39415 | [39415-the-simpsons-bowling.json](./39415-the-simpsons-bowling.json) |
 | The Simpsons Game | 259329 | [259329-the-simpsons-game.json](./259329-the-simpsons-game.json) |
 | The Simpsons Game | 2656 | [2656-the-simpsons-game.json](./2656-the-simpsons-game.json) |
+| The Simpsons Game: Recompiled | 421446 | [421446-the-simpsons-game-recompiled.json](./421446-the-simpsons-game-recompiled.json) |
 | The Simpsons Movie: The Ball of Death | 315195 | [315195-the-simpsons-movie-the-ball-of-death.json](./315195-the-simpsons-movie-the-ball-of-death.json) |
 | The Simpsons Skateboarding | 2843 | [2843-the-simpsons-skateboarding.json](./2843-the-simpsons-skateboarding.json) |
 | The Simpsons Trivia | 221270 | [221270-the-simpsons-trivia.json](./221270-the-simpsons-trivia.json) |
@@ -17016,6 +17018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Thystle | 146628 | [146628-thystle.json](./146628-thystle.json) |
 | THZ | 238345 | [238345-thz.json](./238345-thz.json) |
+| TI Lander | 421401 | [421401-ti-lander.json](./421401-ti-lander.json) |
 | TI Puck | 421222 | [421222-ti-puck.json](./421222-ti-puck.json) |
 | TI-Pei | 419895 | [419895-ti-pei.json](./419895-ti-pei.json) |
 | TI-Sweeper | 421191 | [421191-ti-sweeper.json](./421191-ti-sweeper.json) |
@@ -17077,6 +17080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
 | Tic-Tac-Toast | 233078 | [233078-tic-tac-toast.json](./233078-tic-tac-toast.json) |
+| Tic-Tac-Toe | 421407 | [421407-tic-tac-toe.json](./421407-tic-tac-toe.json) |
 | Tic-Tac-Toe | 88434 | [88434-tic-tac-toe.json](./88434-tic-tac-toe.json) |
 | Tic-Tac-Toe - Two Players | 95561 | [95561-tic-tac-toe-two-players.json](./95561-tic-tac-toe-two-players.json) |
 | Tic-Tac-Toe Bolt | 301538 | [301538-tic-tac-toe-bolt.json](./301538-tic-tac-toe-bolt.json) |
@@ -27384,6 +27388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds: Epic Edition | 27841 | [27841-two-worlds-epic-edition.json](./27841-two-worlds-epic-edition.json) |
 | Two Worlds: The Game of the Year Edition | 53866 | [53866-two-worlds-the-game-of-the-year-edition.json](./53866-two-worlds-the-game-of-the-year-edition.json) |
 | Two Worlds: The Temptation | 72980 | [72980-two-worlds-the-temptation.json](./72980-two-worlds-the-temptation.json) |
+| Two-Fifteen | 421438 | [421438-two-fifteen.json](./421438-two-fifteen.json) |
 | Two-Sided Runner | 333741 | [333741-two-sided-runner.json](./333741-two-sided-runner.json) |
 | Two-Tenkaku | 43849 | [43849-two-tenkaku.json](./43849-two-tenkaku.json) |
 | Two-Timin' Towers | 142113 | [142113-two-timin-towers.json](./142113-two-timin-towers.json) |
