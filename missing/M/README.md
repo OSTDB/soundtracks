@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad CEO | 95973 | [95973-mad-ceo.json](./95973-mad-ceo.json) |
 | Mad Chess | 155921 | [155921-mad-chess.json](./155921-mad-chess.json) |
 | Mad City | 48575 | [48575-mad-city.json](./48575-mad-city.json) |
+| Mad Combat Marines | 32477 | [32477-mad-combat-marines.json](./32477-mad-combat-marines.json) |
 | Mad Cop 3 | 175371 | [175371-mad-cop-3.json](./175371-mad-cop-3.json) |
 | Mad Cow Man and Deep Fried Beef Fat Boy | 73741 | [73741-mad-cow-man-and-deep-fried-beef-fat-boy.json](./73741-mad-cow-man-and-deep-fried-beef-fat-boy.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetron | 34089 | [34089-magnetron.json](./34089-magnetron.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | MagNets: Fully Charged | 21322 | [21322-magnets-fully-charged.json](./21322-magnets-fully-charged.json) |
+| Magnetta | 32448 | [32448-magnetta.json](./32448-magnetta.json) |
 | Magnia | 123530 | [123530-magnia.json](./123530-magnia.json) |
 | Magnibox | 116051 | [116051-magnibox.json](./116051-magnibox.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
@@ -15271,6 +15273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Mag: The Dark Side Within | 414535 | [414535-mr-mag-the-dark-side-within.json](./414535-mr-mag-the-dark-side-within.json) |
 | Mr.Mine | 157130 | [157130-mr-mine.json](./157130-mr-mine.json) |
 | Mr.Ninja!! Fever | 248283 | [248283-mr-ninja-fever.json](./248283-mr-ninja-fever.json) |
+| mr.President Prologue | 31208 | [31208-mr-president-prologue.json](./31208-mr-president-prologue.json) |
 | Mr.President! | 24972 | [24972-mr-president.json](./24972-mr-president.json) |
 | Mr.Robbo | 311868 | [311868-mr-robbo.json](./311868-mr-robbo.json) |
 | Mr.Slime in Dungeon | 327974 | [327974-mr-slime-in-dungeon.json](./327974-mr-slime-in-dungeon.json) |
