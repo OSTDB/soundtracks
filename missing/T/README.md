@@ -6701,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Tales: Extended Edition | 221630 | [221630-the-darkest-tales-extended-edition.json](./221630-the-darkest-tales-extended-edition.json) |
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
+| The Darklight Chronicles | 387286 | [387286-the-darklight-chronicles.json](./387286-the-darklight-chronicles.json) |
 | The Darkness | 1347 | [1347-the-darkness.json](./1347-the-darkness.json) |
 | The Darkness | 281559 | [281559-the-darkness.json](./281559-the-darkness.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
@@ -8533,6 +8534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Hide n Seek Expawdition | 149727 | [149727-the-great-hide-n-seek-expawdition.json](./149727-the-great-hide-n-seek-expawdition.json) |
 | The Great House Escape | 386220 | [386220-the-great-house-escape.json](./386220-the-great-house-escape.json) |
 | The Great I Am | 343419 | [343419-the-great-i-am.json](./343419-the-great-i-am.json) |
+| The Great Indian Safari | 387415 | [387415-the-great-indian-safari.json](./387415-the-great-indian-safari.json) |
 | The Great Language Game | 58488 | [58488-the-great-language-game.json](./58488-the-great-language-game.json) |
 | The Great Menace | 154029 | [154029-the-great-menace.json](./154029-the-great-menace.json) |
 | The Great Mushroom Hunt | 114321 | [114321-the-great-mushroom-hunt.json](./114321-the-great-mushroom-hunt.json) |
@@ -13155,6 +13157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sagittarian | 381771 | [381771-the-sagittarian.json](./381771-the-sagittarian.json) |
 | The Sagittarian 2 | 381772 | [381772-the-sagittarian-2.json](./381772-the-sagittarian-2.json) |
 | The Sailor’s Guide to Game Design | 263140 | [263140-the-sailor-s-guide-to-game-design.json](./263140-the-sailor-s-guide-to-game-design.json) |
+| The Saint | 387384 | [387384-the-saint.json](./387384-the-saint.json) |
 | The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
 | The Saint's Tomb | 132052 | [132052-the-saints-tomb.json](./132052-the-saints-tomb.json) |
 | The Saiyuki Saruden | 59277 | [59277-the-saiyuki-saruden.json](./59277-the-saiyuki-saruden.json) |
@@ -13513,6 +13516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
 | The Shattered Knight of Elaria | 319231 | [319231-the-shattered-knight-of-elaria.json](./319231-the-shattered-knight-of-elaria.json) |
+| The Shattered Mind of Lucas Hayes | 387420 | [387420-the-shattered-mind-of-lucas-hayes.json](./387420-the-shattered-mind-of-lucas-hayes.json) |
 | The Shattered Veil | 324731 | [324731-the-shattered-veil.json](./324731-the-shattered-veil.json) |
 | The Shattering | 57834 | [57834-the-shattering.json](./57834-the-shattering.json) |
 | The Shattering: Secret Room | 155062 | [155062-the-shattering-secret-room.json](./155062-the-shattering-secret-room.json) |
@@ -20736,6 +20740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Dahl | 369151 | [369151-tom-dahl.json](./369151-tom-dahl.json) |
+| Tom Lander: The Exiled King | 387388 | [387388-tom-lander-the-exiled-king.json](./387388-tom-lander-the-exiled-king.json) |
 | Tom Landry Strategy Football | 71380 | [71380-tom-landry-strategy-football.json](./71380-tom-landry-strategy-football.json) |
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
 | Tom Mason's Dinosaurs for Hire | 46252 | [46252-tom-masons-dinosaurs-for-hire.json](./46252-tom-masons-dinosaurs-for-hire.json) |
@@ -22883,6 +22888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToyBoxers! | 403180 | [403180-toyboxers.json](./403180-toyboxers.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
 | ToyCar | 210228 | [210228-toycar.json](./210228-toycar.json) |
+| Toycrafter | 387297 | [387297-toycrafter.json](./387297-toycrafter.json) |
 | Toyforming | 250273 | [250273-toyforming.json](./250273-toyforming.json) |
 | Toyful Wonderworld | 292453 | [292453-toyful-wonderworld.json](./292453-toyful-wonderworld.json) |
 | Toyland Racer | 231847 | [231847-toyland-racer.json](./231847-toyland-racer.json) |
@@ -25644,6 +25650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triggerman | 43555 | [43555-triggerman.json](./43555-triggerman.json) |
 | Triggerun | 105713 | [105713-triggerun.json](./105713-triggerun.json) |
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
+| Trigodpats RPG | 387413 | [387413-trigodpats-rpg.json](./387413-trigodpats-rpg.json) |
 | Trigon: Space Story - Deluxe Edition | 227186 | [227186-trigon-space-story-deluxe-edition.json](./227186-trigon-space-story-deluxe-edition.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
 | Trigonarium | 284311 | [284311-trigonarium.json](./284311-trigonarium.json) |
@@ -27249,6 +27256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TWHL Tower 2 | 222198 | [222198-twhl-tower-2.json](./222198-twhl-tower-2.json) |
 | TWHL Tower: Source | 309161 | [309161-twhl-tower-source.json](./309161-twhl-tower-source.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
+| Twice as Bounce | 387405 | [387405-twice-as-bounce.json](./387405-twice-as-bounce.json) |
 | Twice Dead | 349082 | [349082-twice-dead.json](./349082-twice-dead.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
