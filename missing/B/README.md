@@ -6277,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Hop: Crazy BMX Bike Jump | 216073 | [216073-bike-hop-crazy-bmx-bike-jump.json](./216073-bike-hop-crazy-bmx-bike-jump.json) |
 | Bike Jump | 203701 | [203701-bike-jump.json](./203701-bike-jump.json) |
 | Bike Mayhem 2 | 21319 | [21319-bike-mayhem-2.json](./21319-bike-mayhem-2.json) |
+| Bike of the Wild | 75318 | [75318-bike-of-the-wild.json](./75318-bike-of-the-wild.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Park Simulator: BMX, Dirt Jump & MTB | 326473 | [326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json](./326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json) |
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
@@ -9994,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
 | Boggle | 264236 | [264236-boggle.json](./264236-boggle.json) |
 | Boggle | 282633 | [282633-boggle.json](./282633-boggle.json) |
+| Boggle | 59965 | [59965-boggle.json](./59965-boggle.json) |
 | Boggle Bash | 366411 | [366411-boggle-bash.json](./366411-boggle-bash.json) |
 | Boggle Bash 2 | 354963 | [354963-boggle-bash-2.json](./354963-boggle-bash-2.json) |
 | Boggle Plus | 92264 | [92264-boggle-plus.json](./92264-boggle-plus.json) |
@@ -13728,6 +13730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Fables: Aphid Festival | 145560 | [145560-bug-fables-aphid-festival.json](./145560-bug-fables-aphid-festival.json) |
 | Bug Fables: Vi Simulator | 327674 | [327674-bug-fables-vi-simulator.json](./327674-bug-fables-vi-simulator.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
+| Bug Heroes 2 | 61230 | [61230-bug-heroes-2.json](./61230-bug-heroes-2.json) |
 | Bug Heroes Quest | 101039 | [101039-bug-heroes-quest.json](./101039-bug-heroes-quest.json) |
 | Bug Heroes: Tower Defense | 266979 | [266979-bug-heroes-tower-defense.json](./266979-bug-heroes-tower-defense.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
