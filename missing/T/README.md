@@ -12676,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raintime | 121396 | [121396-the-raintime.json](./121396-the-raintime.json) |
 | The Rainy Night | 373693 | [373693-the-rainy-night.json](./373693-the-rainy-night.json) |
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
+| The Rake Sees You | 402713 | [402713-the-rake-sees-you.json](./402713-the-rake-sees-you.json) |
 | The Rake: Back To Asylum | 342135 | [342135-the-rake-back-to-asylum.json](./342135-the-rake-back-to-asylum.json) |
 | The Rake: Hostel | 342195 | [342195-the-rake-hostel.json](./342195-the-rake-hostel.json) |
 | The Rake: Red Forest | 30531 | [30531-the-rake-red-forest.json](./30531-the-rake-red-forest.json) |
@@ -15548,6 +15549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Life: Definitive Edition | 88398 | [88398-the-way-of-life-definitive-edition.json](./88398-the-way-of-life-definitive-edition.json) |
 | The Way of Life: Free Edition | 36291 | [36291-the-way-of-life-free-edition.json](./36291-the-way-of-life-free-edition.json) |
 | The Way of Love: Sub Zero | 74761 | [74761-the-way-of-love-sub-zero.json](./74761-the-way-of-love-sub-zero.json) |
+| The Way of Ping-pong | 402687 | [402687-the-way-of-ping-pong.json](./402687-the-way-of-ping-pong.json) |
 | The Way of the Badass | 204265 | [204265-the-way-of-the-badass.json](./204265-the-way-of-the-badass.json) |
 | The Way of the Tiger | 26463 | [26463-the-way-of-the-tiger.json](./26463-the-way-of-the-tiger.json) |
 | The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
@@ -21443,6 +21445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toshinden Card Quest | 43946 | [43946-toshinden-card-quest.json](./43946-toshinden-card-quest.json) |
 | Toshishita Kanojo | 382783 | [382783-toshishita-kanojo.json](./382783-toshishita-kanojo.json) |
 | Toshiue Kanojo | 317092 | [317092-toshiue-kanojo.json](./317092-toshiue-kanojo.json) |
+| Toshiue Kanojo no Amayaka Dousei | 402711 | [402711-toshiue-kanojo-no-amayaka-dousei.json](./402711-toshiue-kanojo-no-amayaka-dousei.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
 | Toss | 402223 | [402223-toss.json](./402223-toss.json) |
@@ -27595,6 +27598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type | 95255 | [95255-type.json](./95255-type.json) |
 | Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
 | Type & Hope!! | 317364 | [317364-type-and-hope.json](./317364-type-and-hope.json) |
+| Type & Magic | 402691 | [402691-type-and-magic.json](./402691-type-and-magic.json) |
 | Type & Tell | 41579 | [41579-type-and-tell.json](./41579-type-and-tell.json) |
 | Type 3 | 92338 | [92338-type-3.json](./92338-type-3.json) |
 | Type Attack | 95352 | [95352-type-attack.json](./95352-type-attack.json) |
