@@ -299,7 +299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Love: Face Designer | 334861 | [334861-face-love-face-designer.json](./334861-face-love-face-designer.json) |
 | Face Love! | 177875 | [177875-face-love.json](./177875-face-love.json) |
 | Face Maker | 44394 | [44394-face-maker.json](./44394-face-maker.json) |
-| Face Noir | 2625 | [2625-face-noir.json](./2625-face-noir.json) |
 | Face of Fear: The Forester | 373320 | [373320-face-of-fear-the-forester.json](./373320-face-of-fear-the-forester.json) |
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
 | Face of War | 216116 | [216116-face-of-war.json](./216116-face-of-war.json) |
