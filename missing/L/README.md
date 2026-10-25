@@ -4141,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilia's Livelihood: Girl, Tentacle and the Wonder Island | 82653 | [82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json](./82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json) |
 | Lilialette's Hustle: Getting My Hands Dirty to Save My Guild | 371445 | [371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json](./371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
+| Lilifel | 423882 | [423882-lilifel.json](./423882-lilifel.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
 | Lilith | 413898 | [413898-lilith.json](./413898-lilith.json) |
 | Lilith + Eve | 257837 | [257837-lilith-eve.json](./257837-lilith-eve.json) |
@@ -6192,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootfest | 35351 | [35351-lootfest.json](./35351-lootfest.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
 | Lootist | 316735 | [316735-lootist.json](./316735-lootist.json) |
+| Lootkeeper: Tidy Up the Loot | 423872 | [423872-lootkeeper-tidy-up-the-loot.json](./423872-lootkeeper-tidy-up-the-loot.json) |
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
 | LootMage | 366106 | [366106-lootmage.json](./366106-lootmage.json) |
 | LootOnline | 333592 | [333592-lootonline.json](./333592-lootonline.json) |
@@ -7850,6 +7852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | Lumiland | 166726 | [166726-lumiland.json](./166726-lumiland.json) |
 | Lumilight: The Fifth Energy | 350555 | [350555-lumilight-the-fifth-energy.json](./350555-lumilight-the-fifth-energy.json) |
+| Lumin: Echo of Spacetime | 423885 | [423885-lumin-echo-of-spacetime.json](./423885-lumin-echo-of-spacetime.json) |
 | Lumin's Path | 127712 | [127712-lumins-path.json](./127712-lumins-path.json) |
 | Lumina | 119091 | [119091-lumina.json](./119091-lumina.json) |
 | Lumina | 347889 | [347889-lumina.json](./347889-lumina.json) |
