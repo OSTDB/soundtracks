@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy Commander | 85305 | [85305-navy-commander.json](./85305-navy-commander.json) |
 | Navy Field | 55462 | [55462-navy-field.json](./55462-navy-field.json) |
 | Navy Field 2 : Conqueror of the Ocean | 28578 | [28578-navy-field-2-conqueror-of-the-ocean.json](./28578-navy-field-2-conqueror-of-the-ocean.json) |
+| Navy Island Confidential | 390461 | [390461-navy-island-confidential.json](./390461-navy-island-confidential.json) |
 | Navy Mission | 406046 | [406046-navy-mission.json](./406046-navy-mission.json) |
 | Navy Seal | 75117 | [75117-navy-seal.json](./75117-navy-seal.json) |
 | Navy Seals | 25150 | [25150-navy-seals.json](./25150-navy-seals.json) |
@@ -3794,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightline | 132031 | [132031-nightline.json](./132031-nightline.json) |
 | Nightlings | 338862 | [338862-nightlings.json](./338862-nightlings.json) |
 | Nightlong: Union City Conspiracy | 27379 | [27379-nightlong-union-city-conspiracy.json](./27379-nightlong-union-city-conspiracy.json) |
+| Nightlune Rule | 390379 | [390379-nightlune-rule.json](./390379-nightlune-rule.json) |
 | Nightly Hobo | 321463 | [321463-nightly-hobo.json](./321463-nightly-hobo.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | Nightly Trash | 236238 | [236238-nightly-trash.json](./236238-nightly-trash.json) |
@@ -4599,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
 | Nira Oni | 122929 | [122929-nira-oni.json](./122929-nira-oni.json) |
+| Niramare Quest: Saving a World That Loves Hating Me | 390434 | [390434-niramare-quest-saving-a-world-that-loves-hating-me.json](./390434-niramare-quest-saving-a-world-that-loves-hating-me.json) |
 | Niravasi | 206735 | [206735-niravasi.json](./206735-niravasi.json) |
 | Niraya of | 309326 | [309326-niraya-of.json](./309326-niraya-of.json) |
 | Nirih | 348325 | [348325-nirih.json](./348325-nirih.json) |
