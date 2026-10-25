@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenith | 24439 | [24439-zenith.json](./24439-zenith.json) |
 | Zenith | 377137 | [377137-zenith.json](./377137-zenith.json) |
 | Zenith | 78723 | [78723-zenith.json](./78723-zenith.json) |
+| Zenith Drift | 403935 | [403935-zenith-drift.json](./403935-zenith-drift.json) |
 | Zenith Falls | 140481 | [140481-zenith-falls.json](./140481-zenith-falls.json) |
 | Zenith Frontier | 149354 | [149354-zenith-frontier.json](./149354-zenith-frontier.json) |
 | Zenith Heroes | 306371 | [306371-zenith-heroes.json](./306371-zenith-heroes.json) |
