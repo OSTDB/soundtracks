@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10086,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
 | Bogwater | 381727 | [381727-bogwater.json](./381727-bogwater.json) |
 | Bogy Men | 60206 | [60206-bogy-men.json](./60206-bogy-men.json) |
+| BoHeM | 405747 | [405747-bohem.json](./405747-bohem.json) |
 | Bohemian Cupid | 338666 | [338666-bohemian-cupid.json](./338666-bohemian-cupid.json) |
 | Bohemian Symphony | 225803 | [225803-bohemian-symphony.json](./225803-bohemian-symphony.json) |
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
@@ -11206,6 +11208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Target Shoot | 102249 | [102249-bottle-target-shoot.json](./102249-bottle-target-shoot.json) |
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
+| Bottled by Bears | 405328 | [405328-bottled-by-bears.json](./405328-bottled-by-bears.json) |
 | Bottom of the 9th | 3369 | [3369-bottom-of-the-9th.json](./3369-bottom-of-the-9th.json) |
 | Bottom of the 9th | 93658 | [93658-bottom-of-the-9th.json](./93658-bottom-of-the-9th.json) |
 | Bottom of the 9th '97 | 43857 | [43857-bottom-of-the-9th-97.json](./43857-bottom-of-the-9th-97.json) |
@@ -13266,6 +13269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
 | Brume | 121093 | [121093-brume.json](./121093-brume.json) |
 | Brume | 405487 | [405487-brume.json](./405487-brume.json) |
+| Brumley | 405770 | [405770-brumley.json](./405770-brumley.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
 | Brunch Rush | 211031 | [211031-brunch-rush.json](./211031-brunch-rush.json) |
 | Brunelleschi: Age of Architects | 57535 | [57535-brunelleschi-age-of-architects.json](./57535-brunelleschi-age-of-architects.json) |
