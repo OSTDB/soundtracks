@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daburali | 319417 | [319417-daburali.json](./319417-daburali.json) |
 | Dabwoman: When the Dab isn't Sexist | 106622 | [106622-dabwoman-when-the-dab-isnt-sexist.json](./106622-dabwoman-when-the-dab-isnt-sexist.json) |
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
+| DAc0da | 410665 | [410665-dac0da.json](./410665-dac0da.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | Dachinko | 25484 | [25484-dachinko.json](./25484-dachinko.json) |
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
@@ -1483,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
 | Dark Raid | 17238 | [17238-dark-raid.json](./17238-dark-raid.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
+| Dark Rail | 410670 | [410670-dark-rail.json](./410670-dark-rail.json) |
 | Dark Realm: Guardian of Flames | 91168 | [91168-dark-realm-guardian-of-flames.json](./91168-dark-realm-guardian-of-flames.json) |
 | Dark Realm: Princess of Ice - Collector's Edition | 59147 | [59147-dark-realm-princess-of-ice-collectors-edition.json](./59147-dark-realm-princess-of-ice-collectors-edition.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
@@ -4132,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
 | Decline | 405959 | [405959-decline.json](./405959-decline.json) |
 | Decline | 406895 | [406895-decline.json](./406895-decline.json) |
+| Declutterer | 410686 | [410686-declutterer.json](./410686-declutterer.json) |
 | Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
 | Decodence | 351568 | [351568-decodence.json](./351568-decodence.json) |
@@ -9086,7 +9089,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: V Extension Pack | 225057 | [225057-djmax-respect-v-v-extension-pack.json](./225057-djmax-respect-v-v-extension-pack.json) |
 | DJMax Respect V: V Extension V Pack | 279537 | [279537-djmax-respect-v-v-extension-v-pack.json](./279537-djmax-respect-v-v-extension-v-pack.json) |
 | DJMax Respect V: V Liberty III Pack | 351490 | [351490-djmax-respect-v-v-liberty-iii-pack.json](./351490-djmax-respect-v-v-liberty-iii-pack.json) |
+| DJMax Respect V: V Liberty IV Pack | 410701 | [410701-djmax-respect-v-v-liberty-iv-pack.json](./410701-djmax-respect-v-v-liberty-iv-pack.json) |
 | DJMax Respect V: V Liberty Pack | 307059 | [307059-djmax-respect-v-v-liberty-pack.json](./307059-djmax-respect-v-v-liberty-pack.json) |
+| DJMax Respect V: V Liberty V Pack | 410700 | [410700-djmax-respect-v-v-liberty-v-pack.json](./410700-djmax-respect-v-v-liberty-v-pack.json) |
 | DJMax Respect: Chunithm Pack | 383046 | [383046-djmax-respect-chunithm-pack.json](./383046-djmax-respect-chunithm-pack.json) |
 | DJMax Respect: Limited Edition | 166278 | [166278-djmax-respect-limited-edition.json](./166278-djmax-respect-limited-edition.json) |
 | DJMax Respect: Technika3 Pack | 383056 | [383056-djmax-respect-technika3-pack.json](./383056-djmax-respect-technika3-pack.json) |
@@ -14406,6 +14411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
 | Dueledged | 200013 | [200013-dueledged.json](./200013-dueledged.json) |
 | Dueleum | 55791 | [55791-dueleum.json](./55791-dueleum.json) |
+| Duelgrounds | 410680 | [410680-duelgrounds.json](./410680-duelgrounds.json) |
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
 | Dueling Dungeon | 95584 | [95584-dueling-dungeon.json](./95584-dueling-dungeon.json) |
