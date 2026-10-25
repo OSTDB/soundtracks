@@ -5832,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
 | Evil Robots | 121556 | [121556-evil-robots.json](./121556-evil-robots.json) |
 | Evil Robots From N1M | 31844 | [31844-evil-robots-from-n1m.json](./31844-evil-robots-from-n1m.json) |
+| Evil School | 410052 | [410052-evil-school.json](./410052-evil-school.json) |
 | Evil Seal | 46449 | [46449-evil-seal.json](./46449-evil-seal.json) |
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
