@@ -10119,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
 | Run For Money | 199970 | [199970-run-for-money.json](./199970-run-for-money.json) |
 | Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
+| Run for Money: Hunter vs. Runner! Which Side Will You Win With!? | 386796 | [386796-run-for-money-hunter-vs-runner-which-side-will-you-win-with.json](./386796-run-for-money-hunter-vs-runner-which-side-will-you-win-with.json) |
 | Run For Rum: A Pirate Tale | 17542 | [17542-run-for-rum-a-pirate-tale.json](./17542-run-for-rum-a-pirate-tale.json) |
 | Run for the Bus | 292264 | [292264-run-for-the-bus.json](./292264-run-for-the-bus.json) |
 | Run for the Money | 401793 | [401793-run-for-the-money.json](./401793-run-for-the-money.json) |
@@ -10437,6 +10438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Fred | 294531 | [294531-running-fred.json](./294531-running-fred.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
 | Running High | 43769 | [43769-running-high.json](./43769-running-high.json) |
+| Running Horror | 386813 | [386813-running-horror.json](./386813-running-horror.json) |
 | Running in the Y2K | 200506 | [200506-running-in-the-y2k.json](./200506-running-in-the-y2k.json) |
 | Running into the Cyberpunk | 219655 | [219655-running-into-the-cyberpunk.json](./219655-running-into-the-cyberpunk.json) |
 | Running King | 83559 | [83559-running-king.json](./83559-running-king.json) |
