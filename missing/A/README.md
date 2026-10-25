@@ -8973,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antihero | 26856 | [26856-antihero.json](./26856-antihero.json) |
 | Antihero Book Club | 51694 | [51694-antihero-book-club.json](./51694-antihero-book-club.json) |
 | Antihero: Deluxe Edition | 51712 | [51712-antihero-deluxe-edition.json](./51712-antihero-deluxe-edition.json) |
+| Antihero: Digital Board Game | 87277 | [87277-antihero-digital-board-game.json](./87277-antihero-digital-board-game.json) |
 | Antihorror | 32249 | [32249-antihorror.json](./32249-antihorror.json) |
 | Antihue | 297461 | [297461-antihue.json](./297461-antihue.json) |
 | AntiKiller | 52415 | [52415-antikiller.json](./52415-antikiller.json) |
@@ -11586,6 +11587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
 | Arrow War | 248104 | [248104-arrow-war.json](./248104-arrow-war.json) |
 | Arrow: Button Heart | 417341 | [417341-arrow-button-heart.json](./417341-arrow-button-heart.json) |
+| Arrow.io | 86785 | [86785-arrow-io.json](./86785-arrow-io.json) |
 | ArrowBall | 172599 | [172599-arrowball.json](./172599-arrowball.json) |
 | Arrowbound | 286962 | [286962-arrowbound.json](./286962-arrowbound.json) |
 | Arrowman | 389463 | [389463-arrowman.json](./389463-arrowman.json) |
