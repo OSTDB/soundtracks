@@ -4866,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
 | No More Kings | 134963 | [134963-no-more-kings.json](./134963-no-more-kings.json) |
 | No More Light | 151479 | [151479-no-more-light.json](./151479-no-more-light.json) |
+| No More Pesticide | 389928 | [389928-no-more-pesticide.json](./389928-no-more-pesticide.json) |
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
 | No More Room in Hell 2 | 149340 | [149340-no-more-room-in-hell-2.json](./149340-no-more-room-in-hell-2.json) |
