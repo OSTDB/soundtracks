@@ -7107,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood | 217733 | [217733-robin-hood.json](./217733-robin-hood.json) |
 | Robin Hood | 232903 | [232903-robin-hood.json](./232903-robin-hood.json) |
 | Robin Hood | 23575 | [23575-robin-hood.json](./23575-robin-hood.json) |
+| Robin Hood Archer | 420173 | [420173-robin-hood-archer.json](./420173-robin-hood-archer.json) |
 | Robin Hood Legends | 104581 | [104581-robin-hood-legends.json](./104581-robin-hood-legends.json) |
 | Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
 | Robin Hood: Hail to the King | 155964 | [155964-robin-hood-hail-to-the-king.json](./155964-robin-hood-hail-to-the-king.json) |
@@ -7575,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
 | Rock Crusher | 333032 | [333032-rock-crusher.json](./333032-rock-crusher.json) |
+| Rock Declutterer | 420207 | [420207-rock-declutterer.json](./420207-rock-declutterer.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Digger | 312986 | [312986-rock-digger.json](./312986-rock-digger.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
