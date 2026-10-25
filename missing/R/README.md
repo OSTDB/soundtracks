@@ -8583,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollerball | 79731 | [79731-rollerball.json](./79731-rollerball.json) |
 | RollerBall | 245736 | [245736-rollerball.json](./245736-rollerball.json) |
 | RollerBaller | 158511 | [158511-rollerballer.json](./158511-rollerballer.json) |
+| RollerBlade | 395354 | [395354-rollerblade.json](./395354-rollerblade.json) |
 | Rollerblade Racer | 48204 | [48204-rollerblade-racer.json](./48204-rollerblade-racer.json) |
 | Rollerbot | 141599 | [141599-rollerbot.json](./141599-rollerbot.json) |
 | Rollerboy 2 | 293644 | [293644-rollerboy-2.json](./293644-rollerboy-2.json) |
