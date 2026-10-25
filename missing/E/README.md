@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
 | Elroi: Defense War | 154324 | [154324-elroi-defense-war.json](./154324-elroi-defense-war.json) |
 | Elroy Goes Bugzerk | 123385 | [123385-elroy-goes-bugzerk.json](./123385-elroy-goes-bugzerk.json) |
+| Elsa Gladiac Ultra | 24177 | [24177-elsa-gladiac-ultra.json](./24177-elsa-gladiac-ultra.json) |
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
 | Elsewhere | 182783 | [182783-elsewhere.json](./182783-elsewhere.json) |
@@ -4518,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Tower | 331283 | [331283-escape-the-tower.json](./331283-escape-the-tower.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
 | Escape the Virus: Shoot 'Em Up! | 85119 | [85119-escape-the-virus-shoot-em-up.json](./85119-escape-the-virus-shoot-em-up.json) |
+| Escape the Virus: Swarm Survival | 23678 | [23678-escape-the-virus-swarm-survival.json](./23678-escape-the-virus-swarm-survival.json) |
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
 | Escape The Void | 302196 | [302196-escape-the-void.json](./302196-escape-the-void.json) |
@@ -5905,6 +5907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution: Indian Hunter - Unlimited Edition | 201261 | [201261-evolution-indian-hunter-unlimited-edition.json](./201261-evolution-indian-hunter-unlimited-edition.json) |
 | Evolution: Moon Warfare | 173021 | [173021-evolution-moon-warfare.json](./173021-evolution-moon-warfare.json) |
 | Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
+| Evolution: The World of Sacred Device | 23132 | [23132-evolution-the-world-of-sacred-device.json](./23132-evolution-the-world-of-sacred-device.json) |
 | Evolutis: Duality | 129170 | [129170-evolutis-duality.json](./129170-evolutis-duality.json) |
 | Evolvation | 31834 | [31834-evolvation.json](./31834-evolvation.json) |
 | Evolve | 3770 | [3770-evolve.json](./3770-evolve.json) |
@@ -6639,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tactical Executioners | 121549 | [121549-extreme-tactical-executioners.json](./121549-extreme-tactical-executioners.json) |
 | Extreme Tactics | 71402 | [71402-extreme-tactics.json](./71402-extreme-tactics.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
+| Extreme Tennis | 23134 | [23134-extreme-tennis.json](./23134-extreme-tennis.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | Extreme Velocity 3 | 58155 | [58155-extreme-velocity-3.json](./58155-extreme-velocity-3.json) |
@@ -6765,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy Play: PomPom Party | 2215 | [2215-eyetoy-play-pompom-party.json](./2215-eyetoy-play-pompom-party.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
+| EyeToy: Kinetic Combat | 23119 | [23119-eyetoy-kinetic-combat.json](./23119-eyetoy-kinetic-combat.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | EyeToy: Play 2 | 19842 | [19842-eyetoy-play-2.json](./19842-eyetoy-play-2.json) |
 | EyeToy: Play 3 | 19843 | [19843-eyetoy-play-3.json](./19843-eyetoy-play-3.json) |
