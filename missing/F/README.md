@@ -2065,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farlight Explorers | 35681 | [35681-farlight-explorers.json](./35681-farlight-explorers.json) |
 | Farm | 328533 | [328533-farm.json](./328533-farm.json) |
 | Farm | 364085 | [364085-farm.json](./364085-farm.json) |
+| Farm & Feast | 414305 | [414305-farm-and-feast.json](./414305-farm-and-feast.json) |
 | Farm & Puzzle | 148687 | [148687-farm-and-puzzle.json](./148687-farm-and-puzzle.json) |
 | Farm 123 - Learn to count | 87509 | [87509-farm-123-learn-to-count.json](./87509-farm-123-learn-to-count.json) |
 | Farm 123 - Learn to count! | 99097 | [99097-farm-123-learn-to-count.json](./99097-farm-123-learn-to-count.json) |
@@ -6713,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FloorBreaker | 358990 | [358990-floorbreaker.json](./358990-floorbreaker.json) |
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | Floors | 348746 | [348746-floors.json](./348746-floors.json) |
+| Floors of Fate | 414280 | [414280-floors-of-fate.json](./414280-floors-of-fate.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
 | Flop Rocket | 113365 | [113365-flop-rocket.json](./113365-flop-rocket.json) |
 | Flop to the Top | 181712 | [181712-flop-to-the-top.json](./181712-flop-to-the-top.json) |
