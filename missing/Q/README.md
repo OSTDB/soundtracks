@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
 | Quester | 46852 | [46852-quester.json](./46852-quester.json) |
 | Questerium: Sinister Trinity HD - Collector's Edition | 36234 | [36234-questerium-sinister-trinity-hd-collectors-edition.json](./36234-questerium-sinister-trinity-hd-collectors-edition.json) |
+| QuestEvent | 35542 | [35542-questevent.json](./35542-questevent.json) |
 | Questi Quest | 393079 | [393079-questi-quest.json](./393079-questi-quest.json) |
 | Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
 | Question Cube | 56944 | [56944-question-cube.json](./56944-question-cube.json) |
