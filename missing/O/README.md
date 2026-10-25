@@ -2543,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One Way Up | 256919 | [256919-only-one-way-up.json](./256919-only-one-way-up.json) |
 | Only Out | 329340 | [329340-only-out.json](./329340-only-out.json) |
 | Only Pinball | 292532 | [292532-only-pinball.json](./292532-only-pinball.json) |
+| Only Sex | 389757 | [389757-only-sex.json](./389757-only-sex.json) |
 | Only Shadows Left Behind | 109730 | [109730-only-shadows-left-behind.json](./109730-only-shadows-left-behind.json) |
 | Only Sky Parkour: Island Up! | 349427 | [349427-only-sky-parkour-island-up.json](./349427-only-sky-parkour-island-up.json) |
 | Only Society: Arena | 188991 | [188991-only-society-arena.json](./188991-only-society-arena.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
 | Othello Millennium | 50552 | [50552-othello-millennium.json](./50552-othello-millennium.json) |
+| Othello Tiny | 389766 | [389766-othello-tiny.json](./389766-othello-tiny.json) |
 | Othello World | 228628 | [228628-othello-world.json](./228628-othello-world.json) |
 | Othello World | 42515 | [42515-othello-world.json](./42515-othello-world.json) |
 | Othello World II: Yume to Michi e no Chousen | 54949 | [54949-othello-world-ii-yume-to-michi-e-no-chousen.json](./54949-othello-world-ii-yume-to-michi-e-no-chousen.json) |
@@ -4761,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overseer | 150454 | [150454-overseer.json](./150454-overseer.json) |
 | Overseer: Field Trials | 315127 | [315127-overseer-field-trials.json](./315127-overseer-field-trials.json) |
 | Overserved: Food Fighters! | 398995 | [398995-overserved-food-fighters.json](./398995-overserved-food-fighters.json) |
+| Oversexed Landlady | 389763 | [389763-oversexed-landlady.json](./389763-oversexed-landlady.json) |
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
 | Overshoot | 414281 | [414281-overshoot.json](./414281-overshoot.json) |
 | OverShoot Battle Race | 163025 | [163025-overshoot-battle-race.json](./163025-overshoot-battle-race.json) |
