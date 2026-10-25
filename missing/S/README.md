@@ -3493,6 +3493,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Autumn | 337628 | [337628-season-marbles-autumn.json](./337628-season-marbles-autumn.json) |
 | Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
+| Season Match | 17787 | [17787-season-match.json](./17787-season-match.json) |
+| Season Match 2 | 17788 | [17788-season-match-2.json](./17788-season-match-2.json) |
 | Season Match 3 | 302232 | [302232-season-match-3.json](./302232-season-match-3.json) |
 | Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
 | Season Match 4 | 79145 | [79145-season-match-4.json](./79145-season-match-4.json) |
@@ -8372,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sign Craft: Simulator | 273426 | [273426-sign-craft-simulator.json](./273426-sign-craft-simulator.json) |
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
 | Sign Me ABCs | 103659 | [103659-sign-me-abcs.json](./103659-sign-me-abcs.json) |
+| Sign Motion | 17805 | [17805-sign-motion.json](./17805-sign-motion.json) |
 | Sign of Silence | 139275 | [139275-sign-of-silence.json](./139275-sign-of-silence.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
 | Sign of Torment | 257348 | [257348-sign-of-torment.json](./257348-sign-of-torment.json) |
@@ -8624,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Wasteland | 290834 | [290834-silicon-wasteland.json](./290834-silicon-wasteland.json) |
 | Silicon-Galaxy | 178994 | [178994-silicon-galaxy.json](./178994-silicon-galaxy.json) |
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
+| Silicone-2 | 11146 | [11146-silicone-2.json](./11146-silicone-2.json) |
 | SiliCorp Systems | 321550 | [321550-silicorp-systems.json](./321550-silicorp-systems.json) |
 | Silivri | 376097 | [376097-silivri.json](./376097-silivri.json) |
 | Silk | 121573 | [121573-silk.json](./121573-silk.json) |
@@ -17905,6 +17909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Obelisk | 325306 | [325306-spirit-of-the-obelisk.json](./325306-spirit-of-the-obelisk.json) |
 | Spirit of the Sky | 288039 | [288039-spirit-of-the-sky.json](./288039-spirit-of-the-sky.json) |
 | Spirit of Wandering - The Legend | 87071 | [87071-spirit-of-wandering-the-legend.json](./87071-spirit-of-wandering-the-legend.json) |
+| Spirit of War | 10838 | [10838-spirit-of-war.json](./10838-spirit-of-war.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
 | Spirit Realm | 51498 | [51498-spirit-realm.json](./51498-spirit-realm.json) |
@@ -23477,6 +23482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
 | Stuntman Seymour | 39165 | [39165-stuntman-seymour.json](./39165-stuntman-seymour.json) |
 | Stuntman: Ignition | 2783 | [2783-stuntman-ignition.json](./2783-stuntman-ignition.json) |
+| StuntMania Reloaded | 17872 | [17872-stuntmania-reloaded.json](./17872-stuntmania-reloaded.json) |
 | Stunts | 11630 | [11630-stunts.json](./11630-stunts.json) |
 | Stunts above Clouds 2 | 296988 | [296988-stunts-above-clouds-2.json](./296988-stunts-above-clouds-2.json) |
 | Stunts above Clouds 3 | 304465 | [304465-stunts-above-clouds-3.json](./304465-stunts-above-clouds-3.json) |
@@ -24658,6 +24664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Cafe | 154353 | [154353-sunny-cafe.json](./154353-sunny-cafe.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
 | Sunny Girl | 252265 | [252265-sunny-girl.json](./252265-sunny-girl.json) |
+| Sunny Hillride | 10931 | [10931-sunny-hillride.json](./10931-sunny-hillride.json) |
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
 | Sunny Memories | 226353 | [226353-sunny-memories.json](./226353-sunny-memories.json) |
 | Sunny Place 2 | 224955 | [224955-sunny-place-2.json](./224955-sunny-place-2.json) |
