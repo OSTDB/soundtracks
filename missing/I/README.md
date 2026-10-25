@@ -5110,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Games | 208646 | [208646-island-games.json](./208646-island-games.json) |
 | Island Getaway | 29939 | [29939-island-getaway.json](./29939-island-getaway.json) |
 | Island Girl | 217194 | [217194-island-girl.json](./217194-island-girl.json) |
+| Island God Simulator | 399588 | [399588-island-god-simulator.json](./399588-island-god-simulator.json) |
 | Island Gods | 176177 | [176177-island-gods.json](./176177-island-gods.json) |
 | Island Golf | 255740 | [255740-island-golf.json](./255740-island-golf.json) |
 | Island Herders | 169719 | [169719-island-herders.json](./169719-island-herders.json) |
