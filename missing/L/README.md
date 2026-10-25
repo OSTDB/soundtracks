@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Drift | 285890 | [285890-late-night-drift.json](./285890-late-night-drift.json) |
 | Late Night Fears | 405939 | [405939-late-night-fears.json](./405939-late-night-fears.json) |
 | Late Night Gas Station | 205989 | [205989-late-night-gas-station.json](./205989-late-night-gas-station.json) |
+| Late Night Manifest | 408583 | [408583-late-night-manifest.json](./408583-late-night-manifest.json) |
 | Late Night Mop | 218953 | [218953-late-night-mop.json](./218953-late-night-mop.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
 | Late Night Sausage | 321475 | [321475-late-night-sausage.json](./321475-late-night-sausage.json) |
@@ -4646,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa's Memory | 114192 | [114192-lisas-memory.json](./114192-lisas-memory.json) |
 | Lisc: Season 1 | 382008 | [382008-lisc-season-1.json](./382008-lisc-season-1.json) |
 | Lishogi | 321664 | [321664-lishogi.json](./321664-lishogi.json) |
+| Lisia | 408606 | [408606-lisia.json](./408606-lisia.json) |
 | Lisistrata | 195601 | [195601-lisistrata.json](./195601-lisistrata.json) |
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
 | Lisparuga | 176996 | [176996-lisparuga.json](./176996-lisparuga.json) |
