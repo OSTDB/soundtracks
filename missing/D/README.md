@@ -794,31 +794,48 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Forge:Re | 182465 | [182465-danganronpa-forge-re.json](./182465-danganronpa-forge-re.json) |
 | Danganronpa Hope Recreation | 304341 | [304341-danganronpa-hope-recreation.json](./304341-danganronpa-hope-recreation.json) |
 | Danganronpa Mauve | 304336 | [304336-danganronpa-mauve.json](./304336-danganronpa-mauve.json) |
+| Danganronpa O: Sea of Despair | 411328 | [411328-danganronpa-o-sea-of-despair.json](./411328-danganronpa-o-sea-of-despair.json) |
+| Danganronpa Oldmaid | 411320 | [411320-danganronpa-oldmaid.json](./411320-danganronpa-oldmaid.json) |
 | Danganronpa S: Ultimate Summer Camp | 152366 | [152366-danganronpa-s-ultimate-summer-camp.json](./152366-danganronpa-s-ultimate-summer-camp.json) |
+| Danganronpa Split | 411326 | [411326-danganronpa-split.json](./411326-danganronpa-split.json) |
+| Danganronpa Twinn | 411332 | [411332-danganronpa-twinn.json](./411332-danganronpa-twinn.json) |
+| Danganronpa V: Friendly Shot | 411341 | [411341-danganronpa-v-friendly-shot.json](./411341-danganronpa-v-friendly-shot.json) |
 | Danganronpa V3: Killing Harmony - Anniversary Edition | 152401 | [152401-danganronpa-v3-killing-harmony-anniversary-edition.json](./152401-danganronpa-v3-killing-harmony-anniversary-edition.json) |
 | Danganronpa V3: Killing Harmony - Limited Edition | 167053 | [167053-danganronpa-v3-killing-harmony-limited-edition.json](./167053-danganronpa-v3-killing-harmony-limited-edition.json) |
 | Danganronpa V3: Killing Harmony Demo Ver. | 282660 | [282660-danganronpa-v3-killing-harmony-demo-ver.json](./282660-danganronpa-v3-killing-harmony-demo-ver.json) |
 | Danganronpa V4 Rocky Restarts | 336753 | [336753-danganronpa-v4-rocky-restarts.json](./336753-danganronpa-v4-rocky-restarts.json) |
 | Danganronpa Weeping Rebellion | 304345 | [304345-danganronpa-weeping-rebellion.json](./304345-danganronpa-weeping-rebellion.json) |
 | Danganronpa Z: Patient Madness Cropper | 337577 | [337577-danganronpa-z-patient-madness-cropper.json](./337577-danganronpa-z-patient-madness-cropper.json) |
+| Danganronpa Zero: Memory Lapse | 411321 | [411321-danganronpa-zero-memory-lapse.json](./411321-danganronpa-zero-memory-lapse.json) |
 | Danganronpa: Abandoned Lights | 304348 | [304348-danganronpa-abandoned-lights.json](./304348-danganronpa-abandoned-lights.json) |
 | Danganronpa: Antebellum | 333929 | [333929-danganronpa-antebellum.json](./333929-danganronpa-antebellum.json) |
 | Danganronpa: Antebellum - Lockdown | 333932 | [333932-danganronpa-antebellum-lockdown.json](./333932-danganronpa-antebellum-lockdown.json) |
 | Danganronpa: Bursting Love | 184307 | [184307-danganronpa-bursting-love.json](./184307-danganronpa-bursting-love.json) |
 | Danganronpa: Checkmate | 254595 | [254595-danganronpa-checkmate.json](./254595-danganronpa-checkmate.json) |
 | Danganronpa: Dead End | 134504 | [134504-danganronpa-dead-end.json](./134504-danganronpa-dead-end.json) |
+| Danganronpa: Despair Among Us | 411319 | [411319-danganronpa-despair-among-us.json](./411319-danganronpa-despair-among-us.json) |
+| Danganronpa: Despair's Loss | 411323 | [411323-danganronpa-despairs-loss.json](./411323-danganronpa-despairs-loss.json) |
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
 | Danganronpa: Fandom's Calling | 338724 | [338724-danganronpa-fandoms-calling.json](./338724-danganronpa-fandoms-calling.json) |
 | Danganronpa: Gods at Gunpoint | 341110 | [341110-danganronpa-gods-at-gunpoint.json](./341110-danganronpa-gods-at-gunpoint.json) |
+| Danganronpa: Grand Lie | 411329 | [411329-danganronpa-grand-lie.json](./411329-danganronpa-grand-lie.json) |
+| Danganronpa: Greenlit | 411338 | [411338-danganronpa-greenlit.json](./411338-danganronpa-greenlit.json) |
+| Danganronpa: High Expectations | 411337 | [411337-danganronpa-high-expectations.json](./411337-danganronpa-high-expectations.json) |
 | Danganronpa: Hope Restoration | 341105 | [341105-danganronpa-hope-restoration.json](./341105-danganronpa-hope-restoration.json) |
+| Danganronpa: Interstellar Despair | 411324 | [411324-danganronpa-interstellar-despair.json](./411324-danganronpa-interstellar-despair.json) |
 | DanganRonpa: It's Showtime! | 337574 | [337574-danganronpa-its-showtime.json](./337574-danganronpa-its-showtime.json) |
 | Danganronpa: Lapse | 243221 | [243221-danganronpa-lapse.json](./243221-danganronpa-lapse.json) |
 | Danganronpa: Live or Die | 270679 | [270679-danganronpa-live-or-die.json](./270679-danganronpa-live-or-die.json) |
 | Danganronpa: Monokuma Strikes Back | 299839 | [299839-danganronpa-monokuma-strikes-back.json](./299839-danganronpa-monokuma-strikes-back.json) |
 | Danganronpa: New World Order | 339399 | [339399-danganronpa-new-world-order.json](./339399-danganronpa-new-world-order.json) |
+| Danganronpa: Objectfiedronpa | 411340 | [411340-danganronpa-objectfiedronpa.json](./411340-danganronpa-objectfiedronpa.json) |
+| Danganronpa: Post-Mortem Memories | 411322 | [411322-danganronpa-post-mortem-memories.json](./411322-danganronpa-post-mortem-memories.json) |
 | Danganronpa: Resort Killing | 228264 | [228264-danganronpa-resort-killing.json](./228264-danganronpa-resort-killing.json) |
 | Danganronpa: Salvation's Fears | 338840 | [338840-danganronpa-salvations-fears.json](./338840-danganronpa-salvations-fears.json) |
+| Danganronpa: Slurpsoul | 411327 | [411327-danganronpa-slurpsoul.json](./411327-danganronpa-slurpsoul.json) |
+| Danganronpa: Streamers Despair | 411339 | [411339-danganronpa-streamers-despair.json](./411339-danganronpa-streamers-despair.json) |
 | Danganronpa: Survivor's Guilt | 341080 | [341080-danganronpa-survivors-guilt.json](./341080-danganronpa-survivors-guilt.json) |
+| Danganronpa: Survivor's Guilt - Origin | 411334 | [411334-danganronpa-survivors-guilt-origin.json](./411334-danganronpa-survivors-guilt-origin.json) |
 | Danganronpa/Zero: The Fangame - Despair Through Memetic Waves | 413639 | [413639-danganronpa-zero-the-fangame-despair-through-memetic-waves.json](./413639-danganronpa-zero-the-fangame-despair-through-memetic-waves.json) |
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
@@ -10840,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors | 16987 | [16987-doors.json](./16987-doors.json) |
 | Doors | 223422 | [223422-doors.json](./223422-doors.json) |
 | Doors | 339295 | [339295-doors.json](./339295-doors.json) |
+| Doors | 411310 | [411310-doors.json](./411310-doors.json) |
 | Doors & Rooms | 112745 | [112745-doors-and-rooms.json](./112745-doors-and-rooms.json) |
 | Doors & Rooms: Perfect Escape | 181587 | [181587-doors-and-rooms-perfect-escape.json](./181587-doors-and-rooms-perfect-escape.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
@@ -12331,6 +12349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Rage | 76977 | [76977-dragon-rage.json](./76977-dragon-rage.json) |
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
+| Dragon Raja: The Farewell Passage | 411333 | [411333-dragon-raja-the-farewell-passage.json](./411333-dragon-raja-the-farewell-passage.json) |
 | Dragon Riddler | 348661 | [348661-dragon-riddler.json](./348661-dragon-riddler.json) |
 | Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
 | Dragon Riders: Chronicles of Pern | 132134 | [132134-dragon-riders-chronicles-of-pern.json](./132134-dragon-riders-chronicles-of-pern.json) |
@@ -14272,6 +14291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
 | Duck the Miner | 389524 | [389524-duck-the-miner.json](./389524-duck-the-miner.json) |
 | Duck Think Outside the Flock | 224949 | [224949-duck-think-outside-the-flock.json](./224949-duck-think-outside-the-flock.json) |
+| Duck Trust | 411312 | [411312-duck-trust.json](./411312-duck-trust.json) |
 | Duck Turnip | 228963 | [228963-duck-turnip.json](./228963-duck-turnip.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
 | Duck Warfare | 96811 | [96811-duck-warfare.json](./96811-duck-warfare.json) |
