@@ -3581,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marry a Deep One | 319748 | [319748-marry-a-deep-one.json](./319748-marry-a-deep-one.json) |
 | Marry Me, Misato! | 166667 | [166667-marry-me-misato.json](./166667-marry-me-misato.json) |
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
+| Mars 2030 | 34234 | [34234-mars-2030.json](./34234-mars-2030.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
 | Mars 2120 | 154293 | [154293-mars-2120.json](./154293-mars-2120.json) |
@@ -10987,6 +10988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrored Pawns | 169827 | [169827-mirrored-pawns.json](./169827-mirrored-pawns.json) |
 | Mirrored Phantoms | 333180 | [333180-mirrored-phantoms.json](./333180-mirrored-phantoms.json) |
 | Mirrored Souls | 244278 | [244278-mirrored-souls.json](./244278-mirrored-souls.json) |
+| Mirrored: Chapter 1 | 35366 | [35366-mirrored-chapter-1.json](./35366-mirrored-chapter-1.json) |
 | Mirrormind | 345647 | [345647-mirrormind.json](./345647-mirrormind.json) |
 | Mirrorplume Frostfate | 384350 | [384350-mirrorplume-frostfate.json](./384350-mirrorplume-frostfate.json) |
 | Mirrors of Epiphany | 274352 | [274352-mirrors-of-epiphany.json](./274352-mirrors-of-epiphany.json) |
@@ -17921,6 +17923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 123394 | [123394-myth.json](./123394-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
+| Myth | 35331 | [35331-myth.json](./35331-myth.json) |
 | Myth & Magery | 419977 | [419977-myth-and-magery.json](./419977-myth-and-magery.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
 | Myth Finders | 364510 | [364510-myth-finders.json](./364510-myth-finders.json) |
