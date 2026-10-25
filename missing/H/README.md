@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Moon: One World Complete | 300478 | [300478-harvest-moon-one-world-complete.json](./300478-harvest-moon-one-world-complete.json) |
 | Harvest Moon: Save the Homeland | 3382 | [3382-harvest-moon-save-the-homeland.json](./3382-harvest-moon-save-the-homeland.json) |
+| Harvest Moon: Seeds of Memories | 11188 | [11188-harvest-moon-seeds-of-memories.json](./11188-harvest-moon-seeds-of-memories.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
 | Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
 | Harvest Moon: The Winds of Anthos | 228855 | [228855-harvest-moon-the-winds-of-anthos.json](./228855-harvest-moon-the-winds-of-anthos.json) |
