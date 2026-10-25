@@ -4860,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kong: Jungle Fun - Extended Edition | 231264 | [231264-little-kong-jungle-fun-extended-edition.json](./231264-little-kong-jungle-fun-extended-edition.json) |
 | Little Kong: Jungle Fun - Premium Edition | 239481 | [239481-little-kong-jungle-fun-premium-edition.json](./239481-little-kong-jungle-fun-premium-edition.json) |
 | Little Kong: Jungle Fun - Ultimate Edition | 231265 | [231265-little-kong-jungle-fun-ultimate-edition.json](./231265-little-kong-jungle-fun-ultimate-edition.json) |
+| Little Lake | 422645 | [422645-little-lake.json](./422645-little-lake.json) |
 | Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
 | Little Lands | 177932 | [177932-little-lands.json](./177932-little-lands.json) |
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
@@ -5520,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Up | 137990 | [137990-locked-up.json](./137990-locked-up.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
 | Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
+| Lockehorn | 422665 | [422665-lockehorn.json](./422665-lockehorn.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Lockey | 412471 | [412471-lockey.json](./412471-lockey.json) |
 | Lockjaw | 297327 | [297327-lockjaw.json](./297327-lockjaw.json) |
