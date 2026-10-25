@@ -5172,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Letter | 232509 | [232509-first-letter.json](./232509-first-letter.json) |
 | First Light | 191155 | [191155-first-light.json](./191155-first-light.json) |
 | First Light | 336721 | [336721-first-light.json](./336721-first-light.json) |
+| First Light | 411982 | [411982-first-light.json](./411982-first-light.json) |
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
 | First Love Diaries: A Kiss on the Beach | 238885 | [238885-first-love-diaries-a-kiss-on-the-beach.json](./238885-first-love-diaries-a-kiss-on-the-beach.json) |
 | First Love Story | 187800 | [187800-first-love-story.json](./187800-first-love-story.json) |
