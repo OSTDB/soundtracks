@@ -3043,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7975,6 +7976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Football | 58577 | [58577-angry-birds-football.json](./58577-angry-birds-football.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
 | Angry Birds Fuji TV | 218530 | [218530-angry-birds-fuji-tv.json](./218530-angry-birds-fuji-tv.json) |
+| Angry Birds Go! Nitro | 391832 | [391832-angry-birds-go-nitro.json](./391832-angry-birds-go-nitro.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
 | Angry Birds Heikki | 408794 | [408794-angry-birds-heikki.json](./408794-angry-birds-heikki.json) |
@@ -9218,6 +9220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubis II | 4677 | [4677-anubis-ii.json](./4677-anubis-ii.json) |
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
 | Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
+| Anunnaki & the Kingdom of Goku | 391776 | [391776-anunnaki-and-the-kingdom-of-goku.json](./391776-anunnaki-and-the-kingdom-of-goku.json) |
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
 | Anurak | 413479 | [413479-anurak.json](./413479-anurak.json) |
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
