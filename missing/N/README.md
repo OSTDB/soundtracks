@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narborion 3: The Swamp of Thousand Paths | 175275 | [175275-narborion-3-the-swamp-of-thousand-paths.json](./175275-narborion-3-the-swamp-of-thousand-paths.json) |
 | Narborion by Night | 98479 | [98479-narborion-by-night.json](./98479-narborion-by-night.json) |
 | Narborion Saga | 29735 | [29735-narborion-saga.json](./29735-narborion-saga.json) |
+| Narc | 19933 | [19933-narc.json](./19933-narc.json) |
 | Narc | 218331 | [218331-narc.json](./218331-narc.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Legends | 18268 | [18268-new-legends.json](./18268-new-legends.json) |
 | New Lethes | 16993 | [16993-new-lethes.json](./16993-new-lethes.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
+| New Little King's Story | 19911 | [19911-new-little-kings-story.json](./19911-new-little-kings-story.json) |
 | New LovePlus | 92165 | [92165-new-loveplus.json](./92165-new-loveplus.json) |
 | New LovePlus: Manaka Complete Set | 89886 | [89886-new-loveplus-manaka-complete-set.json](./89886-new-loveplus-manaka-complete-set.json) |
 | New LovePlus: Nene Complete Set | 89885 | [89885-new-loveplus-nene-complete-set.json](./89885-new-loveplus-nene-complete-set.json) |
