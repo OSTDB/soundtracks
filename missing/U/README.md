@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unchosen: Forsaken | 164592 | [164592-unchosen-forsaken.json](./164592-unchosen-forsaken.json) |
 | Uncivil War TCG: Trading Card Game | 99417 | [99417-uncivil-war-tcg-trading-card-game.json](./99417-uncivil-war-tcg-trading-card-game.json) |
 | Uncivilized | 176176 | [176176-uncivilized.json](./176176-uncivilized.json) |
+| Unclaimed | 424678 | [424678-unclaimed.json](./424678-unclaimed.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
 | Uncle Albert's Fabulous Voyage | 25916 | [25916-uncle-alberts-fabulous-voyage.json](./25916-uncle-alberts-fabulous-voyage.json) |
 | Uncle Albert's Magical Album | 147321 | [147321-uncle-alberts-magical-album.json](./147321-uncle-alberts-magical-album.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underling Uprising | 195566 | [195566-underling-uprising.json](./195566-underling-uprising.json) |
 | Underload | 25763 | [25763-underload.json](./25763-underload.json) |
 | Underminer | 282013 | [282013-underminer.json](./282013-underminer.json) |
+| Undermoon | 424659 | [424659-undermoon.json](./424659-undermoon.json) |
 | Undernauts: Labyrinth of Yomi | 25672 | [25672-undernauts-labyrinth-of-yomi.json](./25672-undernauts-labyrinth-of-yomi.json) |
 | Undernauts: Labyrinth of Yomi & Mon-Yu | 304331 | [304331-undernauts-labyrinth-of-yomi-and-mon-yu.json](./304331-undernauts-labyrinth-of-yomi-and-mon-yu.json) |
 | Underneath | 177545 | [177545-underneath.json](./177545-underneath.json) |
@@ -1753,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforgettable Paradise | 107049 | [107049-unforgettable-paradise.json](./107049-unforgettable-paradise.json) |
 | Unforgettable You | 147231 | [147231-unforgettable-you.json](./147231-unforgettable-you.json) |
 | Unforgivable | 341116 | [341116-unforgivable.json](./341116-unforgivable.json) |
+| Unforgiven VR | 30870 | [30870-unforgiven-vr.json](./30870-unforgiven-vr.json) |
 | Unforgiven: Carry The Pain | 242498 | [242498-unforgiven-carry-the-pain.json](./242498-unforgiven-carry-the-pain.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
