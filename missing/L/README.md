@@ -3761,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Sim | 404409 | [404409-life-sim.json](./404409-life-sim.json) |
 | Life Sim | 90515 | [90515-life-sim.json](./90515-life-sim.json) |
 | Life Sim Bundle | 301534 | [301534-life-sim-bundle.json](./301534-life-sim-bundle.json) |
+| Life Sim: Rise From Nothing | 390376 | [390376-life-sim-rise-from-nothing.json](./390376-life-sim-rise-from-nothing.json) |
 | Life Simulator | 10959 | [10959-life-simulator.json](./10959-life-simulator.json) |
 | Life Simulator | 169945 | [169945-life-simulator.json](./169945-life-simulator.json) |
 | Life Simulator | 231930 | [231930-life-simulator.json](./231930-life-simulator.json) |
@@ -4544,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linked | 322034 | [322034-linked.json](./322034-linked.json) |
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
 | LinkedOut | 353443 | [353443-linkedout.json](./353443-linkedout.json) |
+| Linkies | 390821 | [390821-linkies.json](./390821-linkies.json) |
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
 | Linkin Park Revenge | 77965 | [77965-linkin-park-revenge.json](./77965-linkin-park-revenge.json) |
 | LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
@@ -8329,6 +8331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Intacta | 217286 | [217286-lux-intacta.json](./217286-lux-intacta.json) |
 | Lux Licentia | 383204 | [383204-lux-licentia.json](./383204-lux-licentia.json) |
 | Lux mina | 163036 | [163036-lux-mina.json](./163036-lux-mina.json) |
+| Lux Muris | 390713 | [390713-lux-muris.json](./390713-lux-muris.json) |
 | Lux Primora | 188861 | [188861-lux-primora.json](./188861-lux-primora.json) |
 | Lux Renata | 397808 | [397808-lux-renata.json](./397808-lux-renata.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
