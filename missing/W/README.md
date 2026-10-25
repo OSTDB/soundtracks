@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Archaeology Enthusiast | 183250 | [183250-welcome-archaeology-enthusiast.json](./183250-welcome-archaeology-enthusiast.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Back to 2007 2 | 107376 | [107376-welcome-back-to-2007-2.json](./107376-welcome-back-to-2007-2.json) |
+| Welcome Back to Aeris | 423886 | [423886-welcome-back-to-aeris.json](./423886-welcome-back-to-aeris.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
 | Welcome Googoo | 330889 | [330889-welcome-googoo.json](./330889-welcome-googoo.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Greedcorp | 355721 | [355721-welcome-to-greedcorp.json](./355721-welcome-to-greedcorp.json) |
 | Welcome to Hanwell | 29076 | [29076-welcome-to-hanwell.json](./29076-welcome-to-hanwell.json) |
 | Welcome to Heaven | 41976 | [41976-welcome-to-heaven.json](./41976-welcome-to-heaven.json) |
+| Welcome to Hell Resort! | 423876 | [423876-welcome-to-hell-resort.json](./423876-welcome-to-hell-resort.json) |
 | Welcome to IKSPQ | 271310 | [271310-welcome-to-ikspq.json](./271310-welcome-to-ikspq.json) |
 | Welcome to James' Story in the World of Our Church and Halloween: Visual Novel | 222808 | [222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Jane's Story in the World of Project: Summer Ice | 208621 | [208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json](./208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json) |
@@ -3023,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
 | Whack-A-Wolf | 230711 | [230711-whack-a-wolf.json](./230711-whack-a-wolf.json) |
 | WhackAKyouka | 164870 | [164870-whackakyouka.json](./164870-whackakyouka.json) |
+| WhackaMon Hammer Hideout | 423889 | [423889-whackamon-hammer-hideout.json](./423889-whackamon-hammer-hideout.json) |
 | Whacked! | 377148 | [377148-whacked.json](./377148-whacked.json) |
 | Whacker Guy: Distance Hunter | 107731 | [107731-whacker-guy-distance-hunter.json](./107731-whacker-guy-distance-hunter.json) |
 | Whackerball | 234120 | [234120-whackerball.json](./234120-whackerball.json) |
@@ -5128,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishful Thinking | 313822 | [313822-wishful-thinking.json](./313822-wishful-thinking.json) |
 | Wishing Well | 130861 | [130861-wishing-well.json](./130861-wishing-well.json) |
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
+| Wishknot | 423895 | [423895-wishknot.json](./423895-wishknot.json) |
 | Wishlair | 164076 | [164076-wishlair.json](./164076-wishlair.json) |
 | Wishlist | 244300 | [244300-wishlist.json](./244300-wishlist.json) |
 | Wishmaker | 305478 | [305478-wishmaker.json](./305478-wishmaker.json) |
