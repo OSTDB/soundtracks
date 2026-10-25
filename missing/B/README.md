@@ -795,7 +795,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12674,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeze of Death | 133189 | [133189-breeze-of-death.json](./133189-breeze-of-death.json) |
 | Breeze of Passion | 358979 | [358979-breeze-of-passion.json](./358979-breeze-of-passion.json) |
 | Breezeblox | 35275 | [35275-breezeblox.json](./35275-breezeblox.json) |
+| Breezevale | 387964 | [387964-breezevale.json](./387964-breezevale.json) |
 | Breezy Bakes Simulator | 372596 | [372596-breezy-bakes-simulator.json](./372596-breezy-bakes-simulator.json) |
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
