@@ -2417,7 +2417,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Warlords | 5845 | [5845-onimusha-warlords.json](./5845-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
 | Onimusha: Way of the Sword | 325602 | [325602-onimusha-way-of-the-sword.json](./325602-onimusha-way-of-the-sword.json) |
+| Onimusha: Way of the Sword - Charm: Little Dancer | 407118 | [407118-onimusha-way-of-the-sword-charm-little-dancer.json](./407118-onimusha-way-of-the-sword-charm-little-dancer.json) |
+| Onimusha: Way of the Sword - Charm: Mentor | 407119 | [407119-onimusha-way-of-the-sword-charm-mentor.json](./407119-onimusha-way-of-the-sword-charm-mentor.json) |
+| Onimusha: Way of the Sword - Charm: Oni Lady | 407120 | [407120-onimusha-way-of-the-sword-charm-oni-lady.json](./407120-onimusha-way-of-the-sword-charm-oni-lady.json) |
+| Onimusha: Way of the Sword - Cloudbiter Haori | 407121 | [407121-onimusha-way-of-the-sword-cloudbiter-haori.json](./407121-onimusha-way-of-the-sword-cloudbiter-haori.json) |
+| Onimusha: Way of the Sword - Deluxe Edition | 407110 | [407110-onimusha-way-of-the-sword-deluxe-edition.json](./407110-onimusha-way-of-the-sword-deluxe-edition.json) |
+| Onimusha: Way of the Sword - Hellfire Haori | 407122 | [407122-onimusha-way-of-the-sword-hellfire-haori.json](./407122-onimusha-way-of-the-sword-hellfire-haori.json) |
 | Onimusha: Way of the Sword - Lenticular Edition | 422014 | [422014-onimusha-way-of-the-sword-lenticular-edition.json](./422014-onimusha-way-of-the-sword-lenticular-edition.json) |
+| Onimusha: Way of the Sword - Moonlight Haori | 407124 | [407124-onimusha-way-of-the-sword-moonlight-haori.json](./407124-onimusha-way-of-the-sword-moonlight-haori.json) |
+| Onimusha: Way of the Sword - Oni Gauntlet: Crimson Lotus | 407125 | [407125-onimusha-way-of-the-sword-oni-gauntlet-crimson-lotus.json](./407125-onimusha-way-of-the-sword-oni-gauntlet-crimson-lotus.json) |
+| Onimusha: Way of the Sword - Outfit for Musashi: Red Armor | 407126 | [407126-onimusha-way-of-the-sword-outfit-for-musashi-red-armor.json](./407126-onimusha-way-of-the-sword-outfit-for-musashi-red-armor.json) |
+| Onimusha: Way of the Sword - Outfit for Okuni: Flower Dance | 407127 | [407127-onimusha-way-of-the-sword-outfit-for-okuni-flower-dance.json](./407127-onimusha-way-of-the-sword-outfit-for-okuni-flower-dance.json) |
+| Onimusha: Way of the Sword - Outfit for Okuni: Goldfish Dance | 407128 | [407128-onimusha-way-of-the-sword-outfit-for-okuni-goldfish-dance.json](./407128-onimusha-way-of-the-sword-outfit-for-okuni-goldfish-dance.json) |
+| Onimusha: Way of the Sword - Outfit for Okuni: Oni Dance | 407129 | [407129-onimusha-way-of-the-sword-outfit-for-okuni-oni-dance.json](./407129-onimusha-way-of-the-sword-outfit-for-okuni-oni-dance.json) |
+| Onimusha: Way of the Sword - Outfit for the Oni Lady: Bird Call | 407130 | [407130-onimusha-way-of-the-sword-outfit-for-the-oni-lady-bird-call.json](./407130-onimusha-way-of-the-sword-outfit-for-the-oni-lady-bird-call.json) |
+| Onimusha: Way of the Sword - Outfit for the Oni Lady: Elegance | 407131 | [407131-onimusha-way-of-the-sword-outfit-for-the-oni-lady-elegance.json](./407131-onimusha-way-of-the-sword-outfit-for-the-oni-lady-elegance.json) |
+| Onimusha: Way of the Sword - Outfit for the Oni Lady: Snow Camellia | 407132 | [407132-onimusha-way-of-the-sword-outfit-for-the-oni-lady-snow-camellia.json](./407132-onimusha-way-of-the-sword-outfit-for-the-oni-lady-snow-camellia.json) |
+| Onimusha: Way of the Sword - Premium Deluxe Edition | 407109 | [407109-onimusha-way-of-the-sword-premium-deluxe-edition.json](./407109-onimusha-way-of-the-sword-premium-deluxe-edition.json) |
+| Onimusha: Way of the Sword - Sword Appearance: Bamboo & Panda | 407133 | [407133-onimusha-way-of-the-sword-sword-appearance-bamboo-and-panda.json](./407133-onimusha-way-of-the-sword-sword-appearance-bamboo-and-panda.json) |
+| Onimusha: Way of the Sword - Sword Appearance: Enryuu | 407134 | [407134-onimusha-way-of-the-sword-sword-appearance-enryuu.json](./407134-onimusha-way-of-the-sword-sword-appearance-enryuu.json) |
+| Onimusha: Way of the Sword - Sword Appearance: Raizan | 407135 | [407135-onimusha-way-of-the-sword-sword-appearance-raizan.json](./407135-onimusha-way-of-the-sword-sword-appearance-raizan.json) |
 | Onimusha: Way of the Sword - Sword Appearance: Whittled Oar | 407136 | [407136-onimusha-way-of-the-sword-sword-appearance-whittled-oar.json](./407136-onimusha-way-of-the-sword-sword-appearance-whittled-oar.json) |
 | Oninaki | 115280 | [115280-oninaki.json](./115280-oninaki.json) |
 | Onion Delivery | 318730 | [318730-onion-delivery.json](./318730-onion-delivery.json) |
@@ -3177,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitality | 81007 | [81007-orbitality.json](./81007-orbitality.json) |
 | Orbitals | 133119 | [133119-orbitals.json](./133119-orbitals.json) |
 | Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
+| Orbitals: Deluxe Edition | 407108 | [407108-orbitals-deluxe-edition.json](./407108-orbitals-deluxe-edition.json) |
 | Orbiteers | 371566 | [371566-orbiteers.json](./371566-orbiteers.json) |
 | Orbiter | 15330 | [15330-orbiter.json](./15330-orbiter.json) |
 | Orbiter 2016 | 139258 | [139258-orbiter-2016.json](./139258-orbiter-2016.json) |
