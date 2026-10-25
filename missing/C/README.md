@@ -6386,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
 | Choppy Waters | 350765 | [350765-choppy-waters.json](./350765-choppy-waters.json) |
+| Choppy Waves | 402724 | [402724-choppy-waves.json](./402724-choppy-waves.json) |
 | Chordata | 280459 | [280459-chordata.json](./280459-chordata.json) |
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
@@ -11154,6 +11155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
 | Consortium | 9572 | [9572-consortium.json](./9572-consortium.json) |
+| Consorts of the Emperor | 402695 | [402695-consorts-of-the-emperor.json](./402695-consorts-of-the-emperor.json) |
 | Consortya | 150999 | [150999-consortya.json](./150999-consortya.json) |
 | Conspiracies of the Heart | 299004 | [299004-conspiracies-of-the-heart.json](./299004-conspiracies-of-the-heart.json) |
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
@@ -15752,6 +15754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubosphere | 238065 | [238065-cubosphere.json](./238065-cubosphere.json) |
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
 | Cubot: The Complexity of Simplicity | 9812 | [9812-cubot-the-complexity-of-simplicity.json](./9812-cubot-the-complexity-of-simplicity.json) |
+| Cubounce | 402697 | [402697-cubounce.json](./402697-cubounce.json) |
 | Cubox: Awakening of Gods | 168156 | [168156-cubox-awakening-of-gods.json](./168156-cubox-awakening-of-gods.json) |
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
 | Cuboy Back to the Cubeture: Era 2 | 57993 | [57993-cuboy-back-to-the-cubeture-era-2.json](./57993-cuboy-back-to-the-cubeture-era-2.json) |
