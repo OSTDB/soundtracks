@@ -8606,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Character 8: Bedman? | 250309 | [250309-guilty-gear-strive-additional-character-8-bedman.json](./250309-guilty-gear-strive-additional-character-8-bedman.json) |
 | Guilty Gear: Strive - Additional Character 9: Asuka R♯ | 250311 | [250311-guilty-gear-strive-additional-character-9-asuka-r.json](./250311-guilty-gear-strive-additional-character-9-asuka-r.json) |
 | Guilty Gear: Strive - Additional Character Color Pack | 254504 | [254504-guilty-gear-strive-additional-character-color-pack.json](./254504-guilty-gear-strive-additional-character-color-pack.json) |
+| Guilty Gear: Strive - Additional Character Color Pack | 389466 | [389466-guilty-gear-strive-additional-character-color-pack.json](./389466-guilty-gear-strive-additional-character-color-pack.json) |
 | Guilty Gear: Strive - Additional Character Color Pack 2 | 254966 | [254966-guilty-gear-strive-additional-character-color-pack-2.json](./254966-guilty-gear-strive-additional-character-color-pack-2.json) |
 | Guilty Gear: Strive - Another Story | 254515 | [254515-guilty-gear-strive-another-story.json](./254515-guilty-gear-strive-another-story.json) |
 | Guilty Gear: Strive - Daredevil Edition | 263513 | [263513-guilty-gear-strive-daredevil-edition.json](./263513-guilty-gear-strive-daredevil-edition.json) |
