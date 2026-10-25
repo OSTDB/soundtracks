@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
 | Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
 | Last Definitive Fantasy | 340897 | [340897-last-definitive-fantasy.json](./340897-last-definitive-fantasy.json) |
+| Last Dive: Echo Trench | 405764 | [405764-last-dive-echo-trench.json](./405764-last-dive-echo-trench.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
 | Last Draft | 401161 | [401161-last-draft.json](./401161-last-draft.json) |
 | Last Dream Fishing Arcade | 276639 | [276639-last-dream-fishing-arcade.json](./276639-last-dream-fishing-arcade.json) |
@@ -3208,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
 | Lethal Enforcers I & II | 77250 | [77250-lethal-enforcers-i-and-ii.json](./77250-lethal-enforcers-i-and-ii.json) |
 | Lethal Gamble 1 Werewolf Puzzle | 170278 | [170278-lethal-gamble-1-werewolf-puzzle.json](./170278-lethal-gamble-1-werewolf-puzzle.json) |
+| Lethal Ghosts | 405777 | [405777-lethal-ghosts.json](./405777-lethal-ghosts.json) |
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
 | Lethal Judgment: Origins | 91794 | [91794-lethal-judgment-origins.json](./91794-lethal-judgment-origins.json) |
 | Lethal Justice | 40334 | [40334-lethal-justice.json](./40334-lethal-justice.json) |
@@ -3290,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter-Setter | 55452 | [55452-letter-setter.json](./55452-letter-setter.json) |
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
 | Letterally | 400861 | [400861-letterally.json](./400861-letterally.json) |
+| Letterbane | 405754 | [405754-letterbane.json](./405754-letterbane.json) |
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
 | Letterbox by Powgi | 219522 | [219522-letterbox-by-powgi.json](./219522-letterbox-by-powgi.json) |
 | Lettercraft | 56310 | [56310-lettercraft.json](./56310-lettercraft.json) |
