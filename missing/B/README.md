@@ -11490,6 +11490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowels of the Ocean | 165481 | [165481-bowels-of-the-ocean.json](./165481-bowels-of-the-ocean.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowl 'Em Down | 240106 | [240106-bowl-em-down.json](./240106-bowl-em-down.json) |
+| Bowl Big | 411351 | [411351-bowl-big.json](./411351-bowl-big.json) |
 | Bowl VR | 32315 | [32315-bowl-vr.json](./32315-bowl-vr.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
