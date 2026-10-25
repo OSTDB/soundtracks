@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indycar Racing: The Game | 410972 | [410972-indycar-racing-the-game.json](./410972-indycar-racing-the-game.json) |
 | IndyCar Series | 5866 | [5866-indycar-series.json](./5866-indycar-series.json) |
 | IndyCar Series 2005 | 23543 | [23543-indycar-series-2005.json](./23543-indycar-series-2005.json) |
+| Inearth | 424662 | [424662-inearth.json](./424662-inearth.json) |
 | iNeko | 84453 | [84453-ineko.json](./84453-ineko.json) |
 | Inequalis | 224688 | [224688-inequalis.json](./224688-inequalis.json) |
 | Inertia | 261311 | [261311-inertia.json](./261311-inertia.json) |
