@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Ops: DeadZone | 337764 | [337764-z-ops-deadzone.json](./337764-z-ops-deadzone.json) |
 | Z Route: Redemption | 395510 | [395510-z-route-redemption.json](./395510-z-route-redemption.json) |
 | Z RPG | 411356 | [411356-z-rpg.json](./411356-z-rpg.json) |
+| Z Runaway | 55600 | [55600-z-runaway.json](./55600-z-runaway.json) |
 | Z Rush | 304579 | [304579-z-rush.json](./304579-z-rush.json) |
 | Z Virus: Outbreak | 362983 | [362983-z-virus-outbreak.json](./362983-z-virus-outbreak.json) |
 | Z ViRus: V.I.R.M Uprising | 44209 | [44209-z-virus-v-i-r-m-uprising.json](./44209-z-virus-v-i-r-m-uprising.json) |
@@ -1864,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoocube | 2627 | [2627-zoocube.json](./2627-zoocube.json) |
 | Zoogarnian | 215661 | [215661-zoogarnian.json](./215661-zoogarnian.json) |
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
+| Zooicide | 43124 | [43124-zooicide.json](./43124-zooicide.json) |
 | Zook Hero Z | 231542 | [231542-zook-hero-z.json](./231542-zook-hero-z.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
 | Zookeeper Battle | 22189 | [22189-zookeeper-battle.json](./22189-zookeeper-battle.json) |
