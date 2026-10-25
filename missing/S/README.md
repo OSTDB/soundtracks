@@ -7614,6 +7614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Stax | 385853 | [385853-short-stax.json](./385853-short-stax.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Short Warp: Deep Space Bounty | 261832 | [261832-short-warp-deep-space-bounty.json](./261832-short-warp-deep-space-bounty.json) |
+| Shortcircuit | 424685 | [424685-shortcircuit.json](./424685-shortcircuit.json) |
 | Shortcut Run | 318265 | [318265-shortcut-run.json](./318265-shortcut-run.json) |
 | Shortest Trip to Earth | 108656 | [108656-shortest-trip-to-earth.json](./108656-shortest-trip-to-earth.json) |
 | Shortest Trip to Earth: The Old Enemies | 154610 | [154610-shortest-trip-to-earth-the-old-enemies.json](./154610-shortest-trip-to-earth-the-old-enemies.json) |
@@ -16862,6 +16863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Agent CyberDuck | 199983 | [199983-special-agent-cyberduck.json](./199983-special-agent-cyberduck.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
+| Special Case | 424641 | [424641-special-case.json](./424641-special-case.json) |
 | Special Counter Force Attack | 111610 | [111610-special-counter-force-attack.json](./111610-special-counter-force-attack.json) |
 | Special Courier | 238457 | [238457-special-courier.json](./238457-special-courier.json) |
 | Special Delivery | 30364 | [30364-special-delivery.json](./30364-special-delivery.json) |
@@ -17016,6 +17018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Car Fighter | 99036 | [99036-speed-car-fighter.json](./99036-speed-car-fighter.json) |
 | Speed Car Fighter 3D 2015 | 100115 | [100115-speed-car-fighter-3d-2015.json](./100115-speed-car-fighter-3d-2015.json) |
 | Speed Car Racing Offline Game | 296772 | [296772-speed-car-racing-offline-game.json](./296772-speed-car-racing-offline-game.json) |
+| Speed Card Eatery | 424697 | [424697-speed-card-eatery.json](./424697-speed-card-eatery.json) |
 | Speed Challenge: Jacques Villeneuve's Racing Vision | 4162 | [4162-speed-challenge-jacques-villeneuves-racing-vision.json](./4162-speed-challenge-jacques-villeneuves-racing-vision.json) |
 | Speed Chasing | 95812 | [95812-speed-chasing.json](./95812-speed-chasing.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
