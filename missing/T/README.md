@@ -4345,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's a Thing | 344942 | [344942-thats-a-thing.json](./344942-thats-a-thing.json) |
 | That's a Warp | 282058 | [282058-thats-a-warp.json](./282058-thats-a-warp.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
+| That's Mahjong! | 30811 | [30811-thats-mahjong.json](./30811-thats-mahjong.json) |
 | That's My Tofu | 391188 | [391188-thats-my-tofu.json](./391188-thats-my-tofu.json) |
 | That's My Village! | 417639 | [417639-thats-my-village.json](./417639-thats-my-village.json) |
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
@@ -7471,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The fabulous Animal Playground | 101003 | [101003-the-fabulous-animal-playground.json](./101003-the-fabulous-animal-playground.json) |
 | The Fabulous Screech | 60521 | [60521-the-fabulous-screech.json](./60521-the-fabulous-screech.json) |
 | The Fabulous Wanda and the Secret of Life, the Universe, and Everything | 25854 | [25854-the-fabulous-wanda-and-the-secret-of-life-the-universe-and-everything.json](./25854-the-fabulous-wanda-and-the-secret-of-life-the-universe-and-everything.json) |
+| The face of hope: Underground | 30882 | [30882-the-face-of-hope-underground.json](./30882-the-face-of-hope-underground.json) |
 | The Faceless | 237361 | [237361-the-faceless.json](./237361-the-faceless.json) |
 | The Faceless City | 183590 | [183590-the-faceless-city.json](./183590-the-faceless-city.json) |
 | The Faceless Killer | 312182 | [312182-the-faceless-killer.json](./312182-the-faceless-killer.json) |
@@ -7683,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fighting Cubes | 181748 | [181748-the-fighting-cubes.json](./181748-the-fighting-cubes.json) |
 | The Fighting Wolf AT | 268897 | [268897-the-fighting-wolf-at.json](./268897-the-fighting-wolf-at.json) |
 | The Filfth of Us | 284280 | [284280-the-filfth-of-us.json](./284280-the-filfth-of-us.json) |
+| The Filmmaker - A Text Adventure | 29409 | [29409-the-filmmaker-a-text-adventure.json](./29409-the-filmmaker-a-text-adventure.json) |
 | The Final Answer | 211114 | [211114-the-final-answer.json](./211114-the-final-answer.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Bastion | 238507 | [238507-the-final-bastion.json](./238507-the-final-bastion.json) |
@@ -9734,6 +9737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Camp 1990 | 289997 | [289997-the-last-camp-1990.json](./289997-the-last-camp-1990.json) |
 | The Last Campfire | 113115 | [113115-the-last-campfire.json](./113115-the-last-campfire.json) |
 | The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
+| The Last Cargo | 29461 | [29461-the-last-cargo.json](./29461-the-last-cargo.json) |
 | The Last Case of Benedict Fox: Definitive Edition | 292897 | [292897-the-last-case-of-benedict-fox-definitive-edition.json](./292897-the-last-case-of-benedict-fox-definitive-edition.json) |
 | The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
@@ -9938,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Orgasm | 392897 | [392897-the-last-orgasm.json](./392897-the-last-orgasm.json) |
 | The Last Oricru | 152073 | [152073-the-last-oricru.json](./152073-the-last-oricru.json) |
 | The Last Orpheus | 276758 | [276758-the-last-orpheus.json](./276758-the-last-orpheus.json) |
+| The Last Patient | 29442 | [29442-the-last-patient.json](./29442-the-last-patient.json) |
 | The Last Phoenix | 375447 | [375447-the-last-phoenix.json](./375447-the-last-phoenix.json) |
 | The Last Photon | 33050 | [33050-the-last-photon.json](./33050-the-last-photon.json) |
 | The Last Pirate Adventure: Drake's Treasure | 169404 | [169404-the-last-pirate-adventure-drakes-treasure.json](./169404-the-last-pirate-adventure-drakes-treasure.json) |
@@ -11411,6 +11416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
 | The Mooseman: Mythic Edition | 53762 | [53762-the-mooseman-mythic-edition.json](./53762-the-mooseman-mythic-edition.json) |
 | The Morane Crisis | 417970 | [417970-the-morane-crisis.json](./417970-the-morane-crisis.json) |
+| The Morgue Fissure Between Worlds | 30807 | [30807-the-morgue-fissure-between-worlds.json](./30807-the-morgue-fissure-between-worlds.json) |
 | The Morgue: Hospital Escape | 177286 | [177286-the-morgue-hospital-escape.json](./177286-the-morgue-hospital-escape.json) |
 | The Morlov Affair | 78895 | [78895-the-morlov-affair.json](./78895-the-morlov-affair.json) |
 | The Morning Adventure | 49711 | [49711-the-morning-adventure.json](./49711-the-morning-adventure.json) |
@@ -12919,6 +12925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
 | The Ruins of Shanhai Labyrinth | 358482 | [358482-the-ruins-of-shanhai-labyrinth.json](./358482-the-ruins-of-shanhai-labyrinth.json) |
 | The Ruins of the Lost Kingdom: Chronicle | 77960 | [77960-the-ruins-of-the-lost-kingdom-chronicle.json](./77960-the-ruins-of-the-lost-kingdom-chronicle.json) |
+| The Ruins: VR Escape the Room | 29480 | [29480-the-ruins-vr-escape-the-room.json](./29480-the-ruins-vr-escape-the-room.json) |
 | The Rule of Land: Pioneers | 130112 | [130112-the-rule-of-land-pioneers.json](./130112-the-rule-of-land-pioneers.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish | 226310 | [226310-the-rumble-fish.json](./226310-the-rumble-fish.json) |
@@ -18572,6 +18579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
 | Tiler More | 232501 | [232501-tiler-more.json](./232501-tiler-more.json) |
 | Tiles | 104574 | [104574-tiles.json](./104574-tiles.json) |
+| Tiles | 29450 | [29450-tiles.json](./29450-tiles.json) |
 | Tiles & Tales | 30592 | [30592-tiles-and-tales.json](./30592-tiles-and-tales.json) |
 | Tiles 4 Perfect Music | 350203 | [350203-tiles-4-perfect-music.json](./350203-tiles-4-perfect-music.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
@@ -18782,6 +18790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Heroes | 341375 | [341375-time-of-heroes.json](./341375-time-of-heroes.json) |
 | Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
+| Time of Silence | 30886 | [30886-time-of-silence.json](./30886-time-of-silence.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
 | Time of the Clones | 174053 | [174053-time-of-the-clones.json](./174053-time-of-the-clones.json) |
 | Time of the Dead | 178380 | [178380-time-of-the-dead.json](./178380-time-of-the-dead.json) |
@@ -26048,6 +26057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Loves Waifus | 156562 | [156562-trump-loves-waifus.json](./156562-trump-loves-waifus.json) |
 | Trump Quest | 299492 | [299492-trump-quest.json](./299492-trump-quest.json) |
 | Trump Simulator 2025 | 334305 | [334305-trump-simulator-2025.json](./334305-trump-simulator-2025.json) |
+| Trump Simulator VR | 30827 | [30827-trump-simulator-vr.json](./30827-trump-simulator-vr.json) |
 | Trump Tariff | 338606 | [338606-trump-tariff.json](./338606-trump-tariff.json) |
 | Trump vs Biden: Infinity war | 141035 | [141035-trump-vs-biden-infinity-war.json](./141035-trump-vs-biden-infinity-war.json) |
 | Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
@@ -26667,6 +26677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
 | Turn and Burn: No-Fly Zone | 42438 | [42438-turn-and-burn-no-fly-zone.json](./42438-turn-and-burn-no-fly-zone.json) |
 | Turn and Burn: The F-14 Dogfight Simulator | 49058 | [49058-turn-and-burn-the-f-14-dogfight-simulator.json](./49058-turn-and-burn-the-f-14-dogfight-simulator.json) |
+| Turn Around | 29420 | [29420-turn-around.json](./29420-turn-around.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
 | Turn Back The Powers Of Darkness | 350233 | [350233-turn-back-the-powers-of-darkness.json](./350233-turn-back-the-powers-of-darkness.json) |
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
