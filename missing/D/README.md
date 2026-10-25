@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
 | Dark Pact | 291849 | [291849-dark-pact.json](./291849-dark-pact.json) |
 | Dark Pages | 265490 | [265490-dark-pages.json](./265490-dark-pages.json) |
+| Dark Pals | 389914 | [389914-dark-pals.json](./389914-dark-pals.json) |
 | Dark Pals: The 2nd Floor | 422119 | [422119-dark-pals-the-2nd-floor.json](./422119-dark-pals-the-2nd-floor.json) |
 | Dark Parables: Ballad of Rapunzel | 57161 | [57161-dark-parables-ballad-of-rapunzel.json](./57161-dark-parables-ballad-of-rapunzel.json) |
 | Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
@@ -4167,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Declutterer | 410686 | [410686-declutterer.json](./410686-declutterer.json) |
 | Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
+| Decode | 390016 | [390016-decode.json](./390016-decode.json) |
 | Decodence | 351568 | [351568-decodence.json](./351568-decodence.json) |
 | Decoherence | 97966 | [97966-decoherence.json](./97966-decoherence.json) |
 | Decollate Decoration | 266187 | [266187-decollate-decoration.json](./266187-decollate-decoration.json) |
@@ -5027,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Force: Xtreme 2 | 9352 | [9352-delta-force-xtreme-2.json](./9352-delta-force-xtreme-2.json) |
 | Delta G | 112924 | [112924-delta-g.json](./112924-delta-g.json) |
 | Delta Horizon | 106560 | [106560-delta-horizon.json](./106560-delta-horizon.json) |
+| Delta Light 2 | 390277 | [390277-delta-light-2.json](./390277-delta-light-2.json) |
 | Delta Man | 39777 | [39777-delta-man.json](./39777-delta-man.json) |
 | Delta Manager | 398464 | [398464-delta-manager.json](./398464-delta-manager.json) |
 | Delta Manifold | 201509 | [201509-delta-manifold.json](./201509-delta-manifold.json) |
@@ -13289,6 +13292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer's Canal | 383143 | [383143-dreamers-canal.json](./383143-dreamers-canal.json) |
 | Dreamer's Wake | 420170 | [420170-dreamers-wake.json](./420170-dreamers-wake.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
+| Dreamera: Figment of Dreams | 389922 | [389922-dreamera-figment-of-dreams.json](./389922-dreamera-figment-of-dreams.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
 | Dreamers: A Nostalgic Adventure | 274441 | [274441-dreamers-a-nostalgic-adventure.json](./274441-dreamers-a-nostalgic-adventure.json) |
 | Dreamers: Digital Deluxe Edition | 295646 | [295646-dreamers-digital-deluxe-edition.json](./295646-dreamers-digital-deluxe-edition.json) |
