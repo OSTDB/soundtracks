@@ -4440,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Taptasy | 229189 | [229189-final-taptasy.json](./229189-final-taptasy.json) |
 | Final Test Cartridge | 47200 | [47200-final-test-cartridge.json](./47200-final-test-cartridge.json) |
 | Final Theosis | 29882 | [29882-final-theosis.json](./29882-final-theosis.json) |
+| Final Third | 389475 | [389475-final-third.json](./389475-final-third.json) |
 | Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
 | Final Upgrade | 132584 | [132584-final-upgrade.json](./132584-final-upgrade.json) |
 | Final Vanguard | 211580 | [211580-final-vanguard.json](./211580-final-vanguard.json) |
@@ -8024,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
 | Forested Super Mario Bros. U | 314122 | [314122-forested-super-mario-bros-u.json](./314122-forested-super-mario-bros-u.json) |
 | Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
+| Forestia Révoltozoo | 389663 | [389663-forestia-revoltozoo.json](./389663-forestia-revoltozoo.json) |
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
 | Forestrike | 310694 | [310694-forestrike.json](./310694-forestrike.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
