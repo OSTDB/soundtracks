@@ -5999,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape TD | 186833 | [186833-shape-td.json](./186833-shape-td.json) |
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
 | Shape Together | 402374 | [402374-shape-together.json](./402374-shape-together.json) |
+| Shape Up | 20312 | [20312-shape-up.json](./20312-shape-up.json) |
 | Shape Up: Gold Edition | 227178 | [227178-shape-up-gold-edition.json](./227178-shape-up-gold-edition.json) |
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
 | Shape Warzone | 345098 | [345098-shape-warzone.json](./345098-shape-warzone.json) |
@@ -15456,6 +15457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet | 93441 | [93441-soviet.json](./93441-soviet.json) |
 | Soviet Bear Uni Adventure | 125094 | [125094-soviet-bear-uni-adventure.json](./125094-soviet-bear-uni-adventure.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
+| Soviet City | 19866 | [19866-soviet-city.json](./19866-soviet-city.json) |
 | Soviet Jump Game | 127188 | [127188-soviet-jump-game.json](./127188-soviet-jump-game.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
@@ -20910,6 +20912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwatchers: The Search for Cosmic Jam | 178923 | [178923-starwatchers-the-search-for-cosmic-jam.json](./178923-starwatchers-the-search-for-cosmic-jam.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
+| Starway Fleet | 29103 | [29103-starway-fleet.json](./29103-starway-fleet.json) |
 | Starway VR | 111373 | [111373-starway-vr.json](./111373-starway-vr.json) |
 | Starway: BaRaider | 223328 | [223328-starway-baraider.json](./223328-starway-baraider.json) |
 | Starweaver Express: Per Aspera Ad Astra | 391752 | [391752-starweaver-express-per-aspera-ad-astra.json](./391752-starweaver-express-per-aspera-ad-astra.json) |
@@ -27296,6 +27299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged Robot Vulkaiser | 20019 | [20019-supercharged-robot-vulkaiser.json](./20019-supercharged-robot-vulkaiser.json) |
 | Supercharged World Cup | 102853 | [102853-supercharged-world-cup.json](./102853-supercharged-world-cup.json) |
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
+| SuperCluster: Void | 29105 | [29105-supercluster-void.json](./29105-supercluster-void.json) |
 | SuperCold | 233945 | [233945-supercold.json](./233945-supercold.json) |
 | SuperCollapse! II | 23804 | [23804-supercollapse-ii.json](./23804-supercollapse-ii.json) |
 | Supercooked! | 251711 | [251711-supercooked.json](./251711-supercooked.json) |
