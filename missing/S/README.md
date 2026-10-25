@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
 | Sakuraba Ema's Intertwining Threshold | 418771 | [418771-sakuraba-emas-intertwining-threshold.json](./418771-sakuraba-emas-intertwining-threshold.json) |
 | Sakurairo Prism | 234149 | [234149-sakurairo-prism.json](./234149-sakurairo-prism.json) |
+| Sakurairo Prism: Beyond the Bloom | 419611 | [419611-sakurairo-prism-beyond-the-bloom.json](./419611-sakurairo-prism-beyond-the-bloom.json) |
 | Sakurazaka Shouboutai | 137323 | [137323-sakurazaka-shouboutai.json](./137323-sakurazaka-shouboutai.json) |
 | Sakuya Izayoi Gives You Advice and Dabs | 129389 | [129389-sakuya-izayoi-gives-you-advice-and-dabs.json](./129389-sakuya-izayoi-gives-you-advice-and-dabs.json) |
 | Sakuya-san Crisis & SakuTaku | 210549 | [210549-sakuya-san-crisis-and-sakutaku.json](./210549-sakuya-san-crisis-and-sakutaku.json) |
@@ -11815,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smok: Legend of the Laid-Back Heroes | 216298 | [216298-smok-legend-of-the-laid-back-heroes.json](./216298-smok-legend-of-the-laid-back-heroes.json) |
 | Smoke and Mirrors | 356784 | [356784-smoke-and-mirrors.json](./356784-smoke-and-mirrors.json) |
 | Smoke and Sacrifice | 86442 | [86442-smoke-and-sacrifice.json](./86442-smoke-and-sacrifice.json) |
+| Smoke and Steel | 419598 | [419598-smoke-and-steel.json](./419598-smoke-and-steel.json) |
 | Smoke Attack | 216275 | [216275-smoke-attack.json](./216275-smoke-attack.json) |
 | Smoke Attack 2 | 229125 | [229125-smoke-attack-2.json](./229125-smoke-attack-2.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
@@ -12670,6 +12672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowflake Master | 369335 | [369335-snowflake-master.json](./369335-snowflake-master.json) |
 | Snowflake Tattoo | 35608 | [35608-snowflake-tattoo.json](./35608-snowflake-tattoo.json) |
 | Snowflake's Chance | 29699 | [29699-snowflakes-chance.json](./29699-snowflakes-chance.json) |
+| Snowflakes in the Sun | 419612 | [419612-snowflakes-in-the-sun.json](./419612-snowflakes-in-the-sun.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
 | Snowkissed Romance | 254571 | [254571-snowkissed-romance.json](./254571-snowkissed-romance.json) |
@@ -17236,6 +17239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
 | Spell Crisis | 192697 | [192697-spell-crisis.json](./192697-spell-crisis.json) |
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
+| Spell Death | 419606 | [419606-spell-death.json](./419606-spell-death.json) |
 | Spell Defender | 215715 | [215715-spell-defender.json](./215715-spell-defender.json) |
 | Spell Disk | 240803 | [240803-spell-disk.json](./240803-spell-disk.json) |
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
@@ -22158,6 +22162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoneLoops! of Jurassica | 67810 | [67810-stoneloops-of-jurassica.json](./67810-stoneloops-of-jurassica.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
 | Stoneman's Adventure | 256725 | [256725-stonemans-adventure.json](./256725-stonemans-adventure.json) |
+| Stones Keeper: Director's Cut | 419645 | [419645-stones-keeper-directors-cut.json](./419645-stones-keeper-directors-cut.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
 | Stones of Rome | 74149 | [74149-stones-of-rome.json](./74149-stones-of-rome.json) |
@@ -22381,6 +22386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
 | Story of Seasons: Trio of Towns | 15910 | [15910-story-of-seasons-trio-of-towns.json](./15910-story-of-seasons-trio-of-towns.json) |
 | Story of Seasons: Untitled 2024 | 303822 | [303822-story-of-seasons-untitled-2024.json](./303822-story-of-seasons-untitled-2024.json) |
+| Story of Seasons: Your Wonderful Life | 419610 | [419610-story-of-seasons-your-wonderful-life.json](./419610-story-of-seasons-your-wonderful-life.json) |
 | Story of the Blanks | 281346 | [281346-story-of-the-blanks.json](./281346-story-of-the-blanks.json) |
 | Story of the Bug Eyed Monster | 91824 | [91824-story-of-the-bug-eyed-monster.json](./91824-story-of-the-bug-eyed-monster.json) |
 | Story of the Green Dragon | 109869 | [109869-story-of-the-green-dragon.json](./109869-story-of-the-green-dragon.json) |
