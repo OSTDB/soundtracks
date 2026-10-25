@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeful Guardian: Moonrider | 213741 | [213741-vengeful-guardian-moonrider.json](./213741-vengeful-guardian-moonrider.json) |
 | Vengeful Heart | 120056 | [120056-vengeful-heart.json](./120056-vengeful-heart.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
+| Venice | 14810 | [14810-venice.json](./14810-venice.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
 | Venice Master | 197205 | [197205-venice-master.json](./197205-venice-master.json) |
 | Venice Mystery | 64731 | [64731-venice-mystery.json](./64731-venice-mystery.json) |
