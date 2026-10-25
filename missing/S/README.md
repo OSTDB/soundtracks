@@ -5114,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Milfs | 276966 | [276966-sex-milfs.json](./276966-sex-milfs.json) |
 | Sex Monsters for Sex Motel | 288886 | [288886-sex-monsters-for-sex-motel.json](./288886-sex-monsters-for-sex-motel.json) |
 | Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
+| Sex Novel: Cheating Wife | 418852 | [418852-sex-novel-cheating-wife.json](./418852-sex-novel-cheating-wife.json) |
 | Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
 | Sex Olympics | 289398 | [289398-sex-olympics.json](./289398-sex-olympics.json) |
 | Sex on Beach | 252271 | [252271-sex-on-beach.json](./252271-sex-on-beach.json) |
@@ -9850,6 +9851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch, Share, Solve | 198164 | [198164-sketch-share-solve.json](./198164-sketch-share-solve.json) |
 | Sketch, Share, Solve: Video Games & Animals | 341154 | [341154-sketch-share-solve-video-games-and-animals.json](./341154-sketch-share-solve-video-games-and-animals.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
+| Sketchball | 418870 | [418870-sketchball.json](./418870-sketchball.json) |
 | Sketchbook | 359617 | [359617-sketchbook.json](./359617-sketchbook.json) |
 | Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
 | Sketchcross | 52824 | [52824-sketchcross.json](./52824-sketchcross.json) |
@@ -24699,6 +24701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
+| Sunny Beach Dolls | 418836 | [418836-sunny-beach-dolls.json](./418836-sunny-beach-dolls.json) |
 | Sunny Beach Girls | 294973 | [294973-sunny-beach-girls.json](./294973-sunny-beach-girls.json) |
 | Sunny Cafe | 154353 | [154353-sunny-cafe.json](./154353-sunny-cafe.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
@@ -28621,6 +28624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Night Club | 339447 | [339447-sweet-night-club.json](./339447-sweet-night-club.json) |
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
 | Sweet Office | 343597 | [343597-sweet-office.json](./343597-sweet-office.json) |
+| Sweet Orgasm | 418840 | [418840-sweet-orgasm.json](./418840-sweet-orgasm.json) |
 | Sweet Pensiveness Christmas | 176257 | [176257-sweet-pensiveness-christmas.json](./176257-sweet-pensiveness-christmas.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Pirate | 382397 | [382397-sweet-pirate.json](./382397-sweet-pirate.json) |
