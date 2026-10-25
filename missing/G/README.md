@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
 | Genzee NFT Game | 186590 | [186590-genzee-nft-game.json](./186590-genzee-nft-game.json) |
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
+| Geo Bobs | 416347 | [416347-geo-bobs.json](./416347-geo-bobs.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Challenge | 342252 | [342252-geo-challenge.json](./342252-geo-challenge.json) |
 | Geo Composer | 89788 | [89788-geo-composer.json](./89788-geo-composer.json) |
@@ -3393,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
 | Ghouls & Guardians | 348982 | [348982-ghouls-and-guardians.json](./348982-ghouls-and-guardians.json) |
+| Ghouls Grooves and Garlic | 416354 | [416354-ghouls-grooves-and-garlic.json](./416354-ghouls-grooves-and-garlic.json) |
 | Ghouls vs Humans: Classic Reborn | 361501 | [361501-ghouls-vs-humans-classic-reborn.json](./361501-ghouls-vs-humans-classic-reborn.json) |
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
 | Ghunter | 322112 | [322112-ghunter.json](./322112-ghunter.json) |
@@ -6168,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gracia | 301844 | [301844-gracia.json](./301844-gracia.json) |
 | Gracie & Mike: Interstellar Mercenary Exterminators | 176771 | [176771-gracie-and-mike-interstellar-mercenary-exterminators.json](./176771-gracie-and-mike-interstellar-mercenary-exterminators.json) |
 | Grackon's Curse | 117020 | [117020-grackons-curse.json](./117020-grackons-curse.json) |
+| Gradanix | 416335 | [416335-gradanix.json](./416335-gradanix.json) |
 | Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
 | Grader Simulator: Road Work | 231948 | [231948-grader-simulator-road-work.json](./231948-grader-simulator-road-work.json) |
 | Gradient | 237809 | [237809-gradient.json](./237809-gradient.json) |
@@ -7696,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire | 296800 | [296800-grimoire.json](./296800-grimoire.json) |
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
+| Grimoire Limbo | 416334 | [416334-grimoire-limbo.json](./416334-grimoire-limbo.json) |
 | Grimoire of Blanks | 418214 | [418214-grimoire-of-blanks.json](./418214-grimoire-of-blanks.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
