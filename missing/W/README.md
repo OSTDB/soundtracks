@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
 | Wave Magic VR | 31723 | [31723-wave-magic-vr.json](./31723-wave-magic-vr.json) |
 | Wave Mechanics | 34871 | [34871-wave-mechanics.json](./34871-wave-mechanics.json) |
+| Wave of Color | 389942 | [389942-wave-of-color.json](./389942-wave-of-color.json) |
 | Wave of Darkness | 17704 | [17704-wave-of-darkness.json](./17704-wave-of-darkness.json) |
 | Wave Race | 48915 | [48915-wave-race.json](./48915-wave-race.json) |
 | Wave Race 64 | 308048 | [308048-wave-race-64.json](./308048-wave-race-64.json) |
@@ -3255,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Your Hidden Power? | 206647 | [206647-whats-your-hidden-power.json](./206647-whats-your-hidden-power.json) |
 | What's Your Sign? | 74714 | [74714-whats-your-sign.json](./74714-whats-your-sign.json) |
 | What's Your Story? | 88913 | [88913-whats-your-story.json](./88913-whats-your-story.json) |
+| What'Sub | 389941 | [389941-whatsub.json](./389941-whatsub.json) |
 | Whatcha Loopin At? | 364688 | [364688-whatcha-loopin-at.json](./364688-whatcha-loopin-at.json) |
 | Whatever It Takes | 400092 | [400092-whatever-it-takes.json](./400092-whatever-it-takes.json) |
 | Whatever We Decide to Call this Game | 313452 | [313452-whatever-we-decide-to-call-this-game.json](./313452-whatever-we-decide-to-call-this-game.json) |
@@ -3769,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
 | Whispers of Ancient Stone | 195578 | [195578-whispers-of-ancient-stone.json](./195578-whispers-of-ancient-stone.json) |
+| Whispers of Appalachia | 389925 | [389925-whispers-of-appalachia.json](./389925-whispers-of-appalachia.json) |
 | Whispers of Elenrod | 378401 | [378401-whispers-of-elenrod.json](./378401-whispers-of-elenrod.json) |
 | Whispers of Fear | 338370 | [338370-whispers-of-fear.json](./338370-whispers-of-fear.json) |
 | Whispers of Mexico: La Noche de la Casada | 356785 | [356785-whispers-of-mexico-la-noche-de-la-casada.json](./356785-whispers-of-mexico-la-noche-de-la-casada.json) |
@@ -4812,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing War | 131192 | [131192-wing-war.json](./131192-wing-war.json) |
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
 | Wing Warriors | 218921 | [218921-wing-warriors.json](./218921-wing-warriors.json) |
+| Wing-It | 390283 | [390283-wing-it.json](./390283-wing-it.json) |
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
 | Winged Gear | 266653 | [266653-winged-gear.json](./266653-winged-gear.json) |
 | Winged Raider | 216837 | [216837-winged-raider.json](./216837-winged-raider.json) |
