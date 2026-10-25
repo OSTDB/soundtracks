@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Metal | 31788 | [31788-deadly-metal.json](./31788-deadly-metal.json) |
 | Deadly Metropolis | 359516 | [359516-deadly-metropolis.json](./359516-deadly-metropolis.json) |
 | Deadly Moves | 46225 | [46225-deadly-moves.json](./46225-deadly-moves.json) |
+| Deadly New Zealand | 407513 | [407513-deadly-new-zealand.json](./407513-deadly-new-zealand.json) |
 | Deadly Night | 207405 | [207405-deadly-night.json](./207405-deadly-night.json) |
 | Deadly Nightmare | 190084 | [190084-deadly-nightmare.json](./190084-deadly-nightmare.json) |
 | Deadly Nightmare Unwanted Heritage | 278934 | [278934-deadly-nightmare-unwanted-heritage.json](./278934-deadly-nightmare-unwanted-heritage.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadNeverStop | 289450 | [289450-deadneverstop.json](./289450-deadneverstop.json) |
 | Deadolls | 75673 | [75673-deadolls.json](./75673-deadolls.json) |
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
+| Deadpact | 407818 | [407818-deadpact.json](./407818-deadpact.json) |
 | Deadpoint | 265115 | [265115-deadpoint.json](./265115-deadpoint.json) |
 | Deadpool | 1919 | [1919-deadpool.json](./1919-deadpool.json) |
 | Deadpool Hardcore Edition | 338851 | [338851-deadpool-hardcore-edition.json](./338851-deadpool-hardcore-edition.json) |
@@ -15389,6 +15391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dupli_City | 126966 | [126966-dupli-city.json](./126966-dupli-city.json) |
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
 | Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
+| Duplo | 407947 | [407947-duplo.json](./407947-duplo.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
 | Dura Vita Online | 164082 | [164082-dura-vita-online.json](./164082-dura-vita-online.json) |
 | Durak Online | 369668 | [369668-durak-online.json](./369668-durak-online.json) |
