@@ -5177,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pier Pressure | 141532 | [141532-pier-pressure.json](./141532-pier-pressure.json) |
 | Pier Solar and the Great Architects | 4512 | [4512-pier-solar-and-the-great-architects.json](./4512-pier-solar-and-the-great-architects.json) |
 | Pier57 Autocracy | 80470 | [80470-pier57-autocracy.json](./80470-pier57-autocracy.json) |
+| Pierce Through Heavens | 415037 | [415037-pierce-through-heavens.json](./415037-pierce-through-heavens.json) |
 | Piercing Blo | 58712 | [58712-piercing-blo.json](./58712-piercing-blo.json) |
 | Piercing Blow | 34944 | [34944-piercing-blow.json](./34944-piercing-blow.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
@@ -12530,6 +12531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
 | Producer (2021) | 154283 | [154283-producer-2021.json](./154283-producer-2021.json) |
 | Producer Tycoon | 244319 | [244319-producer-tycoon.json](./244319-producer-tycoon.json) |
+| Production City | 415009 | [415009-production-city.json](./415009-production-city.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Proelium | 110745 | [110745-proelium.json](./110745-proelium.json) |
 | Prof. Miyamoto's Soroban & Flash Anzan | 244825 | [244825-prof-miyamotos-soroban-and-flash-anzan.json](./244825-prof-miyamotos-soroban-and-flash-anzan.json) |
