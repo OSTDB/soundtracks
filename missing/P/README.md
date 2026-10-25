@@ -3985,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Store Panic | 32789 | [32789-pet-store-panic.json](./32789-pet-store-panic.json) |
 | Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
 | Pet That VTuber! | 403799 | [403799-pet-that-vtuber.json](./403799-pet-that-vtuber.json) |
+| Pet the Cat | 416978 | [416978-pet-the-cat.json](./416978-pet-the-cat.json) |
 | Pet the Dog? | 179587 | [179587-pet-the-dog.json](./179587-pet-the-dog.json) |
 | Pet the Duck! | 180633 | [180633-pet-the-duck.json](./180633-pet-the-duck.json) |
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
@@ -10407,6 +10408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popgoes Reprinted | 238962 | [238962-popgoes-reprinted.json](./238962-popgoes-reprinted.json) |
 | Popgoes: Archives | 238956 | [238956-popgoes-archives.json](./238956-popgoes-archives.json) |
 | Popgoes: Lost Dreams | 250606 | [250606-popgoes-lost-dreams.json](./250606-popgoes-lost-dreams.json) |
+| Popgoes: Lost Love | 416964 | [416964-popgoes-lost-love.json](./416964-popgoes-lost-love.json) |
 | Popgoes: Silent Night | 238958 | [238958-popgoes-silent-night.json](./238958-popgoes-silent-night.json) |
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
