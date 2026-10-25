@@ -12717,6 +12717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coven of the Chicken Foot | 381218 | [381218-coven-of-the-chicken-foot.json](./381218-coven-of-the-chicken-foot.json) |
 | Coven: All Powerful | 351562 | [351562-coven-all-powerful.json](./351562-coven-all-powerful.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
+| Covenant Cards | 395976 | [395976-covenant-cards.json](./395976-covenant-cards.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
 | Covenant of Solitude | 200936 | [200936-covenant-of-solitude.json](./200936-covenant-of-solitude.json) |
 | Covenant: Project Zero | 236368 | [236368-covenant-project-zero.json](./236368-covenant-project-zero.json) |
@@ -16516,6 +16517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutting Grass with Nail Clippers: The Game | 366285 | [366285-cutting-grass-with-nail-clippers-the-game.json](./366285-cutting-grass-with-nail-clippers-the-game.json) |
 | Cutting Hedge | 176913 | [176913-cutting-hedge.json](./176913-cutting-hedge.json) |
 | Cuttle | 384341 | [384341-cuttle.json](./384341-cuttle.json) |
+| Cuttlebone | 395975 | [395975-cuttlebone.json](./395975-cuttlebone.json) |
 | Cuttlefish | 252018 | [252018-cuttlefish.json](./252018-cuttlefish.json) |
 | Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
 | Cutucadores | 327039 | [327039-cutucadores.json](./327039-cutucadores.json) |
