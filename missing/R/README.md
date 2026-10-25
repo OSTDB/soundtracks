@@ -7635,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
 | Rocket Bytes | 212298 | [212298-rocket-bytes.json](./212298-rocket-bytes.json) |
+| Rocket Car Ball | 100863 | [100863-rocket-car-ball.json](./100863-rocket-car-ball.json) |
 | Rocket Car: Ultimate Ball League Machines - Premium Edition | 306523 | [306523-rocket-car-ultimate-ball-league-machines-premium-edition.json](./306523-rocket-car-ultimate-ball-league-machines-premium-edition.json) |
 | Rocket Car: Wheel Rim Collection | 304815 | [304815-rocket-car-wheel-rim-collection.json](./304815-rocket-car-wheel-rim-collection.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
@@ -10411,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian AYE Race | 86678 | [86678-russian-aye-race.json](./86678-russian-aye-race.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Car Driver | 30142 | [30142-russian-car-driver.json](./30142-russian-car-driver.json) |
+| Russian Car Driver ZIL 130 | 100915 | [100915-russian-car-driver-zil-130.json](./100915-russian-car-driver-zil-130.json) |
 | Russian Car Driver: UAZ Hunter | 255752 | [255752-russian-car-driver-uaz-hunter.json](./255752-russian-car-driver-uaz-hunter.json) |
 | Russian Cat Simulator | 340814 | [340814-russian-cat-simulator.json](./340814-russian-cat-simulator.json) |
 | Russian City Sim | 154244 | [154244-russian-city-sim.json](./154244-russian-city-sim.json) |
