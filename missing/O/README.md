@@ -2559,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Way Up! Parkour Jump Simulator | 266245 | [266245-only-way-up-parkour-jump-simulator.json](./266245-only-way-up-parkour-jump-simulator.json) |
 | Only Whores Survive | 370466 | [370466-only-whores-survive.json](./370466-only-whores-survive.json) |
 | Only Wish | 267062 | [267062-only-wish.json](./267062-only-wish.json) |
+| Only You | 397287 | [397287-only-you.json](./397287-only-you.json) |
 | Only You Can Prevent Containment Breaches | 271242 | [271242-only-you-can-prevent-containment-breaches.json](./271242-only-you-can-prevent-containment-breaches.json) |
 | Only You: Re-Cross | 269643 | [269643-only-you-re-cross.json](./269643-only-you-re-cross.json) |
 | OnlyCans: Thirst Date | 142461 | [142461-onlycans-thirst-date.json](./142461-onlycans-thirst-date.json) |
