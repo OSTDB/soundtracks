@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Joysound | 131250 | [131250-karaoke-joysound.json](./131250-karaoke-joysound.json) |
 | Karaoke Joysound | 4948 | [4948-karaoke-joysound.json](./4948-karaoke-joysound.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
+| Karaoke Joysound for Steam | 405311 | [405311-karaoke-joysound-for-steam.json](./405311-karaoke-joysound-for-steam.json) |
 | Karaoke Joysound for Streamer | 316469 | [316469-karaoke-joysound-for-streamer.json](./316469-karaoke-joysound-for-streamer.json) |
 | Karaoke Joysound Wii: DX Deluxe Edition | 131263 | [131263-karaoke-joysound-wii-dx-deluxe-edition.json](./131263-karaoke-joysound-wii-dx-deluxe-edition.json) |
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
@@ -2262,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone 3 | 1867 | [1867-killzone-3.json](./1867-killzone-3.json) |
 | Killzone 3: Collector's Edition | 163151 | [163151-killzone-3-collectors-edition.json](./163151-killzone-3-collectors-edition.json) |
 | Killzone 3: Helghast Edition | 163147 | [163147-killzone-3-helghast-edition.json](./163147-killzone-3-helghast-edition.json) |
+| Killzone Extraction | 405907 | [405907-killzone-extraction.json](./405907-killzone-extraction.json) |
 | Killzone HD | 20003 | [20003-killzone-hd.json](./20003-killzone-hd.json) |
 | Killzone Trilogy | 23729 | [23729-killzone-trilogy.json](./23729-killzone-trilogy.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
@@ -3808,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights in the Nightmare | 20690 | [20690-knights-in-the-nightmare.json](./20690-knights-in-the-nightmare.json) |
 | Knights in the Nightmare Remaster | 222421 | [222421-knights-in-the-nightmare-remaster.json](./222421-knights-in-the-nightmare-remaster.json) |
 | Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
+| Knights in Tight Spaces: Collector's Edition | 406335 | [406335-knights-in-tight-spaces-collectors-edition.json](./406335-knights-in-tight-spaces-collectors-edition.json) |
 | Knights of Ages | 143430 | [143430-knights-of-ages.json](./143430-knights-of-ages.json) |
 | Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
 | Knights of Braveland: Fun And Memes | 284505 | [284505-knights-of-braveland-fun-and-memes.json](./284505-knights-of-braveland-fun-and-memes.json) |
