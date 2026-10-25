@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
 | Healer's Quest | 29380 | [29380-healers-quest.json](./29380-healers-quest.json) |
 | Healer's Quest: Pocket Wand | 197759 | [197759-healers-quest-pocket-wand.json](./197759-healers-quest-pocket-wand.json) |
+| Healing Days: Toshi no Sa Kanojo to no Ama Ama Seikatsu | 402719 | [402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json](./402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json) |
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Healing Simulator | 195000 | [195000-healing-simulator.json](./195000-healing-simulator.json) |
 | Healslut | 217999 | [217999-healslut.json](./217999-healslut.json) |
@@ -6239,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | HighKing | 320036 | [320036-highking.json](./320036-highking.json) |
 | Highland Games | 417472 | [417472-highland-games.json](./417472-highland-games.json) |
+| Highland Haven | 402725 | [402725-highland-haven.json](./402725-highland-haven.json) |
 | Highland Huntress | 302079 | [302079-highland-huntress.json](./302079-highland-huntress.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highland Solitaire | 209908 | [209908-highland-solitaire.json](./209908-highland-solitaire.json) |
@@ -6792,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitchhiker | 117408 | [117408-hitchhiker.json](./117408-hitchhiker.json) |
 | Hitchhiker | 83416 | [83416-hitchhiker.json](./83416-hitchhiker.json) |
 | Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
+| Hiteneiro: Astronomical Few Minute. | 402702 | [402702-hiteneiro-astronomical-few-minute.json](./402702-hiteneiro-astronomical-few-minute.json) |
 | Hitherto: School of Swordcery and Shieldjuration | 414757 | [414757-hitherto-school-of-swordcery-and-shieldjuration.json](./414757-hitherto-school-of-swordcery-and-shieldjuration.json) |
 | Hitler Hates Anime | 166486 | [166486-hitler-hates-anime.json](./166486-hitler-hates-anime.json) |
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
@@ -7832,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Paean of Era Nova | 326609 | [326609-honkai-star-rail-paean-of-era-nova.json](./326609-honkai-star-rail-paean-of-era-nova.json) |
 | Honkai: Star Rail - So Laughed the Masses | 398432 | [398432-honkai-star-rail-so-laughed-the-masses.json](./398432-honkai-star-rail-so-laughed-the-masses.json) |
 | Honkai: Star Rail - The Crepuscule Zone | 274834 | [274834-honkai-star-rail-the-crepuscule-zone.json](./274834-honkai-star-rail-the-crepuscule-zone.json) |
+| Honkai: Star Rail - The Lethe Below the Living | 402731 | [402731-honkai-star-rail-the-lethe-below-the-living.json](./402731-honkai-star-rail-the-lethe-below-the-living.json) |
 | Honkai: Star Rail - Then Wake to Weep | 298930 | [298930-honkai-star-rail-then-wake-to-weep.json](./298930-honkai-star-rail-then-wake-to-weep.json) |
 | Honkai: Star Rail - To Roll the Stars in Astropolis | 413869 | [413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json](./413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json) |
 | Honkai: Star Rail - Unraveled for Daybreak | 394848 | [394848-honkai-star-rail-unraveled-for-daybreak.json](./394848-honkai-star-rail-unraveled-for-daybreak.json) |
