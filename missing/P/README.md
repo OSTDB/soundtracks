@@ -3798,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 4 Dancing All Night: Heaven featuring Hatsune Miku | 319167 | [319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json](./319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json) |
 | Persona 4 Golden | 234702 | [234702-persona-4-golden.json](./234702-persona-4-golden.json) |
 | Persona 4 Revival: Digital Premium Edition | 407470 | [407470-persona-4-revival-digital-premium-edition.json](./407470-persona-4-revival-digital-premium-edition.json) |
+| Persona 4 Revival: Steelbook Edition | 422015 | [422015-persona-4-revival-steelbook-edition.json](./422015-persona-4-revival-steelbook-edition.json) |
 | Persona 4: Dancing All Night | 11056 | [11056-persona-4-dancing-all-night.json](./11056-persona-4-dancing-all-night.json) |
 | Persona 4: Dancing All Night - Disco Fever Edition | 41873 | [41873-persona-4-dancing-all-night-disco-fever-edition.json](./41873-persona-4-dancing-all-night-disco-fever-edition.json) |
 | Persona 4: Golden - Solid Gold Premium Edition | 89923 | [89923-persona-4-golden-solid-gold-premium-edition.json](./89923-persona-4-golden-solid-gold-premium-edition.json) |
@@ -7831,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plate Spinning | 202006 | [202006-plate-spinning.json](./202006-plate-spinning.json) |
 | Plateman | 240776 | [240776-plateman.json](./240776-plateman.json) |
 | Plates | 32188 | [32188-plates.json](./32188-plates.json) |
+| Plates of Peril | 422066 | [422066-plates-of-peril.json](./422066-plates-of-peril.json) |
 | PlateUp! | 151353 | [151353-plateup.json](./151353-plateup.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
 | Platform | 316717 | [316717-platform.json](./316717-platform.json) |
@@ -13456,6 +13458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Promized Land: Outer Town | 326194 | [326194-promized-land-outer-town.json](./326194-promized-land-outer-town.json) |
 | Promo Pack 2x1 | 212786 | [212786-promo-pack-2x1.json](./212786-promo-pack-2x1.json) |
+| Promo Wrestling World | 422063 | [422063-promo-wrestling-world.json](./422063-promo-wrestling-world.json) |
 | ProMods Canada | 376091 | [376091-promods-canada.json](./376091-promods-canada.json) |
 | Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
 | Prompt | 35336 | [35336-prompt.json](./35336-prompt.json) |
