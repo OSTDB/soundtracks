@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
 | Terminator 2: Judgment Game | 280650 | [280650-terminator-2-judgment-game.json](./280650-terminator-2-judgment-game.json) |
 | Terminator 2D: No Fate | 327500 | [327500-terminator-2d-no-fate.json](./327500-terminator-2d-no-fate.json) |
+| Terminator 2D: No Fate - Day One Edition | 393447 | [393447-terminator-2d-no-fate-day-one-edition.json](./393447-terminator-2d-no-fate-day-one-edition.json) |
 | Terminator 3: Rise of the Machines | 204902 | [204902-terminator-3-rise-of-the-machines.json](./204902-terminator-3-rise-of-the-machines.json) |
 | Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
 | Terminator 3: War of the Machines | 47069 | [47069-terminator-3-war-of-the-machines.json](./47069-terminator-3-war-of-the-machines.json) |
@@ -5126,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ballad of Radolf | 207295 | [207295-the-ballad-of-radolf.json](./207295-the-ballad-of-radolf.json) |
 | The Ballad of the Metamorphosis of M. Dolly | 125214 | [125214-the-ballad-of-the-metamorphosis-of-m-dolly.json](./125214-the-ballad-of-the-metamorphosis-of-m-dolly.json) |
 | The Ballad Singer | 78156 | [78156-the-ballad-singer.json](./78156-the-ballad-singer.json) |
+| The Ballad Singer: Knights Templar | 393585 | [393585-the-ballad-singer-knights-templar.json](./393585-the-ballad-singer-knights-templar.json) |
 | The Ballads of Reemus: When the Bed Bites | 11096 | [11096-the-ballads-of-reemus-when-the-bed-bites.json](./11096-the-ballads-of-reemus-when-the-bed-bites.json) |
 | The Balldragon | 335265 | [335265-the-balldragon.json](./335265-the-balldragon.json) |
 | The Ballet of Light and Shadow | 68425 | [68425-the-ballet-of-light-and-shadow.json](./68425-the-ballet-of-light-and-shadow.json) |
@@ -8946,6 +8948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
 | The House of the Dead 2 & 3 Return | 4918 | [4918-the-house-of-the-dead-2-and-3-return.json](./4918-the-house-of-the-dead-2-and-3-return.json) |
 | The House of the Dead 2: Remake | 327808 | [327808-the-house-of-the-dead-2-remake.json](./327808-the-house-of-the-dead-2-remake.json) |
+| The House of the Dead 2: Remake - Infect Edition | 393441 | [393441-the-house-of-the-dead-2-remake-infect-edition.json](./393441-the-house-of-the-dead-2-remake-infect-edition.json) |
 | The House of the Dead 4 | 21721 | [21721-the-house-of-the-dead-4.json](./21721-the-house-of-the-dead-4.json) |
 | The House of the Dead 4: Special | 134319 | [134319-the-house-of-the-dead-4-special.json](./134319-the-house-of-the-dead-4-special.json) |
 | The House of the Dead III | 5863 | [5863-the-house-of-the-dead-iii.json](./5863-the-house-of-the-dead-iii.json) |
@@ -11452,6 +11455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Miserable Crimson Hooded Girl | 125041 | [125041-the-miserable-crimson-hooded-girl.json](./125041-the-miserable-crimson-hooded-girl.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
+| The Mishka Effect | 393274 | [393274-the-mishka-effect.json](./393274-the-mishka-effect.json) |
 | The Misshitsu kara no Dasshutsu 2 | 125774 | [125774-the-misshitsu-kara-no-dasshutsu-2.json](./125774-the-misshitsu-kara-no-dasshutsu-2.json) |
 | The Misshitsu kara no Dasshutsu: The Suiri Bangai-hen | 125778 | [125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json](./125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json) |
 | The Misshitsu kara no Dasshutsu: Unmei wo Tsunagu 35 no Nazo | 147327 | [147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json](./147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json) |
@@ -14228,7 +14232,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stranger From the Bus Stop | 332396 | [332396-the-stranger-from-the-bus-stop.json](./332396-the-stranger-from-the-bus-stop.json) |
 | The Stranger VR | 138537 | [138537-the-stranger-vr.json](./138537-the-stranger-vr.json) |
 | The Strangers | 206646 | [206646-the-strangers.json](./206646-the-strangers.json) |
+| The Strangers | 393500 | [393500-the-strangers.json](./393500-the-strangers.json) |
 | The Strangers | 71053 | [71053-the-strangers.json](./71053-the-strangers.json) |
+| The Strangers 2 | 393502 | [393502-the-strangers-2.json](./393502-the-strangers-2.json) |
 | The Strangers 3 | 393504 | [393504-the-strangers-3.json](./393504-the-strangers-3.json) |
 | The Strangers 4 | 393505 | [393505-the-strangers-4.json](./393505-the-strangers-4.json) |
 | The Strawman Augment | 314464 | [314464-the-strawman-augment.json](./314464-the-strawman-augment.json) |
@@ -22710,6 +22716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Crusaders | 175122 | [175122-toxic-crusaders.json](./175122-toxic-crusaders.json) |
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
 | Toxic Grind | 6215 | [6215-toxic-grind.json](./6215-toxic-grind.json) |
+| Toxic Harvest | 393286 | [393286-toxic-harvest.json](./393286-toxic-harvest.json) |
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
 | Toxic Plumbing | 81972 | [81972-toxic-plumbing.json](./81972-toxic-plumbing.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
