@@ -3662,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insaniam | 190927 | [190927-insaniam.json](./190927-insaniam.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insanidade | 342218 | [342218-insanidade.json](./342218-insanidade.json) |
+| Insanio | 390375 | [390375-insanio.json](./390375-insanio.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insaniquarium! Deluxe | 8323 | [8323-insaniquarium-deluxe.json](./8323-insaniquarium-deluxe.json) |
 | Insanity | 206574 | [206574-insanity.json](./206574-insanity.json) |
