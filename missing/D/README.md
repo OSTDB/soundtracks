@@ -4132,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
 | Decker | 78254 | [78254-decker.json](./78254-decker.json) |
 | Deckfort Alchemist | 304312 | [304312-deckfort-alchemist.json](./304312-deckfort-alchemist.json) |
+| Deckgammon | 395946 | [395946-deckgammon.json](./395946-deckgammon.json) |
 | DeckLand | 388136 | [388136-deckland.json](./388136-deckland.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | Decklings | 350476 | [350476-decklings.json](./350476-decklings.json) |
@@ -11990,6 +11991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
 | Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
+| Dragon Ball Z Pong | 396069 | [396069-dragon-ball-z-pong.json](./396069-dragon-ball-z-pong.json) |
 | Dragon Ball Z Tournament | 141526 | [141526-dragon-ball-z-tournament.json](./141526-dragon-ball-z-tournament.json) |
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
 | Dragon Ball Z: Attack of the Saiyans | 21196 | [21196-dragon-ball-z-attack-of-the-saiyans.json](./21196-dragon-ball-z-attack-of-the-saiyans.json) |
