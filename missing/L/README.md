@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LCD Sports: American Football | 114162 | [114162-lcd-sports-american-football.json](./114162-lcd-sports-american-football.json) |
 | LDS Articles of Faith | 102738 | [102738-lds-articles-of-faith.json](./102738-lds-articles-of-faith.json) |
 | LDS Fun | 100939 | [100939-lds-fun.json](./100939-lds-fun.json) |
+| LDS Gun Dating | 400272 | [400272-lds-gun-dating.json](./400272-lds-gun-dating.json) |
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Barbare Qui Est Un Bourgeois | 97509 | [97509-le-barbare-qui-est-un-bourgeois.json](./97509-le-barbare-qui-est-un-bourgeois.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leslie | 411993 | [411993-leslie.json](./411993-leslie.json) |
 | Leslie & Brianne's Galactic Rampage | 353374 | [353374-leslie-and-briannes-galactic-rampage.json](./353374-leslie-and-briannes-galactic-rampage.json) |
 | LesLove.Club: Emily and Sarah | 155569 | [155569-leslove-club-emily-and-sarah.json](./155569-leslove-club-emily-and-sarah.json) |
+| Less Hope | 400183 | [400183-less-hope.json](./400183-less-hope.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
 | Lesson Learned | 196115 | [196115-lesson-learned.json](./196115-lesson-learned.json) |
@@ -4859,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Hawk | 36772 | [36772-little-hawk.json](./36772-little-hawk.json) |
 | Little Hearts | 166833 | [166833-little-hearts.json](./166833-little-hearts.json) |
 | Little Helper Cafe | 358353 | [358353-little-helper-cafe.json](./358353-little-helper-cafe.json) |
+| Little Helper Cafe: Sugar Cubes | 400167 | [400167-little-helper-cafe-sugar-cubes.json](./400167-little-helper-cafe-sugar-cubes.json) |
 | Little Helper of the House Kitchen | 255050 | [255050-little-helper-of-the-house-kitchen.json](./255050-little-helper-of-the-house-kitchen.json) |
 | Little Herbal Baker | 305963 | [305963-little-herbal-baker.json](./305963-little-herbal-baker.json) |
 | Little Hero | 194019 | [194019-little-hero.json](./194019-little-hero.json) |
