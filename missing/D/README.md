@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daley Thompson's Olympic Challenge | 12030 | [12030-daley-thompsons-olympic-challenge.json](./12030-daley-thompsons-olympic-challenge.json) |
 | Daley Thompson's Super-Test | 13565 | [13565-daley-thompsons-super-test.json](./13565-daley-thompsons-super-test.json) |
 | Dali | 409075 | [409075-dali.json](./409075-dali.json) |
+| Dalig the Ghost Killer | 415795 | [415795-dalig-the-ghost-killer.json](./415795-dalig-the-ghost-killer.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
 | Dalmatians 2 | 44846 | [44846-dalmatians-2.json](./44846-dalmatians-2.json) |
 | Dalmatians 3 | 43473 | [43473-dalmatians-3.json](./43473-dalmatians-3.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danzai Shitsu II | 358414 | [358414-danzai-shitsu-ii.json](./358414-danzai-shitsu-ii.json) |
 | Dànzhàrén 2222 | 81758 | [81758-danzharen-2222.json](./81758-danzharen-2222.json) |
 | Dāo Qūqū | 374621 | [374621-dao-ququ.json](./374621-dao-ququ.json) |
+| Dao Zhi Hua Yin | 415767 | [415767-dao-zhi-hua-yin.json](./415767-dao-zhi-hua-yin.json) |
 | Dào zhī Zhàn | 367570 | [367570-dao-zhi-zhan.json](./367570-dao-zhi-zhan.json) |
 | Daoker: A Banished Tiger | 101311 | [101311-daoker-a-banished-tiger.json](./101311-daoker-a-banished-tiger.json) |
 | Dap | 143326 | [143326-dap.json](./143326-dap.json) |
@@ -12538,6 +12540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonica Mama | 335716 | [335716-dragonica-mama.json](./335716-dragonica-mama.json) |
 | Dragonium Adventure | 226673 | [226673-dragonium-adventure.json](./226673-dragonium-adventure.json) |
 | DragonKill3D | 95911 | [95911-dragonkill3d.json](./95911-dragonkill3d.json) |
+| Dragonlance: Veil of the Last Sanctum | 415785 | [415785-dragonlance-veil-of-the-last-sanctum.json](./415785-dragonlance-veil-of-the-last-sanctum.json) |
 | DragonLoop | 344528 | [344528-dragonloop.json](./344528-dragonloop.json) |
 | DragonMirrored with Hyoga & Magma | 305769 | [305769-dragonmirrored-with-hyoga-and-magma.json](./305769-dragonmirrored-with-hyoga-and-magma.json) |
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
