@@ -4128,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak | 302484 | [302484-outbreak.json](./302484-outbreak.json) |
 | Outbreak | 377163 | [377163-outbreak.json](./377163-outbreak.json) |
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
+| Outbreak Bundle | 83761 | [83761-outbreak-bundle.json](./83761-outbreak-bundle.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
 | Outbreak in Space VR | 81956 | [81956-outbreak-in-space-vr.json](./81956-outbreak-in-space-vr.json) |
@@ -4393,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside | 339895 | [339895-outside.json](./339895-outside.json) |
 | Outside | 341526 | [341526-outside.json](./341526-outside.json) |
 | Outside | 385260 | [385260-outside.json](./385260-outside.json) |
+| Outside | 83664 | [83664-outside.json](./83664-outside.json) |
 | Outside Agent | 341291 | [341291-outside-agent.json](./341291-outside-agent.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outside Parties | 272473 | [272473-outside-parties.json](./272473-outside-parties.json) |
