@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babs' Potion Shop | 238449 | [238449-babs-potion-shop.json](./238449-babs-potion-shop.json) |
 | Babsi Bullet | 297335 | [297335-babsi-bullet.json](./297335-babsi-bullet.json) |
 | Babu Me Baby! | 412764 | [412764-babu-me-baby.json](./412764-babu-me-baby.json) |
+| Babulya | 386773 | [386773-babulya.json](./386773-babulya.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Babushka | 414754 | [414754-babushka.json](./414754-babushka.json) |
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
@@ -748,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
 | Bad Eggs Online 2 | 60360 | [60360-bad-eggs-online-2.json](./60360-bad-eggs-online-2.json) |
 | Bad Ethics | 252094 | [252094-bad-ethics.json](./252094-bad-ethics.json) |
+| Bad Eye Deer | 386772 | [386772-bad-eye-deer.json](./386772-bad-eye-deer.json) |
 | Bad Faith | 187714 | [187714-bad-faith.json](./187714-bad-faith.json) |
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
 | Bad Flesh | 301140 | [301140-bad-flesh.json](./301140-bad-flesh.json) |
@@ -3193,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Blades | 68330 | [68330-battle-of-blades.json](./68330-battle-of-blades.json) |
 | Battle of Brains | 129646 | [129646-battle-of-brains.json](./129646-battle-of-brains.json) |
 | Battle of Britain | 13383 | [13383-battle-of-britain.json](./13383-battle-of-britain.json) |
+| Battle of Britain | 386810 | [386810-battle-of-britain.json](./386810-battle-of-britain.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Britain, Norway and Atlantic | 226244 | [226244-battle-of-britain-norway-and-atlantic.json](./226244-battle-of-britain-norway-and-atlantic.json) |
 | Battle of Castles | 142760 | [142760-battle-of-castles.json](./142760-battle-of-castles.json) |
