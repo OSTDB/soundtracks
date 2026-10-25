@@ -2320,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual WarZone | 255850 | [255850-virtual-warzone.json](./255850-virtual-warzone.json) |
 | Virtual World Primus | 172105 | [172105-virtual-world-primus.json](./172105-virtual-world-primus.json) |
 | Virtual World: Digital Girl | 379544 | [379544-virtual-world-digital-girl.json](./379544-virtual-world-digital-girl.json) |
+| Virtual-O | 31266 | [31266-virtual-o.json](./31266-virtual-o.json) |
 | VirtualAbbey | 107131 | [107131-virtualabbey.json](./107131-virtualabbey.json) |
 | VirtualBus | 383790 | [383790-virtualbus.json](./383790-virtualbus.json) |
 | VirtualCast | 180212 | [180212-virtualcast.json](./180212-virtualcast.json) |
