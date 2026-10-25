@@ -3531,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire 1988: An Oregon Story | 192237 | [192237-hellfire-1988-an-oregon-story.json](./192237-hellfire-1988-an-oregon-story.json) |
 | Hellfire 2 | 274130 | [274130-hellfire-2.json](./274130-hellfire-2.json) |
 | Hellfire Attack | 71587 | [71587-hellfire-attack.json](./71587-hellfire-attack.json) |
+| Hellfire Factory | 398165 | [398165-hellfire-factory.json](./398165-hellfire-factory.json) |
 | Hellfire Fortress | 102902 | [102902-hellfire-fortress.json](./102902-hellfire-fortress.json) |
 | Hellfire Hair | 391301 | [391301-hellfire-hair.json](./391301-hellfire-hair.json) |
 | Hellfire Poncho | 283754 | [283754-hellfire-poncho.json](./283754-hellfire-poncho.json) |
@@ -4589,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herb Garden Tycoon | 237669 | [237669-herb-garden-tycoon.json](./237669-herb-garden-tycoon.json) |
 | Herb Seek Slash | 345688 | [345688-herb-seek-slash.json](./345688-herb-seek-slash.json) |
 | Herb Tea Man | 391724 | [391724-herb-tea-man.json](./391724-herb-tea-man.json) |
+| Herba Project: Desktop Lab | 398170 | [398170-herba-project-desktop-lab.json](./398170-herba-project-desktop-lab.json) |
 | Herbal Haven | 374797 | [374797-herbal-haven.json](./374797-herbal-haven.json) |
 | Herbal Hunter | 294057 | [294057-herbal-hunter.json](./294057-herbal-hunter.json) |
 | Herbal Remedies | 266203 | [266203-herbal-remedies.json](./266203-herbal-remedies.json) |
