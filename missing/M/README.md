@@ -3940,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Monster Hunter | 161320 | [161320-marvel-vs-capcom-infinite-monster-hunter.json](./161320-marvel-vs-capcom-infinite-monster-hunter.json) |
 | Marvel vs. Capcom: Infinite - Morrigan Night Warrior Costume | 386479 | [386479-marvel-vs-capcom-infinite-morrigan-night-warrior-costume.json](./386479-marvel-vs-capcom-infinite-morrigan-night-warrior-costume.json) |
 | Marvel vs. Capcom: Infinite - Nova Prime Costume | 386458 | [386458-marvel-vs-capcom-infinite-nova-prime-costume.json](./386458-marvel-vs-capcom-infinite-nova-prime-costume.json) |
+| Marvel vs. Capcom: Infinite - Ryu Wanderer Costume | 390455 | [390455-marvel-vs-capcom-infinite-ryu-wanderer-costume.json](./390455-marvel-vs-capcom-infinite-ryu-wanderer-costume.json) |
 | Marvel vs. Capcom: Infinite - Sigma | 161322 | [161322-marvel-vs-capcom-infinite-sigma.json](./161322-marvel-vs-capcom-infinite-sigma.json) |
 | Marvel vs. Capcom: Infinite - Strider Hien Costume | 386487 | [386487-marvel-vs-capcom-infinite-strider-hien-costume.json](./386487-marvel-vs-capcom-infinite-strider-hien-costume.json) |
 | Marvel vs. Capcom: Infinite - Superior Iron Man Costume | 386461 | [386461-marvel-vs-capcom-infinite-superior-iron-man-costume.json](./386461-marvel-vs-capcom-infinite-superior-iron-man-costume.json) |
