@@ -3384,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial Prospect | 178844 | [178844-initial-prospect.json](./178844-initial-prospect.json) |
 | Initial Unity | 342282 | [342282-initial-unity.json](./342282-initial-unity.json) |
 | Initiating Station Plus | 374225 | [374225-initiating-station-plus.json](./374225-initiating-station-plus.json) |
+| Initiation | 418189 | [418189-initiation.json](./418189-initiation.json) |
 | Initiation | 81027 | [81027-initiation.json](./81027-initiation.json) |
 | Initium | 112219 | [112219-initium.json](./112219-initium.json) |
 | Initium | 342793 | [342793-initium.json](./342793-initium.json) |
