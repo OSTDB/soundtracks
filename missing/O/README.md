@@ -448,6 +448,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
 | Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
+| Octonauts and the Giant Squid | 387410 | [387410-octonauts-and-the-giant-squid.json](./387410-octonauts-and-the-giant-squid.json) |
+| Octonauts Deep Sea Adventure | 387408 | [387408-octonauts-deep-sea-adventure.json](./387408-octonauts-deep-sea-adventure.json) |
 | Octopath Traveler + Octopath Traveler II Bundle | 304800 | [304800-octopath-traveler-octopath-traveler-ii-bundle.json](./304800-octopath-traveler-octopath-traveler-ii-bundle.json) |
 | Octopath Traveler II | 217554 | [217554-octopath-traveler-ii.json](./217554-octopath-traveler-ii.json) |
 | Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
@@ -457,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopinbs | 394319 | [394319-octopinbs.json](./394319-octopinbs.json) |
 | Octoplex | 83376 | [83376-octoplex.json](./83376-octoplex.json) |
 | Octopo | 306050 | [306050-octopo.json](./306050-octopo.json) |
+| Octoportals | 387424 | [387424-octoportals.json](./387424-octoportals.json) |
 | Octopus | 231722 | [231722-octopus.json](./231722-octopus.json) |
 | Octopus | 231723 | [231723-octopus.json](./231723-octopus.json) |
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
@@ -4595,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Speed Limit | 212960 | [212960-over-the-speed-limit.json](./212960-over-the-speed-limit.json) |
 | Over the Top: The World Arm Wrestling Championship | 94563 | [94563-over-the-top-the-world-arm-wrestling-championship.json](./94563-over-the-top-the-world-arm-wrestling-championship.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
+| Over the Tower | 387305 | [387305-over-the-tower.json](./387305-over-the-tower.json) |
 | Over Tooned | 311743 | [311743-over-tooned.json](./311743-over-tooned.json) |
 | Over-Run | 220618 | [220618-over-run.json](./220618-over-run.json) |
 | Over'n Over | 148690 | [148690-overn-over.json](./148690-overn-over.json) |
