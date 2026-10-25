@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcotics Ninja | 198554 | [198554-narcotics-ninja.json](./198554-narcotics-ninja.json) |
 | Narcotics Police: Black and White | 90625 | [90625-narcotics-police-black-and-white.json](./90625-narcotics-police-black-and-white.json) |
 | Narcotics Police: Crime And Punish | 254648 | [254648-narcotics-police-crime-and-punish.json](./254648-narcotics-police-crime-and-punish.json) |
+| Nareko The Mineral Appraiser | 403920 | [403920-nareko-the-mineral-appraiser.json](./403920-nareko-the-mineral-appraiser.json) |
 | Naribikimura | 311114 | [311114-naribikimura.json](./311114-naribikimura.json) |
 | Narinig Mo Ba? | 416098 | [416098-narinig-mo-ba.json](./416098-narinig-mo-ba.json) |
 | Narisokonai Eiyuuden: Taiyou to Tsuki no Monogatari | 67878 | [67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json](./67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nested | 274101 | [274101-nested.json](./274101-nested.json) |
 | Nested Lands | 270136 | [270136-nested-lands.json](./270136-nested-lands.json) |
 | Nested Rooms | 186812 | [186812-nested-rooms.json](./186812-nested-rooms.json) |
+| Nestify | 403936 | [403936-nestify.json](./403936-nestify.json) |
 | Nestor the Nesting Bird | 259548 | [259548-nestor-the-nesting-bird.json](./259548-nestor-the-nesting-bird.json) |
 | Net 24h: Vietnamese Internet Cafe Simulator | 391652 | [391652-net-24h-vietnamese-internet-cafe-simulator.json](./391652-net-24h-vietnamese-internet-cafe-simulator.json) |
 | Net Catcher: Netch | 218065 | [218065-net-catcher-netch.json](./218065-net-catcher-netch.json) |
@@ -4985,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No!Ah!'s Ark | 163795 | [163795-no-ah-s-ark.json](./163795-no-ah-s-ark.json) |
 | No. 10: Full Confidence | 414178 | [414178-no-10-full-confidence.json](./414178-no-10-full-confidence.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
+| No.13813 | 403923 | [403923-no-13813.json](./403923-no-13813.json) |
 | No.8 High School | 333506 | [333506-no-8-high-school.json](./333506-no-8-high-school.json) |
 | No.Break Brick | 244643 | [244643-no-break-brick.json](./244643-no-break-brick.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
