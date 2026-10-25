@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 319126 | [319126-labyrinth.json](./319126-labyrinth.json) |
 | Labyrinth | 320390 | [320390-labyrinth.json](./320390-labyrinth.json) |
 | Labyrinth | 379903 | [379903-labyrinth.json](./379903-labyrinth.json) |
+| Labyrinth | 386807 | [386807-labyrinth.json](./386807-labyrinth.json) |
 | Labyrinth | 78506 | [78506-labyrinth.json](./78506-labyrinth.json) |
 | Labyrinth 2 | 155663 | [155663-labyrinth-2.json](./155663-labyrinth-2.json) |
 | Labyrinth 2 | 96302 | [96302-labyrinth-2.json](./96302-labyrinth-2.json) |
@@ -3371,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level 22 | 249634 | [249634-level-22.json](./249634-level-22.json) |
 | Level 22: Gary's Misadventures | 33844 | [33844-level-22-garys-misadventures.json](./33844-level-22-garys-misadventures.json) |
 | Level 24 | 175232 | [175232-level-24.json](./175232-level-24.json) |
+| Level 37: The Ritewood Anomaly | 386812 | [386812-level-37-the-ritewood-anomaly.json](./386812-level-37-the-ritewood-anomaly.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
 | Level Age ni Sugoku Choudo Ii Shima | 306233 | [306233-level-age-ni-sugoku-choudo-ii-shima.json](./306233-level-age-ni-sugoku-choudo-ii-shima.json) |
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
@@ -8032,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna | 197624 | [197624-luna.json](./197624-luna.json) |
 | Luna | 43166 | [43166-luna.json](./43166-luna.json) |
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
+| Luna & Canela: The Secret Crystal Garden | 386781 | [386781-luna-and-canela-the-secret-crystal-garden.json](./386781-luna-and-canela-the-secret-crystal-garden.json) |
 | Luna & Monsters TD: The Deprived Magical Kingdom | 224952 | [224952-luna-and-monsters-td-the-deprived-magical-kingdom.json](./224952-luna-and-monsters-td-the-deprived-magical-kingdom.json) |
 | Luna & Sol: Nightmare Ward | 368819 | [368819-luna-and-sol-nightmare-ward.json](./368819-luna-and-sol-nightmare-ward.json) |
 | Luna and the Crystal of Light | 342426 | [342426-luna-and-the-crystal-of-light.json](./342426-luna-and-the-crystal-of-light.json) |
