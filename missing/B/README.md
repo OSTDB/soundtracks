@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Pirates | 23607 | [23607-battle-pirates.json](./23607-battle-pirates.json) |
 | Battle Pixel | 360044 | [360044-battle-pixel.json](./360044-battle-pixel.json) |
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
+| Battle Plan | 393921 | [393921-battle-plan.json](./393921-battle-plan.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Planet | 15663 | [15663-battle-planet.json](./15663-battle-planet.json) |
 | Battle Planet: Judgement Day | 119242 | [119242-battle-planet-judgement-day.json](./119242-battle-planet-judgement-day.json) |
@@ -9086,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Moon Reckoning | 385976 | [385976-blood-moon-reckoning.json](./385976-blood-moon-reckoning.json) |
 | Blood Moon: The Last Stand | 90815 | [90815-blood-moon-the-last-stand.json](./90815-blood-moon-the-last-stand.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
+| Blood Night | 394066 | [394066-blood-night.json](./394066-blood-night.json) |
 | Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
 | Blood Oath | 350061 | [350061-blood-oath.json](./350061-blood-oath.json) |
 | Blood Oath | 64716 | [64716-blood-oath.json](./64716-blood-oath.json) |
@@ -14126,7 +14128,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
 | Bulldozer Tycoon: Construction Simulator | 278329 | [278329-bulldozer-tycoon-construction-simulator.json](./278329-bulldozer-tycoon-construction-simulator.json) |
 | Bulle | 178590 | [178590-bulle.json](./178590-bulle.json) |
+| Bullet | 393922 | [393922-bullet.json](./393922-bullet.json) |
 | Bullet | 84189 | [84189-bullet.json](./84189-bullet.json) |
+| Bullet 2 | 393923 | [393923-bullet-2.json](./393923-bullet-2.json) |
 | Bullet Angel | 143101 | [143101-bullet-angel.json](./143101-bullet-angel.json) |
 | Bullet Art | 156680 | [156680-bullet-art.json](./156680-bullet-art.json) |
 | Bullet Audyssey | 320253 | [320253-bullet-audyssey.json](./320253-bullet-audyssey.json) |
