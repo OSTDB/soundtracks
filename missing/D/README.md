@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwin 4078 | 40047 | [40047-darwin-4078.json](./40047-darwin-4078.json) |
 | Darwin 4081 | 46187 | [46187-darwin-4081.json](./46187-darwin-4081.json) |
 | Darwin Project | 27741 | [27741-darwin-project.json](./27741-darwin-project.json) |
+| Darwin's bots | 29080 | [29080-darwins-bots.json](./29080-darwins-bots.json) |
 | Darwin's Demons | 30105 | [30105-darwins-demons.json](./30105-darwins-demons.json) |
 | Darwin's Dilemma | 299827 | [299827-darwins-dilemma.json](./299827-darwins-dilemma.json) |
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream: Legend of the Eschelons | 191002 | [191002-daydream-legend-of-the-eschelons.json](./191002-daydream-legend-of-the-eschelons.json) |
 | Daydream: Prologue | 246906 | [246906-daydream-prologue.json](./246906-daydream-prologue.json) |
 | Daydream: When Butterflies Dance | 201240 | [201240-daydream-when-butterflies-dance.json](./201240-daydream-when-butterflies-dance.json) |
+| Daydreamer | 20750 | [20750-daydreamer.json](./20750-daydreamer.json) |
 | Daydreamer | 295789 | [295789-daydreamer.json](./295789-daydreamer.json) |
 | Daydreamer 2 | 192369 | [192369-daydreamer-2.json](./192369-daydreamer-2.json) |
 | Daydreamer: Awakened Edition | 20751 | [20751-daydreamer-awakened-edition.json](./20751-daydreamer-awakened-edition.json) |
@@ -2803,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead Daylight | 330916 | [330916-dead-daylight.json](./330916-dead-daylight.json) |
 | Dead Days | 221787 | [221787-dead-days.json](./221787-dead-days.json) |
+| Dead Days | 29061 | [29061-dead-days.json](./29061-dead-days.json) |
 | Dead Detective vs Nine Deaths Cat | 95953 | [95953-dead-detective-vs-nine-deaths-cat.json](./95953-dead-detective-vs-nine-deaths-cat.json) |
 | Dead Dimension | 229535 | [229535-dead-dimension.json](./229535-dead-dimension.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
@@ -5834,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Storm Command Deluxe | 79539 | [79539-desert-storm-command-deluxe.json](./79539-desert-storm-command-deluxe.json) |
 | Desert Storm War FPS | 395768 | [395768-desert-storm-war-fps.json](./395768-desert-storm-war-fps.json) |
 | Desert Storm with Coalition Command | 122274 | [122274-desert-storm-with-coalition-command.json](./122274-desert-storm-with-coalition-command.json) |
+| Desert Strike: Return to the Gulf | 19852 | [19852-desert-strike-return-to-the-gulf.json](./19852-desert-strike-return-to-the-gulf.json) |
 | Desert Strike: Return to the Gulf | 228494 | [228494-desert-strike-return-to-the-gulf.json](./228494-desert-strike-return-to-the-gulf.json) |
 | Desert Strike: Return to the Gulf | 6798 | [6798-desert-strike-return-to-the-gulf.json](./6798-desert-strike-return-to-the-gulf.json) |
 | Desert Strike: Return to the Gulf | 81959 | [81959-desert-strike-return-to-the-gulf.json](./81959-desert-strike-return-to-the-gulf.json) |
@@ -6460,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dev_me | 111945 | [111945-dev-me.json](./111945-dev-me.json) |
 | Deva | 403684 | [403684-deva.json](./403684-deva.json) |
 | Deva: The Haunted Game | 148513 | [148513-deva-the-haunted-game.json](./148513-deva-the-haunted-game.json) |
+| Devade | 29000 | [29000-devade.json](./29000-devade.json) |
 | Devader | 68765 | [68765-devader.json](./68765-devader.json) |
 | Devast.io | 148303 | [148303-devast-io.json](./148303-devast-io.json) |
 | Devastated | 129211 | [129211-devastated.json](./129211-devastated.json) |
@@ -13712,6 +13717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Dash | 343746 | [343746-drone-dash.json](./343746-drone-dash.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
+| Drone Fighters | 29049 | [29049-drone-fighters.json](./29049-drone-fighters.json) |
 | Drone Flight Simulator Online | 274379 | [274379-drone-flight-simulator-online.json](./274379-drone-flight-simulator-online.json) |
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
 | Drone Hero | 38750 | [38750-drone-hero.json](./38750-drone-hero.json) |
@@ -13882,6 +13888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
 | Drugz: 2D Drug Empire Simulator | 253398 | [253398-drugz-2d-drug-empire-simulator.json](./253398-drugz-2d-drug-empire-simulator.json) |
 | Druid | 13613 | [13613-druid.json](./13613-druid.json) |
+| Druid | 29038 | [29038-druid.json](./29038-druid.json) |
 | Druid | 305921 | [305921-druid.json](./305921-druid.json) |
 | Druid and His Circle of Animals | 176157 | [176157-druid-and-his-circle-of-animals.json](./176157-druid-and-his-circle-of-animals.json) |
 | Druid Soccer | 94598 | [94598-druid-soccer.json](./94598-druid-soccer.json) |
