@@ -3934,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pest Protocol | 408580 | [408580-pest-protocol.json](./408580-pest-protocol.json) |
 | Pest Quest | 178855 | [178855-pest-quest.json](./178855-pest-quest.json) |
+| Pest'Off | 396672 | [396672-pestoff.json](./396672-pestoff.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
 | Pester | 35632 | [35632-pester.json](./35632-pester.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
@@ -5215,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
 | Pierre le Chef is... Out to Lunch | 42476 | [42476-pierre-le-chef-is-out-to-lunch.json](./42476-pierre-le-chef-is-out-to-lunch.json) |
 | Pierre's Adventures in French | 221784 | [221784-pierres-adventures-in-french.json](./221784-pierres-adventures-in-french.json) |
+| Pierrot | 396666 | [396666-pierrot.json](./396666-pierrot.json) |
 | Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
 | Pierrot’s Pilgrimage | 336097 | [336097-pierrot-s-pilgrimage.json](./336097-pierrot-s-pilgrimage.json) |
 | Pieter Both Village | 212643 | [212643-pieter-both-village.json](./212643-pieter-both-village.json) |
