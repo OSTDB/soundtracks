@@ -23205,14 +23205,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Tekken: Asuka (Swap Costume) | 388825 | [388825-street-fighter-x-tekken-asuka-swap-costume.json](./388825-street-fighter-x-tekken-asuka-swap-costume.json) |
 | Street Fighter X Tekken: Balrog (Swap Costume) | 388827 | [388827-street-fighter-x-tekken-balrog-swap-costume.json](./388827-street-fighter-x-tekken-balrog-swap-costume.json) |
 | Street Fighter X Tekken: Blanka (Swap Costume) | 388838 | [388838-street-fighter-x-tekken-blanka-swap-costume.json](./388838-street-fighter-x-tekken-blanka-swap-costume.json) |
+| Street Fighter X Tekken: Cammy (Swap Costume) | 388545 | [388545-street-fighter-x-tekken-cammy-swap-costume.json](./388545-street-fighter-x-tekken-cammy-swap-costume.json) |
 | Street Fighter X Tekken: Chun-Li (Swap Costume) | 388832 | [388832-street-fighter-x-tekken-chun-li-swap-costume.json](./388832-street-fighter-x-tekken-chun-li-swap-costume.json) |
+| Street Fighter X Tekken: Dhalsim (Swap Costume) | 388524 | [388524-street-fighter-x-tekken-dhalsim-swap-costume.json](./388524-street-fighter-x-tekken-dhalsim-swap-costume.json) |
+| Street Fighter X Tekken: Guile (Swap Costume) | 388546 | [388546-street-fighter-x-tekken-guile-swap-costume.json](./388546-street-fighter-x-tekken-guile-swap-costume.json) |
 | Street Fighter X Tekken: Hugo (Swap Costume) | 388819 | [388819-street-fighter-x-tekken-hugo-swap-costume.json](./388819-street-fighter-x-tekken-hugo-swap-costume.json) |
+| Street Fighter X Tekken: Ibuki (Swap Costume) | 388522 | [388522-street-fighter-x-tekken-ibuki-swap-costume.json](./388522-street-fighter-x-tekken-ibuki-swap-costume.json) |
 | Street Fighter X Tekken: Jin (Swap Costume) | 388835 | [388835-street-fighter-x-tekken-jin-swap-costume.json](./388835-street-fighter-x-tekken-jin-swap-costume.json) |
+| Street Fighter X Tekken: Julia (Swap Costume) | 388525 | [388525-street-fighter-x-tekken-julia-swap-costume.json](./388525-street-fighter-x-tekken-julia-swap-costume.json) |
 | Street Fighter X Tekken: Juri (Swap Costume) | 388826 | [388826-street-fighter-x-tekken-juri-swap-costume.json](./388826-street-fighter-x-tekken-juri-swap-costume.json) |
+| Street Fighter X Tekken: Kazuya (Swap Costume) | 388544 | [388544-street-fighter-x-tekken-kazuya-swap-costume.json](./388544-street-fighter-x-tekken-kazuya-swap-costume.json) |
 | Street Fighter X Tekken: Ken (Swap Costume) | 388833 | [388833-street-fighter-x-tekken-ken-swap-costume.json](./388833-street-fighter-x-tekken-ken-swap-costume.json) |
+| Street Fighter X Tekken: Kuma (Swap Costume) | 388549 | [388549-street-fighter-x-tekken-kuma-swap-costume.json](./388549-street-fighter-x-tekken-kuma-swap-costume.json) |
 | Street Fighter X Tekken: Law (Swap Costume) | 388828 | [388828-street-fighter-x-tekken-law-swap-costume.json](./388828-street-fighter-x-tekken-law-swap-costume.json) |
 | Street Fighter X Tekken: Lili (Swap Costume) | 388822 | [388822-street-fighter-x-tekken-lili-swap-costume.json](./388822-street-fighter-x-tekken-lili-swap-costume.json) |
+| Street Fighter X Tekken: Marduk (Swap Costume) | 388548 | [388548-street-fighter-x-tekken-marduk-swap-costume.json](./388548-street-fighter-x-tekken-marduk-swap-costume.json) |
 | Street Fighter X Tekken: Nina (Swap Costume) | 388816 | [388816-street-fighter-x-tekken-nina-swap-costume.json](./388816-street-fighter-x-tekken-nina-swap-costume.json) |
+| Street Fighter X Tekken: Ogre (Swap Costume) | 388526 | [388526-street-fighter-x-tekken-ogre-swap-costume.json](./388526-street-fighter-x-tekken-ogre-swap-costume.json) |
 | Street Fighter X Tekken: Paul (Swap Costume) | 388815 | [388815-street-fighter-x-tekken-paul-swap-costume.json](./388815-street-fighter-x-tekken-paul-swap-costume.json) |
 | Street Fighter X Tekken: Poison (Swap Costume) | 388823 | [388823-street-fighter-x-tekken-poison-swap-costume.json](./388823-street-fighter-x-tekken-poison-swap-costume.json) |
 | Street Fighter X Tekken: Rolento (Swap Costume) | 388824 | [388824-street-fighter-x-tekken-rolento-swap-costume.json](./388824-street-fighter-x-tekken-rolento-swap-costume.json) |
@@ -23223,6 +23232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Tekken: Steve (Swap Costume) | 388820 | [388820-street-fighter-x-tekken-steve-swap-costume.json](./388820-street-fighter-x-tekken-steve-swap-costume.json) |
 | Street Fighter X Tekken: Tekken Booster Pack 3 | 388814 | [388814-street-fighter-x-tekken-tekken-booster-pack-3.json](./388814-street-fighter-x-tekken-tekken-booster-pack-3.json) |
 | Street Fighter X Tekken: Xiaoyu (Swap Costume) | 388821 | [388821-street-fighter-x-tekken-xiaoyu-swap-costume.json](./388821-street-fighter-x-tekken-xiaoyu-swap-costume.json) |
+| Street Fighter X Tekken: Yoshimitsu (Swap Costume) | 388547 | [388547-street-fighter-x-tekken-yoshimitsu-swap-costume.json](./388547-street-fighter-x-tekken-yoshimitsu-swap-costume.json) |
 | Street Fighter X Tekken: Zangief (Swap Costume) | 388829 | [388829-street-fighter-x-tekken-zangief-swap-costume.json](./388829-street-fighter-x-tekken-zangief-swap-costume.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter Zero 3 Upper | 22221 | [22221-street-fighter-zero-3-upper.json](./22221-street-fighter-zero-3-upper.json) |
@@ -24869,6 +24879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
 | Sunbirds | 89007 | [89007-sunbirds.json](./89007-sunbirds.json) |
+| SunBlockers | 388538 | [388538-sunblockers.json](./388538-sunblockers.json) |
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower | 90533 | [90533-suncore-chronicles-the-tower.json](./90533-suncore-chronicles-the-tower.json) |
@@ -29822,6 +29833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthwave Show Dawn | 403341 | [403341-synthwave-show-dawn.json](./403341-synthwave-show-dawn.json) |
 | Synthwave Tunnel | 333427 | [333427-synthwave-tunnel.json](./333427-synthwave-tunnel.json) |
 | Synzzball | 123499 | [123499-synzzball.json](./123499-synzzball.json) |
+| Syobon Action | 388561 | [388561-syobon-action.json](./388561-syobon-action.json) |
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
 | Syobon Action HD | 365135 | [365135-syobon-action-hd.json](./365135-syobon-action-hd.json) |
 | Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
