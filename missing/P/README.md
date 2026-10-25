@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pea Shootin' Pete | 70481 | [70481-pea-shootin-pete.json](./70481-pea-shootin-pete.json) |
 | Pea-Guy: Vengeance... or bust | 63081 | [63081-pea-guy-vengeance-or-bust.json](./63081-pea-guy-vengeance-or-bust.json) |
 | Peace Breaker | 270144 | [270144-peace-breaker.json](./270144-peace-breaker.json) |
+| Peace Dice | 390451 | [390451-peace-dice.json](./390451-peace-dice.json) |
 | Peace Duke | 93774 | [93774-peace-duke.json](./93774-peace-duke.json) |
 | Peace for Ukraine | 211684 | [211684-peace-for-ukraine.json](./211684-peace-for-ukraine.json) |
 | Peace Incarnate | 404987 | [404987-peace-incarnate.json](./404987-peace-incarnate.json) |
@@ -12025,6 +12026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker: Legend of Another World | 38182 | [38182-princess-maker-legend-of-another-world.json](./38182-princess-maker-legend-of-another-world.json) |
 | Princess Miner | 383149 | [383149-princess-miner.json](./383149-princess-miner.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
+| Princess Night | 390467 | [390467-princess-night.json](./390467-princess-night.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess Nom Nom | 261999 | [261999-princess-nom-nom.json](./261999-princess-nom-nom.json) |
 | Princess of Frozen Flowers | 380223 | [380223-princess-of-frozen-flowers.json](./380223-princess-of-frozen-flowers.json) |
