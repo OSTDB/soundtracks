@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh No! Ninjas! | 81707 | [81707-oh-no-ninjas.json](./81707-oh-no-ninjas.json) |
 | Oh No! UFO! | 386730 | [386730-oh-no-ufo.json](./386730-oh-no-ufo.json) |
 | Oh Noes!!1 | 91896 | [91896-oh-noes-1.json](./91896-oh-noes-1.json) |
+| Oh Puck! | 390471 | [390471-oh-puck.json](./390471-oh-puck.json) |
 | Oh Putt Off! | 181678 | [181678-oh-putt-off.json](./181678-oh-putt-off.json) |
 | Oh Sheep!: Baaaa | 212675 | [212675-oh-sheep-baaaa.json](./212675-oh-sheep-baaaa.json) |
 | Oh Ship Arena | 107756 | [107756-oh-ship-arena.json](./107756-oh-ship-arena.json) |
@@ -2545,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Sky Parkour: Island Up! | 349427 | [349427-only-sky-parkour-island-up.json](./349427-only-sky-parkour-island-up.json) |
 | Only Society: Arena | 188991 | [188991-only-society-arena.json](./188991-only-society-arena.json) |
 | Only Straight and Up! | 264027 | [264027-only-straight-and-up.json](./264027-only-straight-and-up.json) |
+| Only Tactics | 390442 | [390442-only-tactics.json](./390442-only-tactics.json) |
 | Only The Lost Shall See | 341508 | [341508-only-the-lost-shall-see.json](./341508-only-the-lost-shall-see.json) |
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
 | Only Trump: Up To Presidents! | 341509 | [341509-only-trump-up-to-presidents.json](./341509-only-trump-up-to-presidents.json) |
