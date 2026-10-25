@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of a Special Average Balloon | 19616 | [19616-journey-of-a-special-average-balloon.json](./19616-journey-of-a-special-average-balloon.json) |
 | Journey of a Sprite | 179403 | [179403-journey-of-a-sprite.json](./179403-journey-of-a-sprite.json) |
 | Journey of Carrying Light | 369575 | [369575-journey-of-carrying-light.json](./369575-journey-of-carrying-light.json) |
+| Journey of Destiny | 404520 | [404520-journey-of-destiny.json](./404520-journey-of-destiny.json) |
 | Journey of Greed | 116510 | [116510-journey-of-greed.json](./116510-journey-of-greed.json) |
 | Journey of Haha | 39008 | [39008-journey-of-haha.json](./39008-journey-of-haha.json) |
 | Journey of Harvest | 303599 | [303599-journey-of-harvest.json](./303599-journey-of-harvest.json) |
