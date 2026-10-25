@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Neighbors | 74922 | [74922-happy-neighbors.json](./74922-happy-neighbors.json) |
 | Happy New Hentai | 367059 | [367059-happy-new-hentai.json](./367059-happy-new-hentai.json) |
 | Happy New Song | 178959 | [178959-happy-new-song.json](./178959-happy-new-song.json) |
+| Happy New Year Clicker | 76490 | [76490-happy-new-year-clicker.json](./76490-happy-new-year-clicker.json) |
 | Happy New Year, Zeliria! | 148996 | [148996-happy-new-year-zeliria.json](./148996-happy-new-year-zeliria.json) |
 | Happy New Year, Zeliria!: Dragon! | 291055 | [291055-happy-new-year-zeliria-dragon.json](./291055-happy-new-year-zeliria-dragon.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
@@ -6910,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiyoshi Clinic | 341098 | [341098-hiyoshi-clinic.json](./341098-hiyoshi-clinic.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
+| HJ: Sacrifice | 76504 | [76504-hj-sacrifice.json](./76504-hj-sacrifice.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
 | HK Project | 57890 | [57890-hk-project.json](./57890-hk-project.json) |
 | HL: Minimal Edition | 177973 | [177973-hl-minimal-edition.json](./177973-hl-minimal-edition.json) |
