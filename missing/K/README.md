@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartMania | 247365 | [247365-kartmania.json](./247365-kartmania.json) |
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
 | Kartoffelpüree: Der Gemüse-Shooter | 100078 | [100078-kartoffelpuree-der-gemuse-shooter.json](./100078-kartoffelpuree-der-gemuse-shooter.json) |
+| Kartong | 38787 | [38787-kartong.json](./38787-kartong.json) |
 | Kartong - Death by Cardboard! | 77571 | [77571-kartong-death-by-cardboard.json](./77571-kartong-death-by-cardboard.json) |
 | Kartrider Rush | 186711 | [186711-kartrider-rush.json](./186711-kartrider-rush.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kimono Girls | 286449 | [286449-kimono-girls.json](./286449-kimono-girls.json) |
 | Kimulator : Fight for your destiny | 32569 | [32569-kimulator-fight-for-your-destiny.json](./32569-kimulator-fight-for-your-destiny.json) |
+| Kimulator 2: Brother of Time | 37435 | [37435-kimulator-2-brother-of-time.json](./37435-kimulator-2-brother-of-time.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
 | Kin | 98306 | [98306-kin.json](./98306-kin.json) |
 | Kin and Conquest | 400228 | [400228-kin-and-conquest.json](./400228-kin-and-conquest.json) |
@@ -4632,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraft & Slash | 176348 | [176348-kraft-and-slash.json](./176348-kraft-and-slash.json) |
 | Krafteers | 174863 | [174863-krafteers.json](./174863-krafteers.json) |
 | Krai Mira | 24708 | [24708-krai-mira.json](./24708-krai-mira.json) |
+| Krai Mira: Extended Cut | 34301 | [34301-krai-mira-extended-cut.json](./34301-krai-mira-extended-cut.json) |
 | Krai. Digital-Poetry Vol. 1 | 191452 | [191452-krai-digital-poetry-vol-1.json](./191452-krai-digital-poetry-vol-1.json) |
 | Kraino | 91143 | [91143-kraino.json](./91143-kraino.json) |
 | Kraino Origins | 211149 | [211149-kraino-origins.json](./211149-kraino-origins.json) |
