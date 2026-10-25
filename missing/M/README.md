@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machi: Above the Void | 253503 | [253503-machi-above-the-void.json](./253503-machi-above-the-void.json) |
 | Machi: Unmei no Kousaten | 279745 | [279745-machi-unmei-no-kousaten.json](./279745-machi-unmei-no-kousaten.json) |
 | Machi: Unmei no Kousaten - Tokubetsu-hen | 279746 | [279746-machi-unmei-no-kousaten-tokubetsu-hen.json](./279746-machi-unmei-no-kousaten-tokubetsu-hen.json) |
+| Machiavelli | 405148 | [405148-machiavelli.json](./405148-machiavelli.json) |
 | Machiavelli the Prince | 14463 | [14463-machiavelli-the-prince.json](./14463-machiavelli-the-prince.json) |
 | Machiavelli's Ascent | 68549 | [68549-machiavellis-ascent.json](./68549-machiavellis-ascent.json) |
 | Machick | 293342 | [293342-machick.json](./293342-machick.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Sports Gold Collection | 406799 | [406799-maximum-sports-gold-collection.json](./406799-maximum-sports-gold-collection.json) |
 | Maximum Sports Silver Collection | 406071 | [406071-maximum-sports-silver-collection.json](./406071-maximum-sports-silver-collection.json) |
 | Maximum Surge | 94175 | [94175-maximum-surge.json](./94175-maximum-surge.json) |
+| Maximum Thunderness | 405152 | [405152-maximum-thunderness.json](./405152-maximum-thunderness.json) |
 | Maximum Tough Guy | 252023 | [252023-maximum-tough-guy.json](./252023-maximum-tough-guy.json) |
 | Maximum Velocity | 219465 | [219465-maximum-velocity.json](./219465-maximum-velocity.json) |
 | Maximus | 333766 | [333766-maximus.json](./333766-maximus.json) |
@@ -12187,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
 | Moldbreaker: Rise of the Loaf | 325305 | [325305-moldbreaker-rise-of-the-loaf.json](./325305-moldbreaker-rise-of-the-loaf.json) |
 | Moldorian: Hikari to Yami no Sister | 45261 | [45261-moldorian-hikari-to-yami-no-sister.json](./45261-moldorian-hikari-to-yami-no-sister.json) |
+| Moldrise | 405165 | [405165-moldrise.json](./405165-moldrise.json) |
 | Moldwasher | 342738 | [342738-moldwasher.json](./342738-moldwasher.json) |
 | Moldy Tower | 271479 | [271479-moldy-tower.json](./271479-moldy-tower.json) |
 | Mole | 135058 | [135058-mole.json](./135058-mole.json) |
@@ -13114,6 +13117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
 | Monster Palace | 324745 | [324745-monster-palace.json](./324745-monster-palace.json) |
 | Monster Panic | 289379 | [289379-monster-panic.json](./289379-monster-panic.json) |
+| Monster Park Tycoon | 405167 | [405167-monster-park-tycoon.json](./405167-monster-park-tycoon.json) |
 | Monster Parlor | 375858 | [375858-monster-parlor.json](./375858-monster-parlor.json) |
 | Monster partner | 61619 | [61619-monster-partner.json](./61619-monster-partner.json) |
 | Monster Party | 48165 | [48165-monster-party.json](./48165-monster-party.json) |
@@ -16497,6 +16501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My City: Newborn Baby | 214328 | [214328-my-city-newborn-baby.json](./214328-my-city-newborn-baby.json) |
 | My Clinical Death | 414168 | [414168-my-clinical-death.json](./414168-my-clinical-death.json) |
 | My Clone Army: Me, Myself & I | 224010 | [224010-my-clone-army-me-myself-and-i.json](./224010-my-clone-army-me-myself-and-i.json) |
+| My College Life is Very Happy | 405168 | [405168-my-college-life-is-very-happy.json](./405168-my-college-life-is-very-happy.json) |
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
 | My Colony | 111097 | [111097-my-colony.json](./111097-my-colony.json) |
 | My Colony 2 | 200723 | [200723-my-colony-2.json](./200723-my-colony-2.json) |
