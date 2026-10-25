@@ -2960,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure with Firefly | 220545 | [220545-adventure-with-firefly.json](./220545-adventure-with-firefly.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
+| Adventure World | 32772 | [32772-adventure-world.json](./32772-adventure-world.json) |
 | Adventure XT | 84125 | [84125-adventure-xt.json](./84125-adventure-xt.json) |
 | Adventure: All in the Game | 58070 | [58070-adventure-all-in-the-game.json](./58070-adventure-all-in-the-game.json) |
 | Adventure: The Inside Job | 60796 | [60796-adventure-the-inside-job.json](./60796-adventure-the-inside-job.json) |
@@ -3001,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -8878,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Man | 313899 | [313899-ant-man.json](./313899-ant-man.json) |
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Nation | 21197 | [21197-ant-nation.json](./21197-ant-nation.json) |
+| Ant Queen | 32809 | [32809-ant-queen.json](./32809-ant-queen.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Ant Simulator | 18016 | [18016-ant-simulator.json](./18016-ant-simulator.json) |
 | Ant Simulator | 360700 | [360700-ant-simulator.json](./360700-ant-simulator.json) |
@@ -9187,6 +9190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aopii | 179018 | [179018-aopii.json](./179018-aopii.json) |
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
+| Aozora Meikyuu | 33908 | [33908-aozora-meikyuu.json](./33908-aozora-meikyuu.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
 | Aozora Under Girls! | 54933 | [54933-aozora-under-girls.json](./54933-aozora-under-girls.json) |
 | Apache | 245155 | [245155-apache.json](./245155-apache.json) |
