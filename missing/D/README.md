@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Bows | 285000 | [285000-dark-bows.json](./285000-dark-bows.json) |
 | Dark Boy Action Platformer | 179994 | [179994-dark-boy-action-platformer.json](./179994-dark-boy-action-platformer.json) |
 | Dark Break | 64887 | [64887-dark-break.json](./64887-dark-break.json) |
+| Dark Bros | 403343 | [403343-dark-bros.json](./403343-dark-bros.json) |
 | Dark Bunny | 258609 | [258609-dark-bunny.json](./258609-dark-bunny.json) |
 | Dark Burial | 118090 | [118090-dark-burial.json](./118090-dark-burial.json) |
 | Dark Burial: Enhanced Edition | 238617 | [238617-dark-burial-enhanced-edition.json](./238617-dark-burial-enhanced-edition.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
 | Deducto | 149353 | [149353-deducto.json](./149353-deducto.json) |
 | Deducto 2 | 227140 | [227140-deducto-2.json](./227140-deducto-2.json) |
+| Deductopia | 403322 | [403322-deductopia.json](./403322-deductopia.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
 | Dedz0ne | 256970 | [256970-dedz0ne.json](./256970-dedz0ne.json) |
 | Dee Dum | 134992 | [134992-dee-dum.json](./134992-dee-dum.json) |
@@ -7075,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DiceRogue | 400333 | [400333-dicerogue.json](./400333-dicerogue.json) |
 | Dices Toss: The Falling Eight Count | 232537 | [232537-dices-toss-the-falling-eight-count.json](./232537-dices-toss-the-falling-eight-count.json) |
 | Dicetiny: The Lord of the Dice | 17739 | [17739-dicetiny-the-lord-of-the-dice.json](./17739-dicetiny-the-lord-of-the-dice.json) |
+| Dicetris | 403370 | [403370-dicetris.json](./403370-dicetris.json) |
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
 | Dicewood | 340340 | [340340-dicewood.json](./340340-dicewood.json) |
@@ -8879,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dithered | 397910 | [397910-dithered.json](./397910-dithered.json) |
 | Dito G1 | 266880 | [266880-dito-g1.json](./266880-dito-g1.json) |
 | Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
+| Dittori | 403316 | [403316-dittori.json](./403316-dittori.json) |
 | Diva | 122282 | [122282-diva.json](./122282-diva.json) |
 | Diva Girls: Divas on Ice | 51035 | [51035-diva-girls-divas-on-ice.json](./51035-diva-girls-divas-on-ice.json) |
 | Diva Girls: Princess on Ice 2 | 69104 | [69104-diva-girls-princess-on-ice-2.json](./69104-diva-girls-princess-on-ice-2.json) |
