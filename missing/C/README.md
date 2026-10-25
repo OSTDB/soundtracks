@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Break Bomb | 102659 | [102659-candy-break-bomb.json](./102659-candy-break-bomb.json) |
 | Candy Chefs | 104775 | [104775-candy-chefs.json](./104775-candy-chefs.json) |
 | Candy choppers | 268636 | [268636-candy-choppers.json](./268636-candy-choppers.json) |
+| Candy Clicker | 420778 | [420778-candy-clicker.json](./420778-candy-clicker.json) |
 | Candy Country: Sweet Wonder | 338003 | [338003-candy-country-sweet-wonder.json](./338003-candy-country-sweet-wonder.json) |
 | Candy Coven | 177943 | [177943-candy-coven.json](./177943-candy-coven.json) |
 | Candy Creeps | 227814 | [227814-candy-creeps.json](./227814-candy-creeps.json) |
@@ -2747,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crashing the Beard | 278319 | [278319-castle-crashing-the-beard.json](./278319-castle-crashing-the-beard.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Creeps TD | 106963 | [106963-castle-creeps-td.json](./106963-castle-creeps-td.json) |
+| Castle Crew | 420799 | [420799-castle-crew.json](./420799-castle-crew.json) |
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Crush: Epic Strategy Game | 57221 | [57221-castle-crush-epic-strategy-game.json](./57221-castle-crush-epic-strategy-game.json) |
@@ -3648,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Academy | 141766 | [141766-cats-academy.json](./141766-cats-academy.json) |
 | Cats and Cows | 377933 | [377933-cats-and-cows.json](./377933-cats-and-cows.json) |
 | Cats and Food 4: New Year | 169775 | [169775-cats-and-food-4-new-year.json](./169775-cats-and-food-4-new-year.json) |
+| Cats and Hats | 420767 | [420767-cats-and-hats.json](./420767-cats-and-hats.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
 | Cats and Mice | 307260 | [307260-cats-and-mice.json](./307260-cats-and-mice.json) |
 | Cats and Seek: Dino Park | 284413 | [284413-cats-and-seek-dino-park.json](./284413-cats-and-seek-dino-park.json) |
@@ -4187,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell: Idle Factory Incremental | 248150 | [248150-cell-idle-factory-incremental.json](./248150-cell-idle-factory-incremental.json) |
 | Cellar | 188520 | [188520-cellar.json](./188520-cellar.json) |
 | Cellar | 33323 | [33323-cellar.json](./33323-cellar.json) |
+| Cellar Cleanup Simulator | 420756 | [420756-cellar-cleanup-simulator.json](./420756-cellar-cleanup-simulator.json) |
 | Cellar: Rags and Knife | 171025 | [171025-cellar-rags-and-knife.json](./171025-cellar-rags-and-knife.json) |
 | Cellbit Simulator | 142723 | [142723-cellbit-simulator.json](./142723-cellbit-simulator.json) |
 | CellBreach | 176378 | [176378-cellbreach.json](./176378-cellbreach.json) |
@@ -11057,6 +11061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Bubble Bobble | 415224 | [415224-console-archives-bubble-bobble.json](./415224-console-archives-bubble-bobble.json) |
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
+| Console Archives: Karate Champ | 420803 | [420803-console-archives-karate-champ.json](./420803-console-archives-karate-champ.json) |
 | Console Archives: Master of Monsters - Disciples of Gaia | 401691 | [401691-console-archives-master-of-monsters-disciples-of-gaia.json](./401691-console-archives-master-of-monsters-disciples-of-gaia.json) |
 | Console Archives: Ninja Gaiden III - The Ancient Ship of Doom | 399298 | [399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Console Archives: Ninja-Kid II | 395248 | [395248-console-archives-ninja-kid-ii.json](./395248-console-archives-ninja-kid-ii.json) |
@@ -11602,6 +11607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking: Pizzeria Edition | 362375 | [362375-cooking-pizzeria-edition.json](./362375-cooking-pizzeria-edition.json) |
 | Cooking: Viva la Pizza! | 362380 | [362380-cooking-viva-la-pizza.json](./362380-cooking-viva-la-pizza.json) |
 | Cooking! Recipes on the Road | 230712 | [230712-cooking-recipes-on-the-road.json](./230712-cooking-recipes-on-the-road.json) |
+| Cookingdom | 420771 | [420771-cookingdom.json](./420771-cookingdom.json) |
 | Cookingo | 403623 | [403623-cookingo.json](./403623-cookingo.json) |
 | Cooks Girls | 367835 | [367835-cooks-girls.json](./367835-cooks-girls.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
