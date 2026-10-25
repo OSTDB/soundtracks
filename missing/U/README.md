@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Goop Game | 181668 | [181668-untitled-goop-game.json](./181668-untitled-goop-game.json) |
 | Untitled Hand Game | 344968 | [344968-untitled-hand-game.json](./344968-untitled-hand-game.json) |
 | Untitled Hand Game: Titled Edition | 344969 | [344969-untitled-hand-game-titled-edition.json](./344969-untitled-hand-game-titled-edition.json) |
+| Untitled Hello Neighbor Game | 418235 | [418235-untitled-hello-neighbor-game.json](./418235-untitled-hello-neighbor-game.json) |
 | Untitled John Wick Game | 389438 | [389438-untitled-john-wick-game.json](./389438-untitled-john-wick-game.json) |
 | Untitled Kirby Game | 245009 | [245009-untitled-kirby-game.json](./245009-untitled-kirby-game.json) |
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
