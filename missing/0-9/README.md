@@ -1998,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Mini Golf | 77788 | [77788-3d-ultra-mini-golf.json](./77788-3d-ultra-mini-golf.json) |
 | 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures 2 | 52039 | [52039-3d-ultra-minigolf-adventures-2.json](./52039-3d-ultra-minigolf-adventures-2.json) |
+| 3D Ultra Minigolf Adventures Deluxe | 29113 | [29113-3d-ultra-minigolf-adventures-deluxe.json](./29113-3d-ultra-minigolf-adventures-deluxe.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
 | 3D Ultra Minigolf Adventures: Space | 137378 | [137378-3d-ultra-minigolf-adventures-space.json](./137378-3d-ultra-minigolf-adventures-space.json) |
 | 3D Ultra Minigolf Adventures: Wild West | 137503 | [137503-3d-ultra-minigolf-adventures-wild-west.json](./137503-3d-ultra-minigolf-adventures-wild-west.json) |
