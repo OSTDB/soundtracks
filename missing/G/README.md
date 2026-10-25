@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Sides | 324399 | [324399-g-sides.json](./324399-g-sides.json) |
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
+| G-Ball | 9238 | [9238-g-ball.json](./9238-g-ball.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
 | G-Darius HD | 159018 | [159018-g-darius-hd.json](./159018-g-darius-hd.json) |
 | G-Diffuser | 413108 | [413108-g-diffuser.json](./413108-g-diffuser.json) |
@@ -2560,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Blades Weaving Betwixt Brocade | 288670 | [288670-genshin-impact-blades-weaving-betwixt-brocade.json](./288670-genshin-impact-blades-weaving-betwixt-brocade.json) |
 | Genshin Impact: Flowers Resplendent on the Sun-Scorched Sojourn | 310514 | [310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json](./310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json) |
 | Genshin Impact: Homeward, He Who Caught the Wind | 389652 | [389652-genshin-impact-homeward-he-who-caught-the-wind.json](./389652-genshin-impact-homeward-he-who-caught-the-wind.json) |
+| Genshin Impact: Hour of Ruin | 425451 | [425451-genshin-impact-hour-of-ruin.json](./425451-genshin-impact-hour-of-ruin.json) |
 | Genshin Impact: Incandescent Ode of Resurrection | 326604 | [326604-genshin-impact-incandescent-ode-of-resurrection.json](./326604-genshin-impact-incandescent-ode-of-resurrection.json) |
 | Genshin Impact: Invitation of Windblume | 256969 | [256969-genshin-impact-invitation-of-windblume.json](./256969-genshin-impact-invitation-of-windblume.json) |
 | Genshin Impact: King Deshret and the Three Magi | 257451 | [257451-genshin-impact-king-deshret-and-the-three-magi.json](./257451-genshin-impact-king-deshret-and-the-three-magi.json) |
@@ -4229,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glover | 3348 | [3348-glover.json](./3348-glover.json) |
 | Glover 2 | 47749 | [47749-glover-2.json](./47749-glover-2.json) |
 | Glover: Collector's Edition | 207051 | [207051-glover-collectors-edition.json](./207051-glover-collectors-edition.json) |
+| GloveUp! | 425440 | [425440-gloveup.json](./425440-gloveup.json) |
 | Glow | 180567 | [180567-glow.json](./180567-glow.json) |
 | Glow | 32346 | [32346-glow.json](./32346-glow.json) |
 | Glow Air Hockey | 87548 | [87548-glow-air-hockey.json](./87548-glow-air-hockey.json) |
