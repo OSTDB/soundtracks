@@ -5909,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagship | 61563 | [61563-flagship.json](./61563-flagship.json) |
 | Flagships | 184876 | [184876-flagships.json](./184876-flagships.json) |
 | Flagsplosion | 38763 | [38763-flagsplosion.json](./38763-flagsplosion.json) |
+| Flagster | 29073 | [29073-flagster.json](./29073-flagster.json) |
 | Flail | 402415 | [402415-flail.json](./402415-flail.json) |
 | Flail Faster | 211823 | [211823-flail-faster.json](./211823-flail-faster.json) |
 | Flailing Limbs Bundle | 107266 | [107266-flailing-limbs-bundle.json](./107266-flailing-limbs-bundle.json) |
@@ -6990,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
 | Fly Me To The Moon | 369462 | [369462-fly-me-to-the-moon.json](./369462-fly-me-to-the-moon.json) |
 | Fly Me to the Stars | 241443 | [241443-fly-me-to-the-stars.json](./241443-fly-me-to-the-stars.json) |
+| Fly O'Clock | 20400 | [20400-fly-oclock.json](./20400-fly-oclock.json) |
 | Fly Or Die | 367058 | [367058-fly-or-die.json](./367058-fly-or-die.json) |
 | Fly Over! 100KM! Mountains! | 373677 | [373677-fly-over-100km-mountains.json](./373677-fly-over-100km-mountains.json) |
 | Fly Punch Boom: First Impact! | 132201 | [132201-fly-punch-boom-first-impact.json](./132201-fly-punch-boom-first-impact.json) |
