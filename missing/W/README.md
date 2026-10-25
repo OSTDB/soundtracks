@@ -4378,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
 | Wild Wild Westbound VR: Being Jude the Lawless | 373856 | [373856-wild-wild-westbound-vr-being-jude-the-lawless.json](./373856-wild-wild-westbound-vr-being-jude-the-lawless.json) |
 | Wild Willy West | 333056 | [333056-wild-willy-west.json](./333056-wild-willy-west.json) |
+| Wild Wind | 412595 | [412595-wild-wind.json](./412595-wild-wind.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
 | Wild Wolf Family Simulator 3D | 233043 | [233043-wild-wolf-family-simulator-3d.json](./233043-wild-wolf-family-simulator-3d.json) |
