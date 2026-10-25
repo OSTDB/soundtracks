@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecopunk | 369139 | [369139-ecopunk.json](./369139-ecopunk.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
 | EcoQuest: Explore, Discover, Protect! | 295814 | [295814-ecoquest-explore-discover-protect.json](./295814-ecoquest-explore-discover-protect.json) |
+| Ecos da Mata | 402126 | [402126-ecos-da-mata.json](./402126-ecos-da-mata.json) |
 | Ecosphere | 260535 | [260535-ecosphere.json](./260535-ecosphere.json) |
 | Ecotone | 19008 | [19008-ecotone.json](./19008-ecotone.json) |
 | Ecrazeus Castle | 389401 | [389401-ecrazeus-castle.json](./389401-ecrazeus-castle.json) |
