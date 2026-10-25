@@ -2168,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
 | Barely Alive | 387111 | [387111-barely-alive.json](./387111-barely-alive.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
+| Barely Intersex | 419616 | [419616-barely-intersex.json](./419616-barely-intersex.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Barf and Beer | 92615 | [92615-barf-and-beer.json](./92615-barf-and-beer.json) |
 | Barf Royale | 401510 | [401510-barf-royale.json](./401510-barf-royale.json) |
@@ -5737,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Beyond | 20303 | [20303-beyond-the-beyond.json](./20303-beyond-the-beyond.json) |
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
+| Beyond The Blight | 419636 | [419636-beyond-the-blight.json](./419636-beyond-the-blight.json) |
 | Beyond the Board | 195954 | [195954-beyond-the-board.json](./195954-beyond-the-board.json) |
 | Beyond The Board | 289383 | [289383-beyond-the-board.json](./289383-beyond-the-board.json) |
 | Beyond the Bow | 153789 | [153789-beyond-the-bow.json](./153789-beyond-the-bow.json) |
@@ -10497,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bones of Halloween | 221096 | [221096-bones-of-halloween.json](./221096-bones-of-halloween.json) |
 | Bones of the Earth | 362880 | [362880-bones-of-the-earth.json](./362880-bones-of-the-earth.json) |
+| Bones of the Error | 419633 | [419633-bones-of-the-error.json](./419633-bones-of-the-error.json) |
 | Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
 | Bones: The Game of the Haunted Mansion | 229105 | [229105-bones-the-game-of-the-haunted-mansion.json](./229105-bones-the-game-of-the-haunted-mansion.json) |
 | Bones: Wandering Soul | 347678 | [347678-bones-wandering-soul.json](./347678-bones-wandering-soul.json) |
@@ -14771,6 +14774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus World | 126333 | [126333-bus-world.json](./126333-bus-world.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
 | Buscando a Bigotes | 417981 | [417981-buscando-a-bigotes.json](./417981-buscando-a-bigotes.json) |
+| Bush 1022 | 419643 | [419643-bush-1022.json](./419643-bush-1022.json) |
 | Bush Buck | 14356 | [14356-bush-buck.json](./14356-bush-buck.json) |
 | Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
 | Bush Shoot-Out | 237477 | [237477-bush-shoot-out.json](./237477-bush-shoot-out.json) |
