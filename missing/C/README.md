@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
 | Canvas 2: Niji-iro no Sketch | 269410 | [269410-canvas-2-niji-iro-no-sketch.json](./269410-canvas-2-niji-iro-no-sketch.json) |
 | Canvas 3: Tanshoku no Pastel | 269411 | [269411-canvas-3-tanshoku-no-pastel.json](./269411-canvas-3-tanshoku-no-pastel.json) |
+| Canvas Attack! | 397295 | [397295-canvas-attack.json](./397295-canvas-attack.json) |
 | Canvas Colors: In the Moving City | 161156 | [161156-canvas-colors-in-the-moving-city.json](./161156-canvas-colors-in-the-moving-city.json) |
 | Canvas Croquis | 40074 | [40074-canvas-croquis.json](./40074-canvas-croquis.json) |
 | Canvas Intruder | 316142 | [316142-canvas-intruder.json](./316142-canvas-intruder.json) |
@@ -3118,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Beauty Salon | 93701 | [93701-cat-beauty-salon.json](./93701-cat-beauty-salon.json) |
 | Cat Billiards | 284793 | [284793-cat-billiards.json](./284793-cat-billiards.json) |
 | Cat Bird | 112137 | [112137-cat-bird.json](./112137-cat-bird.json) |
+| Cat Block: Sliding Puzzle | 397299 | [397299-cat-block-sliding-puzzle.json](./397299-cat-block-sliding-puzzle.json) |
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
 | Cat Break | 225587 | [225587-cat-break.json](./225587-cat-break.json) |
 | Cat Break Head to Head | 226315 | [226315-cat-break-head-to-head.json](./226315-cat-break-head-to-head.json) |
@@ -12552,6 +12554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Agents | 26372 | [26372-counter-agents.json](./26372-counter-agents.json) |
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
+| Counter Attack on Zombies | 397297 | [397297-counter-attack-on-zombies.json](./397297-counter-attack-on-zombies.json) |
 | Counter Bottle Shooter: Pro Aim Master Target Bottle Shoot 3D Game Strike Pistol | 231278 | [231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json](./231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json) |
 | Counter Call: Half Escape Shooter | 403737 | [403737-counter-call-half-escape-shooter.json](./403737-counter-call-half-escape-shooter.json) |
 | Counter Clash | 290852 | [290852-counter-clash.json](./290852-counter-clash.json) |
@@ -15858,6 +15861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept Saga | 6949 | [6949-culdcept-saga.json](./6949-culdcept-saga.json) |
 | Culina: Hands in the Kitchen | 35567 | [35567-culina-hands-in-the-kitchen.json](./35567-culina-hands-in-the-kitchen.json) |
 | Culinarium | 322168 | [322168-culinarium.json](./322168-culinarium.json) |
+| Culinary Construct | 397217 | [397217-culinary-construct.json](./397217-culinary-construct.json) |
 | Culinary Cooking Master Simulator | 300860 | [300860-culinary-cooking-master-simulator.json](./300860-culinary-cooking-master-simulator.json) |
 | Culinary Survivors | 264676 | [264676-culinary-survivors.json](./264676-culinary-survivors.json) |
 | Culino | 174221 | [174221-culino.json](./174221-culino.json) |
