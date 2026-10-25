@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill | 262596 | [262596-kill.json](./262596-kill.json) |
 | Kill | 31631 | [31631-kill.json](./31631-kill.json) |
 | Kill | 36446 | [36446-kill.json](./36446-kill.json) |
+| Kill -9 | 402117 | [402117-kill-9.json](./402117-kill-9.json) |
 | Kill 'Em All | 98754 | [98754-kill-em-all.json](./98754-kill-em-all.json) |
 | Kill a Million Rats | 265340 | [265340-kill-a-million-rats.json](./265340-kill-a-million-rats.json) |
 | Kill AI | 288812 | [288812-kill-ai.json](./288812-kill-ai.json) |
