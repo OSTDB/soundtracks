@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
 | Hacker.exe | 96503 | [96503-hacker-exe.json](./96503-hacker-exe.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
+| Hacker's Beat | 35560 | [35560-hackers-beat.json](./35560-hackers-beat.json) |
 | Hacker’s Journey | 411625 | [411625-hacker-s-journey.json](./411625-hacker-s-journey.json) |
 | HackeRPG | 280125 | [280125-hackerpg.json](./280125-hackerpg.json) |
 | Hackers | 80455 | [80455-hackers.json](./80455-hackers.json) |
@@ -8321,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Race Starter | 76958 | [76958-horse-race-starter.json](./76958-horse-race-starter.json) |
 | Horse Racing | 284951 | [284951-horse-racing.json](./284951-horse-racing.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
+| Horse Racing 2016 | 38770 | [38770-horse-racing-2016.json](./38770-horse-racing-2016.json) |
 | Horse Racing 3D 2015 | 88452 | [88452-horse-racing-3d-2015.json](./88452-horse-racing-3d-2015.json) |
 | Horse Racing Creating Derby | 341837 | [341837-horse-racing-creating-derby.json](./341837-horse-racing-creating-derby.json) |
 | Horse Racing Manager | 27539 | [27539-horse-racing-manager.json](./27539-horse-racing-manager.json) |
@@ -9177,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Your Package Gets Delivered | 363437 | [363437-how-your-package-gets-delivered.json](./363437-how-your-package-gets-delivered.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
 | Howard Dean for Iowa | 91812 | [91812-howard-dean-for-iowa.json](./91812-howard-dean-for-iowa.json) |
+| Howard Phillips Lovecar | 38781 | [38781-howard-phillips-lovecar.json](./38781-howard-phillips-lovecar.json) |
 | Howard the Duck: Adventure on Volcano Island | 28853 | [28853-howard-the-duck-adventure-on-volcano-island.json](./28853-howard-the-duck-adventure-on-volcano-island.json) |
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
 | Howdy! The Western Game | 100584 | [100584-howdy-the-western-game.json](./100584-howdy-the-western-game.json) |
