@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardsweeper | 129459 | [129459-cardsweeper.json](./129459-cardsweeper.json) |
 | Cardterrupters | 213564 | [213564-cardterrupters.json](./213564-cardterrupters.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
+| Cardtonia | 389373 | [389373-cardtonia.json](./389373-cardtonia.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
 | Cardwoven Empires | 337828 | [337828-cardwoven-empires.json](./337828-cardwoven-empires.json) |
@@ -6848,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
 | Chronicles of Zimoria | 309747 | [309747-chronicles-of-zimoria.json](./309747-chronicles-of-zimoria.json) |
 | Chronicles Puzzle: History Path | 406554 | [406554-chronicles-puzzle-history-path.json](./406554-chronicles-puzzle-history-path.json) |
+| Chronicles Reborn | 389377 | [389377-chronicles-reborn.json](./389377-chronicles-reborn.json) |
 | Chronicles: Medieval | 347635 | [347635-chronicles-medieval.json](./347635-chronicles-medieval.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
 | Chronicon Apocalyptica | 114302 | [114302-chronicon-apocalyptica.json](./114302-chronicon-apocalyptica.json) |
@@ -12855,6 +12857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowgirl Adventures | 212202 | [212202-cowgirl-adventures.json](./212202-cowgirl-adventures.json) |
 | Cowgirl Boots | 141808 | [141808-cowgirl-boots.json](./141808-cowgirl-boots.json) |
 | Cowgirl Maid Milk Cafe | 417392 | [417392-cowgirl-maid-milk-cafe.json](./417392-cowgirl-maid-milk-cafe.json) |
+| Cowgirl Sex Farm | 389756 | [389756-cowgirl-sex-farm.json](./389756-cowgirl-sex-farm.json) |
 | Cowgirl Trainer | 331299 | [331299-cowgirl-trainer.json](./331299-cowgirl-trainer.json) |
 | Cowgirl's Café | 311883 | [311883-cowgirls-cafe.json](./311883-cowgirls-cafe.json) |
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
@@ -13182,6 +13185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Defense Force | 299567 | [299567-crank-defense-force.json](./299567-crank-defense-force.json) |
 | Crank In | 131853 | [131853-crank-in.json](./131853-crank-in.json) |
 | Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
+| Crank It! | 389391 | [389391-crank-it.json](./389391-crank-it.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Snake Saga | 346916 | [346916-crank-snake-saga.json](./346916-crank-snake-saga.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
@@ -16864,6 +16868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetix | 69774 | [69774-cybernetix.json](./69774-cybernetix.json) |
 | Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
 | Cybernoid: The Fighting Machine | 12024 | [12024-cybernoid-the-fighting-machine.json](./12024-cybernoid-the-fighting-machine.json) |
+| Cybernoid: The Fighting Machine | 389383 | [389383-cybernoid-the-fighting-machine.json](./389383-cybernoid-the-fighting-machine.json) |
 | Cybernoir | 372239 | [372239-cybernoir.json](./372239-cybernoir.json) |
 | Cyberoque | 59255 | [59255-cyberoque.json](./59255-cyberoque.json) |
 | Cyberpedia | 364522 | [364522-cyberpedia.json](./364522-cyberpedia.json) |
