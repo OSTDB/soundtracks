@@ -4392,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cgencore | 115028 | [115028-cgencore.json](./115028-cgencore.json) |
 | CGI: The Game | 234075 | [234075-cgi-the-game.json](./234075-cgi-the-game.json) |
 | CH Retro Episode | 313158 | [313158-ch-retro-episode.json](./313158-ch-retro-episode.json) |
+| CH13: Rest Stop | 410704 | [410704-ch13-rest-stop.json](./410704-ch13-rest-stop.json) |
 | Ch1mpnotic | 141686 | [141686-ch1mpnotic.json](./141686-ch1mpnotic.json) |
 | Cha-no-Ma | 358483 | [358483-cha-no-ma.json](./358483-cha-no-ma.json) |
 | Chacal | 159563 | [159563-chacal.json](./159563-chacal.json) |
@@ -4955,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charly Diams | 39114 | [39114-charly-diams.json](./39114-charly-diams.json) |
 | Charly the Clown | 66339 | [66339-charly-the-clown.json](./66339-charly-the-clown.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
+| Charm & Clue | 410685 | [410685-charm-and-clue.json](./410685-charm-and-clue.json) |
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
 | Charm & Clue 2: Collector's Edition | 416782 | [416782-charm-and-clue-2-collectors-edition.json](./416782-charm-and-clue-2-collectors-edition.json) |
 | Charm & Clue: Collector's Edition | 417506 | [417506-charm-and-clue-collectors-edition.json](./417506-charm-and-clue-collectors-edition.json) |
