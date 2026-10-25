@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemuru Mayu | 141028 | [141028-nemuru-mayu.json](./141028-nemuru-mayu.json) |
 | Nend.io | 183231 | [183231-nend-io.json](./183231-nend-io.json) |
 | Nendoroid Generation | 44485 | [44485-nendoroid-generation.json](./44485-nendoroid-generation.json) |
+| Nene Interactive Suicide | 393304 | [393304-nene-interactive-suicide.json](./393304-nene-interactive-suicide.json) |
 | NeNeKoNeKo | 394761 | [394761-nenekoneko.json](./394761-nenekoneko.json) |
 | Nenneman: The Game | 217360 | [217360-nenneman-the-game.json](./217360-nenneman-the-game.json) |
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
