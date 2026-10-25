@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
 | Headcrab Invasion | 102008 | [102008-headcrab-invasion.json](./102008-headcrab-invasion.json) |
+| Header Goal VR: Being Axel Rix | 31177 | [31177-header-goal-vr-being-axel-rix.json](./31177-header-goal-vr-being-axel-rix.json) |
 | HeadHorse Legacy | 249908 | [249908-headhorse-legacy.json](./249908-headhorse-legacy.json) |
 | Headhunter | 4350 | [4350-headhunter.json](./4350-headhunter.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
@@ -7902,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoops Manager 2 | 175249 | [175249-hoops-manager-2.json](./175249-hoops-manager-2.json) |
 | Hoops Mania | 417382 | [417382-hoops-mania.json](./417382-hoops-mania.json) |
 | Hoops Puzzler | 187796 | [187796-hoops-puzzler.json](./187796-hoops-puzzler.json) |
+| Hoops VR | 32414 | [32414-hoops-vr.json](./32414-hoops-vr.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
 | Hoopworld | 21744 | [21744-hoopworld.json](./21744-hoopworld.json) |
@@ -8965,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Shadows | 285695 | [285695-house-of-shadows.json](./285695-house-of-shadows.json) |
 | House of Sin | 189967 | [189967-house-of-sin.json](./189967-house-of-sin.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
+| House of Snark 6-in-1 Bundle | 32436 | [32436-house-of-snark-6-in-1-bundle.json](./32436-house-of-snark-6-in-1-bundle.json) |
 | House of Specters | 213786 | [213786-house-of-specters.json](./213786-house-of-specters.json) |
 | House of Spikes | 271786 | [271786-house-of-spikes.json](./271786-house-of-spikes.json) |
 | House of Terror | 338328 | [338328-house-of-terror.json](./338328-house-of-terror.json) |
