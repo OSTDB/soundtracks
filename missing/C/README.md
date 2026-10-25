@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Planet | 198714 | [198714-captain-planet.json](./198714-captain-planet.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
 | Captain Planet and the Planeteers | 11991 | [11991-captain-planet-and-the-planeteers.json](./11991-captain-planet-and-the-planeteers.json) |
+| Captain Planet and the Robots of Zarm | 417539 | [417539-captain-planet-and-the-robots-of-zarm.json](./417539-captain-planet-and-the-robots-of-zarm.json) |
 | Captain Pogo | 399917 | [399917-captain-pogo.json](./399917-captain-pogo.json) |
 | Captain Power and the Soldiers of the Future | 84294 | [84294-captain-power-and-the-soldiers-of-the-future.json](./84294-captain-power-and-the-soldiers-of-the-future.json) |
 | Captain Prosper | 158122 | [158122-captain-prosper.json](./158122-captain-prosper.json) |
@@ -2486,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
 | CarX Drift Racing Online: Midnight | 160292 | [160292-carx-drift-racing-online-midnight.json](./160292-carx-drift-racing-online-midnight.json) |
 | CarX Rally | 174851 | [174851-carx-rally.json](./174851-carx-rally.json) |
+| CarX Rally | 417256 | [417256-carx-rally.json](./417256-carx-rally.json) |
 | CarX Street | 227960 | [227960-carx-street.json](./227960-carx-street.json) |
 | CarX Street: Sunset Speedway | 315228 | [315228-carx-street-sunset-speedway.json](./315228-carx-street-sunset-speedway.json) |
 | CaS-Puz: Camera Surface Puzzle | 261649 | [261649-cas-puz-camera-surface-puzzle.json](./261649-cas-puz-camera-surface-puzzle.json) |
@@ -3789,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caught in Nowhere | 160076 | [160076-caught-in-nowhere.json](./160076-caught-in-nowhere.json) |
 | Caught Lacking: Femboy Edition | 385247 | [385247-caught-lacking-femboy-edition.json](./385247-caught-lacking-femboy-edition.json) |
 | Caught On Camera | 284801 | [284801-caught-on-camera.json](./284801-caught-on-camera.json) |
+| Caught You Looking | 417271 | [417271-caught-you-looking.json](./417271-caught-you-looking.json) |
 | Cauldron | 284802 | [284802-cauldron.json](./284802-cauldron.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 360333 | [360333-cauldron-chaos.json](./360333-cauldron-chaos.json) |
@@ -5527,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | Chessplode | 233376 | [233376-chessplode.json](./233376-chessplode.json) |
+| Chessplosion | 417253 | [417253-chessplosion.json](./417253-chessplosion.json) |
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
 | ChessRogue | 93479 | [93479-chessrogue.json](./93479-chessrogue.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
@@ -11554,6 +11558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: Sushi Time! | 260040 | [260040-cooking-arena-sushi-time.json](./260040-cooking-arena-sushi-time.json) |
 | Cooking Arena: Sweet Bakery Tycoon | 260036 | [260036-cooking-arena-sweet-bakery-tycoon.json](./260036-cooking-arena-sweet-bakery-tycoon.json) |
 | Cooking Arena: Value Edition | 399814 | [399814-cooking-arena-value-edition.json](./399814-cooking-arena-value-edition.json) |
+| Cooking Bride to Primrose Lake | 417602 | [417602-cooking-bride-to-primrose-lake.json](./417602-cooking-bride-to-primrose-lake.json) |
 | Cooking by the Numbers | 364616 | [364616-cooking-by-the-numbers.json](./364616-cooking-by-the-numbers.json) |
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
 | Cooking Championship | 204325 | [204325-cooking-championship.json](./204325-cooking-championship.json) |
@@ -12902,6 +12907,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracked Up | 164961 | [164961-cracked-up.json](./164961-cracked-up.json) |
 | Crackers Revenge | 41151 | [41151-crackers-revenge.json](./41151-crackers-revenge.json) |
+| Crackers Revenge II | 417478 | [417478-crackers-revenge-ii.json](./417478-crackers-revenge-ii.json) |
+| Crackers Revenge IV | 417480 | [417480-crackers-revenge-iv.json](./417480-crackers-revenge-iv.json) |
 | Crackheads | 396342 | [396342-crackheads.json](./396342-crackheads.json) |
 | Crackin' Smackin | 251960 | [251960-crackin-smackin.json](./251960-crackin-smackin.json) |
 | Cracking Sands | 64481 | [64481-cracking-sands.json](./64481-cracking-sands.json) |
