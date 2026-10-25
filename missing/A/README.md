@@ -3047,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -11005,6 +11006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
 | Area 51: Site 4 | 39836 | [39836-area-51-site-4.json](./39836-area-51-site-4.json) |
 | Area 51/Maximum Force Duo | 39597 | [39597-area-51-maximum-force-duo.json](./39597-area-51-maximum-force-duo.json) |
+| Area 75 | 389177 | [389177-area-75.json](./389177-area-75.json) |
 | Area 88 ~Etranger 1995~ | 60923 | [60923-area-88-etranger-1995.json](./60923-area-88-etranger-1995.json) |
 | Area 88: Ikkakujuu no Kiseki | 60922 | [60922-area-88-ikkakujuu-no-kiseki.json](./60922-area-88-ikkakujuu-no-kiseki.json) |
 | Area Cooperation Economic Simulation: North Korea (ACES) | 114260 | [114260-area-cooperation-economic-simulation-north-korea-aces.json](./114260-area-cooperation-economic-simulation-north-korea-aces.json) |
@@ -11502,6 +11504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
 | Armed With Wings | 148494 | [148494-armed-with-wings.json](./148494-armed-with-wings.json) |
 | Armed With Wings 2 | 227333 | [227333-armed-with-wings-2.json](./227333-armed-with-wings-2.json) |
+| Armed With Wings 3 | 389193 | [389193-armed-with-wings-3.json](./389193-armed-with-wings-3.json) |
 | Armed With WIngs: Culmination | 379364 | [379364-armed-with-wings-culmination.json](./379364-armed-with-wings-culmination.json) |
 | Armed Zone | 203880 | [203880-armed-zone.json](./203880-armed-zone.json) |
 | Armello | 11260 | [11260-armello.json](./11260-armello.json) |
@@ -13686,6 +13689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athenian Rhapsody: Thunder Goober's Personality Dungeon | 239772 | [239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json](./239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json) |
 | Athenor | 15849 | [15849-athenor.json](./15849-athenor.json) |
 | Ather: Chapter 1 | 96649 | [96649-ather-chapter-1.json](./96649-ather-chapter-1.json) |
+| Atheris | 389167 | [389167-atheris.json](./389167-atheris.json) |
 | Athletic Ball | 41797 | [41797-athletic-ball.json](./41797-athletic-ball.json) |
 | Athletic Director Simulator 4000 | 381779 | [381779-athletic-director-simulator-4000.json](./381779-athletic-director-simulator-4000.json) |
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
