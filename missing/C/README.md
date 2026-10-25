@@ -8339,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Fall Human Guys | 149363 | [149363-climb-fall-human-guys.json](./149363-climb-fall-human-guys.json) |
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
+| Climb It Up | 419621 | [419621-climb-it-up.json](./419621-climb-it-up.json) |
 | Climb Jump | 175746 | [175746-climb-jump.json](./175746-climb-jump.json) |
 | Climb New York Parkour VR | 244640 | [244640-climb-new-york-parkour-vr.json](./244640-climb-new-york-parkour-vr.json) |
 | Climb out of Hell | 343322 | [343322-climb-out-of-hell.json](./343322-climb-out-of-hell.json) |
@@ -12908,6 +12909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracky | 275226 | [275226-cracky.json](./275226-cracky.json) |
 | Cracky Mini | 327354 | [327354-cracky-mini.json](./327354-cracky-mini.json) |
 | Cradle | 271719 | [271719-cradle.json](./271719-cradle.json) |
+| Cradle of Ash | 419628 | [419628-cradle-of-ash.json](./419628-cradle-of-ash.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
 | Cradle of Egypt: Collector's Edition | 355549 | [355549-cradle-of-egypt-collectors-edition.json](./355549-cradle-of-egypt-collectors-edition.json) |
 | Cradle of Empires | 88749 | [88749-cradle-of-empires.json](./88749-cradle-of-empires.json) |
@@ -16052,7 +16054,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House 13 | 289813 | [289813-cursed-house-13.json](./289813-cursed-house-13.json) |
 | Cursed House 14 | 337213 | [337213-cursed-house-14.json](./337213-cursed-house-14.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
+| Cursed House 6 | 419591 | [419591-cursed-house-6.json](./419591-cursed-house-6.json) |
 | Cursed House 7 | 337215 | [337215-cursed-house-7.json](./337215-cursed-house-7.json) |
+| Cursed House 8 | 419589 | [419589-cursed-house-8.json](./419589-cursed-house-8.json) |
 | Cursed House 9: Match 3 Puzzle | 163532 | [163532-cursed-house-9-match-3-puzzle.json](./163532-cursed-house-9-match-3-puzzle.json) |
 | Cursed House Escape | 315581 | [315581-cursed-house-escape.json](./315581-cursed-house-escape.json) |
 | Cursed House Match 3 Puzzle | 246855 | [246855-cursed-house-match-3-puzzle.json](./246855-cursed-house-match-3-puzzle.json) |
@@ -16921,6 +16925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
 | Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
 | Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
+| Cyverfunk | 419630 | [419630-cyverfunk.json](./419630-cyverfunk.json) |
 | Cyvern | 39835 | [39835-cyvern.json](./39835-cyvern.json) |
 | Cyvern: The Dragon Weapons | 65404 | [65404-cyvern-the-dragon-weapons.json](./65404-cyvern-the-dragon-weapons.json) |
 | CyVeRpunk | 212137 | [212137-cyverpunk.json](./212137-cyverpunk.json) |
