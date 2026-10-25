@@ -4544,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
 | Escape The Void | 302196 | [302196-escape-the-void.json](./302196-escape-the-void.json) |
+| Escape The Zoo | 424699 | [424699-escape-the-zoo.json](./424699-escape-the-zoo.json) |
 | Escape This | 32762 | [32762-escape-this.json](./32762-escape-this.json) |
 | Escape This Big Maze! | 165746 | [165746-escape-this-big-maze.json](./165746-escape-this-big-maze.json) |
 | Escape to Hell | 179517 | [179517-escape-to-hell.json](./179517-escape-to-hell.json) |
