@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathological | 74085 | [74085-pathological.json](./74085-pathological.json) |
 | Pathology | 270734 | [270734-pathology.json](./270734-pathology.json) |
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
+| Pathos | 75594 | [75594-pathos.json](./75594-pathos.json) |
 | Pathosis | 95265 | [95265-pathosis.json](./95265-pathosis.json) |
 | Pathotaxia: Pandora | 399211 | [399211-pathotaxia-pandora.json](./399211-pathotaxia-pandora.json) |
 | PathPix | 62462 | [62462-pathpix.json](./62462-pathpix.json) |
@@ -4358,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom II | 40404 | [40404-phantom-ii.json](./40404-phantom-ii.json) |
 | Phantom Integration | 242386 | [242386-phantom-integration.json](./242386-phantom-integration.json) |
 | Phantom Island | 215333 | [215333-phantom-island.json](./215333-phantom-island.json) |
+| Phantom Jump | 75585 | [75585-phantom-jump.json](./75585-phantom-jump.json) |
 | Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
 | Phantom Kingdom: Portable | 262445 | [262445-phantom-kingdom-portable.json](./262445-phantom-kingdom-portable.json) |
 | Phantom Kiosk | 345708 | [345708-phantom-kiosk.json](./345708-phantom-kiosk.json) |
@@ -7929,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play with Balloon | 29624 | [29624-play-with-balloon.json](./29624-play-with-balloon.json) |
 | Play with Birds | 84721 | [84721-play-with-birds.json](./84721-play-with-birds.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
+| Play With Gilbert: Remake | 75330 | [75330-play-with-gilbert-remake.json](./75330-play-with-gilbert-remake.json) |
 | Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
 | Play With Me | 182885 | [182885-play-with-me.json](./182885-play-with-me.json) |
 | Play With Me | 249068 | [249068-play-with-me.json](./249068-play-with-me.json) |
@@ -14104,6 +14107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up: Exceed Portable | 60087 | [60087-pump-it-up-exceed-portable.json](./60087-pump-it-up-exceed-portable.json) |
 | Pump Press | 277299 | [277299-pump-press.json](./277299-pump-press.json) |
 | Pump-Action Captain | 35053 | [35053-pump-action-captain.json](./35053-pump-action-captain.json) |
+| Pumped BMX 2 | 59751 | [59751-pumped-bmx-2.json](./59751-pumped-bmx-2.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumped BMX Pro | 114796 | [114796-pumped-bmx-pro.json](./114796-pumped-bmx-pro.json) |
 | Pumped BMX+ | 20955 | [20955-pumped-bmx.json](./20955-pumped-bmx.json) |
