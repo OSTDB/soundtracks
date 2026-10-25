@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | F Class Adventurer | 231955 | [231955-f-class-adventurer.json](./231955-f-class-adventurer.json) |
 | F Fanatic | 402468 | [402468-f-fanatic.json](./402468-f-fanatic.json) |
+| F of X | 423208 | [423208-f-of-x.json](./423208-f-of-x.json) |
 | F-1 | 398651 | [398651-f-1.json](./398651-f-1.json) |
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
 | F-1 Dream | 39482 | [39482-f-1-dream.json](./39482-f-1-dream.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tennis 2 | 166465 | [166465-fantasy-tennis-2.json](./166465-fantasy-tennis-2.json) |
 | Fantasy Three Kingdoms and Eight Formations | 273760 | [273760-fantasy-three-kingdoms-and-eight-formations.json](./273760-fantasy-three-kingdoms-and-eight-formations.json) |
 | Fantasy Three Kingdoms: War | 304165 | [304165-fantasy-three-kingdoms-war.json](./304165-fantasy-three-kingdoms-war.json) |
+| Fantasy to Kill | 423305 | [423305-fantasy-to-kill.json](./423305-fantasy-to-kill.json) |
 | Fantasy Toonz: Embers of Creation | 167356 | [167356-fantasy-toonz-embers-of-creation.json](./167356-fantasy-toonz-embers-of-creation.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
@@ -2901,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
 | Fear Half Factor | 88079 | [88079-fear-half-factor.json](./88079-fear-half-factor.json) |
+| Fear Hour | 423309 | [423309-fear-hour.json](./423309-fear-hour.json) |
 | Fear in Hospital | 120067 | [120067-fear-in-hospital.json](./120067-fear-in-hospital.json) |
 | Fear in the Facts Farms | 332791 | [332791-fear-in-the-facts-farms.json](./332791-fear-in-the-facts-farms.json) |
 | Fear in the Modern House: Ch.2 | 148670 | [148670-fear-in-the-modern-house-ch-2.json](./148670-fear-in-the-modern-house-ch-2.json) |
@@ -9528,6 +9531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freezai's Mountain | 345358 | [345358-freezais-mountain.json](./345358-freezais-mountain.json) |
 | Freeze | 25884 | [25884-freeze.json](./25884-freeze.json) |
 | Freeze Climbing | 28596 | [28596-freeze-climbing.json](./28596-freeze-climbing.json) |
+| Freeze Line | 423266 | [423266-freeze-line.json](./423266-freeze-line.json) |
 | Freeze the Core | 187292 | [187292-freeze-the-core.json](./187292-freeze-the-core.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
@@ -9584,6 +9588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Force Frustrations: A Gay Superhero Erotic Visual Novel | 258831 | [258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json](./258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json) |
 | Fresh Hops | 333232 | [333232-fresh-hops.json](./333232-fresh-hops.json) |
 | Fresh Hops 2 | 375559 | [375559-fresh-hops-2.json](./375559-fresh-hops-2.json) |
+| Fresh Market Simulator | 423218 | [423218-fresh-market-simulator.json](./423218-fresh-market-simulator.json) |
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
 | Fresh Squeezed Lemonade | 393992 | [393992-fresh-squeezed-lemonade.json](./393992-fresh-squeezed-lemonade.json) |
@@ -10319,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostrain | 283575 | [283575-frostrain.json](./283575-frostrain.json) |
 | FrostRunner | 113391 | [113391-frostrunner.json](./113391-frostrunner.json) |
 | Frostveil: The Last Winter | 389580 | [389580-frostveil-the-last-winter.json](./389580-frostveil-the-last-winter.json) |
+| Frostwake: The Last Ember | 423225 | [423225-frostwake-the-last-ember.json](./423225-frostwake-the-last-ember.json) |
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
 | Frosty Jump | 147148 | [147148-frosty-jump.json](./147148-frosty-jump.json) |
 | Frosty Jumper | 152825 | [152825-frosty-jumper.json](./152825-frosty-jumper.json) |
