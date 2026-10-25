@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarah: Story of a Young Thief | 302967 | [302967-sarah-story-of-a-young-thief.json](./302967-sarah-story-of-a-young-thief.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sarah's Great Adventure | 371898 | [371898-sarahs-great-adventure.json](./371898-sarahs-great-adventure.json) |
+| Sarah's House | 410654 | [410654-sarahs-house.json](./410654-sarahs-house.json) |
 | Sarakon | 92961 | [92961-sarakon.json](./92961-sarakon.json) |
 | Saraman Union | 274924 | [274924-saraman-union.json](./274924-saraman-union.json) |
 | Saranity | 148792 | [148792-saranity.json](./148792-saranity.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | Schoolboy Escape 2: Village | 345251 | [345251-schoolboy-escape-2-village.json](./345251-schoolboy-escape-2-village.json) |
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
+| SchoolBoy OutDoors | 410669 | [410669-schoolboy-outdoors.json](./410669-schoolboy-outdoors.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
 | Schoolbreak.io | 148266 | [148266-schoolbreak-io.json](./148266-schoolbreak-io.json) |
 | SchoolGirl AI 3D Anime Sandbox | 296761 | [296761-schoolgirl-ai-3d-anime-sandbox.json](./296761-schoolgirl-ai-3d-anime-sandbox.json) |
@@ -13803,6 +13805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere in a Clay Nowhere | 182371 | [182371-somewhere-in-a-clay-nowhere.json](./182371-somewhere-in-a-clay-nowhere.json) |
 | Somewhere in between | 235644 | [235644-somewhere-in-between.json](./235644-somewhere-in-between.json) |
 | Somewhere in Hell | 311364 | [311364-somewhere-in-hell.json](./311364-somewhere-in-hell.json) |
+| Somewhere in İstanbul | 410644 | [410644-somewhere-in-istanbul.json](./410644-somewhere-in-istanbul.json) |
 | Somewhere in Space... | 178644 | [178644-somewhere-in-space.json](./178644-somewhere-in-space.json) |
 | Somewhere in Time and Space | 347720 | [347720-somewhere-in-time-and-space.json](./347720-somewhere-in-time-and-space.json) |
 | Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
@@ -18186,6 +18189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splice | 11640 | [11640-splice.json](./11640-splice.json) |
 | Splice: Tree of Life | 91102 | [91102-splice-tree-of-life.json](./91102-splice-tree-of-life.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
+| Splimbo City | 410645 | [410645-splimbo-city.json](./410645-splimbo-city.json) |
 | Spline Rider | 391824 | [391824-spline-rider.json](./391824-spline-rider.json) |
 | Spline: Part One | 392898 | [392898-spline-part-one.json](./392898-spline-part-one.json) |
 | Splink | 380646 | [380646-splink.json](./380646-splink.json) |
@@ -24757,6 +24761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
 | Sunlit | 229593 | [229593-sunlit.json](./229593-sunlit.json) |
+| Sunlit Trail: Complete Edition | 410674 | [410674-sunlit-trail-complete-edition.json](./410674-sunlit-trail-complete-edition.json) |
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
@@ -28502,6 +28507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
 | Swarmriders | 32839 | [32839-swarmriders.json](./32839-swarmriders.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
+| Swarmslam | 410678 | [410678-swarmslam.json](./410678-swarmslam.json) |
 | SwarmsurgE | 258411 | [258411-swarmsurge.json](./258411-swarmsurge.json) |
 | Swarog | 92950 | [92950-swarog.json](./92950-swarog.json) |
 | Swashbuckler | 23233 | [23233-swashbuckler.json](./23233-swashbuckler.json) |
@@ -28621,6 +28627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dreams Alex | 157545 | [157545-sweet-dreams-alex.json](./157545-sweet-dreams-alex.json) |
 | Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
 | Sweet Dreams Bear | 181151 | [181151-sweet-dreams-bear.json](./181151-sweet-dreams-bear.json) |
+| Sweet Dreams Café | 410683 | [410683-sweet-dreams-cafe.json](./410683-sweet-dreams-cafe.json) |
 | Sweet Dreams Dahlia | 240694 | [240694-sweet-dreams-dahlia.json](./240694-sweet-dreams-dahlia.json) |
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
@@ -29256,6 +29263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
 | Sworn | 118074 | [118074-sworn.json](./118074-sworn.json) |
 | SWR JST DX Selective Memory Erase Effect | 35564 | [35564-swr-jst-dx-selective-memory-erase-effect.json](./35564-swr-jst-dx-selective-memory-erase-effect.json) |
+| Swtchr | 410652 | [410652-swtchr.json](./410652-swtchr.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | SX Superstar | 4193 | [4193-sx-superstar.json](./4193-sx-superstar.json) |
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
