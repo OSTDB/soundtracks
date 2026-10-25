@@ -10425,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybinder | 169648 | [169648-skybinder.json](./169648-skybinder.json) |
 | Skyblazer | 42581 | [42581-skyblazer.json](./42581-skyblazer.json) |
 | Skyblazor | 183766 | [183766-skyblazor.json](./183766-skyblazor.json) |
+| Skyblitz | 397743 | [397743-skyblitz.json](./397743-skyblitz.json) |
 | Skyblivion | 301423 | [301423-skyblivion.json](./301423-skyblivion.json) |
 | Skyblock Chaos | 301347 | [301347-skyblock-chaos.json](./301347-skyblock-chaos.json) |
 | Skyblock Hunter Survival Games | 95791 | [95791-skyblock-hunter-survival-games.json](./95791-skyblock-hunter-survival-games.json) |
@@ -20873,6 +20874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island: Tank Advance MP09 | 190612 | [190612-starry-moon-island-tank-advance-mp09.json](./190612-starry-moon-island-tank-advance-mp09.json) |
 | Starry Moon Island: Tank Advance MP10 | 190615 | [190615-starry-moon-island-tank-advance-mp10.json](./190615-starry-moon-island-tank-advance-mp10.json) |
 | Starry Night | 246493 | [246493-starry-night.json](./246493-starry-night.json) |
+| Starry Night | 397818 | [397818-starry-night.json](./397818-starry-night.json) |
 | Starry Nights: Helix | 30868 | [30868-starry-nights-helix.json](./30868-starry-nights-helix.json) |
 | Starry Sky: After Autumn | 203173 | [203173-starry-sky-after-autumn.json](./203173-starry-sky-after-autumn.json) |
 | Starry Sky: After Autumn Portable | 203174 | [203174-starry-sky-after-autumn-portable.json](./203174-starry-sky-after-autumn-portable.json) |
@@ -22626,6 +22628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Brigade: The Thrice Damned 2 - The Sunken Kingdom | 111557 | [111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json](./111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json) |
 | Strange Brigade: The Thrice Damned 3 - Great Pyramid of Bes | 141059 | [141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json](./141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json) |
 | Strange Case: The Alchemist | 188293 | [188293-strange-case-the-alchemist.json](./188293-strange-case-the-alchemist.json) |
+| Strange Cases: The Faces of Vengeance | 397794 | [397794-strange-cases-the-faces-of-vengeance.json](./397794-strange-cases-the-faces-of-vengeance.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
@@ -24618,6 +24621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Valley Hike | 255267 | [255267-summer-valley-hike.json](./255267-summer-valley-hike.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
+| Summer Walk | 397814 | [397814-summer-walk.json](./397814-summer-walk.json) |
 | Summer Weekend | 370018 | [370018-summer-weekend.json](./370018-summer-weekend.json) |
 | Summer Wheelie | 104430 | [104430-summer-wheelie.json](./104430-summer-wheelie.json) |
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
@@ -24857,6 +24861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Beach Dolls | 418836 | [418836-sunny-beach-dolls.json](./418836-sunny-beach-dolls.json) |
 | Sunny Beach Girls | 294973 | [294973-sunny-beach-girls.json](./294973-sunny-beach-girls.json) |
 | Sunny Cafe | 154353 | [154353-sunny-cafe.json](./154353-sunny-cafe.json) |
+| Sunny Day Sky | 397853 | [397853-sunny-day-sky.json](./397853-sunny-day-sky.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
 | Sunny Girl | 252265 | [252265-sunny-girl.json](./252265-sunny-girl.json) |
 | Sunny Hillride | 10931 | [10931-sunny-hillride.json](./10931-sunny-hillride.json) |
