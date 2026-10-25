@@ -6510,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Dungeon | 196291 | [196291-the-dark-dungeon.json](./196291-the-dark-dungeon.json) |
 | The Dark Dwellers | 191609 | [191609-the-dark-dwellers.json](./191609-the-dark-dwellers.json) |
 | The Dark Eye | 11682 | [11682-the-dark-eye.json](./11682-the-dark-eye.json) |
+| The Dark Eye : Book of Heroes | 121904 | [121904-the-dark-eye-book-of-heroes.json](./121904-the-dark-eye-book-of-heroes.json) |
 | The Dark Eye Bundle | 218463 | [218463-the-dark-eye-bundle.json](./218463-the-dark-eye-bundle.json) |
 | The Dark Eye Bundle | 275896 | [275896-the-dark-eye-bundle.json](./275896-the-dark-eye-bundle.json) |
 | The Dark Eye: Book of Heroes - Collector's Edition | 136376 | [136376-the-dark-eye-book-of-heroes-collectors-edition.json](./136376-the-dark-eye-book-of-heroes-collectors-edition.json) |
@@ -15507,6 +15508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Williams Family Sacrifice | 385860 | [385860-the-williams-family-sacrifice.json](./385860-the-williams-family-sacrifice.json) |
 | The Wilting Amaranth | 102416 | [102416-the-wilting-amaranth.json](./102416-the-wilting-amaranth.json) |
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
+| The Wind and Wilting Blossom | 121773 | [121773-the-wind-and-wilting-blossom.json](./121773-the-wind-and-wilting-blossom.json) |
 | The Wind Road | 103314 | [103314-the-wind-road.json](./103314-the-wind-road.json) |
 | The Wind: A Story of Surrender | 152838 | [152838-the-wind-a-story-of-surrender.json](./152838-the-wind-a-story-of-surrender.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
@@ -18482,6 +18484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Totems | 251507 | [251507-tiki-totems.json](./251507-tiki-totems.json) |
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
 | Tiki Towers 2: Monkey Republic | 65294 | [65294-tiki-towers-2-monkey-republic.json](./65294-tiki-towers-2-monkey-republic.json) |
+| Tiki Trials | 117121 | [117121-tiki-trials.json](./117121-tiki-trials.json) |
 | Tiki-Taka-Toe | 377233 | [377233-tiki-taka-toe.json](./377233-tiki-taka-toe.json) |
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
 | Tikrace | 249611 | [249611-tikrace.json](./249611-tikrace.json) |
@@ -21834,6 +21837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
 | Touhou Shinmadan: The Ancient Square | 335061 | [335061-touhou-shinmadan-the-ancient-square.json](./335061-touhou-shinmadan-the-ancient-square.json) |
 | Touhou Shinpiroku: Urban Legend in Limbo. | 298968 | [298968-touhou-shinpiroku-urban-legend-in-limbo.json](./298968-touhou-shinpiroku-urban-legend-in-limbo.json) |
+| Touhou Shoujo: Tale of Beautiful Memories | 121378 | [121378-touhou-shoujo-tale-of-beautiful-memories.json](./121378-touhou-shoujo-tale-of-beautiful-memories.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Sky Arena | 66025 | [66025-touhou-sky-arena.json](./66025-touhou-sky-arena.json) |
 | Touhou Soccer | 128380 | [128380-touhou-soccer.json](./128380-touhou-soccer.json) |
