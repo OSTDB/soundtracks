@@ -7088,6 +7088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grease Dance | 20218 | [20218-grease-dance.json](./20218-grease-dance.json) |
 | Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
 | Greasemnk++ | 347290 | [347290-greasemnk.json](./347290-greasemnk.json) |
+| GreasyMac: Void Wilds | 410023 | [410023-greasymac-void-wilds.json](./410023-greasymac-void-wilds.json) |
 | Great 1000 Miles Rally: Evolution Model!!! | 40157 | [40157-great-1000-miles-rally-evolution-model.json](./40157-great-1000-miles-rally-evolution-model.json) |
 | Great Adventures Lost Mountains | 54060 | [54060-great-adventures-lost-mountains.json](./54060-great-adventures-lost-mountains.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
