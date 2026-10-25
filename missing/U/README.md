@@ -1723,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Futa Corruption | 236123 | [236123-unexpected-futa-corruption.json](./236123-unexpected-futa-corruption.json) |
 | Unexpected Journey | 361585 | [361585-unexpected-journey.json](./361585-unexpected-journey.json) |
 | Unexpected Pigeon Race | 324722 | [324722-unexpected-pigeon-race.json](./324722-unexpected-pigeon-race.json) |
+| Unexpected Tasks | 416987 | [416987-unexpected-tasks.json](./416987-unexpected-tasks.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
 | Unexplored 2: The Wayfarer's Legacy | 119343 | [119343-unexplored-2-the-wayfarers-legacy.json](./119343-unexplored-2-the-wayfarers-legacy.json) |
 | Unexplored: Mithril Run | 155020 | [155020-unexplored-mithril-run.json](./155020-unexplored-mithril-run.json) |
@@ -2617,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
 | Uphill Rush | 92114 | [92114-uphill-rush.json](./92114-uphill-rush.json) |
+| Uphill Rush 2 | 416937 | [416937-uphill-rush-2.json](./416937-uphill-rush-2.json) |
 | Uphill Rush New York | 108240 | [108240-uphill-rush-new-york.json](./108240-uphill-rush-new-york.json) |
 | Uphill Rush Water Park Racing | 231231 | [231231-uphill-rush-water-park-racing.json](./231231-uphill-rush-water-park-racing.json) |
 | Uphill Skiing | 43128 | [43128-uphill-skiing.json](./43128-uphill-skiing.json) |
