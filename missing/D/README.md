@@ -3251,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Zone | 81176 | [81176-dead-zone.json](./81176-dead-zone.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Dead Zone: Rebirth of Survivors | 270103 | [270103-dead-zone-rebirth-of-survivors.json](./270103-dead-zone-rebirth-of-survivors.json) |
+| Dead Zone: Underground | 401386 | [401386-dead-zone-underground.json](./401386-dead-zone-underground.json) |
 | Dead_file.exe | 52072 | [52072-dead-file-exe.json](./52072-dead-file-exe.json) |
 | Dead-End Detective: The Sixpence Strangler | 164924 | [164924-dead-end-detective-the-sixpence-strangler.json](./164924-dead-end-detective-the-sixpence-strangler.json) |
 | Dead, Too Dead | 326286 | [326286-dead-too-dead.json](./326286-dead-too-dead.json) |
@@ -8909,6 +8910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive Into The Survival | 340555 | [340555-dive-into-the-survival.json](./340555-dive-into-the-survival.json) |
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
 | Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
+| Dive Tactics | 401465 | [401465-dive-tactics.json](./401465-dive-tactics.json) |
 | Dive The Depths | 285021 | [285021-dive-the-depths.json](./285021-dive-the-depths.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
 | Dive: Starpath | 83941 | [83941-dive-starpath.json](./83941-dive-starpath.json) |
@@ -13546,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Mania Championship 2 | 104521 | [104521-drift-mania-championship-2.json](./104521-drift-mania-championship-2.json) |
 | Drift Mania: Street Outlaws | 38938 | [38938-drift-mania-street-outlaws.json](./38938-drift-mania-street-outlaws.json) |
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
+| Drift Master 2026 Simulator: Driving Sim | 401384 | [401384-drift-master-2026-simulator-driving-sim.json](./401384-drift-master-2026-simulator-driving-sim.json) |
 | Drift Master Simulator | 315922 | [315922-drift-master-simulator.json](./315922-drift-master-simulator.json) |
 | Drift Master Simulator 2024: Rich Racer DLC | 316231 | [316231-drift-master-simulator-2024-rich-racer-dlc.json](./316231-drift-master-simulator-2024-rich-racer-dlc.json) |
 | Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
