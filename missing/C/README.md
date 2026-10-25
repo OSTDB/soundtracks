@@ -9117,6 +9117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Attila | 289803 | [289803-codename-attila.json](./289803-codename-attila.json) |
 | Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
+| Codename Desperado | 413848 | [413848-codename-desperado.json](./413848-codename-desperado.json) |
 | Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
 | Codename Ghost Hunt | 107716 | [107716-codename-ghost-hunt.json](./107716-codename-ghost-hunt.json) |
 | Codename Jin Yiwei | 247379 | [247379-codename-jin-yiwei.json](./247379-codename-jin-yiwei.json) |
