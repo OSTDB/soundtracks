@@ -13660,6 +13660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Superstars | 96764 | [96764-solitaire-superstars.json](./96764-solitaire-superstars.json) |
 | Solitaire TED and PET | 195965 | [195965-solitaire-ted-and-pet.json](./195965-solitaire-ted-and-pet.json) |
 | Solitaire Till Dawn | 87179 | [87179-solitaire-till-dawn.json](./87179-solitaire-till-dawn.json) |
+| Solitaire Time Warp | 397300 | [397300-solitaire-time-warp.json](./397300-solitaire-time-warp.json) |
 | Solitaire TriPeaks Flowers | 135740 | [135740-solitaire-tripeaks-flowers.json](./135740-solitaire-tripeaks-flowers.json) |
 | Solitaire Twin Pack | 122310 | [122310-solitaire-twin-pack.json](./122310-solitaire-twin-pack.json) |
 | Solitaire Twist Collection | 54387 | [54387-solitaire-twist-collection.json](./54387-solitaire-twist-collection.json) |
