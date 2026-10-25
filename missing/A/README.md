@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
 | Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
 | Aces in the Dust | 160054 | [160054-aces-in-the-dust.json](./160054-aces-in-the-dust.json) |
+| Aces of Avalon | 410690 | [410690-aces-of-avalon.json](./410690-aces-of-avalon.json) |
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
 | Aces of the Deep Expansion Disk | 79075 | [79075-aces-of-the-deep-expansion-disk.json](./79075-aces-of-the-deep-expansion-disk.json) |
@@ -3022,7 +3023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -14488,6 +14488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatarika | 29692 | [29692-avatarika.json](./29692-avatarika.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avathar: The Legend of Green Dragon | 62066 | [62066-avathar-the-legend-of-green-dragon.json](./62066-avathar-the-legend-of-green-dragon.json) |
+| Avatour: Miami - Hide & Seek | 410706 | [410706-avatour-miami-hide-and-seek.json](./410706-avatour-miami-hide-and-seek.json) |
 | Avava | 207287 | [207287-avava.json](./207287-avava.json) |
 | AVCStec Challenge | 94587 | [94587-avcstec-challenge.json](./94587-avcstec-challenge.json) |
 | Ave Classic | 355185 | [355185-ave-classic.json](./355185-ave-classic.json) |
@@ -14658,6 +14659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakened Evil | 190077 | [190077-awakened-evil.json](./190077-awakened-evil.json) |
 | Awakened: Dark Space | 141178 | [141178-awakened-dark-space.json](./141178-awakened-dark-space.json) |
 | Awakener | 165513 | [165513-awakener.json](./165513-awakener.json) |
+| Awakeness | 410673 | [410673-awakeness.json](./410673-awakeness.json) |
 | Awakening | 105765 | [105765-awakening.json](./105765-awakening.json) |
 | Awakening | 264059 | [264059-awakening.json](./264059-awakening.json) |
 | Awakening Automata | 174766 | [174766-awakening-automata.json](./174766-awakening-automata.json) |
