@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Hour RPG | 415187 | [415187-half-hour-rpg.json](./415187-half-hour-rpg.json) |
 | Half Left | 398187 | [398187-half-left.json](./398187-half-left.json) |
 | Half Life But The | 321836 | [321836-half-life-but-the.json](./321836-half-life-but-the.json) |
+| Half Life is Strange | 400827 | [400827-half-life-is-strange.json](./400827-half-life-is-strange.json) |
 | Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
@@ -2384,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawked: Ruby Raider Pack | 278667 | [278667-hawked-ruby-raider-pack.json](./278667-hawked-ruby-raider-pack.json) |
 | Hawken Reborn | 249704 | [249704-hawken-reborn.json](./249704-hawken-reborn.json) |
 | Hawken Skate Boarder | 321781 | [321781-hawken-skate-boarder.json](./321781-hawken-skate-boarder.json) |
+| Hawker | 400847 | [400847-hawker.json](./400847-hawker.json) |
 | Hawkins Invasion | 245186 | [245186-hawkins-invasion.json](./245186-hawkins-invasion.json) |
 | Hawkquest | 77373 | [77373-hawkquest.json](./77373-hawkquest.json) |
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
