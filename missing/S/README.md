@@ -4429,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Denshou | 48632 | [48632-sengoku-denshou.json](./48632-sengoku-denshou.json) |
 | Sengoku Dynasty | 192664 | [192664-sengoku-dynasty.json](./192664-sengoku-dynasty.json) |
 | Sengoku Dynasty: Sakura Edition | 406331 | [406331-sengoku-dynasty-sakura-edition.json](./406331-sengoku-dynasty-sakura-edition.json) |
+| Sengoku Dynasty: Sakura Pack | 406339 | [406339-sengoku-dynasty-sakura-pack.json](./406339-sengoku-dynasty-sakura-pack.json) |
 | Sengoku Dynasty: Ultimate Edition | 261118 | [261118-sengoku-dynasty-ultimate-edition.json](./261118-sengoku-dynasty-ultimate-edition.json) |
 | Sengoku Efuda Yuugi: Hototogisu Tairan | 269530 | [269530-sengoku-efuda-yuugi-hototogisu-tairan.json](./269530-sengoku-efuda-yuugi-hototogisu-tairan.json) |
 | Sengoku Gensokyo | 299300 | [299300-sengoku-gensokyo.json](./299300-sengoku-gensokyo.json) |
@@ -12472,6 +12473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK Fighting Legends | 149285 | [149285-snk-fighting-legends.json](./149285-snk-fighting-legends.json) |
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
 | SNK Heroines: Tag Team Frenzy | 81146 | [81146-snk-heroines-tag-team-frenzy.json](./81146-snk-heroines-tag-team-frenzy.json) |
+| SNK Heroines: Tag Team Frenzy - Miss X | 405898 | [405898-snk-heroines-tag-team-frenzy-miss-x.json](./405898-snk-heroines-tag-team-frenzy-miss-x.json) |
 | SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
 | SNK vs Capcom Card Fighters DS | 21387 | [21387-snk-vs-capcom-card-fighters-ds.json](./21387-snk-vs-capcom-card-fighters-ds.json) |
 | SNK vs. Capcom: Card Fighters 2 - Expand Edition | 75441 | [75441-snk-vs-capcom-card-fighters-2-expand-edition.json](./75441-snk-vs-capcom-card-fighters-2-expand-edition.json) |
@@ -13578,6 +13580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire Knights | 93747 | [93747-solitaire-knights.json](./93747-solitaire-knights.json) |
 | Solitaire Legends Collection | 53627 | [53627-solitaire-legends-collection.json](./53627-solitaire-legends-collection.json) |
+| Solitaire Legends: Sakura Dreams | 405915 | [405915-solitaire-legends-sakura-dreams.json](./405915-solitaire-legends-sakura-dreams.json) |
 | Solitaire Lounge | 25703 | [25703-solitaire-lounge.json](./25703-solitaire-lounge.json) |
 | Solitaire Mahjong: Ancient China Adventure | 401017 | [401017-solitaire-mahjong-ancient-china-adventure.json](./401017-solitaire-mahjong-ancient-china-adventure.json) |
 | Solitaire Master 2 | 208878 | [208878-solitaire-master-2.json](./208878-solitaire-master-2.json) |
@@ -26855,6 +26858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Scope 6 | 18616 | [18616-super-scope-6.json](./18616-super-scope-6.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
 | Super Scrabble | 49065 | [49065-super-scrabble.json](./49065-super-scrabble.json) |
+| Super Scram Kitty | 405914 | [405914-super-scram-kitty.json](./405914-super-scram-kitty.json) |
 | Super Scramble Simulator | 12786 | [12786-super-scramble-simulator.json](./12786-super-scramble-simulator.json) |
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
 | Super Scribblenauts | 8808 | [8808-super-scribblenauts.json](./8808-super-scribblenauts.json) |
@@ -28285,6 +28289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
 | Sushi Claw Machine | 412900 | [412900-sushi-claw-machine.json](./412900-sushi-claw-machine.json) |
 | Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
+| Sushi Courier! | 405924 | [405924-sushi-courier.json](./405924-sushi-courier.json) |
 | Sushi Dojo | 359915 | [359915-sushi-dojo.json](./359915-sushi-dojo.json) |
 | Sushi Drop | 240115 | [240115-sushi-drop.json](./240115-sushi-drop.json) |
 | Sushi Factory | 241199 | [241199-sushi-factory.json](./241199-sushi-factory.json) |
