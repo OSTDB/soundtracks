@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
 | Halfway to Dawn | 249362 | [249362-halfway-to-dawn.json](./249362-halfway-to-dawn.json) |
+| Haligen Zero | 405135 | [405135-haligen-zero.json](./405135-haligen-zero.json) |
 | Halite AI | 77817 | [77817-halite-ai.json](./77817-halite-ai.json) |
 | Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
@@ -5876,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Cartoon Fantasy | 170557 | [170557-hidden-objects-cartoon-fantasy.json](./170557-hidden-objects-cartoon-fantasy.json) |
 | Hidden Objects: Chambord Castle Adventures | 103534 | [103534-hidden-objects-chambord-castle-adventures.json](./103534-hidden-objects-chambord-castle-adventures.json) |
 | Hidden Objects: Coastal Hill Mystery | 115182 | [115182-hidden-objects-coastal-hill-mystery.json](./115182-hidden-objects-coastal-hill-mystery.json) |
+| Hidden Objects: Items Find | 405154 | [405154-hidden-objects-items-find.json](./405154-hidden-objects-items-find.json) |
 | Hidden Objects: London - My Paradise: My Kitchen | 90802 | [90802-hidden-objects-london-my-paradise-my-kitchen.json](./90802-hidden-objects-london-my-paradise-my-kitchen.json) |
 | Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
 | Hidden Objects: Mystery Stories | 47787 | [47787-hidden-objects-mystery-stories.json](./47787-hidden-objects-mystery-stories.json) |
