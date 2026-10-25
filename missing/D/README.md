@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Past | 211817 | [211817-dark-past.json](./211817-dark-past.json) |
 | Dark Past Darker Future | 255254 | [255254-dark-past-darker-future.json](./255254-dark-past-darker-future.json) |
 | Dark Pathways | 164937 | [164937-dark-pathways.json](./164937-dark-pathways.json) |
+| Dark Petition | 412009 | [412009-dark-petition.json](./412009-dark-petition.json) |
 | Dark PGT | 347207 | [347207-dark-pgt.json](./347207-dark-pgt.json) |
 | Dark Place | 366307 | [366307-dark-place.json](./366307-dark-place.json) |
 | Dark Place 1 | 272026 | [272026-dark-place-1.json](./272026-dark-place-1.json) |
@@ -5627,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Bauernhof | 268111 | [268111-der-bauernhof.json](./268111-der-bauernhof.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
+| Der Böse Mann | 411966 | [411966-der-bose-mann.json](./411966-der-bose-mann.json) |
 | Der Clown | 142083 | [142083-der-clown.json](./142083-der-clown.json) |
 | Der Dativ ist dem Genitiv sein Tod | 269665 | [269665-der-dativ-ist-dem-genitiv-sein-tod.json](./269665-der-dativ-ist-dem-genitiv-sein-tod.json) |
 | Der einzig wahre Auserwählte | 83205 | [83205-der-einzig-wahre-auserwahlte.json](./83205-der-einzig-wahre-auserwahlte.json) |
@@ -9611,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dojo Assault | 249847 | [249847-dojo-assault.json](./249847-dojo-assault.json) |
 | Dojo City | 311155 | [311155-dojo-city.json](./311155-dojo-city.json) |
 | Dojo Corridor | 147350 | [147350-dojo-corridor.json](./147350-dojo-corridor.json) |
+| Dojo Raiders | 411976 | [411976-dojo-raiders.json](./411976-dojo-raiders.json) |
 | Doka 2 Trade | 126439 | [126439-doka-2-trade.json](./126439-doka-2-trade.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
 | Doka 2: Kishki Edition | 111387 | [111387-doka-2-kishki-edition.json](./111387-doka-2-kishki-edition.json) |
@@ -13809,6 +13812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
+| Drones | 411975 | [411975-drones.json](./411975-drones.json) |
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
 | Drones Attack | 410863 | [410863-drones-attack.json](./410863-drones-attack.json) |
 | Drones: The Human Condition | 30508 | [30508-drones-the-human-condition.json](./30508-drones-the-human-condition.json) |
@@ -14881,6 +14885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon No Dungeon: Tyrant's Endgame | 253968 | [253968-dungeon-no-dungeon-tyrants-endgame.json](./253968-dungeon-no-dungeon-tyrants-endgame.json) |
 | Dungeon of Argion | 245941 | [245941-dungeon-of-argion.json](./245941-dungeon-of-argion.json) |
 | Dungeon of Astaroth | 293976 | [293976-dungeon-of-astaroth.json](./293976-dungeon-of-astaroth.json) |
+| Dungeon of Calibris: Demon Orb | 412011 | [412011-dungeon-of-calibris-demon-orb.json](./412011-dungeon-of-calibris-demon-orb.json) |
 | Dungeon of Choices | 178859 | [178859-dungeon-of-choices.json](./178859-dungeon-of-choices.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Distrust | 420204 | [420204-dungeon-of-distrust.json](./420204-dungeon-of-distrust.json) |
