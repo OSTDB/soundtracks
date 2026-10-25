@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Engine Aquila | 344462 | [344462-battle-engine-aquila.json](./344462-battle-engine-aquila.json) |
 | Battle Engine Aquila | 5741 | [5741-battle-engine-aquila.json](./5741-battle-engine-aquila.json) |
 | Battle Factory Showdown | 306805 | [306805-battle-factory-showdown.json](./306805-battle-factory-showdown.json) |
+| Battle Fantasia -Revised Edition- | 20049 | [20049-battle-fantasia-revised-edition.json](./20049-battle-fantasia-revised-edition.json) |
 | Battle Fantasy | 46393 | [46393-battle-fantasy.json](./46393-battle-fantasy.json) |
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
 | Battle Fish | 335411 | [335411-battle-fish.json](./335411-battle-fish.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Apollo | 143669 | [143669-battleship-apollo.json](./143669-battleship-apollo.json) |
 | Battleship Athena | 310496 | [310496-battleship-athena.json](./310496-battleship-athena.json) |
 | Battleship Avalon | 309539 | [309539-battleship-avalon.json](./309539-battleship-avalon.json) |
+| Battleship Bishojo | 29021 | [29021-battleship-bishojo.json](./29021-battleship-bishojo.json) |
 | Battleship Command | 403062 | [403062-battleship-command.json](./403062-battleship-command.json) |
 | Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
 | Battleship Empire | 103104 | [103104-battleship-empire.json](./103104-battleship-empire.json) |
@@ -3930,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Girls 3: Zodiac Signs, Love & Horoscope Dating | 336411 | [336411-beach-girls-3-zodiac-signs-love-and-horoscope-dating.json](./336411-beach-girls-3-zodiac-signs-love-and-horoscope-dating.json) |
 | Beach Girls: Don't Lie in Summer | 203709 | [203709-beach-girls-dont-lie-in-summer.json](./203709-beach-girls-dont-lie-in-summer.json) |
 | Beach Head 2000 | 17451 | [17451-beach-head-2000.json](./17451-beach-head-2000.json) |
+| Beach Head: Desert War | 29003 | [29003-beach-head-desert-war.json](./29003-beach-head-desert-war.json) |
 | Beach Invasion 1915: Gallipoli | 347341 | [347341-beach-invasion-1915-gallipoli.json](./347341-beach-invasion-1915-gallipoli.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Island Deluxe | 212810 | [212810-beach-island-deluxe.json](./212810-beach-island-deluxe.json) |
