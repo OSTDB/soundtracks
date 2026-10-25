@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Quit | 367824 | [367824-rage-quit.json](./367824-rage-quit.json) |
 | Rage Quit Bundle | 289373 | [289373-rage-quit-bundle.json](./289373-rage-quit-bundle.json) |
 | Rage Rabbit | 207756 | [207756-rage-rabbit.json](./207756-rage-rabbit.json) |
+| Rage Racer PC | 414350 | [414350-rage-racer-pc.json](./414350-rage-racer-pc.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
 | Rage Runner | 9010 | [9010-rage-runner.json](./9010-rage-runner.json) |
@@ -6260,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Saturn: Tales from the Rings | 169249 | [169249-rings-of-saturn-tales-from-the-rings.json](./169249-rings-of-saturn-tales-from-the-rings.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
 | Rings of Zilfin | 2891 | [2891-rings-of-zilfin.json](./2891-rings-of-zilfin.json) |
+| Ringwold: The Last Collector | 414275 | [414275-ringwold-the-last-collector.json](./414275-ringwold-the-last-collector.json) |
 | Ringworld: Revenge of the Patriarch | 46727 | [46727-ringworld-revenge-of-the-patriarch.json](./46727-ringworld-revenge-of-the-patriarch.json) |
 | Ringwyrm | 410985 | [410985-ringwyrm.json](./410985-ringwyrm.json) |
 | Rinlo | 133133 | [133133-rinlo.json](./133133-rinlo.json) |
