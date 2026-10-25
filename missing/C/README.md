@@ -2560,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cashier Sim | 296450 | [296450-cashier-sim.json](./296450-cashier-sim.json) |
 | Cashier Simulator | 261723 | [261723-cashier-simulator.json](./261723-cashier-simulator.json) |
 | Cashier Simulator | 332312 | [332312-cashier-simulator.json](./332312-cashier-simulator.json) |
+| CashKnight | 100910 | [100910-cashknight.json](./100910-cashknight.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casina: A Visual Novel set in Ancient Greece | 144016 | [144016-casina-a-visual-novel-set-in-ancient-greece.json](./144016-casina-a-visual-novel-set-in-ancient-greece.json) |
 | Casino Black Jack | 336095 | [336095-casino-black-jack.json](./336095-casino-black-jack.json) |
@@ -9647,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
+| Color Road | 100877 | [100877-color-road.json](./100877-color-road.json) |
 | Color Road: Sweet & Shiny | 295699 | [295699-color-road-sweet-and-shiny.json](./295699-color-road-sweet-and-shiny.json) |
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
@@ -10721,6 +10723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condor 2: The Complete Soaring Simulator | 80350 | [80350-condor-2-the-complete-soaring-simulator.json](./80350-condor-2-the-complete-soaring-simulator.json) |
 | Condor 3 | 327922 | [327922-condor-3.json](./327922-condor-3.json) |
 | Condor Attack | 117413 | [117413-condor-attack.json](./117413-condor-attack.json) |
+| Condor Heroes | 100905 | [100905-condor-heroes.json](./100905-condor-heroes.json) |
 | Condors vs. Ocelots | 164932 | [164932-condors-vs-ocelots.json](./164932-condors-vs-ocelots.json) |
 | Condottiero | 394132 | [394132-condottiero.json](./394132-condottiero.json) |
 | Conduct Deluxe! | 76438 | [76438-conduct-deluxe.json](./76438-conduct-deluxe.json) |
@@ -15155,6 +15158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalreach Islands | 190912 | [190912-crystalreach-islands.json](./190912-crystalreach-islands.json) |
 | Crystalrect | 238928 | [238928-crystalrect.json](./238928-crystalrect.json) |
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
+| Crystals & Curses | 96700 | [96700-crystals-and-curses.json](./96700-crystals-and-curses.json) |
 | Crystals and Curses | 81987 | [81987-crystals-and-curses.json](./81987-crystals-and-curses.json) |
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
 | Crystals of Arborea | 2460 | [2460-crystals-of-arborea.json](./2460-crystals-of-arborea.json) |
