@@ -2278,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Gold | 29116 | [29116-unreal-gold.json](./29116-unreal-gold.json) |
 | Unreal Golf | 154408 | [154408-unreal-golf.json](./154408-unreal-golf.json) |
 | Unreal Heroes | 31680 | [31680-unreal-heroes.json](./31680-unreal-heroes.json) |
+| Unreal Hospital 8 | 396662 | [396662-unreal-hospital-8.json](./396662-unreal-hospital-8.json) |
 | Unreal II: eXpanded MultiPlayer | 100089 | [100089-unreal-ii-expanded-multiplayer.json](./100089-unreal-ii-expanded-multiplayer.json) |
 | Unreal II: The Awakening | 6222 | [6222-unreal-ii-the-awakening.json](./6222-unreal-ii-the-awakening.json) |
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
