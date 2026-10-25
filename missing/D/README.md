@@ -11062,6 +11062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
 | DotsLine | 108188 | [108188-dotsline.json](./108188-dotsline.json) |
 | Dotso | 93165 | [93165-dotso.json](./93165-dotso.json) |
+| Dotster | 87515 | [87515-dotster.json](./87515-dotster.json) |
 | Dotster 2 | 102234 | [102234-dotster-2.json](./102234-dotster-2.json) |
 | DotStrike | 155947 | [155947-dotstrike.json](./155947-dotstrike.json) |
 | Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
