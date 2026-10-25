@@ -13582,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight | 229651 | [229651-moonlight.json](./229651-moonlight.json) |
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight | 33711 | [33711-moonlight.json](./33711-moonlight.json) |
+| Moonlight | 422035 | [422035-moonlight.json](./422035-moonlight.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
