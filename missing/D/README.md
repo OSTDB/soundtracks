@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckanism: Singularity Island | 373165 | [373165-deckanism-singularity-island.json](./373165-deckanism-singularity-island.json) |
 | Deckarium | 318872 | [318872-deckarium.json](./318872-deckarium.json) |
 | Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
+| Deckbound | 423873 | [423873-deckbound.json](./423873-deckbound.json) |
 | Deckbound Quest | 58645 | [58645-deckbound-quest.json](./58645-deckbound-quest.json) |
 | Deckbuilder Fantasy | 277742 | [277742-deckbuilder-fantasy.json](./277742-deckbuilder-fantasy.json) |
 | Deckbuilder Fantasy: Elvenglade | 292767 | [292767-deckbuilder-fantasy-elvenglade.json](./292767-deckbuilder-fantasy-elvenglade.json) |
