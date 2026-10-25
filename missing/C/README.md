@@ -6942,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunk | 355072 | [355072-chunk.json](./355072-chunk.json) |
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
 | Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
+| Chunks | 19838 | [19838-chunks.json](./19838-chunks.json) |
 | Chunks | 401290 | [401290-chunks.json](./401290-chunks.json) |
 | Chunky Jump! | 347853 | [347853-chunky-jump.json](./347853-chunky-jump.json) |
 | Chunky Tomato | 271644 | [271644-chunky-tomato.json](./271644-chunky-tomato.json) |
