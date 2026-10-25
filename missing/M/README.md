@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
 | Mad Mix 2: El Castillo de los Fantasmas | 73468 | [73468-mad-mix-2-el-castillo-de-los-fantasmas.json](./73468-mad-mix-2-el-castillo-de-los-fantasmas.json) |
 | Mad Mix Game: The Pepsi Challenge | 69095 | [69095-mad-mix-game-the-pepsi-challenge.json](./69095-mad-mix-game-the-pepsi-challenge.json) |
+| Mad Mojo | 393292 | [393292-mad-mojo.json](./393292-mad-mojo.json) |
 | Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
 | Mad Mosh | 158091 | [158091-mad-mosh.json](./158091-mad-mosh.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
@@ -6152,9 +6153,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network | 1755 | [1755-mega-man-battle-network.json](./1755-mega-man-battle-network.json) |
 | Mega Man Battle Network 2 | 1756 | [1756-mega-man-battle-network-2.json](./1756-mega-man-battle-network-2.json) |
 | Mega Man Battle Network 2 | 352862 | [352862-mega-man-battle-network-2.json](./352862-mega-man-battle-network-2.json) |
+| Mega Man Battle Network 2 | 393277 | [393277-mega-man-battle-network-2.json](./393277-mega-man-battle-network-2.json) |
 | Mega Man Battle Network 3 Blue | 1758 | [1758-mega-man-battle-network-3-blue.json](./1758-mega-man-battle-network-3-blue.json) |
 | Mega Man Battle Network 3 Blue | 352864 | [352864-mega-man-battle-network-3-blue.json](./352864-mega-man-battle-network-3-blue.json) |
+| Mega Man Battle Network 3 Blue | 393278 | [393278-mega-man-battle-network-3-blue.json](./393278-mega-man-battle-network-3-blue.json) |
 | Mega Man Battle Network 3 White | 352863 | [352863-mega-man-battle-network-3-white.json](./352863-mega-man-battle-network-3-white.json) |
+| Mega Man Battle Network 3 White | 393279 | [393279-mega-man-battle-network-3-white.json](./393279-mega-man-battle-network-3-white.json) |
 | Mega Man Battle Network 4: Blue Moon | 1760 | [1760-mega-man-battle-network-4-blue-moon.json](./1760-mega-man-battle-network-4-blue-moon.json) |
 | Mega Man Battle Network 4: Blue Moon | 352328 | [352328-mega-man-battle-network-4-blue-moon.json](./352328-mega-man-battle-network-4-blue-moon.json) |
 | Mega Man Battle Network 4: Blue Moon | 352867 | [352867-mega-man-battle-network-4-blue-moon.json](./352867-mega-man-battle-network-4-blue-moon.json) |
@@ -9088,6 +9092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midgard | 228323 | [228323-midgard.json](./228323-midgard.json) |
 | Midgard Lava-a-Jato | 298428 | [298428-midgard-lava-a-jato.json](./298428-midgard-lava-a-jato.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
+| Midgardr | 393583 | [393583-midgardr.json](./393583-midgardr.json) |
 | Midi Maze | 15265 | [15265-midi-maze.json](./15265-midi-maze.json) |
 | Midi the Cat | 183789 | [183789-midi-the-cat.json](./183789-midi-the-cat.json) |
 | Midinous | 173225 | [173225-midinous.json](./173225-midinous.json) |
@@ -10211,6 +10216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraft: The World Warrior | 276090 | [276090-minecraft-the-world-warrior.json](./276090-minecraft-the-world-warrior.json) |
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
+| Minecraft: Tiny Takeover | 393595 | [393595-minecraft-tiny-takeover.json](./393595-minecraft-tiny-takeover.json) |
 | Minecraft: Toy Story Mash-up | 254066 | [254066-minecraft-toy-story-mash-up.json](./254066-minecraft-toy-story-mash-up.json) |
 | Minecraft: Trails & Tales | 240295 | [240295-minecraft-trails-and-tales.json](./240295-minecraft-trails-and-tales.json) |
 | Minecraft: Trails & Tales | 240296 | [240296-minecraft-trails-and-tales.json](./240296-minecraft-trails-and-tales.json) |
@@ -12249,6 +12255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Story: games for kids | 91108 | [91108-mole-story-games-for-kids.json](./91108-mole-story-games-for-kids.json) |
 | Mole word | 95565 | [95565-mole-word.json](./95565-mole-word.json) |
 | Mole: Great Adventure | 333389 | [333389-mole-great-adventure.json](./333389-mole-great-adventure.json) |
+| Mole's Best Friend | 393575 | [393575-moles-best-friend.json](./393575-moles-best-friend.json) |
 | Mole's Quest | 329728 | [329728-moles-quest.json](./329728-moles-quest.json) |
 | Mole's Quest | 343208 | [343208-moles-quest.json](./343208-moles-quest.json) |
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
@@ -17129,6 +17136,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
 | My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
 | My Motel | 247987 | [247987-my-motel.json](./247987-my-motel.json) |
+| My Mother & Me | 393448 | [393448-my-mother-and-me.json](./393448-my-mother-and-me.json) |
+| My Mother's Love | 393445 | [393445-my-mothers-love.json](./393445-my-mothers-love.json) |
 | My Mundane Life Is Threatened by the Tropes of an RPG!!! | 256346 | [256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json](./256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json) |
 | My Muppets Show | 230200 | [230200-my-muppets-show.json](./230200-my-muppets-show.json) |
 | My Music Label | 402410 | [402410-my-music-label.json](./402410-my-music-label.json) |
