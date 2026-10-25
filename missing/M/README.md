@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Gardener: Zombie Massacre | 81129 | [81129-mad-gardener-zombie-massacre.json](./81129-mad-gardener-zombie-massacre.json) |
 | Mad Geometry | 226168 | [226168-mad-geometry.json](./226168-mad-geometry.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
+| Mad Hatter's Wonderland: Stitch by Stitch - Collector's Edition | 417507 | [417507-mad-hatters-wonderland-stitch-by-stitch-collectors-edition.json](./417507-mad-hatters-wonderland-stitch-by-stitch-collectors-edition.json) |
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
 | Mad Hunter | 30416 | [30416-mad-hunter.json](./30416-mad-hunter.json) |
 | Mad Hunting Simulator VR | 113268 | [113268-mad-hunting-simulator-vr.json](./113268-mad-hunting-simulator-vr.json) |
@@ -13640,6 +13641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit Journey: The Age of Deth | 331928 | [331928-moonlit-journey-the-age-of-deth.json](./331928-moonlit-journey-the-age-of-deth.json) |
 | Moonlit Lobby | 212773 | [212773-moonlit-lobby.json](./212773-moonlit-lobby.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
+| MoonLite | 417255 | [417255-moonlite.json](./417255-moonlite.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
 | MoonMan Adventures | 305923 | [305923-moonman-adventures.json](./305923-moonman-adventures.json) |
 | Moonmist | 12448 | [12448-moonmist.json](./12448-moonmist.json) |
