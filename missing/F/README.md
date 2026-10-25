@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fakespearean: Overdramatic | 118254 | [118254-fakespearean-overdramatic.json](./118254-fakespearean-overdramatic.json) |
 | Fakin' It All Night Long | 376219 | [376219-fakin-it-all-night-long.json](./376219-fakin-it-all-night-long.json) |
 | Falafel King | 416735 | [416735-falafel-king.json](./416735-falafel-king.json) |
+| Falafel King | 423894 | [423894-falafel-king.json](./423894-falafel-king.json) |
 | Falafel Restaurant Simulator | 166840 | [166840-falafel-restaurant-simulator.json](./166840-falafel-restaurant-simulator.json) |
 | Falafel Tycoon | 152837 | [152837-falafel-tycoon.json](./152837-falafel-tycoon.json) |
 | Falaz | 374811 | [374811-falaz.json](./374811-falaz.json) |
@@ -5662,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Golden Nights at Freddy's 3: Storage | 217752 | [217752-five-golden-nights-at-freddys-3-storage.json](./217752-five-golden-nights-at-freddys-3-storage.json) |
 | Five Heads | 347338 | [347338-five-heads.json](./347338-five-heads.json) |
 | Five Hearts Under One Roof | 318806 | [318806-five-hearts-under-one-roof.json](./318806-five-hearts-under-one-roof.json) |
+| Five Hearts Under One Roof 3 | 423891 | [423891-five-hearts-under-one-roof-3.json](./423891-five-hearts-under-one-roof-3.json) |
 | Five Hundred | 287910 | [287910-five-hundred.json](./287910-five-hundred.json) |
 | Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
 | Five Islands Escape | 315768 | [315768-five-islands-escape.json](./315768-five-islands-escape.json) |
