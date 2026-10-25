@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations of Darkness | 233484 | [233484-nations-of-darkness.json](./233484-nations-of-darkness.json) |
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
 | NationStates | 58127 | [58127-nationstates.json](./58127-nationstates.json) |
+| Nationwide Academic Check Junior High Level | 399663 | [399663-nationwide-academic-check-junior-high-level.json](./399663-nationwide-academic-check-junior-high-level.json) |
 | NationZero | 422650 | [422650-nationzero.json](./422650-nationzero.json) |
 | Native | 270274 | [270274-native.json](./270274-native.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
@@ -2173,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Vault Rush | 394634 | [394634-neon-vault-rush.json](./394634-neon-vault-rush.json) |
 | Neon Village | 302358 | [302358-neon-village.json](./302358-neon-village.json) |
 | Neon Void Runner | 96905 | [96905-neon-void-runner.json](./96905-neon-void-runner.json) |
+| Neon Warfare: CyberArena | 399664 | [399664-neon-warfare-cyberarena.json](./399664-neon-warfare-cyberarena.json) |
 | Neon Warp | 32458 | [32458-neon-warp.json](./32458-neon-warp.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
@@ -4014,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niizuma ha Tifa | 83385 | [83385-niizuma-ha-tifa.json](./83385-niizuma-ha-tifa.json) |
 | Niizuma wa Mahou Shoujo | 77902 | [77902-niizuma-wa-mahou-shoujo.json](./77902-niizuma-wa-mahou-shoujo.json) |
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
+| Niji Pop | 399648 | [399648-niji-pop.json](./399648-niji-pop.json) |
 | Niji Protocol | 384710 | [384710-niji-protocol.json](./384710-niji-protocol.json) |
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
 | Nìjiàn 2 | 164947 | [164947-nijian-2.json](./164947-nijian-2.json) |
