@@ -7052,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
 | World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
 | World War: Combat Guardian | 251049 | [251049-world-war-combat-guardian.json](./251049-world-war-combat-guardian.json) |
+| World War: D-Day 1944 | 404538 | [404538-world-war-d-day-1944.json](./404538-world-war-d-day-1944.json) |
 | World War: D-Day Part One | 275042 | [275042-world-war-d-day-part-one.json](./275042-world-war-d-day-part-one.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
@@ -7408,7 +7409,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 6 FIA World Rally Championship | 19462 | [19462-wrc-6-fia-world-rally-championship.json](./19462-wrc-6-fia-world-rally-championship.json) |
 | WRC 7 | 28863 | [28863-wrc-7.json](./28863-wrc-7.json) |
 | WRC 8 | 114432 | [114432-wrc-8.json](./114432-wrc-8.json) |
+| WRC 8: Alpine A110 (1973) | 404552 | [404552-wrc-8-alpine-a110-1973.json](./404552-wrc-8-alpine-a110-1973.json) |
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
+| WRC 8: Ford Escort MkII 1800 (1979) | 404551 | [404551-wrc-8-ford-escort-mkii-1800-1979.json](./404551-wrc-8-ford-escort-mkii-1800-1979.json) |
+| WRC 8: Lancia Delta HF Integrale Evoluzione (1992) | 404550 | [404550-wrc-8-lancia-delta-hf-integrale-evoluzione-1992.json](./404550-wrc-8-lancia-delta-hf-integrale-evoluzione-1992.json) |
+| WRC 8: RWD Legends | 404549 | [404549-wrc-8-rwd-legends.json](./404549-wrc-8-rwd-legends.json) |
 | WRC 9 | 133773 | [133773-wrc-9.json](./133773-wrc-9.json) |
 | WRC 9: Audi Quattro A2 1984 | 196111 | [196111-wrc-9-audi-quattro-a2-1984.json](./196111-wrc-9-audi-quattro-a2-1984.json) |
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
