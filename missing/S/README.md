@@ -4738,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Series: Your Story Universe | 144197 | [144197-series-your-story-universe.json](./144197-series-your-story-universe.json) |
 | Serilly's Happy Birthday | 253723 | [253723-serillys-happy-birthday.json](./253723-serillys-happy-birthday.json) |
 | Serin Fate | 118235 | [118235-serin-fate.json](./118235-serin-fate.json) |
+| Serious Bigness | 416979 | [416979-serious-bigness.json](./416979-serious-bigness.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Carnage: Adrenaline Shooter | 403731 | [403731-serious-carnage-adrenaline-shooter.json](./403731-serious-carnage-adrenaline-shooter.json) |
 | Serious DOOM: 2016 | 364860 | [364860-serious-doom-2016.json](./364860-serious-doom-2016.json) |
@@ -11151,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | SlimeGear | 106389 | [106389-slimegear.json](./106389-slimegear.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
+| Slimehead | 416935 | [416935-slimehead.json](./416935-slimehead.json) |
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
 | Slimekeep | 157387 | [157387-slimekeep.json](./157387-slimekeep.json) |
 | SlimeLabs | 152083 | [152083-slimelabs.json](./152083-slimelabs.json) |
@@ -17275,6 +17277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
 | Spellarium | 250164 | [250164-spellarium.json](./250164-spellarium.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
+| Spellarium 13 | 416972 | [416972-spellarium-13.json](./416972-spellarium-13.json) |
 | Spellarium 14: Collector's Edition | 416771 | [416771-spellarium-14-collectors-edition.json](./416771-spellarium-14-collectors-edition.json) |
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
 | Spellarium 3 | 290122 | [290122-spellarium-3.json](./290122-spellarium-3.json) |
