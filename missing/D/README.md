@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Weight | 336123 | [336123-dead-weight.json](./336123-dead-weight.json) |
 | Dead Wells: The Devil Fragment | 261694 | [261694-dead-wells-the-devil-fragment.json](./261694-dead-wells-the-devil-fragment.json) |
 | Dead Wife Game | 203102 | [203102-dead-wife-game.json](./203102-dead-wife-game.json) |
+| Dead Wishes | 113656 | [113656-dead-wishes.json](./113656-dead-wishes.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
 | Dead World Heroes | 221185 | [221185-dead-world-heroes.json](./221185-dead-world-heroes.json) |
 | Dead World: La Argentina Muerta | 237246 | [237246-dead-world-la-argentina-muerta.json](./237246-dead-world-la-argentina-muerta.json) |
@@ -4341,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space | 272554 | [272554-deep-space.json](./272554-deep-space.json) |
 | Deep Space 7 | 308881 | [308881-deep-space-7.json](./308881-deep-space-7.json) |
 | Deep Space Airships | 176322 | [176322-deep-space-airships.json](./176322-deep-space-airships.json) |
+| Deep Space Anomaly | 113847 | [113847-deep-space-anomaly.json](./113847-deep-space-anomaly.json) |
 | Deep Space Banana | 130217 | [130217-deep-space-banana.json](./130217-deep-space-banana.json) |
 | Deep Space Battle Simulator | 119616 | [119616-deep-space-battle-simulator.json](./119616-deep-space-battle-simulator.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
@@ -10011,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Flip First | 362408 | [362408-dont-flip-first.json](./362408-dont-flip-first.json) |
 | Don't Fool Me, Beauties! | 346175 | [346175-dont-fool-me-beauties.json](./346175-dont-fool-me-beauties.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
+| Don't Forget Our Esports Dream | 110682 | [110682-dont-forget-our-esports-dream.json](./110682-dont-forget-our-esports-dream.json) |
 | Don't Forget the Phone | 398485 | [398485-dont-forget-the-phone.json](./398485-dont-forget-the-phone.json) |
 | Don't Fraud My Heart! | 213306 | [213306-dont-fraud-my-heart.json](./213306-dont-fraud-my-heart.json) |
 | Don't freak out | 191069 | [191069-dont-freak-out.json](./191069-dont-freak-out.json) |
@@ -11377,6 +11380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
 | Downstairs 2 Nightfall | 367737 | [367737-downstairs-2-nightfall.json](./367737-downstairs-2-nightfall.json) |
 | Downstairs at Grandma's House | 113832 | [113832-downstairs-at-grandmas-house.json](./113832-downstairs-at-grandmas-house.json) |
+| DownStream : VR Whitewater Kayaking | 113765 | [113765-downstream-vr-whitewater-kayaking.json](./113765-downstream-vr-whitewater-kayaking.json) |
 | Downtown | 174110 | [174110-downtown.json](./174110-downtown.json) |
 | Downtown | 354573 | [354573-downtown.json](./354573-downtown.json) |
 | Downtown | 98761 | [98761-downtown.json](./98761-downtown.json) |
@@ -12243,6 +12247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest: Monster Parade | 55959 | [55959-dragon-quest-monster-parade.json](./55959-dragon-quest-monster-parade.json) |
 | Dragon Quest: The Adventure of Dai - A Hero's Bonds | 174673 | [174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json](./174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json) |
 | Dragon Quiz | 73196 | [73196-dragon-quiz.json](./73196-dragon-quiz.json) |
+| Dragon Racer | 113791 | [113791-dragon-racer.json](./113791-dragon-racer.json) |
 | Dragon Rage | 32159 | [32159-dragon-rage.json](./32159-dragon-rage.json) |
 | Dragon Rage | 76977 | [76977-dragon-rage.json](./76977-dragon-rage.json) |
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
