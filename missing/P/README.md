@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
 | PBA Bowling | 75210 | [75210-pba-bowling.json](./75210-pba-bowling.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
+| PBA Bowling Challenge | 88864 | [88864-pba-bowling-challenge.json](./88864-pba-bowling-challenge.json) |
 | PBA Pro Bowling 2021 | 142172 | [142172-pba-pro-bowling-2021.json](./142172-pba-pro-bowling-2021.json) |
 | PBA Pro Bowling 2026 | 369592 | [369592-pba-pro-bowling-2026.json](./369592-pba-pro-bowling-2026.json) |
 | PBA Pro Bowling 2027 | 416842 | [416842-pba-pro-bowling-2027.json](./416842-pba-pro-bowling-2027.json) |
@@ -8452,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Player: Bubble Bobble | 245544 | [245544-pocket-player-bubble-bobble.json](./245544-pocket-player-bubble-bobble.json) |
 | Pocket Player: Dig Dug | 275241 | [275241-pocket-player-dig-dug.json](./275241-pocket-player-dig-dug.json) |
 | Pocket Player: Pac-Man | 233036 | [233036-pocket-player-pac-man.json](./233036-pocket-player-pac-man.json) |
+| Pocket Politics | 88860 | [88860-pocket-politics.json](./88860-pocket-politics.json) |
 | Pocket Pool | 21618 | [21618-pocket-pool.json](./21618-pocket-pool.json) |
 | Pocket Pool | 225877 | [225877-pocket-pool.json](./225877-pocket-pool.json) |
 | Pocket Pool: Adventure | 248724 | [248724-pocket-pool-adventure.json](./248724-pocket-pool-adventure.json) |
