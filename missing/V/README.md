@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viral Complex | 236867 | [236867-viral-complex.json](./236867-viral-complex.json) |
 | Viral Cry | 87821 | [87821-viral-cry.json](./87821-viral-cry.json) |
 | Viral Descent | 408705 | [408705-viral-descent.json](./408705-viral-descent.json) |
+| Viral EX | 43114 | [43114-viral-ex.json](./43114-viral-ex.json) |
 | Viral Fear | 258400 | [258400-viral-fear.json](./258400-viral-fear.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
 | Viral Hunters | 390204 | [390204-viral-hunters.json](./390204-viral-hunters.json) |
