@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneshot Voca | 92400 | [92400-oneshot-voca.json](./92400-oneshot-voca.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
 | OneShot: Frostide | 327023 | [327023-oneshot-frostide.json](./327023-oneshot-frostide.json) |
+| OneShot: Solstice | 408574 | [408574-oneshot-solstice.json](./408574-oneshot-solstice.json) |
 | OneShot: The Pancake Episode | 307795 | [307795-oneshot-the-pancake-episode.json](./307795-oneshot-the-pancake-episode.json) |
 | OneShot: The Tarion Machine | 222764 | [222764-oneshot-the-tarion-machine.json](./222764-oneshot-the-tarion-machine.json) |
 | OneShot: World Machine Edition | 200905 | [200905-oneshot-world-machine-edition.json](./200905-oneshot-world-machine-edition.json) |
@@ -3395,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organic Dissociation | 271298 | [271298-organic-dissociation.json](./271298-organic-dissociation.json) |
 | Organic Engine | 212794 | [212794-organic-engine.json](./212794-organic-engine.json) |
 | Organic Engine Escape | 315675 | [315675-organic-engine-escape.json](./315675-organic-engine-escape.json) |
+| Organic Evolution | 408603 | [408603-organic-evolution.json](./408603-organic-evolution.json) |
 | Organic Panic | 36418 | [36418-organic-panic.json](./36418-organic-panic.json) |
 | Organism 8 | 107749 | [107749-organism-8.json](./107749-organism-8.json) |
 | Organization Master | 216098 | [216098-organization-master.json](./216098-organization-master.json) |
