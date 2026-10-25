@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
 | 2021: Moon Escape | 246869 | [246869-2021-moon-escape.json](./246869-2021-moon-escape.json) |
 | 2022 A Doom Odyssey | 258889 | [258889-2022-a-doom-odyssey.json](./258889-2022-a-doom-odyssey.json) |
+| 2022 SURVIVAL GUIDE | 394422 | [394422-2022-survival-guide.json](./394422-2022-survival-guide.json) |
 | 2023: Alien Bugs Invade Earth | 367716 | [367716-2023-alien-bugs-invade-earth.json](./367716-2023-alien-bugs-invade-earth.json) |
 | 2024: Mosaic Retrospective | 327347 | [327347-2024-mosaic-retrospective.json](./327347-2024-mosaic-retrospective.json) |
 | 2025 | 358068 | [358068-2025.json](./358068-2025.json) |
@@ -1557,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Platformer Game (Toy Factory) | 184282 | [184282-2d-platformer-game-toy-factory.json](./184282-2d-platformer-game-toy-factory.json) |
 | 2D Top Racing | 304445 | [304445-2d-top-racing.json](./304445-2d-top-racing.json) |
+| 2D Ver. Mega Man Legends 3: The Prologue! | 394414 | [394414-2d-ver-mega-man-legends-3-the-prologue.json](./394414-2d-ver-mega-man-legends-3-the-prologue.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2Dark | 26847 | [26847-2dark.json](./26847-2dark.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
@@ -2468,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 | 45576 | [45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json](./45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json) |
 | 600Seconds: The Deep Church | 164079 | [164079-600seconds-the-deep-church.json](./164079-600seconds-the-deep-church.json) |
 | 60FPS Kitten | 252549 | [252549-60fps-kitten.json](./252549-60fps-kitten.json) |
+| 615≠0 Repost Request | 394069 | [394069-615-0-repost-request.json](./394069-615-0-repost-request.json) |
 | 6180 The Moon | 11435 | [11435-6180-the-moon.json](./11435-6180-the-moon.json) |
 | 625 Sandwich Stacker | 133765 | [133765-625-sandwich-stacker.json](./133765-625-sandwich-stacker.json) |
 | 63 Days: The Home Army Edition | 323899 | [323899-63-days-the-home-army-edition.json](./323899-63-days-the-home-army-edition.json) |
