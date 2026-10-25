@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
 | Capitaland | 415843 | [415843-capitaland.json](./415843-capitaland.json) |
 | Capitale | 330772 | [330772-capitale.json](./330772-capitale.json) |
+| Capitalism | 9210 | [9210-capitalism.json](./9210-capitalism.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalism Lab | 27295 | [27295-capitalism-lab.json](./27295-capitalism-lab.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
@@ -4591,6 +4592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2: Scandinavian Leagues | 68737 | [68737-championship-manager-2-scandinavian-leagues.json](./68737-championship-manager-2-scandinavian-leagues.json) |
+| Championship Manager 2007 | 14887 | [14887-championship-manager-2007.json](./14887-championship-manager-2007.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager 2009 | 64883 | [64883-championship-manager-2009.json](./64883-championship-manager-2009.json) |
 | Championship Manager 2010 | 14888 | [14888-championship-manager-2010.json](./14888-championship-manager-2010.json) |
@@ -10958,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the Realms | 422488 | [422488-conquest-of-the-realms.json](./422488-conquest-of-the-realms.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | Conquest Tactics: Realm of Sin | 322448 | [322448-conquest-tactics-realm-of-sin.json](./322448-conquest-tactics-realm-of-sin.json) |
+| Conquest: Frontier Wars | 11278 | [11278-conquest-frontier-wars.json](./11278-conquest-frontier-wars.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
 | Conquest! | 19120 | [19120-conquest.json](./19120-conquest.json) |
@@ -13929,7 +13932,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimebot | 398261 | [398261-crimebot.json](./398261-crimebot.json) |
 | CrimeBot 2: Unsolved Cold Case | 324862 | [324862-crimebot-2-unsolved-cold-case.json](./324862-crimebot-2-unsolved-cold-case.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
+| CrimeCraft | 15040 | [15040-crimecraft.json](./15040-crimecraft.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
+| CrimeCraft: GangWars | 15005 | [15005-crimecraft-gangwars.json](./15005-crimecraft-gangwars.json) |
 | CrimeCrew | 23977 | [23977-crimecrew.json](./23977-crimecrew.json) |
 | Crimes Against Slimes | 322649 | [322649-crimes-against-slimes.json](./322649-crimes-against-slimes.json) |
 | Crimes of Passion | 313795 | [313795-crimes-of-passion.json](./313795-crimes-of-passion.json) |
@@ -16460,6 +16465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Troopers Virtual-On Force | 6951 | [6951-cyber-troopers-virtual-on-force.json](./6951-cyber-troopers-virtual-on-force.json) |
 | Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
 | Cyber Troopers Virtual-On Masterpiece 1995 - 2001 | 126474 | [126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json](./126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json) |
+| Cyber Troopers Virtual-On Oratorio Tangram | 9190 | [9190-cyber-troopers-virtual-on-oratorio-tangram.json](./9190-cyber-troopers-virtual-on-oratorio-tangram.json) |
 | Cyber Troopers Virtual-On: Oratorio Tangram - M.S.B.S. Ver. 5.66 | 172535 | [172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json](./172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json) |
 | Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki | 144179 | [144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json](./144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
