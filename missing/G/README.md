@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabrielle's Ghostly Groove 3D | 23520 | [23520-gabrielles-ghostly-groove-3d.json](./23520-gabrielles-ghostly-groove-3d.json) |
 | Gabrielle's Ghostly Groove Mini | 85159 | [85159-gabrielles-ghostly-groove-mini.json](./85159-gabrielles-ghostly-groove-mini.json) |
 | Gabrielle's Ghostly Groove: Monster Mix | 23666 | [23666-gabrielles-ghostly-groove-monster-mix.json](./23666-gabrielles-ghostly-groove-monster-mix.json) |
+| Gabrielle's Monstrous Duel | 420184 | [420184-gabrielles-monstrous-duel.json](./420184-gabrielles-monstrous-duel.json) |
 | Gabyouden | 375381 | [375381-gabyouden.json](./375381-gabyouden.json) |
 | Gacha Addict Simulator | 326198 | [326198-gacha-addict-simulator.json](./326198-gacha-addict-simulator.json) |
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Drift | 164957 | [164957-galaxy-drift.json](./164957-galaxy-drift.json) |
 | Galaxy Dungeon | 295939 | [295939-galaxy-dungeon.json](./295939-galaxy-dungeon.json) |
 | Galaxy Dwellers | 254693 | [254693-galaxy-dwellers.json](./254693-galaxy-dwellers.json) |
+| Galaxy Exodus | 420218 | [420218-galaxy-exodus.json](./420218-galaxy-exodus.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Fight Club | 198340 | [198340-galaxy-fight-club.json](./198340-galaxy-fight-club.json) |
 | Galaxy Fight: Universal Warriors | 39531 | [39531-galaxy-fight-universal-warriors.json](./39531-galaxy-fight-universal-warriors.json) |
@@ -2694,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometric Sniper Bundle | 297314 | [297314-geometric-sniper-bundle.json](./297314-geometric-sniper-bundle.json) |
 | Geometric Sniper Z | 163944 | [163944-geometric-sniper-z.json](./163944-geometric-sniper-z.json) |
 | Geometric Sniper: Blood in Paris | 157970 | [157970-geometric-sniper-blood-in-paris.json](./157970-geometric-sniper-blood-in-paris.json) |
+| Geometrical Dash | 420189 | [420189-geometrical-dash.json](./420189-geometrical-dash.json) |
 | GeometricMadness | 184897 | [184897-geometricmadness.json](./184897-geometricmadness.json) |
 | Geometrix | 159728 | [159728-geometrix.json](./159728-geometrix.json) |
 | Geometry Arena | 152133 | [152133-geometry-arena.json](./152133-geometry-arena.json) |
@@ -5881,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorasul: Legacy of the Dragon | 22053 | [22053-gorasul-legacy-of-the-dragon.json](./22053-gorasul-legacy-of-the-dragon.json) |
 | Gorathar | 262339 | [262339-gorathar.json](./262339-gorathar.json) |
 | Gorb | 29029 | [29029-gorb.json](./29029-gorb.json) |
+| Gorb Goes to Philadelphia | 420195 | [420195-gorb-goes-to-philadelphia.json](./420195-gorb-goes-to-philadelphia.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gorby no Pipeline Daisakusen | 48481 | [48481-gorby-no-pipeline-daisakusen.json](./48481-gorby-no-pipeline-daisakusen.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
