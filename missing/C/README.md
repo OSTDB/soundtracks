@@ -2804,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
 | Castle Flipper | 111425 | [111425-castle-flipper.json](./111425-castle-flipper.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
+| Castle Frankenstein | 391290 | [391290-castle-frankenstein.json](./391290-castle-frankenstein.json) |
 | Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
 | Castle Guard | 42152 | [42152-castle-guard.json](./42152-castle-guard.json) |
 | Castle Guard: Tower Defence | 212637 | [212637-castle-guard-tower-defence.json](./212637-castle-guard-tower-defence.json) |
@@ -4196,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Impact Invasion | 284811 | [284811-celestial-impact-invasion.json](./284811-celestial-impact-invasion.json) |
 | Celestial Kingdom | 313407 | [313407-celestial-kingdom.json](./313407-celestial-kingdom.json) |
 | Celestial Links | 186251 | [186251-celestial-links.json](./186251-celestial-links.json) |
+| Celestial Lumina | 391241 | [391241-celestial-lumina.json](./391241-celestial-lumina.json) |
 | Celestial Orbiter Auranova: Those Who Denounce God | 325643 | [325643-celestial-orbiter-auranova-those-who-denounce-god.json](./325643-celestial-orbiter-auranova-those-who-denounce-god.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
 | Celestial Raider | 243588 | [243588-celestial-raider.json](./243588-celestial-raider.json) |
@@ -11915,6 +11917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Coralium | 297840 | [297840-coralium.json](./297840-coralium.json) |
 | Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
+| Coraroc | 391240 | [391240-coraroc.json](./391240-coraroc.json) |
 | CorAstral | 345685 | [345685-corastral.json](./345685-corastral.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
