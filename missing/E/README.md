@@ -1051,15 +1051,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
 | Edge of Reality | 70850 | [70850-edge-of-reality.json](./70850-edge-of-reality.json) |
 | Edge of Reality Visual Novel | 117551 | [117551-edge-of-reality-visual-novel.json](./117551-edge-of-reality-visual-novel.json) |
+| Edge of Reality: Call of the Hills | 397148 | [397148-edge-of-reality-call-of-the-hills.json](./397148-edge-of-reality-call-of-the-hills.json) |
 | Edge of Reality: Call of the Hills - Collector's Edition | 397149 | [397149-edge-of-reality-call-of-the-hills-collectors-edition.json](./397149-edge-of-reality-call-of-the-hills-collectors-edition.json) |
+| Edge of Reality: Fatal Luck | 397142 | [397142-edge-of-reality-fatal-luck.json](./397142-edge-of-reality-fatal-luck.json) |
 | Edge of Reality: Fatal Luck - Collector's Edition | 397143 | [397143-edge-of-reality-fatal-luck-collectors-edition.json](./397143-edge-of-reality-fatal-luck-collectors-edition.json) |
+| Edge of Reality: Great Deeds | 397146 | [397146-edge-of-reality-great-deeds.json](./397146-edge-of-reality-great-deeds.json) |
+| Edge of Reality: Hunter's Legacy | 397144 | [397144-edge-of-reality-hunters-legacy.json](./397144-edge-of-reality-hunters-legacy.json) |
 | Edge of Reality: Hunter's Legacy - Collector's Edition | 397145 | [397145-edge-of-reality-hunters-legacy-collectors-edition.json](./397145-edge-of-reality-hunters-legacy-collectors-edition.json) |
+| Edge of Reality: Island of Shadows | 397152 | [397152-edge-of-reality-island-of-shadows.json](./397152-edge-of-reality-island-of-shadows.json) |
 | Edge of Reality: Island of Shadows - Collector's Edition | 397153 | [397153-edge-of-reality-island-of-shadows-collectors-edition.json](./397153-edge-of-reality-island-of-shadows-collectors-edition.json) |
 | Edge of Reality: Lethal Predictions | 88995 | [88995-edge-of-reality-lethal-predictions.json](./88995-edge-of-reality-lethal-predictions.json) |
 | Edge of Reality: Lethal Predictions - Collector's Edition | 397141 | [397141-edge-of-reality-lethal-predictions-collectors-edition.json](./397141-edge-of-reality-lethal-predictions-collectors-edition.json) |
+| Edge of Reality: Lost Secrets of the Forest | 397150 | [397150-edge-of-reality-lost-secrets-of-the-forest.json](./397150-edge-of-reality-lost-secrets-of-the-forest.json) |
 | Edge of Reality: Mark of Fate | 187904 | [187904-edge-of-reality-mark-of-fate.json](./187904-edge-of-reality-mark-of-fate.json) |
 | Edge of Reality: Mark of Fate - Collector's Edition | 397147 | [397147-edge-of-reality-mark-of-fate-collectors-edition.json](./397147-edge-of-reality-mark-of-fate-collectors-edition.json) |
 | Edge of Reality: Ring of Destiny - Collector's Edition | 397139 | [397139-edge-of-reality-ring-of-destiny-collectors-edition.json](./397139-edge-of-reality-ring-of-destiny-collectors-edition.json) |
+| Edge of Reality: The Legend of Greenbush | 397151 | [397151-edge-of-reality-the-legend-of-greenbush.json](./397151-edge-of-reality-the-legend-of-greenbush.json) |
 | Edge of Sanity | 214504 | [214504-edge-of-sanity.json](./214504-edge-of-sanity.json) |
 | Edge of Sanity: Supporter Pack | 324416 | [324416-edge-of-sanity-supporter-pack.json](./324416-edge-of-sanity-supporter-pack.json) |
 | Edge of Soul: Ragnarok | 284919 | [284919-edge-of-soul-ragnarok.json](./284919-edge-of-soul-ragnarok.json) |
