@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oids | 15328 | [15328-oids.json](./15328-oids.json) |
 | Oiia The Game | 346198 | [346198-oiia-the-game.json](./346198-oiia-the-game.json) |
 | Oik | 27338 | [27338-oik.json](./27338-oik.json) |
+| Oik 2 | 29078 | [29078-oik-2.json](./29078-oik-2.json) |
 | Oik 3 | 74196 | [74196-oik-3.json](./74196-oik-3.json) |
 | Oik 4 | 104564 | [104564-oik-4.json](./104564-oik-4.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
@@ -4543,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdose | 337695 | [337695-overdose.json](./337695-overdose.json) |
 | Overdose Delusion | 277493 | [277493-overdose-delusion.json](./277493-overdose-delusion.json) |
 | Overdosed VR | 152992 | [152992-overdosed-vr.json](./152992-overdosed-vr.json) |
+| Overdosed: A Trip to Hell | 19881 | [19881-overdosed-a-trip-to-hell.json](./19881-overdosed-a-trip-to-hell.json) |
 | Overdox | 130682 | [130682-overdox.json](./130682-overdox.json) |
 | OverDrift Festival | 155984 | [155984-overdrift-festival.json](./155984-overdrift-festival.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
