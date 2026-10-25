@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Collection | 136183 | [136183-call-of-duty-black-ops-collection.json](./136183-call-of-duty-black-ops-collection.json) |
 | Call of Duty: Black Ops II - Apocalypse | 21686 | [21686-call-of-duty-black-ops-ii-apocalypse.json](./21686-call-of-duty-black-ops-ii-apocalypse.json) |
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
+| Call of Duty: Black Ops II - Digital Deluxe Edition | 11202 | [11202-call-of-duty-black-ops-ii-digital-deluxe-edition.json](./11202-call-of-duty-black-ops-ii-digital-deluxe-edition.json) |
 | Call of Duty: Black Ops II - Nuketown 2025 | 295256 | [295256-call-of-duty-black-ops-ii-nuketown-2025.json](./295256-call-of-duty-black-ops-ii-nuketown-2025.json) |
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
 | Call of Duty: Black Ops II - Revolution | 20153 | [20153-call-of-duty-black-ops-ii-revolution.json](./20153-call-of-duty-black-ops-ii-revolution.json) |
@@ -2095,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo | 222774 | [222774-cargo.json](./222774-cargo.json) |
 | Cargo | 312566 | [312566-cargo.json](./312566-cargo.json) |
 | Cargo 19 | 325632 | [325632-cargo-19.json](./325632-cargo-19.json) |
+| Cargo 3 | 17752 | [17752-cargo-3.json](./17752-cargo-3.json) |
 | Cargo Breach | 372575 | [372575-cargo-breach.json](./372575-cargo-breach.json) |
 | Cargo Breach | 72511 | [72511-cargo-breach.json](./72511-cargo-breach.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
@@ -3954,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caverns of Minos | 22681 | [22681-caverns-of-minos.json](./22681-caverns-of-minos.json) |
 | Caverns of the Lost Miner | 391799 | [391799-caverns-of-the-lost-miner.json](./391799-caverns-of-the-lost-miner.json) |
+| Caverns of the Snow Witch | 17871 | [17871-caverns-of-the-snow-witch.json](./17871-caverns-of-the-snow-witch.json) |
 | Caverns of Titan | 47550 | [47550-caverns-of-titan.json](./47550-caverns-of-titan.json) |
 | Caverns of Toros | 226750 | [226750-caverns-of-toros.json](./226750-caverns-of-toros.json) |
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
@@ -4817,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos;Head Noah / Chaos;Child Double Pack | 194326 | [194326-chaos-head-noah-chaos-child-double-pack.json](./194326-chaos-head-noah-chaos-child-double-pack.json) |
 | Chaos;Head Noah / Chaos;Child Double Pack: SteelBook Launch Edition | 194407 | [194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json](./194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json) |
 | Chaos: Immortal Era | 224081 | [224081-chaos-immortal-era.json](./224081-chaos-immortal-era.json) |
+| Chaos: In the Darkness | 17767 | [17767-chaos-in-the-darkness.json](./17767-chaos-in-the-darkness.json) |
 | Chaosground: The Siege for Freedom | 206435 | [206435-chaosground-the-siege-for-freedom.json](./206435-chaosground-the-siege-for-freedom.json) |
 | Chāoshí Kōng zhī Lún | 281408 | [281408-chaoshi-kong-zhi-lun.json](./281408-chaoshi-kong-zhi-lun.json) |
 | ChaosTower | 120326 | [120326-chaostower.json](./120326-chaostower.json) |
@@ -5863,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the Forest | 271645 | [271645-children-of-the-forest.json](./271645-children-of-the-forest.json) |
 | Children of the Galaxy | 30304 | [30304-children-of-the-galaxy.json](./30304-children-of-the-galaxy.json) |
 | Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
+| Children of the Nile: Alexandria | 11273 | [11273-children-of-the-nile-alexandria.json](./11273-children-of-the-nile-alexandria.json) |
 | Children of the Nile: Enhanced Edition | 27834 | [27834-children-of-the-nile-enhanced-edition.json](./27834-children-of-the-nile-enhanced-edition.json) |
 | Children of the Spring | 363155 | [363155-children-of-the-spring.json](./363155-children-of-the-spring.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
@@ -9102,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeRed 911 | 334943 | [334943-codered-911.json](./334943-codered-911.json) |
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
 | CodeRunner | 200029 | [200029-coderunner.json](./200029-coderunner.json) |
+| CodeSpells | 17861 | [17861-codespells.json](./17861-codespells.json) |
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
