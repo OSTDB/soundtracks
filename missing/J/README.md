@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jia Ran er Zhi De Yin Fu | 188415 | [188415-jia-ran-er-zhi-de-yin-fu.json](./188415-jia-ran-er-zhi-de-yin-fu.json) |
 | Jian Po | 119700 | [119700-jian-po.json](./119700-jian-po.json) |
 | Jian Wang 3: Heavy Plate | 76953 | [76953-jian-wang-3-heavy-plate.json](./76953-jian-wang-3-heavy-plate.json) |
+| Jiàn Wǔ Xuánhuàn Zhī Lǚ | 407752 | [407752-jian-wu-xuanhuan-zhi-lu.json](./407752-jian-wu-xuanhuan-zhi-lu.json) |
 | Jiàn Xiá Qíngyuán Wàizhuàn: Yuè Yǐng Chuánshuō | 350567 | [350567-jian-xia-qingyuan-waizhuan-yue-ying-chuanshuo.json](./350567-jian-xia-qingyuan-waizhuan-yue-ying-chuanshuo.json) |
 | Jian Xiao Travel | 303325 | [303325-jian-xiao-travel.json](./303325-jian-xiao-travel.json) |
 | Jiānchén Xǐyuān Lù | 395114 | [395114-jianchen-xiyuan-lu.json](./395114-jianchen-xiyuan-lu.json) |
