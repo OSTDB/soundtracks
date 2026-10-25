@@ -10291,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comix Breaker | 174262 | [174262-comix-breaker.json](./174262-comix-breaker.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
 | Comix Zone | 3071 | [3071-comix-zone.json](./3071-comix-zone.json) |
+| ComixPlay #1: The Endless Incident | 33923 | [33923-comixplay-1-the-endless-incident.json](./33923-comixplay-1-the-endless-incident.json) |
 | Comixxx Desires | 187146 | [187146-comixxx-desires.json](./187146-comixxx-desires.json) |
 | Comixxx Duality | 196141 | [196141-comixxx-duality.json](./196141-comixxx-duality.json) |
 | Comixxx Flirtatious | 379647 | [379647-comixxx-flirtatious.json](./379647-comixxx-flirtatious.json) |
@@ -12182,6 +12183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Tankinator | 292548 | [292548-cosmic-tankinator.json](./292548-cosmic-tankinator.json) |
 | Cosmic Tempest | 368603 | [368603-cosmic-tempest.json](./368603-cosmic-tempest.json) |
 | Cosmic Trail | 75818 | [75818-cosmic-trail.json](./75818-cosmic-trail.json) |
+| Cosmic Trip | 33897 | [33897-cosmic-trip.json](./33897-cosmic-trip.json) |
 | Cosmic Trip: Deluxe Edition | 52825 | [52825-cosmic-trip-deluxe-edition.json](./52825-cosmic-trip-deluxe-edition.json) |
 | Cosmic Tunnels | 23899 | [23899-cosmic-tunnels.json](./23899-cosmic-tunnels.json) |
 | Cosmic Ultramarine | 339326 | [339326-cosmic-ultramarine.json](./339326-cosmic-ultramarine.json) |
@@ -13445,6 +13447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Foods | 152640 | [152640-crazy-foods.json](./152640-crazy-foods.json) |
 | Crazy Foota | 92936 | [92936-crazy-foota.json](./92936-crazy-foota.json) |
 | Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
+| Crazy Forest | 32814 | [32814-crazy-forest.json](./32814-crazy-forest.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Freekick | 233555 | [233555-crazy-freekick.json](./233555-crazy-freekick.json) |
 | Crazy Frog Arcade Racer | 43226 | [43226-crazy-frog-arcade-racer.json](./43226-crazy-frog-arcade-racer.json) |
