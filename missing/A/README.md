@@ -3028,7 +3028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3834,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Primal Fury | 288837 | [288837-age-of-wonders-4-primal-fury.json](./288837-age-of-wonders-4-primal-fury.json) |
 | Age of Wonders 4: Rise from Ruin | 371022 | [371022-age-of-wonders-4-rise-from-ruin.json](./371022-age-of-wonders-4-rise-from-ruin.json) |
 | Age of Wonders 4: Secrets of the Archmages | 371021 | [371021-age-of-wonders-4-secrets-of-the-archmages.json](./371021-age-of-wonders-4-secrets-of-the-archmages.json) |
+| Age of Wonders 4: Starter Edition | 405852 | [405852-age-of-wonders-4-starter-edition.json](./405852-age-of-wonders-4-starter-edition.json) |
 | Age of Wonders 4: Thrones of Blood | 371023 | [371023-age-of-wonders-4-thrones-of-blood.json](./371023-age-of-wonders-4-thrones-of-blood.json) |
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
 | Age of Wonders III: Deluxe Edition | 51696 | [51696-age-of-wonders-iii-deluxe-edition.json](./51696-age-of-wonders-iii-deluxe-edition.json) |
@@ -5885,6 +5885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Guns on Deck | 17681 | [17681-all-guns-on-deck.json](./17681-all-guns-on-deck.json) |
 | All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
 | All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
+| All Hallows | 405774 | [405774-all-hallows.json](./405774-all-hallows.json) |
 | All Hallows Evie | 215530 | [215530-all-hallows-evie.json](./215530-all-hallows-evie.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All Hell Unleashed | 340581 | [340581-all-hell-unleashed.json](./340581-all-hell-unleashed.json) |
