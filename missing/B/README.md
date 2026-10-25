@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3552,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleForte | 25937 | [25937-battleforte.json](./25937-battleforte.json) |
 | Battlefront | 28708 | [28708-battlefront.json](./28708-battlefront.json) |
 | Battlefront Expanded | 333904 | [333904-battlefront-expanded.json](./333904-battlefront-expanded.json) |
+| Battlefront Heroes | 394817 | [394817-battlefront-heroes.json](./394817-battlefront-heroes.json) |
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
 | Battlefront+ | 327160 | [327160-battlefront.json](./327160-battlefront.json) |
 | BattleGlide | 301113 | [301113-battleglide.json](./301113-battleglide.json) |
@@ -5952,6 +5954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi und Tina: Fohlen "Felix" in Gefahr | 86210 | [86210-bibi-und-tina-fohlen-felix-in-gefahr.json](./86210-bibi-und-tina-fohlen-felix-in-gefahr.json) |
 | BiBi World | 174710 | [174710-bibi-world.json](./174710-bibi-world.json) |
 | Bibidi Bibidi! | 352229 | [352229-bibidi-bibidi.json](./352229-bibidi-bibidi.json) |
+| Bibimba wo Mazesaseruna 2 | 394578 | [394578-bibimba-wo-mazesaseruna-2.json](./394578-bibimba-wo-mazesaseruna-2.json) |
 | Bible Black: The Infection | 72571 | [72571-bible-black-the-infection.json](./72571-bible-black-the-infection.json) |
 | Bible Buffet | 11163 | [11163-bible-buffet.json](./11163-bible-buffet.json) |
 | Bible Games: Mission of Paul | 106937 | [106937-bible-games-mission-of-paul.json](./106937-bible-games-mission-of-paul.json) |
@@ -8330,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
 | Blightbound | 133932 | [133932-blightbound.json](./133932-blightbound.json) |
 | Blighted | 347662 | [347662-blighted.json](./347662-blighted.json) |
+| Blighten | 394698 | [394698-blighten.json](./394698-blighten.json) |
 | Blightened | 347800 | [347800-blightened.json](./347800-blightened.json) |
 | Blightfall | 414415 | [414415-blightfall.json](./414415-blightfall.json) |
 | Blightfell | 375311 | [375311-blightfell.json](./375311-blightfell.json) |
