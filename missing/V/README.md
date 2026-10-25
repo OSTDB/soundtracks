@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vatnik Simulator - A Russian Patriot Game | 103814 | [103814-vatnik-simulator-a-russian-patriot-game.json](./103814-vatnik-simulator-a-russian-patriot-game.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vattle Giuce | 57526 | [57526-vattle-giuce.json](./57526-vattle-giuce.json) |
+| Vault 1080 | 389164 | [389164-vault-1080.json](./389164-vault-1080.json) |
 | Vault Apocalypsis | 264529 | [264529-vault-apocalypsis.json](./264529-vault-apocalypsis.json) |
 | Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
 | Vault Breaker | 63194 | [63194-vault-breaker.json](./63194-vault-breaker.json) |
