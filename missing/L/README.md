@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Ange et le Demon | 202682 | [202682-lange-et-le-demon.json](./202682-lange-et-le-demon.json) |
 | L'Angolo Di Farenz: Avventure Vampiresche | 256922 | [256922-langolo-di-farenz-avventure-vampiresche.json](./256922-langolo-di-farenz-avventure-vampiresche.json) |
 | L'Artisan Meurtrier | 329060 | [329060-lartisan-meurtrier.json](./329060-lartisan-meurtrier.json) |
+| L’Automne | 394586 | [394586-l-automne.json](./394586-l-automne.json) |
 | L'Avancée du Désert | 203841 | [203841-lavancee-du-desert.json](./203841-lavancee-du-desert.json) |
 | L'Cestrue Seyuntres | 128451 | [128451-lcestrue-seyuntres.json](./128451-lcestrue-seyuntres.json) |
 | L'Empereur | 85737 | [85737-lempereur.json](./85737-lempereur.json) |
@@ -695,6 +696,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lang Ops: Blank Canvas | 403126 | [403126-lang-ops-blank-canvas.json](./403126-lang-ops-blank-canvas.json) |
 | Lang Ops: Corrupted Files | 403125 | [403125-lang-ops-corrupted-files.json](./403125-lang-ops-corrupted-files.json) |
 | Lang Ops: Greek | 289237 | [289237-lang-ops-greek.json](./289237-lang-ops-greek.json) |
+| Lang Ops: Korean | 393909 | [393909-lang-ops-korean.json](./393909-lang-ops-korean.json) |
+| Lang Ops: Lost in Woods | 393910 | [393910-lang-ops-lost-in-woods.json](./393910-lang-ops-lost-in-woods.json) |
 | Langit Lupa: Office Wars | 382390 | [382390-langit-lupa-office-wars.json](./382390-langit-lupa-office-wars.json) |
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
 | Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
@@ -2295,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Slide | 261781 | [261781-legendary-slide.json](./261781-legendary-slide.json) |
 | Legendary Slide 2: Platinum Edition | 266814 | [266814-legendary-slide-2-platinum-edition.json](./266814-legendary-slide-2-platinum-edition.json) |
 | Legendary Spell: Deluxe Edition | 395679 | [395679-legendary-spell-deluxe-edition.json](./395679-legendary-spell-deluxe-edition.json) |
+| Legendary Spell: Spell Panic | 393901 | [393901-legendary-spell-spell-panic.json](./393901-legendary-spell-spell-panic.json) |
 | Legendary Sword | 193643 | [193643-legendary-sword.json](./193643-legendary-sword.json) |
 | Legendary Tales | 157175 | [157175-legendary-tales.json](./157175-legendary-tales.json) |
 | Legendary Tales V: Price of Power - Collector's Edition | 416783 | [416783-legendary-tales-v-price-of-power-collectors-edition.json](./416783-legendary-tales-v-price-of-power-collectors-edition.json) |
@@ -4067,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out | 393161 | [393161-lights-out.json](./393161-lights-out.json) |
 | Lights Out Luigi | 323285 | [323285-lights-out-luigi.json](./323285-lights-out-luigi.json) |
 | Lights Out, Please | 128827 | [128827-lights-out-please.json](./128827-lights-out-please.json) |
+| Lights Out, Run | 394678 | [394678-lights-out-run.json](./394678-lights-out-run.json) |
 | Lights Out! | 376190 | [376190-lights-out.json](./376190-lights-out.json) |
 | Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
 | Lightsaver | 388384 | [388384-lightsaver.json](./388384-lightsaver.json) |
@@ -5965,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loner's Spell | 182967 | [182967-loners-spell.json](./182967-loners-spell.json) |
 | Lones | 285331 | [285331-lones.json](./285331-lones.json) |
 | Lonesome Road | 349408 | [349408-lonesome-road.json](./349408-lonesome-road.json) |
+| Lonesome Town | 394660 | [394660-lonesome-town.json](./394660-lonesome-town.json) |
 | LoneStar | 264933 | [264933-lonestar.json](./264933-lonestar.json) |
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
 | Lonewolf: Zombie FPS 3D | 240939 | [240939-lonewolf-zombie-fps-3d.json](./240939-lonewolf-zombie-fps-3d.json) |
@@ -7052,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Guillotines | 195629 | [195629-love-and-guillotines.json](./195629-love-and-guillotines.json) |
 | Love and Hate | 393776 | [393776-love-and-hate.json](./393776-love-and-hate.json) |
 | Love and Job! Otona no Jijou | 232849 | [232849-love-and-job-otona-no-jijou.json](./232849-love-and-job-otona-no-jijou.json) |
+| Love and Legends | 393889 | [393889-love-and-legends.json](./393889-love-and-legends.json) |
 | Love and Lies: Teen Romance Love Story Game | 102555 | [102555-love-and-lies-teen-romance-love-story-game.json](./102555-love-and-lies-teen-romance-love-story-game.json) |
 | Love and Order | 35731 | [35731-love-and-order.json](./35731-love-and-order.json) |
 | Love and Passion | 224506 | [224506-love-and-passion.json](./224506-love-and-passion.json) |
