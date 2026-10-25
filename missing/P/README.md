@@ -5297,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pignator | 244137 | [244137-pignator.json](./244137-pignator.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
 | Pigs a Pop'n | 112208 | [112208-pigs-a-popn.json](./112208-pigs-a-popn.json) |
+| Pigs and Luig | 398154 | [398154-pigs-and-luig.json](./398154-pigs-and-luig.json) |
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
 | Pigs in Space | 40575 | [40575-pigs-in-space.json](./40575-pigs-in-space.json) |
 | Pigs In War - Strategy Game | 100912 | [100912-pigs-in-war-strategy-game.json](./100912-pigs-in-war-strategy-game.json) |
@@ -10870,6 +10871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Peeling | 354762 | [354762-potato-peeling.json](./354762-potato-peeling.json) |
 | Potato Sack Racing Simulator 2024 | 274581 | [274581-potato-sack-racing-simulator-2024.json](./274581-potato-sack-racing-simulator-2024.json) |
 | Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
+| Potato Simulato | 398387 | [398387-potato-simulato.json](./398387-potato-simulato.json) |
 | Potato Smash | 165409 | [165409-potato-smash.json](./165409-potato-smash.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potato Thriller | 97100 | [97100-potato-thriller.json](./97100-potato-thriller.json) |
@@ -11749,6 +11751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Forge | 117402 | [117402-primal-forge.json](./117402-primal-forge.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
 | Primal Frost | 384059 | [384059-primal-frost.json](./384059-primal-frost.json) |
+| Primal Glade | 398174 | [398174-primal-glade.json](./398174-primal-glade.json) |
 | Primal Hearts | 159312 | [159312-primal-hearts.json](./159312-primal-hearts.json) |
 | Primal Hearts | 315041 | [315041-primal-hearts.json](./315041-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
@@ -13301,6 +13304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Stocks | 273823 | [273823-project-stocks.json](./273823-project-stocks.json) |
 | Project Stormos | 62025 | [62025-project-stormos.json](./62025-project-stormos.json) |
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
+| Project Subathon: Urban Explorer | 398161 | [398161-project-subathon-urban-explorer.json](./398161-project-subathon-urban-explorer.json) |
 | Project Subtrahend | 274948 | [274948-project-subtrahend.json](./274948-project-subtrahend.json) |
 | Project Suburbion | 183829 | [183829-project-suburbion.json](./183829-project-suburbion.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
