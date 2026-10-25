@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IncreKnight | 391822 | [391822-increknight.json](./391822-increknight.json) |
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Increment | 197532 | [197532-increment.json](./197532-increment.json) |
+| Incremental Cats | 387314 | [387314-incremental-cats.json](./387314-incremental-cats.json) |
 | Incremental Dice | 319879 | [319879-incremental-dice.json](./319879-incremental-dice.json) |
 | Incremental Dungeon | 388335 | [388335-incremental-dungeon.json](./388335-incremental-dungeon.json) |
 | Incremental Epic Breakers | 163968 | [163968-incremental-epic-breakers.json](./163968-incremental-epic-breakers.json) |
