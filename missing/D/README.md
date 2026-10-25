@@ -6714,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
 | Dex Survival | 168603 | [168603-dex-survival.json](./168603-dex-survival.json) |
+| Dexfusal | 415056 | [415056-dexfusal.json](./415056-dexfusal.json) |
 | Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
 | Dexodonex | 30631 | [30631-dexodonex.json](./30631-dexodonex.json) |
 | Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
