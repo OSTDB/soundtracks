@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game 2: Drifter | 76321 | [76321-lawnmower-game-2-drifter.json](./76321-lawnmower-game-2-drifter.json) |
 | Lawnmower Game 2026 | 389001 | [389001-lawnmower-game-2026.json](./389001-lawnmower-game-2026.json) |
 | Lawnmower Game 4: The Final Cut | 117547 | [117547-lawnmower-game-4-the-final-cut.json](./117547-lawnmower-game-4-the-final-cut.json) |
+| Lawnmower Game Beer | 410012 | [410012-lawnmower-game-beer.json](./410012-lawnmower-game-beer.json) |
 | Lawnmower Game Jigsaw | 340905 | [340905-lawnmower-game-jigsaw.json](./340905-lawnmower-game-jigsaw.json) |
 | Lawnmower Game Racing 2: Drunken | 340906 | [340906-lawnmower-game-racing-2-drunken.json](./340906-lawnmower-game-racing-2-drunken.json) |
 | Lawnmower Game: 2024 | 340904 | [340904-lawnmower-game-2024.json](./340904-lawnmower-game-2024.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
 | Legacy of Svarog | 59050 | [59050-legacy-of-svarog.json](./59050-legacy-of-svarog.json) |
 | Legacy of the Ancients | 19794 | [19794-legacy-of-the-ancients.json](./19794-legacy-of-the-ancients.json) |
+| Legacy of the Ark: The Long Awakening | 410014 | [410014-legacy-of-the-ark-the-long-awakening.json](./410014-legacy-of-the-ark-the-long-awakening.json) |
 | Legacy of the Dragonborn | 356218 | [356218-legacy-of-the-dragonborn.json](./356218-legacy-of-the-dragonborn.json) |
 | Legacy of the Elder Star | 33555 | [33555-legacy-of-the-elder-star.json](./33555-legacy-of-the-elder-star.json) |
 | Legacy of the Pact | 230877 | [230877-legacy-of-the-pact.json](./230877-legacy-of-the-pact.json) |
@@ -4137,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' King | 182743 | [182743-lil-king.json](./182743-lil-king.json) |
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lil' Pirates | 92160 | [92160-lil-pirates.json](./92160-lil-pirates.json) |
+| Lil' Quests | 410005 | [410005-lil-quests.json](./410005-lil-quests.json) |
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
 | Lil' Satan's Cake Quest | 334456 | [334456-lil-satans-cake-quest.json](./334456-lil-satans-cake-quest.json) |
 | lil' Sherman | 127628 | [127628-lil-sherman.json](./127628-lil-sherman.json) |
@@ -4844,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
 | Little House | 341833 | [341833-little-house.json](./341833-little-house.json) |
 | Little Idle Monsters | 119376 | [119376-little-idle-monsters.json](./119376-little-idle-monsters.json) |
+| Little Incrementisle | 410039 | [410039-little-incrementisle.json](./410039-little-incrementisle.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
 | Little Inner Monsters | 193666 | [193666-little-inner-monsters.json](./193666-little-inner-monsters.json) |
 | Little Invasion Tales | 57441 | [57441-little-invasion-tales.json](./57441-little-invasion-tales.json) |
@@ -8179,6 +8183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Bunker | 274753 | [274753-lust-bunker.json](./274753-lust-bunker.json) |
 | Lust Campus | 251229 | [251229-lust-campus.json](./251229-lust-campus.json) |
 | Lust Company | 366236 | [366236-lust-company.json](./366236-lust-company.json) |
+| Lust Doll Plus | 410050 | [410050-lust-doll-plus.json](./410050-lust-doll-plus.json) |
 | Lust Dungeon | 209485 | [209485-lust-dungeon.json](./209485-lust-dungeon.json) |
 | Lust Effect | 384751 | [384751-lust-effect.json](./384751-lust-effect.json) |
 | Lust Element: Season 1 | 262229 | [262229-lust-element-season-1.json](./262229-lust-element-season-1.json) |
