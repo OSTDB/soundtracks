@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsui: Kizuna Jigoku-tachi | 7035 | [7035-ketsui-kizuna-jigoku-tachi.json](./7035-ketsui-kizuna-jigoku-tachi.json) |
 | Ketsui: Kizuna Jigoku-tachi DX | 214714 | [214714-ketsui-kizuna-jigoku-tachi-dx.json](./214714-ketsui-kizuna-jigoku-tachi-dx.json) |
 | Kettle | 207141 | [207141-kettle.json](./207141-kettle.json) |
+| Kettlebell: Inferno Hotel | 398369 | [398369-kettlebell-inferno-hotel.json](./398369-kettlebell-inferno-hotel.json) |
 | Ketto Majiku | 105123 | [105123-ketto-majiku.json](./105123-ketto-majiku.json) |
 | Ketu de Ganba | 97999 | [97999-ketu-de-ganba.json](./97999-ketu-de-ganba.json) |
 | Keturan | 358470 | [358470-keturan.json](./358470-keturan.json) |
@@ -2079,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Emoji | 54999 | [54999-kill-the-emoji.json](./54999-kill-the-emoji.json) |
 | Kill The Emoji 2 | 342417 | [342417-kill-the-emoji-2.json](./342417-kill-the-emoji-2.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
+| Kill The Emperor | 398173 | [398173-kill-the-emperor.json](./398173-kill-the-emperor.json) |
 | Kill the God | 258626 | [258626-kill-the-god.json](./258626-kill-the-god.json) |
 | Kill the Humans | 167269 | [167269-kill-the-humans.json](./167269-kill-the-humans.json) |
 | Kill The K.O.T.H | 261794 | [261794-kill-the-k-o-t-h.json](./261794-kill-the-k-o-t-h.json) |
@@ -2313,7 +2315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -3220,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishin Douji Zenki: Denei Raibu | 42538 | [42538-kishin-douji-zenki-denei-raibu.json](./42538-kishin-douji-zenki-denei-raibu.json) |
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
 | Kishin Hishou Demonbane | 72666 | [72666-kishin-hishou-demonbane.json](./72666-kishin-hishou-demonbane.json) |
+| Kishin Hishou Demonbane: DX Package Edition | 398160 | [398160-kishin-hishou-demonbane-dx-package-edition.json](./398160-kishin-hishou-demonbane-dx-package-edition.json) |
 | Kishin Houkou Demonbane | 203648 | [203648-kishin-houkou-demonbane.json](./203648-kishin-houkou-demonbane.json) |
 | Kishin Kourinden Oni | 37957 | [37957-kishin-kourinden-oni.json](./37957-kishin-kourinden-oni.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
