@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing in Car | 86989 | [86989-racing-in-car.json](./86989-racing-in-car.json) |
 | Racing in Car 2 | 100326 | [100326-racing-in-car-2.json](./100326-racing-in-car-2.json) |
 | Racing in Motor | 253278 | [253278-racing-in-motor.json](./253278-racing-in-motor.json) |
+| Racing Jam | 413096 | [413096-racing-jam.json](./413096-racing-jam.json) |
 | Racing Juke | 151097 | [151097-racing-juke.json](./151097-racing-juke.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Lagoon | 76182 | [76182-racing-lagoon.json](./76182-racing-lagoon.json) |
@@ -9226,6 +9227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotoCore | 414291 | [414291-rotocore.json](./414291-rotocore.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
 | Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
+| Rotolla Mono | 413020 | [413020-rotolla-mono.json](./413020-rotolla-mono.json) |
 | Rotor | 13255 | [13255-rotor.json](./13255-rotor.json) |
 | Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
 | Rotor Raiders | 44362 | [44362-rotor-raiders.json](./44362-rotor-raiders.json) |
@@ -9257,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotund Takeoff | 139303 | [139303-rotund-takeoff.json](./139303-rotund-takeoff.json) |
 | Rotund Zero | 137922 | [137922-rotund-zero.json](./137922-rotund-zero.json) |
 | Rou Niu Yang Zhi Ji Hua | 161599 | [161599-rou-niu-yang-zhi-ji-hua.json](./161599-rou-niu-yang-zhi-ji-hua.json) |
+| Roubaga | 412763 | [412763-roubaga.json](./412763-roubaga.json) |
 | Rouen | 97935 | [97935-rouen.json](./97935-rouen.json) |
 | Rouge noir | 175904 | [175904-rouge-noir.json](./175904-rouge-noir.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
