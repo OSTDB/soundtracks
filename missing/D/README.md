@@ -3813,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
 | Death Stair | 33462 | [33462-death-stair.json](./33462-death-stair.json) |
 | Death Stalker | 13579 | [13579-death-stalker.json](./13579-death-stalker.json) |
+| Death Standing | 402098 | [402098-death-standing.json](./402098-death-standing.json) |
 | Death Star | 12949 | [12949-death-star.json](./12949-death-star.json) |
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
@@ -5056,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
 | Deltarune: Reimagined - Angelic Altercation | 351779 | [351779-deltarune-reimagined-angelic-altercation.json](./351779-deltarune-reimagined-angelic-altercation.json) |
 | Deltarune: Rouxls Kaard | 270732 | [270732-deltarune-rouxls-kaard.json](./270732-deltarune-rouxls-kaard.json) |
+| Deltarune: Soulblazers | 402111 | [402111-deltarune-soulblazers.json](./402111-deltarune-soulblazers.json) |
 | Deltarune: Survey Program | 397081 | [397081-deltarune-survey-program.json](./397081-deltarune-survey-program.json) |
 | Deltarune: The Upper Hand | 329669 | [329669-deltarune-the-upper-hand.json](./329669-deltarune-the-upper-hand.json) |
 | Deltarune: Wilter's Wonderland | 350545 | [350545-deltarune-wilters-wonderland.json](./350545-deltarune-wilters-wonderland.json) |
