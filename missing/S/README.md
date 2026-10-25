@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Deal | 263378 | [263378-save-the-deal.json](./263378-save-the-deal.json) |
 | Save The Dev | 397176 | [397176-save-the-dev.json](./397176-save-the-dev.json) |
 | Save the Dinos | 206660 | [206660-save-the-dinos.json](./206660-save-the-dinos.json) |
+| Save the Dodos | 33885 | [33885-save-the-dodos.json](./33885-save-the-dodos.json) |
 | Save the Doge | 212441 | [212441-save-the-doge.json](./212441-save-the-doge.json) |
 | Save The Doge | 387574 | [387574-save-the-doge.json](./387574-save-the-doge.json) |
 | Save the Dungeon! | 265578 | [265578-save-the-dungeon.json](./265578-save-the-dungeon.json) |
@@ -13436,6 +13437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Card Game Classic | 89621 | [89621-solitaire-card-game-classic.json](./89621-solitaire-card-game-classic.json) |
 | Solitaire Card Games | 147883 | [147883-solitaire-card-games.json](./147883-solitaire-card-games.json) |
 | Solitaire Central | 384790 | [384790-solitaire-central.json](./384790-solitaire-central.json) |
+| Solitaire Christmas: Match 2 Cards | 33879 | [33879-solitaire-christmas-match-2-cards.json](./33879-solitaire-christmas-match-2-cards.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
 | Solitaire City Classic | 99103 | [99103-solitaire-city-classic.json](./99103-solitaire-city-classic.json) |
 | Solitaire City Deluxe | 88581 | [88581-solitaire-city-deluxe.json](./88581-solitaire-city-deluxe.json) |
@@ -25394,6 +25396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
 | Super Health Club | 191533 | [191533-super-health-club.json](./191533-super-health-club.json) |
 | Super Heavy Sword | 61134 | [61134-super-heavy-sword.json](./61134-super-heavy-sword.json) |
+| Super Helmets on Fire DX Ultra Edition Plus Alpha | 33863 | [33863-super-helmets-on-fire-dx-ultra-edition-plus-alpha.json](./33863-super-helmets-on-fire-dx-ultra-edition-plus-alpha.json) |
 | Super Helpful Man | 105288 | [105288-super-helpful-man.json](./105288-super-helpful-man.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
 | Super Hero Bike Mega Ramp | 102261 | [102261-super-hero-bike-mega-ramp.json](./102261-super-hero-bike-mega-ramp.json) |
