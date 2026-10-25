@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane & John | 208571 | [208571-jane-and-john.json](./208571-jane-and-john.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
+| Jane Angel: Templar Mystery | 17845 | [17845-jane-angel-templar-mystery.json](./17845-jane-angel-templar-mystery.json) |
 | Jane Austen Simulator: Pride and Prejudice | 372611 | [372611-jane-austen-simulator-pride-and-prejudice.json](./372611-jane-austen-simulator-pride-and-prejudice.json) |
 | Jane Austen's 8-bit Adventure | 246823 | [246823-jane-austens-8-bit-adventure.json](./246823-jane-austens-8-bit-adventure.json) |
 | Jane Skriff | 138611 | [138611-jane-skriff.json](./138611-jane-skriff.json) |
