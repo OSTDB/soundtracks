@@ -2954,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Belmont's Curse | 389434 | [389434-castlevania-belmonts-curse.json](./389434-castlevania-belmonts-curse.json) |
 | Castlevania: Belmont's Curse - Bonus Contents Pack | 411827 | [411827-castlevania-belmonts-curse-bonus-contents-pack.json](./411827-castlevania-belmonts-curse-bonus-contents-pack.json) |
 | Castlevania: Belmont's Curse - Midnight Edition | 411834 | [411834-castlevania-belmonts-curse-midnight-edition.json](./411834-castlevania-belmonts-curse-midnight-edition.json) |
+| Castlevania: Belmont's Curse: Night One Edition | 423860 | [423860-castlevania-belmonts-curse-night-one-edition.json](./423860-castlevania-belmonts-curse-night-one-edition.json) |
 | Castlevania: Bloodlines | 1127 | [1127-castlevania-bloodlines.json](./1127-castlevania-bloodlines.json) |
 | Castlevania: Chorus of Mysteries | 48299 | [48299-castlevania-chorus-of-mysteries.json](./48299-castlevania-chorus-of-mysteries.json) |
 | Castlevania: Circle of the Moon | 1132 | [1132-castlevania-circle-of-the-moon.json](./1132-castlevania-circle-of-the-moon.json) |
@@ -3251,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rescue | 329530 | [329530-cat-rescue.json](./329530-cat-rescue.json) |
 | Cat Rescue Helicopter | 231958 | [231958-cat-rescue-helicopter.json](./231958-cat-rescue-helicopter.json) |
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
+| Cat Rooms: Sticker Decor! | 423864 | [423864-cat-rooms-sticker-decor.json](./423864-cat-rooms-sticker-decor.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Sandbox | 277738 | [277738-cat-sandbox.json](./277738-cat-sandbox.json) |
 | Cat Scratch | 59719 | [59719-cat-scratch.json](./59719-cat-scratch.json) |
@@ -6756,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicon: Ancient Beasts | 193139 | [193139-chronicon-ancient-beasts.json](./193139-chronicon-ancient-beasts.json) |
 | Chronicon: Survivors | 314369 | [314369-chronicon-survivors.json](./314369-chronicon-survivors.json) |
 | Chronicon: The Mechanist | 233560 | [233560-chronicon-the-mechanist.json](./233560-chronicon-the-mechanist.json) |
+| Chronime Puzzle: Animals | 423869 | [423869-chronime-puzzle-animals.json](./423869-chronime-puzzle-animals.json) |
 | Chronime Puzzle: Dogs | 418572 | [418572-chronime-puzzle-dogs.json](./418572-chronime-puzzle-dogs.json) |
 | Chronique des Silencieux | 218671 | [218671-chronique-des-silencieux.json](./218671-chronique-des-silencieux.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
@@ -6950,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm X-Verse-X | 379181 | [379181-chunithm-x-verse-x.json](./379181-chunithm-x-verse-x.json) |
 | Chunithm X-Verse-X International Version | 397774 | [397774-chunithm-x-verse-x-international-version.json](./397774-chunithm-x-verse-x-international-version.json) |
 | Chunk | 355072 | [355072-chunk.json](./355072-chunk.json) |
+| Chunk DAW | 423861 | [423861-chunk-daw.json](./423861-chunk-daw.json) |
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
 | Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
 | Chunks | 19838 | [19838-chunks.json](./19838-chunks.json) |
@@ -14624,6 +14628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowdy Farm Rush | 147614 | [147614-crowdy-farm-rush.json](./147614-crowdy-farm-rush.json) |
 | Crowe: The Drowned Armory | 38811 | [38811-crowe-the-drowned-armory.json](./38811-crowe-the-drowned-armory.json) |
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
+| Crowfarm | 423910 | [423910-crowfarm.json](./423910-crowfarm.json) |
 | Crowhille: Detective Case Files VR | 151064 | [151064-crowhille-detective-case-files-vr.json](./151064-crowhille-detective-case-files-vr.json) |
 | CrowKart | 165443 | [165443-crowkart.json](./165443-crowkart.json) |
 | Crowman & Wolfboy | 28575 | [28575-crowman-and-wolfboy.json](./28575-crowman-and-wolfboy.json) |
