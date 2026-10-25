@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Siege | 75783 | [75783-magic-siege.json](./75783-magic-siege.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
 | Magic Solitaire | 54172 | [54172-magic-solitaire.json](./54172-magic-solitaire.json) |
+| Magic Sort! | 392972 | [392972-magic-sort.json](./392972-magic-sort.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
 | Magic Stone Knights | 251441 | [251441-magic-stone-knights.json](./251441-magic-stone-knights.json) |
 | Magic Storm | 310808 | [310808-magic-storm.json](./310808-magic-storm.json) |
@@ -2797,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Allstars | 335506 | [335506-marble-allstars.json](./335506-marble-allstars.json) |
 | Marble Ball: Racing 2022 | 237185 | [237185-marble-ball-racing-2022.json](./237185-marble-ball-racing-2022.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
+| Marble Blade | 392963 | [392963-marble-blade.json](./392963-marble-blade.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
 | Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
@@ -12496,6 +12498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Money Tree | 405322 | [405322-money-tree.json](./405322-money-tree.json) |
+| Money Under the Bed | 392839 | [392839-money-under-the-bed.json](./392839-money-under-the-bed.json) |
 | Money Wash Tycoon | 358659 | [358659-money-wash-tycoon.json](./358659-money-wash-tycoon.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
 | MoneyMania | 93394 | [93394-moneymania.json](./93394-moneymania.json) |
