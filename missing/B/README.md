@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian | 217448 | [217448-barbarian.json](./217448-barbarian.json) |
 | Barbarian | 376532 | [376532-barbarian.json](./376532-barbarian.json) |
 | Barbarian | 3793 | [3793-barbarian.json](./3793-barbarian.json) |
+| Barbarian Bob | 393000 | [393000-barbarian-bob.json](./393000-barbarian-bob.json) |
 | Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
 | Barbarian Kingdom | 216633 | [216633-barbarian-kingdom.json](./216633-barbarian-kingdom.json) |
 | Barbarian Legend | 153902 | [153902-barbarian-legend.json](./153902-barbarian-legend.json) |
