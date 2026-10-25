@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff's Shoot'Em Up | 42494 | [42494-jeffs-shootem-up.json](./42494-jeffs-shootem-up.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
 | Jehard | 381328 | [381328-jehard.json](./381328-jehard.json) |
+| Jehovah's Witness Simulator 2018 | 400271 | [400271-jehovahs-witness-simulator-2018.json](./400271-jehovahs-witness-simulator-2018.json) |
 | Jeju's Fantasy | 236137 | [236137-jejus-fantasy.json](./236137-jejus-fantasy.json) |
 | Jeklynn Heights | 30247 | [30247-jeklynn-heights.json](./30247-jeklynn-heights.json) |
 | Jekoos Ware | 137431 | [137431-jekoos-ware.json](./137431-jekoos-ware.json) |
