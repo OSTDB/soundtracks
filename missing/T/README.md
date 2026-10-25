@@ -10039,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Pussy: Survival Lesson | 349275 | [349275-the-last-pussy-survival-lesson.json](./349275-the-last-pussy-survival-lesson.json) |
 | The Last Queen in the Wizard Kingdom | 156184 | [156184-the-last-queen-in-the-wizard-kingdom.json](./156184-the-last-queen-in-the-wizard-kingdom.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
+| The Last Question | 403970 | [403970-the-last-question.json](./403970-the-last-question.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Remnant Remastered | 109282 | [109282-the-last-remnant-remastered.json](./109282-the-last-remnant-remastered.json) |
@@ -11357,6 +11358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Migration | 176243 | [176243-the-migration.json](./176243-the-migration.json) |
 | The Mikado Birdgirl in Taichung | 142660 | [142660-the-mikado-birdgirl-in-taichung.json](./142660-the-mikado-birdgirl-in-taichung.json) |
+| The Miki Komori Project | 403952 | [403952-the-miki-komori-project.json](./403952-the-miki-komori-project.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Militant Mouse | 230886 | [230886-the-militant-mouse.json](./230886-the-militant-mouse.json) |
 | The Milk Lake | 211775 | [211775-the-milk-lake.json](./211775-the-milk-lake.json) |
@@ -11988,6 +11990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
 | The Oregon Trail: Deluxe Edition | 300467 | [300467-the-oregon-trail-deluxe-edition.json](./300467-the-oregon-trail-deluxe-edition.json) |
+| The Organ Woman | 403938 | [403938-the-organ-woman.json](./403938-the-organ-woman.json) |
 | The Organized Capy God | 348037 | [348037-the-organized-capy-god.json](./348037-the-organized-capy-god.json) |
 | The Origin Mission | 174655 | [174655-the-origin-mission.json](./174655-the-origin-mission.json) |
 | The Origin of Hope | 241504 | [241504-the-origin-of-hope.json](./241504-the-origin-of-hope.json) |
@@ -23763,6 +23766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
 | Training Lab | 156004 | [156004-training-lab.json](./156004-training-lab.json) |
 | Training Leah | 152618 | [152618-training-leah.json](./152618-training-leah.json) |
+| Training Lucie | 403944 | [403944-training-lucie.json](./403944-training-lucie.json) |
 | Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
 | Training Vice Principal: Square Headed & Chaste Woman Disciplined into Slut | 82991 | [82991-training-vice-principal-square-headed-and-chaste-woman-disciplined-into-slut.json](./82991-training-vice-principal-square-headed-and-chaste-woman-disciplined-into-slut.json) |
 | TrainingPeaks Virtual | 328624 | [328624-trainingpeaks-virtual.json](./328624-trainingpeaks-virtual.json) |
@@ -26161,6 +26165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
 | True Colours | 234651 | [234651-true-colours.json](./234651-true-colours.json) |
+| True Confession | 403963 | [403963-true-confession.json](./403963-true-confession.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
 | True Crime: Streets of LA | 4216 | [4216-true-crime-streets-of-la.json](./4216-true-crime-streets-of-la.json) |
 | True Detective Solitaire | 88755 | [88755-true-detective-solitaire.json](./88755-true-detective-solitaire.json) |
