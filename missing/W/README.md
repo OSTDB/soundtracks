@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterpark Simulator 25 | 371604 | [371604-waterpark-simulator-25.json](./371604-waterpark-simulator-25.json) |
 | Waterpark Tycoon | 53133 | [53133-waterpark-tycoon.json](./53133-waterpark-tycoon.json) |
 | Waterpunk | 385852 | [385852-waterpunk.json](./385852-waterpunk.json) |
+| Waterputer | 402128 | [402128-waterputer.json](./402128-waterputer.json) |
 | Waters & Fields Adventure Bundle | 271829 | [271829-waters-and-fields-adventure-bundle.json](./271829-waters-and-fields-adventure-bundle.json) |
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
 | Waterscape Solitaire: American Falls | 416139 | [416139-waterscape-solitaire-american-falls.json](./416139-waterscape-solitaire-american-falls.json) |
