@@ -4541,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
 | The Adliberum Engine | 55891 | [55891-the-adliberum-engine.json](./55891-the-adliberum-engine.json) |
 | The Admin | 34008 | [34008-the-admin.json](./34008-the-admin.json) |
+| The Adventure Collection | 399571 | [399571-the-adventure-collection.json](./399571-the-adventure-collection.json) |
 | The Adventure of 30 Cents | 284251 | [284251-the-adventure-of-30-cents.json](./284251-the-adventure-of-30-cents.json) |
 | The Adventure of Amethyst Knight | 368028 | [368028-the-adventure-of-amethyst-knight.json](./368028-the-adventure-of-amethyst-knight.json) |
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
@@ -5841,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Mysterious Maulings | 306959 | [306959-the-case-of-the-mysterious-maulings.json](./306959-the-case-of-the-mysterious-maulings.json) |
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
 | The Case of the Twisted Children | 329224 | [329224-the-case-of-the-twisted-children.json](./329224-the-case-of-the-twisted-children.json) |
+| The Case of the World between Worlds | 399665 | [399665-the-case-of-the-world-between-worlds.json](./399665-the-case-of-the-world-between-worlds.json) |
 | The Case of the Worst Day Ever | 325346 | [325346-the-case-of-the-worst-day-ever.json](./325346-the-case-of-the-worst-day-ever.json) |
 | The Case of Theo | 352510 | [352510-the-case-of-theo.json](./352510-the-case-of-theo.json) |
 | The Casebook of Terry Winter | 53707 | [53707-the-casebook-of-terry-winter.json](./53707-the-casebook-of-terry-winter.json) |
@@ -7310,6 +7312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
 | The End | 329067 | [329067-the-end.json](./329067-the-end.json) |
 | The End | 38578 | [38578-the-end.json](./38578-the-end.json) |
+| The End Comes Tomorrow: Gamebook Edition | 399666 | [399666-the-end-comes-tomorrow-gamebook-edition.json](./399666-the-end-comes-tomorrow-gamebook-edition.json) |
 | The End Grows | 274580 | [274580-the-end-grows.json](./274580-the-end-grows.json) |
 | The End is Nahual: If I May Say So | 216415 | [216415-the-end-is-nahual-if-i-may-say-so.json](./216415-the-end-is-nahual-if-i-may-say-so.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
@@ -12785,6 +12788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reeve | 298458 | [298458-the-reeve.json](./298458-the-reeve.json) |
+| The Reflection | 399671 | [399671-the-reflection.json](./399671-the-reflection.json) |
 | The Refuge | 125097 | [125097-the-refuge.json](./125097-the-refuge.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Regions | 244623 | [244623-the-regions.json](./244623-the-regions.json) |
@@ -19872,6 +19876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To End All Wars | 17608 | [17608-to-end-all-wars.json](./17608-to-end-all-wars.json) |
 | To End All Wars: Breaking the Deadlock | 171955 | [171955-to-end-all-wars-breaking-the-deadlock.json](./171955-to-end-all-wars-breaking-the-deadlock.json) |
 | To Eternity | 219639 | [219639-to-eternity.json](./219639-to-eternity.json) |
+| To Farm Lands: Sowing Fields | 399652 | [399652-to-farm-lands-sowing-fields.json](./399652-to-farm-lands-sowing-fields.json) |
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Get There | 348828 | [348828-to-get-there.json](./348828-to-get-there.json) |
