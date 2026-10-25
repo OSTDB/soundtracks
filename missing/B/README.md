@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10983,6 +10984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: The Zombie Island of Dr. Ned | 13913 | [13913-borderlands-the-zombie-island-of-dr-ned.json](./13913-borderlands-the-zombie-island-of-dr-ned.json) |
 | Borderlight | 115808 | [115808-borderlight.json](./115808-borderlight.json) |
 | Borderline | 321413 | [321413-borderline.json](./321413-borderline.json) |
+| Borderline | 408792 | [408792-borderline.json](./408792-borderline.json) |
 | Borderline | 6101 | [6101-borderline.json](./6101-borderline.json) |
 | Borderline Detective | 221051 | [221051-borderline-detective.json](./221051-borderline-detective.json) |
 | Borderline Enigma | 278273 | [278273-borderline-enigma.json](./278273-borderline-enigma.json) |
