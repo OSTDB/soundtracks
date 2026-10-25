@@ -13259,6 +13259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Slayer Extermination | 215602 | [215602-monster-slayer-extermination.json](./215602-monster-slayer-extermination.json) |
 | Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
 | Monster Slayers | 27975 | [27975-monster-slayers.json](./27975-monster-slayers.json) |
+| Monster Slayers | 387938 | [387938-monster-slayers.json](./387938-monster-slayers.json) |
 | Monster Slayers Incorporated | 372110 | [372110-monster-slayers-incorporated.json](./372110-monster-slayers-incorporated.json) |
 | Monster Slayers: Fire and Steel | 169330 | [169330-monster-slayers-fire-and-steel.json](./169330-monster-slayers-fire-and-steel.json) |
 | Monster Slider | 66392 | [66392-monster-slider.json](./66392-monster-slider.json) |
@@ -15243,6 +15244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Bones | 25804 | [25804-mr-bones.json](./25804-mr-bones.json) |
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
 | Mr. Boston Clean Sweep | 72611 | [72611-mr-boston-clean-sweep.json](./72611-mr-boston-clean-sweep.json) |
+| Mr. Bounce | 387939 | [387939-mr-bounce.json](./387939-mr-bounce.json) |
 | Mr. Bree: Returning Home | 102124 | [102124-mr-bree-returning-home.json](./102124-mr-bree-returning-home.json) |
 | Mr. Bree+ | 16852 | [16852-mr-bree.json](./16852-mr-bree.json) |
 | Mr. Brocco & Co. | 245711 | [245711-mr-brocco-and-co.json](./245711-mr-brocco-and-co.json) |
@@ -17243,6 +17245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet Femboy | 355617 | [355617-my-pet-femboy.json](./355617-my-pet-femboy.json) |
 | My Pet Hotel | 17048 | [17048-my-pet-hotel.json](./17048-my-pet-hotel.json) |
 | My Pet Hotel 2 | 17049 | [17049-my-pet-hotel-2.json](./17049-my-pet-hotel-2.json) |
+| My Pet Protector | 387940 | [387940-my-pet-protector.json](./387940-my-pet-protector.json) |
 | My Pet Protector 2 | 413085 | [413085-my-pet-protector-2.json](./413085-my-pet-protector-2.json) |
 | My Pet Puppy 3D | 65470 | [65470-my-pet-puppy-3d.json](./65470-my-pet-puppy-3d.json) |
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
