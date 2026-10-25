@@ -6186,6 +6186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Time! | 153882 | [153882-destruction-time.json](./153882-destruction-time.json) |
 | Destructivator 2 | 127778 | [127778-destructivator-2.json](./127778-destructivator-2.json) |
 | Destructive Contraptions | 156022 | [156022-destructive-contraptions.json](./156022-destructive-contraptions.json) |
+| Destructive physics | 127848 | [127848-destructive-physics.json](./127848-destructive-physics.json) |
 | Destructo | 171483 | [171483-destructo.json](./171483-destructo.json) |
 | Destructo Truck | 353495 | [353495-destructo-truck.json](./353495-destructo-truck.json) |
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
@@ -8826,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divilethion | 176299 | [176299-divilethion.json](./176299-divilethion.json) |
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
 | Divinastros | 306577 | [306577-divinastros.json](./306577-divinastros.json) |
+| Divination | 127850 | [127850-divination.json](./127850-divination.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
 | Divine | 229587 | [229587-divine.json](./229587-divine.json) |
 | Divine Adventure: Act One | 174121 | [174121-divine-adventure-act-one.json](./174121-divine-adventure-act-one.json) |
