@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman | 32540 | [32540-talisman.json](./32540-talisman.json) |
 | Talisman | 385400 | [385400-talisman.json](./385400-talisman.json) |
 | Talisman - Frostmarch | 53696 | [53696-talisman-frostmarch.json](./53696-talisman-frostmarch.json) |
+| Talisman Codes | 406518 | [406518-talisman-codes.json](./406518-talisman-codes.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital 5th Edition | 302175 | [302175-talisman-digital-5th-edition.json](./302175-talisman-digital-5th-edition.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blackwell Deception | 9037 | [9037-the-blackwell-deception.json](./9037-the-blackwell-deception.json) |
 | The Blackwell Legacy | 9043 | [9043-the-blackwell-legacy.json](./9043-the-blackwell-legacy.json) |
 | The Blackwood Legacy | 320434 | [320434-the-blackwood-legacy.json](./320434-the-blackwood-legacy.json) |
+| The Blackwood Project | 406510 | [406510-the-blackwood-project.json](./406510-the-blackwood-project.json) |
 | The Blades of Ashina | 317519 | [317519-the-blades-of-ashina.json](./317519-the-blades-of-ashina.json) |
 | The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Blair Witch Experience | 73541 | [73541-the-blair-witch-experience.json](./73541-the-blair-witch-experience.json) |
@@ -14080,6 +14082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Stargazers | 33478 | [33478-the-stargazers.json](./33478-the-stargazers.json) |
 | The Starlite Project | 273245 | [273245-the-starlite-project.json](./273245-the-starlite-project.json) |
+| The Stars Are Not Ready | 406505 | [406505-the-stars-are-not-ready.json](./406505-the-stars-are-not-ready.json) |
 | The Stars are Right | 391346 | [391346-the-stars-are-right.json](./391346-the-stars-are-right.json) |
 | The Stars Here Below | 228985 | [228985-the-stars-here-below.json](./228985-the-stars-here-below.json) |
 | The Stars Under Lockehurst | 318722 | [318722-the-stars-under-lockehurst.json](./318722-the-stars-under-lockehurst.json) |
@@ -16752,6 +16755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
 | Three Kingdoms Written Words | 157538 | [157538-three-kingdoms-written-words.json](./157538-three-kingdoms-written-words.json) |
 | Three Kingdoms Zhao Yun | 226590 | [226590-three-kingdoms-zhao-yun.json](./226590-three-kingdoms-zhao-yun.json) |
+| Three Kingdoms: Alias | 406506 | [406506-three-kingdoms-alias.json](./406506-three-kingdoms-alias.json) |
 | Three Kingdoms: Ancient Battlefield | 113172 | [113172-three-kingdoms-ancient-battlefield.json](./113172-three-kingdoms-ancient-battlefield.json) |
 | Three Kingdoms: Battle of Generals | 269199 | [269199-three-kingdoms-battle-of-generals.json](./269199-three-kingdoms-battle-of-generals.json) |
 | Three Kingdoms: Bond | 402358 | [402358-three-kingdoms-bond.json](./402358-three-kingdoms-bond.json) |
@@ -20672,11 +20676,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
 | Tomb Raider VR: Lara's Escape | 322639 | [322639-tomb-raider-vr-laras-escape.json](./322639-tomb-raider-vr-laras-escape.json) |
 | Tomb Raider: 10th Anniversary Edition | 142826 | [142826-tomb-raider-10th-anniversary-edition.json](./142826-tomb-raider-10th-anniversary-edition.json) |
+| Tomb Raider: 1939 Multiplayer Map Pack | 406528 | [406528-tomb-raider-1939-multiplayer-map-pack.json](./406528-tomb-raider-1939-multiplayer-map-pack.json) |
 | Tomb Raider: Agency SPS 12 | 406541 | [406541-tomb-raider-agency-sps-12.json](./406541-tomb-raider-agency-sps-12.json) |
+| Tomb Raider: Agility Skill | 406527 | [406527-tomb-raider-agility-skill.json](./406527-tomb-raider-agility-skill.json) |
+| Tomb Raider: Animal Instinct | 406529 | [406529-tomb-raider-animal-instinct.json](./406529-tomb-raider-animal-instinct.json) |
 | Tomb Raider: Anniversary | 312286 | [312286-tomb-raider-anniversary.json](./312286-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary | 370001 | [370001-tomb-raider-anniversary.json](./370001-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
+| Tomb Raider: Aviatrix Skin | 406530 | [406530-tomb-raider-aviatrix-skin.json](./406530-tomb-raider-aviatrix-skin.json) |
 | Tomb Raider: Catalyst | 381234 | [381234-tomb-raider-catalyst.json](./381234-tomb-raider-catalyst.json) |
 | Tomb Raider: Caves and Cliffs Multiplayer Map Pack | 406533 | [406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json](./406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json) |
 | Tomb Raider: Chronicles | 1160 | [1160-tomb-raider-chronicles.json](./1160-tomb-raider-chronicles.json) |
@@ -22016,6 +22024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Soujinengi V & Touhou Genso Maroku W Double Pack | 110845 | [110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json](./110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json) |
 | Touhou Soujinengi V: The Genius of Sappheiros | 105121 | [105121-touhou-soujinengi-v-the-genius-of-sappheiros.json](./105121-touhou-soujinengi-v-the-genius-of-sappheiros.json) |
 | Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
+| Touhou Sousenkyou: Land of Oracular Zeitgeist | 406532 | [406532-touhou-sousenkyou-land-of-oracular-zeitgeist.json](./406532-touhou-sousenkyou-land-of-oracular-zeitgeist.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
 | Touhou Spell Bubble: Character Pack - Seija Kijin | 213800 | [213800-touhou-spell-bubble-character-pack-seija-kijin.json](./213800-touhou-spell-bubble-character-pack-seija-kijin.json) |
