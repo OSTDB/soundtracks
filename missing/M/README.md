@@ -15925,6 +15925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Maker | 100265 | [100265-music-maker.json](./100265-music-maker.json) |
 | Music Man 3: Last Dance | 295654 | [295654-music-man-3-last-dance.json](./295654-music-man-3-last-dance.json) |
 | Music Master Chopin | 62679 | [62679-music-master-chopin.json](./62679-music-master-chopin.json) |
+| Music Monstars | 21210 | [21210-music-monstars.json](./21210-music-monstars.json) |
 | Music of the Spheres | 20107 | [20107-music-of-the-spheres.json](./20107-music-of-the-spheres.json) |
 | Music on: Acoustic Guitar | 79882 | [79882-music-on-acoustic-guitar.json](./79882-music-on-acoustic-guitar.json) |
 | Music On: Drums | 85293 | [85293-music-on-drums.json](./85293-music-on-drums.json) |
@@ -16145,6 +16146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Dirt Bike: Unlimited Bike Experience | 317442 | [317442-mx-dirt-bike-unlimited-bike-experience.json](./317442-mx-dirt-bike-unlimited-bike-experience.json) |
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
+| MX Simulator | 21182 | [21182-mx-simulator.json](./21182-mx-simulator.json) |
 | MX Superfly | 4024 | [4024-mx-superfly.json](./4024-mx-superfly.json) |
 | MX vs ATV: Legends - Yamaha Pack 2023 | 288051 | [288051-mx-vs-atv-legends-yamaha-pack-2023.json](./288051-mx-vs-atv-legends-yamaha-pack-2023.json) |
 | MX vs. ATV All Out: 2011 Kawasaki KFX450R | 315218 | [315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json](./315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json) |
