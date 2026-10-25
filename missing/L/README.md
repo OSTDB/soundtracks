@@ -7199,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Tore: Bitter | 64466 | [64466-love-tore-bitter.json](./64466-love-tore-bitter.json) |
 | Love Tore: Mint | 64468 | [64468-love-tore-mint.json](./64468-love-tore-mint.json) |
 | Love Tore: Sweet | 64479 | [64479-love-tore-sweet.json](./64479-love-tore-sweet.json) |
+| Love two balls | 101563 | [101563-love-two-balls.json](./101563-love-two-balls.json) |
 | Love Undying: A Kiss Before Dawn | 302953 | [302953-love-undying-a-kiss-before-dawn.json](./302953-love-undying-a-kiss-before-dawn.json) |
 | Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
 | Love Vibe: Aria | 103464 | [103464-love-vibe-aria.json](./103464-love-vibe-aria.json) |
