@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satay Shop Tycoon | 261110 | [261110-satay-shop-tycoon.json](./261110-satay-shop-tycoon.json) |
 | Sate | 273432 | [273432-sate.json](./273432-sate.json) |
 | Satebo's Word Game | 265176 | [265176-satebos-word-game.json](./265176-satebos-word-game.json) |
+| Sated | 405122 | [405122-sated.json](./405122-sated.json) |
 | Satella 2 1 | 178952 | [178952-satella-2-1.json](./178952-satella-2-1.json) |
 | Satella X | 178953 | [178953-satella-x.json](./178953-satella-x.json) |
 | Satella-Q: Nenmatsu Jumbo Takara Quiz | 234040 | [234040-satella-q-nenmatsu-jumbo-takara-quiz.json](./234040-satella-q-nenmatsu-jumbo-takara-quiz.json) |
@@ -8444,6 +8445,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Lost | 377331 | [377331-signal-lost.json](./377331-signal-lost.json) |
 | Signal Maze | 231821 | [231821-signal-maze.json](./231821-signal-maze.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
+| Signal Zero | 405137 | [405137-signal-zero.json](./405137-signal-zero.json) |
+| Signal Zero | 405139 | [405139-signal-zero.json](./405139-signal-zero.json) |
+| Signal Zero: Dispatch | 405136 | [405136-signal-zero-dispatch.json](./405136-signal-zero-dispatch.json) |
 | Signal Zone | 381195 | [381195-signal-zone.json](./381195-signal-zone.json) |
 | Signal: Uncharted Lands | 333239 | [333239-signal-uncharted-lands.json](./333239-signal-uncharted-lands.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
@@ -8451,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
 | Signed Mary | 318291 | [318291-signed-mary.json](./318291-signed-mary.json) |
+| Signet City | 405150 | [405150-signet-city.json](./405150-signet-city.json) |
 | Signets of Power | 61982 | [61982-signets-of-power.json](./61982-signets-of-power.json) |
 | Significant | 384208 | [384208-significant.json](./384208-significant.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
@@ -20996,6 +21001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starters Orders 4 Horse Racing: Jumps Edition | 175566 | [175566-starters-orders-4-horse-racing-jumps-edition.json](./175566-starters-orders-4-horse-racing-jumps-edition.json) |
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
 | Starters Orders Touch Horse Racing | 287746 | [287746-starters-orders-touch-horse-racing.json](./287746-starters-orders-touch-horse-racing.json) |
+| Starting a Village from Zero | 405140 | [405140-starting-a-village-from-zero.json](./405140-starting-a-village-from-zero.json) |
 | Starting Blocks | 272808 | [272808-starting-blocks.json](./272808-starting-blocks.json) |
 | Starting Life In Another World Naked | 208421 | [208421-starting-life-in-another-world-naked.json](./208421-starting-life-in-another-world-naked.json) |
 | Starting the Game | 97230 | [97230-starting-the-game.json](./97230-starting-the-game.json) |
@@ -23465,6 +23471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold | 273261 | [273261-stronghold.json](./273261-stronghold.json) |
 | Stronghold 2: Steam Edition | 74251 | [74251-stronghold-2-steam-edition.json](./74251-stronghold-2-steam-edition.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
+| Stronghold 4 | 405145 | [405145-stronghold-4.json](./405145-stronghold-4.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Conquest | 258331 | [258331-stronghold-conquest.json](./258331-stronghold-conquest.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
