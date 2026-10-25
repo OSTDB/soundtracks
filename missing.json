@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-25T09:21:54.542Z",
-  "total_missing": 259808,
+  "generated_at": "2026-10-25T09:33:46.966Z",
+  "total_missing": 259858,
   "games": [
     {
       "igdb_id": 191680,
@@ -56947,6 +56947,11 @@
       "file": "missing/A/165510-annie-android-automated-affection.json"
     },
     {
+      "igdb_id": 416982,
+      "game_name": "Annie's Dineinn",
+      "file": "missing/A/416982-annies-dineinn.json"
+    },
+    {
       "igdb_id": 198079,
       "game_name": "Annie's Millions: A Hidden Object Shopping Spree!",
       "file": "missing/A/198079-annies-millions-a-hidden-object-shopping-spree.json"
@@ -81372,6 +81377,46 @@
       "file": "missing/A/405457-atelier-karia-the-night-kingdom-and-the-guide-of-memories.json"
     },
     {
+      "igdb_id": 416948,
+      "game_name": "Atelier Karia: The Night Kingdom & the Guide of Memories - Animate Limited Set",
+      "file": "missing/A/416948-atelier-karia-the-night-kingdom-and-the-guide-of-memories-animate-limited-set.json"
+    },
+    {
+      "igdb_id": 416950,
+      "game_name": "Atelier Karia: The Night Kingdom & the Guide of Memories - Famitsu DX Pack",
+      "file": "missing/A/416950-atelier-karia-the-night-kingdom-and-the-guide-of-memories-famitsu-dx-pack.json"
+    },
+    {
+      "igdb_id": 416951,
+      "game_name": "Atelier Karia: The Night Kingdom & the Guide of Memories - Gamers Super Limited Edition",
+      "file": "missing/A/416951-atelier-karia-the-night-kingdom-and-the-guide-of-memories-gamers-super-limited-edition.json"
+    },
+    {
+      "igdb_id": 416947,
+      "game_name": "Atelier Karia: The Night Kingdom & the Guide of Memories - GS Saikyou Galaxy Combo Set",
+      "file": "missing/A/416947-atelier-karia-the-night-kingdom-and-the-guide-of-memories-gs-saikyou-galaxy-combo-set.json"
+    },
+    {
+      "igdb_id": 416942,
+      "game_name": "Atelier Karia: The Night Kingdom & the Guide of Memories - Premium Box",
+      "file": "missing/A/416942-atelier-karia-the-night-kingdom-and-the-guide-of-memories-premium-box.json"
+    },
+    {
+      "igdb_id": 416952,
+      "game_name": "Atelier Karia: The Night Kingdom & the Guide of Memories - Rakuten Books Exclusive Set",
+      "file": "missing/A/416952-atelier-karia-the-night-kingdom-and-the-guide-of-memories-rakuten-books-exclusive-set.json"
+    },
+    {
+      "igdb_id": 416946,
+      "game_name": "Atelier Karia: The Night Kingdom & the Guide of Memories - Special Premium Box",
+      "file": "missing/A/416946-atelier-karia-the-night-kingdom-and-the-guide-of-memories-special-premium-box.json"
+    },
+    {
+      "igdb_id": 416957,
+      "game_name": "Atelier Karia: The Night Kingdom & the Guide of Memories - WonderGOO Original Limited Set",
+      "file": "missing/A/416957-atelier-karia-the-night-kingdom-and-the-guide-of-memories-wondergoo-original-limited-set.json"
+    },
+    {
       "igdb_id": 43516,
       "game_name": "Atelier Lilie Plus: The Alchemist of Salburg 3",
       "file": "missing/A/43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json"
@@ -86030,6 +86075,11 @@
       "igdb_id": 86966,
       "game_name": "Avakin Life",
       "file": "missing/A/86966-avakin-life.json"
+    },
+    {
+      "igdb_id": 416943,
+      "game_name": "Avalan",
+      "file": "missing/A/416943-avalan.json"
     },
     {
       "igdb_id": 46840,
@@ -94412,6 +94462,11 @@
       "file": "missing/B/130409-bakuryuu-sentai-abaranger.json"
     },
     {
+      "igdb_id": 416974,
+      "game_name": "Bakusei",
+      "file": "missing/B/416974-bakusei.json"
+    },
+    {
       "igdb_id": 134496,
       "game_name": "Bakushou Mondai no Totsugeki Star Pirates",
       "file": "missing/B/134496-bakushou-mondai-no-totsugeki-star-pirates.json"
@@ -97802,6 +97857,11 @@
       "file": "missing/B/266288-bang-bang-simulations.json"
     },
     {
+      "igdb_id": 416970,
+      "game_name": "Bang Bang Streaming",
+      "file": "missing/B/416970-bang-bang-streaming.json"
+    },
+    {
       "igdb_id": 377921,
       "game_name": "Bang Bang Tank",
       "file": "missing/B/377921-bang-bang-tank.json"
@@ -97880,6 +97940,11 @@
       "igdb_id": 216760,
       "game_name": "Bangkok Story: A Stray Dog",
       "file": "missing/B/216760-bangkok-story-a-stray-dog.json"
+    },
+    {
+      "igdb_id": 416965,
+      "game_name": "Bangkok: City of Legends",
+      "file": "missing/B/416965-bangkok-city-of-legends.json"
     },
     {
       "igdb_id": 217862,
@@ -154427,6 +154492,11 @@
       "file": "missing/B/33495-broken-dreams.json"
     },
     {
+      "igdb_id": 416958,
+      "game_name": "Broken Drive",
+      "file": "missing/B/416958-broken-drive.json"
+    },
+    {
       "igdb_id": 280748,
       "game_name": "Broken Ecchi Gallery",
       "file": "missing/B/280748-broken-ecchi-gallery.json"
@@ -163537,6 +163607,11 @@
       "file": "missing/B/393379-bussy-master-ropeshooter-ranch.json"
     },
     {
+      "igdb_id": 417007,
+      "game_name": "Bust 'Em Up: Online FFA",
+      "file": "missing/B/417007-bust-em-up-online-ffa.json"
+    },
+    {
       "igdb_id": 319973,
       "game_name": "Bust a Block",
       "file": "missing/B/319973-bust-a-block.json"
@@ -170585,6 +170660,11 @@
       "igdb_id": 57157,
       "game_name": "Candy, Please!",
       "file": "missing/C/57157-candy-please.json"
+    },
+    {
+      "igdb_id": 416989,
+      "game_name": "Candy's Adventure: Speedrunners Copy",
+      "file": "missing/C/416989-candys-adventure-speedrunners-copy.json"
     },
     {
       "igdb_id": 336343,
@@ -181427,6 +181507,11 @@
       "file": "missing/C/52501-cat-wash.json"
     },
     {
+      "igdb_id": 416967,
+      "game_name": "Cat Watch",
+      "file": "missing/C/416967-cat-watch.json"
+    },
+    {
       "igdb_id": 159552,
       "game_name": "Cat Way Domino",
       "file": "missing/C/159552-cat-way-domino.json"
@@ -183182,6 +183267,11 @@
       "file": "missing/C/315298-cats-and-seek-tokyo.json"
     },
     {
+      "igdb_id": 416968,
+      "game_name": "Cats and Tails",
+      "file": "missing/C/416968-cats-and-tails.json"
+    },
+    {
       "igdb_id": 130604,
       "game_name": "Cats are Cute",
       "file": "missing/C/130604-cats-are-cute.json"
@@ -183955,6 +184045,11 @@
       "igdb_id": 284803,
       "game_name": "Caustic Bloom",
       "file": "missing/C/284803-caustic-bloom.json"
+    },
+    {
+      "igdb_id": 416998,
+      "game_name": "Caustic Murmurs",
+      "file": "missing/C/416998-caustic-murmurs.json"
     },
     {
       "igdb_id": 229590,
@@ -193457,6 +193552,11 @@
       "file": "missing/C/343128-chicken-little-galactic-traveler.json"
     },
     {
+      "igdb_id": 417000,
+      "game_name": "Chicken Miner",
+      "file": "missing/C/417000-chicken-miner.json"
+    },
+    {
       "igdb_id": 180224,
       "game_name": "Chicken Nuggets",
       "file": "missing/C/180224-chicken-nuggets.json"
@@ -196712,6 +196812,11 @@
       "file": "missing/C/146315-chornobyl-liquidators.json"
     },
     {
+      "igdb_id": 416960,
+      "game_name": "Chornobyl Quest",
+      "file": "missing/C/416960-chornobyl-quest.json"
+    },
+    {
       "igdb_id": 186127,
       "game_name": "Choro 2021",
       "file": "missing/C/186127-choro-2021.json"
@@ -198765,6 +198870,11 @@
       "igdb_id": 423869,
       "game_name": "Chronime Puzzle: Animals",
       "file": "missing/C/423869-chronime-puzzle-animals.json"
+    },
+    {
+      "igdb_id": 416969,
+      "game_name": "Chronime Puzzle: Cats",
+      "file": "missing/C/416969-chronime-puzzle-cats.json"
     },
     {
       "igdb_id": 418572,
@@ -207225,6 +207335,11 @@
       "igdb_id": 117586,
       "game_name": "Clodhoppers",
       "file": "missing/C/117586-clodhoppers.json"
+    },
+    {
+      "igdb_id": 416944,
+      "game_name": "Clogwork",
+      "file": "missing/C/416944-clogwork.json"
     },
     {
       "igdb_id": 271296,
@@ -271102,6 +271217,11 @@
       "file": "missing/D/167263-deep-night-detective-chapter-one.json"
     },
     {
+      "igdb_id": 416999,
+      "game_name": "Deep Nightmare: Phobias",
+      "file": "missing/D/416999-deep-nightmare-phobias.json"
+    },
+    {
       "igdb_id": 125083,
       "game_name": "Deep Ocean Rush",
       "file": "missing/D/125083-deep-ocean-rush.json"
@@ -280910,6 +281030,11 @@
       "igdb_id": 295333,
       "game_name": "DeTechtive 2112",
       "file": "missing/D/295333-detechtive-2112.json"
+    },
+    {
+      "igdb_id": 416975,
+      "game_name": "Detect Dan the Dog!",
+      "file": "missing/D/416975-detect-dan-the-dog.json"
     },
     {
       "igdb_id": 183064,
@@ -335357,6 +335482,11 @@
       "file": "missing/E/294300-eggstraction.json"
     },
     {
+      "igdb_id": 416949,
+      "game_name": "Eggstreme Farming",
+      "file": "missing/E/416949-eggstreme-farming.json"
+    },
+    {
       "igdb_id": 101452,
       "game_name": "EggTime 2",
       "file": "missing/E/101452-eggtime-2.json"
@@ -368322,6 +368452,11 @@
       "file": "missing/F/102315-falling-slime.json"
     },
     {
+      "igdb_id": 416976,
+      "game_name": "Falling Star Town: The Ghost from Past",
+      "file": "missing/F/416976-falling-star-town-the-ghost-from-past.json"
+    },
+    {
       "igdb_id": 27489,
       "game_name": "Falling Stars",
       "file": "missing/F/27489-falling-stars.json"
@@ -382742,6 +382877,11 @@
       "file": "missing/F/349902-fillit-the-abstract-strategy.json"
     },
     {
+      "igdb_id": 416983,
+      "game_name": "Fillo",
+      "file": "missing/F/416983-fillo.json"
+    },
+    {
       "igdb_id": 401768,
       "game_name": "Filluminate",
       "file": "missing/F/401768-filluminate.json"
@@ -385090,6 +385230,11 @@
       "igdb_id": 151614,
       "game_name": "Find All",
       "file": "missing/F/151614-find-all.json"
+    },
+    {
+      "igdb_id": 416977,
+      "game_name": "Find All 10: Greece",
+      "file": "missing/F/416977-find-all-10-greece.json"
     },
     {
       "igdb_id": 226805,
@@ -398845,6 +398990,21 @@
       "igdb_id": 289418,
       "game_name": "FMV Murder Mystery Bundle",
       "file": "missing/F/289418-fmv-murder-mystery-bundle.json"
+    },
+    {
+      "igdb_id": 416984,
+      "game_name": "FNaC 1: Custom Night",
+      "file": "missing/F/416984-fnac-1-custom-night.json"
+    },
+    {
+      "igdb_id": 416985,
+      "game_name": "FNaC 2: Custom Night",
+      "file": "missing/F/416985-fnac-2-custom-night.json"
+    },
+    {
+      "igdb_id": 416986,
+      "game_name": "FNaC 3: Custom Night",
+      "file": "missing/F/416986-fnac-3-custom-night.json"
     },
     {
       "igdb_id": 210495,
@@ -742297,6 +742457,11 @@
       "file": "missing/N/181792-night-shift-remade.json"
     },
     {
+      "igdb_id": 417005,
+      "game_name": "Night Shift: Something Is Wrong",
+      "file": "missing/N/417005-night-shift-something-is-wrong.json"
+    },
+    {
       "igdb_id": 116071,
       "game_name": "Night shot",
       "file": "missing/N/116071-night-shot.json"
@@ -749985,6 +750150,11 @@
       "igdb_id": 103946,
       "game_name": "Node Along",
       "file": "missing/N/103946-node-along.json"
+    },
+    {
+      "igdb_id": 416981,
+      "game_name": "Node Crown",
+      "file": "missing/N/416981-node-crown.json"
     },
     {
       "igdb_id": 287772,
@@ -800552,6 +800722,11 @@
       "file": "missing/P/403799-pet-that-vtuber.json"
     },
     {
+      "igdb_id": 416978,
+      "game_name": "Pet the Cat",
+      "file": "missing/P/416978-pet-the-cat.json"
+    },
+    {
       "igdb_id": 179587,
       "game_name": "Pet the Dog?",
       "file": "missing/P/179587-pet-the-dog.json"
@@ -832660,6 +832835,11 @@
       "igdb_id": 250606,
       "game_name": "Popgoes: Lost Dreams",
       "file": "missing/P/250606-popgoes-lost-dreams.json"
+    },
+    {
+      "igdb_id": 416964,
+      "game_name": "Popgoes: Lost Love",
+      "file": "missing/P/416964-popgoes-lost-love.json"
     },
     {
       "igdb_id": 238958,
@@ -866945,6 +867125,11 @@
       "igdb_id": 157511,
       "game_name": "Raging Ball",
       "file": "missing/R/157511-raging-ball.json"
+    },
+    {
+      "igdb_id": 416962,
+      "game_name": "Raging Ball",
+      "file": "missing/R/416962-raging-ball.json"
     },
     {
       "igdb_id": 43324,
@@ -940542,6 +940727,11 @@
       "file": "missing/S/118235-serin-fate.json"
     },
     {
+      "igdb_id": 416979,
+      "game_name": "Serious Bigness",
+      "file": "missing/S/416979-serious-bigness.json"
+    },
+    {
       "igdb_id": 191223,
       "game_name": "Serious Breakdown",
       "file": "missing/S/191223-serious-breakdown.json"
@@ -972607,6 +972797,11 @@
       "file": "missing/S/254145-slimegeon.json"
     },
     {
+      "igdb_id": 416935,
+      "game_name": "Slimehead",
+      "file": "missing/S/416935-slimehead.json"
+    },
+    {
       "igdb_id": 156639,
       "game_name": "SlimeJumper: Ultimate Jump",
       "file": "missing/S/156639-slimejumper-ultimate-jump.json"
@@ -1003230,6 +1003425,11 @@
       "igdb_id": 311594,
       "game_name": "Spellarium 11",
       "file": "missing/S/311594-spellarium-11.json"
+    },
+    {
+      "igdb_id": 416972,
+      "game_name": "Spellarium 13",
+      "file": "missing/S/416972-spellarium-13.json"
     },
     {
       "igdb_id": 416771,
@@ -1094257,6 +1094457,11 @@
       "file": "missing/T/179367-the-caves.json"
     },
     {
+      "igdb_id": 416971,
+      "game_name": "The Celebrated Race",
+      "file": "missing/T/416971-the-celebrated-race.json"
+    },
+    {
       "igdb_id": 275689,
       "game_name": "The Celestial Tales",
       "file": "missing/T/275689-the-celestial-tales.json"
@@ -1128925,6 +1129130,11 @@
       "igdb_id": 327293,
       "game_name": "The Rez!",
       "file": "missing/T/327293-the-rez.json"
+    },
+    {
+      "igdb_id": 416992,
+      "game_name": "The Rhapsody of Zephyr Remastered",
+      "file": "missing/T/416992-the-rhapsody-of-zephyr-remastered.json"
     },
     {
       "igdb_id": 53783,
@@ -1169717,6 +1169927,11 @@
       "file": "missing/T/308490-toon-roads-superbike.json"
     },
     {
+      "igdb_id": 416936,
+      "game_name": "Toon Shift",
+      "file": "missing/T/416936-toon-shift.json"
+    },
+    {
       "igdb_id": 57193,
       "game_name": "Toon Shooters the Freelancers",
       "file": "missing/T/57193-toon-shooters-the-freelancers.json"
@@ -1173430,6 +1173645,11 @@
       "igdb_id": 151807,
       "game_name": "Tougenkyou",
       "file": "missing/T/151807-tougenkyou.json"
+    },
+    {
+      "igdb_id": 416966,
+      "game_name": "Tough Cat",
+      "file": "missing/T/416966-tough-cat.json"
     },
     {
       "igdb_id": 142114,
@@ -1196392,6 +1196612,11 @@
       "file": "missing/T/165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json"
     },
     {
+      "igdb_id": 416980,
+      "game_name": "Tsuki Journey",
+      "file": "missing/T/416980-tsuki-journey.json"
+    },
+    {
       "igdb_id": 322241,
       "game_name": "Tsuki no Hikari",
       "file": "missing/T/322241-tsuki-no-hikari.json"
@@ -1211452,6 +1211677,11 @@
       "file": "missing/U/324722-unexpected-pigeon-race.json"
     },
     {
+      "igdb_id": 416987,
+      "game_name": "Unexpected Tasks",
+      "file": "missing/U/416987-unexpected-tasks.json"
+    },
+    {
       "igdb_id": 265128,
       "game_name": "Unexpected Visitors",
       "file": "missing/U/265128-unexpected-visitors.json"
@@ -1215920,6 +1216150,11 @@
       "igdb_id": 92114,
       "game_name": "Uphill Rush",
       "file": "missing/U/92114-uphill-rush.json"
+    },
+    {
+      "igdb_id": 416937,
+      "game_name": "Uphill Rush 2",
+      "file": "missing/U/416937-uphill-rush-2.json"
     },
     {
       "igdb_id": 108240,
@@ -1236120,6 +1236355,11 @@
       "igdb_id": 245181,
       "game_name": "Waffle Blast",
       "file": "missing/W/245181-waffle-blast.json"
+    },
+    {
+      "igdb_id": 416939,
+      "game_name": "Waffle Boy's Jungle Adventure",
+      "file": "missing/W/416939-waffle-boys-jungle-adventure.json"
     },
     {
       "igdb_id": 311888,
@@ -1296450,6 +1296690,16 @@
       "igdb_id": 297758,
       "game_name": "Zombieland: Survivors",
       "file": "missing/Z/297758-zombieland-survivors.json"
+    },
+    {
+      "igdb_id": 416955,
+      "game_name": "Zombieman",
+      "file": "missing/Z/416955-zombieman.json"
+    },
+    {
+      "igdb_id": 416956,
+      "game_name": "Zombieman 2",
+      "file": "missing/Z/416956-zombieman-2.json"
     },
     {
       "igdb_id": 121383,
