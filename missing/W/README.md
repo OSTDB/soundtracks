@@ -7183,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole Adventurer | 199273 | [199273-wormhole-adventurer.json](./199273-wormhole-adventurer.json) |
 | Wormhole Cafe | 235709 | [235709-wormhole-cafe.json](./235709-wormhole-cafe.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
+| Wormhole-in-One | 420217 | [420217-wormhole-in-one.json](./420217-wormhole-in-one.json) |
 | Wormhole: Battle for Planet Earth | 265091 | [265091-wormhole-battle-for-planet-earth.json](./265091-wormhole-battle-for-planet-earth.json) |
 | Wormholes n' chill | 183281 | [183281-wormholes-n-chill.json](./183281-wormholes-n-chill.json) |
 | Wormi | 269083 | [269083-wormi.json](./269083-wormi.json) |
@@ -7394,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC: Rally Evolved | 8317 | [8317-wrc-rally-evolved.json](./8317-wrc-rally-evolved.json) |
 | Wreak the Havoc | 156564 | [156564-wreak-the-havoc.json](./156564-wreak-the-havoc.json) |
 | Wreck | 288453 | [288453-wreck.json](./288453-wreck.json) |
+| Wreck & Profit | 420224 | [420224-wreck-and-profit.json](./420224-wreck-and-profit.json) |
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
 | Wreck Race | 194192 | [194192-wreck-race.json](./194192-wreck-race.json) |
 | Wreck the Fed | 204898 | [204898-wreck-the-fed.json](./204898-wreck-the-fed.json) |
