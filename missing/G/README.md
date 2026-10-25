@@ -4656,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
 | Goat Simulator | 204123 | [204123-goat-simulator.json](./204123-goat-simulator.json) |
 | Goat Simulator 3: Baadlands: Furry Road | 374977 | [374977-goat-simulator-3-baadlands-furry-road.json](./374977-goat-simulator-3-baadlands-furry-road.json) |
+| Goat Simulator 3: Buck to the Future Pack | 397296 | [397296-goat-simulator-3-buck-to-the-future-pack.json](./397296-goat-simulator-3-buck-to-the-future-pack.json) |
 | Goat Simulator 3: Goat in a Box Edition | 212874 | [212874-goat-simulator-3-goat-in-a-box-edition.json](./212874-goat-simulator-3-goat-in-a-box-edition.json) |
 | Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
 | Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
