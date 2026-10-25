@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War 3010: The Revolution | 38397 | [38397-war-3010-the-revolution.json](./38397-war-3010-the-revolution.json) |
 | War After | 188397 | [188397-war-after.json](./188397-war-after.json) |
 | War Agent | 207874 | [207874-war-agent.json](./207874-war-agent.json) |
+| War Alert | 400744 | [400744-war-alert.json](./400744-war-alert.json) |
 | War Along the Mohawk | 62246 | [62246-war-along-the-mohawk.json](./62246-war-along-the-mohawk.json) |
 | War and Empires | 187264 | [187264-war-and-empires.json](./187264-war-and-empires.json) |
 | War and Magic | 125354 | [125354-war-and-magic.json](./125354-war-and-magic.json) |
