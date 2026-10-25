@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Crane | 95330 | [95330-one-last-crane.json](./95330-one-last-crane.json) |
 | One Last Dinner | 295605 | [295605-one-last-dinner.json](./295605-one-last-dinner.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
+| One Last Hand | 395982 | [395982-one-last-hand.json](./395982-one-last-hand.json) |
 | One Last Job | 330258 | [330258-one-last-job.json](./330258-one-last-job.json) |
 | One Last Journey | 350452 | [350452-one-last-journey.json](./350452-one-last-journey.json) |
 | One Last Memory: Reimagined | 196844 | [196844-one-last-memory-reimagined.json](./196844-one-last-memory-reimagined.json) |
