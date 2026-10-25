@@ -4652,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niwatori ni Natta Ore: Kodoku na Majou to no Itsuka-kan | 258101 | [258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json](./258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json) |
 | Nix Umbra | 158504 | [158504-nix-umbra.json](./158504-nix-umbra.json) |
 | Nix: Ashes of the Phoenix | 242601 | [242601-nix-ashes-of-the-phoenix.json](./242601-nix-ashes-of-the-phoenix.json) |
+| Nix: The Paradox Relic | 410043 | [410043-nix-the-paradox-relic.json](./410043-nix-the-paradox-relic.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
@@ -4712,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fear Downhill Mountain Biking | 372835 | [372835-no-fear-downhill-mountain-biking.json](./372835-no-fear-downhill-mountain-biking.json) |
 | No Fear Downhill Mountain Biking | 4654 | [4654-no-fear-downhill-mountain-biking.json](./4654-no-fear-downhill-mountain-biking.json) |
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
+| No Flowers in Arizona: Rust Red Vivarium | 410061 | [410061-no-flowers-in-arizona-rust-red-vivarium.json](./410061-no-flowers-in-arizona-rust-red-vivarium.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
 | No Food? | 373261 | [373261-no-food.json](./373261-no-food.json) |
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
