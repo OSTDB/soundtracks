@@ -4228,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nazi | 141506 | [141506-hentai-nazi.json](./141506-hentai-nazi.json) |
 | Hentai Nazi: Battle of Japan | 371016 | [371016-hentai-nazi-battle-of-japan.json](./371016-hentai-nazi-battle-of-japan.json) |
 | Hentai Nefiris | 411073 | [411073-hentai-nefiris.json](./411073-hentai-nefiris.json) |
+| Hentai Neighbors | 110678 | [110678-hentai-neighbors.json](./110678-hentai-neighbors.json) |
 | Hentai Neko | 223403 | [223403-hentai-neko.json](./223403-hentai-neko.json) |
 | Hentai Nekogirl | 286412 | [286412-hentai-nekogirl.json](./286412-hentai-nekogirl.json) |
 | Hentai Neon Nights | 265608 | [265608-hentai-neon-nights.json](./265608-hentai-neon-nights.json) |
@@ -4365,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stewardese Girls | 332494 | [332494-hentai-stewardese-girls.json](./332494-hentai-stewardese-girls.json) |
 | Hentai Store | 370274 | [370274-hentai-store.json](./370274-hentai-store.json) |
 | Hentai Stories | 274687 | [274687-hentai-stories.json](./274687-hentai-stories.json) |
+| Hentai Strip Shot | 109389 | [109389-hentai-strip-shot.json](./109389-hentai-strip-shot.json) |
 | Hentai Succubus | 379654 | [379654-hentai-succubus.json](./379654-hentai-succubus.json) |
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
