@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Shoujo Dai Shippai | 395496 | [395496-mahou-shoujo-dai-shippai.json](./395496-mahou-shoujo-dai-shippai.json) |
 | Mahou Shoujo Desu ga, Dungeon de Mugen ni Tsuyoku Natte mo Ii Desu ka | 187152 | [187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json](./187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json) |
 | Mahou Shoujo Escape | 348019 | [348019-mahou-shoujo-escape.json](./348019-mahou-shoujo-escape.json) |
+| Mahou Shoujo Fancy Coco | 414381 | [414381-mahou-shoujo-fancy-coco.json](./414381-mahou-shoujo-fancy-coco.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Shoujo Sakana | 385883 | [385883-mahou-shoujo-sakana.json](./385883-mahou-shoujo-sakana.json) |
 | Mahou Shoujo wo Wasurenai | 396472 | [396472-mahou-shoujo-wo-wasurenai.json](./396472-mahou-shoujo-wo-wasurenai.json) |
@@ -6871,6 +6872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meiji Tokyo Renka Twilight Kiss | 136446 | [136446-meiji-tokyo-renka-twilight-kiss.json](./136446-meiji-tokyo-renka-twilight-kiss.json) |
 | Meiji Tokyo Renka: Haikara Date | 153732 | [153732-meiji-tokyo-renka-haikara-date.json](./153732-meiji-tokyo-renka-haikara-date.json) |
 | Meijin Tanigawa Kouji Tsuzumi Shogi | 385794 | [385794-meijin-tanigawa-kouji-tsuzumi-shogi.json](./385794-meijin-tanigawa-kouji-tsuzumi-shogi.json) |
+| Meikyu | 414461 | [414461-meikyu.json](./414461-meikyu.json) |
 | Meikyu Wakusei des Paraiso | 182391 | [182391-meikyu-wakusei-des-paraiso.json](./182391-meikyu-wakusei-des-paraiso.json) |
 | Meikyuu Cross Blood: Infinity - Ultimate | 248796 | [248796-meikyuu-cross-blood-infinity-ultimate.json](./248796-meikyuu-cross-blood-infinity-ultimate.json) |
 | Meikyuu Gou Mayoroba | 321059 | [321059-meikyuu-gou-mayoroba.json](./321059-meikyuu-gou-mayoroba.json) |
@@ -14901,6 +14903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moves | 129081 | [129081-moves.json](./129081-moves.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
 | Moves Of The Diamond Hand | 332304 | [332304-moves-of-the-diamond-hand.json](./332304-moves-of-the-diamond-hand.json) |
+| Movidle | 414252 | [414252-movidle.json](./414252-movidle.json) |
 | Movie | 26421 | [26421-movie.json](./26421-movie.json) |
 | Movie Actor Trivia | 250864 | [250864-movie-actor-trivia.json](./250864-movie-actor-trivia.json) |
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
