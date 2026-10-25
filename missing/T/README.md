@@ -12753,6 +12753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Resident | 366283 | [366283-the-resident.json](./366283-the-resident.json) |
 | The Residents: Freak Show | 74045 | [74045-the-residents-freak-show.json](./74045-the-residents-freak-show.json) |
 | The Residents' Bad Day on the Midway | 66760 | [66760-the-residents-bad-day-on-the-midway.json](./66760-the-residents-bad-day-on-the-midway.json) |
+| The Residual | 420219 | [420219-the-residual.json](./420219-the-residual.json) |
 | The Resistance | 75764 | [75764-the-resistance.json](./75764-the-resistance.json) |
 | The Resolve | 188445 | [188445-the-resolve.json](./188445-the-resolve.json) |
 | The Resonance Initiative | 405691 | [405691-the-resonance-initiative.json](./405691-the-resonance-initiative.json) |
@@ -16809,6 +16810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thronefall | 236547 | [236547-thronefall.json](./236547-thronefall.json) |
 | ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
+| Throrbs | 420208 | [420208-throrbs.json](./420208-throrbs.json) |
 | Throttle Powah VR | 36976 | [36976-throttle-powah-vr.json](./36976-throttle-powah-vr.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Abandoned 2: The Forest | 31779 | [31779-through-abandoned-2-the-forest.json](./31779-through-abandoned-2-the-forest.json) |
@@ -17161,6 +17163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
+| Tideheart | 420221 | [420221-tideheart.json](./420221-tideheart.json) |
 | Tides Odyssey | 315777 | [315777-tides-odyssey.json](./315777-tides-odyssey.json) |
 | Tides of Despair | 255013 | [255013-tides-of-despair.json](./255013-tides-of-despair.json) |
 | Tides of Dominion | 256419 | [256419-tides-of-dominion.json](./256419-tides-of-dominion.json) |
