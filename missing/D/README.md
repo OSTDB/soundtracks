@@ -3422,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadside: Supporter Pack | 338016 | [338016-deadside-supporter-pack.json](./338016-deadside-supporter-pack.json) |
 | Deadsiege | 110557 | [110557-deadsiege.json](./110557-deadsiege.json) |
 | Deadsigns | 149043 | [149043-deadsigns.json](./149043-deadsigns.json) |
+| Deadstate Heroes | 424642 | [424642-deadstate-heroes.json](./424642-deadstate-heroes.json) |
 | Deadstone | 17916 | [17916-deadstone.json](./17916-deadstone.json) |
 | Deadstorm Pirates | 39788 | [39788-deadstorm-pirates.json](./39788-deadstorm-pirates.json) |
 | DeadStuck | 401720 | [401720-deadstuck.json](./401720-deadstuck.json) |
@@ -12736,6 +12737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Telephone Game: Telpic | 138635 | [138635-drawing-telephone-game-telpic.json](./138635-drawing-telephone-game-telpic.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
+| Drawmi: Terraform Sim | 424696 | [424696-drawmi-terraform-sim.json](./424696-drawmi-terraform-sim.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
 | Drawn Down | 117448 | [117448-drawn-down.json](./117448-drawn-down.json) |
 | Drawn Tale | 346210 | [346210-drawn-tale.json](./346210-drawn-tale.json) |
@@ -13383,6 +13385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drft | 392182 | [392182-drft.json](./392182-drft.json) |
 | drHackDream | 120248 | [120248-drhackdream.json](./120248-drhackdream.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
+| Dribble Basket | 424660 | [424660-dribble-basket.json](./424660-dribble-basket.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
 | Drift | 359723 | [359723-drift.json](./359723-drift.json) |
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
