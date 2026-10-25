@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
 | Latin Shadows: The Visitor | 404073 | [404073-latin-shadows-the-visitor.json](./404073-latin-shadows-the-visitor.json) |
 | Latmos Explorer | 263975 | [263975-latmos-explorer.json](./263975-latmos-explorer.json) |
+| Latte Stand Tycoon | 113802 | [113802-latte-stand-tycoon.json](./113802-latte-stand-tycoon.json) |
 | Latte Stand Tycoon + | 130214 | [130214-latte-stand-tycoon.json](./130214-latte-stand-tycoon.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
 | Lattice Dancer | 240129 | [240129-lattice-dancer.json](./240129-lattice-dancer.json) |
@@ -3640,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is Not the End | 156999 | [156999-life-is-not-the-end.json](./156999-life-is-not-the-end.json) |
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Paine | 188443 | [188443-life-is-paine.json](./188443-life-is-paine.json) |
+| Life is Pointless | 113651 | [113651-life-is-pointless.json](./113651-life-is-pointless.json) |
 | Life is sad | 157407 | [157407-life-is-sad.json](./157407-life-is-sad.json) |
 | Life is Scary | 176765 | [176765-life-is-scary.json](./176765-life-is-scary.json) |
 | Life is Strange 2: Episode 1 - Roads | 111824 | [111824-life-is-strange-2-episode-1-roads.json](./111824-life-is-strange-2-episode-1-roads.json) |
@@ -7261,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
 | LoveKami -Useless Goddess- | 28375 | [28375-lovekami-useless-goddess.json](./28375-lovekami-useless-goddess.json) |
 | LoveKami Trilogy | 381756 | [381756-lovekami-trilogy.json](./381756-lovekami-trilogy.json) |
+| Lovekami: Healing Harem | 110702 | [110702-lovekami-healing-harem.json](./110702-lovekami-healing-harem.json) |
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
 | Loveless cat | 111182 | [111182-loveless-cat.json](./111182-loveless-cat.json) |
 | Loveless General Hospital | 383774 | [383774-loveless-general-hospital.json](./383774-loveless-general-hospital.json) |
