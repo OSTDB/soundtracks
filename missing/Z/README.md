@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Twins | 102629 | [102629-zen-twins.json](./102629-zen-twins.json) |
 | Zen Universe | 133094 | [133094-zen-universe.json](./133094-zen-universe.json) |
 | Zen Vs Gravity | 110893 | [110893-zen-vs-gravity.json](./110893-zen-vs-gravity.json) |
+| Zen vs Zombie | 38753 | [38753-zen-vs-zombie.json](./38753-zen-vs-zombie.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zen Wash | 381713 | [381713-zen-wash.json](./381713-zen-wash.json) |
 | Zen with a Pen | 260252 | [260252-zen-with-a-pen.json](./260252-zen-with-a-pen.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Cafe | 316348 | [316348-zombie-cafe.json](./316348-zombie-cafe.json) |
 | Zombie Call: Trigger 3D | 187311 | [187311-zombie-call-trigger-3d.json](./187311-zombie-call-trigger-3d.json) |
 | Zombie Camp | 31985 | [31985-zombie-camp.json](./31985-zombie-camp.json) |
+| Zombie Camp: Last Survivor | 35540 | [35540-zombie-camp-last-survivor.json](./35540-zombie-camp-last-survivor.json) |
 | Zombie Camping | 155972 | [155972-zombie-camping.json](./155972-zombie-camping.json) |
 | Zombie Car Massacre | 55304 | [55304-zombie-car-massacre.json](./55304-zombie-car-massacre.json) |
 | Zombie Carnage 2 | 184476 | [184476-zombie-carnage-2.json](./184476-zombie-carnage-2.json) |
