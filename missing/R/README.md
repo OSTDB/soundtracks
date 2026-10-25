@@ -5416,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revoltin' Youth | 42814 | [42814-revoltin-youth.json](./42814-revoltin-youth.json) |
 | Revolty-II | 237517 | [237517-revolty-ii.json](./237517-revolty-ii.json) |
 | Revolution | 295995 | [295995-revolution.json](./295995-revolution.json) |
+| Revolution | 419597 | [419597-revolution.json](./419597-revolution.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
 | Revolution '76 | 208785 | [208785-revolution-76.json](./208785-revolution-76.json) |
 | Revolution 3 | 261098 | [261098-revolution-3.json](./261098-revolution-3.json) |
@@ -7180,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Ride & Glide | 325347 | [325347-robo-ride-and-glide.json](./325347-robo-ride-and-glide.json) |
 | Robo Risk | 58755 | [58755-robo-risk.json](./58755-robo-risk.json) |
 | Robo Rob | 286597 | [286597-robo-rob.json](./286597-robo-rob.json) |
+| Robo Rolo | 419588 | [419588-robo-rolo.json](./419588-robo-rolo.json) |
 | Robo Rumble | 154436 | [154436-robo-rumble.json](./154436-robo-rumble.json) |
 | Robo Runner | 186157 | [186157-robo-runner.json](./186157-robo-runner.json) |
 | Robo Runners | 107377 | [107377-robo-runners.json](./107377-robo-runners.json) |
@@ -7394,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Revolt | 230903 | [230903-robot-revolt.json](./230903-robot-revolt.json) |
 | Robot Rhapsody | 346706 | [346706-robot-rhapsody.json](./346706-robot-rhapsody.json) |
 | Robot Rice Cooker Revolt | 133717 | [133717-robot-rice-cooker-revolt.json](./133717-robot-rice-cooker-revolt.json) |
+| Robot Rivals | 419595 | [419595-robot-rivals.json](./419595-robot-rivals.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Ron | 266648 | [266648-robot-ron.json](./266648-robot-ron.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
