@@ -3922,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
 | Seedborne Soldiers | 349390 | [349390-seedborne-soldiers.json](./349390-seedborne-soldiers.json) |
+| Seeders | 35561 | [35561-seeders.json](./35561-seeders.json) |
 | Seeders Puzzle Reboot | 123411 | [123411-seeders-puzzle-reboot.json](./123411-seeders-puzzle-reboot.json) |
 | SeedHero | 342709 | [342709-seedhero.json](./342709-seedhero.json) |
 | Seeding The Wasteland | 406735 | [406735-seeding-the-wasteland.json](./406735-seeding-the-wasteland.json) |
@@ -4768,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serizawa Nobuo no Birdie Try | 406567 | [406567-serizawa-nobuo-no-birdie-try.json](./406567-serizawa-nobuo-no-birdie-try.json) |
 | Serk: Chaos City Delivery | 348919 | [348919-serk-chaos-city-delivery.json](./348919-serk-chaos-city-delivery.json) |
 | Serke | 318288 | [318288-serke.json](./318288-serke.json) |
+| Serment - Contract with a Devil | 38756 | [38756-serment-contract-with-a-devil.json](./38756-serment-contract-with-a-devil.json) |
 | SerMon | 404386 | [404386-sermon.json](./404386-sermon.json) |
 | Serofans | 64811 | [64811-serofans.json](./64811-serofans.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Rinkaiten no Azrael: Tenjoukai-hen - Episode:2 | 394789 | [394789-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-2.json](./394789-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-2.json) |
 | Shin Rinkaiten no Azrael: Tenjoukai-hen - Episode:3 | 394790 | [394790-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-3.json](./394790-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-3.json) |
 | Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
+| Shin Samurai Jazz | 35636 | [35636-shin-samurai-jazz.json](./35636-shin-samurai-jazz.json) |
 | Shin Sangoku Musou 4 Special | 395999 | [395999-shin-sangoku-musou-4-special.json](./395999-shin-sangoku-musou-4-special.json) |
 | Shin Sangoku Musou Multi Raid 2: HD Edition | 43050 | [43050-shin-sangoku-musou-multi-raid-2-hd-edition.json](./43050-shin-sangoku-musou-multi-raid-2-hd-edition.json) |
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
@@ -9035,6 +9038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Ray tracing Mini Game 10 | 152899 | [152899-simple-ray-tracing-mini-game-10.json](./152899-simple-ray-tracing-mini-game-10.json) |
 | Simple Rockets | 10997 | [10997-simple-rockets.json](./10997-simple-rockets.json) |
 | Simple Rolling | 236931 | [236931-simple-rolling.json](./236931-simple-rolling.json) |
+| Simple RTS | 38768 | [38768-simple-rts.json](./38768-simple-rts.json) |
 | Simple Sandwich | 118376 | [118376-simple-sandwich.json](./118376-simple-sandwich.json) |
 | Simple Series 2000 Vol. 90: The Oneechanbara 2 | 73012 | [73012-simple-series-2000-vol-90-the-oneechanbara-2.json](./73012-simple-series-2000-vol-90-the-oneechanbara-2.json) |
 | Simple Series for Nintendo 3DS Vol. 1: The Mahjong | 82133 | [82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json](./82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json) |
@@ -12632,6 +12636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowfall Symphony: A Tale of Crustallus | 311619 | [311619-snowfall-symphony-a-tale-of-crustallus.json](./311619-snowfall-symphony-a-tale-of-crustallus.json) |
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
 | Snowflake Master | 369335 | [369335-snowflake-master.json](./369335-snowflake-master.json) |
+| Snowflake Tattoo | 35608 | [35608-snowflake-tattoo.json](./35608-snowflake-tattoo.json) |
 | Snowflake's Chance | 29699 | [29699-snowflakes-chance.json](./29699-snowflakes-chance.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
@@ -12894,6 +12899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
 | Soccer Puzzle | 391351 | [391351-soccer-puzzle.json](./391351-soccer-puzzle.json) |
 | Soccer Q | 141460 | [141460-soccer-q.json](./141460-soccer-q.json) |
+| Soccer Rage | 35597 | [35597-soccer-rage.json](./35597-soccer-rage.json) |
 | Soccer Rally | 175287 | [175287-soccer-rally.json](./175287-soccer-rally.json) |
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
@@ -19486,6 +19492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fish | 349979 | [349979-star-fish.json](./349979-star-fish.json) |
 | Star Fisher | 181064 | [181064-star-fisher.json](./181064-star-fisher.json) |
 | Star Flashback Blast! | 304288 | [304288-star-flashback-blast.json](./304288-star-flashback-blast.json) |
+| Star Fleet Armada: Rogue Adventures | 38796 | [38796-star-fleet-armada-rogue-adventures.json](./38796-star-fleet-armada-rogue-adventures.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
 | Star Force | 284222 | [284222-star-force.json](./284222-star-force.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
@@ -20137,6 +20144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Zeal 4x | 195975 | [195975-star-zeal-4x.json](./195975-star-zeal-4x.json) |
 | Star Zone | 107033 | [107033-star-zone.json](./107033-star-zone.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
+| Star-Box: RPG Adventures in Space! | 35555 | [35555-star-box-rpg-adventures-in-space.json](./35555-star-box-rpg-adventures-in-space.json) |
 | Star-Crossed Myth | 238897 | [238897-star-crossed-myth.json](./238897-star-crossed-myth.json) |
 | Star-Crossed Myth: The Department of Punishments | 123451 | [123451-star-crossed-myth-the-department-of-punishments.json](./123451-star-crossed-myth-the-department-of-punishments.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Dui | 238070 | [238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json](./238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json) |
@@ -20427,6 +20435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight of Aeons | 75080 | [75080-starlight-of-aeons.json](./75080-starlight-of-aeons.json) |
 | Starlight Re:Volver | 324573 | [324573-starlight-re-volver.json](./324573-starlight-re-volver.json) |
 | Starlight Riddles | 292993 | [292993-starlight-riddles.json](./292993-starlight-riddles.json) |
+| Starlight Tactics | 35660 | [35660-starlight-tactics.json](./35660-starlight-tactics.json) |
 | StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
@@ -20758,6 +20767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Command | 13764 | [13764-starship-command.json](./13764-starship-command.json) |
 | Starship Command: Orion Spur | 362739 | [362739-starship-command-orion-spur.json](./362739-starship-command-orion-spur.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
+| StarShip Constructor | 38799 | [38799-starship-constructor.json](./38799-starship-constructor.json) |
 | Starship Crafter | 392237 | [392237-starship-crafter.json](./392237-starship-crafter.json) |
 | Starship Danger! | 267315 | [267315-starship-danger.json](./267315-starship-danger.json) |
 | Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
@@ -22000,6 +22010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
 | Stocksynd House | 128767 | [128767-stocksynd-house.json](./128767-stocksynd-house.json) |
 | StoicScape | 289255 | [289255-stoicscape.json](./289255-stoicscape.json) |
+| Stoire | 38803 | [38803-stoire.json](./38803-stoire.json) |
 | Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
 | Stoked | 7195 | [7195-stoked.json](./7195-stoked.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
@@ -22565,6 +22576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratside | 130780 | [130780-stratside.json](./130780-stratside.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
+| Stratus: Battle for the Sky | 35609 | [35609-stratus-battle-for-the-sky.json](./35609-stratus-battle-for-the-sky.json) |
 | Stravaeger | 424024 | [424024-stravaeger.json](./424024-stravaeger.json) |
 | Straw Hat Samurai: Duels | 101931 | [101931-straw-hat-samurai-duels.json](./101931-straw-hat-samurai-duels.json) |
 | Straw Path | 416675 | [416675-straw-path.json](./416675-straw-path.json) |
