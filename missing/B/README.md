@@ -4490,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatBox Runner | 160130 | [160130-beatbox-runner.json](./160130-beatbox-runner.json) |
 | Beatbuddy HD | 175102 | [175102-beatbuddy-hd.json](./175102-beatbuddy-hd.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
+| Beatcore Zero | 405143 | [405143-beatcore-zero.json](./405143-beatcore-zero.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatdown Brawler | 130103 | [130103-beatdown-brawler.json](./130103-beatdown-brawler.json) |
 | Beatdown Dungeon | 116959 | [116959-beatdown-dungeon.json](./116959-beatdown-dungeon.json) |
@@ -5376,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bergen Bridge Expert | 90842 | [90842-bergen-bridge-expert.json](./90842-bergen-bridge-expert.json) |
 | Bergen Bridge Intermediate 1 | 95562 | [95562-bergen-bridge-intermediate-1.json](./95562-bergen-bridge-intermediate-1.json) |
 | Bergentruck 201X | 359045 | [359045-bergentruck-201x.json](./359045-bergentruck-201x.json) |
+| Bergfried | 405170 | [405170-bergfried.json](./405170-bergfried.json) |
 | Berghain Trainer | 313778 | [313778-berghain-trainer.json](./313778-berghain-trainer.json) |
 | Berghotel Heist | 365817 | [365817-berghotel-heist.json](./365817-berghotel-heist.json) |
 | Bergwerk: A Mining Sim | 412235 | [412235-bergwerk-a-mining-sim.json](./412235-bergwerk-a-mining-sim.json) |
@@ -7692,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
 | Blackjack vs. Bunny Girls | 286076 | [286076-blackjack-vs-bunny-girls.json](./286076-blackjack-vs-bunny-girls.json) |
 | Blackjack Wars | 372984 | [372984-blackjack-wars.json](./372984-blackjack-wars.json) |
+| Blackjack: Cheat the House! | 405149 | [405149-blackjack-cheat-the-house.json](./405149-blackjack-cheat-the-house.json) |
 | BlackJack: Daily 21 Points | 87143 | [87143-blackjack-daily-21-points.json](./87143-blackjack-daily-21-points.json) |
 | Blackjack/Poker/Acey-Deucey | 100176 | [100176-blackjack-poker-acey-deucey.json](./100176-blackjack-poker-acey-deucey.json) |
 | Blacklight: Retribution - Evacuation Pack | 226259 | [226259-blacklight-retribution-evacuation-pack.json](./226259-blacklight-retribution-evacuation-pack.json) |
@@ -11711,6 +11714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing | 78619 | [78619-boxing.json](./78619-boxing.json) |
 | Boxing Apocalypse | 88022 | [88022-boxing-apocalypse.json](./88022-boxing-apocalypse.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
+| Boxing Bastards | 405132 | [405132-boxing-bastards.json](./405132-boxing-bastards.json) |
 | Boxing Bugs | 39412 | [39412-boxing-bugs.json](./39412-boxing-bugs.json) |
 | Boxing Champions | 43425 | [43425-boxing-champions.json](./43425-boxing-champions.json) |
 | Boxing Champs | 117800 | [117800-boxing-champs.json](./117800-boxing-champs.json) |
