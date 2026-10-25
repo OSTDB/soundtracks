@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 500 Caliber Contractz | 268103 | [268103-500-caliber-contractz.json](./268103-500-caliber-contractz.json) |
 | 500 Finger Fillet | 412311 | [412311-500-finger-fillet.json](./412311-500-finger-fillet.json) |
 | 500 GP | 249253 | [249253-500-gp.json](./249253-500-gp.json) |
+| 500 Saints | 400752 | [400752-500-saints.json](./400752-500-saints.json) |
 | 500 Second Challenge | 219514 | [219514-500-second-challenge.json](./219514-500-second-challenge.json) |
 | 500 Years Act 1 | 35587 | [35587-500-years-act-1.json](./35587-500-years-act-1.json) |
 | 5001 Games the Ultimate Games Pack | 147280 | [147280-5001-games-the-ultimate-games-pack.json](./147280-5001-games-the-ultimate-games-pack.json) |
@@ -2473,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 64.0 | 27801 | [27801-64-0.json](./27801-64-0.json) |
 | 64th Street: A Detective Story | 6735 | [6735-64th-street-a-detective-story.json](./6735-64th-street-a-detective-story.json) |
 | 65536: Super 2048 | 95316 | [95316-65536-super-2048.json](./95316-65536-super-2048.json) |
+| 66 | 400754 | [400754-66.json](./400754-66.json) |
 | 66 Bricks | 241353 | [241353-66-bricks.json](./241353-66-bricks.json) |
 | 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
 | 666 | 266107 | [266107-666.json](./266107-666.json) |
