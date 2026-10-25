@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X2: Wolverine's Revenge | 248452 | [248452-x2-wolverines-revenge.json](./248452-x2-wolverines-revenge.json) |
 | X2: Wolverine's Revenge | 4579 | [4579-x2-wolverines-revenge.json](./4579-x2-wolverines-revenge.json) |
 | X2O | 89802 | [89802-x2o.json](./89802-x2o.json) |
+| X2Roulette | 395369 | [395369-x2roulette.json](./395369-x2roulette.json) |
 | X3: Albion Prelude | 9321 | [9321-x3-albion-prelude.json](./9321-x3-albion-prelude.json) |
 | X3: Albion Prelude - Bonus Package | 224391 | [224391-x3-albion-prelude-bonus-package.json](./224391-x3-albion-prelude-bonus-package.json) |
 | X3: Farnham's Legacy | 145483 | [145483-x3-farnhams-legacy.json](./145483-x3-farnhams-legacy.json) |
