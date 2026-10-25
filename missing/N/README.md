@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations of Darkness | 233484 | [233484-nations-of-darkness.json](./233484-nations-of-darkness.json) |
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
 | NationStates | 58127 | [58127-nationstates.json](./58127-nationstates.json) |
+| NationZero | 422650 | [422650-nationzero.json](./422650-nationzero.json) |
 | Native | 270274 | [270274-native.json](./270274-native.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Nato defense | 40991 | [40991-nato-defense.json](./40991-nato-defense.json) |
