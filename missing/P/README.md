@@ -10112,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Paradise | 4073 | [4073-pool-paradise.json](./4073-pool-paradise.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Party | 226713 | [226713-pool-party.json](./226713-pool-party.json) |
+| Pool Party | 5103 | [5103-pool-party.json](./5103-pool-party.json) |
 | Pool Party Boys: Splash Guys | 411139 | [411139-pool-party-boys-splash-guys.json](./411139-pool-party-boys-splash-guys.json) |
 | Pool Party Girls: Splash Babes | 411824 | [411824-pool-party-girls-splash-babes.json](./411824-pool-party-girls-splash-babes.json) |
 | Pool Party Panic | 26953 | [26953-pool-party-panic.json](./26953-pool-party-panic.json) |
