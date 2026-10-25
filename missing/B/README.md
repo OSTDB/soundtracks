@@ -7775,7 +7775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Force | 11860 | [11860-blade-force.json](./11860-blade-force.json) |
 | Blade II: The Return of Evil | 57547 | [57547-blade-ii-the-return-of-evil.json](./57547-blade-ii-the-return-of-evil.json) |
-| Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Kitten: Dirty Angels | 62089 | [62089-blade-kitten-dirty-angels.json](./62089-blade-kitten-dirty-angels.json) |
 | Blade Knight | 420577 | [420577-blade-knight.json](./420577-blade-knight.json) |
 | Blade Lords | 41719 | [41719-blade-lords.json](./41719-blade-lords.json) |
@@ -9007,7 +9006,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Metal | 137449 | [137449-blood-metal.json](./137449-blood-metal.json) |
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
 | Blood Money | 105108 | [105108-blood-money.json](./105108-blood-money.json) |
-| Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
 | Blood Money: Lethal Eden | 388296 | [388296-blood-money-lethal-eden.json](./388296-blood-money-lethal-eden.json) |
 | Blood Moon | 116731 | [116731-blood-moon.json](./116731-blood-moon.json) |
