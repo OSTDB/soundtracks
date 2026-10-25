@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack and the Beanstalk | 394188 | [394188-jack-and-the-beanstalk.json](./394188-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk Jigsaw Puzzle | 163406 | [163406-jack-and-the-beanstalk-jigsaw-puzzle.json](./163406-jack-and-the-beanstalk-jigsaw-puzzle.json) |
 | Jack and the Beanstalk: A Hidden Story | 368037 | [368037-jack-and-the-beanstalk-a-hidden-story.json](./368037-jack-and-the-beanstalk-a-hidden-story.json) |
+| Jack Attack | 408715 | [408715-jack-attack.json](./408715-jack-attack.json) |
 | Jack Attack 2 | 210045 | [210045-jack-attack-2.json](./210045-jack-attack-2.json) |
 | Jack Axe | 113414 | [113414-jack-axe.json](./113414-jack-axe.json) |
 | Jack Axe: The Trial | 165622 | [165622-jack-axe-the-trial.json](./165622-jack-axe-the-trial.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jay and Silent Bob: Chronic Blunt Punch | 28284 | [28284-jay-and-silent-bob-chronic-blunt-punch.json](./28284-jay-and-silent-bob-chronic-blunt-punch.json) |
 | Jay and Silent Bob's: Joint Venture | 411541 | [411541-jay-and-silent-bobs-joint-venture.json](./411541-jay-and-silent-bobs-joint-venture.json) |
 | Jay Arnold's Immortal Quest | 179427 | [179427-jay-arnolds-immortal-quest.json](./179427-jay-arnolds-immortal-quest.json) |
+| Jay Jay the Jet Plane: Sky Heroes to the Rescue | 408569 | [408569-jay-jay-the-jet-plane-sky-heroes-to-the-rescue.json](./408569-jay-jay-the-jet-plane-sky-heroes-to-the-rescue.json) |
 | Jay Jay: The Jet Plane - Jay Jay Earns His Wings | 71331 | [71331-jay-jay-the-jet-plane-jay-jay-earns-his-wings.json](./71331-jay-jay-the-jet-plane-jay-jay-earns-his-wings.json) |
 | Jay Schilling's Edge of Chaos | 189025 | [189025-jay-schillings-edge-of-chaos.json](./189025-jay-schillings-edge-of-chaos.json) |
 | Jay Walker | 109410 | [109410-jay-walker.json](./109410-jay-walker.json) |
@@ -2453,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyville | 260104 | [260104-joyville.json](./260104-joyville.json) |
 | Joyville 2 | 305751 | [305751-joyville-2.json](./305751-joyville-2.json) |
 | JPDE: Sonata of Fire | 178042 | [178042-jpde-sonata-of-fire.json](./178042-jpde-sonata-of-fire.json) |
+| JPEG | 408591 | [408591-jpeg.json](./408591-jpeg.json) |
 | JQ: Beautiful Japan | 358647 | [358647-jq-beautiful-japan.json](./358647-jq-beautiful-japan.json) |
 | JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
 | JQ: cosmos | 117116 | [117116-jq-cosmos.json](./117116-jq-cosmos.json) |
