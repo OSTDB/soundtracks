@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
 | Narcissu | 95463 | [95463-narcissu.json](./95463-narcissu.json) |
 | Narcissu 0 | 122223 | [122223-narcissu-0.json](./122223-narcissu-0.json) |
+| Narcissu 10th Anniversary Anthology Project | 33893 | [33893-narcissu-10th-anniversary-anthology-project.json](./33893-narcissu-10th-anniversary-anthology-project.json) |
 | Narcissu 1st & 2nd | 30253 | [30253-narcissu-1st-and-2nd.json](./30253-narcissu-1st-and-2nd.json) |
 | Narcissu 3rd -Die Dritte Welt- | 93513 | [93513-narcissu-3rd-die-dritte-welt.json](./93513-narcissu-3rd-die-dritte-welt.json) |
 | Narcissu Side 2nd | 78208 | [78208-narcissu-side-2nd.json](./78208-narcissu-side-2nd.json) |
