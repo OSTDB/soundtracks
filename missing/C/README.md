@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Legends: The Hookman | 62834 | [62834-campfire-legends-the-hookman.json](./62834-campfire-legends-the-hookman.json) |
 | Campfire Legends: The Last Act | 62832 | [62832-campfire-legends-the-last-act.json](./62832-campfire-legends-the-last-act.json) |
 | Campfire Legends: The Last Act - Premium Edition | 341083 | [341083-campfire-legends-the-last-act-premium-edition.json](./341083-campfire-legends-the-last-act-premium-edition.json) |
+| Campfire Of Oasis: The Story | 401377 | [401377-campfire-of-oasis-the-story.json](./401377-campfire-of-oasis-the-story.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
 | Campfire Tales | 165585 | [165585-campfire-tales.json](./165585-campfire-tales.json) |
 | Campground Owner | 192692 | [192692-campground-owner.json](./192692-campground-owner.json) |
@@ -1196,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Army | 152349 | [152349-cannon-army.json](./152349-cannon-army.json) |
 | Cannon Ball | 366921 | [366921-cannon-ball.json](./366921-cannon-ball.json) |
 | Cannon Ball | 95431 | [95431-cannon-ball.json](./95431-cannon-ball.json) |
+| Cannon Balloon Party | 401379 | [401379-cannon-balloon-party.json](./401379-cannon-balloon-party.json) |
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
 | Cannon Bird 3 | 325560 | [325560-cannon-bird-3.json](./325560-cannon-bird-3.json) |
 | Cannon Blaster 3 | 335470 | [335470-cannon-blaster-3.json](./335470-cannon-blaster-3.json) |
@@ -1940,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Fish | 268311 | [268311-cardboard-fish.json](./268311-cardboard-fish.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
+| Cardboard Racers | 401378 | [401378-cardboard-racers.json](./401378-cardboard-racers.json) |
 | Cardbob | 217216 | [217216-cardbob.json](./217216-cardbob.json) |
 | Cardborne | 390144 | [390144-cardborne.json](./390144-cardborne.json) |
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
@@ -4448,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Bikes: Mega Ramp Stunts | 100835 | [100835-chained-bikes-mega-ramp-stunts.json](./100835-chained-bikes-mega-ramp-stunts.json) |
+| Chained Cars | 401380 | [401380-chained-cars.json](./401380-chained-cars.json) |
 | Chained Cucumber | 270541 | [270541-chained-cucumber.json](./270541-chained-cucumber.json) |
 | Chained Echoes: Ashes of Elrant | 324936 | [324936-chained-echoes-ashes-of-elrant.json](./324936-chained-echoes-ashes-of-elrant.json) |
 | Chained Heroes | 322435 | [322435-chained-heroes.json](./322435-chained-heroes.json) |
@@ -5401,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess and Dungeons | 186195 | [186195-chess-and-dungeons.json](./186195-chess-and-dungeons.json) |
 | Chess Arena | 117818 | [117818-chess-arena.json](./117818-chess-arena.json) |
 | Chess Arena | 373648 | [373648-chess-arena.json](./373648-chess-arena.json) |
+| Chess Battle | 401382 | [401382-chess-battle.json](./401382-chess-battle.json) |
 | Chess Battle Quest | 240843 | [240843-chess-battle-quest.json](./240843-chess-battle-quest.json) |
 | Chess Bomb | 333236 | [333236-chess-bomb.json](./333236-chess-bomb.json) |
 | Chess Boss | 175197 | [175197-chess-boss.json](./175197-chess-boss.json) |
@@ -8717,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Art | 267856 | [267856-clown-art.json](./267856-clown-art.json) |
 | Clown Ball | 368228 | [368228-clown-ball.json](./368228-clown-ball.json) |
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
+| Clown Car vs. The War | 401381 | [401381-clown-car-vs-the-war.json](./401381-clown-car-vs-the-war.json) |
 | Clown House | 90599 | [90599-clown-house.json](./90599-clown-house.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
 | Clown In a House | 152685 | [152685-clown-in-a-house.json](./152685-clown-in-a-house.json) |
@@ -16330,6 +16336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Cats' Balls | 410309 | [410309-cut-cats-balls.json](./410309-cut-cats-balls.json) |
 | Cut Choice | 234444 | [234444-cut-choice.json](./234444-cut-choice.json) |
 | Cut Content Restored | 390540 | [390540-cut-content-restored.json](./390540-cut-content-restored.json) |
+| Cut Corner Renovations USSR | 401387 | [401387-cut-corner-renovations-ussr.json](./401387-cut-corner-renovations-ussr.json) |
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
 | Cut Grass | 188392 | [188392-cut-grass.json](./188392-cut-grass.json) |
 | Cut It | 316716 | [316716-cut-it.json](./316716-cut-it.json) |
