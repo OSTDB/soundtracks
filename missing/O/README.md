@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
 | Odyssey: Starship Pinball | 379148 | [379148-odyssey-starship-pinball.json](./379148-odyssey-starship-pinball.json) |
 | Odyssey: The Compleat Apventure | 23307 | [23307-odyssey-the-compleat-apventure.json](./23307-odyssey-the-compleat-apventure.json) |
+| Odyssey: The Search for Ulysses | 24156 | [24156-odyssey-the-search-for-ulysses.json](./24156-odyssey-the-search-for-ulysses.json) |
 | Odyssian Blaze | 190993 | [190993-odyssian-blaze.json](./190993-odyssian-blaze.json) |
 | Oedipus Dating Sim | 89660 | [89660-oedipus-dating-sim.json](./89660-oedipus-dating-sim.json) |
 | Oedipus In My Inventory | 124597 | [124597-oedipus-in-my-inventory.json](./124597-oedipus-in-my-inventory.json) |
