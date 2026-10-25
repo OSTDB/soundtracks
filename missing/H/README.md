@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsuyuki Sakura | 122289 | [122289-hatsuyuki-sakura.json](./122289-hatsuyuki-sakura.json) |
 | Hatsuyuki Sakura: First Press Limited Edition | 122288 | [122288-hatsuyuki-sakura-first-press-limited-edition.json](./122288-hatsuyuki-sakura-first-press-limited-edition.json) |
 | Hatsuyuki Sakura: White Graduation | 259616 | [259616-hatsuyuki-sakura-white-graduation.json](./259616-hatsuyuki-sakura-white-graduation.json) |
+| Hatter by Night | 420213 | [420213-hatter-by-night.json](./420213-hatter-by-night.json) |
 | Hattrick | 138665 | [138665-hattrick.json](./138665-hattrick.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | HatTrick Beginnings | 272483 | [272483-hattrick-beginnings.json](./272483-hattrick-beginnings.json) |
