@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboo Bushido | 333145 | [333145-bamboo-bushido.json](./333145-bamboo-bushido.json) |
 | Bamboo EP | 26667 | [26667-bamboo-ep.json](./26667-bamboo-ep.json) |
 | Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
+| Bamboo Grove | 420177 | [420177-bamboo-grove.json](./420177-bamboo-grove.json) |
 | Bamboo Panda | 355121 | [355121-bamboo-panda.json](./355121-bamboo-panda.json) |
 | Bamboo Retro Run | 322439 | [322439-bamboo-retro-run.json](./322439-bamboo-retro-run.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
@@ -1898,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
 | Barbarous: Tavern of Emyr | 126471 | [126471-barbarous-tavern-of-emyr.json](./126471-barbarous-tavern-of-emyr.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
+| Barbe-Yeux | 420203 | [420203-barbe-yeux.json](./420203-barbe-yeux.json) |
 | Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
 | Barbecue | 408222 | [408222-barbecue.json](./408222-barbecue.json) |
 | Barbecue With Friends | 319670 | [319670-barbecue-with-friends.json](./319670-barbecue-with-friends.json) |
@@ -5507,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bet on Man | 114857 | [114857-bet-on-man.json](./114857-bet-on-man.json) |
 | Bet on Soldier: Black out Saigon | 52464 | [52464-bet-on-soldier-black-out-saigon.json](./52464-bet-on-soldier-black-out-saigon.json) |
 | Bet on Soldier: Blood of Sahara | 52463 | [52463-bet-on-soldier-blood-of-sahara.json](./52463-bet-on-soldier-blood-of-sahara.json) |
+| Bet Shop Simulator | 420196 | [420196-bet-shop-simulator.json](./420196-bet-shop-simulator.json) |
 | Bet Your Brain | 292456 | [292456-bet-your-brain.json](./292456-bet-your-brain.json) |
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
 | Beta Collexion | 80128 | [80128-beta-collexion.json](./80128-beta-collexion.json) |
@@ -12757,6 +12760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
 | Bridge of Dawn | 172975 | [172975-bridge-of-dawn.json](./172975-bridge-of-dawn.json) |
+| Bridge of Doom | 420188 | [420188-bridge-of-doom.json](./420188-bridge-of-doom.json) |
 | Bridge Olympiad | 71382 | [71382-bridge-olympiad.json](./71382-bridge-olympiad.json) |
 | Bridge Player | 13443 | [13443-bridge-player.json](./13443-bridge-player.json) |
 | Bridge Player 3 | 13442 | [13442-bridge-player-3.json](./13442-bridge-player-3.json) |
@@ -14459,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger For Me | 180607 | [180607-burger-for-me.json](./180607-burger-for-me.json) |
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
 | Burger Girl Clicker | 337814 | [337814-burger-girl-clicker.json](./337814-burger-girl-clicker.json) |
+| Burger Here! | 420175 | [420175-burger-here.json](./420175-burger-here.json) |
 | Burger Impact: Solar Strike | 246868 | [246868-burger-impact-solar-strike.json](./246868-burger-impact-solar-strike.json) |
 | Burger in Hyperland | 67917 | [67917-burger-in-hyperland.json](./67917-burger-in-hyperland.json) |
 | Burger in Partyland | 63725 | [63725-burger-in-partyland.json](./63725-burger-in-partyland.json) |
