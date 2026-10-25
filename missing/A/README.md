@@ -3013,7 +3013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -6102,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Allura: Curse of the Mermaid | 148114 | [148114-allura-curse-of-the-mermaid.json](./148114-allura-curse-of-the-mermaid.json) |
 | Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
+| Alluring Neon Night Town | 417270 | [417270-alluring-neon-night-town.json](./417270-alluring-neon-night-town.json) |
 | Alluris | 118627 | [118627-alluris.json](./118627-alluris.json) |
 | Allwheel.online | 114118 | [114118-allwheel-online.json](./114118-allwheel-online.json) |
 | Ally Gory: The Great Mushroom Hunt | 171998 | [171998-ally-gory-the-great-mushroom-hunt.json](./171998-ally-gory-the-great-mushroom-hunt.json) |
@@ -6433,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternate Reality: The Dungeon | 44128 | [44128-alternate-reality-the-dungeon.json](./44128-alternate-reality-the-dungeon.json) |
 | Alternate Tales of Ryukyu: Bonds of the Red Sakura Trees | 408706 | [408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json](./408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
+| Alternatis: William the Conqueror | 417605 | [417605-alternatis-william-the-conqueror.json](./417605-alternatis-william-the-conqueror.json) |
 | Alternativa | 16031 | [16031-alternativa.json](./16031-alternativa.json) |
 | Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
 | Alternative Girls 2 | 216215 | [216215-alternative-girls-2.json](./216215-alternative-girls-2.json) |
@@ -10986,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aretha II: Ariel no Fushigi na Tabi | 15896 | [15896-aretha-ii-ariel-no-fushigi-na-tabi.json](./15896-aretha-ii-ariel-no-fushigi-na-tabi.json) |
 | Aretha III | 71777 | [71777-aretha-iii.json](./71777-aretha-iii.json) |
 | Aretha the Super Famicom | 15895 | [15895-aretha-the-super-famicom.json](./15895-aretha-the-super-famicom.json) |
+| Aretias: Cursed Island | 417254 | [417254-aretias-cursed-island.json](./417254-aretias-cursed-island.json) |
 | Aretisia: Tenebris Dominus | 125391 | [125391-aretisia-tenebris-dominus.json](./125391-aretisia-tenebris-dominus.json) |
 | Arevan | 34906 | [34906-arevan.json](./34906-arevan.json) |
 | Arevoatl seven coins | 102921 | [102921-arevoatl-seven-coins.json](./102921-arevoatl-seven-coins.json) |
