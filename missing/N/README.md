@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | NEPO Missions | 374410 | [374410-nepo-missions.json](./374410-nepo-missions.json) |
+| Nepotism for Germany | 397276 | [397276-nepotism-for-germany.json](./397276-nepotism-for-germany.json) |
 | Neppachi: 10-renchan de Las Vegas Ryokou | 272455 | [272455-neppachi-10-renchan-de-las-vegas-ryokou.json](./272455-neppachi-10-renchan-de-las-vegas-ryokou.json) |
 | Neptune | 313451 | [313451-neptune.json](./313451-neptune.json) |
 | Neptune | 363812 | [363812-neptune.json](./363812-neptune.json) |
