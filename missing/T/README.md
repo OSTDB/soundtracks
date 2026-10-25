@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted Gun | 208597 | [208597-tainted-gun.json](./208597-tainted-gun.json) |
 | Tainted Keep | 39782 | [39782-tainted-keep.json](./39782-tainted-keep.json) |
 | Tainted Pools | 347362 | [347362-tainted-pools.json](./347362-tainted-pools.json) |
+| Tainted Tide | 424658 | [424658-tainted-tide.json](./424658-tainted-tide.json) |
 | Taipan! | 131518 | [131518-taipan.json](./131518-taipan.json) |
 | Taipei | 72147 | [72147-taipei.json](./72147-taipei.json) |
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
@@ -20889,6 +20890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Much Baggage | 420480 | [420480-too-much-baggage.json](./420480-too-much-baggage.json) |
 | Too Much Water | 157879 | [157879-too-much-water.json](./157879-too-much-water.json) |
 | Too Slime and Snake | 218410 | [218410-too-slime-and-snake.json](./218410-too-slime-and-snake.json) |
+| Too Slow Again | 424704 | [424704-too-slow-again.json](./424704-too-slow-again.json) |
 | Too Small To Matter | 297363 | [297363-too-small-to-matter.json](./297363-too-small-to-matter.json) |
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
