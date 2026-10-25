@@ -3063,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scriptorium: Master of Manuscripts | 313811 | [313811-scriptorium-master-of-manuscripts.json](./313811-scriptorium-master-of-manuscripts.json) |
 | Scriptur | 190225 | [190225-scriptur.json](./190225-scriptur.json) |
 | Scrivalry | 58129 | [58129-scrivalry.json](./58129-scrivalry.json) |
+| Scriver: A Word Game | 402115 | [402115-scriver-a-word-game.json](./402115-scriver-a-word-game.json) |
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Scroll Extreme | 22266 | [22266-scroll-extreme.json](./22266-scroll-extreme.json) |
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
@@ -6597,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
 | Shh, Zombies | 21979 | [21979-shh-zombies.json](./21979-shh-zombies.json) |
 | Shhh! | 278288 | [278288-shhh.json](./278288-shhh.json) |
+| Shhh!k | 402099 | [402099-shhh-k.json](./402099-shhh-k.json) |
 | Shhh!Saw | 291823 | [291823-shhh-saw.json](./291823-shhh-saw.json) |
 | Shi no Homura | 305605 | [305605-shi-no-homura.json](./305605-shi-no-homura.json) |
 | Shi Sen | 105522 | [105522-shi-sen.json](./105522-shi-sen.json) |
@@ -9368,6 +9370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
 | Sinisistar | 134633 | [134633-sinisistar.json](./134633-sinisistar.json) |
+| Sinisistar 2 | 402143 | [402143-sinisistar-2.json](./402143-sinisistar-2.json) |
 | Sinisistar: Lite Version | 193662 | [193662-sinisistar-lite-version.json](./193662-sinisistar-lite-version.json) |
 | Sinisomnia | 375370 | [375370-sinisomnia.json](./375370-sinisomnia.json) |
 | Sinistar | 18693 | [18693-sinistar.json](./18693-sinistar.json) |
@@ -17313,6 +17316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelen met Bassie & Adriaan Deel 1 | 242644 | [242644-spelen-met-bassie-and-adriaan-deel-1.json](./242644-spelen-met-bassie-and-adriaan-deel-1.json) |
 | Spelen met Bassie & Adriaan Deel 2 | 242645 | [242645-spelen-met-bassie-and-adriaan-deel-2.json](./242645-spelen-met-bassie-and-adriaan-deel-2.json) |
 | Spell 9 | 57552 | [57552-spell-9.json](./57552-spell-9.json) |
+| Spell Alchemist | 402132 | [402132-spell-alchemist.json](./402132-spell-alchemist.json) |
 | Spell Bandit | 114747 | [114747-spell-bandit.json](./114747-spell-bandit.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Boy | 329093 | [329093-spell-boy.json](./329093-spell-boy.json) |
@@ -21735,6 +21739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Season 08 | 298182 | [298182-stellaris-season-08.json](./298182-stellaris-season-08.json) |
 | Stellaris: Season 09 | 401936 | [401936-stellaris-season-09.json](./401936-stellaris-season-09.json) |
 | Stellaris: Shadows of the Shroud | 336603 | [336603-stellaris-shadows-of-the-shroud.json](./336603-stellaris-shadows-of-the-shroud.json) |
+| Stellaris: Stargazer Species Portrait | 402121 | [402121-stellaris-stargazer-species-portrait.json](./402121-stellaris-stargazer-species-portrait.json) |
 | Stellaris: Synthetic Dawn | 54528 | [54528-stellaris-synthetic-dawn.json](./54528-stellaris-synthetic-dawn.json) |
 | Stellaris: The Machine Age | 291611 | [291611-stellaris-the-machine-age.json](./291611-stellaris-the-machine-age.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
@@ -24591,6 +24596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer: Jigsaw Puzzles | 104841 | [104841-summer-jigsaw-puzzles.json](./104841-summer-jigsaw-puzzles.json) |
 | Summer: Life in the Countryside | 145488 | [145488-summer-life-in-the-countryside.json](./145488-summer-life-in-the-countryside.json) |
 | Summer's Gone: Season 1 | 199053 | [199053-summers-gone-season-1.json](./199053-summers-gone-season-1.json) |
+| Summer's Gone: Season 2 - Constellations | 402138 | [402138-summers-gone-season-2-constellations.json](./402138-summers-gone-season-2-constellations.json) |
 | Summerhouse | 261688 | [261688-summerhouse.json](./261688-summerhouse.json) |
 | Summertime Madness | 144935 | [144935-summertime-madness.json](./144935-summertime-madness.json) |
 | Summertime Sadness | 376635 | [376635-summertime-sadness.json](./376635-summertime-sadness.json) |
@@ -27435,6 +27441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
 | Super Zaxxon | 22696 | [22696-super-zaxxon.json](./22696-super-zaxxon.json) |
 | Super Zeek | 245766 | [245766-super-zeek.json](./245766-super-zeek.json) |
+| Super Zenon Gamma 5 | 402129 | [402129-super-zenon-gamma-5.json](./402129-super-zenon-gamma-5.json) |
 | Super Zombie Arcade | 110094 | [110094-super-zombie-arcade.json](./110094-super-zombie-arcade.json) |
 | Super Zoo Story | 142957 | [142957-super-zoo-story.json](./142957-super-zoo-story.json) |
 | Super Zugan 2: Tsukanpo Fighter | 59834 | [59834-super-zugan-2-tsukanpo-fighter.json](./59834-super-zugan-2-tsukanpo-fighter.json) |
