@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warm Potato | 307727 | [307727-warm-potato.json](./307727-warm-potato.json) |
 | Warm Snow: The End Of Karma | 277353 | [277353-warm-snow-the-end-of-karma.json](./277353-warm-snow-the-end-of-karma.json) |
 | WarMA | 103948 | [103948-warma.json](./103948-warma.json) |
+| Warmace: Miniature Shop Simulator | 423203 | [423203-warmace-miniature-shop-simulator.json](./423203-warmace-miniature-shop-simulator.json) |
 | Warmada | 30798 | [30798-warmada.json](./30798-warmada.json) |
 | Warmage | 280234 | [280234-warmage.json](./280234-warmage.json) |
 | WarMage | 26542 | [26542-warmage.json](./26542-warmage.json) |
@@ -1601,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
 | Warrens Of Random | 389614 | [389614-warrens-of-random.json](./389614-warrens-of-random.json) |
 | Warrented Humanity | 351170 | [351170-warrented-humanity.json](./351170-warrented-humanity.json) |
+| Warring Kingdoms: Chronicles of War | 423308 | [423308-warring-kingdoms-chronicles-of-war.json](./423308-warring-kingdoms-chronicles-of-war.json) |
 | Warring States | 168687 | [168687-warring-states.json](./168687-warring-states.json) |
 | Warring States Tactics | 60516 | [60516-warring-states-tactics.json](./60516-warring-states-tactics.json) |
 | Warring States: Tactics | 36417 | [36417-warring-states-tactics.json](./36417-warring-states-tactics.json) |
@@ -3364,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | WhenNightComes | 193102 | [193102-whennightcomes.json](./193102-whennightcomes.json) |
 | WhenTaken | 289005 | [289005-whentaken.json](./289005-whentaken.json) |
+| Where Adabanas Grow: An Asian Sim Date | 423251 | [423251-where-adabanas-grow-an-asian-sim-date.json](./423251-where-adabanas-grow-an-asian-sim-date.json) |
 | Where Ages Go | 179885 | [179885-where-ages-go.json](./179885-where-ages-go.json) |
 | Where Am I?: GeoGuess Game | 333996 | [333996-where-am-i-geoguess-game.json](./333996-where-am-i-geoguess-game.json) |
 | Where Angels Cry: Hell Broke Loose | 22084 | [22084-where-angels-cry-hell-broke-loose.json](./22084-where-angels-cry-hell-broke-loose.json) |
