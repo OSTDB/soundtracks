@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultracore: Collector's Edition | 116153 | [116153-ultracore-collectors-edition.json](./116153-ultracore-collectors-edition.json) |
 | UltraCorps | 62245 | [62245-ultracorps.json](./62245-ultracorps.json) |
 | Ultradian | 265132 | [265132-ultradian.json](./265132-ultradian.json) |
+| Ultrafeminine | 411305 | [411305-ultrafeminine.json](./411305-ultrafeminine.json) |
 | Ultraflow | 11130 | [11130-ultraflow.json](./11130-ultraflow.json) |
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
 | Ultrafrog and the City of Destruction | 56426 | [56426-ultrafrog-and-the-city-of-destruction.json](./56426-ultrafrog-and-the-city-of-destruction.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Ghost Game | 222916 | [222916-untitled-ghost-game.json](./222916-untitled-ghost-game.json) |
 | Untitled Ghost Game | 411633 | [411633-untitled-ghost-game.json](./411633-untitled-ghost-game.json) |
 | Untitled God of War Live-Service Game | 386715 | [386715-untitled-god-of-war-live-service-game.json](./386715-untitled-god-of-war-live-service-game.json) |
+| Untitled God of War Sequel | 411299 | [411299-untitled-god-of-war-sequel.json](./411299-untitled-god-of-war-sequel.json) |
 | Untitled Goop Game | 181668 | [181668-untitled-goop-game.json](./181668-untitled-goop-game.json) |
 | Untitled Hand Game | 344968 | [344968-untitled-hand-game.json](./344968-untitled-hand-game.json) |
 | Untitled Hand Game: Titled Edition | 344969 | [344969-untitled-hand-game-titled-edition.json](./344969-untitled-hand-game-titled-edition.json) |
