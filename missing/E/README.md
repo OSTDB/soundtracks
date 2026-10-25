@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
+| Eduardo the Samurai Toaster | 21193 | [21193-eduardo-the-samurai-toaster.json](./21193-eduardo-the-samurai-toaster.json) |
 | Educating Adventures of Girl and Rabbit | 419907 | [419907-educating-adventures-of-girl-and-rabbit.json](./419907-educating-adventures-of-girl-and-rabbit.json) |
 | Education | 161586 | [161586-education.json](./161586-education.json) |
 | Education Series: General Knowledge Builder | 80603 | [80603-education-series-general-knowledge-builder.json](./80603-education-series-general-knowledge-builder.json) |
