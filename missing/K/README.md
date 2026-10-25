@@ -2976,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Streets | 149402 | [149402-kings-of-streets.json](./149402-kings-of-streets.json) |
 | Kings of the Beach | 198795 | [198795-kings-of-the-beach.json](./198795-kings-of-the-beach.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
+| Kings on the Corner | 411290 | [411290-kings-on-the-corner.json](./411290-kings-on-the-corner.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
 | Kings Town | 157361 | [157361-kings-town.json](./157361-kings-town.json) |
 | Kings under the hill | 31390 | [31390-kings-under-the-hill.json](./31390-kings-under-the-hill.json) |
@@ -5252,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuukyoku Tiger | 170780 | [170780-kyuukyoku-tiger.json](./170780-kyuukyoku-tiger.json) |
 | Kyuukyoku Tiger Heli: Toaplan Arcade Garage | 158967 | [158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json](./158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json) |
 | Kyuukyoku Tiger II Plus | 66146 | [66146-kyuukyoku-tiger-ii-plus.json](./66146-kyuukyoku-tiger-ii-plus.json) |
+| Kyuukyuu Enshi | 411330 | [411330-kyuukyuu-enshi.json](./411330-kyuukyuu-enshi.json) |
 | Kyuusei Senjutsu Niyoru Heisei Kaiun Koyomi | 268510 | [268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json](./268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json) |
 | Kyuutenkai: Fantasic Pinball | 71332 | [71332-kyuutenkai-fantasic-pinball.json](./71332-kyuutenkai-fantasic-pinball.json) |
 | Kyvir: Rebirth | 144996 | [144996-kyvir-rebirth.json](./144996-kyvir-rebirth.json) |
