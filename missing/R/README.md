@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Sunrise | 247963 | [247963-red-sunrise.json](./247963-red-sunrise.json) |
 | Red Supreme | 337733 | [337733-red-supreme.json](./337733-red-supreme.json) |
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
+| Red Tanks vs Lizard | 418250 | [418250-red-tanks-vs-lizard.json](./418250-red-tanks-vs-lizard.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red Tentacle | 53496 | [53496-red-tentacle.json](./53496-red-tentacle.json) |
 | Red Terror | 256208 | [256208-red-terror.json](./256208-red-terror.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: The Haunted Highway | 343346 | [343346-reverse-1999-the-haunted-highway.json](./343346-reverse-1999-the-haunted-highway.json) |
 | Reverse 1999: The Midnight Whistle | 379188 | [379188-reverse-1999-the-midnight-whistle.json](./379188-reverse-1999-the-midnight-whistle.json) |
 | Reverse 1999: The Prisoner In The Cave | 340190 | [340190-reverse-1999-the-prisoner-in-the-cave.json](./340190-reverse-1999-the-prisoner-in-the-cave.json) |
+| Reverse 1999: The Temporal Scale | 418218 | [418218-reverse-1999-the-temporal-scale.json](./418218-reverse-1999-the-temporal-scale.json) |
 | Reverse 1999: The Theft of the Rimet Cup | 279785 | [279785-reverse-1999-the-theft-of-the-rimet-cup.json](./279785-reverse-1999-the-theft-of-the-rimet-cup.json) |
 | Reverse 1999: The Turquoise Serpent Club | 401741 | [401741-reverse-1999-the-turquoise-serpent-club.json](./401741-reverse-1999-the-turquoise-serpent-club.json) |
 | Reverse 1999: Tristes Tropiques | 343347 | [343347-reverse-1999-tristes-tropiques.json](./343347-reverse-1999-tristes-tropiques.json) |
@@ -6837,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roach Raid | 217177 | [217177-roach-raid.json](./217177-roach-raid.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Roach's Room ~Horror Experience Series~ | 107210 | [107210-roachs-room-horror-experience-series.json](./107210-roachs-room-horror-experience-series.json) |
+| Roaches | 418212 | [418212-roaches.json](./418212-roaches.json) |
 | Roaches: The Birthday Party | 297869 | [297869-roaches-the-birthday-party.json](./297869-roaches-the-birthday-party.json) |
 | Road | 286074 | [286074-road.json](./286074-road.json) |
 | Road & Car: Test Drive III - The Passion: Add-On Disk 1 | 218647 | [218647-road-and-car-test-drive-iii-the-passion-add-on-disk-1.json](./218647-road-and-car-test-drive-iii-the-passion-add-on-disk-1.json) |
