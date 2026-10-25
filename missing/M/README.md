@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Yearning | 245254 | [245254-machine-yearning.json](./245254-machine-yearning.json) |
 | Machineboy Complete Collection | 154614 | [154614-machineboy-complete-collection.json](./154614-machineboy-complete-collection.json) |
 | MachineCraft | 34580 | [34580-machinecraft.json](./34580-machinecraft.json) |
+| Machineers | 35621 | [35621-machineers.json](./35621-machineers.json) |
 | Machinegun Geometry | 68756 | [68756-machinegun-geometry.json](./68756-machinegun-geometry.json) |
 | Machinegun Geometry: The Right Angle | 68757 | [68757-machinegun-geometry-the-right-angle.json](./68757-machinegun-geometry-the-right-angle.json) |
 | MachineGunner2: Bullet Transcending | 365270 | [365270-machinegunner2-bullet-transcending.json](./365270-machinegunner2-bullet-transcending.json) |
@@ -10199,6 +10200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner Ultra Wild Tides | 106494 | [106494-miner-ultra-wild-tides.json](./106494-miner-ultra-wild-tides.json) |
+| Miner Warfare | 35667 | [35667-miner-warfare.json](./35667-miner-warfare.json) |
 | Miner Wars 2081 | 10550 | [10550-miner-wars-2081.json](./10550-miner-wars-2081.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Miner's Delight + | 348597 | [348597-miners-delight.json](./348597-miners-delight.json) |
@@ -15256,6 +15258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
 | Mr.Bottle and His Dream | 159548 | [159548-mr-bottle-and-his-dream.json](./159548-mr-bottle-and-his-dream.json) |
 | Mr.Chip | 297348 | [297348-mr-chip.json](./297348-mr-chip.json) |
+| Mr.Do! | 38655 | [38655-mr-do.json](./38655-mr-do.json) |
 | Mr.Egg: Adventure | 211647 | [211647-mr-egg-adventure.json](./211647-mr-egg-adventure.json) |
 | Mr.Jezko | 86579 | [86579-mr-jezko.json](./86579-mr-jezko.json) |
 | Mr.Knight | 164595 | [164595-mr-knight.json](./164595-mr-knight.json) |
