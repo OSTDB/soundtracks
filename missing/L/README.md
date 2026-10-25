@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leak or Die! | 176391 | [176391-leak-or-die.json](./176391-leak-or-die.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
 | Leaky Business | 397739 | [397739-leaky-business.json](./397739-leaky-business.json) |
+| Leaky World | 387937 | [387937-leaky-world.json](./387937-leaky-world.json) |
 | Leander | 12173 | [12173-leander.json](./12173-leander.json) |
 | Leann sins | 367286 | [367286-leann-sins.json](./367286-leann-sins.json) |
 | Leanna's Slice of Life | 114236 | [114236-leannas-slice-of-life.json](./114236-leannas-slice-of-life.json) |
