@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Project 2 | 140225 | [140225-heat-project-2.json](./140225-heat-project-2.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
+| Heat Sand Race | 416357 | [416357-heat-sand-race.json](./416357-heat-sand-race.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
 | Heat Wave: Offshore Superboat Racing | 74887 | [74887-heat-wave-offshore-superboat-racing.json](./74887-heat-wave-offshore-superboat-racing.json) |
@@ -3127,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
 | Heist Man | 344239 | [344239-heist-man.json](./344239-heist-man.json) |
 | Heist Night | 59831 | [59831-heist-night.json](./59831-heist-night.json) |
+| Heist of Fools | 416349 | [416349-heist-of-fools.json](./416349-heist-of-fools.json) |
 | Heist Royale | 344532 | [344532-heist-royale.json](./344532-heist-royale.json) |
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
 | Heist Simulator 2025 | 330402 | [330402-heist-simulator-2025.json](./330402-heist-simulator-2025.json) |
