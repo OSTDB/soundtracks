@@ -2763,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Fighters: Battle Stars | 241804 | [241804-urban-fighters-battle-stars.json](./241804-urban-fighters-battle-stars.json) |
 | Urban Flow | 137659 | [137659-urban-flow.json](./137659-urban-flow.json) |
 | Urban Flow Chaos Control | 385173 | [385173-urban-flow-chaos-control.json](./385173-urban-flow-chaos-control.json) |
+| Urban Flow Content Bundle | 386805 | [386805-urban-flow-content-bundle.json](./386805-urban-flow-content-bundle.json) |
 | Urban Flow Roads To Perfection | 378967 | [378967-urban-flow-roads-to-perfection.json](./378967-urban-flow-roads-to-perfection.json) |
 | Urban Flow Vehicle Vault | 309083 | [309083-urban-flow-vehicle-vault.json](./309083-urban-flow-vehicle-vault.json) |
 | Urban Flow: Back to School Edition | 270789 | [270789-urban-flow-back-to-school-edition.json](./270789-urban-flow-back-to-school-edition.json) |
