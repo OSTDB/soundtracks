@@ -9684,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua TV | 80908 | [80908-aqua-tv.json](./80908-aqua-tv.json) |
 | Aqua-World: Umi Monogatari | 45432 | [45432-aqua-world-umi-monogatari.json](./45432-aqua-world-umi-monogatari.json) |
 | Aquaball | 312640 | [312640-aquaball.json](./312640-aquaball.json) |
+| Aquabike Rush | 410015 | [410015-aquabike-rush.json](./410015-aquabike-rush.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | AquaBlitz: Alien Racer | 298689 | [298689-aquablitz-alien-racer.json](./298689-aquablitz-alien-racer.json) |
 | Aquacity | 148956 | [148956-aquacity.json](./148956-aquacity.json) |
@@ -11236,6 +11237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Revenge of Doh | 11756 | [11756-arkanoid-revenge-of-doh.json](./11756-arkanoid-revenge-of-doh.json) |
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
+| Arkansas 2125 | 410031 | [410031-arkansas-2125.json](./410031-arkansas-2125.json) |
 | Arkball | 102392 | [102392-arkball.json](./102392-arkball.json) |
 | ArkCraft: The Rebirth of the World | 312981 | [312981-arkcraft-the-rebirth-of-the-world.json](./312981-arkcraft-the-rebirth-of-the-world.json) |
 | Arkedo Series: 01 Jump! | 79768 | [79768-arkedo-series-01-jump.json](./79768-arkedo-series-01-jump.json) |
@@ -11255,6 +11257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
 | Arkhelom 3D | 35178 | [35178-arkhelom-3d.json](./35178-arkhelom-3d.json) |
 | ArkLight | 52406 | [52406-arklight.json](./52406-arklight.json) |
+| Arkney: The Bone Road | 410059 | [410059-arkney-the-bone-road.json](./410059-arkney-the-bone-road.json) |
 | Arknights | 123395 | [123395-arknights.json](./123395-arknights.json) |
 | Arknights Episode 00: Evil Time Part 1 | 413421 | [413421-arknights-episode-00-evil-time-part-1.json](./413421-arknights-episode-00-evil-time-part-1.json) |
 | Arknights Episode 02: Separated Hearts | 413423 | [413423-arknights-episode-02-separated-hearts.json](./413423-arknights-episode-02-separated-hearts.json) |
