@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble Witch | 151022 | [151022-pebble-witch.json](./151022-pebble-witch.json) |
 | Pebble's Bakery | 180714 | [180714-pebbles-bakery.json](./180714-pebbles-bakery.json) |
 | Pebbles | 419869 | [419869-pebbles.json](./419869-pebbles.json) |
+| Pebbles | 420199 | [420199-pebbles.json](./420199-pebbles.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
 | Pebbles? Wenches? | 176286 | [176286-pebbles-wenches.json](./176286-pebbles-wenches.json) |
 | Peblito: Rock and Roll | 163015 | [163015-peblito-rock-and-roll.json](./163015-peblito-rock-and-roll.json) |
@@ -3100,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
 | Peckin' Pixels | 135692 | [135692-peckin-pixels.json](./135692-peckin-pixels.json) |
 | Pecking Order | 337778 | [337778-pecking-order.json](./337778-pecking-order.json) |
+| Peckout | 420222 | [420222-peckout.json](./420222-peckout.json) |
 | Pecky Clicker | 391192 | [391192-pecky-clicker.json](./391192-pecky-clicker.json) |
 | Peco Peco | 184793 | [184793-peco-peco.json](./184793-peco-peco.json) |
 | Pecos Bill | 210008 | [210008-pecos-bill.json](./210008-pecos-bill.json) |
@@ -7261,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
 | Pizza Nostra | 171527 | [171527-pizza-nostra.json](./171527-pizza-nostra.json) |
+| Pizza Now! | 420178 | [420178-pizza-now.json](./420178-pizza-now.json) |
 | Pizza Panic | 70202 | [70202-pizza-panic.json](./70202-pizza-panic.json) |
 | Pizza Panic! | 393469 | [393469-pizza-panic.json](./393469-pizza-panic.json) |
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
@@ -9597,6 +9600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Pathways | 295386 | [295386-polar-pathways.json](./295386-polar-pathways.json) |
 | Polar Payne | 216341 | [216341-polar-payne.json](./216341-polar-payne.json) |
 | Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
+| Polar Peril | 420212 | [420212-polar-peril.json](./420212-polar-peril.json) |
 | Polar Pierre | 24676 | [24676-polar-pierre.json](./24676-polar-pierre.json) |
 | Polar Pwnd | 399457 | [399457-polar-pwnd.json](./399457-polar-pwnd.json) |
 | Polar Pwnd 2: Der Feather’s Revenge | 399458 | [399458-polar-pwnd-2-der-feather-s-revenge.json](./399458-polar-pwnd-2-der-feather-s-revenge.json) |
