@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
 | Carnage | 298396 | [298396-carnage.json](./298396-carnage.json) |
+| Carnage | 399041 | [399041-carnage.json](./399041-carnage.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
 | Carnage Heart EZ: Easy Zapping | 66184 | [66184-carnage-heart-ez-easy-zapping.json](./66184-carnage-heart-ez-easy-zapping.json) |
@@ -11146,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consecrated | 312297 | [312297-consecrated.json](./312297-consecrated.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Consentual Love In A Dungeon | 210471 | [210471-consentual-love-in-a-dungeon.json](./210471-consentual-love-in-a-dungeon.json) |
+| Conservation of Bass | 399026 | [399026-conservation-of-bass.json](./399026-conservation-of-bass.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
 | Consolation: Board Meeting | 153810 | [153810-consolation-board-meeting.json](./153810-consolation-board-meeting.json) |
