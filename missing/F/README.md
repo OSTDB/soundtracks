@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
 | Faily Skater | 90787 | [90787-faily-skater.json](./90787-faily-skater.json) |
+| Faily Skater: Street Racer | 413695 | [413695-faily-skater-street-racer.json](./413695-faily-skater-street-racer.json) |
 | Faily Tumbler | 90351 | [90351-faily-tumbler.json](./90351-faily-tumbler.json) |
 | Faint Call | 301699 | [301699-faint-call.json](./301699-faint-call.json) |
 | Fair | 57508 | [57508-fair.json](./57508-fair.json) |
@@ -3253,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Fer.al | 134534 | [134534-fer-al.json](./134534-fer-al.json) |
 | Feral | 192323 | [192323-feral.json](./192323-feral.json) |
+| Feral Absence | 413785 | [413785-feral-absence.json](./413785-feral-absence.json) |
 | Feral Blue | 99078 | [99078-feral-blue.json](./99078-feral-blue.json) |
 | Feral Boyfriend | 268659 | [268659-feral-boyfriend.json](./268659-feral-boyfriend.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
