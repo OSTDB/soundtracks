@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M-PS2Craft | 274887 | [274887-m-ps2craft.json](./274887-m-ps2craft.json) |
 | M-Tee | 195504 | [195504-m-tee.json](./195504-m-tee.json) |
 | M: Alien Paranoia | 73699 | [73699-m-alien-paranoia.json](./73699-m-alien-paranoia.json) |
+| M!racle Home_Page | 421416 | [421416-m-racle-home-page.json](./421416-m-racle-home-page.json) |
 | M. I. A. - Missing In Action | 76199 | [76199-m-i-a-missing-in-action.json](./76199-m-i-a-missing-in-action.json) |
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.E. | 30542 | [30542-m-a-c-e.json](./30542-m-a-c-e.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malagai | 23288 | [23288-malagai.json](./23288-malagai.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
+| Malazar's Inscrutable Tower | 421451 | [421451-malazars-inscrutable-tower.json](./421451-malazars-inscrutable-tower.json) |
 | Malazard: The Master of Magic | 32139 | [32139-malazard-the-master-of-magic.json](./32139-malazard-the-master-of-magic.json) |
 | Malcade | 366997 | [366997-malcade.json](./366997-malcade.json) |
 | Malcom's Day | 118013 | [118013-malcoms-day.json](./118013-malcoms-day.json) |
@@ -3710,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martha Madison: Simple Machines Volume 2 | 83958 | [83958-martha-madison-simple-machines-volume-2.json](./83958-martha-madison-simple-machines-volume-2.json) |
 | Martha Madison: Waves | 83962 | [83962-martha-madison-waves.json](./83962-martha-madison-waves.json) |
 | Martha's Dolls 2 | 415990 | [415990-marthas-dolls-2.json](./415990-marthas-dolls-2.json) |
+| Martial Art's History | 421427 | [421427-martial-arts-history.json](./421427-martial-arts-history.json) |
 | Martial Arts Brutality | 69499 | [69499-martial-arts-brutality.json](./69499-martial-arts-brutality.json) |
 | Martial Arts Peerless War | 259000 | [259000-martial-arts-peerless-war.json](./259000-martial-arts-peerless-war.json) |
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
@@ -4144,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
 | Mass Mayhem 2099 A.D. | 394147 | [394147-mass-mayhem-2099-a-d.json](./394147-mass-mayhem-2099-a-d.json) |
 | Mass Mayhem 4 | 337228 | [337228-mass-mayhem-4.json](./337228-mass-mayhem-4.json) |
+| Mass Murderer | 421398 | [421398-mass-murderer.json](./421398-mass-murderer.json) |
 | Mass Plus | 126576 | [126576-mass-plus.json](./126576-mass-plus.json) |
 | Mass Vector | 34260 | [34260-mass-vector.json](./34260-mass-vector.json) |
 | Mass Warfare | 135068 | [135068-mass-warfare.json](./135068-mass-warfare.json) |
@@ -9947,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Empire | 404432 | [404432-mine-empire.json](./404432-mine-empire.json) |
 | Mine Escape | 409713 | [409713-mine-escape.json](./409713-mine-escape.json) |
 | Mine Factory | 294039 | [294039-mine-factory.json](./294039-mine-factory.json) |
+| Mine Field | 421417 | [421417-mine-field.json](./421417-mine-field.json) |
 | Mine From Here | 352845 | [352845-mine-from-here.json](./352845-mine-from-here.json) |
 | Mine Hunter | 231918 | [231918-mine-hunter.json](./231918-mine-hunter.json) |
 | Mine Jam 1 | 343595 | [343595-mine-jam-1.json](./343595-mine-jam-1.json) |
@@ -10360,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drifters: World Racing '89 | 252009 | [252009-mini-drifters-world-racing-89.json](./252009-mini-drifters-world-racing-89.json) |
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
 | Mini Dungeon | 357746 | [357746-mini-dungeon.json](./357746-mini-dungeon.json) |
+| Mini Eulerian Graph | 421449 | [421449-mini-eulerian-graph.json](./421449-mini-eulerian-graph.json) |
 | Mini Fazenda | 262215 | [262215-mini-fazenda.json](./262215-mini-fazenda.json) |
 | Mini Fighter | 359192 | [359192-mini-fighter.json](./359192-mini-fighter.json) |
 | Mini Fighters: Quest & Battle | 378404 | [378404-mini-fighters-quest-and-battle.json](./378404-mini-fighters-quest-and-battle.json) |
@@ -10899,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miraculo Island | 192612 | [192612-miraculo-island.json](./192612-miraculo-island.json) |
 | Miraculous Fall | 336682 | [336682-miraculous-fall.json](./336682-miraculous-fall.json) |
 | Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
+| Miraculous: Paris Dash | 421403 | [421403-miraculous-paris-dash.json](./421403-miraculous-paris-dash.json) |
 | Miraculous: Paris Under Siege | 314019 | [314019-miraculous-paris-under-siege.json](./314019-miraculous-paris-under-siege.json) |
 | Miraculous: Rise of the Sphinx | 216552 | [216552-miraculous-rise-of-the-sphinx.json](./216552-miraculous-rise-of-the-sphinx.json) |
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
@@ -11002,6 +11009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Mirror's Edge Catalyst: Collector's Edition | 41618 | [41618-mirrors-edge-catalyst-collectors-edition.json](./41618-mirrors-edge-catalyst-collectors-edition.json) |
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
+| Mirrorama | 421415 | [421415-mirrorama.json](./421415-mirrorama.json) |
 | Mirrored Maze | 403655 | [403655-mirrored-maze.json](./403655-mirrored-maze.json) |
 | Mirrored Maze 2 | 403656 | [403656-mirrored-maze-2.json](./403656-mirrored-maze-2.json) |
 | Mirrored Maze 3 | 403697 | [403697-mirrored-maze-3.json](./403697-mirrored-maze-3.json) |
@@ -17850,6 +17858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Escape: Diary of a Prisoner | 130171 | [130171-mystic-escape-diary-of-a-prisoner.json](./130171-mystic-escape-diary-of-a-prisoner.json) |
 | Mystic Explorer | 316642 | [316642-mystic-explorer.json](./316642-mystic-explorer.json) |
 | Mystic Fishing: A Fantasy Fishing RPG | 356077 | [356077-mystic-fishing-a-fantasy-fishing-rpg.json](./356077-mystic-fishing-a-fantasy-fishing-rpg.json) |
+| Mystic Fog Maze | 421455 | [421455-mystic-fog-maze.json](./421455-mystic-fog-maze.json) |
 | Mystic Forest | 226424 | [226424-mystic-forest.json](./226424-mystic-forest.json) |
 | Mystic Formula | 61414 | [61414-mystic-formula.json](./61414-mystic-formula.json) |
 | Mystic Gals | 304826 | [304826-mystic-gals.json](./304826-mystic-gals.json) |
