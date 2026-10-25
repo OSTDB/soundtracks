@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyflug Micro Adventures | 197644 | [197644-jellyflug-micro-adventures.json](./197644-jellyflug-micro-adventures.json) |
 | JellyKing : Rule The World | 312650 | [312650-jellyking-rule-the-world.json](./312650-jellyking-rule-the-world.json) |
 | JellyNoid | 74652 | [74652-jellynoid.json](./74652-jellynoid.json) |
+| JellyStar | 392090 | [392090-jellystar.json](./392090-jellystar.json) |
 | Jellyx | 120164 | [120164-jellyx.json](./120164-jellyx.json) |
 | Jen Saves Ben | 223704 | [223704-jen-saves-ben.json](./223704-jen-saves-ben.json) |
 | Jendo: Origins | 161323 | [161323-jendo-origins.json](./161323-jendo-origins.json) |
@@ -2382,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Centre of Nirn | 314286 | [314286-journey-to-the-centre-of-nirn.json](./314286-journey-to-the-centre-of-nirn.json) |
 | Journey to the East | 128552 | [128552-journey-to-the-east.json](./128552-journey-to-the-east.json) |
 | Journey to the End | 281352 | [281352-journey-to-the-end.json](./281352-journey-to-the-end.json) |
+| Journey to the King | 390990 | [390990-journey-to-the-king.json](./390990-journey-to-the-king.json) |
 | Journey to the Rift | 310830 | [310830-journey-to-the-rift.json](./310830-journey-to-the-rift.json) |
 | Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
