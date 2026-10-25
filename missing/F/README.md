@@ -3499,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Combat | 206086 | [206086-field-combat.json](./206086-field-combat.json) |
 | Field Combat | 4613 | [4613-field-combat.json](./4613-field-combat.json) |
 | Field Combat DX | 361327 | [361327-field-combat-dx.json](./361327-field-combat-dx.json) |
+| Field Command | 387908 | [387908-field-command.json](./387908-field-command.json) |
 | Field Commander | 42873 | [42873-field-commander.json](./42873-field-commander.json) |
 | Field Day | 40332 | [40332-field-day.json](./40332-field-day.json) |
 | Field Day | 408217 | [408217-field-day.json](./408217-field-day.json) |
@@ -4398,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Ninja Zero | 176868 | [176868-final-ninja-zero.json](./176868-final-ninja-zero.json) |
 | Final Notice | 351112 | [351112-final-notice.json](./351112-final-notice.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
+| Final Orbit | 388514 | [388514-final-orbit.json](./388514-final-orbit.json) |
 | Final Outcry | 369914 | [369914-final-outcry.json](./369914-final-outcry.json) |
 | Final Paradox | 280351 | [280351-final-paradox.json](./280351-final-paradox.json) |
 | Final Passage | 370844 | [370844-final-passage.json](./370844-final-passage.json) |
@@ -4646,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Frankie 2 | 404932 | [404932-finding-frankie-2.json](./404932-finding-frankie-2.json) |
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
 | Finding Heart | 109911 | [109911-finding-heart.json](./109911-finding-heart.json) |
+| Finding Her | 387955 | [387955-finding-her.json](./387955-finding-her.json) |
 | Finding Jack's Treasure | 95956 | [95956-finding-jacks-treasure.json](./95956-finding-jacks-treasure.json) |
 | Finding Lake Chewaucan | 410689 | [410689-finding-lake-chewaucan.json](./410689-finding-lake-chewaucan.json) |
 | Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
@@ -6720,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood of Tears | 299552 | [299552-flood-of-tears.json](./299552-flood-of-tears.json) |
 | Flood of Zombies | 333241 | [333241-flood-of-zombies.json](./333241-flood-of-zombies.json) |
 | Flood Runner 5 | 202561 | [202561-flood-runner-5.json](./202561-flood-runner-5.json) |
+| Flood Runner: Armageddon | 387915 | [387915-flood-runner-armageddon.json](./387915-flood-runner-armageddon.json) |
 | Flood Rush | 61980 | [61980-flood-rush.json](./61980-flood-rush.json) |
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
 | Flood-It! | 254605 | [254605-flood-it.json](./254605-flood-it.json) |
@@ -8923,8 +8927,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
 | Four Seasons Around the World: Autumn in France | 341616 | [341616-four-seasons-around-the-world-autumn-in-france.json](./341616-four-seasons-around-the-world-autumn-in-france.json) |
 | Four Seasons Around the World: Winter in New York | 294389 | [294389-four-seasons-around-the-world-winter-in-new-york.json](./294389-four-seasons-around-the-world-winter-in-new-york.json) |
+| Four Second Firestorm | 387918 | [387918-four-second-firestorm.json](./387918-four-second-firestorm.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
 | Four Second Frenzy | 196796 | [196796-four-second-frenzy.json](./196796-four-second-frenzy.json) |
+| Four Second Fury | 387916 | [387916-four-second-fury.json](./387916-four-second-fury.json) |
 | Four Sided Fantasy | 20104 | [20104-four-sided-fantasy.json](./20104-four-sided-fantasy.json) |
 | Four Smash Hits from Hewson | 97465 | [97465-four-smash-hits-from-hewson.json](./97465-four-smash-hits-from-hewson.json) |
 | Four Stories Below | 101308 | [101308-four-stories-below.json](./101308-four-stories-below.json) |
@@ -9131,6 +9137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Voyage | 150787 | [150787-fractured-voyage.json](./150787-fractured-voyage.json) |
 | Fracturefront | 374774 | [374774-fracturefront.json](./374774-fracturefront.json) |
 | Fractus | 75072 | [75072-fractus.json](./75072-fractus.json) |
+| Fracuum | 387919 | [387919-fracuum.json](./387919-fracuum.json) |
 | Frag | 110296 | [110296-frag.json](./110296-frag.json) |
 | Frag | 167251 | [167251-frag.json](./167251-frag.json) |
 | Frag doch mal...die Maus! | 85157 | [85157-frag-doch-mal-die-maus.json](./85157-frag-doch-mal-die-maus.json) |
@@ -9310,6 +9317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franky the Bumwalker | 76493 | [76493-franky-the-bumwalker.json](./76493-franky-the-bumwalker.json) |
 | Frankystein | 97451 | [97451-frankystein.json](./97451-frankystein.json) |
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
+| Frantic | 387920 | [387920-frantic.json](./387920-frantic.json) |
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Fanfic | 147175 | [147175-frantic-fanfic.json](./147175-frantic-fanfic.json) |
@@ -10773,6 +10781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Fathom | 234659 | [234659-full-fathom.json](./234659-full-fathom.json) |
 | Full Frontal Assault | 91282 | [91282-full-frontal-assault.json](./91282-full-frontal-assault.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
+| Full Gear Mong Kok | 388509 | [388509-full-gear-mong-kok.json](./388509-full-gear-mong-kok.json) |
 | Full House | 79540 | [79540-full-house.json](./79540-full-house.json) |
 | Full House Casino | 333101 | [333101-full-house-casino.json](./333101-full-house-casino.json) |
 | Full House Kiss | 97370 | [97370-full-house-kiss.json](./97370-full-house-kiss.json) |
