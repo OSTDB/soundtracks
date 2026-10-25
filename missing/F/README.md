@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable: The Lost Chapters | 694 | [694-fable-the-lost-chapters.json](./694-fable-the-lost-chapters.json) |
 | Fableborne | 379584 | [379584-fableborne.json](./379584-fableborne.json) |
 | FableBrawl | 411113 | [411113-fablebrawl.json](./411113-fablebrawl.json) |
+| Fabled | 400281 | [400281-fabled.json](./400281-fabled.json) |
 | Fabled Frontier | 257988 | [257988-fabled-frontier.json](./257988-fabled-frontier.json) |
 | Fabled Kingdom | 201538 | [201538-fabled-kingdom.json](./201538-fabled-kingdom.json) |
 | Fabled Lands | 133420 | [133420-fabled-lands.json](./133420-fabled-lands.json) |
@@ -8013,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
 | Forever Forest | 113461 | [113461-forever-forest.json](./113461-forever-forest.json) |
 | Forever Fox | 106487 | [106487-forever-fox.json](./106487-forever-fox.json) |
+| Forever Gold | 400276 | [400276-forever-gold.json](./400276-forever-gold.json) |
 | Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
 | Forever Home | 74608 | [74608-forever-home.json](./74608-forever-home.json) |
 | Forever in my footsteps 2 | 68455 | [68455-forever-in-my-footsteps-2.json](./68455-forever-in-my-footsteps-2.json) |
