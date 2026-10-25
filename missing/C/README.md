@@ -3334,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb Chess | 354050 | [354050-catacomb-chess.json](./354050-catacomb-chess.json) |
 | Catacomb Explorers | 30766 | [30766-catacomb-explorers.json](./30766-catacomb-explorers.json) |
 | Catacomb II | 11043 | [11043-catacomb-ii.json](./11043-catacomb-ii.json) |
+| Catacomb Kids | 17692 | [17692-catacomb-kids.json](./17692-catacomb-kids.json) |
 | Catacomb Kitties | 224207 | [224207-catacomb-kitties.json](./224207-catacomb-kitties.json) |
 | Catacomb Master | 246783 | [246783-catacomb-master.json](./246783-catacomb-master.json) |
 | Catacomb Snatch | 65388 | [65388-catacomb-snatch.json](./65388-catacomb-snatch.json) |
@@ -5678,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Rescue | 393128 | [393128-chicken-rescue.json](./393128-chicken-rescue.json) |
+| Chicken Riot | 20421 | [20421-chicken-riot.json](./20421-chicken-riot.json) |
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
 | Chicken Run | 198716 | [198716-chicken-run.json](./198716-chicken-run.json) |
 | Chicken Run | 248768 | [248768-chicken-run.json](./248768-chicken-run.json) |
@@ -8418,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Knights | 270527 | [270527-clone-knights.json](./270527-clone-knights.json) |
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
+| Clones | 16218 | [16218-clones.json](./16218-clones.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
 | Clones Selection | 181030 | [181030-clones-selection.json](./181030-clones-selection.json) |
 | CloneZWars | 249089 | [249089-clonezwars.json](./249089-clonezwars.json) |
@@ -8779,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-Co Corn Mafia | 54838 | [54838-co-co-corn-mafia.json](./54838-co-co-corn-mafia.json) |
 | Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
 | Co-omets | 287247 | [287247-co-omets.json](./287247-co-omets.json) |
+| CO-OP : Decrypted | 17678 | [17678-co-op-decrypted.json](./17678-co-op-decrypted.json) |
 | Co-Op Bundle | 311047 | [311047-co-op-bundle.json](./311047-co-op-bundle.json) |
 | Co-op Frenzy: Spirit of the Island + Biped Bundle | 214053 | [214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json](./214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json) |
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
@@ -10793,6 +10797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conglomerate 451 | 116593 | [116593-conglomerate-451.json](./116593-conglomerate-451.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
 | Congo | 172468 | [172468-congo.json](./172468-congo.json) |
+| Congo | 17729 | [17729-congo.json](./17729-congo.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
 | Congo Cube | 69747 | [69747-congo-cube.json](./69747-congo-cube.json) |
@@ -14068,6 +14073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Force | 48652 | [48652-crisis-force.json](./48652-crisis-force.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
+| Crisis in the Kremlin | 20474 | [20474-crisis-in-the-kremlin.json](./20474-crisis-in-the-kremlin.json) |
 | Crisis Island | 244729 | [244729-crisis-island.json](./244729-crisis-island.json) |
 | Crisis Mountain | 21932 | [21932-crisis-mountain.json](./21932-crisis-mountain.json) |
 | Crisis of Dreamcell | 400699 | [400699-crisis-of-dreamcell.json](./400699-crisis-of-dreamcell.json) |
