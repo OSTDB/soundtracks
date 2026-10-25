@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru to Shura | 148699 | [148699-haru-to-shura.json](./148699-haru-to-shura.json) |
 | Haru Uso: Passing Memories | 77857 | [77857-haru-uso-passing-memories.json](./77857-haru-uso-passing-memories.json) |
 | Haruiro Communication | 77849 | [77849-haruiro-communication.json](./77849-haruiro-communication.json) |
+| Harujion no Sakasekata | 396683 | [396683-harujion-no-sakasekata.json](./396683-harujion-no-sakasekata.json) |
 | Haruka Drive! | 409417 | [409417-haruka-drive.json](./409417-haruka-drive.json) |
 | Haruka na Sora | 326640 | [326640-haruka-na-sora.json](./326640-haruka-na-sora.json) |
 | Haruka no Kuni | 341606 | [341606-haruka-no-kuni.json](./341606-haruka-no-kuni.json) |
@@ -3028,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Weapon | 20397 | [20397-heavy-weapon.json](./20397-heavy-weapon.json) |
 | Heavy Weapon Deluxe | 27812 | [27812-heavy-weapon-deluxe.json](./27812-heavy-weapon-deluxe.json) |
 | Heavy Works | 213482 | [213482-heavy-works.json](./213482-heavy-works.json) |
+| Heavydelic | 396660 | [396660-heavydelic.json](./396660-heavydelic.json) |
 | Heavyweight Champ | 172525 | [172525-heavyweight-champ.json](./172525-heavyweight-champ.json) |
 | Heavyweight Champ | 39678 | [39678-heavyweight-champ.json](./39678-heavyweight-champ.json) |
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
@@ -6753,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History: Great Empires - Rome | 20694 | [20694-history-great-empires-rome.json](./20694-history-great-empires-rome.json) |
 | History: Ice Road Truckers | 66890 | [66890-history-ice-road-truckers.json](./66890-history-ice-road-truckers.json) |
 | History's Ice Road Truckers | 105530 | [105530-historys-ice-road-truckers.json](./105530-historys-ice-road-truckers.json) |
+| History's Top Shot | 396685 | [396685-historys-top-shot.json](./396685-historys-top-shot.json) |
 | HistoryMaker VR | 149347 | [149347-historymaker-vr.json](./149347-historymaker-vr.json) |
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
@@ -8318,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Office | 319232 | [319232-horror-office.json](./319232-horror-office.json) |
 | Horror Park of Willie Mouse | 326694 | [326694-horror-park-of-willie-mouse.json](./326694-horror-park-of-willie-mouse.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
+| Horror Pipes | 396677 | [396677-horror-pipes.json](./396677-horror-pipes.json) |
 | Horror Prison | 319176 | [319176-horror-prison.json](./319176-horror-prison.json) |
 | Horror Remake | 351405 | [351405-horror-remake.json](./351405-horror-remake.json) |
 | Horror Rollercoaster | 105103 | [105103-horror-rollercoaster.json](./105103-horror-rollercoaster.json) |
