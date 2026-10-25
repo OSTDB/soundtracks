@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accelerator Operator | 373345 | [373345-accelerator-operator.json](./373345-accelerator-operator.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
+| Access Acquired | 403332 | [403332-access-acquired.json](./403332-access-acquired.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
 | Access Denied: Escape | 240807 | [240807-access-denied-escape.json](./240807-access-denied-escape.json) |
@@ -3029,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3312,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
 | Aether Story | 138474 | [138474-aether-story.json](./138474-aether-story.json) |
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
+| Aether-07 | 403317 | [403317-aether-07.json](./403317-aether-07.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aether’s Echo: Yazid’s Paradox | 379569 | [379569-aether-s-echo-yazid-s-paradox.json](./379569-aether-s-echo-yazid-s-paradox.json) |
 | AetherCycle | 399767 | [399767-aethercycle.json](./399767-aethercycle.json) |
@@ -8204,6 +8207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Relay A | 229502 | [229502-animal-relay-a.json](./229502-animal-relay-a.json) |
 | Animal Relay B | 229504 | [229504-animal-relay-b.json](./229504-animal-relay-b.json) |
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
+| Animal Rescue Network | 403356 | [403356-animal-rescue-network.json](./403356-animal-rescue-network.json) |
 | Animal Rescuer | 139419 | [139419-animal-rescuer.json](./139419-animal-rescuer.json) |
 | Animal Restaurant | 133792 | [133792-animal-restaurant.json](./133792-animal-restaurant.json) |
 | Animal Revolt Battle Simulator | 145336 | [145336-animal-revolt-battle-simulator.json](./145336-animal-revolt-battle-simulator.json) |
