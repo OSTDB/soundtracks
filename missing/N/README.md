@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Project | 28674 | [28674-nano-project.json](./28674-nano-project.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
+| Nano Squadron | 391986 | [391986-nano-squadron.json](./391986-nano-squadron.json) |
 | Nano Wars | 157018 | [157018-nano-wars.json](./157018-nano-wars.json) |
 | NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
 | Nanobots | 143456 | [143456-nanobots.json](./143456-nanobots.json) |
@@ -786,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu Shoujo: Promised Summer | 401155 | [401155-natsu-shoujo-promised-summer.json](./401155-natsu-shoujo-promised-summer.json) |
 | Natsu to Hakaba to Urameshiya | 285378 | [285378-natsu-to-hakaba-to-urameshiya.json](./285378-natsu-to-hakaba-to-urameshiya.json) |
 | Natsu Uso: Ahead of the Reminiscence | 379631 | [379631-natsu-uso-ahead-of-the-reminiscence.json](./379631-natsu-uso-ahead-of-the-reminiscence.json) |
+| Natsu Yume Kanata | 391261 | [391261-natsu-yume-kanata.json](./391261-natsu-yume-kanata.json) |
 | Natsu-Mon: 20th Century Summer Kid | 236697 | [236697-natsu-mon-20th-century-summer-kid.json](./236697-natsu-mon-20th-century-summer-kid.json) |
 | Natsu-Mon: 20th Century Summer Kid: Broadcast Over Sunset | 306196 | [306196-natsu-mon-20th-century-summer-kid-broadcast-over-sunset.json](./306196-natsu-mon-20th-century-summer-kid-broadcast-over-sunset.json) |
 | Natsuha & Fuyumi: When Summer And Winter Meet | 383060 | [383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json](./383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json) |
@@ -953,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Ops: Warship Gunner 2 | 20496 | [20496-naval-ops-warship-gunner-2.json](./20496-naval-ops-warship-gunner-2.json) |
 | Naval Power | 230676 | [230676-naval-power.json](./230676-naval-power.json) |
 | Naval Tactics | 102593 | [102593-naval-tactics.json](./102593-naval-tactics.json) |
+| Naval Tactics | 391985 | [391985-naval-tactics.json](./391985-naval-tactics.json) |
 | Naval War: Arctic Circle | 2044 | [2044-naval-war-arctic-circle.json](./2044-naval-war-arctic-circle.json) |
 | Naval Warfare Multi-shot | 344919 | [344919-naval-warfare-multi-shot.json](./344919-naval-warfare-multi-shot.json) |
 | Navalia | 30639 | [30639-navalia.json](./30639-navalia.json) |
@@ -5059,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noblesse Oblige: Legacy of the Sorcerer Kings | 265577 | [265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json](./265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json) |
 | Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
 | Nobodies: Silent Blood | 310791 | [310791-nobodies-silent-blood.json](./310791-nobodies-silent-blood.json) |
+| Nobody Hears | 390992 | [390992-nobody-hears.json](./390992-nobody-hears.json) |
 | Nobody Knows | 93797 | [93797-nobody-knows.json](./93797-nobody-knows.json) |
 | Nobody Nowhere | 277339 | [277339-nobody-nowhere.json](./277339-nobody-nowhere.json) |
 | Nobody Paradox | 244919 | [244919-nobody-paradox.json](./244919-nobody-paradox.json) |
@@ -6449,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanco Space | 133220 | [133220-nyanco-space.json](./133220-nyanco-space.json) |
 | Nyancrement | 416750 | [416750-nyancrement.json](./416750-nyancrement.json) |
 | Nyandanoid | 205096 | [205096-nyandanoid.json](./205096-nyandanoid.json) |
+| Nyanjet | 390983 | [390983-nyanjet.json](./390983-nyanjet.json) |
 | Nyanko Island | 299901 | [299901-nyanko-island.json](./299901-nyanko-island.json) |
 | Nyanko New Japan | 300457 | [300457-nyanko-new-japan.json](./300457-nyanko-new-japan.json) |
 | Nyannyan Prowrestling | 267996 | [267996-nyannyan-prowrestling.json](./267996-nyannyan-prowrestling.json) |
