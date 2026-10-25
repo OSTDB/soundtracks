@@ -4851,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
 | Piatka | 55779 | [55779-piatka.json](./55779-piatka.json) |
 | Pibby: Apocalypse | 266182 | [266182-pibby-apocalypse.json](./266182-pibby-apocalypse.json) |
+| Pibcremental | 403940 | [403940-pibcremental.json](./403940-pibcremental.json) |
 | Pic Guesser | 28736 | [28736-pic-guesser.json](./28736-pic-guesser.json) |
 | Pic Happens! | 386471 | [386471-pic-happens.json](./386471-pic-happens.json) |
 | Pic Nic do Mickey | 281884 | [281884-pic-nic-do-mickey.json](./281884-pic-nic-do-mickey.json) |
@@ -8173,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Praise the SR Girls! | 419937 | [419937-please-praise-the-sr-girls.json](./419937-please-praise-the-sr-girls.json) |
 | Please Protect My Secret | 401890 | [401890-please-protect-my-secret.json](./401890-please-protect-my-secret.json) |
 | Please read me | 229789 | [229789-please-read-me.json](./229789-please-read-me.json) |
+| Please Remain Calm | 403921 | [403921-please-remain-calm.json](./403921-please-remain-calm.json) |
 | Please Say Hi | 341568 | [341568-please-say-hi.json](./341568-please-say-hi.json) |
 | Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
 | Please Stay Calm | 63148 | [63148-please-stay-calm.json](./63148-please-stay-calm.json) |
@@ -12521,6 +12523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
 | Pro-Putt Domo | 68059 | [68059-pro-putt-domo.json](./68059-pro-putt-domo.json) |
 | Probability 0 | 16739 | [16739-probability-0.json](./16739-probability-0.json) |
+| Probability King | 403962 | [403962-probability-king.json](./403962-probability-king.json) |
 | Probably Archery | 13362 | [13362-probably-archery.json](./13362-probably-archery.json) |
 | Probably Art | 328976 | [328976-probably-art.json](./328976-probably-art.json) |
 | Probably Nothing | 367054 | [367054-probably-nothing.json](./367054-probably-nothing.json) |
