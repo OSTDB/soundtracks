@@ -10462,6 +10462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian World Cub Battlegrounds | 334807 | [334807-russian-world-cub-battlegrounds.json](./334807-russian-world-cub-battlegrounds.json) |
 | RussianPunk 2007 | 157070 | [157070-russianpunk-2007.json](./157070-russianpunk-2007.json) |
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
+| Russpuppy Kid Games | 107522 | [107522-russpuppy-kid-games.json](./107522-russpuppy-kid-games.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
 | Rust & Roots | 370442 | [370442-rust-and-roots.json](./370442-rust-and-roots.json) |
