@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
 | EA Sports FC 25: Ultimate Edition | 309043 | [309043-ea-sports-fc-25-ultimate-edition.json](./309043-ea-sports-fc-25-ultimate-edition.json) |
 | EA Sports FC 26: Icons Edition | 397889 | [397889-ea-sports-fc-26-icons-edition.json](./397889-ea-sports-fc-26-icons-edition.json) |
+| EA Sports FC 26: The World's Game Edition | 407113 | [407113-ea-sports-fc-26-the-worlds-game-edition.json](./407113-ea-sports-fc-26-the-worlds-game-edition.json) |
 | EA Sports FC 26: Ultimate Edition | 356805 | [356805-ea-sports-fc-26-ultimate-edition.json](./356805-ea-sports-fc-26-ultimate-edition.json) |
 | EA Sports FC 27 | 408819 | [408819-ea-sports-fc-27.json](./408819-ea-sports-fc-27.json) |
 | EA Sports FC 27: Ultimate Edition | 410902 | [410902-ea-sports-fc-27-ultimate-edition.json](./410902-ea-sports-fc-27-ultimate-edition.json) |
@@ -6244,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exive | 110551 | [110551-exive.json](./110551-exive.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | Exo | 398008 | [398008-exo.json](./398008-exo.json) |
+| Exo Digger | 407813 | [407813-exo-digger.json](./407813-exo-digger.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
 | Exo Helljumper: Descent X | 345074 | [345074-exo-helljumper-descent-x.json](./345074-exo-helljumper-descent-x.json) |
