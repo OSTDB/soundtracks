@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Kaizo World 2 | 328073 | [328073-baby-kaizo-world-2.json](./328073-baby-kaizo-world-2.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
 | Baby Kings | 373753 | [373753-baby-kings.json](./373753-baby-kings.json) |
+| Baby Lemonade | 387422 | [387422-baby-lemonade.json](./387422-baby-lemonade.json) |
 | Baby Life | 91752 | [91752-baby-life.json](./91752-baby-life.json) |
 | Baby Lite A Line | 100171 | [100171-baby-lite-a-line.json](./100171-baby-lite-a-line.json) |
 | Baby Luv | 205898 | [205898-baby-luv.json](./205898-baby-luv.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2299,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron von Puttyngton versus the Cancerous M.C. Escher Maze of Cheese | 80428 | [80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json](./80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json) |
 | Baron Wittard: Nemesis of Ragnarok | 10022 | [10022-baron-wittard-nemesis-of-ragnarok.json](./10022-baron-wittard-nemesis-of-ragnarok.json) |
 | Barony | 35189 | [35189-barony.json](./35189-barony.json) |
+| Barony: Deserters & Disciples | 387400 | [387400-barony-deserters-and-disciples.json](./387400-barony-deserters-and-disciples.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
 | Baroque | 4705 | [4705-baroque.json](./4705-baroque.json) |
