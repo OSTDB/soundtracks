@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukaze Sentai V-Force | 108837 | [108837-harukaze-sentai-v-force.json](./108837-harukaze-sentai-v-force.json) |
 | Haruki's Journey | 292395 | [292395-harukis-journey.json](./292395-harukis-journey.json) |
 | Haruko Maniax | 345424 | [345424-haruko-maniax.json](./345424-haruko-maniax.json) |
+| Harukoharu | 389951 | [389951-harukoharu.json](./389951-harukoharu.json) |
 | Harukoi Otome: Greetings from the Maidens' Garden | 23432 | [23432-harukoi-otome-greetings-from-the-maidens-garden.json](./23432-harukoi-otome-greetings-from-the-maidens-garden.json) |
 | Harukuru: Spring has Come True? | 332633 | [332633-harukuru-spring-has-come-true.json](./332633-harukuru-spring-has-come-true.json) |
 | Haruna: Spring | 398513 | [398513-haruna-spring.json](./398513-haruna-spring.json) |
@@ -2359,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven & Hearth | 94176 | [94176-haven-and-hearth.json](./94176-haven-and-hearth.json) |
 | Haven Moon | 20399 | [20399-haven-moon.json](./20399-haven-moon.json) |
 | Haven Park | 146631 | [146631-haven-park.json](./146631-haven-park.json) |
+| Haven Restored | 389929 | [389929-haven-restored.json](./389929-haven-restored.json) |
 | Haven: Call of the King | 19090 | [19090-haven-call-of-the-king.json](./19090-haven-call-of-the-king.json) |
 | Haven: Deluxe Edition | 356806 | [356806-haven-deluxe-edition.json](./356806-haven-deluxe-edition.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
