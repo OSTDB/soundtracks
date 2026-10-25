@@ -1614,6 +1614,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombieland: Double Tap - Road Trip | 121232 | [121232-zombieland-double-tap-road-trip.json](./121232-zombieland-double-tap-road-trip.json) |
 | Zombieland: Headshot Fever - Reloaded | 239423 | [239423-zombieland-headshot-fever-reloaded.json](./239423-zombieland-headshot-fever-reloaded.json) |
 | Zombieland: Survivors | 297758 | [297758-zombieland-survivors.json](./297758-zombieland-survivors.json) |
+| Zombieman | 416955 | [416955-zombieman.json](./416955-zombieman.json) |
+| Zombieman 2 | 416956 | [416956-zombieman-2.json](./416956-zombieman-2.json) |
 | Zombien | 121383 | [121383-zombien.json](./121383-zombien.json) |
 | ZombieOrNotZombie | 116736 | [116736-zombieornotzombie.json](./116736-zombieornotzombie.json) |
 | ZombieRun | 35514 | [35514-zombierun.json](./35514-zombierun.json) |
