@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fisherman's Paradise II | 209430 | [209430-fishermans-paradise-ii.json](./209430-fishermans-paradise-ii.json) |
 | Fisherman's Peril | 143492 | [143492-fishermans-peril.json](./143492-fishermans-peril.json) |
+| Fisherman's Trap | 397219 | [397219-fishermans-trap.json](./397219-fishermans-trap.json) |
 | Fisherman'sWorld | 288049 | [288049-fishermansworld.json](./288049-fishermansworld.json) |
 | Fishermen's Haven | 152013 | [152013-fishermens-haven.json](./152013-fishermens-haven.json) |
 | Fisherones | 81898 | [81898-fisherones.json](./81898-fisherones.json) |
@@ -7303,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog: Battle Royale | 208186 | [208186-fog-battle-royale.json](./208186-fog-battle-royale.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
+| Fogline Protocol | 397277 | [397277-fogline-protocol.json](./397277-fogline-protocol.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
 | Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
@@ -9477,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Solitaire: Girls | 340255 | [340255-free-solitaire-girls.json](./340255-free-solitaire-girls.json) |
 | Free Solitaire: Kids | 340254 | [340254-free-solitaire-kids.json](./340254-free-solitaire-kids.json) |
 | Free Solitaire: Nature | 340257 | [340257-free-solitaire-nature.json](./340257-free-solitaire-nature.json) |
+| Free Solo | 397301 | [397301-free-solo.json](./397301-free-solo.json) |
 | Free Solo: One Life | 161584 | [161584-free-solo-one-life.json](./161584-free-solo-one-life.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
 | Free Strategy Chess Game | 349862 | [349862-free-strategy-chess-game.json](./349862-free-strategy-chess-game.json) |
