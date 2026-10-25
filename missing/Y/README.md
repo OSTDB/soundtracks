@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Empty | 54651 | [54651-you-are-empty.json](./54651-you-are-empty.json) |
 | You Are Empty: Absolute Edition | 414126 | [414126-you-are-empty-absolute-edition.json](./414126-you-are-empty-absolute-edition.json) |
 | You Are Family | 418531 | [418531-you-are-family.json](./418531-you-are-family.json) |
+| You Are God | 29435 | [29435-you-are-god.json](./29435-you-are-god.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
 | You Are Here | 114169 | [114169-you-are-here.json](./114169-you-are-here.json) |
 | You Are Here | 309621 | [309621-you-are-here.json](./309621-you-are-here.json) |
@@ -1500,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki's Tale | 114834 | [114834-yukis-tale.json](./114834-yukis-tale.json) |
 | Yuki's Vacation | 73119 | [73119-yukis-vacation.json](./73119-yukis-vacation.json) |
 | Yukibana: Kira | 329903 | [329903-yukibana-kira.json](./329903-yukibana-kira.json) |
+| Yukie: A Japanese Winter Fairy Tale | 37545 | [37545-yukie-a-japanese-winter-fairy-tale.json](./37545-yukie-a-japanese-winter-fairy-tale.json) |
 | Yukigatari | 268662 | [268662-yukigatari.json](./268662-yukigatari.json) |
 | Yukigatari | 268663 | [268663-yukigatari.json](./268663-yukigatari.json) |
 | Yukigatari Renewal | 268664 | [268664-yukigatari-renewal.json](./268664-yukigatari-renewal.json) |
