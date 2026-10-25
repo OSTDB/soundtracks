@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
 | Damsel | 58533 | [58533-damsel.json](./58533-damsel.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
+| Damsels in Distress | 404525 | [404525-damsels-in-distress.json](./404525-damsels-in-distress.json) |
 | Damzel | 91825 | [91825-damzel.json](./91825-damzel.json) |
 | Dan Dare II: Mekon's Revenge | 13567 | [13567-dan-dare-ii-mekons-revenge.json](./13567-dan-dare-ii-mekons-revenge.json) |
 | Dan Dare III: The Escape | 12032 | [12032-dan-dare-iii-the-escape.json](./12032-dan-dare-iii-the-escape.json) |
@@ -4159,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decopins: Asset Fighters Series | 220012 | [220012-decopins-asset-fighters-series.json](./220012-decopins-asset-fighters-series.json) |
 | Decopins2 | 268320 | [268320-decopins2.json](./268320-decopins2.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
+| Decorate Cozy Home | 404527 | [404527-decorate-cozy-home.json](./404527-decorate-cozy-home.json) |
 | Decoration Disorder Disconnection 1 | 375544 | [375544-decoration-disorder-disconnection-1.json](./375544-decoration-disorder-disconnection-1.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
 | Decorporation | 199317 | [199317-decorporation.json](./199317-decorporation.json) |
@@ -4757,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deformity | 189854 | [189854-deformity.json](./189854-deformity.json) |
 | Deformuseum | 405485 | [405485-deformuseum.json](./405485-deformuseum.json) |
 | Defrag | 136116 | [136116-defrag.json](./136116-defrag.json) |
+| Defrag Incremental | 404516 | [404516-defrag-incremental.json](./404516-defrag-incremental.json) |
 | Defragmented | 33935 | [33935-defragmented.json](./33935-defragmented.json) |
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
@@ -8770,14 +8773,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
 | Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
 | Dissent on Mars | 262829 | [262829-dissent-on-mars.json](./262829-dissent-on-mars.json) |
+| Dissida Final Fantasy NT: Riona Heartlilly Starter Pack | 404507 | [404507-dissida-final-fantasy-nt-riona-heartlilly-starter-pack.json](./404507-dissida-final-fantasy-nt-riona-heartlilly-starter-pack.json) |
 | Dissida Final Fantsy NT: Tifa Lockhart Starter Pack | 383762 | [383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json](./383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
 | Dissidia Final Fantasy NT: 3rd Appearance Special Set for Warrior of Light and Y'shtola | 224425 | [224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json](./224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json) |
+| Dissidia Final Fantasy NT: Kam'lanaut Starter Pack | 404522 | [404522-dissidia-final-fantasy-nt-kamlanaut-starter-pack.json](./404522-dissidia-final-fantasy-nt-kamlanaut-starter-pack.json) |
 | Dissidia Final Fantasy NT: Samurai App. Set & 5th Weapon for Bartz Klauser | 224427 | [224427-dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser.json](./224427-dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser.json) |
+| Dissidia Final Fantasy NT: Snow Villiers Starter Pack | 404524 | [404524-dissidia-final-fantasy-nt-snow-villiers-starter-pack.json](./404524-dissidia-final-fantasy-nt-snow-villiers-starter-pack.json) |
 | Dissidia Final Fantasy NT: Songstress's Garb Appearance Set & 5th Weapon for Yuna | 224429 | [224429-dissidia-final-fantasy-nt-songstresss-garb-appearance-set-and-5th-weapon-for-yuna.json](./224429-dissidia-final-fantasy-nt-songstresss-garb-appearance-set-and-5th-weapon-for-yuna.json) |
 | Dissidia Final Fantasy NT: Special Steelbook Edition | 386253 | [386253-dissidia-final-fantasy-nt-special-steelbook-edition.json](./386253-dissidia-final-fantasy-nt-special-steelbook-edition.json) |
 | Dissidia Final Fantasy NT: Steelbook Brawler Edition | 136333 | [136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json](./136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json) |
+| Dissidia Final Fantasy NT: Yuna Starter Pack | 404523 | [404523-dissidia-final-fantasy-nt-yuna-starter-pack.json](./404523-dissidia-final-fantasy-nt-yuna-starter-pack.json) |
 | Dissimilar | 293516 | [293516-dissimilar.json](./293516-dissimilar.json) |
 | Dissimilated Land | 106533 | [106533-dissimilated-land.json](./106533-dissimilated-land.json) |
 | Dissimilation | 86234 | [86234-dissimilation.json](./86234-dissimilation.json) |
