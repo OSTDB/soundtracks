@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Familiar Friends: What's Your Familiar? | 340056 | [340056-familiar-friends-whats-your-familiar.json](./340056-familiar-friends-whats-your-familiar.json) |
 | Familiar Spirit of the Demon Lord | 82609 | [82609-familiar-spirit-of-the-demon-lord.json](./82609-familiar-spirit-of-the-demon-lord.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
+| Familiar Travels: Volume One | 121355 | [121355-familiar-travels-volume-one.json](./121355-familiar-travels-volume-one.json) |
 | Familiar Travels: Volume Two | 137321 | [137321-familiar-travels-volume-two.json](./137321-familiar-travels-volume-two.json) |
 | Familiar: Battle of the Labyrinth | 367630 | [367630-familiar-battle-of-the-labyrinth.json](./367630-familiar-battle-of-the-labyrinth.json) |
 | Familiars.io | 151816 | [151816-familiars-io.json](./151816-familiars-io.json) |
@@ -1636,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy General | 14417 | [14417-fantasy-general.json](./14417-fantasy-general.json) |
 | Fantasy General II: Empire Aflame | 154501 | [154501-fantasy-general-ii-empire-aflame.json](./154501-fantasy-general-ii-empire-aflame.json) |
 | Fantasy General II: Evolution | 154502 | [154502-fantasy-general-ii-evolution.json](./154502-fantasy-general-ii-evolution.json) |
+| Fantasy General II: Invasion | 117194 | [117194-fantasy-general-ii-invasion.json](./117194-fantasy-general-ii-invasion.json) |
 | Fantasy General II: Invasion Hero Edition | 124833 | [124833-fantasy-general-ii-invasion-hero-edition.json](./124833-fantasy-general-ii-invasion-hero-edition.json) |
 | Fantasy General II: Onslaught | 154500 | [154500-fantasy-general-ii-onslaught.json](./154500-fantasy-general-ii-onslaught.json) |
 | Fantasy Girl | 136423 | [136423-fantasy-girl.json](./136423-fantasy-girl.json) |
@@ -5248,6 +5250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish RPG | 232912 | [232912-fish-rpg.json](./232912-fish-rpg.json) |
 | Fish Season | 350506 | [350506-fish-season.json](./350506-fish-season.json) |
 | Fish Simulator: Agonik Lake | 240761 | [240761-fish-simulator-agonik-lake.json](./240761-fish-simulator-agonik-lake.json) |
+| Fish Simulator: Aquarium Manager | 121785 | [121785-fish-simulator-aquarium-manager.json](./121785-fish-simulator-aquarium-manager.json) |
 | Fish Stick Protocol | 340540 | [340540-fish-stick-protocol.json](./340540-fish-stick-protocol.json) |
 | Fish Story | 189876 | [189876-fish-story.json](./189876-fish-story.json) |
 | Fish Story | 230691 | [230691-fish-story.json](./230691-fish-story.json) |
