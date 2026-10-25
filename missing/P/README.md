@@ -14329,6 +14329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
 | Punch-Out!! | 84799 | [84799-punch-out.json](./84799-punch-out.json) |
 | Punch-Out!! | 9150 | [9150-punch-out.json](./9150-punch-out.json) |
+| Punch, Rest, Repeat | 400814 | [400814-punch-rest-repeat.json](./400814-punch-rest-repeat.json) |
 | Punch! | 321956 | [321956-punch.json](./321956-punch.json) |
 | Punch'Em Up | 307605 | [307605-punchem-up.json](./307605-punchem-up.json) |
 | Punchball | 326107 | [326107-punchball.json](./326107-punchball.json) |
