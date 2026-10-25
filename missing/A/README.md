@@ -3030,7 +3030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -13785,6 +13784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atominous | 257383 | [257383-atominous.json](./257383-atominous.json) |
 | Atomite | 298688 | [298688-atomite.json](./298688-atomite.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
+| Atomix | 400813 | [400813-atomix.json](./400813-atomix.json) |
 | Atomograd | 249222 | [249222-atomograd.json](./249222-atomograd.json) |
 | Atomorf | 121376 | [121376-atomorf.json](./121376-atomorf.json) |
 | Atoms and Time | 269043 | [269043-atoms-and-time.json](./269043-atoms-and-time.json) |
