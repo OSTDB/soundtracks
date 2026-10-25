@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H2O: High speed Boat Racing | 262403 | [262403-h2o-high-speed-boat-racing.json](./262403-h2o-high-speed-boat-racing.json) |
 | H2Overdrive | 92411 | [92411-h2overdrive.json](./92411-h2overdrive.json) |
 | H3H3: Ball Rider | 112033 | [112033-h3h3-ball-rider.json](./112033-h3h3-ball-rider.json) |
+| H4CT0PL45M | 393586 | [393586-h4ct0pl45m.json](./393586-h4ct0pl45m.json) |
 | H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
 | H8machine | 210868 | [210868-h8machine.json](./210868-h8machine.json) |
 | Ha_Bits | 170537 | [170537-ha-bits.json](./170537-ha-bits.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
+| Haley's Story | 393580 | [393580-haleys-story.json](./393580-haleys-story.json) |
 | Half | 178472 | [178472-half.json](./178472-half.json) |
 | Half + Half | 152230 | [152230-half-half.json](./152230-half-half.json) |
 | Half An Hour | 179990 | [179990-half-an-hour.json](./179990-half-an-hour.json) |
@@ -868,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster All-Stars | 144121 | [144121-hamster-all-stars.json](./144121-hamster-all-stars.json) |
 | Hamster and the Village of Sun | 414167 | [414167-hamster-and-the-village-of-sun.json](./414167-hamster-and-the-village-of-sun.json) |
 | Hamster Ball | 392858 | [392858-hamster-ball.json](./392858-hamster-ball.json) |
+| Hamster Ball Blitz | 393293 | [393293-hamster-ball-blitz.json](./393293-hamster-ball-blitz.json) |
 | Hamster Ballers | 409623 | [409623-hamster-ballers.json](./409623-hamster-ballers.json) |
 | Hamster Blitz! | 191821 | [191821-hamster-blitz.json](./191821-hamster-blitz.json) |
 | Hamster Bob | 147862 | [147862-hamster-bob.json](./147862-hamster-bob.json) |
@@ -2629,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healing Simulator | 195000 | [195000-healing-simulator.json](./195000-healing-simulator.json) |
 | Healslut | 217999 | [217999-healslut.json](./217999-healslut.json) |
 | Health & Fitness Club Tycoon | 146200 | [146200-health-and-fitness-club-tycoon.json](./146200-health-and-fitness-club-tycoon.json) |
+| Health Audit Simulator | 393295 | [393295-health-audit-simulator.json](./393295-health-audit-simulator.json) |
 | Health Insurance Claim Denier | 340422 | [340422-health-insurance-claim-denier.json](./340422-health-insurance-claim-denier.json) |
 | Health Ninja | 365760 | [365760-health-ninja.json](./365760-health-ninja.json) |
 | Healthy Breakfast | 117674 | [117674-healthy-breakfast.json](./117674-healthy-breakfast.json) |
@@ -6327,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Patrol Simulator | 258451 | [258451-highway-patrol-simulator.json](./258451-highway-patrol-simulator.json) |
 | Highway Pursuit | 231318 | [231318-highway-pursuit.json](./231318-highway-pursuit.json) |
 | Highway Racer | 300727 | [300727-highway-racer.json](./300727-highway-racer.json) |
+| Highway Racer 2 | 393547 | [393547-highway-racer-2.json](./393547-highway-racer-2.json) |
 | Highway Racer HD | 237382 | [237382-highway-racer-hd.json](./237382-highway-racer-hd.json) |
 | Highway Racer: Out of Control | 241212 | [241212-highway-racer-out-of-control.json](./241212-highway-racer-out-of-control.json) |
 | Highway Racing | 247040 | [247040-highway-racing.json](./247040-highway-racing.json) |
@@ -8646,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pot For One | 139811 | [139811-hot-pot-for-one.json](./139811-hot-pot-for-one.json) |
 | Hot Pot Panic | 134550 | [134550-hot-pot-panic.json](./134550-hot-pot-panic.json) |
 | Hot Pot VR | 153004 | [153004-hot-pot-vr.json](./153004-hot-pot-vr.json) |
+| Hot Property | 393588 | [393588-hot-property.json](./393588-hot-property.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
 | Hot Redheads | 271620 | [271620-hot-redheads.json](./271620-hot-redheads.json) |
@@ -8947,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Build Flipper | 104584 | [104584-house-build-flipper.json](./104584-house-build-flipper.json) |
 | House Builder | 133448 | [133448-house-builder.json](./133448-house-builder.json) |
+| House Builder - Tiny Houses DLC | 393287 | [393287-house-builder-tiny-houses-dlc.json](./393287-house-builder-tiny-houses-dlc.json) |
 | House Builder & Thief Simulator | 225479 | [225479-house-builder-and-thief-simulator.json](./225479-house-builder-and-thief-simulator.json) |
 | House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
