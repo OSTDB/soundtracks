@@ -2293,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2603,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Times | 269225 | [269225-king-of-the-times.json](./269225-king-of-the-times.json) |
 | King of the Universe | 188878 | [188878-king-of-the-universe.json](./188878-king-of-the-universe.json) |
 | King of the West | 231986 | [231986-king-of-the-west.json](./231986-king-of-the-west.json) |
+| King of the World | 28996 | [28996-king-of-the-world.json](./28996-king-of-the-world.json) |
 | King of Tokyo | 391281 | [391281-king-of-tokyo.json](./391281-king-of-tokyo.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
 | King of Vikings | 130247 | [130247-king-of-vikings.json](./130247-king-of-vikings.json) |
