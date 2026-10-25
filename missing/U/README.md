@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
 | Up to no Goob | 281921 | [281921-up-to-no-goob.json](./281921-up-to-no-goob.json) |
 | Up to Par | 211981 | [211981-up-to-par.json](./211981-up-to-par.json) |
+| Up to the Top! | 389932 | [389932-up-to-the-top.json](./389932-up-to-the-top.json) |
 | Up to the Unknown | 261671 | [261671-up-to-the-unknown.json](./261671-up-to-the-unknown.json) |
 | Up Until the End | 133472 | [133472-up-until-the-end.json](./133472-up-until-the-end.json) |
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
