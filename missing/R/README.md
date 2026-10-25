@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Rascal | 38262 | [38262-raccoon-rascal.json](./38262-raccoon-rascal.json) |
 | Raccoon Rascals | 230211 | [230211-raccoon-rascals.json](./230211-raccoon-rascals.json) |
 | Raccoon Rascals | 244107 | [244107-raccoon-rascals.json](./244107-raccoon-rascals.json) |
+| Raccoon Revenge | 394681 | [394681-raccoon-revenge.json](./394681-raccoon-revenge.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Squad | 261860 | [261860-raccoon-squad.json](./261860-raccoon-squad.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
@@ -837,9 +838,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden DX | 8857 | [8857-raiden-dx.json](./8857-raiden-dx.json) |
 | Raiden Fighters | 8858 | [8858-raiden-fighters.json](./8858-raiden-fighters.json) |
+| Raiden Fighters 2 Remix | 394654 | [394654-raiden-fighters-2-remix.json](./394654-raiden-fighters-2-remix.json) |
 | Raiden Fighters 2: Operation Hell Dive | 8859 | [8859-raiden-fighters-2-operation-hell-dive.json](./8859-raiden-fighters-2-operation-hell-dive.json) |
 | Raiden Fighters Aces | 7153 | [7153-raiden-fighters-aces.json](./7153-raiden-fighters-aces.json) |
 | Raiden Fighters Jet | 8860 | [8860-raiden-fighters-jet.json](./8860-raiden-fighters-jet.json) |
+| Raiden Fighters Jet Remix | 394656 | [394656-raiden-fighters-jet-remix.json](./394656-raiden-fighters-jet-remix.json) |
 | Raiden Fighters Remix | 394652 | [394652-raiden-fighters-remix.json](./394652-raiden-fighters-remix.json) |
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III | 8856 | [8856-raiden-iii.json](./8856-raiden-iii.json) |
@@ -910,6 +913,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Racers | 9252 | [9252-rail-racers.json](./9252-rail-racers.json) |
 | Rail Racing | 174215 | [174215-rail-racing.json](./174215-rail-racing.json) |
 | Rail Rescue | 380831 | [380831-rail-rescue.json](./380831-rail-rescue.json) |
+| Rail Rescue: Puzzle Lines - Challenge Track | 393899 | [393899-rail-rescue-puzzle-lines-challenge-track.json](./393899-rail-rescue-puzzle-lines-challenge-track.json) |
+| Rail Rescue: Puzzle Lines - Quest Track | 393900 | [393900-rail-rescue-puzzle-lines-quest-track.json](./393900-rail-rescue-puzzle-lines-quest-track.json) |
 | Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
 | Rail Route | 145422 | [145422-rail-route.json](./145422-rail-route.json) |
 | Rail Route: Happy Passengers | 302036 | [302036-rail-route-happy-passengers.json](./302036-rail-route-happy-passengers.json) |
@@ -4140,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
 | Remothered: Broken Porcelain | 117309 | [117309-remothered-broken-porcelain.json](./117309-remothered-broken-porcelain.json) |
 | Remothered: Broken Porcelain Remastered | 409008 | [409008-remothered-broken-porcelain-remastered.json](./409008-remothered-broken-porcelain-remastered.json) |
+| Remothered: Red Nun's Legacy | 394670 | [394670-remothered-red-nuns-legacy.json](./394670-remothered-red-nuns-legacy.json) |
 | Remothered: Tormented Fathers & Broken Porcelain - Double Pack | 139977 | [139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json](./139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json) |
 | Remothered: Tormented Fathers Remastered | 409009 | [409009-remothered-tormented-fathers-remastered.json](./409009-remothered-tormented-fathers-remastered.json) |
 | ReMove | 287773 | [287773-remove.json](./287773-remove.json) |
@@ -5222,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rev Up! RC Grand Prix | 147711 | [147711-rev-up-rc-grand-prix.json](./147711-rev-up-rc-grand-prix.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
+| ReVamp | 394666 | [394666-revamp.json](./394666-revamp.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
 | Reveal that Word! | 241340 | [241340-reveal-that-word.json](./241340-reveal-that-word.json) |
@@ -5755,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Man | 175826 | [175826-rich-man.json](./175826-rich-man.json) |
 | Rich Maser: Cash King | 254960 | [254960-rich-maser-cash-king.json](./254960-rich-maser-cash-king.json) |
 | Rich Party | 370860 | [370860-rich-party.json](./370860-rich-party.json) |
+| Rich Racer | 394058 | [394058-rich-racer.json](./394058-rich-racer.json) |
 | Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
 | Rich School Girl Simulator | 300324 | [300324-rich-school-girl-simulator.json](./300324-rich-school-girl-simulator.json) |
 | Rich Tauber's Bass Champ | 94420 | [94420-rich-taubers-bass-champ.json](./94420-rich-taubers-bass-champ.json) |
@@ -6316,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinse and Repeat | 286576 | [286576-rinse-and-repeat.json](./286576-rinse-and-repeat.json) |
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
+| Rinthine | 394658 | [394658-rinthine.json](./394658-rinthine.json) |
 | Rinthylab Labyrinth | 306047 | [306047-rinthylab-labyrinth.json](./306047-rinthylab-labyrinth.json) |
 | Rio | 209217 | [209217-rio.json](./209217-rio.json) |
 | Rio | 94083 | [94083-rio.json](./94083-rio.json) |
@@ -6669,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riskers | 29736 | [29736-riskers.json](./29736-riskers.json) |
 | Risko: Shepherd's Leap | 390150 | [390150-risko-shepherds-leap.json](./390150-risko-shepherds-leap.json) |
 | Risky Bison | 314696 | [314696-risky-bison.json](./314696-risky-bison.json) |
+| Risky Challenge | 394394 | [394394-risky-challenge.json](./394394-risky-challenge.json) |
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Floors | 167374 | [167374-risky-floors.json](./167374-risky-floors.json) |
 | Risky Rescue | 33558 | [33558-risky-rescue.json](./33558-risky-rescue.json) |
@@ -7811,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 19 Rookie Pack | 366844 | [366844-rocket-league-season-19-rookie-pack.json](./366844-rocket-league-season-19-rookie-pack.json) |
 | Rocket League: Season 2 | 141575 | [141575-rocket-league-season-2.json](./141575-rocket-league-season-2.json) |
 | Rocket League: Season 21 | 381986 | [381986-rocket-league-season-21.json](./381986-rocket-league-season-21.json) |
+| Rocket League: Season 22 | 394702 | [394702-rocket-league-season-22.json](./394702-rocket-league-season-22.json) |
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
 | Rocket League: Season 24 | 421450 | [421450-rocket-league-season-24.json](./421450-rocket-league-season-24.json) |
 | Rocket League: Season 3 | 159225 | [159225-rocket-league-season-3.json](./159225-rocket-league-season-3.json) |
