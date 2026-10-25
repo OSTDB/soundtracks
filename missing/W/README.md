@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanba Warriors: Character Pack 2 | 170994 | [170994-wanba-warriors-character-pack-2.json](./170994-wanba-warriors-character-pack-2.json) |
 | Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
 | Wanba Warriors: Character Pack 5 | 202623 | [202623-wanba-warriors-character-pack-5.json](./202623-wanba-warriors-character-pack-5.json) |
+| Wand & Order: Tidy Up the Magic Shop! | 411997 | [411997-wand-and-order-tidy-up-the-magic-shop.json](./411997-wand-and-order-tidy-up-the-magic-shop.json) |
 | Wand Mart | 371451 | [371451-wand-mart.json](./371451-wand-mart.json) |
 | Wand of Fortune | 218957 | [218957-wand-of-fortune.json](./218957-wand-of-fortune.json) |
 | Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue | 219130 | [219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json](./219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json) |
