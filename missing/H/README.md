@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hako Maze | 409686 | [409686-hako-maze.json](./409686-hako-maze.json) |
 | Hako Tower | 393535 | [393535-hako-tower.json](./393535-hako-tower.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
+| Hakobune Kibau | 409336 | [409336-hakobune-kibau.json](./409336-hakobune-kibau.json) |
 | Hakonde Pon! | 206045 | [206045-hakonde-pon.json](./206045-hakonde-pon.json) |
 | Hakonde! Utte! Quiz 4-taku Typing | 355220 | [355220-hakonde-utte-quiz-4-taku-typing.json](./355220-hakonde-utte-quiz-4-taku-typing.json) |
 | Hakoniwa Company Works | 27992 | [27992-hakoniwa-company-works.json](./27992-hakoniwa-company-works.json) |
@@ -1130,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangcliff | 252598 | [252598-hangcliff.json](./252598-hangcliff.json) |
 | Hangeki | 17697 | [17697-hangeki.json](./17697-hangeki.json) |
 | Hanger World | 32504 | [32504-hanger-world.json](./32504-hanger-world.json) |
+| Hangin' Off! | 409331 | [409331-hangin-off.json](./409331-hangin-off.json) |
 | Hanging With Friends | 65346 | [65346-hanging-with-friends.json](./65346-hanging-with-friends.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
@@ -8219,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horripilant | 342102 | [342102-horripilant.json](./342102-horripilant.json) |
+| Horror | 409374 | [409374-horror.json](./409374-horror.json) |
 | Horror & Adventure Pinball | 176148 | [176148-horror-and-adventure-pinball.json](./176148-horror-and-adventure-pinball.json) |
 | Horror & Sports Pinball | 186698 | [186698-horror-and-sports-pinball.json](./186698-horror-and-sports-pinball.json) |
 | Horror Adventure | 235043 | [235043-horror-adventure.json](./235043-horror-adventure.json) |
@@ -10441,6 +10444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypogea | 303550 | [303550-hypogea.json](./303550-hypogea.json) |
 | Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
+| Hyposolus | 409360 | [409360-hyposolus.json](./409360-hyposolus.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
 | Hyposphere 2 | 187918 | [187918-hyposphere-2.json](./187918-hyposphere-2.json) |
 | Hyposphere 3: Overdrive | 181655 | [181655-hyposphere-3-overdrive.json](./181655-hyposphere-3-overdrive.json) |
