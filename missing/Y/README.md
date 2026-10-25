@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Moon | 183511 | [183511-yokai-moon.json](./183511-yokai-moon.json) |
 | Yokai Onsen | 348815 | [348815-yokai-onsen.json](./348815-yokai-onsen.json) |
 | Yokai Rescue | 309868 | [309868-yokai-rescue.json](./309868-yokai-rescue.json) |
+| Yokai Return | 389372 | [389372-yokai-return.json](./389372-yokai-return.json) |
 | Yokai Senki | 82587 | [82587-yokai-senki.json](./82587-yokai-senki.json) |
 | Yokai Taiji | 152998 | [152998-yokai-taiji.json](./152998-yokai-taiji.json) |
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
