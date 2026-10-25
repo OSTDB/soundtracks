@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technikiller | 219567 | [219567-technikiller.json](./219567-technikiller.json) |
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
 | Techno Boy | 86529 | [86529-techno-boy.json](./86529-techno-boy.json) |
+| Techno Chopper | 416386 | [416386-techno-chopper.json](./416386-techno-chopper.json) |
 | Techno Cop | 132021 | [132021-techno-cop.json](./132021-techno-cop.json) |
 | Techno Cop | 22746 | [22746-techno-cop.json](./22746-techno-cop.json) |
 | Techno Drive | 319867 | [319867-techno-drive.json](./319867-techno-drive.json) |
@@ -4811,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Ancients' Tome | 124567 | [124567-the-ancients-tome.json](./124567-the-ancients-tome.json) |
 | The Anders Cyclopaedia | 327161 | [327161-the-anders-cyclopaedia.json](./327161-the-anders-cyclopaedia.json) |
+| The Andersen Accounts: A Voice of Reason - Collector's Edition | 416359 | [416359-the-andersen-accounts-a-voice-of-reason-collectors-edition.json](./416359-the-andersen-accounts-a-voice-of-reason-collectors-edition.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
 | The Andromeda Mysteries | 244102 | [244102-the-andromeda-mysteries.json](./244102-the-andromeda-mysteries.json) |
 | The Andromeda Strain | 24167 | [24167-the-andromeda-strain.json](./24167-the-andromeda-strain.json) |
@@ -12562,6 +12564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Apocalypse | 181087 | [181087-the-quiet-apocalypse.json](./181087-the-quiet-apocalypse.json) |
 | The Quiet Collection | 59887 | [59887-the-quiet-collection.json](./59887-the-quiet-collection.json) |
 | The Quiet Days of Dorothy | 391324 | [391324-the-quiet-days-of-dorothy.json](./391324-the-quiet-days-of-dorothy.json) |
+| The Quiet Flat | 416368 | [416368-the-quiet-flat.json](./416368-the-quiet-flat.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
 | The Quiet Man | 103313 | [103313-the-quiet-man.json](./103313-the-quiet-man.json) |
 | The Quiet Pelagian | 401316 | [401316-the-quiet-pelagian.json](./401316-the-quiet-pelagian.json) |
@@ -17198,6 +17201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Cauldron | 288613 | [288613-tidy-cauldron.json](./288613-tidy-cauldron.json) |
+| Tidy to the Max! | 416345 | [416345-tidy-to-the-max.json](./416345-tidy-to-the-max.json) |
 | Tidy Toys | 364033 | [364033-tidy-toys.json](./364033-tidy-toys.json) |
 | Tidy Up | 406153 | [406153-tidy-up.json](./406153-tidy-up.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
@@ -18780,6 +18784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time For Changes | 418203 | [418203-time-for-changes.json](./418203-time-for-changes.json) |
 | Time For Kill | 353633 | [353633-time-for-kill.json](./353633-time-for-kill.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
+| Time for You to Leave | 416355 | [416355-time-for-you-to-leave.json](./416355-time-for-you-to-leave.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
 | Time for You: Chapter 02 - Dirty Thoughts and Corporate Bots | 170373 | [170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json](./170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json) |
 | Time Fragments: 24h in Capua | 126818 | [126818-time-fragments-24h-in-capua.json](./126818-time-fragments-24h-in-capua.json) |
@@ -19202,6 +19207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
 | Tiny Bird Garden Deluxe | 112826 | [112826-tiny-bird-garden-deluxe.json](./112826-tiny-bird-garden-deluxe.json) |
+| Tiny Block: One Block Skyblock | 416378 | [416378-tiny-block-one-block-skyblock.json](./416378-tiny-block-one-block-skyblock.json) |
 | Tiny Blues vs. Mini Reds | 219768 | [219768-tiny-blues-vs-mini-reds.json](./219768-tiny-blues-vs-mini-reds.json) |
 | Tiny Bookshop | 216718 | [216718-tiny-bookshop.json](./216718-tiny-bookshop.json) |
 | Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
@@ -20241,6 +20247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Babel | 11653 | [11653-tokyo-babel.json](./11653-tokyo-babel.json) |
 | Tokyo Beat Down | 20703 | [20703-tokyo-beat-down.json](./20703-tokyo-beat-down.json) |
 | Tokyo Bus Guide | 72903 | [72903-tokyo-bus-guide.json](./72903-tokyo-bus-guide.json) |
+| Tokyo Butouhen OVA Ban | 416329 | [416329-tokyo-butouhen-ova-ban.json](./416329-tokyo-butouhen-ova-ban.json) |
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
 | Tokyo Chronos & Altedus: Beyond Chronos Twin Pack | 308616 | [308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json](./308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json) |
 | Tokyo City Nights | 409080 | [409080-tokyo-city-nights.json](./409080-tokyo-city-nights.json) |
