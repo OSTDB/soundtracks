@@ -3283,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4292,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Ones Battle Stadium | 338365 | [338365-wild-ones-battle-stadium.json](./338365-wild-ones-battle-stadium.json) |
 | Wild Origin: Scout | 130616 | [130616-wild-origin-scout.json](./130616-wild-origin-scout.json) |
 | Wild Park Manager | 100848 | [100848-wild-park-manager.json](./100848-wild-park-manager.json) |
+| Wild Pilot | 409345 | [409345-wild-pilot.json](./409345-wild-pilot.json) |
 | Wild Pinball Bundle | 166684 | [166684-wild-pinball-bundle.json](./166684-wild-pinball-bundle.json) |
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
 | Wild Radio Flux | 236943 | [236943-wild-radio-flux.json](./236943-wild-radio-flux.json) |
@@ -4870,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie the Bear | 326698 | [326698-winnie-the-bear.json](./326698-winnie-the-bear.json) |
 | Winnie the Pooh and Tigger Too | 70250 | [70250-winnie-the-pooh-and-tigger-too.json](./70250-winnie-the-pooh-and-tigger-too.json) |
 | Winnie the Pooh in the Hundred Acre Wood | 51370 | [51370-winnie-the-pooh-in-the-hundred-acre-wood.json](./51370-winnie-the-pooh-in-the-hundred-acre-wood.json) |
+| Winnie the Pooh Wonder and Wander | 409378 | [409378-winnie-the-pooh-wonder-and-wander.json](./409378-winnie-the-pooh-wonder-and-wander.json) |
 | Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
 | Winnie the Pooh: Kindergarten | 43732 | [43732-winnie-the-pooh-kindergarten.json](./43732-winnie-the-pooh-kindergarten.json) |
 | Winnie the Pooh: Preschool | 43731 | [43731-winnie-the-pooh-preschool.json](./43731-winnie-the-pooh-preschool.json) |
