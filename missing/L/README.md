@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
 | Let Catch Me | 343686 | [343686-let-catch-me.json](./343686-let-catch-me.json) |
+| Let Deco Desktop | 389751 | [389751-let-deco-desktop.json](./389751-let-deco-desktop.json) |
 | Let Hawaii Happen VR | 31151 | [31151-let-hawaii-happen-vr.json](./31151-let-hawaii-happen-vr.json) |
 | Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
 | Let It Boom | 217260 | [217260-let-it-boom.json](./217260-let-it-boom.json) |
@@ -3141,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Ride!: Dreamer | 49396 | [49396-lets-ride-dreamer.json](./49396-lets-ride-dreamer.json) |
 | Let's Ride!: Sunshine Stables | 49395 | [49395-lets-ride-sunshine-stables.json](./49395-lets-ride-sunshine-stables.json) |
 | Let's Roll | 293141 | [293141-lets-roll.json](./293141-lets-roll.json) |
+| Let's Save Mice | 389371 | [389371-lets-save-mice.json](./389371-lets-save-mice.json) |
 | Let's School | 231547 | [231547-lets-school.json](./231547-lets-school.json) |
 | Let's School: Magical Castles Furniture Pack | 322719 | [322719-lets-school-magical-castles-furniture-pack.json](./322719-lets-school-magical-castles-furniture-pack.json) |
 | Let's School: Magical Castles Furniture Pack | 324404 | [324404-lets-school-magical-castles-furniture-pack.json](./324404-lets-school-magical-castles-furniture-pack.json) |
