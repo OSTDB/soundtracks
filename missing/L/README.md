@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
 | Leak or Die! | 176391 | [176391-leak-or-die.json](./176391-leak-or-die.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
+| Leaky Business | 397739 | [397739-leaky-business.json](./397739-leaky-business.json) |
 | Leander | 12173 | [12173-leander.json](./12173-leander.json) |
 | Leann sins | 367286 | [367286-leann-sins.json](./367286-leann-sins.json) |
 | Leanna's Slice of Life | 114236 | [114236-leannas-slice-of-life.json](./114236-leannas-slice-of-life.json) |
@@ -6766,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: Redemption | 142185 | [142185-lost-lands-redemption.json](./142185-lost-lands-redemption.json) |
 | Lost Lands: Sand Captivity | 213245 | [213245-lost-lands-sand-captivity.json](./213245-lost-lands-sand-captivity.json) |
 | Lost Lands: Sand Captivity - Collector's Edition | 283619 | [283619-lost-lands-sand-captivity-collectors-edition.json](./283619-lost-lands-sand-captivity-collectors-edition.json) |
+| Lost Lands: Stories About the Sorceress, the Prince and the Minotaur | 397727 | [397727-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur.json](./397727-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur.json) |
 | Lost Lands: Stories About the Sorceress, the Prince and the Minotaur - Collector's Edition | 416618 | [416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json](./416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json) |
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
 | Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
@@ -8305,6 +8307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Licentia | 383204 | [383204-lux-licentia.json](./383204-lux-licentia.json) |
 | Lux mina | 163036 | [163036-lux-mina.json](./163036-lux-mina.json) |
 | Lux Primora | 188861 | [188861-lux-primora.json](./188861-lux-primora.json) |
+| Lux Renata | 397808 | [397808-lux-renata.json](./397808-lux-renata.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux Ski Jump | 151472 | [151472-lux-ski-jump.json](./151472-lux-ski-jump.json) |
 | Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
