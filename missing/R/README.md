@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rager | 295512 | [295512-rager.json](./295512-rager.json) |
 | Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
 | Raging Ball | 157511 | [157511-raging-ball.json](./157511-raging-ball.json) |
+| Raging Ball | 416962 | [416962-raging-ball.json](./416962-raging-ball.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Blasters | 142659 | [142659-raging-blasters.json](./142659-raging-blasters.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
