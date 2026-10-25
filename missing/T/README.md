@@ -19519,6 +19519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic: Honor and Glory | 57921 | [57921-titanic-honor-and-glory.json](./57921-titanic-honor-and-glory.json) |
 | Titanic: Iceberg Ahead | 91966 | [91966-titanic-iceberg-ahead.json](./91966-titanic-iceberg-ahead.json) |
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
+| Titanic: The Unsinkable | 93650 | [93650-titanic-the-unsinkable.json](./93650-titanic-the-unsinkable.json) |
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
 | Titanion | 50413 | [50413-titanion.json](./50413-titanion.json) |
 | Titanis | 35381 | [35381-titanis.json](./35381-titanis.json) |
@@ -22859,6 +22860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Drive Ats 2 | 175113 | [175113-train-drive-ats-2.json](./175113-train-drive-ats-2.json) |
 | Train Drive ATS 3 Kintetsu Nara Line | 109505 | [109505-train-drive-ats-3-kintetsu-nara-line.json](./109505-train-drive-ats-3-kintetsu-nara-line.json) |
 | Train Driver 2 | 176687 | [176687-train-driver-2.json](./176687-train-driver-2.json) |
+| Train Driver 2018 | 92201 | [92201-train-driver-2018.json](./92201-train-driver-2018.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
@@ -25871,6 +25873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
 | Truck Simulator Driver 2023: Europe Cargo | 267772 | [267772-truck-simulator-driver-2023-europe-cargo.json](./267772-truck-simulator-driver-2023-europe-cargo.json) |
 | Truck Simulator Driver USA 2024 | 281048 | [281048-truck-simulator-driver-usa-2024.json](./281048-truck-simulator-driver-usa-2024.json) |
+| Truck Simulator Europe 2 | 93714 | [93714-truck-simulator-europe-2.json](./93714-truck-simulator-europe-2.json) |
 | Truck Simulator in City | 211154 | [211154-truck-simulator-in-city.json](./211154-truck-simulator-in-city.json) |
 | Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
 | Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
@@ -26266,6 +26269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsurikkuma | 306727 | [306727-tsurikkuma.json](./306727-tsurikkuma.json) |
 | Tsurimasu | 355224 | [355224-tsurimasu.json](./355224-tsurimasu.json) |
 | Tsuro: The Game of The Path | 178349 | [178349-tsuro-the-game-of-the-path.json](./178349-tsuro-the-game-of-the-path.json) |
+| Tsuro: The Game of The Path - VR Edition | 89181 | [89181-tsuro-the-game-of-the-path-vr-edition.json](./89181-tsuro-the-game-of-the-path-vr-edition.json) |
 | Tsuru Teruhito No Jissen | 37646 | [37646-tsuru-teruhito-no-jissen.json](./37646-tsuru-teruhito-no-jissen.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsurugihime | 228340 | [228340-tsurugihime.json](./228340-tsurugihime.json) |
