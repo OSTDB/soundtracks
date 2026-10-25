@@ -4099,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
 | Like2Be | 384343 | [384343-like2be.json](./384343-like2be.json) |
+| Lil Big Invasion | 32818 | [32818-lil-big-invasion.json](./32818-lil-big-invasion.json) |
 | Lil Doll House | 293472 | [293472-lil-doll-house.json](./293472-lil-doll-house.json) |
 | Lil Dungeon Wizard | 181166 | [181166-lil-dungeon-wizard.json](./181166-lil-dungeon-wizard.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
@@ -7815,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumberjack's Dynasty: Digital Supporter Edition | 169187 | [169187-lumberjacks-dynasty-digital-supporter-edition.json](./169187-lumberjacks-dynasty-digital-supporter-edition.json) |
 | Lumberjacked | 341623 | [341623-lumberjacked.json](./341623-lumberjacked.json) |
 | LumberKill | 310828 | [310828-lumberkill.json](./310828-lumberkill.json) |
+| Lumbermancer | 32816 | [32816-lumbermancer.json](./32816-lumbermancer.json) |
 | Lumbermill | 122427 | [122427-lumbermill.json](./122427-lumbermill.json) |
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
 | LumberReborn | 217822 | [217822-lumberreborn.json](./217822-lumberreborn.json) |
