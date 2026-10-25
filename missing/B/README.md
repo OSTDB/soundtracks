@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Egg! | 55742 | [55742-back-to-the-egg.json](./55742-back-to-the-egg.json) |
 | Back to the Fooker: Zombie Fooker 2 | 273820 | [273820-back-to-the-fooker-zombie-fooker-2.json](./273820-back-to-the-fooker-zombie-fooker-2.json) |
 | Back to the Future | 8516 | [8516-back-to-the-future.json](./8516-back-to-the-future.json) |
+| Back to the Future | 8518 | [8518-back-to-the-future.json](./8518-back-to-the-future.json) |
 | Back to the Future III | 218360 | [218360-back-to-the-future-iii.json](./218360-back-to-the-future-iii.json) |
 | Back to the Future Part II | 12396 | [12396-back-to-the-future-part-ii.json](./12396-back-to-the-future-part-ii.json) |
 | Back to the Future Part II & III | 8517 | [8517-back-to-the-future-part-ii-and-iii.json](./8517-back-to-the-future-part-ii-and-iii.json) |
@@ -383,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
 | Back to the Village | 395244 | [395244-back-to-the-village.json](./395244-back-to-the-village.json) |
 | Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
+| Back Together | 425448 | [425448-back-together.json](./425448-back-together.json) |
 | Back Track | 49165 | [49165-back-track.json](./49165-back-track.json) |
 | Back Wars | 105726 | [105726-back-wars.json](./105726-back-wars.json) |
 | Back: Fade | 342501 | [342501-back-fade.json](./342501-back-fade.json) |
@@ -2210,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barn & Farm Renovator | 152984 | [152984-barn-and-farm-renovator.json](./152984-barn-and-farm-renovator.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
+| Barn Rush | 425449 | [425449-barn-rush.json](./425449-barn-rush.json) |
 | Barn Yarn: Collector's Edition | 339835 | [339835-barn-yarn-collectors-edition.json](./339835-barn-yarn-collectors-edition.json) |
 | Barnacle | 405614 | [405614-barnacle.json](./405614-barnacle.json) |
 | Barnacle Bill | 91437 | [91437-barnacle-bill.json](./91437-barnacle-bill.json) |
@@ -4144,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
 | Beast Fists | 211096 | [211096-beast-fists.json](./211096-beast-fists.json) |
 | Beast Gang | 368824 | [368824-beast-gang.json](./368824-beast-gang.json) |
+| Beast Hunt | 425545 | [425545-beast-hunt.json](./425545-beast-hunt.json) |
 | Beast King | 113488 | [113488-beast-king.json](./113488-beast-king.json) |
 | Beast League | 251206 | [251206-beast-league.json](./251206-beast-league.json) |
 | Beast Lord | 242685 | [242685-beast-lord.json](./242685-beast-lord.json) |
@@ -5071,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belote 3 in 1 | 326263 | [326263-belote-3-in-1.json](./326263-belote-3-in-1.json) |
 | Beloved Nightmare | 267595 | [267595-beloved-nightmare.json](./267595-beloved-nightmare.json) |
 | Beloved Rapture | 211448 | [211448-beloved-rapture.json](./211448-beloved-rapture.json) |
+| Beloved, Below | 425555 | [425555-beloved-below.json](./425555-beloved-below.json) |
 | Below | 364010 | [364010-below.json](./364010-below.json) |
 | Below | 377564 | [377564-below.json](./377564-below.json) |
 | Below Benni's | 335249 | [335249-below-bennis.json](./335249-below-bennis.json) |
@@ -5510,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | Betasuppe | 68968 | [68968-betasuppe.json](./68968-betasuppe.json) |
+| BetDog Cards | 425458 | [425458-betdog-cards.json](./425458-betdog-cards.json) |
 | Betelgeuse | 137946 | [137946-betelgeuse.json](./137946-betelgeuse.json) |
 | Beth the Exhibitionist | 154582 | [154582-beth-the-exhibitionist.json](./154582-beth-the-exhibitionist.json) |
 | Bethesda Pinball | 297501 | [297501-bethesda-pinball.json](./297501-bethesda-pinball.json) |
@@ -9424,6 +9430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blower | 180664 | [180664-blower.json](./180664-blower.json) |
 | Blowfly: DungHole Wanderer | 202745 | [202745-blowfly-dunghole-wanderer.json](./202745-blowfly-dunghole-wanderer.json) |
 | Blowhards | 27342 | [27342-blowhards.json](./27342-blowhards.json) |
+| Blowhole | 425455 | [425455-blowhole.json](./425455-blowhole.json) |
 | Blown Away | 175638 | [175638-blown-away.json](./175638-blown-away.json) |
 | Blown Away | 187703 | [187703-blown-away.json](./187703-blown-away.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
@@ -11903,6 +11910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot: Animal Quizzes | 343259 | [343259-brainrot-animal-quizzes.json](./343259-brainrot-animal-quizzes.json) |
 | Brainrot: Story of Glorbo Frutodrillo & Ballerino Cappuccino | 351591 | [351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json](./351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json) |
 | Brainrot: Tralalero and The Lost Soul of AI | 368760 | [368760-brainrot-tralalero-and-the-lost-soul-of-ai.json](./368760-brainrot-tralalero-and-the-lost-soul-of-ai.json) |
+| Brainrotting | 425550 | [425550-brainrotting.json](./425550-brainrotting.json) |
 | Brains & Hearts | 330163 | [330163-brains-and-hearts.json](./330163-brains-and-hearts.json) |
 | Brains Diamonds | 246435 | [246435-brains-diamonds.json](./246435-brains-diamonds.json) |
 | Brains: Denshinou Kougeki Shirei | 66054 | [66054-brains-denshinou-kougeki-shirei.json](./66054-brains-denshinou-kougeki-shirei.json) |
