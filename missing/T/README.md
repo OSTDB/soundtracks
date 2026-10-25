@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Table Tactics | 81646 | [81646-tavern-table-tactics.json](./81646-tavern-table-tactics.json) |
 | Tavern Talk | 238488 | [238488-tavern-talk.json](./238488-tavern-talk.json) |
 | Tavern Talk + Pirate Palooza (Costume AOC) | 378868 | [378868-tavern-talk-pirate-palooza-costume-aoc.json](./378868-tavern-talk-pirate-palooza-costume-aoc.json) |
+| Tavern Talk and Dreamwalker Bundle | 405917 | [405917-tavern-talk-and-dreamwalker-bundle.json](./405917-tavern-talk-and-dreamwalker-bundle.json) |
 | Tavern Talk Stories: Dreamwalker | 345852 | [345852-tavern-talk-stories-dreamwalker.json](./345852-tavern-talk-stories-dreamwalker.json) |
 | Tavern Talk: Pirate Palooza (Costume Pack) | 376798 | [376798-tavern-talk-pirate-palooza-costume-pack.json](./376798-tavern-talk-pirate-palooza-costume-pack.json) |
 | Tavern Talk: Tempest Tantrum | 336038 | [336038-tavern-talk-tempest-tantrum.json](./336038-tavern-talk-tempest-tantrum.json) |
@@ -5029,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awkward Steve Duology | 43117 | [43117-the-awkward-steve-duology.json](./43117-the-awkward-steve-duology.json) |
 | The Axis Unseen | 217404 | [217404-the-axis-unseen.json](./217404-the-axis-unseen.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
+| The Ayna | 405874 | [405874-the-ayna.json](./405874-the-ayna.json) |
 | The Azmodeus Project | 240096 | [240096-the-azmodeus-project.json](./240096-the-azmodeus-project.json) |
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
@@ -5701,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Buried Pillars | 397841 | [397841-the-buried-pillars.json](./397841-the-buried-pillars.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burning Descent | 127614 | [127614-the-burning-descent.json](./127614-the-burning-descent.json) |
+| The Burning Owl | 405880 | [405880-the-burning-owl.json](./405880-the-burning-owl.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Burst | 253186 | [253186-the-burst.json](./253186-the-burst.json) |
 | The Bus: Hamburg City | 371245 | [371245-the-bus-hamburg-city.json](./371245-the-bus-hamburg-city.json) |
@@ -6553,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dancer: Definitive Edition | 211666 | [211666-the-dancer-definitive-edition.json](./211666-the-dancer-definitive-edition.json) |
 | The DangerZone | 153526 | [153526-the-dangerzone.json](./153526-the-dangerzone.json) |
+| The Dare | 405878 | [405878-the-dare.json](./405878-the-dare.json) |
 | The Daring Entrepreneur | 185516 | [185516-the-daring-entrepreneur.json](./185516-the-daring-entrepreneur.json) |
 | The Daring Mermaid Expedition | 33519 | [33519-the-daring-mermaid-expedition.json](./33519-the-daring-mermaid-expedition.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
@@ -7601,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Priest | 276397 | [276397-the-fallen-priest.json](./276397-the-fallen-priest.json) |
 | The Fallen Will | 386447 | [386447-the-fallen-will.json](./386447-the-fallen-will.json) |
 | The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
+| The Falling Skies | 405879 | [405879-the-falling-skies.json](./405879-the-falling-skies.json) |
 | The Falling Star | 344441 | [344441-the-falling-star.json](./344441-the-falling-star.json) |
 | The Falling Sun | 36167 | [36167-the-falling-sun.json](./36167-the-falling-sun.json) |
 | The Fallow City | 330578 | [330578-the-fallow-city.json](./330578-the-fallow-city.json) |
@@ -9266,6 +9271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isles of the Seven Moons | 306005 | [306005-the-isles-of-the-seven-moons.json](./306005-the-isles-of-the-seven-moons.json) |
 | The Isolated | 384351 | [384351-the-isolated.json](./384351-the-isolated.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
+| The Isolation Project | 405884 | [405884-the-isolation-project.json](./405884-the-isolation-project.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
 | The Itch | 120002 | [120002-the-itch.json](./120002-the-itch.json) |
@@ -9696,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kristal | 12168 | [12168-the-kristal.json](./12168-the-kristal.json) |
 | The Krypton Factor | 12955 | [12955-the-krypton-factor.json](./12955-the-krypton-factor.json) |
 | The Kulka | 388915 | [388915-the-kulka.json](./388915-the-kulka.json) |
+| The Kuon Island Nursery Rhyme Murders: Case Notes | 405922 | [405922-the-kuon-island-nursery-rhyme-murders-case-notes.json](./405922-the-kuon-island-nursery-rhyme-murders-case-notes.json) |
 | The Kutar's Tabipero | 340039 | [340039-the-kutars-tabipero.json](./340039-the-kutars-tabipero.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Kynge's Gambit | 211710 | [211710-the-kynges-gambit.json](./211710-the-kynges-gambit.json) |
@@ -11301,6 +11308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
 | The Message | 170458 | [170458-the-message.json](./170458-the-message.json) |
 | The Message | 60409 | [60409-the-message.json](./60409-the-message.json) |
+| The Message From Deep Space | 406341 | [406341-the-message-from-deep-space.json](./406341-the-message-from-deep-space.json) |
 | The Messenger | 44838 | [44838-the-messenger.json](./44838-the-messenger.json) |
 | The Messenger | 71628 | [71628-the-messenger.json](./71628-the-messenger.json) |
 | The Messenger from Athens at Marathon | 422053 | [422053-the-messenger-from-athens-at-marathon.json](./422053-the-messenger-from-athens-at-marathon.json) |
@@ -17119,6 +17127,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiara the Deceiving Crown | 120864 | [120864-tiara-the-deceiving-crown.json](./120864-tiara-the-deceiving-crown.json) |
 | Tiberian War: Ion Shock | 144980 | [144980-tiberian-war-ion-shock.json](./144980-tiberian-war-ion-shock.json) |
 | Tiberium | 94713 | [94713-tiberium.json](./94713-tiberium.json) |
+| Tiberium Chaos | 405890 | [405890-tiberium-chaos.json](./405890-tiberium-chaos.json) |
+| Tiberium Dusk | 405897 | [405897-tiberium-dusk.json](./405897-tiberium-dusk.json) |
 | Tibet Quest | 54194 | [54194-tibet-quest.json](./54194-tibet-quest.json) |
 | Tibetan Quest: Beyond the World's End | 33900 | [33900-tibetan-quest-beyond-the-worlds-end.json](./33900-tibetan-quest-beyond-the-worlds-end.json) |
 | Tibia | 9596 | [9596-tibia.json](./9596-tibia.json) |
@@ -18978,6 +18988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Hunt | 188320 | [188320-time-to-hunt.json](./188320-time-to-hunt.json) |
 | Time to Hunt | 200525 | [200525-time-to-hunt.json](./200525-time-to-hunt.json) |
 | Time To Live | 288606 | [288606-time-to-live.json](./288606-time-to-live.json) |
+| Time to Love | 405894 | [405894-time-to-love.json](./405894-time-to-love.json) |
 | Time to Play Bridge | 95582 | [95582-time-to-play-bridge.json](./95582-time-to-play-bridge.json) |
 | Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
@@ -20394,6 +20405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Xtreme Racer Drift | 44632 | [44632-tokyo-xtreme-racer-drift.json](./44632-tokyo-xtreme-racer-drift.json) |
 | Tokyo Xtreme Racer Drift 2 | 21441 | [21441-tokyo-xtreme-racer-drift-2.json](./21441-tokyo-xtreme-racer-drift-2.json) |
 | Tokyo Xtreme Racer: Zero | 43289 | [43289-tokyo-xtreme-racer-zero.json](./43289-tokyo-xtreme-racer-zero.json) |
+| Tokyo Yakuza Idols: Save the Heart of a Rebel Boy | 405918 | [405918-tokyo-yakuza-idols-save-the-heart-of-a-rebel-boy.json](./405918-tokyo-yakuza-idols-save-the-heart-of-a-rebel-boy.json) |
 | Tokyo Yakuza Idols: Save the Heart of a Rebel Girl | 406079 | [406079-tokyo-yakuza-idols-save-the-heart-of-a-rebel-girl.json](./406079-tokyo-yakuza-idols-save-the-heart-of-a-rebel-girl.json) |
 | Tokyo Yamanote Boys Black Vanilla Disc | 221958 | [221958-tokyo-yamanote-boys-black-vanilla-disc.json](./221958-tokyo-yamanote-boys-black-vanilla-disc.json) |
 | Tokyo Yamanote Boys Dark Cherry Disc | 221955 | [221955-tokyo-yamanote-boys-dark-cherry-disc.json](./221955-tokyo-yamanote-boys-dark-cherry-disc.json) |
@@ -26069,6 +26081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
 | Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
 | Truck Simulator Driver 2023: Europe Cargo | 267772 | [267772-truck-simulator-driver-2023-europe-cargo.json](./267772-truck-simulator-driver-2023-europe-cargo.json) |
+| Truck Simulator Driver 2026 | 405919 | [405919-truck-simulator-driver-2026.json](./405919-truck-simulator-driver-2026.json) |
 | Truck Simulator Driver USA 2024 | 281048 | [281048-truck-simulator-driver-usa-2024.json](./281048-truck-simulator-driver-usa-2024.json) |
 | Truck Simulator Europe 2 | 93714 | [93714-truck-simulator-europe-2.json](./93714-truck-simulator-europe-2.json) |
 | Truck Simulator in City | 211154 | [211154-truck-simulator-in-city.json](./211154-truck-simulator-in-city.json) |
@@ -26081,6 +26094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator USA | 125753 | [125753-truck-simulator-usa.json](./125753-truck-simulator-usa.json) |
 | Truck Simulator USA & ATV Monster Rally Bundle | 306513 | [306513-truck-simulator-usa-and-atv-monster-rally-bundle.json](./306513-truck-simulator-usa-and-atv-monster-rally-bundle.json) |
 | Truck Simulator USA Car Games: Driving games & Car 2022 | 196177 | [196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json](./196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json) |
+| Truck Simulator World Tour Bundle: American and European Edition | 405920 | [405920-truck-simulator-world-tour-bundle-american-and-european-edition.json](./405920-truck-simulator-world-tour-bundle-american-and-european-edition.json) |
 | Truck Simulator: Delivery in City | 375410 | [375410-truck-simulator-delivery-in-city.json](./375410-truck-simulator-delivery-in-city.json) |
 | Truck Simulator: Driving School 2024 | 276862 | [276862-truck-simulator-driving-school-2024.json](./276862-truck-simulator-driving-school-2024.json) |
 | Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
@@ -27665,6 +27679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
 | Tyrant's Realm | 177253 | [177253-tyrants-realm.json](./177253-tyrants-realm.json) |
 | Tyrants Must Fall | 406753 | [406753-tyrants-must-fall.json](./406753-tyrants-must-fall.json) |
+| Tyrants Rafting | 405875 | [405875-tyrants-rafting.json](./405875-tyrants-rafting.json) |
 | Tyrants: Fight Through Time | 12183 | [12183-tyrants-fight-through-time.json](./12183-tyrants-fight-through-time.json) |
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
