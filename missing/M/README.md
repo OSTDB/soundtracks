@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Delicacy | 238948 | [238948-magical-delicacy.json](./238948-magical-delicacy.json) |
 | Magical Diary: Horse Hall | 28035 | [28035-magical-diary-horse-hall.json](./28035-magical-diary-horse-hall.json) |
 | Magical Diary: Secrets Sharing | 85271 | [85271-magical-diary-secrets-sharing.json](./85271-magical-diary-secrets-sharing.json) |
+| Magical Diary: Wolf Hall | 113743 | [113743-magical-diary-wolf-hall.json](./113743-magical-diary-wolf-hall.json) |
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
 | Magical DoReMi: Puzzle Carnival | 325725 | [325725-magical-doremi-puzzle-carnival.json](./325725-magical-doremi-puzzle-carnival.json) |
@@ -1255,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Maze | 147749 | [147749-magical-maze.json](./147749-magical-maze.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
+| Magical Monster Land | 110671 | [110671-magical-monster-land.json](./110671-magical-monster-land.json) |
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
 | Magical Mysteries: Path of the Sorceress | 30714 | [30714-magical-mysteries-path-of-the-sorceress.json](./30714-magical-mysteries-path-of-the-sorceress.json) |
 | Magical Mystery Cure | 177949 | [177949-magical-mystery-cure.json](./177949-magical-mystery-cure.json) |
@@ -10942,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Layers | 98557 | [98557-mirror-layers.json](./98557-mirror-layers.json) |
 | Mirror Lover | 187706 | [187706-mirror-lover.json](./187706-mirror-lover.json) |
+| Mirror Maker | 113690 | [113690-mirror-maker.json](./113690-mirror-maker.json) |
 | Mirror Match | 363965 | [363965-mirror-match.json](./363965-mirror-match.json) |
 | Mirror Mirror | 230701 | [230701-mirror-mirror.json](./230701-mirror-mirror.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
