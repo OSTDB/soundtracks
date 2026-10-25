@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Escape | 290460 | [290460-warrior-escape.json](./290460-warrior-escape.json) |
 | Warrior Fighter | 110520 | [110520-warrior-fighter.json](./110520-warrior-fighter.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
+| Warrior Is Just Going | 422701 | [422701-warrior-is-just-going.json](./422701-warrior-is-just-going.json) |
 | Warrior Kings | 17343 | [17343-warrior-kings.json](./17343-warrior-kings.json) |
 | Warrior Kings: Battles | 24179 | [24179-warrior-kings-battles.json](./24179-warrior-kings-battles.json) |
 | Warrior Mage or Rogue alike | 359352 | [359352-warrior-mage-or-rogue-alike.json](./359352-warrior-mage-or-rogue-alike.json) |
@@ -1819,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
 | WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
 | Warzone 2100 | 51297 | [51297-warzone-2100.json](./51297-warzone-2100.json) |
+| Warzone Acron | 422654 | [422654-warzone-acron.json](./422654-warzone-acron.json) |
 | Warzone Chronicles 2: Warfare Shooter Zombie | 315823 | [315823-warzone-chronicles-2-warfare-shooter-zombie.json](./315823-warzone-chronicles-2-warfare-shooter-zombie.json) |
 | Warzone Chronicles: Battlegrounds | 277733 | [277733-warzone-chronicles-battlegrounds.json](./277733-warzone-chronicles-battlegrounds.json) |
 | Warzone Chronicles: Night Vision | 306550 | [306550-warzone-chronicles-night-vision.json](./306550-warzone-chronicles-night-vision.json) |
@@ -2930,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Slot Machine | 279254 | [279254-western-slot-machine.json](./279254-western-slot-machine.json) |
 | Western U.S. Scenery Set | 131190 | [131190-western-u-s-scenery-set.json](./131190-western-u-s-scenery-set.json) |
 | Western War | 249754 | [249754-western-war.json](./249754-western-war.json) |
+| Western Wolf Hunter: The Dead Forest | 422697 | [422697-western-wolf-hunter-the-dead-forest.json](./422697-western-wolf-hunter-the-dead-forest.json) |
 | Westeros: Total War | 356236 | [356236-westeros-total-war.json](./356236-westeros-total-war.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
 | WestFallen | 201547 | [201547-westfallen.json](./201547-westfallen.json) |
@@ -3267,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3712,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers Among the Poppies | 372753 | [372753-whispers-among-the-poppies.json](./372753-whispers-among-the-poppies.json) |
 | Whispers Between Worlds | 384869 | [384869-whispers-between-worlds.json](./384869-whispers-between-worlds.json) |
 | Whispers Beyond | 380811 | [380811-whispers-beyond.json](./380811-whispers-beyond.json) |
+| Whispers From Below | 422694 | [422694-whispers-from-below.json](./422694-whispers-from-below.json) |
 | Whispers From the Rift | 123479 | [123479-whispers-from-the-rift.json](./123479-whispers-from-the-rift.json) |
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
