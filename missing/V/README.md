@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentino Rossi: The Game - Real Events: 2015 MotoGP Season | 168360 | [168360-valentino-rossi-the-game-real-events-2015-motogp-season.json](./168360-valentino-rossi-the-game-real-events-2015-motogp-season.json) |
 | Valentino Rossi: The Game - Special Edition | 118940 | [118940-valentino-rossi-the-game-special-edition.json](./118940-valentino-rossi-the-game-special-edition.json) |
 | Valentyne Stories Necromancy | 177902 | [177902-valentyne-stories-necromancy.json](./177902-valentyne-stories-necromancy.json) |
+| Valenya Online | 420760 | [420760-valenya-online.json](./420760-valenya-online.json) |
 | Valeria the Pagan Priestess | 249341 | [249341-valeria-the-pagan-priestess.json](./249341-valeria-the-pagan-priestess.json) |
 | Valerian Tales | 104038 | [104038-valerian-tales.json](./104038-valerian-tales.json) |
 | Valerie | 337109 | [337109-valerie.json](./337109-valerie.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex Mage | 360778 | [360778-vex-mage.json](./360778-vex-mage.json) |
 | Vex: World 4 Unlock | 170883 | [170883-vex-world-4-unlock.json](./170883-vex-world-4-unlock.json) |
 | Vexation: Hand Crafted Hell | 235048 | [235048-vexation-hand-crafted-hell.json](./235048-vexation-hand-crafted-hell.json) |
+| Vexbound | 420783 | [420783-vexbound.json](./420783-vexbound.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
