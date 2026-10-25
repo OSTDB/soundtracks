@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Scanner | 352836 | [352836-wave-scanner.json](./352836-wave-scanner.json) |
 | Wave Shark | 142397 | [142397-wave-shark.json](./142397-wave-shark.json) |
 | Wave to the People | 134943 | [134943-wave-to-the-people.json](./134943-wave-to-the-people.json) |
+| Wave Trip | 22174 | [22174-wave-trip.json](./22174-wave-trip.json) |
 | Wave Wave | 62018 | [62018-wave-wave.json](./62018-wave-wave.json) |
 | Wave Weaver | 289899 | [289899-wave-weaver.json](./289899-wave-weaver.json) |
 | Wave_Machine | 186055 | [186055-wave-machine.json](./186055-wave-machine.json) |
@@ -3249,7 +3250,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4084,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wide Island | 179463 | [179463-wide-island.json](./179463-wide-island.json) |
 | Wide Ocean Big Jacket | 127591 | [127591-wide-ocean-big-jacket.json](./127591-wide-ocean-big-jacket.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
+| Wide Sky | 22176 | [22176-wide-sky.json](./22176-wide-sky.json) |
 | Widelands | 47043 | [47043-widelands.json](./47043-widelands.json) |
 | Widen | 305965 | [305965-widen.json](./305965-widen.json) |
 | Widget | 95355 | [95355-widget.json](./95355-widget.json) |
