@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card of Darkness | 122759 | [122759-card-of-darkness.json](./122759-card-of-darkness.json) |
 | Card of Spirits | 32439 | [32439-card-of-spirits.json](./32439-card-of-spirits.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
+| Card Party Showdown | 405903 | [405903-card-party-showdown.json](./405903-card-party-showdown.json) |
 | Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
 | Card Quest | 301976 | [301976-card-quest.json](./301976-card-quest.json) |
 | Card Quest | 32328 | [32328-card-quest.json](./32328-card-quest.json) |
@@ -5103,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheap Game | 157516 | [157516-cheap-game.json](./157516-cheap-game.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Cheap Golf | 28948 | [28948-cheap-golf.json](./28948-cheap-golf.json) |
+| Cheap Screamer | 405887 | [405887-cheap-screamer.json](./405887-cheap-screamer.json) |
 | Cheap Tattoo | 414764 | [414764-cheap-tattoo.json](./414764-cheap-tattoo.json) |
 | Cheaphaven | 203247 | [203247-cheaphaven.json](./203247-cheaphaven.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
@@ -6376,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper: Lethal darkness - Deluxe Edition | 52740 | [52740-chopper-lethal-darkness-deluxe-edition.json](./52740-chopper-lethal-darkness-deluxe-edition.json) |
 | Choppertchi | 230117 | [230117-choppertchi.json](./230117-choppertchi.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
+| Choppin' Wood | 405712 | [405712-choppin-wood.json](./405712-choppin-wood.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
 | Choppy Waters | 350765 | [350765-choppy-waters.json](./350765-choppy-waters.json) |
@@ -8616,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Dwellers | 350598 | [350598-cloud-dwellers.json](./350598-cloud-dwellers.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
 | Cloud Gardens | 136407 | [136407-cloud-gardens.json](./136407-cloud-gardens.json) |
+| Cloud Golf | 405902 | [405902-cloud-golf.json](./405902-cloud-golf.json) |
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
 | Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
@@ -9917,6 +9921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game: Expansion Pack No. 2 | 161255 | [161255-coloring-game-expansion-pack-no-2.json](./161255-coloring-game-expansion-pack-no-2.json) |
 | Coloring Game: Expansion Pack No. 3 | 161256 | [161256-coloring-game-expansion-pack-no-3.json](./161256-coloring-game-expansion-pack-no-3.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
+| Coloring Game: Girls 3 | 405891 | [405891-coloring-game-girls-3.json](./405891-coloring-game-girls-3.json) |
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
 | Coloring Game: Little City - No.1 | 255590 | [255590-coloring-game-little-city-no-1.json](./255590-coloring-game-little-city-no-1.json) |
 | Coloring Game: Little City - No.2 | 255592 | [255592-coloring-game-little-city-no-2.json](./255592-coloring-game-little-city-no-2.json) |
@@ -12344,6 +12349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoDrive:Infinity | 147932 | [147932-cosmodrive-infinity.json](./147932-cosmodrive-infinity.json) |
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmogelica | 265674 | [265674-cosmogelica.json](./265674-cosmogelica.json) |
+| CosmoKick.io | 405868 | [405868-cosmokick-io.json](./405868-cosmokick-io.json) |
 | Cosmolace | 339969 | [339969-cosmolace.json](./339969-cosmolace.json) |
 | CosmoLands \| Space-Adventure | 33482 | [33482-cosmolands-space-adventure.json](./33482-cosmolands-space-adventure.json) |
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
@@ -13909,6 +13915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Races | 44192 | [44192-creepy-races.json](./44192-creepy-races.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
 | Creepy Redneck Dinosaur Mansion 3 | 333174 | [333174-creepy-redneck-dinosaur-mansion-3.json](./333174-creepy-redneck-dinosaur-mansion-3.json) |
+| Creepy Shift: Deer Farm | 405778 | [405778-creepy-shift-deer-farm.json](./405778-creepy-shift-deer-farm.json) |
 | Creepy Shift: House For Sale | 334639 | [334639-creepy-shift-house-for-sale.json](./334639-creepy-shift-house-for-sale.json) |
 | Creepy Shift: Roadside Diner | 319869 | [319869-creepy-shift-roadside-diner.json](./319869-creepy-shift-roadside-diner.json) |
 | Creepy Slots | 395241 | [395241-creepy-slots.json](./395241-creepy-slots.json) |
