@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyfish Egg | 348740 | [348740-jellyfish-egg.json](./348740-jellyfish-egg.json) |
 | JellyFish Girls | 368764 | [368764-jellyfish-girls.json](./368764-jellyfish-girls.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
+| Jellyfish Sting | 405161 | [405161-jellyfish-sting.json](./405161-jellyfish-sting.json) |
 | Jellyfish the Ghost | 108387 | [108387-jellyfish-the-ghost.json](./108387-jellyfish-the-ghost.json) |
 | Jellyfish: The Healing Friend | 171854 | [171854-jellyfish-the-healing-friend.json](./171854-jellyfish-the-healing-friend.json) |
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
