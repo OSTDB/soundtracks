@@ -3553,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Tales: The Dog's Heart - Collector's Edition | 22135 | [22135-fierce-tales-the-dogs-heart-collectors-edition.json](./22135-fierce-tales-the-dogs-heart-collectors-edition.json) |
 | Fierce Tide | 188405 | [188405-fierce-tide.json](./188405-fierce-tide.json) |
 | FierceWind Decay | 132530 | [132530-fiercewind-decay.json](./132530-fiercewind-decay.json) |
+| Fiermuraille | 402112 | [402112-fiermuraille.json](./402112-fiermuraille.json) |
 | Fiery Arrow | 257876 | [257876-fiery-arrow.json](./257876-fiery-arrow.json) |
 | Fiery Melody | 180094 | [180094-fiery-melody.json](./180094-fiery-melody.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
@@ -4999,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
 | Fireboy & Watergirl 3: The Ice Temple | 122938 | [122938-fireboy-and-watergirl-3-the-ice-temple.json](./122938-fireboy-and-watergirl-3-the-ice-temple.json) |
 | Fireboy & Watergirl 4: The Crystal Temple | 122936 | [122936-fireboy-and-watergirl-4-the-crystal-temple.json](./122936-fireboy-and-watergirl-4-the-crystal-temple.json) |
+| Fireboy & Watergirl and Friends | 402120 | [402120-fireboy-and-watergirl-and-friends.json](./402120-fireboy-and-watergirl-and-friends.json) |
 | Fireboy & Watergirl in the Forest Temple | 122941 | [122941-fireboy-and-watergirl-in-the-forest-temple.json](./122941-fireboy-and-watergirl-in-the-forest-temple.json) |
 | Fireboy & Watergirl: Elements | 113679 | [113679-fireboy-and-watergirl-elements.json](./113679-fireboy-and-watergirl-elements.json) |
 | Fireboy & Watergirl: Fairy Tales | 195980 | [195980-fireboy-and-watergirl-fairy-tales.json](./195980-fireboy-and-watergirl-fairy-tales.json) |
@@ -5035,6 +5037,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighting Simulator | 55630 | [55630-firefighting-simulator.json](./55630-firefighting-simulator.json) |
 | Firefighting Simulator: Be a Hero | 422049 | [422049-firefighting-simulator-be-a-hero.json](./422049-firefighting-simulator-be-a-hero.json) |
 | Firefighting Simulator: Ignite | 335254 | [335254-firefighting-simulator-ignite.json](./335254-firefighting-simulator-ignite.json) |
+| Firefighting Simulator: Ignite - Blackout Truck Edition Skins DLC | 402094 | [402094-firefighting-simulator-ignite-blackout-truck-edition-skins-dlc.json](./402094-firefighting-simulator-ignite-blackout-truck-edition-skins-dlc.json) |
+| Firefighting Simulator: Ignite - Kenworth Fire Truck Pack | 402093 | [402093-firefighting-simulator-ignite-kenworth-fire-truck-pack.json](./402093-firefighting-simulator-ignite-kenworth-fire-truck-pack.json) |
+| Firefighting Simulator: Ignite - Parker's Story DLC | 402096 | [402096-firefighting-simulator-ignite-parkers-story-dlc.json](./402096-firefighting-simulator-ignite-parkers-story-dlc.json) |
+| Firefighting Simulator: Ignite - Turnout Gear Pack #1 | 402095 | [402095-firefighting-simulator-ignite-turnout-gear-pack-1.json](./402095-firefighting-simulator-ignite-turnout-gear-pack-1.json) |
 | Firefighting Simulator: The Squad | 228376 | [228376-firefighting-simulator-the-squad.json](./228376-firefighting-simulator-the-squad.json) |
 | Firefleet | 293743 | [293743-firefleet.json](./293743-firefleet.json) |
 | Fireflies | 108671 | [108671-fireflies.json](./108671-fireflies.json) |
