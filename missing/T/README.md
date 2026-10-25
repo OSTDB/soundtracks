@@ -3724,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraFire | 69334 | [69334-terrafire.json](./69334-terrafire.json) |
 | TerraFirmaCraft | 296225 | [296225-terrafirmacraft.json](./296225-terrafirmacraft.json) |
 | TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
+| TerraFirmaGreg | 407783 | [407783-terrafirmagreg.json](./407783-terrafirmagreg.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraform Co: Factory and City | 423270 | [423270-terraform-co-factory-and-city.json](./423270-terraform-co-factory-and-city.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
@@ -5263,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beatles: Rock Band | 2693 | [2693-the-beatles-rock-band.json](./2693-the-beatles-rock-band.json) |
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
+| The Bed Above My Head | 407767 | [407767-the-bed-above-my-head.json](./407767-the-bed-above-my-head.json) |
 | The Bed Was Cold | 179489 | [179489-the-bed-was-cold.json](./179489-the-bed-was-cold.json) |
 | The Bedtime Story | 30640 | [30640-the-bedtime-story.json](./30640-the-bedtime-story.json) |
 | The Bee Game | 49480 | [49480-the-bee-game.json](./49480-the-bee-game.json) |
@@ -11650,6 +11652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15046,6 +15049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Doom: In Name Only | 259749 | [259749-the-ultimate-doom-in-name-only.json](./259749-the-ultimate-doom-in-name-only.json) |
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
+| The Ultimate Gamer Challenge | 407833 | [407833-the-ultimate-gamer-challenge.json](./407833-the-ultimate-gamer-challenge.json) |
 | The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
 | The Ultimate Heist | 76928 | [76928-the-ultimate-heist.json](./76928-the-ultimate-heist.json) |
 | The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G | 82811 | [82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json](./82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json) |
@@ -15356,6 +15360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Betrayal | 259748 | [259748-the-walking-dead-betrayal.json](./259748-the-walking-dead-betrayal.json) |
 | The Walking Dead: Destinies | 262261 | [262261-the-walking-dead-destinies.json](./262261-the-walking-dead-destinies.json) |
 | The Walking Dead: Empires | 277170 | [277170-the-walking-dead-empires.json](./277170-the-walking-dead-empires.json) |
+| The Walking Dead: Game of the Year Edition | 407756 | [407756-the-walking-dead-game-of-the-year-edition.json](./407756-the-walking-dead-game-of-the-year-edition.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Michonne | 11204 | [11204-the-walking-dead-michonne.json](./11204-the-walking-dead-michonne.json) |
@@ -19585,6 +19590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
 | TIS-100 | 22726 | [22726-tis-100.json](./22726-tis-100.json) |
 | TIS-100P | 197651 | [197651-tis-100p.json](./197651-tis-100p.json) |
+| Tisis | 407788 | [407788-tisis.json](./407788-tisis.json) |
 | Tisnart Shapes | 93752 | [93752-tisnart-shapes.json](./93752-tisnart-shapes.json) |
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
@@ -23056,6 +23062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Robbers | 59643 | [59643-train-robbers.json](./59643-train-robbers.json) |
 | Train Runner VR | 75632 | [75632-train-runner-vr.json](./75632-train-runner-vr.json) |
 | Train Rush | 220049 | [220049-train-rush.json](./220049-train-rush.json) |
+| Train Set Code | 407755 | [407755-train-set-code.json](./407755-train-set-code.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
 | Train Sim World 2 | 136868 | [136868-train-sim-world-2.json](./136868-train-sim-world-2.json) |
 | Train Sim World 2: Arosalinie: Chur - Arosa Route Add-On | 156500 | [156500-train-sim-world-2-arosalinie-chur-arosa-route-add-on.json](./156500-train-sim-world-2-arosalinie-chur-arosa-route-add-on.json) |
@@ -26362,6 +26369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TsucnenT's Treasures | 369225 | [369225-tsucnents-treasures.json](./369225-tsucnents-treasures.json) |
 | TsucnenT's Treasures II | 369226 | [369226-tsucnents-treasures-ii.json](./369226-tsucnents-treasures-ii.json) |
 | Tsugi no Giseisha wo Oshirase Shimasu: Kimi to Ko no Hateru Kotonai Kurayami wo | 340532 | [340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json](./340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json) |
+| Tsugihagi Puzzles | 407829 | [407829-tsugihagi-puzzles.json](./407829-tsugihagi-puzzles.json) |
 | Tsugunohi | 139179 | [139179-tsugunohi.json](./139179-tsugunohi.json) |
 | Tsugunohi: A Voice from Yesteryear | 270873 | [270873-tsugunohi-a-voice-from-yesteryear.json](./270873-tsugunohi-a-voice-from-yesteryear.json) |
 | Tsugunohi: Pocky Dog’s Adventure | 338604 | [338604-tsugunohi-pocky-dog-s-adventure.json](./338604-tsugunohi-pocky-dog-s-adventure.json) |
