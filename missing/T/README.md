@@ -7333,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Emptiness: Deluxe Edition | 35624 | [35624-the-emptiness-deluxe-edition.json](./35624-the-emptiness-deluxe-edition.json) |
 | The Empty Desk | 333612 | [333612-the-empty-desk.json](./333612-the-empty-desk.json) |
 | The Empty Eyes | 385967 | [385967-the-empty-eyes.json](./385967-the-empty-eyes.json) |
+| The Empty Halls | 386809 | [386809-the-empty-halls.json](./386809-the-empty-halls.json) |
 | The Empty House: A Dementia Interactive Experience | 342014 | [342014-the-empty-house-a-dementia-interactive-experience.json](./342014-the-empty-house-a-dementia-interactive-experience.json) |
 | The Empty Kingdom | 102033 | [102033-the-empty-kingdom.json](./102033-the-empty-kingdom.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
@@ -12084,6 +12085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Me Reborn | 389208 | [389208-the-other-me-reborn.json](./389208-the-other-me-reborn.json) |
 | The Other Order | 384793 | [384793-the-other-order.json](./384793-the-other-order.json) |
+| The Other Plumber | 386767 | [386767-the-other-plumber.json](./386767-the-other-plumber.json) |
 | The Other Room | 101663 | [101663-the-other-room.json](./101663-the-other-room.json) |
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
 | The Other Side | 215087 | [215087-the-other-side.json](./215087-the-other-side.json) |
@@ -12992,6 +12994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rising of the Follower | 181700 | [181700-the-rising-of-the-follower.json](./181700-the-rising-of-the-follower.json) |
 | The Rising of the Rose Ocelot | 82000 | [82000-the-rising-of-the-rose-ocelot.json](./82000-the-rising-of-the-rose-ocelot.json) |
 | The Rite of Ammon | 177306 | [177306-the-rite-of-ammon.json](./177306-the-rite-of-ammon.json) |
+| The Rite of Lilium | 386786 | [386786-the-rite-of-lilium.json](./386786-the-rite-of-lilium.json) |
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
 | The Ritual | 133852 | [133852-the-ritual.json](./133852-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
