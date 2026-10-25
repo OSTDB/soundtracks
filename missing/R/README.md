@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radium | 35607 | [35607-radium.json](./35607-radium.json) |
 | Radium | 405335 | [405335-radium.json](./405335-radium.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
+| RadiusBlood Crypta | 421429 | [421429-radiusblood-crypta.json](./421429-radiusblood-crypta.json) |
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
 | Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
+| Rail Island | 421432 | [421432-rail-island.json](./421432-rail-island.json) |
 | Rail Maze | 19512 | [19512-rail-maze.json](./19512-rail-maze.json) |
 | Rail Maze : Train puzzle | 88743 | [88743-rail-maze-train-puzzle.json](./88743-rail-maze-train-puzzle.json) |
 | Rail Maze 2 : Train Puzzler | 87301 | [87301-rail-maze-2-train-puzzler.json](./87301-rail-maze-2-train-puzzler.json) |
@@ -7743,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 2 | 141575 | [141575-rocket-league-season-2.json](./141575-rocket-league-season-2.json) |
 | Rocket League: Season 21 | 381986 | [381986-rocket-league-season-21.json](./381986-rocket-league-season-21.json) |
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
+| Rocket League: Season 24 | 421450 | [421450-rocket-league-season-24.json](./421450-rocket-league-season-24.json) |
 | Rocket League: Season 3 | 159225 | [159225-rocket-league-season-3.json](./159225-rocket-league-season-3.json) |
 | Rocket League: Season 5 | 198278 | [198278-rocket-league-season-5.json](./198278-rocket-league-season-5.json) |
 | Rocket League: Season 6 | 198279 | [198279-rocket-league-season-6.json](./198279-rocket-league-season-6.json) |
@@ -8866,6 +8869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Renegade | 139449 | [139449-rooftop-renegade.json](./139449-rooftop-renegade.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
+| Rooftops Jam | 421431 | [421431-rooftops-jam.json](./421431-rooftops-jam.json) |
 | Roogoo | 5128 | [5128-roogoo.json](./5128-roogoo.json) |
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
