@@ -5601,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Camping! | 286223 | [286223-gone-camping.json](./286223-gone-camping.json) |
 | Gone Digging | 388416 | [388416-gone-digging.json](./388416-gone-digging.json) |
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
+| Gone Feral | 405127 | [405127-gone-feral.json](./405127-gone-feral.json) |
 | Gone Fireflies | 82355 | [82355-gone-fireflies.json](./82355-gone-fireflies.json) |
 | Gone Fishin' with Archimedes | 230731 | [230731-gone-fishin-with-archimedes.json](./230731-gone-fishin-with-archimedes.json) |
 | Gone Fishing | 348447 | [348447-gone-fishing.json](./348447-gone-fishing.json) |
