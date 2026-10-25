@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uninvited: MacVenture Series | 35912 | [35912-uninvited-macventure-series.json](./35912-uninvited-macventure-series.json) |
 | Union | 151048 | [151048-union.json](./151048-union.json) |
 | Union | 226751 | [226751-union.json](./226751-union.json) |
+| Union Max | 403351 | [403351-union-max.json](./403351-union-max.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
 | Union of Koi Musubi | 53879 | [53879-union-of-koi-musubi.json](./53879-union-of-koi-musubi.json) |
 | Union of Rivals | 414845 | [414845-union-of-rivals.json](./414845-union-of-rivals.json) |
