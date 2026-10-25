@@ -4651,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Fantasy Robots | 110079 | [110079-defense-of-the-fantasy-robots.json](./110079-defense-of-the-fantasy-robots.json) |
 | Defense of the Middle Kingdom | 85568 | [85568-defense-of-the-middle-kingdom.json](./85568-defense-of-the-middle-kingdom.json) |
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
+| Defense Task Force | 83619 | [83619-defense-task-force.json](./83619-defense-task-force.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
 | Defense Warfare | 76387 | [76387-defense-warfare.json](./76387-defense-warfare.json) |
@@ -7271,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digdigdig | 338861 | [338861-digdigdig.json](./338861-digdigdig.json) |
 | DigDigDrill | 314442 | [314442-digdigdrill.json](./314442-digdigdrill.json) |
 | Digerati Best Sellers | 147885 | [147885-digerati-best-sellers.json](./147885-digerati-best-sellers.json) |
+| Digerati Couch Co-Op Bundle Vol.1 | 83745 | [83745-digerati-couch-co-op-bundle-vol-1.json](./83745-digerati-couch-co-op-bundle-vol-1.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
 | Digerati Pixel Art Bundle Part 1 | 90663 | [90663-digerati-pixel-art-bundle-part-1.json](./90663-digerati-pixel-art-bundle-part-1.json) |
 | Digerati Presents: If You Don't Have Xbox Game Pass Bundle | 200513 | [200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json](./200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json) |
@@ -7415,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
 | Digital Diamond Baseball V8 | 117166 | [117166-digital-diamond-baseball-v8.json](./117166-digital-diamond-baseball-v8.json) |
+| Digital Domain's Monkey King | 83721 | [83721-digital-domains-monkey-king.json](./83721-digital-domains-monkey-king.json) |
 | Digital Dreams | 308068 | [308068-digital-dreams.json](./308068-digital-dreams.json) |
 | Digital Dreamware | 38823 | [38823-digital-dreamware.json](./38823-digital-dreamware.json) |
 | Digital Dungeon | 101352 | [101352-digital-dungeon.json](./101352-digital-dungeon.json) |
