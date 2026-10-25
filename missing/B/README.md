@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9443,6 +9444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloompunk | 249355 | [249355-bloompunk.json](./249355-bloompunk.json) |
 | Blooms | 202241 | [202241-blooms.json](./202241-blooms.json) |
 | Blooms of April | 372280 | [372280-blooms-of-april.json](./372280-blooms-of-april.json) |
+| Bloomsome | 390996 | [390996-bloomsome.json](./390996-bloomsome.json) |
 | BloomTale | 316943 | [316943-bloomtale.json](./316943-bloomtale.json) |
 | Bloomwalker | 362042 | [362042-bloomwalker.json](./362042-bloomwalker.json) |
 | Bloomyth | 254921 | [254921-bloomyth.json](./254921-bloomyth.json) |
@@ -14016,7 +14018,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build A Friend | 304855 | [304855-build-a-friend.json](./304855-build-a-friend.json) |
 | Build a Game Universe | 34814 | [34814-build-a-game-universe.json](./34814-build-a-game-universe.json) |
 | Build A Queen | 389047 | [389047-build-a-queen.json](./389047-build-a-queen.json) |
+| Build A Queen: Pirate DLC | 390913 | [390913-build-a-queen-pirate-dlc.json](./390913-build-a-queen-pirate-dlc.json) |
 | Build A Queen: Pirate Edition | 399812 | [399812-build-a-queen-pirate-edition.json](./399812-build-a-queen-pirate-edition.json) |
+| Build A Queen: Prince DLC | 390914 | [390914-build-a-queen-prince-dlc.json](./390914-build-a-queen-prince-dlc.json) |
 | Build A Train | 96315 | [96315-build-a-train.json](./96315-build-a-train.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
