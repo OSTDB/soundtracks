@@ -5172,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Birds | 320872 | [320872-isle-of-birds.json](./320872-isle-of-birds.json) |
 | Isle of Dinosaurs 2D | 126979 | [126979-isle-of-dinosaurs-2d.json](./126979-isle-of-dinosaurs-2d.json) |
 | Isle of Finbari | 391699 | [391699-isle-of-finbari.json](./391699-isle-of-finbari.json) |
+| Isle of Flesh | 415773 | [415773-isle-of-flesh.json](./415773-isle-of-flesh.json) |
 | Isle of Food | 387149 | [387149-isle-of-food.json](./387149-isle-of-food.json) |
 | Isle of Genesis: Avalon | 175707 | [175707-isle-of-genesis-avalon.json](./175707-isle-of-genesis-avalon.json) |
 | Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
