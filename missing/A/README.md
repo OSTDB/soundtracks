@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House for Alesa Remake | 398636 | [398636-a-house-for-alesa-remake.json](./398636-a-house-for-alesa-remake.json) |
 | A House in California | 60457 | [60457-a-house-in-california.json](./60457-a-house-in-california.json) |
 | A House Inside Me | 397286 | [397286-a-house-inside-me.json](./397286-a-house-inside-me.json) |
+| A House Made of Sweets | 387931 | [387931-a-house-made-of-sweets.json](./387931-a-house-made-of-sweets.json) |
 | A House of Endless Windows | 345040 | [345040-a-house-of-endless-windows.json](./345040-a-house-of-endless-windows.json) |
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
@@ -6036,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
 | All the King's Men | 163856 | [163856-all-the-kings-men.json](./163856-all-the-kings-men.json) |
 | All the Mario | 358320 | [358320-all-the-mario.json](./358320-all-the-mario.json) |
+| All the Mods 10 | 388536 | [388536-all-the-mods-10.json](./388536-all-the-mods-10.json) |
 | All the Mods 10: To the Sky | 366322 | [366322-all-the-mods-10-to-the-sky.json](./366322-all-the-mods-10-to-the-sky.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
@@ -8209,6 +8211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Gem Puzzle | 297653 | [297653-animal-gem-puzzle.json](./297653-animal-gem-puzzle.json) |
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
 | Animal Genius | 69192 | [69192-animal-genius.json](./69192-animal-genius.json) |
+| Animal Girls Dating Agency | 388534 | [388534-animal-girls-dating-agency.json](./388534-animal-girls-dating-agency.json) |
 | Animal God | 359543 | [359543-animal-god.json](./359543-animal-god.json) |
 | Animal Gods | 13191 | [13191-animal-gods.json](./13191-animal-gods.json) |
 | Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
@@ -11527,6 +11530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armikrog | 11093 | [11093-armikrog.json](./11093-armikrog.json) |
 | Armikrog: Deluxe Edition | 51711 | [51711-armikrog-deluxe-edition.json](./51711-armikrog-deluxe-edition.json) |
 | Armis | 186039 | [186039-armis.json](./186039-armis.json) |
+| Armita's Search | 388506 | [388506-armitas-search.json](./388506-armitas-search.json) |
 | Armless Samurai | 296454 | [296454-armless-samurai.json](./296454-armless-samurai.json) |
 | Armobiles | 122976 | [122976-armobiles.json](./122976-armobiles.json) |
 | Armor Alley | 73483 | [73483-armor-alley.json](./73483-armor-alley.json) |
@@ -14882,6 +14886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awkward Date Hero | 109621 | [109621-awkward-date-hero.json](./109621-awkward-date-hero.json) |
 | Awkward Dimensions | 22380 | [22380-awkward-dimensions.json](./22380-awkward-dimensions.json) |
 | Awkward Dimensions Redux | 22381 | [22381-awkward-dimensions-redux.json](./22381-awkward-dimensions-redux.json) |
+| Awkward Family Dinners With Furry Critters | 388529 | [388529-awkward-family-dinners-with-furry-critters.json](./388529-awkward-family-dinners-with-furry-critters.json) |
 | Awkward Girls | 149421 | [149421-awkward-girls.json](./149421-awkward-girls.json) |
 | Awkward Goalie | 246962 | [246962-awkward-goalie.json](./246962-awkward-goalie.json) |
 | Awoken Madness | 271201 | [271201-awoken-madness.json](./271201-awoken-madness.json) |
@@ -15140,6 +15145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumanga: The Fighting T-Style | 222493 | [222493-azumanga-the-fighting-t-style.json](./222493-azumanga-the-fighting-t-style.json) |
 | Azumi | 90930 | [90930-azumi.json](./90930-azumi.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
+| Azur | 387953 | [387953-azur.json](./387953-azur.json) |
 | Azur & Asmar | 131863 | [131863-azur-and-asmar.json](./131863-azur-and-asmar.json) |
 | Azur Lane | 70708 | [70708-azur-lane.json](./70708-azur-lane.json) |
 | Azur Lane: Complete Deluxe Edition | 238327 | [238327-azur-lane-complete-deluxe-edition.json](./238327-azur-lane-complete-deluxe-edition.json) |
