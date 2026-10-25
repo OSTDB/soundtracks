@@ -2881,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebut! | 389003 | [389003-rebut.json](./389003-rebut.json) |
 | Rec | 322669 | [322669-rec.json](./322669-rec.json) |
 | Rec Center Tycoon | 28694 | [28694-rec-center-tycoon.json](./28694-rec-center-tycoon.json) |
+| Rec in Peace | 390458 | [390458-rec-in-peace.json](./390458-rec-in-peace.json) |
 | Rec Room | 32617 | [32617-rec-room.json](./32617-rec-room.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
@@ -6856,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Raid II | 40573 | [40573-river-raid-ii.json](./40573-river-raid-ii.json) |
 | River Relaxation VR | 110701 | [110701-river-relaxation-vr.json](./110701-river-relaxation-vr.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
+| River Run | 390704 | [390704-river-run.json](./390704-river-run.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
 | River Rush | 199488 | [199488-river-rush.json](./199488-river-rush.json) |
 | River Simulator 2012: Inland Waterway Transport | 89510 | [89510-river-simulator-2012-inland-waterway-transport.json](./89510-river-simulator-2012-inland-waterway-transport.json) |
