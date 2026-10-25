@@ -11308,6 +11308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
+| Praxion-7 | 416332 | [416332-praxion-7.json](./416332-praxion-7.json) |
 | Pray & Slay | 423884 | [423884-pray-and-slay.json](./423884-pray-and-slay.json) |
 | Pray and Spray | 160120 | [160120-pray-and-spray.json](./160120-pray-and-spray.json) |
 | Pray for Death | 47104 | [47104-pray-for-death.json](./47104-pray-for-death.json) |
@@ -15309,6 +15310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: Premium Puzzles Bundle | 353887 | [353887-puzzling-places-premium-puzzles-bundle.json](./353887-puzzling-places-premium-puzzles-bundle.json) |
 | Puzzling Places: Return to Greece | 363676 | [363676-puzzling-places-return-to-greece.json](./363676-puzzling-places-return-to-greece.json) |
 | Puzzling Places: Summer Dive | 353475 | [353475-puzzling-places-summer-dive.json](./353475-puzzling-places-summer-dive.json) |
+| Puzzling Places: The King's Port | 416344 | [416344-puzzling-places-the-kings-port.json](./416344-puzzling-places-the-kings-port.json) |
 | Puzzling Places: The Wave | 353466 | [353466-puzzling-places-the-wave.json](./353466-puzzling-places-the-wave.json) |
 | Puzzling Places: Undead Afterparty | 379660 | [379660-puzzling-places-undead-afterparty.json](./379660-puzzling-places-undead-afterparty.json) |
 | Puzzling Places: Variety Pack - Volume 2 | 353446 | [353446-puzzling-places-variety-pack-volume-2.json](./353446-puzzling-places-variety-pack-volume-2.json) |
