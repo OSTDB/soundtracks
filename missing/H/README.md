@@ -5821,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Wonderland | 98324 | [98324-hidden-object-wonderland.json](./98324-hidden-object-wonderland.json) |
 | Hidden Object: Zodiac | 98547 | [98547-hidden-object-zodiac.json](./98547-hidden-object-zodiac.json) |
 | Hidden Objects | 320319 | [320319-hidden-objects.json](./320319-hidden-objects.json) |
+| Hidden Objects - Country Style | 89164 | [89164-hidden-objects-country-style.json](./89164-hidden-objects-country-style.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
 | Hidden Objects Ancient Greece | 88847 | [88847-hidden-objects-ancient-greece.json](./88847-hidden-objects-ancient-greece.json) |
