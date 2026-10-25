@@ -1366,6 +1366,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Harvest: Survival Farming Simulator | 308484 | [308484-zombie-harvest-survival-farming-simulator.json](./308484-zombie-harvest-survival-farming-simulator.json) |
 | Zombie Hazard | 166776 | [166776-zombie-hazard.json](./166776-zombie-hazard.json) |
 | Zombie Head | 104836 | [104836-zombie-head.json](./104836-zombie-head.json) |
+| Zombie Hearts: Turn the Undead into Anime Boys | 399651 | [399651-zombie-hearts-turn-the-undead-into-anime-boys.json](./399651-zombie-hearts-turn-the-undead-into-anime-boys.json) |
+| Zombie Hearts: Turn the Undead into Anime Girls | 399650 | [399650-zombie-hearts-turn-the-undead-into-anime-girls.json](./399650-zombie-hearts-turn-the-undead-into-anime-girls.json) |
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
 | Zombie High Dive | 344004 | [344004-zombie-high-dive.json](./344004-zombie-high-dive.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
