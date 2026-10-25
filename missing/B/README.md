@@ -776,7 +776,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1501,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
 | BAM | 271386 | [271386-bam.json](./271386-bam.json) |
 | Bam 'N Jam | 61547 | [61547-bam-n-jam.json](./61547-bam-n-jam.json) |
+| Bam Ball | 415010 | [415010-bam-ball.json](./415010-bam-ball.json) |
 | Bam Bam Boom | 350057 | [350057-bam-bam-boom.json](./350057-bam-bam-boom.json) |
 | Bam Boom Blade | 289344 | [289344-bam-boom-blade.json](./289344-bam-boom-blade.json) |
 | Bam Boost | 256904 | [256904-bam-boost.json](./256904-bam-boost.json) |
@@ -3993,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beachside Bites: Sip & Munch | 257784 | [257784-beachside-bites-sip-and-munch.json](./257784-beachside-bites-sip-and-munch.json) |
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
 | Beachside Bloodbath | 337127 | [337127-beachside-bloodbath.json](./337127-beachside-bloodbath.json) |
+| Beachside Cafe Simulator | 414973 | [414973-beachside-cafe-simulator.json](./414973-beachside-cafe-simulator.json) |
 | Beacon | 165516 | [165516-beacon.json](./165516-beacon.json) |
 | Beacon | 18200 | [18200-beacon.json](./18200-beacon.json) |
 | Beacon | 242575 | [242575-beacon.json](./242575-beacon.json) |
@@ -12482,6 +12483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Defense 2 | 77368 | [77368-breakout-defense-2.json](./77368-breakout-defense-2.json) |
 | Breakout Epilepsia | 343286 | [343286-breakout-epilepsia.json](./343286-breakout-epilepsia.json) |
 | Breakout Force | 236390 | [236390-breakout-force.json](./236390-breakout-force.json) |
+| Breakout Garage | 415047 | [415047-breakout-garage.json](./415047-breakout-garage.json) |
 | Breakout Hero | 181259 | [181259-breakout-hero.json](./181259-breakout-hero.json) |
 | Breakout in Space | 70977 | [70977-breakout-in-space.json](./70977-breakout-in-space.json) |
 | Breakout Invaders | 35341 | [35341-breakout-invaders.json](./35341-breakout-invaders.json) |
@@ -14308,6 +14310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker | 170332 | [170332-bunker.json](./170332-bunker.json) |
 | Bunker | 22780 | [22780-bunker.json](./22780-bunker.json) |
 | Bunker | 380042 | [380042-bunker.json](./380042-bunker.json) |
+| Bunker 1945: Capture the Gray Wolf | 415073 | [415073-bunker-1945-capture-the-gray-wolf.json](./415073-bunker-1945-capture-the-gray-wolf.json) |
 | Bunker 22 | 203892 | [203892-bunker-22.json](./203892-bunker-22.json) |
 | Bunker 2322 | 196263 | [196263-bunker-2322.json](./196263-bunker-2322.json) |
 | Bunker 58 | 29638 | [29638-bunker-58.json](./29638-bunker-58.json) |
@@ -15039,6 +15042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: Quiz World | 7284 | [7284-buzz-quiz-world.json](./7284-buzz-quiz-world.json) |
 | Buzz!: The Pop Quiz | 21360 | [21360-buzz-the-pop-quiz.json](./21360-buzz-the-pop-quiz.json) |
 | Buzzed! Trivia | 133700 | [133700-buzzed-trivia.json](./133700-buzzed-trivia.json) |
+| Buzzin | 415054 | [415054-buzzin.json](./415054-buzzin.json) |
 | Buzzing Cars | 221925 | [221925-buzzing-cars.json](./221925-buzzing-cars.json) |
 | Buzzle | 148866 | [148866-buzzle.json](./148866-buzzle.json) |
 | Buzzopolis: Hive Incremental | 373814 | [373814-buzzopolis-hive-incremental.json](./373814-buzzopolis-hive-incremental.json) |
