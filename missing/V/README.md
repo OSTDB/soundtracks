@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vice Extended | 414843 | [414843-vice-extended.json](./414843-vice-extended.json) |
 | Vice Grill: Synthwave Survival | 297885 | [297885-vice-grill-synthwave-survival.json](./297885-vice-grill-synthwave-survival.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
+| Vice Vision Runner | 414262 | [414262-vice-vision-runner.json](./414262-vice-vision-runner.json) |
 | Vice: Magic City Mayhem | 331378 | [331378-vice-magic-city-mayhem.json](./331378-vice-magic-city-mayhem.json) |
 | Vice: Project Doom | 48262 | [48262-vice-project-doom.json](./48262-vice-project-doom.json) |
 | Vicera | 321521 | [321521-vicera.json](./321521-vicera.json) |
