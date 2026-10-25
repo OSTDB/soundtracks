@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinshin | 208100 | [208100-jinshin.json](./208100-jinshin.json) |
 | Jinx | 22223 | [22223-jinx.json](./22223-jinx.json) |
 | Jinx | 369191 | [369191-jinx.json](./369191-jinx.json) |
+| Jinx 2 1/2: Portal Peril | 395943 | [395943-jinx-2-1-2-portal-peril.json](./395943-jinx-2-1-2-portal-peril.json) |
 | Jinx 3: Escape From Area Fitty-Two | 383493 | [383493-jinx-3-escape-from-area-fitty-two.json](./383493-jinx-3-escape-from-area-fitty-two.json) |
 | Jinx: A Dark and Stormy Night | 186143 | [186143-jinx-a-dark-and-stormy-night.json](./186143-jinx-a-dark-and-stormy-night.json) |
 | Jinxed | 117454 | [117454-jinxed.json](./117454-jinxed.json) |
