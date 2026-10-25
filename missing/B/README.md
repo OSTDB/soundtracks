@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5386,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BER Bausimulator | 137651 | [137651-ber-bausimulator.json](./137651-ber-bausimulator.json) |
 | Beraboh Man | 40264 | [40264-beraboh-man.json](./40264-beraboh-man.json) |
 | Beraltors | 117078 | [117078-beraltors.json](./117078-beraltors.json) |
+| Berdly.com | 389752 | [389752-berdly-com.json](./389752-berdly-com.json) |
 | Bereaved: Soldiers of Fate | 332850 | [332850-bereaved-soldiers-of-fate.json](./332850-bereaved-soldiers-of-fate.json) |
 | Berenice: Videogame | 344346 | [344346-berenice-videogame.json](./344346-berenice-videogame.json) |
 | Berenstain Bears | 40634 | [40634-berenstain-bears.json](./40634-berenstain-bears.json) |
@@ -6549,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary | 172678 | [172678-binary.json](./172678-binary.json) |
 | Binary | 208640 | [208640-binary.json](./208640-binary.json) |
 | Binary Battle | 360134 | [360134-binary-battle.json](./360134-binary-battle.json) |
+| Binary Battle | 389389 | [389389-binary-battle.json](./389389-binary-battle.json) |
 | Binary Blitz | 62062 | [62062-binary-blitz.json](./62062-binary-blitz.json) |
 | Binary Blocks | 182894 | [182894-binary-blocks.json](./182894-binary-blocks.json) |
 | Binary Boy | 125407 | [125407-binary-boy.json](./125407-binary-boy.json) |
@@ -11689,6 +11692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
 | Box Office Game | 319225 | [319225-box-office-game.json](./319225-box-office-game.json) |
 | Box Office Mayhem: Theatre Tycoon | 399184 | [399184-box-office-mayhem-theatre-tycoon.json](./399184-box-office-mayhem-theatre-tycoon.json) |
+| Box or Void | 389388 | [389388-box-or-void.json](./389388-box-or-void.json) |
 | Box Out! | 35622 | [35622-box-out.json](./35622-box-out.json) |
 | Box Party | 214131 | [214131-box-party.json](./214131-box-party.json) |
 | Box Puzzle | 246316 | [246316-box-puzzle.json](./246316-box-puzzle.json) |
@@ -12760,6 +12764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick Buster | 421387 | [421387-brick-buster.json](./421387-brick-buster.json) |
 | Brick Buster Blast | 297371 | [297371-brick-buster-blast.json](./297371-brick-buster-blast.json) |
+| Brick by Brick | 389392 | [389392-brick-by-brick.json](./389392-brick-by-brick.json) |
 | Brick by Brick | 418290 | [418290-brick-by-brick.json](./418290-brick-by-brick.json) |
 | Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
 | Brick City Solitaire | 95674 | [95674-brick-city-solitaire.json](./95674-brick-city-solitaire.json) |
