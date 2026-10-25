@@ -4731,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kriss Kross by Powgi | 91256 | [91256-kriss-kross-by-powgi.json](./91256-kriss-kross-by-powgi.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kristal Mağara | 235269 | [235269-kristal-magara.json](./235269-kristal-magara.json) |
+| Kristi Sky Islands | 423299 | [423299-kristi-sky-islands.json](./423299-kristi-sky-islands.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
 | Kritzel Krieg | 414873 | [414873-kritzel-krieg.json](./414873-kritzel-krieg.json) |
