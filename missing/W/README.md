@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water: Transformer | 303048 | [303048-water-transformer.json](./303048-water-transformer.json) |
 | Water's Bounty | 414804 | [414804-waters-bounty.json](./414804-waters-bounty.json) |
 | Water's Fine | 134565 | [134565-waters-fine.json](./134565-waters-fine.json) |
+| Water's Way Down | 390446 | [390446-waters-way-down.json](./390446-waters-way-down.json) |
 | Waterbed | 178668 | [178668-waterbed.json](./178668-waterbed.json) |
 | Watercolor Hell | 201068 | [201068-watercolor-hell.json](./201068-watercolor-hell.json) |
 | Watercolors Sink Beneath the Surface | 404254 | [404254-watercolors-sink-beneath-the-surface.json](./404254-watercolors-sink-beneath-the-surface.json) |
@@ -3398,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Them Demons Cry | 376021 | [376021-when-them-demons-cry.json](./376021-when-them-demons-cry.json) |
 | When There Is No More Snow | 184421 | [184421-when-there-is-no-more-snow.json](./184421-when-there-is-no-more-snow.json) |
 | When Vikings Attack! | 9123 | [9123-when-vikings-attack.json](./9123-when-vikings-attack.json) |
+| When Voices Died | 390465 | [390465-when-voices-died.json](./390465-when-voices-died.json) |
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
 | When We First Met | 153774 | [153774-when-we-first-met.json](./153774-when-we-first-met.json) |
@@ -5423,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
 | Wither | 376822 | [376822-wither.json](./376822-wither.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
+| Withered Haven | 390820 | [390820-withered-haven.json](./390820-withered-haven.json) |
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
 | Witherheart | 396463 | [396463-witherheart.json](./396463-witherheart.json) |
 | Witherholme | 189058 | [189058-witherholme.json](./189058-witherholme.json) |
