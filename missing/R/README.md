@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
 | Reaping Rewards | 41143 | [41143-reaping-rewards.json](./41143-reaping-rewards.json) |
 | Reaplaced | 270545 | [270545-reaplaced.json](./270545-reaplaced.json) |
+| Reappearance of a Stopped Clock | 398184 | [398184-reappearance-of-a-stopped-clock.json](./398184-reappearance-of-a-stopped-clock.json) |
 | Reaprieve | 347907 | [347907-reaprieve.json](./347907-reaprieve.json) |
 | Rear of Business | 151275 | [151275-rear-of-business.json](./151275-rear-of-business.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
@@ -6207,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riley Short: Analog Boy - Episode 1 | 37051 | [37051-riley-short-analog-boy-episode-1.json](./37051-riley-short-analog-boy-episode-1.json) |
 | Riley's Letter Recycle | 311701 | [311701-rileys-letter-recycle.json](./311701-rileys-letter-recycle.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
+| Rim | 398381 | [398381-rim.json](./398381-rim.json) |
 | Rim Rockin' Basketball | 40423 | [40423-rim-rockin-basketball.json](./40423-rim-rockin-basketball.json) |
 | Rim Runners | 64661 | [64661-rim-runners.json](./64661-rim-runners.json) |
 | Rim: Battle Planets | 71747 | [71747-rim-battle-planets.json](./71747-rim-battle-planets.json) |
