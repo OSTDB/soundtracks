@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts Card Game | 87145 | [87145-hearts-card-game.json](./87145-hearts-card-game.json) |
 | Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
 | Hearts Deluxe | 118736 | [118736-hearts-deluxe.json](./118736-hearts-deluxe.json) |
+| Hearts Gone Black | 410042 | [410042-hearts-gone-black.json](./410042-hearts-gone-black.json) |
 | Hearts in Orbit: When Stars Align | 295860 | [295860-hearts-in-orbit-when-stars-align.json](./295860-hearts-in-orbit-when-stars-align.json) |
 | Hearts in Sirence | 298972 | [298972-hearts-in-sirence.json](./298972-hearts-in-sirence.json) |
 | Hearts Like Clockwork | 184331 | [184331-hearts-like-clockwork.json](./184331-hearts-like-clockwork.json) |
@@ -7327,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holoception | 117460 | [117460-holoception.json](./117460-holoception.json) |
 | HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
+| HoloDungeon: Koyori vs HollowLive in Honsha Tower | 410033 | [410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json](./410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json) |
 | Holoemblem: The Search for Seiso | 273550 | [273550-holoemblem-the-search-for-seiso.json](./273550-holoemblem-the-search-for-seiso.json) |
 | HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
