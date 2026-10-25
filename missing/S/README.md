@@ -10454,6 +10454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skygerfall | 316726 | [316726-skygerfall.json](./316726-skygerfall.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
+| Skyhigh Chronos Endless | 408564 | [408564-skyhigh-chronos-endless.json](./408564-skyhigh-chronos-endless.json) |
 | Skyhill | 11562 | [11562-skyhill.json](./11562-skyhill.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
 | Skyhood's Innocent Six | 250256 | [250256-skyhoods-innocent-six.json](./250256-skyhoods-innocent-six.json) |
