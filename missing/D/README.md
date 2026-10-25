@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central Spotlight: Gotye ft. Kimbra - "Somebody That I Used to Know" | 353208 | [353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json](./353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json) |
 | Dance Central Spotlight: Mark Ronson ft. Bruno Mars - "Uptown Funk" | 353210 | [353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json](./353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json) |
 | Dance Central Spotlight: The Pussycat Dolls ft. Busta Rhymes - "Don't Cha" | 353211 | [353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json](./353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json) |
+| Dance Collider | 107360 | [107360-dance-collider.json](./107360-dance-collider.json) |
 | Dance Cube | 277186 | [277186-dance-cube.json](./277186-dance-cube.json) |
 | Dance Dance Revolution | 135549 | [135549-dance-dance-revolution.json](./135549-dance-dance-revolution.json) |
 | Dance Dance Revolution | 140274 | [140274-dance-dance-revolution.json](./140274-dance-dance-revolution.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daredevil: The Man Without Fear | 65943 | [65943-daredevil-the-man-without-fear.json](./65943-daredevil-the-man-without-fear.json) |
 | Daredevil's Descent & Cryogenic Crypt | 271759 | [271759-daredevils-descent-and-cryogenic-crypt.json](./271759-daredevils-descent-and-cryogenic-crypt.json) |
 | Daregon | 57468 | [57468-daregon.json](./57468-daregon.json) |
+| DareSora: Tears for an Unknown Sky | 107430 | [107430-daresora-tears-for-an-unknown-sky.json](./107430-daresora-tears-for-an-unknown-sky.json) |
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
 | Darfur is Dying | 172078 | [172078-darfur-is-dying.json](./172078-darfur-is-dying.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
@@ -1439,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Place 3 | 272028 | [272028-dark-place-3.json](./272028-dark-place-3.json) |
 | Dark Place 4 | 272029 | [272029-dark-place-4.json](./272029-dark-place-4.json) |
 | Dark Place 5 | 272030 | [272030-dark-place-5.json](./272030-dark-place-5.json) |
+| Dark Places | 107473 | [107473-dark-places.json](./107473-dark-places.json) |
 | Dark Planet | 175625 | [175625-dark-planet.json](./175625-dark-planet.json) |
 | Dark Planet: Battle for Natrolis | 23457 | [23457-dark-planet-battle-for-natrolis.json](./23457-dark-planet-battle-for-natrolis.json) |
 | Dark Presence | 67962 | [67962-dark-presence.json](./67962-dark-presence.json) |
@@ -7553,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensions Puzzle | 163547 | [163547-dimensions-puzzle.json](./163547-dimensions-puzzle.json) |
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
+| Dimetrosaur | 107403 | [107403-dimetrosaur.json](./107403-dimetrosaur.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Diminishing Light: Wheeled Carnage | 294029 | [294029-diminishing-light-wheeled-carnage.json](./294029-diminishing-light-wheeled-carnage.json) |
 | Diminutive | 100309 | [100309-diminutive.json](./100309-diminutive.json) |
@@ -15190,6 +15194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
 | Dunk Nation 3x3 | 83323 | [83323-dunk-nation-3x3.json](./83323-dunk-nation-3x3.json) |
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
+| Dunk the Ball | 101567 | [101567-dunk-the-ball.json](./101567-dunk-the-ball.json) |
 | Dunk The Hoops: Bouncy Ball | 266832 | [266832-dunk-the-hoops-bouncy-ball.json](./266832-dunk-the-hoops-bouncy-ball.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Dunk Trickster | 316844 | [316844-dunk-trickster.json](./316844-dunk-trickster.json) |
