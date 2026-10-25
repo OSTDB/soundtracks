@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handle With Care | 133864 | [133864-handle-with-care.json](./133864-handle-with-care.json) |
 | Handle with Care! | 419590 | [419590-handle-with-care.json](./419590-handle-with-care.json) |
 | Handle With Care.. | 330816 | [330816-handle-with-care.json](./330816-handle-with-care.json) |
+| Handlebar | 414270 | [414270-handlebar.json](./414270-handlebar.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
 | Handmancers | 260587 | [260587-handmancers.json](./260587-handmancers.json) |
 | HandPass VR | 30755 | [30755-handpass-vr.json](./30755-handpass-vr.json) |
@@ -8385,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horsle | 314416 | [314416-horsle.json](./314416-horsle.json) |
 | Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
+| Horton Genetics: Breach | 414260 | [414260-horton-genetics-breach.json](./414260-horton-genetics-breach.json) |
 | Horus Idle | 340485 | [340485-horus-idle.json](./340485-horus-idle.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoser | 342601 | [342601-hoser.json](./342601-hoser.json) |
@@ -8766,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Infinity | 351048 | [351048-hotel-infinity.json](./351048-hotel-infinity.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Investigation 09 | 352041 | [352041-hotel-investigation-09.json](./352041-hotel-investigation-09.json) |
+| Hotel Is Hungry | 414079 | [414079-hotel-is-hungry.json](./414079-hotel-is-hungry.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
 | Hotel Life: A Resort Simulator | 151044 | [151044-hotel-life-a-resort-simulator.json](./151044-hotel-life-a-resort-simulator.json) |
 | Hotel Lust | 367295 | [367295-hotel-lust.json](./367295-hotel-lust.json) |
