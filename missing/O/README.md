@@ -3361,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore-sama Kingdom: Ikemen Kareshi wo Get Shiyo! Moe Kyun School Days | 141587 | [141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json](./141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json) |
 | Ore-sama Kingdom: Koi mo Manga mo Debut wo Mezase! Doki-doki Love Lesson | 202704 | [202704-ore-sama-kingdom-koi-mo-manga-mo-debut-wo-mezase-doki-doki-love-lesson.json](./202704-ore-sama-kingdom-koi-mo-manga-mo-debut-wo-mezase-doki-doki-love-lesson.json) |
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
+| Orebital Dynamics | 410007 | [410007-orebital-dynamics.json](./410007-orebital-dynamics.json) |
 | Oreblaze | 338732 | [338732-oreblaze.json](./338732-oreblaze.json) |
 | Orebody: Binder's Tale | 215028 | [215028-orebody-binders-tale.json](./215028-orebody-binders-tale.json) |
 | Orebody: Sand Ripples | 304241 | [304241-orebody-sand-ripples.json](./304241-orebody-sand-ripples.json) |
