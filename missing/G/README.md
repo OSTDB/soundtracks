@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangnam Style Massacre | 216768 | [216768-gangnam-style-massacre.json](./216768-gangnam-style-massacre.json) |
 | Gangpire: Fire & Fury | 188309 | [188309-gangpire-fire-and-fury.json](./188309-gangpire-fire-and-fury.json) |
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
+| Gangs of London | 23136 | [23136-gangs-of-london.json](./23136-gangs-of-london.json) |
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
 | Gangs of Sherwood: Lionheart Edition | 271679 | [271679-gangs-of-sherwood-lionheart-edition.json](./271679-gangs-of-sherwood-lionheart-edition.json) |
 | Gangs of Space | 54522 | [54522-gangs-of-space.json](./54522-gangs-of-space.json) |
@@ -5338,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
 | Golf | 372204 | [372204-golf.json](./372204-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
+| Golf 1999 | 23133 | [23133-golf-1999.json](./23133-golf-1999.json) |
 | Golf 2D | 74208 | [74208-golf-2d.json](./74208-golf-2d.json) |
 | Golf 5 eClub | 194227 | [194227-golf-5-eclub.json](./194227-golf-5-eclub.json) |
 | Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
@@ -6817,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Gravitee Wars | 310833 | [310833-gravitee-wars.json](./310833-gravitee-wars.json) |
 | Gravitee Wars Online | 95940 | [95940-gravitee-wars-online.json](./95940-gravitee-wars-online.json) |
+| Graviteer: Cosmic Expedition | 24201 | [24201-graviteer-cosmic-expedition.json](./24201-graviteer-cosmic-expedition.json) |
 | Graviter | 131834 | [131834-graviter.json](./131834-graviter.json) |
 | Graviter | 417310 | [417310-graviter.json](./417310-graviter.json) |
 | Gravitia | 285909 | [285909-gravitia.json](./285909-gravitia.json) |
@@ -7310,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Gretel's Honesty | 330894 | [330894-gretels-honesty.json](./330894-gretels-honesty.json) |
 | Gretzky NHL | 138071 | [138071-gretzky-nhl.json](./138071-gretzky-nhl.json) |
+| Gretzky NHL '06 | 24142 | [24142-gretzky-nhl-06.json](./24142-gretzky-nhl-06.json) |
 | Gretzky NHL 2005 | 24162 | [24162-gretzky-nhl-2005.json](./24162-gretzky-nhl-2005.json) |
 | Grex | 331371 | [331371-grex.json](./331371-grex.json) |
 | Grexovka Village | 386411 | [386411-grexovka-village.json](./386411-grexovka-village.json) |
@@ -8219,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
 | Guardiões da Natureza: Mamíferos | 290089 | [290089-guardioes-da-natureza-mamiferos.json](./290089-guardioes-da-natureza-mamiferos.json) |
 | Guardiões do Mundo: estados brasileiros | 290088 | [290088-guardioes-do-mundo-estados-brasileiros.json](./290088-guardioes-do-mundo-estados-brasileiros.json) |
+| Guards | 24208 | [24208-guards.json](./24208-guards.json) |
 | Guards II: Chaos in Hell | 253297 | [253297-guards-ii-chaos-in-hell.json](./253297-guards-ii-chaos-in-hell.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards! | 266605 | [266605-guards.json](./266605-guards.json) |
@@ -8381,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
 | Guilty Gear Dust Strikers | 9149 | [9149-guilty-gear-dust-strikers.json](./9149-guilty-gear-dust-strikers.json) |
 | Guilty Gear Isuka | 5857 | [5857-guilty-gear-isuka.json](./5857-guilty-gear-isuka.json) |
+| Guilty Gear Judgment | 24196 | [24196-guilty-gear-judgment.json](./24196-guilty-gear-judgment.json) |
 | Guilty Gear Petit | 9147 | [9147-guilty-gear-petit.json](./9147-guilty-gear-petit.json) |
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
