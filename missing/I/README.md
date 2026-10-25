@@ -3348,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inhibit | 264688 | [264688-inhibit.json](./264688-inhibit.json) |
 | Inhuman | 193276 | [193276-inhuman.json](./193276-inhuman.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
+| Inhumanus | 96689 | [96689-inhumanus.json](./96689-inhumanus.json) |
 | Ini | 197638 | [197638-ini.json](./197638-ini.json) |
 | Inindo: Way of the Ninja | 47498 | [47498-inindo-way-of-the-ninja.json](./47498-inindo-way-of-the-ninja.json) |
 | Iniquity Survivors | 240374 | [240374-iniquity-survivors.json](./240374-iniquity-survivors.json) |
@@ -5357,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Was Raining That Night | 278960 | [278960-it-was-raining-that-night.json](./278960-it-was-raining-that-night.json) |
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
 | It Weighs You Down | 177221 | [177221-it-weighs-you-down.json](./177221-it-weighs-you-down.json) |
+| It Will Crush | 100878 | [100878-it-will-crush.json](./100878-it-will-crush.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
 | It Works: Electronics Repair Simulator | 352231 | [352231-it-works-electronics-repair-simulator.json](./352231-it-works-electronics-repair-simulator.json) |
 | It: Unstoppable | 364059 | [364059-it-unstoppable.json](./364059-it-unstoppable.json) |
