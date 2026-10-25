@@ -4154,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globulation 2 | 124609 | [124609-globulation-2.json](./124609-globulation-2.json) |
 | Globulos Mania | 62447 | [62447-globulos-mania.json](./62447-globulos-mania.json) |
 | Globulos Party | 66981 | [66981-globulos-party.json](./66981-globulos-party.json) |
+| Globulous | 411987 | [411987-globulous.json](./411987-globulous.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
 | Glocal Hexcite | 37529 | [37529-glocal-hexcite.json](./37529-glocal-hexcite.json) |
 | Glocktopus | 397195 | [397195-glocktopus.json](./397195-glocktopus.json) |
@@ -4328,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphs | 347281 | [347281-glyphs.json](./347281-glyphs.json) |
 | Glyphs Apprentice | 29486 | [29486-glyphs-apprentice.json](./29486-glyphs-apprentice.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
+| Glyphs of the East | 411973 | [411973-glyphs-of-the-east.json](./411973-glyphs-of-the-east.json) |
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
 | Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
@@ -7289,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Squares | 245769 | [245769-green-squares.json](./245769-green-squares.json) |
 | Green Star Revenge 3: Back to the Safe Sear Temples | 280754 | [280754-green-star-revenge-3-back-to-the-safe-sear-temples.json](./280754-green-star-revenge-3-back-to-the-safe-sear-temples.json) |
 | Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
+| Green Steps | 411970 | [411970-green-steps.json](./411970-green-steps.json) |
 | Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
 | Green the Planet | 344937 | [344937-green-the-planet.json](./344937-green-the-planet.json) |
 | Green Thumb | 291571 | [291571-green-thumb.json](./291571-green-thumb.json) |
@@ -8111,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
 | Grudgeborn | 363158 | [363158-grudgeborn.json](./363158-grudgeborn.json) |
+| Grudger | 412019 | [412019-grudger.json](./412019-grudger.json) |
 | Gruel | 292396 | [292396-gruel.json](./292396-gruel.json) |
 | Grugs | 266132 | [266132-grugs.json](./266132-grugs.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
