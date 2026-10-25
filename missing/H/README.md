@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
 | Heart Abyss | 197240 | [197240-heart-abyss.json](./197240-heart-abyss.json) |
 | Heart and Core | 295598 | [295598-heart-and-core.json](./295598-heart-and-core.json) |
+| Heart and Seoul | 30833 | [30833-heart-and-seoul.json](./30833-heart-and-seoul.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
 | Heart Chain Kitty: All Screwed Up | 261969 | [261969-heart-chain-kitty-all-screwed-up.json](./261969-heart-chain-kitty-all-screwed-up.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Legend: Sotalon Era | 181591 | [181591-heroes-legend-sotalon-era.json](./181591-heroes-legend-sotalon-era.json) |
 | Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
 | Heroes Must Diee | 155877 | [155877-heroes-must-diee.json](./155877-heroes-must-diee.json) |
+| Heroes Never Lose: Professor Puzzler's Perplexing Ploy | 11330 | [11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json](./11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json) |
 | Heroes of a Broken Land | 17663 | [17663-heroes-of-a-broken-land.json](./17663-heroes-of-a-broken-land.json) |
 | Heroes of a Broken Land 2 | 114089 | [114089-heroes-of-a-broken-land-2.json](./114089-heroes-of-a-broken-land-2.json) |
 | Heroes of Abyss | 191160 | [191160-heroes-of-abyss.json](./191160-heroes-of-abyss.json) |
@@ -9877,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Unlimited 2 | 24100 | [24100-hunting-unlimited-2.json](./24100-hunting-unlimited-2.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting Unlimited 2010 | 14865 | [14865-hunting-unlimited-2010.json](./14865-hunting-unlimited-2010.json) |
+| Hunting Unlimited 2011 | 30859 | [30859-hunting-unlimited-2011.json](./30859-hunting-unlimited-2011.json) |
 | Hunting Unlimited 4 | 69145 | [69145-hunting-unlimited-4.json](./69145-hunting-unlimited-4.json) |
 | Hunting Unlimited Trophy Collection | 69182 | [69182-hunting-unlimited-trophy-collection.json](./69182-hunting-unlimited-trophy-collection.json) |
 | Hunting World | 398039 | [398039-hunting-world.json](./398039-hunting-world.json) |
