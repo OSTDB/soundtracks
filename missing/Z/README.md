@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelene Lux: Spirit Notes - Collector's Edition | 415959 | [415959-zelene-lux-spirit-notes-collectors-edition.json](./415959-zelene-lux-spirit-notes-collectors-edition.json) |
 | Zeliard | 2409 | [2409-zeliard.json](./2409-zeliard.json) |
 | Zeliria Sanctuary: Isle's Memories | 170772 | [170772-zeliria-sanctuary-isles-memories.json](./170772-zeliria-sanctuary-isles-memories.json) |
+| Zella's Gun | 412572 | [412572-zellas-gun.json](./412572-zellas-gun.json) |
 | Zellige: The Tilemaker of Granada | 220734 | [220734-zellige-the-tilemaker-of-granada.json](./220734-zellige-the-tilemaker-of-granada.json) |
 | Zelter | 138243 | [138243-zelter.json](./138243-zelter.json) |
 | Zeltoid X1 | 216477 | [216477-zeltoid-x1.json](./216477-zeltoid-x1.json) |
