@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OK, Dracula | 124507 | [124507-ok-dracula.json](./124507-ok-dracula.json) |
 | OK! Bird: Wing Up | 240863 | [240863-ok-bird-wing-up.json](./240863-ok-bird-wing-up.json) |
 | Ok/Normal | 101635 | [101635-ok-normal.json](./101635-ok-normal.json) |
+| Okaa-san | 414263 | [414263-okaa-san.json](./414263-okaa-san.json) |
 | Okabu | 20603 | [20603-okabu.json](./20603-okabu.json) |
 | Okada Toshio no Itsumade mo Debu to Omounayo | 70633 | [70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json](./70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json) |
 | Okaeri | 122005 | [122005-okaeri.json](./122005-okaeri.json) |
@@ -1826,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day in London: Chapter V | 167885 | [167885-one-day-in-london-chapter-v.json](./167885-one-day-in-london-chapter-v.json) |
 | One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
 | One Day of Mr. Potato | 246383 | [246383-one-day-of-mr-potato.json](./246383-one-day-of-mr-potato.json) |
+| One Day, the World | 414429 | [414429-one-day-the-world.json](./414429-one-day-the-world.json) |
 | One Deck Dungeon: Abyssal Depths | 163255 | [163255-one-deck-dungeon-abyssal-depths.json](./163255-one-deck-dungeon-abyssal-depths.json) |
 | One Deck Dungeon: Caliana | 163257 | [163257-one-deck-dungeon-caliana.json](./163257-one-deck-dungeon-caliana.json) |
 | One Deck Dungeon: Cinder Plains | 163258 | [163258-one-deck-dungeon-cinder-plains.json](./163258-one-deck-dungeon-cinder-plains.json) |
@@ -2736,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open The Gate: Just A Little | 381672 | [381672-open-the-gate-just-a-little.json](./381672-open-the-gate-just-a-little.json) |
 | Open the Gates! | 149046 | [149046-open-the-gates.json](./149046-open-the-gates.json) |
 | Open Tournament | 135140 | [135140-open-tournament.json](./135140-open-tournament.json) |
+| Open Up, Michael! | 414403 | [414403-open-up-michael.json](./414403-open-up-michael.json) |
 | Open Up! | 220559 | [220559-open-up.json](./220559-open-up.json) |
 | Open Wheel Manager | 117611 | [117611-open-wheel-manager.json](./117611-open-wheel-manager.json) |
 | Open World Foreva | 152772 | [152772-open-world-foreva.json](./152772-open-world-foreva.json) |
@@ -4696,6 +4699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overseer: Field Trials | 315127 | [315127-overseer-field-trials.json](./315127-overseer-field-trials.json) |
 | Overserved: Food Fighters! | 398995 | [398995-overserved-food-fighters.json](./398995-overserved-food-fighters.json) |
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
+| Overshoot | 414281 | [414281-overshoot.json](./414281-overshoot.json) |
 | OverShoot Battle Race | 163025 | [163025-overshoot-battle-race.json](./163025-overshoot-battle-race.json) |
 | Oversight | 148135 | [148135-oversight.json](./148135-oversight.json) |
 | Overslept | 141727 | [141727-overslept.json](./141727-overslept.json) |
