@@ -3041,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus War: Civilization | 259624 | [259624-nexus-war-civilization.json](./259624-nexus-war-civilization.json) |
 | Nexus Wars | 295081 | [295081-nexus-wars.json](./295081-nexus-wars.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
+| NexusRPG | 416366 | [416366-nexusrpg.json](./416366-nexusrpg.json) |
 | Nexwar | 403168 | [403168-nexwar.json](./403168-nexwar.json) |
 | Nexzr | 42016 | [42016-nexzr.json](./42016-nexzr.json) |
 | Neybers | 79265 | [79265-neybers.json](./79265-neybers.json) |
@@ -4446,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nino Maze Lofi | 150934 | [150934-nino-maze-lofi.json](./150934-nino-maze-lofi.json) |
 | Nino Maze Lofi II | 193197 | [193197-nino-maze-lofi-ii.json](./193197-nino-maze-lofi-ii.json) |
 | Niñoid | 339693 | [339693-ninoid.json](./339693-ninoid.json) |
+| Ninon the Upside-Down Mermaid | 416331 | [416331-ninon-the-upside-down-mermaid.json](./416331-ninon-the-upside-down-mermaid.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpen Manmaru | 62714 | [62714-ninpen-manmaru.json](./62714-ninpen-manmaru.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
@@ -5400,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonorelia | 257208 | [257208-nonorelia.json](./257208-nonorelia.json) |
 | Nonotown | 238467 | [238467-nonotown.json](./238467-nonotown.json) |
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
+| NonPlatonic Forms | 416362 | [416362-nonplatonic-forms.json](./416362-nonplatonic-forms.json) |
 | Nonsense Asteroid | 134327 | [134327-nonsense-asteroid.json](./134327-nonsense-asteroid.json) |
 | Nonsense Fall | 348937 | [348937-nonsense-fall.json](./348937-nonsense-fall.json) |
 | Nonsense Soccer | 156874 | [156874-nonsense-soccer.json](./156874-nonsense-soccer.json) |
