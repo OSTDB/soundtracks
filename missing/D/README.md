@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Places | 107473 | [107473-dark-places.json](./107473-dark-places.json) |
 | Dark Planet | 175625 | [175625-dark-planet.json](./175625-dark-planet.json) |
 | Dark Planet: Battle for Natrolis | 23457 | [23457-dark-planet-battle-for-natrolis.json](./23457-dark-planet-battle-for-natrolis.json) |
+| Dark Points | 408616 | [408616-dark-points.json](./408616-dark-points.json) |
 | Dark Presence | 67962 | [67962-dark-presence.json](./67962-dark-presence.json) |
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
 | Dark Prison 7th | 349379 | [349379-dark-prison-7th.json](./349379-dark-prison-7th.json) |
@@ -4365,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Creatures | 85077 | [85077-deep-sea-creatures.json](./85077-deep-sea-creatures.json) |
 | Deep Sea Delivery & Co. | 412575 | [412575-deep-sea-delivery-and-co.json](./412575-deep-sea-delivery-and-co.json) |
 | Deep Sea Endurance | 114894 | [114894-deep-sea-endurance.json](./114894-deep-sea-endurance.json) |
+| Deep Sea Fish: Hidden World | 408590 | [408590-deep-sea-fish-hidden-world.json](./408590-deep-sea-fish-hidden-world.json) |
 | Deep Sea Hunter | 95988 | [95988-deep-sea-hunter.json](./95988-deep-sea-hunter.json) |
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
@@ -5983,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Pinforge | 408873 | [408873-desktop-pinforge.json](./408873-desktop-pinforge.json) |
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
+| Desktop Snail Assassin | 408604 | [408604-desktop-snail-assassin.json](./408604-desktop-snail-assassin.json) |
 | Desktop Soccer | 112128 | [112128-desktop-soccer.json](./112128-desktop-soccer.json) |
 | Desktop Soccer 2: Nihon Daihyou Edition | 233925 | [233925-desktop-soccer-2-nihon-daihyou-edition.json](./233925-desktop-soccer-2-nihon-daihyou-edition.json) |
 | Desktop Standing Card Plates | 394346 | [394346-desktop-standing-card-plates.json](./394346-desktop-standing-card-plates.json) |
