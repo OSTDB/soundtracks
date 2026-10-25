@@ -14025,6 +14025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
 | Crimson Room: Reverse | 67281 | [67281-crimson-room-reverse.json](./67281-crimson-room-reverse.json) |
 | Crimson Royale ~Circumstances to serve a noble~ | 130006 | [130006-crimson-royale-circumstances-to-serve-a-noble.json](./130006-crimson-royale-circumstances-to-serve-a-noble.json) |
+| Crimson Sea 2 | 22166 | [22166-crimson-sea-2.json](./22166-crimson-sea-2.json) |
 | Crimson Seer | 378400 | [378400-crimson-seer.json](./378400-crimson-seer.json) |
 | Crimson Skies | 15863 | [15863-crimson-skies.json](./15863-crimson-skies.json) |
 | Crimson Skies: High Road to Revenge | 5793 | [5793-crimson-skies-high-road-to-revenge.json](./5793-crimson-skies-high-road-to-revenge.json) |
