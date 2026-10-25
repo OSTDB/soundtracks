@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickie: Fantasy Adventure | 275437 | [275437-quickie-fantasy-adventure.json](./275437-quickie-fantasy-adventure.json) |
 | QuickMaze | 358400 | [358400-quickmaze.json](./358400-quickmaze.json) |
 | Quickn | 191028 | [191028-quickn.json](./191028-quickn.json) |
+| Quickscope King | 407773 | [407773-quickscope-king.json](./407773-quickscope-king.json) |
 | Quickscope Simulator | 226086 | [226086-quickscope-simulator.json](./226086-quickscope-simulator.json) |
 | Quicksilver | 92450 | [92450-quicksilver.json](./92450-quicksilver.json) |
 | QuickSolve | 174316 | [174316-quicksolve.json](./174316-quicksolve.json) |
