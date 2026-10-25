@@ -6924,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack XL | 234531 | [234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json](./234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Zombies | 162941 | [162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json](./162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
+| Pixel Quest: Guild | 423877 | [423877-pixel-quest-guild.json](./423877-pixel-quest-guild.json) |
 | Pixel Quest: Lost Relics | 304560 | [304560-pixel-quest-lost-relics.json](./304560-pixel-quest-lost-relics.json) |
 | Pixel Quest: Realm Eater | 338344 | [338344-pixel-quest-realm-eater.json](./338344-pixel-quest-realm-eater.json) |
 | Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
@@ -11285,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
+| Pray & Slay | 423884 | [423884-pray-and-slay.json](./423884-pray-and-slay.json) |
 | Pray and Spray | 160120 | [160120-pray-and-spray.json](./160120-pray-and-spray.json) |
 | Pray for Death | 47104 | [47104-pray-for-death.json](./47104-pray-for-death.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
@@ -11373,6 +11375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Kingdom | 54499 | [54499-prehistoric-kingdom.json](./54499-prehistoric-kingdom.json) |
 | Prehistoric Pack | 400660 | [400660-prehistoric-pack.json](./400660-prehistoric-pack.json) |
 | Prehistoric Park | 62709 | [62709-prehistoric-park.json](./62709-prehistoric-park.json) |
+| Prehistoric Pit | 423898 | [423898-prehistoric-pit.json](./423898-prehistoric-pit.json) |
 | Prehistoric Relations | 177922 | [177922-prehistoric-relations.json](./177922-prehistoric-relations.json) |
 | Prehistoric Safari | 109452 | [109452-prehistoric-safari.json](./109452-prehistoric-safari.json) |
 | Prehistoric Warcraft | 235703 | [235703-prehistoric-warcraft.json](./235703-prehistoric-warcraft.json) |
@@ -14760,6 +14763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle | 119462 | [119462-puzzle.json](./119462-puzzle.json) |
 | Puzzle | 131268 | [131268-puzzle.json](./131268-puzzle.json) |
 | Puzzle | 287546 | [287546-puzzle.json](./287546-puzzle.json) |
+| Puzzle | 423880 | [423880-puzzle.json](./423880-puzzle.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Battle | 214337 | [214337-puzzle-and-battle.json](./214337-puzzle-and-battle.json) |
 | Puzzle & Chess | 156558 | [156558-puzzle-and-chess.json](./156558-puzzle-and-chess.json) |
@@ -15181,6 +15185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler World XL | 84786 | [84786-puzzler-world-xl.json](./84786-puzzler-world-xl.json) |
 | Puzzlerama | 289567 | [289567-puzzlerama.json](./289567-puzzlerama.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
+| Puzzles | 423881 | [423881-puzzles.json](./423881-puzzles.json) |
 | Puzzles & Board Games Mega Collection | 105182 | [105182-puzzles-and-board-games-mega-collection.json](./105182-puzzles-and-board-games-mega-collection.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzzles & Conquest | 234451 | [234451-puzzles-and-conquest.json](./234451-puzzles-and-conquest.json) |
