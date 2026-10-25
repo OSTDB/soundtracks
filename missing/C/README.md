@@ -12161,6 +12161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
 | Cosmic Crusader | 14494 | [14494-cosmic-crusader.json](./14494-cosmic-crusader.json) |
+| Cosmic Crusader | 413237 | [413237-cosmic-crusader.json](./413237-cosmic-crusader.json) |
 | Cosmic Cursor | 272781 | [272781-cosmic-cursor.json](./272781-cosmic-cursor.json) |
 | Cosmic Dawn | 141183 | [141183-cosmic-dawn.json](./141183-cosmic-dawn.json) |
 | Cosmic Decode | 338889 | [338889-cosmic-decode.json](./338889-cosmic-decode.json) |
@@ -14218,6 +14219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis: The Third Way | 382220 | [382220-crisis-the-third-way.json](./382220-crisis-the-third-way.json) |
 | Crisis/Divider | 305153 | [305153-crisis-divider.json](./305153-crisis-divider.json) |
 | Crisp Cube | 125886 | [125886-crisp-cube.json](./125886-crisp-cube.json) |
+| Crisp Games | 413024 | [413024-crisp-games.json](./413024-crisp-games.json) |
 | Crisp's Charging Challenge | 214051 | [214051-crisps-charging-challenge.json](./214051-crisps-charging-challenge.json) |
 | Crispy Cheese | 218148 | [218148-crispy-cheese.json](./218148-crispy-cheese.json) |
 | Crispy Chicken | 30876 | [30876-crispy-chicken.json](./30876-crispy-chicken.json) |
