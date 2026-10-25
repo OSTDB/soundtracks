@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball: Electronic Game | 245557 | [245557-basketball-electronic-game.json](./245557-basketball-electronic-game.json) |
 | Basketball: The Pro Game | 362396 | [362396-basketball-the-pro-game.json](./362396-basketball-the-pro-game.json) |
 | Basketballverse | 275021 | [275021-basketballverse.json](./275021-basketballverse.json) |
+| BasketBelle | 14766 | [14766-basketbelle.json](./14766-basketbelle.json) |
 | Basketboy's Adventure | 374422 | [374422-basketboys-adventure.json](./374422-basketboys-adventure.json) |
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Basketing | 148903 | [148903-basketing.json](./148903-basketing.json) |
@@ -5988,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Boot Baseball | 116063 | [116063-big-boot-baseball.json](./116063-big-boot-baseball.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
 | Big Boy Boxing | 145410 | [145410-big-boy-boxing.json](./145410-big-boy-boxing.json) |
+| Big Brain Wolf | 14993 | [14993-big-brain-wolf.json](./14993-big-brain-wolf.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
 | Big Brother | 201165 | [201165-big-brother.json](./201165-big-brother.json) |
@@ -8365,6 +8368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg Fire | 175128 | [175128-blitzkrieg-fire.json](./175128-blitzkrieg-fire.json) |
 | Blitzkrieg May 1940 | 15702 | [15702-blitzkrieg-may-1940.json](./15702-blitzkrieg-may-1940.json) |
 | Blitzkrieg: Battle at the Ardennes | 14318 | [14318-blitzkrieg-battle-at-the-ardennes.json](./14318-blitzkrieg-battle-at-the-ardennes.json) |
+| Blitzkrieg: Burning Horizon | 11262 | [11262-blitzkrieg-burning-horizon.json](./11262-blitzkrieg-burning-horizon.json) |
 | Blitzkrieg: Complete Collection | 52652 | [52652-blitzkrieg-complete-collection.json](./52652-blitzkrieg-complete-collection.json) |
 | Blitzkrieg: Green Devils | 94654 | [94654-blitzkrieg-green-devils.json](./94654-blitzkrieg-green-devils.json) |
 | Blitzkrieg: Iron Division | 11264 | [11264-blitzkrieg-iron-division.json](./11264-blitzkrieg-iron-division.json) |
@@ -12032,6 +12036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave survivors | 213489 | [213489-brave-survivors.json](./213489-brave-survivors.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
 | Brave Tales | 188953 | [188953-brave-tales.json](./188953-brave-tales.json) |
+| Brave Tank Hero | 11187 | [11187-brave-tank-hero.json](./11187-brave-tank-hero.json) |
 | Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
 | Brave x Junction | 342093 | [342093-brave-x-junction.json](./342093-brave-x-junction.json) |
