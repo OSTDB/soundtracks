@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fawful Mod Mario Kart Ds | 340979 | [340979-fawful-mod-mario-kart-ds.json](./340979-fawful-mod-mario-kart-ds.json) |
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
 | Fax | 39535 | [39535-fax.json](./39535-fax.json) |
+| Fax 2 | 407847 | [407847-fax-2.json](./407847-fax-2.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
 | Faxion | 92271 | [92271-faxion.json](./92271-faxion.json) |
 | Fay: That Math Woman! | 41200 | [41200-fay-that-math-woman.json](./41200-fay-that-math-woman.json) |
@@ -8078,6 +8079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgive Me Father | 165479 | [165479-forgive-me-father.json](./165479-forgive-me-father.json) |
 | Forgive Me Father 2 | 244784 | [244784-forgive-me-father-2.json](./244784-forgive-me-father-2.json) |
 | Forgive Me My Henchmen | 106097 | [106097-forgive-me-my-henchmen.json](./106097-forgive-me-my-henchmen.json) |
+| Forgive Me My Love | 407780 | [407780-forgive-me-my-love.json](./407780-forgive-me-my-love.json) |
 | Forgive My Sins & Desires, Father | 222736 | [222736-forgive-my-sins-and-desires-father.json](./222736-forgive-my-sins-and-desires-father.json) |
 | Forgive or Finalize | 398486 | [398486-forgive-or-finalize.json](./398486-forgive-or-finalize.json) |
 | Forgiven | 221641 | [221641-forgiven.json](./221641-forgiven.json) |
@@ -9419,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Icecream | 328404 | [328404-free-icecream.json](./328404-free-icecream.json) |
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
+| Free Puzzle | 407946 | [407946-free-puzzle.json](./407946-free-puzzle.json) |
 | Free Realms | 20279 | [20279-free-realms.json](./20279-free-realms.json) |
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
 | Free Rider HD | 56392 | [56392-free-rider-hd.json](./56392-free-rider-hd.json) |
