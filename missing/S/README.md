@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
 | Scared Little Ghost | 253869 | [253869-scared-little-ghost.json](./253869-scared-little-ghost.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
+| Scared Puppies | 423909 | [423909-scared-puppies.json](./423909-scared-puppies.json) |
 | Scared Rider Xechs + Stardust Lovers | 322811 | [322811-scared-rider-xechs-stardust-lovers.json](./322811-scared-rider-xechs-stardust-lovers.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scaredy Cat | 364862 | [364862-scaredy-cat.json](./364862-scaredy-cat.json) |
@@ -4550,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
 | Sentence | 138130 | [138130-sentence.json](./138130-sentence.json) |
 | Sentenced VR | 152221 | [152221-sentenced-vr.json](./152221-sentenced-vr.json) |
+| Senti Metrica | 423893 | [423893-senti-metrica.json](./423893-senti-metrica.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentient | 2234 | [2234-sentient.json](./2234-sentient.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
@@ -18179,6 +18181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
 | Sponge Art | 223910 | [223910-sponge-art.json](./223910-sponge-art.json) |
+| Sponge Bridges | 423887 | [423887-sponge-bridges.json](./423887-sponge-bridges.json) |
 | Sponge Hospital. Five Nights at Bob 3D | 99362 | [99362-sponge-hospital-five-nights-at-bob-3d.json](./99362-sponge-hospital-five-nights-at-bob-3d.json) |
 | Sponge Pop | 243824 | [243824-sponge-pop.json](./243824-sponge-pop.json) |
 | Spongebob & Patrick: Dirty Bubble Busters | 338942 | [338942-spongebob-and-patrick-dirty-bubble-busters.json](./338942-spongebob-and-patrick-dirty-bubble-busters.json) |
@@ -28444,6 +28447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep City | 329683 | [329683-sweep-city.json](./329683-sweep-city.json) |
 | Sweep It! | 263337 | [263337-sweep-it.json](./263337-sweep-it.json) |
 | Sweep Maidens | 320306 | [320306-sweep-maidens.json](./320306-sweep-maidens.json) |
+| Sweep Protocol | 423857 | [423857-sweep-protocol.json](./423857-sweep-protocol.json) |
 | Sweep Squad | 384179 | [384179-sweep-squad.json](./384179-sweep-squad.json) |
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
 | Sweep'n'Sweep | 91329 | [91329-sweepnsweep.json](./91329-sweepnsweep.json) |
