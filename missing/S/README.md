@@ -6173,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
 | Sharpe Investigations: Death on the Seine | 10822 | [10822-sharpe-investigations-death-on-the-seine.json](./10822-sharpe-investigations-death-on-the-seine.json) |
 | Sharper Minds: Brain Games | 255724 | [255724-sharper-minds-brain-games.json](./255724-sharper-minds-brain-games.json) |
+| Sharpest Spear | 420206 | [420206-sharpest-spear.json](./420206-sharpest-spear.json) |
 | Sharpshoot | 292154 | [292154-sharpshoot.json](./292154-sharpshoot.json) |
 | Sharpshooter | 245158 | [245158-sharpshooter.json](./245158-sharpshooter.json) |
 | Sharpshooter Plus | 130285 | [130285-sharpshooter-plus.json](./130285-sharpshooter-plus.json) |
@@ -9901,6 +9902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
 | Ski Jumping World Cup | 374349 | [374349-ski-jumping-world-cup.json](./374349-ski-jumping-world-cup.json) |
+| Ski King 2024 | 420179 | [420179-ski-king-2024.json](./420179-ski-king-2024.json) |
 | Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
 | Ski or Die | 11675 | [11675-ski-or-die.json](./11675-ski-or-die.json) |
 | Ski Play by Samplay | 202017 | [202017-ski-play-by-samplay.json](./202017-ski-play-by-samplay.json) |
@@ -11137,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
 | SlimeCatcher | 235615 | [235615-slimecatcher.json](./235615-slimecatcher.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
+| Slimefall | 420216 | [420216-slimefall.json](./420216-slimefall.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | SlimeGear | 106389 | [106389-slimegear.json](./106389-slimegear.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
@@ -16364,6 +16367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Survival | 32932 | [32932-space-survival.json](./32932-space-survival.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
 | Space Survivor | 289553 | [289553-space-survivor.json](./289553-space-survivor.json) |
+| Space Survivor | 420181 | [420181-space-survivor.json](./420181-space-survivor.json) |
 | Space Survivor VR AR | 404354 | [404354-space-survivor-vr-ar.json](./404354-space-survivor-vr-ar.json) |
 | Space Survivors | 319416 | [319416-space-survivors.json](./319416-space-survivors.json) |
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
@@ -27774,6 +27778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfasaurus | 29659 | [29659-surfasaurus.json](./29659-surfasaurus.json) |
 | Surfatron | 103174 | [103174-surfatron.json](./103174-surfatron.json) |
 | Surfer Bunny | 267221 | [267221-surfer-bunny.json](./267221-surfer-bunny.json) |
+| Surfer Cat | 420187 | [420187-surfer-cat.json](./420187-surfer-cat.json) |
 | Surfer Girl Makeover | 99997 | [99997-surfer-girl-makeover.json](./99997-surfer-girl-makeover.json) |
 | Surfer's Paradise | 40691 | [40691-surfers-paradise.json](./40691-surfers-paradise.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
