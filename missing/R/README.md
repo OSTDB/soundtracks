@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race With Ryan: Surprise Track Pack | 197661 | [197661-race-with-ryan-surprise-track-pack.json](./197661-race-with-ryan-surprise-track-pack.json) |
 | Race, Stunt, Fight! | 175594 | [175594-race-stunt-fight.json](./175594-race-stunt-fight.json) |
 | Race: Caterham | 24770 | [24770-race-caterham.json](./24770-race-caterham.json) |
+| Race: ExTerminator Pack | 412580 | [412580-race-exterminator-pack.json](./412580-race-exterminator-pack.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
 | Race: The WTCC Game | 839 | [839-race-the-wtcc-game.json](./839-race-the-wtcc-game.json) |
 | Race: Total Toon Race | 153328 | [153328-race-total-toon-race.json](./153328-race-total-toon-race.json) |
@@ -3043,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red and the Deadly Sins | 106636 | [106636-red-and-the-deadly-sins.json](./106636-red-and-the-deadly-sins.json) |
 | Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red and White | 154018 | [154018-red-and-white.json](./154018-red-and-white.json) |
+| Red Ant Simulator | 412613 | [412613-red-ant-simulator.json](./412613-red-ant-simulator.json) |
 | Red Antz | 262797 | [262797-red-antz.json](./262797-red-antz.json) |
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
 | Red Arrows | 13749 | [13749-red-arrows.json](./13749-red-arrows.json) |
@@ -3099,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Button | 172988 | [172988-red-button.json](./172988-red-button.json) |
 | Red Cap Squad: Zombie Source | 339924 | [339924-red-cap-squad-zombie-source.json](./339924-red-cap-squad-zombie-source.json) |
 | Red Cape Knight | 366989 | [366989-red-cape-knight.json](./366989-red-cape-knight.json) |
+| Red Capture | 412615 | [412615-red-capture.json](./412615-red-capture.json) |
 | Red Carpet Diaries: Book 1 | 313688 | [313688-red-carpet-diaries-book-1.json](./313688-red-carpet-diaries-book-1.json) |
 | Red Carpet Diaries: Book 2 | 313689 | [313689-red-carpet-diaries-book-2.json](./313689-red-carpet-diaries-book-2.json) |
 | Red Carpet Diaries: Book 3 | 313690 | [313690-red-carpet-diaries-book-3.json](./313690-red-carpet-diaries-book-3.json) |
@@ -3145,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dust | 148674 | [148674-red-dust.json](./148674-red-dust.json) |
 | Red Dwarf | 214964 | [214964-red-dwarf.json](./214964-red-dwarf.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
+| Red Echoes: Berlin | 412606 | [412606-red-echoes-berlin.json](./412606-red-echoes-berlin.json) |
 | Red Egg: High Protein Gluten Free Adventure | 256353 | [256353-red-egg-high-protein-gluten-free-adventure.json](./256353-red-egg-high-protein-gluten-free-adventure.json) |
 | Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
 | Red Embrace: Hollywood | 110753 | [110753-red-embrace-hollywood.json](./110753-red-embrace-hollywood.json) |
@@ -7102,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
 | Robbo Millennium | 400081 | [400081-robbo-millennium.json](./400081-robbo-millennium.json) |
 | Robbotto | 106804 | [106804-robbotto.json](./106804-robbotto.json) |
+| RobBred: Funny Chat | 412618 | [412618-robbred-funny-chat.json](./412618-robbred-funny-chat.json) |
 | Robby's Adventure | 55806 | [55806-robbys-adventure.json](./55806-robbys-adventure.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
