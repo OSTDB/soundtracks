@@ -6794,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floragram | 186585 | [186585-floragram.json](./186585-floragram.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
 | Floral Flowlove: Limited Edition | 212319 | [212319-floral-flowlove-limited-edition.json](./212319-floral-flowlove-limited-edition.json) |
+| Floral Fury Online | 389923 | [389923-floral-fury-online.json](./389923-floral-fury-online.json) |
 | Floral Gate | 255271 | [255271-floral-gate.json](./255271-floral-gate.json) |
 | Floral Gutter | 350619 | [350619-floral-gutter.json](./350619-floral-gutter.json) |
 | Floral Town | 158098 | [158098-floral-town.json](./158098-floral-town.json) |
@@ -10943,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Func Key | 383673 | [383673-func-key.json](./383673-func-key.json) |
 | Function | 119618 | [119618-function.json](./119618-function.json) |
 | Function Ball | 293503 | [293503-function-ball.json](./293503-function-ball.json) |
+| Function Sue | 389947 | [389947-function-sue.json](./389947-function-sue.json) |
 | Function.Repair | 63827 | [63827-function-repair.json](./63827-function-repair.json) |
 | Functional | 154877 | [154877-functional.json](./154877-functional.json) |
 | Functional: Trees | 296599 | [296599-functional-trees.json](./296599-functional-trees.json) |
