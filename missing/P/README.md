@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palindrome Syndrome: Escape Room | 139604 | [139604-palindrome-syndrome-escape-room.json](./139604-palindrome-syndrome-escape-room.json) |
 | Palingenesis | 329082 | [329082-palingenesis.json](./329082-palingenesis.json) |
 | Palinurus | 33121 | [33121-palinurus.json](./33121-palinurus.json) |
+| Palisade Guardian | 387946 | [387946-palisade-guardian.json](./387946-palisade-guardian.json) |
 | Palitoman Adventure | 408085 | [408085-palitoman-adventure.json](./408085-palitoman-adventure.json) |
 | Palitron | 58199 | [58199-palitron.json](./58199-palitron.json) |
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
@@ -5555,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
 | Pimp Tight | 30550 | [30550-pimp-tight.json](./30550-pimp-tight.json) |
 | Pimp Up Dungeon | 358426 | [358426-pimp-up-dungeon.json](./358426-pimp-up-dungeon.json) |
+| Pimp's Quest | 387947 | [387947-pimps-quest.json](./387947-pimps-quest.json) |
 | PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
 | Pimpy Da Pimp | 299555 | [299555-pimpy-da-pimp.json](./299555-pimpy-da-pimp.json) |
 | PiN | 28154 | [28154-pin.json](./28154-pin.json) |
@@ -13698,6 +13700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protective Clothing | 132616 | [132616-protective-clothing.json](./132616-protective-clothing.json) |
 | Protecto | 285520 | [285520-protecto.json](./285520-protecto.json) |
 | Protector | 13075 | [13075-protector.json](./13075-protector.json) |
+| Protector | 387948 | [387948-protector.json](./387948-protector.json) |
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
 | Protector II | 18571 | [18571-protector-ii.json](./18571-protector-ii.json) |
 | Protector Yasi | 46510 | [46510-protector-yasi.json](./46510-protector-yasi.json) |
