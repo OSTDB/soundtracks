@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddsparks: An Automation Adventure | 261144 | [261144-oddsparks-an-automation-adventure.json](./261144-oddsparks-an-automation-adventure.json) |
 | Oddsparks: An Automation Adventure - Animal Costumes Pack | 366853 | [366853-oddsparks-an-automation-adventure-animal-costumes-pack.json](./366853-oddsparks-an-automation-adventure-animal-costumes-pack.json) |
 | Oddsparks: An Automation Adventure - Coaster Rush | 385449 | [385449-oddsparks-an-automation-adventure-coaster-rush.json](./385449-oddsparks-an-automation-adventure-coaster-rush.json) |
+| Oddsparks: An Automation Adventure - Craftsman's Elemental Decorations Pack | 406333 | [406333-oddsparks-an-automation-adventure-craftsmans-elemental-decorations-pack.json](./406333-oddsparks-an-automation-adventure-craftsmans-elemental-decorations-pack.json) |
 | Oddsparks: An Automation Adventure - Deluxe Edition | 403586 | [403586-oddsparks-an-automation-adventure-deluxe-edition.json](./403586-oddsparks-an-automation-adventure-deluxe-edition.json) |
 | Oddsparks: An Automation Adventure - Deluxe Upgrade | 403587 | [403587-oddsparks-an-automation-adventure-deluxe-upgrade.json](./403587-oddsparks-an-automation-adventure-deluxe-upgrade.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
@@ -3093,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb 2: The New Levels | 408716 | [408716-orb-2-the-new-levels.json](./408716-orb-2-the-new-levels.json) |
 | Orb 3 | 408720 | [408720-orb-3.json](./408720-orb-3.json) |
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
+| Orb Breaker | 405318 | [405318-orb-breaker.json](./405318-orb-breaker.json) |
 | Orb Devils | 239606 | [239606-orb-devils.json](./239606-orb-devils.json) |
 | Orb Flo | 68325 | [68325-orb-flo.json](./68325-orb-flo.json) |
 | Orb Fort | 215865 | [215865-orb-fort.json](./215865-orb-fort.json) |
