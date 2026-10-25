@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous Place | 160184 | [160184-fabulous-place.json](./160184-fabulous-place.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
 | Fabulous Shop | 246550 | [246550-fabulous-shop.json](./246550-fabulous-shop.json) |
+| Fabulous: Angela's High School Reunion | 38039 | [38039-fabulous-angelas-high-school-reunion.json](./38039-fabulous-angelas-high-school-reunion.json) |
 | Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
 | Fabulous: Angela's Wedding Disaster | 99076 | [99076-fabulous-angelas-wedding-disaster.json](./99076-fabulous-angelas-wedding-disaster.json) |
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
@@ -331,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
 | Faces of the Forest | 323596 | [323596-faces-of-the-forest.json](./323596-faces-of-the-forest.json) |
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
+| Faceted Flight | 35655 | [35655-faceted-flight.json](./35655-faceted-flight.json) |
 | Facettes | 155855 | [155855-facettes.json](./155855-facettes.json) |
 | FaceValue | 237233 | [237233-facevalue.json](./237233-facevalue.json) |
 | Facewound | 243111 | [243111-facewound.json](./243111-facewound.json) |
@@ -7993,6 +7995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgery Craft | 276210 | [276210-forgery-craft.json](./276210-forgery-craft.json) |
 | Forget | 313530 | [313530-forget.json](./313530-forget.json) |
 | Forget Me Not, My Love | 238890 | [238890-forget-me-not-my-love.json](./238890-forget-me-not-my-love.json) |
+| Forget Me Not: My Organic Garden | 35566 | [35566-forget-me-not-my-organic-garden.json](./35566-forget-me-not-my-organic-garden.json) |
 | Forget Me Not: Palette | 64474 | [64474-forget-me-not-palette.json](./64474-forget-me-not-palette.json) |
 | Forget Something? | 295156 | [295156-forget-something.json](./295156-forget-something.json) |
 | Forget the Brakes | 134604 | [134604-forget-the-brakes.json](./134604-forget-the-brakes.json) |
