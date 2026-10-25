@@ -11061,6 +11061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Road Chase Simulator | 122029 | [122029-funny-road-chase-simulator.json](./122029-funny-road-chase-simulator.json) |
 | Funny Soccer | 263411 | [263411-funny-soccer.json](./263411-funny-soccer.json) |
 | Funny Truck | 159019 | [159019-funny-truck.json](./159019-funny-truck.json) |
+| Funny UFOs Scene Creator | 396688 | [396688-funny-ufos-scene-creator.json](./396688-funny-ufos-scene-creator.json) |
 | Funny Volleyball | 384274 | [384274-funny-volleyball.json](./384274-funny-volleyball.json) |
 | Funny Wings VR | 86676 | [86676-funny-wings-vr.json](./86676-funny-wings-vr.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
