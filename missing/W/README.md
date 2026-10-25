@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking Violet | 103415 | [103415-waking-violet.json](./103415-waking-violet.json) |
 | Wakka Follow the Treasure Ring | 326246 | [326246-wakka-follow-the-treasure-ring.json](./326246-wakka-follow-the-treasure-ring.json) |
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
+| Waku Waku Derby | 394402 | [394402-waku-waku-derby.json](./394402-waku-waku-derby.json) |
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
 | Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
 | Waku-waku Doubutsu Land | 101034 | [101034-waku-waku-doubutsu-land.json](./101034-waku-waku-doubutsu-land.json) |
@@ -1046,6 +1047,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehuman | 201685 | [201685-warehuman.json](./201685-warehuman.json) |
 | Warera Mitsurin Tankentai!! | 179034 | [179034-warera-mitsurin-tankentai.json](./179034-warera-mitsurin-tankentai.json) |
 | Warf | 262881 | [262881-warf.json](./262881-warf.json) |
+| Warface | 393919 | [393919-warface.json](./393919-warface.json) |
+| Warface 2 | 393920 | [393920-warface-2.json](./393920-warface-2.json) |
 | Warface: Breakout | 134365 | [134365-warface-breakout.json](./134365-warface-breakout.json) |
 | Warface: Breakout - Deluxe Edition | 134366 | [134366-warface-breakout-deluxe-edition.json](./134366-warface-breakout-deluxe-edition.json) |
 | Warface: Chernobyl | 114759 | [114759-warface-chernobyl.json](./114759-warface-chernobyl.json) |
@@ -4094,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why That Girl Stopped Drawing | 83257 | [83257-why-that-girl-stopped-drawing.json](./83257-why-that-girl-stopped-drawing.json) |
 | Why the Long Gun? | 364607 | [364607-why-the-long-gun.json](./364607-why-the-long-gun.json) |
 | Why the Wrong Face? | 273872 | [273872-why-the-wrong-face.json](./273872-why-the-wrong-face.json) |
+| Why To JiangHu | 394408 | [394408-why-to-jianghu.json](./394408-why-to-jianghu.json) |
 | Why War? | 86600 | [86600-why-war.json](./86600-why-war.json) |
 | Why You Do This to Me? | 178261 | [178261-why-you-do-this-to-me.json](./178261-why-you-do-this-to-me.json) |
 | Why? | 335243 | [335243-why.json](./335243-why.json) |
@@ -7608,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wteruna | 151461 | [151461-wteruna.json](./151461-wteruna.json) |
 | WTF | 99778 | [99778-wtf.json](./99778-wtf.json) |
 | WTF Do You Know? | 197137 | [197137-wtf-do-you-know.json](./197137-wtf-do-you-know.json) |
+| WTF Doc | 394215 | [394215-wtf-doc.json](./394215-wtf-doc.json) |
 | WTF Is Wrong With You? | 152634 | [152634-wtf-is-wrong-with-you.json](./152634-wtf-is-wrong-with-you.json) |
 | WTF: Waifu Tactical Force | 244256 | [244256-wtf-waifu-tactical-force.json](./244256-wtf-waifu-tactical-force.json) |
 | WTF: Work Time Fun | 42853 | [42853-wtf-work-time-fun.json](./42853-wtf-work-time-fun.json) |
