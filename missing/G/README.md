@@ -4689,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goban | 95567 | [95567-goban.json](./95567-goban.json) |
 | Gobang Beginner | 400529 | [400529-gobang-beginner.json](./400529-gobang-beginner.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
+| GoBattle.io | 395949 | [395949-gobattle-io.json](./395949-gobattle-io.json) |
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
 | Gobble Fantasy 2003 | 376039 | [376039-gobble-fantasy-2003.json](./376039-gobble-fantasy-2003.json) |
 | Gobble It | 240109 | [240109-gobble-it.json](./240109-gobble-it.json) |
