@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekobyte | 413449 | [413449-nekobyte.json](./413449-nekobyte.json) |
 | NekoChan Hero Collection | 210754 | [210754-nekochan-hero-collection.json](./210754-nekochan-hero-collection.json) |
 | NekoCharm | 111227 | [111227-nekocharm.json](./111227-nekocharm.json) |
+| Nekoclaw: Waifu Catcher | 389382 | [389382-nekoclaw-waifu-catcher.json](./389382-nekoclaw-waifu-catcher.json) |
 | Nekodancer | 197658 | [197658-nekodancer.json](./197658-nekodancer.json) |
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
 | Nekograms | 187838 | [187838-nekograms.json](./187838-nekograms.json) |
@@ -5639,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
 | Northern Tales 6: Oath to the Gods - Collector's Edition | 296480 | [296480-northern-tales-6-oath-to-the-gods-collectors-edition.json](./296480-northern-tales-6-oath-to-the-gods-collectors-edition.json) |
 | Northflower: The Last Watch | 380222 | [380222-northflower-the-last-watch.json](./380222-northflower-the-last-watch.json) |
+| Northgale | 389393 | [389393-northgale.json](./389393-northgale.json) |
 | Northgard | 18918 | [18918-northgard.json](./18918-northgard.json) |
 | Northgard Battlegrounds | 398523 | [398523-northgard-battlegrounds.json](./398523-northgard-battlegrounds.json) |
 | Northgard: Cross of Vidar Expansion Pack | 230821 | [230821-northgard-cross-of-vidar-expansion-pack.json](./230821-northgard-cross-of-vidar-expansion-pack.json) |
@@ -6073,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR homestay | 132191 | [132191-ntr-homestay.json](./132191-ntr-homestay.json) |
 | NTR Hunter: Hisako’s Secret | 386949 | [386949-ntr-hunter-hisako-s-secret.json](./386949-ntr-hunter-hisako-s-secret.json) |
 | NTR Life | 392884 | [392884-ntr-life.json](./392884-ntr-life.json) |
+| NTR Sexy Girl With Cold-hearded | 389765 | [389765-ntr-sexy-girl-with-cold-hearded.json](./389765-ntr-sexy-girl-with-cold-hearded.json) |
 | NTR!? NTRed!? Trendy Slut's One Million Yen Repaying Project! | 82647 | [82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json](./82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json) |
 | NTR'd By Clumsiness | 236205 | [236205-ntrd-by-clumsiness.json](./236205-ntrd-by-clumsiness.json) |
 | NTRed Class Rep Yukino: H Days of Class Rep Who Can't Say No | 83173 | [83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json](./83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json) |
