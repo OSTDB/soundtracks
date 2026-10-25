@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late for Class | 177287 | [177287-late-for-class.json](./177287-late-for-class.json) |
 | Late For Class: Variety King | 191252 | [191252-late-for-class-variety-king.json](./191252-late-for-class-variety-king.json) |
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
+| Late For Work | 43064 | [43064-late-for-work.json](./43064-late-for-work.json) |
 | Late Homework | 313188 | [313188-late-homework.json](./313188-late-homework.json) |
 | Late Hours | 383559 | [383559-late-hours.json](./383559-late-hours.json) |
 | Late Laundry | 312858 | [312858-late-laundry.json](./312858-late-laundry.json) |
@@ -4753,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Dew Drop | 265335 | [265335-little-dew-drop.json](./265335-little-dew-drop.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
+| Little Dog | 55720 | [55720-little-dog.json](./55720-little-dog.json) |
 | Little Dog Bob | 163784 | [163784-little-dog-bob.json](./163784-little-dog-bob.json) |
 | Little Doll Princess Oyatsu-hen | 222488 | [222488-little-doll-princess-oyatsu-hen.json](./222488-little-doll-princess-oyatsu-hen.json) |
 | Little Doll Princess: Ryouri-Hen | 222451 | [222451-little-doll-princess-ryouri-hen.json](./222451-little-doll-princess-ryouri-hen.json) |
