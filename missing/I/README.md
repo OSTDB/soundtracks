@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Fear I Trust: Episode 3 - Iron and Rust | 171363 | [171363-in-fear-i-trust-episode-3-iron-and-rust.json](./171363-in-fear-i-trust-episode-3-iron-and-rust.json) |
 | In Fear I Trust: Episode 4 - The Glimpse | 174176 | [174176-in-fear-i-trust-episode-4-the-glimpse.json](./174176-in-fear-i-trust-episode-4-the-glimpse.json) |
 | In Freedom Rest Ideal Tomorrows | 247900 | [247900-in-freedom-rest-ideal-tomorrows.json](./247900-in-freedom-rest-ideal-tomorrows.json) |
+| In Game Adventure: Legend of Monsters | 43127 | [43127-in-game-adventure-legend-of-monsters.json](./43127-in-game-adventure-legend-of-monsters.json) |
 | In Gehenna Fantasy Heroine Edition | 367735 | [367735-in-gehenna-fantasy-heroine-edition.json](./367735-in-gehenna-fantasy-heroine-edition.json) |
 | In Good Company | 184906 | [184906-in-good-company.json](./184906-in-good-company.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
