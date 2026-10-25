@@ -14976,6 +14976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Reels | 187833 | [187833-dungeon-reels.json](./187833-dungeon-reels.json) |
 | Dungeon Reels Tactics | 191714 | [191714-dungeon-reels-tactics.json](./191714-dungeon-reels-tactics.json) |
 | Dungeon Renovators | 224654 | [224654-dungeon-renovators.json](./224654-dungeon-renovators.json) |
+| Dungeon Repeater | 410062 | [410062-dungeon-repeater.json](./410062-dungeon-repeater.json) |
 | Dungeon Restaurant | 253281 | [253281-dungeon-restaurant.json](./253281-dungeon-restaurant.json) |
 | Dungeon Robber | 62269 | [62269-dungeon-robber.json](./62269-dungeon-robber.json) |
 | Dungeon Rollers | 151449 | [151449-dungeon-rollers.json](./151449-dungeon-rollers.json) |
