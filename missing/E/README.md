@@ -2244,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elon's Last Chance | 274545 | [274545-elons-last-chance.json](./274545-elons-last-chance.json) |
 | Elona | 50403 | [50403-elona.json](./50403-elona.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
+| Elona Shooter | 387901 | [387901-elona-shooter.json](./387901-elona-shooter.json) |
 | Elong Plug | 235686 | [235686-elong-plug.json](./235686-elong-plug.json) |
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
 | Eloquent Countenance | 200531 | [200531-eloquent-countenance.json](./200531-eloquent-countenance.json) |
@@ -3132,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Survival | 137856 | [137856-endless-survival.json](./137856-endless-survival.json) |
 | Endless Swarm | 70626 | [70626-endless-swarm.json](./70626-endless-swarm.json) |
 | Endless Tactics | 292379 | [292379-endless-tactics.json](./292379-endless-tactics.json) |
+| Endless TD | 388515 | [388515-endless-td.json](./388515-endless-td.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Thunder | 284278 | [284278-endless-thunder.json](./284278-endless-thunder.json) |
 | Endless Truck | 261084 | [261084-endless-truck.json](./261084-endless-truck.json) |
@@ -3651,6 +3653,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Citadel | 91847 | [91847-epic-citadel.json](./91847-epic-citadel.json) |
 | Epic City Builder 4 | 142194 | [142194-epic-city-builder-4.json](./142194-epic-city-builder-4.json) |
 | Epic Clicker Journey | 34134 | [34134-epic-clicker-journey.json](./34134-epic-clicker-journey.json) |
+| Epic Combo Redux | 387903 | [387903-epic-combo-redux.json](./387903-epic-combo-redux.json) |
+| Epic Combo! | 387904 | [387904-epic-combo.json](./387904-epic-combo.json) |
 | Epic Conquest | 129606 | [129606-epic-conquest.json](./129606-epic-conquest.json) |
 | Epic Crime Wars | 67168 | [67168-epic-crime-wars.json](./67168-epic-crime-wars.json) |
 | Epic Drag Puzools | 101632 | [101632-epic-drag-puzools.json](./101632-epic-drag-puzools.json) |
@@ -4614,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Together | 41898 | [41898-escape-together.json](./41898-escape-together.json) |
 | Escape Treasure Island | 108874 | [108874-escape-treasure-island.json](./108874-escape-treasure-island.json) |
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
+| Escape Tsunami: Take Brainrots! | 388523 | [388523-escape-tsunami-take-brainrots.json](./388523-escape-tsunami-take-brainrots.json) |
 | Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
 | Escape Velocity | 113399 | [113399-escape-velocity.json](./113399-escape-velocity.json) |
 | Escape Velocity | 334070 | [334070-escape-velocity.json](./334070-escape-velocity.json) |
@@ -4901,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Blood | 128304 | [128304-eternal-blood.json](./128304-eternal-blood.json) |
 | Eternal Burden | 291892 | [291892-eternal-burden.json](./291892-eternal-burden.json) |
 | Eternal Card Game | 31198 | [31198-eternal-card-game.json](./31198-eternal-card-game.json) |
+| Eternal Carnival | 390284 | [390284-eternal-carnival.json](./390284-eternal-carnival.json) |
 | Eternal Chamber | 422463 | [422463-eternal-chamber.json](./422463-eternal-chamber.json) |
 | Eternal Champions | 4477 | [4477-eternal-champions.json](./4477-eternal-champions.json) |
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
@@ -5057,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity | 313863 | [313863-eternity.json](./313863-eternity.json) |
 | Eternity | 321453 | [321453-eternity.json](./321453-eternity.json) |
 | Eternity | 364005 | [364005-eternity.json](./364005-eternity.json) |
+| Eternity | 387968 | [387968-eternity.json](./387968-eternity.json) |
 | Eternity | 407870 | [407870-eternity.json](./407870-eternity.json) |
 | Eternity Breaker | 376662 | [376662-eternity-breaker.json](./376662-eternity-breaker.json) |
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
