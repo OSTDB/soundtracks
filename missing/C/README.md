@@ -8939,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CMYW | 34607 | [34607-cmyw.json](./34607-cmyw.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
 | Co-Co Corn Mafia | 54838 | [54838-co-co-corn-mafia.json](./54838-co-co-corn-mafia.json) |
+| Co-Drive Chaos | 389952 | [389952-co-drive-chaos.json](./389952-co-drive-chaos.json) |
 | Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
 | Co-omets | 287247 | [287247-co-omets.json](./287247-co-omets.json) |
 | CO-OP : Decrypted | 17678 | [17678-co-op-decrypted.json](./17678-co-op-decrypted.json) |
@@ -9145,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Zero | 174081 | [174081-code-zero.json](./174081-code-zero.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code_18 | 18072 | [18072-code-18.json](./18072-code-18.json) |
+| Code-Black | 389913 | [389913-code-black.json](./389913-code-black.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Code: 9 | 361300 | [361300-code-9.json](./361300-code-9.json) |
 | Code: Antithesis | 355176 | [355176-code-antithesis.json](./355176-code-antithesis.json) |
@@ -14952,6 +14954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
 | Crumbling World | 115386 | [115386-crumbling-world.json](./115386-crumbling-world.json) |
+| Crumbs for a Week | 390280 | [390280-crumbs-for-a-week.json](./390280-crumbs-for-a-week.json) |
 | Crumpets | 141484 | [141484-crumpets.json](./141484-crumpets.json) |
 | Crumpets 2 | 287308 | [287308-crumpets-2.json](./287308-crumpets-2.json) |
 | Crumple Zone | 117365 | [117365-crumple-zone.json](./117365-crumple-zone.json) |
@@ -16229,6 +16232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fables: Before the Clock Strikes - Collector's Edition | 362841 | [362841-cursed-fables-before-the-clock-strikes-collectors-edition.json](./362841-cursed-fables-before-the-clock-strikes-collectors-edition.json) |
 | Cursed Fables: Twisted Tower | 247419 | [247419-cursed-fables-twisted-tower.json](./247419-cursed-fables-twisted-tower.json) |
 | Cursed Fables: Twisted Tower - Collector's Edition | 236203 | [236203-cursed-fables-twisted-tower-collectors-edition.json](./236203-cursed-fables-twisted-tower-collectors-edition.json) |
+| Cursed Ghost | 389918 | [389918-cursed-ghost.json](./389918-cursed-ghost.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
 | Cursed Halls | 244217 | [244217-cursed-halls.json](./244217-cursed-halls.json) |
 | Cursed Halo Again | 252123 | [252123-cursed-halo-again.json](./252123-cursed-halo-again.json) |
