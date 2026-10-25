@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Vol. 7: Safe Journey | 317450 | [317450-learn-to-play-vol-7-safe-journey.json](./317450-learn-to-play-vol-7-safe-journey.json) |
 | Learn to Play vol. 8: Penalty Shootout | 322416 | [322416-learn-to-play-vol-8-penalty-shootout.json](./322416-learn-to-play-vol-8-penalty-shootout.json) |
 | Learn to Play: Jungle Frog | 358660 | [358660-learn-to-play-jungle-frog.json](./358660-learn-to-play-jungle-frog.json) |
+| Learn with Illustrations! English Prepositions 4-Choice Quiz | 399658 | [399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json](./399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json) |
 | LearnEng - The Word Maker | 110856 | [110856-learneng-the-word-maker.json](./110856-learneng-the-word-maker.json) |
 | Learning a Foreign Language Is No Easy Task, for Sure | 179039 | [179039-learning-a-foreign-language-is-no-easy-task-for-sure.json](./179039-learning-a-foreign-language-is-no-easy-task-for-sure.json) |
 | Learning Factory | 137918 | [137918-learning-factory.json](./137918-learning-factory.json) |
@@ -5566,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Up | 137990 | [137990-locked-up.json](./137990-locked-up.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
 | Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
+| Locked-Room Mystery: Hidden Truths in Everyday Life | 399657 | [399657-locked-room-mystery-hidden-truths-in-everyday-life.json](./399657-locked-room-mystery-hidden-truths-in-everyday-life.json) |
 | Lockehorn | 422665 | [422665-lockehorn.json](./422665-lockehorn.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Lockey | 412471 | [412471-lockey.json](./412471-lockey.json) |
@@ -8032,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
 | Lunadra: Luna Awakens the Legendary Dragon | 406938 | [406938-lunadra-luna-awakens-the-legendary-dragon.json](./406938-lunadra-luna-awakens-the-legendary-dragon.json) |
+| Lunadun: Lunatic Dungeon | 399578 | [399578-lunadun-lunatic-dungeon.json](./399578-lunadun-lunatic-dungeon.json) |
 | Lunaela | 200430 | [200430-lunaela.json](./200430-lunaela.json) |
 | Lunaform | 44131 | [44131-lunaform.json](./44131-lunaform.json) |
 | LunaGenesis | 405925 | [405925-lunagenesis.json](./405925-lunagenesis.json) |
