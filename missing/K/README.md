@@ -4969,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kungfu Football Captain | 153931 | [153931-kungfu-football-captain.json](./153931-kungfu-football-captain.json) |
 | KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
 | Kungfu Ragdoll | 214061 | [214061-kungfu-ragdoll.json](./214061-kungfu-ragdoll.json) |
+| KungFu Town VR | 76525 | [76525-kungfu-town-vr.json](./76525-kungfu-town-vr.json) |
 | Kungfucious - VR Kung Fu Wuxia Simulator | 114246 | [114246-kungfucious-vr-kung-fu-wuxia-simulator.json](./114246-kungfucious-vr-kung-fu-wuxia-simulator.json) |
 | Kuni Chan no Game Tengoku | 45271 | [45271-kuni-chan-no-game-tengoku.json](./45271-kuni-chan-no-game-tengoku.json) |
 | Kuni Chan no Game Tengoku Part 2 | 45270 | [45270-kuni-chan-no-game-tengoku-part-2.json](./45270-kuni-chan-no-game-tengoku-part-2.json) |
