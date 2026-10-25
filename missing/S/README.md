@@ -5237,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
 | Sexy New Year | 240041 | [240041-sexy-new-year.json](./240041-sexy-new-year.json) |
 | Sexy Nurse Puzzle | 367288 | [367288-sexy-nurse-puzzle.json](./367288-sexy-nurse-puzzle.json) |
+| Sexy Poker | 21217 | [21217-sexy-poker.json](./21217-sexy-poker.json) |
 | Sexy Pussies | 384875 | [384875-sexy-pussies.json](./384875-sexy-pussies.json) |
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
 | Sexy Sliders | 367269 | [367269-sexy-sliders.json](./367269-sexy-sliders.json) |
@@ -18421,6 +18422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports World Tour: Penalty Challenge | 60389 | [60389-sports-world-tour-penalty-challenge.json](./60389-sports-world-tour-penalty-challenge.json) |
 | Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
 | Sports! | 230334 | [230334-sports.json](./230334-sports.json) |
+| Sportsball | 21708 | [21708-sportsball.json](./21708-sportsball.json) |
 | SportsBarVR | 52837 | [52837-sportsbarvr.json](./52837-sportsbarvr.json) |
 | SportsBlitz | 393985 | [393985-sportsblitz.json](./393985-sportsblitz.json) |
 | Sportsfriends | 9865 | [9865-sportsfriends.json](./9865-sportsfriends.json) |
@@ -18553,6 +18555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springy | 141600 | [141600-springy.json](./141600-springy.json) |
 | Springy: A Bounce Adventure | 216876 | [216876-springy-a-bounce-adventure.json](./216876-springy-a-bounce-adventure.json) |
 | Sprinkfield | 241333 | [241333-sprinkfield.json](./241333-sprinkfield.json) |
+| Sprinkle Islands | 22163 | [22163-sprinkle-islands.json](./22163-sprinkle-islands.json) |
 | Sprinklebottom and the Haunted Ruins | 385217 | [385217-sprinklebottom-and-the-haunted-ruins.json](./385217-sprinklebottom-and-the-haunted-ruins.json) |
 | Sprinkler & Ghost | 216249 | [216249-sprinkler-and-ghost.json](./216249-sprinkler-and-ghost.json) |
 | Sprint | 246481 | [246481-sprint.json](./246481-sprint.json) |
@@ -19915,6 +19918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
 | Star Wars Outlaws: Wild Card | 315804 | [315804-star-wars-outlaws-wild-card.json](./315804-star-wars-outlaws-wild-card.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
+| Star Wars Pinball: The Empire Strikes Back | 22196 | [22196-star-wars-pinball-the-empire-strikes-back.json](./22196-star-wars-pinball-the-empire-strikes-back.json) |
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
 | Star Wars Rebels: Recon Missions | 23976 | [23976-star-wars-rebels-recon-missions.json](./23976-star-wars-rebels-recon-missions.json) |
@@ -21018,6 +21022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal It | 298455 | [298455-steal-it.json](./298455-steal-it.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
 | Steal Out | 361863 | [361863-steal-out.json](./361863-steal-out.json) |
+| Steal Princess | 21186 | [21186-steal-princess.json](./21186-steal-princess.json) |
 | Steal Santa's Pills | 383720 | [383720-steal-santas-pills.json](./383720-steal-santas-pills.json) |
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
 | Steal The Pig | 344448 | [344448-steal-the-pig.json](./344448-steal-the-pig.json) |
@@ -21224,6 +21229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Fight | 116920 | [116920-steel-fight.json](./116920-steel-fight.json) |
 | Steel Flood | 275710 | [275710-steel-flood.json](./275710-steel-flood.json) |
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
+| Steel Fury: Kharkov 1942 | 21219 | [21219-steel-fury-kharkov-1942.json](./21219-steel-fury-kharkov-1942.json) |
 | Steel Graves | 143583 | [143583-steel-graves.json](./143583-steel-graves.json) |
 | Steel Guardian | 204364 | [204364-steel-guardian.json](./204364-steel-guardian.json) |
 | Steel Gullet | 417436 | [417436-steel-gullet.json](./417436-steel-gullet.json) |
@@ -22859,6 +22865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Tekken: Xiaoyu (Swap Costume) | 388821 | [388821-street-fighter-x-tekken-xiaoyu-swap-costume.json](./388821-street-fighter-x-tekken-xiaoyu-swap-costume.json) |
 | Street Fighter X Tekken: Zangief (Swap Costume) | 388829 | [388829-street-fighter-x-tekken-zangief-swap-costume.json](./388829-street-fighter-x-tekken-zangief-swap-costume.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
+| Street Fighter Zero 3 Upper | 22221 | [22221-street-fighter-zero-3-upper.json](./22221-street-fighter-zero-3-upper.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Fighter: Puzzle Spirits | 60889 | [60889-street-fighter-puzzle-spirits.json](./60889-street-fighter-puzzle-spirits.json) |
 | Street Fighter: The Movie | 134337 | [134337-street-fighter-the-movie.json](./134337-street-fighter-the-movie.json) |
@@ -26940,6 +26947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stereotypical: The Rise of Indiemania | 200879 | [200879-super-stereotypical-the-rise-of-indiemania.json](./200879-super-stereotypical-the-rise-of-indiemania.json) |
 | Super Sticker Studio: Creative Sticker Book Game for Kids | 389074 | [389074-super-sticker-studio-creative-sticker-book-game-for-kids.json](./389074-super-sticker-studio-creative-sticker-book-game-for-kids.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
+| Super Stickman Golf 2 | 22170 | [22170-super-stickman-golf-2.json](./22170-super-stickman-golf-2.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
 | Super Storm | 42144 | [42144-super-storm.json](./42144-super-storm.json) |
 | Super Strawberry Clock | 361284 | [361284-super-strawberry-clock.json](./361284-super-strawberry-clock.json) |
@@ -28693,6 +28701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Color 2018 | 104774 | [104774-switch-color-2018.json](./104774-switch-color-2018.json) |
 | Switch Colors+ | 187984 | [187984-switch-colors.json](./187984-switch-colors.json) |
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
+| Switch Galaxy | 22198 | [22198-switch-galaxy.json](./22198-switch-galaxy.json) |
 | Switch Galaxy Ultra | 35517 | [35517-switch-galaxy-ultra.json](./35517-switch-galaxy-ultra.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
 | Switch or Not? | 95951 | [95951-switch-or-not.json](./95951-switch-or-not.json) |
