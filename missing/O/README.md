@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OhMyRace! | 274900 | [274900-ohmyrace.json](./274900-ohmyrace.json) |
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
 | Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
+| Ohota Krepkoe | 43102 | [43102-ohota-krepkoe.json](./43102-ohota-krepkoe.json) |
 | Ohr Oni | 186620 | [186620-ohr-oni.json](./186620-ohr-oni.json) |
 | OhShape Ultimate | 299488 | [299488-ohshape-ultimate.json](./299488-ohshape-ultimate.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
