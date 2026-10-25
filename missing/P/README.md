@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Run | 55267 | [55267-panda-run.json](./55267-panda-run.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
 | Panda vs. Bugs | 196555 | [196555-panda-vs-bugs.json](./196555-panda-vs-bugs.json) |
+| Panda: Go Home! | 389760 | [389760-panda-go-home.json](./389760-panda-go-home.json) |
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
 | Panda's Village | 241886 | [241886-pandas-village.json](./241886-pandas-village.json) |
 | PandaBomber | 367559 | [367559-pandabomber.json](./367559-pandabomber.json) |
