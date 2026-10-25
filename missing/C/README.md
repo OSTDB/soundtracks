@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Wrapper | 184297 | [184297-candy-wrapper.json](./184297-candy-wrapper.json) |
 | Candy Zero | 249313 | [249313-candy-zero.json](./249313-candy-zero.json) |
 | Candy, Please! | 57157 | [57157-candy-please.json](./57157-candy-please.json) |
+| Candy's Adventure: Speedrunners Copy | 416989 | [416989-candys-adventure-speedrunners-copy.json](./416989-candys-adventure-speedrunners-copy.json) |
 | Candy's Custom Night | 336343 | [336343-candys-custom-night.json](./336343-candys-custom-night.json) |
 | Candybox: Mobile | 402348 | [402348-candybox-mobile.json](./402348-candybox-mobile.json) |
 | Candyboy | 236351 | [236351-candyboy.json](./236351-candyboy.json) |
@@ -3311,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Warfare | 107806 | [107806-cat-warfare.json](./107806-cat-warfare.json) |
 | Cat Warrior | 281983 | [281983-cat-warrior.json](./281983-cat-warrior.json) |
 | Cat Wash | 52501 | [52501-cat-wash.json](./52501-cat-wash.json) |
+| Cat Watch | 416967 | [416967-cat-watch.json](./416967-cat-watch.json) |
 | Cat Way Domino | 159552 | [159552-cat-way-domino.json](./159552-cat-way-domino.json) |
 | Cat With Gun | 363369 | [363369-cat-with-gun.json](./363369-cat-with-gun.json) |
 | Cat Word Poker | 131313 | [131313-cat-word-poker.json](./131313-cat-word-poker.json) |
@@ -3662,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Toge Land | 328415 | [328415-cats-and-seek-toge-land.json](./328415-cats-and-seek-toge-land.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
+| Cats and Tails | 416968 | [416968-cats-and-tails.json](./416968-cats-and-tails.json) |
 | Cats are Cute | 130604 | [130604-cats-are-cute.json](./130604-cats-are-cute.json) |
 | Cats are Cute: Pop Time! | 322124 | [322124-cats-are-cute-pop-time.json](./322124-cats-are-cute-pop-time.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
@@ -3817,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Causeway | 105406 | [105406-causeway.json](./105406-causeway.json) |
 | Causeway | 242445 | [242445-causeway.json](./242445-causeway.json) |
 | Caustic Bloom | 284803 | [284803-caustic-bloom.json](./284803-caustic-bloom.json) |
+| Caustic Murmurs | 416998 | [416998-caustic-murmurs.json](./416998-caustic-murmurs.json) |
 | Caution | 229590 | [229590-caution.json](./229590-caution.json) |
 | Caution Ahead: Part 2 | 305142 | [305142-caution-ahead-part-2.json](./305142-caution-ahead-part-2.json) |
 | Caution Wet Paint | 405733 | [405733-caution-wet-paint.json](./405733-caution-wet-paint.json) |
@@ -5717,6 +5721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Little | 343127 | [343127-chicken-little.json](./343127-chicken-little.json) |
 | Chicken Little: Batting Practice | 343129 | [343129-chicken-little-batting-practice.json](./343129-chicken-little-batting-practice.json) |
 | Chicken Little: Galactic Traveler | 343128 | [343128-chicken-little-galactic-traveler.json](./343128-chicken-little-galactic-traveler.json) |
+| Chicken Miner | 417000 | [417000-chicken-miner.json](./417000-chicken-miner.json) |
 | Chicken Nuggets | 180224 | [180224-chicken-nuggets.json](./180224-chicken-nuggets.json) |
 | Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
 | Chicken Outbreak | 96850 | [96850-chicken-outbreak.json](./96850-chicken-outbreak.json) |
@@ -6368,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chorizo | 217409 | [217409-chorizo.json](./217409-chorizo.json) |
 | Chornobyl Breakout | 372279 | [372279-chornobyl-breakout.json](./372279-chornobyl-breakout.json) |
 | Chornobyl Liquidators | 146315 | [146315-chornobyl-liquidators.json](./146315-chornobyl-liquidators.json) |
+| Chornobyl Quest | 416960 | [416960-chornobyl-quest.json](./416960-chornobyl-quest.json) |
 | Choro 2021 | 186127 | [186127-choro-2021.json](./186127-choro-2021.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
@@ -6779,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicon: Survivors | 314369 | [314369-chronicon-survivors.json](./314369-chronicon-survivors.json) |
 | Chronicon: The Mechanist | 233560 | [233560-chronicon-the-mechanist.json](./233560-chronicon-the-mechanist.json) |
 | Chronime Puzzle: Animals | 423869 | [423869-chronime-puzzle-animals.json](./423869-chronime-puzzle-animals.json) |
+| Chronime Puzzle: Cats | 416969 | [416969-chronime-puzzle-cats.json](./416969-chronime-puzzle-cats.json) |
 | Chronime Puzzle: Dogs | 418572 | [418572-chronime-puzzle-dogs.json](./418572-chronime-puzzle-dogs.json) |
 | Chronique des Silencieux | 218671 | [218671-chronique-des-silencieux.json](./218671-chronique-des-silencieux.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
@@ -8470,6 +8477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Survivors | 223512 | [223512-clockwork-survivors.json](./223512-clockwork-survivors.json) |
 | Clockwork Tales: Of Glass and Ink | 17141 | [17141-clockwork-tales-of-glass-and-ink.json](./17141-clockwork-tales-of-glass-and-ink.json) |
 | Clodhoppers | 117586 | [117586-clodhoppers.json](./117586-clodhoppers.json) |
+| Clogwork | 416944 | [416944-clogwork.json](./416944-clogwork.json) |
 | Cloisterfuck | 271296 | [271296-cloisterfuck.json](./271296-cloisterfuck.json) |
 | Clone | 217844 | [217844-clone.json](./217844-clone.json) |
 | Clone | 336972 | [336972-clone.json](./336972-clone.json) |
