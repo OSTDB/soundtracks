@@ -2948,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
 | Recolorize | 357104 | [357104-recolorize.json](./357104-recolorize.json) |
 | Recommendation Dog!! | 151983 | [151983-recommendation-dog.json](./151983-recommendation-dog.json) |
+| Recon Bracks | 397284 | [397284-recon-bracks.json](./397284-recon-bracks.json) |
 | Recon Control | 156914 | [156914-recon-control.json](./156914-recon-control.json) |
 | Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
 | Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
