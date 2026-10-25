@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Echoes | 380758 | [380758-fading-echoes.json](./380758-fading-echoes.json) |
 | Fading Existence | 179029 | [179029-fading-existence.json](./179029-fading-existence.json) |
 | Fading Faith | 312218 | [312218-fading-faith.json](./312218-fading-faith.json) |
+| Fading Five | 395963 | [395963-fading-five.json](./395963-fading-five.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
 | Fading Hearts | 16778 | [16778-fading-hearts.json](./16778-fading-hearts.json) |
 | Fading Light and Summer's Shadow | 411769 | [411769-fading-light-and-summers-shadow.json](./411769-fading-light-and-summers-shadow.json) |
@@ -2334,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
 | Farming Tractor Simulator 2024: Drive Combine & Trucks - Premium Edition | 309044 | [309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json](./309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json) |
 | Farming Tractor Simulator: Big Farm | 238346 | [238346-farming-tractor-simulator-big-farm.json](./238346-farming-tractor-simulator-big-farm.json) |
+| Farming TriPeaks Solitaire | 395966 | [395966-farming-tripeaks-solitaire.json](./395966-farming-tripeaks-solitaire.json) |
 | Farming Village | 121491 | [121491-farming-village.json](./121491-farming-village.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farming-Simulator 2008 | 3168 | [3168-farming-simulator-2008.json](./3168-farming-simulator-2008.json) |
@@ -3246,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
 | Feng-Shui Master | 256708 | [256708-feng-shui-master.json](./256708-feng-shui-master.json) |
 | Fengdu: Chronicles of Battle | 318064 | [318064-fengdu-chronicles-of-battle.json](./318064-fengdu-chronicles-of-battle.json) |
+| Fèngjīng Mìshì | 395958 | [395958-fengjing-mishi.json](./395958-fengjing-mishi.json) |
 | Fēngkuáng Pào Pào Bǔyú | 369187 | [369187-fengkuang-pao-pao-buyu.json](./369187-fengkuang-pao-pao-buyu.json) |
 | Féngmó zhī Shí | 156692 | [156692-fengmo-zhi-shi.json](./156692-fengmo-zhi-shi.json) |
 | Fēngsè Huànxiǎng 4: Shèngzhàn de Zhōngyān | 77236 | [77236-fengse-huanxiang-4-shengzhan-de-zhongyan.json](./77236-fengse-huanxiang-4-shengzhan-de-zhongyan.json) |
