@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail 'Gator | 49063 | [49063-tail-gator.json](./49063-tail-gator.json) |
 | Tail & Trails | 259525 | [259525-tail-and-trails.json](./259525-tail-and-trails.json) |
 | Tail and Сhaos | 410312 | [410312-tail-and-haos.json](./410312-tail-and-haos.json) |
+| Tail Chaser | 401451 | [401451-tail-chaser.json](./401451-tail-chaser.json) |
 | Tail Concerto | 38513 | [38513-tail-concerto.json](./38513-tail-concerto.json) |
 | Tail Drift | 17980 | [17980-tail-drift.json](./17980-tail-drift.json) |
 | Tail Gun Charlie | 70624 | [70624-tail-gun-charlie.json](./70624-tail-gun-charlie.json) |
@@ -6464,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curious Tale of the Stolen Pets | 119332 | [119332-the-curious-tale-of-the-stolen-pets.json](./119332-the-curious-tale-of-the-stolen-pets.json) |
 | The Curry Simulator | 364106 | [364106-the-curry-simulator.json](./364106-the-curry-simulator.json) |
 | The Curse | 356144 | [356144-the-curse.json](./356144-the-curse.json) |
+| The Curse 404 | 401440 | [401440-the-curse-404.json](./401440-the-curse-404.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
 | The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
 | The Curse of Blackwater | 63118 | [63118-the-curse-of-blackwater.json](./63118-the-curse-of-blackwater.json) |
@@ -12100,6 +12102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
 | The Pact | 251374 | [251374-the-pact.json](./251374-the-pact.json) |
+| The Pact | 401478 | [401478-the-pact.json](./401478-the-pact.json) |
 | The Paddy Field | 328934 | [328934-the-paddy-field.json](./328934-the-paddy-field.json) |
 | The Padre | 74907 | [74907-the-padre.json](./74907-the-padre.json) |
 | The Pagemaster | 209009 | [209009-the-pagemaster.json](./209009-the-pagemaster.json) |
@@ -16669,8 +16672,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorn: Knight of the Fifteenth City | 336331 | [336331-thorn-knight-of-the-fifteenth-city.json](./336331-thorn-knight-of-the-fifteenth-city.json) |
 | Thorne - Death Merchants | 33265 | [33265-thorne-death-merchants.json](./33265-thorne-death-merchants.json) |
 | Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
+| Thornkin | 401439 | [401439-thornkin.json](./401439-thornkin.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
 | Thorns: Adlia | 301067 | [301067-thorns-adlia.json](./301067-thorns-adlia.json) |
+| Thornspell | 401464 | [401464-thornspell.json](./401464-thornspell.json) |
 | Thornyway | 28656 | [28656-thornyway.json](./28656-thornyway.json) |
 | Thoroughbred Breeder | 37789 | [37789-thoroughbred-breeder.json](./37789-thoroughbred-breeder.json) |
 | Thoroughbred Breeder II | 37788 | [37788-thoroughbred-breeder-ii.json](./37788-thoroughbred-breeder-ii.json) |
@@ -22232,6 +22237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
 | Tow Truck | 310153 | [310153-tow-truck.json](./310153-tow-truck.json) |
 | Tow Truck Driver Simulator 2023 | 261111 | [261111-tow-truck-driver-simulator-2023.json](./261111-tow-truck-driver-simulator-2023.json) |
+| Tow Truck Police Simulator | 401438 | [401438-tow-truck-police-simulator.json](./401438-tow-truck-police-simulator.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Towa Tsugai | 222776 | [222776-towa-tsugai.json](./222776-towa-tsugai.json) |
