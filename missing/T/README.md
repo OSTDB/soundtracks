@@ -3503,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi no Uta: The Angel's Verse Collection | 409512 | [409512-tenshi-no-uta-the-angels-verse-collection.json](./409512-tenshi-no-uta-the-angels-verse-collection.json) |
+| Tenshi Sword Quest | 389935 | [389935-tenshi-sword-quest.json](./389935-tenshi-sword-quest.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
 | Tenshi-tachi no Gogo IV: Yuuko | 271421 | [271421-tenshi-tachi-no-gogo-iv-yuuko.json](./271421-tenshi-tachi-no-gogo-iv-yuuko.json) |
@@ -4560,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of Amethyst Knight | 368028 | [368028-the-adventure-of-amethyst-knight.json](./368028-the-adventure-of-amethyst-knight.json) |
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
 | The Adventure of Little Ralph | 44856 | [44856-the-adventure-of-little-ralph.json](./44856-the-adventure-of-little-ralph.json) |
+| The Adventure of Natsuki Hinomiya | 390289 | [390289-the-adventure-of-natsuki-hinomiya.json](./390289-the-adventure-of-natsuki-hinomiya.json) |
 | The Adventure of Nayu | 142651 | [142651-the-adventure-of-nayu.json](./142651-the-adventure-of-nayu.json) |
 | The Adventure of Ninomae Ina'nis | 321522 | [321522-the-adventure-of-ninomae-inanis.json](./321522-the-adventure-of-ninomae-inanis.json) |
 | The Adventure of Popo | 309948 | [309948-the-adventure-of-popo.json](./309948-the-adventure-of-popo.json) |
@@ -11029,6 +11031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Levels Enhanced | 268342 | [268342-the-lost-levels-enhanced.json](./268342-the-lost-levels-enhanced.json) |
 | The Lost Levels Enhanced | 38254 | [38254-the-lost-levels-enhanced.json](./38254-the-lost-levels-enhanced.json) |
 | The Lost Light of Sisu | 114874 | [114874-the-lost-light-of-sisu.json](./114874-the-lost-light-of-sisu.json) |
+| The Lost Lunch | 389946 | [389946-the-lost-lunch.json](./389946-the-lost-lunch.json) |
 | The Lost Magic | 268971 | [268971-the-lost-magic.json](./268971-the-lost-magic.json) |
 | The Lost Marble | 161390 | [161390-the-lost-marble.json](./161390-the-lost-marble.json) |
 | The Lost Medallion | 64356 | [64356-the-lost-medallion.json](./64356-the-lost-medallion.json) |
@@ -12271,6 +12274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect General | 4328 | [4328-the-perfect-general.json](./4328-the-perfect-general.json) |
 | The Perfect Match | 68420 | [68420-the-perfect-match.json](./68420-the-perfect-match.json) |
+| The Perfect Portrait | 390015 | [390015-the-perfect-portrait.json](./390015-the-perfect-portrait.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
 | The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
@@ -18826,6 +18830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileSwitcher | 202028 | [202028-tileswitcher.json](./202028-tileswitcher.json) |
 | TileTurn | 288599 | [288599-tileturn.json](./288599-tileturn.json) |
 | TileUp | 363577 | [363577-tileup.json](./363577-tileup.json) |
+| Tileweaver | 390013 | [390013-tileweaver.json](./390013-tileweaver.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
 | Tiling Town | 381417 | [381417-tiling-town.json](./381417-tiling-town.json) |
 | Till Death Rolls Us Apart | 400544 | [400544-till-death-rolls-us-apart.json](./400544-till-death-rolls-us-apart.json) |
