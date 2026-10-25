@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
 | Jinsei Owata no Daibouken | 285132 | [285132-jinsei-owata-no-daibouken.json](./285132-jinsei-owata-no-daibouken.json) |
 | Jinshin | 208100 | [208100-jinshin.json](./208100-jinshin.json) |
+| Jinx | 22223 | [22223-jinx.json](./22223-jinx.json) |
 | Jinx | 369191 | [369191-jinx.json](./369191-jinx.json) |
 | Jinx 3: Escape From Area Fitty-Two | 383493 | [383493-jinx-3-escape-from-area-fitty-two.json](./383493-jinx-3-escape-from-area-fitty-two.json) |
 | Jinx: A Dark and Stormy Night | 186143 | [186143-jinx-a-dark-and-stormy-night.json](./186143-jinx-a-dark-and-stormy-night.json) |
