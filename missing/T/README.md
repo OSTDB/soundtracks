@@ -13039,6 +13039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Scuttle | 116216 | [116216-the-scuttle.json](./116216-the-scuttle.json) |
 | The Sea and You | 284249 | [284249-the-sea-and-you.json](./284249-the-sea-and-you.json) |
+| The Sea Between | 110724 | [110724-the-sea-between.json](./110724-the-sea-between.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
 | The Sea Is Our Stage | 415994 | [415994-the-sea-is-our-stage.json](./415994-the-sea-is-our-stage.json) |
@@ -16581,6 +16582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThreadSpace: Hyperbol | 14802 | [14802-threadspace-hyperbol.json](./14802-threadspace-hyperbol.json) |
 | Threat | 94410 | [94410-threat.json](./94410-threat.json) |
 | Threat Actor | 245745 | [245745-threat-actor.json](./245745-threat-actor.json) |
+| ThreatGen: Red vs. Blue | 113812 | [113812-threatgen-red-vs-blue.json](./113812-threatgen-red-vs-blue.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Cards to Midnight | 67830 | [67830-three-cards-to-midnight.json](./67830-three-cards-to-midnight.json) |
@@ -18834,6 +18836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Stop Time | 121452 | [121452-time-to-stop-time.json](./121452-time-to-stop-time.json) |
 | Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
 | Time To Wake Up | 356259 | [356259-time-to-wake-up.json](./356259-time-to-wake-up.json) |
+| Time Transit VR | 113727 | [113727-time-transit-vr.json](./113727-time-transit-vr.json) |
 | Time Trap: Hidden Objects | 287108 | [287108-time-trap-hidden-objects.json](./287108-time-trap-hidden-objects.json) |
 | Time Trap: Hidden Objects | 51978 | [51978-time-trap-hidden-objects.json](./51978-time-trap-hidden-objects.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
@@ -22046,6 +22049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Arena Survive | 348022 | [348022-tower-arena-survive.json](./348022-tower-arena-survive.json) |
 | Tower Attack | 174056 | [174056-tower-attack.json](./174056-tower-attack.json) |
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
+| Tower Behind the Moon | 113808 | [113808-tower-behind-the-moon.json](./113808-tower-behind-the-moon.json) |
 | Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
 | Tower Bloxx: New York | 66423 | [66423-tower-bloxx-new-york.json](./66423-tower-bloxx-new-york.json) |
