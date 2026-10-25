@@ -12806,6 +12806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadhunter | 221117 | [221117-dreadhunter.json](./221117-dreadhunter.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
+| Dreadmiles | 425500 | [425500-dreadmiles.json](./425500-dreadmiles.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | Dreadnought | 266432 | [266432-dreadnought.json](./266432-dreadnought.json) |
@@ -13675,6 +13676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DRM: Death Ray Manta | 22197 | [22197-drm-death-ray-manta.json](./22197-drm-death-ray-manta.json) |
 | DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
 | Drod RPG 2 | 363048 | [363048-drod-rpg-2.json](./363048-drod-rpg-2.json) |
+| DROD RPG: Tendry's Tale | 8991 | [8991-drod-rpg-tendrys-tale.json](./8991-drod-rpg-tendrys-tale.json) |
 | DROD: Journey to Rooted Hold | 9085 | [9085-drod-journey-to-rooted-hold.json](./9085-drod-journey-to-rooted-hold.json) |
 | DROD: King Dugan's Dungeon | 9084 | [9084-drod-king-dugans-dungeon.json](./9084-drod-king-dugans-dungeon.json) |
 | DROD: The City Beneath | 9086 | [9086-drod-the-city-beneath.json](./9086-drod-the-city-beneath.json) |
@@ -15733,6 +15735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyrocraft 2: Reborn | 394107 | [394107-dyrocraft-2-reborn.json](./394107-dyrocraft-2-reborn.json) |
 | Dys: Eternal Space Jail RPG | 142362 | [142362-dys-eternal-space-jail-rpg.json](./142362-dys-eternal-space-jail-rpg.json) |
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
+| Dysan the Shapeshifter | 8703 | [8703-dysan-the-shapeshifter.json](./8703-dysan-the-shapeshifter.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Definitive Edition | 273326 | [273326-dyschronia-chronos-alternate-definitive-edition.json](./273326-dyschronia-chronos-alternate-definitive-edition.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
