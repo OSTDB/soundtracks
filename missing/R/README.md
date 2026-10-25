@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen or Jail | 190992 | [190992-ramen-or-jail.json](./190992-ramen-or-jail.json) |
 | Ramen Shop Simulator | 337287 | [337287-ramen-shop-simulator.json](./337287-ramen-shop-simulator.json) |
 | Ramen Simulator | 339984 | [339984-ramen-simulator.json](./339984-ramen-simulator.json) |
+| Ramen://Protocol | 410658 | [410658-ramen-protocol.json](./410658-ramen-protocol.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Rami-chan no Ooedo Sugoroku: Keio Yuugeki-tai Gaiden | 66215 | [66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json](./66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json) |
@@ -5610,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Good | 216207 | [216207-rhythm-good.json](./216207-rhythm-good.json) |
 | Rhythm Heaven Fever | 5122 | [5122-rhythm-heaven-fever.json](./5122-rhythm-heaven-fever.json) |
 | Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
+| Rhythm Heaven Groove: Memory Match-Up | 410642 | [410642-rhythm-heaven-groove-memory-match-up.json](./410642-rhythm-heaven-groove-memory-match-up.json) |
 | Rhythm Heaven Megamix | 18220 | [18220-rhythm-heaven-megamix.json](./18220-rhythm-heaven-megamix.json) |
 | Rhythm Heaven Megamix: Sonic 2 Edition | 314490 | [314490-rhythm-heaven-megamix-sonic-2-edition.json](./314490-rhythm-heaven-megamix-sonic-2-edition.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
@@ -9758,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Challenge | 3009 | [3009-rugby-challenge.json](./3009-rugby-challenge.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
+| Rugby Golf | 410662 | [410662-rugby-golf.json](./410662-rugby-golf.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
 | Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
 | Rugby League | 6021 | [6021-rugby-league.json](./6021-rugby-league.json) |
