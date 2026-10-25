@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukyo Station | 216809 | [216809-yukyo-station.json](./216809-yukyo-station.json) |
 | Yul-Hyul Kangho M: Ruler of the Land | 174624 | [174624-yul-hyul-kangho-m-ruler-of-the-land.json](./174624-yul-hyul-kangho-m-ruler-of-the-land.json) |
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
+| Yule Dads | 423226 | [423226-yule-dads.json](./423226-yule-dads.json) |
 | Yule Sock | 178610 | [178610-yule-sock.json](./178610-yule-sock.json) |
 | Yuletide Legends: Frozen Hearts | 415949 | [415949-yuletide-legends-frozen-hearts.json](./415949-yuletide-legends-frozen-hearts.json) |
 | Yuletide Legends: Who Framed Santa Claus | 127738 | [127738-yuletide-legends-who-framed-santa-claus.json](./127738-yuletide-legends-who-framed-santa-claus.json) |
