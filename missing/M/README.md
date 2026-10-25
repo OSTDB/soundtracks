@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.S. Salmon | 211236 | [211236-m-s-salmon.json](./211236-m-s-salmon.json) |
 | M.Stain | 147298 | [147298-m-stain.json](./147298-m-stain.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
+| M.U.D. TV | 9199 | [9199-m-u-d-tv.json](./9199-m-u-d-tv.json) |
 | M.U.L.E. | 23895 | [23895-m-u-l-e.json](./23895-m-u-l-e.json) |
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
@@ -2160,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Making of Conquerors | 184915 | [184915-making-of-conquerors.json](./184915-making-of-conquerors.json) |
 | Making of Nightruth II: Voice Selection | 98290 | [98290-making-of-nightruth-ii-voice-selection.json](./98290-making-of-nightruth-ii-voice-selection.json) |
+| Making Room? | 425488 | [425488-making-room.json](./425488-making-room.json) |
 | Making the Game | 256118 | [256118-making-the-game.json](./256118-making-the-game.json) |
 | Making The Leap | 285150 | [285150-making-the-leap.json](./285150-making-the-leap.json) |
 | Makiomino | 196040 | [196040-makiomino.json](./196040-makiomino.json) |
@@ -8285,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro: Last Light - Faction Pack | 128647 | [128647-metro-last-light-faction-pack.json](./128647-metro-last-light-faction-pack.json) |
 | Metro: Last Light - Limited Edition | 47429 | [47429-metro-last-light-limited-edition.json](./47429-metro-last-light-limited-edition.json) |
 | Metro.Siberia | 283743 | [283743-metro-siberia.json](./283743-metro-siberia.json) |
+| Metrocide | 8757 | [8757-metrocide.json](./8757-metrocide.json) |
 | Metrocubevania | 218309 | [218309-metrocubevania.json](./218309-metrocubevania.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
@@ -9619,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millia -The ending- | 33912 | [33912-millia-the-ending.json](./33912-millia-the-ending.json) |
 | MilliBilli Slots | 232540 | [232540-millibilli-slots.json](./232540-millibilli-slots.json) |
 | Millidor | 81670 | [81670-millidor.json](./81670-millidor.json) |
+| Millie | 8957 | [8957-millie.json](./8957-millie.json) |
 | Millie and Molly | 179661 | [179661-millie-and-molly.json](./179661-millie-and-molly.json) |
 | Millie Megavolte 8: Millie and the Mole King | 295091 | [295091-millie-megavolte-8-millie-and-the-mole-king.json](./295091-millie-megavolte-8-millie-and-the-mole-king.json) |
 | Millie Meter and Her Adventures in the Oak Tree | 57571 | [57571-millie-meter-and-her-adventures-in-the-oak-tree.json](./57571-millie-meter-and-her-adventures-in-the-oak-tree.json) |
@@ -12062,6 +12066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogu-mogu Rumia | 204242 | [204242-mogu-mogu-rumia.json](./204242-mogu-mogu-rumia.json) |
 | Moguchan | 38584 | [38584-moguchan.json](./38584-moguchan.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
+| Mogumogu! Poop Battle | 425443 | [425443-mogumogu-poop-battle.json](./425443-mogumogu-poop-battle.json) |
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
 | Mogutte Nanbo | 366907 | [366907-mogutte-nanbo.json](./366907-mogutte-nanbo.json) |
 | MoGuuRu Dabas | 227819 | [227819-moguuru-dabas.json](./227819-moguuru-dabas.json) |
@@ -14186,6 +14191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortified | 249780 | [249780-mortified.json](./249780-mortified.json) |
 | Mortimer and the Enchanted Castle | 69697 | [69697-mortimer-and-the-enchanted-castle.json](./69697-mortimer-and-the-enchanted-castle.json) |
 | Mortimer and the Riddles of the Medallion | 194 | [194-mortimer-and-the-riddles-of-the-medallion.json](./194-mortimer-and-the-riddles-of-the-medallion.json) |
+| Mortimer Beckett and the Crimson Thief | 8329 | [8329-mortimer-beckett-and-the-crimson-thief.json](./8329-mortimer-beckett-and-the-crimson-thief.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Mortis Chronicles: Tale of Cowardice | 190012 | [190012-mortis-chronicles-tale-of-cowardice.json](./190012-mortis-chronicles-tale-of-cowardice.json) |
 | Morto: Chapter 1 | 163700 | [163700-morto-chapter-1.json](./163700-morto-chapter-1.json) |
@@ -15983,6 +15989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Music Maker | 100265 | [100265-music-maker.json](./100265-music-maker.json) |
 | Music Man 3: Last Dance | 295654 | [295654-music-man-3-last-dance.json](./295654-music-man-3-last-dance.json) |
+| Music Maniaz | 425442 | [425442-music-maniaz.json](./425442-music-maniaz.json) |
 | Music Master Chopin | 62679 | [62679-music-master-chopin.json](./62679-music-master-chopin.json) |
 | Music Monstars | 21210 | [21210-music-monstars.json](./21210-music-monstars.json) |
 | Music of the Spheres | 20107 | [20107-music-of-the-spheres.json](./20107-music-of-the-spheres.json) |
