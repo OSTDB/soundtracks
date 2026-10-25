@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zythum | 30954 | [30954-zythum.json](./30954-zythum.json) |
 | Zyuden Sentai Kyoryuger: Game de Gaburincho!! | 61909 | [61909-zyuden-sentai-kyoryuger-game-de-gaburincho.json](./61909-zyuden-sentai-kyoryuger-game-de-gaburincho.json) |
 | ZYX Story | 105343 | [105343-zyx-story.json](./105343-zyx-story.json) |
+| ZYX: Children. | 399046 | [399046-zyx-children.json](./399046-zyx-children.json) |
 | Zyxia: Neon Termination | 122797 | [122797-zyxia-neon-termination.json](./122797-zyxia-neon-termination.json) |
 | Zzap! | 194422 | [194422-zzap.json](./194422-zzap.json) |
 | Zzed | 18936 | [18936-zzed.json](./18936-zzed.json) |
