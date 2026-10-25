@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Air Racing 2 | 24110 | [24110-xtreme-air-racing-2.json](./24110-xtreme-air-racing-2.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
 | Xtreme Break Chain Rivals | 96319 | [96319-xtreme-break-chain-rivals.json](./96319-xtreme-break-chain-rivals.json) |
+| Xtreme Drift Racing Simulator | 396651 | [396651-xtreme-drift-racing-simulator.json](./396651-xtreme-drift-racing-simulator.json) |
 | Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
 | Xtreme Golf 2003 | 181708 | [181708-xtreme-golf-2003.json](./181708-xtreme-golf-2003.json) |
 | Xtreme Paddleball | 89394 | [89394-xtreme-paddleball.json](./89394-xtreme-paddleball.json) |
