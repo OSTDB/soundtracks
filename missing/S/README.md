@@ -6960,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinkendo | 177241 | [177241-shinkendo.json](./177241-shinkendo.json) |
 | Shinki Kakusei Valcross | 412944 | [412944-shinki-kakusei-valcross.json](./412944-shinki-kakusei-valcross.json) |
 | Shinkon Gattai Godannar!! | 70905 | [70905-shinkon-gattai-godannar.json](./70905-shinkon-gattai-godannar.json) |
+| Shinkuu, Shoujo Namida wo Koboseru ka | 414277 | [414277-shinkuu-shoujo-namida-wo-koboseru-ka.json](./414277-shinkuu-shoujo-namida-wo-koboseru-ka.json) |
 | Shinkyoku Soukai Polyphonica: 0~4 wa Full Pack | 269529 | [269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json](./269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json) |
 | Shinmai Kyoushi | 320835 | [320835-shinmai-kyoushi.json](./320835-shinmai-kyoushi.json) |
 | ShinNaZuki | 355196 | [355196-shinnazuki.json](./355196-shinnazuki.json) |
@@ -7677,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
 | Shotgun Witch | 140451 | [140451-shotgun-witch.json](./140451-shotgun-witch.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
+| Shotrun | 414283 | [414283-shotrun.json](./414283-shotrun.json) |
 | Shots | 168595 | [168595-shots.json](./168595-shots.json) |
 | Shots Fired | 55221 | [55221-shots-fired.json](./55221-shots-fired.json) |
 | Shots Fired in the Dark Forest | 168593 | [168593-shots-fired-in-the-dark-forest.json](./168593-shots-fired-in-the-dark-forest.json) |
@@ -11076,6 +11078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
 | Slime Hero | 216890 | [216890-slime-hero.json](./216890-slime-hero.json) |
 | Slime Heroes | 152171 | [152171-slime-heroes.json](./152171-slime-heroes.json) |
+| Slime in the Ice Machine | 414391 | [414391-slime-in-the-ice-machine.json](./414391-slime-in-the-ice-machine.json) |
 | Slime Islands | 188468 | [188468-slime-islands.json](./188468-slime-islands.json) |
 | Slime Jump | 411758 | [411758-slime-jump.json](./411758-slime-jump.json) |
 | Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
@@ -13443,6 +13446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solidify | 145921 | [145921-solidify.json](./145921-solidify.json) |
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
 | Soliopop | 288985 | [288985-soliopop.json](./288985-soliopop.json) |
+| Solipcyst | 414282 | [414282-solipcyst.json](./414282-solipcyst.json) |
 | Solipsis | 391885 | [391885-solipsis.json](./391885-solipsis.json) |
 | Solipsism Reigns | 183434 | [183434-solipsism-reigns.json](./183434-solipsism-reigns.json) |
 | Solipsism Reigns BxG | 259478 | [259478-solipsism-reigns-bxg.json](./259478-solipsism-reigns-bxg.json) |
@@ -25262,6 +25266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Destronaut: Landed X Loaded | 295474 | [295474-super-destronaut-landed-x-loaded.json](./295474-super-destronaut-landed-x-loaded.json) |
 | Super Destroyer | 175631 | [175631-super-destroyer.json](./175631-super-destroyer.json) |
 | Super Destroyer | 378394 | [378394-super-destroyer.json](./378394-super-destroyer.json) |
+| Super Dev Quest | 414269 | [414269-super-dev-quest.json](./414269-super-dev-quest.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
 | Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
@@ -27619,6 +27624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superpix | 311702 | [311702-superpix.json](./311702-superpix.json) |
 | Superpoke! Pets | 299538 | [299538-superpoke-pets.json](./299538-superpoke-pets.json) |
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
+| Superposition | 414401 | [414401-superposition.json](./414401-superposition.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
 | SuperPower: World at War | 250177 | [250177-superpower-world-at-war.json](./250177-superpower-world-at-war.json) |
