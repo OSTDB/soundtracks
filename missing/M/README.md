@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Cafe: Maid Girls Comics | 265331 | [265331-maid-cafe-maid-girls-comics.json](./265331-maid-cafe-maid-girls-comics.json) |
 | Maid Cafe: Monstrous Beauties Comics | 265332 | [265332-maid-cafe-monstrous-beauties-comics.json](./265332-maid-cafe-monstrous-beauties-comics.json) |
 | Maid Cafe: Sexy Secrets | 265604 | [265604-maid-cafe-sexy-secrets.json](./265604-maid-cafe-sexy-secrets.json) |
+| Maid Card Gacha: Collect, Display, Complete | 399662 | [399662-maid-card-gacha-collect-display-complete.json](./399662-maid-card-gacha-collect-display-complete.json) |
 | Maid Envy | 74760 | [74760-maid-envy.json](./74760-maid-envy.json) |
 | Maid for Loving You | 227872 | [227872-maid-for-loving-you.json](./227872-maid-for-loving-you.json) |
 | Maid for Loving You | 255115 | [255115-maid-for-loving-you.json](./255115-maid-for-loving-you.json) |
@@ -2703,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapFriend | 226085 | [226085-mapfriend.json](./226085-mapfriend.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | MapGod | 412513 | [412513-mapgod.json](./412513-mapgod.json) |
+| Mapia | 399669 | [399669-mapia.json](./399669-mapia.json) |
 | Maple & Rufus: The Water Robbery | 296490 | [296490-maple-and-rufus-the-water-robbery.json](./296490-maple-and-rufus-the-water-robbery.json) |
 | Maple and Aluna | 369124 | [369124-maple-and-aluna.json](./369124-maple-and-aluna.json) |
 | Maple Blade | 420013 | [420013-maple-blade.json](./420013-maple-blade.json) |
@@ -5495,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Platoon | 6508 | [6508-mech-platoon.json](./6508-mech-platoon.json) |
 | Mech Punk | 211792 | [211792-mech-punk.json](./211792-mech-punk.json) |
 | Mech Rage | 109378 | [109378-mech-rage.json](./109378-mech-rage.json) |
+| Mech Robot: Battle Shooter Warrior | 399661 | [399661-mech-robot-battle-shooter-warrior.json](./399661-mech-robot-battle-shooter-warrior.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
 | Mech Skeleton | 28163 | [28163-mech-skeleton.json](./28163-mech-skeleton.json) |
 | Mech Striker | 256235 | [256235-mech-striker.json](./256235-mech-striker.json) |
@@ -5861,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Machines Builder | 154071 | [154071-medieval-machines-builder.json](./154071-medieval-machines-builder.json) |
 | Medieval Machines Builder: First Siege | 277261 | [277261-medieval-machines-builder-first-siege.json](./277261-medieval-machines-builder-first-siege.json) |
 | Medieval Market | 387027 | [387027-medieval-market.json](./387027-medieval-market.json) |
+| Medieval Market Simulator | 399660 | [399660-medieval-market-simulator.json](./399660-medieval-market-simulator.json) |
 | Medieval Market Simulator | 400667 | [400667-medieval-market-simulator.json](./400667-medieval-market-simulator.json) |
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
 | Medieval Match Master | 323307 | [323307-medieval-match-master.json](./323307-medieval-match-master.json) |
@@ -8329,6 +8333,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro: Last Light - Limited Edition | 47429 | [47429-metro-last-light-limited-edition.json](./47429-metro-last-light-limited-edition.json) |
 | Metro.Siberia | 283743 | [283743-metro-siberia.json](./283743-metro-siberia.json) |
 | Metrocide | 8757 | [8757-metrocide.json](./8757-metrocide.json) |
+| Metrocraft | 399674 | [399674-metrocraft.json](./399674-metrocraft.json) |
+| Metrocraft 2036 | 399676 | [399676-metrocraft-2036.json](./399676-metrocraft-2036.json) |
 | Metrocubevania | 218309 | [218309-metrocubevania.json](./218309-metrocubevania.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
@@ -10901,6 +10907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mio and the Hot Summer | 271617 | [271617-mio-and-the-hot-summer.json](./271617-mio-and-the-hot-summer.json) |
 | Mio Garden | 107422 | [107422-mio-garden.json](./107422-mio-garden.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
+| MIO: Memories in Orbit | 399686 | [399686-mio-memories-in-orbit.json](./399686-mio-memories-in-orbit.json) |
 | MioAquaria | 390577 | [390577-mioaquaria.json](./390577-mioaquaria.json) |
 | Miodesopsia: Whispering Stories | 282846 | [282846-miodesopsia-whispering-stories.json](./282846-miodesopsia-whispering-stories.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
@@ -12891,6 +12898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Manager | 190438 | [190438-monster-girl-manager.json](./190438-monster-girl-manager.json) |
 | Monster Girl Prom | 96672 | [96672-monster-girl-prom.json](./96672-monster-girl-prom.json) |
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
+| Monster Girl Therapy | 399575 | [399575-monster-girl-therapy.json](./399575-monster-girl-therapy.json) |
 | Monster Girl's Labyrinth | 210470 | [210470-monster-girls-labyrinth.json](./210470-monster-girls-labyrinth.json) |
 | Monster Girls Salon Dress Up | 106895 | [106895-monster-girls-salon-dress-up.json](./106895-monster-girls-salon-dress-up.json) |
 | Monster Girls Survival & Craft 2040 | 421361 | [421361-monster-girls-survival-and-craft-2040.json](./421361-monster-girls-survival-and-craft-2040.json) |
@@ -17089,6 +17097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mini Farm | 245683 | [245683-my-mini-farm.json](./245683-my-mini-farm.json) |
 | My Mistress | 221202 | [221202-my-mistress.json](./221202-my-mistress.json) |
 | My Mistress Lu Bu | 253892 | [253892-my-mistress-lu-bu.json](./253892-my-mistress-lu-bu.json) |
+| My Mole | 399585 | [399585-my-mole.json](./399585-my-mole.json) |
 | My Mom's Bestfriend! | 346194 | [346194-my-moms-bestfriend.json](./346194-my-moms-bestfriend.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
 | My Monster Rancher | 61129 | [61129-my-monster-rancher.json](./61129-my-monster-rancher.json) |
