@@ -3778,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Japan | 52377 | [52377-age-of-japan.json](./52377-age-of-japan.json) |
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
 | Age of Kita | 208205 | [208205-age-of-kita.json](./208205-age-of-kita.json) |
+| Age of Legacy | 402104 | [402104-age-of-legacy.json](./402104-age-of-legacy.json) |
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
 | Age of Mage | 176191 | [176191-age-of-mage.json](./176191-age-of-mage.json) |
 | Age of Magic CCG | 33894 | [33894-age-of-magic-ccg.json](./33894-age-of-magic-ccg.json) |
@@ -6160,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost Impossible! | 58303 | [58303-almost-impossible.json](./58303-almost-impossible.json) |
 | Almost My Floor: Duality | 210905 | [210905-almost-my-floor-duality.json](./210905-almost-my-floor-duality.json) |
 | Almost My Floor: Halloween Party | 196131 | [196131-almost-my-floor-halloween-party.json](./196131-almost-my-floor-halloween-party.json) |
+| Almost Nearly Borderline Perfect | 402119 | [402119-almost-nearly-borderline-perfect.json](./402119-almost-nearly-borderline-perfect.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
 | Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
@@ -7003,6 +7005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
 | American Truck Simulator: Arizona | 23478 | [23478-american-truck-simulator-arizona.json](./23478-american-truck-simulator-arizona.json) |
+| American Truck Simulator: Bobcat Cargo Pack | 402130 | [402130-american-truck-simulator-bobcat-cargo-pack.json](./402130-american-truck-simulator-bobcat-cargo-pack.json) |
 | American Truck Simulator: British Columbia | 375345 | [375345-american-truck-simulator-british-columbia.json](./375345-american-truck-simulator-british-columbia.json) |
 | American Truck Simulator: Cabin Accessories | 155358 | [155358-american-truck-simulator-cabin-accessories.json](./155358-american-truck-simulator-cabin-accessories.json) |
 | American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
@@ -7024,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: JCB Equipment Pack | 302496 | [302496-american-truck-simulator-jcb-equipment-pack.json](./302496-american-truck-simulator-jcb-equipment-pack.json) |
 | American Truck Simulator: Kansas | 233986 | [233986-american-truck-simulator-kansas.json](./233986-american-truck-simulator-kansas.json) |
 | American Truck Simulator: Kenworth T680 2022 | 283910 | [283910-american-truck-simulator-kenworth-t680-2022.json](./283910-american-truck-simulator-kenworth-t680-2022.json) |
+| American Truck Simulator: Kenworth W900 | 402131 | [402131-american-truck-simulator-kenworth-w900.json](./402131-american-truck-simulator-kenworth-w900.json) |
 | American Truck Simulator: KRONE Agriculture Equipment | 358729 | [358729-american-truck-simulator-krone-agriculture-equipment.json](./358729-american-truck-simulator-krone-agriculture-equipment.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Louisiana | 348973 | [348973-american-truck-simulator-louisiana.json](./348973-american-truck-simulator-louisiana.json) |
@@ -8740,6 +8744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Evolution | 377943 | [377943-anomaly-evolution.json](./377943-anomaly-evolution.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
 | Anomaly Hotel | 298446 | [298446-anomaly-hotel.json](./298446-anomaly-hotel.json) |
+| Anomaly Jobs: Data Center | 402105 | [402105-anomaly-jobs-data-center.json](./402105-anomaly-jobs-data-center.json) |
 | Anomaly Living | 334922 | [334922-anomaly-living.json](./334922-anomaly-living.json) |
 | Anomaly Loop | 293091 | [293091-anomaly-loop.json](./293091-anomaly-loop.json) |
 | Anomaly Observer | 353284 | [353284-anomaly-observer.json](./353284-anomaly-observer.json) |
