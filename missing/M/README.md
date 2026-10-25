@@ -8389,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Planets | 166150 | [166150-metroid-planets.json](./166150-metroid-planets.json) |
 | Metroid Prime 2: Echoes | 1108 | [1108-metroid-prime-2-echoes.json](./1108-metroid-prime-2-echoes.json) |
+| Metroid Prime 2: Echoes - Double Trouble | 388563 | [388563-metroid-prime-2-echoes-double-trouble.json](./388563-metroid-prime-2-echoes-double-trouble.json) |
 | Metroid Prime 3: Corruption | 1111 | [1111-metroid-prime-3-corruption.json](./1111-metroid-prime-3-corruption.json) |
 | Metroid Prime Pinball | 1109 | [1109-metroid-prime-pinball.json](./1109-metroid-prime-pinball.json) |
 | Metroid Prime Remastered | 236663 | [236663-metroid-prime-remastered.json](./236663-metroid-prime-remastered.json) |
