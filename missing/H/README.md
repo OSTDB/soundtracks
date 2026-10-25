@@ -8221,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Hunt | 121600 | [121600-horror-hunt.json](./121600-horror-hunt.json) |
 | Horror Hunt: Until Daylight | 208070 | [208070-horror-hunt-until-daylight.json](./208070-horror-hunt-until-daylight.json) |
 | Horror In Hongdae | 303570 | [303570-horror-in-hongdae.json](./303570-horror-in-hongdae.json) |
+| Horror in the Asylum | 33870 | [33870-horror-in-the-asylum.json](./33870-horror-in-the-asylum.json) |
 | Horror in the Forest | 365258 | [365258-horror-in-the-forest.json](./365258-horror-in-the-forest.json) |
 | Horror In Valkeala | 192951 | [192951-horror-in-valkeala.json](./192951-horror-in-valkeala.json) |
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
