@@ -3283,7 +3283,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5151,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish You Happiness | 310043 | [310043-wish-you-happiness.json](./310043-wish-you-happiness.json) |
 | Wishbind | 254578 | [254578-wishbind.json](./254578-wishbind.json) |
 | Wishbone: Activity Zone | 219142 | [219142-wishbone-activity-zone.json](./219142-wishbone-activity-zone.json) |
+| Wishbound | 410647 | [410647-wishbound.json](./410647-wishbound.json) |
 | Wishbound Desires | 272884 | [272884-wishbound-desires.json](./272884-wishbound-desires.json) |
 | Wishbringer | 1950 | [1950-wishbringer.json](./1950-wishbringer.json) |
 | Wished on guilt | 262828 | [262828-wished-on-guilt.json](./262828-wished-on-guilt.json) |
