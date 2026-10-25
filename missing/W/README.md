@@ -3616,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlpool Derby: Grand Crash Auto | 90365 | [90365-whirlpool-derby-grand-crash-auto.json](./90365-whirlpool-derby-grand-crash-auto.json) |
 | Whirlwind Magician | 269186 | [269186-whirlwind-magician.json](./269186-whirlwind-magician.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
+| Whirly Word | 87507 | [87507-whirly-word.json](./87507-whirly-word.json) |
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
 | Whirlygig | 105178 | [105178-whirlygig.json](./105178-whirlygig.json) |
 | Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
@@ -6187,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
 | Word Search Puzzle: Find the Words! | 262323 | [262323-word-search-puzzle-find-the-words.json](./262323-word-search-puzzle-find-the-words.json) |
 | Word Search Puzzle: Word Balls | 233054 | [233054-word-search-puzzle-word-balls.json](./233054-word-search-puzzle-word-balls.json) |
+| Word Search Puzzles | 88870 | [88870-word-search-puzzles.json](./88870-word-search-puzzles.json) |
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
 | Word Search: World's Biggest | 240182 | [240182-word-search-worlds-biggest.json](./240182-word-search-worlds-biggest.json) |
 | Word Searcher | 79789 | [79789-word-searcher.json](./79789-word-searcher.json) |
