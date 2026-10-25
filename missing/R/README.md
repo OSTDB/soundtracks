@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabisco | 121867 | [121867-rabisco.json](./121867-rabisco.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
 | Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
+| Racar | 399037 | [399037-racar.json](./399037-racar.json) |
 | Raccateer | 346381 | [346381-raccateer.json](./346381-raccateer.json) |
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoo Venture | 113876 | [113876-raccoo-venture.json](./113876-raccoo-venture.json) |
@@ -4388,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
 | Requiem Memory | 265584 | [265584-requiem-memory.json](./265584-requiem-memory.json) |
 | Requiem of Science | 194221 | [194221-requiem-of-science.json](./194221-requiem-of-science.json) |
+| Requiem of the Dark Lord | 399028 | [399028-requiem-of-the-dark-lord.json](./399028-requiem-of-the-dark-lord.json) |
 | Requiem Reverie | 284898 | [284898-requiem-reverie.json](./284898-requiem-reverie.json) |
 | Requiem: Avenging Angel | 12470 | [12470-requiem-avenging-angel.json](./12470-requiem-avenging-angel.json) |
 | Requiem: Bloodymare | 21461 | [21461-requiem-bloodymare.json](./21461-requiem-bloodymare.json) |
