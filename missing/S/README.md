@@ -3977,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker: Quest | 250760 | [250760-seeker-quest.json](./250760-seeker-quest.json) |
 | Seekers | 169342 | [169342-seekers.json](./169342-seekers.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
+| Seekers Notes | 88865 | [88865-seekers-notes.json](./88865-seekers-notes.json) |
 | Seekers of Darkness | 320028 | [320028-seekers-of-darkness.json](./320028-seekers-of-darkness.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seekers of Sahul | 236356 | [236356-seekers-of-sahul.json](./236356-seekers-of-sahul.json) |
@@ -11509,7 +11510,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
+| Smart Baby Shapes | 88908 | [88908-smart-baby-shapes.json](./88908-smart-baby-shapes.json) |
 | Smart Baby Sorter 2 | 88815 | [88815-smart-baby-sorter-2.json](./88815-smart-baby-sorter-2.json) |
+| Smart Baby Sorter HD | 88918 | [88918-smart-baby-sorter-hd.json](./88918-smart-baby-sorter-hd.json) |
 | Smart Bomb | 72930 | [72930-smart-bomb.json](./72930-smart-bomb.json) |
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom | 77891 | [77891-smart-boys-gameroom.json](./77891-smart-boys-gameroom.json) |
@@ -13393,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 80743 | [80743-solitaire.json](./80743-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
 | Solitaire | 86374 | [86374-solitaire.json](./86374-solitaire.json) |
+| Solitaire | 88905 | [88905-solitaire.json](./88905-solitaire.json) |
 | Solitaire - Classic Game | 91123 | [91123-solitaire-classic-game.json](./91123-solitaire-classic-game.json) |
 | Solitaire - Smart Moves | 102725 | [102725-solitaire-smart-moves.json](./102725-solitaire-smart-moves.json) |
 | Solitaire - The Perfect Game for Your Short Office Break | 101346 | [101346-solitaire-the-perfect-game-for-your-short-office-break.json](./101346-solitaire-the-perfect-game-for-your-short-office-break.json) |
@@ -19218,6 +19222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
 | StairJump | 78658 | [78658-stairjump.json](./78658-stairjump.json) |
 | Stairs | 18111 | [18111-stairs.json](./18111-stairs.json) |
+| Stairs | 88902 | [88902-stairs.json](./88902-stairs.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
 | Stairway to Tavern | 293680 | [293680-stairway-to-tavern.json](./293680-stairway-to-tavern.json) |
@@ -21073,6 +21078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Init | 408240 | [408240-stealth-init.json](./408240-stealth-init.json) |
 | Stealth Kill VR Missions | 310677 | [310677-stealth-kill-vr-missions.json](./310677-stealth-kill-vr-missions.json) |
 | Stealth Master: Assassin Ninja | 261421 | [261421-stealth-master-assassin-ninja.json](./261421-stealth-master-assassin-ninja.json) |
+| Stealth Mystery: Secret Key | 88925 | [88925-stealth-mystery-secret-key.json](./88925-stealth-mystery-secret-key.json) |
 | Stealth Operative Syn: Virtual Training | 406221 | [406221-stealth-operative-syn-virtual-training.json](./406221-stealth-operative-syn-virtual-training.json) |
 | Stealth Prankster | 180126 | [180126-stealth-prankster.json](./180126-stealth-prankster.json) |
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
@@ -22358,6 +22364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
 | Stranded On An Island | 285944 | [285944-stranded-on-an-island.json](./285944-stranded-on-an-island.json) |
+| Stranded Raft Survival | 88932 | [88932-stranded-raft-survival.json](./88932-stranded-raft-survival.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
 | Stranded Survivors | 381620 | [381620-stranded-survivors.json](./381620-stranded-survivors.json) |
 | Stranded With Darkness | 357667 | [357667-stranded-with-darkness.json](./357667-stranded-with-darkness.json) |
@@ -22509,6 +22516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
 | Stratego | 88896 | [88896-stratego.json](./88896-stratego.json) |
+| Stratego | 88897 | [88897-stratego.json](./88897-stratego.json) |
 | Stratego Online | 20172 | [20172-stratego-online.json](./20172-stratego-online.json) |
 | Stratego: Next Edition | 47886 | [47886-stratego-next-edition.json](./47886-stratego-next-edition.json) |
 | Stratego: Single Player | 91174 | [91174-stratego-single-player.json](./91174-stratego-single-player.json) |
