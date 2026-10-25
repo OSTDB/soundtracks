@@ -10909,6 +10909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungi | 127590 | [127590-fungi.json](./127590-fungi.json) |
 | Fungi Crossing | 333157 | [333157-fungi-crossing.json](./333157-fungi-crossing.json) |
 | Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
+| Fungi Simulator | 409350 | [409350-fungi-simulator.json](./409350-fungi-simulator.json) |
 | Fungiculture | 369906 | [369906-fungiculture.json](./369906-fungiculture.json) |
 | Fungidemi | 407146 | [407146-fungidemi.json](./407146-fungidemi.json) |
 | Fungiman | 207562 | [207562-fungiman.json](./207562-fungiman.json) |
