@@ -9056,6 +9056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootnote | 402529 | [402529-rootnote.json](./402529-rootnote.json) |
 | Rootown | 244626 | [244626-rootown.json](./244626-rootown.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
+| Roots | 409376 | [409376-roots.json](./409376-roots.json) |
 | Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
 | Roots Devour | 331443 | [331443-roots-devour.json](./331443-roots-devour.json) |
 | Roots in the Sky: The Hand of Glory 2 | 208675 | [208675-roots-in-the-sky-the-hand-of-glory-2.json](./208675-roots-in-the-sky-the-hand-of-glory-2.json) |
