@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
 | Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
+| Gate of Gates | 406750 | [406750-gate-of-gates.json](./406750-gate-of-gates.json) |
 | Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
 | Gate of Nightmares | 174644 | [174644-gate-of-nightmares.json](./174644-gate-of-nightmares.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
@@ -5172,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golazo! | 122408 | [122408-golazo.json](./122408-golazo.json) |
 | Golazo! 2: Pixel Stars | 243236 | [243236-golazo-2-pixel-stars.json](./243236-golazo-2-pixel-stars.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
+| Gold ’n Goal | 406504 | [406504-gold-n-goal.json](./406504-gold-n-goal.json) |
 | Gold & Goblins | 341628 | [341628-gold-and-goblins.json](./341628-gold-and-goblins.json) |
 | Gold & Ship Bundle: Gold Mining & Ship Graveyard Simulator | 340951 | [340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json](./340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json) |
 | Gold Ambush | 68280 | [68280-gold-ambush.json](./68280-gold-ambush.json) |
@@ -8075,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Planet | 142922 | [142922-grow-planet.json](./142922-grow-planet.json) |
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
+| Grow School | 406794 | [406794-grow-school.json](./406794-grow-school.json) |
 | Grow the Seed | 244158 | [244158-grow-the-seed.json](./244158-grow-the-seed.json) |
 | Grow Tower | 175830 | [175830-grow-tower.json](./175830-grow-tower.json) |
 | Grow Turret | 248155 | [248155-grow-turret.json](./248155-grow-turret.json) |
