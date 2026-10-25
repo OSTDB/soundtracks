@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
 | Ghost Master: Resurrection - Between Worlds | 396128 | [396128-ghost-master-resurrection-between-worlds.json](./396128-ghost-master-resurrection-between-worlds.json) |
 | Ghost Master: Resurrection - Blood & Stone | 396129 | [396129-ghost-master-resurrection-blood-and-stone.json](./396129-ghost-master-resurrection-blood-and-stone.json) |
+| Ghost Master: Resurrection - Core Edition | 386806 | [386806-ghost-master-resurrection-core-edition.json](./386806-ghost-master-resurrection-core-edition.json) |
 | Ghost Master: Resurrection - Frightful Night | 396130 | [396130-ghost-master-resurrection-frightful-night.json](./396130-ghost-master-resurrection-frightful-night.json) |
 | Ghost Master: Resurrection - Relics of the Past | 396127 | [396127-ghost-master-resurrection-relics-of-the-past.json](./396127-ghost-master-resurrection-relics-of-the-past.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
