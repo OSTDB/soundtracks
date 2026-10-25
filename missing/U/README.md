@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uurnog | 27402 | [27402-uurnog.json](./27402-uurnog.json) |
 | Uuu so Smislom | 116096 | [116096-uuu-so-smislom.json](./116096-uuu-so-smislom.json) |
 | UVAO Forever | 349903 | [349903-uvao-forever.json](./349903-uvao-forever.json) |
+| Uventa | 107185 | [107185-uventa.json](./107185-uventa.json) |
 | Uvirith's Legacy | 388322 | [388322-uviriths-legacy.json](./388322-uviriths-legacy.json) |
 | UviUvi | 403634 | [403634-uviuvi.json](./403634-uviuvi.json) |
 | uVolley | 149921 | [149921-uvolley.json](./149921-uvolley.json) |
