@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giana Sisters: Twisted Dreams - Owltimate Edition | 78869 | [78869-giana-sisters-twisted-dreams-owltimate-edition.json](./78869-giana-sisters-twisted-dreams-owltimate-edition.json) |
 | Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
 | Gianluca Vialli's European Manager | 93211 | [93211-gianluca-viallis-european-manager.json](./93211-gianluca-viallis-european-manager.json) |
+| Gianpierino Adventures 2 | 410648 | [410648-gianpierino-adventures-2.json](./410648-gianpierino-adventures-2.json) |
 | GiAnt | 33696 | [33696-giant.json](./33696-giant.json) |
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
 | Giant Blobs From Mars | 157391 | [157391-giant-blobs-from-mars.json](./157391-giant-blobs-from-mars.json) |
@@ -5133,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Home | 396344 | [396344-going-home.json](./396344-going-home.json) |
 | Going Into the Unknown | 205577 | [205577-going-into-the-unknown.json](./205577-going-into-the-unknown.json) |
 | Going My Way? | 406927 | [406927-going-my-way.json](./406927-going-my-way.json) |
+| Going Nowhere | 410699 | [410699-going-nowhere.json](./410699-going-nowhere.json) |
 | Going Nowhere: The Dream | 74383 | [74383-going-nowhere-the-dream.json](./74383-going-nowhere-the-dream.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
 | Going Rogue | 223360 | [223360-going-rogue.json](./223360-going-rogue.json) |
@@ -7813,6 +7815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grizzly Retro Platformer | 98784 | [98784-grizzly-retro-platformer.json](./98784-grizzly-retro-platformer.json) |
 | Grizzly Valley | 33048 | [33048-grizzly-valley.json](./33048-grizzly-valley.json) |
 | Grizzly's | 231429 | [231429-grizzlys.json](./231429-grizzlys.json) |
+| Grizzy & the Lemmings: Crazy Party | 410664 | [410664-grizzy-and-the-lemmings-crazy-party.json](./410664-grizzy-and-the-lemmings-crazy-party.json) |
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
 | Grobda | 21687 | [21687-grobda.json](./21687-grobda.json) |
 | Grobda Remix | 74986 | [74986-grobda-remix.json](./74986-grobda-remix.json) |
@@ -8366,6 +8369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Animal | 89019 | [89019-guess-the-animal.json](./89019-guess-the-animal.json) |
 | Guess the Celebrity | 232069 | [232069-guess-the-celebrity.json](./232069-guess-the-celebrity.json) |
 | Guess the Character! | 99977 | [99977-guess-the-character.json](./99977-guess-the-character.json) |
+| Guess The Cheese | 410676 | [410676-guess-the-cheese.json](./410676-guess-the-cheese.json) |
 | Guess the Door | 301513 | [301513-guess-the-door.json](./301513-guess-the-door.json) |
 | Guess the Flag! | 305905 | [305905-guess-the-flag.json](./305905-guess-the-flag.json) |
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
@@ -8526,6 +8530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Character 10: Johnny | 263028 | [263028-guilty-gear-strive-additional-character-10-johnny.json](./263028-guilty-gear-strive-additional-character-10-johnny.json) |
 | Guilty Gear: Strive - Additional Character 12: A.B.A | 293843 | [293843-guilty-gear-strive-additional-character-12-a-b-a.json](./293843-guilty-gear-strive-additional-character-12-a-b-a.json) |
 | Guilty Gear: Strive - Additional Character 13: Slayer | 299722 | [299722-guilty-gear-strive-additional-character-13-slayer.json](./299722-guilty-gear-strive-additional-character-13-slayer.json) |
+| Guilty Gear: Strive - Additional Character 18 - Jam Kuradoberi | 410656 | [410656-guilty-gear-strive-additional-character-18-jam-kuradoberi.json](./410656-guilty-gear-strive-additional-character-18-jam-kuradoberi.json) |
+| Guilty Gear: Strive - Additional Character 19 - Robo-Ky | 410659 | [410659-guilty-gear-strive-additional-character-19-robo-ky.json](./410659-guilty-gear-strive-additional-character-19-robo-ky.json) |
 | Guilty Gear: Strive - Additional Character 2: Jack-O' | 166147 | [166147-guilty-gear-strive-additional-character-2-jack-o.json](./166147-guilty-gear-strive-additional-character-2-jack-o.json) |
 | Guilty Gear: Strive - Additional Character 4: Baiken | 215017 | [215017-guilty-gear-strive-additional-character-4-baiken.json](./215017-guilty-gear-strive-additional-character-4-baiken.json) |
 | Guilty Gear: Strive - Additional Character 5: Testament | 215018 | [215018-guilty-gear-strive-additional-character-5-testament.json](./215018-guilty-gear-strive-additional-character-5-testament.json) |
