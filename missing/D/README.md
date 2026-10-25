@@ -5558,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
 | Depth of Consciousness | 114315 | [114315-depth-of-consciousness.json](./114315-depth-of-consciousness.json) |
+| Depth of Extinction | 55543 | [55543-depth-of-extinction.json](./55543-depth-of-extinction.json) |
 | Depth of Extinction: Definitive Edition | 222236 | [222236-depth-of-extinction-definitive-edition.json](./222236-depth-of-extinction-definitive-edition.json) |
 | Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
 | Depth VR | 31098 | [31098-depth-vr.json](./31098-depth-vr.json) |
@@ -6957,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
 | Dice to Pay | 346399 | [346399-dice-to-pay.json](./346399-dice-to-pay.json) |
 | Dice Tourney | 165750 | [165750-dice-tourney.json](./165750-dice-tourney.json) |
+| Dice Tower Defense | 55593 | [55593-dice-tower-defense.json](./55593-dice-tower-defense.json) |
 | Dice Town Mobile | 175217 | [175217-dice-town-mobile.json](./175217-dice-town-mobile.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
 | Dice Versa | 218406 | [218406-dice-versa.json](./218406-dice-versa.json) |
@@ -12420,6 +12422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dream | 268638 | [268638-dragons-dream.json](./268638-dragons-dream.json) |
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Dungeon | 322426 | [322426-dragons-dungeon.json](./322426-dragons-dungeon.json) |
+| Dragon's Dungeon: Awakening | 55540 | [55540-dragons-dungeon-awakening.json](./55540-dragons-dungeon-awakening.json) |
 | Dragon's Eye | 170218 | [170218-dragons-eye.json](./170218-dragons-eye.json) |
 | Dragon's Eye | 23292 | [23292-dragons-eye.json](./23292-dragons-eye.json) |
 | Dragon's Eye Plus: Shanghai III | 47060 | [47060-dragons-eye-plus-shanghai-iii.json](./47060-dragons-eye-plus-shanghai-iii.json) |
