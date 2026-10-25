@@ -2903,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Wars 2.5 | 101739 | [101739-castle-wars-2-5.json](./101739-castle-wars-2-5.json) |
 | Castle Wars VR | 38807 | [38807-castle-wars-vr.json](./38807-castle-wars-vr.json) |
 | Castle Wars: Legacy | 392372 | [392372-castle-wars-legacy.json](./392372-castle-wars-legacy.json) |
+| Castle Wars: Legacy | 396693 | [396693-castle-wars-legacy.json](./396693-castle-wars-legacy.json) |
 | Castle Watch VR | 182818 | [182818-castle-watch-vr.json](./182818-castle-watch-vr.json) |
 | Castle Werewolf | 29609 | [29609-castle-werewolf.json](./29609-castle-werewolf.json) |
 | Castle WolfenDoom | 327020 | [327020-castle-wolfendoom.json](./327020-castle-wolfendoom.json) |
@@ -16869,6 +16870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberRush | 276215 | [276215-cyberrush.json](./276215-cyberrush.json) |
 | Cybersaurs: Dinosaurs in Space | 185468 | [185468-cybersaurs-dinosaurs-in-space.json](./185468-cybersaurs-dinosaurs-in-space.json) |
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
+| Cyberscape | 396669 | [396669-cyberscape.json](./396669-cyberscape.json) |
 | CyberScope | 196079 | [196079-cyberscope.json](./196079-cyberscope.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
