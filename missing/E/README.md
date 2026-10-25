@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elif | 186689 | [186689-elif.json](./186689-elif.json) |
 | Elifoot | 91631 | [91631-elifoot.json](./91631-elifoot.json) |
 | Elifoot 18 | 104499 | [104499-elifoot-18.json](./104499-elifoot-18.json) |
+| Elifoot 98 | 398966 | [398966-elifoot-98.json](./398966-elifoot-98.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal City | 90889 | [90889-eternal-city.json](./90889-eternal-city.json) |
 | Eternal Concord | 122000 | [122000-eternal-concord.json](./122000-eternal-concord.json) |
+| Eternal Curse | 399019 | [399019-eternal-curse.json](./399019-eternal-curse.json) |
 | Eternal Cycle | 148908 | [148908-eternal-cycle.json](./148908-eternal-cycle.json) |
 | Eternal Damnation | 262265 | [262265-eternal-damnation.json](./262265-eternal-damnation.json) |
 | Eternal Damnation | 264549 | [264549-eternal-damnation.json](./264549-eternal-damnation.json) |
