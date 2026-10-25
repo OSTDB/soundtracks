@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-25T13:26:01.097Z",
-  "total_missing": 260608,
+  "generated_at": "2026-10-25T13:34:47.649Z",
+  "total_missing": 260658,
   "games": [
     {
       "igdb_id": 191680,
@@ -29477,11 +29477,6 @@
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
     },
     {
-      "igdb_id": 342233,
-      "game_name": "Adventures In Time & Space",
-      "file": "missing/A/342233-adventures-in-time-and-space.json"
-    },
-    {
       "igdb_id": 134695,
       "game_name": "Adventures of a Radish",
       "file": "missing/A/134695-adventures-of-a-radish.json"
@@ -50085,6 +50080,11 @@
       "igdb_id": 293087,
       "game_name": "Amo",
       "file": "missing/A/293087-amo.json"
+    },
+    {
+      "igdb_id": 407517,
+      "game_name": "Amoeba",
+      "file": "missing/A/407517-amoeba.json"
     },
     {
       "igdb_id": 131972,
@@ -82742,6 +82742,11 @@
       "file": "missing/A/418620-atom-by-atom.json"
     },
     {
+      "igdb_id": 407314,
+      "game_name": "Atom de Pon!",
+      "file": "missing/A/407314-atom-de-pon.json"
+    },
+    {
       "igdb_id": 234169,
       "game_name": "Atom Fit",
       "file": "missing/A/234169-atom-fit.json"
@@ -93670,6 +93675,11 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
+    },
+    {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -159137,6 +159147,11 @@
       "file": "missing/B/317262-buggy-off-road-racing-platinum-edition.json"
     },
     {
+      "igdb_id": 407115,
+      "game_name": "Buggy Off-Road Racing: Supreme Edition",
+      "file": "missing/B/407115-buggy-off-road-racing-supreme-edition.json"
+    },
+    {
       "igdb_id": 400196,
       "game_name": "Buggy Off-Road Racing: Ultra Edition",
       "file": "missing/B/400196-buggy-off-road-racing-ultra-edition.json"
@@ -209267,6 +209282,11 @@
       "file": "missing/C/400198-club-sports-collection-definitive-edition.json"
     },
     {
+      "igdb_id": 407114,
+      "game_name": "Club Sports Collection: Legendary Edition",
+      "file": "missing/C/407114-club-sports-collection-legendary-edition.json"
+    },
+    {
       "igdb_id": 395676,
       "game_name": "Club Sports Collection: Premium Edition",
       "file": "missing/C/395676-club-sports-collection-premium-edition.json"
@@ -233122,6 +233142,21 @@
       "file": "missing/C/98928-crazy-dessert-maker.json"
     },
     {
+      "igdb_id": 407508,
+      "game_name": "Crazy Digger",
+      "file": "missing/C/407508-crazy-digger.json"
+    },
+    {
+      "igdb_id": 407509,
+      "game_name": "Crazy Digger 2",
+      "file": "missing/C/407509-crazy-digger-2.json"
+    },
+    {
+      "igdb_id": 407510,
+      "game_name": "Crazy Digger 2 Level Pack",
+      "file": "missing/C/407510-crazy-digger-2-level-pack.json"
+    },
+    {
       "igdb_id": 143448,
       "game_name": "Crazy Dino Park",
       "file": "missing/C/143448-crazy-dino-park.json"
@@ -234345,6 +234380,11 @@
       "igdb_id": 369695,
       "game_name": "Create a Pop Sensation",
       "file": "missing/C/369695-create-a-pop-sensation.json"
+    },
+    {
+      "igdb_id": 407516,
+      "game_name": "Create a Ride",
+      "file": "missing/C/407516-create-a-ride.json"
     },
     {
       "igdb_id": 24750,
@@ -267370,6 +267410,11 @@
       "igdb_id": 46225,
       "game_name": "Deadly Moves",
       "file": "missing/D/46225-deadly-moves.json"
+    },
+    {
+      "igdb_id": 407513,
+      "game_name": "Deadly New Zealand",
+      "file": "missing/D/407513-deadly-new-zealand.json"
     },
     {
       "igdb_id": 207405,
@@ -330257,6 +330302,11 @@
       "file": "missing/E/397889-ea-sports-fc-26-icons-edition.json"
     },
     {
+      "igdb_id": 407113,
+      "game_name": "EA Sports FC 26: The World's Game Edition",
+      "file": "missing/E/407113-ea-sports-fc-26-the-worlds-game-edition.json"
+    },
+    {
       "igdb_id": 356805,
       "game_name": "EA Sports FC 26: Ultimate Edition",
       "file": "missing/E/356805-ea-sports-fc-26-ultimate-edition.json"
@@ -388355,6 +388405,11 @@
       "igdb_id": 366896,
       "game_name": "Fire Emblem: Fortune's Weave",
       "file": "missing/F/366896-fire-emblem-fortunes-weave.json"
+    },
+    {
+      "igdb_id": 407117,
+      "game_name": "Fire Emblem: Fortune's Weave - Dagdan Collection",
+      "file": "missing/F/407117-fire-emblem-fortunes-weave-dagdan-collection.json"
     },
     {
       "igdb_id": 214495,
@@ -456492,6 +456547,11 @@
       "file": "missing/G/207853-gravity-box.json"
     },
     {
+      "igdb_id": 407519,
+      "game_name": "Gravity Boy!",
+      "file": "missing/G/407519-gravity-boy.json"
+    },
+    {
       "igdb_id": 159056,
       "game_name": "Gravity Brawl",
       "file": "missing/G/159056-gravity-brawl.json"
@@ -471980,6 +472040,11 @@
       "igdb_id": 203674,
       "game_name": "Hallowlands",
       "file": "missing/H/203674-hallowlands.json"
+    },
+    {
+      "igdb_id": 407385,
+      "game_name": "Hallows Hill",
+      "file": "missing/H/407385-hallows-hill.json"
     },
     {
       "igdb_id": 74961,
@@ -504437,6 +504502,11 @@
       "file": "missing/H/380392-hole-io-construction-dlc.json"
     },
     {
+      "igdb_id": 407112,
+      "game_name": "Hole io: Construction Edition",
+      "file": "missing/H/407112-hole-io-construction-edition.json"
+    },
+    {
       "igdb_id": 275051,
       "game_name": "Hole io: Freak Edition",
       "file": "missing/H/275051-hole-io-freak-edition.json"
@@ -519280,6 +519350,11 @@
       "igdb_id": 369889,
       "game_name": "HypeHype",
       "file": "missing/H/369889-hypehype.json"
+    },
+    {
+      "igdb_id": 407495,
+      "game_name": "HypePets",
+      "file": "missing/H/407495-hypepets.json"
     },
     {
       "igdb_id": 319354,
@@ -578905,6 +578980,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -678012,6 +678092,11 @@
       "file": "missing/M/59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json"
     },
     {
+      "igdb_id": 407388,
+      "game_name": "Miami Bay",
+      "file": "missing/M/407388-miami-bay.json"
+    },
+    {
       "igdb_id": 85920,
       "game_name": "Miami Chase",
       "file": "missing/M/85920-miami-chase.json"
@@ -685625,6 +685710,11 @@
       "igdb_id": 407116,
       "game_name": "Minecraft Dungeons II - Deluxe DLC",
       "file": "missing/M/407116-minecraft-dungeons-ii-deluxe-dlc.json"
+    },
+    {
+      "igdb_id": 407111,
+      "game_name": "Minecraft Dungeons II: Deluxe Edition",
+      "file": "missing/M/407111-minecraft-dungeons-ii-deluxe-edition.json"
     },
     {
       "igdb_id": 164849,
@@ -770777,9 +770867,104 @@
       "file": "missing/O/325602-onimusha-way-of-the-sword.json"
     },
     {
+      "igdb_id": 407118,
+      "game_name": "Onimusha: Way of the Sword - Charm: Little Dancer",
+      "file": "missing/O/407118-onimusha-way-of-the-sword-charm-little-dancer.json"
+    },
+    {
+      "igdb_id": 407119,
+      "game_name": "Onimusha: Way of the Sword - Charm: Mentor",
+      "file": "missing/O/407119-onimusha-way-of-the-sword-charm-mentor.json"
+    },
+    {
+      "igdb_id": 407120,
+      "game_name": "Onimusha: Way of the Sword - Charm: Oni Lady",
+      "file": "missing/O/407120-onimusha-way-of-the-sword-charm-oni-lady.json"
+    },
+    {
+      "igdb_id": 407121,
+      "game_name": "Onimusha: Way of the Sword - Cloudbiter Haori",
+      "file": "missing/O/407121-onimusha-way-of-the-sword-cloudbiter-haori.json"
+    },
+    {
+      "igdb_id": 407110,
+      "game_name": "Onimusha: Way of the Sword - Deluxe Edition",
+      "file": "missing/O/407110-onimusha-way-of-the-sword-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 407122,
+      "game_name": "Onimusha: Way of the Sword - Hellfire Haori",
+      "file": "missing/O/407122-onimusha-way-of-the-sword-hellfire-haori.json"
+    },
+    {
       "igdb_id": 422014,
       "game_name": "Onimusha: Way of the Sword - Lenticular Edition",
       "file": "missing/O/422014-onimusha-way-of-the-sword-lenticular-edition.json"
+    },
+    {
+      "igdb_id": 407124,
+      "game_name": "Onimusha: Way of the Sword - Moonlight Haori",
+      "file": "missing/O/407124-onimusha-way-of-the-sword-moonlight-haori.json"
+    },
+    {
+      "igdb_id": 407125,
+      "game_name": "Onimusha: Way of the Sword - Oni Gauntlet: Crimson Lotus",
+      "file": "missing/O/407125-onimusha-way-of-the-sword-oni-gauntlet-crimson-lotus.json"
+    },
+    {
+      "igdb_id": 407126,
+      "game_name": "Onimusha: Way of the Sword - Outfit for Musashi: Red Armor",
+      "file": "missing/O/407126-onimusha-way-of-the-sword-outfit-for-musashi-red-armor.json"
+    },
+    {
+      "igdb_id": 407127,
+      "game_name": "Onimusha: Way of the Sword - Outfit for Okuni: Flower Dance",
+      "file": "missing/O/407127-onimusha-way-of-the-sword-outfit-for-okuni-flower-dance.json"
+    },
+    {
+      "igdb_id": 407128,
+      "game_name": "Onimusha: Way of the Sword - Outfit for Okuni: Goldfish Dance",
+      "file": "missing/O/407128-onimusha-way-of-the-sword-outfit-for-okuni-goldfish-dance.json"
+    },
+    {
+      "igdb_id": 407129,
+      "game_name": "Onimusha: Way of the Sword - Outfit for Okuni: Oni Dance",
+      "file": "missing/O/407129-onimusha-way-of-the-sword-outfit-for-okuni-oni-dance.json"
+    },
+    {
+      "igdb_id": 407130,
+      "game_name": "Onimusha: Way of the Sword - Outfit for the Oni Lady: Bird Call",
+      "file": "missing/O/407130-onimusha-way-of-the-sword-outfit-for-the-oni-lady-bird-call.json"
+    },
+    {
+      "igdb_id": 407131,
+      "game_name": "Onimusha: Way of the Sword - Outfit for the Oni Lady: Elegance",
+      "file": "missing/O/407131-onimusha-way-of-the-sword-outfit-for-the-oni-lady-elegance.json"
+    },
+    {
+      "igdb_id": 407132,
+      "game_name": "Onimusha: Way of the Sword - Outfit for the Oni Lady: Snow Camellia",
+      "file": "missing/O/407132-onimusha-way-of-the-sword-outfit-for-the-oni-lady-snow-camellia.json"
+    },
+    {
+      "igdb_id": 407109,
+      "game_name": "Onimusha: Way of the Sword - Premium Deluxe Edition",
+      "file": "missing/O/407109-onimusha-way-of-the-sword-premium-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 407133,
+      "game_name": "Onimusha: Way of the Sword - Sword Appearance: Bamboo & Panda",
+      "file": "missing/O/407133-onimusha-way-of-the-sword-sword-appearance-bamboo-and-panda.json"
+    },
+    {
+      "igdb_id": 407134,
+      "game_name": "Onimusha: Way of the Sword - Sword Appearance: Enryuu",
+      "file": "missing/O/407134-onimusha-way-of-the-sword-sword-appearance-enryuu.json"
+    },
+    {
+      "igdb_id": 407135,
+      "game_name": "Onimusha: Way of the Sword - Sword Appearance: Raizan",
+      "file": "missing/O/407135-onimusha-way-of-the-sword-sword-appearance-raizan.json"
     },
     {
       "igdb_id": 407136,
@@ -774575,6 +774760,11 @@
       "igdb_id": 381237,
       "game_name": "Orbitals",
       "file": "missing/O/381237-orbitals.json"
+    },
+    {
+      "igdb_id": 407108,
+      "game_name": "Orbitals: Deluxe Edition",
+      "file": "missing/O/407108-orbitals-deluxe-edition.json"
     },
     {
       "igdb_id": 371566,
@@ -805397,6 +805587,11 @@
       "file": "missing/P/262858-phantoms-call.json"
     },
     {
+      "igdb_id": 407387,
+      "game_name": "Phantom's Hour",
+      "file": "missing/P/407387-phantoms-hour.json"
+    },
+    {
       "igdb_id": 37029,
       "game_name": "Phantomas",
       "file": "missing/P/37029-phantomas.json"
@@ -833900,6 +834095,11 @@
       "igdb_id": 400201,
       "game_name": "Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition",
       "file": "missing/P/400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json"
+    },
+    {
+      "igdb_id": 407107,
+      "game_name": "Pool & Snooker Fever: 2 in 1 Bundle - Legendary Edition",
+      "file": "missing/P/407107-pool-and-snooker-fever-2-in-1-bundle-legendary-edition.json"
     },
     {
       "igdb_id": 395683,
@@ -877727,6 +877927,11 @@
       "file": "missing/R/380721-real-boxing-2-remastered-el-loco-edition.json"
     },
     {
+      "igdb_id": 407106,
+      "game_name": "Real Boxing 2: Remastered - Emerald Edition",
+      "file": "missing/R/407106-real-boxing-2-remastered-emerald-edition.json"
+    },
+    {
       "igdb_id": 411837,
       "game_name": "Real Boxing 2: Remastered - Gold Edition",
       "file": "missing/R/411837-real-boxing-2-remastered-gold-edition.json"
@@ -921390,6 +921595,11 @@
       "igdb_id": 258823,
       "game_name": "Saeko: Giantess Dating Sim",
       "file": "missing/S/258823-saeko-giantess-dating-sim.json"
+    },
+    {
+      "igdb_id": 407105,
+      "game_name": "Saeko: Giantess Dating Sim - Digital Deluxe Edition",
+      "file": "missing/S/407105-saeko-giantess-dating-sim-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 36643,
@@ -995757,6 +995967,11 @@
       "file": "missing/S/120112-soul-scathe.json"
     },
     {
+      "igdb_id": 407515,
+      "game_name": "Soul Searchin'",
+      "file": "missing/S/407515-soul-searchin.json"
+    },
+    {
       "igdb_id": 216872,
       "game_name": "Soul Searching",
       "file": "missing/S/216872-soul-searching.json"
@@ -1053927,6 +1054142,11 @@
       "file": "missing/S/221710-super-sans-race-running.json"
     },
     {
+      "igdb_id": 407511,
+      "game_name": "Super Santa Kicker",
+      "file": "missing/S/407511-super-santa-kicker.json"
+    },
+    {
       "igdb_id": 325522,
       "game_name": "Super Sapiens",
       "file": "missing/S/325522-super-sapiens.json"
@@ -1075670,6 +1075890,11 @@
       "igdb_id": 280213,
       "game_name": "Tangerine Panic",
       "file": "missing/T/280213-tangerine-panic.json"
+    },
+    {
+      "igdb_id": 407521,
+      "game_name": "Tangerine Tycoon",
+      "file": "missing/T/407521-tangerine-tycoon.json"
     },
     {
       "igdb_id": 293318,
@@ -1123602,6 +1123827,11 @@
       "file": "missing/T/268201-the-magic-roundabout.json"
     },
     {
+      "igdb_id": 407103,
+      "game_name": "The Magic School",
+      "file": "missing/T/407103-the-magic-school.json"
+    },
+    {
       "igdb_id": 70312,
       "game_name": "The Magic School Bus Explores Bugs",
       "file": "missing/T/70312-the-magic-school-bus-explores-bugs.json"
@@ -1154317,6 +1154547,11 @@
       "file": "missing/T/420221-tideheart.json"
     },
     {
+      "igdb_id": 407503,
+      "game_name": "Tidepool",
+      "file": "missing/T/407503-tidepool.json"
+    },
+    {
       "igdb_id": 315777,
       "game_name": "Tides Odyssey",
       "file": "missing/T/315777-tides-odyssey.json"
@@ -1179130,6 +1179365,11 @@
       "igdb_id": 102333,
       "game_name": "Towards a perilous journey",
       "file": "missing/T/102333-towards-a-perilous-journey.json"
+    },
+    {
+      "igdb_id": 407512,
+      "game_name": "Towards the Light",
+      "file": "missing/T/407512-towards-the-light.json"
     },
     {
       "igdb_id": 25316,
@@ -1209932,6 +1210172,11 @@
       "file": "missing/U/398392-ultimate-wizard.json"
     },
     {
+      "igdb_id": 407102,
+      "game_name": "Ultimate Wobble Run",
+      "file": "missing/U/407102-ultimate-wobble-run.json"
+    },
+    {
       "igdb_id": 31678,
       "game_name": "Ultimate Word Search 2: Letter Boxed",
       "file": "missing/U/31678-ultimate-word-search-2-letter-boxed.json"
@@ -1218730,6 +1218975,11 @@
       "igdb_id": 134165,
       "game_name": "Until Then",
       "file": "missing/U/134165-until-then.json"
+    },
+    {
+      "igdb_id": 407104,
+      "game_name": "Until Then: Deluxe Edition",
+      "file": "missing/U/407104-until-then-deluxe-edition.json"
     },
     {
       "igdb_id": 400949,
@@ -1249877,6 +1250127,11 @@
       "file": "missing/W/148953-watermelon-blocks.json"
     },
     {
+      "igdb_id": 407514,
+      "game_name": "Watermelon Bomb",
+      "file": "missing/W/407514-watermelon-bomb.json"
+    },
+    {
       "igdb_id": 275693,
       "game_name": "Watermelon Challenge",
       "file": "missing/W/275693-watermelon-challenge.json"
@@ -1255890,11 +1256145,6 @@
       "igdb_id": 282222,
       "game_name": "Wheelborn",
       "file": "missing/W/282222-wheelborn.json"
-    },
-    {
-      "igdb_id": 406738,
-      "game_name": "Wheelchair for Two",
-      "file": "missing/W/406738-wheelchair-for-two.json"
     },
     {
       "igdb_id": 103157,
