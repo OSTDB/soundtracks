@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Across the Timeways | 322150 | [322150-hearthstone-across-the-timeways.json](./322150-hearthstone-across-the-timeways.json) |
 | Hearthstone: Ashes of Outland | 131879 | [131879-hearthstone-ashes-of-outland.json](./131879-hearthstone-ashes-of-outland.json) |
 | Hearthstone: Ashes of Outland - Trial by Felfire | 135707 | [135707-hearthstone-ashes-of-outland-trial-by-felfire.json](./135707-hearthstone-ashes-of-outland-trial-by-felfire.json) |
+| Hearthstone: Cataclysm | 389375 | [389375-hearthstone-cataclysm.json](./389375-hearthstone-cataclysm.json) |
 | Hearthstone: Curse of Naxxramas | 21977 | [21977-hearthstone-curse-of-naxxramas.json](./21977-hearthstone-curse-of-naxxramas.json) |
 | Hearthstone: Descent of Dragons | 125176 | [125176-hearthstone-descent-of-dragons.json](./125176-hearthstone-descent-of-dragons.json) |
 | Hearthstone: Descent of Dragons - Galakrond's Awakening | 135706 | [135706-hearthstone-descent-of-dragons-galakronds-awakening.json](./135706-hearthstone-descent-of-dragons-galakronds-awakening.json) |
@@ -6833,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitherto: School of Swordcery and Shieldjuration | 414757 | [414757-hitherto-school-of-swordcery-and-shieldjuration.json](./414757-hitherto-school-of-swordcery-and-shieldjuration.json) |
 | Hitler Hates Anime | 166486 | [166486-hitler-hates-anime.json](./166486-hitler-hates-anime.json) |
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
+| Hitler Loves Anime | 389767 | [389767-hitler-loves-anime.json](./389767-hitler-loves-anime.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
 | Hitm3 | 291870 | [291870-hitm3.json](./291870-hitm3.json) |
@@ -8574,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
 | Hot and Lovely: Purple | 384884 | [384884-hot-and-lovely-purple.json](./384884-hot-and-lovely-purple.json) |
+| Hot and Lovely: Purple Lust | 389768 | [389768-hot-and-lovely-purple-lust.json](./389768-hot-and-lovely-purple-lust.json) |
 | Hot and Lovely: Seduction | 366336 | [366336-hot-and-lovely-seduction.json](./366336-hot-and-lovely-seduction.json) |
 | Hot and Lovely: Seduction Waifu | 384719 | [384719-hot-and-lovely-seduction-waifu.json](./384719-hot-and-lovely-seduction-waifu.json) |
 | Hot and Lovely: Suger | 280657 | [280657-hot-and-lovely-suger.json](./280657-hot-and-lovely-suger.json) |
