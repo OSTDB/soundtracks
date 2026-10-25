@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-On | 211701 | [211701-e-on.json](./211701-e-on.json) |
 | E-Police | 341531 | [341531-e-police.json](./341531-e-police.json) |
 | E-Reader 5-Card Sample Pack | 355538 | [355538-e-reader-5-card-sample-pack.json](./355538-e-reader-5-card-sample-pack.json) |
+| e-River Cabin Journal | 32452 | [32452-e-river-cabin-journal.json](./32452-e-river-cabin-journal.json) |
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Shop Tycoon | 390034 | [390034-e-shop-tycoon.json](./390034-e-shop-tycoon.json) |
 | E-Startup | 96707 | [96707-e-startup.json](./96707-e-startup.json) |
@@ -5342,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve of Calamity | 224623 | [224623-eve-of-calamity.json](./224623-eve-of-calamity.json) |
 | Eve of Cultivation | 390199 | [390199-eve-of-cultivation.json](./390199-eve-of-cultivation.json) |
 | Eve of Destruction | 290946 | [290946-eve-of-destruction.json](./290946-eve-of-destruction.json) |
+| Eve of Destruction: Redux | 31255 | [31255-eve-of-destruction-redux.json](./31255-eve-of-destruction-redux.json) |
 | Eve of Souls: Static Pod | 107461 | [107461-eve-of-souls-static-pod.json](./107461-eve-of-souls-static-pod.json) |
 | Eve of the Genesis | 38500 | [38500-eve-of-the-genesis.json](./38500-eve-of-the-genesis.json) |
 | Eve of the Storm | 265558 | [265558-eve-of-the-storm.json](./265558-eve-of-the-storm.json) |
