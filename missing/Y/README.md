@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack | 144785 | [144785-you-dont-know-jack.json](./144785-you-dont-know-jack.json) |
 | You Don't Know Jack | 5304 | [5304-you-dont-know-jack.json](./5304-you-dont-know-jack.json) |
 | You Don't Know Jack Movies | 16785 | [16785-you-dont-know-jack-movies.json](./16785-you-dont-know-jack-movies.json) |
+| You Don't Know Jack Presented by Masatoshi Hamada | 391562 | [391562-you-dont-know-jack-presented-by-masatoshi-hamada.json](./391562-you-dont-know-jack-presented-by-masatoshi-hamada.json) |
 | You Don't Know Jack Television | 16787 | [16787-you-dont-know-jack-television.json](./16787-you-dont-know-jack-television.json) |
 | You Don't Know Jack Vol. 2 | 16782 | [16782-you-dont-know-jack-vol-2.json](./16782-you-dont-know-jack-vol-2.json) |
 | You Don't Know Jack Vol. 6: The Lost Gold | 16789 | [16789-you-dont-know-jack-vol-6-the-lost-gold.json](./16789-you-dont-know-jack-vol-6-the-lost-gold.json) |
