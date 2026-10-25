@@ -2996,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recorded | 59691 | [59691-recorded.json](./59691-recorded.json) |
 | Recording the Predestined Time | 135013 | [135013-recording-the-predestined-time.json](./135013-recording-the-predestined-time.json) |
 | Records of the Flycatcher | 319803 | [319803-records-of-the-flycatcher.json](./319803-records-of-the-flycatcher.json) |
+| Records of Westarea War | 389186 | [389186-records-of-westarea-war.json](./389186-records-of-westarea-war.json) |
 | ReCore | 11131 | [11131-recore.json](./11131-recore.json) |
 | Recore: Collector's Edition | 41624 | [41624-recore-collectors-edition.json](./41624-recore-collectors-edition.json) |
 | ReCore: Definitive Edition | 54787 | [54787-recore-definitive-edition.json](./54787-recore-definitive-edition.json) |
@@ -4030,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reload 2 Remember | 227470 | [227470-reload-2-remember.json](./227470-reload-2-remember.json) |
 | Reload Map Jam | 271844 | [271844-reload-map-jam.json](./271844-reload-map-jam.json) |
 | Reloader: test_subject | 168129 | [168129-reloader-test-subject.json](./168129-reloader-test-subject.json) |
+| Reloadian | 389223 | [389223-reloadian.json](./389223-reloadian.json) |
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | Relyctum | 261439 | [261439-relyctum.json](./261439-relyctum.json) |
 | REM Hemispheres | 408701 | [408701-rem-hemispheres.json](./408701-rem-hemispheres.json) |
