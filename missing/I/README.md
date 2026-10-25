@@ -5421,7 +5421,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Was Not A Suicide | 414576 | [414576-it-was-not-a-suicide.json](./414576-it-was-not-a-suicide.json) |
 | IT was only a dream | 22031 | [22031-it-was-only-a-dream.json](./22031-it-was-only-a-dream.json) |
 | It Was Raining That Night | 278960 | [278960-it-was-raining-that-night.json](./278960-it-was-raining-that-night.json) |
+| It Was That Summer | 391531 | [391531-it-was-that-summer.json](./391531-it-was-that-summer.json) |
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
+| It Watches | 392324 | [392324-it-watches.json](./392324-it-watches.json) |
 | It Weighs You Down | 177221 | [177221-it-weighs-you-down.json](./177221-it-weighs-you-down.json) |
 | It Will Crush | 100878 | [100878-it-will-crush.json](./100878-it-will-crush.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
