@@ -2748,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leila | 258420 | [258420-leila.json](./258420-leila.json) |
 | Léinǔ Jīshén | 266666 | [266666-leinu-jishen.json](./266666-leinu-jishen.json) |
 | Leiria: Stargazer | 202865 | [202865-leiria-stargazer.json](./202865-leiria-stargazer.json) |
+| Leis para Todos | 388527 | [388527-leis-para-todos.json](./388527-leis-para-todos.json) |
 | Leisure Genius presents Monopoly | 80306 | [80306-leisure-genius-presents-monopoly.json](./80306-leisure-genius-presents-monopoly.json) |
 | Leisure Suit Larry 1: In the Land of the Lounge Lizards | 198430 | [198430-leisure-suit-larry-1-in-the-land-of-the-lounge-lizards.json](./198430-leisure-suit-larry-1-in-the-land-of-the-lounge-lizards.json) |
 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | 8656 | [8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json](./8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json) |
@@ -4793,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Busters! Converted Edition | 127796 | [127796-little-busters-converted-edition.json](./127796-little-busters-converted-edition.json) |
 | Little Busters! Perfect Edition: TV Anime Commemorative Edition | 291075 | [291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json](./291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json) |
 | Little By Little By Little | 178992 | [178992-little-by-little-by-little.json](./178992-little-by-little-by-little.json) |
+| Little Cabin in the Woods: A Forgotten Hill Tale | 388554 | [388554-little-cabin-in-the-woods-a-forgotten-hill-tale.json](./388554-little-cabin-in-the-woods-a-forgotten-hill-tale.json) |
 | Little Caesars Fractions Pizza | 77302 | [77302-little-caesars-fractions-pizza.json](./77302-little-caesars-fractions-pizza.json) |
 | Little Cat Doctor | 300846 | [300846-little-cat-doctor.json](./300846-little-cat-doctor.json) |
 | Little Cells | 28110 | [28110-little-cells.json](./28110-little-cells.json) |
