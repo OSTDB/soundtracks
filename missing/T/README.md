@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
+| Target Dragon 2: Maze Runner | 410692 | [410692-target-dragon-2-maze-runner.json](./410692-target-dragon-2-maze-runner.json) |
 | Target Earth | 93087 | [93087-target-earth.json](./93087-target-earth.json) |
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
@@ -9798,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last City | 202724 | [202724-the-last-city.json](./202724-the-last-city.json) |
 | The Last City | 202725 | [202725-the-last-city.json](./202725-the-last-city.json) |
 | The Last Cohort | 141528 | [141528-the-last-cohort.json](./141528-the-last-cohort.json) |
+| The Last Comfort | 410653 | [410653-the-last-comfort.json](./410653-the-last-comfort.json) |
 | The Last Commander | 272218 | [272218-the-last-commander.json](./272218-the-last-commander.json) |
 | The Last Companion | 125718 | [125718-the-last-companion.json](./125718-the-last-companion.json) |
 | The Last Contact | 112776 | [112776-the-last-contact.json](./112776-the-last-contact.json) |
@@ -11644,7 +11646,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -22064,8 +22065,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: The Unreachable Oneiroborder | 260319 | [260319-touhou-the-unreachable-oneiroborder.json](./260319-touhou-the-unreachable-oneiroborder.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touhou: Wandering Souls | 304110 | [304110-touhou-wandering-souls.json](./304110-touhou-wandering-souls.json) |
+| Touhoumon Another World: Revised | 410666 | [410666-touhoumon-another-world-revised.json](./410666-touhoumon-another-world-revised.json) |
 | Touhoumon Purple | 131840 | [131840-touhoumon-purple.json](./131840-touhoumon-purple.json) |
 | Touhoumon World Link | 279679 | [279679-touhoumon-world-link.json](./279679-touhoumon-world-link.json) |
+| Touhoumon World Link: Revised | 410663 | [410663-touhoumon-world-link-revised.json](./410663-touhoumon-world-link-revised.json) |
 | TouhouSnowClash | 263142 | [263142-touhousnowclash.json](./263142-touhousnowclash.json) |
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
@@ -24691,6 +24694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash | 94319 | [94319-trash.json](./94319-trash.json) |
 | Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
+| Trash Coin | 410697 | [410697-trash-coin.json](./410697-trash-coin.json) |
 | Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
 | Trash defense | 114397 | [114397-trash-defense.json](./114397-trash-defense.json) |
 | Trash Diver | 89212 | [89212-trash-diver.json](./89212-trash-diver.json) |
@@ -26132,6 +26136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
 | True North | 120030 | [120030-true-north.json](./120030-true-north.json) |
+| True of Voice: A Duat Deckbuilder | 410693 | [410693-true-of-voice-a-duat-deckbuilder.json](./410693-true-of-voice-a-duat-deckbuilder.json) |
 | True or False | 96483 | [96483-true-or-false.json](./96483-true-or-false.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
 | True or False Universe | 54861 | [54861-true-or-false-universe.json](./54861-true-or-false-universe.json) |
