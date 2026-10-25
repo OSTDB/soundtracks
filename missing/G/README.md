@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Puzzles: Animals - Expansion Pack | 163429 | [163429-game-of-puzzles-animals-expansion-pack.json](./163429-game-of-puzzles-animals-expansion-pack.json) |
 | Game of Puzzles: Dinosaurs | 148994 | [148994-game-of-puzzles-dinosaurs.json](./148994-game-of-puzzles-dinosaurs.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
+| Game of Puzzles: Furry | 119749 | [119749-game-of-puzzles-furry.json](./119749-game-of-puzzles-furry.json) |
 | Game of Puzzles: Slavic Mythology | 163415 | [163415-game-of-puzzles-slavic-mythology.json](./163415-game-of-puzzles-slavic-mythology.json) |
 | Game of Puzzles: Space | 129438 | [129438-game-of-puzzles-space.json](./129438-game-of-puzzles-space.json) |
 | Game of Roads | 174364 | [174364-game-of-roads.json](./174364-game-of-roads.json) |
@@ -3931,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
 | Glassfish Bomb | 243074 | [243074-glassfish-bomb.json](./243074-glassfish-bomb.json) |
 | Glasshouse | 236321 | [236321-glasshouse.json](./236321-glasshouse.json) |
+| GlassSmash | 117114 | [117114-glasssmash.json](./117114-glasssmash.json) |
 | Glassteroids | 111588 | [111588-glassteroids.json](./111588-glassteroids.json) |
 | Glasswinged Ascension | 46484 | [46484-glasswinged-ascension.json](./46484-glasswinged-ascension.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
@@ -6293,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Banda | 392727 | [392727-grand-banda.json](./392727-grand-banda.json) |
 | Grand Battle | 116043 | [116043-grand-battle.json](./116043-grand-battle.json) |
 | Grand Battle--MMO Strategy:War | 61712 | [61712-grand-battle-mmo-strategy-war.json](./61712-grand-battle-mmo-strategy-war.json) |
+| Grand Brix Shooter | 121532 | [121532-grand-brix-shooter.json](./121532-grand-brix-shooter.json) |
 | Grand Bubble Shoot | 99096 | [99096-grand-bubble-shoot.json](./99096-grand-bubble-shoot.json) |
 | Grand Cash Casino Slots | 386226 | [386226-grand-cash-casino-slots.json](./386226-grand-cash-casino-slots.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
@@ -7894,6 +7897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
 | Grot Slasher | 203668 | [203668-grot-slasher.json](./203668-grot-slasher.json) |
+| Grotesque Beauty | 117206 | [117206-grotesque-beauty.json](./117206-grotesque-beauty.json) |
 | Grotesque Insight | 258622 | [258622-grotesque-insight.json](./258622-grotesque-insight.json) |
 | Grotesque Realm | 225205 | [225205-grotesque-realm.json](./225205-grotesque-realm.json) |
 | Grotesque Tactics 2: Dungeons and Donuts | 16149 | [16149-grotesque-tactics-2-dungeons-and-donuts.json](./16149-grotesque-tactics-2-dungeons-and-donuts.json) |
