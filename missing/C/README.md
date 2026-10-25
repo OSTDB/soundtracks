@@ -8564,6 +8564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
 | Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
+| Cloud JourneyVR | 424669 | [424669-cloud-journeyvr.json](./424669-cloud-journeyvr.json) |
 | Cloud Keeper: Shrine of Dal | 356039 | [356039-cloud-keeper-shrine-of-dal.json](./356039-cloud-keeper-shrine-of-dal.json) |
 | Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
 | Cloud Meadow | 137958 | [137958-cloud-meadow.json](./137958-cloud-meadow.json) |
@@ -11597,6 +11598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooks Girls | 367835 | [367835-cooks-girls.json](./367835-cooks-girls.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
 | Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
+| Cool 2 Players Games | 424646 | [424646-cool-2-players-games.json](./424646-cool-2-players-games.json) |
 | Cool Animals | 201611 | [201611-cool-animals.json](./201611-cool-animals.json) |
 | Cool army games for kids 6 year old and under boys | 100049 | [100049-cool-army-games-for-kids-6-year-old-and-under-boys.json](./100049-cool-army-games-for-kids-6-year-old-and-under-boys.json) |
 | Cool Boarders 3 | 26130 | [26130-cool-boarders-3.json](./26130-cool-boarders-3.json) |
@@ -16458,6 +16460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Mission | 241294 | [241294-cyber-mission.json](./241294-cyber-mission.json) |
 | Cyber Nations | 63777 | [63777-cyber-nations.json](./63777-cyber-nations.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
+| Cyber Neon: Core Protocol | 424643 | [424643-cyber-neon-core-protocol.json](./424643-cyber-neon-core-protocol.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Noir Stories: The Trunk | 217207 | [217207-cyber-noir-stories-the-trunk.json](./217207-cyber-noir-stories-the-trunk.json) |
 | Cyber Ops | 114068 | [114068-cyber-ops.json](./114068-cyber-ops.json) |
@@ -16616,6 +16619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberKitty: Neon Merge | 415858 | [415858-cyberkitty-neon-merge.json](./415858-cyberkitty-neon-merge.json) |
 | Cyberlaser | 232508 | [232508-cyberlaser.json](./232508-cyberlaser.json) |
 | Cyberless III: Online | 129418 | [129418-cyberless-iii-online.json](./129418-cyberless-iii-online.json) |
+| Cyberlife | 424665 | [424665-cyberlife.json](./424665-cyberlife.json) |
 | Cyberlinxx | 236952 | [236952-cyberlinxx.json](./236952-cyberlinxx.json) |
 | Cyberlords Arcology | 374290 | [374290-cyberlords-arcology.json](./374290-cyberlords-arcology.json) |
 | Cybermage: Darklight Awakening | 18998 | [18998-cybermage-darklight-awakening.json](./18998-cybermage-darklight-awakening.json) |
