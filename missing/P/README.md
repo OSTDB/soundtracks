@@ -11399,6 +11399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Preschool ABC Number and Letter Puzzle Game | 88355 | [88355-preschool-abc-number-and-letter-puzzle-game.json](./88355-preschool-abc-number-and-letter-puzzle-game.json) |
 | Preschool All-In-One | 99138 | [99138-preschool-all-in-one.json](./99138-preschool-all-in-one.json) |
+| Preschool Car Truck and Engine Jigsaw Puzzle | 89169 | [89169-preschool-car-truck-and-engine-jigsaw-puzzle.json](./89169-preschool-car-truck-and-engine-jigsaw-puzzle.json) |
 | Preschool Colors Toys Train | 99719 | [99719-preschool-colors-toys-train.json](./99719-preschool-colors-toys-train.json) |
 | Preschool EduKidsRoom | 87266 | [87266-preschool-edukidsroom.json](./87266-preschool-edukidsroom.json) |
 | Preschool EduKitchen | 90799 | [90799-preschool-edukitchen.json](./90799-preschool-edukitchen.json) |
