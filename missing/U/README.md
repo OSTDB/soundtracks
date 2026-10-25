@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fort Night Survival: Royale Battle | 100906 | [100906-ultimate-fort-night-survival-royale-battle.json](./100906-ultimate-fort-night-survival-royale-battle.json) |
 | Ultimate Fox Simulator 2 | 406643 | [406643-ultimate-fox-simulator-2.json](./406643-ultimate-fox-simulator-2.json) |
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
+| Ultimate Frolf Chaos! | 394409 | [394409-ultimate-frolf-chaos.json](./394409-ultimate-frolf-chaos.json) |
 | Ultimate Front | 255142 | [255142-ultimate-front.json](./255142-ultimate-front.json) |
 | Ultimate Gamepak | 273907 | [273907-ultimate-gamepak.json](./273907-ultimate-gamepak.json) |
 | Ultimate Games Bundle | 273337 | [273337-ultimate-games-bundle.json](./273337-ultimate-games-bundle.json) |
@@ -1722,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unending Galaxy | 33590 | [33590-unending-galaxy.json](./33590-unending-galaxy.json) |
 | Unepic | 3018 | [3018-unepic.json](./3018-unepic.json) |
 | UnEpic: Collector's Edition | 166178 | [166178-unepic-collectors-edition.json](./166178-unepic-collectors-edition.json) |
+| UnExist: Yume Kanawanu Douketachi | 393298 | [393298-unexist-yume-kanawanu-douketachi.json](./393298-unexist-yume-kanawanu-douketachi.json) |
 | Unexpected | 420180 | [420180-unexpected.json](./420180-unexpected.json) |
 | Unexpected 2 | 420182 | [420182-unexpected-2.json](./420182-unexpected-2.json) |
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
@@ -2427,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untei DX | 295918 | [295918-untei-dx.json](./295918-untei-dx.json) |
 | Untergrund Raceways: Arena | 417518 | [417518-untergrund-raceways-arena.json](./417518-untergrund-raceways-arena.json) |
 | Unterholz | 322255 | [322255-unterholz.json](./322255-unterholz.json) |
+| Until Biglight | 394400 | [394400-until-biglight.json](./394400-until-biglight.json) |
 | Until Dawn 2 | 404058 | [404058-until-dawn-2.json](./404058-until-dawn-2.json) |
 | Until Dawn Tomorrow | 177726 | [177726-until-dawn-tomorrow.json](./177726-until-dawn-tomorrow.json) |
 | Until Dawn: Extended Edition | 42947 | [42947-until-dawn-extended-edition.json](./42947-until-dawn-extended-edition.json) |
