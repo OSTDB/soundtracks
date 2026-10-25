@@ -4670,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Army | 249045 | [249045-little-army.json](./249045-little-army.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
+| Little Awesome Dudes | 121589 | [121589-little-awesome-dudes.json](./121589-little-awesome-dudes.json) |
 | Little Backpack | 407408 | [407408-little-backpack.json](./407408-little-backpack.json) |
 | Little Bartmares | 328955 | [328955-little-bartmares.json](./328955-little-bartmares.json) |
 | Little Bear | 308582 | [308582-little-bear.json](./308582-little-bear.json) |
@@ -7334,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LovePlus Every | 70861 | [70861-loveplus-every.json](./70861-loveplus-every.json) |
 | LovePlus+ | 124475 | [124475-loveplus.json](./124475-loveplus.json) |
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
+| Lover Bands | 117280 | [117280-lover-bands.json](./117280-lover-bands.json) |
 | Lover Boy | 40367 | [40367-lover-boy.json](./40367-lover-boy.json) |
 | Lover Interface | 341104 | [341104-lover-interface.json](./341104-lover-interface.json) |
 | LoveR Kiss: Costume Deluxe Pack | 136945 | [136945-lover-kiss-costume-deluxe-pack.json](./136945-lover-kiss-costume-deluxe-pack.json) |
