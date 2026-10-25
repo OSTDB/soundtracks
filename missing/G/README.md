@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoBoxer | 293473 | [293473-geoboxer.json](./293473-geoboxer.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
+| Geocore | 35654 | [35654-geocore.json](./35654-geocore.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
 | geoDefence Swarm | 23254 | [23254-geodefence-swarm.json](./23254-geodefence-swarm.json) |
 | geoDefense | 90909 | [90909-geodefense.json](./90909-geodefense.json) |
@@ -6676,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
 | Grave | 62500 | [62500-grave.json](./62500-grave.json) |
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
+| Grave Chase | 38752 | [38752-grave-chase.json](./38752-grave-chase.json) |
 | Grave Danger | 26585 | [26585-grave-danger.json](./26585-grave-danger.json) |
 | Grave Danger: Ultimate Edition | 84531 | [84531-grave-danger-ultimate-edition.json](./84531-grave-danger-ultimate-edition.json) |
 | Grave Days | 109167 | [109167-grave-days.json](./109167-grave-days.json) |
@@ -6694,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
 | Grave Pobbery | 267258 | [267258-grave-pobbery.json](./267258-grave-pobbery.json) |
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
+| Grave Prosperity: Redux- part 1 | 35553 | [35553-grave-prosperity-redux-part-1.json](./35553-grave-prosperity-redux-part-1.json) |
 | Grave Prosperity: The Vestigial Princess | 202204 | [202204-grave-prosperity-the-vestigial-princess.json](./202204-grave-prosperity-the-vestigial-princess.json) |
 | Grave Robber | 249890 | [249890-grave-robber.json](./249890-grave-robber.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
@@ -6777,6 +6780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
+| Gravilon | 35652 | [35652-gravilon.json](./35652-gravilon.json) |
 | Gravinaytor | 305002 | [305002-gravinaytor.json](./305002-gravinaytor.json) |
 | Gravinoid | 128933 | [128933-gravinoid.json](./128933-gravinoid.json) |
 | Gravinull | 79159 | [79159-gravinull.json](./79159-gravinull.json) |
