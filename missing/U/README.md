@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncivilized | 176176 | [176176-uncivilized.json](./176176-uncivilized.json) |
 | Unclaimed | 424678 | [424678-unclaimed.json](./424678-unclaimed.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
+| Unclaimed: Loot or Junk | 415035 | [415035-unclaimed-loot-or-junk.json](./415035-unclaimed-loot-or-junk.json) |
 | Uncle Albert's Fabulous Voyage | 25916 | [25916-uncle-alberts-fabulous-voyage.json](./25916-uncle-alberts-fabulous-voyage.json) |
 | Uncle Albert's Magical Album | 147321 | [147321-uncle-alberts-magical-album.json](./147321-uncle-alberts-magical-album.json) |
 | Uncle and His Friend | 393612 | [393612-uncle-and-his-friend.json](./393612-uncle-and-his-friend.json) |
@@ -2325,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unscramble Words | 88730 | [88730-unscramble-words.json](./88730-unscramble-words.json) |
 | Unscripted | 150764 | [150764-unscripted.json](./150764-unscripted.json) |
 | Unscripted | 223383 | [223383-unscripted.json](./223383-unscripted.json) |
+| Unsealed: Vigil | 414948 | [414948-unsealed-vigil.json](./414948-unsealed-vigil.json) |
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
 | Unseen | 328940 | [328940-unseen.json](./328940-unseen.json) |
 | Unseen | 380736 | [380736-unseen.json](./380736-unseen.json) |
