@@ -3675,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Tide | 184323 | [184323-night-tide.json](./184323-night-tide.json) |
 | Night Time | 369222 | [369222-night-time.json](./369222-night-time.json) |
+| Night Train | 413700 | [413700-night-train.json](./413700-night-train.json) |
 | Night Train Simulator: Blackout | 412204 | [412204-night-train-simulator-blackout.json](./412204-night-train-simulator-blackout.json) |
 | Night Trap | 179569 | [179569-night-trap.json](./179569-night-trap.json) |
 | Night Trap | 2486 | [2486-night-trap.json](./2486-night-trap.json) |
@@ -3892,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares Mansion: Scary Dreams | 315104 | [315104-nightmares-mansion-scary-dreams.json](./315104-nightmares-mansion-scary-dreams.json) |
 | Nightmares of Death | 96205 | [96205-nightmares-of-death.json](./96205-nightmares-of-death.json) |
 | Nightmares of the death | 212969 | [212969-nightmares-of-the-death.json](./212969-nightmares-of-the-death.json) |
+| Nightmares: The Adventures Episode 3 - The Baron of Vermin Famine | 413797 | [413797-nightmares-the-adventures-episode-3-the-baron-of-vermin-famine.json](./413797-nightmares-the-adventures-episode-3-the-baron-of-vermin-famine.json) |
 | Nightmarescape | 280471 | [280471-nightmarescape.json](./280471-nightmarescape.json) |
 | NightmareScape | 255879 | [255879-nightmarescape.json](./255879-nightmarescape.json) |
 | NightMaresToBe | 163824 | [163824-nightmarestobe.json](./163824-nightmarestobe.json) |
