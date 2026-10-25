@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
 | Railway Mogul | 91548 | [91548-railway-mogul.json](./91548-railway-mogul.json) |
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
+| Railway Routes | 406520 | [406520-railway-routes.json](./406520-railway-routes.json) |
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
 | Railways: Train Simulator | 240650 | [240650-railways-train-simulator.json](./240650-railways-train-simulator.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
@@ -8188,8 +8189,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: Radioactive Revenant Pack | 406770 | [406770-rogue-company-radioactive-revenant-pack.json](./406770-rogue-company-radioactive-revenant-pack.json) |
 | Rogue Company: Scarlet Contract Starter Pack | 406757 | [406757-rogue-company-scarlet-contract-starter-pack.json](./406757-rogue-company-scarlet-contract-starter-pack.json) |
 | Rogue Company: Season 1 | 403225 | [403225-rogue-company-season-1.json](./403225-rogue-company-season-1.json) |
+| Rogue Company: Season 10 - Eternal Conflict | 406728 | [406728-rogue-company-season-10-eternal-conflict.json](./406728-rogue-company-season-10-eternal-conflict.json) |
+| Rogue Company: Season 11 - Three Wishes | 406733 | [406733-rogue-company-season-11-three-wishes.json](./406733-rogue-company-season-11-three-wishes.json) |
+| Rogue Company: Season 12 - Virtual Horizons | 406734 | [406734-rogue-company-season-12-virtual-horizons.json](./406734-rogue-company-season-12-virtual-horizons.json) |
 | Rogue Company: Season 14 - The Winter Warfare | 403214 | [403214-rogue-company-season-14-the-winter-warfare.json](./403214-rogue-company-season-14-the-winter-warfare.json) |
 | Rogue Company: Season 2 | 404140 | [404140-rogue-company-season-2.json](./404140-rogue-company-season-2.json) |
+| Rogue Company: Season 9 - Mad Mercenaries | 406725 | [406725-rogue-company-season-9-mad-mercenaries.json](./406725-rogue-company-season-9-mad-mercenaries.json) |
 | Rogue Company: Season Four Starter Pack | 406768 | [406768-rogue-company-season-four-starter-pack.json](./406768-rogue-company-season-four-starter-pack.json) |
 | Rogue Company: Season Three Starter Pack | 406821 | [406821-rogue-company-season-three-starter-pack.json](./406821-rogue-company-season-three-starter-pack.json) |
 | Rogue Company: Season Two Starter Pack | 406822 | [406822-rogue-company-season-two-starter-pack.json](./406822-rogue-company-season-two-starter-pack.json) |
