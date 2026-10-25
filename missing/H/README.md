@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Makeover: Spa, Makeup & Dressup Salon | 90374 | [90374-halloween-makeover-spa-makeup-and-dressup-salon.json](./90374-halloween-makeover-spa-makeup-and-dressup-salon.json) |
 | Halloween Memory Quest | 321488 | [321488-halloween-memory-quest.json](./321488-halloween-memory-quest.json) |
 | Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
+| Halloween Mystery: 100 Hidden Object Fruits | 390468 | [390468-halloween-mystery-100-hidden-object-fruits.json](./390468-halloween-mystery-100-hidden-object-fruits.json) |
 | Halloween Naughty Girls | 266081 | [266081-halloween-naughty-girls.json](./266081-halloween-naughty-girls.json) |
 | Halloween Night | 209447 | [209447-halloween-night.json](./209447-halloween-night.json) |
 | Halloween Night Archery | 84529 | [84529-halloween-night-archery.json](./84529-halloween-night-archery.json) |
@@ -5492,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
 | Heyday | 91541 | [91541-heyday.json](./91541-heyday.json) |
 | Heydooda! The Kitty Says: Hello Animal Kids | 87112 | [87112-heydooda-the-kitty-says-hello-animal-kids.json](./87112-heydooda-the-kitty-says-hello-animal-kids.json) |
+| Heyoo 3D Platformer | 390380 | [390380-heyoo-3d-platformer.json](./390380-heyoo-3d-platformer.json) |
 | Hezarin | 25114 | [25114-hezarin.json](./25114-hezarin.json) |
 | HG Adventure | 372070 | [372070-hg-adventure.json](./372070-hg-adventure.json) |
 | HgmGame Horse | 357851 | [357851-hgmgame-horse.json](./357851-hgmgame-horse.json) |
