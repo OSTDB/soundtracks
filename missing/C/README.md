@@ -9487,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collect Call | 288764 | [288764-collect-call.json](./288764-collect-call.json) |
 | Collect Call | 383789 | [383789-collect-call.json](./383789-collect-call.json) |
 | Collect iT 3D | 233123 | [233123-collect-it-3d.json](./233123-collect-it-3d.json) |
+| Collect Objects | 410032 | [410032-collect-objects.json](./410032-collect-objects.json) |
 | Collectamon | 262949 | [262949-collectamon.json](./262949-collectamon.json) |
 | Collectems | 61053 | [61053-collectems.json](./61053-collectems.json) |
 | Collectible Card Shop Master | 324988 | [324988-collectible-card-shop-master.json](./324988-collectible-card-shop-master.json) |
@@ -9797,6 +9798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
 | Colorami | 378517 | [378517-colorami.json](./378517-colorami.json) |
+| Coloratura | 410054 | [410054-coloratura.json](./410054-coloratura.json) |
 | Colorbind | 79525 | [79525-colorbind.json](./79525-colorbind.json) |
 | Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
