@@ -6410,6 +6410,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chosun Zombie Defense | 236856 | [236856-chosun-zombie-defense.json](./236856-chosun-zombie-defense.json) |
 | Chosung Quiz | 191853 | [191853-chosung-quiz.json](./191853-chosung-quiz.json) |
 | Chotex Jam | 312913 | [312913-chotex-jam.json](./312913-chotex-jam.json) |
+| Chotto Asobi Taizen: Jikkuri Trump | 408605 | [408605-chotto-asobi-taizen-jikkuri-trump.json](./408605-chotto-asobi-taizen-jikkuri-trump.json) |
+| Chotto Asobi Taizen: Onajimi Table | 408601 | [408601-chotto-asobi-taizen-onajimi-table.json](./408601-chotto-asobi-taizen-onajimi-table.json) |
+| Chotto Asobi Taizen: Otegaru Trump | 408599 | [408599-chotto-asobi-taizen-otegaru-trump.json](./408599-chotto-asobi-taizen-otegaru-trump.json) |
 | Chotto Magic Taizen: Date Uranai | 220847 | [220847-chotto-magic-taizen-date-uranai.json](./220847-chotto-magic-taizen-date-uranai.json) |
 | Chotto Magic Taizen: Nenzu Camera | 220848 | [220848-chotto-magic-taizen-nenzu-camera.json](./220848-chotto-magic-taizen-nenzu-camera.json) |
 | Chotto Magic Taizen: Suki Kirai Hakkenki | 220846 | [220846-chotto-magic-taizen-suki-kirai-hakkenki.json](./220846-chotto-magic-taizen-suki-kirai-hakkenki.json) |
@@ -16313,6 +16316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Time Travel | 41512 | [41512-cut-the-rope-time-travel.json](./41512-cut-the-rope-time-travel.json) |
 | Cut Them Off | 179891 | [179891-cut-them-off.json](./179891-cut-them-off.json) |
 | Cut Them Up | 150461 | [150461-cut-them-up.json](./150461-cut-them-up.json) |
+| Cut to Pieces | 408595 | [408595-cut-to-pieces.json](./408595-cut-to-pieces.json) |
 | Cut to the Core | 203963 | [203963-cut-to-the-core.json](./203963-cut-to-the-core.json) |
 | Cut WallStreet2 | 255031 | [255031-cut-wallstreet2.json](./255031-cut-wallstreet2.json) |
 | Cute & Cozy 5-in-1 | 390510 | [390510-cute-and-cozy-5-in-1.json](./390510-cute-and-cozy-5-in-1.json) |
