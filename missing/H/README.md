@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween 1 | 300824 | [300824-halloween-1.json](./300824-halloween-1.json) |
 | Halloween 2: Asylum | 357182 | [357182-halloween-2-asylum.json](./357182-halloween-2-asylum.json) |
 | Halloween 3D | 106514 | [106514-halloween-3d.json](./106514-halloween-3d.json) |
+| Halloween Basketball Legends | 395955 | [395955-halloween-basketball-legends.json](./395955-halloween-basketball-legends.json) |
 | Halloween Candy Break | 187763 | [187763-halloween-candy-break.json](./187763-halloween-candy-break.json) |
 | Halloween Candy Break 2 | 187750 | [187750-halloween-candy-break-2.json](./187750-halloween-candy-break-2.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
@@ -637,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Stories: Written in Blood - Collector's Edition | 362850 | [362850-halloween-stories-written-in-blood-collectors-edition.json](./362850-halloween-stories-written-in-blood-collectors-edition.json) |
 | Halloween Survivors | 270525 | [270525-halloween-survivors.json](./270525-halloween-survivors.json) |
 | Halloween Sweetplechase | 164050 | [164050-halloween-sweetplechase.json](./164050-halloween-sweetplechase.json) |
+| Halloween Trick or Treat Escape 1 | 395954 | [395954-halloween-trick-or-treat-escape-1.json](./395954-halloween-trick-or-treat-escape-1.json) |
 | Halloween Tripeaks | 61047 | [61047-halloween-tripeaks.json](./61047-halloween-tripeaks.json) |
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
 | Halloween Trouble 4 | 220029 | [220029-halloween-trouble-4.json](./220029-halloween-trouble-4.json) |
@@ -9973,6 +9975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Unlimited Trophy Collection | 69182 | [69182-hunting-unlimited-trophy-collection.json](./69182-hunting-unlimited-trophy-collection.json) |
 | Hunting World | 398039 | [398039-hunting-world.json](./398039-hunting-world.json) |
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
+| Huntloween | 395953 | [395953-huntloween.json](./395953-huntloween.json) |
 | HuntNPrey | 326181 | [326181-huntnprey.json](./326181-huntnprey.json) |
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
