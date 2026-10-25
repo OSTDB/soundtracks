@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netsoccer2 | 126247 | [126247-netsoccer2.json](./126247-netsoccer2.json) |
 | NetSpace Saga Ep.1 | 174076 | [174076-netspace-saga-ep-1.json](./174076-netspace-saga-ep-1.json) |
 | Netspectre | 211225 | [211225-netspectre.json](./211225-netspectre.json) |
+| NetStars: VR Goalie Trainer | 93679 | [93679-netstars-vr-goalie-trainer.json](./93679-netstars-vr-goalie-trainer.json) |
 | NetStorm: Islands At War | 1358 | [1358-netstorm-islands-at-war.json](./1358-netstorm-islands-at-war.json) |
 | Netsu Chu! Pro Yakyuu 2002 | 403523 | [403523-netsu-chu-pro-yakyuu-2002.json](./403523-netsu-chu-pro-yakyuu-2002.json) |
 | Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
