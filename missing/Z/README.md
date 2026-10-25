@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeron | 106304 | [106304-zeron.json](./106304-zeron.json) |
 | Zerone 2D | 161899 | [161899-zerone-2d.json](./161899-zerone-2d.json) |
 | Zerone Episode 1 Gunner | 114870 | [114870-zerone-episode-1-gunner.json](./114870-zerone-episode-1-gunner.json) |
+| ZeroOut | 406514 | [406514-zeroout.json](./406514-zeroout.json) |
 | ZeroPrompt | 399860 | [399860-zeroprompt.json](./399860-zeroprompt.json) |
 | Zeroptian Invasion | 111576 | [111576-zeroptian-invasion.json](./111576-zeroptian-invasion.json) |
 | ZeroRanger | 59737 | [59737-zeroranger.json](./59737-zeroranger.json) |
@@ -1724,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombocalypse | 389509 | [389509-zombocalypse.json](./389509-zombocalypse.json) |
 | Zombocalypse Now! | 374914 | [374914-zombocalypse-now.json](./374914-zombocalypse-now.json) |
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
+| Zombonic | 408076 | [408076-zombonic.json](./408076-zombonic.json) |
 | Zomborg | 75006 | [75006-zomborg.json](./75006-zomborg.json) |
 | Zombotron | 278616 | [278616-zombotron.json](./278616-zombotron.json) |
 | Zombotron | 77488 | [77488-zombotron.json](./77488-zombotron.json) |
