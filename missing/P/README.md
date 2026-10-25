@@ -9438,6 +9438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Emerald Backwards | 342184 | [342184-pokemon-emerald-backwards.json](./342184-pokemon-emerald-backwards.json) |
 | Pokemon: Evolved | 337426 | [337426-pokemon-evolved.json](./337426-pokemon-evolved.json) |
 | Pokémon: Final Legacy | 313406 | [313406-pokemon-final-legacy.json](./313406-pokemon-final-legacy.json) |
+| Pokémon: Generations | 413084 | [413084-pokemon-generations.json](./413084-pokemon-generations.json) |
 | Pokémon: Ghost Grey Version | 414524 | [414524-pokemon-ghost-grey-version.json](./414524-pokemon-ghost-grey-version.json) |
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
 | Pokémon: Harmonic Peace | 335148 | [335148-pokemon-harmonic-peace.json](./335148-pokemon-harmonic-peace.json) |
@@ -11300,6 +11301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Praise Champion | 209929 | [209929-praise-champion.json](./209929-praise-champion.json) |
 | Praise Dead | 261700 | [261700-praise-dead.json](./261700-praise-dead.json) |
 | Prajator: Image Ranger | 273281 | [273281-prajator-image-ranger.json](./273281-prajator-image-ranger.json) |
+| Prakasha | 413026 | [413026-prakasha.json](./413026-prakasha.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
 | Prank Bros | 108891 | [108891-prank-bros.json](./108891-prank-bros.json) |
 | Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
@@ -12363,6 +12365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
 | Pro Games Player | 203660 | [203660-pro-games-player.json](./203660-pro-games-player.json) |
 | Pro Golf | 385778 | [385778-pro-golf.json](./385778-pro-golf.json) |
+| Pro Golf | 413043 | [413043-pro-golf.json](./413043-pro-golf.json) |
 | Pro Golf | 95358 | [95358-pro-golf.json](./95358-pro-golf.json) |
 | Pro Golf Challenge | 96930 | [96930-pro-golf-challenge.json](./96930-pro-golf-challenge.json) |
 | Pro Golfer Saru | 268386 | [268386-pro-golfer-saru.json](./268386-pro-golfer-saru.json) |
@@ -13982,6 +13985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Enemies: Bonnie and Clyde | 122100 | [122100-public-enemies-bonnie-and-clyde.json](./122100-public-enemies-bonnie-and-clyde.json) |
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
 | Public Fears: George's Farm | 408010 | [408010-public-fears-georges-farm.json](./408010-public-fears-georges-farm.json) |
+| Public Lives | 413129 | [413129-public-lives.json](./413129-public-lives.json) |
 | Public Restroom Simulator 2022 | 213321 | [213321-public-restroom-simulator-2022.json](./213321-public-restroom-simulator-2022.json) |
 | Public Toilet Simulator | 340591 | [340591-public-toilet-simulator.json](./340591-public-toilet-simulator.json) |
 | Public Transport SImulator | 383133 | [383133-public-transport-simulator.json](./383133-public-transport-simulator.json) |
