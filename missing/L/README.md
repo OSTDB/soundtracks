@@ -6376,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lort | 345444 | [345444-lort.json](./345444-lort.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
+| Los Disneys 2.0 | 414433 | [414433-los-disneys-2-0.json](./414433-los-disneys-2-0.json) |
 | Los Justicieros (Zorton Brothers) | 119398 | [119398-los-justicieros-zorton-brothers.json](./119398-los-justicieros-zorton-brothers.json) |
 | Los Lunnis | 269610 | [269610-los-lunnis.json](./269610-los-lunnis.json) |
 | Los Páramos | 236107 | [236107-los-paramos.json](./236107-los-paramos.json) |
@@ -7579,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky | 67070 | [67070-lucky.json](./67070-lucky.json) |
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
+| Lucky Block | 414214 | [414214-lucky-block.json](./414214-lucky-block.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
 | Lucky Burst | 148823 | [148823-lucky-burst.json](./148823-lucky-burst.json) |
 | Lucky Cat Bingo | 354978 | [354978-lucky-cat-bingo.json](./354978-lucky-cat-bingo.json) |
