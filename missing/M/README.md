@@ -6495,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Miracle Force | 114784 | [114784-mega-miracle-force.json](./114784-mega-miracle-force.json) |
 | Mega Mosaic | 298374 | [298374-mega-mosaic.json](./298374-mega-mosaic.json) |
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
+| Mega Overload | 29060 | [29060-mega-overload.json](./29060-mega-overload.json) |
 | Mega Party a Tootuff Adventure | 126339 | [126339-mega-party-a-tootuff-adventure.json](./126339-mega-party-a-tootuff-adventure.json) |
 | Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
 | Mega Phoenix | 41158 | [41158-mega-phoenix.json](./41158-mega-phoenix.json) |
