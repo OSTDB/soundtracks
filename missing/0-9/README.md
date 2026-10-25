@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | _____ | 191680 | [191680-.json](./191680-.json) |
 | _________ (What Even Is That Thing?) | 186066 | [186066-what-even-is-that-thing.json](./186066-what-even-is-that-thing.json) |
 | __________ | 176875 | [176875-.json](./176875-.json) |
+| _-_ | 92204 | [92204-.json](./92204-.json) |
 | _Message: | 273453 | [273453-message.json](./273453-message.json) |
 | _Prism | 95694 | [95694-prism.json](./95694-prism.json) |
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
