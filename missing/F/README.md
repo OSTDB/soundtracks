@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 17: New Palette | 38777 | [38777-fantasy-mosaics-17-new-palette.json](./38777-fantasy-mosaics-17-new-palette.json) |
 | Fantasy Mosaics 18: Explore New Colors | 38778 | [38778-fantasy-mosaics-18-explore-new-colors.json](./38778-fantasy-mosaics-18-explore-new-colors.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
+| Fantasy Mosaics 20: Castle of Puzzles | 86293 | [86293-fantasy-mosaics-20-castle-of-puzzles.json](./86293-fantasy-mosaics-20-castle-of-puzzles.json) |
 | Fantasy Mosaics 21: On the Movie Set | 86398 | [86398-fantasy-mosaics-21-on-the-movie-set.json](./86398-fantasy-mosaics-21-on-the-movie-set.json) |
 | Fantasy Mosaics 22: Summer Vacation | 86399 | [86399-fantasy-mosaics-22-summer-vacation.json](./86399-fantasy-mosaics-22-summer-vacation.json) |
 | Fantasy Mosaics 23: Magic Forest | 86400 | [86400-fantasy-mosaics-23-magic-forest.json](./86400-fantasy-mosaics-23-magic-forest.json) |
@@ -1762,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Pinball | 230713 | [230713-fantasy-pinball.json](./230713-fantasy-pinball.json) |
+| Fantasy Pirates | 85657 | [85657-fantasy-pirates.json](./85657-fantasy-pirates.json) |
 | Fantasy Puzzle King | 312697 | [312697-fantasy-puzzle-king.json](./312697-fantasy-puzzle-king.json) |
 | Fantasy Quake: Rise of the Phoenix | 196578 | [196578-fantasy-quake-rise-of-the-phoenix.json](./196578-fantasy-quake-rise-of-the-phoenix.json) |
 | Fantasy Quest Realm Survival | 339923 | [339923-fantasy-quest-realm-survival.json](./339923-fantasy-quest-realm-survival.json) |
@@ -7571,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Survivors | 390197 | [390197-football-survivors.json](./390197-football-survivors.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
 | Football Tournament | 164882 | [164882-football-tournament.json](./164882-football-tournament.json) |
+| Football Trivia | 87292 | [87292-football-trivia.json](./87292-football-trivia.json) |
 | Football VR | 32092 | [32092-football-vr.json](./32092-football-vr.json) |
 | Football, Tactics & Glory | 35091 | [35091-football-tactics-and-glory.json](./35091-football-tactics-and-glory.json) |
 | Football, Tactics & Glory 2 | 258555 | [258555-football-tactics-and-glory-2.json](./258555-football-tactics-and-glory-2.json) |
