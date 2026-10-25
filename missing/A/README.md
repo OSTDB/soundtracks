@@ -3030,7 +3030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7988,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Golf 2 | 340803 | [340803-angry-golf-2.json](./340803-angry-golf-2.json) |
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
 | Angry Granny 2-Angry Neighbor | 102852 | [102852-angry-granny-2-angry-neighbor.json](./102852-angry-granny-2-angry-neighbor.json) |
+| Angry Henry And The Escape From The Helicopter Lords Part 17: The Re-Reckoning | 402732 | [402732-angry-henry-and-the-escape-from-the-helicopter-lords-part-17-the-re-reckoning.json](./402732-angry-henry-and-the-escape-from-the-helicopter-lords-part-17-the-re-reckoning.json) |
 | Angry Hills | 87100 | [87100-angry-hills.json](./87100-angry-hills.json) |
 | Angry King | 111220 | [111220-angry-king.json](./111220-angry-king.json) |
 | Angry King | 301121 | [301121-angry-king.json](./301121-angry-king.json) |
@@ -8305,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals: Connect the Dots and Add Colors | 88746 | [88746-animals-connect-the-dots-and-add-colors.json](./88746-animals-connect-the-dots-and-add-colors.json) |
 | AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
 | AnimaLudo: Extended Edition | 199839 | [199839-animaludo-extended-edition.json](./199839-animaludo-extended-edition.json) |
+| Animaly Bar: No Humanity! | 402714 | [402714-animaly-bar-no-humanity.json](./402714-animaly-bar-no-humanity.json) |
 | Animalz Pop-em | 232361 | [232361-animalz-pop-em.json](./232361-animalz-pop-em.json) |
 | Animamundi: Dark Alchemist | 72665 | [72665-animamundi-dark-alchemist.json](./72665-animamundi-dark-alchemist.json) |
 | Animaniacs | 228405 | [228405-animaniacs.json](./228405-animaniacs.json) |
@@ -11239,6 +11240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkagis Revolution | 141025 | [141025-arkagis-revolution.json](./141025-arkagis-revolution.json) |
 | Arkaia: The Enigmatic Isle | 68606 | [68606-arkaia-the-enigmatic-isle.json](./68606-arkaia-the-enigmatic-isle.json) |
 | Arkaik: Tales of Sarina | 230380 | [230380-arkaik-tales-of-sarina.json](./230380-arkaik-tales-of-sarina.json) |
+| Arkan Solas: The Haunting of Ashfell Manor | 402728 | [402728-arkan-solas-the-haunting-of-ashfell-manor.json](./402728-arkan-solas-the-haunting-of-ashfell-manor.json) |
 | Arkan: The Dog Adventurer | 122806 | [122806-arkan-the-dog-adventurer.json](./122806-arkan-the-dog-adventurer.json) |
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
 | Arkandian Legends 1: Crusade | 385964 | [385964-arkandian-legends-1-crusade.json](./385964-arkandian-legends-1-crusade.json) |
