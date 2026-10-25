@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particle of God | 217223 | [217223-particle-of-god.json](./217223-particle-of-god.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Particubes | 151086 | [151086-particubes.json](./151086-particubes.json) |
+| Particul | 389175 | [389175-particul.json](./389175-particul.json) |
 | Particula | 18179 | [18179-particula.json](./18179-particula.json) |
 | Particulars | 5578 | [5578-particulars.json](./5578-particulars.json) |
 | Particulate | 127244 | [127244-particulate.json](./127244-particulate.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
 | Party Chaos | 213446 | [213446-party-chaos.json](./213446-party-chaos.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
+| Party Club: Hangry Animals | 389231 | [389231-party-club-hangry-animals.json](./389231-party-club-hangry-animals.json) |
 | Party Crasher Simulator | 163272 | [163272-party-crasher-simulator.json](./163272-party-crasher-simulator.json) |
 | Party Crashers | 75076 | [75076-party-crashers.json](./75076-party-crashers.json) |
 | Party Crashers Mayhem | 271607 | [271607-party-crashers-mayhem.json](./271607-party-crashers-mayhem.json) |
@@ -2228,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
 | Party Planner | 209413 | [209413-party-planner.json](./209413-party-planner.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
+| Party Pong | 389234 | [389234-party-pong.json](./389234-party-pong.json) |
 | Party Pool | 399655 | [399655-party-pool.json](./399655-party-pool.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
 | Party PooperZ | 273776 | [273776-party-pooperz.json](./273776-party-pooperz.json) |
@@ -8272,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plink Void | 413499 | [413499-plink-void.json](./413499-plink-void.json) |
 | Plinko Panic! | 189203 | [189203-plinko-panic.json](./189203-plinko-panic.json) |
 | Plinko: Ball Falling | 264795 | [264795-plinko-ball-falling.json](./264795-plinko-ball-falling.json) |
+| Plinkomancy | 389199 | [389199-plinkomancy.json](./389199-plinkomancy.json) |
 | Plith | 10706 | [10706-plith.json](./10706-plith.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
 | Ploid | 159682 | [159682-ploid.json](./159682-ploid.json) |
@@ -10936,6 +10940,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Lore | 56919 | [56919-potion-lore.json](./56919-potion-lore.json) |
 | Potion Meister | 163834 | [163834-potion-meister.json](./163834-potion-meister.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
+| Potion Panic 2 | 389200 | [389200-potion-panic-2.json](./389200-potion-panic-2.json) |
+| Potion Panic! | 389194 | [389194-potion-panic.json](./389194-potion-panic.json) |
 | Potion Pantry | 424645 | [424645-potion-pantry.json](./424645-potion-pantry.json) |
 | Potion Pantry: Sort the Apothecary | 424647 | [424647-potion-pantry-sort-the-apothecary.json](./424647-potion-pantry-sort-the-apothecary.json) |
 | Potion Party | 127583 | [127583-potion-party.json](./127583-potion-party.json) |
@@ -13624,6 +13630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecy | 277333 | [277333-prophecy.json](./277333-prophecy.json) |
 | Prophecy I: The Viking Child | 12925 | [12925-prophecy-i-the-viking-child.json](./12925-prophecy-i-the-viking-child.json) |
 | Prophecy Island | 249841 | [249841-prophecy-island.json](./249841-prophecy-island.json) |
+| Prophecy Lost | 389178 | [389178-prophecy-lost.json](./389178-prophecy-lost.json) |
 | Prophecy Matrix | 207296 | [207296-prophecy-matrix.json](./207296-prophecy-matrix.json) |
 | Prophecy of Ashen | 334330 | [334330-prophecy-of-ashen.json](./334330-prophecy-of-ashen.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
