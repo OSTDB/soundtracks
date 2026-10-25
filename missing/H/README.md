@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hectic Highways | 114104 | [114104-hectic-highways.json](./114104-hectic-highways.json) |
 | Hectic Space 2 | 194176 | [194176-hectic-space-2.json](./194176-hectic-space-2.json) |
 | Hectic Void | 106325 | [106325-hectic-void.json](./106325-hectic-void.json) |
+| Hector Dinger | 415041 | [415041-hector-dinger.json](./415041-hector-dinger.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
@@ -6184,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Spirits | 317300 | [317300-high-spirits.json](./317300-high-spirits.json) |
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
+| High Stakes | 414952 | [414952-high-stakes.json](./414952-high-stakes.json) |
 | High Stakes on the Vegas Strip: Poker Edition | 52236 | [52236-high-stakes-on-the-vegas-strip-poker-edition.json](./52236-high-stakes-on-the-vegas-strip-poker-edition.json) |
 | High Stakes: Texas Hold'Em | 67219 | [67219-high-stakes-texas-holdem.json](./67219-high-stakes-texas-holdem.json) |
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
@@ -8064,6 +8066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
 | Hopscotch: Are You Ready for Hardcore? | 112903 | [112903-hopscotch-are-you-ready-for-hardcore.json](./112903-hopscotch-are-you-ready-for-hardcore.json) |
+| HopScout | 415049 | [415049-hopscout.json](./415049-hopscout.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
 | HopSquash! | 115806 | [115806-hopsquash.json](./115806-hopsquash.json) |
 | Hoptale | 369762 | [369762-hoptale.json](./369762-hoptale.json) |
