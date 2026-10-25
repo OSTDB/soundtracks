@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
 | Captain Tsubasa: Eikou no Kiseki | 49521 | [49521-captain-tsubasa-eikou-no-kiseki.json](./49521-captain-tsubasa-eikou-no-kiseki.json) |
 | Captain Tsubasa: Moeyo! Drive Shoot | 385801 | [385801-captain-tsubasa-moeyo-drive-shoot.json](./385801-captain-tsubasa-moeyo-drive-shoot.json) |
+| Captain Tsubasa: My Golden XI | 411298 | [411298-captain-tsubasa-my-golden-xi.json](./411298-captain-tsubasa-my-golden-xi.json) |
 | Captain Tsubasa: New Kick Off | 47865 | [47865-captain-tsubasa-new-kick-off.json](./47865-captain-tsubasa-new-kick-off.json) |
 | Captain Tsubasa: No. 1 Striker | 385802 | [385802-captain-tsubasa-no-1-striker.json](./385802-captain-tsubasa-no-1-striker.json) |
 | Captain Tsubasa: Rise of New Champions | 128769 | [128769-captain-tsubasa-rise-of-new-champions.json](./128769-captain-tsubasa-rise-of-new-champions.json) |
@@ -5287,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemical Sort | 260538 | [260538-chemical-sort.json](./260538-chemical-sort.json) |
 | Chemically Bonded | 105131 | [105131-chemically-bonded.json](./105131-chemically-bonded.json) |
 | Chemicus: Journey to the Other Side | 23249 | [23249-chemicus-journey-to-the-other-side.json](./23249-chemicus-journey-to-the-other-side.json) |
+| Cheminots | 411342 | [411342-cheminots.json](./411342-cheminots.json) |
 | Chemist Tycoon | 66959 | [66959-chemist-tycoon.json](./66959-chemist-tycoon.json) |
 | Chemist Wanted | 311211 | [311211-chemist-wanted.json](./311211-chemist-wanted.json) |
 | Chemistower | 342864 | [342864-chemistower.json](./342864-chemistower.json) |
@@ -9306,6 +9308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Slot | 355181 | [355181-coin-slot.json](./355181-coin-slot.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Smith | 337067 | [337067-coin-smith.json](./337067-coin-smith.json) |
+| Coin Tavern | 411316 | [411316-coin-tavern.json](./411316-coin-tavern.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
 | Coin World | 94347 | [94347-coin-world.json](./94347-coin-world.json) |
 | Coin X Union | 339312 | [339312-coin-x-union.json](./339312-coin-x-union.json) |
