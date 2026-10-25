@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2 Blood Moon Edition | 117153 | [117153-vampire-the-masquerade-bloodlines-2-blood-moon-edition.json](./117153-vampire-the-masquerade-bloodlines-2-blood-moon-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2 Unsanctioned Edition | 117152 | [117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json](./117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Deluxe Edition | 370896 | [370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json](./370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json) |
+| Vampire: The Masquerade - Bloodlines 2: Expansion Pass | 406332 | [406332-vampire-the-masquerade-bloodlines-2-expansion-pass.json](./406332-vampire-the-masquerade-bloodlines-2-expansion-pass.json) |
 | Vampire: The Masquerade - Bloodlines 2: Premium Edition | 370897 | [370897-vampire-the-masquerade-bloodlines-2-premium-edition.json](./370897-vampire-the-masquerade-bloodlines-2-premium-edition.json) |
 | Vampire: The Masquerade - Coteries of New York | 119225 | [119225-vampire-the-masquerade-coteries-of-new-york.json](./119225-vampire-the-masquerade-coteries-of-new-york.json) |
 | Vampire: The Masquerade - Coteries of New York & Shadows of New York | 146128 | [146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json](./146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json) |
@@ -769,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varkon | 95368 | [95368-varkon.json](./95368-varkon.json) |
 | Varlet | 341552 | [341552-varlet.json](./341552-varlet.json) |
 | Varlet: Digital DX Edition | 358664 | [358664-varlet-digital-dx-edition.json](./358664-varlet-digital-dx-edition.json) |
+| Varmint's Eittris | 405759 | [405759-varmints-eittris.json](./405759-varmints-eittris.json) |
 | Varmintz | 9063 | [9063-varmintz.json](./9063-varmintz.json) |
 | Varney Lake | 210565 | [210565-varney-lake.json](./210565-varney-lake.json) |
 | Varnir of the Dragon Star: Ecdysis of the Dragon Limited Edition | 116234 | [116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json](./116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json) |
@@ -1844,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villa Banana | 416140 | [416140-villa-banana.json](./416140-villa-banana.json) |
 | Villa de la Muerte | 264473 | [264473-villa-de-la-muerte.json](./264473-villa-de-la-muerte.json) |
 | Villa Escape | 272874 | [272874-villa-escape.json](./272874-villa-escape.json) |
+| Villa Morgana | 405659 | [405659-villa-morgana.json](./405659-villa-morgana.json) |
 | Villa No. 1 | 358229 | [358229-villa-no-1.json](./358229-villa-no-1.json) |
 | Villa Nocturne | 377796 | [377796-villa-nocturne.json](./377796-villa-nocturne.json) |
 | Villa's Blinds | 142157 | [142157-villas-blinds.json](./142157-villas-blinds.json) |
