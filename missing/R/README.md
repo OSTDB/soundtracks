@@ -4683,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonating Cords | 357412 | [357412-resonating-cords.json](./357412-resonating-cords.json) |
 | Resonating Worlds | 305930 | [305930-resonating-worlds.json](./305930-resonating-worlds.json) |
 | Resonite | 269473 | [269473-resonite.json](./269473-resonite.json) |
+| Resonurgy | 422662 | [422662-resonurgy.json](./422662-resonurgy.json) |
 | Résop Paz Yandere True | 320149 | [320149-resop-paz-yandere-true.json](./320149-resop-paz-yandere-true.json) |
 | Resoraki | 238652 | [238652-resoraki.json](./238652-resoraki.json) |
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
