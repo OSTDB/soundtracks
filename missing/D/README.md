@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalian Opus | 48951 | [48951-daedalian-opus.json](./48951-daedalian-opus.json) |
 | Daedalic Complex | 111465 | [111465-daedalic-complex.json](./111465-daedalic-complex.json) |
 | Daedalus | 282003 | [282003-daedalus.json](./282003-daedalus.json) |
+| Daedalus - No Escape | 17691 | [17691-daedalus-no-escape.json](./17691-daedalus-no-escape.json) |
 | Daedalus Demise | 144081 | [144081-daedalus-demise.json](./144081-daedalus-demise.json) |
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
 | Daedalus: Alien Defense | 140561 | [140561-daedalus-alien-defense.json](./140561-daedalus-alien-defense.json) |
@@ -6368,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detonator | 92369 | [92369-detonator.json](./92369-detonator.json) |
 | Detour | 372079 | [372079-detour.json](./372079-detour.json) |
+| Detour: Highway Simulator | 16230 | [16230-detour-highway-simulator.json](./16230-detour-highway-simulator.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detours | 153795 | [153795-detours.json](./153795-detours.json) |
 | Detox | 181882 | [181882-detox.json](./181882-detox.json) |
@@ -11287,6 +11289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
 | Dovadula's Burn | 125020 | [125020-dovadulas-burn.json](./125020-dovadulas-burn.json) |
 | Dove Days: Time Flies | 364262 | [364262-dove-days-time-flies.json](./364262-dove-days-time-flies.json) |
+| Dovetail Games: Euro Fishing | 17666 | [17666-dovetail-games-euro-fishing.json](./17666-dovetail-games-euro-fishing.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | Down | 295887 | [295887-down.json](./295887-down.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
