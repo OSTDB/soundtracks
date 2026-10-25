@@ -4890,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reticent Retribution | 167551 | [167551-reticent-retribution.json](./167551-reticent-retribution.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
+| Retired | 389934 | [389934-retired.json](./389934-retired.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retirement Home Tower Defense | 340569 | [340569-retirement-home-tower-defense.json](./340569-retirement-home-tower-defense.json) |
 | Retirement Simulator | 128243 | [128243-retirement-simulator.json](./128243-retirement-simulator.json) |
@@ -8359,6 +8360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Reigns | 361052 | [361052-rogue-reigns.json](./361052-rogue-reigns.json) |
 | Rogue Reunion | 401887 | [401887-rogue-reunion.json](./401887-rogue-reunion.json) |
 | Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
+| Rogue Ricochet | 389948 | [389948-rogue-ricochet.json](./389948-rogue-ricochet.json) |
 | Rogue Rising | 171504 | [171504-rogue-rising.json](./171504-rogue-rising.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
 | Rogue Robots | 135653 | [135653-rogue-robots.json](./135653-rogue-robots.json) |
