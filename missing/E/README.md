@@ -4832,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estresamente | 241257 | [241257-estresamente.json](./241257-estresamente.json) |
 | eSudoku 15K | 268915 | [268915-esudoku-15k.json](./268915-esudoku-15k.json) |
 | Esukoto Makai Youhei-dan | 206449 | [206449-esukoto-makai-youhei-dan.json](./206449-esukoto-makai-youhei-dan.json) |
+| Esurient | 411972 | [411972-esurient.json](./411972-esurient.json) |
 | ESWAT: City Under Siege | 6670 | [6670-eswat-city-under-siege.json](./6670-eswat-city-under-siege.json) |
 | ESWAT: Cyber Police | 39869 | [39869-eswat-cyber-police.json](./39869-eswat-cyber-police.json) |
 | Esylium MMORPG | 250885 | [250885-esylium-mmorpg.json](./250885-esylium-mmorpg.json) |
