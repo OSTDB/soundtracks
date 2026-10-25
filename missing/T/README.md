@@ -10638,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
 | The Light of the Darkness: Renascence | 24706 | [24706-the-light-of-the-darkness-renascence.json](./24706-the-light-of-the-darkness-renascence.json) |
 | The Light Remake | 123791 | [123791-the-light-remake.json](./123791-the-light-remake.json) |
+| The Light That Binds Us | 410035 | [410035-the-light-that-binds-us.json](./410035-the-light-that-binds-us.json) |
 | The Light Will Lead You Home | 165375 | [165375-the-light-will-lead-you-home.json](./165375-the-light-will-lead-you-home.json) |
 | The Light: Remastered Edition | 394806 | [394806-the-light-remastered-edition.json](./394806-the-light-remastered-edition.json) |
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
@@ -15208,6 +15209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Varginha Incident | 2535 | [2535-the-varginha-incident.json](./2535-the-varginha-incident.json) |
 | The Variant Void | 419330 | [419330-the-variant-void.json](./419330-the-variant-void.json) |
 | THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
+| The Vasa Fasa | 410011 | [410011-the-vasa-fasa.json](./410011-the-vasa-fasa.json) |
 | The Vast White | 325511 | [325511-the-vast-white.json](./325511-the-vast-white.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
@@ -15323,6 +15325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vrennman Case | 107721 | [107721-the-vrennman-case.json](./107721-the-vrennman-case.json) |
 | The VTuber Summit | 235342 | [235342-the-vtuber-summit.json](./235342-the-vtuber-summit.json) |
 | The Wacky World of Miniature Golf | 45905 | [45905-the-wacky-world-of-miniature-golf.json](./45905-the-wacky-world-of-miniature-golf.json) |
+| The Wackytown Game | 410034 | [410034-the-wackytown-game.json](./410034-the-wackytown-game.json) |
 | The Wagadu Chronicles | 241973 | [241973-the-wagadu-chronicles.json](./241973-the-wagadu-chronicles.json) |
 | The Wager | 125414 | [125414-the-wager.json](./125414-the-wager.json) |
 | The Waifu Game | 292681 | [292681-the-waifu-game.json](./292681-the-waifu-game.json) |
@@ -15784,6 +15787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World After | 147295 | [147295-the-world-after.json](./147295-the-world-after.json) |
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
 | The World Begins With You | 84474 | [84474-the-world-begins-with-you.json](./84474-the-world-begins-with-you.json) |
+| The World Below: A Call Within | 410040 | [410040-the-world-below-a-call-within.json](./410040-the-world-below-a-call-within.json) |
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
 | The World End Eclipse | 13546 | [13546-the-world-end-eclipse.json](./13546-the-world-end-eclipse.json) |
 | The World Ends in Ohio | 333146 | [333146-the-world-ends-in-ohio.json](./333146-the-world-ends-in-ohio.json) |
@@ -16252,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Bite! | 288620 | [288620-they-bite.json](./288620-they-bite.json) |
 | They Bleed Pixels | 10988 | [10988-they-bleed-pixels.json](./10988-they-bleed-pixels.json) |
 | They Call Me... The Skul | 70093 | [70093-they-call-me-the-skul.json](./70093-they-call-me-the-skul.json) |
+| They Came for Blood | 410055 | [410055-they-came-for-blood.json](./410055-they-came-for-blood.json) |
 | They Came for More Pasta | 345979 | [345979-they-came-for-more-pasta.json](./345979-they-came-for-more-pasta.json) |
 | They Came From a Communist Planet | 125294 | [125294-they-came-from-a-communist-planet.json](./125294-they-came-from-a-communist-planet.json) |
 | They Came From Below | 190409 | [190409-they-came-from-below.json](./190409-they-came-from-below.json) |
