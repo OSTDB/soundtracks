@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makibishi Comic | 294981 | [294981-makibishi-comic.json](./294981-makibishi-comic.json) |
 | Makin Biscuits | 178516 | [178516-makin-biscuits.json](./178516-makin-biscuits.json) |
 | Making Friends | 303646 | [303646-making-friends.json](./303646-making-friends.json) |
+| Making History II: The War of the World | 15026 | [15026-making-history-ii-the-war-of-the-world.json](./15026-making-history-ii-the-war-of-the-world.json) |
 | Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
 | Making History: The Calm & the Storm - Gold Edition | 25516 | [25516-making-history-the-calm-and-the-storm-gold-edition.json](./25516-making-history-the-calm-and-the-storm-gold-edition.json) |
 | Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
@@ -13153,6 +13154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trucks Kids Racing Game | 89764 | [89764-monster-trucks-kids-racing-game.json](./89764-monster-trucks-kids-racing-game.json) |
 | Monster Trucks Mayhem | 49248 | [49248-monster-trucks-mayhem.json](./49248-monster-trucks-mayhem.json) |
 | Monster Trucks Mayhem | 50718 | [50718-monster-trucks-mayhem.json](./50718-monster-trucks-mayhem.json) |
+| Monster Trucks Nitro | 14912 | [14912-monster-trucks-nitro.json](./14912-monster-trucks-nitro.json) |
 | Monster Trux Arenas: Special Edition | 268375 | [268375-monster-trux-arenas-special-edition.json](./268375-monster-trux-arenas-special-edition.json) |
 | Monster Trux Extreme: Offroad Edition | 5020 | [5020-monster-trux-extreme-offroad-edition.json](./5020-monster-trux-extreme-offroad-edition.json) |
 | Monster Trux: Arenas | 5019 | [5019-monster-trux-arenas.json](./5019-monster-trux-arenas.json) |
@@ -14194,6 +14196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaique Neko Waifus 3 | 151283 | [151283-mosaique-neko-waifus-3.json](./151283-mosaique-neko-waifus-3.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
+| Mosby's Confederacy | 14914 | [14914-mosbys-confederacy.json](./14914-mosbys-confederacy.json) |
 | Moscoleta | 308017 | [308017-moscoleta.json](./308017-moscoleta.json) |
 | Moscow Metro Wars | 348415 | [348415-moscow-metro-wars.json](./348415-moscow-metro-wars.json) |
 | Moscow Rush | 120765 | [120765-moscow-rush.json](./120765-moscow-rush.json) |
