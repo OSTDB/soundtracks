@@ -3072,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Fever 2000 | 68305 | [68305-nfl-fever-2000.json](./68305-nfl-fever-2000.json) |
 | NFL Fever 2002 | 5961 | [5961-nfl-fever-2002.json](./5961-nfl-fever-2002.json) |
 | NFL Fever 2004 | 24094 | [24094-nfl-fever-2004.json](./24094-nfl-fever-2004.json) |
+| NFL Flag Heroes | 421411 | [421411-nfl-flag-heroes.json](./421411-nfl-flag-heroes.json) |
 | NFL Flick Quarterback | 58189 | [58189-nfl-flick-quarterback.json](./58189-nfl-flick-quarterback.json) |
 | NFL Football | 175899 | [175899-nfl-football.json](./175899-nfl-football.json) |
 | NFL Football | 198836 | [198836-nfl-football.json](./198836-nfl-football.json) |
