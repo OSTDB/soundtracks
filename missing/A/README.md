@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Test Before Jianghu | 235278 | [235278-a-test-before-jianghu.json](./235278-a-test-before-jianghu.json) |
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
+| A Thousand Acres | 420214 | [420214-a-thousand-acres.json](./420214-a-thousand-acres.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
 | A Thousand Words to Tell I Love You | 183791 | [183791-a-thousand-words-to-tell-i-love-you.json](./183791-a-thousand-words-to-tell-i-love-you.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Love, Hate and the other ones | 3080 | [3080-about-love-hate-and-the-other-ones.json](./3080-about-love-hate-and-the-other-ones.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
+| About Time! | 420209 | [420209-about-time.json](./420209-about-time.json) |
 | Above | 406287 | [406287-above.json](./406287-above.json) |
 | Above | 91138 | [91138-above.json](./91138-above.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
@@ -3352,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Football | 267314 | [267314-afk-football.json](./267314-afk-football.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
+| AFKTower | 420200 | [420200-afktower.json](./420200-afktower.json) |
 | AFL | 4662 | [4662-afl.json](./4662-afl.json) |
 | AFL 23 | 240298 | [240298-afl-23.json](./240298-afl-23.json) |
 | AFL 26 | 340723 | [340723-afl-26.json](./340723-afl-26.json) |
@@ -7177,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amora | 102876 | [102876-amora.json](./102876-amora.json) |
 | Amora Crystal | 120790 | [120790-amora-crystal.json](./120790-amora-crystal.json) |
 | Amoreon NightClub | 59241 | [59241-amoreon-nightclub.json](./59241-amoreon-nightclub.json) |
+| Amoris | 420210 | [420210-amoris.json](./420210-amoris.json) |
 | Amorous Professor Cherry | 72634 | [72634-amorous-professor-cherry.json](./72634-amorous-professor-cherry.json) |
 | Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
 | Amorphous | 265242 | [265242-amorphous.json](./265242-amorphous.json) |
@@ -9389,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse II | 42434 | [42434-apocalypse-ii.json](./42434-apocalypse-ii.json) |
+| Apocalypse Intern | 420223 | [420223-apocalypse-intern.json](./420223-apocalypse-intern.json) |
 | Apocalypse Island | 157392 | [157392-apocalypse-island.json](./157392-apocalypse-island.json) |
 | Apocalypse Island | 337958 | [337958-apocalypse-island.json](./337958-apocalypse-island.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
@@ -12639,6 +12644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astercys | 307875 | [307875-astercys.json](./307875-astercys.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterfel | 360763 | [360763-asterfel.json](./360763-asterfel.json) |
+| Asterhythm | 420176 | [420176-asterhythm.json](./420176-asterhythm.json) |
 | Asteria | 17536 | [17536-asteria.json](./17536-asteria.json) |
 | Asteria: Fate of the Fallen | 411530 | [411530-asteria-fate-of-the-fallen.json](./411530-asteria-fate-of-the-fallen.json) |
 | Asterigos: Curse of the Stars | 169994 | [169994-asterigos-curse-of-the-stars.json](./169994-asterigos-curse-of-the-stars.json) |
@@ -14283,6 +14289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn's Chorus | 114952 | [114952-autumns-chorus.json](./114952-autumns-chorus.json) |
 | Autumn's Dungeoneering | 373176 | [373176-autumns-dungeoneering.json](./373176-autumns-dungeoneering.json) |
 | Autumn's End | 118054 | [118054-autumns-end.json](./118054-autumns-end.json) |
+| Autumn's End | 420211 | [420211-autumns-end.json](./420211-autumns-end.json) |
 | Autumn's Journey | 114775 | [114775-autumns-journey.json](./114775-autumns-journey.json) |
 | Autumn's Treasures: The Jade Coin | 22119 | [22119-autumns-treasures-the-jade-coin.json](./22119-autumns-treasures-the-jade-coin.json) |
 | Auxin | 267478 | [267478-auxin.json](./267478-auxin.json) |
