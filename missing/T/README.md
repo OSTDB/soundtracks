@@ -9761,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last 47 Hours | 115374 | [115374-the-last-47-hours.json](./115374-the-last-47-hours.json) |
 | The Last 66 Days | 278107 | [278107-the-last-66-days.json](./278107-the-last-66-days.json) |
 | The Last Act | 165454 | [165454-the-last-act.json](./165454-the-last-act.json) |
+| The Last Admiral | 411349 | [411349-the-last-admiral.json](./411349-the-last-admiral.json) |
 | The Last Adventure | 331756 | [331756-the-last-adventure.json](./331756-the-last-adventure.json) |
 | The Last Airbender | 27458 | [27458-the-last-airbender.json](./27458-the-last-airbender.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
