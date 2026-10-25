@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
 | 20,000 Leagues Above the Clouds | 61726 | [61726-20-000-leagues-above-the-clouds.json](./61726-20-000-leagues-above-the-clouds.json) |
 | 20,000 Leagues Under the Sea | 2292 | [2292-20-000-leagues-under-the-sea.json](./2292-20-000-leagues-under-the-sea.json) |
+| 20,000 Leagues Under the Sea | 413676 | [413676-20-000-leagues-under-the-sea.json](./413676-20-000-leagues-under-the-sea.json) |
 | 20,000 Leagues Under the Sea: Extended Edition | 382906 | [382906-20-000-leagues-under-the-sea-extended-edition.json](./382906-20-000-leagues-under-the-sea-extended-edition.json) |
 | 20.000 Leagues Under the Sea: Captain Nemo | 93764 | [93764-20-000-leagues-under-the-sea-captain-nemo.json](./93764-20-000-leagues-under-the-sea-captain-nemo.json) |
 | 20.8 Percent | 58476 | [58476-20-8-percent.json](./58476-20-8-percent.json) |
@@ -2209,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 49 Keys | 301039 | [301039-49-keys.json](./301039-49-keys.json) |
 | 49 Squares | 253448 | [253448-49-squares.json](./253448-49-squares.json) |
 | 4A Flyer | 377833 | [377833-4a-flyer.json](./377833-4a-flyer.json) |
+| 4am | 413418 | [413418-4am.json](./413418-4am.json) |
 | 4Below | 389691 | [389691-4below.json](./389691-4below.json) |
 | 4Blox | 365466 | [365466-4blox.json](./365466-4blox.json) |
 | 4D Games | 266077 | [266077-4d-games.json](./266077-4d-games.json) |
