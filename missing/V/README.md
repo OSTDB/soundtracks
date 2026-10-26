@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vecitas | 30524 | [30524-vecitas.json](./30524-vecitas.json) |
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
 | Vecmania | 46513 | [46513-vecmania.json](./46513-vecmania.json) |
+| VectaGuard | 364469 | [364469-vectaguard.json](./364469-vectaguard.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
 | Vecter Assault | 251978 | [251978-vecter-assault.json](./251978-vecter-assault.json) |
 | Vectonic | 29522 | [29522-vectonic.json](./29522-vectonic.json) |
