@@ -3348,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostnote | 423279 | [423279-ghostnote.json](./423279-ghostnote.json) |
 | Ghostory | 68661 | [68661-ghostory.json](./68661-ghostory.json) |
 | GhostPad | 110267 | [110267-ghostpad.json](./110267-ghostpad.json) |
+| Ghostprint | 381658 | [381658-ghostprint.json](./381658-ghostprint.json) |
 | Ghostpunk | 407757 | [407757-ghostpunk.json](./407757-ghostpunk.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | GhostRing | 180517 | [180517-ghostring.json](./180517-ghostring.json) |
@@ -3973,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass City : The Dust | 76433 | [76433-glass-city-the-dust.json](./76433-glass-city-the-dust.json) |
 | Glass Empire | 19180 | [19180-glass-empire.json](./19180-glass-empire.json) |
 | Glass Fort: Smash It | 88313 | [88313-glass-fort-smash-it.json](./88313-glass-fort-smash-it.json) |
+| Glass God | 381665 | [381665-glass-god.json](./381665-glass-god.json) |
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
 | Glass Heart Princess | 64163 | [64163-glass-heart-princess.json](./64163-glass-heart-princess.json) |
 | Glass Heart: Retold | 323237 | [323237-glass-heart-retold.json](./323237-glass-heart-retold.json) |
