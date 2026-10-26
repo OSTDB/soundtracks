@@ -15011,6 +15011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
 | Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
+| Crunch Time! Beat the Clock | 381584 | [381584-crunch-time-beat-the-clock.json](./381584-crunch-time-beat-the-clock.json) |
 | Crunchball 3000 | 346564 | [346564-crunchball-3000.json](./346564-crunchball-3000.json) |
 | Crunchdown | 397696 | [397696-crunchdown.json](./397696-crunchdown.json) |
 | Cruncher | 60202 | [60202-cruncher.json](./60202-cruncher.json) |
