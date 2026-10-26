@@ -5781,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Builder: Season 2 | 392889 | [392889-the-builder-season-2.json](./392889-the-builder-season-2.json) |
 | The Building 71 Incident | 176513 | [176513-the-building-71-incident.json](./176513-the-building-71-incident.json) |
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
+| The Bullet Hell | 351540 | [351540-the-bullet-hell.json](./351540-the-bullet-hell.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
 | The Bum | 171791 | [171791-the-bum.json](./171791-the-bum.json) |
 | The Bumblezone | 341930 | [341930-the-bumblezone.json](./341930-the-bumblezone.json) |
@@ -6211,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coffee Machine | 182081 | [182081-the-coffee-machine.json](./182081-the-coffee-machine.json) |
 | The Coffee Shop Collision | 337699 | [337699-the-coffee-shop-collision.json](./337699-the-coffee-shop-collision.json) |
 | The Coffin of Andrew and Renee | 356043 | [356043-the-coffin-of-andrew-and-renee.json](./356043-the-coffin-of-andrew-and-renee.json) |
+| The Coffin of Sarah | 351513 | [351513-the-coffin-of-sarah.json](./351513-the-coffin-of-sarah.json) |
 | The Coil of Possibility | 137968 | [137968-the-coil-of-possibility.json](./137968-the-coil-of-possibility.json) |
 | The Coin | 383159 | [383159-the-coin.json](./383159-the-coin.json) |
 | The Coin Game | 99192 | [99192-the-coin-game.json](./99192-the-coin-game.json) |
@@ -10428,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Gallia | 66557 | [66557-the-legend-of-gallia.json](./66557-the-legend-of-gallia.json) |
 | The Legend of Gandar | 197531 | [197531-the-legend-of-gandar.json](./197531-the-legend-of-gandar.json) |
 | The Legend of Gandar II | 216660 | [216660-the-legend-of-gandar-ii.json](./216660-the-legend-of-gandar-ii.json) |
+| The Legend of Gandar III | 351524 | [351524-the-legend-of-gandar-iii.json](./351524-the-legend-of-gandar-iii.json) |
 | The Legend of GEML: Awakening | 307589 | [307589-the-legend-of-geml-awakening.json](./307589-the-legend-of-geml-awakening.json) |
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
 | The Legend of Heavenly Mist | 183031 | [183031-the-legend-of-heavenly-mist.json](./183031-the-legend-of-heavenly-mist.json) |
@@ -17111,6 +17114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three's a Crowd | 417459 | [417459-threes-a-crowd.json](./417459-threes-a-crowd.json) |
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
 | Threeboard | 401929 | [401929-threeboard.json](./401929-threeboard.json) |
+| Threedays | 351530 | [351530-threedays.json](./351530-threedays.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | Threejs | 206575 | [206575-threejs.json](./206575-threejs.json) |
 | Threesquare | 56943 | [56943-threesquare.json](./56943-threesquare.json) |
@@ -18990,6 +18994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Tale | 412942 | [412942-tile-tale.json](./412942-tile-tale.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Tempest | 373338 | [373338-tile-tempest.json](./373338-tile-tempest.json) |
+| Tile Tides | 351537 | [351537-tile-tides.json](./351537-tile-tides.json) |
 | Tile Town | 220519 | [220519-tile-town.json](./220519-tile-town.json) |
 | Tile Trials | 392196 | [392196-tile-trials.json](./392196-tile-trials.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
@@ -26740,6 +26745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tryptic | 326688 | [326688-tryptic.json](./326688-tryptic.json) |
 | Trysaria | 116273 | [116273-trysaria.json](./116273-trysaria.json) |
 | Tryst | 11030 | [11030-tryst.json](./11030-tryst.json) |
+| Trytka | 351536 | [351536-trytka.json](./351536-trytka.json) |
 | TryToAct | 418866 | [418866-trytoact.json](./418866-trytoact.json) |
 | Ts Fantasy | 192247 | [192247-ts-fantasy.json](./192247-ts-fantasy.json) |
 | TS Marketplace: 1800s Rolling Stock Pack 02 Add-On | 227296 | [227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json](./227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json) |
