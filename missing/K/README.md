@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiddo | 176794 | [176794-kiddo.json](./176794-kiddo.json) |
 | Kiddopia - Preschool Learning Games | 105831 | [105831-kiddopia-preschool-learning-games.json](./105831-kiddopia-preschool-learning-games.json) |
 | Kiddos in Kindergarten | 383125 | [383125-kiddos-in-kindergarten.json](./383125-kiddos-in-kindergarten.json) |
+| Kidduca 3D | 377118 | [377118-kidduca-3d.json](./377118-kidduca-3d.json) |
 | Kiddy Kong's Challenge | 307718 | [307718-kiddy-kongs-challenge.json](./307718-kiddy-kongs-challenge.json) |
 | Kiddy Memory | 221264 | [221264-kiddy-memory.json](./221264-kiddy-memory.json) |
 | Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3249,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
 | Kismet | 19042 | [19042-kismet.json](./19042-kismet.json) |
 | Kismet Tapestry | 188931 | [188931-kismet-tapestry.json](./188931-kismet-tapestry.json) |
+| Kisou Jidaigeki Sugoroku: Shinobi No Roku | 377559 | [377559-kisou-jidaigeki-sugoroku-shinobi-no-roku.json](./377559-kisou-jidaigeki-sugoroku-shinobi-no-roku.json) |
 | Kisou Louga II: The Ends of Shangrila | 108818 | [108818-kisou-louga-ii-the-ends-of-shangrila.json](./108818-kisou-louga-ii-the-ends-of-shangrila.json) |
 | Kisou Ryouhei Gunhound EX | 42872 | [42872-kisou-ryouhei-gunhound-ex.json](./42872-kisou-ryouhei-gunhound-ex.json) |
 | Kisoubanashi Kureha | 108865 | [108865-kisoubanashi-kureha.json](./108865-kisoubanashi-kureha.json) |
@@ -3867,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Decayden | 209529 | [209529-knights-of-decayden.json](./209529-knights-of-decayden.json) |
 | Knights of Dice | 235822 | [235822-knights-of-dice.json](./235822-knights-of-dice.json) |
 | Knights of Fate | 201575 | [201575-knights-of-fate.json](./201575-knights-of-fate.json) |
+| Knights of Fiona | 377659 | [377659-knights-of-fiona.json](./377659-knights-of-fiona.json) |
 | Knights of Frontier Valley | 216695 | [216695-knights-of-frontier-valley.json](./216695-knights-of-frontier-valley.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
 | Knights of Honor | 2040 | [2040-knights-of-honor.json](./2040-knights-of-honor.json) |
@@ -4259,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokusai Shitei Kaii 124-gou Tokyo Haison | 273851 | [273851-kokusai-shitei-kaii-124-gou-tokyo-haison.json](./273851-kokusai-shitei-kaii-124-gou-tokyo-haison.json) |
 | Kokuu Hyouryo Nirgends | 65283 | [65283-kokuu-hyouryo-nirgends.json](./65283-kokuu-hyouryo-nirgends.json) |
 | Kokuu Hyouryuu Nirgends | 45951 | [45951-kokuu-hyouryuu-nirgends.json](./45951-kokuu-hyouryuu-nirgends.json) |
+| Kola Аbyss | 377643 | [377643-kola-byss.json](./377643-kola-byss.json) |
 | Kolb Antarctica Experience | 96830 | [96830-kolb-antarctica-experience.json](./96830-kolb-antarctica-experience.json) |
 | Koler | 236196 | [236196-koler.json](./236196-koler.json) |
 | Kolhii Champions AU | 213314 | [213314-kolhii-champions-au.json](./213314-kolhii-champions-au.json) |
@@ -4342,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami's Soccer | 41686 | [41686-konamis-soccer.json](./41686-konamis-soccer.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Konaste Gitadora | 154842 | [154842-konaste-gitadora.json](./154842-konaste-gitadora.json) |
+| Konata yori Kanata made | 377660 | [377660-konata-yori-kanata-made.json](./377660-konata-yori-kanata-made.json) |
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
 | Konbini Life | 178879 | [178879-konbini-life.json](./178879-konbini-life.json) |
 | Konbini's World | 381591 | [381591-konbinis-world.json](./381591-konbinis-world.json) |
