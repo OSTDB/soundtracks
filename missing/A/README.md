@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aakihiko Aruberutasu Adisony Apurinsu Azumeragi | 377418 | [377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json](./377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json) |
 | Aam Aadmi | 377419 | [377419-aam-aadmi.json](./377419-aam-aadmi.json) |
 | Aanl: The Rectum Adventure | 94415 | [94415-aanl-the-rectum-adventure.json](./94415-aanl-the-rectum-adventure.json) |
+| Aaoyue I | 345244 | [345244-aaoyue-i.json](./345244-aaoyue-i.json) |
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardvark | 152011 | [152011-aardvark.json](./152011-aardvark.json) |
 | Aardvark | 94651 | [94651-aardvark.json](./94651-aardvark.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -9696,6 +9698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Traffic | 245260 | [245260-apocalypse-traffic.json](./245260-apocalypse-traffic.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
 | Apocalypse Zombie Race | 98367 | [98367-apocalypse-zombie-race.json](./98367-apocalypse-zombie-race.json) |
+| Apocalypse Zombie TD | 345375 | [345375-apocalypse-zombie-td.json](./345375-apocalypse-zombie-td.json) |
 | Apocalypse: 2.0 Edition | 151450 | [151450-apocalypse-2-0-edition.json](./151450-apocalypse-2-0-edition.json) |
 | Apocalypse: Desire Next | 5487 | [5487-apocalypse-desire-next.json](./5487-apocalypse-desire-next.json) |
 | Apocalypse: Floodgates | 195530 | [195530-apocalypse-floodgates.json](./195530-apocalypse-floodgates.json) |
@@ -9703,6 +9706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
 | Apocalypse: The Hunger | 392715 | [392715-apocalypse-the-hunger.json](./392715-apocalypse-the-hunger.json) |
 | Apocalypse: Zombie City | 260540 | [260540-apocalypse-zombie-city.json](./260540-apocalypse-zombie-city.json) |
+| Apocalypse? No! | 345406 | [345406-apocalypse-no.json](./345406-apocalypse-no.json) |
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
 | Apocalyptic Adventure: Episode 1 | 193148 | [193148-apocalyptic-adventure-episode-1.json](./193148-apocalyptic-adventure-episode-1.json) |
