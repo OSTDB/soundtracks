@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi no Puchi Puchi Omisecchi: Ninko no Omise Atsumemashita | 77580 | [77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json](./77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json) |
 | Tamagotchi Ocean | 229510 | [229510-tamagotchi-ocean.json](./229510-tamagotchi-ocean.json) |
 | Tamagotchi Osutchi | 229842 | [229842-tamagotchi-osutchi.json](./229842-tamagotchi-osutchi.json) |
+| Tamagotchi Paradise | 346804 | [346804-tamagotchi-paradise.json](./346804-tamagotchi-paradise.json) |
 | Tamagotchi Plaza: Nintendo Switch 2 Edition | 338111 | [338111-tamagotchi-plaza-nintendo-switch-2-edition.json](./338111-tamagotchi-plaza-nintendo-switch-2-edition.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Land | 138515 | [138515-terminal-land.json](./138515-terminal-land.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
 | Terminal Madness: The Awakening | 204187 | [204187-terminal-madness-the-awakening.json](./204187-terminal-madness-the-awakening.json) |
+| Terminal Outbreak | 346503 | [346503-terminal-outbreak.json](./346503-terminal-outbreak.json) |
 | Terminal Protocol | 126949 | [126949-terminal-protocol.json](./126949-terminal-protocol.json) |
 | Terminal Reign | 416003 | [416003-terminal-reign.json](./416003-terminal-reign.json) |
 | Terminal Shift | 355074 | [355074-terminal-shift.json](./355074-terminal-shift.json) |
@@ -4047,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
+| Test Dummy Takedown | 345961 | [345961-test-dummy-takedown.json](./345961-test-dummy-takedown.json) |
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
 | Test of Fear | 350945 | [350945-test-of-fear.json](./350945-test-of-fear.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
@@ -7425,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Empanada Protocol | 207359 | [207359-the-empanada-protocol.json](./207359-the-empanada-protocol.json) |
 | The Empathy Algorithm | 387999 | [387999-the-empathy-algorithm.json](./387999-the-empathy-algorithm.json) |
 | The Emperor and State | 278977 | [278977-the-emperor-and-state.json](./278977-the-emperor-and-state.json) |
+| The Emperor's Mad Dash | 346529 | [346529-the-emperors-mad-dash.json](./346529-the-emperors-mad-dash.json) |
 | The Emperor's Mahjong | 70922 | [70922-the-emperors-mahjong.json](./70922-the-emperors-mahjong.json) |
 | The Emperor's Own | 178557 | [178557-the-emperors-own.json](./178557-the-emperors-own.json) |
 | The Empire Fights Back | 14053 | [14053-the-empire-fights-back.json](./14053-the-empire-fights-back.json) |
@@ -8709,6 +8713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Room Experiment: Episode 3 | 290011 | [290011-the-green-room-experiment-episode-3.json](./290011-the-green-room-experiment-episode-3.json) |
 | The Greenening | 339972 | [339972-the-greenening.json](./339972-the-greenening.json) |
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
+| The Gretlow Tapes | 346526 | [346526-the-gretlow-tapes.json](./346526-the-gretlow-tapes.json) |
 | The Grey Company | 362324 | [362324-the-grey-company.json](./362324-the-grey-company.json) |
 | The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
 | The Grey Elegy: Under the Cursed Wings | 371215 | [371215-the-grey-elegy-under-the-cursed-wings.json](./371215-the-grey-elegy-under-the-cursed-wings.json) |
@@ -12849,6 +12854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for the Big Key | 81979 | [81979-the-quest-for-the-big-key.json](./81979-the-quest-for-the-big-key.json) |
 | The Quest for the Candies | 222973 | [222973-the-quest-for-the-candies.json](./222973-the-quest-for-the-candies.json) |
 | The Quest for the Golden Egg Cup | 13025 | [13025-the-quest-for-the-golden-egg-cup.json](./13025-the-quest-for-the-golden-egg-cup.json) |
+| The Quest for the Golden Flece | 346486 | [346486-the-quest-for-the-golden-flece.json](./346486-the-quest-for-the-golden-flece.json) |
 | The Quest for the Holy Grail | 25967 | [25967-the-quest-for-the-holy-grail.json](./25967-the-quest-for-the-holy-grail.json) |
 | The Quest for the Rings | 41575 | [41575-the-quest-for-the-rings.json](./41575-the-quest-for-the-rings.json) |
 | The Quest for the Time-Bird | 74861 | [74861-the-quest-for-the-time-bird.json](./74861-the-quest-for-the-time-bird.json) |
@@ -15288,6 +15294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Troll Sides | 317097 | [317097-the-troll-sides.json](./317097-the-troll-sides.json) |
 | The Trolley | 134996 | [134996-the-trolley.json](./134996-the-trolley.json) |
 | The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
+| The Trolley Solution | 345954 | [345954-the-trolley-solution.json](./345954-the-trolley-solution.json) |
 | The Trolling Adventure | 384008 | [384008-the-trolling-adventure.json](./384008-the-trolling-adventure.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
@@ -15750,6 +15757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanderings Dragon | 108025 | [108025-the-wanderings-dragon.json](./108025-the-wanderings-dragon.json) |
+| The Waning of ShadyVale | 345955 | [345955-the-waning-of-shadyvale.json](./345955-the-waning-of-shadyvale.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The Wapple Hous | 375363 | [375363-the-wapple-hous.json](./375363-the-wapple-hous.json) |
 | The War | 240676 | [240676-the-war.json](./240676-the-war.json) |
@@ -16802,6 +16810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
 | Third World War | 46408 | [46408-third-world-war.json](./46408-third-world-war.json) |
 | Third World: The Bottom Dimension | 253830 | [253830-third-world-the-bottom-dimension.json](./253830-third-world-the-bottom-dimension.json) |
+| Third-person Shooter and Platform Jumping and Level-based Adventure | 345931 | [345931-third-person-shooter-and-platform-jumping-and-level-based-adventure.json](./345931-third-person-shooter-and-platform-jumping-and-level-based-adventure.json) |
 | ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
 | ThirdPlace: Kon and Pon | 288621 | [288621-thirdplace-kon-and-pon.json](./288621-thirdplace-kon-and-pon.json) |
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
@@ -26246,6 +26255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trojan | 287583 | [287583-trojan.json](./287583-trojan.json) |
 | Trojan | 298372 | [298372-trojan.json](./298372-trojan.json) |
 | Trojan | 39993 | [39993-trojan.json](./39993-trojan.json) |
+| Trojan Legend | 345945 | [345945-trojan-legend.json](./345945-trojan-legend.json) |
 | Trolddom | 321632 | [321632-trolddom.json](./321632-trolddom.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
 | Troll & Armor | 91856 | [91856-troll-and-armor.json](./91856-troll-and-armor.json) |
