@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannonball Follies 2 | 335471 | [335471-cannonball-follies-2.json](./335471-cannonball-follies-2.json) |
 | Cannondale Cup | 42600 | [42600-cannondale-cup.json](./42600-cannondale-cup.json) |
 | Cannoneer | 323302 | [323302-cannoneer.json](./323302-cannoneer.json) |
+| Cannoneer | 362777 | [362777-cannoneer.json](./362777-cannoneer.json) |
 | Cannoneer Girls | 339975 | [339975-cannoneer-girls.json](./339975-cannoneer-girls.json) |
 | Cannonfire | 244310 | [244310-cannonfire.json](./244310-cannonfire.json) |
 | Cannonfire Concerto | 30441 | [30441-cannonfire-concerto.json](./30441-cannonfire-concerto.json) |
@@ -8272,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Up Time | 418200 | [418200-clean-up-time.json](./418200-clean-up-time.json) |
 | Clean Your Room | 353775 | [353775-clean-your-room.json](./353775-clean-your-room.json) |
 | Clean-up Squad | 258493 | [258493-clean-up-squad.json](./258493-clean-up-squad.json) |
+| Clean! Those! Kids! | 362783 | [362783-clean-those-kids.json](./362783-clean-those-kids.json) |
 | Clean'Em Up | 35709 | [35709-cleanem-up.json](./35709-cleanem-up.json) |
 | Cleanbot 9000 | 329053 | [329053-cleanbot-9000.json](./329053-cleanbot-9000.json) |
 | Cleaner | 119761 | [119761-cleaner.json](./119761-cleaner.json) |
@@ -15105,6 +15107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
 | Crumbling World | 115386 | [115386-crumbling-world.json](./115386-crumbling-world.json) |
+| Crumbs | 362799 | [362799-crumbs.json](./362799-crumbs.json) |
 | Crumbs for a Week | 390280 | [390280-crumbs-for-a-week.json](./390280-crumbs-for-a-week.json) |
 | Crumpets | 141484 | [141484-crumpets.json](./141484-crumpets.json) |
 | Crumpets 2 | 287308 | [287308-crumpets-2.json](./287308-crumpets-2.json) |
