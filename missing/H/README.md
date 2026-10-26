@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsujou Sprinkle | 107270 | [107270-hatsujou-sprinkle.json](./107270-hatsujou-sprinkle.json) |
 | Hatsujousei | 108856 | [108856-hatsujousei.json](./108856-hatsujousei.json) |
 | HatsuKare Renai Debut Sengen! | 59151 | [59151-hatsukare-renai-debut-sengen.json](./59151-hatsukare-renai-debut-sengen.json) |
+| Hatsukoi Bloom | 345245 | [345245-hatsukoi-bloom.json](./345245-hatsukoi-bloom.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsukoi Monogatari | 330102 | [330102-hatsukoi-monogatari.json](./330102-hatsukoi-monogatari.json) |
 | Hatsukoi Monogatari | 330209 | [330209-hatsukoi-monogatari.json](./330209-hatsukoi-monogatari.json) |
@@ -5750,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Dream | 163031 | [163031-hidden-dream.json](./163031-hidden-dream.json) |
 | Hidden Dungeon Top-Down 3D | 222935 | [222935-hidden-dungeon-top-down-3d.json](./222935-hidden-dungeon-top-down-3d.json) |
 | Hidden Epee | 248116 | [248116-hidden-epee.json](./248116-hidden-epee.json) |
+| Hidden Evidence | 345250 | [345250-hidden-evidence.json](./345250-hidden-evidence.json) |
 | Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
 | Hidden Expedition: A King's Line | 187923 | [187923-hidden-expedition-a-kings-line.json](./187923-hidden-expedition-a-kings-line.json) |
 | Hidden Expedition: A King's Line - Collector's Edition | 170202 | [170202-hidden-expedition-a-kings-line-collectors-edition.json](./170202-hidden-expedition-a-kings-line-collectors-edition.json) |
