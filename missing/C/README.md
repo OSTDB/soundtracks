@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campo Largo | 414211 | [414211-campo-largo.json](./414211-campo-largo.json) |
 | Campoca | 384005 | [384005-campoca.json](./384005-campoca.json) |
 | Camps | 293469 | [293469-camps.json](./293469-camps.json) |
+| Campsite Hustle | 373033 | [373033-campsite-hustle.json](./373033-campsite-hustle.json) |
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
 | Campus Fantasy | 329338 | [329338-campus-fantasy.json](./329338-campus-fantasy.json) |
@@ -7263,6 +7264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Empires Rivals: Forces of Nature | 171520 | [171520-circle-empires-rivals-forces-of-nature.json](./171520-circle-empires-rivals-forces-of-nature.json) |
 | Circle Empires Tactics | 145295 | [145295-circle-empires-tactics.json](./145295-circle-empires-tactics.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
+| Circle of Bosses | 373052 | [373052-circle-of-bosses.json](./373052-circle-of-bosses.json) |
 | Circle of Football | 137614 | [137614-circle-of-football.json](./137614-circle-of-football.json) |
 | Circle of Nature | 327982 | [327982-circle-of-nature.json](./327982-circle-of-nature.json) |
 | Circle of Orion | 257930 | [257930-circle-of-orion.json](./257930-circle-of-orion.json) |
@@ -9019,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastal World | 325038 | [325038-coastal-world.json](./325038-coastal-world.json) |
 | Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
 | Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
+| Coaster Crash Course | 373065 | [373065-coaster-crash-course.json](./373065-coaster-crash-course.json) |
 | Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
 | Coaster Works | 6725 | [6725-coaster-works.json](./6725-coaster-works.json) |
@@ -9437,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
 | CoinBlock Clicker | 274904 | [274904-coinblock-clicker.json](./274904-coinblock-clicker.json) |
 | Coinbox Hero | 294224 | [294224-coinbox-hero.json](./294224-coinbox-hero.json) |
+| Coincidences? | 373043 | [373043-coincidences.json](./373043-coincidences.json) |
 | CoinClave | 390607 | [390607-coinclave.json](./390607-coinclave.json) |
 | Coincremental | 358992 | [358992-coincremental.json](./358992-coincremental.json) |
 | Coindice Simulator | 326447 | [326447-coindice-simulator.json](./326447-coindice-simulator.json) |
