@@ -9230,6 +9230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
 | Fractal Odyssey | 350784 | [350784-fractal-odyssey.json](./350784-fractal-odyssey.json) |
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
+| Fractala Sandbox | 361028 | [361028-fractala-sandbox.json](./361028-fractala-sandbox.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
 | Fracter | 101167 | [101167-fracter.json](./101167-fracter.json) |
