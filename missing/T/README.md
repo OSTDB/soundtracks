@@ -9423,6 +9423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Castaway 2 | 89547 | [89547-the-island-castaway-2.json](./89547-the-island-castaway-2.json) |
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
+| The Island of Crossed Destinies | 353356 | [353356-the-island-of-crossed-destinies.json](./353356-the-island-of-crossed-destinies.json) |
 | The Island of Dr. Frankenstein | 21784 | [21784-the-island-of-dr-frankenstein.json](./21784-the-island-of-dr-frankenstein.json) |
 | The Island of Dr. Yepstein | 171304 | [171304-the-island-of-dr-yepstein.json](./171304-the-island-of-dr-yepstein.json) |
 | The Island of Kesmai | 344888 | [344888-the-island-of-kesmai.json](./344888-the-island-of-kesmai.json) |
@@ -22761,6 +22762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Words | 195130 | [195130-tower-words.json](./195130-tower-words.json) |
 | Tower! Simulator 3 | 226586 | [226586-tower-simulator-3.json](./226586-tower-simulator-3.json) |
 | Tower! Simulator 3: CYVR Airport | 396509 | [396509-tower-simulator-3-cyvr-airport.json](./396509-tower-simulator-3-cyvr-airport.json) |
+| Tower! Simulator 3: CYYZ Airport | 353335 | [353335-tower-simulator-3-cyyz-airport.json](./353335-tower-simulator-3-cyyz-airport.json) |
 | Tower! Simulator 3: EDDB Airport | 396511 | [396511-tower-simulator-3-eddb-airport.json](./396511-tower-simulator-3-eddb-airport.json) |
 | Tower! Simulator 3: EDDF Airport | 353327 | [353327-tower-simulator-3-eddf-airport.json](./353327-tower-simulator-3-eddf-airport.json) |
 | Tower! Simulator 3: EDDH Airport | 396507 | [396507-tower-simulator-3-eddh-airport.json](./396507-tower-simulator-3-eddh-airport.json) |
@@ -22775,21 +22777,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KAUS Airport | 353326 | [353326-tower-simulator-3-kaus-airport.json](./353326-tower-simulator-3-kaus-airport.json) |
 | Tower! Simulator 3: KBNA Airport | 353321 | [353321-tower-simulator-3-kbna-airport.json](./353321-tower-simulator-3-kbna-airport.json) |
 | Tower! Simulator 3: KBOS Airport | 353318 | [353318-tower-simulator-3-kbos-airport.json](./353318-tower-simulator-3-kbos-airport.json) |
+| Tower! Simulator 3: KCLE Airport | 353341 | [353341-tower-simulator-3-kcle-airport.json](./353341-tower-simulator-3-kcle-airport.json) |
 | Tower! Simulator 3: KDCA Airport | 372525 | [372525-tower-simulator-3-kdca-airport.json](./372525-tower-simulator-3-kdca-airport.json) |
+| Tower! Simulator 3: KDEN Airport | 353337 | [353337-tower-simulator-3-kden-airport.json](./353337-tower-simulator-3-kden-airport.json) |
 | Tower! Simulator 3: KDFW Airport | 396518 | [396518-tower-simulator-3-kdfw-airport.json](./396518-tower-simulator-3-kdfw-airport.json) |
 | Tower! Simulator 3: KEWR Airport | 396505 | [396505-tower-simulator-3-kewr-airport.json](./396505-tower-simulator-3-kewr-airport.json) |
+| Tower! Simulator 3: KIAD Airport | 353345 | [353345-tower-simulator-3-kiad-airport.json](./353345-tower-simulator-3-kiad-airport.json) |
 | Tower! Simulator 3: KIAH Airport | 298704 | [298704-tower-simulator-3-kiah-airport.json](./298704-tower-simulator-3-kiah-airport.json) |
+| Tower! Simulator 3: KJFK Airport | 353338 | [353338-tower-simulator-3-kjfk-airport.json](./353338-tower-simulator-3-kjfk-airport.json) |
 | Tower! Simulator 3: KMCO Airport | 298091 | [298091-tower-simulator-3-kmco-airport.json](./298091-tower-simulator-3-kmco-airport.json) |
 | Tower! Simulator 3: KORD Airport | 396508 | [396508-tower-simulator-3-kord-airport.json](./396508-tower-simulator-3-kord-airport.json) |
+| Tower! Simulator 3: KPHL Airport | 353339 | [353339-tower-simulator-3-kphl-airport.json](./353339-tower-simulator-3-kphl-airport.json) |
 | Tower! Simulator 3: KPIT Airport | 311097 | [311097-tower-simulator-3-kpit-airport.json](./311097-tower-simulator-3-kpit-airport.json) |
+| Tower! Simulator 3: KPVD Airport | 353342 | [353342-tower-simulator-3-kpvd-airport.json](./353342-tower-simulator-3-kpvd-airport.json) |
+| Tower! Simulator 3: KRIC Airport | 353336 | [353336-tower-simulator-3-kric-airport.json](./353336-tower-simulator-3-kric-airport.json) |
+| Tower! Simulator 3: KSAN Airport | 353343 | [353343-tower-simulator-3-ksan-airport.json](./353343-tower-simulator-3-ksan-airport.json) |
+| Tower! Simulator 3: KSEA Airport | 353340 | [353340-tower-simulator-3-ksea-airport.json](./353340-tower-simulator-3-ksea-airport.json) |
 | Tower! Simulator 3: KSFO Airport | 353328 | [353328-tower-simulator-3-ksfo-airport.json](./353328-tower-simulator-3-ksfo-airport.json) |
 | Tower! Simulator 3: KSLC Airport | 353332 | [353332-tower-simulator-3-kslc-airport.json](./353332-tower-simulator-3-kslc-airport.json) |
 | Tower! Simulator 3: KSTL Airport | 289931 | [289931-tower-simulator-3-kstl-airport.json](./289931-tower-simulator-3-kstl-airport.json) |
+| Tower! Simulator 3: KTUS Airport | 353334 | [353334-tower-simulator-3-ktus-airport.json](./353334-tower-simulator-3-ktus-airport.json) |
 | Tower! Simulator 3: LEBL Airport | 278505 | [278505-tower-simulator-3-lebl-airport.json](./278505-tower-simulator-3-lebl-airport.json) |
 | Tower! Simulator 3: LFPG Airport | 396506 | [396506-tower-simulator-3-lfpg-airport.json](./396506-tower-simulator-3-lfpg-airport.json) |
 | Tower! Simulator 3: LGAV Airport | 396512 | [396512-tower-simulator-3-lgav-airport.json](./396512-tower-simulator-3-lgav-airport.json) |
 | Tower! Simulator 3: LPPT Airport | 295651 | [295651-tower-simulator-3-lppt-airport.json](./295651-tower-simulator-3-lppt-airport.json) |
 | Tower! Simulator 3: LSZH Airport | 353325 | [353325-tower-simulator-3-lszh-airport.json](./353325-tower-simulator-3-lszh-airport.json) |
+| Tower! Simulator 3: Miyo | 353333 | [353333-tower-simulator-3-miyo.json](./353333-tower-simulator-3-miyo.json) |
 | Tower! Simulator 3: MMPR Airport | 289932 | [289932-tower-simulator-3-mmpr-airport.json](./289932-tower-simulator-3-mmpr-airport.json) |
 | Tower! Simulator 3: OMDB Airport | 236836 | [236836-tower-simulator-3-omdb-airport.json](./236836-tower-simulator-3-omdb-airport.json) |
 | Tower! Simulator 3: PANC Airport | 396510 | [396510-tower-simulator-3-panc-airport.json](./396510-tower-simulator-3-panc-airport.json) |
@@ -23260,6 +23273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traders of Natac | 253517 | [253517-traders-of-natac.json](./253517-traders-of-natac.json) |
 | Traders: The Intergalactic Trading Game | 78323 | [78323-traders-the-intergalactic-trading-game.json](./78323-traders-the-intergalactic-trading-game.json) |
 | Tradesman: Deal to Dealer | 265545 | [265545-tradesman-deal-to-dealer.json](./265545-tradesman-deal-to-dealer.json) |
+| Tradewake | 353193 | [353193-tradewake.json](./353193-tradewake.json) |
 | TradeWars 2002 | 72576 | [72576-tradewars-2002.json](./72576-tradewars-2002.json) |
 | Tradewinds | 94554 | [94554-tradewinds.json](./94554-tradewinds.json) |
 | Tradewinds 2 | 90469 | [90469-tradewinds-2.json](./90469-tradewinds-2.json) |
