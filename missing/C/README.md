@@ -13988,6 +13988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Penguin Diner Run | 101974 | [101974-crazy-penguin-diner-run.json](./101974-crazy-penguin-diner-run.json) |
 | Crazy Penguin Wars | 302614 | [302614-crazy-penguin-wars.json](./302614-crazy-penguin-wars.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
+| Crazy Pierrot | 339487 | [339487-crazy-pierrot.json](./339487-crazy-pierrot.json) |
 | Crazy Pingoin | 250193 | [250193-crazy-pingoin.json](./250193-crazy-pingoin.json) |
 | Crazy Pipes 3D | 374118 | [374118-crazy-pipes-3d.json](./374118-crazy-pipes-3d.json) |
 | Crazy Pirate | 81872 | [81872-crazy-pirate.json](./81872-crazy-pirate.json) |
