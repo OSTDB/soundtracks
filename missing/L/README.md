@@ -3760,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of a caveman | 31484 | [31484-life-of-a-caveman.json](./31484-life-of-a-caveman.json) |
 | Life of a Cockroach | 398904 | [398904-life-of-a-cockroach.json](./398904-life-of-a-cockroach.json) |
 | Life of A Commenter | 183917 | [183917-life-of-a-commenter.json](./183917-life-of-a-commenter.json) |
+| Life of a Dispatch English Teacher in Japan | 356557 | [356557-life-of-a-dispatch-english-teacher-in-japan.json](./356557-life-of-a-dispatch-english-teacher-in-japan.json) |
 | Life of a Goldfish | 364670 | [364670-life-of-a-goldfish.json](./364670-life-of-a-goldfish.json) |
 | Life of a Lonely Indie Game Developer | 324888 | [324888-life-of-a-lonely-indie-game-developer.json](./324888-life-of-a-lonely-indie-game-developer.json) |
 | Life of a Mercenary | 132606 | [132606-life-of-a-mercenary.json](./132606-life-of-a-mercenary.json) |
