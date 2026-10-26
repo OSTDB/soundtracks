@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Lands 2 | 254061 | [254061-new-lands-2.json](./254061-new-lands-2.json) |
 | New Lands 3: Paradise Island | 254384 | [254384-new-lands-3-paradise-island.json](./254384-new-lands-3-paradise-island.json) |
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
+| New Lands: The Shadow of Alvaria | 376428 | [376428-new-lands-the-shadow-of-alvaria.json](./376428-new-lands-the-shadow-of-alvaria.json) |
 | New Leaf Traveler and Youth's Memories | 272708 | [272708-new-leaf-traveler-and-youths-memories.json](./272708-new-leaf-traveler-and-youths-memories.json) |
 | New Legend of Sword and Fairy | 77971 | [77971-new-legend-of-sword-and-fairy.json](./77971-new-legend-of-sword-and-fairy.json) |
 | New Legends | 18268 | [18268-new-legends.json](./18268-new-legends.json) |
