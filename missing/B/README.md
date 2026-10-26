@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballroom Bonanza | 246499 | [246499-ballroom-bonanza.json](./246499-ballroom-bonanza.json) |
 | Ballrun | 358270 | [358270-ballrun.json](./358270-ballrun.json) |
 | Balls | 15657 | [15657-balls.json](./15657-balls.json) |
+| Balls | 355067 | [355067-balls.json](./355067-balls.json) |
 | Balls | 379996 | [379996-balls.json](./379996-balls.json) |
 | Balls 'n Ropes | 233507 | [233507-balls-n-ropes.json](./233507-balls-n-ropes.json) |
 | Balls and Dungeons | 189127 | [189127-balls-and-dungeons.json](./189127-balls-and-dungeons.json) |
@@ -5733,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Collexion | 80128 | [80128-beta-collexion.json](./80128-beta-collexion.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
 | Beta Escape | 159581 | [159581-beta-escape.json](./159581-beta-escape.json) |
+| Beta Fortress | 355583 | [355583-beta-fortress.json](./355583-beta-fortress.json) |
 | Beta Hospital | 330919 | [330919-beta-hospital.json](./330919-beta-hospital.json) |
 | Beta Massage Parlor Simulator | 390691 | [390691-beta-massage-parlor-simulator.json](./390691-beta-massage-parlor-simulator.json) |
 | Beta Max | 270027 | [270027-beta-max.json](./270027-beta-max.json) |
