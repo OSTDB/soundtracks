@@ -6011,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
 | Fixeight | 296612 | [296612-fixeight.json](./296612-fixeight.json) |
 | Fixer Park-er | 349617 | [349617-fixer-park-er.json](./349617-fixer-park-er.json) |
+| Fixer Undercover | 351076 | [351076-fixer-undercover.json](./351076-fixer-undercover.json) |
 | FixForce | 393101 | [393101-fixforce.json](./393101-fixforce.json) |
 | FIXKIN: A Long Way Home (at the End of the World) | 380104 | [380104-fixkin-a-long-way-home-at-the-end-of-the-world.json](./380104-fixkin-a-long-way-home-at-the-end-of-the-world.json) |
 | Fixora | 381994 | [381994-fixora.json](./381994-fixora.json) |
@@ -9648,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Realms | 20279 | [20279-free-realms.json](./20279-free-realms.json) |
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
 | Free Rider HD | 56392 | [56392-free-rider-hd.json](./56392-free-rider-hd.json) |
+| Free Rider Lite | 350924 | [350924-free-rider-lite.json](./350924-free-rider-lite.json) |
 | Free Road | 99464 | [99464-free-road.json](./99464-free-road.json) |
 | Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
 | Free Running | 4873 | [4873-free-running.json](./4873-free-running.json) |
