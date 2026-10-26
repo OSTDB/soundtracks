@@ -14363,6 +14363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spidy D | 205080 | [205080-the-spidy-d.json](./205080-the-spidy-d.json) |
 | The Spidy Quiz | 229669 | [229669-the-spidy-quiz.json](./229669-the-spidy-quiz.json) |
 | The Spiegul Contest | 273244 | [273244-the-spiegul-contest.json](./273244-the-spiegul-contest.json) |
+| The Spike Cross | 338659 | [338659-the-spike-cross.json](./338659-the-spike-cross.json) |
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
 | The Spiral Labyrinth | 149330 | [149330-the-spiral-labyrinth.json](./149330-the-spiral-labyrinth.json) |
 | The Spiral Scouts | 96200 | [96200-the-spiral-scouts.json](./96200-the-spiral-scouts.json) |
@@ -15707,6 +15708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vorlec | 266289 | [266289-the-vorlec.json](./266289-the-vorlec.json) |
 | The Vortex: Quantum Gate II | 73235 | [73235-the-vortex-quantum-gate-ii.json](./73235-the-vortex-quantum-gate-ii.json) |
 | The Vox: Tower Defense | 163842 | [163842-the-vox-tower-defense.json](./163842-the-vox-tower-defense.json) |
+| The Voyage Sinister | 338651 | [338651-the-voyage-sinister.json](./338651-the-voyage-sinister.json) |
 | The Voyager's Trail | 180757 | [180757-the-voyagers-trail.json](./180757-the-voyagers-trail.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The VR Idol lives next door!? | 303279 | [303279-the-vr-idol-lives-next-door.json](./303279-the-vr-idol-lives-next-door.json) |
@@ -17602,6 +17604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick-Hunter | 51434 | [51434-tick-hunter.json](./51434-tick-hunter.json) |
 | Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
+| Ticker | 338965 | [338965-ticker.json](./338965-ticker.json) |
 | Ticket | 30271 | [30271-ticket.json](./30271-ticket.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
 | Ticket to Heart | 400185 | [400185-ticket-to-heart.json](./400185-ticket-to-heart.json) |
@@ -17653,6 +17656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide Up | 194387 | [194387-tide-up.json](./194387-tide-up.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
+| Tide: 1932 | 338964 | [338964-tide-1932.json](./338964-tide-1932.json) |
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
 | Tidebreaker | 373568 | [373568-tidebreaker.json](./373568-tidebreaker.json) |
@@ -19422,6 +19426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
 | Time to Repair | 91234 | [91234-time-to-repair.json](./91234-time-to-repair.json) |
 | Time to Ride: Saddles & Stables | 64908 | [64908-time-to-ride-saddles-and-stables.json](./64908-time-to-ride-saddles-and-stables.json) |
+| Time to Star II | 338962 | [338962-time-to-star-ii.json](./338962-time-to-star-ii.json) |
 | Time to Stop Time | 121452 | [121452-time-to-stop-time.json](./121452-time-to-stop-time.json) |
 | Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
 | Time To Wake Up | 356259 | [356259-time-to-wake-up.json](./356259-time-to-wake-up.json) |
@@ -19881,6 +19886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Sea Adventure | 58557 | [58557-tiny-sea-adventure.json](./58557-tiny-sea-adventure.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
 | Tiny Sheep: Pet Sim on a Farm | 232342 | [232342-tiny-sheep-pet-sim-on-a-farm.json](./232342-tiny-sheep-pet-sim-on-a-farm.json) |
+| Tiny Shooters | 338961 | [338961-tiny-shooters.json](./338961-tiny-shooters.json) |
 | Tiny Shop | 297576 | [297576-tiny-shop.json](./297576-tiny-shop.json) |
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
@@ -20438,6 +20444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaru Majutsu to Kagaku no Ensemble | 11862 | [11862-toaru-majutsu-to-kagaku-no-ensemble.json](./11862-toaru-majutsu-to-kagaku-no-ensemble.json) |
 | Toaru Pantsu no Railgun | 204322 | [204322-toaru-pantsu-no-railgun.json](./204322-toaru-pantsu-no-railgun.json) |
 | Toast | 237271 | [237271-toast.json](./237271-toast.json) |
+| Toast Astronauts | 338960 | [338960-toast-astronauts.json](./338960-toast-astronauts.json) |
 | Toast Defense | 150977 | [150977-toast-defense.json](./150977-toast-defense.json) |
 | Toast Factory | 380512 | [380512-toast-factory.json](./380512-toast-factory.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
@@ -20565,6 +20572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toem 2 | 325182 | [325182-toem-2.json](./325182-toem-2.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
 | Toey Weedz Smoke Dead Mirror | 386534 | [386534-toey-weedz-smoke-dead-mirror.json](./386534-toey-weedz-smoke-dead-mirror.json) |
+| Toey Weedz Smoke One | 338959 | [338959-toey-weedz-smoke-one.json](./338959-toey-weedz-smoke-one.json) |
 | Toffee Cats | 369681 | [369681-toffee-cats.json](./369681-toffee-cats.json) |
 | Toffee Trouble in Creamville | 232841 | [232841-toffee-trouble-in-creamville.json](./232841-toffee-trouble-in-creamville.json) |
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
@@ -21298,6 +21306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow Never Dies 64 | 194838 | [194838-tomorrow-never-dies-64.json](./194838-tomorrow-never-dies-64.json) |
 | Tomorrow Will Be Dying | 177874 | [177874-tomorrow-will-be-dying.json](./177874-tomorrow-will-be-dying.json) |
 | Tomorrow Won't Come For Those Without | 135658 | [135658-tomorrow-wont-come-for-those-without.json](./135658-tomorrow-wont-come-for-those-without.json) |
+| Tomorrow's Land | 338958 | [338958-tomorrows-land.json](./338958-tomorrows-land.json) |
 | Tomorrow's Love Puzzle | 287722 | [287722-tomorrows-love-puzzle.json](./287722-tomorrows-love-puzzle.json) |
 | Tomorrow's Past | 189898 | [189898-tomorrows-past.json](./189898-tomorrows-past.json) |
 | Tomorrowness | 377682 | [377682-tomorrowness.json](./377682-tomorrowness.json) |
@@ -21782,6 +21791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
 | Torikago no Mukougawa | 268665 | [268665-torikago-no-mukougawa.json](./268665-torikago-no-mukougawa.json) |
+| Toriki: The Castaway Island | 338957 | [338957-toriki-the-castaway-island.json](./338957-toriki-the-castaway-island.json) |
 | Toriko: Gourmet ga Battle | 63650 | [63650-toriko-gourmet-ga-battle.json](./63650-toriko-gourmet-ga-battle.json) |
 | Toriko: Gourmet Monsters! | 79277 | [79277-toriko-gourmet-monsters.json](./79277-toriko-gourmet-monsters.json) |
 | Toriko: Gourmet Survival | 66080 | [66080-toriko-gourmet-survival.json](./66080-toriko-gourmet-survival.json) |
@@ -22153,6 +22163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem 2 | 204851 | [204851-totem-2.json](./204851-totem-2.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
+| Totem Clash | 338956 | [338956-totem-clash.json](./338956-totem-clash.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
 | Totem Smash | 344235 | [344235-totem-smash.json](./344235-totem-smash.json) |
 | Totem Topple | 59524 | [59524-totem-topple.json](./59524-totem-topple.json) |
@@ -22174,6 +22185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toto's Journey | 410200 | [410200-totos-journey.json](./410200-totos-journey.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totoball | 54876 | [54876-totoball.json](./54876-totoball.json) |
+| Totomi Trainer | 338955 | [338955-totomi-trainer.json](./338955-totomi-trainer.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Tots Town - House | 97151 | [97151-tots-town-house.json](./97151-tots-town-house.json) |
 | Totsugeki 64 | 203396 | [203396-totsugeki-64.json](./203396-totsugeki-64.json) |
