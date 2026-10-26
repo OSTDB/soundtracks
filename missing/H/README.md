@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handle with Care! | 419590 | [419590-handle-with-care.json](./419590-handle-with-care.json) |
 | Handle With Care.. | 330816 | [330816-handle-with-care.json](./330816-handle-with-care.json) |
 | Handlebar | 414270 | [414270-handlebar.json](./414270-handlebar.json) |
+| Handless Millionaire | 383473 | [383473-handless-millionaire.json](./383473-handless-millionaire.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
 | Handmancers | 260587 | [260587-handmancers.json](./260587-handmancers.json) |
 | HandPass VR | 30755 | [30755-handpass-vr.json](./30755-handpass-vr.json) |
@@ -9924,6 +9925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Chronicles: Tara and Vyn | 303560 | [303560-hunter-chronicles-tara-and-vyn.json](./303560-hunter-chronicles-tara-and-vyn.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
 | Hunter from East | 375524 | [375524-hunter-from-east.json](./375524-hunter-from-east.json) |
+| Hunter From Hell | 383456 | [383456-hunter-from-hell.json](./383456-hunter-from-hell.json) |
 | Hunter Girls | 259065 | [259065-hunter-girls.json](./259065-hunter-girls.json) |
 | Hunter Hearts | 164873 | [164873-hunter-hearts.json](./164873-hunter-hearts.json) |
 | Hunter Hitman | 340494 | [340494-hunter-hitman.json](./340494-hunter-hitman.json) |
