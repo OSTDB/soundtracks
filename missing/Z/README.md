@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survivors | 316679 | [316679-zombie-survivors.json](./316679-zombie-survivors.json) |
 | Zombie Survivors | 367823 | [367823-zombie-survivors.json](./367823-zombie-survivors.json) |
 | Zombie Survivors: Eternal Nightfall | 384315 | [384315-zombie-survivors-eternal-nightfall.json](./384315-zombie-survivors-eternal-nightfall.json) |
+| Zombie Survivors: Inventory Apocalypse | 345372 | [345372-zombie-survivors-inventory-apocalypse.json](./345372-zombie-survivors-inventory-apocalypse.json) |
 | Zombie Sweeper | 99580 | [99580-zombie-sweeper.json](./99580-zombie-sweeper.json) |
 | Zombie Swipeout | 254555 | [254555-zombie-swipeout.json](./254555-zombie-swipeout.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
@@ -1658,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie's Retreat | 127634 | [127634-zombies-retreat.json](./127634-zombies-retreat.json) |
 | ZombieBoy | 137337 | [137337-zombieboy.json](./137337-zombieboy.json) |
 | ZombieBoy 2: Crazy Love | 137338 | [137338-zombieboy-2-crazy-love.json](./137338-zombieboy-2-crazy-love.json) |
+| Zombiecards | 345384 | [345384-zombiecards.json](./345384-zombiecards.json) |
 | Zombiecraftt!!1 Sampler | 94160 | [94160-zombiecraftt-1-sampler.json](./94160-zombiecraftt-1-sampler.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
 | Zombiefield | 336751 | [336751-zombiefield.json](./336751-zombiefield.json) |
@@ -1671,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombieland: Double Tap - Road Trip | 121232 | [121232-zombieland-double-tap-road-trip.json](./121232-zombieland-double-tap-road-trip.json) |
 | Zombieland: Headshot Fever - Reloaded | 239423 | [239423-zombieland-headshot-fever-reloaded.json](./239423-zombieland-headshot-fever-reloaded.json) |
 | Zombieland: Survivors | 297758 | [297758-zombieland-survivors.json](./297758-zombieland-survivors.json) |
+| Zombiemachia | 345404 | [345404-zombiemachia.json](./345404-zombiemachia.json) |
 | Zombieman | 416955 | [416955-zombieman.json](./416955-zombieman.json) |
 | Zombieman 2 | 416956 | [416956-zombieman-2.json](./416956-zombieman-2.json) |
 | Zombien | 121383 | [121383-zombien.json](./121383-zombien.json) |
@@ -1681,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies | 218976 | [218976-zombies.json](./218976-zombies.json) |
 | Zombies & Bullets | 372638 | [372638-zombies-and-bullets.json](./372638-zombies-and-bullets.json) |
 | Zombies & Love | 296987 | [296987-zombies-and-love.json](./296987-zombies-and-love.json) |
+| Zombies & Survivors | 345403 | [345403-zombies-and-survivors.json](./345403-zombies-and-survivors.json) |
 | Zombies & Trains! | 51202 | [51202-zombies-and-trains.json](./51202-zombies-and-trains.json) |
 | Zombies 2.0 | 67679 | [67679-zombies-2-0.json](./67679-zombies-2-0.json) |
 | Zombies and Keys | 197393 | [197393-zombies-and-keys.json](./197393-zombies-and-keys.json) |
@@ -1773,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombnami | 308921 | [308921-zombnami.json](./308921-zombnami.json) |
 | Zomboard | 336055 | [336055-zomboard.json](./336055-zomboard.json) |
 | Zombobox: Bredo Story | 405602 | [405602-zombobox-bredo-story.json](./405602-zombobox-bredo-story.json) |
+| Zombocalypse | 345383 | [345383-zombocalypse.json](./345383-zombocalypse.json) |
 | Zombocalypse | 345559 | [345559-zombocalypse.json](./345559-zombocalypse.json) |
 | Zombocalypse | 389509 | [389509-zombocalypse.json](./389509-zombocalypse.json) |
 | Zombocalypse Now! | 374914 | [374914-zombocalypse-now.json](./374914-zombocalypse-now.json) |
@@ -1809,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zomt | 397171 | [397171-zomt.json](./397171-zomt.json) |
 | ZomVox | 410705 | [410705-zomvox.json](./410705-zomvox.json) |
 | Zomzoms | 130381 | [130381-zomzoms.json](./130381-zomzoms.json) |
+| Zonark | 345379 | [345379-zonark.json](./345379-zonark.json) |
 | Zonbi Panic | 138734 | [138734-zonbi-panic.json](./138734-zonbi-panic.json) |
 | Zonder: Real-World Travel Game | 282723 | [282723-zonder-real-world-travel-game.json](./282723-zonder-real-world-travel-game.json) |
 | Zone | 246223 | [246223-zone.json](./246223-zone.json) |
