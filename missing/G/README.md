@@ -7979,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groggers! | 31122 | [31122-groggers.json](./31122-groggers.json) |
 | Grok | 322763 | [322763-grok.json](./322763-grok.json) |
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
+| Grokit: Purrtropolis | 354331 | [354331-grokit-purrtropolis.json](./354331-grokit-purrtropolis.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
 | Gromada | 69934 | [69934-gromada.json](./69934-gromada.json) |
 | Grombcross | 288692 | [288692-grombcross.json](./288692-grombcross.json) |
