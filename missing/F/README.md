@@ -4033,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | File Destined | 235446 | [235446-file-destined.json](./235446-file-destined.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | FileKiller | 294215 | [294215-filekiller.json](./294215-filekiller.json) |
+| Filiy Eclipse | 334597 | [334597-filiy-eclipse.json](./334597-filiy-eclipse.json) |
 | Fill & Cross: Christmas Riddles | 169788 | [169788-fill-and-cross-christmas-riddles.json](./169788-fill-and-cross-christmas-riddles.json) |
 | Fill & Cross: Pirate Riddles | 155013 | [155013-fill-and-cross-pirate-riddles.json](./155013-fill-and-cross-pirate-riddles.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
