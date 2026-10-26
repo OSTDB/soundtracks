@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank vs. Tank: Deluxe Edition | 332507 | [332507-tank-vs-tank-deluxe-edition.json](./332507-tank-vs-tank-deluxe-edition.json) |
 | Tank vs. Tank: Discovery Edition | 400205 | [400205-tank-vs-tank-discovery-edition.json](./400205-tank-vs-tank-discovery-edition.json) |
 | Tank vs. Tank: Prime Edition | 333727 | [333727-tank-vs-tank-prime-edition.json](./333727-tank-vs-tank-prime-edition.json) |
+| Tank vs. Tank: Superior Edition | 336434 | [336434-tank-vs-tank-superior-edition.json](./336434-tank-vs-tank-superior-edition.json) |
 | Tank vs. Tank: Value Edition | 397892 | [397892-tank-vs-tank-value-edition.json](./397892-tank-vs-tank-value-edition.json) |
 | Tank War | 59798 | [59798-tank-war.json](./59798-tank-war.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
