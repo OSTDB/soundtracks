@@ -4794,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Gold Hunt | 379121 | [379121-goblin-gold-hunt.json](./379121-goblin-gold-hunt.json) |
 | Goblin Golf | 181689 | [181689-goblin-golf.json](./181689-goblin-golf.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
+| Goblin Gourmet | 360029 | [360029-goblin-gourmet.json](./360029-goblin-gourmet.json) |
 | Goblin Head Golf | 180472 | [180472-goblin-head-golf.json](./180472-goblin-head-golf.json) |
 | Goblin in the Castle | 318246 | [318246-goblin-in-the-castle.json](./318246-goblin-in-the-castle.json) |
 | Goblin Journal | 347742 | [347742-goblin-journal.json](./347742-goblin-journal.json) |
@@ -8372,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
 | GuardGrave | 275536 | [275536-guardgrave.json](./275536-guardgrave.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
+| Guardian | 360038 | [360038-guardian.json](./360038-guardian.json) |
 | Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
 | Guardian | 55133 | [55133-guardian.json](./55133-guardian.json) |
 | Guardian Above the Domes | 423199 | [423199-guardian-above-the-domes.json](./423199-guardian-above-the-domes.json) |
