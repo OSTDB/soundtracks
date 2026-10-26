@@ -7511,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaksha Mini Adventures 2: A New Threat | 392998 | [392998-anaksha-mini-adventures-2-a-new-threat.json](./392998-anaksha-mini-adventures-2-a-new-threat.json) |
 | Anaksha: Dark Angel | 392999 | [392999-anaksha-dark-angel.json](./392999-anaksha-dark-angel.json) |
 | Anaksha: Female Assassin | 392994 | [392994-anaksha-female-assassin.json](./392994-anaksha-female-assassin.json) |
+| Anal Club | 368972 | [368972-anal-club.json](./368972-anal-club.json) |
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
