@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Aradia: Idle RPG | 358457 | [358457-tales-of-aradia-idle-rpg.json](./358457-tales-of-aradia-idle-rpg.json) |
 | Tales Of Aravorn: Reign Of War | 293832 | [293832-tales-of-aravorn-reign-of-war.json](./293832-tales-of-aravorn-reign-of-war.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
+| Tales of Arcrath | 379424 | [379424-tales-of-arcrath.json](./379424-tales-of-arcrath.json) |
 | Tales of Argento: Spirit of the Goddess | 379433 | [379433-tales-of-argento-spirit-of-the-goddess.json](./379433-tales-of-argento-spirit-of-the-goddess.json) |
 | Tales of Arise: Beyond the Dawn | 266719 | [266719-tales-of-arise-beyond-the-dawn.json](./266719-tales-of-arise-beyond-the-dawn.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
@@ -1079,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Meadows | 350773 | [350773-tales-of-meadows.json](./350773-tales-of-meadows.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
 | Tales of Memo | 194340 | [194340-tales-of-memo.json](./194340-tales-of-memo.json) |
+| Tales of Metal | 379428 | [379428-tales-of-metal.json](./379428-tales-of-metal.json) |
 | Tales of Middle Earth | 326278 | [326278-tales-of-middle-earth.json](./326278-tales-of-middle-earth.json) |
 | Tales of Miravia | 339420 | [339420-tales-of-miravia.json](./339420-tales-of-miravia.json) |
 | Tales of Mist | 260581 | [260581-tales-of-mist.json](./260581-tales-of-mist.json) |
@@ -1199,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Therapy | 226150 | [226150-tales-of-therapy.json](./226150-tales-of-therapy.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales of TianYuan Dynasty | 220747 | [220747-tales-of-tianyuan-dynasty.json](./220747-tales-of-tianyuan-dynasty.json) |
+| Tales of Tirunia | 379430 | [379430-tales-of-tirunia.json](./379430-tales-of-tirunia.json) |
 | Tales of Tonbrook | 360336 | [360336-tales-of-tonbrook.json](./360336-tales-of-tonbrook.json) |
 | Tales of Tyria | 135808 | [135808-tales-of-tyria.json](./135808-tales-of-tyria.json) |
 | Tales of Valkyrie | 379436 | [379436-tales-of-valkyrie.json](./379436-tales-of-valkyrie.json) |
@@ -1219,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Xillia Remastered | 361791 | [361791-tales-of-xillia-remastered.json](./361791-tales-of-xillia-remastered.json) |
 | Tales of Xillia Remastered: Deluxe Edition | 365550 | [365550-tales-of-xillia-remastered-deluxe-edition.json](./365550-tales-of-xillia-remastered-deluxe-edition.json) |
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
+| Tales of Yokai Harmony | 379425 | [379425-tales-of-yokai-harmony.json](./379425-tales-of-yokai-harmony.json) |
 | Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
 | Tales of Zestiria | 6452 | [6452-tales-of-zestiria.json](./6452-tales-of-zestiria.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
@@ -1230,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales to Enjoy! The Ugly Duckling | 85426 | [85426-tales-to-enjoy-the-ugly-duckling.json](./85426-tales-to-enjoy-the-ugly-duckling.json) |
 | Tales to Enjoy! Three Little Pigs | 85425 | [85425-tales-to-enjoy-three-little-pigs.json](./85425-tales-to-enjoy-three-little-pigs.json) |
 | Tales We Tell Ourselves | 144122 | [144122-tales-we-tell-ourselves.json](./144122-tales-we-tell-ourselves.json) |
+| Talescape | 379423 | [379423-talescape.json](./379423-talescape.json) |
 | Talespinner | 190106 | [190106-talespinner.json](./190106-talespinner.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
 | Talesshop Puzzle Collection | 123836 | [123836-talesshop-puzzle-collection.json](./123836-talesshop-puzzle-collection.json) |
@@ -4554,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Accuser and the Abyss | 325532 | [325532-the-accuser-and-the-abyss.json](./325532-the-accuser-and-the-abyss.json) |
 | The Aching | 240831 | [240831-the-aching.json](./240831-the-aching.json) |
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
+| The Acid Queens of the Moon | 379409 | [379409-the-acid-queens-of-the-moon.json](./379409-the-acid-queens-of-the-moon.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
 | The Activision Decathlon | 11855 | [11855-the-activision-decathlon.json](./11855-the-activision-decathlon.json) |
@@ -6229,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complete Movie Games Collection | 336051 | [336051-the-complete-movie-games-collection.json](./336051-the-complete-movie-games-collection.json) |
 | The Complete Universal Military Simulator | 137480 | [137480-the-complete-universal-military-simulator.json](./137480-the-complete-universal-military-simulator.json) |
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
+| The Complex Chapter 1: Who, What, Where? | 379406 | [379406-the-complex-chapter-1-who-what-where.json](./379406-the-complex-chapter-1-who-what-where.json) |
 | The Complex IV | 286003 | [286003-the-complex-iv.json](./286003-the-complex-iv.json) |
 | The Complex Tragedy | 284923 | [284923-the-complex-tragedy.json](./284923-the-complex-tragedy.json) |
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
@@ -8015,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fog Fall 4 | 392739 | [392739-the-fog-fall-4.json](./392739-the-fog-fall-4.json) |
 | The Fog Knows Your Name | 126246 | [126246-the-fog-knows-your-name.json](./126246-the-fog-knows-your-name.json) |
 | The Fog: Trap for Moths | 53738 | [53738-the-fog-trap-for-moths.json](./53738-the-fog-trap-for-moths.json) |
+| The Folk | 379417 | [379417-the-folk.json](./379417-the-folk.json) |
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Food Run | 22180 | [22180-the-food-run.json](./22180-the-food-run.json) |
 | The Food Run: Extra 64 Levels | 165947 | [165947-the-food-run-extra-64-levels.json](./165947-the-food-run-extra-64-levels.json) |
@@ -11856,6 +11864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night is Darkening | 174573 | [174573-the-night-is-darkening.json](./174573-the-night-is-darkening.json) |
 | The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
+| The Night Job: Hotel | 379402 | [379402-the-night-job-hotel.json](./379402-the-night-job-hotel.json) |
 | The Night Journey | 105505 | [105505-the-night-journey.json](./105505-the-night-journey.json) |
 | The Night of Death | 237464 | [237464-the-night-of-death.json](./237464-the-night-of-death.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
@@ -13251,6 +13260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scrap | 247669 | [247669-the-scrap.json](./247669-the-scrap.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
 | The Scream | 119552 | [119552-the-scream.json](./119552-the-scream.json) |
+| The Scream of Darkness | 379397 | [379397-the-scream-of-darkness.json](./379397-the-scream-of-darkness.json) |
 | The ScreaMaze | 114230 | [114230-the-screamaze.json](./114230-the-screamaze.json) |
 | The Screamer | 62616 | [62616-the-screamer.json](./62616-the-screamer.json) |
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
@@ -22416,6 +22426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
 | Tower 57 | 28302 | [28302-tower-57.json](./28302-tower-57.json) |
+| Tower Accelerator | 379404 | [379404-tower-accelerator.json](./379404-tower-accelerator.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Arena | 118019 | [118019-tower-arena.json](./118019-tower-arena.json) |
 | Tower Arena Survive | 348022 | [348022-tower-arena-survive.json](./348022-tower-arena-survive.json) |
