@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Will Escape | 17862 | [17862-i-will-escape.json](./17862-i-will-escape.json) |
 | I Will Never Fall for My Tsundere Classmate, so I Will Just Date a Background Character Instead! | 372598 | [372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json](./372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json) |
 | I Will Never Forget You Because You Have Made Me the Happiest Dog on Earth | 227981 | [227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json](./227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json) |
+| I Will Purify You | 385693 | [385693-i-will-purify-you.json](./385693-i-will-purify-you.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
 | I Will: The Story of London | 307987 | [307987-i-will-the-story-of-london.json](./307987-i-will-the-story-of-london.json) |
 | I wish I was | 182697 | [182697-i-wish-i-was.json](./182697-i-wish-i-was.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal's Way | 302068 | [302068-immortals-way.json](./302068-immortals-way.json) |
 | Immortality | 355212 | [355212-immortality.json](./355212-immortality.json) |
 | Immortality Paradox | 267999 | [267999-immortality-paradox.json](./267999-immortality-paradox.json) |
+| ImmorTall | 385641 | [385641-immortall.json](./385641-immortall.json) |
 | Immortals | 103462 | [103462-immortals.json](./103462-immortals.json) |
 | Immortals | 341692 | [341692-immortals.json](./341692-immortals.json) |
 | Immortals Fenyx Rising: A New God | 142848 | [142848-immortals-fenyx-rising-a-new-god.json](./142848-immortals-fenyx-rising-a-new-god.json) |
