@@ -14008,6 +14008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
 | Psych! Outwit Your Friends | 88059 | [88059-psych-outwit-your-friends.json](./88059-psych-outwit-your-friends.json) |
+| Psychdive. | 366334 | [366334-psychdive.json](./366334-psychdive.json) |
 | Psyche Metal: The Bleeding | 141070 | [141070-psyche-metal-the-bleeding.json](./141070-psyche-metal-the-bleeding.json) |
 | Psyche Soldier VR | 30097 | [30097-psyche-soldier-vr.json](./30097-psyche-soldier-vr.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
