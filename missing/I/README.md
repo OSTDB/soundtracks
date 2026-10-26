@@ -3928,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgency Runner | 258485 | [258485-insurgency-runner.json](./258485-insurgency-runner.json) |
 | Insurgency: Modern Infantry Combat | 27533 | [27533-insurgency-modern-infantry-combat.json](./27533-insurgency-modern-infantry-combat.json) |
 | Insurgency: Sandstorm - Chemical Combat Gear Set | 321157 | [321157-insurgency-sandstorm-chemical-combat-gear-set.json](./321157-insurgency-sandstorm-chemical-combat-gear-set.json) |
+| Insurgency: Sandstorm - Crisis Set Bundle | 373508 | [373508-insurgency-sandstorm-crisis-set-bundle.json](./373508-insurgency-sandstorm-crisis-set-bundle.json) |
 | Insurgency: Sandstorm - Deluxe Edition | 169171 | [169171-insurgency-sandstorm-deluxe-edition.json](./169171-insurgency-sandstorm-deluxe-edition.json) |
 | Insurgency: Sandstorm - Desert Veteran Weapon Skin Set | 321159 | [321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json](./321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Digital Splatter Skin Set | 273937 | [273937-insurgency-sandstorm-digital-splatter-skin-set.json](./273937-insurgency-sandstorm-digital-splatter-skin-set.json) |
@@ -5330,9 +5331,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isometric World | 204279 | [204279-isometric-world.json](./204279-isometric-world.json) |
 | Isometric World: Frame of Mind | 150922 | [150922-isometric-world-frame-of-mind.json](./150922-isometric-world-frame-of-mind.json) |
 | Isomorph | 31614 | [31614-isomorph.json](./31614-isomorph.json) |
+| Isonzo: Avanti Savoia Units Pack | 373587 | [373587-isonzo-avanti-savoia-units-pack.json](./373587-isonzo-avanti-savoia-units-pack.json) |
 | Isonzo: Collector's Edition | 218548 | [218548-isonzo-collectors-edition.json](./218548-isonzo-collectors-edition.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | Isonzo: First Wave | 265715 | [265715-isonzo-first-wave.json](./265715-isonzo-first-wave.json) |
+| Isonzo: First Wave Edition | 373585 | [373585-isonzo-first-wave-edition.json](./373585-isonzo-first-wave-edition.json) |
+| Isonzo: Movember Handlebar | 373589 | [373589-isonzo-movember-handlebar.json](./373589-isonzo-movember-handlebar.json) |
+| Isonzo: Shellshocked Units Pack | 373586 | [373586-isonzo-shellshocked-units-pack.json](./373586-isonzo-shellshocked-units-pack.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
 | Isop0dyssey | 250830 | [250830-isop0dyssey.json](./250830-isop0dyssey.json) |
 | Isophoria | 375316 | [375316-isophoria.json](./375316-isophoria.json) |
