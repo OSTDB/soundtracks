@@ -5382,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Fear of Heights Experience | 52002 | [52002-the-big-fear-of-heights-experience.json](./52002-the-big-fear-of-heights-experience.json) |
 | The Big Gay Adventure | 327403 | [327403-the-big-gay-adventure.json](./327403-the-big-gay-adventure.json) |
 | The Big Heap | 129720 | [129720-the-big-heap.json](./129720-the-big-heap.json) |
+| The Big Hollow: 1982 | 383455 | [383455-the-big-hollow-1982.json](./383455-the-big-hollow-1982.json) |
 | The Big Journey | 69549 | [69549-the-big-journey.json](./69549-the-big-journey.json) |
 | The Big KO! | 15671 | [15671-the-big-ko.json](./15671-the-big-ko.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
@@ -6193,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 2: Vicious Sisters | 121617 | [121617-the-coma-2-vicious-sisters.json](./121617-the-coma-2-vicious-sisters.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
 | The Coma 2B: Catacomb | 293779 | [293779-the-coma-2b-catacomb.json](./293779-the-coma-2b-catacomb.json) |
+| The Coma 2B: Catacomb - Deluxe Edition | 383426 | [383426-the-coma-2b-catacomb-deluxe-edition.json](./383426-the-coma-2b-catacomb-deluxe-edition.json) |
 | The Coma 2B: Catacomb - The Child of Destiny Youngho | 324364 | [324364-the-coma-2b-catacomb-the-child-of-destiny-youngho.json](./324364-the-coma-2b-catacomb-the-child-of-destiny-youngho.json) |
 | The Coma 2B: Catacomb - The Gamer Youngho | 324473 | [324473-the-coma-2b-catacomb-the-gamer-youngho.json](./324473-the-coma-2b-catacomb-the-gamer-youngho.json) |
 | The Coma 2B: Catacomb - The Survivalist Youngho | 324474 | [324474-the-coma-2b-catacomb-the-survivalist-youngho.json](./324474-the-coma-2b-catacomb-the-survivalist-youngho.json) |
@@ -6584,6 +6586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dabloon Project | 279491 | [279491-the-dabloon-project.json](./279491-the-dabloon-project.json) |
 | The Daedalic Comedy Selection | 53723 | [53723-the-daedalic-comedy-selection.json](./53723-the-daedalic-comedy-selection.json) |
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
+| The Dagby Files | 383449 | [383449-the-dagby-files.json](./383449-the-dagby-files.json) |
 | The Dagger of Amon Ra | 9737 | [9737-the-dagger-of-amon-ra.json](./9737-the-dagger-of-amon-ra.json) |
 | The Daily Crossword | 103919 | [103919-the-daily-crossword.json](./103919-the-daily-crossword.json) |
 | The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
@@ -12569,6 +12572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prometheus Secret Noohra | 110696 | [110696-the-prometheus-secret-noohra.json](./110696-the-prometheus-secret-noohra.json) |
 | The Promise of Forever | 323991 | [323991-the-promise-of-forever.json](./323991-the-promise-of-forever.json) |
 | The Promise of Forever 2 | 323992 | [323992-the-promise-of-forever-2.json](./323992-the-promise-of-forever-2.json) |
+| The Promise Tree of Alden | 383447 | [383447-the-promise-tree-of-alden.json](./383447-the-promise-tree-of-alden.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
 | The Promised Land | 78648 | [78648-the-promised-land.json](./78648-the-promised-land.json) |
 | The Prophecy | 12822 | [12822-the-prophecy.json](./12822-the-prophecy.json) |
@@ -14438,6 +14442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sych Story: Human Being | 369574 | [369574-the-sych-story-human-being.json](./369574-the-sych-story-human-being.json) |
 | The Sydney Mystery | 73268 | [73268-the-sydney-mystery.json](./73268-the-sydney-mystery.json) |
 | The Symbiant | 228984 | [228984-the-symbiant.json](./228984-the-symbiant.json) |
+| The Symbiant + The Symbiant Re:Union Bundle | 383425 | [383425-the-symbiant-the-symbiant-re-union-bundle.json](./383425-the-symbiant-the-symbiant-re-union-bundle.json) |
 | The Symbiant II | 349336 | [349336-the-symbiant-ii.json](./349336-the-symbiant-ii.json) |
 | The Symbiant Re:Union | 259004 | [259004-the-symbiant-re-union.json](./259004-the-symbiant-re-union.json) |
 | The Symphony of Dragon and Girls | 208237 | [208237-the-symphony-of-dragon-and-girls.json](./208237-the-symphony-of-dragon-and-girls.json) |
@@ -14998,6 +15003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town of Light: Deluxe Edition | 86237 | [86237-the-town-of-light-deluxe-edition.json](./86237-the-town-of-light-deluxe-edition.json) |
 | The Town of Nie | 315338 | [315338-the-town-of-nie.json](./315338-the-town-of-nie.json) |
+| The Town of Nowhere: End Of The Line | 383448 | [383448-the-town-of-nowhere-end-of-the-line.json](./383448-the-town-of-nowhere-end-of-the-line.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
 | The Toy Factory Across the Street | 225820 | [225820-the-toy-factory-across-the-street.json](./225820-the-toy-factory-across-the-street.json) |
