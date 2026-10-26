@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
 | Haitoku Silene | 157058 | [157058-haitoku-silene.json](./157058-haitoku-silene.json) |
 | Haiyuuenchi no Memento Memoria | 259056 | [259056-haiyuuenchi-no-memento-memoria.json](./259056-haiyuuenchi-no-memento-memoria.json) |
+| Hǎizéiwáng Jiējī Idle | 368443 | [368443-haizeiwang-jieji-idle.json](./368443-haizeiwang-jieji-idle.json) |
 | Hajiite! Block Rush | 344482 | [344482-hajiite-block-rush.json](./344482-hajiite-block-rush.json) |
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
 | HajiLove: Making Lovers - Limited Edition | 207915 | [207915-hajilove-making-lovers-limited-edition.json](./207915-hajilove-making-lovers-limited-edition.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween | 40790 | [40790-halloween.json](./40790-halloween.json) |
 | Halloween | 80499 | [80499-halloween.json](./80499-halloween.json) |
 | Halloween 1 | 300824 | [300824-halloween-1.json](./300824-halloween-1.json) |
+| Halloween 1985 | 368454 | [368454-halloween-1985.json](./368454-halloween-1985.json) |
 | Halloween 2: Asylum | 357182 | [357182-halloween-2-asylum.json](./357182-halloween-2-asylum.json) |
 | Halloween 3D | 106514 | [106514-halloween-3d.json](./106514-halloween-3d.json) |
 | Halloween Basketball Legends | 395955 | [395955-halloween-basketball-legends.json](./395955-halloween-basketball-legends.json) |
@@ -3972,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
 | Hentai Age Airport | 411064 | [411064-hentai-age-airport.json](./411064-hentai-age-airport.json) |
 | Hentai Age Hospital | 385272 | [385272-hentai-age-hospital.json](./385272-hentai-age-hospital.json) |
+| Hentai Age Island | 368523 | [368523-hentai-age-island.json](./368523-hentai-age-island.json) |
 | Hentai Age Running | 389166 | [389166-hentai-age-running.json](./389166-hentai-age-running.json) |
 | Hentai Age Summer | 384698 | [384698-hentai-age-summer.json](./384698-hentai-age-summer.json) |
 | Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
@@ -4123,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
 | Hentai Furry Sheepy | 396715 | [396715-hentai-furry-sheepy.json](./396715-hentai-furry-sheepy.json) |
 | Hentai Furry Unicorny | 347771 | [347771-hentai-furry-unicorny.json](./347771-hentai-furry-unicorny.json) |
+| Hentai Furry Wolfy | 368526 | [368526-hentai-furry-wolfy.json](./368526-hentai-furry-wolfy.json) |
 | Hentai Galaxy | 240692 | [240692-hentai-galaxy.json](./240692-hentai-galaxy.json) |
 | Hentai Gallery: Hidden Charms | 380700 | [380700-hentai-gallery-hidden-charms.json](./380700-hentai-gallery-hidden-charms.json) |
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
@@ -9302,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Much Items: Fishes | 340490 | [340490-how-much-items-fishes.json](./340490-how-much-items-fishes.json) |
 | How Much Items: Food | 340491 | [340491-how-much-items-food.json](./340491-how-much-items-food.json) |
 | How Much Items: Plants | 364021 | [364021-how-much-items-plants.json](./364021-how-much-items-plants.json) |
+| How Much Items: Tanks | 368455 | [368455-how-much-items-tanks.json](./368455-how-much-items-tanks.json) |
 | How Much Items: Vegetation | 340492 | [340492-how-much-items-vegetation.json](./340492-how-much-items-vegetation.json) |
 | How Much Items: Vehicles | 371481 | [371481-how-much-items-vehicles.json](./371481-how-much-items-vehicles.json) |
 | How Much Items: Weapon | 340493 | [340493-how-much-items-weapon.json](./340493-how-much-items-weapon.json) |
