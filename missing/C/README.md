@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
 | Car Flipper Simulator 25 | 328441 | [328441-car-flipper-simulator-25.json](./328441-car-flipper-simulator-25.json) |
+| Car Football | 385653 | [385653-car-football.json](./385653-car-football.json) |
 | Car For Sale Simulator 2023 | 233027 | [233027-car-for-sale-simulator-2023.json](./233027-car-for-sale-simulator-2023.json) |
 | Car for Sale Simulator 2023: Car Mechanic, Wash, Car Flipper | 273327 | [273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json](./273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json) |
 | Car For Sale Simulator 2023: PickUp & SUV | 359608 | [359608-car-for-sale-simulator-2023-pickup-and-suv.json](./359608-car-for-sale-simulator-2023-pickup-and-suv.json) |
@@ -12917,6 +12918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Desert | 270529 | [270529-cozy-desert.json](./270529-cozy-desert.json) |
 | Cozy Designer | 295783 | [295783-cozy-designer.json](./295783-cozy-designer.json) |
 | Cozy Desktop Konbini | 358228 | [358228-cozy-desktop-konbini.json](./358228-cozy-desktop-konbini.json) |
+| Cozy Dive | 385635 | [385635-cozy-dive.json](./385635-cozy-dive.json) |
 | Cozy Dream | 280629 | [280629-cozy-dream.json](./280629-cozy-dream.json) |
 | Cozy Dungeons | 304307 | [304307-cozy-dungeons.json](./304307-cozy-dungeons.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
@@ -13635,6 +13637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
 | Crazy Crab 2 | 354088 | [354088-crazy-crab-2.json](./354088-crazy-crab-2.json) |
 | Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
+| Crazy Crows | 385539 | [385539-crazy-crows.json](./385539-crazy-crows.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Defense Heroes | 95092 | [95092-crazy-defense-heroes.json](./95092-crazy-defense-heroes.json) |
 | Crazy Demolition Derby Car 2022 | 220827 | [220827-crazy-demolition-derby-car-2022.json](./220827-crazy-demolition-derby-car-2022.json) |
@@ -14572,6 +14575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Helix | 396733 | [396733-cross-helix.json](./396733-cross-helix.json) |
 | Cross Hermit: Welcome to the Farthest | 241236 | [241236-cross-hermit-welcome-to-the-farthest.json](./241236-cross-hermit-welcome-to-the-farthest.json) |
 | Cross High | 195036 | [195036-cross-high.json](./195036-cross-high.json) |
+| Cross Highway | 385540 | [385540-cross-highway.json](./385540-cross-highway.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross Impact: Cowboy | 290793 | [290793-cross-impact-cowboy.json](./290793-cross-impact-cowboy.json) |
 | Cross Impact: V1 | 290794 | [290794-cross-impact-v1.json](./290794-cross-impact-v1.json) |
