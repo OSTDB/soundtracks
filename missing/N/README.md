@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Park Girls: Episode 5 - Eternal Evergreen Part 2 | 260583 | [260583-national-park-girls-episode-5-eternal-evergreen-part-2.json](./260583-national-park-girls-episode-5-eternal-evergreen-part-2.json) |
 | National Park Girls: Love Our Parks Edition | 334285 | [334285-national-park-girls-love-our-parks-edition.json](./334285-national-park-girls-love-our-parks-edition.json) |
 | National Park Legend: Bigfoot | 101109 | [101109-national-park-legend-bigfoot.json](./101109-national-park-legend-bigfoot.json) |
+| National Quiz of Common Sense | 378823 | [378823-national-quiz-of-common-sense.json](./378823-national-quiz-of-common-sense.json) |
 | National Rugby Manager | 81005 | [81005-national-rugby-manager.json](./81005-national-rugby-manager.json) |
 | National Videogame Museum | 251545 | [251545-national-videogame-museum.json](./251545-national-videogame-museum.json) |
 | National Zombie Park | 36148 | [36148-national-zombie-park.json](./36148-national-zombie-park.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K25: All-Star Edition | 317248 | [317248-nba-2k25-all-star-edition.json](./317248-nba-2k25-all-star-edition.json) |
 | NBA 2K25: Tournament Edition | 331859 | [331859-nba-2k25-tournament-edition.json](./331859-nba-2k25-tournament-edition.json) |
 | NBA 2K26 | 353901 | [353901-nba-2k26.json](./353901-nba-2k26.json) |
+| NBA 2K26 x WWE 2K25 Bundle | 378835 | [378835-nba-2k26-x-wwe-2k25-bundle.json](./378835-nba-2k26-x-wwe-2k25-bundle.json) |
 | NBA 2K26: Slam Edition | 376244 | [376244-nba-2k26-slam-edition.json](./376244-nba-2k26-slam-edition.json) |
 | NBA 2K27 | 408823 | [408823-nba-2k27.json](./408823-nba-2k27.json) |
 | NBA 2K27: Deluxe Edition | 410900 | [410900-nba-2k27-deluxe-edition.json](./410900-nba-2k27-deluxe-edition.json) |
@@ -5792,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
 | Not My Tempo | 408128 | [408128-not-my-tempo.json](./408128-not-my-tempo.json) |
 | Not My War | 377669 | [377669-not-my-war.json](./377669-not-my-war.json) |
+| Not Not 2: A Brain Challenge - Platinum Edition | 378856 | [378856-not-not-2-a-brain-challenge-platinum-edition.json](./378856-not-not-2-a-brain-challenge-platinum-edition.json) |
 | Not Not: A Brain Buster | 117957 | [117957-not-not-a-brain-buster.json](./117957-not-not-a-brain-buster.json) |
 | Not Not: Zunou Taikyuu Game | 222266 | [222266-not-not-zunou-taikyuu-game.json](./222266-not-not-zunou-taikyuu-game.json) |
 | Not Only Nine | 243672 | [243672-not-only-nine.json](./243672-not-only-nine.json) |
