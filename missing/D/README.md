@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughter of Serpents | 12416 | [12416-daughter-of-serpents.json](./12416-daughter-of-serpents.json) |
 | Daughter of Shadows: An SCP Breach Event | 33300 | [33300-daughter-of-shadows-an-scp-breach-event.json](./33300-daughter-of-shadows-an-scp-breach-event.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
+| Daughter of the Rift | 378242 | [378242-daughter-of-the-rift.json](./378242-daughter-of-the-rift.json) |
 | Daughters of the Stars | 283819 | [283819-daughters-of-the-stars.json](./283819-daughters-of-the-stars.json) |
 | Daughters of the Stars Episode 1: When A Star Burns Out, A Flower Blooms | 283821 | [283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json](./283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json) |
 | Daughters of the Stars Episode 2: Face the Setting Sun: A Fierce Flower Stands Strong! | 283822 | [283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json](./283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json) |
@@ -10392,6 +10393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
 | Don’t Turn off the Light | 390080 | [390080-don-t-turn-off-the-light.json](./390080-don-t-turn-off-the-light.json) |
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
+| Don't Wake Roko | 378144 | [378144-dont-wake-roko.json](./378144-dont-wake-roko.json) |
 | Don't Wake the Beast | 322690 | [322690-dont-wake-the-beast.json](./322690-dont-wake-the-beast.json) |
 | Don't Wake the SysOp | 94944 | [94944-dont-wake-the-sysop.json](./94944-dont-wake-the-sysop.json) |
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
@@ -13297,6 +13299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream World Adventure | 310259 | [310259-dream-world-adventure.json](./310259-dream-world-adventure.json) |
 | Dream Zone | 12058 | [12058-dream-zone.json](./12058-dream-zone.json) |
 | Dream: Land of Giants | 65775 | [65775-dream-land-of-giants.json](./65775-dream-land-of-giants.json) |
+| Dream:scape Remastered | 378252 | [378252-dream-scape-remastered.json](./378252-dream-scape-remastered.json) |
 | Dream? | 202246 | [202246-dream.json](./202246-dream.json) |
 | Dream.exe: A Markiplier Fan Game | 159180 | [159180-dream-exe-a-markiplier-fan-game.json](./159180-dream-exe-a-markiplier-fan-game.json) |
 | Dream'On Linus | 417992 | [417992-dreamon-linus.json](./417992-dreamon-linus.json) |
@@ -15067,6 +15070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Astaroth | 293976 | [293976-dungeon-of-astaroth.json](./293976-dungeon-of-astaroth.json) |
 | Dungeon of Calibris: Demon Orb | 412011 | [412011-dungeon-of-calibris-demon-orb.json](./412011-dungeon-of-calibris-demon-orb.json) |
 | Dungeon of Choices | 178859 | [178859-dungeon-of-choices.json](./178859-dungeon-of-choices.json) |
+| Dungeon of Departure | 378235 | [378235-dungeon-of-departure.json](./378235-dungeon-of-departure.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Distrust | 420204 | [420204-dungeon-of-distrust.json](./420204-dungeon-of-distrust.json) |
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
