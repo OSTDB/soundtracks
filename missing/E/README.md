@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of the Abyss Awaken | 152895 | [152895-edge-of-the-abyss-awaken.json](./152895-edge-of-the-abyss-awaken.json) |
 | Edge of the Blade | 420005 | [420005-edge-of-the-blade.json](./420005-edge-of-the-blade.json) |
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
+| Edge of the Wild | 348360 | [348360-edge-of-the-wild.json](./348360-edge-of-the-wild.json) |
 | Edge of Time: Rise of the Aeus | 120091 | [120091-edge-of-time-rise-of-the-aeus.json](./120091-edge-of-time-rise-of-the-aeus.json) |
 | Edge of Tomorrow | 152002 | [152002-edge-of-tomorrow.json](./152002-edge-of-tomorrow.json) |
 | Edge of Twilight: Return to Glory | 6986 | [6986-edge-of-twilight-return-to-glory.json](./6986-edge-of-twilight-return-to-glory.json) |
@@ -6875,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of Saccharine | 249187 | [249187-eye-of-saccharine.json](./249187-eye-of-saccharine.json) |
 | Eye of Syn | 388126 | [388126-eye-of-syn.json](./388126-eye-of-syn.json) |
 | Eye of the Beholder | 292686 | [292686-eye-of-the-beholder.json](./292686-eye-of-the-beholder.json) |
+| Eye of the Beholder | 348172 | [348172-eye-of-the-beholder.json](./348172-eye-of-the-beholder.json) |
 | Eye of the Beholder | 5384 | [5384-eye-of-the-beholder.json](./5384-eye-of-the-beholder.json) |
 | Eye of the Beholder II: The Legend of Darkmoon | 12071 | [12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json](./12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json) |
 | Eye of the Erime | 365292 | [365292-eye-of-the-erime.json](./365292-eye-of-the-erime.json) |
