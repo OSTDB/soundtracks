@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cahier de Vacances pour Adultes 2 | 269674 | [269674-cahier-de-vacances-pour-adultes-2.json](./269674-cahier-de-vacances-pour-adultes-2.json) |
 | Cahoots | 250305 | [250305-cahoots.json](./250305-cahoots.json) |
 | Cahors Sunset | 35956 | [35956-cahors-sunset.json](./35956-cahors-sunset.json) |
+| Cahss Worlds | 375906 | [375906-cahss-worlds.json](./375906-cahss-worlds.json) |
 | Câi & Darren: Code Calamity | 350385 | [350385-cai-and-darren-code-calamity.json](./350385-cai-and-darren-code-calamity.json) |
 | Cai Cai Balão | 147296 | [147296-cai-cai-balao.json](./147296-cai-cai-balao.json) |
 | Caiaque | 305264 | [305264-caiaque.json](./305264-caiaque.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Ice Cream Jam Match 3 | 166297 | [166297-candy-ice-cream-jam-match-3.json](./166297-candy-ice-cream-jam-match-3.json) |
 | Candy Jump 2: The Old Age | 104404 | [104404-candy-jump-2-the-old-age.json](./104404-candy-jump-2-the-old-age.json) |
 | Candy Jump featuring Frosty | 147131 | [147131-candy-jump-featuring-frosty.json](./147131-candy-jump-featuring-frosty.json) |
+| Candy Killers | 375889 | [375889-candy-killers.json](./375889-candy-killers.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy Kombat | 216646 | [216646-candy-kombat.json](./216646-candy-kombat.json) |
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
@@ -2029,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Chains | 96221 | [96221-cardinal-chains.json](./96221-cardinal-chains.json) |
 | Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
 | Cardinal Fall | 407576 | [407576-cardinal-fall.json](./407576-cardinal-fall.json) |
+| Cardinal Island | 375915 | [375915-cardinal-island.json](./375915-cardinal-island.json) |
 | Cardinal Land | 134403 | [134403-cardinal-land.json](./134403-cardinal-land.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
 | Cardinal Quest | 46744 | [46744-cardinal-quest.json](./46744-cardinal-quest.json) |
