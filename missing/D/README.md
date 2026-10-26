@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Crescent | 404660 | [404660-dark-crescent.json](./404660-dark-crescent.json) |
 | Dark Crypt | 164215 | [164215-dark-crypt.json](./164215-dark-crypt.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
+| Dark Cut 2 | 382815 | [382815-dark-cut-2.json](./382815-dark-cut-2.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
 | Dark Days | 170255 | [170255-dark-days.json](./170255-dark-days.json) |
@@ -2861,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dimension | 229535 | [229535-dead-dimension.json](./229535-dead-dimension.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
+| Dead Dog | 382873 | [382873-dead-dog.json](./382873-dead-dog.json) |
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
 | Dead Don't Die | 301092 | [301092-dead-dont-die.json](./301092-dead-dont-die.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
@@ -6785,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devolver Tumble Time | 152205 | [152205-devolver-tumble-time.json](./152205-devolver-tumble-time.json) |
 | Devolverland Expo | 135770 | [135770-devolverland-expo.json](./135770-devolverland-expo.json) |
 | Devorian: Left Behind | 188980 | [188980-devorian-left-behind.json](./188980-devorian-left-behind.json) |
+| Devoris | 382865 | [382865-devoris.json](./382865-devoris.json) |
 | Devoted Vampire | 377992 | [377992-devoted-vampire.json](./377992-devoted-vampire.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devotionalia | 178466 | [178466-devotionalia.json](./178466-devotionalia.json) |
