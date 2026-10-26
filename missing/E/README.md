@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco-Creatures: Save the Forest | 21280 | [21280-eco-creatures-save-the-forest.json](./21280-eco-creatures-save-the-forest.json) |
 | Eco-Rescue: Project Rainforest | 202165 | [202165-eco-rescue-project-rainforest.json](./202165-eco-rescue-project-rainforest.json) |
 | Eco-Sentinel: The Bottle Mission | 364957 | [364957-eco-sentinel-the-bottle-mission.json](./364957-eco-sentinel-the-bottle-mission.json) |
+| EcoChess | 339725 | [339725-ecochess.json](./339725-ecochess.json) |
 | Ecoco de Fight! | 342129 | [342129-ecoco-de-fight.json](./342129-ecoco-de-fight.json) |
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
 | EcoFish | 64234 | [64234-ecofish.json](./64234-ecofish.json) |
@@ -1085,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Reality: Mark of Fate - Collector's Edition | 397147 | [397147-edge-of-reality-mark-of-fate-collectors-edition.json](./397147-edge-of-reality-mark-of-fate-collectors-edition.json) |
 | Edge of Reality: Ring of Destiny - Collector's Edition | 397139 | [397139-edge-of-reality-ring-of-destiny-collectors-edition.json](./397139-edge-of-reality-ring-of-destiny-collectors-edition.json) |
 | Edge of Reality: The Legend of Greenbush | 397151 | [397151-edge-of-reality-the-legend-of-greenbush.json](./397151-edge-of-reality-the-legend-of-greenbush.json) |
+| Edge of Reality: The Legend of Greenbush Collector's Edition | 339726 | [339726-edge-of-reality-the-legend-of-greenbush-collectors-edition.json](./339726-edge-of-reality-the-legend-of-greenbush-collectors-edition.json) |
 | Edge of Sanity | 214504 | [214504-edge-of-sanity.json](./214504-edge-of-sanity.json) |
 | Edge of Sanity: Supporter Pack | 324416 | [324416-edge-of-sanity-supporter-pack.json](./324416-edge-of-sanity-supporter-pack.json) |
 | Edge of Soul: Ragnarok | 284919 | [284919-edge-of-soul-ragnarok.json](./284919-edge-of-soul-ragnarok.json) |
@@ -1362,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egglings | 361848 | [361848-egglings.json](./361848-egglings.json) |
 | Egglomania | 175256 | [175256-egglomania.json](./175256-egglomania.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
+| Eggman | 339727 | [339727-eggman.json](./339727-eggman.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
 | Eggman Strikes | 330956 | [330956-eggman-strikes.json](./330956-eggman-strikes.json) |
 | Eggnogg+ | 50288 | [50288-eggnogg.json](./50288-eggnogg.json) |
@@ -1370,6 +1373,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggor | 40114 | [40114-eggor.json](./40114-eggor.json) |
 | Eggoria | 118367 | [118367-eggoria.json](./118367-eggoria.json) |
 | Eggplant | 338180 | [338180-eggplant.json](./338180-eggplant.json) |
+| Eggplant | 339728 | [339728-eggplant.json](./339728-eggplant.json) |
+| Eggplant | 339729 | [339729-eggplant.json](./339729-eggplant.json) |
 | Eggroll | 187821 | [187821-eggroll.json](./187821-eggroll.json) |
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs | 40113 | [40113-eggs.json](./40113-eggs.json) |
@@ -1554,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
 | Ekonomi Bakani Simulator | 183891 | [183891-ekonomi-bakani-simulator.json](./183891-ekonomi-bakani-simulator.json) |
 | Ekorella Vol 1 | 199926 | [199926-ekorella-vol-1.json](./199926-ekorella-vol-1.json) |
+| Ekphrasis | 339730 | [339730-ekphrasis.json](./339730-ekphrasis.json) |
 | Ekphrasis | 405494 | [405494-ekphrasis.json](./405494-ekphrasis.json) |
 | Eksperyment Delfin | 283112 | [283112-eksperyment-delfin.json](./283112-eksperyment-delfin.json) |
 | Ekudorado: Kagami no Naka no Oukoku | 66167 | [66167-ekudorado-kagami-no-naka-no-oukoku.json](./66167-ekudorado-kagami-no-naka-no-oukoku.json) |
@@ -1608,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
 | El Panadero: The Baker | 239662 | [239662-el-panadero-the-baker.json](./239662-el-panadero-the-baker.json) |
 | El Pansas | 110530 | [110530-el-pansas.json](./110530-el-pansas.json) |
+| El pasante elementalista | 339743 | [339743-el-pasante-elementalista.json](./339743-el-pasante-elementalista.json) |
 | El Paso, Elsewhere | 151788 | [151788-el-paso-elsewhere.json](./151788-el-paso-elsewhere.json) |
 | El Paso, Elsewhere 2 | 405159 | [405159-el-paso-elsewhere-2.json](./405159-el-paso-elsewhere-2.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
@@ -1773,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
 | Electracy: Signal Lost | 418596 | [418596-electracy-signal-lost.json](./418596-electracy-signal-lost.json) |
 | Electranoid | 94324 | [94324-electranoid.json](./94324-electranoid.json) |
+| Electrial | 339731 | [339731-electrial.json](./339731-electrial.json) |
 | ElectriarCode | 210220 | [210220-electriarcode.json](./210220-electriarcode.json) |
 | Electric | 187162 | [187162-electric.json](./187162-electric.json) |
 | Electric Car Tycoon | 217199 | [217199-electric-car-tycoon.json](./217199-electric-car-tycoon.json) |
@@ -1889,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Elemency Island | 379130 | [379130-elemency-island.json](./379130-elemency-island.json) |
 | Elemensional Rift | 123261 | [123261-elemensional-rift.json](./123261-elemensional-rift.json) |
+| Element | 339732 | [339732-element.json](./339732-element.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Element Battle Royale | 286793 | [286793-element-battle-royale.json](./286793-element-battle-royale.json) |
 | Element Cattos | 377361 | [377361-element-cattos.json](./377361-element-cattos.json) |
@@ -1918,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Ascent | 276676 | [276676-elemental-ascent.json](./276676-elemental-ascent.json) |
 | Elemental Battlefields | 188999 | [188999-elemental-battlefields.json](./188999-elemental-battlefields.json) |
 | Elemental Combat | 55223 | [55223-elemental-combat.json](./55223-elemental-combat.json) |
+| Elemental Defender | 339733 | [339733-elemental-defender.json](./339733-elemental-defender.json) |
 | Elemental Dreams | 277187 | [277187-elemental-dreams.json](./277187-elemental-dreams.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
@@ -1925,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Gelade: Tozasareshi Uta | 49413 | [49413-elemental-gelade-tozasareshi-uta.json](./49413-elemental-gelade-tozasareshi-uta.json) |
 | Elemental Gimmick Gear | 45862 | [45862-elemental-gimmick-gear.json](./45862-elemental-gimmick-gear.json) |
 | Elemental Girls | 118113 | [118113-elemental-girls.json](./118113-elemental-girls.json) |
+| Elemental Guardians | 339734 | [339734-elemental-guardians.json](./339734-elemental-guardians.json) |
 | Elemental Heroes | 33775 | [33775-elemental-heroes.json](./33775-elemental-heroes.json) |
 | Elemental Heroes: Blue Fighter 20th Level Set | 170439 | [170439-elemental-heroes-blue-fighter-20th-level-set.json](./170439-elemental-heroes-blue-fighter-20th-level-set.json) |
 | Elemental Kingdom | 8612 | [8612-elemental-kingdom.json](./8612-elemental-kingdom.json) |
@@ -1945,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Saga | 361301 | [361301-elemental-saga.json](./361301-elemental-saga.json) |
 | Elemental Soul | 391606 | [391606-elemental-soul.json](./391606-elemental-soul.json) |
 | Elemental Strike: Mirage Tower | 132107 | [132107-elemental-strike-mirage-tower.json](./132107-elemental-strike-mirage-tower.json) |
+| Elemental Surge | 339735 | [339735-elemental-surge.json](./339735-elemental-surge.json) |
 | Elemental Survivors | 244234 | [244234-elemental-survivors.json](./244234-elemental-survivors.json) |
 | Elemental Tiles | 180631 | [180631-elemental-tiles.json](./180631-elemental-tiles.json) |
 | Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
@@ -2097,6 +2109,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Shift | 420759 | [420759-elf-shift.json](./420759-elf-shift.json) |
 | Elf Survivor | 320830 | [320830-elf-survivor.json](./320830-elf-survivor.json) |
 | Elf Tennis Club | 419881 | [419881-elf-tennis-club.json](./419881-elf-tennis-club.json) |
+| Elf World Adventure | 339736 | [339736-elf-world-adventure.json](./339736-elf-world-adventure.json) |
+| Elf World Adventure 2 | 339737 | [339737-elf-world-adventure-2.json](./339737-elf-world-adventure-2.json) |
+| Elf World Adventure 3 | 339738 | [339738-elf-world-adventure-3.json](./339738-elf-world-adventure-3.json) |
+| Elf World Adventure 4 | 339739 | [339739-elf-world-adventure-4.json](./339739-elf-world-adventure-4.json) |
+| Elf World Adventure 5 | 339740 | [339740-elf-world-adventure-5.json](./339740-elf-world-adventure-5.json) |
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
 | Elf-World: Three Kingdoms | 61888 | [61888-elf-world-three-kingdoms.json](./61888-elf-world-three-kingdoms.json) |
 | Elf: The Movie | 49301 | [49301-elf-the-movie.json](./49301-elf-the-movie.json) |
@@ -2265,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
 | Elodya | 271087 | [271087-elodya.json](./271087-elodya.json) |
+| Elohim Eternal: Exodus | 339741 | [339741-elohim-eternal-exodus.json](./339741-elohim-eternal-exodus.json) |
 | Elon and Friends: Easter Pack | 340737 | [340737-elon-and-friends-easter-pack.json](./340737-elon-and-friends-easter-pack.json) |
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon Musk Simulator 2 | 111886 | [111886-elon-musk-simulator-2.json](./111886-elon-musk-simulator-2.json) |
@@ -2281,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elona Shooter | 387901 | [387901-elona-shooter.json](./387901-elona-shooter.json) |
 | Elong Plug | 235686 | [235686-elong-plug.json](./235686-elong-plug.json) |
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
+| Eloquent | 339742 | [339742-eloquent.json](./339742-eloquent.json) |
 | Eloquent Countenance | 200531 | [200531-eloquent-countenance.json](./200531-eloquent-countenance.json) |
 | Elowyn and the Stolen Souls | 271634 | [271634-elowyn-and-the-stolen-souls.json](./271634-elowyn-and-the-stolen-souls.json) |
 | Elowyn: Quest of Time | 347870 | [347870-elowyn-quest-of-time.json](./347870-elowyn-quest-of-time.json) |
@@ -2453,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emblem of Gundam | 66595 | [66595-emblem-of-gundam.json](./66595-emblem-of-gundam.json) |
 | Emblem Wordle | 410099 | [410099-emblem-wordle.json](./410099-emblem-wordle.json) |
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
+| Embodied Tournament | 339744 | [339744-embodied-tournament.json](./339744-embodied-tournament.json) |
 | Embodiment | 211125 | [211125-embodiment.json](./211125-embodiment.json) |
 | EmbodyMe | 56330 | [56330-embodyme.json](./56330-embodyme.json) |
 | Embr | 117312 | [117312-embr.json](./117312-embr.json) |
@@ -2700,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Heroes: Sudoku Puzzle | 58135 | [58135-empire-heroes-sudoku-puzzle.json](./58135-empire-heroes-sudoku-puzzle.json) |
 | Empire Hike | 395767 | [395767-empire-hike.json](./395767-empire-hike.json) |
 | Empire I: World Builders | 24892 | [24892-empire-i-world-builders.json](./24892-empire-i-world-builders.json) |
+| Empire Idle | 339745 | [339745-empire-idle.json](./339745-empire-idle.json) |
 | Empire II: Interstellar Sharks | 24893 | [24893-empire-ii-interstellar-sharks.json](./24893-empire-ii-interstellar-sharks.json) |
 | Empire III: Armageddon | 24894 | [24894-empire-iii-armageddon.json](./24894-empire-iii-armageddon.json) |
 | Empire in Decay | 352199 | [352199-empire-in-decay.json](./352199-empire-in-decay.json) |
@@ -2889,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Valley: Fantasy Slide Puzzle | 365900 | [365900-enchanted-valley-fantasy-slide-puzzle.json](./365900-enchanted-valley-fantasy-slide-puzzle.json) |
 | Enchanted Voyage | 246851 | [246851-enchanted-voyage.json](./246851-enchanted-voyage.json) |
 | Enchanted Words | 146766 | [146766-enchanted-words.json](./146766-enchanted-words.json) |
+| Enchanted: A Magic Shop | 339746 | [339746-enchanted-a-magic-shop.json](./339746-enchanted-a-magic-shop.json) |
 | Enchanted: Once Upon Andalasia | 49278 | [49278-enchanted-once-upon-andalasia.json](./49278-enchanted-once-upon-andalasia.json) |
 | EnchantedGirl | 368676 | [368676-enchantedgirl.json](./368676-enchantedgirl.json) |
 | Enchanter | 1947 | [1947-enchanter.json](./1947-enchanter.json) |
@@ -2938,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | Encycle | 149937 | [149937-encycle.json](./149937-encycle.json) |
 | Encyclopedia Explosica | 185617 | [185617-encyclopedia-explosica.json](./185617-encyclopedia-explosica.json) |
+| End Chess Arrow | 339747 | [339747-end-chess-arrow.json](./339747-end-chess-arrow.json) |
 | End Date | 315912 | [315912-end-date.json](./315912-end-date.json) |
 | End Game | 263407 | [263407-end-game.json](./263407-end-game.json) |
 | End Gate: The Last Passenger | 311612 | [311612-end-gate-the-last-passenger.json](./311612-end-gate-the-last-passenger.json) |
@@ -2987,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End State | 77337 | [77337-end-state.json](./77337-end-state.json) |
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
+| End Transmission? | 339751 | [339751-end-transmission.json](./339751-end-transmission.json) |
 | End War RTS | 105711 | [105711-end-war-rts.json](./105711-end-war-rts.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | End's beginning | 310715 | [310715-ends-beginning.json](./310715-ends-beginning.json) |
@@ -3055,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Dead | 35407 | [35407-endless-dead.json](./35407-endless-dead.json) |
 | Endless Deaths | 331920 | [331920-endless-deaths.json](./331920-endless-deaths.json) |
 | Endless Defence 2 | 120728 | [120728-endless-defence-2.json](./120728-endless-defence-2.json) |
+| Endless Defense: Survival | 339748 | [339748-endless-defense-survival.json](./339748-endless-defense-survival.json) |
 | Endless Depths | 354510 | [354510-endless-depths.json](./354510-endless-depths.json) |
 | Endless Depths 2 RPG | 197784 | [197784-endless-depths-2-rpg.json](./197784-endless-depths-2-rpg.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
@@ -3109,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Legend: Shadows | 14604 | [14604-endless-legend-shadows.json](./14604-endless-legend-shadows.json) |
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Legend: The Lost Tales | 168767 | [168767-endless-legend-the-lost-tales.json](./168767-endless-legend-the-lost-tales.json) |
+| Endless Life | 339749 | [339749-endless-life.json](./339749-endless-life.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Maze | 405037 | [405037-endless-maze.json](./405037-endless-maze.json) |
@@ -3168,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space 2: Lost Symphony | 355686 | [355686-endless-space-2-lost-symphony.json](./355686-endless-space-2-lost-symphony.json) |
 | Endless Space 2: Supremacy | 148835 | [148835-endless-space-2-supremacy.json](./148835-endless-space-2-supremacy.json) |
 | Endless Space 2: Vaulters | 82431 | [82431-endless-space-2-vaulters.json](./82431-endless-space-2-vaulters.json) |
+| Endless Space VIP | 339750 | [339750-endless-space-vip.json](./339750-endless-space-vip.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
 | Endless Space: Emperor Edition | 28083 | [28083-endless-space-emperor-edition.json](./28083-endless-space-emperor-edition.json) |
 | Endless Stars | 231750 | [231750-endless-stars.json](./231750-endless-stars.json) |
@@ -3325,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enforcer: Fullmetal Megablaster | 73199 | [73199-enforcer-fullmetal-megablaster.json](./73199-enforcer-fullmetal-megablaster.json) |
 | Enforcer: Police Crime Action | 17741 | [17741-enforcer-police-crime-action.json](./17741-enforcer-police-crime-action.json) |
 | Enforcers Revolt | 335136 | [335136-enforcers-revolt.json](./335136-enforcers-revolt.json) |
+| Enfynyty | 339752 | [339752-enfynyty.json](./339752-enfynyty.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | EnGaCho: Dreamy Butterfly | 290781 | [290781-engacho-dreamy-butterfly.json](./290781-engacho-dreamy-butterfly.json) |
 | Engacho! for WonderSwan | 267417 | [267417-engacho-for-wonderswan.json](./267417-engacho-for-wonderswan.json) |
@@ -3543,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnterVR | 29964 | [29964-entervr.json](./29964-entervr.json) |
 | Entheogen | 366259 | [366259-entheogen.json](./366259-entheogen.json) |
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
+| Enthralled | 339753 | [339753-enthralled.json](./339753-enthralled.json) |
 | Enthruxia | 179149 | [179149-enthruxia.json](./179149-enthruxia.json) |
 | Enthusia: Professional Racing | 19818 | [19818-enthusia-professional-racing.json](./19818-enthusia-professional-racing.json) |
 | Entities | 273969 | [273969-entities.json](./273969-entities.json) |
