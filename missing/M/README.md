@@ -7488,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Ghosts | 308229 | [308229-memory-ghosts.json](./308229-memory-ghosts.json) |
 | Memory Girl + | 327909 | [327909-memory-girl.json](./327909-memory-girl.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
+| Memory Holder: The Alphabet | 347037 | [347037-memory-holder-the-alphabet.json](./347037-memory-holder-the-alphabet.json) |
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
 | Memory II / Melodie | 72371 | [72371-memory-ii-melodie.json](./72371-memory-ii-melodie.json) |
@@ -13463,6 +13464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
 | Monster Pub | 100561 | [100561-monster-pub.json](./100561-monster-pub.json) |
 | Monster Pub: Chapter 2 | 178827 | [178827-monster-pub-chapter-2.json](./178827-monster-pub-chapter-2.json) |
+| Monster Pub: Chapter 3 | 347078 | [347078-monster-pub-chapter-3.json](./347078-monster-pub-chapter-3.json) |
 | Monster Punish | 419627 | [419627-monster-punish.json](./419627-monster-punish.json) |
 | Monster Puroresu | 266632 | [266632-monster-puroresu.json](./266632-monster-puroresu.json) |
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
@@ -13714,6 +13716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
+| Montabi | 347027 | [347027-montabi.json](./347027-montabi.json) |
 | Montague's Mount | 10555 | [10555-montagues-mount.json](./10555-montagues-mount.json) |
 | MonTamer | 236197 | [236197-montamer.json](./236197-montamer.json) |
 | Montana | 404424 | [404424-montana.json](./404424-montana.json) |
@@ -14133,6 +14136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mootation | 412016 | [412016-mootation.json](./412016-mootation.json) |
 | Mop of the Dead | 249876 | [249876-mop-of-the-dead.json](./249876-mop-of-the-dead.json) |
 | MOP Operation Cleanup | 32961 | [32961-mop-operation-cleanup.json](./32961-mop-operation-cleanup.json) |
+| Mop'n Spark | 347046 | [347046-mopn-spark.json](./347046-mopn-spark.json) |
 | Mopar Drag N Brag | 246965 | [246965-mopar-drag-n-brag.json](./246965-mopar-drag-n-brag.json) |
 | Mope.io | 108987 | [108987-mope-io.json](./108987-mope-io.json) |
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
