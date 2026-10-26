@@ -5028,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Girls 2048 | 111366 | [111366-winter-girls-2048.json](./111366-winter-girls-2048.json) |
 | Winter Grae | 188827 | [188827-winter-grae.json](./188827-winter-grae.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
+| Winter Hunting | 373603 | [373603-winter-hunting.json](./373603-winter-hunting.json) |
 | Winter Is... | 92389 | [92389-winter-is.json](./92389-winter-is.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Magic | 182929 | [182929-winter-magic.json](./182929-winter-magic.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witness of the Night | 207590 | [207590-witness-of-the-night.json](./207590-witness-of-the-night.json) |
 | Witness Of Time | 313842 | [313842-witness-of-time.json](./313842-witness-of-time.json) |
 | Witness the Dark #1: Bloody Burger | 404336 | [404336-witness-the-dark-1-bloody-burger.json](./404336-witness-the-dark-1-bloody-burger.json) |
+| Witness to Plague | 373566 | [373566-witness-to-plague.json](./373566-witness-to-plague.json) |
 | Witness: A Bodyguard Romance | 313846 | [313846-witness-a-bodyguard-romance.json](./313846-witness-a-bodyguard-romance.json) |
 | Witold the Game 2 | 133806 | [133806-witold-the-game-2.json](./133806-witold-the-game-2.json) |
 | Witoru | 166587 | [166587-witoru.json](./166587-witoru.json) |
