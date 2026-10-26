@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: The Mad Cephalon | 201162 | [201162-warframe-the-mad-cephalon.json](./201162-warframe-the-mad-cephalon.json) |
 | Warframe: The New War | 187118 | [187118-warframe-the-new-war.json](./187118-warframe-the-new-war.json) |
 | Warframe: The Old Blood | 198498 | [198498-warframe-the-old-blood.json](./198498-warframe-the-old-blood.json) |
+| Warframe: The Old Peace | 356126 | [356126-warframe-the-old-peace.json](./356126-warframe-the-old-peace.json) |
 | Warframe: The Sacrifice | 103321 | [103321-warframe-the-sacrifice.json](./103321-warframe-the-sacrifice.json) |
 | Warframe: The Seven Crimes of Kullervo | 263491 | [263491-warframe-the-seven-crimes-of-kullervo.json](./263491-warframe-the-seven-crimes-of-kullervo.json) |
 | Warframe: The Vallis Undermind | 374217 | [374217-warframe-the-vallis-undermind.json](./374217-warframe-the-vallis-undermind.json) |
@@ -4241,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wifey's Dilemma Revisited | 286139 | [286139-wifeys-dilemma-revisited.json](./286139-wifeys-dilemma-revisited.json) |
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
 | Wiffle Ball | 73474 | [73474-wiffle-ball.json](./73474-wiffle-ball.json) |
+| Wiffleball Legends | 356200 | [356200-wiffleball-legends.json](./356200-wiffleball-legends.json) |
 | Wigged Out | 126584 | [126584-wigged-out.json](./126584-wigged-out.json) |
 | Wiggle Wiggle Bush | 362863 | [362863-wiggle-wiggle-bush.json](./362863-wiggle-wiggle-bush.json) |
 | Wiggly Boy | 139424 | [139424-wiggly-boy.json](./139424-wiggly-boy.json) |
