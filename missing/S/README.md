@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Spooky | 320316 | [320316-secret-cats-spooky.json](./320316-secret-cats-spooky.json) |
 | Secret Cats: Spooky | 393712 | [393712-secret-cats-spooky.json](./393712-secret-cats-spooky.json) |
 | Secret Cats: Spring Festival | 329765 | [329765-secret-cats-spring-festival.json](./329765-secret-cats-spring-festival.json) |
+| Secret Cats: St. Patrick | 334609 | [334609-secret-cats-st-patrick.json](./334609-secret-cats-st-patrick.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret Challenge | 342494 | [342494-secret-challenge.json](./342494-secret-challenge.json) |
 | Secret City: Chalk of Fate | 139731 | [139731-secret-city-chalk-of-fate.json](./139731-secret-city-chalk-of-fate.json) |
@@ -14478,6 +14479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic CD 2011 Decompilation | 202234 | [202234-sonic-cd-2011-decompilation.json](./202234-sonic-cd-2011-decompilation.json) |
 | Sonic CD Breakout | 332650 | [332650-sonic-cd-breakout.json](./332650-sonic-cd-breakout.json) |
 | Sonic CD: Episode Metal | 201809 | [201809-sonic-cd-episode-metal.json](./201809-sonic-cd-episode-metal.json) |
+| Sonic CD: Static Charge | 334627 | [334627-sonic-cd-static-charge.json](./334627-sonic-cd-static-charge.json) |
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
 | Sonic Champions | 330527 | [330527-sonic-champions.json](./330527-sonic-champions.json) |
@@ -24273,6 +24275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Wars | 200395 | [200395-sub-wars.json](./200395-sub-wars.json) |
 | Sub-Species | 381645 | [381645-sub-species.json](./381645-sub-species.json) |
 | Sub-Uber-Marine | 194380 | [194380-sub-uber-marine.json](./194380-sub-uber-marine.json) |
+| Sub-Verge | 334623 | [334623-sub-verge.json](./334623-sub-verge.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Suba Pogo | 414487 | [414487-suba-pogo.json](./414487-suba-pogo.json) |
 | Subaeria | 12814 | [12814-subaeria.json](./12814-subaeria.json) |
@@ -30327,6 +30330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Hopes | 345112 | [345112-synthetic-hopes.json](./345112-synthetic-hopes.json) |
 | Synthetic Love | 110720 | [110720-synthetic-love.json](./110720-synthetic-love.json) |
 | Synthetic Orders | 383095 | [383095-synthetic-orders.json](./383095-synthetic-orders.json) |
+| Synthetic Paradox | 334596 | [334596-synthetic-paradox.json](./334596-synthetic-paradox.json) |
 | Synthetic Soul | 276159 | [276159-synthetic-soul.json](./276159-synthetic-soul.json) |
 | Synthetic Soul 2 | 292676 | [292676-synthetic-soul-2.json](./292676-synthetic-soul-2.json) |
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
