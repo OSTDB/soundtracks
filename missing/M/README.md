@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manda: Mario and Ana | 311151 | [311151-manda-mario-and-ana.json](./311151-manda-mario-and-ana.json) |
 | Mandacaru | 159711 | [159711-mandacaru.json](./159711-mandacaru.json) |
 | Mandala | 188887 | [188887-mandala.json](./188887-mandala.json) |
+| Mandate of Heaven | 374122 | [374122-mandate-of-heaven.json](./374122-mandate-of-heaven.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandela Invasion | 282820 | [282820-mandela-invasion.json](./282820-mandela-invasion.json) |
@@ -4283,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Illusion Express: Psychic Camera | 84483 | [84483-master-of-illusion-express-psychic-camera.json](./84483-master-of-illusion-express-psychic-camera.json) |
 | Master of Illusion Express: Shuffle Games | 72941 | [72941-master-of-illusion-express-shuffle-games.json](./72941-master-of-illusion-express-shuffle-games.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
+| Master of Jewelry | 374031 | [374031-master-of-jewelry.json](./374031-master-of-jewelry.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
 | Master of Magic | 147189 | [147189-master-of-magic.json](./147189-master-of-magic.json) |
 | Master of Magic | 6466 | [6466-master-of-magic.json](./6466-master-of-magic.json) |
@@ -9283,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
 | Midnight Runner: Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition | 231258 | [231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json](./231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json) |
 | Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
+| Midnight Saturn | 374024 | [374024-midnight-saturn.json](./374024-midnight-saturn.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
 | Midnight Scenes: Among Graves | 378524 | [378524-midnight-scenes-among-graves.json](./378524-midnight-scenes-among-graves.json) |
@@ -9309,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Stories 2 | 158067 | [158067-midnight-stories-2.json](./158067-midnight-stories-2.json) |
 | Midnight Stories 5 | 196047 | [196047-midnight-stories-5.json](./196047-midnight-stories-5.json) |
 | Midnight Stranger | 143102 | [143102-midnight-stranger.json](./143102-midnight-stranger.json) |
+| Midnight Study | 374023 | [374023-midnight-study.json](./374023-midnight-study.json) |
 | Midnight Survivors | 235365 | [235365-midnight-survivors.json](./235365-midnight-survivors.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Syndrome | 304648 | [304648-midnight-syndrome.json](./304648-midnight-syndrome.json) |
@@ -12117,6 +12121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ModNation Racers | 4841 | [4841-modnation-racers.json](./4841-modnation-racers.json) |
 | ModNation Racers: Road Trip | 22882 | [22882-modnation-racers-road-trip.json](./22882-modnation-racers-road-trip.json) |
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
+| Modo Modo | 374022 | [374022-modo-modo.json](./374022-modo-modo.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
 | Modular Delight | 413218 | [413218-modular-delight.json](./413218-modular-delight.json) |
