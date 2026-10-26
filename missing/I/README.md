@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Expanse | 138599 | [138599-idle-expanse.json](./138599-idle-expanse.json) |
 | Idle Factory | 211625 | [211625-idle-factory.json](./211625-idle-factory.json) |
 | Idle Factory Tycoon | 99142 | [99142-idle-factory-tycoon.json](./99142-idle-factory-tycoon.json) |
+| Idle Farming Business | 340062 | [340062-idle-farming-business.json](./340062-idle-farming-business.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
 | Idle Fields | 189873 | [189873-idle-fields.json](./189873-idle-fields.json) |
 | Idle Fishing | 280117 | [280117-idle-fishing.json](./280117-idle-fishing.json) |
