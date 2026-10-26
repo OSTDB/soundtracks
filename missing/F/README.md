@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastone Pyramid | 388297 | [388297-fastone-pyramid.json](./388297-fastone-pyramid.json) |
 | Fastraq | 223416 | [223416-fastraq.json](./223416-fastraq.json) |
 | Fastro Dude | 365234 | [365234-fastro-dude.json](./365234-fastro-dude.json) |
+| Fastro Dude 2 | 371849 | [371849-fastro-dude-2.json](./371849-fastro-dude-2.json) |
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
@@ -6876,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florist Shop | 44070 | [44070-florist-shop.json](./44070-florist-shop.json) |
 | Floristry | 68956 | [68956-floristry.json](./68956-floristry.json) |
 | Florus | 183802 | [183802-florus.json](./183802-florus.json) |
+| Floss | 371841 | [371841-floss.json](./371841-floss.json) |
 | Flotilla 2 | 99064 | [99064-flotilla-2.json](./99064-flotilla-2.json) |
 | Flotsam | 74527 | [74527-flotsam.json](./74527-flotsam.json) |
 | Flotsam and Jetsam Potion Commotion | 246522 | [246522-flotsam-and-jetsam-potion-commotion.json](./246522-flotsam-and-jetsam-potion-commotion.json) |
@@ -8467,6 +8469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
 | Forsaker: ​Innocent Paws | 392311 | [392311-forsaker-innocent-paws.json](./392311-forsaker-innocent-paws.json) |
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
+| Forsen's Vacation | 371842 | [371842-forsens-vacation.json](./371842-forsens-vacation.json) |
 | Forsisted: The Sacred Souls | 274569 | [274569-forsisted-the-sacred-souls.json](./274569-forsisted-the-sacred-souls.json) |
 | Forsworn | 334316 | [334316-forsworn.json](./334316-forsworn.json) |
 | Fort | 106499 | [106499-fort.json](./106499-fort.json) |
