@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifus Smash | 163018 | [163018-waifus-smash.json](./163018-waifus-smash.json) |
 | Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
 | Wail | 348791 | [348791-wail.json](./348791-wail.json) |
+| Wail of Despair | 353934 | [353934-wail-of-despair.json](./353934-wail-of-despair.json) |
 | Wailing Guignol | 196483 | [196483-wailing-guignol.json](./196483-wailing-guignol.json) |
 | Wailing Heights | 18969 | [18969-wailing-heights.json](./18969-wailing-heights.json) |
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
