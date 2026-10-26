@@ -4419,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Fighter | 48188 | [48188-phantom-fighter.json](./48188-phantom-fighter.json) |
 | Phantom Flail | 244844 | [244844-phantom-flail.json](./244844-phantom-flail.json) |
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
+| Phantom Fools | 373060 | [373060-phantom-fools.json](./373060-phantom-fools.json) |
 | Phantom Fury | 218009 | [218009-phantom-fury.json](./218009-phantom-fury.json) |
 | Phantom Gear | 141108 | [141108-phantom-gear.json](./141108-phantom-gear.json) |
 | Phantom Girls: Ghostbuster | 279546 | [279546-phantom-girls-ghostbuster.json](./279546-phantom-girls-ghostbuster.json) |
