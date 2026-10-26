@@ -8083,6 +8083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shǔguāng zhī Shī | 157116 | [157116-shuguang-zhi-shi.json](./157116-shuguang-zhi-shi.json) |
 | Shuǐhǔ Zhuàn | 138098 | [138098-shuihu-zhuan.json](./138098-shuihu-zhuan.json) |
 | Shuǐhǔ Zhuàn | 78259 | [78259-shuihu-zhuan.json](./78259-shuihu-zhuan.json) |
+| Shujinkou: Akuma Quests | 366791 | [366791-shujinkou-akuma-quests.json](./366791-shujinkou-akuma-quests.json) |
 | Shujinkou: Deluxe Edition | 368778 | [368778-shujinkou-deluxe-edition.json](./368778-shujinkou-deluxe-edition.json) |
 | Shujinkou: Sabaku Arc | 368786 | [368786-shujinkou-sabaku-arc.json](./368786-shujinkou-sabaku-arc.json) |
 | Shujinkou: Super Deluxe Edition | 368776 | [368776-shujinkou-super-deluxe-edition.json](./368776-shujinkou-super-deluxe-edition.json) |
@@ -16638,6 +16639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Step: Heroes of the Earth | 111554 | [111554-space-step-heroes-of-the-earth.json](./111554-space-step-heroes-of-the-earth.json) |
 | Space Stone Smashing Simulator | 396582 | [396582-space-stone-smashing-simulator.json](./396582-space-stone-smashing-simulator.json) |
 | Space Storeship | 163849 | [163849-space-storeship.json](./163849-space-storeship.json) |
+| Space Storm | 366798 | [366798-space-storm.json](./366798-space-storm.json) |
 | Space Storm | 377984 | [377984-space-storm.json](./377984-space-storm.json) |
 | Space Storm 2020 | 97206 | [97206-space-storm-2020.json](./97206-space-storm-2020.json) |
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
@@ -23619,6 +23621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Vector EX | 22798 | [22798-strike-vector-ex.json](./22798-strike-vector-ex.json) |
 | Strike Vector EX Open Beta | 51433 | [51433-strike-vector-ex-open-beta.json](./51433-strike-vector-ex-open-beta.json) |
 | Strike VR | 155886 | [155886-strike-vr.json](./155886-strike-vr.json) |
+| Strike Warfare: Force Recon | 366774 | [366774-strike-warfare-force-recon.json](./366774-strike-warfare-force-recon.json) |
 | Strike Wing: Raptor Rising | 3148 | [3148-strike-wing-raptor-rising.json](./3148-strike-wing-raptor-rising.json) |
 | Strike Witches 2: Iyasu, Naosu, Puni-Puni suru | 124062 | [124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json](./124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
@@ -24582,6 +24585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugobencha: Dragon Master Silk Gaiden | 321539 | [321539-sugobencha-dragon-master-silk-gaiden.json](./321539-sugobencha-dragon-master-silk-gaiden.json) |
 | SUGOI | 304183 | [304183-sugoi.json](./304183-sugoi.json) |
 | Sugoi Adventure! DragonSlayer | 216867 | [216867-sugoi-adventure-dragonslayer.json](./216867-sugoi-adventure-dragonslayer.json) |
+| Sugoi Girls: Attractive Archer | 366775 | [366775-sugoi-girls-attractive-archer.json](./366775-sugoi-girls-attractive-archer.json) |
 | Sugoi Girls: Dental Darling | 389073 | [389073-sugoi-girls-dental-darling.json](./389073-sugoi-girls-dental-darling.json) |
 | Sugoi Girls: Dragon Love | 351232 | [351232-sugoi-girls-dragon-love.json](./351232-sugoi-girls-dragon-love.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
@@ -25535,6 +25539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
 | Super Chipflake Ü: Quest for the Uncooked Schnitzel | 338787 | [338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json](./338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json) |
 | Super Chopper | 154235 | [154235-super-chopper.json](./154235-super-chopper.json) |
+| Super Choppy | 366802 | [366802-super-choppy.json](./366802-super-choppy.json) |
 | Super Choppy Orc | 219581 | [219581-super-choppy-orc.json](./219581-super-choppy-orc.json) |
 | Super Chroma Bots: Season One | 283682 | [283682-super-chroma-bots-season-one.json](./283682-super-chroma-bots-season-one.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
@@ -25775,6 +25780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
 | Super Fantasy Kingdom | 235823 | [235823-super-fantasy-kingdom.json](./235823-super-fantasy-kingdom.json) |
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
+| Super Farmer | 366873 | [366873-super-farmer.json](./366873-super-farmer.json) |
 | Super Farming Boy | 293869 | [293869-super-farming-boy.json](./293869-super-farming-boy.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
