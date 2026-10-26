@@ -19047,6 +19047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotted | 200720 | [200720-spotted.json](./200720-spotted.json) |
 | Spotted Garden Eel Adventure | 196043 | [196043-spotted-garden-eel-adventure.json](./196043-spotted-garden-eel-adventure.json) |
 | Spotter | 110163 | [110163-spotter.json](./110163-spotter.json) |
+| Spotterbot | 340832 | [340832-spotterbot.json](./340832-spotterbot.json) |
 | Spotto! | 80154 | [80154-spotto.json](./80154-spotto.json) |
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Spram's Metroid Doom | 142220 | [142220-sprams-metroid-doom.json](./142220-sprams-metroid-doom.json) |
