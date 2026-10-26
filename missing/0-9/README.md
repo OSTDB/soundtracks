@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (T)Raumschiff Surprise - Periode 1 | 131283 | [131283-t-raumschiff-surprise-periode-1.json](./131283-t-raumschiff-surprise-periode-1.json) |
 | [ Content Deleted ] | 355606 | [355606-content-deleted.json](./355606-content-deleted.json) |
 | [ VOID ] | 384048 | [384048-void.json](./384048-void.json) |
+| [Afantasia] | 346494 | [346494-afantasia.json](./346494-afantasia.json) |
 | [Don't] Let Go | 371279 | [371279-dont-let-go.json](./371279-dont-let-go.json) |
 | [HammerA] HammerTime ! | 134969 | [134969-hammera-hammertime.json](./134969-hammera-hammertime.json) |
 | [K]night City | 365226 | [365226-k-night-city.json](./365226-k-night-city.json) |
@@ -267,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-0 Soccer Manager | 92875 | [92875-1-0-soccer-manager.json](./92875-1-0-soccer-manager.json) |
 | 1-2 in Rich District | 395191 | [395191-1-2-in-rich-district.json](./395191-1-2-in-rich-district.json) |
 | 1-2-3 or 4-5-6 | 342215 | [342215-1-2-3-or-4-5-6.json](./342215-1-2-3-or-4-5-6.json) |
+| 1-2-Fantastic Word Search! | 343493 | [343493-1-2-fantastic-word-search.json](./343493-1-2-fantastic-word-search.json) |
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
 | 1-2-Swift | 29690 | [29690-1-2-swift.json](./29690-1-2-swift.json) |
 | 1-2-Whopping Word Search! | 316806 | [316806-1-2-whopping-word-search.json](./316806-1-2-whopping-word-search.json) |
