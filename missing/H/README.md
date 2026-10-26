@@ -10475,6 +10475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
 | Hyper Securities S | 247349 | [247349-hyper-securities-s.json](./247349-hyper-securities-s.json) |
 | Hyper Sentinel | 85191 | [85191-hyper-sentinel.json](./85191-hyper-sentinel.json) |
+| Hyper Sentinel Fusion | 336447 | [336447-hyper-sentinel-fusion.json](./336447-hyper-sentinel-fusion.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
 | Hyper Simon X | 103438 | [103438-hyper-simon-x.json](./103438-hyper-simon-x.json) |
 | Hyper Skate | 57755 | [57755-hyper-skate.json](./57755-hyper-skate.json) |
