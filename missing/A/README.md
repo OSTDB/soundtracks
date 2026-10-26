@@ -3092,7 +3092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7355,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among the Stones | 27985 | [27985-among-the-stones.json](./27985-among-the-stones.json) |
 | Among the Strangers | 386765 | [386765-among-the-strangers.json](./386765-among-the-strangers.json) |
 | Among the Trolls | 201754 | [201754-among-the-trolls.json](./201754-among-the-trolls.json) |
+| Among the Waves | 350929 | [350929-among-the-waves.json](./350929-among-the-waves.json) |
 | Among The Whispers: Provocation | 291465 | [291465-among-the-whispers-provocation.json](./291465-among-the-whispers-provocation.json) |
 | Among the Wild | 305170 | [305170-among-the-wild.json](./305170-among-the-wild.json) |
 | Among the Zombies | 261739 | [261739-among-the-zombies.json](./261739-among-the-zombies.json) |
