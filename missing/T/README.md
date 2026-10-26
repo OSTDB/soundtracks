@@ -5191,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ball Reach | 105542 | [105542-the-ball-reach.json](./105542-the-ball-reach.json) |
 | The Ballad of Bellum | 336539 | [336539-the-ballad-of-bellum.json](./336539-the-ballad-of-bellum.json) |
 | The Ballad of Bonky | 159648 | [159648-the-ballad-of-bonky.json](./159648-the-ballad-of-bonky.json) |
+| The Ballad of Light and Shadow | 350921 | [350921-the-ballad-of-light-and-shadow.json](./350921-the-ballad-of-light-and-shadow.json) |
 | The Ballad of Radolf | 207295 | [207295-the-ballad-of-radolf.json](./207295-the-ballad-of-radolf.json) |
 | The Ballad of the Metamorphosis of M. Dolly | 125214 | [125214-the-ballad-of-the-metamorphosis-of-m-dolly.json](./125214-the-ballad-of-the-metamorphosis-of-m-dolly.json) |
 | The Ballad Singer | 78156 | [78156-the-ballad-singer.json](./78156-the-ballad-singer.json) |
@@ -13077,6 +13078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
 | The Revenant Protocol | 171865 | [171865-the-revenant-protocol.json](./171865-the-revenant-protocol.json) |
+| The Revenant's Lament | 350920 | [350920-the-revenants-lament.json](./350920-the-revenants-lament.json) |
 | The Revenants: Corridor of Souls | 66421 | [66421-the-revenants-corridor-of-souls.json](./66421-the-revenants-corridor-of-souls.json) |
 | The Revenge of Johnny Bonasera: Episode 2 | 84068 | [84068-the-revenge-of-johnny-bonasera-episode-2.json](./84068-the-revenge-of-johnny-bonasera-episode-2.json) |
 | The Revenge of Johnny Bonasera: Episode 3 | 114086 | [114086-the-revenge-of-johnny-bonasera-episode-3.json](./114086-the-revenge-of-johnny-bonasera-episode-3.json) |
@@ -14473,6 +14475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sum of All Fears | 1863 | [1863-the-sum-of-all-fears.json](./1863-the-sum-of-all-fears.json) |
 | The Sum of All Fears | 248466 | [248466-the-sum-of-all-fears.json](./248466-the-sum-of-all-fears.json) |
 | The Sumerian Game | 231395 | [231395-the-sumerian-game.json](./231395-the-sumerian-game.json) |
+| The Summit | 351075 | [351075-the-summit.json](./351075-the-summit.json) |
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
 | The Summit Library | 272202 | [272202-the-summit-library.json](./272202-the-summit-library.json) |
 | The Summon | 235710 | [235710-the-summon.json](./235710-the-summon.json) |
@@ -20176,6 +20179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Get There | 348828 | [348828-to-get-there.json](./348828-to-get-there.json) |
+| To Grant a Wish | 350889 | [350889-to-grant-a-wish.json](./350889-to-grant-a-wish.json) |
 | To Have and to Hold | 260317 | [260317-to-have-and-to-hold.json](./260317-to-have-and-to-hold.json) |
 | To Heaven | 392107 | [392107-to-heaven.json](./392107-to-heaven.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
@@ -20763,6 +20767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
 | Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
+| Tölt | 350931 | [350931-tolt.json](./350931-tolt.json) |
 | Toltec and the Mysteries of the Secret Island | 111401 | [111401-toltec-and-the-mysteries-of-the-secret-island.json](./111401-toltec-and-the-mysteries-of-the-secret-island.json) |
 | Tom & Jerry 2 | 123248 | [123248-tom-and-jerry-2.json](./123248-tom-and-jerry-2.json) |
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
@@ -21500,6 +21505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Wingman Edition | 206750 | [206750-top-gun-wingman-edition.json](./206750-top-gun-wingman-edition.json) |
 | Top Gunner | 17477 | [17477-top-gunner.json](./17477-top-gunner.json) |
 | Top Hat | 11012 | [11012-top-hat.json](./11012-top-hat.json) |
+| Top Hat Rider | 350923 | [350923-top-hat-rider.json](./350923-top-hat-rider.json) |
 | Top Heroes | 321427 | [321427-top-heroes.json](./321427-top-heroes.json) |
 | Top Hunter: Roddy & Cathy | 46520 | [46520-top-hunter-roddy-and-cathy.json](./46520-top-hunter-roddy-and-cathy.json) |
 | Top Jump | 255584 | [255584-top-jump.json](./255584-top-jump.json) |
