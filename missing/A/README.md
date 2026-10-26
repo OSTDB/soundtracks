@@ -3055,7 +3055,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -13323,6 +13322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astromeda | 221667 | [221667-astromeda.json](./221667-astromeda.json) |
 | AstroMenace | 187894 | [187894-astromenace.json](./187894-astromenace.json) |
 | Astrometica | 250781 | [250781-astrometica.json](./250781-astrometica.json) |
+| Astromine | 381078 | [381078-astromine.json](./381078-astromine.json) |
 | Astrominer | 258105 | [258105-astrominer.json](./258105-astrominer.json) |
 | AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
