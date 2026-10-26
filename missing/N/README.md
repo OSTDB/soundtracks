@@ -4926,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
 | No More Kings | 134963 | [134963-no-more-kings.json](./134963-no-more-kings.json) |
 | No More Light | 151479 | [151479-no-more-light.json](./151479-no-more-light.json) |
+| No More Noise | 345402 | [345402-no-more-noise.json](./345402-no-more-noise.json) |
 | No More Pesticide | 389928 | [389928-no-more-pesticide.json](./389928-no-more-pesticide.json) |
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
@@ -5260,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
 | Nocturnal Quest | 386416 | [386416-nocturnal-quest.json](./386416-nocturnal-quest.json) |
 | Nocturnal Sun | 374926 | [374926-nocturnal-sun.json](./374926-nocturnal-sun.json) |
+| Nocturnal Survivors | 345370 | [345370-nocturnal-survivors.json](./345370-nocturnal-survivors.json) |
 | Nocturnal Throne | 373732 | [373732-nocturnal-throne.json](./373732-nocturnal-throne.json) |
 | Nocturnal Visit | 177290 | [177290-nocturnal-visit.json](./177290-nocturnal-visit.json) |
 | Nocturnal Visitors | 226134 | [226134-nocturnal-visitors.json](./226134-nocturnal-visitors.json) |
