@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallantry | 145914 | [145914-gallantry.json](./145914-gallantry.json) |
 | Gallbladder +++ | 288101 | [288101-gallbladder.json](./288101-gallbladder.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
+| Galleria | 385632 | [385632-galleria.json](./385632-galleria.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Gallery Fake | 197660 | [197660-gallery-fake.json](./197660-gallery-fake.json) |
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
@@ -8026,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Wacca + Hardcore Tano*c Pack | 237881 | [237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json](./237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json) |
 | Groove Coaster: Wai Wai Party!!!!!: Hit Song + VTuber Pack 6 | 300944 | [300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json](./300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json) |
 | Groove Coaster: Xand-Roid | 361452 | [361452-groove-coaster-xand-roid.json](./361452-groove-coaster-xand-roid.json) |
+| Groove Defense | 385680 | [385680-groove-defense.json](./385680-groove-defense.json) |
 | Groove Fit Kingdom! | 135720 | [135720-groove-fit-kingdom.json](./135720-groove-fit-kingdom.json) |
 | Groove Galaxy | 58280 | [58280-groove-galaxy.json](./58280-groove-galaxy.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
