@@ -8841,6 +8841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Quest | 391093 | [391093-pogo-quest.json](./391093-pogo-quest.json) |
 | Pogo Rage: The Awakening | 220649 | [220649-pogo-rage-the-awakening.json](./220649-pogo-rage-the-awakening.json) |
 | Pogo Stick Champion | 305567 | [305567-pogo-stick-champion.json](./305567-pogo-stick-champion.json) |
+| Pogo Stick: Ultimate Challenge | 342918 | [342918-pogo-stick-ultimate-challenge.json](./342918-pogo-stick-ultimate-challenge.json) |
 | Pogo Sticker | 94584 | [94584-pogo-sticker.json](./94584-pogo-sticker.json) |
 | Pogo Sudoku | 354990 | [354990-pogo-sudoku.json](./354990-pogo-sudoku.json) |
 | Pogo Swing! | 388176 | [388176-pogo-swing.json](./388176-pogo-swing.json) |
@@ -10213,6 +10214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polylumina | 388510 | [388510-polylumina.json](./388510-polylumina.json) |
 | Polymaniacs | 183418 | [183418-polymaniacs.json](./183418-polymaniacs.json) |
 | Polymatic | 103624 | [103624-polymatic.json](./103624-polymatic.json) |
+| Polymega Collection Vol. 10: Bases Loaded | 342518 | [342518-polymega-collection-vol-10-bases-loaded.json](./342518-polymega-collection-vol-10-bases-loaded.json) |
 | Polymega Collection Vol. 11: Adventure | 359899 | [359899-polymega-collection-vol-11-adventure.json](./359899-polymega-collection-vol-11-adventure.json) |
 | Polymega Collection Vol. 12: Tempest | 359900 | [359900-polymega-collection-vol-12-tempest.json](./359900-polymega-collection-vol-12-tempest.json) |
 | Polymega Collection Vol. 2: Karate Champ | 324512 | [324512-polymega-collection-vol-2-karate-champ.json](./324512-polymega-collection-vol-2-karate-champ.json) |
@@ -12071,6 +12073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
+| Primordial Fate | 342537 | [342537-primordial-fate.json](./342537-primordial-fate.json) |
 | Primordial Nation | 297856 | [297856-primordial-nation.json](./297856-primordial-nation.json) |
 | Primordial Pain | 223099 | [223099-primordial-pain.json](./223099-primordial-pain.json) |
 | Primordial Soup | 308608 | [308608-primordial-soup.json](./308608-primordial-soup.json) |
@@ -14322,6 +14325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pucca Noodle Rush | 65979 | [65979-pucca-noodle-rush.json](./65979-pucca-noodle-rush.json) |
 | Pucca Pop | 92391 | [92391-pucca-pop.json](./92391-pucca-pop.json) |
 | Pucca Power Up | 65983 | [65983-pucca-power-up.json](./65983-pucca-power-up.json) |
+| Pucca Pursuit | 342552 | [342552-pucca-pursuit.json](./342552-pucca-pursuit.json) |
 | Pucca Puzzle Adventure | 239003 | [239003-pucca-puzzle-adventure.json](./239003-pucca-puzzle-adventure.json) |
 | Pucca Wars | 263688 | [263688-pucca-wars.json](./263688-pucca-wars.json) |
 | Pucca, Let’s Cook! | 263689 | [263689-pucca-let-s-cook.json](./263689-pucca-let-s-cook.json) |
@@ -14958,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the Box | 147899 | [147899-push-the-box.json](./147899-push-the-box.json) |
 | Push the Box | 247075 | [247075-push-the-box.json](./247075-push-the-box.json) |
 | Push the Box 3D | 167784 | [167784-push-the-box-3d.json](./167784-push-the-box-3d.json) |
+| Push the Button to Win | 342908 | [342908-push-the-button-to-win.json](./342908-push-the-button-to-win.json) |
 | Push the Button to Win! | 241487 | [241487-push-the-button-to-win.json](./241487-push-the-button-to-win.json) |
 | Push the Circles Extreme | 96036 | [96036-push-the-circles-extreme.json](./96036-push-the-circles-extreme.json) |
 | Push the Crate | 147991 | [147991-push-the-crate.json](./147991-push-the-crate.json) |
