@@ -7027,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Spin | 260044 | [260044-world-spin.json](./260044-world-spin.json) |
 | World Sports Competition | 37731 | [37731-world-sports-competition.json](./37731-world-sports-competition.json) |
 | World Sports Party | 66581 | [66581-world-sports-party.json](./66581-world-sports-party.json) |
+| World Sprint | 380511 | [380511-world-sprint.json](./380511-world-sprint.json) |
 | World Stadium | 38101 | [38101-world-stadium.json](./38101-world-stadium.json) |
 | World Stadium '90 | 40569 | [40569-world-stadium-90.json](./40569-world-stadium-90.json) |
 | World Strategy War | 388261 | [388261-world-strategy-war.json](./388261-world-strategy-war.json) |
