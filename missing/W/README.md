@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wart's Turn-Based Revenge | 256794 | [256794-warts-turn-based-revenge.json](./256794-warts-turn-based-revenge.json) |
 | Wartale | 55864 | [55864-wartale.json](./55864-wartale.json) |
 | Wartales: Contract - Fires in the Capital | 395803 | [395803-wartales-contract-fires-in-the-capital.json](./395803-wartales-contract-fires-in-the-capital.json) |
+| Wartales: Contract - The Beast Hunt | 362770 | [362770-wartales-contract-the-beast-hunt.json](./362770-wartales-contract-the-beast-hunt.json) |
 | Wartales: Contract - The Fief | 362769 | [362769-wartales-contract-the-fief.json](./362769-wartales-contract-the-fief.json) |
 | Wartales: The Pits | 322789 | [322789-wartales-the-pits.json](./322789-wartales-the-pits.json) |
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
@@ -2780,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Emba | 150624 | [150624-welcome-to-emba.json](./150624-welcome-to-emba.json) |
 | Welcome to Erin's Story in the World of Our Church and Halloween: Visual Novel | 223064 | [223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
+| Welcome to Factus | 362796 | [362796-welcome-to-factus.json](./362796-welcome-to-factus.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
 | Welcome to GameCube World!! | 175969 | [175969-welcome-to-gamecube-world.json](./175969-welcome-to-gamecube-world.json) |
 | Welcome to Genius High! | 208317 | [208317-welcome-to-genius-high.json](./208317-welcome-to-genius-high.json) |
@@ -4234,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
 | Wiffle Ball | 73474 | [73474-wiffle-ball.json](./73474-wiffle-ball.json) |
 | Wigged Out | 126584 | [126584-wigged-out.json](./126584-wigged-out.json) |
+| Wiggle Wiggle Bush | 362863 | [362863-wiggle-wiggle-bush.json](./362863-wiggle-wiggle-bush.json) |
 | Wiggly Boy | 139424 | [139424-wiggly-boy.json](./139424-wiggly-boy.json) |
 | Wiggly Pig | 181757 | [181757-wiggly-pig.json](./181757-wiggly-pig.json) |
 | Wigmaker | 335985 | [335985-wigmaker.json](./335985-wigmaker.json) |
