@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeal-X2 | 281289 | [281289-zeal-x2.json](./281289-zeal-x2.json) |
 | Zealot | 233354 | [233354-zealot.json](./233354-zealot.json) |
 | Zealot's Curse | 296150 | [296150-zealots-curse.json](./296150-zealots-curse.json) |
+| Zeb's Trap | 359454 | [359454-zebs-trap.json](./359454-zebs-trap.json) |
 | Zeba | 389027 | [389027-zeba.json](./389027-zeba.json) |
 | Zebco Pro Fishing 3D: Tournament Edition | 202178 | [202178-zebco-pro-fishing-3d-tournament-edition.json](./202178-zebco-pro-fishing-3d-tournament-edition.json) |
 | Zebra | 342171 | [342171-zebra.json](./342171-zebra.json) |
