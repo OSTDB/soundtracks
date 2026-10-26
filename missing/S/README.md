@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.E.U.I.S. | 24886 | [24886-s-e-u-i-s.json](./24886-s-e-u-i-s.json) |
 | S.E.X. Project: Simulated Emotional Xenotech | 401448 | [401448-s-e-x-project-simulated-emotional-xenotech.json](./401448-s-e-x-project-simulated-emotional-xenotech.json) |
 | S.E.X. Retreat: WellCum In! | 278381 | [278381-s-e-x-retreat-wellcum-in.json](./278381-s-e-x-retreat-wellcum-in.json) |
+| S.E.X. Z.O.N.E. | 340604 | [340604-s-e-x-z-o-n-e.json](./340604-s-e-x-z-o-n-e.json) |
 | S.F.77 | 104838 | [104838-s-f-77.json](./104838-s-f-77.json) |
 | S.H.E. | 183800 | [183800-s-h-e.json](./183800-s-h-e.json) |
 | S.I.N. Unit: Ghost Investigation & Removal | 165528 | [165528-s-i-n-unit-ghost-investigation-and-removal.json](./165528-s-i-n-unit-ghost-investigation-and-removal.json) |
@@ -2473,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schmutznik | 153910 | [153910-schmutznik.json](./153910-schmutznik.json) |
 | Schnappi: 3 Fun-Games | 96526 | [96526-schnappi-3-fun-games.json](./96526-schnappi-3-fun-games.json) |
 | Schnee | 236901 | [236901-schnee.json](./236901-schnee.json) |
+| Schneider’s Curse | 340315 | [340315-schneider-s-curse.json](./340315-schneider-s-curse.json) |
 | Schnell Online | 255568 | [255568-schnell-online.json](./255568-schnell-online.json) |
 | Schnock n' Blopf | 100096 | [100096-schnock-n-blopf.json](./100096-schnock-n-blopf.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
@@ -5402,8 +5404,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Memory | 367293 | [367293-sexy-memory.json](./367293-sexy-memory.json) |
 | Sexy Memory Puzzle: Gamer Girl | 312685 | [312685-sexy-memory-puzzle-gamer-girl.json](./312685-sexy-memory-puzzle-gamer-girl.json) |
 | Sexy Memory Puzzle: Kawaii | 384873 | [384873-sexy-memory-puzzle-kawaii.json](./384873-sexy-memory-puzzle-kawaii.json) |
+| Sexy Memory Puzzle: Kinky Workout | 340608 | [340608-sexy-memory-puzzle-kinky-workout.json](./340608-sexy-memory-puzzle-kinky-workout.json) |
+| Sexy Memory Puzzle: Pool Girls | 340607 | [340607-sexy-memory-puzzle-pool-girls.json](./340607-sexy-memory-puzzle-pool-girls.json) |
 | Sexy Memory Puzzle: Pool Massage | 319238 | [319238-sexy-memory-puzzle-pool-massage.json](./319238-sexy-memory-puzzle-pool-massage.json) |
 | Sexy Memory Puzzle: Spanking Girls | 248658 | [248658-sexy-memory-puzzle-spanking-girls.json](./248658-sexy-memory-puzzle-spanking-girls.json) |
+| Sexy Memory Puzzle: Sports Car Futanari | 340606 | [340606-sexy-memory-puzzle-sports-car-futanari.json](./340606-sexy-memory-puzzle-sports-car-futanari.json) |
+| Sexy Memory Puzzle: Sports Car Girl | 340605 | [340605-sexy-memory-puzzle-sports-car-girl.json](./340605-sexy-memory-puzzle-sports-car-girl.json) |
 | Sexy Milfs | 230905 | [230905-sexy-milfs.json](./230905-sexy-milfs.json) |
 | Sexy Miss | 116264 | [116264-sexy-miss.json](./116264-sexy-miss.json) |
 | Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
@@ -5421,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Valentine | 235607 | [235607-sexy-valentine.json](./235607-sexy-valentine.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Sexycraft | 301657 | [301657-sexycraft.json](./301657-sexycraft.json) |
+| Seyahat: A Journey to Mecca | 340603 | [340603-seyahat-a-journey-to-mecca.json](./340603-seyahat-a-journey-to-mecca.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
 | Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
@@ -5501,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow | 180611 | [180611-shadow.json](./180611-shadow.json) |
 | Shadow | 286061 | [286061-shadow.json](./286061-shadow.json) |
 | Shadow | 324309 | [324309-shadow.json](./324309-shadow.json) |
+| Shadow Alchemist | 340602 | [340602-shadow-alchemist.json](./340602-shadow-alchemist.json) |
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
 | Shadow and Bone: Enter the Fold | 204448 | [204448-shadow-and-bone-enter-the-fold.json](./204448-shadow-and-bone-enter-the-fold.json) |
 | Shadow and Darkness | 301286 | [301286-shadow-and-darkness.json](./301286-shadow-and-darkness.json) |
@@ -5791,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowblood | 97477 | [97477-shadowblood.json](./97477-shadowblood.json) |
 | Shadowbound | 361621 | [361621-shadowbound.json](./361621-shadowbound.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
+| ShadowBox: Mausoleum of Natural History | 340601 | [340601-shadowbox-mausoleum-of-natural-history.json](./340601-shadowbox-mausoleum-of-natural-history.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | ShadowCaster | 8691 | [8691-shadowcaster.json](./8691-shadowcaster.json) |
 | ShadowComm. Associate Studio: Enterprise Edition | 421199 | [421199-shadowcomm-associate-studio-enterprise-edition.json](./421199-shadowcomm-associate-studio-enterprise-edition.json) |
