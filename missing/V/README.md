@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valdis Story: Abyssal City | 6134 | [6134-valdis-story-abyssal-city.json](./6134-valdis-story-abyssal-city.json) |
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
 | Vale | 304641 | [304641-vale.json](./304641-vale.json) |
+| Vale's Echo | 373588 | [373588-vales-echo.json](./373588-vales-echo.json) |
 | Valefor | 291685 | [291685-valefor.json](./291685-valefor.json) |
 | Valefor II | 403765 | [403765-valefor-ii.json](./403765-valefor-ii.json) |
 | ValeGuard | 97901 | [97901-valeguard.json](./97901-valeguard.json) |
