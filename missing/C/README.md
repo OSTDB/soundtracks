@@ -4193,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestay Craft&Slowlife | 399260 | [399260-celestay-craft-and-slowlife.json](./399260-celestay-craft-and-slowlife.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
+| Celeste Classic | 370630 | [370630-celeste-classic.json](./370630-celeste-classic.json) |
 | Celeste Classic | 86148 | [86148-celeste-classic.json](./86148-celeste-classic.json) |
 | Celeste Classic 2: Lani's Trek | 142841 | [142841-celeste-classic-2-lanis-trek.json](./142841-celeste-classic-2-lanis-trek.json) |
 | Celeste Classic 2: Lani's Trek | 366101 | [366101-celeste-classic-2-lanis-trek.json](./366101-celeste-classic-2-lanis-trek.json) |
@@ -6054,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera | 195033 | [195033-chimera.json](./195033-chimera.json) |
 | Chimera | 312718 | [312718-chimera.json](./312718-chimera.json) |
 | Chimera | 380063 | [380063-chimera.json](./380063-chimera.json) |
+| Chimera Circuit | 370729 | [370729-chimera-circuit.json](./370729-chimera-circuit.json) |
 | Chimera Crusader: Defender of Dominicus | 134912 | [134912-chimera-crusader-defender-of-dominicus.json](./134912-chimera-crusader-defender-of-dominicus.json) |
 | Chimera Custom XG | 253994 | [253994-chimera-custom-xg.json](./253994-chimera-custom-xg.json) |
 | Chimera Genesis | 58532 | [58532-chimera-genesis.json](./58532-chimera-genesis.json) |
@@ -14099,6 +14101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Creepy Love | 294933 | [294933-creepy-creepy-love.json](./294933-creepy-creepy-love.json) |
 | Creepy Dungeons | 355609 | [355609-creepy-dungeons.json](./355609-creepy-dungeons.json) |
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
+| Creepy Fishing | 370740 | [370740-creepy-fishing.json](./370740-creepy-fishing.json) |
 | Creepy Forest | 224613 | [224613-creepy-forest.json](./224613-creepy-forest.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
 | Creepy Person | 365542 | [365542-creepy-person.json](./365542-creepy-person.json) |
