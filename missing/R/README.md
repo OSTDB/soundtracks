@@ -4122,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remembrance | 181889 | [181889-remembrance.json](./181889-remembrance.json) |
 | Remembrance | 187175 | [187175-remembrance.json](./187175-remembrance.json) |
 | Remembrance | 225793 | [225793-remembrance.json](./225793-remembrance.json) |
+| Remembrance | 361577 | [361577-remembrance.json](./361577-remembrance.json) |
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
 | Rememento: White Shadow | 371316 | [371316-rememento-white-shadow.json](./371316-rememento-white-shadow.json) |
 | Rememory | 126380 | [126380-rememory.json](./126380-rememory.json) |
