@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro: Attack on Titan | 414808 | [414808-maestro-attack-on-titan.json](./414808-maestro-attack-on-titan.json) |
 | Maestro: Dark Talent - Collector's Edition | 114065 | [114065-maestro-dark-talent-collectors-edition.json](./114065-maestro-dark-talent-collectors-edition.json) |
 | Maestro: Duel of the Fates | 344161 | [344161-maestro-duel-of-the-fates.json](./344161-maestro-duel-of-the-fates.json) |
+| Maestro: La Crème de la Crème | 371280 | [371280-maestro-la-creme-de-la-creme.json](./371280-maestro-la-creme-de-la-creme.json) |
 | Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
 | Maestro: Music of Death - Collector's Edition | 37012 | [37012-maestro-music-of-death-collectors-edition.json](./37012-maestro-music-of-death-collectors-edition.json) |
 | Maestro: Notes of Life - Collector's Edition | 84029 | [84029-maestro-notes-of-life-collectors-edition.json](./84029-maestro-notes-of-life-collectors-edition.json) |
@@ -7218,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memolith: Forsaken by Light | 399744 | [399744-memolith-forsaken-by-light.json](./399744-memolith-forsaken-by-light.json) |
 | Memology | 375957 | [375957-memology.json](./375957-memology.json) |
 | Memology 2: Old Times | 360484 | [360484-memology-2-old-times.json](./360484-memology-2-old-times.json) |
+| Memology: Escape of Memes | 371200 | [371200-memology-escape-of-memes.json](./371200-memology-escape-of-memes.json) |
 | Memology: Goyda | 372583 | [372583-memology-goyda.json](./372583-memology-goyda.json) |
 | Memopoly | 106905 | [106905-memopoly.json](./106905-memopoly.json) |
 | Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
@@ -12340,6 +12342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Molebasher | 312262 | [312262-molebasher.json](./312262-molebasher.json) |
 | Molecats | 22743 | [22743-molecats.json](./22743-molecats.json) |
+| MolEconomy | 371202 | [371202-moleconomy.json](./371202-moleconomy.json) |
 | Molecule - a chemistry challenge | 98265 | [98265-molecule-a-chemistry-challenge.json](./98265-molecule-a-chemistry-challenge.json) |
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
 | Molecule Man | 28485 | [28485-molecule-man.json](./28485-molecule-man.json) |
@@ -12850,6 +12853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monpals | 228383 | [228383-monpals.json](./228383-monpals.json) |
 | Monpic: The Hatchling Meets a Girl | 324138 | [324138-monpic-the-hatchling-meets-a-girl.json](./324138-monpic-the-hatchling-meets-a-girl.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
+| Monroe Murders | 371277 | [371277-monroe-murders.json](./371277-monroe-murders.json) |
 | Monroe Park | 376564 | [376564-monroe-park.json](./376564-monroe-park.json) |
 | Mons | 178008 | [178008-mons.json](./178008-mons.json) |
 | Monst | 404184 | [404184-monst.json](./404184-monst.json) |
@@ -17531,6 +17535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Tom | 87024 | [87024-my-talking-tom.json](./87024-my-talking-tom.json) |
 | My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
 | My Tamagotchi Forever | 76234 | [76234-my-tamagotchi-forever.json](./76234-my-tamagotchi-forever.json) |
+| My Taskbar Farm | 371197 | [371197-my-taskbar-farm.json](./371197-my-taskbar-farm.json) |
 | My Tasty Husband | 390235 | [390235-my-tasty-husband.json](./390235-my-tasty-husband.json) |
 | My Taxi Company | 335812 | [335812-my-taxi-company.json](./335812-my-taxi-company.json) |
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
@@ -18329,6 +18334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
 | Mythmon: Mythic Monsters | 416370 | [416370-mythmon-mythic-monsters.json](./416370-mythmon-mythic-monsters.json) |
 | Mytho Duel | 320042 | [320042-mytho-duel.json](./320042-mytho-duel.json) |
+| Mythokyn Nightfall | 371278 | [371278-mythokyn-nightfall.json](./371278-mythokyn-nightfall.json) |
 | Mythology | 50378 | [50378-mythology.json](./50378-mythology.json) |
 | MythoMania | 419981 | [419981-mythomania.json](./419981-mythomania.json) |
 | Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
