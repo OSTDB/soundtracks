@@ -6501,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
 | The Cube Hotel: Ning's Wing 2 | 31059 | [31059-the-cube-hotel-nings-wing-2.json](./31059-the-cube-hotel-nings-wing-2.json) |
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
+| The Cubes | 373067 | [373067-the-cubes.json](./373067-the-cubes.json) |
 | The Cubicle. | 33273 | [33273-the-cubicle.json](./33273-the-cubicle.json) |
 | The Cubiw Dungeon | 393818 | [393818-the-cubiw-dungeon.json](./393818-the-cubiw-dungeon.json) |
 | The Cullfield Ritual | 235802 | [235802-the-cullfield-ritual.json](./235802-the-cullfield-ritual.json) |
@@ -10228,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sword | 235808 | [235808-the-last-sword.json](./235808-the-last-sword.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
+| The Last Tape: Before the Mine | 372973 | [372973-the-last-tape-before-the-mine.json](./372973-the-last-tape-before-the-mine.json) |
 | The Last Tater | 200346 | [200346-the-last-tater.json](./200346-the-last-tater.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Team | 421238 | [421238-the-last-team.json](./421238-the-last-team.json) |
@@ -10916,6 +10918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Journey Home | 19301 | [19301-the-long-journey-home.json](./19301-the-long-journey-home.json) |
 | The Long Journey to Farewell | 171870 | [171870-the-long-journey-to-farewell.json](./171870-the-long-journey-to-farewell.json) |
 | The Long Journey: Adventure | 90791 | [90791-the-long-journey-adventure.json](./90791-the-long-journey-adventure.json) |
+| The Long March: 20000 Miles of Journey | 373045 | [373045-the-long-march-20000-miles-of-journey.json](./373045-the-long-march-20000-miles-of-journey.json) |
 | The Long Reach | 41812 | [41812-the-long-reach.json](./41812-the-long-reach.json) |
 | The Long Return | 117351 | [117351-the-long-return.json](./117351-the-long-return.json) |
 | The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
@@ -26993,6 +26996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Booster | 265653 | [265653-turbo-booster.json](./265653-turbo-booster.json) |
 | Turbo Bugs 2 | 416171 | [416171-turbo-bugs-2.json](./416171-turbo-bugs-2.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
+| Turbo Carnage | 373063 | [373063-turbo-carnage.json](./373063-turbo-carnage.json) |
 | Turbo Cat Fight | 223401 | [223401-turbo-cat-fight.json](./223401-turbo-cat-fight.json) |
 | Turbo Champ | 274365 | [274365-turbo-champ.json](./274365-turbo-champ.json) |
 | Turbo Charge | 41142 | [41142-turbo-charge.json](./41142-turbo-charge.json) |
