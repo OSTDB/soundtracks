@@ -4062,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH-64D Longbow: Flash Point Korea | 73686 | [73686-ah-64d-longbow-flash-point-korea.json](./73686-ah-64d-longbow-flash-point-korea.json) |
 | Ah-Hoy! | 176293 | [176293-ah-hoy.json](./176293-ah-hoy.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
+| Ah, Love! Season 3 | 384577 | [384577-ah-love-season-3.json](./384577-ah-love-season-3.json) |
 | Ah! Heaven | 84737 | [84737-ah-heaven.json](./84737-ah-heaven.json) |
 | Ah. Ah. Ah. | 406654 | [406654-ah-ah-ah.json](./406654-ah-ah-ah.json) |
 | AH3AD: Retrowave Runner | 191583 | [191583-ah3ad-retrowave-runner.json](./191583-ah3ad-retrowave-runner.json) |
@@ -10518,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
 | Arcade Pool & Snooker | 91692 | [91692-arcade-pool-and-snooker.json](./91692-arcade-pool-and-snooker.json) |
+| Arcade Pool II | 384609 | [384609-arcade-pool-ii.json](./384609-arcade-pool-ii.json) |
 | Arcade Portable | 202779 | [202779-arcade-portable.json](./202779-arcade-portable.json) |
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
 | Arcade Redemption | 154879 | [154879-arcade-redemption.json](./154879-arcade-redemption.json) |
