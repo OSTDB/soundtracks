@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Montana Football | 80420 | [80420-joe-montana-football.json](./80420-joe-montana-football.json) |
 | Joe Montana II: Sports Talk Football | 19491 | [19491-joe-montana-ii-sports-talk-football.json](./19491-joe-montana-ii-sports-talk-football.json) |
 | Joe Montana's NFL Football | 46419 | [46419-joe-montanas-nfl-football.json](./46419-joe-montanas-nfl-football.json) |
+| Joe Quake | 381655 | [381655-joe-quake.json](./381655-joe-quake.json) |
 | Joe vs. The Joneses | 175170 | [175170-joe-vs-the-joneses.json](./175170-joe-vs-the-joneses.json) |
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
 | Joe Wander and the Enigmatic Adventures | 222929 | [222929-joe-wander-and-the-enigmatic-adventures.json](./222929-joe-wander-and-the-enigmatic-adventures.json) |
@@ -2144,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
 | Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
+| Joint Force | 381585 | [381585-joint-force.json](./381585-joint-force.json) |
 | Joint Operations: Combined Arms Gold | 29200 | [29200-joint-operations-combined-arms-gold.json](./29200-joint-operations-combined-arms-gold.json) |
 | Joint Operations: Escalation | 9355 | [9355-joint-operations-escalation.json](./9355-joint-operations-escalation.json) |
 | Joint Operations: Typhoon Rising | 9354 | [9354-joint-operations-typhoon-rising.json](./9354-joint-operations-typhoon-rising.json) |
