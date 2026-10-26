@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
 | Lazarus A.D. 2222 | 258384 | [258384-lazarus-a-d-2222.json](./258384-lazarus-a-d-2222.json) |
 | Lazarus Doom | 198354 | [198354-lazarus-doom.json](./198354-lazarus-doom.json) |
+| Lazarus: Side Story of Comrade Force | 349220 | [349220-lazarus-side-story-of-comrade-force.json](./349220-lazarus-side-story-of-comrade-force.json) |
 | Lazer Bykes | 94653 | [94653-lazer-bykes.json](./94653-lazer-bykes.json) |
 | Lazer Command | 40335 | [40335-lazer-command.json](./40335-lazer-command.json) |
 | Lazer Cycle | 8399 | [8399-lazer-cycle.json](./8399-lazer-cycle.json) |
