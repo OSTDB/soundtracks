@@ -5502,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Méandres | 257430 | [257430-meandres.json](./257430-meandres.json) |
 | Meaning | 297554 | [297554-meaning.json](./297554-meaning.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
+| Meaning of Flower | 343736 | [343736-meaning-of-flower.json](./343736-meaning-of-flower.json) |
 | Meaningful Adventures | 218479 | [218479-meaningful-adventures.json](./218479-meaningful-adventures.json) |
 | Meaningless Tragedy | 397046 | [397046-meaningless-tragedy.json](./397046-meaningless-tragedy.json) |
 | Meanings: Hidden in Plain Sight | 317346 | [317346-meanings-hidden-in-plain-sight.json](./317346-meanings-hidden-in-plain-sight.json) |
@@ -13533,6 +13534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Super League | 80238 | [80238-monster-super-league.json](./80238-monster-super-league.json) |
 | Monster Survivor | 259712 | [259712-monster-survivor.json](./259712-monster-survivor.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
+| Monster Survivors: Complete Edition | 343704 | [343704-monster-survivors-complete-edition.json](./343704-monster-survivors-complete-edition.json) |
 | Monster Survivors: Echo Edition | 347329 | [347329-monster-survivors-echo-edition.json](./347329-monster-survivors-echo-edition.json) |
 | Monster Survivors: Rootsy Edition | 357017 | [357017-monster-survivors-rootsy-edition.json](./357017-monster-survivors-rootsy-edition.json) |
 | Monster Sweethearts | 177959 | [177959-monster-sweethearts.json](./177959-monster-sweethearts.json) |
