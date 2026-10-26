@@ -5663,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Sorcerer | 12764 | [12764-shadow-sorcerer.json](./12764-shadow-sorcerer.json) |
 | Shadow Spell Saga: The Winds of Fate | 369320 | [369320-shadow-spell-saga-the-winds-of-fate.json](./369320-shadow-spell-saga-the-winds-of-fate.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
+| Shadow Sprinter | 367918 | [367918-shadow-sprinter.json](./367918-shadow-sprinter.json) |
 | Shadow Squadron | 19763 | [19763-shadow-squadron.json](./19763-shadow-squadron.json) |
 | Shadow Stalker | 251721 | [251721-shadow-stalker.json](./251721-shadow-stalker.json) |
 | Shadow Stalker | 264319 | [264319-shadow-stalker.json](./264319-shadow-stalker.json) |
@@ -8606,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
+| Silencer | 367912 | [367912-silencer.json](./367912-silencer.json) |
 | Silencer | 93197 | [93197-silencer.json](./93197-silencer.json) |
 | Silencio | 301909 | [301909-silencio.json](./301909-silencio.json) |
 | Silency: Cube 666 | 410202 | [410202-silency-cube-666.json](./410202-silency-cube-666.json) |
@@ -9366,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinbad and the Throne of the Falcon | 8668 | [8668-sinbad-and-the-throne-of-the-falcon.json](./8668-sinbad-and-the-throne-of-the-falcon.json) |
 | Sinbad Mystery | 40019 | [40019-sinbad-mystery.json](./40019-sinbad-mystery.json) |
 | Sinbad: Legend of the Seven Seas | 27605 | [27605-sinbad-legend-of-the-seven-seas.json](./27605-sinbad-legend-of-the-seven-seas.json) |
+| Sinbadexpress | 367987 | [367987-sinbadexpress.json](./367987-sinbadexpress.json) |
 | Since 1935 | 367962 | [367962-since-1935.json](./367962-since-1935.json) |
 | Since November | 327853 | [327853-since-november.json](./327853-since-november.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
@@ -19654,6 +19657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
 | Stan James Original Free Kick Challenge | 324738 | [324738-stan-james-original-free-kick-challenge.json](./324738-stan-james-original-free-kick-challenge.json) |
 | Stan Lee's Verticus | 148860 | [148860-stan-lees-verticus.json](./148860-stan-lees-verticus.json) |
+| Stan's Magic Museum: Olympian Trouble | 367924 | [367924-stans-magic-museum-olympian-trouble.json](./367924-stans-magic-museum-olympian-trouble.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
 | Stancie | 105061 | [105061-stancie.json](./105061-stancie.json) |
 | Stand 'em Up | 152153 | [152153-stand-em-up.json](./152153-stand-em-up.json) |
@@ -27868,6 +27872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Fight | 193333 | [193333-superhero-fight.json](./193333-superhero-fight.json) |
 | Superhero Fighting Game | 59875 | [59875-superhero-fighting-game.json](./59875-superhero-fighting-game.json) |
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
+| Superhero Girls | 368052 | [368052-superhero-girls.json](./368052-superhero-girls.json) |
 | Superhero Robot Merge Master | 214167 | [214167-superhero-robot-merge-master.json](./214167-superhero-robot-merge-master.json) |
 | Superhero Workout | 58489 | [58489-superhero-workout.json](./58489-superhero-workout.json) |
 | Superhero Wrestling Battle Arena Ring Fighting | 100857 | [100857-superhero-wrestling-battle-arena-ring-fighting.json](./100857-superhero-wrestling-battle-arena-ring-fighting.json) |
