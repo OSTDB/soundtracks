@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nehan: Kanzenban | 320888 | [320888-nehan-kanzenban.json](./320888-nehan-kanzenban.json) |
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Nehrim: At Fate's Edge | 114561 | [114561-nehrim-at-fates-edge.json](./114561-nehrim-at-fates-edge.json) |
+| Neidfyre | 382254 | [382254-neidfyre.json](./382254-neidfyre.json) |
 | Neighbor | 141557 | [141557-neighbor.json](./141557-neighbor.json) |
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
 | Neighbor | 181842 | [181842-neighbor.json](./181842-neighbor.json) |
