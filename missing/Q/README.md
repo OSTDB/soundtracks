@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quartet | 165575 | [165575-quartet.json](./165575-quartet.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
 | Quartet | 36677 | [36677-quartet.json](./36677-quartet.json) |
+| Quartett!: The Stage of Love | 356547 | [356547-quartett-the-stage-of-love.json](./356547-quartett-the-stage-of-love.json) |
 | Quartett!: The Stage of Love - First Press Limited Edition | 389653 | [389653-quartett-the-stage-of-love-first-press-limited-edition.json](./389653-quartett-the-stage-of-love-first-press-limited-edition.json) |
 | Quarth | 239297 | [239297-quarth.json](./239297-quarth.json) |
 | Quarth | 239298 | [239298-quarth.json](./239298-quarth.json) |
@@ -653,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Garden 4: Sakura Season | 100960 | [100960-queens-garden-4-sakura-season.json](./100960-queens-garden-4-sakura-season.json) |
 | Queen's Garden: A Relaxing Match3 Game with Flowers and Gardening | 100992 | [100992-queens-garden-a-relaxing-match3-game-with-flowers-and-gardening.json](./100992-queens-garden-a-relaxing-match3-game-with-flowers-and-gardening.json) |
 | Queen's Garden: French Splendor | 338059 | [338059-queens-garden-french-splendor.json](./338059-queens-garden-french-splendor.json) |
+| Queen's Garden: French Splendor - Collector's Edition | 356534 | [356534-queens-garden-french-splendor-collectors-edition.json](./356534-queens-garden-french-splendor-collectors-edition.json) |
 | Queen's Gate: Spiral Chaos | 66176 | [66176-queens-gate-spiral-chaos.json](./66176-queens-gate-spiral-chaos.json) |
 | Queen's Loyalty | 298640 | [298640-queens-loyalty.json](./298640-queens-loyalty.json) |
 | Queen's Quest 2: Stories of Forgotten Past | 30424 | [30424-queens-quest-2-stories-of-forgotten-past.json](./30424-queens-quest-2-stories-of-forgotten-past.json) |
