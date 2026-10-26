@@ -4533,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
 | Phantomphobia: Yijie | 331945 | [331945-phantomphobia-yijie.json](./331945-phantomphobia-yijie.json) |
 | Phantomphobia: Zhenli | 331946 | [331946-phantomphobia-zhenli.json](./331946-phantomphobia-zhenli.json) |
+| PhantomRider | 347053 | [347053-phantomrider.json](./347053-phantomrider.json) |
 | Phantoms | 278152 | [278152-phantoms.json](./278152-phantoms.json) |
 | Phantoms of the Asteroid | 40959 | [40959-phantoms-of-the-asteroid.json](./40959-phantoms-of-the-asteroid.json) |
 | PhantomZone Labyrinthos | 333970 | [333970-phantomzone-labyrinthos.json](./333970-phantomzone-labyrinthos.json) |
@@ -5252,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece of..Horror | 253873 | [253873-piece-of-horror.json](./253873-piece-of-horror.json) |
 | Piece Out | 328083 | [328083-piece-out.json](./328083-piece-out.json) |
 | Piece Out | 54720 | [54720-piece-out.json](./54720-piece-out.json) |
+| Piece Out: Avatarland | 347064 | [347064-piece-out-avatarland.json](./347064-piece-out-avatarland.json) |
 | Piece Shogi | 312772 | [312772-piece-shogi.json](./312772-piece-shogi.json) |
 | Piece Yourself Up | 341577 | [341577-piece-yourself-up.json](./341577-piece-yourself-up.json) |
 | Pieced Together | 295080 | [295080-pieced-together.json](./295080-pieced-together.json) |
@@ -8691,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pro Yakyuu | 270080 | [270080-pocket-pro-yakyuu.json](./270080-pocket-pro-yakyuu.json) |
 | Pocket Professor: Kwik Notes Volume 1 | 300979 | [300979-pocket-professor-kwik-notes-volume-1.json](./300979-pocket-professor-kwik-notes-volume-1.json) |
 | Pocket Pugilism | 241210 | [241210-pocket-pugilism.json](./241210-pocket-pugilism.json) |
+| Pocket Puppy | 347075 | [347075-pocket-puppy.json](./347075-pocket-puppy.json) |
 | Pocket Pursuit | 113200 | [113200-pocket-pursuit.json](./113200-pocket-pursuit.json) |
 | Pocket Pusher | 293003 | [293003-pocket-pusher.json](./293003-pocket-pusher.json) |
 | Pocket Pusher: The Citadel | 316387 | [316387-pocket-pusher-the-citadel.json](./316387-pocket-pusher-the-citadel.json) |
@@ -10362,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poobo | 383160 | [383160-poobo.json](./383160-poobo.json) |
+| Poochie Puppy | 347074 | [347074-poochie-puppy.json](./347074-poochie-puppy.json) |
 | Poodle Jump! | 368997 | [368997-poodle-jump.json](./368997-poodle-jump.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poöf vs. The Cursed Kitty | 10712 | [10712-poof-vs-the-cursed-kitty.json](./10712-poof-vs-the-cursed-kitty.json) |
@@ -14170,6 +14174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
 | Psycho-Pass: Mandatory Happiness | 23849 | [23849-psycho-pass-mandatory-happiness.json](./23849-psycho-pass-mandatory-happiness.json) |
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
+| Psycho-Sleuth | 347036 | [347036-psycho-sleuth.json](./347036-psycho-sleuth.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
 | Psychoballs | 89401 | [89401-psychoballs.json](./89401-psychoballs.json) |
 | Psychobouldering | 328974 | [328974-psychobouldering.json](./328974-psychobouldering.json) |
