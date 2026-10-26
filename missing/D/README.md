@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daigasso! Band Brothers P | 64394 | [64394-daigasso-band-brothers-p.json](./64394-daigasso-band-brothers-p.json) |
 | Daigasso! Band Brothers Request Selection | 69240 | [69240-daigasso-band-brothers-request-selection.json](./69240-daigasso-band-brothers-request-selection.json) |
 | Daiichi Dash | 132671 | [132671-daiichi-dash.json](./132671-daiichi-dash.json) |
+| Daijishin | 385538 | [385538-daijishin.json](./385538-daijishin.json) |
 | Daikaiju | 179539 | [179539-daikaiju.json](./179539-daikaiju.json) |
 | Daikaiju Daikessen: Versus | 173188 | [173188-daikaiju-daikessen-versus.json](./173188-daikaiju-daikessen-versus.json) |
 | Daikaiju no Gyakushu | 65393 | [65393-daikaiju-no-gyakushu.json](./65393-daikaiju-no-gyakushu.json) |
@@ -4568,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
 | Deers and Deckards | 284400 | [284400-deers-and-deckards.json](./284400-deers-and-deckards.json) |
 | Deerstalker | 167553 | [167553-deerstalker.json](./167553-deerstalker.json) |
+| DeeSicks | 385697 | [385697-deesicks.json](./385697-deesicks.json) |
 | Deesse: Love and War | 231962 | [231962-deesse-love-and-war.json](./231962-deesse-love-and-war.json) |
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
 | Deez Shells | 328067 | [328067-deez-shells.json](./328067-deez-shells.json) |
@@ -6021,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Fishes | 364006 | [364006-desktop-fishes.json](./364006-desktop-fishes.json) |
 | Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
+| Desktop Friend | 385649 | [385649-desktop-friend.json](./385649-desktop-friend.json) |
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
 | Desktop Garden | 377977 | [377977-desktop-garden.json](./377977-desktop-garden.json) |
 | Desktop Goose | 135622 | [135622-desktop-goose.json](./135622-desktop-goose.json) |
@@ -10278,6 +10281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pee | 285411 | [285411-dont-pee.json](./285411-dont-pee.json) |
 | Don't Pee in the Tub | 78565 | [78565-dont-pee-in-the-tub.json](./78565-dont-pee-in-the-tub.json) |
 | Don't Pick Up Stray Aliens | 409002 | [409002-dont-pick-up-stray-aliens.json](./409002-dont-pick-up-stray-aliens.json) |
+| Don't Play Games | 385682 | [385682-dont-play-games.json](./385682-dont-play-games.json) |
 | Don't Play Their Game | 410491 | [410491-dont-play-their-game.json](./410491-dont-play-their-game.json) |
 | Don't Play This | 390776 | [390776-dont-play-this.json](./390776-dont-play-this.json) |
 | Don't Play With Dolls | 105282 | [105282-dont-play-with-dolls.json](./105282-dont-play-with-dolls.json) |
@@ -10315,6 +10319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Spill Your Coffee! | 176685 | [176685-dont-spill-your-coffee.json](./176685-dont-spill-your-coffee.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
+| Don't Stare | 385644 | [385644-dont-stare.json](./385644-dont-stare.json) |
 | Don't Starve Alone Pack Plus | 227173 | [227173-dont-starve-alone-pack-plus.json](./227173-dont-starve-alone-pack-plus.json) |
 | Don't Starve Elsewhere | 397822 | [397822-dont-starve-elsewhere.json](./397822-dont-starve-elsewhere.json) |
 | Don't Starve Together: Console Edition | 99751 | [99751-dont-starve-together-console-edition.json](./99751-dont-starve-together-console-edition.json) |
@@ -11655,6 +11660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Chatelet: Faith | 207757 | [207757-dr-chatelet-faith.json](./207757-dr-chatelet-faith.json) |
 | Dr. Chess | 268534 | [268534-dr-chess.json](./268534-dr-chess.json) |
+| Dr. Dental | 385549 | [385549-dr-dental.json](./385549-dr-dental.json) |
 | Dr. Derk's Mutant Battlegrounds | 120604 | [120604-dr-derks-mutant-battlegrounds.json](./120604-dr-derks-mutant-battlegrounds.json) |
 | Dr. Despicable's Dastardly Deeds | 296194 | [296194-dr-despicables-dastardly-deeds.json](./296194-dr-despicables-dastardly-deeds.json) |
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
@@ -11993,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Commentator Voice Pack 4 | 366818 | [366818-dragon-ball-fighterz-commentator-voice-pack-4.json](./366818-dragon-ball-fighterz-commentator-voice-pack-4.json) |
 | Dragon Ball FighterZ: Cooler | 144710 | [144710-dragon-ball-fighterz-cooler.json](./144710-dragon-ball-fighterz-cooler.json) |
 | Dragon Ball FighterZ: Daima Pack | 399111 | [399111-dragon-ball-fighterz-daima-pack.json](./399111-dragon-ball-fighterz-daima-pack.json) |
+| Dragon Ball FighterZ: Dio | 385628 | [385628-dragon-ball-fighterz-dio.json](./385628-dragon-ball-fighterz-dio.json) |
 | Dragon Ball FighterZ: Dragon Ball Daima Pack | 399188 | [399188-dragon-ball-fighterz-dragon-ball-daima-pack.json](./399188-dragon-ball-fighterz-dragon-ball-daima-pack.json) |
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
 | Dragon Ball FighterZ: FighterZ Pass | 144714 | [144714-dragon-ball-fighterz-fighterz-pass.json](./144714-dragon-ball-fighterz-fighterz-pass.json) |
@@ -12002,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Super Edition | 200680 | [200680-dragon-ball-fighterz-super-edition.json](./200680-dragon-ball-fighterz-super-edition.json) |
 | Dragon Ball FighterZ: Vegeta | 144707 | [144707-dragon-ball-fighterz-vegeta.json](./144707-dragon-ball-fighterz-vegeta.json) |
 | Dragon Ball FighterZ: Vegito (SSGSS) | 144705 | [144705-dragon-ball-fighterz-vegito-ssgss.json](./144705-dragon-ball-fighterz-vegito-ssgss.json) |
+| Dragon Ball FighterZ: Yami Yugi | 385623 | [385623-dragon-ball-fighterz-yami-yugi.json](./385623-dragon-ball-fighterz-yami-yugi.json) |
 | Dragon Ball FighterZ: Zamasu (Fused) | 144704 | [144704-dragon-ball-fighterz-zamasu-fused.json](./144704-dragon-ball-fighterz-zamasu-fused.json) |
 | Dragon Ball Fusions | 19314 | [19314-dragon-ball-fusions.json](./19314-dragon-ball-fusions.json) |
 | Dragon Ball GT: Final Bout | 2558 | [2558-dragon-ball-gt-final-bout.json](./2558-dragon-ball-gt-final-bout.json) |
@@ -13677,6 +13685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriftWay | 121981 | [121981-driftway.json](./121981-driftway.json) |
 | Driftwood | 129563 | [129563-driftwood.json](./129563-driftwood.json) |
 | Driftwood | 31831 | [31831-driftwood.json](./31831-driftwood.json) |
+| Driftwood | 385676 | [385676-driftwood.json](./385676-driftwood.json) |
 | Driftwood Fate | 405975 | [405975-driftwood-fate.json](./405975-driftwood-fate.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
@@ -14485,6 +14494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Due Process | 60900 | [60900-due-process.json](./60900-due-process.json) |
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
+| Duel | 385542 | [385542-duel.json](./385542-duel.json) |
 | Duel | 74207 | [74207-duel.json](./74207-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
 | Duel Champions | 358362 | [358362-duel-champions.json](./358362-duel-champions.json) |
@@ -15732,6 +15742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dye the Bunny | 245979 | [245979-dye-the-bunny.json](./245979-dye-the-bunny.json) |
 | Dye The Bunny 2 | 290826 | [290826-dye-the-bunny-2.json](./290826-dye-the-bunny-2.json) |
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
+| Dyed in White | 385633 | [385633-dyed-in-white.json](./385633-dyed-in-white.json) |
 | Dyer Expedition | 235626 | [235626-dyer-expedition.json](./235626-dyer-expedition.json) |
 | Dyflexion | 189067 | [189067-dyflexion.json](./189067-dyflexion.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
