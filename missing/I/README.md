@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm A Celebrity... Get Me Out of Here! | 67211 | [67211-im-a-celebrity-get-me-out-of-here.json](./67211-im-a-celebrity-get-me-out-of-here.json) |
 | I'm a cowboy: Western Shooter | 173226 | [173226-im-a-cowboy-western-shooter.json](./173226-im-a-cowboy-western-shooter.json) |
 | I'm a Gensokyo Observer | 324754 | [324754-im-a-gensokyo-observer.json](./324754-im-a-gensokyo-observer.json) |
+| I'm a Gensokyo Observer 2: Chen's Duty | 366871 | [366871-im-a-gensokyo-observer-2-chens-duty.json](./366871-im-a-gensokyo-observer-2-chens-duty.json) |
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
 | I'm a King | 151557 | [151557-im-a-king.json](./151557-im-a-king.json) |
 | I’m a Love Interest in My Childhood Friend’s Halloween Story | 179674 | [179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json](./179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json) |
@@ -1388,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
 | Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
+| Idle Time Slime | 366787 | [366787-idle-time-slime.json](./366787-idle-time-slime.json) |
 | Idle Tiny Wizard | 212516 | [212516-idle-tiny-wizard.json](./212516-idle-tiny-wizard.json) |
 | Idle to Level 1000 | 359570 | [359570-idle-to-level-1000.json](./359570-idle-to-level-1000.json) |
 | Idle Tower Defense | 248156 | [248156-idle-tower-defense.json](./248156-idle-tower-defense.json) |
