@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeitgeist | 374957 | [374957-zeitgeist.json](./374957-zeitgeist.json) |
 | Zeitz Machz: Rhapsody | 293142 | [293142-zeitz-machz-rhapsody.json](./293142-zeitz-machz-rhapsody.json) |
 | Zeke's Peak | 119491 | [119491-zekes-peak.json](./119491-zekes-peak.json) |
+| Zekertune | 350318 | [350318-zekertune.json](./350318-zekertune.json) |
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
 | Zeko | 150287 | [150287-zeko.json](./150287-zeko.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
