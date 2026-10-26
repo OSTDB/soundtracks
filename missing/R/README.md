@@ -6142,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
 | Ridiculous Rugby | 107593 | [107593-ridiculous-rugby.json](./107593-ridiculous-rugby.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
+| Ridiculous Space Battles | 349222 | [349222-ridiculous-space-battles.json](./349222-ridiculous-space-battles.json) |
 | Riding Academy 2 | 54316 | [54316-riding-academy-2.json](./54316-riding-academy-2.json) |
 | Riding Champion: Legacy of Rosemond Hill | 64116 | [64116-riding-champion-legacy-of-rosemond-hill.json](./64116-riding-champion-legacy-of-rosemond-hill.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
@@ -6346,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimWorld: Console Edition | 210525 | [210525-rimworld-console-edition.json](./210525-rimworld-console-edition.json) |
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
+| RimWorld: Odyssey | 349256 | [349256-rimworld-odyssey.json](./349256-rimworld-odyssey.json) |
 | RimWorld: P-Music | 370333 | [370333-rimworld-p-music.json](./370333-rimworld-p-music.json) |
 | Rin ga Utau, Mirai no Neiro | 228351 | [228351-rin-ga-utau-mirai-no-neiro.json](./228351-rin-ga-utau-mirai-no-neiro.json) |
 | Rin Kaihou Kudan no Igo Daidou | 37868 | [37868-rin-kaihou-kudan-no-igo-daidou.json](./37868-rin-kaihou-kudan-no-igo-daidou.json) |
@@ -10178,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Beavers | 421375 | [421375-rumble-beavers.json](./421375-rumble-beavers.json) |
 | Rumble Box | 71498 | [71498-rumble-box.json](./71498-rumble-box.json) |
 | Rumble City | 60213 | [60213-rumble-city.json](./60213-rumble-city.json) |
+| Rumble Crumble | 349216 | [349216-rumble-crumble.json](./349216-rumble-crumble.json) |
 | Rumble Fighter | 67352 | [67352-rumble-fighter.json](./67352-rumble-fighter.json) |
 | Rumble Fighter: Unleashed | 35531 | [35531-rumble-fighter-unleashed.json](./35531-rumble-fighter-unleashed.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
