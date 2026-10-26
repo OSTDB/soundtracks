@@ -4338,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasie II | 14424 | [14424-phantasie-ii.json](./14424-phantasie-ii.json) |
 | Phantasie IV: Birth of Heroes | 14425 | [14425-phantasie-iv-birth-of-heroes.json](./14425-phantasie-iv-birth-of-heroes.json) |
 | Phantasie Memorial Set | 279038 | [279038-phantasie-memorial-set.json](./279038-phantasie-memorial-set.json) |
+| Phantasist | 338096 | [338096-phantasist.json](./338096-phantasist.json) |
 | Phantasm | 12924 | [12924-phantasm.json](./12924-phantasm.json) |
 | Phantasm | 308357 | [308357-phantasm.json](./308357-phantasm.json) |
 | Phantasm | 325141 | [325141-phantasm.json](./325141-phantasm.json) |
