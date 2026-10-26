@@ -5317,6 +5317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
+| Demon Bluff | 341980 | [341980-demon-bluff.json](./341980-demon-bluff.json) |
 | Demon Burst | 396713 | [396713-demon-burst.json](./396713-demon-burst.json) |
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
 | Demon Castle Story | 381568 | [381568-demon-castle-story.json](./381568-demon-castle-story.json) |
@@ -6416,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detach Metroid | 328683 | [328683-detach-metroid.json](./328683-detach-metroid.json) |
 | Detached | 280423 | [280423-detached.json](./280423-detached.json) |
 | Detached: Non-VR Edition | 105080 | [105080-detached-non-vr-edition.json](./105080-detached-non-vr-edition.json) |
+| Detachment Crew | 341960 | [341960-detachment-crew.json](./341960-detachment-crew.json) |
 | Detail Detective | 270329 | [270329-detail-detective.json](./270329-detail-detective.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
@@ -9615,6 +9617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
 | Dodo | 277973 | [277973-dodo.json](./277973-dodo.json) |
 | Dodo Adventures | 136894 | [136894-dodo-adventures.json](./136894-dodo-adventures.json) |
+| Dodo Duckie | 342305 | [342305-dodo-duckie.json](./342305-dodo-duckie.json) |
 | Dodo Fly: New World | 241824 | [241824-dodo-fly-new-world.json](./241824-dodo-fly-new-world.json) |
 | DoDodge | 231330 | [231330-dododge.json](./231330-dododge.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
