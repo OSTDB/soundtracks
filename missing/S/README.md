@@ -10070,6 +10070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy 4 | 54881 | [54881-sketchy-4.json](./54881-sketchy-4.json) |
 | Sketchy Arcade | 359619 | [359619-sketchy-arcade.json](./359619-sketchy-arcade.json) |
 | Sketchy Bounce | 65758 | [65758-sketchy-bounce.json](./65758-sketchy-bounce.json) |
+| Sketchy Driver | 357712 | [357712-sketchy-driver.json](./357712-sketchy-driver.json) |
 | Sketchy Fables | 152846 | [152846-sketchy-fables.json](./152846-sketchy-fables.json) |
 | Sketchy Individuals | 355169 | [355169-sketchy-individuals.json](./355169-sketchy-individuals.json) |
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
@@ -12276,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
 | Snake | 307608 | [307608-snake.json](./307608-snake.json) |
 | Snake | 311036 | [311036-snake.json](./311036-snake.json) |
+| Snake | 357822 | [357822-snake.json](./357822-snake.json) |
 | Snake | 377165 | [377165-snake.json](./377165-snake.json) |
 | Snake '97: retro phone classic | 89541 | [89541-snake-97-retro-phone-classic.json](./89541-snake-97-retro-phone-classic.json) |
 | Snake & Snake | 56756 | [56756-snake-and-snake.json](./56756-snake-and-snake.json) |
