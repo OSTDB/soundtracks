@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T09:04:35.411Z",
-  "total_missing": 264435,
+  "generated_at": "2026-10-26T09:19:12.560Z",
+  "total_missing": 264485,
   "games": [
     {
       "igdb_id": 191680,
@@ -6122,6 +6122,11 @@
       "file": "missing/0-9/79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json"
     },
     {
+      "igdb_id": 366272,
+      "game_name": "2 in 1 Hidden Object Worlds",
+      "file": "missing/0-9/366272-2-in-1-hidden-object-worlds.json"
+    },
+    {
       "igdb_id": 82102,
       "game_name": "2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL",
       "file": "missing/0-9/82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json"
@@ -7407,6 +7412,11 @@
       "file": "missing/0-9/74462-222-hearts.json"
     },
     {
+      "igdb_id": 366269,
+      "game_name": "222.22",
+      "file": "missing/0-9/366269-222-22.json"
+    },
+    {
       "igdb_id": 329437,
       "game_name": "2222 Abyss of the Universe",
       "file": "missing/0-9/329437-2222-abyss-of-the-universe.json"
@@ -8250,6 +8260,11 @@
       "igdb_id": 128589,
       "game_name": "3 Missing, 4am",
       "file": "missing/0-9/128589-3-missing-4am.json"
+    },
+    {
+      "igdb_id": 366184,
+      "game_name": "3 Nights of Terror",
+      "file": "missing/0-9/366184-3-nights-of-terror.json"
     },
     {
       "igdb_id": 5337,
@@ -12730,6 +12745,11 @@
       "igdb_id": 189016,
       "game_name": "7 Days to Save the World",
       "file": "missing/0-9/189016-7-days-to-save-the-world.json"
+    },
+    {
+      "igdb_id": 366280,
+      "game_name": "7 Days To Think About It",
+      "file": "missing/0-9/366280-7-days-to-think-about-it.json"
     },
     {
       "igdb_id": 366119,
@@ -21645,6 +21665,11 @@
       "igdb_id": 377420,
       "game_name": "Aaero 2: Arcade Paradise Music Pack",
       "file": "missing/A/377420-aaero-2-arcade-paradise-music-pack.json"
+    },
+    {
+      "igdb_id": 366211,
+      "game_name": "Aaero 2: Black Razor Edition",
+      "file": "missing/A/366211-aaero-2-black-razor-edition.json"
     },
     {
       "igdb_id": 377421,
@@ -31840,6 +31865,11 @@
       "igdb_id": 80804,
       "game_name": "African Adventure",
       "file": "missing/A/80804-african-adventure.json"
+    },
+    {
+      "igdb_id": 366265,
+      "game_name": "African Adventure: In Search of Dr. Livingston",
+      "file": "missing/A/366265-african-adventure-in-search-of-dr-livingston.json"
     },
     {
       "igdb_id": 11889,
@@ -148812,6 +148842,11 @@
       "file": "missing/B/306529-bouncy-chicken.json"
     },
     {
+      "igdb_id": 366274,
+      "game_name": "Bouncy Click",
+      "file": "missing/B/366274-bouncy-click.json"
+    },
+    {
       "igdb_id": 156724,
       "game_name": "Bouncy Cloud",
       "file": "missing/B/156724-bouncy-cloud.json"
@@ -166810,6 +166845,11 @@
       "igdb_id": 415963,
       "game_name": "Buster Sword",
       "file": "missing/B/415963-buster-sword.json"
+    },
+    {
+      "igdb_id": 366270,
+      "game_name": "Buster's Big Score",
+      "file": "missing/B/366270-busters-big-score.json"
     },
     {
       "igdb_id": 152330,
@@ -189472,6 +189512,11 @@
       "file": "missing/C/406329-cells-of-division.json"
     },
     {
+      "igdb_id": 366205,
+      "game_name": "Cellscape",
+      "file": "missing/C/366205-cellscape.json"
+    },
+    {
       "igdb_id": 183879,
       "game_name": "CellTD",
       "file": "missing/C/183879-celltd.json"
@@ -207302,6 +207347,11 @@
       "file": "missing/C/18508-claim-jumper.json"
     },
     {
+      "igdb_id": 366209,
+      "game_name": "Claim the Forest",
+      "file": "missing/C/366209-claim-the-forest.json"
+    },
+    {
       "igdb_id": 399618,
       "game_name": "Claim the Forest: Settling Peace",
       "file": "missing/C/399618-claim-the-forest-settling-peace.json"
@@ -210462,6 +210512,11 @@
       "file": "missing/C/175746-climb-jump.json"
     },
     {
+      "igdb_id": 366208,
+      "game_name": "Climb Jump Obby Tower",
+      "file": "missing/C/366208-climb-jump-obby-tower.json"
+    },
+    {
       "igdb_id": 244640,
       "game_name": "Climb New York Parkour VR",
       "file": "missing/C/244640-climb-new-york-parkour-vr.json"
@@ -213165,6 +213220,11 @@
       "igdb_id": 347721,
       "game_name": "Coastal Kitchen Simulator",
       "file": "missing/C/347721-coastal-kitchen-simulator.json"
+    },
+    {
+      "igdb_id": 366176,
+      "game_name": "Coastal Postal",
+      "file": "missing/C/366176-coastal-postal.json"
     },
     {
       "igdb_id": 325038,
@@ -292657,6 +292717,11 @@
       "file": "missing/D/100749-digits-jigsaw-puzzle-numbers-and-operations.json"
     },
     {
+      "igdb_id": 366276,
+      "game_name": "Digitum",
+      "file": "missing/D/366276-digitum.json"
+    },
+    {
       "igdb_id": 101766,
       "game_name": "Digitwars - The Grigits",
       "file": "missing/D/101766-digitwars-the-grigits.json"
@@ -314017,6 +314082,11 @@
       "file": "missing/D/386282-draft-day-sports-college-football-2025.json"
     },
     {
+      "igdb_id": 366273,
+      "game_name": "Draft Day Sports: College Football 2026",
+      "file": "missing/D/366273-draft-day-sports-college-football-2026.json"
+    },
+    {
       "igdb_id": 58891,
       "game_name": "Draft Day Sports: Pro Basketball 2016",
       "file": "missing/D/58891-draft-day-sports-pro-basketball-2016.json"
@@ -330987,6 +331057,11 @@
       "file": "missing/D/388132-dungeonos.json"
     },
     {
+      "igdb_id": 366275,
+      "game_name": "Dungeonought",
+      "file": "missing/D/366275-dungeonought.json"
+    },
+    {
       "igdb_id": 274033,
       "game_name": "Dungeonpreneur",
       "file": "missing/D/274033-dungeonpreneur.json"
@@ -335325,6 +335400,11 @@
       "igdb_id": 373186,
       "game_name": "Eagle Legacy: Zero",
       "file": "missing/E/373186-eagle-legacy-zero.json"
+    },
+    {
+      "igdb_id": 366190,
+      "game_name": "Eagle n Chicken",
+      "file": "missing/E/366190-eagle-n-chicken.json"
     },
     {
       "igdb_id": 367837,
@@ -366910,6 +366990,11 @@
       "igdb_id": 370660,
       "game_name": "Exorcist: Oldest Tongue",
       "file": "missing/E/370660-exorcist-oldest-tongue.json"
+    },
+    {
+      "igdb_id": 366207,
+      "game_name": "Exorcist: Survival Horror",
+      "file": "missing/E/366207-exorcist-survival-horror.json"
     },
     {
       "igdb_id": 258537,
@@ -404687,6 +404772,11 @@
       "file": "missing/F/274980-fluffy-doki-sunshine.json"
     },
     {
+      "igdb_id": 366178,
+      "game_name": "Fluffy Escape: Cryptic Cube",
+      "file": "missing/F/366178-fluffy-escape-cryptic-cube.json"
+    },
+    {
       "igdb_id": 87172,
       "game_name": "Fluffy Fall",
       "file": "missing/F/87172-fluffy-fall.json"
@@ -412307,6 +412397,11 @@
       "file": "missing/F/369070-fortnite-festival-cheguei.json"
     },
     {
+      "igdb_id": 366199,
+      "game_name": "Fortnite Festival: Clint Eastwood",
+      "file": "missing/F/366199-fortnite-festival-clint-eastwood.json"
+    },
+    {
       "igdb_id": 371635,
       "game_name": "Fortnite Festival: Closer",
       "file": "missing/F/371635-fortnite-festival-closer.json"
@@ -412350,6 +412445,11 @@
       "igdb_id": 367589,
       "game_name": "Fortnite Festival: Fade to Black",
       "file": "missing/F/367589-fortnite-festival-fade-to-black.json"
+    },
+    {
+      "igdb_id": 366198,
+      "game_name": "Fortnite Festival: Feel Good Inc",
+      "file": "missing/F/366198-fortnite-festival-feel-good-inc.json"
     },
     {
       "igdb_id": 371639,
@@ -412407,14 +412507,29 @@
       "file": "missing/F/370570-fortnite-festival-instant-crush.json"
     },
     {
+      "igdb_id": 366196,
+      "game_name": "Fortnite Festival: Lean Back",
+      "file": "missing/F/366196-fortnite-festival-lean-back.json"
+    },
+    {
       "igdb_id": 366402,
       "game_name": "Fortnite Festival: Locked & Loaded",
       "file": "missing/F/366402-fortnite-festival-locked-and-loaded.json"
     },
     {
+      "igdb_id": 366200,
+      "game_name": "Fortnite Festival: Lux Æterna",
+      "file": "missing/F/366200-fortnite-festival-lux-terna.json"
+    },
+    {
       "igdb_id": 369075,
       "game_name": "Fortnite Festival: Mambo No. 5 (A Little Bit of...)",
       "file": "missing/F/369075-fortnite-festival-mambo-no-5-a-little-bit-of.json"
+    },
+    {
+      "igdb_id": 366197,
+      "game_name": "Fortnite Festival: Master of Puppets",
+      "file": "missing/F/366197-fortnite-festival-master-of-puppets.json"
     },
     {
       "igdb_id": 372796,
@@ -412435,6 +412550,11 @@
       "igdb_id": 367586,
       "game_name": "Fortnite Festival: Mr. Brightside",
       "file": "missing/F/367586-fortnite-festival-mr-brightside.json"
+    },
+    {
+      "igdb_id": 366195,
+      "game_name": "Fortnite Festival: Never Back Down",
+      "file": "missing/F/366195-fortnite-festival-never-back-down.json"
     },
     {
       "igdb_id": 366807,
@@ -412460,6 +412580,11 @@
       "igdb_id": 372795,
       "game_name": "Fortnite Festival: Paint The Town Red",
       "file": "missing/F/372795-fortnite-festival-paint-the-town-red.json"
+    },
+    {
+      "igdb_id": 366201,
+      "game_name": "Fortnite Festival: Positions",
+      "file": "missing/F/366201-fortnite-festival-positions.json"
     },
     {
       "igdb_id": 372802,
@@ -432647,6 +432772,11 @@
       "file": "missing/G/279493-gallery-night-shift.json"
     },
     {
+      "igdb_id": 366177,
+      "game_name": "Gallery of Night Order",
+      "file": "missing/G/366177-gallery-of-night-order.json"
+    },
+    {
       "igdb_id": 376055,
       "game_name": "Gallery of Shadows: Lycans Returns",
       "file": "missing/G/376055-gallery-of-shadows-lycans-returns.json"
@@ -435750,6 +435880,11 @@
       "igdb_id": 214058,
       "game_name": "Garden Affairs",
       "file": "missing/G/214058-garden-affairs.json"
+    },
+    {
+      "igdb_id": 366277,
+      "game_name": "Garden and a Goat",
+      "file": "missing/G/366277-garden-and-a-goat.json"
     },
     {
       "igdb_id": 354974,
@@ -447990,6 +448125,11 @@
       "igdb_id": 121469,
       "game_name": "Gladom: The 2D MOBA in Pixel Art",
       "file": "missing/G/121469-gladom-the-2d-moba-in-pixel-art.json"
+    },
+    {
+      "igdb_id": 366181,
+      "game_name": "Gladston Valley",
+      "file": "missing/G/366181-gladston-valley.json"
     },
     {
       "igdb_id": 266765,
@@ -572752,6 +572892,11 @@
       "file": "missing/J/185887-jumpstart-spy-masters-unmask-the-prankster.json"
     },
     {
+      "igdb_id": 366185,
+      "game_name": "JumpStart Study Helpers Math Booster",
+      "file": "missing/J/366185-jumpstart-study-helpers-math-booster.json"
+    },
+    {
       "igdb_id": 129111,
       "game_name": "JumpStart Toddlers",
       "file": "missing/J/129111-jumpstart-toddlers.json"
@@ -585890,6 +586035,11 @@
       "igdb_id": 270782,
       "game_name": "Kijin-mura no Kiken na Inshuu: Dangerous Village Tradition",
       "file": "missing/K/270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json"
+    },
+    {
+      "igdb_id": 366180,
+      "game_name": "Kikai",
+      "file": "missing/K/366180-kikai.json"
     },
     {
       "igdb_id": 366021,
@@ -639057,6 +639207,11 @@
       "file": "missing/L/198109-love-live-heardle.json"
     },
     {
+      "igdb_id": 366175,
+      "game_name": "Love Live: After School Ends",
+      "file": "missing/L/366175-love-live-after-school-ends.json"
+    },
+    {
       "igdb_id": 282695,
       "game_name": "Love Live! Nijigasaki High School Idol Club: Tokimeki Roadmap to the Future",
       "file": "missing/L/282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json"
@@ -649855,6 +650010,11 @@
       "igdb_id": 317579,
       "game_name": "Magic Garden",
       "file": "missing/M/317579-magic-garden.json"
+    },
+    {
+      "igdb_id": 366179,
+      "game_name": "Magic Garden",
+      "file": "missing/M/366179-magic-garden.json"
     },
     {
       "igdb_id": 315471,
@@ -670790,6 +670950,11 @@
       "igdb_id": 301093,
       "game_name": "Mayonaka 10 Chome",
       "file": "missing/M/301093-mayonaka-10-chome.json"
+    },
+    {
+      "igdb_id": 366278,
+      "game_name": "Mayonaka Mayoi Ga",
+      "file": "missing/M/366278-mayonaka-mayoi-ga.json"
     },
     {
       "igdb_id": 233934,
@@ -741242,6 +741407,11 @@
       "file": "missing/N/38210-natsuki-crisis-battle.json"
     },
     {
+      "igdb_id": 366182,
+      "game_name": "Natsumatsuri",
+      "file": "missing/N/366182-natsumatsuri.json"
+    },
+    {
       "igdb_id": 42483,
       "game_name": "Natsume Championship Wrestling",
       "file": "missing/N/42483-natsume-championship-wrestling.json"
@@ -751560,6 +751730,11 @@
       "igdb_id": 189077,
       "game_name": "New Terra",
       "file": "missing/N/189077-new-terra.json"
+    },
+    {
+      "igdb_id": 366166,
+      "game_name": "New Times",
+      "file": "missing/N/366166-new-times.json"
     },
     {
       "igdb_id": 216989,
@@ -764625,6 +764800,11 @@
       "igdb_id": 156874,
       "game_name": "Nonsense Soccer",
       "file": "missing/N/156874-nonsense-soccer.json"
+    },
+    {
+      "igdb_id": 366281,
+      "game_name": "Nonsolar",
+      "file": "missing/N/366281-nonsolar.json"
     },
     {
       "igdb_id": 188427,
@@ -864977,6 +865157,11 @@
       "file": "missing/P/88059-psych-outwit-your-friends.json"
     },
     {
+      "igdb_id": 366334,
+      "game_name": "Psychdive.",
+      "file": "missing/P/366334-psychdive.json"
+    },
+    {
       "igdb_id": 141070,
       "game_name": "Psyche Metal: The Bleeding",
       "file": "missing/P/141070-psyche-metal-the-bleeding.json"
@@ -890417,6 +890602,11 @@
       "file": "missing/R/245415-reader-rabbit-beginner-addition.json"
     },
     {
+      "igdb_id": 366183,
+      "game_name": "Reader Rabbit: I Can Read With Phonics",
+      "file": "missing/R/366183-reader-rabbit-i-can-read-with-phonics.json"
+    },
+    {
       "igdb_id": 138102,
       "game_name": "Reader Rabbit: Kindergarten",
       "file": "missing/R/138102-reader-rabbit-kindergarten.json"
@@ -914707,6 +914897,11 @@
       "file": "missing/R/129525-roads-of-time.json"
     },
     {
+      "igdb_id": 366165,
+      "game_name": "Roads to the Red Night",
+      "file": "missing/R/366165-roads-to-the-red-night.json"
+    },
+    {
       "igdb_id": 359048,
       "game_name": "Roads Yet Traveled",
       "file": "missing/R/359048-roads-yet-traveled.json"
@@ -917417,14 +917612,44 @@
       "file": "missing/R/82460-rock-band-4-30-song-mega-pack.json"
     },
     {
+      "igdb_id": 366186,
+      "game_name": "Rock Band 4: 4th Anniversary Free DLC Pack",
+      "file": "missing/R/366186-rock-band-4-4th-anniversary-free-dlc-pack.json"
+    },
+    {
+      "igdb_id": 366188,
+      "game_name": "Rock Band 4: 5th Anniversary Free DLC Pack",
+      "file": "missing/R/366188-rock-band-4-5th-anniversary-free-dlc-pack.json"
+    },
+    {
       "igdb_id": 365736,
       "game_name": "Rock Band 4: 6th Anniversary Free DLC Pack",
       "file": "missing/R/365736-rock-band-4-6th-anniversary-free-dlc-pack.json"
     },
     {
+      "igdb_id": 366193,
+      "game_name": "Rock Band 4: 7th Anniversary Free DLC Pack",
+      "file": "missing/R/366193-rock-band-4-7th-anniversary-free-dlc-pack.json"
+    },
+    {
+      "igdb_id": 366187,
+      "game_name": "Rock Band 4: 8th Anniversary Free DLC Pack",
+      "file": "missing/R/366187-rock-band-4-8th-anniversary-free-dlc-pack.json"
+    },
+    {
       "igdb_id": 366816,
       "game_name": "Rock Band 4: Any Other Heart",
       "file": "missing/R/366816-rock-band-4-any-other-heart.json"
+    },
+    {
+      "igdb_id": 366192,
+      "game_name": "Rock Band 4: Bang!",
+      "file": "missing/R/366192-rock-band-4-bang.json"
+    },
+    {
+      "igdb_id": 366194,
+      "game_name": "Rock Band 4: Discover ReverbNation & Firefly Music Festival",
+      "file": "missing/R/366194-rock-band-4-discover-reverbnation-and-firefly-music-festival.json"
     },
     {
       "igdb_id": 82421,
@@ -917435,6 +917660,11 @@
       "igdb_id": 175664,
       "game_name": "Rock Band 4: Rivals Expansion",
       "file": "missing/R/175664-rock-band-4-rivals-expansion.json"
+    },
+    {
+      "igdb_id": 366191,
+      "game_name": "Rock Band 4: The Final Countdown",
+      "file": "missing/R/366191-rock-band-4-the-final-countdown.json"
     },
     {
       "igdb_id": 371863,
@@ -1022935,6 +1023165,11 @@
       "igdb_id": 73001,
       "game_name": "Spider-Man & Friends: Secret Missions",
       "file": "missing/S/73001-spider-man-and-friends-secret-missions.json"
+    },
+    {
+      "igdb_id": 366204,
+      "game_name": "Spider-Man & Friends: Where is Hulk?",
+      "file": "missing/S/366204-spider-man-and-friends-where-is-hulk.json"
     },
     {
       "igdb_id": 200980,
@@ -1143760,6 +1143995,11 @@
       "igdb_id": 295385,
       "game_name": "The Night Guard",
       "file": "missing/T/295385-the-night-guard.json"
+    },
+    {
+      "igdb_id": 366333,
+      "game_name": "The Night Gym",
+      "file": "missing/T/366333-the-night-gym.json"
     },
     {
       "igdb_id": 174573,
@@ -1282472,6 +1282712,11 @@
       "file": "missing/W/43732-winnie-the-pooh-kindergarten.json"
     },
     {
+      "igdb_id": 366203,
+      "game_name": "Winnie the Pooh: Piglet's Special Day",
+      "file": "missing/W/366203-winnie-the-pooh-piglets-special-day.json"
+    },
+    {
       "igdb_id": 43731,
       "game_name": "Winnie the Pooh: Preschool",
       "file": "missing/W/43731-winnie-the-pooh-preschool.json"
@@ -1302605,6 +1302850,11 @@
       "igdb_id": 366026,
       "game_name": "Yakouga 8",
       "file": "missing/Y/366026-yakouga-8.json"
+    },
+    {
+      "igdb_id": 366206,
+      "game_name": "Yakouga 9",
+      "file": "missing/Y/366206-yakouga-9.json"
     },
     {
       "igdb_id": 386326,
