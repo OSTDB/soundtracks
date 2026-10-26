@@ -6661,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillshade Farm | 345426 | [345426-hillshade-farm.json](./345426-hillshade-farm.json) |
 | Hillside | 156565 | [156565-hillside.json](./156565-hillside.json) |
 | Hillslide | 291015 | [291015-hillslide.json](./291015-hillslide.json) |
+| Hillthorn | 343166 | [343166-hillthorn.json](./343166-hillthorn.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Hilm | 242941 | [242941-hilm.json](./242941-hilm.json) |
 | Hilomi | 116441 | [116441-hilomi.json](./116441-hilomi.json) |
