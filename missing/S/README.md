@@ -13989,6 +13989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnium Space | 107400 | [107400-somnium-space.json](./107400-somnium-space.json) |
 | Somnium Space VR | 137636 | [137636-somnium-space-vr.json](./137636-somnium-space-vr.json) |
 | Somnium Tenebris | 301421 | [301421-somnium-tenebris.json](./301421-somnium-tenebris.json) |
+| Somnium: Awaken | 379850 | [379850-somnium-awaken.json](./379850-somnium-awaken.json) |
 | Somnius | 416579 | [416579-somnius.json](./416579-somnius.json) |
 | Somnography | 172769 | [172769-somnography.json](./172769-somnography.json) |
 | Somnokid | 201114 | [201114-somnokid.json](./201114-somnokid.json) |
@@ -15251,6 +15252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Dance Party | 141522 | [141522-soul-dance-party.json](./141522-soul-dance-party.json) |
 | Soul Delivery | 167591 | [167591-soul-delivery.json](./167591-soul-delivery.json) |
 | Soul Demon Hunters | 371977 | [371977-soul-demon-hunters.json](./371977-soul-demon-hunters.json) |
+| Soul Descent: Invade of Ether | 379856 | [379856-soul-descent-invade-of-ether.json](./379856-soul-descent-invade-of-ether.json) |
 | Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
 | Soul device | 278365 | [278365-soul-device.json](./278365-soul-device.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
@@ -23762,6 +23764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
 | Studio 100 Speeleiland | 130913 | [130913-studio-100-speeleiland.json](./130913-studio-100-speeleiland.json) |
 | Studio P | 386518 | [386518-studio-p.json](./386518-studio-p.json) |
+| Studio Scream: Verse One | 379915 | [379915-studio-scream-verse-one.json](./379915-studio-scream-verse-one.json) |
 | Studio Sim: The Painting Game | 410942 | [410942-studio-sim-the-painting-game.json](./410942-studio-sim-the-painting-game.json) |
 | Studio System: Guardian Angel | 226610 | [226610-studio-system-guardian-angel.json](./226610-studio-system-guardian-angel.json) |
 | StudioS Fighters: Climax Champions | 204857 | [204857-studios-fighters-climax-champions.json](./204857-studios-fighters-climax-champions.json) |
@@ -29434,6 +29437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Shandar | 384914 | [384914-sword-of-shandar.json](./384914-sword-of-shandar.json) |
 | Sword of Shushan | 158088 | [158088-sword-of-shushan.json](./158088-sword-of-shushan.json) |
 | Sword of Sia: Lady Sia 2 | 207006 | [207006-sword-of-sia-lady-sia-2.json](./207006-sword-of-sia-lady-sia-2.json) |
+| Sword of Ten Thousand Blades | 379846 | [379846-sword-of-ten-thousand-blades.json](./379846-sword-of-ten-thousand-blades.json) |
 | Sword of the Apocalypse | 389413 | [389413-sword-of-the-apocalypse.json](./389413-sword-of-the-apocalypse.json) |
 | Sword of the Berserk: Guts' Rage | 28840 | [28840-sword-of-the-berserk-guts-rage.json](./28840-sword-of-the-berserk-guts-rage.json) |
 | Sword of the Dimacreation | 109191 | [109191-sword-of-the-dimacreation.json](./109191-sword-of-the-dimacreation.json) |
