@@ -5887,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake | 343962 | [343962-shake.json](./343962-shake.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
 | Shake | 399840 | [399840-shake.json](./399840-shake.json) |
+| Shake Cubes | 386205 | [386205-shake-cubes.json](./386205-shake-cubes.json) |
 | Shake Ground | 202659 | [202659-shake-ground.json](./202659-shake-ground.json) |
 | Shake it up! Dice | 228296 | [228296-shake-it-up-dice.json](./228296-shake-it-up-dice.json) |
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
@@ -20584,6 +20585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
 | Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
+| Stardust: Wish of Witch | 386172 | [386172-stardust-wish-of-witch.json](./386172-stardust-wish-of-witch.json) |
 | Stare : Block Breaker | 122023 | [122023-stare-block-breaker.json](./122023-stare-block-breaker.json) |
 | Starecrown | 291818 | [291818-starecrown.json](./291818-starecrown.json) |
 | Starena | 84063 | [84063-starena.json](./84063-starena.json) |
@@ -27782,8 +27784,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
 | SuperLite 2000: Othello | 54938 | [54938-superlite-2000-othello.json](./54938-superlite-2000-othello.json) |
 | SuperLite 2000: Tokyo Bus Annai Kyou kara Kimi mo Untenshu | 56547 | [56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json](./56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json) |
+| SuperLite 3in1 Series: Card Game Shuu | 386169 | [386169-superlite-3in1-series-card-game-shuu.json](./386169-superlite-3in1-series-card-game-shuu.json) |
+| SuperLite 3in1 Series: Crossword Shuu | 386203 | [386203-superlite-3in1-series-crossword-shuu.json](./386203-superlite-3in1-series-crossword-shuu.json) |
+| SuperLite 3in1 Series: Game Shuu | 386167 | [386167-superlite-3in1-series-game-shuu.json](./386167-superlite-3in1-series-game-shuu.json) |
 | SuperLite 3in1 Series: Nankuro Shuu | 386217 | [386217-superlite-3in1-series-nankuro-shuu.json](./386217-superlite-3in1-series-nankuro-shuu.json) |
+| SuperLite 3in1 Series: Oekaki Puzzle Shuu | 386096 | [386096-superlite-3in1-series-oekaki-puzzle-shuu.json](./386096-superlite-3in1-series-oekaki-puzzle-shuu.json) |
+| SuperLite 3in1 Series: Quiz Shuu | 386095 | [386095-superlite-3in1-series-quiz-shuu.json](./386095-superlite-3in1-series-quiz-shuu.json) |
 | SuperLite 3in1 series: Sudoku Shuu | 63163 | [63163-superlite-3in1-series-sudoku-shuu.json](./63163-superlite-3in1-series-sudoku-shuu.json) |
+| SuperLite 3in1 Series: Tsuri shuu | 386171 | [386171-superlite-3in1-series-tsuri-shuu.json](./386171-superlite-3in1-series-tsuri-shuu.json) |
 | SuperLite 3in1: Arcade Game Shuu | 97299 | [97299-superlite-3in1-arcade-game-shuu.json](./97299-superlite-3in1-arcade-game-shuu.json) |
 | Superluminal Vagrant Twin | 54961 | [54961-superluminal-vagrant-twin.json](./54961-superluminal-vagrant-twin.json) |
 | Superluminal: A Universe Sandbox | 107032 | [107032-superluminal-a-universe-sandbox.json](./107032-superluminal-a-universe-sandbox.json) |
