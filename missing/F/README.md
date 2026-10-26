@@ -3718,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifth Phantom Saga | 67827 | [67827-fifth-phantom-saga.json](./67827-fifth-phantom-saga.json) |
 | Fifth World | 272769 | [272769-fifth-world.json](./272769-fifth-world.json) |
 | Fifty Words by Powgi | 123311 | [123311-fifty-words-by-powgi.json](./123311-fifty-words-by-powgi.json) |
+| Fig and Totems | 386093 | [386093-fig-and-totems.json](./386093-fig-and-totems.json) |
 | Fig: The Game for Depression | 395113 | [395113-fig-the-game-for-depression.json](./395113-fig-the-game-for-depression.json) |
 | Figaro | 364631 | [364631-figaro.json](./364631-figaro.json) |
 | Figgerits | 214333 | [214333-figgerits.json](./214333-figgerits.json) |
@@ -4499,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats 6 | 390037 | [390037-find-cats-6.json](./390037-find-cats-6.json) |
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
+| Find Difference | 386186 | [386186-find-difference.json](./386186-find-difference.json) |
 | Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
 | Find Differences Stewardess | 95324 | [95324-find-differences-stewardess.json](./95324-find-differences-stewardess.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
@@ -11080,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Cargo Simulator | 348407 | [348407-funny-cargo-simulator.json](./348407-funny-cargo-simulator.json) |
+| Funny Cats Puzzle | 386187 | [386187-funny-cats-puzzle.json](./386187-funny-cats-puzzle.json) |
 | Funny Face | 94595 | [94595-funny-face.json](./94595-funny-face.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
 | Funny Faces | 93209 | [93209-funny-faces.json](./93209-funny-faces.json) |
