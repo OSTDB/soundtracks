@@ -7458,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | Hollowbody | 215682 | [215682-hollowbody.json](./215682-hollowbody.json) |
 | Hollowbrook: Apartments | 372181 | [372181-hollowbrook-apartments.json](./372181-hollowbrook-apartments.json) |
+| Hollowdeep | 344861 | [344861-hollowdeep.json](./344861-hollowdeep.json) |
 | Hollowed | 68568 | [68568-hollowed.json](./68568-hollowed.json) |
 | Hollowed Oath | 400395 | [400395-hollowed-oath.json](./400395-hollowed-oath.json) |
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
@@ -8449,6 +8450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Cliche | 412115 | [412115-horror-cliche.json](./412115-horror-cliche.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
 | Horror em Amityville | 246249 | [246249-horror-em-amityville.json](./246249-horror-em-amityville.json) |
+| Horror Fan House | 344859 | [344859-horror-fan-house.json](./344859-horror-fan-house.json) |
 | Horror Fun | 214666 | [214666-horror-fun.json](./214666-horror-fun.json) |
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
@@ -9679,6 +9681,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Retro Mania | 64498 | [64498-hugo-retro-mania.json](./64498-hugo-retro-mania.json) |
 | Hugo: Smakkaball | 210614 | [210614-hugo-smakkaball.json](./210614-hugo-smakkaball.json) |
 | Hugo: The Bewitched Rollercoaster | 286609 | [286609-hugo-the-bewitched-rollercoaster.json](./286609-hugo-the-bewitched-rollercoaster.json) |
+| Hugo: The Evil Mirror | 345154 | [345154-hugo-the-evil-mirror.json](./345154-hugo-the-evil-mirror.json) |
+| Hugo: The Evil Mirror | 345155 | [345155-hugo-the-evil-mirror.json](./345155-hugo-the-evil-mirror.json) |
 | Hugo: The Evil Mirror | 6438 | [6438-hugo-the-evil-mirror.json](./6438-hugo-the-evil-mirror.json) |
 | Hugo: The Forces of Nature | 15538 | [15538-hugo-the-forces-of-nature.json](./15538-hugo-the-forces-of-nature.json) |
 | Hugo: The Magic Journey | 135561 | [135561-hugo-the-magic-journey.json](./135561-hugo-the-magic-journey.json) |
@@ -10198,6 +10202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurricane Heroes | 369684 | [369684-hurricane-heroes.json](./369684-hurricane-heroes.json) |
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
 | Hurry | 287526 | [287526-hurry.json](./287526-hurry.json) |
+| Hurry Fox | 344865 | [344865-hurry-fox.json](./344865-hurry-fox.json) |
 | Hurry Gaery! | 338679 | [338679-hurry-gaery.json](./338679-hurry-gaery.json) |
 | Hurry Hurry Heal Me | 185465 | [185465-hurry-hurry-heal-me.json](./185465-hurry-hurry-heal-me.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
