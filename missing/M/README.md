@@ -10173,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | Minder | 41752 | [41752-minder.json](./41752-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
+| Mindfall | 348142 | [348142-mindfall.json](./348142-mindfall.json) |
 | MindFall | 314360 | [314360-mindfall.json](./314360-mindfall.json) |
 | Mindfate | 319064 | [319064-mindfate.json](./319064-mindfate.json) |
 | Mindfighter | 12684 | [12684-mindfighter.json](./12684-mindfighter.json) |
@@ -15979,6 +15980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multimind | 322244 | [322244-multimind.json](./322244-multimind.json) |
 | MultiMino 2: Polyform | 337569 | [337569-multimino-2-polyform.json](./337569-multimino-2-polyform.json) |
 | Multimirror | 31090 | [31090-multimirror.json](./31090-multimirror.json) |
+| MultiPlanetary | 348137 | [348137-multiplanetary.json](./348137-multiplanetary.json) |
 | Multiplayer BattleTech: 3025 | 284781 | [284781-multiplayer-battletech-3025.json](./284781-multiplayer-battletech-3025.json) |
 | Multiplayer Bots | 275848 | [275848-multiplayer-bots.json](./275848-multiplayer-bots.json) |
 | Multiplayer Citizens | 384206 | [384206-multiplayer-citizens.json](./384206-multiplayer-citizens.json) |
@@ -17280,6 +17282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lady Sayo: Zettai Kunshu! Sayo-sama | 196175 | [196175-my-lady-sayo-zettai-kunshu-sayo-sama.json](./196175-my-lady-sayo-zettai-kunshu-sayo-sama.json) |
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
 | My Landlord Is a Sadistic MILF | 418857 | [418857-my-landlord-is-a-sadistic-milf.json](./418857-my-landlord-is-a-sadistic-milf.json) |
+| My Last 20 | 348144 | [348144-my-last-20.json](./348144-my-last-20.json) |
 | My Last First Kiss | 186572 | [186572-my-last-first-kiss.json](./186572-my-last-first-kiss.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
 | My Last Friend | 134911 | [134911-my-last-friend.json](./134911-my-last-friend.json) |
