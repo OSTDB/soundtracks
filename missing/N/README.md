@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Street Vol. 2 | 4036 | [4036-nba-street-vol-2.json](./4036-nba-street-vol-2.json) |
 | NBA Supercard | 142270 | [142270-nba-supercard.json](./142270-nba-supercard.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
+| NBA The Run | 375887 | [375887-nba-the-run.json](./375887-nba-the-run.json) |
 | NBA Unrivaled | 47428 | [47428-nba-unrivaled.json](./47428-nba-unrivaled.json) |
 | NBA: King of the Court | 65509 | [65509-nba-king-of-the-court.json](./65509-nba-king-of-the-court.json) |
 | Nbb.Exe | 297153 | [297153-nbb-exe.json](./297153-nbb-exe.json) |
