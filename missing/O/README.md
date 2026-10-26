@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis Games VR Fun Pack | 108862 | [108862-oasis-games-vr-fun-pack.json](./108862-oasis-games-vr-fun-pack.json) |
 | Oasis Invasion | 380648 | [380648-oasis-invasion.json](./380648-oasis-invasion.json) |
 | Oasis Mission: Colony Sim | 274349 | [274349-oasis-mission-colony-sim.json](./274349-oasis-mission-colony-sim.json) |
+| Oasis Obby Parkour | 378824 | [378824-oasis-obby-parkour.json](./378824-oasis-obby-parkour.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
 | Oasis Shooting Ops | 120579 | [120579-oasis-shooting-ops.json](./120579-oasis-shooting-ops.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
@@ -2142,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Kaido Edition | 136137 | [136137-one-piece-pirate-warriors-4-kaido-edition.json](./136137-one-piece-pirate-warriors-4-kaido-edition.json) |
 | One Piece: Pirate Warriors 4 - Koby's Combat Chronicle & Soul Map 2 | 282462 | [282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json](./282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json) |
 | One Piece: Pirate Warriors 4 - Legend Dawn Pack | 294853 | [294853-one-piece-pirate-warriors-4-legend-dawn-pack.json](./294853-one-piece-pirate-warriors-4-legend-dawn-pack.json) |
+| One Piece: Pirate Warriors 4 - Legendary Edition | 378857 | [378857-one-piece-pirate-warriors-4-legendary-edition.json](./378857-one-piece-pirate-warriors-4-legendary-edition.json) |
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Anime Song Pack | 291058 | [291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json](./291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json) |
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Pack | 283182 | [283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json](./283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json) |
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
@@ -4969,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OzTales Pikeman | 164899 | [164899-oztales-pikeman.json](./164899-oztales-pikeman.json) |
 | Oztrich: An Adventure | 235829 | [235829-oztrich-an-adventure.json](./235829-oztrich-an-adventure.json) |
 | Ozymandias: Aegean Sea | 235986 | [235986-ozymandias-aegean-sea.json](./235986-ozymandias-aegean-sea.json) |
+| Ozymandias: Complete Edition | 378858 | [378858-ozymandias-complete-edition.json](./378858-ozymandias-complete-edition.json) |
 | Ozymandias: Deluxe Edition | 259524 | [259524-ozymandias-deluxe-edition.json](./259524-ozymandias-deluxe-edition.json) |
 | Ozymandias: Mesoamerica | 232436 | [232436-ozymandias-mesoamerica.json](./232436-ozymandias-mesoamerica.json) |
 | Ozymandias: The Andes | 236800 | [236800-ozymandias-the-andes.json](./236800-ozymandias-the-andes.json) |
