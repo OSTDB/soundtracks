@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkside | 60515 | [60515-darkside.json](./60515-darkside.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
 | Darkside Adventures: A Game with a Kitty 2 | 313564 | [313564-darkside-adventures-a-game-with-a-kitty-2.json](./313564-darkside-adventures-a-game-with-a-kitty-2.json) |
+| Darksiders 4 | 358770 | [358770-darksiders-4.json](./358770-darksiders-4.json) |
 | Darksiders Genesis | 119244 | [119244-darksiders-genesis.json](./119244-darksiders-genesis.json) |
 | Darksiders II: Argul's Tomb | 135000 | [135000-darksiders-ii-arguls-tomb.json](./135000-darksiders-ii-arguls-tomb.json) |
 | Darksiders II: Deathinitive Edition | 20048 | [20048-darksiders-ii-deathinitive-edition.json](./20048-darksiders-ii-deathinitive-edition.json) |
@@ -4068,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay | 189966 | [189966-decay.json](./189966-decay.json) |
 | Decay | 254575 | [254575-decay.json](./254575-decay.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
+| Decay in Crevice | 358621 | [358621-decay-in-crevice.json](./358621-decay-in-crevice.json) |
 | Decay of Logos | 56510 | [56510-decay-of-logos.json](./56510-decay-of-logos.json) |
 | Decay of Opulence | 318128 | [318128-decay-of-opulence.json](./318128-decay-of-opulence.json) |
 | Decay of Worlds | 373832 | [373832-decay-of-worlds.json](./373832-decay-of-worlds.json) |
