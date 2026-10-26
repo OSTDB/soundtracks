@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1467,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloony's Adventure | 194377 | [194377-balloonys-adventure.json](./194377-balloonys-adventure.json) |
 | Ballot Barrage | 110208 | [110208-ballot-barrage.json](./110208-ballot-barrage.json) |
 | BallotGuessr | 394453 | [394453-ballotguessr.json](./394453-ballotguessr.json) |
+| Ballotoro | 349769 | [349769-ballotoro.json](./349769-ballotoro.json) |
 | Ballotron | 192297 | [192297-ballotron.json](./192297-ballotron.json) |
 | Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
 | Ballpark | 24749 | [24749-ballpark.json](./24749-ballpark.json) |
@@ -10432,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku wa Chiisai | 210919 | [210919-boku-wa-chiisai.json](./210919-boku-wa-chiisai.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D - Kankuu All Stars | 222426 | [222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json](./222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
+| Boku wo Sodatete! Nyanda Seijin | 349733 | [349733-boku-wo-sodatete-nyanda-seijin.json](./349733-boku-wo-sodatete-nyanda-seijin.json) |
 | Boku, Doraemon | 66134 | [66134-boku-doraemon.json](./66134-boku-doraemon.json) |
 | Bokuaso | 98005 | [98005-bokuaso.json](./98005-bokuaso.json) |
 | Bokuaso2 | 97826 | [97826-bokuaso2.json](./97826-bokuaso2.json) |
