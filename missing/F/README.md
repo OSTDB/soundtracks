@@ -2548,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
 | Fastlane Pinball | 73889 | [73889-fastlane-pinball.json](./73889-fastlane-pinball.json) |
 | FastLane Street Racer | 262466 | [262466-fastlane-street-racer.json](./262466-fastlane-street-racer.json) |
+| Fastlife | 383445 | [383445-fastlife.json](./383445-fastlife.json) |
 | Fastone Pyramid | 388297 | [388297-fastone-pyramid.json](./388297-fastone-pyramid.json) |
 | Fastraq | 223416 | [223416-fastraq.json](./223416-fastraq.json) |
 | Fastro Dude | 365234 | [365234-fastro-dude.json](./365234-fastro-dude.json) |
@@ -6158,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Diving | 290609 | [290609-flash-diving.json](./290609-flash-diving.json) |
 | Flash Doll | 326178 | [326178-flash-doll.json](./326178-flash-doll.json) |
 | Flash Element TD | 387290 | [387290-flash-element-td.json](./387290-flash-element-td.json) |
+| Flash Empires | 383472 | [383472-flash-empires.json](./383472-flash-empires.json) |
 | Flash Flash Revolution | 62802 | [62802-flash-flash-revolution.json](./62802-flash-flash-revolution.json) |
 | Flash Flood | 94405 | [94405-flash-flood.json](./94405-flash-flood.json) |
 | Flash Focus: Vision Training in Minutes a Day | 21912 | [21912-flash-focus-vision-training-in-minutes-a-day.json](./21912-flash-focus-vision-training-in-minutes-a-day.json) |
@@ -6532,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip n Fry | 181619 | [181619-flip-n-fry.json](./181619-flip-n-fry.json) |
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
 | Flip or Fade: The Bottle Flip | 383754 | [383754-flip-or-fade-the-bottle-flip.json](./383754-flip-or-fade-the-bottle-flip.json) |
+| Flip or Flop | 383443 | [383443-flip-or-flop.json](./383443-flip-or-flop.json) |
 | Flip or Flop: Home Edition | 209453 | [209453-flip-or-flop-home-edition.json](./209453-flip-or-flop-home-edition.json) |
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
 | Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
@@ -8148,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forging History Saga: The big bang | 182842 | [182842-forging-history-saga-the-big-bang.json](./182842-forging-history-saga-the-big-bang.json) |
 | Forgive Me Father | 165479 | [165479-forgive-me-father.json](./165479-forgive-me-father.json) |
 | Forgive Me Father 2 | 244784 | [244784-forgive-me-father-2.json](./244784-forgive-me-father-2.json) |
+| Forgive Me Father 2: Deluxe Edition | 383427 | [383427-forgive-me-father-2-deluxe-edition.json](./383427-forgive-me-father-2-deluxe-edition.json) |
 | Forgive Me My Henchmen | 106097 | [106097-forgive-me-my-henchmen.json](./106097-forgive-me-my-henchmen.json) |
 | Forgive Me My Love | 407780 | [407780-forgive-me-my-love.json](./407780-forgive-me-my-love.json) |
 | Forgive My Sins & Desires, Father | 222736 | [222736-forgive-my-sins-and-desires-father.json](./222736-forgive-my-sins-and-desires-father.json) |
