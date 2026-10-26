@@ -20763,6 +20763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbrew Station: Symbiotic Sprout Unit | 374089 | [374089-starbrew-station-symbiotic-sprout-unit.json](./374089-starbrew-station-symbiotic-sprout-unit.json) |
 | Starbrew Station: The Galactic Tycoon Unit | 374092 | [374092-starbrew-station-the-galactic-tycoon-unit.json](./374092-starbrew-station-the-galactic-tycoon-unit.json) |
 | Starbridge: The Voyage Home | 291351 | [291351-starbridge-the-voyage-home.json](./291351-starbridge-the-voyage-home.json) |
+| Starbright Agency | 344301 | [344301-starbright-agency.json](./344301-starbright-agency.json) |
 | Starbucket | 90854 | [90854-starbucket.json](./90854-starbucket.json) |
 | Starbucks | 378167 | [378167-starbucks.json](./378167-starbucks.json) |
 | Starbug Troopers: The 4 Horseflies of the Apocalypse | 347072 | [347072-starbug-troopers-the-4-horseflies-of-the-apocalypse.json](./347072-starbug-troopers-the-4-horseflies-of-the-apocalypse.json) |
@@ -28656,6 +28657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival VR | 30645 | [30645-survival-vr.json](./30645-survival-vr.json) |
 | Survival Z | 149219 | [149219-survival-z.json](./149219-survival-z.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
+| Survival Zombie | 344300 | [344300-survival-zombie.json](./344300-survival-zombie.json) |
 | Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
 | Survival Zone | 171881 | [171881-survival-zone.json](./171881-survival-zone.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
