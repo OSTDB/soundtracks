@@ -4799,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Exit | 370749 | [370749-no-exit.json](./370749-no-exit.json) |
 | No Exit | 374356 | [374356-no-exit.json](./374356-no-exit.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
+| No Fap Island | 340058 | [340058-no-fap-island.json](./340058-no-fap-island.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
 | No Fault | 108192 | [108192-no-fault.json](./108192-no-fault.json) |
 | No Fear | 153161 | [153161-no-fear.json](./153161-no-fear.json) |
