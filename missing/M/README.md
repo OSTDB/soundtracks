@@ -6081,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MEFB | 130736 | [130736-mefb.json](./130736-mefb.json) |
 | MEG 9: Lost Echoes | 59944 | [59944-meg-9-lost-echoes.json](./59944-meg-9-lost-echoes.json) |
 | MEG:RVO | 62434 | [62434-meg-rvo.json](./62434-meg-rvo.json) |
+| Meg's Monster: Lost Memories | 376429 | [376429-megs-monster-lost-memories.json](./376429-megs-monster-lost-memories.json) |
 | Mega | 215615 | [215615-mega.json](./215615-mega.json) |
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
@@ -11841,6 +11842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | Moana: Island Life | 97982 | [97982-moana-island-life.json](./97982-moana-island-life.json) |
 | Moana: Rhythm Run | 97981 | [97981-moana-rhythm-run.json](./97981-moana-rhythm-run.json) |
+| Moaning Moron of the Mountain | 376433 | [376433-moaning-moron-of-the-mountain.json](./376433-moaning-moron-of-the-mountain.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
 | Mob Boss Hitman vs Zombies: The Underworld Hustle of Gangsta Crimes | 350761 | [350761-mob-boss-hitman-vs-zombies-the-underworld-hustle-of-gangsta-crimes.json](./350761-mob-boss-hitman-vs-zombies-the-underworld-hustle-of-gangsta-crimes.json) |
 | Mob Control | 227808 | [227808-mob-control.json](./227808-mob-control.json) |
@@ -12888,6 +12890,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
 | Monster Camp Character Pack: Colorful Campers | 378384 | [378384-monster-camp-character-pack-colorful-campers.json](./378384-monster-camp-character-pack-colorful-campers.json) |
 | Monster Car Garage Fun | 103098 | [103098-monster-car-garage-fun.json](./103098-monster-car-garage-fun.json) |
+| Monster Cards: Skill Pack - Card of Horror | 376425 | [376425-monster-cards-skill-pack-card-of-horror.json](./376425-monster-cards-skill-pack-card-of-horror.json) |
+| Monster Cards: Skill Pack - Card of Inspiration | 376427 | [376427-monster-cards-skill-pack-card-of-inspiration.json](./376427-monster-cards-skill-pack-card-of-inspiration.json) |
+| Monster Cards: Skill Pack - Card of Named | 376426 | [376426-monster-cards-skill-pack-card-of-named.json](./376426-monster-cards-skill-pack-card-of-named.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
 | Monster Challenge Circus | 17395 | [17395-monster-challenge-circus.json](./17395-monster-challenge-circus.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
@@ -15590,6 +15595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mtion studio | 325292 | [325292-mtion-studio.json](./325292-mtion-studio.json) |
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
 | MTP Target | 71566 | [71566-mtp-target.json](./71566-mtp-target.json) |
+| MTT Sports | 376526 | [376526-mtt-sports.json](./376526-mtt-sports.json) |
 | MTV Jersey Shore | 281023 | [281023-mtv-jersey-shore.json](./281023-mtv-jersey-shore.json) |
 | MTV Music Generator | 45098 | [45098-mtv-music-generator.json](./45098-mtv-music-generator.json) |
 | MTV Music Generator 3: This is the Remix | 24139 | [24139-mtv-music-generator-3-this-is-the-remix.json](./24139-mtv-music-generator-3-this-is-the-remix.json) |
