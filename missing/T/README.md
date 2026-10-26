@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted Keep | 39782 | [39782-tainted-keep.json](./39782-tainted-keep.json) |
 | Tainted Pools | 347362 | [347362-tainted-pools.json](./347362-tainted-pools.json) |
 | Tainted Tide | 424658 | [424658-tainted-tide.json](./424658-tainted-tide.json) |
+| Tainy okeana | 367908 | [367908-tainy-okeana.json](./367908-tainy-okeana.json) |
 | Taipan! | 131518 | [131518-taipan.json](./131518-taipan.json) |
 | Taipei | 72147 | [72147-taipei.json](./72147-taipei.json) |
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
@@ -6730,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Wish | 123470 | [123470-the-dark-wish.json](./123470-the-dark-wish.json) |
 | The Dark World | 221234 | [221234-the-dark-world.json](./221234-the-dark-world.json) |
 | The Dark World: Edge of Eternity | 152053 | [152053-the-dark-world-edge-of-eternity.json](./152053-the-dark-world-edge-of-eternity.json) |
+| The Darkblade | 367894 | [367894-the-darkblade.json](./367894-the-darkblade.json) |
 | The Darked | 142227 | [142227-the-darked.json](./142227-the-darked.json) |
 | The Darkened Halls | 275701 | [275701-the-darkened-halls.json](./275701-the-darkened-halls.json) |
 | The Darkened Outpost | 263424 | [263424-the-darkened-outpost.json](./263424-the-darkened-outpost.json) |
@@ -7210,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Earth Is Flat | 298144 | [298144-the-earth-is-flat.json](./298144-the-earth-is-flat.json) |
 | The Earth Sucks | 337278 | [337278-the-earth-sucks.json](./337278-the-earth-sucks.json) |
 | The Easiest Way | 364660 | [364660-the-easiest-way.json](./364660-the-easiest-way.json) |
+| The Easter Bunny Game | 367897 | [367897-the-easter-bunny-game.json](./367897-the-easter-bunny-game.json) |
 | The Eastermansion | 252296 | [252296-the-eastermansion.json](./252296-the-eastermansion.json) |
 | The Eastern Drive | 261741 | [261741-the-eastern-drive.json](./261741-the-eastern-drive.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
@@ -11592,6 +11595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mobius: Apartment | 322635 | [322635-the-mobius-apartment.json](./322635-the-mobius-apartment.json) |
 | The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
+| The Molfar: Call of Heart | 367932 | [367932-the-molfar-call-of-heart.json](./367932-the-molfar-call-of-heart.json) |
 | The Mom | 285849 | [285849-the-mom.json](./285849-the-mom.json) |
 | The Moment of Memory | 369348 | [369348-the-moment-of-memory.json](./369348-the-moment-of-memory.json) |
 | The Moment of Panic | 404165 | [404165-the-moment-of-panic.json](./404165-the-moment-of-panic.json) |
@@ -13667,6 +13671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Shuddering | 311758 | [311758-the-shuddering.json](./311758-the-shuddering.json) |
 | The Sibyl and Sixpence | 113239 | [113239-the-sibyl-and-sixpence.json](./113239-the-sibyl-and-sixpence.json) |
+| The Sickle Family | 367993 | [367993-the-sickle-family.json](./367993-the-sickle-family.json) |
 | The Siege and the Sandfox | 29039 | [29039-the-siege-and-the-sandfox.json](./29039-the-siege-and-the-sandfox.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
