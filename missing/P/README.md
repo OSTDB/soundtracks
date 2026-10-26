@@ -7842,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Gallery: A Short Botanic Experience | 267437 | [267437-plant-gallery-a-short-botanic-experience.json](./267437-plant-gallery-a-short-botanic-experience.json) |
 | Plant Game | 405518 | [405518-plant-game.json](./405518-plant-game.json) |
 | Plant Nursery Simulator | 332575 | [332575-plant-nursery-simulator.json](./332575-plant-nursery-simulator.json) |
+| Plant Plots | 355578 | [355578-plant-plots.json](./355578-plant-plots.json) |
 | Plant Pong Deluxe | 350001 | [350001-plant-pong-deluxe.json](./350001-plant-pong-deluxe.json) |
 | Plant Revenge | 132521 | [132521-plant-revenge.json](./132521-plant-revenge.json) |
 | Plant Tales | 358462 | [358462-plant-tales.json](./358462-plant-tales.json) |
@@ -9049,6 +9050,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle Card e+: 08-B036 - Guitarist no Daikichi | 355659 | [355659-pokemon-battle-card-e-08-b036-guitarist-no-daikichi.json](./355659-pokemon-battle-card-e-08-b036-guitarist-no-daikichi.json) |
 | Pokémon Battle Card e+: 08-B037 - Pokémon Breeder no Shigenobu | 355660 | [355660-pokemon-battle-card-e-08-b037-pokemon-breeder-no-shigenobu.json](./355660-pokemon-battle-card-e-08-b037-pokemon-breeder-no-shigenobu.json) |
 | Pokémon Battle Card e+: 08-B038 - Pokémon Ranger Reina | 355661 | [355661-pokemon-battle-card-e-08-b038-pokemon-ranger-reina.json](./355661-pokemon-battle-card-e-08-b038-pokemon-ranger-reina.json) |
+| Pokémon Battle Card e+: 08-B039 - Pokémon Breeder no Momoko | 355662 | [355662-pokemon-battle-card-e-08-b039-pokemon-breeder-no-momoko.json](./355662-pokemon-battle-card-e-08-b039-pokemon-breeder-no-momoko.json) |
+| Pokémon Battle Card e+: 08-B040 - Elite Trainer no Ihara | 355663 | [355663-pokemon-battle-card-e-08-b040-elite-trainer-no-ihara.json](./355663-pokemon-battle-card-e-08-b040-elite-trainer-no-ihara.json) |
 | Pokémon Battle Card e+: 08-B041 - Psychicher no Satoe | 355664 | [355664-pokemon-battle-card-e-08-b041-psychicher-no-satoe.json](./355664-pokemon-battle-card-e-08-b041-psychicher-no-satoe.json) |
 | Pokémon Battle Card e+: 08-B042 - Tori Tsukai no Suekichi | 355665 | [355665-pokemon-battle-card-e-08-b042-tori-tsukai-no-suekichi.json](./355665-pokemon-battle-card-e-08-b042-tori-tsukai-no-suekichi.json) |
 | Pokémon Battle Card e+: 08-B043 - Aroma na Onee-san no Miyoko | 355666 | [355666-pokemon-battle-card-e-08-b043-aroma-na-onee-san-no-miyoko.json](./355666-pokemon-battle-card-e-08-b043-aroma-na-onee-san-no-miyoko.json) |
@@ -9090,7 +9093,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e: 08-A012 - Pokémaniac Tyler | 355424 | [355424-pokemon-battle-e-08-a012-pokemaniac-tyler.json](./355424-pokemon-battle-e-08-a012-pokemaniac-tyler.json) |
 | Pokémon Battle e: 08-A013 - Youngster Rudy | 355425 | [355425-pokemon-battle-e-08-a013-youngster-rudy.json](./355425-pokemon-battle-e-08-a013-youngster-rudy.json) |
 | Pokémon Battle e: 08-A014 - Beauty Ellie | 355426 | [355426-pokemon-battle-e-08-a014-beauty-ellie.json](./355426-pokemon-battle-e-08-a014-beauty-ellie.json) |
+| Pokémon Battle e: 08-A029 - Fisherman Bryce | 355444 | [355444-pokemon-battle-e-08-a029-fisherman-bryce.json](./355444-pokemon-battle-e-08-a029-fisherman-bryce.json) |
+| Pokémon Battle e: 08-A030 - Bug Maniac Irvin | 355445 | [355445-pokemon-battle-e-08-a030-bug-maniac-irvin.json](./355445-pokemon-battle-e-08-a030-bug-maniac-irvin.json) |
+| Pokémon Battle e: 08-A031 - Battle Girl Natalie | 355446 | [355446-pokemon-battle-e-08-a031-battle-girl-natalie.json](./355446-pokemon-battle-e-08-a031-battle-girl-natalie.json) |
+| Pokémon Battle e: 08-A032 - Expert Sandia | 355447 | [355447-pokemon-battle-e-08-a032-expert-sandia.json](./355447-pokemon-battle-e-08-a032-expert-sandia.json) |
+| Pokémon Battle e: 08-A033 - Expert Marcus | 355449 | [355449-pokemon-battle-e-08-a033-expert-marcus.json](./355449-pokemon-battle-e-08-a033-expert-marcus.json) |
+| Pokémon Battle e: 08-A034 - Cooltrainer Raquel | 355450 | [355450-pokemon-battle-e-08-a034-cooltrainer-raquel.json](./355450-pokemon-battle-e-08-a034-cooltrainer-raquel.json) |
+| Pokémon Battle e: 08-A035 - Blackbelt Tsutomu | 355451 | [355451-pokemon-battle-e-08-a035-blackbelt-tsutomu.json](./355451-pokemon-battle-e-08-a035-blackbelt-tsutomu.json) |
+| Pokémon Battle e: 08-A036 - Pokéfan Justine | 355452 | [355452-pokemon-battle-e-08-a036-pokefan-justine.json](./355452-pokemon-battle-e-08-a036-pokefan-justine.json) |
+| Pokémon Battle e: 08-A037 - PKMN Ranger Heather | 355453 | [355453-pokemon-battle-e-08-a037-pkmn-ranger-heather.json](./355453-pokemon-battle-e-08-a037-pkmn-ranger-heather.json) |
+| Pokémon Battle e: 08-A038 - Psychic Judith | 355454 | [355454-pokemon-battle-e-08-a038-psychic-judith.json](./355454-pokemon-battle-e-08-a038-psychic-judith.json) |
+| Pokémon Battle e: 08-A039 - Collector Stuart | 355455 | [355455-pokemon-battle-e-08-a039-collector-stuart.json](./355455-pokemon-battle-e-08-a039-collector-stuart.json) |
+| Pokémon Battle e: 08-A040 - PKMN Ranger Irazu | 355456 | [355456-pokemon-battle-e-08-a040-pkmn-ranger-irazu.json](./355456-pokemon-battle-e-08-a040-pkmn-ranger-irazu.json) |
+| Pokémon Battle e: 08-A041 - Picnicker Sandy | 355458 | [355458-pokemon-battle-e-08-a041-picnicker-sandy.json](./355458-pokemon-battle-e-08-a041-picnicker-sandy.json) |
+| Pokémon Battle e: 08-A042 - Swimmer Annie | 355459 | [355459-pokemon-battle-e-08-a042-swimmer-annie.json](./355459-pokemon-battle-e-08-a042-swimmer-annie.json) |
+| Pokémon Battle e: 08-A043 - Hex Maniac Celina | 355460 | [355460-pokemon-battle-e-08-a043-hex-maniac-celina.json](./355460-pokemon-battle-e-08-a043-hex-maniac-celina.json) |
+| Pokémon Battle e: 08-A044 - Aroma Lady April | 355461 | [355461-pokemon-battle-e-08-a044-aroma-lady-april.json](./355461-pokemon-battle-e-08-a044-aroma-lady-april.json) |
+| Pokémon Battle e: 08-A045 - Guitarist Hayden | 355462 | [355462-pokemon-battle-e-08-a045-guitarist-hayden.json](./355462-pokemon-battle-e-08-a045-guitarist-hayden.json) |
+| Pokémon Battle e: 08-A046 - Psychic Griffin | 355463 | [355463-pokemon-battle-e-08-a046-psychic-griffin.json](./355463-pokemon-battle-e-08-a046-psychic-griffin.json) |
+| Pokémon Battle e: 08-A047 - Pokéfan Kendall | 355464 | [355464-pokemon-battle-e-08-a047-pokefan-kendall.json](./355464-pokemon-battle-e-08-a047-pokefan-kendall.json) |
+| Pokémon Battle e: 08-A048 - Cooltrainer Fuego | 355465 | [355465-pokemon-battle-e-08-a048-cooltrainer-fuego.json](./355465-pokemon-battle-e-08-a048-cooltrainer-fuego.json) |
 | Pokémon Battle e: 08-K001 - Pumkin Berry | 355419 | [355419-pokemon-battle-e-08-k001-pumkin-berry.json](./355419-pokemon-battle-e-08-k001-pumkin-berry.json) |
+| Pokémon Battle e: 08-K004 - Strib Berry | 355448 | [355448-pokemon-battle-e-08-k004-strib-berry.json](./355448-pokemon-battle-e-08-k004-strib-berry.json) |
+| Pokémon Battle e: 08-K005 - Chilan Berry | 355457 | [355457-pokemon-battle-e-08-k005-chilan-berry.json](./355457-pokemon-battle-e-08-k005-chilan-berry.json) |
+| Pokémon Battle e: 08-K006 - Nutpea Berry | 355466 | [355466-pokemon-battle-e-08-k006-nutpea-berry.json](./355466-pokemon-battle-e-08-k006-nutpea-berry.json) |
 | Pokémon Battle e: 08-P001 - Dragon Tamer Craig | 355496 | [355496-pokemon-battle-e-08-p001-dragon-tamer-craig.json](./355496-pokemon-battle-e-08-p001-dragon-tamer-craig.json) |
 | Pokémon Battle e: 08-P002 - Ninja Boy Yasuo | 355497 | [355497-pokemon-battle-e-08-p002-ninja-boy-yasuo.json](./355497-pokemon-battle-e-08-p002-ninja-boy-yasuo.json) |
 | Pokémon Battle e: 08-P003 - Pokéfan Darlene | 355498 | [355498-pokemon-battle-e-08-p003-pokefan-darlene.json](./355498-pokemon-battle-e-08-p003-pokefan-darlene.json) |
@@ -9145,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Cock Version | 141480 | [141480-pokemon-cock-version.json](./141480-pokemon-cock-version.json) |
 | Pokémon Coda | 360178 | [360178-pokemon-coda.json](./360178-pokemon-coda.json) |
 | Pokémon Colosseum | 2725 | [2725-pokemon-colosseum.json](./2725-pokemon-colosseum.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A001 - Chaser no Draw | 355468 | [355468-pokemon-colosseum-double-battle-card-e-13-a001-chaser-no-draw.json](./355468-pokemon-colosseum-double-battle-card-e-13-a001-chaser-no-draw.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-A002 - Hogaraka Ojii-san no Yamon | 355472 | [355472-pokemon-colosseum-double-battle-card-e-13-a002-hogaraka-ojii-san-no-yamon.json](./355472-pokemon-colosseum-double-battle-card-e-13-a002-hogaraka-ojii-san-no-yamon.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-A003 - Rider no Hipp | 355473 | [355473-pokemon-colosseum-double-battle-card-e-13-a003-rider-no-hipp.json](./355473-pokemon-colosseum-double-battle-card-e-13-a003-rider-no-hipp.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-A004 - Obocchama no Aito | 355474 | [355474-pokemon-colosseum-double-battle-card-e-13-a004-obocchama-no-aito.json](./355474-pokemon-colosseum-double-battle-card-e-13-a004-obocchama-no-aito.json) |
@@ -9194,6 +9221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
 | Pokémon D.W. | 147178 | [147178-pokemon-d-w.json](./147178-pokemon-d-w.json) |
 | Pokémon Dark Energy | 386952 | [386952-pokemon-dark-energy.json](./386952-pokemon-dark-energy.json) |
+| Pokémon Dark Rising II | 354921 | [354921-pokemon-dark-rising-ii.json](./354921-pokemon-dark-rising-ii.json) |
 | Pokémon Darkness | 275505 | [275505-pokemon-darkness.json](./275505-pokemon-darkness.json) |
 | Pokémon DarkViolet Version | 194827 | [194827-pokemon-darkviolet-version.json](./194827-pokemon-darkviolet-version.json) |
 | Pokémon Dash | 18594 | [18594-pokemon-dash.json](./18594-pokemon-dash.json) |
@@ -9977,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polku! | 366380 | [366380-polku.json](./366380-polku.json) |
 | Pollen | 311239 | [311239-pollen.json](./311239-pollen.json) |
 | Pollie | 292970 | [292970-pollie.json](./292970-pollie.json) |
+| Pollinarium | 354928 | [354928-pollinarium.json](./354928-pollinarium.json) |
 | Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
 | Pollucean | 347792 | [347792-pollucean.json](./347792-pollucean.json) |
 | Pollute & Conquer | 161221 | [161221-pollute-and-conquer.json](./161221-pollute-and-conquer.json) |
