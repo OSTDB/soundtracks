@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Icarus | 3663 | [3663-kid-icarus.json](./3663-kid-icarus.json) |
 | Kid Icarus Enlightenment | 404256 | [404256-kid-icarus-enlightenment.json](./404256-kid-icarus-enlightenment.json) |
 | Kid Icarus SNES Port | 377221 | [377221-kid-icarus-snes-port.json](./377221-kid-icarus-snes-port.json) |
+| Kid Icarus: Infinite Underworld | 379930 | [379930-kid-icarus-infinite-underworld.json](./379930-kid-icarus-infinite-underworld.json) |
 | Kid Icarus: Of Myths and Monsters | 3664 | [3664-kid-icarus-of-myths-and-monsters.json](./3664-kid-icarus-of-myths-and-monsters.json) |
 | Kid Kharagma | 344323 | [344323-kid-kharagma.json](./344323-kid-kharagma.json) |
 | Kid Kirby Recreated | 417293 | [417293-kid-kirby-recreated.json](./417293-kid-kirby-recreated.json) |
