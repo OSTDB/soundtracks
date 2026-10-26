@@ -6766,10 +6766,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanda the Adventurer Trilogy Bundle | 410839 | [410839-amanda-the-adventurer-trilogy-bundle.json](./410839-amanda-the-adventurer-trilogy-bundle.json) |
 | Amanda the Adventurer: Pilot Episode | 256410 | [256410-amanda-the-adventurer-pilot-episode.json](./256410-amanda-the-adventurer-pilot-episode.json) |
 | Amanda's Magic Book | 214019 | [214019-amandas-magic-book.json](./214019-amandas-magic-book.json) |
+| Amanda's Magic Book 10: Veil of the Phantom | 335787 | [335787-amandas-magic-book-10-veil-of-the-phantom.json](./335787-amandas-magic-book-10-veil-of-the-phantom.json) |
 | Amanda's Magic Book 11: Fractured Reflections | 356767 | [356767-amandas-magic-book-11-fractured-reflections.json](./356767-amandas-magic-book-11-fractured-reflections.json) |
 | Amanda's Magic Book 4: True Love | 201499 | [201499-amandas-magic-book-4-true-love.json](./201499-amandas-magic-book-4-true-love.json) |
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
 | Amanda's Magic Book 6: Aladdin's Magic Lamp | 230885 | [230885-amandas-magic-book-6-aladdins-magic-lamp.json](./230885-amandas-magic-book-6-aladdins-magic-lamp.json) |
+| Amanda's Magic Book 9: The Riftwalkers | 335786 | [335786-amandas-magic-book-9-the-riftwalkers.json](./335786-amandas-magic-book-9-the-riftwalkers.json) |
 | Amanda's Sticker Book 2: Amazing Wldlife | 115704 | [115704-amandas-sticker-book-2-amazing-wldlife.json](./115704-amandas-sticker-book-2-amazing-wldlife.json) |
 | Amane Switch | 166081 | [166081-amane-switch.json](./166081-amane-switch.json) |
 | Amaneku Tenshi ni Yakusoku wo | 381633 | [381633-amaneku-tenshi-ni-yakusoku-wo.json](./381633-amaneku-tenshi-ni-yakusoku-wo.json) |
@@ -10091,6 +10093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquitania | 52409 | [52409-aquitania.json](./52409-aquitania.json) |
 | Aquium | 290553 | [290553-aquium.json](./290553-aquium.json) |
 | Aqumana | 175376 | [175376-aqumana.json](./175376-aqumana.json) |
+| Aquor | 335790 | [335790-aquor.json](./335790-aquor.json) |
 | AR Basketball | 63247 | [63247-ar-basketball.json](./63247-ar-basketball.json) |
 | AR Butterflies and Flowers | 105773 | [105773-ar-butterflies-and-flowers.json](./105773-ar-butterflies-and-flowers.json) |
 | AR Combat DigiQ: Tomodachi Senshatai | 64772 | [64772-ar-combat-digiq-tomodachi-senshatai.json](./64772-ar-combat-digiq-tomodachi-senshatai.json) |
