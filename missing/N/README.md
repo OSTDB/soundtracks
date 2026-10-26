@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebulas ray | 39456 | [39456-nebulas-ray.json](./39456-nebulas-ray.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
+| Nebulock | 333487 | [333487-nebulock.json](./333487-nebulock.json) |
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
 | Nebulous: Fleet Command | 185962 | [185962-nebulous-fleet-command.json](./185962-nebulous-fleet-command.json) |
 | Nebulus | 7817 | [7817-nebulus.json](./7817-nebulus.json) |
