@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quasimorph | 216947 | [216947-quasimorph.json](./216947-quasimorph.json) |
 | Quasimorph: End of Dream | 322837 | [322837-quasimorph-end-of-dream.json](./322837-quasimorph-end-of-dream.json) |
 | Quasimorphosis: Exordium | 192211 | [192211-quasimorphosis-exordium.json](./192211-quasimorphosis-exordium.json) |
+| Quaso Studio: The Liven Collection | 348682 | [348682-quaso-studio-the-liven-collection.json](./348682-quaso-studio-the-liven-collection.json) |
 | Quaterneo | 183535 | [183535-quaterneo.json](./183535-quaterneo.json) |
 | Quaterneon | 123948 | [123948-quaterneon.json](./123948-quaterneon.json) |
 | Quaternion | 277802 | [277802-quaternion.json](./277802-quaternion.json) |
