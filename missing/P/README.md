@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Attack | 163845 | [163845-panic-attack.json](./163845-panic-attack.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Button | 71230 | [71230-panic-button.json](./71230-panic-button.json) |
+| Panic Cell | 335750 | [335750-panic-cell.json](./335750-panic-cell.json) |
 | Panic Crew | 390672 | [390672-panic-crew.json](./390672-panic-crew.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
 | Panic Delivery | 332298 | [332298-panic-delivery.json](./332298-panic-delivery.json) |
@@ -2936,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Jacket Character Pack | 367398 | [367398-payday-3-jacket-character-pack.json](./367398-payday-3-jacket-character-pack.json) |
 | Payday 3: Party Powder Heist | 369604 | [369604-payday-3-party-powder-heist.json](./369604-payday-3-party-powder-heist.json) |
 | Payday 3: Silver Edition | 266897 | [266897-payday-3-silver-edition.json](./266897-payday-3-silver-edition.json) |
+| Payday 3: Trifecta Lootbag | 335777 | [335777-payday-3-trifecta-lootbag.json](./335777-payday-3-trifecta-lootbag.json) |
 | Payday Freecell | 210013 | [210013-payday-freecell.json](./210013-payday-freecell.json) |
 | Payday Freecell HD | 354984 | [354984-payday-freecell-hd.json](./354984-payday-freecell-hd.json) |
 | Payday: Aces High | 395847 | [395847-payday-aces-high.json](./395847-payday-aces-high.json) |
@@ -6832,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Odyssey | 395287 | [395287-pixel-odyssey.json](./395287-pixel-odyssey.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
+| Pixel P.I. | 335767 | [335767-pixel-p-i.json](./335767-pixel-p-i.json) |
 | Pixel Paint | 223521 | [223521-pixel-paint.json](./223521-pixel-paint.json) |
 | Pixel Paint | 84818 | [84818-pixel-paint.json](./84818-pixel-paint.json) |
 | Pixel Paint | 85592 | [85592-pixel-paint.json](./85592-pixel-paint.json) |
@@ -7344,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pixicharm: Orunex | 380669 | [380669-pixicharm-orunex.json](./380669-pixicharm-orunex.json) |
 | Pixicharm: Polar Outta Place | 370557 | [370557-pixicharm-polar-outta-place.json](./370557-pixicharm-polar-outta-place.json) |
+| Pixicharm: Porkocalypse | 336182 | [336182-pixicharm-porkocalypse.json](./336182-pixicharm-porkocalypse.json) |
 | Pixicharm: Ribbiverse | 375565 | [375565-pixicharm-ribbiverse.json](./375565-pixicharm-ribbiverse.json) |
 | Pixicharm: Sparkrina | 356509 | [356509-pixicharm-sparkrina.json](./356509-pixicharm-sparkrina.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
