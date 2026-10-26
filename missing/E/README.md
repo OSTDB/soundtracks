@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Learning: Classical Music | 273325 | [273325-easy-learning-classical-music.json](./273325-easy-learning-classical-music.json) |
 | Easy Piano | 25168 | [25168-easy-piano.json](./25168-easy-piano.json) |
 | Easy Puzzle | 331390 | [331390-easy-puzzle.json](./331390-easy-puzzle.json) |
+| Easy Puzzle: Animals | 384001 | [384001-easy-puzzle-animals.json](./384001-easy-puzzle-animals.json) |
 | Easy puzzle: Bridges | 248921 | [248921-easy-puzzle-bridges.json](./248921-easy-puzzle-bridges.json) |
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | Easy puzzle: Streets | 287765 | [287765-easy-puzzle-streets.json](./287765-easy-puzzle-streets.json) |
@@ -5103,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
 | Ether Vapor | 72588 | [72588-ether-vapor.json](./72588-ether-vapor.json) |
 | Ether Versus | 262831 | [262831-ether-versus.json](./262831-ether-versus.json) |
+| Ether Void | 384030 | [384030-ether-void.json](./384030-ether-void.json) |
 | Etheral | 292971 | [292971-etheral.json](./292971-etheral.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
