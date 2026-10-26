@@ -12425,6 +12425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Planets | 251367 | [251367-the-planets.json](./251367-the-planets.json) |
 | The Planner: Farming | 53764 | [53764-the-planner-farming.json](./53764-the-planner-farming.json) |
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
+| The Plant Shop | 381089 | [381089-the-plant-shop.json](./381089-the-plant-shop.json) |
 | The Platypus' Search | 103116 | [103116-the-platypus-search.json](./103116-the-platypus-search.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
@@ -16875,6 +16876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Digits | 24037 | [24037-three-digits.json](./24037-three-digits.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
 | Three Fairies' Hoppin' Flappin' Great Journey! | 165726 | [165726-three-fairies-hoppin-flappin-great-journey.json](./165726-three-fairies-hoppin-flappin-great-journey.json) |
+| Three Feet From Death | 381093 | [381093-three-feet-from-death.json](./381093-three-feet-from-death.json) |
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
 | Three Forbidden Books: Eins | 384896 | [384896-three-forbidden-books-eins.json](./384896-three-forbidden-books-eins.json) |
 | Three Foreign Sisters!! | 379352 | [379352-three-foreign-sisters.json](./379352-three-foreign-sisters.json) |
@@ -17426,6 +17428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tie Dye Doodle | 106347 | [106347-tie-dye-doodle.json](./106347-tie-dye-doodle.json) |
+| TIE Fighter: Total Conversion | 381083 | [381083-tie-fighter-total-conversion.json](./381083-tie-fighter-total-conversion.json) |
 | Tie-Break | 37284 | [37284-tie-break.json](./37284-tie-break.json) |
 | Tie: A Game About Depression | 326716 | [326716-tie-a-game-about-depression.json](./326716-tie-a-game-about-depression.json) |
 | Tiebreak | 241244 | [241244-tiebreak.json](./241244-tiebreak.json) |
