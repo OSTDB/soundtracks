@@ -817,7 +817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3037,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brothers: Of Flesh and Faith | 193130 | [193130-battle-brothers-of-flesh-and-faith.json](./193130-battle-brothers-of-flesh-and-faith.json) |
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
+| Battle Bugs | 333490 | [333490-battle-bugs.json](./333490-battle-bugs.json) |
 | Battle Buzz: The Great Honey War | 114718 | [114718-battle-buzz-the-great-honey-war.json](./114718-battle-buzz-the-great-honey-war.json) |
 | Battle Calculator | 165562 | [165562-battle-calculator.json](./165562-battle-calculator.json) |
 | Battle Camp | 38887 | [38887-battle-camp.json](./38887-battle-camp.json) |
@@ -4295,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
 | Beast Saga | 334624 | [334624-beast-saga.json](./334624-beast-saga.json) |
 | Beast Saga Saikyou Gekiotsu Coliseum | 222442 | [222442-beast-saga-saikyou-gekiotsu-coliseum.json](./222442-beast-saga-saikyou-gekiotsu-coliseum.json) |
+| Beast Slayer Origin | 333482 | [333482-beast-slayer-origin.json](./333482-beast-slayer-origin.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
 | Beast vs. Legends | 244614 | [244614-beast-vs-legends.json](./244614-beast-vs-legends.json) |
