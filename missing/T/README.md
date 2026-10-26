@@ -6976,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Divine Speaker | 169155 | [169155-the-divine-speaker.json](./169155-the-divine-speaker.json) |
 | The Divine Speaker: The Sun and the Moon | 199563 | [199563-the-divine-speaker-the-sun-and-the-moon.json](./199563-the-divine-speaker-the-sun-and-the-moon.json) |
 | The Diving Bell | 391881 | [391881-the-diving-bell.json](./391881-the-diving-bell.json) |
+| The Division 2: Mutiny | 381569 | [381569-the-division-2-mutiny.json](./381569-the-division-2-mutiny.json) |
 | The Division 2: Warlords of New York - Year 5 Season 1: Broken Wings | 276774 | [276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json](./276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json) |
 | The DJ-ROM: Da CD-Extra of Hip-Hop Music | 281294 | [281294-the-dj-rom-da-cd-extra-of-hip-hop-music.json](./281294-the-dj-rom-da-cd-extra-of-hip-hop-music.json) |
 | The DOCS: Department of Creatures | 129648 | [129648-the-docs-department-of-creatures.json](./129648-the-docs-department-of-creatures.json) |
@@ -8125,6 +8126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frog Festival | 382987 | [382987-the-frog-festival.json](./382987-the-frog-festival.json) |
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
 | The Frog Prince | 149224 | [149224-the-frog-prince.json](./149224-the-frog-prince.json) |
+| The Frog That Leapt Too Far | 381667 | [381667-the-frog-that-leapt-too-far.json](./381667-the-frog-that-leapt-too-far.json) |
 | The Frog’s Adventure | 401538 | [401538-the-frog-s-adventure.json](./401538-the-frog-s-adventure.json) |
 | The Froglings | 338305 | [338305-the-froglings.json](./338305-the-froglings.json) |
 | The Frogman Show DS: Datte, Shouganai janai. | 287081 | [287081-the-frogman-show-ds-datte-shouganai-janai.json](./287081-the-frogman-show-ds-datte-shouganai-janai.json) |
@@ -16621,6 +16623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirsty Bird | 403784 | [403784-thirsty-bird.json](./403784-thirsty-bird.json) |
 | Thirsty Heroes | 156885 | [156885-thirsty-heroes.json](./156885-thirsty-heroes.json) |
 | Thirsty Nellan | 70111 | [70111-thirsty-nellan.json](./70111-thirsty-nellan.json) |
+| Thirsty Princess | 381575 | [381575-thirsty-princess.json](./381575-thirsty-princess.json) |
 | Thirteen & Half Cats | 120888 | [120888-thirteen-and-half-cats.json](./120888-thirteen-and-half-cats.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
@@ -26031,6 +26034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
 | Tron: Catalyst | 319717 | [319717-tron-catalyst.json](./319717-tron-catalyst.json) |
 | Tron: Deadly Discs | 5710 | [5710-tron-deadly-discs.json](./5710-tron-deadly-discs.json) |
+| Tron: Evolution | 381659 | [381659-tron-evolution.json](./381659-tron-evolution.json) |
 | Tron: Evolution | 7220 | [7220-tron-evolution.json](./7220-tron-evolution.json) |
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Journey to the MCP | 58564 | [58564-tron-journey-to-the-mcp.json](./58564-tron-journey-to-the-mcp.json) |
@@ -26347,6 +26351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Fear: Forsaken Souls - Part 3 | 217625 | [217625-true-fear-forsaken-souls-part-3.json](./217625-true-fear-forsaken-souls-part-3.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
 | True Fishing 2 | 396750 | [396750-true-fishing-2.json](./396750-true-fishing-2.json) |
+| True Galactic Mission | 381669 | [381669-true-galactic-mission.json](./381669-true-galactic-mission.json) |
 | True Game | 148308 | [148308-true-game.json](./148308-true-game.json) |
 | True Golf Classics: Pebble Beach Golf Links | 4533 | [4533-true-golf-classics-pebble-beach-golf-links.json](./4533-true-golf-classics-pebble-beach-golf-links.json) |
 | True Hate | 149239 | [149239-true-hate.json](./149239-true-hate.json) |
