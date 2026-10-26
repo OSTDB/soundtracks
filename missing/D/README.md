@@ -12738,6 +12738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
 | Dragonpath | 33931 | [33931-dragonpath.json](./33931-dragonpath.json) |
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
+| DragonRoad | 371839 | [371839-dragonroad.json](./371839-dragonroad.json) |
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
 | Dragons Heart | 239692 | [239692-dragons-heart.json](./239692-dragons-heart.json) |
@@ -14068,6 +14069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropboy | 178492 | [178492-dropboy.json](./178492-dropboy.json) |
 | DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
 | Dropchord | 22169 | [22169-dropchord.json](./22169-dropchord.json) |
+| Dropcore | 371851 | [371851-dropcore.json](./371851-dropcore.json) |
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
