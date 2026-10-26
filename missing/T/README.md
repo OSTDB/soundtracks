@@ -16267,6 +16267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm Final Fantasy: Curtain Call - Collector's Edition | 89895 | [89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json](./89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Limited Edition | 89894 | [89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json](./89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Orlandeau Character | 354552 | [354552-theatrhythm-final-fantasy-curtain-call-orlandeau-character.json](./354552-theatrhythm-final-fantasy-curtain-call-orlandeau-character.json) |
+| Theatrhythm Final Fantasy: Curtain Call - Rosa Character | 354549 | [354549-theatrhythm-final-fantasy-curtain-call-rosa-character.json](./354549-theatrhythm-final-fantasy-curtain-call-rosa-character.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Vincent Character | 354551 | [354551-theatrhythm-final-fantasy-curtain-call-vincent-character.json](./354551-theatrhythm-final-fantasy-curtain-call-vincent-character.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Yuffie Character | 354550 | [354550-theatrhythm-final-fantasy-curtain-call-yuffie-character.json](./354550-theatrhythm-final-fantasy-curtain-call-yuffie-character.json) |
 | Theatrhythm: Final Bar Line - Bravely Default Pack | 268538 | [268538-theatrhythm-final-bar-line-bravely-default-pack.json](./268538-theatrhythm-final-bar-line-bravely-default-pack.json) |
@@ -16284,6 +16285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm: Final Bar Line - SaGa Pack Vol. 3 | 261340 | [261340-theatrhythm-final-bar-line-saga-pack-vol-3.json](./261340-theatrhythm-final-bar-line-saga-pack-vol-3.json) |
 | Theatrhythm: Final Bar Line - Season Pass Vol. 1 | 354545 | [354545-theatrhythm-final-bar-line-season-pass-vol-1.json](./354545-theatrhythm-final-bar-line-season-pass-vol-1.json) |
 | Theatrhythm: Final Bar Line - Season Pass Vol. 2 | 354546 | [354546-theatrhythm-final-bar-line-season-pass-vol-2.json](./354546-theatrhythm-final-bar-line-season-pass-vol-2.json) |
+| Theatrhythm: Final Bar Line - Season Pass Vol. 3 | 354548 | [354548-theatrhythm-final-bar-line-season-pass-vol-3.json](./354548-theatrhythm-final-bar-line-season-pass-vol-3.json) |
 | Theatrhythm: Final Bar Line - The World Ends with You Pack | 354521 | [354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json](./354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json) |
 | Theatrhythm: Final Bar Line - Xenogears Pack | 354511 | [354511-theatrhythm-final-bar-line-xenogears-pack.json](./354511-theatrhythm-final-bar-line-xenogears-pack.json) |
 | Theatricke | 176395 | [176395-theatricke.json](./176395-theatricke.json) |
