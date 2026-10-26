@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death In Abyss | 247609 | [247609-death-in-abyss.json](./247609-death-in-abyss.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
 | Death in the Caribbean | 23243 | [23243-death-in-the-caribbean.json](./23243-death-in-the-caribbean.json) |
+| Death in the Manor | 375227 | [375227-death-in-the-manor.json](./375227-death-in-the-manor.json) |
 | Death in the Night | 215538 | [215538-death-in-the-night.json](./215538-death-in-the-night.json) |
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
@@ -8465,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgraced: Hands of Fate | 170796 | [170796-disgraced-hands-of-fate.json](./170796-disgraced-hands-of-fate.json) |
 | Disgraced: Trailblazer | 161730 | [161730-disgraced-trailblazer.json](./161730-disgraced-trailblazer.json) |
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
+| Disguiser | 375215 | [375215-disguiser.json](./375215-disguiser.json) |
 | Disgusting Puzzle 2 | 232941 | [232941-disgusting-puzzle-2.json](./232941-disgusting-puzzle-2.json) |
 | Dish Puzzle For Toddlers | 102610 | [102610-dish-puzzle-for-toddlers.json](./102610-dish-puzzle-for-toddlers.json) |
 | Dish Up Fruit | 302344 | [302344-dish-up-fruit.json](./302344-dish-up-fruit.json) |
@@ -12173,6 +12175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Sparking! Zero - Season Pass Bonus | 375181 | [375181-dragon-ball-sparking-zero-season-pass-bonus.json](./375181-dragon-ball-sparking-zero-season-pass-bonus.json) |
 | Dragon Ball: Sparking! Zero - Super Limit-Breaking NEO | 375182 | [375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
 | Dragon Ball: Sparking! Zero - Ultimate Edition | 307191 | [307191-dragon-ball-sparking-zero-ultimate-edition.json](./307191-dragon-ball-sparking-zero-ultimate-edition.json) |
+| Dragon Ball: Sparking! Zero - Ultimate Edition Bonus | 375147 | [375147-dragon-ball-sparking-zero-ultimate-edition-bonus.json](./375147-dragon-ball-sparking-zero-ultimate-edition-bonus.json) |
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
 | Dragon Ball: Tap Battle | 2582 | [2582-dragon-ball-tap-battle.json](./2582-dragon-ball-tap-battle.json) |
 | Dragon Ball: The Breakers | 182179 | [182179-dragon-ball-the-breakers.json](./182179-dragon-ball-the-breakers.json) |
@@ -14479,6 +14482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
 | Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
 | Duckman: The Graphic Adventures of a Private Dick | 71418 | [71418-duckman-the-graphic-adventures-of-a-private-dick.json](./71418-duckman-the-graphic-adventures-of-a-private-dick.json) |
+| Duckoleon | 375219 | [375219-duckoleon.json](./375219-duckoleon.json) |
 | Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
 | Ducks | 141578 | [141578-ducks.json](./141578-ducks.json) |
 | Ducks | 314262 | [314262-ducks.json](./314262-ducks.json) |
@@ -15547,6 +15551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
 | Duped | 65789 | [65789-duped.json](./65789-duped.json) |
+| Dupery: A Game of Solo Deduction | 375229 | [375229-dupery-a-game-of-solo-deduction.json](./375229-dupery-a-game-of-solo-deduction.json) |
 | Dupio | 89076 | [89076-dupio.json](./89076-dupio.json) |
 | Duplex | 273554 | [273554-duplex.json](./273554-duplex.json) |
 | Duplexer | 33832 | [33832-duplexer.json](./33832-duplexer.json) |
