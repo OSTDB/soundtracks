@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Girls | 203801 | [203801-panzer-girls.json](./203801-panzer-girls.json) |
 | Panzer Hearts | 99020 | [99020-panzer-hearts.json](./99020-panzer-hearts.json) |
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
+| Panzer Kliker Mk I Yanks | 360623 | [360623-panzer-kliker-mk-i-yanks.json](./360623-panzer-kliker-mk-i-yanks.json) |
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
@@ -3086,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak: The Final Ascent | 412529 | [412529-peak-the-final-ascent.json](./412529-peak-the-final-ascent.json) |
 | Peak: The Mesa Update | 363305 | [363305-peak-the-mesa-update.json](./363305-peak-the-mesa-update.json) |
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
+| Peaked Climbing | 360550 | [360550-peaked-climbing.json](./360550-peaked-climbing.json) |
 | Peaks of Yore | 238690 | [238690-peaks-of-yore.json](./238690-peaks-of-yore.json) |
 | Peaks of Yore: The Great Alps | 321208 | [321208-peaks-of-yore-the-great-alps.json](./321208-peaks-of-yore-the-great-alps.json) |
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
@@ -7287,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Ribbiverse | 375565 | [375565-pixicharm-ribbiverse.json](./375565-pixicharm-ribbiverse.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
+| Pixicharm: Spikoin | 360546 | [360546-pixicharm-spikoin.json](./360546-pixicharm-spikoin.json) |
 | Pixicharm: Starry Blast | 333528 | [333528-pixicharm-starry-blast.json](./333528-pixicharm-starry-blast.json) |
 | Pixicharm: Tankbit | 392349 | [392349-pixicharm-tankbit.json](./392349-pixicharm-tankbit.json) |
 | Pixicharm: Timbershot | 392350 | [392350-pixicharm-timbershot.json](./392350-pixicharm-timbershot.json) |
@@ -8747,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pode | 94054 | [94054-pode.json](./94054-pode.json) |
 | Podium Bash | 74955 | [74955-podium-bash.json](./74955-podium-bash.json) |
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
+| Podvodsk | 360472 | [360472-podvodsk.json](./360472-podvodsk.json) |
 | Poe | 227889 | [227889-poe.json](./227889-poe.json) |
 | Poe | 293362 | [293362-poe.json](./293362-poe.json) |
 | Poem Ex Machina | 333106 | [333106-poem-ex-machina.json](./333106-poem-ex-machina.json) |
@@ -9641,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Club 6 in 1 | 248181 | [248181-poker-club-6-in-1.json](./248181-poker-club-6-in-1.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
 | Poker Cruncher: Expert Odds | 87325 | [87325-poker-cruncher-expert-odds.json](./87325-poker-cruncher-expert-odds.json) |
+| Poker Crush | 360561 | [360561-poker-crush.json](./360561-poker-crush.json) |
 | Poker Dice Solitaire Future | 61338 | [61338-poker-dice-solitaire-future.json](./61338-poker-dice-solitaire-future.json) |
 | Poker Drop | 146691 | [146691-poker-drop.json](./146691-poker-drop.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
