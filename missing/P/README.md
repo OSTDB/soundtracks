@@ -3574,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepper Blast | 362321 | [362321-pepper-blast.json](./362321-pepper-blast.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Pepper II | 18803 | [18803-pepper-ii.json](./18803-pepper-ii.json) |
+| Pepper Odyssey | 349201 | [349201-pepper-odyssey.json](./349201-pepper-odyssey.json) |
 | Pepper Pengui | 363046 | [363046-pepper-pengui.json](./363046-pepper-pengui.json) |
 | Pepper Rush | 382890 | [382890-pepper-rush.json](./382890-pepper-rush.json) |
 | Pepper's Castle | 195398 | [195398-peppers-castle.json](./195398-peppers-castle.json) |
@@ -5920,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Maniacs | 253262 | [253262-pinball-maniacs.json](./253262-pinball-maniacs.json) |
 | Pinball Master | 209959 | [209959-pinball-master.json](./209959-pinball-master.json) |
 | Pinball Masters | 295324 | [295324-pinball-masters.json](./295324-pinball-masters.json) |
+| Pinball Neon | 349214 | [349214-pinball-neon.json](./349214-pinball-neon.json) |
 | Pinball Paladins | 364703 | [364703-pinball-paladins.json](./364703-pinball-paladins.json) |
 | Pinball Parlor | 31684 | [31684-pinball-parlor.json](./31684-pinball-parlor.json) |
 | Pinball Planet | 68920 | [68920-pinball-planet.json](./68920-pinball-planet.json) |
@@ -5976,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
 | Pine: Segment_01 | 358642 | [358642-pine-segment-01.json](./358642-pine-segment-01.json) |
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
+| Pineapple | 349250 | [349250-pineapple.json](./349250-pineapple.json) |
 | Pineapple 2000 | 277487 | [277487-pineapple-2000.json](./277487-pineapple-2000.json) |
 | Pineapple Arcade | 109542 | [109542-pineapple-arcade.json](./109542-pineapple-arcade.json) |
 | Pineapple Defense | 298152 | [298152-pineapple-defense.json](./298152-pineapple-defense.json) |
