@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Soul | 412810 | [412810-abyssal-soul.json](./412810-abyssal-soul.json) |
 | Abyssal Sun | 397737 | [397737-abyssal-sun.json](./397737-abyssal-sun.json) |
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
+| Abyssal Trench | 341989 | [341989-abyssal-trench.json](./341989-abyssal-trench.json) |
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | Abyssalis | 421843 | [421843-abyssalis.json](./421843-abyssalis.json) |
 | AbyssalRestaurant | 312662 | [312662-abyssalrestaurant.json](./312662-abyssalrestaurant.json) |
@@ -12886,6 +12887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault | 6881 | [6881-assault.json](./6881-assault.json) |
 | Assault Android Cactus | 8644 | [8644-assault-android-cactus.json](./8644-assault-android-cactus.json) |
 | Assault Android Cactus+ | 115456 | [115456-assault-android-cactus.json](./115456-assault-android-cactus.json) |
+| Assault Armored Girls War Vasileia | 342294 | [342294-assault-armored-girls-war-vasileia.json](./342294-assault-armored-girls-war-vasileia.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
 | Assault Battery | 184825 | [184825-assault-battery.json](./184825-assault-battery.json) |
@@ -13748,6 +13750,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Masterpieces Vol. II | 47569 | [47569-atari-masterpieces-vol-ii.json](./47569-atari-masterpieces-vol-ii.json) |
 | Atari Mini Arcade | 275243 | [275243-atari-mini-arcade.json](./275243-atari-mini-arcade.json) |
 | Atari Recharged Bundle | 230800 | [230800-atari-recharged-bundle.json](./230800-atari-recharged-bundle.json) |
+| Atari Recharged Collection 3 | 341962 | [341962-atari-recharged-collection-3.json](./341962-atari-recharged-collection-3.json) |
+| Atari Recharged Collection 4 | 341964 | [341964-atari-recharged-collection-4.json](./341964-atari-recharged-collection-4.json) |
 | Atari Recharged: Volume One | 324499 | [324499-atari-recharged-volume-one.json](./324499-atari-recharged-volume-one.json) |
 | Atari Recharged: Volume Two | 324500 | [324500-atari-recharged-volume-two.json](./324500-atari-recharged-volume-two.json) |
 | Atari Retro Handheld Console | 277413 | [277413-atari-retro-handheld-console.json](./277413-atari-retro-handheld-console.json) |
