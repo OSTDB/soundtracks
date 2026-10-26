@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangea Arcade | 96286 | [96286-pangea-arcade.json](./96286-pangea-arcade.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
 | Pangeon | 113023 | [113023-pangeon.json](./113023-pangeon.json) |
+| Pangit | 368988 | [368988-pangit.json](./368988-pangit.json) |
 | Pangman | 150961 | [150961-pangman.json](./150961-pangman.json) |
 | Pango | 293329 | [293329-pango.json](./293329-pango.json) |
 | Pango and friends | 89705 | [89705-pango-and-friends.json](./89705-pango-and-friends.json) |
@@ -5365,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
 | Pikachu Volleyball | 349641 | [349641-pikachu-volleyball.json](./349641-pikachu-volleyball.json) |
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
+| Pike & Shot | 368998 | [368998-pike-and-shot.json](./368998-pike-and-shot.json) |
 | Pike: Operacija Gromoverzhec | 72306 | [72306-pike-operacija-gromoverzhec.json](./72306-pike-operacija-gromoverzhec.json) |
 | Pikelets | 183947 | [183947-pikelets.json](./183947-pikelets.json) |
 | Pikes and Pursestrings | 387291 | [387291-pikes-and-pursestrings.json](./387291-pikes-and-pursestrings.json) |
@@ -10261,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poobo | 383160 | [383160-poobo.json](./383160-poobo.json) |
+| Poodle Jump! | 368997 | [368997-poodle-jump.json](./368997-poodle-jump.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poöf vs. The Cursed Kitty | 10712 | [10712-poof-vs-the-cursed-kitty.json](./10712-poof-vs-the-cursed-kitty.json) |
 | Poofie Plays God | 341563 | [341563-poofie-plays-god.json](./341563-poofie-plays-god.json) |
@@ -11703,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Your Luck | 394523 | [394523-press-your-luck.json](./394523-press-your-luck.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
 | Press-Switch | 217993 | [217993-press-switch.json](./217993-press-switch.json) |
+| Press&Release | 368987 | [368987-press-and-release.json](./368987-press-and-release.json) |
 | Pressing Under Pressure | 393618 | [393618-pressing-under-pressure.json](./393618-pressing-under-pressure.json) |
 | Pressure | 15406 | [15406-pressure.json](./15406-pressure.json) |
 | Pressure | 186086 | [186086-pressure.json](./186086-pressure.json) |
