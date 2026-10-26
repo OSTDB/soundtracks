@@ -2992,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endeavor | 301527 | [301527-endeavor.json](./301527-endeavor.json) |
 | EndeavorOTC | 330777 | [330777-endeavorotc.json](./330777-endeavorotc.json) |
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
+| Ender Chariot | 348670 | [348670-ender-chariot.json](./348670-ender-chariot.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Lilies: Quietus of the Knights | 138858 | [138858-ender-lilies-quietus-of-the-knights.json](./138858-ender-lilies-quietus-of-the-knights.json) |
 | Ender Ocean | 368670 | [368670-ender-ocean.json](./368670-ender-ocean.json) |
@@ -4590,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Darkness | 193672 | [193672-escape-the-darkness.json](./193672-escape-the-darkness.json) |
 | Escape the Darkness | 95166 | [95166-escape-the-darkness.json](./95166-escape-the-darkness.json) |
 | Escape the Dead | 217212 | [217212-escape-the-dead.json](./217212-escape-the-dead.json) |
+| Escape the Desert | 348696 | [348696-escape-the-desert.json](./348696-escape-the-desert.json) |
 | Escape the Dynasty | 389719 | [389719-escape-the-dynasty.json](./389719-escape-the-dynasty.json) |
 | Escape the Emerald Star | 205994 | [205994-escape-the-emerald-star.json](./205994-escape-the-emerald-star.json) |
 | Escape the Enterprise | 110552 | [110552-escape-the-enterprise.json](./110552-escape-the-enterprise.json) |
