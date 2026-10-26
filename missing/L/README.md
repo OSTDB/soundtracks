@@ -7639,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucerna Tenebris | 180767 | [180767-lucerna-tenebris.json](./180767-lucerna-tenebris.json) |
 | Lucha Align | 375420 | [375420-lucha-align.json](./375420-lucha-align.json) |
 | Lucha Caliente | 207221 | [207221-lucha-caliente.json](./207221-lucha-caliente.json) |
+| Lucha Chess | 367986 | [367986-lucha-chess.json](./367986-lucha-chess.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Lucha Libre AAA: Héroes del Ring | 7060 | [7060-lucha-libre-aaa-heroes-del-ring.json](./7060-lucha-libre-aaa-heroes-del-ring.json) |
 | Lucha Underground | 257260 | [257260-lucha-underground.json](./257260-lucha-underground.json) |
