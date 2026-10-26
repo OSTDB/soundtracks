@@ -5283,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CheckMaze | 244678 | [244678-checkmaze.json](./244678-checkmaze.json) |
 | CheckOut | 325579 | [325579-checkout.json](./325579-checkout.json) |
 | Checkout Blitz: The Shopping Dead | 270546 | [270546-checkout-blitz-the-shopping-dead.json](./270546-checkout-blitz-the-shopping-dead.json) |
+| Checkout Midnight | 349228 | [349228-checkout-midnight.json](./349228-checkout-midnight.json) |
 | Checkout! | 284816 | [284816-checkout.json](./284816-checkout.json) |
 | Checkpoint | 94120 | [94120-checkpoint.json](./94120-checkpoint.json) |
 | Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
@@ -11705,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conundrum Catacombs | 245958 | [245958-conundrum-catacombs.json](./245958-conundrum-catacombs.json) |
 | Conur Life | 240051 | [240051-conur-life.json](./240051-conur-life.json) |
 | Conurbation | 176738 | [176738-conurbation.json](./176738-conurbation.json) |
+| Convalescent Codex: An Alchemist's Story | 349217 | [349217-convalescent-codex-an-alchemists-story.json](./349217-convalescent-codex-an-alchemists-story.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
 | Conveni Wars: Barcode Battler Senki - Super Senshi Shutsugeki seyo! | 38147 | [38147-conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo.json](./38147-conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo.json) |
 | Convenience Store | 123956 | [123956-convenience-store.json](./123956-convenience-store.json) |
