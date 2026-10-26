@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4109,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Stalker | 163153 | [163153-bean-stalker.json](./163153-bean-stalker.json) |
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
+| Bean There, Swung That | 373038 | [373038-bean-there-swung-that.json](./373038-bean-there-swung-that.json) |
 | Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
 | Bean's Jack | 410906 | [410906-beans-jack.json](./410906-beans-jack.json) |
 | Bean's Quest | 65391 | [65391-beans-quest.json](./65391-beans-quest.json) |
@@ -4650,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beau Jolly 48K Value Pack | 100077 | [100077-beau-jolly-48k-value-pack.json](./100077-beau-jolly-48k-value-pack.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
 | Beauties and Beasts | 317315 | [317315-beauties-and-beasts.json](./317315-beauties-and-beasts.json) |
+| Beauties and the Stranded | 373036 | [373036-beauties-and-the-stranded.json](./373036-beauties-and-the-stranded.json) |
 | Beauties Unveiled | 284499 | [284499-beauties-unveiled.json](./284499-beauties-unveiled.json) |
 | Beauties Unveiled 2 | 289206 | [289206-beauties-unveiled-2.json](./289206-beauties-unveiled-2.json) |
 | Beauties Unveiled 2: Cassy Level Pack | 289209 | [289209-beauties-unveiled-2-cassy-level-pack.json](./289209-beauties-unveiled-2-cassy-level-pack.json) |
@@ -7249,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
 | Bite Me | 378369 | [378369-bite-me.json](./378369-bite-me.json) |
 | Bite Night | 303369 | [303369-bite-night.json](./303369-bite-night.json) |
+| Bite Night: Dine or Die | 373066 | [373066-bite-night-dine-or-die.json](./373066-bite-night-dine-or-die.json) |
 | Bite Nite | 215023 | [215023-bite-nite.json](./215023-bite-nite.json) |
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
 | Bite Size Terrors: Reverse Blue | 258311 | [258311-bite-size-terrors-reverse-blue.json](./258311-bite-size-terrors-reverse-blue.json) |
@@ -12387,6 +12391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Tactics: Origins | 258089 | [258089-brawl-tactics-origins.json](./258089-brawl-tactics-origins.json) |
 | Brawl.io | 400068 | [400068-brawl-io.json](./400068-brawl-io.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
+| Brawlborn | 373049 | [373049-brawlborn.json](./373049-brawlborn.json) |
 | Brawler | 161606 | [161606-brawler.json](./161606-brawler.json) |
 | Brawler Bro's | 216698 | [216698-brawler-bros.json](./216698-brawler-bros.json) |
 | Brawler Friends | 58185 | [58185-brawler-friends.json](./58185-brawler-friends.json) |
