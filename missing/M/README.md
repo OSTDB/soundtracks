@@ -5965,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MediEvil II | 4002 | [4002-medievil-ii.json](./4002-medievil-ii.json) |
 | MediEvil: Digital Deluxe Edition | 118681 | [118681-medievil-digital-deluxe-edition.json](./118681-medievil-digital-deluxe-edition.json) |
 | MediEvil: Resurrection | 288665 | [288665-medievil-resurrection.json](./288665-medievil-resurrection.json) |
+| Meditate Levitate Elevate | 369008 | [369008-meditate-levitate-elevate.json](./369008-meditate-levitate-elevate.json) |
 | Meditation 5 | 135047 | [135047-meditation-5.json](./135047-meditation-5.json) |
 | Meditation Forest | 183409 | [183409-meditation-forest.json](./183409-meditation-forest.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
@@ -10514,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Game Compil 2 | 381731 | [381731-mini-game-compil-2.json](./381731-mini-game-compil-2.json) |
 | Mini Game Compil 3 | 322796 | [322796-mini-game-compil-3.json](./322796-mini-game-compil-3.json) |
 | Mini Game Machine | 346761 | [346761-mini-game-machine.json](./346761-mini-game-machine.json) |
+| Mini Games Retro 90s | 368975 | [368975-mini-games-retro-90s.json](./368975-mini-games-retro-90s.json) |
 | Mini Garden Cafe | 260153 | [260153-mini-garden-cafe.json](./260153-mini-garden-cafe.json) |
 | Mini Gardens | 195420 | [195420-mini-gardens.json](./195420-mini-gardens.json) |
 | Mini Ghost | 29623 | [29623-mini-ghost.json](./29623-mini-ghost.json) |
