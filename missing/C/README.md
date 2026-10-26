@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
 | Caravan Journey: Nitro | 226089 | [226089-caravan-journey-nitro.json](./226089-caravan-journey-nitro.json) |
 | Caravan Manager | 420495 | [420495-caravan-manager.json](./420495-caravan-manager.json) |
+| Caravan Quest: Discover America | 336983 | [336983-caravan-quest-discover-america.json](./336983-caravan-quest-discover-america.json) |
 | Caravan Racers | 323854 | [323854-caravan-racers.json](./323854-caravan-racers.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
 | Caravan Trade Tycoon | 138673 | [138673-caravan-trade-tycoon.json](./138673-caravan-trade-tycoon.json) |
@@ -3835,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats the Commander | 231957 | [231957-cats-the-commander.json](./231957-cats-the-commander.json) |
 | Cats the Commander for Nintendo Switch | 330235 | [330235-cats-the-commander-for-nintendo-switch.json](./330235-cats-the-commander-for-nintendo-switch.json) |
 | Cats Visiting Christmas Town | 325663 | [325663-cats-visiting-christmas-town.json](./325663-cats-visiting-christmas-town.json) |
+| Cats Visiting Cozy Art Studios | 337003 | [337003-cats-visiting-cozy-art-studios.json](./337003-cats-visiting-cozy-art-studios.json) |
 | Cats Visiting Cozy Town | 386179 | [386179-cats-visiting-cozy-town.json](./386179-cats-visiting-cozy-town.json) |
 | Cats Visiting El Dorado | 368761 | [368761-cats-visiting-el-dorado.json](./368761-cats-visiting-el-dorado.json) |
 | Cats Visiting Fairy Tales | 343725 | [343725-cats-visiting-fairy-tales.json](./343725-cats-visiting-fairy-tales.json) |
@@ -4474,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cereal Friend | 420169 | [420169-cereal-friend.json](./420169-cereal-friend.json) |
 | Cereal Killer | 326634 | [326634-cereal-killer.json](./326634-cereal-killer.json) |
 | Cereal O's | 369002 | [369002-cereal-os.json](./369002-cereal-os.json) |
+| Cereal Reaper | 337015 | [337015-cereal-reaper.json](./337015-cereal-reaper.json) |
 | Cereal Soup | 99128 | [99128-cereal-soup.json](./99128-cereal-soup.json) |
 | Cerealman | 419884 | [419884-cerealman.json](./419884-cerealman.json) |
 | Cerebral | 215841 | [215841-cerebral.json](./215841-cerebral.json) |
