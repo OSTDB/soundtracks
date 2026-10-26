@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Fall: Swipe Letters | 233105 | [233105-letter-fall-swipe-letters.json](./233105-letter-fall-swipe-letters.json) |
 | Letter Fridge | 103653 | [103653-letter-fridge.json](./103653-letter-fridge.json) |
 | Letter From Heart Antique Shop | 374361 | [374361-letter-from-heart-antique-shop.json](./374361-letter-from-heart-antique-shop.json) |
+| Letter Hunter | 372516 | [372516-letter-hunter.json](./372516-letter-hunter.json) |
 | Letter Land 2 | 97146 | [97146-letter-land-2.json](./97146-letter-land-2.json) |
 | Letter Lattice | 174190 | [174190-letter-lattice.json](./174190-letter-lattice.json) |
 | Letter League | 254445 | [254445-letter-league.json](./254445-letter-league.json) |
@@ -4523,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingering Souls | 285412 | [285412-lingering-souls.json](./285412-lingering-souls.json) |
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
+| Língjiè Yì Wén Lù | 372425 | [372425-lingjie-yi-wen-lu.json](./372425-lingjie-yi-wen-lu.json) |
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
 | Lingjing | 284963 | [284963-lingjing.json](./284963-lingjing.json) |
 | Lingkaran | 345421 | [345421-lingkaran.json](./345421-lingkaran.json) |
@@ -5195,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Parfait: Kuronekojirushi no Mahouya-san | 124645 | [124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json](./124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json) |
 | Little Witch Reinette: Swan no Namida Rhapsody | 124646 | [124646-little-witch-reinette-swan-no-namida-rhapsody.json](./124646-little-witch-reinette-swan-no-namida-rhapsody.json) |
 | Little Witch Survivors | 349103 | [349103-little-witch-survivors.json](./349103-little-witch-survivors.json) |
+| Little Witch's Carnival | 372509 | [372509-little-witchs-carnival.json](./372509-little-witchs-carnival.json) |
 | Little Wizard | 66026 | [66026-little-wizard.json](./66026-little-wizard.json) |
 | Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
