@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
 | Naked Porn Battle | 202205 | [202205-naked-porn-battle.json](./202205-naked-porn-battle.json) |
+| Naked Puzzle: Girls | 367928 | [367928-naked-puzzle-girls.json](./367928-naked-puzzle-girls.json) |
 | Naked Story | 127838 | [127838-naked-story.json](./127838-naked-story.json) |
 | Naked Warrior | 385305 | [385305-naked-warrior.json](./385305-naked-warrior.json) |
 | NakedMan vs. The Clothes | 29485 | [29485-nakedman-vs-the-clothes.json](./29485-nakedman-vs-the-clothes.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Bear: Panic in Paradise | 6037 | [6037-naughty-bear-panic-in-paradise.json](./6037-naughty-bear-panic-in-paradise.json) |
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
+| Naughty Girl 2 | 367915 | [367915-naughty-girl-2.json](./367915-naughty-girl-2.json) |
 | Naughty Kittens | 368765 | [368765-naughty-kittens.json](./368765-naughty-kittens.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
 | Naughty List | 341359 | [341359-naughty-list.json](./341359-naughty-list.json) |
@@ -1790,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
 | NekoMiko | 114367 | [114367-nekomiko.json](./114367-nekomiko.json) |
 | Nekomimi Days: 365 Days With You | 380167 | [380167-nekomimi-days-365-days-with-you.json](./380167-nekomimi-days-365-days-with-you.json) |
+| Nekomimi Nikki | 368053 | [368053-nekomimi-nikki.json](./368053-nekomimi-nikki.json) |
 | Nekomimi Vampire | 97777 | [97777-nekomimi-vampire.json](./97777-nekomimi-vampire.json) |
 | Nekomin Kittens Invasion | 351725 | [351725-nekomin-kittens-invasion.json](./351725-nekomin-kittens-invasion.json) |
 | NekoNecro | 212970 | [212970-nekonecro.json](./212970-nekonecro.json) |
