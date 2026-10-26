@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Moon: Those Who Crossed | 351640 | [351640-legend-of-the-moon-those-who-crossed.json](./351640-legend-of-the-moon-those-who-crossed.json) |
 | Legend of the Nine Colored Deer | 287721 | [287721-legend-of-the-nine-colored-deer.json](./287721-legend-of-the-nine-colored-deer.json) |
 | Legend of the Otherworld | 288430 | [288430-legend-of-the-otherworld.json](./288430-legend-of-the-otherworld.json) |
+| Legend Of The Platforms | 370625 | [370625-legend-of-the-platforms.json](./370625-legend-of-the-platforms.json) |
 | Legend of the River King GB | 20514 | [20514-legend-of-the-river-king-gb.json](./20514-legend-of-the-river-king-gb.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
 | Legend of the Silver Fox | 182734 | [182734-legend-of-the-silver-fox.json](./182734-legend-of-the-silver-fox.json) |
@@ -5823,6 +5824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistics Expert | 120040 | [120040-logistics-expert.json](./120040-logistics-expert.json) |
 | Logistics Inc | 183877 | [183877-logistics-inc.json](./183877-logistics-inc.json) |
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
+| Logistik | 370728 | [370728-logistik.json](./370728-logistik.json) |
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
 | Logix: The Missing Part | 301884 | [301884-logix-the-missing-part.json](./301884-logix-the-missing-part.json) |
 | Logo | 119300 | [119300-logo.json](./119300-logo.json) |
