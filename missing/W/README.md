@@ -5217,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired Witch | 413788 | [413788-wired-witch.json](./413788-wired-witch.json) |
 | Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
+| Wires and Whiskers | 357162 | [357162-wires-and-whiskers.json](./357162-wires-and-whiskers.json) |
 | Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
 | Wireworks | 383442 | [383442-wireworks.json](./383442-wireworks.json) |
