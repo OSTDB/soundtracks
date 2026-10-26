@@ -936,6 +936,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
 | Hamstory | 391100 | [391100-hamstory.json](./391100-hamstory.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
+| Hamtaro Card e: B029 - Hannah | 356390 | [356390-hamtaro-card-e-b029-hannah.json](./356390-hamtaro-card-e-b029-hannah.json) |
+| Hamtaro Card e: B030 - Nin-Ham | 356391 | [356391-hamtaro-card-e-b030-nin-ham.json](./356391-hamtaro-card-e-b030-nin-ham.json) |
+| Hamtaro Card e: B031 - Sabu | 356392 | [356392-hamtaro-card-e-b031-sabu.json](./356392-hamtaro-card-e-b031-sabu.json) |
+| Hamtaro Card e: B032 - Seamore | 356393 | [356393-hamtaro-card-e-b032-seamore.json](./356393-hamtaro-card-e-b032-seamore.json) |
+| Hamtaro Card e: B033 - Nurse | 356394 | [356394-hamtaro-card-e-b033-nurse.json](./356394-hamtaro-card-e-b033-nurse.json) |
 | Hamtaro Card e: Gekijou Gentei - 03-A001: Mo Hams | 356401 | [356401-hamtaro-card-e-gekijou-gentei-03-a001-mo-hams.json](./356401-hamtaro-card-e-gekijou-gentei-03-a001-mo-hams.json) |
 | Hamtaro Card e: Gekijou Gentei - 03-A002: Minihamuzu | 356402 | [356402-hamtaro-card-e-gekijou-gentei-03-a002-minihamuzu.json](./356402-hamtaro-card-e-gekijou-gentei-03-a002-minihamuzu.json) |
 | Hamtaro Card e: Gekijou Gentei - 03-A003: Hamtaro | 356403 | [356403-hamtaro-card-e-gekijou-gentei-03-a003-hamtaro.json](./356403-hamtaro-card-e-gekijou-gentei-03-a003-hamtaro.json) |
@@ -1754,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony's Odyssey | 152093 | [152093-harmonys-odyssey.json](./152093-harmonys-odyssey.json) |
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
+| Harmtaro Card e: B034 - Koro-chan & Hamtaro | 356395 | [356395-harmtaro-card-e-b034-koro-chan-and-hamtaro.json](./356395-harmtaro-card-e-b034-koro-chan-and-hamtaro.json) |
 | Haro no Daibouken | 339595 | [339595-haro-no-daibouken.json](./339595-haro-no-daibouken.json) |
 | Harobots Action!! | 58061 | [58061-harobots-action.json](./58061-harobots-action.json) |
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
@@ -10604,6 +10610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Throw Patrol | 184991 | [184991-hyperspace-throw-patrol.json](./184991-hyperspace-throw-patrol.json) |
 | Hyperspace: Andy's Adventure | 149879 | [149879-hyperspace-andys-adventure.json](./149879-hyperspace-andys-adventure.json) |
 | Hyperspace: Andy's Adventure - Metal Universe | 155365 | [155365-hyperspace-andys-adventure-metal-universe.json](./155365-hyperspace-andys-adventure-metal-universe.json) |
+| Hyperspaced | 356529 | [356529-hyperspaced.json](./356529-hyperspaced.json) |
 | Hyperspacer | 293529 | [293529-hyperspacer.json](./293529-hyperspacer.json) |
 | Hyperspeed - Race with Friends | 115450 | [115450-hyperspeed-race-with-friends.json](./115450-hyperspeed-race-with-friends.json) |
 | Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
