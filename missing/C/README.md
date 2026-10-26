@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Business Manager | 384567 | [384567-cafe-business-manager.json](./384567-cafe-business-manager.json) |
 | Cafe Cafe: Idle Bird Collector | 393813 | [393813-cafe-cafe-idle-bird-collector.json](./393813-cafe-cafe-idle-bird-collector.json) |
 | Cafe Crawlers | 184885 | [184885-cafe-crawlers.json](./184885-cafe-crawlers.json) |
+| Cafe Crew Simulator | 374565 | [374565-cafe-crew-simulator.json](./374565-cafe-crew-simulator.json) |
 | Cafe Crush | 119723 | [119723-cafe-crush.json](./119723-cafe-crush.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Cafe Deux Femmes | 139210 | [139210-cafe-deux-femmes.json](./139210-cafe-deux-femmes.json) |
@@ -2053,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardness | 338688 | [338688-cardness.json](./338688-cardness.json) |
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
+| Cardopolis | 374655 | [374655-cardopolis.json](./374655-cardopolis.json) |
 | Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cardrunners | 348118 | [348118-cardrunners.json](./348118-cardrunners.json) |
@@ -3169,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Cafe: Dessert Panic | 241991 | [241991-cat-cafe-dessert-panic.json](./241991-cat-cafe-dessert-panic.json) |
 | Cat Calculations | 337670 | [337670-cat-calculations.json](./337670-cat-calculations.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
+| Cat Carried Butterfly | 374643 | [374643-cat-carried-butterfly.json](./374643-cat-carried-butterfly.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
 | Cat City | 265475 | [265475-cat-city.json](./265475-cat-city.json) |
@@ -9418,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Pusher Casino | 230196 | [230196-coin-pusher-casino.json](./230196-coin-pusher-casino.json) |
 | Coin Rush | 181054 | [181054-coin-rush.json](./181054-coin-rush.json) |
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
+| Coin Shark | 374577 | [374577-coin-shark.json](./374577-coin-shark.json) |
 | Coin Slot | 355181 | [355181-coin-slot.json](./355181-coin-slot.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Smith | 337067 | [337067-coin-smith.json](./337067-coin-smith.json) |
@@ -13994,6 +13998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Kitchen | 363954 | [363954-creature-kitchen.json](./363954-creature-kitchen.json) |
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
 | Creature Match | 298370 | [298370-creature-match.json](./298370-creature-match.json) |
+| Creature Menace: The Ultimate Nightmare | 374570 | [374570-creature-menace-the-ultimate-nightmare.json](./374570-creature-menace-the-ultimate-nightmare.json) |
 | Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
@@ -16311,6 +16316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fables: Before the Clock Strikes - Collector's Edition | 362841 | [362841-cursed-fables-before-the-clock-strikes-collectors-edition.json](./362841-cursed-fables-before-the-clock-strikes-collectors-edition.json) |
 | Cursed Fables: Twisted Tower | 247419 | [247419-cursed-fables-twisted-tower.json](./247419-cursed-fables-twisted-tower.json) |
 | Cursed Fables: Twisted Tower - Collector's Edition | 236203 | [236203-cursed-fables-twisted-tower-collectors-edition.json](./236203-cursed-fables-twisted-tower-collectors-edition.json) |
+| Cursed Frontier | 374572 | [374572-cursed-frontier.json](./374572-cursed-frontier.json) |
 | Cursed Ghost | 389918 | [389918-cursed-ghost.json](./389918-cursed-ghost.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
 | Cursed Halls | 244217 | [244217-cursed-halls.json](./244217-cursed-halls.json) |
