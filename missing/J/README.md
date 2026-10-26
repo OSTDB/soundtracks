@@ -347,7 +347,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jake and the Never Land Pirates | 137417 | [137417-jake-and-the-never-land-pirates.json](./137417-jake-and-the-never-land-pirates.json) |
 | Jake and the Never Land Pirates | 230381 | [230381-jake-and-the-never-land-pirates.json](./230381-jake-and-the-never-land-pirates.json) |
 | Jake Everest: Wakanga The Unseen Civilization | 258879 | [258879-jake-everest-wakanga-the-unseen-civilization.json](./258879-jake-everest-wakanga-the-unseen-civilization.json) |
+| Jake Hunter Detective Story: For Love | 347606 | [347606-jake-hunter-detective-story-for-love.json](./347606-jake-hunter-detective-story-for-love.json) |
+| Jake Hunter Detective Story: Forget-me-not | 347607 | [347607-jake-hunter-detective-story-forget-me-not.json](./347607-jake-hunter-detective-story-forget-me-not.json) |
+| Jake Hunter Detective Story: Four Seasons | 347608 | [347608-jake-hunter-detective-story-four-seasons.json](./347608-jake-hunter-detective-story-four-seasons.json) |
+| Jake Hunter Detective Story: Ghost of the Dusk | 347617 | [347617-jake-hunter-detective-story-ghost-of-the-dusk.json](./347617-jake-hunter-detective-story-ghost-of-the-dusk.json) |
 | Jake Hunter Detective Story: Ghost of the Dusk | 55863 | [55863-jake-hunter-detective-story-ghost-of-the-dusk.json](./55863-jake-hunter-detective-story-ghost-of-the-dusk.json) |
+| Jake Hunter Detective Story: Legend of the Demon Princess | 347605 | [347605-jake-hunter-detective-story-legend-of-the-demon-princess.json](./347605-jake-hunter-detective-story-legend-of-the-demon-princess.json) |
+| Jake Hunter Detective Story: Memories of the Past | 347580 | [347580-jake-hunter-detective-story-memories-of-the-past.json](./347580-jake-hunter-detective-story-memories-of-the-past.json) |
 | Jake Hunter Detective Story: Memories of the Past | 47772 | [47772-jake-hunter-detective-story-memories-of-the-past.json](./47772-jake-hunter-detective-story-memories-of-the-past.json) |
 | Jake Hunter Detective Story: Prism of Eyes | 101033 | [101033-jake-hunter-detective-story-prism-of-eyes.json](./101033-jake-hunter-detective-story-prism-of-eyes.json) |
 | Jake Hunter Unleashed 1: The Death of an Anthropologist | 349481 | [349481-jake-hunter-unleashed-1-the-death-of-an-anthropologist.json](./349481-jake-hunter-unleashed-1-the-death-of-an-anthropologist.json) |
@@ -2398,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Center of the Earth | 81426 | [81426-journey-to-the-center-of-the-earth.json](./81426-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of The Earth | 27427 | [27427-journey-to-the-center-of-the-earth.json](./27427-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth: Gold Edition | 81425 | [81425-journey-to-the-center-of-the-earth-gold-edition.json](./81425-journey-to-the-center-of-the-earth-gold-edition.json) |
+| Journey to the Center of the Lost Waterpark | 347590 | [347590-journey-to-the-center-of-the-lost-waterpark.json](./347590-journey-to-the-center-of-the-lost-waterpark.json) |
 | Journey to the Center of the Moon | 53246 | [53246-journey-to-the-center-of-the-moon.json](./53246-journey-to-the-center-of-the-moon.json) |
 | Journey to the Centre of Eddie Smith's Head | 28697 | [28697-journey-to-the-centre-of-eddie-smiths-head.json](./28697-journey-to-the-centre-of-eddie-smiths-head.json) |
 | Journey to the Centre of Nirn | 314286 | [314286-journey-to-the-centre-of-nirn.json](./314286-journey-to-the-centre-of-nirn.json) |
