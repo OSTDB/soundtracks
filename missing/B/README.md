@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11095,6 +11096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Ultimate Edition | 140899 | [140899-borderlands-3-ultimate-edition.json](./140899-borderlands-3-ultimate-edition.json) |
 | Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
 | Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
+| Borderlands 4: Vault Hunter Pack | 370632 | [370632-borderlands-4-vault-hunter-pack.json](./370632-borderlands-4-vault-hunter-pack.json) |
 | Borderlands Collection: Pandora's Box | 264479 | [264479-borderlands-collection-pandoras-box.json](./264479-borderlands-collection-pandoras-box.json) |
 | Borderlands Double Deluxe Collection | 136725 | [136725-borderlands-double-deluxe-collection.json](./136725-borderlands-double-deluxe-collection.json) |
 | Borderlands Double Game Add-On Pack | 147224 | [147224-borderlands-double-game-add-on-pack.json](./147224-borderlands-double-game-add-on-pack.json) |
