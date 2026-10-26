@@ -5464,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf 2D | 74208 | [74208-golf-2d.json](./74208-golf-2d.json) |
 | Golf 5 eClub | 194227 | [194227-golf-5-eclub.json](./194227-golf-5-eclub.json) |
 | Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
+| Golf 5: The Playoff Edition | 377656 | [377656-golf-5-the-playoff-edition.json](./377656-golf-5-the-playoff-edition.json) |
 | Golf a Guy! | 199332 | [199332-golf-a-guy.json](./199332-golf-a-guy.json) |
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
@@ -7669,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Hand | 414399 | [414399-grim-hand.json](./414399-grim-hand.json) |
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
+| Grim Jobs: Dredger | 377119 | [377119-grim-jobs-dredger.json](./377119-grim-jobs-dredger.json) |
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
 | Grim Knight | 235672 | [235672-grim-knight.json](./235672-grim-knight.json) |
 | Grim Legends 3: The Dark City | 33110 | [33110-grim-legends-3-the-dark-city.json](./33110-grim-legends-3-the-dark-city.json) |
@@ -8205,6 +8207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grubby Fingers | 343305 | [343305-grubby-fingers.json](./343305-grubby-fingers.json) |
 | GrubDash Driver: Food Delivery Driver Simulator | 189861 | [189861-grubdash-driver-food-delivery-driver-simulator.json](./189861-grubdash-driver-food-delivery-driver-simulator.json) |
 | Grubfish Royale | 165451 | [165451-grubfish-royale.json](./165451-grubfish-royale.json) |
+| Grubkins | 377039 | [377039-grubkins.json](./377039-grubkins.json) |
 | Grudge | 278516 | [278516-grudge.json](./278516-grudge.json) |
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
@@ -8501,6 +8504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild 01 | 92613 | [92613-guild-01.json](./92613-guild-01.json) |
 | Guild Ball | 56912 | [56912-guild-ball.json](./56912-guild-ball.json) |
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
+| Guild Encounters | 377623 | [377623-guild-encounters.json](./377623-guild-encounters.json) |
 | Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
 | Guild Loot | 120239 | [120239-guild-loot.json](./120239-guild-loot.json) |
 | Guild Master Manager | 207200 | [207200-guild-master-manager.json](./207200-guild-master-manager.json) |
