@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels Palace | 114757 | [114757-jewels-palace.json](./114757-jewels-palace.json) |
 | Jewels Time : Endless match | 108510 | [108510-jewels-time-endless-match.json](./108510-jewels-time-endless-match.json) |
 | Jex | 318245 | [318245-jex.json](./318245-jex.json) |
+| Jezebel | 377033 | [377033-jezebel.json](./377033-jezebel.json) |
 | Jezebel and the Flame | 186254 | [186254-jezebel-and-the-flame.json](./186254-jezebel-and-the-flame.json) |
 | Jezebel: Givin' Love a Shot | 260611 | [260611-jezebel-givin-love-a-shot.json](./260611-jezebel-givin-love-a-shot.json) |
 | Jezzak | 263591 | [263591-jezzak.json](./263591-jezzak.json) |
@@ -1356,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JiangHu Record of Another World | 120707 | [120707-jianghu-record-of-another-world.json](./120707-jianghu-record-of-another-world.json) |
 | Jiānghú Yúshēng: Yuánqǐ | 395753 | [395753-jianghu-yusheng-yuanqi.json](./395753-jianghu-yusheng-yuanqi.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
+| JianLong Mountain in Chongzuo City | 377041 | [377041-jianlong-mountain-in-chongzuo-city.json](./377041-jianlong-mountain-in-chongzuo-city.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
 | Jiànxiá Qíngyuán Èr | 350553 | [350553-jianxia-qingyuan-er.json](./350553-jianxia-qingyuan-er.json) |
 | Jiànxiá Tú | 157674 | [157674-jianxia-tu.json](./157674-jianxia-tu.json) |
