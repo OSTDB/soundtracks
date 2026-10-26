@@ -6458,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuumonsters: Classic | 142668 | [142668-nuumonsters-classic.json](./142668-nuumonsters-classic.json) |
 | Nuvavult | 126360 | [126360-nuvavult.json](./126360-nuvavult.json) |
 | Nuvoid | 25906 | [25906-nuvoid.json](./25906-nuvoid.json) |
+| Nuvoloso | 364466 | [364466-nuvoloso.json](./364466-nuvoloso.json) |
 | Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
 | Nuwe: First seeds | 199099 | [199099-nuwe-first-seeds.json](./199099-nuwe-first-seeds.json) |
 | Nuworm | 378570 | [378570-nuworm.json](./378570-nuworm.json) |
