@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PDC World Championship Darts 2008 | 5092 | [5092-pdc-world-championship-darts-2008.json](./5092-pdc-world-championship-darts-2008.json) |
 | PDI Check | 119520 | [119520-pdi-check.json](./119520-pdi-check.json) |
 | PDP 10 Timesharing Basketball | 388374 | [388374-pdp-10-timesharing-basketball.json](./388374-pdp-10-timesharing-basketball.json) |
+| PdTour | 339176 | [339176-pdtour.json](./339176-pdtour.json) |
 | Pe-2: Dive Bomber | 17672 | [17672-pe-2-dive-bomber.json](./17672-pe-2-dive-bomber.json) |
 | Pea Pod Power | 264668 | [264668-pea-pod-power.json](./264668-pea-pod-power.json) |
 | Pea Shootin' Pete | 70481 | [70481-pea-shootin-pete.json](./70481-pea-shootin-pete.json) |
@@ -15006,6 +15007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushing Crates | 215037 | [215037-pushing-crates.json](./215037-pushing-crates.json) |
 | Pushing Hands: Fighting Game | 166296 | [166296-pushing-hands-fighting-game.json](./166296-pushing-hands-fighting-game.json) |
 | Pushing it | 386517 | [386517-pushing-it.json](./386517-pushing-it.json) |
+| Pushing It! Together: Sisyphus Co-Op | 339175 | [339175-pushing-it-together-sisyphus-co-op.json](./339175-pushing-it-together-sisyphus-co-op.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Pushing the limit | 157098 | [157098-pushing-the-limit.json](./157098-pushing-the-limit.json) |
 | Pushman | 247313 | [247313-pushman.json](./247313-pushman.json) |
