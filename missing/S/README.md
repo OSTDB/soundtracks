@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
 | Sakura-sou no Pet na Kanojo | 139742 | [139742-sakura-sou-no-pet-na-kanojo.json](./139742-sakura-sou-no-pet-na-kanojo.json) |
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
+| Sakura, The Jirai-kei Magical Girl | 382253 | [382253-sakura-the-jirai-kei-magical-girl.json](./382253-sakura-the-jirai-kei-magical-girl.json) |
 | Sakuraba Ema's Intertwining Threshold | 418771 | [418771-sakuraba-emas-intertwining-threshold.json](./418771-sakuraba-emas-intertwining-threshold.json) |
 | Sakurairo Prism | 234149 | [234149-sakurairo-prism.json](./234149-sakurairo-prism.json) |
 | Sakurairo Prism: Beyond the Bloom | 419611 | [419611-sakurairo-prism-beyond-the-bloom.json](./419611-sakurairo-prism-beyond-the-bloom.json) |
@@ -3111,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
 | Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
+| Scrutator Tenebris | 382174 | [382174-scrutator-tenebris.json](./382174-scrutator-tenebris.json) |
 | ScruTiny in the Great Round | 172409 | [172409-scrutiny-in-the-great-round.json](./172409-scrutiny-in-the-great-round.json) |
 | Scruzzleword | 21582 | [21582-scruzzleword.json](./21582-scruzzleword.json) |
 | SCS deOrbit | 36050 | [36050-scs-deorbit.json](./36050-scs-deorbit.json) |
@@ -5145,10 +5147,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Drive | 276044 | [276044-sex-drive.json](./276044-sex-drive.json) |
 | Sex Education | 322714 | [322714-sex-education.json](./322714-sex-education.json) |
 | Sex Escape: Ecstasies of Two | 83169 | [83169-sex-escape-ecstasies-of-two.json](./83169-sex-escape-ecstasies-of-two.json) |
+| Sex Game - BDSM - Episode 1 | 382157 | [382157-sex-game-bdsm-episode-1.json](./382157-sex-game-bdsm-episode-1.json) |
+| Sex Game - BDSM - Episode 3 | 382155 | [382155-sex-game-bdsm-episode-3.json](./382155-sex-game-bdsm-episode-3.json) |
 | Sex Game - BDSM - Episode 4 | 382395 | [382395-sex-game-bdsm-episode-4.json](./382395-sex-game-bdsm-episode-4.json) |
 | Sex Game - Gay Affair - Episode 4 | 382394 | [382394-sex-game-gay-affair-episode-4.json](./382394-sex-game-gay-affair-episode-4.json) |
 | Sex Game - Naughty Couple - Episode 7 | 382393 | [382393-sex-game-naughty-couple-episode-7.json](./382393-sex-game-naughty-couple-episode-7.json) |
 | Sex Game - Naughty Couple - Episode 8 | 382388 | [382388-sex-game-naughty-couple-episode-8.json](./382388-sex-game-naughty-couple-episode-8.json) |
+| Sex Game - Naughty Couple - Episode 9 | 382158 | [382158-sex-game-naughty-couple-episode-9.json](./382158-sex-game-naughty-couple-episode-9.json) |
 | Sex Game - Naughty Girls - Episode 7 | 382391 | [382391-sex-game-naughty-girls-episode-7.json](./382391-sex-game-naughty-girls-episode-7.json) |
 | Sex Game - Naughty Girls - Episode 8 | 382389 | [382389-sex-game-naughty-girls-episode-8.json](./382389-sex-game-naughty-girls-episode-8.json) |
 | Sex Game - Threesome - Episode 5 | 382385 | [382385-sex-game-threesome-episode-5.json](./382385-sex-game-threesome-episode-5.json) |
@@ -5166,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game: Naughty Girls - Episode 3 | 371057 | [371057-sex-game-naughty-girls-episode-3.json](./371057-sex-game-naughty-girls-episode-3.json) |
 | Sex Game: Naughty Girls - Episode 5 | 375270 | [375270-sex-game-naughty-girls-episode-5.json](./375270-sex-game-naughty-girls-episode-5.json) |
 | Sex Game: Naughty Girls - Episode 6 | 375271 | [375271-sex-game-naughty-girls-episode-6.json](./375271-sex-game-naughty-girls-episode-6.json) |
+| Sex Game: Naughty Girls - Episode 9 | 382156 | [382156-sex-game-naughty-girls-episode-9.json](./382156-sex-game-naughty-girls-episode-9.json) |
 | Sex Game: Threesome - Episode 1 | 371056 | [371056-sex-game-threesome-episode-1.json](./371056-sex-game-threesome-episode-1.json) |
 | Sex Game: Threesome - Episode 4 | 375268 | [375268-sex-game-threesome-episode-4.json](./375268-sex-game-threesome-episode-4.json) |
 | Sex Girlfriend Simulator | 189977 | [189977-sex-girlfriend-simulator.json](./189977-sex-girlfriend-simulator.json) |
@@ -8600,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Dragon US | 39850 | [39850-silent-dragon-us.json](./39850-silent-dragon-us.json) |
 | Silent Dread: Last Order | 408116 | [408116-silent-dread-last-order.json](./408116-silent-dread-last-order.json) |
 | Silent Earth | 151495 | [151495-silent-earth.json](./151495-silent-earth.json) |
+| Silent Edge | 382259 | [382259-silent-edge.json](./382259-silent-edge.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Evil Dead Horror Syndrome | 401441 | [401441-silent-evil-dead-horror-syndrome.json](./401441-silent-evil-dead-horror-syndrome.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
@@ -9972,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch Heads | 250224 | [250224-sketch-heads.json](./250224-sketch-heads.json) |
 | Sketch Magician | 347100 | [347100-sketch-magician.json](./347100-sketch-magician.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
+| Sketch Quest | 382171 | [382171-sketch-quest.json](./382171-sketch-quest.json) |
 | Sketch Rider | 235246 | [235246-sketch-rider.json](./235246-sketch-rider.json) |
 | Sketch Tales | 13161 | [13161-sketch-tales.json](./13161-sketch-tales.json) |
 | Sketch Wars | 36849 | [36849-sketch-wars.json](./36849-sketch-wars.json) |
@@ -27560,6 +27568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Trucks Racing | 43352 | [43352-super-trucks-racing.json](./43352-super-trucks-racing.json) |
 | Super Trump Collection | 42221 | [42221-super-trump-collection.json](./42221-super-trump-collection.json) |
 | Super Trump Collection 2 | 42220 | [42220-super-trump-collection-2.json](./42220-super-trump-collection-2.json) |
+| Super Trunfo: Battle Cards | 382250 | [382250-super-trunfo-battle-cards.json](./382250-super-trunfo-battle-cards.json) |
 | Super Trunko Go | 199368 | [199368-super-trunko-go.json](./199368-super-trunko-go.json) |
 | Super Trux | 74431 | [74431-super-trux.json](./74431-super-trux.json) |
 | Super TSA | 367015 | [367015-super-tsa.json](./367015-super-tsa.json) |
@@ -29793,6 +29802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
 | Synth Riders + Experiences | 353654 | [353654-synth-riders-experiences.json](./353654-synth-riders-experiences.json) |
 | Synth Riders: 80s Mixtape - Side A | 356903 | [356903-synth-riders-80s-mixtape-side-a.json](./356903-synth-riders-80s-mixtape-side-a.json) |
+| Synth Riders: 80s Mixtape Side B Music Pack | 382176 | [382176-synth-riders-80s-mixtape-side-b-music-pack.json](./382176-synth-riders-80s-mixtape-side-b-music-pack.json) |
 | Synth Riders: 90s Rock Music Pack | 353648 | [353648-synth-riders-90s-rock-music-pack.json](./353648-synth-riders-90s-rock-music-pack.json) |
 | Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
 | Synth Riders: Artemas - "I Like the Way You Kiss Me" | 354554 | [354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json](./354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json) |
@@ -29808,12 +29818,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Crypt of The NecroDancer Music Pack | 401744 | [401744-synth-riders-crypt-of-the-necrodancer-music-pack.json](./401744-synth-riders-crypt-of-the-necrodancer-music-pack.json) |
 | Synth Riders: Crypt of The NecroDancer Music Pack | 401745 | [401745-synth-riders-crypt-of-the-necrodancer-music-pack.json](./401745-synth-riders-crypt-of-the-necrodancer-music-pack.json) |
 | Synth Riders: Current Waves | 354558 | [354558-synth-riders-current-waves.json](./354558-synth-riders-current-waves.json) |
+| Synth Riders: Current Waves Music Pack | 382177 | [382177-synth-riders-current-waves-music-pack.json](./382177-synth-riders-current-waves-music-pack.json) |
 | Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
 | Synth Riders: Daryl Hall & John Oates - "Out of Touch" | 353389 | [353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json](./353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json) |
 | Synth Riders: David Guetta & OneRepublic - "I Don't Wanna Wait" | 354553 | [354553-synth-riders-david-guetta-and-onerepublic-i-dont-wanna-wait.json](./354553-synth-riders-david-guetta-and-onerepublic-i-dont-wanna-wait.json) |
 | Synth Riders: Devo - "Whip It" | 298700 | [298700-synth-riders-devo-whip-it.json](./298700-synth-riders-devo-whip-it.json) |
 | Synth Riders: Electro Swing Essentials | 356829 | [356829-synth-riders-electro-swing-essentials.json](./356829-synth-riders-electro-swing-essentials.json) |
 | Synth Riders: Electro Swing Essentials 2 | 356902 | [356902-synth-riders-electro-swing-essentials-2.json](./356902-synth-riders-electro-swing-essentials-2.json) |
+| Synth Riders: Gorillaz Music Pack | 382179 | [382179-synth-riders-gorillaz-music-pack.json](./382179-synth-riders-gorillaz-music-pack.json) |
 | Synth Riders: Groovin' Essentials | 356180 | [356180-synth-riders-groovin-essentials.json](./356180-synth-riders-groovin-essentials.json) |
 | Synth Riders: Infected Mushroom - "Black Velvet" (feat. Ninet Tayeb) | 364550 | [364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json](./364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json) |
 | Synth Riders: Infected Mushroom Music Pack | 364551 | [364551-synth-riders-infected-mushroom-music-pack.json](./364551-synth-riders-infected-mushroom-music-pack.json) |
@@ -29821,6 +29833,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Jack Harlow - "Lovin On Me" | 354555 | [354555-synth-riders-jack-harlow-lovin-on-me.json](./354555-synth-riders-jack-harlow-lovin-on-me.json) |
 | Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
 | Synth Riders: Kendrick Lamar - "Humble." + Experience | 372106 | [372106-synth-riders-kendrick-lamar-humble-experience.json](./372106-synth-riders-kendrick-lamar-humble-experience.json) |
+| Synth Riders: Lady Gaga - "Abracadabra" | 382266 | [382266-synth-riders-lady-gaga-abracadabra.json](./382266-synth-riders-lady-gaga-abracadabra.json) |
+| Synth Riders: Lady Gaga - "Applause" | 382269 | [382269-synth-riders-lady-gaga-applause.json](./382269-synth-riders-lady-gaga-applause.json) |
+| Synth Riders: Lady Gaga - "Bad Romance" | 382265 | [382265-synth-riders-lady-gaga-bad-romance.json](./382265-synth-riders-lady-gaga-bad-romance.json) |
+| Synth Riders: Lady Gaga - "Bloody Mary" | 382263 | [382263-synth-riders-lady-gaga-bloody-mary.json](./382263-synth-riders-lady-gaga-bloody-mary.json) |
+| Synth Riders: Lady Gaga - "Born This Way" | 382268 | [382268-synth-riders-lady-gaga-born-this-way.json](./382268-synth-riders-lady-gaga-born-this-way.json) |
+| Synth Riders: Lady Gaga - "Disease" | 382261 | [382261-synth-riders-lady-gaga-disease.json](./382261-synth-riders-lady-gaga-disease.json) |
+| Synth Riders: Lady Gaga - "Paparazzi" | 382267 | [382267-synth-riders-lady-gaga-paparazzi.json](./382267-synth-riders-lady-gaga-paparazzi.json) |
+| Synth Riders: Lady Gaga - "Poker Face" | 382264 | [382264-synth-riders-lady-gaga-poker-face.json](./382264-synth-riders-lady-gaga-poker-face.json) |
+| Synth Riders: Lady Gaga - "The Dead Dance" | 382260 | [382260-synth-riders-lady-gaga-the-dead-dance.json](./382260-synth-riders-lady-gaga-the-dead-dance.json) |
+| Synth Riders: Lady Gaga & Beyoncé - "Telephone" | 382270 | [382270-synth-riders-lady-gaga-and-beyonce-telephone.json](./382270-synth-riders-lady-gaga-and-beyonce-telephone.json) |
+| Synth Riders: Lady Gaga & Colby O'Donis - "Just Dance" | 382262 | [382262-synth-riders-lady-gaga-and-colby-odonis-just-dance.json](./382262-synth-riders-lady-gaga-and-colby-odonis-just-dance.json) |
+| Synth Riders: Lady Gaga Music Pack | 382178 | [382178-synth-riders-lady-gaga-music-pack.json](./382178-synth-riders-lady-gaga-music-pack.json) |
+| Synth Riders: Lady Gaga Music Pack | 382272 | [382272-synth-riders-lady-gaga-music-pack.json](./382272-synth-riders-lady-gaga-music-pack.json) |
 | Synth Riders: League of Legends - "Legends Never Die" | 353649 | [353649-synth-riders-league-of-legends-legends-never-die.json](./353649-synth-riders-league-of-legends-legends-never-die.json) |
 | Synth Riders: Lindsey Stirling - "First Light" | 356173 | [356173-synth-riders-lindsey-stirling-first-light.json](./356173-synth-riders-lindsey-stirling-first-light.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
