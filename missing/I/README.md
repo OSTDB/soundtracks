@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Bad at People, but Turns Out I’m Even Worse at Making Games | 260147 | [260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json](./260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json) |
 | I am Ball | 131973 | [131973-i-am-ball.json](./131973-i-am-ball.json) |
 | I Am Better Than You | 400532 | [400532-i-am-better-than-you.json](./400532-i-am-better-than-you.json) |
+| I Am Bird | 379911 | [379911-i-am-bird.json](./379911-i-am-bird.json) |
 | I am Bjorn | 212992 | [212992-i-am-bjorn.json](./212992-i-am-bjorn.json) |
 | I Am Blondi | 109521 | [109521-i-am-blondi.json](./109521-i-am-blondi.json) |
 | I am Bread | 7868 | [7868-i-am-bread.json](./7868-i-am-bread.json) |
