@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Wolf | 165959 | [165959-wandering-wolf.json](./165959-wandering-wolf.json) |
 | Wandering Wolf Trick | 135487 | [135487-wandering-wolf-trick.json](./135487-wandering-wolf-trick.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
+| Wanderling | 334605 | [334605-wanderling.json](./334605-wanderling.json) |
 | Wanderlost | 145380 | [145380-wanderlost.json](./145380-wanderlost.json) |
 | Wanderlost | 225712 | [225712-wanderlost.json](./225712-wanderlost.json) |
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
@@ -6808,6 +6809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
 | World History Quiz: Cavemen to Democracy | 72180 | [72180-world-history-quiz-cavemen-to-democracy.json](./72180-world-history-quiz-cavemen-to-democracy.json) |
+| World Hockey '88 | 334604 | [334604-world-hockey-88.json](./334604-world-hockey-88.json) |
 | World Hockey '95 | 71973 | [71973-world-hockey-95.json](./71973-world-hockey-95.json) |
 | World Hockey Manager | 88883 | [88883-world-hockey-manager.json](./88883-world-hockey-manager.json) |
 | World Hunter | 60634 | [60634-world-hunter.json](./60634-world-hunter.json) |
