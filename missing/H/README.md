@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headshot | 91383 | [91383-headshot.json](./91383-headshot.json) |
 | Headshot Holdout | 418247 | [418247-headshot-holdout.json](./418247-headshot-holdout.json) |
 | Headshot Roulette | 356705 | [356705-headshot-roulette.json](./356705-headshot-roulette.json) |
+| Headshot! | 365725 | [365725-headshot.json](./365725-headshot.json) |
 | Headsnatchers | 95026 | [95026-headsnatchers.json](./95026-headsnatchers.json) |
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
@@ -3538,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers 2: Devoid of Liberty | 412429 | [412429-helldivers-2-devoid-of-liberty.json](./412429-helldivers-2-devoid-of-liberty.json) |
 | Helldivers 2: Escalation of Freedom | 309615 | [309615-helldivers-2-escalation-of-freedom.json](./309615-helldivers-2-escalation-of-freedom.json) |
 | Helldivers 2: Heart of Democracy | 344330 | [344330-helldivers-2-heart-of-democracy.json](./344330-helldivers-2-heart-of-democracy.json) |
+| Helldivers 2: Into the Unjust | 365642 | [365642-helldivers-2-into-the-unjust.json](./365642-helldivers-2-into-the-unjust.json) |
 | Helldivers 2: Omens of Tyranny | 325601 | [325601-helldivers-2-omens-of-tyranny.json](./325601-helldivers-2-omens-of-tyranny.json) |
 | Helldivers 2: TR-117 Alpha Commander Armor Set | 325558 | [325558-helldivers-2-tr-117-alpha-commander-armor-set.json](./325558-helldivers-2-tr-117-alpha-commander-armor-set.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
@@ -4779,6 +4781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero | 313746 | [313746-hero.json](./313746-hero.json) |
 | Hero | 379936 | [379936-hero.json](./379936-hero.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
+| Hero 2048 | 365606 | [365606-hero-2048.json](./365606-hero-2048.json) |
 | Hero Allstars: Void Invasion | 158120 | [158120-hero-allstars-void-invasion.json](./158120-hero-allstars-void-invasion.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
 | Hero and Daughter | 58887 | [58887-hero-and-daughter.json](./58887-hero-and-daughter.json) |
@@ -7380,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Jump | 348466 | [348466-hollow-jump.json](./348466-hollow-jump.json) |
 | Hollow Knight | 365702 | [365702-hollow-knight.json](./365702-hollow-knight.json) |
 | Hollow Knight Gun Mod | 341658 | [341658-hollow-knight-gun-mod.json](./341658-hollow-knight-gun-mod.json) |
+| Hollow Knight Multiplayer | 365651 | [365651-hollow-knight-multiplayer.json](./365651-hollow-knight-multiplayer.json) |
 | Hollow Knight Randomizer | 341654 | [341654-hollow-knight-randomizer.json](./341654-hollow-knight-randomizer.json) |
 | Hollow Knight Silksong | 372563 | [372563-hollow-knight-silksong.json](./372563-hollow-knight-silksong.json) |
 | Hollow Knight: Collector's Edition | 116151 | [116151-hollow-knight-collectors-edition.json](./116151-hollow-knight-collectors-edition.json) |
@@ -8968,6 +8972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Renovator: Kawaii Furniture Set | 245386 | [245386-hotel-renovator-kawaii-furniture-set.json](./245386-hotel-renovator-kawaii-furniture-set.json) |
 | Hotel Room Haunting | 275645 | [275645-hotel-room-haunting.json](./275645-hotel-room-haunting.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
+| Hotel Sim | 365722 | [365722-hotel-sim.json](./365722-hotel-sim.json) |
 | Hotel Simulator | 212994 | [212994-hotel-simulator.json](./212994-hotel-simulator.json) |
 | Hotel Simulator | 235688 | [235688-hotel-simulator.json](./235688-hotel-simulator.json) |
 | Hotel Simulator | 259140 | [259140-hotel-simulator.json](./259140-hotel-simulator.json) |
@@ -9090,9 +9095,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper Simulator | 174666 | [174666-house-flipper-simulator.json](./174666-house-flipper-simulator.json) |
 | House Flipper VR | 129209 | [129209-house-flipper-vr.json](./129209-house-flipper-vr.json) |
 | House Flipper: Apocalypse | 165990 | [165990-house-flipper-apocalypse.json](./165990-house-flipper-apocalypse.json) |
+| House Flipper: Complete Bundle | 365585 | [365585-house-flipper-complete-bundle.json](./365585-house-flipper-complete-bundle.json) |
 | House Flipper: Cyberpunk | 171638 | [171638-house-flipper-cyberpunk.json](./171638-house-flipper-cyberpunk.json) |
 | House Flipper: Dine Out | 289332 | [289332-house-flipper-dine-out.json](./289332-house-flipper-dine-out.json) |
+| House Flipper: Everybody Loves Animals | 365586 | [365586-house-flipper-everybody-loves-animals.json](./365586-house-flipper-everybody-loves-animals.json) |
 | House Flipper: Farm | 200725 | [200725-house-flipper-farm.json](./200725-house-flipper-farm.json) |
+| House Flipper: Farm Bundle | 365587 | [365587-house-flipper-farm-bundle.json](./365587-house-flipper-farm-bundle.json) |
 | House Flipper: Garden DLC | 116384 | [116384-house-flipper-garden-dlc.json](./116384-house-flipper-garden-dlc.json) |
 | House Flipper: HGTV DLC | 145529 | [145529-house-flipper-hgtv-dlc.json](./145529-house-flipper-hgtv-dlc.json) |
 | House Flipper: Home Design | 102846 | [102846-house-flipper-home-design.json](./102846-house-flipper-home-design.json) |
