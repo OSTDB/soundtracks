@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora | 255144 | [255144-pandora.json](./255144-pandora.json) |
 | Pandora Galaxy | 156987 | [156987-pandora-galaxy.json](./156987-pandora-galaxy.json) |
 | Pandora no Bikkuribako | 405673 | [405673-pandora-no-bikkuribako.json](./405673-pandora-no-bikkuribako.json) |
+| Pandora no Yume | 372435 | [372435-pandora-no-yume.json](./372435-pandora-no-yume.json) |
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
 | Pandora: Chains of Chaos | 90114 | [90114-pandora-chains-of-chaos.json](./90114-pandora-chains-of-chaos.json) |
 | Pandora: First Contact - Eclipse of Nashira | 170827 | [170827-pandora-first-contact-eclipse-of-nashira.json](./170827-pandora-first-contact-eclipse-of-nashira.json) |
@@ -11807,6 +11808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of a Life | 358991 | [358991-price-of-a-life.json](./358991-price-of-a-life.json) |
 | Price of Flight | 271597 | [271597-price-of-flight.json](./271597-price-of-flight.json) |
+| Price of Obsession | 372503 | [372503-price-of-obsession.json](./372503-price-of-obsession.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | Price of Resurrection | 212700 | [212700-price-of-resurrection.json](./212700-price-of-resurrection.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
@@ -12744,6 +12746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Mahjong Gokuu | 41394 | [41394-professional-mahjong-gokuu.json](./41394-professional-mahjong-gokuu.json) |
 | Professional Mahjong Kiwame | 97871 | [97871-professional-mahjong-kiwame.json](./97871-professional-mahjong-kiwame.json) |
 | Professional Offroad Transport Simulator | 67919 | [67919-professional-offroad-transport-simulator.json](./67919-professional-offroad-transport-simulator.json) |
+| Professional Ship Simulator | 372515 | [372515-professional-ship-simulator.json](./372515-professional-ship-simulator.json) |
 | Professional Ski Simulator | 80530 | [80530-professional-ski-simulator.json](./80530-professional-ski-simulator.json) |
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
 | Professional Team | 161565 | [161565-professional-team.json](./161565-professional-team.json) |
