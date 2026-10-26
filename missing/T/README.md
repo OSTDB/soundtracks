@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Poppet | 395523 | [395523-talking-poppet.json](./395523-talking-poppet.json) |
 | Talking Roby the Robot | 343796 | [343796-talking-roby-the-robot.json](./343796-talking-roby-the-robot.json) |
 | Talking Saban's Mighty Morphin Power Rangers: The Solar Stealers | 217938 | [217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json](./217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json) |
+| Talking Santa | 344864 | [344864-talking-santa.json](./344864-talking-santa.json) |
 | Talking The Simpsons: Bart vs. Homersaurus | 198889 | [198889-talking-the-simpsons-bart-vs-homersaurus.json](./198889-talking-the-simpsons-bart-vs-homersaurus.json) |
 | Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
 | Talking Tom & Ben News | 214781 | [214781-talking-tom-and-ben-news.json](./214781-talking-tom-and-ben-news.json) |
@@ -5456,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Deal | 13815 | [13815-the-big-deal.json](./13815-the-big-deal.json) |
 | The Big Deal | 267219 | [267219-the-big-deal.json](./267219-the-big-deal.json) |
 | The Big Elk | 33340 | [33340-the-big-elk.json](./33340-the-big-elk.json) |
+| The Big Farm Theory | 344867 | [344867-the-big-farm-theory.json](./344867-the-big-farm-theory.json) |
 | The Big Fear of Heights Experience | 52002 | [52002-the-big-fear-of-heights-experience.json](./52002-the-big-fear-of-heights-experience.json) |
 | The Big Gay Adventure | 327403 | [327403-the-big-gay-adventure.json](./327403-the-big-gay-adventure.json) |
 | The Big Heap | 129720 | [129720-the-big-heap.json](./129720-the-big-heap.json) |
@@ -8168,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
 | The Forgoatten Isles | 177749 | [177749-the-forgoatten-isles.json](./177749-the-forgoatten-isles.json) |
+| The Forgotten Apartment | 344832 | [344832-the-forgotten-apartment.json](./344832-the-forgotten-apartment.json) |
 | The Forgotten Boundary | 201485 | [201485-the-forgotten-boundary.json](./201485-the-forgotten-boundary.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
@@ -9152,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hundred Youkai Master | 346674 | [346674-the-hundred-youkai-master.json](./346674-the-hundred-youkai-master.json) |
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
 | The Hunger Games: Catching Fire - Panem Run | 62600 | [62600-the-hunger-games-catching-fire-panem-run.json](./62600-the-hunger-games-catching-fire-panem-run.json) |
+| The Hunger Games: Panem Rising | 344829 | [344829-the-hunger-games-panem-rising.json](./344829-the-hunger-games-panem-rising.json) |
 | The Hunger: Games Ensemble | 164914 | [164914-the-hunger-games-ensemble.json](./164914-the-hunger-games-ensemble.json) |
 | The Hungry Horde: Holiday Hijinx | 372821 | [372821-the-hungry-horde-holiday-hijinx.json](./372821-the-hungry-horde-holiday-hijinx.json) |
 | The Hungry House | 179502 | [179502-the-hungry-house.json](./179502-the-hungry-house.json) |
@@ -10895,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lightless World | 289989 | [289989-the-lightless-world.json](./289989-the-lightless-world.json) |
 | The Lightning Girl | 372275 | [372275-the-lightning-girl.json](./372275-the-lightning-girl.json) |
 | The Lightning Over Pear Acre Road | 138186 | [138186-the-lightning-over-pear-acre-road.json](./138186-the-lightning-over-pear-acre-road.json) |
+| The Lightning Struck Orphan | 345152 | [345152-the-lightning-struck-orphan.json](./345152-the-lightning-struck-orphan.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Lik | 223369 | [223369-the-lik.json](./223369-the-lik.json) |
 | The Lilliput Workshop | 205249 | [205249-the-lilliput-workshop.json](./205249-the-lilliput-workshop.json) |
@@ -21340,6 +21345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 4 | 915 | [915-tony-hawks-pro-skater-4.json](./915-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 Street | 23754 | [23754-tony-hawks-pro-skater-4-street.json](./23754-tony-hawks-pro-skater-4-street.json) |
 | Tony Hawk's Pro Skater HD: Revert Pack | 346921 | [346921-tony-hawks-pro-skater-hd-revert-pack.json](./346921-tony-hawks-pro-skater-hd-revert-pack.json) |
+| Tony Hawk's Project 8 | 344862 | [344862-tony-hawks-project-8.json](./344862-tony-hawks-project-8.json) |
 | Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
 | Tony Hawk's Project Mod | 404806 | [404806-tony-hawks-project-mod.json](./404806-tony-hawks-project-mod.json) |
 | Tony Hawk's Proving Ground | 249760 | [249760-tony-hawks-proving-ground.json](./249760-tony-hawks-proving-ground.json) |
@@ -27336,6 +27342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn and Burn: No-Fly Zone | 42438 | [42438-turn-and-burn-no-fly-zone.json](./42438-turn-and-burn-no-fly-zone.json) |
 | Turn and Burn: The F-14 Dogfight Simulator | 49058 | [49058-turn-and-burn-the-f-14-dogfight-simulator.json](./49058-turn-and-burn-the-f-14-dogfight-simulator.json) |
 | Turn Around | 29420 | [29420-turn-around.json](./29420-turn-around.json) |
+| Turn Around | 344858 | [344858-turn-around.json](./344858-turn-around.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
 | Turn Back The Powers Of Darkness | 350233 | [350233-turn-back-the-powers-of-darkness.json](./350233-turn-back-the-powers-of-darkness.json) |
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
