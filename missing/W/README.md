@@ -5835,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Adventures | 164518 | [164518-wolf-adventures.json](./164518-wolf-adventures.json) |
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
+| Wolf and The Warren | 353347 | [353347-wolf-and-the-warren.json](./353347-wolf-and-the-warren.json) |
 | Wolf Attack | 165755 | [165755-wolf-attack.json](./165755-wolf-attack.json) |
 | Wolf Balls | 100590 | [100590-wolf-balls.json](./100590-wolf-balls.json) |
 | Wolf Boot Camp | 232052 | [232052-wolf-boot-camp.json](./232052-wolf-boot-camp.json) |
