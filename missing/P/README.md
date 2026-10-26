@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passing Shot | 12839 | [12839-passing-shot.json](./12839-passing-shot.json) |
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
 | Passion Bay | 402148 | [402148-passion-bay.json](./402148-passion-bay.json) |
+| Passion Industry | 385690 | [385690-passion-industry.json](./385690-passion-industry.json) |
 | Passion Rift | 369776 | [369776-passion-rift.json](./369776-passion-rift.json) |
 | Passioners | 379534 | [379534-passioners.json](./379534-passioners.json) |
 | Passionstruck | 409840 | [409840-passionstruck.json](./409840-passionstruck.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim Adventures Complete | 53459 | [53459-pilgrim-adventures-complete.json](./53459-pilgrim-adventures-complete.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
+| Pilgrim: Unto Shadow | 385685 | [385685-pilgrim-unto-shadow.json](./385685-pilgrim-unto-shadow.json) |
 | Pilgrim's Peril | 277200 | [277200-pilgrims-peril.json](./277200-pilgrims-peril.json) |
 | Pilgrimage | 178481 | [178481-pilgrimage.json](./178481-pilgrimage.json) |
 | Pilgrimage | 59694 | [59694-pilgrimage.json](./59694-pilgrimage.json) |
@@ -11427,6 +11429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
 | Praxion-7 | 416332 | [416332-praxion-7.json](./416332-praxion-7.json) |
+| Praxium | 385626 | [385626-praxium.json](./385626-praxium.json) |
 | Pray & Slay | 423884 | [423884-pray-and-slay.json](./423884-pray-and-slay.json) |
 | Pray and Spray | 160120 | [160120-pray-and-spray.json](./160120-pray-and-spray.json) |
 | Pray for Death | 47104 | [47104-pray-for-death.json](./47104-pray-for-death.json) |
@@ -13744,6 +13747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Endfall | 159834 | [159834-protocol-endfall.json](./159834-protocol-endfall.json) |
 | Protocol Last Life | 112369 | [112369-protocol-last-life.json](./112369-protocol-last-life.json) |
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
+| Protocol Nightmare | 385659 | [385659-protocol-nightmare.json](./385659-protocol-nightmare.json) |
 | Protocol Paradox | 373512 | [373512-protocol-paradox.json](./373512-protocol-paradox.json) |
 | Protocol Rift | 322705 | [322705-protocol-rift.json](./322705-protocol-rift.json) |
 | Protocol Solari: Escape Room | 385954 | [385954-protocol-solari-escape-room.json](./385954-protocol-solari-escape-room.json) |
