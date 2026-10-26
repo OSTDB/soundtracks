@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De I Cide | 166589 | [166589-de-i-cide.json](./166589-de-i-cide.json) |
 | De Ontdekker en het mysterie van de Diamanten Scarabee | 268124 | [268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json](./268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json) |
 | De Profundis | 114257 | [114257-de-profundis.json](./114257-de-profundis.json) |
+| De Schippers van de Kameleon | 349781 | [349781-de-schippers-van-de-kameleon.json](./349781-de-schippers-van-de-kameleon.json) |
 | De Tres al Cuarto | 227910 | [227910-de-tres-al-cuarto.json](./227910-de-tres-al-cuarto.json) |
 | De Zaak Van Sam | 77151 | [77151-de-zaak-van-sam.json](./77151-de-zaak-van-sam.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
@@ -11645,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down The Mountain | 307338 | [307338-down-the-mountain.json](./307338-down-the-mountain.json) |
 | Down the Oubliette | 152031 | [152031-down-the-oubliette.json](./152031-down-the-oubliette.json) |
 | Down the Rabbit Hole | 174560 | [174560-down-the-rabbit-hole.json](./174560-down-the-rabbit-hole.json) |
+| Down the Rabbit Hole Flattened | 349763 | [349763-down-the-rabbit-hole-flattened.json](./349763-down-the-rabbit-hole-flattened.json) |
 | Down the Ratbit Hole | 271371 | [271371-down-the-ratbit-hole.json](./271371-down-the-ratbit-hole.json) |
 | Down the Shaft | 305176 | [305176-down-the-shaft.json](./305176-down-the-shaft.json) |
 | Down the Trench | 169269 | [169269-down-the-trench.json](./169269-down-the-trench.json) |
@@ -13046,6 +13048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn to Life: The Next Chapter | 240140 | [240140-drawn-to-life-the-next-chapter.json](./240140-drawn-to-life-the-next-chapter.json) |
 | Drawn to Life: The Next Chapter | 4820 | [4820-drawn-to-life-the-next-chapter.json](./4820-drawn-to-life-the-next-chapter.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
+| Drawn to Power | 349751 | [349751-drawn-to-power.json](./349751-drawn-to-power.json) |
 | Drawn To You | 336505 | [336505-drawn-to-you.json](./336505-drawn-to-you.json) |
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
 | Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
@@ -15414,8 +15417,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Fantasy Empires | 50454 | [50454-dungeons-and-dragons-fantasy-empires.json](./50454-dungeons-and-dragons-fantasy-empires.json) |
 | Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition | 348267 | [348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json](./348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json) |
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
+| Dungeons & Dragons Online: Against the Slave Lords | 349770 | [349770-dungeons-and-dragons-online-against-the-slave-lords.json](./349770-dungeons-and-dragons-online-against-the-slave-lords.json) |
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
 | Dungeons & Dragons Online: Delera's Tomb | 338771 | [338771-dungeons-and-dragons-online-deleras-tomb.json](./338771-dungeons-and-dragons-online-deleras-tomb.json) |
+| Dungeons & Dragons Online: Demon Sands | 349777 | [349777-dungeons-and-dragons-online-demon-sands.json](./349777-dungeons-and-dragons-online-demon-sands.json) |
 | Dungeons & Dragons Online: Devil Assault | 338893 | [338893-dungeons-and-dragons-online-devil-assault.json](./338893-dungeons-and-dragons-online-devil-assault.json) |
 | Dungeons & Dragons Online: Epic Destiny - Machrotechnic | 349626 | [349626-dungeons-and-dragons-online-epic-destiny-machrotechnic.json](./349626-dungeons-and-dragons-online-epic-destiny-machrotechnic.json) |
 | Dungeons & Dragons Online: Fables of the Feywild | 258927 | [258927-dungeons-and-dragons-online-fables-of-the-feywild.json](./258927-dungeons-and-dragons-online-fables-of-the-feywild.json) |
@@ -15439,6 +15444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Masterminds of Sharn - Ultimate Fan Bundle | 349636 | [349636-dungeons-and-dragons-online-masterminds-of-sharn-ultimate-fan-bundle.json](./349636-dungeons-and-dragons-online-masterminds-of-sharn-ultimate-fan-bundle.json) |
 | Dungeons & Dragons Online: Menace of the Underdark | 47126 | [47126-dungeons-and-dragons-online-menace-of-the-underdark.json](./47126-dungeons-and-dragons-online-menace-of-the-underdark.json) |
 | Dungeons & Dragons Online: Mists of Ravenloft | 258925 | [258925-dungeons-and-dragons-online-mists-of-ravenloft.json](./258925-dungeons-and-dragons-online-mists-of-ravenloft.json) |
+| Dungeons & Dragons Online: Phiarlan Carnival | 349766 | [349766-dungeons-and-dragons-online-phiarlan-carnival.json](./349766-dungeons-and-dragons-online-phiarlan-carnival.json) |
 | Dungeons & Dragons Online: Premium Archetype - Dragon Disciple | 353741 | [353741-dungeons-and-dragons-online-premium-archetype-dragon-disciple.json](./353741-dungeons-and-dragons-online-premium-archetype-dragon-disciple.json) |
 | Dungeons & Dragons Online: Premium Archetype - Dragon Lord | 353740 | [353740-dungeons-and-dragons-online-premium-archetype-dragon-lord.json](./353740-dungeons-and-dragons-online-premium-archetype-dragon-lord.json) |
 | Dungeons & Dragons Online: Premium Archetype - Wild Mage | 338767 | [338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json](./338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json) |
@@ -15470,6 +15476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: The Sharn Syndicate | 338766 | [338766-dungeons-and-dragons-online-the-sharn-syndicate.json](./338766-dungeons-and-dragons-online-the-sharn-syndicate.json) |
 | Dungeons & Dragons Online: The Sinister Secret of Saltmarsh | 258928 | [258928-dungeons-and-dragons-online-the-sinister-secret-of-saltmarsh.json](./258928-dungeons-and-dragons-online-the-sinister-secret-of-saltmarsh.json) |
 | Dungeons & Dragons Online: The Vale of Twilight | 349723 | [349723-dungeons-and-dragons-online-the-vale-of-twilight.json](./349723-dungeons-and-dragons-online-the-vale-of-twilight.json) |
+| Dungeons & Dragons Online: Three-Barrel Cove | 349764 | [349764-dungeons-and-dragons-online-three-barrel-cove.json](./349764-dungeons-and-dragons-online-three-barrel-cove.json) |
 | Dungeons & Dragons Online: Universal Tree - Falconry | 353738 | [353738-dungeons-and-dragons-online-universal-tree-falconry.json](./353738-dungeons-and-dragons-online-universal-tree-falconry.json) |
 | Dungeons & Dragons Online: Universal Tree - Feydark Illusionist | 349630 | [349630-dungeons-and-dragons-online-universal-tree-feydark-illusionist.json](./349630-dungeons-and-dragons-online-universal-tree-feydark-illusionist.json) |
 | Dungeons & Dragons Online: Universal Tree - Harper Agent | 353739 | [353739-dungeons-and-dragons-online-universal-tree-harper-agent.json](./353739-dungeons-and-dragons-online-universal-tree-harper-agent.json) |
