@@ -1824,12 +1824,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gash Rabbet | 354891 | [354891-gash-rabbet.json](./354891-gash-rabbet.json) |
 | Gashi Shachi no Sachi | 225841 | [225841-gashi-shachi-no-sachi.json](./225841-gashi-shachi-no-sachi.json) |
 | Gasketball | 60316 | [60316-gasketball.json](./60316-gasketball.json) |
+| Gaslamp Cases 10: The Loch Ness Enigma | 336995 | [336995-gaslamp-cases-10-the-loch-ness-enigma.json](./336995-gaslamp-cases-10-the-loch-ness-enigma.json) |
 | Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
 | Gaslamp Cases 4: The Arcane Village | 294395 | [294395-gaslamp-cases-4-the-arcane-village.json](./294395-gaslamp-cases-4-the-arcane-village.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
 | Gaslamp Cases 7: The Faith of Rasputin | 294735 | [294735-gaslamp-cases-7-the-faith-of-rasputin.json](./294735-gaslamp-cases-7-the-faith-of-rasputin.json) |
 | Gaslamp Cases 8: Quest for the Relic | 293984 | [293984-gaslamp-cases-8-quest-for-the-relic.json](./293984-gaslamp-cases-8-quest-for-the-relic.json) |
+| Gaslamp Cases 9: The Ghost of Automaton City | 336996 | [336996-gaslamp-cases-9-the-ghost-of-automaton-city.json](./336996-gaslamp-cases-9-the-ghost-of-automaton-city.json) |
 | Gaslamp Cases XIII: The Crimson Portrait | 393710 | [393710-gaslamp-cases-xiii-the-crimson-portrait.json](./393710-gaslamp-cases-xiii-the-crimson-portrait.json) |
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
 | Gaslighters | 348668 | [348668-gaslighters.json](./348668-gaslighters.json) |
