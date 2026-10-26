@@ -4531,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepward | 410958 | [410958-deepward.json](./410958-deepward.json) |
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
 | Deepy | 325023 | [325023-deepy.json](./325023-deepy.json) |
+| Deer | 383998 | [383998-deer.json](./383998-deer.json) |
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
 | Deer Avenger 2: Deer in the City | 68724 | [68724-deer-avenger-2-deer-in-the-city.json](./68724-deer-avenger-2-deer-in-the-city.json) |
@@ -5142,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
 | Delvedown | 184223 | [184223-delvedown.json](./184223-delvedown.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
+| Delver Quest | 384015 | [384015-delver-quest.json](./384015-delver-quest.json) |
 | Delverium | 291342 | [291342-delverium.json](./291342-delverium.json) |
 | Delverun | 416683 | [416683-delverun.json](./416683-delverun.json) |
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
