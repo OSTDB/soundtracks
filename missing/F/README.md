@@ -7598,6 +7598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodie's Furniture | 358095 | [358095-foodies-furniture.json](./358095-foodies-furniture.json) |
 | Foodies | 174619 | [174619-foodies.json](./174619-foodies.json) |
 | Foodo Kitchen | 23419 | [23419-foodo-kitchen.json](./23419-foodo-kitchen.json) |
+| Foodslingers | 344837 | [344837-foodslingers.json](./344837-foodslingers.json) |
 | FoodStars.io | 388131 | [388131-foodstars-io.json](./388131-foodstars-io.json) |
 | Foodtruck Arena | 126982 | [126982-foodtruck-arena.json](./126982-foodtruck-arena.json) |
 | FooFee | 277423 | [277423-foofee.json](./277423-foofee.json) |
@@ -9341,6 +9342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Feelings | 240688 | [240688-fragile-feelings.json](./240688-fragile-feelings.json) |
 | Fragile Frontier | 390372 | [390372-fragile-frontier.json](./390372-fragile-frontier.json) |
 | Fragile Hero and the Immortal Frog | 353830 | [353830-fragile-hero-and-the-immortal-frog.json](./353830-fragile-hero-and-the-immortal-frog.json) |
+| Fragile Packages: Handle with Care | 344871 | [344871-fragile-packages-handle-with-care.json](./344871-fragile-packages-handle-with-care.json) |
 | Fragile Peace | 370264 | [370264-fragile-peace.json](./370264-fragile-peace.json) |
 | Fragile Reflection | 309533 | [309533-fragile-reflection.json](./309533-fragile-reflection.json) |
 | Fragile Soft Machines | 139236 | [139236-fragile-soft-machines.json](./139236-fragile-soft-machines.json) |
