@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ha-ha-ho-ho-horror | 343911 | [343911-ha-ha-ho-ho-horror.json](./343911-ha-ha-ho-ho-horror.json) |
 | Ha*co | 210226 | [210226-ha-co.json](./210226-ha-co.json) |
 | Ha/ck | 113710 | [113710-ha-ck.json](./113710-ha-ck.json) |
+| Habanero | 360476 | [360476-habanero.json](./360476-habanero.json) |
 | Habanero-tan House | 279758 | [279758-habanero-tan-house.json](./279758-habanero-tan-house.json) |
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habbo | 27522 | [27522-habbo.json](./27522-habbo.json) |
@@ -7635,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Designer: Makeover Blast | 169149 | [169149-home-designer-makeover-blast.json](./169149-home-designer-makeover-blast.json) |
 | Home Domes | 277962 | [277962-home-domes.json](./277962-home-domes.json) |
 | Home Escape | 120139 | [120139-home-escape.json](./120139-home-escape.json) |
+| Home for Friends: Beloved Pets - Collector's Edition | 360558 | [360558-home-for-friends-beloved-pets-collectors-edition.json](./360558-home-for-friends-beloved-pets-collectors-edition.json) |
 | Home for Friends: Loving Paws - Collector's Edition | 401142 | [401142-home-for-friends-loving-paws-collectors-edition.json](./401142-home-for-friends-loving-paws-collectors-edition.json) |
 | Home for the Holidays | 313814 | [313814-home-for-the-holidays.json](./313814-home-for-the-holidays.json) |
 | Home Free | 13563 | [13563-home-free.json](./13563-home-free.json) |
