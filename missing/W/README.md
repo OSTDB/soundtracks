@@ -2749,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Albion! | 204893 | [204893-welcome-to-albion.json](./204893-welcome-to-albion.json) |
 | Welcome to Amsoft Side A | 39128 | [39128-welcome-to-amsoft-side-a.json](./39128-welcome-to-amsoft-side-a.json) |
 | Welcome to Amsoft Side B | 39129 | [39129-welcome-to-amsoft-side-b.json](./39129-welcome-to-amsoft-side-b.json) |
+| Welcome to Bodyland | 374020 | [374020-welcome-to-bodyland.json](./374020-welcome-to-bodyland.json) |
 | Welcome to Brightville | 339224 | [339224-welcome-to-brightville.json](./339224-welcome-to-brightville.json) |
 | Welcome to Bulletheck | 298784 | [298784-welcome-to-bulletheck.json](./298784-welcome-to-bulletheck.json) |
 | Welcome to Bunny Farm | 338385 | [338385-welcome-to-bunny-farm.json](./338385-welcome-to-bunny-farm.json) |
@@ -5610,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
 | Wizard's Harmony R | 108169 | [108169-wizards-harmony-r.json](./108169-wizards-harmony-r.json) |
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
+| Wizard's Oblation | 374016 | [374016-wizards-oblation.json](./374016-wizards-oblation.json) |
 | Wizard's Quest | 148818 | [148818-wizards-quest.json](./148818-wizards-quest.json) |
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
 | Wizard's Terror | 176253 | [176253-wizards-terror.json](./176253-wizards-terror.json) |
@@ -6284,6 +6286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
 | Word Puzzles by Powgi: Deluxe Edition | 140414 | [140414-word-puzzles-by-powgi-deluxe-edition.json](./140414-word-puzzles-by-powgi-deluxe-edition.json) |
 | Word Quest | 266062 | [266062-word-quest.json](./266062-word-quest.json) |
+| Word Quest | 374098 | [374098-word-quest.json](./374098-word-quest.json) |
 | Word Quest Fantasy | 385067 | [385067-word-quest-fantasy.json](./385067-word-quest-fantasy.json) |
 | Word Quest Space | 378773 | [378773-word-quest-space.json](./378773-word-quest-space.json) |
 | Word Quest: Cyberpunk | 399795 | [399795-word-quest-cyberpunk.json](./399795-word-quest-cyberpunk.json) |
@@ -7553,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecking Balls Arena DX | 61969 | [61969-wrecking-balls-arena-dx.json](./61969-wrecking-balls-arena-dx.json) |
 | Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
 | Wrecking Towers | 68876 | [68876-wrecking-towers.json](./68876-wrecking-towers.json) |
+| Wrecking Wave | 374114 | [374114-wrecking-wave.json](./374114-wrecking-wave.json) |
 | Wreckless Roger | 395820 | [395820-wreckless-roger.json](./395820-wreckless-roger.json) |
 | Wreckless: The Yakuza Missions | 4568 | [4568-wreckless-the-yakuza-missions.json](./4568-wreckless-the-yakuza-missions.json) |
 | Wreckman | 268516 | [268516-wreckman.json](./268516-wreckman.json) |
