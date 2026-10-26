@@ -8903,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver the Hedgehog: World's Collide | 253786 | [253786-silver-the-hedgehog-worlds-collide.json](./253786-silver-the-hedgehog-worlds-collide.json) |
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
 | Silver Thread: Deux | 298809 | [298809-silver-thread-deux.json](./298809-silver-thread-deux.json) |
+| Silver Thread: Episode Three | 370727 | [370727-silver-thread-episode-three.json](./370727-silver-thread-episode-three.json) |
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
 | Silver Vault | 164066 | [164066-silver-vault.json](./164066-silver-vault.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
