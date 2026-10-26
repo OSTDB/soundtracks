@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galvanic Bride | 260183 | [260183-galvanic-bride.json](./260183-galvanic-bride.json) |
 | Galvanica | 176280 | [176280-galvanica.json](./176280-galvanica.json) |
 | Galvanized | 280302 | [280302-galvanized.json](./280302-galvanized.json) |
+| Galvatein: Adventurer’s Guild | 346495 | [346495-galvatein-adventurer-s-guild.json](./346495-galvatein-adventurer-s-guild.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Nightmares | 174644 | [174644-gate-of-nightmares.json](./174644-gate-of-nightmares.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
 | Gate of Souls | 253308 | [253308-gate-of-souls.json](./253308-gate-of-souls.json) |
+| Gate Project | 345959 | [345959-gate-project.json](./345959-gate-project.json) |
 | Gate Six: Cyber Persona | 122921 | [122921-gate-six-cyber-persona.json](./122921-gate-six-cyber-persona.json) |
 | Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
 | Gate to Site 8 | 150989 | [150989-gate-to-site-8.json](./150989-gate-to-site-8.json) |
@@ -7924,6 +7926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grinlox is here | 266901 | [266901-grinlox-is-here.json](./266901-grinlox-is-here.json) |
 | Grinnel | 389586 | [389586-grinnel.json](./389586-grinnel.json) |
 | Grinner's Diner | 423216 | [423216-grinners-diner.json](./423216-grinners-diner.json) |
+| Grinville | 345930 | [345930-grinville.json](./345930-grinville.json) |
 | Grip | 18452 | [18452-grip.json](./18452-grip.json) |
 | Grip Games Anthology | 99557 | [99557-grip-games-anthology.json](./99557-grip-games-anthology.json) |
 | Grip on Reality | 232527 | [232527-grip-on-reality.json](./232527-grip-on-reality.json) |
@@ -8408,6 +8411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Above the Domes | 423199 | [423199-guardian-above-the-domes.json](./423199-guardian-above-the-domes.json) |
 | Guardian Angel | 299584 | [299584-guardian-angel.json](./299584-guardian-angel.json) |
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
+| Guardian Chicken | 346505 | [346505-guardian-chicken.json](./346505-guardian-chicken.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
 | Guardian Frame: Debrief! | 283386 | [283386-guardian-frame-debrief.json](./283386-guardian-frame-debrief.json) |
