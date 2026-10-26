@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
 | Fault: Broken Promises | 336619 | [336619-fault-broken-promises.json](./336619-fault-broken-promises.json) |
 | Faun Air | 151279 | [151279-faun-air.json](./151279-faun-air.json) |
+| Fauna | 376503 | [376503-fauna.json](./376503-fauna.json) |
 | Faunamorph | 257965 | [257965-faunamorph.json](./257965-faunamorph.json) |
 | Fausseté Amour | 37628 | [37628-faussete-amour.json](./37628-faussete-amour.json) |
 | Faust Duel | 373112 | [373112-faust-duel.json](./373112-faust-duel.json) |
@@ -9960,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright Knight Legend | 223333 | [223333-fright-knight-legend.json](./223333-fright-knight-legend.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
+| Fright Train | 376511 | [376511-fright-train.json](./376511-fright-train.json) |
 | FrightDiary | 368818 | [368818-frightdiary.json](./368818-frightdiary.json) |
 | Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
