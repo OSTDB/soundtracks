@@ -2974,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GET! Boku no Mushi Tsukamaete | 49603 | [49603-get-boku-no-mushi-tsukamaete.json](./49603-get-boku-no-mushi-tsukamaete.json) |
 | Get! Monster | 240110 | [240110-get-monster.json](./240110-get-monster.json) |
 | Get!! Colonies | 67082 | [67082-get-colonies.json](./67082-get-colonies.json) |
+| Get'Trump'ed Trivia | 380495 | [380495-gettrumped-trivia.json](./380495-gettrumped-trivia.json) |
 | Getamped 2 | 57925 | [57925-getamped-2.json](./57925-getamped-2.json) |
 | GetAmped Mobile | 114178 | [114178-getamped-mobile.json](./114178-getamped-mobile.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
