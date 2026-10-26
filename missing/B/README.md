@@ -6012,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Trivia | 77011 | [77011-bible-trivia.json](./77011-bible-trivia.json) |
 | Bible Trivia Extreme | 97197 | [97197-bible-trivia-extreme.json](./97197-bible-trivia-extreme.json) |
 | Bible Trivia Jumble | 100687 | [100687-bible-trivia-jumble.json](./100687-bible-trivia-jumble.json) |
+| Bible Trivia: Alchemy | 375241 | [375241-bible-trivia-alchemy.json](./375241-bible-trivia-alchemy.json) |
 | Bible Verse Challenge | 317848 | [317848-bible-verse-challenge.json](./317848-bible-verse-challenge.json) |
 | Bible Word Puzzle | 103547 | [103547-bible-word-puzzle.json](./103547-bible-word-puzzle.json) |
 | BibleGirl's Big Apple | 56448 | [56448-biblegirls-big-apple.json](./56448-biblegirls-big-apple.json) |
@@ -9558,6 +9559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
 | Blossom: The Seed of Life | 370981 | [370981-blossom-the-seed-of-life.json](./370981-blossom-the-seed-of-life.json) |
+| Blossoming Ruins | 375208 | [375208-blossoming-ruins.json](./375208-blossoming-ruins.json) |
 | Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow & Fly | 189358 | [189358-blow-and-fly.json](./189358-blow-and-fly.json) |
@@ -14986,6 +14988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushgame: The Anti-Bush Video Game | 71928 | [71928-bushgame-the-anti-bush-video-game.json](./71928-bushgame-the-anti-bush-video-game.json) |
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
 | Bushido Bear | 58541 | [58541-bushido-bear.json](./58541-bushido-bear.json) |
+| Bushido Kensei: The Last Warrior | 375251 | [375251-bushido-kensei-the-last-warrior.json](./375251-bushido-kensei-the-last-warrior.json) |
 | Bushido Panda | 57469 | [57469-bushido-panda.json](./57469-bushido-panda.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
