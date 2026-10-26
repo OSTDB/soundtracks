@@ -4606,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
 | The Adliberum Engine | 55891 | [55891-the-adliberum-engine.json](./55891-the-adliberum-engine.json) |
 | The Admin | 34008 | [34008-the-admin.json](./34008-the-admin.json) |
+| The Adventure Ball | 349231 | [349231-the-adventure-ball.json](./349231-the-adventure-ball.json) |
 | The Adventure Collection | 399571 | [399571-the-adventure-collection.json](./399571-the-adventure-collection.json) |
 | The Adventure of 30 Cents | 284251 | [284251-the-adventure-of-30-cents.json](./284251-the-adventure-of-30-cents.json) |
 | The Adventure of Amethyst Knight | 368028 | [368028-the-adventure-of-amethyst-knight.json](./368028-the-adventure-of-amethyst-knight.json) |
@@ -11545,6 +11546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Barber | 368293 | [368293-the-midnight-barber.json](./368293-the-midnight-barber.json) |
 | The Midnight Bus | 314736 | [314736-the-midnight-bus.json](./314736-the-midnight-bus.json) |
 | The Midnight Crimes | 258646 | [258646-the-midnight-crimes.json](./258646-the-midnight-crimes.json) |
+| The Midnight Exorcist | 349230 | [349230-the-midnight-exorcist.json](./349230-the-midnight-exorcist.json) |
 | The Midnight Game | 379914 | [379914-the-midnight-game.json](./379914-the-midnight-game.json) |
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Monkey | 177274 | [177274-the-midnight-monkey.json](./177274-the-midnight-monkey.json) |
@@ -20768,6 +20770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Yamanote Boys Pure Raspberry Disc | 221959 | [221959-tokyo-yamanote-boys-pure-raspberry-disc.json](./221959-tokyo-yamanote-boys-pure-raspberry-disc.json) |
 | Tokyo Yamanote Boys Super Mint Disc | 221953 | [221953-tokyo-yamanote-boys-super-mint-disc.json](./221953-tokyo-yamanote-boys-super-mint-disc.json) |
 | Tokyo Yamanote Boys Sweet Jelly Beans Disc | 221960 | [221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json](./221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json) |
+| Tokyo's Neon Monsters | 349215 | [349215-tokyos-neon-monsters.json](./349215-tokyos-neon-monsters.json) |
 | Told God-The Legacy of Cthulhu | 100813 | [100813-told-god-the-legacy-of-cthulhu.json](./100813-told-god-the-legacy-of-cthulhu.json) |
 | Told God: The Legacy of Cthulhu | 306363 | [306363-told-god-the-legacy-of-cthulhu.json](./306363-told-god-the-legacy-of-cthulhu.json) |
 | Tolem | 409506 | [409506-tolem.json](./409506-tolem.json) |
