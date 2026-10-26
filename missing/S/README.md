@@ -4010,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeding The Wasteland | 406735 | [406735-seeding-the-wasteland.json](./406735-seeding-the-wasteland.json) |
 | Seedling | 62421 | [62421-seedling.json](./62421-seedling.json) |
 | Seedlings | 192625 | [192625-seedlings.json](./192625-seedlings.json) |
+| Seedrun | 373062 | [373062-seedrun.json](./373062-seedrun.json) |
 | Seeds | 337669 | [337669-seeds.json](./337669-seeds.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
 | Seeds of Calamity | 194561 | [194561-seeds-of-calamity.json](./194561-seeds-of-calamity.json) |
@@ -22391,6 +22392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
 | Stocksynd House | 128767 | [128767-stocksynd-house.json](./128767-stocksynd-house.json) |
+| Stockwave Online | 373042 | [373042-stockwave-online.json](./373042-stockwave-online.json) |
 | StoicScape | 289255 | [289255-stoicscape.json](./289255-stoicscape.json) |
 | Stoire | 38803 | [38803-stoire.json](./38803-stoire.json) |
 | Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
