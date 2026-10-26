@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Drop! | 383482 | [383482-echo-drop.json](./383482-echo-drop.json) |
 | Echo Extract | 342722 | [342722-echo-extract.json](./342722-echo-extract.json) |
 | Echo Flesh Metal | 303511 | [303511-echo-flesh-metal.json](./303511-echo-flesh-metal.json) |
+| Echo Generation 2 | 378228 | [378228-echo-generation-2.json](./378228-echo-generation-2.json) |
 | Echo Generation: Midnight Edition | 304747 | [304747-echo-generation-midnight-edition.json](./304747-echo-generation-midnight-edition.json) |
 | Echo Glass | 58215 | [58215-echo-glass.json](./58215-echo-glass.json) |
 | Echo Harvest | 415160 | [415160-echo-harvest.json](./415160-echo-harvest.json) |
@@ -4041,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Eros Raiders | 331095 | [331095-eros-raiders.json](./331095-eros-raiders.json) |
 | Erosion | 177437 | [177437-erosion.json](./177437-erosion.json) |
+| Erosion | 378230 | [378230-erosion.json](./378230-erosion.json) |
 | Erostasis | 222826 | [222826-erostasis.json](./222826-erostasis.json) |
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
 | Erotic Dream Puzzle | 312696 | [312696-erotic-dream-puzzle.json](./312696-erotic-dream-puzzle.json) |
@@ -4384,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Underworld | 124599 | [124599-escape-from-the-underworld.json](./124599-escape-from-the-underworld.json) |
 | Escape from the Universe | 123307 | [123307-escape-from-the-universe.json](./123307-escape-from-the-universe.json) |
 | Escape from the Village | 180017 | [180017-escape-from-the-village.json](./180017-escape-from-the-village.json) |
+| Escape from the XX | 378147 | [378147-escape-from-the-xx.json](./378147-escape-from-the-xx.json) |
 | Escape from the Yellow Room 3 | 220216 | [220216-escape-from-the-yellow-room-3.json](./220216-escape-from-the-yellow-room-3.json) |
 | Escape From This Planet | 224550 | [224550-escape-from-this-planet.json](./224550-escape-from-this-planet.json) |
 | Escape From Timokha 2: Army | 334199 | [334199-escape-from-timokha-2-army.json](./334199-escape-from-timokha-2-army.json) |
