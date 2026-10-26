@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation - Forerunner | 339393 | [339393-halo-infinite-operation-forerunner.json](./339393-halo-infinite-operation-forerunner.json) |
 | Halo Infinite: Operation - Great Journey | 335849 | [335849-halo-infinite-operation-great-journey.json](./335849-halo-infinite-operation-great-journey.json) |
 | Halo Infinite: Operation - Legacy | 349183 | [349183-halo-infinite-operation-legacy.json](./349183-halo-infinite-operation-legacy.json) |
+| Halo Infinite: Operation - Reclaimer | 355608 | [355608-halo-infinite-operation-reclaimer.json](./355608-halo-infinite-operation-reclaimer.json) |
 | Halo Infinite: Operation - Shadows | 364581 | [364581-halo-infinite-operation-shadows.json](./364581-halo-infinite-operation-shadows.json) |
 | Halo Infinite: Operation - Snowbound | 335848 | [335848-halo-infinite-operation-snowbound.json](./335848-halo-infinite-operation-snowbound.json) |
 | Halo Infinite: Operation - Warpath | 367399 | [367399-halo-infinite-operation-warpath.json](./367399-halo-infinite-operation-warpath.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Train | 100644 | [100644-happy-train.json](./100644-happy-train.json) |
 | Happy Trap House | 224552 | [224552-happy-trap-house.json](./224552-happy-trap-house.json) |
 | Happy Tree Friends: Deadeye Derby | 97972 | [97972-happy-tree-friends-deadeye-derby.json](./97972-happy-tree-friends-deadeye-derby.json) |
+| Happy Tree Friends: Flippy's Flying Frenzy | 355051 | [355051-happy-tree-friends-flippys-flying-frenzy.json](./355051-happy-tree-friends-flippys-flying-frenzy.json) |
 | Happy Uppen Sometimes Downsad | 310140 | [310140-happy-uppen-sometimes-downsad.json](./310140-happy-uppen-sometimes-downsad.json) |
 | Happy Vampire Girl | 111870 | [111870-happy-vampire-girl.json](./111870-happy-vampire-girl.json) |
 | Happy Vikings | 61106 | [61106-happy-vikings.json](./61106-happy-vikings.json) |
@@ -4159,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Gallery: Perfect Bodies | 381706 | [381706-hentai-gallery-perfect-bodies.json](./381706-hentai-gallery-perfect-bodies.json) |
 | Hentai Gallery: Secret Beauties | 378806 | [378806-hentai-gallery-secret-beauties.json](./378806-hentai-gallery-secret-beauties.json) |
 | Hentai Games Collection | 305906 | [305906-hentai-games-collection.json](./305906-hentai-games-collection.json) |
+| Hentai Games Collection Vol. 2 | 355053 | [355053-hentai-games-collection-vol-2.json](./355053-hentai-games-collection-vol-2.json) |
 | Hentai Games Collection Vol. 3 | 362202 | [362202-hentai-games-collection-vol-3.json](./362202-hentai-games-collection-vol-3.json) |
 | Hentai GIF Puzzle | 163541 | [163541-hentai-gif-puzzle.json](./163541-hentai-gif-puzzle.json) |
 | Hentai Girl | 107887 | [107887-hentai-girl.json](./107887-hentai-girl.json) |
