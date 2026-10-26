@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uru: Ages Beyond Myst | 50395 | [50395-uru-ages-beyond-myst.json](./50395-uru-ages-beyond-myst.json) |
 | URU: Complete Chronicles | 16202 | [16202-uru-complete-chronicles.json](./16202-uru-complete-chronicles.json) |
 | Urubu | 199464 | [199464-urubu.json](./199464-urubu.json) |
+| Uruc | 367358 | [367358-uruc.json](./367358-uruc.json) |
 | Ururun Quest: Koiyuuki | 203392 | [203392-ururun-quest-koiyuuki.json](./203392-ururun-quest-koiyuuki.json) |
 | Urusei Yatsura | 94113 | [94113-urusei-yatsura.json](./94113-urusei-yatsura.json) |
 | Urusei Yatsura CG Puzzle | 138521 | [138521-urusei-yatsura-cg-puzzle.json](./138521-urusei-yatsura-cg-puzzle.json) |
