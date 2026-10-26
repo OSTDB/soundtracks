@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quizball Goal | 94167 | [94167-quizball-goal.json](./94167-quizball-goal.json) |
 | QuizCross | 58213 | [58213-quizcross.json](./58213-quizcross.json) |
 | Quizee | 171897 | [171897-quizee.json](./171897-quizee.json) |
+| Quizei | 375799 | [375799-quizei.json](./375799-quizei.json) |
 | QuizFizz | 255140 | [255140-quizfizz.json](./255140-quizfizz.json) |
 | QuizKnock Stadium | 153511 | [153511-quizknock-stadium.json](./153511-quizknock-stadium.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
