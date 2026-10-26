@@ -24674,6 +24674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikko Gurashi: Koko, Doko Nandesu? | 136908 | [136908-sumikko-gurashi-koko-doko-nandesu.json](./136908-sumikko-gurashi-koko-doko-nandesu.json) |
 | Sumikko Gurashi: Omise Hajimerun Desu | 59889 | [59889-sumikko-gurashi-omise-hajimerun-desu.json](./59889-sumikko-gurashi-omise-hajimerun-desu.json) |
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
+| Sumikkogurashi Create a Wonderful Sumikko Island! | 378821 | [378821-sumikkogurashi-create-a-wonderful-sumikko-island.json](./378821-sumikkogurashi-create-a-wonderful-sumikko-island.json) |
 | Sumikkogurashi Farm | 208066 | [208066-sumikkogurashi-farm.json](./208066-sumikkogurashi-farm.json) |
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | SuMine | 118163 | [118163-sumine.json](./118163-sumine.json) |
