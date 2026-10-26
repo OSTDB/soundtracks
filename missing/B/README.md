@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
 | Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
 | Ball Attraction | 123989 | [123989-ball-attraction.json](./123989-ball-attraction.json) |
+| Ball Blast | 356523 | [356523-ball-blast.json](./356523-ball-blast.json) |
 | Ball Blast: Dreamland DLC | 356814 | [356814-ball-blast-dreamland-dlc.json](./356814-ball-blast-dreamland-dlc.json) |
 | Ball Blast: Halloween Edition | 376248 | [376248-ball-blast-halloween-edition.json](./376248-ball-blast-halloween-edition.json) |
 | Ball Blast: Platinum Edition | 395674 | [395674-ball-blast-platinum-edition.json](./395674-ball-blast-platinum-edition.json) |
@@ -8979,6 +8980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockArt 2p | 102681 | [102681-blockart-2p.json](./102681-blockart-2p.json) |
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
 | BlockBlast Friend Edition | 412895 | [412895-blockblast-friend-edition.json](./412895-blockblast-friend-edition.json) |
+| BlockBlasters | 356548 | [356548-blockblasters.json](./356548-blockblasters.json) |
 | Blockbuster | 15677 | [15677-blockbuster.json](./15677-blockbuster.json) |
 | BlockBuster | 68647 | [68647-blockbuster.json](./68647-blockbuster.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
@@ -10169,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Cafe Simulator | 346644 | [346644-boba-cafe-simulator.json](./346644-boba-cafe-simulator.json) |
 | Boba Monsters | 309140 | [309140-boba-monsters.json](./309140-boba-monsters.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
+| Boba Tea Merge | 356522 | [356522-boba-tea-merge.json](./356522-boba-tea-merge.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
 | Bobanook! | 390788 | [390788-bobanook.json](./390788-bobanook.json) |
 | BobasQuest | 298180 | [298180-bobasquest.json](./298180-bobasquest.json) |
@@ -12826,6 +12829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout VR | 166803 | [166803-breakout-vr.json](./166803-breakout-vr.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | Breakout: Recharged | 187471 | [187471-breakout-recharged.json](./187471-breakout-recharged.json) |
+| Breakout! | 356542 | [356542-breakout.json](./356542-breakout.json) |
 | Breakpoint | 358640 | [358640-breakpoint.json](./358640-breakpoint.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
 | Breakremental | 422532 | [422532-breakremental.json](./422532-breakremental.json) |
