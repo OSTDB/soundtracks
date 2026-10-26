@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5813,6 +5814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Homes and Gardens Cool Crafts | 289731 | [289731-better-homes-and-gardens-cool-crafts.json](./289731-better-homes-and-gardens-cool-crafts.json) |
 | Better in Dreams | 327251 | [327251-better-in-dreams.json](./327251-better-in-dreams.json) |
 | Better Late Than Dead | 16291 | [16291-better-late-than-dead.json](./16291-better-late-than-dead.json) |
+| Better Letter | 334028 | [334028-better-letter.json](./334028-better-letter.json) |
 | Better Mart Simulator | 332148 | [332148-better-mart-simulator.json](./332148-better-mart-simulator.json) |
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
 | Better Minesweeper | 401276 | [401276-better-minesweeper.json](./401276-better-minesweeper.json) |
@@ -10836,6 +10838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Marrow 2 | 410830 | [410830-bone-marrow-2.json](./410830-bone-marrow-2.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bone Meal | 294366 | [294366-bone-meal.json](./294366-bone-meal.json) |
+| Bone n' Gone | 333877 | [333877-bone-n-gone.json](./333877-bone-n-gone.json) |
 | Bone Sniffer! | 318477 | [318477-bone-sniffer.json](./318477-bone-sniffer.json) |
 | Bone Souls | 359038 | [359038-bone-souls.json](./359038-bone-souls.json) |
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
@@ -13508,6 +13511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
 | Broken Spell 2 | 129009 | [129009-broken-spell-2.json](./129009-broken-spell-2.json) |
 | Broken Spirit | 371256 | [371256-broken-spirit.json](./371256-broken-spirit.json) |
+| Broken Sun | 334020 | [334020-broken-sun.json](./334020-broken-sun.json) |
 | Broken Sword 2.5: The Return of the Templars | 125018 | [125018-broken-sword-2-5-the-return-of-the-templars.json](./125018-broken-sword-2-5-the-return-of-the-templars.json) |
 | Broken Sword 5: The Serpent's Curse | 2924 | [2924-broken-sword-5-the-serpents-curse.json](./2924-broken-sword-5-the-serpents-curse.json) |
 | Broken Sword 5: The Serpent's Curse - Episode 1 | 94068 | [94068-broken-sword-5-the-serpents-curse-episode-1.json](./94068-broken-sword-5-the-serpents-curse-episode-1.json) |
