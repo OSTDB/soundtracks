@@ -5710,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
 | The Broken Clues 2 | 210212 | [210212-the-broken-clues-2.json](./210212-the-broken-clues-2.json) |
 | The Broken Land | 69668 | [69668-the-broken-land.json](./69668-the-broken-land.json) |
+| The Broken Lolipop | 378152 | [378152-the-broken-lolipop.json](./378152-the-broken-lolipop.json) |
 | The Broken Moon | 263137 | [263137-the-broken-moon.json](./263137-the-broken-moon.json) |
 | The Broken Seal | 74493 | [74493-the-broken-seal.json](./74493-the-broken-seal.json) |
 | The Broken Seal: Arena | 86434 | [86434-the-broken-seal-arena.json](./86434-the-broken-seal-arena.json) |
@@ -23209,6 +23210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailmakers | 29667 | [29667-trailmakers.json](./29667-trailmakers.json) |
 | Trailmakers: Decals - Expression Pack | 308437 | [308437-trailmakers-decals-expression-pack.json](./308437-trailmakers-decals-expression-pack.json) |
 | Trailmakers: Deluxe Edition | 187896 | [187896-trailmakers-deluxe-edition.json](./187896-trailmakers-deluxe-edition.json) |
+| Trailmakers: Frozen Tracks | 378217 | [378217-trailmakers-frozen-tracks.json](./378217-trailmakers-frozen-tracks.json) |
 | Trailmakers: High Seas Expansion | 193221 | [193221-trailmakers-high-seas-expansion.json](./193221-trailmakers-high-seas-expansion.json) |
 | Trailmakers: Motorhead Pack | 317323 | [317323-trailmakers-motorhead-pack.json](./317323-trailmakers-motorhead-pack.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
