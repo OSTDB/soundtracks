@@ -4728,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irem Collection: Volume 3 | 342246 | [342246-irem-collection-volume-3.json](./342246-irem-collection-volume-3.json) |
 | Irena: Genesis Metal Fury | 142750 | [142750-irena-genesis-metal-fury.json](./142750-irena-genesis-metal-fury.json) |
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
+| Irezumi Defenders | 375225 | [375225-irezumi-defenders.json](./375225-irezumi-defenders.json) |
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Iridescent | 298667 | [298667-iridescent.json](./298667-iridescent.json) |
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
