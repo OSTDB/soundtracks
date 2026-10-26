@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
 | Mars Defender Lite: 3D Asteroids | 100060 | [100060-mars-defender-lite-3d-asteroids.json](./100060-mars-defender-lite-3d-asteroids.json) |
 | Mars Dragons the Return | 26798 | [26798-mars-dragons-the-return.json](./26798-mars-dragons-the-return.json) |
+| Mars Era | 335205 | [335205-mars-era.json](./335205-mars-era.json) |
 | Mars Farce | 322067 | [322067-mars-farce.json](./322067-mars-farce.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
 | Mars First Logistics | 159753 | [159753-mars-first-logistics.json](./159753-mars-first-logistics.json) |
@@ -4927,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
 | Mavis Beacon Teaches Typing! | 71429 | [71429-mavis-beacon-teaches-typing.json](./71429-mavis-beacon-teaches-typing.json) |
 | Mavis Beacon Teaches Typing! for Kids | 94378 | [94378-mavis-beacon-teaches-typing-for-kids.json](./94378-mavis-beacon-teaches-typing-for-kids.json) |
+| Mavors | 335218 | [335218-mavors.json](./335218-mavors.json) |
 | Maw | 353975 | [353975-maw.json](./353975-maw.json) |
 | Mawang: Dark Lord Defense | 350396 | [350396-mawang-dark-lord-defense.json](./350396-mawang-dark-lord-defense.json) |
 | Mawangseonge Daara! Yongbyeongdan Seutori | 219976 | [219976-mawangseonge-daara-yongbyeongdan-seutori.json](./219976-mawangseonge-daara-yongbyeongdan-seutori.json) |
@@ -12401,6 +12403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Waifu H: Genius | 313557 | [313557-moe-waifu-h-genius.json](./313557-moe-waifu-h-genius.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moe! Ninja Girls | 110797 | [110797-moe-ninja-girls.json](./110797-moe-ninja-girls.json) |
+| Moe! Ninja Girls RPG | 335179 | [335179-moe-ninja-girls-rpg.json](./335179-moe-ninja-girls-rpg.json) |
 | Moe's Body Shop | 323790 | [323790-moes-body-shop.json](./323790-moes-body-shop.json) |
 | Moebius: Empire Rising | 5540 | [5540-moebius-empire-rising.json](./5540-moebius-empire-rising.json) |
 | Moebius: The Orb of Celestial Harmony | 14482 | [14482-moebius-the-orb-of-celestial-harmony.json](./14482-moebius-the-orb-of-celestial-harmony.json) |
@@ -14372,6 +14375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morpheus | 73460 | [73460-morpheus.json](./73460-morpheus.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphine | 26520 | [26520-morphine.json](./26520-morphine.json) |
+| Morphing | 335215 | [335215-morphing.json](./335215-morphing.json) |
 | Morphite | 27314 | [27314-morphite.json](./27314-morphite.json) |
 | Morphling | 184337 | [184337-morphling.json](./184337-morphling.json) |
 | Morphman | 232517 | [232517-morphman.json](./232517-morphman.json) |
