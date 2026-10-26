@@ -5717,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Fear: Knossos | 10182 | [10182-depths-of-fear-knossos.json](./10182-depths-of-fear-knossos.json) |
 | Depths of Horror: Mushroom Day | 152792 | [152792-depths-of-horror-mushroom-day.json](./152792-depths-of-horror-mushroom-day.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
+| Depths of Insanity 3 | 372979 | [372979-depths-of-insanity-3.json](./372979-depths-of-insanity-3.json) |
 | Depths of Providence | 412560 | [412560-depths-of-providence.json](./412560-depths-of-providence.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
 | Depths Unseen | 365271 | [365271-depths-unseen.json](./365271-depths-unseen.json) |
