@@ -5185,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Castle Wolfenstein: Operation Resurrection | 77219 | [77219-return-to-castle-wolfenstein-operation-resurrection.json](./77219-return-to-castle-wolfenstein-operation-resurrection.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
 | Return to College Age | 355226 | [355226-return-to-college-age.json](./355226-return-to-college-age.json) |
+| Return to Company Oziisan | 379853 | [379853-return-to-company-oziisan.json](./379853-return-to-company-oziisan.json) |
 | Return to Cube Planet | 118651 | [118651-return-to-cube-planet.json](./118651-return-to-cube-planet.json) |
 | Return to Dark Castle | 72902 | [72902-return-to-dark-castle.json](./72902-return-to-dark-castle.json) |
 | Return to Ditch Day | 10796 | [10796-return-to-ditch-day.json](./10796-return-to-ditch-day.json) |
@@ -10152,6 +10153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Foxy, Run! | 224543 | [224543-run-foxy-run.json](./224543-run-foxy-run.json) |
 | Run from Blablublas horror | 386543 | [386543-run-from-blablublas-horror.json](./386543-run-from-blablublas-horror.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
+| Run from Duck | 379931 | [379931-run-from-duck.json](./379931-run-from-duck.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Ghost Run | 125057 | [125057-run-ghost-run.json](./125057-run-ghost-run.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
