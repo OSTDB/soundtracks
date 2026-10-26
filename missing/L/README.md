@@ -6282,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Monkey: Bling Palace | 106352 | [106352-loot-monkey-bling-palace.json](./106352-loot-monkey-bling-palace.json) |
 | Loot of Idle | 374942 | [374942-loot-of-idle.json](./374942-loot-of-idle.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
+| Loot Poring | 364542 | [364542-loot-poring.json](./364542-loot-poring.json) |
 | Loot Profit | 346643 | [346643-loot-profit.json](./346643-loot-profit.json) |
 | Loot Rascals | 27511 | [27511-loot-rascals.json](./27511-loot-rascals.json) |
 | Loot Run | 75939 | [75939-loot-run.json](./75939-loot-run.json) |
