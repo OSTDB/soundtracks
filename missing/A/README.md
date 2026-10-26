@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night Was Had on the Town | 178944 | [178944-a-night-was-had-on-the-town.json](./178944-a-night-was-had-on-the-town.json) |
 | A Night With Angel | 266280 | [266280-a-night-with-angel.json](./266280-a-night-with-angel.json) |
 | A Night With Gigsjaw VR | 374226 | [374226-a-night-with-gigsjaw-vr.json](./374226-a-night-with-gigsjaw-vr.json) |
+| A Night with Laverne | 379953 | [379953-a-night-with-laverne.json](./379953-a-night-with-laverne.json) |
 | A Night With Natalie | 371045 | [371045-a-night-with-natalie.json](./371045-a-night-with-natalie.json) |
 | A night with Natalie VR | 111376 | [111376-a-night-with-natalie-vr.json](./111376-a-night-with-natalie-vr.json) |
 | A Night With Neil | 243602 | [243602-a-night-with-neil.json](./243602-a-night-with-neil.json) |
@@ -9518,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Tournament | 76385 | [76385-apex-tournament.json](./76385-apex-tournament.json) |
 | Apexaris Tower | 313558 | [313558-apexaris-tower.json](./313558-apexaris-tower.json) |
 | Apez | 74150 | [74150-apez.json](./74150-apez.json) |
+| Aphantasia | 379921 | [379921-aphantasia.json](./379921-aphantasia.json) |
 | Aphasia | 422086 | [422086-aphasia.json](./422086-aphasia.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 410392 | [410392-aphelion.json](./410392-aphelion.json) |
@@ -13609,6 +13611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | 122749 | [122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json](./122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey | 25921 | [25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json](./25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Heintz | 170836 | [170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json](./170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json) |
+| Atelier Firis: The Alchemist and the Mysterious Journey - Premium Box | 379939 | [379939-atelier-firis-the-alchemist-and-the-mysterious-journey-premium-box.json](./379939-atelier-firis-the-alchemist-and-the-mysterious-journey-premium-box.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Shanon | 170837 | [170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json](./170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json) |
 | Atelier Iris 2: The Azoth of Destiny | 20510 | [20510-atelier-iris-2-the-azoth-of-destiny.json](./20510-atelier-iris-2-the-azoth-of-destiny.json) |
 | Atelier Iris: Eternal Mana | 19634 | [19634-atelier-iris-eternal-mana.json](./19634-atelier-iris-eternal-mana.json) |
