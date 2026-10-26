@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inanis | 192178 | [192178-inanis.json](./192178-inanis.json) |
 | inAntrum | 201545 | [201545-inantrum.json](./201545-inantrum.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
+| Inari | 384014 | [384014-inari.json](./384014-inari.json) |
 | Inaro | 263321 | [263321-inaro.json](./263321-inaro.json) |
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
 | Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
@@ -3067,6 +3068,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniclick | 344718 | [344718-infiniclick.json](./344718-infiniclick.json) |
 | Infinicrypt | 298280 | [298280-infinicrypt.json](./298280-infinicrypt.json) |
 | Infinideer: Deerfinity | 387044 | [387044-infinideer-deerfinity.json](./387044-infinideer-deerfinity.json) |
+| Infinifrag | 384018 | [384018-infinifrag.json](./384018-infinifrag.json) |
+| Infinifrag 2 | 384038 | [384038-infinifrag-2.json](./384038-infinifrag-2.json) |
 | Infinilands | 244291 | [244291-infinilands.json](./244291-infinilands.json) |
 | Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
 | InfiniPicross | 54690 | [54690-infinipicross.json](./54690-infinipicross.json) |
@@ -3629,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
 | InorStreet | 329445 | [329445-inorstreet.json](./329445-inorstreet.json) |
 | Inotia 3: Children of Carnia | 38740 | [38740-inotia-3-children-of-carnia.json](./38740-inotia-3-children-of-carnia.json) |
+| Inotia 4 | 383999 | [383999-inotia-4.json](./383999-inotia-4.json) |
 | Inotia 4: Assassin of Berkel | 38741 | [38741-inotia-4-assassin-of-berkel.json](./38741-inotia-4-assassin-of-berkel.json) |
 | Inoue Mami: Kono Hoshi ni Tatta Hitori no Kimi | 222333 | [222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json](./222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json) |
 | Inoue Ryouko: Roommate | 362824 | [362824-inoue-ryouko-roommate.json](./362824-inoue-ryouko-roommate.json) |
