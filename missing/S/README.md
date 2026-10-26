@@ -4839,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Cleaner + Official Soundtrack Bundle | 118866 | [118866-serial-cleaner-official-soundtrack-bundle.json](./118866-serial-cleaner-official-soundtrack-bundle.json) |
 | Serial Cleaner: Blood & Confetti | 336529 | [336529-serial-cleaner-blood-and-confetti.json](./336529-serial-cleaner-blood-and-confetti.json) |
 | Serial Cleaners: Dino Park | 249301 | [249301-serial-cleaners-dino-park.json](./249301-serial-cleaners-dino-park.json) |
+| Serial Dreams Escape | 344835 | [344835-serial-dreams-escape.json](./344835-serial-dreams-escape.json) |
 | Serial Experiments L-If-e | 350398 | [350398-serial-experiments-l-if-e.json](./350398-serial-experiments-l-if-e.json) |
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
@@ -9401,6 +9402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin | 151822 | [151822-sin.json](./151822-sin.json) |
 | SiN | 1045 | [1045-sin.json](./1045-sin.json) |
 | Sin & Siege | 352149 | [352149-sin-and-siege.json](./352149-sin-and-siege.json) |
+| Sin and Love | 344830 | [344830-sin-and-love.json](./344830-sin-and-love.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
 | Sin Castle | 29820 | [29820-sin-castle.json](./29820-sin-castle.json) |
@@ -23488,6 +23490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Poison | 264483 | [264483-street-fighter-v-poison.json](./264483-street-fighter-v-poison.json) |
 | Street Fighter V: Pro-JP 2022 Saishunkan Sol Kumamoto Costumes Bundle | 342576 | [342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json](./342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json) |
 | Street Fighter V: Pro-JP 2022 v6plus FAV gaming Costumes Bundle | 345847 | [345847-street-fighter-v-pro-jp-2022-v6plus-fav-gaming-costumes-bundle.json](./345847-street-fighter-v-pro-jp-2022-v6plus-fav-gaming-costumes-bundle.json) |
+| Street Fighter V: Sagat | 344846 | [344846-street-fighter-v-sagat.json](./344846-street-fighter-v-sagat.json) |
 | Street Fighter V: School Costume Pack | 345849 | [345849-street-fighter-v-school-costume-pack.json](./345849-street-fighter-v-school-costume-pack.json) |
 | Street Fighter V: Season 1 Character Pass | 390441 | [390441-street-fighter-v-season-1-character-pass.json](./390441-street-fighter-v-season-1-character-pass.json) |
 | Street Fighter V: Season 1-3 Nostalgia Costume Pack | 343900 | [343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json](./343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json) |
@@ -27096,6 +27099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super No Crying in Baseball | 132504 | [132504-super-no-crying-in-baseball.json](./132504-super-no-crying-in-baseball.json) |
 | Super Noah's Ark 3D | 11168 | [11168-super-noahs-ark-3d.json](./11168-super-noahs-ark-3d.json) |
 | Super Nodage Game Maker | 356010 | [356010-super-nodage-game-maker.json](./356010-super-nodage-game-maker.json) |
+| Super Nodage Party | 344856 | [344856-super-nodage-party.json](./344856-super-nodage-party.json) |
 | Super Nodage World | 200916 | [200916-super-nodage-world.json](./200916-super-nodage-world.json) |
 | Super Nosebleed Land | 105075 | [105075-super-nosebleed-land.json](./105075-super-nosebleed-land.json) |
 | Super Nostalgia World | 267972 | [267972-super-nostalgia-world.json](./267972-super-nostalgia-world.json) |
