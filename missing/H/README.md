@@ -5029,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Hyrule | 215237 | [215237-heroes-of-hyrule.json](./215237-heroes-of-hyrule.json) |
 | Heroes of Infinity | 60925 | [60925-heroes-of-infinity.json](./60925-heroes-of-infinity.json) |
 | Heroes of Jin Yong | 210689 | [210689-heroes-of-jin-yong.json](./210689-heroes-of-jin-yong.json) |
+| Heroes of Jin Yong | 375896 | [375896-heroes-of-jin-yong.json](./375896-heroes-of-jin-yong.json) |
 | Heroes of Kalevala | 54095 | [54095-heroes-of-kalevala.json](./54095-heroes-of-kalevala.json) |
 | Heroes of Karn | 13876 | [13876-heroes-of-karn.json](./13876-heroes-of-karn.json) |
 | Heroes of Larkwood | 107602 | [107602-heroes-of-larkwood.json](./107602-heroes-of-larkwood.json) |
