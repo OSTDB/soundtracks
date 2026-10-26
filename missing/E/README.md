@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Wanderers From Ys PC-8801mkIISR | 300861 | [300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json](./300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json) |
 | Eggconsole Wonderland of Carbuncle MSX2 | 387106 | [387106-eggconsole-wonderland-of-carbuncle-msx2.json](./387106-eggconsole-wonderland-of-carbuncle-msx2.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
+| Eggconsole Xak Precious Package: The Tower of Gazzel PC-8801mkIISR | 358628 | [358628-eggconsole-xak-precious-package-the-tower-of-gazzel-pc-8801mkiisr.json](./358628-eggconsole-xak-precious-package-the-tower-of-gazzel-pc-8801mkiisr.json) |
 | Eggconsole Xanadu MSX | 378796 | [378796-eggconsole-xanadu-msx.json](./378796-eggconsole-xanadu-msx.json) |
 | Eggconsole Xanadu Scenario II PC-8801mkIISR | 314859 | [314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json](./314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json) |
 | Eggconsole Yokai Tantei PC-8801 | 283284 | [283284-eggconsole-yokai-tantei-pc-8801.json](./283284-eggconsole-yokai-tantei-pc-8801.json) |
