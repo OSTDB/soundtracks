@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
 | Weed Bakery | 374631 | [374631-weed-bakery.json](./374631-weed-bakery.json) |
 | Weed County | 130117 | [130117-weed-county.json](./130117-weed-county.json) |
+| Weed Drug Empire | 340864 | [340864-weed-drug-empire.json](./340864-weed-drug-empire.json) |
 | Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
 | Weed Farmer Simulator | 128479 | [128479-weed-farmer-simulator.json](./128479-weed-farmer-simulator.json) |
 | Weed Firm: Replanted | 408490 | [408490-weed-firm-replanted.json](./408490-weed-firm-replanted.json) |
@@ -3390,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels on the Bus! | 90377 | [90377-wheels-on-the-bus.json](./90377-wheels-on-the-bus.json) |
 | Wheels0 | 78628 | [78628-wheels0.json](./78628-wheels0.json) |
 | Wheelspin | 5177 | [5177-wheelspin.json](./5177-wheelspin.json) |
+| Wheelsprung | 340856 | [340856-wheelsprung.json](./340856-wheelsprung.json) |
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | Wheely 4: Time Travel | 102004 | [102004-wheely-4-time-travel.json](./102004-wheely-4-time-travel.json) |
