@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perdition's Gate Resurgence | 329215 | [329215-perditions-gate-resurgence.json](./329215-perditions-gate-resurgence.json) |
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
 | Peregrin | 29934 | [29934-peregrin.json](./29934-peregrin.json) |
+| Peregrino | 359890 | [359890-peregrino.json](./359890-peregrino.json) |
 | Perennial | 58569 | [58569-perennial.json](./58569-perennial.json) |
 | Perennial Dusk: Kinsenka | 326641 | [326641-perennial-dusk-kinsenka.json](./326641-perennial-dusk-kinsenka.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
@@ -6640,9 +6641,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Christmas Baubles Pack 3 | 377604 | [377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json](./377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Christmas Pack 3 | 377605 | [377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json](./377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack | 355518 | [355518-pixel-cross-stitch-color-by-number-enchanted-worlds-pack.json](./355518-pixel-cross-stitch-color-by-number-enchanted-worlds-pack.json) |
+| Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 2 | 359877 | [359877-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-2.json](./359877-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 3 | 377607 | [377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json](./377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Flowers and Butterflies Pack 3 | 359878 | [359878-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-3.json](./359878-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Minis Pack | 377609 | [377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json](./377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Pack 2 | 377608 | [377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json](./377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Menacing Monsters Pack 3 | 359876 | [359876-pixel-cross-stitch-color-by-number-menacing-monsters-pack-3.json](./359876-pixel-cross-stitch-color-by-number-menacing-monsters-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Simple Nature Pack | 383179 | [383179-pixel-cross-stitch-color-by-number-simple-nature-pack.json](./383179-pixel-cross-stitch-color-by-number-simple-nature-pack.json) |
 | Pixel Cross Stitch: Color by Number - Simple Nature Pack 2 | 374127 | [374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json](./374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5 | 374128 | [374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json](./374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json) |
@@ -10133,6 +10137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polylumina | 388510 | [388510-polylumina.json](./388510-polylumina.json) |
 | Polymaniacs | 183418 | [183418-polymaniacs.json](./183418-polymaniacs.json) |
 | Polymatic | 103624 | [103624-polymatic.json](./103624-polymatic.json) |
+| Polymega Collection Vol. 11: Adventure | 359899 | [359899-polymega-collection-vol-11-adventure.json](./359899-polymega-collection-vol-11-adventure.json) |
+| Polymega Collection Vol. 12: Tempest | 359900 | [359900-polymega-collection-vol-12-tempest.json](./359900-polymega-collection-vol-12-tempest.json) |
 | Polymega Collection Vol. 2: Karate Champ | 324512 | [324512-polymega-collection-vol-2-karate-champ.json](./324512-polymega-collection-vol-2-karate-champ.json) |
 | Polymega Collection Vol. 7: Breaker's | 339810 | [339810-polymega-collection-vol-7-breakers.json](./339810-polymega-collection-vol-7-breakers.json) |
 | Polymega Collection Vol. 8: Captain Tomaday | 339811 | [339811-polymega-collection-vol-8-captain-tomaday.json](./339811-polymega-collection-vol-8-captain-tomaday.json) |
