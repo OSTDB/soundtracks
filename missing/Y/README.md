@@ -1234,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Story: Games with Death | 345067 | [345067-your-story-games-with-death.json](./345067-your-story-games-with-death.json) |
 | Your Study Mate | 325061 | [325061-your-study-mate.json](./325061-your-study-mate.json) |
 | Your Sword Is So Big | 174120 | [174120-your-sword-is-so-big.json](./174120-your-sword-is-so-big.json) |
+| Your Takeout | 379325 | [379325-your-takeout.json](./379325-your-takeout.json) |
 | Your Time Is Mine | 82945 | [82945-your-time-is-mine.json](./82945-your-time-is-mine.json) |
 | Your Time to Shine: Island Existence | 205610 | [205610-your-time-to-shine-island-existence.json](./205610-your-time-to-shine-island-existence.json) |
 | Your Toy | 83768 | [83768-your-toy.json](./83768-your-toy.json) |
