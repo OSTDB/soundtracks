@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havoc Monkeys | 327875 | [327875-havoc-monkeys.json](./327875-havoc-monkeys.json) |
 | Havoc Runner | 148557 | [148557-havoc-runner.json](./148557-havoc-runner.json) |
 | Havocado | 113895 | [113895-havocado.json](./113895-havocado.json) |
+| Havok Balloons Tech Showcase | 383994 | [383994-havok-balloons-tech-showcase.json](./383994-havok-balloons-tech-showcase.json) |
 | Havsala: Into the Soul Palace | 193493 | [193493-havsala-into-the-soul-palace.json](./193493-havsala-into-the-soul-palace.json) |
 | Hawaii Detective: Killing of a Krypto King | 251806 | [251806-hawaii-detective-killing-of-a-krypto-king.json](./251806-hawaii-detective-killing-of-a-krypto-king.json) |
 | Hawaii High: Mystery of the Tiki | 395094 | [395094-hawaii-high-mystery-of-the-tiki.json](./395094-hawaii-high-mystery-of-the-tiki.json) |
