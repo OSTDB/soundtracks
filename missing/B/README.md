@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacterium | 107023 | [107023-bacterium.json](./107023-bacterium.json) |
 | Bacterium | 335144 | [335144-bacterium.json](./335144-bacterium.json) |
 | Bacterium | 409375 | [409375-bacterium.json](./409375-bacterium.json) |
+| Bactobot | 363932 | [363932-bactobot.json](./363932-bactobot.json) |
 | Bactory | 413612 | [413612-bactory.json](./413612-bactory.json) |
 | Bactron | 37076 | [37076-bactron.json](./37076-bactron.json) |
 | Baculus | 140599 | [140599-baculus.json](./140599-baculus.json) |
@@ -5256,6 +5257,41 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: 023 - Defense Mod: Sixth Sense | 363825 | [363825-ben-10-023-defense-mod-sixth-sense.json](./363825-ben-10-023-defense-mod-sixth-sense.json) |
 | Ben 10: 024 - Attack Mod: Soul Sink | 363826 | [363826-ben-10-024-attack-mod-soul-sink.json](./363826-ben-10-024-attack-mod-soul-sink.json) |
 | Ben 10: 028 - Power Mod: High Jump | 363890 | [363890-ben-10-028-power-mod-high-jump.json](./363890-ben-10-028-power-mod-high-jump.json) |
+| Ben 10: 030 - Attack Mod: Bounceback | 363832 | [363832-ben-10-030-attack-mod-bounceback.json](./363832-ben-10-030-attack-mod-bounceback.json) |
+| Ben 10: 031 - Defense Mod: Shrink Wrap | 363833 | [363833-ben-10-031-defense-mod-shrink-wrap.json](./363833-ben-10-031-defense-mod-shrink-wrap.json) |
+| Ben 10: 032 - Power Mod: Fliptail | 363834 | [363834-ben-10-032-power-mod-fliptail.json](./363834-ben-10-032-power-mod-fliptail.json) |
+| Ben 10: 033 - Speed Mod: Dive Bomb | 363835 | [363835-ben-10-033-speed-mod-dive-bomb.json](./363835-ben-10-033-speed-mod-dive-bomb.json) |
+| Ben 10: 034 - Attack Mod: Bite Radius | 363836 | [363836-ben-10-034-attack-mod-bite-radius.json](./363836-ben-10-034-attack-mod-bite-radius.json) |
+| Ben 10: 035 - Defense Mod: Scale Armor | 363837 | [363837-ben-10-035-defense-mod-scale-armor.json](./363837-ben-10-035-defense-mod-scale-armor.json) |
+| Ben 10: 036 - Projectile Mod: Nanoblast | 363838 | [363838-ben-10-036-projectile-mod-nanoblast.json](./363838-ben-10-036-projectile-mod-nanoblast.json) |
+| Ben 10: 037 - Speed Mod: Overclock | 363839 | [363839-ben-10-037-speed-mod-overclock.json](./363839-ben-10-037-speed-mod-overclock.json) |
+| Ben 10: 038 - Attack Mod: Binary Blaster | 363840 | [363840-ben-10-038-attack-mod-binary-blaster.json](./363840-ben-10-038-attack-mod-binary-blaster.json) |
+| Ben 10: 039 - Defense Mod: Defuse | 363841 | [363841-ben-10-039-defense-mod-defuse.json](./363841-ben-10-039-defense-mod-defuse.json) |
+| Ben 10: 040 - Power Mod: Big Smack | 363842 | [363842-ben-10-040-power-mod-big-smack.json](./363842-ben-10-040-power-mod-big-smack.json) |
+| Ben 10: 041 - Speed Mod: Thunderclap | 363843 | [363843-ben-10-041-speed-mod-thunderclap.json](./363843-ben-10-041-speed-mod-thunderclap.json) |
+| Ben 10: 042 - Attack Mod: Juggernaut | 363844 | [363844-ben-10-042-attack-mod-juggernaut.json](./363844-ben-10-042-attack-mod-juggernaut.json) |
+| Ben 10: 043 - Defense Mod: Behemoth | 363845 | [363845-ben-10-043-defense-mod-behemoth.json](./363845-ben-10-043-defense-mod-behemoth.json) |
+| Ben 10: 044 - Projectile Mod: Goo Sting | 363846 | [363846-ben-10-044-projectile-mod-goo-sting.json](./363846-ben-10-044-projectile-mod-goo-sting.json) |
+| Ben 10: 045 - Speed Mod: Hive Mind | 363847 | [363847-ben-10-045-speed-mod-hive-mind.json](./363847-ben-10-045-speed-mod-hive-mind.json) |
+| Ben 10: 046 - Attack Mod: Hyperwing | 363848 | [363848-ben-10-046-attack-mod-hyperwing.json](./363848-ben-10-046-attack-mod-hyperwing.json) |
+| Ben 10: 047 - Defense Mod: Stink Swarm | 363849 | [363849-ben-10-047-defense-mod-stink-swarm.json](./363849-ben-10-047-defense-mod-stink-swarm.json) |
+| Ben 10: 048 - Projectile Mod: Static Boom | 363850 | [363850-ben-10-048-projectile-mod-static-boom.json](./363850-ben-10-048-projectile-mod-static-boom.json) |
+| Ben 10: 049 - Attack Mod: Turbo Change | 363851 | [363851-ben-10-049-attack-mod-turbo-change.json](./363851-ben-10-049-attack-mod-turbo-change.json) |
+| Ben 10: 050 - Attack Mod: Gear Shift | 363852 | [363852-ben-10-050-attack-mod-gear-shift.json](./363852-ben-10-050-attack-mod-gear-shift.json) |
+| Ben 10: 051 - Defense Mod: Spin Out | 363854 | [363854-ben-10-051-defense-mod-spin-out.json](./363854-ben-10-051-defense-mod-spin-out.json) |
+| Ben 10: 052 - Villain Defense: Rust Belt | 363856 | [363856-ben-10-052-villain-defense-rust-belt.json](./363856-ben-10-052-villain-defense-rust-belt.json) |
+| Ben 10: 053 - Villain Defense: Metal Fatigue | 363857 | [363857-ben-10-053-villain-defense-metal-fatigue.json](./363857-ben-10-053-villain-defense-metal-fatigue.json) |
+| Ben 10: 054 - Villain Defense: Harpoon | 363858 | [363858-ben-10-054-villain-defense-harpoon.json](./363858-ben-10-054-villain-defense-harpoon.json) |
+| Ben 10: 055 - Villain Defense: Deep Six | 363859 | [363859-ben-10-055-villain-defense-deep-six.json](./363859-ben-10-055-villain-defense-deep-six.json) |
+| Ben 10: 056 - Villain Defense: All Thumbs | 363860 | [363860-ben-10-056-villain-defense-all-thumbs.json](./363860-ben-10-056-villain-defense-all-thumbs.json) |
+| Ben 10: 057 - Villain Defense: Flame Out | 363861 | [363861-ben-10-057-villain-defense-flame-out.json](./363861-ben-10-057-villain-defense-flame-out.json) |
+| Ben 10: 058 - Villain Defense: Brain Drain | 363862 | [363862-ben-10-058-villain-defense-brain-drain.json](./363862-ben-10-058-villain-defense-brain-drain.json) |
+| Ben 10: 059 - Villain Defense: Bio-Feedback | 363863 | [363863-ben-10-059-villain-defense-bio-feedback.json](./363863-ben-10-059-villain-defense-bio-feedback.json) |
+| Ben 10: 060 - Villain Defense: Hyp-No! | 363864 | [363864-ben-10-060-villain-defense-hyp-no.json](./363864-ben-10-060-villain-defense-hyp-no.json) |
+| Ben 10: 061 - Villain Defense: Reverse Psychology | 363865 | [363865-ben-10-061-villain-defense-reverse-psychology.json](./363865-ben-10-061-villain-defense-reverse-psychology.json) |
+| Ben 10: 062 - Villain Defense: Snail Trail | 363866 | [363866-ben-10-062-villain-defense-snail-trail.json](./363866-ben-10-062-villain-defense-snail-trail.json) |
+| Ben 10: 063 - Villain Defense: Surface Tension | 363867 | [363867-ben-10-063-villain-defense-surface-tension.json](./363867-ben-10-063-villain-defense-surface-tension.json) |
+| Ben 10: 064 - Villain Defense: Hexa-Gone | 363868 | [363868-ben-10-064-villain-defense-hexa-gone.json](./363868-ben-10-064-villain-defense-hexa-gone.json) |
 | Ben 10: 065 - Villain Defense: Smoke and Mirrors | 363869 | [363869-ben-10-065-villain-defense-smoke-and-mirrors.json](./363869-ben-10-065-villain-defense-smoke-and-mirrors.json) |
 | Ben 10: 066 - Villain Defense: Short Circuit | 363870 | [363870-ben-10-066-villain-defense-short-circuit.json](./363870-ben-10-066-villain-defense-short-circuit.json) |
 | Ben 10: 067 - Villain Defense: Groundswell | 363871 | [363871-ben-10-067-villain-defense-groundswell.json](./363871-ben-10-067-villain-defense-groundswell.json) |
