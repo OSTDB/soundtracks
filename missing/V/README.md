@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verse Roll | 263564 | [263564-verse-roll.json](./263564-verse-roll.json) |
 | Verse Surf | 141800 | [141800-verse-surf.json](./141800-verse-surf.json) |
 | Verse Unknown | 396341 | [396341-verse-unknown.json](./396341-verse-unknown.json) |
+| Verse VR | 354339 | [354339-verse-vr.json](./354339-verse-vr.json) |
 | Verses | 359524 | [359524-verses.json](./359524-verses.json) |
 | Verses of Enchantment | 211982 | [211982-verses-of-enchantment.json](./211982-verses-of-enchantment.json) |
 | Verses of Hope | 313199 | [313199-verses-of-hope.json](./313199-verses-of-hope.json) |
