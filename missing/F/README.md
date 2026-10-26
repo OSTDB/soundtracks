@@ -8137,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
 | Forged Battalion | 74528 | [74528-forged-battalion.json](./74528-forged-battalion.json) |
 | Forged Cards | 422467 | [422467-forged-cards.json](./422467-forged-cards.json) |
+| Forged Desires: A Bara JRPG | 377093 | [377093-forged-desires-a-bara-jrpg.json](./377093-forged-desires-a-bara-jrpg.json) |
 | Forged In Dungeon | 289235 | [289235-forged-in-dungeon.json](./289235-forged-in-dungeon.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
@@ -8349,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
+| Formula 2.5 | 377030 | [377030-formula-2-5.json](./377030-formula-2-5.json) |
 | Formula 2026: Rise of Legends | 401728 | [401728-formula-2026-rise-of-legends.json](./401728-formula-2026-rise-of-legends.json) |
 | Formula 2D: Steer To Persevere | 212833 | [212833-formula-2d-steer-to-persevere.json](./212833-formula-2d-steer-to-persevere.json) |
 | Formula 500 | 230861 | [230861-formula-500.json](./230861-formula-500.json) |
@@ -10703,6 +10705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FTB Stoneblock 4 | 378220 | [378220-ftb-stoneblock-4.json](./378220-ftb-stoneblock-4.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
 | FTD2 | 147180 | [147180-ftd2.json](./147180-ftd2.json) |
+| FTL Team | 377629 | [377629-ftl-team.json](./377629-ftl-team.json) |
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
 | Fu Sha 3: Night Clinic | 405552 | [405552-fu-sha-3-night-clinic.json](./405552-fu-sha-3-night-clinic.json) |
 | Fu-Fu-Chan: Way Up! | 408933 | [408933-fu-fu-chan-way-up.json](./408933-fu-fu-chan-way-up.json) |
@@ -10879,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Spectrum Warrior Complete | 53060 | [53060-full-spectrum-warrior-complete.json](./53060-full-spectrum-warrior-complete.json) |
 | Full Speed Animals: Disorder | 296380 | [296380-full-speed-animals-disorder.json](./296380-full-speed-animals-disorder.json) |
 | Full Speed Animals: The RTA | 289369 | [289369-full-speed-animals-the-rta.json](./289369-full-speed-animals-the-rta.json) |
+| Full Steam Undead | 377648 | [377648-full-steam-undead.json](./377648-full-steam-undead.json) |
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
 | Full Stride | 382991 | [382991-full-stride.json](./382991-full-stride.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
