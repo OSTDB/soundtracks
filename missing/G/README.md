@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
 | Gallery Manager | 234660 | [234660-gallery-manager.json](./234660-gallery-manager.json) |
 | Gallery Night Shift | 279493 | [279493-gallery-night-shift.json](./279493-gallery-night-shift.json) |
+| Gallery of Night Order | 366177 | [366177-gallery-of-night-order.json](./366177-gallery-of-night-order.json) |
 | Gallery of Shadows: Lycans Returns | 376055 | [376055-gallery-of-shadows-lycans-returns.json](./376055-gallery-of-shadows-lycans-returns.json) |
 | Gallery of Things: Reveries | 279462 | [279462-gallery-of-things-reveries.json](./279462-gallery-of-things-reveries.json) |
 | Gallery One | 106340 | [106340-gallery-one.json](./106340-gallery-one.json) |
@@ -1516,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden | 230201 | [230201-garden.json](./230201-garden.json) |
 | Garden & Bird | 346084 | [346084-garden-and-bird.json](./346084-garden-and-bird.json) |
 | Garden Affairs | 214058 | [214058-garden-affairs.json](./214058-garden-affairs.json) |
+| Garden and a Goat | 366277 | [366277-garden-and-a-goat.json](./366277-garden-and-a-goat.json) |
 | Garden Blast | 354974 | [354974-garden-blast.json](./354974-garden-blast.json) |
 | Garden Bots | 395900 | [395900-garden-bots.json](./395900-garden-bots.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
@@ -3964,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladius | 3932 | [3932-gladius.json](./3932-gladius.json) |
 | GladMort | 320021 | [320021-gladmort.json](./320021-gladmort.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
+| Gladston Valley | 366181 | [366181-gladston-valley.json](./366181-gladston-valley.json) |
 | Glais Gawizt | 266765 | [266765-glais-gawizt.json](./266765-glais-gawizt.json) |
 | Glaive | 262009 | [262009-glaive.json](./262009-glaive.json) |
 | Glaive | 31965 | [31965-glaive.json](./31965-glaive.json) |
