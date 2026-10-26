@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caliper | 29713 | [29713-caliper.json](./29713-caliper.json) |
 | Caliper 2 | 118226 | [118226-caliper-2.json](./118226-caliper-2.json) |
 | Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
+| Caliross, the Shapeshifter's Legacy | 380463 | [380463-caliross-the-shapeshifters-legacy.json](./380463-caliross-the-shapeshifters-legacy.json) |
 | Calisteo | 238981 | [238981-calisteo.json](./238981-calisteo.json) |
 | Calixto Island | 36910 | [36910-calixto-island.json](./36910-calixto-island.json) |
 | Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
@@ -737,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Call Of Unity | 387734 | [387734-call-of-unity.json](./387734-call-of-unity.json) |
 | Call of War | 55476 | [55476-call-of-war.json](./55476-call-of-war.json) |
+| Call of Warfare: FPS Modern Shooter | 380490 | [380490-call-of-warfare-fps-modern-shooter.json](./380490-call-of-warfare-fps-modern-shooter.json) |
 | Call of Warfront | 404257 | [404257-call-of-warfront.json](./404257-call-of-warfront.json) |
 | Call of Warzone | 332489 | [332489-call-of-warzone.json](./332489-call-of-warzone.json) |
 | Call of Yucatán | 341943 | [341943-call-of-yucatan.json](./341943-call-of-yucatan.json) |
@@ -1536,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Sabertooth and the Treasure of Lama Rama | 101432 | [101432-captain-sabertooth-and-the-treasure-of-lama-rama.json](./101432-captain-sabertooth-and-the-treasure-of-lama-rama.json) |
 | Captain Scarlet | 83233 | [83233-captain-scarlet.json](./83233-captain-scarlet.json) |
+| Captain Sharkbait: Voyage for Treasure | 380493 | [380493-captain-sharkbait-voyage-for-treasure.json](./380493-captain-sharkbait-voyage-for-treasure.json) |
 | Captain Skyhawk | 48071 | [48071-captain-skyhawk.json](./48071-captain-skyhawk.json) |
 | Captain Slog | 60636 | [60636-captain-slog.json](./60636-captain-slog.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
@@ -4198,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
 | Celestial Crown | 318119 | [318119-celestial-crown.json](./318119-celestial-crown.json) |
 | Celestial Crusade | 122983 | [122983-celestial-crusade.json](./122983-celestial-crusade.json) |
+| Celestial Decks | 380466 | [380466-celestial-decks.json](./380466-celestial-decks.json) |
 | Celestial Descends | 284810 | [284810-celestial-descends.json](./284810-celestial-descends.json) |
 | Celestial Drift | 391244 | [391244-celestial-drift.json](./391244-celestial-drift.json) |
 | Celestial Fall | 376224 | [376224-celestial-fall.json](./376224-celestial-fall.json) |
@@ -12532,6 +12536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Love!: Enchanted Princess | 195410 | [195410-cosplay-love-enchanted-princess.json](./195410-cosplay-love-enchanted-princess.json) |
 | Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
+| Cosplayer's Quest | 380465 | [380465-cosplayers-quest.json](./380465-cosplayers-quest.json) |
 | Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
 | Cossacks 3 | 13215 | [13215-cossacks-3.json](./13215-cossacks-3.json) |
 | Cossacks 3: Days of Brilliance | 51742 | [51742-cossacks-3-days-of-brilliance.json](./51742-cossacks-3-days-of-brilliance.json) |
@@ -12627,6 +12632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown to Eclipse | 411413 | [411413-countdown-to-eclipse.json](./411413-countdown-to-eclipse.json) |
 | Countdown to Extinction | 313858 | [313858-countdown-to-extinction.json](./313858-countdown-to-extinction.json) |
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
+| Countdown to NTR | 380464 | [380464-countdown-to-ntr.json](./380464-countdown-to-ntr.json) |
 | Countdown to Shutdown | 83377 | [83377-countdown-to-shutdown.json](./83377-countdown-to-shutdown.json) |
 | Countdown: The Game | 393141 | [393141-countdown-the-game.json](./393141-countdown-the-game.json) |
 | Counter Action | 2612 | [2612-counter-action.json](./2612-counter-action.json) |
