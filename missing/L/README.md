@@ -6310,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootem | 226181 | [226181-lootem.json](./226181-lootem.json) |
 | Lootfest | 35351 | [35351-lootfest.json](./35351-lootfest.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
+| Lootimals | 369547 | [369547-lootimals.json](./369547-lootimals.json) |
 | Lootist | 316735 | [316735-lootist.json](./316735-lootist.json) |
 | Lootkeeper: Tidy Up the Loot | 423872 | [423872-lootkeeper-tidy-up-the-loot.json](./423872-lootkeeper-tidy-up-the-loot.json) |
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
@@ -7131,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Cat Life | 123349 | [123349-love-cat-life.json](./123349-love-cat-life.json) |
 | Love Challenge | 245717 | [245717-love-challenge.json](./245717-love-challenge.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
+| Love Chemistry: Sibella's Formula | 369526 | [369526-love-chemistry-sibellas-formula.json](./369526-love-chemistry-sibellas-formula.json) |
 | Love Chronicles: A Winter's Spell - Collector's Edition | 105165 | [105165-love-chronicles-a-winters-spell-collectors-edition.json](./105165-love-chronicles-a-winters-spell-collectors-edition.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
 | Love Chronicles: The Sword and the Rose - Collector's Edition | 54872 | [54872-love-chronicles-the-sword-and-the-rose-collectors-edition.json](./54872-love-chronicles-the-sword-and-the-rose-collectors-edition.json) |
@@ -7311,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
 | Love Quest | 37940 | [37940-love-quest.json](./37940-love-quest.json) |
+| Love Quest VR: Los Angeles | 369544 | [369544-love-quest-vr-los-angeles.json](./369544-love-quest-vr-los-angeles.json) |
 | Love Quest: Los Angeles | 303637 | [303637-love-quest-los-angeles.json](./303637-love-quest-los-angeles.json) |
 | Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
 | Love Rewind: A Magical Time Travel Romance | 180536 | [180536-love-rewind-a-magical-time-travel-romance.json](./180536-love-rewind-a-magical-time-travel-romance.json) |
