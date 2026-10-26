@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night Duty | 322452 | [322452-a-night-duty.json](./322452-a-night-duty.json) |
+| A Night Filled With the Sound of Rain | 339723 | [339723-a-night-filled-with-the-sound-of-rain.json](./339723-a-night-filled-with-the-sound-of-rain.json) |
 | A Night for Flesh and Roses | 344838 | [344838-a-night-for-flesh-and-roses.json](./344838-a-night-for-flesh-and-roses.json) |
 | A Night In Berlin | 138472 | [138472-a-night-in-berlin.json](./138472-a-night-in-berlin.json) |
 | A Night in Crazytown | 58084 | [58084-a-night-in-crazytown.json](./58084-a-night-in-crazytown.json) |
@@ -6945,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
 | Amber Alert Director's Cut | 345679 | [345679-amber-alert-directors-cut.json](./345679-amber-alert-directors-cut.json) |
+| Amber Alert Total VR | 339722 | [339722-amber-alert-total-vr.json](./339722-amber-alert-total-vr.json) |
 | Amber Battle Royale | 226219 | [226219-amber-battle-royale.json](./226219-amber-battle-royale.json) |
 | Amber City | 210904 | [210904-amber-city.json](./210904-amber-city.json) |
 | Amber County | 102067 | [102067-amber-county.json](./102067-amber-county.json) |
