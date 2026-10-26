@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candivity: Outer Space DLC | 324432 | [324432-candivity-outer-space-dlc.json](./324432-candivity-outer-space-dlc.json) |
 | Candivity: Platinum Edition | 385194 | [385194-candivity-platinum-edition.json](./385194-candivity-platinum-edition.json) |
 | Candivity: Snow & Sand Edition | 400197 | [400197-candivity-snow-and-sand-edition.json](./400197-candivity-snow-and-sand-edition.json) |
+| Candivity: Space Edition | 336436 | [336436-candivity-space-edition.json](./336436-candivity-space-edition.json) |
 | Candivity: Under Water DLC | 346004 | [346004-candivity-under-water-dlc.json](./346004-candivity-under-water-dlc.json) |
 | Candle | 19289 | [19289-candle.json](./19289-candle.json) |
 | Candle Fire Run! | 262319 | [262319-candle-fire-run.json](./262319-candle-fire-run.json) |
@@ -9145,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobalt Runner | 64283 | [64283-cobalt-runner.json](./64283-cobalt-runner.json) |
 | Cobb Can Move | 401154 | [401154-cobb-can-move.json](./401154-cobb-can-move.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
+| Cobble: The Stone Forager | 336445 | [336445-cobble-the-stone-forager.json](./336445-cobble-the-stone-forager.json) |
 | Cobi Darts | 106468 | [106468-cobi-darts.json](./106468-cobi-darts.json) |
 | Cobi Golf Shots | 96283 | [96283-cobi-golf-shots.json](./96283-cobi-golf-shots.json) |
 | Cobi Shoot | 257873 | [257873-cobi-shoot.json](./257873-cobi-shoot.json) |
@@ -10009,6 +10011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
 | Color Splash: Fruits | 399729 | [399729-color-splash-fruits.json](./399729-color-splash-fruits.json) |
 | Color Splash: Horses | 337633 | [337633-color-splash-horses.json](./337633-color-splash-horses.json) |
+| Color Splash: Monkeys | 336480 | [336480-color-splash-monkeys.json](./336480-color-splash-monkeys.json) |
 | Color Splash: Mushrooms | 383164 | [383164-color-splash-mushrooms.json](./383164-color-splash-mushrooms.json) |
 | Color Splash: Predators | 289544 | [289544-color-splash-predators.json](./289544-color-splash-predators.json) |
 | Color Splash: Reptiles | 408541 | [408541-color-splash-reptiles.json](./408541-color-splash-reptiles.json) |
@@ -10746,6 +10749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Keen: Invasion of the Vorticons | 71234 | [71234-commander-keen-invasion-of-the-vorticons.json](./71234-commander-keen-invasion-of-the-vorticons.json) |
 | Commander Keen: Keen Meets the Meats | 313968 | [313968-commander-keen-keen-meets-the-meats.json](./313968-commander-keen-keen-meets-the-meats.json) |
 | Commander Keen: The Keys of Krodacia | 288345 | [288345-commander-keen-the-keys-of-krodacia.json](./288345-commander-keen-the-keys-of-krodacia.json) |
+| Commander Nuke | 336462 | [336462-commander-nuke.json](./336462-commander-nuke.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
 | Commander Quest | 294032 | [294032-commander-quest.json](./294032-commander-quest.json) |
 | Commander Tiberius Troubleson | 244340 | [244340-commander-tiberius-troubleson.json](./244340-commander-tiberius-troubleson.json) |
