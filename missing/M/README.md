@@ -4471,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterChef: Learn to Cook! - Vegetables & Grains | 324482 | [324482-masterchef-learn-to-cook-vegetables-and-grains.json](./324482-masterchef-learn-to-cook-vegetables-and-grains.json) |
 | MasterChef: Learn to Cook! - Veggie Special | 385165 | [385165-masterchef-learn-to-cook-veggie-special.json](./385165-masterchef-learn-to-cook-veggie-special.json) |
 | MasterCube | 59901 | [59901-mastercube.json](./59901-mastercube.json) |
+| Mastermind | 341711 | [341711-mastermind.json](./341711-mastermind.json) |
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Mastermind - Cows and Bulls Free Word Game | 89711 | [89711-mastermind-cows-and-bulls-free-word-game.json](./89711-mastermind-cows-and-bulls-free-word-game.json) |
 | Mastermind Classic | 135001 | [135001-mastermind-classic.json](./135001-mastermind-classic.json) |
@@ -7372,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memopoly | 106905 | [106905-memopoly.json](./106905-memopoly.json) |
 | Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
+| Memoralia | 341398 | [341398-memoralia.json](./341398-memoralia.json) |
 | Memoralysis: The Scorched Home | 323230 | [323230-memoralysis-the-scorched-home.json](./323230-memoralysis-the-scorched-home.json) |
 | Memorama | 91258 | [91258-memorama.json](./91258-memorama.json) |
 | Memoranda | 26399 | [26399-memoranda.json](./26399-memoranda.json) |
@@ -11717,6 +11719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
 | Misteri Rumah Pak RT | 390552 | [390552-misteri-rumah-pak-rt.json](./390552-misteri-rumah-pak-rt.json) |
+| Misterios Ocultos | 341426 | [341426-misterios-ocultos.json](./341426-misterios-ocultos.json) |
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
 | Mistery | 237470 | [237470-mistery.json](./237470-mistery.json) |
 | Mistery | 264046 | [264046-mistery.json](./264046-mistery.json) |
@@ -14756,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Styx | 215603 | [215603-motel-styx.json](./215603-motel-styx.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Motesolo: No Girlfriend Since Birth | 140870 | [140870-motesolo-no-girlfriend-since-birth.json](./140870-motesolo-no-girlfriend-since-birth.json) |
+| Moth | 341424 | [341424-moth.json](./341424-moth.json) |
 | Moth Kubit | 236869 | [236869-moth-kubit.json](./236869-moth-kubit.json) |
 | Moth Lake | 212971 | [212971-moth-lake.json](./212971-moth-lake.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
