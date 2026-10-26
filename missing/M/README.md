@@ -6956,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman Sprite Game | 119383 | [119383-megaman-sprite-game.json](./119383-megaman-sprite-game.json) |
 | MegaMan Super Charged | 320359 | [320359-megaman-super-charged.json](./320359-megaman-super-charged.json) |
 | Megaman Triple Threat | 326813 | [326813-megaman-triple-threat.json](./326813-megaman-triple-threat.json) |
+| Megaman vs. Metroid | 338129 | [338129-megaman-vs-metroid.json](./338129-megaman-vs-metroid.json) |
 | Megaman X in Sonic Blasting Adventure | 265221 | [265221-megaman-x-in-sonic-blasting-adventure.json](./265221-megaman-x-in-sonic-blasting-adventure.json) |
 | Megaman X Omega Blaster - Ultimate Edition | 369208 | [369208-megaman-x-omega-blaster-ultimate-edition.json](./369208-megaman-x-omega-blaster-ultimate-edition.json) |
 | Megaman X Retribution | 323023 | [323023-megaman-x-retribution.json](./323023-megaman-x-retribution.json) |
@@ -8896,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Battles 3 | 240845 | [240845-micro-battles-3.json](./240845-micro-battles-3.json) |
 | Micro Car Crash Online Le Go! | 123943 | [123943-micro-car-crash-online-le-go.json](./123943-micro-car-crash-online-le-go.json) |
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
+| Micro Gamer Shinmy | 338130 | [338130-micro-gamer-shinmy.json](./338130-micro-gamer-shinmy.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Games: Volume 1 | 258368 | [258368-micro-games-volume-1.json](./258368-micro-games-volume-1.json) |
 | Micro Hexagon | 41156 | [41156-micro-hexagon.json](./41156-micro-hexagon.json) |
@@ -10231,6 +10233,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
 | Mindseye Blacklisted | 400290 | [400290-mindseye-blacklisted.json](./400290-mindseye-blacklisted.json) |
 | Mindshadow | 12185 | [12185-mindshadow.json](./12185-mindshadow.json) |
+| Mindshadow | 338119 | [338119-mindshadow.json](./338119-mindshadow.json) |
+| Mindshadow | 338123 | [338123-mindshadow.json](./338123-mindshadow.json) |
+| Mindshadow | 338126 | [338126-mindshadow.json](./338126-mindshadow.json) |
+| Mindshadow | 338140 | [338140-mindshadow.json](./338140-mindshadow.json) |
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
 | MindStorm | 47861 | [47861-mindstorm.json](./47861-mindstorm.json) |
 | MindStorm 2 | 123357 | [123357-mindstorm-2.json](./123357-mindstorm-2.json) |
@@ -11020,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
 | Minions of Mirth | 92326 | [92326-minions-of-mirth.json](./92326-minions-of-mirth.json) |
+| Minions On Ice | 338125 | [338125-minions-on-ice.json](./338125-minions-on-ice.json) |
 | Minions Paradise | 11073 | [11073-minions-paradise.json](./11073-minions-paradise.json) |
 | Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
