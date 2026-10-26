@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Barrel | 412812 | [412812-heavy-barrel.json](./412812-heavy-barrel.json) |
 | Heavy Barrel | 46776 | [46776-heavy-barrel.json](./46776-heavy-barrel.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
+| Heavy Blast: Mercenaries | 356127 | [356127-heavy-blast-mercenaries.json](./356127-heavy-blast-mercenaries.json) |
 | Heavy Boxing | 137860 | [137860-heavy-boxing.json](./137860-heavy-boxing.json) |
 | Heavy Burden | 207672 | [207672-heavy-burden.json](./207672-heavy-burden.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
@@ -4634,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentaimon | 296946 | [296946-hentaimon.json](./296946-hentaimon.json) |
 | HentaiNya | 286405 | [286405-hentainya.json](./286405-hentainya.json) |
 | Hentaisland: Lost Pantsu | 156559 | [156559-hentaisland-lost-pantsu.json](./156559-hentaisland-lost-pantsu.json) |
+| HentaiVerse | 356129 | [356129-hentaiverse.json](./356129-hentaiverse.json) |
 | Hentami: Vendetta | 81148 | [81148-hentami-vendetta.json](./81148-hentami-vendetta.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | HenTris | 334797 | [334797-hentris.json](./334797-hentris.json) |
@@ -6032,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Paradise: Aloha with Love - Collector's Edition | 362831 | [362831-hidden-paradise-aloha-with-love-collectors-edition.json](./362831-hidden-paradise-aloha-with-love-collectors-edition.json) |
 | Hidden Paradise: Kiwi Christmas - Collector's Edition | 399130 | [399130-hidden-paradise-kiwi-christmas-collectors-edition.json](./399130-hidden-paradise-kiwi-christmas-collectors-edition.json) |
 | Hidden Pass | 253352 | [253352-hidden-pass.json](./253352-hidden-pass.json) |
+| Hidden Path of Faery | 356135 | [356135-hidden-path-of-faery.json](./356135-hidden-path-of-faery.json) |
 | Hidden Paws Bundle | 262324 | [262324-hidden-paws-bundle.json](./262324-hidden-paws-bundle.json) |
 | Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
 | Hidden Photo | 84520 | [84520-hidden-photo.json](./84520-hidden-photo.json) |
