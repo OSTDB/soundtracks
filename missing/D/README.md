@@ -7497,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
 | Dig! | 341070 | [341070-dig.json](./341070-dig.json) |
 | Dig! Dig! Dig! | 423201 | [423201-dig-dig-dig.json](./423201-dig-dig-dig.json) |
+| Dig! Dig! Dino! | 340847 | [340847-dig-dig-dino.json](./340847-dig-dig-dino.json) |
 | Dig!t | 232042 | [232042-dig-t.json](./232042-dig-t.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
