@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Spider-Man: Total Mayhem | 66349 | [66349-ultimate-spider-man-total-mayhem.json](./66349-ultimate-spider-man-total-mayhem.json) |
 | Ultimate Spinner Simulator - Unstress Yourself | 74467 | [74467-ultimate-spinner-simulator-unstress-yourself.json](./74467-ultimate-spinner-simulator-unstress-yourself.json) |
 | Ultimate Starfighter | 201245 | [201245-ultimate-starfighter.json](./201245-ultimate-starfighter.json) |
+| Ultimate Street Fighter: Fist of Fate | 368444 | [368444-ultimate-street-fighter-fist-of-fate.json](./368444-ultimate-street-fighter-fist-of-fate.json) |
 | Ultimate Street Football | 368804 | [368804-ultimate-street-football.json](./368804-ultimate-street-football.json) |
 | Ultimate Sudoku Collection | 100576 | [100576-ultimate-sudoku-collection.json](./100576-ultimate-sudoku-collection.json) |
 | Ultimate Sudoku Collection: Basic Diagonal Pack | 163324 | [163324-ultimate-sudoku-collection-basic-diagonal-pack.json](./163324-ultimate-sudoku-collection-basic-diagonal-pack.json) |
