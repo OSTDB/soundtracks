@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
 | Findme: 30sai no Yume Ooibito | 197204 | [197204-findme-30sai-no-yume-ooibito.json](./197204-findme-30sai-no-yume-ooibito.json) |
 | Findola | 94677 | [94677-findola.json](./94677-findola.json) |
+| Findom Queen | 360033 | [360033-findom-queen.json](./360033-findom-queen.json) |
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
 | Fine Dying | 422056 | [422056-fine-dying.json](./422056-fine-dying.json) |
 | Fine Ski Jumping | 188333 | [188333-fine-ski-jumping.json](./188333-fine-ski-jumping.json) |
@@ -7900,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For The Win | 321509 | [321509-for-the-win.json](./321509-for-the-win.json) |
 | For Those We Forgot | 291369 | [291369-for-those-we-forgot.json](./291369-for-those-we-forgot.json) |
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
+| For What Will Come: Reimagined | 359896 | [359896-for-what-will-come-reimagined.json](./359896-for-what-will-come-reimagined.json) |
 | For Whom the Alchemist Exists | 57896 | [57896-for-whom-the-alchemist-exists.json](./57896-for-whom-the-alchemist-exists.json) |
 | For Whom The Bell Tolls | 260792 | [260792-for-whom-the-bell-tolls.json](./260792-for-whom-the-bell-tolls.json) |
 | For Whom the Stars Shine | 305918 | [305918-for-whom-the-stars-shine.json](./305918-for-whom-the-stars-shine.json) |
