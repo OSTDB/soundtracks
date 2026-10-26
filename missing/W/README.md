@@ -4653,13 +4653,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Williams Pinball Classics | 343422 | [343422-williams-pinball-classics.json](./343422-williams-pinball-classics.json) |
 | Williams Pinball: Attack from Mars | 354452 | [354452-williams-pinball-attack-from-mars.json](./354452-williams-pinball-attack-from-mars.json) |
 | Williams Pinball: Black Rose | 354456 | [354456-williams-pinball-black-rose.json](./354456-williams-pinball-black-rose.json) |
+| Williams Pinball: Cirqus Voltaire | 354465 | [354465-williams-pinball-cirqus-voltaire.json](./354465-williams-pinball-cirqus-voltaire.json) |
+| Williams Pinball: Dr. Dude | 354469 | [354469-williams-pinball-dr-dude.json](./354469-williams-pinball-dr-dude.json) |
 | Williams Pinball: Fish Tales | 354451 | [354451-williams-pinball-fish-tales.json](./354451-williams-pinball-fish-tales.json) |
+| Williams Pinball: Funhouse | 354470 | [354470-williams-pinball-funhouse.json](./354470-williams-pinball-funhouse.json) |
+| Williams Pinball: Hurricane | 354464 | [354464-williams-pinball-hurricane.json](./354464-williams-pinball-hurricane.json) |
+| Williams Pinball: Indiana Jones - The Pinball Adventures | 354471 | [354471-williams-pinball-indiana-jones-the-pinball-adventures.json](./354471-williams-pinball-indiana-jones-the-pinball-adventures.json) |
 | Williams Pinball: Junk Yard Table | 354454 | [354454-williams-pinball-junk-yard-table.json](./354454-williams-pinball-junk-yard-table.json) |
 | Williams Pinball: Medieval Madness | 354455 | [354455-williams-pinball-medieval-madness.json](./354455-williams-pinball-medieval-madness.json) |
+| Williams Pinball: No Good Gofers | 354466 | [354466-williams-pinball-no-good-gofers.json](./354466-williams-pinball-no-good-gofers.json) |
 | Williams Pinball: Party Zone | 354457 | [354457-williams-pinball-party-zone.json](./354457-williams-pinball-party-zone.json) |
+| Williams Pinball: Pro Difficulty | 354473 | [354473-williams-pinball-pro-difficulty.json](./354473-williams-pinball-pro-difficulty.json) |
+| Williams Pinball: Pro Physics | 354474 | [354474-williams-pinball-pro-physics.json](./354474-williams-pinball-pro-physics.json) |
+| Williams Pinball: Red and Ted's Road Show | 354463 | [354463-williams-pinball-red-and-teds-road-show.json](./354463-williams-pinball-red-and-teds-road-show.json) |
+| Williams Pinball: Safe Cracker | 354460 | [354460-williams-pinball-safe-cracker.json](./354460-williams-pinball-safe-cracker.json) |
+| Williams Pinball: Space Station | 354468 | [354468-williams-pinball-space-station.json](./354468-williams-pinball-space-station.json) |
+| Williams Pinball: Tales of the Arabian Nights | 354467 | [354467-williams-pinball-tales-of-the-arabian-nights.json](./354467-williams-pinball-tales-of-the-arabian-nights.json) |
 | Williams Pinball: The Champion Pub | 354459 | [354459-williams-pinball-the-champion-pub.json](./354459-williams-pinball-the-champion-pub.json) |
 | Williams Pinball: The Getaway - High Speed II | 354453 | [354453-williams-pinball-the-getaway-high-speed-ii.json](./354453-williams-pinball-the-getaway-high-speed-ii.json) |
 | Williams Pinball: Theatre of Magic | 354458 | [354458-williams-pinball-theatre-of-magic.json](./354458-williams-pinball-theatre-of-magic.json) |
+| Williams Pinball: Universal Monsters Pack | 354472 | [354472-williams-pinball-universal-monsters-pack.json](./354472-williams-pinball-universal-monsters-pack.json) |
+| Williams Pinball: White Water | 354461 | [354461-williams-pinball-white-water.json](./354461-williams-pinball-white-water.json) |
 | Willian the Game | 193699 | [193699-willian-the-game.json](./193699-willian-the-game.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
 | Willow | 74395 | [74395-willow.json](./74395-willow.json) |
