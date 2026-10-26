@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1/2 Red Riding Hood | 190045 | [190045-1-2-red-riding-hood.json](./190045-1-2-red-riding-hood.json) |
 | 1/2 Summer | 98415 | [98415-1-2-summer.json](./98415-1-2-summer.json) |
 | 1% Survival Escape | 210836 | [210836-1-survival-escape.json](./210836-1-survival-escape.json) |
+| 1+1=？ | 333480 | [333480-1-1.json](./333480-1-1.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
 | 10 Advices | 296183 | [296183-10-advices.json](./296183-10-advices.json) |
 | 10 am Break | 259431 | [259431-10-am-break.json](./259431-10-am-break.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Mumbai | 350326 | [350326-101-cats-in-mumbai.json](./350326-101-cats-in-mumbai.json) |
 | 101 Cats in Munich | 407534 | [407534-101-cats-in-munich.json](./407534-101-cats-in-munich.json) |
 | 101 Cats in New York | 337609 | [337609-101-cats-in-new-york.json](./337609-101-cats-in-new-york.json) |
+| 101 Cats in Orlando | 333470 | [333470-101-cats-in-orlando.json](./333470-101-cats-in-orlando.json) |
 | 101 Cats in Osaka | 358067 | [358067-101-cats-in-osaka.json](./358067-101-cats-in-osaka.json) |
 | 101 Cats in Paris | 337610 | [337610-101-cats-in-paris.json](./337610-101-cats-in-paris.json) |
 | 101 Cats in Prague | 350321 | [350321-101-cats-in-prague.json](./350321-101-cats-in-prague.json) |
