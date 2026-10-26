@@ -3766,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracotta: Collector's Edition | 300479 | [300479-terracotta-collectors-edition.json](./300479-terracotta-collectors-edition.json) |
 | Terracrest | 317330 | [317330-terracrest.json](./317330-terracrest.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
+| Terrafactor | 368990 | [368990-terrafactor.json](./368990-terrafactor.json) |
 | Terrafactory: Idle Planet | 384154 | [384154-terrafactory-idle-planet.json](./384154-terrafactory-idle-planet.json) |
 | TerraFire | 69334 | [69334-terrafire.json](./69334-terrafire.json) |
 | TerraFirmaCraft | 296225 | [296225-terrafirmacraft.json](./296225-terrafirmacraft.json) |
@@ -10750,6 +10751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lewd of the Cock Rings: The Return of Doug Fooker | 385276 | [385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json](./385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Liberation of Kuwait | 73740 | [73740-the-liberation-of-kuwait.json](./73740-the-liberation-of-kuwait.json) |
+| The Libido Enigma | 368976 | [368976-the-libido-enigma.json](./368976-the-libido-enigma.json) |
 | The Librarian | 96203 | [96203-the-librarian.json](./96203-the-librarian.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library | 274430 | [274430-the-library.json](./274430-the-library.json) |
@@ -13955,6 +13957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sin Collector: Repentless | 169773 | [169773-the-sin-collector-repentless.json](./169773-the-sin-collector-repentless.json) |
 | The Sin of Fabien | 405705 | [405705-the-sin-of-fabien.json](./405705-the-sin-of-fabien.json) |
 | The Singing Saw Simulator | 289963 | [289963-the-singing-saw-simulator.json](./289963-the-singing-saw-simulator.json) |
+| The Single-Eye Nightmare | 368992 | [368992-the-single-eye-nightmare.json](./368992-the-single-eye-nightmare.json) |
 | The Singularity Complex | 261083 | [261083-the-singularity-complex.json](./261083-the-singularity-complex.json) |
 | The Singularity Trials | 139701 | [139701-the-singularity-trials.json](./139701-the-singularity-trials.json) |
 | The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
@@ -25307,6 +25310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of the Caribbean Sea | 416184 | [416184-treasure-of-the-caribbean-sea.json](./416184-treasure-of-the-caribbean-sea.json) |
 | Treasure Of The Giantess | 271275 | [271275-treasure-of-the-giantess.json](./271275-treasure-of-the-giantess.json) |
 | Treasure Park | 53003 | [53003-treasure-park.json](./53003-treasure-park.json) |
+| Treasure Party | 369003 | [369003-treasure-party.json](./369003-treasure-party.json) |
 | Treasure Protector | 309479 | [309479-treasure-protector.json](./309479-treasure-protector.json) |
 | Treasure Punks | 184439 | [184439-treasure-punks.json](./184439-treasure-punks.json) |
 | Treasure Quest | 100213 | [100213-treasure-quest.json](./100213-treasure-quest.json) |
