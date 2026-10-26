@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raisond'etre | 324849 | [324849-raisondetre.json](./324849-raisondetre.json) |
 | Raji: An Ancient Epic | 70828 | [70828-raji-an-ancient-epic.json](./70828-raji-an-ancient-epic.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
+| Raji: Kaliyuga | 378233 | [378233-raji-kaliyuga.json](./378233-raji-kaliyuga.json) |
 | Rakan Ayah | 128226 | [128226-rakan-ayah.json](./128226-rakan-ayah.json) |
 | Rake | 353765 | [353765-rake.json](./353765-rake.json) |
 | Rake Monster Hunter | 100840 | [100840-rake-monster-hunter.json](./100840-rake-monster-hunter.json) |
@@ -6182,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Walker | 256905 | [256905-rift-walker.json](./256905-rift-walker.json) |
 | Rift Walker | 293677 | [293677-rift-walker.json](./293677-rift-walker.json) |
 | Rift War Tower Defense | 351185 | [351185-rift-war-tower-defense.json](./351185-rift-war-tower-defense.json) |
+| Rift Wars | 378145 | [378145-rift-wars.json](./378145-rift-wars.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rift Wizard 3 | 400404 | [400404-rift-wizard-3.json](./400404-rift-wizard-3.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
@@ -10841,6 +10843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rym 9000: Limited Edition | 167035 | [167035-rym-9000-limited-edition.json](./167035-rym-9000-limited-edition.json) |
 | Rymdkapsel | 18830 | [18830-rymdkapsel.json](./18830-rymdkapsel.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
+| Ryn: And the Thread of Life | 378245 | [378245-ryn-and-the-thread-of-life.json](./378245-ryn-and-the-thread-of-life.json) |
 | Ryo: The Haunted Office | 234538 | [234538-ryo-the-haunted-office.json](./234538-ryo-the-haunted-office.json) |
 | Ryojyoku Chokyou | 97791 | [97791-ryojyoku-chokyou.json](./97791-ryojyoku-chokyou.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
