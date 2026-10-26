@@ -13874,6 +13874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Knights Left | 179497 | [179497-some-knights-left.json](./179497-some-knights-left.json) |
 | Some Like It Hot: Chapter 0 | 135051 | [135051-some-like-it-hot-chapter-0.json](./135051-some-like-it-hot-chapter-0.json) |
 | Some Munnings | 305899 | [305899-some-munnings.json](./305899-some-munnings.json) |
+| Some of You May Die | 383466 | [383466-some-of-you-may-die.json](./383466-some-of-you-may-die.json) |
 | Some Old Stuff | 147300 | [147300-some-old-stuff.json](./147300-some-old-stuff.json) |
 | Some Peace of Mind | 144108 | [144108-some-peace-of-mind.json](./144108-some-peace-of-mind.json) |
 | Some Peace of Mind | 22361 | [22361-some-peace-of-mind.json](./22361-some-peace-of-mind.json) |
@@ -17840,6 +17841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man and the X-Men in Arcade's Revenge | 4389 | [4389-spider-man-and-the-x-men-in-arcades-revenge.json](./4389-spider-man-and-the-x-men-in-arcades-revenge.json) |
 | Spider-Man and Venom: Maximum Carnage | 18125 | [18125-spider-man-and-venom-maximum-carnage.json](./18125-spider-man-and-venom-maximum-carnage.json) |
 | Spider-Man Cartoon Maker | 63702 | [63702-spider-man-cartoon-maker.json](./63702-spider-man-cartoon-maker.json) |
+| Spider-Man Ultimate Avenger | 383437 | [383437-spider-man-ultimate-avenger.json](./383437-spider-man-ultimate-avenger.json) |
 | Spider-Man vs. Doc Ock | 23542 | [23542-spider-man-vs-doc-ock.json](./23542-spider-man-vs-doc-ock.json) |
 | Spider-Man: 006 - Arsenal Mod: Web Fluid | 363273 | [363273-spider-man-006-arsenal-mod-web-fluid.json](./363273-spider-man-006-arsenal-mod-web-fluid.json) |
 | Spider-Man: 007 - Black Suit Mod: Spider Bite | 363275 | [363275-spider-man-007-black-suit-mod-spider-bite.json](./363275-spider-man-007-black-suit-mod-spider-bite.json) |
@@ -20234,6 +20236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Galaxies: Rage of the Wookiees | 146 | [146-star-wars-galaxies-rage-of-the-wookiees.json](./146-star-wars-galaxies-rage-of-the-wookiees.json) |
 | Star Wars Galaxies: The Complete Online Adventures | 150523 | [150523-star-wars-galaxies-the-complete-online-adventures.json](./150523-star-wars-galaxies-the-complete-online-adventures.json) |
 | Star Wars Galaxies: Trials of Obi-Wan | 206 | [206-star-wars-galaxies-trials-of-obi-wan.json](./206-star-wars-galaxies-trials-of-obi-wan.json) |
+| Star Wars Genesis | 383446 | [383446-star-wars-genesis.json](./383446-star-wars-genesis.json) |
 | Star Wars Genesis | 400347 | [400347-star-wars-genesis.json](./400347-star-wars-genesis.json) |
 | Star Wars Jedi Cross-Gen Bundle Edition | 312974 | [312974-star-wars-jedi-cross-gen-bundle-edition.json](./312974-star-wars-jedi-cross-gen-bundle-edition.json) |
 | Star Wars Jedi: Survivor - Deluxe Edition | 227942 | [227942-star-wars-jedi-survivor-deluxe-edition.json](./227942-star-wars-jedi-survivor-deluxe-edition.json) |
@@ -23718,6 +23721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stubborn Shibas | 382408 | [382408-stubborn-shibas.json](./382408-stubborn-shibas.json) |
 | Stubbs the Zombie in Rebel Without a Pulse | 79 | [79-stubbs-the-zombie-in-rebel-without-a-pulse.json](./79-stubbs-the-zombie-in-rebel-without-a-pulse.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
+| Stuck in Fears: North-east | 383471 | [383471-stuck-in-fears-north-east.json](./383471-stuck-in-fears-north-east.json) |
 | Stuck In Paris | 182132 | [182132-stuck-in-paris.json](./182132-stuck-in-paris.json) |
 | Stuck in the Airport | 357186 | [357186-stuck-in-the-airport.json](./357186-stuck-in-the-airport.json) |
 | Stuck in the Dark | 184359 | [184359-stuck-in-the-dark.json](./184359-stuck-in-the-dark.json) |
@@ -29359,6 +29363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword King | 119426 | [119426-sword-king.json](./119426-sword-king.json) |
 | Sword Lake | 301631 | [301631-sword-lake.json](./301631-sword-lake.json) |
 | Sword Legacy: Omen | 74734 | [74734-sword-legacy-omen.json](./74734-sword-legacy-omen.json) |
+| Sword Legacy: Omen - Digital Deluxe Edition | 383429 | [383429-sword-legacy-omen-digital-deluxe-edition.json](./383429-sword-legacy-omen-digital-deluxe-edition.json) |
 | Sword Maiden of Azure Dragon | 340718 | [340718-sword-maiden-of-azure-dragon.json](./340718-sword-maiden-of-azure-dragon.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
 | Sword Man - Monster Hunter | 107026 | [107026-sword-man-monster-hunter.json](./107026-sword-man-monster-hunter.json) |
@@ -29745,6 +29750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Syne | 183759 | [183759-syne.json](./183759-syne.json) |
+| Synephoria | 383460 | [383460-synephoria.json](./383460-synephoria.json) |
 | Synergia: NextGen Edition | 268330 | [268330-synergia-nextgen-edition.json](./268330-synergia-nextgen-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
 | Synergism | 150569 | [150569-synergism.json](./150569-synergism.json) |
