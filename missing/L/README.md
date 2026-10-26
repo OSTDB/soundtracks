@@ -4127,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ligmar | 361692 | [361692-ligmar.json](./361692-ligmar.json) |
 | Ligo | 258539 | [258539-ligo.json](./258539-ligo.json) |
 | Liha | 344799 | [344799-liha.json](./344799-liha.json) |
+| Lihiman | 375873 | [375873-lihiman.json](./375873-lihiman.json) |
 | Lihue | 163210 | [163210-lihue.json](./163210-lihue.json) |
 | Liight | 85249 | [85249-liight.json](./85249-liight.json) |
 | Liitmeis | 94036 | [94036-liitmeis.json](./94036-liitmeis.json) |
