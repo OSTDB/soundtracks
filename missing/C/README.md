@@ -8479,6 +8479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Guild | 30457 | [30457-clicker-guild.json](./30457-clicker-guild.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | Clicker Kids | 394068 | [394068-clicker-kids.json](./394068-clicker-kids.json) |
+| Clicker Kingdom | 348136 | [348136-clicker-kingdom.json](./348136-clicker-kingdom.json) |
 | Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
 | Clicker Racing | 100716 | [100716-clicker-racing.json](./100716-clicker-racing.json) |
 | Clicker Time | 371837 | [371837-clicker-time.json](./371837-clicker-time.json) |
@@ -8886,6 +8887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Nightmare, Satan's Joke | 130175 | [130175-clown-nightmare-satans-joke.json](./130175-clown-nightmare-satans-joke.json) |
 | Clown Theft Auto: Woke City | 222958 | [222958-clown-theft-auto-woke-city.json](./222958-clown-theft-auto-woke-city.json) |
 | Clown Thug Cop Zombies | 114927 | [114927-clown-thug-cop-zombies.json](./114927-clown-thug-cop-zombies.json) |
+| Clown Town | 348183 | [348183-clown-town.json](./348183-clown-town.json) |
 | Clown Works Kyojitsu Gairon 0 Shou Soshite 1 Shou | 153733 | [153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json](./153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json) |
 | Clown's Secret | 90219 | [90219-clowns-secret.json](./90219-clowns-secret.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
