@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHAIP | 150955 | [150955-vhaip.json](./150955-vhaip.json) |
 | Vheda | 345054 | [345054-vheda.json](./345054-vheda.json) |
 | VHHS: Backrooms | 282017 | [282017-vhhs-backrooms.json](./282017-vhhs-backrooms.json) |
+| Vholume | 378143 | [378143-vholume.json](./378143-vholume.json) |
 | VHS | 309466 | [309466-vhs.json](./309466-vhs.json) |
 | VHS Bodycam: The Torture Machine | 369152 | [369152-vhs-bodycam-the-torture-machine.json](./369152-vhs-bodycam-the-torture-machine.json) |
 | VHS Collection: Goodnight Me | 321460 | [321460-vhs-collection-goodnight-me.json](./321460-vhs-collection-goodnight-me.json) |
