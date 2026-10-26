@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Stars | 234497 | [234497-kart-stars.json](./234497-kart-stars.json) |
 | Kart Them All | 292958 | [292958-kart-them-all.json](./292958-kart-them-all.json) |
 | Kart Wars | 108994 | [108994-kart-wars.json](./108994-kart-wars.json) |
+| Karta Centauri | 369614 | [369614-karta-centauri.json](./369614-karta-centauri.json) |
 | Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
 | Karting Superstars | 265034 | [265034-karting-superstars.json](./265034-karting-superstars.json) |
