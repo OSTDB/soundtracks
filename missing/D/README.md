@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David: Dawn of a King | 335480 | [335480-david-dawn-of-a-king.json](./335480-david-dawn-of-a-king.json) |
 | David: Rise of the Shepherd | 372504 | [372504-david-rise-of-the-shepherd.json](./372504-david-rise-of-the-shepherd.json) |
 | Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
+| Davids Funtime | 350928 | [350928-davids-funtime.json](./350928-davids-funtime.json) |
 | Davie's Quest and The Magic Dress | 322852 | [322852-davies-quest-and-the-magic-dress.json](./322852-davies-quest-and-the-magic-dress.json) |
 | Davigo | 121403 | [121403-davigo.json](./121403-davigo.json) |
 | Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
@@ -9753,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogimegi Inryoku-chan: Love & Peace | 336177 | [336177-dogimegi-inryoku-chan-love-and-peace.json](./336177-dogimegi-inryoku-chan-love-and-peace.json) |
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
 | Dogma | 135646 | [135646-dogma.json](./135646-dogma.json) |
+| Dogma | 350933 | [350933-dogma.json](./350933-dogma.json) |
 | Dogma | 74466 | [74466-dogma.json](./74466-dogma.json) |
 | Dogma no Hakoniwa | 394543 | [394543-dogma-no-hakoniwa.json](./394543-dogma-no-hakoniwa.json) |
 | Dogma: Eternal Night | 110306 | [110306-dogma-eternal-night.json](./110306-dogma-eternal-night.json) |
@@ -13826,6 +13828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill and Dig! | 296817 | [296817-drill-and-dig.json](./296817-drill-and-dig.json) |
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
+| Drill Bird | 351078 | [351078-drill-bird.json](./351078-drill-bird.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Dash | 211905 | [211905-drill-dash.json](./211905-drill-dash.json) |
 | Drill Deal | 118816 | [118816-drill-deal.json](./118816-drill-deal.json) |
