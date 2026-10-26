@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Games VR | 25339 | [25339-carnival-games-vr.json](./25339-carnival-games-vr.json) |
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
 | Carnival Happy Day | 344401 | [344401-carnival-happy-day.json](./344401-carnival-happy-day.json) |
+| Carnival Heroes: Super Party Minigames | 338626 | [338626-carnival-heroes-super-party-minigames.json](./338626-carnival-heroes-super-party-minigames.json) |
 | Carnival in the Hut | 251748 | [251748-carnival-in-the-hut.json](./251748-carnival-in-the-hut.json) |
 | Carnival Island | 20826 | [20826-carnival-island.json](./20826-carnival-island.json) |
 | Carnival King | 51127 | [51127-carnival-king.json](./51127-carnival-king.json) |
