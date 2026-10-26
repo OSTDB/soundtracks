@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Haven | 418577 | [418577-raid-haven.json](./418577-raid-haven.json) |
 | Raid Healing | 216941 | [216941-raid-healing.json](./216941-raid-healing.json) |
 | Raid HQ | 96607 | [96607-raid-hq.json](./96607-raid-hq.json) |
+| Raid in Galaxy | 371284 | [371284-raid-in-galaxy.json](./371284-raid-in-galaxy.json) |
 | Raid Land | 130721 | [130721-raid-land.json](./130721-raid-land.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
@@ -2249,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Zero -Starting Life in Another World- Death or Kiss Limited Edition | 167132 | [167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json](./167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu - Infinity | 220324 | [220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu Infinity | 130366 | [130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
+| Re. Gambari Minoriko: Onee-chan no Shiren | 371219 | [371219-re-gambari-minoriko-onee-chan-no-shiren.json](./371219-re-gambari-minoriko-onee-chan-no-shiren.json) |
 | RE.CO.N. | 146353 | [146353-re-co-n.json](./146353-re-co-n.json) |
 | Re.dive Wonderland | 369110 | [369110-re-dive-wonderland.json](./369110-re-dive-wonderland.json) |
 | Re.Poly | 120675 | [120675-re-poly.json](./120675-re-poly.json) |
@@ -8945,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romantic Player | 128294 | [128294-romantic-player.json](./128294-romantic-player.json) |
 | Romantic Rainbow Delights | 184064 | [184064-romantic-rainbow-delights.json](./184064-romantic-rainbow-delights.json) |
 | Romantic Shooter | 242526 | [242526-romantic-shooter.json](./242526-romantic-shooter.json) |
+| Romantic Young Man | 371217 | [371217-romantic-young-man.json](./371217-romantic-young-man.json) |
 | Romanticized Dreams of a Post-Apocalyptic Cowpoke | 272730 | [272730-romanticized-dreams-of-a-post-apocalyptic-cowpoke.json](./272730-romanticized-dreams-of-a-post-apocalyptic-cowpoke.json) |
 | Romb | 377254 | [377254-romb.json](./377254-romb.json) |
 | Rombie | 82326 | [82326-rombie.json](./82326-rombie.json) |
