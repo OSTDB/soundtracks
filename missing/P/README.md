@@ -15437,6 +15437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: Full Spectrum | 358358 | [358358-puzzle-piecer-full-spectrum.json](./358358-puzzle-piecer-full-spectrum.json) |
 | Puzzle Piecer: Leaves of Autumn | 370779 | [370779-puzzle-piecer-leaves-of-autumn.json](./370779-puzzle-piecer-leaves-of-autumn.json) |
 | Puzzle Piecer: The Holiday Spirit | 380670 | [380670-puzzle-piecer-the-holiday-spirit.json](./380670-puzzle-piecer-the-holiday-spirit.json) |
+| Puzzle Piecer: The Pattern | 340834 | [340834-puzzle-piecer-the-pattern.json](./340834-puzzle-piecer-the-pattern.json) |
 | Puzzle Piecer: The Sky Above | 349422 | [349422-puzzle-piecer-the-sky-above.json](./349422-puzzle-piecer-the-sky-above.json) |
 | Puzzle Piecer: The World Below | 330806 | [330806-puzzle-piecer-the-world-below.json](./330806-puzzle-piecer-the-world-below.json) |
 | Puzzle Pieces 5: Fairy Ring | 226345 | [226345-puzzle-pieces-5-fairy-ring.json](./226345-puzzle-pieces-5-fairy-ring.json) |
