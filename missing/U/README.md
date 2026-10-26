@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underswap: Echoed | 329656 | [329656-underswap-echoed.json](./329656-underswap-echoed.json) |
 | Underswap: Nuts in Bolts Don't Actually | 183991 | [183991-underswap-nuts-in-bolts-dont-actually.json](./183991-underswap-nuts-in-bolts-dont-actually.json) |
 | Underswap: The Reckoning | 329667 | [329667-underswap-the-reckoning.json](./329667-underswap-the-reckoning.json) |
+| Undertaker | 370746 | [370746-undertaker.json](./370746-undertaker.json) |
 | Undertaker | 380744 | [380744-undertaker.json](./380744-undertaker.json) |
 | Undertale 10th Anniversary | 369443 | [369443-undertale-10th-anniversary.json](./369443-undertale-10th-anniversary.json) |
 | Undertale 2 | 178026 | [178026-undertale-2.json](./178026-undertale-2.json) |
