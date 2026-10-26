@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice Party | 232510 | [232510-voice-party.json](./232510-voice-party.json) |
 | Voice: Legacy of Hale | 253815 | [253815-voice-legacy-of-hale.json](./253815-voice-legacy-of-hale.json) |
 | VoiceATC Simulator | 401763 | [401763-voiceatc-simulator.json](./401763-voiceatc-simulator.json) |
+| Voiceless Elegy | 382175 | [382175-voiceless-elegy.json](./382175-voiceless-elegy.json) |
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
 | Voices of Authority | 270719 | [270719-voices-of-authority.json](./270719-voices-of-authority.json) |
@@ -3542,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VVVVK: Rogue Vampire Hunter | 209017 | [209017-vvvvk-rogue-vampire-hunter.json](./209017-vvvvk-rogue-vampire-hunter.json) |
 | VVVVV | 128234 | [128234-vvvvv.json](./128234-vvvvv.json) |
 | VVVVVV | 1990 | [1990-vvvvvv.json](./1990-vvvvvv.json) |
+| VWisher | 382168 | [382168-vwisher.json](./382168-vwisher.json) |
 | Vwls: A Game About Vowels! | 233541 | [233541-vwls-a-game-about-vowels.json](./233541-vwls-a-game-about-vowels.json) |
 | VxVigilantes | 141022 | [141022-vxvigilantes.json](./141022-vxvigilantes.json) |
 | Vy Worlds | 192896 | [192896-vy-worlds.json](./192896-vy-worlds.json) |
