@@ -9392,6 +9392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
 | Rosemary | 310151 | [310151-rosemary.json](./310151-rosemary.json) |
 | Rosemary | 91829 | [91829-rosemary.json](./91829-rosemary.json) |
+| Rosemary Village | 347050 | [347050-rosemary-village.json](./347050-rosemary-village.json) |
 | Rosemary's Fate: Chapter 1 | 163808 | [163808-rosemarys-fate-chapter-1.json](./163808-rosemarys-fate-chapter-1.json) |
 | Rosenkreuzstilette | 27181 | [27181-rosenkreuzstilette.json](./27181-rosenkreuzstilette.json) |
 | Rosenkreuzstilette Freudenstachel | 76865 | [76865-rosenkreuzstilette-freudenstachel.json](./76865-rosenkreuzstilette-freudenstachel.json) |
