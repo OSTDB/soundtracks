@@ -6752,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
 | Extreme Force: Grant City Anti-Crime | 91679 | [91679-extreme-force-grant-city-anti-crime.json](./91679-extreme-force-grant-city-anti-crime.json) |
 | Extreme Forklifting 2 | 32175 | [32175-extreme-forklifting-2.json](./32175-extreme-forklifting-2.json) |
+| Extreme Forklifting 3 | 352766 | [352766-extreme-forklifting-3.json](./352766-extreme-forklifting-3.json) |
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
 | Extreme Formula Championship 2015 | 88450 | [88450-extreme-formula-championship-2015.json](./88450-extreme-formula-championship-2015.json) |
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
