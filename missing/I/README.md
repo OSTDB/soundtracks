@@ -3914,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insularis Draco | 356239 | [356239-insularis-draco.json](./356239-insularis-draco.json) |
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
 | Insurance Hunter | 405952 | [405952-insurance-hunter.json](./405952-insurance-hunter.json) |
+| Insurance Worker Game | 380510 | [380510-insurance-worker-game.json](./380510-insurance-worker-game.json) |
 | Insurgence | 183349 | [183349-insurgence.json](./183349-insurgence.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
 | Insurgence: Last Wishes | 235184 | [235184-insurgence-last-wishes.json](./235184-insurgence-last-wishes.json) |
