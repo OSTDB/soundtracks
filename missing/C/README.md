@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Guard: Tower Defence | 212637 | [212637-castle-guard-tower-defence.json](./212637-castle-guard-tower-defence.json) |
 | Castle Guardian | 264785 | [264785-castle-guardian.json](./264785-castle-guardian.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
+| Castle Hearts | 358746 | [358746-castle-hearts.json](./358746-castle-hearts.json) |
 | Castle Helios | 212741 | [212741-castle-helios.json](./212741-castle-helios.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
 | Castle Idler | 376112 | [376112-castle-idler.json](./376112-castle-idler.json) |
@@ -9452,6 +9453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Còi to cho Vượt | 131238 | [131238-coi-to-cho-vuot.json](./131238-coi-to-cho-vuot.json) |
 | Coil | 92635 | [92635-coil.json](./92635-coil.json) |
 | Coil's Containment | 338916 | [338916-coils-containment.json](./338916-coils-containment.json) |
+| Coiled Up Together | 358620 | [358620-coiled-up-together.json](./358620-coiled-up-together.json) |
 | Coin | 314310 | [314310-coin.json](./314310-coin.json) |
 | Coin | 314433 | [314433-coin.json](./314433-coin.json) |
 | Coin 'n Carry | 63684 | [63684-coin-n-carry.json](./63684-coin-n-carry.json) |
