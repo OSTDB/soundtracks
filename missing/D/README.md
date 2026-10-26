@@ -3084,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of Darkness 2 | 422094 | [422094-dead-of-darkness-2.json](./422094-dead-of-darkness-2.json) |
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
 | Dead of Night | 224113 | [224113-dead-of-night.json](./224113-dead-of-night.json) |
+| Dead of Night: Supermarket | 333495 | [333495-dead-of-night-supermarket.json](./333495-dead-of-night-supermarket.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead of the Brain 1 & 2 | 80189 | [80189-dead-of-the-brain-1-and-2.json](./80189-dead-of-the-brain-1-and-2.json) |
 | Dead of the Brain 2 | 66361 | [66361-dead-of-the-brain-2.json](./66361-dead-of-the-brain-2.json) |
@@ -4876,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
 | Deflex / ROX | 315624 | [315624-deflex-rox.json](./315624-deflex-rox.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
+| Deforb | 333464 | [333464-deforb.json](./333464-deforb.json) |
 | Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
 | Deformers | 207118 | [207118-deformers.json](./207118-deformers.json) |
 | Deformity | 189854 | [189854-deformity.json](./189854-deformity.json) |
@@ -4893,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defy the Abyss | 419592 | [419592-defy-the-abyss.json](./419592-defy-the-abyss.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
+| Defying the Shadows | 333457 | [333457-defying-the-shadows.json](./333457-defying-the-shadows.json) |
 | Deg-Deg the Ravenous | 194470 | [194470-deg-deg-the-ravenous.json](./194470-deg-deg-the-ravenous.json) |
 | Dega Madness | 110545 | [110545-dega-madness.json](./110545-dega-madness.json) |
 | Degauss | 75045 | [75045-degauss.json](./75045-degauss.json) |
@@ -9834,6 +9837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs | 311240 | [311240-dogs.json](./311240-dogs.json) |
 | Dogs and Paws | 308604 | [308604-dogs-and-paws.json](./308604-dogs-and-paws.json) |
 | Dogs and Pigs | 187187 | [187187-dogs-and-pigs.json](./187187-dogs-and-pigs.json) |
+| Dogs Contrast | 333485 | [333485-dogs-contrast.json](./333485-dogs-contrast.json) |
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
 | Dogs Day | 238555 | [238555-dogs-day.json](./238555-dogs-day.json) |
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
@@ -9958,6 +9962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Vacation: Kirameku Kisetsu no Naka de | 257560 | [257560-doki-doki-vacation-kirameku-kisetsu-no-naka-de.json](./257560-doki-doki-vacation-kirameku-kisetsu-no-naka-de.json) |
 | Doki Doki What If | 334823 | [334823-doki-doki-what-if.json](./334823-doki-doki-what-if.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
+| Doki Doki Youtuber Club | 333458 | [333458-doki-doki-youtuber-club.json](./333458-doki-doki-youtuber-club.json) |
 | Doki Doki Zero Bitches Plan | 334272 | [334272-doki-doki-zero-bitches-plan.json](./334272-doki-doki-zero-bitches-plan.json) |
 | Doki Doki: Amor Fati | 400557 | [400557-doki-doki-amor-fati.json](./400557-doki-doki-amor-fati.json) |
 | Doki Doki: Majima Helps the Literature Club! | 373321 | [373321-doki-doki-majima-helps-the-literature-club.json](./373321-doki-doki-majima-helps-the-literature-club.json) |
@@ -15859,6 +15864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust: Undefined | 302041 | [302041-dust-undefined.json](./302041-dust-undefined.json) |
 | Dustborn: Deluxe Edition | 284478 | [284478-dustborn-deluxe-edition.json](./284478-dustborn-deluxe-edition.json) |
 | Dustborn: The Vision Tour Bundle | 315518 | [315518-dustborn-the-vision-tour-bundle.json](./315518-dustborn-the-vision-tour-bundle.json) |
+| Dustbound | 333468 | [333468-dustbound.json](./333468-dustbound.json) |
 | Dustbowl | 35306 | [35306-dustbowl.json](./35306-dustbowl.json) |
 | Dustbowl Brulo | 326115 | [326115-dustbowl-brulo.json](./326115-dustbowl-brulo.json) |
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
