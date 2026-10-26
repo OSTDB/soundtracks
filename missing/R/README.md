@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE: Get to Schol on Time | 140865 | [140865-re-get-to-schol-on-time.json](./140865-re-get-to-schol-on-time.json) |
 | Re: Imagine the character | 182703 | [182703-re-imagine-the-character.json](./182703-re-imagine-the-character.json) |
 | Re: LieF ~Shin'ainaru Anata e~ | 144956 | [144956-re-lief-shinainaru-anata-e.json](./144956-re-lief-shinainaru-anata-e.json) |
+| Re: Lord - Tales of Adventure | 369535 | [369535-re-lord-tales-of-adventure.json](./369535-re-lord-tales-of-adventure.json) |
 | Re: My Dear Sister | 368648 | [368648-re-my-dear-sister.json](./368648-re-my-dear-sister.json) |
 | Re: Pian | 368035 | [368035-re-pian.json](./368035-re-pian.json) |
 | RE: Prince of Nigeria | 126001 | [126001-re-prince-of-nigeria.json](./126001-re-prince-of-nigeria.json) |
@@ -6784,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Rite of Passage: The Perfect Show - Collector's Edition | 30628 | [30628-rite-of-passage-the-perfect-show-collectors-edition.json](./30628-rite-of-passage-the-perfect-show-collectors-edition.json) |
 | Rite of Red Snow | 387961 | [387961-rite-of-red-snow.json](./387961-rite-of-red-snow.json) |
+| Rite of the Dealer | 369613 | [369613-rite-of-the-dealer.json](./369613-rite-of-the-dealer.json) |
 | Rite of Titans | 220706 | [220706-rite-of-titans.json](./220706-rite-of-titans.json) |
 | Rite or Ruin | 391242 | [391242-rite-or-ruin.json](./391242-rite-or-ruin.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
