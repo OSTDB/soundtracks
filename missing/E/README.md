@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthBound Dimensions | 311281 | [311281-earthbound-dimensions.json](./311281-earthbound-dimensions.json) |
 | Earthbound Halloween Hack | 139353 | [139353-earthbound-halloween-hack.json](./139353-earthbound-halloween-hack.json) |
 | EarthBound Zero Remake | 324007 | [324007-earthbound-zero-remake.json](./324007-earthbound-zero-remake.json) |
+| Earthbound: Randomizer | 362795 | [362795-earthbound-randomizer.json](./362795-earthbound-randomizer.json) |
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
 | EarthCraft 2: World Exploration & Survival | 99705 | [99705-earthcraft-2-world-exploration-and-survival.json](./99705-earthcraft-2-world-exploration-and-survival.json) |
 | Earthfall | 27186 | [27186-earthfall.json](./27186-earthfall.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
 | Eggs: All Guns Broken | 316155 | [316155-eggs-all-guns-broken.json](./316155-eggs-all-guns-broken.json) |
 | Eggscape | 351688 | [351688-eggscape.json](./351688-eggscape.json) |
+| Eggson | 362772 | [362772-eggson.json](./362772-eggson.json) |
 | EggSort | 261316 | [261316-eggsort.json](./261316-eggsort.json) |
 | Eggsplosion | 304284 | [304284-eggsplosion.json](./304284-eggsplosion.json) |
 | Eggstinct! | 392254 | [392254-eggstinct.json](./392254-eggstinct.json) |
@@ -4395,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
 | Escape from the Squirrel Park | 185161 | [185161-escape-from-the-squirrel-park.json](./185161-escape-from-the-squirrel-park.json) |
 | Escape From The Test | 283050 | [283050-escape-from-the-test.json](./283050-escape-from-the-test.json) |
+| Escape from the Tomb of Apep | 362782 | [362782-escape-from-the-tomb-of-apep.json](./362782-escape-from-the-tomb-of-apep.json) |
 | Escape from the Tomb Tower | 115706 | [115706-escape-from-the-tomb-tower.json](./115706-escape-from-the-tomb-tower.json) |
 | Escape from the Tower | 308641 | [308641-escape-from-the-tower.json](./308641-escape-from-the-tower.json) |
 | Escape from the Trap World | 197257 | [197257-escape-from-the-trap-world.json](./197257-escape-from-the-trap-world.json) |
