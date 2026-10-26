@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
 | Bag of Holding | 182698 | [182698-bag-of-holding.json](./182698-bag-of-holding.json) |
+| Bag Toss | 359328 | [359328-bag-toss.json](./359328-bag-toss.json) |
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
 | Bagasaurus | 147213 | [147213-bagasaurus.json](./147213-bagasaurus.json) |
 | Bagdex | 237832 | [237832-bagdex.json](./237832-bagdex.json) |
@@ -4044,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
 | Beach Runner | 380729 | [380729-beach-runner.json](./380729-beach-runner.json) |
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
+| Beach Soccer | 359302 | [359302-beach-soccer.json](./359302-beach-soccer.json) |
 | Beach Soccer | 52450 | [52450-beach-soccer.json](./52450-beach-soccer.json) |
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
 | Beach Vacation Simulator | 258908 | [258908-beach-vacation-simulator.json](./258908-beach-vacation-simulator.json) |
@@ -4127,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Bean There, Swung That | 373038 | [373038-bean-there-swung-that.json](./373038-bean-there-swung-that.json) |
 | Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
+| Bean's Adventure | 359446 | [359446-beans-adventure.json](./359446-beans-adventure.json) |
 | Bean's Jack | 410906 | [410906-beans-jack.json](./410906-beans-jack.json) |
 | Bean's Quest | 65391 | [65391-beans-quest.json](./65391-beans-quest.json) |
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
@@ -6621,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy the Kid | 355142 | [355142-billy-the-kid.json](./355142-billy-the-kid.json) |
 | Billy the Kid Returns! | 27312 | [27312-billy-the-kid-returns.json](./27312-billy-the-kid-returns.json) |
 | Billy the Wizard: Rocket Broomstick Racing | 4717 | [4717-billy-the-wizard-rocket-broomstick-racing.json](./4717-billy-the-wizard-rocket-broomstick-racing.json) |
+| Billy Went to a Carnival | 359330 | [359330-billy-went-to-a-carnival.json](./359330-billy-went-to-a-carnival.json) |
 | Billy's Boot Camp: Wii de Enjoy Diet! | 136884 | [136884-billys-boot-camp-wii-de-enjoy-diet.json](./136884-billys-boot-camp-wii-de-enjoy-diet.json) |
 | Billy's Bootcamp | 92601 | [92601-billys-bootcamp.json](./92601-billys-bootcamp.json) |
 | Billy's Game Show | 291301 | [291301-billys-game-show.json](./291301-billys-game-show.json) |
@@ -11729,6 +11733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
 | Bowling | 358828 | [358828-bowling.json](./358828-bowling.json) |
+| Bowling | 359308 | [359308-bowling.json](./359308-bowling.json) |
 | Bowling 2000 | 391790 | [391790-bowling-2000.json](./391790-bowling-2000.json) |
 | Bowling 3D | 42776 | [42776-bowling-3d.json](./42776-bowling-3d.json) |
 | Bowling 3D Extreme | 89226 | [89226-bowling-3d-extreme.json](./89226-bowling-3d-extreme.json) |
@@ -13863,6 +13868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
 | Bubble Zoo 2 | 341064 | [341064-bubble-zoo-2.json](./341064-bubble-zoo-2.json) |
 | Bubble: Journey to the End of the World | 62026 | [62026-bubble-journey-to-the-end-of-the-world.json](./62026-bubble-journey-to-the-end-of-the-world.json) |
+| Bubble's Dream | 359389 | [359389-bubbles-dream.json](./359389-bubbles-dream.json) |
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
 | BubbleBack: The Story of Forward to the Past 2 | 396001 | [396001-bubbleback-the-story-of-forward-to-the-past-2.json](./396001-bubbleback-the-story-of-forward-to-the-past-2.json) |
 | BubbleBeast DigiDungeon | 323925 | [323925-bubblebeast-digidungeon.json](./323925-bubblebeast-digidungeon.json) |
