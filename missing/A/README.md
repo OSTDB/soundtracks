@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Kitchen | 341028 | [341028-abyss-kitchen.json](./341028-abyss-kitchen.json) |
 | Abyss Knights | 350375 | [350375-abyss-knights.json](./350375-abyss-knights.json) |
 | Abyss Looters | 312663 | [312663-abyss-looters.json](./312663-abyss-looters.json) |
+| Abyss Lord | 374580 | [374580-abyss-lord.json](./374580-abyss-lord.json) |
 | Abyss Manager | 116089 | [116089-abyss-manager.json](./116089-abyss-manager.json) |
 | Abyss Manager Idle | 271667 | [271667-abyss-manager-idle.json](./271667-abyss-manager-idle.json) |
 | Abyss Memory Fallen Angel and the Path of Magic | 192081 | [192081-abyss-memory-fallen-angel-and-the-path-of-magic.json](./192081-abyss-memory-fallen-angel-and-the-path-of-magic.json) |
@@ -4056,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agrivore | 386117 | [386117-agrivore.json](./386117-agrivore.json) |
+| Agro Racing | 374613 | [374613-agro-racing.json](./374613-agro-racing.json) |
 | Agro Simulator: Season 26 | 389539 | [389539-agro-simulator-season-26.json](./389539-agro-simulator-season-26.json) |
 | Agrocracy | 388794 | [388794-agrocracy.json](./388794-agrocracy.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
@@ -9589,6 +9591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Max | 188353 | [188353-apocalypse-max.json](./188353-apocalypse-max.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
+| Apocalypse Meow | 374636 | [374636-apocalypse-meow.json](./374636-apocalypse-meow.json) |
 | Apocalypse Meow: Chapter One - Gatitos: The Paws of Fate | 71172 | [71172-apocalypse-meow-chapter-one-gatitos-the-paws-of-fate.json](./71172-apocalypse-meow-chapter-one-gatitos-the-paws-of-fate.json) |
 | Apocalypse Neighbors | 14357 | [14357-apocalypse-neighbors.json](./14357-apocalypse-neighbors.json) |
 | Apocalypse Night | 74683 | [74683-apocalypse-night.json](./74683-apocalypse-night.json) |
