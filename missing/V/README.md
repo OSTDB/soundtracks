@@ -1425,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestron | 93018 | [93018-vestron.json](./93018-vestron.json) |
 | Vesuvia | 416143 | [416143-vesuvia.json](./416143-vesuvia.json) |
 | Vesuvius | 323332 | [323332-vesuvius.json](./323332-vesuvius.json) |
+| Vesyolye futbolisty | 367902 | [367902-vesyolye-futbolisty.json](./367902-vesyolye-futbolisty.json) |
 | Vesyolyi Povar | 245447 | [245447-vesyolyi-povar.json](./245447-vesyolyi-povar.json) |
 | Vet Emergency | 93024 | [93024-vet-emergency.json](./93024-vet-emergency.json) |
 | Veteran | 65004 | [65004-veteran.json](./65004-veteran.json) |
