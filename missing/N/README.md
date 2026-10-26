@@ -2161,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Race 2 | 286645 | [286645-neon-race-2.json](./286645-neon-race-2.json) |
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
 | Neon Raiders | 363147 | [363147-neon-raiders.json](./363147-neon-raiders.json) |
+| Neon Rhythm | 359883 | [359883-neon-rhythm.json](./359883-neon-rhythm.json) |
 | Neon Rider | 104618 | [104618-neon-rider.json](./104618-neon-rider.json) |
 | Neon Rider | 393778 | [393778-neon-rider.json](./393778-neon-rider.json) |
 | Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
@@ -3959,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares Mansion: Scary Dreams | 315104 | [315104-nightmares-mansion-scary-dreams.json](./315104-nightmares-mansion-scary-dreams.json) |
 | Nightmares of Death | 96205 | [96205-nightmares-of-death.json](./96205-nightmares-of-death.json) |
 | Nightmares of the death | 212969 | [212969-nightmares-of-the-death.json](./212969-nightmares-of-the-death.json) |
+| Nightmares: The Adventures – Broken Bone’s Complaint | 360037 | [360037-nightmares-the-adventures-broken-bone-s-complaint.json](./360037-nightmares-the-adventures-broken-bone-s-complaint.json) |
 | Nightmares: The Adventures Episode 3 - The Baron of Vermin Famine | 413797 | [413797-nightmares-the-adventures-episode-3-the-baron-of-vermin-famine.json](./413797-nightmares-the-adventures-episode-3-the-baron-of-vermin-famine.json) |
 | Nightmarescape | 280471 | [280471-nightmarescape.json](./280471-nightmarescape.json) |
 | NightmareScape | 255879 | [255879-nightmarescape.json](./255879-nightmarescape.json) |
