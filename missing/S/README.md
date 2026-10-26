@@ -2784,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
 | SCP | 131429 | [131429-scp.json](./131429-scp.json) |
 | SCP | 287738 | [287738-scp.json](./287738-scp.json) |
+| SCP / Backrooms / Exit Bundle 6 in 1 | 385129 | [385129-scp-backrooms-exit-bundle-6-in-1.json](./385129-scp-backrooms-exit-bundle-6-in-1.json) |
 | SCP 087 B | 241913 | [241913-scp-087-b.json](./241913-scp-087-b.json) |
 | SCP 173 - Nightshift Survival Breach Containment | 102739 | [102739-scp-173-nightshift-survival-breach-containment.json](./102739-scp-173-nightshift-survival-breach-containment.json) |
 | SCP 3008 | 231390 | [231390-scp-3008.json](./231390-scp-3008.json) |
@@ -5072,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severed Ties | 229751 | [229751-severed-ties.json](./229751-severed-ties.json) |
 | Severen | 198223 | [198223-severen.json](./198223-severen.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
+| SeverLink | 385145 | [385145-severlink.json](./385145-severlink.json) |
 | Sevgilim Olur musun ? | 92423 | [92423-sevgilim-olur-musun.json](./92423-sevgilim-olur-musun.json) |
 | Sevn | 232486 | [232486-sevn.json](./232486-sevn.json) |
 | SevTech: Ages | 236686 | [236686-sevtech-ages.json](./236686-sevtech-ages.json) |
@@ -22256,6 +22258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
 | Stillness | 348385 | [348385-stillness.json](./348385-stillness.json) |
+| Stillness | 385149 | [385149-stillness.json](./385149-stillness.json) |
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stillwater Remastered | 280424 | [280424-stillwater-remastered.json](./280424-stillwater-remastered.json) |
@@ -26889,6 +26892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Price Series: Paipai | 267227 | [267227-super-price-series-paipai.json](./267227-super-price-series-paipai.json) |
 | Super Price Series: Reversi | 267232 | [267232-super-price-series-reversi.json](./267232-super-price-series-reversi.json) |
 | Super Princess - Makeup and Dressup Makeover Game | 101043 | [101043-super-princess-makeup-and-dressup-makeover-game.json](./101043-super-princess-makeup-and-dressup-makeover-game.json) |
+| Super Princess & Puzzle Collection: 18 Games in 1 | 385126 | [385126-super-princess-and-puzzle-collection-18-games-in-1.json](./385126-super-princess-and-puzzle-collection-18-games-in-1.json) |
 | Super Princess Peach | 20497 | [20497-super-princess-peach.json](./20497-super-princess-peach.json) |
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
 | Super Producers | 98008 | [98008-super-producers.json](./98008-super-producers.json) |
@@ -27875,6 +27879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2025 | 345970 | [345970-supermarket-simulator-2025.json](./345970-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
+| Supermarket Simulator Bundle 3 in 1 | 385128 | [385128-supermarket-simulator-bundle-3-in-1.json](./385128-supermarket-simulator-bundle-3-in-1.json) |
 | Supermarket Simulator Deluxe | 345265 | [345265-supermarket-simulator-deluxe.json](./345265-supermarket-simulator-deluxe.json) |
 | Supermarket Simulator Pro | 315920 | [315920-supermarket-simulator-pro.json](./315920-supermarket-simulator-pro.json) |
 | Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
