@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central | 18953 | [18953-dance-central.json](./18953-dance-central.json) |
 | Dance Central 2 | 20091 | [20091-dance-central-2.json](./20091-dance-central-2.json) |
 | Dance Central 2: Flo Rida & T-Pain - "Low" | 353201 | [353201-dance-central-2-flo-rida-and-t-pain-low.json](./353201-dance-central-2-flo-rida-and-t-pain-low.json) |
+| Dance Central 2: Kelis - "Milkshake" | 353199 | [353199-dance-central-2-kelis-milkshake.json](./353199-dance-central-2-kelis-milkshake.json) |
 | Dance Central 2: LMFAO - "Party Rock Anthem" | 353200 | [353200-dance-central-2-lmfao-party-rock-anthem.json](./353200-dance-central-2-lmfao-party-rock-anthem.json) |
 | Dance Central 2: Nelly - "Hot In Herre" | 353202 | [353202-dance-central-2-nelly-hot-in-herre.json](./353202-dance-central-2-nelly-hot-in-herre.json) |
 | Dance Central 3 | 19910 | [19910-dance-central-3.json](./19910-dance-central-3.json) |
@@ -599,6 +600,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central Spotlight: Gotye ft. Kimbra - "Somebody That I Used to Know" | 353208 | [353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json](./353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json) |
 | Dance Central Spotlight: Mark Ronson ft. Bruno Mars - "Uptown Funk" | 353210 | [353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json](./353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json) |
 | Dance Central Spotlight: The Pussycat Dolls ft. Busta Rhymes - "Don't Cha" | 353211 | [353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json](./353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json) |
+| Dance Central: Cameo - "Word Up" | 353194 | [353194-dance-central-cameo-word-up.json](./353194-dance-central-cameo-word-up.json) |
+| Dance Central: Gwen Stefani - "Hollaback Girl" | 353197 | [353197-dance-central-gwen-stefani-hollaback-girl.json](./353197-dance-central-gwen-stefani-hollaback-girl.json) |
+| Dance Central: Paula Abdul - "Straight Up" | 353198 | [353198-dance-central-paula-abdul-straight-up.json](./353198-dance-central-paula-abdul-straight-up.json) |
+| Dance Central: Rick James - "Super Freak" | 353195 | [353195-dance-central-rick-james-super-freak.json](./353195-dance-central-rick-james-super-freak.json) |
 | Dance Collider | 107360 | [107360-dance-collider.json](./107360-dance-collider.json) |
 | Dance Cube | 277186 | [277186-dance-cube.json](./277186-dance-cube.json) |
 | Dance Dance Revolution | 135549 | [135549-dance-dance-revolution.json](./135549-dance-dance-revolution.json) |
@@ -15886,6 +15891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
 | DX Monopoly GB | 228501 | [228501-dx-monopoly-gb.json](./228501-dx-monopoly-gb.json) |
 | DX Nippon Tokkyuu Ryokou Game: Let's Travel in Japan | 268641 | [268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json](./268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json) |
+| DX Progress PET: Leo Version | 353179 | [353179-dx-progress-pet-leo-version.json](./353179-dx-progress-pet-leo-version.json) |
 | DX Shachou Game | 387122 | [387122-dx-shachou-game.json](./387122-dx-shachou-game.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | DX-Ball 2 | 19225 | [19225-dx-ball-2.json](./19225-dx-ball-2.json) |
