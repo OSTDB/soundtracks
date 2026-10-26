@@ -7492,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers Die | 414810 | [414810-lovers-die.json](./414810-lovers-die.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
+| Lovers: Koi ni Ochitara... | 382247 | [382247-lovers-koi-ni-ochitara.json](./382247-lovers-koi-ni-ochitara.json) |
 | Lovers’ Fun! | 402457 | [402457-lovers-fun.json](./402457-lovers-fun.json) |
 | Lovesick | 177738 | [177738-lovesick.json](./177738-lovesick.json) |
 | Lovesick | 413796 | [413796-lovesick.json](./413796-lovesick.json) |
