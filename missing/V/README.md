@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant Hearts: The Collection | 290111 | [290111-valiant-hearts-the-collection.json](./290111-valiant-hearts-the-collection.json) |
 | Valiant Knights: Typing Battle | 29053 | [29053-valiant-knights-typing-battle.json](./29053-valiant-knights-typing-battle.json) |
 | Valiant Rooster | 262413 | [262413-valiant-rooster.json](./262413-valiant-rooster.json) |
+| Valiant Saga | 336470 | [336470-valiant-saga.json](./336470-valiant-saga.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
 | Valiant: Resurrection | 35281 | [35281-valiant-resurrection.json](./35281-valiant-resurrection.json) |
 | ValiDate: Struggling Singles in your Area | 139144 | [139144-validate-struggling-singles-in-your-area.json](./139144-validate-struggling-singles-in-your-area.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire's Fall: Origins | 123580 | [123580-vampires-fall-origins.json](./123580-vampires-fall-origins.json) |
 | Vampire's Kiss: Time Paradox | 390260 | [390260-vampires-kiss-time-paradox.json](./390260-vampires-kiss-time-paradox.json) |
 | Vampire's Slave | 149387 | [149387-vampires-slave.json](./149387-vampires-slave.json) |
+| Vampire's Veil | 336466 | [336466-vampires-veil.json](./336466-vampires-veil.json) |
 | Vampire+Hunter | 300019 | [300019-vampire-hunter.json](./300019-vampire-hunter.json) |
 | VampireBlaze | 402935 | [402935-vampireblaze.json](./402935-vampireblaze.json) |
 | Vampirem | 136411 | [136411-vampirem.json](./136411-vampirem.json) |
@@ -1060,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velev | 299556 | [299556-velev.json](./299556-velev.json) |
 | Velhodium Isle | 332391 | [332391-velhodium-isle.json](./332391-velhodium-isle.json) |
 | Velhokissa Kloridi Klaviatuuri ja Kadonneet Aakkoset | 7639 | [7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json](./7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json) |
+| Velistra: Failed State | 336759 | [336759-velistra-failed-state.json](./336759-velistra-failed-state.json) |
 | Velkyn | 282018 | [282018-velkyn.json](./282018-velkyn.json) |
 | Vellar | 405723 | [405723-vellar.json](./405723-vellar.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
