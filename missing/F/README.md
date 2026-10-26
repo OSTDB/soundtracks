@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fegefeuer Soul Tower | 285324 | [285324-fegefeuer-soul-tower.json](./285324-fegefeuer-soul-tower.json) |
 | Fei Duanmu VS Kobayashi | 87955 | [87955-fei-duanmu-vs-kobayashi.json](./87955-fei-duanmu-vs-kobayashi.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
+| Feichuan | 345944 | [345944-feichuan.json](./345944-feichuan.json) |
 | Feign | 172516 | [172516-feign.json](./172516-feign.json) |
 | Feisty Fauna | 193345 | [193345-feisty-fauna.json](./193345-feisty-fauna.json) |
 | Feisty Feet | 42769 | [42769-feisty-feet.json](./42769-feisty-feet.json) |
@@ -11576,6 +11577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion | 182822 | [182822-fusion.json](./182822-fusion.json) |
 | Fusion Galaxy | 395572 | [395572-fusion-galaxy.json](./395572-fusion-galaxy.json) |
 | Fusion Guards | 116450 | [116450-fusion-guards.json](./116450-fusion-guards.json) |
+| Fusion Mage | 346506 | [346506-fusion-mage.json](./346506-fusion-mage.json) |
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Fusion Paradox | 248662 | [248662-fusion-paradox.json](./248662-fusion-paradox.json) |
 | Fusion Relics | 149903 | [149903-fusion-relics.json](./149903-fusion-relics.json) |
