@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Horizon | 178295 | [178295-calm-horizon.json](./178295-calm-horizon.json) |
 | Calm Horizon | 380050 | [380050-calm-horizon.json](./380050-calm-horizon.json) |
 | Calm Skies | 318295 | [318295-calm-skies.json](./318295-calm-skies.json) |
+| Calm the Storm | 350351 | [350351-calm-the-storm.json](./350351-calm-the-storm.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmaria: Wild Growth | 422495 | [422495-calmaria-wild-growth.json](./422495-calmaria-wild-growth.json) |
 | Calme | 217182 | [217182-calme.json](./217182-calme.json) |
@@ -13183,6 +13184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab War | 114691 | [114691-crab-war.json](./114691-crab-war.json) |
 | Crab Wave | 315646 | [315646-crab-wave.json](./315646-crab-wave.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
+| Crabageddon | 350346 | [350346-crabageddon.json](./350346-crabageddon.json) |
 | Craball | 350043 | [350043-craball.json](./350043-craball.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
 | Crabby Adventure | 66953 | [66953-crabby-adventure.json](./66953-crabby-adventure.json) |
