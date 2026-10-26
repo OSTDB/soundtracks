@@ -6285,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Burger | 246393 | [246393-big-burger.json](./246393-big-burger.json) |
 | Big Burger | 256294 | [256294-big-burger.json](./256294-big-burger.json) |
 | Big Burger Store | 333004 | [333004-big-burger-store.json](./333004-big-burger-store.json) |
+| Big Burger Tower | 357830 | [357830-big-burger-tower.json](./357830-big-burger-tower.json) |
 | Big Business | 14300 | [14300-big-business.json](./14300-big-business.json) |
 | Big Butt Bobby | 236190 | [236190-big-butt-bobby.json](./236190-big-butt-bobby.json) |
 | Big Cat from Hell | 165586 | [165586-big-cat-from-hell.json](./165586-big-cat-from-hell.json) |
@@ -6692,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy's Bootcamp | 92601 | [92601-billys-bootcamp.json](./92601-billys-bootcamp.json) |
 | Billy's Game Show | 291301 | [291301-billys-game-show.json](./291301-billys-game-show.json) |
 | Billy's Nightmare | 176811 | [176811-billys-nightmare.json](./176811-billys-nightmare.json) |
+| Billy's Tower | 357829 | [357829-billys-tower.json](./357829-billys-tower.json) |
 | Bilson | 356019 | [356019-bilson.json](./356019-bilson.json) |
 | Bilspel | 79334 | [79334-bilspel.json](./79334-bilspel.json) |
 | Biluo Story | 111674 | [111674-biluo-story.json](./111674-biluo-story.json) |
@@ -13373,6 +13375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Hearts Island | 258990 | [258990-broken-hearts-island.json](./258990-broken-hearts-island.json) |
 | Broken Hearts: A Soldier's Duty | 206685 | [206685-broken-hearts-a-soldiers-duty.json](./206685-broken-hearts-a-soldiers-duty.json) |
 | Broken Helix | 19996 | [19996-broken-helix.json](./19996-broken-helix.json) |
+| Broken Hero: Slime Tower | 357828 | [357828-broken-hero-slime-tower.json](./357828-broken-hero-slime-tower.json) |
 | Broken In Time | 223499 | [223499-broken-in-time.json](./223499-broken-in-time.json) |
 | Broken Keyboard Hero | 342842 | [342842-broken-keyboard-hero.json](./342842-broken-keyboard-hero.json) |
 | Broken Knuckles | 407851 | [407851-broken-knuckles.json](./407851-broken-knuckles.json) |
