@@ -7051,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Trust: Episode 1 | 387488 | [387488-lost-trust-episode-1.json](./387488-lost-trust-episode-1.json) |
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
 | Lost Valley | 170337 | [170337-lost-valley.json](./170337-lost-valley.json) |
+| Lost Valley of the Frog King | 333477 | [333477-lost-valley-of-the-frog-king.json](./333477-lost-valley-of-the-frog-king.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
 | Lost Viking: Kingdom of Women | 123890 | [123890-lost-viking-kingdom-of-women.json](./123890-lost-viking-kingdom-of-women.json) |
 | Lost Voice | 148948 | [148948-lost-voice.json](./148948-lost-voice.json) |
