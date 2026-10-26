@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Houston Breakout Weapon Pack | 314517 | [314517-payday-3-houston-breakout-weapon-pack.json](./314517-payday-3-houston-breakout-weapon-pack.json) |
 | Payday 3: Houston Character Pack | 357269 | [357269-payday-3-houston-character-pack.json](./357269-payday-3-houston-character-pack.json) |
 | Payday 3: Jacket Character Pack | 367398 | [367398-payday-3-jacket-character-pack.json](./367398-payday-3-jacket-character-pack.json) |
+| Payday 3: Party Powder Heist | 369604 | [369604-payday-3-party-powder-heist.json](./369604-payday-3-party-powder-heist.json) |
 | Payday 3: Silver Edition | 266897 | [266897-payday-3-silver-edition.json](./266897-payday-3-silver-edition.json) |
 | Payday Freecell | 210013 | [210013-payday-freecell.json](./210013-payday-freecell.json) |
 | Payday Freecell HD | 354984 | [354984-payday-freecell-hd.json](./354984-payday-freecell-hd.json) |
@@ -13190,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ichr | 174585 | [174585-project-ichr.json](./174585-project-ichr.json) |
 | Project Ictos | 286057 | [286057-project-ictos.json](./286057-project-ictos.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
+| Project II: Silent Valley | 369605 | [369605-project-ii-silent-valley.json](./369605-project-ii-silent-valley.json) |
 | Project Immortal | 124518 | [124518-project-immortal.json](./124518-project-immortal.json) |
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
 | Project IO | 126920 | [126920-project-io.json](./126920-project-io.json) |
@@ -14878,6 +14880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss! | 81128 | [81128-puss.json](./81128-puss.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Pussy 6 | 213547 | [213547-pussy-6.json](./213547-pussy-6.json) |
+| Pussy Cum with Me | 370631 | [370631-pussy-cum-with-me.json](./370631-pussy-cum-with-me.json) |
 | Pussy Flip: Purrfect Reversi | 64822 | [64822-pussy-flip-purrfect-reversi.json](./64822-pussy-flip-purrfect-reversi.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
 | Pussy Password | 335306 | [335306-pussy-password.json](./335306-pussy-password.json) |
