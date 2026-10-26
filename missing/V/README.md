@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verlore Slange: Bundle | 331495 | [331495-verlore-slange-bundle.json](./331495-verlore-slange-bundle.json) |
 | Verlore Tyd en Drome Bundle | 213332 | [213332-verlore-tyd-en-drome-bundle.json](./213332-verlore-tyd-en-drome-bundle.json) |
 | Vermeer | 46659 | [46659-vermeer.json](./46659-vermeer.json) |
+| Vermeer's Twilight | 343167 | [343167-vermeers-twilight.json](./343167-vermeers-twilight.json) |
 | Vermilion Arcade: Horror Collection | 285694 | [285694-vermilion-arcade-horror-collection.json](./285694-vermilion-arcade-horror-collection.json) |
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
 | Vermillion | 156960 | [156960-vermillion.json](./156960-vermillion.json) |
