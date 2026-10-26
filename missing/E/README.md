@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Island Twist | 150781 | [150781-eagle-island-twist.json](./150781-eagle-island-twist.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
 | Eagle Legacy: Zero | 373186 | [373186-eagle-legacy-zero.json](./373186-eagle-legacy-zero.json) |
+| Eagle n Chicken | 366190 | [366190-eagle-n-chicken.json](./366190-eagle-n-chicken.json) |
 | Eagle n Chicken | 367837 | [367837-eagle-n-chicken.json](./367837-eagle-n-chicken.json) |
 | Eagle One: Harrier Attack | 44948 | [44948-eagle-one-harrier-attack.json](./44948-eagle-one-harrier-attack.json) |
 | Eagle Plan | 70867 | [70867-eagle-plan.json](./70867-eagle-plan.json) |
@@ -6443,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist Shrine Maiden Miharu: The Licentious Journal of her Captive Violation | 82696 | [82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json](./82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json) |
 | Exorcist Simulator | 259005 | [259005-exorcist-simulator.json](./259005-exorcist-simulator.json) |
 | Exorcist: Oldest Tongue | 370660 | [370660-exorcist-oldest-tongue.json](./370660-exorcist-oldest-tongue.json) |
+| Exorcist: Survival Horror | 366207 | [366207-exorcist-survival-horror.json](./366207-exorcist-survival-horror.json) |
 | Exorcizamuste | 258537 | [258537-exorcizamuste.json](./258537-exorcizamuste.json) |
 | Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
 | Exoria | 408199 | [408199-exoria.json](./408199-exoria.json) |
