@@ -5093,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms 64 | 337430 | [337430-the-backrooms-64.json](./337430-the-backrooms-64.json) |
 | The Backrooms Anthology | 236894 | [236894-the-backrooms-anthology.json](./236894-the-backrooms-anthology.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
+| The Backrooms Deluxe 2 | 375882 | [375882-the-backrooms-deluxe-2.json](./375882-the-backrooms-deluxe-2.json) |
 | The Backrooms Exploration | 276116 | [276116-the-backrooms-exploration.json](./276116-the-backrooms-exploration.json) |
 | The Backrooms Footage | 213973 | [213973-the-backrooms-footage.json](./213973-the-backrooms-footage.json) |
 | The Backrooms Game | 130726 | [130726-the-backrooms-game.json](./130726-the-backrooms-game.json) |
@@ -11049,6 +11050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Girl | 225769 | [225769-the-lost-girl.json](./225769-the-lost-girl.json) |
 | The Lost Glitches | 262226 | [262226-the-lost-glitches.json](./262226-the-lost-glitches.json) |
 | The Lost Goblin Tower | 111589 | [111589-the-lost-goblin-tower.json](./111589-the-lost-goblin-tower.json) |
+| The Lost Heaven | 375903 | [375903-the-lost-heaven.json](./375903-the-lost-heaven.json) |
 | The Lost Heir 2: Forging a Kingdom | 33593 | [33593-the-lost-heir-2-forging-a-kingdom.json](./33593-the-lost-heir-2-forging-a-kingdom.json) |
 | The Lost Heir 3: Demon War | 27875 | [27875-the-lost-heir-3-demon-war.json](./27875-the-lost-heir-3-demon-war.json) |
 | The Lost Heir: The Fall of Daria | 33594 | [33594-the-lost-heir-the-fall-of-daria.json](./33594-the-lost-heir-the-fall-of-daria.json) |
@@ -23681,6 +23683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: Wutachtalbahn - Lauchringen: Immendingen Route | 156427 | [156427-train-simulator-2021-wutachtalbahn-lauchringen-immendingen-route.json](./156427-train-simulator-2021-wutachtalbahn-lauchringen-immendingen-route.json) |
 | Train Simulator 2022: Salzburg - Wels Route Add-On | 174142 | [174142-train-simulator-2022-salzburg-wels-route-add-on.json](./174142-train-simulator-2022-salzburg-wels-route-add-on.json) |
 | Train Simulator 3: Thameslink BR Class 700/0 EMU | 257017 | [257017-train-simulator-3-thameslink-br-class-700-0-emu.json](./257017-train-simulator-3-thameslink-br-class-700-0-emu.json) |
+| Train Simulator Bangladesh | 375890 | [375890-train-simulator-bangladesh.json](./375890-train-simulator-bangladesh.json) |
 | Train Simulator Classic | 198295 | [198295-train-simulator-classic.json](./198295-train-simulator-classic.json) |
 | Train Simulator Classic: BN Wagon Pack 01 | 226264 | [226264-train-simulator-classic-bn-wagon-pack-01.json](./226264-train-simulator-classic-bn-wagon-pack-01.json) |
 | Train Simulator Classic: Boston & Albany - Boston - Springfield Route Add-On | 357395 | [357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json](./357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json) |
