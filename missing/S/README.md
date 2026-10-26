@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Cycle; Redux | 405766 | [405766-sanguine-cycle-redux.json](./405766-sanguine-cycle-redux.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
+| Sanguine Oblation | 362793 | [362793-sanguine-oblation.json](./362793-sanguine-oblation.json) |
 | Sanguine Rose | 213261 | [213261-sanguine-rose.json](./213261-sanguine-rose.json) |
 | Sanguivore: Twenty Below | 266271 | [266271-sanguivore-twenty-below.json](./266271-sanguivore-twenty-below.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
@@ -3053,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screenside Station | 349089 | [349089-screenside-station.json](./349089-screenside-station.json) |
 | Screeps: Arena | 121571 | [121571-screeps-arena.json](./121571-screeps-arena.json) |
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
+| Screw Dive | 362807 | [362807-screw-dive.json](./362807-screw-dive.json) |
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
 | Screw It | 418223 | [418223-screw-it.json](./418223-screw-it.json) |
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
@@ -11343,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Wars | 272219 | [272219-slime-wars.json](./272219-slime-wars.json) |
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
 | Slime Weapon Master | 297614 | [297614-slime-weapon-master.json](./297614-slime-weapon-master.json) |
+| Slime Well | 362787 | [362787-slime-well.json](./362787-slime-well.json) |
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
 | Slime-ing | 245728 | [245728-slime-ing.json](./245728-slime-ing.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
@@ -29653,6 +29656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordcar | 260521 | [260521-swordcar.json](./260521-swordcar.json) |
 | Swordcery | 175772 | [175772-swordcery.json](./175772-swordcery.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
+| Swordfighting for People Who Are Really Bad at Swordfighting | 362797 | [362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json](./362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json) |
 | Swordflight | 358271 | [358271-swordflight.json](./358271-swordflight.json) |
 | Swordhaven: Iron Conspiracy | 290620 | [290620-swordhaven-iron-conspiracy.json](./290620-swordhaven-iron-conspiracy.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
