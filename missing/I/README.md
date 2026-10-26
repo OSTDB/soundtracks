@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Parker Unsolved | 50858 | [50858-inspector-parker-unsolved.json](./50858-inspector-parker-unsolved.json) |
 | Inspector Schmidt: A Bavarian Tale | 171185 | [171185-inspector-schmidt-a-bavarian-tale.json](./171185-inspector-schmidt-a-bavarian-tale.json) |
 | Inspector Schmidt: The Ebbing | 306585 | [306585-inspector-schmidt-the-ebbing.json](./306585-inspector-schmidt-the-ebbing.json) |
+| Inspector Schmidt: The Ebbing - Prologue | 335181 | [335181-inspector-schmidt-the-ebbing-prologue.json](./335181-inspector-schmidt-the-ebbing-prologue.json) |
 | Inspector Waffles | 116730 | [116730-inspector-waffles.json](./116730-inspector-waffles.json) |
 | Inspector Waffles Full Story | 395289 | [395289-inspector-waffles-full-story.json](./395289-inspector-waffles-full-story.json) |
 | Inspector Waffles: Purrluxe Edition | 154522 | [154522-inspector-waffles-purrluxe-edition.json](./154522-inspector-waffles-purrluxe-edition.json) |
@@ -4552,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Omega | 339899 | [339899-invasion-omega.json](./339899-invasion-omega.json) |
 | Invasion Orion | 23298 | [23298-invasion-orion.json](./23298-invasion-orion.json) |
 | Invasion Rush | 295077 | [295077-invasion-rush.json](./295077-invasion-rush.json) |
+| Invasion Survivors | 335212 | [335212-invasion-survivors.json](./335212-invasion-survivors.json) |
 | Invasion To Cane | 275469 | [275469-invasion-to-cane.json](./275469-invasion-to-cane.json) |
 | Invasion UAC | 257528 | [257528-invasion-uac.json](./257528-invasion-uac.json) |
 | Invasion VS | 58640 | [58640-invasion-vs.json](./58640-invasion-vs.json) |
