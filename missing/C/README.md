@@ -2810,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
 | Castle Cats | 54991 | [54991-castle-cats.json](./54991-castle-cats.json) |
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
+| Castle Champions | 344869 | [344869-castle-champions.json](./344869-castle-champions.json) |
 | Castle Chaos | 139156 | [139156-castle-chaos.json](./139156-castle-chaos.json) |
 | Castle Chase | 60935 | [60935-castle-chase.json](./60935-castle-chase.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
