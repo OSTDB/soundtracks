@@ -7142,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drone Lord | 343308 | [343308-the-drone-lord.json](./343308-the-drone-lord.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
+| The Drowned Deal | 365726 | [365726-the-drowned-deal.json](./365726-the-drowned-deal.json) |
 | The Drowning | 20917 | [20917-the-drowning.json](./20917-the-drowning.json) |
 | The Drowning Machine | 144738 | [144738-the-drowning-machine.json](./144738-the-drowning-machine.json) |
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
@@ -9255,6 +9256,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Coneman | 262418 | [262418-the-incredible-coneman.json](./262418-the-incredible-coneman.json) |
 | The Incredible Crash Dummies | 198764 | [198764-the-incredible-crash-dummies.json](./198764-the-incredible-crash-dummies.json) |
 | The Incredible Crash Dummies | 2160 | [2160-the-incredible-crash-dummies.json](./2160-the-incredible-crash-dummies.json) |
+| The Incredible Crash Dummies | 365652 | [365652-the-incredible-crash-dummies.json](./365652-the-incredible-crash-dummies.json) |
+| The Incredible Crash Dummies | 365654 | [365654-the-incredible-crash-dummies.json](./365654-the-incredible-crash-dummies.json) |
+| The Incredible Crash Dummies | 365655 | [365655-the-incredible-crash-dummies.json](./365655-the-incredible-crash-dummies.json) |
 | The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
 | The Incredible Hulk | 368893 | [368893-the-incredible-hulk.json](./368893-the-incredible-hulk.json) |
 | The Incredible Hulk | 4928 | [4928-the-incredible-hulk.json](./4928-the-incredible-hulk.json) |
@@ -16548,6 +16552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Were Here First | 421316 | [421316-they-were-here-first.json](./421316-they-were-here-first.json) |
 | They Whisper Softly to Me | 28211 | [28211-they-whisper-softly-to-me.json](./28211-they-whisper-softly-to-me.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
+| They Won't Get Our Eggs! | 365604 | [365604-they-wont-get-our-eggs.json](./365604-they-wont-get-our-eggs.json) |
 | They Сame From Above | 192709 | [192709-they-ame-from-above.json](./192709-they-ame-from-above.json) |
 | They'll Find You | 121636 | [121636-theyll-find-you.json](./121636-theyll-find-you.json) |
 | They’ll Hang You for That Face | 413909 | [413909-they-ll-hang-you-for-that-face.json](./413909-they-ll-hang-you-for-that-face.json) |
