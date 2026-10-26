@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Castle | 379945 | [379945-paper-castle.json](./379945-paper-castle.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Chaser's | 247432 | [247432-paper-chasers.json](./247432-paper-chasers.json) |
+| Paper Craft | 354330 | [354330-paper-craft.json](./354330-paper-craft.json) |
 | Paper Cut Mansion | 86512 | [86512-paper-cut-mansion.json](./86512-paper-cut-mansion.json) |
 | Paper Dash: City Hustle | 287072 | [287072-paper-dash-city-hustle.json](./287072-paper-dash-city-hustle.json) |
 | Paper Dash: Invasion of Greed | 288919 | [288919-paper-dash-invasion-of-greed.json](./288919-paper-dash-invasion-of-greed.json) |
@@ -5926,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
 | Pinball Soccer '98 | 66494 | [66494-pinball-soccer-98.json](./66494-pinball-soccer-98.json) |
+| Pinball Soccer World | 354475 | [354475-pinball-soccer-world.json](./354475-pinball-soccer-world.json) |
 | Pinball Spectacular | 61308 | [61308-pinball-spectacular.json](./61308-pinball-spectacular.json) |
 | Pinball Spire x 9 Years of Shadows | 396120 | [396120-pinball-spire-x-9-years-of-shadows.json](./396120-pinball-spire-x-9-years-of-shadows.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
