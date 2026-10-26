@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barton Lynch Pro Surfing | 272292 | [272292-barton-lynch-pro-surfing.json](./272292-barton-lynch-pro-surfing.json) |
 | Barton Lynch Pro Surfing 2022 | 196295 | [196295-barton-lynch-pro-surfing-2022.json](./196295-barton-lynch-pro-surfing-2022.json) |
 | Bartox | 213439 | [213439-bartox.json](./213439-bartox.json) |
+| Barty's Adventure | 379941 | [379941-bartys-adventure.json](./379941-bartys-adventure.json) |
 | Baryoland | 269483 | [269483-baryoland.json](./269483-baryoland.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basalt: The Cursed Vein | 364246 | [364246-basalt-the-cursed-vein.json](./364246-basalt-the-cursed-vein.json) |
@@ -7857,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Soul Heroes | 347649 | [347649-blade-and-soul-heroes.json](./347649-blade-and-soul-heroes.json) |
 | Blade & Soul Neo | 333270 | [333270-blade-and-soul-neo.json](./333270-blade-and-soul-neo.json) |
 | Blade & Soul: Revolution | 143626 | [143626-blade-and-soul-revolution.json](./143626-blade-and-soul-revolution.json) |
+| Blade & Sword 2: Ancient Legend | 379912 | [379912-blade-and-sword-2-ancient-legend.json](./379912-blade-and-sword-2-ancient-legend.json) |
 | Blade 9 Online | 60964 | [60964-blade-9-online.json](./60964-blade-9-online.json) |
 | Blade and Burden | 253315 | [253315-blade-and-burden.json](./253315-blade-and-burden.json) |
 | Blade and Madness | 349996 | [349996-blade-and-madness.json](./349996-blade-and-madness.json) |
@@ -13994,6 +13996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Challenge | 242374 | [242374-buggy-challenge.json](./242374-buggy-challenge.json) |
 | Buggy Derby Arena | 297324 | [297324-buggy-derby-arena.json](./297324-buggy-derby-arena.json) |
 | Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
+| Buggy Mess | 379925 | [379925-buggy-mess.json](./379925-buggy-mess.json) |
 | Buggy Off-Road Racing | 289375 | [289375-buggy-off-road-racing.json](./289375-buggy-off-road-racing.json) |
 | Buggy Off-Road Racing: Deluxe Edition | 308799 | [308799-buggy-off-road-racing-deluxe-edition.json](./308799-buggy-off-road-racing-deluxe-edition.json) |
 | Buggy Off-Road Racing: Max Edition | 413578 | [413578-buggy-off-road-racing-max-edition.json](./413578-buggy-off-road-racing-max-edition.json) |
