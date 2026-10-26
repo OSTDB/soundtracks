@@ -3752,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Raid | 195172 | [195172-girl-raid.json](./195172-girl-raid.json) |
 | Girl Rescue: Dragon Out! | 347028 | [347028-girl-rescue-dragon-out.json](./347028-girl-rescue-dragon-out.json) |
 | Girl Rugby Dash | 110139 | [110139-girl-rugby-dash.json](./110139-girl-rugby-dash.json) |
+| Girl Survivors | 345389 | [345389-girl-survivors.json](./345389-girl-survivors.json) |
 | Girl Talk | 209753 | [209753-girl-talk.json](./209753-girl-talk.json) |
 | Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
 | Girl things | 183929 | [183929-girl-things.json](./183929-girl-things.json) |
