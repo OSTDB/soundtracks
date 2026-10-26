@@ -5221,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieced Together | 295080 | [295080-pieced-together.json](./295080-pieced-together.json) |
 | PieceFall VR | 270606 | [270606-piecefall-vr.json](./270606-piecefall-vr.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
+| Pieceful Gallery | 375884 | [375884-pieceful-gallery.json](./375884-pieceful-gallery.json) |
 | Pieces | 46587 | [46587-pieces.json](./46587-pieces.json) |
 | Pieces I: A Maskros Nebula Game | 296503 | [296503-pieces-i-a-maskros-nebula-game.json](./296503-pieces-i-a-maskros-nebula-game.json) |
 | Pieces of Beauty | 174069 | [174069-pieces-of-beauty.json](./174069-pieces-of-beauty.json) |
@@ -5387,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2: Caveless Edition | 270726 | [270726-pikmin-2-caveless-edition.json](./270726-pikmin-2-caveless-edition.json) |
 | Pikmin 2: Colossal Caverns | 140840 | [140840-pikmin-2-colossal-caverns.json](./140840-pikmin-2-colossal-caverns.json) |
 | Pikmin 2: New Year | 312294 | [312294-pikmin-2-new-year.json](./312294-pikmin-2-new-year.json) |
+| Pikmin 2: Yellow Edition | 375785 | [375785-pikmin-2-yellow-edition.json](./375785-pikmin-2-yellow-edition.json) |
 | Pikmin 2D | 387584 | [387584-pikmin-2d.json](./387584-pikmin-2d.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
@@ -5448,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: Tsunagete Pikmin - Louie | 353508 | [353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json](./353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json) |
 | Pikmin RPG | 323886 | [323886-pikmin-rpg.json](./323886-pikmin-rpg.json) |
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
+| Pikmin Stone | 375786 | [375786-pikmin-stone.json](./375786-pikmin-stone.json) |
 | Pikmin Treasure Hunt | 342714 | [342714-pikmin-treasure-hunt.json](./342714-pikmin-treasure-hunt.json) |
 | Pikmin: New Fortune | 314135 | [314135-pikmin-new-fortune.json](./314135-pikmin-new-fortune.json) |
 | Pikmin: Olimar's Descent | 307373 | [307373-pikmin-olimars-descent.json](./307373-pikmin-olimars-descent.json) |
@@ -11546,6 +11549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Animals | 69223 | [69223-prehistoric-animals.json](./69223-prehistoric-animals.json) |
 | Prehistoric Dude | 138774 | [138774-prehistoric-dude.json](./138774-prehistoric-dude.json) |
 | Prehistoric Football | 392728 | [392728-prehistoric-football.json](./392728-prehistoric-football.json) |
+| Prehistoric Fun Park | 375904 | [375904-prehistoric-fun-park.json](./375904-prehistoric-fun-park.json) |
 | Prehistoric Gal | 293656 | [293656-prehistoric-gal.json](./293656-prehistoric-gal.json) |
 | Prehistoric Hunt | 142203 | [142203-prehistoric-hunt.json](./142203-prehistoric-hunt.json) |
 | Prehistoric Isle | 78964 | [78964-prehistoric-isle.json](./78964-prehistoric-isle.json) |
@@ -11955,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
 | Prince Naseem Boxing | 50024 | [50024-prince-naseem-boxing.json](./50024-prince-naseem-boxing.json) |
 | Prince Nikolai and the Vampires | 192602 | [192602-prince-nikolai-and-the-vampires.json](./192602-prince-nikolai-and-the-vampires.json) |
+| Prince of Arabia | 375916 | [375916-prince-of-arabia.json](./375916-prince-of-arabia.json) |
 | Prince of Darkness Jr. | 371973 | [371973-prince-of-darkness-jr.json](./371973-prince-of-darkness-jr.json) |
 | Prince of Destruction | 171528 | [171528-prince-of-destruction.json](./171528-prince-of-destruction.json) |
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
@@ -13426,6 +13431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tilt | 61532 | [61532-project-tilt.json](./61532-project-tilt.json) |
 | Project Timbre | 381574 | [381574-project-timbre.json](./381574-project-timbre.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
+| Project Titan: The Redacted Files | 375881 | [375881-project-titan-the-redacted-files.json](./375881-project-titan-the-redacted-files.json) |
 | Project to Escape | 146082 | [146082-project-to-escape.json](./146082-project-to-escape.json) |
 | Project Tokyo Dolls | 76143 | [76143-project-tokyo-dolls.json](./76143-project-tokyo-dolls.json) |
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
@@ -13651,6 +13657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promo Pack 2x1 | 212786 | [212786-promo-pack-2x1.json](./212786-promo-pack-2x1.json) |
 | Promo Wrestling World | 422063 | [422063-promo-wrestling-world.json](./422063-promo-wrestling-world.json) |
 | ProMods Canada | 376091 | [376091-promods-canada.json](./376091-promods-canada.json) |
+| ProMods Europe | 375788 | [375788-promods-europe.json](./375788-promods-europe.json) |
 | Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
 | Prompt | 35336 | [35336-prompt.json](./35336-prompt.json) |
 | PromptCrafter | 297912 | [297912-promptcrafter.json](./297912-promptcrafter.json) |
