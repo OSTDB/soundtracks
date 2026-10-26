@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wait! Life is beautiful! | 81163 | [81163-wait-life-is-beautiful.json](./81163-wait-life-is-beautiful.json) |
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
 | Waiter | 231341 | [231341-waiter.json](./231341-waiter.json) |
+| Waiter Please! | 359319 | [359319-waiter-please.json](./359319-waiter-please.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
 | Waiting for Eurydice | 385673 | [385673-waiting-for-eurydice.json](./385673-waiting-for-eurydice.json) |
 | Waiting for Odysseus | 412909 | [412909-waiting-for-odysseus.json](./412909-waiting-for-odysseus.json) |
@@ -5165,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Sirenix Power | 63387 | [63387-winx-sirenix-power.json](./63387-winx-sirenix-power.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
 | Wipe Factor | 233558 | [233558-wipe-factor.json](./233558-wipe-factor.json) |
+| Wipe Off | 359314 | [359314-wipe-off.json](./359314-wipe-off.json) |
 | Wipe Out | 18160 | [18160-wipe-out.json](./18160-wipe-out.json) |
 | Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
 | Wiped Clean | 350961 | [350961-wiped-clean.json](./350961-wiped-clean.json) |
