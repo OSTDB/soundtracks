@@ -779,6 +779,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Hour | 146042 | [146042-zero-hour.json](./146042-zero-hour.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero Hour Reforged | 421840 | [421840-zero-hour-reforged.json](./421840-zero-hour-reforged.json) |
+| Zero Hour: Aesthetics Pack "Gold" | 353348 | [353348-zero-hour-aesthetics-pack-gold.json](./353348-zero-hour-aesthetics-pack-gold.json) |
+| Zero Hour: Aesthetics Pack "Platinum" | 353353 | [353353-zero-hour-aesthetics-pack-platinum.json](./353353-zero-hour-aesthetics-pack-platinum.json) |
+| Zero Hour: Aesthetics Pack "Redline" | 353352 | [353352-zero-hour-aesthetics-pack-redline.json](./353352-zero-hour-aesthetics-pack-redline.json) |
+| Zero Hour: Aesthetics Pack "Serpentine" | 353351 | [353351-zero-hour-aesthetics-pack-serpentine.json](./353351-zero-hour-aesthetics-pack-serpentine.json) |
+| Zero Hour: Aesthetics Pack "Titanium" | 353350 | [353350-zero-hour-aesthetics-pack-titanium.json](./353350-zero-hour-aesthetics-pack-titanium.json) |
+| Zero Hour: Savanna Aesthetics Pack | 353354 | [353354-zero-hour-savanna-aesthetics-pack.json](./353354-zero-hour-savanna-aesthetics-pack.json) |
 | Zero Idle | 143604 | [143604-zero-idle.json](./143604-zero-idle.json) |
 | Zero Jikan he... | 329793 | [329793-zero-jikan-he.json](./329793-zero-jikan-he.json) |
 | Zero Killed | 83346 | [83346-zero-killed.json](./83346-zero-killed.json) |
