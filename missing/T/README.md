@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take on Helicopters: Rearmed | 15107 | [15107-take-on-helicopters-rearmed.json](./15107-take-on-helicopters-rearmed.json) |
 | Take on Mars | 16572 | [16572-take-on-mars.json](./16572-take-on-mars.json) |
 | Take Over | 401900 | [401900-take-over.json](./401900-take-over.json) |
+| Take Over Body | 385692 | [385692-take-over-body.json](./385692-take-over-body.json) |
 | Take Over the World | 57489 | [57489-take-over-the-world.json](./57489-take-over-the-world.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
 | Take Something Literally | 341284 | [341284-take-something-literally.json](./341284-take-something-literally.json) |
@@ -4269,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text and Drive: Friendship Never Dies | 131384 | [131384-text-and-drive-friendship-never-dies.json](./131384-text-and-drive-friendship-never-dies.json) |
 | Text Dungeon: The Ring of Life | 407450 | [407450-text-dungeon-the-ring-of-life.json](./407450-text-dungeon-the-ring-of-life.json) |
 | Text Express | 207031 | [207031-text-express.json](./207031-text-express.json) |
+| Text Express 2 | 385647 | [385647-text-express-2.json](./385647-text-express-2.json) |
 | Text me when you get home | 179890 | [179890-text-me-when-you-get-home.json](./179890-text-me-when-you-get-home.json) |
 | Text RPG | 169740 | [169740-text-rpg.json](./169740-text-rpg.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
@@ -10034,6 +10036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mullu | 353612 | [353612-the-last-mullu.json](./353612-the-last-mullu.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Night | 302799 | [302799-the-last-night.json](./302799-the-last-night.json) |
+| The Last Night | 385615 | [385615-the-last-night.json](./385615-the-last-night.json) |
 | The Last Night : The first invation | 98313 | [98313-the-last-night-the-first-invation.json](./98313-the-last-night-the-first-invation.json) |
 | The Last Ninja | 308996 | [308996-the-last-ninja.json](./308996-the-last-ninja.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
@@ -14717,6 +14720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tin Soldier | 327328 | [327328-the-tin-soldier.json](./327328-the-tin-soldier.json) |
 | The Tiny Bang Story | 15120 | [15120-the-tiny-bang-story.json](./15120-the-tiny-bang-story.json) |
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
+| The Tiny Chef Show: Cooking with Fwends | 385660 | [385660-the-tiny-chef-show-cooking-with-fwends.json](./385660-the-tiny-chef-show-cooking-with-fwends.json) |
 | The Tiny Tale 2 | 35975 | [35975-the-tiny-tale-2.json](./35975-the-tiny-tale-2.json) |
 | The Tiny Train Driver | 179591 | [179591-the-tiny-train-driver.json](./179591-the-tiny-train-driver.json) |
 | The Tipping Point | 286961 | [286961-the-tipping-point.json](./286961-the-tipping-point.json) |
@@ -15067,6 +15071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treflik Family: Deluxe Edition | 246883 | [246883-the-treflik-family-deluxe-edition.json](./246883-the-treflik-family-deluxe-edition.json) |
 | The Trench | 219669 | [219669-the-trench.json](./219669-the-trench.json) |
 | The Trial | 170383 | [170383-the-trial.json](./170383-the-trial.json) |
+| The Trial of Kharzoid | 385683 | [385683-the-trial-of-kharzoid.json](./385683-the-trial-of-kharzoid.json) |
 | The trial of witch | 80918 | [80918-the-trial-of-witch.json](./80918-the-trial-of-witch.json) |
 | The Trials | 172767 | [172767-the-trials.json](./172767-the-trials.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
@@ -16587,6 +16592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | Third Party | 184955 | [184955-third-party.json](./184955-third-party.json) |
+| Third Person Basketball Court | 385675 | [385675-third-person-basketball-court.json](./385675-third-person-basketball-court.json) |
 | Third Reich | 14518 | [14518-third-reich.json](./14518-third-reich.json) |
 | Third Reich PC | 138103 | [138103-third-reich-pc.json](./138103-third-reich-pc.json) |
 | Third Shift | 344998 | [344998-third-shift.json](./344998-third-shift.json) |
@@ -26042,6 +26048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropica: Survival 1095 | 244396 | [244396-tropica-survival-1095.json](./244396-tropica-survival-1095.json) |
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
+| Tropical Blessings | 385631 | [385631-tropical-blessings.json](./385631-tropical-blessings.json) |
 | Tropical Dragon Slaughter | 408055 | [408055-tropical-dragon-slaughter.json](./408055-tropical-dragon-slaughter.json) |
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
 | Tropical Farm | 24738 | [24738-tropical-farm.json](./24738-tropical-farm.json) |
