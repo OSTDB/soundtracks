@@ -3509,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
 | Seamspace: Minesweeper | 363359 | [363359-seamspace-minesweeper.json](./363359-seamspace-minesweeper.json) |
 | Seance | 156198 | [156198-seance.json](./156198-seance.json) |
+| Seance | 343733 | [343733-seance.json](./343733-seance.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
 | Seance: The Unquiet | 91201 | [91201-seance-the-unquiet.json](./91201-seance-the-unquiet.json) |
 | Seaport - Build & Prosper! | 88374 | [88374-seaport-build-and-prosper.json](./88374-seaport-build-and-prosper.json) |
@@ -7577,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot The Box | 410710 | [410710-shoot-the-box.json](./410710-shoot-the-box.json) |
 | Shoot the Bubbles Deluxe | 25839 | [25839-shoot-the-bubbles-deluxe.json](./25839-shoot-the-bubbles-deluxe.json) |
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
+| Shoot The Moon | 344028 | [344028-shoot-the-moon.json](./344028-shoot-the-moon.json) |
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
 | Shoot the Rocks | 28768 | [28768-shoot-the-rocks.json](./28768-shoot-the-rocks.json) |
 | Shoot the Wall | 340791 | [340791-shoot-the-wall.json](./340791-shoot-the-wall.json) |
@@ -13211,6 +13213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer for Arcadia 2001 | 131540 | [131540-soccer-for-arcadia-2001.json](./131540-soccer-for-arcadia-2001.json) |
 | Soccer Fury | 67788 | [67788-soccer-fury.json](./67788-soccer-fury.json) |
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
+| Soccer Golf! | 343714 | [343714-soccer-golf.json](./343714-soccer-golf.json) |
 | Soccer Hero 2019 | 223913 | [223913-soccer-hero-2019.json](./223913-soccer-hero-2019.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
@@ -20992,6 +20995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight of Aeons | 75080 | [75080-starlight-of-aeons.json](./75080-starlight-of-aeons.json) |
 | Starlight Re:Volver | 324573 | [324573-starlight-re-volver.json](./324573-starlight-re-volver.json) |
 | Starlight Riddles | 292993 | [292993-starlight-riddles.json](./292993-starlight-riddles.json) |
+| Starlight Squad | 343737 | [343737-starlight-squad.json](./343737-starlight-squad.json) |
 | Starlight Tactics | 35660 | [35660-starlight-tactics.json](./35660-starlight-tactics.json) |
 | StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
@@ -21809,6 +21813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Battalion: Line of Contact | 6174 | [6174-steel-battalion-line-of-contact.json](./6174-steel-battalion-line-of-contact.json) |
 | Steel Beasts: Pro - Personal Edition | 73588 | [73588-steel-beasts-pro-personal-edition.json](./73588-steel-beasts-pro-personal-edition.json) |
 | Steel Bounty | 381966 | [381966-steel-bounty.json](./381966-steel-bounty.json) |
+| Steel Carnelian | 344031 | [344031-steel-carnelian.json](./344031-steel-carnelian.json) |
 | Steel Century Groove: Midnight | 334462 | [334462-steel-century-groove-midnight.json](./334462-steel-century-groove-midnight.json) |
 | Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
 | Steel Chronicle | 340809 | [340809-steel-chronicle.json](./340809-steel-chronicle.json) |
