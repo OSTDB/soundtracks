@@ -4779,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
 | Overrun: Zombie Base Defense | 208024 | [208024-overrun-zombie-base-defense.json](./208024-overrun-zombie-base-defense.json) |
+| Overrust | 381072 | [381072-overrust.json](./381072-overrust.json) |
 | Oversaturation | 415012 | [415012-oversaturation.json](./415012-oversaturation.json) |
 | Overseer | 150454 | [150454-overseer.json](./150454-overseer.json) |
 | Overseer: Field Trials | 315127 | [315127-overseer-field-trials.json](./315127-overseer-field-trials.json) |
