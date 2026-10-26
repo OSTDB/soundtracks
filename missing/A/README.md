@@ -3347,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesop Rock's Black Hole Superette Experience | 346605 | [346605-aesop-rocks-black-hole-superette-experience.json](./346605-aesop-rocks-black-hole-superette-experience.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
+| Aestheta | 349742 | [349742-aestheta.json](./349742-aestheta.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aesthetic Melody | 28894 | [28894-aesthetic-melody.json](./28894-aesthetic-melody.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
@@ -13285,6 +13286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astranded | 317045 | [317045-astranded.json](./317045-astranded.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
 | Astraphia | 365592 | [365592-astraphia.json](./365592-astraphia.json) |
+| Astraphobia | 349746 | [349746-astraphobia.json](./349746-astraphobia.json) |
 | Astraverse | 163794 | [163794-astraverse.json](./163794-astraverse.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
 | AstraX | 201512 | [201512-astrax.json](./201512-astrax.json) |
@@ -13971,6 +13973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ato | 132309 | [132309-ato.json](./132309-ato.json) |
 | Atoll: The Last Ghost | 186644 | [186644-atoll-the-last-ghost.json](./186644-atoll-the-last-ghost.json) |
 | Atolladero | 275208 | [275208-atolladero.json](./275208-atolladero.json) |
+| Atollo | 349731 | [349731-atollo.json](./349731-atollo.json) |
 | Atom | 245285 | [245285-atom.json](./245285-atom.json) |
 | Atom | 42154 | [42154-atom.json](./42154-atom.json) |
 | Atom Antics | 243178 | [243178-atom-antics.json](./243178-atom-antics.json) |
