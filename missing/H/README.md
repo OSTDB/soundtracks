@@ -7951,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honour & Freedom II Power Enhanced Edition | 283088 | [283088-honour-and-freedom-ii-power-enhanced-edition.json](./283088-honour-and-freedom-ii-power-enhanced-edition.json) |
 | Honour Runs | 159554 | [159554-honour-runs.json](./159554-honour-runs.json) |
 | Honourbound | 61999 | [61999-honourbound.json](./61999-honourbound.json) |
+| HonRang | 382248 | [382248-honrang.json](./382248-honrang.json) |
 | Honshougi: Naitou 9 Dan Shougi Hiden | 267667 | [267667-honshougi-naitou-9-dan-shougi-hiden.json](./267667-honshougi-naitou-9-dan-shougi-hiden.json) |
 | Honton Tange | 97998 | [97998-honton-tange.json](./97998-honton-tange.json) |
 | Hontou ni Atta Real Otogi-banashi | 251611 | [251611-hontou-ni-atta-real-otogi-banashi.json](./251611-hontou-ni-atta-real-otogi-banashi.json) |
