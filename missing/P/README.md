@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddles! Pong edition | 102621 | [102621-paddles-pong-edition.json](./102621-paddles-pong-edition.json) |
 | PaddleSpace | 60954 | [60954-paddlespace.json](./60954-paddlespace.json) |
 | Paddock Note '95 | 268522 | [268522-paddock-note-95.json](./268522-paddock-note-95.json) |
+| Paddy the Penguin | 358622 | [358622-paddy-the-penguin.json](./358622-paddy-the-penguin.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
@@ -13252,6 +13253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
 | Project Knoxville | 59716 | [59716-project-knoxville.json](./59716-project-knoxville.json) |
 | Project Kolo | 187817 | [187817-project-kolo.json](./187817-project-kolo.json) |
+| Project Kouvola | 358741 | [358741-project-kouvola.json](./358741-project-kouvola.json) |
 | Project Kunai | 188474 | [188474-project-kunai.json](./188474-project-kunai.json) |
 | Project Kunlun | 368051 | [368051-project-kunlun.json](./368051-project-kunlun.json) |
 | Project Kyzen | 312960 | [312960-project-kyzen.json](./312960-project-kyzen.json) |
