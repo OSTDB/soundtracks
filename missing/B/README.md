@@ -799,7 +799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6252,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Pharma | 24396 | [24396-big-pharma.json](./24396-big-pharma.json) |
 | Big Pharma: Marketing and Malpractice | 154418 | [154418-big-pharma-marketing-and-malpractice.json](./154418-big-pharma-marketing-and-malpractice.json) |
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
+| Big Pixel Racing | 384023 | [384023-big-pixel-racing.json](./384023-big-pixel-racing.json) |
 | Big Quest 2: the Adventure | 163738 | [163738-big-quest-2-the-adventure.json](./163738-big-quest-2-the-adventure.json) |
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Red Racing | 19233 | [19233-big-red-racing.json](./19233-big-red-racing.json) |
@@ -6868,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
 | Biotype | 403643 | [403643-biotype.json](./403643-biotype.json) |
+| Biovoid | 384042 | [384042-biovoid.json](./384042-biovoid.json) |
 | Bioweaver | 318281 | [318281-bioweaver.json](./318281-bioweaver.json) |
 | Biozone | 90472 | [90472-biozone.json](./90472-biozone.json) |
 | Bip + Bop | 207024 | [207024-bip-bop.json](./207024-bip-bop.json) |
@@ -10266,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bold Blade | 81010 | [81010-bold-blade.json](./81010-bold-blade.json) |
 | Bold New World | 29726 | [29726-bold-new-world.json](./29726-bold-new-world.json) |
 | Bold: Networked Newt Action | 397821 | [397821-bold-networked-newt-action.json](./397821-bold-networked-newt-action.json) |
+| Boldly Forward | 383997 | [383997-boldly-forward.json](./383997-boldly-forward.json) |
 | Bolek i Lolek: Język angielski dla najmłodszych | 351832 | [351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json](./351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json) |
 | Bolek i Lolek: Tajemnicze Zamczysko | 218514 | [218514-bolek-i-lolek-tajemnicze-zamczysko.json](./218514-bolek-i-lolek-tajemnicze-zamczysko.json) |
 | Bolf | 125066 | [125066-bolf.json](./125066-bolf.json) |
