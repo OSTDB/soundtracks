@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T05:05:27.000Z",
-  "total_missing": 263636,
+  "generated_at": "2026-10-26T05:18:53.758Z",
+  "total_missing": 263686,
   "games": [
     {
       "igdb_id": 191680,
@@ -13700,6 +13700,11 @@
       "igdb_id": 377396,
       "game_name": "8AM: The Swimming Pool",
       "file": "missing/0-9/377396-8am-the-swimming-pool.json"
+    },
+    {
+      "igdb_id": 375238,
+      "game_name": "8AM: The Warehouse",
+      "file": "missing/0-9/375238-8am-the-warehouse.json"
     },
     {
       "igdb_id": 55079,
@@ -78902,6 +78907,11 @@
       "file": "missing/A/82637-assortment.json"
     },
     {
+      "igdb_id": 375221,
+      "game_name": "Assslash!",
+      "file": "missing/A/375221-assslash.json"
+    },
+    {
       "igdb_id": 178444,
       "game_name": "Assualt cube",
       "file": "missing/A/178444-assualt-cube.json"
@@ -121012,6 +121022,11 @@
       "file": "missing/B/100687-bible-trivia-jumble.json"
     },
     {
+      "igdb_id": 375241,
+      "game_name": "Bible Trivia: Alchemy",
+      "file": "missing/B/375241-bible-trivia-alchemy.json"
+    },
+    {
       "igdb_id": 317848,
       "game_name": "Bible Verse Challenge",
       "file": "missing/B/317848-bible-verse-challenge.json"
@@ -138740,6 +138755,11 @@
       "igdb_id": 370981,
       "game_name": "Blossom: The Seed of Life",
       "file": "missing/B/370981-blossom-the-seed-of-life.json"
+    },
+    {
+      "igdb_id": 375208,
+      "game_name": "Blossoming Ruins",
+      "file": "missing/B/375208-blossoming-ruins.json"
     },
     {
       "igdb_id": 114115,
@@ -165882,6 +165902,11 @@
       "file": "missing/B/58541-bushido-bear.json"
     },
     {
+      "igdb_id": 375251,
+      "game_name": "Bushido Kensei: The Last Warrior",
+      "file": "missing/B/375251-bushido-kensei-the-last-warrior.json"
+    },
+    {
       "igdb_id": 57469,
       "game_name": "Bushido Panda",
       "file": "missing/B/57469-bushido-panda.json"
@@ -183165,6 +183190,11 @@
       "igdb_id": 114073,
       "game_name": "Cat and Ghostly Road",
       "file": "missing/C/114073-cat-and-ghostly-road.json"
+    },
+    {
+      "igdb_id": 375203,
+      "game_name": "Cat and Isle of Stars",
+      "file": "missing/C/375203-cat-and-isle-of-stars.json"
     },
     {
       "igdb_id": 301620,
@@ -272212,6 +272242,11 @@
       "file": "missing/D/23243-death-in-the-caribbean.json"
     },
     {
+      "igdb_id": 375227,
+      "game_name": "Death in the Manor",
+      "file": "missing/D/375227-death-in-the-manor.json"
+    },
+    {
       "igdb_id": 215538,
       "game_name": "Death in the Night",
       "file": "missing/D/215538-death-in-the-night.json"
@@ -295857,6 +295892,11 @@
       "file": "missing/D/332991-disguised-blessing.json"
     },
     {
+      "igdb_id": 375215,
+      "game_name": "Disguiser",
+      "file": "missing/D/375215-disguiser.json"
+    },
+    {
       "igdb_id": 232941,
       "game_name": "Disgusting Puzzle 2",
       "file": "missing/D/232941-disgusting-puzzle-2.json"
@@ -314397,6 +314437,11 @@
       "file": "missing/D/307191-dragon-ball-sparking-zero-ultimate-edition.json"
     },
     {
+      "igdb_id": 375147,
+      "game_name": "Dragon Ball: Sparking! Zero - Ultimate Edition Bonus",
+      "file": "missing/D/375147-dragon-ball-sparking-zero-ultimate-edition-bonus.json"
+    },
+    {
       "igdb_id": 174895,
       "game_name": "Dragon Ball: Strongest Warrior",
       "file": "missing/D/174895-dragon-ball-strongest-warrior.json"
@@ -325927,6 +325972,11 @@
       "file": "missing/D/71418-duckman-the-graphic-adventures-of-a-private-dick.json"
     },
     {
+      "igdb_id": 375219,
+      "game_name": "Duckoleon",
+      "file": "missing/D/375219-duckoleon.json"
+    },
+    {
       "igdb_id": 31767,
       "game_name": "Duckpocalypse",
       "file": "missing/D/31767-duckpocalypse.json"
@@ -331265,6 +331315,11 @@
       "igdb_id": 65789,
       "game_name": "Duped",
       "file": "missing/D/65789-duped.json"
+    },
+    {
+      "igdb_id": 375229,
+      "game_name": "Dupery: A Game of Solo Deduction",
+      "file": "missing/D/375229-dupery-a-game-of-solo-deduction.json"
     },
     {
       "igdb_id": 89076,
@@ -336710,6 +336765,11 @@
       "igdb_id": 97831,
       "game_name": "Ecchi na Seed",
       "file": "missing/E/97831-ecchi-na-seed.json"
+    },
+    {
+      "igdb_id": 375141,
+      "game_name": "Ecchi Numbers",
+      "file": "missing/E/375141-ecchi-numbers.json"
     },
     {
       "igdb_id": 324433,
@@ -366122,6 +366182,11 @@
       "file": "missing/E/397702-expeditions-a-mudrunner-game-season-3-icy-shores.json"
     },
     {
+      "igdb_id": 375146,
+      "game_name": "Expeditions: A MudRunner Game - Season 4: Amber Dusk",
+      "file": "missing/E/375146-expeditions-a-mudrunner-game-season-4-amber-dusk.json"
+    },
+    {
       "igdb_id": 280667,
       "game_name": "Expeditions: A MudRunner Game - Supreme Edition",
       "file": "missing/E/280667-expeditions-a-mudrunner-game-supreme-edition.json"
@@ -393212,6 +393277,11 @@
       "file": "missing/F/31170-fire-in-the-goal.json"
     },
     {
+      "igdb_id": 375228,
+      "game_name": "Fire in the Hole",
+      "file": "missing/F/375228-fire-in-the-hole.json"
+    },
+    {
       "igdb_id": 381019,
       "game_name": "Fire in the Hole",
       "file": "missing/F/381019-fire-in-the-hole.json"
@@ -397260,6 +397330,11 @@
       "igdb_id": 72525,
       "game_name": "Five Magical Amulets",
       "file": "missing/F/72525-five-magical-amulets.json"
+    },
+    {
+      "igdb_id": 375218,
+      "game_name": "Five More Minutes",
+      "file": "missing/F/375218-five-more-minutes.json"
     },
     {
       "igdb_id": 374759,
@@ -407500,6 +407575,16 @@
       "igdb_id": 256746,
       "game_name": "For Honor: Year 1 - Heroes Bundle",
       "file": "missing/F/256746-for-honor-year-1-heroes-bundle.json"
+    },
+    {
+      "igdb_id": 375240,
+      "game_name": "For Honor: Yokai Banishers - Hero Skin Bundle",
+      "file": "missing/F/375240-for-honor-yokai-banishers-hero-skin-bundle.json"
+    },
+    {
+      "igdb_id": 375239,
+      "game_name": "For Honor: Yoshiro the Damned - Orochi Hero Skin",
+      "file": "missing/F/375239-for-honor-yoshiro-the-damned-orochi-hero-skin.json"
     },
     {
       "igdb_id": 216276,
@@ -444192,6 +444277,11 @@
       "file": "missing/G/128363-gibo-sayaka.json"
     },
     {
+      "igdb_id": 375220,
+      "game_name": "Gibson",
+      "file": "missing/G/375220-gibson.json"
+    },
+    {
       "igdb_id": 299848,
       "game_name": "Gibtropolis",
       "file": "missing/G/299848-gibtropolis.json"
@@ -451090,6 +451180,11 @@
       "igdb_id": 277267,
       "game_name": "God For A Day",
       "file": "missing/G/277267-god-for-a-day.json"
+    },
+    {
+      "igdb_id": 375213,
+      "game_name": "God Forsaken",
+      "file": "missing/G/375213-god-forsaken.json"
     },
     {
       "igdb_id": 150432,
@@ -467680,6 +467775,11 @@
       "igdb_id": 358820,
       "game_name": "Growth",
       "file": "missing/G/358820-growth.json"
+    },
+    {
+      "igdb_id": 375204,
+      "game_name": "Growth",
+      "file": "missing/G/375204-growth.json"
     },
     {
       "igdb_id": 391148,
@@ -505880,6 +505980,11 @@
       "igdb_id": 292832,
       "game_name": "Highrise",
       "file": "missing/H/292832-highrise.json"
+    },
+    {
+      "igdb_id": 375211,
+      "game_name": "Highrise",
+      "file": "missing/H/375211-highrise.json"
     },
     {
       "igdb_id": 147440,
@@ -550922,6 +551027,11 @@
       "file": "missing/I/335071-irene-journey-to-the-north.json"
     },
     {
+      "igdb_id": 375225,
+      "game_name": "Irezumi Defenders",
+      "file": "missing/I/375225-irezumi-defenders.json"
+    },
+    {
       "igdb_id": 145580,
       "game_name": "Irheobeorin Jeguk",
       "file": "missing/I/145580-irheobeorin-jeguk.json"
@@ -560262,6 +560372,11 @@
       "file": "missing/J/202545-jelly-forest.json"
     },
     {
+      "igdb_id": 375142,
+      "game_name": "Jelly Form",
+      "file": "missing/J/375142-jelly-form.json"
+    },
+    {
       "igdb_id": 262099,
       "game_name": "Jelly Fruits Adventure: Magic Match 3 Puzzle",
       "file": "missing/J/262099-jelly-fruits-adventure-magic-match-3-puzzle.json"
@@ -566625,6 +566740,11 @@
       "igdb_id": 304779,
       "game_name": "Johnny Trigger: Lunatic Edition",
       "file": "missing/J/304779-johnny-trigger-lunatic-edition.json"
+    },
+    {
+      "igdb_id": 375143,
+      "game_name": "Johnny Trigger: Triple Rebel Edition",
+      "file": "missing/J/375143-johnny-trigger-triple-rebel-edition.json"
     },
     {
       "igdb_id": 331374,
@@ -709312,6 +709432,11 @@
       "file": "missing/M/224487-monster-prom-3-monster-roadtrip-playable-character-hazel.json"
     },
     {
+      "igdb_id": 375226,
+      "game_name": "Monster Prom 3: Monster Roadtrip - Playable Character Jacqueline",
+      "file": "missing/M/375226-monster-prom-3-monster-roadtrip-playable-character-jacqueline.json"
+    },
+    {
       "igdb_id": 224482,
       "game_name": "Monster Prom 3: Monster Roadtrip - Playable Character Juan",
       "file": "missing/M/224482-monster-prom-3-monster-roadtrip-playable-character-juan.json"
@@ -776347,6 +776472,21 @@
       "file": "missing/O/377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json"
     },
     {
+      "igdb_id": 375236,
+      "game_name": "Once Upon a Katamari: Katamari Damacy Series Songs - Side A",
+      "file": "missing/O/375236-once-upon-a-katamari-katamari-damacy-series-songs-side-a.json"
+    },
+    {
+      "igdb_id": 375234,
+      "game_name": "Once Upon a Katamari: Katamari Damacy Series Songs - Side B",
+      "file": "missing/O/375234-once-upon-a-katamari-katamari-damacy-series-songs-side-b.json"
+    },
+    {
+      "igdb_id": 375235,
+      "game_name": "Once Upon a Katamari: Katamari Damacy Series Songs - Sides A + B Bundle",
+      "file": "missing/O/375235-once-upon-a-katamari-katamari-damacy-series-songs-sides-a-b-bundle.json"
+    },
+    {
       "igdb_id": 358665,
       "game_name": "Once Upon A Katamari: King of All Sounds Edition",
       "file": "missing/O/358665-once-upon-a-katamari-king-of-all-sounds-edition.json"
@@ -781390,6 +781530,11 @@
       "igdb_id": 284259,
       "game_name": "Open Road First Front S",
       "file": "missing/O/284259-open-road-first-front-s.json"
+    },
+    {
+      "igdb_id": 375216,
+      "game_name": "Open Robot",
+      "file": "missing/O/375216-open-robot.json"
     },
     {
       "igdb_id": 343918,
@@ -804660,6 +804805,11 @@
       "igdb_id": 75573,
       "game_name": "Path of Exile: Forsaken Masters",
       "file": "missing/P/75573-path-of-exile-forsaken-masters.json"
+    },
+    {
+      "igdb_id": 375214,
+      "game_name": "Path of Exile: Keepers of the Flame",
+      "file": "missing/P/375214-path-of-exile-keepers-of-the-flame.json"
     },
     {
       "igdb_id": 332030,
@@ -888057,6 +888207,11 @@
       "file": "missing/R/380720-real-boxing-2-remastered-mark-rouser-dlc.json"
     },
     {
+      "igdb_id": 375144,
+      "game_name": "Real Boxing 2: Remastered - Masaru & Maywinner Edition",
+      "file": "missing/R/375144-real-boxing-2-remastered-masaru-and-maywinner-edition.json"
+    },
+    {
       "igdb_id": 393069,
       "game_name": "Real Boxing 2: Remastered - Maverick DLC",
       "file": "missing/R/393069-real-boxing-2-remastered-maverick-dlc.json"
@@ -894435,6 +894590,11 @@
       "igdb_id": 312178,
       "game_name": "Refarm",
       "file": "missing/R/312178-refarm.json"
+    },
+    {
+      "igdb_id": 375209,
+      "game_name": "Refate: Echoes of Desire",
+      "file": "missing/R/375209-refate-echoes-of-desire.json"
     },
     {
       "igdb_id": 392272,
@@ -982472,6 +982632,11 @@
       "file": "missing/S/186571-sky-games.json"
     },
     {
+      "igdb_id": 375145,
+      "game_name": "Sky Games: Gold Edition",
+      "file": "missing/S/375145-sky-games-gold-edition.json"
+    },
+    {
       "igdb_id": 208948,
       "game_name": "Sky Garden",
       "file": "missing/S/208948-sky-garden.json"
@@ -988520,6 +988685,11 @@
       "igdb_id": 176925,
       "game_name": "Slumber Party",
       "file": "missing/S/176925-slumber-party.json"
+    },
+    {
+      "igdb_id": 375224,
+      "game_name": "Slumber Party",
+      "file": "missing/S/375224-slumber-party.json"
     },
     {
       "igdb_id": 226622,
@@ -1032867,6 +1033037,11 @@
       "file": "missing/S/114-star-wars-the-old-republic.json"
     },
     {
+      "igdb_id": 375222,
+      "game_name": "Star Wars: The Old Republic - Enter the Fight",
+      "file": "missing/S/375222-star-wars-the-old-republic-enter-the-fight.json"
+    },
+    {
       "igdb_id": 22656,
       "game_name": "Star Wars: The Old Republic - Galactic Starfighter",
       "file": "missing/S/22656-star-wars-the-old-republic-galactic-starfighter.json"
@@ -1056250,6 +1056425,11 @@
       "igdb_id": 201244,
       "game_name": "Sunset Mall: Classic",
       "file": "missing/S/201244-sunset-mall-classic.json"
+    },
+    {
+      "igdb_id": 375207,
+      "game_name": "Sunset Moon",
+      "file": "missing/S/375207-sunset-moon.json"
     },
     {
       "igdb_id": 264611,
@@ -1120272,6 +1120452,16 @@
       "file": "missing/T/294006-the-finals-bank-rabbit-set.json"
     },
     {
+      "igdb_id": 375248,
+      "game_name": "The Finals: FNATIC TGM25",
+      "file": "missing/T/375248-the-finals-fnatic-tgm25.json"
+    },
+    {
+      "igdb_id": 375246,
+      "game_name": "The Finals: GEN. G TGM25",
+      "file": "missing/T/375246-the-finals-gen-g-tgm25.json"
+    },
+    {
       "igdb_id": 279659,
       "game_name": "The Finals: Season 1",
       "file": "missing/T/279659-the-finals-season-1.json"
@@ -1120305,6 +1120495,31 @@
       "igdb_id": 381152,
       "game_name": "The Finals: Season 9 - Dragon Rising",
       "file": "missing/T/381152-the-finals-season-9-dragon-rising.json"
+    },
+    {
+      "igdb_id": 375245,
+      "game_name": "The Finals: Team Secret TGM25",
+      "file": "missing/T/375245-the-finals-team-secret-tgm25.json"
+    },
+    {
+      "igdb_id": 375243,
+      "game_name": "The Finals: The Apothecarion Set",
+      "file": "missing/T/375243-the-finals-the-apothecarion-set.json"
+    },
+    {
+      "igdb_id": 375242,
+      "game_name": "The Finals: The Chirurgeon Set",
+      "file": "missing/T/375242-the-finals-the-chirurgeon-set.json"
+    },
+    {
+      "igdb_id": 375247,
+      "game_name": "The Finals: TSM TGM25",
+      "file": "missing/T/375247-the-finals-tsm-tgm25.json"
+    },
+    {
+      "igdb_id": 375244,
+      "game_name": "The Finals: Vanguard TGM25",
+      "file": "missing/T/375244-the-finals-vanguard-tgm25.json"
     },
     {
       "igdb_id": 326989,
@@ -1140245,6 +1140460,11 @@
       "igdb_id": 32491,
       "game_name": "The Night Cafe",
       "file": "missing/T/32491-the-night-cafe.json"
+    },
+    {
+      "igdb_id": 375210,
+      "game_name": "The Night Crawler",
+      "file": "missing/T/375210-the-night-crawler.json"
     },
     {
       "igdb_id": 134493,
@@ -1179220,6 +1179440,11 @@
       "igdb_id": 244629,
       "game_name": "Tiny Terrariums",
       "file": "missing/T/244629-tiny-terrariums.json"
+    },
+    {
+      "igdb_id": 375205,
+      "game_name": "Tiny Terrors",
+      "file": "missing/T/375205-tiny-terrors.json"
     },
     {
       "igdb_id": 28295,
@@ -1235887,6 +1236112,11 @@
       "file": "missing/U/258704-uvsu.json"
     },
     {
+      "igdb_id": 375250,
+      "game_name": "UvsU: You vs. You",
+      "file": "missing/U/375250-uvsu-you-vs-you.json"
+    },
+    {
       "igdb_id": 341650,
       "game_name": "Uwaiteru",
       "file": "missing/U/341650-uwaiteru.json"
@@ -1238515,6 +1238745,11 @@
       "igdb_id": 126469,
       "game_name": "Vampire Hunter D",
       "file": "missing/V/126469-vampire-hunter-d.json"
+    },
+    {
+      "igdb_id": 375237,
+      "game_name": "Vampire Hunter: Nightrise",
+      "file": "missing/V/375237-vampire-hunter-nightrise.json"
     },
     {
       "igdb_id": 244759,
@@ -1280572,6 +1280807,11 @@
       "file": "missing/W/391717-witchs-apocalyptic-journey.json"
     },
     {
+      "igdb_id": 375212,
+      "game_name": "Witch's Brew: Love and Lattes",
+      "file": "missing/W/375212-witchs-brew-love-and-lattes.json"
+    },
+    {
       "igdb_id": 83870,
       "game_name": "Witch's Cat",
       "file": "missing/W/83870-witchs-cat.json"
@@ -1301352,6 +1301592,11 @@
       "file": "missing/Y/176209-yogkart.json"
     },
     {
+      "igdb_id": 375233,
+      "game_name": "YogLabs: Testing Initiative",
+      "file": "missing/Y/375233-yoglabs-testing-initiative.json"
+    },
+    {
       "igdb_id": 320178,
       "game_name": "Yogoe Hunter",
       "file": "missing/Y/320178-yogoe-hunter.json"
@@ -1308345,6 +1308590,11 @@
       "igdb_id": 92810,
       "game_name": "Zaero for Quake II",
       "file": "missing/Z/92810-zaero-for-quake-ii.json"
+    },
+    {
+      "igdb_id": 375223,
+      "game_name": "Zaetherfall",
+      "file": "missing/Z/375223-zaetherfall.json"
     },
     {
       "igdb_id": 316423,
