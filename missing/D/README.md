@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Hobby | 187732 | [187732-dangerous-hobby.json](./187732-dangerous-hobby.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
+| Dangerous Lands | 344583 | [344583-dangerous-lands.json](./344583-dangerous-lands.json) |
 | Dangerous Lands 2 | 161204 | [161204-dangerous-lands-2.json](./161204-dangerous-lands-2.json) |
 | Dangerous Level | 82348 | [82348-dangerous-level.json](./82348-dangerous-level.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
@@ -4106,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Memories | 344409 | [344409-decaying-memories.json](./344409-decaying-memories.json) |
 | Decaying Orbit | 266643 | [266643-decaying-orbit.json](./266643-decaying-orbit.json) |
+| Decaying West | 344268 | [344268-decaying-west.json](./344268-decaying-west.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceased | 149711 | [149711-deceased.json](./149711-deceased.json) |
 | Deceased.cable | 318158 | [318158-deceased-cable.json](./318158-deceased-cable.json) |
@@ -4913,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
 | DeIz | 236805 | [236805-deiz.json](./236805-deiz.json) |
 | Déjà Boom | 364657 | [364657-deja-boom.json](./364657-deja-boom.json) |
+| Deja View: A Spot the Difference Game | 344290 | [344290-deja-view-a-spot-the-difference-game.json](./344290-deja-view-a-spot-the-difference-game.json) |
 | Deja Vu | 229690 | [229690-deja-vu.json](./229690-deja-vu.json) |
 | Déjà Vu | 193653 | [193653-deja-vu.json](./193653-deja-vu.json) |
 | Deja Vu 2: Lost in Las Vegas!! | 12418 | [12418-deja-vu-2-lost-in-las-vegas.json](./12418-deja-vu-2-lost-in-las-vegas.json) |
@@ -5467,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Rise: War for the Deep | 99656 | [99656-demons-rise-war-for-the-deep.json](./99656-demons-rise-war-for-the-deep.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
 | Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
+| Demon's Souls: Red-Eye Knight Armor | 344306 | [344306-demons-souls-red-eye-knight-armor.json](./344306-demons-souls-red-eye-knight-armor.json) |
 | Demon's Sword | 127653 | [127653-demons-sword.json](./127653-demons-sword.json) |
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
 | Demon's Tilt | 106363 | [106363-demons-tilt.json](./106363-demons-tilt.json) |
@@ -8162,6 +8166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dire | 182830 | [182830-dire.json](./182830-dire.json) |
 | Dire Decks | 287495 | [287495-dire-decks.json](./287495-dire-decks.json) |
 | Dire Destiny: Time Travel | 217227 | [217227-dire-destiny-time-travel.json](./217227-dire-destiny-time-travel.json) |
+| Dire Destiny: Time Travel - Tech Knight | 344272 | [344272-dire-destiny-time-travel-tech-knight.json](./344272-dire-destiny-time-travel-tech-knight.json) |
 | Dire Destiny: Time Travel-Gambler | 246841 | [246841-dire-destiny-time-travel-gambler.json](./246841-dire-destiny-time-travel-gambler.json) |
 | Dire Destiny: Time Travel-Mech Pilot | 246842 | [246842-dire-destiny-time-travel-mech-pilot.json](./246842-dire-destiny-time-travel-mech-pilot.json) |
 | Dire Echo | 376541 | [376541-dire-echo.json](./376541-dire-echo.json) |
@@ -11030,6 +11035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
 | Doomsday Picnic RPG | 288652 | [288652-doomsday-picnic-rpg.json](./288652-doomsday-picnic-rpg.json) |
+| Doomsday Preppers | 344291 | [344291-doomsday-preppers.json](./344291-doomsday-preppers.json) |
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
 | Doomsday Scavenger | 195942 | [195942-doomsday-scavenger.json](./195942-doomsday-scavenger.json) |
 | Doomsday School | 345390 | [345390-doomsday-school.json](./345390-doomsday-school.json) |
