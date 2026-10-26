@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
 | Made to be Crushed | 152625 | [152625-made-to-be-crushed.json](./152625-made-to-be-crushed.json) |
 | Made to Order | 103230 | [103230-made-to-order.json](./103230-made-to-order.json) |
+| Made VR | 380496 | [380496-made-vr.json](./380496-made-vr.json) |
 | Madela | 127859 | [127859-madela.json](./127859-madela.json) |
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
@@ -7569,6 +7570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
 | MeowFall | 310074 | [310074-meowfall.json](./310074-meowfall.json) |
 | Meowgic | 394435 | [394435-meowgic.json](./394435-meowgic.json) |
+| Meowgic Mix | 380504 | [380504-meowgic-mix.json](./380504-meowgic-mix.json) |
 | MeowGun: Hell Denizen | 244190 | [244190-meowgun-hell-denizen.json](./244190-meowgun-hell-denizen.json) |
 | Meowhiss the Snake | 292761 | [292761-meowhiss-the-snake.json](./292761-meowhiss-the-snake.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
@@ -7767,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merged Gravity Redux | 241790 | [241790-merged-gravity-redux.json](./241790-merged-gravity-redux.json) |
 | Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
+| MergeVille | 380500 | [380500-mergeville.json](./380500-mergeville.json) |
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
 | Mergical Fun: Match Island | 220199 | [220199-mergical-fun-match-island.json](./220199-mergical-fun-match-island.json) |
 | Mergimals | 98793 | [98793-mergimals.json](./98793-mergimals.json) |
@@ -8793,6 +8796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microids Indie Bundle | 247359 | [247359-microids-indie-bundle.json](./247359-microids-indie-bundle.json) |
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
+| Microlandia | 380458 | [380458-microlandia.json](./380458-microlandia.json) |
 | MicroLeague Baseball | 50383 | [50383-microleague-baseball.json](./50383-microleague-baseball.json) |
 | Microleague Baseball 4 | 51372 | [51372-microleague-baseball-4.json](./51372-microleague-baseball-4.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
@@ -17603,6 +17607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Wife Serves the King | 385243 | [385243-my-wife-serves-the-king.json](./385243-my-wife-serves-the-king.json) |
 | My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
 | My Wife Wants to Be a Professional Cosplayer?! | 380787 | [380787-my-wife-wants-to-be-a-professional-cosplayer.json](./380787-my-wife-wants-to-be-a-professional-cosplayer.json) |
+| My Winter Drive | 380505 | [380505-my-winter-drive.json](./380505-my-winter-drive.json) |
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
 | My Wolf Girlfriend | 206199 | [206199-my-wolf-girlfriend.json](./206199-my-wolf-girlfriend.json) |
 | My Woods | 335652 | [335652-my-woods.json](./335652-my-woods.json) |
