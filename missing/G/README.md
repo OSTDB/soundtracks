@@ -6077,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossip & Potions: Tales from the Witch Shop | 276669 | [276669-gossip-and-potions-tales-from-the-witch-shop.json](./276669-gossip-and-potions-tales-from-the-witch-shop.json) |
 | Gossip Girl: Party | 238903 | [238903-gossip-girl-party.json](./238903-gossip-girl-party.json) |
 | Gossip Harbor: Merge Game | 212511 | [212511-gossip-harbor-merge-game.json](./212511-gossip-harbor-merge-game.json) |
+| Gossipdle | 378256 | [378256-gossipdle.json](./378256-gossipdle.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
 | Gost! Buster | 339153 | [339153-gost-buster.json](./339153-gost-buster.json) |
 | GoSub | 78517 | [78517-gosub.json](./78517-gosub.json) |
