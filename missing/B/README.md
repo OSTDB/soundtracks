@@ -13171,6 +13171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Player | 13443 | [13443-bridge-player.json](./13443-bridge-player.json) |
 | Bridge Player 3 | 13442 | [13442-bridge-player-3.json](./13442-bridge-player-3.json) |
 | Bridge Quest | 280715 | [280715-bridge-quest.json](./280715-bridge-quest.json) |
+| Bridge Race: Complete Edition | 343703 | [343703-bridge-race-complete-edition.json](./343703-bridge-race-complete-edition.json) |
 | Bridge Race: Horror Edition | 376249 | [376249-bridge-race-horror-edition.json](./376249-bridge-race-horror-edition.json) |
 | Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
 | Bridge Race: Rush Edition | 347319 | [347319-bridge-race-rush-edition.json](./347319-bridge-race-rush-edition.json) |
@@ -13265,6 +13266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightest | 82353 | [82353-brightest.json](./82353-brightest.json) |
 | Brightest Star | 369621 | [369621-brightest-star.json](./369621-brightest-star.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
+| BrightGunner | 343585 | [343585-brightgunner.json](./343585-brightgunner.json) |
 | Brightside | 404695 | [404695-brightside.json](./404695-brightside.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
@@ -13973,6 +13975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Town 2 | 66429 | [66429-bubble-town-2.json](./66429-bubble-town-2.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
+| Bubble Trouble: Adventures | 343726 | [343726-bubble-trouble-adventures.json](./343726-bubble-trouble-adventures.json) |
 | Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
 | Bubble Witch 3 Saga | 78386 | [78386-bubble-witch-3-saga.json](./78386-bubble-witch-3-saga.json) |
