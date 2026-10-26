@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Hearts City | 331383 | [331383-neon-hearts-city.json](./331383-neon-hearts-city.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Hockey | 63176 | [63176-neon-hockey.json](./63176-neon-hockey.json) |
+| Neon Hyperdrive | 356008 | [356008-neon-hyperdrive.json](./356008-neon-hyperdrive.json) |
 | Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
 | Neon Inferno | 322701 | [322701-neon-inferno.json](./322701-neon-inferno.json) |
@@ -2733,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New English Training: Learning with Tempo - Beginners Edition | 260944 | [260944-new-english-training-learning-with-tempo-beginners-edition.json](./260944-new-english-training-learning-with-tempo-beginners-edition.json) |
 | New Era | 135862 | [135862-new-era.json](./135862-new-era.json) |
 | New Era Mod | 403058 | [403058-new-era-mod.json](./403058-new-era-mod.json) |
+| New Era Old World | 355997 | [355997-new-era-old-world.json](./355997-new-era-old-world.json) |
 | New Era Old World | 397812 | [397812-new-era-old-world.json](./397812-new-era-old-world.json) |
 | New Eyes Cycle | 374273 | [374273-new-eyes-cycle.json](./374273-new-eyes-cycle.json) |
 | New Face On The Block | 388185 | [388185-new-face-on-the-block.json](./388185-new-face-on-the-block.json) |
