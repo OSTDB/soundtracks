@@ -4712,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
 | Liquid Metal: Alien Attack | 56565 | [56565-liquid-metal-alien-attack.json](./56565-liquid-metal-alien-attack.json) |
 | Liquid Metal: Arena | 184830 | [184830-liquid-metal-arena.json](./184830-liquid-metal-arena.json) |
+| Liquid Peak: Offroad | 349743 | [349743-liquid-peak-offroad.json](./349743-liquid-peak-offroad.json) |
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
 | Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
 | Liquid Space | 264554 | [264554-liquid-space.json](./264554-liquid-space.json) |
