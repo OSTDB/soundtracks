@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Pack | 68951 | [68951-pac-pack.json](./68951-pac-pack.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
 | Pac the Man 2 | 78960 | [78960-pac-the-man-2.json](./78960-pac-the-man-2.json) |
+| Pac vs Ghosts | 371207 | [371207-pac-vs-ghosts.json](./371207-pac-vs-ghosts.json) |
 | Pac-01 | 267566 | [267566-pac-01.json](./267566-pac-01.json) |
 | Pac-Athlon | 320352 | [320352-pac-athlon.json](./320352-pac-athlon.json) |
 | Pac-Attack | 239188 | [239188-pac-attack.json](./239188-pac-attack.json) |
@@ -9692,6 +9693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | PokéSnake | 171293 | [171293-pokesnake.json](./171293-pokesnake.json) |
+| Poket Legion | 371283 | [371283-poket-legion.json](./371283-poket-legion.json) |
 | Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
 | Poketan | 70064 | [70064-poketan.json](./70064-poketan.json) |
 | Poketibia | 356024 | [356024-poketibia.json](./356024-poketibia.json) |
