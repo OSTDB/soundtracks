@@ -4584,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkling | 390061 | [390061-linkling.json](./390061-linkling.json) |
 | Linko: Relaxing Loop | 232310 | [232310-linko-relaxing-loop.json](./232310-linko-relaxing-loop.json) |
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
+| Links | 365193 | [365193-links.json](./365193-links.json) |
 | Links 2001 | 770 | [770-links-2001.json](./770-links-2001.json) |
 | Links 2003 | 22068 | [22068-links-2003.json](./22068-links-2003.json) |
 | Links 2003: Championship Courses | 78879 | [78879-links-2003-championship-courses.json](./78879-links-2003-championship-courses.json) |
@@ -7068,6 +7069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
 | Louie | 143959 | [143959-louie.json](./143959-louie.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
+| Louis | 365055 | [365055-louis.json](./365055-louis.json) |
 | Louis Charles in the Louvre | 360640 | [360640-louis-charles-in-the-louvre.json](./360640-louis-charles-in-the-louvre.json) |
 | Louis the Game | 175727 | [175727-louis-the-game.json](./175727-louis-the-game.json) |
 | Louisiana Adventure | 64279 | [64279-louisiana-adventure.json](./64279-louisiana-adventure.json) |
