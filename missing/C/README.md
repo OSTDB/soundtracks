@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
 | Cardaver | 380193 | [380193-cardaver.json](./380193-cardaver.json) |
 | CardBoard | 395558 | [395558-cardboard.json](./395558-cardboard.json) |
+| Cardboard Battle Tanks: Desk Division | 371922 | [371922-cardboard-battle-tanks-desk-division.json](./371922-cardboard-battle-tanks-desk-division.json) |
 | Cardboard Box Assembler | 397412 | [397412-cardboard-box-assembler.json](./397412-cardboard-box-assembler.json) |
 | Cardboard Chronicles | 294251 | [294251-cardboard-chronicles.json](./294251-cardboard-chronicles.json) |
 | Cardboard Clash | 125904 | [125904-cardboard-clash.json](./125904-cardboard-clash.json) |
@@ -4905,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Seed: Feng Shui Kairouki | 15833 | [15833-chaos-seed-feng-shui-kairouki.json](./15833-chaos-seed-feng-shui-kairouki.json) |
 | Chaos Sisters | 177248 | [177248-chaos-sisters.json](./177248-chaos-sisters.json) |
 | Chaos Souls | 75042 | [75042-chaos-souls.json](./75042-chaos-souls.json) |
+| Chaos Squad | 371843 | [371843-chaos-squad.json](./371843-chaos-squad.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
 | Chaos Stone Wars | 331382 | [331382-chaos-stone-wars.json](./331382-chaos-stone-wars.json) |
 | Chaos Theory | 114298 | [114298-chaos-theory.json](./114298-chaos-theory.json) |
@@ -6989,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
 | Chronostorm: Siberian Strike | 57992 | [57992-chronostorm-siberian-strike.json](./57992-chronostorm-siberian-strike.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
+| Chronosurge: Echoes of the Void | 371855 | [371855-chronosurge-echoes-of-the-void.json](./371855-chronosurge-echoes-of-the-void.json) |
 | ChronoTecture: The Eprologue | 167350 | [167350-chronotecture-the-eprologue.json](./167350-chronotecture-the-eprologue.json) |
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
@@ -8412,6 +8415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Kids | 394068 | [394068-clicker-kids.json](./394068-clicker-kids.json) |
 | Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
 | Clicker Racing | 100716 | [100716-clicker-racing.json](./100716-clicker-racing.json) |
+| Clicker Time | 371837 | [371837-clicker-time.json](./371837-clicker-time.json) |
 | Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
 | Clicker: Mining Simulator | 81967 | [81967-clicker-mining-simulator.json](./81967-clicker-mining-simulator.json) |
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
@@ -16426,6 +16430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curtains The Clown | 371559 | [371559-curtains-the-clown.json](./371559-curtains-the-clown.json) |
 | Curtiss | 40739 | [40739-curtiss.json](./40739-curtiss.json) |
 | Curupira | 218484 | [218484-curupira.json](./218484-curupira.json) |
+| Curupira the Forest Guardian | 371859 | [371859-curupira-the-forest-guardian.json](./371859-curupira-the-forest-guardian.json) |
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
 | Curvatron | 34417 | [34417-curvatron.json](./34417-curvatron.json) |
 | Curve Digital PS4 Mega Bundle | 99807 | [99807-curve-digital-ps4-mega-bundle.json](./99807-curve-digital-ps4-mega-bundle.json) |
