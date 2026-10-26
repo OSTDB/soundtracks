@@ -4409,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sel Mounta: Siege the Demon Castle | 259732 | [259732-sel-mounta-siege-the-demon-castle.json](./259732-sel-mounta-siege-the-demon-castle.json) |
 | Sel Quinta: The Six City Quest | 192239 | [192239-sel-quinta-the-six-city-quest.json](./192239-sel-quinta-the-six-city-quest.json) |
 | Selanìa | 363329 | [363329-selania.json](./363329-selania.json) |
+| Sélas | 335224 | [335224-selas.json](./335224-selas.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Selatria: Advent of the Dakk'rian Empire | 29774 | [29774-selatria-advent-of-the-dakkrian-empire.json](./29774-selatria-advent-of-the-dakkrian-empire.json) |
 | Seldon Crisis | 50331 | [50331-seldon-crisis.json](./50331-seldon-crisis.json) |
@@ -5625,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
 | Shadow of Azrael 2 | 291180 | [291180-shadow-of-azrael-2.json](./291180-shadow-of-azrael-2.json) |
 | Shadow of Babel | 184496 | [184496-shadow-of-babel.json](./184496-shadow-of-babel.json) |
+| Shadow of Backrooms | 335214 | [335214-shadow-of-backrooms.json](./335214-shadow-of-backrooms.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
 | Shadow of Death 2: Awakening | 199966 | [199966-shadow-of-death-2-awakening.json](./199966-shadow-of-death-2-awakening.json) |
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
@@ -6842,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
 | Shifting Sands | 176180 | [176180-shifting-sands.json](./176180-shifting-sands.json) |
 | Shifting Sands | 367543 | [367543-shifting-sands.json](./367543-shifting-sands.json) |
+| Shifting To The Backrooms | 335221 | [335221-shifting-to-the-backrooms.json](./335221-shifting-to-the-backrooms.json) |
 | Shifting World | 23399 | [23399-shifting-world.json](./23399-shifting-world.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shiftlings: Enhanced Edition | 86377 | [86377-shiftlings-enhanced-edition.json](./86377-shiftlings-enhanced-edition.json) |
@@ -7327,6 +7330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
+| Shipping Nightmares | 335220 | [335220-shipping-nightmares.json](./335220-shipping-nightmares.json) |
 | Shipping Out! | 185383 | [185383-shipping-out.json](./185383-shipping-out.json) |
 | Shippuu! Iron Leaguer | 61391 | [61391-shippuu-iron-leaguer.json](./61391-shippuu-iron-leaguer.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
@@ -10367,6 +10371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | Skul: The Hero Slayer | 127842 | [127842-skul-the-hero-slayer.json](./127842-skul-the-hero-slayer.json) |
 | Skuld | 383093 | [383093-skuld.json](./383093-skuld.json) |
+| Skulduggery Pleasant Invaders | 335175 | [335175-skulduggery-pleasant-invaders.json](./335175-skulduggery-pleasant-invaders.json) |
 | SkulJagger: Revolt of the Westicans | 42664 | [42664-skuljagger-revolt-of-the-westicans.json](./42664-skuljagger-revolt-of-the-westicans.json) |
 | Skulker | 332999 | [332999-skulker.json](./332999-skulker.json) |
 | Skull & Crossbones | 12851 | [12851-skull-and-crossbones.json](./12851-skull-and-crossbones.json) |
@@ -24541,6 +24546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuchInheritance | 187182 | [187182-suchinheritance.json](./187182-suchinheritance.json) |
 | Suck Eggs! | 257788 | [257788-suck-eggs.json](./257788-suck-eggs.json) |
 | Suck It Up | 391318 | [391318-suck-it-up.json](./391318-suck-it-up.json) |
+| Suck It Up! | 335209 | [335209-suck-it-up.json](./335209-suck-it-up.json) |
 | Suck It Up! | 403775 | [403775-suck-it-up.json](./403775-suck-it-up.json) |
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
 | Suck Up! | 280431 | [280431-suck-up.json](./280431-suck-up.json) |
@@ -28653,6 +28659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Advanced | 280089 | [280089-survival-advanced.json](./280089-survival-advanced.json) |
 | Survival Adventures Collection | 332487 | [332487-survival-adventures-collection.json](./332487-survival-adventures-collection.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
+| Survival and Rise: Being Alive | 335202 | [335202-survival-and-rise-being-alive.json](./335202-survival-and-rise-being-alive.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
 | Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
 | Survival Ascension | 132752 | [132752-survival-ascension.json](./132752-survival-ascension.json) |
