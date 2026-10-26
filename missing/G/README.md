@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Shipwright | 75399 | [75399-galactic-shipwright.json](./75399-galactic-shipwright.json) |
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
 | Galactic Simulator2: Stargate | 344539 | [344539-galactic-simulator2-stargate.json](./344539-galactic-simulator2-stargate.json) |
+| Galactic Slice | 362320 | [362320-galactic-slice.json](./362320-galactic-slice.json) |
 | Galactic Space Guard | 373171 | [373171-galactic-space-guard.json](./373171-galactic-space-guard.json) |
 | Galactic Speed Legends | 150944 | [150944-galactic-speed-legends.json](./150944-galactic-speed-legends.json) |
 | Galactic Starfire: Squadron | 310033 | [310033-galactic-starfire-squadron.json](./310033-galactic-starfire-squadron.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go-Go Gourmet | 64717 | [64717-go-go-gourmet.json](./64717-go-go-gourmet.json) |
 | Go-Go Gourmet: Chef of the Year | 64714 | [64714-go-go-gourmet-chef-of-the-year.json](./64714-go-go-gourmet-chef-of-the-year.json) |
 | Go-Go Town! | 244178 | [244178-go-go-town.json](./244178-go-go-town.json) |
+| Go-Go-Postal! | 362245 | [362245-go-go-postal.json](./362245-go-go-postal.json) |
 | Go-Go! Grapplestaff | 322262 | [322262-go-go-grapplestaff.json](./322262-go-go-grapplestaff.json) |
 | Go-Go! Nekketsu Hockey Club Slip-and-Slide Madness | 48630 | [48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json](./48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json) |
 | Go-Gurt Factory! | 341455 | [341455-go-gurt-factory.json](./341455-go-gurt-factory.json) |
