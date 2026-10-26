@@ -2876,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidnomaly | 378415 | [378415-voidnomaly.json](./378415-voidnomaly.json) |
 | Voidnomicon | 384031 | [384031-voidnomicon.json](./384031-voidnomicon.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
+| Voidpet Dungeon | 338658 | [338658-voidpet-dungeon.json](./338658-voidpet-dungeon.json) |
 | Voidpixel | 138496 | [138496-voidpixel.json](./138496-voidpixel.json) |
 | VoidReaver | 392408 | [392408-voidreaver.json](./392408-voidreaver.json) |
 | Voidrel | 408996 | [408996-voidrel.json](./408996-voidrel.json) |
