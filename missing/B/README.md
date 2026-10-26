@@ -813,7 +813,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11719,6 +11718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound by Love | 186837 | [186837-bound-by-love.json](./186837-bound-by-love.json) |
 | Bound Crystal Saga | 388927 | [388927-bound-crystal-saga.json](./388927-bound-crystal-saga.json) |
 | Bound Destiny 2: Destiny's Requiem | 345365 | [345365-bound-destiny-2-destinys-requiem.json](./345365-bound-destiny-2-destinys-requiem.json) |
+| Bound Destiny 3: Resonance | 345366 | [345366-bound-destiny-3-resonance.json](./345366-bound-destiny-3-resonance.json) |
 | Bound Forest | 234672 | [234672-bound-forest.json](./234672-bound-forest.json) |
 | Bound High | 50596 | [50596-bound-high.json](./50596-bound-high.json) |
 | Bound in a Nutshell in Infinite Space | 373885 | [373885-bound-in-a-nutshell-in-infinite-space.json](./373885-bound-in-a-nutshell-in-infinite-space.json) |
@@ -12084,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy and the Seagull | 197649 | [197649-boy-and-the-seagull.json](./197649-boy-and-the-seagull.json) |
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
 | Boy Goes to Space | 128584 | [128584-boy-goes-to-space.json](./128584-boy-goes-to-space.json) |
+| Boy Hero Ken: Haunted House Investigation | 345715 | [345715-boy-hero-ken-haunted-house-investigation.json](./345715-boy-hero-ken-haunted-house-investigation.json) |
 | Boy Next Door | 74120 | [74120-boy-next-door.json](./74120-boy-next-door.json) |
 | Boy Racer | 13431 | [13431-boy-racer.json](./13431-boy-racer.json) |
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
@@ -13484,6 +13485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | Broken Wizard | 101920 | [101920-broken-wizard.json](./101920-broken-wizard.json) |
 | Broken World | 170244 | [170244-broken-world.json](./170244-broken-world.json) |
+| Broken World: Save Your Children | 345407 | [345407-broken-world-save-your-children.json](./345407-broken-world-save-your-children.json) |
 | BrokenEarth | 62973 | [62973-brokenearth.json](./62973-brokenearth.json) |
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
@@ -13532,6 +13534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
 | Brotes | 306792 | [306792-brotes.json](./306792-brotes.json) |
 | Broth Bounty | 349099 | [349099-broth-bounty.json](./349099-broth-bounty.json) |
+| Brothel of Darkness | 345392 | [345392-brothel-of-darkness.json](./345392-brothel-of-darkness.json) |
 | Brothel Secrets | 280329 | [280329-brothel-secrets.json](./280329-brothel-secrets.json) |
 | Brothel Simulator | 237452 | [237452-brothel-simulator.json](./237452-brothel-simulator.json) |
 | Brothel Simulator II | 244605 | [244605-brothel-simulator-ii.json](./244605-brothel-simulator-ii.json) |
@@ -15534,6 +15537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Hack | 287914 | [287914-byte-hack.json](./287914-byte-hack.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
 | Byte Master | 344977 | [344977-byte-master.json](./344977-byte-master.json) |
+| Byte of the Dead | 345376 | [345376-byte-of-the-dead.json](./345376-byte-of-the-dead.json) |
 | Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
 | Byte Survivor | 303717 | [303717-byte-survivor.json](./303717-byte-survivor.json) |
 | Byte the Bullet | 197213 | [197213-byte-the-bullet.json](./197213-byte-the-bullet.json) |
