@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBall! + HardBall II | 296603 | [296603-hardball-hardball-ii.json](./296603-hardball-hardball-ii.json) |
+| Hardbass Clicker | 370173 | [370173-hardbass-clicker.json](./370173-hardbass-clicker.json) |
 | Hardboiled | 100638 | [100638-hardboiled.json](./100638-hardboiled.json) |
 | Hardboiled | 193701 | [193701-hardboiled.json](./193701-hardboiled.json) |
 | Hardboiled Pinball | 131260 | [131260-hardboiled-pinball.json](./131260-hardboiled-pinball.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Simulator | 158621 | [158621-helicopter-simulator.json](./158621-helicopter-simulator.json) |
 | Helicopter Simulator 2015 | 95914 | [95914-helicopter-simulator-2015.json](./95914-helicopter-simulator-2015.json) |
 | Helicopter Simulator 2017 Premium | 87538 | [87538-helicopter-simulator-2017-premium.json](./87538-helicopter-simulator-2017-premium.json) |
+| Helicopter Simulator 2025 | 370071 | [370071-helicopter-simulator-2025.json](./370071-helicopter-simulator-2025.json) |
 | Helicopter Simulator Game 2016 - Pilot Career Missions | 99093 | [99093-helicopter-simulator-game-2016-pilot-career-missions.json](./99093-helicopter-simulator-game-2016-pilot-career-missions.json) |
 | Helicopter Simulator VR 2021: Rescue Missions | 150767 | [150767-helicopter-simulator-vr-2021-rescue-missions.json](./150767-helicopter-simulator-vr-2021-rescue-missions.json) |
 | Helicopter Simulator: Rescue Sim | 288302 | [288302-helicopter-simulator-rescue-sim.json](./288302-helicopter-simulator-rescue-sim.json) |
