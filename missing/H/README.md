@@ -1793,6 +1793,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrowed World: Dracula Fallen | 362870 | [362870-harrowed-world-dracula-fallen.json](./362870-harrowed-world-dracula-fallen.json) |
 | Harrowed World: Portents In Red | 264020 | [264020-harrowed-world-portents-in-red.json](./264020-harrowed-world-portents-in-red.json) |
 | Harrowed World: What's Past Is Portents | 297924 | [297924-harrowed-world-whats-past-is-portents.json](./297924-harrowed-world-whats-past-is-portents.json) |
+| Harrowed World: What's Past Is Portents - Duncan's Story | 361666 | [361666-harrowed-world-whats-past-is-portents-duncans-story.json](./361666-harrowed-world-whats-past-is-portents-duncans-story.json) |
+| Harrowed World: What's Past Is Portents - Story Pack | 361665 | [361665-harrowed-world-whats-past-is-portents-story-pack.json](./361665-harrowed-world-whats-past-is-portents-story-pack.json) |
 | Harrowing Gate: Ghost Dimension | 199104 | [199104-harrowing-gate-ghost-dimension.json](./199104-harrowing-gate-ghost-dimension.json) |
 | Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
@@ -3490,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Farthest Shore | 261452 | [261452-hells-farthest-shore.json](./261452-hells-farthest-shore.json) |
 | Hell's High Harmonizers | 156986 | [156986-hells-high-harmonizers.json](./156986-hells-high-harmonizers.json) |
 | Hell's House | 311705 | [311705-hells-house.json](./311705-hells-house.json) |
+| Hell's Kitchen | 361650 | [361650-hells-kitchen.json](./361650-hells-kitchen.json) |
 | Hell's Kitchen: The Game | 21358 | [21358-hells-kitchen-the-game.json](./21358-hells-kitchen-the-game.json) |
 | Hell'S Little Story | 29610 | [29610-hells-little-story.json](./29610-hells-little-story.json) |
 | Hell's Maw | 338850 | [338850-hells-maw.json](./338850-hells-maw.json) |
