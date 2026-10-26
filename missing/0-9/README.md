@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24H Stories: The Rule 7 | 283077 | [283077-24h-stories-the-rule-7.json](./283077-24h-stories-the-rule-7.json) |
 | 25 | 223926 | [223926-25.json](./223926-25.json) |
 | 25 Days in the Dark | 406509 | [406509-25-days-in-the-dark.json](./406509-25-days-in-the-dark.json) |
+| 25 in 1 Family Games Mega Collection | 385159 | [385159-25-in-1-family-games-mega-collection.json](./385159-25-in-1-family-games-mega-collection.json) |
 | 25 Pferdespiele | 91592 | [91592-25-pferdespiele.json](./91592-25-pferdespiele.json) |
 | 25 To Life | 5714 | [5714-25-to-life.json](./5714-25-to-life.json) |
 | 25 Years on Earth | 261459 | [261459-25-years-on-earth.json](./261459-25-years-on-earth.json) |
@@ -2119,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 in 1 Bundle | 362183 | [362183-4-in-1-bundle.json](./362183-4-in-1-bundle.json) |
 | 4 In 1 Indie Bundle | 118738 | [118738-4-in-1-indie-bundle.json](./118738-4-in-1-indie-bundle.json) |
 | 4 in 1 Row | 41534 | [41534-4-in-1-row.json](./41534-4-in-1-row.json) |
+| 4 in 1 Sports Bundle Vol. 2 | 385144 | [385144-4-in-1-sports-bundle-vol-2.json](./385144-4-in-1-sports-bundle-vol-2.json) |
 | 4 in 1 Sports Bundle Vol. 3 | 395222 | [395222-4-in-1-sports-bundle-vol-3.json](./395222-4-in-1-sports-bundle-vol-3.json) |
 | 4 In 1 Super CD | 37602 | [37602-4-in-1-super-cd.json](./37602-4-in-1-super-cd.json) |
 | 4 in 1 Vol.17 | 138695 | [138695-4-in-1-vol-17.json](./138695-4-in-1-vol-17.json) |
