@@ -6617,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Alone Ep.2: Daddy | 185912 | [185912-lost-alone-ep-2-daddy.json](./185912-lost-alone-ep-2-daddy.json) |
 | Lost Alone Ultimate | 245026 | [245026-lost-alone-ultimate.json](./245026-lost-alone-ultimate.json) |
 | Lost Along The Way | 253919 | [253919-lost-along-the-way.json](./253919-lost-along-the-way.json) |
+| Lost Altr | 339490 | [339490-lost-altr.json](./339490-lost-altr.json) |
 | Lost Amulets | 116457 | [116457-lost-amulets.json](./116457-lost-amulets.json) |
 | Lost Amulets: Four Guardians | 223170 | [223170-lost-amulets-four-guardians.json](./223170-lost-amulets-four-guardians.json) |
 | Lost Amulets: Mystic Land | 104512 | [104512-lost-amulets-mystic-land.json](./104512-lost-amulets-mystic-land.json) |
