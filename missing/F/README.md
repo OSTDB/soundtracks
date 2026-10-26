@@ -2709,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Machine | 377959 | [377959-fate-machine.json](./377959-fate-machine.json) |
 | Fate of Antara | 370457 | [370457-fate-of-antara.json](./370457-fate-of-antara.json) |
 | Fate of Dynasty | 149834 | [149834-fate-of-dynasty.json](./149834-fate-of-dynasty.json) |
+| Fate of Gun | 363418 | [363418-fate-of-gun.json](./363418-fate-of-gun.json) |
 | Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
 | Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
