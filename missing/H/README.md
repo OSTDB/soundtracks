@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
 | Heart of Moon: The Mask of Seasons | 112484 | [112484-heart-of-moon-the-mask-of-seasons.json](./112484-heart-of-moon-the-mask-of-seasons.json) |
 | Heart of Muriet | 143361 | [143361-heart-of-muriet.json](./143361-heart-of-muriet.json) |
+| Heart of Mycelium | 347595 | [347595-heart-of-mycelium.json](./347595-heart-of-mycelium.json) |
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of Saphilamun | 230220 | [230220-heart-of-saphilamun.json](./230220-heart-of-saphilamun.json) |
 | Heart of Scrap | 56341 | [56341-heart-of-scrap.json](./56341-heart-of-scrap.json) |
