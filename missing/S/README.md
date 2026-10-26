@@ -15674,6 +15674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souno's Curse | 169130 | [169130-sounos-curse.json](./169130-sounos-curse.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup | 33676 | [33676-soup.json](./33676-soup.json) |
+| Soup-of-War | 362243 | [362243-soup-of-war.json](./362243-soup-of-war.json) |
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Soup! | 161612 | [161612-soup.json](./161612-soup.json) |
@@ -17869,6 +17870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Mall! | 267820 | [267820-spider-mall.json](./267820-spider-mall.json) |
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
 | Spider Maze | 363061 | [363061-spider-maze.json](./363061-spider-maze.json) |
+| Spider Mech | 362231 | [362231-spider-mech.json](./362231-spider-mech.json) |
 | Spider Plus! | 91211 | [91211-spider-plus.json](./91211-spider-plus.json) |
 | Spider Ponds | 129571 | [129571-spider-ponds.json](./129571-spider-ponds.json) |
 | Spider Pong | 359466 | [359466-spider-pong.json](./359466-spider-pong.json) |
@@ -24384,6 +24386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suddenly Bird | 274672 | [274672-suddenly-bird.json](./274672-suddenly-bird.json) |
 | Suddenly Meow | 166810 | [166810-suddenly-meow.json](./166810-suddenly-meow.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
+| Suddenly Meow Christmas | 362317 | [362317-suddenly-meow-christmas.json](./362317-suddenly-meow-christmas.json) |
 | Suddenly She's Here | 179363 | [179363-suddenly-shes-here.json](./179363-suddenly-shes-here.json) |
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
@@ -26291,6 +26294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 3D World | 229339 | [229339-super-mario-3d-world.json](./229339-super-mario-3d-world.json) |
 | Super Mario 3D World + Bowser's Fury | 138227 | [138227-super-mario-3d-world-bowsers-fury.json](./138227-super-mario-3d-world-bowsers-fury.json) |
 | Super Mario 4 | 160277 | [160277-super-mario-4.json](./160277-super-mario-4.json) |
+| Super Mario 4 Jugadores | 362159 | [362159-super-mario-4-jugadores.json](./362159-super-mario-4-jugadores.json) |
 | Super Mario 63 | 137008 | [137008-super-mario-63.json](./137008-super-mario-63.json) |
 | Super Mario 64 1.5 Ztar Attack! | 135230 | [135230-super-mario-64-1-5-ztar-attack.json](./135230-super-mario-64-1-5-ztar-attack.json) |
 | Super Mario 64 2 | 175964 | [175964-super-mario-64-2.json](./175964-super-mario-64-2.json) |
