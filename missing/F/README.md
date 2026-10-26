@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Manager: The Computer Game | 73997 | [73997-fantasy-manager-the-computer-game.json](./73997-fantasy-manager-the-computer-game.json) |
 | Fantasy Map Simulator | 312457 | [312457-fantasy-map-simulator.json](./312457-fantasy-map-simulator.json) |
 | Fantasy Maze | 105802 | [105802-fantasy-maze.json](./105802-fantasy-maze.json) |
+| Fantasy Memory: A Relaxing Match Game | 340057 | [340057-fantasy-memory-a-relaxing-match-game.json](./340057-fantasy-memory-a-relaxing-match-game.json) |
 | Fantasy Memory: Sexy Mermaids | 286464 | [286464-fantasy-memory-sexy-mermaids.json](./286464-fantasy-memory-sexy-mermaids.json) |
 | Fantasy Mercenary Wars | 230964 | [230964-fantasy-mercenary-wars.json](./230964-fantasy-mercenary-wars.json) |
 | Fantasy Miner: Idle Depths | 411749 | [411749-fantasy-miner-idle-depths.json](./411749-fantasy-miner-idle-depths.json) |
@@ -2272,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
 | Farmieland | 273488 | [273488-farmieland.json](./273488-farmieland.json) |
 | Farmine Land | 325722 | [325722-farmine-land.json](./325722-farmine-land.json) |
+| Farming | 340059 | [340059-farming.json](./340059-farming.json) |
 | Farming & Supermarket: Clicker | 405610 | [405610-farming-and-supermarket-clicker.json](./405610-farming-and-supermarket-clicker.json) |
 | Farming Adventure Double Pack: Orange Season + Garden Witch Life | 381716 | [381716-farming-adventure-double-pack-orange-season-garden-witch-life.json](./381716-farming-adventure-double-pack-orange-season-garden-witch-life.json) |
 | Farming Camp | 383138 | [383138-farming-camp.json](./383138-farming-camp.json) |
@@ -2279,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Engine | 151070 | [151070-farming-engine.json](./151070-farming-engine.json) |
 | Farming Fever | 234148 | [234148-farming-fever.json](./234148-farming-fever.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
+| Farming Isles | 340060 | [340060-farming-isles.json](./340060-farming-isles.json) |
 | Farming Life 40 | 371208 | [371208-farming-life-40.json](./371208-farming-life-40.json) |
 | Farming Life Simulator | 373655 | [373655-farming-life-simulator.json](./373655-farming-life-simulator.json) |
 | Farming Mushroom | 371483 | [371483-farming-mushroom.json](./371483-farming-mushroom.json) |
@@ -2452,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Princess: Ultimate Edition | 268555 | [268555-fashion-princess-ultimate-edition.json](./268555-fashion-princess-ultimate-edition.json) |
 | Fashion Season | 176895 | [176895-fashion-season.json](./176895-fashion-season.json) |
 | Fashion Shop Simulator | 345817 | [345817-fashion-shop-simulator.json](./345817-fashion-shop-simulator.json) |
+| Fashion Show Makeover Mega Pack | 340063 | [340063-fashion-show-makeover-mega-pack.json](./340063-fashion-show-makeover-mega-pack.json) |
 | Fashion Space | 212493 | [212493-fashion-space.json](./212493-fashion-space.json) |
 | Fashion Store Simulator | 312977 | [312977-fashion-store-simulator.json](./312977-fashion-store-simulator.json) |
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
@@ -2733,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the Empress | 159202 | [159202-fate-of-the-empress.json](./159202-fate-of-the-empress.json) |
 | Fate of the Foxes | 298926 | [298926-fate-of-the-foxes.json](./298926-fate-of-the-foxes.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
+| Fate of the Three Kingdoms | 340064 | [340064-fate-of-the-three-kingdoms.json](./340064-fate-of-the-three-kingdoms.json) |
 | Fate of the World | 15079 | [15079-fate-of-the-world.json](./15079-fate-of-the-world.json) |
 | Fate of the World: Denial | 159640 | [159640-fate-of-the-world-denial.json](./159640-fate-of-the-world-denial.json) |
 | Fate of the World: Migration | 159639 | [159639-fate-of-the-world-migration.json](./159639-fate-of-the-world-migration.json) |
@@ -2876,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
 | Fault & Fragment | 125731 | [125731-fault-and-fragment.json](./125731-fault-and-fragment.json) |
+| Fault 24 | 340065 | [340065-fault-24.json](./340065-fault-24.json) |
 | Fault Milestone One | 10528 | [10528-fault-milestone-one.json](./10528-fault-milestone-one.json) |
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
 | Fault: Broken Promises | 336619 | [336619-fault-broken-promises.json](./336619-fault-broken-promises.json) |
@@ -2920,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
 | Faye/Sleepwalker | 142665 | [142665-faye-sleepwalker.json](./142665-faye-sleepwalker.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
+| Fayrehaven | 340066 | [340066-fayrehaven.json](./340066-fayrehaven.json) |
 | Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
 | Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
 | Fazbear Nightmare | 35335 | [35335-fazbear-nightmare.json](./35335-fazbear-nightmare.json) |
