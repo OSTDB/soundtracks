@@ -5528,6 +5528,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Hunt | 344715 | [344715-chess-hunt.json](./344715-chess-hunt.json) |
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
 | Chess Infinity | 324987 | [324987-chess-infinity.json](./324987-chess-infinity.json) |
+| Chess Infinity: Mate in 2 Puzzle Pack | 358051 | [358051-chess-infinity-mate-in-2-puzzle-pack.json](./358051-chess-infinity-mate-in-2-puzzle-pack.json) |
+| Chess Infinity: Mate in 3 Puzzle Pack | 358052 | [358052-chess-infinity-mate-in-3-puzzle-pack.json](./358052-chess-infinity-mate-in-3-puzzle-pack.json) |
 | Chess is Stupid! | 230735 | [230735-chess-is-stupid.json](./230735-chess-is-stupid.json) |
 | Chess Kids | 72303 | [72303-chess-kids.json](./72303-chess-kids.json) |
 | Chess Knight | 90847 | [90847-chess-knight.json](./90847-chess-knight.json) |
@@ -15073,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRSED: F.O.A.D. - Street Kid | 171060 | [171060-crsed-f-o-a-d-street-kid.json](./171060-crsed-f-o-a-d-street-kid.json) |
 | CRSED: F.O.A.D.: The Bear of Wall Street Bundle | 267778 | [267778-crsed-f-o-a-d-the-bear-of-wall-street-bundle.json](./267778-crsed-f-o-a-d-the-bear-of-wall-street-bundle.json) |
 | CRT7 | 210849 | [210849-crt7.json](./210849-crt7.json) |
+| CRTX: A Psychological Horror Puzzle | 358050 | [358050-crtx-a-psychological-horror-puzzle.json](./358050-crtx-a-psychological-horror-puzzle.json) |
 | Crucial 2: The Refresh Update | 290398 | [290398-crucial-2-the-refresh-update.json](./290398-crucial-2-the-refresh-update.json) |
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
 | Crucible Falls: Together Forever | 96959 | [96959-crucible-falls-together-forever.json](./96959-crucible-falls-together-forever.json) |
