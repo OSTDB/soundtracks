@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature of Dread | 403683 | [403683-nature-of-dread.json](./403683-nature-of-dread.json) |
 | Nature Park | 150985 | [150985-nature-park.json](./150985-nature-park.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
+| Nature Picross | 337002 | [337002-nature-picross.json](./337002-nature-picross.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
 | Nature Treks VR | 29552 | [29552-nature-treks-vr.json](./29552-nature-treks-vr.json) |
 | Nature Treks: Healing With Color | 65589 | [65589-nature-treks-healing-with-color.json](./65589-nature-treks-healing-with-color.json) |
@@ -2015,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Apex: Beyond the Limit | 332863 | [332863-neon-apex-beyond-the-limit.json](./332863-neon-apex-beyond-the-limit.json) |
 | Neon Arena | 171309 | [171309-neon-arena.json](./171309-neon-arena.json) |
 | Neon Arena | 30516 | [30516-neon-arena.json](./30516-neon-arena.json) |
+| Neon Ascending | 337018 | [337018-neon-ascending.json](./337018-neon-ascending.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
 | Neon Bash | 301804 | [301804-neon-bash.json](./301804-neon-bash.json) |
 | Neon Basketball | 88149 | [88149-neon-basketball.json](./88149-neon-basketball.json) |
