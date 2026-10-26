@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Research | 241876 | [241876-magic-research.json](./241876-magic-research.json) |
 | Magic Research 2 | 296750 | [296750-magic-research-2.json](./296750-magic-research-2.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
+| Magic River | 348716 | [348716-magic-river.json](./348716-magic-river.json) |
 | Magic Rufus | 93437 | [93437-magic-rufus.json](./93437-magic-rufus.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic Runes | 291714 | [291714-magic-runes.json](./291714-magic-runes.json) |
@@ -2812,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mär Heaven: Karudea no Akuma | 353317 | [353317-mar-heaven-karudea-no-akuma.json](./353317-mar-heaven-karudea-no-akuma.json) |
 | Mar Koochooloo | 276719 | [276719-mar-koochooloo.json](./276719-mar-koochooloo.json) |
 | MAR WAR: The Evil Awakens | 83519 | [83519-mar-war-the-evil-awakens.json](./83519-mar-war-the-evil-awakens.json) |
+| Mara | 348703 | [348703-mara.json](./348703-mara.json) |
 | Marabundle | 238596 | [238596-marabundle.json](./238596-marabundle.json) |
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
@@ -15499,6 +15501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Big Wigs | 55931 | [55931-mr-big-wigs.json](./55931-mr-big-wigs.json) |
 | Mr. Bill | 92544 | [92544-mr-bill.json](./92544-mr-bill.json) |
 | Mr. Bill's Neighborhood | 286945 | [286945-mr-bills-neighborhood.json](./286945-mr-bills-neighborhood.json) |
+| Mr. Billion | 348721 | [348721-mr-billion.json](./348721-mr-billion.json) |
 | Mr. Blob's Honey-Do List | 342639 | [342639-mr-blobs-honey-do-list.json](./342639-mr-blobs-honey-do-list.json) |
 | Mr. Blobby | 74042 | [74042-mr-blobby.json](./74042-mr-blobby.json) |
 | Mr. Bloopy Saves the World | 42659 | [42659-mr-bloopy-saves-the-world.json](./42659-mr-bloopy-saves-the-world.json) |
