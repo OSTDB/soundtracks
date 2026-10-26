@@ -16204,6 +16204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Begins With You | 84474 | [84474-the-world-begins-with-you.json](./84474-the-world-begins-with-you.json) |
 | The World Below: A Call Within | 410040 | [410040-the-world-below-a-call-within.json](./410040-the-world-below-a-call-within.json) |
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
+| The World Eater & Probiotic Hero Dungeon of Roguelike | 334613 | [334613-the-world-eater-and-probiotic-hero-dungeon-of-roguelike.json](./334613-the-world-eater-and-probiotic-hero-dungeon-of-roguelike.json) |
 | The World End Eclipse | 13546 | [13546-the-world-end-eclipse.json](./13546-the-world-end-eclipse.json) |
 | The World Ends in Ohio | 333146 | [333146-the-world-ends-in-ohio.json](./333146-the-world-ends-in-ohio.json) |
 | The World Ends with You | 1343 | [1343-the-world-ends-with-you.json](./1343-the-world-ends-with-you.json) |
