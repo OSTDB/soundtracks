@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemuria: Lost in Space | 26355 | [26355-lemuria-lost-in-space.json](./26355-lemuria-lost-in-space.json) |
 | Lemurzin | 34116 | [34116-lemurzin.json](./34116-lemurzin.json) |
 | LemWars | 156964 | [156964-lemwars.json](./156964-lemwars.json) |
+| Len Burns Down a School | 371854 | [371854-len-burns-down-a-school.json](./371854-len-burns-down-a-school.json) |
 | Len'en Monochrome World | 335405 | [335405-lenen-monochrome-world.json](./335405-lenen-monochrome-world.json) |
 | Len'en Mugenri: Evanescent Existence | 125797 | [125797-lenen-mugenri-evanescent-existence.json](./125797-lenen-mugenri-evanescent-existence.json) |
 | Len'en Reiretsuden: Reactivate Majestical Imperial | 125795 | [125795-lenen-reiretsuden-reactivate-majestical-imperial.json](./125795-lenen-reiretsuden-reactivate-majestical-imperial.json) |
