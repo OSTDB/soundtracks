@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's the Bathroom!?! | 215651 | [215651-wheres-the-bathroom.json](./215651-wheres-the-bathroom.json) |
 | Where's the Blanket Charlie Brown? | 69583 | [69583-wheres-the-blanket-charlie-brown.json](./69583-wheres-the-blanket-charlie-brown.json) |
 | Where's the Boat | 282229 | [282229-wheres-the-boat.json](./282229-wheres-the-boat.json) |
+| Where's The Cheat? | 359897 | [359897-wheres-the-cheat.json](./359897-wheres-the-cheat.json) |
 | Where's the Fck*ng Light - VR | 30948 | [30948-wheres-the-fck-ng-light-vr.json](./30948-wheres-the-fck-ng-light-vr.json) |
 | Where’s the Food!? | 378787 | [378787-where-s-the-food.json](./378787-where-s-the-food.json) |
 | Where’s the Insect? | 378788 | [378788-where-s-the-insect.json](./378788-where-s-the-insect.json) |
