@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Pinball | 230713 | [230713-fantasy-pinball.json](./230713-fantasy-pinball.json) |
 | Fantasy Pirates | 85657 | [85657-fantasy-pirates.json](./85657-fantasy-pirates.json) |
+| Fantasy Puzzle 3D | 358046 | [358046-fantasy-puzzle-3d.json](./358046-fantasy-puzzle-3d.json) |
 | Fantasy Puzzle King | 312697 | [312697-fantasy-puzzle-king.json](./312697-fantasy-puzzle-king.json) |
 | Fantasy Quake: Rise of the Phoenix | 196578 | [196578-fantasy-quake-rise-of-the-phoenix.json](./196578-fantasy-quake-rise-of-the-phoenix.json) |
 | Fantasy Quest Realm Survival | 339923 | [339923-fantasy-quest-realm-survival.json](./339923-fantasy-quest-realm-survival.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeding the Monster | 69237 | [69237-feeding-the-monster.json](./69237-feeding-the-monster.json) |
 | Feeding the Velociraptors | 348578 | [348578-feeding-the-velociraptors.json](./348578-feeding-the-velociraptors.json) |
 | Feeding Yuyuko | 412226 | [412226-feeding-yuyuko.json](./412226-feeding-yuyuko.json) |
+| FeedMe Puzzle | 358047 | [358047-feedme-puzzle.json](./358047-feedme-puzzle.json) |
 | Feedn' Chloe | 206051 | [206051-feedn-chloe.json](./206051-feedn-chloe.json) |
 | Feedstock | 421435 | [421435-feedstock.json](./421435-feedstock.json) |
 | FeedVid Live | 214433 | [214433-feedvid-live.json](./214433-feedvid-live.json) |
