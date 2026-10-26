@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballerina: Haitoku no Kurumi Wari Ningyou | 82586 | [82586-ballerina-haitoku-no-kurumi-wari-ningyou.json](./82586-ballerina-haitoku-no-kurumi-wari-ningyou.json) |
 | Ballermann: Hey Baby! | 346711 | [346711-ballermann-hey-baby.json](./346711-ballermann-hey-baby.json) |
 | Ballerspiel | 395290 | [395290-ballerspiel.json](./395290-ballerspiel.json) |
+| Ballet of Steel | 382817 | [382817-ballet-of-steel.json](./382817-ballet-of-steel.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | Ballex | 120937 | [120937-ballex.json](./120937-ballex.json) |
 | Ballex 2: The Hanging Gardens | 207728 | [207728-ballex-2-the-hanging-gardens.json](./207728-ballex-2-the-hanging-gardens.json) |
@@ -5040,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behoarder | 184617 | [184617-behoarder.json](./184617-behoarder.json) |
 | Behold Battle | 247918 | [247918-behold-battle.json](./247918-behold-battle.json) |
 | Behold the Dark | 151470 | [151470-behold-the-dark.json](./151470-behold-the-dark.json) |
+| Behold the Horde | 382830 | [382830-behold-the-horde.json](./382830-behold-the-horde.json) |
 | Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
 | Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
 | Beholder 3 | 186882 | [186882-beholder-3.json](./186882-beholder-3.json) |
@@ -15088,6 +15090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcherman | 388746 | [388746-butcherman.json](./388746-butcherman.json) |
 | Butchers Don't Surf! | 243228 | [243228-butchers-dont-surf.json](./243228-butchers-dont-surf.json) |
 | Butler Until Midnight | 238901 | [238901-butler-until-midnight.json](./238901-butler-until-midnight.json) |
+| Butler! Summon the Imps! | 382850 | [382850-butler-summon-the-imps.json](./382850-butler-summon-the-imps.json) |
 | Butt | 314259 | [314259-butt.json](./314259-butt.json) |
 | Butt Gunners | 392806 | [392806-butt-gunners.json](./392806-butt-gunners.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
