@@ -4818,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
 | Deft | 182742 | [182742-deft.json](./182742-deft.json) |
+| Defuse | 377116 | [377116-defuse.json](./377116-defuse.json) |
 | Defuser VR | 29538 | [29538-defuser-vr.json](./29538-defuser-vr.json) |
 | Defy Gravity | 8678 | [8678-defy-gravity.json](./8678-defy-gravity.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
@@ -5027,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Simulator | 161335 | [161335-delivery-simulator.json](./161335-delivery-simulator.json) |
 | Delivery Simulator | 391247 | [391247-delivery-simulator.json](./391247-delivery-simulator.json) |
 | Delivery Survivors | 412913 | [412913-delivery-survivors.json](./412913-delivery-survivors.json) |
+| Delivery to Graveyard Manor | 377618 | [377618-delivery-to-graveyard-manor.json](./377618-delivery-to-graveyard-manor.json) |
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | DeliveryGuy | 177793 | [177793-deliveryguy.json](./177793-deliveryguy.json) |
 | Delivoo Delivery Sim | 236330 | [236330-delivoo-delivery-sim.json](./236330-delivoo-delivery-sim.json) |
@@ -14408,6 +14410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Game | 328300 | [328300-duck-game.json](./328300-duck-game.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
 | Duck Hunt | 2741 | [2741-duck-hunt.json](./2741-duck-hunt.json) |
+| Duck Hunt | 377642 | [377642-duck-hunt.json](./377642-duck-hunt.json) |
 | Duck Hunt | 78487 | [78487-duck-hunt.json](./78487-duck-hunt.json) |
 | Duck Hunt 2 | 127992 | [127992-duck-hunt-2.json](./127992-duck-hunt-2.json) |
 | Duck Hunt Pro | 326693 | [326693-duck-hunt-pro.json](./326693-duck-hunt-pro.json) |
