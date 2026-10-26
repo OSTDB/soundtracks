@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: The Old Country - Padrino Pack | 404699 | [404699-mafia-the-old-country-padrino-pack.json](./404699-mafia-the-old-country-padrino-pack.json) |
 | Mafia: The Old Country - Soldato Pack | 413630 | [413630-mafia-the-old-country-soldato-pack.json](./413630-mafia-the-old-country-soldato-pack.json) |
 | Mafia: The Old Country Definitive Edition | 413586 | [413586-mafia-the-old-country-definitive-edition.json](./413586-mafia-the-old-country-definitive-edition.json) |
+| Mafia: The Old Country Deluxe Edition | 342911 | [342911-mafia-the-old-country-deluxe-edition.json](./342911-mafia-the-old-country-deluxe-edition.json) |
 | Mafia: The Omertà Collection | 413580 | [413580-mafia-the-omerta-collection.json](./413580-mafia-the-omerta-collection.json) |
 | Mafia: Trilogy | 133900 | [133900-mafia-trilogy.json](./133900-mafia-trilogy.json) |
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
 | Magical Mysteries: Path of the Sorceress | 30714 | [30714-magical-mysteries-path-of-the-sorceress.json](./30714-magical-mysteries-path-of-the-sorceress.json) |
 | Magical Mystery Cure | 177949 | [177949-magical-mystery-cure.json](./177949-magical-mystery-cure.json) |
+| Magical Nut Ikuno | 342917 | [342917-magical-nut-ikuno.json](./342917-magical-nut-ikuno.json) |
 | Magical Otoge Anholly | 57905 | [57905-magical-otoge-anholly.json](./57905-magical-otoge-anholly.json) |
 | Magical Otoge Iris | 144809 | [144809-magical-otoge-iris.json](./144809-magical-otoge-iris.json) |
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
@@ -14724,6 +14726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Most Correct Football Simulator | 118338 | [118338-most-correct-football-simulator.json](./118338-most-correct-football-simulator.json) |
 | MOST MLG GAME EVER | 60337 | [60337-most-mlg-game-ever.json](./60337-most-mlg-game-ever.json) |
 | Most Popular Solitaire | 98908 | [98908-most-popular-solitaire.json](./98908-most-popular-solitaire.json) |
+| Most Quietly | 342528 | [342528-most-quietly.json](./342528-most-quietly.json) |
 | Most Scuffed Golf | 409632 | [409632-most-scuffed-golf.json](./409632-most-scuffed-golf.json) |
 | Most Wanted | 313777 | [313777-most-wanted.json](./313777-most-wanted.json) |
 | Mostly Delivered | 407382 | [407382-mostly-delivered.json](./407382-mostly-delivered.json) |
