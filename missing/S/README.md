@@ -11270,6 +11270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Must Grow | 389917 | [389917-slime-must-grow.json](./389917-slime-must-grow.json) |
 | Slime Musume ha Ningen to Tomodachi ni Naritai you da | 308910 | [308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json](./308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
+| Slime Order | 370176 | [370176-slime-order.json](./370176-slime-order.json) |
 | Slime Pandemic TD | 171932 | [171932-slime-pandemic-td.json](./171932-slime-pandemic-td.json) |
 | Slime Pizza | 90360 | [90360-slime-pizza.json](./90360-slime-pizza.json) |
 | Slime Puzzle Story | 235656 | [235656-slime-puzzle-story.json](./235656-slime-puzzle-story.json) |
@@ -13392,6 +13393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokosignal | 219596 | [219596-sokosignal.json](./219596-sokosignal.json) |
 | SokoSolitaire | 244669 | [244669-sokosolitaire.json](./244669-sokosolitaire.json) |
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
+| Sokoteddy | 370170 | [370170-sokoteddy.json](./370170-sokoteddy.json) |
 | SokoTerm | 379050 | [379050-sokoterm.json](./379050-sokoterm.json) |
 | Sokowand | 335261 | [335261-sokowand.json](./335261-sokowand.json) |
 | SokoWinter | 187401 | [187401-sokowinter.json](./187401-sokowinter.json) |
@@ -14388,6 +14390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack | 139951 | [139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json](./139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json) |
 | Sonic Forces Adventure | 317359 | [317359-sonic-forces-adventure.json](./317359-sonic-forces-adventure.json) |
 | Sonic Forces Overclocked | 280749 | [280749-sonic-forces-overclocked.json](./280749-sonic-forces-overclocked.json) |
+| Sonic Forces Untold: Darkest of Days | 370230 | [370230-sonic-forces-untold-darkest-of-days.json](./370230-sonic-forces-untold-darkest-of-days.json) |
 | Sonic Forces: Bonus Edition | 28538 | [28538-sonic-forces-bonus-edition.json](./28538-sonic-forces-bonus-edition.json) |
 | Sonic Forces: Day One Edition | 136167 | [136167-sonic-forces-day-one-edition.json](./136167-sonic-forces-day-one-edition.json) |
 | Sonic Forces: Episode Shadow | 112095 | [112095-sonic-forces-episode-shadow.json](./112095-sonic-forces-episode-shadow.json) |
@@ -14516,6 +14519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Metal Memories | 333799 | [333799-sonic-metal-memories.json](./333799-sonic-metal-memories.json) |
 | Sonic Metallix | 321828 | [321828-sonic-metallix.json](./321828-sonic-metallix.json) |
 | Sonic Meteor | 331718 | [331718-sonic-meteor.json](./331718-sonic-meteor.json) |
+| Sonic Minus | 370232 | [370232-sonic-minus.json](./370232-sonic-minus.json) |
 | Sonic Mobius | 332207 | [332207-sonic-mobius.json](./332207-sonic-mobius.json) |
 | Sonic Mode: Exciter | 330282 | [330282-sonic-mode-exciter.json](./330282-sonic-mode-exciter.json) |
 | Sonic Mode: Recoil | 330357 | [330357-sonic-mode-recoil.json](./330357-sonic-mode-recoil.json) |
@@ -22488,6 +22492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoneLoops! of Jurassica | 67810 | [67810-stoneloops-of-jurassica.json](./67810-stoneloops-of-jurassica.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
 | Stoneman's Adventure | 256725 | [256725-stonemans-adventure.json](./256725-stonemans-adventure.json) |
+| Stonerill | 370161 | [370161-stonerill.json](./370161-stonerill.json) |
 | Stones Keeper: Director's Cut | 419645 | [419645-stones-keeper-directors-cut.json](./419645-stones-keeper-directors-cut.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
