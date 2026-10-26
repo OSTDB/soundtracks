@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Samurai Remnant: Additional Episode 3 - Record's Fragment: Bailong and the Crimson Demon | 306712 | [306712-fate-samurai-remnant-additional-episode-3-records-fragment-bailong-and-the-crimson-demon.json](./306712-fate-samurai-remnant-additional-episode-3-records-fragment-bailong-and-the-crimson-demon.json) |
 | Fate/Samurai Remnant: Digital Deluxe Edition | 259526 | [259526-fate-samurai-remnant-digital-deluxe-edition.json](./259526-fate-samurai-remnant-digital-deluxe-edition.json) |
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
+| Fate/Stay Night + Fate/Hollow Ataraxia Bundle | 362790 | [362790-fate-stay-night-fate-hollow-ataraxia-bundle.json](./362790-fate-stay-night-fate-hollow-ataraxia-bundle.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fate/Stay Night: Réalta Nua | 146062 | [146062-fate-stay-night-realta-nua.json](./146062-fate-stay-night-realta-nua.json) |
 | Fate/Stay Night: Réalta Nua - Fate | 47067 | [47067-fate-stay-night-realta-nua-fate.json](./47067-fate-stay-night-realta-nua-fate.json) |
@@ -7574,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | FoolHut Pack: 3 games in 1 | 295123 | [295123-foolhut-pack-3-games-in-1.json](./295123-foolhut-pack-3-games-in-1.json) |
 | Fooling Dead | 392709 | [392709-fooling-dead.json](./392709-fooling-dead.json) |
+| Foolish Earthlings! | 362789 | [362789-foolish-earthlings.json](./362789-foolish-earthlings.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Fools Fortune | 134961 | [134961-fools-fortune.json](./134961-fools-fortune.json) |
 | Foonda | 196172 | [196172-foonda.json](./196172-foonda.json) |
@@ -9682,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freediving Hunter: Spearfishing the World | 130620 | [130620-freediving-hunter-spearfishing-the-world.json](./130620-freediving-hunter-spearfishing-the-world.json) |
 | Freedom | 148833 | [148833-freedom.json](./148833-freedom.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
+| Freedom Bomber | 362929 | [362929-freedom-bomber.json](./362929-freedom-bomber.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
 | Freedom Cry | 34653 | [34653-freedom-cry.json](./34653-freedom-cry.json) |
 | Freedom Drive | 220023 | [220023-freedom-drive.json](./220023-freedom-drive.json) |
