@@ -2980,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
 | Adventure Mosaics: Small Islanders | 157932 | [157932-adventure-mosaics-small-islanders.json](./157932-adventure-mosaics-small-islanders.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
+| Adventure Mosaics: Venice Carnival | 336984 | [336984-adventure-mosaics-venice-carnival.json](./336984-adventure-mosaics-venice-carnival.json) |
 | Adventure Mosaics: Winter Holidays | 294203 | [294203-adventure-mosaics-winter-holidays.json](./294203-adventure-mosaics-winter-holidays.json) |
 | Adventure of a Digger | 103425 | [103425-adventure-of-a-digger.json](./103425-adventure-of-a-digger.json) |
 | Adventure of a Lifetime | 97221 | [97221-adventure-of-a-lifetime.json](./97221-adventure-of-a-lifetime.json) |
