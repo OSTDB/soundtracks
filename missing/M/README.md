@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Battle Festa | 17218 | [17218-magical-battle-festa.json](./17218-magical-battle-festa.json) |
 | Magical Beat | 52549 | [52549-magical-beat.json](./52549-magical-beat.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
+| Magical Blush | 378222 | [378222-magical-blush.json](./378222-magical-blush.json) |
 | Magical Bocco 20541 | 328944 | [328944-magical-bocco-20541.json](./328944-magical-bocco-20541.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Brickout | 25071 | [25071-magical-brickout.json](./25071-magical-brickout.json) |
@@ -4007,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Spider-Man: Miles Morales - Ultimate Launch Edition | 262164 | [262164-marvels-spider-man-miles-morales-ultimate-launch-edition.json](./262164-marvels-spider-man-miles-morales-ultimate-launch-edition.json) |
 | Marvel's Spider-Man: New Game Plus Update | 251543 | [251543-marvels-spider-man-new-game-plus-update.json](./251543-marvels-spider-man-new-game-plus-update.json) |
 | Marvel's Spider-Man: Silver Lining | 109422 | [109422-marvels-spider-man-silver-lining.json](./109422-marvels-spider-man-silver-lining.json) |
+| Marvel's Spider-Man: The Great Web | 378149 | [378149-marvels-spider-man-the-great-web.json](./378149-marvels-spider-man-the-great-web.json) |
 | Marvel's Spider-Man: The Heist | 109419 | [109419-marvels-spider-man-the-heist.json](./109419-marvels-spider-man-the-heist.json) |
 | Marvel's Spider-Man: Turf Wars | 109421 | [109421-marvels-spider-man-turf-wars.json](./109421-marvels-spider-man-turf-wars.json) |
 | Marvel's The Invincible Iron Man | 49231 | [49231-marvels-the-invincible-iron-man.json](./49231-marvels-the-invincible-iron-man.json) |
@@ -7252,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
 | Memories of a Broken Dimension | 137569 | [137569-memories-of-a-broken-dimension.json](./137569-memories-of-a-broken-dimension.json) |
+| Memories of a Forgotten Home | 378151 | [378151-memories-of-a-forgotten-home.json](./378151-memories-of-a-forgotten-home.json) |
 | Memories of a Hedgehog | 316931 | [316931-memories-of-a-hedgehog.json](./316931-memories-of-a-hedgehog.json) |
 | Memories of a Vagabond | 17534 | [17534-memories-of-a-vagabond.json](./17534-memories-of-a-vagabond.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
@@ -10333,6 +10336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
 | Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
+| Miner to Die | 378249 | [378249-miner-to-die.json](./378249-miner-to-die.json) |
 | Miner Tower Defense | 304439 | [304439-miner-tower-defense.json](./304439-miner-tower-defense.json) |
 | Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
@@ -12280,6 +12284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
 | Moldbreaker: Rise of the Loaf | 325305 | [325305-moldbreaker-rise-of-the-loaf.json](./325305-moldbreaker-rise-of-the-loaf.json) |
+| Moldling | 378244 | [378244-moldling.json](./378244-moldling.json) |
 | Moldorian: Hikari to Yami no Sister | 45261 | [45261-moldorian-hikari-to-yami-no-sister.json](./45261-moldorian-hikari-to-yami-no-sister.json) |
 | Moldrise | 405165 | [405165-moldrise.json](./405165-moldrise.json) |
 | Moldwasher | 342738 | [342738-moldwasher.json](./342738-moldwasher.json) |
