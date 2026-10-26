@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban Bundle: 1 + 2 | 308643 | [308643-garten-of-banban-bundle-1-2.json](./308643-garten-of-banban-bundle-1-2.json) |
 | Garten of Banban Bundle: 1 + 2 + 3 + 4 | 308589 | [308589-garten-of-banban-bundle-1-2-3-4.json](./308589-garten-of-banban-bundle-1-2-3-4.json) |
 | Garten of Banban Bundle: 3 + 4 | 308617 | [308617-garten-of-banban-bundle-3-4.json](./308617-garten-of-banban-bundle-3-4.json) |
+| Garten of Banban VR | 382847 | [382847-garten-of-banban-vr.json](./382847-garten-of-banban-vr.json) |
 | Garten of Banban VR: Distorting Clay | 324742 | [324742-garten-of-banban-vr-distorting-clay.json](./324742-garten-of-banban-vr-distorting-clay.json) |
 | Garten of Banban: Last Ticket to the Abyss | 363986 | [363986-garten-of-banban-last-ticket-to-the-abyss.json](./363986-garten-of-banban-last-ticket-to-the-abyss.json) |
 | Gartic | 50158 | [50158-gartic.json](./50158-gartic.json) |
@@ -6885,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard: The Shift | 247663 | [247663-graveyard-the-shift.json](./247663-graveyard-the-shift.json) |
 | Graveyard404 | 365260 | [365260-graveyard404.json](./365260-graveyard404.json) |
 | GraveyardGambit | 308969 | [308969-graveyardgambit.json](./308969-graveyardgambit.json) |
+| Gravezone Arena | 382827 | [382827-gravezone-arena.json](./382827-gravezone-arena.json) |
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
 | Gravia | 106428 | [106428-gravia.json](./106428-gravia.json) |
 | Gravibots | 309613 | [309613-gravibots.json](./309613-gravibots.json) |
