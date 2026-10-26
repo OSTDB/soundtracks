@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Fantasy War | 372426 | [372426-tabletop-fantasy-war.json](./372426-tabletop-fantasy-war.json) |
 | Tabletop Foosball | 409513 | [409513-tabletop-foosball.json](./409513-tabletop-foosball.json) |
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
+| Tabletop Game Shop Simulator | 343187 | [343187-tabletop-game-shop-simulator.json](./343187-tabletop-game-shop-simulator.json) |
 | Tabletop Gods | 111985 | [111985-tabletop-gods.json](./111985-tabletop-gods.json) |
 | Tabletop idle | 101742 | [101742-tabletop-idle.json](./101742-tabletop-idle.json) |
 | Tabletop Inc. | 422087 | [422087-tabletop-inc.json](./422087-tabletop-inc.json) |
@@ -1712,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Wars | 352345 | [352345-tank-wars.json](./352345-tank-wars.json) |
 | Tank Wars | 85827 | [85827-tank-wars.json](./85827-tank-wars.json) |
 | Tank Wars: Anniversary Edition | 75588 | [75588-tank-wars-anniversary-edition.json](./75588-tank-wars-anniversary-edition.json) |
+| Tank Warz | 343487 | [343487-tank-warz.json](./343487-tank-warz.json) |
 | Tank Warz! | 61609 | [61609-tank-warz.json](./61609-tank-warz.json) |
 | Tank Zero | 372050 | [372050-tank-zero.json](./372050-tank-zero.json) |
 | Tank Zombie Smasher | 156209 | [156209-tank-zombie-smasher.json](./156209-tank-zombie-smasher.json) |
@@ -11825,6 +11827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Muncher | 67800 | [67800-the-muncher.json](./67800-the-muncher.json) |
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
+| The Muppet Show: Backstage Rampage | 343182 | [343182-the-muppet-show-backstage-rampage.json](./343182-the-muppet-show-backstage-rampage.json) |
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Murder of Adrian Elkwood | 70851 | [70851-the-murder-of-adrian-elkwood.json](./70851-the-murder-of-adrian-elkwood.json) |
@@ -16585,6 +16588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theseus: Journey to Athens | 114092 | [114092-theseus-journey-to-athens.json](./114092-theseus-journey-to-athens.json) |
 | TheShooterGame | 101283 | [101283-theshootergame.json](./101283-theshootergame.json) |
 | Thesis of Love | 370073 | [370073-thesis-of-love.json](./370073-thesis-of-love.json) |
+| Thesis: Purple Locus | 343192 | [343192-thesis-purple-locus.json](./343192-thesis-purple-locus.json) |
 | Thesmophoria | 244304 | [244304-thesmophoria.json](./244304-thesmophoria.json) |
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
@@ -16625,6 +16629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came From the Moon | 33790 | [33790-they-came-from-the-moon.json](./33790-they-came-from-the-moon.json) |
 | They came from the Skies | 54197 | [54197-they-came-from-the-skies.json](./54197-they-came-from-the-skies.json) |
 | They Came From the Sky | 118328 | [118328-they-came-from-the-sky.json](./118328-they-came-from-the-sky.json) |
+| They Cannot Hear Me | 343164 | [343164-they-cannot-hear-me.json](./343164-they-cannot-hear-me.json) |
 | They Come at Poop Time | 185355 | [185355-they-come-at-poop-time.json](./185355-they-come-at-poop-time.json) |
 | They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
 | They Die Tomorrow | 188567 | [188567-they-die-tomorrow.json](./188567-they-die-tomorrow.json) |
@@ -20823,6 +20828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tölt | 350931 | [350931-tolt.json](./350931-tolt.json) |
 | Toltec and the Mysteries of the Secret Island | 111401 | [111401-toltec-and-the-mysteries-of-the-secret-island.json](./111401-toltec-and-the-mysteries-of-the-secret-island.json) |
 | Tom & Jerry 2 | 123248 | [123248-tom-and-jerry-2.json](./123248-tom-and-jerry-2.json) |
+| Tom & Jerry in Dynamice | 343181 | [343181-tom-and-jerry-in-dynamice.json](./343181-tom-and-jerry-in-dynamice.json) |
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
 | Tom & Jerry Popper | 47255 | [47255-tom-and-jerry-popper.json](./47255-tom-and-jerry-popper.json) |
 | Tom & Jerry: Hunting High and Low | 8024 | [8024-tom-and-jerry-hunting-high-and-low.json](./8024-tom-and-jerry-hunting-high-and-low.json) |
@@ -21095,6 +21101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Anniversary | 370001 | [370001-tomb-raider-anniversary.json](./370001-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
+| Tomb Raider: Apocalypse | 343180 | [343180-tomb-raider-apocalypse.json](./343180-tomb-raider-apocalypse.json) |
 | Tomb Raider: Aviatrix Skin | 406530 | [406530-tomb-raider-aviatrix-skin.json](./406530-tomb-raider-aviatrix-skin.json) |
 | Tomb Raider: Catalyst | 381234 | [381234-tomb-raider-catalyst.json](./381234-tomb-raider-catalyst.json) |
 | Tomb Raider: Caves and Cliffs Multiplayer Map Pack | 406533 | [406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json](./406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json) |
@@ -21488,6 +21495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown Rewritten | 134488 | [134488-toontown-rewritten.json](./134488-toontown-rewritten.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown Rewritten: Sellbot Task Force | 225810 | [225810-toontown-rewritten-sellbot-task-force.json](./225810-toontown-rewritten-sellbot-task-force.json) |
+| Toontown Rewritten: Under New Management | 343193 | [343193-toontown-rewritten-under-new-management.json](./343193-toontown-rewritten-under-new-management.json) |
 | Toontown: Corporate Clash | 139366 | [139366-toontown-corporate-clash.json](./139366-toontown-corporate-clash.json) |
 | Toontown: Event Horizon | 377940 | [377940-toontown-event-horizon.json](./377940-toontown-event-horizon.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
@@ -23428,6 +23436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
 | Trail of the Cryptid | 392197 | [392197-trail-of-the-cryptid.json](./392197-trail-of-the-cryptid.json) |
 | Trail of the Damned | 160222 | [160222-trail-of-the-damned.json](./160222-trail-of-the-damned.json) |
+| Trail of the Snail | 343171 | [343171-trail-of-the-snail.json](./343171-trail-of-the-snail.json) |
 | Trail of the Wretched | 280246 | [280246-trail-of-the-wretched.json](./280246-trail-of-the-wretched.json) |
 | Trail of Toads | 223166 | [223166-trail-of-toads.json](./223166-trail-of-toads.json) |
 | Trail Out | 188913 | [188913-trail-out.json](./188913-trail-out.json) |
@@ -26740,6 +26749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust | 378310 | [378310-trust.json](./378310-trust.json) |
 | Trust & Safety Tycoon | 343212 | [343212-trust-and-safety-tycoon.json](./343212-trust-and-safety-tycoon.json) |
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
+| Trust Exercise | 343194 | [343194-trust-exercise.json](./343194-trust-exercise.json) |
 | Trust Me | 290356 | [290356-trust-me.json](./290356-trust-me.json) |
 | Trust Me | 373815 | [373815-trust-me.json](./373815-trust-me.json) |
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
@@ -27604,6 +27614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TWHL Tower: Source | 309161 | [309161-twhl-tower-source.json](./309161-twhl-tower-source.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
 | Twice as Bounce | 387405 | [387405-twice-as-bounce.json](./387405-twice-as-bounce.json) |
+| Twice Bitten | 343176 | [343176-twice-bitten.json](./343176-twice-bitten.json) |
 | Twice Dead | 349082 | [349082-twice-dead.json](./349082-twice-dead.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
