@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Verrückte Licht | 94517 | [94517-das-verruckte-licht.json](./94517-das-verruckte-licht.json) |
 | Dasaku | 137041 | [137041-dasaku.json](./137041-dasaku.json) |
 | Dash | 341457 | [341457-dash.json](./341457-dash.json) |
+| Dash | 375922 | [375922-dash.json](./375922-dash.json) |
 | Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
 | Dash & Swing | 245845 | [245845-dash-and-swing.json](./245845-dash-and-swing.json) |
 | Dash and Fire | 155668 | [155668-dash-and-fire.json](./155668-dash-and-fire.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Hungry Diner | 8442 | [8442-dead-hungry-diner.json](./8442-dead-hungry-diner.json) |
 | Dead Hunter | 119760 | [119760-dead-hunter.json](./119760-dead-hunter.json) |
 | Dead Ice | 195544 | [195544-dead-ice.json](./195544-dead-ice.json) |
+| Dead Impact | 375919 | [375919-dead-impact.json](./375919-dead-impact.json) |
 | Dead In Antares | 334669 | [334669-dead-in-antares.json](./334669-dead-in-antares.json) |
 | Dead In Bermuda | 18440 | [18440-dead-in-bermuda.json](./18440-dead-in-bermuda.json) |
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
@@ -5005,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeliverwarTH | 372229 | [372229-deliverwarth.json](./372229-deliverwarth.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Company Clicker | 149303 | [149303-delivery-company-clicker.json](./149303-delivery-company-clicker.json) |
+| Delivery Dash: Battle Couriers | 375885 | [375885-delivery-dash-battle-couriers.json](./375885-delivery-dash-battle-couriers.json) |
 | Delivery Driver Massacre | 380473 | [380473-delivery-driver-massacre.json](./380473-delivery-driver-massacre.json) |
 | Delivery Driver Massacre: Definitive Edition | 400554 | [400554-delivery-driver-massacre-definitive-edition.json](./400554-delivery-driver-massacre-definitive-edition.json) |
 | Delivery Driver Service | 302378 | [302378-delivery-driver-service.json](./302378-delivery-driver-service.json) |
@@ -11918,6 +11921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 2018 | 83565 | [83565-draft-day-sports-pro-football-2018.json](./83565-draft-day-sports-pro-football-2018.json) |
 | Draft Day Sports: Pro Football 2020 | 121114 | [121114-draft-day-sports-pro-football-2020.json](./121114-draft-day-sports-pro-football-2020.json) |
 | Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
+| Draft Day Sports: Pro Football 26 | 375899 | [375899-draft-day-sports-pro-football-26.json](./375899-draft-day-sports-pro-football-26.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
 | Draft Showdown | 417330 | [417330-draft-showdown.json](./417330-draft-showdown.json) |
 | Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
@@ -14314,6 +14318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Core | 33168 | [33168-dual-core.json](./33168-dual-core.json) |
 | Dual Discovery: Unite Challenge | 320318 | [320318-dual-discovery-unite-challenge.json](./320318-dual-discovery-unite-challenge.json) |
 | Dual Eclipse | 309848 | [309848-dual-eclipse.json](./309848-dual-eclipse.json) |
+| Dual Fire Walled City | 375898 | [375898-dual-fire-walled-city.json](./375898-dual-fire-walled-city.json) |
 | Dual Force | 413669 | [413669-dual-force.json](./413669-dual-force.json) |
 | Dual Fury | 187842 | [187842-dual-fury.json](./187842-dual-fury.json) |
 | Dual Gear | 33551 | [33551-dual-gear.json](./33551-dual-gear.json) |
