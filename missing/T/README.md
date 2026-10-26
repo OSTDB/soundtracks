@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TargetPop | 212156 | [212156-targetpop.json](./212156-targetpop.json) |
 | Targets | 234656 | [234656-targets.json](./234656-targets.json) |
 | Targhan | 10849 | [10849-targhan.json](./10849-targhan.json) |
+| Taria & Como | 340849 | [340849-taria-and-como.json](./340849-taria-and-como.json) |
 | Tarim | 55314 | [55314-tarim.json](./55314-tarim.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
@@ -8113,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flowertest | 341003 | [341003-the-flowertest.json](./341003-the-flowertest.json) |
 | The Flute | 233094 | [233094-the-flute.json](./233094-the-flute.json) |
 | The Flying Baron | 91525 | [91525-the-flying-baron.json](./91525-the-flying-baron.json) |
+| The Flying Car | 340863 | [340863-the-flying-car.json](./340863-the-flying-car.json) |
 | The Flying Dutchman | 17812 | [17812-the-flying-dutchman.json](./17812-the-flying-dutchman.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Flying Hamster | 42825 | [42825-the-flying-hamster.json](./42825-the-flying-hamster.json) |
@@ -9649,6 +9651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Nuggets | 210922 | [210922-the-jumping-nuggets.json](./210922-the-jumping-nuggets.json) |
 | The Jumping Nuggets: Turbo | 210923 | [210923-the-jumping-nuggets-turbo.json](./210923-the-jumping-nuggets-turbo.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
+| The Jumping Orange | 340837 | [340837-the-jumping-orange.json](./340837-the-jumping-orange.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
 | The Jumping Pasta | 214012 | [214012-the-jumping-pasta.json](./214012-the-jumping-pasta.json) |
 | The Jumping Pasta: Turbo | 214011 | [214011-the-jumping-pasta-turbo.json](./214011-the-jumping-pasta-turbo.json) |
@@ -13291,6 +13294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Marines Commando | 9370 | [9370-the-royal-marines-commando.json](./9370-the-royal-marines-commando.json) |
 | The Royal Office of Magick Affairs | 315654 | [315654-the-royal-office-of-magick-affairs.json](./315654-the-royal-office-of-magick-affairs.json) |
 | The Royal Rebel Casino | 369365 | [369365-the-royal-rebel-casino.json](./369365-the-royal-rebel-casino.json) |
+| The Royal Writ | 340830 | [340830-the-royal-writ.json](./340830-the-royal-writ.json) |
 | The RPG | 250819 | [250819-the-rpg.json](./250819-the-rpg.json) |
 | The Rub Rabbits! | 20488 | [20488-the-rub-rabbits.json](./20488-the-rub-rabbits.json) |
 | The Ruby Court | 298436 | [298436-the-ruby-court.json](./298436-the-ruby-court.json) |
@@ -19926,6 +19930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Troopers: Global Ops - Digital Deluxe Bundle | 242677 | [242677-tiny-troopers-global-ops-digital-deluxe-bundle.json](./242677-tiny-troopers-global-ops-digital-deluxe-bundle.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
 | Tiny Troopers: Joint Ops | 21320 | [21320-tiny-troopers-joint-ops.json](./21320-tiny-troopers-joint-ops.json) |
+| Tiny Turnip | 340853 | [340853-tiny-turnip.json](./340853-tiny-turnip.json) |
 | Tiny Tycoons | 63671 | [63671-tiny-tycoons.json](./63671-tiny-tycoons.json) |
 | Tiny Utopia | 390175 | [390175-tiny-utopia.json](./390175-tiny-utopia.json) |
 | Tiny Vikings | 276813 | [276813-tiny-vikings.json](./276813-tiny-vikings.json) |
@@ -26532,6 +26537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver Go | 320383 | [320383-truck-driver-go.json](./320383-truck-driver-go.json) |
 | Truck Driver: French Paint Jobs | 241067 | [241067-truck-driver-french-paint-jobs.json](./241067-truck-driver-french-paint-jobs.json) |
 | Truck Driver: German Paint Jobs | 241068 | [241068-truck-driver-german-paint-jobs.json](./241068-truck-driver-german-paint-jobs.json) |
+| Truck Driver: Gold Edition | 340844 | [340844-truck-driver-gold-edition.json](./340844-truck-driver-gold-edition.json) |
 | Truck Driver: Heading North | 212231 | [212231-truck-driver-heading-north.json](./212231-truck-driver-heading-north.json) |
 | Truck Driver: Hidden Places & Damage System | 164879 | [164879-truck-driver-hidden-places-and-damage-system.json](./164879-truck-driver-hidden-places-and-damage-system.json) |
 | Truck Driver: The American Dream - Freedom to Roam | 281428 | [281428-truck-driver-the-american-dream-freedom-to-roam.json](./281428-truck-driver-the-american-dream-freedom-to-roam.json) |
@@ -27837,6 +27843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist It | 342730 | [342730-twist-it.json](./342730-twist-it.json) |
 | Twist Logic | 369555 | [369555-twist-logic.json](./369555-twist-logic.json) |
 | Twist of Destiny | 28926 | [28926-twist-of-destiny.json](./28926-twist-of-destiny.json) |
+| Twist of Light | 340848 | [340848-twist-of-light.json](./340848-twist-of-light.json) |
 | Twist Up! | 103571 | [103571-twist-up.json](./103571-twist-up.json) |
 | Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
