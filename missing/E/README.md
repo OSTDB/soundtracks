@@ -5086,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
 | Eternal Night: Realm of Souls | 25499 | [25499-eternal-night-realm-of-souls.json](./25499-eternal-night-realm-of-souls.json) |
 | Eternal Ninja | 320592 | [320592-eternal-ninja.json](./320592-eternal-ninja.json) |
+| Eternal Odyssey | 336993 | [336993-eternal-odyssey.json](./336993-eternal-odyssey.json) |
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal One | 369096 | [369096-eternal-one.json](./369096-eternal-one.json) |
 | Eternal One: Memories of Kumo Island | 369760 | [369760-eternal-one-memories-of-kumo-island.json](./369760-eternal-one-memories-of-kumo-island.json) |
