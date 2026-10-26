@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramboat 2 | 314592 | [314592-ramboat-2.json](./314592-ramboat-2.json) |
 | Rambunny | 127009 | [127009-rambunny.json](./127009-rambunny.json) |
 | Ramek: Total Machine Death | 337280 | [337280-ramek-total-machine-death.json](./337280-ramek-total-machine-death.json) |
+| Ramen | 344269 | [344269-ramen.json](./344269-ramen.json) |
 | Ramen Bowl Chicken Roll | 101442 | [101442-ramen-bowl-chicken-roll.json](./101442-ramen-bowl-chicken-roll.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
 | Ramen Heaven | 209318 | [209318-ramen-heaven.json](./209318-ramen-heaven.json) |
@@ -10211,6 +10212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Stars | 114700 | [114700-rumble-stars.json](./114700-rumble-stars.json) |
 | Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
+| Rumbly | 344294 | [344294-rumbly.json](./344294-rumbly.json) |
 | Rumbo and the Quest for Scar City | 185382 | [185382-rumbo-and-the-quest-for-scar-city.json](./185382-rumbo-and-the-quest-for-scar-city.json) |
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
@@ -10814,6 +10816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Roads | 81228 | [81228-russian-roads.json](./81228-russian-roads.json) |
 | Russian Roulette | 238972 | [238972-russian-roulette.json](./238972-russian-roulette.json) |
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
+| Russian Roulette | 344274 | [344274-russian-roulette.json](./344274-russian-roulette.json) |
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
 | Russian Roulette: Online | 297328 | [297328-russian-roulette-online.json](./297328-russian-roulette-online.json) |
