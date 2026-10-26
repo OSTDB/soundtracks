@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
+| Zerowake Gates | 379943 | [379943-zerowake-gates.json](./379943-zerowake-gates.json) |
 | ZeroZap | 108892 | [108892-zerozap.json](./108892-zerozap.json) |
 | ZeroZeta | 361761 | [361761-zerozeta.json](./361761-zerozeta.json) |
 | Zerra's Adventure | 297757 | [297757-zerras-adventure.json](./297757-zerras-adventure.json) |
