@@ -3714,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
 | Catography | 251067 | [251067-catography.json](./251067-catography.json) |
+| Catolonizer | 363325 | [363325-catolonizer.json](./363325-catolonizer.json) |
 | Catomic | 27432 | [27432-catomic.json](./27432-catomic.json) |
 | Catopia: Rush | 152070 | [152070-catopia-rush.json](./152070-catopia-rush.json) |
 | Catopy | 336652 | [336652-catopy.json](./336652-catopy.json) |
@@ -5315,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
 | Cheese: The Cheese Collector | 319092 | [319092-cheese-the-cheese-collector.json](./319092-cheese-the-cheese-collector.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
+| CheeseCatToe | 363353 | [363353-cheesecattoe.json](./363353-cheesecattoe.json) |
 | Cheeseland Mistery | 384176 | [384176-cheeseland-mistery.json](./384176-cheeseland-mistery.json) |
 | CheeseLords | 378440 | [378440-cheeselords.json](./378440-cheeselords.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
@@ -9677,6 +9679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collector's Cove: Supporter Pack | 393063 | [393063-collectors-cove-supporter-pack.json](./393063-collectors-cove-supporter-pack.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
+| College Baseball: Dynasty Builder | 363421 | [363421-college-baseball-dynasty-builder.json](./363421-college-baseball-dynasty-builder.json) |
 | College Basketball Manager | 303735 | [303735-college-basketball-manager.json](./303735-college-basketball-manager.json) |
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
 | College Bound | 187242 | [187242-college-bound.json](./187242-college-bound.json) |
