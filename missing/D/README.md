@@ -15244,6 +15244,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Gods | 199915 | [199915-dungeon-of-gods.json](./199915-dungeon-of-gods.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
 | Dungeon of Horror | 262909 | [262909-dungeon-of-horror.json](./262909-dungeon-of-horror.json) |
+| Dungeon of Love: Catch Monsters to Make a Perfect Anime Boyfriend | 343723 | [343723-dungeon-of-love-catch-monsters-to-make-a-perfect-anime-boyfriend.json](./343723-dungeon-of-love-catch-monsters-to-make-a-perfect-anime-boyfriend.json) |
+| Dungeon of Love: Catch Monsters to Make a Perfect Anime Girlfriend | 343722 | [343722-dungeon-of-love-catch-monsters-to-make-a-perfect-anime-girlfriend.json](./343722-dungeon-of-love-catch-monsters-to-make-a-perfect-anime-girlfriend.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
 | Dungeon of Minos - movable maze | 97142 | [97142-dungeon-of-minos-movable-maze.json](./97142-dungeon-of-minos-movable-maze.json) |
@@ -15580,6 +15582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
+| Dungeons and Taverns | 344039 | [344039-dungeons-and-taverns.json](./344039-dungeons-and-taverns.json) |
 | Dungeons and Tiles | 224060 | [224060-dungeons-and-tiles.json](./224060-dungeons-and-tiles.json) |
 | Dungeons Are Random | 33845 | [33845-dungeons-are-random.json](./33845-dungeons-are-random.json) |
 | Dungeons Forever | 84034 | [84034-dungeons-forever.json](./84034-dungeons-forever.json) |
