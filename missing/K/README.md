@@ -2334,7 +2334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4465,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koo & Yuu | 127580 | [127580-koo-and-yuu.json](./127580-koo-and-yuu.json) |
 | Koob Dog | 289777 | [289777-koob-dog.json](./289777-koob-dog.json) |
 | Koodbool | 308448 | [308448-koodbool.json](./308448-koodbool.json) |
+| Kooeh: A Timeless Delight | 367933 | [367933-kooeh-a-timeless-delight.json](./367933-kooeh-a-timeless-delight.json) |
 | Kook | 245829 | [245829-kook.json](./245829-kook.json) |
 | Kooka Bonga | 307215 | [307215-kooka-bonga.json](./307215-kooka-bonga.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
@@ -4590,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
 | Kosmic Kanga | 306802 | [306802-kosmic-kanga.json](./306802-kosmic-kanga.json) |
 | Kosmik Pirate | 300032 | [300032-kosmik-pirate.json](./300032-kosmik-pirate.json) |
+| Kosmitcheskii most | 367913 | [367913-kosmitcheskii-most.json](./367913-kosmitcheskii-most.json) |
 | Kosmo & Klax: Treehouse-Party | 95693 | [95693-kosmo-and-klax-treehouse-party.json](./95693-kosmo-and-klax-treehouse-party.json) |
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
 | Kosmo Killer | 120627 | [120627-kosmo-killer.json](./120627-kosmo-killer.json) |
@@ -5242,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuusou Kagaku Sekai Gulliver Boy: Kuusou Kagaku Puzzle Puritto Pon | 228604 | [228604-kuusou-kagaku-sekai-gulliver-boy-kuusou-kagaku-puzzle-puritto-pon.json](./228604-kuusou-kagaku-sekai-gulliver-boy-kuusou-kagaku-puzzle-puritto-pon.json) |
 | Kuusou Sakaba: A Great Banquet Of Liars | 288361 | [288361-kuusou-sakaba-a-great-banquet-of-liars.json](./288361-kuusou-sakaba-a-great-banquet-of-liars.json) |
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
+| Kvaka-zadavaka | 367906 | [367906-kvaka-zadavaka.json](./367906-kvaka-zadavaka.json) |
 | Kvark | 244262 | [244262-kvark.json](./244262-kvark.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwad | 408730 | [408730-kwad.json](./408730-kwad.json) |
