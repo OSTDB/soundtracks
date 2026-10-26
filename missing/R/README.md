@@ -5086,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
 | Retro Royale | 112262 | [112262-retro-royale.json](./112262-retro-royale.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
+| Retro Rugby | 350335 | [350335-retro-rugby.json](./350335-retro-rugby.json) |
 | Retro Run | 172003 | [172003-retro-run.json](./172003-retro-run.json) |
 | Retro Runner | 384316 | [384316-retro-runner.json](./384316-retro-runner.json) |
 | Retro Runner: Endless Runner Adventure | 96490 | [96490-retro-runner-endless-runner-adventure.json](./96490-retro-runner-endless-runner-adventure.json) |
@@ -5101,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
 | Retro Space Fighter | 147150 | [147150-retro-space-fighter.json](./147150-retro-space-fighter.json) |
+| Retro Space Shooter | 350356 | [350356-retro-space-shooter.json](./350356-retro-space-shooter.json) |
 | Retro Space Shooter | 75186 | [75186-retro-space-shooter.json](./75186-retro-space-shooter.json) |
 | Retro Speed 2 | 244088 | [244088-retro-speed-2.json](./244088-retro-speed-2.json) |
 | Retro Sphere | 81656 | [81656-retro-sphere.json](./81656-retro-sphere.json) |
