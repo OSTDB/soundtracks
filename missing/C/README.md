@@ -5529,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Ultra | 31561 | [31561-chess-ultra.json](./31561-chess-ultra.json) |
 | Chess Undress | 260338 | [260338-chess-undress.json](./260338-chess-undress.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
+| Chess Up! Checkmate With Friends | 385121 | [385121-chess-up-checkmate-with-friends.json](./385121-chess-up-checkmate-with-friends.json) |
 | Chess Valley | 159534 | [159534-chess-valley.json](./159534-chess-valley.json) |
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
 | Chess vs. The Axis of Evil | 52494 | [52494-chess-vs-the-axis-of-evil.json](./52494-chess-vs-the-axis-of-evil.json) |
@@ -8824,6 +8825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
 | Club Soccer Director 2021 | 148859 | [148859-club-soccer-director-2021.json](./148859-club-soccer-director-2021.json) |
 | Club Soccer Director PRO 2020 | 120578 | [120578-club-soccer-director-pro-2020.json](./120578-club-soccer-director-pro-2020.json) |
+| Club Sports Collection | 385134 | [385134-club-sports-collection.json](./385134-club-sports-collection.json) |
 | Club Sports Collection Upgrade Edition | 397887 | [397887-club-sports-collection-upgrade-edition.json](./397887-club-sports-collection-upgrade-edition.json) |
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
 | Club Sports Collection: Legendary Edition | 407114 | [407114-club-sports-collection-legendary-edition.json](./407114-club-sports-collection-legendary-edition.json) |
@@ -13486,6 +13488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Scribble Scrubbie Pets | 355892 | [355892-crayola-scribble-scrubbie-pets.json](./355892-crayola-scribble-scrubbie-pets.json) |
 | Crayola Treasure Adventures | 21363 | [21363-crayola-treasure-adventures.json](./21363-crayola-treasure-adventures.json) |
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
+| Crayon Animal | 385157 | [385157-crayon-animal.json](./385157-crayon-animal.json) |
 | Crayon Car | 365544 | [365544-crayon-car.json](./365544-crayon-car.json) |
 | Crayon Christmas | 380704 | [380704-crayon-christmas.json](./380704-crayon-christmas.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
@@ -16041,6 +16044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup Heroes | 330120 | [330120-cup-heroes.json](./330120-cup-heroes.json) |
 | Cup Heroes: Beginner Merge Bundle | 414455 | [414455-cup-heroes-beginner-merge-bundle.json](./414455-cup-heroes-beginner-merge-bundle.json) |
 | Cup Heroes: Diamond Bag Bundle | 397885 | [397885-cup-heroes-diamond-bag-bundle.json](./397885-cup-heroes-diamond-bag-bundle.json) |
+| Cup Heroes: Diamond Hoard Bundle | 385161 | [385161-cup-heroes-diamond-hoard-bundle.json](./385161-cup-heroes-diamond-hoard-bundle.json) |
 | Cup Heroes: Diamond Satchel Bundle | 410855 | [410855-cup-heroes-diamond-satchel-bundle.json](./410855-cup-heroes-diamond-satchel-bundle.json) |
 | Cup Heroes: Handful Bundle | 386564 | [386564-cup-heroes-handful-bundle.json](./386564-cup-heroes-handful-bundle.json) |
 | Cup Manager | 93170 | [93170-cup-manager.json](./93170-cup-manager.json) |
