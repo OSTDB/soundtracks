@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8AM: The Shopping Mall | 377398 | [377398-8am-the-shopping-mall.json](./377398-8am-the-shopping-mall.json) |
 | 8AM: The Subway | 377397 | [377397-8am-the-subway.json](./377397-8am-the-subway.json) |
 | 8AM: The Swimming Pool | 377396 | [377396-8am-the-swimming-pool.json](./377396-8am-the-swimming-pool.json) |
+| 8AM: The Warehouse | 375238 | [375238-8am-the-warehouse.json](./375238-8am-the-warehouse.json) |
 | 8BallAllstars | 55079 | [55079-8ballallstars.json](./55079-8ballallstars.json) |
 | 8bit Doves | 262348 | [262348-8bit-doves.json](./262348-8bit-doves.json) |
 | 8Bit Fiesta: Game Pack 1 | 167670 | [167670-8bit-fiesta-game-pack-1.json](./167670-8bit-fiesta-game-pack-1.json) |
