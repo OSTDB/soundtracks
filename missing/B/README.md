@@ -7393,6 +7393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
+| Black Border II | 374564 | [374564-black-border-ii.json](./374564-black-border-ii.json) |
 | Black Border Patrol Simulator | 139646 | [139646-black-border-patrol-simulator.json](./139646-black-border-patrol-simulator.json) |
 | Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
 | Black Box Challenge | 108811 | [108811-black-box-challenge.json](./108811-black-box-challenge.json) |
