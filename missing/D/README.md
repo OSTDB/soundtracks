@@ -13155,6 +13155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | Dreadmiles | 425500 | [425500-dreadmiles.json](./425500-dreadmiles.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
+| Dreadmoor | 340334 | [340334-dreadmoor.json](./340334-dreadmoor.json) |
 | Dreadmyst | 381656 | [381656-dreadmyst.json](./381656-dreadmyst.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | Dreadnought | 266432 | [266432-dreadnought.json](./266432-dreadnought.json) |
