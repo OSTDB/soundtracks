@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma | 415474 | [415474-karma.json](./415474-karma.json) |
 | Karma - A Visual Novel About A Dystopia. | 124192 | [124192-karma-a-visual-novel-about-a-dystopia.json](./124192-karma-a-visual-novel-about-a-dystopia.json) |
 | Karma City Police | 132198 | [132198-karma-city-police.json](./132198-karma-city-police.json) |
+| Karma Clicker | 342551 | [342551-karma-clicker.json](./342551-karma-clicker.json) |
 | Karma Crown | 189944 | [189944-karma-crown.json](./189944-karma-crown.json) |
 | Karma Flow 2: Tears of a Ghost | 164997 | [164997-karma-flow-2-tears-of-a-ghost.json](./164997-karma-flow-2-tears-of-a-ghost.json) |
 | Karma II | 316288 | [316288-karma-ii.json](./316288-karma-ii.json) |
@@ -2347,7 +2348,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
