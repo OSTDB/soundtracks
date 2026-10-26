@@ -11931,6 +11931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Runner | 259164 | [259164-smash-runner.json](./259164-smash-runner.json) |
 | Smash Runner! | 223912 | [223912-smash-runner.json](./223912-smash-runner.json) |
 | Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
+| Smash Sector | 357275 | [357275-smash-sector.json](./357275-smash-sector.json) |
 | Smash simulator | 320833 | [320833-smash-simulator.json](./320833-smash-simulator.json) |
 | Smash Simulator | 391550 | [391550-smash-simulator.json](./391550-smash-simulator.json) |
 | Smash Slug | 194877 | [194877-smash-slug.json](./194877-smash-slug.json) |
