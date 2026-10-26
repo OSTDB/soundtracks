@@ -10765,6 +10765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Platform | 361033 | [361033-mining-platform.json](./361033-mining-platform.json) |
 | Mining Rail 2 | 122720 | [122720-mining-rail-2.json](./122720-mining-rail-2.json) |
 | Mining Rail Adventure | 417438 | [417438-mining-rail-adventure.json](./417438-mining-rail-adventure.json) |
+| Mining Shift | 382835 | [382835-mining-shift.json](./382835-mining-shift.json) |
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | Minion Forest | 82333 | [82333-minion-forest.json](./82333-minion-forest.json) |
