@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - Jonathan DLC | 393068 | [393068-real-boxing-2-remastered-jonathan-dlc.json](./393068-real-boxing-2-remastered-jonathan-dlc.json) |
 | Real Boxing 2: Remastered - Landon Edition | 346002 | [346002-real-boxing-2-remastered-landon-edition.json](./346002-real-boxing-2-remastered-landon-edition.json) |
 | Real Boxing 2: Remastered - Mark Rouser DLC | 380720 | [380720-real-boxing-2-remastered-mark-rouser-dlc.json](./380720-real-boxing-2-remastered-mark-rouser-dlc.json) |
+| Real Boxing 2: Remastered - Masaru & Maywinner Edition | 375144 | [375144-real-boxing-2-remastered-masaru-and-maywinner-edition.json](./375144-real-boxing-2-remastered-masaru-and-maywinner-edition.json) |
 | Real Boxing 2: Remastered - Maverick DLC | 393069 | [393069-real-boxing-2-remastered-maverick-dlc.json](./393069-real-boxing-2-remastered-maverick-dlc.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Boxing 2: Remastered - Stone Edition | 330207 | [330207-real-boxing-2-remastered-stone-edition.json](./330207-real-boxing-2-remastered-stone-edition.json) |
@@ -3651,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReFactory: Factory Simulator | 174529 | [174529-refactory-factory-simulator.json](./174529-refactory-factory-simulator.json) |
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
 | Refarm | 312178 | [312178-refarm.json](./312178-refarm.json) |
+| Refate: Echoes of Desire | 375209 | [375209-refate-echoes-of-desire.json](./375209-refate-echoes-of-desire.json) |
 | Refbals | 392272 | [392272-refbals.json](./392272-refbals.json) |
 | Referee Life Simulator 2026 | 373192 | [373192-referee-life-simulator-2026.json](./373192-referee-life-simulator-2026.json) |
 | Referee Simulator | 171818 | [171818-referee-simulator.json](./171818-referee-simulator.json) |
