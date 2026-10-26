@@ -72,8 +72,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M&M's Kart Racing | 47923 | [47923-m-and-ms-kart-racing.json](./47923-m-and-ms-kart-racing.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
 | M&M's Shell Shocked | 44749 | [44749-m-and-ms-shell-shocked.json](./44749-m-and-ms-shell-shocked.json) |
+| M&M's: Color Stacker | 361094 | [361094-m-and-ms-color-stacker.json](./361094-m-and-ms-color-stacker.json) |
 | M&M's: Do You Remember Color? | 324833 | [324833-m-and-ms-do-you-remember-color.json](./324833-m-and-ms-do-you-remember-color.json) |
+| M&M's: Flip The Mix | 361093 | [361093-m-and-ms-flip-the-mix.json](./361093-m-and-ms-flip-the-mix.json) |
+| M&M's: Red vs. Green | 361095 | [361095-m-and-ms-red-vs-green.json](./361095-m-and-ms-red-vs-green.json) |
 | M&M's: The Lost Formulas | 79613 | [79613-m-and-ms-the-lost-formulas.json](./79613-m-and-ms-the-lost-formulas.json) |
+| M&M's: Trivia Game | 361092 | [361092-m-and-ms-trivia-game.json](./361092-m-and-ms-trivia-game.json) |
+| M&M's: Wild Tiles | 361096 | [361096-m-and-ms-wild-tiles.json](./361096-m-and-ms-wild-tiles.json) |
 | M00m World | 323761 | [323761-m00m-world.json](./323761-m00m-world.json) |
 | M1 Tank Platoon | 12673 | [12673-m1-tank-platoon.json](./12673-m1-tank-platoon.json) |
 | M1 Tank Platoon 2 | 36902 | [36902-m1-tank-platoon-2.json](./36902-m1-tank-platoon-2.json) |
@@ -3235,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour | 85663 | [85663-mario-kart-tour.json](./85663-mario-kart-tour.json) |
 | Mario Kart Tour: 1st Anniversary Tour | 361133 | [361133-mario-kart-tour-1st-anniversary-tour.json](./361133-mario-kart-tour-1st-anniversary-tour.json) |
 | Mario Kart Tour: 2nd Anniversary Tour | 361161 | [361161-mario-kart-tour-2nd-anniversary-tour.json](./361161-mario-kart-tour-2nd-anniversary-tour.json) |
+| Mario Kart Tour: Amsterdam Tour | 361180 | [361180-mario-kart-tour-amsterdam-tour.json](./361180-mario-kart-tour-amsterdam-tour.json) |
 | Mario Kart Tour: Animal Tour | 361196 | [361196-mario-kart-tour-animal-tour.json](./361196-mario-kart-tour-animal-tour.json) |
 | Mario Kart Tour: Anniversary Tour | 361192 | [361192-mario-kart-tour-anniversary-tour.json](./361192-mario-kart-tour-anniversary-tour.json) |
 | Mario Kart Tour: Autumn Tour | 361162 | [361162-mario-kart-tour-autumn-tour.json](./361162-mario-kart-tour-autumn-tour.json) |
@@ -3247,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Cat Tour | 361141 | [361141-mario-kart-tour-cat-tour.json](./361141-mario-kart-tour-cat-tour.json) |
 | Mario Kart Tour: Cat Tour | 361183 | [361183-mario-kart-tour-cat-tour.json](./361183-mario-kart-tour-cat-tour.json) |
 | Mario Kart Tour: Cooking Tour | 361124 | [361124-mario-kart-tour-cooking-tour.json](./361124-mario-kart-tour-cooking-tour.json) |
+| Mario Kart Tour: Doctor Tour | 361181 | [361181-mario-kart-tour-doctor-tour.json](./361181-mario-kart-tour-doctor-tour.json) |
 | Mario Kart Tour: Doctor Tour | 361203 | [361203-mario-kart-tour-doctor-tour.json](./361203-mario-kart-tour-doctor-tour.json) |
 | Mario Kart Tour: Exploration Tour | 361127 | [361127-mario-kart-tour-exploration-tour.json](./361127-mario-kart-tour-exploration-tour.json) |
 | Mario Kart Tour: Exploration Tour | 361202 | [361202-mario-kart-tour-exploration-tour.json](./361202-mario-kart-tour-exploration-tour.json) |
@@ -3262,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Kamek Tour | 361158 | [361158-mario-kart-tour-kamek-tour.json](./361158-mario-kart-tour-kamek-tour.json) |
 | Mario Kart Tour: Los Angeles Tour | 361132 | [361132-mario-kart-tour-los-angeles-tour.json](./361132-mario-kart-tour-los-angeles-tour.json) |
 | Mario Kart Tour: Los Angeles Tour | 361153 | [361153-mario-kart-tour-los-angeles-tour.json](./361153-mario-kart-tour-los-angeles-tour.json) |
+| Mario Kart Tour: Los Angeles Tour | 361173 | [361173-mario-kart-tour-los-angeles-tour.json](./361173-mario-kart-tour-los-angeles-tour.json) |
 | Mario Kart Tour: Marine Tour | 361126 | [361126-mario-kart-tour-marine-tour.json](./361126-mario-kart-tour-marine-tour.json) |
 | Mario Kart Tour: Mario Bros. Tour | 338616 | [338616-mario-kart-tour-mario-bros-tour.json](./338616-mario-kart-tour-mario-bros-tour.json) |
 | Mario Kart Tour: Mario Tour | 361144 | [361144-mario-kart-tour-mario-tour.json](./361144-mario-kart-tour-mario-tour.json) |
@@ -3271,8 +3279,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Mario vs. Luigi Tour | 361211 | [361211-mario-kart-tour-mario-vs-luigi-tour.json](./361211-mario-kart-tour-mario-vs-luigi-tour.json) |
 | Mario Kart Tour: Mario vs. Peach Tour | 361155 | [361155-mario-kart-tour-mario-vs-peach-tour.json](./361155-mario-kart-tour-mario-vs-peach-tour.json) |
 | Mario Kart Tour: Metropolitan Tour | 361185 | [361185-mario-kart-tour-metropolitan-tour.json](./361185-mario-kart-tour-metropolitan-tour.json) |
+| Mario Kart Tour: Mii Tour | 361175 | [361175-mario-kart-tour-mii-tour.json](./361175-mario-kart-tour-mii-tour.json) |
 | Mario Kart Tour: Mii Tour | 361209 | [361209-mario-kart-tour-mii-tour.json](./361209-mario-kart-tour-mii-tour.json) |
 | Mario Kart Tour: New Year's 2021 Tour | 361139 | [361139-mario-kart-tour-new-years-2021-tour.json](./361139-mario-kart-tour-new-years-2021-tour.json) |
+| Mario Kart Tour: New Year's 2022 Tour | 361170 | [361170-mario-kart-tour-new-years-2022-tour.json](./361170-mario-kart-tour-new-years-2022-tour.json) |
 | Mario Kart Tour: New Year's Tour | 338538 | [338538-mario-kart-tour-new-years-tour.json](./338538-mario-kart-tour-new-years-tour.json) |
 | Mario Kart Tour: New Year's Tour | 361199 | [361199-mario-kart-tour-new-years-tour.json](./361199-mario-kart-tour-new-years-tour.json) |
 | Mario Kart Tour: Night Tour | 361212 | [361212-mario-kart-tour-night-tour.json](./361212-mario-kart-tour-night-tour.json) |
@@ -3281,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Ocean Tour | 361188 | [361188-mario-kart-tour-ocean-tour.json](./361188-mario-kart-tour-ocean-tour.json) |
 | Mario Kart Tour: Paris Tour | 361151 | [361151-mario-kart-tour-paris-tour.json](./361151-mario-kart-tour-paris-tour.json) |
 | Mario Kart Tour: Peach Tour | 361125 | [361125-mario-kart-tour-peach-tour.json](./361125-mario-kart-tour-peach-tour.json) |
+| Mario Kart Tour: Peach vs. Bowser Tour | 361182 | [361182-mario-kart-tour-peach-vs-bowser-tour.json](./361182-mario-kart-tour-peach-vs-bowser-tour.json) |
 | Mario Kart Tour: Peach vs. Bowser Tour | 361197 | [361197-mario-kart-tour-peach-vs-bowser-tour.json](./361197-mario-kart-tour-peach-vs-bowser-tour.json) |
 | Mario Kart Tour: Peach vs. Daisy Tour | 361142 | [361142-mario-kart-tour-peach-vs-daisy-tour.json](./361142-mario-kart-tour-peach-vs-daisy-tour.json) |
 | Mario Kart Tour: Penguin Tour | 361169 | [361169-mario-kart-tour-penguin-tour.json](./361169-mario-kart-tour-penguin-tour.json) |
@@ -3289,6 +3300,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Pirate Tour | 361129 | [361129-mario-kart-tour-pirate-tour.json](./361129-mario-kart-tour-pirate-tour.json) |
 | Mario Kart Tour: Princess Tour | 361210 | [361210-mario-kart-tour-princess-tour.json](./361210-mario-kart-tour-princess-tour.json) |
 | Mario Kart Tour: Rosalina Tour | 361138 | [361138-mario-kart-tour-rosalina-tour.json](./361138-mario-kart-tour-rosalina-tour.json) |
+| Mario Kart Tour: Samurai Tour | 361178 | [361178-mario-kart-tour-samurai-tour.json](./361178-mario-kart-tour-samurai-tour.json) |
+| Mario Kart Tour: Singapore Tour | 361171 | [361171-mario-kart-tour-singapore-tour.json](./361171-mario-kart-tour-singapore-tour.json) |
+| Mario Kart Tour: Sky Tour | 361174 | [361174-mario-kart-tour-sky-tour.json](./361174-mario-kart-tour-sky-tour.json) |
 | Mario Kart Tour: Snow Tour | 361143 | [361143-mario-kart-tour-snow-tour.json](./361143-mario-kart-tour-snow-tour.json) |
 | Mario Kart Tour: Space Tour | 361166 | [361166-mario-kart-tour-space-tour.json](./361166-mario-kart-tour-space-tour.json) |
 | Mario Kart Tour: Space Tour | 361200 | [361200-mario-kart-tour-space-tour.json](./361200-mario-kart-tour-space-tour.json) |
@@ -3311,12 +3325,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Vancouver Tour | 338541 | [338541-mario-kart-tour-vancouver-tour.json](./338541-mario-kart-tour-vancouver-tour.json) |
 | Mario Kart Tour: Version 2.0.0 | 360998 | [360998-mario-kart-tour-version-2-0-0.json](./360998-mario-kart-tour-version-2-0-0.json) |
 | Mario Kart Tour: Version 3.0.0 | 360999 | [360999-mario-kart-tour-version-3-0-0.json](./360999-mario-kart-tour-version-3-0-0.json) |
+| Mario Kart Tour: Wario vs. Waluigi Tour | 361172 | [361172-mario-kart-tour-wario-vs-waluigi-tour.json](./361172-mario-kart-tour-wario-vs-waluigi-tour.json) |
 | Mario Kart Tour: Wedding Tour | 361150 | [361150-mario-kart-tour-wedding-tour.json](./361150-mario-kart-tour-wedding-tour.json) |
 | Mario Kart Tour: Wild West Tour | 361128 | [361128-mario-kart-tour-wild-west-tour.json](./361128-mario-kart-tour-wild-west-tour.json) |
 | Mario Kart Tour: Winter Tour | 361137 | [361137-mario-kart-tour-winter-tour.json](./361137-mario-kart-tour-winter-tour.json) |
 | Mario Kart Tour: Winter Tour | 361201 | [361201-mario-kart-tour-winter-tour.json](./361201-mario-kart-tour-winter-tour.json) |
 | Mario Kart Tour: Yoshi Tour | 361120 | [361120-mario-kart-tour-yoshi-tour.json](./361120-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Tour: Yoshi Tour | 361145 | [361145-mario-kart-tour-yoshi-tour.json](./361145-mario-kart-tour-yoshi-tour.json) |
+| Mario Kart Tour: Yoshi Tour | 361179 | [361179-mario-kart-tour-yoshi-tour.json](./361179-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Tour: Yoshi Tour | 361206 | [361206-mario-kart-tour-yoshi-tour.json](./361206-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Wii Item-matching Game | 328673 | [328673-mario-kart-wii-item-matching-game.json](./328673-mario-kart-wii-item-matching-game.json) |
 | Mario Kart Wii Tournament Museum | 301127 | [301127-mario-kart-wii-tournament-museum.json](./301127-mario-kart-wii-tournament-museum.json) |
@@ -7919,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meshimase Haramase | 97524 | [97524-meshimase-haramase.json](./97524-meshimase-haramase.json) |
 | Meshuda | 406213 | [406213-meshuda.json](./406213-meshuda.json) |
 | Mesih | 281386 | [281386-mesih.json](./281386-mesih.json) |
+| Mesmalie | 361116 | [361116-mesmalie.json](./361116-mesmalie.json) |
 | Mesmerize: Distort | 99979 | [99979-mesmerize-distort.json](./99979-mesmerize-distort.json) |
 | Mesmerize: Trace | 209526 | [209526-mesmerize-trace.json](./209526-mesmerize-trace.json) |
 | Mesmerizer | 313193 | [313193-mesmerizer.json](./313193-mesmerizer.json) |
@@ -13573,6 +13590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstropoly | 215012 | [215012-monstropoly.json](./215012-monstropoly.json) |
 | Monstrosity | 252047 | [252047-monstrosity.json](./252047-monstrosity.json) |
 | Monstrous Cravings | 298913 | [298913-monstrous-cravings.json](./298913-monstrous-cravings.json) |
+| Monstrous Liberation | 361086 | [361086-monstrous-liberation.json](./361086-monstrous-liberation.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
 | Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
 | Monstrous Realms | 236202 | [236202-monstrous-realms.json](./236202-monstrous-realms.json) |
