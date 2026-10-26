@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanimura Hitoshi no Don Quixote ga Iku | 282672 | [282672-tanimura-hitoshi-no-don-quixote-ga-iku.json](./282672-tanimura-hitoshi-no-don-quixote-ga-iku.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
 | Tanita: Plasticine Dream | 35204 | [35204-tanita-plasticine-dream.json](./35204-tanita-plasticine-dream.json) |
+| Tanith Travels Through Time | 349747 | [349747-tanith-travels-through-time.json](./349747-tanith-travels-through-time.json) |
 | Tanium | 142767 | [142767-tanium.json](./142767-tanium.json) |
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
@@ -9909,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lacerator | 240478 | [240478-the-lacerator.json](./240478-the-lacerator.json) |
 | The Ladle Fly | 179723 | [179723-the-ladle-fly.json](./179723-the-ladle-fly.json) |
 | The Lady | 35989 | [35989-the-lady.json](./35989-the-lady.json) |
+| The Lady Knight and The Three Princes | 349797 | [349797-the-lady-knight-and-the-three-princes.json](./349797-the-lady-knight-and-the-three-princes.json) |
 | The Lady Puppet | 148385 | [148385-the-lady-puppet.json](./148385-the-lady-puppet.json) |
 | The Lady, The Mage, & The Knight | 317560 | [317560-the-lady-the-mage-and-the-knight.json](./317560-the-lady-the-mage-and-the-knight.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
@@ -12330,6 +12332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paladin & The Succubi Servant | 230896 | [230896-the-paladin-and-the-succubi-servant.json](./230896-the-paladin-and-the-succubi-servant.json) |
 | The Pale Beyond: Collectors Edition | 238307 | [238307-the-pale-beyond-collectors-edition.json](./238307-the-pale-beyond-collectors-edition.json) |
 | The Pale Beyond: Deluxe Edition | 238308 | [238308-the-pale-beyond-deluxe-edition.json](./238308-the-pale-beyond-deluxe-edition.json) |
+| The Pale Deep | 349740 | [349740-the-pale-deep.json](./349740-the-pale-deep.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
 | The Pale Piper | 335503 | [335503-the-pale-piper.json](./335503-the-pale-piper.json) |
 | The Palms | 137850 | [137850-the-palms.json](./137850-the-palms.json) |
@@ -19642,6 +19645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Defense | 7935 | [7935-tiny-defense.json](./7935-tiny-defense.json) |
 | Tiny Defense 2 | 102602 | [102602-tiny-defense-2.json](./102602-tiny-defense-2.json) |
 | Tiny Defense 2 - Mini Robot Wars | 105764 | [105764-tiny-defense-2-mini-robot-wars.json](./105764-tiny-defense-2-mini-robot-wars.json) |
+| Tiny Delivery | 349758 | [349758-tiny-delivery.json](./349758-tiny-delivery.json) |
 | Tiny Derby | 119538 | [119538-tiny-derby.json](./119538-tiny-derby.json) |
 | Tiny Devil Adventure | 158648 | [158648-tiny-devil-adventure.json](./158648-tiny-devil-adventure.json) |
 | Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
@@ -21456,6 +21460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
 | Top Bike: Real Racing Speed & Best Moto Drag Racer | 87524 | [87524-top-bike-real-racing-speed-and-best-moto-drag-racer.json](./87524-top-bike-real-racing-speed-and-best-moto-drag-racer.json) |
 | Top Billiards | 159547 | [159547-top-billiards.json](./159547-top-billiards.json) |
+| Top Binz! | 349912 | [349912-top-binz.json](./349912-top-binz.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
 | Top Cat in Beverly Hills Cats | 71415 | [71415-top-cat-in-beverly-hills-cats.json](./71415-top-cat-in-beverly-hills-cats.json) |
@@ -22374,6 +22379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Puppet Dance Performance | 46722 | [46722-touhou-puppet-dance-performance.json](./46722-touhou-puppet-dance-performance.json) |
 | Touhou Puppet Dance Performance: Shard of Dreams | 207227 | [207227-touhou-puppet-dance-performance-shard-of-dreams.json](./207227-touhou-puppet-dance-performance-shard-of-dreams.json) |
 | Touhou Puppet Dance Performance: Shard of Dreams - Extended | 225489 | [225489-touhou-puppet-dance-performance-shard-of-dreams-extended.json](./225489-touhou-puppet-dance-performance-shard-of-dreams-extended.json) |
+| Touhou Puppet Play Enhanced (Reloaded) | 349738 | [349738-touhou-puppet-play-enhanced-reloaded.json](./349738-touhou-puppet-play-enhanced-reloaded.json) |
 | Touhou Rakuryuusei: The Shattered Sky | 280870 | [280870-touhou-rakuryuusei-the-shattered-sky.json](./280870-touhou-rakuryuusei-the-shattered-sky.json) |
 | Touhou Rei'iden: The Highly Responsive to Prayers | 45967 | [45967-touhou-reiiden-the-highly-responsive-to-prayers.json](./45967-touhou-reiiden-the-highly-responsive-to-prayers.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
@@ -25661,6 +25667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial of the Towers | 116763 | [116763-trial-of-the-towers.json](./116763-trial-of-the-towers.json) |
 | Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
+| Trial Takedown | 349798 | [349798-trial-takedown.json](./349798-trial-takedown.json) |
 | Trial Traction | 304852 | [304852-trial-traction.json](./304852-trial-traction.json) |
 | Trial Xtreme | 80437 | [80437-trial-xtreme.json](./80437-trial-xtreme.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
