@@ -7874,6 +7874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Escape | 398905 | [398905-dino-escape.json](./398905-dino-escape.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys | 401117 | [401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json](./401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls | 401722 | [401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json](./401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json) |
+| Dino Explore | 363328 | [363328-dino-explore.json](./363328-dino-explore.json) |
 | Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
 | Dino Force | 227801 | [227801-dino-force.json](./227801-dino-force.json) |
 | Dino Fossil Dig | 106940 | [106940-dino-fossil-dig.json](./106940-dino-fossil-dig.json) |
