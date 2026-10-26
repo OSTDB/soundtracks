@@ -5050,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godforsaken | 258085 | [258085-godforsaken.json](./258085-godforsaken.json) |
 | Godfuck | 343756 | [343756-godfuck.json](./343756-godfuck.json) |
+| Godherja: The Dying World | 356006 | [356006-godherja-the-dying-world.json](./356006-godherja-the-dying-world.json) |
 | Godhood | 106679 | [106679-godhood.json](./106679-godhood.json) |
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
@@ -6960,6 +6961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravinaytor | 305002 | [305002-gravinaytor.json](./305002-gravinaytor.json) |
 | Gravinoid | 128933 | [128933-gravinoid.json](./128933-gravinoid.json) |
 | Gravinull | 79159 | [79159-gravinull.json](./79159-gravinull.json) |
+| Graviscape | 356011 | [356011-graviscape.json](./356011-graviscape.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
 | Gravit | 365754 | [365754-gravit.json](./365754-gravit.json) |
 | GraviT | 200696 | [200696-gravit.json](./200696-gravit.json) |
