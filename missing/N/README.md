@@ -3793,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Main Game Plus VR | 53418 | [53418-nightfall-main-game-plus-vr.json](./53418-nightfall-main-game-plus-vr.json) |
 | Nightfall Mysteries: Asylum Conspiracy | 125304 | [125304-nightfall-mysteries-asylum-conspiracy.json](./125304-nightfall-mysteries-asylum-conspiracy.json) |
 | Nightfall Mysteries: Curse of the Opera | 125308 | [125308-nightfall-mysteries-curse-of-the-opera.json](./125308-nightfall-mysteries-curse-of-the-opera.json) |
+| Nightfall of the Dead | 361083 | [361083-nightfall-of-the-dead.json](./361083-nightfall-of-the-dead.json) |
 | NightFall Shade | 285418 | [285418-nightfall-shade.json](./285418-nightfall-shade.json) |
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
