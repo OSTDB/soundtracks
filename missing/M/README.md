@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girls Second Magic | 165607 | [165607-magical-girls-second-magic.json](./165607-magical-girls-second-magic.json) |
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
 | Magical Greenhouse | 372182 | [372182-magical-greenhouse.json](./372182-magical-greenhouse.json) |
+| Magical Gyarus Milk Me for Mana | 367350 | [367350-magical-gyarus-milk-me-for-mana.json](./367350-magical-gyarus-milk-me-for-mana.json) |
 | Magical Harvest | 197156 | [197156-magical-harvest.json](./197156-magical-harvest.json) |
 | Magical Hat | 137515 | [137515-magical-hat.json](./137515-magical-hat.json) |
 | Magical Hat no Buttobi Turbo! Daibouken | 4472 | [4472-magical-hat-no-buttobi-turbo-daibouken.json](./4472-magical-hat-no-buttobi-turbo-daibouken.json) |
@@ -5202,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze It Out | 374730 | [374730-maze-it-out.json](./374730-maze-it-out.json) |
 | Maze Land | 92143 | [92143-maze-land.json](./92143-maze-land.json) |
 | Maze Lord | 33305 | [33305-maze-lord.json](./33305-maze-lord.json) |
+| Maze Lovers Memorial | 367469 | [367469-maze-lovers-memorial.json](./367469-maze-lovers-memorial.json) |
 | Maze Machina | 119646 | [119646-maze-machina.json](./119646-maze-machina.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
@@ -8187,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic Rebooted | 129168 | [129168-metal-sonic-rebooted.json](./129168-metal-sonic-rebooted.json) |
 | Metal Storm | 48170 | [48170-metal-storm.json](./48170-metal-storm.json) |
 | Metal Storm X | 257240 | [257240-metal-storm-x.json](./257240-metal-storm-x.json) |
+| Metal Strike | 367343 | [367343-metal-strike.json](./367343-metal-strike.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
 | Metal Surge | 369218 | [369218-metal-surge.json](./369218-metal-surge.json) |
 | Metal Survivor | 224520 | [224520-metal-survivor.json](./224520-metal-survivor.json) |
@@ -11582,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Island: The Forgotten Story | 356998 | [356998-misty-island-the-forgotten-story.json](./356998-misty-island-the-forgotten-story.json) |
 | Misty Islands | 264488 | [264488-misty-islands.json](./264488-misty-islands.json) |
 | Misty Isles | 179408 | [179408-misty-isles.json](./179408-misty-isles.json) |
+| Misty Judgment | 367356 | [367356-misty-judgment.json](./367356-misty-judgment.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
 | Misty Puzzle | 350231 | [350231-misty-puzzle.json](./350231-misty-puzzle.json) |
 | Misty Vol.1 | 392402 | [392402-misty-vol-1.json](./392402-misty-vol-1.json) |
