@@ -3437,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroomies | 296734 | [296734-vroomies.json](./296734-vroomies.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
 | VRosty | 258363 | [258363-vrosty.json](./258363-vrosty.json) |
+| VROVPilot: Titanic | 379918 | [379918-vrovpilot-titanic.json](./379918-vrovpilot-titanic.json) |
 | VRpatients | 368237 | [368237-vrpatients.json](./368237-vrpatients.json) |
 | VRporize - VR FPS | 32385 | [32385-vrporize-vr-fps.json](./32385-vrporize-vr-fps.json) |
 | VRQ Test | 99032 | [99032-vrq-test.json](./99032-vrq-test.json) |
