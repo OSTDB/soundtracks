@@ -800,7 +800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11320,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bottom of the Ninth | 39483 | [39483-bottom-of-the-ninth.json](./39483-bottom-of-the-ninth.json) |
 | Bottom Squad | 378594 | [378594-bottom-squad.json](./378594-bottom-squad.json) |
+| Bottom-up Beatdown: Hostile Takeover | 373595 | [373595-bottom-up-beatdown-hostile-takeover.json](./373595-bottom-up-beatdown-hostile-takeover.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
 | Bottoms Up | 176941 | [176941-bottoms-up.json](./176941-bottoms-up.json) |
@@ -14519,6 +14519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunkered with Femboy | 388175 | [388175-bunkered-with-femboy.json](./388175-bunkered-with-femboy.json) |
 | BunkerSim | 77794 | [77794-bunkersim.json](./77794-bunkersim.json) |
+| BunkerZ | 373511 | [373511-bunkerz.json](./373511-bunkerz.json) |
 | Bunky | 97759 | [97759-bunky.json](./97759-bunky.json) |
 | Bunmei Kaika: Aoiza Ibunroku | 221966 | [221966-bunmei-kaika-aoiza-ibunroku.json](./221966-bunmei-kaika-aoiza-ibunroku.json) |
 | Bunmei Kaika: Aoiza Ibunroku Saien | 59391 | [59391-bunmei-kaika-aoiza-ibunroku-saien.json](./59391-bunmei-kaika-aoiza-ibunroku-saien.json) |
