@@ -5716,15 +5716,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Ripley’s Believe It or Not! | 353152 | [353152-pinball-arcade-ripley-s-believe-it-or-not.json](./353152-pinball-arcade-ripley-s-believe-it-or-not.json) |
 | Pinball Arcade: Safe Cracker | 353273 | [353273-pinball-arcade-safe-cracker.json](./353273-pinball-arcade-safe-cracker.json) |
 | Pinball Arcade: Scared Stiff | 349363 | [349363-pinball-arcade-scared-stiff.json](./349363-pinball-arcade-scared-stiff.json) |
+| Pinball Arcade: Season Five Pack | 353750 | [353750-pinball-arcade-season-five-pack.json](./353750-pinball-arcade-season-five-pack.json) |
 | Pinball Arcade: Season Five Pro Pack | 166025 | [166025-pinball-arcade-season-five-pro-pack.json](./166025-pinball-arcade-season-five-pro-pack.json) |
 | Pinball Arcade: Season Four Pack | 166023 | [166023-pinball-arcade-season-four-pack.json](./166023-pinball-arcade-season-four-pack.json) |
 | Pinball Arcade: Season Four Pro Pack | 166026 | [166026-pinball-arcade-season-four-pro-pack.json](./166026-pinball-arcade-season-four-pro-pack.json) |
+| Pinball Arcade: Season One Table Pack | 353747 | [353747-pinball-arcade-season-one-table-pack.json](./353747-pinball-arcade-season-one-table-pack.json) |
 | Pinball Arcade: Season Seven Pro Pack | 166027 | [166027-pinball-arcade-season-seven-pro-pack.json](./166027-pinball-arcade-season-seven-pro-pack.json) |
 | Pinball Arcade: Season Seven Table Pack | 166024 | [166024-pinball-arcade-season-seven-table-pack.json](./166024-pinball-arcade-season-seven-table-pack.json) |
+| Pinball Arcade: Season Six Pack | 353751 | [353751-pinball-arcade-season-six-pack.json](./353751-pinball-arcade-season-six-pack.json) |
 | Pinball Arcade: Season Six Pro Pack | 166028 | [166028-pinball-arcade-season-six-pro-pack.json](./166028-pinball-arcade-season-six-pro-pack.json) |
+| Pinball Arcade: Season Three Pack | 353749 | [353749-pinball-arcade-season-three-pack.json](./353749-pinball-arcade-season-three-pack.json) |
 | Pinball Arcade: Season Three Pro Pack | 166029 | [166029-pinball-arcade-season-three-pro-pack.json](./166029-pinball-arcade-season-three-pro-pack.json) |
 | Pinball Arcade: Season Two Bundle | 99556 | [99556-pinball-arcade-season-two-bundle.json](./99556-pinball-arcade-season-two-bundle.json) |
 | Pinball Arcade: Season Two Pro Pack | 166030 | [166030-pinball-arcade-season-two-pro-pack.json](./166030-pinball-arcade-season-two-pro-pack.json) |
+| Pinball Arcade: Season Two Table Pack | 353748 | [353748-pinball-arcade-season-two-table-pack.json](./353748-pinball-arcade-season-two-table-pack.json) |
 | Pinball Arcade: Sorcerer | 349343 | [349343-pinball-arcade-sorcerer.json](./349343-pinball-arcade-sorcerer.json) |
 | Pinball Arcade: Space Shuttle | 353272 | [353272-pinball-arcade-space-shuttle.json](./353272-pinball-arcade-space-shuttle.json) |
 | Pinball Arcade: Spanish Eyes | 349963 | [349963-pinball-arcade-spanish-eyes.json](./349963-pinball-arcade-spanish-eyes.json) |
@@ -11026,6 +11031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postman Pat 3: To the Rescue | 64095 | [64095-postman-pat-3-to-the-rescue.json](./64095-postman-pat-3-to-the-rescue.json) |
 | Postman Pat and the Greendale Rocket | 49477 | [49477-postman-pat-and-the-greendale-rocket.json](./49477-postman-pat-and-the-greendale-rocket.json) |
 | Postman Pat: Special Delivery Service | 67618 | [67618-postman-pat-special-delivery-service.json](./67618-postman-pat-special-delivery-service.json) |
+| Postman Pat's Trail Game | 353922 | [353922-postman-pats-trail-game.json](./353922-postman-pats-trail-game.json) |
 | Postman Simon | 179354 | [179354-postman-simon.json](./179354-postman-simon.json) |
 | Postmaster Legacy | 148817 | [148817-postmaster-legacy.json](./148817-postmaster-legacy.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
