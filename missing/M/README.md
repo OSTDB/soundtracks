@@ -17441,6 +17441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mistress Lu Bu | 253892 | [253892-my-mistress-lu-bu.json](./253892-my-mistress-lu-bu.json) |
 | My Mole | 399585 | [399585-my-mole.json](./399585-my-mole.json) |
 | My Mom's Bestfriend! | 346194 | [346194-my-moms-bestfriend.json](./346194-my-moms-bestfriend.json) |
+| My Money Grows On Trees | 347598 | [347598-my-money-grows-on-trees.json](./347598-my-money-grows-on-trees.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
 | My Monster Rancher | 61129 | [61129-my-monster-rancher.json](./61129-my-monster-rancher.json) |
 | My Monsters | 307426 | [307426-my-monsters.json](./307426-my-monsters.json) |
