@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Master Story | 256146 | [256146-cafe-master-story.json](./256146-cafe-master-story.json) |
 | Cafe Nocturn | 353754 | [353754-cafe-nocturn.json](./353754-cafe-nocturn.json) |
 | Cafe of Roses | 379716 | [379716-cafe-of-roses.json](./379716-cafe-of-roses.json) |
+| Cafe on the moon | 337534 | [337534-cafe-on-the-moon.json](./337534-cafe-on-the-moon.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
@@ -5636,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess! | 249932 | [249932-chess.json](./249932-chess.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
+| Chess10 | 337544 | [337544-chess10.json](./337544-chess10.json) |
 | Chess88 | 92998 | [92998-chess88.json](./92998-chess88.json) |
 | Chessality | 149723 | [149723-chessality.json](./149723-chessality.json) |
 | Chessamphetamine | 408942 | [408942-chessamphetamine.json](./408942-chessamphetamine.json) |
@@ -11953,6 +11955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cooking With Cthulhu | 176449 | [176449-cooking-with-cthulhu.json](./176449-cooking-with-cthulhu.json) |
+| Cooking with Magic | 337541 | [337541-cooking-with-magic.json](./337541-cooking-with-magic.json) |
 | Cooking Wonderland | 304966 | [304966-cooking-wonderland.json](./304966-cooking-wonderland.json) |
 | Cooking, for lovers | 139814 | [139814-cooking-for-lovers.json](./139814-cooking-for-lovers.json) |
 | Cooking: Green Dragon Set | 324424 | [324424-cooking-green-dragon-set.json](./324424-cooking-green-dragon-set.json) |
@@ -12920,6 +12923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couple Breaker | 357125 | [357125-couple-breaker.json](./357125-couple-breaker.json) |
 | Couple in Trouble | 138061 | [138061-couple-in-trouble.json](./138061-couple-in-trouble.json) |
 | Couple Life 3D | 224066 | [224066-couple-life-3d.json](./224066-couple-life-3d.json) |
+| Couple Maker | 337549 | [337549-couple-maker.json](./337549-couple-maker.json) |
 | Couple quest | 81032 | [81032-couple-quest.json](./81032-couple-quest.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Couples | 271690 | [271690-couples.json](./271690-couples.json) |
