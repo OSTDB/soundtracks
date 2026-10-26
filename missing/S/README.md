@@ -6662,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock: The Riddle of the Crown Jewels | 12623 | [12623-sherlock-the-riddle-of-the-crown-jewels.json](./12623-sherlock-the-riddle-of-the-crown-jewels.json) |
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
 | Sherman M4 | 15365 | [15365-sherman-m4.json](./15365-sherman-m4.json) |
+| Sherpa's Caravan | 374567 | [374567-sherpas-caravan.json](./374567-sherpas-caravan.json) |
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
@@ -7333,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitsuji ga Aruji wo Erabu Toki | 216245 | [216245-shitsuji-ga-aruji-wo-erabu-toki.json](./216245-shitsuji-ga-aruji-wo-erabu-toki.json) |
 | Shitsurensha Doumei | 411965 | [411965-shitsurensha-doumei.json](./411965-shitsurensha-doumei.json) |
 | Shitty Cactus | 129450 | [129450-shitty-cactus.json](./129450-shitty-cactus.json) |
+| Shitty Game | 374645 | [374645-shitty-game.json](./374645-shitty-game.json) |
 | Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
 | Shiver | 325717 | [325717-shiver.json](./325717-shiver.json) |
 | Shiver 3D | 152771 | [152771-shiver-3d.json](./152771-shiver-3d.json) |
@@ -9468,6 +9470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinisistar: Lite Version | 193662 | [193662-sinisistar-lite-version.json](./193662-sinisistar-lite-version.json) |
 | Sinisomnia | 375370 | [375370-sinisomnia.json](./375370-sinisomnia.json) |
 | Sinistar | 18693 | [18693-sinistar.json](./18693-sinistar.json) |
+| Sinistar | 374581 | [374581-sinistar.json](./374581-sinistar.json) |
 | Sinistar Unleashed | 20377 | [20377-sinistar-unleashed.json](./20377-sinistar-unleashed.json) |
 | Sinister | 191050 | [191050-sinister.json](./191050-sinister.json) |
 | Sinister | 253335 | [253335-sinister.json](./253335-sinister.json) |
@@ -23471,6 +23474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
 | Stress explosion | 132505 | [132505-stress-explosion.json](./132505-stress-explosion.json) |
 | Stress Random | 169752 | [169752-stress-random.json](./169752-stress-random.json) |
+| Stress Relief | 374647 | [374647-stress-relief.json](./374647-stress-relief.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress testing | 267301 | [267301-stress-testing.json](./267301-stress-testing.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
@@ -27175,6 +27179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shanghai: Dragon's Eye | 78447 | [78447-super-shanghai-dragons-eye.json](./78447-super-shanghai-dragons-eye.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Shape Shooter | 146820 | [146820-super-shape-shooter.json](./146820-super-shape-shooter.json) |
+| Super Shapeshooter | 374561 | [374561-super-shapeshooter.json](./374561-super-shapeshooter.json) |
 | Super Sharp | 56309 | [56309-super-sharp.json](./56309-super-sharp.json) |
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
