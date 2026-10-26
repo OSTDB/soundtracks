@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neofold: The Feast | 424717 | [424717-neofold-the-feast.json](./424717-neofold-the-feast.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
+| Neogeo Arcade 1 | 337848 | [337848-neogeo-arcade-1.json](./337848-neogeo-arcade-1.json) |
 | Neogeo Arcade 2 | 346805 | [346805-neogeo-arcade-2.json](./346805-neogeo-arcade-2.json) |
 | NeoGeo Heroes Ultimate Shooting | 44507 | [44507-neogeo-heroes-ultimate-shooting.json](./44507-neogeo-heroes-ultimate-shooting.json) |
 | NeoGeo Online Collection Complete Box: Gekkan | 381232 | [381232-neogeo-online-collection-complete-box-gekkan.json](./381232-neogeo-online-collection-complete-box-gekkan.json) |
