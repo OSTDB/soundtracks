@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
 | Taoist Down the Hill | 301621 | [301621-taoist-down-the-hill.json](./301621-taoist-down-the-hill.json) |
 | Taoist Priest Yan | 189028 | [189028-taoist-priest-yan.json](./189028-taoist-priest-yan.json) |
+| Taoist Survivor | 369611 | [369611-taoist-survivor.json](./369611-taoist-survivor.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Taolu | 209944 | [209944-taolu.json](./209944-taolu.json) |
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
