@@ -7877,6 +7877,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Witness | 416815 | [416815-the-final-witness.json](./416815-the-final-witness.json) |
 | The Finally | 201798 | [201798-the-finally.json](./201798-the-finally.json) |
 | The Finals: Bank Rabbit Set | 294006 | [294006-the-finals-bank-rabbit-set.json](./294006-the-finals-bank-rabbit-set.json) |
+| The Finals: FNATIC TGM25 | 375248 | [375248-the-finals-fnatic-tgm25.json](./375248-the-finals-fnatic-tgm25.json) |
+| The Finals: GEN. G TGM25 | 375246 | [375246-the-finals-gen-g-tgm25.json](./375246-the-finals-gen-g-tgm25.json) |
 | The Finals: Season 1 | 279659 | [279659-the-finals-season-1.json](./279659-the-finals-season-1.json) |
 | The Finals: Season 10 - Fantasy League | 398016 | [398016-the-finals-season-10-fantasy-league.json](./398016-the-finals-season-10-fantasy-league.json) |
 | The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
@@ -7884,6 +7886,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 6 - Rising Stars! | 400948 | [400948-the-finals-season-6-rising-stars.json](./400948-the-finals-season-6-rising-stars.json) |
 | The Finals: Season 7 - The Divide | 347873 | [347873-the-finals-season-7-the-divide.json](./347873-the-finals-season-7-the-divide.json) |
 | The Finals: Season 9 - Dragon Rising | 381152 | [381152-the-finals-season-9-dragon-rising.json](./381152-the-finals-season-9-dragon-rising.json) |
+| The Finals: Team Secret TGM25 | 375245 | [375245-the-finals-team-secret-tgm25.json](./375245-the-finals-team-secret-tgm25.json) |
+| The Finals: The Apothecarion Set | 375243 | [375243-the-finals-the-apothecarion-set.json](./375243-the-finals-the-apothecarion-set.json) |
+| The Finals: The Chirurgeon Set | 375242 | [375242-the-finals-the-chirurgeon-set.json](./375242-the-finals-the-chirurgeon-set.json) |
+| The Finals: TSM TGM25 | 375247 | [375247-the-finals-tsm-tgm25.json](./375247-the-finals-tsm-tgm25.json) |
+| The Finals: Vanguard TGM25 | 375244 | [375244-the-finals-vanguard-tgm25.json](./375244-the-finals-vanguard-tgm25.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
 | The Fine Art of Murder | 322407 | [322407-the-fine-art-of-murder.json](./322407-the-fine-art-of-murder.json) |
 | The Finest Spark | 408235 | [408235-the-finest-spark.json](./408235-the-finest-spark.json) |
@@ -11872,6 +11879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Niflhel Day | 168584 | [168584-the-niflhel-day.json](./168584-the-niflhel-day.json) |
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Cafe | 32491 | [32491-the-night-cafe.json](./32491-the-night-cafe.json) |
+| The Night Crawler | 375210 | [375210-the-night-crawler.json](./375210-the-night-crawler.json) |
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night is Darkening | 174573 | [174573-the-night-is-darkening.json](./174573-the-night-is-darkening.json) |
@@ -19666,6 +19674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
 | Tiny Terraces | 311476 | [311476-tiny-terraces.json](./311476-tiny-terraces.json) |
 | Tiny Terrariums | 244629 | [244629-tiny-terrariums.json](./244629-tiny-terrariums.json) |
+| Tiny Terrors | 375205 | [375205-tiny-terrors.json](./375205-tiny-terrors.json) |
 | Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
 | Tiny Tim | 312272 | [312272-tiny-tim.json](./312272-tiny-tim.json) |
