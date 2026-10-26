@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
 | Reader Rabbit Preschool: Sparkle Star Rescue | 139349 | [139349-reader-rabbit-preschool-sparkle-star-rescue.json](./139349-reader-rabbit-preschool-sparkle-star-rescue.json) |
 | Reader Rabbit: Beginner Addition | 245415 | [245415-reader-rabbit-beginner-addition.json](./245415-reader-rabbit-beginner-addition.json) |
+| Reader Rabbit: I Can Read With Phonics | 366183 | [366183-reader-rabbit-i-can-read-with-phonics.json](./366183-reader-rabbit-i-can-read-with-phonics.json) |
 | Reader Rabbit: Kindergarten | 138102 | [138102-reader-rabbit-kindergarten.json](./138102-reader-rabbit-kindergarten.json) |
 | Reader Rabbit: Kindergarten | 67333 | [67333-reader-rabbit-kindergarten.json](./67333-reader-rabbit-kindergarten.json) |
 | Reader Rabbit: Thinking Adventures Ages 4-6 | 144857 | [144857-reader-rabbit-thinking-adventures-ages-4-6.json](./144857-reader-rabbit-thinking-adventures-ages-4-6.json) |
@@ -7167,6 +7168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Rome: Portals - Collector's Edition | 186687 | [186687-roads-of-rome-portals-collectors-edition.json](./186687-roads-of-rome-portals-collectors-edition.json) |
 | Roads of Rome: Portals 2 - Collector's Edition | 245984 | [245984-roads-of-rome-portals-2-collectors-edition.json](./245984-roads-of-rome-portals-2-collectors-edition.json) |
 | Roads of Time | 129525 | [129525-roads-of-time.json](./129525-roads-of-time.json) |
+| Roads to the Red Night | 366165 | [366165-roads-to-the-red-night.json](./366165-roads-to-the-red-night.json) |
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
 | Roadside Assistance Simulator | 154268 | [154268-roadside-assistance-simulator.json](./154268-roadside-assistance-simulator.json) |
@@ -7709,10 +7711,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 3 | 2691 | [2691-rock-band-3.json](./2691-rock-band-3.json) |
 | Rock Band 3: Deluxe | 303612 | [303612-rock-band-3-deluxe.json](./303612-rock-band-3-deluxe.json) |
 | Rock Band 4: 30 Song Mega Pack | 82460 | [82460-rock-band-4-30-song-mega-pack.json](./82460-rock-band-4-30-song-mega-pack.json) |
+| Rock Band 4: 4th Anniversary Free DLC Pack | 366186 | [366186-rock-band-4-4th-anniversary-free-dlc-pack.json](./366186-rock-band-4-4th-anniversary-free-dlc-pack.json) |
+| Rock Band 4: 5th Anniversary Free DLC Pack | 366188 | [366188-rock-band-4-5th-anniversary-free-dlc-pack.json](./366188-rock-band-4-5th-anniversary-free-dlc-pack.json) |
 | Rock Band 4: 6th Anniversary Free DLC Pack | 365736 | [365736-rock-band-4-6th-anniversary-free-dlc-pack.json](./365736-rock-band-4-6th-anniversary-free-dlc-pack.json) |
+| Rock Band 4: 7th Anniversary Free DLC Pack | 366193 | [366193-rock-band-4-7th-anniversary-free-dlc-pack.json](./366193-rock-band-4-7th-anniversary-free-dlc-pack.json) |
+| Rock Band 4: 8th Anniversary Free DLC Pack | 366187 | [366187-rock-band-4-8th-anniversary-free-dlc-pack.json](./366187-rock-band-4-8th-anniversary-free-dlc-pack.json) |
 | Rock Band 4: Any Other Heart | 366816 | [366816-rock-band-4-any-other-heart.json](./366816-rock-band-4-any-other-heart.json) |
+| Rock Band 4: Bang! | 366192 | [366192-rock-band-4-bang.json](./366192-rock-band-4-bang.json) |
+| Rock Band 4: Discover ReverbNation & Firefly Music Festival | 366194 | [366194-rock-band-4-discover-reverbnation-and-firefly-music-festival.json](./366194-rock-band-4-discover-reverbnation-and-firefly-music-festival.json) |
 | Rock Band 4: Rivals Bundle | 82421 | [82421-rock-band-4-rivals-bundle.json](./82421-rock-band-4-rivals-bundle.json) |
 | Rock Band 4: Rivals Expansion | 175664 | [175664-rock-band-4-rivals-expansion.json](./175664-rock-band-4-rivals-expansion.json) |
+| Rock Band 4: The Final Countdown | 366191 | [366191-rock-band-4-the-final-countdown.json](./366191-rock-band-4-the-final-countdown.json) |
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
 | Rock Band Blitz | 2696 | [2696-rock-band-blitz.json](./2696-rock-band-blitz.json) |
 | Rock Band Country Track Pack 2 | 91206 | [91206-rock-band-country-track-pack-2.json](./91206-rock-band-country-track-pack-2.json) |
