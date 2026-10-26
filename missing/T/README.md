@@ -7269,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeons of Moria | 139345 | [139345-the-dungeons-of-moria.json](./139345-the-dungeons-of-moria.json) |
 | The Durka: You will (not) die | 154010 | [154010-the-durka-you-will-not-die.json](./154010-the-durka-you-will-not-die.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
+| The Duskbloods | 338104 | [338104-the-duskbloods.json](./338104-the-duskbloods.json) |
 | The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
 | The DvD Idle Game | 373325 | [373325-the-dvd-idle-game.json](./373325-the-dvd-idle-game.json) |
 | The Dwarf | 257879 | [257879-the-dwarf.json](./257879-the-dwarf.json) |
@@ -11088,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Road | 364671 | [364671-the-longest-road.json](./364671-the-longest-road.json) |
 | The Longest Road on Earth: Backstage Edition | 159695 | [159695-the-longest-road-on-earth-backstage-edition.json](./159695-the-longest-road-on-earth-backstage-edition.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
+| The Longest Tale | 338110 | [338110-the-longest-tale.json](./338110-the-longest-tale.json) |
 | The Longest Walk | 215736 | [215736-the-longest-walk.json](./215736-the-longest-walk.json) |
 | The Longing Ribbon | 151694 | [151694-the-longing-ribbon.json](./151694-the-longing-ribbon.json) |
 | The Lonker | 236919 | [236919-the-lonker.json](./236919-the-lonker.json) |
@@ -19702,6 +19704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Arcade Tetris | 234083 | [234083-tiny-arcade-tetris.json](./234083-tiny-arcade-tetris.json) |
 | Tiny Arctic Hero | 379160 | [379160-tiny-arctic-hero.json](./379160-tiny-arctic-hero.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
+| Tiny Auto Knights | 338131 | [338131-tiny-auto-knights.json](./338131-tiny-auto-knights.json) |
 | Tiny Auto Knights: Supporter Pack | 399808 | [399808-tiny-auto-knights-supporter-pack.json](./399808-tiny-auto-knights-supporter-pack.json) |
 | Tiny Bakery | 374400 | [374400-tiny-bakery.json](./374400-tiny-bakery.json) |
 | Tiny Balls | 275085 | [275085-tiny-balls.json](./275085-tiny-balls.json) |
@@ -25746,6 +25749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri Breaker: A Sacred Symbols Odyssey | 322644 | [322644-tri-breaker-a-sacred-symbols-odyssey.json](./322644-tri-breaker-a-sacred-symbols-odyssey.json) |
 | Tri City Monsters | 253816 | [253816-tri-city-monsters.json](./253816-tri-city-monsters.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
+| Tri Survive | 338103 | [338103-tri-survive.json](./338103-tri-survive.json) |
 | Tri Wing | 88248 | [88248-tri-wing.json](./88248-tri-wing.json) |
 | Tri Zone | 130869 | [130869-tri-zone.json](./130869-tri-zone.json) |
 | Tri-bo | 381124 | [381124-tri-bo.json](./381124-tri-bo.json) |
