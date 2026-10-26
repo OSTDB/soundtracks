@@ -1938,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dartoster | 179459 | [179459-dartoster.json](./179459-dartoster.json) |
 | Darts | 159273 | [159273-darts.json](./159273-darts.json) |
 | Darts | 358830 | [358830-darts.json](./358830-darts.json) |
+| Darts | 359326 | [359326-darts.json](./359326-darts.json) |
 | Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
 | Darts Club | 287037 | [287037-darts-club.json](./287037-darts-club.json) |
 | Darts Club | 69828 | [69828-darts-club.json](./69828-darts-club.json) |
@@ -9533,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge This | 291512 | [291512-dodge-this.json](./291512-dodge-this.json) |
 | Dodge This VR | 282132 | [282132-dodge-this-vr.json](./282132-dodge-this-vr.json) |
 | Dodgeball | 165568 | [165568-dodgeball.json](./165568-dodgeball.json) |
+| Dodgeball | 359304 | [359304-dodgeball.json](./359304-dodgeball.json) |
 | Dodgeball | 51852 | [51852-dodgeball.json](./51852-dodgeball.json) |
 | Dodgeball Blast | 356208 | [356208-dodgeball-blast.json](./356208-dodgeball-blast.json) |
 | DodgeBall Blitz | 31842 | [31842-dodgeball-blitz.json](./31842-dodgeball-blitz.json) |
@@ -13940,6 +13942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Party | 372759 | [372759-driving-party.json](./372759-driving-party.json) |
 | Driving Pro: Island Delivery | 105779 | [105779-driving-pro-island-delivery.json](./105779-driving-pro-island-delivery.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
+| Driving Range | 359307 | [359307-driving-range.json](./359307-driving-range.json) |
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
 | Driving School 2017 | 98855 | [98855-driving-school-2017.json](./98855-driving-school-2017.json) |
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
@@ -14205,6 +14208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Brain | 142796 | [142796-drum-brain.json](./142796-drum-brain.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
+| Drum Master | 359311 | [359311-drum-master.json](./359311-drum-master.json) |
 | Drum Revolution | 337842 | [337842-drum-revolution.json](./337842-drum-revolution.json) |
 | Drum Studio | 98824 | [98824-drum-studio.json](./98824-drum-studio.json) |
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
