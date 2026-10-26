@@ -7335,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
 | Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
 | Die, Zombie Sausage, Die! | 367151 | [367151-die-zombie-sausage-die.json](./367151-die-zombie-sausage-die.json) |
+| Die. Respawn. Repeat. | 368468 | [368468-die-respawn-repeat.json](./368468-die-respawn-repeat.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
 | Diebrary | 244734 | [244734-diebrary.json](./244734-diebrary.json) |
 | Died | 305915 | [305915-died.json](./305915-died.json) |
@@ -13033,6 +13034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadful Aurora | 297047 | [297047-dreadful-aurora.json](./297047-dreadful-aurora.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | Dreadful Hours | 202540 | [202540-dreadful-hours.json](./202540-dreadful-hours.json) |
+| Dreadful Night at School | 368462 | [368462-dreadful-night-at-school.json](./368462-dreadful-night-at-school.json) |
 | Dreadful Tales: The Space Between - Collector's Edition | 182252 | [182252-dreadful-tales-the-space-between-collectors-edition.json](./182252-dreadful-tales-the-space-between-collectors-edition.json) |
 | Dreadful Wake | 192669 | [192669-dreadful-wake.json](./192669-dreadful-wake.json) |
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
@@ -14637,6 +14639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duggy | 192071 | [192071-duggy.json](./192071-duggy.json) |
 | Dui | 263110 | [263110-dui.json](./263110-dui.json) |
 | DUI | 254360 | [254360-dui.json](./254360-dui.json) |
+| Duì Yǐng Shìjiè | 368465 | [368465-dui-ying-shijie.json](./368465-dui-ying-shijie.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
@@ -15530,6 +15533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk The Hoops: Bouncy Ball | 266832 | [266832-dunk-the-hoops-bouncy-ball.json](./266832-dunk-the-hoops-bouncy-ball.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Dunk Trickster | 316844 | [316844-dunk-trickster.json](./316844-dunk-trickster.json) |
+| Dunk Trickster 2 | 368453 | [368453-dunk-trickster-2.json](./368453-dunk-trickster-2.json) |
 | Dunk'n Roll | 178942 | [178942-dunkn-roll.json](./178942-dunkn-roll.json) |
 | Dunkadillo | 360760 | [360760-dunkadillo.json](./360760-dunkadillo.json) |
 | Dunkeep | 203947 | [203947-dunkeep.json](./203947-dunkeep.json) |
