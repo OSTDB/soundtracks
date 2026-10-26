@@ -5321,6 +5321,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Farm | 233620 | [233620-golden-farm.json](./233620-golden-farm.json) |
 | Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
 | Golden Force | 139960 | [139960-golden-force.json](./139960-golden-force.json) |
+| Golden Freddy's Debauchery Simulator | 374112 | [374112-golden-freddys-debauchery-simulator.json](./374112-golden-freddys-debauchery-simulator.json) |
+| Golden Freddy's Debauchery Simulator 1986 | 374116 | [374116-golden-freddys-debauchery-simulator-1986.json](./374116-golden-freddys-debauchery-simulator-1986.json) |
 | Golden Galaxy | 243956 | [243956-golden-galaxy.json](./243956-golden-galaxy.json) |
 | Golden Gambit | 361290 | [361290-golden-gambit.json](./361290-golden-gambit.json) |
 | Golden Gate | 247037 | [247037-golden-gate.json](./247037-golden-gate.json) |
@@ -8109,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Runner: Trials | 82467 | [82467-ground-runner-trials.json](./82467-ground-runner-trials.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground War | 127606 | [127606-ground-war.json](./127606-ground-war.json) |
+| Ground Water: Episode of Dhanra | 374115 | [374115-ground-water-episode-of-dhanra.json](./374115-ground-water-episode-of-dhanra.json) |
 | Ground Wave | 91687 | [91687-ground-wave.json](./91687-ground-wave.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
@@ -8529,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild of Monsters | 369175 | [369175-guild-of-monsters.json](./369175-guild-of-monsters.json) |
 | Guild of Rogues | 271626 | [271626-guild-of-rogues.json](./271626-guild-of-rogues.json) |
+| Guild of Slayers | 374121 | [374121-guild-of-slayers.json](./374121-guild-of-slayers.json) |
 | Guild of the Tower | 423297 | [423297-guild-of-the-tower.json](./423297-guild-of-the-tower.json) |
 | Guild of Three | 404651 | [404651-guild-of-three.json](./404651-guild-of-three.json) |
 | Guild Quest | 30820 | [30820-guild-quest.json](./30820-guild-quest.json) |
