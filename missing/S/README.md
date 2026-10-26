@@ -30216,6 +30216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
 | System Crash: Underworld | 171424 | [171424-system-crash-underworld.json](./171424-system-crash-underworld.json) |
 | System Critical II | 240735 | [240735-system-critical-ii.json](./240735-system-critical-ii.json) |
+| System Critical III | 354340 | [354340-system-critical-iii.json](./354340-system-critical-iii.json) |
 | System Death | 319794 | [319794-system-death.json](./319794-system-death.json) |
 | System Escape | 237067 | [237067-system-escape.json](./237067-system-escape.json) |
 | System Flaw | 67695 | [67695-system-flaw.json](./67695-system-flaw.json) |
