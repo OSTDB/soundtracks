@@ -4911,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | Ironclads 2: War of the Pacific | 30721 | [30721-ironclads-2-war-of-the-pacific.json](./30721-ironclads-2-war-of-the-pacific.json) |
 | Ironclads Anthology | 50855 | [50855-ironclads-anthology.json](./50855-ironclads-anthology.json) |
+| IronCommando | 381583 | [381583-ironcommando.json](./381583-ironcommando.json) |
 | Irondrive | 409778 | [409778-irondrive.json](./409778-irondrive.json) |
 | Ironfall | 405752 | [405752-ironfall.json](./405752-ironfall.json) |
 | IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
