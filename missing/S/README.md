@@ -4009,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seedship | 178454 | [178454-seedship.json](./178454-seedship.json) |
 | Seedverse | 409234 | [409234-seedverse.json](./409234-seedverse.json) |
+| Seeing Double | 384050 | [384050-seeing-double.json](./384050-seeing-double.json) |
 | Seeing Red | 321826 | [321826-seeing-red.json](./321826-seeing-red.json) |
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
@@ -6421,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Goes Left | 61908 | [61908-sheep-goes-left.json](./61908-sheep-goes-left.json) |
 | Sheep Goes Right | 61907 | [61907-sheep-goes-right.json](./61907-sheep-goes-right.json) |
 | Sheep happens | 19500 | [19500-sheep-happens.json](./19500-sheep-happens.json) |
+| Sheep in Dreams | 383992 | [383992-sheep-in-dreams.json](./383992-sheep-in-dreams.json) |
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
 | Sheep In Space | 18561 | [18561-sheep-in-space.json](./18561-sheep-in-space.json) |
 | Sheep Island | 160195 | [160195-sheep-island.json](./160195-sheep-island.json) |
@@ -11424,6 +11426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slobbish Dragon Princess Love + Plus | 153460 | [153460-slobbish-dragon-princess-love-plus.json](./153460-slobbish-dragon-princess-love-plus.json) |
 | Slonderman | 288119 | [288119-slonderman.json](./288119-slonderman.json) |
 | Sloomy | 251658 | [251658-sloomy.json](./251658-sloomy.json) |
+| Sloop | 384032 | [384032-sloop.json](./384032-sloop.json) |
 | Slop Simulator | 394773 | [394773-slop-simulator.json](./394773-slop-simulator.json) |
 | Slope | 101945 | [101945-slope.json](./101945-slope.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
@@ -23550,6 +23553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
 | Strikers1945: RE | 267316 | [267316-strikers1945-re.json](./267316-strikers1945-re.json) |
 | Strikethrough | 252577 | [252577-strikethrough.json](./252577-strikethrough.json) |
+| Strikevoid | 384041 | [384041-strikevoid.json](./384041-strikevoid.json) |
 | Strikewave: Nightly Underground Fighter | 349945 | [349945-strikewave-nightly-underground-fighter.json](./349945-strikewave-nightly-underground-fighter.json) |
 | Striking Wine | 372815 | [372815-striking-wine.json](./372815-striking-wine.json) |
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
