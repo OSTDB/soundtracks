@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
 | De-Block | 48515 | [48515-de-block.json](./48515-de-block.json) |
 | De-capite | 184445 | [184445-de-capite.json](./184445-de-capite.json) |
+| De-coding Armageddon | 368999 | [368999-de-coding-armageddon.json](./368999-de-coding-armageddon.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De-Ja II | 233590 | [233590-de-ja-ii.json](./233590-de-ja-ii.json) |
 | De: Yabatanien | 145548 | [145548-de-yabatanien.json](./145548-de-yabatanien.json) |
@@ -6389,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Agency 2 | 191046 | [191046-detective-agency-2.json](./191046-detective-agency-2.json) |
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
 | Detective Agency Mosaics | 293979 | [293979-detective-agency-mosaics.json](./293979-detective-agency-mosaics.json) |
+| Detective Agency: Murder at the Manor | 369130 | [369130-detective-agency-murder-at-the-manor.json](./369130-detective-agency-murder-at-the-manor.json) |
 | Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
