@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm: Bright Nights | 194968 | [194968-cataclysm-bright-nights.json](./194968-cataclysm-bright-nights.json) |
 | Cataclysm: Dark Days Ahead | 18730 | [18730-cataclysm-dark-days-ahead.json](./18730-cataclysm-dark-days-ahead.json) |
 | Cataclysm: Even Angels Sin | 307238 | [307238-cataclysm-even-angels-sin.json](./307238-cataclysm-even-angels-sin.json) |
+| Cataclysmic Bite | 382833 | [382833-cataclysmic-bite.json](./382833-cataclysmic-bite.json) |
 | Cataclysms and Catastrophes | 148682 | [148682-cataclysms-and-catastrophes.json](./148682-cataclysms-and-catastrophes.json) |
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb | 380060 | [380060-catacomb.json](./380060-catacomb.json) |
@@ -9581,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collateral | 380080 | [380080-collateral.json](./380080-collateral.json) |
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
 | Collecstar | 261744 | [261744-collecstar.json](./261744-collecstar.json) |
+| Collect a Brainrot | 382844 | [382844-collect-a-brainrot.json](./382844-collect-a-brainrot.json) |
 | Collect Baby Oil | 329679 | [329679-collect-baby-oil.json](./329679-collect-baby-oil.json) |
 | Collect Call | 288764 | [288764-collect-call.json](./288764-collect-call.json) |
 | Collect Call | 383789 | [383789-collect-call.json](./383789-collect-call.json) |
@@ -16987,6 +16989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybersoul: Cosmic Resonance | 385864 | [385864-cybersoul-cosmic-resonance.json](./385864-cybersoul-cosmic-resonance.json) |
 | Cybersoul: Digital Sorcery | 382960 | [382960-cybersoul-digital-sorcery.json](./382960-cybersoul-digital-sorcery.json) |
 | Cybersoul: Retribution Protocol | 382406 | [382406-cybersoul-retribution-protocol.json](./382406-cybersoul-retribution-protocol.json) |
+| Cybersoul: Undercity Rot | 382826 | [382826-cybersoul-undercity-rot.json](./382826-cybersoul-undercity-rot.json) |
 | CyberSpace Crossword Puzzle | 83450 | [83450-cyberspace-crossword-puzzle.json](./83450-cyberspace-crossword-puzzle.json) |
 | Cyberspace Defender | 347293 | [347293-cyberspace-defender.json](./347293-cyberspace-defender.json) |
 | Cyberspace VR | 160145 | [160145-cyberspace-vr.json](./160145-cyberspace-vr.json) |
