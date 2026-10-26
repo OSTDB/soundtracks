@@ -15398,6 +15398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Cards | 30571 | [30571-crypt-cards.json](./30571-crypt-cards.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
 | Crypt Hunter | 55785 | [55785-crypt-hunter.json](./55785-crypt-hunter.json) |
+| Crypt Keeper | 340330 | [340330-crypt-keeper.json](./340330-crypt-keeper.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
 | Crypt of Baconthulhu | 60920 | [60920-crypt-of-baconthulhu.json](./60920-crypt-of-baconthulhu.json) |
 | Crypt of Darne | 349652 | [349652-crypt-of-darne.json](./349652-crypt-of-darne.json) |
@@ -16542,6 +16543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Pantsu | 219234 | [219234-cursed-pantsu.json](./219234-cursed-pantsu.json) |
 | Cursed Place | 294554 | [294554-cursed-place.json](./294554-cursed-place.json) |
 | Cursed Presence | 372749 | [372749-cursed-presence.json](./372749-cursed-presence.json) |
+| Cursed Profit | 340600 | [340600-cursed-profit.json](./340600-cursed-profit.json) |
 | Cursed Puppetry | 114314 | [114314-cursed-puppetry.json](./114314-cursed-puppetry.json) |
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
