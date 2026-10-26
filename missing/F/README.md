@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart Killer | 312865 | [312865-fart-killer.json](./312865-fart-killer.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
+| Fartal Error | 365033 | [365033-fartal-error.json](./365033-fartal-error.json) |
 | Fartcore | 374946 | [374946-fartcore.json](./374946-fartcore.json) |
 | Farther Than the Blue Sky | 139024 | [139024-farther-than-the-blue-sky.json](./139024-farther-than-the-blue-sky.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
@@ -7345,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF Weekly | 314498 | [314498-fnf-weekly.json](./314498-fnf-weekly.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
 | FNF: Executable Mania | 314507 | [314507-fnf-executable-mania.json](./314507-fnf-executable-mania.json) |
+| FNF: From the Top! | 365191 | [365191-fnf-from-the-top.json](./365191-fnf-from-the-top.json) |
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
 | FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
@@ -9578,6 +9580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frederic: Resurrection of Music - Director's Cut | 33261 | [33261-frederic-resurrection-of-music-directors-cut.json](./33261-frederic-resurrection-of-music-directors-cut.json) |
 | Free | 287512 | [287512-free.json](./287512-free.json) |
 | Free Afternoon | 185445 | [185445-free-afternoon.json](./185445-free-afternoon.json) |
+| Free as Birds: Uazo | 365031 | [365031-free-as-birds-uazo.json](./365031-free-as-birds-uazo.json) |
 | Free At Last | 90126 | [90126-free-at-last.json](./90126-free-at-last.json) |
 | Free Balling | 32263 | [32263-free-balling.json](./32263-free-balling.json) |
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
