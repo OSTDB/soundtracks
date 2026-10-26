@@ -7340,6 +7340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog: Battle Royale | 208186 | [208186-fog-battle-royale.json](./208186-fog-battle-royale.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
+| Foghorns Drown | 382273 | [382273-foghorns-drown.json](./382273-foghorns-drown.json) |
 | Fogline Protocol | 397277 | [397277-fogline-protocol.json](./397277-fogline-protocol.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
