@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Student Driver: Swing Ride | 259975 | [259975-bad-student-driver-swing-ride.json](./259975-bad-student-driver-swing-ride.json) |
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
+| Bad Time Bug in Apartment 309 | 378846 | [378846-bad-time-bug-in-apartment-309.json](./378846-bad-time-bug-in-apartment-309.json) |
 | Bad Time Simulator (Sans Fight) | 298723 | [298723-bad-time-simulator-sans-fight.json](./298723-bad-time-simulator-sans-fight.json) |
 | Bad Time Trio | 321532 | [321532-bad-time-trio.json](./321532-bad-time-trio.json) |
 | Bad Times at the Silver Lake | 246926 | [246926-bad-times-at-the-silver-lake.json](./246926-bad-times-at-the-silver-lake.json) |
@@ -940,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baitcore | 415189 | [415189-baitcore.json](./415189-baitcore.json) |
 | Bàito | 312125 | [312125-baito.json](./312125-baito.json) |
 | Baito Fight!!: Part-time Devil Hunter | 271688 | [271688-baito-fight-part-time-devil-hunter.json](./271688-baito-fight-part-time-devil-hunter.json) |
+| Bǎiwèi Shíguāng | 378840 | [378840-baiwei-shiguang.json](./378840-baiwei-shiguang.json) |
 | Baixos de Quebrada: Mobile | 339593 | [339593-baixos-de-quebrada-mobile.json](./339593-baixos-de-quebrada-mobile.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
 | Baja: Edge of Control | 5497 | [5497-baja-edge-of-control.json](./5497-baja-edge-of-control.json) |
@@ -4709,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
 | Beauty’s Target | 343230 | [343230-beauty-s-target.json](./343230-beauty-s-target.json) |
 | Beautycopter | 139164 | [139164-beautycopter.json](./139164-beautycopter.json) |
+| BeautyDarling | 378847 | [378847-beautydarling.json](./378847-beautydarling.json) |
 | Beaux-Arts | 372623 | [372623-beaux-arts.json](./372623-beaux-arts.json) |
 | Beaver Clicker | 211097 | [211097-beaver-clicker.json](./211097-beaver-clicker.json) |
 | Beaver Creek | 360060 | [360060-beaver-creek.json](./360060-beaver-creek.json) |
@@ -8179,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
+| BlazBlue Entropy Effect X: Deluxe Edition | 378853 | [378853-blazblue-entropy-effect-x-deluxe-edition.json](./378853-blazblue-entropy-effect-x-deluxe-edition.json) |
 | BlazBlue Entropy Effect X: Nintendo Switch 2 Edition Upgrade Pack | 410400 | [410400-blazblue-entropy-effect-x-nintendo-switch-2-edition-upgrade-pack.json](./410400-blazblue-entropy-effect-x-nintendo-switch-2-edition-upgrade-pack.json) |
 | BlazBlue Mobile Battle | 79216 | [79216-blazblue-mobile-battle.json](./79216-blazblue-mobile-battle.json) |
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
@@ -11848,6 +11852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxville | 190160 | [190160-boxville.json](./190160-boxville.json) |
 | Boxville 2 | 311892 | [311892-boxville-2.json](./311892-boxville-2.json) |
 | Boxville 2: Collector's Edition | 402954 | [402954-boxville-2-collectors-edition.json](./402954-boxville-2-collectors-edition.json) |
+| Boxville Collection | 378829 | [378829-boxville-collection.json](./378829-boxville-collection.json) |
 | Boxville: Collector's Edition | 230807 | [230807-boxville-collectors-edition.json](./230807-boxville-collectors-edition.json) |
 | BoxVR | 91208 | [91208-boxvr.json](./91208-boxvr.json) |
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
@@ -11936,6 +11941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
 | Brain Beats | 147202 | [147202-brain-beats.json](./147202-brain-beats.json) |
 | Brain Boost Beta / Gamma Wave | 21381 | [21381-brain-boost-beta-gamma-wave.json](./21381-brain-boost-beta-gamma-wave.json) |
+| Brain Boost Buddies | 378819 | [378819-brain-boost-buddies.json](./378819-brain-boost-buddies.json) |
 | Brain Boost: Beta Wave | 47836 | [47836-brain-boost-beta-wave.json](./47836-brain-boost-beta-wave.json) |
 | Brain Boost: Gamma Wave | 44064 | [44064-brain-boost-gamma-wave.json](./44064-brain-boost-gamma-wave.json) |
 | Brain Booster | 206480 | [206480-brain-booster.json](./206480-brain-booster.json) |
@@ -13137,6 +13143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broilers | 218673 | [218673-broilers.json](./218673-broilers.json) |
 | Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
 | Brok the Investigator | 141057 | [141057-brok-the-investigator.json](./141057-brok-the-investigator.json) |
+| Brok the InvestiGator + The Brawl Bar | 378861 | [378861-brok-the-investigator-the-brawl-bar.json](./378861-brok-the-investigator-the-brawl-bar.json) |
 | Brok the Investigator: The Brawl Bar | 304428 | [304428-brok-the-investigator-the-brawl-bar.json](./304428-brok-the-investigator-the-brawl-bar.json) |
 | Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
 | Brok: Natal Tail, A New Christmas - Special | 380711 | [380711-brok-natal-tail-a-new-christmas-special.json](./380711-brok-natal-tail-a-new-christmas-special.json) |
@@ -13833,6 +13840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Crusher: Around The World | 287160 | [287160-bucket-crusher-around-the-world.json](./287160-bucket-crusher-around-the-world.json) |
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
 | Bucket Crusher: Cool Kidz | 287162 | [287162-bucket-crusher-cool-kidz.json](./287162-bucket-crusher-cool-kidz.json) |
+| Bucket Crusher: Gold Edition | 378854 | [378854-bucket-crusher-gold-edition.json](./378854-bucket-crusher-gold-edition.json) |
 | Bucket Crusher: Holiday Spirit | 287161 | [287161-bucket-crusher-holiday-spirit.json](./287161-bucket-crusher-holiday-spirit.json) |
 | Bucket Crusher: Worldwide Edition | 304781 | [304781-bucket-crusher-worldwide-edition.json](./304781-bucket-crusher-worldwide-edition.json) |
 | Bucket Knight | 118262 | [118262-bucket-knight.json](./118262-bucket-knight.json) |
