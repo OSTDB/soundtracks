@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faction Reticent | 366125 | [366125-faction-reticent.json](./366125-faction-reticent.json) |
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
 | Factions | 335375 | [335375-factions.json](./335375-factions.json) |
+| Factions | 375893 | [375893-factions.json](./375893-factions.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factor Find | 243637 | [243637-factor-find.json](./243637-factor-find.json) |
 | Factor Y | 236156 | [236156-factor-y.json](./236156-factor-y.json) |
@@ -3024,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
 | Feasibility Experiment | 24693 | [24693-feasibility-experiment.json](./24693-feasibility-experiment.json) |
 | Feast | 364224 | [364224-feast.json](./364224-feast.json) |
+| Feast of Fools | 375870 | [375870-feast-of-fools.json](./375870-feast-of-fools.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
 | Feast or Fracture | 274459 | [274459-feast-or-fracture.json](./274459-feast-or-fracture.json) |
 | Feast Your Eyes | 138580 | [138580-feast-your-eyes.json](./138580-feast-your-eyes.json) |
@@ -6349,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
 | Flesh Feast | 93408 | [93408-flesh-feast.json](./93408-flesh-feast.json) |
 | Flesh Made Fear | 331184 | [331184-flesh-made-fear.json](./331184-flesh-made-fear.json) |
+| Flesh Made Fear: 1998 Theme | 375802 | [375802-flesh-made-fear-1998-theme.json](./375802-flesh-made-fear-1998-theme.json) |
 | Flesh Made Fear: Summer in Rotwood | 375804 | [375804-flesh-made-fear-summer-in-rotwood.json](./375804-flesh-made-fear-summer-in-rotwood.json) |
 | Flesh of the Killer | 159219 | [159219-flesh-of-the-killer.json](./159219-flesh-of-the-killer.json) |
 | Flesh Prison | 323209 | [323209-flesh-prison.json](./323209-flesh-prison.json) |
