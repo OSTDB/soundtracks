@@ -3293,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
 | Deadbreed | 14726 | [14726-deadbreed.json](./14726-deadbreed.json) |
+| Deadbus | 380452 | [380452-deadbus.json](./380452-deadbus.json) |
 | Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
 | Deadcam | 373301 | [373301-deadcam.json](./373301-deadcam.json) |
 | DeadCore | 7864 | [7864-deadcore.json](./7864-deadcore.json) |
@@ -4997,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeliverwarTH | 372229 | [372229-deliverwarth.json](./372229-deliverwarth.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Company Clicker | 149303 | [149303-delivery-company-clicker.json](./149303-delivery-company-clicker.json) |
+| Delivery Driver Massacre | 380473 | [380473-delivery-driver-massacre.json](./380473-delivery-driver-massacre.json) |
 | Delivery Driver Massacre: Definitive Edition | 400554 | [400554-delivery-driver-massacre-definitive-edition.json](./400554-delivery-driver-massacre-definitive-edition.json) |
 | Delivery Driver Service | 302378 | [302378-delivery-driver-service.json](./302378-delivery-driver-service.json) |
 | Delivery Driver: The Simulation | 217248 | [217248-delivery-driver-the-simulation.json](./217248-delivery-driver-the-simulation.json) |
