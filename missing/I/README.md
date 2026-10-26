@@ -4410,6 +4410,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Unwell | 347663 | [347663-into-the-unwell.json](./347663-into-the-unwell.json) |
 | Into the V.O.I.D. | 298666 | [298666-into-the-v-o-i-d.json](./298666-into-the-v-o-i-d.json) |
 | Into the Valley | 129056 | [129056-into-the-valley.json](./129056-into-the-valley.json) |
+| Into the Void | 334034 | [334034-into-the-void.json](./334034-into-the-void.json) |
+| Into the Void | 334035 | [334035-into-the-void.json](./334035-into-the-void.json) |
 | Into the Void | 71432 | [71432-into-the-void.json](./71432-into-the-void.json) |
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
 | Into the Waves | 190163 | [190163-into-the-waves.json](./190163-into-the-waves.json) |
@@ -5402,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ispell | 357151 | [357151-ispell.json](./357151-ispell.json) |
 | ISpellWord Game | 175109 | [175109-ispellword-game.json](./175109-ispellword-game.json) |
 | Ispherical | 245178 | [245178-ispherical.json](./245178-ispherical.json) |
+| Ispitatel 4: Classic | 333869 | [333869-ispitatel-4-classic.json](./333869-ispitatel-4-classic.json) |
 | iSpot Japan | 85197 | [85197-ispot-japan.json](./85197-ispot-japan.json) |
 | Israel vs. Iran: Iron Dome | 377080 | [377080-israel-vs-iran-iron-dome.json](./377080-israel-vs-iran-iron-dome.json) |
 | ISS Pro Evolution | 28403 | [28403-iss-pro-evolution.json](./28403-iss-pro-evolution.json) |
