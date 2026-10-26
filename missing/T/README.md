@@ -6929,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detective | 275700 | [275700-the-detective.json](./275700-the-detective.json) |
 | The Detective of the Red Horns | 96710 | [96710-the-detective-of-the-red-horns.json](./96710-the-detective-of-the-red-horns.json) |
 | The Detective Reaper Invites | 265962 | [265962-the-detective-reaper-invites.json](./265962-the-detective-reaper-invites.json) |
+| The Detective's Apprentice | 362239 | [362239-the-detectives-apprentice.json](./362239-the-detectives-apprentice.json) |
 | The Detectorist Guild | 373609 | [373609-the-detectorist-guild.json](./373609-the-detectorist-guild.json) |
 | The Detractor | 405326 | [405326-the-detractor.json](./405326-the-detractor.json) |
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
