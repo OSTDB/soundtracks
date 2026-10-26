@@ -8342,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Funtico | 307427 | [307427-formula-funtico.json](./307427-formula-funtico.json) |
 | Formula GP | 242438 | [242438-formula-gp.json](./242438-formula-gp.json) |
 | Formula Karts | 319112 | [319112-formula-karts.json](./319112-formula-karts.json) |
+| Formula Legendary Bundle 3 in 1 | 385136 | [385136-formula-legendary-bundle-3-in-1.json](./385136-formula-legendary-bundle-3-in-1.json) |
 | Formula Legends | 342187 | [342187-formula-legends.json](./342187-formula-legends.json) |
 | Formula Legends: Early 2010’s Season Pack | 403569 | [403569-formula-legends-early-2010-s-season-pack.json](./403569-formula-legends-early-2010-s-season-pack.json) |
 | Formula Legends: Formula E - Electric Evolution | 403568 | [403568-formula-legends-formula-e-electric-evolution.json](./403568-formula-legends-formula-e-electric-evolution.json) |
