@@ -5199,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Nowhere: The Dream | 74383 | [74383-going-nowhere-the-dream.json](./74383-going-nowhere-the-dream.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
 | Going Rogue | 223360 | [223360-going-rogue.json](./223360-going-rogue.json) |
+| Going To Bed | 375790 | [375790-going-to-bed.json](./375790-going-to-bed.json) |
 | Going Under | 122662 | [122662-going-under.json](./122662-going-under.json) |
 | Going Up | 31946 | [31946-going-up.json](./31946-going-up.json) |
 | Going Up? | 120124 | [120124-going-up.json](./120124-going-up.json) |
