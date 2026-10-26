@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emiko's Pledge 3 | 211635 | [211635-emikos-pledge-3.json](./211635-emikos-pledge-3.json) |
 | Emil Chronicle Online | 263690 | [263690-emil-chronicle-online.json](./263690-emil-chronicle-online.json) |
 | Emilio Butragueño Fútbol | 81152 | [81152-emilio-butragueno-futbol.json](./81152-emilio-butragueno-futbol.json) |
+| Emily | 334036 | [334036-emily.json](./334036-emily.json) |
 | Emily Archer and the Curse of Tutankhamun | 128290 | [128290-emily-archer-and-the-curse-of-tutankhamun.json](./128290-emily-archer-and-the-curse-of-tutankhamun.json) |
 | Emily Archer: The Curse of King Tut's Tomb | 209211 | [209211-emily-archer-the-curse-of-king-tuts-tomb.json](./209211-emily-archer-the-curse-of-king-tuts-tomb.json) |
 | Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
@@ -3402,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engraven | 309460 | [309460-engraven.json](./309460-engraven.json) |
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
 | EnHanced | 110901 | [110901-enhanced.json](./110901-enhanced.json) |
+| Enhanced Celestials | 334025 | [334025-enhanced-celestials.json](./334025-enhanced-celestials.json) |
 | Enhanced Militarized Zone | 362474 | [362474-enhanced-militarized-zone.json](./362474-enhanced-militarized-zone.json) |
 | Enhansa Edition | 330677 | [330677-enhansa-edition.json](./330677-enhansa-edition.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
