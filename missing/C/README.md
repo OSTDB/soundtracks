@@ -3236,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
 | Cat Girl Survivor 2: Beyond the Veil | 368829 | [368829-cat-girl-survivor-2-beyond-the-veil.json](./368829-cat-girl-survivor-2-beyond-the-veil.json) |
 | Cat Girl Survivor: Extra Episodes and Additional Chapters | 379025 | [379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json](./379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json) |
+| Cat Girl Without Justice | 364547 | [364547-cat-girl-without-justice.json](./364547-cat-girl-without-justice.json) |
 | Cat Gladiator | 392072 | [392072-cat-gladiator.json](./392072-cat-gladiator.json) |
 | Cat God Ranch | 296511 | [296511-cat-god-ranch.json](./296511-cat-god-ranch.json) |
 | Cat God Ranch:​​ Age of Dinosaurs​ | 359551 | [359551-cat-god-ranch-age-of-dinosaurs.json](./359551-cat-god-ranch-age-of-dinosaurs.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats of the Qing Dynasty | 292435 | [292435-cats-of-the-qing-dynasty.json](./292435-cats-of-the-qing-dynasty.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats of the Tang Dynasty | 302819 | [302819-cats-of-the-tang-dynasty.json](./302819-cats-of-the-tang-dynasty.json) |
+| Cats of the Yuan Dynasty | 364443 | [364443-cats-of-the-yuan-dynasty.json](./364443-cats-of-the-yuan-dynasty.json) |
 | Cats on Duty | 257903 | [257903-cats-on-duty.json](./257903-cats-on-duty.json) |
 | Cats on Mars | 178884 | [178884-cats-on-mars.json](./178884-cats-on-mars.json) |
 | Cats on Streets | 275033 | [275033-cats-on-streets.json](./275033-cats-on-streets.json) |
@@ -4093,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavrncrate | 318513 | [318513-cavrncrate.json](./318513-cavrncrate.json) |
 | Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
 | Cavyrn | 114898 | [114898-cavyrn.json](./114898-cavyrn.json) |
+| Caw Across Time | 364608 | [364608-caw-across-time.json](./364608-caw-across-time.json) |
 | Cawcaknight | 417695 | [417695-cawcaknight.json](./417695-cawcaknight.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Caylus | 175231 | [175231-caylus.json](./175231-caylus.json) |
@@ -4204,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celestay Craft&Slowlife | 399260 | [399260-celestay-craft-and-slowlife.json](./399260-celestay-craft-and-slowlife.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
+| Celeste Advance | 364546 | [364546-celeste-advance.json](./364546-celeste-advance.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
 | Celeste Classic | 370630 | [370630-celeste-classic.json](./370630-celeste-classic.json) |
 | Celeste Classic | 86148 | [86148-celeste-classic.json](./86148-celeste-classic.json) |
@@ -6395,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomper and Friends Jump! | 59355 | [59355-chomper-and-friends-jump.json](./59355-chomper-and-friends-jump.json) |
 | Chomper and Friends World | 59356 | [59356-chomper-and-friends-world.json](./59356-chomper-and-friends-world.json) |
 | Chomper Man | 79264 | [79264-chomper-man.json](./79264-chomper-man.json) |
+| Chomper Ville | 364544 | [364544-chomper-ville.json](./364544-chomper-ville.json) |
 | Chomper's | 282626 | [282626-chompers.json](./282626-chompers.json) |
 | Chomper's Adventure | 59451 | [59451-chompers-adventure.json](./59451-chompers-adventure.json) |
 | Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
@@ -6488,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
 | Choppy Waters | 350765 | [350765-choppy-waters.json](./350765-choppy-waters.json) |
 | Choppy Waves | 402724 | [402724-choppy-waves.json](./402724-choppy-waves.json) |
+| Chopsticks Online | 364451 | [364451-chopsticks-online.json](./364451-chopsticks-online.json) |
 | Chordata | 280459 | [280459-chordata.json](./280459-chordata.json) |
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
