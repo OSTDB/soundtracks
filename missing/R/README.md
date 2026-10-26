@@ -7492,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot City | 47287 | [47287-robot-city.json](./47287-robot-city.json) |
 | Robot City Stadium | 30528 | [30528-robot-city-stadium.json](./30528-robot-city-stadium.json) |
 | Robot Clash Run | 233113 | [233113-robot-clash-run.json](./233113-robot-clash-run.json) |
+| Robot Detective | 370735 | [370735-robot-detective.json](./370735-robot-detective.json) |
 | Robot Detour | 274337 | [274337-robot-detour.json](./274337-robot-detour.json) |
 | Robot Dinosaurs That Shoot Beams When They Roar | 378445 | [378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json](./378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json) |
 | Robot Dir | 249768 | [249768-robot-dir.json](./249768-robot-dir.json) |
