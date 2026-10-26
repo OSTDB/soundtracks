@@ -13883,6 +13883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo King: Single Player - Texas Hold'em Poker | 130130 | [130130-solo-king-single-player-texas-holdem-poker.json](./130130-solo-king-single-player-texas-holdem-poker.json) |
 | Solo Leveling: Arise | 188574 | [188574-solo-leveling-arise.json](./188574-solo-leveling-arise.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
+| Solo Leveling: Arise Overdrive - Deluxe Edition | 363992 | [363992-solo-leveling-arise-overdrive-deluxe-edition.json](./363992-solo-leveling-arise-overdrive-deluxe-edition.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Raid: Mage | 394614 | [394614-solo-raid-mage.json](./394614-solo-raid-mage.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
