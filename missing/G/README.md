@@ -6150,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic 1 Remake: Nyras Prologue | 333955 | [333955-gothic-1-remake-nyras-prologue.json](./333955-gothic-1-remake-nyras-prologue.json) |
 | Gothic 1881 | 158202 | [158202-gothic-1881.json](./158202-gothic-1881.json) |
 | Gothic 3 | 2263 | [2263-gothic-3.json](./2263-gothic-3.json) |
+| Gothic 3 Classic | 358766 | [358766-gothic-3-classic.json](./358766-gothic-3-classic.json) |
 | Gothic 3: Collector's Edition | 133884 | [133884-gothic-3-collectors-edition.json](./133884-gothic-3-collectors-edition.json) |
 | Gothic 3: Enhanced Gold Edition | 133886 | [133886-gothic-3-enhanced-gold-edition.json](./133886-gothic-3-enhanced-gold-edition.json) |
 | Gothic 3: Forsaken Gods - Enhanced Edition | 10371 | [10371-gothic-3-forsaken-gods-enhanced-edition.json](./10371-gothic-3-forsaken-gods-enhanced-edition.json) |
