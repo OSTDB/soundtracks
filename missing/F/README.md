@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Typing Master | 161614 | [161614-fast-typing-master.json](./161614-fast-typing-master.json) |
 | Fast Wings | 156060 | [156060-fast-wings.json](./156060-fast-wings.json) |
 | Fast-Ball | 211576 | [211576-fast-ball.json](./211576-fast-ball.json) |
+| Fast: Casters of Chaos | 357153 | [357153-fast-casters-of-chaos.json](./357153-fast-casters-of-chaos.json) |
 | Fast:Run | 320392 | [320392-fast-run.json](./320392-fast-run.json) |
 | Fastar: Fantasy Fairy Story | 233468 | [233468-fastar-fantasy-fairy-story.json](./233468-fastar-fantasy-fairy-story.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
@@ -2682,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
 | Fatal Stormer | 96210 | [96210-fatal-stormer.json](./96210-fatal-stormer.json) |
 | Fatal Theory | 34681 | [34681-fatal-theory.json](./34681-fatal-theory.json) |
+| Fatal Train | 357285 | [357285-fatal-train.json](./357285-fatal-train.json) |
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Twelve: Complete Collection | 154617 | [154617-fatal-twelve-complete-collection.json](./154617-fatal-twelve-complete-collection.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
