@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Thalia and the Masterpiece of Moldavia | 290396 | [290396-lady-thalia-and-the-masterpiece-of-moldavia.json](./290396-lady-thalia-and-the-masterpiece-of-moldavia.json) |
 | Lady Thalia and the Rose of Rocroi | 290395 | [290395-lady-thalia-and-the-rose-of-rocroi.json](./290395-lady-thalia-and-the-rose-of-rocroi.json) |
 | Lady Tut | 23961 | [23961-lady-tut.json](./23961-lady-tut.json) |
+| Lady's Escape | 367388 | [367388-ladys-escape.json](./367388-ladys-escape.json) |
 | Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
 | Lady's Tourney | 385620 | [385620-ladys-tourney.json](./385620-ladys-tourney.json) |
 | LadyBug | 141525 | [141525-ladybug.json](./141525-ladybug.json) |
@@ -1409,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundromat Simulator | 320585 | [320585-laundromat-simulator.json](./320585-laundromat-simulator.json) |
 | Laundry | 233991 | [233991-laundry.json](./233991-laundry.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
+| Laundry & Supermarket Simulator | 367373 | [367373-laundry-and-supermarket-simulator.json](./367373-laundry-and-supermarket-simulator.json) |
 | Laundry Boss Simulator | 360045 | [360045-laundry-boss-simulator.json](./360045-laundry-boss-simulator.json) |
 | Laundry Idle | 266148 | [266148-laundry-idle.json](./266148-laundry-idle.json) |
 | Laundry Night | 304166 | [304166-laundry-night.json](./304166-laundry-night.json) |
@@ -8336,6 +8338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Potions | 304464 | [304464-lust-potions.json](./304464-lust-potions.json) |
 | Lust Shards | 318146 | [318146-lust-shards.json](./318146-lust-shards.json) |
 | Lust Sisters | 359290 | [359290-lust-sisters.json](./359290-lust-sisters.json) |
+| Lust Sisters | 367355 | [367355-lust-sisters.json](./367355-lust-sisters.json) |
 | Lust Storm | 372031 | [372031-lust-storm.json](./372031-lust-storm.json) |
 | Lust Theory | 216187 | [216187-lust-theory.json](./216187-lust-theory.json) |
 | Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
