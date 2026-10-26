@@ -7925,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clamber | 414398 | [414398-clamber.json](./414398-clamber.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
+| Clan Duramont | 357160 | [357160-clan-duramont.json](./357160-clan-duramont.json) |
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan Lord | 63698 | [63698-clan-lord.json](./63698-clan-lord.json) |
@@ -12857,6 +12858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
 | Coup de Koala | 357030 | [357030-coup-de-koala.json](./357030-coup-de-koala.json) |
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
+| Couple Breaker | 357125 | [357125-couple-breaker.json](./357125-couple-breaker.json) |
 | Couple in Trouble | 138061 | [138061-couple-in-trouble.json](./138061-couple-in-trouble.json) |
 | Couple Life 3D | 224066 | [224066-couple-life-3d.json](./224066-couple-life-3d.json) |
 | Couple quest | 81032 | [81032-couple-quest.json](./81032-couple-quest.json) |
