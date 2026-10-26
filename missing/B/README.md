@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
 | Bane Murrain | 271080 | [271080-bane-murrain.json](./271080-bane-murrain.json) |
 | Bane of Oakenshade | 323581 | [323581-bane-of-oakenshade.json](./323581-bane-of-oakenshade.json) |
+| Bane: Dawn of the Lost | 358743 | [358743-bane-dawn-of-the-lost.json](./358743-bane-dawn-of-the-lost.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
 | Bang | 285674 | [285674-bang.json](./285674-bang.json) |
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
@@ -4640,27 +4641,51 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
 | BeatShooter | 309736 | [309736-beatshooter.json](./309736-beatshooter.json) |
 | Beatstar | 166521 | [166521-beatstar.json](./166521-beatstar.json) |
+| Beatstar: Ariana Grande, Zedd - "Break Free" | 358768 | [358768-beatstar-ariana-grande-zedd-break-free.json](./358768-beatstar-ariana-grande-zedd-break-free.json) |
+| Beatstar: Backstreet Boys - "Everybody (Backstreet's Back)" | 358776 | [358776-beatstar-backstreet-boys-everybody-backstreets-back.json](./358776-beatstar-backstreet-boys-everybody-backstreets-back.json) |
+| Beatstar: Beatstar Originals - "Golden Sands" | 358780 | [358780-beatstar-beatstar-originals-golden-sands.json](./358780-beatstar-beatstar-originals-golden-sands.json) |
+| Beatstar: Beatstar Originals - "Graveyard Groove" | 358781 | [358781-beatstar-beatstar-originals-graveyard-groove.json](./358781-beatstar-beatstar-originals-graveyard-groove.json) |
 | Beatstar: Beatstar Originals - "Housetop Jingle" | 358785 | [358785-beatstar-beatstar-originals-housetop-jingle.json](./358785-beatstar-beatstar-originals-housetop-jingle.json) |
 | Beatstar: Beatstar Originals - "Level Up!" | 358793 | [358793-beatstar-beatstar-originals-level-up.json](./358793-beatstar-beatstar-originals-level-up.json) |
 | Beatstar: Beatstar Originals - "Persistence" | 358800 | [358800-beatstar-beatstar-originals-persistence.json](./358800-beatstar-beatstar-originals-persistence.json) |
 | Beatstar: Beatstar Originals - "Rattlin' Rhythm" | 358803 | [358803-beatstar-beatstar-originals-rattlin-rhythm.json](./358803-beatstar-beatstar-originals-rattlin-rhythm.json) |
+| Beatstar: Billie Eilish - "Bad Guy" | 358755 | [358755-beatstar-billie-eilish-bad-guy.json](./358755-beatstar-billie-eilish-bad-guy.json) |
+| Beatstar: Blondie - "One Way or Another" | 358749 | [358749-beatstar-blondie-one-way-or-another.json](./358749-beatstar-blondie-one-way-or-another.json) |
+| Beatstar: Blue Öyster Cult - "Don't Fear the Reaper" | 358774 | [358774-beatstar-blue-oyster-cult-dont-fear-the-reaper.json](./358774-beatstar-blue-oyster-cult-dont-fear-the-reaper.json) |
 | Beatstar: Bossa Studios / Black Heron - "Surgeon Simulator (Theme Tune)" | 358809 | [358809-beatstar-bossa-studios-black-heron-surgeon-simulator-theme-tune.json](./358809-beatstar-bossa-studios-black-heron-surgeon-simulator-theme-tune.json) |
+| Beatstar: DNCE - "Cake by the Ocean" | 358759 | [358759-beatstar-dnce-cake-by-the-ocean.json](./358759-beatstar-dnce-cake-by-the-ocean.json) |
 | Beatstar: Doja Cat - "Say So" | 358806 | [358806-beatstar-doja-cat-say-so.json](./358806-beatstar-doja-cat-say-so.json) |
 | Beatstar: Dolly Parton - "Jolene" | 358788 | [358788-beatstar-dolly-parton-jolene.json](./358788-beatstar-dolly-parton-jolene.json) |
+| Beatstar: Don McLean - "American Pie" | 358765 | [358765-beatstar-don-mclean-american-pie.json](./358765-beatstar-don-mclean-american-pie.json) |
 | Beatstar: Eminem, Rihanna - "Love the Way You Lie" | 358795 | [358795-beatstar-eminem-rihanna-love-the-way-you-lie.json](./358795-beatstar-eminem-rihanna-love-the-way-you-lie.json) |
+| Beatstar: Foo Fighters - "All My Life" | 358754 | [358754-beatstar-foo-fighters-all-my-life.json](./358754-beatstar-foo-fighters-all-my-life.json) |
 | Beatstar: Grimes - "Kill V. Maim" | 358791 | [358791-beatstar-grimes-kill-v-maim.json](./358791-beatstar-grimes-kill-v-maim.json) |
 | Beatstar: Harry Shotta - "The Fast Lane: Space Ape Edition" | 358810 | [358810-beatstar-harry-shotta-the-fast-lane-space-ape-edition.json](./358810-beatstar-harry-shotta-the-fast-lane-space-ape-edition.json) |
+| Beatstar: Juice WRLD, Marshmello - "Come & Go" | 358771 | [358771-beatstar-juice-wrld-marshmello-come-and-go.json](./358771-beatstar-juice-wrld-marshmello-come-and-go.json) |
+| Beatstar: Jukio Kallio & Daniel Hagström - "Everybody Falls (Fall Guys Theme)" | 358777 | [358777-beatstar-jukio-kallio-and-daniel-hagstrom-everybody-falls-fall-guys-theme.json](./358777-beatstar-jukio-kallio-and-daniel-hagstrom-everybody-falls-fall-guys-theme.json) |
+| Beatstar: La Roux - "Bulletproof" | 358747 | [358747-beatstar-la-roux-bulletproof.json](./358747-beatstar-la-roux-bulletproof.json) |
+| Beatstar: Luke Bryan - "Country Girl (Shake It for Me)" | 358772 | [358772-beatstar-luke-bryan-country-girl-shake-it-for-me.json](./358772-beatstar-luke-bryan-country-girl-shake-it-for-me.json) |
 | Beatstar: Macklemore, Ryan Lewis, Wanz - "Thrift Shop" | 358812 | [358812-beatstar-macklemore-ryan-lewis-wanz-thrift-shop.json](./358812-beatstar-macklemore-ryan-lewis-wanz-thrift-shop.json) |
+| Beatstar: Meghan Trainor - "All About That Bass" | 358767 | [358767-beatstar-meghan-trainor-all-about-that-bass.json](./358767-beatstar-meghan-trainor-all-about-that-bass.json) |
 | Beatstar: Miley Cyrus - "Malibu" | 358797 | [358797-beatstar-miley-cyrus-malibu.json](./358797-beatstar-miley-cyrus-malibu.json) |
 | Beatstar: NERO - "Promises" | 358801 | [358801-beatstar-nero-promises.json](./358801-beatstar-nero-promises.json) |
 | Beatstar: Nickelback - "Rockstar" | 358804 | [358804-beatstar-nickelback-rockstar.json](./358804-beatstar-nickelback-rockstar.json) |
+| Beatstar: No Doubt - "Don't Speak" | 358775 | [358775-beatstar-no-doubt-dont-speak.json](./358775-beatstar-no-doubt-dont-speak.json) |
 | Beatstar: No Doubt - "Just a Girl" | 358790 | [358790-beatstar-no-doubt-just-a-girl.json](./358790-beatstar-no-doubt-just-a-girl.json) |
+| Beatstar: Noisestorm - "Crab Rave" | 358773 | [358773-beatstar-noisestorm-crab-rave.json](./358773-beatstar-noisestorm-crab-rave.json) |
+| Beatstar: P!nk - "Get the Party Started" | 358778 | [358778-beatstar-p-nk-get-the-party-started.json](./358778-beatstar-p-nk-get-the-party-started.json) |
 | Beatstar: Papa Roach - "Last Resort" | 358792 | [358792-beatstar-papa-roach-last-resort.json](./358792-beatstar-papa-roach-last-resort.json) |
 | Beatstar: Reel 2 Real, The Mad Stuntman - "I Like to Move It" | 358786 | [358786-beatstar-reel-2-real-the-mad-stuntman-i-like-to-move-it.json](./358786-beatstar-reel-2-real-the-mad-stuntman-i-like-to-move-it.json) |
 | Beatstar: Roberto Bazzoni / Nitrome - "Super Leap Day (Capital Highway)" | 358808 | [358808-beatstar-roberto-bazzoni-nitrome-super-leap-day-capital-highway.json](./358808-beatstar-roberto-bazzoni-nitrome-super-leap-day-capital-highway.json) |
 | Beatstar: Run-D.M.C. - "It's Tricky" | 358787 | [358787-beatstar-run-d-m-c-its-tricky.json](./358787-beatstar-run-d-m-c-its-tricky.json) |
 | Beatstar: Salt-N-Pepa - "Push It" | 358802 | [358802-beatstar-salt-n-pepa-push-it.json](./358802-beatstar-salt-n-pepa-push-it.json) |
+| Beatstar: Sia - "Chandelier" | 358758 | [358758-beatstar-sia-chandelier.json](./358758-beatstar-sia-chandelier.json) |
+| Beatstar: Sia - "Cheap Thrills" | 358760 | [358760-beatstar-sia-cheap-thrills.json](./358760-beatstar-sia-cheap-thrills.json) |
+| Beatstar: Soulja Boy - "Crank That" | 358748 | [358748-beatstar-soulja-boy-crank-that.json](./358748-beatstar-soulja-boy-crank-that.json) |
 | Beatstar: Stan Bush - "The Touch" | 358811 | [358811-beatstar-stan-bush-the-touch.json](./358811-beatstar-stan-bush-the-touch.json) |
+| Beatstar: Supercell - "Brawl Stars Theme" | 358756 | [358756-beatstar-supercell-brawl-stars-theme.json](./358756-beatstar-supercell-brawl-stars-theme.json) |
+| Beatstar: Supercell - "Clash of Clans Theme" | 358763 | [358763-beatstar-supercell-clash-of-clans-theme.json](./358763-beatstar-supercell-clash-of-clans-theme.json) |
+| Beatstar: Supercell - "Clash Royale Theme" | 358764 | [358764-beatstar-supercell-clash-royale-theme.json](./358764-beatstar-supercell-clash-royale-theme.json) |
 | Beatstar: Supercell - "Hay Day Theme" | 358782 | [358782-beatstar-supercell-hay-day-theme.json](./358782-beatstar-supercell-hay-day-theme.json) |
 | Beatstar: Ultimate Studio, Tim Spicer, Yahor Milkota - "Hotshot (Hot Lap League Theme)" | 358784 | [358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json](./358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json) |
 | Beatstar: Yeah Yeah Yeahs - "Heads Will Roll" | 358783 | [358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json](./358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json) |
@@ -5910,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Dawn | 118630 | [118630-beyond-the-dawn.json](./118630-beyond-the-dawn.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Diorama: Caribou World | 163810 | [163810-beyond-the-diorama-caribou-world.json](./163810-beyond-the-diorama-caribou-world.json) |
+| Beyond the Doors | 358779 | [358779-beyond-the-doors.json](./358779-beyond-the-doors.json) |
 | Beyond the Doors | 380009 | [380009-beyond-the-doors.json](./380009-beyond-the-doors.json) |
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
 | Beyond the Eyes | 392264 | [392264-beyond-the-eyes.json](./392264-beyond-the-eyes.json) |
@@ -12078,6 +12104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Drain | 319857 | [319857-brain-drain.json](./319857-brain-drain.json) |
 | Brain Escape | 267488 | [267488-brain-escape.json](./267488-brain-escape.json) |
 | Brain Exercises With Dr. Kawashima | 20278 | [20278-brain-exercises-with-dr-kawashima.json](./20278-brain-exercises-with-dr-kawashima.json) |
+| Brain Explode | 358737 | [358737-brain-explode.json](./358737-brain-explode.json) |
 | Brain Games | 167193 | [167193-brain-games.json](./167193-brain-games.json) |
 | Brain Games | 54843 | [54843-brain-games.json](./54843-brain-games.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
@@ -14457,6 +14484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullfight | 40059 | [40059-bullfight.json](./40059-bullfight.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
 | Bullfighter Neon | 193238 | [193238-bullfighter-neon.json](./193238-bullfighter-neon.json) |
+| Bullfist | 358745 | [358745-bullfist.json](./358745-bullfist.json) |
 | Bullfrogs | 164314 | [164314-bullfrogs.json](./164314-bullfrogs.json) |
 | Bullion Blitz | 64257 | [64257-bullion-blitz.json](./64257-bullion-blitz.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
