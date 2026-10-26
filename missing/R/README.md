@@ -5890,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet | 282445 | [282445-ricochet.json](./282445-ricochet.json) |
 | Ricochet | 368008 | [368008-ricochet.json](./368008-ricochet.json) |
 | Ricochet | 7589 | [7589-ricochet.json](./7589-ricochet.json) |
+| Ricochet Abyss | 367458 | [367458-ricochet-abyss.json](./367458-ricochet-abyss.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
 | Ricochet Bounce | 152816 | [152816-ricochet-bounce.json](./152816-ricochet-bounce.json) |
 | Ricochet Gun | 239536 | [239536-ricochet-gun.json](./239536-ricochet-gun.json) |
