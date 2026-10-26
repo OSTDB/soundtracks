@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Battle Arena | 370436 | [370436-mage-battle-arena.json](./370436-mage-battle-arena.json) |
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
 | Mage Fight | 420484 | [420484-mage-fight.json](./420484-mage-fight.json) |
+| Mage Food Truck | 345801 | [345801-mage-food-truck.json](./345801-mage-food-truck.json) |
 | Mage Fort | 97236 | [97236-mage-fort.json](./97236-mage-fort.json) |
 | Mage Gauntlet | 38736 | [38736-mage-gauntlet.json](./38736-mage-gauntlet.json) |
 | Mage Guard: The Last Grimoire | 69477 | [69477-mage-guard-the-last-grimoire.json](./69477-mage-guard-the-last-grimoire.json) |
@@ -2923,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbling Clear | 281248 | [281248-marbling-clear.json](./281248-marbling-clear.json) |
 | Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
 | Marblob | 366343 | [366343-marblob.json](./366343-marblob.json) |
+| Marblous Worlds | 346516 | [346516-marblous-worlds.json](./346516-marblous-worlds.json) |
 | Marburgh | 126934 | [126934-marburgh.json](./126934-marburgh.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marc Ecko's Getting Up | 386410 | [386410-marc-eckos-getting-up.json](./386410-marc-eckos-getting-up.json) |
@@ -4650,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchstick: Cosmic Flame | 333554 | [333554-matchstick-cosmic-flame.json](./333554-matchstick-cosmic-flame.json) |
 | Matchsticks | 252146 | [252146-matchsticks.json](./252146-matchsticks.json) |
 | Matchsticks: Coffee Break Club | 169459 | [169459-matchsticks-coffee-break-club.json](./169459-matchsticks-coffee-break-club.json) |
+| Matchstone | 346524 | [346524-matchstone.json](./346524-matchstone.json) |
 | Matchuie | 365158 | [365158-matchuie.json](./365158-matchuie.json) |
 | Matchunk | 100670 | [100670-matchunk.json](./100670-matchunk.json) |
 | MatchUp Friends: Find Pairs | 104438 | [104438-matchup-friends-find-pairs.json](./104438-matchup-friends-find-pairs.json) |
@@ -8226,6 +8229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: VR Missions | 18683 | [18683-metal-gear-solid-vr-missions.json](./18683-metal-gear-solid-vr-missions.json) |
 | Metal Gear Survive: Digital Deluxe Edition | 119085 | [119085-metal-gear-survive-digital-deluxe-edition.json](./119085-metal-gear-survive-digital-deluxe-edition.json) |
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
+| Metal Genesis: Rogue Regime | 346533 | [346533-metal-genesis-rogue-regime.json](./346533-metal-genesis-rogue-regime.json) |
 | Metal Glove: Exodus | 235458 | [235458-metal-glove-exodus.json](./235458-metal-glove-exodus.json) |
 | Metal Goose | 388948 | [388948-metal-goose.json](./388948-metal-goose.json) |
 | Metal Gun III: Shout of the Arms | 340025 | [340025-metal-gun-iii-shout-of-the-arms.json](./340025-metal-gun-iii-shout-of-the-arms.json) |
@@ -10480,6 +10484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minemadness | 201155 | [201155-minemadness.json](./201155-minemadness.json) |
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
 | Minepull | 186554 | [186554-minepull.json](./186554-minepull.json) |
+| Miner | 345934 | [345934-miner.json](./345934-miner.json) |
 | Miner 2019er | 416659 | [416659-miner-2019er.json](./416659-miner-2019er.json) |
 | Miner 2049er | 198821 | [198821-miner-2049er.json](./198821-miner-2049er.json) |
 | Miner 2049er | 293746 | [293746-miner-2049er.json](./293746-miner-2049er.json) |
@@ -12571,6 +12576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum | 183386 | [183386-momentum.json](./183386-momentum.json) |
 | Momentum | 199918 | [199918-momentum.json](./199918-momentum.json) |
 | Momentum | 23568 | [23568-momentum.json](./23568-momentum.json) |
+| Momentum | 346491 | [346491-momentum.json](./346491-momentum.json) |
 | Momentum Mayhem | 309560 | [309560-momentum-mayhem.json](./309560-momentum-mayhem.json) |
 | Momentum Missile Mayhem | 388200 | [388200-momentum-missile-mayhem.json](./388200-momentum-missile-mayhem.json) |
 | Momentum Missile Mayhem 2015 | 388205 | [388205-momentum-missile-mayhem-2015.json](./388205-momentum-missile-mayhem-2015.json) |
@@ -13820,6 +13826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon | 212774 | [212774-moon.json](./212774-moon.json) |
 | Moon | 21898 | [21898-moon.json](./21898-moon.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
+| Moon & the Fractured Reincarnation | 346492 | [346492-moon-and-the-fractured-reincarnation.json](./346492-moon-and-the-fractured-reincarnation.json) |
 | Moon 2999 | 302939 | [302939-moon-2999.json](./302939-moon-2999.json) |
 | Moon Alert | 73795 | [73795-moon-alert.json](./73795-moon-alert.json) |
 | Moon Alien Part II | 38581 | [38581-moon-alien-part-ii.json](./38581-moon-alien-part-ii.json) |
@@ -13890,6 +13897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Rat | 330829 | [330829-moon-rat.json](./330829-moon-rat.json) |
 | Moon Rider | 215171 | [215171-moon-rider.json](./215171-moon-rider.json) |
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
+| Moon Rising | 346493 | [346493-moon-rising.json](./346493-moon-rising.json) |
 | Moon River | 111590 | [111590-moon-river.json](./111590-moon-river.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
 | Moon Rover | 148126 | [148126-moon-rover.json](./148126-moon-rover.json) |
