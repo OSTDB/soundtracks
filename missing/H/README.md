@@ -7839,6 +7839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeworld: Remastered Collection - Deluxe Edition | 53204 | [53204-homeworld-remastered-collection-deluxe-edition.json](./53204-homeworld-remastered-collection-deluxe-edition.json) |
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
 | Homicide | 118110 | [118110-homicide.json](./118110-homicide.json) |
+| Homicide Poetry | 350919 | [350919-homicide-poetry.json](./350919-homicide-poetry.json) |
 | Homicide Squad | 180153 | [180153-homicide-squad.json](./180153-homicide-squad.json) |
 | Homicide Squad: Hidden Crimes | 96323 | [96323-homicide-squad-hidden-crimes.json](./96323-homicide-squad-hidden-crimes.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
@@ -8205,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope VR: Emotional Intelligence Assistant | 169926 | [169926-hope-vr-emotional-intelligence-assistant.json](./169926-hope-vr-emotional-intelligence-assistant.json) |
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
 | Hope with Island | 283094 | [283094-hope-with-island.json](./283094-hope-with-island.json) |
+| Hope: A Potato Story | 350910 | [350910-hope-a-potato-story.json](./350910-hope-a-potato-story.json) |
 | Hope: A Sky Full of Ghosts | 317312 | [317312-hope-a-sky-full-of-ghosts.json](./317312-hope-a-sky-full-of-ghosts.json) |
 | Hope: The Other Side of Adventure | 192900 | [192900-hope-the-other-side-of-adventure.json](./192900-hope-the-other-side-of-adventure.json) |
 | Hope: Unlived Life | 358246 | [358246-hope-unlived-life.json](./358246-hope-unlived-life.json) |
@@ -8427,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Bundle Vol. 1 | 147795 | [147795-horror-bundle-vol-1.json](./147795-horror-bundle-vol-1.json) |
 | Horror Bundle: 3 in 1 | 247584 | [247584-horror-bundle-3-in-1.json](./247584-horror-bundle-3-in-1.json) |
 | Horror Cam | 278947 | [278947-horror-cam.json](./278947-horror-cam.json) |
+| Horror Camp | 350940 | [350940-horror-camp.json](./350940-horror-camp.json) |
 | Horror Cartridge Collection | 244897 | [244897-horror-cartridge-collection.json](./244897-horror-cartridge-collection.json) |
 | Horror Castle | 262007 | [262007-horror-castle.json](./262007-horror-castle.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
@@ -9154,6 +9157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Hunted | 217759 | [217759-house-hunted.json](./217759-house-hunted.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
 | House in the Woods | 395108 | [395108-house-in-the-woods.json](./395108-house-in-the-woods.json) |
+| House M.D. | 350938 | [350938-house-m-d.json](./350938-house-m-d.json) |
 | House M.D. Episode 5: Under the Big Top | 65508 | [65508-house-m-d-episode-5-under-the-big-top.json](./65508-house-m-d-episode-5-under-the-big-top.json) |
 | House M.D.: Episode 1 - Globetrotting | 85178 | [85178-house-m-d-episode-1-globetrotting.json](./85178-house-m-d-episode-1-globetrotting.json) |
 | House M.D.: Episode 2 - Blue Meanie | 85177 | [85177-house-m-d-episode-2-blue-meanie.json](./85177-house-m-d-episode-2-blue-meanie.json) |
@@ -9885,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Fish | 167389 | [167389-hungry-fish.json](./167389-hungry-fish.json) |
 | Hungry Fish Evolution | 96629 | [96629-hungry-fish-evolution.json](./96629-hungry-fish-evolution.json) |
 | Hungry Flame | 29579 | [29579-hungry-flame.json](./29579-hungry-flame.json) |
+| Hungry for Applez | 350896 | [350896-hungry-for-applez.json](./350896-hungry-for-applez.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Frog | 183335 | [183335-hungry-frog.json](./183335-hungry-frog.json) |
 | Hungry Froo | 259976 | [259976-hungry-froo.json](./259976-hungry-froo.json) |
