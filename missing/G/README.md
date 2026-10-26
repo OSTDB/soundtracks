@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Hog | 85742 | [85742-gas-hog.json](./85742-gas-hog.json) |
 | Gas N Cars | 410455 | [410455-gas-n-cars.json](./410455-gas-n-cars.json) |
 | Gas Pack | 332479 | [332479-gas-pack.json](./332479-gas-pack.json) |
+| Gas Ratio | 386188 | [386188-gas-ratio.json](./386188-gas-ratio.json) |
 | Gas See who likes you | 223942 | [223942-gas-see-who-likes-you.json](./223942-gas-see-who-likes-you.json) |
 | Gas Station 2: Highway Service | 86944 | [86944-gas-station-2-highway-service.json](./86944-gas-station-2-highway-service.json) |
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
@@ -3938,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladihaters | 149405 | [149405-gladihaters.json](./149405-gladihaters.json) |
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
+| GladiMaker | 386170 | [386170-gladimaker.json](./386170-gladimaker.json) |
 | Gladio | 107438 | [107438-gladio.json](./107438-gladio.json) |
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
