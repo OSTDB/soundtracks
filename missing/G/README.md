@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Corp DX | 25276 | [25276-game-corp-dx.json](./25276-game-corp-dx.json) |
 | Game de Check! Koutsuu Anzen | 268899 | [268899-game-de-check-koutsuu-anzen.json](./268899-game-de-check-koutsuu-anzen.json) |
 | Game de Demashita! Powerpuff Girls Z | 133826 | [133826-game-de-demashita-powerpuff-girls-z.json](./133826-game-de-demashita-powerpuff-girls-z.json) |
+| Game de Hajimeru TOEIC Test: Mazu ha Nyuumon-hen 1500 | 337539 | [337539-game-de-hajimeru-toeic-test-mazu-ha-nyuumon-hen-1500.json](./337539-game-de-hajimeru-toeic-test-mazu-ha-nyuumon-hen-1500.json) |
 | Game de Hakken!! Tamagotchi 2 | 77619 | [77619-game-de-hakken-tamagotchi-2.json](./77619-game-de-hakken-tamagotchi-2.json) |
 | Game de Hakken!! Tamagotchi: Osutchi & Mesutchi | 69250 | [69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json](./69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json) |
 | Game de Raku-raku Nou-tre | 251521 | [251521-game-de-raku-raku-nou-tre.json](./251521-game-de-raku-raku-nou-tre.json) |
@@ -2895,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get 'Em Hard | 141577 | [141577-get-em-hard.json](./141577-get-em-hard.json) |
 | Get a Body Language Expert, Pronto! | 339597 | [339597-get-a-body-language-expert-pronto.json](./339597-get-a-body-language-expert-pronto.json) |
 | Get a Life | 151466 | [151466-get-a-life.json](./151466-get-a-life.json) |
+| Get a Midnight Snack without Mom Knowing | 337552 | [337552-get-a-midnight-snack-without-mom-knowing.json](./337552-get-a-midnight-snack-without-mom-knowing.json) |
 | Get Acc_E55 | 186586 | [186586-get-acc-e55.json](./186586-get-acc-e55.json) |
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
@@ -8644,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Loot | 120239 | [120239-guild-loot.json](./120239-guild-loot.json) |
 | Guild Master Manager | 207200 | [207200-guild-master-manager.json](./207200-guild-master-manager.json) |
 | Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
+| Guild no Uketsukejou desu ga, Yoko-scroll game ni natta no de Boss wo solo toubatsu shiyou to omoimasu. | 337521 | [337521-guild-no-uketsukejou-desu-ga-yoko-scroll-game-ni-natta-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu.json](./337521-guild-no-uketsukejou-desu-ga-yoko-scroll-game-ni-natta-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu.json) |
 | Guild of Darksteel | 137461 | [137461-guild-of-darksteel.json](./137461-guild-of-darksteel.json) |
 | Guild of Dragons | 217450 | [217450-guild-of-dragons.json](./217450-guild-of-dragons.json) |
 | Guild of Dungeoneering | 11447 | [11447-guild-of-dungeoneering.json](./11447-guild-of-dungeoneering.json) |
