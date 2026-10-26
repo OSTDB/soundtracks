@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batalj | 112225 | [112225-batalj.json](./112225-batalj.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
 | Batalyx | 26418 | [26418-batalyx.json](./26418-batalyx.json) |
+| Batamonisk | 340874 | [340874-batamonisk.json](./340874-batamonisk.json) |
 | Batara: Fate Unbound | 396640 | [396640-batara-fate-unbound.json](./396640-batara-fate-unbound.json) |
 | Batbarian: Testament of the Primordials | 139177 | [139177-batbarian-testament-of-the-primordials.json](./139177-batbarian-testament-of-the-primordials.json) |
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
@@ -7658,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole Escape | 293515 | [293515-black-hole-escape.json](./293515-black-hole-escape.json) |
 | Black Hole Fishing | 346166 | [346166-black-hole-fishing.json](./346166-black-hole-fishing.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
+| Black Hole Havoc | 340852 | [340852-black-hole-havoc.json](./340852-black-hole-havoc.json) |
 | Black Hole Hazard | 32515 | [32515-black-hole-hazard.json](./32515-black-hole-hazard.json) |
 | Black Hole Interior Explorer | 277534 | [277534-black-hole-interior-explorer.json](./277534-black-hole-interior-explorer.json) |
 | Black Hole Pool | 213822 | [213822-black-hole-pool.json](./213822-black-hole-pool.json) |
@@ -12888,6 +12890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout: Recharged | 187471 | [187471-breakout-recharged.json](./187471-breakout-recharged.json) |
 | Breakout! | 356542 | [356542-breakout.json](./356542-breakout.json) |
 | Breakpoint | 358640 | [358640-breakpoint.json](./358640-breakpoint.json) |
+| Breakpoint: Viper Squad | 340868 | [340868-breakpoint-viper-squad.json](./340868-breakpoint-viper-squad.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
 | Breakremental | 422532 | [422532-breakremental.json](./422532-breakremental.json) |
 | Breakthrough | 15686 | [15686-breakthrough.json](./15686-breakthrough.json) |
