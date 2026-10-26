@@ -1899,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paratrooper | 25155 | [25155-paratrooper.json](./25155-paratrooper.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
 | Paravalence: With My Angel | 378975 | [378975-paravalence-with-my-angel.json](./378975-paravalence-with-my-angel.json) |
+| Paravoid | 384046 | [384046-paravoid.json](./384046-paravoid.json) |
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
 | Parcel | 17699 | [17699-parcel.json](./17699-parcel.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
@@ -3581,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
 | Perchang | 58242 | [58242-perchang.json](./58242-perchang.json) |
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
+| Perciflette | 384002 | [384002-perciflette.json](./384002-perciflette.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
 | Percussion Master | 382980 | [382980-percussion-master.json](./382980-percussion-master.json) |
 | Percussive VR | 31108 | [31108-percussive-vr.json](./31108-percussive-vr.json) |
@@ -10574,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy's Nightmare | 121577 | [121577-poppys-nightmare.json](./121577-poppys-nightmare.json) |
 | PopSauce | 186044 | [186044-popsauce.json](./186044-popsauce.json) |
 | Popscene (Backstage Pass) | 91988 | [91988-popscene-backstage-pass.json](./91988-popscene-backstage-pass.json) |
+| Popscene: Track 2 | 384010 | [384010-popscene-track-2.json](./384010-popscene-track-2.json) |
 | Popsicle Stack | 223983 | [223983-popsicle-stack.json](./223983-popsicle-stack.json) |
 | PopSlinger | 186701 | [186701-popslinger.json](./186701-popslinger.json) |
 | PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
