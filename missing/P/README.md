@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Effect: My Dogs Are Human! | 128455 | [128455-paws-and-effect-my-dogs-are-human.json](./128455-paws-and-effect-my-dogs-are-human.json) |
 | Paws & Perils: Out Of This World | 327386 | [327386-paws-and-perils-out-of-this-world.json](./327386-paws-and-perils-out-of-this-world.json) |
 | Paws & Potions | 337301 | [337301-paws-and-potions.json](./337301-paws-and-potions.json) |
+| Paws Against the World | 345380 | [345380-paws-against-the-world.json](./345380-paws-against-the-world.json) |
 | Paws and Claws: Pet Vet | 5091 | [5091-paws-and-claws-pet-vet.json](./5091-paws-and-claws-pet-vet.json) |
 | Paws and Claws: Pet Vet 2 | 123380 | [123380-paws-and-claws-pet-vet-2.json](./123380-paws-and-claws-pet-vet-2.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
@@ -6499,6 +6500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Fighter Tycoon | 216683 | [216683-pit-fighter-tycoon.json](./216683-pit-fighter-tycoon.json) |
 | Pit of 100 Wonders | 394348 | [394348-pit-of-100-wonders.json](./394348-pit-of-100-wonders.json) |
 | Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
+| Pit of Fears | 346504 | [346504-pit-of-fears.json](./346504-pit-of-fears.json) |
 | Pit of Gerstan | 319880 | [319880-pit-of-gerstan.json](./319880-pit-of-gerstan.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pit of the Condemned | 59692 | [59692-pit-of-the-condemned.json](./59692-pit-of-the-condemned.json) |
@@ -10187,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygonal Passage | 298103 | [298103-polygonal-passage.json](./298103-polygonal-passage.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
+| Polygone | 345388 | [345388-polygone.json](./345388-polygone.json) |
 | Polygoneer | 55395 | [55395-polygoneer.json](./55395-polygoneer.json) |
 | Polygonet Commanders | 222905 | [222905-polygonet-commanders.json](./222905-polygonet-commanders.json) |
 | Polygonia | 194191 | [194191-polygonia.json](./194191-polygonia.json) |
@@ -13813,6 +13816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propa. | 326255 | [326255-propa.json](./326255-propa.json) |
 | Propaganda Inc. | 237225 | [237225-propaganda-inc.json](./237225-propaganda-inc.json) |
 | Propaganda Llama | 111476 | [111476-propaganda-llama.json](./111476-propaganda-llama.json) |
+| Propaganda vs. Zombies | 345374 | [345374-propaganda-vs-zombies.json](./345374-propaganda-vs-zombies.json) |
 | Propaganda vs. Zombies 2 | 391742 | [391742-propaganda-vs-zombies-2.json](./391742-propaganda-vs-zombies-2.json) |
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Propagation VR | 139182 | [139182-propagation-vr.json](./139182-propagation-vr.json) |
