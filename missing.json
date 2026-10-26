@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T20:36:50.965Z",
-  "total_missing": 266777,
+  "generated_at": "2026-10-26T20:49:54.060Z",
+  "total_missing": 266825,
   "games": [
     {
       "igdb_id": 191680,
@@ -96035,11 +96035,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -246802,6 +246797,11 @@
       "file": "missing/C/55785-crypt-hunter.json"
     },
     {
+      "igdb_id": 340330,
+      "game_name": "Crypt Keeper",
+      "file": "missing/C/340330-crypt-keeper.json"
+    },
+    {
       "igdb_id": 20737,
       "game_name": "Crypt Killer",
       "file": "missing/C/20737-crypt-killer.json"
@@ -252525,6 +252525,11 @@
       "igdb_id": 372749,
       "game_name": "Cursed Presence",
       "file": "missing/C/372749-cursed-presence.json"
+    },
+    {
+      "igdb_id": 340600,
+      "game_name": "Cursed Profit",
+      "file": "missing/C/340600-cursed-profit.json"
     },
     {
       "igdb_id": 114314,
@@ -322640,6 +322645,11 @@
       "igdb_id": 272379,
       "game_name": "DreadMoon",
       "file": "missing/D/272379-dreadmoon.json"
+    },
+    {
+      "igdb_id": 340334,
+      "game_name": "Dreadmoor",
+      "file": "missing/D/340334-dreadmoor.json"
     },
     {
       "igdb_id": 381656,
@@ -432512,6 +432522,11 @@
       "file": "missing/G/315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json"
     },
     {
+      "igdb_id": 340310,
+      "game_name": "G-Mode Archives+: Bokujou Monogatari Mobile - Minori no Shima",
+      "file": "missing/G/340310-g-mode-archives-bokujou-monogatari-mobile-minori-no-shima.json"
+    },
+    {
       "igdb_id": 214712,
       "game_name": "G-Mode Archives+: Danmaku Kentei Shiken - Ketsui-Hen",
       "file": "missing/G/214712-g-mode-archives-danmaku-kentei-shiken-ketsui-hen.json"
@@ -432625,6 +432640,16 @@
       "igdb_id": 251474,
       "game_name": "G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-bo vol.12 - Nakanai Irainjin",
       "file": "missing/G/251474-g-mode-archives-tantei-kibukawa-ryousuke-jiken-bo-vol-12-nakanai-irainjin.json"
+    },
+    {
+      "igdb_id": 340308,
+      "game_name": "G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 15 - Ouma ga toki no Kyoushikyoku",
+      "file": "missing/G/340308-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-15-ouma-ga-toki-no-kyoushikyoku.json"
+    },
+    {
+      "igdb_id": 340309,
+      "game_name": "G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 16 - Awayuki ha Hi no Kanashimi",
+      "file": "missing/G/340309-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-16-awayuki-ha-hi-no-kanashimi.json"
     },
     {
       "igdb_id": 279118,
@@ -437962,6 +437987,11 @@
       "file": "missing/G/46658-game-over-ii.json"
     },
     {
+      "igdb_id": 340291,
+      "game_name": "Game Over Please",
+      "file": "missing/G/340291-game-over-please.json"
+    },
+    {
       "igdb_id": 122330,
       "game_name": "Game Over Quest",
       "file": "missing/G/122330-game-over-quest.json"
@@ -438685,6 +438715,11 @@
       "igdb_id": 266856,
       "game_name": "Games for Stream!",
       "file": "missing/G/266856-games-for-stream.json"
+    },
+    {
+      "igdb_id": 340292,
+      "game_name": "Games For The Table",
+      "file": "missing/G/340292-games-for-the-table.json"
     },
     {
       "igdb_id": 84641,
@@ -441567,6 +441602,11 @@
       "file": "missing/G/50892-gates-of-nowhere.json"
     },
     {
+      "igdb_id": 340293,
+      "game_name": "Gates of Olympus",
+      "file": "missing/G/340293-gates-of-olympus.json"
+    },
+    {
       "igdb_id": 61899,
       "game_name": "Gates of Osiris",
       "file": "missing/G/61899-gates-of-osiris.json"
@@ -441927,6 +441967,11 @@
       "file": "missing/G/336866-gavis-arenarium.json"
     },
     {
+      "igdb_id": 340294,
+      "game_name": "GawaiiGo",
+      "file": "missing/G/340294-gawaiigo.json"
+    },
+    {
       "igdb_id": 217217,
       "game_name": "Gawr Gura: Quest for Bread",
       "file": "missing/G/217217-gawr-gura-quest-for-bread.json"
@@ -441980,6 +442025,11 @@
       "igdb_id": 304857,
       "game_name": "Gay Sex Adventures: Episode 8",
       "file": "missing/G/304857-gay-sex-adventures-episode-8.json"
+    },
+    {
+      "igdb_id": 340295,
+      "game_name": "Gay Sex Adventures: Episode 9",
+      "file": "missing/G/340295-gay-sex-adventures-episode-9.json"
     },
     {
       "igdb_id": 405059,
@@ -442980,6 +443030,11 @@
       "igdb_id": 359430,
       "game_name": "Gekko and Luna Girl's Moths",
       "file": "missing/G/359430-gekko-and-luna-girls-moths.json"
+    },
+    {
+      "igdb_id": 340296,
+      "game_name": "Gekko Episode of Yurihime",
+      "file": "missing/G/340296-gekko-episode-of-yurihime.json"
     },
     {
       "igdb_id": 243564,
@@ -445557,6 +445612,11 @@
       "file": "missing/G/252661-geo-wunder-natur-puzzle-echter-puzzlespass-fur-unterwegs.json"
     },
     {
+      "igdb_id": 340297,
+      "game_name": "Geo-Deux",
+      "file": "missing/G/340297-geo-deux.json"
+    },
+    {
       "igdb_id": 165078,
       "game_name": "Geo-Duck",
       "file": "missing/G/165078-geo-duck.json"
@@ -447702,6 +447762,11 @@
       "file": "missing/G/15828-ghost-chaser-densei.json"
     },
     {
+      "igdb_id": 340298,
+      "game_name": "Ghost Clicker",
+      "file": "missing/G/340298-ghost-clicker.json"
+    },
+    {
       "igdb_id": 150640,
       "game_name": "Ghost College",
       "file": "missing/G/150640-ghost-college.json"
@@ -448927,6 +448992,11 @@
       "file": "missing/G/423257-ghostie-town.json"
     },
     {
+      "igdb_id": 340299,
+      "game_name": "Ghostie's Escape",
+      "file": "missing/G/340299-ghosties-escape.json"
+    },
+    {
       "igdb_id": 235036,
       "game_name": "Ghosting Vandal",
       "file": "missing/G/235036-ghosting-vandal.json"
@@ -449725,6 +449795,11 @@
       "igdb_id": 107581,
       "game_name": "Gibbets: Bow Master",
       "file": "missing/G/107581-gibbets-bow-master.json"
+    },
+    {
+      "igdb_id": 340300,
+      "game_name": "GibblePets",
+      "file": "missing/G/340300-gibblepets.json"
     },
     {
       "igdb_id": 410992,
@@ -450757,6 +450832,11 @@
       "file": "missing/G/139383-girl-cafe-gun.json"
     },
     {
+      "igdb_id": 340301,
+      "game_name": "Girl Card Battle",
+      "file": "missing/G/340301-girl-card-battle.json"
+    },
+    {
       "igdb_id": 415316,
       "game_name": "Girl Design",
       "file": "missing/G/415316-girl-design.json"
@@ -451427,6 +451507,11 @@
       "file": "missing/G/109708-girls-vr.json"
     },
     {
+      "igdb_id": 340302,
+      "game_name": "Girls vs. Tentacles",
+      "file": "missing/G/340302-girls-vs-tentacles.json"
+    },
+    {
       "igdb_id": 400165,
       "game_name": "Girls Who Are Totally Into Me",
       "file": "missing/G/400165-girls-who-are-totally-into-me.json"
@@ -451942,6 +452027,11 @@
       "file": "missing/G/297578-gladiator-rising-2.json"
     },
     {
+      "igdb_id": 340303,
+      "game_name": "Gladiator Rumble",
+      "file": "missing/G/340303-gladiator-rumble.json"
+    },
+    {
       "igdb_id": 284329,
       "game_name": "Gladiator School",
       "file": "missing/G/284329-gladiator-school.json"
@@ -451995,6 +452085,11 @@
       "igdb_id": 321642,
       "game_name": "Gladiators Battle",
       "file": "missing/G/321642-gladiators-battle.json"
+    },
+    {
+      "igdb_id": 340304,
+      "game_name": "Gladiators Idle",
+      "file": "missing/G/340304-gladiators-idle.json"
     },
     {
       "igdb_id": 155861,
@@ -453042,6 +453137,11 @@
       "file": "missing/G/92636-global-champion.json"
     },
     {
+      "igdb_id": 340305,
+      "game_name": "Global Chess",
+      "file": "missing/G/340305-global-chess.json"
+    },
+    {
       "igdb_id": 181651,
       "game_name": "Global City",
       "file": "missing/G/181651-global-city.json"
@@ -453507,6 +453607,11 @@
       "file": "missing/G/225010-gloomy-tales-horrific-show-collectors-edition.json"
     },
     {
+      "igdb_id": 340306,
+      "game_name": "Gloomy Tales: Hotel Frightsylvania - Collector's Edition",
+      "file": "missing/G/340306-gloomy-tales-hotel-frightsylvania-collectors-edition.json"
+    },
+    {
       "igdb_id": 271643,
       "game_name": "Gloomy Tales: One-Way Ticket - Collector's Edition",
       "file": "missing/G/271643-gloomy-tales-one-way-ticket-collectors-edition.json"
@@ -453680,6 +453785,11 @@
       "igdb_id": 84509,
       "game_name": "Glory Days: Tactical Defense",
       "file": "missing/G/84509-glory-days-tactical-defense.json"
+    },
+    {
+      "igdb_id": 340307,
+      "game_name": "Glory Destiny: Reborn",
+      "file": "missing/G/340307-glory-destiny-reborn.json"
     },
     {
       "igdb_id": 175670,
@@ -454282,6 +454392,11 @@
       "file": "missing/G/142178-gmota.json"
     },
     {
+      "igdb_id": 340311,
+      "game_name": "GMU Blastmaster Battle",
+      "file": "missing/G/340311-gmu-blastmaster-battle.json"
+    },
+    {
       "igdb_id": 61507,
       "game_name": "Gnah!",
       "file": "missing/G/61507-gnah.json"
@@ -454667,6 +454782,11 @@
       "file": "missing/G/93469-gnomic.json"
     },
     {
+      "igdb_id": 340312,
+      "game_name": "Gnomich",
+      "file": "missing/G/340312-gnomich.json"
+    },
+    {
       "igdb_id": 241215,
       "game_name": "Gnomium: Pocket Edition",
       "file": "missing/G/241215-gnomium-pocket-edition.json"
@@ -454902,6 +455022,11 @@
       "file": "missing/G/209761-go-fish-the-pop-n-drop-game.json"
     },
     {
+      "igdb_id": 340316,
+      "game_name": "Go Fkn Fast",
+      "file": "missing/G/340316-go-fkn-fast.json"
+    },
+    {
       "igdb_id": 15926,
       "game_name": "Go Go Ackman",
       "file": "missing/G/15926-go-go-ackman.json"
@@ -454925,6 +455050,11 @@
       "igdb_id": 252570,
       "game_name": "Go Go Fast",
       "file": "missing/G/252570-go-go-fast.json"
+    },
+    {
+      "igdb_id": 340317,
+      "game_name": "Go Go Fight",
+      "file": "missing/G/340317-go-go-fight.json"
     },
     {
       "igdb_id": 61732,
@@ -455727,6 +455857,11 @@
       "file": "missing/G/148461-goalienator.json"
     },
     {
+      "igdb_id": 340313,
+      "game_name": "Goalkeeper Journey",
+      "file": "missing/G/340313-goalkeeper-journey.json"
+    },
+    {
       "igdb_id": 112499,
       "game_name": "Goalkeeper VR Challenge",
       "file": "missing/G/112499-goalkeeper-vr-challenge.json"
@@ -455755,6 +455890,11 @@
       "igdb_id": 101619,
       "game_name": "Goat Life",
       "file": "missing/G/101619-goat-life.json"
+    },
+    {
+      "igdb_id": 340314,
+      "game_name": "Goat Massacre",
+      "file": "missing/G/340314-goat-massacre.json"
     },
     {
       "igdb_id": 118115,
@@ -458220,6 +458360,11 @@
       "igdb_id": 259599,
       "game_name": "GoHome",
       "file": "missing/G/259599-gohome.json"
+    },
+    {
+      "igdb_id": 340318,
+      "game_name": "GoHome_Pico",
+      "file": "missing/G/340318-gohome-pico.json"
     },
     {
       "igdb_id": 90122,
@@ -461392,6 +461537,11 @@
       "file": "missing/G/161364-good-puzzle-castles.json"
     },
     {
+      "igdb_id": 340319,
+      "game_name": "Good Sleep Company",
+      "file": "missing/G/340319-good-sleep-company.json"
+    },
+    {
       "igdb_id": 381134,
       "game_name": "Good Soup",
       "file": "missing/G/381134-good-soup.json"
@@ -461915,6 +462065,11 @@
       "igdb_id": 292450,
       "game_name": "Gooner on the Orient Express",
       "file": "missing/G/292450-gooner-on-the-orient-express.json"
+    },
+    {
+      "igdb_id": 340320,
+      "game_name": "Gooning Aim Trainer",
+      "file": "missing/G/340320-gooning-aim-trainer.json"
     },
     {
       "igdb_id": 138643,
@@ -465907,6 +466062,11 @@
       "file": "missing/G/71333-granny-in-paradise.json"
     },
     {
+      "igdb_id": 340321,
+      "game_name": "Granny Kick Neighbor",
+      "file": "missing/G/340321-granny-kick-neighbor.json"
+    },
+    {
       "igdb_id": 245381,
       "game_name": "Granny Legend",
       "file": "missing/G/245381-granny-legend.json"
@@ -469317,6 +469477,11 @@
       "file": "missing/G/246915-green-reaper.json"
     },
     {
+      "igdb_id": 340325,
+      "game_name": "Green Revival",
+      "file": "missing/G/340325-green-revival.json"
+    },
+    {
       "igdb_id": 107197,
       "game_name": "Green Run",
       "file": "missing/G/107197-green-run.json"
@@ -469437,6 +469602,11 @@
       "file": "missing/G/80193-greens-xmas-collection.json"
     },
     {
+      "igdb_id": 340322,
+      "game_name": "GreenBulb",
+      "file": "missing/G/340322-greenbulb.json"
+    },
+    {
       "igdb_id": 87293,
       "game_name": "GreenChess",
       "file": "missing/G/87293-greenchess.json"
@@ -469505,6 +469675,16 @@
       "igdb_id": 311631,
       "game_name": "Greengrocer's",
       "file": "missing/G/311631-greengrocers.json"
+    },
+    {
+      "igdb_id": 340323,
+      "game_name": "GreenGuardiansVR",
+      "file": "missing/G/340323-greenguardiansvr.json"
+    },
+    {
+      "igdb_id": 340324,
+      "game_name": "Greenhearth Necromancer",
+      "file": "missing/G/340324-greenhearth-necromancer.json"
     },
     {
       "igdb_id": 336339,
@@ -471640,6 +471820,11 @@
       "igdb_id": 112765,
       "game_name": "Grimsonland",
       "file": "missing/G/112765-grimsonland.json"
+    },
+    {
+      "igdb_id": 340326,
+      "game_name": "Grimstone Valley",
+      "file": "missing/G/340326-grimstone-valley.json"
     },
     {
       "igdb_id": 191881,
@@ -575707,6 +575892,11 @@
       "file": "missing/J/265037-judge-dredd.json"
     },
     {
+      "igdb_id": 340333,
+      "game_name": "Judge Dredd",
+      "file": "missing/J/340333-judge-dredd.json"
+    },
+    {
       "igdb_id": 36742,
       "game_name": "Judge Dredd",
       "file": "missing/J/36742-judge-dredd.json"
@@ -586317,6 +586507,11 @@
       "file": "missing/K/385975-kattobase-pawapuro-kun.json"
     },
     {
+      "igdb_id": 340328,
+      "game_name": "Kattobi Road",
+      "file": "missing/K/340328-kattobi-road.json"
+    },
+    {
       "igdb_id": 214618,
       "game_name": "Kattobi Tune",
       "file": "missing/K/214618-kattobi-tune.json"
@@ -592800,11 +592995,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -785902,6 +786092,11 @@
       "file": "missing/O/115656-once-upon-a-life.json"
     },
     {
+      "igdb_id": 340331,
+      "game_name": "Once Upon a Mind: A Little Too Friendly",
+      "file": "missing/O/340331-once-upon-a-mind-a-little-too-friendly.json"
+    },
+    {
       "igdb_id": 184565,
       "game_name": "Once Upon A Plague",
       "file": "missing/O/184565-once-upon-a-plague.json"
@@ -942217,6 +942412,11 @@
       "file": "missing/S/278381-s-e-x-retreat-wellcum-in.json"
     },
     {
+      "igdb_id": 340604,
+      "game_name": "S.E.X. Z.O.N.E.",
+      "file": "missing/S/340604-s-e-x-z-o-n-e.json"
+    },
+    {
       "igdb_id": 104838,
       "game_name": "S.F.77",
       "file": "missing/S/104838-s-f-77.json"
@@ -954385,6 +954585,11 @@
       "igdb_id": 236901,
       "game_name": "Schnee",
       "file": "missing/S/236901-schnee.json"
+    },
+    {
+      "igdb_id": 340315,
+      "game_name": "Schneider’s Curse",
+      "file": "missing/S/340315-schneider-s-curse.json"
     },
     {
       "igdb_id": 255568,
@@ -969032,6 +969237,16 @@
       "file": "missing/S/384873-sexy-memory-puzzle-kawaii.json"
     },
     {
+      "igdb_id": 340608,
+      "game_name": "Sexy Memory Puzzle: Kinky Workout",
+      "file": "missing/S/340608-sexy-memory-puzzle-kinky-workout.json"
+    },
+    {
+      "igdb_id": 340607,
+      "game_name": "Sexy Memory Puzzle: Pool Girls",
+      "file": "missing/S/340607-sexy-memory-puzzle-pool-girls.json"
+    },
+    {
       "igdb_id": 319238,
       "game_name": "Sexy Memory Puzzle: Pool Massage",
       "file": "missing/S/319238-sexy-memory-puzzle-pool-massage.json"
@@ -969040,6 +969255,16 @@
       "igdb_id": 248658,
       "game_name": "Sexy Memory Puzzle: Spanking Girls",
       "file": "missing/S/248658-sexy-memory-puzzle-spanking-girls.json"
+    },
+    {
+      "igdb_id": 340606,
+      "game_name": "Sexy Memory Puzzle: Sports Car Futanari",
+      "file": "missing/S/340606-sexy-memory-puzzle-sports-car-futanari.json"
+    },
+    {
+      "igdb_id": 340605,
+      "game_name": "Sexy Memory Puzzle: Sports Car Girl",
+      "file": "missing/S/340605-sexy-memory-puzzle-sports-car-girl.json"
     },
     {
       "igdb_id": 230905,
@@ -969125,6 +969350,11 @@
       "igdb_id": 301657,
       "game_name": "Sexycraft",
       "file": "missing/S/301657-sexycraft.json"
+    },
+    {
+      "igdb_id": 340603,
+      "game_name": "Seyahat: A Journey to Mecca",
+      "file": "missing/S/340603-seyahat-a-journey-to-mecca.json"
     },
     {
       "igdb_id": 264634,
@@ -969525,6 +969755,11 @@
       "igdb_id": 324309,
       "game_name": "Shadow",
       "file": "missing/S/324309-shadow.json"
+    },
+    {
+      "igdb_id": 340602,
+      "game_name": "Shadow Alchemist",
+      "file": "missing/S/340602-shadow-alchemist.json"
     },
     {
       "igdb_id": 297218,
@@ -970975,6 +971210,11 @@
       "igdb_id": 374076,
       "game_name": "Shadowbound",
       "file": "missing/S/374076-shadowbound.json"
+    },
+    {
+      "igdb_id": 340601,
+      "game_name": "ShadowBox: Mausoleum of Natural History",
+      "file": "missing/S/340601-shadowbox-mausoleum-of-natural-history.json"
     },
     {
       "igdb_id": 268461,
