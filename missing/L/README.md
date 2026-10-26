@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Valour | 12903 | [12903-legends-of-valour.json](./12903-legends-of-valour.json) |
 | Legends of Venari | 198301 | [198301-legends-of-venari.json](./198301-legends-of-venari.json) |
 | Legends of War | 20014 | [20014-legends-of-war.json](./20014-legends-of-war.json) |
+| Legends of War: Chronicles of Darkness | 377114 | [377114-legends-of-war-chronicles-of-darkness.json](./377114-legends-of-war-chronicles-of-darkness.json) |
 | Legends of War: Patton | 20015 | [20015-legends-of-war-patton.json](./20015-legends-of-war-patton.json) |
 | Legends of Wasteland | 391113 | [391113-legends-of-wasteland.json](./391113-legends-of-wasteland.json) |
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
@@ -7714,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
 | Lucky Joe | 160168 | [160168-lucky-joe.json](./160168-lucky-joe.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
+| Lucky Lord: The Coin Pusher of Fate | 377622 | [377622-lucky-lord-the-coin-pusher-of-fate.json](./377622-lucky-lord-the-coin-pusher-of-fate.json) |
 | Lucky Luke | 198806 | [198806-lucky-luke.json](./198806-lucky-luke.json) |
 | Lucky Luke | 200331 | [200331-lucky-luke.json](./200331-lucky-luke.json) |
 | Lucky Luke | 200334 | [200334-lucky-luke.json](./200334-lucky-luke.json) |
