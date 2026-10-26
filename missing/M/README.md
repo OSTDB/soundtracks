@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinist | 208096 | [208096-machinist.json](./208096-machinist.json) |
 | Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen! | 269588 | [269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json](./269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
+| Macho Harvest: Muscular Harvest Puzzle | 334600 | [334600-macho-harvest-muscular-harvest-puzzle.json](./334600-macho-harvest-muscular-harvest-puzzle.json) |
 | Macho Mouse | 40079 | [40079-macho-mouse.json](./40079-macho-mouse.json) |
 | Macho Scooping | 291908 | [291908-macho-scooping.json](./291908-macho-scooping.json) |
 | Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
@@ -6266,6 +6267,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Anniversary Collection | 1728 | [1728-mega-man-anniversary-collection.json](./1728-mega-man-anniversary-collection.json) |
 | Mega Man Arena | 74877 | [74877-mega-man-arena.json](./74877-mega-man-arena.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
+| Mega Man at the Tokyo Olympics | 334629 | [334629-mega-man-at-the-tokyo-olympics.json](./334629-mega-man-at-the-tokyo-olympics.json) |
+| Mega Man at the Tokyo Olympics 2 | 334628 | [334628-mega-man-at-the-tokyo-olympics-2.json](./334628-mega-man-at-the-tokyo-olympics-2.json) |
 | Mega Man Battle & Chase | 1731 | [1731-mega-man-battle-and-chase.json](./1731-mega-man-battle-and-chase.json) |
 | Mega Man Battle & Fighters | 212341 | [212341-mega-man-battle-and-fighters.json](./212341-mega-man-battle-and-fighters.json) |
 | Mega Man Battle Network | 1755 | [1755-mega-man-battle-network.json](./1755-mega-man-battle-network.json) |
@@ -12026,6 +12029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Team Manager | 111518 | [111518-mma-team-manager.json](./111518-mma-team-manager.json) |
 | MMC Kenken: The World's Most Exciting Math and Logic Puzzle | 173131 | [173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json](./173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json) |
 | MMI | 212154 | [212154-mmi.json](./212154-mmi.json) |
+| MMKK | 334606 | [334606-mmkk.json](./334606-mmkk.json) |
 | MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
 | Mmm Fingers 2 | 89777 | [89777-mmm-fingers-2.json](./89777-mmm-fingers-2.json) |
