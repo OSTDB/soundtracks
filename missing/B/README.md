@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3764,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | Battlestar Galactica Deadlock: The Broken Alliance | 129482 | [129482-battlestar-galactica-deadlock-the-broken-alliance.json](./129482-battlestar-galactica-deadlock-the-broken-alliance.json) |
 | Battlestar Galactica Online | 23527 | [23527-battlestar-galactica-online.json](./23527-battlestar-galactica-online.json) |
+| Battlestar Galactica Space Alert | 362871 | [362871-battlestar-galactica-space-alert.json](./362871-battlestar-galactica-space-alert.json) |
 | Battlestar Galactica: Condition One | 185321 | [185321-battlestar-galactica-condition-one.json](./185321-battlestar-galactica-condition-one.json) |
 | Battlestar Galactica: Scattered Hopes | 361822 | [361822-battlestar-galactica-scattered-hopes.json](./361822-battlestar-galactica-scattered-hopes.json) |
 | Battlestar Galactica: Squadrons | 83398 | [83398-battlestar-galactica-squadrons.json](./83398-battlestar-galactica-squadrons.json) |
@@ -3896,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BB Ball | 49485 | [49485-bb-ball.json](./49485-bb-ball.json) |
 | BB Carom Billiard | 103117 | [103117-bb-carom-billiard.json](./103117-bb-carom-billiard.json) |
 | BBA Ghost Story: Ward Edition | 358254 | [358254-bba-ghost-story-ward-edition.json](./358254-bba-ghost-story-ward-edition.json) |
+| BBB: Boost Boom Boots | 362792 | [362792-bbb-boost-boom-boots.json](./362792-bbb-boost-boom-boots.json) |
 | BBB: Vestal (Visual Novel Vol. 1) | 118130 | [118130-bbb-vestal-visual-novel-vol-1.json](./118130-bbb-vestal-visual-novel-vol-1.json) |
 | BBC-rex | 289573 | [289573-bbc-rex.json](./289573-bbc-rex.json) |
 | BBirthday | 232949 | [232949-bbirthday.json](./232949-bbirthday.json) |
