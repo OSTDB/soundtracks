@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Of Oasis: The Story | 401377 | [401377-campfire-of-oasis-the-story.json](./401377-campfire-of-oasis-the-story.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
 | Campfire Tales | 165585 | [165585-campfire-tales.json](./165585-campfire-tales.json) |
+| Campfire with Cat | 377040 | [377040-campfire-with-cat.json](./377040-campfire-with-cat.json) |
 | Campground Owner | 192692 | [192692-campground-owner.json](./192692-campground-owner.json) |
 | Campground Simulator | 379355 | [379355-campground-simulator.json](./379355-campground-simulator.json) |
 | Campgrounds Adventures | 311605 | [311605-campgrounds-adventures.json](./311605-campgrounds-adventures.json) |
@@ -3192,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Escape | 208102 | [208102-cat-escape.json](./208102-cat-escape.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Evolution | 341636 | [341636-cat-evolution.json](./341636-cat-evolution.json) |
+| Cat Familiar Center | 377034 | [377034-cat-familiar-center.json](./377034-cat-familiar-center.json) |
 | Cat Fantasy | 280799 | [280799-cat-fantasy.json](./280799-cat-fantasy.json) |
 | Cat Fish Catfish | 339381 | [339381-cat-fish-catfish.json](./339381-cat-fish-catfish.json) |
 | Cat Fish Island | 191181 | [191181-cat-fish-island.json](./191181-cat-fish-island.json) |
@@ -11144,6 +11146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
 | Conquer the Labyrinth | 422462 | [422462-conquer-the-labyrinth.json](./422462-conquer-the-labyrinth.json) |
 | Conquer the Skies | 207017 | [207017-conquer-the-skies.json](./207017-conquer-the-skies.json) |
+| Conquer the Tower | 377628 | [377628-conquer-the-tower.json](./377628-conquer-the-tower.json) |
 | Conquer the Universe | 207019 | [207019-conquer-the-universe.json](./207019-conquer-the-universe.json) |
 | Conquer the World | 71532 | [71532-conquer-the-world.json](./71532-conquer-the-world.json) |
 | Conquer The World | 356591 | [356591-conquer-the-world.json](./356591-conquer-the-world.json) |
