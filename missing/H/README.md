@@ -2291,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Mansion | 342075 | [342075-haunted-mansion.json](./342075-haunted-mansion.json) |
 | Haunted Mansion: Experience | 319759 | [319759-haunted-mansion-experience.json](./319759-haunted-mansion-experience.json) |
 | Haunted Maze | 266638 | [266638-haunted-maze.json](./266638-haunted-maze.json) |
+| Haunted Mines | 361115 | [361115-haunted-mines.json](./361115-haunted-mines.json) |
 | Haunted Nightmares | 149446 | [149446-haunted-nightmares.json](./149446-haunted-nightmares.json) |
 | Haunted Nukem | 294530 | [294530-haunted-nukem.json](./294530-haunted-nukem.json) |
 | Haunted Obachestra Vol. 1 Awaking | 254617 | [254617-haunted-obachestra-vol-1-awaking.json](./254617-haunted-obachestra-vol-1-awaking.json) |
@@ -7462,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
 | Holo Dungeon | 180144 | [180144-holo-dungeon.json](./180144-holo-dungeon.json) |
 | Holo EN Rhythm Game | 179623 | [179623-holo-en-rhythm-game.json](./179623-holo-en-rhythm-game.json) |
+| Holo Hidden: My Lovely Fans Can't Be This Hidden | 361081 | [361081-holo-hidden-my-lovely-fans-cant-be-this-hidden.json](./361081-holo-hidden-my-lovely-fans-cant-be-this-hidden.json) |
 | Holo Impact : Prologue | 30769 | [30769-holo-impact-prologue.json](./30769-holo-impact-prologue.json) |
 | Holo no Suika | 314982 | [314982-holo-no-suika.json](./314982-holo-no-suika.json) |
 | Holo vs. Robo | 386362 | [386362-holo-vs-robo.json](./386362-holo-vs-robo.json) |
