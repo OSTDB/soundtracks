@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gecko Shuffle | 402846 | [402846-gecko-shuffle.json](./402846-gecko-shuffle.json) |
 | Geckorientalism | 370998 | [370998-geckorientalism.json](./370998-geckorientalism.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
+| Gecky The Deenosaur Stars In! Adventures In SunnyDoodle Swimmingland! | 367383 | [367383-gecky-the-deenosaur-stars-in-adventures-in-sunnydoodle-swimmingland.json](./367383-gecky-the-deenosaur-stars-in-adventures-in-sunnydoodle-swimmingland.json) |
 | Gector | 96220 | [96220-gector.json](./96220-gector.json) |
 | Gedaria: Fairytale Forest | 207781 | [207781-gedaria-fairytale-forest.json](./207781-gedaria-fairytale-forest.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
