@@ -4661,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Benny! | 48321 | [48321-go-benny.json](./48321-go-benny.json) |
 | Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
 | Go! Dizzy Go! | 24013 | [24013-go-dizzy-go.json](./24013-go-dizzy-go.json) |
+| Go! Fingers | 345157 | [345157-go-fingers.json](./345157-go-fingers.json) |
 | Go! Fish Go! | 125717 | [125717-go-fish-go.json](./125717-go-fish-go.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
@@ -7708,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grill it! Sanma | 370818 | [370818-grill-it-sanma.json](./370818-grill-it-sanma.json) |
 | Grill on Wheels | 272214 | [272214-grill-on-wheels.json](./272214-grill-on-wheels.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
+| Grill’d: The Vanishing | 344851 | [344851-grill-d-the-vanishing.json](./344851-grill-d-the-vanishing.json) |
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
 | Grilled | 149459 | [149459-grilled.json](./149459-grilled.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
@@ -8140,6 +8142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove In The Grove | 376712 | [376712-groove-in-the-grove.json](./376712-groove-in-the-grove.json) |
 | Groove on Fight | 39420 | [39420-groove-on-fight.json](./39420-groove-on-fight.json) |
 | Groove Planet | 58279 | [58279-groove-planet.json](./58279-groove-planet.json) |
+| Groove Racer | 344822 | [344822-groove-racer.json](./344822-groove-racer.json) |
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Groove that Goob | 285972 | [285972-groove-that-goob.json](./285972-groove-that-goob.json) |
 | Groovekeeper: Sort the Record Shop | 415165 | [415165-groovekeeper-sort-the-record-shop.json](./415165-groovekeeper-sort-the-record-shop.json) |
