@@ -6736,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Kingdom | 356670 | [356670-the-dark-kingdom.json](./356670-the-dark-kingdom.json) |
 | The Dark Knight Rises | 64769 | [64769-the-dark-knight-rises.json](./64769-the-dark-knight-rises.json) |
 | The Dark Knight Rises: The Mobile Game | 343944 | [343944-the-dark-knight-rises-the-mobile-game.json](./343944-the-dark-knight-rises-the-mobile-game.json) |
+| The Dark Legacy | 347079 | [347079-the-dark-legacy.json](./347079-the-dark-legacy.json) |
 | The Dark Legions | 32361 | [32361-the-dark-legions.json](./32361-the-dark-legions.json) |
 | The Dark Matter | 23920 | [23920-the-dark-matter.json](./23920-the-dark-matter.json) |
 | The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
@@ -10783,6 +10784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
 | The Legend of Zelda: Winter Solstice | 254478 | [254478-the-legend-of-zelda-winter-solstice.json](./254478-the-legend-of-zelda-winter-solstice.json) |
 | The Legend of Zelda: Z for 2 | 413804 | [413804-the-legend-of-zelda-z-for-2.json](./413804-the-legend-of-zelda-z-for-2.json) |
+| The Legend Returns | 347030 | [347030-the-legend-returns.json](./347030-the-legend-returns.json) |
 | The Legend: A University Story | 33797 | [33797-the-legend-a-university-story.json](./33797-the-legend-a-university-story.json) |
 | The Legendary Assassin KAL | 181785 | [181785-the-legendary-assassin-kal.json](./181785-the-legendary-assassin-kal.json) |
 | The Legendary Axe | 42121 | [42121-the-legendary-axe.json](./42121-the-legendary-axe.json) |
@@ -12712,6 +12714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prison | 236692 | [236692-the-prison.json](./236692-the-prison.json) |
 | The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
 | The Prisonbreak | 346373 | [346373-the-prisonbreak.json](./346373-the-prisonbreak.json) |
+| The Prisoner | 347059 | [347059-the-prisoner.json](./347059-the-prisoner.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
 | The Pro Mahjong: Menkyo Minnaten | 376643 | [376643-the-pro-mahjong-menkyo-minnaten.json](./376643-the-pro-mahjong-menkyo-minnaten.json) |
 | The Pro Wrestling | 385780 | [385780-the-pro-wrestling.json](./385780-the-pro-wrestling.json) |
@@ -13646,6 +13649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow | 42465 | [42465-the-shadow.json](./42465-the-shadow.json) |
 | The Shadow Archer: Famous Stickman Series | 105524 | [105524-the-shadow-archer-famous-stickman-series.json](./105524-the-shadow-archer-famous-stickman-series.json) |
 | The Shadow Architect | 390193 | [390193-the-shadow-architect.json](./390193-the-shadow-architect.json) |
+| The Shadow Beneath | 347052 | [347052-the-shadow-beneath.json](./347052-the-shadow-beneath.json) |
 | The Shadow Cat | 289965 | [289965-the-shadow-cat.json](./289965-the-shadow-cat.json) |
 | The Shadow Cosmos | 373142 | [373142-the-shadow-cosmos.json](./373142-the-shadow-cosmos.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
@@ -16164,6 +16168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Hardest Game 3D 2 | 195966 | [195966-the-worlds-hardest-game-3d-2.json](./195966-the-worlds-hardest-game-3d-2.json) |
 | The World's Hardest Game 3D Nostalgia | 412509 | [412509-the-worlds-hardest-game-3d-nostalgia.json](./412509-the-worlds-hardest-game-3d-nostalgia.json) |
 | The World's Hardest Game 3D Nostalgia 2 | 265504 | [265504-the-worlds-hardest-game-3d-nostalgia-2.json](./265504-the-worlds-hardest-game-3d-nostalgia-2.json) |
+| The World's Hardest Game 4 | 347025 | [347025-the-worlds-hardest-game-4.json](./347025-the-worlds-hardest-game-4.json) |
 | The World's Hardest Game HTML5 | 249632 | [249632-the-worlds-hardest-game-html5.json](./249632-the-worlds-hardest-game-html5.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The World's Legends: Kashchey the Immortal | 24772 | [24772-the-worlds-legends-kashchey-the-immortal.json](./24772-the-worlds-legends-kashchey-the-immortal.json) |
@@ -20981,6 +20986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Lander: The Exiled King | 387388 | [387388-tom-lander-the-exiled-king.json](./387388-tom-lander-the-exiled-king.json) |
 | Tom Landry Strategy Football | 71380 | [71380-tom-landry-strategy-football.json](./71380-tom-landry-strategy-football.json) |
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
+| Tom Loves Angela | 347068 | [347068-tom-loves-angela.json](./347068-tom-loves-angela.json) |
 | Tom Mason's Dinosaurs for Hire | 46252 | [46252-tom-masons-dinosaurs-for-hire.json](./46252-tom-masons-dinosaurs-for-hire.json) |
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
 | Tom the Tow Truck of Car City | 90796 | [90796-tom-the-tow-truck-of-car-city.json](./90796-tom-the-tow-truck-of-car-city.json) |
