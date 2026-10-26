@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electroquest: Resistance is Futile | 101310 | [101310-electroquest-resistance-is-futile.json](./101310-electroquest-resistance-is-futile.json) |
 | Elefunk | 21808 | [21808-elefunk.json](./21808-elefunk.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
+| Elegon | 384613 | [384613-elegon.json](./384613-elegon.json) |
 | Elegorithm | 415738 | [415738-elegorithm.json](./415738-elegorithm.json) |
 | Elegos | 197069 | [197069-elegos.json](./197069-elegos.json) |
 | Elegy for a Dead World | 16680 | [16680-elegy-for-a-dead-world.json](./16680-elegy-for-a-dead-world.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
 | Elvira's Horror Bundle | 186542 | [186542-elviras-horror-bundle.json](./186542-elviras-horror-bundle.json) |
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
+| Elya Richi vs Blackstone: Nuclear War | 384570 | [384570-elya-richi-vs-blackstone-nuclear-war.json](./384570-elya-richi-vs-blackstone-nuclear-war.json) |
 | Elyndor | 402563 | [402563-elyndor.json](./402563-elyndor.json) |
 | Elypse | 182076 | [182076-elypse.json](./182076-elypse.json) |
 | Elysian | 306799 | [306799-elysian.json](./306799-elysian.json) |
