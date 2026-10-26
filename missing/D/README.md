@@ -7005,6 +7005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
 | Diamond Stacks | 89624 | [89624-diamond-stacks.json](./89624-diamond-stacks.json) |
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
+| Diamond Thief | 371300 | [371300-diamond-thief.json](./371300-diamond-thief.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
 | Diamond Word | 325524 | [325524-diamond-word.json](./325524-diamond-word.json) |
 | DiamondFalls | 68578 | [68578-diamondfalls.json](./68578-diamondfalls.json) |
