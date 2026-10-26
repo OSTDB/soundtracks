@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yousei Shou Meikyuu: Fairies Odyssey | 406307 | [406307-yousei-shou-meikyuu-fairies-odyssey.json](./406307-yousei-shou-meikyuu-fairies-odyssey.json) |
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
 | YouTD 2 | 383589 | [383589-youtd-2.json](./383589-youtd-2.json) |
+| Youth Academy | 377031 | [377031-youth-academy.json](./377031-youth-academy.json) |
 | Youth Feather | 121705 | [121705-youth-feather.json](./121705-youth-feather.json) |
 | Youthink? | 102775 | [102775-youthink.json](./102775-youthink.json) |
 | Youtooz Presents: Five Nights at Freddy's | 265061 | [265061-youtooz-presents-five-nights-at-freddys.json](./265061-youtooz-presents-five-nights-at-freddys.json) |
