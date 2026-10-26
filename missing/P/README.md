@@ -4038,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Shop Snacks: Premium Edition | 225499 | [225499-pet-shop-snacks-premium-edition.json](./225499-pet-shop-snacks-premium-edition.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
 | Pet Show: Complete Edition | 357018 | [357018-pet-show-complete-edition.json](./357018-pet-show-complete-edition.json) |
+| Pet Show: Sea Edition | 366781 | [366781-pet-show-sea-edition.json](./366781-pet-show-sea-edition.json) |
 | Pet Show: Wild Edition | 362216 | [362216-pet-show-wild-edition.json](./362216-pet-show-wild-edition.json) |
 | Pet Shows | 9736 | [9736-pet-shows.json](./9736-pet-shows.json) |
 | Pet Simulator | 412223 | [412223-pet-simulator.json](./412223-pet-simulator.json) |
@@ -4149,8 +4150,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetRPG | 166472 | [166472-petrpg.json](./166472-petrpg.json) |
 | Pets | 314303 | [314303-pets.json](./314303-pets.json) |
 | Pets and Friends | 335355 | [335355-pets-and-friends.json](./335355-pets-and-friends.json) |
+| Pets and Friends Butterflies Bundle | 366792 | [366792-pets-and-friends-butterflies-bundle.json](./366792-pets-and-friends-butterflies-bundle.json) |
 | Pets and Friends Easter Bundle | 396924 | [396924-pets-and-friends-easter-bundle.json](./396924-pets-and-friends-easter-bundle.json) |
 | Pets and Friends Summer Vibes | 404270 | [404270-pets-and-friends-summer-vibes.json](./404270-pets-and-friends-summer-vibes.json) |
+| Pets and Friends: Butterflies Pack | 366797 | [366797-pets-and-friends-butterflies-pack.json](./366797-pets-and-friends-butterflies-pack.json) |
 | Pets and Friends: Christmas Pack | 378873 | [378873-pets-and-friends-christmas-pack.json](./378873-pets-and-friends-christmas-pack.json) |
 | Pets and Friends: Cuties Bundle | 400207 | [400207-pets-and-friends-cuties-bundle.json](./400207-pets-and-friends-cuties-bundle.json) |
 | Pets and Friends: Cuties Pack | 400208 | [400208-pets-and-friends-cuties-pack.json](./400208-pets-and-friends-cuties-pack.json) |
