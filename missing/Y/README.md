@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakouga 6 | 366022 | [366022-yakouga-6.json](./366022-yakouga-6.json) |
 | Yakouga 7 | 366023 | [366023-yakouga-7.json](./366023-yakouga-7.json) |
 | Yakouga 8 | 366026 | [366026-yakouga-8.json](./366026-yakouga-8.json) |
+| Yakouga 9 | 366206 | [366206-yakouga-9.json](./366206-yakouga-9.json) |
 | Yaksa | 386326 | [386326-yaksa.json](./386326-yaksa.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yaku: Yuujou Dangi | 124642 | [124642-yaku-yuujou-dangi.json](./124642-yaku-yuujou-dangi.json) |
