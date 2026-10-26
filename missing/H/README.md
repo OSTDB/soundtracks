@@ -9709,6 +9709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Defense | 22274 | [22274-human-defense.json](./22274-human-defense.json) |
 | Human Delusion | 128224 | [128224-human-delusion.json](./128224-human-delusion.json) |
 | Human Diaspora | 142253 | [142253-human-diaspora.json](./142253-human-diaspora.json) |
+| Human Electric Company | 347024 | [347024-human-electric-company.json](./347024-human-electric-company.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
 | Human Evolution Clicker Game: Rise of Mankind | 100889 | [100889-human-evolution-clicker-game-rise-of-mankind.json](./100889-human-evolution-clicker-game-rise-of-mankind.json) |
 | Human Extinction Simulator | 28588 | [28588-human-extinction-simulator.json](./28588-human-extinction-simulator.json) |
