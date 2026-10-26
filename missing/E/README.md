@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Face Jump! | 272206 | [272206-emoji-face-jump.json](./272206-emoji-face-jump.json) |
 | Emoji Janken RPG | 416017 | [416017-emoji-janken-rpg.json](./416017-emoji-janken-rpg.json) |
 | Emoji Match-3 Game | 103156 | [103156-emoji-match-3-game.json](./103156-emoji-match-3-game.json) |
+| Emoji Merge: Puzzle Matching | 369543 | [369543-emoji-merge-puzzle-matching.json](./369543-emoji-merge-puzzle-matching.json) |
 | Emoji Pop | 133659 | [133659-emoji-pop.json](./133659-emoji-pop.json) |
 | Emoji Puzzle | 305416 | [305416-emoji-puzzle.json](./305416-emoji-puzzle.json) |
 | Emoji Quest | 388908 | [388908-emoji-quest.json](./388908-emoji-quest.json) |
