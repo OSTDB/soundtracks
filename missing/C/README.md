@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops 6 - Season 3 | 362953 | [362953-call-of-duty-black-ops-6-season-3.json](./362953-call-of-duty-black-ops-6-season-3.json) |
 | Call of Duty: Black Ops 6 - Season 4 | 362955 | [362955-call-of-duty-black-ops-6-season-4.json](./362955-call-of-duty-black-ops-6-season-4.json) |
 | Call of Duty: Black Ops 6 - Season 5 | 362956 | [362956-call-of-duty-black-ops-6-season-5.json](./362956-call-of-duty-black-ops-6-season-5.json) |
+| Call of Duty: Black Ops 6 - Season 6 | 373569 | [373569-call-of-duty-black-ops-6-season-6.json](./373569-call-of-duty-black-ops-6-season-6.json) |
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season One | 141574 | [141574-call-of-duty-black-ops-cold-war-season-one.json](./141574-call-of-duty-black-ops-cold-war-season-one.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
@@ -4627,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon Twist 2 | 186001 | [186001-chameleon-twist-2.json](./186001-chameleon-twist-2.json) |
 | Chameleon: DYH | 203401 | [203401-chameleon-dyh.json](./203401-chameleon-dyh.json) |
 | Chameleon: DYH - Chapter 2 | 243613 | [243613-chameleon-dyh-chapter-2.json](./243613-chameleon-dyh-chapter-2.json) |
+| Chameleon: DYH - Season Finale | 373608 | [373608-chameleon-dyh-season-finale.json](./373608-chameleon-dyh-season-finale.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
 | Chameneon | 185921 | [185921-chameneon.json](./185921-chameneon.json) |
 | Champ Against Chumps | 108839 | [108839-champ-against-chumps.json](./108839-champ-against-chumps.json) |
@@ -8871,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck Avengers | 299407 | [299407-cluck-avengers.json](./299407-cluck-avengers.json) |
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
 | Cluck Frenzy | 278915 | [278915-cluck-frenzy.json](./278915-cluck-frenzy.json) |
+| Cluck to the Top! | 373594 | [373594-cluck-to-the-top.json](./373594-cluck-to-the-top.json) |
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
 | Clucking Dubbed to Feathers | 268872 | [268872-clucking-dubbed-to-feathers.json](./268872-clucking-dubbed-to-feathers.json) |
 | Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
@@ -10972,6 +10975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conductor | 28508 | [28508-conductor.json](./28508-conductor.json) |
 | Conductor & Abode | 52831 | [52831-conductor-and-abode.json](./52831-conductor-and-abode.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
+| Conductor: Eternal Service | 373582 | [373582-conductor-eternal-service.json](./373582-conductor-eternal-service.json) |
 | Conductus | 402437 | [402437-conductus.json](./402437-conductus.json) |
 | Conduits | 338883 | [338883-conduits.json](./338883-conduits.json) |
 | Cone Flyers Castaways | 389723 | [389723-cone-flyers-castaways.json](./389723-cone-flyers-castaways.json) |
@@ -12817,6 +12821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coven | 146649 | [146649-coven.json](./146649-coven.json) |
 | Coven Escape | 315596 | [315596-coven-escape.json](./315596-coven-escape.json) |
 | Coven Escape 2 | 315597 | [315597-coven-escape-2.json](./315597-coven-escape-2.json) |
+| Coven of Crones | 373590 | [373590-coven-of-crones.json](./373590-coven-of-crones.json) |
 | Coven of the Chicken Foot | 381218 | [381218-coven-of-the-chicken-foot.json](./381218-coven-of-the-chicken-foot.json) |
 | Coven: All Powerful | 351562 | [351562-coven-all-powerful.json](./351562-coven-all-powerful.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
