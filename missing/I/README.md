@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
 | IDET | 324299 | [324299-idet.json](./324299-idet.json) |
 | IDF-ASD | 195775 | [195775-idf-asd.json](./195775-idf-asd.json) |
+| iDigging | 333489 | [333489-idigging.json](./333489-idigging.json) |
 | Idili | 318972 | [318972-idili.json](./318972-idili.json) |
 | Idinaloq | 237300 | [237300-idinaloq.json](./237300-idinaloq.json) |
 | Idioctopus | 30072 | [30072-idioctopus.json](./30072-idioctopus.json) |
