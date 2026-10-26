@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Fe Mysteries: The Elk Moon Murder | 13783 | [13783-santa-fe-mysteries-the-elk-moon-murder.json](./13783-santa-fe-mysteries-the-elk-moon-murder.json) |
 | Santa Gift Master | 293312 | [293312-santa-gift-master.json](./293312-santa-gift-master.json) |
 | Santa Girl | 384587 | [384587-santa-girl.json](./384587-santa-girl.json) |
+| Santa Holiday Puzzle | 379395 | [379395-santa-holiday-puzzle.json](./379395-santa-holiday-puzzle.json) |
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
 | Santa Monica Paradise | 134482 | [134482-santa-monica-paradise.json](./134482-santa-monica-paradise.json) |
@@ -5124,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: Vampire Express Train | 224966 | [224966-sex-adventures-vampire-express-train.json](./224966-sex-adventures-vampire-express-train.json) |
 | Sex Advice Succubus | 239526 | [239526-sex-advice-succubus.json](./239526-sex-advice-succubus.json) |
 | Sex Airlines | 311576 | [311576-sex-airlines.json](./311576-sex-airlines.json) |
+| Sex and Morning | 379330 | [379330-sex-and-morning.json](./379330-sex-and-morning.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
 | Sex Any Cost but Free | 369144 | [369144-sex-any-cost-but-free.json](./369144-sex-any-cost-but-free.json) |
@@ -8156,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Bunnies | 95834 | [95834-shy-bunnies.json](./95834-shy-bunnies.json) |
 | Shy Cats + Shy Dogs | 332039 | [332039-shy-cats-shy-dogs.json](./332039-shy-cats-shy-dogs.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
+| Shy Cats Hidden Tracks Collection | 379416 | [379416-shy-cats-hidden-tracks-collection.json](./379416-shy-cats-hidden-tracks-collection.json) |
 | Shy Cats Hidden Tracks: Paris | 291329 | [291329-shy-cats-hidden-tracks-paris.json](./291329-shy-cats-hidden-tracks-paris.json) |
 | Shy Cats Hidden Tracks: Vol. 1 | 332038 | [332038-shy-cats-hidden-tracks-vol-1.json](./332038-shy-cats-hidden-tracks-vol-1.json) |
 | Shy Cats Hidden Tracks: Vol. 2 | 349828 | [349828-shy-cats-hidden-tracks-vol-2.json](./349828-shy-cats-hidden-tracks-vol-2.json) |
@@ -16052,6 +16055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Force | 346136 | [346136-space-force.json](./346136-space-force.json) |
 | Space Force | 346137 | [346137-space-force.json](./346137-space-force.json) |
+| Space Force Bargain Bin | 379412 | [379412-space-force-bargain-bin.json](./379412-space-force-bargain-bin.json) |
 | Space Force Squadron | 155860 | [155860-space-force-squadron.json](./155860-space-force-squadron.json) |
 | Space Force: Rogue Universe | 10259 | [10259-space-force-rogue-universe.json](./10259-space-force-rogue-universe.json) |
 | Space Fox Kimi | 107843 | [107843-space-fox-kimi.json](./107843-space-fox-kimi.json) |
