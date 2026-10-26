@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5496,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath Europa | 375874 | [375874-beneath-europa.json](./375874-beneath-europa.json) |
 | Beneath Floes | 58701 | [58701-beneath-floes.json](./58701-beneath-floes.json) |
 | Beneath Folly | 229214 | [229214-beneath-folly.json](./229214-beneath-folly.json) |
+| Beneath Her Gaze | 335207 | [335207-beneath-her-gaze.json](./335207-beneath-her-gaze.json) |
 | Beneath Oresa | 182191 | [182191-beneath-oresa.json](./182191-beneath-oresa.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
@@ -7824,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Souls II | 361391 | [361391-black-souls-ii.json](./361391-black-souls-ii.json) |
 | Black Spire | 380005 | [380005-black-spire.json](./380005-black-spire.json) |
 | Black Spot | 193880 | [193880-black-spot.json](./193880-black-spot.json) |
+| Black Square | 335204 | [335204-black-square.json](./335204-black-square.json) |
 | Black Stallion Cabaret | 208575 | [208575-black-stallion-cabaret.json](./208575-black-stallion-cabaret.json) |
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
 | Black State | 308029 | [308029-black-state.json](./308029-black-state.json) |
@@ -13262,6 +13265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
 | Brigandine: The Legend of Runersia - Collector's Edition | 146144 | [146144-brigandine-the-legend-of-runersia-collectors-edition.json](./146144-brigandine-the-legend-of-runersia-collectors-edition.json) |
 | Brigandine: The Legend of Runersia - Limited Edition | 136950 | [136950-brigandine-the-legend-of-runersia-limited-edition.json](./136950-brigandine-the-legend-of-runersia-limited-edition.json) |
+| Brigands | 335213 | [335213-brigands.json](./335213-brigands.json) |
 | Brigands | 363687 | [363687-brigands.json](./363687-brigands.json) |
 | Brigands and Barbarians | 223637 | [223637-brigands-and-barbarians.json](./223637-brigands-and-barbarians.json) |
 | Briganty: The Roots of Darkness | 73820 | [73820-briganty-the-roots-of-darkness.json](./73820-briganty-the-roots-of-darkness.json) |
