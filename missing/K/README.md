@@ -3045,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsblood | 216706 | [216706-kingsblood.json](./216706-kingsblood.json) |
 | Kingsborn | 126279 | [126279-kingsborn.json](./126279-kingsborn.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
+| Kingshot | 337547 | [337547-kingshot.json](./337547-kingshot.json) |
 | Kingshunt | 114738 | [114738-kingshunt.json](./114738-kingshunt.json) |
 | KingSim | 126948 | [126948-kingsim.json](./126948-kingsim.json) |
 | Kingsland Online | 137551 | [137551-kingsland-online.json](./137551-kingsland-online.json) |
