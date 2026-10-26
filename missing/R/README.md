@@ -3444,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red: Pride of Eden | 193951 | [193951-red-pride-of-eden.json](./193951-red-pride-of-eden.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
+| Redact | 353761 | [353761-redact.json](./353761-redact.json) |
 | Redacted | 212214 | [212214-redacted.json](./212214-redacted.json) |
 | Redacted | 373855 | [373855-redacted.json](./373855-redacted.json) |
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
@@ -4041,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Hunters Zero | 12301 | [12301-relic-hunters-zero.json](./12301-relic-hunters-zero.json) |
 | Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
 | Relic Keepers | 55618 | [55618-relic-keepers.json](./55618-relic-keepers.json) |
+| Relic Light | 353753 | [353753-relic-light.json](./353753-relic-light.json) |
 | Relic Odyssey: Ruins Of Xantao | 259176 | [259176-relic-odyssey-ruins-of-xantao.json](./259176-relic-odyssey-ruins-of-xantao.json) |
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
 | Relic Runway | 181312 | [181312-relic-runway.json](./181312-relic-runway.json) |
@@ -4652,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
 | Resident Evil 4: Wii Edition | 21533 | [21533-resident-evil-4-wii-edition.json](./21533-resident-evil-4-wii-edition.json) |
+| Resident Evil 4: Winter of Middle Night | 353926 | [353926-resident-evil-4-winter-of-middle-night.json](./353926-resident-evil-4-winter-of-middle-night.json) |
 | Resident Evil 4: Zeebo Edition | 227780 | [227780-resident-evil-4-zeebo-edition.json](./227780-resident-evil-4-zeebo-edition.json) |
 | Resident Evil 5 Remastered | 23215 | [23215-resident-evil-5-remastered.json](./23215-resident-evil-5-remastered.json) |
 | Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
@@ -10963,6 +10966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryudragon | 296188 | [296188-ryudragon.json](./296188-ryudragon.json) |
 | Ryuki Densyo: Dragoon | 60064 | [60064-ryuki-densyo-dragoon.json](./60064-ryuki-densyo-dragoon.json) |
 | Ryuko: Legend of Shadow Hunter | 174778 | [174778-ryuko-legend-of-shadow-hunter.json](./174778-ryuko-legend-of-shadow-hunter.json) |
+| Ryuthela | 353928 | [353928-ryuthela.json](./353928-ryuthela.json) |
 | Ryuu ga Gotoku Ishin! | 12736 | [12736-ryuu-ga-gotoku-ishin.json](./12736-ryuu-ga-gotoku-ishin.json) |
 | Ryuu ga Gotoku Ishin! Muryou App | 317101 | [317101-ryuu-ga-gotoku-ishin-muryou-app.json](./317101-ryuu-ga-gotoku-ishin-muryou-app.json) |
 | Ryuu ga Gotoku Kenzan! | 7442 | [7442-ryuu-ga-gotoku-kenzan.json](./7442-ryuu-ga-gotoku-kenzan.json) |
