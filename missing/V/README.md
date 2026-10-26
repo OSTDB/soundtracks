@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexation: Hand Crafted Hell | 235048 | [235048-vexation-hand-crafted-hell.json](./235048-vexation-hand-crafted-hell.json) |
 | Vexbound | 420783 | [420783-vexbound.json](./420783-vexbound.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
+| Vexcell | 357715 | [357715-vexcell.json](./357715-vexcell.json) |
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
 | Vexlands | 249036 | [249036-vexlands.json](./249036-vexlands.json) |
