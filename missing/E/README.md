@@ -3539,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entity Onboard | 339754 | [339754-entity-onboard.json](./339754-entity-onboard.json) |
 | Entity Research Group | 388947 | [388947-entity-research-group.json](./388947-entity-research-group.json) |
 | Entity Researchers | 159260 | [159260-entity-researchers.json](./159260-entity-researchers.json) |
+| Entity Scavenger | 354934 | [354934-entity-scavenger.json](./354934-entity-scavenger.json) |
 | Entity Strike | 343303 | [343303-entity-strike.json](./343303-entity-strike.json) |
 | Entity: A Horror Escape | 105790 | [105790-entity-a-horror-escape.json](./105790-entity-a-horror-escape.json) |
 | Entity: The Black Day | 260168 | [260168-entity-the-black-day.json](./260168-entity-the-black-day.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espgaluda II | 6989 | [6989-espgaluda-ii.json](./6989-espgaluda-ii.json) |
 | Espgaluda II: Black Label | 80457 | [80457-espgaluda-ii-black-label.json](./80457-espgaluda-ii-black-label.json) |
 | Espial | 23932 | [23932-espial.json](./23932-espial.json) |
+| Espina | 355592 | [355592-espina.json](./355592-espina.json) |
 | Espiocracy | 153913 | [153913-espiocracy.json](./153913-espiocracy.json) |
 | Espionage | 13646 | [13646-espionage.json](./13646-espionage.json) |
 | Espionage | 285027 | [285027-espionage.json](./285027-espionage.json) |
