@@ -3385,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheely 4: Time Travel | 102004 | [102004-wheely-4-time-travel.json](./102004-wheely-4-time-travel.json) |
 | Wheelz2 | 90115 | [90115-wheelz2.json](./90115-wheelz2.json) |
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
+| Whemy the Witch | 349778 | [349778-whemy-the-witch.json](./349778-whemy-the-witch.json) |
 | When a Man Lose His Job | 147874 | [147874-when-a-man-lose-his-job.json](./147874-when-a-man-lose-his-job.json) |
 | When A Mimosa Blooms | 98021 | [98021-when-a-mimosa-blooms.json](./98021-when-a-mimosa-blooms.json) |
 | When Aster Falls | 177899 | [177899-when-aster-falls.json](./177899-when-aster-falls.json) |
@@ -5352,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Machine: Spilled Vessel | 398025 | [398025-witch-machine-spilled-vessel.json](./398025-witch-machine-spilled-vessel.json) |
 | Witch Maker | 334321 | [334321-witch-maker.json](./334321-witch-maker.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
+| Witch of Eclipse | 349735 | [349735-witch-of-eclipse.json](./349735-witch-of-eclipse.json) |
 | Witch of Ice Kingdom Collection | 52134 | [52134-witch-of-ice-kingdom-collection.json](./52134-witch-of-ice-kingdom-collection.json) |
 | Witch of Ice Kingdom II | 30034 | [30034-witch-of-ice-kingdom-ii.json](./30034-witch-of-ice-kingdom-ii.json) |
 | Witch of Oblivion | 304999 | [304999-witch-of-oblivion.json](./304999-witch-of-oblivion.json) |
@@ -5967,6 +5969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
 | Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
 | Women's Soccer Manager | 102899 | [102899-womens-soccer-manager.json](./102899-womens-soccer-manager.json) |
+| Womp The Abyssal | 349771 | [349771-womp-the-abyssal.json](./349771-womp-the-abyssal.json) |
 | Won't You Be My Laser? | 31899 | [31899-wont-you-be-my-laser.json](./31899-wont-you-be-my-laser.json) |
 | Won't you come knocking | 183357 | [183357-wont-you-come-knocking.json](./183357-wont-you-come-knocking.json) |
 | Wondee | 30722 | [30722-wondee.json](./30722-wondee.json) |
@@ -7190,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
 | World War V: Last Call | 370839 | [370839-world-war-v-last-call.json](./370839-world-war-v-last-call.json) |
 | World War Z | 115272 | [115272-world-war-z.json](./115272-world-war-z.json) |
+| World War Z VR | 349761 | [349761-world-war-z-vr.json](./349761-world-war-z-vr.json) |
 | World War Z: Aftermath | 152123 | [152123-world-war-z-aftermath.json](./152123-world-war-z-aftermath.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
@@ -7816,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuxia: Founding Schools | 292165 | [292165-wuxia-founding-schools.json](./292165-wuxia-founding-schools.json) |
 | Wuxian | 236406 | [236406-wuxian.json](./236406-wuxian.json) |
 | Wuxing Master(CCG) | 81064 | [81064-wuxing-master-ccg.json](./81064-wuxing-master-ccg.json) |
+| Wuzzy The Buzzy | 349775 | [349775-wuzzy-the-buzzy.json](./349775-wuzzy-the-buzzy.json) |
 | WW Fantasy | 98773 | [98773-ww-fantasy.json](./98773-ww-fantasy.json) |
 | WW Furnishing | 353815 | [353815-ww-furnishing.json](./353815-ww-furnishing.json) |
 | WW1 Game Series Bundle | 218465 | [218465-ww1-game-series-bundle.json](./218465-ww1-game-series-bundle.json) |
