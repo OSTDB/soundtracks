@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala 2 | 325884 | [325884-hajwala-2.json](./325884-hajwala-2.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Drift X | 374677 | [374677-hajwala-drift-x.json](./374677-hajwala-drift-x.json) |
+| Hajwala Dubai | 378759 | [378759-hajwala-dubai.json](./378759-hajwala-dubai.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hajwala Qatar | 370432 | [370432-hajwala-qatar.json](./370432-hajwala-qatar.json) |
 | Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Trouble 8 | 420780 | [420780-halloween-trouble-8.json](./420780-halloween-trouble-8.json) |
 | Halloween Waifu | 378573 | [378573-halloween-waifu.json](./378573-halloween-waifu.json) |
 | Halloween with Veronica | 286397 | [286397-halloween-with-veronica.json](./286397-halloween-with-veronica.json) |
+| Halloween: DinoBoo & The Valley of Shadows | 378822 | [378822-halloween-dinoboo-and-the-valley-of-shadows.json](./378822-halloween-dinoboo-and-the-valley-of-shadows.json) |
 | Halloween: Global Candy Cup 2015 | 275629 | [275629-halloween-global-candy-cup-2015.json](./275629-halloween-global-candy-cup-2015.json) |
 | Halloween: Jigsaw Puzzles | 72494 | [72494-halloween-jigsaw-puzzles.json](./72494-halloween-jigsaw-puzzles.json) |
 | Halloween: October 31st | 176786 | [176786-halloween-october-31st.json](./176786-halloween-october-31st.json) |
@@ -1120,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handyman Corporation | 190392 | [190392-handyman-corporation.json](./190392-handyman-corporation.json) |
 | Handyman Fantasy | 368078 | [368078-handyman-fantasy.json](./368078-handyman-fantasy.json) |
 | Handyman Legend | 220032 | [220032-handyman-legend.json](./220032-handyman-legend.json) |
+| Handyman: House Repair and Flip | 378758 | [378758-handyman-house-repair-and-flip.json](./378758-handyman-house-repair-and-flip.json) |
 | Haneda Girl | 222901 | [222901-haneda-girl.json](./222901-haneda-girl.json) |
 | HaneHolo! | 372619 | [372619-haneholo.json](./372619-haneholo.json) |
 | Haneru no Tobira Wii: Kirigirisu | 266282 | [266282-haneru-no-tobira-wii-kirigirisu.json](./266282-haneru-no-tobira-wii-kirigirisu.json) |
@@ -4360,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
 | Hentai Pool | 241386 | [241386-hentai-pool.json](./241386-hentai-pool.json) |
+| Hentai Portrait | 378849 | [378849-hentai-portrait.json](./378849-hentai-portrait.json) |
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
 | Hentai Pussy 2 | 286413 | [286413-hentai-pussy-2.json](./286413-hentai-pussy-2.json) |
@@ -4459,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Step Milf | 340452 | [340452-hentai-step-milf.json](./340452-hentai-step-milf.json) |
 | Hentai Stewardese Girls | 332494 | [332494-hentai-stewardese-girls.json](./332494-hentai-stewardese-girls.json) |
 | Hentai Store | 370274 | [370274-hentai-store.json](./370274-hentai-store.json) |
+| Hentai Store Simulator | 378757 | [378757-hentai-store-simulator.json](./378757-hentai-store-simulator.json) |
 | Hentai Stories | 274687 | [274687-hentai-stories.json](./274687-hentai-stories.json) |
 | Hentai Strip Shot | 109389 | [109389-hentai-strip-shot.json](./109389-hentai-strip-shot.json) |
 | Hentai Succubus | 379654 | [379654-hentai-succubus.json](./379654-hentai-succubus.json) |
@@ -4507,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
 | Hentai Violet | 301671 | [301671-hentai-violet.json](./301671-hentai-violet.json) |
+| Hentai Vision | 378850 | [378850-hentai-vision.json](./378850-hentai-vision.json) |
 | Hentai Vivian | 265767 | [265767-hentai-vivian.json](./265767-hentai-vivian.json) |
 | Hentai VR 18+ | 366524 | [366524-hentai-vr-18.json](./366524-hentai-vr-18.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
@@ -10406,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
 | Hypercade | 126273 | [126273-hypercade.json](./126273-hypercade.json) |
 | Hypercar Evolution 2025 | 385977 | [385977-hypercar-evolution-2025.json](./385977-hypercar-evolution-2025.json) |
+| Hypercar Racing | 378762 | [378762-hypercar-racing.json](./378762-hypercar-racing.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
 | Hypercharge: Unboxed - Complete Edition | 227408 | [227408-hypercharge-unboxed-complete-edition.json](./227408-hypercharge-unboxed-complete-edition.json) |
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
