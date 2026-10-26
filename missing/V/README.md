@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valefor II | 403765 | [403765-valefor-ii.json](./403765-valefor-ii.json) |
 | ValeGuard | 97901 | [97901-valeguard.json](./97901-valeguard.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
+| Valencia Surehunter: Staff of the Irismancer | 360544 | [360544-valencia-surehunter-staff-of-the-irismancer.json](./360544-valencia-surehunter-staff-of-the-irismancer.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
 | Valens | 33537 | [33537-valens.json](./33537-valens.json) |
 | Valentina | 147092 | [147092-valentina.json](./147092-valentina.json) |
@@ -3564,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VVVVK: Rogue Vampire Hunter | 209017 | [209017-vvvvk-rogue-vampire-hunter.json](./209017-vvvvk-rogue-vampire-hunter.json) |
 | VVVVV | 128234 | [128234-vvvvv.json](./128234-vvvvv.json) |
 | VVVVVV | 1990 | [1990-vvvvvv.json](./1990-vvvvvv.json) |
+| VVVVVV: The Depths | 360473 | [360473-vvvvvv-the-depths.json](./360473-vvvvvv-the-depths.json) |
 | VWisher | 382168 | [382168-vwisher.json](./382168-vwisher.json) |
 | Vwls: A Game About Vowels! | 233541 | [233541-vwls-a-game-about-vowels.json](./233541-vwls-a-game-about-vowels.json) |
 | VxVigilantes | 141022 | [141022-vxvigilantes.json](./141022-vxvigilantes.json) |
