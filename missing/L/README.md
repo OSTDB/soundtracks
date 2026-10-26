@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Johnny | 366351 | [366351-legend-of-johnny.json](./366351-legend-of-johnny.json) |
 | Legend of Junior | 112521 | [112521-legend-of-junior.json](./112521-legend-of-junior.json) |
 | Legend of K-1 Grand Prix '96 | 66886 | [66886-legend-of-k-1-grand-prix-96.json](./66886-legend-of-k-1-grand-prix-96.json) |
+| Legend of Kaito: Destiny Journey | 378818 | [378818-legend-of-kaito-destiny-journey.json](./378818-legend-of-kaito-destiny-journey.json) |
 | Legend of Kay | 194236 | [194236-legend-of-kay.json](./194236-legend-of-kay.json) |
 | Legend of Kay | 3219 | [3219-legend-of-kay.json](./3219-legend-of-kay.json) |
 | Legend of Kay Anniversary | 19962 | [19962-legend-of-kay-anniversary.json](./19962-legend-of-kay-anniversary.json) |
