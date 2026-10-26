@@ -1808,8 +1808,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Gakuen Q: Kyuukyoku no Trick ni Idome! | 49824 | [49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json](./49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json) |
 | Tantei Gakuen Q: Meitantei Hakimida! | 49853 | [49853-tantei-gakuen-q-meitantei-hakimida.json](./49853-tantei-gakuen-q-meitantei-hakimida.json) |
 | Tantei ha Tsuki wo Miru | 343979 | [343979-tantei-ha-tsuki-wo-miru.json](./343979-tantei-ha-tsuki-wo-miru.json) |
+| Tantei Jinguji Saburo DS: Akai Chou | 347620 | [347620-tantei-jinguji-saburo-ds-akai-chou.json](./347620-tantei-jinguji-saburo-ds-akai-chou.json) |
 | Tantei Jinguji Saburo DS: Akai Chou | 78906 | [78906-tantei-jinguji-saburo-ds-akai-chou.json](./78906-tantei-jinguji-saburo-ds-akai-chou.json) |
+| Tantei Jinguji Saburo DS: Fuserareta Shinjitsu | 347622 | [347622-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json](./347622-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json) |
 | Tantei Jinguji Saburo DS: Fuserareta Shinjitsu | 67883 | [67883-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json](./67883-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json) |
+| Tantei Jinguji Saburo DS: Kienai Kokoro | 347621 | [347621-tantei-jinguji-saburo-ds-kienai-kokoro.json](./347621-tantei-jinguji-saburo-ds-kienai-kokoro.json) |
 | Tantei Jinguji Saburo DS: Kienai Kokoro | 78907 | [78907-tantei-jinguji-saburo-ds-kienai-kokoro.json](./78907-tantei-jinguji-saburo-ds-kienai-kokoro.json) |
 | Tantei Jinguji Saburo Early Collection | 78264 | [78264-tantei-jinguji-saburo-early-collection.json](./78264-tantei-jinguji-saburo-early-collection.json) |
 | Tantei Jinguji Saburo Oldies | 347278 | [347278-tantei-jinguji-saburo-oldies.json](./347278-tantei-jinguji-saburo-oldies.json) |
@@ -1837,29 +1840,40 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo Series No. 23: Wasurenagusa no Omoi | 347274 | [347274-tantei-jinguji-saburo-series-no-23-wasurenagusa-no-omoi.json](./347274-tantei-jinguji-saburo-series-no-23-wasurenagusa-no-omoi.json) |
 | Tantei Jinguji Saburo Series No. 24: Yurameku Hitotose | 347275 | [347275-tantei-jinguji-saburo-series-no-24-yurameku-hitotose.json](./347275-tantei-jinguji-saburo-series-no-24-yurameku-hitotose.json) |
 | Tantei Jinguji Saburo Series No. 25: Giwaku no Ace | 347276 | [347276-tantei-jinguji-saburo-series-no-25-giwaku-no-ace.json](./347276-tantei-jinguji-saburo-series-no-25-giwaku-no-ace.json) |
+| Tantei Jinguji Saburo: 6-mai no Hankou | 347623 | [347623-tantei-jinguji-saburo-6-mai-no-hankou.json](./347623-tantei-jinguji-saburo-6-mai-no-hankou.json) |
+| Tantei Jinguji Saburo: Akenai Yoru ni | 347612 | [347612-tantei-jinguji-saburo-akenai-yoru-ni.json](./347612-tantei-jinguji-saburo-akenai-yoru-ni.json) |
 | Tantei Jinguji Saburo: Akenai Yoru ni | 347641 | [347641-tantei-jinguji-saburo-akenai-yoru-ni.json](./347641-tantei-jinguji-saburo-akenai-yoru-ni.json) |
 | Tantei Jinguji Saburo: Akenai Yoru ni & Nazono-Jikenbo | 347292 | [347292-tantei-jinguji-saburo-akenai-yoru-ni-and-nazono-jikenbo.json](./347292-tantei-jinguji-saburo-akenai-yoru-ni-and-nazono-jikenbo.json) |
+| Tantei Jinguji Saburo: Aoi Me no Ryuu | 347625 | [347625-tantei-jinguji-saburo-aoi-me-no-ryuu.json](./347625-tantei-jinguji-saburo-aoi-me-no-ryuu.json) |
+| Tantei Jinguji Saburo: Bouen wo Sagase! | 347624 | [347624-tantei-jinguji-saburo-bouen-wo-sagase.json](./347624-tantei-jinguji-saburo-bouen-wo-sagase.json) |
 | Tantei Jinguji Saburo: Episode Code - Ashes and Diamonds | 67884 | [67884-tantei-jinguji-saburo-episode-code-ashes-and-diamonds.json](./67884-tantei-jinguji-saburo-episode-code-ashes-and-diamonds.json) |
 | Tantei Jinguji Saburo: Fukushuu no Rinbu | 65320 | [65320-tantei-jinguji-saburo-fukushuu-no-rinbu.json](./65320-tantei-jinguji-saburo-fukushuu-no-rinbu.json) |
 | Tantei Jinguji Saburo: Fukushuu no Rondo | 151624 | [151624-tantei-jinguji-saburo-fukushuu-no-rondo.json](./151624-tantei-jinguji-saburo-fukushuu-no-rondo.json) |
 | Tantei Jinguji Saburo: Futa-iro no Shoujo | 347629 | [347629-tantei-jinguji-saburo-futa-iro-no-shoujo.json](./347629-tantei-jinguji-saburo-futa-iro-no-shoujo.json) |
 | Tantei Jinguji Saburo: Inochi Tatsu Kokugen | 347630 | [347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json](./347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json) |
+| Tantei Jinguji Saburo: Inu to Yobareta Otoko | 347628 | [347628-tantei-jinguji-saburo-inu-to-yobareta-otoko.json](./347628-tantei-jinguji-saburo-inu-to-yobareta-otoko.json) |
+| Tantei Jinguji Saburo: Kadan no Itte | 347615 | [347615-tantei-jinguji-saburo-kadan-no-itte.json](./347615-tantei-jinguji-saburo-kadan-no-itte.json) |
 | Tantei Jinguji Saburo: Kadan no Itte & Nazono-Jikenbo | 67367 | [67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json](./67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zengohen | 171534 | [171534-tantei-jinguji-saburo-kiken-na-futari-zengohen.json](./171534-tantei-jinguji-saburo-kiken-na-futari-zengohen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
 | Tantei Jinguji Saburo: Mikan no Report | 78561 | [78561-tantei-jinguji-saburo-mikan-no-report.json](./78561-tantei-jinguji-saburo-mikan-no-report.json) |
+| Tantei Jinguji Saburo: Naki Ko no Shouzou | 347611 | [347611-tantei-jinguji-saburo-naki-ko-no-shouzou.json](./347611-tantei-jinguji-saburo-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou | 347642 | [347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json](./347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou & Nazono-Jikenbo | 347295 | [347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json](./347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Prism of Eyes - Toki no Sugiyuku Mama ni | 347484 | [347484-tantei-jinguji-saburo-prism-of-eyes-toki-no-sugiyuku-mama-ni.json](./347484-tantei-jinguji-saburo-prism-of-eyes-toki-no-sugiyuku-mama-ni.json) |
+| Tantei Jinguji Saburo: Quito no Yoru | 347626 | [347626-tantei-jinguji-saburo-quito-no-yoru.json](./347626-tantei-jinguji-saburo-quito-no-yoru.json) |
 | Tantei Jinguji Saburo: Quito no Yoru | 347634 | [347634-tantei-jinguji-saburo-quito-no-yoru.json](./347634-tantei-jinguji-saburo-quito-no-yoru.json) |
+| Tantei Jinguji Saburo: Rensa Suru Noroi | 347610 | [347610-tantei-jinguji-saburo-rensa-suru-noroi.json](./347610-tantei-jinguji-saburo-rensa-suru-noroi.json) |
 | Tantei Jinguji Saburo: Rensa Suru Noroi & Nazono-Jikenbo | 347328 | [347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json](./347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json) |
+| Tantei Jinguji Saburo: Shikaku no Wana | 347627 | [347627-tantei-jinguji-saburo-shikaku-no-wana.json](./347627-tantei-jinguji-saburo-shikaku-no-wana.json) |
 | Tantei Jinguji Saburo: Shingi no Hazama | 347632 | [347632-tantei-jinguji-saburo-shingi-no-hazama.json](./347632-tantei-jinguji-saburo-shingi-no-hazama.json) |
 | Tantei Jinguji Saburo: Shinjuku Chuuou Kouen Satsujin Jiken | 41412 | [41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json](./41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json) |
 | Tantei Jinguji Saburo: Shiroi Kage no Shoujo | 49852 | [49852-tantei-jinguji-saburo-shiroi-kage-no-shoujo.json](./49852-tantei-jinguji-saburo-shiroi-kage-no-shoujo.json) |
 | Tantei Jinguji Saburo: Takusareta Yubiwa | 347631 | [347631-tantei-jinguji-saburo-takusareta-yubiwa.json](./347631-tantei-jinguji-saburo-takusareta-yubiwa.json) |
 | Tantei Jinguji Saburo: Toki no Sugiyuku Mama ni | 48883 | [48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json](./48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json) |
 | Tantei Jinguji Saburo: Tomoshibi ga Kienu Ma ni | 78265 | [78265-tantei-jinguji-saburo-tomoshibi-ga-kienu-ma-ni.json](./78265-tantei-jinguji-saburo-tomoshibi-ga-kienu-ma-ni.json) |
+| Tantei Jinguji Saburo: Tsubaki no Yukue | 347614 | [347614-tantei-jinguji-saburo-tsubaki-no-yukue.json](./347614-tantei-jinguji-saburo-tsubaki-no-yukue.json) |
 | Tantei Jinguji Saburo: Tsubaki no Yukue & Nazono-Jikenbo | 347299 | [347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json](./347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Yokohama-ko Renzoku Satsujin Jiken | 80147 | [80147-tantei-jinguji-saburo-yokohama-ko-renzoku-satsujin-jiken.json](./80147-tantei-jinguji-saburo-yokohama-ko-renzoku-satsujin-jiken.json) |
 | Tantei Kibukawa Ryosuke Jiken Tan: The Masquerade Lullaby | 124070 | [124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json](./124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json) |
@@ -25226,6 +25240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma Center: New Blood | 1525 | [1525-trauma-center-new-blood.json](./1525-trauma-center-new-blood.json) |
 | Trauma Pets | 409415 | [409415-trauma-pets.json](./409415-trauma-pets.json) |
 | Trauma Playground | 422143 | [422143-trauma-playground.json](./422143-trauma-playground.json) |
+| Trauma Record | 347577 | [347577-trauma-record.json](./347577-trauma-record.json) |
 | Trauma Simulator | 125728 | [125728-trauma-simulator.json](./125728-trauma-simulator.json) |
 | Trauma Squad | 253818 | [253818-trauma-squad.json](./253818-trauma-squad.json) |
 | Trauma: Broken Paradise | 238494 | [238494-trauma-broken-paradise.json](./238494-trauma-broken-paradise.json) |
