@@ -2174,6 +2174,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Spirit Pledge | 125935 | [125935-date-a-live-spirit-pledge.json](./125935-date-a-live-spirit-pledge.json) |
 | Date Banger | 326191 | [326191-date-banger.json](./326191-date-banger.json) |
 | Date de Blackjack | 401060 | [401060-date-de-blackjack.json](./401060-date-de-blackjack.json) |
+| Date Everything!: Lavish DLC | 345712 | [345712-date-everything-lavish-dlc.json](./345712-date-everything-lavish-dlc.json) |
+| Date Everything!: Lavish Edition | 345713 | [345713-date-everything-lavish-edition.json](./345713-date-everything-lavish-edition.json) |
 | Date Kimiko no Virtual Tennis | 42435 | [42435-date-kimiko-no-virtual-tennis.json](./42435-date-kimiko-no-virtual-tennis.json) |
 | Date ni Game Tsui Wake Jane! Dungeon Maker Girls Type | 214552 | [214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json](./214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json) |
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
@@ -3075,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead On Arrival | 249086 | [249086-dead-on-arrival.json](./249086-dead-on-arrival.json) |
 | Dead On Arrival | 380246 | [380246-dead-on-arrival.json](./380246-dead-on-arrival.json) |
 | Dead on Time | 13574 | [13574-dead-on-time.json](./13574-dead-on-time.json) |
+| Dead on Your Lawn | 345394 | [345394-dead-on-your-lawn.json](./345394-dead-on-your-lawn.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
 | Dead or Alive | 210621 | [210621-dead-or-alive.json](./210621-dead-or-alive.json) |
 | Dead or Alive | 317067 | [317067-dead-or-alive.json](./317067-dead-or-alive.json) |
@@ -3767,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
 | Death In Your Dice | 334740 | [334740-death-in-your-dice.json](./334740-death-in-your-dice.json) |
+| Death Infection | 345377 | [345377-death-infection.json](./345377-death-infection.json) |
 | Death Inn | 118605 | [118605-death-inn.json](./118605-death-inn.json) |
 | Death Inn Ⅱ :The Immortal Is Coming | 284288 | [284288-death-inn-ii-the-immortal-is-coming.json](./284288-death-inn-ii-the-immortal-is-coming.json) |
 | Death Insurance | 422037 | [422037-death-insurance.json](./422037-death-insurance.json) |
@@ -10880,6 +10884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Day | 195930 | [195930-doom-day.json](./195930-doom-day.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
 | Doom Delta | 252029 | [252029-doom-delta.json](./252029-doom-delta.json) |
+| Doom Drive | 345373 | [345373-doom-drive.json](./345373-doom-drive.json) |
 | Doom Eternal KaiserCampaign | 344310 | [344310-doom-eternal-kaisercampaign.json](./344310-doom-eternal-kaisercampaign.json) |
 | Doom Eternal: Doomicorn Master Collection Cosmetic Pack | 405862 | [405862-doom-eternal-doomicorn-master-collection-cosmetic-pack.json](./405862-doom-eternal-doomicorn-master-collection-cosmetic-pack.json) |
 | Doom Eternal: Mullet Slayer Master Collection Cosmetic Pack | 405863 | [405863-doom-eternal-mullet-slayer-master-collection-cosmetic-pack.json](./405863-doom-eternal-mullet-slayer-master-collection-cosmetic-pack.json) |
@@ -11024,6 +11029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Picnic RPG | 288652 | [288652-doomsday-picnic-rpg.json](./288652-doomsday-picnic-rpg.json) |
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
 | Doomsday Scavenger | 195942 | [195942-doomsday-scavenger.json](./195942-doomsday-scavenger.json) |
+| Doomsday School | 345390 | [345390-doomsday-school.json](./345390-doomsday-school.json) |
 | Doomsday Survival:Training | 30657 | [30657-doomsday-survival-training.json](./30657-doomsday-survival-training.json) |
 | Doomsday Tower Defense | 357838 | [357838-doomsday-tower-defense.json](./357838-doomsday-tower-defense.json) |
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
@@ -15070,6 +15076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
 | Dungeon Delvers | 201671 | [201671-dungeon-delvers.json](./201671-dungeon-delvers.json) |
 | Dungeon Descent | 258357 | [258357-dungeon-descent.json](./258357-dungeon-descent.json) |
+| Dungeon Destroyer | 345400 | [345400-dungeon-destroyer.json](./345400-dungeon-destroyer.json) |
 | Dungeon Destroyer | 363317 | [363317-dungeon-destroyer.json](./363317-dungeon-destroyer.json) |
 | Dungeon Dev | 292261 | [292261-dungeon-dev.json](./292261-dungeon-dev.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
