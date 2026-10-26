@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teigeki Graph in Sakura Wars | 62124 | [62124-teigeki-graph-in-sakura-wars.json](./62124-teigeki-graph-in-sakura-wars.json) |
 | Teiji ni Kakero Alhaitham: Ore ha Ie ni Kaeritai | 350373 | [350373-teiji-ni-kakero-alhaitham-ore-ha-ie-ni-kaeritai.json](./350373-teiji-ni-kakero-alhaitham-ore-ha-ie-ni-kaeritai.json) |
 | Teiji Taisha Online | 171889 | [171889-teiji-taisha-online.json](./171889-teiji-taisha-online.json) |
+| Teikan no Eve Bethel | 376495 | [376495-teikan-no-eve-bethel.json](./376495-teikan-no-eve-bethel.json) |
 | Teikoku Kaigun Koibojou: Meiji Yokosuka Koushinkyoku | 136433 | [136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json](./136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json) |
 | Teikoku Kareido -Kakumei no Rondo- | 136434 | [136434-teikoku-kareido-kakumei-no-rondo.json](./136434-teikoku-kareido-kakumei-no-rondo.json) |
 | Teikoku Sensenki | 204483 | [204483-teikoku-sensenki.json](./204483-teikoku-sensenki.json) |
@@ -5164,6 +5165,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ballz are Lava! | 225695 | [225695-the-ballz-are-lava.json](./225695-the-ballz-are-lava.json) |
 | The Balrog and the Cat | 58857 | [58857-the-balrog-and-the-cat.json](./58857-the-balrog-and-the-cat.json) |
 | The Banana Saved the World | 157902 | [157902-the-banana-saved-the-world.json](./157902-the-banana-saved-the-world.json) |
+| The Banana Splits: Banana Bop Game | 376514 | [376514-the-banana-splits-banana-bop-game.json](./376514-the-banana-splits-banana-bop-game.json) |
+| The Banana Splits: Pie-Toss | 376513 | [376513-the-banana-splits-pie-toss.json](./376513-the-banana-splits-pie-toss.json) |
 | The Bananatree Brothers | 97455 | [97455-the-bananatree-brothers.json](./97455-the-bananatree-brothers.json) |
 | The Bananatree Brothers: Eat Carrots | 97454 | [97454-the-bananatree-brothers-eat-carrots.json](./97454-the-bananatree-brothers-eat-carrots.json) |
 | The Banished Vault | 242009 | [242009-the-banished-vault.json](./242009-the-banished-vault.json) |
@@ -9582,6 +9585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keepers: Lost Progeny - Collector's Edition | 22087 | [22087-the-keepers-lost-progeny-collectors-edition.json](./22087-the-keepers-lost-progeny-collectors-edition.json) |
 | The Keisatsu 24-ji | 365665 | [365665-the-keisatsu-24-ji.json](./365665-the-keisatsu-24-ji.json) |
 | The Kendama Challenge: 100 Players | 389736 | [389736-the-kendama-challenge-100-players.json](./389736-the-kendama-challenge-100-players.json) |
+| The Kepler Experiment | 376527 | [376527-the-kepler-experiment.json](./376527-the-kepler-experiment.json) |
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
 | The Key 1: Flight From Arcadia | 99112 | [99112-the-key-1-flight-from-arcadia.json](./99112-the-key-1-flight-from-arcadia.json) |
 | The Key of Avalon | 308055 | [308055-the-key-of-avalon.json](./308055-the-key-of-avalon.json) |
@@ -11284,6 +11288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mansion | 159683 | [159683-the-mansion.json](./159683-the-mansion.json) |
 | The Mansion of Hidden Souls | 45522 | [45522-the-mansion-of-hidden-souls.json](./45522-the-mansion-of-hidden-souls.json) |
 | The Mansion of The Macabre | 328470 | [328470-the-mansion-of-the-macabre.json](./328470-the-mansion-of-the-macabre.json) |
+| The Mantis | 376490 | [376490-the-mantis.json](./376490-the-mantis.json) |
 | The Many Faces of Go | 73868 | [73868-the-many-faces-of-go.json](./73868-the-many-faces-of-go.json) |
 | The Many Misfortunes of Kyran Pierre Cadenza the First | 211764 | [211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json](./211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json) |
 | The Many Pieces of Mr. Coo | 142959 | [142959-the-many-pieces-of-mr-coo.json](./142959-the-many-pieces-of-mr-coo.json) |
@@ -14605,6 +14610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Territory of Egg | 242415 | [242415-the-territory-of-egg.json](./242415-the-territory-of-egg.json) |
 | The Territory of Egg 2 | 309559 | [309559-the-territory-of-egg-2.json](./309559-the-territory-of-egg-2.json) |
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
+| The Terror Room | 376491 | [376491-the-terror-room.json](./376491-the-terror-room.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
 | The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
 | The Test of Insanity | 308043 | [308043-the-test-of-insanity.json](./308043-the-test-of-insanity.json) |
