@@ -6406,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus: Rising - Deluxe Edition | 260718 | [260718-granblue-fantasy-versus-rising-deluxe-edition.json](./260718-granblue-fantasy-versus-rising-deluxe-edition.json) |
 | Granblue Fantasy Versus: Rising - Figure Studio Set 1 | 379684 | [379684-granblue-fantasy-versus-rising-figure-studio-set-1.json](./379684-granblue-fantasy-versus-rising-figure-studio-set-1.json) |
 | Granblue Fantasy Versus: Rising - Figure Studio Set 2 | 379685 | [379685-granblue-fantasy-versus-rising-figure-studio-set-2.json](./379685-granblue-fantasy-versus-rising-figure-studio-set-2.json) |
+| Granblue Fantasy Versus: Rising - Indigo Witch Beatrix | 374656 | [374656-granblue-fantasy-versus-rising-indigo-witch-beatrix.json](./374656-granblue-fantasy-versus-rising-indigo-witch-beatrix.json) |
 | Granblue Fantasy Versus: Rising - Legendary Edition | 415415 | [415415-granblue-fantasy-versus-rising-legendary-edition.json](./415415-granblue-fantasy-versus-rising-legendary-edition.json) |
 | Granblue Fantasy Versus: Rising - Premium Avatar Set (Pop Team Epic) | 379686 | [379686-granblue-fantasy-versus-rising-premium-avatar-set-pop-team-epic.json](./379686-granblue-fantasy-versus-rising-premium-avatar-set-pop-team-epic.json) |
 | Granblue Fantasy Versus: Rising - Premium Avatar Set: Shadowverse | 294993 | [294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json](./294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json) |
