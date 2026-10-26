@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa the Vegaful | 172483 | [172483-lisa-the-vegaful.json](./172483-lisa-the-vegaful.json) |
 | Lisa to Issho ni Tairiku Oudan: A-Ressha de Ikou | 56555 | [56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json](./56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
+| Lisa: Paradise | 370093 | [370093-lisa-paradise.json](./370093-lisa-paradise.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
 | Lisa: The Doleful | 187119 | [187119-lisa-the-doleful.json](./187119-lisa-the-doleful.json) |
 | Lisa: The Downcast | 387510 | [387510-lisa-the-downcast.json](./387510-lisa-the-downcast.json) |
@@ -7912,6 +7913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
 | Luigi's Quest: Trouble in Sarasaland | 323612 | [323612-luigis-quest-trouble-in-sarasaland.json](./323612-luigis-quest-trouble-in-sarasaland.json) |
 | Luigi's Requiem | 319091 | [319091-luigis-requiem.json](./319091-luigis-requiem.json) |
+| Luigi's Revenge Interactive | 370091 | [370091-luigis-revenge-interactive.json](./370091-luigis-revenge-interactive.json) |
 | Luigi's Spookful Quest | 313427 | [313427-luigis-spookful-quest.json](./313427-luigis-spookful-quest.json) |
 | Luippy | 230957 | [230957-luippy.json](./230957-luippy.json) |
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
