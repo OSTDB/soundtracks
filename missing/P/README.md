@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Forbidden Sanctum | 228596 | [228596-path-of-exile-forbidden-sanctum.json](./228596-path-of-exile-forbidden-sanctum.json) |
 | Path of Exile: Forsaken Masters | 75573 | [75573-path-of-exile-forsaken-masters.json](./75573-path-of-exile-forsaken-masters.json) |
+| Path of Exile: Keepers of the Flame | 375214 | [375214-path-of-exile-keepers-of-the-flame.json](./375214-path-of-exile-keepers-of-the-flame.json) |
 | Path of Exile: King of the Faridun Supporter Pack | 332030 | [332030-path-of-exile-king-of-the-faridun-supporter-pack.json](./332030-path-of-exile-king-of-the-faridun-supporter-pack.json) |
 | Path of Exile: Mirage | 393960 | [393960-path-of-exile-mirage.json](./393960-path-of-exile-mirage.json) |
 | Path of Exile: Sacrifice of the Vaal | 75574 | [75574-path-of-exile-sacrifice-of-the-vaal.json](./75574-path-of-exile-sacrifice-of-the-vaal.json) |
