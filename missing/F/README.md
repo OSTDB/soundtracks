@@ -9930,6 +9930,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
 | Friday Night Funkin': In the Galaxy | 228605 | [228605-friday-night-funkin-in-the-galaxy.json](./228605-friday-night-funkin-in-the-galaxy.json) |
 | Friday Night Funkin': Just Natsuki | 342803 | [342803-friday-night-funkin-just-natsuki.json](./342803-friday-night-funkin-just-natsuki.json) |
+| Friday Night Funkin': Just Sayori | 351548 | [351548-friday-night-funkin-just-sayori.json](./351548-friday-night-funkin-just-sayori.json) |
+| Friday Night Funkin': Just Yuri | 351550 | [351550-friday-night-funkin-just-yuri.json](./351550-friday-night-funkin-just-yuri.json) |
 | Friday Night Funkin': Mario's Madness | 202414 | [202414-friday-night-funkin-marios-madness.json](./202414-friday-night-funkin-marios-madness.json) |
 | Friday Night Funkin': Miku Full Week | 206925 | [206925-friday-night-funkin-miku-full-week.json](./206925-friday-night-funkin-miku-full-week.json) |
 | Friday Night Funkin': Pibby Corrupted | 280717 | [280717-friday-night-funkin-pibby-corrupted.json](./280717-friday-night-funkin-pibby-corrupted.json) |
