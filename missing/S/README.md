@@ -5519,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow City Mysteries: A Clockwork Noir | 290546 | [290546-shadow-city-mysteries-a-clockwork-noir.json](./290546-shadow-city-mysteries-a-clockwork-noir.json) |
+| Shadow Cocoon | 348673 | [348673-shadow-cocoon.json](./348673-shadow-cocoon.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Codex | 175153 | [175153-shadow-codex.json](./175153-shadow-codex.json) |
 | Shadow Company: Left for Dead | 22069 | [22069-shadow-company-left-for-dead.json](./22069-shadow-company-left-for-dead.json) |
@@ -10433,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
 | Sky Escort | 259158 | [259158-sky-escort.json](./259158-sky-escort.json) |
 | Sky Fields | 337770 | [337770-sky-fields.json](./337770-sky-fields.json) |
+| Sky Fields: Goober Gardens | 348708 | [348708-sky-fields-goober-gardens.json](./348708-sky-fields-goober-gardens.json) |
 | Sky Fighter | 131416 | [131416-sky-fighter.json](./131416-sky-fighter.json) |
 | Sky Fighter | 43040 | [43040-sky-fighter.json](./43040-sky-fighter.json) |
 | Sky Fighter Legends | 81195 | [81195-sky-fighter-legends.json](./81195-sky-fighter-legends.json) |
@@ -19328,6 +19330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squadd.Io | 27418 | [27418-squadd-io.json](./27418-squadd-io.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squadron | 172523 | [172523-squadron.json](./172523-squadron.json) |
+| Squadron | 348688 | [348688-squadron.json](./348688-squadron.json) |
 | Squadron 42 | 19128 | [19128-squadron-42.json](./19128-squadron-42.json) |
 | Squadron II | 116444 | [116444-squadron-ii.json](./116444-squadron-ii.json) |
 | Squadron: Sky Guardians | 51420 | [51420-squadron-sky-guardians.json](./51420-squadron-sky-guardians.json) |
@@ -24192,6 +24195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject: Relictus | 188835 | [188835-subject-relictus.json](./188835-subject-relictus.json) |
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
+| Subjugation | 348709 | [348709-subjugation.json](./348709-subjugation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
 | Sublime Element | 250790 | [250790-sublime-element.json](./250790-sublime-element.json) |
 | Subliminal Realms: The Masterpiece | 140290 | [140290-subliminal-realms-the-masterpiece.json](./140290-subliminal-realms-the-masterpiece.json) |
