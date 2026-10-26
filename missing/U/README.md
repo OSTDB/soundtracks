@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mortal Kombat 3 | 283814 | [283814-ultimate-mortal-kombat-3.json](./283814-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 286690 | [286690-ultimate-mortal-kombat-3.json](./286690-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3: WaveNet Edition | 363668 | [363668-ultimate-mortal-kombat-3-wavenet-edition.json](./363668-ultimate-mortal-kombat-3-wavenet-edition.json) |
+| Ultimate Mortal Kombat Shaolin Monks | 385663 | [385663-ultimate-mortal-kombat-shaolin-monks.json](./385663-ultimate-mortal-kombat-shaolin-monks.json) |
 | Ultimate Mortal Kombat Trilogy | 45153 | [45153-ultimate-mortal-kombat-trilogy.json](./45153-ultimate-mortal-kombat-trilogy.json) |
 | Ultimate Moto Bike Simulator | 283221 | [283221-ultimate-moto-bike-simulator.json](./283221-ultimate-moto-bike-simulator.json) |
 | Ultimate MotoCross 4 | 227948 | [227948-ultimate-motocross-4.json](./227948-ultimate-motocross-4.json) |
@@ -2687,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UpRunner | 191604 | [191604-uprunner.json](./191604-uprunner.json) |
 | Uprush | 266239 | [266239-uprush.json](./266239-uprush.json) |
 | Upscale Studio: Logic Bundle: 5 in 1 | 379360 | [379360-upscale-studio-logic-bundle-5-in-1.json](./379360-upscale-studio-logic-bundle-5-in-1.json) |
+| Upscale Studio: Ultimate Bundle 15 in 1 | 385127 | [385127-upscale-studio-ultimate-bundle-15-in-1.json](./385127-upscale-studio-ultimate-bundle-15-in-1.json) |
 | Upshift StrikeRacer | 375395 | [375395-upshift-strikeracer.json](./375395-upshift-strikeracer.json) |
 | Upside | 151489 | [151489-upside.json](./151489-upside.json) |
 | Upside Down | 90487 | [90487-upside-down.json](./90487-upside-down.json) |
