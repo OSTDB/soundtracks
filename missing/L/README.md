@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Zangetsu: Akiba's Beat Collaboration - Additional Characters Pack | 246642 | [246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json](./246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Trip Collaboration - Additional Characters Pack | 246641 | [246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json](./246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Mind=.0 Collaboration - Additional Characters Pack | 246640 | [246640-labyrinth-of-zangetsu-mind-0-collaboration-additional-characters-pack.json](./246640-labyrinth-of-zangetsu-mind-0-collaboration-additional-characters-pack.json) |
+| Labyrinth Run | 347067 | [347067-labyrinth-run.json](./347067-labyrinth-run.json) |
 | Labyrinth Runner | 241888 | [241888-labyrinth-runner.json](./241888-labyrinth-runner.json) |
 | Labyrinth Runner | 40218 | [40218-labyrinth-runner.json](./40218-labyrinth-runner.json) |
 | Labyrinth Simulator | 34739 | [34739-labyrinth-simulator.json](./34739-labyrinth-simulator.json) |
@@ -1366,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Photographer 5 | 201148 | [201148-late-photographer-5.json](./201148-late-photographer-5.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Late Shift | 27717 | [27717-late-shift.json](./27717-late-shift.json) |
+| Late Shift | 347060 | [347060-late-shift.json](./347060-late-shift.json) |
 | Late Stage | 269227 | [269227-late-stage.json](./269227-late-stage.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Stage Inferno | 149871 | [149871-late-stage-inferno.json](./149871-late-stage-inferno.json) |
