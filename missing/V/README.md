@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visionarium | 113737 | [113737-visionarium.json](./113737-visionarium.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
 | Visions | 61867 | [61867-visions.json](./61867-visions.json) |
+| Visions & Voices | 372430 | [372430-visions-and-voices.json](./372430-visions-and-voices.json) |
 | Visions of Aftermath: Boomtown | 9526 | [9526-visions-of-aftermath-boomtown.json](./9526-visions-of-aftermath-boomtown.json) |
 | Visions of Eternity | 281317 | [281317-visions-of-eternity.json](./281317-visions-of-eternity.json) |
 | Visions of Evil | 264525 | [264525-visions-of-evil.json](./264525-visions-of-evil.json) |
@@ -2717,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
 | Void Destroyer 2: Big Red | 168376 | [168376-void-destroyer-2-big-red.json](./168376-void-destroyer-2-big-red.json) |
 | Void Disciple | 413885 | [413885-void-disciple.json](./413885-void-disciple.json) |
+| Void Drift | 372522 | [372522-void-drift.json](./372522-void-drift.json) |
 | Void Dungeon | 322694 | [322694-void-dungeon.json](./322694-void-dungeon.json) |
 | Void Eagle | 215671 | [215671-void-eagle.json](./215671-void-eagle.json) |
 | Void Eclipse | 126372 | [126372-void-eclipse.json](./126372-void-eclipse.json) |
