@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterjacked! | 362330 | [362330-waterjacked.json](./362330-waterjacked.json) |
 | Waterloo | 12821 | [12821-waterloo.json](./12821-waterloo.json) |
 | Waterloo | 328018 | [328018-waterloo.json](./328018-waterloo.json) |
+| Waterloo | 341957 | [341957-waterloo.json](./341957-waterloo.json) |
 | Waterloo: Napoleon's Last Battle | 71611 | [71611-waterloo-napoleons-last-battle.json](./71611-waterloo-napoleons-last-battle.json) |
 | WaterMeasure | 344542 | [344542-watermeasure.json](./344542-watermeasure.json) |
 | Watermelon | 314365 | [314365-watermelon.json](./314365-watermelon.json) |
@@ -3244,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Time Is It | 168715 | [168715-what-time-is-it.json](./168715-what-time-is-it.json) |
 | What Time is it? | 372192 | [372192-what-time-is-it.json](./372192-what-time-is-it.json) |
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
+| What Walks on Four Legs | 341976 | [341976-what-walks-on-four-legs.json](./341976-what-walks-on-four-legs.json) |
 | What Was | 372210 | [372210-what-was.json](./372210-what-was.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
