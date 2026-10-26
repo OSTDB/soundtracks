@@ -2198,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
 | Dating after becoming Vtuber | 276682 | [276682-dating-after-becoming-vtuber.json](./276682-dating-after-becoming-vtuber.json) |
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
+| Dating App Simulator | 365607 | [365607-dating-app-simulator.json](./365607-dating-app-simulator.json) |
 | Dating App Simulator | 380235 | [380235-dating-app-simulator.json](./380235-dating-app-simulator.json) |
 | Dating Izzie | 247925 | [247925-dating-izzie.json](./247925-dating-izzie.json) |
 | Dating Life: Miley X Emily | 119781 | [119781-dating-life-miley-x-emily.json](./119781-dating-life-miley-x-emily.json) |
@@ -14428,6 +14429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Commander: Hunting Video Game | 221675 | [221675-duck-commander-hunting-video-game.json](./221675-duck-commander-hunting-video-game.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
 | Duck Dash | 290539 | [290539-duck-dash.json](./290539-duck-dash.json) |
+| Duck Dash | 365615 | [365615-duck-dash.json](./365615-duck-dash.json) |
 | Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
 | Duck Dodgers Starring Daffy Duck | 3336 | [3336-duck-dodgers-starring-daffy-duck.json](./3336-duck-dodgers-starring-daffy-duck.json) |
 | Duck Doom Deluxe | 201180 | [201180-duck-doom-deluxe.json](./201180-duck-doom-deluxe.json) |
