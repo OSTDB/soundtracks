@@ -3924,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Alpha | 40913 | [40913-sector-alpha.json](./40913-sector-alpha.json) |
 | Sector Assault | 128938 | [128938-sector-assault.json](./128938-sector-assault.json) |
 | Sector Beam | 327438 | [327438-sector-beam.json](./327438-sector-beam.json) |
+| Sector Clear: Hryaken Destroy | 369534 | [369534-sector-clear-hryaken-destroy.json](./369534-sector-clear-hryaken-destroy.json) |
 | Sector Force | 350466 | [350466-sector-force.json](./350466-sector-force.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
 | Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
@@ -9240,6 +9241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Zombie Survival | 368594 | [368594-simple-zombie-survival.json](./368594-simple-zombie-survival.json) |
 | Simplefield | 46475 | [46475-simplefield.json](./46475-simplefield.json) |
 | SimpleMMO | 145898 | [145898-simplemmo.json](./145898-simplemmo.json) |
+| SimpleMovie | 369548 | [369548-simplemovie.json](./369548-simplemovie.json) |
 | SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
 | SimplePlanes VR | 169717 | [169717-simpleplanes-vr.json](./169717-simpleplanes-vr.json) |
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
@@ -20773,6 +20775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
 | StarHorse Pocket | 108764 | [108764-starhorse-pocket.json](./108764-starhorse-pocket.json) |
+| Staring Contest | 369545 | [369545-staring-contest.json](./369545-staring-contest.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Starion Tactics | 10891 | [10891-starion-tactics.json](./10891-starion-tactics.json) |
@@ -27069,6 +27072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro Fighter | 169484 | [169484-super-retro-fighter.json](./169484-super-retro-fighter.json) |
 | Super Retro Kart | 242940 | [242940-super-retro-kart.json](./242940-super-retro-kart.json) |
 | Super Retro Maker | 75404 | [75404-super-retro-maker.json](./75404-super-retro-maker.json) |
+| Super Retro Mega Wars | 369670 | [369670-super-retro-mega-wars.json](./369670-super-retro-mega-wars.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
@@ -27646,6 +27650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tsume Shogi 1000 | 42219 | [42219-super-tsume-shogi-1000.json](./42219-super-tsume-shogi-1000.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
 | Super Turbo Demon Busters! | 74860 | [74860-super-turbo-demon-busters.json](./74860-super-turbo-demon-busters.json) |
+| Super Turbo Racing | 369518 | [369518-super-turbo-racing.json](./369518-super-turbo-racing.json) |
 | Super Turbo Sudoku | 110960 | [110960-super-turbo-sudoku.json](./110960-super-turbo-sudoku.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
 | Super Turrican | 48231 | [48231-super-turrican.json](./48231-super-turrican.json) |
@@ -28353,6 +28358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
 | Survival City | 239564 | [239564-survival-city.json](./239564-survival-city.json) |
 | Survival City | 346260 | [346260-survival-city.json](./346260-survival-city.json) |
+| Survival Classic | 369530 | [369530-survival-classic.json](./369530-survival-classic.json) |
 | Survival Craft | 131235 | [131235-survival-craft.json](./131235-survival-craft.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
