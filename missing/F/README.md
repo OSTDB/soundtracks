@@ -6670,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips¿de | 265349 | [265349-flips-de.json](./265349-flips-de.json) |
 | FlipScapes | 224249 | [224249-flipscapes.json](./224249-flipscapes.json) |
 | Flipshot | 253941 | [253941-flipshot.json](./253941-flipshot.json) |
+| Flipside | 373597 | [373597-flipside.json](./373597-flipside.json) |
 | FlipSide | 92079 | [92079-flipside.json](./92079-flipside.json) |
 | Flipster | 209455 | [209455-flipster.json](./209455-flipster.json) |
 | Flipstown | 192843 | [192843-flipstown.json](./192843-flipstown.json) |
