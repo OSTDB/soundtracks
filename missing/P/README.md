@@ -6770,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Under The Water | 403421 | [403421-pixel-paint-under-the-water.json](./403421-pixel-paint-under-the-water.json) |
 | Pixel Painter Story | 58618 | [58618-pixel-painter-story.json](./58618-pixel-painter-story.json) |
 | Pixel Panic | 285902 | [285902-pixel-panic.json](./285902-pixel-panic.json) |
+| Pixel Pegz | 374648 | [374648-pixel-pegz.json](./374648-pixel-pegz.json) |
 | Pixel People | 22178 | [22178-pixel-people.json](./22178-pixel-people.json) |
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
 | Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
@@ -7881,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants War | 65331 | [65331-plants-war.json](./65331-plants-war.json) |
 | Plantsportation | 249930 | [249930-plantsportation.json](./249930-plantsportation.json) |
 | Plantstead | 176933 | [176933-plantstead.json](./176933-plantstead.json) |
+| Plantverk: Perfectly Plantastic Plant Simulator | 374578 | [374578-plantverk-perfectly-plantastic-plant-simulator.json](./374578-plantverk-perfectly-plantastic-plant-simulator.json) |
 | Planum | 96890 | [96890-planum.json](./96890-planum.json) |
 | Plaque Attack | 18410 | [18410-plaque-attack.json](./18410-plaque-attack.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
@@ -14340,6 +14342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulstar | 77264 | [77264-pulstar.json](./77264-pulstar.json) |
 | Pulsus | 138524 | [138524-pulsus.json](./138524-pulsus.json) |
 | Pultimush | 282461 | [282461-pultimush.json](./282461-pultimush.json) |
+| Pulupu | 374653 | [374653-pulupu.json](./374653-pulupu.json) |
 | Pulut Adventure RPG | 151451 | [151451-pulut-adventure-rpg.json](./151451-pulut-adventure-rpg.json) |
 | Pulver | 287545 | [287545-pulver.json](./287545-pulver.json) |
 | Pulzar | 304294 | [304294-pulzar.json](./304294-pulzar.json) |
