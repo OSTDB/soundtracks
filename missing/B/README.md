@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Ice Cream 3 | 142552 | [142552-bad-ice-cream-3.json](./142552-bad-ice-cream-3.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
+| Bad Karma | 337007 | [337007-bad-karma.json](./337007-bad-karma.json) |
 | Bad Lady | 385689 | [385689-bad-lady.json](./385689-bad-lady.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
@@ -815,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1974,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
 | Barbarous: Tavern of Emyr | 126471 | [126471-barbarous-tavern-of-emyr.json](./126471-barbarous-tavern-of-emyr.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
+| Barbatus no Majo | 337004 | [337004-barbatus-no-majo.json](./337004-barbatus-no-majo.json) |
 | Barbe-Yeux | 420203 | [420203-barbe-yeux.json](./420203-barbe-yeux.json) |
 | Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
 | Barbecue | 408222 | [408222-barbecue.json](./408222-barbecue.json) |
@@ -8593,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blik | 82033 | [82033-blik.json](./82033-blik.json) |
 | Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
 | Blimby | 153871 | [153871-blimby.json](./153871-blimby.json) |
+| Blimpo Warrior | 337310 | [337310-blimpo-warrior.json](./337310-blimpo-warrior.json) |
 | Blimpy | 328975 | [328975-blimpy.json](./328975-blimpy.json) |
 | Blinck Island Returns | 186169 | [186169-blinck-island-returns.json](./186169-blinck-island-returns.json) |
 | Blind | 156634 | [156634-blind.json](./156634-blind.json) |
