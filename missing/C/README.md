@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
 | Cantaloupe Chronicle | 327389 | [327389-cantaloupe-chronicle.json](./327389-cantaloupe-chronicle.json) |
 | Cantarella: Dominion of Qualia | 386219 | [386219-cantarella-dominion-of-qualia.json](./386219-cantarella-dominion-of-qualia.json) |
+| Canteen's Islander | 386159 | [386159-canteens-islander.json](./386159-canteens-islander.json) |
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
 | Canterz Paranormies 2 | 226281 | [226281-canterz-paranormies-2.json](./226281-canterz-paranormies-2.json) |
 | Cantirium: God Slayer | 240726 | [240726-cantirium-god-slayer.json](./240726-cantirium-god-slayer.json) |
@@ -1374,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital | 164431 | [164431-capital.json](./164431-capital.json) |
 | Capital | 311489 | [311489-capital.json](./311489-capital.json) |
 | Capital Cities Trivia | 365874 | [365874-capital-cities-trivia.json](./365874-capital-cities-trivia.json) |
+| Capital City Brain Training Quiz! | 386178 | [386178-capital-city-brain-training-quiz.json](./386178-capital-city-brain-training-quiz.json) |
 | Capital Command | 153495 | [153495-capital-command.json](./153495-capital-command.json) |
 | Capital Dilemma | 283800 | [283800-capital-dilemma.json](./283800-capital-dilemma.json) |
 | Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
@@ -1806,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carachnophobia | 267861 | [267861-carachnophobia.json](./267861-carachnophobia.json) |
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
+| Caramel Action Micro | 386161 | [386161-caramel-action-micro.json](./386161-caramel-action-micro.json) |
 | Caramel Port | 114558 | [114558-caramel-port.json](./114558-caramel-port.json) |
 | Caramel Quest: Meitenkyou no Megami-zou | 374960 | [374960-caramel-quest-meitenkyou-no-megami-zou.json](./374960-caramel-quest-meitenkyou-no-megami-zou.json) |
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
@@ -3773,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats the Commander | 231957 | [231957-cats-the-commander.json](./231957-cats-the-commander.json) |
 | Cats the Commander for Nintendo Switch | 330235 | [330235-cats-the-commander-for-nintendo-switch.json](./330235-cats-the-commander-for-nintendo-switch.json) |
 | Cats Visiting Christmas Town | 325663 | [325663-cats-visiting-christmas-town.json](./325663-cats-visiting-christmas-town.json) |
+| Cats Visiting Cozy Town | 386179 | [386179-cats-visiting-cozy-town.json](./386179-cats-visiting-cozy-town.json) |
 | Cats Visiting El Dorado | 368761 | [368761-cats-visiting-el-dorado.json](./368761-cats-visiting-el-dorado.json) |
 | Cats Visiting Lunar New Year | 328566 | [328566-cats-visiting-lunar-new-year.json](./328566-cats-visiting-lunar-new-year.json) |
 | Cats Visiting Underwater World | 328542 | [328542-cats-visiting-underwater-world.json](./328542-cats-visiting-underwater-world.json) |
@@ -11660,6 +11664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies vs. Claus | 76110 | [76110-cookies-vs-claus.json](./76110-cookies-vs-claus.json) |
 | Cookies! Theory of Super Evolution | 222257 | [222257-cookies-theory-of-super-evolution.json](./222257-cookies-theory-of-super-evolution.json) |
 | Cookiesaner | 417483 | [417483-cookiesaner.json](./417483-cookiesaner.json) |
+| Cookiette and the Vanilla Crystal | 386180 | [386180-cookiette-and-the-vanilla-crystal.json](./386180-cookiette-and-the-vanilla-crystal.json) |
 | Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
 | Cooking Academy | 208792 | [208792-cooking-academy.json](./208792-cooking-academy.json) |
@@ -16123,6 +16128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curling World Cup | 98983 | [98983-curling-world-cup.json](./98983-curling-world-cup.json) |
 | Curly Monkey | 159233 | [159233-curly-monkey.json](./159233-curly-monkey.json) |
 | Curly Monkey 2 | 159234 | [159234-curly-monkey-2.json](./159234-curly-monkey-2.json) |
+| Curly Puzzle: World Heritage | 386181 | [386181-curly-puzzle-world-heritage.json](./386181-curly-puzzle-world-heritage.json) |
 | Current | 358392 | [358392-current.json](./358392-current.json) |
 | Current: The Flow | 374713 | [374713-current-the-flow.json](./374713-current-the-flow.json) |
 | Currently Unstable | 260206 | [260206-currently-unstable.json](./260206-currently-unstable.json) |
