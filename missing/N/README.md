@@ -2806,6 +2806,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Math Blaster Plus! | 10670 | [10670-new-math-blaster-plus.json](./10670-new-math-blaster-plus.json) |
 | New Meaning | 165761 | [165761-new-meaning.json](./165761-new-meaning.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
+| New Nightmare Cafe | 339181 | [339181-new-nightmare-cafe.json](./339181-new-nightmare-cafe.json) |
+| New Nightmare Cafe 2 | 339186 | [339186-new-nightmare-cafe-2.json](./339186-new-nightmare-cafe-2.json) |
+| New Nightmare Cafe 3 | 339190 | [339190-new-nightmare-cafe-3.json](./339190-new-nightmare-cafe-3.json) |
 | New Nightmare Cafe 4 | 339222 | [339222-new-nightmare-cafe-4.json](./339222-new-nightmare-cafe-4.json) |
 | New Nightmare Cafe 5 | 339223 | [339223-new-nightmare-cafe-5.json](./339223-new-nightmare-cafe-5.json) |
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
@@ -3874,6 +3877,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Busters | 42375 | [42375-nightmare-busters.json](./42375-nightmare-busters.json) |
 | Nightmare Busters Rebirth | 392366 | [392366-nightmare-busters-rebirth.json](./392366-nightmare-busters-rebirth.json) |
 | Nightmare Cafe II | 339165 | [339165-nightmare-cafe-ii.json](./339165-nightmare-cafe-ii.json) |
+| Nightmare Cafe IX | 339179 | [339179-nightmare-cafe-ix.json](./339179-nightmare-cafe-ix.json) |
+| Nightmare Cafe VII | 339177 | [339177-nightmare-cafe-vii.json](./339177-nightmare-cafe-vii.json) |
+| Nightmare Cafe VIII | 339178 | [339178-nightmare-cafe-viii.json](./339178-nightmare-cafe-viii.json) |
+| Nightmare Cafe X | 339180 | [339180-nightmare-cafe-x.json](./339180-nightmare-cafe-x.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
 | Nightmare Cops | 51522 | [51522-nightmare-cops.json](./51522-nightmare-cops.json) |
