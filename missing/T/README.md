@@ -14578,6 +14578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Survivor | 334450 | [334450-the-survivor.json](./334450-the-survivor.json) |
 | The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
 | The Survivors | 103263 | [103263-the-survivors.json](./103263-the-survivors.json) |
+| The Survivors | 345387 | [345387-the-survivors.json](./345387-the-survivors.json) |
 | The Survivors | 47142 | [47142-the-survivors.json](./47142-the-survivors.json) |
 | The Survivors: Battle Royale | 108808 | [108808-the-survivors-battle-royale.json](./108808-the-survivors-battle-royale.json) |
 | The Sushi Spinnery | 63346 | [63346-the-sushi-spinnery.json](./63346-the-sushi-spinnery.json) |
