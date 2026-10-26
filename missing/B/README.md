@@ -325,9 +325,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back from Void | 275069 | [275069-back-from-void.json](./275069-back-from-void.json) |
 | Back Home for Christmas | 175840 | [175840-back-home-for-christmas.json](./175840-back-home-for-christmas.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
+| Back in Time | 367896 | [367896-back-in-time.json](./367896-back-in-time.json) |
 | Back in Time | 57995 | [57995-back-in-time.json](./57995-back-in-time.json) |
 | Back in Time Part II: Back to the Nineties | 57996 | [57996-back-in-time-part-ii-back-to-the-nineties.json](./57996-back-in-time-part-ii-back-to-the-nineties.json) |
 | Back Light | 319864 | [319864-back-light.json](./319864-back-light.json) |
+| Back of Beyond | 367921 | [367921-back-of-beyond.json](./367921-back-of-beyond.json) |
 | Back of Space | 171436 | [171436-back-of-space.json](./171436-back-of-space.json) |
 | Back Pain Delivery | 390460 | [390460-back-pain-delivery.json](./390460-back-pain-delivery.json) |
 | Back Rank Chess | 232923 | [232923-back-rank-chess.json](./232923-back-rank-chess.json) |
@@ -801,7 +803,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9821,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlueGlow: Operation Blue Rain | 174175 | [174175-blueglow-operation-blue-rain.json](./174175-blueglow-operation-blue-rain.json) |
 | Bluegrass | 386930 | [386930-bluegrass.json](./386930-bluegrass.json) |
 | Bluejeweled | 327679 | [327679-bluejeweled.json](./327679-bluejeweled.json) |
+| BlueLine | 367923 | [367923-blueline.json](./367923-blueline.json) |
 | Bluem | 199396 | [199396-bluem.json](./199396-bluem.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | Blueman | 392717 | [392717-blueman.json](./392717-blueman.json) |
