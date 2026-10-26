@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Wesnoth | 2365 | [2365-battle-for-wesnoth.json](./2365-battle-for-wesnoth.json) |
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
 | Battle for Wesnoth Legacy | 207873 | [207873-battle-for-wesnoth-legacy.json](./207873-battle-for-wesnoth-legacy.json) |
+| Battle Force | 386176 | [386176-battle-force.json](./386176-battle-force.json) |
 | Battle Forever | 32879 | [32879-battle-forever.json](./32879-battle-forever.json) |
 | Battle Fortress Defence | 200114 | [200114-battle-fortress-defence.json](./200114-battle-fortress-defence.json) |
 | Battle Frenzy | 5361 | [5361-battle-frenzy.json](./5361-battle-frenzy.json) |
@@ -4944,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Nightfall | 105159 | [105159-before-nightfall.json](./105159-before-nightfall.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
 | Before Resignation | 239688 | [239688-before-resignation.json](./239688-before-resignation.json) |
+| Before She’s Gone | 386177 | [386177-before-she-s-gone.json](./386177-before-she-s-gone.json) |
 | Before Sunset | 211446 | [211446-before-sunset.json](./211446-before-sunset.json) |
 | Before the Battery's Over | 148986 | [148986-before-the-batterys-over.json](./148986-before-the-batterys-over.json) |
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
