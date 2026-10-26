@@ -5934,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Rally | 373246 | [373246-nova-rally.json](./373246-nova-rally.json) |
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
 | Nova Slash: Unparalleled Power | 195608 | [195608-nova-slash-unparalleled-power.json](./195608-nova-slash-unparalleled-power.json) |
+| Nova Sol Marine | 380477 | [380477-nova-sol-marine.json](./380477-nova-sol-marine.json) |
 | Nova Squadron | 215624 | [215624-nova-squadron.json](./215624-nova-squadron.json) |
 | Nova Strider | 404376 | [404376-nova-strider.json](./404376-nova-strider.json) |
 | Nova Strike | 259027 | [259027-nova-strike.json](./259027-nova-strike.json) |
