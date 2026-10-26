@@ -6455,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicky | 275910 | [275910-flicky.json](./275910-flicky.json) |
 | Flicky | 6105 | [6105-flicky.json](./6105-flicky.json) |
 | Flicky Marble | 103374 | [103374-flicky-marble.json](./103374-flicky-marble.json) |
+| Flickyhack | 361646 | [361646-flickyhack.json](./361646-flickyhack.json) |
 | Flict | 393479 | [393479-flict.json](./393479-flict.json) |
 | Flicts | 293241 | [293241-flicts.json](./293241-flicts.json) |
 | Flies Attack on Earth | 69700 | [69700-flies-attack-on-earth.json](./69700-flies-attack-on-earth.json) |
@@ -7333,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
 | FNaF Free Edition | 299571 | [299571-fnaf-free-edition.json](./299571-fnaf-free-edition.json) |
 | FNAF in Psych Engine | 242611 | [242611-fnaf-in-psych-engine.json](./242611-fnaf-in-psych-engine.json) |
+| FNAF in Sonic Forever | 361571 | [361571-fnaf-in-sonic-forever.json](./361571-fnaf-in-sonic-forever.json) |
 | FNaF Multiplayer: Forgotten Pizzeria | 260060 | [260060-fnaf-multiplayer-forgotten-pizzeria.json](./260060-fnaf-multiplayer-forgotten-pizzeria.json) |
 | FNaF Ultimate Edition | 281319 | [281319-fnaf-ultimate-edition.json](./281319-fnaf-ultimate-edition.json) |
 | FNaF World | 241218 | [241218-fnaf-world.json](./241218-fnaf-world.json) |
