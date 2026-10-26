@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
+| Magiworks | 377107 | [377107-magiworks.json](./377107-magiworks.json) |
 | Magix Music Maker | 43495 | [43495-magix-music-maker.json](./43495-magix-music-maker.json) |
 | MagixHome VR | 31125 | [31125-magixhome-vr.json](./31125-magixhome-vr.json) |
 | MagJongg | 91522 | [91522-magjongg.json](./91522-magjongg.json) |
@@ -9325,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Wild | 228279 | [228279-midnight-wild.json](./228279-midnight-wild.json) |
 | Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
 | Midnight Witch Starlight | 261090 | [261090-midnight-witch-starlight.json](./261090-midnight-witch-starlight.json) |
+| Midnight Yammy 8-Bit Trickster Show | 377556 | [377556-midnight-yammy-8-bit-trickster-show.json](./377556-midnight-yammy-8-bit-trickster-show.json) |
 | Midnight: Submersion | 181111 | [181111-midnight-submersion.json](./181111-midnight-submersion.json) |
 | Midnight. Swordfight. | 59699 | [59699-midnight-swordfight.json](./59699-midnight-swordfight.json) |
 | Midnight's Bell | 319647 | [319647-midnights-bell.json](./319647-midnights-bell.json) |
@@ -10602,6 +10604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Running Ant | 380796 | [380796-mini-running-ant.json](./380796-mini-running-ant.json) |
 | Mini Scientist | 229511 | [229511-mini-scientist.json](./229511-mini-scientist.json) |
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
+| Mini Shopkeeper | 377619 | [377619-mini-shopkeeper.json](./377619-mini-shopkeeper.json) |
 | Mini Soccer Manager | 411494 | [411494-mini-soccer-manager.json](./411494-mini-soccer-manager.json) |
 | Mini Soccer Star | 414515 | [414515-mini-soccer-star.json](./414515-mini-soccer-star.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
