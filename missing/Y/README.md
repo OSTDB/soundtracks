@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yazz | 184794 | [184794-yazz.json](./184794-yazz.json) |
 | Yazzie | 141112 | [141112-yazzie.json](./141112-yazzie.json) |
 | YBit | 65790 | [65790-ybit.json](./65790-ybit.json) |
+| Yclept | 382271 | [382271-yclept.json](./382271-yclept.json) |
 | Ycom | 279517 | [279517-ycom.json](./279517-ycom.json) |
 | Ye Fenny: Revenge of the Evil Good Shepherd | 81783 | [81783-ye-fenny-revenge-of-the-evil-good-shepherd.json](./81783-ye-fenny-revenge-of-the-evil-good-shepherd.json) |
 | Ye Olde Cribbage Club: A Later Daters Game | 203695 | [203695-ye-olde-cribbage-club-a-later-daters-game.json](./203695-ye-olde-cribbage-club-a-later-daters-game.json) |
