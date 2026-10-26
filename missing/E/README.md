@@ -5052,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Fighter Zero: Blue Sky Edition | 234568 | [234568-eternal-fighter-zero-blue-sky-edition.json](./234568-eternal-fighter-zero-blue-sky-edition.json) |
 | Eternal Fury | 119570 | [119570-eternal-fury.json](./119570-eternal-fury.json) |
 | Eternal Gem | 280318 | [280318-eternal-gem.json](./280318-eternal-gem.json) |
+| Eternal Glory | 333339 | [333339-eternal-glory.json](./333339-eternal-glory.json) |
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
 | Eternal Hand | 355184 | [355184-eternal-hand.json](./355184-eternal-hand.json) |
 | Eternal Haunt | 323887 | [323887-eternal-haunt.json](./323887-eternal-haunt.json) |
@@ -5098,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Perk | 142133 | [142133-eternal-perk.json](./142133-eternal-perk.json) |
 | Eternal Pinball RPG | 203746 | [203746-eternal-pinball-rpg.json](./203746-eternal-pinball-rpg.json) |
 | Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
+| Eternal Prowl | 333462 | [333462-eternal-prowl.json](./333462-eternal-prowl.json) |
 | Eternal Puppet | 291394 | [291394-eternal-puppet.json](./291394-eternal-puppet.json) |
 | Eternal Quest | 154266 | [154266-eternal-quest.json](./154266-eternal-quest.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
@@ -6573,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition Agartha: Supporter Pack | 241987 | [241987-expedition-agartha-supporter-pack.json](./241987-expedition-agartha-supporter-pack.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
+| Expedition Chronicles | 333338 | [333338-expedition-chronicles.json](./333338-expedition-chronicles.json) |
 | Expedition Oregon | 111423 | [111423-expedition-oregon.json](./111423-expedition-oregon.json) |
 | Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
 | Expedition Wildlife | 260618 | [260618-expedition-wildlife.json](./260618-expedition-wildlife.json) |
