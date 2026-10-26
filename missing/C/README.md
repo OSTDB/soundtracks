@@ -7797,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Zombie Hunter | 108224 | [108224-city-zombie-hunter.json](./108224-city-zombie-hunter.json) |
 | City Zombie Madness | 272190 | [272190-city-zombie-madness.json](./272190-city-zombie-madness.json) |
 | City Zombies | 116909 | [116909-city-zombies.json](./116909-city-zombies.json) |
+| City-Defence | 360481 | [360481-city-defence.json](./360481-city-defence.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | City: 909 | 165950 | [165950-city-909.json](./165950-city-909.json) |
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
@@ -8256,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean and Bridge | 233425 | [233425-clean-and-bridge.json](./233425-clean-and-bridge.json) |
 | Clean Asia! | 92811 | [92811-clean-asia.json](./92811-clean-asia.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
+| Clean Break | 360469 | [360469-clean-break.json](./360469-clean-break.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
 | Clean Energy Creatures | 223513 | [223513-clean-energy-creatures.json](./223513-clean-energy-creatures.json) |
@@ -16177,6 +16179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cunning Gauntlet 2D | 332305 | [332305-cunning-gauntlet-2d.json](./332305-cunning-gauntlet-2d.json) |
 | Cunsus Kart | 143003 | [143003-cunsus-kart.json](./143003-cunsus-kart.json) |
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
+| Cuomo and the Quest for Gracie Mansion | 360553 | [360553-cuomo-and-the-quest-for-gracie-mansion.json](./360553-cuomo-and-the-quest-for-gracie-mansion.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
 | Cup Critters | 56250 | [56250-cup-critters.json](./56250-cup-critters.json) |
 | Cup Football | 13537 | [13537-cup-football.json](./13537-cup-football.json) |
