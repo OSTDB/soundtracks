@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Way: Legends Pack | 399141 | [399141-make-way-legends-pack.json](./399141-make-way-legends-pack.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
 | Make your Adventure | 135011 | [135011-make-your-adventure.json](./135011-make-your-adventure.json) |
+| Make Your Choice | 338623 | [338623-make-your-choice.json](./338623-make-your-choice.json) |
 | Make Your Country Great Again | 309541 | [309541-make-your-country-great-again.json](./309541-make-your-country-great-again.json) |
 | Make Your Kingdom | 112781 | [112781-make-your-kingdom.json](./112781-make-your-kingdom.json) |
 | Make Your Move | 348322 | [348322-make-your-move.json](./348322-make-your-move.json) |
@@ -6047,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medoka Magik Grls Extended | 159229 | [159229-medoka-magik-grls-extended.json](./159229-medoka-magik-grls-extended.json) |
 | Medulla | 147254 | [147254-medulla.json](./147254-medulla.json) |
 | Medusa | 228006 | [228006-medusa.json](./228006-medusa.json) |
+| Medusa | 338650 | [338650-medusa.json](./338650-medusa.json) |
 | Medusa and Her Lover | 122930 | [122930-medusa-and-her-lover.json](./122930-medusa-and-her-lover.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
 | Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
@@ -13322,6 +13324,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Wilds: Erik Outfit - Autumn Therian | 412291 | [412291-monster-hunter-wilds-erik-outfit-autumn-therian.json](./412291-monster-hunter-wilds-erik-outfit-autumn-therian.json) |
 | Monster Hunter Wilds: Erik Outfit - Crestcollar Seikret Suit | 412289 | [412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json](./412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json) |
 | Monster Hunter Wilds: Premium Deluxe Edition | 334113 | [334113-monster-hunter-wilds-premium-deluxe-edition.json](./334113-monster-hunter-wilds-premium-deluxe-edition.json) |
+| Monster Hunter Wilds: Title Update 1 | 338636 | [338636-monster-hunter-wilds-title-update-1.json](./338636-monster-hunter-wilds-title-update-1.json) |
+| Monster Hunter Wilds: Title Update 2 | 338637 | [338637-monster-hunter-wilds-title-update-2.json](./338637-monster-hunter-wilds-title-update-2.json) |
 | Monster Hunter Wilds: Title Update 4 | 369922 | [369922-monster-hunter-wilds-title-update-4.json](./369922-monster-hunter-wilds-title-update-4.json) |
 | Monster Hunter Wilds: Title Update 5 | 381129 | [381129-monster-hunter-wilds-title-update-5.json](./381129-monster-hunter-wilds-title-update-5.json) |
 | Monster Hunter World: Iceborne - Digital Deluxe Edition | 118278 | [118278-monster-hunter-world-iceborne-digital-deluxe-edition.json](./118278-monster-hunter-world-iceborne-digital-deluxe-edition.json) |
