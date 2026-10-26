@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shell Straight to Hell: X Layers of Fear | 170374 | [170374-one-shell-straight-to-hell-x-layers-of-fear.json](./170374-one-shell-straight-to-hell-x-layers-of-fear.json) |
 | One Shot | 179111 | [179111-one-shot.json](./179111-one-shot.json) |
 | One Shot | 201555 | [201555-one-shot.json](./201555-one-shot.json) |
+| One Shot | 360619 | [360619-one-shot.json](./360619-one-shot.json) |
 | One Shot Arena | 371125 | [371125-one-shot-arena.json](./371125-one-shot-arena.json) |
 | One Shot at Love | 279672 | [279672-one-shot-at-love.json](./279672-one-shot-at-love.json) |
 | One Shot Challenge | 234742 | [234742-one-shot-challenge.json](./234742-one-shot-challenge.json) |
