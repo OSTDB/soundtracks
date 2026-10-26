@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiama | 69813 | [69813-xiama.json](./69813-xiama.json) |
 | Xiān Lǚ Yì Wén Lù | 373697 | [373697-xian-lu-yi-wen-lu.json](./373697-xian-lu-yi-wen-lu.json) |
 | Xián Shàng Huíyīn | 304027 | [304027-xian-shang-huiyin.json](./304027-xian-shang-huiyin.json) |
+| Xián Yán Suìyǔ | 367468 | [367468-xian-yan-suiyu.json](./367468-xian-yan-suiyu.json) |
 | Xiāngjiān | 164251 | [164251-xiangjian.json](./164251-xiangjian.json) |
 | Xiangqi: The Chinese Chess | 266301 | [266301-xiangqi-the-chinese-chess.json](./266301-xiangqi-the-chinese-chess.json) |
 | Xiāngshān 31 Hào | 120938 | [120938-xiangshan-31-hao.json](./120938-xiangshan-31-hao.json) |
