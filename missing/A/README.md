@@ -12866,6 +12866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Associate | 354527 | [354527-associate.json](./354527-associate.json) |
 | Assoluto Racing | 38711 | [38711-assoluto-racing.json](./38711-assoluto-racing.json) |
 | Assortment | 82637 | [82637-assortment.json](./82637-assortment.json) |
+| Assslash! | 375221 | [375221-assslash.json](./375221-assslash.json) |
 | Assualt cube | 178444 | [178444-assualt-cube.json](./178444-assualt-cube.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | ASTA Online | 28255 | [28255-asta-online.json](./28255-asta-online.json) |
