@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
 | Eggconsole Hajya No Fuuin PC-8801 | 371417 | [371417-eggconsole-hajya-no-fuuin-pc-8801.json](./371417-eggconsole-hajya-no-fuuin-pc-8801.json) |
 | Eggconsole Hercules PC-8801mkIISR | 402573 | [402573-eggconsole-hercules-pc-8801mkiisr.json](./402573-eggconsole-hercules-pc-8801mkiisr.json) |
+| Eggconsole Hydlide II MSX | 343717 | [343717-eggconsole-hydlide-ii-msx.json](./343717-eggconsole-hydlide-ii-msx.json) |
 | Eggconsole Hydlide II PC-8801 | 297312 | [297312-eggconsole-hydlide-ii-pc-8801.json](./297312-eggconsole-hydlide-ii-pc-8801.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
 | Eggconsole Kiss of Murder PC-8801 | 375407 | [375407-eggconsole-kiss-of-murder-pc-8801.json](./375407-eggconsole-kiss-of-murder-pc-8801.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape game R00m 09 | 386185 | [386185-escape-game-r00m-09.json](./386185-escape-game-r00m-09.json) |
 | Escape Game R00m 09 | 386791 | [386791-escape-game-r00m-09.json](./386791-escape-game-r00m-09.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
+| Escape Game R00m04 | 343718 | [343718-escape-game-r00m04.json](./343718-escape-game-r00m04.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
 | Escape game R00m08 | 381797 | [381797-escape-game-r00m08.json](./381797-escape-game-r00m08.json) |
 | Escape game R00m11 | 395217 | [395217-escape-game-r00m11.json](./395217-escape-game-r00m11.json) |
@@ -6843,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Watersports | 73179 | [73179-extreme-watersports.json](./73179-extreme-watersports.json) |
 | Extreme Winter Sports | 62244 | [62244-extreme-winter-sports.json](./62244-extreme-winter-sports.json) |
 | Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
+| Extreme! 2-Choice Flag Quiz | 343719 | [343719-extreme-2-choice-flag-quiz.json](./343719-extreme-2-choice-flag-quiz.json) |
 | ExtremeBiking | 90383 | [90383-extremebiking.json](./90383-extremebiking.json) |
 | ExtremeJobs Knight's Assistant | 107107 | [107107-extremejobs-knights-assistant.json](./107107-extremejobs-knights-assistant.json) |
 | Extremely Common Game of Escape | 319895 | [319895-extremely-common-game-of-escape.json](./319895-extremely-common-game-of-escape.json) |
