@@ -3607,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klustar | 93363 | [93363-klustar.json](./93363-klustar.json) |
 | Kly-Kly | 192942 | [192942-kly-kly.json](./192942-kly-kly.json) |
 | Klym | 129427 | [129427-klym.json](./129427-klym.json) |
+| Kmart: Haunted House | 386162 | [386162-kmart-haunted-house.json](./386162-kmart-haunted-house.json) |
 | Kmenta | 109653 | [109653-kmenta.json](./109653-kmenta.json) |
 | Kmf | 184484 | [184484-kmf.json](./184484-kmf.json) |
 | KMG Tournament: Kiss More Girls | 180690 | [180690-kmg-tournament-kiss-more-girls.json](./180690-kmg-tournament-kiss-more-girls.json) |
@@ -4493,11 +4494,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Taean-gun | 336428 | [336428-korean-drone-flying-tour-taean-gun.json](./336428-korean-drone-flying-tour-taean-gun.json) |
 | Korean Drone Flying Tour Tomb of Prince Imyeong | 351222 | [351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json](./351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json) |
 | Korean Drone Flying Tour Uiwang-si | 345973 | [345973-korean-drone-flying-tour-uiwang-si.json](./345973-korean-drone-flying-tour-uiwang-si.json) |
+| Korean Drone Flying Tour Wanju-gun | 386193 | [386193-korean-drone-flying-tour-wanju-gun.json](./386193-korean-drone-flying-tour-wanju-gun.json) |
 | Korean Drone Flying Tour Wonsan-do | 362179 | [362179-korean-drone-flying-tour-wonsan-do.json](./362179-korean-drone-flying-tour-wonsan-do.json) |
 | Korean Drone Flying Tour Woryeongsan | 376223 | [376223-korean-drone-flying-tour-woryeongsan.json](./376223-korean-drone-flying-tour-woryeongsan.json) |
 | Korean Drone Flying Tour Yumyeongsan | 342418 | [342418-korean-drone-flying-tour-yumyeongsan.json](./342418-korean-drone-flying-tour-yumyeongsan.json) |
 | Korean Flower Name Game | 231988 | [231988-korean-flower-name-game.json](./231988-korean-flower-name-game.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
+| Korean Monorail Panorama Line Soisan | 386194 | [386194-korean-monorail-panorama-line-soisan.json](./386194-korean-monorail-panorama-line-soisan.json) |
 | Korean Rail Celesti Express ITX-MAUM Taebaek Line | 374896 | [374896-korean-rail-celesti-express-itx-maum-taebaek-line.json](./374896-korean-rail-celesti-express-itx-maum-taebaek-line.json) |
 | Korean Rail Driving Tour: LRT Busan-Gimhae | 303617 | [303617-korean-rail-driving-tour-lrt-busan-gimhae.json](./303617-korean-rail-driving-tour-lrt-busan-gimhae.json) |
 | Korean Rail Driving Tour: LRT Uijeongbu | 292361 | [292361-korean-rail-driving-tour-lrt-uijeongbu.json](./292361-korean-rail-driving-tour-lrt-uijeongbu.json) |
