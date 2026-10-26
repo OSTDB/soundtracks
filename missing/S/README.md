@@ -3888,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Me | 31974 | [31974-secrets-of-me.json](./31974-secrets-of-me.json) |
 | Secrets of Merveille Castle | 309967 | [309967-secrets-of-merveille-castle.json](./309967-secrets-of-merveille-castle.json) |
 | Secrets of Orion: Sword of Destiny. | 236935 | [236935-secrets-of-orion-sword-of-destiny.json](./236935-secrets-of-orion-sword-of-destiny.json) |
+| Secrets of Paradise: Merge | 341395 | [341395-secrets-of-paradise-merge.json](./341395-secrets-of-paradise-merge.json) |
 | Secrets of Rætikon | 8276 | [8276-secrets-of-r-tikon.json](./8276-secrets-of-r-tikon.json) |
 | Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
@@ -4678,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentenced VR | 152221 | [152221-sentenced-vr.json](./152221-sentenced-vr.json) |
 | Senti Metrica | 423893 | [423893-senti-metrica.json](./423893-senti-metrica.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
+| Sentience | 341388 | [341388-sentience.json](./341388-sentience.json) |
 | Sentient | 2234 | [2234-sentient.json](./2234-sentient.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
@@ -9513,6 +9515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Celebration | 52828 | [52828-singstar-celebration.json](./52828-singstar-celebration.json) |
 | SingStar: Chart Hits | 15192 | [15192-singstar-chart-hits.json](./15192-singstar-chart-hits.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
+| SingStar: Clásicos | 341410 | [341410-singstar-clasicos.json](./341410-singstar-clasicos.json) |
 | SingStar: Deutsch Rock-Pop | 144150 | [144150-singstar-deutsch-rock-pop.json](./144150-singstar-deutsch-rock-pop.json) |
 | SingStar: Deutsch Rock-Pop vol 2 | 144151 | [144151-singstar-deutsch-rock-pop-vol-2.json](./144151-singstar-deutsch-rock-pop-vol-2.json) |
 | SingStar: Die Toten Hosen | 84215 | [84215-singstar-die-toten-hosen.json](./84215-singstar-die-toten-hosen.json) |
@@ -23214,6 +23217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
 | Strawberry Chocolate: Miner 8AD 4SS | 162253 | [162253-strawberry-chocolate-miner-8ad-4ss.json](./162253-strawberry-chocolate-miner-8ad-4ss.json) |
 | Strawberry Jam | 159175 | [159175-strawberry-jam.json](./159175-strawberry-jam.json) |
+| Strawberry Jumping Journey | 341409 | [341409-strawberry-jumping-journey.json](./341409-strawberry-jumping-journey.json) |
 | Strawberry Magic | 186032 | [186032-strawberry-magic.json](./186032-strawberry-magic.json) |
 | Strawberry Nauts | 143386 | [143386-strawberry-nauts.json](./143386-strawberry-nauts.json) |
 | Strawberry Nauts: Complete Limited Edition | 172586 | [172586-strawberry-nauts-complete-limited-edition.json](./172586-strawberry-nauts-complete-limited-edition.json) |
