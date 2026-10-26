@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantis Burn Racing: Elite Class | 170305 | [170305-mantis-burn-racing-elite-class.json](./170305-mantis-burn-racing-elite-class.json) |
 | Mantis Burn Racing: Snowbound Pack | 170306 | [170306-mantis-burn-racing-snowbound-pack.json](./170306-mantis-burn-racing-snowbound-pack.json) |
 | Mantis Clicker | 414787 | [414787-mantis-clicker.json](./414787-mantis-clicker.json) |
+| Mantle | 368461 | [368461-mantle.json](./368461-mantle.json) |
 | Mantle Crater | 386429 | [386429-mantle-crater.json](./386429-mantle-crater.json) |
 | Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
@@ -12143,6 +12144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modularity | 395260 | [395260-modularity.json](./395260-modularity.json) |
 | Modulate | 61733 | [61733-modulate.json](./61733-modulate.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
+| Module Miner | 368586 | [368586-module-miner.json](./368586-module-miner.json) |
 | Module TD. Sci Fi Tower Defense | 103350 | [103350-module-td-sci-fi-tower-defense.json](./103350-module-td-sci-fi-tower-defense.json) |
 | Modulea | 373823 | [373823-modulea.json](./373823-modulea.json) |
 | Modulo | 142774 | [142774-modulo.json](./142774-modulo.json) |
