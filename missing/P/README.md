@@ -6608,6 +6608,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
 | Pixel Combat: Zombie Shooter | 377270 | [377270-pixel-combat-zombie-shooter.json](./377270-pixel-combat-zombie-shooter.json) |
 | Pixel Cross Stitch Color by Number - Winter Pack | 334566 | [334566-pixel-cross-stitch-color-by-number-winter-pack.json](./334566-pixel-cross-stitch-color-by-number-winter-pack.json) |
+| Pixel Cross Stitch Color by Number: Cute Pack | 374094 | [374094-pixel-cross-stitch-color-by-number-cute-pack.json](./374094-pixel-cross-stitch-color-by-number-cute-pack.json) |
+| Pixel Cross Stitch Color by Number: Cute Pack 2 | 374096 | [374096-pixel-cross-stitch-color-by-number-cute-pack-2.json](./374096-pixel-cross-stitch-color-by-number-cute-pack-2.json) |
+| Pixel Cross Stitch Color by Number: Landscapes Pack 5 | 374095 | [374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json](./374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json) |
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Miniatures Pack | 377602 | [377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json](./377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Pack 3 | 377606 | [377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json](./377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json) |
@@ -7946,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlateUp! | 151353 | [151353-plateup.json](./151353-plateup.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
 | Platform | 316717 | [316717-platform.json](./316717-platform.json) |
+| Platform 0 | 374017 | [374017-platform-0.json](./374017-platform-0.json) |
 | Platform 10 | 271384 | [271384-platform-10.json](./271384-platform-10.json) |
 | Platform 4 | 326257 | [326257-platform-4.json](./326257-platform-4.json) |
 | Platform 5 Dungeons | 337128 | [337128-platform-5-dungeons.json](./337128-platform-5-dungeons.json) |
@@ -12795,6 +12799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profi Girls | 247959 | [247959-profi-girls.json](./247959-profi-girls.json) |
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profiles of the Forgotten | 123419 | [123419-profiles-of-the-forgotten.json](./123419-profiles-of-the-forgotten.json) |
+| Profit or Peril | 374028 | [374028-profit-or-peril.json](./374028-profit-or-peril.json) |
 | Profitania | 85755 | [85755-profitania.json](./85755-profitania.json) |
 | Profiteer | 311858 | [311858-profiteer.json](./311858-profiteer.json) |
 | PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator | 397201 | [397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json](./397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json) |
@@ -14766,6 +14771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuer | 115577 | [115577-pursuer.json](./115577-pursuer.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit | 110850 | [110850-pursuit.json](./110850-pursuit.json) |
+| Pursuit | 374026 | [374026-pursuit.json](./374026-pursuit.json) |
 | Pursuit Force: Extreme Justice | 23055 | [23055-pursuit-force-extreme-justice.json](./23055-pursuit-force-extreme-justice.json) |
 | Pursuit Force: Extreme Justice | 299391 | [299391-pursuit-force-extreme-justice.json](./299391-pursuit-force-extreme-justice.json) |
 | Pursuit of Justice | 70315 | [70315-pursuit-of-justice.json](./70315-pursuit-of-justice.json) |
