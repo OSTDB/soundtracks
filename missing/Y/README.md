@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
 | You Are Here | 114169 | [114169-you-are-here.json](./114169-you-are-here.json) |
 | You Are Here | 309621 | [309621-you-are-here.json](./309621-you-are-here.json) |
+| You Are Just a Blue Switch | 364545 | [364545-you-are-just-a-blue-switch.json](./364545-you-are-just-a-blue-switch.json) |
 | You Are Kaiju | 148256 | [148256-you-are-kaiju.json](./148256-you-are-kaiju.json) |
 | You Are King | 59247 | [59247-you-are-king.json](./59247-you-are-king.json) |
 | You Are Lost | 181158 | [181158-you-are-lost.json](./181158-you-are-lost.json) |
