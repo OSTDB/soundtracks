@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| O | 336452 | [336452-o.json](./336452-o.json) |
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
 | O Empire! Ward off Thy Rot | 399039 | [399039-o-empire-ward-off-thy-rot.json](./399039-o-empire-ward-off-thy-rot.json) |
@@ -395,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanspirit Danish | 57102 | [57102-oceanspirit-danish.json](./57102-oceanspirit-danish.json) |
 | Oceanspirit Dennis: Mighty Pirate | 327231 | [327231-oceanspirit-dennis-mighty-pirate.json](./327231-oceanspirit-dennis-mighty-pirate.json) |
 | Oceanum Mortis | 120810 | [120810-oceanum-mortis.json](./120810-oceanum-mortis.json) |
+| Oceanview Mall | 336450 | [336450-oceanview-mall.json](./336450-oceanview-mall.json) |
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Ocha no Ma Battle | 299030 | [299030-ocha-no-ma-battle.json](./299030-ocha-no-ma-battle.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
@@ -4129,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Kaoru | 238193 | [238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json](./238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Minato | 238192 | [238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json](./238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Shusei | 238191 | [238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json](./238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json) |
+| Our War: Firepower Suppression | 336760 | [336760-our-war-firepower-suppression.json](./336760-our-war-firepower-suppression.json) |
 | Our War: The Strongest Shield | 301842 | [301842-our-war-the-strongest-shield.json](./301842-our-war-the-strongest-shield.json) |
 | Our Way | 104673 | [104673-our-way.json](./104673-our-way.json) |
 | Our Way | 169977 | [169977-our-way.json](./169977-our-way.json) |
