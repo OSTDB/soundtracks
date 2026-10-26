@@ -9309,6 +9309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Lines: Magicians' Chase 2 | 300775 | [300775-blood-lines-magicians-chase-2.json](./300775-blood-lines-magicians-chase-2.json) |
 | Blood Lust | 309724 | [309724-blood-lust.json](./309724-blood-lust.json) |
 | Blood Magic | 121569 | [121569-blood-magic.json](./121569-blood-magic.json) |
+| Blood Mall | 344852 | [344852-blood-mall.json](./344852-blood-mall.json) |
 | Blood Mall: Part II | 380553 | [380553-blood-mall-part-ii.json](./380553-blood-mall-part-ii.json) |
 | Blood Maniac | 125265 | [125265-blood-maniac.json](./125265-blood-maniac.json) |
 | Blood Memery | 114948 | [114948-blood-memery.json](./114948-blood-memery.json) |
@@ -10749,6 +10750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away on Barrels | 240839 | [240839-bombs-away-on-barrels.json](./240839-bombs-away-on-barrels.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
+| Bombshells: Hell’s Belles | 344821 | [344821-bombshells-hell-s-belles.json](./344821-bombshells-hell-s-belles.json) |
 | Bombslinger | 32572 | [32572-bombslinger.json](./32572-bombslinger.json) |
 | BombSquad | 17449 | [17449-bombsquad.json](./17449-bombsquad.json) |
 | Bombsquad: Defuse the Bomb | 208216 | [208216-bombsquad-defuse-the-bomb.json](./208216-bombsquad-defuse-the-bomb.json) |
