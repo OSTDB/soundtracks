@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obake Nante Kowakunai JK vs. Gakkou Meikyuu | 397945 | [397945-obake-nante-kowakunai-jk-vs-gakkou-meikyuu.json](./397945-obake-nante-kowakunai-jk-vs-gakkou-meikyuu.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obake no Q-Taro: Wan-wan Panic | 215139 | [215139-obake-no-q-taro-wan-wan-panic.json](./215139-obake-no-q-taro-wan-wan-panic.json) |
+| Obakeidoro 2: Chase & Seek | 338107 | [338107-obakeidoro-2-chase-and-seek.json](./338107-obakeidoro-2-chase-and-seek.json) |
 | Obakenori | 329042 | [329042-obakenori.json](./329042-obakenori.json) |
 | Obama Alien Defence | 282109 | [282109-obama-alien-defence.json](./282109-obama-alien-defence.json) |
 | Obama Alien Defense | 326739 | [326739-obama-alien-defense.json](./326739-obama-alien-defense.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Space: Idle Profits | 55977 | [55977-office-space-idle-profits.json](./55977-office-space-idle-profits.json) |
 | Office Strike War: Multiplayer Battle Royale | 166285 | [166285-office-strike-war-multiplayer-battle-royale.json](./166285-office-strike-war-multiplayer-battle-royale.json) |
 | Office Suicide Saga | 47074 | [47074-office-suicide-saga.json](./47074-office-suicide-saga.json) |
+| Office Survival Simulator | 338415 | [338415-office-survival-simulator.json](./338415-office-survival-simulator.json) |
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Office Wars | 354819 | [354819-office-wars.json](./354819-office-wars.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
@@ -4875,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overturn | 68584 | [68584-overturn.json](./68584-overturn.json) |
 | Overturn: Mecha Wars | 71945 | [71945-overturn-mecha-wars.json](./71945-overturn-mecha-wars.json) |
 | Overtype | 391015 | [391015-overtype.json](./391015-overtype.json) |
+| Overvåkerne | 338108 | [338108-overvakerne.json](./338108-overvakerne.json) |
 | Overview | 81946 | [81946-overview.json](./81946-overview.json) |
 | Overview: Rain Echoes | 325063 | [325063-overview-rain-echoes.json](./325063-overview-rain-echoes.json) |
 | Overvoid | 419333 | [419333-overvoid.json](./419333-overvoid.json) |
