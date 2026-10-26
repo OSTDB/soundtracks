@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
 | Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls | 127133 | [127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json](./127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json) |
+| Sam 0 | 360620 | [360620-sam-0.json](./360620-sam-0.json) |
 | Sam Mallard: The Case of the Missing Swan | 203218 | [203218-sam-mallard-the-case-of-the-missing-swan.json](./203218-sam-mallard-the-case-of-the-missing-swan.json) |
 | Sam Power: Firefighter | 122742 | [122742-sam-power-firefighter.json](./122742-sam-power-firefighter.json) |
 | Sam Power: Footballer | 122741 | [122741-sam-power-footballer.json](./122741-sam-power-footballer.json) |
@@ -8347,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Qajar Pack | 371025 | [371025-sid-meiers-civilization-vii-qajar-pack.json](./371025-sid-meiers-civilization-vii-qajar-pack.json) |
 | Sid Meier's Civilization VII: Republic of Pirates Pack | 376176 | [376176-sid-meiers-civilization-vii-republic-of-pirates-pack.json](./376176-sid-meiers-civilization-vii-republic-of-pirates-pack.json) |
 | Sid Meier's Civilization VII: Right to Rule Collection | 360541 | [360541-sid-meiers-civilization-vii-right-to-rule-collection.json](./360541-sid-meiers-civilization-vii-right-to-rule-collection.json) |
+| Sid Meier's Civilization VII: Right to Rule Collection - Wonder Pack | 360542 | [360542-sid-meiers-civilization-vii-right-to-rule-collection-wonder-pack.json](./360542-sid-meiers-civilization-vii-right-to-rule-collection-wonder-pack.json) |
 | Sid Meier's Civilization VII: Sayyida al Hurra Pack | 376796 | [376796-sid-meiers-civilization-vii-sayyida-al-hurra-pack.json](./376796-sid-meiers-civilization-vii-sayyida-al-hurra-pack.json) |
 | Sid Meier's Civilization VII: Sengoku Japan Pack | 411599 | [411599-sid-meiers-civilization-vii-sengoku-japan-pack.json](./411599-sid-meiers-civilization-vii-sengoku-japan-pack.json) |
 | Sid Meier's Civilization VII: Silla Pack | 371027 | [371027-sid-meiers-civilization-vii-silla-pack.json](./371027-sid-meiers-civilization-vii-silla-pack.json) |
@@ -8622,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence of Elven Mage Rin | 372626 | [372626-silence-of-elven-mage-rin.json](./372626-silence-of-elven-mage-rin.json) |
 | Silence of the Sleep | 17819 | [17819-silence-of-the-sleep.json](./17819-silence-of-the-sleep.json) |
 | Silence of the Universe | 183263 | [183263-silence-of-the-universe.json](./183263-silence-of-the-universe.json) |
+| Silence Under the Dome | 360551 | [360551-silence-under-the-dome.json](./360551-silence-under-the-dome.json) |
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
@@ -23276,6 +23279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Dreams | 166497 | [166497-street-dreams.json](./166497-street-dreams.json) |
 | Street Dude: Homeless Empire | 245373 | [245373-street-dude-homeless-empire.json](./245373-street-dude-homeless-empire.json) |
 | Street Dunk | 264320 | [264320-street-dunk.json](./264320-street-dunk.json) |
+| Street Errands | 360624 | [360624-street-errands.json](./360624-street-errands.json) |
 | Street Fight Club Simulator | 373837 | [373837-street-fight-club-simulator.json](./373837-street-fight-club-simulator.json) |
 | Street Fighter | 6930 | [6930-street-fighter.json](./6930-street-fighter.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
