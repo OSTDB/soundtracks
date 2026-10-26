@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean World: Eden Crafters Prologue | 405664 | [405664-ocean-world-eden-crafters-prologue.json](./405664-ocean-world-eden-crafters-prologue.json) |
 | Ocean's Crabellum | 74372 | [74372-oceans-crabellum.json](./74372-oceans-crabellum.json) |
 | Ocean's Treasures | 111520 | [111520-oceans-treasures.json](./111520-oceans-treasures.json) |
+| Ocean's Venus | 365032 | [365032-oceans-venus.json](./365032-oceans-venus.json) |
 | Oceanarium | 142125 | [142125-oceanarium.json](./142125-oceanarium.json) |
 | Oceanarium Fishing | 390067 | [390067-oceanarium-fishing.json](./390067-oceanarium-fishing.json) |
 | Oceanarium World | 291549 | [291549-oceanarium-world.json](./291549-oceanarium-world.json) |
