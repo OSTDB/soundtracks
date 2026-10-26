@@ -3801,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perquisite Strata X | 246885 | [246885-perquisite-strata-x.json](./246885-perquisite-strata-x.json) |
 | Perraw - FPS Clone War | 34309 | [34309-perraw-fps-clone-war.json](./34309-perraw-fps-clone-war.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
+| Perry Cooking American Hamburger | 365024 | [365024-perry-cooking-american-hamburger.json](./365024-perry-cooking-american-hamburger.json) |
 | Perry Rhodan: Myth of the Illochim | 50389 | [50389-perry-rhodan-myth-of-the-illochim.json](./50389-perry-rhodan-myth-of-the-illochim.json) |
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
