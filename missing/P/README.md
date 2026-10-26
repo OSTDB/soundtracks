@@ -13375,6 +13375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Neon | 330134 | [330134-project-neon.json](./330134-project-neon.json) |
 | Project Neos | 406177 | [406177-project-neos.json](./406177-project-neos.json) |
 | Project Neptune | 55097 | [55097-project-neptune.json](./55097-project-neptune.json) |
+| Project Nevada | 349760 | [349760-project-nevada.json](./349760-project-nevada.json) |
 | Project Night | 26949 | [26949-project-night.json](./26949-project-night.json) |
 | Project Nightmares Case 36: Henrietta Kedward | 104568 | [104568-project-nightmares-case-36-henrietta-kedward.json](./104568-project-nightmares-case-36-henrietta-kedward.json) |
 | Project Nihilum: Zero | 341553 | [341553-project-nihilum-zero.json](./341553-project-nihilum-zero.json) |
