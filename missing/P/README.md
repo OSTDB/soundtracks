@@ -8908,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Auto Chess | 307245 | [307245-pokemon-auto-chess.json](./307245-pokemon-auto-chess.json) |
 | Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
 | Pokémon Azure Horizons | 252922 | [252922-pokemon-azure-horizons.json](./252922-pokemon-azure-horizons.json) |
+| Pokemon Azure Platinum | 361670 | [361670-pokemon-azure-platinum.json](./361670-pokemon-azure-platinum.json) |
 | Pokémon Bank | 57344 | [57344-pokemon-bank.json](./57344-pokemon-bank.json) |
 | Pokémon Battle Card e+ Emerald | 355881 | [355881-pokemon-battle-card-e-emerald.json](./355881-pokemon-battle-card-e-emerald.json) |
 | Pokémon Battle Card e+ Emerald: 19-A001 - Karate-ou Kousei | 355724 | [355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json](./355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json) |
