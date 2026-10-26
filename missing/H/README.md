@@ -3386,9 +3386,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
 | Hell Let Loose: False Front | 403961 | [403961-hell-let-loose-false-front.json](./403961-hell-let-loose-false-front.json) |
+| Hell Let Loose: Hot Drop | 371220 | [371220-hell-let-loose-hot-drop.json](./371220-hell-let-loose-hot-drop.json) |
 | Hell Let Loose: Lethal Tide | 168794 | [168794-hell-let-loose-lethal-tide.json](./168794-hell-let-loose-lethal-tide.json) |
 | Hell Let Loose: Long Range Desert Group | 372250 | [372250-hell-let-loose-long-range-desert-group.json](./372250-hell-let-loose-long-range-desert-group.json) |
 | Hell Let Loose: Luftwaffe Eagles | 272194 | [272194-hell-let-loose-luftwaffe-eagles.json](./272194-hell-let-loose-luftwaffe-eagles.json) |
+| Hell Let Loose: Near Miss | 371221 | [371221-hell-let-loose-near-miss.json](./371221-hell-let-loose-near-miss.json) |
 | Hell Let Loose: Oak Leaf | 305547 | [305547-hell-let-loose-oak-leaf.json](./305547-hell-let-loose-oak-leaf.json) |
 | Hell Let Loose: Operation Lüttich Units | 331899 | [331899-hell-let-loose-operation-luttich-units.json](./331899-hell-let-loose-operation-luttich-units.json) |
 | Hell Let Loose: Operation Overlord Units | 366854 | [366854-hell-let-loose-operation-overlord-units.json](./366854-hell-let-loose-operation-overlord-units.json) |
@@ -3816,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
 | Hellraid | 3250 | [3250-hellraid.json](./3250-hellraid.json) |
 | HellRazor64 | 226352 | [226352-hellrazor64.json](./226352-hellrazor64.json) |
+| Hellreaper | 371214 | [371214-hellreaper.json](./371214-hellreaper.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
@@ -6391,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
 | Highway Patrol Simulator | 258451 | [258451-highway-patrol-simulator.json](./258451-highway-patrol-simulator.json) |
+| Highway Patrol Simulator | 371212 | [371212-highway-patrol-simulator.json](./371212-highway-patrol-simulator.json) |
 | Highway Pursuit | 231318 | [231318-highway-pursuit.json](./231318-highway-pursuit.json) |
 | Highway Racer | 300727 | [300727-highway-racer.json](./300727-highway-racer.json) |
 | Highway Racer 2 | 393547 | [393547-highway-racer-2.json](./393547-highway-racer-2.json) |
