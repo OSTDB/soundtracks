@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Boxes | 73749 | [73749-magic-boxes.json](./73749-magic-boxes.json) |
 | Magic Boy | 12675 | [12675-magic-boy.json](./12675-magic-boy.json) |
 | Magic Brick Wars | 317379 | [317379-magic-brick-wars.json](./317379-magic-brick-wars.json) |
+| Magic Brush | 363351 | [363351-magic-brush.json](./363351-magic-brush.json) |
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic Bubble | 246455 | [246455-magic-bubble.json](./246455-magic-bubble.json) |
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
@@ -3863,6 +3864,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes: 031 - Area Mod: Wastes of Warfare | 363471 | [363471-marvel-heroes-031-area-mod-wastes-of-warfare.json](./363471-marvel-heroes-031-area-mod-wastes-of-warfare.json) |
 | Marvel Heroes: 032 - Area Mod: Last Chance Bog | 363472 | [363472-marvel-heroes-032-area-mod-last-chance-bog.json](./363472-marvel-heroes-032-area-mod-last-chance-bog.json) |
 | Marvel Heroes: 033 - Area Mod: Tunnels of Terror | 363473 | [363473-marvel-heroes-033-area-mod-tunnels-of-terror.json](./363473-marvel-heroes-033-area-mod-tunnels-of-terror.json) |
+| Marvel Heroes: 034 - Area Mod: Lightning Ridge | 363474 | [363474-marvel-heroes-034-area-mod-lightning-ridge.json](./363474-marvel-heroes-034-area-mod-lightning-ridge.json) |
+| Marvel Heroes: 035 - Area Mod: Biotronic | 363475 | [363475-marvel-heroes-035-area-mod-biotronic.json](./363475-marvel-heroes-035-area-mod-biotronic.json) |
+| Marvel Heroes: 036 - Atmosphere Mod: Mystery | 363476 | [363476-marvel-heroes-036-atmosphere-mod-mystery.json](./363476-marvel-heroes-036-atmosphere-mod-mystery.json) |
 | Marvel Heroes: 037 - Atmosphere Mod: Witching Hour | 363477 | [363477-marvel-heroes-037-atmosphere-mod-witching-hour.json](./363477-marvel-heroes-037-atmosphere-mod-witching-hour.json) |
 | Marvel Heroes: 038 - Atmosphere Mod: Thunderhead | 363479 | [363479-marvel-heroes-038-atmosphere-mod-thunderhead.json](./363479-marvel-heroes-038-atmosphere-mod-thunderhead.json) |
 | Marvel Heroes: 039 - Atmosphere Mod: Thick Soup | 363480 | [363480-marvel-heroes-039-atmosphere-mod-thick-soup.json](./363480-marvel-heroes-039-atmosphere-mod-thick-soup.json) |
