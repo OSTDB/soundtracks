@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Yin-Yang Ping-Pong | 309883 | [309883-yin-yang-ping-pong.json](./309883-yin-yang-ping-pong.json) |
 | Yin-Yang Ping-Pong: Supporter Pack | 312029 | [312029-yin-yang-ping-pong-supporter-pack.json](./312029-yin-yang-ping-pong-supporter-pack.json) |
+| Yindy | 357150 | [357150-yindy.json](./357150-yindy.json) |
 | Yìnéng Chóngzǔ | 373704 | [373704-yineng-chongzu.json](./373704-yineng-chongzu.json) |
 | Yìnéng Dūshì | 368464 | [368464-yineng-dushi.json](./368464-yineng-dushi.json) |
 | Yīngxióng Qúnxiá Zhuàn | 120088 | [120088-yingxiong-qunxia-zhuan.json](./120088-yingxiong-qunxia-zhuan.json) |
