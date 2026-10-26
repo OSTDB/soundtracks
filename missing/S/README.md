@@ -7339,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro to Kuro no Alice: Twilight Line | 136471 | [136471-shiro-to-kuro-no-alice-twilight-line.json](./136471-shiro-to-kuro-no-alice-twilight-line.json) |
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
 | Shirobara Gakuen Satsujin Jiken | 281251 | [281251-shirobara-gakuen-satsujin-jiken.json](./281251-shirobara-gakuen-satsujin-jiken.json) |
+| Shirobara Renzoku Satsujin Jiken | 353184 | [353184-shirobara-renzoku-satsujin-jiken.json](./353184-shirobara-renzoku-satsujin-jiken.json) |
 | Shirogane no Cal to Soukuu no Joou | 408266 | [408266-shirogane-no-cal-to-soukuu-no-joou.json](./408266-shirogane-no-cal-to-soukuu-no-joou.json) |
 | Shirogane no Cal to Soukuu no Joou Genteiban | 408268 | [408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json](./408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json) |
 | Shirogane no Torikago: The Angels with Strange Wings | 77921 | [77921-shirogane-no-torikago-the-angels-with-strange-wings.json](./77921-shirogane-no-torikago-the-angels-with-strange-wings.json) |
@@ -30047,6 +30048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
 | Synth Riders + Experiences | 353654 | [353654-synth-riders-experiences.json](./353654-synth-riders-experiences.json) |
 | Synth Riders: 80s Mixtape - Side A | 356903 | [356903-synth-riders-80s-mixtape-side-a.json](./356903-synth-riders-80s-mixtape-side-a.json) |
+| Synth Riders: 80s Mixtape - Side B | 353182 | [353182-synth-riders-80s-mixtape-side-b.json](./353182-synth-riders-80s-mixtape-side-b.json) |
 | Synth Riders: 80s Mixtape Side B Music Pack | 382176 | [382176-synth-riders-80s-mixtape-side-b-music-pack.json](./382176-synth-riders-80s-mixtape-side-b-music-pack.json) |
 | Synth Riders: 90s Rock Music Pack | 353648 | [353648-synth-riders-90s-rock-music-pack.json](./353648-synth-riders-90s-rock-music-pack.json) |
 | Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
@@ -30054,6 +30056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
 | Synth Riders: Balduin, Wolfgang Lohr - "Magic Man" | 288233 | [288233-synth-riders-balduin-wolfgang-lohr-magic-man.json](./288233-synth-riders-balduin-wolfgang-lohr-magic-man.json) |
 | Synth Riders: Blur - "Song 2" | 352397 | [352397-synth-riders-blur-song-2.json](./352397-synth-riders-blur-song-2.json) |
+| Synth Riders: Bruno Mars - "24K Magic" | 353177 | [353177-synth-riders-bruno-mars-24k-magic.json](./353177-synth-riders-bruno-mars-24k-magic.json) |
 | Synth Riders: Bruno Mars - "Runaway Baby" | 356079 | [356079-synth-riders-bruno-mars-runaway-baby.json](./356079-synth-riders-bruno-mars-runaway-baby.json) |
 | Synth Riders: Caravan Palace - "Lone Digger" | 356191 | [356191-synth-riders-caravan-palace-lone-digger.json](./356191-synth-riders-caravan-palace-lone-digger.json) |
 | Synth Riders: Caravan Palace - "Tattoos" | 356183 | [356183-synth-riders-caravan-palace-tattoos.json](./356183-synth-riders-caravan-palace-tattoos.json) |
@@ -30070,6 +30073,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Devo - "Whip It" | 298700 | [298700-synth-riders-devo-whip-it.json](./298700-synth-riders-devo-whip-it.json) |
 | Synth Riders: Electro Swing Essentials | 356829 | [356829-synth-riders-electro-swing-essentials.json](./356829-synth-riders-electro-swing-essentials.json) |
 | Synth Riders: Electro Swing Essentials 2 | 356902 | [356902-synth-riders-electro-swing-essentials-2.json](./356902-synth-riders-electro-swing-essentials-2.json) |
+| Synth Riders: Gorillaz - "Dare" | 353174 | [353174-synth-riders-gorillaz-dare.json](./353174-synth-riders-gorillaz-dare.json) |
+| Synth Riders: Gorillaz - "Feel Good Inc" | 353175 | [353175-synth-riders-gorillaz-feel-good-inc.json](./353175-synth-riders-gorillaz-feel-good-inc.json) |
+| Synth Riders: Gorillaz - "New Gold" | 353176 | [353176-synth-riders-gorillaz-new-gold.json](./353176-synth-riders-gorillaz-new-gold.json) |
+| Synth Riders: Gorillaz - "On Melancholy Hill" | 353173 | [353173-synth-riders-gorillaz-on-melancholy-hill.json](./353173-synth-riders-gorillaz-on-melancholy-hill.json) |
+| Synth Riders: Gorillaz Music Pack | 353181 | [353181-synth-riders-gorillaz-music-pack.json](./353181-synth-riders-gorillaz-music-pack.json) |
 | Synth Riders: Gorillaz Music Pack | 382179 | [382179-synth-riders-gorillaz-music-pack.json](./382179-synth-riders-gorillaz-music-pack.json) |
 | Synth Riders: Groovin' Essentials | 356180 | [356180-synth-riders-groovin-essentials.json](./356180-synth-riders-groovin-essentials.json) |
 | Synth Riders: Infected Mushroom - "Becoming Insane" | 364548 | [364548-synth-riders-infected-mushroom-becoming-insane.json](./364548-synth-riders-infected-mushroom-becoming-insane.json) |
@@ -30126,6 +30134,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: The Electric Swing Circus - "Empires" | 356901 | [356901-synth-riders-the-electric-swing-circus-empires.json](./356901-synth-riders-the-electric-swing-circus-empires.json) |
 | Synth Riders: The Midnight - "Days of Thunder" | 356192 | [356192-synth-riders-the-midnight-days-of-thunder.json](./356192-synth-riders-the-midnight-days-of-thunder.json) |
 | Synth Riders: The Midnight - "Sunset" | 356081 | [356081-synth-riders-the-midnight-sunset.json](./356081-synth-riders-the-midnight-sunset.json) |
+| Synth Riders: The Offspring - "Come Out and Play" | 353178 | [353178-synth-riders-the-offspring-come-out-and-play.json](./353178-synth-riders-the-offspring-come-out-and-play.json) |
+| Synth Riders: The Offspring - "Self-Esteem" | 353180 | [353180-synth-riders-the-offspring-self-esteem.json](./353180-synth-riders-the-offspring-self-esteem.json) |
 | Synth Riders: The Presidents of the United States of America - "Lump" | 353647 | [353647-synth-riders-the-presidents-of-the-united-states-of-america-lump.json](./353647-synth-riders-the-presidents-of-the-united-states-of-america-lump.json) |
 | Synth Riders: The Smile - "Zero Sum" | 364552 | [364552-synth-riders-the-smile-zero-sum.json](./364552-synth-riders-the-smile-zero-sum.json) |
 | Synth Riders: Tokyo Machine - "Turbo" | 356171 | [356171-synth-riders-tokyo-machine-turbo.json](./356171-synth-riders-tokyo-machine-turbo.json) |
