@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacant Sky Vol. I: Contention | 83916 | [83916-vacant-sky-vol-i-contention.json](./83916-vacant-sky-vol-i-contention.json) |
 | Vacant's Mine | 289918 | [289918-vacants-mine.json](./289918-vacants-mine.json) |
 | Vacation Adventures : Park Ranger - Hidden Object Adventure Game | 88092 | [88092-vacation-adventures-park-ranger-hidden-object-adventure-game.json](./88092-vacation-adventures-park-ranger-hidden-object-adventure-game.json) |
+| Vacation Adventures Cruise Director 2 | 368467 | [368467-vacation-adventures-cruise-director-2.json](./368467-vacation-adventures-cruise-director-2.json) |
 | Vacation Adventures: Cruise Director | 114853 | [114853-vacation-adventures-cruise-director.json](./114853-vacation-adventures-cruise-director.json) |
 | Vacation Adventures: Cruise Director 3 | 193219 | [193219-vacation-adventures-cruise-director-3.json](./193219-vacation-adventures-cruise-director-3.json) |
 | Vacation Adventures: Cruise Director 4 | 193220 | [193220-vacation-adventures-cruise-director-4.json](./193220-vacation-adventures-cruise-director-4.json) |
