@@ -10366,6 +10366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CombiPark Tonde Mat | 289738 | [289738-combipark-tonde-mat.json](./289738-combipark-tonde-mat.json) |
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
 | Combo Bombo | 245982 | [245982-combo-bombo.json](./245982-combo-bombo.json) |
+| Combo Critters | 381060 | [381060-combo-critters.json](./381060-combo-critters.json) |
 | Combo Critters: Battle Checkers | 346263 | [346263-combo-critters-battle-checkers.json](./346263-combo-critters-battle-checkers.json) |
 | Combo Fishing | 340206 | [340206-combo-fishing.json](./340206-combo-fishing.json) |
 | Combo Haven | 287212 | [287212-combo-haven.json](./287212-combo-haven.json) |
@@ -12029,6 +12030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
 | Corgi's Travel | 300537 | [300537-corgis-travel.json](./300537-corgis-travel.json) |
+| CorgiSpace | 381084 | [381084-corgispace.json](./381084-corgispace.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
 | Coria and the Sunken City | 141621 | [141621-coria-and-the-sunken-city.json](./141621-coria-and-the-sunken-city.json) |
 | Corid | 416339 | [416339-corid.json](./416339-corid.json) |
