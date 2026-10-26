@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
 | Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
 | Inaccessible World | 86441 | [86441-inaccessible-world.json](./86441-inaccessible-world.json) |
+| Inago Rage | 335797 | [335797-inago-rage.json](./335797-inago-rage.json) |
 | Inaka Gurashi: Minami no Shima no Monogatari | 56385 | [56385-inaka-gurashi-minami-no-shima-no-monogatari.json](./56385-inaka-gurashi-minami-no-shima-no-monogatari.json) |
 | Inamina | 273895 | [273895-inamina.json](./273895-inamina.json) |
 | Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
