@@ -5948,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball: Our Church and Halloween RPG - Machine #2 | 213631 | [213631-pinball-our-church-and-halloween-rpg-machine-2.json](./213631-pinball-our-church-and-halloween-rpg-machine-2.json) |
 | Pinball: Our Church and Halloween RPG - Machine #3 | 213632 | [213632-pinball-our-church-and-halloween-rpg-machine-3.json](./213632-pinball-our-church-and-halloween-rpg-machine-3.json) |
 | Pinballer | 195972 | [195972-pinballer.json](./195972-pinballer.json) |
+| Pinballers | 351545 | [351545-pinballers.json](./351545-pinballers.json) |
 | Pinballistik | 52654 | [52654-pinballistik.json](./52654-pinballistik.json) |
 | Pinballistik Alien Tycoon Bundle | 118858 | [118858-pinballistik-alien-tycoon-bundle.json](./118858-pinballistik-alien-tycoon-bundle.json) |
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
@@ -7814,6 +7815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetris | 366127 | [366127-planetris.json](./366127-planetris.json) |
 | Planets 2048 | 375443 | [375443-planets-2048.json](./375443-planets-2048.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
+| Planets Ambrosia | 351538 | [351538-planets-ambrosia.json](./351538-planets-ambrosia.json) |
 | Planets of War | 37426 | [37426-planets-of-war.json](./37426-planets-of-war.json) |
 | Planets Under Attack | 16408 | [16408-planets-under-attack.json](./16408-planets-under-attack.json) |
 | Planets: The life of normalcy has ended! | 124678 | [124678-planets-the-life-of-normalcy-has-ended.json](./124678-planets-the-life-of-normalcy-has-ended.json) |
@@ -9171,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Channel-e: Line Art Card - Jirachi | 354533 | [354533-pokemon-channel-e-line-art-card-jirachi.json](./354533-pokemon-channel-e-line-art-card-jirachi.json) |
 | Pokémon Channel-e: Line Art Card - The Kyogre Constellation | 354534 | [354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json](./354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json) |
 | Pokémon Channel-e: Line Art Card - The Pikachu Star | 354532 | [354532-pokemon-channel-e-line-art-card-the-pikachu-star.json](./354532-pokemon-channel-e-line-art-card-the-pikachu-star.json) |
+| Pokémon Channel-e: Paint Pattern Card - Poké A La Card | 351674 | [351674-pokemon-channel-e-paint-pattern-card-poke-a-la-card.json](./351674-pokemon-channel-e-paint-pattern-card-poke-a-la-card.json) |
 | Pokémon Chasm Crosser | 55011 | [55011-pokemon-chasm-crosser.json](./55011-pokemon-chasm-crosser.json) |
 | Pokémon Chess | 249112 | [249112-pokemon-chess.json](./249112-pokemon-chess.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
