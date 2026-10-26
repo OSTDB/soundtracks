@@ -4217,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of the Precursors | 133756 | [133756-remnants-of-the-precursors.json](./133756-remnants-of-the-precursors.json) |
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
+| Remonstrator | 334019 | [334019-remonstrator.json](./334019-remonstrator.json) |
 | Remont Soyuz | 181172 | [181172-remont-soyuz.json](./181172-remont-soyuz.json) |
 | Remoove | 67909 | [67909-remoove.json](./67909-remoove.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
