@@ -3889,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helltower | 116225 | [116225-helltower.json](./116225-helltower.json) |
 | HellTown | 61602 | [61602-helltown.json](./61602-helltown.json) |
 | Helltown: Revival Update | 307822 | [307822-helltown-revival-update.json](./307822-helltown-revival-update.json) |
+| Helluva Brawl | 341387 | [341387-helluva-brawl.json](./341387-helluva-brawl.json) |
 | Helluva Brawl | 342257 | [342257-helluva-brawl.json](./342257-helluva-brawl.json) |
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
