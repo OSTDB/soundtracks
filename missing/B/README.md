@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12744,6 +12745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
 | Breaker | 134344 | [134344-breaker.json](./134344-breaker.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
+| Breaker Hearts | 350917 | [350917-breaker-hearts.json](./350917-breaker-hearts.json) |
 | Breaker Initiating | 327033 | [327033-breaker-initiating.json](./327033-breaker-initiating.json) |
 | Breaker of Fatalism | 348739 | [348739-breaker-of-fatalism.json](./348739-breaker-of-fatalism.json) |
 | Breaker's World | 199131 | [199131-breakers-world.json](./199131-breakers-world.json) |
@@ -14574,6 +14576,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark | 351181 | [351181-bulwark.json](./351181-bulwark.json) |
 | Bulwark Evolution: Falconeer Chronicles | 214486 | [214486-bulwark-evolution-falconeer-chronicles.json](./214486-bulwark-evolution-falconeer-chronicles.json) |
 | Bulwark Evolution: Falconeer Chronicles - Dreadnot Day One | 294008 | [294008-bulwark-evolution-falconeer-chronicles-dreadnot-day-one.json](./294008-bulwark-evolution-falconeer-chronicles-dreadnot-day-one.json) |
+| Bulwark Evolution: Falconeer Chronicles - GunBoat | 350915 | [350915-bulwark-evolution-falconeer-chronicles-gunboat.json](./350915-bulwark-evolution-falconeer-chronicles-gunboat.json) |
+| Bulwark Evolution: Falconeer Chronicles - Mad Lector | 350925 | [350925-bulwark-evolution-falconeer-chronicles-mad-lector.json](./350925-bulwark-evolution-falconeer-chronicles-mad-lector.json) |
 | Bulwark Evolution: Falconeer Chronicles - Mongres Trader Pack | 351177 | [351177-bulwark-evolution-falconeer-chronicles-mongres-trader-pack.json](./351177-bulwark-evolution-falconeer-chronicles-mongres-trader-pack.json) |
 | Bulwark Evolution: Falconeer Chronicles - Verne Bannerless Pack | 351176 | [351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json](./351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json) |
 | Bulwark: Falconeer Chronicles - Berracutta | 351178 | [351178-bulwark-falconeer-chronicles-berracutta.json](./351178-bulwark-falconeer-chronicles-berracutta.json) |
