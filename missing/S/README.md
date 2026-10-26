@@ -6657,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
 | Sherlock | 25857 | [25857-sherlock.json](./25857-sherlock.json) |
+| Sherlock | 353927 | [353927-sherlock.json](./353927-sherlock.json) |
 | Sherlock and Watson: A Study in Scarlet | 226624 | [226624-sherlock-and-watson-a-study-in-scarlet.json](./226624-sherlock-and-watson-a-study-in-scarlet.json) |
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
 | Sherlock Holmes and The Hound of The Baskervilles | 16357 | [16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json](./16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json) |
@@ -9269,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Series for Nintendo 3DS Vol. 1: The Mahjong | 82133 | [82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json](./82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json) |
 | Simple Series for Nintendo 3DS Vol. 2: The Misshitsu kara no Dasshutsu Archives 1 | 400330 | [400330-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-1.json](./400330-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-1.json) |
 | Simple Series for Nintendo 3DS Vol. 2: The Misshitsu kara no Dasshutsu Archives 2 | 400329 | [400329-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-2.json](./400329-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-2.json) |
+| Simple Series for Nintendo Switch Vol.4: The Misshitsu kara no Dasshutsu - Yo ni mo Kimyou na 4-tsu no Hanashi | 353938 | [353938-simple-series-for-nintendo-switch-vol-4-the-misshitsu-kara-no-dasshutsu-yo-ni-mo-kimyou-na-4-tsu-no-hanashi.json](./353938-simple-series-for-nintendo-switch-vol-4-the-misshitsu-kara-no-dasshutsu-yo-ni-mo-kimyou-na-4-tsu-no-hanashi.json) |
 | Simple Series G4U Vol. 1: The Mahjong | 77865 | [77865-simple-series-g4u-vol-1-the-mahjong.json](./77865-simple-series-g4u-vol-1-the-mahjong.json) |
 | Simple Series Vol. 1: The Block Kuzushi Neo | 409003 | [409003-simple-series-vol-1-the-block-kuzushi-neo.json](./409003-simple-series-vol-1-the-block-kuzushi-neo.json) |
 | Simple Series Vol. 2: The Number Puzzle neo | 409004 | [409004-simple-series-vol-2-the-number-puzzle-neo.json](./409004-simple-series-vol-2-the-number-puzzle-neo.json) |
@@ -17873,6 +17875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
 | SPi's Nightmare | 294059 | [294059-spis-nightmare.json](./294059-spis-nightmare.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
+| Spica Adventure | 353943 | [353943-spica-adventure.json](./353943-spica-adventure.json) |
 | Spica Adventure | 60051 | [60051-spica-adventure.json](./60051-spica-adventure.json) |
 | Spice and Wolf VR | 105419 | [105419-spice-and-wolf-vr.json](./105419-spice-and-wolf-vr.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
@@ -19717,6 +19720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
 | StairJump | 78658 | [78658-stairjump.json](./78658-stairjump.json) |
 | Stairs | 18111 | [18111-stairs.json](./18111-stairs.json) |
+| Stairs | 353752 | [353752-stairs.json](./353752-stairs.json) |
 | Stairs | 88902 | [88902-stairs.json](./88902-stairs.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
@@ -22095,6 +22099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
 | Stellarune | 272221 | [272221-stellarune.json](./272221-stellarune.json) |
 | StellaSpella | 151447 | [151447-stellaspella.json](./151447-stellaspella.json) |
+| Stellations | 353937 | [353937-stellations.json](./353937-stellations.json) |
 | Stellaxy | 129454 | [129454-stellaxy.json](./129454-stellaxy.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
@@ -22644,6 +22649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneveil | 377591 | [377591-stoneveil.json](./377591-stoneveil.json) |
 | Stoneville Manor | 366262 | [366262-stoneville-manor.json](./366262-stoneville-manor.json) |
 | Stonies | 86637 | [86637-stonies.json](./86637-stonies.json) |
+| Stonk Simulator | 353923 | [353923-stonk-simulator.json](./353923-stonk-simulator.json) |
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
 | Stony Road | 103352 | [103352-stony-road.json](./103352-stony-road.json) |
 | Stoopid Puzzle Game | 163528 | [163528-stoopid-puzzle-game.json](./163528-stoopid-puzzle-game.json) |
