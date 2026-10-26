@@ -3421,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Tails Gets Bored | 228460 | [228460-when-tails-gets-bored.json](./228460-when-tails-gets-bored.json) |
 | When Tails Gets Bored: Special Edition | 330795 | [330795-when-tails-gets-bored-special-edition.json](./330795-when-tails-gets-bored-special-edition.json) |
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
+| When The Bell Goes Silent | 356517 | [356517-when-the-bell-goes-silent.json](./356517-when-the-bell-goes-silent.json) |
 | When the Devil Takes Hold | 235799 | [235799-when-the-devil-takes-hold.json](./235799-when-the-devil-takes-hold.json) |
 | When the Embers Wake | 381581 | [381581-when-the-embers-wake.json](./381581-when-the-embers-wake.json) |
 | When the Light Dies | 258000 | [258000-when-the-light-dies.json](./258000-when-the-light-dies.json) |
