@@ -3269,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | WhatRogue: Exile Land | 319760 | [319760-whatrogue-exile-land.json](./319760-whatrogue-exile-land.json) |
 | Whatsamusic | 228599 | [228599-whatsamusic.json](./228599-whatsamusic.json) |
+| Whatta Frogs? | 381648 | [381648-whatta-frogs.json](./381648-whatta-frogs.json) |
 | Whatta Horrible Year | 182695 | [182695-whatta-horrible-year.json](./182695-whatta-horrible-year.json) |
 | WHC: The Game About Witch Hunter's Moving Castle You've Been So Long Waiting For | 87984 | [87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json](./87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json) |
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
@@ -3391,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Tails Gets Bored: Special Edition | 330795 | [330795-when-tails-gets-bored-special-edition.json](./330795-when-tails-gets-bored-special-edition.json) |
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
 | When the Devil Takes Hold | 235799 | [235799-when-the-devil-takes-hold.json](./235799-when-the-devil-takes-hold.json) |
+| When the Embers Wake | 381581 | [381581-when-the-embers-wake.json](./381581-when-the-embers-wake.json) |
 | When the Light Dies | 258000 | [258000-when-the-light-dies.json](./258000-when-the-light-dies.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Moon Falls, We Speak | 390677 | [390677-when-the-moon-falls-we-speak.json](./390677-when-the-moon-falls-we-speak.json) |
@@ -6501,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordWhizzle Pop | 100692 | [100692-wordwhizzle-pop.json](./100692-wordwhizzle-pop.json) |
 | WordWhizzle Search | 52881 | [52881-wordwhizzle-search.json](./52881-wordwhizzle-search.json) |
 | Wordy Online | 391016 | [391016-wordy-online.json](./391016-wordy-online.json) |
+| Wordy Weapon | 381666 | [381666-wordy-weapon.json](./381666-wordy-weapon.json) |
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
 | Wordz | 79790 | [79790-wordz.json](./79790-wordz.json) |
 | Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
