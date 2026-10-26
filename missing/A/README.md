@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
 | Agent of Strange | 355023 | [355023-agent-of-strange.json](./355023-agent-of-strange.json) |
 | Agent of Veil | 346595 | [346595-agent-of-veil.json](./346595-agent-of-veil.json) |
+| Agent P DoofenDash | 339491 | [339491-agent-p-doofendash.json](./339491-agent-p-doofendash.json) |
 | Agent P Strikes Back | 354954 | [354954-agent-p-strikes-back.json](./354954-agent-p-strikes-back.json) |
 | Agent P: Rebel Spy | 143328 | [143328-agent-p-rebel-spy.json](./143328-agent-p-rebel-spy.json) |
 | Agent Panda | 357801 | [357801-agent-panda.json](./357801-agent-panda.json) |
