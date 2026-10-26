@@ -3200,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Kokkuri-san says will come true | 376878 | [376878-what-kokkuri-san-says-will-come-true.json](./376878-what-kokkuri-san-says-will-come-true.json) |
 | What Lies Beneath | 269684 | [269684-what-lies-beneath.json](./269684-what-lies-beneath.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
+| What Lies Frozen | 342560 | [342560-what-lies-frozen.json](./342560-what-lies-frozen.json) |
 | What Lies in the Multiverse: Deluxe Edition | 193736 | [193736-what-lies-in-the-multiverse-deluxe-edition.json](./193736-what-lies-in-the-multiverse-deluxe-edition.json) |
 | What Lies Under | 235699 | [235699-what-lies-under.json](./235699-what-lies-under.json) |
 | What Lies Within the Ice | 393256 | [393256-what-lies-within-the-ice.json](./393256-what-lies-within-the-ice.json) |
