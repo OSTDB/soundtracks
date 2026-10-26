@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
 | I hate it here | 184864 | [184864-i-hate-it-here.json](./184864-i-hate-it-here.json) |
 | I Hate My Legs | 315212 | [315212-i-hate-my-legs.json](./315212-i-hate-my-legs.json) |
+| I Hate Robots | 347596 | [347596-i-hate-robots.json](./347596-i-hate-robots.json) |
 | I Hate Running Backwards | 68843 | [68843-i-hate-running-backwards.json](./68843-i-hate-running-backwards.json) |
 | I Hate Santa | 30462 | [30462-i-hate-santa.json](./30462-i-hate-santa.json) |
 | I Hate Snake | 402243 | [402243-i-hate-snake.json](./402243-i-hate-snake.json) |
