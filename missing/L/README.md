@@ -4168,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Doll House | 293472 | [293472-lil-doll-house.json](./293472-lil-doll-house.json) |
 | Lil Dungeon Wizard | 181166 | [181166-lil-dungeon-wizard.json](./181166-lil-dungeon-wizard.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
+| Lil Gator Game: Gator of the Year Edition | 385125 | [385125-lil-gator-game-gator-of-the-year-edition.json](./385125-lil-gator-game-gator-of-the-year-edition.json) |
 | Lil Ghost Garden | 128426 | [128426-lil-ghost-garden.json](./128426-lil-ghost-garden.json) |
 | Lil Guy Resort | 380405 | [380405-lil-guy-resort.json](./380405-lil-guy-resort.json) |
 | Lil Guys | 322992 | [322992-lil-guys.json](./322992-lil-guys.json) |
