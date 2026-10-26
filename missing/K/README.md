@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor: Ash Harding Character Pack | 162718 | [162718-killing-floor-ash-harding-character-pack.json](./162718-killing-floor-ash-harding-character-pack.json) |
 | Killing Floor: Calamity | 51176 | [51176-killing-floor-calamity.json](./51176-killing-floor-calamity.json) |
 | Killing Floor: Camo Weapon Pack | 162729 | [162729-killing-floor-camo-weapon-pack.json](./162729-killing-floor-camo-weapon-pack.json) |
+| Killing Floor: Character Pack Bundle | 334620 | [334620-killing-floor-character-pack-bundle.json](./334620-killing-floor-character-pack-bundle.json) |
 | Killing Floor: Community Weapon Pack | 162726 | [162726-killing-floor-community-weapon-pack.json](./162726-killing-floor-community-weapon-pack.json) |
 | Killing Floor: Community Weapons Pack 3 - Us Versus Them Total Conflict Pack | 162727 | [162727-killing-floor-community-weapons-pack-3-us-versus-them-total-conflict-pack.json](./162727-killing-floor-community-weapons-pack-3-us-versus-them-total-conflict-pack.json) |
 | Killing Floor: Double Feature | 116387 | [116387-killing-floor-double-feature.json](./116387-killing-floor-double-feature.json) |
@@ -2283,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor: The Chickenator Pack | 162731 | [162731-killing-floor-the-chickenator-pack.json](./162731-killing-floor-the-chickenator-pack.json) |
 | Killing Floor: Toy Master | 17912 | [17912-killing-floor-toy-master.json](./17912-killing-floor-toy-master.json) |
 | Killing Floor: Urban Nightmare Character Pack | 162719 | [162719-killing-floor-urban-nightmare-character-pack.json](./162719-killing-floor-urban-nightmare-character-pack.json) |
+| Killing Floor: Weapons Bundle | 334621 | [334621-killing-floor-weapons-bundle.json](./334621-killing-floor-weapons-bundle.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Machine | 355234 | [355234-killing-machine.json](./355234-killing-machine.json) |
 | Killing Machine Loves Slime Prince | 300694 | [300694-killing-machine-loves-slime-prince.json](./300694-killing-machine-loves-slime-prince.json) |
