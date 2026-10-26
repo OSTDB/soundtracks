@@ -8719,6 +8719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guided Fate Paradox | 19802 | [19802-the-guided-fate-paradox.json](./19802-the-guided-fate-paradox.json) |
 | The Guides | 96263 | [96263-the-guides.json](./96263-the-guides.json) |
 | The Guiding Spirit | 391890 | [391890-the-guiding-spirit.json](./391890-the-guiding-spirit.json) |
+| The Guild 1 Remake: Europa 1410 | 358761 | [358761-the-guild-1-remake-europa-1410.json](./358761-the-guild-1-remake-europa-1410.json) |
 | The Guild 2 | 6258 | [6258-the-guild-2.json](./6258-the-guild-2.json) |
 | The Guild 2: Platinium Edition | 53742 | [53742-the-guild-2-platinium-edition.json](./53742-the-guild-2-platinium-edition.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
@@ -25103,6 +25104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trash Sorter Simulator | 365042 | [365042-trash-sorter-simulator.json](./365042-trash-sorter-simulator.json) |
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
+| Trash Tag | 358757 | [358757-trash-tag.json](./358757-trash-tag.json) |
 | Trash Taste: The Boys Order Pizza | 214957 | [214957-trash-taste-the-boys-order-pizza.json](./214957-trash-taste-the-boys-order-pizza.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
 | Trash Time | 115155 | [115155-trash-time.json](./115155-trash-time.json) |
@@ -28050,6 +28052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant's Blessing | 164888 | [164888-tyrants-blessing.json](./164888-tyrants-blessing.json) |
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
 | Tyrant's Realm | 177253 | [177253-tyrants-realm.json](./177253-tyrants-realm.json) |
+| Tyrant's Realm: Forbidden Fortune | 358739 | [358739-tyrants-realm-forbidden-fortune.json](./358739-tyrants-realm-forbidden-fortune.json) |
 | Tyrants Must Fall | 406753 | [406753-tyrants-must-fall.json](./406753-tyrants-must-fall.json) |
 | Tyrants Rafting | 405875 | [405875-tyrants-rafting.json](./405875-tyrants-rafting.json) |
 | Tyrants: Fight Through Time | 12183 | [12183-tyrants-fight-through-time.json](./12183-tyrants-fight-through-time.json) |
