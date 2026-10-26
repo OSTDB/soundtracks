@@ -8187,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Together: Starter Pack - Bear Girl | 334618 | [334618-play-together-starter-pack-bear-girl.json](./334618-play-together-starter-pack-bear-girl.json) |
 | Play Together: Starter Pack - Chic Black | 334617 | [334617-play-together-starter-pack-chic-black.json](./334617-play-together-starter-pack-chic-black.json) |
 | Play Together: Starter Pack - Chic White | 334619 | [334619-play-together-starter-pack-chic-white.json](./334619-play-together-starter-pack-chic-white.json) |
+| Play Twice | 333461 | [333461-play-twice.json](./333461-play-twice.json) |
 | Play with Balloon | 29624 | [29624-play-with-balloon.json](./29624-play-with-balloon.json) |
 | Play with Birds | 84721 | [84721-play-with-birds.json](./84721-play-with-birds.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
@@ -9537,6 +9538,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
 | Pokémon PureBlue | 233600 | [233600-pokemon-pureblue.json](./233600-pokemon-pureblue.json) |
+| Pokémon PureGreen | 333902 | [333902-pokemon-puregreen.json](./333902-pokemon-puregreen.json) |
+| Pokémon PureRed | 333901 | [333901-pokemon-purered.json](./333901-pokemon-purered.json) |
 | Pokémon Puzzle Challenge | 49857 | [49857-pokemon-puzzle-challenge.json](./49857-pokemon-puzzle-challenge.json) |
 | Pokémon Puzzle Collection | 66028 | [66028-pokemon-puzzle-collection.json](./66028-pokemon-puzzle-collection.json) |
 | Pokémon Puzzle Collection Vol. 2 | 66027 | [66027-pokemon-puzzle-collection-vol-2.json](./66027-pokemon-puzzle-collection-vol-2.json) |
@@ -9555,6 +9558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon RE:Call | 314714 | [314714-pokemon-re-call.json](./314714-pokemon-re-call.json) |
 | Pokémon Re:Union | 270629 | [270629-pokemon-re-union.json](./270629-pokemon-re-union.json) |
 | Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
+| Pokémon Recharged Emerald | 333471 | [333471-pokemon-recharged-emerald.json](./333471-pokemon-recharged-emerald.json) |
 | Pokémon Recharged Pink | 352245 | [352245-pokemon-recharged-pink.json](./352245-pokemon-recharged-pink.json) |
 | Pokémon Recharged Yellow | 308400 | [308400-pokemon-recharged-yellow.json](./308400-pokemon-recharged-yellow.json) |
 | Pokémon Recordkeepers | 376582 | [376582-pokemon-recordkeepers.json](./376582-pokemon-recordkeepers.json) |
@@ -10179,6 +10183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Soldiers | 120811 | [120811-poly-soldiers.json](./120811-poly-soldiers.json) |
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
+| Poly TD | 333342 | [333342-poly-td.json](./333342-poly-td.json) |
 | Poly Tower | 347712 | [347712-poly-tower.json](./347712-poly-tower.json) |
 | Poly Towns | 33588 | [33588-poly-towns.json](./33588-poly-towns.json) |
 | Poly Truck | 406181 | [406181-poly-truck.json](./406181-poly-truck.json) |
