@@ -3635,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa: Empire of Dreams | 6492 | [6492-klonoa-empire-of-dreams.json](./6492-klonoa-empire-of-dreams.json) |
 | Klorb | 348030 | [348030-klorb.json](./348030-klorb.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
+| Klostyn | 340865 | [340865-klostyn.json](./340865-klostyn.json) |
 | Klotski Unblock | 90828 | [90828-klotski-unblock.json](./90828-klotski-unblock.json) |
 | Klotski+ | 221707 | [221707-klotski.json](./221707-klotski.json) |
 | Klotzen! Panzer Battles | 88066 | [88066-klotzen-panzer-battles.json](./88066-klotzen-panzer-battles.json) |
