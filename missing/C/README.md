@@ -6402,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose Wisely | 75583 | [75583-choose-wisely.json](./75583-choose-wisely.json) |
 | Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
+| Choose Your Own Nightmare: How I Became a Freak | 371199 | [371199-choose-your-own-nightmare-how-i-became-a-freak.json](./371199-choose-your-own-nightmare-how-i-became-a-freak.json) |
 | Choose Your Own Nightmare: Night of the Werewolf | 144032 | [144032-choose-your-own-nightmare-night-of-the-werewolf.json](./144032-choose-your-own-nightmare-night-of-the-werewolf.json) |
 | Choose Your Paul! | 406139 | [406139-choose-your-paul.json](./406139-choose-your-paul.json) |
 | Choose your Poison | 195106 | [195106-choose-your-poison.json](./195106-choose-your-poison.json) |
@@ -9925,7 +9926,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | Color-A-Cube | 330266 | [330266-color-a-cube.json](./330266-color-a-cube.json) |
 | Color-A-Cube x Gorn | 360771 | [360771-color-a-cube-x-gorn.json](./360771-color-a-cube-x-gorn.json) |
+| Color-A-Cube: Ancient Rome Pack #1 | 371288 | [371288-color-a-cube-ancient-rome-pack-1.json](./371288-color-a-cube-ancient-rome-pack-1.json) |
+| Color-A-Cube: Aquatic Pack #1 | 371289 | [371289-color-a-cube-aquatic-pack-1.json](./371289-color-a-cube-aquatic-pack-1.json) |
+| Color-A-Cube: Fantasy Pack #1 | 371294 | [371294-color-a-cube-fantasy-pack-1.json](./371294-color-a-cube-fantasy-pack-1.json) |
+| Color-A-Cube: Fantasy Pack #2 | 371292 | [371292-color-a-cube-fantasy-pack-2.json](./371292-color-a-cube-fantasy-pack-2.json) |
+| Color-A-Cube: Farm Animal Pack #2 | 371293 | [371293-color-a-cube-farm-animal-pack-2.json](./371293-color-a-cube-farm-animal-pack-2.json) |
 | Color-A-Cube: Flora Pack | 400738 | [400738-color-a-cube-flora-pack.json](./400738-color-a-cube-flora-pack.json) |
+| Color-A-Cube: Horror Pack | 371281 | [371281-color-a-cube-horror-pack.json](./371281-color-a-cube-horror-pack.json) |
+| Color-A-Cube: On The Move Pack #1 | 371287 | [371287-color-a-cube-on-the-move-pack-1.json](./371287-color-a-cube-on-the-move-pack-1.json) |
+| Color-A-Cube: Scifi Pack #1 | 371290 | [371290-color-a-cube-scifi-pack-1.json](./371290-color-a-cube-scifi-pack-1.json) |
+| Color-A-Cube: Scifi Pack #2 | 371291 | [371291-color-a-cube-scifi-pack-2.json](./371291-color-a-cube-scifi-pack-2.json) |
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
