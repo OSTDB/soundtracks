@@ -3058,7 +3058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7043,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Heroes BF 92 Extra Version | 267574 | [267574-american-heroes-bf-92-extra-version.json](./267574-american-heroes-bf-92-extra-version.json) |
 | American Horseshoes | 39376 | [39376-american-horseshoes.json](./39376-american-horseshoes.json) |
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
+| American Idol: Double Dance Showdown | 378150 | [378150-american-idol-double-dance-showdown.json](./378150-american-idol-double-dance-showdown.json) |
 | American Idol: The Search For A Superstar | 63636 | [63636-american-idol-the-search-for-a-superstar.json](./63636-american-idol-the-search-for-a-superstar.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Lowriders | 52394 | [52394-american-lowriders.json](./52394-american-lowriders.json) |
@@ -11526,6 +11526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armalyte: The Final Run | 14266 | [14266-armalyte-the-final-run.json](./14266-armalyte-the-final-run.json) |
 | Armament 2028 | 99380 | [99380-armament-2028.json](./99380-armament-2028.json) |
+| Armatus | 378225 | [378225-armatus.json](./378225-armatus.json) |
 | Armchair Commander | 267865 | [267865-armchair-commander.json](./267865-armchair-commander.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armechgeddon | 238623 | [238623-armechgeddon.json](./238623-armechgeddon.json) |
@@ -11763,6 +11764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arny's Battle Carribeans | 416725 | [416725-arnys-battle-carribeans.json](./416725-arnys-battle-carribeans.json) |
 | Aro | 96529 | [96529-aro.json](./96529-aro.json) |
 | Aro & Elmi | 146716 | [146716-aro-and-elmi.json](./146716-aro-and-elmi.json) |
+| Aro: Tales in the Dome | 378248 | [378248-aro-tales-in-the-dome.json](./378248-aro-tales-in-the-dome.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
 | Aroma | 226231 | [226231-aroma.json](./226231-aroma.json) |
 | Aroma Button | 380110 | [380110-aroma-button.json](./380110-aroma-button.json) |
@@ -13155,6 +13157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astraverse | 163794 | [163794-astraverse.json](./163794-astraverse.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
 | AstraX | 201512 | [201512-astrax.json](./201512-astrax.json) |
+| Astray: Zero | 378246 | [378246-astray-zero.json](./378246-astray-zero.json) |
 | Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
 | Astreia's Gift | 403054 | [403054-astreias-gift.json](./403054-astreias-gift.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
