@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: The Mis-Edventures | 248473 | [248473-ed-edd-n-eddy-the-mis-edventures.json](./248473-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
+| Ed, Edd, n' Eddy: Night of the Living Ed | 364540 | [364540-ed-edd-n-eddy-night-of-the-living-ed.json](./364540-ed-edd-n-eddy-night-of-the-living-ed.json) |
 | Ed's world story | 246850 | [246850-eds-world-story.json](./246850-eds-world-story.json) |
 | Edain Mod | 356216 | [356216-edain-mod.json](./356216-edain-mod.json) |
 | Edd Skeleton Game | 334004 | [334004-edd-skeleton-game.json](./334004-edd-skeleton-game.json) |
@@ -6713,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Air Snowboarding 3D | 316496 | [316496-extreme-air-snowboarding-3d.json](./316496-extreme-air-snowboarding-3d.json) |
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
 | Extreme Assault | 50302 | [50302-extreme-assault.json](./50302-extreme-assault.json) |
+| Extreme Auto Fishing | 364426 | [364426-extreme-auto-fishing.json](./364426-extreme-auto-fishing.json) |
 | Extreme Bankikki | 204247 | [204247-extreme-bankikki.json](./204247-extreme-bankikki.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Bikers | 234473 | [234473-extreme-bikers.json](./234473-extreme-bikers.json) |
