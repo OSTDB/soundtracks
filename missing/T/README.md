@@ -15102,6 +15102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Troll Sides | 317097 | [317097-the-troll-sides.json](./317097-the-troll-sides.json) |
 | The Trolley | 134996 | [134996-the-trolley.json](./134996-the-trolley.json) |
 | The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
+| The Trolling Adventure | 384008 | [384008-the-trolling-adventure.json](./384008-the-trolling-adventure.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
 | The Truck Game | 114250 | [114250-the-truck-game.json](./114250-the-truck-game.json) |
@@ -21358,6 +21359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
 | Topang | 143947 | [143947-topang.json](./143947-topang.json) |
 | Topatoi: Spinning Through the Worlds | 52981 | [52981-topatoi-spinning-through-the-worlds.json](./52981-topatoi-spinning-through-the-worlds.json) |
+| TopDownFarter | 384003 | [384003-topdownfarter.json](./384003-topdownfarter.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Tophet | 336508 | [336508-tophet.json](./336508-tophet.json) |
 | Topia World Builder | 87876 | [87876-topia-world-builder.json](./87876-topia-world-builder.json) |
@@ -26865,6 +26867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel VR | 125699 | [125699-tunnel-vr.json](./125699-tunnel-vr.json) |
 | Tunnelborn | 419149 | [419149-tunnelborn.json](./419149-tunnelborn.json) |
 | Tunneler | 14439 | [14439-tunneler.json](./14439-tunneler.json) |
+| Tunnelers | 383996 | [383996-tunnelers.json](./383996-tunnelers.json) |
 | Tunnelers | 63212 | [63212-tunnelers.json](./63212-tunnelers.json) |
 | Tunnels & Trolls | 40920 | [40920-tunnels-and-trolls.json](./40920-tunnels-and-trolls.json) |
 | Tunnels & Trolls: Crusaders of Khazan | 73874 | [73874-tunnels-and-trolls-crusaders-of-khazan.json](./73874-tunnels-and-trolls-crusaders-of-khazan.json) |
@@ -27676,6 +27679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Thrones | 72288 | [72288-two-thrones.json](./72288-two-thrones.json) |
 | Two Tigers | 25667 | [25667-two-tigers.json](./25667-two-tigers.json) |
 | Two Till Midnight | 122169 | [122169-two-till-midnight.json](./122169-two-till-midnight.json) |
+| Two Tired to Mountain | 384019 | [384019-two-tired-to-mountain.json](./384019-two-tired-to-mountain.json) |
 | Two To Match | 277717 | [277717-two-to-match.json](./277717-two-to-match.json) |
 | Two Torn Towers | 279717 | [279717-two-torn-towers.json](./279717-two-torn-towers.json) |
 | Two Types Pollos | 400527 | [400527-two-types-pollos.json](./400527-two-types-pollos.json) |
