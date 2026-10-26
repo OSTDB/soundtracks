@@ -8790,6 +8790,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling for Romance | 273954 | [273954-rolling-for-romance.json](./273954-rolling-for-romance.json) |
 | Rolling Gunner | 119445 | [119445-rolling-gunner.json](./119445-rolling-gunner.json) |
 | Rolling Gunner Over Power | 142846 | [142846-rolling-gunner-over-power.json](./142846-rolling-gunner-over-power.json) |
+| Rolling Hare | 359904 | [359904-rolling-hare.json](./359904-rolling-hare.json) |
+| Rolling Hare 2 | 359905 | [359905-rolling-hare-2.json](./359905-rolling-hare-2.json) |
 | Rolling Hero | 404338 | [404338-rolling-hero.json](./404338-rolling-hero.json) |
 | Rolling Hills: Make Sushi, Make Friends | 129621 | [129621-rolling-hills-make-sushi-make-friends.json](./129621-rolling-hills-make-sushi-make-friends.json) |
 | Rolling in the Maze | 286498 | [286498-rolling-in-the-maze.json](./286498-rolling-in-the-maze.json) |
