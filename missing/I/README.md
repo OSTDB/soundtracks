@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If I Still Had Tomorrow | 417422 | [417422-if-i-still-had-tomorrow.json](./417422-if-i-still-had-tomorrow.json) |
 | If I Were in a Sealed Room With a Girl, I'd Probably XXX | 93530 | [93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json](./93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json) |
 | If It Moves, Shoot It! | 71589 | [71589-if-it-moves-shoot-it.json](./71589-if-it-moves-shoot-it.json) |
+| If Letters Had Pants, Would They Wear Them Like This? What About Numbers? What If They Had Small Shovels and They Dug Stuff Up to Put in a Museum? | 342925 | [342925-if-letters-had-pants-would-they-wear-them-like-this-what-about-numbers-what-if-they-had-small-shovels-and-they-dug-stuff-up-to-put-in-a-museum.json](./342925-if-letters-had-pants-would-they-wear-them-like-this-what-about-numbers-what-if-they-had-small-shovels-and-they-dug-stuff-up-to-put-in-a-museum.json) |
 | If Monks Had Macs... | 366833 | [366833-if-monks-had-macs.json](./366833-if-monks-had-macs.json) |
 | If My Heart Had Wings | 196874 | [196874-if-my-heart-had-wings.json](./196874-if-my-heart-had-wings.json) |
 | If My Heart Had Wings: Flight Diary | 110756 | [110756-if-my-heart-had-wings-flight-diary.json](./110756-if-my-heart-had-wings-flight-diary.json) |
