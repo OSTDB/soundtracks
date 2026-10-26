@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Wizard | 101773 | [101773-idle-wizard.json](./101773-idle-wizard.json) |
 | Idle World | 392449 | [392449-idle-world.json](./392449-idle-world.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
+| Idle Zombie Wave: Survivors | 345381 | [345381-idle-zombie-wave-survivors.json](./345381-idle-zombie-wave-survivors.json) |
 | Idle Zombies Clicker | 213529 | [213529-idle-zombies-clicker.json](./213529-idle-zombies-clicker.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
 | Idle Zoo Tycoon | 220814 | [220814-idle-zoo-tycoon.json](./220814-idle-zoo-tycoon.json) |
@@ -3710,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanio | 390375 | [390375-insanio.json](./390375-insanio.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insaniquarium! Deluxe | 8323 | [8323-insaniquarium-deluxe.json](./8323-insaniquarium-deluxe.json) |
+| Insanitation | 346527 | [346527-insanitation.json](./346527-insanitation.json) |
 | Insanity | 206574 | [206574-insanity.json](./206574-insanity.json) |
 | Insanity | 281350 | [281350-insanity.json](./281350-insanity.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
@@ -3736,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect | 152139 | [152139-insect.json](./152139-insect.json) |
 | Insect | 392232 | [392232-insect.json](./392232-insect.json) |
 | Insect Adventure | 140373 | [140373-insect-adventure.json](./140373-insect-adventure.json) |
+| Insect Dude! Underground Roots | 346531 | [346531-insect-dude-underground-roots.json](./346531-insect-dude-underground-roots.json) |
 | Insect Empires | 333428 | [333428-insect-empires.json](./333428-insect-empires.json) |
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
