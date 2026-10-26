@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuminati Wars MLG Edition | 397735 | [397735-illuminati-wars-mlg-edition.json](./397735-illuminati-wars-mlg-edition.json) |
 | Illumination | 292940 | [292940-illumination.json](./292940-illumination.json) |
 | Illumination Laser | 280690 | [280690-illumination-laser.json](./280690-illumination-laser.json) |
+| Illumination of Mansion | 374571 | [374571-illumination-of-mansion.json](./374571-illumination-of-mansion.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
 | Illumizzle: Finding the Lost Light | 368248 | [368248-illumizzle-finding-the-lost-light.json](./368248-illumizzle-finding-the-lost-light.json) |
