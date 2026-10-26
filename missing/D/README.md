@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deaduction | 276683 | [276683-deaduction.json](./276683-deaduction.json) |
 | Deadvale | 395804 | [395804-deadvale.json](./395804-deadvale.json) |
 | Deadville | 277772 | [277772-deadville.json](./277772-deadville.json) |
+| Deadwalk: The Last War | 344868 | [344868-deadwalk-the-last-war.json](./344868-deadwalk-the-last-war.json) |
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
 | Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
 | Deadwave | 402845 | [402845-deadwave.json](./402845-deadwave.json) |
@@ -3685,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death by Hype | 307882 | [307882-death-by-hype.json](./307882-death-by-hype.json) |
 | Death by Refund | 216670 | [216670-death-by-refund.json](./216670-death-by-refund.json) |
+| Death by Scrolling | 345153 | [345153-death-by-scrolling.json](./345153-death-by-scrolling.json) |
 | Death By Taxes | 414473 | [414473-death-by-taxes.json](./414473-death-by-taxes.json) |
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Carnival | 130677 | [130677-death-carnival.json](./130677-death-carnival.json) |
@@ -10784,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Jamboree | 54451 | [54451-doodle-jamboree.json](./54451-doodle-jamboree.json) |
 | Doodle Jump 2 | 186583 | [186583-doodle-jump-2.json](./186583-doodle-jump-2.json) |
 | Doodle Jump Adventures | 59204 | [59204-doodle-jump-adventures.json](./59204-doodle-jump-adventures.json) |
+| Doodle Jump DC Super Heroes | 344828 | [344828-doodle-jump-dc-super-heroes.json](./344828-doodle-jump-dc-super-heroes.json) |
 | Doodle Jump Easter Special | 96605 | [96605-doodle-jump-easter-special.json](./96605-doodle-jump-easter-special.json) |
 | Doodle Jump HD | 90809 | [90809-doodle-jump-hd.json](./90809-doodle-jump-hd.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
@@ -11408,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Date: Yuri Visual Novel | 349118 | [349118-double-date-yuri-visual-novel.json](./349118-double-date-yuri-visual-novel.json) |
 | Double Dealers | 403675 | [403675-double-dealers.json](./403675-double-dealers.json) |
 | Double Death | 33426 | [33426-double-death.json](./33426-double-death.json) |
+| Double Detective | 344841 | [344841-double-detective.json](./344841-double-detective.json) |
 | Double Deuce Poker HD | 354972 | [354972-double-deuce-poker-hd.json](./354972-double-deuce-poker-hd.json) |
 | Double Dodgers | 133820 | [133820-double-dodgers.json](./133820-double-dodgers.json) |
 | Double Doodle | 62797 | [62797-double-doodle.json](./62797-double-doodle.json) |
