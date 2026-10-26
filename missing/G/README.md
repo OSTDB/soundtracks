@@ -7725,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Hand | 414399 | [414399-grim-hand.json](./414399-grim-hand.json) |
+| Grim Hollow | 350934 | [350934-grim-hollow.json](./350934-grim-hollow.json) |
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
 | Grim Jobs: Dredger | 377119 | [377119-grim-jobs-dredger.json](./377119-grim-jobs-dredger.json) |
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
