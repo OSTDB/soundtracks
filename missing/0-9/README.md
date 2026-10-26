@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Billion Dreams for a Forgiveness Machine | 229539 | [229539-3-billion-dreams-for-a-forgiveness-machine.json](./229539-3-billion-dreams-for-a-forgiveness-machine.json) |
 | 3 Bingos Away From Hell | 413590 | [413590-3-bingos-away-from-hell.json](./413590-3-bingos-away-from-hell.json) |
 | 3 Block Match | 359903 | [359903-3-block-match.json](./359903-3-block-match.json) |
+| 3 Bullets | 337553 | [337553-3-bullets.json](./337553-3-bullets.json) |
 | 3 Coins At School | 32980 | [32980-3-coins-at-school.json](./32980-3-coins-at-school.json) |
 | 3 Count Bout | 6734 | [6734-3-count-bout.json](./6734-3-count-bout.json) |
 | 3 Crystals | 219509 | [219509-3-crystals.json](./219509-3-crystals.json) |
