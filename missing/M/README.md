@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
 | Mamegoma: Happy! Sweets Farm | 221581 | [221581-mamegoma-happy-sweets-farm.json](./221581-mamegoma-happy-sweets-farm.json) |
 | Mameshiba | 141729 | [141729-mameshiba.json](./141729-mameshiba.json) |
+| Mameshiba Tankentai: Kieta Taicho wo sosaku seyo! | 349253 | [349253-mameshiba-tankentai-kieta-taicho-wo-sosaku-seyo.json](./349253-mameshiba-tankentai-kieta-taicho-wo-sosaku-seyo.json) |
 | MAMH | 252919 | [252919-mamh.json](./252919-mamh.json) |
 | Mami no Doki-doki Tiro Finale | 56758 | [56758-mami-no-doki-doki-tiro-finale.json](./56758-mami-no-doki-doki-tiro-finale.json) |
 | Mami no Doki-doki Tiro Finale | 56759 | [56759-mami-no-doki-doki-tiro-finale.json](./56759-mami-no-doki-doki-tiro-finale.json) |
@@ -9458,6 +9459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Snack | 339894 | [339894-midnight-snack.json](./339894-midnight-snack.json) |
 | Midnight Snack | 342248 | [342248-midnight-snack.json](./342248-midnight-snack.json) |
 | Midnight Souls | 365083 | [365083-midnight-souls.json](./365083-midnight-souls.json) |
+| Midnight Souvenirs | 349229 | [349229-midnight-souvenirs.json](./349229-midnight-souvenirs.json) |
 | Midnight Special | 319815 | [319815-midnight-special.json](./319815-midnight-special.json) |
 | Midnight Spooks 2: The Photo | 95930 | [95930-midnight-spooks-2-the-photo.json](./95930-midnight-spooks-2-the-photo.json) |
 | Midnight Spooks: The Thing in the Basement | 311482 | [311482-midnight-spooks-the-thing-in-the-basement.json](./311482-midnight-spooks-the-thing-in-the-basement.json) |
@@ -12463,6 +12465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molar Mayhem | 365611 | [365611-molar-mayhem.json](./365611-molar-mayhem.json) |
 | Molar: Underground | 266609 | [266609-molar-underground.json](./266609-molar-underground.json) |
 | Mold | 239558 | [239558-mold.json](./239558-mold.json) |
+| Mold | 349209 | [349209-mold.json](./349209-mold.json) |
 | Mold 2: Origin | 240073 | [240073-mold-2-origin.json](./240073-mold-2-origin.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
