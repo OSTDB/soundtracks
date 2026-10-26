@@ -3172,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter & Mars: Definitive Edition | 416856 | [416856-jupiter-and-mars-definitive-edition.json](./416856-jupiter-and-mars-definitive-edition.json) |
 | Jupiter Hell Classic | 321554 | [321554-jupiter-hell-classic.json](./321554-jupiter-hell-classic.json) |
 | Jupiter Jackpot Casino | 374025 | [374025-jupiter-jackpot-casino.json](./374025-jupiter-jackpot-casino.json) |
+| Jupiter Jump | 370231 | [370231-jupiter-jump.json](./370231-jupiter-jump.json) |
 | Jupiter Junkworks | 296355 | [296355-jupiter-junkworks.json](./296355-jupiter-junkworks.json) |
 | Jupiter Lander | 86198 | [86198-jupiter-lander.json](./86198-jupiter-lander.json) |
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
@@ -3584,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justin Smith's Realistic Summer Sports Simulator | 65328 | [65328-justin-smiths-realistic-summer-sports-simulator.json](./65328-justin-smiths-realistic-summer-sports-simulator.json) |
 | Justin Wack and the Big Time Hack | 121639 | [121639-justin-wack-and-the-big-time-hack.json](./121639-justin-wack-and-the-big-time-hack.json) |
 | Justin Wack and the Big Time Hack: Deluxe Edition | 230819 | [230819-justin-wack-and-the-big-time-hack-deluxe-edition.json](./230819-justin-wack-and-the-big-time-hack-deluxe-edition.json) |
+| JustJump! | 370174 | [370174-justjump.json](./370174-justjump.json) |
 | JustN | 119665 | [119665-justn.json](./119665-justn.json) |
 | JustWatchMyCat | 257380 | [257380-justwatchmycat.json](./257380-justwatchmycat.json) |
 | Justy x Nasty: Maou Hajimemashita | 60778 | [60778-justy-x-nasty-maou-hajimemashita.json](./60778-justy-x-nasty-maou-hajimemashita.json) |
