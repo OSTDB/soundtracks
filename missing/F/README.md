@@ -4350,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Growing Light | 259399 | [259399-final-fantasy-xiv-growing-light.json](./259399-final-fantasy-xiv-growing-light.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
 | Final Fantasy XIV: Into the Mist | 376015 | [376015-final-fantasy-xiv-into-the-mist.json](./376015-final-fantasy-xiv-into-the-mist.json) |
+| Final Fantasy XIV: Seekers of Eternity | 333873 | [333873-final-fantasy-xiv-seekers-of-eternity.json](./333873-final-fantasy-xiv-seekers-of-eternity.json) |
 | Final Fantasy XIV: Shadowbringers | 112412 | [112412-final-fantasy-xiv-shadowbringers.json](./112412-final-fantasy-xiv-shadowbringers.json) |
 | Final Fantasy XIV: Shadowbringers - Collector's Edition | 167106 | [167106-final-fantasy-xiv-shadowbringers-collectors-edition.json](./167106-final-fantasy-xiv-shadowbringers-collectors-edition.json) |
 | Final Fantasy XIV: Stormblood | 26625 | [26625-final-fantasy-xiv-stormblood.json](./26625-final-fantasy-xiv-stormblood.json) |
@@ -5475,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher Fans VR | 54507 | [54507-fisher-fans-vr.json](./54507-fisher-fans-vr.json) |
 | Fisher Frog | 214478 | [214478-fisher-frog.json](./214478-fisher-frog.json) |
 | Fisher Haven | 338405 | [338405-fisher-haven.json](./338405-fisher-haven.json) |
+| Fisher Idle | 333488 | [333488-fisher-idle.json](./333488-fisher-idle.json) |
 | Fisher Man | 367491 | [367491-fisher-man.json](./367491-fisher-man.json) |
 | Fisher Online: China | 238416 | [238416-fisher-online-china.json](./238416-fisher-online-china.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
@@ -7532,6 +7534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
 | FoMO | 272771 | [272771-fomo.json](./272771-fomo.json) |
 | Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
+| Fomon | 333336 | [333336-fomon.json](./333336-fomon.json) |
 | FOnline: Ashes of Phoenix | 146067 | [146067-fonline-ashes-of-phoenix.json](./146067-fonline-ashes-of-phoenix.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
 | Fonsermónique’s Culinary Diary | 403314 | [403314-fonsermonique-s-culinary-diary.json](./403314-fonsermonique-s-culinary-diary.json) |
@@ -8544,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Flesh | 138491 | [138491-forsaken-flesh.json](./138491-forsaken-flesh.json) |
 | Forsaken Frontiers | 288820 | [288820-forsaken-frontiers.json](./288820-forsaken-frontiers.json) |
 | Forsaken Generation | 65801 | [65801-forsaken-generation.json](./65801-forsaken-generation.json) |
+| Forsaken Island | 333333 | [333333-forsaken-island.json](./333333-forsaken-island.json) |
 | Forsaken Isle | 35819 | [35819-forsaken-isle.json](./35819-forsaken-isle.json) |
 | Forsaken Isles: Xenia's Defense | 295836 | [295836-forsaken-isles-xenias-defense.json](./295836-forsaken-isles-xenias-defense.json) |
 | Forsaken Kingdom | 391853 | [391853-forsaken-kingdom.json](./391853-forsaken-kingdom.json) |
