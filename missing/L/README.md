@@ -7268,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Liar | 225646 | [225646-love-liar.json](./225646-love-liar.json) |
 | Love Lime! | 183000 | [183000-love-lime.json](./183000-love-lime.json) |
 | Love Live Heardle | 198109 | [198109-love-live-heardle.json](./198109-love-live-heardle.json) |
+| Love Live: After School Ends | 366175 | [366175-love-live-after-school-ends.json](./366175-love-live-after-school-ends.json) |
 | Love Live! Nijigasaki High School Idol Club: Tokimeki Roadmap to the Future | 282695 | [282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json](./282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json) |
 | Love Live! School Idol Festival | 36660 | [36660-love-live-school-idol-festival.json](./36660-love-live-school-idol-festival.json) |
 | Love Live! School Idol Festival 2: Miracle Live! | 218658 | [218658-love-live-school-idol-festival-2-miracle-live.json](./218658-love-live-school-idol-festival-2-miracle-live.json) |
