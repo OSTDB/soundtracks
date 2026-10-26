@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
 | Paper Pirates | 130114 | [130114-paper-pirates.json](./130114-paper-pirates.json) |
 | Paper Plane | 254285 | [254285-paper-plane.json](./254285-paper-plane.json) |
+| Paper Plane | 343159 | [343159-paper-plane.json](./343159-paper-plane.json) |
 | Paper Plane | 401272 | [401272-paper-plane.json](./401272-paper-plane.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
@@ -15744,6 +15745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid of Doom | 18521 | [18521-pyramid-of-doom.json](./18521-pyramid-of-doom.json) |
 | Pyramid of Ra | 338816 | [338816-pyramid-of-ra.json](./338816-pyramid-of-ra.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
+| Pyramid Peril | 343174 | [343174-pyramid-peril.json](./343174-pyramid-peril.json) |
 | Pyramid Plunder | 105399 | [105399-pyramid-plunder.json](./105399-pyramid-plunder.json) |
 | Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
 | Pyramid Quest Bundle | 399801 | [399801-pyramid-quest-bundle.json](./399801-pyramid-quest-bundle.json) |
