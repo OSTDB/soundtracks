@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raining Blood: Hellfire | 219491 | [219491-raining-blood-hellfire.json](./219491-raining-blood-hellfire.json) |
 | Raining City: Millions Recollections | 305310 | [305310-raining-city-millions-recollections.json](./305310-raining-city-millions-recollections.json) |
 | Raining Lead | 400410 | [400410-raining-lead.json](./400410-raining-lead.json) |
+| Rainmaker | 355467 | [355467-rainmaker.json](./355467-rainmaker.json) |
 | Rainmaker | 397612 | [397612-rainmaker.json](./397612-rainmaker.json) |
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainman | 264582 | [264582-rainman.json](./264582-rainman.json) |
@@ -3500,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
 | Redemption Cemetery: Salvation of the Lost - Collector's Edition | 32790 | [32790-redemption-cemetery-salvation-of-the-lost-collectors-edition.json](./32790-redemption-cemetery-salvation-of-the-lost-collectors-edition.json) |
 | Redemption Cemetery: Terrors | 94776 | [94776-redemption-cemetery-terrors.json](./94776-redemption-cemetery-terrors.json) |
+| Redemption Cemetery: The Cursed Mark - Collector's Edition | 355604 | [355604-redemption-cemetery-the-cursed-mark-collectors-edition.json](./355604-redemption-cemetery-the-cursed-mark-collectors-edition.json) |
 | Redemption Cemetery: The Island of the Lost | 101668 | [101668-redemption-cemetery-the-island-of-the-lost.json](./101668-redemption-cemetery-the-island-of-the-lost.json) |
 | Redemption Cemetery: The Island of the Lost - Collector's Edition | 36493 | [36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json](./36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json) |
 | Redemption Cemetery: The Stolen Time - Collector's Edition | 201144 | [201144-redemption-cemetery-the-stolen-time-collectors-edition.json](./201144-redemption-cemetery-the-stolen-time-collectors-edition.json) |
@@ -4051,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of ancestors | 161334 | [161334-relics-of-ancestors.json](./161334-relics-of-ancestors.json) |
 | Relics of Cilldrea | 236915 | [236915-relics-of-cilldrea.json](./236915-relics-of-cilldrea.json) |
 | Relics of Deldroneye 2: Island of Debreen | 137454 | [137454-relics-of-deldroneye-2-island-of-debreen.json](./137454-relics-of-deldroneye-2-island-of-debreen.json) |
+| Relics of Fate: A Penny Macey Mystery | 355593 | [355593-relics-of-fate-a-penny-macey-mystery.json](./355593-relics-of-fate-a-penny-macey-mystery.json) |
 | Relics of Gods | 11352 | [11352-relics-of-gods.json](./11352-relics-of-gods.json) |
 | Relics of the Oracle | 302630 | [302630-relics-of-the-oracle.json](./302630-relics-of-the-oracle.json) |
 | Relics of Wayne: Greymoor | 379588 | [379588-relics-of-wayne-greymoor.json](./379588-relics-of-wayne-greymoor.json) |
@@ -4891,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restore the Luminous | 413935 | [413935-restore-the-luminous.json](./413935-restore-the-luminous.json) |
 | Restore Your Island | 363903 | [363903-restore-your-island.json](./363903-restore-your-island.json) |
 | Restore, Reflect, Retry | 335839 | [335839-restore-reflect-retry.json](./335839-restore-reflect-retry.json) |
+| Restorer | 355056 | [355056-restorer.json](./355056-restorer.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Restoring the Past: The Beauty of Porcelain 3 | 382885 | [382885-restoring-the-past-the-beauty-of-porcelain-3.json](./382885-restoring-the-past-the-beauty-of-porcelain-3.json) |
 | ReStory: Chill Electronics Repairs | 380960 | [380960-restory-chill-electronics-repairs.json](./380960-restory-chill-electronics-repairs.json) |
@@ -8379,6 +8383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Doodle | 395195 | [395195-rogue-doodle.json](./395195-rogue-doodle.json) |
 | Rogue Door Defense | 198153 | [198153-rogue-door-defense.json](./198153-rogue-door-defense.json) |
+| Rogue Drifter | 355581 | [355581-rogue-drifter.json](./355581-rogue-drifter.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
 | Rogue Drone Hunter | 337759 | [337759-rogue-drone-hunter.json](./337759-rogue-drone-hunter.json) |
 | Rogue Dungeon | 188515 | [188515-rogue-dungeon.json](./188515-rogue-dungeon.json) |
