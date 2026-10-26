@@ -3718,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Meridiem | 187946 | [187946-reflections-of-life-meridiem.json](./187946-reflections-of-life-meridiem.json) |
 | Reflections of Life: Meridiem - Collector's Edition | 163240 | [163240-reflections-of-life-meridiem-collectors-edition.json](./163240-reflections-of-life-meridiem-collectors-edition.json) |
 | Reflections of Life: Sleep's Embrace - Collector's Edition | 362842 | [362842-reflections-of-life-sleeps-embrace-collectors-edition.json](./362842-reflections-of-life-sleeps-embrace-collectors-edition.json) |
+| Reflections of Life: Slipping Hope - Collector's Edition | 357155 | [357155-reflections-of-life-slipping-hope-collectors-edition.json](./357155-reflections-of-life-slipping-hope-collectors-edition.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections of Life: The Shattered Timeline - Collector's Edition | 307752 | [307752-reflections-of-life-the-shattered-timeline-collectors-edition.json](./307752-reflections-of-life-the-shattered-timeline-collectors-edition.json) |
 | Reflections of Life: Tree of Dreams - Collector's Edition | 107703 | [107703-reflections-of-life-tree-of-dreams-collectors-edition.json](./107703-reflections-of-life-tree-of-dreams-collectors-edition.json) |
@@ -7346,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Rescue | 328489 | [328489-robo-rescue.json](./328489-robo-rescue.json) |
 | Robo Ret | 254062 | [254062-robo-ret.json](./254062-robo-ret.json) |
 | Robo Revenge Squad | 205028 | [205028-robo-revenge-squad.json](./205028-robo-revenge-squad.json) |
+| Robo Rhythm | 357161 | [357161-robo-rhythm.json](./357161-robo-rhythm.json) |
 | Robo Ride & Glide | 325347 | [325347-robo-ride-and-glide.json](./325347-robo-ride-and-glide.json) |
 | Robo Risk | 58755 | [58755-robo-risk.json](./58755-robo-risk.json) |
 | Robo Rob | 286597 | [286597-robo-rob.json](./286597-robo-rob.json) |
@@ -7609,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
 | Robot Wars: Metal Mayhem | 50022 | [50022-robot-wars-metal-mayhem.json](./50022-robot-wars-metal-mayhem.json) |
+| Robot with a Ram Cannon | 357277 | [357277-robot-with-a-ram-cannon.json](./357277-robot-with-a-ram-cannon.json) |
 | Robot Zombies | 180595 | [180595-robot-zombies.json](./180595-robot-zombies.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robot88 | 182364 | [182364-robot88.json](./182364-robot88.json) |
@@ -9033,6 +9036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronald McDonalds | 255715 | [255715-ronald-mcdonalds.json](./255715-ronald-mcdonalds.json) |
 | Ronald Regan Teaches Typing | 178961 | [178961-ronald-regan-teaches-typing.json](./178961-ronald-regan-teaches-typing.json) |
 | Ronald Rubberduck | 47205 | [47205-ronald-rubberduck.json](./47205-ronald-rubberduck.json) |
+| Ronald Rump: Fake Assassin Simulator: Save America Again | 357164 | [357164-ronald-rump-fake-assassin-simulator-save-america-again.json](./357164-ronald-rump-fake-assassin-simulator-save-america-again.json) |
 | Ronald's Revenge | 398437 | [398437-ronalds-revenge.json](./398437-ronalds-revenge.json) |
 | Ronald's Run | 151003 | [151003-ronalds-run.json](./151003-ronalds-run.json) |
 | Ronaldinho Campeonato Brasileiro 98 | 38302 | [38302-ronaldinho-campeonato-brasileiro-98.json](./38302-ronaldinho-campeonato-brasileiro-98.json) |
@@ -10346,6 +10350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run'N'Get | 109884 | [109884-runnget.json](./109884-runnget.json) |
 | Run&Brake - Animal Escape | 108195 | [108195-run-and-brake-animal-escape.json](./108195-run-and-brake-animal-escape.json) |
 | Run=Dim: Return to Earth | 37557 | [37557-run-dim-return-to-earth.json](./37557-run-dim-return-to-earth.json) |
+| Run4Ever | 357137 | [357137-run4ever.json](./357137-run4ever.json) |
 | Run4YourLight | 203761 | [203761-run4yourlight.json](./203761-run4yourlight.json) |
 | Run8 Train Simulator | 78485 | [78485-run8-train-simulator.json](./78485-run8-train-simulator.json) |
 | Runa | 129162 | [129162-runa.json](./129162-runa.json) |
@@ -10365,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Farm | 249896 | [249896-runaway-farm.json](./249896-runaway-farm.json) |
 | Runaway from Vampire | 83403 | [83403-runaway-from-vampire.json](./83403-runaway-from-vampire.json) |
 | Runaway Girl: Picked up a Girl | 298724 | [298724-runaway-girl-picked-up-a-girl.json](./298724-runaway-girl-picked-up-a-girl.json) |
+| Runaway Mole | 357131 | [357131-runaway-mole.json](./357131-runaway-mole.json) |
 | Runaway Princess | 370765 | [370765-runaway-princess.json](./370765-runaway-princess.json) |
 | Runaway Robot | 203107 | [203107-runaway-robot.json](./203107-runaway-robot.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
@@ -10384,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Coliseum: Chained Warrior | 258351 | [258351-rune-coliseum-chained-warrior.json](./258351-rune-coliseum-chained-warrior.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Dice | 345982 | [345982-rune-dice.json](./345982-rune-dice.json) |
+| Rune Dungeon | 357148 | [357148-rune-dungeon.json](./357148-rune-dungeon.json) |
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
 | Rune Factory 3 Special: Another Episode Pack | 265077 | [265077-rune-factory-3-special-another-episode-pack.json](./265077-rune-factory-3-special-another-episode-pack.json) |
 | Rune Factory 3 Special: Digital Deluxe Edition | 261329 | [261329-rune-factory-3-special-digital-deluxe-edition.json](./261329-rune-factory-3-special-digital-deluxe-edition.json) |
