@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spoke to God | 176143 | [176143-i-spoke-to-god.json](./176143-i-spoke-to-god.json) |
+| I Spy | 359318 | [359318-i-spy.json](./359318-i-spy.json) |
 | I Spy | 58627 | [58627-i-spy.json](./58627-i-spy.json) |
 | I Spy | 80520 | [80520-i-spy.json](./80520-i-spy.json) |
 | I Spy 2 | 70807 | [70807-i-spy-2.json](./70807-i-spy-2.json) |
