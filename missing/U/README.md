@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
 | Undertale: Collector's Edition | 136341 | [136341-undertale-collectors-edition.json](./136341-undertale-collectors-edition.json) |
 | Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
+| Undertale: Gameboy Edition | 351529 | [351529-undertale-gameboy-edition.json](./351529-undertale-gameboy-edition.json) |
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Kindred Spirits | 231469 | [231469-undertale-kindred-spirits.json](./231469-undertale-kindred-spirits.json) |
 | Undertale: No More Deals | 279675 | [279675-undertale-no-more-deals.json](./279675-undertale-no-more-deals.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usagi Yojimbo: Way of the Ronin | 36060 | [36060-usagi-yojimbo-way-of-the-ronin.json](./36060-usagi-yojimbo-way-of-the-ronin.json) |
 | Usagi: Yasei no Touhai - Yamashiro Mahjong-hen | 154843 | [154843-usagi-yasei-no-touhai-yamashiro-mahjong-hen.json](./154843-usagi-yasei-no-touhai-yamashiro-mahjong-hen.json) |
 | Usagito Watashi | 280908 | [280908-usagito-watashi.json](./280908-usagito-watashi.json) |
+| USAID Approvals Department | 351543 | [351543-usaid-approvals-department.json](./351543-usaid-approvals-department.json) |
 | Usavich - Game no Jikan | 133333 | [133333-usavich-game-no-jikan.json](./133333-usavich-game-no-jikan.json) |
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
 | USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
