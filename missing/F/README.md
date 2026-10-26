@@ -5566,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: World Cats Cup Pack | 366009 | [366009-fishing-planet-world-cats-cup-pack.json](./366009-fishing-planet-world-cats-cup-pack.json) |
 | Fishing Pond Simulator | 346157 | [346157-fishing-pond-simulator.json](./346157-fishing-pond-simulator.json) |
 | Fishing Pro Simulator | 389043 | [389043-fishing-pro-simulator.json](./389043-fishing-pro-simulator.json) |
+| Fishing Relax | 365601 | [365601-fishing-relax.json](./365601-fishing-relax.json) |
 | Fishing Resort | 19929 | [19929-fishing-resort.json](./19929-fishing-resort.json) |
 | Fishing RPG | 298824 | [298824-fishing-rpg.json](./298824-fishing-rpg.json) |
 | Fishing Rush | 362965 | [362965-fishing-rush.json](./362965-fishing-rush.json) |
@@ -8569,6 +8570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Dog Days Are Over | 370641 | [370641-fortnite-festival-dog-days-are-over.json](./370641-fortnite-festival-dog-days-are-over.json) |
 | Fortnite Festival: Drop It like it's hot | 367588 | [367588-fortnite-festival-drop-it-like-its-hot.json](./367588-fortnite-festival-drop-it-like-its-hot.json) |
 | Fortnite Festival: Empty Out Your Pockets | 366809 | [366809-fortnite-festival-empty-out-your-pockets.json](./366809-fortnite-festival-empty-out-your-pockets.json) |
+| Fortnite Festival: Everybody (Backstreet's Back) | 365609 | [365609-fortnite-festival-everybody-backstreets-back.json](./365609-fortnite-festival-everybody-backstreets-back.json) |
 | Fortnite Festival: Fade to Black | 367589 | [367589-fortnite-festival-fade-to-black.json](./367589-fortnite-festival-fade-to-black.json) |
 | Fortnite Festival: Feel Good Inc | 366198 | [366198-fortnite-festival-feel-good-inc.json](./366198-fortnite-festival-feel-good-inc.json) |
 | Fortnite Festival: Feel It Still | 371639 | [371639-fortnite-festival-feel-it-still.json](./371639-fortnite-festival-feel-it-still.json) |
