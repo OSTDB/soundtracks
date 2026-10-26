@@ -9853,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk Me Darling: Tits Fairy | 258836 | [258836-milk-me-darling-tits-fairy.json](./258836-milk-me-darling-tits-fairy.json) |
 | Milk Pot | 210112 | [210112-milk-pot.json](./210112-milk-pot.json) |
 | Milk Puzzle | 354947 | [354947-milk-puzzle.json](./354947-milk-puzzle.json) |
+| Milk Quest | 343165 | [343165-milk-quest.json](./343165-milk-quest.json) |
 | Milk Quest: Repasteurized | 369220 | [369220-milk-quest-repasteurized.json](./369220-milk-quest-repasteurized.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
 | Milk the Cow | 397419 | [397419-milk-the-cow.json](./397419-milk-the-cow.json) |
@@ -9993,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimamo-Roll! | 395969 | [395969-mimamo-roll.json](./395969-mimamo-roll.json) |
 | Mimana Iyar Chronicle | 80165 | [80165-mimana-iyar-chronicle.json](./80165-mimana-iyar-chronicle.json) |
 | Mimelet | 187784 | [187784-mimelet.json](./187784-mimelet.json) |
+| Mimesis | 343183 | [343183-mimesis.json](./343183-mimesis.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
 | Mimetic | 383731 | [383731-mimetic.json](./383731-mimetic.json) |
 | Mimetic Love | 215595 | [215595-mimetic-love.json](./215595-mimetic-love.json) |
