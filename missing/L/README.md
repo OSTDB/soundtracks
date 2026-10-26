@@ -6358,6 +6358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
 | Lord of Magna: Maiden Heaven | 20020 | [20020-lord-of-magna-maiden-heaven.json](./20020-lord-of-magna-maiden-heaven.json) |
+| Lord of Mysteries | 373593 | [373593-lord-of-mysteries.json](./373593-lord-of-mysteries.json) |
 | Lord of Nazarick | 317316 | [317316-lord-of-nazarick.json](./317316-lord-of-nazarick.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
 | Lord of Terror | 250490 | [250490-lord-of-terror.json](./250490-lord-of-terror.json) |
