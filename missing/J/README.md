@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JuBox | 334809 | [334809-jubox.json](./334809-jubox.json) |
 | Jubox 2 | 334819 | [334819-jubox-2.json](./334819-jubox-2.json) |
 | Juda | 120780 | [120780-juda.json](./120780-juda.json) |
+| Judah Knight: Knights & Demons - Chapter 1 | 348135 | [348135-judah-knight-knights-and-demons-chapter-1.json](./348135-judah-knight-knights-and-demons-chapter-1.json) |
 | Judas | 228527 | [228527-judas.json](./228527-judas.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
 | Judas Priest: Road to Valhalla | 175162 | [175162-judas-priest-road-to-valhalla.json](./175162-judas-priest-road-to-valhalla.json) |
