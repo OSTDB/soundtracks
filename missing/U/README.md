@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO/Sea Monsters/Break It Down/Rebuild/Shoot | 137926 | [137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json](./137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json) |
 | UFO2 Extraterrestrials: Shadows over Earth | 65459 | [65459-ufo2-extraterrestrials-shadows-over-earth.json](./65459-ufo2-extraterrestrials-shadows-over-earth.json) |
 | UFObia | 217240 | [217240-ufobia.json](./217240-ufobia.json) |
+| UFOntastic | 359309 | [359309-ufontastic.json](./359309-ufontastic.json) |
 | Ufophilia | 368145 | [368145-ufophilia.json](./368145-ufophilia.json) |
 | UfoPilot : Astro-Creeps Elite | 35318 | [35318-ufopilot-astro-creeps-elite.json](./35318-ufopilot-astro-creeps-elite.json) |
 | UfoPilot: The Phadt Menace - Steam Edition | 162707 | [162707-ufopilot-the-phadt-menace-steam-edition.json](./162707-ufopilot-the-phadt-menace-steam-edition.json) |
