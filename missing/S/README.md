@@ -4869,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Carnage: Adrenaline Shooter | 403731 | [403731-serious-carnage-adrenaline-shooter.json](./403731-serious-carnage-adrenaline-shooter.json) |
 | Serious DOOM: 2016 | 364860 | [364860-serious-doom-2016.json](./364860-serious-doom-2016.json) |
 | Serious Fun Football | 156202 | [156202-serious-fun-football.json](./156202-serious-fun-football.json) |
+| Serious Lord of the Rings Bros | 336456 | [336456-serious-lord-of-the-rings-bros.json](./336456-serious-lord-of-the-rings-bros.json) |
 | Serious Metal Detecting | 28376 | [28376-serious-metal-detecting.json](./28376-serious-metal-detecting.json) |
 | Serious Office | 81950 | [81950-serious-office.json](./81950-serious-office.json) |
 | Serious Sam | 198137 | [198137-serious-sam.json](./198137-serious-sam.json) |
@@ -9878,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
 | Six-Chamber Champion | 384663 | [384663-six-chamber-champion.json](./384663-six-chamber-champion.json) |
 | Six-ear Macaque | 72359 | [72359-six-ear-macaque.json](./72359-six-ear-macaque.json) |
+| Six-Ear Macaque: Awakening | 336765 | [336765-six-ear-macaque-awakening.json](./336765-six-ear-macaque-awakening.json) |
 | Six-Gun Shootout: Gunfights of the Wild West | 65907 | [65907-six-gun-shootout-gunfights-of-the-wild-west.json](./65907-six-gun-shootout-gunfights-of-the-wild-west.json) |
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
@@ -11343,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Adventure Legacy | 121537 | [121537-slime-adventure-legacy.json](./121537-slime-adventure-legacy.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime Alchemist | 265108 | [265108-slime-alchemist.json](./265108-slime-alchemist.json) |
+| Slime Alchemy | 336467 | [336467-slime-alchemy.json](./336467-slime-alchemy.json) |
 | Slime and Machinegun | 412599 | [412599-slime-and-machinegun.json](./412599-slime-and-machinegun.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
 | Slime Ascension | 368983 | [368983-slime-ascension.json](./368983-slime-ascension.json) |
@@ -11503,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Sling Ming | 74400 | [74400-sling-ming.json](./74400-sling-ming.json) |
 | Sling Puzzle: Golf Master | 277731 | [277731-sling-puzzle-golf-master.json](./277731-sling-puzzle-golf-master.json) |
+| Slingbot Survivors | 336465 | [336465-slingbot-survivors.json](./336465-slingbot-survivors.json) |
 | Slingbox | 371995 | [371995-slingbox.json](./371995-slingbox.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slinger VR | 29098 | [29098-slinger-vr.json](./29098-slinger-vr.json) |
@@ -13188,6 +13192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soap Land Story II: Memory | 67387 | [67387-soap-land-story-ii-memory.json](./67387-soap-land-story-ii-memory.json) |
 | Soap Opera Dash | 56905 | [56905-soap-opera-dash.json](./56905-soap-opera-dash.json) |
 | Soap Slide | 369177 | [369177-soap-slide.json](./369177-soap-slide.json) |
+| Soap Soup | 336451 | [336451-soap-soup.json](./336451-soap-soup.json) |
 | Soap: Bubbles vs. microbes | 183888 | [183888-soap-bubbles-vs-microbes.json](./183888-soap-bubbles-vs-microbes.json) |
 | Soaper | 179377 | [179377-soaper.json](./179377-soaper.json) |
 | Soapland Story | 67386 | [67386-soapland-story.json](./67386-soapland-story.json) |
@@ -18817,6 +18822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Truth or Square | 295621 | [295621-spongebobs-truth-or-square.json](./295621-spongebobs-truth-or-square.json) |
 | SpongeBob's Truth or Square | 5190 | [5190-spongebobs-truth-or-square.json](./5190-spongebobs-truth-or-square.json) |
 | SpongeBob’s Undersea Odyssey | 381368 | [381368-spongebob-s-undersea-odyssey.json](./381368-spongebob-s-undersea-odyssey.json) |
+| Spongedrake Unleashed 3D | 336458 | [336458-spongedrake-unleashed-3d.json](./336458-spongedrake-unleashed-3d.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
 | Sponsor-A-Planet | 155710 | [155710-sponsor-a-planet.json](./155710-sponsor-a-planet.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
