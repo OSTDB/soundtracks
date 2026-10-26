@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Asia | 403181 | [403181-sad-virus-asia.json](./403181-sad-virus-asia.json) |
 | Sad Virus Cave | 397647 | [397647-sad-virus-cave.json](./397647-sad-virus-cave.json) |
 | Sad Virus Darkland | 412510 | [412510-sad-virus-darkland.json](./412510-sad-virus-darkland.json) |
+| Sad Virus Deathland | 377630 | [377630-sad-virus-deathland.json](./377630-sad-virus-deathland.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
 | Sad Virus Forest | 387751 | [387751-sad-virus-forest.json](./387751-sad-virus-forest.json) |
 | Sad Virus Jungle | 397646 | [397646-sad-virus-jungle.json](./397646-sad-virus-jungle.json) |
@@ -3849,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Rætikon | 8276 | [8276-secrets-of-r-tikon.json](./8276-secrets-of-r-tikon.json) |
 | Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
+| Secrets of Salem: The Phantom Cab DLC | 377112 | [377112-secrets-of-salem-the-phantom-cab-dlc.json](./377112-secrets-of-salem-the-phantom-cab-dlc.json) |
 | Secrets of Shadows | 310246 | [310246-secrets-of-shadows.json](./310246-secrets-of-shadows.json) |
 | Secrets of Tatjana | 45885 | [45885-secrets-of-tatjana.json](./45885-secrets-of-tatjana.json) |
 | Secrets of Temple Isle | 216847 | [216847-secrets-of-temple-isle.json](./216847-secrets-of-temple-isle.json) |
@@ -5176,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game: Naughty Girls - Episode 6 | 375271 | [375271-sex-game-naughty-girls-episode-6.json](./375271-sex-game-naughty-girls-episode-6.json) |
 | Sex Game: Naughty Girls - Episode 9 | 382156 | [382156-sex-game-naughty-girls-episode-9.json](./382156-sex-game-naughty-girls-episode-9.json) |
 | Sex Game: Threesome - Episode 1 | 371056 | [371056-sex-game-threesome-episode-1.json](./371056-sex-game-threesome-episode-1.json) |
+| Sex Game: Threesome - Episode 2 | 377092 | [377092-sex-game-threesome-episode-2.json](./377092-sex-game-threesome-episode-2.json) |
 | Sex Game: Threesome - Episode 4 | 375268 | [375268-sex-game-threesome-episode-4.json](./375268-sex-game-threesome-episode-4.json) |
 | Sex Girlfriend Simulator | 189977 | [189977-sex-girlfriend-simulator.json](./189977-sex-girlfriend-simulator.json) |
 | Sex Goddess Punishment | 295371 | [295371-sex-goddess-punishment.json](./295371-sex-goddess-punishment.json) |
@@ -7516,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot to Shoot | 305638 | [305638-shoot-to-shoot.json](./305638-shoot-to-shoot.json) |
 | Shoot to Slide | 184427 | [184427-shoot-to-slide.json](./184427-shoot-to-slide.json) |
 | Shoot Together | 406737 | [406737-shoot-together.json](./406737-shoot-together.json) |
+| Shoot Up Basketball Pro | 377636 | [377636-shoot-up-basketball-pro.json](./377636-shoot-up-basketball-pro.json) |
 | Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
@@ -14066,6 +14070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song Summoner: The Unsung Heroes | 23042 | [23042-song-summoner-the-unsung-heroes.json](./23042-song-summoner-the-unsung-heroes.json) |
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
 | Songbirds: Creative Gaming | 174231 | [174231-songbirds-creative-gaming.json](./174231-songbirds-creative-gaming.json) |
+| Songboy | 377651 | [377651-songboy.json](./377651-songboy.json) |
 | Songbringer Bundle | 118864 | [118864-songbringer-bundle.json](./118864-songbringer-bundle.json) |
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
 | Songless | 402309 | [402309-songless.json](./402309-songless.json) |
@@ -16504,6 +16509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Runner | 102257 | [102257-space-runner.json](./102257-space-runner.json) |
 | Space Runner: Anime | 169638 | [169638-space-runner-anime.json](./169638-space-runner-anime.json) |
 | Space Salvage | 192601 | [192601-space-salvage.json](./192601-space-salvage.json) |
+| Space Salvage: Ship Happens | 377617 | [377617-space-salvage-ship-happens.json](./377617-space-salvage-ship-happens.json) |
 | Space Salvager | 17760 | [17760-space-salvager.json](./17760-space-salvager.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavenger | 113597 | [113597-space-scavenger.json](./113597-space-scavenger.json) |
@@ -24903,6 +24909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
 | Sun Down | 238583 | [238583-sun-down.json](./238583-sun-down.json) |
 | Sun Fang Dougram | 284445 | [284445-sun-fang-dougram.json](./284445-sun-fang-dougram.json) |
+| Sun Halo | 377558 | [377558-sun-halo.json](./377558-sun-halo.json) |
 | Sun Haven | 144098 | [144098-sun-haven.json](./144098-sun-haven.json) |
 | Sun Haven: Astral Pack | 389565 | [389565-sun-haven-astral-pack.json](./389565-sun-haven-astral-pack.json) |
 | Sun Haven: Bloom and Doom Pack | 306506 | [306506-sun-haven-bloom-and-doom-pack.json](./306506-sun-haven-bloom-and-doom-pack.json) |
@@ -29623,6 +29630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia Collection | 83154 | [83154-syberia-collection.json](./83154-syberia-collection.json) |
 | Syberia II | 6185 | [6185-syberia-ii.json](./6185-syberia-ii.json) |
 | Syberia Trilogy | 125404 | [125404-syberia-trilogy.json](./125404-syberia-trilogy.json) |
+| Syberia VR | 377653 | [377653-syberia-vr.json](./377653-syberia-vr.json) |
 | Syberia: 20th Anniversary Bundle | 202126 | [202126-syberia-20th-anniversary-bundle.json](./202126-syberia-20th-anniversary-bundle.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
 | Syberia: The World Before - 20 Years Edition | 204908 | [204908-syberia-the-world-before-20-years-edition.json](./204908-syberia-the-world-before-20-years-edition.json) |
