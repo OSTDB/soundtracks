@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
 | You're Doomed | 112154 | [112154-youre-doomed.json](./112154-youre-doomed.json) |
 | You're Fired | 99082 | [99082-youre-fired.json](./99082-youre-fired.json) |
+| You're Fired! | 367368 | [367368-youre-fired.json](./367368-youre-fired.json) |
 | You're Full of It | 202180 | [202180-youre-full-of-it.json](./202180-youre-full-of-it.json) |
 | You're Going to Make a Great Mother One Day | 177490 | [177490-youre-going-to-make-a-great-mother-one-day.json](./177490-youre-going-to-make-a-great-mother-one-day.json) |
 | You're Gonna Die 1000 Times (Or So) | 321474 | [321474-youre-gonna-die-1000-times-or-so.json](./321474-youre-gonna-die-1000-times-or-so.json) |
