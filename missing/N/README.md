@@ -3135,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Blitz | 249135 | [249135-nfl-blitz.json](./249135-nfl-blitz.json) |
 | NFL Blitz | 812 | [812-nfl-blitz.json](./812-nfl-blitz.json) |
 | NFL Blitz 20-02 | 23443 | [23443-nfl-blitz-20-02.json](./23443-nfl-blitz-20-02.json) |
+| NFL Blitz 20-02 | 336761 | [336761-nfl-blitz-20-02.json](./336761-nfl-blitz-20-02.json) |
 | NFL Blitz 2000 | 217934 | [217934-nfl-blitz-2000.json](./217934-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
