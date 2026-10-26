@@ -7162,6 +7162,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amidakuji Knight | 214024 | [214024-amidakuji-knight.json](./214024-amidakuji-knight.json) |
 | Amidar | 11116 | [11116-amidar.json](./11116-amidar.json) |
 | Amidar | 304189 | [304189-amidar.json](./304189-amidar.json) |
+| Amidar | 382814 | [382814-amidar.json](./382814-amidar.json) |
+| Amidar | 382818 | [382818-amidar.json](./382818-amidar.json) |
+| Amidar | 382820 | [382820-amidar.json](./382820-amidar.json) |
+| Amidar 500 | 382819 | [382819-amidar-500.json](./382819-amidar-500.json) |
 | Amidst the Darkness | 160129 | [160129-amidst-the-darkness.json](./160129-amidst-the-darkness.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amiga CD Football | 39037 | [39037-amiga-cd-football.json](./39037-amiga-cd-football.json) |
@@ -9181,6 +9185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
 | Antique Carnevale | 44083 | [44083-antique-carnevale.json](./44083-antique-carnevale.json) |
 | Antique Checkers | 398272 | [398272-antique-checkers.json](./398272-antique-checkers.json) |
+| Antique Dealer Simulator | 382832 | [382832-antique-dealer-simulator.json](./382832-antique-dealer-simulator.json) |
 | Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
 | Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
 | Antiques Roadshow | 52414 | [52414-antiques-roadshow.json](./52414-antiques-roadshow.json) |
@@ -10932,6 +10937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Eggs | 280931 | [280931-arctic-eggs.json](./280931-arctic-eggs.json) |
 | Arctic Escape | 84758 | [84758-arctic-escape.json](./84758-arctic-escape.json) |
 | Arctic Fleet | 112967 | [112967-arctic-fleet.json](./112967-arctic-fleet.json) |
+| Arctic Grave | 382831 | [382831-arctic-grave.json](./382831-arctic-grave.json) |
 | Arctic Incident | 221924 | [221924-arctic-incident.json](./221924-arctic-incident.json) |
 | Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
@@ -12299,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash Arms 2: The Darkside of the Moon | 396684 | [396684-ash-arms-2-the-darkside-of-the-moon.json](./396684-ash-arms-2-the-darkside-of-the-moon.json) |
 | Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
 | Ash Echoes | 376880 | [376880-ash-echoes.json](./376880-ash-echoes.json) |
+| Ash Hills: Descent | 382811 | [382811-ash-hills-descent.json](./382811-ash-hills-descent.json) |
 | ASH II: Shadows | 65269 | [65269-ash-ii-shadows.json](./65269-ash-ii-shadows.json) |
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
@@ -13425,6 +13432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum | 95384 | [95384-asylum.json](./95384-asylum.json) |
 | Asylum 45 | 384666 | [384666-asylum-45.json](./384666-asylum-45.json) |
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
+| Asylum Denied | 382849 | [382849-asylum-denied.json](./382849-asylum-denied.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
 | Asylum Night Shift | 90392 | [90392-asylum-night-shift.json](./90392-asylum-night-shift.json) |
 | Asylum Nightmares | 280668 | [280668-asylum-nightmares.json](./280668-asylum-nightmares.json) |
