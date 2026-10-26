@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
 | Jelly Forest | 202545 | [202545-jelly-forest.json](./202545-jelly-forest.json) |
+| Jelly Form | 375142 | [375142-jelly-form.json](./375142-jelly-form.json) |
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly God | 221721 | [221721-jelly-god.json](./221721-jelly-god.json) |
 | Jelly in the Dark | 215587 | [215587-jelly-in-the-dark.json](./215587-jelly-in-the-dark.json) |
@@ -2126,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Johnnybee Edition | 263537 | [263537-johnny-trigger-johnnybee-edition.json](./263537-johnny-trigger-johnnybee-edition.json) |
 | Johnny Trigger: Lunatic DLC | 256685 | [256685-johnny-trigger-lunatic-dlc.json](./256685-johnny-trigger-lunatic-dlc.json) |
 | Johnny Trigger: Lunatic Edition | 304779 | [304779-johnny-trigger-lunatic-edition.json](./304779-johnny-trigger-lunatic-edition.json) |
+| Johnny Trigger: Triple Rebel Edition | 375143 | [375143-johnny-trigger-triple-rebel-edition.json](./375143-johnny-trigger-triple-rebel-edition.json) |
 | Johnny Turbo | 331374 | [331374-johnny-turbo.json](./331374-johnny-turbo.json) |
 | Johnny Turbo's Arcade: Fighter's History | 114203 | [114203-johnny-turbos-arcade-fighters-history.json](./114203-johnny-turbos-arcade-fighters-history.json) |
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
