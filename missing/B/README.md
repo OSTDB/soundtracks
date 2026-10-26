@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldi's Basics Classic Remastered | 200473 | [200473-baldis-basics-classic-remastered.json](./200473-baldis-basics-classic-remastered.json) |
 | Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
 | Baldi's Basics in Education and Learning | 102832 | [102832-baldis-basics-in-education-and-learning.json](./102832-baldis-basics-in-education-and-learning.json) |
+| Baldi's Basics in Nightmares | 368440 | [368440-baldis-basics-in-nightmares.json](./368440-baldis-basics-in-nightmares.json) |
 | Baldi's Basics in School Education | 102854 | [102854-baldis-basics-in-school-education.json](./102854-baldis-basics-in-school-education.json) |
 | Baldi's Basics Plus | 134745 | [134745-baldis-basics-plus.json](./134745-baldis-basics-plus.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Hit! | 106529 | [106529-ball-hit.json](./106529-ball-hit.json) |
 | Ball Hunter | 201801 | [201801-ball-hunter.json](./201801-ball-hunter.json) |
 | Ball In The Box | 309949 | [309949-ball-in-the-box.json](./309949-ball-in-the-box.json) |
+| Ball In the Hole! | 368452 | [368452-ball-in-the-hole.json](./368452-ball-in-the-hole.json) |
 | Ball is Life | 281954 | [281954-ball-is-life.json](./281954-ball-is-life.json) |
 | Ball Jacks | 45759 | [45759-ball-jacks.json](./45759-ball-jacks.json) |
 | Ball Jump | 100740 | [100740-ball-jump.json](./100740-ball-jump.json) |
@@ -10427,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombardiro Crocodilo Mission | 370195 | [370195-bombardiro-crocodilo-mission.json](./370195-bombardiro-crocodilo-mission.json) |
 | Bombardiro Crocodilo Simulator | 349300 | [349300-bombardiro-crocodilo-simulator.json](./349300-bombardiro-crocodilo-simulator.json) |
 | Bombardiro Crocodilo: Italian Brainrot Simulator | 344481 | [344481-bombardiro-crocodilo-italian-brainrot-simulator.json](./344481-bombardiro-crocodilo-italian-brainrot-simulator.json) |
+| Bombardiro Crocodilo: The Naked Clue | 368529 | [368529-bombardiro-crocodilo-the-naked-clue.json](./368529-bombardiro-crocodilo-the-naked-clue.json) |
 | Bombarika | 101962 | [101962-bombarika.json](./101962-bombarika.json) |
 | Bombarium | 179129 | [179129-bombarium.json](./179129-bombarium.json) |
 | Bombasm | 58562 | [58562-bombasm.json](./58562-bombasm.json) |
@@ -10800,6 +10803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogie Bum | 70849 | [70849-boogie-bum.json](./70849-boogie-bum.json) |
 | Boogie Bunnies | 21812 | [21812-boogie-bunnies.json](./21812-boogie-bunnies.json) |
 | Boogie Cruise | 352517 | [352517-boogie-cruise.json](./352517-boogie-cruise.json) |
+| Boogie Fungi | 368456 | [368456-boogie-fungi.json](./368456-boogie-fungi.json) |
 | Boogie Wings | 39873 | [39873-boogie-wings.json](./39873-boogie-wings.json) |
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
 | BoogieBall Game | 130022 | [130022-boogieball-game.json](./130022-boogieball-game.json) |
