@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Catch Me | 343686 | [343686-let-catch-me.json](./343686-let-catch-me.json) |
 | Let Deco Desktop | 389751 | [389751-let-deco-desktop.json](./389751-let-deco-desktop.json) |
 | Let Hawaii Happen VR | 31151 | [31151-let-hawaii-happen-vr.json](./31151-let-hawaii-happen-vr.json) |
+| Let Her Go | 353758 | [353758-let-her-go.json](./353758-let-her-go.json) |
 | Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
 | Let It Boom | 217260 | [217260-let-it-boom.json](./217260-let-it-boom.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
@@ -6060,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Jump | 247049 | [247049-long-jump.json](./247049-long-jump.json) |
 | Long Legged Larry | 247445 | [247445-long-legged-larry.json](./247445-long-legged-larry.json) |
 | Long Live Caesar | 166717 | [166717-long-live-caesar.json](./166717-long-live-caesar.json) |
+| Long Live My Lady! | 354002 | [354002-long-live-my-lady.json](./354002-long-live-my-lady.json) |
 | Long Live the Axe | 122858 | [122858-long-live-the-axe.json](./122858-long-live-the-axe.json) |
 | Long Live The Emperor | 419953 | [419953-long-live-the-emperor.json](./419953-long-live-the-emperor.json) |
 | Long Live the King! | 213246 | [213246-long-live-the-king.json](./213246-long-live-the-king.json) |
@@ -8221,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar's Chosen: Episode 2 | 277748 | [277748-lunars-chosen-episode-2.json](./277748-lunars-chosen-episode-2.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
+| Lunaris | 353947 | [353947-lunaris.json](./353947-lunaris.json) |
 | Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
