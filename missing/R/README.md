@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
 | Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
 | Racing Rush | 234608 | [234608-racing-rush.json](./234608-racing-rush.json) |
+| Racing Simulator Bundle: Driving School Simulator & Real Driving Simulator | 378836 | [378836-racing-simulator-bundle-driving-school-simulator-and-real-driving-simulator.json](./378836-racing-simulator-bundle-driving-school-simulator-and-real-driving-simulator.json) |
 | Racing Skill | 358355 | [358355-racing-skill.json](./358355-racing-skill.json) |
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
 | Racing Team Manager | 54312 | [54312-racing-team-manager.json](./54312-racing-team-manager.json) |
@@ -5006,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Gunner | 393021 | [393021-retro-gunner.json](./393021-retro-gunner.json) |
 | Retro Hacker | 90858 | [90858-retro-hacker.json](./90858-retro-hacker.json) |
 | Retro Highway | 96593 | [96593-retro-highway.json](./96593-retro-highway.json) |
+| Retro Horror Bundle | 378837 | [378837-retro-horror-bundle.json](./378837-retro-horror-bundle.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
