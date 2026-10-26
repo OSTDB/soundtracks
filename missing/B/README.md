@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
 | B.I.G | 226247 | [226247-b-i-g.json](./226247-b-i-g.json) |
 | B.I.N.D. | 212907 | [212907-b-i-n-d.json](./212907-b-i-n-d.json) |
+| B.I.R.D.S. | 362249 | [362249-b-i-r-d-s.json](./362249-b-i-r-d-s.json) |
 | B.I.T | 99182 | [99182-b-i-t.json](./99182-b-i-t.json) |
 | B.L.A.C.K. 1 | 211467 | [211467-b-l-a-c-k-1.json](./211467-b-l-a-c-k-1.json) |
 | B.L.U.E. Legend of Water | 43754 | [43754-b-l-u-e-legend-of-water.json](./43754-b-l-u-e-legend-of-water.json) |
@@ -7103,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | BirdsBorough: Town of Alchemy | 214368 | [214368-birdsborough-town-of-alchemy.json](./214368-birdsborough-town-of-alchemy.json) |
 | Birdtale | 284002 | [284002-birdtale.json](./284002-birdtale.json) |
+| Birdteeth | 362240 | [362240-birdteeth.json](./362240-birdteeth.json) |
 | Birdtual Reality | 31771 | [31771-birdtual-reality.json](./31771-birdtual-reality.json) |
 | Birdwatcher | 229215 | [229215-birdwatcher.json](./229215-birdwatcher.json) |
 | Birdwatcher | 314969 | [314969-birdwatcher.json](./314969-birdwatcher.json) |
@@ -8766,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Drop | 396758 | [396758-block-drop.json](./396758-block-drop.json) |
 | Block Dropper | 192197 | [192197-block-dropper.json](./192197-block-dropper.json) |
+| Block Droppin | 362228 | [362228-block-droppin.json](./362228-block-droppin.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
 | Block Dude | 142772 | [142772-block-dude.json](./142772-block-dude.json) |
 | Block Dude Deluxe | 338247 | [338247-block-dude-deluxe.json](./338247-block-dude-deluxe.json) |
@@ -9382,6 +9385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodlust: Santa Monica | 184751 | [184751-bloodlust-santa-monica.json](./184751-bloodlust-santa-monica.json) |
 | Bloodlust.exe | 370871 | [370871-bloodlust-exe.json](./370871-bloodlust-exe.json) |
 | Bloodmatch | 366728 | [366728-bloodmatch.json](./366728-bloodmatch.json) |
+| Bloodmoney | 362163 | [362163-bloodmoney.json](./362163-bloodmoney.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodmoon Bastion | 424713 | [424713-bloodmoon-bastion.json](./424713-bloodmoon-bastion.json) |
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
@@ -11189,6 +11193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderline Homicide | 245788 | [245788-borderline-homicide.json](./245788-borderline-homicide.json) |
 | Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
 | Borderline: Life On The Line | 344903 | [344903-borderline-life-on-the-line.json](./344903-borderline-life-on-the-line.json) |
+| Bordermind | 362323 | [362323-bordermind.json](./362323-bordermind.json) |
 | Borders | 102063 | [102063-borders.json](./102063-borders.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Borderus: Angels & Demons | 150547 | [150547-borderus-angels-and-demons.json](./150547-borderus-angels-and-demons.json) |
@@ -11221,6 +11226,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boring Movies: Boring Television | 362307 | [362307-boring-movies-boring-television.json](./362307-boring-movies-boring-television.json) |
 | Boring Movies: Friends of Stolen Jewelry | 362310 | [362310-boring-movies-friends-of-stolen-jewelry.json](./362310-boring-movies-friends-of-stolen-jewelry.json) |
 | Boring Movies: Groovy Chainsaw Man | 362309 | [362309-boring-movies-groovy-chainsaw-man.json](./362309-boring-movies-groovy-chainsaw-man.json) |
+| Boring Movies: Metal Action Man | 362313 | [362313-boring-movies-metal-action-man.json](./362313-boring-movies-metal-action-man.json) |
+| Boring Movies: Public Domainers | 362312 | [362312-boring-movies-public-domainers.json](./362312-boring-movies-public-domainers.json) |
+| Boring Movies: Scientist | 362311 | [362311-boring-movies-scientist.json](./362311-boring-movies-scientist.json) |
 | Boring Movies: Spooky Bunny | 362308 | [362308-boring-movies-spooky-bunny.json](./362308-boring-movies-spooky-bunny.json) |
 | Boris | 278622 | [278622-boris.json](./278622-boris.json) |
 | Boris and the Dark Survival: Symphony of Shadows | 298711 | [298711-boris-and-the-dark-survival-symphony-of-shadows.json](./298711-boris-and-the-dark-survival-symphony-of-shadows.json) |
