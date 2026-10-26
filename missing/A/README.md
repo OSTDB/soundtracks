@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
 | A New World: Kingdoms | 68474 | [68474-a-new-world-kingdoms.json](./68474-a-new-world-kingdoms.json) |
 | A New Zero | 63157 | [63157-a-new-zero.json](./63157-a-new-zero.json) |
+| A Next Level Adventure | 362868 | [362868-a-next-level-adventure.json](./362868-a-next-level-adventure.json) |
 | A Night at Manster Mansion | 178826 | [178826-a-night-at-manster-mansion.json](./178826-a-night-at-manster-mansion.json) |
 | A Night at Moka Efti: A Babylon Berlin Story | 409210 | [409210-a-night-at-moka-efti-a-babylon-berlin-story.json](./409210-a-night-at-moka-efti-a-babylon-berlin-story.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
@@ -8803,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: The Passage | 121765 | [121765-anno-1800-the-passage.json](./121765-anno-1800-the-passage.json) |
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
 | Anno 1800: Vehicle Liveries Pack | 227418 | [227418-anno-1800-vehicle-liveries-pack.json](./227418-anno-1800-vehicle-liveries-pack.json) |
+| Anno 2070 DLC Complete Pack | 362774 | [362774-anno-2070-dlc-complete-pack.json](./362774-anno-2070-dlc-complete-pack.json) |
 | Anno 2070: Bonus Edition | 180261 | [180261-anno-2070-bonus-edition.json](./180261-anno-2070-bonus-edition.json) |
 | Anno 2070: Complete Edition | 52401 | [52401-anno-2070-complete-edition.json](./52401-anno-2070-complete-edition.json) |
 | Anno 2070: Deep Ocean | 8228 | [8228-anno-2070-deep-ocean.json](./8228-anno-2070-deep-ocean.json) |
@@ -9456,6 +9458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 327 | 109396 | [109396-apartment-327.json](./109396-apartment-327.json) |
 | Apartment 3301 | 109295 | [109295-apartment-3301.json](./109295-apartment-3301.json) |
 | Apartment 606 | 317710 | [317710-apartment-606.json](./317710-apartment-606.json) |
+| Apartment Complex | 362869 | [362869-apartment-complex.json](./362869-apartment-complex.json) |
 | Apartment Dream | 332462 | [332462-apartment-dream.json](./332462-apartment-dream.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
