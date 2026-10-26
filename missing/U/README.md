@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unchained | 335229 | [335229-unchained.json](./335229-unchained.json) |
 | Unchained Blades | 6906 | [6906-unchained-blades.json](./6906-unchained-blades.json) |
 | Unchained Blades Exxiv | 65041 | [65041-unchained-blades-exxiv.json](./65041-unchained-blades-exxiv.json) |
+| Unchained: Tale of Enra | 343197 | [343197-unchained-tale-of-enra.json](./343197-unchained-tale-of-enra.json) |
 | Uncharted 2: Among Thieves - Fortune Hunter Edition | 41883 | [41883-uncharted-2-among-thieves-fortune-hunter-edition.json](./41883-uncharted-2-among-thieves-fortune-hunter-edition.json) |
 | Uncharted 2: Among Thieves - Limited Edition Collector's Box | 41882 | [41882-uncharted-2-among-thieves-limited-edition-collectors-box.json](./41882-uncharted-2-among-thieves-limited-edition-collectors-box.json) |
 | Uncharted 2: Among Thieves Remastered | 41877 | [41877-uncharted-2-among-thieves-remastered.json](./41877-uncharted-2-among-thieves-remastered.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
 | Undefeated | 409862 | [409862-undefeated.json](./409862-undefeated.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
+| Undefined Game Pack | 346500 | [346500-undefined-game-pack.json](./346500-undefined-game-pack.json) |
 | Undelve | 406050 | [406050-undelve.json](./406050-undelve.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
 | Under | 233136 | [233136-under.json](./233136-under.json) |
@@ -2406,7 +2408,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsorted VHS | 214425 | [214425-unsorted-vhs.json](./214425-unsorted-vhs.json) |
 | Unsought | 303073 | [303073-unsought.json](./303073-unsought.json) |
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
+| Unsound Love | 346517 | [346517-unsound-love.json](./346517-unsound-love.json) |
 | Unspoken | 364004 | [364004-unspoken.json](./364004-unspoken.json) |
+| Unspoken Echoes | 346528 | [346528-unspoken-echoes.json](./346528-unspoken-echoes.json) |
 | Unspottable | 129693 | [129693-unspottable.json](./129693-unspottable.json) |
 | UnStabbed - Knife Circus | 114699 | [114699-unstabbed-knife-circus.json](./114699-unstabbed-knife-circus.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
@@ -2837,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
 | Urban Myth Dissolution Center | 216784 | [216784-urban-myth-dissolution-center.json](./216784-urban-myth-dissolution-center.json) |
 | Urban Myth.exe | 387551 | [387551-urban-myth-exe.json](./387551-urban-myth-exe.json) |
+| Urban Ninja | 343488 | [343488-urban-ninja.json](./343488-urban-ninja.json) |
 | Urban Project | 348877 | [348877-urban-project.json](./348877-urban-project.json) |
 | Urban Rivals World | 64821 | [64821-urban-rivals-world.json](./64821-urban-rivals-world.json) |
 | Urban Runner | 13789 | [13789-urban-runner.json](./13789-urban-runner.json) |
