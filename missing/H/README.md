@@ -4258,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai House: Puzzle Nights | 399645 | [399645-hentai-house-puzzle-nights.json](./399645-hentai-house-puzzle-nights.json) |
 | Hentai Hunter | 272223 | [272223-hentai-hunter.json](./272223-hentai-hunter.json) |
 | Hentai in the Forest | 155689 | [155689-hentai-in-the-forest.json](./155689-hentai-in-the-forest.json) |
+| Hentai Inumimi | 367985 | [367985-hentai-inumimi.json](./367985-hentai-inumimi.json) |
 | Hentai IQ Puzzle | 163570 | [163570-hentai-iq-puzzle.json](./163570-hentai-iq-puzzle.json) |
 | Hentai IQ Puzzle: Puzzle Pack - 5 IQ | 163571 | [163571-hentai-iq-puzzle-puzzle-pack-5-iq.json](./163571-hentai-iq-puzzle-puzzle-pack-5-iq.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
@@ -5248,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Het Huis Anubis: Het geheim van Osiris | 330105 | [330105-het-huis-anubis-het-geheim-van-osiris.json](./330105-het-huis-anubis-het-geheim-van-osiris.json) |
 | Het Labyrint van Toetanchamon | 69901 | [69901-het-labyrint-van-toetanchamon.json](./69901-het-labyrint-van-toetanchamon.json) |
 | Hetai Age Urban | 385817 | [385817-hetai-age-urban.json](./385817-hetai-age-urban.json) |
+| Hetepheres Tomb: Secrets of the Lost Queen | 367991 | [367991-hetepheres-tomb-secrets-of-the-lost-queen.json](./367991-hetepheres-tomb-secrets-of-the-lost-queen.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
 | Heterotopias: In the 1989 Future | 125911 | [125911-heterotopias-in-the-1989-future.json](./125911-heterotopias-in-the-1989-future.json) |
 | Hetja's Quest | 372783 | [372783-hetjas-quest.json](./372783-hetjas-quest.json) |
@@ -7732,6 +7734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless Life Simulator | 372744 | [372744-homeless-life-simulator.json](./372744-homeless-life-simulator.json) |
 | Homeless Pigeon | 177321 | [177321-homeless-pigeon.json](./177321-homeless-pigeon.json) |
 | Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
+| Homeless Story 2: Police Mayhem | 367919 | [367919-homeless-story-2-police-mayhem.json](./367919-homeless-story-2-police-mayhem.json) |
 | Homelessvania | 362999 | [362999-homelessvania.json](./362999-homelessvania.json) |
 | Homemade TCG | 199504 | [199504-homemade-tcg.json](./199504-homemade-tcg.json) |
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
