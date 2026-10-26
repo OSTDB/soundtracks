@@ -6233,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Path | 327912 | [327912-null-path.json](./327912-null-path.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
+| Null Train | 373497 | [373497-null-train.json](./373497-null-train.json) |
 | Null Transit | 374582 | [374582-null-transit.json](./374582-null-transit.json) |
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
 | Null: Initiative | 396671 | [396671-null-initiative.json](./396671-null-initiative.json) |
