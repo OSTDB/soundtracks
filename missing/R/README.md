@@ -6677,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Lords | 106119 | [106119-rising-lords.json](./106119-rising-lords.json) |
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
+| Rising Odds | 363853 | [363853-rising-odds.json](./363853-rising-odds.json) |
 | Rising of Ants | 225236 | [225236-rising-of-ants.json](./225236-rising-of-ants.json) |
 | Rising of the Moon | 186511 | [186511-rising-of-the-moon.json](./186511-rising-of-the-moon.json) |
 | Rising Robots | 90502 | [90502-rising-robots.json](./90502-rising-robots.json) |
