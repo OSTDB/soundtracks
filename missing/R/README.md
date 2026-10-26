@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave and Claw | 184785 | [184785-rave-and-claw.json](./184785-rave-and-claw.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
 | Rave Heart | 143421 | [143421-rave-heart.json](./143421-rave-heart.json) |
+| Rave Paradise | 335749 | [335749-rave-paradise.json](./335749-rave-paradise.json) |
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven | 197173 | [197173-raven.json](./197173-raven.json) |
@@ -6327,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigor Mortis | 124509 | [124509-rigor-mortis.json](./124509-rigor-mortis.json) |
 | RigorZ | 350565 | [350565-rigorz.json](./350565-rigorz.json) |
 | Rigs: Mechanized Combat League | 11253 | [11253-rigs-mechanized-combat-league.json](./11253-rigs-mechanized-combat-league.json) |
+| Riichi Advanced | 335766 | [335766-riichi-advanced.json](./335766-riichi-advanced.json) |
 | Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
 | Riichi Mahjong | 403729 | [403729-riichi-mahjong.json](./403729-riichi-mahjong.json) |
 | RiiMajor | 294771 | [294771-riimajor.json](./294771-riimajor.json) |
@@ -7712,6 +7714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots | 248488 | [248488-robots.json](./248488-robots.json) |
 | Robots | 248489 | [248489-robots.json](./248489-robots.json) |
 | Robots | 248490 | [248490-robots.json](./248490-robots.json) |
+| Robots & Things | 335755 | [335755-robots-and-things.json](./335755-robots-and-things.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robots and Murder | 343191 | [343191-robots-and-murder.json](./343191-robots-and-murder.json) |
 | Robots and Planets | 347361 | [347361-robots-and-planets.json](./347361-robots-and-planets.json) |
@@ -7994,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 16 | 316170 | [316170-rocket-league-season-16.json](./316170-rocket-league-season-16.json) |
 | Rocket League: Season 17 Rocketeer Pack | 331860 | [331860-rocket-league-season-17-rocketeer-pack.json](./331860-rocket-league-season-17-rocketeer-pack.json) |
 | Rocket League: Season 17 Veteran Pack | 330705 | [330705-rocket-league-season-17-veteran-pack.json](./330705-rocket-league-season-17-veteran-pack.json) |
+| Rocket League: Season 18 | 335761 | [335761-rocket-league-season-18.json](./335761-rocket-league-season-18.json) |
 | Rocket League: Season 18 Rocketeer Pack | 366846 | [366846-rocket-league-season-18-rocketeer-pack.json](./366846-rocket-league-season-18-rocketeer-pack.json) |
 | Rocket League: Season 18 Veteran Pack | 366845 | [366845-rocket-league-season-18-veteran-pack.json](./366845-rocket-league-season-18-veteran-pack.json) |
 | Rocket League: Season 19 | 350417 | [350417-rocket-league-season-19.json](./350417-rocket-league-season-19.json) |
