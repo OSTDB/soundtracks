@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Dark Temple | 164569 | [164569-dark-temple.json](./164569-dark-temple.json) |
 | Dark Theme Bundle | 265191 | [265191-dark-theme-bundle.json](./265191-dark-theme-bundle.json) |
+| Dark Things | 335174 | [335174-dark-things.json](./335174-dark-things.json) |
 | Dark Throne | 29597 | [29597-dark-throne.json](./29597-dark-throne.json) |
 | Dark Throne | 303074 | [303074-dark-throne.json](./303074-dark-throne.json) |
 | Dark Throne: The Queen Rises | 220587 | [220587-dark-throne-the-queen-rises.json](./220587-dark-throne-the-queen-rises.json) |
@@ -11958,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr.Brain Nonogram PC | 91600 | [91600-dr-brain-nonogram-pc.json](./91600-dr-brain-nonogram-pc.json) |
 | Dr.Green | 36001 | [36001-dr-green.json](./36001-dr-green.json) |
 | Dr.Meep | 103676 | [103676-dr-meep.json](./103676-dr-meep.json) |
+| Dr.Mememe want to sleep | 335200 | [335200-dr-mememe-want-to-sleep.json](./335200-dr-mememe-want-to-sleep.json) |
 | Dr.Pumpkin | 210678 | [210678-dr-pumpkin.json](./210678-dr-pumpkin.json) |
 | Dr.Roland | 270768 | [270768-dr-roland.json](./270768-dr-roland.json) |
 | Dr.Tool Augen Training | 91615 | [91615-dr-tool-augen-training.json](./91615-dr-tool-augen-training.json) |
