@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are All Individuals | 53921 | [53921-we-are-all-individuals.json](./53921-we-are-all-individuals.json) |
 | We are Blob | 338388 | [338388-we-are-blob.json](./338388-we-are-blob.json) |
 | We are Broken | 146090 | [146090-we-are-broken.json](./146090-we-are-broken.json) |
+| We Are Busy Digging a Hole | 350345 | [350345-we-are-busy-digging-a-hole.json](./350345-we-are-busy-digging-a-hole.json) |
 | We Are Chicago | 26868 | [26868-we-are-chicago.json](./26868-we-are-chicago.json) |
 | We Are Cooking | 418310 | [418310-we-are-cooking.json](./418310-we-are-cooking.json) |
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
@@ -3840,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of the Seasons | 395465 | [395465-whispers-of-the-seasons.json](./395465-whispers-of-the-seasons.json) |
 | Whispers of The Shadow | 312550 | [312550-whispers-of-the-shadow.json](./312550-whispers-of-the-shadow.json) |
 | Whispers of the Tallgrass | 398959 | [398959-whispers-of-the-tallgrass.json](./398959-whispers-of-the-tallgrass.json) |
+| Whispers of the Village | 350359 | [350359-whispers-of-the-village.json](./350359-whispers-of-the-village.json) |
 | Whispers of the Void | 358378 | [358378-whispers-of-the-void.json](./358378-whispers-of-the-void.json) |
 | Whispers of West Grove | 237045 | [237045-whispers-of-west-grove.json](./237045-whispers-of-west-grove.json) |
 | Whispers of Wings Jigsaw Puzzles | 344410 | [344410-whispers-of-wings-jigsaw-puzzles.json](./344410-whispers-of-wings-jigsaw-puzzles.json) |
