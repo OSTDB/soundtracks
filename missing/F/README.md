@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Flower | 340055 | [340055-falling-flower.json](./340055-falling-flower.json) |
 | Falling for Beans | 275539 | [275539-falling-for-beans.json](./275539-falling-for-beans.json) |
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
+| Falling Fred | 381065 | [381065-falling-fred.json](./381065-falling-fred.json) |
 | Falling From the Rabbit Hole | 228348 | [228348-falling-from-the-rabbit-hole.json](./228348-falling-from-the-rabbit-hole.json) |
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
 | Falling Fruit | 359730 | [359730-falling-fruit.json](./359730-falling-fruit.json) |
@@ -3024,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feastopia | 368626 | [368626-feastopia.json](./368626-feastopia.json) |
 | FeastTower | 277298 | [277298-feasttower.json](./277298-feasttower.json) |
 | Feather | 107222 | [107222-feather.json](./107222-feather.json) |
+| Feather Land | 381064 | [381064-feather-land.json](./381064-feather-land.json) |
 | Feather of Praying | 102970 | [102970-feather-of-praying.json](./102970-feather-of-praying.json) |
 | Feather Park | 218569 | [218569-feather-park.json](./218569-feather-park.json) |
 | Featherborn | 309743 | [309743-featherborn.json](./309743-featherborn.json) |
@@ -5833,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Security Breach - Chaos Mod | 263898 | [263898-five-nights-at-freddys-security-breach-chaos-mod.json](./263898-five-nights-at-freddys-security-breach-chaos-mod.json) |
 | Five Nights at Freddy's: Security Breach - Collector's Edition | 198389 | [198389-five-nights-at-freddys-security-breach-collectors-edition.json](./198389-five-nights-at-freddys-security-breach-collectors-edition.json) |
 | Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
+| Five Nights at Freddy's: Showtime | 381056 | [381056-five-nights-at-freddys-showtime.json](./381056-five-nights-at-freddys-showtime.json) |
 | Five Nights at Freddy's: Sister Location | 19320 | [19320-five-nights-at-freddys-sister-location.json](./19320-five-nights-at-freddys-sister-location.json) |
 | Five Nights at Freddy's: Sister Location | 241462 | [241462-five-nights-at-freddys-sister-location.json](./241462-five-nights-at-freddys-sister-location.json) |
 | Five Nights at Freddy's: Sister Location - Custom Night | 230683 | [230683-five-nights-at-freddys-sister-location-custom-night.json](./230683-five-nights-at-freddys-sister-location-custom-night.json) |
@@ -8185,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Fables | 320609 | [320609-forgotten-fables.json](./320609-forgotten-fables.json) |
 | Forgotten Fables: Wolves on the Westwind | 195567 | [195567-forgotten-fables-wolves-on-the-westwind.json](./195567-forgotten-fables-wolves-on-the-westwind.json) |
 | Forgotten Faces | 47998 | [47998-forgotten-faces.json](./47998-forgotten-faces.json) |
+| Forgotten Faiths | 381092 | [381092-forgotten-faiths.json](./381092-forgotten-faiths.json) |
 | Forgotten Fears | 312734 | [312734-forgotten-fears.json](./312734-forgotten-fears.json) |
 | Forgotten Fluff | 406748 | [406748-forgotten-fluff.json](./406748-forgotten-fluff.json) |
 | Forgotten Forest: Afterlife | 58301 | [58301-forgotten-forest-afterlife.json](./58301-forgotten-forest-afterlife.json) |
@@ -8546,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
 | Fortnite OG: Chapter 1 Season 3 | 342490 | [342490-fortnite-og-chapter-1-season-3.json](./342490-fortnite-og-chapter-1-season-3.json) |
 | Fortnite OG: Chapter 1 Season 5 | 361184 | [361184-fortnite-og-chapter-1-season-5.json](./361184-fortnite-og-chapter-1-season-5.json) |
+| Fortnite OG: Chapter 1 Season 6 | 381073 | [381073-fortnite-og-chapter-1-season-6.json](./381073-fortnite-og-chapter-1-season-6.json) |
 | Fortnite OG: Chapter 1 Season 7 | 381174 | [381174-fortnite-og-chapter-1-season-7.json](./381174-fortnite-og-chapter-1-season-7.json) |
 | Fortnite OG: Chapter 1 Season 8 | 398281 | [398281-fortnite-og-chapter-1-season-8.json](./398281-fortnite-og-chapter-1-season-8.json) |
 | Fortnite OG: Chapter 1 Season 9 | 409733 | [409733-fortnite-og-chapter-1-season-9.json](./409733-fortnite-og-chapter-1-season-9.json) |
@@ -10071,6 +10076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Smith | 182717 | [182717-frog-smith.json](./182717-frog-smith.json) |
 | Frog Soup | 315773 | [315773-frog-soup.json](./315773-frog-soup.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
+| Frog Sqwad | 381087 | [381087-frog-sqwad.json](./381087-frog-sqwad.json) |
 | Frog Story: The Power Tongue | 289451 | [289451-frog-story-the-power-tongue.json](./289451-frog-story-the-power-tongue.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
 | Frog Struggles | 129432 | [129432-frog-struggles.json](./129432-frog-struggles.json) |
