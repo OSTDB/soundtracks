@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebabstar | 295307 | [295307-kebabstar.json](./295307-kebabstar.json) |
 | Keda | 178509 | [178509-keda.json](./178509-keda.json) |
 | Kedama no Gonjiro | 112092 | [112092-kedama-no-gonjiro.json](./112092-kedama-no-gonjiro.json) |
+| Keebee | 348162 | [348162-keebee.json](./348162-keebee.json) |
 | Keef the Thief: A Boy and His Lockpick | 8930 | [8930-keef-the-thief-a-boy-and-his-lockpick.json](./8930-keef-the-thief-a-boy-and-his-lockpick.json) |
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
@@ -1674,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Kapers | 198792 | [198792-keystone-kapers.json](./198792-keystone-kapers.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
 | Keystone Titans VR | 249074 | [249074-keystone-titans-vr.json](./249074-keystone-titans-vr.json) |
+| Keytamine | 348720 | [348720-keytamine.json](./348720-keytamine.json) |
 | Keytron | 350480 | [350480-keytron.json](./350480-keytron.json) |
 | keyWars | 96848 | [96848-keywars.json](./96848-keywars.json) |
 | Keyword 2: Nightfall | 276657 | [276657-keyword-2-nightfall.json](./276657-keyword-2-nightfall.json) |
@@ -2342,7 +2344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3572,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klax | 286421 | [286421-klax.json](./286421-klax.json) |
 | Klaymen Gun-Hockey | 43749 | [43749-klaymen-gun-hockey.json](./43749-klaymen-gun-hockey.json) |
 | Klein v.0.1 | 333605 | [333605-klein-v-0-1.json](./333605-klein-v-0-1.json) |
+| Kleks Academy | 348718 | [348718-kleks-academy.json](./348718-kleks-academy.json) |
 | Klendathu | 44349 | [44349-klendathu.json](./44349-klendathu.json) |
 | Kleopatra | 213968 | [213968-kleopatra.json](./213968-kleopatra.json) |
 | Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
