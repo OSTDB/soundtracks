@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabTrainingVR: Biosafety Cabinet Edition | 163711 | [163711-labtrainingvr-biosafety-cabinet-edition.json](./163711-labtrainingvr-biosafety-cabinet-edition.json) |
 | LabTrainingVR: Personal Protective - Equipment Edition | 174091 | [174091-labtrainingvr-personal-protective-equipment-edition.json](./174091-labtrainingvr-personal-protective-equipment-edition.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
+| Labubu Battle Royale | 380507 | [380507-labubu-battle-royale.json](./380507-labubu-battle-royale.json) |
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
 | LabWatch | 272261 | [272261-labwatch.json](./272261-labwatch.json) |
 | Laby and the Mysterious Planet | 275507 | [275507-laby-and-the-mysterious-planet.json](./275507-laby-and-the-mysterious-planet.json) |
@@ -4967,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Longnose | 232864 | [232864-little-longnose.json](./232864-little-longnose.json) |
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
 | Little Lords of Twilight | 28667 | [28667-little-lords-of-twilight.json](./28667-little-lords-of-twilight.json) |
+| Little Lost Bobbles | 380476 | [380476-little-lost-bobbles.json](./380476-little-lost-bobbles.json) |
 | Little Lost Robots | 115353 | [115353-little-lost-robots.json](./115353-little-lost-robots.json) |
 | Little Lovers | 108969 | [108969-little-lovers.json](./108969-little-lovers.json) |
 | Little Lovers 2nd. Yui | 108968 | [108968-little-lovers-2nd-yui.json](./108968-little-lovers-2nd-yui.json) |
