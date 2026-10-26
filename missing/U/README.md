@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
 | Universal Flight Simulator: Extended | 281900 | [281900-universal-flight-simulator-extended.json](./281900-universal-flight-simulator-extended.json) |
+| Universal Garbage Station | 363855 | [363855-universal-garbage-station.json](./363855-universal-garbage-station.json) |
 | Universal Harvest: Incremental | 406890 | [406890-universal-harvest-incremental.json](./406890-universal-harvest-incremental.json) |
 | Universal Hero | 30209 | [30209-universal-hero.json](./30209-universal-hero.json) |
 | Universal History of Light | 60784 | [60784-universal-history-of-light.json](./60784-universal-history-of-light.json) |
