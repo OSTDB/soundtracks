@@ -7412,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
 | Holoception | 117460 | [117460-holoception.json](./117460-holoception.json) |
 | HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
+| Holodama: Content Clash | 386190 | [386190-holodama-content-clash.json](./386190-holodama-content-clash.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloDungeon: Koyori vs HollowLive in Honsha Tower | 410033 | [410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json](./410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json) |
 | Holoemblem: The Search for Seiso | 273550 | [273550-holoemblem-the-search-for-seiso.json](./273550-holoemblem-the-search-for-seiso.json) |
@@ -8398,6 +8399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tale 2: Remaster | 390498 | [390498-horror-tale-2-remaster.json](./390498-horror-tale-2-remaster.json) |
 | Horror Tale 2: Samantha | 230953 | [230953-horror-tale-2-samantha.json](./230953-horror-tale-2-samantha.json) |
 | Horror Tale 3: The Witch | 339906 | [339906-horror-tale-3-the-witch.json](./339906-horror-tale-3-the-witch.json) |
+| Horror Tale: Remaster | 386209 | [386209-horror-tale-remaster.json](./386209-horror-tale-remaster.json) |
 | Horror Tales Eats The World | 358460 | [358460-horror-tales-eats-the-world.json](./358460-horror-tales-eats-the-world.json) |
 | Horror Tales: The Beggar | 149523 | [149523-horror-tales-the-beggar.json](./149523-horror-tales-the-beggar.json) |
 | Horror Tomb | 295869 | [295869-horror-tomb.json](./295869-horror-tomb.json) |
@@ -8908,6 +8910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Simulator | 235688 | [235688-hotel-simulator.json](./235688-hotel-simulator.json) |
 | Hotel Simulator | 259140 | [259140-hotel-simulator.json](./259140-hotel-simulator.json) |
 | Hotel Simulator 2024 | 307567 | [307567-hotel-simulator-2024.json](./307567-hotel-simulator-2024.json) |
+| Hotel Simulator 2026 | 386191 | [386191-hotel-simulator-2026.json](./386191-hotel-simulator-2026.json) |
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
 | Hotel Sowls | 112385 | [112385-hotel-sowls.json](./112385-hotel-sowls.json) |
 | Hotel Story | 224754 | [224754-hotel-story.json](./224754-hotel-story.json) |
