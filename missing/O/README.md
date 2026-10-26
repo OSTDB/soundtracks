@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OLO game | 88816 | [88816-olo-game.json](./88816-olo-game.json) |
 | Olo Loco | 175224 | [175224-olo-loco.json](./175224-olo-loco.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
+| Oloo | 383417 | [383417-oloo.json](./383417-oloo.json) |
 | Olson's Boxing Challenge | 75667 | [75667-olsons-boxing-challenge.json](./75667-olsons-boxing-challenge.json) |
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Streaming | 415261 | [415261-on-streaming.json](./415261-on-streaming.json) |
 | On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
+| On Tape << Rewind | 383457 | [383457-on-tape-rewind.json](./383457-on-tape-rewind.json) |
 | On Target | 69850 | [69850-on-target.json](./69850-on-target.json) |
 | On Target VR Darts | 115529 | [115529-on-target-vr-darts.json](./115529-on-target-vr-darts.json) |
 | On Tario | 185520 | [185520-on-tario.json](./185520-on-tario.json) |
