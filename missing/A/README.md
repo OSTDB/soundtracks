@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -8477,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
 | Anime Girls Basketball League | 309004 | [309004-anime-girls-basketball-league.json](./309004-anime-girls-basketball-league.json) |
+| Anime Girls Jigsaw Puzzles | 384007 | [384007-anime-girls-jigsaw-puzzles.json](./384007-anime-girls-jigsaw-puzzles.json) |
 | Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
 | Anime Girls vs. Soldiers | 191043 | [191043-anime-girls-vs-soldiers.json](./191043-anime-girls-vs-soldiers.json) |
 | Anime Girls: Bouncy Basketball | 342214 | [342214-anime-girls-bouncy-basketball.json](./342214-anime-girls-bouncy-basketball.json) |
