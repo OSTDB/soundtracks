@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (Not) Just another Space Shooter | 71931 | [71931-not-just-another-space-shooter.json](./71931-not-just-another-space-shooter.json) |
 | (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
 | (T)Raumschiff Surprise - Periode 1 | 131283 | [131283-t-raumschiff-surprise-periode-1.json](./131283-t-raumschiff-surprise-periode-1.json) |
+| [ Content Deleted ] | 355606 | [355606-content-deleted.json](./355606-content-deleted.json) |
 | [ VOID ] | 384048 | [384048-void.json](./384048-void.json) |
 | [Don't] Let Go | 371279 | [371279-dont-let-go.json](./371279-dont-let-go.json) |
 | [HammerA] HammerTime ! | 134969 | [134969-hammera-hammertime.json](./134969-hammera-hammertime.json) |
@@ -581,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Steps | 265505 | [265505-100-steps.json](./265505-100-steps.json) |
 | 100 Tavern Cats | 376183 | [376183-100-tavern-cats.json](./376183-100-tavern-cats.json) |
 | 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
+| 100 Trials | 355069 | [355069-100-trials.json](./355069-100-trials.json) |
 | 100 Undersea Cats | 393726 | [393726-100-undersea-cats.json](./393726-100-undersea-cats.json) |
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
 | 100 Vampire Cats | 347754 | [347754-100-vampire-cats.json](./347754-100-vampire-cats.json) |
@@ -852,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Bullets to Midnight | 349287 | [349287-12-bullets-to-midnight.json](./349287-12-bullets-to-midnight.json) |
 | 12 Dino Games in 1 | 54970 | [54970-12-dino-games-in-1.json](./54970-12-dino-games-in-1.json) |
 | 12 Hours | 117354 | [117354-12-hours.json](./117354-12-hours.json) |
+| 12 Hours | 355070 | [355070-12-hours.json](./355070-12-hours.json) |
 | 12 Hours 2 | 121292 | [121292-12-hours-2.json](./121292-12-hours-2.json) |
 | 12 Hours Before Christmas | 113483 | [113483-12-hours-before-christmas.json](./113483-12-hours-before-christmas.json) |
 | 12 Hours Museum | 308938 | [308938-12-hours-museum.json](./308938-12-hours-museum.json) |
