@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Heist | 184760 | [184760-vampire-heist.json](./184760-vampire-heist.json) |
 | Vampire Hunt | 370479 | [370479-vampire-hunt.json](./370479-vampire-hunt.json) |
 | Vampire Hunter D | 126469 | [126469-vampire-hunter-d.json](./126469-vampire-hunter-d.json) |
+| Vampire Hunter: Nightrise | 375237 | [375237-vampire-hunter-nightrise.json](./375237-vampire-hunter-nightrise.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
 | Vampire Hunters | 27642 | [27642-vampire-hunters.json](./27642-vampire-hunters.json) |
 | Vampire Huntress: Lament of the Sun | 327013 | [327013-vampire-huntress-lament-of-the-sun.json](./327013-vampire-huntress-lament-of-the-sun.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporwave | 149882 | [149882-vaporwave.json](./149882-vaporwave.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
 | Vaporwave Drift | 119453 | [119453-vaporwave-drift.json](./119453-vaporwave-drift.json) |
+| Vaporwave Hardest Game | 377625 | [377625-vaporwave-hardest-game.json](./377625-vaporwave-hardest-game.json) |
 | Vaporwave Pinball | 253826 | [253826-vaporwave-pinball.json](./253826-vaporwave-pinball.json) |
 | Vaporwave Road VR | 151053 | [151053-vaporwave-road-vr.json](./151053-vaporwave-road-vr.json) |
 | Vaporwave Simulator | 81747 | [81747-vaporwave-simulator.json](./81747-vaporwave-simulator.json) |
