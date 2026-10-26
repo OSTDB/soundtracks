@@ -3293,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelican | 345633 | [345633-pelican.json](./345633-pelican.json) |
 | Pelican Empyrean | 373187 | [373187-pelican-empyrean.json](./373187-pelican-empyrean.json) |
 | Pelican Harbor | 302057 | [302057-pelican-harbor.json](./302057-pelican-harbor.json) |
+| Pelican Post | 338966 | [338966-pelican-post.json](./338966-pelican-post.json) |
 | Pelikeeper | 381193 | [381193-pelikeeper.json](./381193-pelikeeper.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
@@ -4931,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano: Learn and Play - Ultra Premium | 304792 | [304792-piano-learn-and-play-ultra-premium.json](./304792-piano-learn-and-play-ultra-premium.json) |
 | Piano: Learn and Play - Ultra Special | 304791 | [304791-piano-learn-and-play-ultra-special.json](./304791-piano-learn-and-play-ultra-special.json) |
 | Pianoforte | 251476 | [251476-pianoforte.json](./251476-pianoforte.json) |
+| PianoGlow | 338633 | [338633-pianoglow.json](./338633-pianoglow.json) |
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
 | Piatka | 55779 | [55779-piatka.json](./55779-piatka.json) |
@@ -6011,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinewood Island | 69388 | [69388-pinewood-island.json](./69388-pinewood-island.json) |
 | Pinewood Valley | 239719 | [239719-pinewood-valley.json](./239719-pinewood-valley.json) |
 | Pinfall | 255615 | [255615-pinfall.json](./255615-pinfall.json) |
+| Pinfeather | 338629 | [338629-pinfeather.json](./338629-pinfeather.json) |
 | Pinfinity: Incremental Pinball | 405086 | [405086-pinfinity-incremental-pinball.json](./405086-pinfinity-incremental-pinball.json) |
 | Ping | 267965 | [267965-ping.json](./267965-ping.json) |
 | Ping | 307600 | [307600-ping.json](./307600-ping.json) |
@@ -6787,6 +6790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
 | Pixel Harvester | 372189 | [372189-pixel-harvester.json](./372189-pixel-harvester.json) |
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
+| Pixel Heroes Adventure | 338660 | [338660-pixel-heroes-adventure.json](./338660-pixel-heroes-adventure.json) |
 | Pixel Heroes: Byte & Magic | 10699 | [10699-pixel-heroes-byte-and-magic.json](./10699-pixel-heroes-byte-and-magic.json) |
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
 | Pixel Heros - Idle RPG | 58633 | [58633-pixel-heros-idle-rpg.json](./58633-pixel-heros-idle-rpg.json) |
@@ -7475,6 +7479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Turtle 4evr | 232038 | [232038-pizza-turtle-4evr.json](./232038-pizza-turtle-4evr.json) |
 | Pizza Tycoon 2 | 51885 | [51885-pizza-tycoon-2.json](./51885-pizza-tycoon-2.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
+| PIzza Wizard+ | 338632 | [338632-pizza-wizard.json](./338632-pizza-wizard.json) |
 | Pizza Worm | 9079 | [9079-pizza-worm.json](./9079-pizza-worm.json) |
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
 | Pizzaïolo-Ninja | 374603 | [374603-pizzaiolo-ninja.json](./374603-pizzaiolo-ninja.json) |
