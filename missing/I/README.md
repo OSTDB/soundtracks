@@ -5783,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ixion | 40345 | [40345-ixion.json](./40345-ixion.json) |
 | Ixion Saga | 152292 | [152292-ixion-saga.json](./152292-ixion-saga.json) |
 | Ixion: Deluxe Edition | 230975 | [230975-ixion-deluxe-edition.json](./230975-ixion-deluxe-edition.json) |
+| Iyashikei Action Game | 334626 | [334626-iyashikei-action-game.json](./334626-iyashikei-action-game.json) |
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Iz and Auggie: Escape from Dimension Q | 64378 | [64378-iz-and-auggie-escape-from-dimension-q.json](./64378-iz-and-auggie-escape-from-dimension-q.json) |
 | Izakaya Izakoza | 412931 | [412931-izakaya-izakoza.json](./412931-izakaya-izakoza.json) |
