@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kadath | 386925 | [386925-kadath.json](./386925-kadath.json) |
 | Kaden Garth | 72474 | [72474-kaden-garth.json](./72474-kaden-garth.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
+| Kadetstvo: Novaya Istoriya | 336188 | [336188-kadetstvo-novaya-istoriya.json](./336188-kadetstvo-novaya-istoriya.json) |
 | Kadin the Soul Eater | 303601 | [303601-kadin-the-soul-eater.json](./303601-kadin-the-soul-eater.json) |
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
 | Kadobat Wars | 103257 | [103257-kadobat-wars.json](./103257-kadobat-wars.json) |
@@ -1757,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Goal | 40341 | [40341-kick-goal.json](./40341-kick-goal.json) |
 | Kick It | 94198 | [94198-kick-it.json](./94198-kick-it.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
+| Kick Kirby | 335779 | [335779-kick-kirby.json](./335779-kick-kirby.json) |
 | Kick Master | 368602 | [368602-kick-master.json](./368602-kick-master.json) |
 | Kick Me! | 293879 | [293879-kick-me.json](./293879-kick-me.json) |
 | Kick of Dungeon | 128324 | [128324-kick-of-dungeon.json](./128324-kick-of-dungeon.json) |
@@ -2351,7 +2353,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
