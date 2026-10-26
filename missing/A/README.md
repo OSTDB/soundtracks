@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | A (W)hole lot of Colors | 177479 | [177479-a-w-hole-lot-of-colors.json](./177479-a-w-hole-lot-of-colors.json) |
+| A 20-year-old game is being remade with the newest engine RPG Maker Unite and distributed for free?: RPG Maker's heroes vs. the demon king | 334608 | [334608-a-20-year-old-game-is-being-remade-with-the-newest-engine-rpg-maker-unite-and-distributed-for-free-rpg-makers-heroes-vs-the-demon-king.json](./334608-a-20-year-old-game-is-being-remade-with-the-newest-engine-rpg-maker-unite-and-distributed-for-free-rpg-makers-heroes-vs-the-demon-king.json) |
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
 | A 2nd X Thing Episode 2: Digital Groove | 287845 | [287845-a-2nd-x-thing-episode-2-digital-groove.json](./287845-a-2nd-x-thing-episode-2-digital-groove.json) |
 | A 3ª Jornada | 299477 | [299477-a-3a-jornada.json](./299477-a-3a-jornada.json) |
