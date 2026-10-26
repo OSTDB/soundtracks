@@ -3499,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibbonacci | 410992 | [410992-gibbonacci.json](./410992-gibbonacci.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
 | Gibo: Sayaka | 128363 | [128363-gibo-sayaka.json](./128363-gibo-sayaka.json) |
+| Gibson | 375220 | [375220-gibson.json](./375220-gibson.json) |
 | Gibtropolis | 299848 | [299848-gibtropolis.json](./299848-gibtropolis.json) |
 | Gibz | 20404 | [20404-gibz.json](./20404-gibz.json) |
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
@@ -4879,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoD Factory: Wingmen | 12514 | [12514-god-factory-wingmen.json](./12514-god-factory-wingmen.json) |
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
 | God For A Day | 277267 | [277267-god-for-a-day.json](./277267-god-for-a-day.json) |
+| God Forsaken | 375213 | [375213-god-forsaken.json](./375213-god-forsaken.json) |
 | God Game | 150432 | [150432-god-game.json](./150432-god-game.json) |
 | God Game : The Odyssey | 34235 | [34235-god-game-the-odyssey.json](./34235-god-game-the-odyssey.json) |
 | God Girl | 250927 | [250927-god-girl.json](./250927-god-girl.json) |
@@ -8196,6 +8198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
 | Growth | 358820 | [358820-growth.json](./358820-growth.json) |
+| Growth | 375204 | [375204-growth.json](./375204-growth.json) |
 | Growth | 391148 | [391148-growth.json](./391148-growth.json) |
 | Growth Experiment | 285526 | [285526-growth-experiment.json](./285526-growth-experiment.json) |
 | Growth Fish | 310277 | [310277-growth-fish.json](./310277-growth-fish.json) |
