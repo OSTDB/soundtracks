@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Increment | 197532 | [197532-increment.json](./197532-increment.json) |
 | Incremental Cats | 387314 | [387314-incremental-cats.json](./387314-incremental-cats.json) |
+| Incremental Cubes | 367990 | [367990-incremental-cubes.json](./367990-incremental-cubes.json) |
 | Incremental Dice | 319879 | [319879-incremental-dice.json](./319879-incremental-dice.json) |
 | Incremental Dungeon | 388335 | [388335-incremental-dungeon.json](./388335-incremental-dungeon.json) |
 | Incremental Epic Breakers | 163968 | [163968-incremental-epic-breakers.json](./163968-incremental-epic-breakers.json) |
@@ -4170,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Club & Cafe Simulator | 342410 | [342410-internet-club-and-cafe-simulator.json](./342410-internet-club-and-cafe-simulator.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
 | Internet Exploring | 404368 | [404368-internet-exploring.json](./404368-internet-exploring.json) |
+| Internet Fisherman | 367994 | [367994-internet-fisherman.json](./367994-internet-fisherman.json) |
 | Internet Generation | 157951 | [157951-internet-generation.json](./157951-internet-generation.json) |
 | Internet Reversi | 230732 | [230732-internet-reversi.json](./230732-internet-reversi.json) |
 | Internet Scrabble Club | 157528 | [157528-internet-scrabble-club.json](./157528-internet-scrabble-club.json) |
