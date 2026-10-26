@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Jan Ken Pon | 22033 | [22033-ultimate-jan-ken-pon.json](./22033-ultimate-jan-ken-pon.json) |
 | Ultimate Jazz Jackrabbit Doom | 196004 | [196004-ultimate-jazz-jackrabbit-doom.json](./196004-ultimate-jazz-jackrabbit-doom.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
+| Ultimate JOI | 379331 | [379331-ultimate-joi.json](./379331-ultimate-joi.json) |
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
 | Ultimate Kept Man Life | 340347 | [340347-ultimate-kept-man-life.json](./340347-ultimate-kept-man-life.json) |
 | Ultimate Knight Windom XP | 268438 | [268438-ultimate-knight-windom-xp.json](./268438-ultimate-knight-windom-xp.json) |
@@ -2698,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upshift StrikeRacer | 375395 | [375395-upshift-strikeracer.json](./375395-upshift-strikeracer.json) |
 | Upside | 151489 | [151489-upside.json](./151489-upside.json) |
 | Upside Down | 90487 | [90487-upside-down.json](./90487-upside-down.json) |
+| Upside Down Tales of the Grotesque | 379427 | [379427-upside-down-tales-of-the-grotesque.json](./379427-upside-down-tales-of-the-grotesque.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
 | Upside-Down Dimensions | 52009 | [52009-upside-down-dimensions.json](./52009-upside-down-dimensions.json) |
 | Upsidedownsky | 368508 | [368508-upsidedownsky.json](./368508-upsidedownsky.json) |
