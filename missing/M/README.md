@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-san Slayer: The Soul Of Elegant Skill | 210584 | [210584-maid-san-slayer-the-soul-of-elegant-skill.json](./210584-maid-san-slayer-the-soul-of-elegant-skill.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
+| Maiden | 344870 | [344870-maiden.json](./344870-maiden.json) |
 | Maiden City: The Last Collateral Damage | 90408 | [90408-maiden-city-the-last-collateral-damage.json](./90408-maiden-city-the-last-collateral-damage.json) |
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
@@ -7451,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off: Yubikiri no Kioku - Limited Edition | 413661 | [413661-memories-off-yubikiri-no-kioku-limited-edition.json](./413661-memories-off-yubikiri-no-kioku-limited-edition.json) |
 | Memories Off: Yubikiri no Kioku + Sweets Pack - Limited Edition | 413666 | [413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json](./413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json) |
 | Memories Unveiled | 262485 | [262485-memories-unveiled.json](./262485-memories-unveiled.json) |
+| Memories With My Kitten | 344842 | [344842-memories-with-my-kitten.json](./344842-memories-with-my-kitten.json) |
 | Memories With You | 380602 | [380602-memories-with-you.json](./380602-memories-with-you.json) |
 | Memories: Millennium Girl | 263206 | [263206-memories-millennium-girl.json](./263206-memories-millennium-girl.json) |
 | Memories: Remember Me | 378008 | [378008-memories-remember-me.json](./378008-memories-remember-me.json) |
@@ -8484,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteos Astro Blocks | 344473 | [344473-meteos-astro-blocks.json](./344473-meteos-astro-blocks.json) |
 | Meteos: Disney Magic | 1166 | [1166-meteos-disney-magic.json](./1166-meteos-disney-magic.json) |
 | MeteoStorm | 295140 | [295140-meteostorm.json](./295140-meteostorm.json) |
+| Meter Maid City! | 344823 | [344823-meter-maid-city.json](./344823-meter-maid-city.json) |
 | Meth Master | 199481 | [199481-meth-master.json](./199481-meth-master.json) |
 | Method | 394776 | [394776-method.json](./394776-method.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
@@ -13970,6 +13973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight | 33711 | [33711-moonlight.json](./33711-moonlight.json) |
 | Moonlight | 422035 | [422035-moonlight.json](./422035-moonlight.json) |
+| MoonLight | 344831 | [344831-moonlight.json](./344831-moonlight.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
