@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darker: Episode I | 163759 | [163759-darker-episode-i.json](./163759-darker-episode-i.json) |
 | Darkest Abyss | 216644 | [216644-darkest-abyss.json](./216644-darkest-abyss.json) |
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
+| Darkest Cube | 356540 | [356540-darkest-cube.json](./356540-darkest-cube.json) |
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Depths | 116230 | [116230-darkest-depths.json](./116230-darkest-depths.json) |
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
@@ -12978,6 +12979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Rider Remake | 214660 | [214660-draw-rider-remake.json](./214660-draw-rider-remake.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
+| Draw Shooter | 356520 | [356520-draw-shooter.json](./356520-draw-shooter.json) |
 | Draw Slasher | 34033 | [34033-draw-slasher.json](./34033-draw-slasher.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
 | Draw Souls | 54488 | [54488-draw-souls.json](./54488-draw-souls.json) |
