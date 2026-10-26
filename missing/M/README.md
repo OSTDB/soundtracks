@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage and Monsters II | 258330 | [258330-mage-and-monsters-ii.json](./258330-mage-and-monsters-ii.json) |
 | Mage and the Grimoire of Beast | 293203 | [293203-mage-and-the-grimoire-of-beast.json](./293203-mage-and-the-grimoire-of-beast.json) |
 | Mage Arena | 356787 | [356787-mage-arena.json](./356787-mage-arena.json) |
+| Mage Arena: Voice of Magic | 378761 | [378761-mage-arena-voice-of-magic.json](./378761-mage-arena-voice-of-magic.json) |
 | Mage Arena: Voice of Power | 376236 | [376236-mage-arena-voice-of-power.json](./376236-mage-arena-voice-of-power.json) |
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
@@ -961,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Halloween Escape 2 | 315602 | [315602-magic-halloween-escape-2.json](./315602-magic-halloween-escape-2.json) |
 | Magic Halloween Escape 3 | 315603 | [315603-magic-halloween-escape-3.json](./315603-magic-halloween-escape-3.json) |
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
+| Magic Hentai Puzzle | 378817 | [378817-magic-hentai-puzzle.json](./378817-magic-hentai-puzzle.json) |
 | Magic Hero Incremental | 386446 | [386446-magic-hero-incremental.json](./386446-magic-hero-incremental.json) |
 | Magic Heroes | 120261 | [120261-magic-heroes.json](./120261-magic-heroes.json) |
 | Magic Heroes: Save Our Park | 28911 | [28911-magic-heroes-save-our-park.json](./28911-magic-heroes-save-our-park.json) |
@@ -2201,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makyouden | 92122 | [92122-makyouden.json](./92122-makyouden.json) |
 | Mala Petaka | 224535 | [224535-mala-petaka.json](./224535-mala-petaka.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
+| Malachite: Temple of the Sun - Collector's Edition | 378764 | [378764-malachite-temple-of-the-sun-collectors-edition.json](./378764-malachite-temple-of-the-sun-collectors-edition.json) |
 | Malagai | 23288 | [23288-malagai.json](./23288-malagai.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
@@ -3570,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marketplace | 311236 | [311236-marketplace.json](./311236-marketplace.json) |
 | Markham | 40361 | [40361-markham.json](./40361-markham.json) |
 | Marki Game Collection | 260243 | [260243-marki-game-collection.json](./260243-marki-game-collection.json) |
+| Markiplier Montage | 378843 | [378843-markiplier-montage.json](./378843-markiplier-montage.json) |
 | Marko | 19774 | [19774-marko.json](./19774-marko.json) |
 | Marko: Beyond Brave | 223167 | [223167-marko-beyond-brave.json](./223167-marko-beyond-brave.json) |
 | Marko's Magic Football | 368608 | [368608-markos-magic-football.json](./368608-markos-magic-football.json) |
@@ -9507,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miho Adventures | 212669 | [212669-miho-adventures.json](./212669-miho-adventures.json) |
 | Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
+| Miiridian Prime | 378765 | [378765-miiridian-prime.json](./378765-miiridian-prime.json) |
 | Miitomo | 18615 | [18615-miitomo.json](./18615-miitomo.json) |
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
 | Miitopia: Casting Call | 147844 | [147844-miitopia-casting-call.json](./147844-miitopia-casting-call.json) |
@@ -9959,6 +9964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
+| Mind Twist | 378766 | [378766-mind-twist.json](./378766-mind-twist.json) |
 | Mind VR Exploration | 168110 | [168110-mind-vr-exploration.json](./168110-mind-vr-exploration.json) |
 | Mind Walker | 26379 | [26379-mind-walker.json](./26379-mind-walker.json) |
 | Mind War | 267269 | [267269-mind-war.json](./267269-mind-war.json) |
@@ -13072,6 +13078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories 3: Twisted Reflection - Hellfire Tail | 378870 | [378870-monster-hunter-stories-3-twisted-reflection-hellfire-tail.json](./378870-monster-hunter-stories-3-twisted-reflection-hellfire-tail.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Simon: Wind Wyvern's Friend | 394804 | [394804-monster-hunter-stories-3-twisted-reflection-layered-armor-for-simon-wind-wyverns-friend.json](./394804-monster-hunter-stories-3-twisted-reflection-layered-armor-for-simon-wind-wyverns-friend.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Thea: Canyne Ward | 378874 | [378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json](./378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Premium Deluxe Edition | 378855 | [378855-monster-hunter-stories-3-twisted-reflection-premium-deluxe-edition.json](./378855-monster-hunter-stories-3-twisted-reflection-premium-deluxe-edition.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra | 378872 | [378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json](./378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Special Outfits Set | 376797 | [376797-monster-hunter-stories-3-twisted-reflection-special-outfits-set.json](./376797-monster-hunter-stories-3-twisted-reflection-special-outfits-set.json) |
 | Monster Hunter Stories Collection | 292151 | [292151-monster-hunter-stories-collection.json](./292151-monster-hunter-stories-collection.json) |
@@ -15428,6 +15435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Rescue | 51222 | [51222-mr-rescue.json](./51222-mr-rescue.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Robot and His Robot Factory | 23900 | [23900-mr-robot-and-his-robot-factory.json](./23900-mr-robot-and-his-robot-factory.json) |
+| Mr. Robot II | 378845 | [378845-mr-robot-ii.json](./378845-mr-robot-ii.json) |
 | Mr. Roboto! | 41578 | [41578-mr-roboto.json](./41578-mr-roboto.json) |
 | Mr. Run & Jump + Kombinera Adrenaline | 282054 | [282054-mr-run-and-jump-kombinera-adrenaline.json](./282054-mr-run-and-jump-kombinera-adrenaline.json) |
 | Mr. Run and Jump | 249540 | [249540-mr-run-and-jump.json](./249540-mr-run-and-jump.json) |
@@ -17807,6 +17815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
 | Mystery Adventure: Secret Key | 105706 | [105706-mystery-adventure-secret-key.json](./105706-mystery-adventure-secret-key.json) |
+| Mystery and Magic: Escape Room Bundle | 378834 | [378834-mystery-and-magic-escape-room-bundle.json](./378834-mystery-and-magic-escape-room-bundle.json) |
 | Mystery at Grand Fir Village | 274347 | [274347-mystery-at-grand-fir-village.json](./274347-mystery-at-grand-fir-village.json) |
 | Mystery at Morgoth | 173008 | [173008-mystery-at-morgoth.json](./173008-mystery-at-morgoth.json) |
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
