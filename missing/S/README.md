@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP Area 8 | 82390 | [82390-scp-area-8.json](./82390-scp-area-8.json) |
 | SCP Clicker | 183859 | [183859-scp-clicker.json](./183859-scp-clicker.json) |
 | SCP Containment Breach | 242403 | [242403-scp-containment-breach.json](./242403-scp-containment-breach.json) |
+| SCP Containment Breach: HD Edition | 385651 | [385651-scp-containment-breach-hd-edition.json](./385651-scp-containment-breach-hd-edition.json) |
 | SCP Foundation: ITTLG - Chapter 1 | 196101 | [196101-scp-foundation-ittlg-chapter-1.json](./196101-scp-foundation-ittlg-chapter-1.json) |
 | SCP Horror Series 2 | 273576 | [273576-scp-horror-series-2.json](./273576-scp-horror-series-2.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
@@ -3122,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scud: Industrial Evolution | 73501 | [73501-scud-industrial-evolution.json](./73501-scud-industrial-evolution.json) |
 | ScudBuster | 33922 | [33922-scudbuster.json](./33922-scudbuster.json) |
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
+| Scuff Slayer | 385650 | [385650-scuff-slayer.json](./385650-scuff-slayer.json) |
 | Scuffed Rocket League | 180496 | [180496-scuffed-rocket-league.json](./180496-scuffed-rocket-league.json) |
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
 | Scuffle Scoundrels | 55734 | [55734-scuffle-scoundrels.json](./55734-scuffle-scoundrels.json) |
@@ -7692,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
 | Shore of Jord | 326861 | [326861-shore-of-jord.json](./326861-shore-of-jord.json) |
+| Shorekeeper | 385694 | [385694-shorekeeper.json](./385694-shorekeeper.json) |
 | Shores of Hazeron | 66413 | [66413-shores-of-hazeron.json](./66413-shores-of-hazeron.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
@@ -10616,6 +10619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
 | Skyrush | 176725 | [176725-skyrush.json](./176725-skyrush.json) |
+| SkySavior Helicopter Services | 385656 | [385656-skysavior-helicopter-services.json](./385656-skysavior-helicopter-services.json) |
 | Skyscraper | 125335 | [125335-skyscraper.json](./125335-skyscraper.json) |
 | Skyscraper | 225486 | [225486-skyscraper.json](./225486-skyscraper.json) |
 | Skyscraper | 267990 | [267990-skyscraper.json](./267990-skyscraper.json) |
@@ -17714,6 +17718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
 | SpiceX | 362994 | [362994-spicex.json](./362994-spicex.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
+| Spicy Strip Poker | 385691 | [385691-spicy-strip-poker.json](./385691-spicy-strip-poker.json) |
 | Spidded | 172951 | [172951-spidded.json](./172951-spidded.json) |
 | Spider | 230674 | [230674-spider.json](./230674-spider.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
@@ -25037,6 +25042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Artisan Chocolate | 412247 | [412247-sunset-artisan-chocolate.json](./412247-sunset-artisan-chocolate.json) |
 | Sunset Beach | 358397 | [358397-sunset-beach.json](./358397-sunset-beach.json) |
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
+| Sunset Crime | 385658 | [385658-sunset-crime.json](./385658-sunset-crime.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
 | Sunset Drive 1986 | 141133 | [141133-sunset-drive-1986.json](./141133-sunset-drive-1986.json) |
 | Sunset Driver | 199981 | [199981-sunset-driver.json](./199981-sunset-driver.json) |
@@ -27212,6 +27218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
 | Super Smash Bros. Ultimate: All Might Custom Moveset | 394598 | [394598-super-smash-bros-ultimate-all-might-custom-moveset.json](./394598-super-smash-bros-ultimate-all-might-custom-moveset.json) |
 | Super Smash Bros. Ultimate: Animdude Moveset | 395034 | [395034-super-smash-bros-ultimate-animdude-moveset.json](./395034-super-smash-bros-ultimate-animdude-moveset.json) |
+| Super Smash Bros. Ultimate: Bandana Dee Moveset | 385677 | [385677-super-smash-bros-ultimate-bandana-dee-moveset.json](./385677-super-smash-bros-ultimate-bandana-dee-moveset.json) |
 | Super Smash Bros. Ultimate: Bayonetta Reimagined Moveset | 394601 | [394601-super-smash-bros-ultimate-bayonetta-reimagined-moveset.json](./394601-super-smash-bros-ultimate-bayonetta-reimagined-moveset.json) |
 | Super Smash Bros. Ultimate: Blood Falcon Moveset | 375986 | [375986-super-smash-bros-ultimate-blood-falcon-moveset.json](./375986-super-smash-bros-ultimate-blood-falcon-moveset.json) |
 | Super Smash Bros. Ultimate: Brawl Meta Knight Restoration | 394610 | [394610-super-smash-bros-ultimate-brawl-meta-knight-restoration.json](./394610-super-smash-bros-ultimate-brawl-meta-knight-restoration.json) |
@@ -27227,8 +27234,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Challenger Pack 7 | 133837 | [133837-super-smash-bros-ultimate-challenger-pack-7.json](./133837-super-smash-bros-ultimate-challenger-pack-7.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 8 | 133838 | [133838-super-smash-bros-ultimate-challenger-pack-8.json](./133838-super-smash-bros-ultimate-challenger-pack-8.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 9 | 133839 | [133839-super-smash-bros-ultimate-challenger-pack-9.json](./133839-super-smash-bros-ultimate-challenger-pack-9.json) |
+| Super Smash Bros. Ultimate: Chaos Moveset | 385636 | [385636-super-smash-bros-ultimate-chaos-moveset.json](./385636-super-smash-bros-ultimate-chaos-moveset.json) |
 | Super Smash Bros. Ultimate: Competitive Playable Bosses | 280797 | [280797-super-smash-bros-ultimate-competitive-playable-bosses.json](./280797-super-smash-bros-ultimate-competitive-playable-bosses.json) |
 | Super Smash Bros. Ultimate: Conker Moveset | 395143 | [395143-super-smash-bros-ultimate-conker-moveset.json](./395143-super-smash-bros-ultimate-conker-moveset.json) |
+| Super Smash Bros. Ultimate: Cuphead Moveset | 385640 | [385640-super-smash-bros-ultimate-cuphead-moveset.json](./385640-super-smash-bros-ultimate-cuphead-moveset.json) |
 | Super Smash Bros. Ultimate: Dread Samus | 294523 | [294523-super-smash-bros-ultimate-dread-samus.json](./294523-super-smash-bros-ultimate-dread-samus.json) |
 | Super Smash Bros. Ultimate: Expanding Donkey Kong | 343413 | [343413-super-smash-bros-ultimate-expanding-donkey-kong.json](./343413-super-smash-bros-ultimate-expanding-donkey-kong.json) |
 | Super Smash Bros. Ultimate: Fall Damage | 343408 | [343408-super-smash-bros-ultimate-fall-damage.json](./343408-super-smash-bros-ultimate-fall-damage.json) |
@@ -27243,6 +27252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Gogeta Moveset | 376026 | [376026-super-smash-bros-ultimate-gogeta-moveset.json](./376026-super-smash-bros-ultimate-gogeta-moveset.json) |
 | Super Smash Bros. Ultimate: Gohan Custom Moveset | 394599 | [394599-super-smash-bros-ultimate-gohan-custom-moveset.json](./394599-super-smash-bros-ultimate-gohan-custom-moveset.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
+| Super Smash Bros. Ultimate: Goomba Moveset | 385642 | [385642-super-smash-bros-ultimate-goomba-moveset.json](./385642-super-smash-bros-ultimate-goomba-moveset.json) |
 | Super Smash Bros. Ultimate: Ice Beam Moveset | 394596 | [394596-super-smash-bros-ultimate-ice-beam-moveset.json](./394596-super-smash-bros-ultimate-ice-beam-moveset.json) |
 | Super Smash Bros. Ultimate: Ichiban Kasuga Moveset (Yakuza) | 395018 | [395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json](./395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json) |
 | Super Smash Bros. Ultimate: Ike 20% Bigger | 343411 | [343411-super-smash-bros-ultimate-ike-20-bigger.json](./343411-super-smash-bros-ultimate-ike-20-bigger.json) |
@@ -27257,6 +27267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Masked Man Moveset | 294524 | [294524-super-smash-bros-ultimate-masked-man-moveset.json](./294524-super-smash-bros-ultimate-masked-man-moveset.json) |
 | Super Smash Bros. Ultimate: Mecha Sonic Moveset | 294522 | [294522-super-smash-bros-ultimate-mecha-sonic-moveset.json](./294522-super-smash-bros-ultimate-mecha-sonic-moveset.json) |
 | Super Smash Bros. Ultimate: Megumin Moveset | 395028 | [395028-super-smash-bros-ultimate-megumin-moveset.json](./395028-super-smash-bros-ultimate-megumin-moveset.json) |
+| Super Smash Bros. Ultimate: Miles "Tails" Prower Moveset | 385639 | [385639-super-smash-bros-ultimate-miles-tails-prower-moveset.json](./385639-super-smash-bros-ultimate-miles-tails-prower-moveset.json) |
 | Super Smash Bros. Ultimate: Monster Hunter Moveset | 395029 | [395029-super-smash-bros-ultimate-monster-hunter-moveset.json](./395029-super-smash-bros-ultimate-monster-hunter-moveset.json) |
 | Super Smash Bros. Ultimate: Morgana Hat | 317930 | [317930-super-smash-bros-ultimate-morgana-hat.json](./317930-super-smash-bros-ultimate-morgana-hat.json) |
 | Super Smash Bros. Ultimate: Ninten Moveset | 281460 | [281460-super-smash-bros-ultimate-ninten-moveset.json](./281460-super-smash-bros-ultimate-ninten-moveset.json) |
@@ -27264,6 +27275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Paper Mario Moveset | 394612 | [394612-super-smash-bros-ultimate-paper-mario-moveset.json](./394612-super-smash-bros-ultimate-paper-mario-moveset.json) |
 | Super Smash Bros. Ultimate: Persona 3 Protagonist Outfit and Wig | 317931 | [317931-super-smash-bros-ultimate-persona-3-protagonist-outfit-and-wig.json](./317931-super-smash-bros-ultimate-persona-3-protagonist-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Persona 4 Protagonist Outfit and Wig | 317932 | [317932-super-smash-bros-ultimate-persona-4-protagonist-outfit-and-wig.json](./317932-super-smash-bros-ultimate-persona-4-protagonist-outfit-and-wig.json) |
+| Super Smash Bros. Ultimate: Phoenix Wright Moveset | 385646 | [385646-super-smash-bros-ultimate-phoenix-wright-moveset.json](./385646-super-smash-bros-ultimate-phoenix-wright-moveset.json) |
 | Super Smash Bros. Ultimate: Proto Man's Armor and Helmet | 317933 | [317933-super-smash-bros-ultimate-proto-mans-armor-and-helmet.json](./317933-super-smash-bros-ultimate-proto-mans-armor-and-helmet.json) |
 | Super Smash Bros. Ultimate: Rayman Custom Moveset | 394615 | [394615-super-smash-bros-ultimate-rayman-custom-moveset.json](./394615-super-smash-bros-ultimate-rayman-custom-moveset.json) |
 | Super Smash Bros. Ultimate: Ryo Sakazaki Outfit and Wig | 344727 | [344727-super-smash-bros-ultimate-ryo-sakazaki-outfit-and-wig.json](./344727-super-smash-bros-ultimate-ryo-sakazaki-outfit-and-wig.json) |
@@ -27271,6 +27283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Sandbag Moveset | 376033 | [376033-super-smash-bros-ultimate-sandbag-moveset.json](./376033-super-smash-bros-ultimate-sandbag-moveset.json) |
 | Super Smash Bros. Ultimate: Sans Outfit and Mask | 317934 | [317934-super-smash-bros-ultimate-sans-outfit-and-mask.json](./317934-super-smash-bros-ultimate-sans-outfit-and-mask.json) |
 | Super Smash Bros. Ultimate: Selectable Namco Roulette | 390281 | [390281-super-smash-bros-ultimate-selectable-namco-roulette.json](./390281-super-smash-bros-ultimate-selectable-namco-roulette.json) |
+| Super Smash Bros. Ultimate: Shadow the Hedgehog Moveset | 385645 | [385645-super-smash-bros-ultimate-shadow-the-hedgehog-moveset.json](./385645-super-smash-bros-ultimate-shadow-the-hedgehog-moveset.json) |
 | Super Smash Bros. Ultimate: Shy Guy Moveset | 395032 | [395032-super-smash-bros-ultimate-shy-guy-moveset.json](./395032-super-smash-bros-ultimate-shy-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Silver Moveset | 268014 | [268014-super-smash-bros-ultimate-silver-moveset.json](./268014-super-smash-bros-ultimate-silver-moveset.json) |
 | Super Smash Bros. Ultimate: Special Edition | 136326 | [136326-super-smash-bros-ultimate-special-edition.json](./136326-super-smash-bros-ultimate-special-edition.json) |
@@ -27279,6 +27292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Susie Moveset | 395025 | [395025-super-smash-bros-ultimate-susie-moveset.json](./395025-super-smash-bros-ultimate-susie-moveset.json) |
 | Super Smash Bros. Ultimate: Tails Outfit and Hat | 317935 | [317935-super-smash-bros-ultimate-tails-outfit-and-hat.json](./317935-super-smash-bros-ultimate-tails-outfit-and-hat.json) |
 | Super Smash Bros. Ultimate: Teddie Hat | 317936 | [317936-super-smash-bros-ultimate-teddie-hat.json](./317936-super-smash-bros-ultimate-teddie-hat.json) |
+| Super Smash Bros. Ultimate: Tetrimino Moveset | 385674 | [385674-super-smash-bros-ultimate-tetrimino-moveset.json](./385674-super-smash-bros-ultimate-tetrimino-moveset.json) |
 | Super Smash Bros. Ultimate: The Alucard Moveset | 281459 | [281459-super-smash-bros-ultimate-the-alucard-moveset.json](./281459-super-smash-bros-ultimate-the-alucard-moveset.json) |
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
@@ -28861,6 +28875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
 | Sweet Candy Mahjong | 31055 | [31055-sweet-candy-mahjong.json](./31055-sweet-candy-mahjong.json) |
 | Sweet Candy Maker Games | 96608 | [96608-sweet-candy-maker-games.json](./96608-sweet-candy-maker-games.json) |
+| Sweet Car Wash | 385687 | [385687-sweet-car-wash.json](./385687-sweet-car-wash.json) |
 | Sweet Cards | 323239 | [323239-sweet-cards.json](./323239-sweet-cards.json) |
 | Sweet Casino | 339470 | [339470-sweet-casino.json](./339470-sweet-casino.json) |
 | Sweet Casino 2 | 385251 | [385251-sweet-casino-2.json](./385251-sweet-casino-2.json) |
@@ -28908,6 +28923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
 | Sweet Girls Collection | 352294 | [352294-sweet-girls-collection.json](./352294-sweet-girls-collection.json) |
 | Sweet Glassirl | 339462 | [339462-sweet-glassirl.json](./339462-sweet-glassirl.json) |
+| Sweet God | 385611 | [385611-sweet-god.json](./385611-sweet-god.json) |
 | Sweet Gym | 339461 | [339461-sweet-gym.json](./339461-sweet-gym.json) |
 | Sweet Half-Life | 221652 | [221652-sweet-half-life.json](./221652-sweet-half-life.json) |
 | Sweet Hamster Days | 368802 | [368802-sweet-hamster-days.json](./368802-sweet-hamster-days.json) |
@@ -28926,6 +28942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Home: Look and Find - Collector's Edition | 277737 | [277737-sweet-home-look-and-find-collectors-edition.json](./277737-sweet-home-look-and-find-collectors-edition.json) |
 | Sweet Home: Look and Find 4 - Collector's Edition | 338043 | [338043-sweet-home-look-and-find-4-collectors-edition.json](./338043-sweet-home-look-and-find-4-collectors-edition.json) |
 | Sweet Home: Look and Find 6 - Collector's Edition | 406073 | [406073-sweet-home-look-and-find-6-collectors-edition.json](./406073-sweet-home-look-and-find-6-collectors-edition.json) |
+| Sweet Homegirl | 385627 | [385627-sweet-homegirl.json](./385627-sweet-homegirl.json) |
 | Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
 | Sweet Honey | 385800 | [385800-sweet-honey.json](./385800-sweet-honey.json) |
 | Sweet Honey Coming | 410712 | [410712-sweet-honey-coming.json](./410712-sweet-honey-coming.json) |
