@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saber Style | 154974 | [154974-saber-style.json](./154974-saber-style.json) |
 | Saber Survivors | 328452 | [328452-saber-survivors.json](./328452-saber-survivors.json) |
 | SaberSaw VR | 32145 | [32145-sabersaw-vr.json](./32145-sabersaw-vr.json) |
+| Sabine's Mission | 359452 | [359452-sabines-mission.json](./359452-sabines-mission.json) |
 | Sable Maze: Forbidden Garden | 139726 | [139726-sable-maze-forbidden-garden.json](./139726-sable-maze-forbidden-garden.json) |
 | Sable Maze: Forbidden Garden - Collector's Edition | 95244 | [95244-sable-maze-forbidden-garden-collectors-edition.json](./95244-sable-maze-forbidden-garden-collectors-edition.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
@@ -7793,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shortstop by the Sea | 411302 | [411302-shortstop-by-the-sea.json](./411302-shortstop-by-the-sea.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
+| Shot Clock | 359303 | [359303-shot-clock.json](./359303-shot-clock.json) |
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
 | Shot in the Dark | 35162 | [35162-shot-in-the-dark.json](./35162-shot-in-the-dark.json) |
 | Shot of Rhythm | 156703 | [156703-shot-of-rhythm.json](./156703-shot-of-rhythm.json) |
@@ -10175,6 +10177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies of Valor | 60865 | [60865-skies-of-valor.json](./60865-skies-of-valor.json) |
 | Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
+| Skiing | 359299 | [359299-skiing.json](./359299-skiing.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
 | Skiing | 5686 | [5686-skiing.json](./5686-skiing.json) |
 | Skiing Fred | 112050 | [112050-skiing-fred.json](./112050-skiing-fred.json) |
@@ -11173,6 +11176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide & Magic | 390729 | [390729-slide-and-magic.json](./390729-slide-and-magic.json) |
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
 | Slide Adventure: Magkid | 69702 | [69702-slide-adventure-magkid.json](./69702-slide-adventure-magkid.json) |
+| Slide and Dice | 359322 | [359322-slide-and-dice.json](./359322-slide-and-dice.json) |
 | Slide And Perform | 340958 | [340958-slide-and-perform.json](./340958-slide-and-perform.json) |
 | Slide Circus HD | 235154 | [235154-slide-circus-hd.json](./235154-slide-circus-hd.json) |
 | Slide Colors | 25399 | [25399-slide-colors.json](./25399-slide-colors.json) |
