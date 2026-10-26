@@ -9301,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
+| Pokemon Mystery Dungeon: Cryptic Conundrum | 373505 | [373505-pokemon-mystery-dungeon-cryptic-conundrum.json](./373505-pokemon-mystery-dungeon-cryptic-conundrum.json) |
 | Pokémon Mystery Dungeon: Explorers of Alpha | 381141 | [381141-pokemon-mystery-dungeon-explorers-of-alpha.json](./381141-pokemon-mystery-dungeon-explorers-of-alpha.json) |
 | Pokémon Mystery Dungeon: Explorers of Darkness | 2322 | [2322-pokemon-mystery-dungeon-explorers-of-darkness.json](./2322-pokemon-mystery-dungeon-explorers-of-darkness.json) |
 | Pokémon Mystery Dungeon: Explorers of Hell | 255898 | [255898-pokemon-mystery-dungeon-explorers-of-hell.json](./255898-pokemon-mystery-dungeon-explorers-of-hell.json) |
