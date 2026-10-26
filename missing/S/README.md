@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
 | Save the Furries | 10813 | [10813-save-the-furries.json](./10813-save-the-furries.json) |
 | Save the Girl | 108382 | [108382-save-the-girl.json](./108382-save-the-girl.json) |
+| Save the Girl | 367387 | [367387-save-the-girl.json](./367387-save-the-girl.json) |
 | Save the girls Action | 150469 | [150469-save-the-girls-action.json](./150469-save-the-girls-action.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Hamsters | 63121 | [63121-save-the-hamsters.json](./63121-save-the-hamsters.json) |
@@ -2843,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Containment Breach | 20193 | [20193-scp-containment-breach.json](./20193-scp-containment-breach.json) |
 | SCP: Containment Breach Mobile | 174756 | [174756-scp-containment-breach-mobile.json](./174756-scp-containment-breach-mobile.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
+| SCP: Containment Breach Ultimate Edition | 367353 | [367353-scp-containment-breach-ultimate-edition.json](./367353-scp-containment-breach-ultimate-edition.json) |
 | SCP: Contamination | 261757 | [261757-scp-contamination.json](./261757-scp-contamination.json) |
 | SCP: Cross Containment | 141786 | [141786-scp-cross-containment.json](./141786-scp-cross-containment.json) |
 | SCP: Daybreak | 211579 | [211579-scp-daybreak.json](./211579-scp-daybreak.json) |
@@ -10605,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skygard Arena | 255650 | [255650-skygard-arena.json](./255650-skygard-arena.json) |
 | Skygate Zero | 414821 | [414821-skygate-zero.json](./414821-skygate-zero.json) |
 | Skygerfall | 316726 | [316726-skygerfall.json](./316726-skygerfall.json) |
+| Skyguard | 367385 | [367385-skyguard.json](./367385-skyguard.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | Skyhigh Chronos Endless | 408564 | [408564-skyhigh-chronos-endless.json](./408564-skyhigh-chronos-endless.json) |
@@ -19318,6 +19321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 7 | 367047 | [367047-squaser-7.json](./367047-squaser-7.json) |
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
+| Squaser X | 367366 | [367366-squaser-x.json](./367366-squaser-x.json) |
 | Squash and Spell: Kids Typing | 388328 | [388328-squash-and-spell-kids-typing.json](./388328-squash-and-spell-kids-typing.json) |
 | Squash Kings VR | 86394 | [86394-squash-kings-vr.json](./86394-squash-kings-vr.json) |
 | Squash Sport Game 2024 | 310167 | [310167-squash-sport-game-2024.json](./310167-squash-sport-game-2024.json) |
@@ -20422,6 +20426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Jedi Knight - Dark Forces II | 150 | [150-star-wars-jedi-knight-dark-forces-ii.json](./150-star-wars-jedi-knight-dark-forces-ii.json) |
 | Star Wars: Jedi Knight - Mysteries of the Sith | 160 | [160-star-wars-jedi-knight-mysteries-of-the-sith.json](./160-star-wars-jedi-knight-mysteries-of-the-sith.json) |
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
+| Star Wars: Jedi Knight II: Jedi Outcast Demo | 367367 | [367367-star-wars-jedi-knight-ii-jedi-outcast-demo.json](./367367-star-wars-jedi-knight-ii-jedi-outcast-demo.json) |
 | Star Wars: Jedi Power Battles | 301489 | [301489-star-wars-jedi-power-battles.json](./301489-star-wars-jedi-power-battles.json) |
 | Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
 | Star Wars: Knights of the Old Republic - Remake | 168665 | [168665-star-wars-knights-of-the-old-republic-remake.json](./168665-star-wars-knights-of-the-old-republic-remake.json) |
@@ -22387,6 +22392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stíny noci | 397831 | [397831-stiny-noci.json](./397831-stiny-noci.json) |
 | Stip | 347491 | [347491-stip.json](./347491-stip.json) |
 | Stirge Hunters | 389600 | [389600-stirge-hunters.json](./389600-stirge-hunters.json) |
+| Stirring Tea Perfection | 367349 | [367349-stirring-tea-perfection.json](./367349-stirring-tea-perfection.json) |
 | Stitch | 229562 | [229562-stitch.json](./229562-stitch.json) |
 | Stitch Head | 388232 | [388232-stitch-head.json](./388232-stitch-head.json) |
 | Stitch Laser Blast | 133749 | [133749-stitch-laser-blast.json](./133749-stitch-laser-blast.json) |
@@ -24606,6 +24612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sui Generis | 14175 | [14175-sui-generis.json](./14175-sui-generis.json) |
 | Sui Mario | 268353 | [268353-sui-mario.json](./268353-sui-mario.json) |
 | Sui Mario 2 | 268354 | [268354-sui-mario-2.json](./268354-sui-mario-2.json) |
+| Suí Yuán Xiūxiān | 367465 | [367465-sui-yuan-xiuxian.json](./367465-sui-yuan-xiuxian.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
@@ -28312,6 +28319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprise Mechanic: The Gaming Trivia | 134896 | [134896-surprise-mechanic-the-gaming-trivia.json](./134896-surprise-mechanic-the-gaming-trivia.json) |
 | Surprise Party! | 164907 | [164907-surprise-party.json](./164907-surprise-party.json) |
 | Surprising Laws Around the World True or False Quiz | 401096 | [401096-surprising-laws-around-the-world-true-or-false-quiz.json](./401096-surprising-laws-around-the-world-true-or-false-quiz.json) |
+| Surprising My Neighbors | 367363 | [367363-surprising-my-neighbors.json](./367363-surprising-my-neighbors.json) |
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
 | Surprising Party | 53690 | [53690-surprising-party.json](./53690-surprising-party.json) |
 | Surprising Stories | 53691 | [53691-surprising-stories.json](./53691-surprising-stories.json) |
