@@ -6483,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
 | Sheep & Love | 390700 | [390700-sheep-and-love.json](./390700-sheep-and-love.json) |
 | Sheep a Sheep | 223917 | [223917-sheep-a-sheep.json](./223917-sheep-a-sheep.json) |
+| Sheep and Gates | 347591 | [347591-sheep-and-gates.json](./347591-sheep-and-gates.json) |
 | Sheep Annoyer | 183886 | [183886-sheep-annoyer.json](./183886-sheep-annoyer.json) |
 | Sheep Collision | 116083 | [116083-sheep-collision.json](./116083-sheep-collision.json) |
 | Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
@@ -18243,6 +18244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinner Galactic | 56375 | [56375-spinner-galactic.json](./56375-spinner-galactic.json) |
 | Spinner Invaders | 172967 | [172967-spinner-invaders.json](./172967-spinner-invaders.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
+| Spinner: Rogueblade | 347602 | [347602-spinner-rogueblade.json](./347602-spinner-rogueblade.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
 | Spinning Image | 408487 | [408487-spinning-image.json](./408487-spinning-image.json) |
@@ -20138,6 +20140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of Providence: Into Oblivion | 358816 | [358816-star-of-providence-into-oblivion.json](./358816-star-of-providence-into-oblivion.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
 | Star of the Show | 192624 | [192624-star-of-the-show.json](./192624-star-of-the-show.json) |
+| Star Ores Inc. | 347604 | [347604-star-ores-inc.json](./347604-star-ores-inc.json) |
 | Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
 | Star Overhead | 274357 | [274357-star-overhead.json](./274357-star-overhead.json) |
 | Star Pagga | 63226 | [63226-star-pagga.json](./63226-star-pagga.json) |
@@ -27239,6 +27242,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong P7 | 119320 | [119320-super-real-mahjong-p7.json](./119320-super-real-mahjong-p7.json) |
 | Super Real Mahjong P7 | 342132 | [342132-super-real-mahjong-p7.json](./342132-super-real-mahjong-p7.json) |
 | Super Real Mahjong PII & PIII Custom | 342017 | [342017-super-real-mahjong-pii-and-piii-custom.json](./342017-super-real-mahjong-pii-and-piii-custom.json) |
+| Super Real Mahjong PIV | 347616 | [347616-super-real-mahjong-piv.json](./347616-super-real-mahjong-piv.json) |
+| Super Real Mahjong PIV + Aishou Shindan | 347619 | [347619-super-real-mahjong-piv-aishou-shindan.json](./347619-super-real-mahjong-piv-aishou-shindan.json) |
 | Super Real Mahjong PIV Custom | 342013 | [342013-super-real-mahjong-piv-custom.json](./342013-super-real-mahjong-piv-custom.json) |
 | Super Real Mahjong PV | 342019 | [342019-super-real-mahjong-pv.json](./342019-super-real-mahjong-pv.json) |
 | Super Real Mahjong PV | 4303 | [4303-super-real-mahjong-pv.json](./4303-super-real-mahjong-pv.json) |
