@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fahrenheit: Special Edition | 43281 | [43281-fahrenheit-special-edition.json](./43281-fahrenheit-special-edition.json) |
 | Faif | 128576 | [128576-faif.json](./128576-faif.json) |
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
+| Fail Fail Succeed | 374651 | [374651-fail-fail-succeed.json](./374651-fail-fail-succeed.json) |
 | Fail Hard | 39225 | [39225-fail-hard.json](./39225-fail-hard.json) |
 | Fail to Win | 125929 | [125929-fail-to-win.json](./125929-fail-to-win.json) |
 | Fail to Win: Chapter 1 | 114988 | [114988-fail-to-win-chapter-1.json](./114988-fail-to-win-chapter-1.json) |
@@ -6326,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Scrapper | 98217 | [98217-fleet-scrapper.json](./98217-fleet-scrapper.json) |
 | Fleet Star V | 110747 | [110747-fleet-star-v.json](./110747-fleet-star-v.json) |
 | Fleet Sweep | 139892 | [139892-fleet-sweep.json](./139892-fleet-sweep.json) |
+| Fleet Tycoon | 374646 | [374646-fleet-tycoon.json](./374646-fleet-tycoon.json) |
 | Fleet Wars | 28812 | [28812-fleet-wars.json](./28812-fleet-wars.json) |
 | Fleetbreakers | 342190 | [342190-fleetbreakers.json](./342190-fleetbreakers.json) |
 | FleetComm | 35312 | [35312-fleetcomm.json](./35312-fleetcomm.json) |
