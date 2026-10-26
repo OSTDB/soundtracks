@@ -6041,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Trick Shot | 56779 | [56779-ping-pong-trick-shot.json](./56779-ping-pong-trick-shot.json) |
 | Ping Pong Trick Shot 2 | 84823 | [84823-ping-pong-trick-shot-2.json](./84823-ping-pong-trick-shot-2.json) |
 | Ping Pong Trick Shot Evolution | 115059 | [115059-ping-pong-trick-shot-evolution.json](./115059-ping-pong-trick-shot-evolution.json) |
+| Ping Pong Up | 343711 | [343711-ping-pong-up.json](./343711-ping-pong-up.json) |
 | Ping Profit: Internet Tycoon | 345646 | [345646-ping-profit-internet-tycoon.json](./345646-ping-profit-internet-tycoon.json) |
 | Ping Race | 300923 | [300923-ping-race.json](./300923-ping-race.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
@@ -7454,11 +7455,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower | 135818 | [135818-pizza-tower.json](./135818-pizza-tower.json) |
 | Pizza Tower Repainted | 365807 | [365807-pizza-tower-repainted.json](./365807-pizza-tower-repainted.json) |
+| Pizza Tower United | 344038 | [344038-pizza-tower-united.json](./344038-pizza-tower-united.json) |
 | Pizza Tower: Chef's Kiss | 328398 | [328398-pizza-tower-chefs-kiss.json](./328398-pizza-tower-chefs-kiss.json) |
 | Pizza Tower: Counterfeit Edition | 352342 | [352342-pizza-tower-counterfeit-edition.json](./352342-pizza-tower-counterfeit-edition.json) |
+| Pizza Tower: D&LC | 344037 | [344037-pizza-tower-d-and-lc.json](./344037-pizza-tower-d-and-lc.json) |
 | Pizza Tower: Fall Damage | 343407 | [343407-pizza-tower-fall-damage.json](./343407-pizza-tower-fall-damage.json) |
 | Pizza Tower: Final Round | 345569 | [345569-pizza-tower-final-round.json](./345569-pizza-tower-final-round.json) |
 | Pizza Tower: Idle Tycoon | 320926 | [320926-pizza-tower-idle-tycoon.json](./320926-pizza-tower-idle-tycoon.json) |
+| Pizza Tower: Scoutdigo | 344033 | [344033-pizza-tower-scoutdigo.json](./344033-pizza-tower-scoutdigo.json) |
 | Pizza Tower: The Noise Update | 291543 | [291543-pizza-tower-the-noise-update.json](./291543-pizza-tower-the-noise-update.json) |
 | Pizza Truck | 96836 | [96836-pizza-truck.json](./96836-pizza-truck.json) |
 | Pizza Turtle 4evr | 232038 | [232038-pizza-turtle-4evr.json](./232038-pizza-turtle-4evr.json) |
@@ -7700,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Oio | 317420 | [317420-planet-oio.json](./317420-planet-oio.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
 | Planet Pachinko | 72555 | [72555-planet-pachinko.json](./72555-planet-pachinko.json) |
+| Planet Party Time | 343732 | [343732-planet-party-time.json](./343732-planet-party-time.json) |
 | Planet Patrol | 18476 | [18476-planet-patrol.json](./18476-planet-patrol.json) |
 | Planet Pilots | 59647 | [59647-planet-pilots.json](./59647-planet-pilots.json) |
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
