@@ -3821,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Persecution: The Elevator | 311154 | [311154-persecution-the-elevator.json](./311154-persecution-the-elevator.json) |
 | Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
+| Persephone Lives | 350911 | [350911-persephone-lives.json](./350911-persephone-lives.json) |
 | Persephone Volumes 1 to 3 | 262274 | [262274-persephone-volumes-1-to-3.json](./262274-persephone-volumes-1-to-3.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Perseus & Andromeda | 24696 | [24696-perseus-and-andromeda.json](./24696-perseus-and-andromeda.json) |
@@ -13150,6 +13151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
 | Project Dagger | 195993 | [195993-project-dagger.json](./195993-project-dagger.json) |
+| Project Dar | 350937 | [350937-project-dar.json](./350937-project-dar.json) |
 | Project Dark | 244818 | [244818-project-dark.json](./244818-project-dark.json) |
 | Project Dark Sky | 154282 | [154282-project-dark-sky.json](./154282-project-dark-sky.json) |
 | Project Darkness | 326863 | [326863-project-darkness.json](./326863-project-darkness.json) |
@@ -13898,6 +13900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoBlue Tower | 373131 | [373131-protoblue-tower.json](./373131-protoblue-tower.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
 | Protocell | 50152 | [50152-protocell.json](./50152-protocell.json) |
+| Protocol | 350914 | [350914-protocol.json](./350914-protocol.json) |
 | Protocol | 74225 | [74225-protocol.json](./74225-protocol.json) |
 | Protocol 86: Chernobyl | 419177 | [419177-protocol-86-chernobyl.json](./419177-protocol-86-chernobyl.json) |
 | Protocol Aftertime | 210751 | [210751-protocol-aftertime.json](./210751-protocol-aftertime.json) |
