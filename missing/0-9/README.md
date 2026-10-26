@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats | 283047 | [283047-101-cats.json](./283047-101-cats.json) |
 | 101 Cats in Amsterdam | 310249 | [310249-101-cats-in-amsterdam.json](./310249-101-cats-in-amsterdam.json) |
 | 101 Cats in Australia | 320313 | [320313-101-cats-in-australia.json](./320313-101-cats-in-australia.json) |
+| 101 Cats in Belgium | 379393 | [379393-101-cats-in-belgium.json](./379393-101-cats-in-belgium.json) |
 | 101 Cats in Brazil | 312656 | [312656-101-cats-in-brazil.json](./312656-101-cats-in-brazil.json) |
 | 101 Cats in Brussels | 408528 | [408528-101-cats-in-brussels.json](./408528-101-cats-in-brussels.json) |
 | 101 Cats in Budapest | 408529 | [408529-101-cats-in-budapest.json](./408529-101-cats-in-budapest.json) |
@@ -893,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12-ji no Kane to Cinderella Cinderella Series Triple All Series Pack | 60348 | [60348-12-ji-no-kane-to-cinderella-cinderella-series-triple-all-series-pack.json](./60348-12-ji-no-kane-to-cinderella-cinderella-series-triple-all-series-pack.json) |
 | 12-Sai: Honto no Kimochi | 59212 | [59212-12-sai-honto-no-kimochi.json](./59212-12-sai-honto-no-kimochi.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
+| 12, Memory Lane | 379392 | [379392-12-memory-lane.json](./379392-12-memory-lane.json) |
 | 12.12.25 | 339078 | [339078-12-12-25.json](./339078-12-12-25.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
@@ -2928,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
 | Ô | 360452 | [360452-o.json](./360452-o.json) |
+| Ōban Star-Racers | 379410 | [379410-oban-star-racers.json](./379410-oban-star-racers.json) |
 | Ødeborg | 356297 | [356297-deborg.json](./356297-deborg.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
 | ​Our Life: Beginnings & Always - Cove Wedding Story | 187442 | [187442-our-life-beginnings-and-always-cove-wedding-story.json](./187442-our-life-beginnings-and-always-cove-wedding-story.json) |
