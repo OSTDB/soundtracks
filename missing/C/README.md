@@ -9114,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastal Kingdoms | 304711 | [304711-coastal-kingdoms.json](./304711-coastal-kingdoms.json) |
 | Coastal Kitchen Simulator | 347721 | [347721-coastal-kitchen-simulator.json](./347721-coastal-kitchen-simulator.json) |
 | Coastal Postal | 366176 | [366176-coastal-postal.json](./366176-coastal-postal.json) |
+| Coastal Super-Combat | 343491 | [343491-coastal-super-combat.json](./343491-coastal-super-combat.json) |
 | Coastal World | 325038 | [325038-coastal-world.json](./325038-coastal-world.json) |
 | Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
 | Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
