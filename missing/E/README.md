@@ -6323,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Strategy | 143103 | [143103-exit-strategy.json](./143103-exit-strategy.json) |
 | Exit Strategy | 345636 | [345636-exit-strategy.json](./345636-exit-strategy.json) |
 | Exit Terminal | 320180 | [320180-exit-terminal.json](./320180-exit-terminal.json) |
+| Exit The Abyss | 356141 | [356141-exit-the-abyss.json](./356141-exit-the-abyss.json) |
 | Exit the Backrooms | 265121 | [265121-exit-the-backrooms.json](./265121-exit-the-backrooms.json) |
 | Exit the Lot | 349814 | [349814-exit-the-lot.json](./349814-exit-the-lot.json) |
 | Exit the Shadow | 180570 | [180570-exit-the-shadow.json](./180570-exit-the-shadow.json) |
