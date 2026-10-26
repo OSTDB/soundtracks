@@ -805,7 +805,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1511,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
 | Ballshit 2D | 420784 | [420784-ballshit-2d.json](./420784-ballshit-2d.json) |
 | Ballspell | 215564 | [215564-ballspell.json](./215564-ballspell.json) |
+| BallStack | 350320 | [350320-ballstack.json](./350320-ballstack.json) |
 | BallStrike | 142758 | [142758-ballstrike.json](./142758-ballstrike.json) |
 | Ballsvoid | 242492 | [242492-ballsvoid.json](./242492-ballsvoid.json) |
 | Balltopia | 375529 | [375529-balltopia.json](./375529-balltopia.json) |
@@ -5056,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
 | Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
 | Before the Echo | 9780 | [9780-before-the-echo.json](./9780-before-the-echo.json) |
+| Before the End | 350355 | [350355-before-the-end.json](./350355-before-the-end.json) |
 | Before the explosion | 204810 | [204810-before-the-explosion.json](./204810-before-the-explosion.json) |
 | Before the Fall | 411540 | [411540-before-the-fall.json](./411540-before-the-fall.json) |
 | Before the Great | 136706 | [136706-before-the-great.json](./136706-before-the-great.json) |
@@ -8344,6 +8345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
 | BlazBlue Entropy Effect X: Deluxe Edition | 378853 | [378853-blazblue-entropy-effect-x-deluxe-edition.json](./378853-blazblue-entropy-effect-x-deluxe-edition.json) |
 | BlazBlue Entropy Effect X: Nintendo Switch 2 Edition Upgrade Pack | 410400 | [410400-blazblue-entropy-effect-x-nintendo-switch-2-edition-upgrade-pack.json](./410400-blazblue-entropy-effect-x-nintendo-switch-2-edition-upgrade-pack.json) |
+| BlazBlue Entropy Effect: Bullet Character Pack | 350340 | [350340-blazblue-entropy-effect-bullet-character-pack.json](./350340-blazblue-entropy-effect-bullet-character-pack.json) |
 | BlazBlue Mobile Battle | 79216 | [79216-blazblue-mobile-battle.json](./79216-blazblue-mobile-battle.json) |
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
 | BlazBlue: Battle Cards | 61502 | [61502-blazblue-battle-cards.json](./61502-blazblue-battle-cards.json) |
@@ -8373,6 +8375,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Cross Tag Battle - Deluxe Edition | 118680 | [118680-blazblue-cross-tag-battle-deluxe-edition.json](./118680-blazblue-cross-tag-battle-deluxe-edition.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
 | BlazBlue: Entropy Effect | 261269 | [261269-blazblue-entropy-effect.json](./261269-blazblue-entropy-effect.json) |
+| BlazBlue: Entropy Effect - Hazama Character Pack | 350337 | [350337-blazblue-entropy-effect-hazama-character-pack.json](./350337-blazblue-entropy-effect-hazama-character-pack.json) |
+| BlazBlue: Entropy Effect - Rachel Character Pack | 350338 | [350338-blazblue-entropy-effect-rachel-character-pack.json](./350338-blazblue-entropy-effect-rachel-character-pack.json) |
 | BlazBlue: Entropy Effect X | 377236 | [377236-blazblue-entropy-effect-x.json](./377236-blazblue-entropy-effect-x.json) |
 | BlazBlue: Entropy Effect x Dead Cells | 339611 | [339611-blazblue-entropy-effect-x-dead-cells.json](./339611-blazblue-entropy-effect-x-dead-cells.json) |
 | Blaze & Blade Busters | 43787 | [43787-blaze-and-blade-busters.json](./43787-blaze-and-blade-busters.json) |
@@ -9784,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Angels: Ready, Break! | 110207 | [110207-blue-angels-ready-break.json](./110207-blue-angels-ready-break.json) |
 | Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
 | Blue Archive: Volume 3 - Eden Treaty | 417991 | [417991-blue-archive-volume-3-eden-treaty.json](./417991-blue-archive-volume-3-eden-treaty.json) |
+| Blue Area | 350344 | [350344-blue-area.json](./350344-blue-area.json) |
 | Blue Aurora: The G.A.I.A. Project | 125881 | [125881-blue-aurora-the-g-a-i-a-project.json](./125881-blue-aurora-the-g-a-i-a-project.json) |
 | Blue Balls | 376832 | [376832-blue-balls.json](./376832-blue-balls.json) |
 | Blue Barbarian Man | 181067 | [181067-blue-barbarian-man.json](./181067-blue-barbarian-man.json) |
@@ -12525,6 +12530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Chess: Ghost | 403427 | [403427-brawl-chess-ghost.json](./403427-brawl-chess-ghost.json) |
 | Brawl Chess: Girl Power | 222240 | [222240-brawl-chess-girl-power.json](./222240-brawl-chess-girl-power.json) |
 | Brawl King | 208214 | [208214-brawl-king.json](./208214-brawl-king.json) |
+| Brawl Me Blues | 350350 | [350350-brawl-me-blues.json](./350350-brawl-me-blues.json) |
 | Brawl Minus | 139163 | [139163-brawl-minus.json](./139163-brawl-minus.json) |
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
