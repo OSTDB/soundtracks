@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori | 62127 | [62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json](./62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
 | Ogopogo | 158539 | [158539-ogopogo.json](./158539-ogopogo.json) |
+| Ogopogo | 351546 | [351546-ogopogo.json](./351546-ogopogo.json) |
 | Ogora | 323936 | [323936-ogora.json](./323936-ogora.json) |
 | Ogre | 14783 | [14783-ogre.json](./14783-ogre.json) |
 | Ogre | 54713 | [54713-ogre.json](./54713-ogre.json) |
