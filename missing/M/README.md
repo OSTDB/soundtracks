@@ -8189,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Tales: Overkill | 149692 | [149692-metal-tales-overkill.json](./149692-metal-tales-overkill.json) |
 | Metal Thunder | 320475 | [320475-metal-thunder.json](./320475-metal-thunder.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
+| Metal Undergrowth | 372428 | [372428-metal-undergrowth.json](./372428-metal-undergrowth.json) |
 | Metal Unit | 125038 | [125038-metal-unit.json](./125038-metal-unit.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
 | Metal War | 242008 | [242008-metal-war.json](./242008-metal-war.json) |
