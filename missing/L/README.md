@@ -5074,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares III: Second Additional Chapter | 375188 | [375188-little-nightmares-iii-second-additional-chapter.json](./375188-little-nightmares-iii-second-additional-chapter.json) |
 | Little Nightmares III: Secrets of The Spiral - Expansion Pass | 370224 | [370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json](./370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json) |
 | Little Nightmares III: The Backstage | 375185 | [375185-little-nightmares-iii-the-backstage.json](./375185-little-nightmares-iii-the-backstage.json) |
+| Little Nightmares VR: Altered Echoes | 350904 | [350904-little-nightmares-vr-altered-echoes.json](./350904-little-nightmares-vr-altered-echoes.json) |
 | Little Nightmares: Complete Edition | 53276 | [53276-little-nightmares-complete-edition.json](./53276-little-nightmares-complete-edition.json) |
 | Little Nightmares: Enhanced Edition | 350903 | [350903-little-nightmares-enhanced-edition.json](./350903-little-nightmares-enhanced-edition.json) |
 | Little Nightmares: Fox Mask | 274645 | [274645-little-nightmares-fox-mask.json](./274645-little-nightmares-fox-mask.json) |
@@ -6112,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LongPath | 150436 | [150436-longpath.json](./150436-longpath.json) |
 | LongStory | 74495 | [74495-longstory.json](./74495-longstory.json) |
 | LongStory 2 | 253480 | [253480-longstory-2.json](./253480-longstory-2.json) |
+| Longtail!! | 351080 | [351080-longtail.json](./351080-longtail.json) |
 | Longvinter | 152626 | [152626-longvinter.json](./152626-longvinter.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | Lonn | 135113 | [135113-lonn.json](./135113-lonn.json) |
@@ -7689,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Underground | 257260 | [257260-lucha-underground.json](./257260-lucha-underground.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucia and the Possessed World | 266988 | [266988-lucia-and-the-possessed-world.json](./266988-lucia-and-the-possessed-world.json) |
+| Lucia no Musou | 350918 | [350918-lucia-no-musou.json](./350918-lucia-no-musou.json) |
 | Lucian Bee's Evil Violet | 219140 | [219140-lucian-bees-evil-violet.json](./219140-lucian-bees-evil-violet.json) |
 | Lucian Bee's Justice Yellow | 219139 | [219139-lucian-bees-justice-yellow.json](./219139-lucian-bees-justice-yellow.json) |
 | Lucian Bee's: Resurrection Supernova | 59424 | [59424-lucian-bees-resurrection-supernova.json](./59424-lucian-bees-resurrection-supernova.json) |
