@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sàngshī Wéichéng: Límíng | 369184 | [369184-sangshi-weicheng-liming.json](./369184-sangshi-weicheng-liming.json) |
 | Sanguinaria | 337674 | [337674-sanguinaria.json](./337674-sanguinaria.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
+| Sanguine 3 | 345393 | [345393-sanguine-3.json](./345393-sanguine-3.json) |
 | Sanguine Cycle; Redux | 405766 | [405766-sanguine-cycle-redux.json](./405766-sanguine-cycle-redux.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
@@ -13702,6 +13703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers of Heaven VR | 367703 | [367703-soldiers-of-heaven-vr.json](./367703-soldiers-of-heaven-vr.json) |
 | Soldiers of the Universe | 43883 | [43883-soldiers-of-the-universe.json](./43883-soldiers-of-the-universe.json) |
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
+| Soldiers vs. Zombies: Tower Defense | 345385 | [345385-soldiers-vs-zombies-tower-defense.json](./345385-soldiers-vs-zombies-tower-defense.json) |
 | Soldiers: Arena | 34024 | [34024-soldiers-arena.json](./34024-soldiers-arena.json) |
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
 | Söldner-X 2: Final Prototype - Definitive Edition | 140847 | [140847-soldner-x-2-final-prototype-definitive-edition.json](./140847-soldner-x-2-final-prototype-definitive-edition.json) |
@@ -23309,6 +23311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Simulator | 175762 | [175762-streamer-simulator.json](./175762-streamer-simulator.json) |
 | Streamer Top | 370843 | [370843-streamer-top.json](./370843-streamer-top.json) |
 | Streamer vs. Chat | 414605 | [414605-streamer-vs-chat.json](./414605-streamer-vs-chat.json) |
+| Streamer vs. Zombie | 345398 | [345398-streamer-vs-zombie.json](./345398-streamer-vs-zombie.json) |
 | Streamer's Court | 208817 | [208817-streamers-court.json](./208817-streamers-court.json) |
 | Streamer's Life | 124447 | [124447-streamers-life.json](./124447-streamers-life.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
@@ -28618,6 +28621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Nation | 228586 | [228586-survival-nation.json](./228586-survival-nation.json) |
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
+| Survival Odyssey | 345391 | [345391-survival-odyssey.json](./345391-survival-odyssey.json) |
 | Survival of Primitive | 214021 | [214021-survival-of-primitive.json](./214021-survival-of-primitive.json) |
 | Survival of Runt | 392233 | [392233-survival-of-runt.json](./392233-survival-of-runt.json) |
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
