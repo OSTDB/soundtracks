@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Iron II: Whiskers of Winter | 292877 | [292877-tails-of-iron-ii-whiskers-of-winter.json](./292877-tails-of-iron-ii-whiskers-of-winter.json) |
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
+| Tails of Iron: Complete Edition | 371205 | [371205-tails-of-iron-complete-edition.json](./371205-tails-of-iron-complete-edition.json) |
 | Tails of Iron: Crimson Knight Edition | 159209 | [159209-tails-of-iron-crimson-knight-edition.json](./159209-tails-of-iron-crimson-knight-edition.json) |
 | Tails of the North | 367480 | [367480-tails-of-the-north.json](./367480-tails-of-the-north.json) |
 | Tails of Trainspot | 149947 | [149947-tails-of-trainspot.json](./149947-tails-of-trainspot.json) |
@@ -8640,6 +8641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Grey Company | 362324 | [362324-the-grey-company.json](./362324-the-grey-company.json) |
 | The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
+| The Grey Elegy: Under the Cursed Wings | 371215 | [371215-the-grey-elegy-under-the-cursed-wings.json](./371215-the-grey-elegy-under-the-cursed-wings.json) |
 | The Grey Man | 27305 | [27305-the-grey-man.json](./27305-the-grey-man.json) |
 | The Grey Wolves - Knight's Cross Edition | 416013 | [416013-the-grey-wolves-knights-cross-edition.json](./416013-the-grey-wolves-knights-cross-edition.json) |
 | The Greys: Human Abductions | 371546 | [371546-the-greys-human-abductions.json](./371546-the-greys-human-abductions.json) |
@@ -8988,6 +8990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel | 204850 | [204850-the-hotel.json](./204850-the-hotel.json) |
 | The Hotel | 220675 | [220675-the-hotel.json](./220675-the-hotel.json) |
 | The Hotel | 360649 | [360649-the-hotel.json](./360649-the-hotel.json) |
+| The Hotel - Lost Contact | 371301 | [371301-the-hotel-lost-contact.json](./371301-the-hotel-lost-contact.json) |
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
 | The Houchi Play | 43076 | [43076-the-houchi-play.json](./43076-the-houchi-play.json) |
@@ -10844,6 +10847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Baby | 285553 | [285553-the-little-baby.json](./285553-the-little-baby.json) |
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
+| The Little Cars in the Great Race | 371296 | [371296-the-little-cars-in-the-great-race.json](./371296-the-little-cars-in-the-great-race.json) |
 | The Little Crumb | 401285 | [401285-the-little-crumb.json](./401285-the-little-crumb.json) |
 | The Little Cuttle Goes to Battle | 211595 | [211595-the-little-cuttle-goes-to-battle.json](./211595-the-little-cuttle-goes-to-battle.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
@@ -25724,6 +25728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricolour Lovestory | 55803 | [55803-tricolour-lovestory.json](./55803-tricolour-lovestory.json) |
 | Tricolour Lovestory S: Heartful Memories | 175672 | [175672-tricolour-lovestory-s-heartful-memories.json](./175672-tricolour-lovestory-s-heartful-memories.json) |
 | Tricone Lab | 34686 | [34686-tricone-lab.json](./34686-tricone-lab.json) |
+| Tricula | 371204 | [371204-tricula.json](./371204-tricula.json) |
 | Tricycle Racers | 388146 | [388146-tricycle-racers.json](./388146-tricycle-racers.json) |
 | Tridasha | 274047 | [274047-tridasha.json](./274047-tridasha.json) |
 | TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
