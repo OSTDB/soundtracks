@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Madness | 130340 | [130340-maid-madness.json](./130340-maid-madness.json) |
 | Maid Mansion | 25826 | [25826-maid-mansion.json](./25826-maid-mansion.json) |
 | Maid Master | 188302 | [188302-maid-master.json](./188302-maid-master.json) |
+| Maid Mech | 373037 | [373037-maid-mech.json](./373037-maid-mech.json) |
 | Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
 | Maid of Salvation | 369620 | [369620-maid-of-salvation.json](./369620-maid-of-salvation.json) |
 | Maid of the Dead | 284495 | [284495-maid-of-the-dead.json](./284495-maid-of-the-dead.json) |
@@ -6868,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megashootsplosion | 423862 | [423862-megashootsplosion.json](./423862-megashootsplosion.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
 | MegaSphere | 34846 | [34846-megasphere.json](./34846-megasphere.json) |
+| Megastore Simulator | 372969 | [372969-megastore-simulator.json](./372969-megastore-simulator.json) |
 | Megasuki: Love Through Lenses with Ayumu Sakura | 416598 | [416598-megasuki-love-through-lenses-with-ayumu-sakura.json](./416598-megasuki-love-through-lenses-with-ayumu-sakura.json) |
 | Megasuki: Love Through Lenses with Otoha Inami | 416599 | [416599-megasuki-love-through-lenses-with-otoha-inami.json](./416599-megasuki-love-through-lenses-with-otoha-inami.json) |
 | Megasuki: Love Through Lenses with Yuuki Hoshino | 416597 | [416597-megasuki-love-through-lenses-with-yuuki-hoshino.json](./416597-megasuki-love-through-lenses-with-yuuki-hoshino.json) |
@@ -11894,6 +11896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Minigames: Play & Earn | 131355 | [131355-mobile-minigames-play-and-earn.json](./131355-mobile-minigames-play-and-earn.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
 | Mobile Phase 10 | 243277 | [243277-mobile-phase-10.json](./243277-mobile-phase-10.json) |
+| Mobile Phone Shop Simulator | 372966 | [372966-mobile-phone-shop-simulator.json](./372966-mobile-phone-shop-simulator.json) |
 | Mobile Police Officer Earth Gumble | 351581 | [351581-mobile-police-officer-earth-gumble.json](./351581-mobile-police-officer-earth-gumble.json) |
 | Mobile Pro Yakyuu: Kantoku no Saihai | 49722 | [49722-mobile-pro-yakyuu-kantoku-no-saihai.json](./49722-mobile-pro-yakyuu-kantoku-no-saihai.json) |
 | Mobile Quest GB | 304098 | [304098-mobile-quest-gb.json](./304098-mobile-quest-gb.json) |
@@ -13936,6 +13939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorko | 414155 | [414155-moorko.json](./414155-moorko.json) |
 | Moosa: Dirty Fate | 396026 | [396026-moosa-dirty-fate.json](./396026-moosa-dirty-fate.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
+| Moose Diver | 372977 | [372977-moose-diver.json](./372977-moose-diver.json) |
 | Moose In Canada | 239196 | [239196-moose-in-canada.json](./239196-moose-in-canada.json) |
 | Moose Invasion | 75002 | [75002-moose-invasion.json](./75002-moose-invasion.json) |
 | Moose Life | 138332 | [138332-moose-life.json](./138332-moose-life.json) |
@@ -14828,6 +14832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Racing | 88493 | [88493-motorbike-racing.json](./88493-motorbike-racing.json) |
 | Motorbike Racing Bundle | 226786 | [226786-motorbike-racing-bundle.json](./226786-motorbike-racing-bundle.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
+| Motorbike Shop Simulator 2025 | 372971 | [372971-motorbike-shop-simulator-2025.json](./372971-motorbike-shop-simulator-2025.json) |
 | Motorbike Simulator MX Driving | 312446 | [312446-motorbike-simulator-mx-driving.json](./312446-motorbike-simulator-mx-driving.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Prime Edition | 404281 | [404281-motorbikes-pro-2025-prime-edition.json](./404281-motorbikes-pro-2025-prime-edition.json) |
@@ -15153,6 +15158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mowed | 285942 | [285942-mowed.json](./285942-mowed.json) |
 | Mowin' & Throwin' | 96228 | [96228-mowin-and-throwin.json](./96228-mowin-and-throwin.json) |
 | Mowing Mazes | 299615 | [299615-mowing-mazes.json](./299615-mowing-mazes.json) |
+| Mowit: Grass Cutting Simulator | 373044 | [373044-mowit-grass-cutting-simulator.json](./373044-mowit-grass-cutting-simulator.json) |
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
 | Mówùniáng Wùyǔ | 100540 | [100540-mowuniang-wuyu.json](./100540-mowuniang-wuyu.json) |
 | Mowy Lawn | 92096 | [92096-mowy-lawn.json](./92096-mowy-lawn.json) |
@@ -15864,6 +15870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mumsaren | 92938 | [92938-mumsaren.json](./92938-mumsaren.json) |
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
 | Mumu's Soup Adventure | 250314 | [250314-mumus-soup-adventure.json](./250314-mumus-soup-adventure.json) |
+| Mumu's Soup Adventure Samsara | 373041 | [373041-mumus-soup-adventure-samsara.json](./373041-mumus-soup-adventure-samsara.json) |
 | MuMuMu: Mist of Six Dreams | 312590 | [312590-mumumu-mist-of-six-dreams.json](./312590-mumumu-mist-of-six-dreams.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Munch | 304300 | [304300-munch.json](./304300-munch.json) |
