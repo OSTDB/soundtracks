@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Fever Arrows of Glory | 385162 | [385162-darts-fever-arrows-of-glory.json](./385162-darts-fever-arrows-of-glory.json) |
 | Darts Fever Bullseye Legends | 378962 | [378962-darts-fever-bullseye-legends.json](./378962-darts-fever-bullseye-legends.json) |
 | Darts Fever: Deluxe Edition | 333720 | [333720-darts-fever-deluxe-edition.json](./333720-darts-fever-deluxe-edition.json) |
+| Darts Fever: Prime Edition | 336435 | [336435-darts-fever-prime-edition.json](./336435-darts-fever-prime-edition.json) |
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Darts Match | 58143 | [58143-darts-match.json](./58143-darts-match.json) |
 | Darts Match 2 | 58142 | [58142-darts-match-2.json](./58142-darts-match-2.json) |
@@ -2495,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream Mosaics 4: Shades of Blue | 268318 | [268318-daydream-mosaics-4-shades-of-blue.json](./268318-daydream-mosaics-4-shades-of-blue.json) |
 | Daydream Mosaics 6: Empire - Collector's Edition | 385425 | [385425-daydream-mosaics-6-empire-collectors-edition.json](./385425-daydream-mosaics-6-empire-collectors-edition.json) |
 | Daydream Mosaics: Juliette's Collection | 357307 | [357307-daydream-mosaics-juliettes-collection.json](./357307-daydream-mosaics-juliettes-collection.json) |
+| Daydream Paradise | 336457 | [336457-daydream-paradise.json](./336457-daydream-paradise.json) |
 | Daydream: Legend of the Eschelons | 191002 | [191002-daydream-legend-of-the-eschelons.json](./191002-daydream-legend-of-the-eschelons.json) |
 | Daydream: Prologue | 246906 | [246906-daydream-prologue.json](./246906-daydream-prologue.json) |
 | Daydream: When Butterflies Dance | 201240 | [201240-daydream-when-butterflies-dance.json](./201240-daydream-when-butterflies-dance.json) |
@@ -3722,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Damnation | 192253 | [192253-death-damnation.json](./192253-death-damnation.json) |
 | Death Dealers | 137403 | [137403-death-dealers.json](./137403-death-dealers.json) |
+| Death Delivery | 336764 | [336764-death-delivery.json](./336764-death-delivery.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Dream | 155361 | [155361-death-dream.json](./155361-death-dream.json) |
@@ -5486,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Rise: War for the Deep | 99656 | [99656-demons-rise-war-for-the-deep.json](./99656-demons-rise-war-for-the-deep.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
 | Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
+| Demon's Souls: Digital Deluxe Edition | 336469 | [336469-demons-souls-digital-deluxe-edition.json](./336469-demons-souls-digital-deluxe-edition.json) |
 | Demon's Souls: Red-Eye Knight Armor | 344306 | [344306-demons-souls-red-eye-knight-armor.json](./344306-demons-souls-red-eye-knight-armor.json) |
 | Demon's Sword | 127653 | [127653-demons-sword.json](./127653-demons-sword.json) |
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
