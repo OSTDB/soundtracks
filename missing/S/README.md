@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
 | Samurai Heroes | 373189 | [373189-samurai-heroes.json](./373189-samurai-heroes.json) |
 | Samurai II: Vengeance | 54350 | [54350-samurai-ii-vengeance.json](./54350-samurai-ii-vengeance.json) |
+| Samurai Jack | 349782 | [349782-samurai-jack.json](./349782-samurai-jack.json) |
 | Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
 | Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
 | Samurai Jack: Code of the Samurai | 327029 | [327029-samurai-jack-code-of-the-samurai.json](./327029-samurai-jack-code-of-the-samurai.json) |
@@ -6329,6 +6330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharpest Spear | 420206 | [420206-sharpest-spear.json](./420206-sharpest-spear.json) |
 | Sharpshoot | 292154 | [292154-sharpshoot.json](./292154-sharpshoot.json) |
 | Sharpshooter | 245158 | [245158-sharpshooter.json](./245158-sharpshooter.json) |
+| Sharpshooter | 349786 | [349786-sharpshooter.json](./349786-sharpshooter.json) |
 | Sharpshooter Plus | 130285 | [130285-sharpshooter-plus.json](./130285-sharpshooter-plus.json) |
 | SharpShooter3D | 103189 | [103189-sharpshooter3d.json](./103189-sharpshooter3d.json) |
 | SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
@@ -11432,6 +11434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimoid | 185608 | [185608-slimoid.json](./185608-slimoid.json) |
 | Slimper | 403079 | [403079-slimper.json](./403079-slimper.json) |
 | Slimy | 181321 | [181321-slimy.json](./181321-slimy.json) |
+| Slimy Harvest | 349793 | [349793-slimy-harvest.json](./349793-slimy-harvest.json) |
 | Slimy Pete's Singles Bar | 73336 | [73336-slimy-petes-singles-bar.json](./73336-slimy-petes-singles-bar.json) |
 | Slimy Sextet | 158396 | [158396-slimy-sextet.json](./158396-slimy-sextet.json) |
 | Slimy Snail Ride | 106571 | [106571-slimy-snail-ride.json](./106571-slimy-snail-ride.json) |
@@ -23019,6 +23022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
 | Strange World | 274966 | [274966-strange-world.json](./274966-strange-world.json) |
 | Strange Zoo | 415139 | [415139-strange-zoo.json](./415139-strange-zoo.json) |
+| StrangeDream | 349774 | [349774-strangedream.json](./349774-strangedream.json) |
 | Strangeland | 103219 | [103219-strangeland.json](./103219-strangeland.json) |
 | Strangeland: The Last Colony | 401618 | [401618-strangeland-the-last-colony.json](./401618-strangeland-the-last-colony.json) |
 | Strangelets | 137986 | [137986-strangelets.json](./137986-strangelets.json) |
@@ -25632,6 +25636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Captain Flying Robot City Rescue Mission | 96008 | [96008-super-captain-flying-robot-city-rescue-mission.json](./96008-super-captain-flying-robot-city-rescue-mission.json) |
 | Super Car Driving Bugatti Divo | 296781 | [296781-super-car-driving-bugatti-divo.json](./296781-super-car-driving-bugatti-divo.json) |
 | Super Caronaut | 178626 | [178626-super-caronaut.json](./178626-super-caronaut.json) |
+| Super Carpark Walking Parking Simulator Turbo | 349796 | [349796-super-carpark-walking-parking-simulator-turbo.json](./349796-super-carpark-walking-parking-simulator-turbo.json) |
 | Super Cars | 12226 | [12226-super-cars.json](./12226-super-cars.json) |
 | Super Cars II | 12227 | [12227-super-cars-ii.json](./12227-super-cars-ii.json) |
 | Super Casino 2 | 38304 | [38304-super-casino-2.json](./38304-super-casino-2.json) |
@@ -27189,6 +27194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Platformer Deluxe | 20997 | [20997-super-puzzle-platformer-deluxe.json](./20997-super-puzzle-platformer-deluxe.json) |
 | Super Puzzle Sisters | 30737 | [30737-super-puzzle-sisters.json](./30737-super-puzzle-sisters.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
+| Super Pyonpon | 349749 | [349749-super-pyonpon.json](./349749-super-pyonpon.json) |
 | Super Qix | 39408 | [39408-super-qix.json](./39408-super-qix.json) |
 | Super Qube Hopper | 128857 | [128857-super-qube-hopper.json](./128857-super-qube-hopper.json) |
 | Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
