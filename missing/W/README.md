@@ -5131,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winterland Solitaire | 386137 | [386137-winterland-solitaire.json](./386137-winterland-solitaire.json) |
 | Winterland Solitaire 2 | 386132 | [386132-winterland-solitaire-2.json](./386132-winterland-solitaire-2.json) |
 | Winterland Solitaire 3 | 415966 | [415966-winterland-solitaire-3.json](./415966-winterland-solitaire-3.json) |
+| Winterlight: Where Silence Says It All | 369529 | [369529-winterlight-where-silence-says-it-all.json](./369529-winterlight-where-silence-says-it-all.json) |
 | Winterlore II | 174284 | [174284-winterlore-ii.json](./174284-winterlore-ii.json) |
 | Wintermoor Tactics Club | 107436 | [107436-wintermoor-tactics-club.json](./107436-wintermoor-tactics-club.json) |
 | Wintersands | 183851 | [183851-wintersands.json](./183851-wintersands.json) |
