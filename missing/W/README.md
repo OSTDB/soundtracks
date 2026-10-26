@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather Lord: Royal Holidays | 53917 | [53917-weather-lord-royal-holidays.json](./53917-weather-lord-royal-holidays.json) |
 | Weather Lord: Royal Holidays - Collector's Edition | 30117 | [30117-weather-lord-royal-holidays-collectors-edition.json](./30117-weather-lord-royal-holidays-collectors-edition.json) |
 | Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
+| Weather the Storm | 377109 | [377109-weather-the-storm.json](./377109-weather-the-storm.json) |
 | Weathered | 62827 | [62827-weathered.json](./62827-weathered.json) |
 | Weatherium | 402693 | [402693-weatherium.json](./402693-weatherium.json) |
 | Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
@@ -3377,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When I’m Not Drawing | 392405 | [392405-when-i-m-not-drawing.json](./392405-when-i-m-not-drawing.json) |
 | When In Rome | 34112 | [34112-when-in-rome.json](./34112-when-in-rome.json) |
 | When in Rome 1: Accounting for Taste | 216340 | [216340-when-in-rome-1-accounting-for-taste.json](./216340-when-in-rome-1-accounting-for-taste.json) |
+| When It Falls | 377633 | [377633-when-it-falls.json](./377633-when-it-falls.json) |
 | When It Hits | 184348 | [184348-when-it-hits.json](./184348-when-it-hits.json) |
 | When It Hits the Fan | 56593 | [56593-when-it-hits-the-fan.json](./56593-when-it-hits-the-fan.json) |
 | When It Rains | 397045 | [397045-when-it-rains.json](./397045-when-it-rains.json) |
@@ -5221,6 +5223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishbone: Activity Zone | 219142 | [219142-wishbone-activity-zone.json](./219142-wishbone-activity-zone.json) |
 | Wishbound | 410647 | [410647-wishbound.json](./410647-wishbound.json) |
 | Wishbound Desires | 272884 | [272884-wishbound-desires.json](./272884-wishbound-desires.json) |
+| WishBreaker | 377035 | [377035-wishbreaker.json](./377035-wishbreaker.json) |
 | Wishbringer | 1950 | [1950-wishbringer.json](./1950-wishbringer.json) |
 | Wished on guilt | 262828 | [262828-wished-on-guilt.json](./262828-wished-on-guilt.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
@@ -5427,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Business | 338315 | [338315-witchy-business.json](./338315-witchy-business.json) |
 | Witchy Life Story | 152184 | [152184-witchy-life-story.json](./152184-witchy-life-story.json) |
+| Witchy Tower | 377620 | [377620-witchy-tower.json](./377620-witchy-tower.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
 | Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
 | Witchydoku | 419862 | [419862-witchydoku.json](./419862-witchydoku.json) |
