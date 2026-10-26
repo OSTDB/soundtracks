@@ -4176,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Mekuri Clover Mini Fandisk | 399195 | [399195-koi-mekuri-clover-mini-fandisk.json](./399195-koi-mekuri-clover-mini-fandisk.json) |
 | Koi Mekuri Clover: Itsuka no Kimi he, Yakusoku no Ashita wo | 399190 | [399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json](./399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json) |
 | Koi Musubi | 30780 | [30780-koi-musubi.json](./30780-koi-musubi.json) |
+| Koi ni Ochite ha Ikenai 20-ppun | 347035 | [347035-koi-ni-ochite-ha-ikenai-20-ppun.json](./347035-koi-ni-ochite-ha-ikenai-20-ppun.json) |
 | Koi ni, Kanmi o Soete | 83402 | [83402-koi-ni-kanmi-o-soete.json](./83402-koi-ni-kanmi-o-soete.json) |
 | Koi no Hanasaku Hyakkaen | 136929 | [136929-koi-no-hanasaku-hyakkaen.json](./136929-koi-no-hanasaku-hyakkaen.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
