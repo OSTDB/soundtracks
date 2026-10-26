@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Miners | 31839 | [31839-manic-miners.json](./31839-manic-miners.json) |
 | Manic Monkey Mayhem | 68233 | [68233-manic-monkey-mayhem.json](./68233-manic-monkey-mayhem.json) |
 | Manic Panic Ghosts | 97676 | [97676-manic-panic-ghosts.json](./97676-manic-panic-ghosts.json) |
+| Manic Pixie Dreamgirls | 375913 | [375913-manic-pixie-dreamgirls.json](./375913-manic-pixie-dreamgirls.json) |
 | Manic the Lad: Rage Against the Maniac | 266702 | [266702-manic-the-lad-rage-against-the-maniac.json](./266702-manic-the-lad-rage-against-the-maniac.json) |
 | Manic Troll | 246468 | [246468-manic-troll.json](./246468-manic-troll.json) |
 | Manic X | 266655 | [266655-manic-x.json](./266655-manic-x.json) |
@@ -2977,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mari and Bayu: The Road Home | 193658 | [193658-mari-and-bayu-the-road-home.json](./193658-mari-and-bayu-the-road-home.json) |
 | Mari and the Black Tower | 68766 | [68766-mari-and-the-black-tower.json](./68766-mari-and-the-black-tower.json) |
 | Mari Is Home | 280180 | [280180-mari-is-home.json](./280180-mari-is-home.json) |
+| Mari Lwyd | 375932 | [375932-mari-lwyd.json](./375932-mari-lwyd.json) |
 | Mari's Magical Deliveries | 334204 | [334204-maris-magical-deliveries.json](./334204-maris-magical-deliveries.json) |
 | Mari0: Alesan99's Entities | 369211 | [369211-mari0-alesan99s-entities.json](./369211-mari0-alesan99s-entities.json) |
 | Maria | 308406 | [308406-maria.json](./308406-maria.json) |
@@ -4862,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawang: Dark Lord Defense | 350396 | [350396-mawang-dark-lord-defense.json](./350396-mawang-dark-lord-defense.json) |
 | Mawangseonge Daara! Yongbyeongdan Seutori | 219976 | [219976-mawangseonge-daara-yongbyeongdan-seutori.json](./219976-mawangseonge-daara-yongbyeongdan-seutori.json) |
 | Mawaranu Hoshi no Stellarium | 358343 | [358343-mawaranu-hoshi-no-stellarium.json](./358343-mawaranu-hoshi-no-stellarium.json) |
+| Mawaru! Hacker Tantei | 375879 | [375879-mawaru-hacker-tantei.json](./375879-mawaru-hacker-tantei.json) |
 | Mawashite Tsunageru Touch Panic | 66498 | [66498-mawashite-tsunageru-touch-panic.json](./66498-mawashite-tsunageru-touch-panic.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawgate | 396639 | [396639-mawgate.json](./396639-mawgate.json) |
