@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, Hel No! | 331664 | [331664-oh-hel-no.json](./331664-oh-hel-no.json) |
 | Oh, honey! Anime clicker! | 309379 | [309379-oh-honey-anime-clicker.json](./309379-oh-honey-anime-clicker.json) |
 | Oh, It's Christmas | 178623 | [178623-oh-its-christmas.json](./178623-oh-its-christmas.json) |
+| Oh, My Orbs... | 356132 | [356132-oh-my-orbs.json](./356132-oh-my-orbs.json) |
 | Oh, My Word! | 58231 | [58231-oh-my-word.json](./58231-oh-my-word.json) |
 | Oh, My Word! 2 | 58229 | [58229-oh-my-word-2.json](./58229-oh-my-word-2.json) |
 | Oh, to Bee in Love | 178659 | [178659-oh-to-bee-in-love.json](./178659-oh-to-bee-in-love.json) |
