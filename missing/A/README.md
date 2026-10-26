@@ -3074,7 +3074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -5300,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexi Lalas International Soccer | 43933 | [43933-alexi-lalas-international-soccer.json](./43933-alexi-lalas-international-soccer.json) |
 | Alexia | 260863 | [260863-alexia.json](./260863-alexia.json) |
 | Alexia Crow | 35387 | [35387-alexia-crow.json](./35387-alexia-crow.json) |
+| Alexia Zero | 370653 | [370653-alexia-zero.json](./370653-alexia-zero.json) |
 | Alexio | 120029 | [120029-alexio.json](./120029-alexio.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
 | Alexis Almighty: Daughter of Hercules | 132553 | [132553-alexis-almighty-daughter-of-hercules.json](./132553-alexis-almighty-daughter-of-hercules.json) |
