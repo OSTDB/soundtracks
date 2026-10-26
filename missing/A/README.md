@@ -13641,6 +13641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Dawn's Edge | 182752 | [182752-at-dawns-edge.json](./182752-at-dawns-edge.json) |
 | At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
 | At Dead Of Night: The Great Hugo | 413525 | [413525-at-dead-of-night-the-great-hugo.json](./413525-at-dead-of-night-the-great-hugo.json) |
+| At Death's Door | 341717 | [341717-at-deaths-door.json](./341717-at-deaths-door.json) |
 | At Eternity's Hatch | 398548 | [398548-at-eternitys-hatch.json](./398548-at-eternitys-hatch.json) |
 | At Fate's End | 348205 | [348205-at-fates-end.json](./348205-at-fates-end.json) |
 | At Hell's Gate | 383148 | [383148-at-hells-gate.json](./383148-at-hells-gate.json) |
