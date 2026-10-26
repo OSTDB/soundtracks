@@ -5470,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher Birds HD | 257010 | [257010-fisher-birds-hd.json](./257010-fisher-birds-hd.json) |
 | Fisher Fans VR | 54507 | [54507-fisher-fans-vr.json](./54507-fisher-fans-vr.json) |
 | Fisher Frog | 214478 | [214478-fisher-frog.json](./214478-fisher-frog.json) |
+| Fisher Haven | 338405 | [338405-fisher-haven.json](./338405-fisher-haven.json) |
 | Fisher Man | 367491 | [367491-fisher-man.json](./367491-fisher-man.json) |
 | Fisher Online: China | 238416 | [238416-fisher-online-china.json](./238416-fisher-online-china.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
@@ -5898,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's Doom Mod Remake | 291606 | [291606-five-nights-at-freddys-doom-mod-remake.json](./291606-five-nights-at-freddys-doom-mod-remake.json) |
 | Five Nights at Freddy's Franchise Bundle | 241461 | [241461-five-nights-at-freddys-franchise-bundle.json](./241461-five-nights-at-freddys-franchise-bundle.json) |
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
+| Five Nights At Freddy's Pixel Edition | 338143 | [338143-five-nights-at-freddys-pixel-edition.json](./338143-five-nights-at-freddys-pixel-edition.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
 | Five Nights at Freddy's: Blood & Gears | 331177 | [331177-five-nights-at-freddys-blood-and-gears.json](./331177-five-nights-at-freddys-blood-and-gears.json) |
@@ -6091,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagster | 29073 | [29073-flagster.json](./29073-flagster.json) |
 | Flail | 402415 | [402415-flail.json](./402415-flail.json) |
 | Flail Faster | 211823 | [211823-flail-faster.json](./211823-flail-faster.json) |
+| Flail Your Arm, Hit the Ball: Return of Kusogaki | 338114 | [338114-flail-your-arm-hit-the-ball-return-of-kusogaki.json](./338114-flail-your-arm-hit-the-ball-return-of-kusogaki.json) |
 | Flailing Limbs Bundle | 107266 | [107266-flailing-limbs-bundle.json](./107266-flailing-limbs-bundle.json) |
 | Flailure | 140904 | [140904-flailure.json](./140904-flailure.json) |
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
@@ -6161,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappin Nutz | 27504 | [27504-flappin-nutz.json](./27504-flappin-nutz.json) |
 | FlapPing | 40718 | [40718-flapping.json](./40718-flapping.json) |
 | Flapping Over It | 100632 | [100632-flapping-over-it.json](./100632-flapping-over-it.json) |
+| Flappiper: Remade | 338102 | [338102-flappiper-remade.json](./338102-flappiper-remade.json) |
 | FlapPlane | 137573 | [137573-flapplane.json](./137573-flapplane.json) |
 | Flapple Bird | 222746 | [222746-flapple-bird.json](./222746-flapple-bird.json) |
 | Flappy | 195527 | [195527-flappy.json](./195527-flappy.json) |
@@ -9844,6 +9848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeway Crossing Program | 351414 | [351414-freeway-crossing-program.json](./351414-freeway-crossing-program.json) |
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
 | Freeway Fury | 175859 | [175859-freeway-fury.json](./175859-freeway-fury.json) |
+| Freeway Fury 3 | 338141 | [338141-freeway-fury-3.json](./338141-freeway-fury-3.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freeway Mutant | 144658 | [144658-freeway-mutant.json](./144658-freeway-mutant.json) |
 | Freeways | 68281 | [68281-freeways.json](./68281-freeways.json) |
@@ -10156,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frisky Tom | 40038 | [40038-frisky-tom.json](./40038-frisky-tom.json) |
 | Frisson | 197226 | [197226-frisson.json](./197226-frisson.json) |
 | Frisson | 288793 | [288793-frisson.json](./288793-frisson.json) |
+| Frisson DT | 338118 | [338118-frisson-dt.json](./338118-frisson-dt.json) |
 | Fritz & Chesster: Chess for Aliens | 356723 | [356723-fritz-and-chesster-chess-for-aliens.json](./356723-fritz-and-chesster-chess-for-aliens.json) |
 | Fritz & Chesster: Learn to Play Chess Vol. 1 | 209896 | [209896-fritz-and-chesster-learn-to-play-chess-vol-1.json](./209896-fritz-and-chesster-learn-to-play-chess-vol-1.json) |
 | Fritz & Chesster's Chess for Winners | 84182 | [84182-fritz-and-chessters-chess-for-winners.json](./84182-fritz-and-chessters-chess-for-winners.json) |
