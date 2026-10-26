@@ -8663,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hardness | 55784 | [55784-guitar-hardness.json](./55784-guitar-hardness.json) |
 | Guitar Hero | 1285 | [1285-guitar-hero.json](./1285-guitar-hero.json) |
 | Guitar Hero | 210101 | [210101-guitar-hero.json](./210101-guitar-hero.json) |
+| Guitar Hero & Guitar Hero II Dual Pack | 382160 | [382160-guitar-hero-and-guitar-hero-ii-dual-pack.json](./382160-guitar-hero-and-guitar-hero-ii-dual-pack.json) |
 | Guitar Hero 7 | 251431 | [251431-guitar-hero-7.json](./251431-guitar-hero-7.json) |
 | Guitar Hero Dual Pack: Guitar Hero II & Guitar Hero Aerosmith | 314957 | [314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json](./314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
