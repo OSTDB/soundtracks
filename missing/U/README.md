@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Solitaire 1000 | 116788 | [116788-ultimate-solitaire-1000.json](./116788-ultimate-solitaire-1000.json) |
 | Ultimate Solitaire Collection | 270091 | [270091-ultimate-solitaire-collection.json](./270091-ultimate-solitaire-collection.json) |
 | Ultimate Sonic Smackdown | 350894 | [350894-ultimate-sonic-smackdown.json](./350894-ultimate-sonic-smackdown.json) |
+| Ultimate Space Battleship | 337525 | [337525-ultimate-space-battleship.json](./337525-ultimate-space-battleship.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
 | Ultimate Spider Hero | 81629 | [81629-ultimate-spider-hero.json](./81629-ultimate-spider-hero.json) |
