@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslamp Cases 8: Quest for the Relic | 293984 | [293984-gaslamp-cases-8-quest-for-the-relic.json](./293984-gaslamp-cases-8-quest-for-the-relic.json) |
 | Gaslamp Cases XIII: The Crimson Portrait | 393710 | [393710-gaslamp-cases-xiii-the-crimson-portrait.json](./393710-gaslamp-cases-xiii-the-crimson-portrait.json) |
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
+| Gaslighters | 348668 | [348668-gaslighters.json](./348668-gaslighters.json) |
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gasoline | 418900 | [418900-gasoline.json](./418900-gasoline.json) |
@@ -9442,6 +9443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
+| Gutfarm | 348700 | [348700-gutfarm.json](./348700-gutfarm.json) |
 | Gutless | 222759 | [222759-gutless.json](./222759-gutless.json) |
 | Guts | 54925 | [54925-guts.json](./54925-guts.json) |
 | Guts 'n Goals | 116183 | [116183-guts-n-goals.json](./116183-guts-n-goals.json) |
