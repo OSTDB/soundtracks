@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
 | EdoPro | 234123 | [234123-edopro.json](./234123-edopro.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
+| EDP 445 Simulator | 370078 | [370078-edp-445-simulator.json](./370078-edp-445-simulator.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
 | Eduardo the Samurai Toaster | 21193 | [21193-eduardo-the-samurai-toaster.json](./21193-eduardo-the-samurai-toaster.json) |
@@ -1619,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
 | Elandrake | 421837 | [421837-elandrake.json](./421837-elandrake.json) |
 | Elara | 273768 | [273768-elara.json](./273768-elara.json) |
+| Elara and the Machine | 370169 | [370169-elara-and-the-machine.json](./370169-elara-and-the-machine.json) |
 | Elara's Light | 318127 | [318127-elaras-light.json](./318127-elaras-light.json) |
 | Elarel | 83922 | [83922-elarel.json](./83922-elarel.json) |
 | Elarienne | 348777 | [348777-elarienne.json](./348777-elarienne.json) |
@@ -2778,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Soul | 139287 | [139287-empty-soul.json](./139287-empty-soul.json) |
 | Empty Soul: S&S Edition | 32914 | [32914-empty-soul-s-and-s-edition.json](./32914-empty-soul-s-and-s-edition.json) |
 | Empty the Ocean With a Bucket | 392927 | [392927-empty-the-ocean-with-a-bucket.json](./392927-empty-the-ocean-with-a-bucket.json) |
+| Empty Throne | 370175 | [370175-empty-throne.json](./370175-empty-throne.json) |
 | Empty Town | 102293 | [102293-empty-town.json](./102293-empty-town.json) |
 | Empty Universe | 129464 | [129464-empty-universe.json](./129464-empty-universe.json) |
 | Empty Void | 183785 | [183785-empty-void.json](./183785-empty-void.json) |
