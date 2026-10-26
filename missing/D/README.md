@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Robinson's Supreme Court | 46533 | [46533-david-robinsons-supreme-court.json](./46533-david-robinsons-supreme-court.json) |
 | David Wolf: Secret Agent | 57575 | [57575-david-wolf-secret-agent.json](./57575-david-wolf-secret-agent.json) |
 | David: Dawn of a King | 335480 | [335480-david-dawn-of-a-king.json](./335480-david-dawn-of-a-king.json) |
+| David: Rise of the Shepherd | 372504 | [372504-david-rise-of-the-shepherd.json](./372504-david-rise-of-the-shepherd.json) |
 | Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
 | Davie's Quest and The Magic Dress | 322852 | [322852-davies-quest-and-the-magic-dress.json](./322852-davies-quest-and-the-magic-dress.json) |
 | Davigo | 121403 | [121403-davigo.json](./121403-davigo.json) |
@@ -4015,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
 | Debris | 151854 | [151854-debris.json](./151854-debris.json) |
+| Debris | 372431 | [372431-debris.json](./372431-debris.json) |
 | Debris | 52017 | [52017-debris.json](./52017-debris.json) |
 | Debris II | 151855 | [151855-debris-ii.json](./151855-debris-ii.json) |
 | Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
@@ -4376,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Line | 361810 | [361810-deep-line.json](./361810-deep-line.json) |
+| Deep Loop | 372523 | [372523-deep-loop.json](./372523-deep-loop.json) |
 | Deep Loot | 271930 | [271930-deep-loot.json](./271930-deep-loot.json) |
 | Deep Madness | 165630 | [165630-deep-madness.json](./165630-deep-madness.json) |
 | Deep Maze | 262832 | [262832-deep-maze.json](./262832-deep-maze.json) |
@@ -6036,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Bouncer | 416030 | [416030-desktop-bouncer.json](./416030-desktop-bouncer.json) |
 | Desktop Cat Cafe | 330383 | [330383-desktop-cat-cafe.json](./330383-desktop-cat-cafe.json) |
 | Desktop Clicker | 350513 | [350513-desktop-clicker.json](./350513-desktop-clicker.json) |
+| Desktop Colony | 372508 | [372508-desktop-colony.json](./372508-desktop-colony.json) |
 | Desktop Cube-Man | 368673 | [368673-desktop-cube-man.json](./368673-desktop-cube-man.json) |
 | Desktop Defender | 371976 | [371976-desktop-defender.json](./371976-desktop-defender.json) |
 | Desktop Detective | 411745 | [411745-desktop-detective.json](./411745-desktop-detective.json) |
