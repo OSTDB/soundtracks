@@ -2680,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hear My Light | 414143 | [414143-hear-my-light.json](./414143-hear-my-light.json) |
 | Hear No Evil | 114727 | [114727-hear-no-evil.json](./114727-hear-no-evil.json) |
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
+| Hear The Bell Toll | 357719 | [357719-hear-the-bell-toll.json](./357719-hear-the-bell-toll.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
 | Hearing Voices | 405323 | [405323-hearing-voices.json](./405323-hearing-voices.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
@@ -9812,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Days | 120720 | [120720-hundred-days.json](./120720-hundred-days.json) |
 | Hundred Days: Grape Lab | 167181 | [167181-hundred-days-grape-lab.json](./167181-hundred-days-grape-lab.json) |
 | Hundred Days: Napa Valley | 187853 | [187853-hundred-days-napa-valley.json](./187853-hundred-days-napa-valley.json) |
+| Hundred Doors | 357711 | [357711-hundred-doors.json](./357711-hundred-doors.json) |
 | Hundred Fires: Episode 2 | 412547 | [412547-hundred-fires-episode-2.json](./412547-hundred-fires-episode-2.json) |
 | Hundred Fires: The Rising of Red Star | 195957 | [195957-hundred-fires-the-rising-of-red-star.json](./195957-hundred-fires-the-rising-of-red-star.json) |
 | Hundred Fires: The Rising of Red Star - Episode 3 | 264808 | [264808-hundred-fires-the-rising-of-red-star-episode-3.json](./264808-hundred-fires-the-rising-of-red-star-episode-3.json) |
