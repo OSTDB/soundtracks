@@ -4190,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Cube | 219626 | [219626-out-of-the-cube.json](./219626-out-of-the-cube.json) |
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
+| Out of the Ocean | 370075 | [370075-out-of-the-ocean.json](./370075-out-of-the-ocean.json) |
 | Out of the Ordinary | 351774 | [351774-out-of-the-ordinary.json](./351774-out-of-the-ordinary.json) |
 | Out of the Park | 100100 | [100100-out-of-the-park.json](./100100-out-of-the-park.json) |
 | Out of the Park Baseball 10 | 69070 | [69070-out-of-the-park-baseball-10.json](./69070-out-of-the-park-baseball-10.json) |
@@ -4762,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overmortal | 262900 | [262900-overmortal.json](./262900-overmortal.json) |
 | Overnight | 136317 | [136317-overnight.json](./136317-overnight.json) |
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
+| Overnight 2: Reboot | 370084 | [370084-overnight-2-reboot.json](./370084-overnight-2-reboot.json) |
 | Overnight Interview | 376024 | [376024-overnight-interview.json](./376024-overnight-interview.json) |
 | Overnight Watch | 311589 | [311589-overnight-watch.json](./311589-overnight-watch.json) |
 | Overpaint | 102702 | [102702-overpaint.json](./102702-overpaint.json) |
