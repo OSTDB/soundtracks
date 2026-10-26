@@ -2326,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3425,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Burger | 392829 | [392829-kitty-burger.json](./392829-kitty-burger.json) |
 | Kitty Can Cook | 373162 | [373162-kitty-can-cook.json](./373162-kitty-can-cook.json) |
+| Kitty Cat Adventures Bundle | 385138 | [385138-kitty-cat-adventures-bundle.json](./385138-kitty-cat-adventures-bundle.json) |
 | Kitty Cat Doctor | 204289 | [204289-kitty-cat-doctor.json](./204289-kitty-cat-doctor.json) |
 | Kitty Cat Love | 106655 | [106655-kitty-cat-love.json](./106655-kitty-cat-love.json) |
 | Kitty Cat Squash | 192691 | [192691-kitty-cat-squash.json](./192691-kitty-cat-squash.json) |
@@ -3810,6 +3812,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
 | Knights & Dragons: The Endless Quest | 297602 | [297602-knights-and-dragons-the-endless-quest.json](./297602-knights-and-dragons-the-endless-quest.json) |
 | Knights & Guns Arcane Arsenal | 380708 | [380708-knights-and-guns-arcane-arsenal.json](./380708-knights-and-guns-arcane-arsenal.json) |
+| Knights & Guns Dragon's Wrath | 385166 | [385166-knights-and-guns-dragons-wrath.json](./385166-knights-and-guns-dragons-wrath.json) |
+| Knights & Guns Mystic Armor | 385167 | [385167-knights-and-guns-mystic-armor.json](./385167-knights-and-guns-mystic-armor.json) |
 | Knights & Guns: Advanced Edition | 317252 | [317252-knights-and-guns-advanced-edition.json](./317252-knights-and-guns-advanced-edition.json) |
 | Knights & Guns: Back To School Edition | 263540 | [263540-knights-and-guns-back-to-school-edition.json](./263540-knights-and-guns-back-to-school-edition.json) |
 | Knights & Guns: Comprehensive Edition | 399820 | [399820-knights-and-guns-comprehensive-edition.json](./399820-knights-and-guns-comprehensive-edition.json) |
