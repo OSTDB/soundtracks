@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Academy | 398689 | [398689-quiz-academy.json](./398689-quiz-academy.json) |
 | Quiz Animania | 209744 | [209744-quiz-animania.json](./209744-quiz-animania.json) |
 | Quiz Avenue | 371015 | [371015-quiz-avenue.json](./371015-quiz-avenue.json) |
+| Quiz Brain Workout | 358626 | [358626-quiz-brain-workout.json](./358626-quiz-brain-workout.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
 | Quiz Climber | 94122 | [94122-quiz-climber.json](./94122-quiz-climber.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
