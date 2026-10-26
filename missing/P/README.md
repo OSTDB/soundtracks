@@ -8335,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please, Stay Away | 362864 | [362864-please-stay-away.json](./362864-please-stay-away.json) |
 | Please, Touch the Artwork | 148945 | [148945-please-touch-the-artwork.json](./148945-please-touch-the-artwork.json) |
 | Please, Visit Grandma | 138545 | [138545-please-visit-grandma.json](./138545-please-visit-grandma.json) |
+| Please, Watch the Artwork | 347601 | [347601-please-watch-the-artwork.json](./347601-please-watch-the-artwork.json) |
 | Please! Please Confess First | 385899 | [385899-please-please-confess-first.json](./385899-please-please-confess-first.json) |
 | Please!! I want to Beg the Voluptuous Koume-chan into Consent! | 82824 | [82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json](./82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json) |
 | Pleased Aliens | 281648 | [281648-pleased-aliens.json](./281648-pleased-aliens.json) |
