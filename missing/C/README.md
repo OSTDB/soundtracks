@@ -7280,6 +7280,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | CipherPilot | 155863 | [155863-cipherpilot.json](./155863-cipherpilot.json) |
 | Cipheur | 330901 | [330901-cipheur.json](./330901-cipheur.json) |
+| Cipheur - Famous People Quotes 3 | 361018 | [361018-cipheur-famous-people-quotes-3.json](./361018-cipheur-famous-people-quotes-3.json) |
+| Cipheur: Famous People Quotes 2 | 361017 | [361017-cipheur-famous-people-quotes-2.json](./361017-cipheur-famous-people-quotes-2.json) |
 | Cipheur: Trivia - Geography | 384009 | [384009-cipheur-trivia-geography.json](./384009-cipheur-trivia-geography.json) |
 | Ciphoid 9 | 329980 | [329980-ciphoid-9.json](./329980-ciphoid-9.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
@@ -13324,6 +13326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Defense Force | 299567 | [299567-crank-defense-force.json](./299567-crank-defense-force.json) |
 | Crank In | 131853 | [131853-crank-in.json](./131853-crank-in.json) |
 | Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
+| Crank It! | 361088 | [361088-crank-it.json](./361088-crank-it.json) |
 | Crank It! | 389391 | [389391-crank-it.json](./389391-crank-it.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Snake Saga | 346916 | [346916-crank-snake-saga.json](./346916-crank-snake-saga.json) |
@@ -14969,6 +14972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowded Blue Dot | 168636 | [168636-crowded-blue-dot.json](./168636-crowded-blue-dot.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crowded Mysteries 2: Winter Romance | 320334 | [320334-crowded-mysteries-2-winter-romance.json](./320334-crowded-mysteries-2-winter-romance.json) |
+| Crowded: A Crow City Builder | 361021 | [361021-crowded-a-crow-city-builder.json](./361021-crowded-a-crow-city-builder.json) |
 | Crowded. Followed. | 311200 | [311200-crowded-followed.json](./311200-crowded-followed.json) |
 | Crowdy Farm Puzzle | 147612 | [147612-crowdy-farm-puzzle.json](./147612-crowdy-farm-puzzle.json) |
 | Crowdy Farm Rush | 147614 | [147614-crowdy-farm-rush.json](./147614-crowdy-farm-rush.json) |
@@ -16571,6 +16575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CustomBullet | 219747 | [219747-custombullet.json](./219747-custombullet.json) |
 | Customer Cums First! | 286398 | [286398-customer-cums-first.json](./286398-customer-cums-first.json) |
 | Customer Disservice | 296715 | [296715-customer-disservice.json](./296715-customer-disservice.json) |
+| Customer Support | 361097 | [361097-customer-support.json](./361097-customer-support.json) |
 | Customers From Hell: Game For Retail Workers | 148899 | [148899-customers-from-hell-game-for-retail-workers.json](./148899-customers-from-hell-game-for-retail-workers.json) |
 | Customized Girlfriend | 327902 | [327902-customized-girlfriend.json](./327902-customized-girlfriend.json) |
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
