@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair of Torment | 266799 | [266799-lair-of-torment.json](./266799-lair-of-torment.json) |
 | Laira Cut Me Open | 408179 | [408179-laira-cut-me-open.json](./408179-laira-cut-me-open.json) |
 | Lairchitect | 136729 | [136729-lairchitect.json](./136729-lairchitect.json) |
+| Lairchitect | 361579 | [361579-lairchitect.json](./361579-lairchitect.json) |
 | LAIzy Picture Phone | 307217 | [307217-laizy-picture-phone.json](./307217-laizy-picture-phone.json) |
 | Lakatos | 240662 | [240662-lakatos.json](./240662-lakatos.json) |
 | Lake Adventure | 279780 | [279780-lake-adventure.json](./279780-lake-adventure.json) |
