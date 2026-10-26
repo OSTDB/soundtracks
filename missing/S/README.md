@@ -2416,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
+| Scenes from the Heart | 335769 | [335769-scenes-from-the-heart.json](./335769-scenes-from-the-heart.json) |
 | Scenic Route's Generations | 244084 | [244084-scenic-routes-generations.json](./244084-scenic-routes-generations.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scent of Ashes | 401712 | [401712-scent-of-ashes.json](./401712-scent-of-ashes.json) |
@@ -8653,6 +8654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Zero: Dispatch | 405136 | [405136-signal-zero-dispatch.json](./405136-signal-zero-dispatch.json) |
 | Signal Zone | 381195 | [381195-signal-zone.json](./381195-signal-zone.json) |
 | Signal: Uncharted Lands | 333239 | [333239-signal-uncharted-lands.json](./333239-signal-uncharted-lands.json) |
+| Signal. | 335780 | [335780-signal.json](./335780-signal.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
 | Signalfall | 403347 | [403347-signalfall.json](./403347-signalfall.json) |
 | Signals of Chaos | 195007 | [195007-signals-of-chaos.json](./195007-signals-of-chaos.json) |
@@ -21023,6 +21025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Starion Tactics | 10891 | [10891-starion-tactics.json](./10891-starion-tactics.json) |
+| Starium | 335796 | [335796-starium.json](./335796-starium.json) |
 | Starjet Fights | 246778 | [246778-starjet-fights.json](./246778-starjet-fights.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
@@ -26112,6 +26115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
 | Super Golden Odyssey: 3d Platformer World | 348114 | [348114-super-golden-odyssey-3d-platformer-world.json](./348114-super-golden-odyssey-3d-platformer-world.json) |
+| Super Golden Sibs. | 335753 | [335753-super-golden-sibs.json](./335753-super-golden-sibs.json) |
 | Super Goldfish Scooping | 410835 | [410835-super-goldfish-scooping.json](./410835-super-goldfish-scooping.json) |
 | Super Golf | 109212 | [109212-super-golf.json](./109212-super-golf.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
@@ -26806,6 +26810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario MoonShine 64 | 198370 | [198370-super-mario-moonshine-64.json](./198370-super-mario-moonshine-64.json) |
 | Super Mario Mountain Mania | 314114 | [314114-super-mario-mountain-mania.json](./314114-super-mario-mountain-mania.json) |
 | Super Mario Nation | 381728 | [381728-super-mario-nation.json](./381728-super-mario-nation.json) |
+| Super Mario New Star | 335765 | [335765-super-mario-new-star.json](./335765-super-mario-new-star.json) |
 | Super Mario Nightfall | 313420 | [313420-super-mario-nightfall.json](./313420-super-mario-nightfall.json) |
 | Super Mario Odyssey 64 | 132640 | [132640-super-mario-odyssey-64.json](./132640-super-mario-odyssey-64.json) |
 | Super Mario Odyssey 64 | 357442 | [357442-super-mario-odyssey-64.json](./357442-super-mario-odyssey-64.json) |
