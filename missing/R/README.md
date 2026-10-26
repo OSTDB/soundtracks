@@ -8432,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue of the Seven Seas | 180761 | [180761-rogue-of-the-seven-seas.json](./180761-rogue-of-the-seven-seas.json) |
 | Rogue Operatives | 34712 | [34712-rogue-operatives.json](./34712-rogue-operatives.json) |
 | Rogue Ottoman | 271604 | [271604-rogue-ottoman.json](./271604-rogue-ottoman.json) |
+| Rogue Paper Scissors | 357716 | [357716-rogue-paper-scissors.json](./357716-rogue-paper-scissors.json) |
 | Rogue Party 2 | 158909 | [158909-rogue-party-2.json](./158909-rogue-party-2.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
 | Rogue Piñatas: VRmageddon | 319683 | [319683-rogue-pinatas-vrmageddon.json](./319683-rogue-pinatas-vrmageddon.json) |
