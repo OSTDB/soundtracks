@@ -4000,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's Escape: Prison | 280327 | [280327-henrys-escape-prison.json](./280327-henrys-escape-prison.json) |
 | Henry's Forgotten Performance | 295778 | [295778-henrys-forgotten-performance.json](./295778-henrys-forgotten-performance.json) |
 | Henry's Hoard | 354568 | [354568-henrys-hoard.json](./354568-henrys-hoard.json) |
+| Henshin MyBro! | 338627 | [338627-henshin-mybro.json](./338627-henshin-mybro.json) |
 | Hent-Ai Puzzle | 303669 | [303669-hent-ai-puzzle.json](./303669-hent-ai-puzzle.json) |
 | Hentai | 55752 | [55752-hentai.json](./55752-hentai.json) |
 | Hentai 15 Puzzle 2 | 236379 | [236379-hentai-15-puzzle-2.json](./236379-hentai-15-puzzle-2.json) |
@@ -9356,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How 2 Dreams | 224118 | [224118-how-2-dreams.json](./224118-how-2-dreams.json) |
 | How 2 Escape Collection | 351230 | [351230-how-2-escape-collection.json](./351230-how-2-escape-collection.json) |
 | How 2 Escape: Lost Submarine | 335838 | [335838-how-2-escape-lost-submarine.json](./335838-how-2-escape-lost-submarine.json) |
+| How a Body Sounds | 338646 | [338646-how-a-body-sounds.json](./338646-how-a-body-sounds.json) |
 | How a Healthy Hentai Administers Public Service | 207261 | [207261-how-a-healthy-hentai-administers-public-service.json](./207261-how-a-healthy-hentai-administers-public-service.json) |
 | How a Retired Strategist Saved the Country | 221199 | [221199-how-a-retired-strategist-saved-the-country.json](./221199-how-a-retired-strategist-saved-the-country.json) |
 | How About Spikes | 103417 | [103417-how-about-spikes.json](./103417-how-about-spikes.json) |
