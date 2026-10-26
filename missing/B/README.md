@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Point | 114717 | [114717-bandit-point.json](./114717-bandit-point.json) |
 | Bandit Simulator | 121474 | [121474-bandit-simulator.json](./121474-bandit-simulator.json) |
 | Bandit Simulator TD | 389945 | [389945-bandit-simulator-td.json](./389945-bandit-simulator-td.json) |
+| Bandit Six: Salvo | 338654 | [338654-bandit-six-salvo.json](./338654-bandit-six-salvo.json) |
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
 | Bandit Trap | 306417 | [306417-bandit-trap.json](./306417-bandit-trap.json) |
 | Bandits | 115164 | [115164-bandits.json](./115164-bandits.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BasketBelle | 14766 | [14766-basketbelle.json](./14766-basketbelle.json) |
 | Basketboy's Adventure | 374422 | [374422-basketboys-adventure.json](./374422-basketboys-adventure.json) |
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
+| Basketbrawl | 338642 | [338642-basketbrawl.json](./338642-basketbrawl.json) |
 | Basketing | 148903 | [148903-basketing.json](./148903-basketing.json) |
 | Basketmania | 88435 | [88435-basketmania.json](./88435-basketmania.json) |
 | Basketmania All Stars | 90453 | [90453-basketmania-all-stars.json](./90453-basketmania-all-stars.json) |
@@ -5180,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being | 92419 | [92419-being.json](./92419-being.json) |
 | Being a DIK | 128462 | [128462-being-a-dik.json](./128462-being-a-dik.json) |
 | Being a DIK: Season 2 | 186507 | [186507-being-a-dik-season-2.json](./186507-being-a-dik-season-2.json) |
+| Being a DIK: Season 3 | 338648 | [338648-being-a-dik-season-3.json](./338648-being-a-dik-season-3.json) |
 | Being a Penguin | 197026 | [197026-being-a-penguin.json](./197026-being-a-penguin.json) |
 | Being Ball | 190412 | [190412-being-ball.json](./190412-being-ball.json) |
 | Being Dead Simulator | 280925 | [280925-being-dead-simulator.json](./280925-being-dead-simulator.json) |
@@ -10227,6 +10230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
 | Bobble League | 254430 | [254430-bobble-league.json](./254430-bobble-league.json) |
 | Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
+| Bobble Wobble | 338657 | [338657-bobble-wobble.json](./338657-bobble-wobble.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobbo's Crappy Birthday | 404649 | [404649-bobbos-crappy-birthday.json](./404649-bobbos-crappy-birthday.json) |
 | Bobby | 189997 | [189997-bobby.json](./189997-bobby.json) |
