@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in Funfair Frenzy | 359027 | [359027-100-cats-lost-in-funfair-frenzy.json](./359027-100-cats-lost-in-funfair-frenzy.json) |
 | 100 Cats Lost in Halloween Havoc | 359035 | [359035-100-cats-lost-in-halloween-havoc.json](./359035-100-cats-lost-in-halloween-havoc.json) |
 | 100 Cats Lost in Italy | 349282 | [349282-100-cats-lost-in-italy.json](./349282-100-cats-lost-in-italy.json) |
+| 100 Cats Lost in Japan Find & Color | 351511 | [351511-100-cats-lost-in-japan-find-and-color.json](./351511-100-cats-lost-in-japan-find-and-color.json) |
 | 100 Cats Lost In Japan: Extra Content | 376889 | [376889-100-cats-lost-in-japan-extra-content.json](./376889-100-cats-lost-in-japan-extra-content.json) |
 | 100 Cats Lost in Modern Art Mayhem | 359029 | [359029-100-cats-lost-in-modern-art-mayhem.json](./359029-100-cats-lost-in-modern-art-mayhem.json) |
 | 100 Cats Lost in Picasso’s Cubic World | 359026 | [359026-100-cats-lost-in-picasso-s-cubic-world.json](./359026-100-cats-lost-in-picasso-s-cubic-world.json) |
@@ -992,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes | 355071 | [355071-15-minutes.json](./355071-15-minutes.json) |
 | 15 Minutes At The World's End | 265616 | [265616-15-minutes-at-the-worlds-end.json](./265616-15-minutes-at-the-worlds-end.json) |
 | 15 Minutes Dungeon | 255026 | [255026-15-minutes-dungeon.json](./255026-15-minutes-dungeon.json) |
+| 15 Minutes to the End of the World | 352101 | [352101-15-minutes-to-the-end-of-the-world.json](./352101-15-minutes-to-the-end-of-the-world.json) |
 | 15 Move Hole Puzzle | 94162 | [94162-15-move-hole-puzzle.json](./94162-15-move-hole-puzzle.json) |
 | 15 Puzzle | 268864 | [268864-15-puzzle.json](./268864-15-puzzle.json) |
 | 15 Puzzle | 67073 | [67073-15-puzzle.json](./67073-15-puzzle.json) |
@@ -2306,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Thewords | 137942 | [137942-4thewords.json](./137942-4thewords.json) |
 | 4Towers Onslaught | 235155 | [235155-4towers-onslaught.json](./235155-4towers-onslaught.json) |
 | 4WD Wild Rally | 300005 | [300005-4wd-wild-rally.json](./300005-4wd-wild-rally.json) |
+| 4Wheel Challenge | 351532 | [351532-4wheel-challenge.json](./351532-4wheel-challenge.json) |
 | 4X-Galaxy | 109326 | [109326-4x-galaxy.json](./109326-4x-galaxy.json) |
 | 4X4 | 219513 | [219513-4x4.json](./219513-4x4.json) |
 | 4x4 Adventure Rocky Pathways | 320371 | [320371-4x4-adventure-rocky-pathways.json](./320371-4x4-adventure-rocky-pathways.json) |
