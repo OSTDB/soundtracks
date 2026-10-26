@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebel Spirit! | 339156 | [339156-rebel-spirit.json](./339156-rebel-spirit.json) |
+| Rebel Supplies | 359451 | [359451-rebel-supplies.json](./359451-rebel-supplies.json) |
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
 | Rebel Wings | 35051 | [35051-rebel-wings.json](./35051-rebel-wings.json) |
 | Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
@@ -9267,6 +9268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope and Balls | 208960 | [208960-rope-and-balls.json](./208960-rope-and-balls.json) |
 | Rope Bowling | 232958 | [232958-rope-bowling.json](./232958-rope-bowling.json) |
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
+| Rope Dancer | 359320 | [359320-rope-dancer.json](./359320-rope-dancer.json) |
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
 | Rope Rescue | 65772 | [65772-rope-rescue.json](./65772-rope-rescue.json) |
 | Rope Up! | 401165 | [401165-rope-up.json](./401165-rope-up.json) |
