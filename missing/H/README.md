@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
 | Healer's Quest | 29380 | [29380-healers-quest.json](./29380-healers-quest.json) |
 | Healer's Quest: Pocket Wand | 197759 | [197759-healers-quest-pocket-wand.json](./197759-healers-quest-pocket-wand.json) |
+| Healer's Yell | 374038 | [374038-healers-yell.json](./374038-healers-yell.json) |
 | Healing Days: Toshi no Sa Kanojo to no Ama Ama Seikatsu | 402719 | [402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json](./402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json) |
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Healing Simulator | 195000 | [195000-healing-simulator.json](./195000-healing-simulator.json) |
