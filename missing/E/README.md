@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysian | 306799 | [306799-elysian.json](./306799-elysian.json) |
 | Elysian Echoes | 265093 | [265093-elysian-echoes.json](./265093-elysian-echoes.json) |
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
+| Elysian Inferno | 350358 | [350358-elysian-inferno.json](./350358-elysian-inferno.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
 | Elysion | 100062 | [100062-elysion.json](./100062-elysion.json) |
 | Elysion | 48509 | [48509-elysion.json](./48509-elysion.json) |
@@ -5424,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evac | 96923 | [96923-evac.json](./96923-evac.json) |
 | Evac Bay 09 | 373058 | [373058-evac-bay-09.json](./373058-evac-bay-09.json) |
 | Evac Point | 389541 | [389541-evac-point.json](./389541-evac-point.json) |
+| Evacuate | 350334 | [350334-evacuate.json](./350334-evacuate.json) |
 | Evacuation | 182454 | [182454-evacuation.json](./182454-evacuation.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
 | Evacuation Zone: Tampere | 342759 | [342759-evacuation-zone-tampere.json](./342759-evacuation-zone-tampere.json) |
