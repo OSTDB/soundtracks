@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
 | Dark Castle | 287498 | [287498-dark-castle.json](./287498-dark-castle.json) |
 | Dark Castle | 334682 | [334682-dark-castle.json](./334682-dark-castle.json) |
+| Dark Castle | 337409 | [337409-dark-castle.json](./337409-dark-castle.json) |
 | Dark Castle | 337427 | [337427-dark-castle.json](./337427-dark-castle.json) |
 | Dark Castle | 337429 | [337429-dark-castle.json](./337429-dark-castle.json) |
 | Dark Cave | 170841 | [170841-dark-cave.json](./170841-dark-cave.json) |
@@ -9009,6 +9010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
 | Distant Visitant | 390483 | [390483-distant-visitant.json](./390483-distant-visitant.json) |
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
+| Distant Worlds 2: Factions - Atuuk and Wekkarus | 337557 | [337557-distant-worlds-2-factions-atuuk-and-wekkarus.json](./337557-distant-worlds-2-factions-atuuk-and-wekkarus.json) |
 | Distant Worlds 2: Factions - Ikkuro and Dhayut | 242048 | [242048-distant-worlds-2-factions-ikkuro-and-dhayut.json](./242048-distant-worlds-2-factions-ikkuro-and-dhayut.json) |
 | Distant Worlds 2: Factions - Quameno and Gizureans | 261647 | [261647-distant-worlds-2-factions-quameno-and-gizureans.json](./261647-distant-worlds-2-factions-quameno-and-gizureans.json) |
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
@@ -11019,6 +11021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
 | Doomer Simulator | 164945 | [164945-doomer-simulator.json](./164945-doomer-simulator.json) |
+| Doomer Simulator | 337556 | [337556-doomer-simulator.json](./337556-doomer-simulator.json) |
 | Doomer's Adventure | 166844 | [166844-doomers-adventure.json](./166844-doomers-adventure.json) |
 | Doomfields | 354929 | [354929-doomfields.json](./354929-doomfields.json) |
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
