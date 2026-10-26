@@ -3027,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
 | Getter Robo Daikessen! | 77981 | [77981-getter-robo-daikessen.json](./77981-getter-robo-daikessen.json) |
 | Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
+| Getting Around It with Pheasant Birdy | 342523 | [342523-getting-around-it-with-pheasant-birdy.json](./342523-getting-around-it-with-pheasant-birdy.json) |
 | Getting Freaky With Fujiki | 245836 | [245836-getting-freaky-with-fujiki.json](./245836-getting-freaky-with-fujiki.json) |
 | Getting Goopy | 345634 | [345634-getting-goopy.json](./345634-getting-goopy.json) |
 | Getting Home | 406198 | [406198-getting-home.json](./406198-getting-home.json) |
@@ -8698,6 +8699,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd Rev 2: Character Colors - Elphelt Valentine | 332586 | [332586-guilty-gear-xrd-rev-2-character-colors-elphelt-valentine.json](./332586-guilty-gear-xrd-rev-2-character-colors-elphelt-valentine.json) |
 | Guilty Gear Xrd Rev 2: Character Colors - Faust | 332584 | [332584-guilty-gear-xrd-rev-2-character-colors-faust.json](./332584-guilty-gear-xrd-rev-2-character-colors-faust.json) |
 | Guilty Gear Xrd Rev 2: Character Colors - Johnny | 332585 | [332585-guilty-gear-xrd-rev-2-character-colors-johnny.json](./332585-guilty-gear-xrd-rev-2-character-colors-johnny.json) |
+| Guilty Gear Xrd Rev 2: Character Colors Answer | 342565 | [342565-guilty-gear-xrd-rev-2-character-colors-answer.json](./342565-guilty-gear-xrd-rev-2-character-colors-answer.json) |
+| Guilty Gear Xrd Rev 2: Character Colors Chipp Zanuff | 342563 | [342563-guilty-gear-xrd-rev-2-character-colors-chipp-zanuff.json](./342563-guilty-gear-xrd-rev-2-character-colors-chipp-zanuff.json) |
+| Guilty Gear Xrd Rev 2: Character Colors Dizzy | 342567 | [342567-guilty-gear-xrd-rev-2-character-colors-dizzy.json](./342567-guilty-gear-xrd-rev-2-character-colors-dizzy.json) |
+| Guilty Gear Xrd Rev 2: Character Colors Eclipse Set | 342568 | [342568-guilty-gear-xrd-rev-2-character-colors-eclipse-set.json](./342568-guilty-gear-xrd-rev-2-character-colors-eclipse-set.json) |
+| Guilty Gear Xrd: Rev 2 - Alternate Costume Elphelt | 342564 | [342564-guilty-gear-xrd-rev-2-alternate-costume-elphelt.json](./342564-guilty-gear-xrd-rev-2-alternate-costume-elphelt.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Axl Low | 332472 | [332472-guilty-gear-xrd-rev-2-character-colors-axl-low.json](./332472-guilty-gear-xrd-rev-2-character-colors-axl-low.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors I-No | 332475 | [332475-guilty-gear-xrd-rev-2-character-colors-i-no.json](./332475-guilty-gear-xrd-rev-2-character-colors-i-no.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Jack-O' | 332473 | [332473-guilty-gear-xrd-rev-2-character-colors-jack-o.json](./332473-guilty-gear-xrd-rev-2-character-colors-jack-o.json) |
