@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous Field Trip | 240052 | [240052-fabulous-field-trip.json](./240052-fabulous-field-trip.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
 | Fabulous Food Truck | 32222 | [32222-fabulous-food-truck.json](./32222-fabulous-food-truck.json) |
+| Fabulous Fool | 371286 | [371286-fabulous-fool.json](./371286-fabulous-fool.json) |
 | Fabulous Place | 160184 | [160184-fabulous-place.json](./160184-fabulous-place.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
 | Fabulous Shop | 246550 | [246550-fabulous-shop.json](./246550-fabulous-shop.json) |
@@ -420,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fade: A Ghost Story | 307742 | [307742-fade-a-ghost-story.json](./307742-fade-a-ghost-story.json) |
 | Fade^2 | 279889 | [279889-fade-2.json](./279889-fade-2.json) |
 | Faded | 290525 | [290525-faded.json](./290525-faded.json) |
+| Faded Forest | 371282 | [371282-faded-forest.json](./371282-faded-forest.json) |
 | Faded Grey | 166729 | [166729-faded-grey.json](./166729-faded-grey.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
 | Faded Memories | 130321 | [130321-faded-memories.json](./130321-faded-memories.json) |
@@ -2265,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Engine | 151070 | [151070-farming-engine.json](./151070-farming-engine.json) |
 | Farming Fever | 234148 | [234148-farming-fever.json](./234148-farming-fever.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
+| Farming Life 40 | 371208 | [371208-farming-life-40.json](./371208-farming-life-40.json) |
 | Farming Life Simulator | 373655 | [373655-farming-life-simulator.json](./373655-farming-life-simulator.json) |
 | Farming Mushroom | 371483 | [371483-farming-mushroom.json](./371483-farming-mushroom.json) |
 | Farming PRO 2015 | 88257 | [88257-farming-pro-2015.json](./88257-farming-pro-2015.json) |
@@ -3633,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 23 | 240456 | [240456-fifa-23.json](./240456-fifa-23.json) |
 | FIFA 23: Legacy Edition | 210455 | [210455-fifa-23-legacy-edition.json](./210455-fifa-23-legacy-edition.json) |
 | FIFA 99 | 699 | [699-fifa-99.json](./699-fifa-99.json) |
+| FIFA Heroes | 371210 | [371210-fifa-heroes.json](./371210-fifa-heroes.json) |
 | FIFA International Soccer | 128887 | [128887-fifa-international-soccer.json](./128887-fifa-international-soccer.json) |
 | FIFA International Soccer | 240238 | [240238-fifa-international-soccer.json](./240238-fifa-international-soccer.json) |
 | FIFA International Soccer | 240239 | [240239-fifa-international-soccer.json](./240239-fifa-international-soccer.json) |
@@ -4943,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Three Houses - Seasons of Warfare Edition | 136363 | [136363-fire-emblem-three-houses-seasons-of-warfare-edition.json](./136363-fire-emblem-three-houses-seasons-of-warfare-edition.json) |
 | Fire Emblem: Three Houses + Expansion Pass | 293730 | [293730-fire-emblem-three-houses-expansion-pass.json](./293730-fire-emblem-three-houses-expansion-pass.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
+| Fire Embrace 2 | 371203 | [371203-fire-embrace-2.json](./371203-fire-embrace-2.json) |
 | Fire Embrace: Erabareshi Chigyuu no Ken | 163923 | [163923-fire-embrace-erabareshi-chigyuu-no-ken.json](./163923-fire-embrace-erabareshi-chigyuu-no-ken.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
 | Fire Escape | 62575 | [62575-fire-escape.json](./62575-fire-escape.json) |
@@ -7703,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Handheld 2015 | 380663 | [380663-football-manager-handheld-2015.json](./380663-football-manager-handheld-2015.json) |
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
+| Football Manager Touch 2016 | 371216 | [371216-football-manager-touch-2016.json](./371216-football-manager-touch-2016.json) |
 | Football Manager: World Cup Edition | 41003 | [41003-football-manager-world-cup-edition.json](./41003-football-manager-world-cup-edition.json) |
 | Football Master 2: FT9's Coming | 223938 | [223938-football-master-2-ft9s-coming.json](./223938-football-master-2-ft9s-coming.json) |
 | Football Masters 99 | 70789 | [70789-football-masters-99.json](./70789-football-masters-99.json) |
@@ -9757,6 +9763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy Fall | 347808 | [347808-frenzy-fall.json](./347808-frenzy-fall.json) |
 | Frenzy Force | 392104 | [392104-frenzy-force.json](./392104-frenzy-force.json) |
 | Frenzy Freak Fantasy | 370198 | [370198-frenzy-freak-fantasy.json](./370198-frenzy-freak-fantasy.json) |
+| Frenzy Islands | 371211 | [371211-frenzy-islands.json](./371211-frenzy-islands.json) |
 | Frenzy Plants | 122187 | [122187-frenzy-plants.json](./122187-frenzy-plants.json) |
 | Frenzy Retribution | 122306 | [122306-frenzy-retribution.json](./122306-frenzy-retribution.json) |
 | Frenzy Train: Undead Vengeance | 100831 | [100831-frenzy-train-undead-vengeance.json](./100831-frenzy-train-undead-vengeance.json) |
