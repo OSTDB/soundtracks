@@ -14600,6 +14600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
 | Duelist: Idle Expedition | 400826 | [400826-duelist-idle-expedition.json](./400826-duelist-idle-expedition.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
+| Duelmasters | 370157 | [370157-duelmasters.json](./370157-duelmasters.json) |
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
 | Duels of Fortune | 138441 | [138441-duels-of-fortune.json](./138441-duels-of-fortune.json) |
