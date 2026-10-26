@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Lilies: An Eons Lost Story | 182100 | [182100-war-of-the-lilies-an-eons-lost-story.json](./182100-war-of-the-lilies-an-eons-lost-story.json) |
 | War of the Mars | 151075 | [151075-war-of-the-mars.json](./151075-war-of-the-mars.json) |
 | War of the Monsters | 3208 | [3208-war-of-the-monsters.json](./3208-war-of-the-monsters.json) |
+| War of the Old Gods | 338416 | [338416-war-of-the-old-gods.json](./338416-war-of-the-old-gods.json) |
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
 | War of the Robots | 273285 | [273285-war-of-the-robots.json](./273285-war-of-the-robots.json) |
 | War of the Roses | 1385 | [1385-war-of-the-roses.json](./1385-war-of-the-roses.json) |
