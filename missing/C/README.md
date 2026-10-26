@@ -2880,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
 | Castle of Cards | 200129 | [200129-castle-of-cards.json](./200129-castle-of-cards.json) |
 | Castle of Collapse | 149843 | [149843-castle-of-collapse.json](./149843-castle-of-collapse.json) |
+| Castle Of Cthulhu | 343583 | [343583-castle-of-cthulhu.json](./343583-castle-of-cthulhu.json) |
 | Castle of Deceit | 242413 | [242413-castle-of-deceit.json](./242413-castle-of-deceit.json) |
 | Castle of Deceit | 7779 | [7779-castle-of-deceit.json](./7779-castle-of-deceit.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
@@ -3830,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Visiting Christmas Town | 325663 | [325663-cats-visiting-christmas-town.json](./325663-cats-visiting-christmas-town.json) |
 | Cats Visiting Cozy Town | 386179 | [386179-cats-visiting-cozy-town.json](./386179-cats-visiting-cozy-town.json) |
 | Cats Visiting El Dorado | 368761 | [368761-cats-visiting-el-dorado.json](./368761-cats-visiting-el-dorado.json) |
+| Cats Visiting Fairy Tales | 343725 | [343725-cats-visiting-fairy-tales.json](./343725-cats-visiting-fairy-tales.json) |
 | Cats Visiting Lunar New Year | 328566 | [328566-cats-visiting-lunar-new-year.json](./328566-cats-visiting-lunar-new-year.json) |
 | Cats Visiting Underwater World | 328542 | [328542-cats-visiting-underwater-world.json](./328542-cats-visiting-underwater-world.json) |
 | Cats vs Cthulhu | 327957 | [327957-cats-vs-cthulhu.json](./327957-cats-vs-cthulhu.json) |
@@ -8168,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic NES Series: Xevious | 49205 | [49205-classic-nes-series-xevious.json](./49205-classic-nes-series-xevious.json) |
 | Classic NES Series: Zelda II - The Adventure of Link | 136280 | [136280-classic-nes-series-zelda-ii-the-adventure-of-link.json](./136280-classic-nes-series-zelda-ii-the-adventure-of-link.json) |
 | Classic Offensive | 250310 | [250310-classic-offensive.json](./250310-classic-offensive.json) |
+| Classic Pizza Tower Editor | 344034 | [344034-classic-pizza-tower-editor.json](./344034-classic-pizza-tower-editor.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
 | Classic Punter | 13497 | [13497-classic-punter.json](./13497-classic-punter.json) |
 | Classic Racers | 115900 | [115900-classic-racers.json](./115900-classic-racers.json) |
@@ -13172,6 +13175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Unpacking Collection | 414789 | [414789-cozy-unpacking-collection.json](./414789-cozy-unpacking-collection.json) |
 | Cozy Village | 271653 | [271653-cozy-village.json](./271653-cozy-village.json) |
 | Cozy Wandering in Scarlet and Amber | 145276 | [145276-cozy-wandering-in-scarlet-and-amber.json](./145276-cozy-wandering-in-scarlet-and-amber.json) |
+| Cozy Winter | 343724 | [343724-cozy-winter.json](./343724-cozy-winter.json) |
 | CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
 | Cozynauts | 266617 | [266617-cozynauts.json](./266617-cozynauts.json) |
@@ -15014,6 +15018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Traffic: Road Rider | 240925 | [240925-crossy-traffic-road-rider.json](./240925-crossy-traffic-road-rider.json) |
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
+| Crouching Panda, Hidden Moose | 343584 | [343584-crouching-panda-hidden-moose.json](./343584-crouching-panda-hidden-moose.json) |
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
 | Crouching Tiger, Hidden Dragon | 5794 | [5794-crouching-tiger-hidden-dragon.json](./5794-crouching-tiger-hidden-dragon.json) |
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
