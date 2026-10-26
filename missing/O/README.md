@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oloo | 383417 | [383417-oloo.json](./383417-oloo.json) |
 | Olson's Boxing Challenge | 75667 | [75667-olsons-boxing-challenge.json](./75667-olsons-boxing-challenge.json) |
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
+| Olyen | 378239 | [378239-olyen.json](./378239-olyen.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
 | Olympian Knights | 216653 | [216653-olympian-knights.json](./216653-olympian-knights.json) |
@@ -1898,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hand Samurai | 140893 | [140893-one-hand-samurai.json](./140893-one-hand-samurai.json) |
 | One Handed | 212205 | [212205-one-handed.json](./212205-one-handed.json) |
 | One Hard Game Please! | 351427 | [351427-one-hard-game-please.json](./351427-one-hard-game-please.json) |
+| One Hell of a Coffee Shop | 378154 | [378154-one-hell-of-a-coffee-shop.json](./378154-one-hell-of-a-coffee-shop.json) |
 | One Hell of a Maid | 300532 | [300532-one-hell-of-a-maid.json](./300532-one-hell-of-a-maid.json) |
 | One Hell of a Ride | 218562 | [218562-one-hell-of-a-ride.json](./218562-one-hell-of-a-ride.json) |
 | One Hell of a Trip | 151553 | [151553-one-hell-of-a-trip.json](./151553-one-hell-of-a-trip.json) |
@@ -3569,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ork | 385386 | [385386-ork.json](./385386-ork.json) |
 | Ork Attack: The Return | 223865 | [223865-ork-attack-the-return.json](./223865-ork-attack-the-return.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
+| Orkastle | 378247 | [378247-orkastle.json](./378247-orkastle.json) |
 | Orken | 384839 | [384839-orken.json](./384839-orken.json) |
 | Orkendale: The Scarred Land | 291322 | [291322-orkendale-the-scarred-land.json](./291322-orkendale-the-scarred-land.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
