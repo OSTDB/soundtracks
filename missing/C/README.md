@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardopolis | 374655 | [374655-cardopolis.json](./374655-cardopolis.json) |
 | Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
+| Cardrottini | 347031 | [347031-cardrottini.json](./347031-cardrottini.json) |
 | Cardrunners | 348118 | [348118-cardrunners.json](./348118-cardrunners.json) |
 | Cards | 12918 | [12918-cards.json](./12918-cards.json) |
 | Cards & Cannons | 399261 | [399261-cards-and-cannons.json](./399261-cards-and-cannons.json) |
@@ -2802,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
 | Castle Burn | 77597 | [77597-castle-burn.json](./77597-castle-burn.json) |
 | Castle Busters | 405982 | [405982-castle-busters.json](./405982-castle-busters.json) |
+| Castle Cab | 347022 | [347022-castle-cab.json](./347022-castle-cab.json) |
 | Castle Cairn | 376098 | [376098-castle-cairn.json](./376098-castle-cairn.json) |
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
@@ -4125,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Gunslinger | 294683 | [294683-cazzarion-gunslinger.json](./294683-cazzarion-gunslinger.json) |
 | Cazzarion: Hell Biker | 334491 | [334491-cazzarion-hell-biker.json](./334491-cazzarion-hell-biker.json) |
 | Cazzarion: Jetpack Fighter | 378178 | [378178-cazzarion-jetpack-fighter.json](./378178-cazzarion-jetpack-fighter.json) |
+| Cazzarion: Kutululu | 347065 | [347065-cazzarion-kutululu.json](./347065-cazzarion-kutululu.json) |
 | Cazzarion: Laser Puzzle | 399876 | [399876-cazzarion-laser-puzzle.json](./399876-cazzarion-laser-puzzle.json) |
 | Cazzarion: Pop The Bubbles | 296737 | [296737-cazzarion-pop-the-bubbles.json](./296737-cazzarion-pop-the-bubbles.json) |
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
@@ -4559,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
 | Chainers | 393551 | [393551-chainers.json](./393551-chainers.json) |
 | Chainitaire | 185332 | [185332-chainitaire.json](./185332-chainitaire.json) |
+| ChainKit Builder | 347048 | [347048-chainkit-builder.json](./347048-chainkit-builder.json) |
 | Chainless | 29510 | [29510-chainless.json](./29510-chainless.json) |
 | Chainmail Bikini | 235825 | [235825-chainmail-bikini.json](./235825-chainmail-bikini.json) |
 | ChainMan | 39763 | [39763-chainman.json](./39763-chainman.json) |
@@ -4831,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chanter: Kimi no Uta ga Todoitara | 77906 | [77906-chanter-kimi-no-uta-ga-todoitara.json](./77906-chanter-kimi-no-uta-ga-todoitara.json) |
 | Chanter: Kimi no Uta ga Todoitara # | 338056 | [338056-chanter-kimi-no-uta-ga-todoitara.json](./338056-chanter-kimi-no-uta-ga-todoitara.json) |
+| Chantey | 347061 | [347061-chantey.json](./347061-chantey.json) |
 | Chanye's Home | 280151 | [280151-chanyes-home.json](./280151-chanyes-home.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
@@ -16844,6 +16849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Blade: Action Platformer | 272193 | [272193-cyber-blade-action-platformer.json](./272193-cyber-blade-action-platformer.json) |
 | Cyber Blades | 205108 | [205108-cyber-blades.json](./205108-cyber-blades.json) |
 | Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
+| Cyber Car Seller Simulator | 347062 | [347062-cyber-car-seller-simulator.json](./347062-cyber-car-seller-simulator.json) |
 | Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
 | Cyber Chaos | 295076 | [295076-cyber-chaos.json](./295076-cyber-chaos.json) |
 | Cyber Chaser | 383187 | [383187-cyber-chaser.json](./383187-cyber-chaser.json) |
