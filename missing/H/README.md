@@ -5760,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Life | 90406 | [90406-hidden-life.json](./90406-hidden-life.json) |
 | Hidden Liner | 91252 | [91252-hidden-liner.json](./91252-hidden-liner.json) |
 | Hidden Magic Town | 190008 | [190008-hidden-magic-town.json](./190008-hidden-magic-town.json) |
+| Hidden Magical Creatures | 378221 | [378221-hidden-magical-creatures.json](./378221-hidden-magical-creatures.json) |
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
 | Hidden Mars | 234536 | [234536-hidden-mars.json](./234536-hidden-mars.json) |
 | Hidden Memories | 345564 | [345564-hidden-memories.json](./345564-hidden-memories.json) |
