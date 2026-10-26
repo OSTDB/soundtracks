@@ -4989,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie & Lola: My Little Town | 90085 | [90085-charlie-and-lola-my-little-town.json](./90085-charlie-and-lola-my-little-town.json) |
 | Charlie and the Chocolate Factory | 22449 | [22449-charlie-and-the-chocolate-factory.json](./22449-charlie-and-the-chocolate-factory.json) |
 | Charlie and the Chocolate Factory | 243187 | [243187-charlie-and-the-chocolate-factory.json](./243187-charlie-and-the-chocolate-factory.json) |
+| Charlie and the Chocolate Factory | 376521 | [376521-charlie-and-the-chocolate-factory.json](./376521-charlie-and-the-chocolate-factory.json) |
 | Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
 | Charlie Blasts Territory | 10665 | [10665-charlie-blasts-territory.json](./10665-charlie-blasts-territory.json) |
 | Charlie Brown's ABC's | 39366 | [39366-charlie-browns-abcs.json](./39366-charlie-browns-abcs.json) |
@@ -12028,6 +12029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corenoid: Let's Build Steel Maidens | 82623 | [82623-corenoid-lets-build-steel-maidens.json](./82623-corenoid-lets-build-steel-maidens.json) |
 | CorePiercer | 159716 | [159716-corepiercer.json](./159716-corepiercer.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
+| CoreRunner | 376507 | [376507-corerunner.json](./376507-corerunner.json) |
 | Corestory | 398551 | [398551-corestory.json](./398551-corestory.json) |
 | CoreTechs Tactics | 79112 | [79112-coretechs-tactics.json](./79112-coretechs-tactics.json) |
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
@@ -13096,6 +13098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crack Life | 221666 | [221666-crack-life.json](./221666-crack-life.json) |
 | Crack Mountain | 398319 | [398319-crack-mountain.json](./398319-crack-mountain.json) |
 | Crack the Pack | 411003 | [411003-crack-the-pack.json](./411003-crack-the-pack.json) |
+| Crack Trick! | 376497 | [376497-crack-trick.json](./376497-crack-trick.json) |
 | Crack-Up | 13528 | [13528-crack-up.json](./13528-crack-up.json) |
 | Crack'ed | 11298 | [11298-cracked.json](./11298-cracked.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
