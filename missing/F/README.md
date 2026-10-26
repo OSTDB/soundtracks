@@ -10295,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvale | 113600 | [113600-frogvale.json](./113600-frogvale.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
+| Frogward | 367900 | [367900-frogward.json](./367900-frogward.json) |
 | Frogworld | 167608 | [167608-frogworld.json](./167608-frogworld.json) |
 | Frogy World | 219463 | [219463-frogy-world.json](./219463-frogy-world.json) |
 | Frogz | 329159 | [329159-frogz.json](./329159-frogz.json) |
@@ -10530,6 +10531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostage | 114117 | [114117-frostage.json](./114117-frostage.json) |
 | Frostbite | 364042 | [364042-frostbite.json](./364042-frostbite.json) |
 | FrostBite | 381039 | [381039-frostbite.json](./381039-frostbite.json) |
+| Frostbite Frenzy | 367922 | [367922-frostbite-frenzy.json](./367922-frostbite-frenzy.json) |
 | Frostbite Frenzy: Flower Hat | 380228 | [380228-frostbite-frenzy-flower-hat.json](./380228-frostbite-frenzy-flower-hat.json) |
 | Frostbite Friends | 316179 | [316179-frostbite-friends.json](./316179-frostbite-friends.json) |
 | Frostbite: Deadly Climate | 105360 | [105360-frostbite-deadly-climate.json](./105360-frostbite-deadly-climate.json) |
