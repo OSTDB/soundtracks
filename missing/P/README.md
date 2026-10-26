@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Bride 7: Lethal Bond | 383172 | [383172-paper-bride-7-lethal-bond.json](./383172-paper-bride-7-lethal-bond.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
+| Paper Cannon | 362775 | [362775-paper-cannon.json](./362775-paper-cannon.json) |
 | Paper Castle | 379945 | [379945-paper-castle.json](./379945-paper-castle.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Chaser's | 247432 | [247432-paper-chasers.json](./247432-paper-chasers.json) |
@@ -8121,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayDaPon | 226787 | [226787-playdapon.json](./226787-playdapon.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
 | Playdate Season 1 | 398519 | [398519-playdate-season-1.json](./398519-playdate-season-1.json) |
+| Playdate Season 2 | 362805 | [362805-playdate-season-2.json](./362805-playdate-season-2.json) |
 | Playdate Season 3 | 398535 | [398535-playdate-season-3.json](./398535-playdate-season-3.json) |
 | PlayDice | 212686 | [212686-playdice.json](./212686-playdice.json) |
 | Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
@@ -8288,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
 | Please, Spin | 403337 | [403337-please-spin.json](./403337-please-spin.json) |
+| Please, Stay Away | 362864 | [362864-please-stay-away.json](./362864-please-stay-away.json) |
 | Please, Touch the Artwork | 148945 | [148945-please-touch-the-artwork.json](./148945-please-touch-the-artwork.json) |
 | Please, Visit Grandma | 138545 | [138545-please-visit-grandma.json](./138545-please-visit-grandma.json) |
 | Please! Please Confess First | 385899 | [385899-please-please-confess-first.json](./385899-please-please-confess-first.json) |
@@ -12025,6 +12028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Arabian Nights | 143442 | [143442-prince-of-persia-arabian-nights.json](./143442-prince-of-persia-arabian-nights.json) |
 | Prince of Persia: Epilogue | 142472 | [142472-prince-of-persia-epilogue.json](./142472-prince-of-persia-epilogue.json) |
 | Prince of Persia: Escape | 320136 | [320136-prince-of-persia-escape.json](./320136-prince-of-persia-escape.json) |
+| Prince of Persia: Escape 2 | 362773 | [362773-prince-of-persia-escape-2.json](./362773-prince-of-persia-escape-2.json) |
 | Prince of Persia: Evolution | 214715 | [214715-prince-of-persia-evolution.json](./214715-prince-of-persia-evolution.json) |
 | Prince of Persia: Harem Adventures | 212850 | [212850-prince-of-persia-harem-adventures.json](./212850-prince-of-persia-harem-adventures.json) |
 | Prince of Persia: Limited Edition | 45292 | [45292-prince-of-persia-limited-edition.json](./45292-prince-of-persia-limited-edition.json) |
@@ -12805,6 +12809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Lupo and his Horrible Pets | 76032 | [76032-professor-lupo-and-his-horrible-pets.json](./76032-professor-lupo-and-his-horrible-pets.json) |
 | Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
+| Professor Pemda's Puzzle Pyramid | 362794 | [362794-professor-pemdas-puzzle-pyramid.json](./362794-professor-pemdas-puzzle-pyramid.json) |
 | Professor Rubik's Brain Fitness | 139058 | [139058-professor-rubiks-brain-fitness.json](./139058-professor-rubiks-brain-fitness.json) |
 | Professor Simulator | 373873 | [373873-professor-simulator.json](./373873-professor-simulator.json) |
 | Professor Watts Memory Match: Cats | 109400 | [109400-professor-watts-memory-match-cats.json](./109400-professor-watts-memory-match-cats.json) |
