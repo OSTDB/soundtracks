@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
 | 8AM: The Graveyard | 377399 | [377399-8am-the-graveyard.json](./377399-8am-the-graveyard.json) |
+| 8AM: The Office | 371858 | [371858-8am-the-office.json](./371858-8am-the-office.json) |
 | 8AM: The Shopping Mall | 377398 | [377398-8am-the-shopping-mall.json](./377398-8am-the-shopping-mall.json) |
 | 8AM: The Subway | 377397 | [377397-8am-the-subway.json](./377397-8am-the-subway.json) |
 | 8AM: The Swimming Pool | 377396 | [377396-8am-the-swimming-pool.json](./377396-8am-the-swimming-pool.json) |
