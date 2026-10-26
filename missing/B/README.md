@@ -533,6 +533,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Extractions | 342580 | [342580-backrooms-extractions.json](./342580-backrooms-extractions.json) |
 | Backrooms: Fade | 409742 | [409742-backrooms-fade.json](./409742-backrooms-fade.json) |
 | Backrooms: Final Exam | 350290 | [350290-backrooms-final-exam.json](./350290-backrooms-final-exam.json) |
+| Backrooms: Final Exam Part II | 349246 | [349246-backrooms-final-exam-part-ii.json](./349246-backrooms-final-exam-part-ii.json) |
+| Backrooms: Flicker | 349244 | [349244-backrooms-flicker.json](./349244-backrooms-flicker.json) |
+| Backrooms: Forgotten Floors | 349242 | [349242-backrooms-forgotten-floors.json](./349242-backrooms-forgotten-floors.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Glitchfield | 407807 | [407807-backrooms-glitchfield.json](./407807-backrooms-glitchfield.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
@@ -551,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: No Escape | 389726 | [389726-backrooms-no-escape.json](./389726-backrooms-no-escape.json) |
 | Backrooms: No Return | 236777 | [236777-backrooms-no-return.json](./236777-backrooms-no-return.json) |
 | Backrooms: No Way Out | 394802 | [394802-backrooms-no-way-out.json](./394802-backrooms-no-way-out.json) |
+| Backrooms: Noise | 349245 | [349245-backrooms-noise.json](./349245-backrooms-noise.json) |
 | Backrooms: One | 406835 | [406835-backrooms-one.json](./406835-backrooms-one.json) |
 | Backrooms: Partygoers | 320451 | [320451-backrooms-partygoers.json](./320451-backrooms-partygoers.json) |
 | Backrooms: Perpetual | 205072 | [205072-backrooms-perpetual.json](./205072-backrooms-perpetual.json) |
@@ -559,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Realm of Shadows | 247513 | [247513-backrooms-realm-of-shadows.json](./247513-backrooms-realm-of-shadows.json) |
 | Backrooms: Realm of Shadows - Full Version | 283972 | [283972-backrooms-realm-of-shadows-full-version.json](./283972-backrooms-realm-of-shadows-full-version.json) |
 | Backrooms: Rebirth | 290916 | [290916-backrooms-rebirth.json](./290916-backrooms-rebirth.json) |
+| Backrooms: Recode | 349243 | [349243-backrooms-recode.json](./349243-backrooms-recode.json) |
 | Backrooms: Reminiscence | 366831 | [366831-backrooms-reminiscence.json](./366831-backrooms-reminiscence.json) |
 | Backrooms: Run For Your Life! | 263997 | [263997-backrooms-run-for-your-life.json](./263997-backrooms-run-for-your-life.json) |
 | Backrooms: Splatter | 410300 | [410300-backrooms-splatter.json](./410300-backrooms-splatter.json) |
@@ -571,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: The Others | 366337 | [366337-backrooms-the-others.json](./366337-backrooms-the-others.json) |
 | Backrooms: The Phobolore | 265538 | [265538-backrooms-the-phobolore.json](./265538-backrooms-the-phobolore.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
+| Backrooms: The Scream | 349240 | [349240-backrooms-the-scream.json](./349240-backrooms-the-scream.json) |
 | Backrooms: The Silence | 339449 | [339449-backrooms-the-silence.json](./339449-backrooms-the-silence.json) |
 | Backrooms: The True Level | 407809 | [407809-backrooms-the-true-level.json](./407809-backrooms-the-true-level.json) |
 | Backrooms: The Twisted One | 399294 | [399294-backrooms-the-twisted-one.json](./399294-backrooms-the-twisted-one.json) |
@@ -3367,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Run | 330303 | [330303-battle-run.json](./330303-battle-run.json) |
 | Battle Runner | 75919 | [75919-battle-runner.json](./75919-battle-runner.json) |
 | Battle Rush: Build Up Robot Tournament | 48520 | [48520-battle-rush-build-up-robot-tournament.json](./48520-battle-rush-build-up-robot-tournament.json) |
+| Battle Sablemon! | 349223 | [349223-battle-sablemon.json](./349223-battle-sablemon.json) |
 | Battle Sad Boy | 157480 | [157480-battle-sad-boy.json](./157480-battle-sad-boy.json) |
 | Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
 | Battle Santa 64 | 281041 | [281041-battle-santa-64.json](./281041-battle-santa-64.json) |
