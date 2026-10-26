@@ -2326,7 +2326,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3280,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss: Psycho Circus - The Nightmare Child | 9096 | [9096-kiss-psycho-circus-the-nightmare-child.json](./9096-kiss-psycho-circus-the-nightmare-child.json) |
 | Kiss/Off | 189994 | [189994-kiss-off.json](./189994-kiss-off.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
+| Kissaten Dream | 385648 | [385648-kissaten-dream.json](./385648-kissaten-dream.json) |
 | Kissed by a Star | 349981 | [349981-kissed-by-a-star.json](./349981-kissed-by-a-star.json) |
 | Kissed by the Baddest Bidder | 125276 | [125276-kissed-by-the-baddest-bidder.json](./125276-kissed-by-the-baddest-bidder.json) |
 | Kissed by the Baddest Bidder: Drowning in your Kiss - Baba | 238343 | [238343-kissed-by-the-baddest-bidder-drowning-in-your-kiss-baba.json](./238343-kissed-by-the-baddest-bidder-drowning-in-your-kiss-baba.json) |
@@ -3437,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Dentist | 98787 | [98787-kitty-dentist.json](./98787-kitty-dentist.json) |
 | Kitty Disastrous | 59761 | [59761-kitty-disastrous.json](./59761-kitty-disastrous.json) |
 | Kitty Farm Island | 409536 | [409536-kitty-farm-island.json](./409536-kitty-farm-island.json) |
+| Kitty Finder | 385616 | [385616-kitty-finder.json](./385616-kitty-finder.json) |
 | Kitty Found a Camera | 407812 | [407812-kitty-found-a-camera.json](./407812-kitty-found-a-camera.json) |
 | Kitty Hates Water | 105900 | [105900-kitty-hates-water.json](./105900-kitty-hates-water.json) |
 | Kitty Haven | 385350 | [385350-kitty-haven.json](./385350-kitty-haven.json) |
@@ -4750,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KrankShot! | 353789 | [353789-krankshot.json](./353789-krankshot.json) |
 | krAsAvA Shot | 116831 | [116831-krasava-shot.json](./116831-krasava-shot.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
+| Krasnaya Factory | 385670 | [385670-krasnaya-factory.json](./385670-krasnaya-factory.json) |
 | Krastorio 2 | 375568 | [375568-krastorio-2.json](./375568-krastorio-2.json) |
 | Krater: Shadows over Solside | 2020 | [2020-krater-shadows-over-solside.json](./2020-krater-shadows-over-solside.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
