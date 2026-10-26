@@ -4605,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chambara | 21933 | [21933-chambara.json](./21933-chambara.json) |
 | Chamber | 182693 | [182693-chamber.json](./182693-chamber.json) |
+| Chamber no. 5 | 367380 | [367380-chamber-no-5.json](./367380-chamber-no-5.json) |
 | Chamber of Darkness | 96853 | [96853-chamber-of-darkness.json](./96853-chamber-of-darkness.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
 | Chamber of the Greblicks | 177759 | [177759-chamber-of-the-greblicks.json](./177759-chamber-of-the-greblicks.json) |
@@ -6699,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Slots: Casino Game | 369341 | [369341-christmas-slots-casino-game.json](./369341-christmas-slots-casino-game.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
 | Christmas Solitaire | 175578 | [175578-christmas-solitaire.json](./175578-christmas-solitaire.json) |
+| Christmas Sort Puzzle | 367372 | [367372-christmas-sort-puzzle.json](./367372-christmas-sort-puzzle.json) |
 | Christmas Soul | 372805 | [372805-christmas-soul.json](./372805-christmas-soul.json) |
 | Christmas Store: Santa's Supermarket Simulator | 326468 | [326468-christmas-store-santas-supermarket-simulator.json](./326468-christmas-store-santas-supermarket-simulator.json) |
 | Christmas Stories: A Christmas Carol | 139768 | [139768-christmas-stories-a-christmas-carol.json](./139768-christmas-stories-a-christmas-carol.json) |
@@ -8122,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
 | Classic Sonic 3D Adventure | 324961 | [324961-classic-sonic-3d-adventure.json](./324961-classic-sonic-3d-adventure.json) |
 | Classic Sonic Bundle | 276083 | [276083-classic-sonic-bundle.json](./276083-classic-sonic-bundle.json) |
+| Classic Space Adventure | 367357 | [367357-classic-space-adventure.json](./367357-classic-space-adventure.json) |
 | Classic Sport Driving | 142575 | [142575-classic-sport-driving.json](./142575-classic-sport-driving.json) |
 | Classic Start of International Students | 359541 | [359541-classic-start-of-international-students.json](./359541-classic-start-of-international-students.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
@@ -9804,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Bump 3D | 305840 | [305840-color-bump-3d.json](./305840-color-bump-3d.json) |
 | Color by Number - Modern Art | 102240 | [102240-color-by-number-modern-art.json](./102240-color-by-number-modern-art.json) |
 | Color by Number - Puzzle | 89755 | [89755-color-by-number-puzzle.json](./89755-color-by-number-puzzle.json) |
+| Color by Number: Medieval Portrait | 367346 | [367346-color-by-number-medieval-portrait.json](./367346-color-by-number-medieval-portrait.json) |
 | Color by Number: New Coloring Book | 105504 | [105504-color-by-number-new-coloring-book.json](./105504-color-by-number-new-coloring-book.json) |
 | Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
 | Color by Numbers - Animals + | 86696 | [86696-color-by-numbers-animals.json](./86696-color-by-numbers-animals.json) |
