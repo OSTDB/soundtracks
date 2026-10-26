@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Adventure | 294808 | [294808-one-last-adventure.json](./294808-one-last-adventure.json) |
 | One Last Box | 408015 | [408015-one-last-box.json](./408015-one-last-box.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
+| One Last Clip | 347599 | [347599-one-last-clip.json](./347599-one-last-clip.json) |
 | One Last Crane | 95330 | [95330-one-last-crane.json](./95330-one-last-crane.json) |
 | One Last Dinner | 295605 | [295605-one-last-dinner.json](./295605-one-last-dinner.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
