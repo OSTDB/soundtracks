@@ -3076,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -8166,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anguna: Scourge of the Goblin King | 148392 | [148392-anguna-scourge-of-the-goblin-king.json](./148392-anguna-scourge-of-the-goblin-king.json) |
 | Anguna: Warriors of Virtue | 49509 | [49509-anguna-warriors-of-virtue.json](./49509-anguna-warriors-of-virtue.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
+| Angvik : Returns | 367903 | [367903-angvik-returns.json](./367903-angvik-returns.json) |
 | Angy | 211077 | [211077-angy.json](./211077-angy.json) |
 | Anhedonia: Sanctuary of Ash | 408915 | [408915-anhedonia-sanctuary-of-ash.json](./408915-anhedonia-sanctuary-of-ash.json) |
 | Ani | 312988 | [312988-ani.json](./312988-ani.json) |
@@ -11174,6 +11176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
 | Arena Master | 30802 | [30802-arena-master.json](./30802-arena-master.json) |
 | Arena Masters: Legend Begins | 77587 | [77587-arena-masters-legend-begins.json](./77587-arena-masters-legend-begins.json) |
+| Arena Monarchy | 367917 | [367917-arena-monarchy.json](./367917-arena-monarchy.json) |
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
 | Arena of Faith | 277259 | [277259-arena-of-faith.json](./277259-arena-of-faith.json) |
@@ -12548,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
 | Asleep: Act 2 | 307255 | [307255-asleep-act-2.json](./307255-asleep-act-2.json) |
 | Aslimelate | 344973 | [344973-aslimelate.json](./344973-aslimelate.json) |
+| Aslo | 367916 | [367916-aslo.json](./367916-aslo.json) |
 | AsMagnet | 173208 | [173208-asmagnet.json](./173208-asmagnet.json) |
 | Asmik-kun Land | 48616 | [48616-asmik-kun-land.json](./48616-asmik-kun-land.json) |
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
