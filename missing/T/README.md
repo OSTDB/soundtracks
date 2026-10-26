@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
 | Terra: Battle for the Outland | 145949 | [145949-terra-battle-for-the-outland.json](./145949-terra-battle-for-the-outland.json) |
 | Terra: Destino Final | 250212 | [250212-terra-destino-final.json](./250212-terra-destino-final.json) |
+| Terra7 | 335180 | [335180-terra7.json](./335180-terra7.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
@@ -6016,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Catacombs | 231801 | [231801-the-catacombs.json](./231801-the-catacombs.json) |
 | The Catacombs of Solaris Revisited | 142873 | [142873-the-catacombs-of-solaris-revisited.json](./142873-the-catacombs-of-solaris-revisited.json) |
 | The Catalyst Acolyte Tower Defense | 311150 | [311150-the-catalyst-acolyte-tower-defense.json](./311150-the-catalyst-acolyte-tower-defense.json) |
+| The Catastrophe | 335210 | [335210-the-catastrophe.json](./335210-the-catastrophe.json) |
 | The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
 | The Catch: Carp & Coarse - Deluxe Edition | 233014 | [233014-the-catch-carp-and-coarse-deluxe-edition.json](./233014-the-catch-carp-and-coarse-deluxe-edition.json) |
 | The Catch: Carp & Coarse Fishing - Jezioro Bestii | 170326 | [170326-the-catch-carp-and-coarse-fishing-jezioro-bestii.json](./170326-the-catch-carp-and-coarse-fishing-jezioro-bestii.json) |
@@ -16566,6 +16568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There is No GreenDam | 126532 | [126532-there-is-no-greendam.json](./126532-there-is-no-greendam.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
 | There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
+| There Is No Lore | 335201 | [335201-there-is-no-lore.json](./335201-there-is-no-lore.json) |
 | There Is No Next Stop | 391879 | [391879-there-is-no-next-stop.json](./391879-there-is-no-next-stop.json) |
 | There is No Pause Button! | 69374 | [69374-there-is-no-pause-button.json](./69374-there-is-no-pause-button.json) |
 | There is No Plan B | 298390 | [298390-there-is-no-plan-b.json](./298390-there-is-no-plan-b.json) |
@@ -19902,6 +19905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Sea Adventure | 58557 | [58557-tiny-sea-adventure.json](./58557-tiny-sea-adventure.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
 | Tiny Sheep: Pet Sim on a Farm | 232342 | [232342-tiny-sheep-pet-sim-on-a-farm.json](./232342-tiny-sheep-pet-sim-on-a-farm.json) |
+| Tiny Sheriff | 335217 | [335217-tiny-sheriff.json](./335217-tiny-sheriff.json) |
 | Tiny Shooters | 338961 | [338961-tiny-shooters.json](./338961-tiny-shooters.json) |
 | Tiny Shop | 297576 | [297576-tiny-shop.json](./297576-tiny-shop.json) |
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
