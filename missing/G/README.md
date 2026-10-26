@@ -9131,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfighter II: Revenge of Jesse James | 43531 | [43531-gunfighter-ii-revenge-of-jesse-james.json](./43531-gunfighter-ii-revenge-of-jesse-james.json) |
 | Gunfighter/Moonship Battle | 91818 | [91818-gunfighter-moonship-battle.json](./91818-gunfighter-moonship-battle.json) |
 | Gunfighters | 177263 | [177263-gunfighters.json](./177263-gunfighters.json) |
+| Gunfinger | 344296 | [344296-gunfinger.json](./344296-gunfinger.json) |
 | Gunfire Reborn | 134483 | [134483-gunfire-reborn.json](./134483-gunfire-reborn.json) |
 | Gunfire Reborn: Artisan and Magician | 270764 | [270764-gunfire-reborn-artisan-and-magician.json](./270764-gunfire-reborn-artisan-and-magician.json) |
 | Gunfire Reborn: Realm of Frost and Inkwash | 316833 | [316833-gunfire-reborn-realm-of-frost-and-inkwash.json](./316833-gunfire-reborn-realm-of-frost-and-inkwash.json) |
