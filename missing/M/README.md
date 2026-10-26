@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Fest: Winterland | 113163 | [113163-mahjong-fest-winterland.json](./113163-mahjong-fest-winterland.json) |
 | Mahjong Fight Club | 79689 | [79689-mahjong-fight-club.json](./79689-mahjong-fight-club.json) |
 | Mahjong Fight Club SP | 212649 | [212649-mahjong-fight-club-sp.json](./212649-mahjong-fight-club-sp.json) |
+| Mahjong Fight Club Union | 373574 | [373574-mahjong-fight-club-union.json](./373574-mahjong-fight-club-union.json) |
 | Mahjong Fight Club Wii: Wi-Fi Taiou | 125914 | [125914-mahjong-fight-club-wii-wi-fi-taiou.json](./125914-mahjong-fight-club-wii-wi-fi-taiou.json) |
 | Mahjong Fight Club: Shinsei Zenkoku Taisen-ban | 79829 | [79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json](./79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json) |
 | Mahjong Fight Club: Zenkoku Taisenban | 76144 | [76144-mahjong-fight-club-zenkoku-taisenban.json](./76144-mahjong-fight-club-zenkoku-taisenban.json) |
@@ -7601,6 +7602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowoof | 207854 | [207854-meowoof.json](./207854-meowoof.json) |
 | Meowphoria | 287205 | [287205-meowphoria.json](./287205-meowphoria.json) |
 | Meowpire | 416570 | [416570-meowpire.json](./416570-meowpire.json) |
+| MeowPower! Yachiyo | 373500 | [373500-meowpower-yachiyo.json](./373500-meowpower-yachiyo.json) |
 | MeowSon | 391095 | [391095-meowson.json](./391095-meowson.json) |
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
