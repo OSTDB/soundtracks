@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Paper: Unfolded Melody | 300441 | [300441-a-tale-of-paper-unfolded-melody.json](./300441-a-tale-of-paper-unfolded-melody.json) |
 | A Tale of Pirates: A Dummy Mutiny | 101306 | [101306-a-tale-of-pirates-a-dummy-mutiny.json](./101306-a-tale-of-pirates-a-dummy-mutiny.json) |
 | A Tale of Sand and Bone | 303898 | [303898-a-tale-of-sand-and-bone.json](./303898-a-tale-of-sand-and-bone.json) |
+| A Tale of Shadows Fragments | 374066 | [374066-a-tale-of-shadows-fragments.json](./374066-a-tale-of-shadows-fragments.json) |
 | A Tale of Silent Depths | 292631 | [292631-a-tale-of-silent-depths.json](./292631-a-tale-of-silent-depths.json) |
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
 | A Tale of Synapse: The Chaos Theories | 146823 | [146823-a-tale-of-synapse-the-chaos-theories.json](./146823-a-tale-of-synapse-the-chaos-theories.json) |
@@ -3952,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent of Veil | 346595 | [346595-agent-of-veil.json](./346595-agent-of-veil.json) |
 | Agent P Strikes Back | 354954 | [354954-agent-p-strikes-back.json](./354954-agent-p-strikes-back.json) |
 | Agent P: Rebel Spy | 143328 | [143328-agent-p-rebel-spy.json](./143328-agent-p-rebel-spy.json) |
+| Agent Pigeon 7 | 374042 | [374042-agent-pigeon-7.json](./374042-agent-pigeon-7.json) |
 | Agent Pyxel | 182080 | [182080-agent-pyxel.json](./182080-agent-pyxel.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
 | Agent Roswell | 124176 | [124176-agent-roswell.json](./124176-agent-roswell.json) |
@@ -12848,6 +12850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa EVO | 266155 | [266155-assetto-corsa-evo.json](./266155-assetto-corsa-evo.json) |
 | Assetto Corsa Evoluzione | 400702 | [400702-assetto-corsa-evoluzione.json](./400702-assetto-corsa-evoluzione.json) |
 | Assetto Corsa Mobile | 174267 | [174267-assetto-corsa-mobile.json](./174267-assetto-corsa-mobile.json) |
+| Assetto Corsa Rally | 374104 | [374104-assetto-corsa-rally.json](./374104-assetto-corsa-rally.json) |
 | Assetto Corsa: Dream Pack 1 | 168900 | [168900-assetto-corsa-dream-pack-1.json](./168900-assetto-corsa-dream-pack-1.json) |
 | Assetto Corsa: Dream Pack 2 | 168899 | [168899-assetto-corsa-dream-pack-2.json](./168899-assetto-corsa-dream-pack-2.json) |
 | Assetto Corsa: Dream Pack 3 | 168901 | [168901-assetto-corsa-dream-pack-3.json](./168901-assetto-corsa-dream-pack-3.json) |
