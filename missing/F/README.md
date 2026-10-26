@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidget Spinner RPG | 199784 | [199784-fidget-spinner-rpg.json](./199784-fidget-spinner-rpg.json) |
 | Fidget Spinner Simulator | 51415 | [51415-fidget-spinner-simulator.json](./51415-fidget-spinner-simulator.json) |
 | Fidget Town | 220247 | [220247-fidget-town.json](./220247-fidget-town.json) |
+| Fidget Widget | 373057 | [373057-fidget-widget.json](./373057-fidget-widget.json) |
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
 | Fido | 352330 | [352330-fido.json](./352330-fido.json) |
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
@@ -5581,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
 | Fishing Superstars 2 | 109548 | [109548-fishing-superstars-2.json](./109548-fishing-superstars-2.json) |
 | Fishing Tale | 309555 | [309555-fishing-tale.json](./309555-fishing-tale.json) |
+| Fishing Tales: Neko's Journey | 373053 | [373053-fishing-tales-nekos-journey.json](./373053-fishing-tales-nekos-journey.json) |
 | Fishing the Abyss | 333091 | [333091-fishing-the-abyss.json](./333091-fishing-the-abyss.json) |
 | Fishing the Deep | 267565 | [267565-fishing-the-deep.json](./267565-fishing-the-deep.json) |
 | Fishing Time | 364504 | [364504-fishing-time.json](./364504-fishing-time.json) |
@@ -8501,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortifend | 406873 | [406873-fortifend.json](./406873-fortifend.json) |
 | Fortification: tower defence | 141675 | [141675-fortification-tower-defence.json](./141675-fortification-tower-defence.json) |
 | Fortified | 18009 | [18009-fortified.json](./18009-fortified.json) |
+| Fortified Space | 372967 | [372967-fortified-space.json](./372967-fortified-space.json) |
 | Fortified Zone | 85637 | [85637-fortified-zone.json](./85637-fortified-zone.json) |
 | Fortify | 35030 | [35030-fortify.json](./35030-fortify.json) |
 | Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
@@ -9124,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
 | FPV Freerider Recharged | 90412 | [90412-fpv-freerider-recharged.json](./90412-fpv-freerider-recharged.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
+| FPV Kamikaze Drone Simulator | 372972 | [372972-fpv-kamikaze-drone-simulator.json](./372972-fpv-kamikaze-drone-simulator.json) |
 | FPV Logic | 255248 | [255248-fpv-logic.json](./255248-fpv-logic.json) |
 | FPV Military Kamikaze Drone Simulator | 312438 | [312438-fpv-military-kamikaze-drone-simulator.json](./312438-fpv-military-kamikaze-drone-simulator.json) |
 | FPV Simulator | 192407 | [192407-fpv-simulator.json](./192407-fpv-simulator.json) |
