@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Princess Iruruu | 330020 | [330020-false-princess-iruruu.json](./330020-false-princess-iruruu.json) |
 | False Shelter | 28785 | [28785-false-shelter.json](./28785-false-shelter.json) |
 | False Skies | 216635 | [216635-false-skies.json](./216635-false-skies.json) |
+| False Title | 347588 | [347588-false-title.json](./347588-false-title.json) |
 | False Vows, True Love: In a Night Full of Lies | 181646 | [181646-false-vows-true-love-in-a-night-full-of-lies.json](./181646-false-vows-true-love-in-a-night-full-of-lies.json) |
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
 | FalseGod's Gambit | 373007 | [373007-falsegods-gambit.json](./373007-falsegods-gambit.json) |
