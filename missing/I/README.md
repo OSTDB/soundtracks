@@ -5375,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isotower | 114217 | [114217-isotower.json](./114217-isotower.json) |
 | Isowords | 238397 | [238397-isowords.json](./238397-isowords.json) |
 | IsoWords | 254170 | [254170-isowords.json](./254170-isowords.json) |
+| Ispell | 357151 | [357151-ispell.json](./357151-ispell.json) |
 | ISpellWord Game | 175109 | [175109-ispellword-game.json](./175109-ispellword-game.json) |
 | Ispherical | 245178 | [245178-ispherical.json](./245178-ispherical.json) |
 | iSpot Japan | 85197 | [85197-ispot-japan.json](./85197-ispot-japan.json) |
