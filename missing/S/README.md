@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn Quest: Blast Effect | 142188 | [142188-saturn-quest-blast-effect.json](./142188-saturn-quest-blast-effect.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
+| Saturn Quest: The Loneliness Of Captain Navigator | 361109 | [361109-saturn-quest-the-loneliness-of-captain-navigator.json](./361109-saturn-quest-the-loneliness-of-captain-navigator.json) |
 | Saturn Slalom | 413157 | [413157-saturn-slalom.json](./413157-saturn-slalom.json) |
 | Saturn V | 148403 | [148403-saturn-v.json](./148403-saturn-v.json) |
 | Saturn Valley Online | 323764 | [323764-saturn-valley-online.json](./323764-saturn-valley-online.json) |
@@ -13129,6 +13130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
 | Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
+| Soccer Challenge | 361111 | [361111-soccer-challenge.json](./361111-soccer-challenge.json) |
 | Soccer Championship | 108468 | [108468-soccer-championship.json](./108468-soccer-championship.json) |
 | Soccer Clicker | 257874 | [257874-soccer-clicker.json](./257874-soccer-clicker.json) |
 | Soccer Club Life Playing Manager | 141514 | [141514-soccer-club-life-playing-manager.json](./141514-soccer-club-life-playing-manager.json) |
@@ -19645,6 +19647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staffer Reborn | 297002 | [297002-staffer-reborn.json](./297002-staffer-reborn.json) |
 | Stagdraft | 221105 | [221105-stagdraft.json](./221105-stagdraft.json) |
 | Stage 3: Azaria | 90434 | [90434-stage-3-azaria.json](./90434-stage-3-azaria.json) |
+| Stage 333 | 361105 | [361105-stage-333.json](./361105-stage-333.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
 | Stage Fright | 81853 | [81853-stage-fright.json](./81853-stage-fright.json) |
 | Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
