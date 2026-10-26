@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T21:05:33.684Z",
-  "total_missing": 266875,
+  "generated_at": "2026-10-26T21:18:32.259Z",
+  "total_missing": 266925,
   "games": [
     {
       "igdb_id": 191680,
@@ -34805,6 +34805,11 @@
       "igdb_id": 346595,
       "game_name": "Agent of Veil",
       "file": "missing/A/346595-agent-of-veil.json"
+    },
+    {
+      "igdb_id": 339491,
+      "game_name": "Agent P DoofenDash",
+      "file": "missing/A/339491-agent-p-doofendash.json"
     },
     {
       "igdb_id": 354954,
@@ -239757,6 +239762,11 @@
       "file": "missing/C/273960-crazy-people.json"
     },
     {
+      "igdb_id": 339487,
+      "game_name": "Crazy Pierrot",
+      "file": "missing/C/339487-crazy-pierrot.json"
+    },
+    {
       "igdb_id": 250193,
       "game_name": "Crazy Pingoin",
       "file": "missing/C/250193-crazy-pingoin.json"
@@ -275347,6 +275357,11 @@
       "file": "missing/D/130677-death-carnival.json"
     },
     {
+      "igdb_id": 339495,
+      "game_name": "Death Circus",
+      "file": "missing/D/339495-death-circus.json"
+    },
+    {
       "igdb_id": 332981,
       "game_name": "Death Climbing",
       "file": "missing/D/332981-death-climbing.json"
@@ -276665,6 +276680,11 @@
       "igdb_id": 127103,
       "game_name": "Deathbloom: Chapter 2",
       "file": "missing/D/127103-deathbloom-chapter-2.json"
+    },
+    {
+      "igdb_id": 339494,
+      "game_name": "Deathblossom",
+      "file": "missing/D/339494-deathblossom.json"
     },
     {
       "igdb_id": 65256,
@@ -305110,6 +305130,11 @@
       "igdb_id": 254300,
       "game_name": "Doeo",
       "file": "missing/D/254300-doeo.json"
+    },
+    {
+      "igdb_id": 339485,
+      "game_name": "Doeoriki",
+      "file": "missing/D/339485-doeoriki.json"
     },
     {
       "igdb_id": 21953,
@@ -641437,6 +641462,11 @@
       "file": "missing/L/253919-lost-along-the-way.json"
     },
     {
+      "igdb_id": 339490,
+      "game_name": "Lost Altr",
+      "file": "missing/L/339490-lost-altr.json"
+    },
+    {
       "igdb_id": 116457,
       "game_name": "Lost Amulets",
       "file": "missing/L/116457-lost-amulets.json"
@@ -758372,6 +758402,21 @@
       "file": "missing/N/329030-new-meat.json"
     },
     {
+      "igdb_id": 339181,
+      "game_name": "New Nightmare Cafe",
+      "file": "missing/N/339181-new-nightmare-cafe.json"
+    },
+    {
+      "igdb_id": 339186,
+      "game_name": "New Nightmare Cafe 2",
+      "file": "missing/N/339186-new-nightmare-cafe-2.json"
+    },
+    {
+      "igdb_id": 339190,
+      "game_name": "New Nightmare Cafe 3",
+      "file": "missing/N/339190-new-nightmare-cafe-3.json"
+    },
+    {
       "igdb_id": 339222,
       "game_name": "New Nightmare Cafe 4",
       "file": "missing/N/339222-new-nightmare-cafe-4.json"
@@ -763710,6 +763755,26 @@
       "igdb_id": 339165,
       "game_name": "Nightmare Cafe II",
       "file": "missing/N/339165-nightmare-cafe-ii.json"
+    },
+    {
+      "igdb_id": 339179,
+      "game_name": "Nightmare Cafe IX",
+      "file": "missing/N/339179-nightmare-cafe-ix.json"
+    },
+    {
+      "igdb_id": 339177,
+      "game_name": "Nightmare Cafe VII",
+      "file": "missing/N/339177-nightmare-cafe-vii.json"
+    },
+    {
+      "igdb_id": 339178,
+      "game_name": "Nightmare Cafe VIII",
+      "file": "missing/N/339178-nightmare-cafe-viii.json"
+    },
+    {
+      "igdb_id": 339180,
+      "game_name": "Nightmare Cafe X",
+      "file": "missing/N/339180-nightmare-cafe-x.json"
     },
     {
       "igdb_id": 390137,
@@ -817670,6 +817735,11 @@
       "igdb_id": 388374,
       "game_name": "PDP 10 Timesharing Basketball",
       "file": "missing/P/388374-pdp-10-timesharing-basketball.json"
+    },
+    {
+      "igdb_id": 339176,
+      "game_name": "PdTour",
+      "file": "missing/P/339176-pdtour.json"
     },
     {
       "igdb_id": 17672,
@@ -877560,6 +877630,11 @@
       "igdb_id": 386517,
       "game_name": "Pushing it",
       "file": "missing/P/386517-pushing-it.json"
+    },
+    {
+      "igdb_id": 339175,
+      "game_name": "Pushing It! Together: Sisyphus Co-Op",
+      "file": "missing/P/339175-pushing-it-together-sisyphus-co-op.json"
     },
     {
       "igdb_id": 298033,
@@ -1039212,6 +1039287,11 @@
       "file": "missing/S/401188-sql-murder-mystery.json"
     },
     {
+      "igdb_id": 339493,
+      "game_name": "Sqorp",
+      "file": "missing/S/339493-sqorp.json"
+    },
+    {
       "igdb_id": 273259,
       "game_name": "SQP Run",
       "file": "missing/S/273259-sqp-run.json"
@@ -1085057,6 +1085137,11 @@
       "file": "missing/S/359745-surfs-up.json"
     },
     {
+      "igdb_id": 339492,
+      "game_name": "SurfsUp",
+      "file": "missing/S/339492-surfsup.json"
+    },
+    {
       "igdb_id": 268860,
       "game_name": "SurfTank",
       "file": "missing/S/268860-surftank.json"
@@ -1091095,6 +1091180,11 @@
       "igdb_id": 116170,
       "game_name": "Sword Defense",
       "file": "missing/S/116170-sword-defense.json"
+    },
+    {
+      "igdb_id": 339199,
+      "game_name": "Sword Dream",
+      "file": "missing/S/339199-sword-dream.json"
     },
     {
       "igdb_id": 263108,
@@ -1108447,6 +1108537,11 @@
       "file": "missing/T/226754-teddys-marbles.json"
     },
     {
+      "igdb_id": 339488,
+      "game_name": "Tedi şi Vehiculul Timpului",
+      "file": "missing/T/339488-tedi-si-vehiculul-timpului.json"
+    },
+    {
       "igdb_id": 231366,
       "game_name": "Tedram",
       "file": "missing/T/231366-tedram.json"
@@ -1122132,6 +1122227,11 @@
       "file": "missing/T/371875-the-black-knight.json"
     },
     {
+      "igdb_id": 339215,
+      "game_name": "The Black Knight Chronicles: The Widow without Time",
+      "file": "missing/T/339215-the-black-knight-chronicles-the-widow-without-time.json"
+    },
+    {
       "igdb_id": 274639,
       "game_name": "The Black Knight: Halloween",
       "file": "missing/T/274639-the-black-knight-halloween.json"
@@ -1123192,6 +1123292,11 @@
       "file": "missing/T/199298-the-break-in.json"
     },
     {
+      "igdb_id": 339214,
+      "game_name": "The BreakFive",
+      "file": "missing/T/339214-the-breakfive.json"
+    },
+    {
       "igdb_id": 59242,
       "game_name": "the Breath.",
       "file": "missing/T/59242-the-breath.json"
@@ -1123580,6 +1123685,11 @@
       "igdb_id": 180097,
       "game_name": "The Butterbies",
       "file": "missing/T/180097-the-butterbies.json"
+    },
+    {
+      "igdb_id": 339213,
+      "game_name": "The Butterfly Collector",
+      "file": "missing/T/339213-the-butterfly-collector.json"
     },
     {
       "igdb_id": 319021,
@@ -1126857,6 +1126967,11 @@
       "file": "missing/T/195999-the-crims.json"
     },
     {
+      "igdb_id": 339211,
+      "game_name": "The Crimson Call",
+      "file": "missing/T/339211-the-crimson-call.json"
+    },
+    {
       "igdb_id": 15532,
       "game_name": "The Crimson Crown",
       "file": "missing/T/15532-the-crimson-crown.json"
@@ -1127210,6 +1127325,11 @@
       "igdb_id": 31059,
       "game_name": "The Cube Hotel: Ning's Wing 2",
       "file": "missing/T/31059-the-cube-hotel-nings-wing-2.json"
+    },
+    {
+      "igdb_id": 339210,
+      "game_name": "The Cube of Love",
+      "file": "missing/T/339210-the-cube-of-love.json"
     },
     {
       "igdb_id": 366870,
@@ -1127597,6 +1127717,11 @@
       "file": "missing/T/398325-the-cursed-hotel.json"
     },
     {
+      "igdb_id": 339209,
+      "game_name": "The Cursed Hour",
+      "file": "missing/T/339209-the-cursed-hour.json"
+    },
+    {
       "igdb_id": 306093,
       "game_name": "The Cursed Land",
       "file": "missing/T/306093-the-cursed-land.json"
@@ -1127890,6 +1128015,11 @@
       "igdb_id": 211666,
       "game_name": "The Dancer: Definitive Edition",
       "file": "missing/T/211666-the-dancer-definitive-edition.json"
+    },
+    {
+      "igdb_id": 339208,
+      "game_name": "The Dangerous Back-to-School Season",
+      "file": "missing/T/339208-the-dangerous-back-to-school-season.json"
     },
     {
       "igdb_id": 153526,
@@ -1129212,6 +1129342,11 @@
       "file": "missing/T/152207-the-depraved-vampire-slut.json"
     },
     {
+      "igdb_id": 339207,
+      "game_name": "The Depths of Avalon",
+      "file": "missing/T/339207-the-depths-of-avalon.json"
+    },
+    {
       "igdb_id": 345133,
       "game_name": "The Depths of Depravity",
       "file": "missing/T/345133-the-depths-of-depravity.json"
@@ -1129365,6 +1129500,11 @@
       "igdb_id": 194434,
       "game_name": "The Devil & the Deep Blue Sea",
       "file": "missing/T/194434-the-devil-and-the-deep-blue-sea.json"
+    },
+    {
+      "igdb_id": 339206,
+      "game_name": "The Devil Ball",
+      "file": "missing/T/339206-the-devil-ball.json"
     },
     {
       "igdb_id": 349883,
@@ -1129942,6 +1130082,11 @@
       "file": "missing/T/284286-the-door.json"
     },
     {
+      "igdb_id": 339212,
+      "game_name": "The Door",
+      "file": "missing/T/339212-the-door.json"
+    },
+    {
       "igdb_id": 398321,
       "game_name": "The Door at the End of the Hall",
       "file": "missing/T/398321-the-door-at-the-end-of-the-hall.json"
@@ -1130000,6 +1130145,11 @@
       "igdb_id": 74136,
       "game_name": "The Doorbreaker",
       "file": "missing/T/74136-the-doorbreaker.json"
+    },
+    {
+      "igdb_id": 339205,
+      "game_name": "The Doors",
+      "file": "missing/T/339205-the-doors.json"
     },
     {
       "igdb_id": 386535,
@@ -1130130,6 +1130280,11 @@
       "igdb_id": 121010,
       "game_name": "The Dragons' Twilight II",
       "file": "missing/T/121010-the-dragons-twilight-ii.json"
+    },
+    {
+      "igdb_id": 339204,
+      "game_name": "The Dragons' Twilight III",
+      "file": "missing/T/339204-the-dragons-twilight-iii.json"
     },
     {
       "igdb_id": 306087,
@@ -1130355,6 +1130510,11 @@
       "igdb_id": 128220,
       "game_name": "The Dreams of Candlelight",
       "file": "missing/T/128220-the-dreams-of-candlelight.json"
+    },
+    {
+      "igdb_id": 339203,
+      "game_name": "The Dreamscape",
+      "file": "missing/T/339203-the-dreamscape.json"
     },
     {
       "igdb_id": 127221,
@@ -1132325,6 +1132485,11 @@
       "igdb_id": 414427,
       "game_name": "The Eternal Woods",
       "file": "missing/T/414427-the-eternal-woods.json"
+    },
+    {
+      "igdb_id": 339202,
+      "game_name": "The Ethereal Dream",
+      "file": "missing/T/339202-the-ethereal-dream.json"
     },
     {
       "igdb_id": 370315,
@@ -1135587,6 +1135752,11 @@
       "file": "missing/T/141660-the-fridge-is-red.json"
     },
     {
+      "igdb_id": 339201,
+      "game_name": "The Friendly Droppets",
+      "file": "missing/T/339201-the-friendly-droppets.json"
+    },
+    {
       "igdb_id": 98898,
       "game_name": "The friends of Ringo Ishikawa",
       "file": "missing/T/98898-the-friends-of-ringo-ishikawa.json"
@@ -1135815,6 +1135985,11 @@
       "igdb_id": 355174,
       "game_name": "The Future Is Loading...",
       "file": "missing/T/355174-the-future-is-loading.json"
+    },
+    {
+      "igdb_id": 339200,
+      "game_name": "The Future is Ours",
+      "file": "missing/T/339200-the-future-is-ours.json"
     },
     {
       "igdb_id": 190140,
@@ -1137380,6 +1137555,11 @@
       "igdb_id": 35847,
       "game_name": "The Grave Digger",
       "file": "missing/T/35847-the-grave-digger.json"
+    },
+    {
+      "igdb_id": 339198,
+      "game_name": "The Grave Keeper",
+      "file": "missing/T/339198-the-grave-keeper.json"
     },
     {
       "igdb_id": 189121,
@@ -1139682,6 +1139862,11 @@
       "file": "missing/T/255712-the-horror-within.json"
     },
     {
+      "igdb_id": 339197,
+      "game_name": "The Horrors at Castle Wülhein",
+      "file": "missing/T/339197-the-horrors-at-castle-wulhein.json"
+    },
+    {
       "igdb_id": 342276,
       "game_name": "The Horrors of the Soviet Apartment",
       "file": "missing/T/342276-the-horrors-of-the-soviet-apartment.json"
@@ -1140137,6 +1140322,11 @@
       "file": "missing/T/26415-the-human-race.json"
     },
     {
+      "igdb_id": 339196,
+      "game_name": "The Human Test / Restart",
+      "file": "missing/T/339196-the-human-test-restart.json"
+    },
+    {
       "igdb_id": 415318,
       "game_name": "The Humanity Check",
       "file": "missing/T/415318-the-humanity-check.json"
@@ -1140370,6 +1140560,11 @@
       "igdb_id": 51418,
       "game_name": "The Hunting God",
       "file": "missing/T/51418-the-hunting-god.json"
+    },
+    {
+      "igdb_id": 339195,
+      "game_name": "The Hunting!",
+      "file": "missing/T/339195-the-hunting.json"
     },
     {
       "igdb_id": 108934,
@@ -1144507,6 +1144702,11 @@
       "file": "missing/T/254025-the-last-breath.json"
     },
     {
+      "igdb_id": 339194,
+      "game_name": "The Last Bug",
+      "file": "missing/T/339194-the-last-bug.json"
+    },
+    {
       "igdb_id": 371339,
       "game_name": "The Last Bug",
       "file": "missing/T/371339-the-last-bug.json"
@@ -1144905,6 +1145105,11 @@
       "igdb_id": 291539,
       "game_name": "The Last Faith: The Nycrux Edition",
       "file": "missing/T/291539-the-last-faith-the-nycrux-edition.json"
+    },
+    {
+      "igdb_id": 339193,
+      "game_name": "The Last Farewell",
+      "file": "missing/T/339193-the-last-farewell.json"
     },
     {
       "igdb_id": 298118,
@@ -1147537,6 +1147742,11 @@
       "file": "missing/T/261721-the-legend-of-tiny-man.json"
     },
     {
+      "igdb_id": 339192,
+      "game_name": "The Legend of Tomoko",
+      "file": "missing/T/339192-the-legend-of-tomoko.json"
+    },
+    {
       "igdb_id": 54298,
       "game_name": "The Legend of Vraz",
       "file": "missing/T/54298-the-legend-of-vraz.json"
@@ -1148667,6 +1148877,11 @@
       "file": "missing/T/274430-the-library.json"
     },
     {
+      "igdb_id": 339191,
+      "game_name": "The Library",
+      "file": "missing/T/339191-the-library.json"
+    },
+    {
       "igdb_id": 121620,
       "game_name": "The Library of Babble",
       "file": "missing/T/121620-the-library-of-babble.json"
@@ -1148910,6 +1149125,11 @@
       "igdb_id": 348428,
       "game_name": "The Lighthouse Secrets",
       "file": "missing/T/348428-the-lighthouse-secrets.json"
+    },
+    {
+      "igdb_id": 339189,
+      "game_name": "The Lighting Ages",
+      "file": "missing/T/339189-the-lighting-ages.json"
     },
     {
       "igdb_id": 215737,
@@ -1150037,6 +1150257,11 @@
       "file": "missing/T/23723-the-lords-of-the-earth-flame.json"
     },
     {
+      "igdb_id": 339188,
+      "game_name": "The Losers Team",
+      "file": "missing/T/339188-the-losers-team.json"
+    },
+    {
       "igdb_id": 179652,
       "game_name": "The Loss Levels",
       "file": "missing/T/179652-the-loss-levels.json"
@@ -1150225,6 +1150450,11 @@
       "igdb_id": 144147,
       "game_name": "The Lost Cube",
       "file": "missing/T/144147-the-lost-cube.json"
+    },
+    {
+      "igdb_id": 339187,
+      "game_name": "The Lost Desert",
+      "file": "missing/T/339187-the-lost-desert.json"
     },
     {
       "igdb_id": 275342,
@@ -1150995,6 +1151225,11 @@
       "igdb_id": 271747,
       "game_name": "The Machinery",
       "file": "missing/T/271747-the-machinery.json"
+    },
+    {
+      "igdb_id": 339185,
+      "game_name": "The Mad Pantser",
+      "file": "missing/T/339185-the-mad-pantser.json"
     },
     {
       "igdb_id": 205274,
@@ -1153302,6 +1153537,11 @@
       "file": "missing/T/241849-the-most-lecherous.json"
     },
     {
+      "igdb_id": 339184,
+      "game_name": "The Most Perfect Revenge in the World",
+      "file": "missing/T/339184-the-most-perfect-revenge-in-the-world.json"
+    },
+    {
       "igdb_id": 280229,
       "game_name": "The Most Searched Playground",
       "file": "missing/T/280229-the-most-searched-playground.json"
@@ -1153630,6 +1153870,11 @@
       "igdb_id": 348961,
       "game_name": "The Museum",
       "file": "missing/T/348961-the-museum.json"
+    },
+    {
+      "igdb_id": 339183,
+      "game_name": "The Museum of Hauntology",
+      "file": "missing/T/339183-the-museum-of-hauntology.json"
     },
     {
       "igdb_id": 269050,
@@ -1154760,6 +1155005,11 @@
       "igdb_id": 275328,
       "game_name": "The Ninji Saga Part 1: Birth of a Legend",
       "file": "missing/T/275328-the-ninji-saga-part-1-birth-of-a-legend.json"
+    },
+    {
+      "igdb_id": 339182,
+      "game_name": "The Ninth Forset",
+      "file": "missing/T/339182-the-ninth-forset.json"
     },
     {
       "igdb_id": 161184,
