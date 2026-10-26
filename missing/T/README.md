@@ -9126,6 +9126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House on Ninth Avenue | 260625 | [260625-the-house-on-ninth-avenue.json](./260625-the-house-on-ninth-avenue.json) |
 | The House on the Hill | 387555 | [387555-the-house-on-the-hill.json](./387555-the-house-on-the-hill.json) |
 | The House Remembers | 372752 | [372752-the-house-remembers.json](./372752-the-house-remembers.json) |
+| The House Sitter's 5 Nights | 344270 | [344270-the-house-sitters-5-nights.json](./344270-the-house-sitters-5-nights.json) |
 | The House Swich Places | 180463 | [180463-the-house-swich-places.json](./180463-the-house-swich-places.json) |
 | The House That Dripped Blood | 203186 | [203186-the-house-that-dripped-blood.json](./203186-the-house-that-dripped-blood.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
@@ -14266,6 +14267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul of Too Birds Game | 270033 | [270033-the-soul-of-too-birds-game.json](./270033-the-soul-of-too-birds-game.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
 | The Soul Stone Escape | 315793 | [315793-the-soul-stone-escape.json](./315793-the-soul-stone-escape.json) |
+| The Soul Stone War 3 | 344280 | [344280-the-soul-stone-war-3.json](./344280-the-soul-stone-war-3.json) |
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
 | The Soulstream Expansive: Prelude | 418837 | [418837-the-soulstream-expansive-prelude.json](./418837-the-soulstream-expansive-prelude.json) |
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
@@ -19903,6 +19905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Troopers 2: Special Ops | 58546 | [58546-tiny-troopers-2-special-ops.json](./58546-tiny-troopers-2-special-ops.json) |
 | Tiny Troopers Joint Ops XL | 85443 | [85443-tiny-troopers-joint-ops-xl.json](./85443-tiny-troopers-joint-ops-xl.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
+| Tiny Troopers: Alliance | 344293 | [344293-tiny-troopers-alliance.json](./344293-tiny-troopers-alliance.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Bundle | 242677 | [242677-tiny-troopers-global-ops-digital-deluxe-bundle.json](./242677-tiny-troopers-global-ops-digital-deluxe-bundle.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
 | Tiny Troopers: Joint Ops | 21320 | [21320-tiny-troopers-joint-ops.json](./21320-tiny-troopers-joint-ops.json) |
@@ -24918,6 +24921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tralalero Tralala Backrooms Pools | 344244 | [344244-tralalero-tralala-backrooms-pools.json](./344244-tralalero-tralala-backrooms-pools.json) |
 | Tralalero Tralala Elephant Runner | 385069 | [385069-tralalero-tralala-elephant-runner.json](./385069-tralalero-tralala-elephant-runner.json) |
 | Tralalero Tralala Jumper | 347497 | [347497-tralalero-tralala-jumper.json](./347497-tralalero-tralala-jumper.json) |
+| Tralalero Tralala Simulator | 344276 | [344276-tralalero-tralala-simulator.json](./344276-tralalero-tralala-simulator.json) |
 | Tralalero Tralala Slot Machine Casino Heaven | 367848 | [367848-tralalero-tralala-slot-machine-casino-heaven.json](./367848-tralalero-tralala-slot-machine-casino-heaven.json) |
 | Tralalero Tralala Wars | 351099 | [351099-tralalero-tralala-wars.json](./351099-tralalero-tralala-wars.json) |
 | Tralalero Tralala: Backrooms | 392343 | [392343-tralalero-tralala-backrooms.json](./392343-tralalero-tralala-backrooms.json) |
@@ -27143,6 +27147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tung Tung Sahur: Obby Challenge | 384784 | [384784-tung-tung-sahur-obby-challenge.json](./384784-tung-tung-sahur-obby-challenge.json) |
 | Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
 | Tung Tung Tung Sahur Report | 356817 | [356817-tung-tung-tung-sahur-report.json](./356817-tung-tung-tung-sahur-report.json) |
+| Tung Tung Tung Sahur Runner | 344286 | [344286-tung-tung-tung-sahur-runner.json](./344286-tung-tung-tung-sahur-runner.json) |
 | Tungsten Orbital Destroyer | 180700 | [180700-tungsten-orbital-destroyer.json](./180700-tungsten-orbital-destroyer.json) |
 | Tungtung's Nightmare | 375934 | [375934-tungtungs-nightmare.json](./375934-tungtungs-nightmare.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
