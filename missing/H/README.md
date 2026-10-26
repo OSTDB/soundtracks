@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Chicks 2 | 149415 | [149415-hentai-chicks-2.json](./149415-hentai-chicks-2.json) |
 | Hentai Cho | 340428 | [340428-hentai-cho.json](./340428-hentai-cho.json) |
 | Hentai City | 301675 | [301675-hentai-city.json](./301675-hentai-city.json) |
+| Hentai Clara | 384583 | [384583-hentai-clara.json](./384583-hentai-clara.json) |
 | Hentai Class | 301673 | [301673-hentai-class.json](./301673-hentai-class.json) |
 | Hentai Cleopatra | 370009 | [370009-hentai-cleopatra.json](./370009-hentai-cleopatra.json) |
 | Hentai Clicker: Alerinna Is Streaming | 371383 | [371383-hentai-clicker-alerinna-is-streaming.json](./371383-hentai-clicker-alerinna-is-streaming.json) |
@@ -4097,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Furry | 286401 | [286401-hentai-furry.json](./286401-hentai-furry.json) |
 | Hentai Furry | 340434 | [340434-hentai-furry.json](./340434-hentai-furry.json) |
 | Hentai Furry Bunny | 347768 | [347768-hentai-furry-bunny.json](./347768-hentai-furry-bunny.json) |
+| Hentai Furry Cow | 384584 | [384584-hentai-furry-cow.json](./384584-hentai-furry-cow.json) |
 | Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
 | Hentai Furry Milf | 384701 | [384701-hentai-furry-milf.json](./384701-hentai-furry-milf.json) |
 | Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
@@ -4296,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
 | Hentai Milf Quiz 3 | 157897 | [157897-hentai-milf-quiz-3.json](./157897-hentai-milf-quiz-3.json) |
 | Hentai Milf Syndicate | 368076 | [368076-hentai-milf-syndicate.json](./368076-hentai-milf-syndicate.json) |
+| Hentai Milfs | 384595 | [384595-hentai-milfs.json](./384595-hentai-milfs.json) |
 | Hentai Military | 238434 | [238434-hentai-military.json](./238434-hentai-military.json) |
 | Hentai Minesweeper | 353207 | [353207-hentai-minesweeper.json](./353207-hentai-minesweeper.json) |
 | Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
@@ -4493,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tentacle Survivors | 366522 | [366522-hentai-tentacle-survivors.json](./366522-hentai-tentacle-survivors.json) |
 | Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
 | Hentai Time | 366523 | [366523-hentai-time.json](./366523-hentai-time.json) |
+| Hentai Travel | 384588 | [384588-hentai-travel.json](./384588-hentai-travel.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
 | Hentai University | 106586 | [106586-hentai-university.json](./106586-hentai-university.json) |
 | Hentai University 2: Biology course | 112455 | [112455-hentai-university-2-biology-course.json](./112455-hentai-university-2-biology-course.json) |
