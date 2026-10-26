@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Armor Zero | 244255 | [244255-machine-armor-zero.json](./244255-machine-armor-zero.json) |
 | Machine Cave | 141105 | [141105-machine-cave.json](./141105-machine-cave.json) |
 | Machine Challenger | 301254 | [301254-machine-challenger.json](./301254-machine-challenger.json) |
+| Machine Child | 365795 | [365795-machine-child.json](./365795-machine-child.json) |
 | Machine Craft: Scrap Survival | 361793 | [361793-machine-craft-scrap-survival.json](./361793-machine-craft-scrap-survival.json) |
 | Machine Crisis | 76711 | [76711-machine-crisis.json](./76711-machine-crisis.json) |
 | Machine Fable | 270037 | [270037-machine-fable.json](./270037-machine-fable.json) |
@@ -944,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Forest Escape 3 | 315665 | [315665-magic-forest-escape-3.json](./315665-magic-forest-escape-3.json) |
 | Magic Forest Escape 4 | 315666 | [315666-magic-forest-escape-4.json](./315666-magic-forest-escape-4.json) |
 | Magic Forest Escape 5 | 315668 | [315668-magic-forest-escape-5.json](./315668-magic-forest-escape-5.json) |
+| Magic Forge Tycoon | 365618 | [365618-magic-forge-tycoon.json](./365618-magic-forge-tycoon.json) |
 | Magic Frame | 147246 | [147246-magic-frame.json](./147246-magic-frame.json) |
 | Magic Frog | 367561 | [367561-magic-frog.json](./367561-magic-frog.json) |
 | Magic Fruit World | 421329 | [421329-magic-fruit-world.json](./421329-magic-fruit-world.json) |
@@ -12320,6 +12322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MolaMola Adventure | 333039 | [333039-molamola-adventure.json](./333039-molamola-adventure.json) |
 | Molang: A Happy Day | 101010 | [101010-molang-a-happy-day.json](./101010-molang-a-happy-day.json) |
 | Molar Maul | 212124 | [212124-molar-maul.json](./212124-molar-maul.json) |
+| Molar Mayhem | 365611 | [365611-molar-mayhem.json](./365611-molar-mayhem.json) |
 | Molar: Underground | 266609 | [266609-molar-underground.json](./266609-molar-underground.json) |
 | Mold | 239558 | [239558-mold.json](./239558-mold.json) |
 | Mold 2: Origin | 240073 | [240073-mold-2-origin.json](./240073-mold-2-origin.json) |
