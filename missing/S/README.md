@@ -9507,6 +9507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner Maker | 400740 | [400740-sinner-maker.json](./400740-sinner-maker.json) |
 | Sinner's Grimoire | 359340 | [359340-sinners-grimoire.json](./359340-sinners-grimoire.json) |
 | Sinner's Tavern | 235623 | [235623-sinners-tavern.json](./235623-sinners-tavern.json) |
+| Sinner's Verdict | 381649 | [381649-sinners-verdict.json](./381649-sinners-verdict.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
 | Sinners Landing: Bane of Passion | 401889 | [401889-sinners-landing-bane-of-passion.json](./401889-sinners-landing-bane-of-passion.json) |
 | Sinoda | 363324 | [363324-sinoda.json](./363324-sinoda.json) |
@@ -15176,6 +15177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
 | Sotsugyou Crossworld | 108838 | [108838-sotsugyou-crossworld.json](./108838-sotsugyou-crossworld.json) |
 | Sotsugyou Ryokou | 263955 | [263955-sotsugyou-ryokou.json](./263955-sotsugyou-ryokou.json) |
+| Sotsugyou Vacation | 381647 | [381647-sotsugyou-vacation.json](./381647-sotsugyou-vacation.json) |
 | Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
 | Sotsugyou: Graduation - Final | 268543 | [268543-sotsugyou-graduation-final.json](./268543-sotsugyou-graduation-final.json) |
 | Sottaku | 388986 | [388986-sottaku.json](./388986-sottaku.json) |
@@ -23930,6 +23932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Terrania | 22680 | [22680-sub-terrania.json](./22680-sub-terrania.json) |
 | Sub Wars | 104699 | [104699-sub-wars.json](./104699-sub-wars.json) |
 | Sub Wars | 200395 | [200395-sub-wars.json](./200395-sub-wars.json) |
+| Sub-Species | 381645 | [381645-sub-species.json](./381645-sub-species.json) |
 | Sub-Uber-Marine | 194380 | [194380-sub-uber-marine.json](./194380-sub-uber-marine.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Suba Pogo | 414487 | [414487-suba-pogo.json](./414487-suba-pogo.json) |
@@ -27702,6 +27705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superboy | 385814 | [385814-superboy.json](./385814-superboy.json) |
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
+| Superbug | 381582 | [381582-superbug.json](./381582-superbug.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
 | Supercar Collection Together | 420753 | [420753-supercar-collection-together.json](./420753-supercar-collection-together.json) |
 | Supercar Drift | 123822 | [123822-supercar-drift.json](./123822-supercar-drift.json) |
