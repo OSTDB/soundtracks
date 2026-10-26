@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Won't Slay Dragons for You | 206581 | [206581-i-wont-slay-dragons-for-you.json](./206581-i-wont-slay-dragons-for-you.json) |
 | I Work As An Exorcist | 381980 | [381980-i-work-as-an-exorcist.json](./381980-i-work-as-an-exorcist.json) |
 | I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
+| I Would Love to Wish You Good Morning | 372970 | [372970-i-would-love-to-wish-you-good-morning.json](./372970-i-would-love-to-wish-you-good-morning.json) |
 | I x She Tell: Limited Edition | 167022 | [167022-i-x-she-tell-limited-edition.json](./167022-i-x-she-tell-limited-edition.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
@@ -2134,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impact Space | 212292 | [212292-impact-space.json](./212292-impact-space.json) |
 | Impact to the Head | 408246 | [408246-impact-to-the-head.json](./408246-impact-to-the-head.json) |
 | Impact Trial: First Encounter | 279126 | [279126-impact-trial-first-encounter.json](./279126-impact-trial-first-encounter.json) |
+| Impact Trial: Hyperchaos | 372976 | [372976-impact-trial-hyperchaos.json](./372976-impact-trial-hyperchaos.json) |
 | Impact Trial: Simulation | 164508 | [164508-impact-trial-simulation.json](./164508-impact-trial-simulation.json) |
 | Impact Trial: The Lost Planet | 258128 | [258128-impact-trial-the-lost-planet.json](./258128-impact-trial-the-lost-planet.json) |
 | Impact Winter | 26145 | [26145-impact-winter.json](./26145-impact-winter.json) |
