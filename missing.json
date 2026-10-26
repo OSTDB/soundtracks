@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T17:19:20.377Z",
-  "total_missing": 266125,
+  "generated_at": "2026-10-26T17:34:49.463Z",
+  "total_missing": 266176,
   "games": [
     {
       "igdb_id": 191680,
@@ -30205,11 +30205,6 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
-    },
-    {
-      "igdb_id": 342233,
-      "game_name": "Adventures In Time & Space",
-      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -95837,6 +95832,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -150072,6 +150072,11 @@
       "file": "missing/B/25865-bouncing-ball.json"
     },
     {
+      "igdb_id": 347618,
+      "game_name": "Bouncing Ball",
+      "file": "missing/B/347618-bouncing-ball.json"
+    },
+    {
       "igdb_id": 46857,
       "game_name": "Bouncing Ball",
       "file": "missing/B/46857-bouncing-ball.json"
@@ -189147,6 +189152,11 @@
       "file": "missing/C/126987-cave-confectioner.json"
     },
     {
+      "igdb_id": 347578,
+      "game_name": "Cave Crave",
+      "file": "missing/C/347578-cave-crave.json"
+    },
+    {
       "igdb_id": 406192,
       "game_name": "Cave Crave: Tham Luang Cave VR",
       "file": "missing/C/406192-cave-crave-tham-luang-cave-vr.json"
@@ -212655,6 +212665,11 @@
       "igdb_id": 391888,
       "game_name": "Clockfall",
       "file": "missing/C/391888-clockfall.json"
+    },
+    {
+      "igdb_id": 347594,
+      "game_name": "Clocking In to Fight a Lich in Another Realm",
+      "file": "missing/C/347594-clocking-in-to-fight-a-lich-in-another-realm.json"
     },
     {
       "igdb_id": 190393,
@@ -247180,6 +247195,11 @@
       "igdb_id": 332431,
       "game_name": "Crystal Fortress",
       "file": "missing/C/332431-crystal-fortress.json"
+    },
+    {
+      "igdb_id": 347613,
+      "game_name": "Crystal Gaiden Origins",
+      "file": "missing/C/347613-crystal-gaiden-origins.json"
     },
     {
       "igdb_id": 123070,
@@ -288727,6 +288747,31 @@
       "file": "missing/D/278060-detective-instinct-farewell-my-beloved.json"
     },
     {
+      "igdb_id": 347581,
+      "game_name": "Detective Jake Hunter: Episode No. 01 - The Petty Murder of a Fragile Heart",
+      "file": "missing/D/347581-detective-jake-hunter-episode-no-01-the-petty-murder-of-a-fragile-heart.json"
+    },
+    {
+      "igdb_id": 347582,
+      "game_name": "Detective Jake Hunter: Episode No. 02 - Seaside City Conspiracy",
+      "file": "missing/D/347582-detective-jake-hunter-episode-no-02-seaside-city-conspiracy.json"
+    },
+    {
+      "igdb_id": 347583,
+      "game_name": "Detective Jake Hunter: Episode No. 03 - Crash and Burn",
+      "file": "missing/D/347583-detective-jake-hunter-episode-no-03-crash-and-burn.json"
+    },
+    {
+      "igdb_id": 347584,
+      "game_name": "Detective Jake Hunter: Episode No. 04 - As Time Goes By",
+      "file": "missing/D/347584-detective-jake-hunter-episode-no-04-as-time-goes-by.json"
+    },
+    {
+      "igdb_id": 347585,
+      "game_name": "Detective Jake Hunter: Episode No. 05 - The Red-Eyed Tiger",
+      "file": "missing/D/347585-detective-jake-hunter-episode-no-05-the-red-eyed-tiger.json"
+    },
+    {
       "igdb_id": 282569,
       "game_name": "Detective Kiwi",
       "file": "missing/D/282569-detective-kiwi.json"
@@ -309782,6 +309827,11 @@
       "file": "missing/D/252062-donut-dodo-do.json"
     },
     {
+      "igdb_id": 347603,
+      "game_name": "Donut Dodo Fantastico",
+      "file": "missing/D/347603-donut-dodo-fantastico.json"
+    },
+    {
       "igdb_id": 96075,
       "game_name": "Donut Drop by ABCya",
       "file": "missing/D/96075-donut-drop-by-abcya.json"
@@ -328190,6 +328240,11 @@
       "igdb_id": 180146,
       "game_name": "Drynk: Board and Drinking Game",
       "file": "missing/D/180146-drynk-board-and-drinking-game.json"
+    },
+    {
+      "igdb_id": 347597,
+      "game_name": "Drywall Eating Simulator",
+      "file": "missing/D/347597-drywall-eating-simulator.json"
     },
     {
       "igdb_id": 306436,
@@ -378285,6 +378340,11 @@
       "igdb_id": 216635,
       "game_name": "False Skies",
       "file": "missing/F/216635-false-skies.json"
+    },
+    {
+      "igdb_id": 347588,
+      "game_name": "False Title",
+      "file": "missing/F/347588-false-title.json"
     },
     {
       "igdb_id": 181646,
@@ -432212,6 +432272,11 @@
       "file": "missing/G/276658-gacha-fever.json"
     },
     {
+      "igdb_id": 347579,
+      "game_name": "Gacha Idle",
+      "file": "missing/G/347579-gacha-idle.json"
+    },
+    {
       "igdb_id": 125828,
       "game_name": "Gacha Life",
       "file": "missing/G/125828-gacha-life.json"
@@ -440815,6 +440880,11 @@
       "igdb_id": 85795,
       "game_name": "Gauntlet Dark Legacy",
       "file": "missing/G/85795-gauntlet-dark-legacy.json"
+    },
+    {
+      "igdb_id": 347589,
+      "game_name": "Gauntlet Force: Rise of the Machines",
+      "file": "missing/G/347589-gauntlet-force-rise-of-the-machines.json"
     },
     {
       "igdb_id": 307077,
@@ -492757,6 +492827,11 @@
       "file": "missing/H/143361-heart-of-muriet.json"
     },
     {
+      "igdb_id": 347595,
+      "game_name": "Heart of Mycelium",
+      "file": "missing/H/347595-heart-of-mycelium.json"
+    },
+    {
       "igdb_id": 288236,
       "game_name": "Heart Of Nadia",
       "file": "missing/H/288236-heart-of-nadia.json"
@@ -534027,6 +534102,11 @@
       "file": "missing/I/315212-i-hate-my-legs.json"
     },
     {
+      "igdb_id": 347596,
+      "game_name": "I Hate Robots",
+      "file": "missing/I/347596-i-hate-robots.json"
+    },
+    {
       "igdb_id": 68843,
       "game_name": "I Hate Running Backwards",
       "file": "missing/I/68843-i-hate-running-backwards.json"
@@ -563317,9 +563397,39 @@
       "file": "missing/J/258879-jake-everest-wakanga-the-unseen-civilization.json"
     },
     {
+      "igdb_id": 347606,
+      "game_name": "Jake Hunter Detective Story: For Love",
+      "file": "missing/J/347606-jake-hunter-detective-story-for-love.json"
+    },
+    {
+      "igdb_id": 347607,
+      "game_name": "Jake Hunter Detective Story: Forget-me-not",
+      "file": "missing/J/347607-jake-hunter-detective-story-forget-me-not.json"
+    },
+    {
+      "igdb_id": 347608,
+      "game_name": "Jake Hunter Detective Story: Four Seasons",
+      "file": "missing/J/347608-jake-hunter-detective-story-four-seasons.json"
+    },
+    {
+      "igdb_id": 347617,
+      "game_name": "Jake Hunter Detective Story: Ghost of the Dusk",
+      "file": "missing/J/347617-jake-hunter-detective-story-ghost-of-the-dusk.json"
+    },
+    {
       "igdb_id": 55863,
       "game_name": "Jake Hunter Detective Story: Ghost of the Dusk",
       "file": "missing/J/55863-jake-hunter-detective-story-ghost-of-the-dusk.json"
+    },
+    {
+      "igdb_id": 347605,
+      "game_name": "Jake Hunter Detective Story: Legend of the Demon Princess",
+      "file": "missing/J/347605-jake-hunter-detective-story-legend-of-the-demon-princess.json"
+    },
+    {
+      "igdb_id": 347580,
+      "game_name": "Jake Hunter Detective Story: Memories of the Past",
+      "file": "missing/J/347580-jake-hunter-detective-story-memories-of-the-past.json"
     },
     {
       "igdb_id": 47772,
@@ -573570,6 +573680,11 @@
       "igdb_id": 81425,
       "game_name": "Journey to the Center of the Earth: Gold Edition",
       "file": "missing/J/81425-journey-to-the-center-of-the-earth-gold-edition.json"
+    },
+    {
+      "igdb_id": 347590,
+      "game_name": "Journey to the Center of the Lost Waterpark",
+      "file": "missing/J/347590-journey-to-the-center-of-the-lost-waterpark.json"
     },
     {
       "igdb_id": 53246,
@@ -591420,6 +591535,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -736437,6 +736557,11 @@
       "file": "missing/M/346194-my-moms-bestfriend.json"
     },
     {
+      "igdb_id": 347598,
+      "game_name": "My Money Grows On Trees",
+      "file": "missing/M/347598-my-money-grows-on-trees.json"
+    },
+    {
       "igdb_id": 318391,
       "game_name": "My Monster",
       "file": "missing/M/318391-my-monster.json"
@@ -769732,6 +769857,11 @@
       "file": "missing/N/332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json"
     },
     {
+      "igdb_id": 347593,
+      "game_name": "Nonplace",
+      "file": "missing/N/347593-nonplace.json"
+    },
+    {
       "igdb_id": 416362,
       "game_name": "NonPlatonic Forms",
       "file": "missing/N/416362-nonplatonic-forms.json"
@@ -784805,6 +784935,11 @@
       "igdb_id": 33057,
       "game_name": "One Last Chance",
       "file": "missing/O/33057-one-last-chance.json"
+    },
+    {
+      "igdb_id": 347599,
+      "game_name": "One Last Clip",
+      "file": "missing/O/347599-one-last-clip.json"
     },
     {
       "igdb_id": 95330,
@@ -841862,6 +841997,11 @@
       "file": "missing/P/138545-please-visit-grandma.json"
     },
     {
+      "igdb_id": 347601,
+      "game_name": "Please, Watch the Artwork",
+      "file": "missing/P/347601-please-watch-the-artwork.json"
+    },
+    {
       "igdb_id": 385899,
       "game_name": "Please! Please Confess First",
       "file": "missing/P/385899-please-please-confess-first.json"
@@ -892425,6 +892565,11 @@
       "igdb_id": 156602,
       "game_name": "Randomlands",
       "file": "missing/R/156602-randomlands.json"
+    },
+    {
+      "igdb_id": 347587,
+      "game_name": "Randomlife Reborn",
+      "file": "missing/R/347587-randomlife-reborn.json"
     },
     {
       "igdb_id": 182773,
@@ -972132,6 +972277,11 @@
       "file": "missing/S/223917-sheep-a-sheep.json"
     },
     {
+      "igdb_id": 347591,
+      "game_name": "Sheep and Gates",
+      "file": "missing/S/347591-sheep-and-gates.json"
+    },
+    {
       "igdb_id": 183886,
       "game_name": "Sheep Annoyer",
       "file": "missing/S/183886-sheep-annoyer.json"
@@ -1030937,6 +1031087,11 @@
       "file": "missing/S/220669-spinner-invaders-2-a-mad-revenge.json"
     },
     {
+      "igdb_id": 347602,
+      "game_name": "Spinner: Rogueblade",
+      "file": "missing/S/347602-spinner-rogueblade.json"
+    },
+    {
       "igdb_id": 72338,
       "game_name": "Spinnin' Flare",
       "file": "missing/S/72338-spinnin-flare.json"
@@ -1040410,6 +1040565,11 @@
       "igdb_id": 192624,
       "game_name": "Star of the Show",
       "file": "missing/S/192624-star-of-the-show.json"
+    },
+    {
+      "igdb_id": 347604,
+      "game_name": "Star Ores Inc.",
+      "file": "missing/S/347604-star-ores-inc.json"
     },
     {
       "igdb_id": 314935,
@@ -1075922,6 +1076082,16 @@
       "file": "missing/S/342017-super-real-mahjong-pii-and-piii-custom.json"
     },
     {
+      "igdb_id": 347616,
+      "game_name": "Super Real Mahjong PIV",
+      "file": "missing/S/347616-super-real-mahjong-piv.json"
+    },
+    {
+      "igdb_id": 347619,
+      "game_name": "Super Real Mahjong PIV + Aishou Shindan",
+      "file": "missing/S/347619-super-real-mahjong-piv-aishou-shindan.json"
+    },
+    {
       "igdb_id": 342013,
       "game_name": "Super Real Mahjong PIV Custom",
       "file": "missing/S/342013-super-real-mahjong-piv-custom.json"
@@ -1100302,14 +1100472,29 @@
       "file": "missing/T/343979-tantei-ha-tsuki-wo-miru.json"
     },
     {
+      "igdb_id": 347620,
+      "game_name": "Tantei Jinguji Saburo DS: Akai Chou",
+      "file": "missing/T/347620-tantei-jinguji-saburo-ds-akai-chou.json"
+    },
+    {
       "igdb_id": 78906,
       "game_name": "Tantei Jinguji Saburo DS: Akai Chou",
       "file": "missing/T/78906-tantei-jinguji-saburo-ds-akai-chou.json"
     },
     {
+      "igdb_id": 347622,
+      "game_name": "Tantei Jinguji Saburo DS: Fuserareta Shinjitsu",
+      "file": "missing/T/347622-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json"
+    },
+    {
       "igdb_id": 67883,
       "game_name": "Tantei Jinguji Saburo DS: Fuserareta Shinjitsu",
       "file": "missing/T/67883-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json"
+    },
+    {
+      "igdb_id": 347621,
+      "game_name": "Tantei Jinguji Saburo DS: Kienai Kokoro",
+      "file": "missing/T/347621-tantei-jinguji-saburo-ds-kienai-kokoro.json"
     },
     {
       "igdb_id": 78907,
@@ -1100447,6 +1100632,16 @@
       "file": "missing/T/347276-tantei-jinguji-saburo-series-no-25-giwaku-no-ace.json"
     },
     {
+      "igdb_id": 347623,
+      "game_name": "Tantei Jinguji Saburo: 6-mai no Hankou",
+      "file": "missing/T/347623-tantei-jinguji-saburo-6-mai-no-hankou.json"
+    },
+    {
+      "igdb_id": 347612,
+      "game_name": "Tantei Jinguji Saburo: Akenai Yoru ni",
+      "file": "missing/T/347612-tantei-jinguji-saburo-akenai-yoru-ni.json"
+    },
+    {
       "igdb_id": 347641,
       "game_name": "Tantei Jinguji Saburo: Akenai Yoru ni",
       "file": "missing/T/347641-tantei-jinguji-saburo-akenai-yoru-ni.json"
@@ -1100455,6 +1100650,16 @@
       "igdb_id": 347292,
       "game_name": "Tantei Jinguji Saburo: Akenai Yoru ni & Nazono-Jikenbo",
       "file": "missing/T/347292-tantei-jinguji-saburo-akenai-yoru-ni-and-nazono-jikenbo.json"
+    },
+    {
+      "igdb_id": 347625,
+      "game_name": "Tantei Jinguji Saburo: Aoi Me no Ryuu",
+      "file": "missing/T/347625-tantei-jinguji-saburo-aoi-me-no-ryuu.json"
+    },
+    {
+      "igdb_id": 347624,
+      "game_name": "Tantei Jinguji Saburo: Bouen wo Sagase!",
+      "file": "missing/T/347624-tantei-jinguji-saburo-bouen-wo-sagase.json"
     },
     {
       "igdb_id": 67884,
@@ -1100482,6 +1100687,16 @@
       "file": "missing/T/347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json"
     },
     {
+      "igdb_id": 347628,
+      "game_name": "Tantei Jinguji Saburo: Inu to Yobareta Otoko",
+      "file": "missing/T/347628-tantei-jinguji-saburo-inu-to-yobareta-otoko.json"
+    },
+    {
+      "igdb_id": 347615,
+      "game_name": "Tantei Jinguji Saburo: Kadan no Itte",
+      "file": "missing/T/347615-tantei-jinguji-saburo-kadan-no-itte.json"
+    },
+    {
       "igdb_id": 67367,
       "game_name": "Tantei Jinguji Saburo: Kadan no Itte & Nazono-Jikenbo",
       "file": "missing/T/67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json"
@@ -1100507,6 +1100722,11 @@
       "file": "missing/T/78561-tantei-jinguji-saburo-mikan-no-report.json"
     },
     {
+      "igdb_id": 347611,
+      "game_name": "Tantei Jinguji Saburo: Naki Ko no Shouzou",
+      "file": "missing/T/347611-tantei-jinguji-saburo-naki-ko-no-shouzou.json"
+    },
+    {
       "igdb_id": 347642,
       "game_name": "Tantei Jinguji Saburo: Naki Ko no Shouzou",
       "file": "missing/T/347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json"
@@ -1100522,14 +1100742,29 @@
       "file": "missing/T/347484-tantei-jinguji-saburo-prism-of-eyes-toki-no-sugiyuku-mama-ni.json"
     },
     {
+      "igdb_id": 347626,
+      "game_name": "Tantei Jinguji Saburo: Quito no Yoru",
+      "file": "missing/T/347626-tantei-jinguji-saburo-quito-no-yoru.json"
+    },
+    {
       "igdb_id": 347634,
       "game_name": "Tantei Jinguji Saburo: Quito no Yoru",
       "file": "missing/T/347634-tantei-jinguji-saburo-quito-no-yoru.json"
     },
     {
+      "igdb_id": 347610,
+      "game_name": "Tantei Jinguji Saburo: Rensa Suru Noroi",
+      "file": "missing/T/347610-tantei-jinguji-saburo-rensa-suru-noroi.json"
+    },
+    {
       "igdb_id": 347328,
       "game_name": "Tantei Jinguji Saburo: Rensa Suru Noroi & Nazono-Jikenbo",
       "file": "missing/T/347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json"
+    },
+    {
+      "igdb_id": 347627,
+      "game_name": "Tantei Jinguji Saburo: Shikaku no Wana",
+      "file": "missing/T/347627-tantei-jinguji-saburo-shikaku-no-wana.json"
     },
     {
       "igdb_id": 347632,
@@ -1100560,6 +1100795,11 @@
       "igdb_id": 78265,
       "game_name": "Tantei Jinguji Saburo: Tomoshibi ga Kienu Ma ni",
       "file": "missing/T/78265-tantei-jinguji-saburo-tomoshibi-ga-kienu-ma-ni.json"
+    },
+    {
+      "igdb_id": 347614,
+      "game_name": "Tantei Jinguji Saburo: Tsubaki no Yukue",
+      "file": "missing/T/347614-tantei-jinguji-saburo-tsubaki-no-yukue.json"
     },
     {
       "igdb_id": 347299,
@@ -1217397,6 +1217637,11 @@
       "file": "missing/T/422143-trauma-playground.json"
     },
     {
+      "igdb_id": 347577,
+      "game_name": "Trauma Record",
+      "file": "missing/T/347577-trauma-record.json"
+    },
+    {
       "igdb_id": 125728,
       "game_name": "Trauma Simulator",
       "file": "missing/T/125728-trauma-simulator.json"
@@ -1251640,6 +1251885,11 @@
       "igdb_id": 369888,
       "game_name": "Varthos: Heir to the Throne",
       "file": "missing/V/369888-varthos-heir-to-the-throne.json"
+    },
+    {
+      "igdb_id": 347586,
+      "game_name": "Vartio",
+      "file": "missing/V/347586-vartio.json"
     },
     {
       "igdb_id": 323226,
@@ -1286725,6 +1286975,11 @@
       "igdb_id": 179463,
       "game_name": "Wide Island",
       "file": "missing/W/179463-wide-island.json"
+    },
+    {
+      "igdb_id": 347600,
+      "game_name": "Wide Load",
+      "file": "missing/W/347600-wide-load.json"
     },
     {
       "igdb_id": 127591,
