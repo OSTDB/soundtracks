@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Road Home | 29890 | [29890-a-long-road-home.json](./29890-a-long-road-home.json) |
 | A Long Time | 384292 | [384292-a-long-time.json](./384292-a-long-time.json) |
 | A Long Walk Home | 278325 | [278325-a-long-walk-home.json](./278325-a-long-walk-home.json) |
+| A Long Walk Home | 362232 | [362232-a-long-walk-home.json](./362232-a-long-walk-home.json) |
 | A Long Way Down | 101328 | [101328-a-long-way-down.json](./101328-a-long-way-down.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
@@ -988,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
 | A Stickman Reality | 110089 | [110089-a-stickman-reality.json](./110089-a-stickman-reality.json) |
 | A Stop for the Night | 304305 | [304305-a-stop-for-the-night.json](./304305-a-stop-for-the-night.json) |
+| A Storied Life: Tabitha | 362283 | [362283-a-storied-life-tabitha.json](./362283-a-storied-life-tabitha.json) |
 | A storm is approaching | 184447 | [184447-a-storm-is-approaching.json](./184447-a-storm-is-approaching.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
@@ -3581,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
 | After-H: Battle Arena | 141797 | [141797-after-h-battle-arena.json](./141797-after-h-battle-arena.json) |
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
+| After-H: Moon of the Dead | 362257 | [362257-after-h-moon-of-the-dead.json](./362257-after-h-moon-of-the-dead.json) |
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | After... Prologue | 405063 | [405063-after-prologue.json](./405063-after-prologue.json) |
 | After... Wasureenu Kizuna | 283252 | [283252-after-wasureenu-kizuna.json](./283252-after-wasureenu-kizuna.json) |
@@ -11673,6 +11676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Clash VR | 31827 | [31827-armor-clash-vr.json](./31827-armor-clash-vr.json) |
 | Armor Command | 73843 | [73843-armor-command.json](./73843-armor-command.json) |
 | Armor Contest | 96667 | [96667-armor-contest.json](./96667-armor-contest.json) |
+| Armor Havok | 362236 | [362236-armor-havok.json](./362236-armor-havok.json) |
 | Armor Heroes | 196793 | [196793-armor-heroes.json](./196793-armor-heroes.json) |
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Armor MMO | 69511 | [69511-armor-mmo.json](./69511-armor-mmo.json) |
