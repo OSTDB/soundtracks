@@ -3460,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoch Never Dies | 350514 | [350514-enoch-never-dies.json](./350514-enoch-never-dies.json) |
 | Enoh | 189921 | [189921-enoh.json](./189921-enoh.json) |
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
+| Enormosword | 341427 | [341427-enormosword.json](./341427-enormosword.json) |
 | Enotria: The Last Song | 218521 | [218521-enotria-the-last-song.json](./218521-enotria-the-last-song.json) |
 | Enotria: The Last Song - Deluxe Edition | 324763 | [324763-enotria-the-last-song-deluxe-edition.json](./324763-enotria-the-last-song-deluxe-edition.json) |
 | Enough | 391542 | [391542-enough.json](./391542-enough.json) |
@@ -5754,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertried | 142081 | [142081-evertried.json](./142081-evertried.json) |
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
 | Everwayne | 295617 | [295617-everwayne.json](./295617-everwayne.json) |
+| Everweave | 341397 | [341397-everweave.json](./341397-everweave.json) |
 | Everwind | 342138 | [342138-everwind.json](./342138-everwind.json) |
 | EverWing | 56924 | [56924-everwing.json](./56924-everwing.json) |
 | EverWorld | 163774 | [163774-everworld.json](./163774-everworld.json) |
@@ -6164,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Examination Chambers | 182213 | [182213-examination-chambers.json](./182213-examination-chambers.json) |
 | Examination of Fear | 255665 | [255665-examination-of-fear.json](./255665-examination-of-fear.json) |
 | Example Block Game | 289018 | [289018-example-block-game.json](./289018-example-block-game.json) |
+| Examples of Human Capital | 341415 | [341415-examples-of-human-capital.json](./341415-examples-of-human-capital.json) |
 | Exanima | 14174 | [14174-exanima.json](./14174-exanima.json) |
 | Exanimate | 311189 | [311189-exanimate.json](./311189-exanimate.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
