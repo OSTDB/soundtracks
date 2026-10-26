@@ -17892,6 +17892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man / X-Men: Arcade's Redux | 219274 | [219274-spider-man-x-men-arcades-redux.json](./219274-spider-man-x-men-arcades-redux.json) |
 | Spider-Man & Friends: Doc Ock's Challenge | 72999 | [72999-spider-man-and-friends-doc-ocks-challenge.json](./72999-spider-man-and-friends-doc-ocks-challenge.json) |
 | Spider-Man & Friends: Secret Missions | 73001 | [73001-spider-man-and-friends-secret-missions.json](./73001-spider-man-and-friends-secret-missions.json) |
+| Spider-Man & Friends: Where is Hulk? | 366204 | [366204-spider-man-and-friends-where-is-hulk.json](./366204-spider-man-and-friends-where-is-hulk.json) |
 | Spider-Man 2 | 200980 | [200980-spider-man-2.json](./200980-spider-man-2.json) |
 | Spider-Man 2 | 218127 | [218127-spider-man-2.json](./218127-spider-man-2.json) |
 | Spider-Man 2 | 243027 | [243027-spider-man-2.json](./243027-spider-man-2.json) |
