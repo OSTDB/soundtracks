@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Out of Place | 176158 | [176158-cactus-out-of-place.json](./176158-cactus-out-of-place.json) |
 | Cactus Simulator | 394357 | [394357-cactus-simulator.json](./394357-cactus-simulator.json) |
 | Cactus Simulator 2 | 266986 | [266986-cactus-simulator-2.json](./266986-cactus-simulator-2.json) |
+| Cactus Simulator Remake | 370166 | [370166-cactus-simulator-remake.json](./370166-cactus-simulator-remake.json) |
 | Cad Cam Warrior | 313335 | [313335-cad-cam-warrior.json](./313335-cad-cam-warrior.json) |
 | Cadalion Online | 9872 | [9872-cadalion-online.json](./9872-cadalion-online.json) |
 | Cadash | 6652 | [6652-cadash.json](./6652-cadash.json) |
@@ -2574,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case 02: Paranormal Evil | 168577 | [168577-case-02-paranormal-evil.json](./168577-case-02-paranormal-evil.json) |
 | Case 1963 | 389678 | [389678-case-1963.json](./389678-case-1963.json) |
 | Case 2: Animatronics Survival | 99300 | [99300-case-2-animatronics-survival.json](./99300-case-2-animatronics-survival.json) |
+| Case 42: The Redwood Files | 370167 | [370167-case-42-the-redwood-files.json](./370167-case-42-the-redwood-files.json) |
 | Case Blind: Stolen Route | 358283 | [358283-case-blind-stolen-route.json](./358283-case-blind-stolen-route.json) |
 | Case Clicker | 194565 | [194565-case-clicker.json](./194565-case-clicker.json) |
 | Case Closed | 348436 | [348436-case-closed.json](./348436-case-closed.json) |
@@ -2919,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Secrets: Between Day and Night | 87998 | [87998-castle-secrets-between-day-and-night.json](./87998-castle-secrets-between-day-and-night.json) |
 | Castle Shikigami 2 | 4149 | [4149-castle-shikigami-2.json](./4149-castle-shikigami-2.json) |
 | Castle Siege | 173196 | [173196-castle-siege.json](./173196-castle-siege.json) |
+| Castle Siege | 370155 | [370155-castle-siege.json](./370155-castle-siege.json) |
 | Castle Slots | 58631 | [58631-castle-slots.json](./58631-castle-slots.json) |
 | Castle Solitaire | 370338 | [370338-castle-solitaire.json](./370338-castle-solitaire.json) |
 | Castle Story | 3238 | [3238-castle-story.json](./3238-castle-story.json) |
@@ -4445,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerkio | 176382 | [176382-cerkio.json](./176382-cerkio.json) |
 | Certain Death | 311466 | [311466-certain-death.json](./311466-certain-death.json) |
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
+| Cerulean Invasion | 370072 | [370072-cerulean-invasion.json](./370072-cerulean-invasion.json) |
 | Cerulean Moon | 120220 | [120220-cerulean-moon.json](./120220-cerulean-moon.json) |
 | Cerulean Tears | 323929 | [323929-cerulean-tears.json](./323929-cerulean-tears.json) |
 | Cervidae | 182140 | [182140-cervidae.json](./182140-cervidae.json) |
@@ -4775,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
 | Changeable Guardian Estique | 283375 | [283375-changeable-guardian-estique.json](./283375-changeable-guardian-estique.json) |
 | Changeling | 113896 | [113896-changeling.json](./113896-changeling.json) |
+| Changeling VR | 370158 | [370158-changeling-vr.json](./370158-changeling-vr.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changeover: Decisions | 96244 | [96244-changeover-decisions.json](./96244-changeover-decisions.json) |
 | Changer Seven | 240757 | [240757-changer-seven.json](./240757-changer-seven.json) |
