@@ -5349,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
 | Algolemeth | 283903 | [283903-algolemeth.json](./283903-algolemeth.json) |
 | Algor Pew Pew | 270858 | [270858-algor-pew-pew.json](./270858-algor-pew-pew.json) |
+| Algoremind | 369524 | [369524-algoremind.json](./369524-algoremind.json) |
 | Algorithm Prescription | 393977 | [393977-algorithm-prescription.json](./393977-algorithm-prescription.json) |
 | Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
 | Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Celt Warrior | 157124 | [157124-angry-celt-warrior.json](./157124-angry-celt-warrior.json) |
 | Angry Chef World Tour | 381671 | [381671-angry-chef-world-tour.json](./381671-angry-chef-world-tour.json) |
 | Angry Choice | 268147 | [268147-angry-choice.json](./268147-angry-choice.json) |
+| Angry Cubes | 369522 | [369522-angry-cubes.json](./369522-angry-cubes.json) |
 | Angry Dad | 189869 | [189869-angry-dad.json](./189869-angry-dad.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
@@ -8620,6 +8622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime: Fantasy Uni 3 | 392866 | [392866-anime-fantasy-uni-3.json](./392866-anime-fantasy-uni-3.json) |
 | Anime: Japanese Goblins | 293364 | [293364-anime-japanese-goblins.json](./293364-anime-japanese-goblins.json) |
 | Anime: Jigsaw Puzzles | 162218 | [162218-anime-jigsaw-puzzles.json](./162218-anime-jigsaw-puzzles.json) |
+| Anime: Match the Memory | 369540 | [369540-anime-match-the-memory.json](./369540-anime-match-the-memory.json) |
 | Anime: World War II | 148702 | [148702-anime-world-war-ii.json](./148702-anime-world-war-ii.json) |
 | Anime: World War II - Nazi Zombies | 172372 | [172372-anime-world-war-ii-nazi-zombies.json](./172372-anime-world-war-ii-nazi-zombies.json) |
 | Animeahikoaprinceaverse A4: Prince Akihiko & Princess A | 303154 | [303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json](./303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json) |
@@ -10809,6 +10812,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
 | Archaeology: Egypt | 371480 | [371480-archaeology-egypt.json](./371480-archaeology-egypt.json) |
 | Archaeology: Frozen Knights | 337969 | [337969-archaeology-frozen-knights.json](./337969-archaeology-frozen-knights.json) |
+| Archaeology: Frozen Pirates | 369539 | [369539-archaeology-frozen-pirates.json](./369539-archaeology-frozen-pirates.json) |
+| Archaeology: Frozen Space | 369537 | [369537-archaeology-frozen-space.json](./369537-archaeology-frozen-space.json) |
 | Archaeology: Frozen Village | 337970 | [337970-archaeology-frozen-village.json](./337970-archaeology-frozen-village.json) |
 | Archaeology: Frozen Wall | 337971 | [337971-archaeology-frozen-wall.json](./337971-archaeology-frozen-wall.json) |
 | Archaeology: Grass Farm | 368559 | [368559-archaeology-grass-farm.json](./368559-archaeology-grass-farm.json) |
@@ -14932,6 +14937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening of Dragon | 110177 | [110177-awakening-of-dragon.json](./110177-awakening-of-dragon.json) |
 | Awakening of Dragon | 208908 | [208908-awakening-of-dragon.json](./208908-awakening-of-dragon.json) |
 | Awakening of Heroes | 61561 | [61561-awakening-of-heroes.json](./61561-awakening-of-heroes.json) |
+| Awakening of Solutio | 369610 | [369610-awakening-of-solutio.json](./369610-awakening-of-solutio.json) |
 | Awakening of the Eclipse | 299028 | [299028-awakening-of-the-eclipse.json](./299028-awakening-of-the-eclipse.json) |
 | Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
 | Awakening the Charge | 349819 | [349819-awakening-the-charge.json](./349819-awakening-the-charge.json) |
