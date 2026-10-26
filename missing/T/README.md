@@ -14526,6 +14526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword and the Fish | 233661 | [233661-the-sword-and-the-fish.json](./233661-the-sword-and-the-fish.json) |
 | The Sword and the Fox | 74851 | [74851-the-sword-and-the-fox.json](./74851-the-sword-and-the-fox.json) |
 | The Sword and the Slime | 121455 | [121455-the-sword-and-the-slime.json](./121455-the-sword-and-the-slime.json) |
+| The Sword Game | 361669 | [361669-the-sword-game.json](./361669-the-sword-game.json) |
 | The Sword of Ares for Quake | 196720 | [196720-the-sword-of-ares-for-quake.json](./196720-the-sword-of-ares-for-quake.json) |
 | The Sword of Camelot | 65884 | [65884-the-sword-of-camelot.json](./65884-the-sword-of-camelot.json) |
 | The Sword of Etheria | 10901 | [10901-the-sword-of-etheria.json](./10901-the-sword-of-etheria.json) |
