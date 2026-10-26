@@ -5633,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Girl Anzu | 190057 | [190057-wizard-girl-anzu.json](./190057-wizard-girl-anzu.json) |
 | Wizard Golf RPG | 243711 | [243711-wizard-golf-rpg.json](./243711-wizard-golf-rpg.json) |
 | Wizard Graph | 185501 | [185501-wizard-graph.json](./185501-wizard-graph.json) |
+| Wizard Hand | 338652 | [338652-wizard-hand.json](./338652-wizard-hand.json) |
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
 | Wizard Hult | 409893 | [409893-wizard-hult.json](./409893-wizard-hult.json) |
 | Wizard Hunter 2348 | 55743 | [55743-wizard-hunter-2348.json](./55743-wizard-hunter-2348.json) |
