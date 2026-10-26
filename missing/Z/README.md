@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Legion | 302767 | [302767-zombie-legion.json](./302767-zombie-legion.json) |
 | Zombie Life | 198886 | [198886-zombie-life.json](./198886-zombie-life.json) |
 | Zombie Lines | 415928 | [415928-zombie-lines.json](./415928-zombie-lines.json) |
+| Zombie Lockdown Simulator | 361112 | [361112-zombie-lockdown-simulator.json](./361112-zombie-lockdown-simulator.json) |
 | Zombie Madness: The Awakening | 408052 | [408052-zombie-madness-the-awakening.json](./408052-zombie-madness-the-awakening.json) |
 | Zombie Mansion | 218713 | [218713-zombie-mansion.json](./218713-zombie-mansion.json) |
 | Zombie Massacre | 415927 | [415927-zombie-massacre.json](./415927-zombie-massacre.json) |
@@ -2124,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zusi 3: Aerosoft Edition | 117612 | [117612-zusi-3-aerosoft-edition.json](./117612-zusi-3-aerosoft-edition.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zutto Tsukushite Ageru no! | 410951 | [410951-zutto-tsukushite-ageru-no.json](./410951-zutto-tsukushite-ageru-no.json) |
+| Zuumtype | 361110 | [361110-zuumtype.json](./361110-zuumtype.json) |
 | Zuwaka | 231996 | [231996-zuwaka.json](./231996-zuwaka.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
 | Zwackery | 40975 | [40975-zwackery.json](./40975-zwackery.json) |
