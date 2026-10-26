@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7028,6 +7029,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds Adventure | 303370 | [303370-birds-adventure.json](./303370-birds-adventure.json) |
 | Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
 | Birds and Blocks 2 | 242013 | [242013-birds-and-blocks-2.json](./242013-birds-and-blocks-2.json) |
+| Birds and Cats | 366788 | [366788-birds-and-cats.json](./366788-birds-and-cats.json) |
+| Birds and Cats: Special Edition | 366782 | [366782-birds-and-cats-special-edition.json](./366782-birds-and-cats-special-edition.json) |
 | Birds and Nuts | 380734 | [380734-birds-and-nuts.json](./380734-birds-and-nuts.json) |
 | Birds Are Not Real | 416681 | [416681-birds-are-not-real.json](./416681-birds-are-not-real.json) |
 | Birds Are Real | 128843 | [128843-birds-are-real.json](./128843-birds-are-real.json) |
@@ -12077,6 +12080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
 | Brain Trainer: Spot the Difference | 99384 | [99384-brain-trainer-spot-the-difference.json](./99384-brain-trainer-spot-the-difference.json) |
 | Brain Training 3D | 145312 | [145312-brain-training-3d.json](./145312-brain-training-3d.json) |
+| Brain Training! Art Puzzle | 366780 | [366780-brain-training-art-puzzle.json](./366780-brain-training-art-puzzle.json) |
 | Brain Training! Order Quiz | 403739 | [403739-brain-training-order-quiz.json](./403739-brain-training-order-quiz.json) |
 | Brain Training! Perfect Memory | 365559 | [365559-brain-training-perfect-memory.json](./365559-brain-training-perfect-memory.json) |
 | Brain Training!! Hiragana ＆ Katakana Search | 316199 | [316199-brain-training-hiragana-and-katakana-search.json](./316199-brain-training-hiragana-and-katakana-search.json) |
