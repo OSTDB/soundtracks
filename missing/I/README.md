@@ -4782,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Chef | 64456 | [64456-iron-chef.json](./64456-iron-chef.json) |
 | Iron Clash | 208176 | [208176-iron-clash.json](./208176-iron-clash.json) |
+| Iron Colony | 381082 | [381082-iron-colony.json](./381082-iron-colony.json) |
 | Iron Commando | 34040 | [34040-iron-commando.json](./34040-iron-commando.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
