@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinks | 12330 | [12330-jinks.json](./12330-jinks.json) |
 | Jinmakyou Kyousei-tan | 128241 | [128241-jinmakyou-kyousei-tan.json](./128241-jinmakyou-kyousei-tan.json) |
 | Jinmu Denshou Yaksa | 37683 | [37683-jinmu-denshou-yaksa.json](./37683-jinmu-denshou-yaksa.json) |
+| Jinni 2: The Ritual | 379405 | [379405-jinni-2-the-ritual.json](./379405-jinni-2-the-ritual.json) |
 | Jinro Burger | 402449 | [402449-jinro-burger.json](./402449-jinro-burger.json) |
 | Jinrou Game | 296100 | [296100-jinrou-game.json](./296100-jinrou-game.json) |
 | Jinrui no Minasama he: Suhaaya Shuka | 394890 | [394890-jinrui-no-minasama-he-suhaaya-shuka.json](./394890-jinrui-no-minasama-he-suhaaya-shuka.json) |
