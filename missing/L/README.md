@@ -4580,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
 | Link Penguins | 391224 | [391224-link-penguins.json](./391224-link-penguins.json) |
+| Link PET_EX | 352778 | [352778-link-pet-ex.json](./352778-link-pet-ex.json) |
 | Link PET_EX: Blues DX Edition | 353189 | [353189-link-pet-ex-blues-dx-edition.json](./353189-link-pet-ex-blues-dx-edition.json) |
 | Link PET_EX: Dennoujuu Falzer | 353186 | [353186-link-pet-ex-dennoujuu-falzer.json](./353186-link-pet-ex-dennoujuu-falzer.json) |
 | Link PET_EX: Dennoujuu Glaga | 353185 | [353185-link-pet-ex-dennoujuu-glaga.json](./353185-link-pet-ex-dennoujuu-glaga.json) |
