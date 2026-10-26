@@ -5068,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Vampire | 336640 | [336640-eternal-vampire.json](./336640-eternal-vampire.json) |
 | Eternal Vault | 286083 | [286083-eternal-vault.json](./286083-eternal-vault.json) |
 | Eternal Vigil | 263972 | [263972-eternal-vigil.json](./263972-eternal-vigil.json) |
+| Eternal Voyager | 374644 | [374644-eternal-voyager.json](./374644-eternal-voyager.json) |
 | Eternal Warfare | 166617 | [166617-eternal-warfare.json](./166617-eternal-warfare.json) |
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
 | Eternal Winter | 246538 | [246538-eternal-winter.json](./246538-eternal-winter.json) |
