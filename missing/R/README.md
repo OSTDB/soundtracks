@@ -7629,6 +7629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
 | Robot Unicorn Attack | 39214 | [39214-robot-unicorn-attack.json](./39214-robot-unicorn-attack.json) |
 | Robot Unicorn Attack 2 | 76895 | [76895-robot-unicorn-attack-2.json](./76895-robot-unicorn-attack-2.json) |
+| Robot Unicorn Attack DS | 341969 | [341969-robot-unicorn-attack-ds.json](./341969-robot-unicorn-attack-ds.json) |
 | Robot Unicorn Attack Evolution | 230136 | [230136-robot-unicorn-attack-evolution.json](./230136-robot-unicorn-attack-evolution.json) |
 | Robot Unicorn Attack Forever | 56161 | [56161-robot-unicorn-attack-forever.json](./56161-robot-unicorn-attack-forever.json) |
 | Robot Unicorn Attack: Christmas Edition | 372502 | [372502-robot-unicorn-attack-christmas-edition.json](./372502-robot-unicorn-attack-christmas-edition.json) |
