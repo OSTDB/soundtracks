@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack Monsters: Survivors | 295115 | [295115-backpack-monsters-survivors.json](./295115-backpack-monsters-survivors.json) |
 | Backpack Quest: Battles And Adventures | 295116 | [295116-backpack-quest-battles-and-adventures.json](./295116-backpack-quest-battles-and-adventures.json) |
 | Backpack Raiders | 383055 | [383055-backpack-raiders.json](./383055-backpack-raiders.json) |
+| Backpack Seeker's | 348727 | [348727-backpack-seekers.json](./348727-backpack-seekers.json) |
 | Backpack Twins | 117432 | [117432-backpack-twins.json](./117432-backpack-twins.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
@@ -1208,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball | 231735 | [231735-ball.json](./231735-ball.json) |
 | Ball | 356422 | [356422-ball.json](./356422-ball.json) |
 | Ball & Gun | 403805 | [403805-ball-and-gun.json](./403805-ball-and-gun.json) |
+| Ball & Roll | 348702 | [348702-ball-and-roll.json](./348702-ball-and-roll.json) |
 | Ball 28 In Space | 334086 | [334086-ball-28-in-space.json](./334086-ball-28-in-space.json) |
 | Ball 2D | 55715 | [55715-ball-2d.json](./55715-ball-2d.json) |
 | Ball Adventure Ball Simulator | 147070 | [147070-ball-adventure-ball-simulator.json](./147070-ball-adventure-ball-simulator.json) |
@@ -4938,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee: Classic Edition | 134394 | [134394-bee-classic-edition.json](./134394-bee-classic-edition.json) |
 | Bee: The Knight | 202784 | [202784-bee-the-knight.json](./202784-bee-the-knight.json) |
 | Beebmunch | 15666 | [15666-beebmunch.json](./15666-beebmunch.json) |
+| Beebo & Luna | 348667 | [348667-beebo-and-luna.json](./348667-beebo-and-luna.json) |
 | Beebo Deluxe | 25536 | [25536-beebo-deluxe.json](./25536-beebo-deluxe.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | Beebtote | 15667 | [15667-beebtote.json](./15667-beebtote.json) |
@@ -8887,6 +8890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Hole | 40029 | [40029-block-hole.json](./40029-block-hole.json) |
 | Block Hopper | 283388 | [283388-block-hopper.json](./283388-block-hopper.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
+| Block it | 348714 | [348714-block-it.json](./348714-block-it.json) |
 | Block Jam | 323702 | [323702-block-jam.json](./323702-block-jam.json) |
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
 | Block Jumper | 230961 | [230961-block-jumper.json](./230961-block-jumper.json) |
@@ -9444,6 +9448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
 | Bloodecay | 256668 | [256668-bloodecay.json](./256668-bloodecay.json) |
 | Blooded Fields | 217865 | [217865-blooded-fields.json](./217865-blooded-fields.json) |
+| Bloodface | 348705 | [348705-bloodface.json](./348705-bloodface.json) |
 | Bloodfall: The First Temple | 385952 | [385952-bloodfall-the-first-temple.json](./385952-bloodfall-the-first-temple.json) |
 | Bloodfire | 367982 | [367982-bloodfire.json](./367982-bloodfire.json) |
 | BloodFlood | 265407 | [265407-bloodflood.json](./265407-bloodflood.json) |
