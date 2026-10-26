@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Many Eyed | 270051 | [270051-many-eyed.json](./270051-many-eyed.json) |
 | Many Faces | 127823 | [127823-many-faces.json](./127823-many-faces.json) |
 | Many Mini Typing Games | 295147 | [295147-many-mini-typing-games.json](./295147-many-mini-typing-games.json) |
+| Many Minigames | 369532 | [369532-many-minigames.json](./369532-many-minigames.json) |
 | Many Nights a Whisper | 335230 | [335230-many-nights-a-whisper.json](./335230-many-nights-a-whisper.json) |
 | Manygolf | 54740 | [54740-manygolf.json](./54740-manygolf.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
@@ -7159,6 +7160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mem0ry 2 | 108643 | [108643-mem0ry-2.json](./108643-mem0ry-2.json) |
 | Memary: Memory of The Nameless One | 296476 | [296476-memary-memory-of-the-nameless-one.json](./296476-memary-memory-of-the-nameless-one.json) |
 | Memasiki | 368567 | [368567-memasiki.json](./368567-memasiki.json) |
+| Memasiki 2: Oldskuly svelo | 369603 | [369603-memasiki-2-oldskuly-svelo.json](./369603-memasiki-2-oldskuly-svelo.json) |
 | Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
 | Membal | 287163 | [287163-membal.json](./287163-membal.json) |
 | Membrane | 377596 | [377596-membrane.json](./377596-membrane.json) |
@@ -12311,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
 | Moldbreaker: Rise of the Loaf | 325305 | [325305-moldbreaker-rise-of-the-loaf.json](./325305-moldbreaker-rise-of-the-loaf.json) |
 | Moldling | 378244 | [378244-moldling.json](./378244-moldling.json) |
+| Moldorian GG2SMS | 369516 | [369516-moldorian-gg2sms.json](./369516-moldorian-gg2sms.json) |
 | Moldorian: Hikari to Yami no Sister | 45261 | [45261-moldorian-hikari-to-yami-no-sister.json](./45261-moldorian-hikari-to-yami-no-sister.json) |
 | Moldrise | 405165 | [405165-moldrise.json](./405165-moldrise.json) |
 | Moldwasher | 342738 | [342738-moldwasher.json](./342738-moldwasher.json) |
@@ -17748,6 +17751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriavora | 154584 | [154584-myriavora.json](./154584-myriavora.json) |
 | Myridian: The Last Stand | 128969 | [128969-myridian-the-last-stand.json](./128969-myridian-the-last-stand.json) |
 | Myrk: Echoes of the Forgotten | 367141 | [367141-myrk-echoes-of-the-forgotten.json](./367141-myrk-echoes-of-the-forgotten.json) |
+| Myrkwood: Offshoot | 369523 | [369523-myrkwood-offshoot.json](./369523-myrkwood-offshoot.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
 | Myrmidon | 333501 | [333501-myrmidon.json](./333501-myrmidon.json) |
 | Myrne: The Quest | 29551 | [29551-myrne-the-quest.json](./29551-myrne-the-quest.json) |
