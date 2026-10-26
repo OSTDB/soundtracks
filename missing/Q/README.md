@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quizz: Multiplayer Pack | 285325 | [285325-quizz-multiplayer-pack.json](./285325-quizz-multiplayer-pack.json) |
 | Quizzical | 306776 | [306776-quizzical.json](./306776-quizzical.json) |
 | Quizzitive | 90287 | [90287-quizzitive.json](./90287-quizzitive.json) |
+| QuizzLingo | 353196 | [353196-quizzlingo.json](./353196-quizzlingo.json) |
 | Quizzummah | 104559 | [104559-quizzummah.json](./104559-quizzummah.json) |
 | Qūlíngshī | 128957 | [128957-qulingshi.json](./128957-qulingshi.json) |
 | Qullusrent3 | 307758 | [307758-qullusrent3.json](./307758-qullusrent3.json) |
