@@ -13000,6 +13000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Company | 208241 | [208241-monster-company.json](./208241-monster-company.json) |
 | Monster Cooking Diary | 304965 | [304965-monster-cooking-diary.json](./304965-monster-cooking-diary.json) |
 | Monster Craft 2 | 102262 | [102262-monster-craft-2.json](./102262-monster-craft-2.json) |
+| Monster Create | 356009 | [356009-monster-create.json](./356009-monster-create.json) |
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Crush - C4 Demolition Edition | 117429 | [117429-monster-crush-c4-demolition-edition.json](./117429-monster-crush-c4-demolition-edition.json) |
 | Monster Cube | 223357 | [223357-monster-cube.json](./223357-monster-cube.json) |
@@ -13662,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
 | Monument Builders: Colosseum | 24752 | [24752-monument-builders-colosseum.json](./24752-monument-builders-colosseum.json) |
 | Monument Builders: Rushmore | 58648 | [58648-monument-builders-rushmore.json](./58648-monument-builders-rushmore.json) |
+| Monument Builders: Statue of Liberty | 356134 | [356134-monument-builders-statue-of-liberty.json](./356134-monument-builders-statue-of-liberty.json) |
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley 1&2 Bundle | 341446 | [341446-monument-valley-1-and-2-bundle.json](./341446-monument-valley-1-and-2-bundle.json) |
 | Monument Valley II | 36749 | [36749-monument-valley-ii.json](./36749-monument-valley-ii.json) |
