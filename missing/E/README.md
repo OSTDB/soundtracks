@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Farmer | 15836 | [15836-electro-farmer.json](./15836-electro-farmer.json) |
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
 | Electro Game Collection | 301366 | [301366-electro-game-collection.json](./301366-electro-game-collection.json) |
+| Electro Havoc | 367989 | [367989-electro-havoc.json](./367989-electro-havoc.json) |
 | Electro Man | 70109 | [70109-electro-man.json](./70109-electro-man.json) |
 | Electro Pong VR | 51729 | [51729-electro-pong-vr.json](./51729-electro-pong-vr.json) |
 | Electro Racer | 67056 | [67056-electro-racer.json](./67056-electro-racer.json) |
@@ -2089,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfenwelt | 73243 | [73243-elfenwelt.json](./73243-elfenwelt.json) |
 | Elfheim: Chapter 1 | 207745 | [207745-elfheim-chapter-1.json](./207745-elfheim-chapter-1.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
+| Elfie: A Sand Plan | 367988 | [367988-elfie-a-sand-plan.json](./367988-elfie-a-sand-plan.json) |
 | Elfin Clay | 189904 | [189904-elfin-clay.json](./189904-elfin-clay.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfin Paradise | 419383 | [419383-elfin-paradise.json](./419383-elfin-paradise.json) |
@@ -6322,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | Exiting the White Room | 310598 | [310598-exiting-the-white-room.json](./310598-exiting-the-white-room.json) |
 | Exitium | 131457 | [131457-exitium.json](./131457-exitium.json) |
+| Exitium | 367909 | [367909-exitium.json](./367909-exitium.json) |
 | Exitium - Saviors of Vardonia | 38706 | [38706-exitium-saviors-of-vardonia.json](./38706-exitium-saviors-of-vardonia.json) |
 | Exitor | 230958 | [230958-exitor.json](./230958-exitor.json) |
 | Exitrance | 417537 | [417537-exitrance.json](./417537-exitrance.json) |
