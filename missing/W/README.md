@@ -3575,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where The Road Fades | 404196 | [404196-where-the-road-fades.json](./404196-where-the-road-fades.json) |
 | Where the Roots grow | 375383 | [375383-where-the-roots-grow.json](./375383-where-the-roots-grow.json) |
 | Where the Seeds Fall | 416123 | [416123-where-the-seeds-fall.json](./416123-where-the-seeds-fall.json) |
+| Where the Sky Is | 366779 | [366779-where-the-sky-is.json](./366779-where-the-sky-is.json) |
 | Where the Stars Brought Us | 201549 | [201549-where-the-stars-brought-us.json](./201549-where-the-stars-brought-us.json) |
 | Where the Sun Always Shines | 401730 | [401730-where-the-sun-always-shines.json](./401730-where-the-sun-always-shines.json) |
 | Where the Two Flowers Meet | 267586 | [267586-where-the-two-flowers-meet.json](./267586-where-the-two-flowers-meet.json) |
@@ -7842,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K24: Pat McAfee Show Pack | 332036 | [332036-wwe-2k24-pat-mcafee-show-pack.json](./332036-wwe-2k24-pat-mcafee-show-pack.json) |
 | WWE 2K24: Post Malone & Friends Pack | 322712 | [322712-wwe-2k24-post-malone-and-friends-pack.json](./322712-wwe-2k24-post-malone-and-friends-pack.json) |
 | WWE 2K24: WCW Pack | 332033 | [332033-wwe-2k24-wcw-pack.json](./332033-wwe-2k24-wcw-pack.json) |
+| WWE 2K25: Attitude Era Superstars Pack | 366790 | [366790-wwe-2k25-attitude-era-superstars-pack.json](./366790-wwe-2k25-attitude-era-superstars-pack.json) |
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
 | WWE 2K25: Deadman Edition Bonus Pack | 353986 | [353986-wwe-2k25-deadman-edition-bonus-pack.json](./353986-wwe-2k25-deadman-edition-bonus-pack.json) |
 | WWE 2K25: Dunk & Destruction Pack | 353987 | [353987-wwe-2k25-dunk-and-destruction-pack.json](./353987-wwe-2k25-dunk-and-destruction-pack.json) |
