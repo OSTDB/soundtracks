@@ -5306,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Jordan: Paranormal Investigator - Case 6: Scourge of the Sea People | 73276 | [73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json](./73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json) |
 | Ben Jordan: Paranormal Investigator - Case 8: Relics of the Past | 127125 | [127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json](./127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json) |
 | Ben Pixel 10: Raging Fist | 193864 | [193864-ben-pixel-10-raging-fist.json](./193864-ben-pixel-10-raging-fist.json) |
+| Ben Shapiro: The Game | 375924 | [375924-ben-shapiro-the-game.json](./375924-ben-shapiro-the-game.json) |
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
 | Ben the Binder | 378303 | [378303-ben-the-binder.json](./378303-ben-the-binder.json) |
 | Ben the Exorcist | 26251 | [26251-ben-the-exorcist.json](./26251-ben-the-exorcist.json) |
@@ -5339,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath a Steel Sky | 612 | [612-beneath-a-steel-sky.json](./612-beneath-a-steel-sky.json) |
 | Beneath a Withering Moon | 141719 | [141719-beneath-a-withering-moon.json](./141719-beneath-a-withering-moon.json) |
 | Beneath Apple Manor | 2873 | [2873-beneath-apple-manor.json](./2873-beneath-apple-manor.json) |
+| Beneath Europa | 375874 | [375874-beneath-europa.json](./375874-beneath-europa.json) |
 | Beneath Floes | 58701 | [58701-beneath-floes.json](./58701-beneath-floes.json) |
 | Beneath Folly | 229214 | [229214-beneath-folly.json](./229214-beneath-folly.json) |
 | Beneath Oresa | 182191 | [182191-beneath-oresa.json](./182191-beneath-oresa.json) |
