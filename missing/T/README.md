@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails 64 Revamped | 335635 | [335635-tails-64-revamped.json](./335635-tails-64-revamped.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
 | Tails Adventure | 19715 | [19715-tails-adventure.json](./19715-tails-adventure.json) |
+| Tails Adventure: Armada | 333895 | [333895-tails-adventure-armada.json](./333895-tails-adventure-armada.json) |
 | Tails Adventure: Fire of Robollion | 267216 | [267216-tails-adventure-fire-of-robollion.json](./267216-tails-adventure-fire-of-robollion.json) |
 | Tails and Pines | 192448 | [192448-tails-and-pines.json](./192448-tails-and-pines.json) |
 | Tails Doll | 279577 | [279577-tails-doll.json](./279577-tails-doll.json) |
@@ -1176,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Deck | 128998 | [128998-tales-of-the-deck.json](./128998-tales-of-the-deck.json) |
 | Tales of the Drunken Paladin | 191811 | [191811-tales-of-the-drunken-paladin.json](./191811-tales-of-the-drunken-paladin.json) |
 | Tales of the Elements: 2nd Chapter | 168848 | [168848-tales-of-the-elements-2nd-chapter.json](./168848-tales-of-the-elements-2nd-chapter.json) |
+| Tales of the Forgotten | 333875 | [333875-tales-of-the-forgotten.json](./333875-tales-of-the-forgotten.json) |
 | Tales of the Heroes: Twin Brave | 42760 | [42760-tales-of-the-heroes-twin-brave.json](./42760-tales-of-the-heroes-twin-brave.json) |
 | Tales of the Lost: The Stranger | 358458 | [358458-tales-of-the-lost-the-stranger.json](./358458-tales-of-the-lost-the-stranger.json) |
 | Tales of the Magic Ball | 239747 | [239747-tales-of-the-magic-ball.json](./239747-tales-of-the-magic-ball.json) |
@@ -4127,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrachroma | 298637 | [298637-tetrachroma.json](./298637-tetrachroma.json) |
 | Tetracosm | 151585 | [151585-tetracosm.json](./151585-tetracosm.json) |
 | Tetrad | 382526 | [382526-tetrad.json](./382526-tetrad.json) |
+| Tetradome | 333872 | [333872-tetradome.json](./333872-tetradome.json) |
 | Tetrageddon | 143484 | [143484-tetrageddon.json](./143484-tetrageddon.json) |
 | Tetrageddon Games | 255016 | [255016-tetrageddon-games.json](./255016-tetrageddon-games.json) |
 | Tetragon | 116590 | [116590-tetragon.json](./116590-tetragon.json) |
@@ -7966,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
 | The Final Fantasy Legend DX | 364394 | [364394-the-final-fantasy-legend-dx.json](./364394-the-final-fantasy-legend-dx.json) |
 | The Final Flame | 365808 | [365808-the-final-flame.json](./365808-the-final-flame.json) |
+| The Final Fragment | 333880 | [333880-the-final-fragment.json](./333880-the-final-fragment.json) |
 | The Final Front | 382440 | [382440-the-final-front.json](./382440-the-final-front.json) |
 | The Final Frontier | 110097 | [110097-the-final-frontier.json](./110097-the-final-frontier.json) |
 | The Final Frontier | 168428 | [168428-the-final-frontier.json](./168428-the-final-frontier.json) |
@@ -9344,6 +9348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
 | The Impossible Turnabout | 309989 | [309989-the-impossible-turnabout.json](./309989-the-impossible-turnabout.json) |
 | The Imposters | 367370 | [367370-the-imposters.json](./367370-the-imposters.json) |
+| The Impostor | 334032 | [334032-the-impostor.json](./334032-the-impostor.json) |
 | The In Between | 217362 | [217362-the-in-between.json](./217362-the-in-between.json) |
 | The In Crowd | 47195 | [47195-the-in-crowd.json](./47195-the-in-crowd.json) |
 | The Inanimate Mr. Coatrack | 122847 | [122847-the-inanimate-mr-coatrack.json](./122847-the-inanimate-mr-coatrack.json) |
@@ -14315,6 +14320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sorcerer's Sword | 244212 | [244212-the-sorcerers-sword.json](./244212-the-sorcerers-sword.json) |
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
+| The Sorrow of Gadhlan' Thur | 333870 | [333870-the-sorrow-of-gadhlan-thur.json](./333870-the-sorrow-of-gadhlan-thur.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
 | The Sorrowvirus: A Faceless Short Story | 115716 | [115716-the-sorrowvirus-a-faceless-short-story.json](./115716-the-sorrowvirus-a-faceless-short-story.json) |
 | The Sorting Bureau | 397378 | [397378-the-sorting-bureau.json](./397378-the-sorting-bureau.json) |
@@ -28234,6 +28240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical nightmare | 99603 | [99603-typical-nightmare.json](./99603-typical-nightmare.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
+| TypInc. | 334037 | [334037-typinc.json](./334037-typinc.json) |
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
 | Typing Bullets | 251727 | [251727-typing-bullets.json](./251727-typing-bullets.json) |
 | Typing Champ 1987 | 185346 | [185346-typing-champ-1987.json](./185346-typing-champ-1987.json) |
