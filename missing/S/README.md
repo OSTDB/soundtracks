@@ -6128,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
 | Shape Together | 402374 | [402374-shape-together.json](./402374-shape-together.json) |
 | Shape Up | 20312 | [20312-shape-up.json](./20312-shape-up.json) |
+| Shape Up Battle Run | 364454 | [364454-shape-up-battle-run.json](./364454-shape-up-battle-run.json) |
 | Shape Up: Gold Edition | 227178 | [227178-shape-up-gold-edition.json](./227178-shape-up-gold-edition.json) |
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
 | Shape Warzone | 345098 | [345098-shape-warzone.json](./345098-shape-warzone.json) |
@@ -7961,6 +7962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Forever After | 210458 | [210458-shrek-forever-after.json](./210458-shrek-forever-after.json) |
 | Shrek Forever After | 243271 | [243271-shrek-forever-after.json](./243271-shrek-forever-after.json) |
 | Shrek Game Land Activity Center | 9208 | [9208-shrek-game-land-activity-center.json](./9208-shrek-game-land-activity-center.json) |
+| Shrek Jumble Rumble | 364541 | [364541-shrek-jumble-rumble.json](./364541-shrek-jumble-rumble.json) |
 | Shrek Kart | 395759 | [395759-shrek-kart.json](./395759-shrek-kart.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
@@ -24443,6 +24445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Party | 326814 | [326814-sudoku-party.json](./326814-sudoku-party.json) |
 | Sudoku Party | 84915 | [84915-sudoku-party.json](./84915-sudoku-party.json) |
 | Sudoku Plug & Play | 264992 | [264992-sudoku-plug-and-play.json](./264992-sudoku-plug-and-play.json) |
+| Sudoku Pocket | 364427 | [364427-sudoku-pocket.json](./364427-sudoku-pocket.json) |
 | Sudoku Portal | 232380 | [232380-sudoku-portal.json](./232380-sudoku-portal.json) |
 | Sudoku Pro | 348394 | [348394-sudoku-pro.json](./348394-sudoku-pro.json) |
 | Sudoku Pro+ | 267454 | [267454-sudoku-pro.json](./267454-sudoku-pro.json) |
@@ -29966,7 +29969,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Electro Swing Essentials 2 | 356902 | [356902-synth-riders-electro-swing-essentials-2.json](./356902-synth-riders-electro-swing-essentials-2.json) |
 | Synth Riders: Gorillaz Music Pack | 382179 | [382179-synth-riders-gorillaz-music-pack.json](./382179-synth-riders-gorillaz-music-pack.json) |
 | Synth Riders: Groovin' Essentials | 356180 | [356180-synth-riders-groovin-essentials.json](./356180-synth-riders-groovin-essentials.json) |
+| Synth Riders: Infected Mushroom - "Becoming Insane" | 364548 | [364548-synth-riders-infected-mushroom-becoming-insane.json](./364548-synth-riders-infected-mushroom-becoming-insane.json) |
 | Synth Riders: Infected Mushroom - "Black Velvet" (feat. Ninet Tayeb) | 364550 | [364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json](./364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json) |
+| Synth Riders: Infected Mushroom - "I Wish" | 364549 | [364549-synth-riders-infected-mushroom-i-wish.json](./364549-synth-riders-infected-mushroom-i-wish.json) |
 | Synth Riders: Infected Mushroom Music Pack | 364551 | [364551-synth-riders-infected-mushroom-music-pack.json](./364551-synth-riders-infected-mushroom-music-pack.json) |
 | Synth Riders: INXS - "New Sensation" | 298701 | [298701-synth-riders-inxs-new-sensation.json](./298701-synth-riders-inxs-new-sensation.json) |
 | Synth Riders: Jack Harlow - "Lovin On Me" | 354555 | [354555-synth-riders-jack-harlow-lovin-on-me.json](./354555-synth-riders-jack-harlow-lovin-on-me.json) |
