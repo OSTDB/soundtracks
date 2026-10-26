@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Ropes | 87176 | [87176-icy-ropes.json](./87176-icy-ropes.json) |
 | Icy Spell | 294863 | [294863-icy-spell.json](./294863-icy-spell.json) |
 | Icy Tower | 18095 | [18095-icy-tower.json](./18095-icy-tower.json) |
+| Icy Tower | 371201 | [371201-icy-tower.json](./371201-icy-tower.json) |
 | Icy Tower 2 | 326628 | [326628-icy-tower-2.json](./326628-icy-tower-2.json) |
 | Icy Tower Classic | 18096 | [18096-icy-tower-classic.json](./18096-icy-tower-classic.json) |
 | ICY: Frostbite Edition | 52095 | [52095-icy-frostbite-edition.json](./52095-icy-frostbite-edition.json) |
