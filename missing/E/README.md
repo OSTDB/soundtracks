@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Arguice no Tsubasa PC-8801mkIISR | 312082 | [312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json](./312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json) |
 | Eggconsole Babylon PC-8801mkIISR | 328528 | [328528-eggconsole-babylon-pc-8801mkiisr.json](./328528-eggconsole-babylon-pc-8801mkiisr.json) |
 | Eggconsole Carmine 88 PC-8801mkIISR | 330400 | [330400-eggconsole-carmine-88-pc-8801mkiisr.json](./330400-eggconsole-carmine-88-pc-8801mkiisr.json) |
+| Eggconsole Courageous Perseus PC-8801 | 386184 | [386184-eggconsole-courageous-perseus-pc-8801.json](./386184-eggconsole-courageous-perseus-pc-8801.json) |
 | Eggconsole Crimson II PC-8801mkIISR | 365538 | [365538-eggconsole-crimson-ii-pc-8801mkiisr.json](./365538-eggconsole-crimson-ii-pc-8801mkiisr.json) |
 | Eggconsole Crimson PC-8801mkIISR | 328527 | [328527-eggconsole-crimson-pc-8801mkiisr.json](./328527-eggconsole-crimson-pc-8801mkiisr.json) |
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
@@ -4402,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game Cake | 122037 | [122037-escape-game-cake.json](./122037-escape-game-cake.json) |
 | Escape Game Fort Boyard | 151474 | [151474-escape-game-fort-boyard.json](./151474-escape-game-fort-boyard.json) |
 | Escape Game R00m 05 | 362201 | [362201-escape-game-r00m-05.json](./362201-escape-game-r00m-05.json) |
+| Escape game R00m 09 | 386185 | [386185-escape-game-r00m-09.json](./386185-escape-game-r00m-09.json) |
 | Escape Game R00m 09 | 386791 | [386791-escape-game-r00m-09.json](./386791-escape-game-r00m-09.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
@@ -6263,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Limbo: Opening | 120725 | [120725-exit-limbo-opening.json](./120725-exit-limbo-opening.json) |
 | Exit Loops: Street 001 | 343058 | [343058-exit-loops-street-001.json](./343058-exit-loops-street-001.json) |
 | Exit Mask | 183354 | [183354-exit-mask.json](./183354-exit-mask.json) |
+| Exit of Truth! 40 Masterpiece Quiz | 386189 | [386189-exit-of-truth-40-masterpiece-quiz.json](./386189-exit-of-truth-40-masterpiece-quiz.json) |
 | Exit Path | 98228 | [98228-exit-path.json](./98228-exit-path.json) |
 | Exit Path 2 | 213282 | [213282-exit-path-2.json](./213282-exit-path-2.json) |
 | Exit Plan | 391229 | [391229-exit-plan.json](./391229-exit-plan.json) |
