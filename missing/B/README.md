@@ -800,7 +800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3208,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Blades | 68330 | [68330-battle-of-blades.json](./68330-battle-of-blades.json) |
 | Battle of Brains | 129646 | [129646-battle-of-brains.json](./129646-battle-of-brains.json) |
 | Battle of Britain | 13383 | [13383-battle-of-britain.json](./13383-battle-of-britain.json) |
+| Battle of Britain | 371844 | [371844-battle-of-britain.json](./371844-battle-of-britain.json) |
 | Battle of Britain | 386810 | [386810-battle-of-britain.json](./386810-battle-of-britain.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Britain, Norway and Atlantic | 226244 | [226244-battle-of-britain-norway-and-atlantic.json](./226244-battle-of-britain-norway-and-atlantic.json) |
@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle X: Birth of the Alliance | 110297 | [110297-battle-x-birth-of-the-alliance.json](./110297-battle-x-birth-of-the-alliance.json) |
 | Battle XXL | 208595 | [208595-battle-xxl.json](./208595-battle-xxl.json) |
 | Battle Zeque Den | 38215 | [38215-battle-zeque-den.json](./38215-battle-zeque-den.json) |
+| Battle Zombie | 371848 | [371848-battle-zombie.json](./371848-battle-zombie.json) |
 | Battle Zombie Shooter: Survival of the Dead | 100565 | [100565-battle-zombie-shooter-survival-of-the-dead.json](./100565-battle-zombie-shooter-survival-of-the-dead.json) |
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
 | Battle Zone | 71892 | [71892-battle-zone.json](./71892-battle-zone.json) |
@@ -5494,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserker's Domain | 350024 | [350024-berserkers-domain.json](./350024-berserkers-domain.json) |
 | Bert and the Snake | 93130 | [93130-bert-and-the-snake.json](./93130-bert-and-the-snake.json) |
 | Bert the Barbarian | 178830 | [178830-bert-the-barbarian.json](./178830-bert-the-barbarian.json) |
+| Bert: The Game | 371934 | [371934-bert-the-game.json](./371934-bert-the-game.json) |
 | Bert's Family Feud: The Interactive DVD Game | 231831 | [231831-berts-family-feud-the-interactive-dvd-game.json](./231831-berts-family-feud-the-interactive-dvd-game.json) |
 | Bertha Butt's Boogie | 314367 | [314367-bertha-butts-boogie.json](./314367-bertha-butts-boogie.json) |
 | Bertie the Brain | 19157 | [19157-bertie-the-brain.json](./19157-bertie-the-brain.json) |
@@ -7861,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwater Exchange | 407396 | [407396-blackwater-exchange.json](./407396-blackwater-exchange.json) |
 | Blackwell Unbound | 9041 | [9041-blackwell-unbound.json](./9041-blackwell-unbound.json) |
 | BlackWhite | 201105 | [201105-blackwhite.json](./201105-blackwhite.json) |
+| Blackwood | 371847 | [371847-blackwood.json](./371847-blackwood.json) |
 | Blackwood Division | 373110 | [373110-blackwood-division.json](./373110-blackwood-division.json) |
 | Blackwood: A Sétima Safra | 423896 | [423896-blackwood-a-setima-safra.json](./423896-blackwood-a-setima-safra.json) |
 | Blackwood: Beneath the Silence | 365181 | [365181-blackwood-beneath-the-silence.json](./365181-blackwood-beneath-the-silence.json) |
