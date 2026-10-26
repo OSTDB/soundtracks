@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles: The Orient | 357880 | [357880-fantasy-jigsaw-puzzles-the-orient.json](./357880-fantasy-jigsaw-puzzles-the-orient.json) |
 | Fantasy Journey | 245368 | [245368-fantasy-journey.json](./245368-fantasy-journey.json) |
 | Fantasy Journey | 413489 | [413489-fantasy-journey.json](./413489-fantasy-journey.json) |
+| Fantasy Kingdom Defense HD | 381651 | [381651-fantasy-kingdom-defense-hd.json](./381651-fantasy-kingdom-defense-hd.json) |
 | Fantasy Kingdom Merchant Simulator | 395531 | [395531-fantasy-kingdom-merchant-simulator.json](./395531-fantasy-kingdom-merchant-simulator.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Knight | 400435 | [400435-fantasy-knight.json](./400435-fantasy-knight.json) |
@@ -8541,6 +8542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: World Is Mine | 370574 | [370574-fortnite-festival-world-is-mine.json](./370574-fortnite-festival-world-is-mine.json) |
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
 | Fortnite OG | 324915 | [324915-fortnite-og.json](./324915-fortnite-og.json) |
+| Fortnite OG: Chapter 1 Season 1 | 381646 | [381646-fortnite-og-chapter-1-season-1.json](./381646-fortnite-og-chapter-1-season-1.json) |
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
 | Fortnite OG: Chapter 1 Season 3 | 342490 | [342490-fortnite-og-chapter-1-season-3.json](./342490-fortnite-og-chapter-1-season-3.json) |
 | Fortnite OG: Chapter 1 Season 5 | 361184 | [361184-fortnite-og-chapter-1-season-5.json](./361184-fortnite-og-chapter-1-season-5.json) |
