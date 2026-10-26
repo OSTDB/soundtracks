@@ -1202,6 +1202,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Axis Operations - 1946 | 270062 | [270062-panzer-corps-2-axis-operations-1946.json](./270062-panzer-corps-2-axis-operations-1946.json) |
 | Panzer Corps 2: Axis Operations - Spanish Civil War | 155049 | [155049-panzer-corps-2-axis-operations-spanish-civil-war.json](./155049-panzer-corps-2-axis-operations-spanish-civil-war.json) |
 | Panzer Corps 2: Elite - Ghost Division | 370129 | [370129-panzer-corps-2-elite-ghost-division.json](./370129-panzer-corps-2-elite-ghost-division.json) |
+| Panzer Corps 2: Frontlines - Cyrenaica | 361177 | [361177-panzer-corps-2-frontlines-cyrenaica.json](./361177-panzer-corps-2-frontlines-cyrenaica.json) |
+| Panzer Corps 2: Frontlines - Westwall | 361176 | [361176-panzer-corps-2-frontlines-westwall.json](./361176-panzer-corps-2-frontlines-westwall.json) |
 | Panzer Corps 2: War Stories - Fall of Poland | 312303 | [312303-panzer-corps-2-war-stories-fall-of-poland.json](./312303-panzer-corps-2-war-stories-fall-of-poland.json) |
 | Panzer Corps: Afrika Korps | 64281 | [64281-panzer-corps-afrika-korps.json](./64281-panzer-corps-afrika-korps.json) |
 | Panzer Corps: Allied Corps | 124793 | [124793-panzer-corps-allied-corps.json](./124793-panzer-corps-allied-corps.json) |
@@ -7871,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies | 275575 | [275575-plants-vs-zombies.json](./275575-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342043 | [342043-plants-vs-zombies.json](./342043-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
+| Plants vs. Zombies 2 Gardendless | 361106 | [361106-plants-vs-zombies-2-gardendless.json](./361106-plants-vs-zombies-2-gardendless.json) |
 | Plants vs. Zombies 2: A Journey Through Time and Space | 287879 | [287879-plants-vs-zombies-2-a-journey-through-time-and-space.json](./287879-plants-vs-zombies-2-a-journey-through-time-and-space.json) |
 | Plants vs. Zombies 2: Garden Rush | 272845 | [272845-plants-vs-zombies-2-garden-rush.json](./272845-plants-vs-zombies-2-garden-rush.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
