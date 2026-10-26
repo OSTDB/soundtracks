@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily's Flights | 174531 | [174531-emilys-flights.json](./174531-emilys-flights.json) |
 | Emily's Hotel Solitaire | 227854 | [227854-emilys-hotel-solitaire.json](./227854-emilys-hotel-solitaire.json) |
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
+| Eminent Domain | 361091 | [361091-eminent-domain.json](./361091-eminent-domain.json) |
 | Eminus | 143380 | [143380-eminus.json](./143380-eminus.json) |
 | Emio: The Smiling Man - Famicom Detective Club | 308052 | [308052-emio-the-smiling-man-famicom-detective-club.json](./308052-emio-the-smiling-man-famicom-detective-club.json) |
 | Emirati Tales | 349378 | [349378-emirati-tales.json](./349378-emirati-tales.json) |
@@ -4782,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESP: ExtraSensitive Pervert | 326172 | [326172-esp-extrasensitive-pervert.json](./326172-esp-extrasensitive-pervert.json) |
 | Espace | 346090 | [346090-espace.json](./346090-espace.json) |
 | Espacio | 202252 | [202252-espacio.json](./202252-espacio.json) |
+| Espacio | 361104 | [361104-espacio.json](./361104-espacio.json) |
 | Espagnol avec Rayman | 193348 | [193348-espagnol-avec-rayman.json](./193348-espagnol-avec-rayman.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Espana 1936 | 129582 | [129582-espana-1936.json](./129582-espana-1936.json) |
@@ -5711,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
 | Everspace: Encounters | 74892 | [74892-everspace-encounters.json](./74892-everspace-encounters.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
+| Everspace: Ultimate Edition | 361101 | [361101-everspace-ultimate-edition.json](./361101-everspace-ultimate-edition.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Everstorm | 283100 | [283100-everstorm.json](./283100-everstorm.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
