@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain World: Slugcat's Lifecycle Edition | 370699 | [370699-rain-world-slugcats-lifecycle-edition.json](./370699-rain-world-slugcats-lifecycle-edition.json) |
 | Rain World: The Watcher | 297737 | [297737-rain-world-the-watcher.json](./297737-rain-world-the-watcher.json) |
 | Rain, House, Eternity | 143082 | [143082-rain-house-eternity.json](./143082-rain-house-eternity.json) |
+| Rain;Check | 345151 | [345151-rain-check.json](./345151-rain-check.json) |
 | Rain's Golf | 414384 | [414384-rains-golf.json](./414384-rains-golf.json) |
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
