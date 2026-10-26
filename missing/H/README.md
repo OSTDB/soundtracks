@@ -7093,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
 | Hlípa | 131414 | [131414-hlipa.json](./131414-hlipa.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
+| HMUR | 359893 | [359893-hmur.json](./359893-hmur.json) |
 | Hnefatafl | 133083 | [133083-hnefatafl.json](./133083-hnefatafl.json) |
 | Hnefatafl Online | 291399 | [291399-hnefatafl-online.json](./291399-hnefatafl-online.json) |
 | Ho Ho Ho Sokoban | 411131 | [411131-ho-ho-ho-sokoban.json](./411131-ho-ho-ho-sokoban.json) |
