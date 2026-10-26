@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangstar: West Coast Hustle | 23263 | [23263-gangstar-west-coast-hustle.json](./23263-gangstar-west-coast-hustle.json) |
 | Gangster | 13855 | [13855-gangster.json](./13855-gangster.json) |
 | Gangster Alley | 18555 | [18555-gangster-alley.json](./18555-gangster-alley.json) |
+| Gangster Boss Simulator | 348160 | [348160-gangster-boss-simulator.json](./348160-gangster-boss-simulator.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
 | Gangster City | 342483 | [342483-gangster-city.json](./342483-gangster-city.json) |
 | Gangster City Cruise - Mobster Crime Shooter | 88636 | [88636-gangster-city-cruise-mobster-crime-shooter.json](./88636-gangster-city-cruise-mobster-crime-shooter.json) |
@@ -5284,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Express | 118598 | [118598-gold-express.json](./118598-gold-express.json) |
 | Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
+| Gold for Retirement | 348181 | [348181-gold-for-retirement.json](./348181-gold-for-retirement.json) |
 | Gold Games 3 | 161710 | [161710-gold-games-3.json](./161710-gold-games-3.json) |
 | Gold Girls | 284272 | [284272-gold-girls.json](./284272-gold-girls.json) |
 | Gold Grabbing Goblin | 271627 | [271627-gold-grabbing-goblin.json](./271627-gold-grabbing-goblin.json) |
@@ -5584,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
 | Golf Pro | 247062 | [247062-golf-pro.json](./247062-golf-pro.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
+| Golf Pro Simulator | 348167 | [348167-golf-pro-simulator.json](./348167-golf-pro-simulator.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
 | Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
 | Golf Rival | 107547 | [107547-golf-rival.json](./107547-golf-rival.json) |
@@ -8141,6 +8144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groovy | 201709 | [201709-groovy.json](./201709-groovy.json) |
 | Groovy | 35203 | [35203-groovy.json](./35203-groovy.json) |
 | Groovy Labs | 336861 | [336861-groovy-labs.json](./336861-groovy-labs.json) |
+| Grorb: Grow the Orb | 348141 | [348141-grorb-grow-the-orb.json](./348141-grorb-grow-the-orb.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
 | Grot Slasher | 203668 | [203668-grot-slasher.json](./203668-grot-slasher.json) |
@@ -9246,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Lords | 196537 | [196537-guns-and-lords.json](./196537-guns-and-lords.json) |
 | Guns and Nuns: Storming Hell | 381085 | [381085-guns-and-nuns-storming-hell.json](./381085-guns-and-nuns-storming-hell.json) |
+| Guns and Spookies | 348151 | [348151-guns-and-spookies.json](./348151-guns-and-spookies.json) |
 | Guns and Spurs | 50372 | [50372-guns-and-spurs.json](./50372-guns-and-spurs.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
