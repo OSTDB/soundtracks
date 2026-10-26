@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sai | 185100 | [185100-sai.json](./185100-sai.json) |
 | Sai | 251071 | [251071-sai.json](./251071-sai.json) |
 | Sai Combat | 26435 | [26435-sai-combat.json](./26435-sai-combat.json) |
+| SAI: Immediate Assistance Service | 375784 | [375784-sai-immediate-assistance-service.json](./375784-sai-immediate-assistance-service.json) |
 | Saiaku Tantei Kanojo | 150115 | [150115-saiaku-tantei-kanojo.json](./150115-saiaku-tantei-kanojo.json) |
 | Saibara Rieko no Dendou Mahjong | 49794 | [49794-saibara-rieko-no-dendou-mahjong.json](./49794-saibara-rieko-no-dendou-mahjong.json) |
 | Saibara Rieko no Mahjong Hourouki | 37866 | [37866-saibara-rieko-no-mahjong-hourouki.json](./37866-saibara-rieko-no-mahjong-hourouki.json) |
@@ -3886,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of War | 117632 | [117632-secrets-of-war.json](./117632-secrets-of-war.json) |
 | Secrets of Worlds: Mystery Agency - Collector's Edition | 338061 | [338061-secrets-of-worlds-mystery-agency-collectors-edition.json](./338061-secrets-of-worlds-mystery-agency-collectors-edition.json) |
 | Secrets of Wynne | 244503 | [244503-secrets-of-wynne.json](./244503-secrets-of-wynne.json) |
+| Secrets to Success: With Dr. Brain | 375928 | [375928-secrets-to-success-with-dr-brain.json](./375928-secrets-to-success-with-dr-brain.json) |
 | Secrets Under Eco | 287184 | [287184-secrets-under-eco.json](./287184-secrets-under-eco.json) |
 | Secrets Untold | 182750 | [182750-secrets-untold.json](./182750-secrets-untold.json) |
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
@@ -29498,6 +29500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Quest | 57380 | [57380-sword-quest.json](./57380-sword-quest.json) |
 | Sword Road | 338751 | [338751-sword-road.json](./338751-sword-road.json) |
 | Sword Rogue | 150435 | [150435-sword-rogue.json](./150435-sword-rogue.json) |
+| Sword Sage: Awakening | 375869 | [375869-sword-sage-awakening.json](./375869-sword-sage-awakening.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword Shop | 182738 | [182738-sword-shop.json](./182738-sword-shop.json) |
 | Sword Slayer | 63789 | [63789-sword-slayer.json](./63789-sword-slayer.json) |
