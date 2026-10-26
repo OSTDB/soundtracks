@@ -3218,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom First Timers | 392445 | [392445-femdom-first-timers.json](./392445-femdom-first-timers.json) |
 | Femdom Game World: Stacy | 312709 | [312709-femdom-game-world-stacy.json](./312709-femdom-game-world-stacy.json) |
 | Femdom Girlfriend 5: Sophie's Morning Torment | 384847 | [384847-femdom-girlfriend-5-sophies-morning-torment.json](./384847-femdom-girlfriend-5-sophies-morning-torment.json) |
+| Femdom Girlfriend 6: Selene, the Mega-Bitch | 385629 | [385629-femdom-girlfriend-6-selene-the-mega-bitch.json](./385629-femdom-girlfriend-6-selene-the-mega-bitch.json) |
 | Femdom Girlfriend 7: Big-Breasted Bully | 384848 | [384848-femdom-girlfriend-7-big-breasted-bully.json](./384848-femdom-girlfriend-7-big-breasted-bully.json) |
 | Femdom Girlfriend 8: Sensual Femdom | 384849 | [384849-femdom-girlfriend-8-sensual-femdom.json](./384849-femdom-girlfriend-8-sensual-femdom.json) |
 | Femdom Girlfriend 9: Yuki's Femdom Beatdown | 384850 | [384850-femdom-girlfriend-9-yukis-femdom-beatdown.json](./384850-femdom-girlfriend-9-yukis-femdom-beatdown.json) |
@@ -6706,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock Frenzy | 386259 | [386259-flock-frenzy.json](./386259-flock-frenzy.json) |
 | Flock of Dogs | 108283 | [108283-flock-of-dogs.json](./108283-flock-of-dogs.json) |
 | Flock of the Low God VR | 244723 | [244723-flock-of-the-low-god-vr.json](./244723-flock-of-the-low-god-vr.json) |
+| Flock of the Seraphim | 385681 | [385681-flock-of-the-seraphim.json](./385681-flock-of-the-seraphim.json) |
 | Flock Off! | 405333 | [405333-flock-off.json](./405333-flock-off.json) |
 | Flock Party | 250869 | [250869-flock-party.json](./250869-flock-party.json) |
 | Flock VR | 30108 | [30108-flock-vr.json](./30108-flock-vr.json) |
@@ -6789,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
 | Floppy Frenzy | 25137 | [25137-floppy-frenzy.json](./25137-floppy-frenzy.json) |
 | Floppy From Outer Space | 183347 | [183347-floppy-from-outer-space.json](./183347-floppy-from-outer-space.json) |
+| Floppy Jump 3-in-1 | 385550 | [385550-floppy-jump-3-in-1.json](./385550-floppy-jump-3-in-1.json) |
 | Floppy Knights | 130182 | [130182-floppy-knights.json](./130182-floppy-knights.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
@@ -9303,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
 | FrankenSketch | 413808 | [413808-frankensketch.json](./413808-frankensketch.json) |
 | Frankenstein | 37191 | [37191-frankenstein.json](./37191-frankenstein.json) |
+| Frankenstein | 385548 | [385548-frankenstein.json](./385548-frankenstein.json) |
 | Frankenstein 2000 | 57169 | [57169-frankenstein-2000.json](./57169-frankenstein-2000.json) |
 | Frankenstein Jnr. | 13441 | [13441-frankenstein-jnr.json](./13441-frankenstein-jnr.json) |
 | Frankenstein: Beyond the Time | 103752 | [103752-frankenstein-beyond-the-time.json](./103752-frankenstein-beyond-the-time.json) |
