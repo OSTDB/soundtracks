@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnia | 123530 | [123530-magnia.json](./123530-magnia.json) |
 | Magnibox | 116051 | [116051-magnibox.json](./116051-magnibox.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
+| Magnificent Moths | 354916 | [354916-magnificent-moths.json](./354916-magnificent-moths.json) |
 | Magnificent Ships: Volume 2 | 34664 | [34664-magnificent-ships-volume-2.json](./34664-magnificent-ships-volume-2.json) |
 | Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
 | Magnifico | 17781 | [17781-magnifico.json](./17781-magnifico.json) |
@@ -7653,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeowSon | 391095 | [391095-meowson.json](./391095-meowson.json) |
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
+| Meowstoria | 355579 | [355579-meowstoria.json](./355579-meowstoria.json) |
 | Meowter Space | 239607 | [239607-meowter-space.json](./239607-meowter-space.json) |
 | Meowth's Party | 255838 | [255838-meowths-party.json](./255838-meowths-party.json) |
 | MeowWare | 344511 | [344511-meowware.json](./344511-meowware.json) |
@@ -12198,6 +12200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Module | 372651 | [372651-module.json](./372651-module.json) |
 | Module Miner | 368586 | [368586-module-miner.json](./368586-module-miner.json) |
 | Module TD. Sci Fi Tower Defense | 103350 | [103350-module-td-sci-fi-tower-defense.json](./103350-module-td-sci-fi-tower-defense.json) |
+| Module:Berserk | 355597 | [355597-module-berserk.json](./355597-module-berserk.json) |
 | Modulea | 373823 | [373823-modulea.json](./373823-modulea.json) |
 | Modulo | 142774 | [142774-modulo.json](./142774-modulo.json) |
 | Modulor | 265321 | [265321-modulor.json](./265321-modulor.json) |
@@ -12638,6 +12641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Movers 2 | 95983 | [95983-money-movers-2.json](./95983-money-movers-2.json) |
 | Money Munchers | 59890 | [59890-money-munchers.json](./59890-money-munchers.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
+| Money Planet | 354918 | [354918-money-planet.json](./354918-money-planet.json) |
 | Money Puzzle Exchanger | 37280 | [37280-money-puzzle-exchanger.json](./37280-money-puzzle-exchanger.json) |
 | Money Run | 197138 | [197138-money-run.json](./197138-money-run.json) |
 | Money Simulator | 304431 | [304431-money-simulator.json](./304431-money-simulator.json) |
