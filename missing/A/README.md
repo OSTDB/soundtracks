@@ -3069,7 +3069,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4736,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aivern | 341148 | [341148-aivern.json](./341148-aivern.json) |
 | Aivolution | 114093 | [114093-aivolution.json](./114093-aivolution.json) |
 | Aivx Push | 372791 | [372791-aivx-push.json](./372791-aivx-push.json) |
+| Aixin: Goddess' Love | 373064 | [373064-aixin-goddess-love.json](./373064-aixin-goddess-love.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
 | Aiyoku no Eustia: Angel's Blessing | 62075 | [62075-aiyoku-no-eustia-angels-blessing.json](./62075-aiyoku-no-eustia-angels-blessing.json) |
 | Aiyoku no Eustia: Angel's Blessing | 8631 | [8631-aiyoku-no-eustia-angels-blessing.json](./8631-aiyoku-no-eustia-angels-blessing.json) |
@@ -6693,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amane Switch | 166081 | [166081-amane-switch.json](./166081-amane-switch.json) |
 | Amaneku Tenshi ni Yakusoku wo | 381633 | [381633-amaneku-tenshi-ni-yakusoku-wo.json](./381633-amaneku-tenshi-ni-yakusoku-wo.json) |
 | Amanita | 229000 | [229000-amanita.json](./229000-amanita.json) |
+| Amanita | 373035 | [373035-amanita.json](./373035-amanita.json) |
 | Amanita August | 334793 | [334793-amanita-august.json](./334793-amanita-august.json) |
 | Amant | 258183 | [258183-amant.json](./258183-amant.json) |
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
@@ -12982,6 +12983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Blaster | 217824 | [217824-asteroid-blaster.json](./217824-asteroid-blaster.json) |
 | Asteroid Blasters | 160125 | [160125-asteroid-blasters.json](./160125-asteroid-blasters.json) |
 | Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
+| Asteroid Boom Cosmic Courier | 373061 | [373061-asteroid-boom-cosmic-courier.json](./373061-asteroid-boom-cosmic-courier.json) |
 | Asteroid Bounty Hunter | 20367 | [20367-asteroid-bounty-hunter.json](./20367-asteroid-bounty-hunter.json) |
 | Asteroid Breaker: Avoid the DizAsteroid | 105955 | [105955-asteroid-breaker-avoid-the-dizasteroid.json](./105955-asteroid-breaker-avoid-the-dizasteroid.json) |
 | Asteroid Challenge | 85505 | [85505-asteroid-challenge.json](./85505-asteroid-challenge.json) |
