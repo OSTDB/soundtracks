@@ -2331,7 +2331,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4116,6 +4115,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodomo Chousadan Mighty Pockets: Chousa 3 - Kyakusen Queen Patra no Nazo | 179966 | [179966-kodomo-chousadan-mighty-pockets-chousa-3-kyakusen-queen-patra-no-nazo.json](./179966-kodomo-chousadan-mighty-pockets-chousa-3-kyakusen-queen-patra-no-nazo.json) |
 | Kodomo-tachi no Kuni Magic Children | 353375 | [353375-kodomo-tachi-no-kuni-magic-children.json](./353375-kodomo-tachi-no-kuni-magic-children.json) |
 | Kodure Ookami | 40087 | [40087-kodure-ookami.json](./40087-kodure-ookami.json) |
+| Kody's Purgatory | 373602 | [373602-kodys-purgatory.json](./373602-kodys-purgatory.json) |
+| Kody's Purgatory: Kenshi | 373605 | [373605-kodys-purgatory-kenshi.json](./373605-kodys-purgatory-kenshi.json) |
 | Koe | 50532 | [50532-koe.json](./50532-koe.json) |
 | Koe de Asobou! HeartCatch PreCure! | 123342 | [123342-koe-de-asobou-heartcatch-precure.json](./123342-koe-de-asobou-heartcatch-precure.json) |
 | Koe wo Tayori ni SP | 83818 | [83818-koe-wo-tayori-ni-sp.json](./83818-koe-wo-tayori-ni-sp.json) |
