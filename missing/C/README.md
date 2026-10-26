@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas 2: Niji-iro no Sketch | 269410 | [269410-canvas-2-niji-iro-no-sketch.json](./269410-canvas-2-niji-iro-no-sketch.json) |
 | Canvas 3: Tanshoku no Pastel | 269411 | [269411-canvas-3-tanshoku-no-pastel.json](./269411-canvas-3-tanshoku-no-pastel.json) |
 | Canvas Attack! | 397295 | [397295-canvas-attack.json](./397295-canvas-attack.json) |
+| Canvas City | 379938 | [379938-canvas-city.json](./379938-canvas-city.json) |
 | Canvas Colors: In the Moving City | 161156 | [161156-canvas-colors-in-the-moving-city.json](./161156-canvas-colors-in-the-moving-city.json) |
 | Canvas Croquis | 40074 | [40074-canvas-croquis.json](./40074-canvas-croquis.json) |
 | Canvas Intruder | 316142 | [316142-canvas-intruder.json](./316142-canvas-intruder.json) |
@@ -12982,6 +12983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Kingdom | 362198 | [362198-cozy-kingdom.json](./362198-cozy-kingdom.json) |
 | Cozy Life Collection | 393632 | [393632-cozy-life-collection.json](./393632-cozy-life-collection.json) |
 | Cozy Liora | 400883 | [400883-cozy-liora.json](./400883-cozy-liora.json) |
+| Cozy Littlequarium | 379944 | [379944-cozy-littlequarium.json](./379944-cozy-littlequarium.json) |
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
 | Cozy Meadow | 335353 | [335353-cozy-meadow.json](./335353-cozy-meadow.json) |
 | Cozy Mozy | 399153 | [399153-cozy-mozy.json](./399153-cozy-mozy.json) |
@@ -15479,12 +15481,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
+| Crystar: Limited Edition | 379946 | [379946-crystar-limited-edition.json](./379946-crystar-limited-edition.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
 | Crystball | 64807 | [64807-crystball.json](./64807-crystball.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
 | Crystian and Lost Crystals | 418210 | [418210-crystian-and-lost-crystals.json](./418210-crystian-and-lost-crystals.json) |
 | Crystle Castles | 80391 | [80391-crystle-castles.json](./80391-crystle-castles.json) |
 | Cryzen.io | 282507 | [282507-cryzen-io.json](./282507-cryzen-io.json) |
+| Cryzon Part 2 | 379909 | [379909-cryzon-part-2.json](./379909-cryzon-part-2.json) |
 | Cryzon Part1 | 371419 | [371419-cryzon-part1.json](./371419-cryzon-part1.json) |
 | Cryzon Part4 | 394384 | [394384-cryzon-part4.json](./394384-cryzon-part4.json) |
 | CS Diamantes Pipas: Kite Game | 339348 | [339348-cs-diamantes-pipas-kite-game.json](./339348-cs-diamantes-pipas-kite-game.json) |
