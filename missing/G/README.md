@@ -4248,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomy Toons | 140995 | [140995-gloomy-toons.json](./140995-gloomy-toons.json) |
 | Gloomy Village | 265348 | [265348-gloomy-village.json](./265348-gloomy-village.json) |
 | Gloop | 236955 | [236955-gloop.json](./236955-gloop.json) |
+| Gloop | 368982 | [368982-gloop.json](./368982-gloop.json) |
 | Gloop | 390745 | [390745-gloop.json](./390745-gloop.json) |
 | Gloop Deluxe | 92302 | [92302-gloop-deluxe.json](./92302-gloop-deluxe.json) |
 | Gloopalaxy | 393983 | [393983-gloopalaxy.json](./393983-gloopalaxy.json) |
@@ -4899,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
 | God Killer Aria | 182473 | [182473-god-killer-aria.json](./182473-god-killer-aria.json) |
 | God Kings | 142246 | [142246-god-kings.json](./142246-god-kings.json) |
+| God Klaw | 368985 | [368985-god-klaw.json](./368985-god-klaw.json) |
 | God Marionette | 82868 | [82868-god-marionette.json](./82868-god-marionette.json) |
 | God Medicine: Fantasy Sekai no Tanjou | 60782 | [60782-god-medicine-fantasy-sekai-no-tanjou.json](./60782-god-medicine-fantasy-sekai-no-tanjou.json) |
 | God Mode | 8949 | [8949-god-mode.json](./8949-god-mode.json) |
