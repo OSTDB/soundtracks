@@ -3397,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat With Gun | 363369 | [363369-cat-with-gun.json](./363369-cat-with-gun.json) |
 | Cat Word Poker | 131313 | [131313-cat-word-poker.json](./131313-cat-word-poker.json) |
 | Cat World | 201988 | [201988-cat-world.json](./201988-cat-world.json) |
+| Cat-a-strophic | 354914 | [354914-cat-a-strophic.json](./354914-cat-a-strophic.json) |
 | Cat-aclysm | 251948 | [251948-cat-aclysm.json](./251948-cat-aclysm.json) |
 | Cat-Car Mission | 359421 | [359421-cat-car-mission.json](./359421-cat-car-mission.json) |
 | Cat-Like Concentration | 276721 | [276721-cat-like-concentration.json](./276721-cat-like-concentration.json) |
@@ -12463,6 +12464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Horizon - Icosahedron Video Game Puzzle | 76715 | [76715-cosmic-horizon-icosahedron-video-game-puzzle.json](./76715-cosmic-horizon-icosahedron-video-game-puzzle.json) |
 | Cosmic Horizon - World First 3D Game Puzzle Ever | 76717 | [76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json](./76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json) |
 | Cosmic Horizons: Path of the Wanderer | 278552 | [278552-cosmic-horizons-path-of-the-wanderer.json](./278552-cosmic-horizons-path-of-the-wanderer.json) |
+| Cosmic Husbandry | 354917 | [354917-cosmic-husbandry.json](./354917-cosmic-husbandry.json) |
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
 | Cosmic Kites | 38814 | [38814-cosmic-kites.json](./38814-cosmic-kites.json) |
