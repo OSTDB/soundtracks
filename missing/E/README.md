@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic World Z | 150698 | [150698-electronic-world-z.json](./150698-electronic-world-z.json) |
 | Electronics Circuits Simulator | 41919 | [41919-electronics-circuits-simulator.json](./41919-electronics-circuits-simulator.json) |
 | Electronics Puzzle Lab | 264799 | [264799-electronics-puzzle-lab.json](./264799-electronics-puzzle-lab.json) |
+| Electronics Puzzle Lab 1 & 2 Collection | 378830 | [378830-electronics-puzzle-lab-1-and-2-collection.json](./378830-electronics-puzzle-lab-1-and-2-collection.json) |
 | Electronics Puzzle Lab 2 | 362342 | [362342-electronics-puzzle-lab-2.json](./362342-electronics-puzzle-lab-2.json) |
 | Electronics Shop Simulator | 392100 | [392100-electronics-shop-simulator.json](./392100-electronics-shop-simulator.json) |
 | Electronics Supermarket Simulator | 326445 | [326445-electronics-supermarket-simulator.json](./326445-electronics-supermarket-simulator.json) |
@@ -6534,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explora III: Sous le Signe du Serpent | 14181 | [14181-explora-iii-sous-le-signe-du-serpent.json](./14181-explora-iii-sous-le-signe-du-serpent.json) |
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
 | Exploration Adventures | 295689 | [295689-exploration-adventures.json](./295689-exploration-adventures.json) |
+| Exploration Escape Room Bundle | 378831 | [378831-exploration-escape-room-bundle.json](./378831-exploration-escape-room-bundle.json) |
 | Exploration Pro | 103971 | [103971-exploration-pro.json](./103971-exploration-pro.json) |
 | Exploration Space | 96846 | [96846-exploration-space.json](./96846-exploration-space.json) |
 | Exploration: Light | 269987 | [269987-exploration-light.json](./269987-exploration-light.json) |
