@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
 | Palavras Cruzadas: O Globo | 252063 | [252063-palavras-cruzadas-o-globo.json](./252063-palavras-cruzadas-o-globo.json) |
 | Palavrinhas | 329784 | [329784-palavrinhas.json](./329784-palavrinhas.json) |
+| Pale | 337011 | [337011-pale.json](./337011-pale.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
 | Pale Echoes | 35068 | [35068-pale-echoes.json](./35068-pale-echoes.json) |
@@ -1889,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite Eve II | 7358 | [7358-parasite-eve-ii.json](./7358-parasite-eve-ii.json) |
 | Parasite in City | 131839 | [131839-parasite-in-city.json](./131839-parasite-in-city.json) |
 | Parasite in Love | 219107 | [219107-parasite-in-love.json](./219107-parasite-in-love.json) |
+| Parasite Inside | 337012 | [337012-parasite-inside.json](./337012-parasite-inside.json) |
 | Parasite Mutant | 370711 | [370711-parasite-mutant.json](./370711-parasite-mutant.json) |
 | Parasite Pack | 207292 | [207292-parasite-pack.json](./207292-parasite-pack.json) |
 | Parasite Star | 177972 | [177972-parasite-star.json](./177972-parasite-star.json) |
@@ -2413,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patagonian Pilgrimage | 360755 | [360755-patagonian-pilgrimage.json](./360755-patagonian-pilgrimage.json) |
 | PataNoir | 33327 | [33327-patanoir.json](./33327-patanoir.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
+| Patapon 1+2 Replay | 337025 | [337025-patapon-1-2-replay.json](./337025-patapon-1-2-replay.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
 | Patapon 2 Remastered | 76961 | [76961-patapon-2-remastered.json](./76961-patapon-2-remastered.json) |
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
@@ -4617,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phelios | 19510 | [19510-phelios.json](./19510-phelios.json) |
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
+| Phenol's Pocket Photo Gallery Vol. 1 | 337010 | [337010-phenols-pocket-photo-gallery-vol-1.json](./337010-phenols-pocket-photo-gallery-vol-1.json) |
 | Phenomena | 407239 | [407239-phenomena.json](./407239-phenomena.json) |
 | Phenomena Embattled | 274335 | [274335-phenomena-embattled.json](./274335-phenomena-embattled.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
@@ -6408,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates | 298796 | [298796-pirates.json](./298796-pirates.json) |
 | Pirates & Pirater | 293537 | [293537-pirates-and-pirater.json](./293537-pirates-and-pirater.json) |
 | Pirates Adventure Solitaire | 341574 | [341574-pirates-adventure-solitaire.json](./341574-pirates-adventure-solitaire.json) |
+| Pirates Adventure Solitaire 2 | 336990 | [336990-pirates-adventure-solitaire-2.json](./336990-pirates-adventure-solitaire-2.json) |
 | Pirates Ahoy! | 182379 | [182379-pirates-ahoy.json](./182379-pirates-ahoy.json) |
 | Pirates and Aztecs | 298832 | [298832-pirates-and-aztecs.json](./298832-pirates-and-aztecs.json) |
 | Pirates and Traders | 39174 | [39174-pirates-and-traders.json](./39174-pirates-and-traders.json) |
