@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raji: Kaliyuga | 378233 | [378233-raji-kaliyuga.json](./378233-raji-kaliyuga.json) |
 | Rakan Ayah | 128226 | [128226-rakan-ayah.json](./128226-rakan-ayah.json) |
 | Rake | 353765 | [353765-rake.json](./353765-rake.json) |
+| Rake In: Scoring Big With Monster Girls! | 350892 | [350892-rake-in-scoring-big-with-monster-girls.json](./350892-rake-in-scoring-big-with-monster-girls.json) |
 | Rake Monster Hunter | 100840 | [100840-rake-monster-hunter.json](./100840-rake-monster-hunter.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
 | Rakeo | 301679 | [301679-rakeo.json](./301679-rakeo.json) |
@@ -4116,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remember | 128320 | [128320-remember.json](./128320-remember.json) |
+| Remember | 350935 | [350935-remember.json](./350935-remember.json) |
 | Remember Easter | 341380 | [341380-remember-easter.json](./341380-remember-easter.json) |
 | Remember Mary | 177961 | [177961-remember-mary.json](./177961-remember-mary.json) |
 | Remember Me | 372230 | [372230-remember-me.json](./372230-remember-me.json) |
@@ -6432,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio: Match 3 Party | 109178 | [109178-rio-match-3-party.json](./109178-rio-match-3-party.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
 | Rionag: Survey Fleet | 253862 | [253862-rionag-survey-fleet.json](./253862-rionag-survey-fleet.json) |
+| Rioo | 350890 | [350890-rioo.json](./350890-rioo.json) |
 | Rios de Lluvia | 335973 | [335973-rios-de-lluvia.json](./335973-rios-de-lluvia.json) |
 | Riot | 279702 | [279702-riot.json](./279702-riot.json) |
 | Riot | 74278 | [74278-riot.json](./74278-riot.json) |
