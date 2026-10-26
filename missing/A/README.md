@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Loddle to the Left | 324193 | [324193-a-loddle-to-the-left.json](./324193-a-loddle-to-the-left.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
 | A Loney | 207765 | [207765-a-loney.json](./207765-a-loney.json) |
+| A Long Climb Ago | 349207 | [349207-a-long-climb-ago.json](./349207-a-long-climb-ago.json) |
 | A Long Dark Night | 280102 | [280102-a-long-dark-night.json](./280102-a-long-dark-night.json) |
 | A Long Journey to an Uncertain End | 140296 | [140296-a-long-journey-to-an-uncertain-end.json](./140296-a-long-journey-to-an-uncertain-end.json) |
 | A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
@@ -2080,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: The Incomplete Story | 309972 | [309972-ace-attorney-the-incomplete-story.json](./309972-ace-attorney-the-incomplete-story.json) |
 | Ace Attorney: Turnabout Of A Legend | 303001 | [303001-ace-attorney-turnabout-of-a-legend.json](./303001-ace-attorney-turnabout-of-a-legend.json) |
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
+| Ace Attorneydle | 349208 | [349208-ace-attorneydle.json](./349208-ace-attorneydle.json) |
 | Ace Ball | 76162 | [76162-ace-ball.json](./76162-ace-ball.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
 | Ace Campus Club | 161561 | [161561-ace-campus-club.json](./161561-ace-campus-club.json) |
@@ -14395,6 +14397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurascope | 177951 | [177951-aurascope.json](./177951-aurascope.json) |
 | AuraTitan | 417677 | [417677-auratitan.json](./417677-auratitan.json) |
 | Aurcus Online | 132715 | [132715-aurcus-online.json](./132715-aurcus-online.json) |
+| Aure | 349251 | [349251-aure.json](./349251-aure.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
