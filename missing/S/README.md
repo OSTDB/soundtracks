@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schattenjäger | 380128 | [380128-schattenjager.json](./380128-schattenjager.json) |
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
 | Schbibinman Zero: Shockman Zero | 38226 | [38226-schbibinman-zero-shockman-zero.json](./38226-schbibinman-zero-shockman-zero.json) |
+| Schedule I: Dope Empire | 356511 | [356511-schedule-i-dope-empire.json](./356511-schedule-i-dope-empire.json) |
 | Schedule I: Mafia Empire | 350050 | [350050-schedule-i-mafia-empire.json](./350050-schedule-i-mafia-empire.json) |
 | Schedule Store Simulator | 406767 | [406767-schedule-store-simulator.json](./406767-schedule-store-simulator.json) |
 | Schemata | 90059 | [90059-schemata.json](./90059-schemata.json) |
@@ -3565,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seas of Kahtaone | 260300 | [260300-seas-of-kahtaone.json](./260300-seas-of-kahtaone.json) |
 | Seascape Paradiso | 304321 | [304321-seascape-paradiso.json](./304321-seascape-paradiso.json) |
 | Seashell | 195692 | [195692-seashell.json](./195692-seashell.json) |
+| Seashell Isle | 356536 | [356536-seashell-isle.json](./356536-seashell-isle.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
 | Seashells | 197922 | [197922-seashells.json](./197922-seashells.json) |
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
@@ -4928,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Server-Admin Simulator | 404189 | [404189-server-admin-simulator.json](./404189-server-admin-simulator.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
 | Service Station Car Parking | 96924 | [96924-service-station-car-parking.json](./96924-service-station-car-parking.json) |
+| Service With a Shotgun | 356554 | [356554-service-with-a-shotgun.json](./356554-service-with-a-shotgun.json) |
 | ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
 | Servo | 17509 | [17509-servo.json](./17509-servo.json) |
 | Servonauts | 260339 | [260339-servonauts.json](./260339-servonauts.json) |
