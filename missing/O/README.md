@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Gap | 285446 | [285446-ocean-gap.json](./285446-ocean-gap.json) |
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
 | Ocean Is Home: Survival Island | 86793 | [86793-ocean-is-home-survival-island.json](./86793-ocean-is-home-survival-island.json) |
+| Ocean Keeper Co-op | 371840 | [371840-ocean-keeper-co-op.json](./371840-ocean-keeper-co-op.json) |
 | Ocean Legend | 100699 | [100699-ocean-legend.json](./100699-ocean-legend.json) |
 | Ocean Legend | 100792 | [100792-ocean-legend.json](./100792-ocean-legend.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onyx | 35244 | [35244-onyx.json](./35244-onyx.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
+| Ooble Gardens | 371845 | [371845-ooble-gardens.json](./371845-ooble-gardens.json) |
 | Oodlescape - The Apocalypse | 29598 | [29598-oodlescape-the-apocalypse.json](./29598-oodlescape-the-apocalypse.json) |
 | Ooedo Blacksmith | 143445 | [143445-ooedo-blacksmith.json](./143445-ooedo-blacksmith.json) |
 | Ooedo Senryoubako | 269521 | [269521-ooedo-senryoubako.json](./269521-ooedo-senryoubako.json) |
