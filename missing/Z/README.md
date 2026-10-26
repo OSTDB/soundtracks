@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Attack Girls | 221816 | [221816-zombie-attack-girls.json](./221816-zombie-attack-girls.json) |
 | Zombie Attack Pinball HD: Monster Challenge | 89275 | [89275-zombie-attack-pinball-hd-monster-challenge.json](./89275-zombie-attack-pinball-hd-monster-challenge.json) |
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
+| Zombie Attack! | 343582 | [343582-zombie-attack.json](./343582-zombie-attack.json) |
 | Zombie Avenger | 233461 | [233461-zombie-avenger.json](./233461-zombie-avenger.json) |
 | Zombie Balloon Heads | 234132 | [234132-zombie-balloon-heads.json](./234132-zombie-balloon-heads.json) |
 | Zombie Balloon Heads 2 | 234141 | [234141-zombie-balloon-heads-2.json](./234141-zombie-balloon-heads-2.json) |
