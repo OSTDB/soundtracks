@@ -5202,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
 | Delving The Depths | 349994 | [349994-delving-the-depths.json](./349994-delving-the-depths.json) |
 | Delysium | 238078 | [238078-delysium.json](./238078-delysium.json) |
+| Dem Tanks | 348726 | [348726-dem-tanks.json](./348726-dem-tanks.json) |
 | DEM_Stage_Zero | 127369 | [127369-dem-stage-zero.json](./127369-dem-stage-zero.json) |
 | DeMagnete VR | 115066 | [115066-demagnete-vr.json](./115066-demagnete-vr.json) |
 | Demake86 | 412460 | [412460-demake86.json](./412460-demake86.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déraciné | 103332 | [103332-deracine.json](./103332-deracine.json) |
 | Déraciné: Collector's Edition | 136701 | [136701-deracine-collectors-edition.json](./136701-deracine-collectors-edition.json) |
 | Derail: Sacrifice | 351057 | [351057-derail-sacrifice.json](./351057-derail-sacrifice.json) |
+| Derailed | 348710 | [348710-derailed.json](./348710-derailed.json) |
 | DeRailed | 169664 | [169664-derailed.json](./169664-derailed.json) |
 | DeRailed | 179438 | [179438-derailed.json](./179438-derailed.json) |
 | Derange | 129099 | [129099-derange.json](./129099-derange.json) |
@@ -9090,6 +9092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divination | 127850 | [127850-divination.json](./127850-divination.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
 | Divine | 229587 | [229587-divine.json](./229587-divine.json) |
+| Divine Academy | 348713 | [348713-divine-academy.json](./348713-divine-academy.json) |
 | Divine Adventure: Act One | 174121 | [174121-divine-adventure-act-one.json](./174121-divine-adventure-act-one.json) |
 | Divine Ascent | 29179 | [29179-divine-ascent.json](./29179-divine-ascent.json) |
 | Divine Ascent: Map Pack | 161752 | [161752-divine-ascent-map-pack.json](./161752-divine-ascent-map-pack.json) |
@@ -9463,6 +9466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Root | 318980 | [318980-doctor-root.json](./318980-doctor-root.json) |
 | Doctor Surgeon: Hospital games | 95850 | [95850-doctor-surgeon-hospital-games.json](./95850-doctor-surgeon-hospital-games.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
+| Doctor Viscera | 348691 | [348691-doctor-viscera.json](./348691-doctor-viscera.json) |
 | Doctor Voldritch's experiment | 302502 | [302502-doctor-voldritchs-experiment.json](./302502-doctor-voldritchs-experiment.json) |
 | Doctor Watson - Treasure Island | 33442 | [33442-doctor-watson-treasure-island.json](./33442-doctor-watson-treasure-island.json) |
 | Doctor Watson: The Riddle of the Catacombs | 33443 | [33443-doctor-watson-the-riddle-of-the-catacombs.json](./33443-doctor-watson-the-riddle-of-the-catacombs.json) |
@@ -15139,6 +15143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Legend | 242491 | [242491-dungeon-legend.json](./242491-dungeon-legend.json) |
 | Dungeon Legend Party | 348373 | [348373-dungeon-legend-party.json](./348373-dungeon-legend-party.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
+| Dungeon Legends: Quest Hunter | 348711 | [348711-dungeon-legends-quest-hunter.json](./348711-dungeon-legends-quest-hunter.json) |
 | Dungeon Liberator | 203809 | [203809-dungeon-liberator.json](./203809-dungeon-liberator.json) |
 | Dungeon Life | 208200 | [208200-dungeon-life.json](./208200-dungeon-life.json) |
 | Dungeon Limbus | 142280 | [142280-dungeon-limbus.json](./142280-dungeon-limbus.json) |
