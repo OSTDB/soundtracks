@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Simulator | 34739 | [34739-labyrinth-simulator.json](./34739-labyrinth-simulator.json) |
 | Labyrinth Sword Princess | 363434 | [363434-labyrinth-sword-princess.json](./363434-labyrinth-sword-princess.json) |
 | Labyrinth Trailblazer | 370666 | [370666-labyrinth-trailblazer.json](./370666-labyrinth-trailblazer.json) |
+| Labyrinth Trials | 348694 | [348694-labyrinth-trials.json](./348694-labyrinth-trials.json) |
 | Labyrinth X | 312114 | [312114-labyrinth-x.json](./312114-labyrinth-x.json) |
 | Labyrinth: Classic Pinball Puzzle | 225884 | [225884-labyrinth-classic-pinball-puzzle.json](./225884-labyrinth-classic-pinball-puzzle.json) |
 | Labyrinth: Derelict Abyss | 138136 | [138136-labyrinth-derelict-abyss.json](./138136-labyrinth-derelict-abyss.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
 | Let's Find Larry! | 279431 | [279431-lets-find-larry.json](./279431-lets-find-larry.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
+| Let's Freeze Some Penguins | 348717 | [348717-lets-freeze-some-penguins.json](./348717-lets-freeze-some-penguins.json) |
 | Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
 | Let’s Get Breakfast | 183257 | [183257-let-s-get-breakfast.json](./183257-let-s-get-breakfast.json) |
 | Let's Get Changed! Nyanzou & Kumakichi: Escape Game | 199895 | [199895-lets-get-changed-nyanzou-and-kumakichi-escape-game.json](./199895-lets-get-changed-nyanzou-and-kumakichi-escape-game.json) |
@@ -3636,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Licht plus for Playdate | 230791 | [230791-licht-plus-for-playdate.json](./230791-licht-plus-for-playdate.json) |
 | Lichtreich: Willa | 230780 | [230780-lichtreich-willa.json](./230780-lichtreich-willa.json) |
 | Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
+| Lick Roll | 348684 | [348684-lick-roll.json](./348684-lick-roll.json) |
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
 | Licky the Lucky Lizard Lives Again | 99485 | [99485-licky-the-lucky-lizard-lives-again.json](./99485-licky-the-lucky-lizard-lives-again.json) |
 | Liczę z Reksiem | 345826 | [345826-licze-z-reksiem.json](./345826-licze-z-reksiem.json) |
@@ -6319,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
 | Loot Monkey: Bling Palace | 106352 | [106352-loot-monkey-bling-palace.json](./106352-loot-monkey-bling-palace.json) |
+| Loot of Baal | 348719 | [348719-loot-of-baal.json](./348719-loot-of-baal.json) |
 | Loot of Idle | 374942 | [374942-loot-of-idle.json](./374942-loot-of-idle.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
 | Loot Poring | 364542 | [364542-loot-poring.json](./364542-loot-poring.json) |
@@ -8004,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luma Island | 293035 | [293035-luma-island.json](./293035-luma-island.json) |
 | Luma Island: Pirates | 347822 | [347822-luma-island-pirates.json](./347822-luma-island-pirates.json) |
 | Lumak's Wraptiles | 55000 | [55000-lumaks-wraptiles.json](./55000-lumaks-wraptiles.json) |
+| Lumara | 348712 | [348712-lumara.json](./348712-lumara.json) |
 | LumaWorlds | 411677 | [411677-lumaworlds.json](./411677-lumaworlds.json) |
 | Lumba: Hangover | 226876 | [226876-lumba-hangover.json](./226876-lumba-hangover.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
