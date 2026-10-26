@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am The Registered Environmental Engineer | 309562 | [309562-i-am-the-registered-environmental-engineer.json](./309562-i-am-the-registered-environmental-engineer.json) |
 | I Am the Sun | 183369 | [183369-i-am-the-sun.json](./183369-i-am-the-sun.json) |
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
+| I Am Very Good At Walking | 377663 | [377663-i-am-very-good-at-walking.json](./377663-i-am-very-good-at-walking.json) |
 | I am working | 177750 | [177750-i-am-working.json](./177750-i-am-working.json) |
 | I Am You, I Am Everything. | 367189 | [367189-i-am-you-i-am-everything.json](./367189-i-am-you-i-am-everything.json) |
 | I Am Your Beast | 305180 | [305180-i-am-your-beast.json](./305180-i-am-your-beast.json) |
@@ -2886,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iNeko | 84453 | [84453-ineko.json](./84453-ineko.json) |
 | Inequalis | 224688 | [224688-inequalis.json](./224688-inequalis.json) |
 | Inertia | 261311 | [261311-inertia.json](./261311-inertia.json) |
+| Inertia | 377561 | [377561-inertia.json](./377561-inertia.json) |
 | Inertia | 411978 | [411978-inertia.json](./411978-inertia.json) |
 | Inertia | 54694 | [54694-inertia.json](./54694-inertia.json) |
 | Inertia 2 | 276128 | [276128-inertia-2.json](./276128-inertia-2.json) |
@@ -5161,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Aito | 199657 | [199657-island-of-aito.json](./199657-island-of-aito.json) |
 | Island of AIto: Life After Death | 226852 | [226852-island-of-aito-life-after-death.json](./226852-island-of-aito-life-after-death.json) |
 | Island of Ash | 386545 | [386545-island-of-ash.json](./386545-island-of-ash.json) |
+| Island of Challenge | 377621 | [377621-island-of-challenge.json](./377621-island-of-challenge.json) |
 | Island of Death | 137359 | [137359-island-of-death.json](./137359-island-of-death.json) |
 | Island of Death: Demons and Despair | 369313 | [369313-island-of-death-demons-and-despair.json](./369313-island-of-death-demons-and-despair.json) |
 | Island of Despair | 326801 | [326801-island-of-despair.json](./326801-island-of-despair.json) |
