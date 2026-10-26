@@ -6912,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Quest | 14179 | [14179-chrono-quest.json](./14179-chrono-quest.json) |
 | Chrono Quest II | 14180 | [14180-chrono-quest-ii.json](./14180-chrono-quest-ii.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
+| Chrono Seoul | 379411 | [379411-chrono-seoul.json](./379411-chrono-seoul.json) |
 | Chrono Spin | 390176 | [390176-chrono-spin.json](./390176-chrono-spin.json) |
 | Chrono Stranded | 363659 | [363659-chrono-stranded.json](./363659-chrono-stranded.json) |
 | Chrono Survival | 214690 | [214690-chrono-survival.json](./214690-chrono-survival.json) |
@@ -11498,6 +11499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contrablade World | 197162 | [197162-contrablade-world.json](./197162-contrablade-world.json) |
 | Contract | 131217 | [131217-contract.json](./131217-contract.json) |
 | Contract | 34305 | [34305-contract.json](./34305-contract.json) |
+| Contract Album | 379415 | [379415-contract-album.json](./379415-contract-album.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract Demon | 140911 | [140911-contract-demon.json](./140911-contract-demon.json) |
@@ -15370,6 +15372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Control | 140923 | [140923-crystal-control.json](./140923-crystal-control.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
+| Crystal Crepes: Tales of Food and Magic | 379426 | [379426-crystal-crepes-tales-of-food-and-magic.json](./379426-crystal-crepes-tales-of-food-and-magic.json) |
 | Crystal Crisis | 101152 | [101152-crystal-crisis.json](./101152-crystal-crisis.json) |
 | Crystal Crush | 70620 | [70620-crystal-crush.json](./70620-crystal-crush.json) |
 | Crystal Daze | 274680 | [274680-crystal-daze.json](./274680-crystal-daze.json) |
