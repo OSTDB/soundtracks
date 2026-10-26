@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumbi Blocks | 32074 | [32074-zumbi-blocks.json](./32074-zumbi-blocks.json) |
 | Zumbi Olé: The Minigame | 390119 | [390119-zumbi-ole-the-minigame.json](./390119-zumbi-ole-the-minigame.json) |
 | Zumble Ocean | 415938 | [415938-zumble-ocean.json](./415938-zumble-ocean.json) |
+| Zumery | 369606 | [369606-zumery.json](./369606-zumery.json) |
 | Zumiman | 231209 | [231209-zumiman.json](./231209-zumiman.json) |
 | Zundamon Castle | 326689 | [326689-zundamon-castle.json](./326689-zundamon-castle.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
