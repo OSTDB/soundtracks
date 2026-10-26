@@ -4329,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repair Programming | 181140 | [181140-repair-programming.json](./181140-repair-programming.json) |
 | Repair Shop | 181317 | [181317-repair-shop.json](./181317-repair-shop.json) |
 | Repair This! | 260385 | [260385-repair-this.json](./260385-repair-this.json) |
+| Repair37 | 362223 | [362223-repair37.json](./362223-repair37.json) |
 | RepairBot | 114403 | [114403-repairbot.json](./114403-repairbot.json) |
 | Repairny | 204073 | [204073-repairny.json](./204073-repairny.json) |
 | Reparative | 177376 | [177376-reparative.json](./177376-reparative.json) |
