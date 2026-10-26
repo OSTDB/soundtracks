@@ -7238,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Rome: New Generation 3 - Collector's Edition | 170194 | [170194-roads-of-rome-new-generation-3-collectors-edition.json](./170194-roads-of-rome-new-generation-3-collectors-edition.json) |
 | Roads of Rome: Portals - Collector's Edition | 186687 | [186687-roads-of-rome-portals-collectors-edition.json](./186687-roads-of-rome-portals-collectors-edition.json) |
 | Roads of Rome: Portals 2 - Collector's Edition | 245984 | [245984-roads-of-rome-portals-2-collectors-edition.json](./245984-roads-of-rome-portals-2-collectors-edition.json) |
+| Roads of the Middle Ages: Collector's Edition | 336989 | [336989-roads-of-the-middle-ages-collectors-edition.json](./336989-roads-of-the-middle-ages-collectors-edition.json) |
 | Roads of Time | 129525 | [129525-roads-of-time.json](./129525-roads-of-time.json) |
 | Roads to the Red Night | 366165 | [366165-roads-to-the-red-night.json](./366165-roads-to-the-red-night.json) |
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
@@ -8914,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollossus | 115372 | [115372-rollossus.json](./115372-rollossus.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
 | Rollout Inline | 418263 | [418263-rollout-inline.json](./418263-rollout-inline.json) |
+| Rollover | 337008 | [337008-rollover.json](./337008-rollover.json) |
 | RollOver | 72302 | [72302-rollover.json](./72302-rollover.json) |
 | Rollover Alien | 358490 | [358490-rollover-alien.json](./358490-rollover-alien.json) |
 | Rolloverture | 40914 | [40914-rolloverture.json](./40914-rolloverture.json) |
@@ -10752,6 +10754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
 | Rush to Adventure | 55225 | [55225-rush-to-adventure.json](./55225-rush-to-adventure.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
+| Rush Ultimate | 337006 | [337006-rush-ultimate.json](./337006-rush-ultimate.json) |
 | Rush VR | 110864 | [110864-rush-vr.json](./110864-rush-vr.json) |
 | Rush Wars | 122044 | [122044-rush-wars.json](./122044-rush-wars.json) |
 | Rush Your Band | 423229 | [423229-rush-your-band.json](./423229-rush-your-band.json) |
