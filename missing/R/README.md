@@ -4132,6 +4132,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remanence | 401456 | [401456-remanence.json](./401456-remanence.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
+| Rematch: Elite Edition | 339720 | [339720-rematch-elite-edition.json](./339720-rematch-elite-edition.json) |
+| Rematch: Pro Edition | 339719 | [339719-rematch-pro-edition.json](./339719-rematch-pro-edition.json) |
 | Rematch: Season 5 - Blue Lock | 416130 | [416130-rematch-season-5-blue-lock.json](./416130-rematch-season-5-blue-lock.json) |
 | ReMaz! | 116859 | [116859-remaz.json](./116859-remaz.json) |
 | Rembrunir | 384209 | [384209-rembrunir.json](./384209-rembrunir.json) |
