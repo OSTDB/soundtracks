@@ -6302,6 +6302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
 | Number 94 | 239527 | [239527-number-94.json](./239527-number-94.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
+| Number Balls | 359312 | [359312-number-balls.json](./359312-number-balls.json) |
 | Number Builder | 41201 | [41201-number-builder.json](./41201-number-builder.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
