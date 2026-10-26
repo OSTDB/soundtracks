@@ -8689,6 +8689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse | 175636 | [175636-mickey-mouse.json](./175636-mickey-mouse.json) |
 | Mickey Mouse | 198817 | [198817-mickey-mouse.json](./198817-mickey-mouse.json) |
 | Mickey Mouse | 200335 | [200335-mickey-mouse.json](./200335-mickey-mouse.json) |
+| Mickey Mouse | 367895 | [367895-mickey-mouse.json](./367895-mickey-mouse.json) |
 | Mickey Mouse | 78680 | [78680-mickey-mouse.json](./78680-mickey-mouse.json) |
 | Mickey Mouse Clubhouse | 228442 | [228442-mickey-mouse-clubhouse.json](./228442-mickey-mouse-clubhouse.json) |
 | Mickey Mouse Clubhouse | 245441 | [245441-mickey-mouse-clubhouse.json](./245441-mickey-mouse-clubhouse.json) |
