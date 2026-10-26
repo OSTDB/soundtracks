@@ -4960,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
 | Fire in the Dark | 380759 | [380759-fire-in-the-dark.json](./380759-fire-in-the-dark.json) |
 | Fire in the Goal | 31170 | [31170-fire-in-the-goal.json](./31170-fire-in-the-goal.json) |
+| Fire in the Hole | 375228 | [375228-fire-in-the-hole.json](./375228-fire-in-the-hole.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
 | Fire Jump | 390807 | [390807-fire-jump.json](./390807-fire-jump.json) |
 | Fire King | 74872 | [74872-fire-king.json](./74872-fire-king.json) |
@@ -5770,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Likes Please: Neon Pack | 290788 | [290788-five-likes-please-neon-pack.json](./290788-five-likes-please-neon-pack.json) |
 | Five little monkeys jumping on the bed for toddler | 102636 | [102636-five-little-monkeys-jumping-on-the-bed-for-toddler.json](./102636-five-little-monkeys-jumping-on-the-bed-for-toddler.json) |
 | Five Magical Amulets | 72525 | [72525-five-magical-amulets.json](./72525-five-magical-amulets.json) |
+| Five More Minutes | 375218 | [375218-five-more-minutes.json](./375218-five-more-minutes.json) |
 | Five Mysterious Murders | 374759 | [374759-five-mysterious-murders.json](./374759-five-mysterious-murders.json) |
 | Five Nations | 146675 | [146675-five-nations.json](./146675-five-nations.json) |
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
@@ -7818,6 +7820,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
 | For Honor: Yasuke the Brave – Shugoki Hero Skin | 408963 | [408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json](./408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json) |
 | For Honor: Year 1 - Heroes Bundle | 256746 | [256746-for-honor-year-1-heroes-bundle.json](./256746-for-honor-year-1-heroes-bundle.json) |
+| For Honor: Yokai Banishers - Hero Skin Bundle | 375240 | [375240-for-honor-yokai-banishers-hero-skin-bundle.json](./375240-for-honor-yokai-banishers-hero-skin-bundle.json) |
+| For Honor: Yoshiro the Damned - Orochi Hero Skin | 375239 | [375239-for-honor-yoshiro-the-damned-orochi-hero-skin.json](./375239-for-honor-yoshiro-the-damned-orochi-hero-skin.json) |
 | For I, the Moon | 216276 | [216276-for-i-the-moon.json](./216276-for-i-the-moon.json) |
 | For Inco | 126266 | [126266-for-inco.json](./126266-for-inco.json) |
 | For Love of Evil | 271779 | [271779-for-love-of-evil.json](./271779-for-love-of-evil.json) |
