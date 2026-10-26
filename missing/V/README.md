@@ -2714,11 +2714,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Fate | 412916 | [412916-void-fate.json](./412916-void-fate.json) |
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Flesh | 362168 | [362168-void-flesh.json](./362168-void-flesh.json) |
+| Void Frontiers | 384049 | [384049-void-frontiers.json](./384049-void-frontiers.json) |
 | Void Funk | 250846 | [250846-void-funk.json](./250846-void-funk.json) |
 | Void Future: Hacking Protocol | 376207 | [376207-void-future-hacking-protocol.json](./376207-void-future-hacking-protocol.json) |
 | Void Game | 394338 | [394338-void-game.json](./394338-void-game.json) |
 | Void Gore | 143540 | [143540-void-gore.json](./143540-void-gore.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
+| Void Guard Outpost | 384033 | [384033-void-guard-outpost.json](./384033-void-guard-outpost.json) |
+| Void Harvest | 384044 | [384044-void-harvest.json](./384044-void-harvest.json) |
 | Void Hazard | 372628 | [372628-void-hazard.json](./372628-void-hazard.json) |
 | Void Heart | 189985 | [189985-void-heart.json](./189985-void-heart.json) |
 | Void Hearts | 161698 | [161698-void-hearts.json](./161698-void-hearts.json) |
@@ -2752,12 +2755,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Operators | 413874 | [413874-void-operators.json](./413874-void-operators.json) |
 | Void Pachinko | 384212 | [384212-void-pachinko.json](./384212-void-pachinko.json) |
 | Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
+| Void Point | 384047 | [384047-void-point.json](./384047-void-point.json) |
 | VOID PRIEST | 414163 | [414163-void-priest.json](./414163-void-priest.json) |
 | Void Prison | 199274 | [199274-void-prison.json](./199274-void-prison.json) |
 | Void Protocol | 294505 | [294505-void-protocol.json](./294505-void-protocol.json) |
 | Void Protocol | 346634 | [346634-void-protocol.json](./346634-void-protocol.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
 | Void Racer: Extreme | 174561 | [174561-void-racer-extreme.json](./174561-void-racer-extreme.json) |
+| Void Raid | 384043 | [384043-void-raid.json](./384043-void-raid.json) |
 | Void Raider | 362041 | [362041-void-raider.json](./362041-void-raider.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Rangers | 31277 | [31277-void-rangers.json](./31277-void-rangers.json) |
@@ -2790,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Terrarium++: Deluxe Edition | 146162 | [146162-void-terrarium-deluxe-edition.json](./146162-void-terrarium-deluxe-edition.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
 | Void Vanguard | 419331 | [419331-void-vanguard.json](./419331-void-vanguard.json) |
+| Void Vanguards | 384045 | [384045-void-vanguards.json](./384045-void-vanguards.json) |
 | Void Vikings | 33573 | [33573-void-vikings.json](./33573-void-vikings.json) |
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
 | Void War | 73668 | [73668-void-war.json](./73668-void-war.json) |
@@ -2831,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidling Bound | 341400 | [341400-voidling-bound.json](./341400-voidling-bound.json) |
 | Voidloop | 388179 | [388179-voidloop.json](./388179-voidloop.json) |
 | Voidnomaly | 378415 | [378415-voidnomaly.json](./378415-voidnomaly.json) |
+| Voidnomicon | 384031 | [384031-voidnomicon.json](./384031-voidnomicon.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | Voidpixel | 138496 | [138496-voidpixel.json](./138496-voidpixel.json) |
 | VoidReaver | 392408 | [392408-voidreaver.json](./392408-voidreaver.json) |
@@ -2845,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidship: Redux | 244312 | [244312-voidship-redux.json](./244312-voidship-redux.json) |
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
 | Voidstalker | 381926 | [381926-voidstalker.json](./381926-voidstalker.json) |
+| Voidstepper | 384035 | [384035-voidstepper.json](./384035-voidstepper.json) |
 | Voidstorm | 309549 | [309549-voidstorm.json](./309549-voidstorm.json) |
 | Voidtrain | 123925 | [123925-voidtrain.json](./123925-voidtrain.json) |
 | Voidtrain: Big Catch | 418237 | [418237-voidtrain-big-catch.json](./418237-voidtrain-big-catch.json) |
@@ -2856,8 +2864,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidwalkers: Soul Hunters | 170931 | [170931-voidwalkers-soul-hunters.json](./170931-voidwalkers-soul-hunters.json) |
 | Voidwalkers: The Gates of Hell - Death to the Heretics! | 208338 | [208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json](./208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json) |
 | Voidwalkers: The Gates of Hell - Hell's Dungeon | 205036 | [205036-voidwalkers-the-gates-of-hell-hells-dungeon.json](./205036-voidwalkers-the-gates-of-hell-hells-dungeon.json) |
+| Voidwell | 384040 | [384040-voidwell.json](./384040-voidwell.json) |
 | Voidwood | 413180 | [413180-voidwood.json](./413180-voidwood.json) |
 | Voidwrought | 288487 | [288487-voidwrought.json](./288487-voidwrought.json) |
+| Voidzone | 384034 | [384034-voidzone.json](./384034-voidzone.json) |
 | Voima | 345410 | [345410-voima.json](./345410-voima.json) |
 | Voipas | 115556 | [115556-voipas.json](./115556-voipas.json) |
 | Voir Dire | 298019 | [298019-voir-dire.json](./298019-voir-dire.json) |
