@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zupapa! | 47577 | [47577-zupapa.json](./47577-zupapa.json) |
 | Zupay: Shadows of Independence | 374072 | [374072-zupay-shadows-of-independence.json](./374072-zupay-shadows-of-independence.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
+| Zurd Hunt | 351539 | [351539-zurd-hunt.json](./351539-zurd-hunt.json) |
 | Zuria | 204433 | [204433-zuria.json](./204433-zuria.json) |
 | Zurry: The Ritual Bat | 178369 | [178369-zurry-the-ritual-bat.json](./178369-zurry-the-ritual-bat.json) |
 | Zurviv.io | 351253 | [351253-zurviv-io.json](./351253-zurviv-io.json) |
