@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makai Hakkenden Shada | 37675 | [37675-makai-hakkenden-shada.json](./37675-makai-hakkenden-shada.json) |
 | Makai Toushi SaGa | 84142 | [84142-makai-toushi-saga.json](./84142-makai-toushi-saga.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
+| Makaimura | 385551 | [385551-makaimura.json](./385551-makaimura.json) |
 | Makaimura | 393958 | [393958-makaimura.json](./393958-makaimura.json) |
 | Makaimura for WonderSwan | 37532 | [37532-makaimura-for-wonderswan.json](./37532-makaimura-for-wonderswan.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
@@ -11012,6 +11013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage of Dragon | 84021 | [84021-mirage-of-dragon.json](./84021-mirage-of-dragon.json) |
+| Mirage of Tower | 385684 | [385684-mirage-of-tower.json](./385684-mirage-of-tower.json) |
 | Mirage Online Classic | 127807 | [127807-mirage-online-classic.json](./127807-mirage-online-classic.json) |
 | Mirage Sugar Acacia | 385902 | [385902-mirage-sugar-acacia.json](./385902-mirage-sugar-acacia.json) |
 | Mirage: Arcane Warfare | 18147 | [18147-mirage-arcane-warfare.json](./18147-mirage-arcane-warfare.json) |
@@ -12569,6 +12571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Business | 359732 | [359732-monkey-business.json](./359732-monkey-business.json) |
 | Monkey Business | 41198 | [41198-monkey-business.json](./41198-monkey-business.json) |
 | Monkey Catapult | 323162 | [323162-monkey-catapult.json](./323162-monkey-catapult.json) |
+| Monkey Coconut | 385544 | [385544-monkey-coconut.json](./385544-monkey-coconut.json) |
 | Monkey Do | 291484 | [291484-monkey-do.json](./291484-monkey-do.json) |
 | Monkey Doo | 234551 | [234551-monkey-doo.json](./234551-monkey-doo.json) |
 | Monkey Doomsday | 190192 | [190192-monkey-doomsday.json](./190192-monkey-doomsday.json) |
@@ -13835,6 +13838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
 | Moop and Dreadly in the Treasure on Bing Bong Island | 70035 | [70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json](./70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json) |
 | Moor Rail | 349370 | [349370-moor-rail.json](./349370-moor-rail.json) |
+| Moorestech | 385545 | [385545-moorestech.json](./385545-moorestech.json) |
 | Moorfrog | 93346 | [93346-moorfrog.json](./93346-moorfrog.json) |
 | Moorhen 3: The Chicken Chase! | 49438 | [49438-moorhen-3-the-chicken-chase.json](./49438-moorhen-3-the-chicken-chase.json) |
 | Moorhen Playsuit | 364584 | [364584-moorhen-playsuit.json](./364584-moorhen-playsuit.json) |
@@ -16839,7 +16843,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
 | My Ghost Roommate | 397281 | [397281-my-ghost-roommate.json](./397281-my-ghost-roommate.json) |
 | My Giant Friend | 220677 | [220677-my-giant-friend.json](./220677-my-giant-friend.json) |
+| My Giant Sexy Sensei Bullies Me | 385612 | [385612-my-giant-sexy-sensei-bullies-me.json](./385612-my-giant-sexy-sensei-bullies-me.json) |
 | My Giant Sexy Sensei Bullies Me 10 | 384738 | [384738-my-giant-sexy-sensei-bullies-me-10.json](./384738-my-giant-sexy-sensei-bullies-me-10.json) |
+| My Giant Sexy Sensei Bullies Me 2 | 385613 | [385613-my-giant-sexy-sensei-bullies-me-2.json](./385613-my-giant-sexy-sensei-bullies-me-2.json) |
+| My Giant Sexy Sensei Bullies Me 3 | 385614 | [385614-my-giant-sexy-sensei-bullies-me-3.json](./385614-my-giant-sexy-sensei-bullies-me-3.json) |
+| My Giant Sexy Sensei Bullies Me 4 | 385617 | [385617-my-giant-sexy-sensei-bullies-me-4.json](./385617-my-giant-sexy-sensei-bullies-me-4.json) |
 | My Giant Sexy Sensei Bullies Me 5 | 384724 | [384724-my-giant-sexy-sensei-bullies-me-5.json](./384724-my-giant-sexy-sensei-bullies-me-5.json) |
 | My Giant Sexy Sensei Bullies Me 6 | 384727 | [384727-my-giant-sexy-sensei-bullies-me-6.json](./384727-my-giant-sexy-sensei-bullies-me-6.json) |
 | My Giant Sexy Sensei Bullies Me 7 | 384729 | [384729-my-giant-sexy-sensei-bullies-me-7.json](./384729-my-giant-sexy-sensei-bullies-me-7.json) |
