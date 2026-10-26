@@ -3047,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
 | Let's Dance with Mel B | 19936 | [19936-lets-dance-with-mel-b.json](./19936-lets-dance-with-mel-b.json) |
 | Let's Do the Writing | 98849 | [98849-lets-do-the-writing.json](./98849-lets-do-the-writing.json) |
+| Let's Do Vinery | 354920 | [354920-lets-do-vinery.json](./354920-lets-do-vinery.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Draw A Picture Together! | 68548 | [68548-lets-draw-a-picture-together.json](./68548-lets-draw-a-picture-together.json) |
 | Let's Eat! Seaside Cafe | 33465 | [33465-lets-eat-seaside-cafe.json](./33465-lets-eat-seaside-cafe.json) |
@@ -3455,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Hentai Puzzle | 306241 | [306241-lewd-hentai-puzzle.json](./306241-lewd-hentai-puzzle.json) |
 | Lewd Island | 385875 | [385875-lewd-island.json](./385875-lewd-island.json) |
 | Lewd Maze | 171801 | [171801-lewd-maze.json](./171801-lewd-maze.json) |
+| Lewd Mod | 355607 | [355607-lewd-mod.json](./355607-lewd-mod.json) |
 | Lewd Mod 2 | 356871 | [356871-lewd-mod-2.json](./356871-lewd-mod-2.json) |
 | Lewd Mod XXXmas | 358636 | [358636-lewd-mod-xxxmas.json](./358636-lewd-mod-xxxmas.json) |
 | Lewd Mod: Noir | 356876 | [356876-lewd-mod-noir.json](./356876-lewd-mod-noir.json) |
@@ -3948,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Hope 1: Fungi Spirulina | 367853 | [367853-light-of-hope-1-fungi-spirulina.json](./367853-light-of-hope-1-fungi-spirulina.json) |
 | Light of Hope: The Redeemer | 265337 | [265337-light-of-hope-the-redeemer.json](./265337-light-of-hope-the-redeemer.json) |
 | Light of Life | 211818 | [211818-light-of-life.json](./211818-light-of-life.json) |
+| Light of Lithos | 355594 | [355594-light-of-lithos.json](./355594-light-of-lithos.json) |
 | Light of Motiram | 323536 | [323536-light-of-motiram.json](./323536-light-of-motiram.json) |
 | Light of Reversing Destiny | 344362 | [344362-light-of-reversing-destiny.json](./344362-light-of-reversing-destiny.json) |
 | Light of the Eternal Night | 358922 | [358922-light-of-the-eternal-night.json](./358922-light-of-the-eternal-night.json) |
@@ -8038,6 +8041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumin's Path | 127712 | [127712-lumins-path.json](./127712-lumins-path.json) |
 | Lumina | 119091 | [119091-lumina.json](./119091-lumina.json) |
 | Lumina | 347889 | [347889-lumina.json](./347889-lumina.json) |
+| Lumina | 355599 | [355599-lumina.json](./355599-lumina.json) |
 | Luminaria | 365602 | [365602-luminaria.json](./365602-luminaria.json) |
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
 | Luminary | 152498 | [152498-luminary.json](./152498-luminary.json) |
