@@ -5383,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Chemists: Area of infection | 190896 | [190896-chemists-area-of-infection.json](./190896-chemists-area-of-infection.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
+| Chénmò Chuánqí | 368436 | [368436-chenmo-chuanqi.json](./368436-chenmo-chuanqi.json) |
 | Chenmo de Xishuai | 250445 | [250445-chenmo-de-xishuai.json](./250445-chenmo-de-xishuai.json) |
 | Chenso Club | 144895 | [144895-chenso-club.json](./144895-chenso-club.json) |
 | Cheogsh | 255781 | [255781-cheogsh.json](./255781-cheogsh.json) |
@@ -5435,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Bomb | 285589 | [285589-cherry-bomb.json](./285589-cherry-bomb.json) |
 | Cherry Cough Syrup | 374809 | [374809-cherry-cough-syrup.json](./374809-cherry-cough-syrup.json) |
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
+| Cherry Hill | 368458 | [368458-cherry-hill.json](./368458-cherry-hill.json) |
 | Cherry in the Sky | 103623 | [103623-cherry-in-the-sky.json](./103623-cherry-in-the-sky.json) |
 | Cherry Island | 126552 | [126552-cherry-island.json](./126552-cherry-island.json) |
 | Cherry Jump | 320000 | [320000-cherry-jump.json](./320000-cherry-jump.json) |
@@ -8873,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
 | Club Soccer Director 2021 | 148859 | [148859-club-soccer-director-2021.json](./148859-club-soccer-director-2021.json) |
 | Club Soccer Director PRO 2020 | 120578 | [120578-club-soccer-director-pro-2020.json](./120578-club-soccer-director-pro-2020.json) |
+| Club Soko | 368429 | [368429-club-soko.json](./368429-club-soko.json) |
 | Club Sports Collection | 385134 | [385134-club-sports-collection.json](./385134-club-sports-collection.json) |
 | Club Sports Collection Upgrade Edition | 397887 | [397887-club-sports-collection-upgrade-edition.json](./397887-club-sports-collection-upgrade-edition.json) |
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
@@ -11133,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect the Circuit 1000 | 328544 | [328544-connect-the-circuit-1000.json](./328544-connect-the-circuit-1000.json) |
 | Connect the Dots | 151551 | [151551-connect-the-dots.json](./151551-connect-the-dots.json) |
 | Connect the Dots | 356634 | [356634-connect-the-dots.json](./356634-connect-the-dots.json) |
+| Connect the Dots | 368435 | [368435-connect-the-dots.json](./368435-connect-the-dots.json) |
 | Connect the Dots 3D | 212095 | [212095-connect-the-dots-3d.json](./212095-connect-the-dots-3d.json) |
 | Connect the Stars | 409616 | [409616-connect-the-stars.json](./409616-connect-the-stars.json) |
 | Connect the World | 300700 | [300700-connect-the-world.json](./300700-connect-the-world.json) |
@@ -12721,6 +12725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike 1 Anthology | 277809 | [277809-counter-strike-1-anthology.json](./277809-counter-strike-1-anthology.json) |
 | Counter-Strike NEO: White Memories | 143558 | [143558-counter-strike-neo-white-memories.json](./143558-counter-strike-neo-white-memories.json) |
 | Counter-Strike Nexon | 16957 | [16957-counter-strike-nexon.json](./16957-counter-strike-nexon.json) |
+| Counter-Strike Nexon: 11th Anniversary Fever Pack | 368446 | [368446-counter-strike-nexon-11th-anniversary-fever-pack.json](./368446-counter-strike-nexon-11th-anniversary-fever-pack.json) |
 | Counter-Strike Online | 77251 | [77251-counter-strike-online.json](./77251-counter-strike-online.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
@@ -15993,6 +15998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Sex: Episode 3 | 316392 | [316392-cuckold-sex-episode-3.json](./316392-cuckold-sex-episode-3.json) |
 | Cuckold Sex: Episode 5 | 339353 | [339353-cuckold-sex-episode-5.json](./339353-cuckold-sex-episode-5.json) |
 | Cuckold Sex: Episode 6 | 371062 | [371062-cuckold-sex-episode-6.json](./371062-cuckold-sex-episode-6.json) |
+| Cuckold Sex: Episode 7 | 368525 | [368525-cuckold-sex-episode-7.json](./368525-cuckold-sex-episode-7.json) |
 | Cuckold Simulator | 146562 | [146562-cuckold-simulator.json](./146562-cuckold-simulator.json) |
 | Cuckoldry Festival: Former Pro Wrestler Mother Trifled by the Huge Dick of her Son's Friend | 98497 | [98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json](./98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json) |
 | Cuckoo Castle | 135241 | [135241-cuckoo-castle.json](./135241-cuckoo-castle.json) |
@@ -16694,6 +16700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutthroat Pinochle | 90384 | [90384-cutthroat-pinochle.json](./90384-cutthroat-pinochle.json) |
 | Cutthroats | 12260 | [12260-cutthroats.json](./12260-cutthroats.json) |
 | Cuttin' Loose In Compton | 77810 | [77810-cuttin-loose-in-compton.json](./77810-cuttin-loose-in-compton.json) |
+| Cutting Edge: Roots of Mutation | 368442 | [368442-cutting-edge-roots-of-mutation.json](./368442-cutting-edge-roots-of-mutation.json) |
 | Cutting Grass with Nail Clippers: The Game | 366285 | [366285-cutting-grass-with-nail-clippers-the-game.json](./366285-cutting-grass-with-nail-clippers-the-game.json) |
 | Cutting Hedge | 176913 | [176913-cutting-hedge.json](./176913-cutting-hedge.json) |
 | Cuttle | 384341 | [384341-cuttle.json](./384341-cuttle.json) |
@@ -17113,6 +17120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberworm | 73606 | [73606-cyberworm.json](./73606-cyberworm.json) |
 | Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
 | Cyborg 009 | 84111 | [84111-cyborg-009.json](./84111-cyborg-009.json) |
+| Cyborg Arena 2 | 368432 | [368432-cyborg-arena-2.json](./368432-cyborg-arena-2.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
 | Cyborg Force | 310147 | [310147-cyborg-force.json](./310147-cyborg-force.json) |
