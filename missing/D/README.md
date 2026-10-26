@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Forge:Re | 182465 | [182465-danganronpa-forge-re.json](./182465-danganronpa-forge-re.json) |
 | Danganronpa Hope Recreation | 304341 | [304341-danganronpa-hope-recreation.json](./304341-danganronpa-hope-recreation.json) |
 | Danganronpa Mauve | 304336 | [304336-danganronpa-mauve.json](./304336-danganronpa-mauve.json) |
+| Danganronpa Minus | 335774 | [335774-danganronpa-minus.json](./335774-danganronpa-minus.json) |
 | Danganronpa O: Sea of Despair | 411328 | [411328-danganronpa-o-sea-of-despair.json](./411328-danganronpa-o-sea-of-despair.json) |
 | Danganronpa Oldmaid | 411320 | [411320-danganronpa-oldmaid.json](./411320-danganronpa-oldmaid.json) |
 | Danganronpa S: Ultimate Summer Camp | 152366 | [152366-danganronpa-s-ultimate-summer-camp.json](./152366-danganronpa-s-ultimate-summer-camp.json) |
@@ -6958,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dharma Dojo | 42529 | [42529-dharma-dojo.json](./42529-dharma-dojo.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | Dhilly Game 6 Remake | 369885 | [369885-dhilly-game-6-remake.json](./369885-dhilly-game-6-remake.json) |
+| Dhinameptor | 335792 | [335792-dhinameptor.json](./335792-dhinameptor.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
 | Dhux's Scar | 124526 | [124526-dhuxs-scar.json](./124526-dhuxs-scar.json) |
 | Di Feng Long Huang | 308898 | [308898-di-feng-long-huang.json](./308898-di-feng-long-huang.json) |
