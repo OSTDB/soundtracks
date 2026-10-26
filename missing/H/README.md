@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
 | Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
 | Hard Truck | 94917 | [94917-hard-truck.json](./94917-hard-truck.json) |
+| Hard Truck 2 | 367352 | [367352-hard-truck-2.json](./367352-hard-truck-2.json) |
 | Hard Truck 2: King of the Road | 36987 | [36987-hard-truck-2-king-of-the-road.json](./36987-hard-truck-2-king-of-the-road.json) |
 | Hard Truck Apocalypse | 36458 | [36458-hard-truck-apocalypse.json](./36458-hard-truck-apocalypse.json) |
 | Hard Truck Apocalypse: Rise of Clans | 17170 | [17170-hard-truck-apocalypse-rise-of-clans.json](./17170-hard-truck-apocalypse-rise-of-clans.json) |
@@ -4242,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Harem | 367976 | [367976-hentai-harem.json](./367976-hentai-harem.json) |
 | Hentai Hasshaku | 234524 | [234524-hentai-hasshaku.json](./234524-hentai-hasshaku.json) |
 | Hentai Heroes | 141010 | [141010-hentai-heroes.json](./141010-hentai-heroes.json) |
+| Hentai Heroes | 367529 | [367529-hentai-heroes.json](./367529-hentai-heroes.json) |
 | Hentai Hexa Mosaic | 107783 | [107783-hentai-hexa-mosaic.json](./107783-hentai-hexa-mosaic.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
 | Hentai Honeys Jigsaw | 163013 | [163013-hentai-honeys-jigsaw.json](./163013-hentai-honeys-jigsaw.json) |
@@ -9073,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Designer 2 | 274026 | [274026-house-designer-2.json](./274026-house-designer-2.json) |
 | House Designer: Fix & Flip | 107134 | [107134-house-designer-fix-and-flip.json](./107134-house-designer-fix-and-flip.json) |
 | House Escape | 102270 | [102270-house-escape.json](./102270-house-escape.json) |
+| House Filled With Cats | 367467 | [367467-house-filled-with-cats.json](./367467-house-filled-with-cats.json) |
 | House Fixer Simulator | 401125 | [401125-house-fixer-simulator.json](./401125-house-fixer-simulator.json) |
 | House Flip | 281329 | [281329-house-flip.json](./281329-house-flip.json) |
 | House Flipper | 27744 | [27744-house-flipper.json](./27744-house-flipper.json) |
@@ -10162,6 +10165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustomten | 167564 | [167564-hustomten.json](./167564-hustomten.json) |
 | Hutaoriji: Emoji Girl Menhera | 188360 | [188360-hutaoriji-emoji-girl-menhera.json](./188360-hutaoriji-emoji-girl-menhera.json) |
 | Huts | 129575 | [129575-huts.json](./129575-huts.json) |
+| Hutspiel | 367456 | [367456-hutspiel.json](./367456-hutspiel.json) |
 | Huuma Mina: The Game | 82501 | [82501-huuma-mina-the-game.json](./82501-huuma-mina-the-game.json) |
 | Huuma Mina: The Secret of Immortality | 137373 | [137373-huuma-mina-the-secret-of-immortality.json](./137373-huuma-mina-the-secret-of-immortality.json) |
 | Huusuienbu: Chapter Spring and Summer | 55706 | [55706-huusuienbu-chapter-spring-and-summer.json](./55706-huusuienbu-chapter-spring-and-summer.json) |
