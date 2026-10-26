@@ -4346,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: Episode Prompto | 37193 | [37193-final-fantasy-xv-episode-prompto.json](./37193-final-fantasy-xv-episode-prompto.json) |
 | Final Fantasy XV: Gourmand Set | 350947 | [350947-final-fantasy-xv-gourmand-set.json](./350947-final-fantasy-xv-gourmand-set.json) |
 | Final Fantasy XV: Holiday Pack | 350499 | [350499-final-fantasy-xv-holiday-pack.json](./350499-final-fantasy-xv-holiday-pack.json) |
+| Final Fantasy XV: King's Knight Sticker Set | 350481 | [350481-final-fantasy-xv-kings-knight-sticker-set.json](./350481-final-fantasy-xv-kings-knight-sticker-set.json) |
 | Final Fantasy XV: King's Knight Tee | 350501 | [350501-final-fantasy-xv-kings-knight-tee.json](./350501-final-fantasy-xv-kings-knight-tee.json) |
 | Final Fantasy XV: Memories of King's Knight | 350944 | [350944-final-fantasy-xv-memories-of-kings-knight.json](./350944-final-fantasy-xv-memories-of-kings-knight.json) |
 | Final Fantasy XV: Noodle Helmet | 350946 | [350946-final-fantasy-xv-noodle-helmet.json](./350946-final-fantasy-xv-noodle-helmet.json) |
@@ -8287,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hope | 147234 | [147234-forgotten-hope.json](./147234-forgotten-hope.json) |
 | Forgotten Hope | 319675 | [319675-forgotten-hope.json](./319675-forgotten-hope.json) |
 | Forgotten Isle | 422067 | [422067-forgotten-isle.json](./422067-forgotten-isle.json) |
+| Forgotten Journey | 350352 | [350352-forgotten-journey.json](./350352-forgotten-journey.json) |
 | Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
 | Forgotten Lands: First Colony | 64724 | [64724-forgotten-lands-first-colony.json](./64724-forgotten-lands-first-colony.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
@@ -10820,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fry Egg | 246274 | [246274-fry-egg.json](./246274-fry-egg.json) |
 | Fry Me Omelettes | 95969 | [95969-fry-me-omelettes.json](./95969-fry-me-omelettes.json) |
 | FRZ Racing | 238926 | [238926-frz-racing.json](./238926-frz-racing.json) |
+| FSKN | 350357 | [350357-fskn.json](./350357-fskn.json) |
 | FSR: French Street Racing | 208480 | [208480-fsr-french-street-racing.json](./208480-fsr-french-street-racing.json) |
 | FT Nibbles | 137379 | [137379-ft-nibbles.json](./137379-ft-nibbles.json) |
 | FTB | 351712 | [351712-ftb.json](./351712-ftb.json) |
