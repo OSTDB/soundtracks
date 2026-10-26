@@ -4986,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
 | Eternal Hour: Golden Hour | 76364 | [76364-eternal-hour-golden-hour.json](./76364-eternal-hour-golden-hour.json) |
 | Eternal Hunger | 397939 | [397939-eternal-hunger.json](./397939-eternal-hunger.json) |
+| Eternal Hunt | 370627 | [370627-eternal-hunt.json](./370627-eternal-hunt.json) |
 | Eternal Journey: New Atlantis | 52983 | [52983-eternal-journey-new-atlantis.json](./52983-eternal-journey-new-atlantis.json) |
 | Eternal Journey: New Atlantis Collector's Edition | 52982 | [52982-eternal-journey-new-atlantis-collectors-edition.json](./52982-eternal-journey-new-atlantis-collectors-edition.json) |
 | Eternal King | 269012 | [269012-eternal-king.json](./269012-eternal-king.json) |
@@ -5741,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody Loves Mothman | 419998 | [419998-everybody-loves-mothman.json](./419998-everybody-loves-mothman.json) |
 | Everybody Loves Skeletons | 121453 | [121453-everybody-loves-skeletons.json](./121453-everybody-loves-skeletons.json) |
 | Everybody Shogi | 355852 | [355852-everybody-shogi.json](./355852-everybody-shogi.json) |
+| Everybody Wants My Girl | 370744 | [370744-everybody-wants-my-girl.json](./370744-everybody-wants-my-girl.json) |
 | Everybody Wham Wham | 142923 | [142923-everybody-wham-wham.json](./142923-everybody-wham-wham.json) |
 | Everybody's Golf | 28187 | [28187-everybodys-golf.json](./28187-everybodys-golf.json) |
 | Everybody's Golf Mobile | 44075 | [44075-everybodys-golf-mobile.json](./44075-everybodys-golf-mobile.json) |
@@ -6430,6 +6432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
 | Exorcist Shrine Maiden Miharu: The Licentious Journal of her Captive Violation | 82696 | [82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json](./82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json) |
 | Exorcist Simulator | 259005 | [259005-exorcist-simulator.json](./259005-exorcist-simulator.json) |
+| Exorcist: Oldest Tongue | 370660 | [370660-exorcist-oldest-tongue.json](./370660-exorcist-oldest-tongue.json) |
 | Exorcizamuste | 258537 | [258537-exorcizamuste.json](./258537-exorcizamuste.json) |
 | Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
 | Exoria | 408199 | [408199-exoria.json](./408199-exoria.json) |
