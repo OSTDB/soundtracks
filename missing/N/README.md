@@ -5335,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir Bloom | 401461 | [401461-noir-bloom.json](./401461-noir-bloom.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
 | Noir Detective | 185411 | [185411-noir-detective.json](./185411-noir-detective.json) |
+| Noir Lords | 356556 | [356556-noir-lords.json](./356556-noir-lords.json) |
 | Noir Mafia Simulator: 1960s American Crime | 365562 | [365562-noir-mafia-simulator-1960s-american-crime.json](./365562-noir-mafia-simulator-1960s-american-crime.json) |
 | Noir Punk | 150240 | [150240-noir-punk.json](./150240-noir-punk.json) |
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
