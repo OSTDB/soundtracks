@@ -11429,6 +11429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double K Games Store | 411667 | [411667-double-k-games-store.json](./411667-double-k-games-store.json) |
 | Double Kick Heroes | 29511 | [29511-double-kick-heroes.json](./29511-double-kick-heroes.json) |
 | Double Klondike | 91112 | [91112-double-klondike.json](./91112-double-klondike.json) |
+| Double Knoxels | 363990 | [363990-double-knoxels.json](./363990-double-knoxels.json) |
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
 | Double Memory | 68326 | [68326-double-memory.json](./68326-double-memory.json) |
