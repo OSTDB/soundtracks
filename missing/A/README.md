@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Chair in a Room: Greenwater | 33902 | [33902-a-chair-in-a-room-greenwater.json](./33902-a-chair-in-a-room-greenwater.json) |
 | A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
 | A Chamber of Stars | 216710 | [216710-a-chamber-of-stars.json](./216710-a-chamber-of-stars.json) |
+| A Chef's Oncoming Breakdown | 386163 | [386163-a-chefs-oncoming-breakdown.json](./386163-a-chefs-oncoming-breakdown.json) |
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
 | A Child's Courage | 184960 | [184960-a-childs-courage.json](./184960-a-childs-courage.json) |
 | A Chinese Ghost Story | 77653 | [77653-a-chinese-ghost-story.json](./77653-a-chinese-ghost-story.json) |
@@ -4034,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
+| Agrivore | 386117 | [386117-agrivore.json](./386117-agrivore.json) |
 | Agro Simulator: Season 26 | 389539 | [389539-agro-simulator-season-26.json](./389539-agro-simulator-season-26.json) |
 | Agrocracy | 388794 | [388794-agrocracy.json](./388794-agrocracy.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
@@ -6815,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Vacation: Seattle | 337226 | [337226-amazing-vacation-seattle.json](./337226-amazing-vacation-seattle.json) |
 | Amazing Weekend 2: Search and Relax - Collector's Edition | 337822 | [337822-amazing-weekend-2-search-and-relax-collectors-edition.json](./337822-amazing-weekend-2-search-and-relax-collectors-edition.json) |
 | Amazing Weekend 3: Search and Relax - Collector's Edition | 360444 | [360444-amazing-weekend-3-search-and-relax-collectors-edition.json](./360444-amazing-weekend-3-search-and-relax-collectors-edition.json) |
+| Amazing Weekend 4: Search and Relax - Collector's Edition | 386207 | [386207-amazing-weekend-4-search-and-relax-collectors-edition.json](./386207-amazing-weekend-4-search-and-relax-collectors-edition.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
 | Amazing Word Search | 180151 | [180151-amazing-word-search.json](./180151-amazing-word-search.json) |
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
@@ -8021,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
+| Angry Birds: Play & Learn | 386094 | [386094-angry-birds-play-and-learn.json](./386094-angry-birds-play-and-learn.json) |
 | Angry Birds: Pop! | 60224 | [60224-angry-birds-pop.json](./60224-angry-birds-pop.json) |
 | Angry Birds: Star Wars | 247344 | [247344-angry-birds-star-wars.json](./247344-angry-birds-star-wars.json) |
 | Angry Brainless Bovines | 140607 | [140607-angry-brainless-bovines.json](./140607-angry-brainless-bovines.json) |
@@ -8464,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls vs. Soldiers | 191043 | [191043-anime-girls-vs-soldiers.json](./191043-anime-girls-vs-soldiers.json) |
 | Anime Girls: Bouncy Basketball | 342214 | [342214-anime-girls-bouncy-basketball.json](./342214-anime-girls-bouncy-basketball.json) |
 | Anime Girls: Celebrity Crush | 368759 | [368759-anime-girls-celebrity-crush.json](./368759-anime-girls-celebrity-crush.json) |
+| Anime Girls: Cheerful Cosplay | 386174 | [386174-anime-girls-cheerful-cosplay.json](./386174-anime-girls-cheerful-cosplay.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Deluxe Edition | 267230 | [267230-anime-girls-deluxe-edition.json](./267230-anime-girls-deluxe-edition.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
@@ -10061,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Armadillo Racing | 411154 | [411154-arcade-archives-2-armadillo-racing.json](./411154-arcade-archives-2-armadillo-racing.json) |
 | Arcade Archives 2: Bermuda Triangle | 382576 | [382576-arcade-archives-2-bermuda-triangle.json](./382576-arcade-archives-2-bermuda-triangle.json) |
 | Arcade Archives 2: Bomb Bee | 378489 | [378489-arcade-archives-2-bomb-bee.json](./378489-arcade-archives-2-bomb-bee.json) |
+| Arcade Archives 2: Bomb Jack Twin | 386175 | [386175-arcade-archives-2-bomb-jack-twin.json](./386175-arcade-archives-2-bomb-jack-twin.json) |
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
 | Arcade Archives 2: Combat School | 412762 | [412762-arcade-archives-2-combat-school.json](./412762-arcade-archives-2-combat-school.json) |
 | Arcade Archives 2: Cyber Commando | 400162 | [400162-arcade-archives-2-cyber-commando.json](./400162-arcade-archives-2-cyber-commando.json) |
@@ -11734,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
 | Around the World 3: Amazing Countries | 338046 | [338046-around-the-world-3-amazing-countries.json](./338046-around-the-world-3-amazing-countries.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
+| Around the World 4: Family Tour - Collector's Edition | 386208 | [386208-around-the-world-4-family-tour-collectors-edition.json](./386208-around-the-world-4-family-tour-collectors-edition.json) |
 | Around the World 5: Beautiful America | 338045 | [338045-around-the-world-5-beautiful-america.json](./338045-around-the-world-5-beautiful-america.json) |
 | Around the World 5: Beautiful America - Collector's Edition | 363162 | [363162-around-the-world-5-beautiful-america-collectors-edition.json](./363162-around-the-world-5-beautiful-america-collectors-edition.json) |
 | Around the World in 50 Games | 50692 | [50692-around-the-world-in-50-games.json](./50692-around-the-world-in-50-games.json) |
