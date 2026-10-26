@@ -6693,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun 3D: RGB Hero Set | 294951 | [294951-pixel-gun-3d-rgb-hero-set.json](./294951-pixel-gun-3d-rgb-hero-set.json) |
 | Pixel Gun 3D: Wastelands Set | 322633 | [322633-pixel-gun-3d-wastelands-set.json](./322633-pixel-gun-3d-wastelands-set.json) |
 | Pixel Gun Battle | 370201 | [370201-pixel-gun-battle.json](./370201-pixel-gun-battle.json) |
+| Pixel Gun Mayhem | 384597 | [384597-pixel-gun-mayhem.json](./384597-pixel-gun-mayhem.json) |
 | Pixel Gun World | 307855 | [307855-pixel-gun-world.json](./307855-pixel-gun-world.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
 | Pixel Harvester | 372189 | [372189-pixel-harvester.json](./372189-pixel-harvester.json) |
@@ -6721,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Miner | 423237 | [423237-pixel-miner.json](./423237-pixel-miner.json) |
 | Pixel Miners | 105720 | [105720-pixel-miners.json](./105720-pixel-miners.json) |
 | Pixel Monk | 280440 | [280440-pixel-monk.json](./280440-pixel-monk.json) |
+| Pixel Monsters Survival | 384557 | [384557-pixel-monsters-survival.json](./384557-pixel-monsters-survival.json) |
 | Pixel Ninja | 160163 | [160163-pixel-ninja.json](./160163-pixel-ninja.json) |
 | Pixel Noir | 61721 | [61721-pixel-noir.json](./61721-pixel-noir.json) |
 | Pixel Odyssey | 395287 | [395287-pixel-odyssey.json](./395287-pixel-odyssey.json) |
@@ -8643,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Universe : Create Your Community | 55624 | [55624-pocket-universe-create-your-community.json](./55624-pocket-universe-create-your-community.json) |
 | Pocket Usatama Easter 2019 Edition | 230130 | [230130-pocket-usatama-easter-2019-edition.json](./230130-pocket-usatama-easter-2019-edition.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
+| Pocket Waifu: Desktop Pet | 384611 | [384611-pocket-waifu-desktop-pet.json](./384611-pocket-waifu-desktop-pet.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
 | Pocket Wars: Protect or Destroy | 109541 | [109541-pocket-wars-protect-or-destroy.json](./109541-pocket-wars-protect-or-destroy.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
