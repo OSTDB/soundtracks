@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Incremental Game (But This Time About Coding) | 412965 | [412965-yet-another-incremental-game-but-this-time-about-coding.json](./412965-yet-another-incremental-game-but-this-time-about-coding.json) |
 | Yet Another Killing Game | 329407 | [329407-yet-another-killing-game.json](./329407-yet-another-killing-game.json) |
 | Yet Another Krappy Shooter | 281533 | [281533-yet-another-krappy-shooter.json](./281533-yet-another-krappy-shooter.json) |
+| Yet Another One | 338117 | [338117-yet-another-one.json](./338117-yet-another-one.json) |
 | Yet Another Pixel Dungeon | 129772 | [129772-yet-another-pixel-dungeon.json](./129772-yet-another-pixel-dungeon.json) |
 | Yet Another PS2 Half-Life Port | 401274 | [401274-yet-another-ps2-half-life-port.json](./401274-yet-another-ps2-half-life-port.json) |
 | Yet Another Research Dog | 83589 | [83589-yet-another-research-dog.json](./83589-yet-another-research-dog.json) |
