@@ -6344,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Melodies | 311221 | [311221-shattered-melodies.json](./311221-shattered-melodies.json) |
 | Shattered Minds: Encore | 158948 | [158948-shattered-minds-encore.json](./158948-shattered-minds-encore.json) |
 | Shattered Minds: Masquerade | 369714 | [369714-shattered-minds-masquerade.json](./369714-shattered-minds-masquerade.json) |
+| Shattered Mythos | 365029 | [365029-shattered-mythos.json](./365029-shattered-mythos.json) |
 | Shattered Ninja | 146611 | [146611-shattered-ninja.json](./146611-shattered-ninja.json) |
 | Shattered Origins: Guardians of Unity | 47035 | [47035-shattered-origins-guardians-of-unity.json](./47035-shattered-origins-guardians-of-unity.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
@@ -13556,6 +13557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaris Assault Tech | 93536 | [93536-solaris-assault-tech.json](./93536-solaris-assault-tech.json) |
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
 | Solaris Strike | 311865 | [311865-solaris-strike.json](./311865-solaris-strike.json) |
+| Solaris: Arcade Edition | 365046 | [365046-solaris-arcade-edition.json](./365046-solaris-arcade-edition.json) |
 | Solaris: Good Harvest | 352514 | [352514-solaris-good-harvest.json](./352514-solaris-good-harvest.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
 | Solarium | 139307 | [139307-solarium.json](./139307-solarium.json) |
@@ -22535,6 +22537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones Keeper: Director's Cut | 419645 | [419645-stones-keeper-directors-cut.json](./419645-stones-keeper-directors-cut.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
+| Stones of Power | 365030 | [365030-stones-of-power.json](./365030-stones-of-power.json) |
 | Stones of Rome | 74149 | [74149-stones-of-rome.json](./74149-stones-of-rome.json) |
 | Stones of Solace | 120284 | [120284-stones-of-solace.json](./120284-stones-of-solace.json) |
 | Stones of Sorrow | 35170 | [35170-stones-of-sorrow.json](./35170-stones-of-sorrow.json) |
@@ -24906,6 +24909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summit | 163453 | [163453-summit.json](./163453-summit.json) |
 | Summit | 312638 | [312638-summit.json](./312638-summit.json) |
 | Summit | 80508 | [80508-summit.json](./80508-summit.json) |
+| Summit Drive | 365028 | [365028-summit-drive.json](./365028-summit-drive.json) |
 | Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
