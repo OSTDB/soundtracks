@@ -2966,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltaire: The Vegan Vampire | 203242 | [203242-voltaire-the-vegan-vampire.json](./203242-voltaire-the-vegan-vampire.json) |
 | Volted | 97025 | [97025-volted.json](./97025-volted.json) |
 | VolticPistol | 127801 | [127801-volticpistol.json](./127801-volticpistol.json) |
+| Voltline | 366778 | [366778-voltline.json](./366778-voltline.json) |
 | Voltorb Flip | 356235 | [356235-voltorb-flip.json](./356235-voltorb-flip.json) |
 | Voltorometer Recharged+ | 247512 | [247512-voltorometer-recharged.json](./247512-voltorometer-recharged.json) |
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
