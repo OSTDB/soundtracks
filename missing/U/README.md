@@ -2538,7 +2538,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Riches | 59673 | [59673-untold-riches.json](./59673-untold-riches.json) |
 | Untold Secrets: Lost in Time | 206608 | [206608-untold-secrets-lost-in-time.json](./206608-untold-secrets-lost-in-time.json) |
 | Untold Stories 01: Goliath | 406718 | [406718-untold-stories-01-goliath.json](./406718-untold-stories-01-goliath.json) |
+| Untold Stories 1: Goliath | 355054 | [355054-untold-stories-1-goliath.json](./355054-untold-stories-1-goliath.json) |
+| Untold Stories 2: Bigleaf Forest | 355057 | [355057-untold-stories-2-bigleaf-forest.json](./355057-untold-stories-2-bigleaf-forest.json) |
 | Untold Stories 3: Myriad Caves | 355115 | [355115-untold-stories-3-myriad-caves.json](./355115-untold-stories-3-myriad-caves.json) |
+| Untold Stories 4: Corona Trials | 355132 | [355132-untold-stories-4-corona-trials.json](./355132-untold-stories-4-corona-trials.json) |
 | Untold Stories 5: Calamity Canyon | 355134 | [355134-untold-stories-5-calamity-canyon.json](./355134-untold-stories-5-calamity-canyon.json) |
 | Untold Stories 6: Horrifeye | 355137 | [355137-untold-stories-6-horrifeye.json](./355137-untold-stories-6-horrifeye.json) |
 | Untold Stories 7: Nova Arcana | 355139 | [355139-untold-stories-7-nova-arcana.json](./355139-untold-stories-7-nova-arcana.json) |
