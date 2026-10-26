@@ -7855,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Hero | 361630 | [361630-grind-hero.json](./361630-grind-hero.json) |
 | Grind Hockey | 269330 | [269330-grind-hockey.json](./269330-grind-hockey.json) |
 | Grind Mindset | 368578 | [368578-grind-mindset.json](./368578-grind-mindset.json) |
+| Grind Rush | 371945 | [371945-grind-rush.json](./371945-grind-rush.json) |
 | Grind Session | 45018 | [45018-grind-session.json](./45018-grind-session.json) |
 | Grind Stormer | 293645 | [293645-grind-stormer.json](./293645-grind-stormer.json) |
 | Grind TD | 389987 | [389987-grind-td.json](./389987-grind-td.json) |
@@ -8156,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Beets Clicker | 259556 | [259556-grow-beets-clicker.json](./259556-grow-beets-clicker.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Cannon | 269055 | [269055-grow-cannon.json](./269055-grow-cannon.json) |
+| Grow Empire: Rome | 371942 | [371942-grow-empire-rome.json](./371942-grow-empire-rome.json) |
 | Grow Golf | 394884 | [394884-grow-golf.json](./394884-grow-golf.json) |
 | Grow Heroes Vip | 107108 | [107108-grow-heroes-vip.json](./107108-grow-heroes-vip.json) |
 | Grow Home | 8774 | [8774-grow-home.json](./8774-grow-home.json) |
