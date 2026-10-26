@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Stop | 81927 | [81927-jump-stop.json](./81927-jump-stop.json) |
 | Jump Tanks | 36330 | [36330-jump-tanks.json](./36330-jump-tanks.json) |
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
+| Jump the Track | 341994 | [341994-jump-the-track.json](./341994-jump-the-track.json) |
 | Jump to Die!! | 29758 | [29758-jump-to-die.json](./29758-jump-to-die.json) |
 | Jump To Stratos | 376567 | [376567-jump-to-stratos.json](./376567-jump-to-stratos.json) |
 | Jump To Success | 392341 | [392341-jump-to-success.json](./392341-jump-to-success.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Heat: War of Clans | 56576 | [56576-jungle-heat-war-of-clans.json](./56576-jungle-heat-war-of-clans.json) |
 | Jungle House | 157455 | [157455-jungle-house.json](./157455-jungle-house.json) |
 | Jungle Hunt | 282065 | [282065-jungle-hunt.json](./282065-jungle-hunt.json) |
+| Jungle Hunt | 341966 | [341966-jungle-hunt.json](./341966-jungle-hunt.json) |
 | Jungle Jammy | 242565 | [242565-jungle-jammy.json](./242565-jungle-jammy.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
