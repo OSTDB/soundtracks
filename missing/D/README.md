@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
 | Daniel X: The Ultimate Power | 67188 | [67188-daniel-x-the-ultimate-power.json](./67188-daniel-x-the-ultimate-power.json) |
 | Daniel's Jetpack Flight | 331755 | [331755-daniels-jetpack-flight.json](./331755-daniels-jetpack-flight.json) |
+| Daniel's Violent Doom | 355049 | [355049-daniels-violent-doom.json](./355049-daniels-violent-doom.json) |
 | Danjigoku | 276122 | [276122-danjigoku.json](./276122-danjigoku.json) |
 | Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
@@ -1609,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
 | Dark Souls: Nightfall | 401846 | [401846-dark-souls-nightfall.json](./401846-dark-souls-nightfall.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
+| Dark Souls: Remastered Seamless Co-op | 354911 | [354911-dark-souls-remastered-seamless-co-op.json](./354911-dark-souls-remastered-seamless-co-op.json) |
 | Dark Space | 283396 | [283396-dark-space.json](./283396-dark-space.json) |
 | Dark Space Conqueror | 118615 | [118615-dark-space-conqueror.json](./118615-dark-space-conqueror.json) |
 | Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
@@ -3764,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Jump | 383785 | [383785-death-jump.json](./383785-death-jump.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Kid + There's a Gun in the Office Bundle | 358629 | [358629-death-kid-theres-a-gun-in-the-office-bundle.json](./358629-death-kid-theres-a-gun-in-the-office-bundle.json) |
+| Death Kitchen | 355047 | [355047-death-kitchen.json](./355047-death-kitchen.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
 | Death Lap | 174550 | [174550-death-lap.json](./174550-death-lap.json) |
 | Death Lease | 266076 | [266076-death-lease.json](./266076-death-lease.json) |
@@ -6052,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Basketball 2 | 262880 | [262880-desktop-basketball-2.json](./262880-desktop-basketball-2.json) |
 | Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
 | Desktop Bouncer | 416030 | [416030-desktop-bouncer.json](./416030-desktop-bouncer.json) |
+| Desktop Cat | 354935 | [354935-desktop-cat.json](./354935-desktop-cat.json) |
 | Desktop Cat Cafe | 330383 | [330383-desktop-cat-cafe.json](./330383-desktop-cat-cafe.json) |
 | Desktop Clicker | 350513 | [350513-desktop-clicker.json](./350513-desktop-clicker.json) |
 | Desktop Colony | 372508 | [372508-desktop-colony.json](./372508-desktop-colony.json) |
@@ -7286,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die For Metal | 197703 | [197703-die-for-metal.json](./197703-die-for-metal.json) |
 | Die for Pay | 389385 | [389385-die-for-pay.json](./389385-die-for-pay.json) |
 | Die for the Economy! | 325314 | [325314-die-for-the-economy.json](./325314-die-for-the-economy.json) |
+| Die For The Lich | 354913 | [354913-die-for-the-lich.json](./354913-die-for-the-lich.json) |
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
 | Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
@@ -7719,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimenshot | 361071 | [361071-dimenshot.json](./361071-dimenshot.json) |
 | Dimensi Lain Serena | 301117 | [301117-dimensi-lain-serena.json](./301117-dimensi-lain-serena.json) |
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
+| Dimension Ascent | 355596 | [355596-dimension-ascent.json](./355596-dimension-ascent.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
 | Dimension Drive: Limited Edition | 167045 | [167045-dimension-drive-limited-edition.json](./167045-dimension-drive-limited-edition.json) |
@@ -10954,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
 | Doomer Simulator | 164945 | [164945-doomer-simulator.json](./164945-doomer-simulator.json) |
 | Doomer's Adventure | 166844 | [166844-doomers-adventure.json](./166844-doomers-adventure.json) |
+| Doomfields | 354929 | [354929-doomfields.json](./354929-doomfields.json) |
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
 | Doomium | 307817 | [307817-doomium.json](./307817-doomium.json) |
