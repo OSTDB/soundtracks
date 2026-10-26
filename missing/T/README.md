@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Dungeon: The Ring of Life | 407450 | [407450-text-dungeon-the-ring-of-life.json](./407450-text-dungeon-the-ring-of-life.json) |
 | Text Express | 207031 | [207031-text-express.json](./207031-text-express.json) |
 | Text Express 2 | 385647 | [385647-text-express-2.json](./385647-text-express-2.json) |
+| Text Invaders | 359898 | [359898-text-invaders.json](./359898-text-invaders.json) |
 | Text me when you get home | 179890 | [179890-text-me-when-you-get-home.json](./179890-text-me-when-you-get-home.json) |
 | Text RPG | 169740 | [169740-text-rpg.json](./169740-text-rpg.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
@@ -7566,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Executioner: Prologue | 51993 | [51993-the-executioner-prologue.json](./51993-the-executioner-prologue.json) |
 | The Executioner: Watchmaker's Son | 170839 | [170839-the-executioner-watchmakers-son.json](./170839-the-executioner-watchmakers-son.json) |
 | The Executive | 90812 | [90812-the-executive.json](./90812-the-executive.json) |
+| The Exhibit | 360035 | [360035-the-exhibit.json](./360035-the-exhibit.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
 | The Exiled | 26241 | [26241-the-exiled.json](./26241-the-exiled.json) |
 | The Existence Abstract | 38800 | [38800-the-existence-abstract.json](./38800-the-existence-abstract.json) |
@@ -22230,6 +22232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Heisatsu Yuugi | 294407 | [294407-touhou-heisatsu-yuugi.json](./294407-touhou-heisatsu-yuugi.json) |
 | Touhou Hero of Ice Fairy | 207662 | [207662-touhou-hero-of-ice-fairy.json](./207662-touhou-hero-of-ice-fairy.json) |
 | Touhou Hero of Ice Fairy: Immortal Phoenix And Lunarian Princess | 402554 | [402554-touhou-hero-of-ice-fairy-immortal-phoenix-and-lunarian-princess.json](./402554-touhou-hero-of-ice-fairy-immortal-phoenix-and-lunarian-princess.json) |
+| Touhou Hero of Ice Fairy: Rose Idol | 360024 | [360024-touhou-hero-of-ice-fairy-rose-idol.json](./360024-touhou-hero-of-ice-fairy-rose-idol.json) |
 | Touhou Hisouten: Scarlet Weather Rhapsody | 27160 | [27160-touhou-hisouten-scarlet-weather-rhapsody.json](./27160-touhou-hisouten-scarlet-weather-rhapsody.json) |
 | Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe | 27157 | [27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json](./27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json) |
 | Touhou Houtenkyou: Treasure Castle Labyrinth | 276761 | [276761-touhou-houtenkyou-treasure-castle-labyrinth.json](./276761-touhou-houtenkyou-treasure-castle-labyrinth.json) |
@@ -23546,8 +23549,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Cajon Pass: Barstow - San Bernardino Route Add-On | 359493 | [359493-train-sim-world-5-cajon-pass-barstow-san-bernardino-route-add-on.json](./359493-train-sim-world-5-cajon-pass-barstow-san-bernardino-route-add-on.json) |
 | Train Sim World 5: Caltrain MP15DC Diesel Switcher Loco Add-On | 359960 | [359960-train-sim-world-5-caltrain-mp15dc-diesel-switcher-loco-add-on.json](./359960-train-sim-world-5-caltrain-mp15dc-diesel-switcher-loco-add-on.json) |
 | Train Sim World 5: Caltrain MP36PH-3C Baby Bullet Loco Add-On | 359500 | [359500-train-sim-world-5-caltrain-mp36ph-3c-baby-bullet-loco-add-on.json](./359500-train-sim-world-5-caltrain-mp36ph-3c-baby-bullet-loco-add-on.json) |
+| Train Sim World 5: Canadian National Oakville Subdivision: Hamilton - Oakville Route Add-On | 359966 | [359966-train-sim-world-5-canadian-national-oakville-subdivision-hamilton-oakville-route-add-on.json](./359966-train-sim-world-5-canadian-national-oakville-subdivision-hamilton-oakville-route-add-on.json) |
 | Train Sim World 5: Cane Creek: Thompson - Potash Route Add-On | 359955 | [359955-train-sim-world-5-cane-creek-thompson-potash-route-add-on.json](./359955-train-sim-world-5-cane-creek-thompson-potash-route-add-on.json) |
 | Train Sim World 5: Cargo Line Vol. 1 - Petroleum | 359496 | [359496-train-sim-world-5-cargo-line-vol-1-petroleum.json](./359496-train-sim-world-5-cargo-line-vol-1-petroleum.json) |
+| Train Sim World 5: Cathcart Circle Line: Glasgow - Neilston & Newton Add-On | 359964 | [359964-train-sim-world-5-cathcart-circle-line-glasgow-neilston-and-newton-add-on.json](./359964-train-sim-world-5-cathcart-circle-line-glasgow-neilston-and-newton-add-on.json) |
 | Train Sim World 5: Centro Regional Railways BR Class 323 Add-On | 359507 | [359507-train-sim-world-5-centro-regional-railways-br-class-323-add-on.json](./359507-train-sim-world-5-centro-regional-railways-br-class-323-add-on.json) |
 | Train Sim World 5: Clinchfield Railroad: Elkhorn - Dante Route Add-On | 359510 | [359510-train-sim-world-5-clinchfield-railroad-elkhorn-dante-route-add-on.json](./359510-train-sim-world-5-clinchfield-railroad-elkhorn-dante-route-add-on.json) |
 | Train Sim World 5: CSX C40-8W Loco Add-On | 359502 | [359502-train-sim-world-5-csx-c40-8w-loco-add-on.json](./359502-train-sim-world-5-csx-c40-8w-loco-add-on.json) |
@@ -23565,6 +23570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Dispolok BR 182 Add-On | 359977 | [359977-train-sim-world-5-dispolok-br-182-add-on.json](./359977-train-sim-world-5-dispolok-br-182-add-on.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
 | Train Sim World 5: East Coastway: Brighton - Eastbourne & Seaford Route Add-On | 359497 | [359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json](./359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json) |
+| Train Sim World 5: Edinburgh - Glasgow: Engineering Express Pack | 359963 | [359963-train-sim-world-5-edinburgh-glasgow-engineering-express-pack.json](./359963-train-sim-world-5-edinburgh-glasgow-engineering-express-pack.json) |
 | Train Sim World 5: Expert DB BR 101 & IC Steuerwagen Loco Add-On | 359978 | [359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json](./359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json) |
 | Train Sim World 5: Expert DB BR 101 on Kassel - Würzburg Gameplay Pack | 360524 | [360524-train-sim-world-5-expert-db-br-101-on-kassel-wurzburg-gameplay-pack.json](./360524-train-sim-world-5-expert-db-br-101-on-kassel-wurzburg-gameplay-pack.json) |
 | Train Sim World 5: Fife Circle Line: Edinburgh - Markinch via Dunfermline & Kirkcaldy Route Add-On | 359948 | [359948-train-sim-world-5-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route-add-on.json](./359948-train-sim-world-5-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route-add-on.json) |
@@ -23577,6 +23583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Great Western Express | 332091 | [332091-train-sim-world-5-great-western-express.json](./332091-train-sim-world-5-great-western-express.json) |
 | Train Sim World 5: Great Western Express Route Add-On | 359956 | [359956-train-sim-world-5-great-western-express-route-add-on.json](./359956-train-sim-world-5-great-western-express-route-add-on.json) |
 | Train Sim World 5: Harlem Line: Grand Central Terminal - North White Plains Route Add-On | 359501 | [359501-train-sim-world-5-harlem-line-grand-central-terminal-north-white-plains-route-add-on.json](./359501-train-sim-world-5-harlem-line-grand-central-terminal-north-white-plains-route-add-on.json) |
+| Train Sim World 5: Hauptstrecke Hamburg - Lübeck Route | 359969 | [359969-train-sim-world-5-hauptstrecke-hamburg-lubeck-route.json](./359969-train-sim-world-5-hauptstrecke-hamburg-lubeck-route.json) |
 | Train Sim World 5: Hauptstrecke Munchen - Augsburg Route | 359938 | [359938-train-sim-world-5-hauptstrecke-munchen-augsburg-route.json](./359938-train-sim-world-5-hauptstrecke-munchen-augsburg-route.json) |
 | Train Sim World 5: Hauptstrecke Rhein-Ruhr: Duisburg - Bochum Route Add-On | 359949 | [359949-train-sim-world-5-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json](./359949-train-sim-world-5-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json) |
 | Train Sim World 5: HKA Bogie Hopper Wagon Pack | 336881 | [336881-train-sim-world-5-hka-bogie-hopper-wagon-pack.json](./336881-train-sim-world-5-hka-bogie-hopper-wagon-pack.json) |
@@ -23594,12 +23601,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: MBTA Providence/Stoughton Line HSP46 Pack | 366841 | [366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json](./366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json) |
 | Train Sim World 5: Metrolink Holiday Train Pack | 336879 | [336879-train-sim-world-5-metrolink-holiday-train-pack.json](./336879-train-sim-world-5-metrolink-holiday-train-pack.json) |
 | Train Sim World 5: Midland Main Line: Leicester - Derby & Nottingham Route Add-On | 359947 | [359947-train-sim-world-5-midland-main-line-leicester-derby-and-nottingham-route-add-on.json](./359947-train-sim-world-5-midland-main-line-leicester-derby-and-nottingham-route-add-on.json) |
+| Train Sim World 5: New Journeys - CSX SD40 Add-On | 359968 | [359968-train-sim-world-5-new-journeys-csx-sd40-add-on.json](./359968-train-sim-world-5-new-journeys-csx-sd40-add-on.json) |
 | Train Sim World 5: New Journeys - Silver 1972 Stock Add-On | 359934 | [359934-train-sim-world-5-new-journeys-silver-1972-stock-add-on.json](./359934-train-sim-world-5-new-journeys-silver-1972-stock-add-on.json) |
 | Train Sim World 5: Niddertalbahn: Bad Vilbel - Stockheim Route Add-On | 359940 | [359940-train-sim-world-5-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./359940-train-sim-world-5-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
 | Train Sim World 5: Norfolk Southern Heritage Livery Collection Add-On | 359950 | [359950-train-sim-world-5-norfolk-southern-heritage-livery-collection-add-on.json](./359950-train-sim-world-5-norfolk-southern-heritage-livery-collection-add-on.json) |
 | Train Sim World 5: Northeast Corridor: New York - Trenton | 359943 | [359943-train-sim-world-5-northeast-corridor-new-york-trenton.json](./359943-train-sim-world-5-northeast-corridor-new-york-trenton.json) |
 | Train Sim World 5: Peninsula Corridor: San Francisco - San Jose Route Add-On | 359183 | [359183-train-sim-world-5-peninsula-corridor-san-francisco-san-jose-route-add-on.json](./359183-train-sim-world-5-peninsula-corridor-san-francisco-san-jose-route-add-on.json) |
 | Train Sim World 5: Pfälzische Ludwigsbahn: Mannheim - Kaiserslautern | 402356 | [402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json](./402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json) |
+| Train Sim World 5: Rail Head Treatment Train Add-On | 359965 | [359965-train-sim-world-5-rail-head-treatment-train-add-on.json](./359965-train-sim-world-5-rail-head-treatment-train-add-on.json) |
 | Train Sim World 5: Rail Operations Group BR Class 37/7 Add-On | 359511 | [359511-train-sim-world-5-rail-operations-group-br-class-37-7-add-on.json](./359511-train-sim-world-5-rail-operations-group-br-class-37-7-add-on.json) |
 | Train Sim World 5: Rapid Transit | 359952 | [359952-train-sim-world-5-rapid-transit.json](./359952-train-sim-world-5-rapid-transit.json) |
 | Train Sim World 5: RhB Anniversary Collection Add-On | 359935 | [359935-train-sim-world-5-rhb-anniversary-collection-add-on.json](./359935-train-sim-world-5-rhb-anniversary-collection-add-on.json) |
@@ -23612,6 +23621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Schnellfahrstrecke Kassel - Würzburg Route Add-On | 359954 | [359954-train-sim-world-5-schnellfahrstrecke-kassel-wurzburg-route-add-on.json](./359954-train-sim-world-5-schnellfahrstrecke-kassel-wurzburg-route-add-on.json) |
 | Train Sim World 5: Schnellfahrstrecke Koln-Aachen Route Add-On | 359513 | [359513-train-sim-world-5-schnellfahrstrecke-koln-aachen-route-add-on.json](./359513-train-sim-world-5-schnellfahrstrecke-koln-aachen-route-add-on.json) |
 | Train Sim World 5: ScotRail BR Class 158 Sprinter DMU Add-On | 359487 | [359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json](./359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json) |
+| Train Sim World 5: ScotRail BR Class 380 EMU Add-On | 359967 | [359967-train-sim-world-5-scotrail-br-class-380-emu-add-on.json](./359967-train-sim-world-5-scotrail-br-class-380-emu-add-on.json) |
 | Train Sim World 5: ScotRail Express: Edinburgh - Glasgow Route Add-On | 359488 | [359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json](./359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json) |
 | Train Sim World 5: Sherman Hill - Cheyenne - Laramie | 332095 | [332095-train-sim-world-5-sherman-hill-cheyenne-laramie.json](./332095-train-sim-world-5-sherman-hill-cheyenne-laramie.json) |
 | Train Sim World 5: Southern BR Class 313 EMU | 359484 | [359484-train-sim-world-5-southern-br-class-313-emu.json](./359484-train-sim-world-5-southern-br-class-313-emu.json) |
@@ -27894,6 +27904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TWP Spine of the World | 68419 | [68419-twp-spine-of-the-world.json](./68419-twp-spine-of-the-world.json) |
 | Twwwr | 141761 | [141761-twwwr.json](./141761-twwwr.json) |
 | Twyla | 260534 | [260534-twyla.json](./260534-twyla.json) |
+| TX Poker: Texas Holdem Online | 359912 | [359912-tx-poker-texas-holdem-online.json](./359912-tx-poker-texas-holdem-online.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | Ty the Tasmanian Tiger 2: Bush Rescue | 210497 | [210497-ty-the-tasmanian-tiger-2-bush-rescue.json](./210497-ty-the-tasmanian-tiger-2-bush-rescue.json) |
 | TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
