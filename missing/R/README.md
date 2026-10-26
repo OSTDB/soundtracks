@@ -7776,6 +7776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock of the Dead | 7163 | [7163-rock-of-the-dead.json](./7163-rock-of-the-dead.json) |
 | Rock On | 37658 | [37658-rock-on.json](./37658-rock-on.json) |
 | Rock On! Island | 318739 | [318739-rock-on-island.json](./318739-rock-on-island.json) |
+| Rock Paper Clash | 364441 | [364441-rock-paper-clash.json](./364441-rock-paper-clash.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
 | Rock Paper Everything | 312010 | [312010-rock-paper-everything.json](./312010-rock-paper-everything.json) |
 | Rock Paper Kill | 412545 | [412545-rock-paper-kill.json](./412545-rock-paper-kill.json) |
