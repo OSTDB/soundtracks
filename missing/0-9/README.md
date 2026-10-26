@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Belgrade | 284619 | [284619-100-cats-belgrade.json](./284619-100-cats-belgrade.json) |
 | 100 Cats Berlin | 283866 | [283866-100-cats-berlin.json](./283866-100-cats-berlin.json) |
 | 100 Cats Greece | 283041 | [283041-100-cats-greece.json](./283041-100-cats-greece.json) |
+| 100 Cats India | 335190 | [335190-100-cats-india.json](./335190-100-cats-india.json) |
 | 100 Cats Istanbul | 334173 | [334173-100-cats-istanbul.json](./334173-100-cats-istanbul.json) |
 | 100 Cats London | 283042 | [283042-100-cats-london.json](./283042-100-cats-london.json) |
 | 100 Cats London: Extra Content | 308930 | [308930-100-cats-london-extra-content.json](./308930-100-cats-london-extra-content.json) |
@@ -462,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats New York | 283043 | [283043-100-cats-new-york.json](./283043-100-cats-new-york.json) |
 | 100 Cats New York: Extra Content | 325502 | [325502-100-cats-new-york-extra-content.json](./325502-100-cats-new-york-extra-content.json) |
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
+| 100 Cats Philippines | 335191 | [335191-100-cats-philippines.json](./335191-100-cats-philippines.json) |
 | 100 Cats Singapore | 284618 | [284618-100-cats-singapore.json](./284618-100-cats-singapore.json) |
 | 100 Chernobyl Cats | 375450 | [375450-100-chernobyl-cats.json](./375450-100-chernobyl-cats.json) |
 | 100 Chests | 101332 | [101332-100-chests.json](./101332-100-chests.json) |
@@ -580,8 +582,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Screamers | 325498 | [325498-100-screamers.json](./325498-100-screamers.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Seconds | 89387 | [89387-100-seconds.json](./89387-100-seconds.json) |
+| 100 Singapore Cats | 335192 | [335192-100-singapore-cats.json](./335192-100-singapore-cats.json) |
 | 100 Space Cats | 288398 | [288398-100-space-cats.json](./288398-100-space-cats.json) |
 | 100 Space Cats: Extra Content | 305629 | [305629-100-space-cats-extra-content.json](./305629-100-space-cats-extra-content.json) |
+| 100 Sri Lanka Cats | 335193 | [335193-100-sri-lanka-cats.json](./335193-100-sri-lanka-cats.json) |
 | 100 Steps | 265505 | [265505-100-steps.json](./265505-100-steps.json) |
 | 100 Tavern Cats | 376183 | [376183-100-tavern-cats.json](./376183-100-tavern-cats.json) |
 | 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
@@ -602,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Years: Life Simulator | 212457 | [212457-100-years-life-simulator.json](./212457-100-years-life-simulator.json) |
 | 100 Years' War | 96687 | [96687-100-years-war.json](./96687-100-years-war.json) |
 | 100 Yen Exorcist | 408725 | [408725-100-yen-exorcist.json](./408725-100-yen-exorcist.json) |
+| 100 Zombie Cats | 335195 | [335195-100-zombie-cats.json](./335195-100-zombie-cats.json) |
 | 100-Level Dungeon | 156577 | [156577-100-level-dungeon.json](./156577-100-level-dungeon.json) |
 | 100-man-nin no Nobunaga no Yabou | 208243 | [208243-100-man-nin-no-nobunaga-no-yabou.json](./208243-100-man-nin-no-nobunaga-no-yabou.json) |
 | 100-oku-hiki no Mona | 297640 | [297640-100-oku-hiki-no-mona.json](./297640-100-oku-hiki-no-mona.json) |
@@ -716,11 +721,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 1001st Hyper Tower | 146644 | [146644-1001st-hyper-tower.json](./146644-1001st-hyper-tower.json) |
 | 100nya | 30580 | [30580-100nya.json](./30580-100nya.json) |
+| 100th Bug Brigade | 335194 | [335194-100th-bug-brigade.json](./335194-100th-bug-brigade.json) |
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
 | 101 Bunny Pets | 202175 | [202175-101-bunny-pets.json](./202175-101-bunny-pets.json) |
 | 101 Card & Board Games | 228408 | [228408-101-card-and-board-games.json](./228408-101-card-and-board-games.json) |
 | 101 Cats | 283047 | [283047-101-cats.json](./283047-101-cats.json) |
 | 101 Cats in Amsterdam | 310249 | [310249-101-cats-in-amsterdam.json](./310249-101-cats-in-amsterdam.json) |
+| 101 Cats in Antalya | 335196 | [335196-101-cats-in-antalya.json](./335196-101-cats-in-antalya.json) |
 | 101 Cats in Australia | 320313 | [320313-101-cats-in-australia.json](./320313-101-cats-in-australia.json) |
 | 101 Cats in Barcelona | 350324 | [350324-101-cats-in-barcelona.json](./350324-101-cats-in-barcelona.json) |
 | 101 Cats in Belgium | 379393 | [379393-101-cats-in-belgium.json](./379393-101-cats-in-belgium.json) |
@@ -2380,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Minutes: DLC 1 | 377395 | [377395-5-minutes-dlc-1.json](./377395-5-minutes-dlc-1.json) |
 | 5 Minutes: DLC 2 | 377394 | [377394-5-minutes-dlc-2.json](./377394-5-minutes-dlc-2.json) |
 | 5 Minutes: DLC Final | 377393 | [377393-5-minutes-dlc-final.json](./377393-5-minutes-dlc-final.json) |
+| 5 Nights at Bobr Kurwa | 335223 | [335223-5-nights-at-bobr-kurwa.json](./335223-5-nights-at-bobr-kurwa.json) |
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
 | 5 Nights at Hoax Freddy's | 277810 | [277810-5-nights-at-hoax-freddys.json](./277810-5-nights-at-hoax-freddys.json) |
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
