@@ -4961,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie the Pooh Wonder and Wander | 409378 | [409378-winnie-the-pooh-wonder-and-wander.json](./409378-winnie-the-pooh-wonder-and-wander.json) |
 | Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
 | Winnie the Pooh: Kindergarten | 43732 | [43732-winnie-the-pooh-kindergarten.json](./43732-winnie-the-pooh-kindergarten.json) |
+| Winnie the Pooh: Piglet's Special Day | 366203 | [366203-winnie-the-pooh-piglets-special-day.json](./366203-winnie-the-pooh-piglets-special-day.json) |
 | Winnie the Pooh: Preschool | 43731 | [43731-winnie-the-pooh-preschool.json](./43731-winnie-the-pooh-preschool.json) |
 | Winnie the Pooh: The Honey Hunt | 78484 | [78484-winnie-the-pooh-the-honey-hunt.json](./78484-winnie-the-pooh-the-honey-hunt.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
