@@ -11637,13 +11637,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64EX Coop | 198369 | [198369-sm64ex-coop.json](./198369-sm64ex-coop.json) |
 | SM64EX Coop: Lug's Delightful Dioramas | 378300 | [378300-sm64ex-coop-lugs-delightful-dioramas.json](./378300-sm64ex-coop-lugs-delightful-dioramas.json) |
 | SM64EX Coop: Odyssey Mario's Moveset - Rebirth | 378302 | [378302-sm64ex-coop-odyssey-marios-moveset-rebirth.json](./378302-sm64ex-coop-odyssey-marios-moveset-rebirth.json) |
+| SM64EX Coop: Peach's Fury | 378260 | [378260-sm64ex-coop-peachs-fury.json](./378260-sm64ex-coop-peachs-fury.json) |
 | SM64EX Coop: SM64 - Shining Stars | 378266 | [378266-sm64ex-coop-sm64-shining-stars.json](./378266-sm64ex-coop-sm64-shining-stars.json) |
+| SM64EX Coop: SM64 Land | 378258 | [378258-sm64ex-coop-sm64-land.json](./378258-sm64ex-coop-sm64-land.json) |
+| SM64EX Coop: SM64 Last Impact | 378259 | [378259-sm64ex-coop-sm64-last-impact.json](./378259-sm64ex-coop-sm64-last-impact.json) |
 | SM64EX Coop: SM64 Sapphire | 378265 | [378265-sm64ex-coop-sm64-sapphire.json](./378265-sm64ex-coop-sm64-sapphire.json) |
 | SM64EX Coop: SM64 Trouble Town | 378264 | [378264-sm64ex-coop-sm64-trouble-town.json](./378264-sm64ex-coop-sm64-trouble-town.json) |
 | SM64EX Coop: Star Revenge 2 - Night of Doom | 378298 | [378298-sm64ex-coop-star-revenge-2-night-of-doom.json](./378298-sm64ex-coop-star-revenge-2-night-of-doom.json) |
 | SM64EX Coop: Star Revenge 4 - The Kedama Takeover 64 | 378267 | [378267-sm64ex-coop-star-revenge-4-the-kedama-takeover-64.json](./378267-sm64ex-coop-star-revenge-4-the-kedama-takeover-64.json) |
 | SM64EX Coop: Super Mario 64 Moonshine | 378301 | [378301-sm64ex-coop-super-mario-64-moonshine.json](./378301-sm64ex-coop-super-mario-64-moonshine.json) |
 | SM64EX Coop: Yoshi's Adventure 64 | 378263 | [378263-sm64ex-coop-yoshis-adventure-64.json](./378263-sm64ex-coop-yoshis-adventure-64.json) |
+| SM64EX OMM: Super Mario 64 - The Green Stars | 378236 | [378236-sm64ex-omm-super-mario-64-the-green-stars.json](./378236-sm64ex-omm-super-mario-64-the-green-stars.json) |
+| SM64EX OMM: Super Mario 74 | 378237 | [378237-sm64ex-omm-super-mario-74.json](./378237-sm64ex-omm-super-mario-74.json) |
+| SM64EX OMM: Super Mario Star Road | 378234 | [378234-sm64ex-omm-super-mario-star-road.json](./378234-sm64ex-omm-super-mario-star-road.json) |
 | SM64Kitty's Kaizo Hack | 377358 | [377358-sm64kittys-kaizo-hack.json](./377358-sm64kittys-kaizo-hack.json) |
 | SM64RT | 307740 | [307740-sm64rt.json](./307740-sm64rt.json) |
 | SM74&EE | 378288 | [378288-sm74-and-ee.json](./378288-sm74-and-ee.json) |
@@ -23487,6 +23493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strifeshadow | 93456 | [93456-strifeshadow.json](./93456-strifeshadow.json) |
+| Strigoi Town | 378218 | [378218-strigoi-town.json](./378218-strigoi-town.json) |
 | Strike | 83383 | [83383-strike.json](./83383-strike.json) |
 | Strike & Resist | 346635 | [346635-strike-and-resist.json](./346635-strike-and-resist.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
@@ -27163,6 +27170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shogi 3: Kitaihei | 42223 | [42223-super-shogi-3-kitaihei.json](./42223-super-shogi-3-kitaihei.json) |
 | Super Shoot Owl | 75664 | [75664-super-shoot-owl.json](./75664-super-shoot-owl.json) |
 | Super Shoot: Red Hot | 216100 | [216100-super-shoot-red-hot.json](./216100-super-shoot-red-hot.json) |
+| Super Shootin Star | 378241 | [378241-super-shootin-star.json](./378241-super-shootin-star.json) |
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Shopper | 107809 | [107809-super-shopper.json](./107809-super-shopper.json) |
 | Super Shuttle Blaster Arcade | 97171 | [97171-super-shuttle-blaster-arcade.json](./97171-super-shuttle-blaster-arcade.json) |
