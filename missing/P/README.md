@@ -4765,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photoelektric | 208667 | [208667-photoelektric.json](./208667-photoelektric.json) |
 | Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
+| Photogeist Albums: Stayfer River Saga | 379414 | [379414-photogeist-albums-stayfer-river-saga.json](./379414-photogeist-albums-stayfer-river-saga.json) |
 | Photogenic Minds: Identity | 213543 | [213543-photogenic-minds-identity.json](./213543-photogenic-minds-identity.json) |
 | Photographer's Life Simulator | 346716 | [346716-photographers-life-simulator.json](./346716-photographers-life-simulator.json) |
 | Photographic Memory Test | 308506 | [308506-photographic-memory-test.json](./308506-photographic-memory-test.json) |
@@ -10335,6 +10336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooliminal | 412202 | [412202-pooliminal.json](./412202-pooliminal.json) |
 | Pools | 274791 | [274791-pools.json](./274791-pools.json) |
 | Pools of Darkness | 12761 | [12761-pools-of-darkness.json](./12761-pools-of-darkness.json) |
+| Poolscape | 379400 | [379400-poolscape.json](./379400-poolscape.json) |
 | Poolside Boys Kiss: Passion Fruits Hotel Dating Sim | 362196 | [362196-poolside-boys-kiss-passion-fruits-hotel-dating-sim.json](./362196-poolside-boys-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poolside Vigil | 384180 | [384180-poolside-vigil.json](./384180-poolside-vigil.json) |
