@@ -3245,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dungeon | 30599 | [30599-vr-dungeon.json](./30599-vr-dungeon.json) |
 | VR Dungeon Knight | 30170 | [30170-vr-dungeon-knight.json](./30170-vr-dungeon-knight.json) |
 | VR Dunhuang | 81002 | [81002-vr-dunhuang.json](./81002-vr-dunhuang.json) |
+| VR Dunk Assistant | 334595 | [334595-vr-dunk-assistant.json](./334595-vr-dunk-assistant.json) |
 | VR Enigma | 105130 | [105130-vr-enigma.json](./105130-vr-enigma.json) |
 | VR Escape From Jurassic Island | 372072 | [372072-vr-escape-from-jurassic-island.json](./372072-vr-escape-from-jurassic-island.json) |
 | VR Escape the Puzzle Room | 81182 | [81182-vr-escape-the-puzzle-room.json](./81182-vr-escape-the-puzzle-room.json) |
@@ -3414,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Waifu: MuChan | 277843 | [277843-vr-waifu-muchan.json](./277843-vr-waifu-muchan.json) |
 | VR Walking Simulator | 150688 | [150688-vr-walking-simulator.json](./150688-vr-walking-simulator.json) |
 | VR War Lab | 216488 | [216488-vr-war-lab.json](./216488-vr-war-lab.json) |
+| VR Wilderness Survival | 334598 | [334598-vr-wilderness-survival.json](./334598-vr-wilderness-survival.json) |
 | VR Wonderland: mini civilizations in a forest | 168082 | [168082-vr-wonderland-mini-civilizations-in-a-forest.json](./168082-vr-wonderland-mini-civilizations-in-a-forest.json) |
 | VR World of Pandas | 224651 | [224651-vr-world-of-pandas.json](./224651-vr-world-of-pandas.json) |
 | VR Zombies Survival | 395517 | [395517-vr-zombies-survival.json](./395517-vr-zombies-survival.json) |
