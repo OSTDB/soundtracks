@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Games: Prisoners of Destiny | 139751 | [139751-dangerous-games-prisoners-of-destiny.json](./139751-dangerous-games-prisoners-of-destiny.json) |
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
 | Dangerous Ground | 111219 | [111219-dangerous-ground.json](./111219-dangerous-ground.json) |
+| Dangerous Heaven: The Legend of the Ark | 386158 | [386158-dangerous-heaven-the-legend-of-the-ark.json](./386158-dangerous-heaven-the-legend-of-the-ark.json) |
 | Dangerous Hobby | 187732 | [187732-dangerous-hobby.json](./187732-dangerous-hobby.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
@@ -11393,7 +11394,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Time Dash | 183323 | [183323-double-time-dash.json](./183323-double-time-dash.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
+| Double Trouble: Sexy Academy | 386182 | [386182-double-trouble-sexy-academy.json](./386182-double-trouble-sexy-academy.json) |
 | Double Trouble: Sexy Adventure | 387107 | [387107-double-trouble-sexy-adventure.json](./387107-double-trouble-sexy-adventure.json) |
+| Double Trouble: Sexy Logic | 386183 | [386183-double-trouble-sexy-logic.json](./386183-double-trouble-sexy-logic.json) |
 | Double Turn | 83429 | [83429-double-turn.json](./83429-double-turn.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
 | Double Vision | 80388 | [80388-double-vision.json](./80388-double-vision.json) |
@@ -13869,6 +13872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Escape | 192930 | [192930-droid-escape.json](./192930-droid-escape.json) |
 | Droid Invaders | 100546 | [100546-droid-invaders.json](./100546-droid-invaders.json) |
 | Droid Invasion | 245964 | [245964-droid-invasion.json](./245964-droid-invasion.json) |
+| Droid Must Deliver | 386092 | [386092-droid-must-deliver.json](./386092-droid-must-deliver.json) |
 | Droid Warfare | 211153 | [211153-droid-warfare.json](./211153-droid-warfare.json) |
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
 | Droid Wars: Duel | 232950 | [232950-droid-wars-duel.json](./232950-droid-wars-duel.json) |
