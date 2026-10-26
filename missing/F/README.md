@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fumes | 72273 | [72273-fatal-fumes.json](./72273-fatal-fumes.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
 | Fatal Fury 2 | 4435 | [4435-fatal-fury-2.json](./4435-fatal-fury-2.json) |
+| Fatal Fury City of the Wolves: Fatal Fury 2 Terry costume | 341714 | [341714-fatal-fury-city-of-the-wolves-fatal-fury-2-terry-costume.json](./341714-fatal-fury-city-of-the-wolves-fatal-fury-2-terry-costume.json) |
 | Fatal Fury First Contact (Best Collection) | 75460 | [75460-fatal-fury-first-contact-best-collection.json](./75460-fatal-fury-first-contact-best-collection.json) |
 | Fatal Fury One | 400426 | [400426-fatal-fury-one.json](./400426-fatal-fury-one.json) |
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
