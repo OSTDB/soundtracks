@@ -10127,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominus Solaris | 245993 | [245993-dominus-solaris.json](./245993-dominus-solaris.json) |
 | Domion: Trinity Requiem | 181213 | [181213-domion-trinity-requiem.json](./181213-domion-trinity-requiem.json) |
 | Domiverse | 81246 | [81246-domiverse.json](./81246-domiverse.json) |
+| DomJOI Witch | 365126 | [365126-domjoi-witch.json](./365126-domjoi-witch.json) |
 | Domkey Kong | 336638 | [336638-domkey-kong.json](./336638-domkey-kong.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
 | Dommy | 40101 | [40101-dommy.json](./40101-dommy.json) |
@@ -11230,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doshin the Giant | 3894 | [3894-doshin-the-giant.json](./3894-doshin-the-giant.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
+| Dosmic | 365025 | [365025-dosmic.json](./365025-dosmic.json) |
 | DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
 | DosQ | 119439 | [119439-dosq.json](./119439-dosq.json) |
 | Dossun! Ganseki Battle | 42560 | [42560-dossun-ganseki-battle.json](./42560-dossun-ganseki-battle.json) |
