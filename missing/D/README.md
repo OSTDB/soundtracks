@@ -1173,6 +1173,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cellar Death Trial | 294015 | [294015-dark-cellar-death-trial.json](./294015-dark-cellar-death-trial.json) |
 | Dark Century | 12035 | [12035-dark-century.json](./12035-dark-century.json) |
 | Dark Chambers | 11869 | [11869-dark-chambers.json](./11869-dark-chambers.json) |
+| Dark Chambers | 338638 | [338638-dark-chambers.json](./338638-dark-chambers.json) |
+| Dark Chambers | 338639 | [338639-dark-chambers.json](./338639-dark-chambers.json) |
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
 | Dark Chess | 125697 | [125697-dark-chess.json](./125697-dark-chess.json) |
 | Dark Chess+ | 175242 | [175242-dark-chess.json](./175242-dark-chess.json) |
