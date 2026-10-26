@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Knight: Rebellion & Rise Of The Fallen | 305622 | [305622-fallen-knight-rebellion-and-rise-of-the-fallen.json](./305622-fallen-knight-rebellion-and-rise-of-the-fallen.json) |
 | Fallen Knight: Rise of the Fallen | 367514 | [367514-fallen-knight-rise-of-the-fallen.json](./367514-fallen-knight-rise-of-the-fallen.json) |
 | Fallen Leaf | 141083 | [141083-fallen-leaf.json](./141083-fallen-leaf.json) |
+| Fallen Lean | 370162 | [370162-fallen-lean.json](./370162-fallen-lean.json) |
 | Fallen Leaves | 257294 | [257294-fallen-leaves.json](./257294-fallen-leaves.json) |
 | Fallen Leaves | 57504 | [57504-fallen-leaves.json](./57504-fallen-leaves.json) |
 | Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
@@ -7376,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog of War | 29953 | [29953-fog-of-war.json](./29953-fog-of-war.json) |
 | Fog of War: Book One | 278264 | [278264-fog-of-war-book-one.json](./278264-fog-of-war-book-one.json) |
 | Fog of War: Extended Edition | 53038 | [53038-fog-of-war-extended-edition.json](./53038-fog-of-war-extended-edition.json) |
+| Fog Racing Circuit | 370177 | [370177-fog-racing-circuit.json](./370177-fog-racing-circuit.json) |
 | Fog: Battle Royale | 208186 | [208186-fog-battle-royale.json](./208186-fog-battle-royale.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
