@@ -4126,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Campaigns: Case Blue | 35666 | [35666-decisive-campaigns-case-blue.json](./35666-decisive-campaigns-case-blue.json) |
 | Decisive Strike | 199812 | [199812-decisive-strike.json](./199812-decisive-strike.json) |
 | Deck 'Em! | 236650 | [236650-deck-em.json](./236650-deck-em.json) |
+| Deck & Conn | 361654 | [361654-deck-and-conn.json](./361654-deck-and-conn.json) |
 | Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Beasts | 418622 | [418622-deck-beasts.json](./418622-deck-beasts.json) |
@@ -11400,7 +11401,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon II: The Revenge | 281513 | [281513-double-dragon-ii-the-revenge.json](./281513-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281514 | [281514-double-dragon-ii-the-revenge.json](./281514-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281525 | [281525-double-dragon-ii-the-revenge.json](./281525-double-dragon-ii-the-revenge.json) |
+| Double Dragon II: The Revenge | 361667 | [361667-double-dragon-ii-the-revenge.json](./361667-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 6790 | [6790-double-dragon-ii-the-revenge.json](./6790-double-dragon-ii-the-revenge.json) |
+| Double Dragon III: The Sacred Stones | 361668 | [361668-double-dragon-iii-the-sacred-stones.json](./361668-double-dragon-iii-the-sacred-stones.json) |
 | Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
 | Double Dragon IV | 26621 | [26621-double-dragon-iv.json](./26621-double-dragon-iv.json) |
 | Double Dragon Neon | 5968 | [5968-double-dragon-neon.json](./5968-double-dragon-neon.json) |
