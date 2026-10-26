@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
 | FallNation | 217213 | [217213-fallnation.json](./217213-fallnation.json) |
 | FallNation Lost Stories | 294941 | [294941-fallnation-lost-stories.json](./294941-fallnation-lost-stories.json) |
+| Fallosophy | 379952 | [379952-fallosophy.json](./379952-fallosophy.json) |
 | Fallout 1.5: Resurrection | 237828 | [237828-fallout-1-5-resurrection.json](./237828-fallout-1-5-resurrection.json) |
 | Fallout 2 Restoration Project Updated | 416640 | [416640-fallout-2-restoration-project-updated.json](./416640-fallout-2-restoration-project-updated.json) |
 | Fallout 3 / Oblivion Duo Pack | 171798 | [171798-fallout-3-oblivion-duo-pack.json](./171798-fallout-3-oblivion-duo-pack.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmyard Pals Jigsaw Puzzles | 357881 | [357881-farmyard-pals-jigsaw-puzzles.json](./357881-farmyard-pals-jigsaw-puzzles.json) |
 | Farmyard Survivors | 332969 | [332969-farmyard-survivors.json](./332969-farmyard-survivors.json) |
 | FarmZone | 159738 | [159738-farmzone.json](./159738-farmzone.json) |
+| Farnia Village | 379940 | [379940-farnia-village.json](./379940-farnia-village.json) |
 | Faro | 377923 | [377923-faro.json](./377923-faro.json) |
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
 | Faroda | 362765 | [362765-faroda.json](./362765-faroda.json) |
@@ -11631,6 +11633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
 | FX Racer | 380682 | [380682-fx-racer.json](./380682-fx-racer.json) |
 | Fx Racer Unlimited | 175117 | [175117-fx-racer-unlimited.json](./175117-fx-racer-unlimited.json) |
+| Fxxkable Kim | 379919 | [379919-fxxkable-kim.json](./379919-fxxkable-kim.json) |
 | Fxxx Me Royally!! Horny Magical Princess | 141710 | [141710-fxxx-me-royally-horny-magical-princess.json](./141710-fxxx-me-royally-horny-magical-princess.json) |
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
 | Fydo's Magic Tiles | 215179 | [215179-fydos-magic-tiles.json](./215179-fydos-magic-tiles.json) |
