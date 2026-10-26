@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
 | Witchcraft: Candy Hunt | 244910 | [244910-witchcraft-candy-hunt.json](./244910-witchcraft-candy-hunt.json) |
 | Witchcraft: Pandoras Box | 127248 | [127248-witchcraft-pandoras-box.json](./127248-witchcraft-pandoras-box.json) |
+| Witchcrafter | 365594 | [365594-witchcrafter.json](./365594-witchcrafter.json) |
 | Witchcrafty | 120920 | [120920-witchcrafty.json](./120920-witchcrafty.json) |
 | Witches & Vampires Ghost Pirates of Ashburry | 47812 | [47812-witches-and-vampires-ghost-pirates-of-ashburry.json](./47812-witches-and-vampires-ghost-pirates-of-ashburry.json) |
 | Witches & Vampires: The Secrets of Ashburry | 47813 | [47813-witches-and-vampires-the-secrets-of-ashburry.json](./47813-witches-and-vampires-the-secrets-of-ashburry.json) |
@@ -7138,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II: Sniper - Call to Victory | 138090 | [138090-world-war-ii-sniper-call-to-victory.json](./138090-world-war-ii-sniper-call-to-victory.json) |
 | World War II: Tank Commander | 205825 | [205825-world-war-ii-tank-commander.json](./205825-world-war-ii-tank-commander.json) |
 | World War II: TCG | 115174 | [115174-world-war-ii-tcg.json](./115174-world-war-ii-tcg.json) |
+| World War Legion | 365590 | [365590-world-war-legion.json](./365590-world-war-legion.json) |
 | World War Next | 288093 | [288093-world-war-next.json](./288093-world-war-next.json) |
 | World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
 | World War One: Centennial Edition | 52113 | [52113-world-war-one-centennial-edition.json](./52113-world-war-one-centennial-edition.json) |
@@ -7454,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woute | 152673 | [152673-woute.json](./152673-woute.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
 | Woven | 32150 | [32150-woven.json](./32150-woven.json) |
+| Woven Horizons | 365731 | [365731-woven-horizons.json](./365731-woven-horizons.json) |
 | WoW Hentai 2! | 366542 | [366542-wow-hentai-2.json](./366542-wow-hentai-2.json) |
 | Wow! Wow! Wubbzy | 76890 | [76890-wow-wow-wubbzy.json](./76890-wow-wow-wubbzy.json) |
 | Wowo Island | 375508 | [375508-wowo-island.json](./375508-wowo-island.json) |
