@@ -2734,7 +2734,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basted | 67666 | [67666-basted.json](./67666-basted.json) |
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
 | Bastet | 56985 | [56985-bastet.json](./56985-bastet.json) |
+| Bastion Frontier | 353948 | [353948-bastion-frontier.json](./353948-bastion-frontier.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
+| Bastion of Valor | 353945 | [353945-bastion-of-valor.json](./353945-bastion-of-valor.json) |
 | Bastionfall | 361026 | [361026-bastionfall.json](./361026-bastionfall.json) |
 | Bastionforge | 368651 | [368651-bastionforge.json](./368651-bastionforge.json) |
 | BastionOS | 390744 | [390744-bastionos.json](./390744-bastionos.json) |
