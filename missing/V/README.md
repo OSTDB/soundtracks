@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
 | Virtual High School Girl Game | 106654 | [106654-virtual-high-school-girl-game.json](./106654-virtual-high-school-girl-game.json) |
 | Virtual High School Life Sim | 296740 | [296740-virtual-high-school-life-sim.json](./296740-virtual-high-school-life-sim.json) |
+| Virtual Hiryu Ver. 1.5 | 351534 | [351534-virtual-hiryu-ver-1-5.json](./351534-virtual-hiryu-ver-1-5.json) |
 | Virtual Hiryuu no Ken | 61162 | [61162-virtual-hiryuu-no-ken.json](./61162-virtual-hiryuu-no-ken.json) |
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
 | Virtual Hunter | 173207 | [173207-virtual-hunter.json](./173207-virtual-hunter.json) |
