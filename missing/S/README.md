@@ -19352,6 +19352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqij! | 53159 | [53159-sqij.json](./53159-sqij.json) |
 | Sqij'd | 315196 | [315196-sqijd.json](./315196-sqijd.json) |
 | SQL Murder Mystery | 401188 | [401188-sql-murder-mystery.json](./401188-sql-murder-mystery.json) |
+| Sqorp | 339493 | [339493-sqorp.json](./339493-sqorp.json) |
 | SQP Run | 273259 | [273259-sqp-run.json](./273259-sqp-run.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
@@ -28520,6 +28521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surflexers | 201017 | [201017-surflexers.json](./201017-surflexers.json) |
 | Surfpunk | 314921 | [314921-surfpunk.json](./314921-surfpunk.json) |
 | Surfs Up! | 359745 | [359745-surfs-up.json](./359745-surfs-up.json) |
+| SurfsUp | 339492 | [339492-surfsup.json](./339492-surfsup.json) |
 | SurfTank | 268860 | [268860-surftank.json](./268860-surftank.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
 | Surge | 275573 | [275573-surge.json](./275573-surge.json) |
@@ -29727,6 +29729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Dancer: Kyoujin no Megami | 343961 | [343961-sword-dancer-kyoujin-no-megami.json](./343961-sword-dancer-kyoujin-no-megami.json) |
 | Sword Daughter | 35937 | [35937-sword-daughter.json](./35937-sword-daughter.json) |
 | Sword Defense | 116170 | [116170-sword-defense.json](./116170-sword-defense.json) |
+| Sword Dream | 339199 | [339199-sword-dream.json](./339199-sword-dream.json) |
 | Sword Drift | 263108 | [263108-sword-drift.json](./263108-sword-drift.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
 | Sword Fishing | 180718 | [180718-sword-fishing.json](./180718-sword-fishing.json) |
