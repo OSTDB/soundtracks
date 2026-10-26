@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Sudoku | 338598 | [338598-ultra-sudoku.json](./338598-ultra-sudoku.json) |
 | Ultra Sweeper | 338597 | [338597-ultra-sweeper.json](./338597-ultra-sweeper.json) |
 | Ultra Tank | 39402 | [39402-ultra-tank.json](./39402-ultra-tank.json) |
+| Ultra Vertigo | 373032 | [373032-ultra-vertigo.json](./373032-ultra-vertigo.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
 | Ultra Void | 402985 | [402985-ultra-void.json](./402985-ultra-void.json) |
@@ -2359,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnSeen | 380737 | [380737-unseen.json](./380737-unseen.json) |
 | Unseen Diplomacy | 33824 | [33824-unseen-diplomacy.json](./33824-unseen-diplomacy.json) |
 | Unseen Diplomacy 2 | 347836 | [347836-unseen-diplomacy-2.json](./347836-unseen-diplomacy-2.json) |
+| Unseen Land: Into the Mist | 373054 | [373054-unseen-land-into-the-mist.json](./373054-unseen-land-into-the-mist.json) |
 | Unseen World: Magical Lense | 384290 | [384290-unseen-world-magical-lense.json](./384290-unseen-world-magical-lense.json) |
 | Unsent | 343314 | [343314-unsent.json](./343314-unsent.json) |
 | Unsettled | 59244 | [59244-unsettled.json](./59244-unsettled.json) |
