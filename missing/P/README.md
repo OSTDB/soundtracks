@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
+| Path of Light | 344839 | [344839-path-of-light.json](./344839-path-of-light.json) |
 | Path of Mystery: A Brush with Death | 353783 | [353783-path-of-mystery-a-brush-with-death.json](./353783-path-of-mystery-a-brush-with-death.json) |
 | Path of Ninja | 295093 | [295093-path-of-ninja.json](./295093-path-of-ninja.json) |
 | Path of Ra | 211974 | [211974-path-of-ra.json](./211974-path-of-ra.json) |
@@ -15468,6 +15469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle to Go Planets and Universe | 84792 | [84792-puzzle-to-go-planets-and-universe.json](./84792-puzzle-to-go-planets-and-universe.json) |
 | Puzzle to Go Sightseeing | 84791 | [84791-puzzle-to-go-sightseeing.json](./84791-puzzle-to-go-sightseeing.json) |
 | Puzzle to Go Wildlife | 84790 | [84790-puzzle-to-go-wildlife.json](./84790-puzzle-to-go-wildlife.json) |
+| Puzzle to the Center of Earth | 344826 | [344826-puzzle-to-the-center-of-earth.json](./344826-puzzle-to-the-center-of-earth.json) |
 | Puzzle Together | 141838 | [141838-puzzle-together.json](./141838-puzzle-together.json) |
 | Puzzle Together: Animals Jigsaw Super Pack | 241311 | [241311-puzzle-together-animals-jigsaw-super-pack.json](./241311-puzzle-together-animals-jigsaw-super-pack.json) |
 | Puzzle Together: Architecture Jigsaw Super Pack | 241312 | [241312-puzzle-together-architecture-jigsaw-super-pack.json](./241312-puzzle-together-architecture-jigsaw-super-pack.json) |
