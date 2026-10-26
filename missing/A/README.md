@@ -13401,6 +13401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrogeo | 393544 | [393544-astrogeo.json](./393544-astrogeo.json) |
 | Astrogon | 139920 | [139920-astrogon.json](./139920-astrogon.json) |
+| Astrohaulers | 361082 | [361082-astrohaulers.json](./361082-astrohaulers.json) |
 | AstroHawk | 62503 | [62503-astrohawk.json](./62503-astrohawk.json) |
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
 | Astroidle | 336115 | [336115-astroidle.json](./336115-astroidle.json) |
