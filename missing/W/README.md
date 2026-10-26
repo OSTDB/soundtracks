@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Duelist | 215670 | [215670-wandering-duelist.json](./215670-wandering-duelist.json) |
 | Wandering Gem Jockeying | 121463 | [121463-wandering-gem-jockeying.json](./121463-wandering-gem-jockeying.json) |
 | Wandering Hamster | 124654 | [124654-wandering-hamster.json](./124654-wandering-hamster.json) |
+| Wandering Hunter | 370164 | [370164-wandering-hunter.json](./370164-wandering-hunter.json) |
 | Wandering in Space Online VR | 244309 | [244309-wandering-in-space-online-vr.json](./244309-wandering-in-space-online-vr.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
@@ -680,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Ashes | 214488 | [214488-war-ashes.json](./214488-war-ashes.json) |
 | War Asunder | 420573 | [420573-war-asunder.json](./420573-war-asunder.json) |
 | War Attack | 108898 | [108898-war-attack.json](./108898-war-attack.json) |
+| War Battle Royale Battlegrounds | 370171 | [370171-war-battle-royale-battlegrounds.json](./370171-war-battle-royale-battlegrounds.json) |
 | War Beasts | 164273 | [164273-war-beasts.json](./164273-war-beasts.json) |
 | War Birds: WW2 Air strike 1942 | 33281 | [33281-war-birds-ww2-air-strike-1942.json](./33281-war-birds-ww2-air-strike-1942.json) |
 | War Blade | 112071 | [112071-war-blade.json](./112071-war-blade.json) |
@@ -1286,14 +1288,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition | 382901 | [382901-warhammer-40-000-space-marine-2-1-year-anniversary-edition.json](./382901-warhammer-40-000-space-marine-2-1-year-anniversary-edition.json) |
 | Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition | 382902 | [382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json](./382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json) |
 | Warhammer 40,000: Space Marine Collection | 53904 | [53904-warhammer-40-000-space-marine-collection.json](./53904-warhammer-40-000-space-marine-collection.json) |
+| Warhammer 40,000: Space Marine II - Black Templars Champion Pack | 370087 | [370087-warhammer-40-000-space-marine-ii-black-templars-champion-pack.json](./370087-warhammer-40-000-space-marine-ii-black-templars-champion-pack.json) |
+| Warhammer 40,000: Space Marine II - Blood Angels Cosmetic Pack | 370081 | [370081-warhammer-40-000-space-marine-ii-blood-angels-cosmetic-pack.json](./370081-warhammer-40-000-space-marine-ii-blood-angels-cosmetic-pack.json) |
 | Warhammer 40,000: Space Marine II - Collector's Edition | 230829 | [230829-warhammer-40-000-space-marine-ii-collectors-edition.json](./230829-warhammer-40-000-space-marine-ii-collectors-edition.json) |
 | Warhammer 40,000: Space Marine II - Dark Angels Chapter Pack | 332083 | [332083-warhammer-40-000-space-marine-ii-dark-angels-chapter-pack.json](./332083-warhammer-40-000-space-marine-ii-dark-angels-chapter-pack.json) |
 | Warhammer 40,000: Space Marine II - Gold Edition | 289223 | [289223-warhammer-40-000-space-marine-ii-gold-edition.json](./289223-warhammer-40-000-space-marine-ii-gold-edition.json) |
+| Warhammer 40,000: Space Marine II - Imperial Fists Champion Pack | 370083 | [370083-warhammer-40-000-space-marine-ii-imperial-fists-champion-pack.json](./370083-warhammer-40-000-space-marine-ii-imperial-fists-champion-pack.json) |
+| Warhammer 40,000: Space Marine II - Imperial Fists Cosmetic Pack | 370088 | [370088-warhammer-40-000-space-marine-ii-imperial-fists-cosmetic-pack.json](./370088-warhammer-40-000-space-marine-ii-imperial-fists-cosmetic-pack.json) |
+| Warhammer 40,000: Space Marine II - Macragge’s Chosen DLC | 370089 | [370089-warhammer-40-000-space-marine-ii-macragge-s-chosen-dlc.json](./370089-warhammer-40-000-space-marine-ii-macragge-s-chosen-dlc.json) |
 | Warhammer 40,000: Space Marine II - Purgation Update | 402513 | [402513-warhammer-40-000-space-marine-ii-purgation-update.json](./402513-warhammer-40-000-space-marine-ii-purgation-update.json) |
+| Warhammer 40,000: Space Marine II - Raven Guard Cosmetic Pack | 370090 | [370090-warhammer-40-000-space-marine-ii-raven-guard-cosmetic-pack.json](./370090-warhammer-40-000-space-marine-ii-raven-guard-cosmetic-pack.json) |
+| Warhammer 40,000: Space Marine II - Salamanders Champion Pack | 370092 | [370092-warhammer-40-000-space-marine-ii-salamanders-champion-pack.json](./370092-warhammer-40-000-space-marine-ii-salamanders-champion-pack.json) |
 | Warhammer 40,000: Space Marine II - Space Wolves Chapter Pack | 370094 | [370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json](./370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json) |
 | Warhammer 40,000: Space Marine II - Trygon Update | 340584 | [340584-warhammer-40-000-space-marine-ii-trygon-update.json](./340584-warhammer-40-000-space-marine-ii-trygon-update.json) |
 | Warhammer 40,000: Space Marine II - Ultra Edition | 302738 | [302738-warhammer-40-000-space-marine-ii-ultra-edition.json](./302738-warhammer-40-000-space-marine-ii-ultra-edition.json) |
+| Warhammer 40,000: Space Marine II - Ultramarines Champion Pack | 370086 | [370086-warhammer-40-000-space-marine-ii-ultramarines-champion-pack.json](./370086-warhammer-40-000-space-marine-ii-ultramarines-champion-pack.json) |
 | Warhammer 40,000: Space Marine II - Ultramarines Cosmetic Pack | 332084 | [332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json](./332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json) |
+| Warhammer 40,000: Space Marine II - White Scars Chapter Pack | 370085 | [370085-warhammer-40-000-space-marine-ii-white-scars-chapter-pack.json](./370085-warhammer-40-000-space-marine-ii-white-scars-chapter-pack.json) |
 | Warhammer 40,000: Space Marine II: Blood Angels Champion Pack | 378614 | [378614-warhammer-40-000-space-marine-ii-blood-angels-champion-pack.json](./378614-warhammer-40-000-space-marine-ii-blood-angels-champion-pack.json) |
 | Warhammer 40,000: Space Marine III | 335432 | [335432-warhammer-40-000-space-marine-iii.json](./335432-warhammer-40-000-space-marine-iii.json) |
 | Warhammer 40,000: Space Marine VR - Defenders of Avarax | 402514 | [402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json](./402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json) |
