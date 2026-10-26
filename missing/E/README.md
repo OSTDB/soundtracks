@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Editarrr | 270519 | [270519-editarrr.json](./270519-editarrr.json) |
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
+| EDM Ballistics | 374021 | [374021-edm-ballistics.json](./374021-edm-ballistics.json) |
 | Edmonton Trolley Car | 55762 | [55762-edmonton-trolley-car.json](./55762-edmonton-trolley-car.json) |
 | Edmund and Eliza | 251994 | [251994-edmund-and-eliza.json](./251994-edmund-and-eliza.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
