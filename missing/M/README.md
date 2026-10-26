@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madoka Magica Grief Syndrome | 27361 | [27361-madoka-magica-grief-syndrome.json](./27361-madoka-magica-grief-syndrome.json) |
 | Madoka Magica Magia Exedra | 307774 | [307774-madoka-magica-magia-exedra.json](./307774-madoka-magica-magia-exedra.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
+| Madora | 333340 | [333340-madora.json](./333340-madora.json) |
 | Madorica Real Estate 2 | 225483 | [225483-madorica-real-estate-2.json](./225483-madorica-real-estate-2.json) |
 | Madoris R | 147748 | [147748-madoris-r.json](./147748-madoris-r.json) |
 | Madoromi Travel | 289225 | [289225-madoromi-travel.json](./289225-madoromi-travel.json) |
@@ -2889,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Master | 108227 | [108227-marble-master.json](./108227-marble-master.json) |
 | Marble Master | 2618 | [2618-marble-master.json](./2618-marble-master.json) |
 | Marble Masters: The Pit | 44231 | [44231-marble-masters-the-pit.json](./44231-marble-masters-the-pit.json) |
+| Marble Mayhem | 333483 | [333483-marble-mayhem.json](./333483-marble-mayhem.json) |
 | Marble Mayhem: Fragile Ball | 26979 | [26979-marble-mayhem-fragile-ball.json](./26979-marble-mayhem-fragile-ball.json) |
 | Marble Maze | 302233 | [302233-marble-maze.json](./302233-marble-maze.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
@@ -11387,6 +11389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirthwood | 245751 | [245751-mirthwood.json](./245751-mirthwood.json) |
 | Mirum Orbis | 262482 | [262482-mirum-orbis.json](./262482-mirum-orbis.json) |
 | Miruri: Mahou Fuku Bouken | 408248 | [408248-miruri-mahou-fuku-bouken.json](./408248-miruri-mahou-fuku-bouken.json) |
+| Miryam: The Polluted Land | 333481 | [333481-miryam-the-polluted-land.json](./333481-miryam-the-polluted-land.json) |
 | Mis Amigos | 385938 | [385938-mis-amigos.json](./385938-mis-amigos.json) |
 | Mis Ladrillos Interactivo | 93218 | [93218-mis-ladrillos-interactivo.json](./93218-mis-ladrillos-interactivo.json) |
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
@@ -18058,6 +18061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst V: End of Ages - Limited Edition | 51833 | [51833-myst-v-end-of-ages-limited-edition.json](./51833-myst-v-end-of-ages-limited-edition.json) |
 | Myst: Masterpiece Edition | 16203 | [16203-myst-masterpiece-edition.json](./16203-myst-masterpiece-edition.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
+| Mystal Haven | 333496 | [333496-mystal-haven.json](./333496-mystal-haven.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
 | Mystera Legacy | 182084 | [182084-mystera-legacy.json](./182084-mystera-legacy.json) |
 | Mystereet F: The Detectives' Curtain Call | 36756 | [36756-mystereet-f-the-detectives-curtain-call.json](./36756-mystereet-f-the-detectives-curtain-call.json) |
