@@ -4793,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Assault | 142247 | [142247-iron-assault.json](./142247-iron-assault.json) |
 | Iron Ball Ride | 174184 | [174184-iron-ball-ride.json](./174184-iron-ball-ride.json) |
 | Iron Blade: Medieval RPG | 112241 | [112241-iron-blade-medieval-rpg.json](./112241-iron-blade-medieval-rpg.json) |
+| Iron Blight | 367360 | [367360-iron-blight.json](./367360-iron-blight.json) |
 | Iron Blood | 68722 | [68722-iron-blood.json](./68722-iron-blood.json) |
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
 | Iron Brigade | 7668 | [7668-iron-brigade.json](./7668-iron-brigade.json) |
