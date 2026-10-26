@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If One Thing Changed | 183259 | [183259-if-one-thing-changed.json](./183259-if-one-thing-changed.json) |
 | If Only... | 75012 | [75012-if-only.json](./75012-if-only.json) |
 | If Platformers Were Rpgs | 181796 | [181796-if-platformers-were-rpgs.json](./181796-if-platformers-were-rpgs.json) |
+| If Red Then Stop | 382241 | [382241-if-red-then-stop.json](./382241-if-red-then-stop.json) |
 | If Solitaire | 417476 | [417476-if-solitaire.json](./417476-if-solitaire.json) |
 | If U Seek Amy | 327415 | [327415-if-u-seek-amy.json](./327415-if-u-seek-amy.json) |
 | If We Make It Home | 347790 | [347790-if-we-make-it-home.json](./347790-if-we-make-it-home.json) |
@@ -5185,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Sky | 335307 | [335307-island-sky.json](./335307-island-sky.json) |
 | Island Supermarket Simulator | 348465 | [348465-island-supermarket-simulator.json](./348465-island-supermarket-simulator.json) |
 | Island Survival | 110172 | [110172-island-survival.json](./110172-island-survival.json) |
+| Island Survival | 382161 | [382161-island-survival.json](./382161-island-survival.json) |
 | Island Survival 2026: Craft, Build, Grow | 393047 | [393047-island-survival-2026-craft-build-grow.json](./393047-island-survival-2026-craft-build-grow.json) |
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
 | Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
