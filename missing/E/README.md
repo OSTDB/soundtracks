@@ -5396,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eva: Final Mission | 220548 | [220548-eva-final-mission.json](./220548-eva-final-mission.json) |
 | Eva's Hook | 339775 | [339775-evas-hook.json](./339775-evas-hook.json) |
 | Evac | 96923 | [96923-evac.json](./96923-evac.json) |
+| Evac Bay 09 | 373058 | [373058-evac-bay-09.json](./373058-evac-bay-09.json) |
 | Evac Point | 389541 | [389541-evac-point.json](./389541-evac-point.json) |
 | Evacuation | 182454 | [182454-evacuation.json](./182454-evacuation.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
