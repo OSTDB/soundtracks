@@ -4288,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku: The Tower of Purgatory | 38473 | [38473-rengoku-the-tower-of-purgatory.json](./38473-rengoku-the-tower-of-purgatory.json) |
 | Renju | 93485 | [93485-renju.json](./93485-renju.json) |
 | Rennsport | 230191 | [230191-rennsport.json](./230191-rennsport.json) |
+| Rennsport: Deluxe Edition | 368528 | [368528-rennsport-deluxe-edition.json](./368528-rennsport-deluxe-edition.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Renova | 169723 | [169723-renova.json](./169723-renova.json) |
 | Renovation Products Collection 1 | 157521 | [157521-renovation-products-collection-1.json](./157521-renovation-products-collection-1.json) |
@@ -8936,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing SaGa: Minstrel Song Remastered | 203315 | [203315-romancing-saga-minstrel-song-remastered.json](./203315-romancing-saga-minstrel-song-remastered.json) |
 | Romancing SaGa: Minstrel Song Remastered International Special Edition | 391997 | [391997-romancing-saga-minstrel-song-remastered-international-special-edition.json](./391997-romancing-saga-minstrel-song-remastered-international-special-edition.json) |
 | Romancing the Kingdom | 224775 | [224775-romancing-the-kingdom.json](./224775-romancing-the-kingdom.json) |
+| Romancing the Seven Wonders: Taj Mahal | 368447 | [368447-romancing-the-seven-wonders-taj-mahal.json](./368447-romancing-the-seven-wonders-taj-mahal.json) |
 | Romania Prop Hunt | 324291 | [324291-romania-prop-hunt.json](./324291-romania-prop-hunt.json) |
 | Romanizer | 304569 | [304569-romanizer.json](./304569-romanizer.json) |
 | Romans 360 | 110271 | [110271-romans-360.json](./110271-romans-360.json) |
@@ -9104,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Cursed West | 368545 | [368545-room-football-cursed-west.json](./368545-room-football-cursed-west.json) |
 | Room Football: Hangar | 371034 | [371034-room-football-hangar.json](./371034-room-football-hangar.json) |
 | Room Football: Junk Town | 368588 | [368588-room-football-junk-town.json](./368588-room-football-junk-town.json) |
+| Room Football: Petrol Station | 368527 | [368527-room-football-petrol-station.json](./368527-room-football-petrol-station.json) |
 | Room Football: Ranch | 370713 | [370713-room-football-ranch.json](./370713-room-football-ranch.json) |
 | Room Football: Royale Lands | 368558 | [368558-room-football-royale-lands.json](./368558-room-football-royale-lands.json) |
 | Room Football: Sun Shrine | 387491 | [387491-room-football-sun-shrine.json](./387491-room-football-sun-shrine.json) |
