@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vera Swings | 101254 | [101254-vera-swings.json](./101254-vera-swings.json) |
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
+| Verbena: Tales of Growing Up | 379429 | [379429-verbena-tales-of-growing-up.json](./379429-verbena-tales-of-growing-up.json) |
 | Verdant Citadel | 141778 | [141778-verdant-citadel.json](./141778-verdant-citadel.json) |
 | Verdant Village | 134277 | [134277-verdant-village.json](./134277-verdant-village.json) |
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
