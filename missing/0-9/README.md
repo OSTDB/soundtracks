@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80's Disco Brawl | 419355 | [419355-80s-disco-brawl.json](./419355-80s-disco-brawl.json) |
 | 80's Mania Pinball | 231321 | [231321-80s-mania-pinball.json](./231321-80s-mania-pinball.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
+| 80's style | 367904 | [367904-80s-style.json](./367904-80s-style.json) |
 | 808 | 357760 | [357760-808.json](./357760-808.json) |
 | 8088 Othello | 94424 | [94424-8088-othello.json](./94424-8088-othello.json) |
 | 8089: The Next Action RPG | 181023 | [181023-8089-the-next-action-rpg.json](./181023-8089-the-next-action-rpg.json) |
