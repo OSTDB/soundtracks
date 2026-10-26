@@ -20127,6 +20127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad's Typical Day | 322107 | [322107-toads-typical-day.json](./322107-toads-typical-day.json) |
 | Toad's World | 38306 | [38306-toads-world.json](./38306-toads-world.json) |
 | Toadally Dreadful | 288596 | [288596-toadally-dreadful.json](./288596-toadally-dreadful.json) |
+| Toadally Lit VR | 380474 | [380474-toadally-lit-vr.json](./380474-toadally-lit-vr.json) |
 | Toader | 112975 | [112975-toader.json](./112975-toader.json) |
 | Toadette Strikes | 134069 | [134069-toadette-strikes.json](./134069-toadette-strikes.json) |
 | Toadette's Christmas Adventure | 215198 | [215198-toadettes-christmas-adventure.json](./215198-toadettes-christmas-adventure.json) |
@@ -20156,6 +20157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaru Pantsu no Railgun | 204322 | [204322-toaru-pantsu-no-railgun.json](./204322-toaru-pantsu-no-railgun.json) |
 | Toast | 237271 | [237271-toast.json](./237271-toast.json) |
 | Toast Defense | 150977 | [150977-toast-defense.json](./150977-toast-defense.json) |
+| Toast Factory | 380512 | [380512-toast-factory.json](./380512-toast-factory.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
 | Toast Girl | 82577 | [82577-toast-girl.json](./82577-toast-girl.json) |
 | Toast Hell | 350556 | [350556-toast-hell.json](./350556-toast-hell.json) |
@@ -21703,6 +21705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Attila - Viking Forefathers Culture Pack | 82027 | [82027-total-war-attila-viking-forefathers-culture-pack.json](./82027-total-war-attila-viking-forefathers-culture-pack.json) |
 | Total War: Elysium | 121439 | [121439-total-war-elysium.json](./121439-total-war-elysium.json) |
 | Total War: Medieval II | 197695 | [197695-total-war-medieval-ii.json](./197695-total-war-medieval-ii.json) |
+| Total War: Medieval III | 380383 | [380383-total-war-medieval-iii.json](./380383-total-war-medieval-iii.json) |
 | Total War: New World | 356258 | [356258-total-war-new-world.json](./356258-total-war-new-world.json) |
 | Total War: Pharaoh - Deluxe Edition | 250854 | [250854-total-war-pharaoh-deluxe-edition.json](./250854-total-war-pharaoh-deluxe-edition.json) |
 | Total War: Pharaoh - Dynasty Edition | 250863 | [250863-total-war-pharaoh-dynasty-edition.json](./250863-total-war-pharaoh-dynasty-edition.json) |
