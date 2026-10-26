@@ -7261,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
 | Pixicharm: Hue Break the Law | 364977 | [364977-pixicharm-hue-break-the-law.json](./364977-pixicharm-hue-break-the-law.json) |
+| Pixicharm: Hue Break the Law | 367905 | [367905-pixicharm-hue-break-the-law.json](./367905-pixicharm-hue-break-the-law.json) |
 | Pixicharm: Jack-O-Fall | 340525 | [340525-pixicharm-jack-o-fall.json](./340525-pixicharm-jack-o-fall.json) |
 | Pixicharm: Knightritious | 378493 | [378493-pixicharm-knightritious.json](./378493-pixicharm-knightritious.json) |
 | Pixicharm: Kunai Zone | 359336 | [359336-pixicharm-kunai-zone.json](./359336-pixicharm-kunai-zone.json) |
@@ -13212,6 +13213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Knoxville | 59716 | [59716-project-knoxville.json](./59716-project-knoxville.json) |
 | Project Kolo | 187817 | [187817-project-kolo.json](./187817-project-kolo.json) |
 | Project Kunai | 188474 | [188474-project-kunai.json](./188474-project-kunai.json) |
+| Project Kunlun | 368051 | [368051-project-kunlun.json](./368051-project-kunlun.json) |
 | Project Kyzen | 312960 | [312960-project-kyzen.json](./312960-project-kyzen.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
@@ -14921,6 +14923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
 | Putrefaction 2: Void Walker | 30131 | [30131-putrefaction-2-void-walker.json](./30131-putrefaction-2-void-walker.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
+| Putrid Beasts | 367914 | [367914-putrid-beasts.json](./367914-putrid-beasts.json) |
 | Putrid Shot Ultra | 207273 | [207273-putrid-shot-ultra.json](./207273-putrid-shot-ultra.json) |
 | Putrid Snow 2: House of Yule | 402231 | [402231-putrid-snow-2-house-of-yule.json](./402231-putrid-snow-2-house-of-yule.json) |
 | Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
@@ -14992,6 +14995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo!! 20th Anniversary: Mini Version | 86736 | [86736-puyo-puyo-20th-anniversary-mini-version.json](./86736-puyo-puyo-20th-anniversary-mini-version.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
+| Puyo! Push Brain | 367926 | [367926-puyo-push-brain.json](./367926-puyo-push-brain.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
 | Puyolin | 198873 | [198873-puyolin.json](./198873-puyolin.json) |
 | Puzigo | 416601 | [416601-puzigo.json](./416601-puzigo.json) |
