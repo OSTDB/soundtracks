@@ -3917,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
 | Give Up 2 | 250183 | [250183-give-up-2.json](./250183-give-up-2.json) |
 | Give Up the Ghost: A Puzzle Checklist | 206471 | [206471-give-up-the-ghost-a-puzzle-checklist.json](./206471-give-up-the-ghost-a-puzzle-checklist.json) |
+| Giving Yourself Away | 340826 | [340826-giving-yourself-away.json](./340826-giving-yourself-away.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
 | Gizmo | 112825 | [112825-gizmo.json](./112825-gizmo.json) |
 | Gizmo | 381052 | [381052-gizmo.json](./381052-gizmo.json) |
