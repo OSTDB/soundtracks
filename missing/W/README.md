@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
 | Waiter | 231341 | [231341-waiter.json](./231341-waiter.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
+| Waiting for Eurydice | 385673 | [385673-waiting-for-eurydice.json](./385673-waiting-for-eurydice.json) |
 | Waiting for Odysseus | 412909 | [412909-waiting-for-odysseus.json](./412909-waiting-for-odysseus.json) |
 | Waiting For the Loop | 75036 | [75036-waiting-for-the-loop.json](./75036-waiting-for-the-loop.json) |
 | Waiting for the Raven | 138601 | [138601-waiting-for-the-raven.json](./138601-waiting-for-the-raven.json) |
@@ -1386,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarHeads SE | 79563 | [79563-warheads-se.json](./79563-warheads-se.json) |
 | Warhedz | 283124 | [283124-warhedz.json](./283124-warhedz.json) |
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
+| Warhounds | 385698 | [385698-warhounds.json](./385698-warhounds.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
 | Wario Blast: Featuring Bomberman! | 1713 | [1713-wario-blast-featuring-bomberman.json](./1713-wario-blast-featuring-bomberman.json) |
 | Wario Date | 252824 | [252824-wario-date.json](./252824-wario-date.json) |
@@ -3603,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where’s the Food!? | 378787 | [378787-where-s-the-food.json](./378787-where-s-the-food.json) |
 | Where’s the Insect? | 378788 | [378788-where-s-the-insect.json](./378788-where-s-the-insect.json) |
 | Where’s the Octopus!? | 378789 | [378789-where-s-the-octopus.json](./378789-where-s-the-octopus.json) |
+| Where’s the Tuna!? | 386206 | [386206-where-s-the-tuna.json](./386206-where-s-the-tuna.json) |
 | Where's Waldo & Friends | 60242 | [60242-wheres-waldo-and-friends.json](./60242-wheres-waldo-and-friends.json) |
 | Where's Waldo at the Circus | 205123 | [205123-wheres-waldo-at-the-circus.json](./205123-wheres-waldo-at-the-circus.json) |
 | Where's Waldo in Hollywood | 205124 | [205124-wheres-waldo-in-hollywood.json](./205124-wheres-waldo-in-hollywood.json) |
@@ -3684,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
 | Whirlygig | 105178 | [105178-whirlygig.json](./105178-whirlygig.json) |
 | Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
+| Whisker Cowboy | 385625 | [385625-whisker-cowboy.json](./385625-whisker-cowboy.json) |
 | Whisker Squadron | 145504 | [145504-whisker-squadron.json](./145504-whisker-squadron.json) |
 | Whisker Squadron: Survivor | 229193 | [229193-whisker-squadron-survivor.json](./229193-whisker-squadron-survivor.json) |
 | Whisker Wanderlust: The Wondrous Journey | 349100 | [349100-whisker-wanderlust-the-wondrous-journey.json](./349100-whisker-wanderlust-the-wondrous-journey.json) |
@@ -4819,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
 | Wing Warriors | 218921 | [218921-wing-warriors.json](./218921-wing-warriors.json) |
 | Wing-It | 390283 | [390283-wing-it.json](./390283-wing-it.json) |
+| Wing-Man: Hissatsu Delta End | 385541 | [385541-wing-man-hissatsu-delta-end.json](./385541-wing-man-hissatsu-delta-end.json) |
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
 | Winged Gear | 266653 | [266653-winged-gear.json](./266653-winged-gear.json) |
 | Winged Raider | 216837 | [216837-winged-raider.json](./216837-winged-raider.json) |
