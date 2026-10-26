@@ -11265,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Hoops! | 63651 | [63651-funky-hoops.json](./63651-funky-hoops.json) |
 | Funky Horror Band | 45872 | [45872-funky-horror-band.json](./45872-funky-horror-band.json) |
 | Funky Karts | 107397 | [107397-funky-karts.json](./107397-funky-karts.json) |
+| Funky Kong | 341961 | [341961-funky-kong.json](./341961-funky-kong.json) |
 | Funky Lab Rat | 52227 | [52227-funky-lab-rat.json](./52227-funky-lab-rat.json) |
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
 | Funky Monkey: Time to Slack Off! | 373671 | [373671-funky-monkey-time-to-slack-off.json](./373671-funky-monkey-time-to-slack-off.json) |
