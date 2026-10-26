@@ -5464,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Gone Wrong | 376038 | [376038-meat-gone-wrong.json](./376038-meat-gone-wrong.json) |
 | Meat Grinder | 391149 | [391149-meat-grinder.json](./391149-meat-grinder.json) |
 | Meat Grinder: First Cut | 348384 | [348384-meat-grinder-first-cut.json](./348384-meat-grinder-first-cut.json) |
+| Meat is Murder | 379390 | [379390-meat-is-murder.json](./379390-meat-is-murder.json) |
 | Meat Lead Fire | 169632 | [169632-meat-lead-fire.json](./169632-meat-lead-fire.json) |
 | Meat Madness | 226171 | [226171-meat-madness.json](./226171-meat-madness.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
@@ -13212,6 +13213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
 | Monster Ops 5 | 370276 | [370276-monster-ops-5.json](./370276-monster-ops-5.json) |
 | Monster Ops 7 | 382007 | [382007-monster-ops-7.json](./382007-monster-ops-7.json) |
+| Monster Ops 8 | 379328 | [379328-monster-ops-8.json](./379328-monster-ops-8.json) |
 | Monster Outbreak | 154046 | [154046-monster-outbreak.json](./154046-monster-outbreak.json) |
 | Monster Pack Volume 1 | 78937 | [78937-monster-pack-volume-1.json](./78937-monster-pack-volume-1.json) |
 | Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
