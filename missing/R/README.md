@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RBI Baseball 21 | 142825 | [142825-rbi-baseball-21.json](./142825-rbi-baseball-21.json) |
 | RBL | 197641 | [197641-rbl.json](./197641-rbl.json) |
 | RBM Studio's Gettysburg | 260537 | [260537-rbm-studios-gettysburg.json](./260537-rbm-studios-gettysburg.json) |
+| RBM Studio's Waterloo | 383993 | [383993-rbm-studios-waterloo.json](./383993-rbm-studios-waterloo.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Boat Simulator | 103991 | [103991-rc-boat-simulator.json](./103991-rc-boat-simulator.json) |
@@ -8473,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguelite 2 | 128967 | [128967-roguelite-2.json](./128967-roguelite-2.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguely | 153519 | [153519-roguely.json](./153519-roguely.json) |
+| Roguelyte | 383991 | [383991-roguelyte.json](./383991-roguelyte.json) |
 | Roguemance | 27198 | [27198-roguemance.json](./27198-roguemance.json) |
 | Roguematch: The Extraplanar Invasion | 217273 | [217273-roguematch-the-extraplanar-invasion.json](./217273-roguematch-the-extraplanar-invasion.json) |
 | Roguemon | 374728 | [374728-roguemon.json](./374728-roguemon.json) |
