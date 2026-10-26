@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. An Experience With Artificial Intelligence | 73556 | [73556-a-i-an-experience-with-artificial-intelligence.json](./73556-a-i-an-experience-with-artificial-intelligence.json) |
 | A.I. Invasion | 34855 | [34855-a-i-invasion.json](./34855-a-i-invasion.json) |
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
+| A.I. P.I. | 379413 | [379413-a-i-p-i.json](./379413-a-i-p-i.json) |
 | A.I. Puzzler | 206100 | [206100-a-i-puzzler.json](./206100-a-i-puzzler.json) |
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
 | A.I. Wars: The Insect Mind | 69707 | [69707-a-i-wars-the-insect-mind.json](./69707-a-i-wars-the-insect-mind.json) |
@@ -3057,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -13884,6 +13886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Heart: Trapped in Limbo | 285596 | [285596-atomic-heart-trapped-in-limbo.json](./285596-atomic-heart-trapped-in-limbo.json) |
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
 | Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
+| Atomic Lance | 379398 | [379398-atomic-lance.json](./379398-atomic-lance.json) |
 | Atomic Order | 214954 | [214954-atomic-order.json](./214954-atomic-order.json) |
 | Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
 | Atomic Picnic | 228902 | [228902-atomic-picnic.json](./228902-atomic-picnic.json) |
