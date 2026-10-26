@@ -4410,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Otedama R | 240729 | [240729-ninja-otedama-r.json](./240729-ninja-otedama-r.json) |
 | Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
 | Ninja Painter 2 | 238965 | [238965-ninja-painter-2.json](./238965-ninja-painter-2.json) |
+| Ninja Party | 340839 | [340839-ninja-party.json](./340839-ninja-party.json) |
 | Ninja Pizza Girl | 18336 | [18336-ninja-pizza-girl.json](./18336-ninja-pizza-girl.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
