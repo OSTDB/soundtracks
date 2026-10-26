@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
 | Saga of the North Wind | 30630 | [30630-saga-of-the-north-wind.json](./30630-saga-of-the-north-wind.json) |
 | Saga of the Shattered Swords | 249267 | [249267-saga-of-the-shattered-swords.json](./249267-saga-of-the-shattered-swords.json) |
+| Saga of the Stars | 337311 | [337311-saga-of-the-stars.json](./337311-saga-of-the-stars.json) |
 | Saga of Weil | 265094 | [265094-saga-of-weil.json](./265094-saga-of-weil.json) |
 | Saga of Yurina | 373196 | [373196-saga-of-yurina.json](./373196-saga-of-yurina.json) |
 | Saga Star | 413203 | [413203-saga-star.json](./413203-saga-star.json) |
@@ -832,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salamander 2 | 1483 | [1483-salamander-2.json](./1483-salamander-2.json) |
 | Salamander Capital | 257549 | [257549-salamander-capital.json](./257549-salamander-capital.json) |
 | Salamander Deluxe Pack Plus | 58294 | [58294-salamander-deluxe-pack-plus.json](./58294-salamander-deluxe-pack-plus.json) |
+| Salamander III | 337029 | [337029-salamander-iii.json](./337029-salamander-iii.json) |
 | Salamander Portable | 42869 | [42869-salamander-portable.json](./42869-salamander-portable.json) |
 | Salamander: The Lost Kitty | 178893 | [178893-salamander-the-lost-kitty.json](./178893-salamander-the-lost-kitty.json) |
 | Salann | 379033 | [379033-salann.json](./379033-salann.json) |
@@ -3518,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
 | Seance: The Unquiet | 91201 | [91201-seance-the-unquiet.json](./91201-seance-the-unquiet.json) |
 | Seaport - Build & Prosper! | 88374 | [88374-seaport-build-and-prosper.json](./88374-seaport-build-and-prosper.json) |
+| Seaport Man | 337005 | [337005-seaport-man.json](./337005-seaport-man.json) |
 | Seaport Tycoon | 245956 | [245956-seaport-tycoon.json](./245956-seaport-tycoon.json) |
 | Seaquest | 308366 | [308366-seaquest.json](./308366-seaquest.json) |
 | Seaquest DSV | 45591 | [45591-seaquest-dsv.json](./45591-seaquest-dsv.json) |
@@ -6744,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock: The Riddle of the Crown Jewels | 12623 | [12623-sherlock-the-riddle-of-the-crown-jewels.json](./12623-sherlock-the-riddle-of-the-crown-jewels.json) |
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
 | Sherman M4 | 15365 | [15365-sherman-m4.json](./15365-sherman-m4.json) |
+| Sherman's Quest | 336997 | [336997-shermans-quest.json](./336997-shermans-quest.json) |
 | Sherpa's Caravan | 374567 | [374567-sherpas-caravan.json](./374567-sherpas-caravan.json) |
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
@@ -7781,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 2: Christmas Square | 112503 | [112503-shopping-clutter-2-christmas-square.json](./112503-shopping-clutter-2-christmas-square.json) |
 | Shopping Clutter 21: Coffeehouse | 342074 | [342074-shopping-clutter-21-coffeehouse.json](./342074-shopping-clutter-21-coffeehouse.json) |
 | Shopping Clutter 22: Haute Couture | 341868 | [341868-shopping-clutter-22-haute-couture.json](./341868-shopping-clutter-22-haute-couture.json) |
+| Shopping Clutter 23: Beauty Salon | 336998 | [336998-shopping-clutter-23-beauty-salon.json](./336998-shopping-clutter-23-beauty-salon.json) |
 | Shopping Clutter 25: Strawberry Thanksgiving | 324504 | [324504-shopping-clutter-25-strawberry-thanksgiving.json](./324504-shopping-clutter-25-strawberry-thanksgiving.json) |
 | Shopping Clutter 26: Christmas Rocks | 341873 | [341873-shopping-clutter-26-christmas-rocks.json](./341873-shopping-clutter-26-christmas-rocks.json) |
 | Shopping Clutter 3: Blooming Tale | 215031 | [215031-shopping-clutter-3-blooming-tale.json](./215031-shopping-clutter-3-blooming-tale.json) |
@@ -13864,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
 | Solitaire Deluxe 2 | 88855 | [88855-solitaire-deluxe-2.json](./88855-solitaire-deluxe-2.json) |
 | Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
+| Solitaire Detective 2: Accidental Witness | 336982 | [336982-solitaire-detective-2-accidental-witness.json](./336982-solitaire-detective-2-accidental-witness.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
 | Solitaire Dreamscapes | 349825 | [349825-solitaire-dreamscapes.json](./349825-solitaire-dreamscapes.json) |
 | Solitaire Dungeon Escape | 85380 | [85380-solitaire-dungeon-escape.json](./85380-solitaire-dungeon-escape.json) |
@@ -19113,6 +19119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Crisis 2 | 280922 | [280922-spring-crisis-2.json](./280922-spring-crisis-2.json) |
 | Spring Dash | 216723 | [216723-spring-dash.json](./216723-spring-dash.json) |
 | Spring Dogs: Ultimate Multiplayer Battle Royale | 294371 | [294371-spring-dogs-ultimate-multiplayer-battle-royale.json](./294371-spring-dogs-ultimate-multiplayer-battle-royale.json) |
+| Spring Escape | 337000 | [337000-spring-escape.json](./337000-spring-escape.json) |
 | Spring Falls | 122845 | [122845-spring-falls.json](./122845-spring-falls.json) |
 | Spring Fowler | 252932 | [252932-spring-fowler.json](./252932-spring-fowler.json) |
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
@@ -20796,6 +20803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
 | Starborne: Sovereign Space | 75220 | [75220-starborne-sovereign-space.json](./75220-starborne-sovereign-space.json) |
 | Starbot | 133848 | [133848-starbot.json](./133848-starbot.json) |
+| Starbot 4Ever | 337001 | [337001-starbot-4ever.json](./337001-starbot-4ever.json) |
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
 | StarBoy | 153800 | [153800-starboy.json](./153800-starboy.json) |
 | Starboy Adventures | 153532 | [153532-starboy-adventures.json](./153532-starboy-adventures.json) |
@@ -23203,6 +23211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratego: Next Edition | 47886 | [47886-stratego-next-edition.json](./47886-stratego-next-edition.json) |
 | Stratego: Single Player | 91174 | [91174-stratego-single-player.json](./91174-stratego-single-player.json) |
 | Strategoria | 62283 | [62283-strategoria.json](./62283-strategoria.json) |
+| Strategos | 337033 | [337033-strategos.json](./337033-strategos.json) |
 | Strategy & Tactics: Dark Ages | 31923 | [31923-strategy-and-tactics-dark-ages.json](./31923-strategy-and-tactics-dark-ages.json) |
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
 | Strategy & Tactics: Wargame Collection | 28583 | [28583-strategy-and-tactics-wargame-collection.json](./28583-strategy-and-tactics-wargame-collection.json) |
@@ -28552,6 +28561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge Generations | 334687 | [334687-surge-generations.json](./334687-surge-generations.json) |
 | Surge Radio | 124172 | [124172-surge-radio.json](./124172-surge-radio.json) |
 | Surge Runner | 348753 | [348753-surge-runner.json](./348753-surge-runner.json) |
+| Surge the Rabbit | 336999 | [336999-surge-the-rabbit.json](./336999-surge-the-rabbit.json) |
 | Surge Unlimited | 417669 | [417669-surge-unlimited.json](./417669-surge-unlimited.json) |
 | Surgeball | 148167 | [148167-surgeball.json](./148167-surgeball.json) |
 | Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
