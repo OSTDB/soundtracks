@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T12:52:30.711Z",
-  "total_missing": 265202,
+  "generated_at": "2026-10-26T13:04:42.727Z",
+  "total_missing": 265252,
   "games": [
     {
       "igdb_id": 191680,
@@ -6142,6 +6142,11 @@
       "file": "missing/0-9/233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json"
     },
     {
+      "igdb_id": 357724,
+      "game_name": "2 in 1 Crazy Bundle",
+      "file": "missing/0-9/357724-2-in-1-crazy-bundle.json"
+    },
+    {
       "igdb_id": 79558,
       "game_name": "2 in 1 Game Pack: DreamWorks' Shark Tale + Shrek 2",
       "file": "missing/0-9/79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json"
@@ -9670,6 +9675,11 @@
       "igdb_id": 327436,
       "game_name": "3D MiniGolf: Makeover-Edition",
       "file": "missing/0-9/327436-3d-minigolf-makeover-edition.json"
+    },
+    {
+      "igdb_id": 357832,
+      "game_name": "3D Modern Tower",
+      "file": "missing/0-9/357832-3d-modern-tower.json"
     },
     {
       "igdb_id": 324513,
@@ -16127,6 +16137,11 @@
       "file": "missing/A/356440-a-few-quick-matches.json"
     },
     {
+      "igdb_id": 357795,
+      "game_name": "A Field of Flowers",
+      "file": "missing/A/357795-a-field-of-flowers.json"
+    },
+    {
       "igdb_id": 391811,
       "game_name": "A Fighter’s Nova: Mindara",
       "file": "missing/A/391811-a-fighter-s-nova-mindara.json"
@@ -16390,6 +16405,11 @@
       "igdb_id": 379511,
       "game_name": "A Game About Breaking A Cube",
       "file": "missing/A/379511-a-game-about-breaking-a-cube.json"
+    },
+    {
+      "igdb_id": 357831,
+      "game_name": "A Game About Building A Tower",
+      "file": "missing/A/357831-a-game-about-building-a-tower.json"
     },
     {
       "igdb_id": 348570,
@@ -25462,6 +25482,11 @@
       "file": "missing/A/311282-aceforce-2.json"
     },
     {
+      "igdb_id": 357717,
+      "game_name": "Acention",
+      "file": "missing/A/357717-acention.json"
+    },
+    {
       "igdb_id": 95871,
       "game_name": "Aceonline: DuelX",
       "file": "missing/A/95871-aceonline-duelx.json"
@@ -26345,6 +26370,11 @@
       "igdb_id": 240895,
       "game_name": "Across the Obelisk: The Wolf Wars",
       "file": "missing/A/240895-across-the-obelisk-the-wolf-wars.json"
+    },
+    {
+      "igdb_id": 357780,
+      "game_name": "Across the Obelisk: Tulah, the Spider Queen",
+      "file": "missing/A/357780-across-the-obelisk-tulah-the-spider-queen.json"
     },
     {
       "igdb_id": 334487,
@@ -29932,9 +29962,19 @@
       "file": "missing/A/174160-adventurer-manager-endless-tower.json"
     },
     {
+      "igdb_id": 357784,
+      "game_name": "Adventurer Shop Simulator",
+      "file": "missing/A/357784-adventurer-shop-simulator.json"
+    },
+    {
       "igdb_id": 270009,
       "game_name": "Adventurer's Gambit: Dungeons of Fortune",
       "file": "missing/A/270009-adventurers-gambit-dungeons-of-fortune.json"
+    },
+    {
+      "igdb_id": 357783,
+      "game_name": "Adventurer's Gate",
+      "file": "missing/A/357783-adventurers-gate.json"
     },
     {
       "igdb_id": 325334,
@@ -29965,6 +30005,11 @@
       "igdb_id": 276708,
       "game_name": "Adventures in Anglonia",
       "file": "missing/A/276708-adventures-in-anglonia.json"
+    },
+    {
+      "igdb_id": 357781,
+      "game_name": "Adventures in Calculon",
+      "file": "missing/A/357781-adventures-in-calculon.json"
     },
     {
       "igdb_id": 281330,
@@ -31402,6 +31447,11 @@
       "file": "missing/A/280472-aether.json"
     },
     {
+      "igdb_id": 357785,
+      "game_name": "Aether",
+      "file": "missing/A/357785-aether.json"
+    },
+    {
       "igdb_id": 65351,
       "game_name": "Aether",
       "file": "missing/A/65351-aether.json"
@@ -31415,6 +31465,11 @@
       "igdb_id": 57520,
       "game_name": "Aether Apeiron: The Zephyra Chronicles",
       "file": "missing/A/57520-aether-apeiron-the-zephyra-chronicles.json"
+    },
+    {
+      "igdb_id": 357788,
+      "game_name": "Aether Brew",
+      "file": "missing/A/357788-aether-brew.json"
     },
     {
       "igdb_id": 316456,
@@ -31495,6 +31550,11 @@
       "igdb_id": 379569,
       "game_name": "Aether’s Echo: Yazid’s Paradox",
       "file": "missing/A/379569-aether-s-echo-yazid-s-paradox.json"
+    },
+    {
+      "igdb_id": 357789,
+      "game_name": "Aetherbound",
+      "file": "missing/A/357789-aetherbound.json"
     },
     {
       "igdb_id": 399767,
@@ -31640,6 +31700,11 @@
       "igdb_id": 110746,
       "game_name": "Afarid",
       "file": "missing/A/110746-afarid.json"
+    },
+    {
+      "igdb_id": 357790,
+      "game_name": "Afei's Trouble",
+      "file": "missing/A/357790-afeis-trouble.json"
     },
     {
       "igdb_id": 107720,
@@ -32565,6 +32630,11 @@
       "igdb_id": 164434,
       "game_name": "Afterblast",
       "file": "missing/A/164434-afterblast.json"
+    },
+    {
+      "igdb_id": 357792,
+      "game_name": "Afterblast",
+      "file": "missing/A/357792-afterblast.json"
     },
     {
       "igdb_id": 174591,
@@ -34327,6 +34397,11 @@
       "file": "missing/A/135115-agence.json"
     },
     {
+      "igdb_id": 357800,
+      "game_name": "Agency 13",
+      "file": "missing/A/357800-agency-13.json"
+    },
+    {
       "igdb_id": 182775,
       "game_name": "Agency: The Deckbuilding Card Game",
       "file": "missing/A/182775-agency-the-deckbuilding-card-game.json"
@@ -34397,6 +34472,11 @@
       "file": "missing/A/26839-agent-awesome.json"
     },
     {
+      "igdb_id": 357799,
+      "game_name": "Agent Bob",
+      "file": "missing/A/357799-agent-bob.json"
+    },
+    {
       "igdb_id": 409693,
       "game_name": "Agent Dark",
       "file": "missing/A/409693-agent-dark.json"
@@ -34410,6 +34490,11 @@
       "igdb_id": 324981,
       "game_name": "Agent Fall",
       "file": "missing/A/324981-agent-fall.json"
+    },
+    {
+      "igdb_id": 357798,
+      "game_name": "Agent Forest",
+      "file": "missing/A/357798-agent-forest.json"
     },
     {
       "igdb_id": 234598,
@@ -34522,6 +34607,11 @@
       "file": "missing/A/143328-agent-p-rebel-spy.json"
     },
     {
+      "igdb_id": 357801,
+      "game_name": "Agent Panda",
+      "file": "missing/A/357801-agent-panda.json"
+    },
+    {
       "igdb_id": 374042,
       "game_name": "Agent Pigeon 7",
       "file": "missing/A/374042-agent-pigeon-7.json"
@@ -34550,6 +34640,11 @@
       "igdb_id": 172140,
       "game_name": "Agent Simulator",
       "file": "missing/A/172140-agent-simulator.json"
+    },
+    {
+      "igdb_id": 357802,
+      "game_name": "Agent Sirius",
+      "file": "missing/A/357802-agent-sirius.json"
     },
     {
       "igdb_id": 419356,
@@ -34640,6 +34735,11 @@
       "igdb_id": 83756,
       "game_name": "Agents of Mayhem: Total Mayhem Bundle",
       "file": "missing/A/83756-agents-of-mayhem-total-mayhem-bundle.json"
+    },
+    {
+      "igdb_id": 357803,
+      "game_name": "Agents of Shadow",
+      "file": "missing/A/357803-agents-of-shadow.json"
     },
     {
       "igdb_id": 253374,
@@ -37600,6 +37700,11 @@
       "igdb_id": 393766,
       "game_name": "AirJet Fighter Sky Dominators: Aerial Assault & World War II - Airplanes Battle",
       "file": "missing/A/393766-airjet-fighter-sky-dominators-aerial-assault-and-world-war-ii-airplanes-battle.json"
+    },
+    {
+      "igdb_id": 357723,
+      "game_name": "AirJet Fighter: Sky Assault",
+      "file": "missing/A/357723-airjet-fighter-sky-assault.json"
     },
     {
       "igdb_id": 15591,
@@ -56580,6 +56685,11 @@
       "igdb_id": 321651,
       "game_name": "Animal Striker 2",
       "file": "missing/A/321651-animal-striker-2.json"
+    },
+    {
+      "igdb_id": 357722,
+      "game_name": "Animal Strikers",
+      "file": "missing/A/357722-animal-strikers.json"
     },
     {
       "igdb_id": 391594,
@@ -122832,6 +122942,11 @@
       "file": "missing/B/333004-big-burger-store.json"
     },
     {
+      "igdb_id": 357830,
+      "game_name": "Big Burger Tower",
+      "file": "missing/B/357830-big-burger-tower.json"
+    },
+    {
       "igdb_id": 14300,
       "game_name": "Big Business",
       "file": "missing/B/14300-big-business.json"
@@ -124865,6 +124980,11 @@
       "igdb_id": 176811,
       "game_name": "Billy's Nightmare",
       "file": "missing/B/176811-billys-nightmare.json"
+    },
+    {
+      "igdb_id": 357829,
+      "game_name": "Billy's Tower",
+      "file": "missing/B/357829-billys-tower.json"
     },
     {
       "igdb_id": 356019,
@@ -158272,6 +158392,11 @@
       "file": "missing/B/19996-broken-helix.json"
     },
     {
+      "igdb_id": 357828,
+      "game_name": "Broken Hero: Slime Tower",
+      "file": "missing/B/357828-broken-hero-slime-tower.json"
+    },
+    {
       "igdb_id": 223499,
       "game_name": "Broken In Time",
       "file": "missing/B/223499-broken-in-time.json"
@@ -177127,6 +177252,11 @@
       "file": "missing/C/377779-capybara-against-humanity.json"
     },
     {
+      "igdb_id": 357721,
+      "game_name": "Capybara and Friends Cozy Bundle",
+      "file": "missing/C/357721-capybara-and-friends-cozy-bundle.json"
+    },
+    {
       "igdb_id": 132760,
       "game_name": "Capybara Carbonara",
       "file": "missing/C/132760-capybara-carbonara.json"
@@ -185947,6 +186077,11 @@
       "file": "missing/C/237043-cats-request.json"
     },
     {
+      "igdb_id": 357707,
+      "game_name": "Cat's Showdown",
+      "file": "missing/C/357707-cats-showdown.json"
+    },
+    {
       "igdb_id": 274509,
       "game_name": "Cat's Vote",
       "file": "missing/C/274509-cats-vote.json"
@@ -191952,6 +192087,11 @@
       "file": "missing/C/76622-challengers-of-khalea.json"
     },
     {
+      "igdb_id": 357824,
+      "game_name": "Challenging Land",
+      "file": "missing/C/357824-challenging-land.json"
+    },
+    {
       "igdb_id": 34292,
       "game_name": "Chalo Chalo",
       "file": "missing/C/34292-chalo-chalo.json"
@@ -193500,6 +193640,11 @@
       "igdb_id": 360920,
       "game_name": "Chaos Rocks",
       "file": "missing/C/360920-chaos-rocks.json"
+    },
+    {
+      "igdb_id": 357827,
+      "game_name": "Chaos Rush: Tower Defense",
+      "file": "missing/C/357827-chaos-rush-tower-defense.json"
     },
     {
       "igdb_id": 236771,
@@ -210775,6 +210920,11 @@
       "igdb_id": 176679,
       "game_name": "Click and Slay",
       "file": "missing/C/176679-click-and-slay.json"
+    },
+    {
+      "igdb_id": 357826,
+      "game_name": "Click and Tower",
+      "file": "missing/C/357826-click-and-tower.json"
     },
     {
       "igdb_id": 404419,
@@ -278185,6 +278335,11 @@
       "igdb_id": 395832,
       "game_name": "Deepest Valley",
       "file": "missing/D/395832-deepest-valley.json"
+    },
+    {
+      "igdb_id": 357713,
+      "game_name": "Deepest Well",
+      "file": "missing/D/357713-deepest-well.json"
     },
     {
       "igdb_id": 302050,
@@ -380192,6 +380347,11 @@
       "file": "missing/F/251631-fantasy-tower-defense.json"
     },
     {
+      "igdb_id": 357834,
+      "game_name": "Fantasy Tower Defense",
+      "file": "missing/F/357834-fantasy-tower-defense.json"
+    },
+    {
       "igdb_id": 289764,
       "game_name": "Fantasy Tower Defense Ultimate",
       "file": "missing/F/289764-fantasy-tower-defense-ultimate.json"
@@ -387610,6 +387770,11 @@
       "igdb_id": 146178,
       "game_name": "Ferazel's Wand",
       "file": "missing/F/146178-ferazels-wand.json"
+    },
+    {
+      "igdb_id": 357706,
+      "game_name": "Ferb",
+      "file": "missing/F/357706-ferb.json"
     },
     {
       "igdb_id": 226144,
@@ -403720,6 +403885,11 @@
       "igdb_id": 322001,
       "game_name": "Fling with a Tiefling",
       "file": "missing/F/322001-fling-with-a-tiefling.json"
+    },
+    {
+      "igdb_id": 357833,
+      "game_name": "Fling your Friends TD",
+      "file": "missing/F/357833-fling-your-friends-td.json"
     },
     {
       "igdb_id": 264361,
@@ -425450,6 +425620,11 @@
       "igdb_id": 170246,
       "game_name": "Fukawa-chan",
       "file": "missing/F/170246-fukawa-chan.json"
+    },
+    {
+      "igdb_id": 357708,
+      "game_name": "Fukiage",
+      "file": "missing/F/357708-fukiage.json"
     },
     {
       "igdb_id": 269677,
@@ -449415,6 +449590,11 @@
       "igdb_id": 53079,
       "game_name": "Gladiabots",
       "file": "missing/G/53079-gladiabots.json"
+    },
+    {
+      "igdb_id": 357710,
+      "game_name": "GladiArena",
+      "file": "missing/G/357710-gladiarena.json"
     },
     {
       "igdb_id": 301947,
@@ -490952,6 +491132,11 @@
       "file": "missing/H/338726-hear-tell-of-hauntings.json"
     },
     {
+      "igdb_id": 357719,
+      "game_name": "Hear The Bell Toll",
+      "file": "missing/H/357719-hear-the-bell-toll.json"
+    },
+    {
       "igdb_id": 211791,
       "game_name": "Heard of the Story?",
       "file": "missing/H/211791-heard-of-the-story.json"
@@ -526610,6 +526795,11 @@
       "igdb_id": 187853,
       "game_name": "Hundred Days: Napa Valley",
       "file": "missing/H/187853-hundred-days-napa-valley.json"
+    },
+    {
+      "igdb_id": 357711,
+      "game_name": "Hundred Doors",
+      "file": "missing/H/357711-hundred-doors.json"
     },
     {
       "igdb_id": 412547,
@@ -578782,6 +578972,11 @@
       "file": "missing/K/243538-kagura-survivors-endless-night.json"
     },
     {
+      "igdb_id": 357821,
+      "game_name": "Kaguya",
+      "file": "missing/K/357821-kaguya.json"
+    },
+    {
       "igdb_id": 48447,
       "game_name": "Kaguya-hime Densetsu",
       "file": "missing/K/48447-kaguya-hime-densetsu.json"
@@ -600597,6 +600792,11 @@
       "file": "missing/K/351221-korean-drone-flying-tour-pocheon-si.json"
     },
     {
+      "igdb_id": 357720,
+      "game_name": "Korean Drone Flying Tour Sang-jog-am",
+      "file": "missing/K/357720-korean-drone-flying-tour-sang-jog-am.json"
+    },
+    {
       "igdb_id": 345972,
       "game_name": "Korean Drone Flying Tour Siheung-si",
       "file": "missing/K/345972-korean-drone-flying-tour-siheung-si.json"
@@ -622185,6 +622385,11 @@
       "igdb_id": 81651,
       "game_name": "Lexie the Takeover",
       "file": "missing/L/81651-lexie-the-takeover.json"
+    },
+    {
+      "igdb_id": 357823,
+      "game_name": "LexiLoong",
+      "file": "missing/L/357823-lexiloong.json"
     },
     {
       "igdb_id": 177455,
@@ -728597,6 +728802,11 @@
       "file": "missing/M/323973-mushroom-story.json"
     },
     {
+      "igdb_id": 357709,
+      "game_name": "Mushroom Survivors",
+      "file": "missing/M/357709-mushroom-survivors.json"
+    },
+    {
       "igdb_id": 179690,
       "game_name": "Mushroom Towers",
       "file": "missing/M/179690-mushroom-towers.json"
@@ -775590,6 +775800,11 @@
       "igdb_id": 286430,
       "game_name": "Odyssey Reborn",
       "file": "missing/O/286430-odyssey-reborn.json"
+    },
+    {
+      "igdb_id": 357714,
+      "game_name": "Odyssey RPG",
+      "file": "missing/O/357714-odyssey-rpg.json"
     },
     {
       "igdb_id": 62634,
@@ -846430,6 +846645,11 @@
       "igdb_id": 96256,
       "game_name": "Polar Rollout",
       "file": "missing/P/96256-polar-rollout.json"
+    },
+    {
+      "igdb_id": 357825,
+      "game_name": "Polar Shift",
+      "file": "missing/P/357825-polar-shift.json"
     },
     {
       "igdb_id": 41772,
@@ -923792,6 +924012,11 @@
       "file": "missing/R/271604-rogue-ottoman.json"
     },
     {
+      "igdb_id": 357716,
+      "game_name": "Rogue Paper Scissors",
+      "file": "missing/R/357716-rogue-paper-scissors.json"
+    },
+    {
       "igdb_id": 158909,
       "game_name": "Rogue Party 2",
       "file": "missing/R/158909-rogue-party-2.json"
@@ -986737,6 +986962,11 @@
       "file": "missing/S/65758-sketchy-bounce.json"
     },
     {
+      "igdb_id": 357712,
+      "game_name": "Sketchy Driver",
+      "file": "missing/S/357712-sketchy-driver.json"
+    },
+    {
       "igdb_id": 152846,
       "game_name": "Sketchy Fables",
       "file": "missing/S/152846-sketchy-fables.json"
@@ -997765,6 +997995,11 @@
       "igdb_id": 311036,
       "game_name": "Snake",
       "file": "missing/S/311036-snake.json"
+    },
+    {
+      "igdb_id": 357822,
+      "game_name": "Snake",
+      "file": "missing/S/357822-snake.json"
     },
     {
       "igdb_id": 377165,
@@ -1238932,6 +1239167,11 @@
       "file": "missing/U/150470-unnatural-disaster.json"
     },
     {
+      "igdb_id": 357820,
+      "game_name": "Unnatural Force",
+      "file": "missing/U/357820-unnatural-force.json"
+    },
+    {
       "igdb_id": 166605,
       "game_name": "Unnatural Freaks: Episode 1 Wolf At Evergreen",
       "file": "missing/U/166605-unnatural-freaks-episode-1-wolf-at-evergreen.json"
@@ -1250740,6 +1250980,11 @@
       "igdb_id": 351643,
       "game_name": "Vexbox",
       "file": "missing/V/351643-vexbox.json"
+    },
+    {
+      "igdb_id": 357715,
+      "game_name": "Vexcell",
+      "file": "missing/V/357715-vexcell.json"
     },
     {
       "igdb_id": 261419,
@@ -1274830,6 +1275075,11 @@
       "igdb_id": 412244,
       "game_name": "WEGO World War II: Overlord",
       "file": "missing/W/412244-wego-world-war-ii-overlord.json"
+    },
+    {
+      "igdb_id": 357819,
+      "game_name": "WEGO World War II: Stalingrad",
+      "file": "missing/W/357819-wego-world-war-ii-stalingrad.json"
     },
     {
       "igdb_id": 139335,
