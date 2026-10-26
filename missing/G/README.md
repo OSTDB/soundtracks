@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensei Torimonocho | 263680 | [263680-gensei-torimonocho.json](./263680-gensei-torimonocho.json) |
 | Genseijin Justirisers | 49607 | [49607-genseijin-justirisers.json](./49607-genseijin-justirisers.json) |
 | Genshi no Kotoba | 144730 | [144730-genshi-no-kotoba.json](./144730-genshi-no-kotoba.json) |
+| Genshin Impact: A Dance of Snowy Tides and Hoarfrost Groves | 356546 | [356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json](./356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
 | Genshin Impact: A Rekviem for the Underworld | 417641 | [417641-genshin-impact-a-rekviem-for-the-underworld.json](./417641-genshin-impact-a-rekviem-for-the-underworld.json) |
 | Genshin Impact: A Space and Time for You | 347558 | [347558-genshin-impact-a-space-and-time-for-you.json](./347558-genshin-impact-a-space-and-time-for-you.json) |
@@ -5849,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye, New World | 282642 | [282642-goodbye-new-world.json](./282642-goodbye-new-world.json) |
 | Goodbye.Monster | 323716 | [323716-goodbye-monster.json](./323716-goodbye-monster.json) |
+| Goodcode's Cavern | 356675 | [356675-goodcodes-cavern.json](./356675-goodcodes-cavern.json) |
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
 | Goodgame Empire | 70902 | [70902-goodgame-empire.json](./70902-goodgame-empire.json) |
 | GoodGod | 355080 | [355080-goodgod.json](./355080-goodgod.json) |
