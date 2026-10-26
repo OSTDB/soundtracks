@@ -8722,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
 | The Green Room Experiment: Episode 1 VR | 243678 | [243678-the-green-room-experiment-episode-1-vr.json](./243678-the-green-room-experiment-episode-1-vr.json) |
 | The Green Room Experiment: Episode 3 | 290011 | [290011-the-green-room-experiment-episode-3.json](./290011-the-green-room-experiment-episode-3.json) |
+| The Green Way: Farming Simulator | 340061 | [340061-the-green-way-farming-simulator.json](./340061-the-green-way-farming-simulator.json) |
 | The Greenening | 339972 | [339972-the-greenening.json](./339972-the-greenening.json) |
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Gretlow Tapes | 346526 | [346526-the-gretlow-tapes.json](./346526-the-gretlow-tapes.json) |
@@ -12383,6 +12384,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Palms | 137850 | [137850-the-palms.json](./137850-the-palms.json) |
 | The Pancakes Official Game Show | 176247 | [176247-the-pancakes-official-game-show.json](./176247-the-pancakes-official-game-show.json) |
 | The Pandemonium | 276377 | [276377-the-pandemonium.json](./276377-the-pandemonium.json) |
+| The Pane Puzzle: The Real Challenge DLC 1 | 339717 | [339717-the-pane-puzzle-the-real-challenge-dlc-1.json](./339717-the-pane-puzzle-the-real-challenge-dlc-1.json) |
+| The Pane Puzzle: The Real Challenge DLC 2 | 339718 | [339718-the-pane-puzzle-the-real-challenge-dlc-2.json](./339718-the-pane-puzzle-the-real-challenge-dlc-2.json) |
 | The Panel DC | 119720 | [119720-the-panel-dc.json](./119720-the-panel-dc.json) |
 | The Panic Room | 33664 | [33664-the-panic-room.json](./33664-the-panic-room.json) |
 | The Panic Room: House of Secrets | 259516 | [259516-the-panic-room-house-of-secrets.json](./259516-the-panic-room-house-of-secrets.json) |
@@ -16561,6 +16564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Easy Wayout 99 | 292579 | [292579-theres-no-easy-wayout-99.json](./292579-theres-no-easy-wayout-99.json) |
 | There's No Monsters | 306991 | [306991-theres-no-monsters.json](./306991-theres-no-monsters.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
+| There's No Santa: The Extra Presents | 339716 | [339716-theres-no-santa-the-extra-presents.json](./339716-theres-no-santa-the-extra-presents.json) |
 | There's No Socks | 302506 | [302506-theres-no-socks.json](./302506-theres-no-socks.json) |
 | There's No Socks: The Extra Challenge | 302940 | [302940-theres-no-socks-the-extra-challenge.json](./302940-theres-no-socks-the-extra-challenge.json) |
 | There's No Such Thing As Bad Publicity | 191798 | [191798-theres-no-such-thing-as-bad-publicity.json](./191798-theres-no-such-thing-as-bad-publicity.json) |
