@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest 64: Hard Mode | 214948 | [214948-quest-64-hard-mode.json](./214948-quest-64-hard-mode.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest Arrest | 141615 | [141615-quest-arrest.json](./141615-quest-arrest.json) |
+| Quest Braintainment | 334625 | [334625-quest-braintainment.json](./334625-quest-braintainment.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
 | Quest for 2Moo | 273252 | [273252-quest-for-2moo.json](./273252-quest-for-2moo.json) |
 | Quest for Camelot | 307793 | [307793-quest-for-camelot.json](./307793-quest-for-camelot.json) |
