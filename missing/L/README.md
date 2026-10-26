@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
 | Lawn Buster for Hire | 194947 | [194947-lawn-buster-for-hire.json](./194947-lawn-buster-for-hire.json) |
 | Lawn Care ASMR Cleaning | 409758 | [409758-lawn-care-asmr-cleaning.json](./409758-lawn-care-asmr-cleaning.json) |
+| Lawn Darts | 359327 | [359327-lawn-darts.json](./359327-lawn-darts.json) |
 | Lawn Mower Racing | 353956 | [353956-lawn-mower-racing.json](./353956-lawn-mower-racing.json) |
 | Lawn Mowing Simulator | 145134 | [145134-lawn-mowing-simulator.json](./145134-lawn-mowing-simulator.json) |
 | Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
@@ -4731,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Unbreakable RPG | 215081 | [215081-lisa-the-unbreakable-rpg.json](./215081-lisa-the-unbreakable-rpg.json) |
 | Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
 | Lisa: The Wise | 220546 | [220546-lisa-the-wise.json](./220546-lisa-the-wise.json) |
+| Lisa: Timeless in Pointless - Drunkard's Paradise | 359332 | [359332-lisa-timeless-in-pointless-drunkards-paradise.json](./359332-lisa-timeless-in-pointless-drunkards-paradise.json) |
 | Lisa's Memory | 114192 | [114192-lisas-memory.json](./114192-lisas-memory.json) |
 | Lisc: Season 1 | 382008 | [382008-lisc-season-1.json](./382008-lisc-season-1.json) |
 | Lishogi | 321664 | [321664-lishogi.json](./321664-lishogi.json) |
