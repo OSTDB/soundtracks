@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
 | Madman's Dice | 374801 | [374801-madmans-dice.json](./374801-madmans-dice.json) |
+| Madman's Maze | 351521 | [351521-madmans-maze.json](./351521-madmans-maze.json) |
 | Madness | 30519 | [30519-madness.json](./30519-madness.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
 | Madness & the Minotaur | 24851 | [24851-madness-and-the-minotaur.json](./24851-madness-and-the-minotaur.json) |
@@ -2985,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margaritari | 225206 | [225206-margaritari.json](./225206-margaritari.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
 | Margikarman ItoA | 180084 | [180084-margikarman-itoa.json](./180084-margikarman-itoa.json) |
+| Margin of Error | 351544 | [351544-margin-of-error.json](./351544-margin-of-error.json) |
 | Marginal act | 93778 | [93778-marginal-act.json](./93778-marginal-act.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Margo: On The Brink | 223373 | [223373-margo-on-the-brink.json](./223373-margo-on-the-brink.json) |
@@ -6254,6 +6256,53 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 4: Patch Card - 055: Charge Shot Switch | 352042 | [352042-mega-man-battle-network-4-patch-card-055-charge-shot-switch.json](./352042-mega-man-battle-network-4-patch-card-055-charge-shot-switch.json) |
 | Mega Man Battle Network 4: Patch Card - 056: Charge Shot Switch | 352043 | [352043-mega-man-battle-network-4-patch-card-056-charge-shot-switch.json](./352043-mega-man-battle-network-4-patch-card-056-charge-shot-switch.json) |
 | Mega Man Battle Network 4: Patch Card - 057: Charge Shot Switch | 352044 | [352044-mega-man-battle-network-4-patch-card-057-charge-shot-switch.json](./352044-mega-man-battle-network-4-patch-card-057-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 065: Max HP Up | 352053 | [352053-mega-man-battle-network-4-patch-card-065-max-hp-up.json](./352053-mega-man-battle-network-4-patch-card-065-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 066: Max HP Up | 352054 | [352054-mega-man-battle-network-4-patch-card-066-max-hp-up.json](./352054-mega-man-battle-network-4-patch-card-066-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 067: Max HP Up | 352055 | [352055-mega-man-battle-network-4-patch-card-067-max-hp-up.json](./352055-mega-man-battle-network-4-patch-card-067-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 068: B+Left Ability Activation | 352056 | [352056-mega-man-battle-network-4-patch-card-068-b-left-ability-activation.json](./352056-mega-man-battle-network-4-patch-card-068-b-left-ability-activation.json) |
+| Mega Man Battle Network 4: Patch Card - 069: B+Left Ability Activation | 352057 | [352057-mega-man-battle-network-4-patch-card-069-b-left-ability-activation.json](./352057-mega-man-battle-network-4-patch-card-069-b-left-ability-activation.json) |
+| Mega Man Battle Network 4: Patch Card - 070: B+Left Ability Activation | 352058 | [352058-mega-man-battle-network-4-patch-card-070-b-left-ability-activation.json](./352058-mega-man-battle-network-4-patch-card-070-b-left-ability-activation.json) |
+| Mega Man Battle Network 4: Patch Card - 071: B+Left Ability Activation | 352059 | [352059-mega-man-battle-network-4-patch-card-071-b-left-ability-activation.json](./352059-mega-man-battle-network-4-patch-card-071-b-left-ability-activation.json) |
+| Mega Man Battle Network 4: Patch Card - 072: B+Left Ability Activation | 352060 | [352060-mega-man-battle-network-4-patch-card-072-b-left-ability-activation.json](./352060-mega-man-battle-network-4-patch-card-072-b-left-ability-activation.json) |
+| Mega Man Battle Network 4: Patch Card - 073: B+Left Ability Activation | 352062 | [352062-mega-man-battle-network-4-patch-card-073-b-left-ability-activation.json](./352062-mega-man-battle-network-4-patch-card-073-b-left-ability-activation.json) |
+| Mega Man Battle Network 4: Patch Card - 074: Triple Supporter 1/2 | 352063 | [352063-mega-man-battle-network-4-patch-card-074-triple-supporter-1-2.json](./352063-mega-man-battle-network-4-patch-card-074-triple-supporter-1-2.json) |
+| Mega Man Battle Network 4: Patch Card - 075: Triple Supporter 2/2 | 352064 | [352064-mega-man-battle-network-4-patch-card-075-triple-supporter-2-2.json](./352064-mega-man-battle-network-4-patch-card-075-triple-supporter-2-2.json) |
+| Mega Man Battle Network 4: Patch Card - 076: All Guard 1/2 | 352065 | [352065-mega-man-battle-network-4-patch-card-076-all-guard-1-2.json](./352065-mega-man-battle-network-4-patch-card-076-all-guard-1-2.json) |
+| Mega Man Battle Network 4: Patch Card - 077: All Guard 2/2 | 352066 | [352066-mega-man-battle-network-4-patch-card-077-all-guard-2-2.json](./352066-mega-man-battle-network-4-patch-card-077-all-guard-2-2.json) |
+| Mega Man Battle Network 4: Patch Card - 078: First Life Aura | 352067 | [352067-mega-man-battle-network-4-patch-card-078-first-life-aura.json](./352067-mega-man-battle-network-4-patch-card-078-first-life-aura.json) |
+| Mega Man Battle Network 4: Patch Card - 079: Charge Shot Switch | 352068 | [352068-mega-man-battle-network-4-patch-card-079-charge-shot-switch.json](./352068-mega-man-battle-network-4-patch-card-079-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 080: Charge Shot Switch | 352069 | [352069-mega-man-battle-network-4-patch-card-080-charge-shot-switch.json](./352069-mega-man-battle-network-4-patch-card-080-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 081: Charge Shot Switch | 352070 | [352070-mega-man-battle-network-4-patch-card-081-charge-shot-switch.json](./352070-mega-man-battle-network-4-patch-card-081-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 082: Charge Shot Switch | 352071 | [352071-mega-man-battle-network-4-patch-card-082-charge-shot-switch.json](./352071-mega-man-battle-network-4-patch-card-082-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 083: Charge Shot Switch | 352072 | [352072-mega-man-battle-network-4-patch-card-083-charge-shot-switch.json](./352072-mega-man-battle-network-4-patch-card-083-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 084: Charge Shot Switch | 352073 | [352073-mega-man-battle-network-4-patch-card-084-charge-shot-switch.json](./352073-mega-man-battle-network-4-patch-card-084-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 085: Charge Shot Switch | 352074 | [352074-mega-man-battle-network-4-patch-card-085-charge-shot-switch.json](./352074-mega-man-battle-network-4-patch-card-085-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 086: Charge Shot Switch | 352075 | [352075-mega-man-battle-network-4-patch-card-086-charge-shot-switch.json](./352075-mega-man-battle-network-4-patch-card-086-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 087: Charge Shot Switch | 352076 | [352076-mega-man-battle-network-4-patch-card-087-charge-shot-switch.json](./352076-mega-man-battle-network-4-patch-card-087-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 088: PET Screen Color Change | 352077 | [352077-mega-man-battle-network-4-patch-card-088-pet-screen-color-change.json](./352077-mega-man-battle-network-4-patch-card-088-pet-screen-color-change.json) |
+| Mega Man Battle Network 4: Patch Card - 089: MegaMan Color Change | 352079 | [352079-mega-man-battle-network-4-patch-card-089-megaman-color-change.json](./352079-mega-man-battle-network-4-patch-card-089-megaman-color-change.json) |
+| Mega Man Battle Network 4: Patch Card - 090: MegaMan Color Change | 352080 | [352080-mega-man-battle-network-4-patch-card-090-megaman-color-change.json](./352080-mega-man-battle-network-4-patch-card-090-megaman-color-change.json) |
+| Mega Man Battle Network 4: Patch Card - 091: Max HP Up | 352081 | [352081-mega-man-battle-network-4-patch-card-091-max-hp-up.json](./352081-mega-man-battle-network-4-patch-card-091-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 092: Max HP Up | 352082 | [352082-mega-man-battle-network-4-patch-card-092-max-hp-up.json](./352082-mega-man-battle-network-4-patch-card-092-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 093: Max HP Up | 352083 | [352083-mega-man-battle-network-4-patch-card-093-max-hp-up.json](./352083-mega-man-battle-network-4-patch-card-093-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 094: Max HP Up | 352084 | [352084-mega-man-battle-network-4-patch-card-094-max-hp-up.json](./352084-mega-man-battle-network-4-patch-card-094-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 095: Max HP Up | 352085 | [352085-mega-man-battle-network-4-patch-card-095-max-hp-up.json](./352085-mega-man-battle-network-4-patch-card-095-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 096: Max HP Up | 352086 | [352086-mega-man-battle-network-4-patch-card-096-max-hp-up.json](./352086-mega-man-battle-network-4-patch-card-096-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 097: Max HP Up | 352087 | [352087-mega-man-battle-network-4-patch-card-097-max-hp-up.json](./352087-mega-man-battle-network-4-patch-card-097-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 098: Max HP Up | 352088 | [352088-mega-man-battle-network-4-patch-card-098-max-hp-up.json](./352088-mega-man-battle-network-4-patch-card-098-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 099: Max HP Up | 352089 | [352089-mega-man-battle-network-4-patch-card-099-max-hp-up.json](./352089-mega-man-battle-network-4-patch-card-099-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 100: Max HP Up | 352090 | [352090-mega-man-battle-network-4-patch-card-100-max-hp-up.json](./352090-mega-man-battle-network-4-patch-card-100-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 101: Max HP Up | 352091 | [352091-mega-man-battle-network-4-patch-card-101-max-hp-up.json](./352091-mega-man-battle-network-4-patch-card-101-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 102: Buster Patch | 352093 | [352093-mega-man-battle-network-4-patch-card-102-buster-patch.json](./352093-mega-man-battle-network-4-patch-card-102-buster-patch.json) |
+| Mega Man Battle Network 4: Patch Card - 103: FullCustom Charge 1/2 | 352094 | [352094-mega-man-battle-network-4-patch-card-103-fullcustom-charge-1-2.json](./352094-mega-man-battle-network-4-patch-card-103-fullcustom-charge-1-2.json) |
+| Mega Man Battle Network 4: Patch Card - 104: FullCustom Charge 2/2 | 352095 | [352095-mega-man-battle-network-4-patch-card-104-fullcustom-charge-2-2.json](./352095-mega-man-battle-network-4-patch-card-104-fullcustom-charge-2-2.json) |
+| Mega Man Battle Network 4: Patch Card - 105: Panel Change | 352097 | [352097-mega-man-battle-network-4-patch-card-105-panel-change.json](./352097-mega-man-battle-network-4-patch-card-105-panel-change.json) |
+| Mega Man Battle Network 4: Patch Card - 106: Weapon Change | 352098 | [352098-mega-man-battle-network-4-patch-card-106-weapon-change.json](./352098-mega-man-battle-network-4-patch-card-106-weapon-change.json) |
+| Mega Man Battle Network 4: Patch Card - 107: Weapon Change | 352099 | [352099-mega-man-battle-network-4-patch-card-107-weapon-change.json](./352099-mega-man-battle-network-4-patch-card-107-weapon-change.json) |
+| Mega Man Battle Network 4: Patch Card - 108: Weapon Change | 352100 | [352100-mega-man-battle-network-4-patch-card-108-weapon-change.json](./352100-mega-man-battle-network-4-patch-card-108-weapon-change.json) |
+| Mega Man Battle Network 4: Patch Card - 109: MegaFolder3 | 352102 | [352102-mega-man-battle-network-4-patch-card-109-megafolder3.json](./352102-mega-man-battle-network-4-patch-card-109-megafolder3.json) |
+| Mega Man Battle Network 4: Patch Card - 110: Custom3 | 352104 | [352104-mega-man-battle-network-4-patch-card-110-custom3.json](./352104-mega-man-battle-network-4-patch-card-110-custom3.json) |
+| Mega Man Battle Network 4: Patch Card - 111: GigaFolder1 | 352105 | [352105-mega-man-battle-network-4-patch-card-111-gigafolder1.json](./352105-mega-man-battle-network-4-patch-card-111-gigafolder1.json) |
 | Mega Man Battle Network 4: Patch Card - 112: B+Left Ability Activation | 352106 | [352106-mega-man-battle-network-4-patch-card-112-b-left-ability-activation.json](./352106-mega-man-battle-network-4-patch-card-112-b-left-ability-activation.json) |
 | Mega Man Battle Network 4: Patch Card - 113: Charge Shot Switch | 352107 | [352107-mega-man-battle-network-4-patch-card-113-charge-shot-switch.json](./352107-mega-man-battle-network-4-patch-card-113-charge-shot-switch.json) |
 | Mega Man Battle Network 4: Patch Card - 114: Charge Shot Switch | 352109 | [352109-mega-man-battle-network-4-patch-card-114-charge-shot-switch.json](./352109-mega-man-battle-network-4-patch-card-114-charge-shot-switch.json) |
