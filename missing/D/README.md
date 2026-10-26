@@ -4501,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sheol | 372838 | [372838-deep-sheol.json](./372838-deep-sheol.json) |
 | Deep Siren | 371010 | [371010-deep-siren.json](./371010-deep-siren.json) |
 | Deep Sixed | 29504 | [29504-deep-sixed.json](./29504-deep-sixed.json) |
+| Deep Sky | 333897 | [333897-deep-sky.json](./333897-deep-sky.json) |
 | Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
 | Deep Sky Derelicts: Definitive Edition | 131855 | [131855-deep-sky-derelicts-definitive-edition.json](./131855-deep-sky-derelicts-definitive-edition.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
@@ -9106,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver | 267291 | [267291-diver.json](./267291-diver.json) |
 | Diver Boy | 39871 | [39871-diver-boy.json](./39871-diver-boy.json) |
 | Diver Dash | 241872 | [241872-diver-dash.json](./241872-diver-dash.json) |
+| Diver Down | 334030 | [334030-diver-down.json](./334030-diver-down.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
