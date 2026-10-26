@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give It Up! Bouncy | 147354 | [147354-give-it-up-bouncy.json](./147354-give-it-up-bouncy.json) |
 | Give It Up! Plus | 114160 | [114160-give-it-up-plus.json](./114160-give-it-up-plus.json) |
 | Give Me All Your Love | 282520 | [282520-give-me-all-your-love.json](./282520-give-me-all-your-love.json) |
+| Give Me Back My Fruit | 351519 | [351519-give-me-back-my-fruit.json](./351519-give-me-back-my-fruit.json) |
 | Give Me Back! | 391099 | [391099-give-me-back.json](./391099-give-me-back.json) |
 | Give Me Clair Back | 290944 | [290944-give-me-clair-back.json](./290944-give-me-clair-back.json) |
 | Give Me More Pills | 181094 | [181094-give-me-more-pills.json](./181094-give-me-more-pills.json) |
