@@ -4414,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reporter 2 | 123393 | [123393-reporter-2.json](./123393-reporter-2.json) |
 | Repose | 272831 | [272831-repose.json](./272831-repose.json) |
 | Repose: Deluxe Edition | 380148 | [380148-repose-deluxe-edition.json](./380148-repose-deluxe-edition.json) |
+| Reposition Defense | 348685 | [348685-reposition-defense.json](./348685-reposition-defense.json) |
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
 | Repressed | 121352 | [121352-repressed.json](./121352-repressed.json) |
@@ -7504,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | RoboSnakes: Core Wars Legacy | 113160 | [113160-robosnakes-core-wars-legacy.json](./113160-robosnakes-core-wars-legacy.json) |
 | Robosnow | 166630 | [166630-robosnow.json](./166630-robosnow.json) |
+| RoboSoul: Chariot | 348669 | [348669-robosoul-chariot.json](./348669-robosoul-chariot.json) |
 | Robosoul: From the Depths of Pax-Animi | 117603 | [117603-robosoul-from-the-depths-of-pax-animi.json](./117603-robosoul-from-the-depths-of-pax-animi.json) |
 | Robospierre | 220704 | [220704-robospierre.json](./220704-robospierre.json) |
 | Robospital | 265096 | [265096-robospital.json](./265096-robospital.json) |
@@ -7936,7 +7938,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Fast & Furious DLC Bundle | 348657 | [348657-rocket-league-fast-and-furious-dlc-bundle.json](./348657-rocket-league-fast-and-furious-dlc-bundle.json) |
 | Rocket League: Game of the Year Edition | 282134 | [282134-rocket-league-game-of-the-year-edition.json](./282134-rocket-league-game-of-the-year-edition.json) |
 | Rocket League: Hot Wheels Triple Threat | 156174 | [156174-rocket-league-hot-wheels-triple-threat.json](./156174-rocket-league-hot-wheels-triple-threat.json) |
+| Rocket League: Knight Rider Car Pack | 348680 | [348680-rocket-league-knight-rider-car-pack.json](./348680-rocket-league-knight-rider-car-pack.json) |
 | Rocket League: McLaren 570S Car Pack | 348659 | [348659-rocket-league-mclaren-570s-car-pack.json](./348659-rocket-league-mclaren-570s-car-pack.json) |
+| Rocket League: MLB Fan Pack | 348677 | [348677-rocket-league-mlb-fan-pack.json](./348677-rocket-league-mlb-fan-pack.json) |
 | Rocket League: Painted Paragon Bundle | 277522 | [277522-rocket-league-painted-paragon-bundle.json](./277522-rocket-league-painted-paragon-bundle.json) |
 | Rocket League: Painted Power Bundle | 326040 | [326040-rocket-league-painted-power-bundle.json](./326040-rocket-league-painted-power-bundle.json) |
 | Rocket League: PlayStation Plus Pack | 303035 | [303035-rocket-league-playstation-plus-pack.json](./303035-rocket-league-playstation-plus-pack.json) |
@@ -9114,6 +9118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Rage | 77775 | [77775-roof-rage.json](./77775-roof-rage.json) |
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
+| Roofgrown Life | 348690 | [348690-roofgrown-life.json](./348690-roofgrown-life.json) |
 | Rooftop | 229706 | [229706-rooftop.json](./229706-rooftop.json) |
 | Rooftop | 337768 | [337768-rooftop.json](./337768-rooftop.json) |
 | Rooftop Cop | 35696 | [35696-rooftop-cop.json](./35696-rooftop-cop.json) |
