@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Crown of Sorcery and Steel | 197050 | [197050-a-crown-of-sorcery-and-steel.json](./197050-a-crown-of-sorcery-and-steel.json) |
 | A Crown of Thorns | 207740 | [207740-a-crown-of-thorns.json](./207740-a-crown-of-thorns.json) |
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
+| A Cup of Eternity | 382212 | [382212-a-cup-of-eternity.json](./382212-a-cup-of-eternity.json) |
 | A Cup of Tea | 392397 | [392397-a-cup-of-tea.json](./392397-a-cup-of-tea.json) |
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
@@ -2421,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activate | 231819 | [231819-activate.json](./231819-activate.json) |
 | Activate the Three Artefacts and then Leave | 139153 | [139153-activate-the-three-artefacts-and-then-leave.json](./139153-activate-the-three-artefacts-and-then-leave.json) |
 | Active 2048 Body Control | 379473 | [379473-active-2048-body-control.json](./379473-active-2048-body-control.json) |
+| Active Arcade | 382223 | [382223-active-arcade.json](./382223-active-arcade.json) |
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
 | Active Defense | 257357 | [257357-active-defense.json](./257357-active-defense.json) |
@@ -3334,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Field | 129465 | [129465-aether-field.json](./129465-aether-field.json) |
 | Aether Fly | 301681 | [301681-aether-fly.json](./301681-aether-fly.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
+| Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
 | Aether Story | 138474 | [138474-aether-story.json](./138474-aether-story.json) |
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
@@ -5702,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Tentacles: Attack Master | 233411 | [233411-alien-tentacles-attack-master.json](./233411-alien-tentacles-attack-master.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
 | Alien Time Zone | 58037 | [58037-alien-time-zone.json](./58037-alien-time-zone.json) |
+| Alien Together | 382258 | [382258-alien-together.json](./382258-alien-together.json) |
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
 | Alien Town Invasion | 223398 | [223398-alien-town-invasion.json](./223398-alien-town-invasion.json) |
 | Alien Transporter | 409887 | [409887-alien-transporter.json](./409887-alien-transporter.json) |
@@ -7406,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AN Escape Series #1: The Car | 213253 | [213253-an-escape-series-1-the-car.json](./213253-an-escape-series-1-the-car.json) |
 | An Essay on Insipidity | 179369 | [179369-an-essay-on-insipidity.json](./179369-an-essay-on-insipidity.json) |
 | An Eternity Gone By | 294276 | [294276-an-eternity-gone-by.json](./294276-an-eternity-gone-by.json) |
+| An Eternity, Reflecting | 382243 | [382243-an-eternity-reflecting.json](./382243-an-eternity-reflecting.json) |
 | An Evening of Wonders | 258941 | [258941-an-evening-of-wonders.json](./258941-an-evening-of-wonders.json) |
 | An evening stroll | 183938 | [183938-an-evening-stroll.json](./183938-an-evening-stroll.json) |
 | An Everyday Story | 235642 | [235642-an-everyday-story.json](./235642-an-everyday-story.json) |
@@ -9435,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Squad | 271677 | [271677-ape-squad.json](./271677-ape-squad.json) |
 | Ape vs. Caveman | 223636 | [223636-ape-vs-caveman.json](./223636-ape-vs-caveman.json) |
 | Ape-X | 36771 | [36771-ape-x.json](./36771-ape-x.json) |
+| Apees | 382249 | [382249-apees.json](./382249-apees.json) |
 | Apeiron: Tower Defense | 170856 | [170856-apeiron-tower-defense.json](./170856-apeiron-tower-defense.json) |
 | ApePoint Extraction | 405877 | [405877-apepoint-extraction.json](./405877-apepoint-extraction.json) |
 | Aperion Cyberstorm | 14385 | [14385-aperion-cyberstorm.json](./14385-aperion-cyberstorm.json) |
