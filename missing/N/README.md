@@ -2911,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World Horizon | 114955 | [114955-new-world-horizon.json](./114955-new-world-horizon.json) |
 | New World Order | 19215 | [19215-new-world-order.json](./19215-new-world-order.json) |
 | New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
+| New World: The Ideal World | 335762 | [335762-new-world-the-ideal-world.json](./335762-new-world-the-ideal-world.json) |
 | New World: The Tupis | 75603 | [75603-new-world-the-tupis.json](./75603-new-world-the-tupis.json) |
 | New XCommander | 337758 | [337758-new-xcommander.json](./337758-new-xcommander.json) |
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
@@ -6464,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurilogy 1000 | 345709 | [345709-nurilogy-1000.json](./345709-nurilogy-1000.json) |
 | Nurny Battles HD | 402380 | [402380-nurny-battles-hd.json](./402380-nurny-battles-hd.json) |
+| Nurse Boy 0 | 335764 | [335764-nurse-boy-0.json](./335764-nurse-boy-0.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
 | Nurse Enjoy Gyaru Pack | 186233 | [186233-nurse-enjoy-gyaru-pack.json](./186233-nurse-enjoy-gyaru-pack.json) |
 | Nurse Love Addiction | 32511 | [32511-nurse-love-addiction.json](./32511-nurse-love-addiction.json) |
