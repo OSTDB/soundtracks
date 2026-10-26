@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quill | 273779 | [273779-quill.json](./273779-quill.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
 | Quilly | 123495 | [123495-quilly.json](./123495-quilly.json) |
+| quilt | 366801 | [366801-quilt.json](./366801-quilt.json) |
 | Quin | 152813 | [152813-quin.json](./152813-quin.json) |
 | Quinb: 4 Players Reaction Game | 369891 | [369891-quinb-4-players-reaction-game.json](./369891-quinb-4-players-reaction-game.json) |
 | Quing's Quest VII: The Death of Videogames | 128593 | [128593-quings-quest-vii-the-death-of-videogames.json](./128593-quings-quest-vii-the-death-of-videogames.json) |
