@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Smattering of Songs | 315627 | [315627-a-smattering-of-songs.json](./315627-a-smattering-of-songs.json) |
 | A Smithing Game | 405058 | [405058-a-smithing-game.json](./405058-a-smithing-game.json) |
 | A Smoker's Story | 312731 | [312731-a-smokers-story.json](./312731-a-smokers-story.json) |
+| A Snail's Pace | 365591 | [365591-a-snails-pace.json](./365591-a-snails-pace.json) |
 | A Snake in a Maze | 159584 | [159584-a-snake-in-a-maze.json](./159584-a-snake-in-a-maze.json) |
 | A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
 | A Snowman's Chance | 244154 | [244154-a-snowmans-chance.json](./244154-a-snowmans-chance.json) |
@@ -3849,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mage | 176191 | [176191-age-of-mage.json](./176191-age-of-mage.json) |
 | Age of Magic CCG | 33894 | [33894-age-of-magic-ccg.json](./33894-age-of-magic-ccg.json) |
 | Age of Mahjong | 52376 | [52376-age-of-mahjong.json](./52376-age-of-mahjong.json) |
+| Age of Mechs | 365778 | [365778-age-of-mechs.json](./365778-age-of-mechs.json) |
 | Age of Memology | 392819 | [392819-age-of-memology.json](./392819-age-of-memology.json) |
 | Age of Mythology: Extended Edition | 9902 | [9902-age-of-mythology-extended-edition.json](./9902-age-of-mythology-extended-edition.json) |
 | Age of Mythology: Gold Edition | 129851 | [129851-age-of-mythology-gold-edition.json](./129851-age-of-mythology-gold-edition.json) |
@@ -7329,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Crewmate Edition | 155093 | [155093-among-us-crewmate-edition.json](./155093-among-us-crewmate-edition.json) |
 | Among Us: Ejected Edition | 155092 | [155092-among-us-ejected-edition.json](./155092-among-us-ejected-edition.json) |
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
+| Among Us: Ranked (Unofficial) | 365589 | [365589-among-us-ranked-unofficial.json](./365589-among-us-ranked-unofficial.json) |
 | Among Us: The Fungle | 266689 | [266689-among-us-the-fungle.json](./266689-among-us-the-fungle.json) |
 | Among Us: The Tragedy of Ryohyukan | 239525 | [239525-among-us-the-tragedy-of-ryohyukan.json](./239525-among-us-the-tragedy-of-ryohyukan.json) |
 | Among Waifus 18+ | 188409 | [188409-among-waifus-18.json](./188409-among-waifus-18.json) |
@@ -13223,6 +13226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astranded | 317045 | [317045-astranded.json](./317045-astranded.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
+| Astraphia | 365592 | [365592-astraphia.json](./365592-astraphia.json) |
 | Astraverse | 163794 | [163794-astraverse.json](./163794-astraverse.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
 | AstraX | 201512 | [201512-astrax.json](./201512-astrax.json) |
