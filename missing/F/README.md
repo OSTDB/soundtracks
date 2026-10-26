@@ -9187,6 +9187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPAH: Foul Play Air Hockey | 197653 | [197653-fpah-foul-play-air-hockey.json](./197653-fpah-foul-play-air-hockey.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
+| FPS Bullet Storm | 356531 | [356531-fps-bullet-storm.json](./356531-fps-bullet-storm.json) |
 | FPS Dinosaurs | 399659 | [399659-fps-dinosaurs.json](./399659-fps-dinosaurs.json) |
 | FPS Hero | 386284 | [386284-fps-hero.json](./386284-fps-hero.json) |
 | FPS Infinite | 334154 | [334154-fps-infinite.json](./334154-fps-infinite.json) |
