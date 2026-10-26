@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.N.Age | 32179 | [32179-d-n-age.json](./32179-d-n-age.json) |
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
 | D.O.G: Fight For Your Life | 70203 | [70203-d-o-g-fight-for-your-life.json](./70203-d-o-g-fight-for-your-life.json) |
+| D.O.L.L.S. | 373607 | [373607-d-o-l-l-s.json](./373607-d-o-l-l-s.json) |
 | D.O.R.F. Real-Time Strategic Conflict | 247998 | [247998-d-o-r-f-real-time-strategic-conflict.json](./247998-d-o-r-f-real-time-strategic-conflict.json) |
 | D.O.T. Defence | 334069 | [334069-d-o-t-defence.json](./334069-d-o-t-defence.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
@@ -4942,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
 | Delicious Quest | 255580 | [255580-delicious-quest.json](./255580-delicious-quest.json) |
 | Delicious Vinyl DJ | 21778 | [21778-delicious-vinyl-dj.json](./21778-delicious-vinyl-dj.json) |
+| Delicious Winter Edition | 373506 | [373506-delicious-winter-edition.json](./373506-delicious-winter-edition.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delicious: Cooking and Romance | 270063 | [270063-delicious-cooking-and-romance.json](./270063-delicious-cooking-and-romance.json) |
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
@@ -7154,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
 | Dicewood | 340340 | [340340-dicewood.json](./340340-dicewood.json) |
+| Dicey Bizniz | 373578 | [373578-dicey-bizniz.json](./373578-dicey-bizniz.json) |
 | Dicey Bugs | 335636 | [335636-dicey-bugs.json](./335636-dicey-bugs.json) |
 | Dicey Chess | 320304 | [320304-dicey-chess.json](./320304-dicey-chess.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
@@ -15544,6 +15547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoBellum de Marionnette | 374111 | [374111-duobellum-de-marionnette.json](./374111-duobellum-de-marionnette.json) |
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
 | Duolingo | 321884 | [321884-duolingo.json](./321884-duolingo.json) |
+| Duolingo: Chess | 373509 | [373509-duolingo-chess.json](./373509-duolingo-chess.json) |
 | DuoQ | 343225 | [343225-duoq.json](./343225-duoq.json) |
 | Duotone | 213269 | [213269-duotone.json](./213269-duotone.json) |
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
