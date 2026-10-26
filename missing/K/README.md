@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2883,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Bees | 158602 | [158602-kingdom-of-bees.json](./158602-kingdom-of-bees.json) |
 | Kingdom of Blades | 82339 | [82339-kingdom-of-blades.json](./82339-kingdom-of-blades.json) |
 | Kingdom of Cards | 278608 | [278608-kingdom-of-cards.json](./278608-kingdom-of-cards.json) |
+| Kingdom of Cards and Tiles | 338624 | [338624-kingdom-of-cards-and-tiles.json](./338624-kingdom-of-cards-and-tiles.json) |
 | Kingdom of Corrupts | 149380 | [149380-kingdom-of-corrupts.json](./149380-kingdom-of-corrupts.json) |
 | Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
 | Kingdom of Fallen: The Last Stand | 270161 | [270161-kingdom-of-fallen-the-last-stand.json](./270161-kingdom-of-fallen-the-last-stand.json) |
@@ -4732,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
 | Kowloon High-School Chronicle | 122279 | [122279-kowloon-high-school-chronicle.json](./122279-kowloon-high-school-chronicle.json) |
 | Kowloon Labyrinth | 388310 | [388310-kowloon-labyrinth.json](./388310-kowloon-labyrinth.json) |
+| Kowloon Simulator 2020 | 338641 | [338641-kowloon-simulator-2020.json](./338641-kowloon-simulator-2020.json) |
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
 | Kowloon Youma Gakuen Ki | 73579 | [73579-kowloon-youma-gakuen-ki.json](./73579-kowloon-youma-gakuen-ki.json) |
 | Kowloon Youma Gakuen Ki re:charge | 122278 | [122278-kowloon-youma-gakuen-ki-re-charge.json](./122278-kowloon-youma-gakuen-ki-re-charge.json) |
