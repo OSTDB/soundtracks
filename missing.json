@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T11:49:05.192Z",
-  "total_missing": 265002,
+  "generated_at": "2026-10-26T12:05:33.860Z",
+  "total_missing": 265051,
   "games": [
     {
       "igdb_id": 191680,
@@ -8135,6 +8135,11 @@
       "igdb_id": 413590,
       "game_name": "3 Bingos Away From Hell",
       "file": "missing/0-9/413590-3-bingos-away-from-hell.json"
+    },
+    {
+      "igdb_id": 359903,
+      "game_name": "3 Block Match",
+      "file": "missing/0-9/359903-3-block-match.json"
     },
     {
       "igdb_id": 32980,
@@ -30017,6 +30022,11 @@
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
     },
     {
+      "igdb_id": 342233,
+      "game_name": "Adventures In Time & Space",
+      "file": "missing/A/342233-adventures-in-time-and-space.json"
+    },
+    {
       "igdb_id": 134695,
       "game_name": "Adventures of a Radish",
       "file": "missing/A/134695-adventures-of-a-radish.json"
@@ -39465,6 +39475,11 @@
       "igdb_id": 45508,
       "game_name": "Akumajou Dracula X: Gekka no Yasoukyoku",
       "file": "missing/A/45508-akumajou-dracula-x-gekka-no-yasoukyoku.json"
+    },
+    {
+      "igdb_id": 359894,
+      "game_name": "Akumanor Escape DX",
+      "file": "missing/A/359894-akumanor-escape-dx.json"
     },
     {
       "igdb_id": 361222,
@@ -77057,6 +77072,11 @@
       "file": "missing/A/271090-ashes-of-the-past.json"
     },
     {
+      "igdb_id": 359885,
+      "game_name": "Ashes of the Singularity II",
+      "file": "missing/A/359885-ashes-of-the-singularity-ii.json"
+    },
+    {
       "igdb_id": 186880,
       "game_name": "Ashes of the Singularity: Escalation - Core Worlds",
       "file": "missing/A/186880-ashes-of-the-singularity-escalation-core-worlds.json"
@@ -95385,11 +95405,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -140187,6 +140202,11 @@
       "file": "missing/B/302476-blue-land.json"
     },
     {
+      "igdb_id": 359895,
+      "game_name": "Blue Laserdisc Challenge",
+      "file": "missing/B/359895-blue-laserdisc-challenge.json"
+    },
+    {
       "igdb_id": 126656,
       "game_name": "Blue Lemon",
       "file": "missing/B/126656-blue-lemon.json"
@@ -166997,6 +167017,11 @@
       "file": "missing/B/170235-business-tour-great-leaders-napoleon.json"
     },
     {
+      "igdb_id": 359881,
+      "game_name": "Business trip",
+      "file": "missing/B/359881-business-trip.json"
+    },
+    {
       "igdb_id": 12409,
       "game_name": "Business Tycoon",
       "file": "missing/B/12409-business-tycoon.json"
@@ -189817,6 +189842,11 @@
       "file": "missing/C/92415-celetania.json"
     },
     {
+      "igdb_id": 360028,
+      "game_name": "Celia's Stupid Romhack",
+      "file": "missing/C/360028-celias-stupid-romhack.json"
+    },
+    {
       "igdb_id": 287357,
       "game_name": "Cell",
       "file": "missing/C/287357-cell.json"
@@ -197990,6 +198020,11 @@
       "igdb_id": 41421,
       "game_name": "Chicky Woggy",
       "file": "missing/C/41421-chicky-woggy.json"
+    },
+    {
+      "igdb_id": 359906,
+      "game_name": "Chicky's Easter Egg Hunt",
+      "file": "missing/C/359906-chickys-easter-egg-hunt.json"
     },
     {
       "igdb_id": 299387,
@@ -226475,6 +226510,21 @@
       "igdb_id": 271237,
       "game_name": "Contract Revoked: The Lost Chapters",
       "file": "missing/C/271237-contract-revoked-the-lost-chapters.json"
+    },
+    {
+      "igdb_id": 359879,
+      "game_name": "Contract Rush",
+      "file": "missing/C/359879-contract-rush.json"
+    },
+    {
+      "igdb_id": 359882,
+      "game_name": "Contract Rush: Halloween Dress Up",
+      "file": "missing/C/359882-contract-rush-halloween-dress-up.json"
+    },
+    {
+      "igdb_id": 359884,
+      "game_name": "Contract Rush: Mission Sin",
+      "file": "missing/C/359884-contract-rush-mission-sin.json"
     },
     {
       "igdb_id": 277920,
@@ -293997,6 +294047,11 @@
       "file": "missing/D/21418-diner-dash-sizzle-and-serve.json"
     },
     {
+      "igdb_id": 360034,
+      "game_name": "Diner in the Storm",
+      "file": "missing/D/360034-diner-in-the-storm.json"
+    },
+    {
       "igdb_id": 34984,
       "game_name": "Diner Mania",
       "file": "missing/D/34984-diner-mania.json"
@@ -323900,6 +323955,11 @@
       "igdb_id": 69455,
       "game_name": "Driftland: The Magic Revival",
       "file": "missing/D/69455-driftland-the-magic-revival.json"
+    },
+    {
+      "igdb_id": 360023,
+      "game_name": "Driftline Peaks",
+      "file": "missing/D/360023-driftline-peaks.json"
     },
     {
       "igdb_id": 287360,
@@ -394002,6 +394062,11 @@
       "file": "missing/F/94677-findola.json"
     },
     {
+      "igdb_id": 360033,
+      "game_name": "Findom Queen",
+      "file": "missing/F/360033-findom-queen.json"
+    },
+    {
       "igdb_id": 267412,
       "game_name": "Fine Artist Color Pixel Number",
       "file": "missing/F/267412-fine-artist-color-pixel-number.json"
@@ -409945,6 +410010,11 @@
       "igdb_id": 213010,
       "game_name": "For What Will Come",
       "file": "missing/F/213010-for-what-will-come.json"
+    },
+    {
+      "igdb_id": 359896,
+      "game_name": "For What Will Come: Reimagined",
+      "file": "missing/F/359896-for-what-will-come-reimagined.json"
     },
     {
       "igdb_id": 57896,
@@ -453182,6 +453252,11 @@
       "file": "missing/G/375840-goblin-goopmaxxing.json"
     },
     {
+      "igdb_id": 360029,
+      "game_name": "Goblin Gourmet",
+      "file": "missing/G/360029-goblin-gourmet.json"
+    },
+    {
       "igdb_id": 180472,
       "game_name": "Goblin Head Golf",
       "file": "missing/G/180472-goblin-head-golf.json"
@@ -471075,6 +471150,11 @@
       "igdb_id": 15542,
       "game_name": "Guardian",
       "file": "missing/G/15542-guardian.json"
+    },
+    {
+      "igdb_id": 360038,
+      "game_name": "Guardian",
+      "file": "missing/G/360038-guardian.json"
     },
     {
       "igdb_id": 37295,
@@ -512435,6 +512515,11 @@
       "igdb_id": 289454,
       "game_name": "Hmph! Hmph! Yowai",
       "file": "missing/H/289454-hmph-hmph-yowai.json"
+    },
+    {
+      "igdb_id": 359893,
+      "game_name": "HMUR",
+      "file": "missing/H/359893-hmur.json"
     },
     {
       "igdb_id": 133083,
@@ -589037,11 +589122,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -610332,6 +610412,11 @@
       "file": "missing/L/274456-last-stand-delivery.json"
     },
     {
+      "igdb_id": 359902,
+      "game_name": "Last Stand Halloween",
+      "file": "missing/L/359902-last-stand-halloween.json"
+    },
+    {
       "igdb_id": 113490,
       "game_name": "Last Stand: Reborn",
       "file": "missing/L/113490-last-stand-reborn.json"
@@ -611425,6 +611510,11 @@
       "igdb_id": 303309,
       "game_name": "Lavender Memories",
       "file": "missing/L/303309-lavender-memories.json"
+    },
+    {
+      "igdb_id": 360036,
+      "game_name": "Lavender Quartz Kyoukai Hyoudou",
+      "file": "missing/L/360036-lavender-quartz-kyoukai-hyoudou.json"
     },
     {
       "igdb_id": 404205,
@@ -749757,6 +749847,11 @@
       "file": "missing/N/363147-neon-raiders.json"
     },
     {
+      "igdb_id": 359883,
+      "game_name": "Neon Rhythm",
+      "file": "missing/N/359883-neon-rhythm.json"
+    },
+    {
       "igdb_id": 104618,
       "game_name": "Neon Rider",
       "file": "missing/N/104618-neon-rider.json"
@@ -758745,6 +758840,11 @@
       "igdb_id": 212969,
       "game_name": "Nightmares of the death",
       "file": "missing/N/212969-nightmares-of-the-death.json"
+    },
+    {
+      "igdb_id": 360037,
+      "game_name": "Nightmares: The Adventures – Broken Bone’s Complaint",
+      "file": "missing/N/360037-nightmares-the-adventures-broken-bone-s-complaint.json"
     },
     {
       "igdb_id": 413797,
@@ -814892,6 +814992,11 @@
       "file": "missing/P/29934-peregrin.json"
     },
     {
+      "igdb_id": 359890,
+      "game_name": "Peregrino",
+      "file": "missing/P/359890-peregrino.json"
+    },
+    {
       "igdb_id": 58569,
       "game_name": "Perennial",
       "file": "missing/P/58569-perennial.json"
@@ -829992,9 +830097,19 @@
       "file": "missing/P/355518-pixel-cross-stitch-color-by-number-enchanted-worlds-pack.json"
     },
     {
+      "igdb_id": 359877,
+      "game_name": "Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 2",
+      "file": "missing/P/359877-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-2.json"
+    },
+    {
       "igdb_id": 377607,
       "game_name": "Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 3",
       "file": "missing/P/377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json"
+    },
+    {
+      "igdb_id": 359878,
+      "game_name": "Pixel Cross Stitch: Color by Number - Flowers and Butterflies Pack 3",
+      "file": "missing/P/359878-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-3.json"
     },
     {
       "igdb_id": 377609,
@@ -830005,6 +830120,11 @@
       "igdb_id": 377608,
       "game_name": "Pixel Cross Stitch: Color by Number - Halloween Pack 2",
       "file": "missing/P/377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json"
+    },
+    {
+      "igdb_id": 359876,
+      "game_name": "Pixel Cross Stitch: Color by Number - Menacing Monsters Pack 3",
+      "file": "missing/P/359876-pixel-cross-stitch-color-by-number-menacing-monsters-pack-3.json"
     },
     {
       "igdb_id": 383179,
@@ -847455,6 +847575,16 @@
       "igdb_id": 103624,
       "game_name": "Polymatic",
       "file": "missing/P/103624-polymatic.json"
+    },
+    {
+      "igdb_id": 359899,
+      "game_name": "Polymega Collection Vol. 11: Adventure",
+      "file": "missing/P/359899-polymega-collection-vol-11-adventure.json"
+    },
+    {
+      "igdb_id": 359900,
+      "game_name": "Polymega Collection Vol. 12: Tempest",
+      "file": "missing/P/359900-polymega-collection-vol-12-tempest.json"
     },
     {
       "igdb_id": 324512,
@@ -924832,6 +924962,16 @@
       "file": "missing/R/142846-rolling-gunner-over-power.json"
     },
     {
+      "igdb_id": 359904,
+      "game_name": "Rolling Hare",
+      "file": "missing/R/359904-rolling-hare.json"
+    },
+    {
+      "igdb_id": 359905,
+      "game_name": "Rolling Hare 2",
+      "file": "missing/R/359905-rolling-hare-2.json"
+    },
+    {
       "igdb_id": 404338,
       "game_name": "Rolling Hero",
       "file": "missing/R/404338-rolling-hero.json"
@@ -939862,6 +940002,11 @@
       "file": "missing/S/317358-sally-exe-discovery.json"
     },
     {
+      "igdb_id": 360031,
+      "game_name": "Sally.Exe: The Whisper of Soul",
+      "file": "missing/S/360031-sally-exe-the-whisper-of-soul.json"
+    },
+    {
       "igdb_id": 24328,
       "game_name": "Sally's Salon",
       "file": "missing/S/24328-sallys-salon.json"
@@ -947582,6 +947727,11 @@
       "file": "missing/S/5142-scene-it-twilight.json"
     },
     {
+      "igdb_id": 359901,
+      "game_name": "Scene It?: The DVD Movie Game",
+      "file": "missing/S/359901-scene-it-the-dvd-movie-game.json"
+    },
+    {
       "igdb_id": 328661,
       "game_name": "Scene of the Crime",
       "file": "missing/S/328661-scene-of-the-crime.json"
@@ -948760,6 +948910,11 @@
       "igdb_id": 267256,
       "game_name": "Sclera",
       "file": "missing/S/267256-sclera.json"
+    },
+    {
+      "igdb_id": 360030,
+      "game_name": "Sclerosis",
+      "file": "missing/S/360030-sclerosis.json"
     },
     {
       "igdb_id": 151165,
@@ -951430,6 +951585,11 @@
       "igdb_id": 374775,
       "game_name": "Sculptor",
       "file": "missing/S/374775-sculptor.json"
+    },
+    {
+      "igdb_id": 359909,
+      "game_name": "SculptrVR",
+      "file": "missing/S/359909-sculptrvr.json"
     },
     {
       "igdb_id": 244749,
@@ -959847,6 +960007,11 @@
       "file": "missing/S/154536-serious-sam-4-deluxe-edition.json"
     },
     {
+      "igdb_id": 359910,
+      "game_name": "Serious Sam 4: Reborn",
+      "file": "missing/S/359910-serious-sam-4-reborn.json"
+    },
+    {
       "igdb_id": 6587,
       "game_name": "Serious Sam Advance",
       "file": "missing/S/6587-serious-sam-advance.json"
@@ -959960,6 +960125,11 @@
       "igdb_id": 116987,
       "game_name": "Serious Sam: Tormental",
       "file": "missing/S/116987-serious-sam-tormental.json"
+    },
+    {
+      "igdb_id": 359886,
+      "game_name": "Serious Sam: Winter Wonderland",
+      "file": "missing/S/359886-serious-sam-winter-wonderland.json"
     },
     {
       "igdb_id": 112077,
@@ -963845,6 +964015,11 @@
       "igdb_id": 422489,
       "game_name": "Shadow Princess: Crystalbound",
       "file": "missing/S/422489-shadow-princess-crystalbound.json"
+    },
+    {
+      "igdb_id": 359892,
+      "game_name": "Shadow Project",
+      "file": "missing/S/359892-shadow-project.json"
     },
     {
       "igdb_id": 351750,
@@ -1022262,6 +1022437,11 @@
       "file": "missing/S/393791-spectro-phantom-tower.json"
     },
     {
+      "igdb_id": 360025,
+      "game_name": "Spectrobes GBA",
+      "file": "missing/S/360025-spectrobes-gba.json"
+    },
+    {
       "igdb_id": 5175,
       "game_name": "Spectrobes: Beyond the Portals",
       "file": "missing/S/5175-spectrobes-beyond-the-portals.json"
@@ -1032440,6 +1032620,11 @@
       "igdb_id": 191829,
       "game_name": "Squarena",
       "file": "missing/S/191829-squarena.json"
+    },
+    {
+      "igdb_id": 359907,
+      "game_name": "Squarenose Jump",
+      "file": "missing/S/359907-squarenose-jump.json"
     },
     {
       "igdb_id": 372994,
@@ -1108137,6 +1108322,11 @@
       "file": "missing/T/385647-text-express-2.json"
     },
     {
+      "igdb_id": 359898,
+      "game_name": "Text Invaders",
+      "file": "missing/T/359898-text-invaders.json"
+    },
+    {
       "igdb_id": 179890,
       "game_name": "Text me when you get home",
       "file": "missing/T/179890-text-me-when-you-get-home.json"
@@ -1124505,6 +1124695,11 @@
       "igdb_id": 90812,
       "game_name": "The Executive",
       "file": "missing/T/90812-the-executive.json"
+    },
+    {
+      "igdb_id": 360035,
+      "game_name": "The Exhibit",
+      "file": "missing/T/360035-the-exhibit.json"
     },
     {
       "igdb_id": 407326,
@@ -1197832,6 +1198027,11 @@
       "file": "missing/T/402554-touhou-hero-of-ice-fairy-immortal-phoenix-and-lunarian-princess.json"
     },
     {
+      "igdb_id": 360024,
+      "game_name": "Touhou Hero of Ice Fairy: Rose Idol",
+      "file": "missing/T/360024-touhou-hero-of-ice-fairy-rose-idol.json"
+    },
+    {
       "igdb_id": 27160,
       "game_name": "Touhou Hisouten: Scarlet Weather Rhapsody",
       "file": "missing/T/27160-touhou-hisouten-scarlet-weather-rhapsody.json"
@@ -1204412,6 +1204612,11 @@
       "file": "missing/T/359500-train-sim-world-5-caltrain-mp36ph-3c-baby-bullet-loco-add-on.json"
     },
     {
+      "igdb_id": 359966,
+      "game_name": "Train Sim World 5: Canadian National Oakville Subdivision: Hamilton - Oakville Route Add-On",
+      "file": "missing/T/359966-train-sim-world-5-canadian-national-oakville-subdivision-hamilton-oakville-route-add-on.json"
+    },
+    {
       "igdb_id": 359955,
       "game_name": "Train Sim World 5: Cane Creek: Thompson - Potash Route Add-On",
       "file": "missing/T/359955-train-sim-world-5-cane-creek-thompson-potash-route-add-on.json"
@@ -1204420,6 +1204625,11 @@
       "igdb_id": 359496,
       "game_name": "Train Sim World 5: Cargo Line Vol. 1 - Petroleum",
       "file": "missing/T/359496-train-sim-world-5-cargo-line-vol-1-petroleum.json"
+    },
+    {
+      "igdb_id": 359964,
+      "game_name": "Train Sim World 5: Cathcart Circle Line: Glasgow - Neilston & Newton Add-On",
+      "file": "missing/T/359964-train-sim-world-5-cathcart-circle-line-glasgow-neilston-and-newton-add-on.json"
     },
     {
       "igdb_id": 359507,
@@ -1204507,6 +1204717,11 @@
       "file": "missing/T/359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json"
     },
     {
+      "igdb_id": 359963,
+      "game_name": "Train Sim World 5: Edinburgh - Glasgow: Engineering Express Pack",
+      "file": "missing/T/359963-train-sim-world-5-edinburgh-glasgow-engineering-express-pack.json"
+    },
+    {
       "igdb_id": 359978,
       "game_name": "Train Sim World 5: Expert DB BR 101 & IC Steuerwagen Loco Add-On",
       "file": "missing/T/359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json"
@@ -1204565,6 +1204780,11 @@
       "igdb_id": 359501,
       "game_name": "Train Sim World 5: Harlem Line: Grand Central Terminal - North White Plains Route Add-On",
       "file": "missing/T/359501-train-sim-world-5-harlem-line-grand-central-terminal-north-white-plains-route-add-on.json"
+    },
+    {
+      "igdb_id": 359969,
+      "game_name": "Train Sim World 5: Hauptstrecke Hamburg - Lübeck Route",
+      "file": "missing/T/359969-train-sim-world-5-hauptstrecke-hamburg-lubeck-route.json"
     },
     {
       "igdb_id": 359938,
@@ -1204652,6 +1204872,11 @@
       "file": "missing/T/359947-train-sim-world-5-midland-main-line-leicester-derby-and-nottingham-route-add-on.json"
     },
     {
+      "igdb_id": 359968,
+      "game_name": "Train Sim World 5: New Journeys - CSX SD40 Add-On",
+      "file": "missing/T/359968-train-sim-world-5-new-journeys-csx-sd40-add-on.json"
+    },
+    {
       "igdb_id": 359934,
       "game_name": "Train Sim World 5: New Journeys - Silver 1972 Stock Add-On",
       "file": "missing/T/359934-train-sim-world-5-new-journeys-silver-1972-stock-add-on.json"
@@ -1204680,6 +1204905,11 @@
       "igdb_id": 402356,
       "game_name": "Train Sim World 5: Pfälzische Ludwigsbahn: Mannheim - Kaiserslautern",
       "file": "missing/T/402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json"
+    },
+    {
+      "igdb_id": 359965,
+      "game_name": "Train Sim World 5: Rail Head Treatment Train Add-On",
+      "file": "missing/T/359965-train-sim-world-5-rail-head-treatment-train-add-on.json"
     },
     {
       "igdb_id": 359511,
@@ -1204740,6 +1204970,11 @@
       "igdb_id": 359487,
       "game_name": "Train Sim World 5: ScotRail BR Class 158 Sprinter DMU Add-On",
       "file": "missing/T/359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json"
+    },
+    {
+      "igdb_id": 359967,
+      "game_name": "Train Sim World 5: ScotRail BR Class 380 EMU Add-On",
+      "file": "missing/T/359967-train-sim-world-5-scotrail-br-class-380-emu-add-on.json"
     },
     {
       "igdb_id": 359488,
@@ -1226150,6 +1226385,11 @@
       "igdb_id": 260534,
       "game_name": "Twyla",
       "file": "missing/T/260534-twyla.json"
+    },
+    {
+      "igdb_id": 359912,
+      "game_name": "TX Poker: Texas Holdem Online",
+      "file": "missing/T/359912-tx-poker-texas-holdem-online.json"
     },
     {
       "igdb_id": 232706,
@@ -1278580,6 +1278820,11 @@
       "igdb_id": 282229,
       "game_name": "Where's the Boat",
       "file": "missing/W/282229-wheres-the-boat.json"
+    },
+    {
+      "igdb_id": 359897,
+      "game_name": "Where's The Cheat?",
+      "file": "missing/W/359897-wheres-the-cheat.json"
     },
     {
       "igdb_id": 30948,
