@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Stigmatized Property 2 | 382003 | [382003-japan-stigmatized-property-2.json](./382003-japan-stigmatized-property-2.json) |
 | Japan Studio VR Music Festival | 68296 | [68296-japan-studio-vr-music-festival.json](./68296-japan-studio-vr-music-festival.json) |
 | Japan Sumo Cup: Yokozuna vs. Street Fighter | 59468 | [59468-japan-sumo-cup-yokozuna-vs-street-fighter.json](./59468-japan-sumo-cup-yokozuna-vs-street-fighter.json) |
+| Japan to Go, Please! | 342912 | [342912-japan-to-go-please.json](./342912-japan-to-go-please.json) |
 | Japan Train Models: JR East Edition | 271616 | [271616-japan-train-models-jr-east-edition.json](./271616-japan-train-models-jr-east-edition.json) |
 | Japan Train Models: JR Freight Edition | 294982 | [294982-japan-train-models-jr-freight-edition.json](./294982-japan-train-models-jr-freight-edition.json) |
 | Japan Train Models: JR Kyushu Edition | 286104 | [286104-japan-train-models-jr-kyushu-edition.json](./286104-japan-train-models-jr-kyushu-edition.json) |
