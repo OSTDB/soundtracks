@@ -3505,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is George | 287702 | [287702-where-is-george.json](./287702-where-is-george.json) |
 | Where is He | 192637 | [192637-where-is-he.json](./192637-where-is-he.json) |
 | Where Is Here: New Home | 207309 | [207309-where-is-here-new-home.json](./207309-where-is-here-new-home.json) |
+| Where Is It: The Quest for the 10th Island | 370629 | [370629-where-is-it-the-quest-for-the-10th-island.json](./370629-where-is-it-the-quest-for-the-10th-island.json) |
 | Where is Johnny | 282227 | [282227-where-is-johnny.json](./282227-where-is-johnny.json) |
 | Where is Love? | 302439 | [302439-where-is-love.json](./302439-where-is-love.json) |
 | Where Is Mommy | 374351 | [374351-where-is-mommy.json](./374351-where-is-mommy.json) |
@@ -5650,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry III: Diamond no Kishi | 50046 | [50046-wizardry-iii-diamond-no-kishi.json](./50046-wizardry-iii-diamond-no-kishi.json) |
 | Wizardry Level C | 267783 | [267783-wizardry-level-c.json](./267783-wizardry-level-c.json) |
 | Wizardry Perfect Pack | 136846 | [136846-wizardry-perfect-pack.json](./136846-wizardry-perfect-pack.json) |
+| Wizardry Scenario #1: Proving Grounds of the Mad Overlord | 370739 | [370739-wizardry-scenario-1-proving-grounds-of-the-mad-overlord.json](./370739-wizardry-scenario-1-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
 | Wizardry Summoner | 60870 | [60870-wizardry-summoner.json](./60870-wizardry-summoner.json) |
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
@@ -5661,6 +5663,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
 | Wizardry: Labyrinth of Lost Souls | 21083 | [21083-wizardry-labyrinth-of-lost-souls.json](./21083-wizardry-labyrinth-of-lost-souls.json) |
+| Wizardry: Proving Grounds of the Mad Overlord | 370644 | [370644-wizardry-proving-grounds-of-the-mad-overlord.json](./370644-wizardry-proving-grounds-of-the-mad-overlord.json) |
+| Wizardry: Proving Grounds of the Mad Overlord | 370647 | [370647-wizardry-proving-grounds-of-the-mad-overlord.json](./370647-wizardry-proving-grounds-of-the-mad-overlord.json) |
+| Wizardry: Proving Grounds of the Mad Overlord | 370743 | [370743-wizardry-proving-grounds-of-the-mad-overlord.json](./370743-wizardry-proving-grounds-of-the-mad-overlord.json) |
+| Wizardry: Proving Grounds of the Mad Overlord | 370745 | [370745-wizardry-proving-grounds-of-the-mad-overlord.json](./370745-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Tale of the Forsaken Land | 43620 | [43620-wizardry-tale-of-the-forsaken-land.json](./43620-wizardry-tale-of-the-forsaken-land.json) |
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
 | Wizardry: The Five Ordeals - Scenario "Prisoners of the Battles" | 242525 | [242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json](./242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json) |
