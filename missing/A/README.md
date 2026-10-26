@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day Out | 190377 | [190377-a-day-out.json](./190377-a-day-out.json) |
 | A Day Out with Ube | 242006 | [242006-a-day-out-with-ube.json](./242006-a-day-out-with-ube.json) |
 | A Day to Bring Them Happiness | 314042 | [314042-a-day-to-bring-them-happiness.json](./314042-a-day-to-bring-them-happiness.json) |
+| A day with Marco | 343160 | [343160-a-day-with-marco.json](./343160-a-day-with-marco.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
@@ -4667,10 +4668,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Delivery Simulator 2024: Realistic Geographical | 300962 | [300962-airplane-delivery-simulator-2024-realistic-geographical.json](./300962-airplane-delivery-simulator-2024-realistic-geographical.json) |
 | Airplane Flight Simulator | 251630 | [251630-airplane-flight-simulator.json](./251630-airplane-flight-simulator.json) |
 | Airplane Flight Simulator: Dangerous Landings | 328580 | [328580-airplane-flight-simulator-dangerous-landings.json](./328580-airplane-flight-simulator-dangerous-landings.json) |
+| Airplane Flight Simulator: EVO | 343494 | [343494-airplane-flight-simulator-evo.json](./343494-airplane-flight-simulator-evo.json) |
 | Airplane Mode | 126434 | [126434-airplane-mode.json](./126434-airplane-mode.json) |
 | Airplane Parking Mania 3D | 239320 | [239320-airplane-parking-mania-3d.json](./239320-airplane-parking-mania-3d.json) |
 | Airplane Race Simulator 2 Player Game | 261341 | [261341-airplane-race-simulator-2-player-game.json](./261341-airplane-race-simulator-2-player-game.json) |
 | Airplane Racer 2021 | 181019 | [181019-airplane-racer-2021.json](./181019-airplane-racer-2021.json) |
+| Airplane Racing Championship | 343496 | [343496-airplane-racing-championship.json](./343496-airplane-racing-championship.json) |
 | Airplane shooting spree | 157059 | [157059-airplane-shooting-spree.json](./157059-airplane-shooting-spree.json) |
 | Airplane Tycoon | 166608 | [166608-airplane-tycoon.json](./166608-airplane-tycoon.json) |
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
@@ -11669,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armament 2028 | 99380 | [99380-armament-2028.json](./99380-armament-2028.json) |
 | Armatus | 378225 | [378225-armatus.json](./378225-armatus.json) |
 | Armchair Commander | 267865 | [267865-armchair-commander.json](./267865-armchair-commander.json) |
+| Armchair Detective | 343162 | [343162-armchair-detective.json](./343162-armchair-detective.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armechgeddon | 238623 | [238623-armechgeddon.json](./238623-armechgeddon.json) |
 | Armed & Delirious | 71321 | [71321-armed-and-delirious.json](./71321-armed-and-delirious.json) |
