@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T10:05:03.037Z",
-  "total_missing": 264652,
+  "generated_at": "2026-10-26T10:27:43.134Z",
+  "total_missing": 264702,
   "games": [
     {
       "igdb_id": 191680,
@@ -79182,6 +79182,11 @@
       "file": "missing/A/257314-assia-returning-to-dreams.json"
     },
     {
+      "igdb_id": 363923,
+      "game_name": "Assigned Mech At Birth",
+      "file": "missing/A/363923-assigned-mech-at-birth.json"
+    },
+    {
       "igdb_id": 257555,
       "game_name": "Assignment Due: Project Blue",
       "file": "missing/A/257555-assignment-due-project-blue.json"
@@ -81700,6 +81705,11 @@
       "igdb_id": 334320,
       "game_name": "Astromattech",
       "file": "missing/A/334320-astromattech.json"
+    },
+    {
+      "igdb_id": 363924,
+      "game_name": "Astromech",
+      "file": "missing/A/363924-astromech.json"
     },
     {
       "igdb_id": 221667,
@@ -94735,6 +94745,11 @@
       "igdb_id": 409375,
       "game_name": "Bacterium",
       "file": "missing/B/409375-bacterium.json"
+    },
+    {
+      "igdb_id": 363932,
+      "game_name": "Bactobot",
+      "file": "missing/B/363932-bactobot.json"
     },
     {
       "igdb_id": 413612,
@@ -117580,6 +117595,181 @@
       "igdb_id": 363890,
       "game_name": "Ben 10: 028 - Power Mod: High Jump",
       "file": "missing/B/363890-ben-10-028-power-mod-high-jump.json"
+    },
+    {
+      "igdb_id": 363832,
+      "game_name": "Ben 10: 030 - Attack Mod: Bounceback",
+      "file": "missing/B/363832-ben-10-030-attack-mod-bounceback.json"
+    },
+    {
+      "igdb_id": 363833,
+      "game_name": "Ben 10: 031 - Defense Mod: Shrink Wrap",
+      "file": "missing/B/363833-ben-10-031-defense-mod-shrink-wrap.json"
+    },
+    {
+      "igdb_id": 363834,
+      "game_name": "Ben 10: 032 - Power Mod: Fliptail",
+      "file": "missing/B/363834-ben-10-032-power-mod-fliptail.json"
+    },
+    {
+      "igdb_id": 363835,
+      "game_name": "Ben 10: 033 - Speed Mod: Dive Bomb",
+      "file": "missing/B/363835-ben-10-033-speed-mod-dive-bomb.json"
+    },
+    {
+      "igdb_id": 363836,
+      "game_name": "Ben 10: 034 - Attack Mod: Bite Radius",
+      "file": "missing/B/363836-ben-10-034-attack-mod-bite-radius.json"
+    },
+    {
+      "igdb_id": 363837,
+      "game_name": "Ben 10: 035 - Defense Mod: Scale Armor",
+      "file": "missing/B/363837-ben-10-035-defense-mod-scale-armor.json"
+    },
+    {
+      "igdb_id": 363838,
+      "game_name": "Ben 10: 036 - Projectile Mod: Nanoblast",
+      "file": "missing/B/363838-ben-10-036-projectile-mod-nanoblast.json"
+    },
+    {
+      "igdb_id": 363839,
+      "game_name": "Ben 10: 037 - Speed Mod: Overclock",
+      "file": "missing/B/363839-ben-10-037-speed-mod-overclock.json"
+    },
+    {
+      "igdb_id": 363840,
+      "game_name": "Ben 10: 038 - Attack Mod: Binary Blaster",
+      "file": "missing/B/363840-ben-10-038-attack-mod-binary-blaster.json"
+    },
+    {
+      "igdb_id": 363841,
+      "game_name": "Ben 10: 039 - Defense Mod: Defuse",
+      "file": "missing/B/363841-ben-10-039-defense-mod-defuse.json"
+    },
+    {
+      "igdb_id": 363842,
+      "game_name": "Ben 10: 040 - Power Mod: Big Smack",
+      "file": "missing/B/363842-ben-10-040-power-mod-big-smack.json"
+    },
+    {
+      "igdb_id": 363843,
+      "game_name": "Ben 10: 041 - Speed Mod: Thunderclap",
+      "file": "missing/B/363843-ben-10-041-speed-mod-thunderclap.json"
+    },
+    {
+      "igdb_id": 363844,
+      "game_name": "Ben 10: 042 - Attack Mod: Juggernaut",
+      "file": "missing/B/363844-ben-10-042-attack-mod-juggernaut.json"
+    },
+    {
+      "igdb_id": 363845,
+      "game_name": "Ben 10: 043 - Defense Mod: Behemoth",
+      "file": "missing/B/363845-ben-10-043-defense-mod-behemoth.json"
+    },
+    {
+      "igdb_id": 363846,
+      "game_name": "Ben 10: 044 - Projectile Mod: Goo Sting",
+      "file": "missing/B/363846-ben-10-044-projectile-mod-goo-sting.json"
+    },
+    {
+      "igdb_id": 363847,
+      "game_name": "Ben 10: 045 - Speed Mod: Hive Mind",
+      "file": "missing/B/363847-ben-10-045-speed-mod-hive-mind.json"
+    },
+    {
+      "igdb_id": 363848,
+      "game_name": "Ben 10: 046 - Attack Mod: Hyperwing",
+      "file": "missing/B/363848-ben-10-046-attack-mod-hyperwing.json"
+    },
+    {
+      "igdb_id": 363849,
+      "game_name": "Ben 10: 047 - Defense Mod: Stink Swarm",
+      "file": "missing/B/363849-ben-10-047-defense-mod-stink-swarm.json"
+    },
+    {
+      "igdb_id": 363850,
+      "game_name": "Ben 10: 048 - Projectile Mod: Static Boom",
+      "file": "missing/B/363850-ben-10-048-projectile-mod-static-boom.json"
+    },
+    {
+      "igdb_id": 363851,
+      "game_name": "Ben 10: 049 - Attack Mod: Turbo Change",
+      "file": "missing/B/363851-ben-10-049-attack-mod-turbo-change.json"
+    },
+    {
+      "igdb_id": 363852,
+      "game_name": "Ben 10: 050 - Attack Mod: Gear Shift",
+      "file": "missing/B/363852-ben-10-050-attack-mod-gear-shift.json"
+    },
+    {
+      "igdb_id": 363854,
+      "game_name": "Ben 10: 051 - Defense Mod: Spin Out",
+      "file": "missing/B/363854-ben-10-051-defense-mod-spin-out.json"
+    },
+    {
+      "igdb_id": 363856,
+      "game_name": "Ben 10: 052 - Villain Defense: Rust Belt",
+      "file": "missing/B/363856-ben-10-052-villain-defense-rust-belt.json"
+    },
+    {
+      "igdb_id": 363857,
+      "game_name": "Ben 10: 053 - Villain Defense: Metal Fatigue",
+      "file": "missing/B/363857-ben-10-053-villain-defense-metal-fatigue.json"
+    },
+    {
+      "igdb_id": 363858,
+      "game_name": "Ben 10: 054 - Villain Defense: Harpoon",
+      "file": "missing/B/363858-ben-10-054-villain-defense-harpoon.json"
+    },
+    {
+      "igdb_id": 363859,
+      "game_name": "Ben 10: 055 - Villain Defense: Deep Six",
+      "file": "missing/B/363859-ben-10-055-villain-defense-deep-six.json"
+    },
+    {
+      "igdb_id": 363860,
+      "game_name": "Ben 10: 056 - Villain Defense: All Thumbs",
+      "file": "missing/B/363860-ben-10-056-villain-defense-all-thumbs.json"
+    },
+    {
+      "igdb_id": 363861,
+      "game_name": "Ben 10: 057 - Villain Defense: Flame Out",
+      "file": "missing/B/363861-ben-10-057-villain-defense-flame-out.json"
+    },
+    {
+      "igdb_id": 363862,
+      "game_name": "Ben 10: 058 - Villain Defense: Brain Drain",
+      "file": "missing/B/363862-ben-10-058-villain-defense-brain-drain.json"
+    },
+    {
+      "igdb_id": 363863,
+      "game_name": "Ben 10: 059 - Villain Defense: Bio-Feedback",
+      "file": "missing/B/363863-ben-10-059-villain-defense-bio-feedback.json"
+    },
+    {
+      "igdb_id": 363864,
+      "game_name": "Ben 10: 060 - Villain Defense: Hyp-No!",
+      "file": "missing/B/363864-ben-10-060-villain-defense-hyp-no.json"
+    },
+    {
+      "igdb_id": 363865,
+      "game_name": "Ben 10: 061 - Villain Defense: Reverse Psychology",
+      "file": "missing/B/363865-ben-10-061-villain-defense-reverse-psychology.json"
+    },
+    {
+      "igdb_id": 363866,
+      "game_name": "Ben 10: 062 - Villain Defense: Snail Trail",
+      "file": "missing/B/363866-ben-10-062-villain-defense-snail-trail.json"
+    },
+    {
+      "igdb_id": 363867,
+      "game_name": "Ben 10: 063 - Villain Defense: Surface Tension",
+      "file": "missing/B/363867-ben-10-063-villain-defense-surface-tension.json"
+    },
+    {
+      "igdb_id": 363868,
+      "game_name": "Ben 10: 064 - Villain Defense: Hexa-Gone",
+      "file": "missing/B/363868-ben-10-064-villain-defense-hexa-gone.json"
     },
     {
       "igdb_id": 363869,
@@ -311770,6 +311960,11 @@
       "igdb_id": 91112,
       "game_name": "Double Klondike",
       "file": "missing/D/91112-double-klondike.json"
+    },
+    {
+      "igdb_id": 363990,
+      "game_name": "Double Knoxels",
+      "file": "missing/D/363990-double-knoxels.json"
     },
     {
       "igdb_id": 141854,
@@ -561582,6 +561777,11 @@
       "file": "missing/J/222218-japanese-escape-games-toy-house-kara-no-dasshutsu.json"
     },
     {
+      "igdb_id": 363993,
+      "game_name": "Japanese Fun: J64",
+      "file": "missing/J/363993-japanese-fun-j64.json"
+    },
+    {
       "igdb_id": 220871,
       "game_name": "Japanese Goblins",
       "file": "missing/J/220871-japanese-goblins.json"
@@ -673567,6 +673767,11 @@
       "file": "missing/M/238441-mech-tech.json"
     },
     {
+      "igdb_id": 363925,
+      "game_name": "Mech Top-Down Shooter Dating Sim",
+      "file": "missing/M/363925-mech-top-down-shooter-dating-sim.json"
+    },
+    {
       "igdb_id": 196547,
       "game_name": "Mech vs. Aliens",
       "file": "missing/M/196547-mech-vs-aliens.json"
@@ -674245,6 +674450,11 @@
       "igdb_id": 115705,
       "game_name": "Mechsternmination Force",
       "file": "missing/M/115705-mechsternmination-force.json"
+    },
+    {
+      "igdb_id": 363931,
+      "game_name": "Mechtobacillus",
+      "file": "missing/M/363931-mechtobacillus.json"
     },
     {
       "igdb_id": 83804,
@@ -788070,6 +788280,11 @@
       "igdb_id": 36418,
       "game_name": "Organic Panic",
       "file": "missing/O/36418-organic-panic.json"
+    },
+    {
+      "igdb_id": 363930,
+      "game_name": "Organish Seagreen",
+      "file": "missing/O/363930-organish-seagreen.json"
     },
     {
       "igdb_id": 107749,
@@ -913037,6 +913252,11 @@
       "file": "missing/R/151649-rising-noracam.json"
     },
     {
+      "igdb_id": 363853,
+      "game_name": "Rising Odds",
+      "file": "missing/R/363853-rising-odds.json"
+    },
+    {
       "igdb_id": 225236,
       "game_name": "Rising of Ants",
       "file": "missing/R/225236-rising-of-ants.json"
@@ -1003750,6 +1003970,11 @@
       "igdb_id": 349302,
       "game_name": "Solo Leveling: Arise Overdrive",
       "file": "missing/S/349302-solo-leveling-arise-overdrive.json"
+    },
+    {
+      "igdb_id": 363992,
+      "game_name": "Solo Leveling: Arise Overdrive - Deluxe Edition",
+      "file": "missing/S/363992-solo-leveling-arise-overdrive-deluxe-edition.json"
     },
     {
       "igdb_id": 175374,
@@ -1130782,6 +1131007,11 @@
       "file": "missing/T/79603-the-ibm-basic-quiz.json"
     },
     {
+      "igdb_id": 363927,
+      "game_name": "The Icarus Effect",
+      "file": "missing/T/363927-the-icarus-effect.json"
+    },
+    {
       "igdb_id": 317307,
       "game_name": "The Icarus Experiment",
       "file": "missing/T/317307-the-icarus-experiment.json"
@@ -1235332,6 +1235562,11 @@
       "file": "missing/U/281900-universal-flight-simulator-extended.json"
     },
     {
+      "igdb_id": 363855,
+      "game_name": "Universal Garbage Station",
+      "file": "missing/U/363855-universal-garbage-station.json"
+    },
+    {
       "igdb_id": 406890,
       "game_name": "Universal Harvest: Incremental",
       "file": "missing/U/406890-universal-harvest-incremental.json"
@@ -1293487,6 +1293722,11 @@
       "file": "missing/W/136994-world-of-warcraft-collectors-edition.json"
     },
     {
+      "igdb_id": 363929,
+      "game_name": "World of Warcraft: Dragonflight - Embers of Neltharion",
+      "file": "missing/W/363929-world-of-warcraft-dragonflight-embers-of-neltharion.json"
+    },
+    {
       "igdb_id": 275472,
       "game_name": "World of Warcraft: Dragonflight - Guardians of the Dream",
       "file": "missing/W/275472-world-of-warcraft-dragonflight-guardians-of-the-dream.json"
@@ -1293525,6 +1293765,11 @@
       "igdb_id": 136998,
       "game_name": "World of Warcraft: Shadowlands - Collector's Edition",
       "file": "missing/W/136998-world-of-warcraft-shadowlands-collectors-edition.json"
+    },
+    {
+      "igdb_id": 363926,
+      "game_name": "World of Warcraft: Shadowlands - Eternity's End",
+      "file": "missing/W/363926-world-of-warcraft-shadowlands-eternitys-end.json"
     },
     {
       "igdb_id": 55075,
@@ -1311730,6 +1311975,11 @@
       "igdb_id": 399741,
       "game_name": "Yúnhuāng Xiāoyáozhuàn",
       "file": "missing/Y/399741-yunhuang-xiaoyaozhuan.json"
+    },
+    {
+      "igdb_id": 363922,
+      "game_name": "YunkMech",
+      "file": "missing/Y/363922-yunkmech.json"
     },
     {
       "igdb_id": 349800,
