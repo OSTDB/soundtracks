@@ -7292,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hina: Ai wa Kotoba no Naka ni | 44728 | [44728-love-hina-ai-wa-kotoba-no-naka-ni.json](./44728-love-hina-ai-wa-kotoba-no-naka-ni.json) |
 | Love Hina: Smile Again | 72582 | [72582-love-hina-smile-again.json](./72582-love-hina-smile-again.json) |
 | Love Hina: Totsuzen no Engeji Happening | 46375 | [46375-love-hina-totsuzen-no-engeji-happening.json](./46375-love-hina-totsuzen-no-engeji-happening.json) |
+| Love Hospital | 335198 | [335198-love-hospital.json](./335198-love-hospital.json) |
 | Love Hotel | 62664 | [62664-love-hotel.json](./62664-love-hotel.json) |
 | Love Hotel Manager | 351602 | [351602-love-hotel-manager.json](./351602-love-hotel-manager.json) |
 | Love Hotel Simulator | 410920 | [410920-love-hotel-simulator.json](./410920-love-hotel-simulator.json) |
