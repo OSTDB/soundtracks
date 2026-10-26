@@ -8515,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dance-Off: Ghost Party | 319781 | [319781-anime-dance-off-ghost-party.json](./319781-anime-dance-off-ghost-party.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
+| Anime Dream Match: Butterflies | 360467 | [360467-anime-dream-match-butterflies.json](./360467-anime-dream-match-butterflies.json) |
 | Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
 | Anime Dream Match: Horses | 378531 | [378531-anime-dream-match-horses.json](./378531-anime-dream-match-horses.json) |
 | Anime Dream Match: Predators | 366134 | [366134-anime-dream-match-predators.json](./366134-anime-dream-match-predators.json) |
