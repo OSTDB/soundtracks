@@ -4541,7 +4541,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All 10: Greece | 416977 | [416977-find-all-10-greece.json](./416977-find-all-10-greece.json) |
 | Find All 4: Magic | 226805 | [226805-find-all-4-magic.json](./226805-find-all-4-magic.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
+| Find All 7: Japan - Extra Level | 345247 | [345247-find-all-7-japan-extra-level.json](./345247-find-all-7-japan-extra-level.json) |
 | Find All 8: The Road to the Maya | 344979 | [344979-find-all-8-the-road-to-the-maya.json](./344979-find-all-8-the-road-to-the-maya.json) |
+| Find All 9: Fantasy | 345248 | [345248-find-all-9-fantasy.json](./345248-find-all-9-fantasy.json) |
 | Find All Things: Christmas | 361059 | [361059-find-all-things-christmas.json](./361059-find-all-things-christmas.json) |
 | Find All: Bunker | 337499 | [337499-find-all-bunker.json](./337499-find-all-bunker.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
@@ -8436,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
 | Formula 2.5 | 377030 | [377030-formula-2-5.json](./377030-formula-2-5.json) |
+| Formula 2025: Grand Prix Legends | 345711 | [345711-formula-2025-grand-prix-legends.json](./345711-formula-2025-grand-prix-legends.json) |
 | Formula 2026: Rise of Legends | 401728 | [401728-formula-2026-rise-of-legends.json](./401728-formula-2026-rise-of-legends.json) |
 | Formula 2D: Steer To Persevere | 212833 | [212833-formula-2d-steer-to-persevere.json](./212833-formula-2d-steer-to-persevere.json) |
 | Formula 500 | 230861 | [230861-formula-500.json](./230861-formula-500.json) |
@@ -9860,6 +9863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy | 13717 | [13717-frenzy.json](./13717-frenzy.json) |
 | Frenzy | 220026 | [220026-frenzy.json](./220026-frenzy.json) |
 | Frenzy Blood | 287183 | [287183-frenzy-blood.json](./287183-frenzy-blood.json) |
+| Frenzy Extinction | 345395 | [345395-frenzy-extinction.json](./345395-frenzy-extinction.json) |
 | Frenzy Fall | 347808 | [347808-frenzy-fall.json](./347808-frenzy-fall.json) |
 | Frenzy Force | 392104 | [392104-frenzy-force.json](./392104-frenzy-force.json) |
 | Frenzy Freak Fantasy | 370198 | [370198-frenzy-freak-fantasy.json](./370198-frenzy-freak-fantasy.json) |
