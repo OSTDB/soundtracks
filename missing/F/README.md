@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom Hero | 382480 | [382480-femdom-hero.json](./382480-femdom-hero.json) |
 | Femdom Hero 2 | 384898 | [384898-femdom-hero-2.json](./384898-femdom-hero-2.json) |
 | Femdom Hero 3 | 384909 | [384909-femdom-hero-3.json](./384909-femdom-hero-3.json) |
+| Femdom Hero 4 | 384590 | [384590-femdom-hero-4.json](./384590-femdom-hero-4.json) |
 | Femdom Lines | 368130 | [368130-femdom-lines.json](./368130-femdom-lines.json) |
 | Femdom Overtime | 400901 | [400901-femdom-overtime.json](./400901-femdom-overtime.json) |
 | Femdom Stories: Findom Simulator Sex Game | 368129 | [368129-femdom-stories-findom-simulator-sex-game.json](./368129-femdom-stories-findom-simulator-sex-game.json) |
@@ -8076,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Skies | 187096 | [187096-forever-skies.json](./187096-forever-skies.json) |
 | Forever Skies: The Final Echoes Update | 404906 | [404906-forever-skies-the-final-echoes-update.json](./404906-forever-skies-the-final-echoes-update.json) |
 | Forever Space | 89366 | [89366-forever-space.json](./89366-forever-space.json) |
+| Forever Space: First Person Edition | 384589 | [384589-forever-space-first-person-edition.json](./384589-forever-space-first-person-edition.json) |
 | Forever Time | 342751 | [342751-forever-time.json](./342751-forever-time.json) |
 | Forever Tunnel | 422084 | [422084-forever-tunnel.json](./422084-forever-tunnel.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
