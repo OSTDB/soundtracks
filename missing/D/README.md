@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
 | Day of Dragons | 122643 | [122643-day-of-dragons.json](./122643-day-of-dragons.json) |
 | Day of Dragons: Acid Spitter Drake | 170364 | [170364-day-of-dragons-acid-spitter-drake.json](./170364-day-of-dragons-acid-spitter-drake.json) |
+| Day of Drift | 345805 | [345805-day-of-drift.json](./345805-day-of-drift.json) |
 | Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
 | Day of Light | 383383 | [383383-day-of-light.json](./383383-day-of-light.json) |
 | Day of Love | 72663 | [72663-day-of-love.json](./72663-day-of-love.json) |
@@ -12829,6 +12830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonRoad | 371839 | [371839-dragonroad.json](./371839-dragonroad.json) |
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
+| Dragons Frolic! | 346515 | [346515-dragons-frolic.json](./346515-dragons-frolic.json) |
 | Dragons Heart | 239692 | [239692-dragons-heart.json](./239692-dragons-heart.json) |
 | Dragons in Space | 194349 | [194349-dragons-in-space.json](./194349-dragons-in-space.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
@@ -13807,6 +13809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
 | Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
 | Drifter | 306599 | [306599-drifter.json](./306599-drifter.json) |
+| Drifter | 345933 | [345933-drifter.json](./345933-drifter.json) |
 | Drifter King Online | 133358 | [133358-drifter-king-online.json](./133358-drifter-king-online.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
@@ -14372,6 +14375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druuna: Morbus Gravis | 23445 | [23445-druuna-morbus-gravis.json](./23445-druuna-morbus-gravis.json) |
 | Dry | 176804 | [176804-dry.json](./176804-dry.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
+| Dry Bones | 345935 | [345935-dry-bones.json](./345935-dry-bones.json) |
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
 | Dry Hazard | 181718 | [181718-dry-hazard.json](./181718-dry-hazard.json) |
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
@@ -14453,6 +14457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Pen Sports | 92382 | [92382-dual-pen-sports.json](./92382-dual-pen-sports.json) |
 | Dual Pong | 134944 | [134944-dual-pong.json](./134944-dual-pong.json) |
 | Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
+| Dual Shadows | 346499 | [346499-dual-shadows.json](./346499-dual-shadows.json) |
 | Dual Snake | 81004 | [81004-dual-snake.json](./81004-dual-snake.json) |
 | Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
 | Dual Spin | 241346 | [241346-dual-spin.json](./241346-dual-spin.json) |
@@ -14597,6 +14602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducklings | 176319 | [176319-ducklings.json](./176319-ducklings.json) |
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
 | Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
+| Duckman | 345943 | [345943-duckman.json](./345943-duckman.json) |
 | Duckman: The Graphic Adventures of a Private Dick | 71418 | [71418-duckman-the-graphic-adventures-of-a-private-dick.json](./71418-duckman-the-graphic-adventures-of-a-private-dick.json) |
 | Duckoleon | 375219 | [375219-duckoleon.json](./375219-duckoleon.json) |
 | Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
