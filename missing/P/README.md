@@ -5174,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Lines DX+α | 116247 | [116247-piczle-lines-dx.json](./116247-piczle-lines-dx.json) |
 | Piczle Lines Jr. | 110026 | [110026-piczle-lines-jr.json](./110026-piczle-lines-jr.json) |
+| Piczle Lines Super Puzzle Turbo Bundle | 385131 | [385131-piczle-lines-super-puzzle-turbo-bundle.json](./385131-piczle-lines-super-puzzle-turbo-bundle.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
 | Pid | 1892 | [1892-pid.json](./1892-pid.json) |
@@ -10234,6 +10235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool | 246502 | [246502-pool.json](./246502-pool.json) |
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
 | Pool | 91205 | [91205-pool.json](./91205-pool.json) |
+| Pool & Snooker Fever: 2 in 1 Bundle | 385168 | [385168-pool-and-snooker-fever-2-in-1-bundle.json](./385168-pool-and-snooker-fever-2-in-1-bundle.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Legendary Edition | 407107 | [407107-pool-and-snooker-fever-2-in-1-bundle-legendary-edition.json](./407107-pool-and-snooker-fever-2-in-1-bundle-legendary-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
@@ -10255,6 +10257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Edge | 4072 | [4072-pool-edge.json](./4072-pool-edge.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
 | Pool Fever Cue to Glory | 378964 | [378964-pool-fever-cue-to-glory.json](./378964-pool-fever-cue-to-glory.json) |
+| Pool Fever Precision Shoot | 385171 | [385171-pool-fever-precision-shoot.json](./385171-pool-fever-precision-shoot.json) |
 | Pool Fever: Deluxe Edition | 330206 | [330206-pool-fever-deluxe-edition.json](./330206-pool-fever-deluxe-edition.json) |
 | Pool Fever: Prime Edition | 332513 | [332513-pool-fever-prime-edition.json](./332513-pool-fever-prime-edition.json) |
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
