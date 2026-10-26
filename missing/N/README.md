@@ -3922,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Pop | 89415 | [89415-nightmare-pop.json](./89415-nightmare-pop.json) |
 | Nightmare Punch-Out!! | 365051 | [365051-nightmare-punch-out.json](./365051-nightmare-punch-out.json) |
 | Nightmare Puppeteer | 138563 | [138563-nightmare-puppeteer.json](./138563-nightmare-puppeteer.json) |
+| Nightmare Puzzles: The Unknown | 351553 | [351553-nightmare-puzzles-the-unknown.json](./351553-nightmare-puzzles-the-unknown.json) |
 | Nightmare Reaper: Multiplayer Update | 369777 | [369777-nightmare-reaper-multiplayer-update.json](./369777-nightmare-reaper-multiplayer-update.json) |
 | Nightmare Retro | 422472 | [422472-nightmare-retro.json](./422472-nightmare-retro.json) |
 | Nightmare Rooms VR | 207753 | [207753-nightmare-rooms-vr.json](./207753-nightmare-rooms-vr.json) |
@@ -4179,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Floors | 301130 | [301130-nine-floors.json](./301130-nine-floors.json) |
 | Nine Hearts | 187773 | [187773-nine-hearts.json](./187773-nine-hearts.json) |
 | Nine Hentai Babes | 368513 | [368513-nine-hentai-babes.json](./368513-nine-hentai-babes.json) |
+| Nine Heroes: Zombie Invasion | 351541 | [351541-nine-heroes-zombie-invasion.json](./351541-nine-heroes-zombie-invasion.json) |
 | Nine Hole Ninja | 298818 | [298818-nine-hole-ninja.json](./298818-nine-hole-ninja.json) |
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
