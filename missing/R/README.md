@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen Shop Simulator | 337287 | [337287-ramen-shop-simulator.json](./337287-ramen-shop-simulator.json) |
 | Ramen Simulator | 339984 | [339984-ramen-simulator.json](./339984-ramen-simulator.json) |
 | Ramen://Protocol | 410658 | [410658-ramen-protocol.json](./410658-ramen-protocol.json) |
+| Ramen! Road to Mastery | 343712 | [343712-ramen-road-to-mastery.json](./343712-ramen-road-to-mastery.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Rami-chan no Ooedo Sugoroku: Keio Yuugeki-tai Gaiden | 66215 | [66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json](./66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json) |
@@ -6440,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinne Tsukihime | 282562 | [282562-rinne-tsukihime.json](./282562-rinne-tsukihime.json) |
 | Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinse and Repeat | 286576 | [286576-rinse-and-repeat.json](./286576-rinse-and-repeat.json) |
+| Rinth | 344029 | [344029-rinth.json](./344029-rinth.json) |
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
 | Rinthine | 394658 | [394658-rinthine.json](./394658-rinthine.json) |
 | Rinthylab Labyrinth | 306047 | [306047-rinthylab-labyrinth.json](./306047-rinthylab-labyrinth.json) |
