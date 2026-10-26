@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Cat RPG: Simple Emoji Cat Idle Game | 297642 | [297642-tap-cat-rpg-simple-emoji-cat-idle-game.json](./297642-tap-cat-rpg-simple-emoji-cat-idle-game.json) |
 | Tap City | 259079 | [259079-tap-city.json](./259079-tap-city.json) |
 | Tap City Tycoon | 256434 | [256434-tap-city-tycoon.json](./256434-tap-city-tycoon.json) |
+| Tap Combo Color Blocks | 356512 | [356512-tap-combo-color-blocks.json](./356512-tap-combo-color-blocks.json) |
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Cube Crush | 107578 | [107578-tap-cube-crush.json](./107578-tap-cube-crush.json) |
@@ -3599,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terapets Wars | 135489 | [135489-terapets-wars.json](./135489-terapets-wars.json) |
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
+| Teraslide | 356537 | [356537-teraslide.json](./356537-teraslide.json) |
 | Teratale: Tide of Wishes | 257908 | [257908-teratale-tide-of-wishes.json](./257908-teratale-tide-of-wishes.json) |
 | Teratini VR | 30610 | [30610-teratini-vr.json](./30610-teratini-vr.json) |
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
@@ -6591,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Crusade | 6950 | [6950-the-cursed-crusade.json](./6950-the-cursed-crusade.json) |
 | The Cursed Deep | 365819 | [365819-the-cursed-deep.json](./365819-the-cursed-deep.json) |
 | The Cursed Forest | 35848 | [35848-the-cursed-forest.json](./35848-the-cursed-forest.json) |
+| The Cursed Frog | 356513 | [356513-the-cursed-frog.json](./356513-the-cursed-frog.json) |
 | The Cursed Garden | 342750 | [342750-the-cursed-garden.json](./342750-the-cursed-garden.json) |
 | The Cursed Heart | 313733 | [313733-the-cursed-heart.json](./313733-the-cursed-heart.json) |
 | The Cursed Heart: Book 2 | 313734 | [313734-the-cursed-heart-book-2.json](./313734-the-cursed-heart-book-2.json) |
@@ -9602,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Quesadilla: Turbo | 225755 | [225755-the-jumping-quesadilla-turbo.json](./225755-the-jumping-quesadilla-turbo.json) |
 | The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
 | The Jumping Salad: Turbo | 230304 | [230304-the-jumping-salad-turbo.json](./230304-the-jumping-salad-turbo.json) |
+| The Jumping Shaped Fries | 356514 | [356514-the-jumping-shaped-fries.json](./356514-the-jumping-shaped-fries.json) |
 | The Jumping Soda | 205078 | [205078-the-jumping-soda.json](./205078-the-jumping-soda.json) |
 | The Jumping Soda: Turbo | 205079 | [205079-the-jumping-soda-turbo.json](./205079-the-jumping-soda-turbo.json) |
 | The Jumping Spaghetti | 347495 | [347495-the-jumping-spaghetti.json](./347495-the-jumping-spaghetti.json) |
@@ -14548,6 +14552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
 | The Sword of Ianna | 221902 | [221902-the-sword-of-ianna.json](./221902-the-sword-of-ianna.json) |
 | The Sword of Rhivenia | 197048 | [197048-the-sword-of-rhivenia.json](./197048-the-sword-of-rhivenia.json) |
+| The Sword of Zedek | 356674 | [356674-the-sword-of-zedek.json](./356674-the-sword-of-zedek.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordbearer | 204329 | [204329-the-swordbearer.json](./204329-the-swordbearer.json) |
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
@@ -15306,6 +15311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Doom: In Name Only | 259749 | [259749-the-ultimate-doom-in-name-only.json](./259749-the-ultimate-doom-in-name-only.json) |
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
+| The Ultimate G | 356515 | [356515-the-ultimate-g.json](./356515-the-ultimate-g.json) |
 | The Ultimate Gamer Challenge | 407833 | [407833-the-ultimate-gamer-challenge.json](./407833-the-ultimate-gamer-challenge.json) |
 | The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
 | The Ultimate Heist | 76928 | [76928-the-ultimate-heist.json](./76928-the-ultimate-heist.json) |
@@ -16607,6 +16613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Gold | 9227 | [9227-thief-gold.json](./9227-thief-gold.json) |
 | Thief II: The Metal Age | 1 | [1-thief-ii-the-metal-age.json](./1-thief-ii-the-metal-age.json) |
 | Thief in Cafe | 272705 | [272705-thief-in-cafe.json](./272705-thief-in-cafe.json) |
+| Thief Life Simulator | 356538 | [356538-thief-life-simulator.json](./356538-thief-life-simulator.json) |
 | Thief Monsters | 302155 | [302155-thief-monsters.json](./302155-thief-monsters.json) |
 | Thief of Hearts | 179697 | [179697-thief-of-hearts.json](./179697-thief-of-hearts.json) |
 | Thief of Smiles | 239745 | [239745-thief-of-smiles.json](./239745-thief-of-smiles.json) |
@@ -19780,6 +19787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
 | Tiny Tina's Wonderlands: Season Pass | 293727 | [293727-tiny-tinas-wonderlands-season-pass.json](./293727-tiny-tinas-wonderlands-season-pass.json) |
 | Tiny Tires | 294509 | [294509-tiny-tires.json](./294509-tiny-tires.json) |
+| Tiny Titans: Card Rumble | 356539 | [356539-tiny-titans-card-rumble.json](./356539-tiny-titans-card-rumble.json) |
 | Tiny Token Empires | 21002 | [21002-tiny-token-empires.json](./21002-tiny-token-empires.json) |
 | Tiny Toon Adventures | 198943 | [198943-tiny-toon-adventures.json](./198943-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Trouble in Wackyland | 8047 | [8047-tiny-toon-adventures-2-trouble-in-wackyland.json](./8047-tiny-toon-adventures-2-trouble-in-wackyland.json) |
@@ -26442,6 +26450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 2024: USA Driver Zone | 283220 | [283220-truck-simulator-2024-usa-driver-zone.json](./283220-truck-simulator-2024-usa-driver-zone.json) |
 | Truck Simulator 2024: USA Driver Zone - Premium Edition | 313229 | [313229-truck-simulator-2024-usa-driver-zone-premium-edition.json](./313229-truck-simulator-2024-usa-driver-zone-premium-edition.json) |
+| Truck Simulator 2025: City Work Delivery | 356516 | [356516-truck-simulator-2025-city-work-delivery.json](./356516-truck-simulator-2025-city-work-delivery.json) |
 | Truck Simulator 25 VR: American Driver | 353964 | [353964-truck-simulator-25-vr-american-driver.json](./353964-truck-simulator-25-vr-american-driver.json) |
 | Truck Simulator 25: Euro Driver | 344245 | [344245-truck-simulator-25-euro-driver.json](./344245-truck-simulator-25-euro-driver.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
