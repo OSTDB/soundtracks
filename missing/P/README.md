@@ -6482,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
 | Pitchfork Kingdom | 201581 | [201581-pitchfork-kingdom.json](./201581-pitchfork-kingdom.json) |
+| Pitchforks and Daggers | 380492 | [380492-pitchforks-and-daggers.json](./380492-pitchforks-and-daggers.json) |
 | Pitchside Empire | 414613 | [414613-pitchside-empire.json](./414613-pitchside-empire.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
 | Pitfall | 139891 | [139891-pitfall.json](./139891-pitfall.json) |
@@ -9295,6 +9296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Rescue Team DX | 128069 | [128069-pokemon-mystery-dungeon-rescue-team-dx.json](./128069-pokemon-mystery-dungeon-rescue-team-dx.json) |
 | Pokémon Mystery Dungeon: Special Episode 0 - In A Dark Past | 298965 | [298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json](./298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json) |
 | Pokémon Mystery Dungeon: Turnabout Dimension | 210550 | [210550-pokemon-mystery-dungeon-turnabout-dimension.json](./210550-pokemon-mystery-dungeon-turnabout-dimension.json) |
+| Pokémon Mystery Dungeon: Wigglytuff's Bizarre Adventure | 380501 | [380501-pokemon-mystery-dungeon-wigglytuffs-bizarre-adventure.json](./380501-pokemon-mystery-dungeon-wigglytuffs-bizarre-adventure.json) |
 | Pokémon Myth | 266156 | [266156-pokemon-myth.json](./266156-pokemon-myth.json) |
 | Pokémon Myth 2 | 415745 | [415745-pokemon-myth-2.json](./415745-pokemon-myth-2.json) |
 | Pokémon Mythic Silver | 337425 | [337425-pokemon-mythic-silver.json](./337425-pokemon-mythic-silver.json) |
@@ -10064,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygonia | 194191 | [194191-polygonia.json](./194191-polygonia.json) |
 | Polygonle | 214410 | [214410-polygonle.json](./214410-polygonle.json) |
 | Polygons Tower Defense | 266435 | [266435-polygons-tower-defense.json](./266435-polygons-tower-defense.json) |
+| Polygun Arena: Online Shooter | 380502 | [380502-polygun-arena-online-shooter.json](./380502-polygun-arena-online-shooter.json) |
 | Polygunners | 187172 | [187172-polygunners.json](./187172-polygunners.json) |
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
