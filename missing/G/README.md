@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
 | Gacha Club | 142408 | [142408-gacha-club.json](./142408-gacha-club.json) |
 | Gacha Fever | 276658 | [276658-gacha-fever.json](./276658-gacha-fever.json) |
+| Gacha Idle | 347579 | [347579-gacha-idle.json](./347579-gacha-idle.json) |
 | Gacha Life | 125828 | [125828-gacha-life.json](./125828-gacha-life.json) |
 | Gacha Life 2 | 307274 | [307274-gacha-life-2.json](./307274-gacha-life-2.json) |
 | Gacha Memories | 102680 | [102680-gacha-memories.json](./102680-gacha-memories.json) |
@@ -1940,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet Arcade Version | 45533 | [45533-gauntlet-arcade-version.json](./45533-gauntlet-arcade-version.json) |
 | Gauntlet Dark Legacy | 3927 | [3927-gauntlet-dark-legacy.json](./3927-gauntlet-dark-legacy.json) |
 | Gauntlet Dark Legacy | 85795 | [85795-gauntlet-dark-legacy.json](./85795-gauntlet-dark-legacy.json) |
+| Gauntlet Force: Rise of the Machines | 347589 | [347589-gauntlet-force-rise-of-the-machines.json](./347589-gauntlet-force-rise-of-the-machines.json) |
 | Gauntlet II | 307077 | [307077-gauntlet-ii.json](./307077-gauntlet-ii.json) |
 | Gauntlet II | 3503 | [3503-gauntlet-ii.json](./3503-gauntlet-ii.json) |
 | Gauntlet III: The Final Quest | 7296 | [7296-gauntlet-iii-the-final-quest.json](./7296-gauntlet-iii-the-final-quest.json) |
