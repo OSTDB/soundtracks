@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race 07: STCC - The Game 1 | 164387 | [164387-race-07-stcc-the-game-1.json](./164387-race-07-stcc-the-game-1.json) |
 | Race 07: STCC - The Game 2 | 164386 | [164386-race-07-stcc-the-game-2.json](./164386-race-07-stcc-the-game-2.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
+| Race Against a Duck | 343189 | [343189-race-against-a-duck.json](./343189-race-against-a-duck.json) |
 | Race Arcade | 105127 | [105127-race-arcade.json](./105127-race-arcade.json) |
 | Race Attorney | 349748 | [349748-race-attorney.json](./349748-race-attorney.json) |
 | Race Car | 347004 | [347004-race-car.json](./347004-race-car.json) |
@@ -6856,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual | 123401 | [123401-ritual.json](./123401-ritual.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Ritual | 327677 | [327677-ritual.json](./327677-ritual.json) |
+| Ritual | 343168 | [343168-ritual.json](./343168-ritual.json) |
 | Ritual Night | 189853 | [189853-ritual-night.json](./189853-ritual-night.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
 | Ritual of the Moon | 113185 | [113185-ritual-of-the-moon.json](./113185-ritual-of-the-moon.json) |
@@ -7689,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots | 248489 | [248489-robots.json](./248489-robots.json) |
 | Robots | 248490 | [248490-robots.json](./248490-robots.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
+| Robots and Murder | 343191 | [343191-robots-and-murder.json](./343191-robots-and-murder.json) |
 | Robots and Planets | 347361 | [347361-robots-and-planets.json](./347361-robots-and-planets.json) |
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
 | Robots Attack on Vapeland | 95282 | [95282-robots-attack-on-vapeland.json](./95282-robots-attack-on-vapeland.json) |
