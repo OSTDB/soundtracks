@@ -2875,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welkin Road | 18684 | [18684-welkin-road.json](./18684-welkin-road.json) |
 | Well Dweller | 360075 | [360075-well-dweller.json](./360075-well-dweller.json) |
 | Well Keeper | 368649 | [368649-well-keeper.json](./368649-well-keeper.json) |
+| Well of Darkness | 346490 | [346490-well-of-darkness.json](./346490-well-of-darkness.json) |
 | Well of Lost Souls | 271788 | [271788-well-of-lost-souls.json](./271788-well-of-lost-souls.json) |
 | Well of Souls | 67091 | [67091-well-of-souls.json](./67091-well-of-souls.json) |
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
@@ -3762,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskey-Four | 338373 | [338373-whiskey-four.json](./338373-whiskey-four.json) |
 | Whismie | 394472 | [394472-whismie.json](./394472-whismie.json) |
 | Whisper | 132706 | [132706-whisper.json](./132706-whisper.json) |
+| Whisper | 345953 | [345953-whisper.json](./345953-whisper.json) |
 | Whisper Books | 201500 | [201500-whisper-books.json](./201500-whisper-books.json) |
 | Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
 | Whisper in the Dark | 177349 | [177349-whisper-in-the-dark.json](./177349-whisper-in-the-dark.json) |
