@@ -4431,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
 | Air Hockey | 311362 | [311362-air-hockey.json](./311362-air-hockey.json) |
+| Air Hockey | 359301 | [359301-air-hockey.json](./359301-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey | 88618 | [88618-air-hockey.json](./88618-air-hockey.json) |
 | Air Hockey | 89804 | [89804-air-hockey.json](./89804-air-hockey.json) |
