@@ -4024,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who I Am | 386415 | [386415-who-i-am.json](./386415-who-i-am.json) |
 | Who I See | 236810 | [236810-who-i-see.json](./236810-who-i-see.json) |
 | Who is Awesome | 128355 | [128355-who-is-awesome.json](./128355-who-is-awesome.json) |
+| Who Is Ethan? | 337013 | [337013-who-is-ethan.json](./337013-who-is-ethan.json) |
 | Who is God | 305857 | [305857-who-is-god.json](./305857-who-is-god.json) |
 | Who Is It? | 261512 | [261512-who-is-it.json](./261512-who-is-it.json) |
 | Who is Johnny Sixgun? | 379168 | [379168-who-is-johnny-sixgun.json](./379168-who-is-johnny-sixgun.json) |
@@ -5752,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
 | Wizards & Warriors X: Fortress of Fear | 48922 | [48922-wizards-and-warriors-x-fortress-of-fear.json](./48922-wizards-and-warriors-x-fortress-of-fear.json) |
 | Wizards 2: Better Dead Than Red | 105813 | [105813-wizards-2-better-dead-than-red.json](./105813-wizards-2-better-dead-than-red.json) |
+| Wizards and Knights | 337314 | [337314-wizards-and-knights.json](./337314-wizards-and-knights.json) |
 | Wizards and Wagons | 105705 | [105705-wizards-and-wagons.json](./105705-wizards-and-wagons.json) |
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
 | Wizards and Warp Drives | 63538 | [63538-wizards-and-warp-drives.json](./63538-wizards-and-warp-drives.json) |
