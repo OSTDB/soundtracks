@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Late Shift | 27717 | [27717-late-shift.json](./27717-late-shift.json) |
 | Late Shift | 347060 | [347060-late-shift.json](./347060-late-shift.json) |
+| Late Shift: Midnight Burger | 346534 | [346534-late-shift-midnight-burger.json](./346534-late-shift-midnight-burger.json) |
 | Late Stage | 269227 | [269227-late-stage.json](./269227-late-stage.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Stage Inferno | 149871 | [149871-late-stage-inferno.json](./149871-late-stage-inferno.json) |
@@ -4733,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquidum: Secrets of the Deep | 310387 | [310387-liquidum-secrets-of-the-deep.json](./310387-liquidum-secrets-of-the-deep.json) |
 | Liquidum: Small & Tricky | 298051 | [298051-liquidum-small-and-tricky.json](./298051-liquidum-small-and-tricky.json) |
 | Liquor and Wine Shop Simulator: Store Simulator | 326398 | [326398-liquor-and-wine-shop-simulator-store-simulator.json](./326398-liquor-and-wine-shop-simulator-store-simulator.json) |
+| Liquor Love Lady | 345807 | [345807-liquor-love-lady.json](./345807-liquor-love-lady.json) |
 | Liquor Store Simulator | 326399 | [326399-liquor-store-simulator.json](./326399-liquor-store-simulator.json) |
 | Lirai: Heir Of Darkness | 383597 | [383597-lirai-heir-of-darkness.json](./383597-lirai-heir-of-darkness.json) |
 | LIRE | 145018 | [145018-lire.json](./145018-lire.json) |
@@ -4965,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Heroine Playset | 185596 | [185596-little-heroine-playset.json](./185596-little-heroine-playset.json) |
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
 | Little Hidden City | 87766 | [87766-little-hidden-city.json](./87766-little-hidden-city.json) |
+| Little Hoarder | 346521 | [346521-little-hoarder.json](./346521-little-hoarder.json) |
 | Little Honeybee | 288359 | [288359-little-honeybee.json](./288359-little-honeybee.json) |
 | Little Horror Raiser | 216185 | [216185-little-horror-raiser.json](./216185-little-horror-raiser.json) |
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
