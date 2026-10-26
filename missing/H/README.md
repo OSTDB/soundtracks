@@ -4656,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbtales | 207279 | [207279-herbtales.json](./207279-herbtales.json) |
 | Herc's Adventures | 318269 | [318269-hercs-adventures.json](./318269-hercs-adventures.json) |
 | Hercequary | 56922 | [56922-hercequary.json](./56922-hercequary.json) |
+| Hercules | 382856 | [382856-hercules.json](./382856-hercules.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules Prophet 2 MX | 24160 | [24160-hercules-prophet-2-mx.json](./24160-hercules-prophet-2-mx.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes against Demons | 139981 | [139981-heroes-against-demons.json](./139981-heroes-against-demons.json) |
 | Heroes Against Time | 342012 | [342012-heroes-against-time.json](./342012-heroes-against-time.json) |
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
+| Heroes and Monsters II | 382848 | [382848-heroes-and-monsters-ii.json](./382848-heroes-and-monsters-ii.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
 | Heroes and Titans: Online | 286432 | [286432-heroes-and-titans-online.json](./286432-heroes-and-titans-online.json) |
 | Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
