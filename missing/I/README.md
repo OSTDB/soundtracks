@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubation: Time Is Running Out | 9033 | [9033-incubation-time-is-running-out.json](./9033-incubation-time-is-running-out.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
+| Incubus Heart: Demon Love Redemption | 386192 | [386192-incubus-heart-demon-love-redemption.json](./386192-incubus-heart-demon-love-redemption.json) |
 | Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
 | Incursion | 373819 | [373819-incursion.json](./373819-incursion.json) |
 | Incursion | 80792 | [80792-incursion.json](./80792-incursion.json) |
