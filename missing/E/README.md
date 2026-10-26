@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earn to Die 2 | 26524 | [26524-earn-to-die-2.json](./26524-earn-to-die-2.json) |
 | Earn to Die 2: Exodus | 101914 | [101914-earn-to-die-2-exodus.json](./101914-earn-to-die-2-exodus.json) |
 | Earn to Die 2012 | 378003 | [378003-earn-to-die-2012.json](./378003-earn-to-die-2012.json) |
+| Earn To Die 3 | 345928 | [345928-earn-to-die-3.json](./345928-earn-to-die-3.json) |
 | Earn Your Legacy | 404078 | [404078-earn-your-legacy.json](./404078-earn-your-legacy.json) |
 | Earnest Evans Collection | 375602 | [375602-earnest-evans-collection.json](./375602-earnest-evans-collection.json) |
 | Ears and Burgers | 174295 | [174295-ears-and-burgers.json](./174295-ears-and-burgers.json) |
@@ -1103,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
 | Edge Runner | 87239 | [87239-edge-runner.json](./87239-edge-runner.json) |
 | Edge: Mech-Ascent | 230303 | [230303-edge-mech-ascent.json](./230303-edge-mech-ascent.json) |
+| Edgefield | 346489 | [346489-edgefield.json](./346489-edgefield.json) |
 | Edgeless | 291146 | [291146-edgeless.json](./291146-edgeless.json) |
 | EdgeRunner | 244316 | [244316-edgerunner.json](./244316-edgerunner.json) |
 | Edges 2 | 53095 | [53095-edges-2.json](./53095-edges-2.json) |
@@ -5732,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace: Encounters | 74892 | [74892-everspace-encounters.json](./74892-everspace-encounters.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Everspace: Ultimate Edition | 361101 | [361101-everspace-ultimate-edition.json](./361101-everspace-ultimate-edition.json) |
+| Everstead: Origins | 346498 | [346498-everstead-origins.json](./346498-everstead-origins.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Everstorm | 283100 | [283100-everstorm.json](./283100-everstorm.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
