@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ham Hole | 403358 | [403358-ham-hole.json](./403358-ham-hole.json) |
 | Ham Tank! | 420576 | [420576-ham-tank.json](./420576-ham-tank.json) |
 | Ham-Master | 125081 | [125081-ham-master.json](./125081-ham-master.json) |
+| Ham-Spin | 385634 | [385634-ham-spin.json](./385634-ham-spin.json) |
 | Ham's Kitchen | 323822 | [323822-hams-kitchen.json](./323822-hams-kitchen.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Link | 340438 | [340438-hentai-link.json](./340438-hentai-link.json) |
 | Hentai Literature Club | 262221 | [262221-hentai-literature-club.json](./262221-hentai-literature-club.json) |
 | Hentai Love | 365444 | [365444-hentai-love.json](./365444-hentai-love.json) |
+| Hentai Love | 385630 | [385630-hentai-love.json](./385630-hentai-love.json) |
 | Hentai Lover's Train | 365445 | [365445-hentai-lovers-train.json](./365445-hentai-lovers-train.json) |
 | Hentai Lucia | 339914 | [339914-hentai-lucia.json](./339914-hentai-lucia.json) |
 | Hentai Luna | 301677 | [301677-hentai-luna.json](./301677-hentai-luna.json) |
@@ -4465,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Another Fairy Tales | 301670 | [301670-hentai-tales-another-fairy-tales.json](./301670-hentai-tales-another-fairy-tales.json) |
 | Hentai Tales: Breeding Order 2050 | 389605 | [389605-hentai-tales-breeding-order-2050.json](./389605-hentai-tales-breeding-order-2050.json) |
 | Hentai Tales: Bunny Hole | 340453 | [340453-hentai-tales-bunny-hole.json](./340453-hentai-tales-bunny-hole.json) |
+| Hentai Tales: Busty Miko’s Secret Bond | 385618 | [385618-hentai-tales-busty-miko-s-secret-bond.json](./385618-hentai-tales-busty-miko-s-secret-bond.json) |
 | Hentai Tales: C-D Girls | 371382 | [371382-hentai-tales-c-d-girls.json](./371382-hentai-tales-c-d-girls.json) |
 | Hentai Tales: Cheating Family | 371381 | [371381-hentai-tales-cheating-family.json](./371381-hentai-tales-cheating-family.json) |
 | Hentai Tales: Conception Shrine | 294964 | [294964-hentai-tales-conception-shrine.json](./294964-hentai-tales-conception-shrine.json) |
@@ -4511,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai War | 366526 | [366526-hentai-war.json](./366526-hentai-war.json) |
 | Hentai Warfare | 366527 | [366527-hentai-warfare.json](./366527-hentai-warfare.json) |
+| Hentai Weekend | 385621 | [385621-hentai-weekend.json](./385621-hentai-weekend.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai Woman | 111585 | [111585-hentai-woman.json](./111585-hentai-woman.json) |
 | Hentai Words | 104151 | [104151-hentai-words.json](./104151-hentai-words.json) |
@@ -7721,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestuck: Strife Project | 392326 | [392326-homestuck-strife-project.json](./392326-homestuck-strife-project.json) |
 | Hometown Farm | 208191 | [208191-hometown-farm.json](./208191-hometown-farm.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
+| Hometown Store | 385637 | [385637-hometown-store.json](./385637-hometown-store.json) |
 | Hometown Story | 6808 | [6808-hometown-story.json](./6808-hometown-story.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homeward | 237273 | [237273-homeward.json](./237273-homeward.json) |
