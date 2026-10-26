@@ -5123,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltamount | 384652 | [384652-deltamount.json](./384652-deltamount.json) |
 | Deltaplan Simulator | 51553 | [51553-deltaplan-simulator.json](./51553-deltaplan-simulator.json) |
 | Deltaruined | 329665 | [329665-deltaruined.json](./329665-deltaruined.json) |
+| Deltarules | 351556 | [351556-deltarules.json](./351556-deltarules.json) |
 | Deltarune - Spamton Restitched | 312636 | [312636-deltarune-spamton-restitched.json](./312636-deltarune-spamton-restitched.json) |
 | Deltarune 97 | 277964 | [277964-deltarune-97.json](./277964-deltarune-97.json) |
 | Deltarune Explorers Of Sky: Battle Against Primal Dialga | 379189 | [379189-deltarune-explorers-of-sky-battle-against-primal-dialga.json](./379189-deltarune-explorers-of-sky-battle-against-primal-dialga.json) |
@@ -12005,6 +12006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DraftPunk | 388916 | [388916-draftpunk.json](./388916-draftpunk.json) |
 | Draftula | 364615 | [364615-draftula.json](./364615-draftula.json) |
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
+| Draftycar 2 | 351666 | [351666-draftycar-2.json](./351666-draftycar-2.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
 | Drag Battle | 249688 | [249688-drag-battle.json](./249688-drag-battle.json) |
 | Drag Battle Top Fuel | 192870 | [192870-drag-battle-top-fuel.json](./192870-drag-battle-top-fuel.json) |
