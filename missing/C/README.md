@@ -15105,6 +15105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown's Trial | 402270 | [402270-crowns-trial.json](./402270-crowns-trial.json) |
 | Crownbane | 411701 | [411701-crownbane.json](./411701-crownbane.json) |
 | Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
+| Crownbound: Fantasy Kingdom Sim | 341978 | [341978-crownbound-fantasy-kingdom-sim.json](./341978-crownbound-fantasy-kingdom-sim.json) |
 | Crownbreak | 404894 | [404894-crownbreak.json](./404894-crownbreak.json) |
 | Crownbreakers | 348230 | [348230-crownbreakers.json](./348230-crownbreakers.json) |
 | Crowncity | 284992 | [284992-crowncity.json](./284992-crowncity.json) |
