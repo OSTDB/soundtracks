@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Grid | 169852 | [169852-hack-grid.json](./169852-hack-grid.json) |
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack n Slash | 8438 | [8438-hack-n-slash.json](./8438-hack-n-slash.json) |
+| Hack n Slash Prototype | 352243 | [352243-hack-n-slash-prototype.json](./352243-hack-n-slash-prototype.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
 | Hack Run Zero | 34898 | [34898-hack-run-zero.json](./34898-hack-run-zero.json) |
 | Hack Slash Crawl | 387926 | [387926-hack-slash-crawl.json](./387926-hack-slash-crawl.json) |
@@ -1652,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
 | Harder Mario Bros. Meltdown | 335627 | [335627-harder-mario-bros-meltdown.json](./335627-harder-mario-bros-meltdown.json) |
 | Harder Parkour | 380117 | [380117-harder-parkour.json](./380117-harder-parkour.json) |
+| Hardest | 351531 | [351531-hardest.json](./351531-hardest.json) |
 | Hardest Game About Jumping | 346390 | [346390-hardest-game-about-jumping.json](./346390-hardest-game-about-jumping.json) |
 | Hardest Game Ever 2 | 199921 | [199921-hardest-game-ever-2.json](./199921-hardest-game-ever-2.json) |
 | Hardest Harvest | 139681 | [139681-hardest-harvest.json](./139681-hardest-harvest.json) |
