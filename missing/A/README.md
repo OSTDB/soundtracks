@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy Quest | 193248 | [193248-academy-quest.json](./193248-academy-quest.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Academy Z: Beginning of the catastrophe | 179935 | [179935-academy-z-beginning-of-the-catastrophe.json](./179935-academy-z-beginning-of-the-catastrophe.json) |
+| Academy: Become a Hero | 348176 | [348176-academy-become-a-hero.json](./348176-academy-become-a-hero.json) |
 | Academy: Checkers | 84734 | [84734-academy-checkers.json](./84734-academy-checkers.json) |
 | Academy: Chess Puzzles | 84733 | [84733-academy-chess-puzzles.json](./84733-academy-chess-puzzles.json) |
 | Acai cOrner | 297558 | [297558-acai-corner.json](./297558-acai-corner.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -13515,6 +13517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astrophobia | 421183 | [421183-astrophobia.json](./421183-astrophobia.json) |
+| Astroplanet | 348178 | [348178-astroplanet.json](./348178-astroplanet.json) |
 | Astroplatformer | 121260 | [121260-astroplatformer.json](./121260-astroplatformer.json) |
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
