@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart-Pounding Office Puzzle with My Boss | 418326 | [418326-heart-pounding-office-puzzle-with-my-boss.json](./418326-heart-pounding-office-puzzle-with-my-boss.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
+| Heart: Future Whispers | 333878 | [333878-heart-future-whispers.json](./333878-heart-future-whispers.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Heart.Marrow.Blood. | 377557 | [377557-heart-marrow-blood.json](./377557-heart-marrow-blood.json) |
 | Heart's Blight | 178918 | [178918-hearts-blight.json](./178918-hearts-blight.json) |
@@ -5737,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats vs Zombies | 380610 | [380610-hidden-cats-vs-zombies.json](./380610-hidden-cats-vs-zombies.json) |
 | Hidden Cats vs. Zombies 3 | 380609 | [380609-hidden-cats-vs-zombies-3.json](./380609-hidden-cats-vs-zombies-3.json) |
 | Hidden Cats: Castle | 412261 | [412261-hidden-cats-castle.json](./412261-hidden-cats-castle.json) |
+| Hidden Cats: Japan | 334038 | [334038-hidden-cats-japan.json](./334038-hidden-cats-japan.json) |
 | Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
 | Hidden Cats: Rome | 350572 | [350572-hidden-cats-rome.json](./350572-hidden-cats-rome.json) |
 | Hidden Cats: Zombie Hunter | 365284 | [365284-hidden-cats-zombie-hunter.json](./365284-hidden-cats-zombie-hunter.json) |
@@ -6110,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Sheep Puzzle | 395839 | [395839-hidden-sheep-puzzle.json](./395839-hidden-sheep-puzzle.json) |
 | Hidden Shelter | 139342 | [139342-hidden-shelter.json](./139342-hidden-shelter.json) |
 | Hidden Shy Cats & Dogs Bundle | 325011 | [325011-hidden-shy-cats-and-dogs-bundle.json](./325011-hidden-shy-cats-and-dogs-bundle.json) |
+| Hidden Skulls | 334029 | [334029-hidden-skulls.json](./334029-hidden-skulls.json) |
 | Hidden Space Station Top-Down 3D | 340473 | [340473-hidden-space-station-top-down-3d.json](./340473-hidden-space-station-top-down-3d.json) |
 | Hidden Space Top-Down 3D | 269007 | [269007-hidden-space-top-down-3d.json](./269007-hidden-space-top-down-3d.json) |
 | Hidden Square | 311132 | [311132-hidden-square.json](./311132-hidden-square.json) |
