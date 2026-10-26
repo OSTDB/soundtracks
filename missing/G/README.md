@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GINAB: Logic and Puzzle Collection in a 3D Style | 83863 | [83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json](./83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json) |
 | Gincana | 286059 | [286059-gincana.json](./286059-gincana.json) |
 | Gindama Oyakata no Jissen Pachinko Hisshouhou | 65199 | [65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json](./65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json) |
+| Ginga Cantina | 362788 | [362788-ginga-cantina.json](./362788-ginga-cantina.json) |
 | Ginga Denshou: Galaxy Odyssey | 41301 | [41301-ginga-denshou-galaxy-odyssey.json](./41301-ginga-denshou-galaxy-odyssey.json) |
 | Ginga Eiyuu Densetsu | 48502 | [48502-ginga-eiyuu-densetsu.json](./48502-ginga-eiyuu-densetsu.json) |
 | Ginga Eiyuu Densetsu | 71896 | [71896-ginga-eiyuu-densetsu.json](./71896-ginga-eiyuu-densetsu.json) |
@@ -4009,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
 | Glass Masquerade 3: Honeylines - Folks & Spirits | 307201 | [307201-glass-masquerade-3-honeylines-folks-and-spirits.json](./307201-glass-masquerade-3-honeylines-folks-and-spirits.json) |
 | Glass Masquerade 3: Honeylines - Wings & Tunes | 274640 | [274640-glass-masquerade-3-honeylines-wings-and-tunes.json](./274640-glass-masquerade-3-honeylines-wings-and-tunes.json) |
+| Glass Masquerade 4: Constellations | 362786 | [362786-glass-masquerade-4-constellations.json](./362786-glass-masquerade-4-constellations.json) |
 | Glass Masquerade 4: Constellations - Celestials | 403633 | [403633-glass-masquerade-4-constellations-celestials.json](./403633-glass-masquerade-4-constellations-celestials.json) |
 | Glass Masquerade: Halloween Puzzle Pack | 155413 | [155413-glass-masquerade-halloween-puzzle-pack.json](./155413-glass-masquerade-halloween-puzzle-pack.json) |
 | Glass Road | 58662 | [58662-glass-road.json](./58662-glass-road.json) |
@@ -5416,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
 | Golden Tee Mobile | 144039 | [144039-golden-tee-mobile.json](./144039-golden-tee-mobile.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
+| Golden Threads | 362862 | [362862-golden-threads.json](./362862-golden-threads.json) |
 | Golden Ticket Simulator | 312439 | [312439-golden-ticket-simulator.json](./312439-golden-ticket-simulator.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
