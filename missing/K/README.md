@@ -3168,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby no Omochabako: Pinball | 134452 | [134452-kirby-no-omochabako-pinball.json](./134452-kirby-no-omochabako-pinball.json) |
 | Kirby Original Adventure Classic | 95893 | [95893-kirby-original-adventure-classic.json](./95893-kirby-original-adventure-classic.json) |
 | Kirby Puzzle | 84259 | [84259-kirby-puzzle.json](./84259-kirby-puzzle.json) |
+| Kirby Shuffle Puzzle | 381560 | [381560-kirby-shuffle-puzzle.json](./381560-kirby-shuffle-puzzle.json) |
 | Kirby Speed Eaters | 229620 | [229620-kirby-speed-eaters.json](./229620-kirby-speed-eaters.json) |
 | Kirby Star Allies | 37137 | [37137-kirby-star-allies.json](./37137-kirby-star-allies.json) |
 | Kirby Street | 330879 | [330879-kirby-street.json](./330879-kirby-street.json) |
@@ -4339,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konaste Gitadora | 154842 | [154842-konaste-gitadora.json](./154842-konaste-gitadora.json) |
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
 | Konbini Life | 178879 | [178879-konbini-life.json](./178879-konbini-life.json) |
+| Konbini's World | 381591 | [381591-konbinis-world.json](./381591-konbinis-world.json) |
 | Konchi | 340889 | [340889-konchi.json](./340889-konchi.json) |
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
 | Konchuu Hakase | 228602 | [228602-konchuu-hakase.json](./228602-konchuu-hakase.json) |
