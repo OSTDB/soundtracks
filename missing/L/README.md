@@ -3043,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let’s Build a Zoo: Aquarium Odyssey | 245302 | [245302-let-s-build-a-zoo-aquarium-odyssey.json](./245302-let-s-build-a-zoo-aquarium-odyssey.json) |
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
+| Let's Build Wonders: Galaxy — Star Trade Chamber Pass | 337532 | [337532-lets-build-wonders-galaxy-star-trade-chamber-pass.json](./337532-lets-build-wonders-galaxy-star-trade-chamber-pass.json) |
 | Let's Bully Nash | 249320 | [249320-lets-bully-nash.json](./249320-lets-bully-nash.json) |
 | Let's Catapult | 274912 | [274912-lets-catapult.json](./274912-lets-catapult.json) |
 | Let's Catch | 21352 | [21352-lets-catch.json](./21352-lets-catch.json) |
