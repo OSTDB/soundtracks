@@ -4596,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abyss Below | 408981 | [408981-the-abyss-below.json](./408981-the-abyss-below.json) |
 | The Abyss Book | 379097 | [379097-the-abyss-book.json](./379097-the-abyss-book.json) |
 | The Abyss Break | 379098 | [379098-the-abyss-break.json](./379098-the-abyss-break.json) |
+| The Abyss Desire | 342525 | [342525-the-abyss-desire.json](./342525-the-abyss-desire.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyss Within | 250773 | [250773-the-abyss-within.json](./250773-the-abyss-within.json) |
 | The Abyss: Incident at Europa | 74076 | [74076-the-abyss-incident-at-europa.json](./74076-the-abyss-incident-at-europa.json) |
@@ -8867,6 +8868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted House of Doom | 161693 | [161693-the-haunted-house-of-doom.json](./161693-the-haunted-house-of-doom.json) |
 | the Haunted House VR Ep.1 Movie "missing" | 127104 | [127104-the-haunted-house-vr-ep-1-movie-missing.json](./127104-the-haunted-house-vr-ep-1-movie-missing.json) |
 | The Haunted House: Dark Island | 392259 | [392259-the-haunted-house-dark-island.json](./392259-the-haunted-house-dark-island.json) |
+| The Haunted Nora Apartment | 342540 | [342540-the-haunted-nora-apartment.json](./342540-the-haunted-nora-apartment.json) |
 | The Haunted Song | 229056 | [229056-the-haunted-song.json](./229056-the-haunted-song.json) |
 | The Haunted Spot 2 | 411080 | [411080-the-haunted-spot-2.json](./411080-the-haunted-spot-2.json) |
 | The Haunted Tunnel | 156063 | [156063-the-haunted-tunnel.json](./156063-the-haunted-tunnel.json) |
@@ -11513,6 +11515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze Runner | 138159 | [138159-the-maze-runner.json](./138159-the-maze-runner.json) |
 | The Maze VR | 130289 | [130289-the-maze-vr.json](./130289-the-maze-vr.json) |
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
+| The Maze X: The First Chapter | 342539 | [342539-the-maze-x-the-first-chapter.json](./342539-the-maze-x-the-first-chapter.json) |
 | The Maze: L'ultimo soldato | 381333 | [381333-the-maze-lultimo-soldato.json](./381333-the-maze-lultimo-soldato.json) |
 | The McCarthy Chronicles: Episode 1 | 171983 | [171983-the-mccarthy-chronicles-episode-1.json](./171983-the-mccarthy-chronicles-episode-1.json) |
 | The Mean Checkers Machine 2 | 70841 | [70841-the-mean-checkers-machine-2.json](./70841-the-mean-checkers-machine-2.json) |
@@ -17274,6 +17277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Manor | 406320 | [406320-through-the-manor.json](./406320-through-the-manor.json) |
 | Through the Mirror | 30731 | [30731-through-the-mirror.json](./30731-through-the-mirror.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
+| Through the Murky Water | 342557 | [342557-through-the-murky-water.json](./342557-through-the-murky-water.json) |
 | Through the Nest | 374131 | [374131-through-the-nest.json](./374131-through-the-nest.json) |
 | Through the Panels | 180528 | [180528-through-the-panels.json](./180528-through-the-panels.json) |
 | Through the Thorns and Curses | 288616 | [288616-through-the-thorns-and-curses.json](./288616-through-the-thorns-and-curses.json) |
