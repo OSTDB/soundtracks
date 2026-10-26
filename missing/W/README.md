@@ -4303,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Cats of Wasteland | 117131 | [117131-wild-cats-of-wasteland.json](./117131-wild-cats-of-wasteland.json) |
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
 | Wild Child | 180443 | [180443-wild-child.json](./180443-wild-child.json) |
+| Wild Chorus | 368994 | [368994-wild-chorus.json](./368994-wild-chorus.json) |
 | Wild City | 253481 | [253481-wild-city.json](./253481-wild-city.json) |
 | Wild City | 350594 | [350594-wild-city.json](./350594-wild-city.json) |
 | Wild Cosmos | 381862 | [381862-wild-cosmos.json](./381862-wild-cosmos.json) |
