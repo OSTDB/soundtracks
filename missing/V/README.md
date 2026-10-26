@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Vila do Nevoeiro R.E.L.I.D.O | 261300 | [261300-vila-do-nevoeiro-r-e-l-i-d-o.json](./261300-vila-do-nevoeiro-r-e-l-i-d-o.json) |
 | Vila Mágica | 262211 | [262211-vila-magica.json](./262211-vila-magica.json) |
+| Viladia | 386165 | [386165-viladia.json](./386165-viladia.json) |
 | Vilde | 253827 | [253827-vilde.json](./253827-vilde.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile | 409723 | [409723-vile.json](./409723-vile.json) |
