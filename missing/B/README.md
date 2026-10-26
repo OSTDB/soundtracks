@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananaman: Food Fighter | 312817 | [312817-bananaman-food-fighter.json](./312817-bananaman-food-fighter.json) |
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
 | Bananametr | 304691 | [304691-bananametr.json](./304691-bananametr.json) |
+| Bananarama | 351547 | [351547-bananarama.json](./351547-bananarama.json) |
 | Bananarang: The Scattered Shards | 264016 | [264016-bananarang-the-scattered-shards.json](./264016-bananarang-the-scattered-shards.json) |
 | Bananarchy | 340576 | [340576-bananarchy.json](./340576-bananarchy.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
@@ -8515,6 +8516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
 | Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
 | Bless You Again | 334133 | [334133-bless-you-again.json](./334133-bless-you-again.json) |
+| Bless You, Rip | 351515 | [351515-bless-you-rip.json](./351515-bless-you-rip.json) |
 | Bless: Close Your Eyes,Open Your Mind. | 394441 | [394441-bless-close-your-eyes-open-your-mind.json](./394441-bless-close-your-eyes-open-your-mind.json) |
 | Blessed Agony | 299849 | [299849-blessed-agony.json](./299849-blessed-agony.json) |
 | Blessed Curse | 318560 | [318560-blessed-curse.json](./318560-blessed-curse.json) |
@@ -8626,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindy | 125187 | [125187-blindy.json](./125187-blindy.json) |
 | Blinest | 228731 | [228731-blinest.json](./228731-blinest.json) |
 | Bling Bling Bankruptcy | 363943 | [363943-bling-bling-bankruptcy.json](./363943-bling-bling-bankruptcy.json) |
+| Bling: Fortune Memories | 351525 | [351525-bling-fortune-memories.json](./351525-bling-fortune-memories.json) |
 | Blink | 100297 | [100297-blink.json](./100297-blink.json) |
 | Blink | 27800 | [27800-blink.json](./27800-blink.json) |
 | Blink | 413761 | [413761-blink.json](./413761-blink.json) |
@@ -11045,6 +11048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Dojo | 148917 | [148917-boom-dojo.json](./148917-boom-dojo.json) |
 | Boom Face | 169637 | [169637-boom-face.json](./169637-boom-face.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
+| Boom Gear | 351555 | [351555-boom-gear.json](./351555-boom-gear.json) |
 | Boom Guys | 176141 | [176141-boom-guys.json](./176141-boom-guys.json) |
 | Boom Island | 68810 | [68810-boom-island.json](./68810-boom-island.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
@@ -12248,6 +12252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainfuck Challenge | 350781 | [350781-brainfuck-challenge.json](./350781-brainfuck-challenge.json) |
 | Brainium Solitaire | 87861 | [87861-brainium-solitaire.json](./87861-brainium-solitaire.json) |
 | Brainjogging for Kids | 88485 | [88485-brainjogging-for-kids.json](./88485-brainjogging-for-kids.json) |
+| Brainkilled | 351526 | [351526-brainkilled.json](./351526-brainkilled.json) |
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
 | BrainPower | 95258 | [95258-brainpower.json](./95258-brainpower.json) |
 | Brainroll | 250782 | [250782-brainroll.json](./250782-brainroll.json) |
