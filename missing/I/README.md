@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IKEA VR Experience | 33400 | [33400-ikea-vr-experience.json](./33400-ikea-vr-experience.json) |
 | Ikebana | 352962 | [352962-ikebana.json](./352962-ikebana.json) |
 | Ikeda: The Scrap Hunter E.P. | 120668 | [120668-ikeda-the-scrap-hunter-e-p.json](./120668-ikeda-the-scrap-hunter-e-p.json) |
+| Ikeelya | 379329 | [379329-ikeelya.json](./379329-ikeelya.json) |
 | Ikemen Bakumatsu: Unmei no Koi Hana no Miyako to Koi no Ran | 226082 | [226082-ikemen-bakumatsu-unmei-no-koi-hana-no-miyako-to-koi-no-ran.json](./226082-ikemen-bakumatsu-unmei-no-koi-hana-no-miyako-to-koi-no-ran.json) |
 | Ikemen Genjiden Ayakashi Koi Enishi | 184284 | [184284-ikemen-genjiden-ayakashi-koi-enishi.json](./184284-ikemen-genjiden-ayakashi-koi-enishi.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
