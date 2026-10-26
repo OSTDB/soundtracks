@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA: Road to the Final Four - 1991-92 Edition | 15505 | [15505-ncaa-road-to-the-final-four-1991-92-edition.json](./15505-ncaa-road-to-the-final-four-1991-92-edition.json) |
 | NCAA: Road to the Final Four 2 | 15506 | [15506-ncaa-road-to-the-final-four-2.json](./15506-ncaa-road-to-the-final-four-2.json) |
 | NCH: Chronos Rebirth | 403788 | [403788-nch-chronos-rebirth.json](./403788-nch-chronos-rebirth.json) |
+| Ncha! Bycha | 365595 | [365595-ncha-bycha.json](./365595-ncha-bycha.json) |
 | NCIS | 21726 | [21726-ncis.json](./21726-ncis.json) |
 | NCIS: Hidden Crimes | 56921 | [56921-ncis-hidden-crimes.json](./56921-ncis-hidden-crimes.json) |
 | NCL: USA Bowl | 237298 | [237298-ncl-usa-bowl.json](./237298-ncl-usa-bowl.json) |
