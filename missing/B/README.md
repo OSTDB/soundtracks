@@ -815,7 +815,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2974,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Ace | 38103 | [38103-battle-ace.json](./38103-battle-ace.json) |
 | Battle Ages | 58634 | [58634-battle-ages.json](./58634-battle-ages.json) |
 | Battle Air Hockey Break Beats! | 338203 | [338203-battle-air-hockey-break-beats.json](./338203-battle-air-hockey-break-beats.json) |
+| Battle AirForce | 337410 | [337410-battle-airforce.json](./337410-battle-airforce.json) |
 | Battle Alchemy | 157068 | [157068-battle-alchemy.json](./157068-battle-alchemy.json) |
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
 | Battle Alliance | 197788 | [197788-battle-alliance.json](./197788-battle-alliance.json) |
@@ -10511,6 +10511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
 | Bolsheviktion 2: Yurovsky's Revenge | 412479 | [412479-bolsheviktion-2-yurovskys-revenge.json](./412479-bolsheviktion-2-yurovskys-revenge.json) |
+| Bolsheviktion 3D | 337561 | [337561-bolsheviktion-3d.json](./337561-bolsheviktion-3d.json) |
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
 | Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
 | Bolt & Wahlington | 345840 | [345840-bolt-and-wahlington.json](./345840-bolt-and-wahlington.json) |
@@ -15439,6 +15440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Men Online | 56173 | [56173-button-men-online.json](./56173-button-men-online.json) |
 | Button Music | 98996 | [98996-button-music.json](./98996-button-music.json) |
 | Button Pressing Simulator | 156526 | [156526-button-pressing-simulator.json](./156526-button-pressing-simulator.json) |
+| Button Prison | 337526 | [337526-button-prison.json](./337526-button-prison.json) |
 | Button Sorter | 358934 | [358934-button-sorter.json](./358934-button-sorter.json) |
 | Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
 | Button VR | 231302 | [231302-button-vr.json](./231302-button-vr.json) |
