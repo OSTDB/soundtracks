@@ -3938,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Coaster | 35207 | [35207-cave-coaster.json](./35207-cave-coaster.json) |
 | Cave Command | 292609 | [292609-cave-command.json](./292609-cave-command.json) |
 | Cave Confectioner | 126987 | [126987-cave-confectioner.json](./126987-cave-confectioner.json) |
+| Cave Crave | 347578 | [347578-cave-crave.json](./347578-cave-crave.json) |
 | Cave Crave: Tham Luang Cave VR | 406192 | [406192-cave-crave-tham-luang-cave-vr.json](./406192-cave-crave-tham-luang-cave-vr.json) |
 | Cave Crawler | 247083 | [247083-cave-crawler.json](./247083-cave-crawler.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
@@ -8639,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clocked | 284827 | [284827-clocked.json](./284827-clocked.json) |
 | Clocker | 110816 | [110816-clocker.json](./110816-clocker.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
+| Clocking In to Fight a Lich in Another Realm | 347594 | [347594-clocking-in-to-fight-a-lich-in-another-realm.json](./347594-clocking-in-to-fight-a-lich-in-another-realm.json) |
 | Clocknockers | 190393 | [190393-clocknockers.json](./190393-clocknockers.json) |
 | ClockOut | 296716 | [296716-clockout.json](./296716-clockout.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
@@ -15544,6 +15546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Fantasy | 68033 | [68033-crystal-fantasy.json](./68033-crystal-fantasy.json) |
 | Crystal Flux | 34850 | [34850-crystal-flux.json](./34850-crystal-flux.json) |
 | Crystal Fortress | 332431 | [332431-crystal-fortress.json](./332431-crystal-fortress.json) |
+| Crystal Gaiden Origins | 347613 | [347613-crystal-gaiden-origins.json](./347613-crystal-gaiden-origins.json) |
 | Crystal Gal Mahjong | 123070 | [123070-crystal-gal-mahjong.json](./123070-crystal-gal-mahjong.json) |
 | Crystal Gal Mahjong II | 123071 | [123071-crystal-gal-mahjong-ii.json](./123071-crystal-gal-mahjong-ii.json) |
 | Crystal Garden | 386998 | [386998-crystal-garden.json](./386998-crystal-garden.json) |
