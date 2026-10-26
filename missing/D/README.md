@@ -3774,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Match Love Comedy! | 136702 | [136702-death-match-love-comedy.json](./136702-death-match-love-comedy.json) |
 | Death Maze | 109613 | [109613-death-maze.json](./109613-death-maze.json) |
 | Death Merchant | 293228 | [293228-death-merchant.json](./293228-death-merchant.json) |
+| Death Metal Derby | 361019 | [361019-death-metal-derby.json](./361019-death-metal-derby.json) |
 | Death Metro | 177200 | [177200-death-metro.json](./177200-death-metro.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death Moon | 156712 | [156712-death-moon.json](./156712-death-moon.json) |
@@ -9398,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docile Fright | 237212 | [237212-docile-fright.json](./237212-docile-fright.json) |
 | Dock King | 204420 | [204420-dock-king.json](./204420-dock-king.json) |
 | Dock'em | 91706 | [91706-dockem.json](./91706-dockem.json) |
+| Docked | 361023 | [361023-docked.json](./361023-docked.json) |
 | Docked: Deep Waters | 405957 | [405957-docked-deep-waters.json](./405957-docked-deep-waters.json) |
 | Docked: DLC 2 | 398957 | [398957-docked-dlc-2.json](./398957-docked-dlc-2.json) |
 | Docked: New Horizons Pack | 398958 | [398958-docked-new-horizons-pack.json](./398958-docked-new-horizons-pack.json) |
@@ -10742,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Kingdom: Medieval | 338335 | [338335-doodle-kingdom-medieval.json](./338335-doodle-kingdom-medieval.json) |
 | Doodle Knight | 348194 | [348194-doodle-knight.json](./348194-doodle-knight.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
+| Doodle Mafia: Epic Alchemy | 361022 | [361022-doodle-mafia-epic-alchemy.json](./361022-doodle-mafia-epic-alchemy.json) |
 | Doodle Mountain | 233417 | [233417-doodle-mountain.json](./233417-doodle-mountain.json) |
 | Doodle Movie Quiz | 232504 | [232504-doodle-movie-quiz.json](./232504-doodle-movie-quiz.json) |
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
