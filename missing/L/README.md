@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexiblox | 175585 | [175585-lexiblox.json](./175585-lexiblox.json) |
 | Lexibook Batman Compact Cyber Arcade Portable Console | 304232 | [304232-lexibook-batman-compact-cyber-arcade-portable-console.json](./304232-lexibook-batman-compact-cyber-arcade-portable-console.json) |
 | Lexibook Electronic Thesaurus: Model DC 750 | 245457 | [245457-lexibook-electronic-thesaurus-model-dc-750.json](./245457-lexibook-electronic-thesaurus-model-dc-750.json) |
+| Lexibook TV Game Console JG7415 | 358740 | [358740-lexibook-tv-game-console-jg7415.json](./358740-lexibook-tv-game-console-jg7415.json) |
 | Lexica | 369673 | [369673-lexica.json](./369673-lexica.json) |
 | Lexica | 384573 | [384573-lexica.json](./384573-lexica.json) |
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
