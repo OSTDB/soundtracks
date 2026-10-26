@@ -5124,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Believer! | 139088 | [139088-believer.json](./139088-believer.json) |
 | Believr Pro Wrestling | 406158 | [406158-believr-pro-wrestling.json](./406158-believr-pro-wrestling.json) |
 | BelisBelus | 308022 | [308022-belisbelus.json](./308022-belisbelus.json) |
+| Bell & Hoof: The Silent Journey | 367470 | [367470-bell-and-hoof-the-silent-journey.json](./367470-bell-and-hoof-the-silent-journey.json) |
 | Bell Bot | 369319 | [369319-bell-bot.json](./369319-bell-bot.json) |
 | Bell Kingdom | 211447 | [211447-bell-kingdom.json](./211447-bell-kingdom.json) |
 | Bell Knight | 396665 | [396665-bell-knight.json](./396665-bell-knight.json) |
@@ -9758,6 +9759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Screen Adventures | 31519 | [31519-blue-screen-adventures.json](./31519-blue-screen-adventures.json) |
 | Blue Sheep | 34306 | [34306-blue-sheep.json](./34306-blue-sheep.json) |
+| Blue Shutter | 367528 | [367528-blue-shutter.json](./367528-blue-shutter.json) |
 | Blue Sign | 412477 | [412477-blue-sign.json](./412477-blue-sign.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue Sky | 89068 | [89068-blue-sky.json](./89068-blue-sky.json) |
