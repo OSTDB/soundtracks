@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflecting Fate | 43434 | [43434-reflecting-fate.json](./43434-reflecting-fate.json) |
 | Reflection | 201694 | [201694-reflection.json](./201694-reflection.json) |
 | Reflection | 216955 | [216955-reflection.json](./216955-reflection.json) |
+| Reflection | 342538 | [342538-reflection.json](./342538-reflection.json) |
 | Reflection A | 82678 | [82678-reflection-a.json](./82678-reflection-a.json) |
 | Reflection Arena | 406227 | [406227-reflection-arena.json](./406227-reflection-arena.json) |
 | Reflection Link | 303061 | [303061-reflection-link.json](./303061-reflection-link.json) |
@@ -6440,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
 | Rinne Tenshou | 356253 | [356253-rinne-tenshou.json](./356253-rinne-tenshou.json) |
 | Rinne Tsukihime | 282562 | [282562-rinne-tsukihime.json](./282562-rinne-tsukihime.json) |
+| Rinnetenjo | 342921 | [342921-rinnetenjo.json](./342921-rinnetenjo.json) |
 | Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinse and Repeat | 286576 | [286576-rinse-and-repeat.json](./286576-rinse-and-repeat.json) |
 | Rinth | 344029 | [344029-rinth.json](./344029-rinth.json) |
