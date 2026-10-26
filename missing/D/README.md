@@ -7453,6 +7453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DiggerSim | 234194 | [234194-diggersim.json](./234194-diggersim.json) |
 | DiggerSim: Excavator Simulator | 312454 | [312454-diggersim-excavator-simulator.json](./312454-diggersim-excavator-simulator.json) |
 | Diggerz | 130592 | [130592-diggerz.json](./130592-diggerz.json) |
+| Diggin | 379389 | [379389-diggin.json](./379389-diggin.json) |
 | Diggin It | 395797 | [395797-diggin-it.json](./395797-diggin-it.json) |
 | Digging & Farming & Parking: Simulator Bundle | 380697 | [380697-digging-and-farming-and-parking-simulator-bundle.json](./380697-digging-and-farming-and-parking-simulator-bundle.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
@@ -9113,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | DIY Tour: Indie Rock Simulator | 197552 | [197552-diy-tour-indie-rock-simulator.json](./197552-diy-tour-indie-rock-simulator.json) |
+| Dizzel | 379403 | [379403-dizzel.json](./379403-dizzel.json) |
 | Dizzel | 63687 | [63687-dizzel.json](./63687-dizzel.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
 | Dizzy 3 and a Half: Into Magicland | 45239 | [45239-dizzy-3-and-a-half-into-magicland.json](./45239-dizzy-3-and-a-half-into-magicland.json) |
@@ -14210,6 +14212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk: Relapsed | 215870 | [215870-drunk-relapsed.json](./215870-drunk-relapsed.json) |
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
 | Drunkard Simulator | 374423 | [374423-drunkard-simulator.json](./374423-drunkard-simulator.json) |
+| Drunken Baron | 379396 | [379396-drunken-baron.json](./379396-drunken-baron.json) |
 | Drunken Cowboys | 379053 | [379053-drunken-cowboys.json](./379053-drunken-cowboys.json) |
 | Drunken Dad Simulator | 156892 | [156892-drunken-dad-simulator.json](./156892-drunken-dad-simulator.json) |
 | Drunken Darts | 354756 | [354756-drunken-darts.json](./354756-drunken-darts.json) |
