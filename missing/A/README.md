@@ -14703,6 +14703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autonomous | 63767 | [63767-autonomous.json](./63767-autonomous.json) |
 | Autonomous Anarchy | 289732 | [289732-autonomous-anarchy.json](./289732-autonomous-anarchy.json) |
 | Autonomous Gods | 382557 | [382557-autonomous-gods.json](./382557-autonomous-gods.json) |
+| Autonomous Odyssey | 333330 | [333330-autonomous-odyssey.json](./333330-autonomous-odyssey.json) |
 | Autonomous Swarm: The Replication War | 389641 | [389641-autonomous-swarm-the-replication-war.json](./389641-autonomous-swarm-the-replication-war.json) |
 | Autonomous Warfare Evolution | 401072 | [401072-autonomous-warfare-evolution.json](./401072-autonomous-warfare-evolution.json) |
 | Autonomy Lost | 221913 | [221913-autonomy-lost.json](./221913-autonomy-lost.json) |
