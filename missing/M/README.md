@@ -8515,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Methods 2: Secrets And Death | 317047 | [317047-methods-2-secrets-and-death.json](./317047-methods-2-secrets-and-death.json) |
 | Methods 3: The Invisible Man | 317048 | [317048-methods-3-the-invisible-man.json](./317048-methods-3-the-invisible-man.json) |
 | Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
+| Methods 5: The Last Stage | 335807 | [335807-methods-5-the-last-stage.json](./335807-methods-5-the-last-stage.json) |
 | Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
 | Methods: The Canada Files | 224567 | [224567-methods-the-canada-files.json](./224567-methods-the-canada-files.json) |
 | Meticulous | 237085 | [237085-meticulous.json](./237085-meticulous.json) |
@@ -13219,6 +13220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl * Fusion | 82764 | [82764-monster-girl-fusion.json](./82764-monster-girl-fusion.json) |
 | Monster Girl 1,000 | 243531 | [243531-monster-girl-1-000.json](./243531-monster-girl-1-000.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
+| Monster Girl and the Mysterious Adventure: Remastered Edition | 335768 | [335768-monster-girl-and-the-mysterious-adventure-remastered-edition.json](./335768-monster-girl-and-the-mysterious-adventure-remastered-edition.json) |
 | Monster Girl Breeder | 160205 | [160205-monster-girl-breeder.json](./160205-monster-girl-breeder.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
 | Monster Girl Dormitory | 212973 | [212973-monster-girl-dormitory.json](./212973-monster-girl-dormitory.json) |
