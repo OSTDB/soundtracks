@@ -5603,6 +5603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itrill | 260769 | [260769-itrill.json](./260769-itrill.json) |
 | Itro: In the Right Order | 59668 | [59668-itro-in-the-right-order.json](./59668-itro-in-the-right-order.json) |
 | ITRP: Aero Star | 236857 | [236857-itrp-aero-star.json](./236857-itrp-aero-star.json) |
+| Itrp: Vacuum Bless | 372441 | [372441-itrp-vacuum-bless.json](./372441-itrp-vacuum-bless.json) |
 | ITRP: Volatile Vertex | 192199 | [192199-itrp-volatile-vertex.json](./192199-itrp-volatile-vertex.json) |
 | Its a Pirate-Game! | 176303 | [176303-its-a-pirate-game.json](./176303-its-a-pirate-game.json) |
 | Its an idle life for me! | 179414 | [179414-its-an-idle-life-for-me.json](./179414-its-an-idle-life-for-me.json) |
