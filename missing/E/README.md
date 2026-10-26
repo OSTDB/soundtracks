@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Breaker | 378797 | [378797-ecchi-breaker.json](./378797-ecchi-breaker.json) |
 | Ecchi Cards | 104846 | [104846-ecchi-cards.json](./104846-ecchi-cards.json) |
 | Ecchi Crush | 401114 | [401114-ecchi-crush.json](./401114-ecchi-crush.json) |
+| Ecchi Dream Bundle | 385135 | [385135-ecchi-dream-bundle.json](./385135-ecchi-dream-bundle.json) |
 | Ecchi Fever | 320449 | [320449-ecchi-fever.json](./320449-ecchi-fever.json) |
 | Ecchi Jack | 169389 | [169389-ecchi-jack.json](./169389-ecchi-jack.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
