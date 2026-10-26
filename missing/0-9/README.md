@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .Curator | 413458 | [413458-curator.json](./413458-curator.json) |
+| .Decluster & .Decluster Zero | 380429 | [380429-decluster-and-decluster-zero.json](./380429-decluster-and-decluster-zero.json) |
 | .Decluster Zero: Bullet Nocturne | 142933 | [142933-decluster-zero-bullet-nocturne.json](./142933-decluster-zero-bullet-nocturne.json) |
 | .Decluster: Into the Bullet Hell | 142934 | [142934-decluster-into-the-bullet-hell.json](./142934-decluster-into-the-bullet-hell.json) |
 | .Detuned | 7724 | [7724-detuned.json](./7724-detuned.json) |
