@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un-Usual Hotline | 352520 | [352520-un-usual-hotline.json](./352520-un-usual-hotline.json) |
 | Un:Birthday Song ~Ai wo Utau Shinigami~ | 54919 | [54919-un-birthday-song-ai-wo-utau-shinigami.json](./54919-un-birthday-song-ai-wo-utau-shinigami.json) |
 | Un:logical | 320393 | [320393-un-logical.json](./320393-un-logical.json) |
+| UN:Me | 381080 | [381080-un-me.json](./381080-un-me.json) |
 | Un/Fragment | 289925 | [289925-un-fragment.json](./289925-un-fragment.json) |
 | Una Gesta Draconiana | 400870 | [400870-una-gesta-draconiana.json](./400870-una-gesta-draconiana.json) |
 | Una noche en órbita | 391669 | [391669-una-noche-en-orbita.json](./391669-una-noche-en-orbita.json) |
@@ -2056,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Dungeon | 266980 | [266980-unknown-dungeon.json](./266980-unknown-dungeon.json) |
 | Unknown Entity | 389531 | [389531-unknown-entity.json](./389531-unknown-entity.json) |
 | Unknown Exist | 202339 | [202339-unknown-exist.json](./202339-unknown-exist.json) |
+| Unknown Faces | 381067 | [381067-unknown-faces.json](./381067-unknown-faces.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
 | Unknown FPV: Drone Simulator | 251722 | [251722-unknown-fpv-drone-simulator.json](./251722-unknown-fpv-drone-simulator.json) |
 | Unknown Garden | 202198 | [202198-unknown-garden.json](./202198-unknown-garden.json) |
