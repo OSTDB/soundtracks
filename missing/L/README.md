@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth X | 312114 | [312114-labyrinth-x.json](./312114-labyrinth-x.json) |
 | Labyrinth: Classic Pinball Puzzle | 225884 | [225884-labyrinth-classic-pinball-puzzle.json](./225884-labyrinth-classic-pinball-puzzle.json) |
 | Labyrinth: Derelict Abyss | 138136 | [138136-labyrinth-derelict-abyss.json](./138136-labyrinth-derelict-abyss.json) |
+| Labyrinth: Dracula's Lair | 345371 | [345371-labyrinth-draculas-lair.json](./345371-labyrinth-draculas-lair.json) |
 | Labyrinth: Immortal Oblivion | 224601 | [224601-labyrinth-immortal-oblivion.json](./224601-labyrinth-immortal-oblivion.json) |
 | Labyrinth: Roll of Fate | 309494 | [309494-labyrinth-roll-of-fate.json](./309494-labyrinth-roll-of-fate.json) |
 | Labyrinth: The War on Terror | 129983 | [129983-labyrinth-the-war-on-terror.json](./129983-labyrinth-the-war-on-terror.json) |
