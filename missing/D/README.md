@@ -7792,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
 | Diner Dash: Hometown Hero - Once Upon a Diner | 393905 | [393905-diner-dash-hometown-hero-once-upon-a-diner.json](./393905-diner-dash-hometown-hero-once-upon-a-diner.json) |
 | Diner Dash: Sizzle & Serve | 21418 | [21418-diner-dash-sizzle-and-serve.json](./21418-diner-dash-sizzle-and-serve.json) |
+| Diner in the Storm | 360034 | [360034-diner-in-the-storm.json](./360034-diner-in-the-storm.json) |
 | Diner Mania | 34984 | [34984-diner-mania.json](./34984-diner-mania.json) |
 | Diner Out | 314520 | [314520-diner-out.json](./314520-diner-out.json) |
 | Diner Runners | 192802 | [192802-diner-runners.json](./192802-diner-runners.json) |
@@ -13773,6 +13774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifting Lands | 17835 | [17835-drifting-lands.json](./17835-drifting-lands.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | Driftland: The Magic Revival | 69455 | [69455-driftland-the-magic-revival.json](./69455-driftland-the-magic-revival.json) |
+| Driftline Peaks | 360023 | [360023-driftline-peaks.json](./360023-driftline-peaks.json) |
 | Driftmania | 287360 | [287360-driftmania.json](./287360-driftmania.json) |
 | Driftmoon | 8205 | [8205-driftmoon.json](./8205-driftmoon.json) |
 | Drifto | 244103 | [244103-drifto.json](./244103-drifto.json) |
