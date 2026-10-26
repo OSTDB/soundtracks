@@ -3664,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmargee Fighter Girl vs. Zombies & Monsters! | 290797 | [290797-marmargee-fighter-girl-vs-zombies-and-monsters.json](./290797-marmargee-fighter-girl-vs-zombies-and-monsters.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marmot Fight Club | 350195 | [350195-marmot-fight-club.json](./350195-marmot-fight-club.json) |
+| Maroon! | 336461 | [336461-maroon.json](./336461-maroon.json) |
 | Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
 | Marooned | 209558 | [209558-marooned.json](./209558-marooned.json) |
 | Marooned 2: Secrets of the Akoni | 209557 | [209557-marooned-2-secrets-of-the-akoni.json](./209557-marooned-2-secrets-of-the-akoni.json) |
@@ -6839,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalotrain | 285551 | [285551-megalotrain.json](./285551-megalotrain.json) |
 | MegaMacho Oco | 185926 | [185926-megamacho-oco.json](./185926-megamacho-oco.json) |
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
+| Megaman Exe Radio | 336460 | [336460-megaman-exe-radio.json](./336460-megaman-exe-radio.json) |
 | MegaMan NT Warrior Advanced PET | 336716 | [336716-megaman-nt-warrior-advanced-pet.json](./336716-megaman-nt-warrior-advanced-pet.json) |
 | MegaMan NT Warrior Advanced PET | 352780 | [352780-megaman-nt-warrior-advanced-pet.json](./352780-megaman-nt-warrior-advanced-pet.json) |
 | MegaMan NT Warrior Advanced PET | 352781 | [352781-megaman-nt-warrior-advanced-pet.json](./352781-megaman-nt-warrior-advanced-pet.json) |
@@ -7488,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 331940 | [331940-memory.json](./331940-memory.json) |
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
 | Memory | 95230 | [95230-memory.json](./95230-memory.json) |
+| Memory Adventures in the Jungle | 336481 | [336481-memory-adventures-in-the-jungle.json](./336481-memory-adventures-in-the-jungle.json) |
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
 | Memory Brew: Tales of Underworld | 406573 | [406573-memory-brew-tales-of-underworld.json](./406573-memory-brew-tales-of-underworld.json) |
 | Memory Card Flip | 417340 | [417340-memory-card-flip.json](./417340-memory-card-flip.json) |
