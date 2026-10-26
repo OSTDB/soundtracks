@@ -14089,6 +14089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drones | 411975 | [411975-drones.json](./411975-drones.json) |
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
 | Drones Attack | 410863 | [410863-drones-attack.json](./410863-drones-attack.json) |
+| Drones of Destruction | 350336 | [350336-drones-of-destruction.json](./350336-drones-of-destruction.json) |
 | Drones: The Human Condition | 30508 | [30508-drones-the-human-condition.json](./30508-drones-the-human-condition.json) |
 | Drongo's Festive Adventures | 261685 | [261685-drongos-festive-adventures.json](./261685-drongos-festive-adventures.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
