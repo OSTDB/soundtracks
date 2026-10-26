@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Real Off Road | 255763 | [255763-4x4-real-off-road.json](./255763-4x4-real-off-road.json) |
 | 4x4 Road Race | 29556 | [29556-4x4-road-race.json](./29556-4x4-road-race.json) |
 | 4x4 Russian SUVs Off-Road | 348958 | [348958-4x4-russian-suvs-off-road.json](./348958-4x4-russian-suvs-off-road.json) |
+| 4x4 Truck Offroad Car Driver | 356525 | [356525-4x4-truck-offroad-car-driver.json](./356525-4x4-truck-offroad-car-driver.json) |
 | 5 Arcade Gems | 51054 | [51054-5-arcade-gems.json](./51054-5-arcade-gems.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
 | 5 Card Slingo | 414394 | [414394-5-card-slingo.json](./414394-5-card-slingo.json) |
