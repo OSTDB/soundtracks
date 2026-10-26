@@ -1731,6 +1731,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuru-huwa Souls | 206678 | [206678-yuru-huwa-souls.json](./206678-yuru-huwa-souls.json) |
 | Yuru-i GeGeGe no Kitaro: Yokai Dotabata Daisensou | 227364 | [227364-yuru-i-gegege-no-kitaro-yokai-dotabata-daisensou.json](./227364-yuru-i-gegege-no-kitaro-yokai-dotabata-daisensou.json) |
 | Yuru-yuru Gekijou: Gekijou-ban - Kanketsu-hen: Sanbu-sak | 256272 | [256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json](./256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json) |
+| Yurudora no Meikyuu | 382859 | [382859-yurudora-no-meikyuu.json](./382859-yurudora-no-meikyuu.json) |
+| Yurudora no Meikyuu (Shin) | 382861 | [382861-yurudora-no-meikyuu-shin.json](./382861-yurudora-no-meikyuu-shin.json) |
+| Yurudora no Meikyuu R | 382860 | [382860-yurudora-no-meikyuu-r.json](./382860-yurudora-no-meikyuu-r.json) |
 | Yurukill: The Calumniation Games | 122344 | [122344-yurukill-the-calumniation-games.json](./122344-yurukill-the-calumniation-games.json) |
 | Yurukill: The Calumniation Games - Deluxe Edition | 175976 | [175976-yurukill-the-calumniation-games-deluxe-edition.json](./175976-yurukill-the-calumniation-games-deluxe-edition.json) |
 | Yurutto Manaberu Classic | 251620 | [251620-yurutto-manaberu-classic.json](./251620-yurutto-manaberu-classic.json) |
