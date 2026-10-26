@@ -4960,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim Waterpark & Chris Cole | 357406 | [357406-session-skate-sim-waterpark-and-chris-cole.json](./357406-session-skate-sim-waterpark-and-chris-cole.json) |
 | Session: Skate Sim Year One & Two Edition | 331843 | [331843-session-skate-sim-year-one-and-two-edition.json](./331843-session-skate-sim-year-one-and-two-edition.json) |
 | Set 'N Det | 186861 | [186861-set-n-det.json](./186861-set-n-det.json) |
+| Set Adrift | 374027 | [374027-set-adrift.json](./374027-set-adrift.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
 | Set Yourself on Fire | 306616 | [306616-set-yourself-on-fire.json](./306616-set-yourself-on-fire.json) |
 | Setback | 198558 | [198558-setback.json](./198558-setback.json) |
@@ -14578,6 +14579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Racing: CrossWorlds - Avatar Legends Pack | 375167 | [375167-sonic-racing-crossworlds-avatar-legends-pack.json](./375167-sonic-racing-crossworlds-avatar-legends-pack.json) |
 | Sonic Racing: CrossWorlds - Digital Deluxe Edition | 356807 | [356807-sonic-racing-crossworlds-digital-deluxe-edition.json](./356807-sonic-racing-crossworlds-digital-deluxe-edition.json) |
 | Sonic Racing: CrossWorlds - Mega Man Pack | 369989 | [369989-sonic-racing-crossworlds-mega-man-pack.json](./369989-sonic-racing-crossworlds-mega-man-pack.json) |
+| Sonic Racing: CrossWorlds - Minecraft Pack | 374099 | [374099-sonic-racing-crossworlds-minecraft-pack.json](./374099-sonic-racing-crossworlds-minecraft-pack.json) |
 | Sonic Racing: CrossWorlds - Pac-Man Pack | 375170 | [375170-sonic-racing-crossworlds-pac-man-pack.json](./375170-sonic-racing-crossworlds-pac-man-pack.json) |
 | Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack | 375166 | [375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json](./375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json) |
 | Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Mutant Mayhem Pack | 375168 | [375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json](./375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json) |
@@ -25752,6 +25754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flipper | 110838 | [110838-super-flipper.json](./110838-super-flipper.json) |
 | Super Flippin' Phones | 33763 | [33763-super-flippin-phones.json](./33763-super-flippin-phones.json) |
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
+| Super Flying Vroom Vroom | 374030 | [374030-super-flying-vroom-vroom.json](./374030-super-flying-vroom-vroom.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
 | Super Football | 94923 | [94923-super-football.json](./94923-super-football.json) |
