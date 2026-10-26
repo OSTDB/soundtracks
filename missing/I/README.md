@@ -4240,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Logistics Inc | 32033 | [32033-interstellar-logistics-inc.json](./32033-interstellar-logistics-inc.json) |
 | Interstellar Marines | 5031 | [5031-interstellar-marines.json](./5031-interstellar-marines.json) |
 | Interstellar Marines: Spearhead Edition | 25059 | [25059-interstellar-marines-spearhead-edition.json](./25059-interstellar-marines-spearhead-edition.json) |
+| Interstellar Nomad | 369671 | [369671-interstellar-nomad.json](./369671-interstellar-nomad.json) |
 | Interstellar Orphan | 178634 | [178634-interstellar-orphan.json](./178634-interstellar-orphan.json) |
 | Interstellar Pilot | 207860 | [207860-interstellar-pilot.json](./207860-interstellar-pilot.json) |
 | Interstellar Pilot 2 | 236167 | [236167-interstellar-pilot-2.json](./236167-interstellar-pilot-2.json) |
@@ -5562,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Street: Gorgeous King | 60478 | [60478-itadaki-street-gorgeous-king.json](./60478-itadaki-street-gorgeous-king.json) |
 | Itako Works | 182898 | [182898-itako-works.json](./182898-itako-works.json) |
 | Italia 1990 | 94594 | [94594-italia-1990.json](./94594-italia-1990.json) |
+| Italian Brainrot TCG | 369541 | [369541-italian-brainrot-tcg.json](./369541-italian-brainrot-tcg.json) |
 | Italian Horror Trilogy | 402123 | [402123-italian-horror-trilogy.json](./402123-italian-horror-trilogy.json) |
 | Italian Journey | 216142 | [216142-italian-journey.json](./216142-italian-journey.json) |
 | Italian Journey: Nitro | 216144 | [216144-italian-journey-nitro.json](./216144-italian-journey-nitro.json) |
