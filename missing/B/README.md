@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: The Wrong Door | 404887 | [404887-backrooms-the-wrong-door.json](./404887-backrooms-the-wrong-door.json) |
 | Backrooms: The Wrong Level | 407808 | [407808-backrooms-the-wrong-level.json](./407808-backrooms-the-wrong-level.json) |
 | Backrooms: The Yellow Dream | 407817 | [407817-backrooms-the-yellow-dream.json](./407817-backrooms-the-yellow-dream.json) |
+| Backrooms: Together Escape | 344299 | [344299-backrooms-together-escape.json](./344299-backrooms-together-escape.json) |
 | Backrooms: What's Next | 404792 | [404792-backrooms-whats-next.json](./404792-backrooms-whats-next.json) |
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | BackRooms's 1995: The Lost Footage - Chapter1 | 303097 | [303097-backroomss-1995-the-lost-footage-chapter1.json](./303097-backroomss-1995-the-lost-footage-chapter1.json) |
@@ -813,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9546,6 +9548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstained: Ritual of the Night Complete Edition | 391058 | [391058-bloodstained-ritual-of-the-night-complete-edition.json](./391058-bloodstained-ritual-of-the-night-complete-edition.json) |
 | Bloodstained: The Scarlet Engagement | 347120 | [347120-bloodstained-the-scarlet-engagement.json](./347120-bloodstained-the-scarlet-engagement.json) |
 | Bloodstone Courtyard | 308465 | [308465-bloodstone-courtyard.json](./308465-bloodstone-courtyard.json) |
+| Bloodstone Rising | 344586 | [344586-bloodstone-rising.json](./344586-bloodstone-rising.json) |
 | BloodStorm | 8937 | [8937-bloodstorm.json](./8937-bloodstorm.json) |
 | Bloodstroke | 62226 | [62226-bloodstroke.json](./62226-bloodstroke.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
@@ -12298,6 +12301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Kart | 349904 | [349904-brainrot-kart.json](./349904-brainrot-kart.json) |
 | Brainrot Showdown | 408239 | [408239-brainrot-showdown.json](./408239-brainrot-showdown.json) |
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
+| Brainrot Tung Tung Sahur | 344287 | [344287-brainrot-tung-tung-sahur.json](./344287-brainrot-tung-tung-sahur.json) |
 | Brainrot Wars | 344965 | [344965-brainrot-wars.json](./344965-brainrot-wars.json) |
 | Brainrot: Animal Quizzes | 343259 | [343259-brainrot-animal-quizzes.json](./343259-brainrot-animal-quizzes.json) |
 | Brainrot: Story of Glorbo Frutodrillo & Ballerino Cappuccino | 351591 | [351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json](./351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json) |
