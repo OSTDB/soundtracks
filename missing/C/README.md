@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charming Hill | 399262 | [399262-charming-hill.json](./399262-charming-hill.json) |
 | Charming Tails | 298987 | [298987-charming-tails.json](./298987-charming-tails.json) |
+| Charmolypi | 335781 | [335781-charmolypi.json](./335781-charmolypi.json) |
 | Charms of Lavender Blue | 101995 | [101995-charms-of-lavender-blue.json](./101995-charms-of-lavender-blue.json) |
 | Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
@@ -7200,9 +7201,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chushpan | 292552 | [292552-chushpan.json](./292552-chushpan.json) |
 | Chushpan Simulator | 356433 | [356433-chushpan-simulator.json](./356433-chushpan-simulator.json) |
 | Chushpan Simulator 2 | 309682 | [309682-chushpan-simulator-2.json](./309682-chushpan-simulator-2.json) |
+| ChuSingura 46+1 Wacchi to Onii-chan no Love Love Nagaya Seikatsu | 335756 | [335756-chusingura-46-1-wacchi-to-onii-chan-no-love-love-nagaya-seikatsu.json](./335756-chusingura-46-1-wacchi-to-onii-chan-no-love-love-nagaya-seikatsu.json) |
 | ChuSingura46+1 S | 32917 | [32917-chusingura46-1-s.json](./32917-chusingura46-1-s.json) |
 | ChuSingura46+1 S: Chapter 2 & 3 | 168851 | [168851-chusingura46-1-s-chapter-2-and-3.json](./168851-chusingura46-1-s-chapter-2-and-3.json) |
 | ChuSingura46+1 S: Chapter 4 & 5 | 168850 | [168850-chusingura46-1-s-chapter-4-and-5.json](./168850-chusingura46-1-s-chapter-4-and-5.json) |
+| ChuSinGura46+1 V | 335771 | [335771-chusingura46-1-v.json](./335771-chusingura46-1-v.json) |
 | Chutes and Ladders | 92928 | [92928-chutes-and-ladders.json](./92928-chutes-and-ladders.json) |
 | Chuugaku Hisshuu Ei Bunpou: Chuugaku 1 Nensei You | 65994 | [65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json](./65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json) |
 | Chuugaku Hisshuu Ei Bunpou: Chuugaku 2 Nensei You | 65993 | [65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json](./65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json) |
@@ -16887,6 +16890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Agent | 132200 | [132200-cyber-agent.json](./132200-cyber-agent.json) |
 | Cyber AI Defense | 359533 | [359533-cyber-ai-defense.json](./359533-cyber-ai-defense.json) |
 | Cyber Arena | 74481 | [74481-cyber-arena.json](./74481-cyber-arena.json) |
+| Cyber Arms Val-Kaizer | 336183 | [336183-cyber-arms-val-kaizer.json](./336183-cyber-arms-val-kaizer.json) |
 | Cyber Assault | 257899 | [257899-cyber-assault.json](./257899-cyber-assault.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Attack | 215535 | [215535-cyber-attack.json](./215535-cyber-attack.json) |
