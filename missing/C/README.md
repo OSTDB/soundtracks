@@ -4131,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
 | Cazzarion: Car Chase | 304267 | [304267-cazzarion-car-chase.json](./304267-cazzarion-car-chase.json) |
 | Cazzarion: Coin Pilot | 305412 | [305412-cazzarion-coin-pilot.json](./305412-cazzarion-coin-pilot.json) |
+| Cazzarion: Cute Town | 335188 | [335188-cazzarion-cute-town.json](./335188-cazzarion-cute-town.json) |
 | Cazzarion: Dart Wheel | 296087 | [296087-cazzarion-dart-wheel.json](./296087-cazzarion-dart-wheel.json) |
 | Cazzarion: Drone Attack | 320760 | [320760-cazzarion-drone-attack.json](./320760-cazzarion-drone-attack.json) |
 | Cazzarion: Drone Flight | 317566 | [317566-cazzarion-drone-flight.json](./317566-cazzarion-drone-flight.json) |
@@ -8432,6 +8433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click and Slay | 176679 | [176679-click-and-slay.json](./176679-click-and-slay.json) |
 | Click and Tower | 357826 | [357826-click-and-tower.json](./357826-click-and-tower.json) |
 | Click Build Repeat | 404419 | [404419-click-build-repeat.json](./404419-click-build-repeat.json) |
+| Click Click Bomb | 335225 | [335225-click-click-bomb.json](./335225-click-click-bomb.json) |
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
 | Click Commander | 120000 | [120000-click-commander.json](./120000-click-commander.json) |
@@ -10632,6 +10634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Sakka Series Touma Senki #3: Ryuujin Sensei Kiki Ippatsu | 41352 | [41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json](./41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json) |
 | Comic Sakka Series Touma Senki #4: Tenkuu Ryuumaou Fukkatsu | 41351 | [41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json](./41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json) |
 | Comic Sakka Series Touma Senki #5: Youjuu Rudo no Chousen | 41350 | [41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json](./41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json) |
+| Comic Store Simulator | 335219 | [335219-comic-store-simulator.json](./335219-comic-store-simulator.json) |
 | Comicado | 16858 | [16858-comicado.json](./16858-comicado.json) |
 | ComicBachiCooon!! | 293833 | [293833-comicbachicooon.json](./293833-comicbachicooon.json) |
 | Coming Back | 183545 | [183545-coming-back.json](./183545-coming-back.json) |
@@ -12797,6 +12800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count of Hatchet | 158634 | [158634-count-of-hatchet.json](./158634-count-of-hatchet.json) |
 | Count of Wallachia | 276403 | [276403-count-of-wallachia.json](./276403-count-of-wallachia.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
+| Count Pacula | 335178 | [335178-count-pacula.json](./335178-count-pacula.json) |
 | Count the Dead | 148787 | [148787-count-the-dead.json](./148787-count-the-dead.json) |
 | Count the Score | 407839 | [407839-count-the-score.json](./407839-count-the-score.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
@@ -13170,6 +13174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Islands | 208194 | [208194-cozy-islands.json](./208194-cozy-islands.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
 | Cozy Kingdom | 362198 | [362198-cozy-kingdom.json](./362198-cozy-kingdom.json) |
+| Cozy Land | 335183 | [335183-cozy-land.json](./335183-cozy-land.json) |
 | Cozy Life Collection | 393632 | [393632-cozy-life-collection.json](./393632-cozy-life-collection.json) |
 | Cozy Liora | 400883 | [400883-cozy-liora.json](./400883-cozy-liora.json) |
 | Cozy Littlequarium | 379944 | [379944-cozy-littlequarium.json](./379944-cozy-littlequarium.json) |
@@ -15551,6 +15556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Adventure | 58080 | [58080-crystal-adventure.json](./58080-crystal-adventure.json) |
 | Crystal Anomaly | 194379 | [194379-crystal-anomaly.json](./194379-crystal-anomaly.json) |
 | Crystal Ball | 93442 | [93442-crystal-ball.json](./93442-crystal-ball.json) |
+| Crystal Ball of Firmament | 335189 | [335189-crystal-ball-of-firmament.json](./335189-crystal-ball-of-firmament.json) |
 | Crystal Blast VR | 243581 | [243581-crystal-blast-vr.json](./243581-crystal-blast-vr.json) |
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Breaker Inc. | 419156 | [419156-crystal-breaker-inc.json](./419156-crystal-breaker-inc.json) |
@@ -17318,6 +17324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle of Eternity: Space Anomaly | 90686 | [90686-cycle-of-eternity-space-anomaly.json](./90686-cycle-of-eternity-space-anomaly.json) |
 | Cycle of Pawmerce | 176803 | [176803-cycle-of-pawmerce.json](./176803-cycle-of-pawmerce.json) |
 | Cycle of Steel | 339360 | [339360-cycle-of-steel.json](./339360-cycle-of-steel.json) |
+| Cycle of Struggle: Ardengrad | 335197 | [335197-cycle-of-struggle-ardengrad.json](./335197-cycle-of-struggle-ardengrad.json) |
 | Cycle of the Moon | 216757 | [216757-cycle-of-the-moon.json](./216757-cycle-of-the-moon.json) |
 | Cycle Race: Road Man | 48532 | [48532-cycle-race-road-man.json](./48532-cycle-race-road-man.json) |
 | Cycle Warriors | 39828 | [39828-cycle-warriors.json](./39828-cycle-warriors.json) |
