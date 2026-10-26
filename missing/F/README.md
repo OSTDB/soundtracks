@@ -10963,6 +10963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fukuro to Subaru | 326946 | [326946-fukuro-to-subaru.json](./326946-fukuro-to-subaru.json) |
 | Fukyou no Hana: Snow Flower | 288440 | [288440-fukyou-no-hana-snow-flower.json](./288440-fukyou-no-hana-snow-flower.json) |
 | Fulcrum | 58284 | [58284-fulcrum.json](./58284-fulcrum.json) |
+| Fulcrum Defender | 340846 | [340846-fulcrum-defender.json](./340846-fulcrum-defender.json) |
 | Fulcrum Frenzy | 183006 | [183006-fulcrum-frenzy.json](./183006-fulcrum-frenzy.json) |
 | Fule | 305537 | [305537-fule.json](./305537-fule.json) |
 | Fulfill the Dream | 338811 | [338811-fulfill-the-dream.json](./338811-fulfill-the-dream.json) |
