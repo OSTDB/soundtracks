@@ -9791,6 +9791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
 | Freegglers | 185159 | [185159-freegglers.json](./185159-freegglers.json) |
+| FreeGuessr | 338640 | [338640-freeguessr.json](./338640-freeguessr.json) |
 | Freehand Solitaire | 90497 | [90497-freehand-solitaire.json](./90497-freehand-solitaire.json) |
 | FreeHolder | 32937 | [32937-freeholder.json](./32937-freeholder.json) |
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
