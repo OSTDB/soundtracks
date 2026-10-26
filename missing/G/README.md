@@ -340,6 +340,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkou wo Tsukurou!! 2 | 363956 | [363956-gakkou-wo-tsukurou-2.json](./363956-gakkou-wo-tsukurou-2.json) |
 | Gakkou wo Tsukurou!! Advance | 49565 | [49565-gakkou-wo-tsukurou-advance.json](./49565-gakkou-wo-tsukurou-advance.json) |
 | Gakkou wo Tsukurou!! Happy Days | 326855 | [326855-gakkou-wo-tsukurou-happy-days.json](./326855-gakkou-wo-tsukurou-happy-days.json) |
+| Gakkou wo Tsukurou!! Kouchou Sensei Monogatari | 354924 | [354924-gakkou-wo-tsukurou-kouchou-sensei-monogatari.json](./354924-gakkou-wo-tsukurou-kouchou-sensei-monogatari.json) |
+| Gakkou wo Tsukurou!! Let's Make a School!! | 354922 | [354922-gakkou-wo-tsukurou-lets-make-a-school.json](./354922-gakkou-wo-tsukurou-lets-make-a-school.json) |
 | Gakkyu Ou Yamazaki | 281423 | [281423-gakkyu-ou-yamazaki.json](./281423-gakkyu-ou-yamazaki.json) |
 | Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou! | 130351 | [130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json](./130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json) |
 | Gaku Ou: The Royal Seven Stars + Meteor | 399882 | [399882-gaku-ou-the-royal-seven-stars-meteor.json](./399882-gaku-ou-the-royal-seven-stars-meteor.json) |
@@ -4137,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchhikers: The Spaces Between - Chill Beats Edition | 205228 | [205228-glitchhikers-the-spaces-between-chill-beats-edition.json](./205228-glitchhikers-the-spaces-between-chill-beats-edition.json) |
 | Glitchhikers: The Spaces Between - Deluxe Glitchpod Edition | 205227 | [205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json](./205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json) |
 | Glitchia | 384579 | [384579-glitchia.json](./384579-glitchia.json) |
+| Glitchout | 355048 | [355048-glitchout.json](./355048-glitchout.json) |
 | Glitchphobia | 139462 | [139462-glitchphobia.json](./139462-glitchphobia.json) |
 | GlitchPoly | 140396 | [140396-glitchpoly.json](./140396-glitchpoly.json) |
 | Glitchpunk | 142927 | [142927-glitchpunk.json](./142927-glitchpunk.json) |
@@ -5363,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Goblet | 185505 | [185505-golden-goblet.json](./185505-golden-goblet.json) |
 | Golden Hornet | 83348 | [83348-golden-hornet.json](./83348-golden-hornet.json) |
 | Golden Hour | 401159 | [401159-golden-hour.json](./401159-golden-hour.json) |
+| Golden Idol Investigations: Detective Pass | 355044 | [355044-golden-idol-investigations-detective-pass.json](./355044-golden-idol-investigations-detective-pass.json) |
 | Golden Idol Investigations: The Lemurian Phoenix | 342844 | [342844-golden-idol-investigations-the-lemurian-phoenix.json](./342844-golden-idol-investigations-the-lemurian-phoenix.json) |
 | Golden Idol Investigations: The Sins of New Wells | 333390 | [333390-golden-idol-investigations-the-sins-of-new-wells.json](./333390-golden-idol-investigations-the-sins-of-new-wells.json) |
 | Golden Idol Mysteries: DLC Bundle | 268569 | [268569-golden-idol-mysteries-dlc-bundle.json](./268569-golden-idol-mysteries-dlc-bundle.json) |
@@ -6818,6 +6822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grasshopper Collection | 349959 | [349959-grasshopper-collection.json](./349959-grasshopper-collection.json) |
 | Grasshopper Farm | 134026 | [134026-grasshopper-farm.json](./134026-grasshopper-farm.json) |
 | Grassland Defender Keita | 211074 | [211074-grassland-defender-keita.json](./211074-grassland-defender-keita.json) |
+| Grassland Planet | 354919 | [354919-grassland-planet.json](./354919-grassland-planet.json) |
 | Grater | 115629 | [115629-grater.json](./115629-grater.json) |
 | Gratia | 183021 | [183021-gratia.json](./183021-gratia.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
