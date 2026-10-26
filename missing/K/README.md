@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaidi Armed With a Cat | 113501 | [113501-kaidi-armed-with-a-cat.json](./113501-kaidi-armed-with-a-cat.json) |
 | Kaido Battle 2: Chain Reaction | 36744 | [36744-kaido-battle-2-chain-reaction.json](./36744-kaido-battle-2-chain-reaction.json) |
 | Kaido Genkai | 349376 | [349376-kaido-genkai.json](./349376-kaido-genkai.json) |
+| Kaidogaku | 380491 | [380491-kaidogaku.json](./380491-kaidogaku.json) |
 | Kaidop | 297901 | [297901-kaidop.json](./297901-kaidop.json) |
 | Kaidou ni Kisu | 380806 | [380806-kaidou-ni-kisu.json](./380806-kaidou-ni-kisu.json) |
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
@@ -2327,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2708,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Hand: Seasonal Winter Pack | 230918 | [230918-kings-hand-seasonal-winter-pack.json](./230918-kings-hand-seasonal-winter-pack.json) |
 | King's Heir: Rise to the Throne | 102885 | [102885-kings-heir-rise-to-the-throne.json](./102885-kings-heir-rise-to-the-throne.json) |
 | King's Helper | 173039 | [173039-kings-helper.json](./173039-kings-helper.json) |
+| King's Justice | 380503 | [380503-kings-justice.json](./380503-kings-justice.json) |
 | King's Knight | 307938 | [307938-kings-knight.json](./307938-kings-knight.json) |
 | King's Knight | 41723 | [41723-kings-knight.json](./41723-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
