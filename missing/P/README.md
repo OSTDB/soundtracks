@@ -1918,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel | 17699 | [17699-parcel.json](./17699-parcel.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
+| Parcel Frenzy: Get To Work! | 357149 | [357149-parcel-frenzy-get-to-work.json](./357149-parcel-frenzy-get-to-work.json) |
 | Parcel Mania | 275533 | [275533-parcel-mania.json](./275533-parcel-mania.json) |
 | Parcel Packing Simulator | 263994 | [263994-parcel-packing-simulator.json](./263994-parcel-packing-simulator.json) |
 | Parcel Panic | 125093 | [125093-parcel-panic.json](./125093-parcel-panic.json) |
