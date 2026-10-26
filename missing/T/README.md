@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
 | Tanks vs. Aliens | 36500 | [36500-tanks-vs-aliens.json](./36500-tanks-vs-aliens.json) |
 | Tanks With Hands: Armed and Treaded | 107787 | [107787-tanks-with-hands-armed-and-treaded.json](./107787-tanks-with-hands-armed-and-treaded.json) |
+| Tanks: 1985 | 370655 | [370655-tanks-1985.json](./370655-tanks-1985.json) |
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
 | Tanks!!! | 91260 | [91260-tanks.json](./91260-tanks.json) |
@@ -2189,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Task Men | 160095 | [160095-task-men.json](./160095-task-men.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
+| Taskbar Looters | 370626 | [370626-taskbar-looters.json](./370626-taskbar-looters.json) |
 | TaskForce Gamma-13 : An SCP Tale | 127609 | [127609-taskforce-gamma-13-an-scp-tale.json](./127609-taskforce-gamma-13-an-scp-tale.json) |
 | Taskforce: The Mutants of October Morgane | 153493 | [153493-taskforce-the-mutants-of-october-morgane.json](./153493-taskforce-the-mutants-of-october-morgane.json) |
 | Tasking | 261973 | [261973-tasking.json](./261973-tasking.json) |
@@ -3538,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tensura: King of Monsters | 142849 | [142849-tensura-king-of-monsters.json](./142849-tensura-king-of-monsters.json) |
 | Tenta Shooter | 76057 | [76057-tenta-shooter.json](./76057-tenta-shooter.json) |
+| Tentacaliens: Making Ends Meet in a New World | 370741 | [370741-tentacaliens-making-ends-meet-in-a-new-world.json](./370741-tentacaliens-making-ends-meet-in-a-new-world.json) |
 | TentaCat: The Lost Lineage | 285894 | [285894-tentacat-the-lost-lineage.json](./285894-tentacat-the-lost-lineage.json) |
 | Tentacle Fight | 97740 | [97740-tentacle-fight.json](./97740-tentacle-fight.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim | 226607 | [226607-tentacle-prawn-actually-a-cthulhu-dating-sim.json](./226607-tentacle-prawn-actually-a-cthulhu-dating-sim.json) |
@@ -7815,6 +7818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fidelity Chessmaster 2100 | 15875 | [15875-the-fidelity-chessmaster-2100.json](./15875-the-fidelity-chessmaster-2100.json) |
 | The Fidelity Ultimate Chess Challenge | 70778 | [70778-the-fidelity-ultimate-chess-challenge.json](./70778-the-fidelity-ultimate-chess-challenge.json) |
 | The Fidgetts | 49000 | [49000-the-fidgetts.json](./49000-the-fidgetts.json) |
+| The Field Between | 370732 | [370732-the-field-between.json](./370732-the-field-between.json) |
 | The Field Trip Murders | 231460 | [231460-the-field-trip-murders.json](./231460-the-field-trip-murders.json) |
 | The Fielder's Choice | 89005 | [89005-the-fielders-choice.json](./89005-the-fielders-choice.json) |
 | The Fielder's Choice | 89409 | [89409-the-fielders-choice.json](./89409-the-fielders-choice.json) |
@@ -16697,6 +16701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
 | This Ain't A Normal Game | 177206 | [177206-this-aint-a-normal-game.json](./177206-this-aint-a-normal-game.json) |
 | This Ain’t Even Poker, Ya Joker | 374650 | [374650-this-ain-t-even-poker-ya-joker.json](./374650-this-ain-t-even-poker-ya-joker.json) |
+| This Be Mutiny | 370738 | [370738-this-be-mutiny.json](./370738-this-be-mutiny.json) |
 | This Body Isn't Yours | 364659 | [364659-this-body-isnt-yours.json](./364659-this-body-isnt-yours.json) |
 | This Book Is A Dungeon | 34416 | [34416-this-book-is-a-dungeon.json](./34416-this-book-is-a-dungeon.json) |
 | This Box Conveys People | 144239 | [144239-this-box-conveys-people.json](./144239-this-box-conveys-people.json) |
@@ -20052,6 +20057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
 | To Be a HerpWitch | 135033 | [135033-to-be-a-herpwitch.json](./135033-to-be-a-herpwitch.json) |
 | To Be A King: Volume 1 | 254754 | [254754-to-be-a-king-volume-1.json](./254754-to-be-a-king-volume-1.json) |
+| To Be Altered | 370664 | [370664-to-be-altered.json](./370664-to-be-altered.json) |
 | To Be Besieged | 416765 | [416765-to-be-besieged.json](./416765-to-be-besieged.json) |
 | To Be Connected | 390596 | [390596-to-be-connected.json](./390596-to-be-connected.json) |
 | To Be In Love With Girls Group | 289941 | [289941-to-be-in-love-with-girls-group.json](./289941-to-be-in-love-with-girls-group.json) |
