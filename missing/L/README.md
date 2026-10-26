@@ -6440,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lore: Curse of the Elemental | 244770 | [244770-lore-curse-of-the-elemental.json](./244770-lore-curse-of-the-elemental.json) |
 | Lore: The Hunt | 144066 | [144066-lore-the-hunt.json](./144066-lore-the-hunt.json) |
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
+| Loreen's Purgatory | 381668 | [381668-loreens-purgatory.json](./381668-loreens-purgatory.json) |
 | Lorelai | 110875 | [110875-lorelai.json](./110875-lorelai.json) |
 | Lorelei and the Laser Eyes | 206806 | [206806-lorelei-and-the-laser-eyes.json](./206806-lorelei-and-the-laser-eyes.json) |
 | Lorem Gioco | 381681 | [381681-lorem-gioco.json](./381681-lorem-gioco.json) |
