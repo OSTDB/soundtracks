@@ -9024,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fostr | 395807 | [395807-fostr.json](./395807-fostr.json) |
 | Foto Babes | 114556 | [114556-foto-babes.json](./114556-foto-babes.json) |
 | Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
+| Foto Boy: Flashstar | 343721 | [343721-foto-boy-flashstar.json](./343721-foto-boy-flashstar.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foto Frenzy | 78070 | [78070-foto-frenzy.json](./78070-foto-frenzy.json) |
 | Foto Showdown | 47903 | [47903-foto-showdown.json](./47903-foto-showdown.json) |
