@@ -6056,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland Dizzy | 152001 | [152001-wonderland-dizzy.json](./152001-wonderland-dizzy.json) |
 | Wonderland Mahjong | 415957 | [415957-wonderland-mahjong.json](./415957-wonderland-mahjong.json) |
 | Wonderland Nights: White Rabbit's Diary | 151705 | [151705-wonderland-nights-white-rabbits-diary.json](./151705-wonderland-nights-white-rabbits-diary.json) |
+| Wonderland on Desktop | 354936 | [354936-wonderland-on-desktop.json](./354936-wonderland-on-desktop.json) |
 | Wonderland Online | 158149 | [158149-wonderland-online.json](./158149-wonderland-online.json) |
 | Wonderland Quest | 216482 | [216482-wonderland-quest.json](./216482-wonderland-quest.json) |
 | Wonderland Secret Worlds | 260964 | [260964-wonderland-secret-worlds.json](./260964-wonderland-secret-worlds.json) |
