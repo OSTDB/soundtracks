@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon City Riders: Super-Powered Edition | 169181 | [169181-neon-city-riders-super-powered-edition.json](./169181-neon-city-riders-super-powered-edition.json) |
 | Neon Clash: Echoes of the Lost | 276732 | [276732-neon-clash-echoes-of-the-lost.json](./276732-neon-clash-echoes-of-the-lost.json) |
 | Neon Coliseum | 55612 | [55612-neon-coliseum.json](./55612-neon-coliseum.json) |
+| Neon Colony | 349212 | [349212-neon-colony.json](./349212-neon-colony.json) |
 | Neon Cyber Samurai | 211993 | [211993-neon-cyber-samurai.json](./211993-neon-cyber-samurai.json) |
 | Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
 | Neon Dan | 282829 | [282829-neon-dan.json](./282829-neon-dan.json) |
@@ -2111,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Haze | 152042 | [152042-neon-haze.json](./152042-neon-haze.json) |
 | Neon Hearts City | 331383 | [331383-neon-hearts-city.json](./331383-neon-hearts-city.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
+| Neon Highways | 349203 | [349203-neon-highways.json](./349203-neon-highways.json) |
 | Neon Hockey | 63176 | [63176-neon-hockey.json](./63176-neon-hockey.json) |
 | Neon Hyperdrive | 356008 | [356008-neon-hyperdrive.json](./356008-neon-hyperdrive.json) |
 | Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
@@ -2121,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Kicks | 117462 | [117462-neon-kicks.json](./117462-neon-kicks.json) |
 | Neon Knight | 160295 | [160295-neon-knight.json](./160295-neon-knight.json) |
 | Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
+| Neon Knives | 349204 | [349204-neon-knives.json](./349204-neon-knives.json) |
 | Neon Krieger Yamato | 82357 | [82357-neon-krieger-yamato.json](./82357-neon-krieger-yamato.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Life | 279859 | [279859-neon-life.json](./279859-neon-life.json) |
@@ -2208,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Village | 302358 | [302358-neon-village.json](./302358-neon-village.json) |
 | Neon Void Runner | 96905 | [96905-neon-void-runner.json](./96905-neon-void-runner.json) |
 | Neon Warfare: CyberArena | 399664 | [399664-neon-warfare-cyberarena.json](./399664-neon-warfare-cyberarena.json) |
+| Neon Warfield | 349213 | [349213-neon-warfield.json](./349213-neon-warfield.json) |
 | Neon Warp | 32458 | [32458-neon-warp.json](./32458-neon-warp.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
@@ -2421,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nethercard Kingdom | 182870 | [182870-nethercard-kingdom.json](./182870-nethercard-kingdom.json) |
 | Nethergate | 94652 | [94652-nethergate.json](./94652-nethergate.json) |
 | Nethergate: Resurrection | 16405 | [16405-nethergate-resurrection.json](./16405-nethergate-resurrection.json) |
+| Nethermage | 349227 | [349227-nethermage.json](./349227-nethermage.json) |
 | Nethernovel | 259992 | [259992-nethernovel.json](./259992-nethernovel.json) |
 | Netherside | 152364 | [152364-netherside.json](./152364-netherside.json) |
 | Netherspace | 190942 | [190942-netherspace.json](./190942-netherspace.json) |
