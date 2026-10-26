@@ -10796,6 +10796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liftboy | 346377 | [346377-the-liftboy.json](./346377-the-liftboy.json) |
 | The Light | 53757 | [53757-the-light.json](./53757-the-light.json) |
 | The Light Ahead | 257817 | [257817-the-light-ahead.json](./257817-the-light-ahead.json) |
+| The Light and the Shadow | 363326 | [363326-the-light-and-the-shadow.json](./363326-the-light-and-the-shadow.json) |
 | The Light at the End of the Ocean | 168635 | [168635-the-light-at-the-end-of-the-ocean.json](./168635-the-light-at-the-end-of-the-ocean.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
 | The Light Brigade | 224505 | [224505-the-light-brigade.json](./224505-the-light-brigade.json) |
