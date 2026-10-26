@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Chaos: The Strict Order | 211677 | [211677-red-chaos-the-strict-order.json](./211677-red-chaos-the-strict-order.json) |
 | Red Chat Ritual: Tsumimi Time | 400336 | [400336-red-chat-ritual-tsumimi-time.json](./400336-red-chat-ritual-tsumimi-time.json) |
 | Red Christmas | 383580 | [383580-red-christmas.json](./383580-red-christmas.json) |
+| Red Circuit Rebellion | 371946 | [371946-red-circuit-rebellion.json](./371946-red-circuit-rebellion.json) |
 | Red Clash | 251368 | [251368-red-clash.json](./251368-red-clash.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Colony 2 | 153796 | [153796-red-colony-2.json](./153796-red-colony-2.json) |
@@ -3891,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnation: A Demon's Day Out | 387952 | [387952-reincarnation-a-demons-day-out.json](./387952-reincarnation-a-demons-day-out.json) |
+| Reincarnation: Hero of the Gun | 371924 | [371924-reincarnation-hero-of-the-gun.json](./371924-reincarnation-hero-of-the-gun.json) |
 | Reincarnations: Awakening | 65846 | [65846-reincarnations-awakening.json](./65846-reincarnations-awakening.json) |
 | Reincarnations: Uncover the Past | 209209 | [209209-reincarnations-uncover-the-past.json](./209209-reincarnations-uncover-the-past.json) |
 | Reincarnator | 391887 | [391887-reincarnator.json](./391887-reincarnator.json) |
