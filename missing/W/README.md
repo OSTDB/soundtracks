@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - Necromancer | 262658 | [262658-warhammer-vermintide-2-necromancer.json](./262658-warhammer-vermintide-2-necromancer.json) |
 | Warhammer: Vermintide 2 - Outcast Engineer Career | 155704 | [155704-warhammer-vermintide-2-outcast-engineer-career.json](./155704-warhammer-vermintide-2-outcast-engineer-career.json) |
 | Warhammer: Vermintide 2 - Premium Edition | 119075 | [119075-warhammer-vermintide-2-premium-edition.json](./119075-warhammer-vermintide-2-premium-edition.json) |
+| Warhammer: Vermintide 2 - Return to the Reik | 378219 | [378219-warhammer-vermintide-2-return-to-the-reik.json](./378219-warhammer-vermintide-2-return-to-the-reik.json) |
 | Warhammer: Vermintide 2 - Shadows over Bögenhafen | 116130 | [116130-warhammer-vermintide-2-shadows-over-bogenhafen.json](./116130-warhammer-vermintide-2-shadows-over-bogenhafen.json) |
 | Warhammer: Vermintide 2 - Sister of the Thorn | 155702 | [155702-warhammer-vermintide-2-sister-of-the-thorn.json](./155702-warhammer-vermintide-2-sister-of-the-thorn.json) |
 | Warhammer: Vermintide 2 - Ultimate Edition | 118700 | [118700-warhammer-vermintide-2-ultimate-edition.json](./118700-warhammer-vermintide-2-ultimate-edition.json) |
@@ -2221,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waxwing Radio | 298829 | [298829-waxwing-radio.json](./298829-waxwing-radio.json) |
 | Waxworks | 24694 | [24694-waxworks.json](./24694-waxworks.json) |
 | Waxworks: Curse of the Ancestors | 126548 | [126548-waxworks-curse-of-the-ancestors.json](./126548-waxworks-curse-of-the-ancestors.json) |
+| Waxy: The Wick and The Witch | 378255 | [378255-waxy-the-wick-and-the-witch.json](./378255-waxy-the-wick-and-the-witch.json) |
 | Way | 98872 | [98872-way.json](./98872-way.json) |
 | Way Back Home | 127742 | [127742-way-back-home.json](./127742-way-back-home.json) |
 | Way Back Home | 128899 | [128899-way-back-home.json](./128899-way-back-home.json) |
@@ -3545,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
 | Where the Goats Are | 74252 | [74252-where-the-goats-are.json](./74252-where-the-goats-are.json) |
 | Where the Heart Leads | 135615 | [135615-where-the-heart-leads.json](./135615-where-the-heart-leads.json) |
+| Where the Heart Rests | 378243 | [378243-where-the-heart-rests.json](./378243-where-the-heart-rests.json) |
 | Where the Hell Am I? | 390211 | [390211-where-the-hell-am-i.json](./390211-where-the-hell-am-i.json) |
 | Where the Moon Goes at Night | 130568 | [130568-where-the-moon-goes-at-night.json](./130568-where-the-moon-goes-at-night.json) |
 | Where the Music Dies | 277344 | [277344-where-the-music-dies.json](./277344-where-the-music-dies.json) |
