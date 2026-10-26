@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hole New World: Deluxe Edition | 52536 | [52536-a-hole-new-world-deluxe-edition.json](./52536-a-hole-new-world-deluxe-edition.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
+| A Hollow Harvest | 375855 | [375855-a-hollow-harvest.json](./375855-a-hollow-harvest.json) |
 | A Hollow Heartbeat | 389012 | [389012-a-hollow-heartbeat.json](./389012-a-hollow-heartbeat.json) |
 | A Home Far Away | 124617 | [124617-a-home-far-away.json](./124617-a-home-far-away.json) |
 | A Home of Quiet | 421834 | [421834-a-home-of-quiet.json](./421834-a-home-of-quiet.json) |
@@ -1195,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wheel Without a View | 177319 | [177319-a-wheel-without-a-view.json](./177319-a-wheel-without-a-view.json) |
 | A Whisper in the Twilight: Chapter One | 251990 | [251990-a-whisper-in-the-twilight-chapter-one.json](./251990-a-whisper-in-the-twilight-chapter-one.json) |
 | A Whisper in the Twilight: Chapter Two | 338298 | [338298-a-whisper-in-the-twilight-chapter-two.json](./338298-a-whisper-in-the-twilight-chapter-two.json) |
+| A Whisper of Fall: Jinyiwei | 375872 | [375872-a-whisper-of-fall-jinyiwei.json](./375872-a-whisper-of-fall-jinyiwei.json) |
 | A white horse is not a horse | 192183 | [192183-a-white-horse-is-not-a-horse.json](./192183-a-white-horse-is-not-a-horse.json) |
 | A Whittle Tale | 384174 | [384174-a-whittle-tale.json](./384174-a-whittle-tale.json) |
 | A Whole New Ball Game | 304311 | [304311-a-whole-new-ball-game.json](./304311-a-whole-new-ball-game.json) |
@@ -7479,6 +7481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
 | Anagrams | 354962 | [354962-anagrams.json](./354962-anagrams.json) |
+| Anagrams | 375888 | [375888-anagrams.json](./375888-anagrams.json) |
 | Anagraphs: An Anagram Game With a Twist | 153087 | [153087-anagraphs-an-anagram-game-with-a-twist.json](./153087-anagraphs-an-anagram-game-with-a-twist.json) |
 | Anaheim Girl's Love Story | 83387 | [83387-anaheim-girls-love-story.json](./83387-anaheim-girls-love-story.json) |
 | Anahita | 81133 | [81133-anahita.json](./81133-anahita.json) |
@@ -7911,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angela's Valentine | 350589 | [350589-angelas-valentine.json](./350589-angelas-valentine.json) |
 | Angelblood | 294555 | [294555-angelblood.json](./294555-angelblood.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
+| Angelface | 375907 | [375907-angelface.json](./375907-angelface.json) |
 | Angelfish | 69713 | [69713-angelfish.json](./69713-angelfish.json) |
 | AngelGaze | 311184 | [311184-angelgaze.json](./311184-angelgaze.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
@@ -13043,6 +13047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids... But Roguelite | 168640 | [168640-asteroids-but-roguelite.json](./168640-asteroids-but-roguelite.json) |
 | Asteroids++ | 178978 | [178978-asteroids.json](./178978-asteroids.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
+| AsteroidZ | 375795 | [375795-asteroidz.json](./375795-asteroidz.json) |
 | Asterook | 129654 | [129654-asterook.json](./129654-asterook.json) |
 | Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
 | Asterrunner | 149721 | [149721-asterrunner.json](./149721-asterrunner.json) |
@@ -13298,6 +13303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro-Blast | 109192 | [109192-astro-blast.json](./109192-astro-blast.json) |
 | Astro-Dodge | 25156 | [25156-astro-dodge.json](./25156-astro-dodge.json) |
 | Astro-g | 133366 | [133366-astro-g.json](./133366-astro-g.json) |
+| Astro-Quotes | 375901 | [375901-astro-quotes.json](./375901-astro-quotes.json) |
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
 | Astro4x | 118009 | [118009-astro4x.json](./118009-astro4x.json) |
 | AstroAvenger | 80352 | [80352-astroavenger.json](./80352-astroavenger.json) |
@@ -14497,6 +14503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista 2: Endurance Pack Pt2 | 352739 | [352739-automobilista-2-endurance-pack-pt2.json](./352739-automobilista-2-endurance-pack-pt2.json) |
 | Automobilista 2: Formula HiTech | 278171 | [278171-automobilista-2-formula-hitech.json](./278171-automobilista-2-formula-hitech.json) |
 | Automobilista 2: Historical Track Pack Pt2 | 278172 | [278172-automobilista-2-historical-track-pack-pt2.json](./278172-automobilista-2-historical-track-pack-pt2.json) |
+| Automobilista 2: Historical Track Pack Pt3 | 375798 | [375798-automobilista-2-historical-track-pack-pt3.json](./375798-automobilista-2-historical-track-pack-pt3.json) |
 | Automobilista 2: Hockenheimring Pack | 156164 | [156164-automobilista-2-hockenheimring-pack.json](./156164-automobilista-2-hockenheimring-pack.json) |
 | Automobilista 2: IMSA Track Pack | 352742 | [352742-automobilista-2-imsa-track-pack.json](./352742-automobilista-2-imsa-track-pack.json) |
 | Automobilista 2: Lamborghini Dream Pack Pt1 | 352740 | [352740-automobilista-2-lamborghini-dream-pack-pt1.json](./352740-automobilista-2-lamborghini-dream-pack-pt1.json) |
