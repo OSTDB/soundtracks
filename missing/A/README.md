@@ -9182,6 +9182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Attack | 13954 | [13954-ant-attack.json](./13954-ant-attack.json) |
 | Ant Attack | 303148 | [303148-ant-attack.json](./303148-ant-attack.json) |
 | Ant Colony | 42163 | [42163-ant-colony.json](./42163-ant-colony.json) |
+| Ant Colony: Wild Forest | 336448 | [336448-ant-colony-wild-forest.json](./336448-ant-colony-wild-forest.json) |
 | Ant Destroyer 2 | 102596 | [102596-ant-destroyer-2.json](./102596-ant-destroyer-2.json) |
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
 | Ant Farm Simulator | 277847 | [277847-ant-farm-simulator.json](./277847-ant-farm-simulator.json) |
@@ -9569,6 +9570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APE | 404982 | [404982-ape.json](./404982-ape.json) |
 | Ape Academy 2 | 242358 | [242358-ape-academy-2.json](./242358-ape-academy-2.json) |
 | Ape Academy 2 | 37047 | [37047-ape-academy-2.json](./37047-ape-academy-2.json) |
+| Ape Drop | 336471 | [336471-ape-drop.json](./336471-ape-drop.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape | 203212 | [203212-ape-escape.json](./203212-ape-escape.json) |
 | Ape Escape | 3762 | [3762-ape-escape.json](./3762-ape-escape.json) |
@@ -12202,6 +12204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Adventure | 26468 | [26468-artifact-adventure.json](./26468-artifact-adventure.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Conquest | 238538 | [238538-artifact-conquest.json](./238538-artifact-conquest.json) |
+| Artifact Escape Room Bundle | 336441 | [336441-artifact-escape-room-bundle.json](./336441-artifact-escape-room-bundle.json) |
 | Artifact Foundry | 159594 | [159594-artifact-foundry.json](./159594-artifact-foundry.json) |
 | Artifact Hunt: Yao | 390435 | [390435-artifact-hunt-yao.json](./390435-artifact-hunt-yao.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
