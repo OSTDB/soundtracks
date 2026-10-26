@@ -3708,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Athena | 310496 | [310496-battleship-athena.json](./310496-battleship-athena.json) |
 | Battleship Avalon | 309539 | [309539-battleship-avalon.json](./309539-battleship-avalon.json) |
 | Battleship Bishojo | 29021 | [29021-battleship-bishojo.json](./29021-battleship-bishojo.json) |
+| Battleship Blitz | 374103 | [374103-battleship-blitz.json](./374103-battleship-blitz.json) |
 | Battleship Command | 403062 | [403062-battleship-command.json](./403062-battleship-command.json) |
 | Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
 | Battleship Empire | 103104 | [103104-battleship-empire.json](./103104-battleship-empire.json) |
@@ -14705,6 +14706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger World | 181794 | [181794-burger-world.json](./181794-burger-world.json) |
 | Burger Yum! | 233995 | [233995-burger-yum.json](./233995-burger-yum.json) |
 | Burger Zombies | 253502 | [253502-burger-zombies.json](./253502-burger-zombies.json) |
+| Burger, No Please! | 374110 | [374110-burger-no-please.json](./374110-burger-no-please.json) |
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
 | Burger: The Tasty Burger Game | 87294 | [87294-burger-the-tasty-burger-game.json](./87294-burger-the-tasty-burger-game.json) |
 | Burgerkill | 66987 | [66987-burgerkill.json](./66987-burgerkill.json) |
