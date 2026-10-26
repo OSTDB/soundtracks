@@ -8113,6 +8113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge and Fight | 118768 | [118768-forge-and-fight.json](./118768-forge-and-fight.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
 | Forge Horizon | 235805 | [235805-forge-horizon.json](./235805-forge-horizon.json) |
+| Forge Master | 380481 | [380481-forge-master.json](./380481-forge-master.json) |
 | Forge of Destiny | 226348 | [226348-forge-of-destiny.json](./226348-forge-of-destiny.json) |
 | Forge of Empires | 62923 | [62923-forge-of-empires.json](./62923-forge-of-empires.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
