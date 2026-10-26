@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawtastic Diner | 305427 | [305427-pawtastic-diner.json](./305427-pawtastic-diner.json) |
 | Paww: Feline Fatale | 397899 | [397899-paww-feline-fatale.json](./397899-paww-feline-fatale.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
+| Pax Autocratica | 358217 | [358217-pax-autocratica.json](./358217-pax-autocratica.json) |
 | Pax Corpus | 44845 | [44845-pax-corpus.json](./44845-pax-corpus.json) |
 | Pax Hispanica | 356268 | [356268-pax-hispanica.json](./356268-pax-hispanica.json) |
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
