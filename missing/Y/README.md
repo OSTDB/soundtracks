@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakiniku Bugyou Bonfire! | 394685 | [394685-yakiniku-bugyou-bonfire.json](./394685-yakiniku-bugyou-bonfire.json) |
 | Yakiniku Simulatior | 203886 | [203886-yakiniku-simulatior.json](./203886-yakiniku-simulatior.json) |
 | Yakitate!! Japan | 124154 | [124154-yakitate-japan.json](./124154-yakitate-japan.json) |
+| Yakitori Musume: Sugo Ude Hanjouki | 376529 | [376529-yakitori-musume-sugo-ude-hanjouki.json](./376529-yakitori-musume-sugo-ude-hanjouki.json) |
 | Yako | 220731 | [220731-yako.json](./220731-yako.json) |
 | Yãkoana: Dreams of Resistance | 400389 | [400389-yakoana-dreams-of-resistance.json](./400389-yakoana-dreams-of-resistance.json) |
 | Yakoh: Shinobi Ops | 389431 | [389431-yakoh-shinobi-ops.json](./389431-yakoh-shinobi-ops.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
 | Yume Nikki Jam 2018 Submission | 229601 | [229601-yume-nikki-jam-2018-submission.json](./229601-yume-nikki-jam-2018-submission.json) |
+| Yume Nikki PS | 376501 | [376501-yume-nikki-ps.json](./376501-yume-nikki-ps.json) |
 | Yume Nikki Rythm | 229600 | [229600-yume-nikki-rythm.json](./229600-yume-nikki-rythm.json) |
 | Yume Nikki Space | 307052 | [307052-yume-nikki-space.json](./307052-yume-nikki-space.json) |
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
