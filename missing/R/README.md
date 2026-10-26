@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Ravenwood | 312280 | [312280-ravenwood.json](./312280-ravenwood.json) |
+| Ravenwood 46 | 373051 | [373051-ravenwood-46.json](./373051-ravenwood-46.json) |
 | Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
 | Ravenwood Acres | 268981 | [268981-ravenwood-acres.json](./268981-ravenwood-acres.json) |
 | Ravenwood Drive | 311626 | [311626-ravenwood-drive.json](./311626-ravenwood-drive.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recalhorn | 257330 | [257330-recalhorn.json](./257330-recalhorn.json) |
 | Recall | 154397 | [154397-recall.json](./154397-recall.json) |
 | Recall | 309570 | [309570-recall.json](./309570-recall.json) |
+| Recall News | 372978 | [372978-recall-news.json](./372978-recall-news.json) |
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recca no Honoo: Flame of Recca - Final Burning | 61445 | [61445-recca-no-honoo-flame-of-recca-final-burning.json](./61445-recca-no-honoo-flame-of-recca-final-burning.json) |
