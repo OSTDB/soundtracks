@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Road Home | 29890 | [29890-a-long-road-home.json](./29890-a-long-road-home.json) |
 | A Long Time | 384292 | [384292-a-long-time.json](./384292-a-long-time.json) |
 | A Long Walk Home | 278325 | [278325-a-long-walk-home.json](./278325-a-long-walk-home.json) |
+| A Long Walk Home | 340859 | [340859-a-long-walk-home.json](./340859-a-long-walk-home.json) |
 | A Long Walk Home | 362232 | [362232-a-long-walk-home.json](./362232-a-long-walk-home.json) |
 | A Long Way Down | 101328 | [101328-a-long-way-down.json](./101328-a-long-way-down.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
@@ -4588,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
 | Airborne Motocross | 196639 | [196639-airborne-motocross.json](./196639-airborne-motocross.json) |
 | Airborne Ranger | 11891 | [11891-airborne-ranger.json](./11891-airborne-ranger.json) |
+| Airborne Ranger: FightOut | 340838 | [340838-airborne-ranger-fightout.json](./340838-airborne-ranger-fightout.json) |
 | Airborne Troops: Countdown to D-Day | 27451 | [27451-airborne-troops-countdown-to-d-day.json](./27451-airborne-troops-countdown-to-d-day.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
@@ -9419,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
 | Any Landing | 174621 | [174621-any-landing.json](./174621-any-landing.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
+| ANY SAND | 340829 | [340829-any-sand.json](./340829-any-sand.json) |
 | Any Way Out | 298447 | [298447-any-way-out.json](./298447-any-way-out.json) |
 | Any World | 192794 | [192794-any-world.json](./192794-any-world.json) |
 | Any.One Online | 209772 | [209772-any-one-online.json](./209772-any-one-online.json) |
@@ -10519,6 +10522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
 | Arcade Archives: Task Force Harrier | 148323 | [148323-arcade-archives-task-force-harrier.json](./148323-arcade-archives-task-force-harrier.json) |
+| Arcade Archives: Tatakae! Big Fighter | 340833 | [340833-arcade-archives-tatakae-big-fighter.json](./340833-arcade-archives-tatakae-big-fighter.json) |
 | Arcade Archives: Tecmo Bowl | 147117 | [147117-arcade-archives-tecmo-bowl.json](./147117-arcade-archives-tecmo-bowl.json) |
 | Arcade Archives: Tecmo Stackers | 313224 | [313224-arcade-archives-tecmo-stackers.json](./313224-arcade-archives-tecmo-stackers.json) |
 | Arcade Archives: Terra Cresta | 99786 | [99786-arcade-archives-terra-cresta.json](./99786-arcade-archives-terra-cresta.json) |
@@ -11169,6 +11173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
 | Are You Afraid of the Dark? The Tale of Orpheo's Curse | 2208 | [2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json](./2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json) |
 | Are You Alone? | 342534 | [342534-are-you-alone.json](./342534-are-you-alone.json) |
+| Are You Awake? | 340873 | [340873-are-you-awake.json](./340873-are-you-awake.json) |
 | Are You Happy | 338154 | [338154-are-you-happy.json](./338154-are-you-happy.json) |
 | Are you human? | 183394 | [183394-are-you-human.json](./183394-are-you-human.json) |
 | Are You Human? | 377110 | [377110-are-you-human.json](./377110-are-you-human.json) |
@@ -11835,6 +11840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
 | Army Attack | 115544 | [115544-army-attack.json](./115544-army-attack.json) |
 | Army Battle Simulator | 91244 | [91244-army-battle-simulator.json](./91244-army-battle-simulator.json) |
+| Army Bus Driving Simulator | 340867 | [340867-army-bus-driving-simulator.json](./340867-army-bus-driving-simulator.json) |
 | Army Car Team | 395871 | [395871-army-car-team.json](./395871-army-car-team.json) |
 | Army Chess | 89848 | [89848-army-chess.json](./89848-army-chess.json) |
 | Army Chess Super Online | 99110 | [99110-army-chess-super-online.json](./99110-army-chess-super-online.json) |
@@ -13594,6 +13600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
 | Asuka Idol Journey | 399410 | [399410-asuka-idol-journey.json](./399410-asuka-idol-journey.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
+| Asuka: The Ascent | 340840 | [340840-asuka-the-ascent.json](./340840-asuka-the-ascent.json) |
 | Asura | 244393 | [244393-asura.json](./244393-asura.json) |
 | Asura | 28158 | [28158-asura.json](./28158-asura.json) |
 | Asura Blade: Sword of Dynasty | 38514 | [38514-asura-blade-sword-of-dynasty.json](./38514-asura-blade-sword-of-dynasty.json) |
