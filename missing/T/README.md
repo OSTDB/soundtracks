@@ -5047,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Atlas Mystery: A VR Puzzle Game | 189349 | [189349-the-atlas-mystery-a-vr-puzzle-game.json](./189349-the-atlas-mystery-a-vr-puzzle-game.json) |
 | The Atlas Mystery: PC Edition | 336567 | [336567-the-atlas-mystery-pc-edition.json](./336567-the-atlas-mystery-pc-edition.json) |
+| The Atlas Problem | 365043 | [365043-the-atlas-problem.json](./365043-the-atlas-problem.json) |
 | The Atlas: Renaissance Voyager | 324956 | [324956-the-atlas-renaissance-voyager.json](./324956-the-atlas-renaissance-voyager.json) |
 | The Atlas: Renaissance Voyager | 38315 | [38315-the-atlas-renaissance-voyager.json](./38315-the-atlas-renaissance-voyager.json) |
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
@@ -8977,6 +8978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horde for Android | 110068 | [110068-the-horde-for-android.json](./110068-the-horde-for-android.json) |
 | The Horde of Gorak | 419372 | [419372-the-horde-of-gorak.json](./419372-the-horde-of-gorak.json) |
 | The Horde Wants You Dead | 339881 | [339881-the-horde-wants-you-dead.json](./339881-the-horde-wants-you-dead.json) |
+| The Hordes of the Dead | 365134 | [365134-the-hordes-of-the-dead.json](./365134-the-hordes-of-the-dead.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
 | The Horny Maid and the Daughter are Futanari | 98038 | [98038-the-horny-maid-and-the-daughter-are-futanari.json](./98038-the-horny-maid-and-the-daughter-are-futanari.json) |
 | The Horologist's Legacy | 110954 | [110954-the-horologists-legacy.json](./110954-the-horologists-legacy.json) |
@@ -23367,6 +23369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Life: A Railway Simulator - 1920's Orient-Express Train | 219541 | [219541-train-life-a-railway-simulator-1920s-orient-express-train.json](./219541-train-life-a-railway-simulator-1920s-orient-express-train.json) |
 | Train Life: A Railway Simulator - The Orient-Express Edition | 214141 | [214141-train-life-a-railway-simulator-the-orient-express-edition.json](./214141-train-life-a-railway-simulator-the-orient-express-edition.json) |
 | Train Manager | 114062 | [114062-train-manager.json](./114062-train-manager.json) |
+| Train Maze Master | 365040 | [365040-train-maze-master.json](./365040-train-maze-master.json) |
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
 | Train Mechanic Simulator 2025 | 211983 | [211983-train-mechanic-simulator-2025.json](./211983-train-mechanic-simulator-2025.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
@@ -25063,6 +25066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
 | Trash Raccoon | 410864 | [410864-trash-raccoon.json](./410864-trash-raccoon.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
+| Trash Sorter Simulator | 365042 | [365042-trash-sorter-simulator.json](./365042-trash-sorter-simulator.json) |
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
 | Trash Taste: The Boys Order Pizza | 214957 | [214957-trash-taste-the-boys-order-pizza.json](./214957-trash-taste-the-boys-order-pizza.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
