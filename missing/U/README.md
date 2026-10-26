@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UniqKiller | 307222 | [307222-uniqkiller.json](./307222-uniqkiller.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
 | Uniqlo × Boxboy! | 345414 | [345414-uniqlo-boxboy.json](./345414-uniqlo-boxboy.json) |
+| Unique Identy | 370165 | [370165-unique-identy.json](./370165-unique-identy.json) |
 | Unique Ladies | 339873 | [339873-unique-ladies.json](./339873-unique-ladies.json) |
 | Unique Lady | 370345 | [370345-unique-lady.json](./370345-unique-lady.json) |
 | Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
