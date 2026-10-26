@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
 | Tales of Berseria | 18812 | [18812-tales-of-berseria.json](./18812-tales-of-berseria.json) |
 | Tales of Berseria Remastered | 378125 | [378125-tales-of-berseria-remastered.json](./378125-tales-of-berseria-remastered.json) |
+| Tales of Berseria Remastered: Deluxe Edition | 378859 | [378859-tales-of-berseria-remastered-deluxe-edition.json](./378859-tales-of-berseria-remastered-deluxe-edition.json) |
 | Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
 | Tales of Bibliotheca | 294590 | [294590-tales-of-bibliotheca.json](./294590-tales-of-bibliotheca.json) |
 | Tales of Card Evolve | 294591 | [294591-tales-of-card-evolve.json](./294591-tales-of-card-evolve.json) |
@@ -14758,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tomatoes are OK | 184993 | [184993-the-tomatoes-are-ok.json](./184993-the-tomatoes-are-ok.json) |
 | The Tomb | 85905 | [85905-the-tomb.json](./85905-the-tomb.json) |
 | The Tomb of Corruption | 289954 | [289954-the-tomb-of-corruption.json](./289954-the-tomb-of-corruption.json) |
+| The Tomb Raider & Soul Reaver Remastered Bundle | 378838 | [378838-the-tomb-raider-and-soul-reaver-remastered-bundle.json](./378838-the-tomb-raider-and-soul-reaver-remastered-bundle.json) |
 | The Tomb Raider Trilogy | 7470 | [7470-the-tomb-raider-trilogy.json](./7470-the-tomb-raider-trilogy.json) |
 | The Tomb: Pinball | 79664 | [79664-the-tomb-pinball.json](./79664-the-tomb-pinball.json) |
 | The Tombs of Ultra 5 | 189373 | [189373-the-tombs-of-ultra-5.json](./189373-the-tombs-of-ultra-5.json) |
@@ -21119,6 +21121,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater | 210451 | [210451-tony-hawks-pro-skater.json](./210451-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater | 210452 | [210452-tony-hawks-pro-skater.json](./210452-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
+| Tony Hawk's Pro Skater 1-4 Deluxe Edition Bundle | 378827 | [378827-tony-hawks-pro-skater-1-4-deluxe-edition-bundle.json](./378827-tony-hawks-pro-skater-1-4-deluxe-edition-bundle.json) |
+| Tony Hawk's Pro Skater 1-4 Standard Edition Bundle | 378826 | [378826-tony-hawks-pro-skater-1-4-standard-edition-bundle.json](./378826-tony-hawks-pro-skater-1-4-standard-edition-bundle.json) |
 | Tony Hawk's Pro Skater 1+2: Digital Deluxe Edition | 139878 | [139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json](./139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json) |
 | Tony Hawk's Pro Skater 2 | 201756 | [201756-tony-hawks-pro-skater-2.json](./201756-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
