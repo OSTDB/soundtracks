@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leyendas de Lhodrye: Arakhas el Oscuro | 84301 | [84301-leyendas-de-lhodrye-arakhas-el-oscuro.json](./84301-leyendas-de-lhodrye-arakhas-el-oscuro.json) |
 | Leygref's Castle | 2883 | [2883-leygrefs-castle.json](./2883-leygrefs-castle.json) |
 | Leyla In Veil | 413762 | [413762-leyla-in-veil.json](./413762-leyla-in-veil.json) |
+| Leyline Chronicles | 340866 | [340866-leyline-chronicles.json](./340866-leyline-chronicles.json) |
 | Leylines | 29640 | [29640-leylines.json](./29640-leylines.json) |
 | Lez | 144955 | [144955-lez.json](./144955-lez.json) |
 | Lezdom CEO Fantasy | 331308 | [331308-lezdom-ceo-fantasy.json](./331308-lezdom-ceo-fantasy.json) |
@@ -5255,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Reinette: Swan no Namida Rhapsody | 124646 | [124646-little-witch-reinette-swan-no-namida-rhapsody.json](./124646-little-witch-reinette-swan-no-namida-rhapsody.json) |
 | Little Witch Survivors | 349103 | [349103-little-witch-survivors.json](./349103-little-witch-survivors.json) |
 | Little Witch's Carnival | 372509 | [372509-little-witchs-carnival.json](./372509-little-witchs-carnival.json) |
+| Little Witches vs. Monsters | 341174 | [341174-little-witches-vs-monsters.json](./341174-little-witches-vs-monsters.json) |
 | Little Wizard | 66026 | [66026-little-wizard.json](./66026-little-wizard.json) |
 | Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
@@ -6032,7 +6034,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
 | Lonely Chess | 181628 | [181628-lonely-chess.json](./181628-lonely-chess.json) |
 | Lonely Christmas | 326140 | [326140-lonely-christmas.json](./326140-lonely-christmas.json) |
+| Lonely Christmas: Cupid's Punishment | 341175 | [341175-lonely-christmas-cupids-punishment.json](./341175-lonely-christmas-cupids-punishment.json) |
+| Lonely Christmas: Cute Santa | 341176 | [341176-lonely-christmas-cute-santa.json](./341176-lonely-christmas-cute-santa.json) |
 | Lonely Christmas: Cute Santa 2 | 384897 | [384897-lonely-christmas-cute-santa-2.json](./384897-lonely-christmas-cute-santa-2.json) |
+| Lonely Christmas: Succubus Santa | 341177 | [341177-lonely-christmas-succubus-santa.json](./341177-lonely-christmas-succubus-santa.json) |
 | Lonely Guardian | 374966 | [374966-lonely-guardian.json](./374966-lonely-guardian.json) |
 | Lonely Hero & Non-Fight Party | 191677 | [191677-lonely-hero-and-non-fight-party.json](./191677-lonely-hero-and-non-fight-party.json) |
 | Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
@@ -6106,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
 | Long Nights | 177732 | [177732-long-nights.json](./177732-long-nights.json) |
+| Long Puppy | 340855 | [340855-long-puppy.json](./340855-long-puppy.json) |
 | Long Road | 108233 | [108233-long-road.json](./108233-long-road.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
 | Long Run | 273572 | [273572-long-run.json](./273572-long-run.json) |
@@ -6316,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot and Order | 385336 | [385336-loot-and-order.json](./385336-loot-and-order.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
 | Loot Before the Law | 411820 | [411820-loot-before-the-law.json](./411820-loot-before-the-law.json) |
+| Loot Box | 341178 | [341178-loot-box.json](./341178-loot-box.json) |
 | Loot Box Achievement Simulator | 103790 | [103790-loot-box-achievement-simulator.json](./103790-loot-box-achievement-simulator.json) |
 | Loot Box Quest: Mystic Maidens | 271273 | [271273-loot-box-quest-mystic-maidens.json](./271273-loot-box-quest-mystic-maidens.json) |
 | Loot Box Simulator | 137038 | [137038-loot-box-simulator.json](./137038-loot-box-simulator.json) |
@@ -6594,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost & Alone: Adventure Escape | 90537 | [90537-lost-and-alone-adventure-escape.json](./90537-lost-and-alone-adventure-escape.json) |
 | Lost & Found | 110786 | [110786-lost-and-found.json](./110786-lost-and-found.json) |
 | Lost & Found | 404803 | [404803-lost-and-found.json](./404803-lost-and-found.json) |
+| Lost & Found Collection | 341180 | [341180-lost-and-found-collection.json](./341180-lost-and-found-collection.json) |
 | Lost & Found Spot It Fast! | 336405 | [336405-lost-and-found-spot-it-fast.json](./336405-lost-and-found-spot-it-fast.json) |
 | Lost & Found: A This Bed We Made Story | 391841 | [391841-lost-and-found-a-this-bed-we-made-story.json](./391841-lost-and-found-a-this-bed-we-made-story.json) |
 | Lost & Found: Inanimate Object Dating Agency | 346109 | [346109-lost-and-found-inanimate-object-dating-agency.json](./346109-lost-and-found-inanimate-object-dating-agency.json) |
@@ -6662,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cities | 37376 | [37376-lost-cities.json](./37376-lost-cities.json) |
 | Lost Cities Mobile | 84112 | [84112-lost-cities-mobile.json](./84112-lost-cities-mobile.json) |
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
+| Lost City of Bardo | 341179 | [341179-lost-city-of-bardo.json](./341179-lost-city-of-bardo.json) |
 | Lost City of Vampires | 113169 | [113169-lost-city-of-vampires.json](./113169-lost-city-of-vampires.json) |
 | Lost Civilization | 144677 | [144677-lost-civilization.json](./144677-lost-civilization.json) |
 | Lost Civilization 2 | 262991 | [262991-lost-civilization-2.json](./262991-lost-civilization-2.json) |
@@ -7094,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotte’s Forest: The Tale of Love | 274403 | [274403-lotte-s-forest-the-tale-of-love.json](./274403-lotte-s-forest-the-tale-of-love.json) |
 | Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
 | Lottery Winner | 278932 | [278932-lottery-winner.json](./278932-lottery-winner.json) |
+| Lottery World | 341181 | [341181-lottery-world.json](./341181-lottery-world.json) |
 | Lottie! | 388890 | [388890-lottie.json](./388890-lottie.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotto Life | 190370 | [190370-lotto-life.json](./190370-lotto-life.json) |
@@ -7156,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love & Pies | 417327 | [417327-love-and-pies.json](./417327-love-and-pies.json) |
 | Love & Sex: Second Base | 229010 | [229010-love-and-sex-second-base.json](./229010-love-and-sex-second-base.json) |
 | Love & Survival | 193777 | [193777-love-and-survival.json](./193777-love-and-survival.json) |
+| Love 15 | 341182 | [341182-love-15.json](./341182-love-15.json) |
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
 | Love 3 | 161222 | [161222-love-3.json](./161222-love-3.json) |
 | Love 3: Love Cube | 117876 | [117876-love-3-love-cube.json](./117876-love-3-love-cube.json) |
