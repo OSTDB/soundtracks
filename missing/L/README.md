@@ -4580,6 +4580,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
 | Link Penguins | 391224 | [391224-link-penguins.json](./391224-link-penguins.json) |
+| Link PET_EX: Blues DX Edition | 353189 | [353189-link-pet-ex-blues-dx-edition.json](./353189-link-pet-ex-blues-dx-edition.json) |
+| Link PET_EX: Dennoujuu Falzer | 353186 | [353186-link-pet-ex-dennoujuu-falzer.json](./353186-link-pet-ex-dennoujuu-falzer.json) |
+| Link PET_EX: Dennoujuu Glaga | 353185 | [353185-link-pet-ex-dennoujuu-glaga.json](./353185-link-pet-ex-dennoujuu-glaga.json) |
+| Link PET_EX: Forte Version | 353191 | [353191-link-pet-ex-forte-version.json](./353191-link-pet-ex-forte-version.json) |
+| Link PET_EX: Hikari Netto Version | 353187 | [353187-link-pet-ex-hikari-netto-version.json](./353187-link-pet-ex-hikari-netto-version.json) |
+| Link PET_EX: Twin Navi DX Edition | 353188 | [353188-link-pet-ex-twin-navi-dx-edition.json](./353188-link-pet-ex-twin-navi-dx-edition.json) |
+| Link PET_EXE: Ijuuin Enzan Version | 353190 | [353190-link-pet-exe-ijuuin-enzan-version.json](./353190-link-pet-exe-ijuuin-enzan-version.json) |
 | Link the animals | 117774 | [117774-link-the-animals.json](./117774-link-the-animals.json) |
 | Link Tower | 320810 | [320810-link-tower.json](./320810-link-tower.json) |
 | Link Track | 255012 | [255012-link-track.json](./255012-link-track.json) |
@@ -8000,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
 | Lumber Plumber | 403751 | [403751-lumber-plumber.json](./403751-lumber-plumber.json) |
 | Lumber Tycoon Island | 418249 | [418249-lumber-tycoon-island.json](./418249-lumber-tycoon-island.json) |
+| Lumber Valley | 353192 | [353192-lumber-valley.json](./353192-lumber-valley.json) |
 | Lumberhill | 111771 | [111771-lumberhill.json](./111771-lumberhill.json) |
 | Lumberhill + It came from space and ate our brains | 287662 | [287662-lumberhill-it-came-from-space-and-ate-our-brains.json](./287662-lumberhill-it-came-from-space-and-ate-our-brains.json) |
 | Lumberhill: Powerful People Pack | 199884 | [199884-lumberhill-powerful-people-pack.json](./199884-lumberhill-powerful-people-pack.json) |
