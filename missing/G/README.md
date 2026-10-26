@@ -8780,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gulclight TDF2 | 64747 | [64747-gulclight-tdf2.json](./64747-gulclight-tdf2.json) |
 | Guldkorn Expressen | 92880 | [92880-guldkorn-expressen.json](./92880-guldkorn-expressen.json) |
+| Guldkornexpressen | 364461 | [364461-guldkornexpressen.json](./364461-guldkornexpressen.json) |
 | Gulf of Aden - Task Force Somalia | 34370 | [34370-gulf-of-aden-task-force-somalia.json](./34370-gulf-of-aden-task-force-somalia.json) |
 | Gulf Storm | 40154 | [40154-gulf-storm.json](./40154-gulf-storm.json) |
 | Gulf Strike | 25034 | [25034-gulf-strike.json](./25034-gulf-strike.json) |
