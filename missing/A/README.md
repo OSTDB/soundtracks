@@ -3090,7 +3090,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -8367,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
 | Animal Parkour | 291860 | [291860-animal-parkour.json](./291860-animal-parkour.json) |
+| Animal Party Puzzles: Meet All the Friends | 356524 | [356524-animal-party-puzzles-meet-all-the-friends.json](./356524-animal-party-puzzles-meet-all-the-friends.json) |
 | Animal Pattern | 335352 | [335352-animal-pattern.json](./335352-animal-pattern.json) |
 | Animal Planet Wildlands | 355172 | [355172-animal-planet-wildlands.json](./355172-animal-planet-wildlands.json) |
 | Animal Planet: Emergency Vets | 69124 | [69124-animal-planet-emergency-vets.json](./69124-animal-planet-emergency-vets.json) |
@@ -8937,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Report | 257424 | [257424-anomaly-report.json](./257424-anomaly-report.json) |
 | Anomaly Report | 348409 | [348409-anomaly-report.json](./348409-anomaly-report.json) |
 | Anomaly Road | 405709 | [405709-anomaly-road.json](./405709-anomaly-road.json) |
+| Anomaly Rooms | 356550 | [356550-anomaly-rooms.json](./356550-anomaly-rooms.json) |
 | Anomaly Seeker: The Diner | 343123 | [343123-anomaly-seeker-the-diner.json](./343123-anomaly-seeker-the-diner.json) |
 | Anomaly Tapes: Beyond Reality | 320009 | [320009-anomaly-tapes-beyond-reality.json](./320009-anomaly-tapes-beyond-reality.json) |
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
