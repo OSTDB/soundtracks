@@ -7384,11 +7384,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folk Tale | 15409 | [15409-folk-tale.json](./15409-folk-tale.json) |
 | Folk Tales: Alageyik | 360768 | [360768-folk-tales-alageyik.json](./360768-folk-tales-alageyik.json) |
 | Folklore | 7307 | [7307-folklore.json](./7307-folklore.json) |
+| Folklore Fishing | 379419 | [379419-folklore-fishing.json](./379419-folklore-fishing.json) |
 | Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
+| Folklore Reloaded | 379420 | [379420-folklore-reloaded.json](./379420-folklore-reloaded.json) |
 | Folklore: Shadows of the Shackled | 259460 | [259460-folklore-shadows-of-the-shackled.json](./259460-folklore-shadows-of-the-shackled.json) |
 | Folkloric Excursion | 159790 | [159790-folkloric-excursion.json](./159790-folkloric-excursion.json) |
 | FolkOrigin | 292391 | [292391-folkorigin.json](./292391-folkorigin.json) |
 | Folktale | 215306 | [215306-folktale.json](./215306-folktale.json) |
+| Folktale Fury | 379422 | [379422-folktale-fury.json](./379422-folktale-fury.json) |
 | Follia: Dear Father | 118671 | [118671-follia-dear-father.json](./118671-follia-dear-father.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow Dream | 296591 | [296591-follow-dream.json](./296591-follow-dream.json) |
