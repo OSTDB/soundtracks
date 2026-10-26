@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
 | Safari: Evolution | 97162 | [97162-safari-evolution.json](./97162-safari-evolution.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
+| Safe | 371850 | [371850-safe.json](./371850-safe.json) |
 | Safe Climbing | 127831 | [127831-safe-climbing.json](./127831-safe-climbing.json) |
 | Safe Cracker | 179084 | [179084-safe-cracker.json](./179084-safe-cracker.json) |
 | Safe Cracker | 340547 | [340547-safe-cracker.json](./340547-safe-cracker.json) |
@@ -8884,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
+| Silver Moon | 371952 | [371952-silver-moon.json](./371952-silver-moon.json) |
 | Silver Nights: Browser edition | 184327 | [184327-silver-nights-browser-edition.json](./184327-silver-nights-browser-edition.json) |
 | Silver Nornir | 68990 | [68990-silver-nornir.json](./68990-silver-nornir.json) |
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
@@ -21155,6 +21157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Pegasus | 42166 | [42166-starship-pegasus.json](./42166-starship-pegasus.json) |
 | Starship Rubicon | 35191 | [35191-starship-rubicon.json](./35191-starship-rubicon.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
+| Starship Scarwolf | 371933 | [371933-starship-scarwolf.json](./371933-starship-scarwolf.json) |
 | Starship Showdown: Galactic Grand Prix | 283223 | [283223-starship-showdown-galactic-grand-prix.json](./283223-starship-showdown-galactic-grand-prix.json) |
 | Starship Survivor | 193288 | [193288-starship-survivor.json](./193288-starship-survivor.json) |
 | Starship Survivor | 30399 | [30399-starship-survivor.json](./30399-starship-survivor.json) |
@@ -23070,6 +23073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Arena RPG | 387402 | [387402-stream-arena-rpg.json](./387402-stream-arena-rpg.json) |
 | Stream Avatars | 52432 | [52432-stream-avatars.json](./52432-stream-avatars.json) |
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
+| Stream Basketball | 371836 | [371836-stream-basketball.json](./371836-stream-basketball.json) |
 | Stream Battlecards | 130703 | [130703-stream-battlecards.json](./130703-stream-battlecards.json) |
 | Stream Defense | 239208 | [239208-stream-defense.json](./239208-stream-defense.json) |
 | Stream Defense Protocol | 343302 | [343302-stream-defense-protocol.json](./343302-stream-defense-protocol.json) |
@@ -23118,6 +23122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
 | Streaming Girls 18+:- OnlyFap Live | 286468 | [286468-streaming-girls-18-onlyfap-live.json](./286468-streaming-girls-18-onlyfap-live.json) |
 | StreamInk | 166594 | [166594-streamink.json](./166594-streamink.json) |
+| Streamlands: Defense | 371947 | [371947-streamlands-defense.json](./371947-streamlands-defense.json) |
 | Streamline | 171512 | [171512-streamline.json](./171512-streamline.json) |
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
 | Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
@@ -29611,6 +29616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sorcery Underworld | 27757 | [27757-swords-and-sorcery-underworld.json](./27757-swords-and-sorcery-underworld.json) |
 | Swords and Sorcery Underworld: Definitive Edition | 34318 | [34318-swords-and-sorcery-underworld-definitive-edition.json](./34318-swords-and-sorcery-underworld-definitive-edition.json) |
 | Swords and Souls | 58741 | [58741-swords-and-souls.json](./58741-swords-and-souls.json) |
+| Swords and Souls Neverseen | 371846 | [371846-swords-and-souls-neverseen.json](./371846-swords-and-souls-neverseen.json) |
 | Swords and Their Boy | 193639 | [193639-swords-and-their-boy.json](./193639-swords-and-their-boy.json) |
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
 | Swords of Anima | 193683 | [193683-swords-of-anima.json](./193683-swords-of-anima.json) |
