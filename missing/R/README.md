@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rascal | 94445 | [94445-rascal.json](./94445-rascal.json) |
 | Rascal Racers | 43806 | [43806-rascal-racers.json](./43806-rascal-racers.json) |
 | Rascal Revolt | 153444 | [153444-rascal-revolt.json](./153444-rascal-revolt.json) |
+| Rascallz: Tiki Tiki | 385610 | [385610-rascallz-tiki-tiki.json](./385610-rascallz-tiki-tiki.json) |
 | Rascals | 110130 | [110130-rascals.json](./110130-rascals.json) |
 | Rasek | 231317 | [231317-rasek.json](./231317-rasek.json) |
 | Rasen | 384245 | [384245-rasen.json](./384245-rasen.json) |
@@ -2061,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayxanber III | 37591 | [37591-rayxanber-iii.json](./37591-rayxanber-iii.json) |
 | Rayze | 176902 | [176902-rayze.json](./176902-rayze.json) |
 | Raz | 107758 | [107758-raz.json](./107758-raz.json) |
+| Raze | 385686 | [385686-raze.json](./385686-raze.json) |
 | Raze | 91688 | [91688-raze.json](./91688-raze.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
@@ -8449,6 +8451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | RogueDiceR | 383664 | [383664-roguedicer.json](./383664-roguedicer.json) |
 | Roguefall | 392014 | [392014-roguefall.json](./392014-roguefall.json) |
+| RogueFlip | 385679 | [385679-rogueflip.json](./385679-rogueflip.json) |
 | Rogueflite Extraction | 418314 | [418314-rogueflite-extraction.json](./418314-rogueflite-extraction.json) |
 | Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
 | Roguegg: Hardboiled Survivors | 390798 | [390798-roguegg-hardboiled-survivors.json](./390798-roguegg-hardboiled-survivors.json) |
