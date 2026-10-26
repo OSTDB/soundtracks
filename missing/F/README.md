@@ -2525,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
 | FastCrawl | 77229 | [77229-fastcrawl.json](./77229-fastcrawl.json) |
 | Faster | 260575 | [260575-faster.json](./260575-faster.json) |
+| Faster Bunnies | 382854 | [382854-faster-bunnies.json](./382854-faster-bunnies.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
 | Faster Racer Boom Boom | 255259 | [255259-faster-racer-boom-boom.json](./255259-faster-racer-boom-boom.json) |
 | Faster Than Bolt | 308997 | [308997-faster-than-bolt.json](./308997-faster-than-bolt.json) |
