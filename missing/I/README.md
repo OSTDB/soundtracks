@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want to Play the Villain! | 412542 | [412542-i-want-to-play-the-villain.json](./412542-i-want-to-play-the-villain.json) |
 | I Want to Pursue the Mean Side Character! | 178897 | [178897-i-want-to-pursue-the-mean-side-character.json](./178897-i-want-to-pursue-the-mean-side-character.json) |
 | I Want to Run Away From My Goth Mommy... or Do I? | 372691 | [372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json](./372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json) |
+| I Want to Talk About My Friend | 356518 | [356518-i-want-to-talk-about-my-friend.json](./356518-i-want-to-talk-about-my-friend.json) |
 | I Want to Wear Your Wool | 400050 | [400050-i-want-to-wear-your-wool.json](./400050-i-want-to-wear-your-wool.json) |
 | I Want Toilet!!!!!! | 52748 | [52748-i-want-toilet.json](./52748-i-want-toilet.json) |
 | I Want You To Notice Me: His Story | 401277 | [401277-i-want-you-to-notice-me-his-story.json](./401277-i-want-you-to-notice-me-his-story.json) |
