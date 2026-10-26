@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Commander | 71938 | [71938-panzer-commander.json](./71938-panzer-commander.json) |
 | Panzer Corps | 22637 | [22637-panzer-corps.json](./22637-panzer-corps.json) |
 | Panzer Corps 2 | 27716 | [27716-panzer-corps-2.json](./27716-panzer-corps-2.json) |
+| Panzer Corps 2: Allied Operations - Italy: Vol.1 | 380992 | [380992-panzer-corps-2-allied-operations-italy-vol-1.json](./380992-panzer-corps-2-allied-operations-italy-vol-1.json) |
 | Panzer Corps 2: Axis Operations - 1939 | 155048 | [155048-panzer-corps-2-axis-operations-1939.json](./155048-panzer-corps-2-axis-operations-1939.json) |
 | Panzer Corps 2: Axis Operations - 1940 | 155050 | [155050-panzer-corps-2-axis-operations-1940.json](./155050-panzer-corps-2-axis-operations-1940.json) |
 | Panzer Corps 2: Axis Operations - 1941 | 155081 | [155081-panzer-corps-2-axis-operations-1941.json](./155081-panzer-corps-2-axis-operations-1941.json) |
@@ -3950,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peskit | 346189 | [346189-peskit.json](./346189-peskit.json) |
 | Pesky Humans | 169912 | [169912-pesky-humans.json](./169912-pesky-humans.json) |
 | Pesky Humans | 23493 | [23493-pesky-humans.json](./23493-pesky-humans.json) |
+| Pesky Orcs! | 381086 | [381086-pesky-orcs.json](./381086-pesky-orcs.json) |
 | Pest Apocalypse | 297182 | [297182-pest-apocalypse.json](./297182-pest-apocalypse.json) |
 | Pest Control | 120123 | [120123-pest-control.json](./120123-pest-control.json) |
 | Pest Control | 343758 | [343758-pest-control.json](./343758-pest-control.json) |
