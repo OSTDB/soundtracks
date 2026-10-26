@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T03:18:43.851Z",
-  "total_missing": 263335,
+  "generated_at": "2026-10-26T03:33:32.656Z",
+  "total_missing": 263385,
   "games": [
     {
       "igdb_id": 191680,
@@ -4405,6 +4405,11 @@
       "igdb_id": 90578,
       "game_name": "12 Orbits",
       "file": "missing/0-9/90578-12-orbits.json"
+    },
+    {
+      "igdb_id": 378828,
+      "game_name": "12 Party Games Collection",
+      "file": "missing/0-9/378828-12-party-games-collection.json"
     },
     {
       "igdb_id": 262992,
@@ -94832,6 +94837,11 @@
       "file": "missing/B/348806-bad-teams.json"
     },
     {
+      "igdb_id": 378846,
+      "game_name": "Bad Time Bug in Apartment 309",
+      "file": "missing/B/378846-bad-time-bug-in-apartment-309.json"
+    },
+    {
       "igdb_id": 298723,
       "game_name": "Bad Time Simulator (Sans Fight)",
       "file": "missing/B/298723-bad-time-simulator-sans-fight.json"
@@ -95435,6 +95445,11 @@
       "igdb_id": 271688,
       "game_name": "Baito Fight!!: Part-time Devil Hunter",
       "file": "missing/B/271688-baito-fight-part-time-devil-hunter.json"
+    },
+    {
+      "igdb_id": 378840,
+      "game_name": "Bǎiwèi Shíguāng",
+      "file": "missing/B/378840-baiwei-shiguang.json"
     },
     {
       "igdb_id": 339593,
@@ -114282,6 +114297,11 @@
       "file": "missing/B/139164-beautycopter.json"
     },
     {
+      "igdb_id": 378847,
+      "game_name": "BeautyDarling",
+      "file": "missing/B/378847-beautydarling.json"
+    },
+    {
       "igdb_id": 372623,
       "game_name": "Beaux-Arts",
       "file": "missing/B/372623-beaux-arts.json"
@@ -131630,6 +131650,11 @@
       "igdb_id": 332826,
       "game_name": "BlazBlue Cross Tag Battle: Additional Color Set 3",
       "file": "missing/B/332826-blazblue-cross-tag-battle-additional-color-set-3.json"
+    },
+    {
+      "igdb_id": 378853,
+      "game_name": "BlazBlue Entropy Effect X: Deluxe Edition",
+      "file": "missing/B/378853-blazblue-entropy-effect-x-deluxe-edition.json"
     },
     {
       "igdb_id": 410400,
@@ -149977,6 +150002,11 @@
       "file": "missing/B/402954-boxville-2-collectors-edition.json"
     },
     {
+      "igdb_id": 378829,
+      "game_name": "Boxville Collection",
+      "file": "missing/B/378829-boxville-collection.json"
+    },
+    {
       "igdb_id": 230807,
       "game_name": "Boxville: Collector's Edition",
       "file": "missing/B/230807-boxville-collectors-edition.json"
@@ -150415,6 +150445,11 @@
       "igdb_id": 21381,
       "game_name": "Brain Boost Beta / Gamma Wave",
       "file": "missing/B/21381-brain-boost-beta-gamma-wave.json"
+    },
+    {
+      "igdb_id": 378819,
+      "game_name": "Brain Boost Buddies",
+      "file": "missing/B/378819-brain-boost-buddies.json"
     },
     {
       "igdb_id": 47836,
@@ -156422,6 +156457,11 @@
       "file": "missing/B/141057-brok-the-investigator.json"
     },
     {
+      "igdb_id": 378861,
+      "game_name": "Brok the InvestiGator + The Brawl Bar",
+      "file": "missing/B/378861-brok-the-investigator-the-brawl-bar.json"
+    },
+    {
       "igdb_id": 304428,
       "game_name": "Brok the Investigator: The Brawl Bar",
       "file": "missing/B/304428-brok-the-investigator-the-brawl-bar.json"
@@ -159900,6 +159940,11 @@
       "igdb_id": 287162,
       "game_name": "Bucket Crusher: Cool Kidz",
       "file": "missing/B/287162-bucket-crusher-cool-kidz.json"
+    },
+    {
+      "igdb_id": 378854,
+      "game_name": "Bucket Crusher: Gold Edition",
+      "file": "missing/B/378854-bucket-crusher-gold-edition.json"
     },
     {
       "igdb_id": 287161,
@@ -342372,6 +342417,11 @@
       "file": "missing/E/264799-electronics-puzzle-lab.json"
     },
     {
+      "igdb_id": 378830,
+      "game_name": "Electronics Puzzle Lab 1 & 2 Collection",
+      "file": "missing/E/378830-electronics-puzzle-lab-1-and-2-collection.json"
+    },
+    {
       "igdb_id": 362342,
       "game_name": "Electronics Puzzle Lab 2",
       "file": "missing/E/362342-electronics-puzzle-lab-2.json"
@@ -365907,6 +365957,11 @@
       "file": "missing/E/295689-exploration-adventures.json"
     },
     {
+      "igdb_id": 378831,
+      "game_name": "Exploration Escape Room Bundle",
+      "file": "missing/E/378831-exploration-escape-room-bundle.json"
+    },
+    {
       "igdb_id": 103971,
       "game_name": "Exploration Pro",
       "file": "missing/E/103971-exploration-pro.json"
@@ -374952,6 +375007,11 @@
       "file": "missing/F/215402-family-road-trips.json"
     },
     {
+      "igdb_id": 378832,
+      "game_name": "Family Roadshow: Hidden Adventures - Collector's Edition",
+      "file": "missing/F/378832-family-roadshow-hidden-adventures-collectors-edition.json"
+    },
+    {
       "igdb_id": 101992,
       "game_name": "Family Rush",
       "file": "missing/F/101992-family-rush.json"
@@ -375622,6 +375682,11 @@
       "file": "missing/F/49299-fantastic-4-flame-on.json"
     },
     {
+      "igdb_id": 378833,
+      "game_name": "Fantastic Animal Friends Bundle 3 in 1",
+      "file": "missing/F/378833-fantastic-animal-friends-bundle-3-in-1.json"
+    },
+    {
       "igdb_id": 323410,
       "game_name": "Fantastic Annihilation",
       "file": "missing/F/323410-fantastic-annihilation.json"
@@ -376100,6 +376165,11 @@
       "igdb_id": 262224,
       "game_name": "Fantasy Defenders Bundle: Defend the Rook & Legend of Keepers",
       "file": "missing/F/262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json"
+    },
+    {
+      "igdb_id": 378756,
+      "game_name": "Fantasy Desire: Anime Girls Saga",
+      "file": "missing/F/378756-fantasy-desire-anime-girls-saga.json"
     },
     {
       "igdb_id": 59718,
@@ -423117,6 +423187,11 @@
       "file": "missing/F/333975-funi-raccoon-game.json"
     },
     {
+      "igdb_id": 378848,
+      "game_name": "Funimal: Fusion Animal",
+      "file": "missing/F/378848-funimal-fusion-animal.json"
+    },
+    {
       "igdb_id": 20309,
       "game_name": "Funk of Titans",
       "file": "missing/F/20309-funk-of-titans.json"
@@ -436725,6 +436800,11 @@
       "igdb_id": 12116,
       "game_name": "Geisha",
       "file": "missing/G/12116-geisha.json"
+    },
+    {
+      "igdb_id": 378852,
+      "game_name": "Geisha's Heart: Romance Among the Cherry Blossoms",
+      "file": "missing/G/378852-geishas-heart-romance-among-the-cherry-blossoms.json"
     },
     {
       "igdb_id": 62131,
@@ -475072,6 +475152,11 @@
       "file": "missing/H/374677-hajwala-drift-x.json"
     },
     {
+      "igdb_id": 378759,
+      "game_name": "Hajwala Dubai",
+      "file": "missing/H/378759-hajwala-dubai.json"
+    },
+    {
       "igdb_id": 366215,
       "game_name": "Hajwala Of Riyadh",
       "file": "missing/H/366215-hajwala-of-riyadh.json"
@@ -476810,6 +476895,11 @@
       "igdb_id": 286397,
       "game_name": "Halloween with Veronica",
       "file": "missing/H/286397-halloween-with-veronica.json"
+    },
+    {
+      "igdb_id": 378822,
+      "game_name": "Halloween: DinoBoo & The Valley of Shadows",
+      "file": "missing/H/378822-halloween-dinoboo-and-the-valley-of-shadows.json"
     },
     {
       "igdb_id": 275629,
@@ -479140,6 +479230,11 @@
       "igdb_id": 220032,
       "game_name": "Handyman Legend",
       "file": "missing/H/220032-handyman-legend.json"
+    },
+    {
+      "igdb_id": 378758,
+      "game_name": "Handyman: House Repair and Flip",
+      "file": "missing/H/378758-handyman-house-repair-and-flip.json"
     },
     {
       "igdb_id": 222901,
@@ -495342,6 +495437,11 @@
       "file": "missing/H/241386-hentai-pool.json"
     },
     {
+      "igdb_id": 378849,
+      "game_name": "Hentai Portrait",
+      "file": "missing/H/378849-hentai-portrait.json"
+    },
+    {
       "igdb_id": 262366,
       "game_name": "Hentai Project",
       "file": "missing/H/262366-hentai-project.json"
@@ -495837,6 +495937,11 @@
       "file": "missing/H/370274-hentai-store.json"
     },
     {
+      "igdb_id": 378757,
+      "game_name": "Hentai Store Simulator",
+      "file": "missing/H/378757-hentai-store-simulator.json"
+    },
+    {
       "igdb_id": 274687,
       "game_name": "Hentai Stories",
       "file": "missing/H/274687-hentai-stories.json"
@@ -496075,6 +496180,11 @@
       "igdb_id": 301671,
       "game_name": "Hentai Violet",
       "file": "missing/H/301671-hentai-violet.json"
+    },
+    {
+      "igdb_id": 378850,
+      "game_name": "Hentai Vision",
+      "file": "missing/H/378850-hentai-vision.json"
     },
     {
       "igdb_id": 265767,
@@ -525570,6 +525680,11 @@
       "igdb_id": 385977,
       "game_name": "Hypercar Evolution 2025",
       "file": "missing/H/385977-hypercar-evolution-2025.json"
+    },
+    {
+      "igdb_id": 378762,
+      "game_name": "Hypercar Racing",
+      "file": "missing/H/378762-hypercar-racing.json"
     },
     {
       "igdb_id": 39758,
@@ -610702,6 +610817,11 @@
       "file": "missing/L/66886-legend-of-k-1-grand-prix-96.json"
     },
     {
+      "igdb_id": 378818,
+      "game_name": "Legend of Kaito: Destiny Journey",
+      "file": "missing/L/378818-legend-of-kaito-destiny-journey.json"
+    },
+    {
       "igdb_id": 194236,
       "game_name": "Legend of Kay",
       "file": "missing/L/194236-legend-of-kay.json"
@@ -645937,6 +646057,11 @@
       "file": "missing/M/356787-mage-arena.json"
     },
     {
+      "igdb_id": 378761,
+      "game_name": "Mage Arena: Voice of Magic",
+      "file": "missing/M/378761-mage-arena-voice-of-magic.json"
+    },
+    {
       "igdb_id": 376236,
       "game_name": "Mage Arena: Voice of Power",
       "file": "missing/M/376236-mage-arena-voice-of-power.json"
@@ -647015,6 +647140,11 @@
       "igdb_id": 114996,
       "game_name": "Magic Heart",
       "file": "missing/M/114996-magic-heart.json"
+    },
+    {
+      "igdb_id": 378817,
+      "game_name": "Magic Hentai Puzzle",
+      "file": "missing/M/378817-magic-hentai-puzzle.json"
     },
     {
       "igdb_id": 386446,
@@ -653215,6 +653345,11 @@
       "igdb_id": 229037,
       "game_name": "Malacadabra",
       "file": "missing/M/229037-malacadabra.json"
+    },
+    {
+      "igdb_id": 378764,
+      "game_name": "Malachite: Temple of the Sun - Collector's Edition",
+      "file": "missing/M/378764-malachite-temple-of-the-sun-collectors-edition.json"
     },
     {
       "igdb_id": 23288,
@@ -660060,6 +660195,11 @@
       "igdb_id": 260243,
       "game_name": "Marki Game Collection",
       "file": "missing/M/260243-marki-game-collection.json"
+    },
+    {
+      "igdb_id": 378843,
+      "game_name": "Markiplier Montage",
+      "file": "missing/M/378843-markiplier-montage.json"
     },
     {
       "igdb_id": 19774,
@@ -689747,6 +689887,11 @@
       "file": "missing/M/293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json"
     },
     {
+      "igdb_id": 378765,
+      "game_name": "Miiridian Prime",
+      "file": "missing/M/378765-miiridian-prime.json"
+    },
+    {
       "igdb_id": 18615,
       "game_name": "Miitomo",
       "file": "missing/M/18615-miitomo.json"
@@ -692005,6 +692150,11 @@
       "igdb_id": 98378,
       "game_name": "Mind Trap",
       "file": "missing/M/98378-mind-trap.json"
+    },
+    {
+      "igdb_id": 378766,
+      "game_name": "Mind Twist",
+      "file": "missing/M/378766-mind-twist.json"
     },
     {
       "igdb_id": 168110,
@@ -707572,6 +707722,11 @@
       "file": "missing/M/378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json"
     },
     {
+      "igdb_id": 378855,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Premium Deluxe Edition",
+      "file": "missing/M/378855-monster-hunter-stories-3-twisted-reflection-premium-deluxe-edition.json"
+    },
+    {
       "igdb_id": 378872,
       "game_name": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra",
       "file": "missing/M/378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json"
@@ -719350,6 +719505,11 @@
       "igdb_id": 23900,
       "game_name": "Mr. Robot and His Robot Factory",
       "file": "missing/M/23900-mr-robot-and-his-robot-factory.json"
+    },
+    {
+      "igdb_id": 378845,
+      "game_name": "Mr. Robot II",
+      "file": "missing/M/378845-mr-robot-ii.json"
     },
     {
       "igdb_id": 41578,
@@ -731247,6 +731407,11 @@
       "file": "missing/M/105706-mystery-adventure-secret-key.json"
     },
     {
+      "igdb_id": 378834,
+      "game_name": "Mystery and Magic: Escape Room Bundle",
+      "file": "missing/M/378834-mystery-and-magic-escape-room-bundle.json"
+    },
+    {
       "igdb_id": 274347,
       "game_name": "Mystery at Grand Fir Village",
       "file": "missing/M/274347-mystery-at-grand-fir-village.json"
@@ -737717,6 +737882,11 @@
       "file": "missing/N/101109-national-park-legend-bigfoot.json"
     },
     {
+      "igdb_id": 378823,
+      "game_name": "National Quiz of Common Sense",
+      "file": "missing/N/378823-national-quiz-of-common-sense.json"
+    },
+    {
       "igdb_id": 81005,
       "game_name": "National Rugby Manager",
       "file": "missing/N/81005-national-rugby-manager.json"
@@ -739405,6 +739575,11 @@
       "igdb_id": 353901,
       "game_name": "NBA 2K26",
       "file": "missing/N/353901-nba-2k26.json"
+    },
+    {
+      "igdb_id": 378835,
+      "game_name": "NBA 2K26 x WWE 2K25 Bundle",
+      "file": "missing/N/378835-nba-2k26-x-wwe-2k25-bundle.json"
     },
     {
       "igdb_id": 376244,
@@ -762877,6 +763052,11 @@
       "file": "missing/N/377669-not-my-war.json"
     },
     {
+      "igdb_id": 378856,
+      "game_name": "Not Not 2: A Brain Challenge - Platinum Edition",
+      "file": "missing/N/378856-not-not-2-a-brain-challenge-platinum-edition.json"
+    },
+    {
       "igdb_id": 117957,
       "game_name": "Not Not: A Brain Buster",
       "file": "missing/N/117957-not-not-a-brain-buster.json"
@@ -767005,6 +767185,11 @@
       "igdb_id": 274349,
       "game_name": "Oasis Mission: Colony Sim",
       "file": "missing/O/274349-oasis-mission-colony-sim.json"
+    },
+    {
+      "igdb_id": 378824,
+      "game_name": "Oasis Obby Parkour",
+      "file": "missing/O/378824-oasis-obby-parkour.json"
     },
     {
       "igdb_id": 412276,
@@ -777270,6 +777455,11 @@
       "igdb_id": 294853,
       "game_name": "One Piece: Pirate Warriors 4 - Legend Dawn Pack",
       "file": "missing/O/294853-one-piece-pirate-warriors-4-legend-dawn-pack.json"
+    },
+    {
+      "igdb_id": 378857,
+      "game_name": "One Piece: Pirate Warriors 4 - Legendary Edition",
+      "file": "missing/O/378857-one-piece-pirate-warriors-4-legendary-edition.json"
     },
     {
       "igdb_id": 291058,
@@ -791432,6 +791622,11 @@
       "file": "missing/O/235986-ozymandias-aegean-sea.json"
     },
     {
+      "igdb_id": 378858,
+      "game_name": "Ozymandias: Complete Edition",
+      "file": "missing/O/378858-ozymandias-complete-edition.json"
+    },
+    {
       "igdb_id": 259524,
       "game_name": "Ozymandias: Deluxe Edition",
       "file": "missing/O/259524-ozymandias-deluxe-edition.json"
@@ -800995,6 +801190,11 @@
       "igdb_id": 239061,
       "game_name": "Parcel Problems",
       "file": "missing/P/239061-parcel-problems.json"
+    },
+    {
+      "igdb_id": 378825,
+      "game_name": "Parcel Push",
+      "file": "missing/P/378825-parcel-push.json"
     },
     {
       "igdb_id": 177503,
@@ -844492,6 +844692,11 @@
       "file": "missing/P/85348-poptropica-forgotten-islands.json"
     },
     {
+      "igdb_id": 378860,
+      "game_name": "Popucom Too Many Clothes Edition",
+      "file": "missing/P/378860-popucom-too-many-clothes-edition.json"
+    },
+    {
       "igdb_id": 378876,
       "game_name": "Popucom x Arknights Collab Outfit Pack",
       "file": "missing/P/378876-popucom-x-arknights-collab-outfit-pack.json"
@@ -864562,6 +864767,11 @@
       "file": "missing/P/86912-pure-hearts.json"
     },
     {
+      "igdb_id": 378820,
+      "game_name": "Pure Hentai: Dreams",
+      "file": "missing/P/378820-pure-hentai-dreams.json"
+    },
+    {
       "igdb_id": 385082,
       "game_name": "Pure Hentai: Gallery",
       "file": "missing/P/385082-pure-hentai-gallery.json"
@@ -877260,6 +877470,11 @@
       "igdb_id": 234608,
       "game_name": "Racing Rush",
       "file": "missing/R/234608-racing-rush.json"
+    },
+    {
+      "igdb_id": 378836,
+      "game_name": "Racing Simulator Bundle: Driving School Simulator & Real Driving Simulator",
+      "file": "missing/R/378836-racing-simulator-bundle-driving-school-simulator-and-real-driving-simulator.json"
     },
     {
       "igdb_id": 358355,
@@ -900125,6 +900340,11 @@
       "igdb_id": 96593,
       "game_name": "Retro Highway",
       "file": "missing/R/96593-retro-highway.json"
+    },
+    {
+      "igdb_id": 378837,
+      "game_name": "Retro Horror Bundle",
+      "file": "missing/R/378837-retro-horror-bundle.json"
     },
     {
       "igdb_id": 318213,
@@ -1052817,6 +1053037,11 @@
       "file": "missing/S/55138-sumikko-gurashi-sumikko-park-he-youkoso.json"
     },
     {
+      "igdb_id": 378821,
+      "game_name": "Sumikkogurashi Create a Wonderful Sumikko Island!",
+      "file": "missing/S/378821-sumikkogurashi-create-a-wonderful-sumikko-island.json"
+    },
+    {
       "igdb_id": 208066,
       "game_name": "Sumikkogurashi Farm",
       "file": "missing/S/208066-sumikkogurashi-farm.json"
@@ -1084550,6 +1084775,11 @@
       "igdb_id": 378125,
       "game_name": "Tales of Berseria Remastered",
       "file": "missing/T/378125-tales-of-berseria-remastered.json"
+    },
+    {
+      "igdb_id": 378859,
+      "game_name": "Tales of Berseria Remastered: Deluxe Edition",
+      "file": "missing/T/378859-tales-of-berseria-remastered-deluxe-edition.json"
     },
     {
       "igdb_id": 378867,
@@ -1153387,6 +1153617,11 @@
       "file": "missing/T/289954-the-tomb-of-corruption.json"
     },
     {
+      "igdb_id": 378838,
+      "game_name": "The Tomb Raider & Soul Reaver Remastered Bundle",
+      "file": "missing/T/378838-the-tomb-raider-and-soul-reaver-remastered-bundle.json"
+    },
+    {
       "igdb_id": 7470,
       "game_name": "The Tomb Raider Trilogy",
       "file": "missing/T/7470-the-tomb-raider-trilogy.json"
@@ -1185190,6 +1185425,16 @@
       "igdb_id": 6692,
       "game_name": "Tony Hawk's Pro Skater",
       "file": "missing/T/6692-tony-hawks-pro-skater.json"
+    },
+    {
+      "igdb_id": 378827,
+      "game_name": "Tony Hawk's Pro Skater 1-4 Deluxe Edition Bundle",
+      "file": "missing/T/378827-tony-hawks-pro-skater-1-4-deluxe-edition-bundle.json"
+    },
+    {
+      "igdb_id": 378826,
+      "game_name": "Tony Hawk's Pro Skater 1-4 Standard Edition Bundle",
+      "file": "missing/T/378826-tony-hawks-pro-skater-1-4-standard-edition-bundle.json"
     },
     {
       "igdb_id": 139878,
@@ -1296395,6 +1296640,11 @@
       "igdb_id": 205808,
       "game_name": "Xtreme Sports Arcade: Summer Edition",
       "file": "missing/X/205808-xtreme-sports-arcade-summer-edition.json"
+    },
+    {
+      "igdb_id": 378839,
+      "game_name": "Xtreme Sports Bundle 2 in 1",
+      "file": "missing/X/378839-xtreme-sports-bundle-2-in-1.json"
     },
     {
       "igdb_id": 150660,
