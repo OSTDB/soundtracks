@@ -21202,6 +21202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony and Jennie | 337166 | [337166-tony-and-jennie.json](./337166-tony-and-jennie.json) |
 | Tony Hawk: Ride | 2701 | [2701-tony-hawk-ride.json](./2701-tony-hawk-ride.json) |
+| Tony Hawk: Ride | 364476 | [364476-tony-hawk-ride.json](./364476-tony-hawk-ride.json) |
 | Tony Hawk: Shred | 5230 | [5230-tony-hawk-shred.json](./5230-tony-hawk-shred.json) |
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
@@ -22067,6 +22068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchgrind | 66732 | [66732-touchgrind.json](./66732-touchgrind.json) |
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
+| Touchgrind BMX 3: Rivals | 364425 | [364425-touchgrind-bmx-3-rivals.json](./364425-touchgrind-bmx-3-rivals.json) |
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
 | Touching Lights | 175608 | [175608-touching-lights.json](./175608-touching-lights.json) |
 | TouchMaster DS | 21442 | [21442-touchmaster-ds.json](./21442-touchmaster-ds.json) |
@@ -26449,6 +26451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truckzilla: Monster Truck Mega Ramp Mania | 269051 | [269051-truckzilla-monster-truck-mega-ramp-mania.json](./269051-truckzilla-monster-truck-mega-ramp-mania.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
 | Truco | 212888 | [212888-truco.json](./212888-truco.json) |
+| Truco | 364433 | [364433-truco.json](./364433-truco.json) |
 | Truco '96 | 128865 | [128865-truco-96.json](./128865-truco-96.json) |
 | Truco Argentino | 410311 | [410311-truco-argentino.json](./410311-truco-argentino.json) |
 | Truco Bar | 405049 | [405049-truco-bar.json](./405049-truco-bar.json) |
@@ -27393,6 +27396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
+| Tweak & Destroy | 364610 | [364610-tweak-and-destroy.json](./364610-tweak-and-destroy.json) |
 | Tweaked Revolution | 259029 | [259029-tweaked-revolution.json](./259029-tweaked-revolution.json) |
 | Tweenies - Game Time | 65885 | [65885-tweenies-game-time.json](./65885-tweenies-game-time.json) |
 | Tweenies Doodles' Bones | 50058 | [50058-tweenies-doodles-bones.json](./50058-tweenies-doodles-bones.json) |
