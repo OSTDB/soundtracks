@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeny Tiny Tarot | 182878 | [182878-teeny-tiny-tarot.json](./182878-teeny-tiny-tarot.json) |
 | Teeny Tiny Town | 255045 | [255045-teeny-tiny-town.json](./255045-teeny-tiny-town.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
+| Teeny Tiny Trains: The Enchanted Attic | 357286 | [357286-teeny-tiny-trains-the-enchanted-attic.json](./357286-teeny-tiny-trains-the-enchanted-attic.json) |
 | Teeny Titans: Teen Titans Go! | 38941 | [38941-teeny-titans-teen-titans-go.json](./38941-teeny-titans-teen-titans-go.json) |
 | Teenyshire | 274004 | [274004-teenyshire.json](./274004-teenyshire.json) |
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
@@ -9261,6 +9262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incident at Galley House | 350434 | [350434-the-incident-at-galley-house.json](./350434-the-incident-at-galley-house.json) |
 | The Incomplete "Wish" 01. saidohirakareruhakono | 82766 | [82766-the-incomplete-wish-01-saidohirakareruhakono.json](./82766-the-incomplete-wish-01-saidohirakareruhakono.json) |
 | The Incomplete Lunar: First Night | 284331 | [284331-the-incomplete-lunar-first-night.json](./284331-the-incomplete-lunar-first-night.json) |
+| The Inconvenient Platformer | 357163 | [357163-the-inconvenient-platformer.json](./357163-the-inconvenient-platformer.json) |
 | The Incredible Adventures of Super Panda | 118783 | [118783-the-incredible-adventures-of-super-panda.json](./118783-the-incredible-adventures-of-super-panda.json) |
 | The Incredible Adventures of Van Helsing II | 6074 | [6074-the-incredible-adventures-of-van-helsing-ii.json](./6074-the-incredible-adventures-of-van-helsing-ii.json) |
 | The Incredible Adventures of Van Helsing II: Complete Pack | 223550 | [223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json](./223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json) |
@@ -15210,6 +15212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials of Olympus III: King of the World | 115794 | [115794-the-trials-of-olympus-iii-king-of-the-world.json](./115794-the-trials-of-olympus-iii-king-of-the-world.json) |
 | The Trials of Ozymandias | 321659 | [321659-the-trials-of-ozymandias.json](./321659-the-trials-of-ozymandias.json) |
 | The Trials of Topoq | 66897 | [66897-the-trials-of-topoq.json](./66897-the-trials-of-topoq.json) |
+| The Trials: Chapter One | 357136 | [357136-the-trials-chapter-one.json](./357136-the-trials-chapter-one.json) |
 | The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
 | The Triathron | 48326 | [48326-the-triathron.json](./48326-the-triathron.json) |
 | The Tribez | 38870 | [38870-the-tribez.json](./38870-the-tribez.json) |
@@ -23804,13 +23807,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic | 198295 | [198295-train-simulator-classic.json](./198295-train-simulator-classic.json) |
 | Train Simulator Classic: BN Wagon Pack 01 | 226264 | [226264-train-simulator-classic-bn-wagon-pack-01.json](./226264-train-simulator-classic-bn-wagon-pack-01.json) |
 | Train Simulator Classic: Boston & Albany - Boston - Springfield Route Add-On | 357395 | [357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json](./357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json) |
+| Train Simulator Classic: Bozeman Pass - Livingston: Three Forks & Trident | 357284 | [357284-train-simulator-classic-bozeman-pass-livingston-three-forks-and-trident.json](./357284-train-simulator-classic-bozeman-pass-livingston-three-forks-and-trident.json) |
+| Train Simulator Classic: BR285 Diesel Loco Add-On | 357289 | [357289-train-simulator-classic-br285-diesel-loco-add-on.json](./357289-train-simulator-classic-br285-diesel-loco-add-on.json) |
+| Train Simulator Classic: Burlington Northern U25 | 357291 | [357291-train-simulator-classic-burlington-northern-u25.json](./357291-train-simulator-classic-burlington-northern-u25.json) |
 | Train Simulator Classic: C-424 | 357392 | [357392-train-simulator-classic-c-424.json](./357392-train-simulator-classic-c-424.json) |
 | Train Simulator Classic: Chatham Main Line - London-Gillingham Route Add-On | 156463 | [156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json](./156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json) |
 | Train Simulator Classic: CR400AF Loco Add-On | 339157 | [339157-train-simulator-classic-cr400af-loco-add-on.json](./339157-train-simulator-classic-cr400af-loco-add-on.json) |
 | Train Simulator Classic: DB BR 218 'V 164' | 279013 | [279013-train-simulator-classic-db-br-218-v-164.json](./279013-train-simulator-classic-db-br-218-v-164.json) |
 | Train Simulator Classic: DB BR 247 Loco | 191019 | [191019-train-simulator-classic-db-br-247-loco.json](./191019-train-simulator-classic-db-br-247-loco.json) |
+| Train Simulator Classic: DB BR218 + 761 | 357278 | [357278-train-simulator-classic-db-br218-761.json](./357278-train-simulator-classic-db-br218-761.json) |
+| Train Simulator Classic: DB BR633 | 357282 | [357282-train-simulator-classic-db-br633.json](./357282-train-simulator-classic-db-br633.json) |
 | Train Simulator Classic: DB Fas 126 | 290805 | [290805-train-simulator-classic-db-fas-126.json](./290805-train-simulator-classic-db-fas-126.json) |
 | Train Simulator Classic: Drautalbahn - Klagenfurt: Spittal Millstättersee Route | 227143 | [227143-train-simulator-classic-drautalbahn-klagenfurt-spittal-millstattersee-route.json](./227143-train-simulator-classic-drautalbahn-klagenfurt-spittal-millstattersee-route.json) |
+| Train Simulator Classic: E412 Electric Locomotive | 357292 | [357292-train-simulator-classic-e412-electric-locomotive.json](./357292-train-simulator-classic-e412-electric-locomotive.json) |
 | Train Simulator Classic: E60 Electric Locomotive | 236543 | [236543-train-simulator-classic-e60-electric-locomotive.json](./236543-train-simulator-classic-e60-electric-locomotive.json) |
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
 | Train Simulator Classic: Empire State Express No. 999 | 298176 | [298176-train-simulator-classic-empire-state-express-no-999.json](./298176-train-simulator-classic-empire-state-express-no-999.json) |
@@ -23823,13 +23832,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Norfolk Southern Saluda Grade Route Add-On | 357293 | [357293-train-simulator-classic-norfolk-southern-saluda-grade-route-add-on.json](./357293-train-simulator-classic-norfolk-southern-saluda-grade-route-add-on.json) |
 | Train Simulator Classic: ÖBB 5081 Schienenbus | 264565 | [264565-train-simulator-classic-obb-5081-schienenbus.json](./264565-train-simulator-classic-obb-5081-schienenbus.json) |
 | Train Simulator Classic: ÖBB 8073 | 284880 | [284880-train-simulator-classic-obb-8073.json](./284880-train-simulator-classic-obb-8073.json) |
+| Train Simulator Classic: Ostbahn - Wien Hbf - Hegyeshalom - Bratislava-Petrzalka Route Add-On | 357280 | [357280-train-simulator-classic-ostbahn-wien-hbf-hegyeshalom-bratislava-petrzalka-route-add-on.json](./357280-train-simulator-classic-ostbahn-wien-hbf-hegyeshalom-bratislava-petrzalka-route-add-on.json) |
 | Train Simulator Classic: Passau - Regensburg Route Add-On | 357295 | [357295-train-simulator-classic-passau-regensburg-route-add-on.json](./357295-train-simulator-classic-passau-regensburg-route-add-on.json) |
 | Train Simulator Classic: Penn Central Pack 01 | 227312 | [227312-train-simulator-classic-penn-central-pack-01.json](./227312-train-simulator-classic-penn-central-pack-01.json) |
+| Train Simulator Classic: Pipestone Pass - Three Forks: Butte | 357283 | [357283-train-simulator-classic-pipestone-pass-three-forks-butte.json](./357283-train-simulator-classic-pipestone-pass-three-forks-butte.json) |
 | Train Simulator Classic: Regensburg – Ingolstadt Route Add-On | 357296 | [357296-train-simulator-classic-regensburg-ingolstadt-route-add-on.json](./357296-train-simulator-classic-regensburg-ingolstadt-route-add-on.json) |
 | Train Simulator Classic: Rio Grande Southern - Placerville - Rico & Telluride Route Add-On | 357396 | [357396-train-simulator-classic-rio-grande-southern-placerville-rico-and-telluride-route-add-on.json](./357396-train-simulator-classic-rio-grande-southern-placerville-rico-and-telluride-route-add-on.json) |
 | Train Simulator Classic: Saluda Grade Scenario Pack 01 | 267409 | [267409-train-simulator-classic-saluda-grade-scenario-pack-01.json](./267409-train-simulator-classic-saluda-grade-scenario-pack-01.json) |
 | Train Simulator Classic: Salzburg - Rosenheim Route | 193652 | [193652-train-simulator-classic-salzburg-rosenheim-route.json](./193652-train-simulator-classic-salzburg-rosenheim-route.json) |
 | Train Simulator Classic: Santa Fe Classic Pack 01 | 227283 | [227283-train-simulator-classic-santa-fe-classic-pack-01.json](./227283-train-simulator-classic-santa-fe-classic-pack-01.json) |
+| Train Simulator Classic: Santa Fe Super Fleet GP60M | 357290 | [357290-train-simulator-classic-santa-fe-super-fleet-gp60m.json](./357290-train-simulator-classic-santa-fe-super-fleet-gp60m.json) |
 | Train Simulator Classic: Soldier Summit Route | 238487 | [238487-train-simulator-classic-soldier-summit-route.json](./238487-train-simulator-classic-soldier-summit-route.json) |
 | Train Simulator Classic: Southern Railway Retro Pack 01 | 277351 | [277351-train-simulator-classic-southern-railway-retro-pack-01.json](./277351-train-simulator-classic-southern-railway-retro-pack-01.json) |
 | Train Simulator Classic: Suburban Glasgow - Airdrie Route Extension | 238621 | [238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json](./238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json) |
@@ -23842,6 +23854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: U-Bahn Hamburg U1 - Norderstedt Mitte - Ohlstedt & Großhansdorf Route Add-On | 357294 | [357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json](./357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json) |
 | Train Simulator Classic: Wasatch Grade Scenario Pack 01 | 243375 | [243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json](./243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json) |
 | Train Simulator Classic: Western Maryland H-9 Class | 253432 | [253432-train-simulator-classic-western-maryland-h-9-class.json](./253432-train-simulator-classic-western-maryland-h-9-class.json) |
+| Train Simulator Classic: Western Maryland I-2 Class | 357279 | [357279-train-simulator-classic-western-maryland-i-2-class.json](./357279-train-simulator-classic-western-maryland-i-2-class.json) |
 | Train Simulator Classic: Wien - St. Pölten Route Add-On | 354564 | [354564-train-simulator-classic-wien-st-polten-route-add-on.json](./354564-train-simulator-classic-wien-st-polten-route-add-on.json) |
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
 | Train Simulator Classic: Zcs VTG Wagon Pack | 293395 | [293395-train-simulator-classic-zcs-vtg-wagon-pack.json](./293395-train-simulator-classic-zcs-vtg-wagon-pack.json) |
