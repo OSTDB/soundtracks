@@ -6064,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the Galaxy | 30304 | [30304-children-of-the-galaxy.json](./30304-children-of-the-galaxy.json) |
 | Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
 | Children of the Nile: Alexandria | 11273 | [11273-children-of-the-nile-alexandria.json](./11273-children-of-the-nile-alexandria.json) |
+| Children of the Nile: Alexandria | 334614 | [334614-children-of-the-nile-alexandria.json](./334614-children-of-the-nile-alexandria.json) |
 | Children of the Nile: Enhanced Edition | 27834 | [27834-children-of-the-nile-enhanced-edition.json](./27834-children-of-the-nile-enhanced-edition.json) |
 | Children of the Spring | 363155 | [363155-children-of-the-spring.json](./363155-children-of-the-spring.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
