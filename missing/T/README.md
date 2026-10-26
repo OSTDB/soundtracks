@@ -26052,6 +26052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Crack World | 278352 | [278352-trivia-crack-world.json](./278352-trivia-crack-world.json) |
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
+| Trivia Genius | 358215 | [358215-trivia-genius.json](./358215-trivia-genius.json) |
 | Trivia Machine Reloaded | 416179 | [416179-trivia-machine-reloaded.json](./416179-trivia-machine-reloaded.json) |
 | Trivia Munchers Deluxe | 113908 | [113908-trivia-munchers-deluxe.json](./113908-trivia-munchers-deluxe.json) |
 | Trivia Murder Party 3 | 338920 | [338920-trivia-murder-party-3.json](./338920-trivia-murder-party-3.json) |
