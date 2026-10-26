@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D. the Atom Shifter | 110312 | [110312-d-the-atom-shifter.json](./110312-d-the-atom-shifter.json) |
 | D.A.: Pursuit of Justice | 100282 | [100282-d-a-pursuit-of-justice.json](./100282-d-a-pursuit-of-justice.json) |
 | D.A.: Pursuit of Justice - The Sunset Boulevard Deuce | 71358 | [71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json](./71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json) |
+| D.A.D.S. | 381572 | [381572-d-a-d-s.json](./381572-d-a-d-s.json) |
 | D.A.M. Champion | 280160 | [280160-d-a-m-champion.json](./280160-d-a-m-champion.json) |
 | D.A.R: Deadly Alien Rogues | 327030 | [327030-d-a-r-deadly-alien-rogues.json](./327030-d-a-r-deadly-alien-rogues.json) |
 | D.Beta | 280162 | [280162-d-beta.json](./280162-d-beta.json) |
@@ -2237,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Winfield's Batter Up! | 111897 | [111897-dave-winfields-batter-up.json](./111897-dave-winfields-batter-up.json) |
 | Dave-Man | 126517 | [126517-dave-man.json](./126517-dave-man.json) |
 | Dave's Fun Algebra Class: Remastered | 264794 | [264794-daves-fun-algebra-class-remastered.json](./264794-daves-fun-algebra-class-remastered.json) |
+| Dave's Word Game | 381590 | [381590-daves-word-game.json](./381590-daves-word-game.json) |
 | Davey | 195580 | [195580-davey.json](./195580-davey.json) |
 | Davey Jones TD | 62810 | [62810-davey-jones-td.json](./62810-davey-jones-td.json) |
 | Davey's Mystery | 411645 | [411645-daveys-mystery.json](./411645-daveys-mystery.json) |
@@ -5256,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
 | Demon Burst | 396713 | [396713-demon-burst.json](./396713-demon-burst.json) |
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
+| Demon Castle Story | 381568 | [381568-demon-castle-story.json](./381568-demon-castle-story.json) |
 | Demon Compass | 323594 | [323594-demon-compass.json](./323594-demon-compass.json) |
 | Demon Core | 110239 | [110239-demon-core.json](./110239-demon-core.json) |
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
@@ -7401,6 +7404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Raiders: Anomaly Extraction | 406661 | [406661-dig-raiders-anomaly-extraction.json](./406661-dig-raiders-anomaly-extraction.json) |
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
 | Dig the Ground | 164226 | [164226-dig-the-ground.json](./164226-dig-the-ground.json) |
+| Dig to China Simulator | 381564 | [381564-dig-to-china-simulator.json](./381564-dig-to-china-simulator.json) |
 | Dig to Escape | 422101 | [422101-dig-to-escape.json](./422101-dig-to-escape.json) |
 | Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
 | Dig to the Stars | 113408 | [113408-dig-to-the-stars.json](./113408-dig-to-the-stars.json) |
@@ -13000,6 +13004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | Dreadmiles | 425500 | [425500-dreadmiles.json](./425500-dreadmiles.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
+| Dreadmyst | 381656 | [381656-dreadmyst.json](./381656-dreadmyst.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | Dreadnought | 266432 | [266432-dreadnought.json](./266432-dreadnought.json) |
 | Dreadnought | 7336 | [7336-dreadnought.json](./7336-dreadnought.json) |
@@ -13582,6 +13587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | drHackDream | 120248 | [120248-drhackdream.json](./120248-drhackdream.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
 | Dribble Basket | 424660 | [424660-dribble-basket.json](./424660-dribble-basket.json) |
+| Dribble Bounces Back! | 381579 | [381579-dribble-bounces-back.json](./381579-dribble-bounces-back.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
 | Drift | 359723 | [359723-drift.json](./359723-drift.json) |
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
@@ -14954,6 +14960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Furry | 236725 | [236725-dungeon-furry.json](./236725-dungeon-furry.json) |
 | Dungeon Gals | 316161 | [316161-dungeon-gals.json](./316161-dungeon-gals.json) |
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
+| Dungeon Gambler: All In, No Out | 381563 | [381563-dungeon-gambler-all-in-no-out.json](./381563-dungeon-gambler-all-in-no-out.json) |
 | Dungeon Gatekeeper | 391774 | [391774-dungeon-gatekeeper.json](./391774-dungeon-gatekeeper.json) |
 | Dungeon Gems | 348737 | [348737-dungeon-gems.json](./348737-dungeon-gems.json) |
 | Dungeon Girl | 271115 | [271115-dungeon-girl.json](./271115-dungeon-girl.json) |
