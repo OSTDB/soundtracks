@@ -4217,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wide Awake! | 308443 | [308443-wide-awake.json](./308443-wide-awake.json) |
 | Wide Cross | 109497 | [109497-wide-cross.json](./109497-wide-cross.json) |
 | Wide Island | 179463 | [179463-wide-island.json](./179463-wide-island.json) |
+| Wide Load | 347600 | [347600-wide-load.json](./347600-wide-load.json) |
 | Wide Ocean Big Jacket | 127591 | [127591-wide-ocean-big-jacket.json](./127591-wide-ocean-big-jacket.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
 | Wide Sky | 22176 | [22176-wide-sky.json](./22176-wide-sky.json) |
