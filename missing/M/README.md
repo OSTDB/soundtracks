@@ -13725,6 +13725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Buggy | 288672 | [288672-moon-buggy.json](./288672-moon-buggy.json) |
 | Moon Buggy | 40930 | [40930-moon-buggy.json](./40930-moon-buggy.json) |
 | Moon Bugs | 57652 | [57652-moon-bugs.json](./57652-moon-bugs.json) |
+| Moon Carrier | 357135 | [357135-moon-carrier.json](./357135-moon-carrier.json) |
 | Moon Castle | 89404 | [89404-moon-castle.json](./89404-moon-castle.json) |
 | Moon Child | 108279 | [108279-moon-child.json](./108279-moon-child.json) |
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
@@ -16398,6 +16399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
 | Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
+| MustScream | 357139 | [357139-mustscream.json](./357139-mustscream.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
 | Musynx | 75992 | [75992-musynx.json](./75992-musynx.json) |
