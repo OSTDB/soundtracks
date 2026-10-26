@@ -6945,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiVR | 26844 | [26844-rivr.json](./26844-rivr.json) |
 | Rixe | 392111 | [392111-rixe.json](./392111-rixe.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
+| Riyou | 369076 | [369076-riyou.json](./369076-riyou.json) |
 | Riyou Kiyaku | 418728 | [418728-riyou-kiyaku.json](./418728-riyou-kiyaku.json) |
 | Rize of the Summonds | 25594 | [25594-rize-of-the-summonds.json](./25594-rize-of-the-summonds.json) |
 | Rizline | 245214 | [245214-rizline.json](./245214-rizline.json) |
