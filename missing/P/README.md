@@ -8395,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plug and Play Sudoku | 263432 | [263432-plug-and-play-sudoku.json](./263432-plug-and-play-sudoku.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
+| Plug-in PET | 352783 | [352783-plug-in-pet.json](./352783-plug-in-pet.json) |
 | PlugMax | 132614 | [132614-plugmax.json](./132614-plugmax.json) |
 | Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
 | Plum Blossom Divination | 265521 | [265521-plum-blossom-divination.json](./265521-plum-blossom-divination.json) |
@@ -12929,6 +12930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress Knight: Multiplayer | 327663 | [327663-progress-knight-multiplayer.json](./327663-progress-knight-multiplayer.json) |
 | Progress Knight: Remastered | 327662 | [327662-progress-knight-remastered.json](./327662-progress-knight-remastered.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
+| Progress PET | 352779 | [352779-progress-pet.json](./352779-progress-pet.json) |
 | Progress PET: Battle Chip - 539: Noise Storm | 355324 | [355324-progress-pet-battle-chip-539-noise-storm.json](./355324-progress-pet-battle-chip-539-noise-storm.json) |
 | Progress PET: Battle Chip - 540: Life Synchro | 355325 | [355325-progress-pet-battle-chip-540-life-synchro.json](./355325-progress-pet-battle-chip-540-life-synchro.json) |
 | Progress PET: Battle Chip - 541: Mini Bomb | 355326 | [355326-progress-pet-battle-chip-541-mini-bomb.json](./355326-progress-pet-battle-chip-541-mini-bomb.json) |
