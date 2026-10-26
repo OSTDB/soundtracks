@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Conflict: Shogun Empires | 20494 | [20494-real-time-conflict-shogun-empires.json](./20494-real-time-conflict-shogun-empires.json) |
 | Real Time Shields | 175668 | [175668-real-time-shields.json](./175668-real-time-shields.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
+| Real Truck Simulator USA & Ultimate 4x4 Offroad & Real Car Driving Simulator Bundle | 385130 | [385130-real-truck-simulator-usa-and-ultimate-4x4-offroad-and-real-car-driving-simulator-bundle.json](./385130-real-truck-simulator-usa-and-ultimate-4x4-offroad-and-real-car-driving-simulator-bundle.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
 | Real Turbo Racing | 100797 | [100797-real-turbo-racing.json](./100797-real-turbo-racing.json) |
 | Real Vampires | 351402 | [351402-real-vampires.json](./351402-real-vampires.json) |
