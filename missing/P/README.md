@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Bride 7: Lethal Bond | 383172 | [383172-paper-bride-7-lethal-bond.json](./383172-paper-bride-7-lethal-bond.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
+| Paper Castle | 379945 | [379945-paper-castle.json](./379945-paper-castle.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Chaser's | 247432 | [247432-paper-chasers.json](./247432-paper-chasers.json) |
 | Paper Cut Mansion | 86512 | [86512-paper-cut-mansion.json](./86512-paper-cut-mansion.json) |
@@ -7279,6 +7280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixoCities | 120718 | [120718-pixocities.json](./120718-pixocities.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
+| Pixplorer | 379950 | [379950-pixplorer.json](./379950-pixplorer.json) |
 | PixReveal | 416604 | [416604-pixreveal.json](./416604-pixreveal.json) |
 | Pixross | 142195 | [142195-pixross.json](./142195-pixross.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
@@ -7297,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PiyoShogi | 388512 | [388512-piyoshogi.json](./388512-piyoshogi.json) |
 | Piyotama | 21882 | [21882-piyotama.json](./21882-piyotama.json) |
 | Pizz'Amore | 304233 | [304233-pizzamore.json](./304233-pizzamore.json) |
+| Pizza Agent | 379948 | [379948-pizza-agent.json](./379948-pizza-agent.json) |
 | Pizza Apocalypse | 169748 | [169748-pizza-apocalypse.json](./169748-pizza-apocalypse.json) |
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
 | Pizza Bandit | 258559 | [258559-pizza-bandit.json](./258559-pizza-bandit.json) |
@@ -9446,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
 | Pokémon Sun Moon Double Pack | 136900 | [136900-pokemon-sun-moon-double-pack.json](./136900-pokemon-sun-moon-double-pack.json) |
 | Pokémon Super Gold 97 | 142232 | [142232-pokemon-super-gold-97.json](./142232-pokemon-super-gold-97.json) |
+| Pokémon Super Mystery Dungeon: Echoes of Yesterday | 379928 | [379928-pokemon-super-mystery-dungeon-echoes-of-yesterday.json](./379928-pokemon-super-mystery-dungeon-echoes-of-yesterday.json) |
 | Pokémon Supernova Sun | 257197 | [257197-pokemon-supernova-sun.json](./257197-pokemon-supernova-sun.json) |
 | Pokemon Supreme Fire | 327263 | [327263-pokemon-supreme-fire.json](./327263-pokemon-supreme-fire.json) |
 | Pokémon Survivor Burst | 414864 | [414864-pokemon-survivor-burst.json](./414864-pokemon-survivor-burst.json) |
@@ -10279,6 +10283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
 | Pool Fever: Upgrade Edition | 399825 | [399825-pool-fever-upgrade-edition.json](./399825-pool-fever-upgrade-edition.json) |
 | Pool Fiction | 402910 | [402910-pool-fiction.json](./402910-pool-fiction.json) |
+| Pool Friday | 379917 | [379917-pool-friday.json](./379917-pool-friday.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
 | Pool Hall Pro | 261971 | [261971-pool-hall-pro.json](./261971-pool-hall-pro.json) |
 | Pool House | 54284 | [54284-pool-house.json](./54284-pool-house.json) |
