@@ -5561,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Striker | 256235 | [256235-mech-striker.json](./256235-mech-striker.json) |
 | Mech Survivor Elite | 311779 | [311779-mech-survivor-elite.json](./311779-mech-survivor-elite.json) |
 | Mech Tech | 238441 | [238441-mech-tech.json](./238441-mech-tech.json) |
+| Mech Top-Down Shooter Dating Sim | 363925 | [363925-mech-top-down-shooter-dating-sim.json](./363925-mech-top-down-shooter-dating-sim.json) |
 | Mech vs. Aliens | 196547 | [196547-mech-vs-aliens.json](./196547-mech-vs-aliens.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Warfare Arena | 174665 | [174665-mech-warfare-arena.json](./174665-mech-warfare-arena.json) |
@@ -5697,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechShell | 373147 | [373147-mechshell.json](./373147-mechshell.json) |
 | Mechsprofit | 96842 | [96842-mechsprofit.json](./96842-mechsprofit.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
+| Mechtobacillus | 363931 | [363931-mechtobacillus.json](./363931-mechtobacillus.json) |
 | MechTroid | 83804 | [83804-mechtroid.json](./83804-mechtroid.json) |
 | MechWarrior | 13091 | [13091-mechwarrior.json](./13091-mechwarrior.json) |
 | MechWarrior | 19188 | [19188-mechwarrior.json](./19188-mechwarrior.json) |
