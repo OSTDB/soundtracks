@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahouka Koukou no Rettousei: Out of Order | 61996 | [61996-mahouka-koukou-no-rettousei-out-of-order.json](./61996-mahouka-koukou-no-rettousei-out-of-order.json) |
 | Mahouka Koukou no Rettousei: School Magicus Battle | 60828 | [60828-mahouka-koukou-no-rettousei-school-magicus-battle.json](./60828-mahouka-koukou-no-rettousei-school-magicus-battle.json) |
 | MahouSho* | 391711 | [391711-mahousho.json](./391711-mahousho.json) |
+| Mahouteq! | 350479 | [350479-mahouteq.json](./350479-mahouteq.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
 | Mahsung Deluxe | 30738 | [30738-mahsung-deluxe.json](./30738-mahsung-deluxe.json) |
@@ -5055,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
 | May I Open My Eyes to the Night!? | 303293 | [303293-may-i-open-my-eyes-to-the-night.json](./303293-may-i-open-my-eyes-to-the-night.json) |
 | May I Take Your Order? | 123025 | [123025-may-i-take-your-order.json](./123025-may-i-take-your-order.json) |
+| May Sky | 350362 | [350362-may-sky.json](./350362-may-sky.json) |
 | May the Cards Lay Out a Straight | 390989 | [390989-may-the-cards-lay-out-a-straight.json](./390989-may-the-cards-lay-out-a-straight.json) |
 | May Your Memory Be a Blessing | 308422 | [308422-may-your-memory-be-a-blessing.json](./308422-may-your-memory-be-a-blessing.json) |
 | May's Mysteries: The Secret of Dragonville | 17928 | [17928-mays-mysteries-the-secret-of-dragonville.json](./17928-mays-mysteries-the-secret-of-dragonville.json) |
@@ -5977,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Royal Chess: Classic Board Game | 253226 | [253226-medieval-royal-chess-classic-board-game.json](./253226-medieval-royal-chess-classic-board-game.json) |
 | Medieval Sex Jigsaw | 291067 | [291067-medieval-sex-jigsaw.json](./291067-medieval-sex-jigsaw.json) |
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
+| Medieval Shop Simulator | 350333 | [350333-medieval-shop-simulator.json](./350333-medieval-shop-simulator.json) |
 | Medieval Shorts 3 | 101752 | [101752-medieval-shorts-3.json](./101752-medieval-shorts-3.json) |
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
@@ -11754,6 +11757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mito Koumon II: Sekai Manyuu Ki | 48773 | [48773-mito-koumon-ii-sekai-manyuu-ki.json](./48773-mito-koumon-ii-sekai-manyuu-ki.json) |
 | Mitoosis | 144788 | [144788-mitoosis.json](./144788-mitoosis.json) |
 | Mitos | 194860 | [194860-mitos.json](./194860-mitos.json) |
+| Mitos.is: OG | 350360 | [350360-mitos-is-og.json](./350360-mitos-is-og.json) |
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
 | Mitosis | 29959 | [29959-mitosis.json](./29959-mitosis.json) |
 | Mitoza | 144270 | [144270-mitoza.json](./144270-mitoza.json) |
@@ -15200,6 +15204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Playhouse | 29048 | [29048-mouse-playhouse.json](./29048-mouse-playhouse.json) |
 | Mouse Practice for Kids | 373897 | [373897-mouse-practice-for-kids.json](./373897-mouse-practice-for-kids.json) |
 | Mouse Saving Simulator | 402226 | [402226-mouse-saving-simulator.json](./402226-mouse-saving-simulator.json) |
+| Mouse Shooter | 350330 | [350330-mouse-shooter.json](./350330-mouse-shooter.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
 | Mouse Trap | 5687 | [5687-mouse-trap.json](./5687-mouse-trap.json) |
 | Mouse Trap / Operation / Simon | 77240 | [77240-mouse-trap-operation-simon.json](./77240-mouse-trap-operation-simon.json) |
@@ -15906,6 +15911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mujun's Casefile: The Mystery Mansion | 394431 | [394431-mujuns-casefile-the-mystery-mansion.json](./394431-mujuns-casefile-the-mystery-mansion.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
+| Mukiz | 350361 | [350361-mukiz.json](./350361-mukiz.json) |
 | Mukogawa | 344319 | [344319-mukogawa.json](./344319-mukogawa.json) |
 | Mukon M | 214380 | [214380-mukon-m.json](./214380-mukon-m.json) |
 | Mukou no Yume | 329905 | [329905-mukou-no-yume.json](./329905-mukou-no-yume.json) |
