@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dante's Inferno: St. Lucia Edition | 232832 | [232832-dantes-inferno-st-lucia-edition.json](./232832-dantes-inferno-st-lucia-edition.json) |
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
 | Dante's Infernya | 175841 | [175841-dantes-infernya.json](./175841-dantes-infernya.json) |
+| Dante's Purgatorio | 376496 | [376496-dantes-purgatorio.json](./376496-dantes-purgatorio.json) |
 | Dante's Rumba | 412188 | [412188-dantes-rumba.json](./412188-dantes-rumba.json) |
 | Dantes Bullet Inferno | 129749 | [129749-dantes-bullet-inferno.json](./129749-dantes-bullet-inferno.json) |
 | Danzai no Maria: The Exorcism of Maria | 72647 | [72647-danzai-no-maria-the-exorcism-of-maria.json](./72647-danzai-no-maria-the-exorcism-of-maria.json) |
@@ -1060,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Gaiden | 6788 | [6788-darius-gaiden.json](./6788-darius-gaiden.json) |
 | Darius Maker | 294786 | [294786-darius-maker.json](./294786-darius-maker.json) |
 | Darius R | 49277 | [49277-darius-r.json](./49277-darius-r.json) |
+| Darius the Janitor: A Christmas Story | 376502 | [376502-darius-the-janitor-a-christmas-story.json](./376502-darius-the-janitor-a-christmas-story.json) |
 | Darius the Mailman | 294799 | [294799-darius-the-mailman.json](./294799-darius-the-mailman.json) |
 | Darius Twin | 6660 | [6660-darius-twin.json](./6660-darius-twin.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
@@ -7817,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Breeder 3: Gaia Fukkatsu | 65585 | [65585-dino-breeder-3-gaia-fukkatsu.json](./65585-dino-breeder-3-gaia-fukkatsu.json) |
 | Dino Breeder 4 | 65587 | [65587-dino-breeder-4.json](./65587-dino-breeder-4.json) |
 | Dino Bros | 371323 | [371323-dino-bros.json](./371323-dino-bros.json) |
+| Dino Cap | 376499 | [376499-dino-cap.json](./376499-dino-cap.json) |
 | Dino Chomp | 351695 | [351695-dino-chomp.json](./351695-dino-chomp.json) |
 | Dino City | 42202 | [42202-dino-city.json](./42202-dino-city.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
