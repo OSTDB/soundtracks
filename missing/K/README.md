@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Thing | 420518 | [420518-kill-the-thing.json](./420518-kill-the-thing.json) |
 | Kill The Topulus | 265836 | [265836-kill-the-topulus.json](./265836-kill-the-topulus.json) |
 | Kill the Twister | 339679 | [339679-kill-the-twister.json](./339679-kill-the-twister.json) |
+| Kill Them All | 345399 | [345399-kill-them-all.json](./345399-kill-them-all.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
 | Kill Tiger | 113538 | [113538-kill-tiger.json](./113538-kill-tiger.json) |
 | Kill to Collect | 18722 | [18722-kill-to-collect.json](./18722-kill-to-collect.json) |
@@ -2345,7 +2346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
