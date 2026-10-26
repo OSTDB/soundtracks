@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall of Insanity | 165541 | [165541-wall-of-insanity.json](./165541-wall-of-insanity.json) |
 | Wall of Insanity 2 | 365847 | [365847-wall-of-insanity-2.json](./365847-wall-of-insanity-2.json) |
 | Wall of Taiji | 178248 | [178248-wall-of-taiji.json](./178248-wall-of-taiji.json) |
+| Wall Pipe | 344040 | [344040-wall-pipe.json](./344040-wall-pipe.json) |
 | Wall Shooter | 244864 | [244864-wall-shooter.json](./244864-wall-shooter.json) |
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
 | Wall Street | 261989 | [261989-wall-street.json](./261989-wall-street.json) |
@@ -6649,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Annihilation Operations Parts I-IV | 235069 | [235069-world-annihilation-operations-parts-i-iv.json](./235069-world-annihilation-operations-parts-i-iv.json) |
 | World Apart | 98546 | [98546-world-apart.json](./98546-world-apart.json) |
 | World At War 85 Digital | 216481 | [216481-world-at-war-85-digital.json](./216481-world-at-war-85-digital.json) |
+| World At War: Cobra | 343715 | [343715-world-at-war-cobra.json](./343715-world-at-war-cobra.json) |
 | World at War: Nazi Zombies Remastered | 299137 | [299137-world-at-war-nazi-zombies-remastered.json](./299137-world-at-war-nazi-zombies-remastered.json) |
 | World At War: Normandy | 333743 | [333743-world-at-war-normandy.json](./333743-world-at-war-normandy.json) |
 | World at War: Operation Somalia | 10915 | [10915-world-at-war-operation-somalia.json](./10915-world-at-war-operation-somalia.json) |
