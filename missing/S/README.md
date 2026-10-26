@@ -7266,6 +7266,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Fight | 113864 | [113864-ship-fight.json](./113864-ship-fight.json) |
 | Ship Fight! | 372129 | [372129-ship-fight.json](./372129-ship-fight.json) |
 | Ship Graveyard Simulator 2 | 225984 | [225984-ship-graveyard-simulator-2.json](./225984-ship-graveyard-simulator-2.json) |
+| Ship Graveyard Simulator 2: Floating Cities | 337530 | [337530-ship-graveyard-simulator-2-floating-cities.json](./337530-ship-graveyard-simulator-2-floating-cities.json) |
+| Ship Graveyard Simulator 2: Steam Ships | 337529 | [337529-ship-graveyard-simulator-2-steam-ships.json](./337529-ship-graveyard-simulator-2-steam-ships.json) |
 | Ship Graveyard Simulator 2: Warships DLC | 277940 | [277940-ship-graveyard-simulator-2-warships-dlc.json](./277940-ship-graveyard-simulator-2-warships-dlc.json) |
 | Ship Graveyard Simulator 3 | 397763 | [397763-ship-graveyard-simulator-3.json](./397763-ship-graveyard-simulator-3.json) |
 | Ship Graveyard Simulator Collection | 331407 | [331407-ship-graveyard-simulator-collection.json](./331407-ship-graveyard-simulator-collection.json) |
@@ -8962,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Creek Falls: Chapter 1 | 34685 | [34685-silver-creek-falls-chapter-1.json](./34685-silver-creek-falls-chapter-1.json) |
 | Silver Creek Falls: Chapter 2 | 34429 | [34429-silver-creek-falls-chapter-2.json](./34429-silver-creek-falls-chapter-2.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
+| Silver Daze | 337847 | [337847-silver-daze.json](./337847-silver-daze.json) |
 | Silver Edge | 261107 | [261107-silver-edge.json](./261107-silver-edge.json) |
 | Silver Falls Mini: Monsters In North Island | 307177 | [307177-silver-falls-mini-monsters-in-north-island.json](./307177-silver-falls-mini-monsters-in-north-island.json) |
 | Silver Falls Miracle Makeout Mania | 307179 | [307179-silver-falls-miracle-makeout-mania.json](./307179-silver-falls-miracle-makeout-mania.json) |
@@ -10419,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
 | Skunny: Special Edition | 46732 | [46732-skunny-special-edition.json](./46732-skunny-special-edition.json) |
 | Skunny's Desert Raid | 71045 | [71045-skunnys-desert-raid.json](./71045-skunnys-desert-raid.json) |
+| Skvears | 337543 | [337543-skvears.json](./337543-skvears.json) |
 | Skwampt | 229752 | [229752-skwampt.json](./229752-skwampt.json) |
 | Skwish | 212294 | [212294-skwish.json](./212294-skwish.json) |
 | Sky & Heart Last Survival | 83342 | [83342-sky-and-heart-last-survival.json](./83342-sky-and-heart-last-survival.json) |
