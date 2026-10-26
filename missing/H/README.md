@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hack And Slash Fury: Warrior Armor | 334524 | [334524-hack-and-slash-fury-warrior-armor.json](./334524-hack-and-slash-fury-warrior-armor.json) |
+| Hack Back | 353760 | [353760-hack-back.json](./353760-hack-back.json) |
 | Hack Deep | 291711 | [291711-hack-deep.json](./291711-hack-deep.json) |
 | Hack FPS | 151715 | [151715-hack-fps.json](./151715-hack-fps.json) |
 | Hack FPS: Anniversary Edition | 205015 | [205015-hack-fps-anniversary-edition.json](./205015-hack-fps-anniversary-edition.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonia Heart | 206181 | [206181-harmonia-heart.json](./206181-harmonia-heart.json) |
 | Harmonia: Full HD Edition | 289587 | [289587-harmonia-full-hd-edition.json](./289587-harmonia-full-hd-edition.json) |
 | Harmonian Tales | 146535 | [146535-harmonian-tales.json](./146535-harmonian-tales.json) |
+| Harmonic Convergence | 353762 | [353762-harmonic-convergence.json](./353762-harmonic-convergence.json) |
 | Harmonic Depths | 266096 | [266096-harmonic-depths.json](./266096-harmonic-depths.json) |
 | Harmonies | 314626 | [314626-harmonies.json](./314626-harmonies.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
@@ -2116,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
 | Hatsune Miku Logic Paint | 144758 | [144758-hatsune-miku-logic-paint.json](./144758-hatsune-miku-logic-paint.json) |
 | Hatsune Miku Logic Paint S | 144759 | [144759-hatsune-miku-logic-paint-s.json](./144759-hatsune-miku-logic-paint-s.json) |
+| Hatsune Miku Logic Paint S+ | 353940 | [353940-hatsune-miku-logic-paint-s.json](./353940-hatsune-miku-logic-paint-s.json) |
 | Hatsune Miku VR | 89847 | [89847-hatsune-miku-vr.json](./89847-hatsune-miku-vr.json) |
 | Hatsune Miku VR: 5 Songs pack 1 | 223587 | [223587-hatsune-miku-vr-5-songs-pack-1.json](./223587-hatsune-miku-vr-5-songs-pack-1.json) |
 | Hatsune Miku VR: 5 Songs pack 2 | 223589 | [223589-hatsune-miku-vr-5-songs-pack-2.json](./223589-hatsune-miku-vr-5-songs-pack-2.json) |
