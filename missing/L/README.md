@@ -3246,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's! Revolution! | 242101 | [242101-lets-revolution.json](./242101-lets-revolution.json) |
 | Let's! Splat! Machigai Sagashi | 222528 | [222528-lets-splat-machigai-sagashi.json](./222528-lets-splat-machigai-sagashi.json) |
 | Leta Adventure | 240128 | [240128-leta-adventure.json](./240128-leta-adventure.json) |
+| LetDeco | 351667 | [351667-letdeco.json](./351667-letdeco.json) |
 | Lethal | 355235 | [355235-lethal.json](./355235-lethal.json) |
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
@@ -3853,6 +3854,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifelong | 262851 | [262851-lifelong.json](./262851-lifelong.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | Liferaft: Zero | 56329 | [56329-liferaft-zero.json](./56329-liferaft-zero.json) |
+| LifeScape | 351554 | [351554-lifescape.json](./351554-lifescape.json) |
+| Lifescape 2: Bodybionics | 351552 | [351552-lifescape-2-bodybionics.json](./351552-lifescape-2-bodybionics.json) |
 | Lifesigns | 143575 | [143575-lifesigns.json](./143575-lifesigns.json) |
 | LifeSigns: Surgical Unit | 18600 | [18600-lifesigns-surgical-unit.json](./18600-lifesigns-surgical-unit.json) |
 | Lifespan 5seconds | 107701 | [107701-lifespan-5seconds.json](./107701-lifespan-5seconds.json) |
@@ -3954,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Lithos | 355594 | [355594-light-of-lithos.json](./355594-light-of-lithos.json) |
 | Light of Motiram | 323536 | [323536-light-of-motiram.json](./323536-light-of-motiram.json) |
 | Light of Reversing Destiny | 344362 | [344362-light-of-reversing-destiny.json](./344362-light-of-reversing-destiny.json) |
+| Light of the Ancients | 351542 | [351542-light-of-the-ancients.json](./351542-light-of-the-ancients.json) |
 | Light of the Eternal Night | 358922 | [358922-light-of-the-eternal-night.json](./358922-light-of-the-eternal-night.json) |
 | Light of the Locked World | 119762 | [119762-light-of-the-locked-world.json](./119762-light-of-the-locked-world.json) |
 | Light of the Mountain | 44213 | [44213-light-of-the-mountain.json](./44213-light-of-the-mountain.json) |
