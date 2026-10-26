@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
 | A Plague Tale: Requiem - Protector Pack | 223447 | [223447-a-plague-tale-requiem-protector-pack.json](./223447-a-plague-tale-requiem-protector-pack.json) |
 | A Planet Full of Cats | 347109 | [347109-a-planet-full-of-cats.json](./347109-a-planet-full-of-cats.json) |
+| A Planet of Mine Mastermine Edition | 372521 | [372521-a-planet-of-mine-mastermine-edition.json](./372521-a-planet-of-mine-mastermine-edition.json) |
 | A Planet Wakes | 141756 | [141756-a-planet-wakes.json](./141756-a-planet-wakes.json) |
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
@@ -966,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
 | A Space for the Unbound: Special Edition | 283586 | [283586-a-space-for-the-unbound-special-edition.json](./283586-a-space-for-the-unbound-special-edition.json) |
 | A Spaceman Came Travelling | 177444 | [177444-a-spaceman-came-travelling.json](./177444-a-spaceman-came-travelling.json) |
+| A Spaceship Accident | 372446 | [372446-a-spaceship-accident.json](./372446-a-spaceship-accident.json) |
 | A Special Place In Hell | 249066 | [249066-a-special-place-in-hell.json](./249066-a-special-place-in-hell.json) |
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
 | A Spiritual Adventure | 386911 | [386911-a-spiritual-adventure.json](./386911-a-spiritual-adventure.json) |
@@ -1755,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absylon 7 | 165403 | [165403-absylon-7.json](./165403-absylon-7.json) |
 | Abtos Covert | 167396 | [167396-abtos-covert.json](./167396-abtos-covert.json) |
 | Abu Batata | 411555 | [411555-abu-batata.json](./411555-abu-batata.json) |
+| Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Koi no Sousashitsu: Eternal Happiness | 60422 | [60422-abunai-koi-no-sousashitsu-eternal-happiness.json](./60422-abunai-koi-no-sousashitsu-eternal-happiness.json) |
@@ -3069,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3681,6 +3685,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Will of a Chainsaw | 207132 | [207132-against-the-will-of-a-chainsaw.json](./207132-against-the-will-of-a-chainsaw.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Against Wokou Frontline | 389992 | [389992-against-wokou-frontline.json](./389992-against-wokou-frontline.json) |
+| Agalta | 372558 | [372558-agalta.json](./372558-agalta.json) |
+| Agalta 3 | 372562 | [372562-agalta-3.json](./372562-agalta-3.json) |
+| Agalta II | 372561 | [372561-agalta-ii.json](./372561-agalta-ii.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
@@ -9371,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao Zora to Nakama Tachi: Yume no Bouken Plus | 44842 | [44842-ao-zora-to-nakama-tachi-yume-no-bouken-plus.json](./44842-ao-zora-to-nakama-tachi-yume-no-bouken-plus.json) |
 | Ao-Don DS: Hanabi no Goku & Hanabi no Takumi | 269649 | [269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json](./269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json) |
 | AO3dle | 369853 | [369853-ao3dle.json](./369853-ao3dle.json) |
+| AO3dle | 372439 | [372439-ao3dle.json](./372439-ao3dle.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
