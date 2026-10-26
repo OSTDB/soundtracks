@@ -3684,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginkgo | 144975 | [144975-ginkgo.json](./144975-ginkgo.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
 | Ginormo Sword | 225830 | [225830-ginormo-sword.json](./225830-ginormo-sword.json) |
+| Ginormo Sword | 341428 | [341428-ginormo-sword.json](./341428-ginormo-sword.json) |
 | Ginsei Igo 2: Next Generation | 194456 | [194456-ginsei-igo-2-next-generation.json](./194456-ginsei-igo-2-next-generation.json) |
 | Ginsei Igo 3D | 222301 | [222301-ginsei-igo-3d.json](./222301-ginsei-igo-3d.json) |
 | Ginsei Igo: AI Teaches You How to Play Go | 366974 | [366974-ginsei-igo-ai-teaches-you-how-to-play-go.json](./366974-ginsei-igo-ai-teaches-you-how-to-play-go.json) |
@@ -4975,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War Sons of Sparta: Digital Deluxe Edition | 407463 | [407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json](./407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json) |
 | God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
 | God of War Trilogy Remake | 389441 | [389441-god-of-war-trilogy-remake.json](./389441-god-of-war-trilogy-remake.json) |
+| God of War: A Call from the Wilds | 341416 | [341416-god-of-war-a-call-from-the-wilds.json](./341416-god-of-war-a-call-from-the-wilds.json) |
 | God of War: Ascension - Collector's Edition | 154812 | [154812-god-of-war-ascension-collectors-edition.json](./154812-god-of-war-ascension-collectors-edition.json) |
 | God of War: Ascension - Special Edition | 44664 | [44664-god-of-war-ascension-special-edition.json](./44664-god-of-war-ascension-special-edition.json) |
 | God of War: Ascension - Ultimate Edition | 118907 | [118907-god-of-war-ascension-ultimate-edition.json](./118907-god-of-war-ascension-ultimate-edition.json) |
