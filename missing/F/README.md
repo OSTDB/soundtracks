@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Kenshiro | 388992 | [388992-fatal-fury-city-of-the-wolves-kenshiro.json](./388992-fatal-fury-city-of-the-wolves-kenshiro.json) |
 | Fatal Fury: City of the Wolves - Kim Jae Hoon | 388987 | [388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json](./388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json) |
 | Fatal Fury: City of the Wolves - Legend Edition | 399203 | [399203-fatal-fury-city-of-the-wolves-legend-edition.json](./399203-fatal-fury-city-of-the-wolves-legend-edition.json) |
+| Fatal Fury: City of the Wolves - Mr. Big | 349911 | [349911-fatal-fury-city-of-the-wolves-mr-big.json](./349911-fatal-fury-city-of-the-wolves-mr-big.json) |
 | Fatal Fury: City of the Wolves - Nightmare Geese | 388988 | [388988-fatal-fury-city-of-the-wolves-nightmare-geese.json](./388988-fatal-fury-city-of-the-wolves-nightmare-geese.json) |
 | Fatal Fury: City of the Wolves - Rick Strowd | 411295 | [411295-fatal-fury-city-of-the-wolves-rick-strowd.json](./411295-fatal-fury-city-of-the-wolves-rick-strowd.json) |
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
@@ -4898,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem World Cup | 323039 | [323039-fire-emblem-world-cup.json](./323039-fire-emblem-world-cup.json) |
 | Fire Emblem: Ankoku Ryuu to Hikari no Tsurugi | 1433 | [1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json](./1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json) |
 | Fire Emblem: Archanea Reimagined | 401857 | [401857-fire-emblem-archanea-reimagined.json](./401857-fire-emblem-archanea-reimagined.json) |
+| Fire Emblem: Awakening - Apotheosis | 349762 | [349762-fire-emblem-awakening-apotheosis.json](./349762-fire-emblem-awakening-apotheosis.json) |
 | Fire Emblem: Awakening - Challenge Pack | 237421 | [237421-fire-emblem-awakening-challenge-pack.json](./237421-fire-emblem-awakening-challenge-pack.json) |
 | Fire Emblem: Awakening - Champions Pack | 237415 | [237415-fire-emblem-awakening-champions-pack.json](./237415-fire-emblem-awakening-champions-pack.json) |
 | Fire Emblem: Awakening - Future Past Pack | 237423 | [237423-fire-emblem-awakening-future-past-pack.json](./237423-fire-emblem-awakening-future-past-pack.json) |
@@ -5346,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish 'n Ships | 349472 | [349472-fish-n-ships.json](./349472-fish-n-ships.json) |
 | Fish 'N' Chips | 246832 | [246832-fish-n-chips.json](./246832-fish-n-chips.json) |
 | Fish & Trip | 97492 | [97492-fish-and-trip.json](./97492-fish-and-trip.json) |
+| Fish and Chill | 349795 | [349795-fish-and-chill.json](./349795-fish-and-chill.json) |
 | Fish and Fight | 163867 | [163867-fish-and-fight.json](./163867-fish-and-fight.json) |
 | Fish and Groove | 151101 | [151101-fish-and-groove.json](./151101-fish-and-groove.json) |
 | Fish Bone | 226156 | [226156-fish-bone.json](./226156-fish-bone.json) |
