@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Odyssey ACE: Launch Edition | 42668 | [42668-ragnarok-odyssey-ace-launch-edition.json](./42668-ragnarok-odyssey-ace-launch-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
+| Ragnarok Online 3 | 360554 | [360554-ragnarok-online-3.json](./360554-ragnarok-online-3.json) |
 | Ragnarok Online: Valkyrie Uprising | 63655 | [63655-ragnarok-online-valkyrie-uprising.json](./63655-ragnarok-online-valkyrie-uprising.json) |
 | Ragnarok Origin | 172438 | [172438-ragnarok-origin.json](./172438-ragnarok-origin.json) |
 | Ragnarok Origin: Beyond Ragnarok | 137371 | [137371-ragnarok-origin-beyond-ragnarok.json](./137371-ragnarok-origin-beyond-ragnarok.json) |
@@ -2457,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Horse 3D | 216152 | [216152-real-horse-3d.json](./216152-real-horse-3d.json) |
 | Real Kanojo | 22469 | [22469-real-kanojo.json](./22469-real-kanojo.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
+| Real Life Flappy Bird | 360627 | [360627-real-life-flappy-bird.json](./360627-real-life-flappy-bird.json) |
 | Real Life Simulator | 407365 | [407365-real-life-simulator.json](./407365-real-life-simulator.json) |
 | Real Lives | 93439 | [93439-real-lives.json](./93439-real-lives.json) |
 | Real Madrid Club Football | 141135 | [141135-real-madrid-club-football.json](./141135-real-madrid-club-football.json) |
@@ -2896,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound Hockey | 232325 | [232325-rebound-hockey.json](./232325-rebound-hockey.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
 | Rebound Rivals | 311120 | [311120-rebound-rivals.json](./311120-rebound-rivals.json) |
+| Rebound Rush | 360617 | [360617-rebound-rush.json](./360617-rebound-rush.json) |
 | RebreatheR | 373203 | [373203-rebreather.json](./373203-rebreather.json) |
 | Rebuild | 100493 | [100493-rebuild.json](./100493-rebuild.json) |
 | Rebuild / Resist | 185523 | [185523-rebuild-resist.json](./185523-rebuild-resist.json) |
@@ -6767,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risky Rescue | 33558 | [33558-risky-rescue.json](./33558-risky-rescue.json) |
 | Risky Rider 3D | 175598 | [175598-risky-rider-3d.json](./175598-risky-rider-3d.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
+| Risky Rocket | 360615 | [360615-risky-rocket.json](./360615-risky-rocket.json) |
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
 | Risky Wings | 105717 | [105717-risky-wings.json](./105717-risky-wings.json) |
 | Risky Wings: 'Colibri' Character | 170783 | [170783-risky-wings-colibri-character.json](./170783-risky-wings-colibri-character.json) |
