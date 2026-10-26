@@ -4337,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
 | Ninja JaJaMaru Collection | 119644 | [119644-ninja-jajamaru-collection.json](./119644-ninja-jajamaru-collection.json) |
+| Ninja JaJaMaru Legendary Ninja Collection | 362161 | [362161-ninja-jajamaru-legendary-ninja-collection.json](./362161-ninja-jajamaru-legendary-ninja-collection.json) |
 | Ninja JajaMaru Yokai Night Parade | 414846 | [414846-ninja-jajamaru-yokai-night-parade.json](./414846-ninja-jajamaru-yokai-night-parade.json) |
 | Ninja JaJaMaru-kun | 48455 | [48455-ninja-jajamaru-kun.json](./48455-ninja-jajamaru-kun.json) |
 | Ninja Jajamaru-kun Ranbu | 296027 | [296027-ninja-jajamaru-kun-ranbu.json](./296027-ninja-jajamaru-kun-ranbu.json) |
@@ -4877,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Mario's Sky | 23328 | [23328-no-marios-sky.json](./23328-no-marios-sky.json) |
 | No Me: The Future is Ours | 276753 | [276753-no-me-the-future-is-ours.json](./276753-no-me-the-future-is-ours.json) |
 | No Means Nothing | 380677 | [380677-no-means-nothing.json](./380677-no-means-nothing.json) |
+| No Mechs Allowed | 362246 | [362246-no-mechs-allowed.json](./362246-no-mechs-allowed.json) |
 | No Men in This House | 223347 | [223347-no-men-in-this-house.json](./223347-no-men-in-this-house.json) |
 | No Meteors | 146070 | [146070-no-meteors.json](./146070-no-meteors.json) |
 | No Momentum | 190979 | [190979-no-momentum.json](./190979-no-momentum.json) |
