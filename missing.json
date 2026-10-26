@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T14:33:57.044Z",
-  "total_missing": 265551,
+  "generated_at": "2026-10-26T15:19:47.859Z",
+  "total_missing": 265702,
   "games": [
     {
       "igdb_id": 191680,
@@ -11292,6 +11292,11 @@
       "file": "missing/0-9/265025-4d-xd.json"
     },
     {
+      "igdb_id": 352769,
+      "game_name": "4Dead",
+      "file": "missing/0-9/352769-4dead.json"
+    },
+    {
       "igdb_id": 23505,
       "game_name": "4evolve: Deep Stars",
       "file": "missing/0-9/23505-4evolve-deep-stars.json"
@@ -11765,6 +11770,11 @@
       "igdb_id": 300970,
       "game_name": "5 Minutes until Goodbye",
       "file": "missing/0-9/300970-5-minutes-until-goodbye.json"
+    },
+    {
+      "igdb_id": 353763,
+      "game_name": "5 Minutes Until Self-Destruction",
+      "file": "missing/0-9/353763-5-minutes-until-self-destruction.json"
     },
     {
       "igdb_id": 377395,
@@ -30110,11 +30120,6 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
-    },
-    {
-      "igdb_id": 342233,
-      "game_name": "Adventures In Time & Space",
-      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -51470,6 +51475,11 @@
       "igdb_id": 230236,
       "game_name": "Among Us",
       "file": "missing/A/230236-among-us.json"
+    },
+    {
+      "igdb_id": 353925,
+      "game_name": "Among Us",
+      "file": "missing/A/353925-among-us.json"
     },
     {
       "igdb_id": 332784,
@@ -90192,6 +90202,11 @@
       "file": "missing/A/74730-awsome-metal-detecting.json"
     },
     {
+      "igdb_id": 353759,
+      "game_name": "Awurda First Wave",
+      "file": "missing/A/353759-awurda-first-wave.json"
+    },
+    {
       "igdb_id": 19485,
       "game_name": "Ax Battler: A Legend of Golden Axe",
       "file": "missing/A/19485-ax-battler-a-legend-of-golden-axe.json"
@@ -95635,6 +95650,11 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
+    },
+    {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -105282,9 +105302,19 @@
       "file": "missing/B/56985-bastet.json"
     },
     {
+      "igdb_id": 353948,
+      "game_name": "Bastion Frontier",
+      "file": "missing/B/353948-bastion-frontier.json"
+    },
+    {
       "igdb_id": 297783,
       "game_name": "Bastion of Beginnings",
       "file": "missing/B/297783-bastion-of-beginnings.json"
+    },
+    {
+      "igdb_id": 353945,
+      "game_name": "Bastion of Valor",
+      "file": "missing/B/353945-bastion-of-valor.json"
     },
     {
       "igdb_id": 361026,
@@ -170547,6 +170577,11 @@
       "file": "missing/C/256146-cafe-master-story.json"
     },
     {
+      "igdb_id": 353754,
+      "game_name": "Cafe Nocturn",
+      "file": "missing/C/353754-cafe-nocturn.json"
+    },
+    {
       "igdb_id": 379716,
       "game_name": "Cafe of Roses",
       "file": "missing/C/379716-cafe-of-roses.json"
@@ -211947,6 +211982,11 @@
       "file": "missing/C/119649-climbing-flail.json"
     },
     {
+      "igdb_id": 353358,
+      "game_name": "Climbing Gym Simulator",
+      "file": "missing/C/353358-climbing-gym-simulator.json"
+    },
+    {
       "igdb_id": 257915,
       "game_name": "Climbing Mountain Sins",
       "file": "missing/C/257915-climbing-mountain-sins.json"
@@ -219290,6 +219330,11 @@
       "igdb_id": 221275,
       "game_name": "Colorful Logic 3",
       "file": "missing/C/221275-colorful-logic-3.json"
+    },
+    {
+      "igdb_id": 352775,
+      "game_name": "Colorful Mines =Slide=",
+      "file": "missing/C/352775-colorful-mines-slide.json"
     },
     {
       "igdb_id": 308962,
@@ -238085,6 +238130,11 @@
       "igdb_id": 231622,
       "game_name": "Crazy Counting",
       "file": "missing/C/231622-crazy-counting.json"
+    },
+    {
+      "igdb_id": 353932,
+      "game_name": "Crazy Crab",
+      "file": "missing/C/353932-crazy-crab.json"
     },
     {
       "igdb_id": 354088,
@@ -258782,6 +258832,11 @@
       "file": "missing/D/353201-dance-central-2-flo-rida-and-t-pain-low.json"
     },
     {
+      "igdb_id": 353199,
+      "game_name": "Dance Central 2: Kelis - \"Milkshake\"",
+      "file": "missing/D/353199-dance-central-2-kelis-milkshake.json"
+    },
+    {
       "igdb_id": 353200,
       "game_name": "Dance Central 2: LMFAO - \"Party Rock Anthem\"",
       "file": "missing/D/353200-dance-central-2-lmfao-party-rock-anthem.json"
@@ -258835,6 +258890,26 @@
       "igdb_id": 353211,
       "game_name": "Dance Central Spotlight: The Pussycat Dolls ft. Busta Rhymes - \"Don't Cha\"",
       "file": "missing/D/353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json"
+    },
+    {
+      "igdb_id": 353194,
+      "game_name": "Dance Central: Cameo - \"Word Up\"",
+      "file": "missing/D/353194-dance-central-cameo-word-up.json"
+    },
+    {
+      "igdb_id": 353197,
+      "game_name": "Dance Central: Gwen Stefani - \"Hollaback Girl\"",
+      "file": "missing/D/353197-dance-central-gwen-stefani-hollaback-girl.json"
+    },
+    {
+      "igdb_id": 353198,
+      "game_name": "Dance Central: Paula Abdul - \"Straight Up\"",
+      "file": "missing/D/353198-dance-central-paula-abdul-straight-up.json"
+    },
+    {
+      "igdb_id": 353195,
+      "game_name": "Dance Central: Rick James - \"Super Freak\"",
+      "file": "missing/D/353195-dance-central-rick-james-super-freak.json"
     },
     {
       "igdb_id": 107360,
@@ -332907,14 +332982,39 @@
       "file": "missing/D/349640-dungeons-and-dragons-online-iconic-race-aasimar-scourge.json"
     },
     {
+      "igdb_id": 353744,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Bladeforged",
+      "file": "missing/D/353744-dungeons-and-dragons-online-iconic-race-bladeforged.json"
+    },
+    {
+      "igdb_id": 353742,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Deep Gnome",
+      "file": "missing/D/353742-dungeons-and-dragons-online-iconic-race-deep-gnome.json"
+    },
+    {
       "igdb_id": 349622,
       "game_name": "Dungeons & Dragons Online: Iconic Race - Eladrin Chaosmancer",
       "file": "missing/D/349622-dungeons-and-dragons-online-iconic-race-eladrin-chaosmancer.json"
     },
     {
+      "igdb_id": 353745,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Purple Dragon Knight",
+      "file": "missing/D/353745-dungeons-and-dragons-online-iconic-race-purple-dragon-knight.json"
+    },
+    {
       "igdb_id": 349632,
       "game_name": "Dungeons & Dragons Online: Iconic Race - Razorclaw Shifter",
       "file": "missing/D/349632-dungeons-and-dragons-online-iconic-race-razorclaw-shifter.json"
+    },
+    {
+      "igdb_id": 353746,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Shadar-kai",
+      "file": "missing/D/353746-dungeons-and-dragons-online-iconic-race-shadar-kai.json"
+    },
+    {
+      "igdb_id": 353743,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Sun Elf (Morninglord)",
+      "file": "missing/D/353743-dungeons-and-dragons-online-iconic-race-sun-elf-morninglord.json"
     },
     {
       "igdb_id": 349627,
@@ -332960,6 +333060,16 @@
       "igdb_id": 258925,
       "game_name": "Dungeons & Dragons Online: Mists of Ravenloft",
       "file": "missing/D/258925-dungeons-and-dragons-online-mists-of-ravenloft.json"
+    },
+    {
+      "igdb_id": 353741,
+      "game_name": "Dungeons & Dragons Online: Premium Archetype - Dragon Disciple",
+      "file": "missing/D/353741-dungeons-and-dragons-online-premium-archetype-dragon-disciple.json"
+    },
+    {
+      "igdb_id": 353740,
+      "game_name": "Dungeons & Dragons Online: Premium Archetype - Dragon Lord",
+      "file": "missing/D/353740-dungeons-and-dragons-online-premium-archetype-dragon-lord.json"
     },
     {
       "igdb_id": 338767,
@@ -333107,9 +333217,19 @@
       "file": "missing/D/349723-dungeons-and-dragons-online-the-vale-of-twilight.json"
     },
     {
+      "igdb_id": 353738,
+      "game_name": "Dungeons & Dragons Online: Universal Tree - Falconry",
+      "file": "missing/D/353738-dungeons-and-dragons-online-universal-tree-falconry.json"
+    },
+    {
       "igdb_id": 349630,
       "game_name": "Dungeons & Dragons Online: Universal Tree - Feydark Illusionist",
       "file": "missing/D/349630-dungeons-and-dragons-online-universal-tree-feydark-illusionist.json"
+    },
+    {
+      "igdb_id": 353739,
+      "game_name": "Dungeons & Dragons Online: Universal Tree - Harper Agent",
+      "file": "missing/D/353739-dungeons-and-dragons-online-universal-tree-harper-agent.json"
     },
     {
       "igdb_id": 349637,
@@ -335230,6 +335350,11 @@
       "igdb_id": 268641,
       "game_name": "DX Nippon Tokkyuu Ryokou Game: Let's Travel in Japan",
       "file": "missing/D/268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json"
+    },
+    {
+      "igdb_id": 353179,
+      "game_name": "DX Progress PET: Leo Version",
+      "file": "missing/D/353179-dx-progress-pet-leo-version.json"
     },
     {
       "igdb_id": 387122,
@@ -342600,6 +342725,11 @@
       "igdb_id": 305447,
       "game_name": "Egg",
       "file": "missing/E/305447-egg.json"
+    },
+    {
+      "igdb_id": 353757,
+      "game_name": "Egg Baby",
+      "file": "missing/E/353757-egg-baby.json"
     },
     {
       "igdb_id": 199387,
@@ -370252,6 +370382,11 @@
       "file": "missing/E/32175-extreme-forklifting-2.json"
     },
     {
+      "igdb_id": 352766,
+      "game_name": "Extreme Forklifting 3",
+      "file": "missing/E/352766-extreme-forklifting-3.json"
+    },
+    {
       "igdb_id": 101592,
       "game_name": "Extreme Formula Championship",
       "file": "missing/E/101592-extreme-formula-championship.json"
@@ -372030,6 +372165,11 @@
       "igdb_id": 53050,
       "game_name": "F.E.A.R.: Ultimate Shooter Edition",
       "file": "missing/F/53050-f-e-a-r-ultimate-shooter-edition.json"
+    },
+    {
+      "igdb_id": 353946,
+      "game_name": "F.E.A.S.T",
+      "file": "missing/F/353946-f-e-a-s-t.json"
     },
     {
       "igdb_id": 55522,
@@ -392147,6 +392287,11 @@
       "file": "missing/F/282727-final-fantasy-25th-anniversary-ultimate-box.json"
     },
     {
+      "igdb_id": 353924,
+      "game_name": "Final Fantasy 6: A Complete Hack",
+      "file": "missing/F/353924-final-fantasy-6-a-complete-hack.json"
+    },
+    {
       "igdb_id": 306591,
       "game_name": "Final Fantasy Adventure DX",
       "file": "missing/F/306591-final-fantasy-adventure-dx.json"
@@ -392552,6 +392697,11 @@
       "file": "missing/F/312346-final-fantasy-vi-a-soldiers-contingency.json"
     },
     {
+      "igdb_id": 353931,
+      "game_name": "Final Fantasy VI: BA Edition",
+      "file": "missing/F/353931-final-fantasy-vi-ba-edition.json"
+    },
+    {
       "igdb_id": 148455,
       "game_name": "Final Fantasy VI: Brave New World",
       "file": "missing/F/148455-final-fantasy-vi-brave-new-world.json"
@@ -392585,6 +392735,11 @@
       "igdb_id": 379343,
       "game_name": "Final Fantasy VI: Revised Old Style Edition",
       "file": "missing/F/379343-final-fantasy-vi-revised-old-style-edition.json"
+    },
+    {
+      "igdb_id": 353930,
+      "game_name": "Final Fantasy VI: SPX Version",
+      "file": "missing/F/353930-final-fantasy-vi-spx-version.json"
     },
     {
       "igdb_id": 309600,
@@ -401115,6 +401270,11 @@
       "igdb_id": 381257,
       "game_name": "Five Nights In Saransk",
       "file": "missing/F/381257-five-nights-in-saransk.json"
+    },
+    {
+      "igdb_id": 354003,
+      "game_name": "Five Nights in the Pizzeria: New Brand",
+      "file": "missing/F/354003-five-nights-in-the-pizzeria-new-brand.json"
     },
     {
       "igdb_id": 297313,
@@ -436877,6 +437037,11 @@
       "file": "missing/G/404513-gamesyndicates.json"
     },
     {
+      "igdb_id": 353929,
+      "game_name": "GameTap, Cup Noodles, and Bitter Tears",
+      "file": "missing/G/353929-gametap-cup-noodles-and-bitter-tears.json"
+    },
+    {
       "igdb_id": 72072,
       "game_name": "Gametrak: Dark Wind",
       "file": "missing/G/72072-gametrak-dark-wind.json"
@@ -437785,6 +437950,11 @@
       "igdb_id": 317813,
       "game_name": "Garbage Scow Captain",
       "file": "missing/G/317813-garbage-scow-captain.json"
+    },
+    {
+      "igdb_id": 353942,
+      "game_name": "Garbage Take Out Day",
+      "file": "missing/G/353942-garbage-take-out-day.json"
     },
     {
       "igdb_id": 256561,
@@ -475562,6 +475732,11 @@
       "file": "missing/G/305601-gundam-breaker-4-ultimate-edition.json"
     },
     {
+      "igdb_id": 353349,
+      "game_name": "Gundam Card Game Teaching App",
+      "file": "missing/G/353349-gundam-card-game-teaching-app.json"
+    },
+    {
       "igdb_id": 223958,
       "game_name": "Gundam Conquest",
       "file": "missing/G/223958-gundam-conquest.json"
@@ -478715,6 +478890,11 @@
       "igdb_id": 334524,
       "game_name": "Hack And Slash Fury: Warrior Armor",
       "file": "missing/H/334524-hack-and-slash-fury-warrior-armor.json"
+    },
+    {
+      "igdb_id": 353760,
+      "game_name": "Hack Back",
+      "file": "missing/H/353760-hack-back.json"
     },
     {
       "igdb_id": 291711,
@@ -486822,6 +487002,11 @@
       "file": "missing/H/146535-harmonian-tales.json"
     },
     {
+      "igdb_id": 353762,
+      "game_name": "Harmonic Convergence",
+      "file": "missing/H/353762-harmonic-convergence.json"
+    },
+    {
       "igdb_id": 266096,
       "game_name": "Harmonic Depths",
       "file": "missing/H/266096-harmonic-depths.json"
@@ -488680,6 +488865,11 @@
       "igdb_id": 144759,
       "game_name": "Hatsune Miku Logic Paint S",
       "file": "missing/H/144759-hatsune-miku-logic-paint-s.json"
+    },
+    {
+      "igdb_id": 353940,
+      "game_name": "Hatsune Miku Logic Paint S+",
+      "file": "missing/H/353940-hatsune-miku-logic-paint-s.json"
     },
     {
       "igdb_id": 89847,
@@ -590347,6 +590537,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -620352,6 +620547,11 @@
       "file": "missing/L/31151-let-hawaii-happen-vr.json"
     },
     {
+      "igdb_id": 353758,
+      "game_name": "Let Her Go",
+      "file": "missing/L/353758-let-her-go.json"
+    },
+    {
       "igdb_id": 265138,
       "game_name": "Let Him Cook",
       "file": "missing/L/265138-let-him-cook.json"
@@ -628357,6 +628557,46 @@
       "file": "missing/L/391224-link-penguins.json"
     },
     {
+      "igdb_id": 352778,
+      "game_name": "Link PET_EX",
+      "file": "missing/L/352778-link-pet-ex.json"
+    },
+    {
+      "igdb_id": 353189,
+      "game_name": "Link PET_EX: Blues DX Edition",
+      "file": "missing/L/353189-link-pet-ex-blues-dx-edition.json"
+    },
+    {
+      "igdb_id": 353186,
+      "game_name": "Link PET_EX: Dennoujuu Falzer",
+      "file": "missing/L/353186-link-pet-ex-dennoujuu-falzer.json"
+    },
+    {
+      "igdb_id": 353185,
+      "game_name": "Link PET_EX: Dennoujuu Glaga",
+      "file": "missing/L/353185-link-pet-ex-dennoujuu-glaga.json"
+    },
+    {
+      "igdb_id": 353191,
+      "game_name": "Link PET_EX: Forte Version",
+      "file": "missing/L/353191-link-pet-ex-forte-version.json"
+    },
+    {
+      "igdb_id": 353187,
+      "game_name": "Link PET_EX: Hikari Netto Version",
+      "file": "missing/L/353187-link-pet-ex-hikari-netto-version.json"
+    },
+    {
+      "igdb_id": 353188,
+      "game_name": "Link PET_EX: Twin Navi DX Edition",
+      "file": "missing/L/353188-link-pet-ex-twin-navi-dx-edition.json"
+    },
+    {
+      "igdb_id": 353190,
+      "game_name": "Link PET_EXE: Ijuuin Enzan Version",
+      "file": "missing/L/353190-link-pet-exe-ijuuin-enzan-version.json"
+    },
+    {
       "igdb_id": 117774,
       "game_name": "Link the animals",
       "file": "missing/L/117774-link-the-animals.json"
@@ -635760,6 +636000,11 @@
       "igdb_id": 166717,
       "game_name": "Long Live Caesar",
       "file": "missing/L/166717-long-live-caesar.json"
+    },
+    {
+      "igdb_id": 354002,
+      "game_name": "Long Live My Lady!",
+      "file": "missing/L/354002-long-live-my-lady.json"
     },
     {
       "igdb_id": 122858,
@@ -645462,6 +645707,11 @@
       "file": "missing/L/418249-lumber-tycoon-island.json"
     },
     {
+      "igdb_id": 353192,
+      "game_name": "Lumber Valley",
+      "file": "missing/L/353192-lumber-valley.json"
+    },
+    {
       "igdb_id": 111771,
       "game_name": "Lumberhill",
       "file": "missing/L/111771-lumberhill.json"
@@ -646575,6 +646825,11 @@
       "igdb_id": 289582,
       "game_name": "Lunares Insaniam",
       "file": "missing/L/289582-lunares-insaniam.json"
+    },
+    {
+      "igdb_id": 353947,
+      "game_name": "Lunaris",
+      "file": "missing/L/353947-lunaris.json"
     },
     {
       "igdb_id": 119622,
@@ -657960,6 +658215,11 @@
       "igdb_id": 106148,
       "game_name": "Majin Woman",
       "file": "missing/M/106148-majin-woman.json"
+    },
+    {
+      "igdb_id": 353755,
+      "game_name": "Majjam",
+      "file": "missing/M/353755-majjam.json"
     },
     {
       "igdb_id": 413181,
@@ -679857,6 +680117,11 @@
       "file": "missing/M/352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json"
     },
     {
+      "igdb_id": 352661,
+      "game_name": "Mega Man Battle Network 6: Patch Card - AirMan",
+      "file": "missing/M/352661-mega-man-battle-network-6-patch-card-airman.json"
+    },
+    {
       "igdb_id": 352714,
       "game_name": "Mega Man Battle Network 6: Patch Card - Al's Boarding Ticket",
       "file": "missing/M/352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json"
@@ -679877,9 +680142,19 @@
       "file": "missing/M/352684-mega-man-battle-network-6-patch-card-bassbx.json"
     },
     {
+      "igdb_id": 352651,
+      "game_name": "Mega Man Battle Network 6: Patch Card - BombCorn",
+      "file": "missing/M/352651-mega-man-battle-network-6-patch-card-bombcorn.json"
+    },
+    {
       "igdb_id": 352667,
       "game_name": "Mega Man Battle Network 6: Patch Card - BowlMan",
       "file": "missing/M/352667-mega-man-battle-network-6-patch-card-bowlman.json"
+    },
+    {
+      "igdb_id": 352644,
+      "game_name": "Mega Man Battle Network 6: Patch Card - CanGard",
+      "file": "missing/M/352644-mega-man-battle-network-6-patch-card-cangard.json"
     },
     {
       "igdb_id": 352413,
@@ -679917,6 +680192,11 @@
       "file": "missing/M/352671-mega-man-battle-network-6-patch-card-coldman.json"
     },
     {
+      "igdb_id": 352658,
+      "game_name": "Mega Man Battle Network 6: Patch Card - ColorMan",
+      "file": "missing/M/352658-mega-man-battle-network-6-patch-card-colorman.json"
+    },
+    {
       "igdb_id": 352689,
       "game_name": "Mega Man Battle Network 6: Patch Card - Cybeast Falzar",
       "file": "missing/M/352689-mega-man-battle-network-6-patch-card-cybeast-falzar.json"
@@ -679945,6 +680225,11 @@
       "igdb_id": 352668,
       "game_name": "Mega Man Battle Network 6: Patch Card - DarkMan",
       "file": "missing/M/352668-mega-man-battle-network-6-patch-card-darkman.json"
+    },
+    {
+      "igdb_id": 352656,
+      "game_name": "Mega Man Battle Network 6: Patch Card - DarkMech",
+      "file": "missing/M/352656-mega-man-battle-network-6-patch-card-darkmech.json"
     },
     {
       "igdb_id": 352702,
@@ -679977,6 +680262,11 @@
       "file": "missing/M/352709-mega-man-battle-network-6-patch-card-dr-regals-research.json"
     },
     {
+      "igdb_id": 352646,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Draggin",
+      "file": "missing/M/352646-mega-man-battle-network-6-patch-card-draggin.json"
+    },
+    {
       "igdb_id": 352679,
       "game_name": "Mega Man Battle Network 6: Patch Card - ElementMan",
       "file": "missing/M/352679-mega-man-battle-network-6-patch-card-elementman.json"
@@ -679992,6 +680282,11 @@
       "file": "missing/M/352733-mega-man-battle-network-6-patch-card-falzar.json"
     },
     {
+      "igdb_id": 352662,
+      "game_name": "Mega Man Battle Network 6: Patch Card - FreezeMan",
+      "file": "missing/M/352662-mega-man-battle-network-6-patch-card-freezeman.json"
+    },
+    {
       "igdb_id": 352732,
       "game_name": "Mega Man Battle Network 6: Patch Card - Gregar",
       "file": "missing/M/352732-mega-man-battle-network-6-patch-card-gregar.json"
@@ -680002,9 +680297,24 @@
       "file": "missing/M/352674-mega-man-battle-network-6-patch-card-gridman.json"
     },
     {
+      "igdb_id": 352649,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Gunner",
+      "file": "missing/M/352649-mega-man-battle-network-6-patch-card-gunner.json"
+    },
+    {
+      "igdb_id": 352648,
+      "game_name": "Mega Man Battle Network 6: Patch Card - HauntedCandle",
+      "file": "missing/M/352648-mega-man-battle-network-6-patch-card-hauntedcandle.json"
+    },
+    {
       "igdb_id": 352417,
       "game_name": "Mega Man Battle Network 6: Patch Card - Heady",
       "file": "missing/M/352417-mega-man-battle-network-6-patch-card-heady.json"
+    },
+    {
+      "igdb_id": 352653,
+      "game_name": "Mega Man Battle Network 6: Patch Card - HoneyBomber",
+      "file": "missing/M/352653-mega-man-battle-network-6-patch-card-honeybomber.json"
     },
     {
       "igdb_id": 352725,
@@ -680027,14 +680337,29 @@
       "file": "missing/M/352670-mega-man-battle-network-6-patch-card-kendoman.json"
     },
     {
+      "igdb_id": 352642,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Kilby",
+      "file": "missing/M/352642-mega-man-battle-network-6-patch-card-kilby.json"
+    },
+    {
       "igdb_id": 352700,
       "game_name": "Mega Man Battle Network 6: Patch Card - Lan's Allowance Advance",
       "file": "missing/M/352700-mega-man-battle-network-6-patch-card-lans-allowance-advance.json"
     },
     {
+      "igdb_id": 352636,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Magneaker",
+      "file": "missing/M/352636-mega-man-battle-network-6-patch-card-magneaker.json"
+    },
+    {
       "igdb_id": 352722,
       "game_name": "Mega Man Battle Network 6: Patch Card - Mamoru's Card",
       "file": "missing/M/352722-mega-man-battle-network-6-patch-card-mamorus-card.json"
+    },
+    {
+      "igdb_id": 352647,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Marina",
+      "file": "missing/M/352647-mega-man-battle-network-6-patch-card-marina.json"
     },
     {
       "igdb_id": 352717,
@@ -680057,6 +680382,11 @@
       "file": "missing/M/352418-mega-man-battle-network-6-patch-card-metfire.json"
     },
     {
+      "igdb_id": 352637,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Metrid",
+      "file": "missing/M/352637-mega-man-battle-network-6-patch-card-metrid.json"
+    },
+    {
       "igdb_id": 352705,
       "game_name": "Mega Man Battle Network 6: Patch Card - Mick's Trick",
       "file": "missing/M/352705-mega-man-battle-network-6-patch-card-micks-trick.json"
@@ -680075,6 +680405,11 @@
       "igdb_id": 352719,
       "game_name": "Mega Man Battle Network 6: Patch Card - Moliarty's Drill Soul!",
       "file": "missing/M/352719-mega-man-battle-network-6-patch-card-moliartys-drill-soul.json"
+    },
+    {
+      "igdb_id": 352638,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Momogra",
+      "file": "missing/M/352638-mega-man-battle-network-6-patch-card-momogra.json"
     },
     {
       "igdb_id": 352683,
@@ -680112,6 +680447,26 @@
       "file": "missing/M/352664-mega-man-battle-network-6-patch-card-napalmman.json"
     },
     {
+      "igdb_id": 352639,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Needler",
+      "file": "missing/M/352639-mega-man-battle-network-6-patch-card-needler.json"
+    },
+    {
+      "igdb_id": 352654,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Nightmare",
+      "file": "missing/M/352654-mega-man-battle-network-6-patch-card-nightmare.json"
+    },
+    {
+      "igdb_id": 352634,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Octon",
+      "file": "missing/M/352634-mega-man-battle-network-6-patch-card-octon.json"
+    },
+    {
+      "igdb_id": 352660,
+      "game_name": "Mega Man Battle Network 6: Patch Card - PharaohMan",
+      "file": "missing/M/352660-mega-man-battle-network-6-patch-card-pharaohman.json"
+    },
+    {
       "igdb_id": 352665,
       "game_name": "Mega Man Battle Network 6: Patch Card - PlantMan",
       "file": "missing/M/352665-mega-man-battle-network-6-patch-card-plantman.json"
@@ -680120,6 +680475,11 @@
       "igdb_id": 352728,
       "game_name": "Mega Man Battle Network 6: Patch Card - Prosecutor Ito's Income",
       "file": "missing/M/352728-mega-man-battle-network-6-patch-card-prosecutor-itos-income.json"
+    },
+    {
+      "igdb_id": 352650,
+      "game_name": "Mega Man Battle Network 6: Patch Card - PulseBulb",
+      "file": "missing/M/352650-mega-man-battle-network-6-patch-card-pulsebulb.json"
     },
     {
       "igdb_id": 352680,
@@ -680182,14 +680542,49 @@
       "file": "missing/M/352672-mega-man-battle-network-6-patch-card-searchman.json"
     },
     {
+      "igdb_id": 352633,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Shakey",
+      "file": "missing/M/352633-mega-man-battle-network-6-patch-card-shakey.json"
+    },
+    {
+      "igdb_id": 352659,
+      "game_name": "Mega Man Battle Network 6: Patch Card - SharkMan",
+      "file": "missing/M/352659-mega-man-battle-network-6-patch-card-sharkman.json"
+    },
+    {
+      "igdb_id": 352635,
+      "game_name": "Mega Man Battle Network 6: Patch Card - ShellGeek",
+      "file": "missing/M/352635-mega-man-battle-network-6-patch-card-shellgeek.json"
+    },
+    {
+      "igdb_id": 352652,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Shrubby",
+      "file": "missing/M/352652-mega-man-battle-network-6-patch-card-shrubby.json"
+    },
+    {
       "igdb_id": 352715,
       "game_name": "Mega Man Battle Network 6: Patch Card - Shuko's Practicum",
       "file": "missing/M/352715-mega-man-battle-network-6-patch-card-shukos-practicum.json"
     },
     {
+      "igdb_id": 352645,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Skarab",
+      "file": "missing/M/352645-mega-man-battle-network-6-patch-card-skarab.json"
+    },
+    {
+      "igdb_id": 352655,
+      "game_name": "Mega Man Battle Network 6: Patch Card - SnakeArm",
+      "file": "missing/M/352655-mega-man-battle-network-6-patch-card-snakearm.json"
+    },
+    {
       "igdb_id": 352682,
       "game_name": "Mega Man Battle Network 6: Patch Card - Soul Battler's Custom",
       "file": "missing/M/352682-mega-man-battle-network-6-patch-card-soul-battlers-custom.json"
+    },
+    {
+      "igdb_id": 352657,
+      "game_name": "Mega Man Battle Network 6: Patch Card - StoneMan",
+      "file": "missing/M/352657-mega-man-battle-network-6-patch-card-stoneman.json"
     },
     {
       "igdb_id": 352726,
@@ -680217,9 +680612,24 @@
       "file": "missing/M/352669-mega-man-battle-network-6-patch-card-topman.json"
     },
     {
+      "igdb_id": 352643,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Totem",
+      "file": "missing/M/352643-mega-man-battle-network-6-patch-card-totem.json"
+    },
+    {
+      "igdb_id": 352640,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Twins",
+      "file": "missing/M/352640-mega-man-battle-network-6-patch-card-twins.json"
+    },
+    {
       "igdb_id": 352729,
       "game_name": "Mega Man Battle Network 6: Patch Card - Vic's Persistence",
       "file": "missing/M/352729-mega-man-battle-network-6-patch-card-vics-persistence.json"
+    },
+    {
+      "igdb_id": 352641,
+      "game_name": "Mega Man Battle Network 6: Patch Card - Walla",
+      "file": "missing/M/352641-mega-man-battle-network-6-patch-card-walla.json"
     },
     {
       "igdb_id": 352730,
@@ -681665,6 +682075,21 @@
       "igdb_id": 336716,
       "game_name": "MegaMan NT Warrior Advanced PET",
       "file": "missing/M/336716-megaman-nt-warrior-advanced-pet.json"
+    },
+    {
+      "igdb_id": 352780,
+      "game_name": "MegaMan NT Warrior Advanced PET",
+      "file": "missing/M/352780-megaman-nt-warrior-advanced-pet.json"
+    },
+    {
+      "igdb_id": 352781,
+      "game_name": "MegaMan NT Warrior Advanced PET",
+      "file": "missing/M/352781-megaman-nt-warrior-advanced-pet.json"
+    },
+    {
+      "igdb_id": 352782,
+      "game_name": "MegaMan NT Warrior Advanced PET",
+      "file": "missing/M/352782-megaman-nt-warrior-advanced-pet.json"
     },
     {
       "igdb_id": 352838,
@@ -699190,6 +699615,11 @@
       "igdb_id": 221926,
       "game_name": "Minecraft: Buzzy Bees",
       "file": "missing/M/221926-minecraft-buzzy-bees.json"
+    },
+    {
+      "igdb_id": 353183,
+      "game_name": "Minecraft: Buzzy Bees",
+      "file": "missing/M/353183-minecraft-buzzy-bees.json"
     },
     {
       "igdb_id": 324891,
@@ -719825,6 +720255,11 @@
       "igdb_id": 198829,
       "game_name": "Mortal Kombat Mythologies: Sub-Zero",
       "file": "missing/M/198829-mortal-kombat-mythologies-sub-zero.json"
+    },
+    {
+      "igdb_id": 353944,
+      "game_name": "Mortal Kombat Mythologies: Sub-Zero - Randomizer",
+      "file": "missing/M/353944-mortal-kombat-mythologies-sub-zero-randomizer.json"
     },
     {
       "igdb_id": 45154,
@@ -796782,6 +797217,11 @@
       "file": "missing/O/398382-overdrive-reloaded.json"
     },
     {
+      "igdb_id": 353357,
+      "game_name": "Overdrive Warfare: Premium Edition",
+      "file": "missing/O/353357-overdrive-warfare-premium-edition.json"
+    },
+    {
       "igdb_id": 94063,
       "game_name": "Overdriven",
       "file": "missing/O/94063-overdriven.json"
@@ -826902,6 +827342,11 @@
       "file": "missing/P/349363-pinball-arcade-scared-stiff.json"
     },
     {
+      "igdb_id": 353750,
+      "game_name": "Pinball Arcade: Season Five Pack",
+      "file": "missing/P/353750-pinball-arcade-season-five-pack.json"
+    },
+    {
       "igdb_id": 166025,
       "game_name": "Pinball Arcade: Season Five Pro Pack",
       "file": "missing/P/166025-pinball-arcade-season-five-pro-pack.json"
@@ -826917,6 +827362,11 @@
       "file": "missing/P/166026-pinball-arcade-season-four-pro-pack.json"
     },
     {
+      "igdb_id": 353747,
+      "game_name": "Pinball Arcade: Season One Table Pack",
+      "file": "missing/P/353747-pinball-arcade-season-one-table-pack.json"
+    },
+    {
       "igdb_id": 166027,
       "game_name": "Pinball Arcade: Season Seven Pro Pack",
       "file": "missing/P/166027-pinball-arcade-season-seven-pro-pack.json"
@@ -826927,9 +827377,19 @@
       "file": "missing/P/166024-pinball-arcade-season-seven-table-pack.json"
     },
     {
+      "igdb_id": 353751,
+      "game_name": "Pinball Arcade: Season Six Pack",
+      "file": "missing/P/353751-pinball-arcade-season-six-pack.json"
+    },
+    {
       "igdb_id": 166028,
       "game_name": "Pinball Arcade: Season Six Pro Pack",
       "file": "missing/P/166028-pinball-arcade-season-six-pro-pack.json"
+    },
+    {
+      "igdb_id": 353749,
+      "game_name": "Pinball Arcade: Season Three Pack",
+      "file": "missing/P/353749-pinball-arcade-season-three-pack.json"
     },
     {
       "igdb_id": 166029,
@@ -826945,6 +827405,11 @@
       "igdb_id": 166030,
       "game_name": "Pinball Arcade: Season Two Pro Pack",
       "file": "missing/P/166030-pinball-arcade-season-two-pro-pack.json"
+    },
+    {
+      "igdb_id": 353748,
+      "game_name": "Pinball Arcade: Season Two Table Pack",
+      "file": "missing/P/353748-pinball-arcade-season-two-table-pack.json"
     },
     {
       "igdb_id": 349343,
@@ -840272,6 +840737,11 @@
       "file": "missing/P/148476-plug-wars-the-game.json"
     },
     {
+      "igdb_id": 352783,
+      "game_name": "Plug-in PET",
+      "file": "missing/P/352783-plug-in-pet.json"
+    },
+    {
       "igdb_id": 132614,
       "game_name": "PlugMax",
       "file": "missing/P/132614-plugmax.json"
@@ -853452,6 +853922,11 @@
       "file": "missing/P/67618-postman-pat-special-delivery-service.json"
     },
     {
+      "igdb_id": 353922,
+      "game_name": "Postman Pat's Trail Game",
+      "file": "missing/P/353922-postman-pats-trail-game.json"
+    },
+    {
       "igdb_id": 179354,
       "game_name": "Postman Simon",
       "file": "missing/P/179354-postman-simon.json"
@@ -862935,6 +863410,11 @@
       "igdb_id": 328491,
       "game_name": "Progress Orders",
       "file": "missing/P/328491-progress-orders.json"
+    },
+    {
+      "igdb_id": 352779,
+      "game_name": "Progress PET",
+      "file": "missing/P/352779-progress-pet.json"
     },
     {
       "igdb_id": 355324,
@@ -882487,6 +882967,11 @@
       "file": "missing/Q/90287-quizzitive.json"
     },
     {
+      "igdb_id": 353196,
+      "game_name": "QuizzLingo",
+      "file": "missing/Q/353196-quizzlingo.json"
+    },
+    {
       "igdb_id": 104559,
       "game_name": "Quizzummah",
       "file": "missing/Q/104559-quizzummah.json"
@@ -899907,6 +900392,11 @@
       "file": "missing/R/273980-reds-revenge.json"
     },
     {
+      "igdb_id": 353761,
+      "game_name": "Redact",
+      "file": "missing/R/353761-redact.json"
+    },
+    {
       "igdb_id": 212214,
       "game_name": "Redacted",
       "file": "missing/R/212214-redacted.json"
@@ -902890,6 +903380,11 @@
       "igdb_id": 55618,
       "game_name": "Relic Keepers",
       "file": "missing/R/55618-relic-keepers.json"
+    },
+    {
+      "igdb_id": 353753,
+      "game_name": "Relic Light",
+      "file": "missing/R/353753-relic-light.json"
     },
     {
       "igdb_id": 259176,
@@ -905945,6 +906440,11 @@
       "igdb_id": 21533,
       "game_name": "Resident Evil 4: Wii Edition",
       "file": "missing/R/21533-resident-evil-4-wii-edition.json"
+    },
+    {
+      "igdb_id": 353926,
+      "game_name": "Resident Evil 4: Winter of Middle Night",
+      "file": "missing/R/353926-resident-evil-4-winter-of-middle-night.json"
     },
     {
       "igdb_id": 227780,
@@ -923147,6 +923647,26 @@
       "file": "missing/R/44060-rockman-dash-hagane-no-boukenshin.json"
     },
     {
+      "igdb_id": 352763,
+      "game_name": "Rockman EXE 4: Kaizou Card - Part 1",
+      "file": "missing/R/352763-rockman-exe-4-kaizou-card-part-1.json"
+    },
+    {
+      "igdb_id": 352764,
+      "game_name": "Rockman EXE 4: Kaizou Card - Part 2",
+      "file": "missing/R/352764-rockman-exe-4-kaizou-card-part-2.json"
+    },
+    {
+      "igdb_id": 352765,
+      "game_name": "Rockman EXE 4: Kaizou Card - Part 3",
+      "file": "missing/R/352765-rockman-exe-4-kaizou-card-part-3.json"
+    },
+    {
+      "igdb_id": 352767,
+      "game_name": "Rockman EXE 4: Kaizou Card - Part 4",
+      "file": "missing/R/352767-rockman-exe-4-kaizou-card-part-4.json"
+    },
+    {
       "igdb_id": 352875,
       "game_name": "Rockman EXE 4.5: Real Operation",
       "file": "missing/R/352875-rockman-exe-4-5-real-operation.json"
@@ -923160,6 +923680,36 @@
       "igdb_id": 352756,
       "game_name": "Rockman EXE 5: Kaizou Card - Part 2",
       "file": "missing/R/352756-rockman-exe-5-kaizou-card-part-2.json"
+    },
+    {
+      "igdb_id": 352771,
+      "game_name": "Rockman EXE 6: Dennoujuu Falzer",
+      "file": "missing/R/352771-rockman-exe-6-dennoujuu-falzer.json"
+    },
+    {
+      "igdb_id": 352772,
+      "game_name": "Rockman EXE 6: Dennoujuu Falzer",
+      "file": "missing/R/352772-rockman-exe-6-dennoujuu-falzer.json"
+    },
+    {
+      "igdb_id": 352776,
+      "game_name": "Rockman EXE 6: Dennoujuu Falzer - Beast Link Gate DX Edition",
+      "file": "missing/R/352776-rockman-exe-6-dennoujuu-falzer-beast-link-gate-dx-edition.json"
+    },
+    {
+      "igdb_id": 352770,
+      "game_name": "Rockman EXE 6: Dennoujuu Glaga",
+      "file": "missing/R/352770-rockman-exe-6-dennoujuu-glaga.json"
+    },
+    {
+      "igdb_id": 352773,
+      "game_name": "Rockman EXE 6: Dennoujuu Glaga",
+      "file": "missing/R/352773-rockman-exe-6-dennoujuu-glaga.json"
+    },
+    {
+      "igdb_id": 352777,
+      "game_name": "Rockman EXE 6: Dennoujuu Glaga - Beast Link Gate DX Edition",
+      "file": "missing/R/352777-rockman-exe-6-dennoujuu-glaga-beast-link-gate-dx-edition.json"
     },
     {
       "igdb_id": 352736,
@@ -937500,6 +938050,11 @@
       "igdb_id": 174778,
       "game_name": "Ryuko: Legend of Shadow Hunter",
       "file": "missing/R/174778-ryuko-legend-of-shadow-hunter.json"
+    },
+    {
+      "igdb_id": 353928,
+      "game_name": "Ryuthela",
+      "file": "missing/R/353928-ryuthela.json"
     },
     {
       "igdb_id": 12736,
@@ -970817,6 +971372,11 @@
       "file": "missing/S/25857-sherlock.json"
     },
     {
+      "igdb_id": 353927,
+      "game_name": "Sherlock",
+      "file": "missing/S/353927-sherlock.json"
+    },
+    {
       "igdb_id": 226624,
       "game_name": "Sherlock and Watson: A Study in Scarlet",
       "file": "missing/S/226624-sherlock-and-watson-a-study-in-scarlet.json"
@@ -974220,6 +974780,11 @@
       "igdb_id": 281251,
       "game_name": "Shirobara Gakuen Satsujin Jiken",
       "file": "missing/S/281251-shirobara-gakuen-satsujin-jiken.json"
+    },
+    {
+      "igdb_id": 353184,
+      "game_name": "Shirobara Renzoku Satsujin Jiken",
+      "file": "missing/S/353184-shirobara-renzoku-satsujin-jiken.json"
     },
     {
       "igdb_id": 408266,
@@ -983875,6 +984440,11 @@
       "igdb_id": 400329,
       "game_name": "Simple Series for Nintendo 3DS Vol. 2: The Misshitsu kara no Dasshutsu Archives 2",
       "file": "missing/S/400329-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-2.json"
+    },
+    {
+      "igdb_id": 353938,
+      "game_name": "Simple Series for Nintendo Switch Vol.4: The Misshitsu kara no Dasshutsu - Yo ni mo Kimyou na 4-tsu no Hanashi",
+      "file": "missing/S/353938-simple-series-for-nintendo-switch-vol-4-the-misshitsu-kara-no-dasshutsu-yo-ni-mo-kimyou-na-4-tsu-no-hanashi.json"
     },
     {
       "igdb_id": 77865,
@@ -1026902,6 +1027472,11 @@
       "file": "missing/S/382930-spibee.json"
     },
     {
+      "igdb_id": 353943,
+      "game_name": "Spica Adventure",
+      "file": "missing/S/353943-spica-adventure.json"
+    },
+    {
       "igdb_id": 60051,
       "game_name": "Spica Adventure",
       "file": "missing/S/60051-spica-adventure.json"
@@ -1036120,6 +1036695,11 @@
       "igdb_id": 18111,
       "game_name": "Stairs",
       "file": "missing/S/18111-stairs.json"
+    },
+    {
+      "igdb_id": 353752,
+      "game_name": "Stairs",
+      "file": "missing/S/353752-stairs.json"
     },
     {
       "igdb_id": 88902,
@@ -1048017,6 +1048597,11 @@
       "file": "missing/S/151447-stellaspella.json"
     },
     {
+      "igdb_id": 353937,
+      "game_name": "Stellations",
+      "file": "missing/S/353937-stellations.json"
+    },
+    {
       "igdb_id": 129454,
       "game_name": "Stellaxy",
       "file": "missing/S/129454-stellaxy.json"
@@ -1050760,6 +1051345,11 @@
       "igdb_id": 86637,
       "game_name": "Stonies",
       "file": "missing/S/86637-stonies.json"
+    },
+    {
+      "igdb_id": 353923,
+      "game_name": "Stonk Simulator",
+      "file": "missing/S/353923-stonk-simulator.json"
     },
     {
       "igdb_id": 167271,
@@ -1087752,6 +1088342,11 @@
       "file": "missing/S/356903-synth-riders-80s-mixtape-side-a.json"
     },
     {
+      "igdb_id": 353182,
+      "game_name": "Synth Riders: 80s Mixtape - Side B",
+      "file": "missing/S/353182-synth-riders-80s-mixtape-side-b.json"
+    },
+    {
       "igdb_id": 382176,
       "game_name": "Synth Riders: 80s Mixtape Side B Music Pack",
       "file": "missing/S/382176-synth-riders-80s-mixtape-side-b-music-pack.json"
@@ -1087785,6 +1088380,11 @@
       "igdb_id": 352397,
       "game_name": "Synth Riders: Blur - \"Song 2\"",
       "file": "missing/S/352397-synth-riders-blur-song-2.json"
+    },
+    {
+      "igdb_id": 353177,
+      "game_name": "Synth Riders: Bruno Mars - \"24K Magic\"",
+      "file": "missing/S/353177-synth-riders-bruno-mars-24k-magic.json"
     },
     {
       "igdb_id": 356079,
@@ -1087865,6 +1088465,31 @@
       "igdb_id": 356902,
       "game_name": "Synth Riders: Electro Swing Essentials 2",
       "file": "missing/S/356902-synth-riders-electro-swing-essentials-2.json"
+    },
+    {
+      "igdb_id": 353174,
+      "game_name": "Synth Riders: Gorillaz - \"Dare\"",
+      "file": "missing/S/353174-synth-riders-gorillaz-dare.json"
+    },
+    {
+      "igdb_id": 353175,
+      "game_name": "Synth Riders: Gorillaz - \"Feel Good Inc\"",
+      "file": "missing/S/353175-synth-riders-gorillaz-feel-good-inc.json"
+    },
+    {
+      "igdb_id": 353176,
+      "game_name": "Synth Riders: Gorillaz - \"New Gold\"",
+      "file": "missing/S/353176-synth-riders-gorillaz-new-gold.json"
+    },
+    {
+      "igdb_id": 353173,
+      "game_name": "Synth Riders: Gorillaz - \"On Melancholy Hill\"",
+      "file": "missing/S/353173-synth-riders-gorillaz-on-melancholy-hill.json"
+    },
+    {
+      "igdb_id": 353181,
+      "game_name": "Synth Riders: Gorillaz Music Pack",
+      "file": "missing/S/353181-synth-riders-gorillaz-music-pack.json"
     },
     {
       "igdb_id": 382179,
@@ -1088145,6 +1088770,16 @@
       "igdb_id": 356081,
       "game_name": "Synth Riders: The Midnight - \"Sunset\"",
       "file": "missing/S/356081-synth-riders-the-midnight-sunset.json"
+    },
+    {
+      "igdb_id": 353178,
+      "game_name": "Synth Riders: The Offspring - \"Come Out and Play\"",
+      "file": "missing/S/353178-synth-riders-the-offspring-come-out-and-play.json"
+    },
+    {
+      "igdb_id": 353180,
+      "game_name": "Synth Riders: The Offspring - \"Self-Esteem\"",
+      "file": "missing/S/353180-synth-riders-the-offspring-self-esteem.json"
     },
     {
       "igdb_id": 353647,
@@ -1108630,6 +1109265,11 @@
       "igdb_id": 289808,
       "game_name": "TESD: Into the Vortex",
       "file": "missing/T/289808-tesd-into-the-vortex.json"
+    },
+    {
+      "igdb_id": 353756,
+      "game_name": "Tesera",
+      "file": "missing/T/353756-tesera.json"
     },
     {
       "igdb_id": 178643,
@@ -1135905,6 +1136545,11 @@
       "igdb_id": 360082,
       "game_name": "The Island of Bad Women",
       "file": "missing/T/360082-the-island-of-bad-women.json"
+    },
+    {
+      "igdb_id": 353356,
+      "game_name": "The Island of Crossed Destinies",
+      "file": "missing/T/353356-the-island-of-crossed-destinies.json"
     },
     {
       "igdb_id": 21784,
@@ -1167340,6 +1167985,11 @@
       "igdb_id": 391119,
       "game_name": "The Wanderer's Rest",
       "file": "missing/T/391119-the-wanderers-rest.json"
+    },
+    {
+      "igdb_id": 352768,
+      "game_name": "The Wandering",
+      "file": "missing/T/352768-the-wandering.json"
     },
     {
       "igdb_id": 288625,
@@ -1202602,6 +1203252,11 @@
       "file": "missing/T/396509-tower-simulator-3-cyvr-airport.json"
     },
     {
+      "igdb_id": 353335,
+      "game_name": "Tower! Simulator 3: CYYZ Airport",
+      "file": "missing/T/353335-tower-simulator-3-cyyz-airport.json"
+    },
+    {
       "igdb_id": 396511,
       "game_name": "Tower! Simulator 3: EDDB Airport",
       "file": "missing/T/396511-tower-simulator-3-eddb-airport.json"
@@ -1202672,9 +1203327,19 @@
       "file": "missing/T/353318-tower-simulator-3-kbos-airport.json"
     },
     {
+      "igdb_id": 353341,
+      "game_name": "Tower! Simulator 3: KCLE Airport",
+      "file": "missing/T/353341-tower-simulator-3-kcle-airport.json"
+    },
+    {
       "igdb_id": 372525,
       "game_name": "Tower! Simulator 3: KDCA Airport",
       "file": "missing/T/372525-tower-simulator-3-kdca-airport.json"
+    },
+    {
+      "igdb_id": 353337,
+      "game_name": "Tower! Simulator 3: KDEN Airport",
+      "file": "missing/T/353337-tower-simulator-3-kden-airport.json"
     },
     {
       "igdb_id": 396518,
@@ -1202687,9 +1203352,19 @@
       "file": "missing/T/396505-tower-simulator-3-kewr-airport.json"
     },
     {
+      "igdb_id": 353345,
+      "game_name": "Tower! Simulator 3: KIAD Airport",
+      "file": "missing/T/353345-tower-simulator-3-kiad-airport.json"
+    },
+    {
       "igdb_id": 298704,
       "game_name": "Tower! Simulator 3: KIAH Airport",
       "file": "missing/T/298704-tower-simulator-3-kiah-airport.json"
+    },
+    {
+      "igdb_id": 353338,
+      "game_name": "Tower! Simulator 3: KJFK Airport",
+      "file": "missing/T/353338-tower-simulator-3-kjfk-airport.json"
     },
     {
       "igdb_id": 298091,
@@ -1202702,9 +1203377,34 @@
       "file": "missing/T/396508-tower-simulator-3-kord-airport.json"
     },
     {
+      "igdb_id": 353339,
+      "game_name": "Tower! Simulator 3: KPHL Airport",
+      "file": "missing/T/353339-tower-simulator-3-kphl-airport.json"
+    },
+    {
       "igdb_id": 311097,
       "game_name": "Tower! Simulator 3: KPIT Airport",
       "file": "missing/T/311097-tower-simulator-3-kpit-airport.json"
+    },
+    {
+      "igdb_id": 353342,
+      "game_name": "Tower! Simulator 3: KPVD Airport",
+      "file": "missing/T/353342-tower-simulator-3-kpvd-airport.json"
+    },
+    {
+      "igdb_id": 353336,
+      "game_name": "Tower! Simulator 3: KRIC Airport",
+      "file": "missing/T/353336-tower-simulator-3-kric-airport.json"
+    },
+    {
+      "igdb_id": 353343,
+      "game_name": "Tower! Simulator 3: KSAN Airport",
+      "file": "missing/T/353343-tower-simulator-3-ksan-airport.json"
+    },
+    {
+      "igdb_id": 353340,
+      "game_name": "Tower! Simulator 3: KSEA Airport",
+      "file": "missing/T/353340-tower-simulator-3-ksea-airport.json"
     },
     {
       "igdb_id": 353328,
@@ -1202720,6 +1203420,11 @@
       "igdb_id": 289931,
       "game_name": "Tower! Simulator 3: KSTL Airport",
       "file": "missing/T/289931-tower-simulator-3-kstl-airport.json"
+    },
+    {
+      "igdb_id": 353334,
+      "game_name": "Tower! Simulator 3: KTUS Airport",
+      "file": "missing/T/353334-tower-simulator-3-ktus-airport.json"
     },
     {
       "igdb_id": 278505,
@@ -1202745,6 +1203450,11 @@
       "igdb_id": 353325,
       "game_name": "Tower! Simulator 3: LSZH Airport",
       "file": "missing/T/353325-tower-simulator-3-lszh-airport.json"
+    },
+    {
+      "igdb_id": 353333,
+      "game_name": "Tower! Simulator 3: Miyo",
+      "file": "missing/T/353333-tower-simulator-3-miyo.json"
     },
     {
       "igdb_id": 289932,
@@ -1205095,6 +1205805,11 @@
       "igdb_id": 265545,
       "game_name": "Tradesman: Deal to Dealer",
       "file": "missing/T/265545-tradesman-deal-to-dealer.json"
+    },
+    {
+      "igdb_id": 353193,
+      "game_name": "Tradewake",
+      "file": "missing/T/353193-tradewake.json"
     },
     {
       "igdb_id": 72576,
@@ -1263832,6 +1264547,11 @@
       "file": "missing/W/348791-wail.json"
     },
     {
+      "igdb_id": 353934,
+      "game_name": "Wail of Despair",
+      "file": "missing/W/353934-wail-of-despair.json"
+    },
+    {
       "igdb_id": 196483,
       "game_name": "Wailing Guignol",
       "file": "missing/W/196483-wailing-guignol.json"
@@ -1292050,6 +1292770,11 @@
       "igdb_id": 312362,
       "game_name": "Wolf And Moon: Sudoku",
       "file": "missing/W/312362-wolf-and-moon-sudoku.json"
+    },
+    {
+      "igdb_id": 353347,
+      "game_name": "Wolf and The Warren",
+      "file": "missing/W/353347-wolf-and-the-warren.json"
     },
     {
       "igdb_id": 165755,
@@ -1320660,6 +1321385,36 @@
       "igdb_id": 421840,
       "game_name": "Zero Hour Reforged",
       "file": "missing/Z/421840-zero-hour-reforged.json"
+    },
+    {
+      "igdb_id": 353348,
+      "game_name": "Zero Hour: Aesthetics Pack \"Gold\"",
+      "file": "missing/Z/353348-zero-hour-aesthetics-pack-gold.json"
+    },
+    {
+      "igdb_id": 353353,
+      "game_name": "Zero Hour: Aesthetics Pack \"Platinum\"",
+      "file": "missing/Z/353353-zero-hour-aesthetics-pack-platinum.json"
+    },
+    {
+      "igdb_id": 353352,
+      "game_name": "Zero Hour: Aesthetics Pack \"Redline\"",
+      "file": "missing/Z/353352-zero-hour-aesthetics-pack-redline.json"
+    },
+    {
+      "igdb_id": 353351,
+      "game_name": "Zero Hour: Aesthetics Pack \"Serpentine\"",
+      "file": "missing/Z/353351-zero-hour-aesthetics-pack-serpentine.json"
+    },
+    {
+      "igdb_id": 353350,
+      "game_name": "Zero Hour: Aesthetics Pack \"Titanium\"",
+      "file": "missing/Z/353350-zero-hour-aesthetics-pack-titanium.json"
+    },
+    {
+      "igdb_id": 353354,
+      "game_name": "Zero Hour: Savanna Aesthetics Pack",
+      "file": "missing/Z/353354-zero-hour-savanna-aesthetics-pack.json"
     },
     {
       "igdb_id": 143604,
