@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
 | Randomish Races | 144027 | [144027-randomish-races.json](./144027-randomish-races.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
+| Randomlife Reborn | 347587 | [347587-randomlife-reborn.json](./347587-randomlife-reborn.json) |
 | Randompunk 2077 | 182773 | [182773-randompunk-2077.json](./182773-randompunk-2077.json) |
 | Randoseru Shougakkou 1-nensei | 289754 | [289754-randoseru-shougakkou-1-nensei.json](./289754-randoseru-shougakkou-1-nensei.json) |
 | Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
