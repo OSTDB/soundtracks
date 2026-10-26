@@ -3078,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
 | Recyclic | 348888 | [348888-recyclic.json](./348888-recyclic.json) |
 | Recycling Center Simulator | 298400 | [298400-recycling-center-simulator.json](./298400-recycling-center-simulator.json) |
+| Recycling Shift | 366946 | [366946-recycling-shift.json](./366946-recycling-shift.json) |
 | Recycling Tycoon: Junk to Gems | 312413 | [312413-recycling-tycoon-junk-to-gems.json](./312413-recycling-tycoon-junk-to-gems.json) |
 | Red | 194873 | [194873-red.json](./194873-red.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
@@ -8446,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Shooter: The FPS Roguelike | 17307 | [17307-rogue-shooter-the-fps-roguelike.json](./17307-rogue-shooter-the-fps-roguelike.json) |
 | Rogue Singularity | 34048 | [34048-rogue-singularity.json](./34048-rogue-singularity.json) |
+| Rogue Skies | 366869 | [366869-rogue-skies.json](./366869-rogue-skies.json) |
 | Rogue Sky | 292965 | [292965-rogue-sky.json](./292965-rogue-sky.json) |
 | Rogue Slash | 117647 | [117647-rogue-slash.json](./117647-rogue-slash.json) |
 | Rogue Slasher | 269092 | [269092-rogue-slasher.json](./269092-rogue-slasher.json) |
