@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoku's Island Express | 27367 | [27367-yokus-island-express.json](./27367-yokus-island-express.json) |
 | Yokubou Lock: Boku no Kanojo wa Shasei Kanrinin | 313262 | [313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json](./313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json) |
 | Yolked | 178292 | [178292-yolked.json](./178292-yolked.json) |
+| Yollen | 348698 | [348698-yollen.json](./348698-yollen.json) |
 | Yolo Chase | 241535 | [241535-yolo-chase.json](./241535-yolo-chase.json) |
 | YOLO Life: The Beggining | 76562 | [76562-yolo-life-the-beggining.json](./76562-yolo-life-the-beggining.json) |
 | Yolo Space Hacker | 156008 | [156008-yolo-space-hacker.json](./156008-yolo-space-hacker.json) |
