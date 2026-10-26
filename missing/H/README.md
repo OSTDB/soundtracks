@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haiki Gas Circle | 151820 | [151820-haiki-gas-circle.json](./151820-haiki-gas-circle.json) |
 | Haiku, and the Mother Virus | 336070 | [336070-haiku-and-the-mother-virus.json](./336070-haiku-and-the-mother-virus.json) |
 | Haiku, the Baby Robot | 231993 | [231993-haiku-the-baby-robot.json](./231993-haiku-the-baby-robot.json) |
+| Haikyu!! Fly High | 358744 | [358744-haikyu-fly-high.json](./358744-haikyu-fly-high.json) |
 | Haikyu!! Tsunage! Itadaki no Keshiki!! | 136931 | [136931-haikyu-tsunage-itadaki-no-keshiki.json](./136931-haikyu-tsunage-itadaki-no-keshiki.json) |
 | Haikyuu!! Cross Team Match! | 136910 | [136910-haikyuu-cross-team-match.json](./136910-haikyuu-cross-team-match.json) |
 | Haikyuu!! Donpisha Match!! | 196599 | [196599-haikyuu-donpisha-match.json](./196599-haikyuu-donpisha-match.json) |
@@ -1976,6 +1977,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Save the Homeland | 3382 | [3382-harvest-moon-save-the-homeland.json](./3382-harvest-moon-save-the-homeland.json) |
 | Harvest Moon: Seeds of Memories | 11188 | [11188-harvest-moon-seeds-of-memories.json](./11188-harvest-moon-seeds-of-memories.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
+| Harvest Moon: Skytree Village | 358623 | [358623-harvest-moon-skytree-village.json](./358623-harvest-moon-skytree-village.json) |
+| Harvest Moon: The Lost Valley | 358624 | [358624-harvest-moon-the-lost-valley.json](./358624-harvest-moon-the-lost-valley.json) |
 | Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
 | Harvest Moon: The Winds of Anthos | 228855 | [228855-harvest-moon-the-winds-of-anthos.json](./228855-harvest-moon-the-winds-of-anthos.json) |
 | Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
