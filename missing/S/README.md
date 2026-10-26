@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCOP | 251085 | [251085-scop.json](./251085-scop.json) |
 | Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
 | Scopaesthesia | 256720 | [256720-scopaesthesia.json](./256720-scopaesthesia.json) |
+| Scope Out | 372505 | [372505-scope-out.json](./372505-scope-out.json) |
 | Scopecreep | 370891 | [370891-scopecreep.json](./370891-scopecreep.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scopophobia | 361678 | [361678-scopophobia.json](./361678-scopophobia.json) |
@@ -6357,6 +6358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterhand | 48648 | [48648-shatterhand.json](./48648-shatterhand.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shattering Obsidian | 155961 | [155961-shattering-obsidian.json](./155961-shattering-obsidian.json) |
+| Shatterland | 372438 | [372438-shatterland.json](./372438-shatterland.json) |
 | Shatterline | 212877 | [212877-shatterline.json](./212877-shatterline.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shattle | 182189 | [182189-shattle.json](./182189-shattle.json) |
@@ -11214,6 +11216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Cave | 188296 | [188296-slime-cave.json](./188296-slime-cave.json) |
+| Slime Changer | 372506 | [372506-slime-changer.json](./372506-slime-changer.json) |
 | Slime City: Trials | 389550 | [389550-slime-city-trials.json](./389550-slime-city-trials.json) |
 | Slime Clicker | 298090 | [298090-slime-clicker.json](./298090-slime-clicker.json) |
 | Slime Climb | 164934 | [164934-slime-climb.json](./164934-slime-climb.json) |
@@ -11291,6 +11294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Store Simulator | 344988 | [344988-slime-store-simulator.json](./344988-slime-store-simulator.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slime Tactics | 113592 | [113592-slime-tactics.json](./113592-slime-tactics.json) |
+| Slime Tales | 372427 | [372427-slime-tales.json](./372427-slime-tales.json) |
 | Slime Time | 377347 | [377347-slime-time.json](./377347-slime-time.json) |
 | Slime Time TD | 153404 | [153404-slime-time-td.json](./153404-slime-time-td.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
