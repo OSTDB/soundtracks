@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainDive | 66743 | [66743-chaindive.json](./66743-chaindive.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
+| Chained Backrooms | 339721 | [339721-chained-backrooms.json](./339721-chained-backrooms.json) |
 | Chained Beasts | 344588 | [344588-chained-beasts.json](./344588-chained-beasts.json) |
 | Chained Bikes: Mega Ramp Stunts | 100835 | [100835-chained-bikes-mega-ramp-stunts.json](./100835-chained-bikes-mega-ramp-stunts.json) |
 | Chained Cars | 401380 | [401380-chained-cars.json](./401380-chained-cars.json) |
