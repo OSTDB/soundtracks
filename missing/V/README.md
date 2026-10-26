@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Rage | 66347 | [66347-vampire-rage.json](./66347-vampire-rage.json) |
 | Vampire Rain | 7231 | [7231-vampire-rain.json](./7231-vampire-rain.json) |
 | Vampire Rain: Altered Species | 21338 | [21338-vampire-rain-altered-species.json](./21338-vampire-rain-altered-species.json) |
+| Vampire Receptionist | 345405 | [345405-vampire-receptionist.json](./345405-vampire-receptionist.json) |
 | Vampire Revenge | 169786 | [169786-vampire-revenge.json](./169786-vampire-revenge.json) |
 | Vampire Romance | 223013 | [223013-vampire-romance.json](./223013-vampire-romance.json) |
 | Vampire Rush | 66037 | [66037-vampire-rush.json](./66037-vampire-rush.json) |
@@ -530,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Saga: Welcome to Hell Lock | 53934 | [53934-vampire-saga-welcome-to-hell-lock.json](./53934-vampire-saga-welcome-to-hell-lock.json) |
 | Vampire Savior: The Lord of Vampire | 206672 | [206672-vampire-savior-the-lord-of-vampire.json](./206672-vampire-savior-the-lord-of-vampire.json) |
 | Vampire Skills | 316939 | [316939-vampire-skills.json](./316939-vampire-skills.json) |
+| Vampire Skuf | 345378 | [345378-vampire-skuf.json](./345378-vampire-skuf.json) |
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
 | Vampire Slayer | 229227 | [229227-vampire-slayer.json](./229227-vampire-slayer.json) |
 | Vampire Slayer: New Blood | 192618 | [192618-vampire-slayer-new-blood.json](./192618-vampire-slayer-new-blood.json) |
@@ -1385,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Scary Backrooms Game | 274336 | [274336-very-scary-backrooms-game.json](./274336-very-scary-backrooms-game.json) |
 | Very Scary Game | 420657 | [420657-very-scary-game.json](./420657-very-scary-game.json) |
 | Very Scary Gays | 177909 | [177909-very-scary-gays.json](./177909-very-scary-gays.json) |
+| Very Unserious Game | 346502 | [346502-very-unserious-game.json](./346502-very-unserious-game.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | Very Very Valet | 141680 | [141680-very-very-valet.json](./141680-very-very-valet.json) |
 | Verydice | 88876 | [88876-verydice.json](./88876-verydice.json) |
@@ -1461,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex: World 4 Unlock | 170883 | [170883-vex-world-4-unlock.json](./170883-vex-world-4-unlock.json) |
 | Vexation: Hand Crafted Hell | 235048 | [235048-vexation-hand-crafted-hell.json](./235048-vexation-hand-crafted-hell.json) |
 | Vexbound | 420783 | [420783-vexbound.json](./420783-vexbound.json) |
+| Vexbox | 345249 | [345249-vexbox.json](./345249-vexbox.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexcell | 357715 | [357715-vexcell.json](./357715-vexcell.json) |
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
