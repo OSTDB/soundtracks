@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
 | Heart of Homunculus | 362237 | [362237-heart-of-homunculus.json](./362237-heart-of-homunculus.json) |
+| Heart of Ice by Dave Morris | 359334 | [359334-heart-of-ice-by-dave-morris.json](./359334-heart-of-ice-by-dave-morris.json) |
 | Heart of Iona | 255239 | [255239-heart-of-iona.json](./255239-heart-of-iona.json) |
 | Heart of Mithras | 156003 | [156003-heart-of-mithras.json](./156003-heart-of-mithras.json) |
 | Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
@@ -8551,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Runner DX | 303569 | [303569-horse-runner-dx.json](./303569-horse-runner-dx.json) |
 | Horse Shelter 2022 | 204821 | [204821-horse-shelter-2022.json](./204821-horse-shelter-2022.json) |
 | Horse Shoes | 358835 | [358835-horse-shoes.json](./358835-horse-shoes.json) |
+| Horse Shoes | 359310 | [359310-horse-shoes.json](./359310-horse-shoes.json) |
 | Horse Spirit Valley | 412010 | [412010-horse-spirit-valley.json](./412010-horse-spirit-valley.json) |
 | Horse Stable: Herd Care Simulator | 203700 | [203700-horse-stable-herd-care-simulator.json](./203700-horse-stable-herd-care-simulator.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
