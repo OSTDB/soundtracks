@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Terror | 25845 | [25845-teddy-terror.json](./25845-teddy-terror.json) |
 | Teddy the Wanderer: Kayaking | 112121 | [112121-teddy-the-wanderer-kayaking.json](./112121-teddy-the-wanderer-kayaking.json) |
 | Teddy Together | 85430 | [85430-teddy-together.json](./85430-teddy-together.json) |
+| Teddy War II | 350341 | [350341-teddy-war-ii.json](./350341-teddy-war-ii.json) |
 | Teddy's Haven: A Fantasy Inspired Shop Simulator | 342807 | [342807-teddys-haven-a-fantasy-inspired-shop-simulator.json](./342807-teddys-haven-a-fantasy-inspired-shop-simulator.json) |
 | Teddy's Marbles | 226754 | [226754-teddys-marbles.json](./226754-teddys-marbles.json) |
 | Tedram | 231366 | [231366-tedram.json](./231366-tedram.json) |
@@ -6616,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Hotel | 398325 | [398325-the-cursed-hotel.json](./398325-the-cursed-hotel.json) |
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
 | The Cursed Legacy | 287312 | [287312-the-cursed-legacy.json](./287312-the-cursed-legacy.json) |
+| The Cursed Legacy | 350353 | [350353-the-cursed-legacy.json](./350353-the-cursed-legacy.json) |
 | The Cursed love | 105297 | [105297-the-cursed-love.json](./105297-the-cursed-love.json) |
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
 | The Cursed Revenant | 169110 | [169110-the-cursed-revenant.json](./169110-the-cursed-revenant.json) |
@@ -10524,6 +10526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Nayuta: Boundless Trails - Deluxe Edition | 284594 | [284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json](./284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json) |
 | The Legend of Nayuta: Boundless Trails - Limited Edition | 284595 | [284595-the-legend-of-nayuta-boundless-trails-limited-edition.json](./284595-the-legend-of-nayuta-boundless-trails-limited-edition.json) |
 | The Legend of Neverland | 159100 | [159100-the-legend-of-neverland.json](./159100-the-legend-of-neverland.json) |
+| The Legend of Nezha | 350349 | [350349-the-legend-of-nezha.json](./350349-the-legend-of-nezha.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
 | The Legend of Ogorets 3: Kikimora | 270064 | [270064-the-legend-of-ogorets-3-kikimora.json](./270064-the-legend-of-ogorets-3-kikimora.json) |
 | The Legend of Ogorets 4: Warren | 278921 | [278921-the-legend-of-ogorets-4-warren.json](./278921-the-legend-of-ogorets-4-warren.json) |
