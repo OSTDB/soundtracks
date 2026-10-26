@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Navy: Daydream Edition | 110318 | [110318-neko-navy-daydream-edition.json](./110318-neko-navy-daydream-edition.json) |
 | Neko Neko | 219036 | [219036-neko-neko.json](./219036-neko-neko.json) |
 | Neko Neko Bakery DS | 130697 | [130697-neko-neko-bakery-ds.json](./130697-neko-neko-bakery-ds.json) |
+| Neko Neko Love | 348693 | [348693-neko-neko-love.json](./348693-neko-neko-love.json) |
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Neko Rampage | 231304 | [231304-neko-neko-rampage.json](./231304-neko-neko-rampage.json) |
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
@@ -3709,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift | 376829 | [376829-night-shift.json](./376829-night-shift.json) |
 | Night Shift at Fazclaire's Nightclub | 289164 | [289164-night-shift-at-fazclaires-nightclub.json](./289164-night-shift-at-fazclaires-nightclub.json) |
 | Night Shift at the Gym | 373358 | [373358-night-shift-at-the-gym.json](./373358-night-shift-at-the-gym.json) |
+| Night Shift at the Museum | 348671 | [348671-night-shift-at-the-museum.json](./348671-night-shift-at-the-museum.json) |
 | Night Shift Customer | 372599 | [372599-night-shift-customer.json](./372599-night-shift-customer.json) |
 | Night Shift Dissonance | 297349 | [297349-night-shift-dissonance.json](./297349-night-shift-dissonance.json) |
 | Night Shift Nightmare | 395794 | [395794-night-shift-nightmare.json](./395794-night-shift-nightmare.json) |
@@ -6398,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numgrid | 92905 | [92905-numgrid.json](./92905-numgrid.json) |
 | Numiares: A Dark Tale | 420566 | [420566-numiares-a-dark-tale.json](./420566-numiares-a-dark-tale.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
+| Numina: Construct | 348666 | [348666-numina-construct.json](./348666-numina-construct.json) |
 | Numina: Part 2 | 241510 | [241510-numina-part-2.json](./241510-numina-part-2.json) |
 | Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
 | Numito | 329119 | [329119-numito.json](./329119-numito.json) |
