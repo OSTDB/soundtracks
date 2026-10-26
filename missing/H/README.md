@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
 | HachikanShogi Matta Ari | 329057 | [329057-hachikanshogi-matta-ari.json](./329057-hachikanshogi-matta-ari.json) |
 | Hachinoid | 298948 | [298948-hachinoid.json](./298948-hachinoid.json) |
+| Hachishaku | 342533 | [342533-hachishaku.json](./342533-hachishaku.json) |
 | Hachishakusama | 412501 | [412501-hachishakusama.json](./412501-hachishakusama.json) |
 | Hachoo! | 40065 | [40065-hachoo.json](./40065-hachoo.json) |
 | Hack | 171890 | [171890-hack.json](./171890-hack.json) |
