@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Jogger | 40663 | [40663-video-jogger.json](./40663-video-jogger.json) |
 | Video Life | 40647 | [40647-video-life.json](./40647-video-life.json) |
 | Video Meanies | 368378 | [368378-video-meanies.json](./368378-video-meanies.json) |
+| Video Nightz | 365623 | [365623-video-nightz.json](./365623-video-nightz.json) |
 | Video Olimpic | 69341 | [69341-video-olimpic.json](./69341-video-olimpic.json) |
 | Video Olympics | 54791 | [54791-video-olympics.json](./54791-video-olympics.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
