@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What The Hack! | 351278 | [351278-what-the-hack.json](./351278-what-the-hack.json) |
 | What the Heck, Dude? | 30662 | [30662-what-the-heck-dude.json](./30662-what-the-heck-dude.json) |
 | What the hen! | 120244 | [120244-what-the-hen.json](./120244-what-the-hen.json) |
+| What the Luck? | 382857 | [382857-what-the-luck.json](./382857-what-the-luck.json) |
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
 | What The?! Party Trivia Game | 68245 | [68245-what-the-party-trivia-game.json](./68245-what-the-party-trivia-game.json) |
@@ -4134,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wibbling Wilf | 73099 | [73099-wibbling-wilf.json](./73099-wibbling-wilf.json) |
 | Wibbly Witches | 150403 | [150403-wibbly-witches.json](./150403-wibbly-witches.json) |
 | Wibbly-wobbly Tower | 178421 | [178421-wibbly-wobbly-tower.json](./178421-wibbly-wobbly-tower.json) |
+| Wibbly's Treasure Hunt | 382852 | [382852-wibblys-treasure-hunt.json](./382852-wibblys-treasure-hunt.json) |
 | Wibby Buddy | 366865 | [366865-wibby-buddy.json](./366865-wibby-buddy.json) |
 | Wibi!Data | 323558 | [323558-wibi-data.json](./323558-wibi-data.json) |
 | Wiblits | 58269 | [58269-wiblits.json](./58269-wiblits.json) |
@@ -6046,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Blocks 3D | 294547 | [294547-wood-blocks-3d.json](./294547-wood-blocks-3d.json) |
 | Wood Brothers Flying Colours | 188901 | [188901-wood-brothers-flying-colours.json](./188901-wood-brothers-flying-colours.json) |
 | Wood Chipper Truck | 108164 | [108164-wood-chipper-truck.json](./108164-wood-chipper-truck.json) |
+| Wood Clicker | 382868 | [382868-wood-clicker.json](./382868-wood-clicker.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood for Nobody Else | 357212 | [357212-wood-for-nobody-else.json](./357212-wood-for-nobody-else.json) |
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
