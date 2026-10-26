@@ -13100,6 +13100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Littlequarium | 379944 | [379944-cozy-littlequarium.json](./379944-cozy-littlequarium.json) |
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
 | Cozy Meadow | 335353 | [335353-cozy-meadow.json](./335353-cozy-meadow.json) |
+| Cozy Monsters: The Mischievous Trabus | 356521 | [356521-cozy-monsters-the-mischievous-trabus.json](./356521-cozy-monsters-the-mischievous-trabus.json) |
 | Cozy Mozy | 399153 | [399153-cozy-mozy.json](./399153-cozy-mozy.json) |
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
 | Cozy Night | 337709 | [337709-cozy-night.json](./337709-cozy-night.json) |
