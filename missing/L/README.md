@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lounge Café | 390247 | [390247-lounge-cafe.json](./390247-lounge-cafe.json) |
 | Lounge Lord | 178833 | [178833-lounge-lord.json](./178833-lounge-lord.json) |
 | Louny Balloony | 217378 | [217378-louny-balloony.json](./217378-louny-balloony.json) |
+| Loutra | 379947 | [379947-loutra.json](./379947-loutra.json) |
 | LouveSystems' TrackMasters | 167607 | [167607-louvesystems-trackmasters.json](./167607-louvesystems-trackmasters.json) |
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
 | Love | 105034 | [105034-love.json](./105034-love.json) |
