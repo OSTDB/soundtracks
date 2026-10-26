@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall-Defender | 46880 | [46880-wall-defender.json](./46880-wall-defender.json) |
 | Wall-E | 220129 | [220129-wall-e.json](./220129-wall-e.json) |
 | Wall-E | 279597 | [279597-wall-e.json](./279597-wall-e.json) |
+| Wall-E | 343179 | [343179-wall-e.json](./343179-wall-e.json) |
 | WALL-E | 320385 | [320385-wall-e.json](./320385-wall-e.json) |
 | WALL-E | 350049 | [350049-wall-e.json](./350049-wall-e.json) |
 | WALL-E | 357198 | [357198-wall-e.json](./357198-wall-e.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit: Invention Suspension | 320877 | [320877-wallace-and-gromit-invention-suspension.json](./320877-wallace-and-gromit-invention-suspension.json) |
 | Wallace & Gromit: Snow Drift | 320881 | [320881-wallace-and-gromit-snow-drift.json](./320881-wallace-and-gromit-snow-drift.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
+| Wallace & Gromit: The Curse of the Were-Rabbit | 343178 | [343178-wallace-and-gromit-the-curse-of-the-were-rabbit.json](./343178-wallace-and-gromit-the-curse-of-the-were-rabbit.json) |
 | Wallace & Gromit: The Curse of the Were-Rabbit | 6227 | [6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json](./6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json) |
 | Wallace & Gromit: Top Bun | 320878 | [320878-wallace-and-gromit-top-bun.json](./320878-wallace-and-gromit-top-bun.json) |
 | Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
@@ -4116,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
 | Who's your Santa !? | 55588 | [55588-whos-your-santa.json](./55588-whos-your-santa.json) |
 | Who's Your Weapon | 181664 | [181664-whos-your-weapon.json](./181664-whos-your-weapon.json) |
+| WhoBob WhatPants??? | 343185 | [343185-whobob-whatpants.json](./343185-whobob-whatpants.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Whodunnit | 387577 | [387577-whodunnit.json](./387577-whodunnit.json) |
 | Whole | 323619 | [323619-whole.json](./323619-whole.json) |
