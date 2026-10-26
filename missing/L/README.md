@@ -3457,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexibook Batman Compact Cyber Arcade Portable Console | 304232 | [304232-lexibook-batman-compact-cyber-arcade-portable-console.json](./304232-lexibook-batman-compact-cyber-arcade-portable-console.json) |
 | Lexibook Electronic Thesaurus: Model DC 750 | 245457 | [245457-lexibook-electronic-thesaurus-model-dc-750.json](./245457-lexibook-electronic-thesaurus-model-dc-750.json) |
 | Lexica | 369673 | [369673-lexica.json](./369673-lexica.json) |
+| Lexica | 384573 | [384573-lexica.json](./384573-lexica.json) |
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
 | Lexicon | 352306 | [352306-lexicon.json](./352306-lexicon.json) |
@@ -7459,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Pop Mahjong: JangJang Shimasho | 130298 | [130298-lovely-pop-mahjong-jangjang-shimasho.json](./130298-lovely-pop-mahjong-jangjang-shimasho.json) |
 | Lovely Quest | 62445 | [62445-lovely-quest.json](./62445-lovely-quest.json) |
 | Lovely Quest: Unlimited | 147302 | [147302-lovely-quest-unlimited.json](./147302-lovely-quest-unlimited.json) |
+| Lovely Sex with Tsundere Girl: She is too much into pleasure and loves your cock- | 384599 | [384599-lovely-sex-with-tsundere-girl-she-is-too-much-into-pleasure-and-loves-your-cock.json](./384599-lovely-sex-with-tsundere-girl-she-is-too-much-into-pleasure-and-loves-your-cock.json) |
 | Lovely Spot the Difference | 370813 | [370813-lovely-spot-the-difference.json](./370813-lovely-spot-the-difference.json) |
 | Lovely Spot the Difference Fantasy Edition | 379002 | [379002-lovely-spot-the-difference-fantasy-edition.json](./379002-lovely-spot-the-difference-fantasy-edition.json) |
 | Lovely Sweet Dream | 172766 | [172766-lovely-sweet-dream.json](./172766-lovely-sweet-dream.json) |
