@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Impact | 19649 | [19649-naruto-shippuden-ultimate-ninja-impact.json](./19649-naruto-shippuden-ultimate-ninja-impact.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 2 | 7098 | [7098-naruto-shippuden-ultimate-ninja-storm-2.json](./7098-naruto-shippuden-ultimate-ninja-storm-2.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 | 11059 | [11059-naruto-shippuden-ultimate-ninja-storm-4.json](./11059-naruto-shippuden-ultimate-ninja-storm-4.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - Evolution | 344589 | [344589-naruto-shippuden-ultimate-ninja-storm-4-evolution.json](./344589-naruto-shippuden-ultimate-ninja-storm-4-evolution.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Gaara's Tale Extra Scenario | 168159 | [168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json](./168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto | 46665 | [46665-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.json](./46665-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto Next Generations | 168161 | [168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json](./168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json) |
@@ -5053,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
 | No Way Out | 30104 | [30104-no-way-out.json](./30104-no-way-out.json) |
 | No Way Out | 310165 | [310165-no-way-out.json](./310165-no-way-out.json) |
+| No Way Out | 344273 | [344273-no-way-out.json](./344273-no-way-out.json) |
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
 | No World Dreamers: Sticky Zeitgeist | 354753 | [354753-no-world-dreamers-sticky-zeitgeist.json](./354753-no-world-dreamers-sticky-zeitgeist.json) |
