@@ -1989,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiiroi Hana | 158615 | [158615-kiiroi-hana.json](./158615-kiiroi-hana.json) |
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
 | Kijin-mura no Kiken na Inshuu: Dangerous Village Tradition | 270782 | [270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json](./270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json) |
+| Kikai | 366180 | [366180-kikai.json](./366180-kikai.json) |
 | Kikai Shushi: MachinE SeeD | 366021 | [366021-kikai-shushi-machine-seed.json](./366021-kikai-shushi-machine-seed.json) |
 | Kikai: The Silent Cat | 261221 | [261221-kikai-the-silent-cat.json](./261221-kikai-the-silent-cat.json) |
 | Kikaijikake no Merceneria | 386112 | [386112-kikaijikake-no-merceneria.json](./386112-kikaijikake-no-merceneria.json) |
@@ -2334,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
