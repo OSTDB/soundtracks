@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
 | Caliross, the Shapeshifter's Legacy | 380463 | [380463-caliross-the-shapeshifters-legacy.json](./380463-caliross-the-shapeshifters-legacy.json) |
 | Calisteo | 238981 | [238981-calisteo.json](./238981-calisteo.json) |
+| Calix | 346508 | [346508-calix.json](./346508-calix.json) |
 | Calixto Island | 36910 | [36910-calixto-island.json](./36910-calixto-island.json) |
 | Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
@@ -3533,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catburglar | 110894 | [110894-catburglar.json](./110894-catburglar.json) |
 | Catburglar | 406789 | [406789-catburglar.json](./406789-catburglar.json) |
 | Catbusters | 226139 | [226139-catbusters.json](./226139-catbusters.json) |
+| CatCat | 345960 | [345960-catcat.json](./345960-catcat.json) |
 | CatCat Save The World | 284794 | [284794-catcat-save-the-world.json](./284794-catcat-save-the-world.json) |
 | CatCatch | 107759 | [107759-catcatch.json](./107759-catcatch.json) |
 | CatCatMan | 334224 | [334224-catcatman.json](./334224-catcatman.json) |
@@ -5155,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chased by Darkness | 147622 | [147622-chased-by-darkness.json](./147622-chased-by-darkness.json) |
 | Chased by Nightmares | 386537 | [386537-chased-by-nightmares.json](./386537-chased-by-nightmares.json) |
 | Chaser | 242694 | [242694-chaser.json](./242694-chaser.json) |
+| Chaser | 345950 | [345950-chaser.json](./345950-chaser.json) |
 | Chaser | 380072 | [380072-chaser.json](./380072-chaser.json) |
 | Chaser | 55680 | [55680-chaser.json](./55680-chaser.json) |
 | ChaseTag | 219996 | [219996-chasetag.json](./219996-chasetag.json) |
@@ -7258,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella's Castle Designer | 50427 | [50427-cinderellas-castle-designer.json](./50427-cinderellas-castle-designer.json) |
 | Cinderella's Dollhouse | 209034 | [209034-cinderellas-dollhouse.json](./209034-cinderellas-dollhouse.json) |
 | Cinderella's Spark | 184037 | [184037-cinderellas-spark.json](./184037-cinderellas-spark.json) |
+| Cinderia | 345962 | [345962-cinderia.json](./345962-cinderia.json) |
 | Cinderline | 392394 | [392394-cinderline.json](./392394-cinderline.json) |
 | Cinders | 196163 | [196163-cinders.json](./196163-cinders.json) |
 | Cinders | 9723 | [9723-cinders.json](./9723-cinders.json) |
@@ -7327,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Dodge | 267770 | [267770-circle-dodge.json](./267770-circle-dodge.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
+| Circle Empires 2 | 345958 | [345958-circle-empires-2.json](./345958-circle-empires-2.json) |
 | Circle Empires Rivals | 124215 | [124215-circle-empires-rivals.json](./124215-circle-empires-rivals.json) |
 | Circle Empires Rivals: Forces of Nature | 171520 | [171520-circle-empires-rivals-forces-of-nature.json](./171520-circle-empires-rivals-forces-of-nature.json) |
 | Circle Empires Tactics | 145295 | [145295-circle-empires-tactics.json](./145295-circle-empires-tactics.json) |
@@ -8522,6 +8527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
 | CliffDivers | 273294 | [273294-cliffdivers.json](./273294-cliffdivers.json) |
 | Cliffed | 92163 | [92163-cliffed.json](./92163-cliffed.json) |
+| Cliffhanger | 346265 | [346265-cliffhanger.json](./346265-cliffhanger.json) |
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
 | Cliffhanger - Chat Stories | 87042 | [87042-cliffhanger-chat-stories.json](./87042-cliffhanger-chat-stories.json) |
@@ -9325,6 +9331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codemount | 301436 | [301436-codemount.json](./301436-codemount.json) |
 | Codename Attila | 289803 | [289803-codename-attila.json](./289803-codename-attila.json) |
 | Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
+| Codename Cure II | 346512 | [346512-codename-cure-ii.json](./346512-codename-cure-ii.json) |
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
 | Codename Desperado | 413848 | [413848-codename-desperado.json](./413848-codename-desperado.json) |
 | Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
@@ -9694,6 +9701,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collar X Malice: Unlimited - Limited Edition | 136207 | [136207-collar-x-malice-unlimited-limited-edition.json](./136207-collar-x-malice-unlimited-limited-edition.json) |
 | Collared | 133984 | [133984-collared.json](./133984-collared.json) |
 | Collateral | 380080 | [380080-collateral.json](./380080-collateral.json) |
+| Collateral Damages | 345925 | [345925-collateral-damages.json](./345925-collateral-damages.json) |
+| Collateral Damages 2 | 345927 | [345927-collateral-damages-2.json](./345927-collateral-damages-2.json) |
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
 | Collecstar | 261744 | [261744-collecstar.json](./261744-collecstar.json) |
 | Collect a Brainrot | 382844 | [382844-collect-a-brainrot.json](./382844-collect-a-brainrot.json) |
@@ -9842,6 +9851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Wars 2494 | 19585 | [19585-colony-wars-2494.json](./19585-colony-wars-2494.json) |
 | Colony Wars: Red Sun | 8282 | [8282-colony-wars-red-sun.json](./8282-colony-wars-red-sun.json) |
 | Colony Wars: Vengeance | 8281 | [8281-colony-wars-vengeance.json](./8281-colony-wars-vengeance.json) |
+| Colony X | 345963 | [345963-colony-x.json](./345963-colony-x.json) |
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
 | Colony: Part I The Moon Castle | 302937 | [302937-colony-part-i-the-moon-castle.json](./302937-colony-part-i-the-moon-castle.json) |
 | ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
@@ -16541,6 +16551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
 | Cursery: The Crooked Man and the Crooked Cat - Collector's Edition | 28676 | [28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json](./28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json) |
+| Curses | 346510 | [346510-curses.json](./346510-curses.json) |
 | Curses | 92940 | [92940-curses.json](./92940-curses.json) |
 | Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
