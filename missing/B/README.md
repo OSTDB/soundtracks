@@ -803,7 +803,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5497,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk World | 379453 | [379453-berserk-world.json](./379453-berserk-world.json) |
 | Berserker | 144185 | [144185-berserker.json](./144185-berserker.json) |
 | Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
+| Berserker Girl | 365039 | [365039-berserker-girl.json](./365039-berserker-girl.json) |
 | Berserker Girl | 377202 | [377202-berserker-girl.json](./377202-berserker-girl.json) |
 | Berserker Onslaught | 399292 | [399292-berserker-onslaught.json](./399292-berserker-onslaught.json) |
 | Berserker Raids | 316920 | [316920-berserker-raids.json](./316920-berserker-raids.json) |
@@ -12585,6 +12585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Through | 292943 | [292943-break-through.json](./292943-break-through.json) |
 | Break Through | 376830 | [376830-break-through.json](./376830-break-through.json) |
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
+| Break Through the Door | 365034 | [365034-break-through-the-door.json](./365034-break-through-the-door.json) |
 | Break Thru the Wall | 213344 | [213344-break-thru-the-wall.json](./213344-break-thru-the-wall.json) |
 | Break Time: The National Pool Tour | 48103 | [48103-break-time-the-national-pool-tour.json](./48103-break-time-the-national-pool-tour.json) |
 | Break Time! | 29813 | [29813-break-time.json](./29813-break-time.json) |
@@ -14206,6 +14207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
 | Building Crush! | 112183 | [112183-building-crush.json](./112183-building-crush.json) |
 | Building Destruction | 219214 | [219214-building-destruction.json](./219214-building-destruction.json) |
+| Building Jumper | 365047 | [365047-building-jumper.json](./365047-building-jumper.json) |
 | Building Manager | 401833 | [401833-building-manager.json](./401833-building-manager.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
