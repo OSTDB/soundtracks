@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Found a New Friend | 202568 | [202568-i-found-a-new-friend.json](./202568-i-found-a-new-friend.json) |
 | I Found Myself in a Strange House and I'm Scared | 368640 | [368640-i-found-myself-in-a-strange-house-and-im-scared.json](./368640-i-found-myself-in-a-strange-house-and-im-scared.json) |
 | I Get This Call Every Day | 36358 | [36358-i-get-this-call-every-day.json](./36358-i-get-this-call-every-day.json) |
+| I Gooned at My Grandmas Crib at 2 AM While My Mom Wasnt Watching | 383419 | [383419-i-gooned-at-my-grandmas-crib-at-2-am-while-my-mom-wasnt-watching.json](./383419-i-gooned-at-my-grandmas-crib-at-2-am-while-my-mom-wasnt-watching.json) |
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
 | I Got Cucked by a Futanari | 290811 | [290811-i-got-cucked-by-a-futanari.json](./290811-i-got-cucked-by-a-futanari.json) |
