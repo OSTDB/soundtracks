@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Drive: Open World Multiplayer Racing | 163830 | [163830-need-for-drive-open-world-multiplayer-racing.json](./163830-need-for-drive-open-world-multiplayer-racing.json) |
 | Need for Kill | 333213 | [333213-need-for-kill.json](./333213-need-for-kill.json) |
 | Need For Madness 2 | 63232 | [63232-need-for-madness-2.json](./63232-need-for-madness-2.json) |
+| Need for Race Street King & Formula Auto Sport Racing Pack | 385132 | [385132-need-for-race-street-king-and-formula-auto-sport-racing-pack.json](./385132-need-for-race-street-king-and-formula-auto-sport-racing-pack.json) |
 | Need For Race: Street King | 328511 | [328511-need-for-race-street-king.json](./328511-need-for-race-street-king.json) |
 | Need For Scream | 345550 | [345550-need-for-scream.json](./345550-need-for-scream.json) |
 | Need for Seat | 364277 | [364277-need-for-seat.json](./364277-need-for-seat.json) |
@@ -1797,6 +1798,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekour | 138501 | [138501-nekour.json](./138501-nekour.json) |
 | Nekowater | 274034 | [274034-nekowater.json](./274034-nekowater.json) |
 | Nekra Psaria | 182209 | [182209-nekra-psaria.json](./182209-nekra-psaria.json) |
+| Nekra Psaria 2 | 385150 | [385150-nekra-psaria-2.json](./385150-nekra-psaria-2.json) |
+| Nekra Psaria 3 | 385151 | [385151-nekra-psaria-3.json](./385151-nekra-psaria-3.json) |
 | Nekra Psaria 4 | 385188 | [385188-nekra-psaria-4.json](./385188-nekra-psaria-4.json) |
 | Nekro3 | 356836 | [356836-nekro3.json](./356836-nekro3.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
@@ -6033,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noxiam: Miserable Sinners | 126407 | [126407-noxiam-miserable-sinners.json](./126407-noxiam-miserable-sinners.json) |
 | Noxious Weeds | 251962 | [251962-noxious-weeds.json](./251962-noxious-weeds.json) |
 | Noxium | 280119 | [280119-noxium.json](./280119-noxium.json) |
+| Noxpheria: The Crimson Madness | 385146 | [385146-noxpheria-the-crimson-madness.json](./385146-noxpheria-the-crimson-madness.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
 | Noyd | 270608 | [270608-noyd.json](./270608-noyd.json) |
 | Noyo-! | 120038 | [120038-noyo.json](./120038-noyo.json) |
