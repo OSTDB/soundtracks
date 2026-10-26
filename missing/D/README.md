@@ -7199,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
 | Dice'n'Go | 404963 | [404963-dicengo.json](./404963-dicengo.json) |
 | Dicealot | 319726 | [319726-dicealot.json](./319726-dicealot.json) |
+| Diceball | 342532 | [342532-diceball.json](./342532-diceball.json) |
 | Diced Pilot | 236648 | [236648-diced-pilot.json](./236648-diced-pilot.json) |
 | Diceeee | 373869 | [373869-diceeee.json](./373869-diceeee.json) |
 | Dicefeat | 184459 | [184459-dicefeat.json](./184459-dicefeat.json) |
@@ -11084,6 +11085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
 | Doorman | 200358 | [200358-doorman.json](./200358-doorman.json) |
+| Doorms | 342527 | [342527-doorms.json](./342527-doorms.json) |
 | Doorpuncher | 177243 | [177243-doorpuncher.json](./177243-doorpuncher.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors | 16987 | [16987-doors.json](./16987-doors.json) |
@@ -14679,6 +14681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
 | Due | 327285 | [327285-due.json](./327285-due.json) |
 | Due Date | 240367 | [240367-due-date.json](./240367-due-date.json) |
+| Due Last Week | 342909 | [342909-due-last-week.json](./342909-due-last-week.json) |
 | Due Process | 60900 | [60900-due-process.json](./60900-due-process.json) |
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
