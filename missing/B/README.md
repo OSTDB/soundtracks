@@ -816,7 +816,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12590,16 +12589,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Brawl Squad X: Battle Arena | 392082 | [392082-brawl-squad-x-battle-arena.json](./392082-brawl-squad-x-battle-arena.json) |
+| Brawl Stars: Angels vs. Demons | 335800 | [335800-brawl-stars-angels-vs-demons.json](./335800-brawl-stars-angels-vs-demons.json) |
 | Brawl Stars: Back To Ranger Ranch | 318588 | [318588-brawl-stars-back-to-ranger-ranch.json](./318588-brawl-stars-back-to-ranger-ranch.json) |
 | Brawl Stars: Biodome | 318579 | [318579-brawl-stars-biodome.json](./318579-brawl-stars-biodome.json) |
 | Brawl Stars: Bizarre Circus | 318589 | [318589-brawl-stars-bizarre-circus.json](./318589-brawl-stars-bizarre-circus.json) |
 | Brawl Stars: Brawlywood | 318577 | [318577-brawl-stars-brawlywood.json](./318577-brawl-stars-brawlywood.json) |
 | Brawl Stars: Candyland | 318584 | [318584-brawl-stars-candyland.json](./318584-brawl-stars-candyland.json) |
 | Brawl Stars: CyberBrawl | 318596 | [318596-brawl-stars-cyberbrawl.json](./318596-brawl-stars-cyberbrawl.json) |
+| Brawl Stars: Dark Sands | 335804 | [335804-brawl-stars-dark-sands.json](./335804-brawl-stars-dark-sands.json) |
 | Brawl Stars: Enchanted Woods | 318587 | [318587-brawl-stars-enchanted-woods.json](./318587-brawl-stars-enchanted-woods.json) |
 | Brawl Stars: Ghost Station | 318583 | [318583-brawl-stars-ghost-station.json](./318583-brawl-stars-ghost-station.json) |
 | Brawl Stars: Gods Vs Monsters! | 318598 | [318598-brawl-stars-gods-vs-monsters.json](./318598-brawl-stars-gods-vs-monsters.json) |
 | Brawl Stars: Godzilla | 318595 | [318595-brawl-stars-godzilla.json](./318595-brawl-stars-godzilla.json) |
+| Brawl Stars: Good Randoms | 335803 | [335803-brawl-stars-good-randoms.json](./335803-brawl-stars-good-randoms.json) |
 | Brawl Stars: Holiday Getaway | 318570 | [318570-brawl-stars-holiday-getaway.json](./318570-brawl-stars-holiday-getaway.json) |
 | Brawl Stars: Jurassic Splash | 318574 | [318574-brawl-stars-jurassic-splash.json](./318574-brawl-stars-jurassic-splash.json) |
 | Brawl Stars: Mystery At The Hub | 318585 | [318585-brawl-stars-mystery-at-the-hub.json](./318585-brawl-stars-mystery-at-the-hub.json) |
@@ -12610,7 +12612,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Stars: Sands Of Time | 318592 | [318592-brawl-stars-sands-of-time.json](./318592-brawl-stars-sands-of-time.json) |
 | Brawl Stars: Season 31 - Scary Tales | 320182 | [320182-brawl-stars-season-31-scary-tales.json](./320182-brawl-stars-season-31-scary-tales.json) |
 | Brawl Stars: SpongeBob | 318600 | [318600-brawl-stars-spongebob.json](./318600-brawl-stars-spongebob.json) |
+| Brawl Stars: Starr Force | 335802 | [335802-brawl-stars-starr-force.json](./335802-brawl-stars-starr-force.json) |
 | Brawl Stars: Starr Toon Studios | 318590 | [318590-brawl-stars-starr-toon-studios.json](./318590-brawl-stars-starr-toon-studios.json) |
+| Brawl Stars: Starr Toon Studios 2 | 335801 | [335801-brawl-stars-starr-toon-studios-2.json](./335801-brawl-stars-starr-toon-studios-2.json) |
 | Brawl Stars: Summer Of Monsters | 318567 | [318567-brawl-stars-summer-of-monsters.json](./318567-brawl-stars-summer-of-monsters.json) |
 | Brawl Stars: Tara's Bazaar | 318566 | [318566-brawl-stars-taras-bazaar.json](./318566-brawl-stars-taras-bazaar.json) |
 | Brawl Stars: The Deep Sea Brawl | 318581 | [318581-brawl-stars-the-deep-sea-brawl.json](./318581-brawl-stars-the-deep-sea-brawl.json) |
@@ -15178,6 +15182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bury My Heart Knee Deep | 262546 | [262546-bury-my-heart-knee-deep.json](./262546-bury-my-heart-knee-deep.json) |
 | Bury Treasure | 187740 | [187740-bury-treasure.json](./187740-bury-treasure.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
+| Burya v Stakane: Honky na Marshrutkakh | 336186 | [336186-burya-v-stakane-honky-na-marshrutkakh.json](./336186-burya-v-stakane-honky-na-marshrutkakh.json) |
 | Bus & Cable Car Simulator | 52487 | [52487-bus-and-cable-car-simulator.json](./52487-bus-and-cable-car-simulator.json) |
 | Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
 | Bus Bound | 348339 | [348339-bus-bound.json](./348339-bus-bound.json) |
