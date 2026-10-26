@@ -5852,6 +5852,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
 | Not My Tempo | 408128 | [408128-not-my-tempo.json](./408128-not-my-tempo.json) |
 | Not My War | 377669 | [377669-not-my-war.json](./377669-not-my-war.json) |
+| Not Not 2: A Brain Challenge - Golden DLC | 343730 | [343730-not-not-2-a-brain-challenge-golden-dlc.json](./343730-not-not-2-a-brain-challenge-golden-dlc.json) |
+| Not Not 2: A Brain Challenge - Platinum DLC | 343731 | [343731-not-not-2-a-brain-challenge-platinum-dlc.json](./343731-not-not-2-a-brain-challenge-platinum-dlc.json) |
 | Not Not 2: A Brain Challenge - Platinum Edition | 378856 | [378856-not-not-2-a-brain-challenge-platinum-edition.json](./378856-not-not-2-a-brain-challenge-platinum-edition.json) |
 | Not Not: A Brain Buster | 117957 | [117957-not-not-a-brain-buster.json](./117957-not-not-a-brain-buster.json) |
 | Not Not: Zunou Taikyuu Game | 222266 | [222266-not-not-zunou-taikyuu-game.json](./222266-not-not-zunou-taikyuu-game.json) |
