@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
 | Rapid Assault | 62137 | [62137-rapid-assault.json](./62137-rapid-assault.json) |
 | Rapid Deployment Force: Global Conflict | 46606 | [46606-rapid-deployment-force-global-conflict.json](./46606-rapid-deployment-force-global-conflict.json) |
+| Rapid Eye Madness | 377631 | [377631-rapid-eye-madness.json](./377631-rapid-eye-madness.json) |
 | Rapid Fall | 103137 | [103137-rapid-fall.json](./103137-rapid-fall.json) |
 | Rapid Fire | 112751 | [112751-rapid-fire.json](./112751-rapid-fire.json) |
 | Rapid Fire Brigade | 248178 | [248178-rapid-fire-brigade.json](./248178-rapid-fire-brigade.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Race | 60789 | [60789-rat-race.json](./60789-rat-race.json) |
 | Rat Racer | 127760 | [127760-rat-racer.json](./127760-rat-racer.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
+| Rat Run | 377627 | [377627-rat-run.json](./377627-rat-run.json) |
 | Rat Shoot | 223337 | [223337-rat-shoot.json](./223337-rat-shoot.json) |
 | Rat Simulator | 29405 | [29405-rat-simulator.json](./29405-rat-simulator.json) |
 | Rat Tag! | 423892 | [423892-rat-tag.json](./423892-rat-tag.json) |
@@ -1777,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
 | Ratchet & Clank: Into the Nexus | 2589 | [2589-ratchet-and-clank-into-the-nexus.json](./2589-ratchet-and-clank-into-the-nexus.json) |
 | Ratchet & Clank: Premature Release | 288705 | [288705-ratchet-and-clank-premature-release.json](./288705-ratchet-and-clank-premature-release.json) |
+| Ratchet & Clank: Ranger Rumble | 377637 | [377637-ratchet-and-clank-ranger-rumble.json](./377637-ratchet-and-clank-ranger-rumble.json) |
 | Ratchet & Clank: Rift Apart - Digital Deluxe Edition | 407558 | [407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json](./407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json) |
 | Ratchet & Clank: Rift Apart - Launch Edition | 145991 | [145991-ratchet-and-clank-rift-apart-launch-edition.json](./145991-ratchet-and-clank-rift-apart-launch-edition.json) |
 | Ratchet & Clank: Size Matters | 308039 | [308039-ratchet-and-clank-size-matters.json](./308039-ratchet-and-clank-size-matters.json) |
@@ -2663,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Eternity | 148793 | [148793-realms-of-eternity.json](./148793-realms-of-eternity.json) |
 | Realms of Exether | 356269 | [356269-realms-of-exether.json](./356269-realms-of-exether.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
+| Realms of Fortune | 377661 | [377661-realms-of-fortune.json](./377661-realms-of-fortune.json) |
 | Realms of Illusion: Sentinel | 25485 | [25485-realms-of-illusion-sentinel.json](./25485-realms-of-illusion-sentinel.json) |
 | Realms of Madness | 280261 | [280261-realms-of-madness.json](./280261-realms-of-madness.json) |
 | Realms of Magic | 76686 | [76686-realms-of-magic.json](./76686-realms-of-magic.json) |
@@ -5562,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rework | 310507 | [310507-rework.json](./310507-rework.json) |
 | Reworld | 130807 | [130807-reworld.json](./130807-reworld.json) |
 | Reworld | 193800 | [193800-reworld.json](./193800-reworld.json) |
+| Rewoven Self | 377635 | [377635-rewoven-self.json](./377635-rewoven-self.json) |
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
 | Rewrite Harvest festa! | 144733 | [144733-rewrite-harvest-festa.json](./144733-rewrite-harvest-festa.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
@@ -6922,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rize of the Summonds | 25594 | [25594-rize-of-the-summonds.json](./25594-rize-of-the-summonds.json) |
 | Rizline | 245214 | [245214-rizline.json](./245214-rizline.json) |
 | Rizuhuritan! Rhythmic Flip (Re)Turn | 339977 | [339977-rizuhuritan-rhythmic-flip-re-turn.json](./339977-rizuhuritan-rhythmic-flip-re-turn.json) |
+| Rizz Dungeon: Skeleton Key to My Heart | 377662 | [377662-rizz-dungeon-skeleton-key-to-my-heart.json](./377662-rizz-dungeon-skeleton-key-to-my-heart.json) |
 | Rizzoli and Isles: The Boston Butcher | 57370 | [57370-rizzoli-and-isles-the-boston-butcher.json](./57370-rizzoli-and-isles-the-boston-butcher.json) |
 | Rizzoli and Isles: The Masterpiece Murders | 57369 | [57369-rizzoli-and-isles-the-masterpiece-murders.json](./57369-rizzoli-and-isles-the-masterpiece-murders.json) |
 | RKGK | 296838 | [296838-rkgk.json](./296838-rkgk.json) |
@@ -7399,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robokill 2: Leviathan Five | 143455 | [143455-robokill-2-leviathan-five.json](./143455-robokill-2-leviathan-five.json) |
 | Robokill: Titan Prime | 95901 | [95901-robokill-titan-prime.json](./95901-robokill-titan-prime.json) |
 | RoboKong | 137571 | [137571-robokong.json](./137571-robokong.json) |
+| RoboLeague | 377560 | [377560-roboleague.json](./377560-roboleague.json) |
 | Robolife: Days with Aino | 158976 | [158976-robolife-days-with-aino.json](./158976-robolife-days-with-aino.json) |
 | Robolife2: Nova Duty | 211585 | [211585-robolife2-nova-duty.json](./211585-robolife2-nova-duty.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
