@@ -3483,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexicon | 412907 | [412907-lexicon.json](./412907-lexicon.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
 | Lexie the Takeover | 81651 | [81651-lexie-the-takeover.json](./81651-lexie-the-takeover.json) |
+| LexiLoong | 357823 | [357823-lexiloong.json](./357823-lexiloong.json) |
 | Leximan | 177455 | [177455-leximan.json](./177455-leximan.json) |
 | Leximorph: Word Merge Game | 344534 | [344534-leximorph-word-merge-game.json](./344534-leximorph-word-merge-game.json) |
 | Lexis | 379596 | [379596-lexis.json](./379596-lexis.json) |
