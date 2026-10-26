@@ -9231,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Tower | 264589 | [264589-the-impossible-tower.json](./264589-the-impossible-tower.json) |
 | The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
 | The Impossible Turnabout | 309989 | [309989-the-impossible-turnabout.json](./309989-the-impossible-turnabout.json) |
+| The Imposters | 367370 | [367370-the-imposters.json](./367370-the-imposters.json) |
 | The In Between | 217362 | [217362-the-in-between.json](./217362-the-in-between.json) |
 | The In Crowd | 47195 | [47195-the-in-crowd.json](./47195-the-in-crowd.json) |
 | The Inanimate Mr. Coatrack | 122847 | [122847-the-inanimate-mr-coatrack.json](./122847-the-inanimate-mr-coatrack.json) |
@@ -10197,6 +10198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Saviour: Search of Truth | 236367 | [236367-the-last-saviour-search-of-truth.json](./236367-the-last-saviour-search-of-truth.json) |
 | The Last Scaler | 314466 | [314466-the-last-scaler.json](./314466-the-last-scaler.json) |
 | The Last Scape | 137857 | [137857-the-last-scape.json](./137857-the-last-scape.json) |
+| The Last Scion | 367464 | [367464-the-last-scion.json](./367464-the-last-scion.json) |
 | The Last Screening | 367061 | [367061-the-last-screening.json](./367061-the-last-screening.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shape | 199798 | [199798-the-last-shape.json](./199798-the-last-shape.json) |
