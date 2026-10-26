@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Old Sun | 81112 | [81112-dark-old-sun.json](./81112-dark-old-sun.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
+| Dark Origins | 343196 | [343196-dark-origins.json](./343196-dark-origins.json) |
 | Dark Pact | 291849 | [291849-dark-pact.json](./291849-dark-pact.json) |
 | Dark Pages | 265490 | [265490-dark-pages.json](./265490-dark-pages.json) |
 | Dark Pals | 389914 | [389914-dark-pals.json](./389914-dark-pals.json) |
