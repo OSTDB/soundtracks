@@ -731,6 +731,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo CE+ | 276775 | [276775-halo-ce.json](./276775-halo-ce.json) |
 | Halo Chaotic Edition | 271760 | [271760-halo-chaotic-edition.json](./271760-halo-chaotic-edition.json) |
 | Halo DS | 228921 | [228921-halo-ds.json](./228921-halo-ds.json) |
+| Halo Infinite Operation: Frontlines | 335760 | [335760-halo-infinite-operation-frontlines.json](./335760-halo-infinite-operation-frontlines.json) |
+| Halo Infinite: Operation - Brute Force | 335763 | [335763-halo-infinite-operation-brute-force.json](./335763-halo-infinite-operation-brute-force.json) |
 | Halo Infinite: Operation - Champions | 335851 | [335851-halo-infinite-operation-champions.json](./335851-halo-infinite-operation-champions.json) |
 | Halo Infinite: Operation - Forerunner | 339393 | [339393-halo-infinite-operation-forerunner.json](./339393-halo-infinite-operation-forerunner.json) |
 | Halo Infinite: Operation - Great Journey | 335849 | [335849-halo-infinite-operation-great-journey.json](./335849-halo-infinite-operation-great-journey.json) |
@@ -739,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation - Shadows | 364581 | [364581-halo-infinite-operation-shadows.json](./364581-halo-infinite-operation-shadows.json) |
 | Halo Infinite: Operation - Snowbound | 335848 | [335848-halo-infinite-operation-snowbound.json](./335848-halo-infinite-operation-snowbound.json) |
 | Halo Infinite: Operation - Warpath | 367399 | [367399-halo-infinite-operation-warpath.json](./367399-halo-infinite-operation-warpath.json) |
+| Halo Infinite: Operation Blue Team | 335758 | [335758-halo-infinite-operation-blue-team.json](./335758-halo-infinite-operation-blue-team.json) |
 | Halo Infinite: Operation Fleetcom | 313455 | [313455-halo-infinite-operation-fleetcom.json](./313455-halo-infinite-operation-fleetcom.json) |
 | Halo Infinite: Operation Haloween | 319155 | [319155-halo-infinite-operation-haloween.json](./319155-halo-infinite-operation-haloween.json) |
 | Halo Infinite: Operation Haloween II | 381717 | [381717-halo-infinite-operation-haloween-ii.json](./381717-halo-infinite-operation-haloween-ii.json) |
@@ -2563,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Sneaks | 301433 | [301433-he-sneaks.json](./301433-he-sneaks.json) |
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
+| He Who Tied The Bell | 335785 | [335785-he-who-tied-the-bell.json](./335785-he-who-tied-the-bell.json) |
 | He-162 Volksjäger: Tour of Duty | 182 | [182-he-162-volksjager-tour-of-duty.json](./182-he-162-volksjager-tour-of-duty.json) |
 | He-Man | 198343 | [198343-he-man.json](./198343-he-man.json) |
 | He-Man and the Masters of the Universe: Dragon Pearl of Destruction | 361830 | [361830-he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction.json](./361830-he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction.json) |
