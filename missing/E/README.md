@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embr: Secret Hosr | 193106 | [193106-embr-secret-hosr.json](./193106-embr-secret-hosr.json) |
 | Embrace | 177866 | [177866-embrace.json](./177866-embrace.json) |
 | Embrace of Ocean: Story of Hope | 51956 | [51956-embrace-of-ocean-story-of-hope.json](./51956-embrace-of-ocean-story-of-hope.json) |
+| Embrace of the Fog | 365641 | [365641-embrace-of-the-fog.json](./365641-embrace-of-the-fog.json) |
 | Embrace the Fear | 29773 | [29773-embrace-the-fear.json](./29773-embrace-the-fear.json) |
 | Embrace the Three Kingdoms | 118229 | [118229-embrace-the-three-kingdoms.json](./118229-embrace-the-three-kingdoms.json) |
 | Embrace.io | 31560 | [31560-embrace-io.json](./31560-embrace-io.json) |
