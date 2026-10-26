@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 239299 | [239299-quarth.json](./239299-quarth.json) |
 | Quarth | 41771 | [41771-quarth.json](./41771-quarth.json) |
 | Quarto | 104795 | [104795-quarto.json](./104795-quarto.json) |
+| Quarto! | 374583 | [374583-quarto.json](./374583-quarto.json) |
 | Quartz | 15352 | [15352-quartz.json](./15352-quartz.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quasar | 198123 | [198123-quasar.json](./198123-quasar.json) |
