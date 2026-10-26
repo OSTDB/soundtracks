@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yachu Dice | 151017 | [151017-yachu-dice.json](./151017-yachu-dice.json) |
 | Yadamon: Wonderland Dream | 37762 | [37762-yadamon-wonderland-dream.json](./37762-yadamon-wonderland-dream.json) |
 | Yadokari Survive | 142775 | [142775-yadokari-survive.json](./142775-yadokari-survive.json) |
+| YaeiJinja | 356013 | [356013-yaeijinja.json](./356013-yaeijinja.json) |
 | Yaengard | 155676 | [155676-yaengard.json](./155676-yaengard.json) |
 | Yafti | 93760 | [93760-yafti.json](./93760-yafti.json) |
 | Yag | 114196 | [114196-yag.json](./114196-yag.json) |
