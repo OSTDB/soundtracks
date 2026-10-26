@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
 | F.E.A.R.: MMod | 320343 | [320343-f-e-a-r-mmod.json](./320343-f-e-a-r-mmod.json) |
 | F.E.A.R.: Ultimate Shooter Edition | 53050 | [53050-f-e-a-r-ultimate-shooter-edition.json](./53050-f-e-a-r-ultimate-shooter-edition.json) |
+| F.E.A.S.T | 353946 | [353946-f-e-a-s-t.json](./353946-f-e-a-s-t.json) |
 | F.E.X (Forced Evolution Experiment) | 55522 | [55522-f-e-x-forced-evolution-experiment.json](./55522-f-e-x-forced-evolution-experiment.json) |
 | F.Godmom | 85946 | [85946-f-godmom.json](./85946-f-godmom.json) |
 | F.H. Memento: Love Beyond | 101728 | [101728-f-h-memento-love-beyond.json](./101728-f-h-memento-love-beyond.json) |
@@ -4147,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy ++ World of Chaos | 298415 | [298415-final-fantasy-world-of-chaos.json](./298415-final-fantasy-world-of-chaos.json) |
 | Final Fantasy 2.0 | 269470 | [269470-final-fantasy-2-0.json](./269470-final-fantasy-2-0.json) |
 | Final Fantasy 25th Anniversary Ultimate Box | 282727 | [282727-final-fantasy-25th-anniversary-ultimate-box.json](./282727-final-fantasy-25th-anniversary-ultimate-box.json) |
+| Final Fantasy 6: A Complete Hack | 353924 | [353924-final-fantasy-6-a-complete-hack.json](./353924-final-fantasy-6-a-complete-hack.json) |
 | Final Fantasy Adventure DX | 306591 | [306591-final-fantasy-adventure-dx.json](./306591-final-fantasy-adventure-dx.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
 | Final Fantasy Anthology | 146214 | [146214-final-fantasy-anthology.json](./146214-final-fantasy-anthology.json) |
@@ -4228,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI Reimagined | 339232 | [339232-final-fantasy-vi-reimagined.json](./339232-final-fantasy-vi-reimagined.json) |
 | Final Fantasy VI T-Edition + EX | 186095 | [186095-final-fantasy-vi-t-edition-ex.json](./186095-final-fantasy-vi-t-edition-ex.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
+| Final Fantasy VI: BA Edition | 353931 | [353931-final-fantasy-vi-ba-edition.json](./353931-final-fantasy-vi-ba-edition.json) |
 | Final Fantasy VI: Brave New World | 148455 | [148455-final-fantasy-vi-brave-new-world.json](./148455-final-fantasy-vi-brave-new-world.json) |
 | Final Fantasy VI: Brave New World Final Frontier | 360105 | [360105-final-fantasy-vi-brave-new-world-final-frontier.json](./360105-final-fantasy-vi-brave-new-world-final-frontier.json) |
 | Final Fantasy VI: Divergent Paths | 326643 | [326643-final-fantasy-vi-divergent-paths.json](./326643-final-fantasy-vi-divergent-paths.json) |
@@ -4235,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: Omega-A | 393097 | [393097-final-fantasy-vi-omega-a.json](./393097-final-fantasy-vi-omega-a.json) |
 | Final Fantasy VI: Presentiment Era | 339252 | [339252-final-fantasy-vi-presentiment-era.json](./339252-final-fantasy-vi-presentiment-era.json) |
 | Final Fantasy VI: Revised Old Style Edition | 379343 | [379343-final-fantasy-vi-revised-old-style-edition.json](./379343-final-fantasy-vi-revised-old-style-edition.json) |
+| Final Fantasy VI: SPX Version | 353930 | [353930-final-fantasy-vi-spx-version.json](./353930-final-fantasy-vi-spx-version.json) |
 | Final Fantasy VI: The Eternal Crystals | 309600 | [309600-final-fantasy-vi-the-eternal-crystals.json](./309600-final-fantasy-vi-the-eternal-crystals.json) |
 | Final Fantasy VII | 207026 | [207026-final-fantasy-vii.json](./207026-final-fantasy-vii.json) |
 | Final Fantasy VII | 207028 | [207028-final-fantasy-vii.json](./207028-final-fantasy-vii.json) |
@@ -5941,6 +5945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Wario's 4 | 280770 | [280770-five-nights-at-warios-4.json](./280770-five-nights-at-warios-4.json) |
 | Five Nights in Anime | 47051 | [47051-five-nights-in-anime.json](./47051-five-nights-in-anime.json) |
 | Five Nights In Saransk | 381257 | [381257-five-nights-in-saransk.json](./381257-five-nights-in-saransk.json) |
+| Five Nights in the Pizzeria: New Brand | 354003 | [354003-five-nights-in-the-pizzeria-new-brand.json](./354003-five-nights-in-the-pizzeria-new-brand.json) |
 | Five Nights of Nightmare: Escape Horror Story | 297313 | [297313-five-nights-of-nightmare-escape-horror-story.json](./297313-five-nights-of-nightmare-escape-horror-story.json) |
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
 | Five Nights on the Toilet: Number 2 | 267388 | [267388-five-nights-on-the-toilet-number-2.json](./267388-five-nights-on-the-toilet-number-2.json) |
