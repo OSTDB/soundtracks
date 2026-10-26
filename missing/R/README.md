@@ -4539,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Rover | 73509 | [73509-rescue-rover.json](./73509-rescue-rover.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
+| Rescue Simulator 2014 | 356128 | [356128-rescue-simulator-2014.json](./356128-rescue-simulator-2014.json) |
 | Rescue Squad | 24006 | [24006-rescue-squad.json](./24006-rescue-squad.json) |
 | Rescue Squad Omega | 185387 | [185387-rescue-squad-omega.json](./185387-rescue-squad-omega.json) |
 | Rescue Tale | 126485 | [126485-rescue-tale.json](./126485-rescue-tale.json) |
@@ -9675,6 +9676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Envoy 2 | 63401 | [63401-royal-envoy-2.json](./63401-royal-envoy-2.json) |
 | Royal Envoy 2: Collector's Edition | 201855 | [201855-royal-envoy-2-collectors-edition.json](./201855-royal-envoy-2-collectors-edition.json) |
 | Royal Envoy 3: Collector's Edition | 132804 | [132804-royal-envoy-3-collectors-edition.json](./132804-royal-envoy-3-collectors-edition.json) |
+| Royal Envoy: Campaign for the Crown - Collector's Edition | 356131 | [356131-royal-envoy-campaign-for-the-crown-collectors-edition.json](./356131-royal-envoy-campaign-for-the-crown-collectors-edition.json) |
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
 | Royal Flush | 79182 | [79182-royal-flush.json](./79182-royal-flush.json) |
