@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Haru Kiss | 59738 | [59738-haru-kiss.json](./59738-haru-kiss.json) |
 | Haru no Oto ha Marude Kimi ni Nitete | 323821 | [323821-haru-no-oto-ha-marude-kimi-ni-nitete.json](./323821-haru-no-oto-ha-marude-kimi-ni-nitete.json) |
+| Haru to Kaiya | 362164 | [362164-haru-to-kaiya.json](./362164-haru-to-kaiya.json) |
 | Haru to Shura | 148699 | [148699-haru-to-shura.json](./148699-haru-to-shura.json) |
 | Haru Uso: Passing Memories | 77857 | [77857-haru-uso-passing-memories.json](./77857-haru-uso-passing-memories.json) |
 | Haruiro Communication | 77849 | [77849-haruiro-communication.json](./77849-haruiro-communication.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Fantasy | 404441 | [404441-heart-of-fantasy.json](./404441-heart-of-fantasy.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
+| Heart of Homunculus | 362237 | [362237-heart-of-homunculus.json](./362237-heart-of-homunculus.json) |
 | Heart of Iona | 255239 | [255239-heart-of-iona.json](./255239-heart-of-iona.json) |
 | Heart of Mithras | 156003 | [156003-heart-of-mithras.json](./156003-heart-of-mithras.json) |
 | Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
@@ -8558,6 +8560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
 | Horsey Game | 392467 | [392467-horsey-game.json](./392467-horsey-game.json) |
+| Horsey I | 362166 | [362166-horsey-i.json](./362166-horsey-i.json) |
 | Horsez | 248607 | [248607-horsez.json](./248607-horsez.json) |
 | Horsez | 248608 | [248608-horsez.json](./248608-horsez.json) |
 | Horsez | 5096 | [5096-horsez.json](./5096-horsez.json) |
