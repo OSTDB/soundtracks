@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viaerium | 74331 | [74331-viaerium.json](./74331-viaerium.json) |
 | Viaja Baraja | 241256 | [241256-viaja-baraja.json](./241256-viaja-baraja.json) |
 | Viaje al centro de la Tierra | 138807 | [138807-viaje-al-centro-de-la-tierra.json](./138807-viaje-al-centro-de-la-tierra.json) |
+| Viaje al Centro de la Tierra: Versión Extendida | 380386 | [380386-viaje-al-centro-de-la-tierra-version-extendida.json](./380386-viaje-al-centro-de-la-tierra-version-extendida.json) |
 | Vianiato PopOut | 334757 | [334757-vianiato-popout.json](./334757-vianiato-popout.json) |
 | Viarkanoid | 89373 | [89373-viarkanoid.json](./89373-viarkanoid.json) |
 | Vib-Ribbon | 9676 | [9676-vib-ribbon.json](./9676-vib-ribbon.json) |
