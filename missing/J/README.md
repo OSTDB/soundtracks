@@ -2691,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: The Curse Returns - Winter Resort | 203786 | [203786-jumanji-the-curse-returns-winter-resort.json](./203786-jumanji-the-curse-returns-winter-resort.json) |
 | Jumanji: The VR Adventure | 82350 | [82350-jumanji-the-vr-adventure.json](./82350-jumanji-the-vr-adventure.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
+| Jumba's Lab | 338408 | [338408-jumbas-lab.json](./338408-jumbas-lab.json) |
 | Jumble | 245461 | [245461-jumble.json](./245461-jumble.json) |
 | Jumble Blocks | 58507 | [58507-jumble-blocks.json](./58507-jumble-blocks.json) |
 | Jumble Electronic Word Game | 198786 | [198786-jumble-electronic-word-game.json](./198786-jumble-electronic-word-game.json) |
