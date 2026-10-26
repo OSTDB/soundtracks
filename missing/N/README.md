@@ -3403,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick vs. the Brick of Ick from space | 424657 | [424657-nick-vs-the-brick-of-ick-from-space.json](./424657-nick-vs-the-brick-of-ick-from-space.json) |
 | Nick Wacky Racers 3D | 283381 | [283381-nick-wacky-racers-3d.json](./283381-nick-wacky-racers-3d.json) |
 | Nick's Night Out | 123052 | [123052-nicks-night-out.json](./123052-nicks-night-out.json) |
+| Nick's Not-So-Ultimate Boss Battles | 343169 | [343169-nicks-not-so-ultimate-boss-battles.json](./343169-nicks-not-so-ultimate-boss-battles.json) |
 | Nick's Recursive Videogame About Deciphering Word Puzzles to Discover Your Identity and Redefine the Universe! | 381968 | [381968-nicks-recursive-videogame-about-deciphering-word-puzzles-to-discover-your-identity-and-redefine-the-universe.json](./381968-nicks-recursive-videogame-about-deciphering-word-puzzles-to-discover-your-identity-and-redefine-the-universe.json) |
 | Nick's Text Adventure | 386987 | [386987-nicks-text-adventure.json](./386987-nicks-text-adventure.json) |
 | Nickelback Revenge | 66043 | [66043-nickelback-revenge.json](./66043-nickelback-revenge.json) |
