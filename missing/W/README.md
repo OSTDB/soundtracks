@@ -4823,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander: The Secret Missions 2 - Crusade | 50171 | [50171-wing-commander-the-secret-missions-2-crusade.json](./50171-wing-commander-the-secret-missions-2-crusade.json) |
 | Wing Dog | 269640 | [269640-wing-dog.json](./269640-wing-dog.json) |
 | Wing Fighter | 193955 | [193955-wing-fighter.json](./193955-wing-fighter.json) |
+| Wing Force | 375794 | [375794-wing-force.json](./375794-wing-force.json) |
 | Wing Haven | 310926 | [310926-wing-haven.json](./310926-wing-haven.json) |
 | Wing Island | 5282 | [5282-wing-island.json](./5282-wing-island.json) |
 | Wing Nuts: Battle in the Sky | 61725 | [61725-wing-nuts-battle-in-the-sky.json](./61725-wing-nuts-battle-in-the-sky.json) |
