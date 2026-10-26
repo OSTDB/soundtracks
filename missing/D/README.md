@@ -11427,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Jump | 160115 | [160115-double-jump.json](./160115-double-jump.json) |
 | Double Jump 2 | 151714 | [151714-double-jump-2.json](./151714-double-jump-2.json) |
 | Double Jump NFT | 200450 | [200450-double-jump-nft.json](./200450-double-jump-nft.json) |
+| Double Jump Ringo Run Action Ranking | 362806 | [362806-double-jump-ringo-run-action-ranking.json](./362806-double-jump-ringo-run-action-ranking.json) |
 | Double K Games Store | 411667 | [411667-double-k-games-store.json](./411667-double-k-games-store.json) |
 | Double Kick Heroes | 29511 | [29511-double-kick-heroes.json](./29511-double-kick-heroes.json) |
 | Double Klondike | 91112 | [91112-double-klondike.json](./91112-double-klondike.json) |
