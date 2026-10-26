@@ -7274,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Complete Edition | 268563 | [268563-hole-io-complete-edition.json](./268563-hole-io-complete-edition.json) |
 | Hole io: Construction DLC | 380392 | [380392-hole-io-construction-dlc.json](./380392-hole-io-construction-dlc.json) |
 | Hole io: Construction Edition | 407112 | [407112-hole-io-construction-edition.json](./407112-hole-io-construction-edition.json) |
+| Hole io: Egypt Edition | 366783 | [366783-hole-io-egypt-edition.json](./366783-hole-io-egypt-edition.json) |
 | Hole io: Freak Edition | 275051 | [275051-hole-io-freak-edition.json](./275051-hole-io-freak-edition.json) |
 | Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
 | Hole io: Japan DLC | 378969 | [378969-hole-io-japan-dlc.json](./378969-hole-io-japan-dlc.json) |
