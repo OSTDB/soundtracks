@@ -5789,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
 | Ribbit Rabbit | 198166 | [198166-ribbit-rabbit.json](./198166-ribbit-rabbit.json) |
 | Ribbit Rampage | 305331 | [305331-ribbit-rampage.json](./305331-ribbit-rampage.json) |
+| Ribbit Ranch | 373601 | [373601-ribbit-ranch.json](./373601-ribbit-ranch.json) |
 | Ribbit Rogue | 320841 | [320841-ribbit-rogue.json](./320841-ribbit-rogue.json) |
 | Ribbit Up: Frog Climber | 348989 | [348989-ribbit-up-frog-climber.json](./348989-ribbit-up-frog-climber.json) |
 | Ribbiting Saga | 119366 | [119366-ribbiting-saga.json](./119366-ribbiting-saga.json) |
@@ -6457,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riri: Origin of Surabaya | 293341 | [293341-riri-origin-of-surabaya.json](./293341-riri-origin-of-surabaya.json) |
 | Ririka von Lustveil | 398912 | [398912-ririka-von-lustveil.json](./398912-ririka-von-lustveil.json) |
 | Riruka ha Ikue ni Yoru wo Irodoru | 375368 | [375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json](./375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json) |
+| Riruri Tachibana: Reincarnated | 373575 | [373575-riruri-tachibana-reincarnated.json](./373575-riruri-tachibana-reincarnated.json) |
 | Risa no Yousei Densetsu | 41293 | [41293-risa-no-yousei-densetsu.json](./41293-risa-no-yousei-densetsu.json) |
 | Rise | 142344 | [142344-rise.json](./142344-rise.json) |
 | Rise | 269418 | [269418-rise.json](./269418-rise.json) |
