@@ -9094,6 +9094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut CEO Idle | 387629 | [387629-coconut-ceo-idle.json](./387629-coconut-ceo-idle.json) |
 | Coconut Farm 3D | 300779 | [300779-coconut-farm-3d.json](./300779-coconut-farm-3d.json) |
 | Coconut Simulator | 326453 | [326453-coconut-simulator.json](./326453-coconut-simulator.json) |
+| Coconut Simulator 2 | 374019 | [374019-coconut-simulator-2.json](./374019-coconut-simulator-2.json) |
 | Coconuts | 40622 | [40622-coconuts.json](./40622-coconuts.json) |
 | Coconuts versus Bananas: The Invasion of Carl CocoPalm | 97456 | [97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json](./97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json) |
 | CocoRally Ultimate | 220824 | [220824-cocorally-ultimate.json](./220824-cocorally-ultimate.json) |
@@ -13826,6 +13827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Penguin Wars | 302614 | [302614-crazy-penguin-wars.json](./302614-crazy-penguin-wars.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
 | Crazy Pingoin | 250193 | [250193-crazy-pingoin.json](./250193-crazy-pingoin.json) |
+| Crazy Pipes 3D | 374118 | [374118-crazy-pipes-3d.json](./374118-crazy-pipes-3d.json) |
 | Crazy Pirate | 81872 | [81872-crazy-pirate.json](./81872-crazy-pirate.json) |
 | Crazy Pirate Slots | 232364 | [232364-crazy-pirate-slots.json](./232364-crazy-pirate-slots.json) |
 | Crazy Pitcher | 227255 | [227255-crazy-pitcher.json](./227255-crazy-pitcher.json) |
@@ -15831,6 +15833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubians: Rescue Princess | 81140 | [81140-cubians-rescue-princess.json](./81140-cubians-rescue-princess.json) |
 | Cubic | 68581 | [68581-cubic.json](./68581-cubic.json) |
 | Cubic 2 3 4 Player Games | 331902 | [331902-cubic-2-3-4-player-games.json](./331902-cubic-2-3-4-player-games.json) |
+| Cubic Annihilation | 374113 | [374113-cubic-annihilation.json](./374113-cubic-annihilation.json) |
 | Cubic Blitz | 348984 | [348984-cubic-blitz.json](./348984-cubic-blitz.json) |
 | Cubic Castles | 17727 | [17727-cubic-castles.json](./17727-cubic-castles.json) |
 | Cubic Color Confusion | 416087 | [416087-cubic-color-confusion.json](./416087-cubic-color-confusion.json) |
