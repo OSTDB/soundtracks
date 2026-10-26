@@ -5590,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergarden | 398021 | [398021-evergarden.json](./398021-evergarden.json) |
 | Evergate: Ki's Awakening | 167593 | [167593-evergate-kis-awakening.json](./167593-evergate-kis-awakening.json) |
 | EverGirl | 6399 | [6399-evergirl.json](./6399-evergirl.json) |
+| Everglen | 368993 | [368993-everglen.json](./368993-everglen.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
 | Evergreen | 142995 | [142995-evergreen.json](./142995-evergreen.json) |
 | Evergreen | 59933 | [59933-evergreen.json](./59933-evergreen.json) |
