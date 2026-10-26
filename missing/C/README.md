@@ -6784,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma: Bloom and Blight | 128916 | [128916-chroma-bloom-and-blight.json](./128916-chroma-bloom-and-blight.json) |
 | Chroma+Elektron | 199564 | [199564-chroma-elektron.json](./199564-chroma-elektron.json) |
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
+| Chromadi | 367931 | [367931-chromadi.json](./367931-chromadi.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
 | ChromaFlow | 414393 | [414393-chromaflow.json](./414393-chromaflow.json) |
 | ChromaGun 2: Dye Hard | 305224 | [305224-chromagun-2-dye-hard.json](./305224-chromagun-2-dye-hard.json) |
@@ -16618,6 +16619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
 | Cute Diana | 402493 | [402493-cute-diana.json](./402493-cute-diana.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
+| Cute Fame Highschool Days | 367992 | [367992-cute-fame-highschool-days.json](./367992-cute-fame-highschool-days.json) |
 | Cute Fame: Halloween Bash | 270610 | [270610-cute-fame-halloween-bash.json](./270610-cute-fame-halloween-bash.json) |
 | Cute Fames Adventure | 261214 | [261214-cute-fames-adventure.json](./261214-cute-fames-adventure.json) |
 | Cute Farmer Life | 265498 | [265498-cute-farmer-life.json](./265498-cute-farmer-life.json) |
