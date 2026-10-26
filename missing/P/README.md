@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty Saver | 64248 | [64248-penalty-saver.json](./64248-penalty-saver.json) |
 | Penalty Shoot-Out Soccer: 2010 World Champion | 174233 | [174233-penalty-shoot-out-soccer-2010-world-champion.json](./174233-penalty-shoot-out-soccer-2010-world-champion.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
+| Penalty Shot | 359305 | [359305-penalty-shot.json](./359305-penalty-shot.json) |
 | Penalty Soccer | 73663 | [73663-penalty-soccer.json](./73663-penalty-soccer.json) |
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
 | Penance | 135017 | [135017-penance.json](./135017-penance.json) |
@@ -10294,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony World 2 | 30845 | [30845-pony-world-2.json](./30845-pony-world-2.json) |
 | Pony World: Color by Numbers | 279874 | [279874-pony-world-color-by-numbers.json](./279874-pony-world-color-by-numbers.json) |
 | Pony World: Color by Numbers & Animal Golf: Battle Race Bundle | 289205 | [289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json](./289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json) |
+| Pony's Games Box | 359333 | [359333-ponys-games-box.json](./359333-ponys-games-box.json) |
 | PonyGuessr | 259414 | [259414-ponyguessr.json](./259414-ponyguessr.json) |
 | Poo Dodger | 406875 | [406875-poo-dodger.json](./406875-poo-dodger.json) |
 | Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
@@ -15419,6 +15421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle XL | 87705 | [87705-puzzle-xl.json](./87705-puzzle-xl.json) |
 | Puzzle XP Championship | 209371 | [209371-puzzle-xp-championship.json](./209371-puzzle-xp-championship.json) |
 | Puzzle XP Championship 2 | 209372 | [209372-puzzle-xp-championship-2.json](./209372-puzzle-xp-championship-2.json) |
+| Puzzle-slider Puzzle | 359316 | [359316-puzzle-slider-puzzle.json](./359316-puzzle-slider-puzzle.json) |
 | Puzzle: Birds | 114363 | [114363-puzzle-birds.json](./114363-puzzle-birds.json) |
 | Puzzle: Birds - Puzzle Pack: 10 Birds | 163462 | [163462-puzzle-birds-puzzle-pack-10-birds.json](./163462-puzzle-birds-puzzle-pack-10-birds.json) |
 | Puzzle: Bokura no 48 Jikan Sensou | 225836 | [225836-puzzle-bokura-no-48-jikan-sensou.json](./225836-puzzle-bokura-no-48-jikan-sensou.json) |
