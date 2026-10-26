@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Quiz 4-nin wa Rival | 48496 | [48496-family-quiz-4-nin-wa-rival.json](./48496-family-quiz-4-nin-wa-rival.json) |
 | Family Reunion | 381629 | [381629-family-reunion.json](./381629-family-reunion.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
+| Family Roadshow: Hidden Adventures - Collector's Edition | 378832 | [378832-family-roadshow-hidden-adventures-collectors-edition.json](./378832-family-roadshow-hidden-adventures-collectors-edition.json) |
 | Family Rush | 101992 | [101992-family-rush.json](./101992-family-rush.json) |
 | Family School | 48767 | [48767-family-school.json](./48767-family-school.json) |
 | Family Secret | 75185 | [75185-family-secret.json](./75185-family-secret.json) |
@@ -1542,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic 4 In A Row 2 | 31676 | [31676-fantastic-4-in-a-row-2.json](./31676-fantastic-4-in-a-row-2.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
 | Fantastic 4: Flame On | 49299 | [49299-fantastic-4-flame-on.json](./49299-fantastic-4-flame-on.json) |
+| Fantastic Animal Friends Bundle 3 in 1 | 378833 | [378833-fantastic-animal-friends-bundle-3-in-1.json](./378833-fantastic-animal-friends-bundle-3-in-1.json) |
 | Fantastic Annihilation | 323410 | [323410-fantastic-annihilation.json](./323410-fantastic-annihilation.json) |
 | Fantastic Baseball | 292785 | [292785-fantastic-baseball.json](./292785-fantastic-baseball.json) |
 | Fantastic Checkers | 89798 | [89798-fantastic-checkers.json](./89798-fantastic-checkers.json) |
@@ -1638,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Creature Jigsaws | 292257 | [292257-fantasy-creature-jigsaws.json](./292257-fantasy-creature-jigsaws.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Defenders Bundle: Defend the Rook & Legend of Keepers | 262224 | [262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json](./262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json) |
+| Fantasy Desire: Anime Girls Saga | 378756 | [378756-fantasy-desire-anime-girls-saga.json](./378756-fantasy-desire-anime-girls-saga.json) |
 | Fantasy Dimension - Imagination & Tactics | 59718 | [59718-fantasy-dimension-imagination-and-tactics.json](./59718-fantasy-dimension-imagination-and-tactics.json) |
 | Fantasy Dungeon | 285946 | [285946-fantasy-dungeon.json](./285946-fantasy-dungeon.json) |
 | Fantasy Dungeon VR | 157367 | [157367-fantasy-dungeon-vr.json](./157367-fantasy-dungeon-vr.json) |
@@ -11041,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungus World | 344020 | [344020-fungus-world.json](./344020-fungus-world.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
 | Funi Raccoon Game | 333975 | [333975-funi-raccoon-game.json](./333975-funi-raccoon-game.json) |
+| Funimal: Fusion Animal | 378848 | [378848-funimal-fusion-animal.json](./378848-funimal-fusion-animal.json) |
 | Funk of Titans | 20309 | [20309-funk-of-titans.json](./20309-funk-of-titans.json) |
 | Funk Unplugged | 31623 | [31623-funk-unplugged.json](./31623-funk-unplugged.json) |
 | Funk-E | 364640 | [364640-funk-e.json](./364640-funk-e.json) |
