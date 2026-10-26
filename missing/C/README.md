@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitol Diktatoria | 413908 | [413908-capitol-diktatoria.json](./413908-capitol-diktatoria.json) |
 | Capitol Hill | 94621 | [94621-capitol-hill.json](./94621-capitol-hill.json) |
 | Capoeira Fighter 3 | 93988 | [93988-capoeira-fighter-3.json](./93988-capoeira-fighter-3.json) |
+| Capoeira Origins | 366874 | [366874-capoeira-origins.json](./366874-capoeira-origins.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Capone | 14375 | [14375-capone.json](./14375-capone.json) |
 | Capoo Pals | 393112 | [393112-capoo-pals.json](./393112-capoo-pals.json) |
@@ -10269,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
 | Colourspace | 321459 | [321459-colourspace.json](./321459-colourspace.json) |
 | Colt-55 | 128430 | [128430-colt-55.json](./128430-colt-55.json) |
+| Colton Owen: Ace Attorney | 366872 | [366872-colton-owen-ace-attorney.json](./366872-colton-owen-ace-attorney.json) |
 | Colton Owen: After All's Over | 309993 | [309993-colton-owen-after-alls-over.json](./309993-colton-owen-after-alls-over.json) |
 | Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
 | Columbine | 392878 | [392878-columbine.json](./392878-columbine.json) |
