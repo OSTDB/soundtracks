@@ -5363,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexaluga: Dungeons and Hunting | 101400 | [101400-hexaluga-dungeons-and-hunting.json](./101400-hexaluga-dungeons-and-hunting.json) |
 | Hexaluga: Weapon and Shield | 96475 | [96475-hexaluga-weapon-and-shield.json](./96475-hexaluga-weapon-and-shield.json) |
 | Hexamania | 145441 | [145441-hexamania.json](./145441-hexamania.json) |
+| HexaMania | 364436 | [364436-hexamania.json](./364436-hexamania.json) |
 | HexaMaze | 182814 | [182814-hexamaze.json](./182814-hexamaze.json) |
 | HexaMerge 2048 | 384210 | [384210-hexamerge-2048.json](./384210-hexamerge-2048.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
@@ -8488,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse | 114273 | [114273-horse.json](./114273-horse.json) |
 | Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
 | Horse 2 | 339396 | [339396-horse-2.json](./339396-horse-2.json) |
+| Horse Adventure: Tale of Etria | 364455 | [364455-horse-adventure-tale-of-etria.json](./364455-horse-adventure-tale-of-etria.json) |
 | Horse and Go Seek | 197041 | [197041-horse-and-go-seek.json](./197041-horse-and-go-seek.json) |
 | Horse Blocks - Puzzle Games | 100719 | [100719-horse-blocks-puzzle-games.json](./100719-horse-blocks-puzzle-games.json) |
 | Horse Camp | 209884 | [209884-horse-camp.json](./209884-horse-camp.json) |
