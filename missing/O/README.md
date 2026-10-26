@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsta-Loop | 238477 | [238477-obsta-loop.json](./238477-obsta-loop.json) |
 | Obstacle Challenge | 370991 | [370991-obstacle-challenge.json](./370991-obstacle-challenge.json) |
 | Obstacle Course Car Parking | 238391 | [238391-obstacle-course-car-parking.json](./238391-obstacle-course-car-parking.json) |
+| Obstacle Overdrive | 334612 | [334612-obstacle-overdrive.json](./334612-obstacle-overdrive.json) |
 | Obstacle Race | 359728 | [359728-obstacle-race.json](./359728-obstacle-race.json) |
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
