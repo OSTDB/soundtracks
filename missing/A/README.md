@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
 | Absolute BrickBuster | 76150 | [76150-absolute-brickbuster.json](./76150-absolute-brickbuster.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
+| Absolute Cinema | 383462 | [383462-absolute-cinema.json](./383462-absolute-cinema.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
 | Absolute Despair Collection | 52556 | [52556-absolute-despair-collection.json](./52556-absolute-despair-collection.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
@@ -3051,7 +3052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -6942,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameline and the Ultimate Burger | 51719 | [51719-ameline-and-the-ultimate-burger.json](./51719-ameline-and-the-ultimate-burger.json) |
 | Amelite | 195462 | [195462-amelite.json](./195462-amelite.json) |
 | Amelorn | 379127 | [379127-amelorn.json](./379127-amelorn.json) |
+| Amen 11 11 | 383459 | [383459-amen-11-11.json](./383459-amen-11-11.json) |
 | Amen Jesus Flap | 61442 | [61442-amen-jesus-flap.json](./61442-amen-jesus-flap.json) |
 | Amen: The Quiet Exodus | 406731 | [406731-amen-the-quiet-exodus.json](./406731-amen-the-quiet-exodus.json) |
 | Amendium | 132500 | [132500-amendium.json](./132500-amendium.json) |
@@ -11185,6 +11186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Pandora's Box - Collector's Edition | 357420 | [357420-argonauts-agency-pandoras-box-collectors-edition.json](./357420-argonauts-agency-pandoras-box-collectors-edition.json) |
 | Argonauts Agency: Patterns of Morpheus | 380202 | [380202-argonauts-agency-patterns-of-morpheus.json](./380202-argonauts-agency-patterns-of-morpheus.json) |
 | Argonauts Agency: Secret of the Labyrinth | 418539 | [418539-argonauts-agency-secret-of-the-labyrinth.json](./418539-argonauts-agency-secret-of-the-labyrinth.json) |
+| Argonauts Agency: The Bronze Plague - Collector's Edition | 383416 | [383416-argonauts-agency-the-bronze-plague-collectors-edition.json](./383416-argonauts-agency-the-bronze-plague-collectors-edition.json) |
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
 | Argonauts Agency: Wrath of Olympus | 371127 | [371127-argonauts-agency-wrath-of-olympus.json](./371127-argonauts-agency-wrath-of-olympus.json) |
 | Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
