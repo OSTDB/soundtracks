@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UviUvi | 403634 | [403634-uviuvi.json](./403634-uviuvi.json) |
 | uVolley | 149921 | [149921-uvolley.json](./149921-uvolley.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
+| UvsU: You vs. You | 375250 | [375250-uvsu-you-vs-you.json](./375250-uvsu-you-vs-you.json) |
 | Uwaiteru | 341650 | [341650-uwaiteru.json](./341650-uwaiteru.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
 | Uwasa no Midori-kun!! Futari no Midori!? | 124113 | [124113-uwasa-no-midori-kun-futari-no-midori.json](./124113-uwasa-no-midori-kun-futari-no-midori.json) |
