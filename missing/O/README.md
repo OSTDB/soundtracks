@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
 | Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
 | Obey Your Pirate Queen! | 282655 | [282655-obey-your-pirate-queen.json](./282655-obey-your-pirate-queen.json) |
+| Obgob | 349739 | [349739-obgob.json](./349739-obgob.json) |
 | Obgoose | 183866 | [183866-obgoose.json](./183866-obgoose.json) |
 | Obiemnaia Istoriia | 150413 | [150413-obiemnaia-istoriia.json](./150413-obiemnaia-istoriia.json) |
 | Obilia | 295514 | [295514-obilia.json](./295514-obilia.json) |
