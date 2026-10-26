@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Lane Survival | 86599 | [86599-zombie-lane-survival.json](./86599-zombie-lane-survival.json) |
 | Zombie Legion | 302767 | [302767-zombie-legion.json](./302767-zombie-legion.json) |
 | Zombie Life | 198886 | [198886-zombie-life.json](./198886-zombie-life.json) |
+| Zombie Liminal Fishing | 347049 | [347049-zombie-liminal-fishing.json](./347049-zombie-liminal-fishing.json) |
 | Zombie Lines | 415928 | [415928-zombie-lines.json](./415928-zombie-lines.json) |
 | Zombie Lockdown Simulator | 361112 | [361112-zombie-lockdown-simulator.json](./361112-zombie-lockdown-simulator.json) |
 | Zombie Madness: The Awakening | 408052 | [408052-zombie-madness-the-awakening.json](./408052-zombie-madness-the-awakening.json) |
