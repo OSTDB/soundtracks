@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-25T08:08:05.867Z",
-  "total_soundtracks": 2592,
+  "generated_at": "2026-10-26T06:36:36.749Z",
+  "total_soundtracks": 2593,
   "games": [
     {
       "igdb_id": 7522,
@@ -18590,6 +18590,20 @@
           "album_name": "Night in the Woods (Original Soundtrack, Vol. 2) [Hold onto Anything]",
           "spotify_url": "https://open.spotify.com/album/5M5lsqSuJQ4TbvzOBMyOee",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 45860,
+      "game_name": "Nightmare Creatures II",
+      "game_url": "https://ostdb.net/games/nightmare-creatures-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734d8daa8549df9cde98e6dd96",
+      "albums": [
+        {
+          "album_name": "Nightmare Creatures II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6mWBVQR2YL2v9avUYQAI4y",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
