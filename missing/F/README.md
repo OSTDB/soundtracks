@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer's Dynasty: Potatoes & Beets | 227417 | [227417-farmers-dynasty-potatoes-and-beets.json](./227417-farmers-dynasty-potatoes-and-beets.json) |
 | Farmer's Fairy Tale | 107839 | [107839-farmers-fairy-tale.json](./107839-farmers-fairy-tale.json) |
 | Farmer's Father: Save the Innocence | 211660 | [211660-farmers-father-save-the-innocence.json](./211660-farmers-father-save-the-innocence.json) |
+| Farmer's Loop | 335203 | [335203-farmers-loop.json](./335203-farmers-loop.json) |
 | Farmer’s Market Simulator | 348393 | [348393-farmer-s-market-simulator.json](./348393-farmer-s-market-simulator.json) |
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
 | Farmers 2050 | 249667 | [249667-farmers-2050.json](./249667-farmers-2050.json) |
@@ -3828,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Knight | 41814 | [41814-fight-knight.json](./41814-fight-knight.json) |
 | Fight League | 55822 | [55822-fight-league.json](./55822-fight-league.json) |
 | Fight Legends | 316068 | [316068-fight-legends.json](./316068-fight-legends.json) |
+| Fight Legends: Mortal Fighting | 335187 | [335187-fight-legends-mortal-fighting.json](./335187-fight-legends-mortal-fighting.json) |
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight Like a Chicken | 386244 | [386244-fight-like-a-chicken.json](./386244-fight-like-a-chicken.json) |
 | Fight List - Categories Game | 87038 | [87038-fight-list-categories-game.json](./87038-fight-list-categories-game.json) |
@@ -7454,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
 | Foghorns Drown | 382273 | [382273-foghorns-drown.json](./382273-foghorns-drown.json) |
 | Fogline Protocol | 397277 | [397277-fogline-protocol.json](./397277-fogline-protocol.json) |
+| Fogreaver | 335211 | [335211-fogreaver.json](./335211-fogreaver.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
 | Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
@@ -9952,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friction 90's Arcade Race | 223085 | [223085-friction-90s-arcade-race.json](./223085-friction-90s-arcade-race.json) |
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
 | Friday | 248026 | [248026-friday.json](./248026-friday.json) |
+| Friday at Ours | 335222 | [335222-friday-at-ours.json](./335222-friday-at-ours.json) |
 | Friday Night | 347861 | [347861-friday-night.json](./347861-friday-night.json) |
 | Friday Night 3D Bowling | 209570 | [209570-friday-night-3d-bowling.json](./209570-friday-night-3d-bowling.json) |
 | Friday Night 3D Darts | 74061 | [74061-friday-night-3d-darts.json](./74061-friday-night-3d-darts.json) |
