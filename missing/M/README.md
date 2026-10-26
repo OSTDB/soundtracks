@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia World: Bloody War | 214057 | [214057-mafia-world-bloody-war.json](./214057-mafia-world-bloody-war.json) |
 | Mafia: Family's Secret | 186693 | [186693-mafia-familys-secret.json](./186693-mafia-familys-secret.json) |
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
+| Mafia: The Old Country - Gatto Nero Pack | 360468 | [360468-mafia-the-old-country-gatto-nero-pack.json](./360468-mafia-the-old-country-gatto-nero-pack.json) |
 | Mafia: The Old Country - Man of Honor | 404700 | [404700-mafia-the-old-country-man-of-honor.json](./404700-mafia-the-old-country-man-of-honor.json) |
 | Mafia: The Old Country - Padrino Pack | 404699 | [404699-mafia-the-old-country-padrino-pack.json](./404699-mafia-the-old-country-padrino-pack.json) |
 | Mafia: The Old Country - Soldato Pack | 413630 | [413630-mafia-the-old-country-soldato-pack.json](./413630-mafia-the-old-country-soldato-pack.json) |
@@ -2568,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
 | Manhunt 2 | 1972 | [1972-manhunt-2.json](./1972-manhunt-2.json) |
 | Manhunter | 17415 | [17415-manhunter.json](./17415-manhunter.json) |
+| Manhunter | 360618 | [360618-manhunter.json](./360618-manhunter.json) |
 | Manhunter: New York | 7696 | [7696-manhunter-new-york.json](./7696-manhunter-new-york.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
@@ -5875,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medicevil | 279121 | [279121-medicevil.json](./279121-medicevil.json) |
 | Medicinal Cuisine Master | 358480 | [358480-medicinal-cuisine-master.json](./358480-medicinal-cuisine-master.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
+| Medicus | 360465 | [360465-medicus.json](./360465-medicus.json) |
 | Medieval 2 | 95476 | [95476-medieval-2.json](./95476-medieval-2.json) |
 | Medieval Adventure | 366264 | [366264-medieval-adventure.json](./366264-medieval-adventure.json) |
 | Medieval and Secrets | 232439 | [232439-medieval-and-secrets.json](./232439-medieval-and-secrets.json) |
@@ -7259,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memology 2: Old Times | 360484 | [360484-memology-2-old-times.json](./360484-memology-2-old-times.json) |
 | Memology: Escape of Memes | 371200 | [371200-memology-escape-of-memes.json](./371200-memology-escape-of-memes.json) |
 | Memology: Goyda | 372583 | [372583-memology-goyda.json](./372583-memology-goyda.json) |
+| Memology: Italian Brainrot | 360483 | [360483-memology-italian-brainrot.json](./360483-memology-italian-brainrot.json) |
 | Memopoly | 106905 | [106905-memopoly.json](./106905-memopoly.json) |
 | Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
