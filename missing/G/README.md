@@ -4483,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnyaz | 366977 | [366977-gnyaz.json](./366977-gnyaz.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go | 218000 | [218000-go.json](./218000-go.json) |
+| Go | 379916 | [379916-go.json](./379916-go.json) |
 | Go 3D | 68624 | [68624-go-3d.json](./68624-go-3d.json) |
 | Go Ace It | 192198 | [192198-go-ace-it.json](./192198-go-ace-it.json) |
 | Go All Out: Free to Play | 130190 | [130190-go-all-out-free-to-play.json](./130190-go-all-out-free-to-play.json) |
