@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctum: Cavern | 10810 | [10810-sanctum-cavern.json](./10810-sanctum-cavern.json) |
 | Sanctum: Map Pack 1 | 26274 | [26274-sanctum-map-pack-1.json](./26274-sanctum-map-pack-1.json) |
 | Sanctum: Map Pack 2 | 225076 | [225076-sanctum-map-pack-2.json](./225076-sanctum-map-pack-2.json) |
+| Sanctum: Yogscave | 376518 | [376518-sanctum-yogscave.json](./376518-sanctum-yogscave.json) |
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
 | Sand and Rust | 124582 | [124582-sand-and-rust.json](./124582-sand-and-rust.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! Unmasked | 228909 | [228909-scooby-doo-unmasked.json](./228909-scooby-doo-unmasked.json) |
 | Scooby-Doo! Unmasked | 2854 | [2854-scooby-doo-unmasked.json](./2854-scooby-doo-unmasked.json) |
 | Scooby-Doo!: Big Air | 222811 | [222811-scooby-doo-big-air.json](./222811-scooby-doo-big-air.json) |
+| Scooby-Doo!: Castle Capers | 376522 | [376522-scooby-doo-castle-capers.json](./376522-scooby-doo-castle-capers.json) |
 | Scooby-Doo!: Catch Shaggy | 245412 | [245412-scooby-doo-catch-shaggy.json](./245412-scooby-doo-catch-shaggy.json) |
 | Scooby-Doo!: Creepy Run | 401284 | [401284-scooby-doo-creepy-run.json](./401284-scooby-doo-creepy-run.json) |
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
@@ -8345,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Effect | 190488 | [190488-side-effect.json](./190488-side-effect.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
 | Side Effects | 364621 | [364621-side-effects.json](./364621-side-effects.json) |
+| Side Hustle | 376488 | [376488-side-hustle.json](./376488-side-hustle.json) |
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
 | Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
 | Side Pocket | 172699 | [172699-side-pocket.json](./172699-side-pocket.json) |
@@ -20702,6 +20705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starforge | 295305 | [295305-starforge.json](./295305-starforge.json) |
 | Starfox | 54519 | [54519-starfox.json](./54519-starfox.json) |
 | Starfox 64: Recompiled | 387287 | [387287-starfox-64-recompiled.json](./387287-starfox-64-recompiled.json) |
+| StarFox: Game&Watch | 376430 | [376430-starfox-game-and-watch.json](./376430-starfox-game-and-watch.json) |
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
