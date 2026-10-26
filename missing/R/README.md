@@ -9374,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rot In Hell | 278374 | [278374-rot-in-hell.json](./278374-rot-in-hell.json) |
 | Rot in Paradise | 318124 | [318124-rot-in-paradise.json](./318124-rot-in-paradise.json) |
 | Rot Splatation | 409809 | [409809-rot-splatation.json](./409809-rot-splatation.json) |
+| Rot Together | 361024 | [361024-rot-together.json](./361024-rot-together.json) |
 | Rot: Purgatory Hill | 182811 | [182811-rot-purgatory-hill.json](./182811-rot-purgatory-hill.json) |
 | Rota | 291026 | [291026-rota.json](./291026-rota.json) |
 | Rota: Bend Gravity | 201487 | [201487-rota-bend-gravity.json](./201487-rota-bend-gravity.json) |
