@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pesticide | 224971 | [224971-pesticide.json](./224971-pesticide.json) |
 | Pesticide Not Required | 257978 | [257978-pesticide-not-required.json](./257978-pesticide-not-required.json) |
 | Pestilence | 272272 | [272272-pestilence.json](./272272-pestilence.json) |
+| Pestilence | 334622 | [334622-pestilence.json](./334622-pestilence.json) |
 | Pestilent Hunters | 201563 | [201563-pestilent-hunters.json](./201563-pestilent-hunters.json) |
 | Pestis | 97921 | [97921-pestis.json](./97921-pestis.json) |
 | Pet | 240170 | [240170-pet.json](./240170-pet.json) |
@@ -6694,23 +6695,38 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack | 355518 | [355518-pixel-cross-stitch-color-by-number-enchanted-worlds-pack.json](./355518-pixel-cross-stitch-color-by-number-enchanted-worlds-pack.json) |
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 2 | 359877 | [359877-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-2.json](./359877-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 3 | 377607 | [377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json](./377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Flags Pack | 334580 | [334580-pixel-cross-stitch-color-by-number-flags-pack.json](./334580-pixel-cross-stitch-color-by-number-flags-pack.json) |
+| Pixel Cross Stitch: Color by Number - Flowers and Butterflies Pack 2 | 334581 | [334581-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-2.json](./334581-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Flowers and Butterflies Pack 3 | 359878 | [359878-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-3.json](./359878-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Minis Pack | 377609 | [377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json](./377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Pack 2 | 377608 | [377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json](./377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Landscapes Pack 2 | 334582 | [334582-pixel-cross-stitch-color-by-number-landscapes-pack-2.json](./334582-pixel-cross-stitch-color-by-number-landscapes-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Landscapes Pack 3 | 334583 | [334583-pixel-cross-stitch-color-by-number-landscapes-pack-3.json](./334583-pixel-cross-stitch-color-by-number-landscapes-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Menacing Monsters Pack | 334584 | [334584-pixel-cross-stitch-color-by-number-menacing-monsters-pack.json](./334584-pixel-cross-stitch-color-by-number-menacing-monsters-pack.json) |
 | Pixel Cross Stitch: Color by Number - Menacing Monsters Pack 3 | 359876 | [359876-pixel-cross-stitch-color-by-number-menacing-monsters-pack-3.json](./359876-pixel-cross-stitch-color-by-number-menacing-monsters-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Mythical Monsters Pack | 339712 | [339712-pixel-cross-stitch-color-by-number-mythical-monsters-pack.json](./339712-pixel-cross-stitch-color-by-number-mythical-monsters-pack.json) |
 | Pixel Cross Stitch: Color by Number - Mythical Monsters Pack 2 | 339714 | [339714-pixel-cross-stitch-color-by-number-mythical-monsters-pack-2.json](./339714-pixel-cross-stitch-color-by-number-mythical-monsters-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Simple Nature Pack | 383179 | [383179-pixel-cross-stitch-color-by-number-simple-nature-pack.json](./383179-pixel-cross-stitch-color-by-number-simple-nature-pack.json) |
 | Pixel Cross Stitch: Color by Number - Simple Nature Pack 2 | 374127 | [374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json](./374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Simple Patterns Pack 3 | 334586 | [334586-pixel-cross-stitch-color-by-number-simple-patterns-pack-3.json](./334586-pixel-cross-stitch-color-by-number-simple-patterns-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Simple Patterns Pack 4 | 334587 | [334587-pixel-cross-stitch-color-by-number-simple-patterns-pack-4.json](./334587-pixel-cross-stitch-color-by-number-simple-patterns-pack-4.json) |
 | Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5 | 374128 | [374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json](./374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json) |
+| Pixel Cross Stitch: Color by Number - Spring Pack | 334588 | [334588-pixel-cross-stitch-color-by-number-spring-pack.json](./334588-pixel-cross-stitch-color-by-number-spring-pack.json) |
 | Pixel Cross Stitch: Color by Number - Spring Pack 3 | 339715 | [339715-pixel-cross-stitch-color-by-number-spring-pack-3.json](./339715-pixel-cross-stitch-color-by-number-spring-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Summer Pack 3 | 361077 | [361077-pixel-cross-stitch-color-by-number-summer-pack-3.json](./361077-pixel-cross-stitch-color-by-number-summer-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack | 374126 | [374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json](./374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Under The Sea Pack 2 | 334592 | [334592-pixel-cross-stitch-color-by-number-under-the-sea-pack-2.json](./334592-pixel-cross-stitch-color-by-number-under-the-sea-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Under The Sea Pack 3 | 334593 | [334593-pixel-cross-stitch-color-by-number-under-the-sea-pack-3.json](./334593-pixel-cross-stitch-color-by-number-under-the-sea-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Vacations Pack | 361226 | [361226-pixel-cross-stitch-color-by-number-vacations-pack.json](./361226-pixel-cross-stitch-color-by-number-vacations-pack.json) |
 | Pixel Cross Stitch: Color by Number - Valentine's Day Pack | 334564 | [334564-pixel-cross-stitch-color-by-number-valentines-day-pack.json](./334564-pixel-cross-stitch-color-by-number-valentines-day-pack.json) |
 | Pixel Cross Stitch: Color by Number - Valentine's Day Pack 2 | 334565 | [334565-pixel-cross-stitch-color-by-number-valentines-day-pack-2.json](./334565-pixel-cross-stitch-color-by-number-valentines-day-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Women At Work Pack | 383178 | [383178-pixel-cross-stitch-color-by-number-women-at-work-pack.json](./383178-pixel-cross-stitch-color-by-number-women-at-work-pack.json) |
+| Pixel Cross Stitch: Fantasy Medieval Pack 2 | 334579 | [334579-pixel-cross-stitch-fantasy-medieval-pack-2.json](./334579-pixel-cross-stitch-fantasy-medieval-pack-2.json) |
+| Pixel Cross Stitch: Menacing Monsters Pack 2 | 334585 | [334585-pixel-cross-stitch-menacing-monsters-pack-2.json](./334585-pixel-cross-stitch-menacing-monsters-pack-2.json) |
+| Pixel Cross Stitch: Spring Pack 2 | 334589 | [334589-pixel-cross-stitch-spring-pack-2.json](./334589-pixel-cross-stitch-spring-pack-2.json) |
+| Pixel Cross Stitch: Tribal Craze Pack 2 | 334590 | [334590-pixel-cross-stitch-tribal-craze-pack-2.json](./334590-pixel-cross-stitch-tribal-craze-pack-2.json) |
+| Pixel Cross Stitch: Tribal Craze Pack 3 | 334591 | [334591-pixel-cross-stitch-tribal-craze-pack-3.json](./334591-pixel-cross-stitch-tribal-craze-pack-3.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Cup Soccer 17 | 32354 | [32354-pixel-cup-soccer-17.json](./32354-pixel-cup-soccer-17.json) |
 | Pixel Cup Soccer: Ultimate Edition | 158544 | [158544-pixel-cup-soccer-ultimate-edition.json](./158544-pixel-cup-soccer-ultimate-edition.json) |
@@ -8166,6 +8182,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play to Cure: Genes in Space | 133711 | [133711-play-to-cure-genes-in-space.json](./133711-play-to-cure-genes-in-space.json) |
 | Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
 | Play Together | 145357 | [145357-play-together.json](./145357-play-together.json) |
+| Play Together: Hunter Cash's Hidden Safe | 334615 | [334615-play-together-hunter-cashs-hidden-safe.json](./334615-play-together-hunter-cashs-hidden-safe.json) |
+| Play Together: Starter Pack - Bear Boy | 334616 | [334616-play-together-starter-pack-bear-boy.json](./334616-play-together-starter-pack-bear-boy.json) |
+| Play Together: Starter Pack - Bear Girl | 334618 | [334618-play-together-starter-pack-bear-girl.json](./334618-play-together-starter-pack-bear-girl.json) |
+| Play Together: Starter Pack - Chic Black | 334617 | [334617-play-together-starter-pack-chic-black.json](./334617-play-together-starter-pack-chic-black.json) |
+| Play Together: Starter Pack - Chic White | 334619 | [334619-play-together-starter-pack-chic-white.json](./334619-play-together-starter-pack-chic-white.json) |
 | Play with Balloon | 29624 | [29624-play-with-balloon.json](./29624-play-with-balloon.json) |
 | Play with Birds | 84721 | [84721-play-with-birds.json](./84721-play-with-birds.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
