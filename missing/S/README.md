@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally Face | 26580 | [26580-sally-face.json](./26580-sally-face.json) |
 | Sally Face 2 | 413934 | [413934-sally-face-2.json](./413934-sally-face-2.json) |
 | Sally.EXE: Discovery | 317358 | [317358-sally-exe-discovery.json](./317358-sally-exe-discovery.json) |
+| Sally.Exe: The Whisper of Soul | 360031 | [360031-sally-exe-the-whisper-of-soul.json](./360031-sally-exe-the-whisper-of-soul.json) |
 | Sally's Salon | 24328 | [24328-sallys-salon.json](./24328-sallys-salon.json) |
 | Sally's Salon | 315369 | [315369-sallys-salon.json](./315369-sallys-salon.json) |
 | Sally's Salon: Kiss & Make-Up | 103439 | [103439-sallys-salon-kiss-and-make-up.json](./103439-sallys-salon-kiss-and-make-up.json) |
@@ -2393,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
 | Scene it? The Simpsons: Deluxe Edition | 23789 | [23789-scene-it-the-simpsons-deluxe-edition.json](./23789-scene-it-the-simpsons-deluxe-edition.json) |
 | Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
+| Scene It?: The DVD Movie Game | 359901 | [359901-scene-it-the-dvd-movie-game.json](./359901-scene-it-the-dvd-movie-game.json) |
 | Scene of the Crime | 328661 | [328661-scene-of-the-crime.json](./328661-scene-of-the-crime.json) |
 | Scenery Collection: Set B | 85978 | [85978-scenery-collection-set-b.json](./85978-scenery-collection-set-b.json) |
 | Scenery Disk 1 | 100076 | [100076-scenery-disk-1.json](./100076-scenery-disk-1.json) |
@@ -2629,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sclash: Pixels | 276417 | [276417-sclash-pixels.json](./276417-sclash-pixels.json) |
 | Sclash: Sakura | 309999 | [309999-sclash-sakura.json](./309999-sclash-sakura.json) |
 | Sclera | 267256 | [267256-sclera.json](./267256-sclera.json) |
+| Sclerosis | 360030 | [360030-sclerosis.json](./360030-sclerosis.json) |
 | Scoober Splat! | 151165 | [151165-scoober-splat.json](./151165-scoober-splat.json) |
 | Scooby Doc 4: The Destroyer | 356757 | [356757-scooby-doc-4-the-destroyer.json](./356757-scooby-doc-4-the-destroyer.json) |
 | Scooby Doo 2: Monsters Unleashed | 49184 | [49184-scooby-doo-2-monsters-unleashed.json](./49184-scooby-doo-2-monsters-unleashed.json) |
@@ -3163,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpt People: Moulding Stars | 289189 | [289189-sculpt-people-moulding-stars.json](./289189-sculpt-people-moulding-stars.json) |
 | Sculptor | 122286 | [122286-sculptor.json](./122286-sculptor.json) |
 | Sculptor | 374775 | [374775-sculptor.json](./374775-sculptor.json) |
+| SculptrVR | 359909 | [359909-sculptrvr.json](./359909-sculptrvr.json) |
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
 | Scum | 31712 | [31712-scum.json](./31712-scum.json) |
@@ -4846,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam 3: BFE Gold Edition | 53586 | [53586-serious-sam-3-bfe-gold-edition.json](./53586-serious-sam-3-bfe-gold-edition.json) |
 | Serious Sam 3: Jewel of the Nile | 10817 | [10817-serious-sam-3-jewel-of-the-nile.json](./10817-serious-sam-3-jewel-of-the-nile.json) |
 | Serious Sam 4: Deluxe Edition | 154536 | [154536-serious-sam-4-deluxe-edition.json](./154536-serious-sam-4-deluxe-edition.json) |
+| Serious Sam 4: Reborn | 359910 | [359910-serious-sam-4-reborn.json](./359910-serious-sam-4-reborn.json) |
 | Serious Sam Advance | 6587 | [6587-serious-sam-advance.json](./6587-serious-sam-advance.json) |
 | Serious Sam Alpha Remake | 356399 | [356399-serious-sam-alpha-remake.json](./356399-serious-sam-alpha-remake.json) |
 | Serious Sam Collection | 141060 | [141060-serious-sam-collection.json](./141060-serious-sam-collection.json) |
@@ -4869,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: The Random Encounter | 10819 | [10819-serious-sam-the-random-encounter.json](./10819-serious-sam-the-random-encounter.json) |
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
+| Serious Sam: Winter Wonderland | 359886 | [359886-serious-sam-winter-wonderland.json](./359886-serious-sam-winter-wonderland.json) |
 | Serious Scramblers | 112077 | [112077-serious-scramblers.json](./112077-serious-scramblers.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
@@ -5646,6 +5652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow President | 73470 | [73470-shadow-president.json](./73470-shadow-president.json) |
 | Shadow Pride | 227367 | [227367-shadow-pride.json](./227367-shadow-pride.json) |
 | Shadow Princess: Crystalbound | 422489 | [422489-shadow-princess-crystalbound.json](./422489-shadow-princess-crystalbound.json) |
+| Shadow Project | 359892 | [359892-shadow-project.json](./359892-shadow-project.json) |
 | Shadow Protocol | 351750 | [351750-shadow-protocol.json](./351750-shadow-protocol.json) |
 | Shadow Pulse | 273793 | [273793-shadow-pulse.json](./273793-shadow-pulse.json) |
 | Shadow Puppet | 336687 | [336687-shadow-puppet.json](./336687-shadow-puppet.json) |
@@ -17328,6 +17335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrewoods | 154987 | [154987-spectrewoods.json](./154987-spectrewoods.json) |
 | Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
+| Spectrobes GBA | 360025 | [360025-spectrobes-gba.json](./360025-spectrobes-gba.json) |
 | Spectrobes: Beyond the Portals | 5175 | [5175-spectrobes-beyond-the-portals.json](./5175-spectrobes-beyond-the-portals.json) |
 | Spectrobes: Origins | 5173 | [5173-spectrobes-origins.json](./5173-spectrobes-origins.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
@@ -19364,6 +19372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarely | 364574 | [364574-squarely.json](./364574-squarely.json) |
 | SquareMan-Boy | 190939 | [190939-squareman-boy.json](./190939-squareman-boy.json) |
 | Squarena | 191829 | [191829-squarena.json](./191829-squarena.json) |
+| Squarenose Jump | 359907 | [359907-squarenose-jump.json](./359907-squarenose-jump.json) |
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
 | Squares | 131454 | [131454-squares.json](./131454-squares.json) |
