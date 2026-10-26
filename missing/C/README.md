@@ -13036,6 +13036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Football | 180535 | [180535-cowboy-football.json](./180535-cowboy-football.json) |
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
+| Cowboy in Space | 345382 | [345382-cowboy-in-space.json](./345382-cowboy-in-space.json) |
 | Cowboy Kid | 48142 | [48142-cowboy-kid.json](./48142-cowboy-kid.json) |
 | Cowboy Kidz | 13527 | [13527-cowboy-kidz.json](./13527-cowboy-kidz.json) |
 | Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
@@ -14348,6 +14349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City - Jupiter Character Pack | 334549 | [334549-crime-boss-rockay-city-jupiter-character-pack.json](./334549-crime-boss-rockay-city-jupiter-character-pack.json) |
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
 | Crime Busters | 48320 | [48320-crime-busters.json](./48320-crime-busters.json) |
+| Crime Busters II: Havoc | 345714 | [345714-crime-busters-ii-havoc.json](./345714-crime-busters-ii-havoc.json) |
 | Crime Busters: Strike Area | 242590 | [242590-crime-busters-strike-area.json](./242590-crime-busters-strike-area.json) |
 | Crime Car Driving Simulator | 68531 | [68531-crime-car-driving-simulator.json](./68531-crime-car-driving-simulator.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
