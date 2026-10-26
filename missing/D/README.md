@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Train | 208435 | [208435-dead-train.json](./208435-dead-train.json) |
 | Dead Transmission | 190033 | [190033-dead-transmission.json](./190033-dead-transmission.json) |
 | Dead Trash: Operation - Yellow Snow | 380557 | [380557-dead-trash-operation-yellow-snow.json](./380557-dead-trash-operation-yellow-snow.json) |
+| Dead Tree Defender | 382170 | [382170-dead-tree-defender.json](./382170-dead-tree-defender.json) |
 | Dead Trigger | 36747 | [36747-dead-trigger.json](./36747-dead-trigger.json) |
 | Dead Trigger 2 | 36748 | [36748-dead-trigger-2.json](./36748-dead-trigger-2.json) |
 | Dead Trip: Hope | 236758 | [236758-dead-trip-hope.json](./236758-dead-trip-hope.json) |
@@ -15999,3 +16000,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
+| Dzyun Battle 2026 | 382255 | [382255-dzyun-battle-2026.json](./382255-dzyun-battle-2026.json) |
