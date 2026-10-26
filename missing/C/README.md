@@ -3137,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Dog Adventure | 95564 | [95564-cat-and-dog-adventure.json](./95564-cat-and-dog-adventure.json) |
 | Cat and Dog Salon: Joyful Pets | 87166 | [87166-cat-and-dog-salon-joyful-pets.json](./87166-cat-and-dog-salon-joyful-pets.json) |
 | Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
+| Cat and Isle of Stars | 375203 | [375203-cat-and-isle-of-stars.json](./375203-cat-and-isle-of-stars.json) |
 | Cat And Life | 301620 | [301620-cat-and-life.json](./301620-cat-and-life.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
 | Cat and Watermouse | 216689 | [216689-cat-and-watermouse.json](./216689-cat-and-watermouse.json) |
