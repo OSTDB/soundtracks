@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsessive Love Adventure Utsuro's Diary | 151680 | [151680-obsessive-love-adventure-utsuros-diary.json](./151680-obsessive-love-adventure-utsuros-diary.json) |
 | Obsideo | 163148 | [163148-obsideo.json](./163148-obsideo.json) |
 | Obsidian | 141705 | [141705-obsidian.json](./141705-obsidian.json) |
+| Obsidian Catalyst | 342924 | [342924-obsidian-catalyst.json](./342924-obsidian-catalyst.json) |
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
 | Obsidian Moon | 357005 | [357005-obsidian-moon.json](./357005-obsidian-moon.json) |
@@ -2593,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Tung Tung Sahur Up | 349425 | [349425-only-tung-tung-sahur-up.json](./349425-only-tung-tung-sahur-up.json) |
 | Only Up 2 | 272735 | [272735-only-up-2.json](./272735-only-up-2.json) |
 | Only Up 2025 | 367590 | [367590-only-up-2025.json](./367590-only-up-2025.json) |
+| Only Up 3 | 342914 | [342914-only-up-3.json](./342914-only-up-3.json) |
 | Only Up 64 | 259981 | [259981-only-up-64.json](./259981-only-up-64.json) |
 | Only Up Rush | 312845 | [312845-only-up-rush.json](./312845-only-up-rush.json) |
 | Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
