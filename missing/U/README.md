@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Castle | 275663 | [275663-under-the-castle.json](./275663-under-the-castle.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
 | Under the Counter | 149686 | [149686-under-the-counter.json](./149686-under-the-counter.json) |
+| Under the Disco Lights: 80's Bar Simulator | 348678 | [348678-under-the-disco-lights-80s-bar-simulator.json](./348678-under-the-disco-lights-80s-bar-simulator.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under the Garden | 80362 | [80362-under-the-garden.json](./80362-under-the-garden.json) |
 | Under the Ghost Mountain | 156975 | [156975-under-the-ghost-mountain.json](./156975-under-the-ghost-mountain.json) |
