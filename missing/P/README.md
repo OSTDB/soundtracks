@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandaman | 201461 | [201461-pandaman.json](./201461-pandaman.json) |
 | Pandamino | 294548 | [294548-pandamino.json](./294548-pandamino.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
+| Pandamonium Puzzle | 381571 | [381571-pandamonium-puzzle.json](./381571-pandamonium-puzzle.json) |
 | PandaMonium: Corporate Carnage | 186131 | [186131-pandamonium-corporate-carnage.json](./186131-pandamonium-corporate-carnage.json) |
 | Pandanda | 189377 | [189377-pandanda.json](./189377-pandanda.json) |
 | Pandara | 123929 | [123929-pandara.json](./123929-pandara.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Pocket Edition | 321602 | [321602-persona-5-pocket-edition.json](./321602-persona-5-pocket-edition.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
 | Persona 5 Royal: Battle Bundle | 405356 | [405356-persona-5-royal-battle-bundle.json](./405356-persona-5-royal-battle-bundle.json) |
+| Persona 5 Royal: Kasumi as Protagonist | 381650 | [381650-persona-5-royal-kasumi-as-protagonist.json](./381650-persona-5-royal-kasumi-as-protagonist.json) |
 | Persona 5 Royal: Kasumi Costume Bundle | 405357 | [405357-persona-5-royal-kasumi-costume-bundle.json](./405357-persona-5-royal-kasumi-costume-bundle.json) |
 | Persona 5 Royal: Launch Edition | 134222 | [134222-persona-5-royal-launch-edition.json](./134222-persona-5-royal-launch-edition.json) |
 | Persona 5 Royal: P5D Costume & BGM Set | 405345 | [405345-persona-5-royal-p5d-costume-and-bgm-set.json](./405345-persona-5-royal-p5d-costume-and-bgm-set.json) |
@@ -4474,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Train | 164231 | [164231-phantom-train.json](./164231-phantom-train.json) |
 | Phantom Trigger | 27714 | [27714-phantom-trigger.json](./27714-phantom-trigger.json) |
 | Phantom Unit 999 | 280153 | [280153-phantom-unit-999.json](./280153-phantom-unit-999.json) |
+| Phantom Void | 381661 | [381661-phantom-void.json](./381661-phantom-void.json) |
 | Phantom Vortex VR | 278389 | [278389-phantom-vortex-vr.json](./278389-phantom-vortex-vr.json) |
 | Phantom Watcher | 301698 | [301698-phantom-watcher.json](./301698-phantom-watcher.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
@@ -6297,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Raid: Caribbean Battle | 188399 | [188399-pirate-raid-caribbean-battle.json](./188399-pirate-raid-caribbean-battle.json) |
 | Pirate Royalty | 345583 | [345583-pirate-royalty.json](./345583-pirate-royalty.json) |
 | Pirate Runner | 253881 | [253881-pirate-runner.json](./253881-pirate-runner.json) |
+| Pirate Sagas: The Golden Age | 381592 | [381592-pirate-sagas-the-golden-age.json](./381592-pirate-sagas-the-golden-age.json) |
 | Pirate Ship | 231924 | [231924-pirate-ship.json](./231924-pirate-ship.json) |
 | Pirate Ship Higemaru | 40092 | [40092-pirate-ship-higemaru.json](./40092-pirate-ship-higemaru.json) |
 | Pirate Ships | 395154 | [395154-pirate-ships.json](./395154-pirate-ships.json) |
@@ -13401,6 +13405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
 | Project Threshold | 404201 | [404201-project-threshold.json](./404201-project-threshold.json) |
 | Project Tilt | 61532 | [61532-project-tilt.json](./61532-project-tilt.json) |
+| Project Timbre | 381574 | [381574-project-timbre.json](./381574-project-timbre.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
 | Project to Escape | 146082 | [146082-project-to-escape.json](./146082-project-to-escape.json) |
 | Project Tokyo Dolls | 76143 | [76143-project-tokyo-dolls.json](./76143-project-tokyo-dolls.json) |
