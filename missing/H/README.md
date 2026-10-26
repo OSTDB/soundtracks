@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Game: Collector's Edition | 186518 | [186518-happy-game-collectors-edition.json](./186518-happy-game-collectors-edition.json) |
 | Happy Game/Pilgrims | 267959 | [267959-happy-game-pilgrims.json](./267959-happy-game-pilgrims.json) |
 | Happy Geography Fun | 129652 | [129652-happy-geography-fun.json](./129652-happy-geography-fun.json) |
+| Happy Gilmore Golf Mayhem ‘98 Demo | 357281 | [357281-happy-gilmore-golf-mayhem-98-demo.json](./357281-happy-gilmore-golf-mayhem-98-demo.json) |
 | Happy Girls | 338263 | [338263-happy-girls.json](./338263-happy-girls.json) |
 | Happy Glass | 108236 | [108236-happy-glass.json](./108236-happy-glass.json) |
 | Happy Grumps | 121000 | [121000-happy-grumps.json](./121000-happy-grumps.json) |
@@ -3650,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello | 340539 | [340539-hello.json](./340539-hello.json) |
 | Hello Again | 207361 | [207361-hello-again.json](./207361-hello-again.json) |
 | Hello Again | 83400 | [83400-hello-again.json](./83400-hello-again.json) |
+| Hello Anxiety | 357276 | [357276-hello-anxiety.json](./357276-hello-anxiety.json) |
 | Hello Baby! | 47898 | [47898-hello-baby.json](./47898-hello-baby.json) |
 | Hello Bendy Machine 5 Nights | 104126 | [104126-hello-bendy-machine-5-nights.json](./104126-hello-bendy-machine-5-nights.json) |
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
@@ -8923,6 +8925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Butcher | 406283 | [406283-hotdog-butcher.json](./406283-hotdog-butcher.json) |
 | Hotdog Cart Simulator | 385447 | [385447-hotdog-cart-simulator.json](./385447-hotdog-cart-simulator.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
+| Hotdog Hazards | 357152 | [357152-hotdog-hazards.json](./357152-hotdog-hazards.json) |
 | Hotdog Kitchen | 295653 | [295653-hotdog-kitchen.json](./295653-hotdog-kitchen.json) |
 | Hotdog Man | 116189 | [116189-hotdog-man.json](./116189-hotdog-man.json) |
 | Hotdog Quest: One With Everything | 212995 | [212995-hotdog-quest-one-with-everything.json](./212995-hotdog-quest-one-with-everything.json) |
