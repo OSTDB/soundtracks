@@ -7079,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho Tu Lo Shu: The Books of Dragon | 110943 | [110943-ho-tu-lo-shu-the-books-of-dragon.json](./110943-ho-tu-lo-shu-the-books-of-dragon.json) |
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
+| Ho-Hop! | 368973 | [368973-ho-hop.json](./368973-ho-hop.json) |
 | Ho-K | 180470 | [180470-ho-k.json](./180470-ho-k.json) |
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
 | Hoard | 7402 | [7402-hoard.json](./7402-hoard.json) |
