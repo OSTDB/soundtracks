@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JJBoom | 107407 | [107407-jjboom.json](./107407-jjboom.json) |
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
+| JK Girl Samurai: Aoi No Mon | 378240 | [378240-jk-girl-samurai-aoi-no-mon.json](./378240-jk-girl-samurai-aoi-no-mon.json) |
 | JK Puzzle | 279516 | [279516-jk-puzzle.json](./279516-jk-puzzle.json) |
 | JK Resistance: Dark Side | 82781 | [82781-jk-resistance-dark-side.json](./82781-jk-resistance-dark-side.json) |
 | JKEnterprises | 268983 | [268983-jkenterprises.json](./268983-jkenterprises.json) |
