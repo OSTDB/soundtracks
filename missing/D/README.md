@@ -4909,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dei Agminum | 356252 | [356252-dei-agminum.json](./356252-dei-agminum.json) |
 | Deicide | 115368 | [115368-deicide.json](./115368-deicide.json) |
 | Deicide | 191481 | [191481-deicide.json](./191481-deicide.json) |
+| Deicide | 337312 | [337312-deicide.json](./337312-deicide.json) |
 | Deicide 3: Distorted Existence | 194293 | [194293-deicide-3-distorted-existence.json](./194293-deicide-3-distorted-existence.json) |
 | Deicider | 197533 | [197533-deicider.json](./197533-deicider.json) |
 | Deidthraw | 267266 | [267266-deidthraw.json](./267266-deidthraw.json) |
@@ -8749,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
 | Disney Ultimotion | 220273 | [220273-disney-ultimotion.json](./220273-disney-ultimotion.json) |
 | Disney Villains Challenge | 97983 | [97983-disney-villains-challenge.json](./97983-disney-villains-challenge.json) |
+| Disney Villains Cursed Café | 337027 | [337027-disney-villains-cursed-cafe.json](./337027-disney-villains-cursed-cafe.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
 | Disney XD Villains Unite! | 108801 | [108801-disney-xd-villains-unite.json](./108801-disney-xd-villains-unite.json) |
 | Disney's 101 Dalmatians II: Patch's London Adventure | 43737 | [43737-disneys-101-dalmatians-ii-patchs-london-adventure.json](./43737-disneys-101-dalmatians-ii-patchs-london-adventure.json) |
