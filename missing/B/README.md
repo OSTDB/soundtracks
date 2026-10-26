@@ -804,7 +804,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14218,6 +14217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-A-Lot: Fairy Tales | 62821 | [62821-build-a-lot-fairy-tales.json](./62821-build-a-lot-fairy-tales.json) |
 | Build-A-Lot: Mysteries | 62820 | [62820-build-a-lot-mysteries.json](./62820-build-a-lot-mysteries.json) |
 | Build-A-Lot: Mysteries 2 | 341620 | [341620-build-a-lot-mysteries-2.json](./341620-build-a-lot-mysteries-2.json) |
+| Build-a-lot: On Vacation | 363330 | [363330-build-a-lot-on-vacation.json](./363330-build-a-lot-on-vacation.json) |
 | Build-A-Lot: The Elizabethan Era | 341621 | [341621-build-a-lot-the-elizabethan-era.json](./341621-build-a-lot-the-elizabethan-era.json) |
 | Buildanauts | 34638 | [34638-buildanauts.json](./34638-buildanauts.json) |
 | BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
