@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
 | Bastet | 56985 | [56985-bastet.json](./56985-bastet.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
+| Bastionfall | 361026 | [361026-bastionfall.json](./361026-bastionfall.json) |
 | Bastionforge | 368651 | [368651-bastionforge.json](./368651-bastionforge.json) |
 | BastionOS | 390744 | [390744-bastionos.json](./390744-bastionos.json) |
 | Baston | 388344 | [388344-baston.json](./388344-baston.json) |
@@ -7142,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birushana: Rising Flower of Genpei | 145094 | [145094-birushana-rising-flower-of-genpei.json](./145094-birushana-rising-flower-of-genpei.json) |
 | Birushana: Winds of Fate | 401103 | [401103-birushana-winds-of-fate.json](./401103-birushana-winds-of-fate.json) |
 | Birushana: Winds of Fate - Deluxe Edition | 401109 | [401109-birushana-winds-of-fate-deluxe-edition.json](./401109-birushana-winds-of-fate-deluxe-edition.json) |
+| Birza | 361029 | [361029-birza.json](./361029-birza.json) |
 | Birzzle | 341849 | [341849-birzzle.json](./341849-birzzle.json) |
 | Biscats | 259445 | [259445-biscats.json](./259445-biscats.json) |
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
@@ -13894,6 +13896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubonic: OutBreak | 36243 | [36243-bubonic-outbreak.json](./36243-bubonic-outbreak.json) |
 | Bubsy 3D | 7806 | [7806-bubsy-3d.json](./7806-bubsy-3d.json) |
 | Bubsy 3D: Bubsy Visits the James Turrell Retrospective | 62466 | [62466-bubsy-3d-bubsy-visits-the-james-turrell-retrospective.json](./62466-bubsy-3d-bubsy-visits-the-james-turrell-retrospective.json) |
+| Bubsy 3D: ReFurBished | 361113 | [361113-bubsy-3d-refurbished.json](./361113-bubsy-3d-refurbished.json) |
 | Bubsy II | 307065 | [307065-bubsy-ii.json](./307065-bubsy-ii.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
