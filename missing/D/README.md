@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemonum | 223147 | [223147-daemonum.json](./223147-daemonum.json) |
 | Daemonum | 224564 | [224564-daemonum.json](./224564-daemonum.json) |
 | Daemonus | 273247 | [273247-daemonus.json](./273247-daemonus.json) |
+| Daenerys Doesn’t Want Hentai | 367376 | [367376-daenerys-doesn-t-want-hentai.json](./367376-daenerys-doesn-t-want-hentai.json) |
 | Daescent | 408162 | [408162-daescent.json](./408162-daescent.json) |
 | DaeusProfundis | 408163 | [408163-daeusprofundis.json](./408163-daeusprofundis.json) |
 | Daffy Duck | 67271 | [67271-daffy-duck.json](./67271-daffy-duck.json) |
@@ -6073,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desktop Pasture | 360667 | [360667-desktop-pasture.json](./360667-desktop-pasture.json) |
 | Desktop Pet | 265195 | [265195-desktop-pet.json](./265195-desktop-pet.json) |
+| Desktop Pet Project | 367527 | [367527-desktop-pet-project.json](./367527-desktop-pet-project.json) |
 | Desktop Pinforge | 408873 | [408873-desktop-pinforge.json](./408873-desktop-pinforge.json) |
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
@@ -14594,6 +14596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Puzzle Wars | 114688 | [114688-duel-puzzle-wars.json](./114688-duel-puzzle-wars.json) |
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
 | Duel Survival | 67913 | [67913-duel-survival.json](./67913-duel-survival.json) |
+| Duel Timers | 367371 | [367371-duel-timers.json](./367371-duel-timers.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
 | Duel VR | 29083 | [29083-duel-vr.json](./29083-duel-vr.json) |
 | Duel: The Art of Combat | 66520 | [66520-duel-the-art-of-combat.json](./66520-duel-the-art-of-combat.json) |
