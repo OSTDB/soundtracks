@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Ocean | 229510 | [229510-tamagotchi-ocean.json](./229510-tamagotchi-ocean.json) |
 | Tamagotchi Osutchi | 229842 | [229842-tamagotchi-osutchi.json](./229842-tamagotchi-osutchi.json) |
 | Tamagotchi Paradise | 346804 | [346804-tamagotchi-paradise.json](./346804-tamagotchi-paradise.json) |
+| Tamagotchi Plaza | 337030 | [337030-tamagotchi-plaza.json](./337030-tamagotchi-plaza.json) |
 | Tamagotchi Plaza: Nintendo Switch 2 Edition | 338111 | [338111-tamagotchi-plaza-nintendo-switch-2-edition.json](./338111-tamagotchi-plaza-nintendo-switch-2-edition.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
@@ -6611,6 +6612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Cattenburg | 183478 | [183478-the-curse-of-cattenburg.json](./183478-the-curse-of-cattenburg.json) |
 | The Curse of Crowley Manor | 25592 | [25592-the-curse-of-crowley-manor.json](./25592-the-curse-of-crowley-manor.json) |
 | The Curse of Death's Kiss | 298976 | [298976-the-curse-of-deaths-kiss.json](./298976-the-curse-of-deaths-kiss.json) |
+| The Curse of Dragmoria | 337309 | [337309-the-curse-of-dragmoria.json](./337309-the-curse-of-dragmoria.json) |
 | The Curse of Eclipse | 235807 | [235807-the-curse-of-eclipse.json](./235807-the-curse-of-eclipse.json) |
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
 | The Curse of Grimsey Island | 204372 | [204372-the-curse-of-grimsey-island.json](./204372-the-curse-of-grimsey-island.json) |
@@ -9548,6 +9550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jelly Bean Factory | 62672 | [62672-the-jelly-bean-factory.json](./62672-the-jelly-bean-factory.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
 | The JerryMaya Detective Agency | 330249 | [330249-the-jerrymaya-detective-agency.json](./330249-the-jerrymaya-detective-agency.json) |
+| The Jester | 337014 | [337014-the-jester.json](./337014-the-jester.json) |
 | The Jester's Revenge | 289993 | [289993-the-jesters-revenge.json](./289993-the-jesters-revenge.json) |
 | The Jetsons: Invasion of the Planet Pirates | 42511 | [42511-the-jetsons-invasion-of-the-planet-pirates.json](./42511-the-jetsons-invasion-of-the-planet-pirates.json) |
 | The Jetsons: Space Race | 263937 | [263937-the-jetsons-space-race.json](./263937-the-jetsons-space-race.json) |
@@ -10045,6 +10048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Blade (Best Collection) | 75482 | [75482-the-last-blade-best-collection.json](./75482-the-last-blade-best-collection.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
 | The Last Blade: Beyond the Destiny | 210443 | [210443-the-last-blade-beyond-the-destiny.json](./210443-the-last-blade-beyond-the-destiny.json) |
+| The Last Bloom | 337017 | [337017-the-last-bloom.json](./337017-the-last-bloom.json) |
 | The Last Bot | 270547 | [270547-the-last-bot.json](./270547-the-last-bot.json) |
 | The Last Bounty Hunter | 4287 | [4287-the-last-bounty-hunter.json](./4287-the-last-bounty-hunter.json) |
 | The Last Breath | 254025 | [254025-the-last-breath.json](./254025-the-last-breath.json) |
@@ -17087,6 +17091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Spacecrafts | 134970 | [134970-those-spacecrafts.json](./134970-those-spacecrafts.json) |
 | Those Who Came: Healing Solarus | 175647 | [175647-those-who-came-healing-solarus.json](./175647-those-who-came-healing-solarus.json) |
 | Those Who Crawl | 230803 | [230803-those-who-crawl.json](./230803-those-who-crawl.json) |
+| Those Who Know | 337313 | [337313-those-who-know.json](./337313-those-who-know.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
 | Thot on Trial | 384879 | [384879-thot-on-trial.json](./384879-thot-on-trial.json) |
