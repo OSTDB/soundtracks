@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Residence | 411662 | [411662-undead-residence.json](./411662-undead-residence.json) |
 | Undead Rider | 387566 | [387566-undead-rider.json](./387566-undead-rider.json) |
 | Undead Run | 163741 | [163741-undead-run.json](./163741-undead-run.json) |
+| Undead Sentence | 374120 | [374120-undead-sentence.json](./374120-undead-sentence.json) |
 | Undead Shadow Army | 116769 | [116769-undead-shadow-army.json](./116769-undead-shadow-army.json) |
 | Undead Slayer | 46755 | [46755-undead-slayer.json](./46755-undead-slayer.json) |
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
