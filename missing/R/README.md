@@ -3810,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Factory: Escape Room | 188833 | [188833-regular-factory-escape-room.json](./188833-regular-factory-escape-room.json) |
 | Regular Fit | 280108 | [280108-regular-fit.json](./280108-regular-fit.json) |
 | Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
+| Regular Home Renovation Simulator | 370074 | [370074-regular-home-renovation-simulator.json](./370074-regular-home-renovation-simulator.json) |
 | Regular Home Renovation Simulator Prototype | 231866 | [231866-regular-home-renovation-simulator-prototype.json](./231866-regular-home-renovation-simulator-prototype.json) |
 | Regular Human Workshop | 207721 | [207721-regular-human-workshop.json](./207721-regular-human-workshop.json) |
 | Regular Ordinary Boy | 51166 | [51166-regular-ordinary-boy.json](./51166-regular-ordinary-boy.json) |
@@ -9999,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin or Victory | 190926 | [190926-ruin-or-victory.json](./190926-ruin-or-victory.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | RUIN: 35th Anniversary - Definitive Edition | 424040 | [424040-ruin-35th-anniversary-definitive-edition.json](./424040-ruin-35th-anniversary-definitive-edition.json) |
+| Ruin: Beast City | 370156 | [370156-ruin-beast-city.json](./370156-ruin-beast-city.json) |
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
 | Ruin: Kami no Isan | 59325 | [59325-ruin-kami-no-isan.json](./59325-ruin-kami-no-isan.json) |
 | Ruin's Hold | 180553 | [180553-ruins-hold.json](./180553-ruins-hold.json) |
@@ -10552,6 +10554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runventure | 92117 | [92117-runventure.json](./92117-runventure.json) |
 | RunVR | 30732 | [30732-runvr.json](./30732-runvr.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
+| Runway | 370076 | [370076-runway.json](./370076-runway.json) |
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
 | RunZ | 55296 | [55296-runz.json](./55296-runz.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
