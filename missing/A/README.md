@@ -4233,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai to Yume no Kuni Sanrio Puroland Asobinagara Oboeyou! Hiragana Katakana | 250332 | [250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json](./250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json) |
 | Ai to Yume no Kuni Sanrio Puroland: Chanto Dekirukana? Minna to Tanoshii Oyuugikai | 250333 | [250333-ai-to-yume-no-kuni-sanrio-puroland-chanto-dekirukana-minna-to-tanoshii-oyuugikai.json](./250333-ai-to-yume-no-kuni-sanrio-puroland-chanto-dekirukana-minna-to-tanoshii-oyuugikai.json) |
 | Ai to Yume to Bouken Sanrio Puroland! | 250334 | [250334-ai-to-yume-to-bouken-sanrio-puroland.json](./250334-ai-to-yume-to-bouken-sanrio-puroland.json) |
+| Ai Tycoon | 343729 | [343729-ai-tycoon.json](./343729-ai-tycoon.json) |
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
 | AI Under Test | 203734 | [203734-ai-under-test.json](./203734-ai-under-test.json) |
 | AI Vendetta | 122032 | [122032-ai-vendetta.json](./122032-ai-vendetta.json) |
@@ -8558,6 +8559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dance-Off: Around the World | 325009 | [325009-anime-dance-off-around-the-world.json](./325009-anime-dance-off-around-the-world.json) |
 | Anime Dance-Off: Dungeons and Dancers | 336410 | [336410-anime-dance-off-dungeons-and-dancers.json](./336410-anime-dance-off-dungeons-and-dancers.json) |
 | Anime Dance-Off: Ghost Party | 319781 | [319781-anime-dance-off-ghost-party.json](./319781-anime-dance-off-ghost-party.json) |
+| Anime Dance-Off: Las Vegas | 343728 | [343728-anime-dance-off-las-vegas.json](./343728-anime-dance-off-las-vegas.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Butterflies | 360467 | [360467-anime-dream-match-butterflies.json](./360467-anime-dream-match-butterflies.json) |
@@ -10422,6 +10424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mystic Warriors | 282155 | [282155-arcade-archives-mystic-warriors.json](./282155-arcade-archives-mystic-warriors.json) |
 | Arcade Archives: Naughty Boy | 147113 | [147113-arcade-archives-naughty-boy.json](./147113-arcade-archives-naughty-boy.json) |
 | Arcade Archives: Navarone | 243167 | [243167-arcade-archives-navarone.json](./243167-arcade-archives-navarone.json) |
+| Arcade Archives: Nebulasray | 343727 | [343727-arcade-archives-nebulasray.json](./343727-arcade-archives-nebulasray.json) |
 | Arcade Archives: Ninja Gaiden | 118286 | [118286-arcade-archives-ninja-gaiden.json](./118286-arcade-archives-ninja-gaiden.json) |
 | Arcade Archives: Ninja Kazan | 147114 | [147114-arcade-archives-ninja-kazan.json](./147114-arcade-archives-ninja-kazan.json) |
 | Arcade Archives: Ninja Spirit | 120330 | [120330-arcade-archives-ninja-spirit.json](./120330-arcade-archives-ninja-spirit.json) |
