@@ -1989,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majin Tensei: Blind Thinker II | 129140 | [129140-majin-tensei-blind-thinker-ii.json](./129140-majin-tensei-blind-thinker-ii.json) |
 | Majin Woman | 106148 | [106148-majin-woman.json](./106148-majin-woman.json) |
+| Majjam | 353755 | [353755-majjam.json](./353755-majjam.json) |
 | Majo | 413181 | [413181-majo.json](./413181-majo.json) |
 | Majo Koi Nikki Dragon x Caravan | 144670 | [144670-majo-koi-nikki-dragon-x-caravan.json](./144670-majo-koi-nikki-dragon-x-caravan.json) |
 | Majo Kuruibana: Daria + Lito-hen | 398013 | [398013-majo-kuruibana-daria-lito-hen.json](./398013-majo-kuruibana-daria-lito-hen.json) |
@@ -14362,6 +14363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Mythologies: Gold 2000 | 37884 | [37884-mortal-kombat-mythologies-gold-2000.json](./37884-mortal-kombat-mythologies-gold-2000.json) |
 | Mortal Kombat Mythologies: Sub-Zero | 1610 | [1610-mortal-kombat-mythologies-sub-zero.json](./1610-mortal-kombat-mythologies-sub-zero.json) |
 | Mortal Kombat Mythologies: Sub-Zero | 198829 | [198829-mortal-kombat-mythologies-sub-zero.json](./198829-mortal-kombat-mythologies-sub-zero.json) |
+| Mortal Kombat Mythologies: Sub-Zero - Randomizer | 353944 | [353944-mortal-kombat-mythologies-sub-zero-randomizer.json](./353944-mortal-kombat-mythologies-sub-zero-randomizer.json) |
 | Mortal Kombat Revelations | 45154 | [45154-mortal-kombat-revelations.json](./45154-mortal-kombat-revelations.json) |
 | Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 199431 | [199431-mortal-kombat-trilogy.json](./199431-mortal-kombat-trilogy.json) |
