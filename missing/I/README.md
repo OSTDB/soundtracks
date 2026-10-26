@@ -2786,6 +2786,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
 | Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
 | Indiepocalypse #42 | 256179 | [256179-indiepocalypse-42.json](./256179-indiepocalypse-42.json) |
+| Indiepocalypse #52 | 362700 | [362700-indiepocalypse-52.json](./362700-indiepocalypse-52.json) |
+| Indiepocalypse #53 | 362701 | [362701-indiepocalypse-53.json](./362701-indiepocalypse-53.json) |
+| Indiepocalypse #54 | 362702 | [362702-indiepocalypse-54.json](./362702-indiepocalypse-54.json) |
+| Indiepocalypse #55 | 362703 | [362703-indiepocalypse-55.json](./362703-indiepocalypse-55.json) |
+| Indiepocalypse #56 | 362704 | [362704-indiepocalypse-56.json](./362704-indiepocalypse-56.json) |
 | Indiepocalypse #57 | 362705 | [362705-indiepocalypse-57.json](./362705-indiepocalypse-57.json) |
 | Indiepocalypse #58 | 362706 | [362706-indiepocalypse-58.json](./362706-indiepocalypse-58.json) |
 | Indiepocalypse #59 | 362707 | [362707-indiepocalypse-59.json](./362707-indiepocalypse-59.json) |
