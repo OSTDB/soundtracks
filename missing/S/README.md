@@ -6508,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Monologue | 383506 | [383506-sheep-monologue.json](./383506-sheep-monologue.json) |
 | Sheep N Sheep: Match 3 Tiles | 223916 | [223916-sheep-n-sheep-match-3-tiles.json](./223916-sheep-n-sheep-match-3-tiles.json) |
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
+| Sheep Running | 347039 | [347039-sheep-running.json](./347039-sheep-running.json) |
 | Sheep Seeker | 327652 | [327652-sheep-seeker.json](./327652-sheep-seeker.json) |
 | Sheep Sheep Wolf | 112246 | [112246-sheep-sheep-wolf.json](./112246-sheep-sheep-wolf.json) |
 | Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
@@ -9635,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
 | SinsFromGod 2 | 184779 | [184779-sinsfromgod-2.json](./184779-sinsfromgod-2.json) |
 | SinsFromGod Remake | 212647 | [212647-sinsfromgod-remake.json](./212647-sinsfromgod-remake.json) |
+| SinSiege | 347043 | [347043-sinsiege.json](./347043-sinsiege.json) |
 | Sint Nicolaas | 122964 | [122964-sint-nicolaas.json](./122964-sint-nicolaas.json) |
 | Sintel: The Game | 61722 | [61722-sintel-the-game.json](./61722-sintel-the-game.json) |
 | Sintesoft 2.0 | 343319 | [343319-sintesoft-2-0.json](./343319-sintesoft-2-0.json) |
@@ -16328,6 +16330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Inc | 190878 | [190878-space-inc.json](./190878-space-inc.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
 | Space Industry | 415263 | [415263-space-industry.json](./415263-space-industry.json) |
+| Space Inn | 347034 | [347034-space-inn.json](./347034-space-inn.json) |
 | Space Instegators | 40753 | [40753-space-instegators.json](./40753-space-instegators.json) |
 | Space Instigators | 84293 | [84293-space-instigators.json](./84293-space-instigators.json) |
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
@@ -20043,6 +20046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Garden | 334856 | [334856-star-garden.json](./334856-star-garden.json) |
 | Star General | 74087 | [74087-star-general.json](./74087-star-general.json) |
 | Star Ghost | 58873 | [58873-star-ghost.json](./58873-star-ghost.json) |
+| Star Girl | 347042 | [347042-star-girl.json](./347042-star-girl.json) |
 | Star Girl Proxima | 121992 | [121992-star-girl-proxima.json](./121992-star-girl-proxima.json) |
 | Star Girls | 118075 | [118075-star-girls.json](./118075-star-girls.json) |
 | Star Girls | 343757 | [343757-star-girls.json](./343757-star-girls.json) |
@@ -20747,6 +20751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbridge: The Voyage Home | 291351 | [291351-starbridge-the-voyage-home.json](./291351-starbridge-the-voyage-home.json) |
 | Starbucket | 90854 | [90854-starbucket.json](./90854-starbucket.json) |
 | Starbucks | 378167 | [378167-starbucks.json](./378167-starbucks.json) |
+| Starbug Troopers: The 4 Horseflies of the Apocalypse | 347072 | [347072-starbug-troopers-the-4-horseflies-of-the-apocalypse.json](./347072-starbug-troopers-the-4-horseflies-of-the-apocalypse.json) |
 | Starburst Fever Night | 390669 | [390669-starburst-fever-night.json](./390669-starburst-fever-night.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starbyte Super Soccer | 119352 | [119352-starbyte-super-soccer.json](./119352-starbyte-super-soccer.json) |
@@ -23956,6 +23961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Struggle: Antaresian Legacy | 141565 | [141565-struggle-antaresian-legacy.json](./141565-struggle-antaresian-legacy.json) |
+| Struggler | 347056 | [347056-struggler.json](./347056-struggler.json) |
 | Struggling | 115624 | [115624-struggling.json](./115624-struggling.json) |
 | Strum | 285159 | [285159-strum.json](./285159-strum.json) |
 | Strung Up By Sketches | 340267 | [340267-strung-up-by-sketches.json](./340267-strung-up-by-sketches.json) |
@@ -28228,6 +28234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova | 198095 | [198095-supernova.json](./198095-supernova.json) |
 | SuperNova | 410006 | [410006-supernova.json](./410006-supernova.json) |
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
+| Supernova: Galactic Wars | 347063 | [347063-supernova-galactic-wars.json](./347063-supernova-galactic-wars.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
 | SuperPacker | 411995 | [411995-superpacker.json](./411995-superpacker.json) |
