@@ -2406,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - Landon Edition | 346002 | [346002-real-boxing-2-remastered-landon-edition.json](./346002-real-boxing-2-remastered-landon-edition.json) |
 | Real Boxing 2: Remastered - Mark Rouser DLC | 380720 | [380720-real-boxing-2-remastered-mark-rouser-dlc.json](./380720-real-boxing-2-remastered-mark-rouser-dlc.json) |
 | Real Boxing 2: Remastered - Masaru & Maywinner Edition | 375144 | [375144-real-boxing-2-remastered-masaru-and-maywinner-edition.json](./375144-real-boxing-2-remastered-masaru-and-maywinner-edition.json) |
+| Real Boxing 2: Remastered - Masaru Edition | 336433 | [336433-real-boxing-2-remastered-masaru-edition.json](./336433-real-boxing-2-remastered-masaru-edition.json) |
 | Real Boxing 2: Remastered - Maverick DLC | 393069 | [393069-real-boxing-2-remastered-maverick-dlc.json](./393069-real-boxing-2-remastered-maverick-dlc.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Boxing 2: Remastered - Stone Edition | 330207 | [330207-real-boxing-2-remastered-stone-edition.json](./330207-real-boxing-2-remastered-stone-edition.json) |
