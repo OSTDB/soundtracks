@@ -15710,6 +15710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer Vibes: Neon | 153792 | [153792-the-wanderer-vibes-neon.json](./153792-the-wanderer-vibes-neon.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wanderer's Rest | 391119 | [391119-the-wanderers-rest.json](./391119-the-wanderers-rest.json) |
+| The Wandering | 352768 | [352768-the-wandering.json](./352768-the-wandering.json) |
 | The Wandering Demon Blade | 288625 | [288625-the-wandering-demon-blade.json](./288625-the-wandering-demon-blade.json) |
 | The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
