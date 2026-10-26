@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
 | Candlemass | 257297 | [257297-candlemass.json](./257297-candlemass.json) |
 | Candles | 178946 | [178946-candles.json](./178946-candles.json) |
+| Candles | 341411 | [341411-candles.json](./341411-candles.json) |
 | Candles Aren't Eternal | 386385 | [386385-candles-arent-eternal.json](./386385-candles-arent-eternal.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
 | Candoo Ninja | 97808 | [97808-candoo-ninja.json](./97808-candoo-ninja.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Unlock the Magic | 324758 | [324758-care-bears-unlock-the-magic.json](./324758-care-bears-unlock-the-magic.json) |
 | Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
 | Care of Gongon | 350048 | [350048-care-of-gongon.json](./350048-care-of-gongon.json) |
+| Care(taking) | 341413 | [341413-care-taking.json](./341413-care-taking.json) |
 | Carebotz | 159730 | [159730-carebotz.json](./159730-carebotz.json) |
 | Careening | 379174 | [379174-careening.json](./379174-careening.json) |
 | Career Fantasy | 318515 | [318515-career-fantasy.json](./318515-career-fantasy.json) |
@@ -13090,6 +13092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Aquarium | 339315 | [339315-cozy-aquarium.json](./339315-cozy-aquarium.json) |
 | Cozy Autumn Bug Hunt | 339890 | [339890-cozy-autumn-bug-hunt.json](./339890-cozy-autumn-bug-hunt.json) |
 | Cozy Bay Hike | 395219 | [395219-cozy-bay-hike.json](./395219-cozy-bay-hike.json) |
+| Cozy Beach | 341408 | [341408-cozy-beach.json](./341408-cozy-beach.json) |
 | Cozy Builder | 379667 | [379667-cozy-builder.json](./379667-cozy-builder.json) |
 | Cozy Cabin | 216715 | [216715-cozy-cabin.json](./216715-cozy-cabin.json) |
 | Cozy Cabin: Coffee Boutique | 252241 | [252241-cozy-cabin-coffee-boutique.json](./252241-cozy-cabin-coffee-boutique.json) |
