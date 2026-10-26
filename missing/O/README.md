@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Drive | 279105 | [279105-only-drive.json](./279105-only-drive.json) |
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
 | Only False | 330674 | [330674-only-false.json](./330674-only-false.json) |
+| Only Fans | 377029 | [377029-only-fans.json](./377029-only-fans.json) |
 | Only Farms | 420533 | [420533-only-farms.json](./420533-only-farms.json) |
 | Only for Gamers | 333191 | [333191-only-for-gamers.json](./333191-only-for-gamers.json) |
 | Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
@@ -3328,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! 3 Bundle | 196681 | [196681-orcs-must-die-3-bundle.json](./196681-orcs-must-die-3-bundle.json) |
 | Orcs Must Die! 3: Cold as Eyes | 193225 | [193225-orcs-must-die-3-cold-as-eyes.json](./193225-orcs-must-die-3-cold-as-eyes.json) |
 | Orcs Must Die! 3: Tipping the Scales | 196475 | [196475-orcs-must-die-3-tipping-the-scales.json](./196475-orcs-must-die-3-tipping-the-scales.json) |
+| Orcs Must Die! By the Blade | 377658 | [377658-orcs-must-die-by-the-blade.json](./377658-orcs-must-die-by-the-blade.json) |
 | Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
 | Orcs Must Die!: Artifacts of Power | 14540 | [14540-orcs-must-die-artifacts-of-power.json](./14540-orcs-must-die-artifacts-of-power.json) |
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
@@ -4022,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Doomed Bunker | 293008 | [293008-our-doomed-bunker.json](./293008-our-doomed-bunker.json) |
 | Our Dying World | 203781 | [203781-our-dying-world.json](./203781-our-dying-world.json) |
 | Our End of the World | 36889 | [36889-our-end-of-the-world.json](./36889-our-end-of-the-world.json) |
+| Our Ephemeral Nights | 377032 | [377032-our-ephemeral-nights.json](./377032-our-ephemeral-nights.json) |
 | Our Eyes See No Evil | 361841 | [361841-our-eyes-see-no-evil.json](./361841-our-eyes-see-no-evil.json) |
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
 | Our Fantasy Quest + More Quests Pack | 227708 | [227708-our-fantasy-quest-more-quests-pack.json](./227708-our-fantasy-quest-more-quests-pack.json) |
@@ -4454,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
 | Outpost on Syrinx | 119602 | [119602-outpost-on-syrinx.json](./119602-outpost-on-syrinx.json) |
+| Outpost Simulator | 377117 | [377117-outpost-simulator.json](./377117-outpost-simulator.json) |
 | Outpost X | 273223 | [273223-outpost-x.json](./273223-outpost-x.json) |
 | Outpost Zero | 81207 | [81207-outpost-zero.json](./81207-outpost-zero.json) |
 | Outpost: Save Yourselves | 61697 | [61697-outpost-save-yourselves.json](./61697-outpost-save-yourselves.json) |
