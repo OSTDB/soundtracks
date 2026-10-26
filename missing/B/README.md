@@ -12616,6 +12616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Clouds and Blooming Light | 227962 | [227962-breaking-clouds-and-blooming-light.json](./227962-breaking-clouds-and-blooming-light.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
+| Breaking Game | 371276 | [371276-breaking-game.json](./371276-breaking-game.json) |
 | Breaking Gates | 141008 | [141008-breaking-gates.json](./141008-breaking-gates.json) |
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
 | Breaking Mad | 123515 | [123515-breaking-mad.json](./123515-breaking-mad.json) |
@@ -15005,6 +15006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
 | Bushside Rangers | 335642 | [335642-bushside-rangers.json](./335642-bushside-rangers.json) |
+| Bushy Man | 371295 | [371295-bushy-man.json](./371295-bushy-man.json) |
 | Busin 0: Wizardry Alternative Neo | 59213 | [59213-busin-0-wizardry-alternative-neo.json](./59213-busin-0-wizardry-alternative-neo.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
 | Business Boardwalk | 146812 | [146812-business-boardwalk.json](./146812-business-boardwalk.json) |
