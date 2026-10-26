@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q-j-civilization-s | 302787 | [302787-q-j-civilization-s.json](./302787-q-j-civilization-s.json) |
 | Q-Linq | 290623 | [290623-q-linq.json](./290623-q-linq.json) |
 | Q-Red | 273237 | [273237-q-red.json](./273237-q-red.json) |
+| Q-Up | 370652 | [370652-q-up.json](./370652-q-up.json) |
 | Q: A Dystopian Queueing Simulator | 135620 | [135620-q-a-dystopian-queueing-simulator.json](./135620-q-a-dystopian-queueing-simulator.json) |
 | Q: A Neon Platformer | 137962 | [137962-q-a-neon-platformer.json](./137962-q-a-neon-platformer.json) |
 | Q: Cue | 153738 | [153738-q-cue.json](./153738-q-cue.json) |
