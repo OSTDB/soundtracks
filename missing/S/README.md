@@ -7231,6 +7231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiosai no Serenade: Episode 2 | 396562 | [396562-shiosai-no-serenade-episode-2.json](./396562-shiosai-no-serenade-episode-2.json) |
 | Shiosai no Serenade: Episode 3 | 396564 | [396564-shiosai-no-serenade-episode-3.json](./396564-shiosai-no-serenade-episode-3.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
+| Ship Explorer | 349248 | [349248-ship-explorer.json](./349248-ship-explorer.json) |
 | Ship Explorer: Bismarck | 377776 | [377776-ship-explorer-bismarck.json](./377776-ship-explorer-bismarck.json) |
 | Ship Fight | 113864 | [113864-ship-fight.json](./113864-ship-fight.json) |
 | Ship Fight! | 372129 | [372129-ship-fight.json](./372129-ship-fight.json) |
@@ -10720,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Skaters | 6029 | [6029-skyline-skaters.json](./6029-skyline-skaters.json) |
 | Skyline Sprint: Turbo Tracks | 277765 | [277765-skyline-sprint-turbo-tracks.json](./277765-skyline-sprint-turbo-tracks.json) |
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
+| Skyline Urban Story | 349221 | [349221-skyline-urban-story.json](./349221-skyline-urban-story.json) |
 | Skylords Reborn | 122901 | [122901-skylords-reborn.json](./122901-skylords-reborn.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
 | Skymote | 417612 | [417612-skymote.json](./417612-skymote.json) |
@@ -13595,6 +13597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
 | Solar War | 403034 | [403034-solar-war.json](./403034-solar-war.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
+| Solar Wave | 349225 | [349225-solar-wave.json](./349225-solar-wave.json) |
 | Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
 | Solar Winds: The Escape | 73585 | [73585-solar-winds-the-escape.json](./73585-solar-winds-the-escape.json) |
 | Solar: Survival Space Battle Simulator | 312421 | [312421-solar-survival-space-battle-simulator.json](./312421-solar-survival-space-battle-simulator.json) |
@@ -13706,6 +13709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solenars Edge II: Aurora of The Seventh Dawn | 133182 | [133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json](./133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json) |
 | Solenars Edge Rebirth | 50759 | [50759-solenars-edge-rebirth.json](./50759-solenars-edge-rebirth.json) |
 | Solenars Edge Rebirth: After Story | 174173 | [174173-solenars-edge-rebirth-after-story.json](./174173-solenars-edge-rebirth-after-story.json) |
+| Solene's Spin Story | 349219 | [349219-solenes-spin-story.json](./349219-solenes-spin-story.json) |
 | Soletrando | 181575 | [181575-soletrando.json](./181575-soletrando.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | Solfege | 240067 | [240067-solfege.json](./240067-solfege.json) |
@@ -22806,6 +22810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbridge | 327329 | [327329-stormbridge.json](./327329-stormbridge.json) |
 | Stormbringer | 13036 | [13036-stormbringer.json](./13036-stormbringer.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
+| StormCore | 349232 | [349232-stormcore.json](./349232-stormcore.json) |
 | Stormdivers | 97225 | [97225-stormdivers.json](./97225-stormdivers.json) |
 | StormEdge | 240652 | [240652-stormedge.json](./240652-stormedge.json) |
 | StormEdge: Wind of Change | 244691 | [244691-stormedge-wind-of-change.json](./244691-stormedge-wind-of-change.json) |
@@ -25222,6 +25227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunflower Maintenance | 186260 | [186260-sunflower-maintenance.json](./186260-sunflower-maintenance.json) |
 | Sunflower Stronghold | 384519 | [384519-sunflower-stronghold.json](./384519-sunflower-stronghold.json) |
 | SunFlowers | 52861 | [52861-sunflowers.json](./52861-sunflowers.json) |
+| Sunfluffs | 349206 | [349206-sunfluffs.json](./349206-sunfluffs.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
 | Sung in Flame | 381345 | [381345-sung-in-flame.json](./381345-sung-in-flame.json) |
 | Sungaia Saga | 337731 | [337731-sungaia-saga.json](./337731-sungaia-saga.json) |
@@ -28028,6 +28034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
 | Superhero Girls | 368052 | [368052-superhero-girls.json](./368052-superhero-girls.json) |
 | Superhero Robot Merge Master | 214167 | [214167-superhero-robot-merge-master.json](./214167-superhero-robot-merge-master.json) |
+| Superhero Simulator | 349234 | [349234-superhero-simulator.json](./349234-superhero-simulator.json) |
 | Superhero Workout | 58489 | [58489-superhero-workout.json](./58489-superhero-workout.json) |
 | Superhero Wrestling Battle Arena Ring Fighting | 100857 | [100857-superhero-wrestling-battle-arena-ring-fighting.json](./100857-superhero-wrestling-battle-arena-ring-fighting.json) |
 | Superhero-X | 138032 | [138032-superhero-x.json](./138032-superhero-x.json) |
@@ -28757,6 +28764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Squad | 373887 | [373887-survivor-squad.json](./373887-survivor-squad.json) |
 | Survivor Squad Complete | 53693 | [53693-survivor-squad-complete.json](./53693-survivor-squad-complete.json) |
 | Survivor Squad: Gauntlets | 36186 | [36186-survivor-squad-gauntlets.json](./36186-survivor-squad-gauntlets.json) |
+| Survivor Story: The Apocalypse | 349218 | [349218-survivor-story-the-apocalypse.json](./349218-survivor-story-the-apocalypse.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
 | Survivor Ultimate | 73343 | [73343-survivor-ultimate.json](./73343-survivor-ultimate.json) |
 | Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
