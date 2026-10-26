@@ -5335,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch! | 70854 | [70854-witch.json](./70854-witch.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
+| Witch's Brew: Love and Lattes | 375212 | [375212-witchs-brew-love-and-lattes.json](./375212-witchs-brew-love-and-lattes.json) |
 | Witch's Cat | 83870 | [83870-witchs-cat.json](./83870-witchs-cat.json) |
 | Witch's Doll | 301108 | [301108-witchs-doll.json](./301108-witchs-doll.json) |
 | Witch's Garden | 259534 | [259534-witchs-garden.json](./259534-witchs-garden.json) |
