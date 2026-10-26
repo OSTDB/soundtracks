@@ -8751,6 +8751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
 | Silhoun | 323421 | [323421-silhoun.json](./323421-silhoun.json) |
 | Silica | 247621 | [247621-silica.json](./247621-silica.json) |
+| Silicium | 381074 | [381074-silicium.json](./381074-silicium.json) |
 | Silicomrades | 126890 | [126890-silicomrades.json](./126890-silicomrades.json) |
 | Silicon Architect | 411160 | [411160-silicon-architect.json](./411160-silicon-architect.json) |
 | Silicon City | 121321 | [121321-silicon-city.json](./121321-silicon-city.json) |
@@ -10185,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish | 13756 | [13756-skirmish.json](./13756-skirmish.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish | 327165 | [327165-skirmish.json](./327165-skirmish.json) |
+| Skirmish | 381071 | [381071-skirmish.json](./381071-skirmish.json) |
 | Skirmish | 413242 | [413242-skirmish.json](./413242-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skirmish Mayhem | 224428 | [224428-skirmish-mayhem.json](./224428-skirmish-mayhem.json) |
@@ -15566,6 +15568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundbusting | 177996 | [177996-soundbusting.json](./177996-soundbusting.json) |
 | Soundfall | 106821 | [106821-soundfall.json](./106821-soundfall.json) |
+| Soundgrass | 381079 | [381079-soundgrass.json](./381079-soundgrass.json) |
 | SoundKilla | 295154 | [295154-soundkilla.json](./295154-soundkilla.json) |
 | Soundless Mound | 262310 | [262310-soundless-mound.json](./262310-soundless-mound.json) |
 | Soundless: A Modern Salem in Remote Area | 144167 | [144167-soundless-a-modern-salem-in-remote-area.json](./144167-soundless-a-modern-salem-in-remote-area.json) |
@@ -21122,6 +21125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Battlespace | 72724 | [72724-starship-troopers-battlespace.json](./72724-starship-troopers-battlespace.json) |
 | Starship Troopers: Extermination - Galactic Victory Edition | 333690 | [333690-starship-troopers-extermination-galactic-victory-edition.json](./333690-starship-troopers-extermination-galactic-victory-edition.json) |
 | Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
+| Starship Troopers: Terran Command - The Eradicators | 380993 | [380993-starship-troopers-terran-command-the-eradicators.json](./380993-starship-troopers-terran-command-the-eradicators.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
 | Starship Tunnel | 156904 | [156904-starship-tunnel.json](./156904-starship-tunnel.json) |
 | Starship Turd Nugget: Too Cool For Stool | 169646 | [169646-starship-turd-nugget-too-cool-for-stool.json](./169646-starship-turd-nugget-too-cool-for-stool.json) |
