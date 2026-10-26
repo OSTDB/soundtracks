@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Up & Up | 422064 | [422064-sad-virus-up-and-up.json](./422064-sad-virus-up-and-up.json) |
 | Sad Virus Waterland | 408021 | [408021-sad-virus-waterland.json](./408021-sad-virus-waterland.json) |
 | Sad Virus Western | 368286 | [368286-sad-virus-western.json](./368286-sad-virus-western.json) |
+| Sad Virus Winter | 350348 | [350348-sad-virus-winter.json](./350348-sad-virus-winter.json) |
 | Sadakichi Seven | 37656 | [37656-sadakichi-seven.json](./37656-sadakichi-seven.json) |
 | Sadakichi Seven: Hideyoshi no Ougon | 64289 | [64289-sadakichi-seven-hideyoshi-no-ougon.json](./64289-sadakichi-seven-hideyoshi-no-ougon.json) |
 | Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
@@ -2993,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraplers | 156963 | [156963-scraplers.json](./156963-scraplers.json) |
 | Scraplings | 420774 | [420774-scraplings.json](./420774-scraplings.json) |
 | Scrapmetalship | 183007 | [183007-scrapmetalship.json](./183007-scrapmetalship.json) |
+| Scrapocalypse | 350478 | [350478-scrapocalypse.json](./350478-scrapocalypse.json) |
 | Scrappage | 236248 | [236248-scrappage.json](./236248-scrappage.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrapper | 82399 | [82399-scrapper.json](./82399-scrapper.json) |
@@ -8184,6 +8186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutterbug Stud | 156599 | [156599-shutterbug-stud.json](./156599-shutterbug-stud.json) |
 | Shuttle Commander | 153326 | [153326-shuttle-commander.json](./153326-shuttle-commander.json) |
 | Shuttle Intercept | 284848 | [284848-shuttle-intercept.json](./284848-shuttle-intercept.json) |
+| Shuttle Mining | 350482 | [350482-shuttle-mining.json](./350482-shuttle-mining.json) |
 | Shuttle Orbiter | 40694 | [40694-shuttle-orbiter.json](./40694-shuttle-orbiter.json) |
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
 | Shuttle Shuffle: Aliens Panic | 56393 | [56393-shuttle-shuffle-aliens-panic.json](./56393-shuttle-shuffle-aliens-panic.json) |
@@ -9554,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Outbreak | 366118 | [366118-sinister-outbreak.json](./366118-sinister-outbreak.json) |
 | Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
 | Sinister Seven | 275636 | [275636-sinister-seven.json](./275636-sinister-seven.json) |
+| Sinister Sodies | 350339 | [350339-sinister-sodies.json](./350339-sinister-sodies.json) |
 | Sinister Squidward | 237869 | [237869-sinister-squidward.json](./237869-sinister-squidward.json) |
 | Sinister Turmoil: Sewers | 242010 | [242010-sinister-turmoil-sewers.json](./242010-sinister-turmoil-sewers.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
@@ -16453,6 +16457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory: Dogs | 357864 | [357864-space-memory-dogs.json](./357864-space-memory-dogs.json) |
 | Space Memory: Fairies | 412387 | [412387-space-memory-fairies.json](./412387-space-memory-fairies.json) |
 | Space Memory: Flowers | 392749 | [392749-space-memory-flowers.json](./392749-space-memory-flowers.json) |
+| Space Memory: Horses | 350343 | [350343-space-memory-horses.json](./350343-space-memory-horses.json) |
 | Space Memory: Monsters | 366096 | [366096-space-memory-monsters.json](./366096-space-memory-monsters.json) |
 | Space Memory: Mushrooms | 363565 | [363565-space-memory-mushrooms.json](./363565-space-memory-mushrooms.json) |
 | Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
@@ -17339,6 +17344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Force Genesis | 21090 | [21090-spectral-force-genesis.json](./21090-spectral-force-genesis.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
+| Spectral Protocol | 350363 | [350363-spectral-protocol.json](./350363-spectral-protocol.json) |
 | Spectral Realm | 340191 | [340191-spectral-realm.json](./340191-spectral-realm.json) |
 | Spectral Report | 377957 | [377957-spectral-report.json](./377957-spectral-report.json) |
 | Spectral Scream | 292386 | [292386-spectral-scream.json](./292386-spectral-scream.json) |
@@ -17534,6 +17540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedrun | 148854 | [148854-speedrun.json](./148854-speedrun.json) |
 | Speedrun Maker | 340187 | [340187-speedrun-maker.json](./340187-speedrun-maker.json) |
 | Speedrun Ninja | 116204 | [116204-speedrun-ninja.json](./116204-speedrun-ninja.json) |
+| Speedrun Simulator | 350342 | [350342-speedrun-simulator.json](./350342-speedrun-simulator.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
 | Speedrun World | 405669 | [405669-speedrun-world.json](./405669-speedrun-world.json) |
@@ -27666,6 +27673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stadia | 355884 | [355884-super-stadia.json](./355884-super-stadia.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
 | Super Star Adventure | 385286 | [385286-super-star-adventure.json](./385286-super-star-adventure.json) |
+| Super Star Battle | 350332 | [350332-super-star-battle.json](./350332-super-star-battle.json) |
 | Super Star Battle Royale | 382973 | [382973-super-star-battle-royale.json](./382973-super-star-battle-royale.json) |
 | Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
