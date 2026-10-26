@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Work As An Exorcist | 381980 | [381980-i-work-as-an-exorcist.json](./381980-i-work-as-an-exorcist.json) |
 | I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
 | I Would Love to Wish You Good Morning | 372970 | [372970-i-would-love-to-wish-you-good-morning.json](./372970-i-would-love-to-wish-you-good-morning.json) |
+| I Write Games Not Tragedies | 342299 | [342299-i-write-games-not-tragedies.json](./342299-i-write-games-not-tragedies.json) |
 | I x She Tell: Limited Edition | 167022 | [167022-i-x-she-tell-limited-edition.json](./167022-i-x-she-tell-limited-edition.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
 | Idle Biceps | 244182 | [244182-idle-biceps.json](./244182-idle-biceps.json) |
 | Idle Blocks | 267848 | [267848-idle-blocks.json](./267848-idle-blocks.json) |
+| Idle Boss Rush | 341977 | [341977-idle-boss-rush.json](./341977-idle-boss-rush.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
 | Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
 | Idle Breaker: Loot and Survive | 297597 | [297597-idle-breaker-loot-and-survive.json](./297597-idle-breaker-loot-and-survive.json) |
