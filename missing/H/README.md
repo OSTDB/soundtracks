@@ -9217,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
 | House of Chavez | 273821 | [273821-house-of-chavez.json](./273821-house-of-chavez.json) |
 | House of Dead Skin | 316078 | [316078-house-of-dead-skin.json](./316078-house-of-dead-skin.json) |
+| House of Decay | 333465 | [333465-house-of-decay.json](./333465-house-of-decay.json) |
 | House of Detention | 137405 | [137405-house-of-detention.json](./137405-house-of-detention.json) |
 | House of Empty Names | 397027 | [397027-house-of-empty-names.json](./397027-house-of-empty-names.json) |
 | House of Everlast | 269004 | [269004-house-of-everlast.json](./269004-house-of-everlast.json) |
