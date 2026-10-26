@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T12:23:26.716Z",
-  "total_missing": 265101,
+  "generated_at": "2026-10-26T12:34:59.471Z",
+  "total_missing": 265151,
   "games": [
     {
       "igdb_id": 191680,
@@ -100007,6 +100007,11 @@
       "file": "missing/B/323581-bane-of-oakenshade.json"
     },
     {
+      "igdb_id": 358743,
+      "game_name": "Bane: Dawn of the Lost",
+      "file": "missing/B/358743-bane-dawn-of-the-lost.json"
+    },
+    {
       "igdb_id": 184658,
       "game_name": "Baneseed",
       "file": "missing/B/184658-baneseed.json"
@@ -114587,6 +114592,26 @@
       "file": "missing/B/166521-beatstar.json"
     },
     {
+      "igdb_id": 358768,
+      "game_name": "Beatstar: Ariana Grande, Zedd - \"Break Free\"",
+      "file": "missing/B/358768-beatstar-ariana-grande-zedd-break-free.json"
+    },
+    {
+      "igdb_id": 358776,
+      "game_name": "Beatstar: Backstreet Boys - \"Everybody (Backstreet's Back)\"",
+      "file": "missing/B/358776-beatstar-backstreet-boys-everybody-backstreets-back.json"
+    },
+    {
+      "igdb_id": 358780,
+      "game_name": "Beatstar: Beatstar Originals - \"Golden Sands\"",
+      "file": "missing/B/358780-beatstar-beatstar-originals-golden-sands.json"
+    },
+    {
+      "igdb_id": 358781,
+      "game_name": "Beatstar: Beatstar Originals - \"Graveyard Groove\"",
+      "file": "missing/B/358781-beatstar-beatstar-originals-graveyard-groove.json"
+    },
+    {
       "igdb_id": 358785,
       "game_name": "Beatstar: Beatstar Originals - \"Housetop Jingle\"",
       "file": "missing/B/358785-beatstar-beatstar-originals-housetop-jingle.json"
@@ -114607,9 +114632,29 @@
       "file": "missing/B/358803-beatstar-beatstar-originals-rattlin-rhythm.json"
     },
     {
+      "igdb_id": 358755,
+      "game_name": "Beatstar: Billie Eilish - \"Bad Guy\"",
+      "file": "missing/B/358755-beatstar-billie-eilish-bad-guy.json"
+    },
+    {
+      "igdb_id": 358749,
+      "game_name": "Beatstar: Blondie - \"One Way or Another\"",
+      "file": "missing/B/358749-beatstar-blondie-one-way-or-another.json"
+    },
+    {
+      "igdb_id": 358774,
+      "game_name": "Beatstar: Blue Öyster Cult - \"Don't Fear the Reaper\"",
+      "file": "missing/B/358774-beatstar-blue-oyster-cult-dont-fear-the-reaper.json"
+    },
+    {
       "igdb_id": 358809,
       "game_name": "Beatstar: Bossa Studios / Black Heron - \"Surgeon Simulator (Theme Tune)\"",
       "file": "missing/B/358809-beatstar-bossa-studios-black-heron-surgeon-simulator-theme-tune.json"
+    },
+    {
+      "igdb_id": 358759,
+      "game_name": "Beatstar: DNCE - \"Cake by the Ocean\"",
+      "file": "missing/B/358759-beatstar-dnce-cake-by-the-ocean.json"
     },
     {
       "igdb_id": 358806,
@@ -114622,9 +114667,19 @@
       "file": "missing/B/358788-beatstar-dolly-parton-jolene.json"
     },
     {
+      "igdb_id": 358765,
+      "game_name": "Beatstar: Don McLean - \"American Pie\"",
+      "file": "missing/B/358765-beatstar-don-mclean-american-pie.json"
+    },
+    {
       "igdb_id": 358795,
       "game_name": "Beatstar: Eminem, Rihanna - \"Love the Way You Lie\"",
       "file": "missing/B/358795-beatstar-eminem-rihanna-love-the-way-you-lie.json"
+    },
+    {
+      "igdb_id": 358754,
+      "game_name": "Beatstar: Foo Fighters - \"All My Life\"",
+      "file": "missing/B/358754-beatstar-foo-fighters-all-my-life.json"
     },
     {
       "igdb_id": 358791,
@@ -114637,9 +114692,34 @@
       "file": "missing/B/358810-beatstar-harry-shotta-the-fast-lane-space-ape-edition.json"
     },
     {
+      "igdb_id": 358771,
+      "game_name": "Beatstar: Juice WRLD, Marshmello - \"Come & Go\"",
+      "file": "missing/B/358771-beatstar-juice-wrld-marshmello-come-and-go.json"
+    },
+    {
+      "igdb_id": 358777,
+      "game_name": "Beatstar: Jukio Kallio & Daniel Hagström - \"Everybody Falls (Fall Guys Theme)\"",
+      "file": "missing/B/358777-beatstar-jukio-kallio-and-daniel-hagstrom-everybody-falls-fall-guys-theme.json"
+    },
+    {
+      "igdb_id": 358747,
+      "game_name": "Beatstar: La Roux - \"Bulletproof\"",
+      "file": "missing/B/358747-beatstar-la-roux-bulletproof.json"
+    },
+    {
+      "igdb_id": 358772,
+      "game_name": "Beatstar: Luke Bryan - \"Country Girl (Shake It for Me)\"",
+      "file": "missing/B/358772-beatstar-luke-bryan-country-girl-shake-it-for-me.json"
+    },
+    {
       "igdb_id": 358812,
       "game_name": "Beatstar: Macklemore, Ryan Lewis, Wanz - \"Thrift Shop\"",
       "file": "missing/B/358812-beatstar-macklemore-ryan-lewis-wanz-thrift-shop.json"
+    },
+    {
+      "igdb_id": 358767,
+      "game_name": "Beatstar: Meghan Trainor - \"All About That Bass\"",
+      "file": "missing/B/358767-beatstar-meghan-trainor-all-about-that-bass.json"
     },
     {
       "igdb_id": 358797,
@@ -114657,9 +114737,24 @@
       "file": "missing/B/358804-beatstar-nickelback-rockstar.json"
     },
     {
+      "igdb_id": 358775,
+      "game_name": "Beatstar: No Doubt - \"Don't Speak\"",
+      "file": "missing/B/358775-beatstar-no-doubt-dont-speak.json"
+    },
+    {
       "igdb_id": 358790,
       "game_name": "Beatstar: No Doubt - \"Just a Girl\"",
       "file": "missing/B/358790-beatstar-no-doubt-just-a-girl.json"
+    },
+    {
+      "igdb_id": 358773,
+      "game_name": "Beatstar: Noisestorm - \"Crab Rave\"",
+      "file": "missing/B/358773-beatstar-noisestorm-crab-rave.json"
+    },
+    {
+      "igdb_id": 358778,
+      "game_name": "Beatstar: P!nk - \"Get the Party Started\"",
+      "file": "missing/B/358778-beatstar-p-nk-get-the-party-started.json"
     },
     {
       "igdb_id": 358792,
@@ -114687,9 +114782,39 @@
       "file": "missing/B/358802-beatstar-salt-n-pepa-push-it.json"
     },
     {
+      "igdb_id": 358758,
+      "game_name": "Beatstar: Sia - \"Chandelier\"",
+      "file": "missing/B/358758-beatstar-sia-chandelier.json"
+    },
+    {
+      "igdb_id": 358760,
+      "game_name": "Beatstar: Sia - \"Cheap Thrills\"",
+      "file": "missing/B/358760-beatstar-sia-cheap-thrills.json"
+    },
+    {
+      "igdb_id": 358748,
+      "game_name": "Beatstar: Soulja Boy - \"Crank That\"",
+      "file": "missing/B/358748-beatstar-soulja-boy-crank-that.json"
+    },
+    {
       "igdb_id": 358811,
       "game_name": "Beatstar: Stan Bush - \"The Touch\"",
       "file": "missing/B/358811-beatstar-stan-bush-the-touch.json"
+    },
+    {
+      "igdb_id": 358756,
+      "game_name": "Beatstar: Supercell - \"Brawl Stars Theme\"",
+      "file": "missing/B/358756-beatstar-supercell-brawl-stars-theme.json"
+    },
+    {
+      "igdb_id": 358763,
+      "game_name": "Beatstar: Supercell - \"Clash of Clans Theme\"",
+      "file": "missing/B/358763-beatstar-supercell-clash-of-clans-theme.json"
+    },
+    {
+      "igdb_id": 358764,
+      "game_name": "Beatstar: Supercell - \"Clash Royale Theme\"",
+      "file": "missing/B/358764-beatstar-supercell-clash-royale-theme.json"
     },
     {
       "igdb_id": 358782,
@@ -120935,6 +121060,11 @@
       "igdb_id": 163810,
       "game_name": "Beyond the Diorama: Caribou World",
       "file": "missing/B/163810-beyond-the-diorama-caribou-world.json"
+    },
+    {
+      "igdb_id": 358779,
+      "game_name": "Beyond the Doors",
+      "file": "missing/B/358779-beyond-the-doors.json"
     },
     {
       "igdb_id": 380009,
@@ -151777,6 +151907,11 @@
       "file": "missing/B/20278-brain-exercises-with-dr-kawashima.json"
     },
     {
+      "igdb_id": 358737,
+      "game_name": "Brain Explode",
+      "file": "missing/B/358737-brain-explode.json"
+    },
+    {
       "igdb_id": 167193,
       "game_name": "Brain Games",
       "file": "missing/B/167193-brain-games.json"
@@ -163670,6 +163805,11 @@
       "igdb_id": 193238,
       "game_name": "Bullfighter Neon",
       "file": "missing/B/193238-bullfighter-neon.json"
+    },
+    {
+      "igdb_id": 358745,
+      "game_name": "Bullfist",
+      "file": "missing/B/358745-bullfist.json"
     },
     {
       "igdb_id": 164314,
@@ -182750,6 +182890,11 @@
       "igdb_id": 59452,
       "game_name": "Castle Hassle",
       "file": "missing/C/59452-castle-hassle.json"
+    },
+    {
+      "igdb_id": 358746,
+      "game_name": "Castle Hearts",
+      "file": "missing/C/358746-castle-hearts.json"
     },
     {
       "igdb_id": 212741,
@@ -215780,6 +215925,11 @@
       "igdb_id": 338916,
       "game_name": "Coil's Containment",
       "file": "missing/C/338916-coils-containment.json"
+    },
+    {
+      "igdb_id": 358620,
+      "game_name": "Coiled Up Together",
+      "file": "missing/C/358620-coiled-up-together.json"
     },
     {
       "igdb_id": 314310,
@@ -264472,6 +264622,11 @@
       "file": "missing/D/313564-darkside-adventures-a-game-with-a-kitty-2.json"
     },
     {
+      "igdb_id": 358770,
+      "game_name": "Darksiders 4",
+      "file": "missing/D/358770-darksiders-4.json"
+    },
+    {
       "igdb_id": 119244,
       "game_name": "Darksiders Genesis",
       "file": "missing/D/119244-darksiders-genesis.json"
@@ -275480,6 +275635,11 @@
       "igdb_id": 272018,
       "game_name": "Decay",
       "file": "missing/D/272018-decay.json"
+    },
+    {
+      "igdb_id": 358621,
+      "game_name": "Decay in Crevice",
+      "file": "missing/D/358621-decay-in-crevice.json"
     },
     {
       "igdb_id": 56510,
@@ -342312,6 +342472,11 @@
       "file": "missing/E/292867-eggconsole-xak-pc-8801mkiisr.json"
     },
     {
+      "igdb_id": 358628,
+      "game_name": "Eggconsole Xak Precious Package: The Tower of Gazzel PC-8801mkIISR",
+      "file": "missing/E/358628-eggconsole-xak-precious-package-the-tower-of-gazzel-pc-8801mkiisr.json"
+    },
+    {
       "igdb_id": 378796,
       "game_name": "Eggconsole Xanadu MSX",
       "file": "missing/E/378796-eggconsole-xanadu-msx.json"
@@ -384625,6 +384790,11 @@
       "igdb_id": 43158,
       "game_name": "Fateholders of Tetsoidea",
       "file": "missing/F/43158-fateholders-of-tetsoidea.json"
+    },
+    {
+      "igdb_id": 358769,
+      "game_name": "Fatekeeper",
+      "file": "missing/F/358769-fatekeeper.json"
     },
     {
       "igdb_id": 121003,
@@ -460127,6 +460297,11 @@
       "file": "missing/G/2263-gothic-3.json"
     },
     {
+      "igdb_id": 358766,
+      "game_name": "Gothic 3 Classic",
+      "file": "missing/G/358766-gothic-3-classic.json"
+    },
+    {
       "igdb_id": 133884,
       "game_name": "Gothic 3: Collector's Edition",
       "file": "missing/G/133884-gothic-3-collectors-edition.json"
@@ -478427,6 +478602,11 @@
       "file": "missing/H/231993-haiku-the-baby-robot.json"
     },
     {
+      "igdb_id": 358744,
+      "game_name": "Haikyu!! Fly High",
+      "file": "missing/H/358744-haikyu-fly-high.json"
+    },
+    {
       "igdb_id": 136931,
       "game_name": "Haikyu!! Tsunage! Itadaki no Keshiki!!",
       "file": "missing/H/136931-haikyu-tsunage-itadaki-no-keshiki.json"
@@ -487020,6 +487200,16 @@
       "igdb_id": 19393,
       "game_name": "Harvest Moon: Skytree Village",
       "file": "missing/H/19393-harvest-moon-skytree-village.json"
+    },
+    {
+      "igdb_id": 358623,
+      "game_name": "Harvest Moon: Skytree Village",
+      "file": "missing/H/358623-harvest-moon-skytree-village.json"
+    },
+    {
+      "igdb_id": 358624,
+      "game_name": "Harvest Moon: The Lost Valley",
+      "file": "missing/H/358624-harvest-moon-the-lost-valley.json"
     },
     {
       "igdb_id": 3392,
@@ -561352,6 +561542,11 @@
       "file": "missing/J/328518-jalecolle-famicom-ver-saiyuuki-world.json"
     },
     {
+      "igdb_id": 358627,
+      "game_name": "Jalecolle Famicom Ver. Saiyuuki World II: The Demon God of Heaven - & Whomp'em",
+      "file": "missing/J/358627-jalecolle-famicom-ver-saiyuuki-world-ii-the-demon-god-of-heaven-and-whompem.json"
+    },
+    {
       "igdb_id": 420688,
       "game_name": "Jalecolle Famicom Ver. Shatterhand",
       "file": "missing/J/420688-jalecolle-famicom-ver-shatterhand.json"
@@ -621700,6 +621895,11 @@
       "igdb_id": 245457,
       "game_name": "Lexibook Electronic Thesaurus: Model DC 750",
       "file": "missing/L/245457-lexibook-electronic-thesaurus-model-dc-750.json"
+    },
+    {
+      "igdb_id": 358740,
+      "game_name": "Lexibook TV Game Console JG7415",
+      "file": "missing/L/358740-lexibook-tv-game-console-jg7415.json"
     },
     {
       "igdb_id": 369673,
@@ -799532,6 +799732,11 @@
       "file": "missing/P/268522-paddock-note-95.json"
     },
     {
+      "igdb_id": 358622,
+      "game_name": "Paddy the Penguin",
+      "file": "missing/P/358622-paddy-the-penguin.json"
+    },
+    {
       "igdb_id": 409553,
       "game_name": "Padel Pro World Tour",
       "file": "missing/P/409553-padel-pro-world-tour.json"
@@ -863292,6 +863497,11 @@
       "file": "missing/P/187817-project-kolo.json"
     },
     {
+      "igdb_id": 358741,
+      "game_name": "Project Kouvola",
+      "file": "missing/P/358741-project-kouvola.json"
+    },
+    {
       "igdb_id": 188474,
       "game_name": "Project Kunai",
       "file": "missing/P/188474-project-kunai.json"
@@ -880515,6 +880725,11 @@
       "igdb_id": 371015,
       "game_name": "Quiz Avenue",
       "file": "missing/Q/371015-quiz-avenue.json"
+    },
+    {
+      "igdb_id": 358626,
+      "game_name": "Quiz Brain Workout",
+      "file": "missing/Q/358626-quiz-brain-workout.json"
     },
     {
       "igdb_id": 97683,
@@ -937182,6 +937397,11 @@
       "file": "missing/S/28234-sacred-2-gold.json"
     },
     {
+      "igdb_id": 358752,
+      "game_name": "Sacred 2 Remaster",
+      "file": "missing/S/358752-sacred-2-remaster.json"
+    },
+    {
       "igdb_id": 1043,
       "game_name": "Sacred 2: Fallen Angel",
       "file": "missing/S/1043-sacred-2-fallen-angel.json"
@@ -966090,6 +966310,11 @@
       "igdb_id": 400325,
       "game_name": "Shane's Trains",
       "file": "missing/S/400325-shanes-trains.json"
+    },
+    {
+      "igdb_id": 358738,
+      "game_name": "Shanghai",
+      "file": "missing/S/358738-shanghai.json"
     },
     {
       "igdb_id": 64739,
@@ -1036032,6 +1036257,11 @@
       "file": "missing/S/127960-star-jolt.json"
     },
     {
+      "igdb_id": 358625,
+      "game_name": "Star Jumper: Cosmic Adventure",
+      "file": "missing/S/358625-star-jumper-cosmic-adventure.json"
+    },
+    {
       "igdb_id": 255251,
       "game_name": "Star Keeper",
       "file": "missing/S/255251-star-keeper.json"
@@ -1048600,6 +1048830,11 @@
       "igdb_id": 29568,
       "game_name": "Stolen Steel VR",
       "file": "missing/S/29568-stolen-steel-vr.json"
+    },
+    {
+      "igdb_id": 358750,
+      "game_name": "Stomach",
+      "file": "missing/S/358750-stomach.json"
     },
     {
       "igdb_id": 27294,
@@ -1130642,6 +1130877,11 @@
       "file": "missing/T/391890-the-guiding-spirit.json"
     },
     {
+      "igdb_id": 358761,
+      "game_name": "The Guild 1 Remake: Europa 1410",
+      "file": "missing/T/358761-the-guild-1-remake-europa-1410.json"
+    },
+    {
       "igdb_id": 6258,
       "game_name": "The Guild 2",
       "file": "missing/T/6258-the-guild-2.json"
@@ -1212567,6 +1212807,11 @@
       "file": "missing/T/81157-trash-squad.json"
     },
     {
+      "igdb_id": 358757,
+      "game_name": "Trash Tag",
+      "file": "missing/T/358757-trash-tag.json"
+    },
+    {
       "igdb_id": 214957,
       "game_name": "Trash Taste: The Boys Order Pizza",
       "file": "missing/T/214957-trash-taste-the-boys-order-pizza.json"
@@ -1227300,6 +1227545,11 @@
       "igdb_id": 177253,
       "game_name": "Tyrant's Realm",
       "file": "missing/T/177253-tyrants-realm.json"
+    },
+    {
+      "igdb_id": 358739,
+      "game_name": "Tyrant's Realm: Forbidden Fortune",
+      "file": "missing/T/358739-tyrants-realm-forbidden-fortune.json"
     },
     {
       "igdb_id": 406753,
