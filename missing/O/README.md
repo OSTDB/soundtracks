@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocaso | 278612 | [278612-ocaso.json](./278612-ocaso.json) |
 | Occhio | 31740 | [31740-occhio.json](./31740-occhio.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
+| Occlude | 340862 | [340862-occlude.json](./340862-occlude.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Case Files: Case One | 273254 | [273254-occult-case-files-case-one.json](./273254-occult-case-files-case-one.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
@@ -2748,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OOTP Baseball Go 23 | 211280 | [211280-ootp-baseball-go-23.json](./211280-ootp-baseball-go-23.json) |
 | OOTP Baseball Go! | 141512 | [141512-ootp-baseball-go.json](./141512-ootp-baseball-go.json) |
 | Ooze Keeper | 318118 | [318118-ooze-keeper.json](./318118-ooze-keeper.json) |
+| Ooze Less | 340825 | [340825-ooze-less.json](./340825-ooze-less.json) |
 | Ooze Odyssey | 260231 | [260231-ooze-odyssey.json](./260231-ooze-odyssey.json) |
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
 | Ooze: Creepy Nites | 71746 | [71746-ooze-creepy-nites.json](./71746-ooze-creepy-nites.json) |
@@ -3980,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otto Matic | 67426 | [67426-otto-matic.json](./67426-otto-matic.json) |
 | Otto the Odd Ostrich | 67934 | [67934-otto-the-odd-ostrich.json](./67934-otto-the-odd-ostrich.json) |
 | Otto's Escape | 291699 | [291699-ottos-escape.json](./291699-ottos-escape.json) |
+| Otto’s Galactic Groove!! | 340851 | [340851-otto-s-galactic-groove.json](./340851-otto-s-galactic-groove.json) |
 | Otto's Magic Blocks | 208926 | [208926-ottos-magic-blocks.json](./208926-ottos-magic-blocks.json) |
 | Otto's Ottifanten: Kommando Stortebeker | 50559 | [50559-ottos-ottifanten-kommando-stortebeker.json](./50559-ottos-ottifanten-kommando-stortebeker.json) |
 | Ottoman Empire: Spectacular Millennium | 88121 | [88121-ottoman-empire-spectacular-millennium.json](./88121-ottoman-empire-spectacular-millennium.json) |
