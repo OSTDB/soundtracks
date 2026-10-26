@@ -6354,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Path - Word Puzzle Game | 105762 | [105762-word-path-word-puzzle-game.json](./105762-word-path-word-puzzle-game.json) |
 | Word Peaks | 194883 | [194883-word-peaks.json](./194883-word-peaks.json) |
 | Word Pirate | 64854 | [64854-word-pirate.json](./64854-word-pirate.json) |
+| Word Play | 344825 | [344825-word-play.json](./344825-word-play.json) |
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
 | Word Puzzles by Powgi: Deluxe Edition | 140414 | [140414-word-puzzles-by-powgi-deluxe-edition.json](./140414-word-puzzles-by-powgi-deluxe-edition.json) |
@@ -6860,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Fishing | 33988 | [33988-world-of-fishing.json](./33988-world-of-fishing.json) |
 | World of Football | 230297 | [230297-world-of-football.json](./230297-world-of-football.json) |
 | World of Fundo | 164083 | [164083-world-of-fundo.json](./164083-world-of-fundo.json) |
+| World of Gibbets | 344827 | [344827-world-of-gibbets.json](./344827-world-of-gibbets.json) |
 | World of Glue | 63397 | [63397-world-of-glue.json](./63397-world-of-glue.json) |
 | World of Golf | 31814 | [31814-world-of-golf.json](./31814-world-of-golf.json) |
 | World of Goo Remastered | 250935 | [250935-world-of-goo-remastered.json](./250935-world-of-goo-remastered.json) |
@@ -6992,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft Classic | 75379 | [75379-world-of-warcraft-classic.json](./75379-world-of-warcraft-classic.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
 | World of Warcraft: 15th Anniversary - Collector's Edition | 136120 | [136120-world-of-warcraft-15th-anniversary-collectors-edition.json](./136120-world-of-warcraft-15th-anniversary-collectors-edition.json) |
+| World of Warcraft: Assault on Blackwing Lair | 345158 | [345158-world-of-warcraft-assault-on-blackwing-lair.json](./345158-world-of-warcraft-assault-on-blackwing-lair.json) |
 | World of Warcraft: Battle for Azeroth | 75380 | [75380-world-of-warcraft-battle-for-azeroth.json](./75380-world-of-warcraft-battle-for-azeroth.json) |
 | World of Warcraft: Burning Crusade Classic | 143683 | [143683-world-of-warcraft-burning-crusade-classic.json](./143683-world-of-warcraft-burning-crusade-classic.json) |
 | World of Warcraft: Burning Crusade Classic - Anniversary Edition | 390778 | [390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json](./390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json) |
