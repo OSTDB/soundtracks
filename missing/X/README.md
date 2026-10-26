@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
 | Xcalibur 2 | 257245 | [257245-xcalibur-2.json](./257245-xcalibur-2.json) |
 | XCavalypse | 33412 | [33412-xcavalypse.json](./33412-xcavalypse.json) |
+| Xcavator 2025 | 381088 | [381088-xcavator-2025.json](./381088-xcavator-2025.json) |
 | XCOM 2: Alien Hunters | 19451 | [19451-xcom-2-alien-hunters.json](./19451-xcom-2-alien-hunters.json) |
 | XCOM 2: Anarchy's Children | 18365 | [18365-xcom-2-anarchys-children.json](./18365-xcom-2-anarchys-children.json) |
 | XCOM 2: Deluxe Edition | 21427 | [21427-xcom-2-deluxe-edition.json](./21427-xcom-2-deluxe-edition.json) |
