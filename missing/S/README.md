@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saihate no Ima | 62736 | [62736-saihate-no-ima.json](./62736-saihate-no-ima.json) |
 | Saihate Station | 301102 | [301102-saihate-station.json](./301102-saihate-station.json) |
 | Saihate Station: Twilight Railway | 337103 | [337103-saihate-station-twilight-railway.json](./337103-saihate-station-twilight-railway.json) |
+| Saihate wo Mezasu | 350916 | [350916-saihate-wo-mezasu.json](./350916-saihate-wo-mezasu.json) |
 | Saikai Sotsugyou Ryokou '98 | 263954 | [263954-saikai-sotsugyou-ryokou-98.json](./263954-saikai-sotsugyou-ryokou-98.json) |
 | Saiki Kusuo no Psi Nan: Shijou Psi Dai no Psi Nan!? | 136888 | [136888-saiki-kusuo-no-psi-nan-shijou-psi-dai-no-psi-nan.json](./136888-saiki-kusuo-no-psi-nan-shijou-psi-dai-no-psi-nan.json) |
 | Saikin Koi Shiteru? | 123410 | [123410-saikin-koi-shiteru.json](./123410-saikin-koi-shiteru.json) |
@@ -2854,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
 | SCP: Bloodwater | 272936 | [272936-scp-bloodwater.json](./272936-scp-bloodwater.json) |
 | Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
+| SCP: CB Multiplayer Reborn | 350939 | [350939-scp-cb-multiplayer-reborn.json](./350939-scp-cb-multiplayer-reborn.json) |
 | SCP: Chamberz | 270580 | [270580-scp-chamberz.json](./270580-scp-chamberz.json) |
 | SCP: Containment Breach | 20193 | [20193-scp-containment-breach.json](./20193-scp-containment-breach.json) |
 | SCP: Containment Breach Mobile | 174756 | [174756-scp-containment-breach-mobile.json](./174756-scp-containment-breach-mobile.json) |
@@ -9334,6 +9336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimTunes | 74020 | [74020-simtunes.json](./74020-simtunes.json) |
 | Simulacra 2 | 122134 | [122134-simulacra-2.json](./122134-simulacra-2.json) |
 | Simulacra 3 | 198859 | [198859-simulacra-3.json](./198859-simulacra-3.json) |
+| Simulacra 3: Deluxe Edition | 350907 | [350907-simulacra-3-deluxe-edition.json](./350907-simulacra-3-deluxe-edition.json) |
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
 | Simulacrum | 201125 | [201125-simulacrum.json](./201125-simulacrum.json) |
@@ -15711,6 +15714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundodger 2 | 140864 | [140864-soundodger-2.json](./140864-soundodger-2.json) |
 | Soundodger+ | 14408 | [14408-soundodger.json](./14408-soundodger.json) |
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
+| Sounds of Her Love 2 | 350901 | [350901-sounds-of-her-love-2.json](./350901-sounds-of-her-love-2.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
 | Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
 | Sounds of War | 297351 | [297351-sounds-of-war.json](./297351-sounds-of-war.json) |
@@ -28668,6 +28672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
 | Survive: Forgotten and Abandoned | 270185 | [270185-survive-forgotten-and-abandoned.json](./270185-survive-forgotten-and-abandoned.json) |
 | Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
+| Survive: The AI | 350922 | [350922-survive-the-ai.json](./350922-survive-the-ai.json) |
 | Survive: The Alien Tracing | 360203 | [360203-survive-the-alien-tracing.json](./360203-survive-the-alien-tracing.json) |
 | Survive: The King Killer | 86588 | [86588-survive-the-king-killer.json](./86588-survive-the-king-killer.json) |
 | Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
