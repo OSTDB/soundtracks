@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Kawasaki UTV Pack | 376283 | [376283-way-of-the-hunter-kawasaki-utv-pack.json](./376283-way-of-the-hunter-kawasaki-utv-pack.json) |
 | Way of the Hunter: Lintukoto Reserve | 312278 | [312278-way-of-the-hunter-lintukoto-reserve.json](./312278-way-of-the-hunter-lintukoto-reserve.json) |
 | Way of the Hunter: Map Pack 1 | 378557 | [378557-way-of-the-hunter-map-pack-1.json](./378557-way-of-the-hunter-map-pack-1.json) |
+| Way of the Hunter: Night Hunting Pack | 349237 | [349237-way-of-the-hunter-night-hunting-pack.json](./349237-way-of-the-hunter-night-hunting-pack.json) |
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
 | Way of the Hunter: Steyr Arms Pack | 272878 | [272878-way-of-the-hunter-steyr-arms-pack.json](./272878-way-of-the-hunter-steyr-arms-pack.json) |
 | Way of the Hunter: Tikamoon Plains | 258834 | [258834-way-of-the-hunter-tikamoon-plains.json](./258834-way-of-the-hunter-tikamoon-plains.json) |
