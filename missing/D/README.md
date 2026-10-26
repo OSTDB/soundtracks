@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Interval | 185936 | [185936-dark-interval.json](./185936-dark-interval.json) |
 | Dark Invasion VR: Doomsday | 204923 | [204923-dark-invasion-vr-doomsday.json](./204923-dark-invasion-vr-doomsday.json) |
+| Dark Investigation: Experiment | 349226 | [349226-dark-investigation-experiment.json](./349226-dark-investigation-experiment.json) |
 | Dark is the Void | 276848 | [276848-dark-is-the-void.json](./276848-dark-is-the-void.json) |
 | Dark Island | 128953 | [128953-dark-island.json](./128953-dark-island.json) |
 | Dark Island | 147961 | [147961-dark-island.json](./147961-dark-island.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashwalk Dueling | 189376 | [189376-dashwalk-dueling.json](./189376-dashwalk-dueling.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
 | Dashy Ducks | 58623 | [58623-dashy-ducks.json](./58623-dashy-ducks.json) |
+| Dashy No Buttstomp | 349255 | [349255-dashy-no-buttstomp.json](./349255-dashy-no-buttstomp.json) |
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
 | DaSi | 80637 | [80637-dasi.json](./80637-dasi.json) |
 | Dasra's Cabinet | 139693 | [139693-dasras-cabinet.json](./139693-dasras-cabinet.json) |
