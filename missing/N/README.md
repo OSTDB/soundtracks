@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee: Jelly Chaos - Collector's Edition | 417515 | [417515-new-yankee-jelly-chaos-collectors-edition.json](./417515-new-yankee-jelly-chaos-collectors-edition.json) |
 | New Yankee: Karma Tales | 235833 | [235833-new-yankee-karma-tales.json](./235833-new-yankee-karma-tales.json) |
 | New Yankee: Mary's Dark Side | 258010 | [258010-new-yankee-marys-dark-side.json](./258010-new-yankee-marys-dark-side.json) |
+| New Yankee: Pirate Trap | 371936 | [371936-new-yankee-pirate-trap.json](./371936-new-yankee-pirate-trap.json) |
 | New Yankee: The Way of the Knight | 372224 | [372224-new-yankee-the-way-of-the-knight.json](./372224-new-yankee-the-way-of-the-knight.json) |
 | New Yankee: The Way of the Knight - Collector's Edition | 337255 | [337255-new-yankee-the-way-of-the-knight-collectors-edition.json](./337255-new-yankee-the-way-of-the-knight-collectors-edition.json) |
 | New Yankee: Through the History Mirror | 341371 | [341371-new-yankee-through-the-history-mirror.json](./341371-new-yankee-through-the-history-mirror.json) |
