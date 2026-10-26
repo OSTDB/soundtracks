@@ -8065,6 +8065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Dungeon | 389487 | [389487-forest-dungeon.json](./389487-forest-dungeon.json) |
 | Forest Escape | 74230 | [74230-forest-escape.json](./74230-forest-escape.json) |
 | Forest Escape: Last Train | 389724 | [389724-forest-escape-last-train.json](./389724-forest-escape-last-train.json) |
+| Forest Fables | 347047 | [347047-forest-fables.json](./347047-forest-fables.json) |
 | Forest Factory | 358893 | [358893-forest-factory.json](./358893-forest-factory.json) |
 | Forest Fantasy | 285542 | [285542-forest-fantasy.json](./285542-forest-fantasy.json) |
 | Forest Farm | 167556 | [167556-forest-farm.json](./167556-forest-farm.json) |
