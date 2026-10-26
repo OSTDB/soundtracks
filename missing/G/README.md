@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Tester Quest | 283308 | [283308-game-tester-quest.json](./283308-game-tester-quest.json) |
 | Game Time Glizzys | 266298 | [266298-game-time-glizzys.json](./266298-game-time-glizzys.json) |
 | Game Title | 139818 | [139818-game-title.json](./139818-game-title.json) |
+| Game Title | 376524 | [376524-game-title.json](./376524-game-title.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Game Tree | 275231 | [275231-game-tree.json](./275231-game-tree.json) |
 | Game Tube | 76912 | [76912-game-tube.json](./76912-game-tube.json) |
@@ -2889,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Goating | 386502 | [386502-get-goating.json](./386502-get-goating.json) |
 | Get Good by Vypur | 132536 | [132536-get-good-by-vypur.json](./132536-get-good-by-vypur.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
+| Get In Get Out | 376434 | [376434-get-in-get-out.json](./376434-get-in-get-out.json) |
 | Get in the Car, Loser! | 107601 | [107601-get-in-the-car-loser.json](./107601-get-in-the-car-loser.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | get in the hole | 381049 | [381049-get-in-the-hole.json](./381049-get-in-the-hole.json) |
@@ -4521,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Fast | 252570 | [252570-go-go-fast.json](./252570-go-go-fast.json) |
 | Go Go Galago | 61732 | [61732-go-go-galago.json](./61732-go-go-galago.json) |
 | Go Go Golf | 60885 | [60885-go-go-golf.json](./60885-go-go-golf.json) |
+| Go Go Gummo | 376523 | [376523-go-go-gummo.json](./376523-go-go-gummo.json) |
 | Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
 | Go go mr yamaguchi | 39811 | [39811-go-go-mr-yamaguchi.json](./39811-go-go-mr-yamaguchi.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
