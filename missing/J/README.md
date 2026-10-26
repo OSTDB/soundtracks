@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey To Paradise | 411361 | [411361-journey-to-paradise.json](./411361-journey-to-paradise.json) |
 | Journey to Planet Earth | 128950 | [128950-journey-to-planet-earth.json](./128950-journey-to-planet-earth.json) |
 | Journey to Silius | 9159 | [9159-journey-to-silius.json](./9159-journey-to-silius.json) |
+| Journey to Slimetopia | 371285 | [371285-journey-to-slimetopia.json](./371285-journey-to-slimetopia.json) |
 | Journey to Stonehenge | 69812 | [69812-journey-to-stonehenge.json](./69812-journey-to-stonehenge.json) |
 | Journey to the Blue Mountain | 231083 | [231083-journey-to-the-blue-mountain.json](./231083-journey-to-the-blue-mountain.json) |
 | Journey to the Center of Hawkthorne | 47032 | [47032-journey-to-the-center-of-hawkthorne.json](./47032-journey-to-the-center-of-hawkthorne.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumputi Heroes | 86425 | [86425-jumputi-heroes.json](./86425-jumputi-heroes.json) |
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
 | Jumpy 1D: Christmas Edition | 273950 | [273950-jumpy-1d-christmas-edition.json](./273950-jumpy-1d-christmas-edition.json) |
+| Jumpy Ball Happy Fun Time | 371302 | [371302-jumpy-ball-happy-fun-time.json](./371302-jumpy-ball-happy-fun-time.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
 | Jumpy Dog | 172752 | [172752-jumpy-dog.json](./172752-jumpy-dog.json) |
 | Jumpy Dunk! | 96755 | [96755-jumpy-dunk.json](./96755-jumpy-dunk.json) |
