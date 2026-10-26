@@ -5009,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
 | Eternal Hour: Golden Hour | 76364 | [76364-eternal-hour-golden-hour.json](./76364-eternal-hour-golden-hour.json) |
 | Eternal Hunger | 397939 | [397939-eternal-hunger.json](./397939-eternal-hunger.json) |
+| Eternal Hunt | 351665 | [351665-eternal-hunt.json](./351665-eternal-hunt.json) |
 | Eternal Hunt | 370627 | [370627-eternal-hunt.json](./370627-eternal-hunt.json) |
 | Eternal Journey: New Atlantis | 52983 | [52983-eternal-journey-new-atlantis.json](./52983-eternal-journey-new-atlantis.json) |
 | Eternal Journey: New Atlantis Collector's Edition | 52982 | [52982-eternal-journey-new-atlantis-collectors-edition.json](./52982-eternal-journey-new-atlantis-collectors-edition.json) |
