@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Royale Tycoon: Incremental Merge Battle Game | 134289 | [134289-idle-royale-tycoon-incremental-merge-battle-game.json](./134289-idle-royale-tycoon-incremental-merge-battle-game.json) |
 | Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
 | Idle Run | 258389 | [258389-idle-run.json](./258389-idle-run.json) |
+| Idle Run Aya | 338100 | [338100-idle-run-aya.json](./338100-idle-run-aya.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idle Sailor | 390740 | [390740-idle-sailor.json](./390740-idle-sailor.json) |
 | Idle Sand Tycoon | 245205 | [245205-idle-sand-tycoon.json](./245205-idle-sand-tycoon.json) |
