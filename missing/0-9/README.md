@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Minutes to Kill | 315818 | [315818-5-minutes-to-kill.json](./315818-5-minutes-to-kill.json) |
 | 5 Minutes to Kill Yourself | 92375 | [92375-5-minutes-to-kill-yourself.json](./92375-5-minutes-to-kill-yourself.json) |
 | 5 Minutes until Goodbye | 300970 | [300970-5-minutes-until-goodbye.json](./300970-5-minutes-until-goodbye.json) |
+| 5 Minutes Until Self-Destruction | 353763 | [353763-5-minutes-until-self-destruction.json](./353763-5-minutes-until-self-destruction.json) |
 | 5 Minutes: DLC 1 | 377395 | [377395-5-minutes-dlc-1.json](./377395-5-minutes-dlc-1.json) |
 | 5 Minutes: DLC 2 | 377394 | [377394-5-minutes-dlc-2.json](./377394-5-minutes-dlc-2.json) |
 | 5 Minutes: DLC Final | 377393 | [377393-5-minutes-dlc-final.json](./377393-5-minutes-dlc-final.json) |
