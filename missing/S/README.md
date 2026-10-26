@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saghala: Heroes of the Last World | 195646 | [195646-saghala-heroes-of-the-last-world.json](./195646-saghala-heroes-of-the-last-world.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
+| Sago Mini Trips+ | 355989 | [355989-sago-mini-trips.json](./355989-sago-mini-trips.json) |
 | Sagrada | 132490 | [132490-sagrada.json](./132490-sagrada.json) |
 | Sahara Storms WWIII | 239713 | [239713-sahara-storms-wwiii.json](./239713-sahara-storms-wwiii.json) |
 | Sahara's Underworld | 367744 | [367744-saharas-underworld.json](./367744-saharas-underworld.json) |
@@ -2160,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
 | ScaleBox | 344714 | [344714-scalebox.json](./344714-scalebox.json) |
 | ScaleMan | 223920 | [223920-scaleman.json](./223920-scaleman.json) |
+| Scalemarch | 356012 | [356012-scalemarch.json](./356012-scalemarch.json) |
 | Scaler | 312135 | [312135-scaler.json](./312135-scaler.json) |
 | Scaler | 4095 | [4095-scaler.json](./4095-scaler.json) |
 | Scales of Justice | 311879 | [311879-scales-of-justice.json](./311879-scales-of-justice.json) |
@@ -10857,6 +10859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash of Sword | 112649 | [112649-slash-of-sword.json](./112649-slash-of-sword.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
 | Slash or Die 2 | 105258 | [105258-slash-or-die-2.json](./105258-slash-or-die-2.json) |
+| Slash Quest | 355993 | [355993-slash-quest.json](./355993-slash-quest.json) |
 | Slash Quest: The King Kabbage Mystery | 400405 | [400405-slash-quest-the-king-kabbage-mystery.json](./400405-slash-quest-the-king-kabbage-mystery.json) |
 | Slash Quest! | 171982 | [171982-slash-quest.json](./171982-slash-quest.json) |
 | Slash Roll | 132081 | [132081-slash-roll.json](./132081-slash-roll.json) |
@@ -10889,6 +10892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Souls | 18107 | [18107-slashy-souls.json](./18107-slashy-souls.json) |
 | Slashy Sushi | 99268 | [99268-slashy-sushi.json](./99268-slashy-sushi.json) |
 | SlashZero | 394680 | [394680-slashzero.json](./394680-slashzero.json) |
+| Slashzone | 356014 | [356014-slashzone.json](./356014-slashzone.json) |
 | Slate | 312714 | [312714-slate.json](./312714-slate.json) |
 | Slaugher League | 141529 | [141529-slaugher-league.json](./141529-slaugher-league.json) |
 | Slaughter | 383031 | [383031-slaughter.json](./383031-slaughter.json) |
@@ -18425,6 +18429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritus | 203783 | [203783-spiritus.json](./203783-spiritus.json) |
 | Spiritus 2 | 276972 | [276972-spiritus-2.json](./276972-spiritus-2.json) |
 | Spiritus Astrum | 217355 | [217355-spiritus-astrum.json](./217355-spiritus-astrum.json) |
+| SpiritVale | 356138 | [356138-spiritvale.json](./356138-spiritvale.json) |
 | Spiritwell | 222348 | [222348-spiritwell.json](./222348-spiritwell.json) |
 | Spirou | 19757 | [19757-spirou.json](./19757-spirou.json) |
 | Spirou | 368890 | [368890-spirou.json](./368890-spirou.json) |
@@ -26508,6 +26513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Dimensions 2 | 134959 | [134959-super-mario-bros-dimensions-2.json](./134959-super-mario-bros-dimensions-2.json) |
+| Super Mario Bros. Dimensions Deluxe | 356137 | [356137-super-mario-bros-dimensions-deluxe.json](./356137-super-mario-bros-dimensions-deluxe.json) |
 | Super Mario Bros. DX | 372198 | [372198-super-mario-bros-dx.json](./372198-super-mario-bros-dx.json) |
 | Super Mario Bros. Extreme Adventure | 314104 | [314104-super-mario-bros-extreme-adventure.json](./314104-super-mario-bros-extreme-adventure.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
@@ -26887,6 +26893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Y-Faster | 304133 | [304133-super-metroid-y-faster.json](./304133-super-metroid-y-faster.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
 | Super Mike: Classic Adventure Game | 199810 | [199810-super-mike-classic-adventure-game.json](./199810-super-mike-classic-adventure-game.json) |
+| Super Miller Land | 355998 | [355998-super-miller-land.json](./355998-super-miller-land.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
 | Super Miners | 333792 | [333792-super-miners.json](./333792-super-miners.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
@@ -27014,6 +27021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nitrous Zoomer | 114982 | [114982-super-nitrous-zoomer.json](./114982-super-nitrous-zoomer.json) |
 | Super No Crying in Baseball | 132504 | [132504-super-no-crying-in-baseball.json](./132504-super-no-crying-in-baseball.json) |
 | Super Noah's Ark 3D | 11168 | [11168-super-noahs-ark-3d.json](./11168-super-noahs-ark-3d.json) |
+| Super Nodage Game Maker | 356010 | [356010-super-nodage-game-maker.json](./356010-super-nodage-game-maker.json) |
 | Super Nodage World | 200916 | [200916-super-nodage-world.json](./200916-super-nodage-world.json) |
 | Super Nosebleed Land | 105075 | [105075-super-nosebleed-land.json](./105075-super-nosebleed-land.json) |
 | Super Nostalgia World | 267972 | [267972-super-nostalgia-world.json](./267972-super-nostalgia-world.json) |
@@ -30075,10 +30083,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: League of Legends - "Legends Never Die" | 353649 | [353649-synth-riders-league-of-legends-legends-never-die.json](./353649-synth-riders-league-of-legends-legends-never-die.json) |
 | Synth Riders: Lindsey Stirling - "First Light" | 356173 | [356173-synth-riders-lindsey-stirling-first-light.json](./356173-synth-riders-lindsey-stirling-first-light.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
+| Synth Riders: Lindsey Stirling - "Shadows" | 356117 | [356117-synth-riders-lindsey-stirling-shadows.json](./356117-synth-riders-lindsey-stirling-shadows.json) |
 | Synth Riders: Lindsey Stirling - "Underground" | 353651 | [353651-synth-riders-lindsey-stirling-underground.json](./353651-synth-riders-lindsey-stirling-underground.json) |
 | Synth Riders: Monstercat Music Pack | 356831 | [356831-synth-riders-monstercat-music-pack.json](./356831-synth-riders-monstercat-music-pack.json) |
 | Synth Riders: Monstercat Music Pack | 382180 | [382180-synth-riders-monstercat-music-pack.json](./382180-synth-riders-monstercat-music-pack.json) |
 | Synth Riders: Muse - "Algorithm (Alternate Reality Version)" | 353653 | [353653-synth-riders-muse-algorithm-alternate-reality-version.json](./353653-synth-riders-muse-algorithm-alternate-reality-version.json) |
+| Synth Riders: Muse - "Madness" | 356118 | [356118-synth-riders-muse-madness.json](./356118-synth-riders-muse-madness.json) |
 | Synth Riders: Muse - "Pressure" | 356083 | [356083-synth-riders-muse-pressure.json](./356083-synth-riders-muse-pressure.json) |
 | Synth Riders: Muse - "Reapers" | 356174 | [356174-synth-riders-muse-reapers.json](./356174-synth-riders-muse-reapers.json) |
 | Synth Riders: Muse - "Starlight" | 353650 | [353650-synth-riders-muse-starlight.json](./353650-synth-riders-muse-starlight.json) |
