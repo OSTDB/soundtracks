@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred | 328 | [328-sacred.json](./328-sacred.json) |
 | Sacred | 330355 | [330355-sacred.json](./330355-sacred.json) |
 | Sacred 2 Gold | 28234 | [28234-sacred-2-gold.json](./28234-sacred-2-gold.json) |
+| Sacred 2 Remaster | 358752 | [358752-sacred-2-remaster.json](./358752-sacred-2-remaster.json) |
 | Sacred 2: Fallen Angel | 1043 | [1043-sacred-2-fallen-angel.json](./1043-sacred-2-fallen-angel.json) |
 | Sacred 2: Fallen Angel - Collector's Edition | 50329 | [50329-sacred-2-fallen-angel-collectors-edition.json](./50329-sacred-2-fallen-angel-collectors-edition.json) |
 | Sacred 2: Ice and Blood | 8891 | [8891-sacred-2-ice-and-blood.json](./8891-sacred-2-ice-and-blood.json) |
@@ -6034,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanchuchameru | 233952 | [233952-shanchuchameru.json](./233952-shanchuchameru.json) |
 | Shane Warne's Cricket Test Interactive DVD Game | 352193 | [352193-shane-warnes-cricket-test-interactive-dvd-game.json](./352193-shane-warnes-cricket-test-interactive-dvd-game.json) |
 | Shane's Trains | 400325 | [400325-shanes-trains.json](./400325-shanes-trains.json) |
+| Shanghai | 358738 | [358738-shanghai.json](./358738-shanghai.json) |
 | Shanghai | 64739 | [64739-shanghai.json](./64739-shanghai.json) |
 | Shanghai Advance | 49782 | [49782-shanghai-advance.json](./49782-shanghai-advance.json) |
 | Shanghai Double Pack | 128644 | [128644-shanghai-double-pack.json](./128644-shanghai-double-pack.json) |
@@ -20021,6 +20023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Jammer | 366123 | [366123-star-jammer.json](./366123-star-jammer.json) |
 | Star Jet Alpha | 197055 | [197055-star-jet-alpha.json](./197055-star-jet-alpha.json) |
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
+| Star Jumper: Cosmic Adventure | 358625 | [358625-star-jumper-cosmic-adventure.json](./358625-star-jumper-cosmic-adventure.json) |
 | Star Keeper | 255251 | [255251-star-keeper.json](./255251-star-keeper.json) |
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
 | Star Knight: Order of the Vortex | 253847 | [253847-star-knight-order-of-the-vortex.json](./253847-star-knight-order-of-the-vortex.json) |
@@ -22534,6 +22537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Realm Survivors | 325324 | [325324-stolen-realm-survivors.json](./325324-stolen-realm-survivors.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
+| Stomach | 358750 | [358750-stomach.json](./358750-stomach.json) |
 | Stomp | 27294 | [27294-stomp.json](./27294-stomp.json) |
 | Stomp | 91539 | [91539-stomp.json](./91539-stomp.json) |
 | Stomp and the Sword of Miracles | 356053 | [356053-stomp-and-the-sword-of-miracles.json](./356053-stomp-and-the-sword-of-miracles.json) |
