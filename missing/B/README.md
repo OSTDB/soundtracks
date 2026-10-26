@@ -812,7 +812,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2666,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Serial Shooter | 355140 | [355140-basketball-serial-shooter.json](./355140-basketball-serial-shooter.json) |
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
 | Basketball Simulator | 255061 | [255061-basketball-simulator.json](./255061-basketball-simulator.json) |
+| Basketball Simulator | 348153 | [348153-basketball-simulator.json](./348153-basketball-simulator.json) |
 | Basketball Slam! | 237651 | [237651-basketball-slam.json](./237651-basketball-slam.json) |
 | Basketball Slum Dunk 2024 | 308652 | [308652-basketball-slum-dunk-2024.json](./308652-basketball-slum-dunk-2024.json) |
 | BasketBall Street Hero | 239122 | [239122-basketball-street-hero.json](./239122-basketball-street-hero.json) |
@@ -8119,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladeline VR | 111428 | [111428-bladeline-vr.json](./111428-bladeline-vr.json) |
 | Bladelords: The fighting game | 39220 | [39220-bladelords-the-fighting-game.json](./39220-bladelords-the-fighting-game.json) |
 | Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
+| Blademancer | 348157 | [348157-blademancer.json](./348157-blademancer.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
 | BladeRite: Rivals | 409794 | [409794-bladerite-rivals.json](./409794-bladerite-rivals.json) |
@@ -14440,6 +14441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Art | 156680 | [156680-bullet-art.json](./156680-bullet-art.json) |
 | Bullet Audyssey | 320253 | [320253-bullet-audyssey.json](./320253-bullet-audyssey.json) |
 | Bullet Ball | 182170 | [182170-bullet-ball.json](./182170-bullet-ball.json) |
+| Bullet Ballet | 348186 | [348186-bullet-ballet.json](./348186-bullet-ballet.json) |
 | Bullet Barrage Basketball | 417367 | [417367-bullet-barrage-basketball.json](./417367-bullet-barrage-basketball.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Battle | 174721 | [174721-bullet-battle.json](./174721-bullet-battle.json) |
@@ -14460,6 +14462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Chase | 205032 | [205032-bullet-chase.json](./205032-bullet-chase.json) |
 | Bullet Chess | 101673 | [101673-bullet-chess.json](./101673-bullet-chess.json) |
 | Bullet Cove | 141701 | [141701-bullet-cove.json](./141701-bullet-cove.json) |
+| Bullet Coven | 348171 | [348171-bullet-coven.json](./348171-bullet-coven.json) |
 | Bullet Destroyer | 226273 | [226273-bullet-destroyer.json](./226273-bullet-destroyer.json) |
 | Bullet Dodge | 38723 | [38723-bullet-dodge.json](./38723-bullet-dodge.json) |
 | Bullet Echo | 142122 | [142122-bullet-echo.json](./142122-bullet-echo.json) |
