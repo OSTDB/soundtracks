@@ -10412,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Worry, I'll Bring the Beer | 307788 | [307788-dont-worry-ill-bring-the-beer.json](./307788-dont-worry-ill-bring-the-beer.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
+| Don´t Hang Up | 374654 | [374654-don-t-hang-up.json](./374654-don-t-hang-up.json) |
 | Donald & Goofy | 281885 | [281885-donald-and-goofy.json](./281885-donald-and-goofy.json) |
 | Donald & Margarida | 281883 | [281883-donald-and-margarida.json](./281883-donald-and-margarida.json) |
 | Donald and Xi at the 2021 Olympics | 383438 | [383438-donald-and-xi-at-the-2021-olympics.json](./383438-donald-and-xi-at-the-2021-olympics.json) |
