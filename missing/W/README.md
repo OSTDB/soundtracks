@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
 | War Girl | 120779 | [120779-war-girl.json](./120779-war-girl.json) |
 | War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
+| War Grid Hero | 367925 | [367925-war-grid-hero.json](./367925-war-grid-hero.json) |
 | War Heli | 319996 | [319996-war-heli.json](./319996-war-heli.json) |
 | War Heroes: Invasion | 74989 | [74989-war-heroes-invasion.json](./74989-war-heroes-invasion.json) |
 | War Hospital: Supporter Edition | 284858 | [284858-war-hospital-supporter-edition.json](./284858-war-hospital-supporter-edition.json) |
