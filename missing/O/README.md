@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piu Day | 107747 | [107747-one-piu-day.json](./107747-one-piu-day.json) |
 | One Plus Two = 3 | 415036 | [415036-one-plus-two-3.json](./415036-one-plus-two-3.json) |
 | One Possible Future | 404702 | [404702-one-possible-future.json](./404702-one-possible-future.json) |
+| One Pump Chump | 379333 | [379333-one-pump-chump.json](./379333-one-pump-chump.json) |
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
 | One Punch Man | 175711 | [175711-one-punch-man.json](./175711-one-punch-man.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 1 - Suiryu | 134062 | [134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json](./134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json) |
