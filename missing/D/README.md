@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Club | 287037 | [287037-darts-club.json](./287037-darts-club.json) |
 | Darts Club | 69828 | [69828-darts-club.json](./69828-darts-club.json) |
 | Darts Fever | 328548 | [328548-darts-fever.json](./328548-darts-fever.json) |
+| Darts Fever Arrows of Glory | 385162 | [385162-darts-fever-arrows-of-glory.json](./385162-darts-fever-arrows-of-glory.json) |
 | Darts Fever Bullseye Legends | 378962 | [378962-darts-fever-bullseye-legends.json](./378962-darts-fever-bullseye-legends.json) |
 | Darts Fever: Deluxe Edition | 333720 | [333720-darts-fever-deluxe-edition.json](./333720-darts-fever-deluxe-edition.json) |
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
@@ -3698,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
 | Death Forest Abyss | 379094 | [379094-death-forest-abyss.json](./379094-death-forest-abyss.json) |
 | Death Forest Echoes | 413018 | [413018-death-forest-echoes.json](./413018-death-forest-echoes.json) |
+| Death Forest Remake | 385158 | [385158-death-forest-remake.json](./385158-death-forest-remake.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death Frame | 353618 | [353618-death-frame.json](./353618-death-frame.json) |
 | Death From Above | 244133 | [244133-death-from-above.json](./244133-death-from-above.json) |
@@ -15614,6 +15616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustino 64 | 295809 | [295809-dustino-64.json](./295809-dustino-64.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
+| Dustland Delivery: Sheol | 385152 | [385152-dustland-delivery-sheol.json](./385152-dustland-delivery-sheol.json) |
 | Dustland Rider | 195119 | [195119-dustland-rider.json](./195119-dustland-rider.json) |
 | Dustman | 14044 | [14044-dustman.json](./14044-dustman.json) |
 | Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
