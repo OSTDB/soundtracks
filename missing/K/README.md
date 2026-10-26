@@ -2599,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Producer | 301435 | [301435-king-of-producer.json](./301435-king-of-producer.json) |
 | King of Pyramid Thieves | 300867 | [300867-king-of-pyramid-thieves.json](./300867-king-of-pyramid-thieves.json) |
 | King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
+| King of Rats: Enter the But Hole | 371953 | [371953-king-of-rats-enter-the-but-hole.json](./371953-king-of-rats-enter-the-but-hole.json) |
 | King of Retail | 113053 | [113053-king-of-retail.json](./113053-king-of-retail.json) |
 | King of Retail 2 | 295897 | [295897-king-of-retail-2.json](./295897-king-of-retail-2.json) |
 | King Of Sails | 326771 | [326771-king-of-sails.json](./326771-king-of-sails.json) |
