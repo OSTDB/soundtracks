@@ -13995,6 +13995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone World Tour: Flight Simulator | 322665 | [322665-drone-world-tour-flight-simulator.json](./322665-drone-world-tour-flight-simulator.json) |
 | Drone Zero Gravity | 35495 | [35495-drone-zero-gravity.json](./35495-drone-zero-gravity.json) |
 | Drone Zone | 164068 | [164068-drone-zone.json](./164068-drone-zone.json) |
+| Drone-Locked | 374100 | [374100-drone-locked.json](./374100-drone-locked.json) |
 | Drone: Remote Tactical Warfare | 43173 | [43173-drone-remote-tactical-warfare.json](./43173-drone-remote-tactical-warfare.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
@@ -15540,6 +15541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duo Princess | 50334 | [50334-duo-princess.json](./50334-duo-princess.json) |
 | Duo Quest | 335274 | [335274-duo-quest.json](./335274-duo-quest.json) |
 | Duo Runner 3D | 262464 | [262464-duo-runner-3d.json](./262464-duo-runner-3d.json) |
+| DuoBellum de Marionnette | 374111 | [374111-duobellum-de-marionnette.json](./374111-duobellum-de-marionnette.json) |
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
 | Duolingo | 321884 | [321884-duolingo.json](./321884-duolingo.json) |
 | DuoQ | 343225 | [343225-duoq.json](./343225-duoq.json) |
