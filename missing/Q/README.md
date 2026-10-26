@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quirks | 209745 | [209745-quirks.json](./209745-quirks.json) |
 | Quirky Crystal RPG | 108379 | [108379-quirky-crystal-rpg.json](./108379-quirky-crystal-rpg.json) |
 | Quirky Forest | 334002 | [334002-quirky-forest.json](./334002-quirky-forest.json) |
+| Quirky Museum | 362238 | [362238-quirky-museum.json](./362238-quirky-museum.json) |
 | Quisisana | 344493 | [344493-quisisana.json](./344493-quisisana.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
 | Quit Your Job | 413605 | [413605-quit-your-job.json](./413605-quit-your-job.json) |
