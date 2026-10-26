@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Ice Cream 3 | 142552 | [142552-bad-ice-cream-3.json](./142552-bad-ice-cream-3.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
+| Bad Lady | 385689 | [385689-bad-lady.json](./385689-bad-lady.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
 | Bad Machine | 73165 | [73165-bad-machine.json](./73165-bad-machine.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bai Qu: Hundreds of Melodies | 154325 | [154325-bai-qu-hundreds-of-melodies.json](./154325-bai-qu-hundreds-of-melodies.json) |
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
+| Baiacool: Tides of Olympus | 385657 | [385657-baiacool-tides-of-olympus.json](./385657-baiacool-tides-of-olympus.json) |
 | Baikinman wo Yattsukero! | 300006 | [300006-baikinman-wo-yattsukero.json](./300006-baikinman-wo-yattsukero.json) |
 | Baiko | 99429 | [99429-baiko.json](./99429-baiko.json) |
 | Baikoh: Word Challenges | 87587 | [87587-baikoh-word-challenges.json](./87587-baikoh-word-challenges.json) |
@@ -3290,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Polygon | 129022 | [129022-battle-polygon.json](./129022-battle-polygon.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Princess of Arcadias | 9068 | [9068-battle-princess-of-arcadias.json](./9068-battle-princess-of-arcadias.json) |
+| Battle Puzzle 2048: Queens of the Abyss | 385140 | [385140-battle-puzzle-2048-queens-of-the-abyss.json](./385140-battle-puzzle-2048-queens-of-the-abyss.json) |
 | Battle Puzzle 2048: Space Girls | 336406 | [336406-battle-puzzle-2048-space-girls.json](./336406-battle-puzzle-2048-space-girls.json) |
 | Battle Puzzle 2048: Wicked Witches | 370801 | [370801-battle-puzzle-2048-wicked-witches.json](./370801-battle-puzzle-2048-wicked-witches.json) |
 | Battle Racers | 38161 | [38161-battle-racers.json](./38161-battle-racers.json) |
@@ -5081,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beki, Do You Copy? | 372731 | [372731-beki-do-you-copy.json](./372731-beki-do-you-copy.json) |
 | Bekkouame | 93708 | [93708-bekkouame.json](./93708-bekkouame.json) |
 | Bel & Poppy | 184979 | [184979-bel-and-poppy.json](./184979-bel-and-poppy.json) |
+| Bel's Fanfare | 385696 | [385696-bels-fanfare.json](./385696-bels-fanfare.json) |
 | Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
 | Belial Red | 236211 | [236211-belial-red.json](./236211-belial-red.json) |
@@ -5548,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Tests DS | 47930 | [47930-best-of-tests-ds.json](./47930-best-of-tests-ds.json) |
 | Best of the Best: Championship Karate | 7783 | [7783-best-of-the-best-championship-karate.json](./7783-best-of-the-best-championship-karate.json) |
 | Best of Tilted Mill | 52466 | [52466-best-of-tilted-mill.json](./52466-best-of-tilted-mill.json) |
+| Best of Upscale Studio Bundle: 5 in 1 | 385141 | [385141-best-of-upscale-studio-bundle-5-in-1.json](./385141-best-of-upscale-studio-bundle-5-in-1.json) |
 | Best Park in the Universe | 61141 | [61141-best-park-in-the-universe.json](./61141-best-park-in-the-universe.json) |
 | Best Pearl | 240046 | [240046-best-pearl.json](./240046-best-pearl.json) |
 | Best Play Baseball | 242686 | [242686-best-play-baseball.json](./242686-best-play-baseball.json) |
@@ -6876,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiPlane | 110885 | [110885-biplane.json](./110885-biplane.json) |
 | BiPlane 4 | 112890 | [112890-biplane-4.json](./112890-biplane-4.json) |
 | Biplane Racer | 116754 | [116754-biplane-racer.json](./116754-biplane-racer.json) |
+| Biplanes | 385124 | [385124-biplanes.json](./385124-biplanes.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
 | Bipolar: The Tube | 327671 | [327671-bipolar-the-tube.json](./327671-bipolar-the-tube.json) |
@@ -8913,6 +8919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Football | 58203 | [58203-blocky-football.json](./58203-blocky-football.json) |
 | Blocky Games | 344710 | [344710-blocky-games.json](./344710-blocky-games.json) |
 | Blocky Granny Mod chapter One | 248175 | [248175-blocky-granny-mod-chapter-one.json](./248175-blocky-granny-mod-chapter-one.json) |
+| Blocky Heli Rescue | 385123 | [385123-blocky-heli-rescue.json](./385123-blocky-heli-rescue.json) |
 | Blocky McBlockFace | 114272 | [114272-blocky-mcblockface.json](./114272-blocky-mcblockface.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
@@ -11608,6 +11615,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
 | Bowling Crew | 256240 | [256240-bowling-crew.json](./256240-bowling-crew.json) |
 | Bowling Cross: Final Frame | 201118 | [201118-bowling-cross-final-frame.json](./201118-bowling-cross-final-frame.json) |
+| Bowling Fever Pin Crusher | 385163 | [385163-bowling-fever-pin-crusher.json](./385163-bowling-fever-pin-crusher.json) |
+| Bowling Fever Road to 300 | 385164 | [385164-bowling-fever-road-to-300.json](./385164-bowling-fever-road-to-300.json) |
 | Bowling Fever Strike Masters | 378961 | [378961-bowling-fever-strike-masters.json](./378961-bowling-fever-strike-masters.json) |
 | Bowling Fever: Deluxe Edition | 288285 | [288285-bowling-fever-deluxe-edition.json](./288285-bowling-fever-deluxe-edition.json) |
 | Bowling Fever: Discovery Edition | 333718 | [333718-bowling-fever-discovery-edition.json](./333718-bowling-fever-discovery-edition.json) |
@@ -12017,6 +12026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Workout! Find the Difference in Classic Art | 351224 | [351224-brain-workout-find-the-difference-in-classic-art.json](./351224-brain-workout-find-the-difference-in-classic-art.json) |
 | Brain Workout! Jellyfish Puzzle | 364099 | [364099-brain-workout-jellyfish-puzzle.json](./364099-brain-workout-jellyfish-puzzle.json) |
 | Brain Workout! Spinning Animal Puzzle | 376227 | [376227-brain-workout-spinning-animal-puzzle.json](./376227-brain-workout-spinning-animal-puzzle.json) |
+| Brain Workout! Spinning Dog Puzzle | 385122 | [385122-brain-workout-spinning-dog-puzzle.json](./385122-brain-workout-spinning-dog-puzzle.json) |
 | Brain Workout! Spinning Insect Puzzle | 378999 | [378999-brain-workout-spinning-insect-puzzle.json](./378999-brain-workout-spinning-insect-puzzle.json) |
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | BrainAccelerator | 211462 | [211462-brainaccelerator.json](./211462-brainaccelerator.json) |
@@ -12035,6 +12045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrainPower | 95258 | [95258-brainpower.json](./95258-brainpower.json) |
 | Brainroll | 250782 | [250782-brainroll.json](./250782-brainroll.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
+| Brainrot & Tung Collection 5 in 1 | 385139 | [385139-brainrot-and-tung-collection-5-in-1.json](./385139-brainrot-and-tung-collection-5-in-1.json) |
 | Brainrot Battle | 363564 | [363564-brainrot-battle.json](./363564-brainrot-battle.json) |
 | Brainrot Battle Royale | 366730 | [366730-brainrot-battle-royale.json](./366730-brainrot-battle-royale.json) |
 | Brainrot Battle Simulator | 369317 | [369317-brainrot-battle-simulator.json](./369317-brainrot-battle-simulator.json) |
