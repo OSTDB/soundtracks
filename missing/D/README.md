@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon II: Infernal Supporter Pack | 370241 | [370241-darkest-dungeon-ii-infernal-supporter-pack.json](./370241-darkest-dungeon-ii-infernal-supporter-pack.json) |
 | Darkest Dungeon II: Kingdoms | 296837 | [296837-darkest-dungeon-ii-kingdoms.json](./296837-darkest-dungeon-ii-kingdoms.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
+| Darkest Dungeon II: Resolute Edition | 383423 | [383423-darkest-dungeon-ii-resolute-edition.json](./383423-darkest-dungeon-ii-resolute-edition.json) |
 | Darkest Dungeon: Collector's Edition | 136203 | [136203-darkest-dungeon-collectors-edition.json](./136203-darkest-dungeon-collectors-edition.json) |
 | Darkest Dungeon: Crimson Edition | 91323 | [91323-darkest-dungeon-crimson-edition.json](./91323-darkest-dungeon-crimson-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
@@ -10385,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
 | Donald & Goofy | 281885 | [281885-donald-and-goofy.json](./281885-donald-and-goofy.json) |
 | Donald & Margarida | 281883 | [281883-donald-and-margarida.json](./281883-donald-and-margarida.json) |
+| Donald and Xi at the 2021 Olympics | 383438 | [383438-donald-and-xi-at-the-2021-olympics.json](./383438-donald-and-xi-at-the-2021-olympics.json) |
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Duck | 215079 | [215079-donald-duck.json](./215079-donald-duck.json) |
 | Donald Duck no Mahou no Boushi | 79059 | [79059-donald-duck-no-mahou-no-boushi.json](./79059-donald-duck-no-mahou-no-boushi.json) |
@@ -10816,6 +10818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DooM in the Dark | 115516 | [115516-doom-in-the-dark.json](./115516-doom-in-the-dark.json) |
 | DooM in the Dark 2 | 131323 | [131323-doom-in-the-dark-2.json](./131323-doom-in-the-dark-2.json) |
 | Doom Incarnate | 201183 | [201183-doom-incarnate.json](./201183-doom-incarnate.json) |
+| Doom Jam | 383434 | [383434-doom-jam.json](./383434-doom-jam.json) |
 | Doom Mapping Contest II: Hellectric Boogaloo | 262281 | [262281-doom-mapping-contest-ii-hellectric-boogaloo.json](./262281-doom-mapping-contest-ii-hellectric-boogaloo.json) |
 | Doom Nukem CSS | 354810 | [354810-doom-nukem-css.json](./354810-doom-nukem-css.json) |
 | Doom of the Clawn | 367726 | [367726-doom-of-the-clawn.json](./367726-doom-of-the-clawn.json) |
