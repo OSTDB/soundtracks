@@ -4202,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls Sliding Puzzle | 286411 | [286411-hentai-girls-sliding-puzzle.json](./286411-hentai-girls-sliding-puzzle.json) |
 | Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
+| Hentai Girls Succubus | 344302 | [344302-hentai-girls-succubus.json](./344302-hentai-girls-succubus.json) |
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
 | Hentai Girls: Adventure Clicker | 259611 | [259611-hentai-girls-adventure-clicker.json](./259611-hentai-girls-adventure-clicker.json) |
 | Hentai Girls: Amazing America | 308515 | [308515-hentai-girls-amazing-america.json](./308515-hentai-girls-amazing-america.json) |
@@ -4795,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herman and the Falling Rocks | 63925 | [63925-herman-and-the-falling-rocks.json](./63925-herman-and-the-falling-rocks.json) |
 | Herman Electro | 137471 | [137471-herman-electro.json](./137471-herman-electro.json) |
 | Hermano | 299857 | [299857-hermano.json](./299857-hermano.json) |
+| Hermeneus no Hakoniwa | 344297 | [344297-hermeneus-no-hakoniwa.json](./344297-hermeneus-no-hakoniwa.json) |
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
 | Hermes & Gry: A Crooked Plan | 176308 | [176308-hermes-and-gry-a-crooked-plan.json](./176308-hermes-and-gry-a-crooked-plan.json) |
 | Hermes e Renato: Joselito Contra a Farofada | 253187 | [253187-hermes-e-renato-joselito-contra-a-farofada.json](./253187-hermes-e-renato-joselito-contra-a-farofada.json) |
@@ -7302,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
 | Hole | 79160 | [79160-hole.json](./79160-hole.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
+| Hole Digging Beach Simulator | 344285 | [344285-hole-digging-beach-simulator.json](./344285-hole-digging-beach-simulator.json) |
 | Hole Digging Game | 251719 | [251719-hole-digging-game.json](./251719-hole-digging-game.json) |
 | Hole Digging Master | 339150 | [339150-hole-digging-master.json](./339150-hole-digging-master.json) |
 | Hole Dweller | 333200 | [333200-hole-dweller.json](./333200-hole-dweller.json) |
@@ -9431,6 +9434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Make Your Grandpa Happy | 31469 | [31469-how-to-make-your-grandpa-happy.json](./31469-how-to-make-your-grandpa-happy.json) |
 | How to Mech Friends and Influence Goblings | 184800 | [184800-how-to-mech-friends-and-influence-goblings.json](./184800-how-to-mech-friends-and-influence-goblings.json) |
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
+| How to Open a Locked Chest | 344282 | [344282-how-to-open-a-locked-chest.json](./344282-how-to-open-a-locked-chest.json) |
 | How to Punish a Witch | 163782 | [163782-how-to-punish-a-witch.json](./163782-how-to-punish-a-witch.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Ride Elevators Like a Human | 414761 | [414761-how-to-ride-elevators-like-a-human.json](./414761-how-to-ride-elevators-like-a-human.json) |
