@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Ruthenia | 123855 | [123855-pax-ruthenia.json](./123855-pax-ruthenia.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
 | Pax Warrior | 174108 | [174108-pax-warrior.json](./174108-pax-warrior.json) |
+| Pay 2 Win: The World Is Mine | 367378 | [367378-pay-2-win-the-world-is-mine.json](./367378-pay-2-win-the-world-is-mine.json) |
 | Pay 4 It | 229821 | [229821-pay-4-it.json](./229821-pay-4-it.json) |
 | Pay for My Call with a Kiss | 299603 | [299603-pay-for-my-call-with-a-kiss.json](./299603-pay-for-my-call-with-a-kiss.json) |
 | Pay for Picture: Vol.01 | 335335 | [335335-pay-for-picture-vol-01.json](./335335-pay-for-picture-vol-01.json) |
@@ -8881,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
 | Pokémon and the Last Wish | 153510 | [153510-pokemon-and-the-last-wish.json](./153510-pokemon-and-the-last-wish.json) |
 | Pokémon and the Last Wish Part II | 193163 | [193163-pokemon-and-the-last-wish-part-ii.json](./193163-pokemon-and-the-last-wish-part-ii.json) |
+| Pokémon Añil: Definitive Edition | 367344 | [367344-pokemon-anil-definitive-edition.json](./367344-pokemon-anil-definitive-edition.json) |
 | Pokémon Anniversary Crystal | 313100 | [313100-pokemon-anniversary-crystal.json](./313100-pokemon-anniversary-crystal.json) |
 | Pokemon Aquamarine | 325718 | [325718-pokemon-aquamarine.json](./325718-pokemon-aquamarine.json) |
 | Pokémon Art Academy | 7410 | [7410-pokemon-art-academy.json](./7410-pokemon-art-academy.json) |
