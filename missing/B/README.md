@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baroque-Ya | 368639 | [368639-baroque-ya.json](./368639-baroque-ya.json) |
 | Baroque: Become a Meta-Being | 316764 | [316764-baroque-become-a-meta-being.json](./316764-baroque-become-a-meta-being.json) |
 | Baroque: Become a Meta-Being Revive | 378351 | [378351-baroque-become-a-meta-being-revive.json](./378351-baroque-become-a-meta-being-revive.json) |
+| Baroque: Yuganda Mousou | 380480 | [380480-baroque-yuganda-mousou.json](./380480-baroque-yuganda-mousou.json) |
 | Barotrauma: Home & Harbor | 348291 | [348291-barotrauma-home-and-harbor.json](./348291-barotrauma-home-and-harbor.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
 | Barrack | 83919 | [83919-barrack.json](./83919-barrack.json) |
@@ -7122,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bismarck: Death of a Battleship | 15674 | [15674-bismarck-death-of-a-battleship.json](./15674-bismarck-death-of-a-battleship.json) |
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
 | Bison Battle Machine | 297906 | [297906-bison-battle-machine.json](./297906-bison-battle-machine.json) |
+| Bisounours Party: Adventure | 380385 | [380385-bisounours-party-adventure.json](./380385-bisounours-party-adventure.json) |
 | Bist du zu schwach oder Stark | 156568 | [156568-bist-du-zu-schwach-oder-stark.json](./156568-bist-du-zu-schwach-oder-stark.json) |
 | Bist Squad | 372740 | [372740-bist-squad.json](./372740-bist-squad.json) |
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
@@ -12082,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainstorm: The Game Show | 71485 | [71485-brainstorm-the-game-show.json](./71485-brainstorm-the-game-show.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
 | Brainteaser Boulevard! | 21919 | [21919-brainteaser-boulevard.json](./21919-brainteaser-boulevard.json) |
+| Brainwashing Academy: The Cursed Person's Pot | 380457 | [380457-brainwashing-academy-the-cursed-persons-pot.json](./380457-brainwashing-academy-the-cursed-persons-pot.json) |
 | Brainwave Trials | 304426 | [304426-brainwave-trials.json](./304426-brainwave-trials.json) |
 | Brainy Joy | 75937 | [75937-brainy-joy.json](./75937-brainy-joy.json) |
 | Brainy Mouse | 90844 | [90844-brainy-mouse.json](./90844-brainy-mouse.json) |
@@ -14783,6 +14786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
+| Burning Rainbow | 380499 | [380499-burning-rainbow.json](./380499-burning-rainbow.json) |
 | Burning Rangers Tribute | 335632 | [335632-burning-rangers-tribute.json](./335632-burning-rangers-tribute.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Regolith | 419155 | [419155-burning-regolith.json](./419155-burning-regolith.json) |
@@ -15058,6 +15062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustout | 42153 | [42153-bustout.json](./42153-bustout.json) |
 | Busty Balls Brick Breaker | 175882 | [175882-busty-balls-brick-breaker.json](./175882-busty-balls-brick-breaker.json) |
 | Busty Bunny the Bounty Babe | 274869 | [274869-busty-bunny-the-bounty-babe.json](./274869-busty-bunny-the-bounty-babe.json) |
+| Busty Detective! The Case Files of Aine Tamagushi | 380462 | [380462-busty-detective-the-case-files-of-aine-tamagushi.json](./380462-busty-detective-the-case-files-of-aine-tamagushi.json) |
 | Busty Hentai Mosaic | 291068 | [291068-busty-hentai-mosaic.json](./291068-busty-hentai-mosaic.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
 | BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
