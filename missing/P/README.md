@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Block 3D | 334838 | [334838-parkour-block-3d.json](./334838-parkour-block-3d.json) |
 | Parkour Bot | 149201 | [149201-parkour-bot.json](./149201-parkour-bot.json) |
 | Parkour Bullet Frenzy: FPS, Physics, Slowmotion | 317556 | [317556-parkour-bullet-frenzy-fps-physics-slowmotion.json](./317556-parkour-bullet-frenzy-fps-physics-slowmotion.json) |
+| Parkour Challenger | 337538 | [337538-parkour-challenger.json](./337538-parkour-challenger.json) |
 | Parkour Chief: Chapter Secret Agent | 341595 | [341595-parkour-chief-chapter-secret-agent.json](./341595-parkour-chief-chapter-secret-agent.json) |
 | Parkour Civilization | 329416 | [329416-parkour-civilization.json](./329416-parkour-civilization.json) |
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
@@ -3952,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
 | Personal Disco VR | 28895 | [28895-personal-disco-vr.json](./28895-personal-disco-vr.json) |
 | Personal Finance Simulator | 292977 | [292977-personal-finance-simulator.json](./292977-personal-finance-simulator.json) |
+| Personal Murder Theater: Strangled Roots | 337548 | [337548-personal-murder-theater-strangled-roots.json](./337548-personal-murder-theater-strangled-roots.json) |
 | Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
 | Personal Organizer and Phone Book | 93538 | [93538-personal-organizer-and-phone-book.json](./93538-personal-organizer-and-phone-book.json) |
 | Personal Space | 133063 | [133063-personal-space.json](./133063-personal-space.json) |
@@ -4497,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Racing | 199443 | [199443-phantom-racing.json](./199443-phantom-racing.json) |
 | Phantom Recall | 214338 | [214338-phantom-recall.json](./214338-phantom-recall.json) |
 | Phantom Reckoning | 343836 | [343836-phantom-reckoning.json](./343836-phantom-reckoning.json) |
+| Phantom Relics | 337551 | [337551-phantom-relics.json](./337551-phantom-relics.json) |
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
 | Phantom Rose | 117605 | [117605-phantom-rose.json](./117605-phantom-rose.json) |
@@ -6673,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch Color by Number: Cute Pack 2 | 374096 | [374096-pixel-cross-stitch-color-by-number-cute-pack-2.json](./374096-pixel-cross-stitch-color-by-number-cute-pack-2.json) |
 | Pixel Cross Stitch Color by Number: Landscapes Pack 5 | 374095 | [374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json](./374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json) |
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
+| Pixel Cross Stitch: Color by Number - Alien Worlds Pack 3 | 337560 | [337560-pixel-cross-stitch-color-by-number-alien-worlds-pack-3.json](./337560-pixel-cross-stitch-color-by-number-alien-worlds-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Miniatures Pack | 377602 | [377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json](./377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Pack 3 | 377606 | [377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json](./377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Back To School Pack | 374125 | [374125-pixel-cross-stitch-color-by-number-back-to-school-pack.json](./374125-pixel-cross-stitch-color-by-number-back-to-school-pack.json) |
@@ -9254,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Compass | 329417 | [329417-pokemon-compass.json](./329417-pokemon-compass.json) |
 | Pokémon Conquerors | 314727 | [314727-pokemon-conquerors.json](./314727-pokemon-conquerors.json) |
 | Pokémon Consonancia | 314716 | [314716-pokemon-consonancia.json](./314716-pokemon-consonancia.json) |
+| Pokémon Cope | 337411 | [337411-pokemon-cope.json](./337411-pokemon-cope.json) |
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
 | Pokémon Corogarena | 309595 | [309595-pokemon-corogarena.json](./309595-pokemon-corogarena.json) |
 | Pokémon Covenant | 320277 | [320277-pokemon-covenant.json](./320277-pokemon-covenant.json) |
@@ -10231,6 +10236,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymega Collection Vol. 11: Adventure | 359899 | [359899-polymega-collection-vol-11-adventure.json](./359899-polymega-collection-vol-11-adventure.json) |
 | Polymega Collection Vol. 12: Tempest | 359900 | [359900-polymega-collection-vol-12-tempest.json](./359900-polymega-collection-vol-12-tempest.json) |
 | Polymega Collection Vol. 2: Karate Champ | 324512 | [324512-polymega-collection-vol-2-karate-champ.json](./324512-polymega-collection-vol-2-karate-champ.json) |
+| Polymega Collection Vol. 5: Bad Dudes | 337540 | [337540-polymega-collection-vol-5-bad-dudes.json](./337540-polymega-collection-vol-5-bad-dudes.json) |
+| Polymega Collection Vol. 6: Heavy Barrel | 337542 | [337542-polymega-collection-vol-6-heavy-barrel.json](./337542-polymega-collection-vol-6-heavy-barrel.json) |
 | Polymega Collection Vol. 7: Breaker's | 339810 | [339810-polymega-collection-vol-7-breakers.json](./339810-polymega-collection-vol-7-breakers.json) |
 | Polymega Collection Vol. 8: Captain Tomaday | 339811 | [339811-polymega-collection-vol-8-captain-tomaday.json](./339811-polymega-collection-vol-8-captain-tomaday.json) |
 | Polymega Collection Vol.1: Asteroids | 324511 | [324511-polymega-collection-vol-1-asteroids.json](./324511-polymega-collection-vol-1-asteroids.json) |
