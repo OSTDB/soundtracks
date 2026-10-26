@@ -2491,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayles Quest | 113546 | [113546-hayles-quest.json](./113546-hayles-quest.json) |
 | Haymaker | 171900 | [171900-haymaker.json](./171900-haymaker.json) |
 | Haymaker | 60898 | [60898-haymaker.json](./60898-haymaker.json) |
+| Hayo and the Emporium | 342298 | [342298-hayo-and-the-emporium.json](./342298-hayo-and-the-emporium.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
 | Haypi Monster: The Lost Tower | 392105 | [392105-haypi-monster-the-lost-tower.json](./392105-haypi-monster-the-lost-tower.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
@@ -3510,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell-Hell | 206182 | [206182-hell-hell.json](./206182-hell-hell.json) |
 | Hell-IX | 110238 | [110238-hell-ix.json](./110238-hell-ix.json) |
 | Hell-o | 301963 | [301963-hell-o.json](./301963-hell-o.json) |
+| Hell-o-university | 342302 | [342302-hell-o-university.json](./342302-hell-o-university.json) |
 | Hell-Yeah Copter | 405955 | [405955-hell-yeah-copter.json](./405955-hell-yeah-copter.json) |
 | Hell, the Dungeon Again! | 96259 | [96259-hell-the-dungeon-again.json](./96259-hell-the-dungeon-again.json) |
 | Hell: A Cyberpunk Thriller | 4297 | [4297-hell-a-cyberpunk-thriller.json](./4297-hell-a-cyberpunk-thriller.json) |
