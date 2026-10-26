@@ -799,7 +799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10583,6 +10582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonding, Now | 319676 | [319676-bonding-now.json](./319676-bonding-now.json) |
 | Bonds | 111096 | [111096-bonds.json](./111096-bonds.json) |
 | Bonds | 380036 | [380036-bonds.json](./380036-bonds.json) |
+| Bonds Defiled | 379388 | [379388-bonds-defiled.json](./379388-bonds-defiled.json) |
 | Bonds of Ecstasy | 331096 | [331096-bonds-of-ecstasy.json](./331096-bonds-of-ecstasy.json) |
 | Bonds of the Skies | 210264 | [210264-bonds-of-the-skies.json](./210264-bonds-of-the-skies.json) |
 | Bonds of Unity | 249221 | [249221-bonds-of-unity.json](./249221-bonds-of-unity.json) |
