@@ -6088,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nth Dimension[al] Hiking | 327183 | [327183-nth-dimension-al-hiking.json](./327183-nth-dimension-al-hiking.json) |
 | Nth Zone | 354595 | [354595-nth-zone.json](./354595-nth-zone.json) |
 | Nth^0: Infinity Reborn | 129799 | [129799-nth-0-infinity-reborn.json](./129799-nth-0-infinity-reborn.json) |
+| NTR | 379332 | [379332-ntr.json](./379332-ntr.json) |
 | NTR & Zombies | 411060 | [411060-ntr-and-zombies.json](./411060-ntr-and-zombies.json) |
 | NTR Dream | 277959 | [277959-ntr-dream.json](./277959-ntr-dream.json) |
 | NTR homestay | 132191 | [132191-ntr-homestay.json](./132191-ntr-homestay.json) |
