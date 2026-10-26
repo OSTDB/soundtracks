@@ -8754,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Universe - 3D Sandbox | 88962 | [88962-pocket-universe-3d-sandbox.json](./88962-pocket-universe-3d-sandbox.json) |
 | Pocket Universe : Create Your Community | 55624 | [55624-pocket-universe-create-your-community.json](./55624-pocket-universe-create-your-community.json) |
 | Pocket Usatama Easter 2019 Edition | 230130 | [230130-pocket-usatama-easter-2019-edition.json](./230130-pocket-usatama-easter-2019-edition.json) |
+| Pocket Vampire Girl | 341401 | [341401-pocket-vampire-girl.json](./341401-pocket-vampire-girl.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
 | Pocket Waifu: Desktop Pet | 384611 | [384611-pocket-waifu-desktop-pet.json](./384611-pocket-waifu-desktop-pet.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
@@ -10287,6 +10288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poncik's Little Tragedy | 415069 | [415069-ponciks-little-tragedy.json](./415069-ponciks-little-tragedy.json) |
 | Poncotsu Roman Daikatsugeki Bumpy Trot 2 | 91754 | [91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json](./91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json) |
 | Pond | 373662 | [373662-pond.json](./373662-pond.json) |
+| Pond Abyss | 341716 | [341716-pond-abyss.json](./341716-pond-abyss.json) |
 | Pond Party | 364687 | [364687-pond-party.json](./364687-pond-party.json) |
 | Pond Scum | 157091 | [157091-pond-scum.json](./157091-pond-scum.json) |
 | Pond Scum | 268928 | [268928-pond-scum.json](./268928-pond-scum.json) |
@@ -13409,6 +13411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Neptune | 55097 | [55097-project-neptune.json](./55097-project-neptune.json) |
 | Project Nevada | 349760 | [349760-project-nevada.json](./349760-project-nevada.json) |
 | Project Night | 26949 | [26949-project-night.json](./26949-project-night.json) |
+| Project Nightcall | 341396 | [341396-project-nightcall.json](./341396-project-nightcall.json) |
 | Project Nightmares Case 36: Henrietta Kedward | 104568 | [104568-project-nightmares-case-36-henrietta-kedward.json](./104568-project-nightmares-case-36-henrietta-kedward.json) |
 | Project Nihilum: Zero | 341553 | [341553-project-nihilum-zero.json](./341553-project-nihilum-zero.json) |
 | Project Nimbus | 10724 | [10724-project-nimbus.json](./10724-project-nimbus.json) |
@@ -14365,6 +14368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Puddle Knights | 126338 | [126338-puddle-knights.json](./126338-puddle-knights.json) |
 | Puddle Pirates | 176398 | [176398-puddle-pirates.json](./176398-puddle-pirates.json) |
+| Pudgy Party | 341412 | [341412-pudgy-party.json](./341412-pudgy-party.json) |
 | Pueblo | 236905 | [236905-pueblo.json](./236905-pueblo.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
 | Puella Magi Madoka Magica Portable | 11846 | [11846-puella-magi-madoka-magica-portable.json](./11846-puella-magi-madoka-magica-portable.json) |
@@ -14650,6 +14654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punishment 2: The Punishing | 402353 | [402353-punishment-2-the-punishing.json](./402353-punishment-2-the-punishing.json) |
 | Punishment Darkness Online: Centre Ville | 171080 | [171080-punishment-darkness-online-centre-ville.json](./171080-punishment-darkness-online-centre-ville.json) |
 | Punishment Darkness Online: Grand Moun | 171079 | [171079-punishment-darkness-online-grand-moun.json](./171079-punishment-darkness-online-grand-moun.json) |
+| Punishment Special Edition | 341434 | [341434-punishment-special-edition.json](./341434-punishment-special-edition.json) |
 | PuniTy | 26508 | [26508-punity.json](./26508-punity.json) |
 | Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
 | Punk Girl | 363660 | [363660-punk-girl.json](./363660-punk-girl.json) |
@@ -14754,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Shelter | 207140 | [207140-puppy-shelter.json](./207140-puppy-shelter.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
+| Puppycraft: Maze | 341433 | [341433-puppycraft-maze.json](./341433-puppycraft-maze.json) |
 | Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
 | Pups & Purrs Animal Hospital and Pups & Purrs Pet Shop Bundle | 308629 | [308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json](./308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json) |
 | Pups & Purrs Pet Shop | 145491 | [145491-pups-and-purrs-pet-shop.json](./145491-pups-and-purrs-pet-shop.json) |
@@ -14936,6 +14942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
 | Push | 55799 | [55799-push.json](./55799-push.json) |
 | Push & Plunder | 312669 | [312669-push-and-plunder.json](./312669-push-and-plunder.json) |
+| Push 3D | 341432 | [341432-push-3d.json](./341432-push-3d.json) |
 | Push a Block | 221171 | [221171-push-a-block.json](./221171-push-a-block.json) |
 | Push and Pull | 401071 | [401071-push-and-pull.json](./401071-push-and-pull.json) |
 | Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
@@ -15369,6 +15376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Light: Slide | 163539 | [163539-puzzle-light-slide.json](./163539-puzzle-light-slide.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
+| Puzzle Machine | 341431 | [341431-puzzle-machine.json](./341431-puzzle-machine.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
 | Puzzle Mania | 213913 | [213913-puzzle-mania.json](./213913-puzzle-mania.json) |
 | Puzzle Mania 2 | 213916 | [213916-puzzle-mania-2.json](./213916-puzzle-mania-2.json) |
@@ -15413,6 +15421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Pandemonium | 68544 | [68544-puzzle-pandemonium.json](./68544-puzzle-pandemonium.json) |
 | Puzzle Panic | 92146 | [92146-puzzle-panic.json](./92146-puzzle-panic.json) |
 | Puzzle Panic Island | 243511 | [243511-puzzle-panic-island.json](./243511-puzzle-panic-island.json) |
+| Puzzle Paradise | 341430 | [341430-puzzle-paradise.json](./341430-puzzle-paradise.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
 | Puzzle Park II | 401314 | [401314-puzzle-park-ii.json](./401314-puzzle-park-ii.json) |
@@ -15475,6 +15484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Station 15th Anniversary Retro Release | 35348 | [35348-puzzle-station-15th-anniversary-retro-release.json](./35348-puzzle-station-15th-anniversary-retro-release.json) |
 | Puzzle Strike | 34863 | [34863-puzzle-strike.json](./34863-puzzle-strike.json) |
 | Puzzle Sudoku | 304171 | [304171-puzzle-sudoku.json](./304171-puzzle-sudoku.json) |
+| Puzzle Summit: Solve & Rise | 341429 | [341429-puzzle-summit-solve-and-rise.json](./341429-puzzle-summit-solve-and-rise.json) |
 | Puzzle Tales: Arcane Voyager | 358451 | [358451-puzzle-tales-arcane-voyager.json](./358451-puzzle-tales-arcane-voyager.json) |
 | Puzzle Temptation: Anime Reveal | 357764 | [357764-puzzle-temptation-anime-reveal.json](./357764-puzzle-temptation-anime-reveal.json) |
 | Puzzle Time | 209369 | [209369-puzzle-time.json](./209369-puzzle-time.json) |
