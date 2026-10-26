@@ -8690,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Edge | 382259 | [382259-silent-edge.json](./382259-silent-edge.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Evil Dead Horror Syndrome | 401441 | [401441-silent-evil-dead-horror-syndrome.json](./401441-silent-evil-dead-horror-syndrome.json) |
+| Silent Express | 348161 | [348161-silent-express.json](./348161-silent-express.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Footsteps | 105072 | [105072-silent-footsteps.json](./105072-silent-footsteps.json) |
 | Silent Forest: Deadly Night Horror | 330404 | [330404-silent-forest-deadly-night-horror.json](./330404-silent-forest-deadly-night-horror.json) |
@@ -11025,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Attack | 35374 | [35374-sleep-attack.json](./35374-sleep-attack.json) |
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
 | Sleep Cycles | 144742 | [144742-sleep-cycles.json](./144742-sleep-cycles.json) |
+| Sleep Herd | 348138 | [348138-sleep-herd.json](./348138-sleep-herd.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
 | Sleep Paralysis | 121564 | [121564-sleep-paralysis.json](./121564-sleep-paralysis.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
@@ -12174,6 +12176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmugForce | 229132 | [229132-smugforce.json](./229132-smugforce.json) |
 | Smuggle Buddies | 114861 | [114861-smuggle-buddies.json](./114861-smuggle-buddies.json) |
 | SmuggleCraft | 29489 | [29489-smugglecraft.json](./29489-smugglecraft.json) |
+| Smuggler City Simulator | 348143 | [348143-smuggler-city-simulator.json](./348143-smuggler-city-simulator.json) |
 | Smuggler Simulator | 154048 | [154048-smuggler-simulator.json](./154048-smuggler-simulator.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
 | Smuggler's Guild | 8987 | [8987-smugglers-guild.json](./8987-smugglers-guild.json) |
@@ -15387,6 +15390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
 | Soul Calibur: Swords of Destiny | 368445 | [368445-soul-calibur-swords-of-destiny.json](./368445-soul-calibur-swords-of-destiny.json) |
 | Soul Card Duel | 390154 | [390154-soul-card-duel.json](./390154-soul-card-duel.json) |
+| Soul Cards | 348163 | [348163-soul-cards.json](./348163-soul-cards.json) |
 | Soul Catcher | 169721 | [169721-soul-catcher.json](./169721-soul-catcher.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
 | Soul Cauldron | 348565 | [348565-soul-cauldron.json](./348565-soul-cauldron.json) |
@@ -17126,6 +17130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
+| Spark Quest | 348145 | [348145-spark-quest.json](./348145-spark-quest.json) |
 | Spark Spark | 284255 | [284255-spark-spark.json](./284255-spark-spark.json) |
 | Spark the Electric Jester 3 | 153620 | [153620-spark-the-electric-jester-3.json](./153620-spark-the-electric-jester-3.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
@@ -22277,6 +22282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
 | Stick Out! | 386696 | [386696-stick-out.json](./386696-stick-out.json) |
 | Stick Part | 18926 | [18926-stick-part.json](./18926-stick-part.json) |
+| Stick Ragdoll Battle Simulator | 348149 | [348149-stick-ragdoll-battle-simulator.json](./348149-stick-ragdoll-battle-simulator.json) |
 | Stick Ranger | 57898 | [57898-stick-ranger.json](./57898-stick-ranger.json) |
 | Stick Robot Puzzle | 303665 | [303665-stick-robot-puzzle.json](./303665-stick-robot-puzzle.json) |
 | Stick Royale | 117373 | [117373-stick-royale.json](./117373-stick-royale.json) |
