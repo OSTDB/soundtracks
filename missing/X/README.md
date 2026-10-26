@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Sports | 262320 | [262320-xtreme-sports.json](./262320-xtreme-sports.json) |
 | Xtreme Sports | 49869 | [49869-xtreme-sports.json](./49869-xtreme-sports.json) |
 | Xtreme Sports Arcade: Summer Edition | 205808 | [205808-xtreme-sports-arcade-summer-edition.json](./205808-xtreme-sports-arcade-summer-edition.json) |
+| Xtreme Sports Bundle 2 in 1 | 378839 | [378839-xtreme-sports-bundle-2-in-1.json](./378839-xtreme-sports-bundle-2-in-1.json) |
 | Xtreme Typing | 150660 | [150660-xtreme-typing.json](./150660-xtreme-typing.json) |
 | Xtris | 330842 | [330842-xtris.json](./330842-xtris.json) |
 | XType Plus | 61248 | [61248-xtype-plus.json](./61248-xtype-plus.json) |
