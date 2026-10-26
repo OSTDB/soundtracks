@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World: U.S.A. 2 | 357897 | [357897-jigsaw-puzzle-world-u-s-a-2.json](./357897-jigsaw-puzzle-world-u-s-a-2.json) |
 | Jigsaw Puzzle World: Weather | 293608 | [293608-jigsaw-puzzle-world-weather.json](./293608-jigsaw-puzzle-world-weather.json) |
 | Jigsaw Puzzle: Animals | 155367 | [155367-jigsaw-puzzle-animals.json](./155367-jigsaw-puzzle-animals.json) |
+| Jigsaw Puzzle: Anime Girls | 369542 | [369542-jigsaw-puzzle-anime-girls.json](./369542-jigsaw-puzzle-anime-girls.json) |
 | Jigsaw Puzzle: Around the World | 401123 | [401123-jigsaw-puzzle-around-the-world.json](./401123-jigsaw-puzzle-around-the-world.json) |
 | Jigsaw Puzzle: Baby Animals | 243058 | [243058-jigsaw-puzzle-baby-animals.json](./243058-jigsaw-puzzle-baby-animals.json) |
 | Jigsaw Puzzle: Baby Animals - Expansion Pack 1 | 243059 | [243059-jigsaw-puzzle-baby-animals-expansion-pack-1.json](./243059-jigsaw-puzzle-baby-animals-expansion-pack-1.json) |
