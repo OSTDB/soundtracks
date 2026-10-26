@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Rush | 232348 | [232348-ice-cream-rush.json](./232348-ice-cream-rush.json) |
 | Ice Cream Simulator | 345665 | [345665-ice-cream-simulator.json](./345665-ice-cream-simulator.json) |
 | Ice Cream Stall | 63711 | [63711-ice-cream-stall.json](./63711-ice-cream-stall.json) |
+| Ice Cream Together: A Cozy Parlor Simulator | 343163 | [343163-ice-cream-together-a-cozy-parlor-simulator.json](./343163-ice-cream-together-a-cozy-parlor-simulator.json) |
 | Ice Cream Trip | 207829 | [207829-ice-cream-trip.json](./207829-ice-cream-trip.json) |
 | Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
 | Ice Cream Truck! | 90789 | [90789-ice-cream-truck.json](./90789-ice-cream-truck.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikuma: The Frozen Compass | 339619 | [339619-ikuma-the-frozen-compass.json](./339619-ikuma-the-frozen-compass.json) |
 | Ikun Go Go Go | 390628 | [390628-ikun-go-go-go.json](./390628-ikun-go-go-go.json) |
 | Ikun vs. Xhz | 407798 | [407798-ikun-vs-xhz.json](./407798-ikun-vs-xhz.json) |
+| iKungFu Master | 343489 | [343489-ikungfu-master.json](./343489-ikungfu-master.json) |
 | Ikusa Megami | 208288 | [208288-ikusa-megami.json](./208288-ikusa-megami.json) |
 | Ikusa Megami 2: Ushinawareshi Kioku he no Chinkonka | 208285 | [208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json](./208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json) |
 | Ikusa Megami Verita | 208286 | [208286-ikusa-megami-verita.json](./208286-ikusa-megami-verita.json) |
@@ -1855,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illust Logic DS + Colorful Logic | 61976 | [61976-illust-logic-ds-colorful-logic.json](./61976-illust-logic-ds-colorful-logic.json) |
 | Illustack | 401041 | [401041-illustack.json](./401041-illustack.json) |
 | Illuvium | 198140 | [198140-illuvium.json](./198140-illuvium.json) |
+| Illuyanka: A Hittite Story | 343161 | [343161-illuyanka-a-hittite-story.json](./343161-illuyanka-a-hittite-story.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
 | illWill | 191579 | [191579-illwill.json](./191579-illwill.json) |
