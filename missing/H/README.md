@@ -9855,6 +9855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Down the Freeman | 89147 | [89147-hunt-down-the-freeman.json](./89147-hunt-down-the-freeman.json) |
 | Hunt For Gods | 55248 | [55248-hunt-for-gods.json](./55248-hunt-for-gods.json) |
 | Hunt for Junk | 205247 | [205247-hunt-for-junk.json](./205247-hunt-for-junk.json) |
+| Hunt for the Lost Folktales | 379421 | [379421-hunt-for-the-lost-folktales.json](./379421-hunt-for-the-lost-folktales.json) |
 | Hunt for the Shadow Rider | 140992 | [140992-hunt-for-the-shadow-rider.json](./140992-hunt-for-the-shadow-rider.json) |
 | Hunt for Treasure | 146583 | [146583-hunt-for-treasure.json](./146583-hunt-for-treasure.json) |
 | Hunt Grounds | 366949 | [366949-hunt-grounds.json](./366949-hunt-grounds.json) |
