@@ -1387,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Judgement | 129642 | [129642-dark-judgement.json](./129642-dark-judgement.json) |
 | Dark Jump: Endless Ascent | 339365 | [339365-dark-jump-endless-ascent.json](./339365-dark-jump-endless-ascent.json) |
 | Dark Jungle | 207194 | [207194-dark-jungle.json](./207194-dark-jungle.json) |
+| Dark Labyrinth | 348165 | [348165-dark-labyrinth.json](./348165-dark-labyrinth.json) |
 | Dark Law: Meaning of Death | 15898 | [15898-dark-law-meaning-of-death.json](./15898-dark-law-meaning-of-death.json) |
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
 | Dark Leaches | 403792 | [403792-dark-leaches.json](./403792-dark-leaches.json) |
@@ -12449,6 +12450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Man: Reignited | 215173 | [215173-dragon-man-reignited.json](./215173-dragon-man-reignited.json) |
 | Dragon Mania | 241469 | [241469-dragon-mania.json](./241469-dragon-mania.json) |
 | Dragon Mania Legends | 58917 | [58917-dragon-mania-legends.json](./58917-dragon-mania-legends.json) |
+| Dragon March | 348179 | [348179-dragon-march.json](./348179-dragon-march.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Master | 46780 | [46780-dragon-master.json](./46780-dragon-master.json) |
@@ -14083,6 +14085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
 | Drone Warfare | 81179 | [81179-drone-warfare.json](./81179-drone-warfare.json) |
+| Drone Warfare: Global Ops | 348177 | [348177-drone-warfare-global-ops.json](./348177-drone-warfare-global-ops.json) |
 | Drone Wars | 126355 | [126355-drone-wars.json](./126355-drone-wars.json) |
 | Drone Wars | 343589 | [343589-drone-wars.json](./343589-drone-wars.json) |
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
