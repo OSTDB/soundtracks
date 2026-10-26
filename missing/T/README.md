@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tambourine | 399193 | [399193-tambourine.json](./399193-tambourine.json) |
 | Tambourine Tangerine | 315617 | [315617-tambourine-tangerine.json](./315617-tambourine-tangerine.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
+| Tame-a-goat-chi | 374642 | [374642-tame-a-goat-chi.json](./374642-tame-a-goat-chi.json) |
 | Tamed Faces Jigsaw Puzzle - Domesticated Animals | 89027 | [89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json](./89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json) |
 | Tamed: Chapter 1 | 186497 | [186497-tamed-chapter-1.json](./186497-tamed-chapter-1.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
@@ -7689,6 +7690,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falling Sun | 36167 | [36167-the-falling-sun.json](./36167-the-falling-sun.json) |
 | The Fallow City | 330578 | [330578-the-fallow-city.json](./330578-the-fallow-city.json) |
 | The False Alice: Retold Tale | 371528 | [371528-the-false-alice-retold-tale.json](./371528-the-false-alice-retold-tale.json) |
+| The False Culprit | 374562 | [374562-the-false-culprit.json](./374562-the-false-culprit.json) |
+| The False God's Fold | 374560 | [374560-the-false-gods-fold.json](./374560-the-false-gods-fold.json) |
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
 | The Family | 218652 | [218652-the-family.json](./218652-the-family.json) |
 | The Family Castle | 226597 | [226597-the-family-castle.json](./226597-the-family-castle.json) |
@@ -8878,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Scrolls | 368805 | [368805-the-hidden-scrolls.json](./368805-the-hidden-scrolls.json) |
 | The Hidden: Source | 70647 | [70647-the-hidden-source.json](./70647-the-hidden-source.json) |
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
+| The High Life | 374657 | [374657-the-high-life.json](./374657-the-high-life.json) |
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
 | The Higher Lower Game | 186614 | [186614-the-higher-lower-game.json](./186614-the-higher-lower-game.json) |
 | The Highlands | 197540 | [197540-the-highlands.json](./197540-the-highlands.json) |
@@ -12213,6 +12217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
 | The Pact | 251374 | [251374-the-pact.json](./251374-the-pact.json) |
+| The Pact | 374568 | [374568-the-pact.json](./374568-the-pact.json) |
 | The Pact | 401478 | [401478-the-pact.json](./401478-the-pact.json) |
 | The Paddy Field | 328934 | [328934-the-paddy-field.json](./328934-the-paddy-field.json) |
 | The Padre | 74907 | [74907-the-padre.json](./74907-the-padre.json) |
@@ -13524,6 +13529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Cat | 289965 | [289965-the-shadow-cat.json](./289965-the-shadow-cat.json) |
 | The Shadow Cosmos | 373142 | [373142-the-shadow-cosmos.json](./373142-the-shadow-cosmos.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
+| The Shadow of Ayutthaya | 374649 | [374649-the-shadow-of-ayutthaya.json](./374649-the-shadow-of-ayutthaya.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
 | The Shadow of Swallow | 333045 | [333045-the-shadow-of-swallow.json](./333045-the-shadow-of-swallow.json) |
 | The Shadow of the Evil Tower | 270875 | [270875-the-shadow-of-the-evil-tower.json](./270875-the-shadow-of-the-evil-tower.json) |
@@ -16667,6 +16673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
 | This Ain't A Normal Game | 177206 | [177206-this-aint-a-normal-game.json](./177206-this-aint-a-normal-game.json) |
+| This Ain’t Even Poker, Ya Joker | 374650 | [374650-this-ain-t-even-poker-ya-joker.json](./374650-this-ain-t-even-poker-ya-joker.json) |
 | This Body Isn't Yours | 364659 | [364659-this-body-isnt-yours.json](./364659-this-body-isnt-yours.json) |
 | This Book Is A Dungeon | 34416 | [34416-this-book-is-a-dungeon.json](./34416-this-book-is-a-dungeon.json) |
 | This Box Conveys People | 144239 | [144239-this-box-conveys-people.json](./144239-this-box-conveys-people.json) |
@@ -18978,6 +18985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
 | Timber Tennis | 36619 | [36619-timber-tennis.json](./36619-timber-tennis.json) |
 | Timber Tennis: Versus | 111463 | [111463-timber-tennis-versus.json](./111463-timber-tennis-versus.json) |
+| Timber Trail | 374638 | [374638-timber-trail.json](./374638-timber-trail.json) |
 | Timber Wars | 339305 | [339305-timber-wars.json](./339305-timber-wars.json) |
 | Timber! The Logging Experts | 30595 | [30595-timber-the-logging-experts.json](./30595-timber-the-logging-experts.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
