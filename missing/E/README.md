@@ -4467,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Goat: Azuma Eiji no Enzai | 395464 | [395464-escape-goat-azuma-eiji-no-enzai.json](./395464-escape-goat-azuma-eiji-no-enzai.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape Him. | 267802 | [267802-escape-him.json](./267802-escape-him.json) |
+| Escape House | 357145 | [357145-escape-house.json](./357145-escape-house.json) |
 | Escape If You Can | 377280 | [377280-escape-if-you-can.json](./377280-escape-if-you-can.json) |
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
 | Escape Inc. | 310581 | [310581-escape-inc.json](./310581-escape-inc.json) |
