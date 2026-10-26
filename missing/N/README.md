@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NagiQ | 54971 | [54971-nagiq.json](./54971-nagiq.json) |
 | NagiQ 2: Treasure Hunt | 239555 | [239555-nagiq-2-treasure-hunt.json](./239555-nagiq-2-treasure-hunt.json) |
 | NaGongGan Infinite | 165773 | [165773-nagonggan-infinite.json](./165773-nagonggan-infinite.json) |
+| Nagual | 345948 | [345948-nagual.json](./345948-nagual.json) |
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neofold: The Feast | 424717 | [424717-neofold-the-feast.json](./424717-neofold-the-feast.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
+| Neogeo Arcade 2 | 346805 | [346805-neogeo-arcade-2.json](./346805-neogeo-arcade-2.json) |
 | NeoGeo Heroes Ultimate Shooting | 44507 | [44507-neogeo-heroes-ultimate-shooting.json](./44507-neogeo-heroes-ultimate-shooting.json) |
 | NeoGeo Online Collection Complete Box: Gekkan | 381232 | [381232-neogeo-online-collection-complete-box-gekkan.json](./381232-neogeo-online-collection-complete-box-gekkan.json) |
 | NeoGeo Online Collection Complete Box: Joukan | 381224 | [381224-neogeo-online-collection-complete-box-joukan.json](./381224-neogeo-online-collection-complete-box-joukan.json) |
@@ -4107,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikkan Sports Pro Yakyuu VAN | 47062 | [47062-nikkan-sports-pro-yakyuu-van.json](./47062-nikkan-sports-pro-yakyuu-van.json) |
 | Nikki no Tabisuru Quiz | 232905 | [232905-nikki-no-tabisuru-quiz.json](./232905-nikki-no-tabisuru-quiz.json) |
 | Nikki Up2U: A Dressing Story | 62427 | [62427-nikki-up2u-a-dressing-story.json](./62427-nikki-up2u-a-dressing-story.json) |
+| NikNaks | 345957 | [345957-niknaks.json](./345957-niknaks.json) |
 | Niko | 410351 | [410351-niko.json](./410351-niko.json) |
 | Niko and the Cubic Curse | 169339 | [169339-niko-and-the-cubic-curse.json](./169339-niko-and-the-cubic-curse.json) |
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
@@ -6407,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
 | Numina: Construct | 348666 | [348666-numina-construct.json](./348666-numina-construct.json) |
 | Numina: Part 2 | 241510 | [241510-numina-part-2.json](./241510-numina-part-2.json) |
+| Numinous | 346497 | [346497-numinous.json](./346497-numinous.json) |
 | Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
 | Numito | 329119 | [329119-numito.json](./329119-numito.json) |
 | Numjump | 384787 | [384787-numjump.json](./384787-numjump.json) |
