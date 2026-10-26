@@ -6413,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Traffic Racer: Car Racing Simulator | 251491 | [251491-highway-traffic-racer-car-racing-simulator.json](./251491-highway-traffic-racer-car-racing-simulator.json) |
 | Highway Trouble | 322597 | [322597-highway-trouble.json](./322597-highway-trouble.json) |
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
+| Highway Warriors Remastered | 371930 | [371930-highway-warriors-remastered.json](./371930-highway-warriors-remastered.json) |
 | Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
 | Highway Zombie Survival: Car Apocalypse | 306544 | [306544-highway-zombie-survival-car-apocalypse.json](./306544-highway-zombie-survival-car-apocalypse.json) |
 | Higurashi Daybreak | 69127 | [69127-higurashi-daybreak.json](./69127-higurashi-daybreak.json) |
@@ -8119,6 +8120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope | 110096 | [110096-hope.json](./110096-hope.json) |
 | Hope | 171980 | [171980-hope.json](./171980-hope.json) |
 | Hope | 312738 | [312738-hope.json](./312738-hope.json) |
+| Hope | 371834 | [371834-hope.json](./371834-hope.json) |
 | Hope | 377194 | [377194-hope.json](./377194-hope.json) |
 | Hope & Elpis | 347368 | [347368-hope-and-elpis.json](./347368-hope-and-elpis.json) |
 | Hope 01 | 398473 | [398473-hope-01.json](./398473-hope-01.json) |
@@ -8518,6 +8520,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Stable: Herd Care Simulator | 203700 | [203700-horse-stable-herd-care-simulator.json](./203700-horse-stable-herd-care-simulator.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
+| Horse Tales: Emerald Valley Ranch - DLC Pack | 371935 | [371935-horse-tales-emerald-valley-ranch-dlc-pack.json](./371935-horse-tales-emerald-valley-ranch-dlc-pack.json) |
+| Horse Tales: Emerald Valley Ranch - The Foal Care Pack | 371938 | [371938-horse-tales-emerald-valley-ranch-the-foal-care-pack.json](./371938-horse-tales-emerald-valley-ranch-the-foal-care-pack.json) |
+| Horse Tales: Emerald Valley Ranch - The Rainbow Tack Set | 371939 | [371939-horse-tales-emerald-valley-ranch-the-rainbow-tack-set.json](./371939-horse-tales-emerald-valley-ranch-the-rainbow-tack-set.json) |
+| Horse Tales: Emerald Valley Ranch - Unicorn Tack Set | 371937 | [371937-horse-tales-emerald-valley-ranch-unicorn-tack-set.json](./371937-horse-tales-emerald-valley-ranch-unicorn-tack-set.json) |
 | Horse Vet 3D | 85181 | [85181-horse-vet-3d.json](./85181-horse-vet-3d.json) |
 | Horse World | 106123 | [106123-horse-world.json](./106123-horse-world.json) |
 | HorseGame | 126324 | [126324-horsegame.json](./126324-horsegame.json) |
