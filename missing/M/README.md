@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Frog | 367561 | [367561-magic-frog.json](./367561-magic-frog.json) |
 | Magic Fruit World | 421329 | [421329-magic-fruit-world.json](./421329-magic-fruit-world.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
+| Magic Garden | 366179 | [366179-magic-garden.json](./366179-magic-garden.json) |
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
 | Magic Gems | 156226 | [156226-magic-gems.json](./156226-magic-gems.json) |
@@ -5135,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayohiga | 151530 | [151530-mayohiga.json](./151530-mayohiga.json) |
 | Mayoi Shopping Street | 365861 | [365861-mayoi-shopping-street.json](./365861-mayoi-shopping-street.json) |
 | Mayonaka 10 Chome | 301093 | [301093-mayonaka-10-chome.json](./301093-mayonaka-10-chome.json) |
+| Mayonaka Mayoi Ga | 366278 | [366278-mayonaka-mayoi-ga.json](./366278-mayonaka-mayoi-ga.json) |
 | Mayonaka no Kanshoku | 233934 | [233934-mayonaka-no-kanshoku.json](./233934-mayonaka-no-kanshoku.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
 | Mayonnaise Hole | 210827 | [210827-mayonnaise-hole.json](./210827-mayonnaise-hole.json) |
