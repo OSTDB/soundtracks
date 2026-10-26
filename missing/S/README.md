@@ -3634,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seastalker | 12622 | [12622-seastalker.json](./12622-seastalker.json) |
 | Seasteader | 29473 | [29473-seasteader.json](./29473-seasteader.json) |
 | Seat of War | 104832 | [104832-seat-of-war.json](./104832-seat-of-war.json) |
+| Seatercel | 345946 | [345946-seatercel.json](./345946-seatercel.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawitch | 62064 | [62064-seawitch.json](./62064-seawitch.json) |
@@ -4939,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Server Owner Tycoon | 211176 | [211176-server-owner-tycoon.json](./211176-server-owner-tycoon.json) |
 | Server-Admin Simulator | 404189 | [404189-server-admin-simulator.json](./404189-server-admin-simulator.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
+| Service Please | 346532 | [346532-service-please.json](./346532-service-please.json) |
 | Service Station Car Parking | 96924 | [96924-service-station-car-parking.json](./96924-service-station-car-parking.json) |
 | Service With a Shotgun | 356554 | [356554-service-with-a-shotgun.json](./356554-service-with-a-shotgun.json) |
 | ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
@@ -8190,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
 | Shutterbug Stud | 156599 | [156599-shutterbug-stud.json](./156599-shutterbug-stud.json) |
+| Shuttered | 346519 | [346519-shuttered.json](./346519-shuttered.json) |
 | Shuttle Commander | 153326 | [153326-shuttle-commander.json](./153326-shuttle-commander.json) |
 | Shuttle Intercept | 284848 | [284848-shuttle-intercept.json](./284848-shuttle-intercept.json) |
 | Shuttle Mining | 350482 | [350482-shuttle-mining.json](./350482-shuttle-mining.json) |
@@ -8571,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigil Valley | 272456 | [272456-sigil-valley.json](./272456-sigil-valley.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
 | Sigillum | 407173 | [407173-sigillum.json](./407173-sigillum.json) |
+| Sigillvm: Resonance | 346264 | [346264-sigillvm-resonance.json](./346264-sigillvm-resonance.json) |
 | Sigils of Elohim | 17808 | [17808-sigils-of-elohim.json](./17808-sigils-of-elohim.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
 | Sigma 7 | 36861 | [36861-sigma-7.json](./36861-sigma-7.json) |
@@ -9581,6 +9585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink the Fish | 282539 | [282539-sink-the-fish.json](./282539-sink-the-fish.json) |
 | Sink the Fish: Spy Kit | 282542 | [282542-sink-the-fish-spy-kit.json](./282542-sink-the-fish-spy-kit.json) |
 | Sink/Swim | 179006 | [179006-sink-swim.json](./179006-sink-swim.json) |
+| Sinker Sound | 346522 | [346522-sinker-sound.json](./346522-sinker-sound.json) |
 | Sinking | 422016 | [422016-sinking.json](./422016-sinking.json) |
 | Sinking Inn | 151111 | [151111-sinking-inn.json](./151111-sinking-inn.json) |
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
@@ -11129,6 +11134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Rising | 95676 | [95676-slender-rising.json](./95676-slender-rising.json) |
 | Slender Threads | 127424 | [127424-slender-threads.json](./127424-slender-threads.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
+| Slender: A Crooked Manifestation | 346483 | [346483-slender-a-crooked-manifestation.json](./346483-slender-a-crooked-manifestation.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slender: Anxiety | 126274 | [126274-slender-anxiety.json](./126274-slender-anxiety.json) |
 | Slender: Dark Woods | 321434 | [321434-slender-dark-woods.json](./321434-slender-dark-woods.json) |
@@ -13248,6 +13254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Shooter | 247063 | [247063-soccer-shooter.json](./247063-soccer-shooter.json) |
+| Soccer Shootout | 345929 | [345929-soccer-shootout.json](./345929-soccer-shootout.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
 | Soccer Skills | 141461 | [141461-soccer-skills.json](./141461-soccer-skills.json) |
 | Soccer Slam! | 233536 | [233536-soccer-slam.json](./233536-soccer-slam.json) |
@@ -13659,6 +13666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldam: Drop, Connect, Erase | 36816 | [36816-soldam-drop-connect-erase.json](./36816-soldam-drop-connect-erase.json) |
 | Soldat 2 | 129499 | [129499-soldat-2.json](./129499-soldat-2.json) |
 | Soldier | 150243 | [150243-soldier.json](./150243-soldier.json) |
+| Soldier | 345936 | [345936-soldier.json](./345936-soldier.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
@@ -20045,6 +20053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
 | Star Garden | 334856 | [334856-star-garden.json](./334856-star-garden.json) |
 | Star General | 74087 | [74087-star-general.json](./74087-star-general.json) |
+| Star Ghazi | 345951 | [345951-star-ghazi.json](./345951-star-ghazi.json) |
 | Star Ghost | 58873 | [58873-star-ghost.json](./58873-star-ghost.json) |
 | Star Girl | 347042 | [347042-star-girl.json](./347042-star-girl.json) |
 | Star Girl Proxima | 121992 | [121992-star-girl-proxima.json](./121992-star-girl-proxima.json) |
@@ -20437,6 +20446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars | 245394 | [245394-star-wars.json](./245394-star-wars.json) |
 | Star Wars | 307080 | [307080-star-wars.json](./307080-star-wars.json) |
+| Star Wars | 345947 | [345947-star-wars.json](./345947-star-wars.json) |
 | Star Wars | 54649 | [54649-star-wars.json](./54649-star-wars.json) |
 | Star Wars | 72396 | [72396-star-wars.json](./72396-star-wars.json) |
 | Star Wars Arcade | 39822 | [39822-star-wars-arcade.json](./39822-star-wars-arcade.json) |
@@ -25443,6 +25453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Air Combat | 63700 | [63700-super-air-combat.json](./63700-super-air-combat.json) |
 | Super Air Diver 2 | 42364 | [42364-super-air-diver-2.json](./42364-super-air-diver-2.json) |
 | Super Air Zonk | 37609 | [37609-super-air-zonk.json](./37609-super-air-zonk.json) |
+| Super Airline Tycoon | 346520 | [346520-super-airline-tycoon.json](./346520-super-airline-tycoon.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Alfred Chicken | 44455 | [44455-super-alfred-chicken.json](./44455-super-alfred-chicken.json) |
@@ -26294,6 +26305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
 | Super Kill-Boi 9000 | 215705 | [215705-super-kill-boi-9000.json](./215705-super-kill-boi-9000.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
+| Super Kingcrab Simulator | 345804 | [345804-super-kingcrab-simulator.json](./345804-super-kingcrab-simulator.json) |
 | Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
 | Super Kittens | 138489 | [138489-super-kittens.json](./138489-super-kittens.json) |
 | Super Kitty Tales | 180774 | [180774-super-kitty-tales.json](./180774-super-kitty-tales.json) |
@@ -27017,6 +27029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Morph | 76904 | [76904-super-morph.json](./76904-super-morph.json) |
 | Super Motocross | 345913 | [345913-super-motocross.json](./345913-super-motocross.json) |
 | Super Motocross | 359743 | [359743-super-motocross.json](./359743-super-motocross.json) |
+| Super Motor | 345940 | [345940-super-motor.json](./345940-super-motor.json) |
 | Super Move Fun | 246421 | [246421-super-move-fun.json](./246421-super-move-fun.json) |
 | Super Move Quest | 246367 | [246367-super-move-quest.json](./246367-super-move-quest.json) |
 | Super Move Quest | 358909 | [358909-super-move-quest.json](./358909-super-move-quest.json) |
@@ -29332,6 +29345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
 | Sweet Sins: Kawaii Run | 245755 | [245755-sweet-sins-kawaii-run.json](./245755-sweet-sins-kawaii-run.json) |
 | Sweet Sky | 325897 | [325897-sweet-sky.json](./325897-sweet-sky.json) |
+| Sweet Slaughter | 345802 | [345802-sweet-slaughter.json](./345802-sweet-slaughter.json) |
 | Sweet Slave | 339442 | [339442-sweet-slave.json](./339442-sweet-slave.json) |
 | Sweet Sleep | 229729 | [229729-sweet-sleep.json](./229729-sweet-sleep.json) |
 | Sweet Solitaire: School Witch | 133232 | [133232-sweet-solitaire-school-witch.json](./133232-sweet-solitaire-school-witch.json) |
