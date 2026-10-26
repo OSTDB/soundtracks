@@ -4294,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deducto | 149353 | [149353-deducto.json](./149353-deducto.json) |
 | Deducto 2 | 227140 | [227140-deducto-2.json](./227140-deducto-2.json) |
 | Deductopia | 403322 | [403322-deductopia.json](./403322-deductopia.json) |
+| Deductopia Chapter 1: Bring Your Pet to School Day | 334610 | [334610-deductopia-chapter-1-bring-your-pet-to-school-day.json](./334610-deductopia-chapter-1-bring-your-pet-to-school-day.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
 | Dedz0ne | 256970 | [256970-dedz0ne.json](./256970-dedz0ne.json) |
 | Dee Dum | 134992 | [134992-dee-dum.json](./134992-dee-dum.json) |
