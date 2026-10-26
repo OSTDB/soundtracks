@@ -2036,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
 | Zugzwang | 207015 | [207015-zugzwang.json](./207015-zugzwang.json) |
+| Zugzwang | 376431 | [376431-zugzwang.json](./376431-zugzwang.json) |
 | Zui's Witch Academy | 338311 | [338311-zuis-witch-academy.json](./338311-zuis-witch-academy.json) |
 | Zuìhòu de Xiūxiānzhě | 375416 | [375416-zuihou-de-xiuxianzhe.json](./375416-zuihou-de-xiuxianzhe.json) |
 | Zuìzhōng Huànxiǎng | 340183 | [340183-zuizhong-huanxiang.json](./340183-zuizhong-huanxiang.json) |
