@@ -2650,8 +2650,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball 3 | 232450 | [232450-8-ball-3.json](./232450-8-ball-3.json) |
 | 8 Ball 4 | 400987 | [400987-8-ball-4.json](./400987-8-ball-4.json) |
 | 8 Ball Action | 38566 | [38566-8-ball-action.json](./38566-8-ball-action.json) |
+| 8 Ball by Pokerist | 377125 | [377125-8-ball-by-pokerist.json](./377125-8-ball-by-pokerist.json) |
 | 8 Ball Clash | 194918 | [194918-8-ball-clash.json](./194918-8-ball-clash.json) |
 | 8 Ball Hero | 223930 | [223930-8-ball-hero.json](./223930-8-ball-hero.json) |
+| 8 Ball Kings | 377124 | [377124-8-ball-kings.json](./377124-8-ball-kings.json) |
 | 8 Ball Legend: Online Pool | 233120 | [233120-8-ball-legend-online-pool.json](./233120-8-ball-legend-online-pool.json) |
 | 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
 | 8 Ball Pool City | 88880 | [88880-8-ball-pool-city.json](./88880-8-ball-pool-city.json) |
@@ -2687,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Complete Collection | 52540 | [52540-8-bit-complete-collection.json](./52540-8-bit-complete-collection.json) |
 | 8-Bit Farm | 56729 | [56729-8-bit-farm.json](./56729-8-bit-farm.json) |
 | 8-Bit Hordes | 21414 | [21414-8-bit-hordes.json](./21414-8-bit-hordes.json) |
+| 8-Bit Jump 4 | 377122 | [377122-8-bit-jump-4.json](./377122-8-bit-jump-4.json) |
 | 8-Bit Mini Mayhem | 65418 | [65418-8-bit-mini-mayhem.json](./65418-8-bit-mini-mayhem.json) |
 | 8-Bit Panda | 136343 | [136343-8-bit-panda.json](./136343-8-bit-panda.json) |
 | 8-Bit Rebellion! | 255180 | [255180-8-bit-rebellion.json](./255180-8-bit-rebellion.json) |
@@ -2698,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Waterslide | 101105 | [101105-8-bit-waterslide.json](./101105-8-bit-waterslide.json) |
 | 8-BIT Yu-No's Great Adventure | 209737 | [209737-8-bit-yu-nos-great-adventure.json](./209737-8-bit-yu-nos-great-adventure.json) |
+| 8-bitBot | 377123 | [377123-8-bitbot.json](./377123-8-bitbot.json) |
 | 8-gatsu 7-ka no Amayadori | 403956 | [403956-8-gatsu-7-ka-no-amayadori.json](./403956-8-gatsu-7-ka-no-amayadori.json) |
 | 8-Hour Workday | 399003 | [399003-8-hour-workday.json](./399003-8-hour-workday.json) |
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
@@ -2779,6 +2783,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8th Heaven | 267262 | [267262-8th-heaven.json](./267262-8th-heaven.json) |
 | 8th Millenium: War Against The Pagan Gods | 300961 | [300961-8th-millenium-war-against-the-pagan-gods.json](./300961-8th-millenium-war-against-the-pagan-gods.json) |
 | 8th Millennium: War Against the Pagan Gods | 315229 | [315229-8th-millennium-war-against-the-pagan-gods.json](./315229-8th-millennium-war-against-the-pagan-gods.json) |
+| 8th Period: Music | 377121 | [377121-8th-period-music.json](./377121-8th-period-music.json) |
+| 8Towers | 377120 | [377120-8towers.json](./377120-8towers.json) |
 | 9 Ball Shootout | 39846 | [39846-9-ball-shootout.json](./39846-9-ball-shootout.json) |
 | 9 Balls | 96944 | [96944-9-balls.json](./96944-9-balls.json) |
 | 9 Childs Street | 207401 | [207401-9-childs-street.json](./207401-9-childs-street.json) |
@@ -2834,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90'' Soccer | 212342 | [212342-90-soccer.json](./212342-90-soccer.json) |
 | 90's Pool | 84682 | [84682-90s-pool.json](./84682-90s-pool.json) |
 | 9000 Years Ago | 283074 | [283074-9000-years-ago.json](./283074-9000-years-ago.json) |
+| 90FX | 377126 | [377126-90fx.json](./377126-90fx.json) |
 | 90s Extreme Skiing | 328091 | [328091-90s-extreme-skiing.json](./328091-90s-extreme-skiing.json) |
 | 911 Dispatcher: Unknown Caller | 415465 | [415465-911-dispatcher-unknown-caller.json](./415465-911-dispatcher-unknown-caller.json) |
 | 911 Emergency Manager | 377412 | [377412-911-emergency-manager.json](./377412-911-emergency-manager.json) |
