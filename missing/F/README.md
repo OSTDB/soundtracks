@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
 | Factum Solus | 323562 | [323562-factum-solus.json](./323562-factum-solus.json) |
 | Fade | 148828 | [148828-fade.json](./148828-fade.json) |
+| Fade | 342517 | [342517-fade.json](./342517-fade.json) |
 | Fade Away | 68888 | [68888-fade-away.json](./68888-fade-away.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
@@ -5970,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights of Nightmare: Escape Horror Story | 297313 | [297313-five-nights-of-nightmare-escape-horror-story.json](./297313-five-nights-of-nightmare-escape-horror-story.json) |
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
 | Five Nights on the Toilet: Number 2 | 267388 | [267388-five-nights-on-the-toilet-number-2.json](./267388-five-nights-on-the-toilet-number-2.json) |
+| Five Nights with CJ | 342546 | [342546-five-nights-with-cj.json](./342546-five-nights-with-cj.json) |
 | Five Nights with Firearms | 405308 | [405308-five-nights-with-firearms.json](./405308-five-nights-with-firearms.json) |
 | Five Nights with Floppa: R | 370213 | [370213-five-nights-with-floppa-r.json](./370213-five-nights-with-floppa-r.json) |
 | Five Nights With James | 212249 | [212249-five-nights-with-james.json](./212249-five-nights-with-james.json) |
@@ -6115,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame Zapper Kotsujin | 144086 | [144086-flame-zapper-kotsujin.json](./144086-flame-zapper-kotsujin.json) |
 | Flame, Forest & Flood | 404179 | [404179-flame-forest-and-flood.json](./404179-flame-forest-and-flood.json) |
 | Flamebreak | 24622 | [24622-flamebreak.json](./24622-flamebreak.json) |
+| Flamecraft | 342916 | [342916-flamecraft.json](./342916-flamecraft.json) |
 | Flamefall | 342143 | [342143-flamefall.json](./342143-flamefall.json) |
 | Flamel's Miracle | 90479 | [90479-flamels-miracle.json](./90479-flamels-miracle.json) |
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
@@ -8724,6 +8727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 5 - Season 3: Wrecked | 302611 | [302611-fortnite-chapter-5-season-3-wrecked.json](./302611-fortnite-chapter-5-season-3-wrecked.json) |
 | Fortnite: Chapter 5 - Season 4: Absolute Doom | 313311 | [313311-fortnite-chapter-5-season-4-absolute-doom.json](./313311-fortnite-chapter-5-season-4-absolute-doom.json) |
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
+| Fortnite: Chapter 6 - Mini Season 1: Galactic Battle | 342555 | [342555-fortnite-chapter-6-mini-season-1-galactic-battle.json](./342555-fortnite-chapter-6-mini-season-1-galactic-battle.json) |
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
 | Fortnite: Chapter 7 - Season 3: Runners | 404689 | [404689-fortnite-chapter-7-season-3-runners.json](./404689-fortnite-chapter-7-season-3-runners.json) |
