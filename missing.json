@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T11:05:12.638Z",
-  "total_missing": 264852,
+  "generated_at": "2026-10-26T11:19:12.499Z",
+  "total_missing": 264901,
   "games": [
     {
       "igdb_id": 191680,
@@ -30015,6 +30015,11 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
+    },
+    {
+      "igdb_id": 342233,
+      "game_name": "Adventures In Time & Space",
+      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -95375,11 +95380,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -201247,6 +201247,11 @@
       "file": "missing/C/395340-chou-shin-jikuu-geimu-neptune-unlimited.json"
     },
     {
+      "igdb_id": 361583,
+      "game_name": "Chou Shogi",
+      "file": "missing/C/361583-chou-shogi.json"
+    },
+    {
       "igdb_id": 107656,
       "game_name": "Chou Tousouchuu & Chou Sentouchuu Double Pack",
       "file": "missing/C/107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json"
@@ -232877,6 +232882,11 @@
       "file": "missing/C/324911-covenant.json"
     },
     {
+      "igdb_id": 361572,
+      "game_name": "Covenant 21",
+      "file": "missing/C/361572-covenant-21.json"
+    },
+    {
       "igdb_id": 395976,
       "game_name": "Covenant Cards",
       "file": "missing/C/395976-covenant-cards.json"
@@ -247915,6 +247925,11 @@
       "igdb_id": 61890,
       "game_name": "CubeWorks",
       "file": "missing/C/61890-cubeworks.json"
+    },
+    {
+      "igdb_id": 361575,
+      "game_name": "Cubex",
+      "file": "missing/C/361575-cubex.json"
     },
     {
       "igdb_id": 339352,
@@ -275570,6 +275585,11 @@
       "igdb_id": 236650,
       "game_name": "Deck 'Em!",
       "file": "missing/D/236650-deck-em.json"
+    },
+    {
+      "igdb_id": 361654,
+      "game_name": "Deck & Conn",
+      "file": "missing/D/361654-deck-and-conn.json"
     },
     {
       "igdb_id": 372254,
@@ -311942,9 +311962,19 @@
       "file": "missing/D/281525-double-dragon-ii-the-revenge.json"
     },
     {
+      "igdb_id": 361667,
+      "game_name": "Double Dragon II: The Revenge",
+      "file": "missing/D/361667-double-dragon-ii-the-revenge.json"
+    },
+    {
       "igdb_id": 6790,
       "game_name": "Double Dragon II: The Revenge",
       "file": "missing/D/6790-double-dragon-ii-the-revenge.json"
+    },
+    {
+      "igdb_id": 361668,
+      "game_name": "Double Dragon III: The Sacred Stones",
+      "file": "missing/D/361668-double-dragon-iii-the-sacred-stones.json"
     },
     {
       "igdb_id": 79335,
@@ -402557,6 +402587,11 @@
       "file": "missing/F/103374-flicky-marble.json"
     },
     {
+      "igdb_id": 361646,
+      "game_name": "Flickyhack",
+      "file": "missing/F/361646-flickyhack.json"
+    },
+    {
       "igdb_id": 393479,
       "game_name": "Flict",
       "file": "missing/F/393479-flict.json"
@@ -406945,6 +406980,11 @@
       "igdb_id": 242611,
       "game_name": "FNAF in Psych Engine",
       "file": "missing/F/242611-fnaf-in-psych-engine.json"
+    },
+    {
+      "igdb_id": 361571,
+      "game_name": "FNAF in Sonic Forever",
+      "file": "missing/F/361571-fnaf-in-sonic-forever.json"
     },
     {
       "igdb_id": 260060,
@@ -433567,6 +433607,11 @@
       "file": "missing/G/13001-galletron.json"
     },
     {
+      "igdb_id": 361663,
+      "game_name": "Gallipoli",
+      "file": "missing/G/361663-gallipoli.json"
+    },
+    {
       "igdb_id": 390590,
       "game_name": "Gallipoli Trenches: The Forgotten Front WW1",
       "file": "missing/G/390590-gallipoli-trenches-the-forgotten-front-ww1.json"
@@ -447430,6 +447475,11 @@
       "igdb_id": 124566,
       "game_name": "Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai-soudatsusen!!",
       "file": "missing/G/124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json"
+    },
+    {
+      "igdb_id": 361661,
+      "game_name": "Giovanni's Level Pack 2",
+      "file": "missing/G/361661-giovannis-level-pack-2.json"
     },
     {
       "igdb_id": 316757,
@@ -469002,6 +469052,11 @@
       "file": "missing/G/126467-groove-coaster-zero.json"
     },
     {
+      "igdb_id": 361564,
+      "game_name": "Groove Coaster: (K)Night of (K)Nights Butaotome ver.",
+      "file": "missing/G/361564-groove-coaster-k-night-of-k-nights-butaotome-ver.json"
+    },
+    {
       "igdb_id": 361590,
       "game_name": "Groove Coaster: Apeliotes",
       "file": "missing/G/361590-groove-coaster-apeliotes.json"
@@ -469010,6 +469065,11 @@
       "igdb_id": 361671,
       "game_name": "Groove Coaster: Arcaea Pack",
       "file": "missing/G/361671-groove-coaster-arcaea-pack.json"
+    },
+    {
+      "igdb_id": 361557,
+      "game_name": "Groove Coaster: Asgore",
+      "file": "missing/G/361557-groove-coaster-asgore.json"
     },
     {
       "igdb_id": 358959,
@@ -469025,6 +469085,11 @@
       "igdb_id": 361477,
       "game_name": "Groove Coaster: Bbkkbkk",
       "file": "missing/G/361477-groove-coaster-bbkkbkk.json"
+    },
+    {
+      "igdb_id": 361562,
+      "game_name": "Groove Coaster: Be There",
+      "file": "missing/G/361562-groove-coaster-be-there.json"
     },
     {
       "igdb_id": 361460,
@@ -469062,6 +469127,11 @@
       "file": "missing/G/361611-groove-coaster-djmax-pack-01.json"
     },
     {
+      "igdb_id": 361560,
+      "game_name": "Groove Coaster: Dotted 8th",
+      "file": "missing/G/361560-groove-coaster-dotted-8th.json"
+    },
+    {
       "igdb_id": 361474,
       "game_name": "Groove Coaster: Dragon Spirit Medley",
       "file": "missing/G/361474-groove-coaster-dragon-spirit-medley.json"
@@ -469085,6 +469155,11 @@
       "igdb_id": 361699,
       "game_name": "Groove Coaster: Groove Master Pack 01",
       "file": "missing/G/361699-groove-coaster-groove-master-pack-01.json"
+    },
+    {
+      "igdb_id": 361649,
+      "game_name": "Groove Coaster: Groove Master Pack 02",
+      "file": "missing/G/361649-groove-coaster-groove-master-pack-02.json"
     },
     {
       "igdb_id": 361617,
@@ -469122,6 +469197,11 @@
       "file": "missing/G/361471-groove-coaster-joker-junko-eienno-junka.json"
     },
     {
+      "igdb_id": 361651,
+      "game_name": "Groove Coaster: Kawaii Pack 01",
+      "file": "missing/G/361651-groove-coaster-kawaii-pack-01.json"
+    },
+    {
       "igdb_id": 361616,
       "game_name": "Groove Coaster: Kawaii Pack 02",
       "file": "missing/G/361616-groove-coaster-kawaii-pack-02.json"
@@ -469130,6 +469210,16 @@
       "igdb_id": 361586,
       "game_name": "Groove Coaster: Kikikaikai",
       "file": "missing/G/361586-groove-coaster-kikikaikai.json"
+    },
+    {
+      "igdb_id": 361559,
+      "game_name": "Groove Coaster: Kodo, Koborenu Sake",
+      "file": "missing/G/361559-groove-coaster-kodo-koborenu-sake.json"
+    },
+    {
+      "igdb_id": 361555,
+      "game_name": "Groove Coaster: Konohazuku",
+      "file": "missing/G/361555-groove-coaster-konohazuku.json"
     },
     {
       "igdb_id": 361478,
@@ -469142,6 +469232,11 @@
       "file": "missing/G/361472-groove-coaster-little-higher.json"
     },
     {
+      "igdb_id": 361561,
+      "game_name": "Groove Coaster: Lover-Pop",
+      "file": "missing/G/361561-groove-coaster-lover-pop.json"
+    },
+    {
       "igdb_id": 361484,
       "game_name": "Groove Coaster: Machibito Ha Kozu",
       "file": "missing/G/361484-groove-coaster-machibito-ha-kozu.json"
@@ -469150,6 +469245,11 @@
       "igdb_id": 361450,
       "game_name": "Groove Coaster: Material of Puppets",
       "file": "missing/G/361450-groove-coaster-material-of-puppets.json"
+    },
+    {
+      "igdb_id": 361566,
+      "game_name": "Groove Coaster: Metallic Punisher",
+      "file": "missing/G/361566-groove-coaster-metallic-punisher.json"
     },
     {
       "igdb_id": 361481,
@@ -469180,6 +469280,11 @@
       "igdb_id": 361591,
       "game_name": "Groove Coaster: Rave War",
       "file": "missing/G/361591-groove-coaster-rave-war.json"
+    },
+    {
+      "igdb_id": 361563,
+      "game_name": "Groove Coaster: Sacrifice feat. Ayame (GC Refix)",
+      "file": "missing/G/361563-groove-coaster-sacrifice-feat-ayame-gc-refix.json"
     },
     {
       "igdb_id": 361446,
@@ -469225,6 +469330,11 @@
       "igdb_id": 361614,
       "game_name": "Groove Coaster: t+pazolite Pack",
       "file": "missing/G/361614-groove-coaster-t-pazolite-pack.json"
+    },
+    {
+      "igdb_id": 361556,
+      "game_name": "Groove Coaster: Tete+a+tete",
+      "file": "missing/G/361556-groove-coaster-tete-a-tete.json"
     },
     {
       "igdb_id": 361447,
@@ -469277,9 +469387,19 @@
       "file": "missing/G/361610-groove-coaster-touhou-dlc-pack-09.json"
     },
     {
+      "igdb_id": 361565,
+      "game_name": "Groove Coaster: Touhou Gaimaden",
+      "file": "missing/G/361565-groove-coaster-touhou-gaimaden.json"
+    },
+    {
       "igdb_id": 361449,
       "game_name": "Groove Coaster: Touhou Onganmu",
       "file": "missing/G/361449-groove-coaster-touhou-onganmu.json"
+    },
+    {
+      "igdb_id": 361558,
+      "game_name": "Groove Coaster: Touhou Souchimai",
+      "file": "missing/G/361558-groove-coaster-touhou-souchimai.json"
     },
     {
       "igdb_id": 361467,
@@ -485662,6 +485782,16 @@
       "file": "missing/H/297924-harrowed-world-whats-past-is-portents.json"
     },
     {
+      "igdb_id": 361666,
+      "game_name": "Harrowed World: What's Past Is Portents - Duncan's Story",
+      "file": "missing/H/361666-harrowed-world-whats-past-is-portents-duncans-story.json"
+    },
+    {
+      "igdb_id": 361665,
+      "game_name": "Harrowed World: What's Past Is Portents - Story Pack",
+      "file": "missing/H/361665-harrowed-world-whats-past-is-portents-story-pack.json"
+    },
+    {
       "igdb_id": 199104,
       "game_name": "Harrowing Gate: Ghost Dimension",
       "file": "missing/H/199104-harrowing-gate-ghost-dimension.json"
@@ -494145,6 +494275,11 @@
       "igdb_id": 311705,
       "game_name": "Hell's House",
       "file": "missing/H/311705-hells-house.json"
+    },
+    {
+      "igdb_id": 361650,
+      "game_name": "Hell's Kitchen",
+      "file": "missing/H/361650-hells-kitchen.json"
     },
     {
       "igdb_id": 21358,
@@ -588717,11 +588852,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -603742,6 +603872,11 @@
       "file": "missing/K/25308-kyurinagas-revenge.json"
     },
     {
+      "igdb_id": 361660,
+      "game_name": "Kyuryutou",
+      "file": "missing/K/361660-kyuryutou.json"
+    },
+    {
       "igdb_id": 128314,
       "game_name": "Kyushu Jade",
       "file": "missing/K/128314-kyushu-jade.json"
@@ -606110,6 +606245,11 @@
       "igdb_id": 136729,
       "game_name": "Lairchitect",
       "file": "missing/L/136729-lairchitect.json"
+    },
+    {
+      "igdb_id": 361579,
+      "game_name": "Lairchitect",
+      "file": "missing/L/361579-lairchitect.json"
     },
     {
       "igdb_id": 307217,
@@ -737087,6 +737227,11 @@
       "file": "missing/M/190058-mystic-cards.json"
     },
     {
+      "igdb_id": 361570,
+      "game_name": "Mystic Cave Zone Remake",
+      "file": "missing/M/361570-mystic-cave-zone-remake.json"
+    },
+    {
       "igdb_id": 10945,
       "game_name": "Mystic Chronicles",
       "file": "missing/M/10945-mystic-chronicles.json"
@@ -762085,6 +762230,11 @@
       "igdb_id": 363459,
       "game_name": "Nixy and the Seeds of Doom",
       "file": "missing/N/363459-nixy-and-the-seeds-of-doom.json"
+    },
+    {
+      "igdb_id": 361584,
+      "game_name": "Nizero Shogi",
+      "file": "missing/N/361584-nizero-shogi.json"
     },
     {
       "igdb_id": 200930,
@@ -840842,6 +840992,11 @@
       "file": "missing/P/252922-pokemon-azure-horizons.json"
     },
     {
+      "igdb_id": 361670,
+      "game_name": "Pokemon Azure Platinum",
+      "file": "missing/P/361670-pokemon-azure-platinum.json"
+    },
+    {
       "igdb_id": 57344,
       "game_name": "Pokémon Bank",
       "file": "missing/P/57344-pokemon-bank.json"
@@ -900957,6 +901112,11 @@
       "file": "missing/R/225793-remembrance.json"
     },
     {
+      "igdb_id": 361577,
+      "game_name": "Remembrance",
+      "file": "missing/R/361577-remembrance.json"
+    },
+    {
       "igdb_id": 82917,
       "game_name": "Remembrance",
       "file": "missing/R/82917-remembrance.json"
@@ -952857,6 +953017,11 @@
       "file": "missing/S/219617-seasick.json"
     },
     {
+      "igdb_id": 361648,
+      "game_name": "Seaside Adventure",
+      "file": "missing/S/361648-seaside-adventure.json"
+    },
+    {
       "igdb_id": 139649,
       "game_name": "Seaside Cafe Story",
       "file": "missing/S/139649-seaside-cafe-story.json"
@@ -968060,6 +968225,11 @@
       "igdb_id": 1218,
       "game_name": "Shenmue II",
       "file": "missing/S/1218-shenmue-ii.json"
+    },
+    {
+      "igdb_id": 361664,
+      "game_name": "Shenmue III Enhanced",
+      "file": "missing/S/361664-shenmue-iii-enhanced.json"
     },
     {
       "igdb_id": 129191,
@@ -990367,6 +990537,11 @@
       "file": "missing/S/327021-slender-killer.json"
     },
     {
+      "igdb_id": 361574,
+      "game_name": "Slender Man in Sonic Forever",
+      "file": "missing/S/361574-slender-man-in-sonic-forever.json"
+    },
+    {
       "igdb_id": 223626,
       "game_name": "Slender Man Origins 2: House of Slender",
       "file": "missing/S/223626-slender-man-origins-2-house-of-slender.json"
@@ -1006042,6 +1006217,11 @@
       "file": "missing/S/270220-sonic-1-easy-mode.json"
     },
     {
+      "igdb_id": 361662,
+      "game_name": "Sonic 1 in Sonic 3 (S.C.E. Version)",
+      "file": "missing/S/361662-sonic-1-in-sonic-3-s-c-e-version.json"
+    },
+    {
       "igdb_id": 360500,
       "game_name": "Sonic 1 on Bird Hill Island",
       "file": "missing/S/360500-sonic-1-on-bird-hill-island.json"
@@ -1006050,6 +1006230,11 @@
       "igdb_id": 337708,
       "game_name": "Sonic 1 Pilot",
       "file": "missing/S/337708-sonic-1-pilot.json"
+    },
+    {
+      "igdb_id": 361657,
+      "game_name": "Sonic 1 Proto-Mix",
+      "file": "missing/S/361657-sonic-1-proto-mix.json"
     },
     {
       "igdb_id": 332570,
@@ -1006072,6 +1006257,11 @@
       "file": "missing/S/215157-sonic-1-south-island-expedition.json"
     },
     {
+      "igdb_id": 361659,
+      "game_name": "Sonic 1: The Super Challenges",
+      "file": "missing/S/361659-sonic-1-the-super-challenges.json"
+    },
+    {
       "igdb_id": 323859,
       "game_name": "Sonic 1: WTF Lame",
       "file": "missing/S/323859-sonic-1-wtf-lame.json"
@@ -1006080,6 +1006270,11 @@
       "igdb_id": 331727,
       "game_name": "Sonic 16th Anniversary",
       "file": "missing/S/331727-sonic-16th-anniversary.json"
+    },
+    {
+      "igdb_id": 361655,
+      "game_name": "Sonic 2 Addendum",
+      "file": "missing/S/361655-sonic-2-addendum.json"
     },
     {
       "igdb_id": 136920,
@@ -1006107,6 +1006302,11 @@
       "file": "missing/S/227799-sonic-2-sms-remake.json"
     },
     {
+      "igdb_id": 361569,
+      "game_name": "Sonic 2 Westside Plus",
+      "file": "missing/S/361569-sonic-2-westside-plus.json"
+    },
+    {
       "igdb_id": 45755,
       "game_name": "Sonic 2 XL",
       "file": "missing/S/45755-sonic-2-xl.json"
@@ -1006115,6 +1006315,11 @@
       "igdb_id": 333957,
       "game_name": "Sonic 2: Chaos Adventure",
       "file": "missing/S/333957-sonic-2-chaos-adventure.json"
+    },
+    {
+      "igdb_id": 361653,
+      "game_name": "Sonic 2: Westside Renovation",
+      "file": "missing/S/361653-sonic-2-westside-renovation.json"
     },
     {
       "igdb_id": 333711,
@@ -1006175,6 +1006380,11 @@
       "igdb_id": 227802,
       "game_name": "Sonic 3 Timelines SMS Remake",
       "file": "missing/S/227802-sonic-3-timelines-sms-remake.json"
+    },
+    {
+      "igdb_id": 361568,
+      "game_name": "Sonic 3 Ultimate",
+      "file": "missing/S/361568-sonic-3-ultimate.json"
     },
     {
       "igdb_id": 336363,
@@ -1007605,6 +1007815,11 @@
       "igdb_id": 133941,
       "game_name": "Sonic Jump 2",
       "file": "missing/S/133941-sonic-jump-2.json"
+    },
+    {
+      "igdb_id": 361567,
+      "game_name": "Sonic Jump Anniversary",
+      "file": "missing/S/361567-sonic-jump-anniversary.json"
     },
     {
       "igdb_id": 8502,
@@ -1009122,6 +1009337,11 @@
       "file": "missing/S/197369-sonic-the-hedgehog-golf.json"
     },
     {
+      "igdb_id": 361647,
+      "game_name": "Sonic the Hedgehog in Giant Jungle",
+      "file": "missing/S/361647-sonic-the-hedgehog-in-giant-jungle.json"
+    },
+    {
       "igdb_id": 238200,
       "game_name": "Sonic the Hedgehog Interactive Watch",
       "file": "missing/S/238200-sonic-the-hedgehog-interactive-watch.json"
@@ -1009322,6 +1009542,11 @@
       "file": "missing/S/203164-sonic-the-hedgehog-omochao-edition.json"
     },
     {
+      "igdb_id": 361656,
+      "game_name": "Sonic the Hedgehog: Phantom Remix",
+      "file": "missing/S/361656-sonic-the-hedgehog-phantom-remix.json"
+    },
+    {
       "igdb_id": 301516,
       "game_name": "Sonic the Hedgehog: Project Mettrix",
       "file": "missing/S/301516-sonic-the-hedgehog-project-mettrix.json"
@@ -1009462,6 +1009687,11 @@
       "file": "missing/S/316501-sonic-ultrasaturn.json"
     },
     {
+      "igdb_id": 361658,
+      "game_name": "Sonic Unborn",
+      "file": "missing/S/361658-sonic-unborn.json"
+    },
+    {
       "igdb_id": 198116,
       "game_name": "Sonic Unfair 2",
       "file": "missing/S/198116-sonic-unfair-2.json"
@@ -1009545,6 +1009775,11 @@
       "igdb_id": 351564,
       "game_name": "Sonic Valkyria: Kanon",
       "file": "missing/S/351564-sonic-valkyria-kanon.json"
+    },
+    {
+      "igdb_id": 361578,
+      "game_name": "Sonic Vania",
+      "file": "missing/S/361578-sonic-vania.json"
     },
     {
       "igdb_id": 330679,
@@ -1158637,6 +1158872,11 @@
       "file": "missing/T/121455-the-sword-and-the-slime.json"
     },
     {
+      "igdb_id": 361669,
+      "game_name": "The Sword Game",
+      "file": "missing/T/361669-the-sword-game.json"
+    },
+    {
       "igdb_id": 196720,
       "game_name": "The Sword of Ares for Quake",
       "file": "missing/T/196720-the-sword-of-ares-for-quake.json"
@@ -1282160,6 +1282400,11 @@
       "igdb_id": 129008,
       "game_name": "Wildemist Isle",
       "file": "missing/W/129008-wildemist-isle.json"
+    },
+    {
+      "igdb_id": 361652,
+      "game_name": "Wilderings: The Lost Spring",
+      "file": "missing/W/361652-wilderings-the-lost-spring.json"
     },
     {
       "igdb_id": 382219,
