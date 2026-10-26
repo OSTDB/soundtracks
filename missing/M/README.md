@@ -8373,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metrocity | 392102 | [392102-metrocity.json](./392102-metrocity.json) |
 | Metrocraft | 399674 | [399674-metrocraft.json](./399674-metrocraft.json) |
 | Metrocraft 2036 | 399676 | [399676-metrocraft-2036.json](./399676-metrocraft-2036.json) |
+| MetroCross | 383995 | [383995-metrocross.json](./383995-metrocross.json) |
 | Metrocubevania | 218309 | [218309-metrocubevania.json](./218309-metrocubevania.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
