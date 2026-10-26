@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Valley | 189871 | [189871-sacred-valley.json](./189871-sacred-valley.json) |
 | Sacred X: Heavens Wonderland | 297342 | [297342-sacred-x-heavens-wonderland.json](./297342-sacred-x-heavens-wonderland.json) |
 | Sacred Zodongga Defense | 234576 | [234576-sacred-zodongga-defense.json](./234576-sacred-zodongga-defense.json) |
+| Sacred: Last Pixel of Ancaria | 382855 | [382855-sacred-last-pixel-of-ancaria.json](./382855-sacred-last-pixel-of-ancaria.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sacrifice Girl: The Curse of Demon Snake | 112222 | [112222-sacrifice-girl-the-curse-of-demon-snake.json](./112222-sacrifice-girl-the-curse-of-demon-snake.json) |
 | Sacrifice Your Friends | 121552 | [121552-sacrifice-your-friends.json](./121552-sacrifice-your-friends.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SantaCorps: Snow Patrol | 210837 | [210837-santacorps-snow-patrol.json](./210837-santacorps-snow-patrol.json) |
 | SantaCraft | 141733 | [141733-santacraft.json](./141733-santacraft.json) |
 | SantaFly | 92838 | [92838-santafly.json](./92838-santafly.json) |
+| Santaquest | 382846 | [382846-santaquest.json](./382846-santaquest.json) |
 | Santas Basement | 245808 | [245808-santas-basement.json](./245808-santas-basement.json) |
 | Santas Christmas Escape VR | 288229 | [288229-santas-christmas-escape-vr.json](./288229-santas-christmas-escape-vr.json) |
 | Santas Little Helper | 363372 | [363372-santas-little-helper.json](./363372-santas-little-helper.json) |
@@ -8755,6 +8757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Girl | 384581 | [384581-silicon-girl.json](./384581-silicon-girl.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon Rising | 128041 | [128041-silicon-rising.json](./128041-silicon-rising.json) |
+| Silicon Scars | 382829 | [382829-silicon-scars.json](./382829-silicon-scars.json) |
 | Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
@@ -11185,6 +11188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Climb | 164934 | [164934-slime-climb.json](./164934-slime-climb.json) |
 | Slime Climb: A Count Pumpcula Tale | 310801 | [310801-slime-climb-a-count-pumpcula-tale.json](./310801-slime-climb-a-count-pumpcula-tale.json) |
 | Slime Climber | 292626 | [292626-slime-climber.json](./292626-slime-climber.json) |
+| Slime Color | 382853 | [382853-slime-color.json](./382853-slime-color.json) |
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
 | Slime Crunch | 114828 | [114828-slime-crunch.json](./114828-slime-crunch.json) |
@@ -18190,6 +18194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritbound: The Goddess's Quest | 415183 | [415183-spiritbound-the-goddesss-quest.json](./415183-spiritbound-the-goddesss-quest.json) |
 | Spirited Heart | 61536 | [61536-spirited-heart.json](./61536-spirited-heart.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
+| Spirited Line | 382866 | [382866-spirited-line.json](./382866-spirited-line.json) |
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
 | Spirited Thief | 169882 | [169882-spirited-thief.json](./169882-spirited-thief.json) |
 | Spiritfall | 188946 | [188946-spiritfall.json](./188946-spiritfall.json) |
@@ -18457,6 +18462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants in Jellyfishin' | 242430 | [242430-spongebob-squarepants-in-jellyfishin.json](./242430-spongebob-squarepants-in-jellyfishin.json) |
 | SpongeBob SquarePants Obstacle Odyssey 2: Time Trouble | 165459 | [165459-spongebob-squarepants-obstacle-odyssey-2-time-trouble.json](./165459-spongebob-squarepants-obstacle-odyssey-2-time-trouble.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
+| SpongeBob SquarePants Slider | 382845 | [382845-spongebob-squarepants-slider.json](./382845-spongebob-squarepants-slider.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants Typing | 46444 | [46444-spongebob-squarepants-typing.json](./46444-spongebob-squarepants-typing.json) |
 | Spongebob Squarepants x One Piece | 414109 | [414109-spongebob-squarepants-x-one-piece.json](./414109-spongebob-squarepants-x-one-piece.json) |
@@ -25140,6 +25146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supapoon DX | 42418 | [42418-supapoon-dx.json](./42418-supapoon-dx.json) |
 | SupaSanta | 400568 | [400568-supasanta.json](./400568-supasanta.json) |
 | SupaSupaCross | 251120 | [251120-supasupacross.json](./251120-supasupacross.json) |
+| SupeLlite 1500 Series: Reversi II | 382836 | [382836-supellite-1500-series-reversi-ii.json](./382836-supellite-1500-series-reversi-ii.json) |
 | Super | 168678 | [168678-super.json](./168678-super.json) |
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
@@ -27804,9 +27811,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Fishing Club - Boat no Tsuri-hen | 382977 | [382977-superlite-1500-series-fishing-club-boat-no-tsuri-hen.json](./382977-superlite-1500-series-fishing-club-boat-no-tsuri-hen.json) |
 | SuperLite 1500 Series: Fishing Club - Bouhatei no Tsuri-hen | 382971 | [382971-superlite-1500-series-fishing-club-bouhatei-no-tsuri-hen.json](./382971-superlite-1500-series-fishing-club-bouhatei-no-tsuri-hen.json) |
 | SuperLite 1500 Series: Fishing Club - Hama no Tsuri-hen | 382974 | [382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json](./382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json) |
+| SuperLite 1500 Series: Kaiteiban Mark Yazaki no Seiyou Senseijutsu | 382823 | [382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json](./382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json) |
 | SuperLite 1500 Series: Lode Runner 2 | 382928 | [382928-superlite-1500-series-lode-runner-2.json](./382928-superlite-1500-series-lode-runner-2.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
+| SuperLite 1500 Series: Seiyou Senseijutsu: Mark Yazaki Kanshuu | 382825 | [382825-superlite-1500-series-seiyou-senseijutsu-mark-yazaki-kanshuu.json](./382825-superlite-1500-series-seiyou-senseijutsu-mark-yazaki-kanshuu.json) |
 | SuperLite 1500 Series: Shinsei Toire no Kakosan | 382913 | [382913-superlite-1500-series-shinsei-toire-no-kakosan.json](./382913-superlite-1500-series-shinsei-toire-no-kakosan.json) |
+| SuperLite 1500 Series: Shougi II | 382843 | [382843-superlite-1500-series-shougi-ii.json](./382843-superlite-1500-series-shougi-ii.json) |
 | SuperLite 1500 Series: Space Chaser 2000 | 98293 | [98293-superlite-1500-series-space-chaser-2000.json](./98293-superlite-1500-series-space-chaser-2000.json) |
 | SuperLite 1500 series: Sudoku | 63168 | [63168-superlite-1500-series-sudoku.json](./63168-superlite-1500-series-sudoku.json) |
 | SuperLite 1500 series: Sudoku 2 | 63169 | [63169-superlite-1500-series-sudoku-2.json](./63169-superlite-1500-series-sudoku-2.json) |
