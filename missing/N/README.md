@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Nines | 103843 | [103843-nasty-nines.json](./103843-nasty-nines.json) |
 | Nasty Rogue | 127573 | [127573-nasty-rogue.json](./127573-nasty-rogue.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
+| Nasubi Room | 360622 | [360622-nasubi-room.json](./360622-nasubi-room.json) |
 | Nasway | 37434 | [37434-nasway.json](./37434-nasway.json) |
 | Nat Geo Challenge! Wild Life | 21573 | [21573-nat-geo-challenge-wild-life.json](./21573-nat-geo-challenge-wild-life.json) |
 | Nat Geo Traveler: Sudoku China | 67262 | [67262-nat-geo-traveler-sudoku-china.json](./67262-nat-geo-traveler-sudoku-china.json) |
@@ -3545,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Class: A Vampire Story | 184763 | [184763-night-class-a-vampire-story.json](./184763-night-class-a-vampire-story.json) |
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
+| Night Club Simulator: Party King | 360470 | [360470-night-club-simulator-party-king.json](./360470-night-club-simulator-party-king.json) |
 | Night Confessional | 293343 | [293343-night-confessional.json](./293343-night-confessional.json) |
 | Night Creed | 412619 | [412619-night-creed.json](./412619-night-creed.json) |
 | Night Crisis | 113838 | [113838-night-crisis.json](./113838-night-crisis.json) |
@@ -3836,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
 | Nightmare | 252735 | [252735-nightmare.json](./252735-nightmare.json) |
 | Nightmare | 30102 | [30102-nightmare.json](./30102-nightmare.json) |
+| Nightmare | 360616 | [360616-nightmare.json](./360616-nightmare.json) |
 | Nightmare | 393515 | [393515-nightmare.json](./393515-nightmare.json) |
 | Nightmare Adventures: The Turning Thorn | 28681 | [28681-nightmare-adventures-the-turning-thorn.json](./28681-nightmare-adventures-the-turning-thorn.json) |
 | Nightmare Adventures: The Witch's Prison & Nightmare Adventures: The Turning Thorn | 201856 | [201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json](./201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json) |
