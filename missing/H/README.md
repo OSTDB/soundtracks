@@ -4752,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hero | 313746 | [313746-hero.json](./313746-hero.json) |
+| Hero | 379936 | [379936-hero.json](./379936-hero.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
 | Hero Allstars: Void Invasion | 158120 | [158120-hero-allstars-void-invasion.json](./158120-hero-allstars-void-invasion.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
