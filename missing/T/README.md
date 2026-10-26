@@ -501,8 +501,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Kagamine Rin, Kagamine Len Pack | 360066 | [360066-taiko-no-tatsujin-rhythm-festival-kagamine-rin-kagamine-len-pack.json](./360066-taiko-no-tatsujin-rhythm-festival-kagamine-rin-kagamine-len-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kamen Rider Opening Theme Songs Pack | 328994 | [328994-taiko-no-tatsujin-rhythm-festival-kamen-rider-opening-theme-songs-pack.json](./328994-taiko-no-tatsujin-rhythm-festival-kamen-rider-opening-theme-songs-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kawaii Pop Idol Pack | 376441 | [376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json](./376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 1 | 356121 | [356121-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-1.json](./356121-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-1.json) |
+| Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 2 | 356123 | [356123-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-2.json](./356123-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-2.json) |
+| Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3 | 356124 | [356124-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-3.json](./356124-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-3.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 4 | 380191 | [380191-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-4.json](./380191-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-4.json) |
+| Taiko no Tatsujin: Rhythm Festival - Namco Game Music Pack | 356125 | [356125-taiko-no-tatsujin-rhythm-festival-namco-game-music-pack.json](./356125-taiko-no-tatsujin-rhythm-festival-namco-game-music-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - One Piece Anime Songs Pack | 356186 | [356186-taiko-no-tatsujin-rhythm-festival-one-piece-anime-songs-pack.json](./356186-taiko-no-tatsujin-rhythm-festival-one-piece-anime-songs-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Spy x Family Pack | 356122 | [356122-taiko-no-tatsujin-rhythm-festival-spy-x-family-pack.json](./356122-taiko-no-tatsujin-rhythm-festival-spy-x-family-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Studio Ghibli Pack | 356119 | [356119-taiko-no-tatsujin-rhythm-festival-studio-ghibli-pack.json](./356119-taiko-no-tatsujin-rhythm-festival-studio-ghibli-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Studio Ghibli Pack Vol. 2 | 356120 | [356120-taiko-no-tatsujin-rhythm-festival-studio-ghibli-pack-vol-2.json](./356120-taiko-no-tatsujin-rhythm-festival-studio-ghibli-pack-vol-2.json) |
 | Taiko no Tatsujin: Rhythm Festival - The Setlist Edition | 331837 | [331837-taiko-no-tatsujin-rhythm-festival-the-setlist-edition.json](./331837-taiko-no-tatsujin-rhythm-festival-the-setlist-edition.json) |
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1 | 356086 | [356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json](./356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2 | 356087 | [356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json](./356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json) |
@@ -5246,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
 | THE Bass Fishing | 203730 | [203730-the-bass-fishing.json](./203730-the-bass-fishing.json) |
+| The Bastard of Camelot | 355995 | [355995-the-bastard-of-camelot.json](./355995-the-bastard-of-camelot.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
 | The Bat | 333986 | [333986-the-bat.json](./333986-the-bat.json) |
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
@@ -14530,6 +14538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swan Princess: Hidden Tales | 268452 | [268452-the-swan-princess-hidden-tales.json](./268452-the-swan-princess-hidden-tales.json) |
 | The Swapper | 5892 | [5892-the-swapper.json](./5892-the-swapper.json) |
 | The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
+| The Swarm 2 | 356199 | [356199-the-swarm-2.json](./356199-the-swarm-2.json) |
 | The Swarm is Coming | 311674 | [311674-the-swarm-is-coming.json](./311674-the-swarm-is-coming.json) |
 | The Swashbugglers | 388910 | [388910-the-swashbugglers.json](./388910-the-swashbugglers.json) |
 | The Sweet Little Monster | 240186 | [240186-the-sweet-little-monster.json](./240186-the-sweet-little-monster.json) |
@@ -21384,8 +21393,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooned Out Duo Dippin | 373760 | [373760-tooned-out-duo-dippin.json](./373760-tooned-out-duo-dippin.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
 | Toonix | 357431 | [357431-toonix.json](./357431-toonix.json) |
+| Toonix Halloween: Candy Capers | 355992 | [355992-toonix-halloween-candy-capers.json](./355992-toonix-halloween-candy-capers.json) |
 | Toonix Totem | 355886 | [355886-toonix-totem.json](./355886-toonix-totem.json) |
 | Toonix: Food Fight! | 355885 | [355885-toonix-food-fight.json](./355885-toonix-food-fight.json) |
+| Toonix: Grubby Runaway | 355994 | [355994-toonix-grubby-runaway.json](./355994-toonix-grubby-runaway.json) |
 | Toonix: Speak English! | 357445 | [357445-toonix-speak-english.json](./357445-toonix-speak-english.json) |
 | Toonix: Spot the Difference | 357666 | [357666-toonix-spot-the-difference.json](./357666-toonix-spot-the-difference.json) |
 | Toonix! | 103171 | [103171-toonix.json](./103171-toonix.json) |
