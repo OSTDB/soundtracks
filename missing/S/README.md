@@ -10372,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
 | Sky Gamblers: Storm Raiders 2 | 112078 | [112078-sky-gamblers-storm-raiders-2.json](./112078-sky-gamblers-storm-raiders-2.json) |
 | Sky Games | 186571 | [186571-sky-games.json](./186571-sky-games.json) |
+| Sky Games: Gold Edition | 375145 | [375145-sky-games-gold-edition.json](./375145-sky-games-gold-edition.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Girls: Flight Attendants | 87871 | [87871-sky-girls-flight-attendants.json](./87871-sky-girls-flight-attendants.json) |
 | Sky Glove | 183833 | [183833-sky-glove.json](./183833-sky-glove.json) |
@@ -11582,6 +11583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
 | Slumber | 394397 | [394397-slumber.json](./394397-slumber.json) |
 | Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
+| Slumber Party | 375224 | [375224-slumber-party.json](./375224-slumber-party.json) |
 | Slumberer's Universe | 226622 | [226622-slumberers-universe.json](./226622-slumberers-universe.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
@@ -20449,6 +20451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed II - Collector's Edition | 47460 | [47460-star-wars-the-force-unleashed-ii-collectors-edition.json](./47460-star-wars-the-force-unleashed-ii-collectors-edition.json) |
 | Star Wars: The Force Unleashed II - The Battle of Endor | 74895 | [74895-star-wars-the-force-unleashed-ii-the-battle-of-endor.json](./74895-star-wars-the-force-unleashed-ii-the-battle-of-endor.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
+| Star Wars: The Old Republic - Enter the Fight | 375222 | [375222-star-wars-the-old-republic-enter-the-fight.json](./375222-star-wars-the-old-republic-enter-the-fight.json) |
 | Star Wars: The Old Republic - Galactic Starfighter | 22656 | [22656-star-wars-the-old-republic-galactic-starfighter.json](./22656-star-wars-the-old-republic-galactic-starfighter.json) |
 | Star Wars: The Old Republic - Galactic Strongholds | 22657 | [22657-star-wars-the-old-republic-galactic-strongholds.json](./22657-star-wars-the-old-republic-galactic-strongholds.json) |
 | Star Wars: The Old Republic - Knights of the Eternal Throne | 22659 | [22659-star-wars-the-old-republic-knights-of-the-eternal-throne.json](./22659-star-wars-the-old-republic-knights-of-the-eternal-throne.json) |
@@ -25126,6 +25129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Kingdom | 129027 | [129027-sunset-kingdom.json](./129027-sunset-kingdom.json) |
 | Sunset Mall | 138549 | [138549-sunset-mall.json](./138549-sunset-mall.json) |
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
+| Sunset Moon | 375207 | [375207-sunset-moon.json](./375207-sunset-moon.json) |
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
 | Sunset Over Imdahl | 124652 | [124652-sunset-over-imdahl.json](./124652-sunset-over-imdahl.json) |
 | Sunset Overdrive: Dawn of the Rise of the Fallen Machines | 21934 | [21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json](./21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json) |
