@@ -3079,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Get Cookin' Some More... | 342020 | [342020-lets-get-cookin-some-more.json](./342020-lets-get-cookin-some-more.json) |
 | Let's Get Fit | 194405 | [194405-lets-get-fit.json](./194405-lets-get-fit.json) |
 | Let's Get Fit at Midnight, Shall We? | 296931 | [296931-lets-get-fit-at-midnight-shall-we.json](./296931-lets-get-fit-at-midnight-shall-we.json) |
+| Let's Get Grillin' | 342293 | [342293-lets-get-grillin.json](./342293-lets-get-grillin.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
 | Let's Go | 246466 | [246466-lets-go.json](./246466-lets-go.json) |
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
@@ -5997,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Shadow | 370997 | [370997-lone-shadow.json](./370997-lone-shadow.json) |
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
 | Lone Soldier | 44753 | [44753-lone-soldier.json](./44753-lone-soldier.json) |
+| Lone Soul | 341981 | [341981-lone-soul.json](./341981-lone-soul.json) |
 | Lone Stars | 377908 | [377908-lone-stars.json](./377908-lone-stars.json) |
 | Lone Survivor: The Director's Cut | 21683 | [21683-lone-survivor-the-directors-cut.json](./21683-lone-survivor-the-directors-cut.json) |
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
@@ -6006,6 +6008,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Vessel | 67603 | [67603-lone-vessel.json](./67603-lone-vessel.json) |
 | Lone Voyage | 345648 | [345648-lone-voyage.json](./345648-lone-voyage.json) |
 | Lone Wolf DS I: Flight From The Dark | 308379 | [308379-lone-wolf-ds-i-flight-from-the-dark.json](./308379-lone-wolf-ds-i-flight-from-the-dark.json) |
+| Lone Wolf DS II: Fire On The Water | 341970 | [341970-lone-wolf-ds-ii-fire-on-the-water.json](./341970-lone-wolf-ds-ii-fire-on-the-water.json) |
+| Lone Wolf DS III: The Caverns of Kalte | 341971 | [341971-lone-wolf-ds-iii-the-caverns-of-kalte.json](./341971-lone-wolf-ds-iii-the-caverns-of-kalte.json) |
+| Lone Wolf DS IV: The Chasm of Doom | 341972 | [341972-lone-wolf-ds-iv-the-chasm-of-doom.json](./341972-lone-wolf-ds-iv-the-chasm-of-doom.json) |
+| Lone Wolf DS V: Shadow On the Sand | 341973 | [341973-lone-wolf-ds-v-shadow-on-the-sand.json](./341973-lone-wolf-ds-v-shadow-on-the-sand.json) |
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
 | Lone Wolf: Fire on the Water | 14069 | [14069-lone-wolf-fire-on-the-water.json](./14069-lone-wolf-fire-on-the-water.json) |
 | Lone Wolf: Flight from the Dark | 14074 | [14074-lone-wolf-flight-from-the-dark.json](./14074-lone-wolf-flight-from-the-dark.json) |
@@ -6717,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
 | Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
 | Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
+| Lost Future | 341974 | [341974-lost-future.json](./341974-lost-future.json) |
 | Lost Galaxy: Echoes of War | 350007 | [350007-lost-galaxy-echoes-of-war.json](./350007-lost-galaxy-echoes-of-war.json) |
 | Lost Game | 166585 | [166585-lost-game.json](./166585-lost-game.json) |
 | Lost Garden | 334714 | [334714-lost-garden.json](./334714-lost-garden.json) |
@@ -7139,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
 | Love | 105034 | [105034-love.json](./105034-love.json) |
 | Love | 16912 | [16912-love.json](./16912-love.json) |
+| Love | 342304 | [342304-love.json](./342304-love.json) |
 | Love & Death Bitten | 56254 | [56254-love-and-death-bitten.json](./56254-love-and-death-bitten.json) |
 | Love & Destroy | 63368 | [63368-love-and-destroy.json](./63368-love-and-destroy.json) |
 | Love & Diaries: Duncan | 299421 | [299421-love-and-diaries-duncan.json](./299421-love-and-diaries-duncan.json) |
@@ -8160,6 +8168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
 | Luna Crabs | 71054 | [71054-luna-crabs.json](./71054-luna-crabs.json) |
 | Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
+| Luna Hop | 342300 | [342300-luna-hop.json](./342300-luna-hop.json) |
 | Luna in Silver Shards | 271233 | [271233-luna-in-silver-shards.json](./271233-luna-in-silver-shards.json) |
 | Luna League Soccer | 267324 | [267324-luna-league-soccer.json](./267324-luna-league-soccer.json) |
 | Luna Online | 93982 | [93982-luna-online.json](./93982-luna-online.json) |
