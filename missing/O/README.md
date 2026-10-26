@@ -1768,6 +1768,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
 | Once Upon a Katamari: Katamari Damacy Series Dance Dance Remixes | 377265 | [377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json](./377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json) |
 | Once Upon a Katamari: Katamari Damacy Series Neo Remixes | 377266 | [377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json](./377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json) |
+| Once Upon a Katamari: Katamari Damacy Series Songs - Side A | 375236 | [375236-once-upon-a-katamari-katamari-damacy-series-songs-side-a.json](./375236-once-upon-a-katamari-katamari-damacy-series-songs-side-a.json) |
+| Once Upon a Katamari: Katamari Damacy Series Songs - Side B | 375234 | [375234-once-upon-a-katamari-katamari-damacy-series-songs-side-b.json](./375234-once-upon-a-katamari-katamari-damacy-series-songs-side-b.json) |
+| Once Upon a Katamari: Katamari Damacy Series Songs - Sides A + B Bundle | 375235 | [375235-once-upon-a-katamari-katamari-damacy-series-songs-sides-a-b-bundle.json](./375235-once-upon-a-katamari-katamari-damacy-series-songs-sides-a-b-bundle.json) |
 | Once Upon A Katamari: King of All Sounds Edition | 358665 | [358665-once-upon-a-katamari-king-of-all-sounds-edition.json](./358665-once-upon-a-katamari-king-of-all-sounds-edition.json) |
 | Once Upon A Katamari: Rolling Live Highlights | 410246 | [410246-once-upon-a-katamari-rolling-live-highlights.json](./410246-once-upon-a-katamari-rolling-live-highlights.json) |
 | Once Upon a Kingdom | 358401 | [358401-once-upon-a-kingdom.json](./358401-once-upon-a-kingdom.json) |
@@ -2777,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Realm of Stars | 176169 | [176169-open-realm-of-stars.json](./176169-open-realm-of-stars.json) |
 | Open Road First Front S | 284259 | [284259-open-road-first-front-s.json](./284259-open-road-first-front-s.json) |
+| Open Robot | 375216 | [375216-open-robot.json](./375216-open-robot.json) |
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
 | Open Sea Fishing | 82594 | [82594-open-sea-fishing.json](./82594-open-sea-fishing.json) |
