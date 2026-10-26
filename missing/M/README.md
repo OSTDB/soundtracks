@@ -18162,6 +18162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Balloon | 339688 | [339688-mystic-balloon.json](./339688-mystic-balloon.json) |
 | Mystic Blast | 246809 | [246809-mystic-blast.json](./246809-mystic-blast.json) |
 | Mystic Cards | 190058 | [190058-mystic-cards.json](./190058-mystic-cards.json) |
+| Mystic Cave Zone Remake | 361570 | [361570-mystic-cave-zone-remake.json](./361570-mystic-cave-zone-remake.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Cleaver | 344334 | [344334-mystic-cleaver.json](./344334-mystic-cleaver.json) |
 | Mystic Code | 133751 | [133751-mystic-code.json](./133751-mystic-code.json) |
