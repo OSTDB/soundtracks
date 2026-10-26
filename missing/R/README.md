@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raise-a-Wish | 404255 | [404255-raise-a-wish.json](./404255-raise-a-wish.json) |
 | Raise, Rise & Die | 416734 | [416734-raise-rise-and-die.json](./416734-raise-rise-and-die.json) |
 | Raise: Embrace the Future | 406561 | [406561-raise-embrace-the-future.json](./406561-raise-embrace-the-future.json) |
+| Raised From Hell | 374018 | [374018-raised-from-hell.json](./374018-raised-from-hell.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
 | Raising a Happy NEET | 417618 | [417618-raising-a-happy-neet.json](./417618-raising-a-happy-neet.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rara Magic | 298790 | [298790-rara-magic.json](./298790-rara-magic.json) |
 | Rara Racer | 125769 | [125769-rara-racer.json](./125769-rara-racer.json) |
 | Rare Collection 1 | 365170 | [365170-rare-collection-1.json](./365170-rare-collection-1.json) |
+| Rare Rabbits: Snuggle Haven | 374107 | [374107-rare-rabbits-snuggle-haven.json](./374107-rare-rabbits-snuggle-haven.json) |
 | Rarity | 307045 | [307045-rarity.json](./307045-rarity.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
 | Rascal | 94445 | [94445-rascal.json](./94445-rascal.json) |
@@ -2595,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm | 348391 | [348391-realm.json](./348391-realm.json) |
 | Realm | 361078 | [361078-realm.json](./361078-realm.json) |
 | Realm | 44457 | [44457-realm.json](./44457-realm.json) |
+| Realm Architect | 374108 | [374108-realm-architect.json](./374108-realm-architect.json) |
 | Realm Battle | 104399 | [104399-realm-battle.json](./104399-realm-battle.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Drifter | 309714 | [309714-realm-drifter.json](./309714-realm-drifter.json) |
@@ -8217,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rococo | 142088 | [142088-rococo.json](./142088-rococo.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Rocpain: Rock Paper Scissors | 226366 | [226366-rocpain-rock-paper-scissors.json](./226366-rocpain-rock-paper-scissors.json) |
+| Rocrasher | 374034 | [374034-rocrasher.json](./374034-rocrasher.json) |
 | Rod & Ripple | 343223 | [343223-rod-and-ripple.json](./343223-rod-and-ripple.json) |
 | Rod Multiplayer Car Driving | 226146 | [226146-rod-multiplayer-car-driving.json](./226146-rod-multiplayer-car-driving.json) |
 | Rod of Asclepius | 392006 | [392006-rod-of-asclepius.json](./392006-rod-of-asclepius.json) |
