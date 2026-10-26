@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idaten Jump DS: Moero! Flame Kaiser | 124504 | [124504-idaten-jump-ds-moero-flame-kaiser.json](./124504-idaten-jump-ds-moero-flame-kaiser.json) |
 | Ide do szkoly | 318487 | [318487-ide-do-szkoly.json](./318487-ide-do-szkoly.json) |
 | Ide Yosuke no Mahjong Kazoku 2 | 319695 | [319695-ide-yosuke-no-mahjong-kazoku-2.json](./319695-ide-yosuke-no-mahjong-kazoku-2.json) |
+| Ide Yosuke no Mahjong Kyoushitsu | 354912 | [354912-ide-yosuke-no-mahjong-kyoushitsu.json](./354912-ide-yosuke-no-mahjong-kyoushitsu.json) |
 | Ide Yosuke no Mahjong Kyoushitsu GB | 65243 | [65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json](./65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
 | Ideabookroom | 348443 | [348443-ideabookroom.json](./348443-ideabookroom.json) |
