@@ -7496,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
 | Shoot or Date | 303215 | [303215-shoot-or-date.json](./303215-shoot-or-date.json) |
 | Shoot or Die | 310809 | [310809-shoot-or-die.json](./310809-shoot-or-die.json) |
+| Shoot Out | 373501 | [373501-shoot-out.json](./373501-shoot-out.json) |
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
 | Shoot Pump Shoot | 128244 | [128244-shoot-pump-shoot.json](./128244-shoot-pump-shoot.json) |
@@ -22678,6 +22679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of a Line | 391850 | [391850-story-of-a-line.json](./391850-story-of-a-line.json) |
 | Story of a Pawn | 183262 | [183262-story-of-a-pawn.json](./183262-story-of-a-pawn.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
+| Story of Alicia | 373591 | [373591-story-of-alicia.json](./373591-story-of-alicia.json) |
 | Story of Eve - A Hero's Study | 110743 | [110743-story-of-eve-a-heros-study.json](./110743-story-of-eve-a-heros-study.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
 | Story of Love & Food | 392466 | [392466-story-of-love-and-food.json](./392466-story-of-love-and-food.json) |
@@ -26171,6 +26173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mari All Star - Mari Collection Games | 100809 | [100809-super-mari-all-star-mari-collection-games.json](./100809-super-mari-all-star-mari-collection-games.json) |
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
 | Super Mario | 238096 | [238096-super-mario.json](./238096-super-mario.json) |
+| Super Mario /v/orld | 373567 | [373567-super-mario-v-orld.json](./373567-super-mario-v-orld.json) |
 | Super Mario /v/orld 2: Moot Point | 333702 | [333702-super-mario-v-orld-2-moot-point.json](./333702-super-mario-v-orld-2-moot-point.json) |
 | Super Mario /v/orld: New Vegas | 234146 | [234146-super-mario-v-orld-new-vegas.json](./234146-super-mario-v-orld-new-vegas.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
@@ -28708,6 +28711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzaku Shijuusou: "Saikyou" no Katana Hime | 371586 | [371586-suzaku-shijuusou-saikyou-no-katana-hime.json](./371586-suzaku-shijuusou-saikyou-no-katana-hime.json) |
 | Suzan's Potion Workshop | 273817 | [273817-suzans-potion-workshop.json](./273817-suzans-potion-workshop.json) |
 | Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
+| Suzerain: Expanded Edition | 373584 | [373584-suzerain-expanded-edition.json](./373584-suzerain-expanded-edition.json) |
 | Suzu ga Utau Hi | 263400 | [263400-suzu-ga-utau-hi.json](./263400-suzu-ga-utau-hi.json) |
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
@@ -28999,6 +29003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
 | Sweet Drmzzz | 102013 | [102013-sweet-drmzzz.json](./102013-sweet-drmzzz.json) |
 | Sweet Dungeon | 159750 | [159750-sweet-dungeon.json](./159750-sweet-dungeon.json) |
+| Sweet Easter | 373581 | [373581-sweet-easter.json](./373581-sweet-easter.json) |
 | Sweet Elite | 298429 | [298429-sweet-elite.json](./298429-sweet-elite.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
 | Sweet F. Cake | 134470 | [134470-sweet-f-cake.json](./134470-sweet-f-cake.json) |
