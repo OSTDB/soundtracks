@@ -3160,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Tour | 7118 | [7118-nfl-tour.json](./7118-nfl-tour.json) |
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
 | NFL's Greatest: San Francisco vs. Dallas 1978-1993 | 46413 | [46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json](./46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json) |
+| NFSCO | 382828 | [382828-nfsco.json](./382828-nfsco.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | NFUT Cards | 178283 | [178283-nfut-cards.json](./178283-nfut-cards.json) |
 | Nghtmn | 28640 | [28640-nghtmn.json](./28640-nghtmn.json) |
@@ -5621,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North of Nowhere | 216970 | [216970-north-of-nowhere.json](./216970-north-of-nowhere.json) |
 | North Pole Workshop | 411062 | [411062-north-pole-workshop.json](./411062-north-pole-workshop.json) |
 | North Salvation | 246475 | [246475-north-salvation.json](./246475-north-salvation.json) |
+| North Sentinel Island | 382821 | [382821-north-sentinel-island.json](./382821-north-sentinel-island.json) |
 | North Shore | 176170 | [176170-north-shore.json](./176170-north-shore.json) |
 | North Shore | 349265 | [349265-north-shore.json](./349265-north-shore.json) |
 | North Star Mining Co. | 327163 | [327163-north-star-mining-co.json](./327163-north-star-mining-co.json) |
