@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take the Money and Run! | 23290 | [23290-take-the-money-and-run.json](./23290-take-the-money-and-run.json) |
 | Take the Throne | 142301 | [142301-take-the-throne.json](./142301-take-the-throne.json) |
 | Take the Veil | 201638 | [201638-take-the-veil.json](./201638-take-the-veil.json) |
+| Take Them Down | 344041 | [344041-take-them-down.json](./344041-take-them-down.json) |
 | Take Thy Throne | 32819 | [32819-take-thy-throne.json](./32819-take-thy-throne.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
 | Take You Home | 391991 | [391991-take-you-home.json](./391991-take-you-home.json) |
@@ -15796,6 +15797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
 | The Wardrobe | 22818 | [22818-the-wardrobe.json](./22818-the-wardrobe.json) |
 | The Wardrobe: Even Better Edition | 119400 | [119400-the-wardrobe-even-better-edition.json](./119400-the-wardrobe-even-better-edition.json) |
+| The Wardrobe: Even Better Edition + Extra Coin | 343705 | [343705-the-wardrobe-even-better-edition-extra-coin.json](./343705-the-wardrobe-even-better-edition-extra-coin.json) |
 | The Warehouse | 288624 | [288624-the-warehouse.json](./288624-the-warehouse.json) |
 | The Warfare | 417488 | [417488-the-warfare.json](./417488-the-warfare.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
@@ -17644,6 +17646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiebreak | 241244 | [241244-tiebreak.json](./241244-tiebreak.json) |
 | Tiebreak: Ace Edition | 314602 | [314602-tiebreak-ace-edition.json](./314602-tiebreak-ace-edition.json) |
 | Tiebreak+ | 334667 | [334667-tiebreak.json](./334667-tiebreak.json) |
+| Tiebreak+: Ace Edition | 343706 | [343706-tiebreak-ace-edition.json](./343706-tiebreak-ace-edition.json) |
 | Tiebreaker | 93017 | [93017-tiebreaker.json](./93017-tiebreaker.json) |
 | Tiebreakers | 403216 | [403216-tiebreakers.json](./403216-tiebreakers.json) |
 | Tied By Numbers | 386153 | [386153-tied-by-numbers.json](./386153-tied-by-numbers.json) |
@@ -27229,6 +27232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Carnage | 373063 | [373063-turbo-carnage.json](./373063-turbo-carnage.json) |
 | Turbo Cat Fight | 223401 | [223401-turbo-cat-fight.json](./223401-turbo-cat-fight.json) |
 | Turbo Champ | 274365 | [274365-turbo-champ.json](./274365-turbo-champ.json) |
+| Turbo Champions | 344036 | [344036-turbo-champions.json](./344036-turbo-champions.json) |
 | Turbo Charge | 41142 | [41142-turbo-charge.json](./41142-turbo-charge.json) |
 | Turbo Chess | 63074 | [63074-turbo-chess.json](./63074-turbo-chess.json) |
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
