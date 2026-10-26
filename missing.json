@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T01:52:13.013Z",
-  "total_missing": 263036,
+  "generated_at": "2026-10-26T02:08:22.614Z",
+  "total_missing": 263086,
   "games": [
     {
       "igdb_id": 191680,
@@ -15327,6 +15327,11 @@
       "file": "missing/A/211247-a-cup-of-coffee.json"
     },
     {
+      "igdb_id": 382212,
+      "game_name": "A Cup of Eternity",
+      "file": "missing/A/382212-a-cup-of-eternity.json"
+    },
+    {
       "igdb_id": 392397,
       "game_name": "A Cup of Tea",
       "file": "missing/A/392397-a-cup-of-tea.json"
@@ -26552,6 +26557,11 @@
       "file": "missing/A/379473-active-2048-body-control.json"
     },
     {
+      "igdb_id": 382223,
+      "game_name": "Active Arcade",
+      "file": "missing/A/382223-active-arcade.json"
+    },
+    {
       "igdb_id": 241354,
       "game_name": "Active Color",
       "file": "missing/A/241354-active-color.json"
@@ -31115,6 +31125,11 @@
       "igdb_id": 379571,
       "game_name": "Aether Hexxen: Death-Space Requiem Act1",
       "file": "missing/A/379571-aether-hexxen-death-space-requiem-act1.json"
+    },
+    {
+      "igdb_id": 382222,
+      "game_name": "Aether League",
+      "file": "missing/A/382222-aether-league.json"
     },
     {
       "igdb_id": 379568,
@@ -42967,6 +42982,11 @@
       "file": "missing/A/58037-alien-time-zone.json"
     },
     {
+      "igdb_id": 382258,
+      "game_name": "Alien Together",
+      "file": "missing/A/382258-alien-together.json"
+    },
+    {
       "igdb_id": 259543,
       "game_name": "Alien Tower",
       "file": "missing/A/259543-alien-tower.json"
@@ -51495,6 +51515,11 @@
       "igdb_id": 294276,
       "game_name": "An Eternity Gone By",
       "file": "missing/A/294276-an-eternity-gone-by.json"
+    },
+    {
+      "igdb_id": 382243,
+      "game_name": "An Eternity, Reflecting",
+      "file": "missing/A/382243-an-eternity-reflecting.json"
     },
     {
       "igdb_id": 258941,
@@ -61665,6 +61690,11 @@
       "igdb_id": 36771,
       "game_name": "Ape-X",
       "file": "missing/A/36771-ape-x.json"
+    },
+    {
+      "igdb_id": 382249,
+      "game_name": "Apees",
+      "file": "missing/A/382249-apees.json"
     },
     {
       "igdb_id": 170856,
@@ -269122,6 +269152,11 @@
       "file": "missing/D/380557-dead-trash-operation-yellow-snow.json"
     },
     {
+      "igdb_id": 382170,
+      "game_name": "Dead Tree Defender",
+      "file": "missing/D/382170-dead-tree-defender.json"
+    },
+    {
       "igdb_id": 36747,
       "game_name": "Dead Trigger",
       "file": "missing/D/36747-dead-trigger.json"
@@ -332907,6 +332942,11 @@
       "file": "missing/D/299735-dziedzic-a-book-of-unanswered-questions.json"
     },
     {
+      "igdb_id": 382255,
+      "game_name": "Dzyun Battle 2026",
+      "file": "missing/D/382255-dzyun-battle-2026.json"
+    },
+    {
       "igdb_id": 201836,
       "game_name": "E Nikki",
       "file": "missing/E/201836-e-nikki.json"
@@ -361220,6 +361260,11 @@
       "igdb_id": 65851,
       "game_name": "EverQuest: Veil of Alaris",
       "file": "missing/E/65851-everquest-veil-of-alaris.json"
+    },
+    {
+      "igdb_id": 382172,
+      "game_name": "EverRail",
+      "file": "missing/E/382172-everrail.json"
     },
     {
       "igdb_id": 90704,
@@ -404240,6 +404285,11 @@
       "igdb_id": 267265,
       "game_name": "Foggy Rainfall Escapade",
       "file": "missing/F/267265-foggy-rainfall-escapade.json"
+    },
+    {
+      "igdb_id": 382273,
+      "game_name": "Foghorns Drown",
+      "file": "missing/F/382273-foghorns-drown.json"
     },
     {
       "igdb_id": 397277,
@@ -468987,6 +469037,11 @@
       "file": "missing/G/210101-guitar-hero.json"
     },
     {
+      "igdb_id": 382160,
+      "game_name": "Guitar Hero & Guitar Hero II Dual Pack",
+      "file": "missing/G/382160-guitar-hero-and-guitar-hero-ii-dual-pack.json"
+    },
+    {
       "igdb_id": 251431,
       "game_name": "Guitar Hero 7",
       "file": "missing/G/251431-guitar-hero-7.json"
@@ -512767,6 +512822,11 @@
       "file": "missing/H/61999-honourbound.json"
     },
     {
+      "igdb_id": 382248,
+      "game_name": "HonRang",
+      "file": "missing/H/382248-honrang.json"
+    },
+    {
       "igdb_id": 267667,
       "game_name": "Honshougi: Naitou 9 Dan Shougi Hiden",
       "file": "missing/H/267667-honshougi-naitou-9-dan-shougi-hiden.json"
@@ -533637,6 +533697,11 @@
       "file": "missing/I/181796-if-platformers-were-rpgs.json"
     },
     {
+      "igdb_id": 382241,
+      "game_name": "If Red Then Stop",
+      "file": "missing/I/382241-if-red-then-stop.json"
+    },
+    {
       "igdb_id": 417476,
       "game_name": "If Solitaire",
       "file": "missing/I/417476-if-solitaire.json"
@@ -551945,6 +552010,11 @@
       "igdb_id": 110172,
       "game_name": "Island Survival",
       "file": "missing/I/110172-island-survival.json"
+    },
+    {
+      "igdb_id": 382161,
+      "game_name": "Island Survival",
+      "file": "missing/I/382161-island-survival.json"
     },
     {
       "igdb_id": 393047,
@@ -636765,6 +636835,11 @@
       "igdb_id": 117041,
       "game_name": "Lovers of Aether",
       "file": "missing/L/117041-lovers-of-aether.json"
+    },
+    {
+      "igdb_id": 382247,
+      "game_name": "Lovers: Koi ni Ochitara...",
+      "file": "missing/L/382247-lovers-koi-ni-ochitara.json"
     },
     {
       "igdb_id": 402457,
@@ -741267,6 +741342,11 @@
       "file": "missing/N/114561-nehrim-at-fates-edge.json"
     },
     {
+      "igdb_id": 382254,
+      "game_name": "Neidfyre",
+      "file": "missing/N/382254-neidfyre.json"
+    },
+    {
       "igdb_id": 141557,
       "game_name": "Neighbor",
       "file": "missing/N/141557-neighbor.json"
@@ -770027,6 +770107,11 @@
       "file": "missing/O/172161-offroad-racing-on-line.json"
     },
     {
+      "igdb_id": 382163,
+      "game_name": "Offroad Rally Racing",
+      "file": "missing/O/382163-offroad-rally-racing.json"
+    },
+    {
       "igdb_id": 58079,
       "game_name": "Offroad Scientist",
       "file": "missing/O/58079-offroad-scientist.json"
@@ -780620,6 +780705,11 @@
       "igdb_id": 184651,
       "game_name": "Operation: Ops",
       "file": "missing/O/184651-operation-ops.json"
+    },
+    {
+      "igdb_id": 382169,
+      "game_name": "Operation: Outbreak",
+      "file": "missing/O/382169-operation-outbreak.json"
     },
     {
       "igdb_id": 405539,
@@ -887877,6 +887967,11 @@
       "file": "missing/R/231994-rearmed-trials.json"
     },
     {
+      "igdb_id": 382275,
+      "game_name": "Rearranged",
+      "file": "missing/R/382275-rearranged.json"
+    },
+    {
       "igdb_id": 283609,
       "game_name": "Rearview Mirror",
       "file": "missing/R/283609-rearview-mirror.json"
@@ -932407,6 +932502,11 @@
       "file": "missing/S/137106-sakura-moyu-as-the-nights-reincarnation.json"
     },
     {
+      "igdb_id": 382253,
+      "game_name": "Sakura, The Jirai-kei Magical Girl",
+      "file": "missing/S/382253-sakura-the-jirai-kei-magical-girl.json"
+    },
+    {
       "igdb_id": 418771,
       "game_name": "Sakuraba Ema's Intertwining Threshold",
       "file": "missing/S/418771-sakuraba-emas-intertwining-threshold.json"
@@ -944007,6 +944107,11 @@
       "file": "missing/S/104027-scrunk.json"
     },
     {
+      "igdb_id": 382174,
+      "game_name": "Scrutator Tenebris",
+      "file": "missing/S/382174-scrutator-tenebris.json"
+    },
+    {
       "igdb_id": 172409,
       "game_name": "ScruTiny in the Great Round",
       "file": "missing/S/172409-scrutiny-in-the-great-round.json"
@@ -954177,6 +954282,16 @@
       "file": "missing/S/83169-sex-escape-ecstasies-of-two.json"
     },
     {
+      "igdb_id": 382157,
+      "game_name": "Sex Game - BDSM - Episode 1",
+      "file": "missing/S/382157-sex-game-bdsm-episode-1.json"
+    },
+    {
+      "igdb_id": 382155,
+      "game_name": "Sex Game - BDSM - Episode 3",
+      "file": "missing/S/382155-sex-game-bdsm-episode-3.json"
+    },
+    {
       "igdb_id": 382395,
       "game_name": "Sex Game - BDSM - Episode 4",
       "file": "missing/S/382395-sex-game-bdsm-episode-4.json"
@@ -954195,6 +954310,11 @@
       "igdb_id": 382388,
       "game_name": "Sex Game - Naughty Couple - Episode 8",
       "file": "missing/S/382388-sex-game-naughty-couple-episode-8.json"
+    },
+    {
+      "igdb_id": 382158,
+      "game_name": "Sex Game - Naughty Couple - Episode 9",
+      "file": "missing/S/382158-sex-game-naughty-couple-episode-9.json"
     },
     {
       "igdb_id": 382391,
@@ -954280,6 +954400,11 @@
       "igdb_id": 375271,
       "game_name": "Sex Game: Naughty Girls - Episode 6",
       "file": "missing/S/375271-sex-game-naughty-girls-episode-6.json"
+    },
+    {
+      "igdb_id": 382156,
+      "game_name": "Sex Game: Naughty Girls - Episode 9",
+      "file": "missing/S/382156-sex-game-naughty-girls-episode-9.json"
     },
     {
       "igdb_id": 371056,
@@ -971452,6 +971577,11 @@
       "file": "missing/S/151495-silent-earth.json"
     },
     {
+      "igdb_id": 382259,
+      "game_name": "Silent Edge",
+      "file": "missing/S/382259-silent-edge.json"
+    },
+    {
       "igdb_id": 127945,
       "game_name": "Silent Escape: Induction",
       "file": "missing/S/127945-silent-escape-induction.json"
@@ -978310,6 +978440,11 @@
       "igdb_id": 184090,
       "game_name": "Sketch of a job that you had",
       "file": "missing/S/184090-sketch-of-a-job-that-you-had.json"
+    },
+    {
+      "igdb_id": 382171,
+      "game_name": "Sketch Quest",
+      "file": "missing/S/382171-sketch-quest.json"
     },
     {
       "igdb_id": 235246,
@@ -1066262,6 +1066397,11 @@
       "file": "missing/S/42220-super-trump-collection-2.json"
     },
     {
+      "igdb_id": 382250,
+      "game_name": "Super Trunfo: Battle Cards",
+      "file": "missing/S/382250-super-trunfo-battle-cards.json"
+    },
+    {
       "igdb_id": 199368,
       "game_name": "Super Trunko Go",
       "file": "missing/S/199368-super-trunko-go.json"
@@ -1077432,6 +1077572,11 @@
       "file": "missing/S/356903-synth-riders-80s-mixtape-side-a.json"
     },
     {
+      "igdb_id": 382176,
+      "game_name": "Synth Riders: 80s Mixtape Side B Music Pack",
+      "file": "missing/S/382176-synth-riders-80s-mixtape-side-b-music-pack.json"
+    },
+    {
       "igdb_id": 353648,
       "game_name": "Synth Riders: 90s Rock Music Pack",
       "file": "missing/S/353648-synth-riders-90s-rock-music-pack.json"
@@ -1077507,6 +1077652,11 @@
       "file": "missing/S/354558-synth-riders-current-waves.json"
     },
     {
+      "igdb_id": 382177,
+      "game_name": "Synth Riders: Current Waves Music Pack",
+      "file": "missing/S/382177-synth-riders-current-waves-music-pack.json"
+    },
+    {
       "igdb_id": 288234,
       "game_name": "Synth Riders: Cut Capers - \"Let's Start Again (Odd Chap Remix)\"",
       "file": "missing/S/288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json"
@@ -1077535,6 +1077685,11 @@
       "igdb_id": 356902,
       "game_name": "Synth Riders: Electro Swing Essentials 2",
       "file": "missing/S/356902-synth-riders-electro-swing-essentials-2.json"
+    },
+    {
+      "igdb_id": 382179,
+      "game_name": "Synth Riders: Gorillaz Music Pack",
+      "file": "missing/S/382179-synth-riders-gorillaz-music-pack.json"
     },
     {
       "igdb_id": 356180,
@@ -1077570,6 +1077725,71 @@
       "igdb_id": 372106,
       "game_name": "Synth Riders: Kendrick Lamar - \"Humble.\" + Experience",
       "file": "missing/S/372106-synth-riders-kendrick-lamar-humble-experience.json"
+    },
+    {
+      "igdb_id": 382266,
+      "game_name": "Synth Riders: Lady Gaga - \"Abracadabra\"",
+      "file": "missing/S/382266-synth-riders-lady-gaga-abracadabra.json"
+    },
+    {
+      "igdb_id": 382269,
+      "game_name": "Synth Riders: Lady Gaga - \"Applause\"",
+      "file": "missing/S/382269-synth-riders-lady-gaga-applause.json"
+    },
+    {
+      "igdb_id": 382265,
+      "game_name": "Synth Riders: Lady Gaga - \"Bad Romance\"",
+      "file": "missing/S/382265-synth-riders-lady-gaga-bad-romance.json"
+    },
+    {
+      "igdb_id": 382263,
+      "game_name": "Synth Riders: Lady Gaga - \"Bloody Mary\"",
+      "file": "missing/S/382263-synth-riders-lady-gaga-bloody-mary.json"
+    },
+    {
+      "igdb_id": 382268,
+      "game_name": "Synth Riders: Lady Gaga - \"Born This Way\"",
+      "file": "missing/S/382268-synth-riders-lady-gaga-born-this-way.json"
+    },
+    {
+      "igdb_id": 382261,
+      "game_name": "Synth Riders: Lady Gaga - \"Disease\"",
+      "file": "missing/S/382261-synth-riders-lady-gaga-disease.json"
+    },
+    {
+      "igdb_id": 382267,
+      "game_name": "Synth Riders: Lady Gaga - \"Paparazzi\"",
+      "file": "missing/S/382267-synth-riders-lady-gaga-paparazzi.json"
+    },
+    {
+      "igdb_id": 382264,
+      "game_name": "Synth Riders: Lady Gaga - \"Poker Face\"",
+      "file": "missing/S/382264-synth-riders-lady-gaga-poker-face.json"
+    },
+    {
+      "igdb_id": 382260,
+      "game_name": "Synth Riders: Lady Gaga - \"The Dead Dance\"",
+      "file": "missing/S/382260-synth-riders-lady-gaga-the-dead-dance.json"
+    },
+    {
+      "igdb_id": 382270,
+      "game_name": "Synth Riders: Lady Gaga & Beyoncé - \"Telephone\"",
+      "file": "missing/S/382270-synth-riders-lady-gaga-and-beyonce-telephone.json"
+    },
+    {
+      "igdb_id": 382262,
+      "game_name": "Synth Riders: Lady Gaga & Colby O'Donis - \"Just Dance\"",
+      "file": "missing/S/382262-synth-riders-lady-gaga-and-colby-odonis-just-dance.json"
+    },
+    {
+      "igdb_id": 382178,
+      "game_name": "Synth Riders: Lady Gaga Music Pack",
+      "file": "missing/S/382178-synth-riders-lady-gaga-music-pack.json"
+    },
+    {
+      "igdb_id": 382272,
+      "game_name": "Synth Riders: Lady Gaga Music Pack",
+      "file": "missing/S/382272-synth-riders-lady-gaga-music-pack.json"
     },
     {
       "igdb_id": 353649,
@@ -1089677,6 +1089897,11 @@
       "file": "missing/T/146824-tattoo-punk.json"
     },
     {
+      "igdb_id": 382154,
+      "game_name": "Tattoo Shop Simulator",
+      "file": "missing/T/382154-tattoo-shop-simulator.json"
+    },
+    {
       "igdb_id": 371414,
       "game_name": "Tattoo Studio Simulator",
       "file": "missing/T/371414-tattoo-studio-simulator.json"
@@ -1095890,6 +1096115,11 @@
       "igdb_id": 148442,
       "game_name": "Tenshi no Inai 12-gatsu",
       "file": "missing/T/148442-tenshi-no-inai-12-gatsu.json"
+    },
+    {
+      "igdb_id": 382246,
+      "game_name": "Tenshi no Kakera: The Lost Article of Memory",
+      "file": "missing/T/382246-tenshi-no-kakera-the-lost-article-of-memory.json"
     },
     {
       "igdb_id": 336494,
@@ -1122295,6 +1122525,11 @@
       "igdb_id": 313820,
       "game_name": "The Heist: Monaco",
       "file": "missing/T/313820-the-heist-monaco.json"
+    },
+    {
+      "igdb_id": 382257,
+      "game_name": "The Helios Incident",
+      "file": "missing/T/382257-the-helios-incident.json"
     },
     {
       "igdb_id": 156053,
@@ -1246652,6 +1246887,11 @@
       "file": "missing/V/401763-voiceatc-simulator.json"
     },
     {
+      "igdb_id": 382175,
+      "game_name": "Voiceless Elegy",
+      "file": "missing/V/382175-voiceless-elegy.json"
+    },
+    {
       "igdb_id": 383074,
       "game_name": "Voicemail: Laura",
       "file": "missing/V/383074-voicemail-laura.json"
@@ -1250990,6 +1251230,11 @@
       "igdb_id": 1990,
       "game_name": "VVVVVV",
       "file": "missing/V/1990-vvvvvv.json"
+    },
+    {
+      "igdb_id": 382168,
+      "game_name": "VWisher",
+      "file": "missing/V/382168-vwisher.json"
     },
     {
       "igdb_id": 233541,
@@ -1296985,6 +1297230,11 @@
       "igdb_id": 65790,
       "game_name": "YBit",
       "file": "missing/Y/65790-ybit.json"
+    },
+    {
+      "igdb_id": 382271,
+      "game_name": "Yclept",
+      "file": "missing/Y/382271-yclept.json"
     },
     {
       "igdb_id": 279517,
