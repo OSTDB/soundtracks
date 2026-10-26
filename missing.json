@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T12:05:33.860Z",
-  "total_missing": 265051,
+  "generated_at": "2026-10-26T12:23:26.716Z",
+  "total_missing": 265101,
   "games": [
     {
       "igdb_id": 191680,
@@ -36760,6 +36760,11 @@
       "igdb_id": 311362,
       "game_name": "Air Hockey",
       "file": "missing/A/311362-air-hockey.json"
+    },
+    {
+      "igdb_id": 359301,
+      "game_name": "Air Hockey",
+      "file": "missing/A/359301-air-hockey.json"
     },
     {
       "igdb_id": 43934,
@@ -95892,6 +95897,11 @@
       "file": "missing/B/182698-bag-of-holding.json"
     },
     {
+      "igdb_id": 359328,
+      "game_name": "Bag Toss",
+      "file": "missing/B/359328-bag-toss.json"
+    },
+    {
       "igdb_id": 386970,
       "game_name": "Bagarre",
       "file": "missing/B/386970-bagarre.json"
@@ -111602,6 +111612,11 @@
       "file": "missing/B/312172-beach-secrets.json"
     },
     {
+      "igdb_id": 359302,
+      "game_name": "Beach Soccer",
+      "file": "missing/B/359302-beach-soccer.json"
+    },
+    {
       "igdb_id": 52450,
       "game_name": "Beach Soccer",
       "file": "missing/B/52450-beach-soccer.json"
@@ -112015,6 +112030,11 @@
       "igdb_id": 406252,
       "game_name": "Bean Wizard Eviscerates the Gonklins",
       "file": "missing/B/406252-bean-wizard-eviscerates-the-gonklins.json"
+    },
+    {
+      "igdb_id": 359446,
+      "game_name": "Bean's Adventure",
+      "file": "missing/B/359446-beans-adventure.json"
     },
     {
       "igdb_id": 410906,
@@ -124485,6 +124505,11 @@
       "igdb_id": 4717,
       "game_name": "Billy the Wizard: Rocket Broomstick Racing",
       "file": "missing/B/4717-billy-the-wizard-rocket-broomstick-racing.json"
+    },
+    {
+      "igdb_id": 359330,
+      "game_name": "Billy Went to a Carnival",
+      "file": "missing/B/359330-billy-went-to-a-carnival.json"
     },
     {
       "igdb_id": 136884,
@@ -150027,6 +150052,11 @@
       "file": "missing/B/358828-bowling.json"
     },
     {
+      "igdb_id": 359308,
+      "game_name": "Bowling",
+      "file": "missing/B/359308-bowling.json"
+    },
+    {
       "igdb_id": 391790,
       "game_name": "Bowling 2000",
       "file": "missing/B/391790-bowling-2000.json"
@@ -160695,6 +160725,11 @@
       "igdb_id": 62026,
       "game_name": "Bubble: Journey to the End of the World",
       "file": "missing/B/62026-bubble-journey-to-the-end-of-the-world.json"
+    },
+    {
+      "igdb_id": 359389,
+      "game_name": "Bubble's Dream",
+      "file": "missing/B/359389-bubbles-dream.json"
     },
     {
       "igdb_id": 387337,
@@ -200717,6 +200752,11 @@
       "file": "missing/C/386731-chop-chains.json"
     },
     {
+      "igdb_id": 359323,
+      "game_name": "Chop Chef",
+      "file": "missing/C/359323-chop-chef.json"
+    },
+    {
       "igdb_id": 398967,
       "game_name": "Chop Chop Inc.",
       "file": "missing/C/398967-chop-chop-inc.json"
@@ -200870,6 +200910,11 @@
       "igdb_id": 388368,
       "game_name": "Chopped Up",
       "file": "missing/C/388368-chopped-up.json"
+    },
+    {
+      "igdb_id": 359447,
+      "game_name": "Chopper Adventure",
+      "file": "missing/C/359447-chopper-adventure.json"
     },
     {
       "igdb_id": 3428,
@@ -212535,6 +212580,11 @@
       "igdb_id": 235863,
       "game_name": "Clouds Ahoy!",
       "file": "missing/C/235863-clouds-ahoy.json"
+    },
+    {
+      "igdb_id": 359390,
+      "game_name": "Clouds and Jewels",
+      "file": "missing/C/359390-clouds-and-jewels.json"
     },
     {
       "igdb_id": 71501,
@@ -236897,6 +236947,11 @@
       "file": "missing/C/108927-crazy-balloon-pop.json"
     },
     {
+      "igdb_id": 359391,
+      "game_name": "Crazy Balls",
+      "file": "missing/C/359391-crazy-balls.json"
+    },
+    {
       "igdb_id": 394473,
       "game_name": "Crazy Basket",
       "file": "missing/C/394473-crazy-basket.json"
@@ -249875,6 +249930,11 @@
       "igdb_id": 359188,
       "game_name": "Curling",
       "file": "missing/C/359188-curling.json"
+    },
+    {
+      "igdb_id": 359306,
+      "game_name": "Curling",
+      "file": "missing/C/359306-curling.json"
     },
     {
       "igdb_id": 230688,
@@ -264770,6 +264830,11 @@
       "igdb_id": 358830,
       "game_name": "Darts",
       "file": "missing/D/358830-darts.json"
+    },
+    {
+      "igdb_id": 359326,
+      "game_name": "Darts",
+      "file": "missing/D/359326-darts.json"
     },
     {
       "igdb_id": 96627,
@@ -302752,6 +302817,11 @@
       "file": "missing/D/165568-dodgeball.json"
     },
     {
+      "igdb_id": 359304,
+      "game_name": "Dodgeball",
+      "file": "missing/D/359304-dodgeball.json"
+    },
+    {
       "igdb_id": 51852,
       "game_name": "Dodgeball",
       "file": "missing/D/51852-dodgeball.json"
@@ -324787,6 +324857,11 @@
       "file": "missing/D/209691-driving-quest.json"
     },
     {
+      "igdb_id": 359307,
+      "game_name": "Driving Range",
+      "file": "missing/D/359307-driving-range.json"
+    },
+    {
       "igdb_id": 89273,
       "game_name": "Driving School 2016",
       "file": "missing/D/89273-driving-school-2016.json"
@@ -326110,6 +326185,11 @@
       "igdb_id": 277023,
       "game_name": "Drum Legend",
       "file": "missing/D/277023-drum-legend.json"
+    },
+    {
+      "igdb_id": 359311,
+      "game_name": "Drum Master",
+      "file": "missing/D/359311-drum-master.json"
     },
     {
       "igdb_id": 337842,
@@ -370522,6 +370602,11 @@
       "file": "missing/E/29583-ezra-the-stranger.json"
     },
     {
+      "igdb_id": 359448,
+      "game_name": "Ezra's Escape",
+      "file": "missing/E/359448-ezras-escape.json"
+    },
+    {
       "igdb_id": 211597,
       "game_name": "Ezra's Legacy",
       "file": "missing/E/211597-ezras-legacy.json"
@@ -402935,6 +403020,11 @@
       "igdb_id": 8789,
       "game_name": "Flight of the Amazon Queen",
       "file": "missing/F/8789-flight-of-the-amazon-queen.json"
+    },
+    {
+      "igdb_id": 359449,
+      "game_name": "Flight of the Asteroid Field",
+      "file": "missing/F/359449-flight-of-the-asteroid-field.json"
     },
     {
       "igdb_id": 22339,
@@ -490657,6 +490747,11 @@
       "file": "missing/H/362237-heart-of-homunculus.json"
     },
     {
+      "igdb_id": 359334,
+      "game_name": "Heart of Ice by Dave Morris",
+      "file": "missing/H/359334-heart-of-ice-by-dave-morris.json"
+    },
+    {
       "igdb_id": 255239,
       "game_name": "Heart of Iona",
       "file": "missing/H/255239-heart-of-iona.json"
@@ -519807,6 +519902,11 @@
       "file": "missing/H/358835-horse-shoes.json"
     },
     {
+      "igdb_id": 359310,
+      "game_name": "Horse Shoes",
+      "file": "missing/H/359310-horse-shoes.json"
+    },
+    {
       "igdb_id": 412010,
       "game_name": "Horse Spirit Valley",
       "file": "missing/H/412010-horse-spirit-valley.json"
@@ -532560,6 +532660,11 @@
       "igdb_id": 176143,
       "game_name": "I Spoke to God",
       "file": "missing/I/176143-i-spoke-to-god.json"
+    },
+    {
+      "igdb_id": 359318,
+      "game_name": "I Spy",
+      "file": "missing/I/359318-i-spy.json"
     },
     {
       "igdb_id": 58627,
@@ -583762,6 +583867,11 @@
       "file": "missing/K/50038-keep-the-balance.json"
     },
     {
+      "igdb_id": 359325,
+      "game_name": "Keep the Beat",
+      "file": "missing/K/359325-keep-the-beat.json"
+    },
+    {
       "igdb_id": 381598,
       "game_name": "Keep The Beat",
       "file": "missing/K/381598-keep-the-beat.json"
@@ -602512,6 +602622,11 @@
       "file": "missing/K/214458-kung-fu.json"
     },
     {
+      "igdb_id": 359300,
+      "game_name": "Kung Fu",
+      "file": "missing/K/359300-kung-fu.json"
+    },
+    {
       "igdb_id": 381316,
       "game_name": "Kung Fu Addiction",
       "file": "missing/K/381316-kung-fu-addiction.json"
@@ -611730,6 +611845,11 @@
       "igdb_id": 409758,
       "game_name": "Lawn Care ASMR Cleaning",
       "file": "missing/L/409758-lawn-care-asmr-cleaning.json"
+    },
+    {
+      "igdb_id": 359327,
+      "game_name": "Lawn Darts",
+      "file": "missing/L/359327-lawn-darts.json"
     },
     {
       "igdb_id": 353956,
@@ -627870,6 +627990,11 @@
       "igdb_id": 220546,
       "game_name": "Lisa: The Wise",
       "file": "missing/L/220546-lisa-the-wise.json"
+    },
+    {
+      "igdb_id": 359332,
+      "game_name": "Lisa: Timeless in Pointless - Drunkard's Paradise",
+      "file": "missing/L/359332-lisa-timeless-in-pointless-drunkards-paradise.json"
     },
     {
       "igdb_id": 114192,
@@ -657630,6 +657755,11 @@
       "igdb_id": 178516,
       "game_name": "Makin Biscuits",
       "file": "missing/M/178516-makin-biscuits.json"
+    },
+    {
+      "igdb_id": 359321,
+      "game_name": "Making Burgers",
+      "file": "missing/M/359321-making-burgers.json"
     },
     {
       "igdb_id": 303646,
@@ -716182,6 +716312,11 @@
       "file": "missing/M/403078-moonnight-shift.json"
     },
     {
+      "igdb_id": 359456,
+      "game_name": "Moonpath to Elsweyr",
+      "file": "missing/M/359456-moonpath-to-elsweyr.json"
+    },
+    {
       "igdb_id": 213376,
       "game_name": "MoonPong: Tales of Epic Lunacy",
       "file": "missing/M/213376-moonpong-tales-of-epic-lunacy.json"
@@ -770552,6 +770687,11 @@
       "file": "missing/N/221095-number-99.json"
     },
     {
+      "igdb_id": 359312,
+      "game_name": "Number Balls",
+      "file": "missing/N/359312-number-balls.json"
+    },
+    {
       "igdb_id": 41201,
       "game_name": "Number Builder",
       "file": "missing/N/41201-number-builder.json"
@@ -813417,6 +813557,11 @@
       "file": "missing/P/241061-penalty-shooters-footy.json"
     },
     {
+      "igdb_id": 359305,
+      "game_name": "Penalty Shot",
+      "file": "missing/P/359305-penalty-shot.json"
+    },
+    {
       "igdb_id": 73663,
       "game_name": "Penalty Soccer",
       "file": "missing/P/73663-penalty-soccer.json"
@@ -848362,6 +848507,11 @@
       "file": "missing/P/289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json"
     },
     {
+      "igdb_id": 359333,
+      "game_name": "Pony's Games Box",
+      "file": "missing/P/359333-ponys-games-box.json"
+    },
+    {
       "igdb_id": 259414,
       "game_name": "PonyGuessr",
       "file": "missing/P/259414-ponyguessr.json"
@@ -873987,6 +874137,11 @@
       "file": "missing/P/209372-puzzle-xp-championship-2.json"
     },
     {
+      "igdb_id": 359316,
+      "game_name": "Puzzle-slider Puzzle",
+      "file": "missing/P/359316-puzzle-slider-puzzle.json"
+    },
+    {
       "igdb_id": 114363,
       "game_name": "Puzzle: Birds",
       "file": "missing/P/114363-puzzle-birds.json"
@@ -895040,6 +895195,11 @@
       "igdb_id": 339156,
       "game_name": "Rebel Spirit!",
       "file": "missing/R/339156-rebel-spirit.json"
+    },
+    {
+      "igdb_id": 359451,
+      "game_name": "Rebel Supplies",
+      "file": "missing/R/359451-rebel-supplies.json"
     },
     {
       "igdb_id": 333131,
@@ -927347,6 +927507,11 @@
       "file": "missing/R/170519-rope-cow-rope-it-to-the-cow.json"
     },
     {
+      "igdb_id": 359320,
+      "game_name": "Rope Dancer",
+      "file": "missing/R/359320-rope-dancer.json"
+    },
+    {
       "igdb_id": 108441,
       "game_name": "Rope Heroes : Hole Runner Game",
       "file": "missing/R/108441-rope-heroes-hole-runner-game.json"
@@ -936660,6 +936825,11 @@
       "igdb_id": 32145,
       "game_name": "SaberSaw VR",
       "file": "missing/S/32145-sabersaw-vr.json"
+    },
+    {
+      "igdb_id": 359452,
+      "game_name": "Sabine's Mission",
+      "file": "missing/S/359452-sabines-mission.json"
     },
     {
       "igdb_id": 139726,
@@ -974722,6 +974892,11 @@
       "file": "missing/S/293214-shot-and-dread-online.json"
     },
     {
+      "igdb_id": 359303,
+      "game_name": "Shot Clock",
+      "file": "missing/S/359303-shot-clock.json"
+    },
+    {
       "igdb_id": 197355,
       "game_name": "Shot Dawn",
       "file": "missing/S/197355-shot-dawn.json"
@@ -986632,6 +986807,11 @@
       "file": "missing/S/75075-skify.json"
     },
     {
+      "igdb_id": 359299,
+      "game_name": "Skiing",
+      "file": "missing/S/359299-skiing.json"
+    },
+    {
       "igdb_id": 55104,
       "game_name": "Skiing",
       "file": "missing/S/55104-skiing.json"
@@ -991620,6 +991800,11 @@
       "igdb_id": 69702,
       "game_name": "Slide Adventure: Magkid",
       "file": "missing/S/69702-slide-adventure-magkid.json"
+    },
+    {
+      "igdb_id": 359322,
+      "game_name": "Slide and Dice",
+      "file": "missing/S/359322-slide-and-dice.json"
     },
     {
       "igdb_id": 340958,
@@ -1098142,6 +1098327,11 @@
       "file": "missing/T/329978-tatoe-sore-ga-unmei-de-atte-mo.json"
     },
     {
+      "igdb_id": 359453,
+      "game_name": "Tatooine Run",
+      "file": "missing/T/359453-tatooine-run.json"
+    },
+    {
       "igdb_id": 104546,
       "game_name": "TatouPho Redact",
       "file": "missing/T/104546-tatoupho-redact.json"
@@ -1133015,6 +1133205,11 @@
       "igdb_id": 9108,
       "game_name": "The Immortals of Terra: A Perry Rhodan Adventure",
       "file": "missing/T/9108-the-immortals-of-terra-a-perry-rhodan-adventure.json"
+    },
+    {
+      "igdb_id": 359450,
+      "game_name": "The Imperial Base",
+      "file": "missing/T/359450-the-imperial-base.json"
     },
     {
       "igdb_id": 146764,
@@ -1196552,6 +1196747,11 @@
       "file": "missing/T/310145-total-zugzwang.json"
     },
     {
+      "igdb_id": 359457,
+      "game_name": "Totale Roller Poursuite!",
+      "file": "missing/T/359457-totale-roller-poursuite.json"
+    },
+    {
       "igdb_id": 6214,
       "game_name": "Totaled!",
       "file": "missing/T/6214-totaled.json"
@@ -1228377,6 +1228577,11 @@
       "file": "missing/U/217240-ufobia.json"
     },
     {
+      "igdb_id": 359309,
+      "game_name": "UFOntastic",
+      "file": "missing/U/359309-ufontastic.json"
+    },
+    {
       "igdb_id": 368145,
       "game_name": "Ufophilia",
       "file": "missing/U/368145-ufophilia.json"
@@ -1258437,6 +1258642,11 @@
       "file": "missing/V/92395-voyage-century.json"
     },
     {
+      "igdb_id": 359455,
+      "game_name": "Voyage en Premiere Classe!",
+      "file": "missing/V/359455-voyage-en-premiere-classe.json"
+    },
+    {
       "igdb_id": 60486,
       "game_name": "Voyage of the Starship Lexicon",
       "file": "missing/V/60486-voyage-of-the-starship-lexicon.json"
@@ -1261645,6 +1261855,11 @@
       "igdb_id": 231341,
       "game_name": "Waiter",
       "file": "missing/W/231341-waiter.json"
+    },
+    {
+      "igdb_id": 359319,
+      "game_name": "Waiter Please!",
+      "file": "missing/W/359319-waiter-please.json"
     },
     {
       "igdb_id": 404253,
@@ -1286465,6 +1286680,11 @@
       "igdb_id": 233558,
       "game_name": "Wipe Factor",
       "file": "missing/W/233558-wipe-factor.json"
+    },
+    {
+      "igdb_id": 359314,
+      "game_name": "Wipe Off",
+      "file": "missing/W/359314-wipe-off.json"
     },
     {
       "igdb_id": 18160,
@@ -1311462,9 +1311682,34 @@
       "file": "missing/Y/399797-your-true-nature-test.json"
     },
     {
+      "igdb_id": 359313,
+      "game_name": "Your Turn To Die: Chapter 1, Part One",
+      "file": "missing/Y/359313-your-turn-to-die-chapter-1-part-one.json"
+    },
+    {
+      "igdb_id": 359315,
+      "game_name": "Your Turn To Die: Chapter 1, Part Two",
+      "file": "missing/Y/359315-your-turn-to-die-chapter-1-part-two.json"
+    },
+    {
+      "igdb_id": 359317,
+      "game_name": "Your Turn To Die: Chapter 2, Part One",
+      "file": "missing/Y/359317-your-turn-to-die-chapter-2-part-one.json"
+    },
+    {
+      "igdb_id": 359324,
+      "game_name": "Your Turn To Die: Chapter 2, Part Two",
+      "file": "missing/Y/359324-your-turn-to-die-chapter-2-part-two.json"
+    },
+    {
       "igdb_id": 120974,
       "game_name": "Your Turn to Die: Death Game by Majority",
       "file": "missing/Y/120974-your-turn-to-die-death-game-by-majority.json"
+    },
+    {
+      "igdb_id": 359329,
+      "game_name": "Your Turn To Die: Final Chapter, Part One",
+      "file": "missing/Y/359329-your-turn-to-die-final-chapter-part-one.json"
     },
     {
       "igdb_id": 359369,
@@ -1316175,6 +1316420,11 @@
       "igdb_id": 296150,
       "game_name": "Zealot's Curse",
       "file": "missing/Z/296150-zealots-curse.json"
+    },
+    {
+      "igdb_id": 359454,
+      "game_name": "Zeb's Trap",
+      "file": "missing/Z/359454-zebs-trap.json"
     },
     {
       "igdb_id": 389027,
