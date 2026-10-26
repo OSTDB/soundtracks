@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
 | Radical Dreamers: Le Trésor Interdit | 335489 | [335489-radical-dreamers-le-tresor-interdit.json](./335489-radical-dreamers-le-tresor-interdit.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
+| Radical Friday | 365619 | [365619-radical-friday.json](./365619-radical-friday.json) |
 | Radical Heights | 96239 | [96239-radical-heights.json](./96239-radical-heights.json) |
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
 | Radical Rabbit Stew | 116592 | [116592-radical-rabbit-stew.json](./116592-radical-rabbit-stew.json) |
@@ -5910,6 +5911,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet: Lost Worlds | 28987 | [28987-ricochet-lost-worlds.json](./28987-ricochet-lost-worlds.json) |
 | Ricochlime | 346013 | [346013-ricochlime.json](./346013-ricochlime.json) |
 | RicoGraph | 177868 | [177868-ricograph.json](./177868-ricograph.json) |
+| Riddick Bowe Boxing | 365636 | [365636-riddick-bowe-boxing.json](./365636-riddick-bowe-boxing.json) |
+| Riddick Bowe Boxing | 365637 | [365637-riddick-bowe-boxing.json](./365637-riddick-bowe-boxing.json) |
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
 | Riddle Diario | 109063 | [109063-riddle-diario.json](./109063-riddle-diario.json) |
 | Riddle fidget spinner | 297649 | [297649-riddle-fidget-spinner.json](./297649-riddle-fidget-spinner.json) |
@@ -7266,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
 | Robin Hood: Hail to the King | 155964 | [155964-robin-hood-hail-to-the-king.json](./155964-robin-hood-hail-to-the-king.json) |
 | Robin Hood: Legend Quest | 12748 | [12748-robin-hood-legend-quest.json](./12748-robin-hood-legend-quest.json) |
+| Robin Hood: Prince of Thieves | 365649 | [365649-robin-hood-prince-of-thieves.json](./365649-robin-hood-prince-of-thieves.json) |
 | Robin Hood: Prince of Thieves | 48088 | [48088-robin-hood-prince-of-thieves.json](./48088-robin-hood-prince-of-thieves.json) |
 | Robin Hood: Shadow of Nottingham | 298364 | [298364-robin-hood-shadow-of-nottingham.json](./298364-robin-hood-shadow-of-nottingham.json) |
 | Robin Hood: Sherwood Builders | 163038 | [163038-robin-hood-sherwood-builders.json](./163038-robin-hood-sherwood-builders.json) |
@@ -8288,6 +8292,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogalia | 31300 | [31300-rogalia.json](./31300-rogalia.json) |
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
 | Rogan: The Thief in the Castle | 117269 | [117269-rogan-the-thief-in-the-castle.json](./117269-rogan-the-thief-in-the-castle.json) |
+| Roger Clemens' MVP Baseball | 365656 | [365656-roger-clemens-mvp-baseball.json](./365656-roger-clemens-mvp-baseball.json) |
+| Roger Clemens' MVP Baseball | 365658 | [365658-roger-clemens-mvp-baseball.json](./365658-roger-clemens-mvp-baseball.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | RoGlass | 271603 | [271603-roglass.json](./271603-roglass.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
@@ -9313,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose in the Embers | 238910 | [238910-rose-in-the-embers.json](./238910-rose-in-the-embers.json) |
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
+| Rose of Wind | 365613 | [365613-rose-of-wind.json](./365613-rose-of-wind.json) |
 | Rose Online | 16391 | [16391-rose-online.json](./16391-rose-online.json) |
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
 | Rose Racer | 60946 | [60946-rose-racer.json](./60946-rose-racer.json) |
