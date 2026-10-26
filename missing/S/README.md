@@ -2599,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scifi Racing Team | 332864 | [332864-scifi-racing-team.json](./332864-scifi-racing-team.json) |
 | Scifi Zombie | 316151 | [316151-scifi-zombie.json](./316151-scifi-zombie.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
+| Scila e il Drago Diamante | 380387 | [380387-scila-e-il-drago-diamante.json](./380387-scila-e-il-drago-diamante.json) |
 | Scintillatron 4096 | 118701 | [118701-scintillatron-4096.json](./118701-scintillatron-4096.json) |
 | Scion | 25885 | [25885-scion.json](./25885-scion.json) |
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
@@ -16635,6 +16636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Treat | 71992 | [71992-space-treat.json](./71992-space-treat.json) |
 | Space Treat Deluxe | 40752 | [40752-space-treat-deluxe.json](./40752-space-treat-deluxe.json) |
 | Space Trek | 77243 | [77243-space-trek.json](./77243-space-trek.json) |
+| Space Trench | 380455 | [380455-space-trench.json](./380455-space-trench.json) |
 | Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
 | Space Troubles | 202031 | [202031-space-troubles.json](./202031-space-troubles.json) |
 | Space Truck Simulator | 336396 | [336396-space-truck-simulator.json](./336396-space-truck-simulator.json) |
@@ -19459,6 +19461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Slayer | 287745 | [287745-stack-slayer.json](./287745-stack-slayer.json) |
 | Stack Stones | 226615 | [226615-stack-stones.json](./226615-stack-stones.json) |
 | Stack Surge | 297003 | [297003-stack-surge.json](./297003-stack-surge.json) |
+| Stack the Blocks! | 380475 | [380475-stack-the-blocks.json](./380475-stack-the-blocks.json) |
 | Stack the Countries | 174326 | [174326-stack-the-countries.json](./174326-stack-the-countries.json) |
 | Stack the Pixels | 334225 | [334225-stack-the-pixels.json](./334225-stack-the-pixels.json) |
 | Stack the States | 396755 | [396755-stack-the-states.json](./396755-stack-the-states.json) |
@@ -28085,6 +28088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Duelist Stickman | 198310 | [198310-supreme-duelist-stickman.json](./198310-supreme-duelist-stickman.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
+| Supreme Experiment | 380454 | [380454-supreme-experiment.json](./380454-supreme-experiment.json) |
 | Supreme Fighters: Javan Havan the Drunken Fist | 293865 | [293865-supreme-fighters-javan-havan-the-drunken-fist.json](./293865-supreme-fighters-javan-havan-the-drunken-fist.json) |
 | Supreme Heroes | 369687 | [369687-supreme-heroes.json](./369687-supreme-heroes.json) |
 | Supreme Kung Fu | 339474 | [339474-supreme-kung-fu.json](./339474-supreme-kung-fu.json) |
@@ -29151,6 +29155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swift Elf | 152667 | [152667-swift-elf.json](./152667-swift-elf.json) |
 | Swift*Stitch | 65439 | [65439-swift-stitch.json](./65439-swift-stitch.json) |
 | Swifter | 346770 | [346770-swifter.json](./346770-swifter.json) |
+| SwiftGrids | 380486 | [380486-swiftgrids.json](./380486-swiftgrids.json) |
 | Swiftle | 327426 | [327426-swiftle.json](./327426-swiftle.json) |
 | Swiggart's Last Will | 252810 | [252810-swiggarts-last-will.json](./252810-swiggarts-last-will.json) |
 | Swigglio | 183819 | [183819-swigglio.json](./183819-swigglio.json) |
@@ -29715,6 +29720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symposium of Grief | 183385 | [183385-symposium-of-grief.json](./183385-symposium-of-grief.json) |
 | Symptoms of Deceit | 323729 | [323729-symptoms-of-deceit.json](./323729-symptoms-of-deceit.json) |
 | Symptoms of Infection | 406211 | [406211-symptoms-of-infection.json](./406211-symptoms-of-infection.json) |
+| Symulator Farmy 2016 | 380494 | [380494-symulator-farmy-2016.json](./380494-symulator-farmy-2016.json) |
 | Symulator Tuska 2014 | 62204 | [62204-symulator-tuska-2014.json](./62204-symulator-tuska-2014.json) |
 | Syn-Chorus 01: The New Life | 339424 | [339424-syn-chorus-01-the-new-life.json](./339424-syn-chorus-01-the-new-life.json) |
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
