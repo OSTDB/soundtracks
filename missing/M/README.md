@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Lines | 15254 | [15254-magic-lines.json](./15254-magic-lines.json) |
 | Magic Logic 3D | 206036 | [206036-magic-logic-3d.json](./206036-magic-logic-3d.json) |
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
+| Magic Madness | 337527 | [337527-magic-madness.json](./337527-magic-madness.json) |
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
 | Magic Market | 215609 | [215609-magic-market.json](./215609-magic-market.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
@@ -2685,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manonnikki | 229698 | [229698-manonnikki.json](./229698-manonnikki.json) |
 | Manor Cafe | 105854 | [105854-manor-cafe.json](./105854-manor-cafe.json) |
 | Manor Dynasty Strategy | 397065 | [397065-manor-dynasty-strategy.json](./397065-manor-dynasty-strategy.json) |
+| Manor Mania | 337846 | [337846-manor-mania.json](./337846-manor-mania.json) |
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
 | Manor of Mystic Courtesans | 291072 | [291072-manor-of-mystic-courtesans.json](./291072-manor-of-mystic-courtesans.json) |
 | Manor of Shadows | 380678 | [380678-manor-of-shadows.json](./380678-manor-of-shadows.json) |
@@ -7753,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
 | Meowker: Desktop Cat Companion | 396494 | [396494-meowker-desktop-cat-companion.json](./396494-meowker-desktop-cat-companion.json) |
+| Meowland: Island Farm | 337558 | [337558-meowland-island-farm.json](./337558-meowland-island-farm.json) |
 | MeowMatch | 283724 | [283724-meowmatch.json](./283724-meowmatch.json) |
 | Meowmentum | 312984 | [312984-meowmentum.json](./312984-meowmentum.json) |
 | Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
@@ -10343,12 +10346,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: 1st Animal Friends Skin Pack | 316692 | [316692-minecraft-1st-animal-friends-skin-pack.json](./316692-minecraft-1st-animal-friends-skin-pack.json) |
 | Minecraft: 1st Birthday Skin Pack | 255346 | [255346-minecraft-1st-birthday-skin-pack.json](./255346-minecraft-1st-birthday-skin-pack.json) |
 | Minecraft: A Minecraft Movie Add-On | 333583 | [333583-minecraft-a-minecraft-movie-add-on.json](./333583-minecraft-a-minecraft-movie-add-on.json) |
+| Minecraft: A Minecraft Movie DLC | 337535 | [337535-minecraft-a-minecraft-movie-dlc.json](./337535-minecraft-a-minecraft-movie-dlc.json) |
+| Minecraft: A Minecraft Movie Hero Pack | 337536 | [337536-minecraft-a-minecraft-movie-hero-pack.json](./337536-minecraft-a-minecraft-movie-hero-pack.json) |
 | Minecraft: Actions & Stuff | 343393 | [343393-minecraft-actions-and-stuff.json](./343393-minecraft-actions-and-stuff.json) |
 | Minecraft: Adidas Adventures Add-On | 347687 | [347687-minecraft-adidas-adventures-add-on.json](./347687-minecraft-adidas-adventures-add-on.json) |
 | Minecraft: Adventure Time Mash-up | 235324 | [235324-minecraft-adventure-time-mash-up.json](./235324-minecraft-adventure-time-mash-up.json) |
 | Minecraft: Aether Legends | 410286 | [410286-minecraft-aether-legends.json](./410286-minecraft-aether-legends.json) |
 | Minecraft: Angry Birds | 214370 | [214370-minecraft-angry-birds.json](./214370-minecraft-angry-birds.json) |
 | Minecraft: Annoying Difficulty | 298310 | [298310-minecraft-annoying-difficulty.json](./298310-minecraft-annoying-difficulty.json) |
+| Minecraft: Aotearoa New Zealand | 337537 | [337537-minecraft-aotearoa-new-zealand.json](./337537-minecraft-aotearoa-new-zealand.json) |
 | Minecraft: Armored Paws | 299217 | [299217-minecraft-armored-paws.json](./299217-minecraft-armored-paws.json) |
 | Minecraft: Armored Paws | 299218 | [299218-minecraft-armored-paws.json](./299218-minecraft-armored-paws.json) |
 | Minecraft: Astronaut Training Center | 316751 | [316751-minecraft-astronaut-training-center.json](./316751-minecraft-astronaut-training-center.json) |
@@ -10532,6 +10538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Disturbance | 56920 | [56920-miner-disturbance.json](./56920-miner-disturbance.json) |
 | Miner Escape: Puzzle Adventure | 296425 | [296425-miner-escape-puzzle-adventure.json](./296425-miner-escape-puzzle-adventure.json) |
 | Miner Gun Builder | 248159 | [248159-miner-gun-builder.json](./248159-miner-gun-builder.json) |
+| Miner Hoversurf 2 Multiplayer Madness | 337533 | [337533-miner-hoversurf-2-multiplayer-madness.json](./337533-miner-hoversurf-2-multiplayer-madness.json) |
 | Miner Lou | 116918 | [116918-miner-lou.json](./116918-miner-lou.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
 | Miner Meltdown | 33936 | [33936-miner-meltdown.json](./33936-miner-meltdown.json) |
@@ -16200,6 +16207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Gods Play Pachinko | 325293 | [325293-murder-gods-play-pachinko.json](./325293-murder-gods-play-pachinko.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
+| Murder in Crayontopia | 337522 | [337522-murder-in-crayontopia.json](./337522-murder-in-crayontopia.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
 | Murder In Venice | 47792 | [47792-murder-in-venice.json](./47792-murder-in-venice.json) |
 | Murder Inc | 333442 | [333442-murder-inc.json](./333442-murder-inc.json) |
