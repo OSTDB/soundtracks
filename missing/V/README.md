@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vom Drachentöten | 389120 | [389120-vom-drachentoten.json](./389120-vom-drachentoten.json) |
 | Vomitoreum | 142271 | [142271-vomitoreum.json](./142271-vomitoreum.json) |
 | Vona: She | 241263 | [241263-vona-she.json](./241263-vona-she.json) |
+| VonGarland Castle: Beyond Blood | 335216 | [335216-vongarland-castle-beyond-blood.json](./335216-vongarland-castle-beyond-blood.json) |
 | VonGarland Castle: Sacrilege of the Night | 264526 | [264526-vongarland-castle-sacrilege-of-the-night.json](./264526-vongarland-castle-sacrilege-of-the-night.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Castle | 18517 | [18517-voodoo-castle.json](./18517-voodoo-castle.json) |
