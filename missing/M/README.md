@@ -16264,6 +16264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Quest | 104060 | [104060-mushroom-quest.json](./104060-mushroom-quest.json) |
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
 | Mushroom Story | 323973 | [323973-mushroom-story.json](./323973-mushroom-story.json) |
+| Mushroom Survivors | 357709 | [357709-mushroom-survivors.json](./357709-mushroom-survivors.json) |
 | Mushroom Towers | 179690 | [179690-mushroom-towers.json](./179690-mushroom-towers.json) |
 | Mushroom Town | 386441 | [386441-mushroom-town.json](./386441-mushroom-town.json) |
 | Mushroom Wars | 18687 | [18687-mushroom-wars.json](./18687-mushroom-wars.json) |
