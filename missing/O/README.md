@@ -1786,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Kingdom | 358401 | [358401-once-upon-a-kingdom.json](./358401-once-upon-a-kingdom.json) |
 | Once Upon A Knight | 24098 | [24098-once-upon-a-knight.json](./24098-once-upon-a-knight.json) |
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
+| Once Upon a Mind: A Little Too Friendly | 340331 | [340331-once-upon-a-mind-a-little-too-friendly.json](./340331-once-upon-a-mind-a-little-too-friendly.json) |
 | Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
 | Once Upon a Puppet | 74771 | [74771-once-upon-a-puppet.json](./74771-once-upon-a-puppet.json) |
 | Once Upon A Puppet: Backstage Edition | 342235 | [342235-once-upon-a-puppet-backstage-edition.json](./342235-once-upon-a-puppet-backstage-edition.json) |
