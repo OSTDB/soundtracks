@@ -4614,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
 | Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
 | RescueBlade | 388121 | [388121-rescueblade.json](./388121-rescueblade.json) |
+| Rescued | 337545 | [337545-rescued.json](./337545-rescued.json) |
 | Rescuer | 163181 | [163181-rescuer.json](./163181-rescuer.json) |
 | Rescues | 202027 | [202027-rescues.json](./202027-rescues.json) |
 | Research and Destroy | 154274 | [154274-research-and-destroy.json](./154274-research-and-destroy.json) |
@@ -6455,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinne Tenshou | 356253 | [356253-rinne-tenshou.json](./356253-rinne-tenshou.json) |
 | Rinne Tsukihime | 282562 | [282562-rinne-tsukihime.json](./282562-rinne-tsukihime.json) |
 | Rinnetenjo | 342921 | [342921-rinnetenjo.json](./342921-rinnetenjo.json) |
+| Rinny Platformer Rage Game | 337531 | [337531-rinny-platformer-rage-game.json](./337531-rinny-platformer-rage-game.json) |
 | Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinse and Repeat | 286576 | [286576-rinse-and-repeat.json](./286576-rinse-and-repeat.json) |
 | Rinth | 344029 | [344029-rinth.json](./344029-rinth.json) |
