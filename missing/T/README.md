@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of a Wolf | 139641 | [139641-tale-of-a-wolf.json](./139641-tale-of-a-wolf.json) |
 | Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
+| Tale of Dark Lands | 333459 | [333459-tale-of-dark-lands.json](./333459-tale-of-dark-lands.json) |
 | Tale of Dark Light | 415748 | [415748-tale-of-dark-light.json](./415748-tale-of-dark-light.json) |
 | Tale of Excalibun | 348681 | [348681-tale-of-excalibun.json](./348681-tale-of-excalibun.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
@@ -11032,6 +11033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Uni | 330731 | [330731-the-little-uni.json](./330731-the-little-uni.json) |
 | The little vampir | 91093 | [91093-the-little-vampir.json](./91093-the-little-vampir.json) |
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
+| The Little World | 333337 | [333337-the-little-world.json](./333337-the-little-world.json) |
 | The Living Dungeon | 21316 | [21316-the-living-dungeon.json](./21316-the-living-dungeon.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
 | The Living Graveyard | 422052 | [422052-the-living-graveyard.json](./422052-the-living-graveyard.json) |
@@ -12080,6 +12082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Journey | 105505 | [105505-the-night-journey.json](./105505-the-night-journey.json) |
 | The Night of Death | 237464 | [237464-the-night-of-death.json](./237464-the-night-of-death.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
+| The Night of Escape | 333493 | [333493-the-night-of-escape.json](./333493-the-night-of-escape.json) |
 | The Night of Fire Stealing | 106412 | [106412-the-night-of-fire-stealing.json](./106412-the-night-of-fire-stealing.json) |
 | The Night of Fire Stealing 2 | 163751 | [163751-the-night-of-fire-stealing-2.json](./163751-the-night-of-fire-stealing-2.json) |
 | The Night of the Exorcism | 332788 | [332788-the-night-of-the-exorcism.json](./332788-the-night-of-the-exorcism.json) |
@@ -15424,6 +15427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Two Body Problem | 411725 | [411725-the-two-body-problem.json](./411725-the-two-body-problem.json) |
 | The Two Moons | 249939 | [249939-the-two-moons.json](./249939-the-two-moons.json) |
 | The Two of Us | 185944 | [185944-the-two-of-us.json](./185944-the-two-of-us.json) |
+| The Two Thinkers | 333335 | [333335-the-two-thinkers.json](./333335-the-two-thinkers.json) |
 | The Typing of the Dead | 11605 | [11605-the-typing-of-the-dead.json](./11605-the-typing-of-the-dead.json) |
 | The Typing of the Dead: Overkill - Dancing with the Dead DLC | 53785 | [53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json](./53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json) |
 | The Typing of the Dead: Overkill - Filth DLC | 53786 | [53786-the-typing-of-the-dead-overkill-filth-dlc.json](./53786-the-typing-of-the-dead-overkill-filth-dlc.json) |
@@ -23120,6 +23124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Rush | 220179 | [220179-town-rush.json](./220179-town-rush.json) |
 | Town Star | 145327 | [145327-town-star.json](./145327-town-star.json) |
 | Town Story | 106967 | [106967-town-story.json](./106967-town-story.json) |
+| Town Survival | 333478 | [333478-town-survival.json](./333478-town-survival.json) |
 | Town Village: Farm Build Trade | 88736 | [88736-town-village-farm-build-trade.json](./88736-town-village-farm-build-trade.json) |
 | Town With No Name | 69874 | [69874-town-with-no-name.json](./69874-town-with-no-name.json) |
 | Town's Tale with Ebichu | 208098 | [208098-towns-tale-with-ebichu.json](./208098-towns-tale-with-ebichu.json) |
@@ -25545,6 +25550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunt | 230708 | [230708-treasure-hunt.json](./230708-treasure-hunt.json) |
 | Treasure Hunt | 246370 | [246370-treasure-hunt.json](./246370-treasure-hunt.json) |
 | Treasure Hunt | 293981 | [293981-treasure-hunt.json](./293981-treasure-hunt.json) |
+| Treasure Hunt | 333479 | [333479-treasure-hunt.json](./333479-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
 | Treasure Hunt VR | 51741 | [51741-treasure-hunt-vr.json](./51741-treasure-hunt-vr.json) |
@@ -27925,6 +27931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
 | Twistbot | 182709 | [182709-twistbot.json](./182709-twistbot.json) |
+| Twistcan | 333467 | [333467-twistcan.json](./333467-twistcan.json) |
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
 | Twisted Arrow | 32285 | [32285-twisted-arrow.json](./32285-twisted-arrow.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
