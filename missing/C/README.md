@@ -11563,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content King: Streamer Simulator | 351418 | [351418-content-king-streamer-simulator.json](./351418-content-king-streamer-simulator.json) |
 | Content Warning | 294661 | [294661-content-warning.json](./294661-content-warning.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
+| Contestant 345 | 351077 | [351077-contestant-345.json](./351077-contestant-345.json) |
 | Contested Space | 403105 | [403105-contested-space.json](./403105-contested-space.json) |
 | Context Catacombs | 347501 | [347501-context-catacombs.json](./347501-context-catacombs.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
