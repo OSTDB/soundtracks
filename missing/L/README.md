@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
 | Last Stand | 220603 | [220603-last-stand.json](./220603-last-stand.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
+| Last Stand Halloween | 359902 | [359902-last-stand-halloween.json](./359902-last-stand-halloween.json) |
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
 | Last Standing | 156923 | [156923-last-standing.json](./156923-last-standing.json) |
 | Last Standing | 292431 | [292431-last-standing.json](./292431-last-standing.json) |
@@ -1458,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender Field | 347353 | [347353-lavender-field.json](./347353-lavender-field.json) |
 | Lavender Laboratories | 184050 | [184050-lavender-laboratories.json](./184050-lavender-laboratories.json) |
 | Lavender Memories | 303309 | [303309-lavender-memories.json](./303309-lavender-memories.json) |
+| Lavender Quartz Kyoukai Hyoudou | 360036 | [360036-lavender-quartz-kyoukai-hyoudou.json](./360036-lavender-quartz-kyoukai-hyoudou.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Lavender Woods | 185491 | [185491-lavender-woods.json](./185491-lavender-woods.json) |
 | Lavender's | 403350 | [403350-lavenders.json](./403350-lavenders.json) |
