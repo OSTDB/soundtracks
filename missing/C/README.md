@@ -3671,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Catie in MeowmeowLand | 158105 | [158105-catie-in-meowmeowland.json](./158105-catie-in-meowmeowland.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
+| Catio Simulator | 368989 | [368989-catio-simulator.json](./368989-catio-simulator.json) |
 | Catizens | 153167 | [153167-catizens.json](./153167-catizens.json) |
 | Catjam | 419928 | [419928-catjam.json](./419928-catjam.json) |
 | Catjong 2: Pawprints in the Snow | 402101 | [402101-catjong-2-pawprints-in-the-snow.json](./402101-catjong-2-pawprints-in-the-snow.json) |
@@ -4432,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cereal Cafe | 351799 | [351799-cereal-cafe.json](./351799-cereal-cafe.json) |
 | Cereal Friend | 420169 | [420169-cereal-friend.json](./420169-cereal-friend.json) |
 | Cereal Killer | 326634 | [326634-cereal-killer.json](./326634-cereal-killer.json) |
+| Cereal O's | 369002 | [369002-cereal-os.json](./369002-cereal-os.json) |
 | Cereal Soup | 99128 | [99128-cereal-soup.json](./99128-cereal-soup.json) |
 | Cerealman | 419884 | [419884-cerealman.json](./419884-cerealman.json) |
 | Cerebral | 215841 | [215841-cerebral.json](./215841-cerebral.json) |
@@ -5049,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm Girls Club: My Fashion Mall | 68084 | [68084-charm-girls-club-my-fashion-mall.json](./68084-charm-girls-club-my-fashion-mall.json) |
 | Charm Girls Club: My Fashion Show | 68085 | [68085-charm-girls-club-my-fashion-show.json](./68085-charm-girls-club-my-fashion-show.json) |
 | Charm Girls Club: My Perfect Prom | 68086 | [68086-charm-girls-club-my-perfect-prom.json](./68086-charm-girls-club-my-perfect-prom.json) |
+| Charm King | 369005 | [369005-charm-king.json](./369005-charm-king.json) |
 | Charm of War | 86013 | [86013-charm-of-war.json](./86013-charm-of-war.json) |
 | Charm Studies | 243409 | [243409-charm-studies.json](./243409-charm-studies.json) |
 | Charm Studies | 400215 | [400215-charm-studies.json](./400215-charm-studies.json) |
@@ -9295,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
 | CodeRunner | 200029 | [200029-coderunner.json](./200029-coderunner.json) |
 | CodeSpells | 17861 | [17861-codespells.json](./17861-codespells.json) |
+| Codestar Cromo Land | 369004 | [369004-codestar-cromo-land.json](./369004-codestar-cromo-land.json) |
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
@@ -9707,6 +9711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
 | Collision Course | 30539 | [30539-collision-course.json](./30539-collision-course.json) |
 | Collision Hero | 175854 | [175854-collision-hero.json](./175854-collision-hero.json) |
+| Collision System Test | 369007 | [369007-collision-system-test.json](./369007-collision-system-test.json) |
 | Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
 | Collisions: Cosmic Geometry | 346925 | [346925-collisions-cosmic-geometry.json](./346925-collisions-cosmic-geometry.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
@@ -13884,6 +13889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
 | Crazy Robot Ball | 356206 | [356206-crazy-robot-ball.json](./356206-crazy-robot-ball.json) |
 | Crazy Saloon VR | 30560 | [30560-crazy-saloon-vr.json](./30560-crazy-saloon-vr.json) |
+| Crazy Santa | 368978 | [368978-crazy-santa.json](./368978-crazy-santa.json) |
 | Crazy Sapper 3D: Classic Mode | 170963 | [170963-crazy-sapper-3d-classic-mode.json](./170963-crazy-sapper-3d-classic-mode.json) |
 | Crazy School Simulator | 114228 | [114228-crazy-school-simulator.json](./114228-crazy-school-simulator.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
@@ -14540,6 +14546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croak Croak On The Sea | 291186 | [291186-croak-croak-on-the-sea.json](./291186-croak-croak-on-the-sea.json) |
 | Croak Crusader: Spawn of the Spore Spectre | 319898 | [319898-croak-crusader-spawn-of-the-spore-spectre.json](./319898-croak-crusader-spawn-of-the-spore-spectre.json) |
 | Croak Crusader: The Champion of Canada | 330753 | [330753-croak-crusader-the-champion-of-canada.json](./330753-croak-crusader-the-champion-of-canada.json) |
+| Croak'd | 368991 | [368991-croakd.json](./368991-croakd.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
