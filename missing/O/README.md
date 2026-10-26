@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Tale | 260306 | [260306-one-last-tale.json](./260306-one-last-tale.json) |
 | One Last Time | 226737 | [226737-one-last-time.json](./226737-one-last-time.json) |
 | One Last Time | 351173 | [351173-one-last-time.json](./351173-one-last-time.json) |
+| One Last Toast | 350936 | [350936-one-last-toast.json](./350936-one-last-toast.json) |
 | One Last Try | 219627 | [219627-one-last-try.json](./219627-one-last-try.json) |
 | One Late Night | 61397 | [61397-one-late-night.json](./61397-one-late-night.json) |
 | One Late Night: Deadline | 28579 | [28579-one-late-night-deadline.json](./28579-one-late-night-deadline.json) |
@@ -2590,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Up 64 | 259981 | [259981-only-up-64.json](./259981-only-up-64.json) |
 | Only Up Rush | 312845 | [312845-only-up-rush.json](./312845-only-up-rush.json) |
 | Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
+| Only up to Space | 351079 | [351079-only-up-to-space.json](./351079-only-up-to-space.json) |
 | Only Up: Parkour Game | 385154 | [385154-only-up-parkour-game.json](./385154-only-up-parkour-game.json) |
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
@@ -2788,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Puzzle Box | 59035 | [59035-open-puzzle-box.json](./59035-open-puzzle-box.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Realm of Stars | 176169 | [176169-open-realm-of-stars.json](./176169-open-realm-of-stars.json) |
+| Open Rider | 350926 | [350926-open-rider.json](./350926-open-rider.json) |
 | Open Road First Front S | 284259 | [284259-open-road-first-front-s.json](./284259-open-road-first-front-s.json) |
 | Open Robot | 375216 | [375216-open-robot.json](./375216-open-robot.json) |
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
