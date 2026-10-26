@@ -4237,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 4 | 23458 | [23458-out-of-the-park-baseball-4.json](./23458-out-of-the-park-baseball-4.json) |
 | Out of the Park Baseball 5 | 66490 | [66490-out-of-the-park-baseball-5.json](./66490-out-of-the-park-baseball-5.json) |
 | Out of the Park Baseball 9 | 21340 | [21340-out-of-the-park-baseball-9.json](./21340-out-of-the-park-baseball-9.json) |
+| Out of the Shadows | 343199 | [343199-out-of-the-shadows.json](./343199-out-of-the-shadows.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
 | Out of the Sun | 64916 | [64916-out-of-the-sun.json](./64916-out-of-the-sun.json) |
 | Out of the Woods | 220616 | [220616-out-of-the-woods.json](./220616-out-of-the-woods.json) |
