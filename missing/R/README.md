@@ -4837,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Owner: A Restaurant Simulator | 324530 | [324530-restaurant-owner-a-restaurant-simulator.json](./324530-restaurant-owner-a-restaurant-simulator.json) |
 | Restaurant Renovation | 118248 | [118248-restaurant-renovation.json](./118248-restaurant-renovation.json) |
 | Restaurant Rush | 351560 | [351560-restaurant-rush.json](./351560-restaurant-rush.json) |
+| Restaurant Scramble | 372524 | [372524-restaurant-scramble.json](./372524-restaurant-scramble.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
 | Restaurant Simulator 2023 | 252272 | [252272-restaurant-simulator-2023.json](./252272-restaurant-simulator-2023.json) |
 | Restaurant Solitaire: Delicious Lunch | 188923 | [188923-restaurant-solitaire-delicious-lunch.json](./188923-restaurant-solitaire-delicious-lunch.json) |
@@ -5080,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Three Kingdoms | 173202 | [173202-retro-three-kingdoms.json](./173202-retro-three-kingdoms.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
 | Retro TV Game Collection | 196144 | [196144-retro-tv-game-collection.json](./196144-retro-tv-game-collection.json) |
+| Retro Unicorn Attack | 372501 | [372501-retro-unicorn-attack.json](./372501-retro-unicorn-attack.json) |
 | Retro Vaders: Reloaded | 133725 | [133725-retro-vaders-reloaded.json](./133725-retro-vaders-reloaded.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
 | Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
@@ -7558,6 +7560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Unicorn Attack 2 | 76895 | [76895-robot-unicorn-attack-2.json](./76895-robot-unicorn-attack-2.json) |
 | Robot Unicorn Attack Evolution | 230136 | [230136-robot-unicorn-attack-evolution.json](./230136-robot-unicorn-attack-evolution.json) |
 | Robot Unicorn Attack Forever | 56161 | [56161-robot-unicorn-attack-forever.json](./56161-robot-unicorn-attack-forever.json) |
+| Robot Unicorn Attack: Christmas Edition | 372502 | [372502-robot-unicorn-attack-christmas-edition.json](./372502-robot-unicorn-attack-christmas-edition.json) |
 | Robot Unicorn Attack: Heavy Metal | 66003 | [66003-robot-unicorn-attack-heavy-metal.json](./66003-robot-unicorn-attack-heavy-metal.json) |
 | Robot Unlock | 344139 | [344139-robot-unlock.json](./344139-robot-unlock.json) |
 | Robot Vacuum Simulator 2013 | 61629 | [61629-robot-vacuum-simulator-2013.json](./61629-robot-vacuum-simulator-2013.json) |
