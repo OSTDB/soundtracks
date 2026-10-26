@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Mania | 309029 | [309029-galaxy-mania.json](./309029-galaxy-mania.json) |
 | Galaxy Mirror Glaze Cake - Sweet Desserts Maker | 101347 | [101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json](./101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json) |
 | Galaxy Monster | 116890 | [116890-galaxy-monster.json](./116890-galaxy-monster.json) |
+| Galaxy Odyssey | 334594 | [334594-galaxy-odyssey.json](./334594-galaxy-odyssey.json) |
 | Galaxy of Arcade Classics | 206136 | [206136-galaxy-of-arcade-classics.json](./206136-galaxy-of-arcade-classics.json) |
 | Galaxy of Drones | 54495 | [54495-galaxy-of-drones.json](./54495-galaxy-of-drones.json) |
 | Galaxy of Games Platinum Edition | 205916 | [205916-galaxy-of-games-platinum-edition.json](./205916-galaxy-of-games-platinum-edition.json) |
