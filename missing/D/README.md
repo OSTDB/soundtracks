@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDD Pool | 92835 | [92835-ddd-pool.json](./92835-ddd-pool.json) |
 | DDD: Demons Double Down | 390779 | [390779-ddd-demons-double-down.json](./390779-ddd-demons-double-down.json) |
 | DDD: Dice, Dungeons, and Drakes | 395123 | [395123-ddd-dice-dungeons-and-drakes.json](./395123-ddd-dice-dungeons-and-drakes.json) |
+| DDD: Drone Drop Dash | 360560 | [360560-ddd-drone-drop-dash.json](./360560-ddd-drone-drop-dash.json) |
 | DDI Rally Championship | 260336 | [260336-ddi-rally-championship.json](./260336-ddi-rally-championship.json) |
 | DDI Touring Car Championship | 298681 | [298681-ddi-touring-car-championship.json](./298681-ddi-touring-car-championship.json) |
 | DDM Soccer '96 | 93390 | [93390-ddm-soccer-96.json](./93390-ddm-soccer-96.json) |
@@ -3345,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadliest Catch: Alaskan Storm | 6962 | [6962-deadliest-catch-alaskan-storm.json](./6962-deadliest-catch-alaskan-storm.json) |
 | Deadliest Catch: Sea of Chaos | 20448 | [20448-deadliest-catch-sea-of-chaos.json](./20448-deadliest-catch-sea-of-chaos.json) |
 | Deadliest Catch: The Game | 111232 | [111232-deadliest-catch-the-game.json](./111232-deadliest-catch-the-game.json) |
+| Deadliest Deep Sea Catch Fishing Simulator | 360549 | [360549-deadliest-deep-sea-catch-fishing-simulator.json](./360549-deadliest-deep-sea-catch-fishing-simulator.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
 | Deadliest Pigeon | 367556 | [367556-deadliest-pigeon.json](./367556-deadliest-pigeon.json) |
 | Deadliest Warrior: Ancient Combat | 20823 | [20823-deadliest-warrior-ancient-combat.json](./20823-deadliest-warrior-ancient-combat.json) |
@@ -6822,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devolverland Expo | 135770 | [135770-devolverland-expo.json](./135770-devolverland-expo.json) |
 | Devorian: Left Behind | 188980 | [188980-devorian-left-behind.json](./188980-devorian-left-behind.json) |
 | Devoris | 382865 | [382865-devoris.json](./382865-devoris.json) |
+| Devose | 360471 | [360471-devose.json](./360471-devose.json) |
 | Devoted Vampire | 377992 | [377992-devoted-vampire.json](./377992-devoted-vampire.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devotionalia | 178466 | [178466-devotionalia.json](./178466-devotionalia.json) |
@@ -10922,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoomBreaker | 149474 | [149474-doombreaker.json](./149474-doombreaker.json) |
 | DoomBus | 383650 | [383650-doombus.json](./383650-doombus.json) |
 | Doomclock | 346677 | [346677-doomclock.json](./346677-doomclock.json) |
+| DoomCrush | 360548 | [360548-doomcrush.json](./360548-doomcrush.json) |
 | Doomdark's Revenge | 12992 | [12992-doomdarks-revenge.json](./12992-doomdarks-revenge.json) |
 | Doomdark's Revenge | 197761 | [197761-doomdarks-revenge.json](./197761-doomdarks-revenge.json) |
 | Doomdepths | 248153 | [248153-doomdepths.json](./248153-doomdepths.json) |
@@ -14143,6 +14147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
 | Drought | 261442 | [261442-drought.json](./261442-drought.json) |
 | Drova: Forsaken Kin | 141490 | [141490-drova-forsaken-kin.json](./141490-drova-forsaken-kin.json) |
+| Drow Space Shooter | 360557 | [360557-drow-space-shooter.json](./360557-drow-space-shooter.json) |
 | Drown in Yesterday's Sea | 411780 | [411780-drown-in-yesterdays-sea.json](./411780-drown-in-yesterdays-sea.json) |
 | Drown Rabbit | 397937 | [397937-drown-rabbit.json](./397937-drown-rabbit.json) |
 | Drown the Bride | 318691 | [318691-drown-the-bride.json](./318691-drown-the-bride.json) |
