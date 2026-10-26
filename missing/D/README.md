@@ -6482,6 +6482,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Inna Duke | 380203 | [380203-detective-inna-duke.json](./380203-detective-inna-duke.json) |
 | Detective Inspector: Mysterious Clues | 194256 | [194256-detective-inspector-mysterious-clues.json](./194256-detective-inspector-mysterious-clues.json) |
 | Detective Instinct: Farewell, My Beloved | 278060 | [278060-detective-instinct-farewell-my-beloved.json](./278060-detective-instinct-farewell-my-beloved.json) |
+| Detective Jake Hunter: Episode No. 01 - The Petty Murder of a Fragile Heart | 347581 | [347581-detective-jake-hunter-episode-no-01-the-petty-murder-of-a-fragile-heart.json](./347581-detective-jake-hunter-episode-no-01-the-petty-murder-of-a-fragile-heart.json) |
+| Detective Jake Hunter: Episode No. 02 - Seaside City Conspiracy | 347582 | [347582-detective-jake-hunter-episode-no-02-seaside-city-conspiracy.json](./347582-detective-jake-hunter-episode-no-02-seaside-city-conspiracy.json) |
+| Detective Jake Hunter: Episode No. 03 - Crash and Burn | 347583 | [347583-detective-jake-hunter-episode-no-03-crash-and-burn.json](./347583-detective-jake-hunter-episode-no-03-crash-and-burn.json) |
+| Detective Jake Hunter: Episode No. 04 - As Time Goes By | 347584 | [347584-detective-jake-hunter-episode-no-04-as-time-goes-by.json](./347584-detective-jake-hunter-episode-no-04-as-time-goes-by.json) |
+| Detective Jake Hunter: Episode No. 05 - The Red-Eyed Tiger | 347585 | [347585-detective-jake-hunter-episode-no-05-the-red-eyed-tiger.json](./347585-detective-jake-hunter-episode-no-05-the-red-eyed-tiger.json) |
 | Detective Kiwi | 282569 | [282569-detective-kiwi.json](./282569-detective-kiwi.json) |
 | Detective Kobayashi | 118321 | [118321-detective-kobayashi.json](./118321-detective-kobayashi.json) |
 | Detective Lin: Time Murder Frenzy | 301915 | [301915-detective-lin-time-murder-frenzy.json](./301915-detective-lin-time-murder-frenzy.json) |
@@ -10693,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Break: Head to Head | 214566 | [214566-donut-break-head-to-head.json](./214566-donut-break-head-to-head.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
 | Donut Dodo Do! | 252062 | [252062-donut-dodo-do.json](./252062-donut-dodo-do.json) |
+| Donut Dodo Fantastico | 347603 | [347603-donut-dodo-fantastico.json](./347603-donut-dodo-fantastico.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
 | Donut Fun | 221076 | [221076-donut-fun.json](./221076-donut-fun.json) |
 | Donut Get! | 51173 | [51173-donut-get.json](./51173-donut-get.json) |
@@ -14375,6 +14381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drymir Cave under Richmordnom | 108032 | [108032-drymir-cave-under-richmordnom.json](./108032-drymir-cave-under-richmordnom.json) |
 | Drymouth | 340339 | [340339-drymouth.json](./340339-drymouth.json) |
 | Drynk: Board and Drinking Game | 180146 | [180146-drynk-board-and-drinking-game.json](./180146-drynk-board-and-drinking-game.json) |
+| Drywall Eating Simulator | 347597 | [347597-drywall-eating-simulator.json](./347597-drywall-eating-simulator.json) |
 | DS Bimoji Training | 306436 | [306436-ds-bimoji-training.json](./306436-ds-bimoji-training.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Chiri, Rekishi, Koumin: Maru x Maru Shakai-ka | 269576 | [269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json](./269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json) |
