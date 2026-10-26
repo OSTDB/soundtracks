@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuki And Chill | 354520 | [354520-natsuki-and-chill.json](./354520-natsuki-and-chill.json) |
 | Natsuki Chronicles | 61467 | [61467-natsuki-chronicles.json](./61467-natsuki-chronicles.json) |
 | Natsuki Crisis Battle | 38210 | [38210-natsuki-crisis-battle.json](./38210-natsuki-crisis-battle.json) |
+| Natsumatsuri | 366182 | [366182-natsumatsuri.json](./366182-natsumatsuri.json) |
 | Natsume Championship Wrestling | 42483 | [42483-natsume-championship-wrestling.json](./42483-natsume-championship-wrestling.json) |
 | Natsume Ryoran: Romance of Hi-Spec Yoko | 344798 | [344798-natsume-ryoran-romance-of-hi-spec-yoko.json](./344798-natsume-ryoran-romance-of-hi-spec-yoko.json) |
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Tales from the Borderlands: Deluxe Edition | 214140 | [214140-new-tales-from-the-borderlands-deluxe-edition.json](./214140-new-tales-from-the-borderlands-deluxe-edition.json) |
 | New Tanks | 211070 | [211070-new-tanks.json](./211070-new-tanks.json) |
 | New Terra | 189077 | [189077-new-terra.json](./189077-new-terra.json) |
+| New Times | 366166 | [366166-new-times.json](./366166-new-times.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
 | New Unou Kids Wii | 268393 | [268393-new-unou-kids-wii.json](./268393-new-unou-kids-wii.json) |
 | New Vegas Bounties I | 281362 | [281362-new-vegas-bounties-i.json](./281362-new-vegas-bounties-i.json) |
@@ -5484,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonsense Asteroid | 134327 | [134327-nonsense-asteroid.json](./134327-nonsense-asteroid.json) |
 | Nonsense Fall | 348937 | [348937-nonsense-fall.json](./348937-nonsense-fall.json) |
 | Nonsense Soccer | 156874 | [156874-nonsense-soccer.json](./156874-nonsense-soccer.json) |
+| Nonsolar | 366281 | [366281-nonsolar.json](./366281-nonsolar.json) |
 | Nonstop | 188427 | [188427-nonstop.json](./188427-nonstop.json) |
 | Nonstop Arrow | 246931 | [246931-nonstop-arrow.json](./246931-nonstop-arrow.json) |
 | Nonstop Balls | 87731 | [87731-nonstop-balls.json](./87731-nonstop-balls.json) |
