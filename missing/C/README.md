@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camplandia | 249872 | [249872-camplandia.json](./249872-camplandia.json) |
 | CampNight | 223502 | [223502-campnight.json](./223502-campnight.json) |
 | Campo Largo | 414211 | [414211-campo-largo.json](./414211-campo-largo.json) |
+| Campoca | 384005 | [384005-campoca.json](./384005-campoca.json) |
 | Camps | 293469 | [293469-camps.json](./293469-camps.json) |
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
@@ -7218,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | CipherPilot | 155863 | [155863-cipherpilot.json](./155863-cipherpilot.json) |
 | Cipheur | 330901 | [330901-cipheur.json](./330901-cipheur.json) |
+| Cipheur: Trivia - Geography | 384009 | [384009-cipheur-trivia-geography.json](./384009-cipheur-trivia-geography.json) |
 | Ciphoid 9 | 329980 | [329980-ciphoid-9.json](./329980-ciphoid-9.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circa Infinity | 16312 | [16312-circa-infinity.json](./16312-circa-infinity.json) |
@@ -10184,7 +10186,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossus: Eternal Blight | 244913 | [244913-colossus-eternal-blight.json](./244913-colossus-eternal-blight.json) |
 | Colour Bind | 10101 | [10101-colour-bind.json](./10101-colour-bind.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
+| Colour My Dreams | 384039 | [384039-colour-my-dreams.json](./384039-colour-my-dreams.json) |
 | Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
+| Colour My Heart | 384025 | [384025-colour-my-heart.json](./384025-colour-my-heart.json) |
+| Colour My World | 384026 | [384026-colour-my-world.json](./384026-colour-my-world.json) |
 | Colour Switch Dash | 87018 | [87018-colour-switch-dash.json](./87018-colour-switch-dash.json) |
 | Colourblind | 235830 | [235830-colourblind.json](./235830-colourblind.json) |
 | Colourful Maze | 112673 | [112673-colourful-maze.json](./112673-colourful-maze.json) |
