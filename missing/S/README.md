@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Twiks | 291726 | [291726-save-twiks.json](./291726-save-twiks.json) |
 | Save Us | 190931 | [190931-save-us.json](./190931-save-us.json) |
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
+| Save Your Chicks | 341965 | [341965-save-your-chicks.json](./341965-save-your-chicks.json) |
 | Save Your Crabies | 347500 | [347500-save-your-crabies.json](./347500-save-your-crabies.json) |
 | Save Your Nuts | 76347 | [76347-save-your-nuts.json](./76347-save-your-nuts.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasonal Assistant | 147731 | [147731-seasonal-assistant.json](./147731-seasonal-assistant.json) |
 | Seasonal Bloom | 369908 | [369908-seasonal-bloom.json](./369908-seasonal-bloom.json) |
 | Seasonal Soccer | 90188 | [90188-seasonal-soccer.json](./90188-seasonal-soccer.json) |
+| Seasonala Cemetery | 341995 | [341995-seasonala-cemetery.json](./341995-seasonala-cemetery.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | SeasonPark | 263440 | [263440-seasonpark.json](./263440-seasonpark.json) |
 | Seasons | 201524 | [201524-seasons.json](./201524-seasons.json) |
@@ -5005,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim Waterpark & Chris Cole | 357406 | [357406-session-skate-sim-waterpark-and-chris-cole.json](./357406-session-skate-sim-waterpark-and-chris-cole.json) |
 | Session: Skate Sim Year One & Two Edition | 331843 | [331843-session-skate-sim-year-one-and-two-edition.json](./331843-session-skate-sim-year-one-and-two-edition.json) |
 | Set 'N Det | 186861 | [186861-set-n-det.json](./186861-set-n-det.json) |
+| Set a Watch: Digital Edition | 341982 | [341982-set-a-watch-digital-edition.json](./341982-set-a-watch-digital-edition.json) |
 | Set Adrift | 374027 | [374027-set-adrift.json](./374027-set-adrift.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
 | Set Yourself on Fire | 306616 | [306616-set-yourself-on-fire.json](./306616-set-yourself-on-fire.json) |
@@ -6552,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelfbound | 419358 | [419358-shelfbound.json](./419358-shelfbound.json) |
 | ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
 | Shell as Hard as Steel | 413847 | [413847-shell-as-hard-as-steel.json](./413847-shell-as-hard-as-steel.json) |
+| Shell Bless the Faithless | 342301 | [342301-shell-bless-the-faithless.json](./342301-shell-bless-the-faithless.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
 | Shell Girls in Puzzle Skulls | 195419 | [195419-shell-girls-in-puzzle-skulls.json](./195419-shell-girls-in-puzzle-skulls.json) |
 | Shell Increment | 390654 | [390654-shell-increment.json](./390654-shell-increment.json) |
@@ -8629,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
 | Signalfall | 403347 | [403347-signalfall.json](./403347-signalfall.json) |
 | Signals of Chaos | 195007 | [195007-signals-of-chaos.json](./195007-signals-of-chaos.json) |
+| SignaNota | 341991 | [341991-signanota.json](./341991-signanota.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
 | Signed Mary | 318291 | [318291-signed-mary.json](./318291-signed-mary.json) |
@@ -19195,6 +19200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spunch Bob and Krabsburger Secret | 334911 | [334911-spunch-bob-and-krabsburger-secret.json](./334911-spunch-bob-and-krabsburger-secret.json) |
 | Spunk and Moxie | 25041 | [25041-spunk-and-moxie.json](./25041-spunk-and-moxie.json) |
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
+| Spunky Dungeon | 341997 | [341997-spunky-dungeon.json](./341997-spunky-dungeon.json) |
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
 | Sputnik | 168701 | [168701-sputnik.json](./168701-sputnik.json) |
 | Sputnik Eyes | 97757 | [97757-sputnik-eyes.json](./97757-sputnik-eyes.json) |
@@ -26834,6 +26840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World and the Bois! | 268366 | [268366-super-mario-world-and-the-bois.json](./268366-super-mario-world-and-the-bois.json) |
 | Super Mario World Bros. | 268367 | [268367-super-mario-world-bros.json](./268367-super-mario-world-bros.json) |
+| Super Mario World DX | 341956 | [341956-super-mario-world-dx.json](./341956-super-mario-world-dx.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Randomizer | 182184 | [182184-super-mario-world-randomizer.json](./182184-super-mario-world-randomizer.json) |
 | Super Mario World Remastered | 339866 | [339866-super-mario-world-remastered.json](./339866-super-mario-world-remastered.json) |
@@ -29800,6 +29807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword Snap | 384328 | [384328-sword-snap.json](./384328-sword-snap.json) |
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
+| Sword Tale: Lost Excalibur | 341990 | [341990-sword-tale-lost-excalibur.json](./341990-sword-tale-lost-excalibur.json) |
 | Sword Tomb: Kan Yu | 204854 | [204854-sword-tomb-kan-yu.json](./204854-sword-tomb-kan-yu.json) |
 | Sword vs. Horde | 292947 | [292947-sword-vs-horde.json](./292947-sword-vs-horde.json) |
 | Sword Warriors | 304242 | [304242-sword-warriors.json](./304242-sword-warriors.json) |
