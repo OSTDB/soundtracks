@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Queijorcista | 298408 | [298408-o-queijorcista.json](./298408-o-queijorcista.json) |
 | O Rei | 121649 | [121649-o-rei.json](./121649-o-rei.json) |
 | O reino em outro mundo | 315131 | [315131-o-reino-em-outro-mundo.json](./315131-o-reino-em-outro-mundo.json) |
+| O Réquiem das Crianças | 385652 | [385652-o-requiem-das-criancas.json](./385652-o-requiem-das-criancas.json) |
 | O Salão Encantado | 216274 | [216274-o-salao-encantado.json](./216274-o-salao-encantado.json) |
 | O Vagabundo | 290018 | [290018-o-vagabundo.json](./290018-o-vagabundo.json) |
 | O Viajante | 281889 | [281889-o-viajante.json](./281889-o-viajante.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OniBushi VR | 96641 | [96641-onibushi-vr.json](./96641-onibushi-vr.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigami Korinden Oni | 67612 | [67612-onigami-korinden-oni.json](./67612-onigami-korinden-oni.json) |
+| Onigashima | 385619 | [385619-onigashima.json](./385619-onigashima.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
 | Onigiri | 18132 | [18132-onigiri.json](./18132-onigiri.json) |
 | Onigiri Heroes | 174699 | [174699-onigiri-heroes.json](./174699-onigiri-heroes.json) |
