@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jalecolle Famicom Ver. Pizza Pop! | 328517 | [328517-jalecolle-famicom-ver-pizza-pop.json](./328517-jalecolle-famicom-ver-pizza-pop.json) |
 | Jalecolle Famicom Ver. Rod Land | 411740 | [411740-jalecolle-famicom-ver-rod-land.json](./411740-jalecolle-famicom-ver-rod-land.json) |
 | Jalecolle Famicom Ver. Saiyuuki World | 328518 | [328518-jalecolle-famicom-ver-saiyuuki-world.json](./328518-jalecolle-famicom-ver-saiyuuki-world.json) |
+| Jalecolle Famicom Ver. Saiyuuki World II: The Demon God of Heaven - & Whomp'em | 358627 | [358627-jalecolle-famicom-ver-saiyuuki-world-ii-the-demon-god-of-heaven-and-whompem.json](./358627-jalecolle-famicom-ver-saiyuuki-world-ii-the-demon-god-of-heaven-and-whompem.json) |
 | Jalecolle Famicom Ver. Shatterhand | 420688 | [420688-jalecolle-famicom-ver-shatterhand.json](./420688-jalecolle-famicom-ver-shatterhand.json) |
 | Jalecolle Famicom Ver. The Last Ninja | 347320 | [347320-jalecolle-famicom-ver-the-last-ninja.json](./347320-jalecolle-famicom-ver-the-last-ninja.json) |
 | Jalecolle Famicom Ver. Yokai Club | 312088 | [312088-jalecolle-famicom-ver-yokai-club.json](./312088-jalecolle-famicom-ver-yokai-club.json) |
