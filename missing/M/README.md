@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Maker | 156940 | [156940-mana-maker.json](./156940-mana-maker.json) |
 | Mana Monsters | 321504 | [321504-mana-monsters.json](./321504-mana-monsters.json) |
 | Mana Quest | 272201 | [272201-mana-quest.json](./272201-mana-quest.json) |
+| Mana Runner | 381662 | [381662-mana-runner.json](./381662-mana-runner.json) |
 | Mana Rush | 414093 | [414093-mana-rush.json](./414093-mana-rush.json) |
 | Mana Sisters | 255261 | [255261-mana-sisters.json](./255261-mana-sisters.json) |
 | Mana Smack | 346542 | [346542-mana-smack.json](./346542-mana-smack.json) |
@@ -4993,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxxed Out Racing | 64210 | [64210-maxxed-out-racing.json](./64210-maxxed-out-racing.json) |
 | May | 212771 | [212771-may.json](./212771-may.json) |
 | May | 306211 | [306211-may.json](./306211-may.json) |
+| May and the Amazing Bouquet | 381577 | [381577-may-and-the-amazing-bouquet.json](./381577-may-and-the-amazing-bouquet.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
@@ -16099,6 +16101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Collection | 284609 | [284609-mushroom-collection.json](./284609-mushroom-collection.json) |
 | Mushroom Crusher Extreme | 32155 | [32155-mushroom-crusher-extreme.json](./32155-mushroom-crusher-extreme.json) |
 | Mushroom Doom | 389747 | [389747-mushroom-doom.json](./389747-mushroom-doom.json) |
+| Mushroom Empire | 381664 | [381664-mushroom-empire.json](./381664-mushroom-empire.json) |
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
 | Mushroom Guardian | 100362 | [100362-mushroom-guardian.json](./100362-mushroom-guardian.json) |
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
@@ -18216,6 +18219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
 | Mythic Dreams | 276759 | [276759-mythic-dreams.json](./276759-mythic-dreams.json) |
 | Mythic Glory | 98531 | [98531-mythic-glory.json](./98531-mythic-glory.json) |
+| Mythic Kart Maker | 381580 | [381580-mythic-kart-maker.json](./381580-mythic-kart-maker.json) |
 | Mythic Legends | 201617 | [201617-mythic-legends.json](./201617-mythic-legends.json) |
 | Mythic Love: Iberian Legends | 386288 | [386288-mythic-love-iberian-legends.json](./386288-mythic-love-iberian-legends.json) |
 | Mythic Manager | 408151 | [408151-mythic-manager.json](./408151-mythic-manager.json) |
