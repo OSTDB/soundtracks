@@ -3223,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Bangers: Pub & Grill | 170495 | [170495-femboy-bangers-pub-and-grill.json](./170495-femboy-bangers-pub-and-grill.json) |
 | Femboy Called It “Massage” | 370477 | [370477-femboy-called-it-massage.json](./370477-femboy-called-it-massage.json) |
 | Femboy Fun | 231782 | [231782-femboy-fun.json](./231782-femboy-fun.json) |
+| Femboy Futa House: Dirty Election | 378216 | [378216-femboy-futa-house-dirty-election.json](./378216-femboy-futa-house-dirty-election.json) |
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
 | Femdom First Timers | 392445 | [392445-femdom-first-timers.json](./392445-femdom-first-timers.json) |
@@ -6720,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flocc | 194190 | [194190-flocc.json](./194190-flocc.json) |
 | FloCity | 244260 | [244260-flocity.json](./244260-flocity.json) |
 | Flock | 177446 | [177446-flock.json](./177446-flock.json) |
+| Flock Around | 378224 | [378224-flock-around.json](./378224-flock-around.json) |
 | Flock Frenzy | 386259 | [386259-flock-frenzy.json](./386259-flock-frenzy.json) |
 | Flock of Dogs | 108283 | [108283-flock-of-dogs.json](./108283-flock-of-dogs.json) |
 | Flock of the Low God VR | 244723 | [244723-flock-of-the-low-god-vr.json](./244723-flock-of-the-low-god-vr.json) |
@@ -10698,6 +10700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FTB Academy | 396938 | [396938-ftb-academy.json](./396938-ftb-academy.json) |
 | FTB Evolution | 355091 | [355091-ftb-evolution.json](./355091-ftb-evolution.json) |
 | FTB Oceanblock | 234178 | [234178-ftb-oceanblock.json](./234178-ftb-oceanblock.json) |
+| FTB Stoneblock 4 | 378220 | [378220-ftb-stoneblock-4.json](./378220-ftb-stoneblock-4.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
 | FTD2 | 147180 | [147180-ftd2.json](./147180-ftd2.json) |
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
