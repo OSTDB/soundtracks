@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Quartz | 378423 | [378423-quantum-quartz.json](./378423-quantum-quartz.json) |
 | Quantum Redshift | 5996 | [5996-quantum-redshift.json](./5996-quantum-redshift.json) |
 | Quantum Replica | 32642 | [32642-quantum-replica.json](./32642-quantum-replica.json) |
+| Quantum Resonance | 350930 | [350930-quantum-resonance.json](./350930-quantum-resonance.json) |
 | Quantum Robot | 68445 | [68445-quantum-robot.json](./68445-quantum-robot.json) |
 | Quantum Ruins | 182077 | [182077-quantum-ruins.json](./182077-quantum-ruins.json) |
 | Quantum Runners | 151006 | [151006-quantum-runners.json](./151006-quantum-runners.json) |
