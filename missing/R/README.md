@@ -2713,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reanimation Inc. | 126514 | [126514-reanimation-inc.json](./126514-reanimation-inc.json) |
 | Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
 | Reap | 120644 | [120644-reap.json](./120644-reap.json) |
+| Reap & Repay | 382834 | [382834-reap-and-repay.json](./382834-reap-and-repay.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
 | Reap and Sow | 382396 | [382396-reap-and-sow.json](./382396-reap-and-sow.json) |
 | Reap What You Sow | 184995 | [184995-reap-what-you-sow.json](./184995-reap-what-you-sow.json) |
@@ -3485,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
 | Redhook's Revenge | 68885 | [68885-redhooks-revenge.json](./68885-redhooks-revenge.json) |
+| Redhowl | 382862 | [382862-redhowl.json](./382862-redhowl.json) |
 | Redial:Conundrum | 273444 | [273444-redial-conundrum.json](./273444-redial-conundrum.json) |
 | Redie | 25954 | [25954-redie.json](./25954-redie.json) |
 | Rediscovering Earth | 183374 | [183374-rediscovering-earth.json](./183374-rediscovering-earth.json) |
@@ -9211,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
 | Rory's Restaurant: Winter Rush | 190001 | [190001-rorys-restaurant-winter-rush.json](./190001-rorys-restaurant-winter-rush.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
+| Rosa + Juliet | 382822 | [382822-rosa-juliet.json](./382822-rosa-juliet.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
 | Rosa's Quest | 402869 | [402869-rosas-quest.json](./402869-rosas-quest.json) |
 | Rosabella: Eternal Light and Magic in Harmony | 336398 | [336398-rosabella-eternal-light-and-magic-in-harmony.json](./336398-rosabella-eternal-light-and-magic-in-harmony.json) |
