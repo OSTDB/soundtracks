@@ -4150,6 +4150,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Ishin! - Third Division Armament Expansion Kit | 239213 | [239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json](./239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Collector's Edition | 327838 | [327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json](./327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Extra Karaoke & CD Pack | 374435 | [374435-like-a-dragon-pirate-yakuza-in-hawaii-extra-karaoke-and-cd-pack.json](./374435-like-a-dragon-pirate-yakuza-in-hawaii-extra-karaoke-and-cd-pack.json) |
+| Like a Dragon: Pirate Yakuza in Hawaii - Ichiban Pirate Crew Set | 374658 | [374658-like-a-dragon-pirate-yakuza-in-hawaii-ichiban-pirate-crew-set.json](./374658-like-a-dragon-pirate-yakuza-in-hawaii-ichiban-pirate-crew-set.json) |
+| Like a Dragon: Pirate Yakuza in Hawaii - Ichiban Special Outfit Set | 374659 | [374659-like-a-dragon-pirate-yakuza-in-hawaii-ichiban-special-outfit-set.json](./374659-like-a-dragon-pirate-yakuza-in-hawaii-ichiban-special-outfit-set.json) |
+| Like a Dragon: Pirate Yakuza in Hawaii - Kazuma Kiryu Special Outfit | 374660 | [374660-like-a-dragon-pirate-yakuza-in-hawaii-kazuma-kiryu-special-outfit.json](./374660-like-a-dragon-pirate-yakuza-in-hawaii-kazuma-kiryu-special-outfit.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Legendary Outfit Pack | 374430 | [374430-like-a-dragon-pirate-yakuza-in-hawaii-legendary-outfit-pack.json](./374430-like-a-dragon-pirate-yakuza-in-hawaii-legendary-outfit-pack.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Legendary Pirate Crew Pack | 374428 | [374428-like-a-dragon-pirate-yakuza-in-hawaii-legendary-pirate-crew-pack.json](./374428-like-a-dragon-pirate-yakuza-in-hawaii-legendary-pirate-crew-pack.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Ship Customization Pack | 374432 | [374432-like-a-dragon-pirate-yakuza-in-hawaii-ship-customization-pack.json](./374432-like-a-dragon-pirate-yakuza-in-hawaii-ship-customization-pack.json) |
@@ -4183,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Johnny Goes Home | 258213 | [258213-lil-johnny-goes-home.json](./258213-lil-johnny-goes-home.json) |
 | Lil Jump 2 | 253024 | [253024-lil-jump-2.json](./253024-lil-jump-2.json) |
 | Lil Kobold's Big Stew | 376203 | [376203-lil-kobolds-big-stew.json](./376203-lil-kobolds-big-stew.json) |
+| Lil Pothead | 374639 | [374639-lil-pothead.json](./374639-lil-pothead.json) |
 | Lil Pump Piano Tiles | 95867 | [95867-lil-pump-piano-tiles.json](./95867-lil-pump-piano-tiles.json) |
 | Lil Splody: Look Out Below! | 197144 | [197144-lil-splody-look-out-below.json](./197144-lil-splody-look-out-below.json) |
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
@@ -7337,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love the Game | 314142 | [314142-love-the-game.json](./314142-love-the-game.json) |
 | Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
 | Love Thyself: A Horatio Story | 116948 | [116948-love-thyself-a-horatio-story.json](./116948-love-thyself-a-horatio-story.json) |
+| Love Too Easily 2: Summer Pocha | 374563 | [374563-love-too-easily-2-summer-pocha.json](./374563-love-too-easily-2-summer-pocha.json) |
 | Love Too Easily Bundle | 400199 | [400199-love-too-easily-bundle.json](./400199-love-too-easily-bundle.json) |
 | Love Tore: Bitter | 64466 | [64466-love-tore-bitter.json](./64466-love-tore-bitter.json) |
 | Love Tore: Mint | 64468 | [64468-love-tore-mint.json](./64468-love-tore-mint.json) |
