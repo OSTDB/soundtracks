@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainlining | 27568 | [27568-mainlining.json](./27568-mainlining.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maintenance | 179465 | [179465-maintenance.json](./179465-maintenance.json) |
+| Maintenance | 340827 | [340827-maintenance.json](./340827-maintenance.json) |
 | Maintenance Crew | 295331 | [295331-maintenance-crew.json](./295331-maintenance-crew.json) |
 | Maintenance on the Front | 362248 | [362248-maintenance-on-the-front.json](./362248-maintenance-on-the-front.json) |
 | Mainu | 344696 | [344696-mainu.json](./344696-mainu.json) |
@@ -11809,6 +11810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miuma | 217180 | [217180-miuma.json](./217180-miuma.json) |
 | Miuratale | 244130 | [244130-miuratale.json](./244130-miuratale.json) |
 | MiuSa | 308863 | [308863-miusa.json](./308863-miusa.json) |
+| Mix a Monster | 340841 | [340841-mix-a-monster.json](./340841-mix-a-monster.json) |
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
 | Mix Dunk: King of Basketball | 274884 | [274884-mix-dunk-king-of-basketball.json](./274884-mix-dunk-king-of-basketball.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
@@ -13544,6 +13546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Super League | 80238 | [80238-monster-super-league.json](./80238-monster-super-league.json) |
 | Monster Survivor | 259712 | [259712-monster-survivor.json](./259712-monster-survivor.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
+| Monster Survivors | 340828 | [340828-monster-survivors.json](./340828-monster-survivors.json) |
 | Monster Survivors: Complete Edition | 343704 | [343704-monster-survivors-complete-edition.json](./343704-monster-survivors-complete-edition.json) |
 | Monster Survivors: Echo Edition | 347329 | [347329-monster-survivors-echo-edition.json](./347329-monster-survivors-echo-edition.json) |
 | Monster Survivors: Rootsy Edition | 357017 | [357017-monster-survivors-rootsy-edition.json](./357017-monster-survivors-rootsy-edition.json) |
