@@ -2447,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
 | Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
 | Path Of Balls | 332793 | [332793-path-of-balls.json](./332793-path-of-balls.json) |
+| Path of Clicks | 341967 | [341967-path-of-clicks.json](./341967-path-of-clicks.json) |
 | Path of Colors | 243762 | [243762-path-of-colors.json](./243762-path-of-colors.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
 | Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
@@ -6229,6 +6230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipedreamz | 396705 | [396705-pipedreamz.json](./396705-pipedreamz.json) |
 | Pipejob | 30771 | [30771-pipejob.json](./30771-pipejob.json) |
 | PipeLand Roll HD | 108860 | [108860-pipeland-roll-hd.json](./108860-pipeland-roll-hd.json) |
+| Pipeline Crawl | 341988 | [341988-pipeline-crawl.json](./341988-pipeline-crawl.json) |
 | Pipeline of Emperor Yu | 129424 | [129424-pipeline-of-emperor-yu.json](./129424-pipeline-of-emperor-yu.json) |
 | Pipeline of Emperor Yu | 130785 | [130785-pipeline-of-emperor-yu.json](./130785-pipeline-of-emperor-yu.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
