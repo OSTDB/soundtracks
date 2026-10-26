@@ -339,6 +339,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Space Colonies | 33646 | [33646-earth-space-colonies.json](./33646-earth-space-colonies.json) |
 | Earth Space Defenders | 373211 | [373211-earth-space-defenders.json](./373211-earth-space-defenders.json) |
 | Earth Taken | 362339 | [362339-earth-taken.json](./362339-earth-taken.json) |
+| Earth Taken 2 | 365133 | [365133-earth-taken-2.json](./365133-earth-taken-2.json) |
+| Earth Taken 3 | 365131 | [365131-earth-taken-3.json](./365131-earth-taken-3.json) |
 | Earth Under Siege | 17867 | [17867-earth-under-siege.json](./17867-earth-under-siege.json) |
 | Earth Vs Moon | 63206 | [63206-earth-vs-moon.json](./63206-earth-vs-moon.json) |
 | Earth vs. Mars | 333779 | [333779-earth-vs-mars.json](./333779-earth-vs-mars.json) |
