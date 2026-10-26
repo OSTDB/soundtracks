@@ -4448,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaws + Handful of Missions: Remaster | 361823 | [361823-outlaws-handful-of-missions-remaster.json](./361823-outlaws-handful-of-missions-remaster.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlaws: Corwin's Treasure | 133153 | [133153-outlaws-corwins-treasure.json](./133153-outlaws-corwins-treasure.json) |
+| Outlawyer | 348147 | [348147-outlawyer.json](./348147-outlawyer.json) |
 | OutlawZ: Headhunter | 292362 | [292362-outlawz-headhunter.json](./292362-outlawz-headhunter.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outline | 134343 | [134343-outline.json](./134343-outline.json) |
