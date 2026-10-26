@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaidTitans | 128910 | [128910-raidtitans.json](./128910-raidtitans.json) |
 | Raifu Wars: Puska Character | 207678 | [207678-raifu-wars-puska-character.json](./207678-raifu-wars-puska-character.json) |
 | Raige | 156044 | [156044-raige.json](./156044-raige.json) |
+| Raiju: Lightning Arena | 380478 | [380478-raiju-lightning-arena.json](./380478-raiju-lightning-arena.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
 | Rail Adventures | 19063 | [19063-rail-adventures.json](./19063-rail-adventures.json) |
 | Rail Blazers run | 102641 | [102641-rail-blazers-run.json](./102641-rail-blazers-run.json) |
@@ -4890,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
 | Retail Royale | 151096 | [151096-retail-royale.json](./151096-retail-royale.json) |
 | Retail Simulator | 359718 | [359718-retail-simulator.json](./359718-retail-simulator.json) |
+| Retail Therapy | 380482 | [380482-retail-therapy.json](./380482-retail-therapy.json) |
 | Retail Wars | 231797 | [231797-retail-wars.json](./231797-retail-wars.json) |
 | Retailer Tycoon | 148672 | [148672-retailer-tycoon.json](./148672-retailer-tycoon.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
@@ -7052,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Guangdong | 114520 | [114520-road-to-guangdong.json](./114520-road-to-guangdong.json) |
 | Road To Heaven | 400566 | [400566-road-to-heaven.json](./400566-road-to-heaven.json) |
 | Road to Jonin! The 3-Choice Ninja Quiz | 406060 | [406060-road-to-jonin-the-3-choice-ninja-quiz.json](./406060-road-to-jonin-the-3-choice-ninja-quiz.json) |
+| Road to Jukai | 380485 | [380485-road-to-jukai.json](./380485-road-to-jukai.json) |
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
@@ -7516,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Runner | 106950 | [106950-robot-runner.json](./106950-robot-runner.json) |
 | Robot Sex Party Murder | 186631 | [186631-robot-sex-party-murder.json](./186631-robot-sex-party-murder.json) |
 | Robot Shooter | 256141 | [256141-robot-shooter.json](./256141-robot-shooter.json) |
+| Robot Space Frenzy | 380483 | [380483-robot-space-frenzy.json](./380483-robot-space-frenzy.json) |
 | Robot Squad Simulator | 119516 | [119516-robot-squad-simulator.json](./119516-robot-squad-simulator.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
@@ -8645,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | Rollerball | 79731 | [79731-rollerball.json](./79731-rollerball.json) |
 | RollerBall | 245736 | [245736-rollerball.json](./245736-rollerball.json) |
+| Rollerball 464 | 380384 | [380384-rollerball-464.json](./380384-rollerball-464.json) |
 | RollerBaller | 158511 | [158511-rollerballer.json](./158511-rollerballer.json) |
 | RollerBlade | 395354 | [395354-rollerblade.json](./395354-rollerblade.json) |
 | Rollerblade Racer | 48204 | [48204-rollerblade-racer.json](./48204-rollerblade-racer.json) |
