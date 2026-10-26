@@ -4693,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Life | 101619 | [101619-goat-life.json](./101619-goat-life.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat on Boat | 176284 | [176284-goat-on-boat.json](./176284-goat-on-boat.json) |
+| Goat Out Of Hell | 367907 | [367907-goat-out-of-hell.json](./367907-goat-out-of-hell.json) |
 | Goat over it | 143340 | [143340-goat-over-it.json](./143340-goat-over-it.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
 | Goat Simulator | 204123 | [204123-goat-simulator.json](./204123-goat-simulator.json) |
@@ -4851,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOBS: Game of Battle Simulation | 130107 | [130107-gobs-game-of-battle-simulation.json](./130107-gobs-game-of-battle-simulation.json) |
 | Gobsmacked! | 358864 | [358864-gobsmacked.json](./358864-gobsmacked.json) |
 | Gobstruck | 398411 | [398411-gobstruck.json](./398411-gobstruck.json) |
+| Gobutiko | 367927 | [367927-gobutiko.json](./367927-gobutiko.json) |
 | Gobyworld | 245828 | [245828-gobyworld.json](./245828-gobyworld.json) |
 | GOC Royale | 156002 | [156002-goc-royale.json](./156002-goc-royale.json) |
 | Gocco | 212769 | [212769-gocco.json](./212769-gocco.json) |
