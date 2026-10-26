@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Mou-juu-oh S | 82302 | [82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json](./82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json) |
 | Jissen Pachi-Slot Hisshouhou! Mr. Magic Neo | 82310 | [82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json](./82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json) |
 | Jissen Pachi-Slot Hisshouhou! Ore no Sora | 82307 | [82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json](./82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json) |
+| Jissen Pachi-Slot Hisshouhou! Sammy Revolution | 382841 | [382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json](./382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json) |
 | Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2 | 82305 | [82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json](./82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json) |
 | Jissen Pachi-Slot Hisshouhou! Savana Park | 82301 | [82301-jissen-pachi-slot-hisshouhou-savana-park.json](./82301-jissen-pachi-slot-hisshouhou-savana-park.json) |
 | Jissen Pachi-Slot Hisshouhou! Twin | 42645 | [42645-jissen-pachi-slot-hisshouhou-twin.json](./42645-jissen-pachi-slot-hisshouhou-twin.json) |
@@ -2083,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | John's Wizard Dungeon | 119738 | [119738-johns-wizard-dungeon.json](./119738-johns-wizard-dungeon.json) |
 | JohnGagz | 317354 | [317354-johngagz.json](./317354-johngagz.json) |
+| Johnny 21 | 385661 | [385661-johnny-21.json](./385661-johnny-21.json) |
 | Johnny 9: The Return | 124704 | [124704-johnny-9-the-return.json](./124704-johnny-9-the-return.json) |
 | Johnny Bazookatone | 4256 | [4256-johnny-bazookatone.json](./4256-johnny-bazookatone.json) |
 | Johnny Bonasera: Full Season | 147821 | [147821-johnny-bonasera-full-season.json](./147821-johnny-bonasera-full-season.json) |
