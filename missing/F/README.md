@@ -7040,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Horde | 107385 | [107385-fluffy-horde.json](./107385-fluffy-horde.json) |
 | Fluffy Horde + Clumsy Rush | 230407 | [230407-fluffy-horde-clumsy-rush.json](./230407-fluffy-horde-clumsy-rush.json) |
+| Fluffy Kitchen Saga | 369078 | [369078-fluffy-kitchen-saga.json](./369078-fluffy-kitchen-saga.json) |
 | Fluffy Milo | 195631 | [195631-fluffy-milo.json](./195631-fluffy-milo.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | Fluffy Showdown | 360679 | [360679-fluffy-showdown.json](./360679-fluffy-showdown.json) |
@@ -8542,6 +8543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Aaahh Men! | 372794 | [372794-fortnite-festival-aaahh-men.json](./372794-fortnite-festival-aaahh-men.json) |
 | Fortnite Festival: Ain't No Rest For The Wicked | 366340 | [366340-fortnite-festival-aint-no-rest-for-the-wicked.json](./366340-fortnite-festival-aint-no-rest-for-the-wicked.json) |
 | Fortnite Festival: Applause | 370635 | [370635-fortnite-festival-applause.json](./370635-fortnite-festival-applause.json) |
+| Fortnite Festival: As Alive As You Need Me To Be | 369068 | [369068-fortnite-festival-as-alive-as-you-need-me-to-be.json](./369068-fortnite-festival-as-alive-as-you-need-me-to-be.json) |
 | Fortnite Festival: Bang Bang | 368827 | [368827-fortnite-festival-bang-bang.json](./368827-fortnite-festival-bang-bang.json) |
 | Fortnite Festival: Better Off Alone | 372011 | [372011-fortnite-festival-better-off-alone.json](./372011-fortnite-festival-better-off-alone.json) |
 | Fortnite Festival: Beyond the Flame | 377256 | [377256-fortnite-festival-beyond-the-flame.json](./377256-fortnite-festival-beyond-the-flame.json) |
@@ -8552,8 +8554,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Carry on Wayward Son | 366342 | [366342-fortnite-festival-carry-on-wayward-son.json](./366342-fortnite-festival-carry-on-wayward-son.json) |
 | Fortnite Festival: Celebrate Happy | 377999 | [377999-fortnite-festival-celebrate-happy.json](./377999-fortnite-festival-celebrate-happy.json) |
 | Fortnite Festival: Changes | 366373 | [366373-fortnite-festival-changes.json](./366373-fortnite-festival-changes.json) |
+| Fortnite Festival: Cheguei | 369070 | [369070-fortnite-festival-cheguei.json](./369070-fortnite-festival-cheguei.json) |
 | Fortnite Festival: Closer | 371635 | [371635-fortnite-festival-closer.json](./371635-fortnite-festival-closer.json) |
 | Fortnite Festival: Creatures In Heaven | 370639 | [370639-fortnite-festival-creatures-in-heaven.json](./370639-fortnite-festival-creatures-in-heaven.json) |
+| Fortnite Festival: Dancing in the Flames | 369073 | [369073-fortnite-festival-dancing-in-the-flames.json](./369073-fortnite-festival-dancing-in-the-flames.json) |
 | Fortnite Festival: Dare | 366372 | [366372-fortnite-festival-dare.json](./366372-fortnite-festival-dare.json) |
 | Fortnite Festival: Dog Days Are Over | 370641 | [370641-fortnite-festival-dog-days-are-over.json](./370641-fortnite-festival-dog-days-are-over.json) |
 | Fortnite Festival: Drop It like it's hot | 367588 | [367588-fortnite-festival-drop-it-like-its-hot.json](./367588-fortnite-festival-drop-it-like-its-hot.json) |
@@ -8564,16 +8568,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Get Lucky | 370567 | [370567-fortnite-festival-get-lucky.json](./370567-fortnite-festival-get-lucky.json) |
 | Fortnite Festival: Gimme Chocolate!! | 370634 | [370634-fortnite-festival-gimme-chocolate.json](./370634-fortnite-festival-gimme-chocolate.json) |
 | Fortnite Festival: Givenchy | 367580 | [367580-fortnite-festival-givenchy.json](./367580-fortnite-festival-givenchy.json) |
+| Fortnite Festival: I Wish | 369067 | [369067-fortnite-festival-i-wish.json](./369067-fortnite-festival-i-wish.json) |
 | Fortnite Festival: Instant Crush | 370570 | [370570-fortnite-festival-instant-crush.json](./370570-fortnite-festival-instant-crush.json) |
 | Fortnite Festival: Locked & Loaded | 366402 | [366402-fortnite-festival-locked-and-loaded.json](./366402-fortnite-festival-locked-and-loaded.json) |
+| Fortnite Festival: Mambo No. 5 (A Little Bit of...) | 369075 | [369075-fortnite-festival-mambo-no-5-a-little-bit-of.json](./369075-fortnite-festival-mambo-no-5-a-little-bit-of.json) |
 | Fortnite Festival: Mi Gente | 372796 | [372796-fortnite-festival-mi-gente.json](./372796-fortnite-festival-mi-gente.json) |
 | Fortnite Festival: Miku | 370638 | [370638-fortnite-festival-miku.json](./370638-fortnite-festival-miku.json) |
+| Fortnite Festival: Moves Like Jagger | 369072 | [369072-fortnite-festival-moves-like-jagger.json](./369072-fortnite-festival-moves-like-jagger.json) |
 | Fortnite Festival: Mr. Brightside | 367586 | [367586-fortnite-festival-mr-brightside.json](./367586-fortnite-festival-mr-brightside.json) |
 | Fortnite Festival: Oiia Oiia (Spinning Cat) | 375400 | [375400-fortnite-festival-oiia-oiia-spinning-cat.json](./375400-fortnite-festival-oiia-oiia-spinning-cat.json) |
 | Fortnite Festival: Old Town Road (Remix) | 370573 | [370573-fortnite-festival-old-town-road-remix.json](./370573-fortnite-festival-old-town-road-remix.json) |
 | Fortnite Festival: One | 367587 | [367587-fortnite-festival-one.json](./367587-fortnite-festival-one.json) |
 | Fortnite Festival: Paint The Town Red | 372795 | [372795-fortnite-festival-paint-the-town-red.json](./372795-fortnite-festival-paint-the-town-red.json) |
 | Fortnite Festival: PPAP (Pen Pineapple Apple Pen) [Long Version] | 372802 | [372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json](./372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json) |
+| Fortnite Festival: Proibida Pra Mim (Grazon) | 369071 | [369071-fortnite-festival-proibida-pra-mim-grazon.json](./369071-fortnite-festival-proibida-pra-mim-grazon.json) |
 | Fortnite Festival: Radioactive | 372009 | [372009-fortnite-festival-radioactive.json](./372009-fortnite-festival-radioactive.json) |
 | Fortnite Festival: Ride the Lightning | 370637 | [370637-fortnite-festival-ride-the-lightning.json](./370637-fortnite-festival-ride-the-lightning.json) |
 | Fortnite Festival: Right Round | 366429 | [366429-fortnite-festival-right-round.json](./366429-fortnite-festival-right-round.json) |
@@ -8600,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: We Like To Party! (The Vengabus) | 370571 | [370571-fortnite-festival-we-like-to-party-the-vengabus.json](./370571-fortnite-festival-we-like-to-party-the-vengabus.json) |
 | Fortnite Festival: Welcome Home | 366400 | [366400-fortnite-festival-welcome-home.json](./366400-fortnite-festival-welcome-home.json) |
 | Fortnite Festival: What's New Scooby-Doo? | 372797 | [372797-fortnite-festival-whats-new-scooby-doo.json](./372797-fortnite-festival-whats-new-scooby-doo.json) |
+| Fortnite Festival: Wildberry Lillet | 369069 | [369069-fortnite-festival-wildberry-lillet.json](./369069-fortnite-festival-wildberry-lillet.json) |
 | Fortnite Festival: World Is Mine | 370574 | [370574-fortnite-festival-world-is-mine.json](./370574-fortnite-festival-world-is-mine.json) |
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
 | Fortnite Festval: March of the pigs | 370633 | [370633-fortnite-festval-march-of-the-pigs.json](./370633-fortnite-festval-march-of-the-pigs.json) |
