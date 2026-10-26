@@ -12122,6 +12122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Warships: Sea Battle Online | 174797 | [174797-modern-warships-sea-battle-online.json](./174797-modern-warships-sea-battle-online.json) |
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
+| ModernFire | 370079 | [370079-modernfire.json](./370079-modernfire.json) |
 | Modernism | 92806 | [92806-modernism.json](./92806-modernism.json) |
 | Modest Hero | 132459 | [132459-modest-hero.json](./132459-modest-hero.json) |
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
