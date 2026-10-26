@@ -10731,6 +10731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Movie Quiz | 232504 | [232504-doodle-movie-quiz.json](./232504-doodle-movie-quiz.json) |
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
 | Doodle Pool | 64225 | [64225-doodle-pool.json](./64225-doodle-pool.json) |
+| Doodle Road | 369517 | [369517-doodle-road.json](./369517-doodle-road.json) |
 | Doodle Smash! | 232578 | [232578-doodle-smash.json](./232578-doodle-smash.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
 | Doodle Tanks | 76181 | [76181-doodle-tanks.json](./76181-doodle-tanks.json) |
@@ -11724,7 +11725,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Frank's Build a Boyfriend | 86627 | [86627-dr-franks-build-a-boyfriend.json](./86627-dr-franks-build-a-boyfriend.json) |
 | Dr. Frank's Build-A-Boyfriend | 177900 | [177900-dr-franks-build-a-boyfriend.json](./177900-dr-franks-build-a-boyfriend.json) |
 | Dr. Franken | 369599 | [369599-dr-franken.json](./369599-dr-franken.json) |
+| Dr. Franken | 369601 | [369601-dr-franken.json](./369601-dr-franken.json) |
 | Dr. Franken | 48949 | [48949-dr-franken.json](./48949-dr-franken.json) |
+| Dr. Franken GG2SMS | 369612 | [369612-dr-franken-gg2sms.json](./369612-dr-franken-gg2sms.json) |
 | Dr. Franken II | 48948 | [48948-dr-franken-ii.json](./48948-dr-franken-ii.json) |
 | Dr. Fruit | 133789 | [133789-dr-fruit.json](./133789-dr-fruit.json) |
 | Dr. Gloom’s Lab | 302082 | [302082-dr-gloom-s-lab.json](./302082-dr-gloom-s-lab.json) |
@@ -14098,6 +14101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropzone | 369617 | [369617-dropzone.json](./369617-dropzone.json) |
 | Dropzone | 369618 | [369618-dropzone.json](./369618-dropzone.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
+| Dropzone GG2SMS | 369615 | [369615-dropzone-gg2sms.json](./369615-dropzone-gg2sms.json) |
 | Dros | 172216 | [172216-dros.json](./172216-dros.json) |
 | Drosera: Lady Bad End no Hatsukoi | 321015 | [321015-drosera-lady-bad-end-no-hatsukoi.json](./321015-drosera-lady-bad-end-no-hatsukoi.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
