@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Heaven | 349257 | [349257-back-to-the-heaven.json](./349257-back-to-the-heaven.json) |
 | Back to the Joseon | 214565 | [214565-back-to-the-joseon.json](./214565-back-to-the-joseon.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
+| Back to the Scene | 369609 | [369609-back-to-the-scene.json](./369609-back-to-the-scene.json) |
 | Back to the Village | 395244 | [395244-back-to-the-village.json](./395244-back-to-the-village.json) |
 | Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
 | Back Together | 425448 | [425448-back-together.json](./425448-back-together.json) |
@@ -6601,6 +6602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Binary Dungeon | 280085 | [280085-binary-dungeon.json](./280085-binary-dungeon.json) |
 | Binary Escape | 274351 | [274351-binary-escape.json](./274351-binary-escape.json) |
+| Binary Game | 369538 | [369538-binary-game.json](./369538-binary-game.json) |
 | Binary Heresy | 134983 | [134983-binary-heresy.json](./134983-binary-heresy.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
 | Binary Monsters III: School Fighter | 247452 | [247452-binary-monsters-iii-school-fighter.json](./247452-binary-monsters-iii-school-fighter.json) |
@@ -6989,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird's Eye Odyssey | 245954 | [245954-birds-eye-odyssey.json](./245954-birds-eye-odyssey.json) |
 | Bird's Town | 120264 | [120264-birds-town.json](./120264-birds-town.json) |
 | Birdcage | 338241 | [338241-birdcage.json](./338241-birdcage.json) |
+| Birdcage | 369520 | [369520-birdcage.json](./369520-birdcage.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfight | 303371 | [303371-birdfight.json](./303371-birdfight.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
@@ -10335,6 +10338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
 | Boltzmann Brain | 95211 | [95211-boltzmann-brain.json](./95211-boltzmann-brain.json) |
 | Bolu | 204987 | [204987-bolu.json](./204987-bolu.json) |
+| Bom-eul Buleuneun Seolnyeo: Yuna Seupin-opeu | 369528 | [369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json](./369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json) |
 | Bomb | 36309 | [36309-bomb.json](./36309-bomb.json) |
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Alley | 21917 | [21917-bomb-alley.json](./21917-bomb-alley.json) |
@@ -11638,6 +11642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowl Big | 411351 | [411351-bowl-big.json](./411351-bowl-big.json) |
 | Bowl VR | 32315 | [32315-bowl-vr.json](./32315-bowl-vr.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
+| Bowlatro | 369521 | [369521-bowlatro.json](./369521-bowlatro.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
 | Bowler | 95920 | [95920-bowler.json](./95920-bowler.json) |
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
@@ -14462,6 +14467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper.io | 106376 | [106376-bumper-io.json](./106376-bumper-io.json) |
 | Bumpers & Broadswords | 201117 | [201117-bumpers-and-broadswords.json](./201117-bumpers-and-broadswords.json) |
 | Bumpers & Broadswords Mini | 411357 | [411357-bumpers-and-broadswords-mini.json](./411357-bumpers-and-broadswords-mini.json) |
+| Bumpkin & Sprout | 369531 | [369531-bumpkin-and-sprout.json](./369531-bumpkin-and-sprout.json) |
 | Bumpkin and Sprout | 270025 | [270025-bumpkin-and-sprout.json](./270025-bumpkin-and-sprout.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
 | BumpUpGhostBuster | 234717 | [234717-bumpupghostbuster.json](./234717-bumpupghostbuster.json) |
