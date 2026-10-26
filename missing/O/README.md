@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscurium | 371409 | [371409-obscurium.json](./371409-obscurium.json) |
 | Obscurium | 401700 | [401700-obscurium.json](./401700-obscurium.json) |
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
+| Observa | 386168 | [386168-observa.json](./386168-observa.json) |
 | Observance of Homeland | 368151 | [368151-observance-of-homeland.json](./368151-observance-of-homeland.json) |
 | Observation at Freddy's | 318639 | [318639-observation-at-freddys.json](./318639-observation-at-freddys.json) |
 | Observation Beauty | 398913 | [398913-observation-beauty.json](./398913-observation-beauty.json) |
@@ -3988,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Beautiful Earth 2 | 164887 | [164887-our-beautiful-earth-2.json](./164887-our-beautiful-earth-2.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Our Beautiful Earth 4 | 294692 | [294692-our-beautiful-earth-4.json](./294692-our-beautiful-earth-4.json) |
+| Our Burial Dolls Remastered | 386210 | [386210-our-burial-dolls-remastered.json](./386210-our-burial-dolls-remastered.json) |
 | Our Children - Escaping Earth | 115511 | [115511-our-children-escaping-earth.json](./115511-our-children-escaping-earth.json) |
 | Our Church and Halloween RPG: Story Five - James Version | 214940 | [214940-our-church-and-halloween-rpg-story-five-james-version.json](./214940-our-church-and-halloween-rpg-story-five-james-version.json) |
 | Our Church and Halloween RPG: Story Five - Scott Version | 214939 | [214939-our-church-and-halloween-rpg-story-five-scott-version.json](./214939-our-church-and-halloween-rpg-story-five-scott-version.json) |
