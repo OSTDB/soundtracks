@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightbringer | 100302 | [100302-lightbringer.json](./100302-lightbringer.json) |
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightclusters | 289552 | [289552-lightclusters.json](./289552-lightclusters.json) |
+| Lightcore Guardians | 357147 | [357147-lightcore-guardians.json](./357147-lightcore-guardians.json) |
 | Lightdancer | 289176 | [289176-lightdancer.json](./289176-lightdancer.json) |
 | LightEaters! | 233910 | [233910-lighteaters.json](./233910-lighteaters.json) |
 | Lighted Knights | 123525 | [123525-lighted-knights.json](./123525-lighted-knights.json) |
@@ -5761,6 +5762,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logi. | 105719 | [105719-logi.json](./105719-logi.json) |
 | Logiart Grimoire | 263886 | [263886-logiart-grimoire.json](./263886-logiart-grimoire.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 1 | 324166 | [324166-logiart-grimoire-emils-magic-training-part-1.json](./324166-logiart-grimoire-emils-magic-training-part-1.json) |
+| Logiart Grimoire: Emil's Magic Training, Part 2 | 357287 | [357287-logiart-grimoire-emils-magic-training-part-2.json](./357287-logiart-grimoire-emils-magic-training-part-2.json) |
+| Logiart Grimoire: Emil's Magic Training, Part 3 | 357288 | [357288-logiart-grimoire-emils-magic-training-part-3.json](./357288-logiart-grimoire-emils-magic-training-part-3.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 4 | 357389 | [357389-logiart-grimoire-emils-magic-training-part-4.json](./357389-logiart-grimoire-emils-magic-training-part-4.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 5 | 357390 | [357390-logiart-grimoire-emils-magic-training-part-5.json](./357390-logiart-grimoire-emils-magic-training-part-5.json) |
 | Logic | 264784 | [264784-logic.json](./264784-logic.json) |
