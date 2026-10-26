@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
 | Rage Against the Zombies | 30490 | [30490-rage-against-the-zombies.json](./30490-rage-against-the-zombies.json) |
+| Rage Bait | 379399 | [379399-rage-bait.json](./379399-rage-bait.json) |
 | Rage Boy | 110076 | [110076-rage-boy.json](./110076-rage-boy.json) |
 | Rage Chicken 2 | 180998 | [180998-rage-chicken-2.json](./180998-rage-chicken-2.json) |
 | Rage Disco | 75218 | [75218-rage-disco.json](./75218-rage-disco.json) |
