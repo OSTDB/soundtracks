@@ -10705,6 +10705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Dimensions | 132820 | [132820-arcane-dimensions.json](./132820-arcane-dimensions.json) |
 | Arcane Domains | 114380 | [114380-arcane-domains.json](./114380-arcane-domains.json) |
 | Arcane Drifter | 324301 | [324301-arcane-drifter.json](./324301-arcane-drifter.json) |
+| Arcane Duel | 370163 | [370163-arcane-duel.json](./370163-arcane-duel.json) |
 | Arcane Eats | 348268 | [348268-arcane-eats.json](./348268-arcane-eats.json) |
 | Arcane Eyes | 156982 | [156982-arcane-eyes.json](./156982-arcane-eyes.json) |
 | Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
@@ -12621,6 +12622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin Girls | 286746 | [286746-assassin-girls.json](./286746-assassin-girls.json) |
 | Assassin In the City | 181767 | [181767-assassin-in-the-city.json](./181767-assassin-in-the-city.json) |
 | Assassin Of Dombardos | 406159 | [406159-assassin-of-dombardos.json](./406159-assassin-of-dombardos.json) |
+| Assassin of Goblin | 370159 | [370159-assassin-of-goblin.json](./370159-assassin-of-goblin.json) |
 | Assassin of Monsters | 370186 | [370186-assassin-of-monsters.json](./370186-assassin-of-monsters.json) |
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
 | Assassin Of Spider | 384680 | [384680-assassin-of-spider.json](./384680-assassin-of-spider.json) |
