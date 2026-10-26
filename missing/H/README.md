@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven and Earth | 51421 | [51421-heaven-and-earth.json](./51421-heaven-and-earth.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
 | Heaven Bound | 209866 | [209866-heaven-bound.json](./209866-heaven-bound.json) |
+| Heaven Does Not Respond | 373598 | [373598-heaven-does-not-respond.json](./373598-heaven-does-not-respond.json) |
 | Heaven Dust 2 | 153344 | [153344-heaven-dust-2.json](./153344-heaven-dust-2.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
@@ -3895,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Helpless Zombies | 96938 | [96938-helpless-zombies.json](./96938-helpless-zombies.json) |
+| Helrift | 373498 | [373498-helrift.json](./373498-helrift.json) |
 | Helsing's Fire | 66492 | [66492-helsings-fire.json](./66492-helsings-fire.json) |
 | Helsingfors | 79559 | [79559-helsingfors.json](./79559-helsingfors.json) |
 | Helter Skelter | 69490 | [69490-helter-skelter.json](./69490-helter-skelter.json) |
