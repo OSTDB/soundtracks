@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Taco Diablo | 115127 | [115127-el-taco-diablo.json](./115127-el-taco-diablo.json) |
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
 | El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
+| El Virus | 345396 | [345396-el-virus.json](./345396-el-virus.json) |
 | El-Fish | 72089 | [72089-el-fish.json](./72089-el-fish.json) |
 | El-Silbon | 391659 | [391659-el-silbon.json](./391659-el-silbon.json) |
 | Elaborate Lands | 188584 | [188584-elaborate-lands.json](./188584-elaborate-lands.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Maze | 181005 | [181005-epic-maze.json](./181005-epic-maze.json) |
 | Epic Meal Time | 64751 | [64751-epic-meal-time.json](./64751-epic-meal-time.json) |
 | Epic Mickey | 1509 | [1509-epic-mickey.json](./1509-epic-mickey.json) |
+| Epic Mickey Awesome Edition | 345246 | [345246-epic-mickey-awesome-edition.json](./345246-epic-mickey-awesome-edition.json) |
 | Epic Mickey: Power of Illusion | 6765 | [6765-epic-mickey-power-of-illusion.json](./6765-epic-mickey-power-of-illusion.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
 | Epic Monster Quest | 271635 | [271635-epic-monster-quest.json](./271635-epic-monster-quest.json) |
@@ -4429,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Tung Tung Sahur | 342485 | [342485-escape-from-tung-tung-sahur.json](./342485-escape-from-tung-tung-sahur.json) |
 | Escape From Twump Tower | 179492 | [179492-escape-from-twump-tower.json](./179492-escape-from-twump-tower.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
+| Escape From Vampire Castle: Miss Luna's Diary | 345397 | [345397-escape-from-vampire-castle-miss-lunas-diary.json](./345397-escape-from-vampire-castle-miss-lunas-diary.json) |
 | Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
 | Escape from Voyna: Aliens from Area 51 | 130191 | [130191-escape-from-voyna-aliens-from-area-51.json](./130191-escape-from-voyna-aliens-from-area-51.json) |
 | Escape From Voyna: Dead Forest | 113754 | [113754-escape-from-voyna-dead-forest.json](./113754-escape-from-voyna-dead-forest.json) |
