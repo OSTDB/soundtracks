@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Talk Until You Dead | 151488 | [151488-keep-talk-until-you-dead.json](./151488-keep-talk-until-you-dead.json) |
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
 | Keep the Balance | 50038 | [50038-keep-the-balance.json](./50038-keep-the-balance.json) |
+| Keep the Beat | 359325 | [359325-keep-the-beat.json](./359325-keep-the-beat.json) |
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
 | Keep The Fire: Survival Simulator | 276127 | [276127-keep-the-fire-survival-simulator.json](./276127-keep-the-fire-survival-simulator.json) |
 | Keep the Heroes Out | 276656 | [276656-keep-the-heroes-out.json](./276656-keep-the-heroes-out.json) |
@@ -2337,7 +2338,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kundara: Art of Cards | 381311 | [381311-kundara-art-of-cards.json](./381311-kundara-art-of-cards.json) |
 | Kung Food | 12365 | [12365-kung-food.json](./12365-kung-food.json) |
 | Kung Fu | 214458 | [214458-kung-fu.json](./214458-kung-fu.json) |
+| Kung Fu | 359300 | [359300-kung-fu.json](./359300-kung-fu.json) |
 | Kung Fu Addiction | 381316 | [381316-kung-fu-addiction.json](./381316-kung-fu-addiction.json) |
 | Kung Fu All-Star VR | 55727 | [55727-kung-fu-all-star-vr.json](./55727-kung-fu-all-star-vr.json) |
 | Kung Fu Chaos | 5898 | [5898-kung-fu-chaos.json](./5898-kung-fu-chaos.json) |
