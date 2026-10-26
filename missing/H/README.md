@@ -2603,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadOn! | 93729 | [93729-headon.json](./93729-headon.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
 | Headpunk: The Comic-Style Battle Chaos | 192699 | [192699-headpunk-the-comic-style-battle-chaos.json](./192699-headpunk-the-comic-style-battle-chaos.json) |
+| Headquarters: Cold War | 380988 | [380988-headquarters-cold-war.json](./380988-headquarters-cold-war.json) |
 | Headquarters: World War II - Ardennes | 324926 | [324926-headquarters-world-war-ii-ardennes.json](./324926-headquarters-world-war-ii-ardennes.json) |
 | Headquarters: World War II - Market Garden | 324932 | [324932-headquarters-world-war-ii-market-garden.json](./324932-headquarters-world-war-ii-market-garden.json) |
 | Headroom | 364690 | [364690-headroom.json](./364690-headroom.json) |
@@ -3130,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heidentum | 116755 | [116755-heidentum.json](./116755-heidentum.json) |
 | Heidi: The Game | 49479 | [49479-heidi-the-game.json](./49479-heidi-the-game.json) |
 | Heidi's Legacy: Mountains Calling | 347825 | [347825-heidis-legacy-mountains-calling.json](./347825-heidis-legacy-mountains-calling.json) |
+| Height | 380987 | [380987-height.json](./380987-height.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
 | Heileen 2: The Hands Of Fate | 17507 | [17507-heileen-2-the-hands-of-fate.json](./17507-heileen-2-the-hands-of-fate.json) |
 | Heileen 3: New Horizons | 36280 | [36280-heileen-3-new-horizons.json](./36280-heileen-3-new-horizons.json) |
@@ -6158,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hieroglyphika | 21907 | [21907-hieroglyphika.json](./21907-hieroglyphika.json) |
 | Hieronymus | 263189 | [263189-hieronymus.json](./263189-hieronymus.json) |
 | Hieronymus Bash | 68546 | [68546-hieronymus-bash.json](./68546-hieronymus-bash.json) |
+| Hierosaga Overture | 381090 | [381090-hierosaga-overture.json](./381090-hierosaga-overture.json) |
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | Hifuu Fragment | 161330 | [161330-hifuu-fragment.json](./161330-hifuu-fragment.json) |
 | Hifuu Nightmare Diary: Violet Detector. | 107253 | [107253-hifuu-nightmare-diary-violet-detector.json](./107253-hifuu-nightmare-diary-violet-detector.json) |
@@ -7274,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
 | Holiday Eye Spy 2 | 391337 | [391337-holiday-eye-spy-2.json](./391337-holiday-eye-spy-2.json) |
 | Holiday Flight Simulator | 32112 | [32112-holiday-flight-simulator.json](./32112-holiday-flight-simulator.json) |
+| Holiday Harry | 381069 | [381069-holiday-harry.json](./381069-holiday-harry.json) |
 | Holiday Haywire | 236233 | [236233-holiday-haywire.json](./236233-holiday-haywire.json) |
 | Holiday Hex | 225789 | [225789-holiday-hex.json](./225789-holiday-hex.json) |
 | Holiday Hits | 279774 | [279774-holiday-hits.json](./279774-holiday-hits.json) |
@@ -9655,6 +9659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanities Legend: Hollow Ascending | 183868 | [183868-humanities-legend-hollow-ascending.json](./183868-humanities-legend-hollow-ascending.json) |
 | Humanity | 350180 | [350180-humanity.json](./350180-humanity.json) |
 | Humanity Asset | 8952 | [8952-humanity-asset.json](./8952-humanity-asset.json) |
+| Humanity Echo: Cyberpunk Tactical RPG | 381059 | [381059-humanity-echo-cyberpunk-tactical-rpg.json](./381059-humanity-echo-cyberpunk-tactical-rpg.json) |
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
 | Humanity Must Perish | 68323 | [68323-humanity-must-perish.json](./68323-humanity-must-perish.json) |
