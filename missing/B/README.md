@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang For Your Truck | 133137 | [133137-bang-for-your-truck.json](./133137-bang-for-your-truck.json) |
 | Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
 | Bang! | 110037 | [110037-bang.json](./110037-bang.json) |
+| Bang! Bang! Bandits | 376493 | [376493-bang-bang-bandits.json](./376493-bang-bang-bandits.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | Bang! Howdy | 51472 | [51472-bang-howdy.json](./51472-bang-howdy.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
@@ -2288,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
 | Barnstorming | 18032 | [18032-barnstorming.json](./18032-barnstorming.json) |
 | Barnstorming | 234093 | [234093-barnstorming.json](./234093-barnstorming.json) |
+| Barnville Massacre | 376516 | [376516-barnville-massacre.json](./376516-barnville-massacre.json) |
 | Barnyard | 242988 | [242988-barnyard.json](./242988-barnyard.json) |
 | Barnyard Blast: Swine of the Night | 47917 | [47917-barnyard-blast-swine-of-the-night.json](./47917-barnyard-blast-swine-of-the-night.json) |
 | Barnyard Blaster | 11866 | [11866-barnyard-blaster.json](./11866-barnyard-blaster.json) |
@@ -4126,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Adventures 2 | 190388 | [190388-bear-adventures-2.json](./190388-bear-adventures-2.json) |
 | Bear Bovver | 13812 | [13812-bear-bovver.json](./13812-bear-bovver.json) |
 | Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
+| Bear Brigade: Ocean Attack! | 376510 | [376510-bear-brigade-ocean-attack.json](./376510-bear-brigade-ocean-attack.json) |
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
 | Bear Football | 93598 | [93598-bear-football.json](./93598-bear-football.json) |
 | Bear Haven Nights | 33743 | [33743-bear-haven-nights.json](./33743-bear-haven-nights.json) |
@@ -5002,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beglov Style | 129060 | [129060-beglov-style.json](./129060-beglov-style.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
 | BeGone: WarLand 2 | 101925 | [101925-begone-warland-2.json](./101925-begone-warland-2.json) |
+| Begraved | 376487 | [376487-begraved.json](./376487-begraved.json) |
 | Beguile | 373876 | [373876-beguile.json](./373876-beguile.json) |
 | Behemoth | 274122 | [274122-behemoth.json](./274122-behemoth.json) |
 | Behemoth | 320724 | [320724-behemoth.json](./320724-behemoth.json) |
@@ -5687,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Two Cities | 164762 | [164762-between-two-cities.json](./164762-between-two-cities.json) |
 | Between Two Stars | 196672 | [196672-between-two-stars.json](./196672-between-two-stars.json) |
 | Between Two Worlds | 352826 | [352826-between-two-worlds.json](./352826-between-two-worlds.json) |
+| Between Us | 376528 | [376528-between-us.json](./376528-between-us.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
 | Between: Stardust Trail | 257554 | [257554-between-stardust-trail.json](./257554-between-stardust-trail.json) |
 | Betweenle | 356579 | [356579-betweenle.json](./356579-betweenle.json) |
@@ -10926,6 +10931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Fu: Just Desserts DLC | 305614 | [305614-boomerang-fu-just-desserts-dlc.json](./305614-boomerang-fu-just-desserts-dlc.json) |
 | Boomerang Jack | 244617 | [244617-boomerang-jack.json](./244617-boomerang-jack.json) |
 | Boomerang Kid | 152003 | [152003-boomerang-kid.json](./152003-boomerang-kid.json) |
+| Boomerang Memory Tooner | 376517 | [376517-boomerang-memory-tooner.json](./376517-boomerang-memory-tooner.json) |
 | Boomerang Of Destruction | 325882 | [325882-boomerang-of-destruction.json](./325882-boomerang-of-destruction.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
