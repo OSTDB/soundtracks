@@ -799,7 +799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2215,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barf and Beer | 92615 | [92615-barf-and-beer.json](./92615-barf-and-beer.json) |
 | Barf Royale | 401510 | [401510-barf-royale.json](./401510-barf-royale.json) |
 | Barfbot | 374767 | [374767-barfbot.json](./374767-barfbot.json) |
+| Barfender | 381657 | [381657-barfender.json](./381657-barfender.json) |
 | Barfy's Adventure | 413718 | [413718-barfys-adventure.json](./413718-barfys-adventure.json) |
 | Bargain Basement | 293251 | [293251-bargain-basement.json](./293251-bargain-basement.json) |
 | Bargain Blocz | 235745 | [235745-bargain-blocz.json](./235745-bargain-blocz.json) |
@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basilisk | 266975 | [266975-basilisk.json](./266975-basilisk.json) |
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
+| Basilisk's Isles | 381663 | [381663-basilisks-isles.json](./381663-basilisks-isles.json) |
 | Basingstoke | 77535 | [77535-basingstoke.json](./77535-basingstoke.json) |
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
 | Baskelian | 175120 | [175120-baskelian.json](./175120-baskelian.json) |
@@ -4042,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beachfront | 334227 | [334227-beachfront.json](./334227-beachfront.json) |
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
 | BeachHead 2020 | 173198 | [173198-beachhead-2020.json](./173198-beachhead-2020.json) |
+| BeachHead: Gold Edition | 381589 | [381589-beachhead-gold-edition.json](./381589-beachhead-gold-edition.json) |
 | BeachRun | 200929 | [200929-beachrun.json](./200929-beachrun.json) |
 | Beachside Bites: Sip & Munch | 257784 | [257784-beachside-bites-sip-and-munch.json](./257784-beachside-bites-sip-and-munch.json) |
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
