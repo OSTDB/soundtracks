@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Vira | 244118 | [244118-vira.json](./244118-vira.json) |
 | Vira!!! | 389461 | [389461-vira.json](./389461-vira.json) |
+| Viractal: Will You Trust Your Party? | 341985 | [341985-viractal-will-you-trust-your-party.json](./341985-viractal-will-you-trust-your-party.json) |
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
 | Virago: Herstory | 226184 | [226184-virago-herstory.json](./226184-virago-herstory.json) |
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
