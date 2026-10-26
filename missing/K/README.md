@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider City Wars | 68105 | [68105-kamen-rider-city-wars.json](./68105-kamen-rider-city-wars.json) |
 | Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
 | Kamen Rider Decade | 321523 | [321523-kamen-rider-decade.json](./321523-kamen-rider-decade.json) |
+| Kamen Rider Defense Warriors | 350477 | [350477-kamen-rider-defense-warriors.json](./350477-kamen-rider-defense-warriors.json) |
 | Kamen Rider Ex-Aid x Chariso | 203125 | [203125-kamen-rider-ex-aid-x-chariso.json](./203125-kamen-rider-ex-aid-x-chariso.json) |
 | Kamen Rider Ghost: Game de Kaigan!! | 59464 | [59464-kamen-rider-ghost-game-de-kaigan.json](./59464-kamen-rider-ghost-game-de-kaigan.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
@@ -1673,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Kapers | 198792 | [198792-keystone-kapers.json](./198792-keystone-kapers.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
 | Keystone Titans VR | 249074 | [249074-keystone-titans-vr.json](./249074-keystone-titans-vr.json) |
+| Keytron | 350480 | [350480-keytron.json](./350480-keytron.json) |
 | keyWars | 96848 | [96848-keywars.json](./96848-keywars.json) |
 | Keyword 2: Nightfall | 276657 | [276657-keyword-2-nightfall.json](./276657-keyword-2-nightfall.json) |
 | Keyword: A Spider's Thread | 162077 | [162077-keyword-a-spiders-thread.json](./162077-keyword-a-spiders-thread.json) |
@@ -2340,7 +2342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
