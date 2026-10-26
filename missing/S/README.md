@@ -6495,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She's Still Alive | 375613 | [375613-shes-still-alive.json](./375613-shes-still-alive.json) |
 | She'sn | 267583 | [267583-shesn.json](./267583-shesn.json) |
 | Sheaf - Together EP | 120769 | [120769-sheaf-together-ep.json](./120769-sheaf-together-ep.json) |
+| Shear Abnormality | 338113 | [338113-shear-abnormality.json](./338113-shear-abnormality.json) |
 | Shear Madness | 401921 | [401921-shear-madness.json](./401921-shear-madness.json) |
 | Sheared | 62585 | [62585-sheared.json](./62585-sheared.json) |
 | Sheba: A New Dawn | 206424 | [206424-sheba-a-new-dawn.json](./206424-sheba-a-new-dawn.json) |
@@ -12337,6 +12338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snails | 35694 | [35694-snails.json](./35694-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snailshell | 386352 | [386352-snailshell.json](./386352-snailshell.json) |
+| SnailShock Grand Supreme Tournament | 338413 | [338413-snailshock-grand-supreme-tournament.json](./338413-snailshock-grand-supreme-tournament.json) |
 | Snaip of Doomsday | 412902 | [412902-snaip-of-doomsday.json](./412902-snaip-of-doomsday.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
 | Snake | 125831 | [125831-snake.json](./125831-snake.json) |
@@ -14061,6 +14063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
 | Some Birds Help You Escape a Diner | 183225 | [183225-some-birds-help-you-escape-a-diner.json](./183225-some-birds-help-you-escape-a-diner.json) |
+| Some Bullshit | 338116 | [338116-some-bullshit.json](./338116-some-bullshit.json) |
 | Some Distant Memory | 121952 | [121952-some-distant-memory.json](./121952-some-distant-memory.json) |
 | Some Goodbyes We Made | 279465 | [279465-some-goodbyes-we-made.json](./279465-some-goodbyes-we-made.json) |
 | Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
@@ -21344,6 +21347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starseed | 150998 | [150998-starseed.json](./150998-starseed.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starseeker | 107608 | [107608-starseeker.json](./107608-starseeker.json) |
+| Starseeker: Astroneer Expeditions | 338089 | [338089-starseeker-astroneer-expeditions.json](./338089-starseeker-astroneer-expeditions.json) |
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
 | Starshard Brigands | 401860 | [401860-starshard-brigands.json](./401860-starshard-brigands.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
@@ -23460,6 +23464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Year 3 Character Pass | 347670 | [347670-street-fighter-6-year-3-character-pass.json](./347670-street-fighter-6-year-3-character-pass.json) |
 | Street Fighter 6: Year 3 Ultimate Pass | 356813 | [356813-street-fighter-6-year-3-ultimate-pass.json](./356813-street-fighter-6-year-3-ultimate-pass.json) |
 | Street Fighter 6: Years 1-2 - Fighters Edition | 338081 | [338081-street-fighter-6-years-1-2-fighters-edition.json](./338081-street-fighter-6-years-1-2-fighters-edition.json) |
+| Street Fighter 6: Years 1-2 - Fighters Edition | 338112 | [338112-street-fighter-6-years-1-2-fighters-edition.json](./338112-street-fighter-6-years-1-2-fighters-edition.json) |
 | Street Fighter Alpha 2 | 243451 | [243451-street-fighter-alpha-2.json](./243451-street-fighter-alpha-2.json) |
 | Street Fighter Alpha 2 | 6703 | [6703-street-fighter-alpha-2.json](./6703-street-fighter-alpha-2.json) |
 | Street Fighter Alpha 3 | 242650 | [242650-street-fighter-alpha-3.json](./242650-street-fighter-alpha-3.json) |
