@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey From Darkness: Strider Returns | 72621 | [72621-journey-from-darkness-strider-returns.json](./72621-journey-from-darkness-strider-returns.json) |
 | Journey Home | 229528 | [229528-journey-home.json](./229528-journey-home.json) |
 | Journey Into Darkness | 243122 | [243122-journey-into-darkness.json](./243122-journey-into-darkness.json) |
+| Journey into the Brain | 370726 | [370726-journey-into-the-brain.json](./370726-journey-into-the-brain.json) |
 | Journey North | 335377 | [335377-journey-north.json](./335377-journey-north.json) |
 | Journey of a Roach | 9000 | [9000-journey-of-a-roach.json](./9000-journey-of-a-roach.json) |
 | Journey of a Special Average Balloon | 19616 | [19616-journey-of-a-special-average-balloon.json](./19616-journey-of-a-special-average-balloon.json) |
