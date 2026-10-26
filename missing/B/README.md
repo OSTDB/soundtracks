@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Manors | 327772 | [327772-bad-manors.json](./327772-bad-manors.json) |
 | Bad Mechanic | 294297 | [294297-bad-mechanic.json](./294297-bad-mechanic.json) |
 | Bad Meme | 158036 | [158036-bad-meme.json](./158036-bad-meme.json) |
+| Bad Midwife | 334611 | [334611-bad-midwife.json](./334611-bad-midwife.json) |
 | Bad Milk | 69755 | [69755-bad-milk.json](./69755-bad-milk.json) |
 | Bad Mineral | 272246 | [272246-bad-mineral.json](./272246-bad-mineral.json) |
 | Bad Mojo | 604 | [604-bad-mojo.json](./604-bad-mojo.json) |
@@ -816,7 +817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
 | Beast Park | 281950 | [281950-beast-park.json](./281950-beast-park.json) |
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
+| Beast Saga | 334624 | [334624-beast-saga.json](./334624-beast-saga.json) |
 | Beast Saga Saikyou Gekiotsu Coliseum | 222442 | [222442-beast-saga-saikyou-gekiotsu-coliseum.json](./222442-beast-saga-saikyou-gekiotsu-coliseum.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
@@ -12451,6 +12452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
 | Brave | 229231 | [229231-brave.json](./229231-brave.json) |
 | Brave | 230341 | [230341-brave.json](./230341-brave.json) |
+| Brave | 334601 | [334601-brave.json](./334601-brave.json) |
 | Brave | 6926 | [6926-brave.json](./6926-brave.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
 | Brave and Desire | 272782 | [272782-brave-and-desire.json](./272782-brave-and-desire.json) |
@@ -14561,6 +14563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Run | 23539 | [23539-bullet-run.json](./23539-bullet-run.json) |
 | Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
 | Bullet Runner: The First Slaughter | 241948 | [241948-bullet-runner-the-first-slaughter.json](./241948-bullet-runner-the-first-slaughter.json) |
+| Bullet Shine | 334603 | [334603-bullet-shine.json](./334603-bullet-shine.json) |
 | Bullet Shot | 167525 | [167525-bullet-shot.json](./167525-bullet-shot.json) |
 | Bullet Sorceress: Shooting Action Carnage | 146865 | [146865-bullet-sorceress-shooting-action-carnage.json](./146865-bullet-sorceress-shooting-action-carnage.json) |
 | Bullet Sorrow VR | 28172 | [28172-bullet-sorrow-vr.json](./28172-bullet-sorrow-vr.json) |
