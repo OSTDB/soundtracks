@@ -7360,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Thorns | 25959 | [25959-among-thorns.json](./25959-among-thorns.json) |
 | Among Trees | 106279 | [106279-among-trees.json](./106279-among-trees.json) |
 | Among Us | 230236 | [230236-among-us.json](./230236-among-us.json) |
+| Among Us | 353925 | [353925-among-us.json](./353925-among-us.json) |
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
 | Among Us 3D: VR - The Tracker | 377655 | [377655-among-us-3d-vr-the-tracker.json](./377655-among-us-3d-vr-the-tracker.json) |
 | Among Us Arena: Ultimate | 216295 | [216295-among-us-arena-ultimate.json](./216295-among-us-arena-ultimate.json) |
@@ -15095,6 +15096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awrak | 348589 | [348589-awrak.json](./348589-awrak.json) |
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | Awsome Metal Detecting | 74730 | [74730-awsome-metal-detecting.json](./74730-awsome-metal-detecting.json) |
+| Awurda First Wave | 353759 | [353759-awurda-first-wave.json](./353759-awurda-first-wave.json) |
 | Ax Battler: A Legend of Golden Axe | 19485 | [19485-ax-battler-a-legend-of-golden-axe.json](./19485-ax-battler-a-legend-of-golden-axe.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
