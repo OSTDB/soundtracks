@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Multiplayer 2 | 245213 | [245213-car-parking-multiplayer-2.json](./245213-car-parking-multiplayer-2.json) |
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
+| Car Parking: Garage Simulator | 340835 | [340835-car-parking-garage-simulator.json](./340835-car-parking-garage-simulator.json) |
 | Car Parking: New Cars | 226296 | [226296-car-parking-new-cars.json](./226296-car-parking-new-cars.json) |
 | Car Parkour | 246867 | [246867-car-parkour.json](./246867-car-parkour.json) |
 | Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
@@ -3604,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha | 327398 | [327398-catcha.json](./327398-catcha.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
+| CatchaDiablos | 340850 | [340850-catchadiablos.json](./340850-catchadiablos.json) |
 | Catchee | 197694 | [197694-catchee.json](./197694-catchee.json) |
 | Catching | 117654 | [117654-catching.json](./117654-catching.json) |
 | Catching a Ride | 173057 | [173057-catching-a-ride.json](./173057-catching-a-ride.json) |
@@ -4802,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chance | 387323 | [387323-chance.json](./387323-chance.json) |
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
+| Chance's Lucky Escape | 340854 | [340854-chances-lucky-escape.json](./340854-chances-lucky-escape.json) |
 | Chance's Lucky Escape 2 | 417426 | [417426-chances-lucky-escape-2.json](./417426-chances-lucky-escape-2.json) |
 | Chandragupta: Warrior Prince | 58573 | [58573-chandragupta-warrior-prince.json](./58573-chandragupta-warrior-prince.json) |
 | Chandrayaan VR | 149213 | [149213-chandrayaan-vr.json](./149213-chandrayaan-vr.json) |
@@ -10065,6 +10068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
+| Colorful Boi 2 | 340831 | [340831-colorful-boi-2.json](./340831-colorful-boi-2.json) |
 | Colorful Colore | 147609 | [147609-colorful-colore.json](./147609-colorful-colore.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
 | Colorful Ghost | 311165 | [311165-colorful-ghost.json](./311165-colorful-ghost.json) |
@@ -13787,6 +13791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Castle | 23564 | [23564-crazy-castle.json](./23564-crazy-castle.json) |
 | Crazy Castle | 280145 | [280145-crazy-castle.json](./280145-crazy-castle.json) |
 | Crazy Catman | 37043 | [37043-crazy-catman.json](./37043-crazy-catman.json) |
+| Crazy Cats vs. Crazy Cyborgs | 340836 | [340836-crazy-cats-vs-crazy-cyborgs.json](./340836-crazy-cats-vs-crazy-cyborgs.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Caveman | 41016 | [41016-crazy-caveman.json](./41016-crazy-caveman.json) |
 | Crazy Chain: Elpis no Kusari | 392427 | [392427-crazy-chain-elpis-no-kusari.json](./392427-crazy-chain-elpis-no-kusari.json) |
