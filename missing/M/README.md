@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Creator | 163788 | [163788-magical-girl-creator.json](./163788-magical-girl-creator.json) |
 | Magical Girl Critical | 130605 | [130605-magical-girl-critical.json](./130605-magical-girl-critical.json) |
 | Magical Girl Critical Deluxe | 339978 | [339978-magical-girl-critical-deluxe.json](./339978-magical-girl-critical-deluxe.json) |
+| Magical Girl Dash 2: Triple Prisma Attack | 350912 | [350912-magical-girl-dash-2-triple-prisma-attack.json](./350912-magical-girl-dash-2-triple-prisma-attack.json) |
 | Magical Girl ER | 410041 | [410041-magical-girl-er.json](./410041-magical-girl-er.json) |
 | Magical Girl Fist Fight | 353812 | [353812-magical-girl-fist-fight.json](./353812-magical-girl-fist-fight.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
@@ -9428,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Resistance | 4401 | [4401-midnight-resistance.json](./4401-midnight-resistance.json) |
 | Midnight Rhapsody | 224967 | [224967-midnight-rhapsody.json](./224967-midnight-rhapsody.json) |
+| Midnight Riff | 350888 | [350888-midnight-riff.json](./350888-midnight-riff.json) |
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
 | Midnight Runner: Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition | 231258 | [231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json](./231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json) |
 | Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
@@ -17382,6 +17384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Lovely Empress | 266612 | [266612-my-lovely-empress.json](./266612-my-lovely-empress.json) |
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
+| My Lovely Family Deluxe Bundle | 350906 | [350906-my-lovely-family-deluxe-bundle.json](./350906-my-lovely-family-deluxe-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Girls | 382492 | [382492-my-lovely-girls.json](./382492-my-lovely-girls.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
