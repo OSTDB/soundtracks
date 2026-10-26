@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
 | Advent Rising | 5716 | [5716-advent-rising.json](./5716-advent-rising.json) |
 | Advent Shadow | 92698 | [92698-advent-shadow.json](./92698-advent-shadow.json) |
+| Advent: Dawn | 354477 | [354477-advent-dawn.json](./354477-advent-dawn.json) |
 | Advent/Archive | 352363 | [352363-advent-archive.json](./352363-advent-archive.json) |
 | Adventopia | 355216 | [355216-adventopia.json](./355216-adventopia.json) |
 | Adventsquiz | 72266 | [72266-adventsquiz.json](./72266-adventsquiz.json) |
