@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Days | 63740 | [63740-end-of-days.json](./63740-end-of-days.json) |
 | End of Despair | 199354 | [199354-end-of-despair.json](./199354-end-of-despair.json) |
+| End of Eden | 379854 | [379854-end-of-eden.json](./379854-end-of-eden.json) |
 | End of Edge | 257384 | [257384-end-of-edge.json](./257384-end-of-edge.json) |
 | End of End | 394122 | [394122-end-of-end.json](./394122-end-of-end.json) |
 | End of Everything | 387153 | [387153-end-of-everything.json](./387153-end-of-everything.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Survivors | 219252 | [219252-epic-survivors.json](./219252-epic-survivors.json) |
 | Epic Survivors | 339084 | [339084-epic-survivors.json](./339084-epic-survivors.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
+| Epic Transport | 379913 | [379913-epic-transport.json](./379913-epic-transport.json) |
 | Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
 | Epic Vampire | 307721 | [307721-epic-vampire.json](./307721-epic-vampire.json) |
 | Epic Walk | 324881 | [324881-epic-walk.json](./324881-epic-walk.json) |
@@ -5586,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everhaven | 311063 | [311063-everhaven.json](./311063-everhaven.json) |
 | EverHero: Wings of the Ever Hero | 125299 | [125299-everhero-wings-of-the-ever-hero.json](./125299-everhero-wings-of-the-ever-hero.json) |
 | Everhold | 413879 | [413879-everhold.json](./413879-everhold.json) |
+| Everhome | 379932 | [379932-everhome.json](./379932-everhome.json) |
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
 | Everhood 2 | 253100 | [253100-everhood-2.json](./253100-everhood-2.json) |
 | Everhood Hunters | 393729 | [393729-everhood-hunters.json](./393729-everhood-hunters.json) |
