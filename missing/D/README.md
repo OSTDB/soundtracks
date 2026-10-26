@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.M.D Ping Pong Game | 199791 | [199791-d-m-d-ping-pong-game.json](./199791-d-m-d-ping-pong-game.json) |
 | D.M.T | 135004 | [135004-d-m-t.json](./135004-d-m-t.json) |
 | D.N. Angel: Crimson Wings | 67374 | [67374-d-n-angel-crimson-wings.json](./67374-d-n-angel-crimson-wings.json) |
+| D.N.A: Do Not Answer | 338095 | [338095-d-n-a-do-not-answer.json](./338095-d-n-a-do-not-answer.json) |
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
 | D.N.A.: Dark Native Apostle | 56134 | [56134-d-n-a-dark-native-apostle.json](./56134-d-n-a-dark-native-apostle.json) |
 | D.N.Age | 32179 | [32179-d-n-age.json](./32179-d-n-age.json) |
@@ -2053,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash x Survivors | 266276 | [266276-dash-x-survivors.json](./266276-dash-x-survivors.json) |
 | Dash x Survivors | 296211 | [296211-dash-x-survivors.json](./296211-dash-x-survivors.json) |
 | Dash-da-dash DX | 183844 | [183844-dash-da-dash-dx.json](./183844-dash-da-dash-dx.json) |
+| Dash-Da-Dash DX2: Devil Destroyer | 338136 | [338136-dash-da-dash-dx2-devil-destroyer.json](./338136-dash-da-dash-dx2-devil-destroyer.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | Dashball | 135644 | [135644-dashball.json](./135644-dashball.json) |
@@ -2408,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daxter | 305477 | [305477-daxter.json](./305477-daxter.json) |
 | Day 10,909 | 264247 | [264247-day-10-909.json](./264247-day-10-909.json) |
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
+| Day 178 | 338142 | [338142-day-178.json](./338142-day-178.json) |
 | Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
 | Day After Day | 342181 | [342181-day-after-day.json](./342181-day-after-day.json) |
 | Day and Knight | 137953 | [137953-day-and-knight.json](./137953-day-and-knight.json) |
@@ -2860,6 +2863,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: The Story of Yamaoka Family | 136714 | [136714-dead-by-daylight-the-story-of-yamaoka-family.json](./136714-dead-by-daylight-the-story-of-yamaoka-family.json) |
 | Dead by Daylight: The Walking Dead | 358407 | [358407-dead-by-daylight-the-walking-dead.json](./358407-dead-by-daylight-the-walking-dead.json) |
 | Dead by Daylight: The Walking Dead - Daryl Dixon | 358409 | [358409-dead-by-daylight-the-walking-dead-daryl-dixon.json](./358409-dead-by-daylight-the-walking-dead-daryl-dixon.json) |
+| Dead by Daylight: Tokyo Ghoul | 338122 | [338122-dead-by-daylight-tokyo-ghoul.json](./338122-dead-by-daylight-tokyo-ghoul.json) |
+| Dead by Daylight: Tokyo Ghoul - Cosmetic Pack | 338124 | [338124-dead-by-daylight-tokyo-ghoul-cosmetic-pack.json](./338124-dead-by-daylight-tokyo-ghoul-cosmetic-pack.json) |
+| Dead by Daylight: Tokyo Ghoul Edition | 338127 | [338127-dead-by-daylight-tokyo-ghoul-edition.json](./338127-dead-by-daylight-tokyo-ghoul-edition.json) |
 | Dead by Daylight: Tools of Torment Chapter | 241319 | [241319-dead-by-daylight-tools-of-torment-chapter.json](./241319-dead-by-daylight-tools-of-torment-chapter.json) |
 | Dead by Death | 105024 | [105024-dead-by-death.json](./105024-dead-by-death.json) |
 | Dead By Murder | 74144 | [74144-dead-by-murder.json](./74144-dead-by-murder.json) |
@@ -3618,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Future | 144791 | [144791-dear-future.json](./144791-dear-future.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
+| Dear His Majesty | 338414 | [338414-dear-his-majesty.json](./338414-dear-his-majesty.json) |
 | Dear Home | 150542 | [150542-dear-home.json](./150542-dear-home.json) |
 | Dear Leader | 354239 | [354239-dear-leader.json](./354239-dear-leader.json) |
 | Dear Leader | 60442 | [60442-dear-leader.json](./60442-dear-leader.json) |
@@ -7631,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Yolei and Hawkmon | 198725 | [198725-digimon-yolei-and-hawkmon.json](./198725-digimon-yolei-and-hawkmon.json) |
 | Digimon: Battle Spirit | 6374 | [6374-digimon-battle-spirit.json](./6374-digimon-battle-spirit.json) |
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
+| Digimon: Quest to Save the Net | 338409 | [338409-digimon-quest-to-save-the-net.json](./338409-digimon-quest-to-save-the-net.json) |
 | Digiquad | 301500 | [301500-digiquad.json](./301500-digiquad.json) |
 | Digit & Dash | 60255 | [60255-digit-and-dash.json](./60255-digit-and-dash.json) |
 | Digit Dare | 266124 | [266124-digit-dare.json](./266124-digit-dare.json) |
@@ -8816,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Kim Possible 3: Team Possible | 49186 | [49186-disneys-kim-possible-3-team-possible.json](./49186-disneys-kim-possible-3-team-possible.json) |
 | Disney's Kim Possible: Kimmunicator | 47728 | [47728-disneys-kim-possible-kimmunicator.json](./47728-disneys-kim-possible-kimmunicator.json) |
 | Disney's Kim Possible: Revenge of Monkey Fist | 49275 | [49275-disneys-kim-possible-revenge-of-monkey-fist.json](./49275-disneys-kim-possible-revenge-of-monkey-fist.json) |
+| Disney's Kim Possible: Shopping Avenger | 338406 | [338406-disneys-kim-possible-shopping-avenger.json](./338406-disneys-kim-possible-shopping-avenger.json) |
 | Disney's Lilo & Stitch 2: Hämsterviel Havoc | 49261 | [49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json](./49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json) |
 | Disney's Lilo & Stitch: Hawaiian Adventure | 98558 | [98558-disneys-lilo-and-stitch-hawaiian-adventure.json](./98558-disneys-lilo-and-stitch-hawaiian-adventure.json) |
 | Disney's Little Einsteins | 49190 | [49190-disneys-little-einsteins.json](./49190-disneys-little-einsteins.json) |
@@ -14704,6 +14713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Corp. | 214943 | [214943-duel-corp.json](./214943-duel-corp.json) |
 | Duel de Base Stat | 403780 | [403780-duel-de-base-stat.json](./403780-duel-de-base-stat.json) |
 | Duel Draw: Katana Clash | 397862 | [397862-duel-draw-katana-clash.json](./397862-duel-draw-katana-clash.json) |
+| Duel Hell Purgatory | 338099 | [338099-duel-hell-purgatory.json](./338099-duel-hell-purgatory.json) |
 | Duel Heroes | 249337 | [249337-duel-heroes.json](./249337-duel-heroes.json) |
 | Duel Jousting | 75770 | [75770-duel-jousting.json](./75770-duel-jousting.json) |
 | Duel Jousting VR | 200515 | [200515-duel-jousting-vr.json](./200515-duel-jousting-vr.json) |
