@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | Necrojacks | 160207 | [160207-necrojacks.json](./160207-necrojacks.json) |
 | Necroking | 291826 | [291826-necroking.json](./291826-necroking.json) |
+| NecroKitty | 370734 | [370734-necrokitty.json](./370734-necrokitty.json) |
 | Necrolance | 116929 | [116929-necrolance.json](./116929-necrolance.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
@@ -4755,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Escape | 45769 | [45769-no-escape.json](./45769-no-escape.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
+| No Exit | 370749 | [370749-no-exit.json](./370749-no-exit.json) |
 | No Exit | 374356 | [374356-no-exit.json](./374356-no-exit.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
