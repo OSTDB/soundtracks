@@ -4792,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Espire 1: VR Operative | 68569 | [68569-espire-1-vr-operative.json](./68569-espire-1-vr-operative.json) |
 | Espire 2 | 198228 | [198228-espire-2.json](./198228-espire-2.json) |
+| Espire: MR Missions | 377649 | [377649-espire-mr-missions.json](./377649-espire-mr-missions.json) |
 | Espitene | 368070 | [368070-espitene.json](./368070-espitene.json) |
 | ESPN Baseball 2K4 | 43249 | [43249-espn-baseball-2k4.json](./43249-espn-baseball-2k4.json) |
 | ESPN Baseball Tonight | 5380 | [5380-espn-baseball-tonight.json](./5380-espn-baseball-tonight.json) |
@@ -6876,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
 | Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
 | Eyes in the Dark | 198298 | [198298-eyes-in-the-dark.json](./198298-eyes-in-the-dark.json) |
+| Eyes In The Window | 377038 | [377038-eyes-in-the-window.json](./377038-eyes-in-the-window.json) |
 | Eyes Never Wake | 336500 | [336500-eyes-never-wake.json](./336500-eyes-never-wake.json) |
 | Eyes of Darkness | 201583 | [201583-eyes-of-darkness.json](./201583-eyes-of-darkness.json) |
 | Eyes of Fear | 116758 | [116758-eyes-of-fear.json](./116758-eyes-of-fear.json) |
