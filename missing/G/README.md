@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gairaldia 6 | 175297 | [175297-gairaldia-6.json](./175297-gairaldia-6.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
 | Gaist Crusher God | 84559 | [84559-gaist-crusher-god.json](./84559-gaist-crusher-god.json) |
+| Gake-ppuchi Reijou wa Mukiryoku Akuma de Otome wo Sutetai | 365727 | [365727-gake-ppuchi-reijou-wa-mukiryoku-akuma-de-otome-wo-sutetai.json](./365727-gake-ppuchi-reijou-wa-mukiryoku-akuma-de-otome-wo-sutetai.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
 | Gakken Mainichi no Drill DS: Mesaze! Miracle Shougaku 1-nensei | 269608 | [269608-gakken-mainichi-no-drill-ds-mesaze-miracle-shougaku-1-nensei.json](./269608-gakken-mainichi-no-drill-ds-mesaze-miracle-shougaku-1-nensei.json) |
 | Gakken Mu Henshuu-bu Kanshuu: Choujou Genshou Research File | 269607 | [269607-gakken-mu-henshuu-bu-kanshuu-choujou-genshou-research-file.json](./269607-gakken-mu-henshuu-bu-kanshuu-choujou-genshou-research-file.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | Galakzions | 14087 | [14087-galakzions.json](./14087-galakzions.json) |
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
+| Galatea | 365132 | [365132-galatea.json](./365132-galatea.json) |
 | Galatea | 85923 | [85923-galatea.json](./85923-galatea.json) |
 | Galatic Hero Agency: Mind Matters | 114741 | [114741-galatic-hero-agency-mind-matters.json](./114741-galatic-hero-agency-mind-matters.json) |
 | Galatic Management | 123898 | [123898-galatic-management.json](./123898-galatic-management.json) |
@@ -5471,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GolemRush | 105219 | [105219-golemrush.json](./105219-golemrush.json) |
 | Golems and Gnomes | 273802 | [273802-golems-and-gnomes.json](./273802-golems-and-gnomes.json) |
 | Golems TD | 164244 | [164244-golems-td.json](./164244-golems-td.json) |
+| Golemworks | 365728 | [365728-golemworks.json](./365728-golemworks.json) |
 | Golf | 131432 | [131432-golf.json](./131432-golf.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
 | Golf | 147820 | [147820-golf.json](./147820-golf.json) |
@@ -5732,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooCubelets: OCD | 33068 | [33068-goocubelets-ocd.json](./33068-goocubelets-ocd.json) |
 | GooCubelets: The Algoorithm | 33843 | [33843-goocubelets-the-algoorithm.json](./33843-goocubelets-the-algoorithm.json) |
 | GooCubelets: The Void | 31961 | [31961-goocubelets-the-void.json](./31961-goocubelets-the-void.json) |
+| Good | 365035 | [365035-good.json](./365035-good.json) |
 | Good & Bad Driver | 302106 | [302106-good-and-bad-driver.json](./302106-good-and-bad-driver.json) |
 | Good Bear | 219803 | [219803-good-bear.json](./219803-good-bear.json) |
 | Good Boy | 229329 | [229329-good-boy.json](./229329-good-boy.json) |
@@ -6855,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Shadows | 185450 | [185450-grave-shadows.json](./185450-grave-shadows.json) |
 | Grave Space | 312996 | [312996-grave-space.json](./312996-grave-space.json) |
 | Grave Spirit | 230215 | [230215-grave-spirit.json](./230215-grave-spirit.json) |
+| Grave Stakes | 365721 | [365721-grave-stakes.json](./365721-grave-stakes.json) |
 | Grave Tower | 126550 | [126550-grave-tower.json](./126550-grave-tower.json) |
 | Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
