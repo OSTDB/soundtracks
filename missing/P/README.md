@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact of Steel | 235724 | [235724-pact-of-steel.json](./235724-pact-of-steel.json) |
 | Pact of the Ancients | 212142 | [212142-pact-of-the-ancients.json](./212142-pact-of-the-ancients.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
+| Pact Warden | 348676 | [348676-pact-warden.json](./348676-pact-warden.json) |
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
 | Pact with a Demon EP01 | 378993 | [378993-pact-with-a-demon-ep01.json](./378993-pact-with-a-demon-ep01.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
@@ -838,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Palm Town | 273257 | [273257-palm-town.json](./273257-palm-town.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
+| Palmora | 348679 | [348679-palmora.json](./348679-palmora.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
 | Palmyra: Nessa no Umi to Binaru Senki | 194924 | [194924-palmyra-nessa-no-umi-to-binaru-senki.json](./194924-palmyra-nessa-no-umi-to-binaru-senki.json) |
@@ -2053,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Slide | 163748 | [163748-parking-slide.json](./163748-parking-slide.json) |
 | Parking Star 3D | 85330 | [85330-parking-star-3d.json](./85330-parking-star-3d.json) |
 | Parking Ticket Mayhem | 391221 | [391221-parking-ticket-mayhem.json](./391221-parking-ticket-mayhem.json) |
+| Parking Together! | 348674 | [348674-parking-together.json](./348674-parking-together.json) |
 | Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
 | Parking Tycoon 2: Business Simulator | 373728 | [373728-parking-tycoon-2-business-simulator.json](./373728-parking-tycoon-2-business-simulator.json) |
 | Parking Tycoon: Business Simulator | 257994 | [257994-parking-tycoon-business-simulator.json](./257994-parking-tycoon-business-simulator.json) |
@@ -14858,6 +14861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purr Pals | 5110 | [5110-purr-pals.json](./5110-purr-pals.json) |
 | Purr Pals Purrfection | 209375 | [209375-purr-pals-purrfection.json](./209375-purr-pals-purrfection.json) |
 | Purr-fect Chef: Cats Can Cook | 391993 | [391993-purr-fect-chef-cats-can-cook.json](./391993-purr-fect-chef-cats-can-cook.json) |
+| Purr-suit of Happiness | 348686 | [348686-purr-suit-of-happiness.json](./348686-purr-suit-of-happiness.json) |
 | Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
 | Purrate Adventure: Volcano Isle | 200382 | [200382-purrate-adventure-volcano-isle.json](./200382-purrate-adventure-volcano-isle.json) |
 | Purrates | 353799 | [353799-purrates.json](./353799-purrates.json) |
