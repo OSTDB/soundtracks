@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
 | Passion Bay | 402148 | [402148-passion-bay.json](./402148-passion-bay.json) |
 | Passion Industry | 385690 | [385690-passion-industry.json](./385690-passion-industry.json) |
+| Passion Puzzle: Hentai Maidens! | 356527 | [356527-passion-puzzle-hentai-maidens.json](./356527-passion-puzzle-hentai-maidens.json) |
 | Passion Rift | 369776 | [369776-passion-rift.json](./369776-passion-rift.json) |
 | Passioners | 379534 | [379534-passioners.json](./379534-passioners.json) |
 | Passionstruck | 409840 | [409840-passionstruck.json](./409840-passionstruck.json) |
@@ -5193,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture the Difference! 2 | 362207 | [362207-picture-the-difference-2.json](./362207-picture-the-difference-2.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Picture Toys | 392894 | [392894-picture-toys.json](./392894-picture-toys.json) |
+| Picture Treasure Hunt | 356526 | [356526-picture-treasure-hunt.json](./356526-picture-treasure-hunt.json) |
 | PictureBook Games: The Royal Bluff | 77127 | [77127-picturebook-games-the-royal-bluff.json](./77127-picturebook-games-the-royal-bluff.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Pictures at an Exhibition | 409408 | [409408-pictures-at-an-exhibition.json](./409408-pictures-at-an-exhibition.json) |
@@ -6717,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
 | Pixel Game Maker Series: Chrotopia | 320460 | [320460-pixel-game-maker-series-chrotopia.json](./320460-pixel-game-maker-series-chrotopia.json) |
 | Pixel Game Maker Series: Clam Knight | 214686 | [214686-pixel-game-maker-series-clam-knight.json](./214686-pixel-game-maker-series-clam-knight.json) |
+| Pixel Game Maker Series: HacoPiyo | 356533 | [356533-pixel-game-maker-series-hacopiyo.json](./356533-pixel-game-maker-series-hacopiyo.json) |
 | Pixel Game Maker Series: Hunter of Devil | 284954 | [284954-pixel-game-maker-series-hunter-of-devil.json](./284954-pixel-game-maker-series-hunter-of-devil.json) |
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Game Maker Series: Jetman | 207891 | [207891-pixel-game-maker-series-jetman.json](./207891-pixel-game-maker-series-jetman.json) |
@@ -7295,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Orunex | 380669 | [380669-pixicharm-orunex.json](./380669-pixicharm-orunex.json) |
 | Pixicharm: Polar Outta Place | 370557 | [370557-pixicharm-polar-outta-place.json](./370557-pixicharm-polar-outta-place.json) |
 | Pixicharm: Ribbiverse | 375565 | [375565-pixicharm-ribbiverse.json](./375565-pixicharm-ribbiverse.json) |
+| Pixicharm: Sparkrina | 356509 | [356509-pixicharm-sparkrina.json](./356509-pixicharm-sparkrina.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
 | Pixicharm: Spikoin | 360546 | [360546-pixicharm-spikoin.json](./360546-pixicharm-spikoin.json) |
@@ -12669,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis Simulator | 12724 | [12724-pro-tennis-simulator.json](./12724-pro-tennis-simulator.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
+| Pro Virtual Racing | 356510 | [356510-pro-virtual-racing.json](./356510-pro-virtual-racing.json) |
 | Pro Wrestling | 18143 | [18143-pro-wrestling.json](./18143-pro-wrestling.json) |
 | Pro Wrestling | 9512 | [9512-pro-wrestling.json](./9512-pro-wrestling.json) |
 | Pro Wrestling Kentei DS | 66990 | [66990-pro-wrestling-kentei-ds.json](./66990-pro-wrestling-kentei-ds.json) |
