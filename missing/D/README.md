@@ -4940,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Wonder Wedding | 88825 | [88825-delicious-emilys-wonder-wedding.json](./88825-delicious-emilys-wonder-wedding.json) |
 | Delicious: Mansion Mystery | 304710 | [304710-delicious-mansion-mystery.json](./304710-delicious-mansion-mystery.json) |
 | Delicious: Recipe for Renewal | 417600 | [417600-delicious-recipe-for-renewal.json](./417600-delicious-recipe-for-renewal.json) |
+| Delicious: The First Course | 384555 | [384555-delicious-the-first-course.json](./384555-delicious-the-first-course.json) |
 | Delicious! Pretty Girls Mahjong Solitaire | 31053 | [31053-delicious-pretty-girls-mahjong-solitaire.json](./31053-delicious-pretty-girls-mahjong-solitaire.json) |
 | DeLight | 208101 | [208101-delight.json](./208101-delight.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
@@ -13342,6 +13343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamhouse: The Game | 156981 | [156981-dreamhouse-the-game.json](./156981-dreamhouse-the-game.json) |
 | Dreamhunter: The Prophecy | 419632 | [419632-dreamhunter-the-prophecy.json](./419632-dreamhunter-the-prophecy.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
+| Dreamill | 384604 | [384604-dreamill.json](./384604-dreamill.json) |
 | Dreamin' Cat | 276714 | [276714-dreamin-cat.json](./276714-dreamin-cat.json) |
 | Dreaminal | 270077 | [270077-dreaminal.json](./270077-dreaminal.json) |
 | Dreaming | 368552 | [368552-dreaming.json](./368552-dreaming.json) |
@@ -13575,6 +13577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift | 359723 | [359723-drift.json](./359723-drift.json) |
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
+| Drift 1969 | 384558 | [384558-drift-1969.json](./384558-drift-1969.json) |
 | Drift 4000 | 100352 | [100352-drift-4000.json](./100352-drift-4000.json) |
 | Drift 84 | 34980 | [34980-drift-84.json](./34980-drift-84.json) |
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
@@ -14195,6 +14198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
 | Drunken Fist Totally Accurate Beat 'em up | 124272 | [124272-drunken-fist-totally-accurate-beat-em-up.json](./124272-drunken-fist-totally-accurate-beat-em-up.json) |
 | Drunken Goddess Reflux | 399414 | [399414-drunken-goddess-reflux.json](./399414-drunken-goddess-reflux.json) |
+| Drunken Guy Adventure | 384563 | [384563-drunken-guy-adventure.json](./384563-drunken-guy-adventure.json) |
 | Drunken Hog | 385950 | [385950-drunken-hog.json](./385950-drunken-hog.json) |
 | Drunken Nuke'em | 199266 | [199266-drunken-nukeem.json](./199266-drunken-nukeem.json) |
 | Drunken Ravings | 183850 | [183850-drunken-ravings.json](./183850-drunken-ravings.json) |
