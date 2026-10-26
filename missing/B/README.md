@@ -5417,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Pyramids | 280883 | [280883-beneath-the-pyramids.json](./280883-beneath-the-pyramids.json) |
 | Beneath The Rooftop Sky | 337696 | [337696-beneath-the-rooftop-sky.json](./337696-beneath-the-rooftop-sky.json) |
 | Beneath the shadows | 178377 | [178377-beneath-the-shadows.json](./178377-beneath-the-shadows.json) |
+| Beneath The Six | 360474 | [360474-beneath-the-six.json](./360474-beneath-the-six.json) |
 | Beneath the Surface | 111630 | [111630-beneath-the-surface.json](./111630-beneath-the-surface.json) |
 | Beneath the Surface | 385401 | [385401-beneath-the-surface.json](./385401-beneath-the-surface.json) |
 | Beneath The Surface | 380012 | [380012-beneath-the-surface.json](./380012-beneath-the-surface.json) |
@@ -8218,6 +8219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master: Overdrive | 50995 | [50995-blaster-master-overdrive.json](./50995-blaster-master-overdrive.json) |
 | Blaster Master: Pimp your Ride | 216301 | [216301-blaster-master-pimp-your-ride.json](./216301-blaster-master-pimp-your-ride.json) |
 | Blaster Multiplayer | 284010 | [284010-blaster-multiplayer.json](./284010-blaster-multiplayer.json) |
+| Blaster Rush Blocks | 360547 | [360547-blaster-rush-blocks.json](./360547-blaster-rush-blocks.json) |
 | Blaster Shooter GunGuy! | 34672 | [34672-blaster-shooter-gunguy.json](./34672-blaster-shooter-gunguy.json) |
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
 | Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
@@ -14878,6 +14880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burned Land | 114883 | [114883-burned-land.json](./114883-burned-land.json) |
 | Burned One | 365157 | [365157-burned-one.json](./365157-burned-one.json) |
 | Burned Out | 317456 | [317456-burned-out.json](./317456-burned-out.json) |
+| BurnerSphere | 360466 | [360466-burnersphere.json](./360466-burnersphere.json) |
 | Burnin Rubber | 44493 | [44493-burnin-rubber.json](./44493-burnin-rubber.json) |
 | Burnin' Rubber | 172601 | [172601-burnin-rubber.json](./172601-burnin-rubber.json) |
 | Burnin' Rubber | 86208 | [86208-burnin-rubber.json](./86208-burnin-rubber.json) |
