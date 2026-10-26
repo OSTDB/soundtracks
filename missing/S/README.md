@@ -3486,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
 | Seaman Count | 79662 | [79662-seaman-count.json](./79662-seaman-count.json) |
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
+| Seamspace: Minesweeper | 363359 | [363359-seamspace-minesweeper.json](./363359-seamspace-minesweeper.json) |
 | Seance | 156198 | [156198-seance.json](./156198-seance.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
 | Seance: The Unquiet | 91201 | [91201-seance-the-unquiet.json](./91201-seance-the-unquiet.json) |
@@ -4370,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
 | Sel Mounta: Siege the Demon Castle | 259732 | [259732-sel-mounta-siege-the-demon-castle.json](./259732-sel-mounta-siege-the-demon-castle.json) |
 | Sel Quinta: The Six City Quest | 192239 | [192239-sel-quinta-the-six-city-quest.json](./192239-sel-quinta-the-six-city-quest.json) |
+| Selanìa | 363329 | [363329-selania.json](./363329-selania.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Selatria: Advent of the Dakk'rian Empire | 29774 | [29774-selatria-advent-of-the-dakkrian-empire.json](./29774-selatria-advent-of-the-dakkrian-empire.json) |
 | Seldon Crisis | 50331 | [50331-seldon-crisis.json](./50331-seldon-crisis.json) |
@@ -6214,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Eradine | 88065 | [88065-shards-of-eradine.json](./88065-shards-of-eradine.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
+| Shards of Order | 363332 | [363332-shards-of-order.json](./363332-shards-of-order.json) |
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of the Past | 266977 | [266977-shards-of-the-past.json](./266977-shards-of-the-past.json) |
@@ -17066,6 +17069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle Milla: Eight Genetic Abnormalities and a Blood Ghost | 230371 | [230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json](./230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json) |
 | Sparkle Piglet | 212795 | [212795-sparkle-piglet.json](./212795-sparkle-piglet.json) |
 | Sparkle Piglet Adventure | 234490 | [234490-sparkle-piglet-adventure.json](./234490-sparkle-piglet-adventure.json) |
+| Sparkle Pop | 363361 | [363361-sparkle-pop.json](./363361-sparkle-pop.json) |
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | Sparkle Unleashed | 20953 | [20953-sparkle-unleashed.json](./20953-sparkle-unleashed.json) |
 | Sparkle Zero | 33416 | [33416-sparkle-zero.json](./33416-sparkle-zero.json) |
@@ -17964,6 +17968,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: 026 - Red Suit Mod: Tuffanuff | 363297 | [363297-spider-man-026-red-suit-mod-tuffanuff.json](./363297-spider-man-026-red-suit-mod-tuffanuff.json) |
 | Spider-Man: 027 - Red Suit Mod: Arachnophobia | 363298 | [363298-spider-man-027-red-suit-mod-arachnophobia.json](./363298-spider-man-027-red-suit-mod-arachnophobia.json) |
 | Spider-Man: 028 - Red Suit Mod: Hang 'em High | 363299 | [363299-spider-man-028-red-suit-mod-hang-em-high.json](./363299-spider-man-028-red-suit-mod-hang-em-high.json) |
+| Spider-Man: 030 - Red Suit Mod: Trip Web | 363327 | [363327-spider-man-030-red-suit-mod-trip-web.json](./363327-spider-man-030-red-suit-mod-trip-web.json) |
+| Spider-Man: 031 - Red Suit Mod: Camouflage | 363333 | [363333-spider-man-031-red-suit-mod-camouflage.json](./363333-spider-man-031-red-suit-mod-camouflage.json) |
+| Spider-Man: 032 - Red Suit Mod: Divine Flex | 363334 | [363334-spider-man-032-red-suit-mod-divine-flex.json](./363334-spider-man-032-red-suit-mod-divine-flex.json) |
+| Spider-Man: 033 - Enemy Mod: Sonic Drubbing | 363335 | [363335-spider-man-033-enemy-mod-sonic-drubbing.json](./363335-spider-man-033-enemy-mod-sonic-drubbing.json) |
+| Spider-Man: 034 - Enemy Mod: Tritium Card | 363336 | [363336-spider-man-034-enemy-mod-tritium-card.json](./363336-spider-man-034-enemy-mod-tritium-card.json) |
+| Spider-Man: 035 - Enemy Mod: Disintegrator | 363337 | [363337-spider-man-035-enemy-mod-disintegrator.json](./363337-spider-man-035-enemy-mod-disintegrator.json) |
+| Spider-Man: 036 - Enemy Mod: Spider Agility | 363338 | [363338-spider-man-036-enemy-mod-spider-agility.json](./363338-spider-man-036-enemy-mod-spider-agility.json) |
+| Spider-Man: 037 - Enemy Mod: Web of Steel | 363339 | [363339-spider-man-037-enemy-mod-web-of-steel.json](./363339-spider-man-037-enemy-mod-web-of-steel.json) |
+| Spider-Man: 038 - Enemy Mod: Ego Boost | 363340 | [363340-spider-man-038-enemy-mod-ego-boost.json](./363340-spider-man-038-enemy-mod-ego-boost.json) |
+| Spider-Man: 039 - Enemy Mod: Guilt Trip | 363342 | [363342-spider-man-039-enemy-mod-guilt-trip.json](./363342-spider-man-039-enemy-mod-guilt-trip.json) |
+| Spider-Man: 040 - Enemy Mod: EZ Does It | 363343 | [363343-spider-man-040-enemy-mod-ez-does-it.json](./363343-spider-man-040-enemy-mod-ez-does-it.json) |
+| Spider-Man: 041 - Mission Mod: Big Apple 1 | 363345 | [363345-spider-man-041-mission-mod-big-apple-1.json](./363345-spider-man-041-mission-mod-big-apple-1.json) |
+| Spider-Man: 042 - Mission Mod: Big Apple 2 | 363346 | [363346-spider-man-042-mission-mod-big-apple-2.json](./363346-spider-man-042-mission-mod-big-apple-2.json) |
+| Spider-Man: 043 - Mission Mod: Big Apple 3 | 363347 | [363347-spider-man-043-mission-mod-big-apple-3.json](./363347-spider-man-043-mission-mod-big-apple-3.json) |
+| Spider-Man: 044 - Mission Mod: Big Apple 4 | 363349 | [363349-spider-man-044-mission-mod-big-apple-4.json](./363349-spider-man-044-mission-mod-big-apple-4.json) |
+| Spider-Man: 045 - Mission Mod: Big Apple 5 | 363350 | [363350-spider-man-045-mission-mod-big-apple-5.json](./363350-spider-man-045-mission-mod-big-apple-5.json) |
+| Spider-Man: 046 - Arsenal Mod: Invincibility | 363352 | [363352-spider-man-046-arsenal-mod-invincibility.json](./363352-spider-man-046-arsenal-mod-invincibility.json) |
+| Spider-Man: 047 - Arsenal Mod: Spider Speed | 363354 | [363354-spider-man-047-arsenal-mod-spider-speed.json](./363354-spider-man-047-arsenal-mod-spider-speed.json) |
+| Spider-Man: 048 - Arsenal Mod: Super Strength | 363355 | [363355-spider-man-048-arsenal-mod-super-strength.json](./363355-spider-man-048-arsenal-mod-super-strength.json) |
+| Spider-Man: 049 - Arsenal Mod: Health Drink | 363356 | [363356-spider-man-049-arsenal-mod-health-drink.json](./363356-spider-man-049-arsenal-mod-health-drink.json) |
+| Spider-Man: 050 - Arsenal Mod: Stopwatch | 363357 | [363357-spider-man-050-arsenal-mod-stopwatch.json](./363357-spider-man-050-arsenal-mod-stopwatch.json) |
+| Spider-Man: 051 - Arsenal Mod: Web Flurry | 363358 | [363358-spider-man-051-arsenal-mod-web-flurry.json](./363358-spider-man-051-arsenal-mod-web-flurry.json) |
+| Spider-Man: 052 - FX Mod: Light as a Feather | 363360 | [363360-spider-man-052-fx-mod-light-as-a-feather.json](./363360-spider-man-052-fx-mod-light-as-a-feather.json) |
+| Spider-Man: 053 - FX Mod: Super Jumper | 363362 | [363362-spider-man-053-fx-mod-super-jumper.json](./363362-spider-man-053-fx-mod-super-jumper.json) |
 | Spider-Man: 054 - FX Mod: Parade Route | 363363 | [363363-spider-man-054-fx-mod-parade-route.json](./363363-spider-man-054-fx-mod-parade-route.json) |
 | Spider-Man: 055 - FX Mod: Wacky Noises | 363365 | [363365-spider-man-055-fx-mod-wacky-noises.json](./363365-spider-man-055-fx-mod-wacky-noises.json) |
 | Spider-Man: 056 - FX Mod: Time Twist | 363366 | [363366-spider-man-056-fx-mod-time-twist.json](./363366-spider-man-056-fx-mod-time-twist.json) |
