@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basket Ball 3D ShootOut | 91150 | [91150-basket-ball-3d-shootout.json](./91150-basket-ball-3d-shootout.json) |
 | Basket Balls | 397212 | [397212-basket-balls.json](./397212-basket-balls.json) |
 | Basket Battle | 208910 | [208910-basket-battle.json](./208910-basket-battle.json) |
+| Basket Bots | 365639 | [365639-basket-bots.json](./365639-basket-bots.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
 | Basket Bros | 133727 | [133727-basket-bros.json](./133727-basket-bros.json) |
 | Basket Catch | 206567 | [206567-basket-catch.json](./206567-basket-catch.json) |
@@ -5583,6 +5584,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Solitaire | 185984 | [185984-best-of-solitaire.json](./185984-best-of-solitaire.json) |
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
 | Best of Tests DS | 47930 | [47930-best-of-tests-ds.json](./47930-best-of-tests-ds.json) |
+| Best of the Best: Championship Karate | 365640 | [365640-best-of-the-best-championship-karate.json](./365640-best-of-the-best-championship-karate.json) |
+| Best of the Best: Championship Karate | 365645 | [365645-best-of-the-best-championship-karate.json](./365645-best-of-the-best-championship-karate.json) |
 | Best of the Best: Championship Karate | 7783 | [7783-best-of-the-best-championship-karate.json](./7783-best-of-the-best-championship-karate.json) |
 | Best of Tilted Mill | 52466 | [52466-best-of-tilted-mill.json](./52466-best-of-tilted-mill.json) |
 | Best of Upscale Studio Bundle: 5 in 1 | 385141 | [385141-best-of-upscale-studio-bundle-5-in-1.json](./385141-best-of-upscale-studio-bundle-5-in-1.json) |
@@ -9059,6 +9062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and Zombies: Gold Edition | 241966 | [241966-blood-and-zombies-gold-edition.json](./241966-blood-and-zombies-gold-edition.json) |
 | Blood Bar Tycoon | 290914 | [290914-blood-bar-tycoon.json](./290914-blood-bar-tycoon.json) |
 | Blood Beach | 51084 | [51084-blood-beach.json](./51084-blood-beach.json) |
+| Blood Bear | 365621 | [365621-blood-bear.json](./365621-blood-bear.json) |
 | Blood Beat Club | 301894 | [301894-blood-beat-club.json](./301894-blood-beat-club.json) |
 | Blood Bond: Into the Shroud | 105276 | [105276-blood-bond-into-the-shroud.json](./105276-blood-bond-into-the-shroud.json) |
 | Blood Bound | 313823 | [313823-blood-bound.json](./313823-blood-bound.json) |
@@ -12157,6 +12161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bram Stoker's Dracula | 14340 | [14340-bram-stokers-dracula.json](./14340-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14341 | [14341-bram-stokers-dracula.json](./14341-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14342 | [14342-bram-stokers-dracula.json](./14342-bram-stokers-dracula.json) |
+| Bram Stoker's Dracula | 365635 | [365635-bram-stokers-dracula.json](./365635-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 5366 | [5366-bram-stokers-dracula.json](./5366-bram-stokers-dracula.json) |
 | Bram the Toymaker | 165951 | [165951-bram-the-toymaker.json](./165951-bram-the-toymaker.json) |
 | Bramble Royale: A Meteorfall Story | 317991 | [317991-bramble-royale-a-meteorfall-story.json](./317991-bramble-royale-a-meteorfall-story.json) |
@@ -14781,6 +14786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Shards | 277760 | [277760-buried-shards.json](./277760-buried-shards.json) |
 | Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
 | Buried Stars | 137192 | [137192-buried-stars.json](./137192-buried-stars.json) |
+| Buried Tapes: The Cleaner | 365598 | [365598-buried-tapes-the-cleaner.json](./365598-buried-tapes-the-cleaner.json) |
 | Buried: An Interactive Story | 33689 | [33689-buried-an-interactive-story.json](./33689-buried-an-interactive-story.json) |
 | BuriedTown | 33786 | [33786-buriedtown.json](./33786-buriedtown.json) |
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
