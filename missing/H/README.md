@@ -7516,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Horror Mansion | 317593 | [317593-holy-horror-mansion.json](./317593-holy-horror-mansion.json) |
 | Holy Intentions | 369081 | [369081-holy-intentions.json](./369081-holy-intentions.json) |
 | Holy Journey of Salvation | 249801 | [249801-holy-journey-of-salvation.json](./249801-holy-journey-of-salvation.json) |
+| Holy Justice: Galaxy Outcast | 372442 | [372442-holy-justice-galaxy-outcast.json](./372442-holy-justice-galaxy-outcast.json) |
 | Holy Knight Bitch | 82902 | [82902-holy-knight-bitch.json](./82902-holy-knight-bitch.json) |
 | Holy Light | 305966 | [305966-holy-light.json](./305966-holy-light.json) |
 | Holy Moonlight | 401454 | [401454-holy-moonlight.json](./401454-holy-moonlight.json) |
