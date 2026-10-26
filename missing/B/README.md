@@ -4247,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearzerk | 344983 | [344983-bearzerk.json](./344983-bearzerk.json) |
 | Bearzerkers | 17881 | [17881-bearzerkers.json](./17881-bearzerkers.json) |
 | Beast | 202029 | [202029-beast.json](./202029-beast.json) |
+| Beast + Frag The Complete Shooter Collection | 336442 | [336442-beast-frag-the-complete-shooter-collection.json](./336442-beast-frag-the-complete-shooter-collection.json) |
 | Beast Agenda 2030 | 106539 | [106539-beast-agenda-2030.json](./106539-beast-agenda-2030.json) |
 | Beast and Cleaver | 345021 | [345021-beast-and-cleaver.json](./345021-beast-and-cleaver.json) |
 | Beast and Princess | 136469 | [136469-beast-and-princess.json](./136469-beast-and-princess.json) |
@@ -4917,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedroom Battlegrounds | 288231 | [288231-bedroom-battlegrounds.json](./288231-bedroom-battlegrounds.json) |
 | Bedroom Brawl | 385916 | [385916-bedroom-brawl.json](./385916-bedroom-brawl.json) |
 | Bedrooms | 342732 | [342732-bedrooms.json](./342732-bedrooms.json) |
+| Bedrot | 336473 | [336473-bedrot.json](./336473-bedrot.json) |
 | Bedrotting | 298265 | [298265-bedrotting.json](./298265-bedrotting.json) |
 | Bedrotting Simulator | 400277 | [400277-bedrotting-simulator.json](./400277-bedrotting-simulator.json) |
 | Bedtime | 182911 | [182911-bedtime.json](./182911-bedtime.json) |
@@ -5023,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
 | Beerserker: The Stolen Brew | 420553 | [420553-beerserker-the-stolen-brew.json](./420553-beerserker-the-stolen-brew.json) |
 | Bees vs. Ants | 175164 | [175164-bees-vs-ants.json](./175164-bees-vs-ants.json) |
+| Bees vs. Zombees | 336468 | [336468-bees-vs-zombees.json](./336468-bees-vs-zombees.json) |
 | Beescuit | 332293 | [332293-beescuit.json](./332293-beescuit.json) |
 | Beeswing | 35357 | [35357-beeswing.json](./35357-beeswing.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
@@ -9622,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Mice | 55457 | [55457-bloody-mice.json](./55457-bloody-mice.json) |
 | Bloody Moon | 271072 | [271072-bloody-moon.json](./271072-bloody-moon.json) |
+| Bloody Night Cult | 336446 | [336446-bloody-night-cult.json](./336446-bloody-night-cult.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
 | Bloody Pulp Fiction | 142685 | [142685-bloody-pulp-fiction.json](./142685-bloody-pulp-fiction.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
@@ -11887,6 +11891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Max Edition | 412588 | [412588-bowling-fever-max-edition.json](./412588-bowling-fever-max-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
+| Bowling Fever: Value Edition | 336438 | [336438-bowling-fever-value-edition.json](./336438-bowling-fever-value-edition.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
 | Bowling Game 3D HD | 103131 | [103131-bowling-game-3d-hd.json](./103131-bowling-game-3d-hd.json) |
 | Bowling in a Skate Park | 309002 | [309002-bowling-in-a-skate-park.json](./309002-bowling-in-a-skate-park.json) |
@@ -13658,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brunswick World: Tournament of Champions | 42596 | [42596-brunswick-world-tournament-of-champions.json](./42596-brunswick-world-tournament-of-champions.json) |
 | Brush Burial | 270639 | [270639-brush-burial.json](./270639-brush-burial.json) |
 | Brush Burial: Bruiseland | 394636 | [394636-brush-burial-bruiseland.json](./394636-brush-burial-bruiseland.json) |
+| Brush Burial: Gutter World | 336459 | [336459-brush-burial-gutter-world.json](./336459-brush-burial-gutter-world.json) |
 | Brush Hour | 411752 | [411752-brush-hour.json](./411752-brush-hour.json) |
 | Brush Jjaemu | 398581 | [398581-brush-jjaemu.json](./398581-brush-jjaemu.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
@@ -14276,6 +14282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Platinum Edition | 317262 | [317262-buggy-off-road-racing-platinum-edition.json](./317262-buggy-off-road-racing-platinum-edition.json) |
 | Buggy Off-Road Racing: Supreme Edition | 407115 | [407115-buggy-off-road-racing-supreme-edition.json](./407115-buggy-off-road-racing-supreme-edition.json) |
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
+| Buggy Off-Road Racing: Value Edition | 336437 | [336437-buggy-off-road-racing-value-edition.json](./336437-buggy-off-road-racing-value-edition.json) |
 | Buggy Off-Road: Combo Edition | 397890 | [397890-buggy-off-road-combo-edition.json](./397890-buggy-off-road-combo-edition.json) |
 | Buggy Off-Road: Power Edition | 395675 | [395675-buggy-off-road-power-edition.json](./395675-buggy-off-road-power-edition.json) |
 | Buggy Race: Racing Master | 288308 | [288308-buggy-race-racing-master.json](./288308-buggy-race-racing-master.json) |
