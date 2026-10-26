@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
 | GameSyndicates | 404513 | [404513-gamesyndicates.json](./404513-gamesyndicates.json) |
+| GameTap, Cup Noodles, and Bitter Tears | 353929 | [353929-gametap-cup-noodles-and-bitter-tears.json](./353929-gametap-cup-noodles-and-bitter-tears.json) |
 | Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
 | GameWhizzards | 120101 | [120101-gamewhizzards.json](./120101-gamewhizzards.json) |
 | Gaminator | 360982 | [360982-gaminator.json](./360982-gaminator.json) |
@@ -1506,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Pail Kids: Mad Mike and the Quest for Stale Gum | 221146 | [221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json](./221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json) |
 | Garbage Pail Kids: The Game | 110049 | [110049-garbage-pail-kids-the-game.json](./110049-garbage-pail-kids-the-game.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
+| Garbage Take Out Day | 353942 | [353942-garbage-take-out-day.json](./353942-garbage-take-out-day.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garbage Truck Sim Driver Simulator 26 | 394477 | [394477-garbage-truck-sim-driver-simulator-26.json](./394477-garbage-truck-sim-driver-simulator-26.json) |
 | Garbage Truck Simulator | 80448 | [80448-garbage-truck-simulator.json](./80448-garbage-truck-simulator.json) |
