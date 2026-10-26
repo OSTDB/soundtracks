@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas City | 379938 | [379938-canvas-city.json](./379938-canvas-city.json) |
 | Canvas Colors: In the Moving City | 161156 | [161156-canvas-colors-in-the-moving-city.json](./161156-canvas-colors-in-the-moving-city.json) |
 | Canvas Croquis | 40074 | [40074-canvas-croquis.json](./40074-canvas-croquis.json) |
+| Canvas Infernum | 333881 | [333881-canvas-infernum.json](./333881-canvas-infernum.json) |
 | Canvas Intruder | 316142 | [316142-canvas-intruder.json](./316142-canvas-intruder.json) |
 | Canvas Legacy | 219219 | [219219-canvas-legacy.json](./219219-canvas-legacy.json) |
 | Canvas Menagerie | 250167 | [250167-canvas-menagerie.json](./250167-canvas-menagerie.json) |
@@ -1929,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Hog | 126819 | [126819-card-hog.json](./126819-card-hog.json) |
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Killer | 158089 | [158089-card-killer.json](./158089-card-killer.json) |
+| Card Linker | 333341 | [333341-card-linker.json](./333341-card-linker.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
 | Card Make Arena | 414129 | [414129-card-make-arena.json](./414129-card-make-arena.json) |
 | Card Master | 284294 | [284294-card-master.json](./284294-card-master.json) |
@@ -1982,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardaclysm | 133093 | [133093-cardaclysm.json](./133093-cardaclysm.json) |
 | Cardaire | 319691 | [319691-cardaire.json](./319691-cardaire.json) |
 | Cardaire: Eternal Aces | 378441 | [378441-cardaire-eternal-aces.json](./378441-cardaire-eternal-aces.json) |
+| Cardalaxy | 333334 | [333334-cardalaxy.json](./333334-cardalaxy.json) |
 | Cardamom | 361262 | [361262-cardamom.json](./361262-cardamom.json) |
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
 | Cardaver | 380193 | [380193-cardaver.json](./380193-cardaver.json) |
@@ -3495,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catalyst Core | 412326 | [412326-catalyst-core.json](./412326-catalyst-core.json) |
 | Catalyst of Quoralis | 417643 | [417643-catalyst-of-quoralis.json](./417643-catalyst-of-quoralis.json) |
 | Catalyst: Blind Faith | 221217 | [221217-catalyst-blind-faith.json](./221217-catalyst-blind-faith.json) |
+| Catalyst: From the Stars | 333456 | [333456-catalyst-from-the-stars.json](./333456-catalyst-from-the-stars.json) |
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
@@ -5657,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessCraft | 189885 | [189885-chesscraft.json](./189885-chesscraft.json) |
 | Chessemble | 372052 | [372052-chessemble.json](./372052-chessemble.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
+| ChessFinity | 333331 | [333331-chessfinity.json](./333331-chessfinity.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
 | Chessium: 3D Chess Battle | 271646 | [271646-chessium-3d-chess-battle.json](./271646-chessium-3d-chess-battle.json) |
 | Chesskoban | 181045 | [181045-chesskoban.json](./181045-chesskoban.json) |
@@ -7404,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Defender | 211197 | [211197-circuit-defender.json](./211197-circuit-defender.json) |
 | Circuit Defender | 380074 | [380074-circuit-defender.json](./380074-circuit-defender.json) |
 | Circuit Dude | 51789 | [51789-circuit-dude.json](./51789-circuit-dude.json) |
+| Circuit Maze | 333494 | [333494-circuit-maze.json](./333494-circuit-maze.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
 | Circuit Racer 2: Race and Chase | 88499 | [88499-circuit-racer-2-race-and-chase.json](./88499-circuit-racer-2-race-and-chase.json) |
