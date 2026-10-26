@@ -9136,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The I of the Dragon | 17093 | [17093-the-i-of-the-dragon.json](./17093-the-i-of-the-dragon.json) |
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
+| The Icarus Effect | 363927 | [363927-the-icarus-effect.json](./363927-the-icarus-effect.json) |
 | The Icarus Experiment | 317307 | [317307-the-icarus-experiment.json](./317307-the-icarus-experiment.json) |
 | The Ice Cream Culprit | 309164 | [309164-the-ice-cream-culprit.json](./309164-the-ice-cream-culprit.json) |
 | The Ice Cream Shop | 374923 | [374923-the-ice-cream-shop.json](./374923-the-ice-cream-shop.json) |
