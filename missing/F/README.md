@@ -4915,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: The Hag in White | 335825 | [335825-fire-emblem-the-hag-in-white.json](./335825-fire-emblem-the-hag-in-white.json) |
 | Fire Emblem: The Lonely Mirror | 273926 | [273926-fire-emblem-the-lonely-mirror.json](./273926-fire-emblem-the-lonely-mirror.json) |
 | Fire Emblem: The Road to Ruin | 144674 | [144674-fire-emblem-the-road-to-ruin.json](./144674-fire-emblem-the-road-to-ruin.json) |
+| Fire Emblem: The Shadow of Dawn | 384011 | [384011-fire-emblem-the-shadow-of-dawn.json](./384011-fire-emblem-the-shadow-of-dawn.json) |
 | Fire Emblem: The Sun God's Wrath | 140873 | [140873-fire-emblem-the-sun-gods-wrath.json](./140873-fire-emblem-the-sun-gods-wrath.json) |
 | Fire Emblem: Thracia 776 | 1437 | [1437-fire-emblem-thracia-776.json](./1437-fire-emblem-thracia-776.json) |
 | Fire Emblem: Three Houses - Cindered Shadows | 132224 | [132224-fire-emblem-three-houses-cindered-shadows.json](./132224-fire-emblem-three-houses-cindered-shadows.json) |
@@ -5724,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitzzle Regal Tigers | 334777 | [334777-fitzzle-regal-tigers.json](./334777-fitzzle-regal-tigers.json) |
 | Fitzzle Wise Owls | 334779 | [334779-fitzzle-wise-owls.json](./334779-fitzzle-wise-owls.json) |
 | Fitzzle: Vicious Alligators | 108412 | [108412-fitzzle-vicious-alligators.json](./108412-fitzzle-vicious-alligators.json) |
+| Five | 384036 | [384036-five.json](./384036-five.json) |
 | Five A Day | 9135 | [9135-five-a-day.json](./9135-five-a-day.json) |
 | Five a Side Football 2024 | 267413 | [267413-five-a-side-football-2024.json](./267413-five-a-side-football-2024.json) |
 | Five Dates | 141088 | [141088-five-dates.json](./141088-five-dates.json) |
@@ -10244,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Other Suns | 27516 | [27516-from-other-suns.json](./27516-from-other-suns.json) |
 | From Paris with Love 2: Passion with view | 196113 | [196113-from-paris-with-love-2-passion-with-view.json](./196113-from-paris-with-love-2-passion-with-view.json) |
 | From Paris with Love: Passion with View | 169255 | [169255-from-paris-with-love-passion-with-view.json](./169255-from-paris-with-love-passion-with-view.json) |
+| From Red to Green | 384006 | [384006-from-red-to-green.json](./384006-from-red-to-green.json) |
 | From Ruins | 381177 | [381177-from-ruins.json](./381177-from-ruins.json) |
 | From Rust To Ash | 386500 | [386500-from-rust-to-ash.json](./386500-from-rust-to-ash.json) |
 | From Salt to Sugar | 212803 | [212803-from-salt-to-sugar.json](./212803-from-salt-to-sugar.json) |
