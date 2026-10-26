@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T20:49:54.060Z",
-  "total_missing": 266825,
+  "generated_at": "2026-10-26T21:05:33.684Z",
+  "total_missing": 266875,
   "games": [
     {
       "igdb_id": 191680,
@@ -18410,6 +18410,11 @@
       "igdb_id": 322452,
       "game_name": "A Night Duty",
       "file": "missing/A/322452-a-night-duty.json"
+    },
+    {
+      "igdb_id": 339723,
+      "game_name": "A Night Filled With the Sound of Rain",
+      "file": "missing/A/339723-a-night-filled-with-the-sound-of-rain.json"
     },
     {
       "igdb_id": 344838,
@@ -49485,6 +49490,11 @@
       "igdb_id": 345679,
       "game_name": "Amber Alert Director's Cut",
       "file": "missing/A/345679-amber-alert-directors-cut.json"
+    },
+    {
+      "igdb_id": 339722,
+      "game_name": "Amber Alert Total VR",
+      "file": "missing/A/339722-amber-alert-total-vr.json"
     },
     {
       "igdb_id": 226219,
@@ -192565,6 +192575,11 @@
       "igdb_id": 346691,
       "game_name": "Chained 2 Violence",
       "file": "missing/C/346691-chained-2-violence.json"
+    },
+    {
+      "igdb_id": 339721,
+      "game_name": "Chained Backrooms",
+      "file": "missing/C/339721-chained-backrooms.json"
     },
     {
       "igdb_id": 344588,
@@ -342442,6 +342457,11 @@
       "file": "missing/E/364957-eco-sentinel-the-bottle-mission.json"
     },
     {
+      "igdb_id": 339725,
+      "game_name": "EcoChess",
+      "file": "missing/E/339725-ecochess.json"
+    },
+    {
       "igdb_id": 342129,
       "game_name": "Ecoco de Fight!",
       "file": "missing/E/342129-ecoco-de-fight.json"
@@ -343355,6 +343375,11 @@
       "igdb_id": 397151,
       "game_name": "Edge of Reality: The Legend of Greenbush",
       "file": "missing/E/397151-edge-of-reality-the-legend-of-greenbush.json"
+    },
+    {
+      "igdb_id": 339726,
+      "game_name": "Edge of Reality: The Legend of Greenbush Collector's Edition",
+      "file": "missing/E/339726-edge-of-reality-the-legend-of-greenbush-collectors-edition.json"
     },
     {
       "igdb_id": 214504,
@@ -344747,6 +344772,11 @@
       "file": "missing/E/309664-eggman.json"
     },
     {
+      "igdb_id": 339727,
+      "game_name": "Eggman",
+      "file": "missing/E/339727-eggman.json"
+    },
+    {
       "igdb_id": 261249,
       "game_name": "Eggman no Kazuate Panic!",
       "file": "missing/E/261249-eggman-no-kazuate-panic.json"
@@ -344785,6 +344815,16 @@
       "igdb_id": 338180,
       "game_name": "Eggplant",
       "file": "missing/E/338180-eggplant.json"
+    },
+    {
+      "igdb_id": 339728,
+      "game_name": "Eggplant",
+      "file": "missing/E/339728-eggplant.json"
+    },
+    {
+      "igdb_id": 339729,
+      "game_name": "Eggplant",
+      "file": "missing/E/339729-eggplant.json"
     },
     {
       "igdb_id": 187821,
@@ -345707,6 +345747,11 @@
       "file": "missing/E/199926-ekorella-vol-1.json"
     },
     {
+      "igdb_id": 339730,
+      "game_name": "Ekphrasis",
+      "file": "missing/E/339730-ekphrasis.json"
+    },
+    {
       "igdb_id": 405494,
       "game_name": "Ekphrasis",
       "file": "missing/E/405494-ekphrasis.json"
@@ -345975,6 +346020,11 @@
       "igdb_id": 110530,
       "game_name": "El Pansas",
       "file": "missing/E/110530-el-pansas.json"
+    },
+    {
+      "igdb_id": 339743,
+      "game_name": "El pasante elementalista",
+      "file": "missing/E/339743-el-pasante-elementalista.json"
     },
     {
       "igdb_id": 151788,
@@ -346812,6 +346862,11 @@
       "file": "missing/E/94324-electranoid.json"
     },
     {
+      "igdb_id": 339731,
+      "game_name": "Electrial",
+      "file": "missing/E/339731-electrial.json"
+    },
+    {
       "igdb_id": 210220,
       "game_name": "ElectriarCode",
       "file": "missing/E/210220-electriarcode.json"
@@ -347392,6 +347447,11 @@
       "file": "missing/E/123261-elemensional-rift.json"
     },
     {
+      "igdb_id": 339732,
+      "game_name": "Element",
+      "file": "missing/E/339732-element.json"
+    },
+    {
       "igdb_id": 275348,
       "game_name": "Element Are We",
       "file": "missing/E/275348-element-are-we.json"
@@ -347537,6 +347597,11 @@
       "file": "missing/E/55223-elemental-combat.json"
     },
     {
+      "igdb_id": 339733,
+      "game_name": "Elemental Defender",
+      "file": "missing/E/339733-elemental-defender.json"
+    },
+    {
       "igdb_id": 277187,
       "game_name": "Elemental Dreams",
       "file": "missing/E/277187-elemental-dreams.json"
@@ -347570,6 +347635,11 @@
       "igdb_id": 118113,
       "game_name": "Elemental Girls",
       "file": "missing/E/118113-elemental-girls.json"
+    },
+    {
+      "igdb_id": 339734,
+      "game_name": "Elemental Guardians",
+      "file": "missing/E/339734-elemental-guardians.json"
     },
     {
       "igdb_id": 33775,
@@ -347670,6 +347740,11 @@
       "igdb_id": 132107,
       "game_name": "Elemental Strike: Mirage Tower",
       "file": "missing/E/132107-elemental-strike-mirage-tower.json"
+    },
+    {
+      "igdb_id": 339735,
+      "game_name": "Elemental Surge",
+      "file": "missing/E/339735-elemental-surge.json"
     },
     {
       "igdb_id": 244234,
@@ -348430,6 +348505,31 @@
       "igdb_id": 419881,
       "game_name": "Elf Tennis Club",
       "file": "missing/E/419881-elf-tennis-club.json"
+    },
+    {
+      "igdb_id": 339736,
+      "game_name": "Elf World Adventure",
+      "file": "missing/E/339736-elf-world-adventure.json"
+    },
+    {
+      "igdb_id": 339737,
+      "game_name": "Elf World Adventure 2",
+      "file": "missing/E/339737-elf-world-adventure-2.json"
+    },
+    {
+      "igdb_id": 339738,
+      "game_name": "Elf World Adventure 3",
+      "file": "missing/E/339738-elf-world-adventure-3.json"
+    },
+    {
+      "igdb_id": 339739,
+      "game_name": "Elf World Adventure 4",
+      "file": "missing/E/339739-elf-world-adventure-4.json"
+    },
+    {
+      "igdb_id": 339740,
+      "game_name": "Elf World Adventure 5",
+      "file": "missing/E/339740-elf-world-adventure-5.json"
     },
     {
       "igdb_id": 178524,
@@ -349272,6 +349372,11 @@
       "file": "missing/E/271087-elodya.json"
     },
     {
+      "igdb_id": 339741,
+      "game_name": "Elohim Eternal: Exodus",
+      "file": "missing/E/339741-elohim-eternal-exodus.json"
+    },
+    {
       "igdb_id": 340737,
       "game_name": "Elon and Friends: Easter Pack",
       "file": "missing/E/340737-elon-and-friends-easter-pack.json"
@@ -349350,6 +349455,11 @@
       "igdb_id": 172742,
       "game_name": "Eloquence",
       "file": "missing/E/172742-eloquence.json"
+    },
+    {
+      "igdb_id": 339742,
+      "game_name": "Eloquent",
+      "file": "missing/E/339742-eloquent.json"
     },
     {
       "igdb_id": 200531,
@@ -350210,6 +350320,11 @@
       "igdb_id": 294291,
       "game_name": "Emblems: Sunless Vow",
       "file": "missing/E/294291-emblems-sunless-vow.json"
+    },
+    {
+      "igdb_id": 339744,
+      "game_name": "Embodied Tournament",
+      "file": "missing/E/339744-embodied-tournament.json"
     },
     {
       "igdb_id": 211125,
@@ -351447,6 +351562,11 @@
       "file": "missing/E/24892-empire-i-world-builders.json"
     },
     {
+      "igdb_id": 339745,
+      "game_name": "Empire Idle",
+      "file": "missing/E/339745-empire-idle.json"
+    },
+    {
       "igdb_id": 24893,
       "game_name": "Empire II: Interstellar Sharks",
       "file": "missing/E/24893-empire-ii-interstellar-sharks.json"
@@ -352392,6 +352512,11 @@
       "file": "missing/E/146766-enchanted-words.json"
     },
     {
+      "igdb_id": 339746,
+      "game_name": "Enchanted: A Magic Shop",
+      "file": "missing/E/339746-enchanted-a-magic-shop.json"
+    },
+    {
       "igdb_id": 49278,
       "game_name": "Enchanted: Once Upon Andalasia",
       "file": "missing/E/49278-enchanted-once-upon-andalasia.json"
@@ -352637,6 +352762,11 @@
       "file": "missing/E/185617-encyclopedia-explosica.json"
     },
     {
+      "igdb_id": 339747,
+      "game_name": "End Chess Arrow",
+      "file": "missing/E/339747-end-chess-arrow.json"
+    },
+    {
       "igdb_id": 315912,
       "game_name": "End Date",
       "file": "missing/E/315912-end-date.json"
@@ -352880,6 +353010,11 @@
       "igdb_id": 347690,
       "game_name": "End Them, Soldier!",
       "file": "missing/E/347690-end-them-soldier.json"
+    },
+    {
+      "igdb_id": 339751,
+      "game_name": "End Transmission?",
+      "file": "missing/E/339751-end-transmission.json"
     },
     {
       "igdb_id": 105711,
@@ -353222,6 +353357,11 @@
       "file": "missing/E/120728-endless-defence-2.json"
     },
     {
+      "igdb_id": 339748,
+      "game_name": "Endless Defense: Survival",
+      "file": "missing/E/339748-endless-defense-survival.json"
+    },
+    {
       "igdb_id": 354510,
       "game_name": "Endless Depths",
       "file": "missing/E/354510-endless-depths.json"
@@ -353490,6 +353630,11 @@
       "igdb_id": 168767,
       "game_name": "Endless Legend: The Lost Tales",
       "file": "missing/E/168767-endless-legend-the-lost-tales.json"
+    },
+    {
+      "igdb_id": 339749,
+      "game_name": "Endless Life",
+      "file": "missing/E/339749-endless-life.json"
     },
     {
       "igdb_id": 152933,
@@ -353785,6 +353930,11 @@
       "igdb_id": 82431,
       "game_name": "Endless Space 2: Vaulters",
       "file": "missing/E/82431-endless-space-2-vaulters.json"
+    },
+    {
+      "igdb_id": 339750,
+      "game_name": "Endless Space VIP",
+      "file": "missing/E/339750-endless-space-vip.json"
     },
     {
       "igdb_id": 231650,
@@ -354570,6 +354720,11 @@
       "igdb_id": 335136,
       "game_name": "Enforcers Revolt",
       "file": "missing/E/335136-enforcers-revolt.json"
+    },
+    {
+      "igdb_id": 339752,
+      "game_name": "Enfynyty",
+      "file": "missing/E/339752-enfynyty.json"
     },
     {
       "igdb_id": 172104,
@@ -355660,6 +355815,11 @@
       "igdb_id": 239882,
       "game_name": "Enthralled",
       "file": "missing/E/239882-enthralled.json"
+    },
+    {
+      "igdb_id": 339753,
+      "game_name": "Enthralled",
+      "file": "missing/E/339753-enthralled.json"
     },
     {
       "igdb_id": 179149,
@@ -381752,6 +381912,11 @@
       "file": "missing/F/105802-fantasy-maze.json"
     },
     {
+      "igdb_id": 340057,
+      "game_name": "Fantasy Memory: A Relaxing Match Game",
+      "file": "missing/F/340057-fantasy-memory-a-relaxing-match-game.json"
+    },
+    {
       "igdb_id": 286464,
       "game_name": "Fantasy Memory: Sexy Mermaids",
       "file": "missing/F/286464-fantasy-memory-sexy-mermaids.json"
@@ -384387,6 +384552,11 @@
       "file": "missing/F/325722-farmine-land.json"
     },
     {
+      "igdb_id": 340059,
+      "game_name": "Farming",
+      "file": "missing/F/340059-farming.json"
+    },
+    {
       "igdb_id": 405610,
       "game_name": "Farming & Supermarket: Clicker",
       "file": "missing/F/405610-farming-and-supermarket-clicker.json"
@@ -384420,6 +384590,11 @@
       "igdb_id": 411570,
       "game_name": "Farming Homestead",
       "file": "missing/F/411570-farming-homestead.json"
+    },
+    {
+      "igdb_id": 340060,
+      "game_name": "Farming Isles",
+      "file": "missing/F/340060-farming-isles.json"
     },
     {
       "igdb_id": 371208,
@@ -385285,6 +385460,11 @@
       "igdb_id": 345817,
       "game_name": "Fashion Shop Simulator",
       "file": "missing/F/345817-fashion-shop-simulator.json"
+    },
+    {
+      "igdb_id": 340063,
+      "game_name": "Fashion Show Makeover Mega Pack",
+      "file": "missing/F/340063-fashion-show-makeover-mega-pack.json"
     },
     {
       "igdb_id": 212493,
@@ -386692,6 +386872,11 @@
       "file": "missing/F/366260-fate-of-the-seventh-scholar.json"
     },
     {
+      "igdb_id": 340064,
+      "game_name": "Fate of the Three Kingdoms",
+      "file": "missing/F/340064-fate-of-the-three-kingdoms.json"
+    },
+    {
       "igdb_id": 15079,
       "game_name": "Fate of the World",
       "file": "missing/F/15079-fate-of-the-world.json"
@@ -387407,6 +387592,11 @@
       "file": "missing/F/125731-fault-and-fragment.json"
     },
     {
+      "igdb_id": 340065,
+      "game_name": "Fault 24",
+      "file": "missing/F/340065-fault-24.json"
+    },
+    {
       "igdb_id": 10528,
       "game_name": "Fault Milestone One",
       "file": "missing/F/10528-fault-milestone-one.json"
@@ -387625,6 +387815,11 @@
       "igdb_id": 173840,
       "game_name": "Faylinn's Quest",
       "file": "missing/F/173840-faylinns-quest.json"
+    },
+    {
+      "igdb_id": 340066,
+      "game_name": "Fayrehaven",
+      "file": "missing/F/340066-fayrehaven.json"
     },
     {
       "igdb_id": 382962,
@@ -540140,6 +540335,11 @@
       "igdb_id": 99142,
       "game_name": "Idle Factory Tycoon",
       "file": "missing/I/99142-idle-factory-tycoon.json"
+    },
+    {
+      "igdb_id": 340062,
+      "game_name": "Idle Farming Business",
+      "file": "missing/I/340062-idle-farming-business.json"
     },
     {
       "igdb_id": 175877,
@@ -768137,6 +768337,11 @@
       "file": "missing/N/172755-no-fair-play.json"
     },
     {
+      "igdb_id": 340058,
+      "game_name": "No Fap Island",
+      "file": "missing/N/340058-no-fap-island.json"
+    },
+    {
       "igdb_id": 7123,
       "game_name": "No Fate! Only the Power of Will",
       "file": "missing/N/7123-no-fate-only-the-power-of-will.json"
@@ -835727,6 +835932,16 @@
       "file": "missing/P/359876-pixel-cross-stitch-color-by-number-menacing-monsters-pack-3.json"
     },
     {
+      "igdb_id": 339712,
+      "game_name": "Pixel Cross Stitch: Color by Number - Mythical Monsters Pack",
+      "file": "missing/P/339712-pixel-cross-stitch-color-by-number-mythical-monsters-pack.json"
+    },
+    {
+      "igdb_id": 339714,
+      "game_name": "Pixel Cross Stitch: Color by Number - Mythical Monsters Pack 2",
+      "file": "missing/P/339714-pixel-cross-stitch-color-by-number-mythical-monsters-pack-2.json"
+    },
+    {
       "igdb_id": 383179,
       "game_name": "Pixel Cross Stitch: Color by Number - Simple Nature Pack",
       "file": "missing/P/383179-pixel-cross-stitch-color-by-number-simple-nature-pack.json"
@@ -835740,6 +835955,11 @@
       "igdb_id": 374128,
       "game_name": "Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5",
       "file": "missing/P/374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json"
+    },
+    {
+      "igdb_id": 339715,
+      "game_name": "Pixel Cross Stitch: Color by Number - Spring Pack 3",
+      "file": "missing/P/339715-pixel-cross-stitch-color-by-number-spring-pack-3.json"
     },
     {
       "igdb_id": 361077,
@@ -907695,6 +907915,16 @@
       "igdb_id": 60008,
       "game_name": "Rematch",
       "file": "missing/R/60008-rematch.json"
+    },
+    {
+      "igdb_id": 339720,
+      "game_name": "Rematch: Elite Edition",
+      "file": "missing/R/339720-rematch-elite-edition.json"
+    },
+    {
+      "igdb_id": 339719,
+      "game_name": "Rematch: Pro Edition",
+      "file": "missing/R/339719-rematch-pro-edition.json"
     },
     {
       "igdb_id": 416130,
@@ -1137757,6 +1137987,11 @@
       "file": "missing/T/290011-the-green-room-experiment-episode-3.json"
     },
     {
+      "igdb_id": 340061,
+      "game_name": "The Green Way: Farming Simulator",
+      "file": "missing/T/340061-the-green-way-farming-simulator.json"
+    },
+    {
       "igdb_id": 339972,
       "game_name": "The Greenening",
       "file": "missing/T/339972-the-greenening.json"
@@ -1156065,6 +1156300,16 @@
       "igdb_id": 276377,
       "game_name": "The Pandemonium",
       "file": "missing/T/276377-the-pandemonium.json"
+    },
+    {
+      "igdb_id": 339717,
+      "game_name": "The Pane Puzzle: The Real Challenge DLC 1",
+      "file": "missing/T/339717-the-pane-puzzle-the-real-challenge-dlc-1.json"
+    },
+    {
+      "igdb_id": 339718,
+      "game_name": "The Pane Puzzle: The Real Challenge DLC 2",
+      "file": "missing/T/339718-the-pane-puzzle-the-real-challenge-dlc-2.json"
     },
     {
       "igdb_id": 119720,
@@ -1176955,6 +1177200,11 @@
       "igdb_id": 315296,
       "game_name": "There's No Santa",
       "file": "missing/T/315296-theres-no-santa.json"
+    },
+    {
+      "igdb_id": 339716,
+      "game_name": "There's No Santa: The Extra Presents",
+      "file": "missing/T/339716-theres-no-santa-the-extra-presents.json"
     },
     {
       "igdb_id": 302506,
