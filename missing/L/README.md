@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Barrier | 263114 | [263114-last-barrier.json](./263114-last-barrier.json) |
 | Last Bastion | 186580 | [186580-last-bastion.json](./186580-last-bastion.json) |
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
+| Last Battalion Defense | 386195 | [386195-last-battalion-defense.json](./386195-last-battalion-defense.json) |
 | Last Battle | 27971 | [27971-last-battle.json](./27971-last-battle.json) |
 | Last Battleground: Survival | 77422 | [77422-last-battleground-survival.json](./77422-last-battleground-survival.json) |
 | Last Berserker: Endless War | 81132 | [81132-last-berserker-endless-war.json](./81132-last-berserker-endless-war.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shark Standing | 123903 | [123903-last-shark-standing.json](./123903-last-shark-standing.json) |
 | Last Shelter: Survival | 89754 | [89754-last-shelter-survival.json](./89754-last-shelter-survival.json) |
 | Last Shelter: War Z | 414472 | [414472-last-shelter-war-z.json](./414472-last-shelter-war-z.json) |
+| Last Shift Standing | 386097 | [386097-last-shift-standing.json](./386097-last-shift-standing.json) |
 | Last Shift: Gas Station | 389640 | [389640-last-shift-gas-station.json](./389640-last-shift-gas-station.json) |
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Ship Sailing | 403707 | [403707-last-ship-sailing.json](./403707-last-ship-sailing.json) |
@@ -2041,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Lina | 110521 | [110521-legacy-of-lina.json](./110521-legacy-of-lina.json) |
 | Legacy of Orsinium | 393944 | [393944-legacy-of-orsinium.json](./393944-legacy-of-orsinium.json) |
 | Legacy of Rust | 313118 | [313118-legacy-of-rust.json](./313118-legacy-of-rust.json) |
+| Legacy of Shnaus: Horror Room Escape | 386196 | [386196-legacy-of-shnaus-horror-room-escape.json](./386196-legacy-of-shnaus-horror-room-escape.json) |
 | Legacy of Sin: Ill-Boding | 301243 | [301243-legacy-of-sin-ill-boding.json](./301243-legacy-of-sin-ill-boding.json) |
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
 | Legacy of Svarog | 59050 | [59050-legacy-of-svarog.json](./59050-legacy-of-svarog.json) |
