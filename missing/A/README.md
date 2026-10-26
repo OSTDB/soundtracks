@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Whole Wolfrush | 329682 | [329682-a-whole-wolfrush.json](./329682-a-whole-wolfrush.json) |
 | A Wholesome Game About Farming | 199292 | [199292-a-wholesome-game-about-farming.json](./199292-a-wholesome-game-about-farming.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
+| A Wild Last Boss Appeared!: Black-Winged Survivor | 371248 | [371248-a-wild-last-boss-appeared-black-winged-survivor.json](./371248-a-wild-last-boss-appeared-black-winged-survivor.json) |
 | A Wild Time Travelling Clone Dancing | 128952 | [128952-a-wild-time-travelling-clone-dancing.json](./128952-a-wild-time-travelling-clone-dancing.json) |
 | A Wind-Shaped Love | 415768 | [415768-a-wind-shaped-love.json](./415768-a-wind-shaped-love.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
@@ -5598,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Front | 206107 | [206107-alien-front.json](./206107-alien-front.json) |
 | Alien Front Online | 3711 | [3711-alien-front-online.json](./3711-alien-front-online.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
+| Alien Frontline | 371206 | [371206-alien-frontline.json](./371206-alien-frontline.json) |
 | Alien Fury | 337812 | [337812-alien-fury.json](./337812-alien-fury.json) |
 | Alien Galaxy Clicker | 58255 | [58255-alien-galaxy-clicker.json](./58255-alien-galaxy-clicker.json) |
 | Alien Garden | 23495 | [23495-alien-garden.json](./23495-alien-garden.json) |
