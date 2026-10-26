@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Raiders | 44216 | [44216-reality-raiders.json](./44216-reality-raiders.json) |
 | Reality Rash | 221094 | [221094-reality-rash.json](./221094-reality-rash.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
+| Reality Rivals: The First Season | 374637 | [374637-reality-rivals-the-first-season.json](./374637-reality-rivals-the-first-season.json) |
 | Reality Runner | 68451 | [68451-reality-runner.json](./68451-reality-runner.json) |
 | Reality Stability Office | 401086 | [401086-reality-stability-office.json](./401086-reality-stability-office.json) |
 | Reality-On-The-Norm: The Affair of the Weirdo | 58048 | [58048-reality-on-the-norm-the-affair-of-the-weirdo.json](./58048-reality-on-the-norm-the-affair-of-the-weirdo.json) |
@@ -9218,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
 | Rope'n'Fly 3: Dusk Till Dawn | 330934 | [330934-ropenfly-3-dusk-till-dawn.json](./330934-ropenfly-3-dusk-till-dawn.json) |
 | Rope'n'Fly 4 | 288879 | [288879-ropenfly-4.json](./288879-ropenfly-4.json) |
+| Ropeat | 374566 | [374566-ropeat.json](./374566-ropeat.json) |
 | Ropebound | 327666 | [327666-ropebound.json](./327666-ropebound.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
 | Roped In: Deuces Wild | 319129 | [319129-roped-in-deuces-wild.json](./319129-roped-in-deuces-wild.json) |
@@ -10481,6 +10483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Crazy | 271910 | [271910-running-crazy.json](./271910-running-crazy.json) |
 | Running Education | 148459 | [148459-running-education.json](./148459-running-education.json) |
 | Running Fable | 148254 | [148254-running-fable.json](./148254-running-fable.json) |
+| Running Fable Petite Party | 374575 | [374575-running-fable-petite-party.json](./374575-running-fable-petite-party.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running Fred | 294531 | [294531-running-fred.json](./294531-running-fred.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
