@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Greece | 283041 | [283041-100-cats-greece.json](./283041-100-cats-greece.json) |
 | 100 Cats India | 335190 | [335190-100-cats-india.json](./335190-100-cats-india.json) |
 | 100 Cats Istanbul | 334173 | [334173-100-cats-istanbul.json](./334173-100-cats-istanbul.json) |
+| 100 Cats Italy | 334602 | [334602-100-cats-italy.json](./334602-100-cats-italy.json) |
 | 100 Cats London | 283042 | [283042-100-cats-london.json](./283042-100-cats-london.json) |
 | 100 Cats London: Extra Content | 308930 | [308930-100-cats-london-extra-content.json](./308930-100-cats-london-extra-content.json) |
 | 100 Cats Lost in Argentina Find & Color | 361057 | [361057-100-cats-lost-in-argentina-find-and-color.json](./361057-100-cats-lost-in-argentina-find-and-color.json) |
