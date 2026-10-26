@@ -3031,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
 | Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
+| Next Business Trip | 347054 | [347054-next-business-trip.json](./347054-next-business-trip.json) |
 | Next Day: Survival | 51495 | [51495-next-day-survival.json](./51495-next-day-survival.json) |
 | Next Door: An Eternal World | 188411 | [188411-next-door-an-eternal-world.json](./188411-next-door-an-eternal-world.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Abyss | 222755 | [222755-no-mans-sky-abyss.json](./222755-no-mans-sky-abyss.json) |
 | No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
 | No Man's Sky: Atlas Rises | 222780 | [222780-no-mans-sky-atlas-rises.json](./222780-no-mans-sky-atlas-rises.json) |
+| No Man's Sky: Beacon | 347077 | [347077-no-mans-sky-beacon.json](./347077-no-mans-sky-beacon.json) |
 | No Man's Sky: Companions | 221636 | [221636-no-mans-sky-companions.json](./221636-no-mans-sky-companions.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Echoes | 262883 | [262883-no-mans-sky-echoes.json](./262883-no-mans-sky-echoes.json) |
