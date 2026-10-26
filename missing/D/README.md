@@ -7660,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digitris | 267866 | [267866-digitris.json](./267866-digitris.json) |
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
+| Digitum | 366276 | [366276-digitum.json](./366276-digitum.json) |
 | Digitwars - The Grigits | 101766 | [101766-digitwars-the-grigits.json](./101766-digitwars-the-grigits.json) |
 | Dignacia | 253454 | [253454-dignacia.json](./253454-dignacia.json) |
 | DigRun | 197777 | [197777-digrun.json](./197777-digrun.json) |
@@ -11932,6 +11933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Football 2023 | 213984 | [213984-draft-day-sports-college-football-2023.json](./213984-draft-day-sports-college-football-2023.json) |
 | Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
+| Draft Day Sports: College Football 2026 | 366273 | [366273-draft-day-sports-college-football-2026.json](./366273-draft-day-sports-college-football-2026.json) |
 | Draft Day Sports: Pro Basketball 2016 | 58891 | [58891-draft-day-sports-pro-basketball-2016.json](./58891-draft-day-sports-pro-basketball-2016.json) |
 | Draft Day Sports: Pro Basketball 2019 | 111623 | [111623-draft-day-sports-pro-basketball-2019.json](./111623-draft-day-sports-pro-basketball-2019.json) |
 | Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
@@ -15326,6 +15328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonoid | 147652 | [147652-dungeonoid.json](./147652-dungeonoid.json) |
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
 | DungeonOS | 388132 | [388132-dungeonos.json](./388132-dungeonos.json) |
+| Dungeonought | 366275 | [366275-dungeonought.json](./366275-dungeonought.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
 | DungeonRoute | 369924 | [369924-dungeonroute.json](./369924-dungeonroute.json) |
