@@ -8089,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine For the Gods of Lost Things | 141628 | [141628-shrine-for-the-gods-of-lost-things.json](./141628-shrine-for-the-gods-of-lost-things.json) |
 | Shrine of Haunts | 347336 | [347336-shrine-of-haunts.json](./347336-shrine-of-haunts.json) |
 | Shrine of Tails | 192763 | [192763-shrine-of-tails.json](./192763-shrine-of-tails.json) |
+| Shrine of the Forest God | 333463 | [333463-shrine-of-the-forest-god.json](./333463-shrine-of-the-forest-god.json) |
 | Shrine of the Silver CyberPrimate | 261466 | [261466-shrine-of-the-silver-cyberprimate.json](./261466-shrine-of-the-silver-cyberprimate.json) |
 | Shrine of the Spirits | 231544 | [231544-shrine-of-the-spirits.json](./231544-shrine-of-the-spirits.json) |
 | Shrine of the Spirits: SS Hero | 230881 | [230881-shrine-of-the-spirits-ss-hero.json](./230881-shrine-of-the-spirits-ss-hero.json) |
@@ -10492,6 +10493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Division | 246786 | [246786-sky-division.json](./246786-sky-division.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
+| Sky End Market | 333460 | [333460-sky-end-market.json](./333460-sky-end-market.json) |
 | Sky Escort | 259158 | [259158-sky-escort.json](./259158-sky-escort.json) |
 | Sky Fields | 337770 | [337770-sky-fields.json](./337770-sky-fields.json) |
 | Sky Fields: Goober Gardens | 348708 | [348708-sky-fields-goober-gardens.json](./348708-sky-fields-goober-gardens.json) |
@@ -15618,6 +15620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tides | 425447 | [425447-soul-tides.json](./425447-soul-tides.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
+| Soul Trader | 333476 | [333476-soul-trader.json](./333476-soul-trader.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
 | Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
 | Soul War | 262889 | [262889-soul-war.json](./262889-soul-war.json) |
