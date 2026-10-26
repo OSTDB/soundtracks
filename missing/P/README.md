@@ -4462,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom House | 348112 | [348112-phantom-house.json](./348112-phantom-house.json) |
 | Phantom Hunter | 243157 | [243157-phantom-hunter.json](./243157-phantom-hunter.json) |
 | Phantom II | 40404 | [40404-phantom-ii.json](./40404-phantom-ii.json) |
+| Phantom Incident | 348185 | [348185-phantom-incident.json](./348185-phantom-incident.json) |
 | Phantom Integration | 242386 | [242386-phantom-integration.json](./242386-phantom-integration.json) |
 | Phantom Island | 215333 | [215333-phantom-island.json](./215333-phantom-island.json) |
 | Phantom Jump | 75585 | [75585-phantom-jump.json](./75585-phantom-jump.json) |
@@ -4762,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wrong | 413602 | [413602-phoenix-wrong.json](./413602-phoenix-wrong.json) |
 | Phoenix, Write! | 306483 | [306483-phoenix-write.json](./306483-phoenix-write.json) |
 | Phoenix! | 233641 | [233641-phoenix.json](./233641-phoenix.json) |
+| Phoenix's Faye | 348184 | [348184-phoenixs-faye.json](./348184-phoenixs-faye.json) |
 | Phoenotopia | 313272 | [313272-phoenotopia.json](./313272-phoenotopia.json) |
 | Phoenotopia: Awakening | 136805 | [136805-phoenotopia-awakening.json](./136805-phoenotopia-awakening.json) |
 | Phogs! | 105680 | [105680-phogs.json](./105680-phogs.json) |
@@ -6718,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Force: Halo | 76172 | [76172-pixel-force-halo.json](./76172-pixel-force-halo.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
 | Pixel Forklift Simulator | 183287 | [183287-pixel-forklift-simulator.json](./183287-pixel-forklift-simulator.json) |
+| Pixel Fortress: Tower Defense | 348156 | [348156-pixel-fortress-tower-defense.json](./348156-pixel-fortress-tower-defense.json) |
 | Pixel Frenzy | 326227 | [326227-pixel-frenzy.json](./326227-pixel-frenzy.json) |
 | Pixel Frontier: Tactics | 349106 | [349106-pixel-frontier-tactics.json](./349106-pixel-frontier-tactics.json) |
 | Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
@@ -9780,6 +9783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéROM: Sunflora | 221054 | [221054-pokerom-sunflora.json](./221054-pokerom-sunflora.json) |
 | Pokerrrr 2 | 320179 | [320179-pokerrrr-2.json](./320179-pokerrrr-2.json) |
 | PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
+| Pokertown: Cheater's Paradise | 348164 | [348164-pokertown-cheaters-paradise.json](./348164-pokertown-cheaters-paradise.json) |
 | PokéScape | 342832 | [342832-pokescape.json](./342832-pokescape.json) |
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
