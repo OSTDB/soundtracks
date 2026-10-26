@@ -2566,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Up 64 | 259981 | [259981-only-up-64.json](./259981-only-up-64.json) |
 | Only Up Rush | 312845 | [312845-only-up-rush.json](./312845-only-up-rush.json) |
 | Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
+| Only Up: Parkour Game | 385154 | [385154-only-up-parkour-game.json](./385154-only-up-parkour-game.json) |
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
 | Only Up! | 263896 | [263896-only-up.json](./263896-only-up.json) |
