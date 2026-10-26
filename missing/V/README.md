@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria II: A House Divided | 11038 | [11038-victoria-ii-a-house-divided.json](./11038-victoria-ii-a-house-divided.json) |
 | Victoria II: Heart of Darkness | 11039 | [11039-victoria-ii-heart-of-darkness.json](./11039-victoria-ii-heart-of-darkness.json) |
 | Victoria II: Interwar Cavalry Unit Pack | 226893 | [226893-victoria-ii-interwar-cavalry-unit-pack.json](./226893-victoria-ii-interwar-cavalry-unit-pack.json) |
+| Victoria Kopernik: Mother | 371853 | [371853-victoria-kopernik-mother.json](./371853-victoria-kopernik-mother.json) |
 | Victoria: An Empire Under the Sun | 11036 | [11036-victoria-an-empire-under-the-sun.json](./11036-victoria-an-empire-under-the-sun.json) |
 | Victoria: Revolutions | 11035 | [11035-victoria-revolutions.json](./11035-victoria-revolutions.json) |
 | Victoria's Body | 158655 | [158655-victorias-body.json](./158655-victorias-body.json) |
