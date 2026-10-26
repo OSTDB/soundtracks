@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Quest 2 | 128287 | [128287-your-quest-2.json](./128287-your-quest-2.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
 | Your Roar | 179559 | [179559-your-roar.json](./179559-your-roar.json) |
+| Your Second Wife | 373040 | [373040-your-second-wife.json](./373040-your-second-wife.json) |
 | Your Shape Featuring Jenny McCarthy | 50679 | [50679-your-shape-featuring-jenny-mccarthy.json](./50679-your-shape-featuring-jenny-mccarthy.json) |
 | Your Shape Fitness Evolved 2013 | 28347 | [28347-your-shape-fitness-evolved-2013.json](./28347-your-shape-fitness-evolved-2013.json) |
 | Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
