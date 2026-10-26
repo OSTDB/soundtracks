@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under The Surface | 343457 | [343457-under-the-surface.json](./343457-under-the-surface.json) |
 | Under the Thorns | 304723 | [304723-under-the-thorns.json](./304723-under-the-thorns.json) |
 | Under the Tree | 291027 | [291027-under-the-tree.json](./291027-under-the-tree.json) |
+| Under the Tree 2: Hedgerows | 376506 | [376506-under-the-tree-2-hedgerows.json](./376506-under-the-tree-2-hedgerows.json) |
 | Under the War | 104144 | [104144-under-the-war.json](./104144-under-the-war.json) |
 | Under the Warehouse | 195605 | [195605-under-the-warehouse.json](./195605-under-the-warehouse.json) |
 | Under the Water | 174105 | [174105-under-the-water.json](./174105-under-the-water.json) |
