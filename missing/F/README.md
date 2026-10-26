@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falta | 169764 | [169764-falta.json](./169764-falta.json) |
 | Famaze | 9170 | [9170-famaze.json](./9170-famaze.json) |
 | FamCram | 381197 | [381197-famcram.json](./381197-famcram.json) |
+| Fame | 355066 | [355066-fame.json](./355066-fame.json) |
 | Fame | 67224 | [67224-fame.json](./67224-fame.json) |
 | Fame Academy: Dance Edition | 44721 | [44721-fame-academy-dance-edition.json](./44721-fame-academy-dance-edition.json) |
 | Fame City | 325530 | [325530-fame-city.json](./325530-fame-city.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Mechanic Simulator | 147774 | [147774-farm-mechanic-simulator.json](./147774-farm-mechanic-simulator.json) |
 | Farm Mechanic Simulator 2015 | 53056 | [53056-farm-mechanic-simulator-2015.json](./53056-farm-mechanic-simulator-2015.json) |
 | Farm Merge Valley | 307772 | [307772-farm-merge-valley.json](./307772-farm-merge-valley.json) |
+| Farm of Rage | 355043 | [355043-farm-of-rage.json](./355043-farm-of-rage.json) |
 | Farm of the Unseen | 353382 | [353382-farm-of-the-unseen.json](./353382-farm-of-the-unseen.json) |
 | Farm On! | 96696 | [96696-farm-on.json](./96696-farm-on.json) |
 | Farm Pets Bundle | 272330 | [272330-farm-pets-bundle.json](./272330-farm-pets-bundle.json) |
@@ -10058,6 +10060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frigato: Shadows of the Caribbean | 204842 | [204842-frigato-shadows-of-the-caribbean.json](./204842-frigato-shadows-of-the-caribbean.json) |
 | Fright Animatronics | 391129 | [391129-fright-animatronics.json](./391129-fright-animatronics.json) |
 | Fright Chasers: Director's Cut | 312212 | [312212-fright-chasers-directors-cut.json](./312212-fright-chasers-directors-cut.json) |
+| Fright Chasers: Director's Cut - Collector's Edition | 355603 | [355603-fright-chasers-directors-cut-collectors-edition.json](./355603-fright-chasers-directors-cut-collectors-edition.json) |
 | Fright Chasers: Soul Reaper | 312213 | [312213-fright-chasers-soul-reaper.json](./312213-fright-chasers-soul-reaper.json) |
 | Fright Chasers: Thrills, Chills and Kills | 187905 | [187905-fright-chasers-thrills-chills-and-kills.json](./187905-fright-chasers-thrills-chills-and-kills.json) |
 | Fright Chasers: Thrills, Chills and Kills - Collector's Edition | 168719 | [168719-fright-chasers-thrills-chills-and-kills-collectors-edition.json](./168719-fright-chasers-thrills-chills-and-kills-collectors-edition.json) |
