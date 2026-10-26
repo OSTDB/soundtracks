@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
 | Pacar | 6122 | [6122-pacar.json](./6122-pacar.json) |
 | Pacar Animal | 106479 | [106479-pacar-animal.json](./106479-pacar-animal.json) |
+| Paccarat | 378250 | [378250-paccarat.json](./378250-paccarat.json) |
 | Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
 | Pace Car Pro | 110853 | [110853-pace-car-pro.json](./110853-pace-car-pro.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
