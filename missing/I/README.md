@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Got Trapped in the Succubus's Dream! | 264810 | [264810-i-got-trapped-in-the-succubuss-dream.json](./264810-i-got-trapped-in-the-succubuss-dream.json) |
 | I Got Turned Into a Girl and This Yuri Death Angel Will Only Turn Me Back if I Can Find All the Hidden Props | 395106 | [395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json](./395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json) |
 | I H8 Ur Face | 197910 | [197910-i-h8-ur-face.json](./197910-i-h8-ur-face.json) |
+| I Had a Friend | 351523 | [351523-i-had-a-friend.json](./351523-i-had-a-friend.json) |
 | I Had a Plan! | 245780 | [245780-i-had-a-plan.json](./245780-i-had-a-plan.json) |
 | I Had Another Dream About You Last Night | 142403 | [142403-i-had-another-dream-about-you-last-night.json](./142403-i-had-another-dream-about-you-last-night.json) |
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
@@ -2641,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula: The Last Call Collector's Edition | 53227 | [53227-incredible-dracula-the-last-call-collectors-edition.json](./53227-incredible-dracula-the-last-call-collectors-edition.json) |
 | Incredible Dracula: Vargosi Returns | 125708 | [125708-incredible-dracula-vargosi-returns.json](./125708-incredible-dracula-vargosi-returns.json) |
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
+| Incredible Jack | 351535 | [351535-incredible-jack.json](./351535-incredible-jack.json) |
 | Incredible Monster Prison Escape Police Jail Break | 104582 | [104582-incredible-monster-prison-escape-police-jail-break.json](./104582-incredible-monster-prison-escape-police-jail-break.json) |
 | Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
 | Incredible Shrinking Sphere | 13071 | [13071-incredible-shrinking-sphere.json](./13071-incredible-shrinking-sphere.json) |
