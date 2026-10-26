@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pairs / Space Rendezvous / Logic | 70776 | [70776-pairs-space-rendezvous-logic.json](./70776-pairs-space-rendezvous-logic.json) |
 | Pairs & Perils | 315042 | [315042-pairs-and-perils.json](./315042-pairs-and-perils.json) |
 | Pairs and Rotors | 67394 | [67394-pairs-and-rotors.json](./67394-pairs-and-rotors.json) |
+| Pairs II | 365629 | [365629-pairs-ii.json](./365629-pairs-ii.json) |
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
 | Paisible Soirée au Fil d'Étoiles | 178514 | [178514-paisible-soiree-au-fil-detoiles.json](./178514-paisible-soiree-au-fil-detoiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
@@ -7302,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixletters | 356582 | [356582-pixletters.json](./356582-pixletters.json) |
 | Pixoban | 187790 | [187790-pixoban.json](./187790-pixoban.json) |
 | PixoCities | 120718 | [120718-pixocities.json](./120718-pixocities.json) |
+| Pixoguess | 365628 | [365628-pixoguess.json](./365628-pixoguess.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
 | Pixplorer | 379950 | [379950-pixplorer.json](./379950-pixplorer.json) |
@@ -15265,6 +15267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
 | Puzzle My Mind | 95821 | [95821-puzzle-my-mind.json](./95821-puzzle-my-mind.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
+| Puzzle Nature | 365600 | [365600-puzzle-nature.json](./365600-puzzle-nature.json) |
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
 | Puzzle Nintama Rantarou | 37871 | [37871-puzzle-nintama-rantarou.json](./37871-puzzle-nintama-rantarou.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
