@@ -5088,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
 | The B.L.O.O.M Initiative | 368371 | [368371-the-b-l-o-o-m-initiative.json](./368371-the-b-l-o-o-m-initiative.json) |
+| The Baby is Here | 371856 | [371856-the-baby-is-here.json](./371856-the-baby-is-here.json) |
 | The Baby of Can Guru | 73697 | [73697-the-baby-of-can-guru.json](./73697-the-baby-of-can-guru.json) |
 | The Babysitter | 166037 | [166037-the-babysitter.json](./166037-the-babysitter.json) |
 | The Babysitter | 231454 | [231454-the-babysitter.json](./231454-the-babysitter.json) |
@@ -11194,6 +11195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lust City 2 | 297356 | [297356-the-lust-city-2.json](./297356-the-lust-city-2.json) |
 | The Lust Voyage | 353091 | [353091-the-lust-voyage.json](./353091-the-lust-voyage.json) |
 | The Lustful Champion | 384753 | [384753-the-lustful-champion.json](./384753-the-lustful-champion.json) |
+| The Lustful Touch | 371926 | [371926-the-lustful-touch.json](./371926-the-lustful-touch.json) |
 | The Lychgate | 268919 | [268919-the-lychgate.json](./268919-the-lychgate.json) |
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
 | The M1 Tank Platoon Collection | 227121 | [227121-the-m1-tank-platoon-collection.json](./227121-the-m1-tank-platoon-collection.json) |
@@ -13076,6 +13078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rivers of Alice | 20355 | [20355-the-rivers-of-alice.json](./20355-the-rivers-of-alice.json) |
 | The Rivers of Alice: Extended Version | 34183 | [34183-the-rivers-of-alice-extended-version.json](./34183-the-rivers-of-alice-extended-version.json) |
 | The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
+| The Roach Hotel | 371857 | [371857-the-roach-hotel.json](./371857-the-roach-hotel.json) |
 | The Roach Hotel: Chapter 2 | 412903 | [412903-the-roach-hotel-chapter-2.json](./412903-the-roach-hotel-chapter-2.json) |
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
@@ -16755,6 +16758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
 | This Is Where I Want To Die | 378205 | [378205-this-is-where-i-want-to-die.json](./378205-this-is-where-i-want-to-die.json) |
+| This Is Why We Don't Play Golf | 371932 | [371932-this-is-why-we-dont-play-golf.json](./371932-this-is-why-we-dont-play-golf.json) |
 | This is Your Laser | 183455 | [183455-this-is-your-laser.json](./183455-this-is-your-laser.json) |
 | This is your life now | 183285 | [183285-this-is-your-life-now.json](./183285-this-is-your-life-now.json) |
 | This Is Your World Too | 102052 | [102052-this-is-your-world-too.json](./102052-this-is-your-world-too.json) |
@@ -19450,6 +19454,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker Racers | 129739 | [129739-tinker-racers.json](./129739-tinker-racers.json) |
 | Tinker Tactics | 382545 | [382545-tinker-tactics.json](./382545-tinker-tactics.json) |
 | Tinker Tanks | 247666 | [247666-tinker-tanks.json](./247666-tinker-tanks.json) |
+| Tinker Toy Tanks | 371948 | [371948-tinker-toy-tanks.json](./371948-tinker-toy-tanks.json) |
+| Tinker Toy Theatre | 371951 | [371951-tinker-toy-theatre.json](./371951-tinker-toy-theatre.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkercore | 316686 | [316686-tinkercore.json](./316686-tinkercore.json) |
 | Tinkering Is Enough | 390579 | [390579-tinkering-is-enough.json](./390579-tinkering-is-enough.json) |
@@ -19618,6 +19624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Legends | 373725 | [373725-tiny-legends.json](./373725-tiny-legends.json) |
 | Tiny Legends: Saving Princess | 243169 | [243169-tiny-legends-saving-princess.json](./243169-tiny-legends-saving-princess.json) |
 | Tiny Life | 142348 | [142348-tiny-life.json](./142348-tiny-life.json) |
+| Tiny Light | 371923 | [371923-tiny-light.json](./371923-tiny-light.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
 | Tiny Love | 114880 | [114880-tiny-love.json](./114880-tiny-love.json) |
