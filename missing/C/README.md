@@ -10036,6 +10036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Logic | 221273 | [221273-colorful-logic.json](./221273-colorful-logic.json) |
 | Colorful Logic 2 | 221274 | [221274-colorful-logic-2.json](./221274-colorful-logic-2.json) |
 | Colorful Logic 3 | 221275 | [221275-colorful-logic-3.json](./221275-colorful-logic-3.json) |
+| Colorful Mines =Slide= | 352775 | [352775-colorful-mines-slide.json](./352775-colorful-mines-slide.json) |
 | Colorful Mirai: Spooky Edition | 308962 | [308962-colorful-mirai-spooky-edition.json](./308962-colorful-mirai-spooky-edition.json) |
 | Colorful Party Wars | 201248 | [201248-colorful-party-wars.json](./201248-colorful-party-wars.json) |
 | Colorful Recolor | 208315 | [208315-colorful-recolor.json](./208315-colorful-recolor.json) |
