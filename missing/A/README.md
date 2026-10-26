@@ -8947,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
 | Anomaly Pools | 308605 | [308605-anomaly-pools.json](./308605-anomaly-pools.json) |
 | Anomaly President | 320975 | [320975-anomaly-president.json](./320975-anomaly-president.json) |
+| Anomaly Protocol | 348728 | [348728-anomaly-protocol.json](./348728-anomaly-protocol.json) |
 | Anomaly Report | 257424 | [257424-anomaly-report.json](./257424-anomaly-report.json) |
 | Anomaly Report | 348409 | [348409-anomaly-report.json](./348409-anomaly-report.json) |
 | Anomaly Road | 405709 | [405709-anomaly-road.json](./405709-anomaly-road.json) |
@@ -9720,6 +9721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
 | Apokalipso | 133105 | [133105-apokalipso.json](./133105-apokalipso.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
+| Apokerlypse | 348672 | [348672-apokerlypse.json](./348672-apokerlypse.json) |
 | Apollo | 377104 | [377104-apollo.json](./377104-apollo.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
 | Apollo 11 VR Experience | 19016 | [19016-apollo-11-vr-experience.json](./19016-apollo-11-vr-experience.json) |
@@ -10805,6 +10807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Rings | 352167 | [352167-arcane-rings.json](./352167-arcane-rings.json) |
 | Arcane Rush | 322667 | [322667-arcane-rush.json](./322667-arcane-rush.json) |
 | Arcane Saga Online | 63304 | [63304-arcane-saga-online.json](./63304-arcane-saga-online.json) |
+| Arcane Seekers | 348729 | [348729-arcane-seekers.json](./348729-arcane-seekers.json) |
 | Arcane Shores | 343800 | [343800-arcane-shores.json](./343800-arcane-shores.json) |
 | Arcane Shores | 377111 | [377111-arcane-shores.json](./377111-arcane-shores.json) |
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
@@ -13503,6 +13506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomics | 244168 | [244168-astronomics.json](./244168-astronomics.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astronomy Lab on PC | 391692 | [391692-astronomy-lab-on-pc.json](./391692-astronomy-lab-on-pc.json) |
+| Astronook | 348723 | [348723-astronook.json](./348723-astronook.json) |
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
 | Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
 | AstronTycoon | 100527 | [100527-astrontycoon.json](./100527-astrontycoon.json) |
