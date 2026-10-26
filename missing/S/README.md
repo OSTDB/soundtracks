@@ -3075,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screenside Station | 349089 | [349089-screenside-station.json](./349089-screenside-station.json) |
 | Screeps: Arena | 121571 | [121571-screeps-arena.json](./121571-screeps-arena.json) |
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
+| Screw Box Jam: Bus Out | 338662 | [338662-screw-box-jam-bus-out.json](./338662-screw-box-jam-bus-out.json) |
 | Screw Dive | 362807 | [362807-screw-dive.json](./362807-screw-dive.json) |
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
 | Screw It | 418223 | [418223-screw-it.json](./418223-screw-it.json) |
@@ -7023,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
 | Shin Samurai Jazz | 35636 | [35636-shin-samurai-jazz.json](./35636-shin-samurai-jazz.json) |
 | Shin Sangoku Musou 4 Special | 395999 | [395999-shin-sangoku-musou-4-special.json](./395999-shin-sangoku-musou-4-special.json) |
+| Shin Sangoku Musou Apuri | 338635 | [338635-shin-sangoku-musou-apuri.json](./338635-shin-sangoku-musou-apuri.json) |
 | Shin Sangoku Musou Multi Raid 2: HD Edition | 43050 | [43050-shin-sangoku-musou-multi-raid-2-hd-edition.json](./43050-shin-sangoku-musou-multi-raid-2-hd-edition.json) |
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
 | Shin SD Sengoku-den: Daishogun Retsuden | 38250 | [38250-shin-sd-sengoku-den-daishogun-retsuden.json](./38250-shin-sd-sengoku-den-daishogun-retsuden.json) |
@@ -7883,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shots | 168595 | [168595-shots.json](./168595-shots.json) |
 | Shots Fired | 55221 | [55221-shots-fired.json](./55221-shots-fired.json) |
 | Shots Fired in the Dark Forest | 168593 | [168593-shots-fired-in-the-dark-forest.json](./168593-shots-fired-in-the-dark-forest.json) |
+| ShotSurged | 338630 | [338630-shotsurged.json](./338630-shotsurged.json) |
 | Shotz.io | 125848 | [125848-shotz-io.json](./125848-shotz-io.json) |
 | Shòu'ěr Gōnglüè TFK Faculty | 119641 | [119641-shouer-gonglue-tfk-faculty.json](./119641-shouer-gonglue-tfk-faculty.json) |
 | Shougakusei Atarimae Test | 266161 | [266161-shougakusei-atarimae-test.json](./266161-shougakusei-atarimae-test.json) |
@@ -13132,6 +13135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Blonde | 5171 | [5171-so-blonde.json](./5171-so-blonde.json) |
 | So Far, So High | 191647 | [191647-so-far-so-high.json](./191647-so-far-so-high.json) |
+| So Fart Away | 338631 | [338631-so-fart-away.json](./338631-so-fart-away.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So How About Swapping Our Wives and Disciplining Them? | 98498 | [98498-so-how-about-swapping-our-wives-and-disciplining-them.json](./98498-so-how-about-swapping-our-wives-and-disciplining-them.json) |
 | So I bought a little chainsaw | 367599 | [367599-so-i-bought-a-little-chainsaw.json](./367599-so-i-bought-a-little-chainsaw.json) |
@@ -13233,6 +13237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Director | 141459 | [141459-soccer-director.json](./141459-soccer-director.json) |
 | Soccer Empire: The Dream Begins | 256166 | [256166-soccer-empire-the-dream-begins.json](./256166-soccer-empire-the-dream-begins.json) |
 | Soccer Feeling | 59444 | [59444-soccer-feeling.json](./59444-soccer-feeling.json) |
+| Soccer Field Pro 3D | 338647 | [338647-soccer-field-pro-3d.json](./338647-soccer-field-pro-3d.json) |
 | Soccer for Arcadia 2001 | 131540 | [131540-soccer-for-arcadia-2001.json](./131540-soccer-for-arcadia-2001.json) |
 | Soccer Fury | 67788 | [67788-soccer-fury.json](./67788-soccer-fury.json) |
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
@@ -17372,6 +17377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specimen 134 | 346800 | [346800-specimen-134.json](./346800-specimen-134.json) |
 | Specimen 15 | 263009 | [263009-specimen-15.json](./263009-specimen-15.json) |
 | Specimen 42 | 133829 | [133829-specimen-42.json](./133829-specimen-42.json) |
+| Specimen Zero | 338661 | [338661-specimen-zero.json](./338661-specimen-zero.json) |
 | Speckle: Chill Puzzle Game | 103190 | [103190-speckle-chill-puzzle-game.json](./103190-speckle-chill-puzzle-game.json) |
 | Specnaz 2 | 228329 | [228329-specnaz-2.json](./228329-specnaz-2.json) |
 | Specnaz: Project Wolf | 72789 | [72789-specnaz-project-wolf.json](./72789-specnaz-project-wolf.json) |
@@ -17423,6 +17429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre Divide | 311967 | [311967-spectre-divide.json](./311967-spectre-divide.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre Vigil | 342785 | [342785-spectre-vigil.json](./342785-spectre-vigil.json) |
+| Spectre VR | 338645 | [338645-spectre-vr.json](./338645-spectre-vr.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | SpecTrek | 354367 | [354367-spectrek.json](./354367-spectrek.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
