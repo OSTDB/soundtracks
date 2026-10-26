@@ -7813,6 +7813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy's World | 229001 | [229001-lucys-world.json](./229001-lucys-world.json) |
 | Ludaro | 341535 | [341535-ludaro.json](./341535-ludaro.json) |
 | Luddite Rampage | 349651 | [349651-luddite-rampage.json](./349651-luddite-rampage.json) |
+| Ludesia: Spidering with Scraping | 368984 | [368984-ludesia-spidering-with-scraping.json](./368984-ludesia-spidering-with-scraping.json) |
 | Ludical | 303817 | [303817-ludical.json](./303817-ludical.json) |
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Leap | 289243 | [289243-ludicrous-leap.json](./289243-ludicrous-leap.json) |
