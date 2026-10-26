@@ -6972,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoscript: The Endless End | 369997 | [369997-chronoscript-the-endless-end.json](./369997-chronoscript-the-endless-end.json) |
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
 | Chronostacia | 59155 | [59155-chronostacia.json](./59155-chronostacia.json) |
+| Chronostasis | 378253 | [378253-chronostasis.json](./378253-chronostasis.json) |
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
 | Chronostorm: Siberian Strike | 57992 | [57992-chronostorm-siberian-strike.json](./57992-chronostorm-siberian-strike.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
@@ -8782,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Clover's Space Beat | 313204 | [313204-clovers-space-beat.json](./313204-clovers-space-beat.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
+| Cloverpit: Unholy Fusion | 378232 | [378232-cloverpit-unholy-fusion.json](./378232-cloverpit-unholy-fusion.json) |
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown | 359365 | [359365-clown.json](./359365-clown.json) |
 | Clown | 394087 | [394087-clown.json](./394087-clown.json) |
@@ -15285,6 +15287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Unicorns | 202053 | [202053-crypto-unicorns.json](./202053-crypto-unicorns.json) |
 | Crypto-Fascist | 364561 | [364561-crypto-fascist.json](./364561-crypto-fascist.json) |
 | Crypto-Shots | 221844 | [221844-crypto-shots.json](./221844-crypto-shots.json) |
+| Cryptobiosis | 378257 | [378257-cryptobiosis.json](./378257-cryptobiosis.json) |
 | Cryptobots | 224144 | [224144-cryptobots.json](./224144-cryptobots.json) |
 | CryptoCannoneer | 165128 | [165128-cryptocannoneer.json](./165128-cryptocannoneer.json) |
 | CryptoCars | 178249 | [178249-cryptocars.json](./178249-cryptocars.json) |
