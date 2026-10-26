@@ -3153,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Colony 2 | 153796 | [153796-red-colony-2.json](./153796-red-colony-2.json) |
 | Red Colony 3 | 192073 | [192073-red-colony-3.json](./192073-red-colony-3.json) |
+| Red Colony Trilogy | 381652 | [381652-red-colony-trilogy.json](./381652-red-colony-trilogy.json) |
 | Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
 | Red Comrades 3: Return of Alaska - Reloaded | 30871 | [30871-red-comrades-3-return-of-alaska-reloaded.json](./30871-red-comrades-3-return-of-alaska-reloaded.json) |
 | Red Comrades Save the Galaxy: Reloaded | 27752 | [27752-red-comrades-save-the-galaxy-reloaded.json](./27752-red-comrades-save-the-galaxy-reloaded.json) |
