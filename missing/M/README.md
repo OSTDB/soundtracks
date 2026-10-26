@@ -5506,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat and Metal | 261761 | [261761-meat-and-metal.json](./261761-meat-and-metal.json) |
 | Meat Beating: No More Horny | 156640 | [156640-meat-beating-no-more-horny.json](./156640-meat-beating-no-more-horny.json) |
 | Meat Boy | 92427 | [92427-meat-boy.json](./92427-meat-boy.json) |
+| Meat boy (map pack) | 354462 | [354462-meat-boy-map-pack.json](./354462-meat-boy-map-pack.json) |
 | Meat Cannon Golf | 106660 | [106660-meat-cannon-golf.json](./106660-meat-cannon-golf.json) |
 | Meat Cleaver Mutilator | 125258 | [125258-meat-cleaver-mutilator.json](./125258-meat-cleaver-mutilator.json) |
 | Meat Factory | 276391 | [276391-meat-factory.json](./276391-meat-factory.json) |
