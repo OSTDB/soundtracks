@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Island | 358984 | [358984-killer-island.json](./358984-killer-island.json) |
 | Killer Junkyard | 295894 | [295894-killer-junkyard.json](./295894-killer-junkyard.json) |
 | Killer Karaoke: el juego | 245308 | [245308-killer-karaoke-el-juego.json](./245308-killer-karaoke-el-juego.json) |
+| Killer Karnival | 341712 | [341712-killer-karnival.json](./341712-killer-karnival.json) |
 | Killer Klowns From Outer Space: Fatso | 322739 | [322739-killer-klowns-from-outer-space-fatso.json](./322739-killer-klowns-from-outer-space-fatso.json) |
 | Killer Klowns From Outer Space: Human Klown Cosplay Pack | 304442 | [304442-killer-klowns-from-outer-space-human-klown-cosplay-pack.json](./304442-killer-klowns-from-outer-space-human-klown-cosplay-pack.json) |
 | Killer Klowns From Outer Space: Human Summer Outfit Pack | 322733 | [322733-killer-klowns-from-outer-space-human-summer-outfit-pack.json](./322733-killer-klowns-from-outer-space-human-summer-outfit-pack.json) |
@@ -2348,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
