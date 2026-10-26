@@ -8000,6 +8000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Angel | 37633 | [37633-metal-angel.json](./37633-metal-angel.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Angel II | 37632 | [37632-metal-angel-ii.json](./37632-metal-angel-ii.json) |
+| Metal Antlers | 362866 | [362866-metal-antlers.json](./362866-metal-antlers.json) |
 | Metal Ape Demo | 247888 | [247888-metal-ape-demo.json](./247888-metal-ape-demo.json) |
 | Metal Arms: Glitch in the System | 4004 | [4004-metal-arms-glitch-in-the-system.json](./4004-metal-arms-glitch-in-the-system.json) |
 | Metal Army | 59109 | [59109-metal-army.json](./59109-metal-army.json) |
@@ -8471,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Treasure Hunt Remake | 323999 | [323999-metroid-treasure-hunt-remake.json](./323999-metroid-treasure-hunt-remake.json) |
 | Metroid Vanguard | 331700 | [331700-metroid-vanguard.json](./331700-metroid-vanguard.json) |
 | Metroid X | 267400 | [267400-metroid-x.json](./267400-metroid-x.json) |
+| Metroid Z | 362779 | [362779-metroid-z.json](./362779-metroid-z.json) |
 | Metroid: 3D TechDemo | 324088 | [324088-metroid-3d-techdemo.json](./324088-metroid-3d-techdemo.json) |
 | Metroid: Another Legend | 267399 | [267399-metroid-another-legend.json](./267399-metroid-another-legend.json) |
 | Metroid: Confrontation | 28078 | [28078-metroid-confrontation.json](./28078-metroid-confrontation.json) |
@@ -10792,6 +10794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
 | Minimalism | 29648 | [29648-minimalism.json](./29648-minimalism.json) |
 | Minimalist Box | 367010 | [367010-minimalist-box.json](./367010-minimalist-box.json) |
+| Minimalist Mastery | 362781 | [362781-minimalist-mastery.json](./362781-minimalist-mastery.json) |
 | Minimalist Sudoku | 326295 | [326295-minimalist-sudoku.json](./326295-minimalist-sudoku.json) |
 | Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
 | Minimalist Tower Defense: The Last Tower | 303883 | [303883-minimalist-tower-defense-the-last-tower.json](./303883-minimalist-tower-defense-the-last-tower.json) |
