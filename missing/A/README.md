@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across Icaria | 337794 | [337794-across-icaria.json](./337794-across-icaria.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the demon realm | 150546 | [150546-across-the-demon-realm.json](./150546-across-the-demon-realm.json) |
+| Across the Distant Skies | 337844 | [337844-across-the-distant-skies.json](./337844-across-the-distant-skies.json) |
 | Across the Galaxy: Infinite War | 216780 | [216780-across-the-galaxy-infinite-war.json](./216780-across-the-galaxy-infinite-war.json) |
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
 | Across the Grooves | 121711 | [121711-across-the-grooves.json](./121711-across-the-grooves.json) |
@@ -8072,6 +8073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angevillia | 197322 | [197322-angevillia.json](./197322-angevillia.json) |
 | Angie Magica | 391291 | [391291-angie-magica.json](./391291-angie-magica.json) |
 | Angira Online | 235715 | [235715-angira-online.json](./235715-angira-online.json) |
+| Angkor 5: Volcano's Verge | 337845 | [337845-angkor-5-volcanos-verge.json](./337845-angkor-5-volcanos-verge.json) |
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkor: Celebrations | 151437 | [151437-angkor-celebrations.json](./151437-angkor-celebrations.json) |
 | Angkor: Runefall | 149229 | [149229-angkor-runefall.json](./149229-angkor-runefall.json) |
@@ -14883,7 +14885,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatarika | 29692 | [29692-avatarika.json](./29692-avatarika.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avathar: The Legend of Green Dragon | 62066 | [62066-avathar-the-legend-of-green-dragon.json](./62066-avathar-the-legend-of-green-dragon.json) |
+| Avatour | 337559 | [337559-avatour.json](./337559-avatour.json) |
 | Avatour: Miami - Hide & Seek | 410706 | [410706-avatour-miami-hide-and-seek.json](./410706-avatour-miami-hide-and-seek.json) |
+| Avatour: Vegas | 337562 | [337562-avatour-vegas.json](./337562-avatour-vegas.json) |
 | Avava | 207287 | [207287-avava.json](./207287-avava.json) |
 | AVCStec Challenge | 94587 | [94587-avcstec-challenge.json](./94587-avcstec-challenge.json) |
 | Ave Classic | 355185 | [355185-ave-classic.json](./355185-ave-classic.json) |
