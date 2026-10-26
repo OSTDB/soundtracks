@@ -2992,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
 | Western Redemption | 274383 | [274383-western-redemption.json](./274383-western-redemption.json) |
 | Western Riding Academy | 80469 | [80469-western-riding-academy.json](./80469-western-riding-academy.json) |
+| Western Shadowlands | 362316 | [362316-western-shadowlands.json](./362316-western-shadowlands.json) |
 | Western Slot Machine | 279254 | [279254-western-slot-machine.json](./279254-western-slot-machine.json) |
 | Western U.S. Scenery Set | 131190 | [131190-western-u-s-scenery-set.json](./131190-western-u-s-scenery-set.json) |
 | Western War | 249754 | [249754-western-war.json](./249754-western-war.json) |
@@ -3240,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Would You Choose? Rather | 91145 | [91145-what-would-you-choose-rather.json](./91145-what-would-you-choose-rather.json) |
 | What Would You Do? | 31396 | [31396-what-would-you-do.json](./31396-what-would-you-do.json) |
 | What would you like to have today? | 177855 | [177855-what-would-you-like-to-have-today.json](./177855-what-would-you-like-to-have-today.json) |
+| What You Take With You | 362233 | [362233-what-you-take-with-you.json](./362233-what-you-take-with-you.json) |
 | What-ever Happened to Ruth MacArthur? | 178901 | [178901-what-ever-happened-to-ruth-macarthur.json](./178901-what-ever-happened-to-ruth-macarthur.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
 | What's a King to a God | 325899 | [325899-whats-a-king-to-a-god.json](./325899-whats-a-king-to-a-god.json) |
