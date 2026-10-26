@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Fire | 215195 | [215195-lands-of-fire.json](./215195-lands-of-fire.json) |
 | Lands of Havoc | 15244 | [15244-lands-of-havoc.json](./15244-lands-of-havoc.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
+| Lands of Jail | 381063 | [381063-lands-of-jail.json](./381063-lands-of-jail.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
 | Lands of Lore: Guardians of Destiny | 2494 | [2494-lands-of-lore-guardians-of-destiny.json](./2494-lands-of-lore-guardians-of-destiny.json) |
 | Lands of Lore: The Throne of Chaos | 2528 | [2528-lands-of-lore-the-throne-of-chaos.json](./2528-lands-of-lore-the-throne-of-chaos.json) |
@@ -7633,6 +7634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
 | Lucid Dreams | 403918 | [403918-lucid-dreams.json](./403918-lucid-dreams.json) |
 | Lucid Echoes | 275537 | [275537-lucid-echoes.json](./275537-lucid-echoes.json) |
+| Lucid Falls | 381075 | [381075-lucid-falls.json](./381075-lucid-falls.json) |
 | Lucid Lucy | 228957 | [228957-lucid-lucy.json](./228957-lucid-lucy.json) |
 | Lucid Night | 277800 | [277800-lucid-night.json](./277800-lucid-night.json) |
 | Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
