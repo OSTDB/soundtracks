@@ -6510,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cube and His Adventure | 53722 | [53722-the-cube-and-his-adventure.json](./53722-the-cube-and-his-adventure.json) |
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
 | The Cube Hotel: Ning's Wing 2 | 31059 | [31059-the-cube-hotel-nings-wing-2.json](./31059-the-cube-hotel-nings-wing-2.json) |
+| The Cube, Save Us | 366870 | [366870-the-cube-save-us.json](./366870-the-cube-save-us.json) |
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
 | The Cubes | 373067 | [373067-the-cubes.json](./373067-the-cubes.json) |
 | The Cubicle. | 33273 | [33273-the-cubicle.json](./33273-the-cubicle.json) |
@@ -9594,6 +9595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jungle Book | 248190 | [248190-the-jungle-book.json](./248190-the-jungle-book.json) |
 | The Jungle Book 2 | 186649 | [186649-the-jungle-book-2.json](./186649-the-jungle-book-2.json) |
 | The Jungle Book: Mowgli's Run | 58644 | [58644-the-jungle-book-mowglis-run.json](./58644-the-jungle-book-mowglis-run.json) |
+| The Jungle Challenge | 366776 | [366776-the-jungle-challenge.json](./366776-the-jungle-challenge.json) |
 | The Junkyard | 337509 | [337509-the-junkyard.json](./337509-the-junkyard.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
 | The Jusou | 260595 | [260595-the-jusou.json](./260595-the-jusou.json) |
@@ -25241,6 +25243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
 | Treasure Arena | 62074 | [62074-treasure-arena.json](./62074-treasure-arena.json) |
 | Treasure at the Top | 55669 | [55669-treasure-at-the-top.json](./55669-treasure-at-the-top.json) |
+| Treasure Beach | 366948 | [366948-treasure-beach.json](./366948-treasure-beach.json) |
 | Treasure Blast Quest | 398030 | [398030-treasure-blast-quest.json](./398030-treasure-blast-quest.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Buster | 230217 | [230217-treasure-buster.json](./230217-treasure-buster.json) |
@@ -25420,6 +25423,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trees Hate You | 382400 | [382400-trees-hate-you.json](./382400-trees-hate-you.json) |
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
+| Treflix: All for Kids | 366777 | [366777-treflix-all-for-kids.json](./366777-treflix-all-for-kids.json) |
+| Treflix: Comic Book Shame | 366789 | [366789-treflix-comic-book-shame.json](./366789-treflix-comic-book-shame.json) |
 | Treflix: Mini Games | 329433 | [329433-treflix-mini-games.json](./329433-treflix-mini-games.json) |
 | Treis Zoes | 129080 | [129080-treis-zoes.json](./129080-treis-zoes.json) |
 | Trek to Yomi: Deluxe Edition | 234208 | [234208-trek-to-yomi-deluxe-edition.json](./234208-trek-to-yomi-deluxe-edition.json) |
