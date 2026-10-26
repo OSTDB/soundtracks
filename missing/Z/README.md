@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Nippon Pro Wrestling: Ouja no Tamashii | 45073 | [45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json](./45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json) |
 | Zen-Nippon Shounen Soccer Taikai: Mezase Nippon Ichi! | 59051 | [59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json](./59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json) |
 | Zen: A Gay Sequel | 166048 | [166048-zen-a-gay-sequel.json](./166048-zen-a-gay-sequel.json) |
+| Zen: Intergalactic Ninja | 365633 | [365633-zen-intergalactic-ninja.json](./365633-zen-intergalactic-ninja.json) |
 | Zen: Intergalactic Ninja | 48251 | [48251-zen-intergalactic-ninja.json](./48251-zen-intergalactic-ninja.json) |
 | Zen! | 91331 | [91331-zen.json](./91331-zen.json) |
 | Zen! Slider | 151100 | [151100-zen-slider.json](./151100-zen-slider.json) |
