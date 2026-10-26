@@ -6958,6 +6958,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks 2.0 | 361878 | [361878-world-of-tanks-2-0.json](./361878-world-of-tanks-2-0.json) |
 | World of Tanks Blitz: Tier V Tank and Bonuses Pack! | 316237 | [316237-world-of-tanks-blitz-tier-v-tank-and-bonuses-pack.json](./316237-world-of-tanks-blitz-tier-v-tank-and-bonuses-pack.json) |
 | World of Tanks Generals | 77961 | [77961-world-of-tanks-generals.json](./77961-world-of-tanks-generals.json) |
+| World of Tanks Modern Armor - Supreme Beast | 335186 | [335186-world-of-tanks-modern-armor-supreme-beast.json](./335186-world-of-tanks-modern-armor-supreme-beast.json) |
+| World of Tanks Modern Armor - Tactical Expert | 335185 | [335185-world-of-tanks-modern-armor-tactical-expert.json](./335185-world-of-tanks-modern-armor-tactical-expert.json) |
 | World of Tanks: Advanced Marksman | 293765 | [293765-world-of-tanks-advanced-marksman.json](./293765-world-of-tanks-advanced-marksman.json) |
 | World of Tanks: Blitz | 7393 | [7393-world-of-tanks-blitz.json](./7393-world-of-tanks-blitz.json) |
 | World of Tanks: Blitz - Free Pack | 171010 | [171010-world-of-tanks-blitz-free-pack.json](./171010-world-of-tanks-blitz-free-pack.json) |
