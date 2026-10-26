@@ -4304,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell Phone Love Letter | 256330 | [256330-cell-phone-love-letter.json](./256330-cell-phone-love-letter.json) |
 | Cell Scientist: Beyond | 217345 | [217345-cell-scientist-beyond.json](./217345-cell-scientist-beyond.json) |
 | Cell Survivor | 388283 | [388283-cell-survivor.json](./388283-cell-survivor.json) |
+| Cell Sword | 344304 | [344304-cell-sword.json](./344304-cell-sword.json) |
 | Cell to Singularity | 112925 | [112925-cell-to-singularity.json](./112925-cell-to-singularity.json) |
 | Cell to Singularity: Evolution | 259562 | [259562-cell-to-singularity-evolution.json](./259562-cell-to-singularity-evolution.json) |
 | Cell Tune | 134618 | [134618-cell-tune.json](./134618-cell-tune.json) |
@@ -4546,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainDive | 66743 | [66743-chaindive.json](./66743-chaindive.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
+| Chained Beasts | 344588 | [344588-chained-beasts.json](./344588-chained-beasts.json) |
 | Chained Bikes: Mega Ramp Stunts | 100835 | [100835-chained-bikes-mega-ramp-stunts.json](./100835-chained-bikes-mega-ramp-stunts.json) |
 | Chained Cars | 401380 | [401380-chained-cars.json](./401380-chained-cars.json) |
 | Chained Cucumber | 270541 | [270541-chained-cucumber.json](./270541-chained-cucumber.json) |
