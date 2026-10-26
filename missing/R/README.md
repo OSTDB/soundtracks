@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randal's House | 308467 | [308467-randals-house.json](./308467-randals-house.json) |
 | Randal's Monday | 8783 | [8783-randals-monday.json](./8783-randals-monday.json) |
 | Randal's Tuesday | 248200 | [248200-randals-tuesday.json](./248200-randals-tuesday.json) |
+| Randall the Grape Jelly Cube Goes to Soda Valley for Some Reason | 384556 | [384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json](./384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json) |
 | Randamn | 23936 | [23936-randamn.json](./23936-randamn.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Rando'Knights | 275491 | [275491-randoknights.json](./275491-randoknights.json) |
@@ -2762,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Duet | 275837 | [275837-rebel-duet.json](./275837-rebel-duet.json) |
 | Rebel Engine | 201529 | [201529-rebel-engine.json](./201529-rebel-engine.json) |
 | Rebel Engine | 374272 | [374272-rebel-engine.json](./374272-rebel-engine.json) |
+| Rebel Fury | 384562 | [384562-rebel-fury.json](./384562-rebel-fury.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Galaxy Outlaw | 107318 | [107318-rebel-galaxy-outlaw.json](./107318-rebel-galaxy-outlaw.json) |
 | Rebel Inc: Escalation - Dollars & Disasters | 237252 | [237252-rebel-inc-escalation-dollars-and-disasters.json](./237252-rebel-inc-escalation-dollars-and-disasters.json) |
@@ -2975,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reconnoitre | 270128 | [270128-reconnoitre.json](./270128-reconnoitre.json) |
 | Reconquer Online | 319734 | [319734-reconquer-online.json](./319734-reconquer-online.json) |
 | Reconquista | 319242 | [319242-reconquista.json](./319242-reconquista.json) |
+| Reconquista | 384598 | [384598-reconquista.json](./384598-reconquista.json) |
 | Reconstruction | 130101 | [130101-reconstruction.json](./130101-reconstruction.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Recontact London: Cyber Puzzle | 160244 | [160244-recontact-london-cyber-puzzle.json](./160244-recontact-london-cyber-puzzle.json) |
@@ -5377,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
 | Reversary | 204197 | [204197-reversary.json](./204197-reversary.json) |
 | Reverse | 153147 | [153147-reverse.json](./153147-reverse.json) |
+| Reverse 1999: A Flowing Feast | 384575 | [384575-reverse-1999-a-flowing-feast.json](./384575-reverse-1999-a-flowing-feast.json) |
 | Reverse 1999: A Long Long Way | 374300 | [374300-reverse-1999-a-long-long-way.json](./374300-reverse-1999-a-long-long-way.json) |
 | Reverse 1999: A Nightmare at Green Lake | 279786 | [279786-reverse-1999-a-nightmare-at-green-lake.json](./279786-reverse-1999-a-nightmare-at-green-lake.json) |
 | Reverse 1999: Chronicles of Uluru: London Dawning | 343348 | [343348-reverse-1999-chronicles-of-uluru-london-dawning.json](./343348-reverse-1999-chronicles-of-uluru-london-dawning.json) |
@@ -10388,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runflexio: Exhibition Version | 183330 | [183330-runflexio-exhibition-version.json](./183330-runflexio-exhibition-version.json) |
 | Rungore | 220488 | [220488-rungore.json](./220488-rungore.json) |
 | Rungore: Beginner Experience | 214974 | [214974-rungore-beginner-experience.json](./214974-rungore-beginner-experience.json) |
+| RunGx | 384593 | [384593-rungx.json](./384593-rungx.json) |
 | RunGX mini | 391011 | [391011-rungx-mini.json](./391011-rungx-mini.json) |
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic | 215881 | [215881-runic.json](./215881-runic.json) |
