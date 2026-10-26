@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of TianYuan Dynasty | 220747 | [220747-tales-of-tianyuan-dynasty.json](./220747-tales-of-tianyuan-dynasty.json) |
 | Tales of Tirunia | 379430 | [379430-tales-of-tirunia.json](./379430-tales-of-tirunia.json) |
 | Tales of Tonbrook | 360336 | [360336-tales-of-tonbrook.json](./360336-tales-of-tonbrook.json) |
+| Tales of Tuscany | 341407 | [341407-tales-of-tuscany.json](./341407-tales-of-tuscany.json) |
 | Tales of Tyria | 135808 | [135808-tales-of-tyria.json](./135808-tales-of-tyria.json) |
 | Tales of Valkyrie | 379436 | [379436-tales-of-valkyrie.json](./379436-tales-of-valkyrie.json) |
 | Tales of Valoris: Swallow's Defenders | 330265 | [330265-tales-of-valoris-swallows-defenders.json](./330265-tales-of-valoris-swallows-defenders.json) |
@@ -7331,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls IV: Oblivion - The Wizard's Tower | 120640 | [120640-the-elder-scrolls-iv-oblivion-the-wizards-tower.json](./120640-the-elder-scrolls-iv-oblivion-the-wizards-tower.json) |
 | The Elder Scrolls IV: Oblivion Mobile | 209010 | [209010-the-elder-scrolls-iv-oblivion-mobile.json](./209010-the-elder-scrolls-iv-oblivion-mobile.json) |
 | The Elder Scrolls IV: Oblivion Remastered | 267306 | [267306-the-elder-scrolls-iv-oblivion-remastered.json](./267306-the-elder-scrolls-iv-oblivion-remastered.json) |
+| The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition | 341402 | [341402-the-elder-scrolls-iv-oblivion-remastered-deluxe-edition.json](./341402-the-elder-scrolls-iv-oblivion-remastered-deluxe-edition.json) |
 | The Elder Scrolls IV: Shivering Isles | 894 | [894-the-elder-scrolls-iv-shivering-isles.json](./894-the-elder-scrolls-iv-shivering-isles.json) |
 | The Elder Scrolls Legends: Moons of Elsweyr | 119311 | [119311-the-elder-scrolls-legends-moons-of-elsweyr.json](./119311-the-elder-scrolls-legends-moons-of-elsweyr.json) |
 | The Elder Scrolls Online Collection: Gold Road | 306484 | [306484-the-elder-scrolls-online-collection-gold-road.json](./306484-the-elder-scrolls-online-collection-gold-road.json) |
@@ -10308,6 +10310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Song of Witch | 398371 | [398371-the-last-song-of-witch.json](./398371-the-last-song-of-witch.json) |
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
+| The Last Spell: Elves of Amberwald | 341399 | [341399-the-last-spell-elves-of-amberwald.json](./341399-the-last-spell-elves-of-amberwald.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
 | The Last Spin | 298632 | [298632-the-last-spin.json](./298632-the-last-spin.json) |
 | The Last Squad | 349107 | [349107-the-last-squad.json](./349107-the-last-squad.json) |
@@ -13770,6 +13773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
 | The Showdown Effect: Deluxe Edition | 53779 | [53779-the-showdown-effect-deluxe-edition.json](./53779-the-showdown-effect-deluxe-edition.json) |
 | The Showdown Effect: Reloaded | 289807 | [289807-the-showdown-effect-reloaded.json](./289807-the-showdown-effect-reloaded.json) |
+| The Shrimp Crematorium | 341418 | [341418-the-shrimp-crematorium.json](./341418-the-shrimp-crematorium.json) |
 | The Shrink Season Two | 385904 | [385904-the-shrink-season-two.json](./385904-the-shrink-season-two.json) |
 | The Shroom Project | 320236 | [320236-the-shroom-project.json](./320236-the-shroom-project.json) |
 | The Shrouded Isle | 25661 | [25661-the-shrouded-isle.json](./25661-the-shrouded-isle.json) |
@@ -20240,6 +20244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Farm Lands: Sowing Fields | 399652 | [399652-to-farm-lands-sowing-fields.json](./399652-to-farm-lands-sowing-fields.json) |
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
+| To Find Her | 341715 | [341715-to-find-her.json](./341715-to-find-her.json) |
 | To Get There | 348828 | [348828-to-get-there.json](./348828-to-get-there.json) |
 | To Grant a Wish | 350889 | [350889-to-grant-a-wish.json](./350889-to-grant-a-wish.json) |
 | To Have and to Hold | 260317 | [260317-to-have-and-to-hold.json](./260317-to-have-and-to-hold.json) |
