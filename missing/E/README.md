@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg | 231737 | [231737-egg.json](./231737-egg.json) |
 | Egg | 285669 | [285669-egg.json](./285669-egg.json) |
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
+| Egg | 349788 | [349788-egg.json](./349788-egg.json) |
 | Egg Baby | 353757 | [353757-egg-baby.json](./353757-egg-baby.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
 | Egg Collector | 246497 | [246497-egg-collector.json](./246497-egg-collector.json) |
@@ -2075,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Bowling 7 1/7: The Last Insult | 56539 | [56539-elf-bowling-7-1-7-the-last-insult.json](./56539-elf-bowling-7-1-7-the-last-insult.json) |
 | Elf Bowling: Collector's Edition | 61343 | [61343-elf-bowling-collectors-edition.json](./61343-elf-bowling-collectors-edition.json) |
 | Elf Cat Jeff | 185425 | [185425-elf-cat-jeff.json](./185425-elf-cat-jeff.json) |
+| Elf Clash | 349741 | [349741-elf-clash.json](./349741-elf-clash.json) |
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
 | Elf Gets Pissed | 261183 | [261183-elf-gets-pissed.json](./261183-elf-gets-pissed.json) |
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
@@ -5274,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Sim Driver Simulator 24: Garbage | 322424 | [322424-euro-truck-sim-driver-simulator-24-garbage.json](./322424-euro-truck-sim-driver-simulator-24-garbage.json) |
 | Euro Truck Simulator | 6653 | [6653-euro-truck-simulator.json](./6653-euro-truck-simulator.json) |
 | Euro Truck Simulator 2: Beyond the Baltic Sea | 125011 | [125011-euro-truck-simulator-2-beyond-the-baltic-sea.json](./125011-euro-truck-simulator-2-beyond-the-baltic-sea.json) |
+| Euro Truck Simulator 2: Coaches | 349790 | [349790-euro-truck-simulator-2-coaches.json](./349790-euro-truck-simulator-2-coaches.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Essentials | 52976 | [52976-euro-truck-simulator-2-essentials.json](./52976-euro-truck-simulator-2-essentials.json) |
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
@@ -5284,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
 | Euro Truck Simulator 2: Heavy Cargo | 136172 | [136172-euro-truck-simulator-2-heavy-cargo.json](./136172-euro-truck-simulator-2-heavy-cargo.json) |
 | Euro Truck Simulator 2: Iberia | 145585 | [145585-euro-truck-simulator-2-iberia.json](./145585-euro-truck-simulator-2-iberia.json) |
+| Euro Truck Simulator 2: Iceland | 349765 | [349765-euro-truck-simulator-2-iceland.json](./349765-euro-truck-simulator-2-iceland.json) |
 | Euro Truck Simulator 2: Isle of Ireland | 375302 | [375302-euro-truck-simulator-2-isle-of-ireland.json](./375302-euro-truck-simulator-2-isle-of-ireland.json) |
 | Euro Truck Simulator 2: Italia | 76432 | [76432-euro-truck-simulator-2-italia.json](./76432-euro-truck-simulator-2-italia.json) |
 | Euro Truck Simulator 2: JCB Equipment Pack | 302495 | [302495-euro-truck-simulator-2-jcb-equipment-pack.json](./302495-euro-truck-simulator-2-jcb-equipment-pack.json) |
