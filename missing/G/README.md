@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gender Bender | 55614 | [55614-gender-bender.json](./55614-gender-bender.json) |
 | Gender Bender DNA Twister Extreme | 17795 | [17795-gender-bender-dna-twister-extreme.json](./17795-gender-bender-dna-twister-extreme.json) |
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
+| Gender Dysphoria | 335208 | [335208-gender-dysphoria.json](./335208-gender-dysphoria.json) |
 | Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
 | Gender Lab Escape Simulator 2030 | 178469 | [178469-gender-lab-escape-simulator-2030.json](./178469-gender-lab-escape-simulator-2030.json) |
 | Gender Neutral Chess | 301702 | [301702-gender-neutral-chess.json](./301702-gender-neutral-chess.json) |
