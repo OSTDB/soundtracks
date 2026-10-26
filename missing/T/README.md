@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoo Design Studio: Fun Game | 89156 | [89156-tattoo-design-studio-fun-game.json](./89156-tattoo-design-studio-fun-game.json) |
 | Tattoo Mania | 77239 | [77239-tattoo-mania.json](./77239-tattoo-mania.json) |
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
+| Tattoo Shop Simulator | 382154 | [382154-tattoo-shop-simulator.json](./382154-tattoo-shop-simulator.json) |
 | Tattoo Studio Simulator | 371414 | [371414-tattoo-studio-simulator.json](./371414-tattoo-studio-simulator.json) |
 | Tattoo Tycoon | 312271 | [312271-tattoo-tycoon.json](./312271-tattoo-tycoon.json) |
 | Tattoon Master | 362978 | [362978-tattoon-master.json](./362978-tattoon-master.json) |
@@ -3504,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi Doumei | 63390 | [63390-tenshi-doumei.json](./63390-tenshi-doumei.json) |
 | Tenshi Na Konamaiki | 167121 | [167121-tenshi-na-konamaiki.json](./167121-tenshi-na-konamaiki.json) |
 | Tenshi no Inai 12-gatsu | 148442 | [148442-tenshi-no-inai-12-gatsu.json](./148442-tenshi-no-inai-12-gatsu.json) |
+| Tenshi no Kakera: The Lost Article of Memory | 382246 | [382246-tenshi-no-kakera-the-lost-article-of-memory.json](./382246-tenshi-no-kakera-the-lost-article-of-memory.json) |
 | Tenshi no Oshigoto: Their Wishes Afterward | 336494 | [336494-tenshi-no-oshigoto-their-wishes-afterward.json](./336494-tenshi-no-oshigoto-their-wishes-afterward.json) |
 | Tenshi no Shippo | 167118 | [167118-tenshi-no-shippo.json](./167118-tenshi-no-shippo.json) |
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
@@ -8785,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heist mobile | 83914 | [83914-the-heist-mobile.json](./83914-the-heist-mobile.json) |
 | The Heist of the Argonaut Limited | 305347 | [305347-the-heist-of-the-argonaut-limited.json](./305347-the-heist-of-the-argonaut-limited.json) |
 | The Heist: Monaco | 313820 | [313820-the-heist-monaco.json](./313820-the-heist-monaco.json) |
+| The Helios Incident | 382257 | [382257-the-helios-incident.json](./382257-the-helios-incident.json) |
 | The Hell Hives | 156053 | [156053-the-hell-hives.json](./156053-the-hell-hives.json) |
 | The Hell in I | 301830 | [301830-the-hell-in-i.json](./301830-the-hell-in-i.json) |
 | The Hell in Vietnam | 27620 | [27620-the-hell-in-vietnam.json](./27620-the-hell-in-vietnam.json) |
