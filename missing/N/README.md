@@ -3477,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicolay's Adventure | 29734 | [29734-nicolays-adventure.json](./29734-nicolays-adventure.json) |
 | Nicole | 62592 | [62592-nicole.json](./62592-nicole.json) |
 | Nicole's Risky Job | 210466 | [210466-nicoles-risky-job.json](./210466-nicoles-risky-job.json) |
+| Niconico-san | 341713 | [341713-niconico-san.json](./341713-niconico-san.json) |
 | Niconotes the Whoo! | 149887 | [149887-niconotes-the-whoo.json](./149887-niconotes-the-whoo.json) |
 | Nicotine Merchant Simulator | 415193 | [415193-nicotine-merchant-simulator.json](./415193-nicotine-merchant-simulator.json) |
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
