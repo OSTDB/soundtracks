@@ -6566,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Nanmon Nazotoki Chousenjou | 251511 | [251511-chou-nanmon-nazotoki-chousenjou.json](./251511-chou-nanmon-nazotoki-chousenjou.json) |
 | Chou Sentou-chuu: Battle for Money | 280328 | [280328-chou-sentou-chuu-battle-for-money.json](./280328-chou-sentou-chuu-battle-for-money.json) |
 | Chou Shin Jikuu Geimu Neptune: Unlimited | 395340 | [395340-chou-shin-jikuu-geimu-neptune-unlimited.json](./395340-chou-shin-jikuu-geimu-neptune-unlimited.json) |
+| Chou Shogi | 361583 | [361583-chou-shogi.json](./361583-chou-shogi.json) |
 | Chou Tousouchuu & Chou Sentouchuu Double Pack | 107656 | [107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json](./107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json) |
 | Chou Yakkyou Miracle Nine | 45541 | [45541-chou-yakkyou-miracle-nine.json](./45541-chou-yakkyou-miracle-nine.json) |
 | Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou | 37700 | [37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json](./37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json) |
@@ -12891,6 +12892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coven of the Chicken Foot | 381218 | [381218-coven-of-the-chicken-foot.json](./381218-coven-of-the-chicken-foot.json) |
 | Coven: All Powerful | 351562 | [351562-coven-all-powerful.json](./351562-coven-all-powerful.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
+| Covenant 21 | 361572 | [361572-covenant-21.json](./361572-covenant-21.json) |
 | Covenant Cards | 395976 | [395976-covenant-cards.json](./395976-covenant-cards.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
 | Covenant of Solitude | 200936 | [200936-covenant-of-solitude.json](./200936-covenant-of-solitude.json) |
@@ -15898,6 +15900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubeventure | 144865 | [144865-cubeventure.json](./144865-cubeventure.json) |
 | Cubeverse | 109397 | [109397-cubeverse.json](./109397-cubeverse.json) |
 | CubeWorks | 61890 | [61890-cubeworks.json](./61890-cubeworks.json) |
+| Cubex | 361575 | [361575-cubex.json](./361575-cubex.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | CubeyCollect | 387741 | [387741-cubeycollect.json](./387741-cubeycollect.json) |
