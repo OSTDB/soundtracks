@@ -3997,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent girl | 81668 | [81668-agent-girl.json](./81668-agent-girl.json) |
 | Agent Gone... Fishing VR | 182789 | [182789-agent-gone-fishing-vr.json](./182789-agent-gone-fishing-vr.json) |
 | Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
+| Agent Hawk | 338655 | [338655-agent-hawk.json](./338655-agent-hawk.json) |
 | Agent Heart: Deception | 259180 | [259180-agent-heart-deception.json](./259180-agent-heart-deception.json) |
 | Agent Horny: Season 1 | 384893 | [384893-agent-horny-season-1.json](./384893-agent-horny-season-1.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
@@ -4412,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Bob | 266637 | [266637-air-bob.json](./266637-air-bob.json) |
 | Air Bounce: The Jump 'n' Run Challenge | 142697 | [142697-air-bounce-the-jump-n-run-challenge.json](./142697-air-bounce-the-jump-n-run-challenge.json) |
 | Air Brawl | 35081 | [35081-air-brawl.json](./35081-air-brawl.json) |
+| Air Brigade | 338656 | [338656-air-brigade.json](./338656-air-brigade.json) |
 | Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
 | Air Cavalry PRO | 88128 | [88128-air-cavalry-pro.json](./88128-air-cavalry-pro.json) |
 | Air Cavalry: Flight Simulator | 246427 | [246427-air-cavalry-flight-simulator.json](./246427-air-cavalry-flight-simulator.json) |
@@ -13248,6 +13250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
 | Astraeus Odyssey | 365307 | [365307-astraeus-odyssey.json](./365307-astraeus-odyssey.json) |
+| Astrafall | 338653 | [338653-astrafall.json](./338653-astrafall.json) |
 | Astragali | 330861 | [330861-astragali.json](./330861-astragali.json) |
 | Astragaloi | 388160 | [388160-astragaloi.json](./388160-astragaloi.json) |
 | Astraia Land | 311188 | [311188-astraia-land.json](./311188-astraia-land.json) |
