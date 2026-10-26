@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bae Bash! The Chaos Collection | 372066 | [372066-bae-bash-the-chaos-collection.json](./372066-bae-bash-the-chaos-collection.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Date-Hen | 269660 | [269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json](./269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Test-Hen | 269659 | [269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json](./269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json) |
+| Bael's Rock | 368977 | [368977-baels-rock.json](./368977-baels-rock.json) |
 | Baezult | 31846 | [31846-baezult.json](./31846-baezult.json) |
 | Baezult 2 | 30832 | [30832-baezult-2.json](./30832-baezult-2.json) |
 | Baff | 118340 | [118340-baff.json](./118340-baff.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Ride | 412625 | [412625-balloon-ride.json](./412625-balloon-ride.json) |
 | Balloon Slider Mania | 307371 | [307371-balloon-slider-mania.json](./307371-balloon-slider-mania.json) |
 | Balloon Smash | 130693 | [130693-balloon-smash.json](./130693-balloon-smash.json) |
+| Balloon Star | 368980 | [368980-balloon-star.json](./368980-balloon-star.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
@@ -7349,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biztopia | 323774 | [323774-biztopia.json](./323774-biztopia.json) |
 | Bizy Beezzzz | 60207 | [60207-bizy-beezzzz.json](./60207-bizy-beezzzz.json) |
 | Bizzare | 212757 | [212757-bizzare.json](./212757-bizzare.json) |
+| Bizzare Cat Rescuer | 368969 | [368969-bizzare-cat-rescuer.json](./368969-bizzare-cat-rescuer.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Bizzy Robo | 259030 | [259030-bizzy-robo.json](./259030-bizzy-robo.json) |
 | BJ's Bara Jam Kitchen | 183889 | [183889-bjs-bara-jam-kitchen.json](./183889-bjs-bara-jam-kitchen.json) |
@@ -9552,6 +9555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooper's Revenge DX | 321671 | [321671-bloopers-revenge-dx.json](./321671-bloopers-revenge-dx.json) |
 | Bloops Game | 175744 | [175744-bloops-game.json](./175744-bloops-game.json) |
 | Bloopy & Droopy | 168685 | [168685-bloopy-and-droopy.json](./168685-bloopy-and-droopy.json) |
+| Blop | 368979 | [368979-blop.json](./368979-blop.json) |
 | Blopper | 287236 | [287236-blopper.json](./287236-blopper.json) |
 | Blopy Ventures N0 | 413160 | [413160-blopy-ventures-n0.json](./413160-blopy-ventures-n0.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
@@ -12771,6 +12775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brew or Die | 356999 | [356999-brew-or-die.json](./356999-brew-or-die.json) |
 | Brew Town | 96583 | [96583-brew-town.json](./96583-brew-town.json) |
 | Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
+| Brew! | 369001 | [369001-brew.json](./369001-brew.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
 | Brewer | 117386 | [117386-brewer.json](./117386-brewer.json) |
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
