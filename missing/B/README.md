@@ -11522,6 +11522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Cars | 186178 | [186178-bouncy-cars.json](./186178-bouncy-cars.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
+| Bouncy Click | 366274 | [366274-bouncy-click.json](./366274-bouncy-click.json) |
 | Bouncy Cloud | 156724 | [156724-bouncy-cloud.json](./156724-bouncy-cloud.json) |
 | Bouncy Ducks | 69476 | [69476-bouncy-ducks.json](./69476-bouncy-ducks.json) |
 | Bouncy Egg | 340974 | [340974-bouncy-egg.json](./340974-bouncy-egg.json) |
@@ -15122,6 +15123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster Busts A Nut | 375390 | [375390-buster-busts-a-nut.json](./375390-buster-busts-a-nut.json) |
 | Buster Jam | 326285 | [326285-buster-jam.json](./326285-buster-jam.json) |
 | Buster Sword | 415963 | [415963-buster-sword.json](./415963-buster-sword.json) |
+| Buster's Big Score | 366270 | [366270-busters-big-score.json](./366270-busters-big-score.json) |
 | Buster's Tower Defense | 152330 | [152330-busters-tower-defense.json](./152330-busters-tower-defense.json) |
 | Bustin-Out | 64946 | [64946-bustin-out.json](./64946-bustin-out.json) |
 | Bustin' the Bastille | 166670 | [166670-bustin-the-bastille.json](./166670-bustin-the-bastille.json) |
