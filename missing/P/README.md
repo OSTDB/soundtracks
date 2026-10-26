@@ -5620,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin-Kod. Poluchi patent pervym! | 347819 | [347819-pin-kod-poluchi-patent-pervym.json](./347819-pin-kod-poluchi-patent-pervym.json) |
 | Pina Colada | 269685 | [269685-pina-colada.json](./269685-pina-colada.json) |
 | Pina Colada 2 | 321367 | [321367-pina-colada-2.json](./321367-pina-colada-2.json) |
+| Piña Rollada | 364429 | [364429-pina-rollada.json](./364429-pina-rollada.json) |
 | PinaPang | 193709 | [193709-pinapang.json](./193709-pinapang.json) |
 | Piñata | 32885 | [32885-pinata.json](./32885-pinata.json) |
 | Piñata Attack | 129014 | [129014-pinata-attack.json](./129014-pinata-attack.json) |
@@ -6502,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch-Hit | 57710 | [57710-pitch-hit.json](./57710-pitch-hit.json) |
 | Pitch-Hit: Baseball | 31347 | [31347-pitch-hit-baseball.json](./31347-pitch-hit-baseball.json) |
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
+| Pitchfork | 364456 | [364456-pitchfork.json](./364456-pitchfork.json) |
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
 | Pitchfork Kingdom | 201581 | [201581-pitchfork-kingdom.json](./201581-pitchfork-kingdom.json) |
 | Pitchforks and Daggers | 380492 | [380492-pitchforks-and-daggers.json](./380492-pitchforks-and-daggers.json) |
@@ -10227,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PonGlow | 119474 | [119474-ponglow.json](./119474-ponglow.json) |
 | Pongmatic 2300 | 256211 | [256211-pongmatic-2300.json](./256211-pongmatic-2300.json) |
 | Pongo17 | 251371 | [251371-pongo17.json](./251371-pongo17.json) |
+| PongPD | 364428 | [364428-pongpd.json](./364428-pongpd.json) |
 | Pongpongpongpongpongpongpongpong | 212776 | [212776-pongpongpongpongpongpongpongpong.json](./212776-pongpongpongpongpongpongpongpong.json) |
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
@@ -10506,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music Fever! | 78291 | [78291-popn-music-fever.json](./78291-popn-music-fever.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
+| Pop'n Music Jam&Fizz | 364468 | [364468-popn-music-jam-and-fizz.json](./364468-popn-music-jam-and-fizz.json) |
 | Pop'n Music Kaimei Riddles | 155387 | [155387-popn-music-kaimei-riddles.json](./155387-popn-music-kaimei-riddles.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
 | Pop'n music peace | 130015 | [130015-popn-music-peace.json](./130015-popn-music-peace.json) |
