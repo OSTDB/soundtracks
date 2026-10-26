@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Area 51 | 390439 | [390439-escape-from-area-51.json](./390439-escape-from-area-51.json) |
 | Escape from Bash Street School! | 312818 | [312818-escape-from-bash-street-school.json](./312818-escape-from-bash-street-school.json) |
 | Escape From Bell Cave | 166300 | [166300-escape-from-bell-cave.json](./166300-escape-from-bell-cave.json) |
+| Escape From Benjamin's Room | 347058 | [347058-escape-from-benjamins-room.json](./347058-escape-from-benjamins-room.json) |
 | Escape From Biochemical | 334325 | [334325-escape-from-biochemical.json](./334325-escape-from-biochemical.json) |
 | Escape From BioStation | 37013 | [37013-escape-from-biostation.json](./37013-escape-from-biostation.json) |
 | Escape from Blackwood | 280109 | [280109-escape-from-blackwood.json](./280109-escape-from-blackwood.json) |
