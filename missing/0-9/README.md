@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Starstrike | 13271 | [13271-3d-starstrike.json](./13271-3d-starstrike.json) |
 | 3D Stereo Studio | 80505 | [80505-3d-stereo-studio.json](./80505-3d-stereo-studio.json) |
 | 3D Stock Car Championship | 73294 | [73294-3d-stock-car-championship.json](./73294-3d-stock-car-championship.json) |
+| 3D Stock Cars II | 365794 | [365794-3d-stock-cars-ii.json](./365794-3d-stock-cars-ii.json) |
 | 3D Streets of Rage | 47643 | [47643-3d-streets-of-rage.json](./47643-3d-streets-of-rage.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
 | 3D Tan | 257374 | [257374-3d-tan.json](./257374-3d-tan.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 65536: Super 2048 | 95316 | [95316-65536-super-2048.json](./95316-65536-super-2048.json) |
 | 66 | 400754 | [400754-66.json](./400754-66.json) |
 | 66 Bricks | 241353 | [241353-66-bricks.json](./241353-66-bricks.json) |
+| 66 Confessions of St.Pinel Castle | 365634 | [365634-66-confessions-of-st-pinel-castle.json](./365634-66-confessions-of-st-pinel-castle.json) |
 | 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
 | 666 | 266107 | [266107-666.json](./266107-666.json) |
 | 67 | 372820 | [372820-67.json](./372820-67.json) |
