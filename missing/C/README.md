@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara | 312612 | [312612-capybara.json](./312612-capybara.json) |
 | Capybara Achievement Clicker | 369237 | [369237-capybara-achievement-clicker.json](./369237-capybara-achievement-clicker.json) |
 | Capybara Against Humanity | 377779 | [377779-capybara-against-humanity.json](./377779-capybara-against-humanity.json) |
+| Capybara and Friends Cozy Bundle | 357721 | [357721-capybara-and-friends-cozy-bundle.json](./357721-capybara-and-friends-cozy-bundle.json) |
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Madness | 231273 | [231273-capybara-madness.json](./231273-capybara-madness.json) |
@@ -3417,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Princess | 150770 | [150770-cats-princess.json](./150770-cats-princess.json) |
 | Cat's Rage | 366550 | [366550-cats-rage.json](./366550-cats-rage.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
+| Cat's Showdown | 357707 | [357707-cats-showdown.json](./357707-cats-showdown.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
 | Cat's Wars | 369097 | [369097-cats-wars.json](./369097-cats-wars.json) |
 | Cat&Line | 134405 | [134405-cat-and-line.json](./134405-cat-and-line.json) |
@@ -4618,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenger | 136979 | [136979-challenger.json](./136979-challenger.json) |
 | Challenger Tank | 70869 | [70869-challenger-tank.json](./70869-challenger-tank.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
+| Challenging Land | 357824 | [357824-challenging-land.json](./357824-challenging-land.json) |
 | Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chambara | 21933 | [21933-chambara.json](./21933-chambara.json) |
@@ -4928,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Rising: Part 2 | 354572 | [354572-chaos-rising-part-2.json](./354572-chaos-rising-part-2.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
 | Chaos Rocks | 360920 | [360920-chaos-rocks.json](./360920-chaos-rocks.json) |
+| Chaos Rush: Tower Defense | 357827 | [357827-chaos-rush-tower-defense.json](./357827-chaos-rush-tower-defense.json) |
 | Chaos Saw | 236771 | [236771-chaos-saw.json](./236771-chaos-saw.json) |
 | Chaos Seed: Feng Shui Kairouki | 15833 | [15833-chaos-seed-feng-shui-kairouki.json](./15833-chaos-seed-feng-shui-kairouki.json) |
 | Chaos Sisters | 177248 | [177248-chaos-sisters.json](./177248-chaos-sisters.json) |
@@ -8382,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
 | Click and Slay | 176679 | [176679-click-and-slay.json](./176679-click-and-slay.json) |
+| Click and Tower | 357826 | [357826-click-and-tower.json](./357826-click-and-tower.json) |
 | Click Build Repeat | 404419 | [404419-click-build-repeat.json](./404419-click-build-repeat.json) |
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
