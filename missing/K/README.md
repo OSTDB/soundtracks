@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayleth | 36839 | [36839-kayleth.json](./36839-kayleth.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
 | KayserRotz | 235643 | [235643-kayserrotz.json](./235643-kayserrotz.json) |
+| Kaz | 343586 | [343586-kaz.json](./343586-kaz.json) |
 | Kaz Ball | 81735 | [81735-kaz-ball.json](./81735-kaz-ball.json) |
 | Kaz: Pushing the Virtual Divide | 22147 | [22147-kaz-pushing-the-virtual-divide.json](./22147-kaz-pushing-the-virtual-divide.json) |
 | Kaz's Adventure | 207768 | [207768-kazs-adventure.json](./207768-kazs-adventure.json) |
@@ -2346,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4512,6 +4514,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Ansan-si | 345971 | [345971-korean-drone-flying-tour-ansan-si.json](./345971-korean-drone-flying-tour-ansan-si.json) |
 | Korean Drone Flying Tour Baegun Lake | 353994 | [353994-korean-drone-flying-tour-baegun-lake.json](./353994-korean-drone-flying-tour-baegun-lake.json) |
 | Korean Drone Flying Tour Baekje Military Museum | 411817 | [411817-korean-drone-flying-tour-baekje-military-museum.json](./411817-korean-drone-flying-tour-baekje-military-museum.json) |
+| Korean Drone Flying Tour Bagatsurobong | 343707 | [343707-korean-drone-flying-tour-bagatsurobong.json](./343707-korean-drone-flying-tour-bagatsurobong.json) |
+| Korean Drone Flying Tour Buk-ri Dock | 343708 | [343708-korean-drone-flying-tour-buk-ri-dock.json](./343708-korean-drone-flying-tour-buk-ri-dock.json) |
 | Korean Drone Flying Tour Bukhan River | 336425 | [336425-korean-drone-flying-tour-bukhan-river.json](./336425-korean-drone-flying-tour-bukhan-river.json) |
 | Korean Drone Flying Tour Bussodamak | 362182 | [362182-korean-drone-flying-tour-bussodamak.json](./362182-korean-drone-flying-tour-bussodamak.json) |
 | Korean Drone Flying Tour Chuncheon City | 328501 | [328501-korean-drone-flying-tour-chuncheon-city.json](./328501-korean-drone-flying-tour-chuncheon-city.json) |
@@ -4536,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Pocheon-si | 351221 | [351221-korean-drone-flying-tour-pocheon-si.json](./351221-korean-drone-flying-tour-pocheon-si.json) |
 | Korean Drone Flying Tour Sang-jog-am | 357720 | [357720-korean-drone-flying-tour-sang-jog-am.json](./357720-korean-drone-flying-tour-sang-jog-am.json) |
 | Korean Drone Flying Tour Siheung-si | 345972 | [345972-korean-drone-flying-tour-siheung-si.json](./345972-korean-drone-flying-tour-siheung-si.json) |
+| Korean Drone Flying Tour Soya-do | 343709 | [343709-korean-drone-flying-tour-soya-do.json](./343709-korean-drone-flying-tour-soya-do.json) |
 | Korean Drone Flying Tour Taean-gun | 336428 | [336428-korean-drone-flying-tour-taean-gun.json](./336428-korean-drone-flying-tour-taean-gun.json) |
 | Korean Drone Flying Tour Tomb of Prince Imyeong | 351222 | [351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json](./351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json) |
 | Korean Drone Flying Tour Uiwang-si | 345973 | [345973-korean-drone-flying-tour-uiwang-si.json](./345973-korean-drone-flying-tour-uiwang-si.json) |
