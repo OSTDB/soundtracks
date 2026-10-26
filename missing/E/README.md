@@ -5665,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
 | EverQuest: Underfoot | 67713 | [67713-everquest-underfoot.json](./67713-everquest-underfoot.json) |
 | EverQuest: Veil of Alaris | 65851 | [65851-everquest-veil-of-alaris.json](./65851-everquest-veil-of-alaris.json) |
+| EverRail | 382172 | [382172-everrail.json](./382172-everrail.json) |
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Evershard: Heroes of Gallan's Landing | 404828 | [404828-evershard-heroes-of-gallans-landing.json](./404828-evershard-heroes-of-gallans-landing.json) |
