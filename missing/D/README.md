@@ -12758,6 +12758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoon X Omega II: Easy Mode | 269777 | [269777-dragoon-x-omega-ii-easy-mode.json](./269777-dragoon-x-omega-ii-easy-mode.json) |
 | Dragoon: The Battles of Frederick the Great | 62266 | [62266-dragoon-the-battles-of-frederick-the-great.json](./62266-dragoon-the-battles-of-frederick-the-great.json) |
 | Dragoon's Journey | 229225 | [229225-dragoons-journey.json](./229225-dragoons-journey.json) |
+| Dragooner | 380989 | [380989-dragooner.json](./380989-dragooner.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drags Tavern | 315009 | [315009-drags-tavern.json](./315009-drags-tavern.json) |
 | Dragstars | 43692 | [43692-dragstars.json](./43692-dragstars.json) |
