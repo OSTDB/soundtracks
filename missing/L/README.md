@@ -2683,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Ninjago: Spinjitzu Scavenger Hunt | 187122 | [187122-lego-ninjago-spinjitzu-scavenger-hunt.json](./187122-lego-ninjago-spinjitzu-scavenger-hunt.json) |
 | LEGO Ninjago: Spinjitzu Smash | 251420 | [251420-lego-ninjago-spinjitzu-smash.json](./251420-lego-ninjago-spinjitzu-smash.json) |
 | LEGO Ninjago: Spinjitzu Smash DX | 343140 | [343140-lego-ninjago-spinjitzu-smash-dx.json](./343140-lego-ninjago-spinjitzu-smash-dx.json) |
+| LEGO Ninjago: Spinjitzu Snakedown | 343198 | [343198-lego-ninjago-spinjitzu-snakedown.json](./343198-lego-ninjago-spinjitzu-snakedown.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
 | LEGO Ninjago: Tournament | 77616 | [77616-lego-ninjago-tournament.json](./77616-lego-ninjago-tournament.json) |
 | LEGO Ninjago: Viper Smash | 343132 | [343132-lego-ninjago-viper-smash.json](./343132-lego-ninjago-viper-smash.json) |
@@ -5762,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofi Ball: Dungeon | 256278 | [256278-lofi-ball-dungeon.json](./256278-lofi-ball-dungeon.json) |
 | Lofi Ball: Wipeout | 256277 | [256277-lofi-ball-wipeout.json](./256277-lofi-ball-wipeout.json) |
+| Lofi Chill Sessions: Relax Island | 343492 | [343492-lofi-chill-sessions-relax-island.json](./343492-lofi-chill-sessions-relax-island.json) |
 | Lofi Funkin' | 198381 | [198381-lofi-funkin.json](./198381-lofi-funkin.json) |
 | Lofi Haven | 388418 | [388418-lofi-haven.json](./388418-lofi-haven.json) |
 | Lofi Hip Hop Worlds to Study in | 203207 | [203207-lofi-hip-hop-worlds-to-study-in.json](./203207-lofi-hip-hop-worlds-to-study-in.json) |
