@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10772,6 +10773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Coin | 221113 | [221113-book-of-coin.json](./221113-book-of-coin.json) |
 | Book of Demons | 22747 | [22747-book-of-demons.json](./22747-book-of-demons.json) |
 | Book of Eos | 115388 | [115388-book-of-eos.json](./115388-book-of-eos.json) |
+| Book of Hours: Anthology Edition | 383428 | [383428-book-of-hours-anthology-edition.json](./383428-book-of-hours-anthology-edition.json) |
 | Book of Hours: House of Light | 294012 | [294012-book-of-hours-house-of-light.json](./294012-book-of-hours-house-of-light.json) |
 | Book of Hours: Perpetual Edition DLC | 262230 | [262230-book-of-hours-perpetual-edition-dlc.json](./262230-book-of-hours-perpetual-edition-dlc.json) |
 | Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
@@ -13856,6 +13858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy & Me | 61874 | [61874-buddy-and-me.json](./61874-buddy-and-me.json) |
 | Buddy Bash | 129091 | [129091-buddy-bash.json](./129091-buddy-bash.json) |
 | Buddy Bug | 335359 | [335359-buddy-bug.json](./335359-buddy-bug.json) |
+| Buddy City Inc. | 383458 | [383458-buddy-city-inc.json](./383458-buddy-city-inc.json) |
 | Buddy Collection | 241521 | [241521-buddy-collection.json](./241521-buddy-collection.json) |
 | Buddy Collection Extra: Kochousou no Kimyou na Go-nin | 222201 | [222201-buddy-collection-extra-kochousou-no-kimyou-na-go-nin.json](./222201-buddy-collection-extra-kochousou-no-kimyou-na-go-nin.json) |
 | Buddy Garden | 356003 | [356003-buddy-garden.json](./356003-buddy-garden.json) |
