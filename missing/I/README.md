@@ -1441,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idlenetics | 233886 | [233886-idlenetics.json](./233886-idlenetics.json) |
 | IdleOn | 143440 | [143440-idleon.json](./143440-idleon.json) |
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
+| Idlequarium | 348707 | [348707-idlequarium.json](./348707-idlequarium.json) |
 | IdleQuest | 360543 | [360543-idlequest.json](./360543-idlequest.json) |
 | Idlescape | 139325 | [139325-idlescape.json](./139325-idlescape.json) |
 | IdleTale | 340514 | [340514-idletale.json](./340514-idletale.json) |
@@ -5585,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itako Works | 182898 | [182898-itako-works.json](./182898-itako-works.json) |
 | Italia 1990 | 94594 | [94594-italia-1990.json](./94594-italia-1990.json) |
 | Italian Brainrot TCG | 369541 | [369541-italian-brainrot-tcg.json](./369541-italian-brainrot-tcg.json) |
+| Italian Brainrot: Arena | 348706 | [348706-italian-brainrot-arena.json](./348706-italian-brainrot-arena.json) |
 | Italian Horror Trilogy | 402123 | [402123-italian-horror-trilogy.json](./402123-italian-horror-trilogy.json) |
 | Italian Journey | 216142 | [216142-italian-journey.json](./216142-italian-journey.json) |
 | Italian Journey: Nitro | 216144 | [216144-italian-journey-nitro.json](./216144-italian-journey-nitro.json) |
