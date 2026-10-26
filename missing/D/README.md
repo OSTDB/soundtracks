@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn in Bloody Darkness | 407525 | [407525-dawn-in-bloody-darkness.json](./407525-dawn-in-bloody-darkness.json) |
 | Dawn in the Air | 234065 | [234065-dawn-in-the-air.json](./234065-dawn-in-the-air.json) |
 | Dawn of a Soul | 63736 | [63736-dawn-of-a-soul.json](./63736-dawn-of-a-soul.json) |
+| Dawn of Ages | 341405 | [341405-dawn-of-ages.json](./341405-dawn-of-ages.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
 | Dawn of Andromeda | 28533 | [28533-dawn-of-andromeda.json](./28533-dawn-of-andromeda.json) |
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
@@ -8916,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Displaced Defense | 253974 | [253974-displaced-defense.json](./253974-displaced-defense.json) |
+| Displacement | 341422 | [341422-displacement.json](./341422-displacement.json) |
 | Displacement of Water | 417574 | [417574-displacement-of-water.json](./417574-displacement-of-water.json) |
 | Disposable Corps | 343468 | [343468-disposable-corps.json](./343468-disposable-corps.json) |
 | Disposable Hero | 12048 | [12048-disposable-hero.json](./12048-disposable-hero.json) |
