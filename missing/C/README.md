@@ -6574,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chowdertwo | 29644 | [29644-chowdertwo.json](./29644-chowdertwo.json) |
 | Chowdown Kitty | 301284 | [301284-chowdown-kitty.json](./301284-chowdown-kitty.json) |
 | Choyo Girl Lilina | 338516 | [338516-choyo-girl-lilina.json](./338516-choyo-girl-lilina.json) |
+| Choyo Girl Lilina 2 | 369533 | [369533-choyo-girl-lilina-2.json](./369533-choyo-girl-lilina-2.json) |
 | Choyo Girl Lilina: Complete Edition | 338517 | [338517-choyo-girl-lilina-complete-edition.json](./338517-choyo-girl-lilina-complete-edition.json) |
 | Chozetsu Rinjin Berabo Man | 42038 | [42038-chozetsu-rinjin-berabo-man.json](./42038-chozetsu-rinjin-berabo-man.json) |
 | Chri-Bocchi Cat | 308985 | [308985-chri-bocchi-cat.json](./308985-chri-bocchi-cat.json) |
@@ -9412,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin | 314433 | [314433-coin.json](./314433-coin.json) |
 | Coin 'n Carry | 63684 | [63684-coin-n-carry.json](./63684-coin-n-carry.json) |
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
+| Coin Blitz | 369527 | [369527-coin-blitz.json](./369527-coin-blitz.json) |
 | Coin Coliseum | 184851 | [184851-coin-coliseum.json](./184851-coin-coliseum.json) |
 | Coin Collection Challenge | 379904 | [379904-coin-collection-challenge.json](./379904-coin-collection-challenge.json) |
 | Coin Commander | 128349 | [128349-coin-commander.json](./128349-coin-commander.json) |
@@ -15500,6 +15502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Vibes feat. Ott. | 34662 | [34662-crystal-vibes-feat-ott.json](./34662-crystal-vibes-feat-ott.json) |
 | Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
+| Crystal Warriors GG2SMS | 369519 | [369519-crystal-warriors-gg2sms.json](./369519-crystal-warriors-gg2sms.json) |
 | Crystal Winter | 236742 | [236742-crystal-winter.json](./236742-crystal-winter.json) |
 | Crystal Wish: Bits Collection | 306502 | [306502-crystal-wish-bits-collection.json](./306502-crystal-wish-bits-collection.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
@@ -16642,6 +16645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
 | Cute War: Zero | 86740 | [86740-cute-war-zero.json](./86740-cute-war-zero.json) |
 | Cute Warrior Girl | 369352 | [369352-cute-warrior-girl.json](./369352-cute-warrior-girl.json) |
+| Cute Warrior Girl 2 | 369536 | [369536-cute-warrior-girl-2.json](./369536-cute-warrior-girl-2.json) |
 | Cute-ing Gallery | 336661 | [336661-cute-ing-gallery.json](./336661-cute-ing-gallery.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
 | Cute, Evil & Strange | 116411 | [116411-cute-evil-and-strange.json](./116411-cute-evil-and-strange.json) |
@@ -16901,6 +16905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber92 Datawar | 398491 | [398491-cyber92-datawar.json](./398491-cyber92-datawar.json) |
 | CyberAge | 200993 | [200993-cyberage.json](./200993-cyberage.json) |
 | CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
+| CyberArena | 369546 | [369546-cyberarena.json](./369546-cyberarena.json) |
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
 | Cyberbig | 13539 | [13539-cyberbig.json](./13539-cyberbig.json) |
