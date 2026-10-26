@@ -1461,6 +1461,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampancy | 408131 | [408131-rampancy.json](./408131-rampancy.json) |
 | Rampart | 341282 | [341282-rampart.json](./341282-rampart.json) |
 | Rampart | 341283 | [341283-rampart.json](./341283-rampart.json) |
+| Rampart | 341389 | [341389-rampart.json](./341389-rampart.json) |
+| Rampart | 341390 | [341390-rampart.json](./341390-rampart.json) |
+| Rampart | 341391 | [341391-rampart.json](./341391-rampart.json) |
+| Rampart | 341392 | [341392-rampart.json](./341392-rampart.json) |
+| Rampart | 341393 | [341393-rampart.json](./341393-rampart.json) |
+| Rampart | 341417 | [341417-rampart.json](./341417-rampart.json) |
+| Rampart | 341420 | [341420-rampart.json](./341420-rampart.json) |
+| Rampart | 341421 | [341421-rampart.json](./341421-rampart.json) |
 | Rampart | 341655 | [341655-rampart.json](./341655-rampart.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
 | Rampart Defense | 310251 | [310251-rampart-defense.json](./310251-rampart-defense.json) |
@@ -6480,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiotZ | 41923 | [41923-riotz.json](./41923-riotz.json) |
 | RIP | 109328 | [109328-rip.json](./109328-rip.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
+| Rip & Tear | 341423 | [341423-rip-and-tear.json](./341423-rip-and-tear.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
 | Rip Connections | 314625 | [314625-rip-connections.json](./314625-rip-connections.json) |
@@ -6708,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Angels: Fates | 60441 | [60441-rising-angels-fates.json](./60441-rising-angels-fates.json) |
 | Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
 | Rising Angels: Hope | 35326 | [35326-rising-angels-hope.json](./35326-rising-angels-hope.json) |
+| Rising Angels: Judgment | 341394 | [341394-rising-angels-judgment.json](./341394-rising-angels-judgment.json) |
 | Rising Angels: Reborn | 17817 | [17817-rising-angels-reborn.json](./17817-rising-angels-reborn.json) |
 | Rising Angels: The Red Rose | 60424 | [60424-rising-angels-the-red-rose.json](./60424-rising-angels-the-red-rose.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
