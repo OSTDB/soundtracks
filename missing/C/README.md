@@ -10273,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloruid | 409892 | [409892-coloruid.json](./409892-coloruid.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
 | Colorway Antics | 235796 | [235796-colorway-antics.json](./235796-colorway-antics.json) |
+| Colorwood Sort | 351671 | [351671-colorwood-sort.json](./351671-colorwood-sort.json) |
 | Colorwood Words | 354395 | [354395-colorwood-words.json](./354395-colorwood-words.json) |
 | ColorWorld | 229532 | [229532-colorworld.json](./229532-colorworld.json) |
 | ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
@@ -11466,6 +11467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Map: Gastly | 354624 | [354624-construction-action-map-gastly.json](./354624-construction-action-map-gastly.json) |
 | Construction: Action - Map: Gengar | 354611 | [354611-construction-action-map-gengar.json](./354611-construction-action-map-gengar.json) |
 | Construction: Action - Map: Golduck | 354598 | [354598-construction-action-map-golduck.json](./354598-construction-action-map-golduck.json) |
+| Construction: Action - Map: Growlithe | 351673 | [351673-construction-action-map-growlithe.json](./351673-construction-action-map-growlithe.json) |
 | Construction: Action - Map: Houndoom | 354501 | [354501-construction-action-map-houndoom.json](./354501-construction-action-map-houndoom.json) |
 | Construction: Action - Map: Houndoom (Skyridge) | 354612 | [354612-construction-action-map-houndoom-skyridge.json](./354612-construction-action-map-houndoom-skyridge.json) |
 | Construction: Action - Map: Houndour | 354601 | [354601-construction-action-map-houndour.json](./354601-construction-action-map-houndour.json) |
@@ -14718,6 +14720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosps | 125844 | [125844-crosps.json](./125844-crosps.json) |
 | Cross & Word Games | 131185 | [131185-cross-and-word-games.json](./131185-cross-and-word-games.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
+| Cross and Gun | 351520 | [351520-cross-and-gun.json](./351520-cross-and-gun.json) |
 | Cross Blaim | 41765 | [41765-cross-blaim.json](./41765-cross-blaim.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
 | Cross Board Soccer | 154278 | [154278-cross-board-soccer.json](./154278-cross-board-soccer.json) |
@@ -16116,6 +16119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culinary Construct | 397217 | [397217-culinary-construct.json](./397217-culinary-construct.json) |
 | Culinary Cooking Master Simulator | 300860 | [300860-culinary-cooking-master-simulator.json](./300860-culinary-cooking-master-simulator.json) |
 | Culinary Survivors | 264676 | [264676-culinary-survivors.json](./264676-culinary-survivors.json) |
+| Culinary Wizard | 351528 | [351528-culinary-wizard.json](./351528-culinary-wizard.json) |
 | Culino | 174221 | [174221-culino.json](./174221-culino.json) |
 | Cull the Gods | 185487 | [185487-cull-the-gods.json](./185487-cull-the-gods.json) |
 | Cult | 68774 | [68774-cult.json](./68774-cult.json) |
@@ -16556,6 +16560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curvid Nurntine and the Black Vaccine | 379713 | [379713-curvid-nurntine-and-the-black-vaccine.json](./379713-curvid-nurntine-and-the-black-vaccine.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
 | Curvy | 7497 | [7497-curvy.json](./7497-curvy.json) |
+| Curyeux | 351514 | [351514-curyeux.json](./351514-curyeux.json) |
 | Curzon Line | 125292 | [125292-curzon-line.json](./125292-curzon-line.json) |
 | Cush's Amazin' Adventure!! | 260532 | [260532-cushs-amazin-adventure.json](./260532-cushs-amazin-adventure.json) |
 | Custam Sugoroku | 168573 | [168573-custam-sugoroku.json](./168573-custam-sugoroku.json) |
