@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Cards: The Lovecraftian Dungeon Crawler Game | 413600 | [413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json](./413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json) |
 | Eldritch Empathy | 314356 | [314356-eldritch-empathy.json](./314356-eldritch-empathy.json) |
 | Eldritch Exterminators | 264600 | [264600-eldritch-exterminators.json](./264600-eldritch-exterminators.json) |
+| Eldritch Horror: Digital Edition | 375792 | [375792-eldritch-horror-digital-edition.json](./375792-eldritch-horror-digital-edition.json) |
 | Eldritch Hunter | 31653 | [31653-eldritch-hunter.json](./31653-eldritch-hunter.json) |
 | Eldritch Lands: The Witch Queen's Eternal War | 190899 | [190899-eldritch-lands-the-witch-queens-eternal-war.json](./190899-eldritch-lands-the-witch-queens-eternal-war.json) |
 | Eldritch Soul | 320839 | [320839-eldritch-soul.json](./320839-eldritch-soul.json) |
@@ -2927,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
 | End of Lines | 188903 | [188903-end-of-lines.json](./188903-end-of-lines.json) |
 | End of Night | 211972 | [211972-end-of-night.json](./211972-end-of-night.json) |
+| End of Overlord | 375902 | [375902-end-of-overlord.json](./375902-end-of-overlord.json) |
 | End of Realms | 121413 | [121413-end-of-realms.json](./121413-end-of-realms.json) |
 | End of Serenity | 61466 | [61466-end-of-serenity.json](./61466-end-of-serenity.json) |
 | End of Sonic Inflation | 140540 | [140540-end-of-sonic-inflation.json](./140540-end-of-sonic-inflation.json) |
