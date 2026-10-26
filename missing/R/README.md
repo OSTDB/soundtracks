@@ -3933,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rektangle | 11239 | [11239-rektangle.json](./11239-rektangle.json) |
 | Reky | 122329 | [122329-reky.json](./122329-reky.json) |
 | Reky + Cyber Protocol | 231343 | [231343-reky-cyber-protocol.json](./231343-reky-cyber-protocol.json) |
+| Rela | 383454 | [383454-rela.json](./383454-rela.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
 | Relapse | 342849 | [342849-relapse.json](./342849-relapse.json) |
 | Relapse | 376100 | [376100-relapse.json](./376100-relapse.json) |
@@ -6525,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Robots | 301043 | [301043-rise-of-robots.json](./301043-rise-of-robots.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
+| Rise of State | 383450 | [383450-rise-of-state.json](./383450-rise-of-state.json) |
 | Rise of Stikeez | 176696 | [176696-rise-of-stikeez.json](./176696-rise-of-stikeez.json) |
 | Rise of the Ancients | 32459 | [32459-rise-of-the-ancients.json](./32459-rise-of-the-ancients.json) |
 | Rise of the Argonauts | 7161 | [7161-rise-of-the-argonauts.json](./7161-rise-of-the-argonauts.json) |
@@ -8533,6 +8535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolan's Quest | 56854 | [56854-rolans-quest.json](./56854-rolans-quest.json) |
 | Roland Ahoy! | 39147 | [39147-roland-ahoy.json](./39147-roland-ahoy.json) |
 | Roland Garros French Open 2000 | 94379 | [94379-roland-garros-french-open-2000.json](./94379-roland-garros-french-open-2000.json) |
+| Roland Garros Paris 2005: Powered by Smash Court Tennis | 383415 | [383415-roland-garros-paris-2005-powered-by-smash-court-tennis.json](./383415-roland-garros-paris-2005-powered-by-smash-court-tennis.json) |
 | Roland garros tennis 2000 | 19155 | [19155-roland-garros-tennis-2000.json](./19155-roland-garros-tennis-2000.json) |
 | Roland in the Caves | 13027 | [13027-roland-in-the-caves.json](./13027-roland-in-the-caves.json) |
 | Roland in Time | 39148 | [39148-roland-in-time.json](./39148-roland-in-time.json) |
