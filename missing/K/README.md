@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
 | Kanji de Go! Shueisha Manga-sai | 329228 | [329228-kanji-de-go-shueisha-manga-sai.json](./329228-kanji-de-go-shueisha-manga-sai.json) |
+| Kanji Drop | 375912 | [375912-kanji-drop.json](./375912-kanji-drop.json) |
 | Kanji Gakusei | 170043 | [170043-kanji-gakusei.json](./170043-kanji-gakusei.json) |
 | Kanji in Motion | 368288 | [368288-kanji-in-motion.json](./368288-kanji-in-motion.json) |
 | Kanji Industry | 240667 | [240667-kanji-industry.json](./240667-kanji-industry.json) |
@@ -3086,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinoko | 138584 | [138584-kinoko.json](./138584-kinoko.json) |
 | Kinoko-nun | 379907 | [379907-kinoko-nun.json](./379907-kinoko-nun.json) |
 | KiNoKoe: Tree's Voice | 217259 | [217259-kinokoe-trees-voice.json](./217259-kinokoe-trees-voice.json) |
+| Kinophobia | 375931 | [375931-kinophobia.json](./375931-kinophobia.json) |
 | Kinshin Ingo Doteigari | 108945 | [108945-kinshin-ingo-doteigari.json](./108945-kinshin-ingo-doteigari.json) |
 | Kinstrife | 277774 | [277774-kinstrife.json](./277774-kinstrife.json) |
 | Kintsugi | 135682 | [135682-kintsugi.json](./135682-kintsugi.json) |
