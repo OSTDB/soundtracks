@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
 | KelimeLink | 409855 | [409855-kelimelink.json](./409855-kelimelink.json) |
 | Kelipot | 121851 | [121851-kelipot.json](./121851-kelipot.json) |
+| Kellogg's Football Tigers | 336444 | [336444-kelloggs-football-tigers.json](./336444-kelloggs-football-tigers.json) |
 | Kellogg's Frosties Gr-r-rand Prix | 398944 | [398944-kelloggs-frosties-gr-r-rand-prix.json](./398944-kelloggs-frosties-gr-r-rand-prix.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
@@ -2350,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4336,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombo King | 188993 | [188993-kombo-king.json](./188993-kombo-king.json) |
 | Komeiji Satori no Jousou Kyouiku | 187240 | [187240-komeiji-satori-no-jousou-kyouiku.json](./187240-komeiji-satori-no-jousou-kyouiku.json) |
 | Kometen | 200935 | [200935-kometen.json](./200935-kometen.json) |
+| Komiiworld Adventure | 336440 | [336440-komiiworld-adventure.json](./336440-komiiworld-adventure.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
 | Kommersant | 81640 | [81640-kommersant.json](./81640-kommersant.json) |
 | Kommissar Kugelblitz: Der Fall Wüstenkönig | 221256 | [221256-kommissar-kugelblitz-der-fall-wustenkonig.json](./221256-kommissar-kugelblitz-der-fall-wustenkonig.json) |
@@ -5021,6 +5024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuma Uta | 70220 | [70220-kuma-uta.json](./70220-kuma-uta.json) |
 | Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumacure | 118609 | [118609-kumacure.json](./118609-kumacure.json) |
+| Kumakichi & Nyanzou Birth Destruction God DX | 336432 | [336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json](./336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
 | Kumamon Bomber Puzzle de Kumamon Taisou | 222441 | [222441-kumamon-bomber-puzzle-de-kumamon-taisou.json](./222441-kumamon-bomber-puzzle-de-kumamon-taisou.json) |
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
