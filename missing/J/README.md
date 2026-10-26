@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Escape Games: The Room Without Doors | 227847 | [227847-japanese-escape-games-the-room-without-doors.json](./227847-japanese-escape-games-the-room-without-doors.json) |
 | Japanese Escape Games: Tobira no nai Heya kara no Dasshutsu | 222210 | [222210-japanese-escape-games-tobira-no-nai-heya-kara-no-dasshutsu.json](./222210-japanese-escape-games-tobira-no-nai-heya-kara-no-dasshutsu.json) |
 | Japanese Escape Games: Toy House kara no Dasshutsu | 222218 | [222218-japanese-escape-games-toy-house-kara-no-dasshutsu.json](./222218-japanese-escape-games-toy-house-kara-no-dasshutsu.json) |
+| Japanese Fun: J64 | 363993 | [363993-japanese-fun-j64.json](./363993-japanese-fun-j64.json) |
 | Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
 | Japanese Hiragana & Katakana Review DS | 342834 | [342834-japanese-hiragana-and-katakana-review-ds.json](./342834-japanese-hiragana-and-katakana-review-ds.json) |
 | Japanese House Exploration | 308893 | [308893-japanese-house-exploration.json](./308893-japanese-house-exploration.json) |
