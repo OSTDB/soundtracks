@@ -9062,6 +9062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 4: Story Mission DLC 4 - Battle Fiercely | 361234 | [361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json](./361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json) |
 | Gundam Breaker 4: Story Mission DLC 5 - Beyond Borders | 361235 | [361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json](./361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json) |
 | Gundam Breaker 4: Ultimate Edition | 305601 | [305601-gundam-breaker-4-ultimate-edition.json](./305601-gundam-breaker-4-ultimate-edition.json) |
+| Gundam Card Game Teaching App | 353349 | [353349-gundam-card-game-teaching-app.json](./353349-gundam-card-game-teaching-app.json) |
 | Gundam Conquest | 223958 | [223958-gundam-conquest.json](./223958-gundam-conquest.json) |
 | Gundam Conquest V | 139752 | [139752-gundam-conquest-v.json](./139752-gundam-conquest-v.json) |
 | Gundam Evolution | 194205 | [194205-gundam-evolution.json](./194205-gundam-evolution.json) |
