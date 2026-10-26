@@ -3129,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Gunners | 367822 | [367822-ghost-gunners.json](./367822-ghost-gunners.json) |
 | Ghost Guns | 122175 | [122175-ghost-guns.json](./122175-ghost-guns.json) |
 | Ghost Hand | 264672 | [264672-ghost-hand.json](./264672-ghost-hand.json) |
+| Ghost Haunting | 360552 | [360552-ghost-haunting.json](./360552-ghost-haunting.json) |
 | Ghost Hospital | 111741 | [111741-ghost-hospital.json](./111741-ghost-hospital.json) |
 | Ghost Hospital: In Thousand Horror Hill | 293143 | [293143-ghost-hospital-in-thousand-horror-hill.json](./293143-ghost-hospital-in-thousand-horror-hill.json) |
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
@@ -3141,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hunter | 294162 | [294162-ghost-hunter.json](./294162-ghost-hunter.json) |
 | Ghost Hunter | 307685 | [307685-ghost-hunter.json](./307685-ghost-hunter.json) |
 | Ghost Hunter | 321359 | [321359-ghost-hunter.json](./321359-ghost-hunter.json) |
+| Ghost Hunters | 360559 | [360559-ghost-hunters.json](./360559-ghost-hunters.json) |
 | Ghost Hunters | 47149 | [47149-ghost-hunters.json](./47149-ghost-hunters.json) |
 | Ghost Hunters Academy | 66688 | [66688-ghost-hunters-academy.json](./66688-ghost-hunters-academy.json) |
 | Ghost Hunters: Collector's Edition | 341021 | [341021-ghost-hunters-collectors-edition.json](./341021-ghost-hunters-collectors-edition.json) |
@@ -4723,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Remastered | 314250 | [314250-goat-simulator-remastered.json](./314250-goat-simulator-remastered.json) |
 | Goat Simulator: The Bundle | 141764 | [141764-goat-simulator-the-bundle.json](./141764-goat-simulator-the-bundle.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
+| Goat Stand and Turtle Guy | 360626 | [360626-goat-stand-and-turtle-guy.json](./360626-goat-stand-and-turtle-guy.json) |
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
 | Goat!Goat! | 242481 | [242481-goat-goat.json](./242481-goat-goat.json) |
 | Goat's Tale | 173011 | [173011-goats-tale.json](./173011-goats-tale.json) |
