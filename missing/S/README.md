@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally | 152186 | [152186-sally.json](./152186-sally.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
+| Sally and Snail | 365724 | [365724-sally-and-snail.json](./365724-sally-and-snail.json) |
 | Sally Face | 26580 | [26580-sally-face.json](./26580-sally-face.json) |
 | Sally Face 2 | 413934 | [413934-sally-face-2.json](./413934-sally-face-2.json) |
 | Sally.EXE: Discovery | 317358 | [317358-sally-exe-discovery.json](./317358-sally-exe-discovery.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samu Rise | 181777 | [181777-samu-rise.json](./181777-samu-rise.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
 | Samudra | 126534 | [126534-samudra.json](./126534-samudra.json) |
+| Samuel Prince Attorney at Law: Chapter 1 | 365593 | [365593-samuel-prince-attorney-at-law-chapter-1.json](./365593-samuel-prince-attorney-at-law-chapter-1.json) |
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
 | Samuel Sage: The Mystery at Penby Inn | 285505 | [285505-samuel-sage-the-mystery-at-penby-inn.json](./285505-samuel-sage-the-mystery-at-penby-inn.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
@@ -6236,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
 | Shark Attack | 160183 | [160183-shark-attack.json](./160183-shark-attack.json) |
 | Shark Attack | 281026 | [281026-shark-attack.json](./281026-shark-attack.json) |
+| Shark Attack | 365605 | [365605-shark-attack.json](./365605-shark-attack.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
 | Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
@@ -6388,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shawarma King | 330345 | [330345-shawarma-king.json](./330345-shawarma-king.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
+| Shawn Johnson Gymnastics | 365614 | [365614-shawn-johnson-gymnastics.json](./365614-shawn-johnson-gymnastics.json) |
 | Shawn Johnson Gymnastics | 50979 | [50979-shawn-johnson-gymnastics.json](./50979-shawn-johnson-gymnastics.json) |
 | ShawnCena121 | 286417 | [286417-shawncena121.json](./286417-shawncena121.json) |
 | Shawy Adventures | 115535 | [115535-shawy-adventures.json](./115535-shawy-adventures.json) |
@@ -10340,6 +10344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Alert | 398981 | [398981-sky-alert.json](./398981-sky-alert.json) |
 | Sky And Earth | 292051 | [292051-sky-and-earth.json](./292051-sky-and-earth.json) |
 | Sky Arena | 60556 | [60556-sky-arena.json](./60556-sky-arena.json) |
+| Sky Attack | 365603 | [365603-sky-attack.json](./365603-sky-attack.json) |
 | Sky Avenger | 245157 | [245157-sky-avenger.json](./245157-sky-avenger.json) |
 | Sky Ball | 80361 | [80361-sky-ball.json](./80361-sky-ball.json) |
 | Sky Ball | 81894 | [81894-sky-ball.json](./81894-sky-ball.json) |
@@ -12218,6 +12223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Trek: Chapter 3 - Lettuce Be | 81675 | [81675-snail-trek-chapter-3-lettuce-be.json](./81675-snail-trek-chapter-3-lettuce-be.json) |
 | Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail wisdom simulator 2017 | 183922 | [183922-snail-wisdom-simulator-2017.json](./183922-snail-wisdom-simulator-2017.json) |
+| Snail You Later | 365729 | [365729-snail-you-later.json](./365729-snail-you-later.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snailboy: Rise of Hermitron | 120353 | [120353-snailboy-rise-of-hermitron.json](./120353-snailboy-rise-of-hermitron.json) |
 | Snailiad | 118309 | [118309-snailiad.json](./118309-snailiad.json) |
@@ -12874,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarding | 19688 | [19688-snowboarding.json](./19688-snowboarding.json) |
 | Snowboarding | 230837 | [230837-snowboarding.json](./230837-snowboarding.json) |
 | Snowboarding | 358843 | [358843-snowboarding.json](./358843-snowboarding.json) |
+| Snowboarding | 365599 | [365599-snowboarding.json](./365599-snowboarding.json) |
 | Snowboarding: The Fourth Phase | 88772 | [88772-snowboarding-the-fourth-phase.json](./88772-snowboarding-the-fourth-phase.json) |
 | Snowboarding: The Next Phase | 114051 | [114051-snowboarding-the-next-phase.json](./114051-snowboarding-the-next-phase.json) |
 | Snowboarding+ | 90527 | [90527-snowboarding.json](./90527-snowboarding.json) |
@@ -15829,6 +15836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Agency 2138 | 223622 | [223622-space-agency-2138.json](./223622-space-agency-2138.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space Agent: 8 Artifacts | 158521 | [158521-space-agent-8-artifacts.json](./158521-space-agent-8-artifacts.json) |
+| Space Alien | 365597 | [365597-space-alien.json](./365597-space-alien.json) |
 | Space Alien Hangar | 360731 | [360731-space-alien-hangar.json](./360731-space-alien-hangar.json) |
 | Space Aliens Invaders | 147641 | [147641-space-aliens-invaders.json](./147641-space-aliens-invaders.json) |
 | Space Alpha | 161617 | [161617-space-alpha.json](./161617-space-alpha.json) |
@@ -24849,6 +24857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer of '69 | 224578 | [224578-summer-of-69.json](./224578-summer-of-69.json) |
 | Summer of Adventure Bundle | 196513 | [196513-summer-of-adventure-bundle.json](./196513-summer-of-adventure-bundle.json) |
 | Summer of Memories | 299498 | [299498-summer-of-memories.json](./299498-summer-of-memories.json) |
+| Summer of Memories Ver. 2: Mystery of the Time Capsule | 365616 | [365616-summer-of-memories-ver-2-mystery-of-the-time-capsule.json](./365616-summer-of-memories-ver-2-mystery-of-the-time-capsule.json) |
 | Summer Party Time | 255526 | [255526-summer-party-time.json](./255526-summer-party-time.json) |
 | Summer Party Time + Survival Pack Set | 261165 | [261165-summer-party-time-survival-pack-set.json](./261165-summer-party-time-survival-pack-set.json) |
 | Summer Party Time: Survival Pack | 261093 | [261093-summer-party-time-survival-pack.json](./261093-summer-party-time-survival-pack.json) |
