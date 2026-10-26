@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Island | 204236 | [204236-vacation-island.json](./204236-vacation-island.json) |
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
 | Vacation Mogul | 53877 | [53877-vacation-mogul.json](./53877-vacation-mogul.json) |
+| Vacation Paradise: Alaska - Collector's Edition | 336988 | [336988-vacation-paradise-alaska-collectors-edition.json](./336988-vacation-paradise-alaska-collectors-edition.json) |
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
 | Vacation Paradise: France | 416158 | [416158-vacation-paradise-france.json](./416158-vacation-paradise-france.json) |
 | Vacation Parking Collection | 328462 | [328462-vacation-parking-collection.json](./328462-vacation-parking-collection.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity 2X: Daily Sprint | 250380 | [250380-velocity-2x-daily-sprint.json](./250380-velocity-2x-daily-sprint.json) |
 | Velocity 2X: Dual Core DLC Pack | 250377 | [250377-velocity-2x-dual-core-dlc-pack.json](./250377-velocity-2x-dual-core-dlc-pack.json) |
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
+| Velocity High Speed | 337016 | [337016-velocity-high-speed.json](./337016-velocity-high-speed.json) |
 | Velocity One | 357199 | [357199-velocity-one.json](./357199-velocity-one.json) |
 | Velocity Racing: 1000 | 359572 | [359572-velocity-racing-1000.json](./359572-velocity-racing-1000.json) |
 | Velocity Raptor | 145388 | [145388-velocity-raptor.json](./145388-velocity-raptor.json) |
