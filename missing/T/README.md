@@ -2735,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technotopia | 291318 | [291318-technotopia.json](./291318-technotopia.json) |
 | TechnoTsunami | 132601 | [132601-technotsunami.json](./132601-technotsunami.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
+| Techpack Adventure | 335752 | [335752-techpack-adventure.json](./335752-techpack-adventure.json) |
 | Techtonica | 194465 | [194465-techtonica.json](./194465-techtonica.json) |
 | TechWars | 47562 | [47562-techwars.json](./47562-techwars.json) |
 | Techwars Deathmatch | 96872 | [96872-techwars-deathmatch.json](./96872-techwars-deathmatch.json) |
@@ -7155,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
+| The Dragon Odyssey | 335805 | [335805-the-dragon-odyssey.json](./335805-the-dragon-odyssey.json) |
 | The Dragon Princess | 389693 | [389693-the-dragon-princess.json](./389693-the-dragon-princess.json) |
 | The Dragon Queen | 238526 | [238526-the-dragon-queen.json](./238526-the-dragon-queen.json) |
 | The Dragon Sword | 149934 | [149934-the-dragon-sword.json](./149934-the-dragon-sword.json) |
@@ -12999,6 +13001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rake: Red Forest | 30531 | [30531-the-rake-red-forest.json](./30531-the-rake-red-forest.json) |
 | The Rake: Rust Dead Survival | 276050 | [276050-the-rake-rust-dead-survival.json](./276050-the-rake-rust-dead-survival.json) |
 | The Ramen Prince | 171800 | [171800-the-ramen-prince.json](./171800-the-ramen-prince.json) |
+| The Ramen Sensei 2 | 335757 | [335757-the-ramen-sensei-2.json](./335757-the-ramen-sensei-2.json) |
 | The Ramen Shop | 378366 | [378366-the-ramen-shop.json](./378366-the-ramen-shop.json) |
 | The Ramen Stand | 298626 | [298626-the-ramen-stand.json](./298626-the-ramen-stand.json) |
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
@@ -26080,6 +26083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
 | Trikumax | 115519 | [115519-trikumax.json](./115519-trikumax.json) |
+| Trikumax Arena | 335754 | [335754-trikumax-arena.json](./335754-trikumax-arena.json) |
 | Trilby: The Art of Theft | 72890 | [72890-trilby-the-art-of-theft.json](./72890-trilby-the-art-of-theft.json) |
 | Trilby's Notes | 72443 | [72443-trilbys-notes.json](./72443-trilbys-notes.json) |
 | Trillenium | 295153 | [295153-trillenium.json](./295153-trillenium.json) |
