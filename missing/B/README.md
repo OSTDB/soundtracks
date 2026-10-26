@@ -5036,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind The Truth | 83954 | [83954-behind-the-truth.json](./83954-behind-the-truth.json) |
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
 | Behind You | 359079 | [359079-behind-you.json](./359079-behind-you.json) |
+| Behind You | 384592 | [384592-behind-you.json](./384592-behind-you.json) |
 | Behoarder | 184617 | [184617-behoarder.json](./184617-behoarder.json) |
 | Behold Battle | 247918 | [247918-behold-battle.json](./247918-behold-battle.json) |
 | Behold the Dark | 151470 | [151470-behold-the-dark.json](./151470-behold-the-dark.json) |
@@ -6929,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Hunter 2003: Legendary Hunting | 69525 | [69525-bird-hunter-2003-legendary-hunting.json](./69525-bird-hunter-2003-legendary-hunting.json) |
 | Bird Hunter: Wild Wings Edition | 73491 | [73491-bird-hunter-wild-wings-edition.json](./73491-bird-hunter-wild-wings-edition.json) |
 | Bird Jumper | 299741 | [299741-bird-jumper.json](./299741-bird-jumper.json) |
+| Bird Kind | 384561 | [384561-bird-kind.json](./384561-bird-kind.json) |
 | Bird Knight | 246276 | [246276-bird-knight.json](./246276-bird-knight.json) |
 | Bird Land | 112163 | [112163-bird-land.json](./112163-bird-land.json) |
 | Bird Legend | 260771 | [260771-bird-legend.json](./260771-bird-legend.json) |
