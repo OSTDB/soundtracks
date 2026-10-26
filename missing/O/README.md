@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey | 20350 | [20350-obey.json](./20350-obey.json) |
 | Obey Me | 118205 | [118205-obey-me.json](./118205-obey-me.json) |
 | Obey Me! Sinner's Choice: Lucifer | 396555 | [396555-obey-me-sinners-choice-lucifer.json](./396555-obey-me-sinners-choice-lucifer.json) |
+| Obey Me! Till Death Do Us Part | 382870 | [382870-obey-me-till-death-do-us-part.json](./382870-obey-me-till-death-do-us-part.json) |
 | Obey Me!: One Master to Rule Them All | 132649 | [132649-obey-me-one-master-to-rule-them-all.json](./132649-obey-me-one-master-to-rule-them-all.json) |
 | Obey the Insect God | 381097 | [381097-obey-the-insect-god.json](./381097-obey-the-insect-god.json) |
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
