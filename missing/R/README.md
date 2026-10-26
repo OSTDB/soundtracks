@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realistic Battle Tank | 216153 | [216153-realistic-battle-tank.json](./216153-realistic-battle-tank.json) |
 | Realistic Illusion | 97193 | [97193-realistic-illusion.json](./97193-realistic-illusion.json) |
 | Realistic Kissing Simulator | 402156 | [402156-realistic-kissing-simulator.json](./402156-realistic-kissing-simulator.json) |
+| Realistic Ragdoll Sandbox | 351672 | [351672-realistic-ragdoll-sandbox.json](./351672-realistic-ragdoll-sandbox.json) |
 | Realistic Summer Sports | 175253 | [175253-realistic-summer-sports.json](./175253-realistic-summer-sports.json) |
 | Realistic Tower Destruction | 131558 | [131558-realistic-tower-destruction.json](./131558-realistic-tower-destruction.json) |
 | Realities | 33276 | [33276-realities.json](./33276-realities.json) |
@@ -5401,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge Story | 195540 | [195540-revenge-story.json](./195540-revenge-story.json) |
 | Revenge: Jane The Killer | 286569 | [286569-revenge-jane-the-killer.json](./286569-revenge-jane-the-killer.json) |
 | Revenge: Rhobar's myth | 17864 | [17864-revenge-rhobars-myth.json](./17864-revenge-rhobars-myth.json) |
+| Revengeful Ghost | 351518 | [351518-revengeful-ghost.json](./351518-revengeful-ghost.json) |
 | Revenger | 164983 | [164983-revenger.json](./164983-revenger.json) |
 | Revenger Origin | 413450 | [413450-revenger-origin.json](./413450-revenger-origin.json) |
 | Revenger: Age of Morons | 89980 | [89980-revenger-age-of-morons.json](./89980-revenger-age-of-morons.json) |
@@ -10825,6 +10827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
 | Rust: Console Edition - New Cobalt Employee Welcome Pack | 259752 | [259752-rust-console-edition-new-cobalt-employee-welcome-pack.json](./259752-rust-console-edition-new-cobalt-employee-welcome-pack.json) |
 | Rust: Console Edition - Warhammer 40,000 Pack | 402506 | [402506-rust-console-edition-warhammer-40-000-pack.json](./402506-rust-console-edition-warhammer-40-000-pack.json) |
+| Rust: Instruments Pack | 351516 | [351516-rust-instruments-pack.json](./351516-rust-instruments-pack.json) |
 | Rust: Sunburn Pack | 401308 | [401308-rust-sunburn-pack.json](./401308-rust-sunburn-pack.json) |
 | Rust: Voice Props Pack | 154246 | [154246-rust-voice-props-pack.json](./154246-rust-voice-props-pack.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
