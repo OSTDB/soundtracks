@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makibishi Comic | 237501 | [237501-makibishi-comic.json](./237501-makibishi-comic.json) |
 | Makibishi Comic | 294981 | [294981-makibishi-comic.json](./294981-makibishi-comic.json) |
 | Makin Biscuits | 178516 | [178516-makin-biscuits.json](./178516-makin-biscuits.json) |
+| Making Burgers | 359321 | [359321-making-burgers.json](./359321-making-burgers.json) |
 | Making Friends | 303646 | [303646-making-friends.json](./303646-making-friends.json) |
 | Making History II: The War of the World | 15026 | [15026-making-history-ii-the-war-of-the-world.json](./15026-making-history-ii-the-war-of-the-world.json) |
 | Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
@@ -13895,6 +13896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonMan Adventures | 305923 | [305923-moonman-adventures.json](./305923-moonman-adventures.json) |
 | Moonmist | 12448 | [12448-moonmist.json](./12448-moonmist.json) |
 | MoonNight Shift | 403078 | [403078-moonnight-shift.json](./403078-moonnight-shift.json) |
+| Moonpath to Elsweyr | 359456 | [359456-moonpath-to-elsweyr.json](./359456-moonpath-to-elsweyr.json) |
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonport | 291147 | [291147-moonport.json](./291147-moonport.json) |
 | MoonQuest | 105112 | [105112-moonquest.json](./105112-moonquest.json) |
