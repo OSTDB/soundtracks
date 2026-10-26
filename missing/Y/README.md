@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yolo Space Hacker: Mission Bahamas | 196048 | [196048-yolo-space-hacker-mission-bahamas.json](./196048-yolo-space-hacker-mission-bahamas.json) |
 | Yolo Space Hacker: Mission Forensic | 196125 | [196125-yolo-space-hacker-mission-forensic.json](./196125-yolo-space-hacker-mission-forensic.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
+| YomaJAM | 336463 | [336463-yomajam.json](./336463-yomajam.json) |
 | Yomas | 264987 | [264987-yomas.json](./264987-yomas.json) |
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
 | Yomawari: Lost in the Dark - Deluxe Edition | 203095 | [203095-yomawari-lost-in-the-dark-deluxe-edition.json](./203095-yomawari-lost-in-the-dark-deluxe-edition.json) |
