@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibrant Venture | 127991 | [127991-vibrant-venture.json](./127991-vibrant-venture.json) |
 | Vibrant World Adventure | 288092 | [288092-vibrant-world-adventure.json](./288092-vibrant-world-adventure.json) |
 | Vibur: Disintegration - Episode 1 | 118045 | [118045-vibur-disintegration-episode-1.json](./118045-vibur-disintegration-episode-1.json) |
+| Vic de Vitaminevreter | 349776 | [349776-vic-de-vitaminevreter.json](./349776-vic-de-vitaminevreter.json) |
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
 | VIC Scramble | 92825 | [92825-vic-scramble.json](./92825-vic-scramble.json) |
 | ViCam | 142857 | [142857-vicam.json](./142857-vicam.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viewpoint | 321578 | [321578-viewpoint.json](./321578-viewpoint.json) |
 | Viewpoint 2064 | 225296 | [225296-viewpoint-2064.json](./225296-viewpoint-2064.json) |
 | Viewpoints | 51715 | [51715-viewpoints.json](./51715-viewpoints.json) |
+| Viewport: The A.R.K. Protocol | 349759 | [349759-viewport-the-a-r-k-protocol.json](./349759-viewport-the-a-r-k-protocol.json) |
 | ViewSelect the Game | 140588 | [140588-viewselect-the-game.json](./140588-viewselect-the-game.json) |
 | Viewtiful Joe | 4229 | [4229-viewtiful-joe.json](./4229-viewtiful-joe.json) |
 | Viewtiful Joe 2 | 4230 | [4230-viewtiful-joe-2.json](./4230-viewtiful-joe-2.json) |
@@ -2721,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Carrier | 304698 | [304698-void-carrier.json](./304698-void-carrier.json) |
 | Void Chaser | 261709 | [261709-void-chaser.json](./261709-void-chaser.json) |
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
+| Void Collections | 349730 | [349730-void-collections.json](./349730-void-collections.json) |
 | Void Collector | 333773 | [333773-void-collector.json](./333773-void-collector.json) |
 | Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
 | Void Crew | 243017 | [243017-void-crew.json](./243017-void-crew.json) |
@@ -2977,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltline | 366778 | [366778-voltline.json](./366778-voltline.json) |
 | Voltorb Flip | 356235 | [356235-voltorb-flip.json](./356235-voltorb-flip.json) |
 | Voltorometer Recharged+ | 247512 | [247512-voltorometer-recharged.json](./247512-voltorometer-recharged.json) |
+| VoltRhythm | 349737 | [349737-voltrhythm.json](./349737-voltrhythm.json) |
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
 | Voltron: Cubes of Olkarion | 120409 | [120409-voltron-cubes-of-olkarion.json](./120409-voltron-cubes-of-olkarion.json) |
 | Voltus' Neon Nightmare - Colossal Cure | 419930 | [419930-voltus-neon-nightmare-colossal-cure.json](./419930-voltus-neon-nightmare-colossal-cure.json) |
