@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia Aura | 327266 | [327266-gaia-aura.json](./327266-gaia-aura.json) |
 | Gaia Crusaders | 39550 | [39550-gaia-crusaders.json](./39550-gaia-crusaders.json) |
 | Gaia Eternal | 56175 | [56175-gaia-eternal.json](./56175-gaia-eternal.json) |
+| Gaia Maker | 373599 | [373599-gaia-maker.json](./373599-gaia-maker.json) |
 | Gaia Master | 59153 | [59153-gaia-master.json](./59153-gaia-master.json) |
 | Gaia Master Duel Card Attacks | 79384 | [79384-gaia-master-duel-card-attacks.json](./79384-gaia-master-duel-card-attacks.json) |
 | Gaia Online | 125884 | [125884-gaia-online.json](./125884-gaia-online.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Galleria | 385632 | [385632-galleria.json](./385632-galleria.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
+| Gallery Collab 2024 | 373604 | [373604-gallery-collab-2024.json](./373604-gallery-collab-2024.json) |
 | Gallery Fake | 197660 | [197660-gallery-fake.json](./197660-gallery-fake.json) |
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
 | Gallery Manager | 234660 | [234660-gallery-manager.json](./234660-gallery-manager.json) |
@@ -5387,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sun | 356272 | [356272-golden-sun.json](./356272-golden-sun.json) |
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
+| Golden Sunshine Beside You | 373565 | [373565-golden-sunshine-beside-you.json](./373565-golden-sunshine-beside-you.json) |
 | Golden Swords | 31195 | [31195-golden-swords.json](./31195-golden-swords.json) |
 | Golden Swords Complete | 53075 | [53075-golden-swords-complete.json](./53075-golden-swords-complete.json) |
 | Golden Tee | 72781 | [72781-golden-tee.json](./72781-golden-tee.json) |
@@ -8578,6 +8581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilds of Mountgate | 405523 | [405523-guilds-of-mountgate.json](./405523-guilds-of-mountgate.json) |
 | Guile | 13249 | [13249-guile.json](./13249-guile.json) |
 | Guiling's Adventure | 355200 | [355200-guilings-adventure.json](./355200-guilings-adventure.json) |
+| Guillem de Berguedà | 373571 | [373571-guillem-de-bergueda.json](./373571-guillem-de-bergueda.json) |
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
 | Guillotine | 160117 | [160117-guillotine.json](./160117-guillotine.json) |
 | Guilt | 341099 | [341099-guilt.json](./341099-guilt.json) |
