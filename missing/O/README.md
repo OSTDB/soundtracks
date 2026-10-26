@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hour And A Straight Line | 278986 | [278986-one-hour-and-a-straight-line.json](./278986-one-hour-and-a-straight-line.json) |
 | One Hour Left | 123951 | [123951-one-hour-left.json](./123951-one-hour-left.json) |
 | One Hour One Life | 56997 | [56997-one-hour-one-life.json](./56997-one-hour-one-life.json) |
+| One Hour With Mr. Hopp | 344303 | [344303-one-hour-with-mr-hopp.json](./344303-one-hour-with-mr-hopp.json) |
 | One Humanity | 261964 | [261964-one-humanity.json](./261964-one-humanity.json) |
 | One Hundred Times Me | 114818 | [114818-one-hundred-times-me.json](./114818-one-hundred-times-me.json) |
 | One Hundred Ways | 13218 | [13218-one-hundred-ways.json](./13218-one-hundred-ways.json) |
