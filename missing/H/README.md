@@ -7216,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold the Line: The American Revolution | 55518 | [55518-hold-the-line-the-american-revolution.json](./55518-hold-the-line-the-american-revolution.json) |
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
+| Hold Your Breadth DX | 374640 | [374640-hold-your-breadth-dx.json](./374640-hold-your-breadth-dx.json) |
 | Hold Your Fire: A Game About Responsibility | 20029 | [20029-hold-your-fire-a-game-about-responsibility.json](./20029-hold-your-fire-a-game-about-responsibility.json) |
 | Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
 | Hold Your Horses | 417468 | [417468-hold-your-horses.json](./417468-hold-your-horses.json) |
