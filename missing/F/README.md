@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateful Mages | 242968 | [242968-fateful-mages.json](./242968-fateful-mages.json) |
 | Fateholders of Tetsoidea | 43158 | [43158-fateholders-of-tetsoidea.json](./43158-fateholders-of-tetsoidea.json) |
+| Fatekeeper | 358769 | [358769-fatekeeper.json](./358769-fatekeeper.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Fatermyth | 291159 | [291159-fatermyth.json](./291159-fatermyth.json) |
 | Fates Call: A New Beginning | 169480 | [169480-fates-call-a-new-beginning.json](./169480-fates-call-a-new-beginning.json) |
