@@ -3100,7 +3100,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3975,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent | 283400 | [283400-agent.json](./283400-agent.json) |
 | Agent 00111 | 120100 | [120100-agent-00111.json](./120100-agent-00111.json) |
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
+| Agent 07: Spy Revenge | 344298 | [344298-agent-07-spy-revenge.json](./344298-agent-07-spy-revenge.json) |
 | Agent 079 | 64202 | [64202-agent-079.json](./64202-agent-079.json) |
 | Agent 64: Spies Never Die | 148270 | [148270-agent-64-spies-never-die.json](./148270-agent-64-spies-never-die.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
@@ -15133,6 +15133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
 | AX-8: Galaxy Mission | 91460 | [91460-ax-8-galaxy-mission.json](./91460-ax-8-galaxy-mission.json) |
 | AX: Portal Slayers | 291710 | [291710-ax-portal-slayers.json](./291710-ax-portal-slayers.json) |
+| AXA | 344307 | [344307-axa.json](./344307-axa.json) |
 | Axan Ships | 120152 | [120152-axan-ships.json](./120152-axan-ships.json) |
 | Axan Ships: Low Poly | 118348 | [118348-axan-ships-low-poly.json](./118348-axan-ships-low-poly.json) |
 | Axe Ace | 309000 | [309000-axe-ace.json](./309000-axe-ace.json) |
