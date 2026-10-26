@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyrion: Galactic Survival - Dark Faction | 294938 | [294938-empyrion-galactic-survival-dark-faction.json](./294938-empyrion-galactic-survival-dark-faction.json) |
 | Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
+| Emu Otori Clicker | 341993 | [341993-emu-otori-clicker.json](./341993-emu-otori-clicker.json) |
 | Emüd | 60842 | [60842-emud.json](./60842-emud.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
 | Emurinoo | 139149 | [139149-emurinoo.json](./139149-emurinoo.json) |
@@ -4299,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Irene: Parasite | 370856 | [370856-escape-from-irene-parasite.json](./370856-escape-from-irene-parasite.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
 | Escape From Island | 317331 | [317331-escape-from-island.json](./317331-escape-from-island.json) |
+| Escape From Island | 341975 | [341975-escape-from-island.json](./341975-escape-from-island.json) |
 | Escape From Ithara | 224559 | [224559-escape-from-ithara.json](./224559-escape-from-ithara.json) |
 | Escape from Jay Is Games | 103169 | [103169-escape-from-jay-is-games.json](./103169-escape-from-jay-is-games.json) |
 | Escape from Kabagahara | 134949 | [134949-escape-from-kabagahara.json](./134949-escape-from-kabagahara.json) |
