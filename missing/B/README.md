@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Badtz-Maru Robo Battle | 92603 | [92603-bad-badtz-maru-robo-battle.json](./92603-bad-badtz-maru-robo-battle.json) |
 | Bad Banker | 57747 | [57747-bad-banker.json](./57747-bad-banker.json) |
 | Bad Banker | 58139 | [58139-bad-banker.json](./58139-bad-banker.json) |
+| Bad Beat | 377115 | [377115-bad-beat.json](./377115-bad-beat.json) |
 | Bad Birds | 205962 | [205962-bad-birds.json](./205962-bad-birds.json) |
 | Bad Birds | 302774 | [302774-bad-birds.json](./302774-bad-birds.json) |
 | Bad birthday | 30642 | [30642-bad-birthday.json](./30642-bad-birthday.json) |
@@ -799,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3561,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
 | Battlefield: Bad Company 2 Ultimate Edition | 41892 | [41892-battlefield-bad-company-2-ultimate-edition.json](./41892-battlefield-bad-company-2-ultimate-edition.json) |
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
+| Battlefield: Galactic Conquest | 377641 | [377641-battlefield-galactic-conquest.json](./377641-battlefield-galactic-conquest.json) |
 | Battlefish: Free Zombie Games | 39766 | [39766-battlefish-free-zombie-games.json](./39766-battlefish-free-zombie-games.json) |
 | Battlefleet Commander | 91552 | [91552-battlefleet-commander.json](./91552-battlefleet-commander.json) |
 | Battlefleet Engineer | 36999 | [36999-battlefleet-engineer.json](./36999-battlefleet-engineer.json) |
@@ -7938,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade X: End of Darkness | 381878 | [381878-blade-x-end-of-darkness.json](./381878-blade-x-end-of-darkness.json) |
 | Blade-Shift Rage | 219209 | [219209-blade-shift-rage.json](./219209-blade-shift-rage.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
+| Blade.exe | 377036 | [377036-blade-exe.json](./377036-blade-exe.json) |
 | Blade's Burden | 284009 | [284009-blades-burden.json](./284009-blades-burden.json) |
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
 | Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
@@ -11270,6 +11274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots Chaos | 243595 | [243595-bots-chaos.json](./243595-bots-chaos.json) |
 | Bots City | 207690 | [207690-bots-city.json](./207690-bots-city.json) |
 | Bots Crusher Arena | 203895 | [203895-bots-crusher-arena.json](./203895-bots-crusher-arena.json) |
+| Bots N-Bloom | 377632 | [377632-bots-n-bloom.json](./377632-bots-n-bloom.json) |
 | Bots n' Bugs | 183979 | [183979-bots-n-bugs.json](./183979-bots-n-bugs.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bots!! | 175926 | [175926-bots.json](./175926-bots.json) |
