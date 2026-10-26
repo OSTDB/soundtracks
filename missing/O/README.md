@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
 | OHM 2 | 273571 | [273571-ohm-2.json](./273571-ohm-2.json) |
+| Ohmydollz | 344844 | [344844-ohmydollz.json](./344844-ohmydollz.json) |
 | Ohmygod Are You Alright? | 59724 | [59724-ohmygod-are-you-alright.json](./59724-ohmygod-are-you-alright.json) |
 | OhMyRace! | 274900 | [274900-ohmyrace.json](./274900-ohmyrace.json) |
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
@@ -1806,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Time... Life: Origins | 212171 | [212171-once-upon-a-time-life-origins.json](./212171-once-upon-a-time-life-origins.json) |
 | Once Upon an All Hallow's Eve | 29718 | [29718-once-upon-an-all-hallows-eve.json](./29718-once-upon-an-all-hallows-eve.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
+| Once Upon an Island | 344857 | [344857-once-upon-an-island.json](./344857-once-upon-an-island.json) |
 | Once Upon Atrocity | 271245 | [271245-once-upon-atrocity.json](./271245-once-upon-atrocity.json) |
 | Once You Understand the Meaning These Comics Become Scary | 409696 | [409696-once-you-understand-the-meaning-these-comics-become-scary.json](./409696-once-you-understand-the-meaning-these-comics-become-scary.json) |
 | Once,in Times of Chaos | 164248 | [164248-once-in-times-of-chaos.json](./164248-once-in-times-of-chaos.json) |
@@ -3662,6 +3664,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
 | Orwell: Keeping an Eye on You | 22704 | [22704-orwell-keeping-an-eye-on-you.json](./22704-orwell-keeping-an-eye-on-you.json) |
 | Oryks | 311159 | [311159-oryks.json](./311159-oryks.json) |
+| Oryouri Pon! | 344845 | [344845-oryouri-pon.json](./344845-oryouri-pon.json) |
+| Oryouri Pon! 1-gatsu-gou | 344849 | [344849-oryouri-pon-1-gatsu-gou.json](./344849-oryouri-pon-1-gatsu-gou.json) |
+| Oryouri Pon! 11-gatsu-gou | 344848 | [344848-oryouri-pon-11-gatsu-gou.json](./344848-oryouri-pon-11-gatsu-gou.json) |
+| Oryouri Pon! 12-gatsu-gou | 344847 | [344847-oryouri-pon-12-gatsu-gou.json](./344847-oryouri-pon-12-gatsu-gou.json) |
+| Oryouri Pon! 2-gatsu-gou | 344850 | [344850-oryouri-pon-2-gatsu-gou.json](./344850-oryouri-pon-2-gatsu-gou.json) |
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
 | Os Cavaleiros do Zodíaco: A Guerra Galáctica | 278870 | [278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json](./278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
@@ -3835,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello World | 228628 | [228628-othello-world.json](./228628-othello-world.json) |
 | Othello World | 42515 | [42515-othello-world.json](./42515-othello-world.json) |
 | Othello World II: Yume to Michi e no Chousen | 54949 | [54949-othello-world-ii-yume-to-michi-e-no-chousen.json](./54949-othello-world-ii-yume-to-michi-e-no-chousen.json) |
+| Othello: Battle Royale | 346513 | [346513-othello-battle-royale.json](./346513-othello-battle-royale.json) |
 | Other | 197274 | [197274-other.json](./197274-other.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other People's Fiancee Became My Woman | 216965 | [216965-other-peoples-fiancee-became-my-woman.json](./216965-other-peoples-fiancee-became-my-woman.json) |
