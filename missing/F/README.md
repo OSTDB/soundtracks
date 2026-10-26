@@ -3299,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feng Shen Bang 2023 | 267005 | [267005-feng-shen-bang-2023.json](./267005-feng-shen-bang-2023.json) |
 | Fēng Shén Chuánqí | 414120 | [414120-feng-shen-chuanqi.json](./414120-feng-shen-chuanqi.json) |
 | Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
+| Fēng zhī Gǔ II | 343186 | [343186-feng-zhi-gu-ii.json](./343186-feng-zhi-gu-ii.json) |
 | Feng-Shui Master | 256708 | [256708-feng-shui-master.json](./256708-feng-shui-master.json) |
 | Fengdu: Chronicles of Battle | 318064 | [318064-fengdu-chronicles-of-battle.json](./318064-fengdu-chronicles-of-battle.json) |
 | Fèngjīng Mìshì | 395958 | [395958-fengjing-mishi.json](./395958-fengjing-mishi.json) |
@@ -6680,6 +6681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper & Unboxing House 2-in-1 | 414442 | [414442-flipper-and-unboxing-house-2-in-1.json](./414442-flipper-and-unboxing-house-2-in-1.json) |
 | Flipper 2: Flush the Goldfish | 60894 | [60894-flipper-2-flush-the-goldfish.json](./60894-flipper-2-flush-the-goldfish.json) |
 | Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
+| Flipper Frenzy | 343485 | [343485-flipper-frenzy.json](./343485-flipper-frenzy.json) |
 | Flipper Hazard | 44115 | [44115-flipper-hazard.json](./44115-flipper-hazard.json) |
 | Flipper Hazard 2 | 54483 | [54483-flipper-hazard-2.json](./54483-flipper-hazard-2.json) |
 | Flipper Hazard 4 | 55239 | [55239-flipper-hazard-4.json](./55239-flipper-hazard-4.json) |
@@ -7252,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Candy | 379123 | [379123-flying-candy.json](./379123-flying-candy.json) |
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
+| Flying Chicken | 343490 | [343490-flying-chicken.json](./343490-flying-chicken.json) |
 | Flying Circus | 114859 | [114859-flying-circus.json](./114859-flying-circus.json) |
 | Flying Comet | 175090 | [175090-flying-comet.json](./175090-flying-comet.json) |
 | Flying Corps | 47082 | [47082-flying-corps.json](./47082-flying-corps.json) |
