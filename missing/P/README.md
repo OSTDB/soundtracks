@@ -4371,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: The Endless Night - Collector's Edition | 28594 | [28594-phantasmat-the-endless-night-collectors-edition.json](./28594-phantasmat-the-endless-night-collectors-edition.json) |
 | Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
 | Phantasmat: Town of Lost Hope | 104402 | [104402-phantasmat-town-of-lost-hope.json](./104402-phantasmat-town-of-lost-hope.json) |
+| Phantasms: Maledictus | 335206 | [335206-phantasms-maledictus.json](./335206-phantasms-maledictus.json) |
 | Phantasos | 297919 | [297919-phantasos.json](./297919-phantasos.json) |
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
