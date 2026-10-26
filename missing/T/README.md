@@ -8095,6 +8095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest Cries | 185101 | [185101-the-forest-cries.json](./185101-the-forest-cries.json) |
 | The Forest Keeper | 370190 | [370190-the-forest-keeper.json](./370190-the-forest-keeper.json) |
 | The Forest of Doom | 231461 | [231461-the-forest-of-doom.json](./231461-the-forest-of-doom.json) |
+| The Forest of Noise | 362798 | [362798-the-forest-of-noise.json](./362798-the-forest-of-noise.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
 | The Forest Quartet | 159958 | [159958-the-forest-quartet.json](./159958-the-forest-quartet.json) |
 | The Forest Watches | 383947 | [383947-the-forest-watches.json](./383947-the-forest-watches.json) |
@@ -8151,6 +8152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Four Seasons | 289746 | [289746-the-four-seasons.json](./289746-the-four-seasons.json) |
 | The Fourteen Day Letters | 411627 | [411627-the-fourteen-day-letters.json](./411627-the-fourteen-day-letters.json) |
 | The Fourth Age: Total War | 356261 | [356261-the-fourth-age-total-war.json](./356261-the-fourth-age-total-war.json) |
+| The Fourth Anno | 362776 | [362776-the-fourth-anno.json](./362776-the-fourth-anno.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
 | The Fourth Sense Evolution: Stone Age | 270876 | [270876-the-fourth-sense-evolution-stone-age.json](./270876-the-fourth-sense-evolution-stone-age.json) |
 | The Fourth Wall | 65386 | [65386-the-fourth-wall.json](./65386-the-fourth-wall.json) |
@@ -8817,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
 | The Healer | 188865 | [188865-the-healer.json](./188865-the-healer.json) |
+| The Healing of Sisyphus | 362867 | [362867-the-healing-of-sisyphus.json](./362867-the-healing-of-sisyphus.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
 | The Heart of Darkness | 164909 | [164909-the-heart-of-darkness.json](./164909-the-heart-of-darkness.json) |
 | The Heart of Influencer | 342275 | [342275-the-heart-of-influencer.json](./342275-the-heart-of-influencer.json) |
@@ -10809,6 +10812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light Of Our Yearning | 382968 | [382968-the-light-of-our-yearning.json](./382968-the-light-of-our-yearning.json) |
 | The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
 | The Light of the Darkness: Renascence | 24706 | [24706-the-light-of-the-darkness-renascence.json](./24706-the-light-of-the-darkness-renascence.json) |
+| The Light Prince | 362791 | [362791-the-light-prince.json](./362791-the-light-prince.json) |
 | The Light Remake | 123791 | [123791-the-light-remake.json](./123791-the-light-remake.json) |
 | The Light That Binds Us | 410035 | [410035-the-light-that-binds-us.json](./410035-the-light-that-binds-us.json) |
 | The Light Will Lead You Home | 165375 | [165375-the-light-will-lead-you-home.json](./165375-the-light-will-lead-you-home.json) |
@@ -12304,6 +12308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Trials: Chapter 3 | 285420 | [285420-the-paper-trials-chapter-3.json](./285420-the-paper-trials-chapter-3.json) |
 | The Paperman | 126922 | [126922-the-paperman.json](./126922-the-paperman.json) |
 | The Paracelsian Project | 244726 | [244726-the-paracelsian-project.json](./244726-the-paracelsian-project.json) |
+| The Parade | 362872 | [362872-the-parade.json](./362872-the-parade.json) |
 | The Paradell | 249078 | [249078-the-paradell.json](./249078-the-paradell.json) |
 | The Paradise of Elves | 82631 | [82631-the-paradise-of-elves.json](./82631-the-paradise-of-elves.json) |
 | The Paradixion: Laboratory | 262474 | [262474-the-paradixion-laboratory.json](./262474-the-paradixion-laboratory.json) |
@@ -15226,6 +15231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
 | The Tuesday Collection | 331403 | [331403-the-tuesday-collection.json](./331403-the-tuesday-collection.json) |
 | The Tumor | 348448 | [348448-the-tumor.json](./348448-the-tumor.json) |
+| The Tunnel | 362800 | [362800-the-tunnel.json](./362800-the-tunnel.json) |
 | The TunnelMan | 70440 | [70440-the-tunnelman.json](./70440-the-tunnelman.json) |
 | The Tunnels | 326279 | [326279-the-tunnels.json](./326279-the-tunnels.json) |
 | The Turdler | 108301 | [108301-the-turdler.json](./108301-the-turdler.json) |
@@ -23022,6 +23028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Tanks | 149450 | [149450-toy-tanks.json](./149450-toy-tanks.json) |
 | Toy Terribles | 383707 | [383707-toy-terribles.json](./383707-toy-terribles.json) |
 | Toy Tinker Simulator | 150000 | [150000-toy-tinker-simulator.json](./150000-toy-tinker-simulator.json) |
+| Toy Town Mayhem | 362780 | [362780-toy-town-mayhem.json](./362780-toy-town-mayhem.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
 | Toy Warfare | 355888 | [355888-toy-warfare.json](./355888-toy-warfare.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
