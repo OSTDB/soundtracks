@@ -11924,6 +11924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Crawler | 375210 | [375210-the-night-crawler.json](./375210-the-night-crawler.json) |
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
+| The Night Gym | 366333 | [366333-the-night-gym.json](./366333-the-night-gym.json) |
 | The Night is Darkening | 174573 | [174573-the-night-is-darkening.json](./174573-the-night-is-darkening.json) |
 | The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
