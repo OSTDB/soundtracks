@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
 | Radon Break | 195006 | [195006-radon-break.json](./195006-radon-break.json) |
 | RADS: The Radioactive Apocalypse Dating Simulator | 290822 | [290822-rads-the-radioactive-apocalypse-dating-simulator.json](./290822-rads-the-radioactive-apocalypse-dating-simulator.json) |
+| Radventure: The Rise of Ryle | 346530 | [346530-radventure-the-rise-of-ryle.json](./346530-radventure-the-rise-of-ryle.json) |
 | Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor: Call of the Shadows - 2015 Edition | 36115 | [36115-raptor-call-of-the-shadows-2015-edition.json](./36115-raptor-call-of-the-shadows-2015-edition.json) |
 | Raptor: Cretaceous Island | 111850 | [111850-raptor-cretaceous-island.json](./111850-raptor-cretaceous-island.json) |
 | Raptors of SouthEdge | 163786 | [163786-raptors-of-southedge.json](./163786-raptors-of-southedge.json) |
+| Raptors vs. Goblins | 346518 | [346518-raptors-vs-goblins.json](./346518-raptors-vs-goblins.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
 | Rapture: World Conquest | 47163 | [47163-rapture-world-conquest.json](./47163-rapture-world-conquest.json) |
@@ -3777,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refrain no Chika Meikyuu to Majo no Ryodan: Limited Edition | 201050 | [201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json](./201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json) |
 | RefRain: Prism Memories | 33659 | [33659-refrain-prism-memories.json](./33659-refrain-prism-memories.json) |
 | RefRain: Prism Memories - Collector's Edition | 53499 | [53499-refrain-prism-memories-collectors-edition.json](./53499-refrain-prism-memories-collectors-edition.json) |
+| Reframe | 346523 | [346523-reframe.json](./346523-reframe.json) |
 | Reframed | 93794 | [93794-reframed.json](./93794-reframed.json) |
 | Refreshing Sideways Puzzle Ghost Hammer | 147716 | [147716-refreshing-sideways-puzzle-ghost-hammer.json](./147716-refreshing-sideways-puzzle-ghost-hammer.json) |
 | Refuge | 110251 | [110251-refuge.json](./110251-refuge.json) |
@@ -3824,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
 | Regnum Idle | 390210 | [390210-regnum-idle.json](./390210-regnum-idle.json) |
 | Regola | 119593 | [119593-regola.json](./119593-regola.json) |
+| Regolith: Viozic Suns | 345806 | [345806-regolith-viozic-suns.json](./345806-regolith-viozic-suns.json) |
 | Regression | 391704 | [391704-regression.json](./391704-regression.json) |
 | Regret | 391791 | [391791-regret.json](./391791-regret.json) |
 | Regretful Ghosts | 318542 | [318542-regretful-ghosts.json](./318542-regretful-ghosts.json) |
@@ -4071,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
+| RelicWar | 345809 | [345809-relicwar.json](./345809-relicwar.json) |
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
 | Relief Pitcher | 39507 | [39507-relief-pitcher.json](./39507-relief-pitcher.json) |
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
@@ -6653,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Triad: Ludicrous Edition | 218098 | [218098-rise-of-the-triad-ludicrous-edition.json](./218098-rise-of-the-triad-ludicrous-edition.json) |
 | Rise of the Triad: The Hunt Begins | 84147 | [84147-rise-of-the-triad-the-hunt-begins.json](./84147-rise-of-the-triad-the-hunt-begins.json) |
 | Rise of the Underdog King! | 333409 | [333409-rise-of-the-underdog-king.json](./333409-rise-of-the-underdog-king.json) |
+| Rise of the Vanguard | 346525 | [346525-rise-of-the-vanguard.json](./346525-rise-of-the-vanguard.json) |
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
 | Rise of the White Flower | 387043 | [387043-rise-of-the-white-flower.json](./387043-rise-of-the-white-flower.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
@@ -9103,6 +9109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronin's Requiem | 305289 | [305289-ronins-requiem.json](./305289-ronins-requiem.json) |
 | Ronin's Run | 220705 | [220705-ronins-run.json](./220705-ronins-run.json) |
+| Ronin's Way | 345810 | [345810-ronins-way.json](./345810-ronins-way.json) |
 | Ronister Adventure | 164898 | [164898-ronister-adventure.json](./164898-ronister-adventure.json) |
 | Roniu's Tale | 161178 | [161178-ronius-tale.json](./161178-ronius-tale.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
