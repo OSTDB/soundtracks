@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuar Z | 270869 | [270869-virtuar-z.json](./270869-virtuar-z.json) |
 | VirtuaVerse | 36850 | [36850-virtuaverse.json](./36850-virtuaverse.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
+| Virtue and a Sledgehammer | 381077 | [381077-virtue-and-a-sledgehammer.json](./381077-virtue-and-a-sledgehammer.json) |
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
 | Virtuelle Moorhuhn Jagd | 282432 | [282432-virtuelle-moorhuhn-jagd.json](./282432-virtuelle-moorhuhn-jagd.json) |
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voya Nui Online Game | 155023 | [155023-voya-nui-online-game.json](./155023-voya-nui-online-game.json) |
 | Voyage | 119617 | [119617-voyage.json](./119617-voyage.json) |
 | Voyage | 232012 | [232012-voyage.json](./232012-voyage.json) |
+| Voyage | 381061 | [381061-voyage.json](./381061-voyage.json) |
 | Voyage Century | 92395 | [92395-voyage-century.json](./92395-voyage-century.json) |
 | Voyage of the Starship Lexicon | 60486 | [60486-voyage-of-the-starship-lexicon.json](./60486-voyage-of-the-starship-lexicon.json) |
 | Voyage of the Valkyrie | 24882 | [24882-voyage-of-the-valkyrie.json](./24882-voyage-of-the-valkyrie.json) |
