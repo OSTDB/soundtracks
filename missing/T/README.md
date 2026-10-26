@@ -6654,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Convergence II | 171840 | [171840-the-dark-convergence-ii.json](./171840-the-dark-convergence-ii.json) |
 | The Dark Cowboy | 269189 | [269189-the-dark-cowboy.json](./269189-the-dark-cowboy.json) |
 | The Dark Crown: Genesis | 221144 | [221144-the-dark-crown-genesis.json](./221144-the-dark-crown-genesis.json) |
+| The Dark Crown: Genesis Demake | 368531 | [368531-the-dark-crown-genesis-demake.json](./368531-the-dark-crown-genesis-demake.json) |
 | The Dark Crystal | 14575 | [14575-the-dark-crystal.json](./14575-the-dark-crystal.json) |
 | The Dark Curiosity | 381002 | [381002-the-dark-curiosity.json](./381002-the-dark-curiosity.json) |
 | The Dark Debt | 283769 | [283769-the-dark-debt.json](./283769-the-dark-debt.json) |
@@ -7146,6 +7147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duchess Affair | 313886 | [313886-the-duchess-affair.json](./313886-the-duchess-affair.json) |
 | The Duck Amikaze Strikes Back | 344544 | [344544-the-duck-amikaze-strikes-back.json](./344544-the-duck-amikaze-strikes-back.json) |
 | The Duck Fell | 140941 | [140941-the-duck-fell.json](./140941-the-duck-fell.json) |
+| The Duck Is In Danger | 368532 | [368532-the-duck-is-in-danger.json](./368532-the-duck-is-in-danger.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Duck Song Game | 205616 | [205616-the-duck-song-game.json](./205616-the-duck-song-game.json) |
 | The Duckforce Rises | 59280 | [59280-the-duckforce-rises.json](./59280-the-duckforce-rises.json) |
