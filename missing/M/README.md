@@ -8562,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MGA's Pocket LCD Games: Basketball | 245442 | [245442-mgas-pocket-lcd-games-basketball.json](./245442-mgas-pocket-lcd-games-basketball.json) |
 | MGCM Combat Edition | 264805 | [264805-mgcm-combat-edition.json](./264805-mgcm-combat-edition.json) |
 | MGCM Combat Edition: DLC Char: Kamisaman (Isana Hakari) | 293455 | [293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json](./293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json) |
+| MGM Slots Live | 370750 | [370750-mgm-slots-live.json](./370750-mgm-slots-live.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MH-Zombie | 194866 | [194866-mh-zombie.json](./194866-mh-zombie.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
@@ -11209,6 +11210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miscreant | 422649 | [422649-miscreant.json](./422649-miscreant.json) |
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
+| Miscrits: World of Creatures | 370628 | [370628-miscrits-world-of-creatures.json](./370628-miscrits-world-of-creatures.json) |
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
 | Misdamnation | 408489 | [408489-misdamnation.json](./408489-misdamnation.json) |
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
@@ -12325,6 +12327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole in a Hole | 256195 | [256195-mole-in-a-hole.json](./256195-mole-in-a-hole.json) |
 | Mole Maiden | 205035 | [205035-mole-maiden.json](./205035-mole-maiden.json) |
 | Mole Mania | 49038 | [49038-mole-mania.json](./49038-mole-mania.json) |
+| Mole Mania DX | 370742 | [370742-mole-mania-dx.json](./370742-mole-mania-dx.json) |
 | Mole Mash | 359726 | [359726-mole-mash.json](./359726-mole-mash.json) |
 | Mole Mayhem | 346259 | [346259-mole-mayhem.json](./346259-mole-mayhem.json) |
 | Mole Mine Rocks 0.15 | 321164 | [321164-mole-mine-rocks-0-15.json](./321164-mole-mine-rocks-0-15.json) |
@@ -18393,6 +18396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyTP Snowboarding 3 | 235115 | [235115-mytp-snowboarding-3.json](./235115-mytp-snowboarding-3.json) |
 | Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
 | Myulk | 334276 | [334276-myulk.json](./334276-myulk.json) |
+| MyVegas Bingo | 370748 | [370748-myvegas-bingo.json](./370748-myvegas-bingo.json) |
 | MyVegas Blackjack | 370751 | [370751-myvegas-blackjack.json](./370751-myvegas-blackjack.json) |
 | MyVegas Slots | 323168 | [323168-myvegas-slots.json](./323168-myvegas-slots.json) |
 | MyWhoosh | 392380 | [392380-mywhoosh.json](./392380-mywhoosh.json) |
