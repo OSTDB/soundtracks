@@ -17190,6 +17190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
 | Threshold Sector | 305644 | [305644-threshold-sector.json](./305644-threshold-sector.json) |
 | Threshold Warden | 414794 | [414794-threshold-warden.json](./414794-threshold-warden.json) |
+| Thrice Cursed | 341987 | [341987-thrice-cursed.json](./341987-thrice-cursed.json) |
 | Thrice Doomed | 294769 | [294769-thrice-doomed.json](./294769-thrice-doomed.json) |
 | Thrice in a row | 133176 | [133176-thrice-in-a-row.json](./133176-thrice-in-a-row.json) |
 | Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
@@ -26750,6 +26751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trupki | 281924 | [281924-trupki.json](./281924-trupki.json) |
 | Trushybin & Removin: What I Couldn’t Delete | 390273 | [390273-trushybin-and-removin-what-i-couldn-t-delete.json](./390273-trushybin-and-removin-what-i-couldn-t-delete.json) |
 | Truss | 230370 | [230370-truss.json](./230370-truss.json) |
+| Trust | 341979 | [341979-trust.json](./341979-trust.json) |
 | Trust | 378310 | [378310-trust.json](./378310-trust.json) |
 | Trust & Safety Tycoon | 343212 | [343212-trust-and-safety-tycoon.json](./343212-trust-and-safety-tycoon.json) |
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
