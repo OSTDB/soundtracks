@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
 | Daimei no nai Game Rigakkkai | 236746 | [236746-daimei-no-nai-game-rigakkkai.json](./236746-daimei-no-nai-game-rigakkkai.json) |
 | Daimon Comics: Herofrenia | 373266 | [373266-daimon-comics-herofrenia.json](./373266-daimon-comics-herofrenia.json) |
+| Daimu | 364543 | [364543-daimu.json](./364543-daimu.json) |
 | Dain Squares | 380617 | [380617-dain-squares.json](./380617-dain-squares.json) |
 | Daina Airan | 165448 | [165448-daina-airan.json](./165448-daina-airan.json) |
 | Dainty Pain | 136232 | [136232-dainty-pain.json](./136232-dainty-pain.json) |
@@ -7986,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinomod | 160287 | [160287-dinomod.json](./160287-dinomod.json) |
 | DinoOps | 33334 | [33334-dinoops.json](./33334-dinoops.json) |
 | Dinopatch | 160286 | [160286-dinopatch.json](./160286-dinopatch.json) |
+| Dinopirates from Inner Space: Brocolation | 364430 | [364430-dinopirates-from-inner-space-brocolation.json](./364430-dinopirates-from-inner-space-brocolation.json) |
 | DinoPlanet VR | 244835 | [244835-dinoplanet-vr.json](./244835-dinoplanet-vr.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinorage | 180581 | [180581-dinorage.json](./180581-dinorage.json) |
@@ -10082,6 +10084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino | 77152 | [77152-domino.json](./77152-domino.json) |
 | Domino | 81081 | [81081-domino.json](./81081-domino.json) |
 | Domino | 88838 | [88838-domino.json](./88838-domino.json) |
+| Dominó | 364434 | [364434-domino.json](./364434-domino.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
 | Domino Club | 275266 | [275266-domino-club.json](./275266-domino-club.json) |
 | Domino Craft VR | 30071 | [30071-domino-craft-vr.json](./30071-domino-craft-vr.json) |
@@ -11484,8 +11487,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu Banchou | 151836 | [151836-doubutsu-banchou.json](./151836-doubutsu-banchou.json) |
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori e+: Card e Reader+ to Card e+ | 354778 | [354778-doubutsu-no-mori-e-card-e-reader-to-card-e.json](./354778-doubutsu-no-mori-e-card-e-reader-to-card-e.json) |
+| Doubutsu no Mori e+: D01 - Design Card: Jump Mario | 364444 | [364444-doubutsu-no-mori-e-d01-design-card-jump-mario.json](./364444-doubutsu-no-mori-e-d01-design-card-jump-mario.json) |
+| Doubutsu no Mori e+: D02 - Design Card: Yuusha no Fuku | 364442 | [364442-doubutsu-no-mori-e-d02-design-card-yuusha-no-fuku.json](./364442-doubutsu-no-mori-e-d02-design-card-yuusha-no-fuku.json) |
+| Doubutsu no Mori e+: D03 - Design Card: Wagamama na Hito no Fuku | 364445 | [364445-doubutsu-no-mori-e-d03-design-card-wagamama-na-hito-no-fuku.json](./364445-doubutsu-no-mori-e-d03-design-card-wagamama-na-hito-no-fuku.json) |
+| Doubutsu no Mori e+: D04 - Design Card: Totakeke no T-shirt | 364446 | [364446-doubutsu-no-mori-e-d04-design-card-totakeke-no-t-shirt.json](./364446-doubutsu-no-mori-e-d04-design-card-totakeke-no-t-shirt.json) |
+| Doubutsu no Mori e+: D05 - Design Card: Samus no Suit | 364440 | [364440-doubutsu-no-mori-e-d05-design-card-samus-no-suit.json](./364440-doubutsu-no-mori-e-d05-design-card-samus-no-suit.json) |
+| Doubutsu no Mori e+: D06 - Design Card: Yoshi no Tamago | 364447 | [364447-doubutsu-no-mori-e-d06-design-card-yoshi-no-tamago.json](./364447-doubutsu-no-mori-e-d06-design-card-yoshi-no-tamago.json) |
+| Doubutsu no Mori e+: D07 - Design Card: Pikmin Moyou | 364448 | [364448-doubutsu-no-mori-e-d07-design-card-pikmin-moyou.json](./364448-doubutsu-no-mori-e-d07-design-card-pikmin-moyou.json) |
+| Doubutsu no Mori e+: D08 - Design Card: Ikari no Reset-san | 364450 | [364450-doubutsu-no-mori-e-d08-design-card-ikari-no-reset-san.json](./364450-doubutsu-no-mori-e-d08-design-card-ikari-no-reset-san.json) |
 | Doubutsu no Mori e+: D09 - Design Card: Falcon no Suit | 354770 | [354770-doubutsu-no-mori-e-d09-design-card-falcon-no-suit.json](./354770-doubutsu-no-mori-e-d09-design-card-falcon-no-suit.json) |
+| Doubutsu no Mori e+: D10 - Design Card: Fox no Mark | 364438 | [364438-doubutsu-no-mori-e-d10-design-card-fox-no-mark.json](./364438-doubutsu-no-mori-e-d10-design-card-fox-no-mark.json) |
 | Doubutsu no Mori e+: D11 - Design Card: DK Logo | 354771 | [354771-doubutsu-no-mori-e-d11-design-card-dk-logo.json](./354771-doubutsu-no-mori-e-d11-design-card-dk-logo.json) |
+| Doubutsu no Mori e+: D12 - Design Card: Kappei no Kao | 364452 | [364452-doubutsu-no-mori-e-d12-design-card-kappei-no-kao.json](./364452-doubutsu-no-mori-e-d12-design-card-kappei-no-kao.json) |
 | Doubutsu no Mori e+: Doubutsu-tachi to Asobou! - Daruma-san ga Koronda | 354780 | [354780-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-daruma-san-ga-koronda.json](./354780-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-daruma-san-ga-koronda.json) |
 | Doubutsu no Mori e+: Doubutsu-tachi to Asobou! - Don Janken | 354782 | [354782-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-don-janken.json](./354782-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-don-janken.json) |
 | Doubutsu no Mori e+: Doubutsu-tachi to Asobou! - Naka Dodge | 354781 | [354781-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-naka-dodge.json](./354781-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-naka-dodge.json) |
@@ -14595,6 +14608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
 | Duel of games | 292581 | [292581-duel-of-games.json](./292581-duel-of-games.json) |
 | Duel of Honor | 272239 | [272239-duel-of-honor.json](./272239-duel-of-honor.json) |
+| Duel of Shadows | 364458 | [364458-duel-of-shadows.json](./364458-duel-of-shadows.json) |
 | Duel of Summoners | 67602 | [67602-duel-of-summoners.json](./67602-duel-of-summoners.json) |
 | Duel of Sword | 188290 | [188290-duel-of-sword.json](./188290-duel-of-sword.json) |
 | Duel of Sword | 196548 | [196548-duel-of-sword.json](./196548-duel-of-sword.json) |
@@ -14791,6 +14805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
 | Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
 | Dun Darach | 12578 | [12578-dun-darach.json](./12578-dun-darach.json) |
+| Dun Dun Crawl | 364470 | [364470-dun-dun-crawl.json](./364470-dun-dun-crawl.json) |
 | Dunamis 15 | 6974 | [6974-dunamis-15.json](./6974-dunamis-15.json) |
 | Dunc's Algomusic | 177441 | [177441-duncs-algomusic.json](./177441-duncs-algomusic.json) |
 | Duncade | 217305 | [217305-duncade.json](./217305-duncade.json) |
