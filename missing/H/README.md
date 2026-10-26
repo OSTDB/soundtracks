@@ -2947,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Project 2 | 140225 | [140225-heat-project-2.json](./140225-heat-project-2.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
+| Heat Retreat | 348159 | [348159-heat-retreat.json](./348159-heat-retreat.json) |
 | Heat Sand Race | 416357 | [416357-heat-sand-race.json](./416357-heat-sand-race.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
