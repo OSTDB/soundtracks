@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey of the Anachronistic Tome | 296201 | [296201-odyssey-of-the-anachronistic-tome.json](./296201-odyssey-of-the-anachronistic-tome.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey Reborn | 286430 | [286430-odyssey-reborn.json](./286430-odyssey-reborn.json) |
+| Odyssey RPG | 357714 | [357714-odyssey-rpg.json](./357714-odyssey-rpg.json) |
 | Odyssey RPG | 62634 | [62634-odyssey-rpg.json](./62634-odyssey-rpg.json) |
 | Odyssey VR | 75617 | [75617-odyssey-vr.json](./75617-odyssey-vr.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
