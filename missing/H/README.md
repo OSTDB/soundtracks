@@ -3490,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbanger | 116162 | [116162-hellbanger.json](./116162-hellbanger.json) |
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellbent | 13069 | [13069-hellbent.json](./13069-hellbent.json) |
+| HellBit | 373047 | [373047-hellbit.json](./373047-hellbit.json) |
 | Hellblade: Senua's Sacrifice - VR Edition | 106107 | [106107-hellblade-senuas-sacrifice-vr-edition.json](./106107-hellblade-senuas-sacrifice-vr-edition.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
 | HellBorn | 373154 | [373154-hellborn.json](./373154-hellborn.json) |
@@ -9207,6 +9208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Point | 390802 | [390802-hover-point.json](./390802-hover-point.json) |
 | Hover Racer | 207904 | [207904-hover-racer.json](./207904-hover-racer.json) |
 | Hover Raid | 423859 | [423859-hover-raid.json](./423859-hover-raid.json) |
+| Hover Rancher | 373048 | [373048-hover-rancher.json](./373048-hover-rancher.json) |
 | Hover Rev Hispeed Burst | 340488 | [340488-hover-rev-hispeed-burst.json](./340488-hover-rev-hispeed-burst.json) |
 | Hover Rider | 244796 | [244796-hover-rider.json](./244796-hover-rider.json) |
 | Hover Ship | 171944 | [171944-hover-ship.json](./171944-hover-ship.json) |
