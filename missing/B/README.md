@@ -805,7 +805,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9765,6 +9764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
 | Blue Lacuna | 8381 | [8381-blue-lacuna.json](./8381-blue-lacuna.json) |
 | Blue Land | 302476 | [302476-blue-land.json](./302476-blue-land.json) |
+| Blue Laserdisc Challenge | 359895 | [359895-blue-laserdisc-challenge.json](./359895-blue-laserdisc-challenge.json) |
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
 | Blue Libra 2 | 25539 | [25539-blue-libra-2.json](./25539-blue-libra-2.json) |
 | Blue Lightning | 12364 | [12364-blue-lightning.json](./12364-blue-lightning.json) |
@@ -15127,6 +15127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Tour: Great Leaders - King | 170241 | [170241-business-tour-great-leaders-king.json](./170241-business-tour-great-leaders-king.json) |
 | Business Tour: Great Leaders - Lincoln | 170234 | [170234-business-tour-great-leaders-lincoln.json](./170234-business-tour-great-leaders-lincoln.json) |
 | Business Tour: Great Leaders - Napoleon | 170235 | [170235-business-tour-great-leaders-napoleon.json](./170235-business-tour-great-leaders-napoleon.json) |
+| Business trip | 359881 | [359881-business-trip.json](./359881-business-trip.json) |
 | Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
 | Business Tycoon Billionaire | 103823 | [103823-business-tycoon-billionaire.json](./103823-business-tycoon-billionaire.json) |
 | Business Wars: The Card Game | 133113 | [133113-business-wars-the-card-game.json](./133113-business-wars-the-card-game.json) |
