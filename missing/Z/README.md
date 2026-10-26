@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombocalypse | 345559 | [345559-zombocalypse.json](./345559-zombocalypse.json) |
 | Zombocalypse | 389509 | [389509-zombocalypse.json](./389509-zombocalypse.json) |
 | Zombocalypse Now! | 374914 | [374914-zombocalypse-now.json](./374914-zombocalypse-now.json) |
+| Zombocity | 377128 | [377128-zombocity.json](./377128-zombocity.json) |
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
 | Zombonic | 408076 | [408076-zombonic.json](./408076-zombonic.json) |
 | Zomborg | 75006 | [75006-zomborg.json](./75006-zomborg.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoop | 20615 | [20615-zoop.json](./20615-zoop.json) |
 | Zoop | 301393 | [301393-zoop.json](./301393-zoop.json) |
 | Zoop | 301395 | [301395-zoop.json](./301395-zoop.json) |
+| Zoop World | 377127 | [377127-zoop-world.json](./377127-zoop-world.json) |
 | Zoop Zoop Bee Adventures 7 | 307394 | [307394-zoop-zoop-bee-adventures-7.json](./307394-zoop-zoop-bee-adventures-7.json) |
 | Zoopaloola | 277235 | [277235-zoopaloola.json](./277235-zoopaloola.json) |
 | ZooPals Mismatch Game | 307397 | [307397-zoopals-mismatch-game.json](./307397-zoopals-mismatch-game.json) |
