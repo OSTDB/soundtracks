@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Toonz: Embers of Creation | 167356 | [167356-fantasy-toonz-embers-of-creation.json](./167356-fantasy-toonz-embers-of-creation.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
+| Fantasy Tower Defense | 357834 | [357834-fantasy-tower-defense.json](./357834-fantasy-tower-defense.json) |
 | Fantasy Tower Defense Ultimate | 289764 | [289764-fantasy-tower-defense-ultimate.json](./289764-fantasy-tower-defense-ultimate.json) |
 | Fantasy Town | 206450 | [206450-fantasy-town.json](./206450-fantasy-town.json) |
 | Fantasy Trader | 338749 | [338749-fantasy-trader.json](./338749-fantasy-trader.json) |
@@ -3327,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feralscape | 185417 | [185417-feralscape.json](./185417-feralscape.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
 | Ferazel's Wand | 146178 | [146178-ferazels-wand.json](./146178-ferazels-wand.json) |
+| Ferb | 357706 | [357706-ferb.json](./357706-ferb.json) |
 | Ferd | 226144 | [226144-ferd.json](./226144-ferd.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
 | Feria 3000 | 391057 | [391057-feria-3000.json](./391057-feria-3000.json) |
@@ -6549,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling Friends | 373359 | [373359-fling-friends.json](./373359-fling-friends.json) |
 | Fling to the Finish | 116840 | [116840-fling-to-the-finish.json](./116840-fling-to-the-finish.json) |
 | Fling with a Tiefling | 322001 | [322001-fling-with-a-tiefling.json](./322001-fling-with-a-tiefling.json) |
+| Fling your Friends TD | 357833 | [357833-fling-your-friends-td.json](./357833-fling-your-friends-td.json) |
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Fling! | 343986 | [343986-fling.json](./343986-fling.json) |
 | Flinger | 271691 | [271691-flinger.json](./271691-flinger.json) |
@@ -10895,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fukakutei Sekai no Tantei Shinshi Virginal Vol. 2 | 122876 | [122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json](./122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json) |
 | Fukakutei Sekai no Tantei Shinshi: Akugyou Futaasa no Jiken File | 122879 | [122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json](./122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json) |
 | Fukawa-chan | 170246 | [170246-fukawa-chan.json](./170246-fukawa-chan.json) |
+| Fukiage | 357708 | [357708-fukiage.json](./357708-fukiage.json) |
 | Fukoumori: Moririi no Unhappy Project | 269677 | [269677-fukoumori-moririi-no-unhappy-project.json](./269677-fukoumori-moririi-no-unhappy-project.json) |
 | Fuksoft | 209439 | [209439-fuksoft.json](./209439-fuksoft.json) |
 | Fuksoft II | 209440 | [209440-fuksoft-ii.json](./209440-fuksoft-ii.json) |
