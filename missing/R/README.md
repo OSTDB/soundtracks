@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Rush | 363024 | [363024-rabbit-rush.json](./363024-rabbit-rush.json) |
 | Rabbit Simulator | 143939 | [143939-rabbit-simulator.json](./143939-rabbit-simulator.json) |
 | Rabbit Story | 28162 | [28162-rabbit-story.json](./28162-rabbit-story.json) |
+| Rabbit Trail | 333492 | [333492-rabbit-trail.json](./333492-rabbit-trail.json) |
 | Rabbit Trail | 42180 | [42180-rabbit-trail.json](./42180-rabbit-trail.json) |
 | Rabbit x Labyrinth | 66436 | [66436-rabbit-x-labyrinth.json](./66436-rabbit-x-labyrinth.json) |
 | Rabbit, Coyote, Wolf, Grizzly | 375493 | [375493-rabbit-coyote-wolf-grizzly.json](./375493-rabbit-coyote-wolf-grizzly.json) |
@@ -277,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Day Rampage | 208312 | [208312-race-day-rampage.json](./208312-race-day-rampage.json) |
 | Race Days | 49009 | [49009-race-days.json](./49009-race-days.json) |
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
+| Race Driver Grid 3D | 333466 | [333466-race-driver-grid-3d.json](./333466-race-driver-grid-3d.json) |
 | Race Driver: Create & Race | 20763 | [20763-race-driver-create-and-race.json](./20763-race-driver-create-and-race.json) |
 | Race Driver: Grid | 2159 | [2159-race-driver-grid.json](./2159-race-driver-grid.json) |
 | Race Driver: Grid | 248560 | [248560-race-driver-grid.json](./248560-race-driver-grid.json) |
@@ -7782,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Racing Off Road DX | 20959 | [20959-rock-n-racing-off-road-dx.json](./20959-rock-n-racing-off-road-dx.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N Roll: G.E.O.S. Wars | 170880 | [170880-rock-n-roll-g-e-o-s-wars.json](./170880-rock-n-roll-g-e-o-s-wars.json) |
+| Rock 'N Roller | 333332 | [333332-rock-n-roller.json](./333332-rock-n-roller.json) |
 | Rock 'n Shaolin: Legend of the Seven Paladins 3D | 159188 | [159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json](./159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json) |
 | Rock 'n' Roll Adventures | 5125 | [5125-rock-n-roll-adventures.json](./5125-rock-n-roll-adventures.json) |
 | Rock 'N' Roll Clams | 289170 | [289170-rock-n-roll-clams.json](./289170-rock-n-roll-clams.json) |
@@ -8447,6 +8450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: Ultimate Edition | 164751 | [164751-rogue-company-ultimate-edition.json](./164751-rogue-company-ultimate-edition.json) |
 | Rogue Company: ViVi Starter Pack | 257356 | [257356-rogue-company-vivi-starter-pack.json](./257356-rogue-company-vivi-starter-pack.json) |
 | Rogue Company: Year 1 Pass | 406769 | [406769-rogue-company-year-1-pass.json](./406769-rogue-company-year-1-pass.json) |
+| Rogue Conflict | 333491 | [333491-rogue-conflict.json](./333491-rogue-conflict.json) |
 | Rogue Continuum | 23481 | [23481-rogue-continuum.json](./23481-rogue-continuum.json) |
 | Rogue Contracts: Syndicate | 26696 | [26696-rogue-contracts-syndicate.json](./26696-rogue-contracts-syndicate.json) |
 | Rogue Cube Defense | 234523 | [234523-rogue-cube-defense.json](./234523-rogue-cube-defense.json) |
@@ -8725,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll & Risk | 392193 | [392193-roll-and-risk.json](./392193-roll-and-risk.json) |
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll A Blade | 291829 | [291829-roll-a-blade.json](./291829-roll-a-blade.json) |
+| Roll a Dice | 333473 | [333473-roll-a-dice.json](./333473-roll-a-dice.json) |
 | Roll Back Home | 103113 | [103113-roll-back-home.json](./103113-roll-back-home.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
