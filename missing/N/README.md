@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
 | N.E.R.O.: Nothing Ever Remains Obscure | 8256 | [8256-n-e-r-o-nothing-ever-remains-obscure.json](./8256-n-e-r-o-nothing-ever-remains-obscure.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
+| N.M.E. Battle! | 381554 | [381554-n-m-e-battle.json](./381554-n-m-e-battle.json) |
 | N.O.B. - Neo Organic Bioform | 4318 | [4318-n-o-b-neo-organic-bioform.json](./4318-n-o-b-neo-organic-bioform.json) |
 | N.O.M.A.D. | 226135 | [226135-n-o-m-a-d.json](./226135-n-o-m-a-d.json) |
 | N.O.M.A.D. | 26412 | [26412-n-o-m-a-d.json](./26412-n-o-m-a-d.json) |
@@ -1392,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necroking | 291826 | [291826-necroking.json](./291826-necroking.json) |
 | Necrolance | 116929 | [116929-necrolance.json](./116929-necrolance.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
+| Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
 | NecRomancer | 176838 | [176838-necromancer.json](./176838-necromancer.json) |
@@ -2579,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverend | 407894 | [407894-neverend.json](./407894-neverend.json) |
 | Neverend | 69696 | [69696-neverend.json](./69696-neverend.json) |
 | NeverEnd | 29873 | [29873-neverend.json](./29873-neverend.json) |
+| Neverending AI Storybook | 381587 | [381587-neverending-ai-storybook.json](./381587-neverending-ai-storybook.json) |
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
 | NeverEnding Legacy | 96247 | [96247-neverending-legacy.json](./96247-neverending-legacy.json) |
 | Neverending Light | 279906 | [279906-neverending-light.json](./279906-neverending-light.json) |
@@ -6523,5 +6526,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NYX x Barbie: The Movie | 256453 | [256453-nyx-x-barbie-the-movie.json](./256453-nyx-x-barbie-the-movie.json) |
 | NYX: The Awakening | 122055 | [122055-nyx-the-awakening.json](./122055-nyx-the-awakening.json) |
 | NyxQuest: Kindred Spirits | 10262 | [10262-nyxquest-kindred-spirits.json](./10262-nyxquest-kindred-spirits.json) |
+| NYXverse.AI | 381586 | [381586-nyxverse-ai.json](./381586-nyxverse-ai.json) |
 | Nyyo | 210569 | [210569-nyyo.json](./210569-nyyo.json) |
 | NYZD | 291442 | [291442-nyzd.json](./291442-nyzd.json) |
