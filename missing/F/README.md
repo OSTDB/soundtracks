@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fawful Mod Mario Kart 7 | 340981 | [340981-fawful-mod-mario-kart-7.json](./340981-fawful-mod-mario-kart-7.json) |
 | Fawful Mod Mario Kart 8 | 340982 | [340982-fawful-mod-mario-kart-8.json](./340982-fawful-mod-mario-kart-8.json) |
 | Fawful Mod Mario Kart Ds | 340979 | [340979-fawful-mod-mario-kart-ds.json](./340979-fawful-mod-mario-kart-ds.json) |
+| Fawn the Florist | 374109 | [374109-fawn-the-florist.json](./374109-fawn-the-florist.json) |
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
 | Fax | 39535 | [39535-fax.json](./39535-fax.json) |
 | Fax 2 | 407847 | [407847-fax-2.json](./407847-fax-2.json) |
@@ -5796,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at F***boy's 3: Final Mix | 171894 | [171894-five-nights-at-f-boys-3-final-mix.json](./171894-five-nights-at-f-boys-3-final-mix.json) |
 | Five Nights at F***boy's: Final Mix | 170035 | [170035-five-nights-at-f-boys-final-mix.json](./170035-five-nights-at-f-boys-final-mix.json) |
 | Five Nights at F**kboy's: Sister Location | 393576 | [393576-five-nights-at-f-kboys-sister-location.json](./393576-five-nights-at-f-kboys-sister-location.json) |
+| Five Nights at F**kboys: Ennard's Valiant Expedition | 374102 | [374102-five-nights-at-f-kboys-ennards-valiant-expedition.json](./374102-five-nights-at-f-kboys-ennards-valiant-expedition.json) |
 | Five Nights at Floppa 0 | 207759 | [207759-five-nights-at-floppa-0.json](./207759-five-nights-at-floppa-0.json) |
 | Five Nights at Flow's | 377841 | [377841-five-nights-at-flows.json](./377841-five-nights-at-flows.json) |
 | Five Nights at Flow's 1 Remaster | 377843 | [377843-five-nights-at-flows-1-remaster.json](./377843-five-nights-at-flows-1-remaster.json) |
