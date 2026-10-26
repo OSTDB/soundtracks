@@ -4741,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendo | 305437 | [305437-defendo.json](./305437-defendo.json) |
 | Defendo | 305438 | [305438-defendo.json](./305438-defendo.json) |
 | Defendoooooor!! | 55229 | [55229-defendoooooor.json](./55229-defendoooooor.json) |
+| Defendrion | 367929 | [367929-defendrion.json](./367929-defendrion.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defendun | 240681 | [240681-defendun.json](./240681-defendun.json) |
 | Defense & Protect Epic Towers | 231963 | [231963-defense-and-protect-epic-towers.json](./231963-defense-and-protect-epic-towers.json) |
@@ -9311,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do It With Hay | 151084 | [151084-do-it-with-hay.json](./151084-do-it-with-hay.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
 | Do No Harm | 324874 | [324874-do-no-harm.json](./324874-do-no-harm.json) |
+| Do Noob Corporate-slave Dream of Boss's Ass? | 367930 | [367930-do-noob-corporate-slave-dream-of-bosss-ass.json](./367930-do-noob-corporate-slave-dream-of-bosss-ass.json) |
 | Do Not Believe His Lies | 116254 | [116254-do-not-believe-his-lies.json](./116254-do-not-believe-his-lies.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do Not Disturb | 398024 | [398024-do-not-disturb.json](./398024-do-not-disturb.json) |
