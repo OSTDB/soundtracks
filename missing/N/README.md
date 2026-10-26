@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
 | Neko Dating Sim | 223395 | [223395-neko-dating-sim.json](./223395-neko-dating-sim.json) |
+| Neko Diary | 373046 | [373046-neko-diary.json](./373046-neko-diary.json) |
 | Neko Doll | 248437 | [248437-neko-doll.json](./248437-neko-doll.json) |
 | Neko Don Don! | 385332 | [385332-neko-don-don.json](./385332-neko-don-don.json) |
 | Neko Dungeon | 108309 | [108309-neko-dungeon.json](./108309-neko-dungeon.json) |
@@ -4892,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
 | No More Surffer | 150768 | [150768-no-more-surffer.json](./150768-no-more-surffer.json) |
+| No More Work for Ito | 373056 | [373056-no-more-work-for-ito.json](./373056-no-more-work-for-ito.json) |
 | No Mosaic Girls With Sess-AI 2.0 | 346008 | [346008-no-mosaic-girls-with-sess-ai-2-0.json](./346008-no-mosaic-girls-with-sess-ai-2-0.json) |
 | No Name Village | 237243 | [237243-no-name-village.json](./237243-no-name-village.json) |
 | No Nap November | 383092 | [383092-no-nap-november.json](./383092-no-nap-november.json) |
@@ -5806,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Pinball | 175734 | [175734-not-pinball.json](./175734-not-pinball.json) |
 | Not Quite A Fairy Tale | 311895 | [311895-not-quite-a-fairy-tale.json](./311895-not-quite-a-fairy-tale.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
+| Not Raised by Wolves | 372980 | [372980-not-raised-by-wolves.json](./372980-not-raised-by-wolves.json) |
 | Not seafoam | 176937 | [176937-not-seafoam.json](./176937-not-seafoam.json) |
 | Not So Heart | 117801 | [117801-not-so-heart.json](./117801-not-so-heart.json) |
 | Not So Instant Messaging | 179887 | [179887-not-so-instant-messaging.json](./179887-not-so-instant-messaging.json) |
