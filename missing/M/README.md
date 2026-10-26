@@ -8070,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid Delta Snake Eater: Day One Edition | 362057 | [362057-metal-gear-solid-delta-snake-eater-day-one-edition.json](./362057-metal-gear-solid-delta-snake-eater-day-one-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Digital Deluxe Edition | 331472 | [331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json](./331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Sneaking DLC Pack | 331467 | [331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json](./331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json) |
+| Metal Gear Solid Delta: Snake Eater - Tactical Edition | 365026 | [365026-metal-gear-solid-delta-snake-eater-tactical-edition.json](./365026-metal-gear-solid-delta-snake-eater-tactical-edition.json) |
 | Metal Gear Solid HD Collection | 20741 | [20741-metal-gear-solid-hd-collection.json](./20741-metal-gear-solid-hd-collection.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
 | Metal Gear Solid HD Edition: 2 & 3 | 136811 | [136811-metal-gear-solid-hd-edition-2-and-3.json](./136811-metal-gear-solid-hd-edition-2-and-3.json) |
@@ -9621,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miku Chan's Robot | 277400 | [277400-miku-chans-robot.json](./277400-miku-chans-robot.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Miku Miku Hockey | 62780 | [62780-miku-miku-hockey.json](./62780-miku-miku-hockey.json) |
+| Miku Miku Hockey 2.0 | 365125 | [365125-miku-miku-hockey-2-0.json](./365125-miku-miku-hockey-2-0.json) |
 | Miku Runner | 289890 | [289890-miku-runner.json](./289890-miku-runner.json) |
 | Miku: May I Keep Up? | 332873 | [332873-miku-may-i-keep-up.json](./332873-miku-may-i-keep-up.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
@@ -12305,6 +12307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojo XXX | 292684 | [292684-mojo-xxx.json](./292684-mojo-xxx.json) |
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
 | Moka Future | 411996 | [411996-moka-future.json](./411996-moka-future.json) |
+| Moke Horror | 365127 | [365127-moke-horror.json](./365127-moke-horror.json) |
 | Mokens League | 222788 | [222788-mokens-league.json](./222788-mokens-league.json) |
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
 | Mokhtar: Uprising Season | 319446 | [319446-mokhtar-uprising-season.json](./319446-mokhtar-uprising-season.json) |
@@ -13444,6 +13447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Viator | 128941 | [128941-monster-viator.json](./128941-monster-viator.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
 | Monster War | 287537 | [287537-monster-war.json](./287537-monster-war.json) |
+| Monster War | 365037 | [365037-monster-war.json](./365037-monster-war.json) |
 | Monster Warlord | 141483 | [141483-monster-warlord.json](./141483-monster-warlord.json) |
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
 | Monster World | 402399 | [402399-monster-world.json](./402399-monster-world.json) |
@@ -17977,6 +17981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Lighthouse | 97215 | [97215-mystery-lighthouse.json](./97215-mystery-lighthouse.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
 | Mystery Lover 2: Forgotten Truth | 275490 | [275490-mystery-lover-2-forgotten-truth.json](./275490-mystery-lover-2-forgotten-truth.json) |
+| Mystery Lover: Nonexistent Memories | 365053 | [365053-mystery-lover-nonexistent-memories.json](./365053-mystery-lover-nonexistent-memories.json) |
 | Mystery Lover: Nonexistent Summer | 259722 | [259722-mystery-lover-nonexistent-summer.json](./259722-mystery-lover-nonexistent-summer.json) |
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
 | Mystery Manor: Hidden Objects | 104411 | [104411-mystery-manor-hidden-objects.json](./104411-mystery-manor-hidden-objects.json) |
