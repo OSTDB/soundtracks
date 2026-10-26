@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
 | 5 Nights at Hoax Freddy's | 277810 | [277810-5-nights-at-hoax-freddys.json](./277810-5-nights-at-hoax-freddys.json) |
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
+| 5 Nights at Timokha 5: Island | 373050 | [373050-5-nights-at-timokha-5-island.json](./373050-5-nights-at-timokha-5-island.json) |
 | 5 Nights at Timokha's 4 School | 326230 | [326230-5-nights-at-timokhas-4-school.json](./326230-5-nights-at-timokhas-4-school.json) |
 | 5 O'clock Lock | 308333 | [308333-5-oclock-lock.json](./308333-5-oclock-lock.json) |
 | 5 Pack Limited Edition | 98919 | [98919-5-pack-limited-edition.json](./98919-5-pack-limited-edition.json) |
