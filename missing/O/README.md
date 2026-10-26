@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octonauts and the Giant Squid | 387410 | [387410-octonauts-and-the-giant-squid.json](./387410-octonauts-and-the-giant-squid.json) |
 | Octonauts Deep Sea Adventure | 387408 | [387408-octonauts-deep-sea-adventure.json](./387408-octonauts-deep-sea-adventure.json) |
 | Octopath Traveler + Octopath Traveler II Bundle | 304800 | [304800-octopath-traveler-octopath-traveler-ii-bundle.json](./304800-octopath-traveler-octopath-traveler-ii-bundle.json) |
+| Octopath Traveler 0: Digital Deluxe Edition | 366786 | [366786-octopath-traveler-0-digital-deluxe-edition.json](./366786-octopath-traveler-0-digital-deluxe-edition.json) |
 | Octopath Traveler II | 217554 | [217554-octopath-traveler-ii.json](./217554-octopath-traveler-ii.json) |
 | Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
