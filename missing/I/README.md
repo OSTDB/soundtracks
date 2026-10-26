@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idlenetics | 233886 | [233886-idlenetics.json](./233886-idlenetics.json) |
 | IdleOn | 143440 | [143440-idleon.json](./143440-idleon.json) |
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
+| IdleQuest | 360543 | [360543-idlequest.json](./360543-idlequest.json) |
 | Idlescape | 139325 | [139325-idlescape.json](./139325-idlescape.json) |
 | IdleTale | 340514 | [340514-idletale.json](./340514-idletale.json) |
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
