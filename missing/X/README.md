@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenia's Ark | 110535 | [110535-xenias-ark.json](./110535-xenias-ark.json) |
 | Xenic | 74059 | [74059-xenic.json](./74059-xenic.json) |
 | Xenimus | 66968 | [66968-xenimus.json](./66968-xenimus.json) |
+| Xenna: The Invasion | 348182 | [348182-xenna-the-invasion.json](./348182-xenna-the-invasion.json) |
 | Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
 | Xeno | 295168 | [295168-xeno.json](./295168-xeno.json) |
 | Xeno | 36864 | [36864-xeno.json](./36864-xeno.json) |
