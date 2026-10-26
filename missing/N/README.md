@@ -3885,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Journey 1135 | 402555 | [402555-nightmare-journey-1135.json](./402555-nightmare-journey-1135.json) |
 | Nightmare Kart: The Old Karts | 330684 | [330684-nightmare-kart-the-old-karts.json](./330684-nightmare-kart-the-old-karts.json) |
+| NightMare King | 363331 | [363331-nightmare-king.json](./363331-nightmare-king.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Knock | 237518 | [237518-nightmare-knock.json](./237518-nightmare-knock.json) |
@@ -5659,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Battle | 124546 | [124546-northern-battle.json](./124546-northern-battle.json) |
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
 | Northern Blades | 148472 | [148472-northern-blades.json](./148472-northern-blades.json) |
+| Northern Crossroads | 363348 | [363348-northern-crossroads.json](./363348-northern-crossroads.json) |
 | Northern Guilds | 193338 | [193338-northern-guilds.json](./193338-northern-guilds.json) |
 | Northern Journey | 165179 | [165179-northern-journey.json](./165179-northern-journey.json) |
 | Northern Kingdoms | 216969 | [216969-northern-kingdoms.json](./216969-northern-kingdoms.json) |
