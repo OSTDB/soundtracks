@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zort | 309176 | [309176-zort.json](./309176-zort.json) |
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
 | Zortch | 248586 | [248586-zortch.json](./248586-zortch.json) |
+| Zortch 2 | 349249 | [349249-zortch-2.json](./349249-zortch-2.json) |
 | Zorton Brothers | 93141 | [93141-zorton-brothers.json](./93141-zorton-brothers.json) |
 | Zory | 383381 | [383381-zory.json](./383381-zory.json) |
 | Zorya: The Celestial Sisters - Stellar Edition | 193688 | [193688-zorya-the-celestial-sisters-stellar-edition.json](./193688-zorya-the-celestial-sisters-stellar-edition.json) |
