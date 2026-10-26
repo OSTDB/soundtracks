@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbral Coterie | 405147 | [405147-umbral-coterie.json](./405147-umbral-coterie.json) |
 | Umbral Omen | 212837 | [212837-umbral-omen.json](./212837-umbral-omen.json) |
 | UmbraNet | 388359 | [388359-umbranet.json](./388359-umbranet.json) |
+| Umbranomicon | 386166 | [386166-umbranomicon.json](./386166-umbranomicon.json) |
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
 | Umbrella Basketball | 174595 | [174595-umbrella-basketball.json](./174595-umbrella-basketball.json) |
 | Umbrella Corps | 12530 | [12530-umbrella-corps.json](./12530-umbrella-corps.json) |
