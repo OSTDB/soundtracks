@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam: Scad Hammers | 5144 | [5144-sd-gundam-scad-hammers.json](./5144-sd-gundam-scad-hammers.json) |
 | SD Gundam: SD Sengokuden Kunitori Monogatari | 65385 | [65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json](./65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json) |
 | SD Hero Soukessen: Taose! Aku no Gundan | 79278 | [79278-sd-hero-soukessen-taose-aku-no-gundan.json](./79278-sd-hero-soukessen-taose-aku-no-gundan.json) |
+| SD Hiryu | 351533 | [351533-sd-hiryu.json](./351533-sd-hiryu.json) |
 | SD Hiryuu no Ken | 38322 | [38322-sd-hiryuu-no-ken.json](./38322-sd-hiryuu-no-ken.json) |
 | SD Hiryuu no Ken Densetsu | 47733 | [47733-sd-hiryuu-no-ken-densetsu.json](./47733-sd-hiryuu-no-ken-densetsu.json) |
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seethe and Scab | 194359 | [194359-seethe-and-scab.json](./194359-seethe-and-scab.json) |
 | Seething Things | 217189 | [217189-seething-things.json](./217189-seething-things.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
+| Sef Saga | 351517 | [351517-sef-saga.json](./351517-sef-saga.json) |
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
 | Sega 3D Classics Collection | 19891 | [19891-sega-3d-classics-collection.json](./19891-sega-3d-classics-collection.json) |
@@ -5038,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
 | Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
 | Seven Days | 219619 | [219619-seven-days.json](./219619-seven-days.json) |
+| Seven Days Until Morning | 351527 | [351527-seven-days-until-morning.json](./351527-seven-days-until-morning.json) |
 | Seven days with the Ghost | 110935 | [110935-seven-days-with-the-ghost.json](./110935-seven-days-with-the-ghost.json) |
 | Seven Days: Anata to Sugosu Nanokakan | 240072 | [240072-seven-days-anata-to-sugosu-nanokakan.json](./240072-seven-days-anata-to-sugosu-nanokakan.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
