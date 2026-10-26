@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T00:34:06.450Z",
-  "total_missing": 262785,
+  "generated_at": "2026-10-26T00:49:08.733Z",
+  "total_missing": 262836,
   "games": [
     {
       "igdb_id": 191680,
@@ -7557,6 +7557,11 @@
       "file": "missing/0-9/406509-25-days-in-the-dark.json"
     },
     {
+      "igdb_id": 385159,
+      "game_name": "25 in 1 Family Games Mega Collection",
+      "file": "missing/0-9/385159-25-in-1-family-games-mega-collection.json"
+    },
+    {
       "igdb_id": 91592,
       "game_name": "25 Pferdespiele",
       "file": "missing/0-9/91592-25-pferdespiele.json"
@@ -10570,6 +10575,11 @@
       "igdb_id": 41534,
       "game_name": "4 in 1 Row",
       "file": "missing/0-9/41534-4-in-1-row.json"
+    },
+    {
+      "igdb_id": 385144,
+      "game_name": "4 in 1 Sports Bundle Vol. 2",
+      "file": "missing/0-9/385144-4-in-1-sports-bundle-vol-2.json"
     },
     {
       "igdb_id": 395222,
@@ -21382,6 +21392,11 @@
       "file": "missing/A/304762-aaa-clock-extreme-premium.json"
     },
     {
+      "igdb_id": 385160,
+      "game_name": "AAA Games Ultimate Collection",
+      "file": "missing/A/385160-aaa-games-ultimate-collection.json"
+    },
+    {
       "igdb_id": 325878,
       "game_name": "AAA Simulator",
       "file": "missing/A/325878-aaa-simulator.json"
@@ -25520,6 +25535,11 @@
       "igdb_id": 118129,
       "game_name": "Achilles",
       "file": "missing/A/118129-achilles.json"
+    },
+    {
+      "igdb_id": 385143,
+      "game_name": "Achilles Bundle: Legends Untold & Survivor",
+      "file": "missing/A/385143-achilles-bundle-legends-untold-and-survivor.json"
     },
     {
       "igdb_id": 183020,
@@ -29675,11 +29695,6 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
-    },
-    {
-      "igdb_id": 342233,
-      "game_name": "Adventures In Time & Space",
-      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -40862,6 +40877,11 @@
       "file": "missing/A/125669-alfelus.json"
     },
     {
+      "igdb_id": 385142,
+      "game_name": "Alfie Atkins Game Collection",
+      "file": "missing/A/385142-alfie-atkins-game-collection.json"
+    },
+    {
       "igdb_id": 345053,
       "game_name": "Alfons World",
       "file": "missing/A/345053-alfons-world.json"
@@ -50700,6 +50720,11 @@
       "igdb_id": 381901,
       "game_name": "Among the Leaves",
       "file": "missing/A/381901-among-the-leaves.json"
+    },
+    {
+      "igdb_id": 385148,
+      "game_name": "Among The Light",
+      "file": "missing/A/385148-among-the-light.json"
     },
     {
       "igdb_id": 180786,
@@ -64967,6 +64992,11 @@
       "file": "missing/A/407268-arcade-archives-2-space-cyclone.json"
     },
     {
+      "igdb_id": 385155,
+      "game_name": "Arcade Archives 2: Space Invaders Part II",
+      "file": "missing/A/385155-arcade-archives-2-space-invaders-part-ii.json"
+    },
+    {
       "igdb_id": 399297,
       "game_name": "Arcade Archives 2: Street Smart",
       "file": "missing/A/399297-arcade-archives-2-street-smart.json"
@@ -66155,6 +66185,11 @@
       "igdb_id": 165601,
       "game_name": "Arcade Archives: Space Cruiser",
       "file": "missing/A/165601-arcade-archives-space-cruiser.json"
+    },
+    {
+      "igdb_id": 385156,
+      "game_name": "Arcade Archives: Space Invaders Part II",
+      "file": "missing/A/385156-arcade-archives-space-invaders-part-ii.json"
     },
     {
       "igdb_id": 75707,
@@ -94522,6 +94557,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -106982,6 +107022,11 @@
       "file": "missing/B/9068-battle-princess-of-arcadias.json"
     },
     {
+      "igdb_id": 385140,
+      "game_name": "Battle Puzzle 2048: Queens of the Abyss",
+      "file": "missing/B/385140-battle-puzzle-2048-queens-of-the-abyss.json"
+    },
+    {
       "igdb_id": 336406,
       "game_name": "Battle Puzzle 2048: Space Girls",
       "file": "missing/B/336406-battle-puzzle-2048-space-girls.json"
@@ -118277,6 +118322,11 @@
       "file": "missing/B/52466-best-of-tilted-mill.json"
     },
     {
+      "igdb_id": 385141,
+      "game_name": "Best of Upscale Studio Bundle: 5 in 1",
+      "file": "missing/B/385141-best-of-upscale-studio-bundle-5-in-1.json"
+    },
+    {
       "igdb_id": 61141,
       "game_name": "Best Park in the Universe",
       "file": "missing/B/61141-best-park-in-the-universe.json"
@@ -124915,6 +124965,11 @@
       "igdb_id": 116754,
       "game_name": "Biplane Racer",
       "file": "missing/B/116754-biplane-racer.json"
+    },
+    {
+      "igdb_id": 385124,
+      "game_name": "Biplanes",
+      "file": "missing/B/385124-biplanes.json"
     },
     {
       "igdb_id": 183018,
@@ -135100,6 +135155,11 @@
       "igdb_id": 248175,
       "game_name": "Blocky Granny Mod chapter One",
       "file": "missing/B/248175-blocky-granny-mod-chapter-one.json"
+    },
+    {
+      "igdb_id": 385123,
+      "game_name": "Blocky Heli Rescue",
+      "file": "missing/B/385123-blocky-heli-rescue.json"
     },
     {
       "igdb_id": 114272,
@@ -148577,6 +148637,16 @@
       "file": "missing/B/201118-bowling-cross-final-frame.json"
     },
     {
+      "igdb_id": 385163,
+      "game_name": "Bowling Fever Pin Crusher",
+      "file": "missing/B/385163-bowling-fever-pin-crusher.json"
+    },
+    {
+      "igdb_id": 385164,
+      "game_name": "Bowling Fever Road to 300",
+      "file": "missing/B/385164-bowling-fever-road-to-300.json"
+    },
+    {
       "igdb_id": 378961,
       "game_name": "Bowling Fever Strike Masters",
       "file": "missing/B/378961-bowling-fever-strike-masters.json"
@@ -150622,6 +150692,11 @@
       "file": "missing/B/376227-brain-workout-spinning-animal-puzzle.json"
     },
     {
+      "igdb_id": 385122,
+      "game_name": "Brain Workout! Spinning Dog Puzzle",
+      "file": "missing/B/385122-brain-workout-spinning-dog-puzzle.json"
+    },
+    {
       "igdb_id": 378999,
       "game_name": "Brain Workout! Spinning Insect Puzzle",
       "file": "missing/B/378999-brain-workout-spinning-insect-puzzle.json"
@@ -150710,6 +150785,11 @@
       "igdb_id": 336518,
       "game_name": "BrainRot",
       "file": "missing/B/336518-brainrot.json"
+    },
+    {
+      "igdb_id": 385139,
+      "game_name": "Brainrot & Tung Collection 5 in 1",
+      "file": "missing/B/385139-brainrot-and-tung-collection-5-in-1.json"
     },
     {
       "igdb_id": 363564,
@@ -194442,6 +194522,11 @@
       "file": "missing/C/357416-chess-universe.json"
     },
     {
+      "igdb_id": 385121,
+      "game_name": "Chess Up! Checkmate With Friends",
+      "file": "missing/C/385121-chess-up-checkmate-with-friends.json"
+    },
+    {
       "igdb_id": 159534,
       "game_name": "Chess Valley",
       "file": "missing/C/159534-chess-valley.json"
@@ -210920,6 +211005,11 @@
       "igdb_id": 120578,
       "game_name": "Club Soccer Director PRO 2020",
       "file": "missing/C/120578-club-soccer-director-pro-2020.json"
+    },
+    {
+      "igdb_id": 385134,
+      "game_name": "Club Sports Collection",
+      "file": "missing/C/385134-club-sports-collection.json"
     },
     {
       "igdb_id": 397887,
@@ -234232,6 +234322,11 @@
       "file": "missing/C/133804-crayola-make-a-masterpiece.json"
     },
     {
+      "igdb_id": 385157,
+      "game_name": "Crayon Animal",
+      "file": "missing/C/385157-crayon-animal.json"
+    },
+    {
       "igdb_id": 365544,
       "game_name": "Crayon Car",
       "file": "missing/C/365544-crayon-car.json"
@@ -247010,6 +247105,11 @@
       "igdb_id": 397885,
       "game_name": "Cup Heroes: Diamond Bag Bundle",
       "file": "missing/C/397885-cup-heroes-diamond-bag-bundle.json"
+    },
+    {
+      "igdb_id": 385161,
+      "game_name": "Cup Heroes: Diamond Hoard Bundle",
+      "file": "missing/C/385161-cup-heroes-diamond-hoard-bundle.json"
     },
     {
       "igdb_id": 410855,
@@ -262247,6 +262347,11 @@
       "file": "missing/D/328548-darts-fever.json"
     },
     {
+      "igdb_id": 385162,
+      "game_name": "Darts Fever Arrows of Glory",
+      "file": "missing/D/385162-darts-fever-arrows-of-glory.json"
+    },
+    {
       "igdb_id": 378962,
       "game_name": "Darts Fever Bullseye Legends",
       "file": "missing/D/378962-darts-fever-bullseye-legends.json"
@@ -271070,6 +271175,11 @@
       "igdb_id": 413018,
       "game_name": "Death Forest Echoes",
       "file": "missing/D/413018-death-forest-echoes.json"
+    },
+    {
+      "igdb_id": 385158,
+      "game_name": "Death Forest Remake",
+      "file": "missing/D/385158-death-forest-remake.json"
     },
     {
       "igdb_id": 385186,
@@ -330652,6 +330762,11 @@
       "file": "missing/D/302379-dustland-delivery.json"
     },
     {
+      "igdb_id": 385152,
+      "game_name": "Dustland Delivery: Sheol",
+      "file": "missing/D/385152-dustland-delivery-sheol.json"
+    },
+    {
       "igdb_id": 195119,
       "game_name": "Dustland Rider",
       "file": "missing/D/195119-dustland-rider.json"
@@ -335445,6 +335560,11 @@
       "igdb_id": 401114,
       "game_name": "Ecchi Crush",
       "file": "missing/E/401114-ecchi-crush.json"
+    },
+    {
+      "igdb_id": 385135,
+      "game_name": "Ecchi Dream Bundle",
+      "file": "missing/E/385135-ecchi-dream-bundle.json"
     },
     {
       "igdb_id": 320449,
@@ -408815,6 +408935,11 @@
       "igdb_id": 319112,
       "game_name": "Formula Karts",
       "file": "missing/F/319112-formula-karts.json"
+    },
+    {
+      "igdb_id": 385136,
+      "game_name": "Formula Legendary Bundle 3 in 1",
+      "file": "missing/F/385136-formula-legendary-bundle-3-in-1.json"
     },
     {
       "igdb_id": 342187,
@@ -501372,6 +501497,11 @@
       "file": "missing/H/331526-hidden-object-adventure-bundle.json"
     },
     {
+      "igdb_id": 385137,
+      "game_name": "Hidden Object Adventure Bundle 2",
+      "file": "missing/H/385137-hidden-object-adventure-bundle-2.json"
+    },
+    {
       "igdb_id": 101940,
       "game_name": "Hidden Object Adventures: Sunken Treasures",
       "file": "missing/H/101940-hidden-object-adventures-sunken-treasures.json"
@@ -583707,6 +583837,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -589202,6 +589337,11 @@
       "file": "missing/K/373162-kitty-can-cook.json"
     },
     {
+      "igdb_id": 385138,
+      "game_name": "Kitty Cat Adventures Bundle",
+      "file": "missing/K/385138-kitty-cat-adventures-bundle.json"
+    },
+    {
       "igdb_id": 204289,
       "game_name": "Kitty Cat Doctor",
       "file": "missing/K/204289-kitty-cat-doctor.json"
@@ -591125,6 +591265,16 @@
       "igdb_id": 380708,
       "game_name": "Knights & Guns Arcane Arsenal",
       "file": "missing/K/380708-knights-and-guns-arcane-arsenal.json"
+    },
+    {
+      "igdb_id": 385166,
+      "game_name": "Knights & Guns Dragon's Wrath",
+      "file": "missing/K/385166-knights-and-guns-dragons-wrath.json"
+    },
+    {
+      "igdb_id": 385167,
+      "game_name": "Knights & Guns Mystic Armor",
+      "file": "missing/K/385167-knights-and-guns-mystic-armor.json"
     },
     {
       "igdb_id": 317252,
@@ -619520,6 +619670,11 @@
       "igdb_id": 145796,
       "game_name": "Lil Gator Game",
       "file": "missing/L/145796-lil-gator-game.json"
+    },
+    {
+      "igdb_id": 385125,
+      "game_name": "Lil Gator Game: Gator of the Year Edition",
+      "file": "missing/L/385125-lil-gator-game-gator-of-the-year-edition.json"
     },
     {
       "igdb_id": 128426,
@@ -658932,6 +659087,11 @@
       "file": "missing/M/272750-marrons-day.json"
     },
     {
+      "igdb_id": 385153,
+      "game_name": "MarronRoman",
+      "file": "missing/M/385153-marronroman.json"
+    },
+    {
       "igdb_id": 269569,
       "game_name": "Marrow",
       "file": "missing/M/269569-marrow.json"
@@ -662865,6 +663025,11 @@
       "igdb_id": 324482,
       "game_name": "MasterChef: Learn to Cook! - Vegetables & Grains",
       "file": "missing/M/324482-masterchef-learn-to-cook-vegetables-and-grains.json"
+    },
+    {
+      "igdb_id": 385165,
+      "game_name": "MasterChef: Learn to Cook! - Veggie Special",
+      "file": "missing/M/385165-masterchef-learn-to-cook-veggie-special.json"
     },
     {
       "igdb_id": 59901,
@@ -713952,6 +714117,16 @@
       "file": "missing/M/378968-moto-rush-gt-asphalt-fury.json"
     },
     {
+      "igdb_id": 385169,
+      "game_name": "Moto Rush GT City Adrenaline",
+      "file": "missing/M/385169-moto-rush-gt-city-adrenaline.json"
+    },
+    {
+      "igdb_id": 385170,
+      "game_name": "Moto Rush GT Night Chase",
+      "file": "missing/M/385170-moto-rush-gt-night-chase.json"
+    },
+    {
       "igdb_id": 404282,
       "game_name": "Moto Rush GT: Add-on Edition",
       "file": "missing/M/404282-moto-rush-gt-add-on-edition.json"
@@ -739882,6 +740057,11 @@
       "file": "missing/N/63232-need-for-madness-2.json"
     },
     {
+      "igdb_id": 385132,
+      "game_name": "Need for Race Street King & Formula Auto Sport Racing Pack",
+      "file": "missing/N/385132-need-for-race-street-king-and-formula-auto-sport-racing-pack.json"
+    },
+    {
       "igdb_id": 328511,
       "game_name": "Need For Race: Street King",
       "file": "missing/N/328511-need-for-race-street-king.json"
@@ -741420,6 +741600,16 @@
       "igdb_id": 182209,
       "game_name": "Nekra Psaria",
       "file": "missing/N/182209-nekra-psaria.json"
+    },
+    {
+      "igdb_id": 385150,
+      "game_name": "Nekra Psaria 2",
+      "file": "missing/N/385150-nekra-psaria-2.json"
+    },
+    {
+      "igdb_id": 385151,
+      "game_name": "Nekra Psaria 3",
+      "file": "missing/N/385151-nekra-psaria-3.json"
     },
     {
       "igdb_id": 385188,
@@ -762602,6 +762792,11 @@
       "file": "missing/N/280119-noxium.json"
     },
     {
+      "igdb_id": 385146,
+      "game_name": "Noxpheria: The Crimson Madness",
+      "file": "missing/N/385146-noxpheria-the-crimson-madness.json"
+    },
+    {
       "igdb_id": 164962,
       "game_name": "Noyah: Corrupted Memories",
       "file": "missing/N/164962-noyah-corrupted-memories.json"
@@ -777835,6 +778030,11 @@
       "igdb_id": 277328,
       "game_name": "Only Up Samarkand",
       "file": "missing/O/277328-only-up-samarkand.json"
+    },
+    {
+      "igdb_id": 385154,
+      "game_name": "Only Up: Parkour Game",
+      "file": "missing/O/385154-only-up-parkour-game.json"
     },
     {
       "igdb_id": 310922,
@@ -815697,6 +815897,11 @@
       "file": "missing/P/110026-piczle-lines-jr.json"
     },
     {
+      "igdb_id": 385131,
+      "game_name": "Piczle Lines Super Puzzle Turbo Bundle",
+      "file": "missing/P/385131-piczle-lines-super-puzzle-turbo-bundle.json"
+    },
+    {
       "igdb_id": 145690,
       "game_name": "Piczle Puzzle Adventures + Picto Quest Puzzle Bundle",
       "file": "missing/P/145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json"
@@ -840997,6 +841202,11 @@
       "file": "missing/P/91205-pool.json"
     },
     {
+      "igdb_id": 385168,
+      "game_name": "Pool & Snooker Fever: 2 in 1 Bundle",
+      "file": "missing/P/385168-pool-and-snooker-fever-2-in-1-bundle.json"
+    },
+    {
       "igdb_id": 400201,
       "game_name": "Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition",
       "file": "missing/P/400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json"
@@ -841100,6 +841310,11 @@
       "igdb_id": 378964,
       "game_name": "Pool Fever Cue to Glory",
       "file": "missing/P/378964-pool-fever-cue-to-glory.json"
+    },
+    {
+      "igdb_id": 385171,
+      "game_name": "Pool Fever Precision Shoot",
+      "file": "missing/P/385171-pool-fever-precision-shoot.json"
     },
     {
       "igdb_id": 330206,
@@ -885845,6 +886060,11 @@
       "igdb_id": 219283,
       "game_name": "Real Truck Simulator 2022",
       "file": "missing/R/219283-real-truck-simulator-2022.json"
+    },
+    {
+      "igdb_id": 385130,
+      "game_name": "Real Truck Simulator USA & Ultimate 4x4 Offroad & Real Car Driving Simulator Bundle",
+      "file": "missing/R/385130-real-truck-simulator-usa-and-ultimate-4x4-offroad-and-real-car-driving-simulator-bundle.json"
     },
     {
       "igdb_id": 328989,
@@ -941487,6 +941707,11 @@
       "file": "missing/S/287738-scp.json"
     },
     {
+      "igdb_id": 385129,
+      "game_name": "SCP / Backrooms / Exit Bundle 6 in 1",
+      "file": "missing/S/385129-scp-backrooms-exit-bundle-6-in-1.json"
+    },
+    {
       "igdb_id": 241913,
       "game_name": "SCP 087 B",
       "file": "missing/S/241913-scp-087-b.json"
@@ -952925,6 +953150,11 @@
       "igdb_id": 93615,
       "game_name": "Severity",
       "file": "missing/S/93615-severity.json"
+    },
+    {
+      "igdb_id": 385145,
+      "game_name": "SeverLink",
+      "file": "missing/S/385145-severlink.json"
     },
     {
       "igdb_id": 92423,
@@ -1038857,6 +1039087,11 @@
       "file": "missing/S/348385-stillness.json"
     },
     {
+      "igdb_id": 385149,
+      "game_name": "Stillness",
+      "file": "missing/S/385149-stillness.json"
+    },
+    {
       "igdb_id": 191558,
       "game_name": "Stillwater",
       "file": "missing/S/191558-stillwater.json"
@@ -1062022,6 +1062257,11 @@
       "file": "missing/S/101043-super-princess-makeup-and-dressup-makeover-game.json"
     },
     {
+      "igdb_id": 385126,
+      "game_name": "Super Princess & Puzzle Collection: 18 Games in 1",
+      "file": "missing/S/385126-super-princess-and-puzzle-collection-18-games-in-1.json"
+    },
+    {
       "igdb_id": 20497,
       "game_name": "Super Princess Peach",
       "file": "missing/S/20497-super-princess-peach.json"
@@ -1066950,6 +1067190,11 @@
       "igdb_id": 399602,
       "game_name": "Supermarket Simulator 2026",
       "file": "missing/S/399602-supermarket-simulator-2026.json"
+    },
+    {
+      "igdb_id": 385128,
+      "game_name": "Supermarket Simulator Bundle 3 in 1",
+      "file": "missing/S/385128-supermarket-simulator-bundle-3-in-1.json"
     },
     {
       "igdb_id": 345265,
@@ -1230157,6 +1230402,11 @@
       "file": "missing/U/379360-upscale-studio-logic-bundle-5-in-1.json"
     },
     {
+      "igdb_id": 385127,
+      "game_name": "Upscale Studio: Ultimate Bundle 15 in 1",
+      "file": "missing/U/385127-upscale-studio-ultimate-bundle-15-in-1.json"
+    },
+    {
       "igdb_id": 375395,
       "game_name": "Upshift StrikeRacer",
       "file": "missing/U/375395-upshift-strikeracer.json"
@@ -1313435,6 +1313685,11 @@
       "igdb_id": 417284,
       "game_name": "Zumba: Magical Marble Saga",
       "file": "missing/Z/417284-zumba-magical-marble-saga.json"
+    },
+    {
+      "igdb_id": 385172,
+      "game_name": "Zumba: Marble Candy Rush",
+      "file": "missing/Z/385172-zumba-marble-candy-rush.json"
     },
     {
       "igdb_id": 410365,
