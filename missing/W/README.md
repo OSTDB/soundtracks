@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wega: Lost in the Outer Reaches | 213406 | [213406-wega-lost-in-the-outer-reaches.json](./213406-wega-lost-in-the-outer-reaches.json) |
 | Weggye's Adventures | 240785 | [240785-weggyes-adventures.json](./240785-weggyes-adventures.json) |
 | WEGO World War II: Overlord | 412244 | [412244-wego-world-war-ii-overlord.json](./412244-wego-world-war-ii-overlord.json) |
+| WEGO World War II: Stalingrad | 357819 | [357819-wego-world-war-ii-stalingrad.json](./357819-wego-world-war-ii-stalingrad.json) |
 | Wehrschach | 139335 | [139335-wehrschach.json](./139335-wehrschach.json) |
 | WeightWare | 334162 | [334162-weightware.json](./334162-weightware.json) |
 | Weihnachtsquiz | 98946 | [98946-weihnachtsquiz.json](./98946-weihnachtsquiz.json) |
