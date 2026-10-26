@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quack Attack 1985 | 32117 | [32117-quack-attack-1985.json](./32117-quack-attack-1985.json) |
 | Quack Attack 1985: Turbo DX Edition | 138603 | [138603-quack-attack-1985-turbo-dx-edition.json](./138603-quack-attack-1985-turbo-dx-edition.json) |
 | Quack Invasion | 244886 | [244886-quack-invasion.json](./244886-quack-invasion.json) |
+| Quack Magic | 338649 | [338649-quack-magic.json](./338649-quack-magic.json) |
 | Quack my Duck | 258392 | [258392-quack-my-duck.json](./258392-quack-my-duck.json) |
 | Quack Quack Up | 402884 | [402884-quack-quack-up.json](./402884-quack-quack-up.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
