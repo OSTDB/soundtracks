@@ -10236,6 +10236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Bundles of Bravery | 318247 | [318247-minecraft-bundles-of-bravery.json](./318247-minecraft-bundles-of-bravery.json) |
 | Minecraft: Bundles of Bravery | 318248 | [318248-minecraft-bundles-of-bravery.json](./318248-minecraft-bundles-of-bravery.json) |
 | Minecraft: Buzzy Bees | 221926 | [221926-minecraft-buzzy-bees.json](./221926-minecraft-buzzy-bees.json) |
+| Minecraft: Buzzy Bees | 353183 | [353183-minecraft-buzzy-bees.json](./353183-minecraft-buzzy-bees.json) |
 | Minecraft: Cartoon Mobs HD Skin Pack | 324891 | [324891-minecraft-cartoon-mobs-hd-skin-pack.json](./324891-minecraft-cartoon-mobs-hd-skin-pack.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
