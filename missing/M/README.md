@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
 | Marron Helps a Friend | 122947 | [122947-marron-helps-a-friend.json](./122947-marron-helps-a-friend.json) |
 | Marron's Day | 272750 | [272750-marrons-day.json](./272750-marrons-day.json) |
+| MarronRoman | 385153 | [385153-marronroman.json](./385153-marronroman.json) |
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
 | Marrow | 30484 | [30484-marrow.json](./30484-marrow.json) |
 | Marrow Marrow | 369775 | [369775-marrow-marrow.json](./369775-marrow-marrow.json) |
@@ -4397,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterChef: Learn to Cook! - Fruits, Nuts & Sweets | 324480 | [324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json](./324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json) |
 | MasterChef: Learn to Cook! - Meat, Dairy & Seafood | 324481 | [324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json](./324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json) |
 | MasterChef: Learn to Cook! - Vegetables & Grains | 324482 | [324482-masterchef-learn-to-cook-vegetables-and-grains.json](./324482-masterchef-learn-to-cook-vegetables-and-grains.json) |
+| MasterChef: Learn to Cook! - Veggie Special | 385165 | [385165-masterchef-learn-to-cook-veggie-special.json](./385165-masterchef-learn-to-cook-veggie-special.json) |
 | MasterCube | 59901 | [59901-mastercube.json](./59901-mastercube.json) |
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Mastermind - Cows and Bulls Free Word Game | 89711 | [89711-mastermind-cows-and-bulls-free-word-game.json](./89711-mastermind-cows-and-bulls-free-word-game.json) |
@@ -14614,6 +14616,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT | 115751 | [115751-moto-rush-gt.json](./115751-moto-rush-gt.json) |
 | Moto Rush GT + Food Truck Tycoon | 251111 | [251111-moto-rush-gt-food-truck-tycoon.json](./251111-moto-rush-gt-food-truck-tycoon.json) |
 | Moto Rush GT Asphalt Fury | 378968 | [378968-moto-rush-gt-asphalt-fury.json](./378968-moto-rush-gt-asphalt-fury.json) |
+| Moto Rush GT City Adrenaline | 385169 | [385169-moto-rush-gt-city-adrenaline.json](./385169-moto-rush-gt-city-adrenaline.json) |
+| Moto Rush GT Night Chase | 385170 | [385170-moto-rush-gt-night-chase.json](./385170-moto-rush-gt-night-chase.json) |
 | Moto Rush GT: Add-on Edition | 404282 | [404282-moto-rush-gt-add-on-edition.json](./404282-moto-rush-gt-add-on-edition.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
 | Moto Rush GT: Back To School Edition | 263541 | [263541-moto-rush-gt-back-to-school-edition.json](./263541-moto-rush-gt-back-to-school-edition.json) |
