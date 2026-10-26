@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About an Elf | 187860 | [187860-about-an-elf.json](./187860-about-an-elf.json) |
 | About Emma | 179038 | [179038-about-emma.json](./179038-about-emma.json) |
 | About Face | 307085 | [307085-about-face.json](./307085-about-face.json) |
+| About Fishing | 380410 | [380410-about-fishing.json](./380410-about-fishing.json) |
 | About Frontlines | 411697 | [411697-about-frontlines.json](./411697-about-frontlines.json) |
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Love, Hate and the other ones | 3080 | [3080-about-love-hate-and-the-other-ones.json](./3080-about-love-hate-and-the-other-ones.json) |
@@ -3267,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
 | Aerostar | 7746 | [7746-aerostar.json](./7746-aerostar.json) |
 | AeroStrike | 379495 | [379495-aerostrike.json](./379495-aerostrike.json) |
+| Aerosurfer | 380469 | [380469-aerosurfer.json](./380469-aerosurfer.json) |
 | Aerotopia | 379496 | [379496-aerotopia.json](./379496-aerotopia.json) |
 | Aerovice Frutiger World | 411785 | [411785-aerovice-frutiger-world.json](./411785-aerovice-frutiger-world.json) |
 | AeroWave OS | 397713 | [397713-aerowave-os.json](./397713-aerowave-os.json) |
