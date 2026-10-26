@@ -3534,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marisa and Alice's Trap Tower Remake | 63064 | [63064-marisa-and-alices-trap-tower-remake.json](./63064-marisa-and-alices-trap-tower-remake.json) |
 | Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
 | Marisa no Kagi | 216288 | [216288-marisa-no-kagi.json](./216288-marisa-no-kagi.json) |
+| Marisa of Liartop Mountain: Digital Deluxe Edition | 366784 | [366784-marisa-of-liartop-mountain-digital-deluxe-edition.json](./366784-marisa-of-liartop-mountain-digital-deluxe-edition.json) |
 | Marisa to 6tsu no Kinoko: New Super Marisa Land | 94145 | [94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json](./94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json) |
 | Marisa! Return The Book! | 371017 | [371017-marisa-return-the-book.json](./371017-marisa-return-the-book.json) |
 | Marisa's Inconceivable Journey | 190946 | [190946-marisas-inconceivable-journey.json](./190946-marisas-inconceivable-journey.json) |
@@ -3682,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Simulator: Red Planet | 29591 | [29591-mars-simulator-red-planet.json](./29591-mars-simulator-red-planet.json) |
+| Mars Survivor: Action Edition | 366785 | [366785-mars-survivor-action-edition.json](./366785-mars-survivor-action-edition.json) |
 | Mars Survivor: Blue Blaster | 324456 | [324456-mars-survivor-blue-blaster.json](./324456-mars-survivor-blue-blaster.json) |
 | Mars Survivor: Complete Edition | 324372 | [324372-mars-survivor-complete-edition.json](./324372-mars-survivor-complete-edition.json) |
 | Mars Survivor: Explosive Edition | 330201 | [330201-mars-survivor-explosive-edition.json](./330201-mars-survivor-explosive-edition.json) |
@@ -10279,6 +10281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode Season Two - Episode 5: Above and Beyond | 81096 | [81096-minecraft-story-mode-season-two-episode-5-above-and-beyond.json](./81096-minecraft-story-mode-season-two-episode-5-above-and-beyond.json) |
 | Minecraft: Summer of Arcade Skin Pack | 254395 | [254395-minecraft-summer-of-arcade-skin-pack.json](./254395-minecraft-summer-of-arcade-skin-pack.json) |
 | Minecraft: Super Mario Mash-up | 234773 | [234773-minecraft-super-mario-mash-up.json](./234773-minecraft-super-mario-mash-up.json) |
+| Minecraft: Superman Skin Pack | 366813 | [366813-minecraft-superman-skin-pack.json](./366813-minecraft-superman-skin-pack.json) |
 | Minecraft: Teenage Mutant Ninja Turtles | 259850 | [259850-minecraft-teenage-mutant-ninja-turtles.json](./259850-minecraft-teenage-mutant-ninja-turtles.json) |
 | Minecraft: Tetris | 311740 | [311740-minecraft-tetris.json](./311740-minecraft-tetris.json) |
 | Minecraft: The Backrooms | 334051 | [334051-minecraft-the-backrooms.json](./334051-minecraft-the-backrooms.json) |
@@ -16709,7 +16712,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cozy Aquarium | 373615 | [373615-my-cozy-aquarium.json](./373615-my-cozy-aquarium.json) |
 | My Cozy Home | 258936 | [258936-my-cozy-home.json](./258936-my-cozy-home.json) |
 | My Cozy Room | 328507 | [328507-my-cozy-room.json](./328507-my-cozy-room.json) |
+| My Cozy Room: Coffee | 366796 | [366796-my-cozy-room-coffee.json](./366796-my-cozy-room-coffee.json) |
 | My Cozy Room: Cottagecore | 350862 | [350862-my-cozy-room-cottagecore.json](./350862-my-cozy-room-cottagecore.json) |
+| My Cozy Room: Mexican and Asian | 366795 | [366795-my-cozy-room-mexican-and-asian.json](./366795-my-cozy-room-mexican-and-asian.json) |
+| My Cozy Room: Supermarket | 366794 | [366794-my-cozy-room-supermarket.json](./366794-my-cozy-room-supermarket.json) |
+| My Cozy Room: Zen | 366793 | [366793-my-cozy-room-zen.json](./366793-my-cozy-room-zen.json) |
 | My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
 | My Craft : Creative & Survival | 97166 | [97166-my-craft-creative-and-survival.json](./97166-my-craft-creative-and-survival.json) |
 | My Craft: Block Edition | 102849 | [102849-my-craft-block-edition.json](./102849-my-craft-block-edition.json) |
