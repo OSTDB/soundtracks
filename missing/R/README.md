@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiohammer | 21565 | [21565-radiohammer.json](./21565-radiohammer.json) |
 | Radiolight | 170912 | [170912-radiolight.json](./170912-radiolight.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
+| Radiophobia 3 | 375917 | [375917-radiophobia-3.json](./375917-radiophobia-3.json) |
 | Radioquacktive | 291831 | [291831-radioquacktive.json](./291831-radioquacktive.json) |
 | Radiosol | 298421 | [298421-radiosol.json](./298421-radiosol.json) |
 | Radiotelegraphist | 188940 | [188940-radiotelegraphist.json](./188940-radiotelegraphist.json) |
@@ -7883,6 +7884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 19 Elite Pack | 366843 | [366843-rocket-league-season-19-elite-pack.json](./366843-rocket-league-season-19-elite-pack.json) |
 | Rocket League: Season 19 Rookie Pack | 366844 | [366844-rocket-league-season-19-rookie-pack.json](./366844-rocket-league-season-19-rookie-pack.json) |
 | Rocket League: Season 2 | 141575 | [141575-rocket-league-season-2.json](./141575-rocket-league-season-2.json) |
+| Rocket League: Season 20 | 375886 | [375886-rocket-league-season-20.json](./375886-rocket-league-season-20.json) |
 | Rocket League: Season 21 | 381986 | [381986-rocket-league-season-21.json](./381986-rocket-league-season-21.json) |
 | Rocket League: Season 22 | 394702 | [394702-rocket-league-season-22.json](./394702-rocket-league-season-22.json) |
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
