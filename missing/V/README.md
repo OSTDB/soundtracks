@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Tales | 185974 | [185974-vegas-tales.json](./185974-vegas-tales.json) |
 | Vegas World | 131312 | [131312-vegas-world.json](./131312-vegas-world.json) |
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
+| Vegemancer | 374576 | [374576-vegemancer.json](./374576-vegemancer.json) |
 | VegeMine | 272192 | [272192-vegemine.json](./272192-vegemine.json) |
 | Vegetable Game | 191569 | [191569-vegetable-game.json](./191569-vegetable-game.json) |
 | Vegetable Valley Nightmare | 216303 | [216303-vegetable-valley-nightmare.json](./216303-vegetable-valley-nightmare.json) |
