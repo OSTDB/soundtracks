@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technic Beat | 24168 | [24168-technic-beat.json](./24168-technic-beat.json) |
+| Technic Ranger | 384594 | [384594-technic-ranger.json](./384594-technic-ranger.json) |
 | Technical Demo X2 | 296010 | [296010-technical-demo-x2.json](./296010-technical-demo-x2.json) |
 | Technical Issues | 262600 | [262600-technical-issues.json](./262600-technical-issues.json) |
 | Technically Frogs Can Fly | 326217 | [326217-technically-frogs-can-fly.json](./326217-technically-frogs-can-fly.json) |
@@ -7157,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dynasty Of Cats | 258009 | [258009-the-dynasty-of-cats.json](./258009-the-dynasty-of-cats.json) |
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
+| The Eagle Keita | 384572 | [384572-the-eagle-keita.json](./384572-the-eagle-keita.json) |
 | The Eagle's Heir | 29125 | [29125-the-eagles-heir.json](./29125-the-eagles-heir.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Early Years of Flight | 21380 | [21380-the-early-years-of-flight.json](./21380-the-early-years-of-flight.json) |
@@ -16645,6 +16647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is a Small Town | 260557 | [260557-this-is-a-small-town.json](./260557-this-is-a-small-town.json) |
 | This Is a Square! | 292931 | [292931-this-is-a-square.json](./292931-this-is-a-square.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
+| This is Adam | 384560 | [384560-this-is-adam.json](./384560-this-is-adam.json) |
 | This Is Fine | 177325 | [177325-this-is-fine.json](./177325-this-is-fine.json) |
 | This is Football | 70158 | [70158-this-is-football.json](./70158-this-is-football.json) |
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
@@ -20125,6 +20128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Garage: Flying Fire Shark | 414454 | [414454-toaplan-arcade-garage-flying-fire-shark.json](./414454-toaplan-arcade-garage-flying-fire-shark.json) |
 | Toaplan Arcade Shoot'em Ups 1 | 336053 | [336053-toaplan-arcade-shootem-ups-1.json](./336053-toaplan-arcade-shootem-ups-1.json) |
 | Toaplan Arcade Shoot'em Ups 3 | 336054 | [336054-toaplan-arcade-shootem-ups-3.json](./336054-toaplan-arcade-shootem-ups-3.json) |
+| Toaplan Arcade Shoot'em Ups 4 | 384582 | [384582-toaplan-arcade-shootem-ups-4.json](./384582-toaplan-arcade-shootem-ups-4.json) |
 | Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
 | Toaru Kagaku no Railgun | 12380 | [12380-toaru-kagaku-no-railgun.json](./12380-toaru-kagaku-no-railgun.json) |
 | Toaru Majutsu no Index | 11864 | [11864-toaru-majutsu-no-index.json](./11864-toaru-majutsu-no-index.json) |
