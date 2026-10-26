@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
 | Iconic | 362768 | [362768-iconic.json](./362768-iconic.json) |
+| IcoNick Duster: Planets Defender | 371944 | [371944-iconick-duster-planets-defender.json](./371944-iconick-duster-planets-defender.json) |
 | Icons of Theia | 222741 | [222741-icons-of-theia.json](./222741-icons-of-theia.json) |
 | Icons: Combat Arena | 51449 | [51449-icons-combat-arena.json](./51449-icons-combat-arena.json) |
 | Icontrivia: Guess All Things Christmas | 232050 | [232050-icontrivia-guess-all-things-christmas.json](./232050-icontrivia-guess-all-things-christmas.json) |
@@ -2840,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Inductor | 211282 | [211282-inductor.json](./211282-inductor.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
+| Indulgentia | 371925 | [371925-indulgentia.json](./371925-indulgentia.json) |
 | Industeria | 416684 | [416684-industeria.json](./416684-industeria.json) |
 | IndusTree | 346398 | [346398-industree.json](./346398-industree.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
