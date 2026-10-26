@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexulous Word Game | 88525 | [88525-lexulous-word-game.json](./88525-lexulous-word-game.json) |
 | Lexy Lightspeed: Escape From Earth | 137867 | [137867-lexy-lightspeed-escape-from-earth.json](./137867-lexy-lightspeed-escape-from-earth.json) |
 | Lexy Lightspeed: Secret Agent Showdown | 137937 | [137937-lexy-lightspeed-secret-agent-showdown.json](./137937-lexy-lightspeed-secret-agent-showdown.json) |
+| Lexy's Labyrinth | 356000 | [356000-lexys-labyrinth.json](./356000-lexys-labyrinth.json) |
 | Leyendas de Lhodrye: Arakhas el Oscuro | 84301 | [84301-leyendas-de-lhodrye-arakhas-el-oscuro.json](./84301-leyendas-de-lhodrye-arakhas-el-oscuro.json) |
 | Leygref's Castle | 2883 | [2883-leygrefs-castle.json](./2883-leygrefs-castle.json) |
 | Leyla In Veil | 413762 | [413762-leyla-in-veil.json](./413762-leyla-in-veil.json) |
