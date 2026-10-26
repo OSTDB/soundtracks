@@ -2974,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Spanish | 378540 | [378540-jumpstart-spanish.json](./378540-jumpstart-spanish.json) |
 | Jumpstart Spy Masters: Max Strikes Back | 91800 | [91800-jumpstart-spy-masters-max-strikes-back.json](./91800-jumpstart-spy-masters-max-strikes-back.json) |
 | Jumpstart Spy Masters: Unmask the Prankster | 185887 | [185887-jumpstart-spy-masters-unmask-the-prankster.json](./185887-jumpstart-spy-masters-unmask-the-prankster.json) |
+| JumpStart Study Helpers Math Booster | 366185 | [366185-jumpstart-study-helpers-math-booster.json](./366185-jumpstart-study-helpers-math-booster.json) |
 | JumpStart Toddlers | 129111 | [129111-jumpstart-toddlers.json](./129111-jumpstart-toddlers.json) |
 | JumpStart Typing | 73592 | [73592-jumpstart-typing.json](./73592-jumpstart-typing.json) |
 | JumpStart Wildlife Safari Field Trip | 67348 | [67348-jumpstart-wildlife-safari-field-trip.json](./67348-jumpstart-wildlife-safari-field-trip.json) |
