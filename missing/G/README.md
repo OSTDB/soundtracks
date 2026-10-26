@@ -2931,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out Joey! | 248892 | [248892-get-out-joey.json](./248892-get-out-joey.json) |
 | Get Out of My Space | 204830 | [204830-get-out-of-my-space.json](./204830-get-out-of-my-space.json) |
 | Get Out of My Store! | 268512 | [268512-get-out-of-my-store.json](./268512-get-out-of-my-store.json) |
+| Get Out of the Woods | 357133 | [357133-get-out-of-the-woods.json](./357133-get-out-of-the-woods.json) |
 | Get Out of this Dungeon | 133995 | [133995-get-out-of-this-dungeon.json](./133995-get-out-of-this-dungeon.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
 | Get Out! | 163708 | [163708-get-out.json](./163708-get-out.json) |
@@ -5338,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Balls | 78081 | [78081-golden-balls.json](./78081-golden-balls.json) |
 | Golden Basket | 73598 | [73598-golden-basket.json](./73598-golden-basket.json) |
 | Golden Chambers | 253999 | [253999-golden-chambers.json](./253999-golden-chambers.json) |
+| Golden Desire: Fantasy Romance | 357123 | [357123-golden-desire-fantasy-romance.json](./357123-golden-desire-fantasy-romance.json) |
 | Golden Dungeons | 88193 | [88193-golden-dungeons.json](./88193-golden-dungeons.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
 | Golden Eggs | 103158 | [103158-golden-eggs.json](./103158-golden-eggs.json) |
