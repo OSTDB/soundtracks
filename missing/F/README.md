@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Digital Deluxe Edition | 221782 | [221782-fairy-tail-digital-deluxe-edition.json](./221782-fairy-tail-digital-deluxe-edition.json) |
 | Fairy Tail: Dragon Slayers | 58582 | [58582-fairy-tail-dragon-slayers.json](./58582-fairy-tail-dragon-slayers.json) |
 | Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
+| Fairy Tail: Fierce Fight | 349254 | [349254-fairy-tail-fierce-fight.json](./349254-fairy-tail-fierce-fight.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
 | Fairy Tail: Hero's Journey | 59806 | [59806-fairy-tail-heros-journey.json](./59806-fairy-tail-heros-journey.json) |
@@ -3915,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy Classics Vol. 1 | 389081 | [389081-fighting-fantasy-classics-vol-1.json](./389081-fighting-fantasy-classics-vol-1.json) |
 | Fighting Fantasy Classics: Caverns of the Snow Witch | 170851 | [170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json](./170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json) |
+| Fighting Fantasy Classics: Eye of the Dragon | 349202 | [349202-fighting-fantasy-classics-eye-of-the-dragon.json](./349202-fighting-fantasy-classics-eye-of-the-dragon.json) |
 | Fighting Fantasy Classics: The Port of Peril | 353813 | [353813-fighting-fantasy-classics-the-port-of-peril.json](./353813-fighting-fantasy-classics-the-port-of-peril.json) |
 | Fighting Fantasy Legends | 40557 | [40557-fighting-fantasy-legends.json](./40557-fighting-fantasy-legends.json) |
 | Fighting Fantasy: Armies of Death | 58711 | [58711-fighting-fantasy-armies-of-death.json](./58711-fighting-fantasy-armies-of-death.json) |
@@ -9154,6 +9156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Stories | 154566 | [154566-fox-stories.json](./154566-fox-stories.json) |
 | Fox Trot | 289801 | [289801-fox-trot.json](./289801-fox-trot.json) |
 | Fox Two Protocol | 408310 | [408310-fox-two-protocol.json](./408310-fox-two-protocol.json) |
+| Fox XII | 349211 | [349211-fox-xii.json](./349211-fox-xii.json) |
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
 | Fox's Peter Pan & The Pirates | 198741 | [198741-foxs-peter-pan-and-the-pirates.json](./198741-foxs-peter-pan-and-the-pirates.json) |
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
