@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
 | 17 MPH | 377922 | [377922-17-mph.json](./377922-17-mph.json) |
 | 17 Seconds VR | 374234 | [374234-17-seconds-vr.json](./374234-17-seconds-vr.json) |
+| 17 Ways To Not Die (Or Not, IDK): Interactive Movie | 349200 | [349200-17-ways-to-not-die-or-not-idk-interactive-movie.json](./349200-17-ways-to-not-die-or-not-idk-interactive-movie.json) |
 | 171 | 136712 | [136712-171.json](./136712-171.json) |
 | 177 | 8562 | [8562-177.json](./8562-177.json) |
 | 1775: Rebellion | 34000 | [34000-1775-rebellion.json](./34000-1775-rebellion.json) |
