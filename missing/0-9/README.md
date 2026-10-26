@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Christmas Hidden Cats | 378185 | [378185-100-christmas-hidden-cats.json](./378185-100-christmas-hidden-cats.json) |
 | 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
 | 100 Classic Games | 97232 | [97232-100-classic-games.json](./97232-100-classic-games.json) |
+| 100 Closes | 358057 | [358057-100-closes.json](./358057-100-closes.json) |
 | 100 Crime Cats | 301028 | [301028-100-crime-cats.json](./301028-100-crime-cats.json) |
 | 100 Cyprus Cats | 334121 | [334121-100-cyprus-cats.json](./334121-100-cyprus-cats.json) |
 | 100 Day Term | 359555 | [359555-100-day-term.json](./359555-100-day-term.json) |
@@ -525,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hiddensaurs: Medieval | 359558 | [359558-100-hiddensaurs-medieval.json](./359558-100-hiddensaurs-medieval.json) |
 | 100 Hiddensaurs: Renaissance | 359557 | [359557-100-hiddensaurs-renaissance.json](./359557-100-hiddensaurs-renaissance.json) |
 | 100 Hong Kong Cats | 351681 | [351681-100-hong-kong-cats.json](./351681-100-hong-kong-cats.json) |
+| 100 Humans vs. Gorilla | 358056 | [358056-100-humans-vs-gorilla.json](./358056-100-humans-vs-gorilla.json) |
 | 100 India Cats | 334124 | [334124-100-india-cats.json](./334124-100-india-cats.json) |
 | 100 Istanbul Cats | 288727 | [288727-100-istanbul-cats.json](./288727-100-istanbul-cats.json) |
 | 100 Istanbul Cats: Extra Content | 301044 | [301044-100-istanbul-cats-extra-content.json](./301044-100-istanbul-cats-extra-content.json) |
@@ -538,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 lil jumps | 283033 | [283033-100-lil-jumps.json](./283033-100-lil-jumps.json) |
 | 100 Line Christmas | 260891 | [260891-100-line-christmas.json](./260891-100-line-christmas.json) |
 | 100 Line Massacre | 260889 | [260889-100-line-massacre.json](./260889-100-line-massacre.json) |
+| 100 Lives | 358055 | [358055-100-lives.json](./358055-100-lives.json) |
 | 100 Logic Games: Time Killers | 232531 | [232531-100-logic-games-time-killers.json](./232531-100-logic-games-time-killers.json) |
 | 100 London Cats | 282722 | [282722-100-london-cats.json](./282722-100-london-cats.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
