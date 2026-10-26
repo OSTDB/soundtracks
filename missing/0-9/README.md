@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Below | 377406 | [377406-60-below.json](./377406-60-below.json) |
 | 60 Clicks: Read, Select, Connected Worlds | 259054 | [259054-60-clicks-read-select-connected-worlds.json](./259054-60-clicks-read-select-connected-worlds.json) |
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
+| 60 Minutes to Extinction: Escape Room | 370113 | [370113-60-minutes-to-extinction-escape-room.json](./370113-60-minutes-to-extinction-escape-room.json) |
 | 60 Parsecs! | 11710 | [11710-60-parsecs.json](./11710-60-parsecs.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
 | 60 Second History | 332212 | [332212-60-second-history.json](./332212-60-second-history.json) |
@@ -2732,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 81diver DS Story | 344312 | [344312-81diver-ds-story.json](./344312-81diver-ds-story.json) |
 | 81diver Wii | 344309 | [344309-81diver-wii.json](./344309-81diver-wii.json) |
 | 82-0 | 407398 | [407398-82-0.json](./407398-82-0.json) |
+| 85Top | 370082 | [370082-85top.json](./370082-85top.json) |
 | 86 | 170894 | [170894-86.json](./170894-86.json) |
 | 86 Daily Drift Simulator JDM | 223929 | [223929-86-daily-drift-simulator-jdm.json](./223929-86-daily-drift-simulator-jdm.json) |
 | 86'd | 387024 | [387024-86d.json](./387024-86d.json) |
