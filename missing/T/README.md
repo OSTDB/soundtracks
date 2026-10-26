@@ -3864,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Territory | 190998 | [190998-territory.json](./190998-territory.json) |
+| Territory | 377624 | [377624-territory.json](./377624-territory.json) |
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
 | Territory Control 2 | 204844 | [204844-territory-control-2.json](./204844-territory-control-2.json) |
 | Territory Idle | 123284 | [123284-territory-idle.json](./123284-territory-idle.json) |
@@ -5658,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BoX | 33963 | [33963-the-box.json](./33963-the-box.json) |
 | The Box Code | 139188 | [139188-the-box-code.json](./139188-the-box-code.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
+| The Box is Alive | 377634 | [377634-the-box-is-alive.json](./377634-the-box-is-alive.json) |
 | The Box of Fear | 358634 | [358634-the-box-of-fear.json](./358634-the-box-of-fear.json) |
 | The Box of Horrors | 342100 | [342100-the-box-of-horrors.json](./342100-the-box-of-horrors.json) |
 | The Boxer | 13429 | [13429-the-boxer.json](./13429-the-boxer.json) |
@@ -8819,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Herbalist | 30942 | [30942-the-herbalist.json](./30942-the-herbalist.json) |
+| The Heritage | 377563 | [377563-the-heritage.json](./377563-the-heritage.json) |
 | The Heritage | 54303 | [54303-the-heritage.json](./54303-the-heritage.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
@@ -10760,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lighthouse of São Bento do Oeste | 192894 | [192894-the-lighthouse-of-sao-bento-do-oeste.json](./192894-the-lighthouse-of-sao-bento-do-oeste.json) |
 | The Lighthouse Secrets | 348428 | [348428-the-lighthouse-secrets.json](./348428-the-lighthouse-secrets.json) |
 | The Lightkeeper | 215737 | [215737-the-lightkeeper.json](./215737-the-lightkeeper.json) |
+| The Lightkeepers | 377652 | [377652-the-lightkeepers.json](./377652-the-lightkeepers.json) |
 | The Lightless World | 289989 | [289989-the-lightless-world.json](./289989-the-lightless-world.json) |
 | The Lightning Girl | 372275 | [372275-the-lightning-girl.json](./372275-the-lightning-girl.json) |
 | The Lightning Over Pear Acre Road | 138186 | [138186-the-lightning-over-pear-acre-road.json](./138186-the-lightning-over-pear-acre-road.json) |
@@ -17127,6 +17131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
 | Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
 | Thud Ridge: American Aces in 'Nam | 57594 | [57594-thud-ridge-american-aces-in-nam.json](./57594-thud-ridge-american-aces-in-nam.json) |
+| Thug Life | 377562 | [377562-thug-life.json](./377562-thug-life.json) |
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thugs Law | 114827 | [114827-thugs-law.json](./114827-thugs-law.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
@@ -19029,6 +19034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time From Earth | 212299 | [212299-time-from-earth.json](./212299-time-from-earth.json) |
 | Time Gal & Ninja Hayate | 55871 | [55871-time-gal-and-ninja-hayate.json](./55871-time-gal-and-ninja-hayate.json) |
 | Time Gal HD Remaster | 255872 | [255872-time-gal-hd-remaster.json](./255872-time-gal-hd-remaster.json) |
+| Time Gal Re:birth | 377094 | [377094-time-gal-re-birth.json](./377094-time-gal-re-birth.json) |
 | Time Gap | 109199 | [109199-time-gap.json](./109199-time-gap.json) |
 | Time Gap Mystery | 68501 | [68501-time-gap-mystery.json](./68501-time-gap-mystery.json) |
 | Time Gap Puppies | 156518 | [156518-time-gap-puppies.json](./156518-time-gap-puppies.json) |
