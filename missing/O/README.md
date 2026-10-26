@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Racing | 125843 | [125843-offroad-racing.json](./125843-offroad-racing.json) |
 | Offroad Racing | 221416 | [221416-offroad-racing.json](./221416-offroad-racing.json) |
 | Offroad Racing on Line | 172161 | [172161-offroad-racing-on-line.json](./172161-offroad-racing-on-line.json) |
+| Offroad Rally Racing | 382163 | [382163-offroad-rally-racing.json](./382163-offroad-rally-racing.json) |
 | Offroad Scientist | 58079 | [58079-offroad-scientist.json](./58079-offroad-scientist.json) |
 | Offroad Simulator Online 4x4 | 196584 | [196584-offroad-simulator-online-4x4.json](./196584-offroad-simulator-online-4x4.json) |
 | Offroad Survival | 261658 | [261658-offroad-survival.json](./261658-offroad-survival.json) |
@@ -2976,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Inner Space | 69216 | [69216-operation-inner-space.json](./69216-operation-inner-space.json) |
 | Operation: Matriarchy | 33684 | [33684-operation-matriarchy.json](./33684-operation-matriarchy.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
+| Operation: Outbreak | 382169 | [382169-operation-outbreak.json](./382169-operation-outbreak.json) |
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
 | Operation: Overkill II | 73711 | [73711-operation-overkill-ii.json](./73711-operation-overkill-ii.json) |
 | Operation: Overkill II | 73713 | [73713-operation-overkill-ii.json](./73713-operation-overkill-ii.json) |
