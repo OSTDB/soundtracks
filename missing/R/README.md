@@ -8095,9 +8095,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman Dash Zhěngjiù Dìqiú Dàmàoxiǎn | 290875 | [290875-rockman-dash-zhengjiu-diqiu-damaoxian.json](./290875-rockman-dash-zhengjiu-diqiu-damaoxian.json) |
 | Rockman Dash: 5tsu no Shima no Daibouken! | 229209 | [229209-rockman-dash-5tsu-no-shima-no-daibouken.json](./229209-rockman-dash-5tsu-no-shima-no-daibouken.json) |
 | Rockman Dash: Hagane no Boukenshin | 44060 | [44060-rockman-dash-hagane-no-boukenshin.json](./44060-rockman-dash-hagane-no-boukenshin.json) |
+| Rockman EXE 4: Kaizou Card - Part 1 | 352763 | [352763-rockman-exe-4-kaizou-card-part-1.json](./352763-rockman-exe-4-kaizou-card-part-1.json) |
+| Rockman EXE 4: Kaizou Card - Part 2 | 352764 | [352764-rockman-exe-4-kaizou-card-part-2.json](./352764-rockman-exe-4-kaizou-card-part-2.json) |
+| Rockman EXE 4: Kaizou Card - Part 3 | 352765 | [352765-rockman-exe-4-kaizou-card-part-3.json](./352765-rockman-exe-4-kaizou-card-part-3.json) |
+| Rockman EXE 4: Kaizou Card - Part 4 | 352767 | [352767-rockman-exe-4-kaizou-card-part-4.json](./352767-rockman-exe-4-kaizou-card-part-4.json) |
 | Rockman EXE 4.5: Real Operation | 352875 | [352875-rockman-exe-4-5-real-operation.json](./352875-rockman-exe-4-5-real-operation.json) |
 | Rockman EXE 5: Kaizou Card - Part 1 | 352754 | [352754-rockman-exe-5-kaizou-card-part-1.json](./352754-rockman-exe-5-kaizou-card-part-1.json) |
 | Rockman EXE 5: Kaizou Card - Part 2 | 352756 | [352756-rockman-exe-5-kaizou-card-part-2.json](./352756-rockman-exe-5-kaizou-card-part-2.json) |
+| Rockman EXE 6: Dennoujuu Falzer | 352771 | [352771-rockman-exe-6-dennoujuu-falzer.json](./352771-rockman-exe-6-dennoujuu-falzer.json) |
+| Rockman EXE 6: Dennoujuu Falzer | 352772 | [352772-rockman-exe-6-dennoujuu-falzer.json](./352772-rockman-exe-6-dennoujuu-falzer.json) |
+| Rockman EXE 6: Dennoujuu Falzer - Beast Link Gate DX Edition | 352776 | [352776-rockman-exe-6-dennoujuu-falzer-beast-link-gate-dx-edition.json](./352776-rockman-exe-6-dennoujuu-falzer-beast-link-gate-dx-edition.json) |
+| Rockman EXE 6: Dennoujuu Glaga | 352770 | [352770-rockman-exe-6-dennoujuu-glaga.json](./352770-rockman-exe-6-dennoujuu-glaga.json) |
+| Rockman EXE 6: Dennoujuu Glaga | 352773 | [352773-rockman-exe-6-dennoujuu-glaga.json](./352773-rockman-exe-6-dennoujuu-glaga.json) |
+| Rockman EXE 6: Dennoujuu Glaga - Beast Link Gate DX Edition | 352777 | [352777-rockman-exe-6-dennoujuu-glaga-beast-link-gate-dx-edition.json](./352777-rockman-exe-6-dennoujuu-glaga-beast-link-gate-dx-edition.json) |
 | Rockman EXE 6: Kaizou Card - Part 1 | 352736 | [352736-rockman-exe-6-kaizou-card-part-1.json](./352736-rockman-exe-6-kaizou-card-part-1.json) |
 | Rockman EXE 6: Kaizou Card - Part 2 | 352738 | [352738-rockman-exe-6-kaizou-card-part-2.json](./352738-rockman-exe-6-kaizou-card-part-2.json) |
 | Rockman EXE Legend of Network | 265959 | [265959-rockman-exe-legend-of-network.json](./265959-rockman-exe-legend-of-network.json) |
