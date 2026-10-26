@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny | 105432 | [105432-uncanny.json](./105432-uncanny.json) |
 | Uncanny | 206717 | [206717-uncanny.json](./206717-uncanny.json) |
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
+| Uncanny Desire | 378153 | [378153-uncanny-desire.json](./378153-uncanny-desire.json) |
 | Uncanny Islands | 81787 | [81787-uncanny-islands.json](./81787-uncanny-islands.json) |
 | Uncanny Tales: 1992 | 348579 | [348579-uncanny-tales-1992.json](./348579-uncanny-tales-1992.json) |
 | Uncanny Tales: Cold Road | 340276 | [340276-uncanny-tales-cold-road.json](./340276-uncanny-tales-cold-road.json) |
