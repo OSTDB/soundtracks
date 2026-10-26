@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
 | La-Mulana EX | 22186 | [22186-la-mulana-ex.json](./22186-la-mulana-ex.json) |
+| LA: Streets of Sorcery | 361025 | [361025-la-streets-of-sorcery.json](./361025-la-streets-of-sorcery.json) |
 | Lab | 199511 | [199511-lab.json](./199511-lab.json) |
 | Lab 03 Yrinth | 75433 | [75433-lab-03-yrinth.json](./75433-lab-03-yrinth.json) |
 | Lab 7: Cold Nights | 126895 | [126895-lab-7-cold-nights.json](./126895-lab-7-cold-nights.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of the Chaka King | 142733 | [142733-labyrinth-of-the-chaka-king.json](./142733-labyrinth-of-the-chaka-king.json) |
 | Labyrinth of the Crystal Princess | 406652 | [406652-labyrinth-of-the-crystal-princess.json](./406652-labyrinth-of-the-crystal-princess.json) |
 | Labyrinth of the Demon King | 188867 | [188867-labyrinth-of-the-demon-king.json](./188867-labyrinth-of-the-demon-king.json) |
+| Labyrinth of the Dragon | 361085 | [361085-labyrinth-of-the-dragon.json](./361085-labyrinth-of-the-dragon.json) |
 | Labyrinth of the Witch | 118268 | [118268-labyrinth-of-the-witch.json](./118268-labyrinth-of-the-witch.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
