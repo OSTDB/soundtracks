@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L00P | 255671 | [255671-l00p.json](./255671-l00p.json) |
 | L2 Love x Loop | 219132 | [219132-l2-love-x-loop.json](./219132-l2-love-x-loop.json) |
 | l3bhm | 361280 | [361280-l3bhm.json](./361280-l3bhm.json) |
+| L4UR4 | 362230 | [362230-l4ur4.json](./362230-l4ur4.json) |
 | L5RC | 71324 | [71324-l5rc.json](./71324-l5rc.json) |
 | L8R | 229724 | [229724-l8r.json](./229724-l8r.json) |
 | La Abadía del Crimen | 12375 | [12375-la-abadia-del-crimen.json](./12375-la-abadia-del-crimen.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | Lines Infinite | 124024 | [124024-lines-infinite.json](./124024-lines-infinite.json) |
 | Lines Lines | 232500 | [232500-lines-lines.json](./232500-lines-lines.json) |
+| Lines of Balls | 362319 | [362319-lines-of-balls.json](./362319-lines-of-balls.json) |
 | Lines on Sides | 174224 | [174224-lines-on-sides.json](./174224-lines-on-sides.json) |
 | Lines Progress | 316919 | [316919-lines-progress.json](./316919-lines-progress.json) |
 | Lines Splitter | 142876 | [142876-lines-splitter.json](./142876-lines-splitter.json) |
