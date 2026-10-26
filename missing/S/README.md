@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Our Solar System | 243055 | [243055-save-our-solar-system.json](./243055-save-our-solar-system.json) |
 | Save Our Spirit | 206662 | [206662-save-our-spirit.json](./206662-save-our-spirit.json) |
 | Save President From Rebels | 107730 | [107730-save-president-from-rebels.json](./107730-save-president-from-rebels.json) |
+| Save Rob | 354909 | [354909-save-rob.json](./354909-save-rob.json) |
 | Save Room: Organization Game | 199573 | [199573-save-room-organization-game.json](./199573-save-room-organization-game.json) |
 | Save Room: The Merchant | 256726 | [256726-save-room-the-merchant.json](./256726-save-room-the-merchant.json) |
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
@@ -10470,6 +10471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Kid | 239160 | [239160-sky-kid.json](./239160-sky-kid.json) |
 | Sky Kid | 293755 | [293755-sky-kid.json](./293755-sky-kid.json) |
 | Sky Kid Deluxe | 17283 | [17283-sky-kid-deluxe.json](./17283-sky-kid-deluxe.json) |
+| Sky Kid: Enhanced | 355605 | [355605-sky-kid-enhanced.json](./355605-sky-kid-enhanced.json) |
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
 | Sky Kingdoms - Castle Siege | 100842 | [100842-sky-kingdoms-castle-siege.json](./100842-sky-kingdoms-castle-siege.json) |
@@ -10525,6 +10527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Roller Coaster | 298045 | [298045-sky-roller-coaster.json](./298045-sky-roller-coaster.json) |
 | Sky Runner | 36904 | [36904-sky-runner.json](./36904-sky-runner.json) |
 | Sky Rusher | 97263 | [97263-sky-rusher.json](./97263-sky-rusher.json) |
+| Sky Saviour | 355591 | [355591-sky-saviour.json](./355591-sky-saviour.json) |
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
 | Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
 | Sky Septima | 146659 | [146659-sky-septima.json](./146659-sky-septima.json) |
@@ -13719,6 +13722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solipskier | 76132 | [76132-solipskier.json](./76132-solipskier.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
 | Solis | 296278 | [296278-solis.json](./296278-solis.json) |
+| Solis | 354927 | [354927-solis.json](./354927-solis.json) |
 | Solis | 375497 | [375497-solis.json](./375497-solis.json) |
 | Solitaire | 131465 | [131465-solitaire.json](./131465-solitaire.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
@@ -19116,6 +19120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Sprunki Hell Towers | 395210 | [395210-sprunki-hell-towers.json](./395210-sprunki-hell-towers.json) |
 | Sprunki Horror From the Loop | 361923 | [361923-sprunki-horror-from-the-loop.json](./361923-sprunki-horror-from-the-loop.json) |
+| Sprunki vs MCCraft | 355059 | [355059-sprunki-vs-mccraft.json](./355059-sprunki-vs-mccraft.json) |
 | Sprydite | 244638 | [244638-sprydite.json](./244638-sprydite.json) |
 | Spryke | 110024 | [110024-spryke.json](./110024-spryke.json) |
 | Spryward | 202744 | [202744-spryward.json](./202744-spryward.json) |
@@ -19674,6 +19679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staff! | 269095 | [269095-staff.json](./269095-staff.json) |
 | Staffer Case: A Supernatural Mystery Adventure | 215713 | [215713-staffer-case-a-supernatural-mystery-adventure.json](./215713-staffer-case-a-supernatural-mystery-adventure.json) |
 | Staffer Reborn | 297002 | [297002-staffer-reborn.json](./297002-staffer-reborn.json) |
+| Staffer Retro : A Supernatural Mystery Quest | 355598 | [355598-staffer-retro-a-supernatural-mystery-quest.json](./355598-staffer-retro-a-supernatural-mystery-quest.json) |
 | Stagdraft | 221105 | [221105-stagdraft.json](./221105-stagdraft.json) |
 | Stage 3: Azaria | 90434 | [90434-stage-3-azaria.json](./90434-stage-3-azaria.json) |
 | Stage 333 | 361105 | [361105-stage-333.json](./361105-stage-333.json) |
@@ -19887,6 +19893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Procyon - Deluxe Edition | 298046 | [298046-star-conflict-procyon-deluxe-edition.json](./298046-star-conflict-procyon-deluxe-edition.json) |
 | Star Conflict: Psiloi | 355165 | [355165-star-conflict-psiloi.json](./355165-star-conflict-psiloi.json) |
 | Star Conflict: Raven | 354431 | [354431-star-conflict-raven.json](./354431-star-conflict-raven.json) |
+| Star Conflict: Relic | 355061 | [355061-star-conflict-relic.json](./355061-star-conflict-relic.json) |
 | Star Conflict: Salamander | 298040 | [298040-star-conflict-salamander.json](./298040-star-conflict-salamander.json) |
 | Star Conflict: Salamander. Weapon of Victory | 292641 | [292641-star-conflict-salamander-weapon-of-victory.json](./292641-star-conflict-salamander-weapon-of-victory.json) |
 | Star Conflict: Sawtooth | 196152 | [196152-star-conflict-sawtooth.json](./196152-star-conflict-sawtooth.json) |
