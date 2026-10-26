@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café 0: The Sleeping Beast - Remastered | 226278 | [226278-cafe-0-the-sleeping-beast-remastered.json](./226278-cafe-0-the-sleeping-beast-remastered.json) |
 | Cafe Battle | 240844 | [240844-cafe-battle.json](./240844-cafe-battle.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
+| Cafe Business Manager | 384567 | [384567-cafe-business-manager.json](./384567-cafe-business-manager.json) |
 | Cafe Cafe: Idle Bird Collector | 393813 | [393813-cafe-cafe-idle-bird-collector.json](./393813-cafe-cafe-idle-bird-collector.json) |
 | Cafe Crawlers | 184885 | [184885-cafe-crawlers.json](./184885-cafe-crawlers.json) |
 | Cafe Crush | 119723 | [119723-cafe-crush.json](./119723-cafe-crush.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Legend | 105784 | [105784-candy-legend.json](./105784-candy-legend.json) |
 | Candy Luna Park | 387478 | [387478-candy-luna-park.json](./387478-candy-luna-park.json) |
 | Candy Machine | 28333 | [28333-candy-machine.json](./28333-candy-machine.json) |
+| Candy Magic | 384568 | [384568-candy-magic.json](./384568-candy-magic.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Makeup Beauty Game | 86790 | [86790-candy-makeup-beauty-game.json](./86790-candy-makeup-beauty-game.json) |
 | Candy Makeup Party Salon | 90185 | [90185-candy-makeup-party-salon.json](./90185-candy-makeup-party-salon.json) |
@@ -1336,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
 | Capcom Generations 5: Street Fighter Collection 2 | 126269 | [126269-capcom-generations-5-street-fighter-collection-2.json](./126269-capcom-generations-5-street-fighter-collection-2.json) |
+| Capcom Home Arcade | 384578 | [384578-capcom-home-arcade.json](./384578-capcom-home-arcade.json) |
 | Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
 | Capcom no Quiz: Tonosama no Yabou | 46392 | [46392-capcom-no-quiz-tonosama-no-yabou.json](./46392-capcom-no-quiz-tonosama-no-yabou.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
@@ -7877,6 +7880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clans of London | 379128 | [379128-clans-of-london.json](./379128-clans-of-london.json) |
 | Clans to Kingdoms | 117417 | [117417-clans-to-kingdoms.json](./117417-clans-to-kingdoms.json) |
 | Clanswoman | 264598 | [264598-clanswoman.json](./264598-clanswoman.json) |
+| Clapism | 384565 | [384565-clapism.json](./384565-clapism.json) |
 | Clapper - A rhythm and clap game! | 74697 | [74697-clapper-a-rhythm-and-clap-game.json](./74697-clapper-a-rhythm-and-clap-game.json) |
 | Clappy Cheeks: Lust and Magic | 379351 | [379351-clappy-cheeks-lust-and-magic.json](./379351-clappy-cheeks-lust-and-magic.json) |
 | Clara Rockmore’s 105th Birthday | 375819 | [375819-clara-rockmore-s-105th-birthday.json](./375819-clara-rockmore-s-105th-birthday.json) |
@@ -9521,6 +9525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldwake | 347654 | [347654-coldwake.json](./347654-coldwake.json) |
 | ColdWire | 328000 | [328000-coldwire.json](./328000-coldwire.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
+| Cole and Hubol's Christmas Adventure DX | 384608 | [384608-cole-and-hubols-christmas-adventure-dx.json](./384608-cole-and-hubols-christmas-adventure-dx.json) |
 | Cole Dingo's Vtuber Blackjack | 279533 | [279533-cole-dingos-vtuber-blackjack.json](./279533-cole-dingos-vtuber-blackjack.json) |
 | Cole Hunter: Payback | 383730 | [383730-cole-hunter-payback.json](./383730-cole-hunter-payback.json) |
 | Cole's Christmas 2024: GoonQuest | 327419 | [327419-coles-christmas-2024-goonquest.json](./327419-coles-christmas-2024-goonquest.json) |
@@ -11200,6 +11205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conscript | 137619 | [137619-conscript.json](./137619-conscript.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
 | Conscript: Golden Gun Pack | 332002 | [332002-conscript-golden-gun-pack.json](./332002-conscript-golden-gun-pack.json) |
+| Conscript: Officer Edition | 384585 | [384585-conscript-officer-edition.json](./384585-conscript-officer-edition.json) |
 | Consecrated | 312297 | [312297-consecrated.json](./312297-consecrated.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Consentual Love In A Dungeon | 210471 | [210471-consentual-love-in-a-dungeon.json](./210471-consentual-love-in-a-dungeon.json) |
