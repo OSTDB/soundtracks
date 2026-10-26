@@ -10556,6 +10556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombini | 129579 | [129579-bombini.json](./129579-bombini.json) |
 | Bombman | 111190 | [111190-bombman.json](./111190-bombman.json) |
 | Bombman | 42141 | [42141-bombman.json](./42141-bombman.json) |
+| BombMaze | 370168 | [370168-bombmaze.json](./370168-bombmaze.json) |
 | Bombo | 293252 | [293252-bombo.json](./293252-bombo.json) |
 | Bombo Rumble | 239683 | [239683-bombo-rumble.json](./239683-bombo-rumble.json) |
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
@@ -11304,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle | 36488 | [36488-bottle.json](./36488-bottle.json) |
 | Bottle Buster | 206466 | [206466-bottle-buster.json](./206466-bottle-buster.json) |
 | Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
+| Bottle Collector Run | 370172 | [370172-bottle-collector-run.json](./370172-bottle-collector-run.json) |
 | Bottle Empire | 257249 | [257249-bottle-empire.json](./257249-bottle-empire.json) |
 | Bottle Flip | 90760 | [90760-bottle-flip.json](./90760-bottle-flip.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
