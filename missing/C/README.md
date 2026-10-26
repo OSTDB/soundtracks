@@ -4272,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestrion | 33956 | [33956-celestrion.json](./33956-celestrion.json) |
 | Celestwald Adventure | 284812 | [284812-celestwald-adventure.json](./284812-celestwald-adventure.json) |
 | Celetania | 92415 | [92415-celetania.json](./92415-celetania.json) |
+| Celia's Stupid Romhack | 360028 | [360028-celias-stupid-romhack.json](./360028-celias-stupid-romhack.json) |
 | Cell | 287357 | [287357-cell.json](./287357-cell.json) |
 | Cell | 86632 | [86632-cell.json](./86632-cell.json) |
 | Cell 0 | 420198 | [420198-cell-0.json](./420198-cell-0.json) |
@@ -5907,6 +5908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicky Woggy | 305433 | [305433-chicky-woggy.json](./305433-chicky-woggy.json) |
 | Chicky Woggy | 363306 | [363306-chicky-woggy.json](./363306-chicky-woggy.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
+| Chicky's Easter Egg Hunt | 359906 | [359906-chickys-easter-egg-hunt.json](./359906-chickys-easter-egg-hunt.json) |
 | Chiclana & Friends: The Game | 299387 | [299387-chiclana-and-friends-the-game.json](./299387-chiclana-and-friends-the-game.json) |
 | Chico | 127717 | [127717-chico.json](./127717-chico.json) |
 | Chico and the Magic Orchards | 199361 | [199361-chico-and-the-magic-orchards.json](./199361-chico-and-the-magic-orchards.json) |
@@ -11603,6 +11605,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contract Revoked | 196502 | [196502-contract-revoked.json](./196502-contract-revoked.json) |
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
+| Contract Rush | 359879 | [359879-contract-rush.json](./359879-contract-rush.json) |
+| Contract Rush: Halloween Dress Up | 359882 | [359882-contract-rush-halloween-dress-up.json](./359882-contract-rush-halloween-dress-up.json) |
+| Contract Rush: Mission Sin | 359884 | [359884-contract-rush-mission-sin.json](./359884-contract-rush-mission-sin.json) |
 | Contract Sudoku | 277920 | [277920-contract-sudoku.json](./277920-contract-sudoku.json) |
 | Contract Terminated | 421366 | [421366-contract-terminated.json](./421366-contract-terminated.json) |
 | Contract Wars | 77472 | [77472-contract-wars.json](./77472-contract-wars.json) |
