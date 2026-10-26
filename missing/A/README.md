@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night Duty | 322452 | [322452-a-night-duty.json](./322452-a-night-duty.json) |
+| A Night for Flesh and Roses | 344838 | [344838-a-night-for-flesh-and-roses.json](./344838-a-night-for-flesh-and-roses.json) |
 | A Night In Berlin | 138472 | [138472-a-night-in-berlin.json](./138472-a-night-in-berlin.json) |
 | A Night in Crazytown | 58084 | [58084-a-night-in-crazytown.json](./58084-a-night-in-crazytown.json) |
 | A Night In Kyosaka | 154086 | [154086-a-night-in-kyosaka.json](./154086-a-night-in-kyosaka.json) |
@@ -6027,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Good Things | 63812 | [63812-all-good-things.json](./63812-all-good-things.json) |
 | All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
 | All Grown Up!: Express Yourself | 2796 | [2796-all-grown-up-express-yourself.json](./2796-all-grown-up-express-yourself.json) |
+| All Guns Blazing | 344863 | [344863-all-guns-blazing.json](./344863-all-guns-blazing.json) |
 | All Guns on Deck | 17681 | [17681-all-guns-on-deck.json](./17681-all-guns-on-deck.json) |
 | All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
 | All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
@@ -8936,6 +8938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly 1729 | 33961 | [33961-anomaly-1729.json](./33961-anomaly-1729.json) |
 | Anomaly 2 | 9212 | [9212-anomaly-2.json](./9212-anomaly-2.json) |
 | Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
+| Anomaly Bus | 344866 | [344866-anomaly-bus.json](./344866-anomaly-bus.json) |
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
 | Anomaly Corp. | 390064 | [390064-anomaly-corp.json](./390064-anomaly-corp.json) |
@@ -9731,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apokalipso | 133105 | [133105-apokalipso.json](./133105-apokalipso.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
 | Apokerlypse | 348672 | [348672-apokerlypse.json](./348672-apokerlypse.json) |
+| Apollo | 344860 | [344860-apollo.json](./344860-apollo.json) |
 | Apollo | 377104 | [377104-apollo.json](./377104-apollo.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
 | Apollo 11 VR Experience | 19016 | [19016-apollo-11-vr-experience.json](./19016-apollo-11-vr-experience.json) |
@@ -14295,6 +14299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Au-Delà | 191651 | [191651-au-dela.json](./191651-au-dela.json) |
 | Aubac | 416163 | [416163-aubac.json](./416163-aubac.json) |
 | Aube | 104450 | [104450-aube.json](./104450-aube.json) |
+| Aubirdforce After | 344855 | [344855-aubirdforce-after.json](./344855-aubirdforce-after.json) |
 | Auction | 192701 | [192701-auction.json](./192701-auction.json) |
 | Audiball | 70616 | [70616-audiball.json](./70616-audiball.json) |
 | Audica: 5 Seconds of Summer - "Youngblood" | 358945 | [358945-audica-5-seconds-of-summer-youngblood.json](./358945-audica-5-seconds-of-summer-youngblood.json) |
