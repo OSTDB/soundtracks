@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3736,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | Battleships At Dawn! | 33488 | [33488-battleships-at-dawn.json](./33488-battleships-at-dawn.json) |
 | Battleships Collide: Space Shooter | 291299 | [291299-battleships-collide-space-shooter.json](./291299-battleships-collide-space-shooter.json) |
+| Battleships Combat: Evolved | 364609 | [364609-battleships-combat-evolved.json](./364609-battleships-combat-evolved.json) |
 | Battleships General Quarters | 273563 | [273563-battleships-general-quarters.json](./273563-battleships-general-quarters.json) |
 | Battleships Simulator | 407557 | [407557-battleships-simulator.json](./407557-battleships-simulator.json) |
 | BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
@@ -6141,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Blue World Domination | 165518 | [165518-big-blue-world-domination.json](./165518-big-blue-world-domination.json) |
 | Big Blue: Memory | 89379 | [89379-big-blue-memory.json](./89379-big-blue-memory.json) |
 | Big Bobby Car: The Big Race | 139861 | [139861-big-bobby-car-the-big-race.json](./139861-big-bobby-car-the-big-race.json) |
+| Big Bond Theory | 364453 | [364453-big-bond-theory.json](./364453-big-bond-theory.json) |
 | Big Boo's Haunt | 308230 | [308230-big-boos-haunt.json](./308230-big-boos-haunt.json) |
 | Big Boo's Revenge | 261431 | [261431-big-boos-revenge.json](./261431-big-boos-revenge.json) |
 | Big Boot Baseball | 116063 | [116063-big-boot-baseball.json](./116063-big-boot-baseball.json) |
@@ -7521,6 +7524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole Interior Explorer | 277534 | [277534-black-hole-interior-explorer.json](./277534-black-hole-interior-explorer.json) |
 | Black Hole Pool | 213822 | [213822-black-hole-pool.json](./213822-black-hole-pool.json) |
 | Black Hole Simulator | 159544 | [159544-black-hole-simulator.json](./159544-black-hole-simulator.json) |
+| Black Hole Visitor Center | 364459 | [364459-black-hole-visitor-center.json](./364459-black-hole-visitor-center.json) |
 | Black Hole Void: Survive The Hole | 332601 | [332601-black-hole-void-survive-the-hole.json](./332601-black-hole-void-survive-the-hole.json) |
 | Black Hole: Farmageddon | 382410 | [382410-black-hole-farmageddon.json](./382410-black-hole-farmageddon.json) |
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
@@ -14661,6 +14665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buoyancy | 115347 | [115347-buoyancy.json](./115347-buoyancy.json) |
 | Buoyant | 120608 | [120608-buoyant.json](./120608-buoyant.json) |
 | Bura: The Way the Wind Blows | 217361 | [217361-bura-the-way-the-wind-blows.json](./217361-bura-the-way-the-wind-blows.json) |
+| Buraco | 364435 | [364435-buraco.json](./364435-buraco.json) |
 | Burai Fighter | 2382 | [2382-burai-fighter.json](./2382-burai-fighter.json) |
 | Burai Fighter Deluxe | 48960 | [48960-burai-fighter-deluxe.json](./48960-burai-fighter-deluxe.json) |
 | Burai: Gekan Kanketsu-hen | 65292 | [65292-burai-gekan-kanketsu-hen.json](./65292-burai-gekan-kanketsu-hen.json) |
@@ -15119,6 +15124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
 | Bustafellows: Deluxe Edition | 136828 | [136828-bustafellows-deluxe-edition.json](./136828-bustafellows-deluxe-edition.json) |
 | Bustafellows: Season 2 | 231413 | [231413-bustafellows-season-2.json](./231413-bustafellows-season-2.json) |
+| Bustafield 2: Hoodline | 364462 | [364462-bustafield-2-hoodline.json](./364462-bustafield-2-hoodline.json) |
 | Busted | 384857 | [384857-busted.json](./384857-busted.json) |
 | Busted Brakes | 101750 | [101750-busted-brakes.json](./101750-busted-brakes.json) |
 | Buster | 62831 | [62831-buster.json](./62831-buster.json) |
