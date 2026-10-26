@@ -8764,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart of Sourcerer | 208386 | [208386-the-heart-of-sourcerer.json](./208386-the-heart-of-sourcerer.json) |
 | The Heart of Stone | 262563 | [262563-the-heart-of-stone.json](./262563-the-heart-of-stone.json) |
 | The Heart of Tales | 177499 | [177499-the-heart-of-tales.json](./177499-the-heart-of-tales.json) |
+| The Heart of the Earth | 382842 | [382842-the-heart-of-the-earth.json](./382842-the-heart-of-the-earth.json) |
 | The Heart Pumps Clay | 122891 | [122891-the-heart-pumps-clay.json](./122891-the-heart-pumps-clay.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
 | The Hearth and Harbour | 366973 | [366973-the-hearth-and-harbour.json](./366973-the-hearth-and-harbour.json) |
@@ -25353,6 +25354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tres-Bashers | 166809 | [166809-tres-bashers.json](./166809-tres-bashers.json) |
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
 | Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
+| Trespasser | 382812 | [382812-trespasser.json](./382812-trespasser.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Trespassers | 74249 | [74249-trespassers.json](./74249-trespassers.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
