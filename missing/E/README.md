@@ -6067,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evochron Mobile | 188288 | [188288-evochron-mobile.json](./188288-evochron-mobile.json) |
 | Evochron Renegades | 15117 | [15117-evochron-renegades.json](./15117-evochron-renegades.json) |
 | EvoCreo | 38064 | [38064-evocreo.json](./38064-evocreo.json) |
+| Evocreo II | 335808 | [335808-evocreo-ii.json](./335808-evocreo-ii.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoke | 111613 | [111613-evoke.json](./111613-evoke.json) |
