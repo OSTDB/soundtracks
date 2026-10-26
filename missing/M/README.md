@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
 | Magician | 397291 | [397291-magician.json](./397291-magician.json) |
 | Magician | 94209 | [94209-magician.json](./94209-magician.json) |
+| Magician Impossible | 349732 | [349732-magician-impossible.json](./349732-magician-impossible.json) |
 | Magician Lord | 19109 | [19109-magician-lord.json](./19109-magician-lord.json) |
 | Magician Lord 2 | 324158 | [324158-magician-lord-2.json](./324158-magician-lord-2.json) |
 | Magician of Fallen | 82768 | [82768-magician-of-fallen.json](./82768-magician-of-fallen.json) |
@@ -1409,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
 | Magicolors | 121489 | [121489-magicolors.json](./121489-magicolors.json) |
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
+| Magicsea Online | 349787 | [349787-magicsea-online.json](./349787-magicsea-online.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
 | Magiculon's Tower | 372622 | [372622-magiculons-tower.json](./372622-magiculons-tower.json) |
 | Magicus | 227904 | [227904-magicus.json](./227904-magicus.json) |
@@ -5980,6 +5982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Sex Jigsaw | 291067 | [291067-medieval-sex-jigsaw.json](./291067-medieval-sex-jigsaw.json) |
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
 | Medieval Shop Simulator | 350333 | [350333-medieval-shop-simulator.json](./350333-medieval-shop-simulator.json) |
+| Medieval Shopman | 349757 | [349757-medieval-shopman.json](./349757-medieval-shopman.json) |
 | Medieval Shorts 3 | 101752 | [101752-medieval-shorts-3.json](./101752-medieval-shorts-3.json) |
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
@@ -17747,6 +17750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tiny Garden | 373267 | [373267-my-tiny-garden.json](./373267-my-tiny-garden.json) |
 | My Tiny Grocery Store | 413443 | [413443-my-tiny-grocery-store.json](./413443-my-tiny-grocery-store.json) |
 | My Tiny Island | 362340 | [362340-my-tiny-island.json](./362340-my-tiny-island.json) |
+| My Tiny Landscape | 349791 | [349791-my-tiny-landscape.json](./349791-my-tiny-landscape.json) |
 | My Tiny Park | 388785 | [388785-my-tiny-park.json](./388785-my-tiny-park.json) |
 | My Tiny Room | 348451 | [348451-my-tiny-room.json](./348451-my-tiny-room.json) |
 | My Tizi Town: Daycare | 299215 | [299215-my-tizi-town-daycare.json](./299215-my-tizi-town-daycare.json) |
