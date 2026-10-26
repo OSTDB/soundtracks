@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:cord Noah: Fractal of Oblivion | 402327 | [402327-re-cord-noah-fractal-of-oblivion.json](./402327-re-cord-noah-fractal-of-oblivion.json) |
 | Re:Curse | 247352 | [247352-re-curse.json](./247352-re-curse.json) |
 | Re:D Cherish! | 273298 | [273298-re-d-cherish.json](./273298-re-d-cherish.json) |
+| Re:D Cherish! | 356544 | [356544-re-d-cherish.json](./356544-re-d-cherish.json) |
 | Re:D Cherish! SS: Desperado's One Operation | 370696 | [370696-re-d-cherish-ss-desperados-one-operation.json](./370696-re-d-cherish-ss-desperados-one-operation.json) |
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
 | Re:D Cherish!: Eternity Blood | 370695 | [370695-re-d-cherish-eternity-blood.json](./370695-re-d-cherish-eternity-blood.json) |
@@ -4706,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Confidential Report | 251364 | [251364-resident-evil-confidential-report.json](./251364-resident-evil-confidential-report.json) |
 | Resident Evil: Dead Aim | 971 | [971-resident-evil-dead-aim.json](./971-resident-evil-dead-aim.json) |
 | Resident Evil: Deadly Silence | 20456 | [20456-resident-evil-deadly-silence.json](./20456-resident-evil-deadly-silence.json) |
+| Resident Evil: Deep Freeze | 356555 | [356555-resident-evil-deep-freeze.json](./356555-resident-evil-deep-freeze.json) |
 | Resident Evil: Degeneration | 25817 | [25817-resident-evil-degeneration.json](./25817-resident-evil-degeneration.json) |
 | Resident Evil: Deluxe Origins Bundle | 82423 | [82423-resident-evil-deluxe-origins-bundle.json](./82423-resident-evil-deluxe-origins-bundle.json) |
 | Resident Evil: Director's Cut | 23377 | [23377-resident-evil-directors-cut.json](./23377-resident-evil-directors-cut.json) |
@@ -9866,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Bird | 404862 | [404862-rubber-bird.json](./404862-rubber-bird.json) |
 | Rubber Brawl | 219644 | [219644-rubber-brawl.json](./219644-rubber-brawl.json) |
 | Rubber Dinghy | 101733 | [101733-rubber-dinghy.json](./101733-rubber-dinghy.json) |
+| Rubber Duck Race Simulator | 356535 | [356535-rubber-duck-race-simulator.json](./356535-rubber-duck-race-simulator.json) |
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
