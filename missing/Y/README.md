@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoiyami Dreamer: Voice of the Dreambringer | 69353 | [69353-yoiyami-dreamer-voice-of-the-dreambringer.json](./69353-yoiyami-dreamer-voice-of-the-dreambringer.json) |
 | Yoiyo Mori no Hime | 293326 | [293326-yoiyo-mori-no-hime.json](./293326-yoiyo-mori-no-hime.json) |
 | Yojimbrawl | 87819 | [87819-yojimbrawl.json](./87819-yojimbrawl.json) |
+| Yokai Art 2: Tales of the Nine-Tails | 345808 | [345808-yokai-art-2-tales-of-the-nine-tails.json](./345808-yokai-art-2-tales-of-the-nine-tails.json) |
 | Yokai Art: Night Parade of One Hundred Demons | 195726 | [195726-yokai-art-night-parade-of-one-hundred-demons.json](./195726-yokai-art-night-parade-of-one-hundred-demons.json) |
 | Yokai Art: Survival | 254036 | [254036-yokai-art-survival.json](./254036-yokai-art-survival.json) |
 | Yokai Buster: Ruka no Daibouken | 38190 | [38190-yokai-buster-ruka-no-daibouken.json](./38190-yokai-buster-ruka-no-daibouken.json) |
