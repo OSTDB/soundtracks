@@ -5994,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingo Puzzle Poker | 51167 | [51167-pingo-puzzle-poker.json](./51167-pingo-puzzle-poker.json) |
 | Pingo's Revenge | 197076 | [197076-pingos-revenge.json](./197076-pingos-revenge.json) |
 | Pingolf | 318601 | [318601-pingolf.json](./318601-pingolf.json) |
+| Pingorile | 382851 | [382851-pingorile.json](./382851-pingorile.json) |
 | Pingpon | 243174 | [243174-pingpon.json](./243174-pingpon.json) |
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
 | Pingu and Friends | 130803 | [130803-pingu-and-friends.json](./130803-pingu-and-friends.json) |
