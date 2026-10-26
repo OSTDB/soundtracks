@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Hours to Refund | 382985 | [382985-2-hours-to-refund.json](./382985-2-hours-to-refund.json) |
 | 2 in 1 Collection: Culture of Asia + The Mystery of Pirates Treasure | 93970 | [93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json](./93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json) |
 | 2 in 1 Combo Pack: Sonic Heroes/Super Monkey Ball Deluxe | 233976 | [233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json](./233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json) |
+| 2 in 1 Crazy Bundle | 357724 | [357724-2-in-1-crazy-bundle.json](./357724-2-in-1-crazy-bundle.json) |
 | 2 in 1 Game Pack: DreamWorks' Shark Tale + Shrek 2 | 79558 | [79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json](./79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json) |
 | 2 in 1 Hidden Object Worlds | 366272 | [366272-2-in-1-hidden-object-worlds.json](./366272-2-in-1-hidden-object-worlds.json) |
 | 2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL | 82102 | [82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json](./82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MiniGolf | 147887 | [147887-3d-minigolf.json](./147887-3d-minigolf.json) |
 | 3D MiniGolf Remastered | 187270 | [187270-3d-minigolf-remastered.json](./187270-3d-minigolf-remastered.json) |
 | 3D MiniGolf: Makeover-Edition | 327436 | [327436-3d-minigolf-makeover-edition.json](./327436-3d-minigolf-makeover-edition.json) |
+| 3D Modern Tower | 357832 | [357832-3d-modern-tower.json](./357832-3d-modern-tower.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
