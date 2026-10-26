@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Animals Mini Golf | 226328 | [226328-happy-animals-mini-golf.json](./226328-happy-animals-mini-golf.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Architect | 95295 | [95295-happy-architect.json](./95295-happy-architect.json) |
+| Happy Ball | 345938 | [345938-happy-ball.json](./345938-happy-ball.json) |
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
 | Happy Bang Express | 252707 | [252707-happy-bang-express.json](./252707-happy-bang-express.json) |
@@ -2084,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Free Heroes: Agents of Aggro City | 171510 | [171510-hate-free-heroes-agents-of-aggro-city.json](./171510-hate-free-heroes-agents-of-aggro-city.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Hate You | 346394 | [346394-hate-you.json](./346394-hate-you.json) |
+| Hate.net | 346496 | [346496-hate-net.json](./346496-hate-net.json) |
 | Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
 | Hatena Satena | 6431 | [6431-hatena-satena.json](./6431-hatena-satena.json) |
 | Haters | 149263 | [149263-haters.json](./149263-haters.json) |
@@ -2424,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawaiian Explorer: Lost Island | 53172 | [53172-hawaiian-explorer-lost-island.json](./53172-hawaiian-explorer-lost-island.json) |
 | Hawaiian Explorer: Pearl Harbor | 53171 | [53171-hawaiian-explorer-pearl-harbor.json](./53171-hawaiian-explorer-pearl-harbor.json) |
 | Hawaiian Solitaire | 386142 | [386142-hawaiian-solitaire.json](./386142-hawaiian-solitaire.json) |
+| Hawk | 345941 | [345941-hawk.json](./345941-hawk.json) |
 | Hawk and Puma | 307423 | [307423-hawk-and-puma.json](./307423-hawk-and-puma.json) |
 | Hawk F-123 | 128362 | [128362-hawk-f-123.json](./128362-hawk-f-123.json) |
 | Hawk Kawasaki Racing | 146546 | [146546-hawk-kawasaki-racing.json](./146546-hawk-kawasaki-racing.json) |
@@ -4813,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hero | 313746 | [313746-hero.json](./313746-hero.json) |
+| Hero | 345952 | [345952-hero.json](./345952-hero.json) |
 | Hero | 379936 | [379936-hero.json](./379936-hero.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
 | Hero 2048 | 365606 | [365606-hero-2048.json](./365606-hero-2048.json) |
@@ -8035,6 +8039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor of Heirs | 193876 | [193876-honor-of-heirs.json](./193876-honor-of-heirs.json) |
 | Honor of Kings: World | 180147 | [180147-honor-of-kings-world.json](./180147-honor-of-kings-world.json) |
 | Honor of Knight King | 174109 | [174109-honor-of-knight-king.json](./174109-honor-of-knight-king.json) |
+| Honorless! | 346488 | [346488-honorless.json](./346488-honorless.json) |
 | Honour & Freedom II | 283085 | [283085-honour-and-freedom-ii.json](./283085-honour-and-freedom-ii.json) |
 | Honour & Freedom II Power Enhanced Edition | 283088 | [283088-honour-and-freedom-ii-power-enhanced-edition.json](./283088-honour-and-freedom-ii-power-enhanced-edition.json) |
 | Honour Runs | 159554 | [159554-honour-runs.json](./159554-honour-runs.json) |
