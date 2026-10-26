@@ -5924,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goomba's Easter Egg Hunt | 135221 | [135221-goombas-easter-egg-hunt.json](./135221-goombas-easter-egg-hunt.json) |
 | GoombaGotchi | 318523 | [318523-goombagotchi.json](./318523-goombagotchi.json) |
 | Goombario and the Adventure of the Hot Lava Rocks | 328623 | [328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json](./328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json) |
+| Gooms: A Physics Puzzle | 358048 | [358048-gooms-a-physics-puzzle.json](./358048-gooms-a-physics-puzzle.json) |
 | Goon Company | 400695 | [400695-goon-company.json](./400695-goon-company.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonect | 207212 | [207212-goonect.json](./207212-goonect.json) |
