@@ -1790,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
 | Harrowed Halls: Lakeview Lane | 139198 | [139198-harrowed-halls-lakeview-lane.json](./139198-harrowed-halls-lakeview-lane.json) |
 | Harrowed Halls: Lakeview Lane - Collector's Edition | 126282 | [126282-harrowed-halls-lakeview-lane-collectors-edition.json](./126282-harrowed-halls-lakeview-lane-collectors-edition.json) |
+| Harrowed World: Dracula Fallen | 362870 | [362870-harrowed-world-dracula-fallen.json](./362870-harrowed-world-dracula-fallen.json) |
 | Harrowed World: Portents In Red | 264020 | [264020-harrowed-world-portents-in-red.json](./264020-harrowed-world-portents-in-red.json) |
 | Harrowed World: What's Past Is Portents | 297924 | [297924-harrowed-world-whats-past-is-portents.json](./297924-harrowed-world-whats-past-is-portents.json) |
 | Harrowing Gate: Ghost Dimension | 199104 | [199104-harrowing-gate-ghost-dimension.json](./199104-harrowing-gate-ghost-dimension.json) |
