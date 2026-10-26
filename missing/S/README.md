@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage | 181242 | [181242-salvage.json](./181242-salvage.json) |
 | Salvage | 377349 | [377349-salvage.json](./377349-salvage.json) |
 | Salvage Crew | 206634 | [206634-salvage-crew.json](./206634-salvage-crew.json) |
+| Salvage Protocol | 342544 | [342544-salvage-protocol.json](./342544-salvage-protocol.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
 | Salvage Title | 308464 | [308464-salvage-title.json](./308464-salvage-title.json) |
 | Salvage Unlimited | 391302 | [391302-salvage-unlimited.json](./391302-salvage-unlimited.json) |
@@ -5823,6 +5824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowless | 351081 | [351081-shadowless.json](./351081-shadowless.json) |
 | ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
 | Shadowlings | 103463 | [103463-shadowlings.json](./103463-shadowlings.json) |
+| Shadowmont: RPG Community Bot | 342553 | [342553-shadowmont-rpg-community-bot.json](./342553-shadowmont-rpg-community-bot.json) |
 | Shadownest | 158199 | [158199-shadownest.json](./158199-shadownest.json) |
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
 | Shadoworlds | 84205 | [84205-shadoworlds.json](./84205-shadoworlds.json) |
@@ -6247,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
 | Shards of Chaos | 187729 | [187729-shards-of-chaos.json](./187729-shards-of-chaos.json) |
+| Shards of Dread | 342526 | [342526-shards-of-dread.json](./342526-shards-of-dread.json) |
 | Shards of Epoch Past | 301697 | [301697-shards-of-epoch-past.json](./301697-shards-of-epoch-past.json) |
 | Shards of Eradine | 88065 | [88065-shards-of-eradine.json](./88065-shards-of-eradine.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
@@ -6760,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shichi-nin no Online Gamers Offline | 78095 | [78095-shichi-nin-no-online-gamers-offline.json](./78095-shichi-nin-no-online-gamers-offline.json) |
 | Shichisei Tantei Club: Koganemushi-tachi no Kisou | 226111 | [226111-shichisei-tantei-club-koganemushi-tachi-no-kisou.json](./226111-shichisei-tantei-club-koganemushi-tachi-no-kisou.json) |
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
+| Shichiya Shrine | 342535 | [342535-shichiya-shrine.json](./342535-shichiya-shrine.json) |
 | Shichu Suimei Pitagraph | 222821 | [222821-shichu-suimei-pitagraph.json](./222821-shichu-suimei-pitagraph.json) |
 | Shiei no Sona-Nyl Refrain: What a Beautiful Memories | 268861 | [268861-shiei-no-sona-nyl-refrain-what-a-beautiful-memories.json](./268861-shiei-no-sona-nyl-refrain-what-a-beautiful-memories.json) |
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
@@ -10752,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyrift | 122107 | [122107-skyrift.json](./122107-skyrift.json) |
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
+| Skyrim Anniversary Edition + Fallout 4 G.O.T.Y. Bundle | 342531 | [342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json](./342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
 | Skyrush | 176725 | [176725-skyrush.json](./176725-skyrush.json) |
 | SkySavior Helicopter Services | 385656 | [385656-skysavior-helicopter-services.json](./385656-skysavior-helicopter-services.json) |
@@ -11058,6 +11063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | sleep_mode | 384331 | [384331-sleep-mode.json](./384331-sleep-mode.json) |
 | Sleep: H Now | 264072 | [264072-sleep-h-now.json](./264072-sleep-h-now.json) |
 | Sleeper Cell | 139369 | [139369-sleeper-cell.json](./139369-sleeper-cell.json) |
+| Sleeper S9 | 342529 | [342529-sleeper-s9.json](./342529-sleeper-s9.json) |
 | Sleepfall | 175280 | [175280-sleepfall.json](./175280-sleepfall.json) |
 | Sleepi Boi Can't Sleep | 206723 | [206723-sleepi-boi-cant-sleep.json](./206723-sleepi-boi-cant-sleep.json) |
 | Sleepin' Guy: Deluxe Edition | 188043 | [188043-sleepin-guy-deluxe-edition.json](./188043-sleepin-guy-deluxe-edition.json) |
@@ -15745,6 +15751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundless Mound | 262310 | [262310-soundless-mound.json](./262310-soundless-mound.json) |
 | Soundless: A Modern Salem in Remote Area | 144167 | [144167-soundless-a-modern-salem-in-remote-area.json](./144167-soundless-a-modern-salem-in-remote-area.json) |
 | Soundless: Final Verse | 282694 | [282694-soundless-final-verse.json](./282694-soundless-final-verse.json) |
+| SoundlessNightmare | 342541 | [342541-soundlessnightmare.json](./342541-soundlessnightmare.json) |
 | SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
 | Soundodger 2 | 140864 | [140864-soundodger-2.json](./140864-soundodger-2.json) |
 | Soundodger+ | 14408 | [14408-soundodger.json](./14408-soundodger.json) |
@@ -21444,6 +21451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvault | 341684 | [341684-starvault.json](./341684-starvault.json) |
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
+| Starverse: Requiem Aeternam Eden | 342543 | [342543-starverse-requiem-aeternam-eden.json](./342543-starverse-requiem-aeternam-eden.json) |
 | Starving | 28754 | [28754-starving.json](./28754-starving.json) |
 | Starving Gods | 401928 | [401928-starving-gods.json](./401928-starving-gods.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
@@ -22534,6 +22542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Stars Echo | 369703 | [369703-still-stars-echo.json](./369703-still-stars-echo.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
+| Still Waters | 342913 | [342913-still-waters.json](./342913-still-waters.json) |
 | StillAsleep | 405745 | [405745-stillasleep.json](./405745-stillasleep.json) |
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
