@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captains of the Wacky Waters | 146045 | [146045-captains-of-the-wacky-waters.json](./146045-captains-of-the-wacky-waters.json) |
 | CAPTCHA Hell | 394401 | [394401-captcha-hell.json](./394401-captcha-hell.json) |
 | Captcha Overload | 411493 | [411493-captcha-overload.json](./411493-captcha-overload.json) |
+| Captcha The Flag | 383453 | [383453-captcha-the-flag.json](./383453-captcha-the-flag.json) |
 | CAPTCHA.Exe | 406540 | [406540-captcha-exe.json](./406540-captcha-exe.json) |
 | CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
@@ -7473,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen of Rome - Dynasty Ascendant | 116958 | [116958-citizen-of-rome-dynasty-ascendant.json](./116958-citizen-of-rome-dynasty-ascendant.json) |
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
 | Citizen Siege | 72778 | [72778-citizen-siege.json](./72778-citizen-siege.json) |
+| Citizen Sleeper 2: Starward Vector - Deluxe Edition | 383422 | [383422-citizen-sleeper-2-starward-vector-deluxe-edition.json](./383422-citizen-sleeper-2-starward-vector-deluxe-edition.json) |
 | Citizen Sleeper: Deluxe Edition | 200501 | [200501-citizen-sleeper-deluxe-edition.json](./200501-citizen-sleeper-deluxe-edition.json) |
 | Citizen Sleeper: Episode - Flux | 210738 | [210738-citizen-sleeper-episode-flux.json](./210738-citizen-sleeper-episode-flux.json) |
 | Citizen Sleeper: Episode - Refuge | 223060 | [223060-citizen-sleeper-episode-refuge.json](./223060-citizen-sleeper-episode-refuge.json) |
@@ -8793,6 +8795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
 | Clowned Pro | 276060 | [276060-clowned-pro.json](./276060-clowned-pro.json) |
 | Clownfield 2042 | 186132 | [186132-clownfield-2042.json](./186132-clownfield-2042.json) |
+| Clownfield 6 | 383451 | [383451-clownfield-6.json](./383451-clownfield-6.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
@@ -9096,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 338681 | [338681-coda.json](./338681-coda.json) |
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
+| Coda | 383424 | [383424-coda.json](./383424-coda.json) |
 | Coddle Pets: Dragon Garden | 159022 | [159022-coddle-pets-dragon-garden.json](./159022-coddle-pets-dragon-garden.json) |
 | Code 3: Police Response | 149713 | [149713-code-3-police-response.json](./149713-code-3-police-response.json) |
 | Code 51: Mecha Arena | 99297 | [99297-code-51-mecha-arena.json](./99297-code-51-mecha-arena.json) |
@@ -11508,6 +11512,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
 | Contractors VR | 111625 | [111625-contractors-vr.json](./111625-contractors-vr.json) |
 | ContractVille | 285577 | [285577-contractville.json](./285577-contractville.json) |
+| ContractVille: Japanese Furniture Pack | 383464 | [383464-contractville-japanese-furniture-pack.json](./383464-contractville-japanese-furniture-pack.json) |
+| ContractVille: Medieval Furniture Pack | 383465 | [383465-contractville-medieval-furniture-pack.json](./383465-contractville-medieval-furniture-pack.json) |
+| ContractVille: Sci-Fi Furniture Pack | 383463 | [383463-contractville-sci-fi-furniture-pack.json](./383463-contractville-sci-fi-furniture-pack.json) |
 | Contradiction | 232320 | [232320-contradiction.json](./232320-contradiction.json) |
 | Contradiction | 76229 | [76229-contradiction.json](./76229-contradiction.json) |
 | Contradiction 8Bit | 164767 | [164767-contradiction-8bit.json](./164767-contradiction-8bit.json) |
