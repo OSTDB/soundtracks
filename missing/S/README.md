@@ -18660,6 +18660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sponge Pop | 243824 | [243824-sponge-pop.json](./243824-sponge-pop.json) |
 | Spongebob & Patrick: Dirty Bubble Busters | 338942 | [338942-spongebob-and-patrick-dirty-bubble-busters.json](./338942-spongebob-and-patrick-dirty-bubble-busters.json) |
 | SpongeBob Adventures: In A Jam | 300331 | [300331-spongebob-adventures-in-a-jam.json](./300331-spongebob-adventures-in-a-jam.json) |
+| SpongeBob and the Balls | 343175 | [343175-spongebob-and-the-balls.json](./343175-spongebob-and-the-balls.json) |
 | SpongeBob and the Pit of 100 Trials | 341664 | [341664-spongebob-and-the-pit-of-100-trials.json](./341664-spongebob-and-the-pit-of-100-trials.json) |
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | Spongebob Boat-O-Cross | 235316 | [235316-spongebob-boat-o-cross.json](./235316-spongebob-boat-o-cross.json) |
@@ -18692,6 +18693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Obstacle Odyssey 2: Time Trouble | 165459 | [165459-spongebob-squarepants-obstacle-odyssey-2-time-trouble.json](./165459-spongebob-squarepants-obstacle-odyssey-2-time-trouble.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Slider | 382845 | [382845-spongebob-squarepants-slider.json](./382845-spongebob-squarepants-slider.json) |
+| SpongeBob SquarePants Street Crime | 343173 | [343173-spongebob-squarepants-street-crime.json](./343173-spongebob-squarepants-street-crime.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants Typing | 46444 | [46444-spongebob-squarepants-typing.json](./46444-spongebob-squarepants-typing.json) |
 | Spongebob Squarepants x One Piece | 414109 | [414109-spongebob-squarepants-x-one-piece.json](./414109-spongebob-squarepants-x-one-piece.json) |
@@ -18756,6 +18758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Underpants Slam | 2775 | [2775-spongebob-squarepants-underpants-slam.json](./2775-spongebob-squarepants-underpants-slam.json) |
 | SpongeBob SquigglePants | 5184 | [5184-spongebob-squigglepants.json](./5184-spongebob-squigglepants.json) |
 | SpongeBob SquigglePants 3D | 21719 | [21719-spongebob-squigglepants-3d.json](./21719-spongebob-squigglepants-3d.json) |
+| SpongeBob vs. EvilBob | 343172 | [343172-spongebob-vs-evilbob.json](./343172-spongebob-vs-evilbob.json) |
 | SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
@@ -25940,6 +25943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
 | Super DynoStory | 215025 | [215025-super-dynostory.json](./215025-super-dynostory.json) |
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
+| Super Easy Fun Time Adventure Pants | 343170 | [343170-super-easy-fun-time-adventure-pants.json](./343170-super-easy-fun-time-adventure-pants.json) |
 | Super Egg 2020 | 193123 | [193123-super-egg-2020.json](./193123-super-egg-2020.json) |
 | Super Elastic | 276164 | [276164-super-elastic.json](./276164-super-elastic.json) |
 | Super Elf Jump | 93818 | [93818-super-elf-jump.json](./93818-super-elf-jump.json) |
@@ -29544,6 +29548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
 | Swipe Quest | 53695 | [53695-swipe-quest.json](./53695-swipe-quest.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
+| Swipe Stream | 343195 | [343195-swipe-stream.json](./343195-swipe-stream.json) |
 | Swipe Tennis | 243508 | [243508-swipe-tennis.json](./243508-swipe-tennis.json) |
 | Swipe That | 232326 | [232326-swipe-that.json](./232326-swipe-that.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
