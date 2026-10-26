@@ -3446,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Forgot to Eat | 415507 | [415507-just-forgot-to-eat.json](./415507-just-forgot-to-eat.json) |
 | Just Freeskiing | 86985 | [86985-just-freeskiing.json](./86985-just-freeskiing.json) |
 | Just Futanari | 236899 | [236899-just-futanari.json](./236899-just-futanari.json) |
+| Just Futanari 2 | 365646 | [365646-just-futanari-2.json](./365646-just-futanari-2.json) |
 | Just Get 2048: A Simple Puzzle Game! | 264218 | [264218-just-get-2048-a-simple-puzzle-game.json](./264218-just-get-2048-a-simple-puzzle-game.json) |
 | Just Get In Through the Door | 158677 | [158677-just-get-in-through-the-door.json](./158677-just-get-in-through-the-door.json) |
 | Just Get There | 291747 | [291747-just-get-there.json](./291747-just-get-there.json) |
