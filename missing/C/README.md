@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Dealer Garage Simulator 2026 | 393297 | [393297-car-dealer-garage-simulator-2026.json](./393297-car-dealer-garage-simulator-2026.json) |
 | Car Dealership Business Simulator | 336414 | [336414-car-dealership-business-simulator.json](./336414-car-dealership-business-simulator.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
+| Car Dealership Simulator 2 | 348687 | [348687-car-dealership-simulator-2.json](./348687-car-dealership-simulator-2.json) |
 | Car Demolition Clicker | 74140 | [74140-car-demolition-clicker.json](./74140-car-demolition-clicker.json) |
 | Car Destroyer | 203888 | [203888-car-destroyer.json](./203888-car-destroyer.json) |
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
@@ -5159,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Dead | 21676 | [21676-chasing-dead.json](./21676-chasing-dead.json) |
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Halo | 207684 | [207684-chasing-halo.json](./207684-chasing-halo.json) |
+| Chasing Her Light | 348701 | [348701-chasing-her-light.json](./348701-chasing-her-light.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Light | 132582 | [132582-chasing-light.json](./132582-chasing-light.json) |
 | Chasing Nebula | 120705 | [120705-chasing-nebula.json](./120705-chasing-nebula.json) |
@@ -6803,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma | 338521 | [338521-chroma.json](./338521-chroma.json) |
 | Chroma | 5588 | [5588-chroma.json](./5588-chroma.json) |
 | Chroma Blast | 43498 | [43498-chroma-blast.json](./43498-chroma-blast.json) |
+| Chroma Blasters | 348725 | [348725-chroma-blasters.json](./348725-chroma-blasters.json) |
 | Chroma Cannon | 136245 | [136245-chroma-cannon.json](./136245-chroma-cannon.json) |
 | Chroma Chronicles | 194450 | [194450-chroma-chronicles.json](./194450-chroma-chronicles.json) |
 | Chroma Circuit | 223509 | [223509-chroma-circuit.json](./223509-chroma-circuit.json) |
@@ -7768,6 +7771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Stunt Driver | 186575 | [186575-city-stunt-driver.json](./186575-city-stunt-driver.json) |
 | City Super Battlefield | 289781 | [289781-city-super-battlefield.json](./289781-city-super-battlefield.json) |
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
+| City Supermarket Simulator | 348692 | [348692-city-supermarket-simulator.json](./348692-city-supermarket-simulator.json) |
 | City Survival Project | 130842 | [130842-city-survival-project.json](./130842-city-survival-project.json) |
 | City Takeover | 309048 | [309048-city-takeover.json](./309048-city-takeover.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
@@ -9975,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Summoners | 297096 | [297096-color-summoners.json](./297096-color-summoners.json) |
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
+| Color Switch | 348722 | [348722-color-switch.json](./348722-color-switch.json) |
 | Color Switch - Jump and Switch | 98890 | [98890-color-switch-jump-and-switch.json](./98890-color-switch-jump-and-switch.json) |
 | Color Switch Trivia | 89751 | [89751-color-switch-trivia.json](./89751-color-switch-trivia.json) |
 | Color Symphony | 17725 | [17725-color-symphony.json](./17725-color-symphony.json) |
@@ -11590,6 +11595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continuum | 304566 | [304566-continuum.json](./304566-continuum.json) |
 | Continuum | 79710 | [79710-continuum.json](./79710-continuum.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
+| Continuum Keeper | 348689 | [348689-continuum-keeper.json](./348689-continuum-keeper.json) |
 | ContiTireRace 2: The Continental Racing Game | 261351 | [261351-contitirerace-2-the-continental-racing-game.json](./261351-contitirerace-2-the-continental-racing-game.json) |
 | Contorted | 274578 | [274578-contorted.json](./274578-contorted.json) |
 | Contra | 186207 | [186207-contra.json](./186207-contra.json) |
