@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Manager | 297862 | [297862-cafe-manager.json](./297862-cafe-manager.json) |
 | Café Mania | 262209 | [262209-cafe-mania.json](./262209-cafe-mania.json) |
 | Cafe Master Story | 256146 | [256146-cafe-master-story.json](./256146-cafe-master-story.json) |
+| Cafe Nocturn | 353754 | [353754-cafe-nocturn.json](./353754-cafe-nocturn.json) |
 | Cafe of Roses | 379716 | [379716-cafe-of-roses.json](./379716-cafe-of-roses.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
@@ -13793,6 +13794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
 | Crazy Corn | 314362 | [314362-crazy-corn.json](./314362-crazy-corn.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
+| Crazy Crab | 353932 | [353932-crazy-crab.json](./353932-crazy-crab.json) |
 | Crazy Crab 2 | 354088 | [354088-crazy-crab-2.json](./354088-crazy-crab-2.json) |
 | Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
 | Crazy Crows | 385539 | [385539-crazy-crows.json](./385539-crazy-crows.json) |
