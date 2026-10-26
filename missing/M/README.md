@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maintenance | 179465 | [179465-maintenance.json](./179465-maintenance.json) |
 | Maintenance Crew | 295331 | [295331-maintenance-crew.json](./295331-maintenance-crew.json) |
+| Maintenance on the Front | 362248 | [362248-maintenance-on-the-front.json](./362248-maintenance-on-the-front.json) |
 | Mainu | 344696 | [344696-mainu.json](./344696-mainu.json) |
 | Mais um Dia! | 278610 | [278610-mais-um-dia.json](./278610-mais-um-dia.json) |
 | Maison de Kyouko: Kanrinin no Himitsu | 83370 | [83370-maison-de-kyouko-kanrinin-no-himitsu.json](./83370-maison-de-kyouko-kanrinin-no-himitsu.json) |
@@ -5537,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Assembler: Model Kit Builder Simulator | 346632 | [346632-mech-assembler-model-kit-builder-simulator.json](./346632-mech-assembler-model-kit-builder-simulator.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
+| Mech Delivery Mayhem | 362247 | [362247-mech-delivery-mayhem.json](./362247-mech-delivery-mayhem.json) |
 | Mech Explorer | 326680 | [326680-mech-explorer.json](./326680-mech-explorer.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
 | Mech Fortress | 360058 | [360058-mech-fortress.json](./360058-mech-fortress.json) |
@@ -5606,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechabellum | 240897 | [240897-mechabellum.json](./240897-mechabellum.json) |
 | MechaBlade Hero | 307039 | [307039-mechablade-hero.json](./307039-mechablade-hero.json) |
 | MechaBlight | 390625 | [390625-mechablight.json](./390625-mechablight.json) |
+| Mechaccountant | 362235 | [362235-mechaccountant.json](./362235-mechaccountant.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechaconda | 348593 | [348593-mechaconda.json](./348593-mechaconda.json) |
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
@@ -6133,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Deal Card | 390276 | [390276-mega-deal-card.json](./390276-mega-deal-card.json) |
 | Mega Demon Blaster | 207379 | [207379-mega-demon-blaster.json](./207379-mega-demon-blaster.json) |
 | Mega Dimension Ripper 9000 | 384711 | [384711-mega-dimension-ripper-9000.json](./384711-mega-dimension-ripper-9000.json) |
+| Mega Drill: World Domination | 362241 | [362241-mega-drill-world-domination.json](./362241-mega-drill-world-domination.json) |
 | Mega Drive | 305267 | [305267-mega-drive.json](./305267-mega-drive.json) |
 | Mega Drive 3 | 230810 | [230810-mega-drive-3.json](./230810-mega-drive-3.json) |
 | Mega Drive 3 | 230834 | [230834-mega-drive-3.json](./230834-mega-drive-3.json) |
@@ -8819,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
 | Microball | 94617 | [94617-microball.json](./94617-microball.json) |
+| Microban | 362234 | [362234-microban.json](./362234-microban.json) |
 | Microbes | 44347 | [44347-microbes.json](./44347-microbes.json) |
 | Microbes and Machines | 213244 | [213244-microbes-and-machines.json](./213244-microbes-and-machines.json) |
 | Microbial Mayhem | 268989 | [268989-microbial-mayhem.json](./268989-microbial-mayhem.json) |
@@ -9113,6 +9118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Solitaire | 242378 | [242378-microsoft-solitaire.json](./242378-microsoft-solitaire.json) |
 | Microsoft Solitaire | 8177 | [8177-microsoft-solitaire.json](./8177-microsoft-solitaire.json) |
 | Microsoft Space Simulator | 50116 | [50116-microsoft-space-simulator.json](./50116-microsoft-space-simulator.json) |
+| Microsoft Spider Solitaire | 362165 | [362165-microsoft-spider-solitaire.json](./362165-microsoft-spider-solitaire.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
 | Microsoft Sudoku | 60285 | [60285-microsoft-sudoku.json](./60285-microsoft-sudoku.json) |
 | Microsoft Train Simulator 2 | 10739 | [10739-microsoft-train-simulator-2.json](./10739-microsoft-train-simulator-2.json) |
@@ -14401,6 +14407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
 | Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
 | Mortal Manor | 81888 | [81888-mortal-manor.json](./81888-mortal-manor.json) |
+| Mortal Mechanism | 362225 | [362225-mortal-mechanism.json](./362225-mortal-mechanism.json) |
 | Mortal Mythos: Island of Fairies | 386553 | [386553-mortal-mythos-island-of-fairies.json](./386553-mortal-mythos-island-of-fairies.json) |
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
 | Mortal Quest | 333130 | [333130-mortal-quest.json](./333130-mortal-quest.json) |
