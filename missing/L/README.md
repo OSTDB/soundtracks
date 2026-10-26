@@ -7185,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love And Death | 414568 | [414568-love-and-death.json](./414568-love-and-death.json) |
 | Love and Demons | 252074 | [252074-love-and-demons.json](./252074-love-and-demons.json) |
 | Love and Demons | 293846 | [293846-love-and-demons.json](./293846-love-and-demons.json) |
+| Love and Fear | 338094 | [338094-love-and-fear.json](./338094-love-and-fear.json) |
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
 | Love and Guillotines | 195629 | [195629-love-and-guillotines.json](./195629-love-and-guillotines.json) |
 | Love and Hate | 393776 | [393776-love-and-hate.json](./393776-love-and-hate.json) |
@@ -8280,6 +8281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar's Chosen: Episode 2 | 277748 | [277748-lunars-chosen-episode-2.json](./277748-lunars-chosen-episode-2.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
+| Lunaria Fantasia | 338101 | [338101-lunaria-fantasia.json](./338101-lunaria-fantasia.json) |
 | Lunaris | 353947 | [353947-lunaris.json](./353947-lunaris.json) |
 | Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
