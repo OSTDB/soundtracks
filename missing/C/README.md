@@ -11727,6 +11727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Shift | 176224 | [176224-control-shift.json](./176224-control-shift.json) |
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
 | Control the Body | 287303 | [287303-control-the-body.json](./287303-control-the-body.json) |
+| Control Yourself | 338138 | [338138-control-yourself.json](./338138-control-yourself.json) |
 | Control: AWE | 122313 | [122313-control-awe.json](./122313-control-awe.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Control: The Foundation | 122312 | [122312-control-the-foundation.json](./122312-control-the-foundation.json) |
