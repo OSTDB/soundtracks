@@ -2938,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lern Island Letters | 322768 | [322768-lern-island-letters.json](./322768-lern-island-letters.json) |
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
 | Lerry the Cube | 102117 | [102117-lerry-the-cube.json](./102117-lerry-the-cube.json) |
+| Les Aventures de Pepito au Mexique | 342556 | [342556-les-aventures-de-pepito-au-mexique.json](./342556-les-aventures-de-pepito-au-mexique.json) |
 | Les aventures de T'choupi a l'ecole | 269653 | [269653-les-aventures-de-tchoupi-a-lecole.json](./269653-les-aventures-de-tchoupi-a-lecole.json) |
 | Les Cartes Poker | 415968 | [415968-les-cartes-poker.json](./415968-les-cartes-poker.json) |
 | Les Chevaliers de l'An Mil | 356870 | [356870-les-chevaliers-de-lan-mil.json](./356870-les-chevaliers-de-lan-mil.json) |
@@ -7057,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lostgamer | 231504 | [231504-lostgamer.json](./231504-lostgamer.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | LostMagic | 20522 | [20522-lostmagic.json](./20522-lostmagic.json) |
+| LostTicket | 342910 | [342910-lostticket.json](./342910-lostticket.json) |
 | LostWinds | 21486 | [21486-lostwinds.json](./21486-lostwinds.json) |
 | LostX Dungeon | 112213 | [112213-lostx-dungeon.json](./112213-lostx-dungeon.json) |
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
