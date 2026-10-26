@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacon: The Game | 56986 | [56986-bacon-the-game.json](./56986-bacon-the-game.json) |
 | BaconBaconBacon | 58296 | [58296-baconbaconbacon.json](./58296-baconbaconbacon.json) |
 | BaconX | 330862 | [330862-baconx.json](./330862-baconx.json) |
+| Bacrush | 347038 | [347038-bacrush.json](./347038-bacrush.json) |
 | Bacta 2: The Resurrection of Bacta | 66899 | [66899-bacta-2-the-resurrection-of-bacta.json](./66899-bacta-2-the-resurrection-of-bacta.json) |
 | Bacteria | 33386 | [33386-bacteria.json](./33386-bacteria.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
@@ -812,7 +813,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8010,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacktop Hoops | 196481 | [196481-blacktop-hoops.json](./196481-blacktop-hoops.json) |
 | Blacktop Hustle | 365741 | [365741-blacktop-hustle.json](./365741-blacktop-hustle.json) |
 | Blacktower | 403767 | [403767-blacktower.json](./403767-blacktower.json) |
+| BlackVein | 347057 | [347057-blackvein.json](./347057-blackvein.json) |
 | Blackwake | 14206 | [14206-blackwake.json](./14206-blackwake.json) |
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
@@ -12769,6 +12770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
 | Breaker | 134344 | [134344-breaker.json](./134344-breaker.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
+| Breaker Brick Smashing | 347040 | [347040-breaker-brick-smashing.json](./347040-breaker-brick-smashing.json) |
 | Breaker Hearts | 350917 | [350917-breaker-hearts.json](./350917-breaker-hearts.json) |
 | Breaker Initiating | 327033 | [327033-breaker-initiating.json](./327033-breaker-initiating.json) |
 | Breaker of Fatalism | 348739 | [348739-breaker-of-fatalism.json](./348739-breaker-of-fatalism.json) |
