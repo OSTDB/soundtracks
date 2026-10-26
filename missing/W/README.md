@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderfar | 158716 | [158716-wanderfar.json](./158716-wanderfar.json) |
 | Wanderful | 224617 | [224617-wanderful.json](./224617-wanderful.json) |
 | Wandering | 242077 | [242077-wandering.json](./242077-wandering.json) |
+| Wandering | 372432 | [372432-wandering.json](./372432-wandering.json) |
 | Wandering Cat | 288478 | [288478-wandering-cat.json](./288478-wandering-cat.json) |
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wandering Duelist | 215670 | [215670-wandering-duelist.json](./215670-wandering-duelist.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste Labs | 256704 | [256704-waste-labs.json](./256704-waste-labs.json) |
 | Waste Life 1 | 220532 | [220532-waste-life-1.json](./220532-waste-life-1.json) |
 | Waste recycling | 183368 | [183368-waste-recycling.json](./183368-waste-recycling.json) |
+| Waste Sorting | 372518 | [372518-waste-sorting.json](./372518-waste-sorting.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
 | Waste Time Lotto | 338391 | [338391-waste-time-lotto.json](./338391-waste-time-lotto.json) |
 | Waste Walkers Deliverance | 135106 | [135106-waste-walkers-deliverance.json](./135106-waste-walkers-deliverance.json) |
