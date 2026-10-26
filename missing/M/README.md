@@ -5134,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 351700 | [351700-maze.json](./351700-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
+| Maze | 379910 | [379910-maze.json](./379910-maze.json) |
 | Maze | 392949 | [392949-maze.json](./392949-maze.json) |
 | Maze | 399913 | [399913-maze.json](./399913-maze.json) |
 | Maze | 7430 | [7430-maze.json](./7430-maze.json) |
@@ -7848,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
 | Merry Clickmas | 23683 | [23683-merry-clickmas.json](./23683-merry-clickmas.json) |
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
+| Merry Crisis | 379855 | [379855-merry-crisis.json](./379855-merry-crisis.json) |
 | Merry Gear Solid: Secret Santa | 76129 | [76129-merry-gear-solid-secret-santa.json](./76129-merry-gear-solid-secret-santa.json) |
 | Merry Glade | 98698 | [98698-merry-glade.json](./98698-merry-glade.json) |
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
@@ -12474,6 +12476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monadi.sys | 410703 | [410703-monadi-sys.json](./410703-monadi-sys.json) |
 | Monads | 109428 | [109428-monads.json](./109428-monads.json) |
 | Monads II | 166842 | [166842-monads-ii.json](./166842-monads-ii.json) |
+| Monarch Cocoon | 379847 | [379847-monarch-cocoon.json](./379847-monarch-cocoon.json) |
 | Monarch of Greed - Act 1 | 75631 | [75631-monarch-of-greed-act-1.json](./75631-monarch-of-greed-act-1.json) |
 | Monarch: Medieval Remastered | 117134 | [117134-monarch-medieval-remastered.json](./117134-monarch-medieval-remastered.json) |
 | Monarch: The Butterfly King | 106734 | [106734-monarch-the-butterfly-king.json](./106734-monarch-the-butterfly-king.json) |
@@ -12732,6 +12735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monolith Bay | 154570 | [154570-monolith-bay.json](./154570-monolith-bay.json) |
 | Monolith O Pesadelo | 265202 | [265202-monolith-o-pesadelo.json](./265202-monolith-o-pesadelo.json) |
 | Monolith VR | 160155 | [160155-monolith-vr.json](./160155-monolith-vr.json) |
+| Monolith: Rogue TD | 379937 | [379937-monolith-rogue-td.json](./379937-monolith-rogue-td.json) |
 | Monolith: The Horror Comp | 280711 | [280711-monolith-the-horror-comp.json](./280711-monolith-the-horror-comp.json) |
 | Monolith's Dreamers | 343261 | [343261-monoliths-dreamers.json](./343261-monoliths-dreamers.json) |
 | Monolithic | 151269 | [151269-monolithic.json](./151269-monolithic.json) |
@@ -13904,6 +13908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooshie's Kitchen | 256980 | [256980-mooshies-kitchen.json](./256980-mooshies-kitchen.json) |
 | Mooshie's Kitchen 2 | 273983 | [273983-mooshies-kitchen-2.json](./273983-mooshies-kitchen-2.json) |
 | Mooshie's Kitchen 3 | 273984 | [273984-mooshies-kitchen-3.json](./273984-mooshies-kitchen-3.json) |
+| Mooshie's Kitchen: Reheated | 379852 | [379852-mooshies-kitchen-reheated.json](./379852-mooshies-kitchen-reheated.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
 | Mootation | 412016 | [412016-mootation.json](./412016-mootation.json) |
 | Mop of the Dead | 249876 | [249876-mop-of-the-dead.json](./249876-mop-of-the-dead.json) |
