@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
 | Last Patriot | 328972 | [328972-last-patriot.json](./328972-last-patriot.json) |
+| Last Patrol | 378226 | [378226-last-patrol.json](./378226-last-patrol.json) |
 | Last Pickup | 323430 | [323430-last-pickup.json](./323430-last-pickup.json) |
 | Last Pill Bar | 415880 | [415880-last-pill-bar.json](./415880-last-pill-bar.json) |
 | Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
