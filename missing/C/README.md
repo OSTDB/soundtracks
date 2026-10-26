@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamity Eliminator | 190418 | [190418-calamity-eliminator.json](./190418-calamity-eliminator.json) |
 | Calamity Mod: Calamity Overhaul | 395105 | [395105-calamity-mod-calamity-overhaul.json](./395105-calamity-mod-calamity-overhaul.json) |
 | Calamity Sanctuary | 219216 | [219216-calamity-sanctuary.json](./219216-calamity-sanctuary.json) |
+| Calamity: Wrath of the Gods | 365124 | [365124-calamity-wrath-of-the-gods.json](./365124-calamity-wrath-of-the-gods.json) |
 | Calangos e Coxinhas | 303721 | [303721-calangos-e-coxinhas.json](./303721-calangos-e-coxinhas.json) |
 | Calavera: Day of the Dead | 140306 | [140306-calavera-day-of-the-dead.json](./140306-calavera-day-of-the-dead.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
@@ -1823,6 +1824,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Car's Empire | 176218 | [176218-cars-empire.json](./176218-cars-empire.json) |
 | Cara Night | 46618 | [46618-cara-night.json](./46618-cara-night.json) |
+| Cara's Bouncy Castle | 365019 | [365019-caras-bouncy-castle.json](./365019-caras-bouncy-castle.json) |
+| Cara's Donkey Derby | 365020 | [365020-caras-donkey-derby.json](./365020-caras-donkey-derby.json) |
+| Cara's Dune Buggy Dash | 365021 | [365021-caras-dune-buggy-dash.json](./365021-caras-dune-buggy-dash.json) |
+| Cara's Magic Pocket | 365022 | [365022-caras-magic-pocket.json](./365022-caras-magic-pocket.json) |
+| Cara's Pocket Launcher | 365023 | [365023-caras-pocket-launcher.json](./365023-caras-pocket-launcher.json) |
 | Carachnophobia | 267861 | [267861-carachnophobia.json](./267861-carachnophobia.json) |
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
@@ -1955,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
 | Card Wizard | 381123 | [381123-card-wizard.json](./381123-card-wizard.json) |
+| Card World | 365048 | [365048-card-world.json](./365048-card-world.json) |
 | Card X Monster | 212747 | [212747-card-x-monster.json](./212747-card-x-monster.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
 | Card-en-Ciel: The World of the "Blaster Master Zero Series" | 391867 | [391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json](./391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json) |
@@ -16388,6 +16395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
 | Cursed House 13 | 289813 | [289813-cursed-house-13.json](./289813-cursed-house-13.json) |
 | Cursed House 14 | 337213 | [337213-cursed-house-14.json](./337213-cursed-house-14.json) |
+| Cursed House 15 | 365050 | [365050-cursed-house-15.json](./365050-cursed-house-15.json) |
 | Cursed House 16 | 407845 | [407845-cursed-house-16.json](./407845-cursed-house-16.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
 | Cursed House 6 | 419591 | [419591-cursed-house-6.json](./419591-cursed-house-6.json) |
