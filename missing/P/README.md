@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Panic | 125093 | [125093-parcel-panic.json](./125093-parcel-panic.json) |
 | Parcel Peaks | 391551 | [391551-parcel-peaks.json](./391551-parcel-peaks.json) |
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
+| Parcel Push | 378825 | [378825-parcel-push.json](./378825-parcel-push.json) |
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Parchisi | 209416 | [209416-parchisi.json](./209416-parchisi.json) |
@@ -10611,6 +10612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poptropica Legacy | 390160 | [390160-poptropica-legacy.json](./390160-poptropica-legacy.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Poptropica: Forgotten Islands | 85348 | [85348-poptropica-forgotten-islands.json](./85348-poptropica-forgotten-islands.json) |
+| Popucom Too Many Clothes Edition | 378860 | [378860-popucom-too-many-clothes-edition.json](./378860-popucom-too-many-clothes-edition.json) |
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
 | Popucom: Too Many Clothes Pack | 378875 | [378875-popucom-too-many-clothes-pack.json](./378875-popucom-too-many-clothes-pack.json) |
 | Population Control | 387497 | [387497-population-control.json](./387497-population-control.json) |
@@ -14625,6 +14627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Heart | 371443 | [371443-pure-heart.json](./371443-pure-heart.json) |
 | Pure Hearts | 329041 | [329041-pure-hearts.json](./329041-pure-hearts.json) |
 | Pure Hearts | 86912 | [86912-pure-hearts.json](./86912-pure-hearts.json) |
+| Pure Hentai: Dreams | 378820 | [378820-pure-hentai-dreams.json](./378820-pure-hentai-dreams.json) |
 | Pure Hentai: Gallery | 385082 | [385082-pure-hentai-gallery.json](./385082-pure-hentai-gallery.json) |
 | Pure Hentai: Moments | 385081 | [385081-pure-hentai-moments.json](./385081-pure-hentai-moments.json) |
 | Pure Hentai: Paradise | 380699 | [380699-pure-hentai-paradise.json](./380699-pure-hentai-paradise.json) |
