@@ -440,9 +440,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fatal Octopus | 289232 | [289232-ultimate-fatal-octopus.json](./289232-ultimate-fatal-octopus.json) |
 | Ultimate Fight Manager 2016 | 33207 | [33207-ultimate-fight-manager-2016.json](./33207-ultimate-fight-manager-2016.json) |
 | Ultimate Firefight Series | 327785 | [327785-ultimate-firefight-series.json](./327785-ultimate-firefight-series.json) |
+| Ultimate Fishing Online | 349247 | [349247-ultimate-fishing-online.json](./349247-ultimate-fishing-online.json) |
 | Ultimate Fishing Simulator | 77654 | [77654-ultimate-fishing-simulator.json](./77654-ultimate-fishing-simulator.json) |
 | Ultimate Fishing Simulator 2 | 132748 | [132748-ultimate-fishing-simulator-2.json](./132748-ultimate-fishing-simulator-2.json) |
 | Ultimate Fishing Simulator 2: Delaware Bay | 375299 | [375299-ultimate-fishing-simulator-2-delaware-bay.json](./375299-ultimate-fishing-simulator-2-delaware-bay.json) |
+| Ultimate Fishing Simulator 3 | 349238 | [349238-ultimate-fishing-simulator-3.json](./349238-ultimate-fishing-simulator-3.json) |
 | Ultimate Fishing Simulator VR: Amazon River | 161342 | [161342-ultimate-fishing-simulator-vr-amazon-river.json](./161342-ultimate-fishing-simulator-vr-amazon-river.json) |
 | Ultimate Fishing Simulator VR: Greenland | 161341 | [161341-ultimate-fishing-simulator-vr-greenland.json](./161341-ultimate-fishing-simulator-vr-greenland.json) |
 | Ultimate Fishing Simulator VR: Japan | 161337 | [161337-ultimate-fishing-simulator-vr-japan.json](./161337-ultimate-fishing-simulator-vr-japan.json) |
