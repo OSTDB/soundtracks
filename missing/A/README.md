@@ -2338,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrodrift: FPV Drone Simulator | 346501 | [346501-acrodrift-fpv-drone-simulator.json](./346501-acrodrift-fpv-drone-simulator.json) |
 | Acroflow | 297760 | [297760-acroflow.json](./297760-acroflow.json) |
 | Acrofobic Lunchbreak | 26956 | [26956-acrofobic-lunchbreak.json](./26956-acrofobic-lunchbreak.json) |
+| Acrolyte | 338134 | [338134-acrolyte.json](./338134-acrolyte.json) |
 | Acron: Attack of the Squirrels! | 119335 | [119335-acron-attack-of-the-squirrels.json](./119335-acron-attack-of-the-squirrels.json) |
 | Acronia | 240637 | [240637-acronia.json](./240637-acronia.json) |
 | Acrophobia | 284274 | [284274-acrophobia.json](./284274-acrophobia.json) |
@@ -5004,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuji the Heartless | 4145 | [4145-akuji-the-heartless.json](./4145-akuji-the-heartless.json) |
 | Akujo Densetsu | 71902 | [71902-akujo-densetsu.json](./71902-akujo-densetsu.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
+| Akuma No Akumu: Ar Eq-Kua Er Seta | 338133 | [338133-akuma-no-akumu-ar-eq-kua-er-seta.json](./338133-akuma-no-akumu-ar-eq-kua-er-seta.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akuma Ouji to Ayatsuri Ningyou | 242068 | [242068-akuma-ouji-to-ayatsuri-ningyou.json](./242068-akuma-ouji-to-ayatsuri-ningyou.json) |
 | Akuma Shitsuji to Kuroi Neko | 367762 | [367762-akuma-shitsuji-to-kuroi-neko.json](./367762-akuma-shitsuji-to-kuroi-neko.json) |
@@ -8576,6 +8578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Butterflies | 360467 | [360467-anime-dream-match-butterflies.json](./360467-anime-dream-match-butterflies.json) |
 | Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
+| Anime Dream Match: Girls | 338412 | [338412-anime-dream-match-girls.json](./338412-anime-dream-match-girls.json) |
 | Anime Dream Match: Horses | 378531 | [378531-anime-dream-match-horses.json](./378531-anime-dream-match-horses.json) |
 | Anime Dream Match: Predators | 366134 | [366134-anime-dream-match-predators.json](./366134-anime-dream-match-predators.json) |
 | Anime Dream Match: Primates | 351558 | [351558-anime-dream-match-primates.json](./351558-anime-dream-match-primates.json) |
