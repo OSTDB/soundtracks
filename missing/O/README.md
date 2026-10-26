@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
 | Oddnose | 247351 | [247351-oddnose.json](./247351-oddnose.json) |
 | OddPlanet | 32782 | [32782-oddplanet.json](./32782-oddplanet.json) |
+| Oddroom | 337021 | [337021-oddroom.json](./337021-oddroom.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
 | Oddsparks: An Automation Adventure | 261144 | [261144-oddsparks-an-automation-adventure.json](./261144-oddsparks-an-automation-adventure.json) |
