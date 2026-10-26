@@ -4814,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winding Road | 180010 | [180010-winding-road.json](./180010-winding-road.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
+| Windjammers, Karnov & Friends | 337849 | [337849-windjammers-karnov-and-friends.json](./337849-windjammers-karnov-and-friends.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
 | Windmill Kings | 125028 | [125028-windmill-kings.json](./125028-windmill-kings.json) |
 | Windosill | 15002 | [15002-windosill.json](./15002-windosill.json) |
@@ -5356,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Halloween | 127913 | [127913-witch-halloween.json](./127913-witch-halloween.json) |
 | Witch Halloween Dollhouse | 318282 | [318282-witch-halloween-dollhouse.json](./318282-witch-halloween-dollhouse.json) |
 | Witch Hat & Ears of Cat | 225553 | [225553-witch-hat-and-ears-of-cat.json](./225553-witch-hat-and-ears-of-cat.json) |
+| Witch Hazel | 337524 | [337524-witch-hazel.json](./337524-witch-hazel.json) |
 | Witch House Mixtape | 271187 | [271187-witch-house-mixtape.json](./271187-witch-house-mixtape.json) |
 | Witch Hunt | 134420 | [134420-witch-hunt.json](./134420-witch-hunt.json) |
 | Witch Hunt | 210283 | [210283-witch-hunt.json](./210283-witch-hunt.json) |
