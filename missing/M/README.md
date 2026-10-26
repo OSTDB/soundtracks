@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mah~Jomino Deluxe | 146197 | [146197-mah-jomino-deluxe.json](./146197-mah-jomino-deluxe.json) |
 | Maharaja | 64197 | [64197-maharaja.json](./64197-maharaja.json) |
+| Mahiru no Ankoku | 383421 | [383421-mahiru-no-ankoku.json](./383421-mahiru-no-ankoku.json) |
 | MahJah | 232542 | [232542-mahjah.json](./232542-mahjah.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
 | Mahjong | 131431 | [131431-mahjong.json](./131431-mahjong.json) |
@@ -3397,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
 | Mario Teaches Typing | 50335 | [50335-mario-teaches-typing.json](./50335-mario-teaches-typing.json) |
 | Mario Teaches Typing 2 | 46445 | [46445-mario-teaches-typing-2.json](./46445-mario-teaches-typing-2.json) |
+| Mario Teaches Typing 3 | 383439 | [383439-mario-teaches-typing-3.json](./383439-mario-teaches-typing-3.json) |
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
 | Mario Tennis Fever | 366880 | [366880-mario-tennis-fever.json](./366880-mario-tennis-fever.json) |
 | Mario Tennis: Alex | 247100 | [247100-mario-tennis-alex.json](./247100-mario-tennis-alex.json) |
@@ -7031,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mell Kiss | 97471 | [97471-mell-kiss.json](./97471-mell-kiss.json) |
 | Mell Kiss: Limited Edition | 201049 | [201049-mell-kiss-limited-edition.json](./201049-mell-kiss-limited-edition.json) |
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
+| Mellings | 383440 | [383440-mellings.json](./383440-mellings.json) |
 | Mello | 188917 | [188917-mello.json](./188917-mello.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Mellow Meadow Deluxe | 185497 | [185497-mellow-meadow-deluxe.json](./185497-mellow-meadow-deluxe.json) |
