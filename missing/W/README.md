@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Aero | 39849 | [39849-war-of-aero.json](./39849-war-of-aero.json) |
 | War of Angels | 66400 | [66400-war-of-angels.json](./66400-war-of-angels.json) |
 | War of Ashird | 122974 | [122974-war-of-ashird.json](./122974-war-of-ashird.json) |
+| War of Banners | 365049 | [365049-war-of-banners.json](./365049-war-of-banners.json) |
 | War of Being | 260574 | [260574-war-of-being.json](./260574-war-of-being.json) |
 | War of Bellrook | 211123 | [211123-war-of-bellrook.json](./211123-war-of-bellrook.json) |
 | War Of Castles | 282249 | [282249-war-of-castles.json](./282249-war-of-castles.json) |
@@ -3757,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisper of the Shade: Gray | 338372 | [338372-whisper-of-the-shade-gray.json](./338372-whisper-of-the-shade-gray.json) |
 | Whisper Out of Time | 197066 | [197066-whisper-out-of-time.json](./197066-whisper-out-of-time.json) |
 | Whisper Trip | 154008 | [154008-whisper-trip.json](./154008-whisper-trip.json) |
+| Whisper Village | 365036 | [365036-whisper-village.json](./365036-whisper-village.json) |
 | Whisper: In the Dark | 267429 | [267429-whisper-in-the-dark.json](./267429-whisper-in-the-dark.json) |
 | Whispered Flight | 274738 | [274738-whispered-flight.json](./274738-whispered-flight.json) |
 | Whispered Promises: 14 Days of Love with Anna | 260320 | [260320-whispered-promises-14-days-of-love-with-anna.json](./260320-whispered-promises-14-days-of-love-with-anna.json) |
