@@ -2660,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Shop 2 | 28907 | [28907-weed-shop-2.json](./28907-weed-shop-2.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weed Supermarket Simulator | 383739 | [383739-weed-supermarket-simulator.json](./383739-weed-supermarket-simulator.json) |
+| Weed Syndicate Empire | 347066 | [347066-weed-syndicate-empire.json](./347066-weed-syndicate-empire.json) |
 | Weedcraft Inc | 110486 | [110486-weedcraft-inc.json](./110486-weedcraft-inc.json) |
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
 | Weedcraft Inc + Bio Inc. Redemption: Medical Herbs Bundle | 292619 | [292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json](./292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json) |
