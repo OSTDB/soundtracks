@@ -4349,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thapster TV | 85831 | [85831-thapster-tv.json](./85831-thapster-tv.json) |
 | Thapster TV: 2nd Wave | 127741 | [127741-thapster-tv-2nd-wave.json](./127741-thapster-tv-2nd-wave.json) |
 | Tharaba | 280321 | [280321-tharaba.json](./280321-tharaba.json) |
+| Thargelia | 373502 | [373502-thargelia.json](./373502-thargelia.json) |
 | Tharolian Tunnels | 23318 | [23318-tharolian-tunnels.json](./23318-tharolian-tunnels.json) |
 | Tharsis | 15903 | [15903-tharsis.json](./15903-tharsis.json) |
 | That | 294538 | [294538-that.json](./294538-that.json) |
@@ -4457,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 18th Attic | 346707 | [346707-the-18th-attic.json](./346707-the-18th-attic.json) |
 | The 2018 Fantastic Arcade Bundle | 267967 | [267967-the-2018-fantastic-arcade-bundle.json](./267967-the-2018-fantastic-arcade-bundle.json) |
 | The 2020 Trail | 157151 | [157151-the-2020-trail.json](./157151-the-2020-trail.json) |
+| The 2024 Secret Santa Collab | 373600 | [373600-the-2024-secret-santa-collab.json](./373600-the-2024-secret-santa-collab.json) |
 | The 2030 Proto-Interfacer's Guide to House-Oriented Emotional Exploration | 283711 | [283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json](./283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json) |
 | The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 22nd is Serda. F0a178 | 219566 | [219566-the-22nd-is-serda-f0a178.json](./219566-the-22nd-is-serda-f0a178.json) |
@@ -6048,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Choices Of Priori | 412546 | [412546-the-choices-of-priori.json](./412546-the-choices-of-priori.json) |
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
+| The Chosen Ones | 373606 | [373606-the-chosen-ones.json](./373606-the-chosen-ones.json) |
 | The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
 | The Chosen Warriors | 81229 | [81229-the-chosen-warriors.json](./81229-the-chosen-warriors.json) |
 | The Chosen: Well of Souls | 21228 | [21228-the-chosen-well-of-souls.json](./21228-the-chosen-well-of-souls.json) |
@@ -6550,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Silent Marshes | 213327 | [213327-the-curse-of-silent-marshes.json](./213327-the-curse-of-silent-marshes.json) |
 | The Curse of Stuzhiy | 413876 | [413876-the-curse-of-stuzhiy.json](./413876-the-curse-of-stuzhiy.json) |
 | The Curse of Tencond | 225576 | [225576-the-curse-of-tencond.json](./225576-the-curse-of-tencond.json) |
+| The Curse of Tethria | 373596 | [373596-the-curse-of-tethria.json](./373596-the-curse-of-tethria.json) |
 | The Curse of the Dead | 129668 | [129668-the-curse-of-the-dead.json](./129668-the-curse-of-the-dead.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
@@ -12212,6 +12216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
 | The Overnight Watch | 321438 | [321438-the-overnight-watch.json](./321438-the-overnight-watch.json) |
 | The Overseer | 306445 | [306445-the-overseer.json](./306445-the-overseer.json) |
+| The Oversight Bureau | 373507 | [373507-the-oversight-bureau.json](./373507-the-oversight-bureau.json) |
 | The Overtaken | 177822 | [177822-the-overtaken.json](./177822-the-overtaken.json) |
 | The Owl House: Witch's Apprentice | 297588 | [297588-the-owl-house-witchs-apprentice.json](./297588-the-owl-house-witchs-apprentice.json) |
 | The Owl Quest | 155870 | [155870-the-owl-quest.json](./155870-the-owl-quest.json) |
@@ -17438,6 +17443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
+| Tidebreaker | 373568 | [373568-tidebreaker.json](./373568-tidebreaker.json) |
 | Tideheart | 420221 | [420221-tideheart.json](./420221-tideheart.json) |
 | Tidepool | 407503 | [407503-tidepool.json](./407503-tidepool.json) |
 | Tides Odyssey | 315777 | [315777-tides-odyssey.json](./315777-tides-odyssey.json) |
