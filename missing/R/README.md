@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakuen Hakai | 280742 | [280742-rakuen-hakai.json](./280742-rakuen-hakai.json) |
 | Rakuen no Rukia | 399192 | [399192-rakuen-no-rukia.json](./399192-rakuen-no-rukia.json) |
 | Rakuen Yuki | 205645 | [205645-rakuen-yuki.json](./205645-rakuen-yuki.json) |
+| Rakuen: Ai Kawarazu na Boku. no Baai | 376505 | [376505-rakuen-ai-kawarazu-na-boku-no-baai.json](./376505-rakuen-ai-kawarazu-na-boku-no-baai.json) |
 | Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
 | Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
 | Rakugaki Showtime | 46082 | [46082-rakugaki-showtime.json](./46082-rakugaki-showtime.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repulsor: Pod-Racing Game | 176390 | [176390-repulsor-pod-racing-game.json](./176390-repulsor-pod-racing-game.json) |
 | Repulze | 193703 | [193703-repulze.json](./193703-repulze.json) |
 | Repunk | 255675 | [255675-repunk.json](./255675-repunk.json) |
+| ReqeustP | 376504 | [376504-reqeustp.json](./376504-reqeustp.json) |
 | Requeue | 183972 | [183972-requeue.json](./183972-requeue.json) |
 | Requia Online | 175329 | [175329-requia-online.json](./175329-requia-online.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
@@ -7676,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
 | Rock Band 2 | 2692 | [2692-rock-band-2.json](./2692-rock-band-2.json) |
+| Rock Band 2 DX: Guitar Hero Live | 376500 | [376500-rock-band-2-dx-guitar-hero-live.json](./376500-rock-band-2-dx-guitar-hero-live.json) |
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
 | Rock Band 3 | 2691 | [2691-rock-band-3.json](./2691-rock-band-3.json) |
 | Rock Band 3: Deluxe | 303612 | [303612-rock-band-3-deluxe.json](./303612-rock-band-3-deluxe.json) |
@@ -9419,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rough Sketch | 83373 | [83373-rough-sketch.json](./83373-rough-sketch.json) |
 | Rough Waters Decentralised Tarots | 176810 | [176810-rough-waters-decentralised-tarots.json](./176810-rough-waters-decentralised-tarots.json) |
 | Rough Waves | 309619 | [309619-rough-waves.json](./309619-rough-waves.json) |
+| Roughly Crafted | 376432 | [376432-roughly-crafted.json](./376432-roughly-crafted.json) |
 | Rougien | 292097 | [292097-rougien.json](./292097-rougien.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
