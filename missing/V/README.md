@@ -2524,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vital | 123892 | [123892-vital.json](./123892-vital.json) |
 | Vital | 232013 | [232013-vital.json](./232013-vital.json) |
 | Vital Bracelet Arena | 270627 | [270627-vital-bracelet-arena.json](./270627-vital-bracelet-arena.json) |
+| Vital Bracelet Digital Monster | 336184 | [336184-vital-bracelet-digital-monster.json](./336184-vital-bracelet-digital-monster.json) |
 | Vital Charge | 400312 | [400312-vital-charge.json](./400312-vital-charge.json) |
 | Vital Device: Entrapped by the Queen | 124497 | [124497-vital-device-entrapped-by-the-queen.json](./124497-vital-device-entrapped-by-the-queen.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
@@ -2845,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
 | Void Whispers | 293999 | [293999-void-whispers.json](./293999-void-whispers.json) |
+| Void Witch | 335770 | [335770-void-witch.json](./335770-void-witch.json) |
 | Void Wizard | 280133 | [280133-void-wizard.json](./280133-void-wizard.json) |
 | Void-Dogs | 180578 | [180578-void-dogs.json](./180578-void-dogs.json) |
 | Void: Edge of Existence | 235847 | [235847-void-edge-of-existence.json](./235847-void-edge-of-existence.json) |
@@ -2890,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidrunner | 36569 | [36569-voidrunner.json](./36569-voidrunner.json) |
 | Voidrunner | 377287 | [377287-voidrunner.json](./377287-voidrunner.json) |
 | Voidrunner | 52755 | [52755-voidrunner.json](./52755-voidrunner.json) |
+| Voids & Vessels | 335772 | [335772-voids-and-vessels.json](./335772-voids-and-vessels.json) |
 | Voids Adrift | 144103 | [144103-voids-adrift.json](./144103-voids-adrift.json) |
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
 | Voidseekers | 253814 | [253814-voidseekers.json](./253814-voidseekers.json) |
