@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
 | Sales Employee Takeru-Kun | 298358 | [298358-sales-employee-takeru-kun.json](./298358-sales-employee-takeru-kun.json) |
 | Sales Pitch | 191507 | [191507-sales-pitch.json](./191507-sales-pitch.json) |
+| Sales, Science & Spirits | 384554 | [384554-sales-science-and-spirits.json](./384554-sales-science-and-spirits.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
 | Saligia | 163014 | [163014-saligia.json](./163014-saligia.json) |
 | Sally | 152186 | [152186-sally.json](./152186-sally.json) |
@@ -1511,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Fe Mysteries: Sacred Ground | 70296 | [70296-santa-fe-mysteries-sacred-ground.json](./70296-santa-fe-mysteries-sacred-ground.json) |
 | Santa Fe Mysteries: The Elk Moon Murder | 13783 | [13783-santa-fe-mysteries-the-elk-moon-murder.json](./13783-santa-fe-mysteries-the-elk-moon-murder.json) |
 | Santa Gift Master | 293312 | [293312-santa-gift-master.json](./293312-santa-gift-master.json) |
+| Santa Girl | 384587 | [384587-santa-girl.json](./384587-santa-girl.json) |
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
 | Santa Monica Paradise | 134482 | [134482-santa-monica-paradise.json](./134482-santa-monica-paradise.json) |
@@ -8748,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Dreams - The Worm in Paradise | 39155 | [39155-silicon-dreams-the-worm-in-paradise.json](./39155-silicon-dreams-the-worm-in-paradise.json) |
 | Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
 | Silicon Foundry | 401759 | [401759-silicon-foundry.json](./401759-silicon-foundry.json) |
+| Silicon Girl | 384581 | [384581-silicon-girl.json](./384581-silicon-girl.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon Rising | 128041 | [128041-silicon-rising.json](./128041-silicon-rising.json) |
 | Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
@@ -10421,6 +10424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Reclaimers | 348247 | [348247-sky-reclaimers.json](./348247-sky-reclaimers.json) |
 | Sky Repairs | 108916 | [108916-sky-repairs.json](./108916-sky-repairs.json) |
 | Sky Resort 2 | 375974 | [375974-sky-resort-2.json](./375974-sky-resort-2.json) |
+| Sky Resort 3 | 384600 | [384600-sky-resort-3.json](./384600-sky-resort-3.json) |
 | Sky Revolver | 342154 | [342154-sky-revolver.json](./342154-sky-revolver.json) |
 | Sky Road | 76383 | [76383-sky-road.json](./76383-sky-road.json) |
 | Sky Robo | 327321 | [327321-sky-robo.json](./327321-sky-robo.json) |
@@ -15890,6 +15894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Control | 190955 | [190955-space-control.json](./190955-space-control.json) |
 | Space Core | 103869 | [103869-space-core.json](./103869-space-core.json) |
 | Space Corgi | 345433 | [345433-space-corgi.json](./345433-space-corgi.json) |
+| Space Corgi 2: Snowhound Protocol | 384610 | [384610-space-corgi-2-snowhound-protocol.json](./384610-space-corgi-2-snowhound-protocol.json) |
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Cowboy Radio | 359049 | [359049-space-cowboy-radio.json](./359049-space-cowboy-radio.json) |
@@ -18266,6 +18271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spl-t | 59279 | [59279-spl-t.json](./59279-spl-t.json) |
 | Splash | 170363 | [170363-splash.json](./170363-splash.json) |
 | Splash | 224940 | [224940-splash.json](./224940-splash.json) |
+| Splash | 384564 | [384564-splash.json](./384564-splash.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
@@ -21263,6 +21269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 281313 | [281313-station-5.json](./281313-station-5.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
+| Station 7 | 384602 | [384602-station-7.json](./384602-station-7.json) |
 | Station 99 | 238572 | [238572-station-99.json](./238572-station-99.json) |
 | Station Command | 402523 | [402523-station-command.json](./402523-station-command.json) |
 | Station Commander | 166074 | [166074-station-commander.json](./166074-station-commander.json) |
@@ -27142,6 +27149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slap Shot | 94561 | [94561-super-slap-shot.json](./94561-super-slap-shot.json) |
 | Super Slapshot | 42451 | [42451-super-slapshot.json](./42451-super-slapshot.json) |
 | Super Sled Acer | 421227 | [421227-super-sled-acer.json](./421227-super-sled-acer.json) |
+| Super Slender Balls | 384605 | [384605-super-slender-balls.json](./384605-super-slender-balls.json) |
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
 | Super Slime Adventure | 184367 | [184367-super-slime-adventure.json](./184367-super-slime-adventure.json) |
 | Super Slime Arena | 69486 | [69486-super-slime-arena.json](./69486-super-slime-arena.json) |
