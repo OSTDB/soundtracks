@@ -6747,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkness | 281559 | [281559-the-darkness.json](./281559-the-darkness.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Darkness Assault | 53725 | [53725-the-darkness-assault.json](./53725-the-darkness-assault.json) |
+| The Darkness Delivers | 370077 | [370077-the-darkness-delivers.json](./370077-the-darkness-delivers.json) |
 | The Darkness of Gordoth | 398687 | [398687-the-darkness-of-gordoth.json](./398687-the-darkness-of-gordoth.json) |
 | The Darkside Detective Duology | 291586 | [291586-the-darkside-detective-duology.json](./291586-the-darkside-detective-duology.json) |
 | The Darkside Detective: A Fumble in the Dark - Ghosts of Christmas Passed | 222965 | [222965-the-darkside-detective-a-fumble-in-the-dark-ghosts-of-christmas-passed.json](./222965-the-darkside-detective-a-fumble-in-the-dark-ghosts-of-christmas-passed.json) |
@@ -16451,6 +16452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theseus Protocol | 216694 | [216694-theseus-protocol.json](./216694-theseus-protocol.json) |
 | Theseus: Journey to Athens | 114092 | [114092-theseus-journey-to-athens.json](./114092-theseus-journey-to-athens.json) |
 | TheShooterGame | 101283 | [101283-theshootergame.json](./101283-theshootergame.json) |
+| Thesis of Love | 370073 | [370073-thesis-of-love.json](./370073-thesis-of-love.json) |
 | Thesmophoria | 244304 | [244304-thesmophoria.json](./244304-thesmophoria.json) |
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
