@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest: Escape Room 2 | 149391 | [149391-quest-escape-room-2.json](./149391-quest-escape-room-2.json) |
 | Quest: Escape Room 3 | 149509 | [149509-quest-escape-room-3.json](./149509-quest-escape-room-3.json) |
 | Quest: Fantasy Challenge | 49950 | [49950-quest-fantasy-challenge.json](./49950-quest-fantasy-challenge.json) |
+| Quest: The Adventure for the 6 Stones | 335751 | [335751-quest-the-adventure-for-the-6-stones.json](./335751-quest-the-adventure-for-the-6-stones.json) |
 | Quest? Quest! | 118643 | [118643-quest-quest.json](./118643-quest-quest.json) |
 | Quest64: Recompiled | 385279 | [385279-quest64-recompiled.json](./385279-quest64-recompiled.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
