@@ -6447,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop | 183081 | [183081-chop.json](./183081-chop.json) |
 | Chop | 89682 | [89682-chop.json](./89682-chop.json) |
 | Chop Chains | 386731 | [386731-chop-chains.json](./386731-chop-chains.json) |
+| Chop Chef | 359323 | [359323-chop-chef.json](./359323-chop-chef.json) |
 | Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
 | Chop Chop Kicker | 232489 | [232489-chop-chop-kicker.json](./232489-chop-chop-kicker.json) |
 | Chop Chop Princess! | 75028 | [75028-chop-chop-princess.json](./75028-chop-chop-princess.json) |
@@ -6478,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopmania | 211990 | [211990-chopmania.json](./211990-chopmania.json) |
 | Choppa: Rescue Rivals | 127077 | [127077-choppa-rescue-rivals.json](./127077-choppa-rescue-rivals.json) |
 | Chopped Up | 388368 | [388368-chopped-up.json](./388368-chopped-up.json) |
+| Chopper Adventure | 359447 | [359447-chopper-adventure.json](./359447-chopper-adventure.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
 | Chopper Battle | 91527 | [91527-chopper-battle.json](./91527-chopper-battle.json) |
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
@@ -8810,6 +8812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudpunk: Ultimate Edition | 193737 | [193737-cloudpunk-ultimate-edition.json](./193737-cloudpunk-ultimate-edition.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
 | Clouds Ahoy! | 235863 | [235863-clouds-ahoy.json](./235863-clouds-ahoy.json) |
+| Clouds and Jewels | 359390 | [359390-clouds-and-jewels.json](./359390-clouds-and-jewels.json) |
 | Clouds Kingdom 3 | 71501 | [71501-clouds-kingdom-3.json](./71501-clouds-kingdom-3.json) |
 | Clouds No More | 172137 | [172137-clouds-no-more.json](./172137-clouds-no-more.json) |
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
@@ -13682,6 +13685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Ball Adventures: Treasure | 155371 | [155371-crazy-ball-adventures-treasure.json](./155371-crazy-ball-adventures-treasure.json) |
 | Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
 | Crazy Balloon Pop | 108927 | [108927-crazy-balloon-pop.json](./108927-crazy-balloon-pop.json) |
+| Crazy Balls | 359391 | [359391-crazy-balls.json](./359391-crazy-balls.json) |
 | Crazy Basket | 394473 | [394473-crazy-basket.json](./394473-crazy-basket.json) |
 | Crazy Battle Pets | 339337 | [339337-crazy-battle-pets.json](./339337-crazy-battle-pets.json) |
 | Crazy Beat's Junction | 119475 | [119475-crazy-beats-junction.json](./119475-crazy-beats-junction.json) |
@@ -16277,6 +16281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
 | Curling | 359188 | [359188-curling.json](./359188-curling.json) |
+| Curling | 359306 | [359306-curling.json](./359306-curling.json) |
 | Curling 2010 | 230688 | [230688-curling-2010.json](./230688-curling-2010.json) |
 | Curling 2010 | 66570 | [66570-curling-2010.json](./66570-curling-2010.json) |
 | Curling in the Dungeon | 292365 | [292365-curling-in-the-dungeon.json](./292365-curling-in-the-dungeon.json) |
