@@ -7462,6 +7462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
 | Hollywhoot | 107011 | [107011-hollywhoot.json](./107011-hollywhoot.json) |
 | Hollywood 61 | 78734 | [78734-hollywood-61.json](./78734-hollywood-61.json) |
+| Hollywood Crush | 349252 | [349252-hollywood-crush.json](./349252-hollywood-crush.json) |
 | Hollywood Escape | 70912 | [70912-hollywood-escape.json](./70912-hollywood-escape.json) |
 | Hollywood Fame: Hidden Object Adventure | 84517 | [84517-hollywood-fame-hidden-object-adventure.json](./84517-hollywood-fame-hidden-object-adventure.json) |
 | Hollywood Files: Deadly Intrigues | 269631 | [269631-hollywood-files-deadly-intrigues.json](./269631-hollywood-files-deadly-intrigues.json) |
