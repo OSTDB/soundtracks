@@ -7046,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America Oudan Ultra Quiz: Part 4 | 282822 | [282822-america-oudan-ultra-quiz-part-4.json](./282822-america-oudan-ultra-quiz-part-4.json) |
 | America Oudan Ultra Quiz: Shijou Saidai no Tatakai | 48603 | [48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json](./48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json) |
 | America Rising 2: Legacy of the Enclave | 299131 | [299131-america-rising-2-legacy-of-the-enclave.json](./299131-america-rising-2-legacy-of-the-enclave.json) |
+| America vs. America | 351512 | [351512-america-vs-america.json](./351512-america-vs-america.json) |
 | America Wild Hunting | 147764 | [147764-america-wild-hunting.json](./147764-america-wild-hunting.json) |
 | America: Expansion Pack | 166693 | [166693-america-expansion-pack.json](./166693-america-expansion-pack.json) |
 | America: No Peace Beyond the Line | 71926 | [71926-america-no-peace-beyond-the-line.json](./71926-america-no-peace-beyond-the-line.json) |
@@ -11087,6 +11088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcticide | 249053 | [249053-arcticide.json](./249053-arcticide.json) |
 | Arcticmind | 182268 | [182268-arcticmind.json](./182268-arcticmind.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
+| Arcturus | 352103 | [352103-arcturus.json](./352103-arcturus.json) |
 | Arcturus | 421400 | [421400-arcturus.json](./421400-arcturus.json) |
 | Arcturus Proving Grounds | 61711 | [61711-arcturus-proving-grounds.json](./61711-arcturus-proving-grounds.json) |
 | Arcus | 80836 | [80836-arcus.json](./80836-arcus.json) |
