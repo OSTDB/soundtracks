@@ -8447,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plump! Dumb Frog Pond | 368813 | [368813-plump-dumb-frog-pond.json](./368813-plump-dumb-frog-pond.json) |
 | Plumpy Uprising | 216681 | [216681-plumpy-uprising.json](./216681-plumpy-uprising.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
+| Plunder | 344278 | [344278-plunder.json](./344278-plunder.json) |
 | Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
 | Plunder Islands | 239486 | [239486-plunder-islands.json](./239486-plunder-islands.json) |
@@ -12475,6 +12476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner: The Mystery Complex | 122243 | [122243-prisoner-the-mystery-complex.json](./122243-prisoner-the-mystery-complex.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
 | Prisoners Chess | 416713 | [416713-prisoners-chess.json](./416713-prisoners-chess.json) |
+| Prisoners Hunt | 344584 | [344584-prisoners-hunt.json](./344584-prisoners-hunt.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
 | Prisonfall | 237203 | [237203-prisonfall.json](./237203-prisonfall.json) |
 | Prisonnier II | 143437 | [143437-prisonnier-ii.json](./143437-prisonnier-ii.json) |
