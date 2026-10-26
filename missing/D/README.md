@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
 | Dark Core | 110763 | [110763-dark-core.json](./110763-dark-core.json) |
 | Dark Corridors | 225199 | [225199-dark-corridors.json](./225199-dark-corridors.json) |
+| Dark Craft | 379935 | [379935-dark-craft.json](./379935-dark-craft.json) |
 | Dark Cravings | 199276 | [199276-dark-cravings.json](./199276-dark-cravings.json) |
 | Dark Crescent | 404660 | [404660-dark-crescent.json](./404660-dark-crescent.json) |
 | Dark Crypt | 164215 | [164215-dark-crypt.json](./164215-dark-crypt.json) |
@@ -4479,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
 | Deep Storm | 246323 | [246323-deep-storm.json](./246323-deep-storm.json) |
 | Deep Strike | 13583 | [13583-deep-strike.json](./13583-deep-strike.json) |
+| Deep Strike | 379923 | [379923-deep-strike.json](./379923-deep-strike.json) |
 | Deep the Game: The Darkest Cave | 169957 | [169957-deep-the-game-the-darkest-cave.json](./169957-deep-the-game-the-darkest-cave.json) |
 | Deep Town | 98532 | [98532-deep-town.json](./98532-deep-town.json) |
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
@@ -4688,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Crown: Digitally Remastered Edition | 170339 | [170339-defender-of-the-crown-digitally-remastered-edition.json](./170339-defender-of-the-crown-digitally-remastered-edition.json) |
 | Defender of the Crown: Heroes Live Forever | 8676 | [8676-defender-of-the-crown-heroes-live-forever.json](./8676-defender-of-the-crown-heroes-live-forever.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
+| Defender of the Kingdom | 379851 | [379851-defender-of-the-kingdom.json](./379851-defender-of-the-kingdom.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defender of the Wood | 249592 | [249592-defender-of-the-wood.json](./249592-defender-of-the-wood.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
@@ -9203,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Technika Tune | 23430 | [23430-djmax-technika-tune.json](./23430-djmax-technika-tune.json) |
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
 | DJMax Trilogy | 92347 | [92347-djmax-trilogy.json](./92347-djmax-trilogy.json) |
+| Djoof's UCN 2 | 379951 | [379951-djoofs-ucn-2.json](./379951-djoofs-ucn-2.json) |
 | DK Bongo Blast | 231476 | [231476-dk-bongo-blast.json](./231476-dk-bongo-blast.json) |
 | DK Challenge | 405439 | [405439-dk-challenge.json](./405439-dk-challenge.json) |
 | DK Jungle Climber 64 DS | 315006 | [315006-dk-jungle-climber-64-ds.json](./315006-dk-jungle-climber-64-ds.json) |
@@ -14707,6 +14711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumbo's Flying Circus | 40639 | [40639-dumbos-flying-circus.json](./40639-dumbos-flying-circus.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
+| Dumdum | 379922 | [379922-dumdum.json](./379922-dumdum.json) |
 | Dumdum Afterthoughts | 401721 | [401721-dumdum-afterthoughts.json](./401721-dumdum-afterthoughts.json) |
 | Dummb | 249040 | [249040-dummb.json](./249040-dummb.json) |
 | Dummy Defense | 223627 | [223627-dummy-defense.json](./223627-dummy-defense.json) |
