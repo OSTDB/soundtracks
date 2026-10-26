@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaster Claws 3: Dragon Slayer of the God World | 132243 | [132243-vaster-claws-3-dragon-slayer-of-the-god-world.json](./132243-vaster-claws-3-dragon-slayer-of-the-god-world.json) |
 | Vaster Claws 3: Dragon Slayer of the God World - Special Pack | 156116 | [156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json](./156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json) |
 | VasterClaws3 | 138078 | [138078-vasterclaws3.json](./138078-vasterclaws3.json) |
+| Vasterra | 333469 | [333469-vasterra.json](./333469-vasterra.json) |
 | Vastophobia | 334327 | [334327-vastophobia.json](./334327-vastophobia.json) |
 | Vastynex | 184398 | [184398-vastynex.json](./184398-vastynex.json) |
 | Vatlva | 22503 | [22503-vatlva.json](./22503-vatlva.json) |
