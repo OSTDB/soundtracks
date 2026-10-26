@@ -3862,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
 | Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
+| Territorial Conquest | 374101 | [374101-territorial-conquest.json](./374101-territorial-conquest.json) |
 | Territorial Hissing | 261686 | [261686-territorial-hissing.json](./261686-territorial-hissing.json) |
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
@@ -4969,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Area Where You Can't Place Arrows | 185529 | [185529-the-area-where-you-cant-place-arrows.json](./185529-the-area-where-you-cant-place-arrows.json) |
 | The Arena | 271265 | [271265-the-arena.json](./271265-the-arena.json) |
 | The Arena | 271408 | [271408-the-arena.json](./271408-the-arena.json) |
+| The Arena | 374033 | [374033-the-arena.json](./374033-the-arena.json) |
 | The Arena Guy | 151029 | [151029-the-arena-guy.json](./151029-the-arena-guy.json) |
 | The Argument Solver | 289308 | [289308-the-argument-solver.json](./289308-the-argument-solver.json) |
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
@@ -9619,6 +9621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Killing Game of Thirst | 360903 | [360903-the-killing-game-of-thirst.json](./360903-the-killing-game-of-thirst.json) |
 | The Kind Camomille | 138494 | [138494-the-kind-camomille.json](./138494-the-kind-camomille.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
+| The Kindling | 374032 | [374032-the-kindling.json](./374032-the-kindling.json) |
 | The Kindred | 14576 | [14576-the-kindred.json](./14576-the-kindred.json) |
 | The King & I: Coming Out of Your Shell | 141824 | [141824-the-king-and-i-coming-out-of-your-shell.json](./141824-the-king-and-i-coming-out-of-your-shell.json) |
 | The King and the Crown | 59684 | [59684-the-king-and-the-crown.json](./59684-the-king-and-the-crown.json) |
@@ -11311,6 +11314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Map Is the Thing | 348204 | [348204-the-map-is-the-thing.json](./348204-the-map-is-the-thing.json) |
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
+| The Mare Show: Obscure Tech Skin Pack | 374097 | [374097-the-mare-show-obscure-tech-skin-pack.json](./374097-the-mare-show-obscure-tech-skin-pack.json) |
 | The Mariachi Loco | 178909 | [178909-the-mariachi-loco.json](./178909-the-mariachi-loco.json) |
 | The Marionette | 124595 | [124595-the-marionette.json](./124595-the-marionette.json) |
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
@@ -12244,6 +12248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Panel DC | 119720 | [119720-the-panel-dc.json](./119720-the-panel-dc.json) |
 | The Panic Room | 33664 | [33664-the-panic-room.json](./33664-the-panic-room.json) |
 | The Panic Room: House of Secrets | 259516 | [259516-the-panic-room-house-of-secrets.json](./259516-the-panic-room-house-of-secrets.json) |
+| The Panspermia | 374039 | [374039-the-panspermia.json](./374039-the-panspermia.json) |
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
 | The Paper Arcade | 247909 | [247909-the-paper-arcade.json](./247909-the-paper-arcade.json) |
 | The Paper Arcade: Pong | 360677 | [360677-the-paper-arcade-pong.json](./360677-the-paper-arcade-pong.json) |
@@ -19006,6 +19011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Alive | 186099 | [186099-time-alive.json](./186099-time-alive.json) |
 | Time and Eternity | 19922 | [19922-time-and-eternity.json](./19922-time-and-eternity.json) |
 | Time and Magik: The Trilogy | 15497 | [15497-time-and-magik-the-trilogy.json](./15497-time-and-magik-the-trilogy.json) |
+| Time and Space Legacy | 374029 | [374029-time-and-space-legacy.json](./374029-time-and-space-legacy.json) |
 | Time and Summon | 208082 | [208082-time-and-summon.json](./208082-time-and-summon.json) |
 | Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
