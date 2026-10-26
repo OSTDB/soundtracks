@@ -3912,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Owl | 351425 | [351425-nightmare-owl.json](./351425-nightmare-owl.json) |
 | Nightmare Pick | 374925 | [374925-nightmare-pick.json](./374925-nightmare-pick.json) |
 | Nightmare Pop | 89415 | [89415-nightmare-pop.json](./89415-nightmare-pop.json) |
+| Nightmare Punch-Out!! | 365051 | [365051-nightmare-punch-out.json](./365051-nightmare-punch-out.json) |
 | Nightmare Puppeteer | 138563 | [138563-nightmare-puppeteer.json](./138563-nightmare-puppeteer.json) |
 | Nightmare Reaper: Multiplayer Update | 369777 | [369777-nightmare-reaper-multiplayer-update.json](./369777-nightmare-reaper-multiplayer-update.json) |
 | Nightmare Retro | 422472 | [422472-nightmare-retro.json](./422472-nightmare-retro.json) |
@@ -5747,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Crow | 394553 | [394553-not-a-crow.json](./394553-not-a-crow.json) |
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Donut | 185423 | [185423-not-a-donut.json](./185423-not-a-donut.json) |
+| Not a Dream Job | 365041 | [365041-not-a-dream-job.json](./365041-not-a-dream-job.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
 | Not a Happy Family | 143342 | [143342-not-a-happy-family.json](./143342-not-a-happy-family.json) |
 | Not a Hero | 6045 | [6045-not-a-hero.json](./6045-not-a-hero.json) |
