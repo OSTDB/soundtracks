@@ -11448,6 +11448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
 | Construction Worker Simulator | 151102 | [151102-construction-worker-simulator.json](./151102-construction-worker-simulator.json) |
 | Construction: Action | 354053 | [354053-construction-action.json](./354053-construction-action.json) |
+| Construction: Action - D-46-#: Juggler | 354479 | [354479-construction-action-d-46-juggler.json](./354479-construction-action-d-46-juggler.json) |
 | Construction: Action - Map: Ampharos | 354492 | [354492-construction-action-map-ampharos.json](./354492-construction-action-map-ampharos.json) |
 | Construction: Action - Map: Arcanine | 354493 | [354493-construction-action-map-arcanine.json](./354493-construction-action-map-arcanine.json) |
 | Construction: Action - Map: Beedrill | 354610 | [354610-construction-action-map-beedrill.json](./354610-construction-action-map-beedrill.json) |
@@ -11499,10 +11500,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Map: Vileplume | 354599 | [354599-construction-action-map-vileplume.json](./354599-construction-action-map-vileplume.json) |
 | Construction: Action - Map: Vulpix | 354609 | [354609-construction-action-map-vulpix.json](./354609-construction-action-map-vulpix.json) |
 | Construction: Action - Map: Xatu | 354602 | [354602-construction-action-map-xatu.json](./354602-construction-action-map-xatu.json) |
+| Construction: Action - Player: C-45-# - Seer | 354482 | [354482-construction-action-player-c-45-seer.json](./354482-construction-action-player-c-45-seer.json) |
 | Construction: Action - Player: C-46-# - Pokémon Fan Club | 354640 | [354640-construction-action-player-c-46-pokemon-fan-club.json](./354640-construction-action-player-c-46-pokemon-fan-club.json) |
 | Construction: Action - Player: D-46-# - Juggler | 354638 | [354638-construction-action-player-d-46-juggler.json](./354638-construction-action-player-d-46-juggler.json) |
+| Construction: Action - Player: D-47-# - Forest Guardian | 354480 | [354480-construction-action-player-d-47-forest-guardian.json](./354480-construction-action-player-d-47-forest-guardian.json) |
 | Construction: Action - Player: E-46-# - Desert Shaman | 354489 | [354489-construction-action-player-e-46-desert-shaman.json](./354489-construction-action-player-e-46-desert-shaman.json) |
 | Construction: Action - Player: E-48-# - Underground Expedition | 354491 | [354491-construction-action-player-e-48-underground-expedition.json](./354491-construction-action-player-e-48-underground-expedition.json) |
+| Construction: Action - Player: F-46-# - Relic Hunter | 354483 | [354483-construction-action-player-f-46-relic-hunter.json](./354483-construction-action-player-f-46-relic-hunter.json) |
 | Construction: Action - Player: F-47-# - Fisherman | 354490 | [354490-construction-action-player-f-47-fisherman.json](./354490-construction-action-player-f-47-fisherman.json) |
 | Construction: Action - Player: F-48-# - Apricorn Maker | 354484 | [354484-construction-action-player-f-48-apricorn-maker.json](./354484-construction-action-player-f-48-apricorn-maker.json) |
 | Constructor | 2614 | [2614-constructor.json](./2614-constructor.json) |
@@ -11628,6 +11632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Work | 126513 | [126513-contract-work.json](./126513-contract-work.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
+| Contractors Showdown: ExfilZone | 354338 | [354338-contractors-showdown-exfilzone.json](./354338-contractors-showdown-exfilzone.json) |
 | Contractors VR | 111625 | [111625-contractors-vr.json](./111625-contractors-vr.json) |
 | ContractVille | 285577 | [285577-contractville.json](./285577-contractville.json) |
 | ContractVille: Japanese Furniture Pack | 383464 | [383464-contractville-japanese-furniture-pack.json](./383464-contractville-japanese-furniture-pack.json) |
