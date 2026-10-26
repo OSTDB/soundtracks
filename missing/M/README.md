@@ -3158,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 231741 | [231741-mario-bros.json](./231741-mario-bros.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros. | 3105 | [3105-mario-bros.json](./3105-mario-bros.json) |
+| Mario Bros. | 341959 | [341959-mario-bros.json](./341959-mario-bros.json) |
 | Mario Bros. | 363314 | [363314-mario-bros.json](./363314-mario-bros.json) |
 | Mario Bros. | 367845 | [367845-mario-bros.json](./367845-mario-bros.json) |
 | Mario Bros. 2018 | 311348 | [311348-mario-bros-2018.json](./311348-mario-bros-2018.json) |
@@ -3165,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. Mayhem | 413896 | [413896-mario-bros-mayhem.json](./413896-mario-bros-mayhem.json) |
 | Mario Bros. Special | 132049 | [132049-mario-bros-special.json](./132049-mario-bros-special.json) |
 | Mario Bros. VB | 231513 | [231513-mario-bros-vb.json](./231513-mario-bros-vb.json) |
+| Mario Bros. VGA | 341958 | [341958-mario-bros-vga.json](./341958-mario-bros-vga.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Bros.: Lost World | 281010 | [281010-mario-bros-lost-world.json](./281010-mario-bros-lost-world.json) |
 | Mario Builder | 323745 | [323745-mario-builder.json](./323745-mario-builder.json) |
@@ -8950,6 +8952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Trans Actions | 176938 | [176938-micro-trans-actions.json](./176938-micro-trans-actions.json) |
 | Micro Vendor Adventures | 110796 | [110796-micro-vendor-adventures.json](./110796-micro-vendor-adventures.json) |
 | Micro Wars | 314450 | [314450-micro-wars.json](./314450-micro-wars.json) |
+| Micro Wars | 341963 | [341963-micro-wars.json](./341963-micro-wars.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
