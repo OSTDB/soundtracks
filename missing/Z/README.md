@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 2.3 - Memories of Dreams Bygone | 371753 | [371753-zenless-zone-zero-update-2-3-memories-of-dreams-bygone.json](./371753-zenless-zone-zero-update-2-3-memories-of-dreams-bygone.json) |
 | Zenless Zone Zero: Update 2.4 - On the Precipice of the Abyss | 377975 | [377975-zenless-zone-zero-update-2-4-on-the-precipice-of-the-abyss.json](./377975-zenless-zone-zero-update-2-4-on-the-precipice-of-the-abyss.json) |
 | Zenless Zone Zero: Update 2.5 - To Be Fuel for the Night | 381220 | [381220-zenless-zone-zero-update-2-5-to-be-fuel-for-the-night.json](./381220-zenless-zone-zero-update-2-5-to-be-fuel-for-the-night.json) |
+| Zenless Zone Zero: Update 2.6 - Encore for an Old Dream | 388532 | [388532-zenless-zone-zero-update-2-6-encore-for-an-old-dream.json](./388532-zenless-zone-zero-update-2-6-encore-for-an-old-dream.json) |
 | Zenless Zone Zero: Update 2.8 - New Eridan Sunset | 400497 | [400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json](./400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json) |
 | Zenless Zone Zero: Update 3.0 - A Sleepwalker's Confession | 406810 | [406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json](./406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json) |
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba: Galactic Marble Blast | 394389 | [394389-zumba-galactic-marble-blast.json](./394389-zumba-galactic-marble-blast.json) |
 | Zumba: Jurassic Marble Quest | 405921 | [405921-zumba-jurassic-marble-quest.json](./405921-zumba-jurassic-marble-quest.json) |
 | Zumba: Magical Marble Saga | 417284 | [417284-zumba-magical-marble-saga.json](./417284-zumba-magical-marble-saga.json) |
+| Zumba: Marble Candy Rush | 385172 | [385172-zumba-marble-candy-rush.json](./385172-zumba-marble-candy-rush.json) |
 | Zumba: Marble Jungle Adventure | 410365 | [410365-zumba-marble-jungle-adventure.json](./410365-zumba-marble-jungle-adventure.json) |
 | Zumba: Soccer Marble League | 364083 | [364083-zumba-soccer-marble-league.json](./364083-zumba-soccer-marble-league.json) |
 | Zumba: The Marble Shooter Tikki Adventure | 329421 | [329421-zumba-the-marble-shooter-tikki-adventure.json](./329421-zumba-the-marble-shooter-tikki-adventure.json) |
