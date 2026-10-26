@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark and Light: Shard of Faith | 170970 | [170970-dark-and-light-shard-of-faith.json](./170970-dark-and-light-shard-of-faith.json) |
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
+| Dark Angels | 347041 | [347041-dark-angels.json](./347041-dark-angels.json) |
 | Dark Angels: Masquerade of Shadows | 30383 | [30383-dark-angels-masquerade-of-shadows.json](./30383-dark-angels-masquerade-of-shadows.json) |
 | Dark Apes: The Fate of Devolution | 52513 | [52513-dark-apes-the-fate-of-devolution.json](./52513-dark-apes-the-fate-of-devolution.json) |
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
@@ -7431,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig | 304283 | [304283-dig.json](./304283-dig.json) |
 | Dig | 333199 | [333199-dig.json](./333199-dig.json) |
 | Dig 'em | 181551 | [181551-dig-em.json](./181551-dig-em.json) |
+| Dig & Deal | 347070 | [347070-dig-and-deal.json](./347070-dig-and-deal.json) |
 | Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
 | Dig 4 Destruction | 31981 | [31981-dig-4-destruction.json](./31981-dig-4-destruction.json) |
 | Dig a Road | 310048 | [310048-dig-a-road.json](./310048-dig-a-road.json) |
@@ -13808,6 +13810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifter King Online | 133358 | [133358-drifter-king-online.json](./133358-drifter-king-online.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
+| Drifters & Demons | 347023 | [347023-drifters-and-demons.json](./347023-drifters-and-demons.json) |
 | Drifters Don't Brake: Midnight | 392002 | [392002-drifters-dont-brake-midnight.json](./392002-drifters-dont-brake-midnight.json) |
 | Drifters Loot the Galaxy | 138705 | [138705-drifters-loot-the-galaxy.json](./138705-drifters-loot-the-galaxy.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
@@ -15820,6 +15823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusttale: The Murderous Comedy | 320339 | [320339-dusttale-the-murderous-comedy.json](./320339-dusttale-the-murderous-comedy.json) |
 | Dusttrust X | 329675 | [329675-dusttrust-x.json](./329675-dusttrust-x.json) |
 | Dustwind | 76127 | [76127-dustwind.json](./76127-dustwind.json) |
+| Dustwind: Resistance | 347081 | [347081-dustwind-resistance.json](./347081-dustwind-resistance.json) |
 | Dustwind: The Last Resort | 171988 | [171988-dustwind-the-last-resort.json](./171988-dustwind-the-last-resort.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty Crib | 272996 | [272996-dusty-crib.json](./272996-dusty-crib.json) |
