@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Roll | 110908 | [110908-one-more-roll.json](./110908-one-more-roll.json) |
 | One More Run | 338534 | [338534-one-more-run.json](./338534-one-more-run.json) |
 | One More Shooter Game | 271609 | [271609-one-more-shooter-game.json](./271609-one-more-shooter-game.json) |
+| One More Shot: Showdown | 335199 | [335199-one-more-shot-showdown.json](./335199-one-more-shot-showdown.json) |
 | One More Sleep | 177857 | [177857-one-more-sleep.json](./177857-one-more-sleep.json) |
 | One More Spin | 384495 | [384495-one-more-spin.json](./384495-one-more-spin.json) |
 | One More Step | 164236 | [164236-one-more-step.json](./164236-one-more-step.json) |
@@ -4684,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverBite | 184753 | [184753-overbite.json](./184753-overbite.json) |
 | OverBlood 2 | 20000 | [20000-overblood-2.json](./20000-overblood-2.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
+| Overboard! & Expelled! | 335184 | [335184-overboard-and-expelled.json](./335184-overboard-and-expelled.json) |
 | Overbold | 318728 | [318728-overbold.json](./318728-overbold.json) |
 | Overbooked | 413044 | [413044-overbooked.json](./413044-overbooked.json) |
 | Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
