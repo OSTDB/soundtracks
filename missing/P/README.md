@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiSurvival | 87248 | [87248-papisurvival.json](./87248-papisurvival.json) |
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | PapiWall | 87122 | [87122-papiwall.json](./87122-papiwall.json) |
+| Paplinko | 356139 | [356139-paplinko.json](./356139-paplinko.json) |
 | Paplion | 306428 | [306428-paplion.json](./306428-paplion.json) |
 | Papo City Builder | 299225 | [299225-papo-city-builder.json](./299225-papo-city-builder.json) |
 | Papo City: Hospital | 299238 | [299238-papo-city-hospital.json](./299238-papo-city-hospital.json) |
@@ -10923,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apocalyptic Petra | 185377 | [185377-post-apocalyptic-petra.json](./185377-post-apocalyptic-petra.json) |
 | Post Brutal | 56263 | [56263-post-brutal.json](./56263-post-brutal.json) |
 | Post Cards | 142994 | [142994-post-cards.json](./142994-post-cards.json) |
+| Post Finem | 356001 | [356001-post-finem.json](./356001-post-finem.json) |
 | Post fur Ritter Rost | 187121 | [187121-post-fur-ritter-rost.json](./187121-post-fur-ritter-rost.json) |
 | Post Ghost | 307717 | [307717-post-ghost.json](./307717-post-ghost.json) |
 | Post Haste | 111881 | [111881-post-haste.json](./111881-post-haste.json) |
