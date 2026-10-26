@@ -8100,8 +8100,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Battle of Ninja | 32948 | [32948-diorama-battle-of-ninja.json](./32948-diorama-battle-of-ninja.json) |
 | Diorama Break | 398554 | [398554-diorama-break.json](./398554-diorama-break.json) |
 | Diorama Builder | 161403 | [161403-diorama-builder.json](./161403-diorama-builder.json) |
+| Diorama Builder: Mars Colony | 357157 | [357157-diorama-builder-mars-colony.json](./357157-diorama-builder-mars-colony.json) |
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Builder: Noir City | 293521 | [293521-diorama-builder-noir-city.json](./293521-diorama-builder-noir-city.json) |
+| Diorama Builder: Secret Bunker | 357156 | [357156-diorama-builder-secret-bunker.json](./357156-diorama-builder-secret-bunker.json) |
+| Diorama Builder: The Museum | 357154 | [357154-diorama-builder-the-museum.json](./357154-diorama-builder-the-museum.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Diorama No.1 - Blocked In | 33799 | [33799-diorama-no-1-blocked-in.json](./33799-diorama-no-1-blocked-in.json) |
 | Diorama No.3 : The Marchland | 33798 | [33798-diorama-no-3-the-marchland.json](./33798-diorama-no-3-the-marchland.json) |
@@ -11078,6 +11081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doppelganger: Dawn of the Inverted Souls | 61306 | [61306-doppelganger-dawn-of-the-inverted-souls.json](./61306-doppelganger-dawn-of-the-inverted-souls.json) |
+| Doppelpartment | 357126 | [357126-doppelpartment.json](./357126-doppelpartment.json) |
 | Doppelpass | 94402 | [94402-doppelpass.json](./94402-doppelpass.json) |
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
 | DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
@@ -13453,6 +13457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Canvas | 123304 | [123304-dreaming-canvas.json](./123304-dreaming-canvas.json) |
 | Dreaming Chicken | 258041 | [258041-dreaming-chicken.json](./258041-dreaming-chicken.json) |
 | Dreaming Diorama | 253492 | [253492-dreaming-diorama.json](./253492-dreaming-diorama.json) |
+| Dreaming in Cherry Blossoms, I Fall in Love With You | 357142 | [357142-dreaming-in-cherry-blossoms-i-fall-in-love-with-you.json](./357142-dreaming-in-cherry-blossoms-i-fall-in-love-with-you.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
 | Dreaming Mary | 58386 | [58386-dreaming-mary.json](./58386-dreaming-mary.json) |
 | Dreaming of You | 184924 | [184924-dreaming-of-you.json](./184924-dreaming-of-you.json) |
