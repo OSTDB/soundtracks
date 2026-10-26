@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Qún Jiàng Zhuàn | 368105 | [368105-sanguo-qun-jiang-zhuan.json](./368105-sanguo-qun-jiang-zhuan.json) |
 | Sānguó Qúnyīng | 308916 | [308916-sanguo-qunying.json](./308916-sanguo-qunying.json) |
 | Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
+| Sānguó Qúnyīng Zhànlüè Bǎn | 368459 | [368459-sanguo-qunying-zhanlue-ban.json](./368459-sanguo-qunying-zhanlue-ban.json) |
 | Sānguó Qúnyīng Zhuán | 143495 | [143495-sanguo-qunying-zhuan.json](./143495-sanguo-qunying-zhuan.json) |
 | Sānguó Qúnyīng Zhuàn | 369357 | [369357-sanguo-qunying-zhuan.json](./369357-sanguo-qunying-zhuan.json) |
 | Sānguó Qúnyīng Zhuán IV | 143505 | [143505-sanguo-qunying-zhuan-iv.json](./143505-sanguo-qunying-zhuan-iv.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolboy Escape 2: Village | 345251 | [345251-schoolboy-escape-2-village.json](./345251-schoolboy-escape-2-village.json) |
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
 | SchoolBoy OutDoors | 410669 | [410669-schoolboy-outdoors.json](./410669-schoolboy-outdoors.json) |
+| Schoolboy SIM | 368463 | [368463-schoolboy-sim.json](./368463-schoolboy-sim.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
 | Schoolbreak.io | 148266 | [148266-schoolbreak-io.json](./148266-schoolbreak-io.json) |
 | SchoolGirl AI 3D Anime Sandbox | 296761 | [296761-schoolgirl-ai-3d-anime-sandbox.json](./296761-schoolgirl-ai-3d-anime-sandbox.json) |
@@ -5161,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Dorm | 349868 | [349868-sex-dorm.json](./349868-sex-dorm.json) |
 | Sex Drive | 276044 | [276044-sex-drive.json](./276044-sex-drive.json) |
 | Sex Education | 322714 | [322714-sex-education.json](./322714-sex-education.json) |
+| Sex Empire: Episode 1 | 368533 | [368533-sex-empire-episode-1.json](./368533-sex-empire-episode-1.json) |
 | Sex Escape: Ecstasies of Two | 83169 | [83169-sex-escape-ecstasies-of-two.json](./83169-sex-escape-ecstasies-of-two.json) |
 | Sex Game - BDSM - Episode 1 | 382157 | [382157-sex-game-bdsm-episode-1.json](./382157-sex-game-bdsm-episode-1.json) |
 | Sex Game - BDSM - Episode 3 | 382155 | [382155-sex-game-bdsm-episode-3.json](./382155-sex-game-bdsm-episode-3.json) |
@@ -10573,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skye Tales | 204532 | [204532-skye-tales.json](./204532-skye-tales.json) |
 | Skye: The Misty Isle | 163459 | [163459-skye-the-misty-isle.json](./163459-skye-the-misty-isle.json) |
 | Skye's Repose | 413705 | [413705-skyes-repose.json](./413705-skyes-repose.json) |
+| Skyeisle Cube | 368584 | [368584-skyeisle-cube.json](./368584-skyeisle-cube.json) |
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
 | SkyFactory 3 | 360610 | [360610-skyfactory-3.json](./360610-skyfactory-3.json) |
 | SkyFactory 4 | 204695 | [204695-skyfactory-4.json](./204695-skyfactory-4.json) |
@@ -13932,6 +13936,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Knights Left | 179497 | [179497-some-knights-left.json](./179497-some-knights-left.json) |
 | Some Like It Hot: Chapter 0 | 135051 | [135051-some-like-it-hot-chapter-0.json](./135051-some-like-it-hot-chapter-0.json) |
 | Some Munnings | 305899 | [305899-some-munnings.json](./305899-some-munnings.json) |
+| Some Nights at Joe's | 368437 | [368437-some-nights-at-joes.json](./368437-some-nights-at-joes.json) |
+| Some Nights at Joe's Remake | 368439 | [368439-some-nights-at-joes-remake.json](./368439-some-nights-at-joes-remake.json) |
 | Some of You May Die | 383466 | [383466-some-of-you-may-die.json](./383466-some-of-you-may-die.json) |
 | Some Old Stuff | 147300 | [147300-some-old-stuff.json](./147300-some-old-stuff.json) |
 | Some Peace of Mind | 144108 | [144108-some-peace-of-mind.json](./144108-some-peace-of-mind.json) |
@@ -15285,6 +15291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Calibur ~Defiled Soul~ | 59179 | [59179-soul-calibur-defiled-soul.json](./59179-soul-calibur-defiled-soul.json) |
 | Soul Calibur ~Inko Jutai~ | 59180 | [59180-soul-calibur-inko-jutai.json](./59180-soul-calibur-inko-jutai.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
+| Soul Calibur: Swords of Destiny | 368445 | [368445-soul-calibur-swords-of-destiny.json](./368445-soul-calibur-swords-of-destiny.json) |
 | Soul Card Duel | 390154 | [390154-soul-card-duel.json](./390154-soul-card-duel.json) |
 | Soul Catcher | 169721 | [169721-soul-catcher.json](./169721-soul-catcher.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
@@ -18058,6 +18065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Path | 213998 | [213998-spin-path.json](./213998-spin-path.json) |
 | Spin Path 2 | 394554 | [394554-spin-path-2.json](./394554-spin-path-2.json) |
 | Spin Poker | 95325 | [95325-spin-poker.json](./95325-spin-poker.json) |
+| SPIN Protocol | 368585 | [368585-spin-protocol.json](./368585-spin-protocol.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin Rhythm | 107592 | [107592-spin-rhythm.json](./107592-spin-rhythm.json) |
 | Spin Rhythm XD | 122416 | [122416-spin-rhythm-xd.json](./122416-spin-rhythm-xd.json) |
@@ -21437,6 +21445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay! Stay! Democratic People's Republic of Korea | 28861 | [28861-stay-stay-democratic-peoples-republic-of-korea.json](./28861-stay-stay-democratic-peoples-republic-of-korea.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
+| Stayhome Simulator | 368434 | [368434-stayhome-simulator.json](./368434-stayhome-simulator.json) |
 | Staying Fresh | 292364 | [292364-staying-fresh.json](./292364-staying-fresh.json) |
 | Staying Together | 129647 | [129647-staying-together.json](./129647-staying-together.json) |
 | STCC 2: The Game | 62410 | [62410-stcc-2-the-game.json](./62410-stcc-2-the-game.json) |
@@ -29160,6 +29169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Tank | 392922 | [392922-sweet-tank.json](./392922-sweet-tank.json) |
 | Sweet Tavern | 339435 | [339435-sweet-tavern.json](./339435-sweet-tavern.json) |
 | Sweet Tea Tycoon | 410305 | [410305-sweet-tea-tycoon.json](./410305-sweet-tea-tycoon.json) |
+| Sweet Theme Park | 368530 | [368530-sweet-theme-park.json](./368530-sweet-theme-park.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
 | Sweet Time | 156611 | [156611-sweet-time.json](./156611-sweet-time.json) |
 | Sweet Time | 280236 | [280236-sweet-time.json](./280236-sweet-time.json) |
