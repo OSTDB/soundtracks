@@ -3227,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's for Dinner? | 363045 | [363045-whats-for-dinner.json](./363045-whats-for-dinner.json) |
 | What's Her face | 201271 | [201271-whats-her-face.json](./201271-whats-her-face.json) |
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
+| What’s in the Box? | 383452 | [383452-what-s-in-the-box.json](./383452-what-s-in-the-box.json) |
 | What's in the Picture: Animals | 23983 | [23983-whats-in-the-picture-animals.json](./23983-whats-in-the-picture-animals.json) |
 | What's Inside?? | 149467 | [149467-whats-inside.json](./149467-whats-inside.json) |
 | What's it? Flags | 241194 | [241194-whats-it-flags.json](./241194-whats-it-flags.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
 | Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
+| Wireworks | 383442 | [383442-wireworks.json](./383442-wireworks.json) |
 | Wirm | 366589 | [366589-wirm.json](./366589-wirm.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wisdom | 149196 | [149196-wisdom.json](./149196-wisdom.json) |
