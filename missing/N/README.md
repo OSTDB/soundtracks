@@ -4684,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro | 12188 | [12188-nitro.json](./12188-nitro.json) |
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
 | Nitro Ball | 40983 | [40983-nitro-ball.json](./40983-nitro-ball.json) |
+| Nitro Battle Racing | 350900 | [350900-nitro-battle-racing.json](./350900-nitro-battle-racing.json) |
 | Nitro Boost Challenge | 72624 | [72624-nitro-boost-challenge.json](./72624-nitro-boost-challenge.json) |
 | Nitro Champagne Tower | 309950 | [309950-nitro-champagne-tower.json](./309950-nitro-champagne-tower.json) |
 | Nitro City Racing | 397875 | [397875-nitro-city-racing.json](./397875-nitro-city-racing.json) |
@@ -5374,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nojong | 184380 | [184380-nojong.json](./184380-nojong.json) |
 | Nok | 258362 | [258362-nok.json](./258362-nok.json) |
 | Nokbak | 55222 | [55222-nokbak.json](./55222-nokbak.json) |
+| Nokia Bowling | 350927 | [350927-nokia-bowling.json](./350927-nokia-bowling.json) |
 | Nokia Hero | 362861 | [362861-nokia-hero.json](./362861-nokia-hero.json) |
 | Nokia World | 153768 | [153768-nokia-world.json](./153768-nokia-world.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
@@ -6572,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyx Legacy | 387508 | [387508-nyx-legacy.json](./387508-nyx-legacy.json) |
 | NYX x Barbie: The Movie | 256453 | [256453-nyx-x-barbie-the-movie.json](./256453-nyx-x-barbie-the-movie.json) |
 | NYX: The Awakening | 122055 | [122055-nyx-the-awakening.json](./122055-nyx-the-awakening.json) |
+| Nyxerion | 350902 | [350902-nyxerion.json](./350902-nyxerion.json) |
 | NyxQuest: Kindred Spirits | 10262 | [10262-nyxquest-kindred-spirits.json](./10262-nyxquest-kindred-spirits.json) |
 | NYXverse.AI | 381586 | [381586-nyxverse-ai.json](./381586-nyxverse-ai.json) |
 | Nyyo | 210569 | [210569-nyyo.json](./210569-nyyo.json) |
