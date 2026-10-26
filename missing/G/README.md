@@ -9052,6 +9052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfire Reborn: Artisan and Magician | 270764 | [270764-gunfire-reborn-artisan-and-magician.json](./270764-gunfire-reborn-artisan-and-magician.json) |
 | Gunfire Reborn: Realm of Frost and Inkwash | 316833 | [316833-gunfire-reborn-realm-of-frost-and-inkwash.json](./316833-gunfire-reborn-realm-of-frost-and-inkwash.json) |
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
+| Gunflare Epoch | 372968 | [372968-gunflare-epoch.json](./372968-gunflare-epoch.json) |
 | GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
 | Gunflow | 302087 | [302087-gunflow.json](./302087-gunflow.json) |
 | Gunforged | 235632 | [235632-gunforged.json](./235632-gunforged.json) |
