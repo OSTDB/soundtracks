@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
 | Kiborg: Arena | 306565 | [306565-kiborg-arena.json](./306565-kiborg-arena.json) |
 | Kiborg: Descent | 393609 | [393609-kiborg-descent.json](./393609-kiborg-descent.json) |
+| Kibus Moon Rock | 357146 | [357146-kibus-moon-rock.json](./357146-kibus-moon-rock.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
 | Kichikuou Rance | 132645 | [132645-kichikuou-rance.json](./132645-kichikuou-rance.json) |
 | Kick and Cows | 243734 | [243734-kick-and-cows.json](./243734-kick-and-cows.json) |
@@ -2339,7 +2340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4709,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kovox Pitch | 133139 | [133139-kovox-pitch.json](./133139-kovox-pitch.json) |
 | Kowai Mono ni ha Futa wo Shiro | 307837 | [307837-kowai-mono-ni-ha-futa-wo-shiro.json](./307837-kowai-mono-ni-ha-futa-wo-shiro.json) |
 | Kowai Shashin: Shinrei Shashin Kitan | 137561 | [137561-kowai-shashin-shinrei-shashin-kitan.json](./137561-kowai-shashin-shinrei-shashin-kitan.json) |
+| Kowakunai Celebration | 357159 | [357159-kowakunai-celebration.json](./357159-kowakunai-celebration.json) |
 | Kowalski | 388367 | [388367-kowalski.json](./388367-kowalski.json) |
 | Kowareta Sekai wo Kimi to Iku | 285870 | [285870-kowareta-sekai-wo-kimi-to-iku.json](./285870-kowareta-sekai-wo-kimi-to-iku.json) |
 | Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
