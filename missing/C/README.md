@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards from the West | 219221 | [219221-cards-from-the-west.json](./219221-cards-from-the-west.json) |
 | Cards Infinity | 187836 | [187836-cards-infinity.json](./187836-cards-infinity.json) |
 | Cards Lie | 390487 | [390487-cards-lie.json](./390487-cards-lie.json) |
+| Cards n' Varmints | 349750 | [349750-cards-n-varmints.json](./349750-cards-n-varmints.json) |
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
 | Cards of Calling | 422144 | [422144-cards-of-calling.json](./422144-cards-of-calling.json) |
@@ -7274,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinemoji: Halloween | 181036 | [181036-cinemoji-halloween.json](./181036-cinemoji-halloween.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
+| Cinescape VR | 349754 | [349754-cinescape-vr.json](./349754-cinescape-vr.json) |
 | Cinicross | 367828 | [367828-cinicross.json](./367828-cinicross.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
@@ -14510,6 +14512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
 | Crimzon Clover: World Ignition | 8763 | [8763-crimzon-clover-world-ignition.json](./8763-crimzon-clover-world-ignition.json) |
+| Crinchure Collector | 349799 | [349799-crinchure-collector.json](./349799-crinchure-collector.json) |
 | Cringegolf | 296386 | [296386-cringegolf.json](./296386-cringegolf.json) |
 | Crion World | 62591 | [62591-crion-world.json](./62591-crion-world.json) |
 | Criptotamagothic Lite | 250500 | [250500-criptotamagothic-lite.json](./250500-criptotamagothic-lite.json) |
@@ -15380,6 +15383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptantCrab | 110043 | [110043-cryptantcrab.json](./110043-cryptantcrab.json) |
 | Cryptark | 13365 | [13365-cryptark.json](./13365-cryptark.json) |
 | CryptaSync Cyber: Urban Depths | 271111 | [271111-cryptasync-cyber-urban-depths.json](./271111-cryptasync-cyber-urban-depths.json) |
+| Cryptbound | 349773 | [349773-cryptbound.json](./349773-cryptbound.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
