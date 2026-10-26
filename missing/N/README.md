@@ -1425,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromasser | 56311 | [56311-necromasser.json](./56311-necromasser.json) |
 | Necromaster | 382585 | [382585-necromaster.json](./382585-necromaster.json) |
 | Necromental | 363318 | [363318-necromental.json](./363318-necromental.json) |
+| NecroMerc | 348150 | [348150-necromerc.json](./348150-necromerc.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
 | Necromunda: Hired Gun - Gang Wars Cosmetics Bundle | 223535 | [223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json](./223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoCandy | 109900 | [109900-neocandy.json](./109900-neocandy.json) |
 | NeoCars | 258324 | [258324-neocars.json](./258324-neocars.json) |
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
+| Neoclassical: Chromaticist | 348133 | [348133-neoclassical-chromaticist.json](./348133-neoclassical-chromaticist.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
 | Neocon Tower Defence 3 | 297157 | [297157-neocon-tower-defence-3.json](./297157-neocon-tower-defence-3.json) |
 | NeoCore: Dark Depths | 140877 | [140877-neocore-dark-depths.json](./140877-neocore-dark-depths.json) |
