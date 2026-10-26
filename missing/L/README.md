@@ -5352,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Books: The Cat in the Hat | 254971 | [254971-living-books-the-cat-in-the-hat.json](./254971-living-books-the-cat-in-the-hat.json) |
 | Living Cell | 253399 | [253399-living-cell.json](./253399-living-cell.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
+| Living Dead House | 365730 | [365730-living-dead-house.json](./365730-living-dead-house.json) |
 | Living Dolls Rebirth Alpha | 270030 | [270030-living-dolls-rebirth-alpha.json](./270030-living-dolls-rebirth-alpha.json) |
 | Living in 2020 | 368909 | [368909-living-in-2020.json](./368909-living-in-2020.json) |
 | Living in a Brothel | 304293 | [304293-living-in-a-brothel.json](./304293-living-in-a-brothel.json) |
@@ -6750,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Space: The First Adventure | 197549 | [197549-lost-in-space-the-first-adventure.json](./197549-lost-in-space-the-first-adventure.json) |
 | Lost In Static | 319080 | [319080-lost-in-static.json](./319080-lost-in-static.json) |
 | Lost In Sweets | 126525 | [126525-lost-in-sweets.json](./126525-lost-in-sweets.json) |
+| Lost in Tandem | 365622 | [365622-lost-in-tandem.json](./365622-lost-in-tandem.json) |
 | Lost in Terra Mora | 152464 | [152464-lost-in-terra-mora.json](./152464-lost-in-terra-mora.json) |
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
 | Lost in the Backrooms | 121274 | [121274-lost-in-the-backrooms.json](./121274-lost-in-the-backrooms.json) |
@@ -7995,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumen | 292608 | [292608-lumen.json](./292608-lumen.json) |
 | Lumen Race | 370776 | [370776-lumen-race.json](./370776-lumen-race.json) |
 | Lumen Rider | 256749 | [256749-lumen-rider.json](./256749-lumen-rider.json) |
+| Lumen: The Last Hope | 365612 | [365612-lumen-the-last-hope.json](./365612-lumen-the-last-hope.json) |
 | Lumen. | 124596 | [124596-lumen.json](./124596-lumen.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
 | LumenTale: Memories of Trey | 231484 | [231484-lumentale-memories-of-trey.json](./231484-lumentale-memories-of-trey.json) |
@@ -8014,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumin's Path | 127712 | [127712-lumins-path.json](./127712-lumins-path.json) |
 | Lumina | 119091 | [119091-lumina.json](./119091-lumina.json) |
 | Lumina | 347889 | [347889-lumina.json](./347889-lumina.json) |
+| Luminaria | 365602 | [365602-luminaria.json](./365602-luminaria.json) |
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
 | Luminary | 152498 | [152498-luminary.json](./152498-luminary.json) |
 | Luminas: Parasite Reign | 377204 | [377204-luminas-parasite-reign.json](./377204-luminas-parasite-reign.json) |
