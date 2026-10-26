@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakumatsu Roman Tokubetsu-hen: Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana | 94604 | [94604-bakumatsu-roman-tokubetsu-hen-gekka-no-kenshi-tsuki-ni-saku-hana-chiri-yuku-hana.json](./94604-bakumatsu-roman-tokubetsu-hen-gekka-no-kenshi-tsuki-ni-saku-hana-chiri-yuku-hana.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
 | Bakumatsu-shishi no Renai Jijou | 163229 | [163229-bakumatsu-shishi-no-renai-jijou.json](./163229-bakumatsu-shishi-no-renai-jijou.json) |
+| Bakumori Dining | 341996 | [341996-bakumori-dining.json](./341996-bakumori-dining.json) |
 | Bakunyuu Reijou x Kimo-o Hentai Yome-ka Keikaku: Keppeki Cool Kaichou ga Saikasou no Kusa Kimo Seishi Chuudoku ni! | 280698 | [280698-bakunyuu-reijou-x-kimo-o-hentai-yome-ka-keikaku-keppeki-cool-kaichou-ga-saikasou-no-kusa-kimo-seishi-chuudoku-ni.json](./280698-bakunyuu-reijou-x-kimo-o-hentai-yome-ka-keikaku-keppeki-cool-kaichou-ga-saikasou-no-kusa-kimo-seishi-chuudoku-ni.json) |
 | Bakuretsu Breaker | 40269 | [40269-bakuretsu-breaker.json](./40269-bakuretsu-breaker.json) |
 | Bakuretsu Hunter | 45423 | [45423-bakuretsu-hunter.json](./45423-bakuretsu-hunter.json) |
@@ -4620,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beater: Apocal Undone | 290492 | [290492-beater-apocal-undone.json](./290492-beater-apocal-undone.json) |
 | Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
 | BeatEVO YG | 74785 | [74785-beatevo-yg.json](./74785-beatevo-yg.json) |
+| Beatfinder | 341983 | [341983-beatfinder.json](./341983-beatfinder.json) |
 | Beatification | 207143 | [207143-beatification.json](./207143-beatification.json) |
 | Beating A Dead Horse With A One-Trick Pony | 111508 | [111508-beating-a-dead-horse-with-a-one-trick-pony.json](./111508-beating-a-dead-horse-with-a-one-trick-pony.json) |
 | BeatJunkies | 168134 | [168134-beatjunkies.json](./168134-beatjunkies.json) |
@@ -7989,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
 | Blacksmith: Dark Times | 105012 | [105012-blacksmith-dark-times.json](./105012-blacksmith-dark-times.json) |
+| Blacksmith: Ignite the Forge | 341984 | [341984-blacksmith-ignite-the-forge.json](./341984-blacksmith-ignite-the-forge.json) |
 | Blacksmith's Master | 184895 | [184895-blacksmiths-master.json](./184895-blacksmiths-master.json) |
 | BlackSoul | 50314 | [50314-blacksoul.json](./50314-blacksoul.json) |
 | BlackSpace | 93497 | [93497-blackspace.json](./93497-blackspace.json) |
@@ -8418,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazer | 46842 | [46842-blazer.json](./46842-blazer.json) |
 | Blazer Drive | 70575 | [70575-blazer-drive.json](./70575-blazer-drive.json) |
 | BlazeRush | 14567 | [14567-blazerush.json](./14567-blazerush.json) |
+| BlazeRush: Star Track | 341992 | [341992-blazerush-star-track.json](./341992-blazerush-star-track.json) |
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing 8s | 254426 | [254426-blazing-8s.json](./254426-blazing-8s.json) |
