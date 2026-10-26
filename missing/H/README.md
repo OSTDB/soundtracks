@@ -7451,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowed | 68568 | [68568-hollowed.json](./68568-hollowed.json) |
 | Hollowed Oath | 400395 | [400395-hollowed-oath.json](./400395-hollowed-oath.json) |
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
+| Hollowing | 350354 | [350354-hollowing.json](./350354-hollowing.json) |
 | Hollowmoor | 217328 | [217328-hollowmoor.json](./217328-hollowmoor.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
 | Hollowpoint | 7607 | [7607-hollowpoint.json](./7607-hollowpoint.json) |
