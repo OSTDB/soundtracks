@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranoihell | 123826 | [123826-paranoihell.json](./123826-paranoihell.json) |
 | Paranoir | 354639 | [354639-paranoir.json](./354639-paranoir.json) |
+| Paranormal '98 | 376489 | [376489-paranormal-98.json](./376489-paranormal-98.json) |
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
 | Paranormal Activity: The VR Game | 25626 | [25626-paranormal-activity-the-vr-game.json](./25626-paranormal-activity-the-vr-game.json) |
 | Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
@@ -6219,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippu: Bauble Quest | 165602 | [165602-pippu-bauble-quest.json](./165602-pippu-bauble-quest.json) |
 | Pips | 362932 | [362932-pips.json](./362932-pips.json) |
 | Pipsqueak! | 304306 | [304306-pipsqueak.json](./304306-pipsqueak.json) |
+| PiPu Party | 376494 | [376494-pipu-party.json](./376494-pipu-party.json) |
 | Pipyakas | 216396 | [216396-pipyakas.json](./216396-pipyakas.json) |
 | Piquant Bathing | 111575 | [111575-piquant-bathing.json](./111575-piquant-bathing.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
@@ -8548,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Knights 2 | 54715 | [54715-pocket-knights-2.json](./54715-pocket-knights-2.json) |
 | Pocket Kyoro-chan | 354959 | [354959-pocket-kyoro-chan.json](./354959-pocket-kyoro-chan.json) |
 | Pocket Lands | 183473 | [183473-pocket-lands.json](./183473-pocket-lands.json) |
+| Pocket Lands | 377647 | [377647-pocket-lands.json](./377647-pocket-lands.json) |
 | Pocket Legend | 322144 | [322144-pocket-legend.json](./322144-pocket-legend.json) |
 | Pocket Legends Adventures | 77609 | [77609-pocket-legends-adventures.json](./77609-pocket-legends-adventures.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
@@ -11867,6 +11870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Reign: The Age of New Kings | 387152 | [387152-primal-reign-the-age-of-new-kings.json](./387152-primal-reign-the-age-of-new-kings.json) |
 | Primal Rift | 250810 | [250810-primal-rift.json](./250810-primal-rift.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
+| Primal Rumble | 377654 | [377654-primal-rumble.json](./377654-primal-rumble.json) |
 | Primal Slideee | 336669 | [336669-primal-slideee.json](./336669-primal-slideee.json) |
 | Primal Survival | 391773 | [391773-primal-survival.json](./391773-primal-survival.json) |
 | Primal Survival Wars | 310150 | [310150-primal-survival-wars.json](./310150-primal-survival-wars.json) |
@@ -15418,6 +15422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for Toddlers & Kids: Animals, Cars and more | 147707 | [147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json](./147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json) |
 | Puzzles Forest | 414496 | [414496-puzzles-forest.json](./414496-puzzles-forest.json) |
 | Puzzles of the Paladin | 289168 | [289168-puzzles-of-the-paladin.json](./289168-puzzles-of-the-paladin.json) |
+| Puzzles of the World | 377645 | [377645-puzzles-of-the-world.json](./377645-puzzles-of-the-world.json) |
 | Puzzles with Cats | 159551 | [159551-puzzles-with-cats.json](./159551-puzzles-with-cats.json) |
 | Puzzles with Nature | 203795 | [203795-puzzles-with-nature.json](./203795-puzzles-with-nature.json) |
 | Puzzles: Dog | 414499 | [414499-puzzles-dog.json](./414499-puzzles-dog.json) |
