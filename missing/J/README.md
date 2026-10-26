@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelli Nook | 349097 | [349097-jelli-nook.json](./349097-jelli-nook.json) |
 | Jellies of the Deep | 309895 | [309895-jellies-of-the-deep.json](./309895-jellies-of-the-deep.json) |
 | Jellies! | 221430 | [221430-jellies.json](./221430-jellies.json) |
+| Jelliet the Slime Girl | 349768 | [349768-jelliet-the-slime-girl.json](./349768-jelliet-the-slime-girl.json) |
 | Jellipop Match | 214104 | [214104-jellipop-match.json](./214104-jellipop-match.json) |
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jello | 200353 | [200353-jello.json](./200353-jello.json) |
@@ -3160,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
 | Junkyard Saints: Scrapstorm | 405930 | [405930-junkyard-saints-scrapstorm.json](./405930-junkyard-saints-scrapstorm.json) |
 | Junkyard Space Agency | 356045 | [356045-junkyard-space-agency.json](./356045-junkyard-space-agency.json) |
+| Junkyard Universe | 349753 | [349753-junkyard-universe.json](./349753-junkyard-universe.json) |
 | Junkyard War | 207557 | [207557-junkyard-war.json](./207557-junkyard-war.json) |
 | Junkybots | 292959 | [292959-junkybots.json](./292959-junkybots.json) |
 | Juno | 150416 | [150416-juno.json](./150416-juno.json) |
