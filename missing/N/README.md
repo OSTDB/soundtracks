@@ -6111,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NRA Gun Club | 20575 | [20575-nra-gun-club.json](./20575-nra-gun-club.json) |
 | NRA High Power Competition | 67835 | [67835-nra-high-power-competition.json](./67835-nra-high-power-competition.json) |
 | NRA Varmint Hunter | 67834 | [67834-nra-varmint-hunter.json](./67834-nra-varmint-hunter.json) |
+| Nrem | 349755 | [349755-nrem.json](./349755-nrem.json) |
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
 | NRL Mascot Mania | 124026 | [124026-nrl-mascot-mania.json](./124026-nrl-mascot-mania.json) |
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
