@@ -8131,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest Cathedral | 132496 | [132496-the-forest-cathedral.json](./132496-the-forest-cathedral.json) |
 | The Forest Cries | 185101 | [185101-the-forest-cries.json](./185101-the-forest-cries.json) |
 | The Forest Keeper | 370190 | [370190-the-forest-keeper.json](./370190-the-forest-keeper.json) |
+| The Forest of Black Eden | 348146 | [348146-the-forest-of-black-eden.json](./348146-the-forest-of-black-eden.json) |
 | The Forest of Doom | 231461 | [231461-the-forest-of-doom.json](./231461-the-forest-of-doom.json) |
 | The Forest of Noise | 362798 | [362798-the-forest-of-noise.json](./362798-the-forest-of-noise.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
@@ -27945,6 +27946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Sedans Driving Simulator | 195618 | [195618-two-sedans-driving-simulator.json](./195618-two-sedans-driving-simulator.json) |
 | Two Sides of Hell | 301701 | [301701-two-sides-of-hell.json](./301701-two-sides-of-hell.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
+| Two Sides: Voyage to the Mainland | 348134 | [348134-two-sides-voyage-to-the-mainland.json](./348134-two-sides-voyage-to-the-mainland.json) |
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
 | Two Slices of Love | 254986 | [254986-two-slices-of-love.json](./254986-two-slices-of-love.json) |
 | Two Smudges In Infrared | 178921 | [178921-two-smudges-in-infrared.json](./178921-two-smudges-in-infrared.json) |
