@@ -3967,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesco: Delivery Dash | 274994 | [274994-tesco-delivery-dash.json](./274994-tesco-delivery-dash.json) |
 | Tesco: Delivery Dash | 274995 | [274995-tesco-delivery-dash.json](./274995-tesco-delivery-dash.json) |
 | TESD: Into the Vortex | 289808 | [289808-tesd-into-the-vortex.json](./289808-tesd-into-the-vortex.json) |
+| Tesera | 353756 | [353756-tesera.json](./353756-tesera.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
 | Tesla Boy: Robot Time Traveller | 241826 | [241826-tesla-boy-robot-time-traveller.json](./241826-tesla-boy-robot-time-traveller.json) |
 | Tesla Breaks the World! | 17652 | [17652-tesla-breaks-the-world.json](./17652-tesla-breaks-the-world.json) |
