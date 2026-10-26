@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
 | Tabletop Defense | 363674 | [363674-tabletop-defense.json](./363674-tabletop-defense.json) |
 | Tabletop Dice | 108617 | [108617-tabletop-dice.json](./108617-tabletop-dice.json) |
+| Tabletop Fantasy War | 372426 | [372426-tabletop-fantasy-war.json](./372426-tabletop-fantasy-war.json) |
 | Tabletop Foosball | 409513 | [409513-tabletop-foosball.json](./409513-tabletop-foosball.json) |
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
 | Tabletop Gods | 111985 | [111985-tabletop-gods.json](./111985-tabletop-gods.json) |
@@ -4915,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Antaresian Spacepond | 267994 | [267994-the-antaresian-spacepond.json](./267994-the-antaresian-spacepond.json) |
 | The Anthurium | 115767 | [115767-the-anthurium.json](./115767-the-anthurium.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
+| The Anubis Treasure | 372433 | [372433-the-anubis-treasure.json](./372433-the-anubis-treasure.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apartment | 281032 | [281032-the-apartment.json](./281032-the-apartment.json) |
 | The Apartment | 81900 | [81900-the-apartment.json](./81900-the-apartment.json) |
@@ -6588,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursewood | 240720 | [240720-the-cursewood.json](./240720-the-cursewood.json) |
 | The Cursor Game | 292260 | [292260-the-cursor-game.json](./292260-the-cursor-game.json) |
 | The Customer is Always Right! | 255270 | [255270-the-customer-is-always-right.json](./255270-the-customer-is-always-right.json) |
+| The Cute the Baldy and the Fluffy | 372434 | [372434-the-cute-the-baldy-and-the-fluffy.json](./372434-the-cute-the-baldy-and-the-fluffy.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
 | The CW Quest | 58501 | [58501-the-cw-quest.json](./58501-the-cw-quest.json) |
 | The Cyber Masquerade: Summer Beach Reverie | 295340 | [295340-the-cyber-masquerade-summer-beach-reverie.json](./295340-the-cyber-masquerade-summer-beach-reverie.json) |
@@ -17055,6 +17058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throbax TD | 35952 | [35952-throbax-td.json](./35952-throbax-td.json) |
 | Throne & Conquest: King Arthur | 414549 | [414549-throne-and-conquest-king-arthur.json](./414549-throne-and-conquest-king-arthur.json) |
+| Throne Alone | 372507 | [372507-throne-alone.json](./372507-throne-alone.json) |
 | Throne and Crown | 193277 | [193277-throne-and-crown.json](./193277-throne-and-crown.json) |
 | Throne and Liberty | 117294 | [117294-throne-and-liberty.json](./117294-throne-and-liberty.json) |
 | Throne of Ages | 349119 | [349119-throne-of-ages.json](./349119-throne-of-ages.json) |
@@ -22658,6 +22662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: EDDH Airport | 396507 | [396507-tower-simulator-3-eddh-airport.json](./396507-tower-simulator-3-eddh-airport.json) |
 | Tower! Simulator 3: EDDL Airport | 396515 | [396515-tower-simulator-3-eddl-airport.json](./396515-tower-simulator-3-eddl-airport.json) |
 | Tower! Simulator 3: EDDM Airport | 353313 | [353313-tower-simulator-3-eddm-airport.json](./353313-tower-simulator-3-eddm-airport.json) |
+| Tower! Simulator 3: EDDV Airport | 372527 | [372527-tower-simulator-3-eddv-airport.json](./372527-tower-simulator-3-eddv-airport.json) |
 | Tower! Simulator 3: EGLL Airport | 257454 | [257454-tower-simulator-3-egll-airport.json](./257454-tower-simulator-3-egll-airport.json) |
 | Tower! Simulator 3: EHAM Airport | 353331 | [353331-tower-simulator-3-eham-airport.json](./353331-tower-simulator-3-eham-airport.json) |
 | Tower! Simulator 3: EHEH Airport | 396502 | [396502-tower-simulator-3-eheh-airport.json](./396502-tower-simulator-3-eheh-airport.json) |
@@ -22666,6 +22671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KAUS Airport | 353326 | [353326-tower-simulator-3-kaus-airport.json](./353326-tower-simulator-3-kaus-airport.json) |
 | Tower! Simulator 3: KBNA Airport | 353321 | [353321-tower-simulator-3-kbna-airport.json](./353321-tower-simulator-3-kbna-airport.json) |
 | Tower! Simulator 3: KBOS Airport | 353318 | [353318-tower-simulator-3-kbos-airport.json](./353318-tower-simulator-3-kbos-airport.json) |
+| Tower! Simulator 3: KDCA Airport | 372525 | [372525-tower-simulator-3-kdca-airport.json](./372525-tower-simulator-3-kdca-airport.json) |
 | Tower! Simulator 3: KDFW Airport | 396518 | [396518-tower-simulator-3-kdfw-airport.json](./396518-tower-simulator-3-kdfw-airport.json) |
 | Tower! Simulator 3: KEWR Airport | 396505 | [396505-tower-simulator-3-kewr-airport.json](./396505-tower-simulator-3-kewr-airport.json) |
 | Tower! Simulator 3: KIAH Airport | 298704 | [298704-tower-simulator-3-kiah-airport.json](./298704-tower-simulator-3-kiah-airport.json) |
@@ -22685,6 +22691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: PANC Airport | 396510 | [396510-tower-simulator-3-panc-airport.json](./396510-tower-simulator-3-panc-airport.json) |
 | Tower! Simulator 3: RJTT Airport | 310044 | [310044-tower-simulator-3-rjtt-airport.json](./310044-tower-simulator-3-rjtt-airport.json) |
 | Tower! Simulator 3: WSSS Airport | 396513 | [396513-tower-simulator-3-wsss-airport.json](./396513-tower-simulator-3-wsss-airport.json) |
+| Tower! Simulator 3: YSSY Airport | 372526 | [372526-tower-simulator-3-yssy-airport.json](./372526-tower-simulator-3-yssy-airport.json) |
 | Tower! Simulator 3: ZSPD Airport | 396516 | [396516-tower-simulator-3-zspd-airport.json](./396516-tower-simulator-3-zspd-airport.json) |
 | Tower!2011:SE | 28279 | [28279-tower-2011-se.json](./28279-tower-2011-se.json) |
 | Tower!2011:SE - Chicago KORD Airport | 168194 | [168194-tower-2011-se-chicago-kord-airport.json](./168194-tower-2011-se-chicago-kord-airport.json) |
@@ -24871,6 +24878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
 | Transport INC | 118521 | [118521-transport-inc.json](./118521-transport-inc.json) |
 | Transport INC: Map Pack | 226895 | [226895-transport-inc-map-pack.json](./226895-transport-inc-map-pack.json) |
+| Transport Legion | 372517 | [372517-transport-legion.json](./372517-transport-legion.json) |
 | Transport Tycoon | 5504 | [5504-transport-tycoon.json](./5504-transport-tycoon.json) |
 | Transport Tycoon | 5505 | [5505-transport-tycoon.json](./5505-transport-tycoon.json) |
 | Transport Tycoon Deluxe | 5502 | [5502-transport-tycoon-deluxe.json](./5502-transport-tycoon-deluxe.json) |
@@ -27181,6 +27189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turning Point: Fall of Liberty | 7221 | [7221-turning-point-fall-of-liberty.json](./7221-turning-point-fall-of-liberty.json) |
 | Turning Red Dancing Tiles Hop | 198240 | [198240-turning-red-dancing-tiles-hop.json](./198240-turning-red-dancing-tiles-hop.json) |
 | Turning the Page | 328430 | [328430-turning-the-page.json](./328430-turning-the-page.json) |
+| Turning the Tide | 372519 | [372519-turning-the-tide.json](./372519-turning-the-tide.json) |
 | Turnip Boy Commits Tax Evasion: The Sunset Station Update | 196664 | [196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json](./196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | Turnip Mountain | 217203 | [217203-turnip-mountain.json](./217203-turnip-mountain.json) |
