@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnitude | 322417 | [322417-magnitude.json](./322417-magnitude.json) |
 | Magnitude: Epsilon | 328101 | [328101-magnitude-epsilon.json](./328101-magnitude-epsilon.json) |
+| Magnitude: Eta | 344283 | [344283-magnitude-eta.json](./344283-magnitude-eta.json) |
 | Magnitude: Lambda | 356505 | [356505-magnitude-lambda.json](./356505-magnitude-lambda.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
@@ -9367,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Date Unleashed | 367765 | [367765-midnight-date-unleashed.json](./367765-midnight-date-unleashed.json) |
 | Midnight Dice | 323788 | [323788-midnight-dice.json](./323788-midnight-dice.json) |
 | Midnight Dreams | 255242 | [255242-midnight-dreams.json](./255242-midnight-dreams.json) |
+| Midnight Drift '86 | 344582 | [344582-midnight-drift-86.json](./344582-midnight-drift-86.json) |
 | Midnight Drifter | 240222 | [240222-midnight-drifter.json](./240222-midnight-drifter.json) |
 | Midnight Dungeon | 179719 | [179719-midnight-dungeon.json](./179719-midnight-dungeon.json) |
 | Midnight DX | 221369 | [221369-midnight-dx.json](./221369-midnight-dx.json) |
@@ -13642,6 +13644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
 | Monsters and Mazes | 380178 | [380178-monsters-and-mazes.json](./380178-monsters-and-mazes.json) |
+| Monsters and Me | 344590 | [344590-monsters-and-me.json](./344590-monsters-and-me.json) |
 | Monsters and Medicine | 54804 | [54804-monsters-and-medicine.json](./54804-monsters-and-medicine.json) |
 | Monsters and Sprites | 388264 | [388264-monsters-and-sprites.json](./388264-monsters-and-sprites.json) |
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
@@ -14736,6 +14739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Business Simulator | 367733 | [367733-motel-business-simulator.json](./367733-motel-business-simulator.json) |
 | Motel Life Simulator | 219633 | [219633-motel-life-simulator.json](./219633-motel-life-simulator.json) |
 | Motel Manager Simulator | 268254 | [268254-motel-manager-simulator.json](./268254-motel-manager-simulator.json) |
+| Motel Owner Simulator | 344289 | [344289-motel-owner-simulator.json](./344289-motel-owner-simulator.json) |
 | Motel Simulator | 211165 | [211165-motel-simulator.json](./211165-motel-simulator.json) |
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
 | Motel Snooze: Suite Dreams | 352389 | [352389-motel-snooze-suite-dreams.json](./352389-motel-snooze-suite-dreams.json) |
@@ -15580,6 +15584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Hibbl: The Lost Levels | 262237 | [262237-mr-hibbl-the-lost-levels.json](./262237-mr-hibbl-the-lost-levels.json) |
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
+| Mr. Hopp's Hunting Hour | 344305 | [344305-mr-hopps-hunting-hour.json](./344305-mr-hopps-hunting-hour.json) |
 | Mr. Hopp's Manor Escape | 196119 | [196119-mr-hopps-manor-escape.json](./196119-mr-hopps-manor-escape.json) |
 | Mr. Hopp's Playhouse | 125073 | [125073-mr-hopps-playhouse.json](./125073-mr-hopps-playhouse.json) |
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
@@ -18417,6 +18422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Riddles: Ghostly Park DLC | 361775 | [361775-mystical-riddles-ghostly-park-dlc.json](./361775-mystical-riddles-ghostly-park-dlc.json) |
 | Mystical Riddles: Haunted Portraits - Collector's Edition | 337262 | [337262-mystical-riddles-haunted-portraits-collectors-edition.json](./337262-mystical-riddles-haunted-portraits-collectors-edition.json) |
 | Mystical Riddles: Ship From Beyond - Collector's Edition | 261651 | [261651-mystical-riddles-ship-from-beyond-collectors-edition.json](./261651-mystical-riddles-ship-from-beyond-collectors-edition.json) |
+| Mystical Riddles: Ship From Beyond DLC | 344585 | [344585-mystical-riddles-ship-from-beyond-dlc.json](./344585-mystical-riddles-ship-from-beyond-dlc.json) |
 | Mystical Riddles: Snowy Peak Hotel - Collector's Edition | 187807 | [187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json](./187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json) |
 | Mystical Samurai | 136453 | [136453-mystical-samurai.json](./136453-mystical-samurai.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
