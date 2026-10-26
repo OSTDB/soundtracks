@@ -7165,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love & Diaries: Duncan | 299421 | [299421-love-and-diaries-duncan.json](./299421-love-and-diaries-duncan.json) |
 | Love & Friendship | 177347 | [177347-love-and-friendship.json](./177347-love-and-friendship.json) |
 | Love & Hip Hop the Game | 57752 | [57752-love-and-hip-hop-the-game.json](./57752-love-and-hip-hop-the-game.json) |
+| Love & Knights Solitaire | 336987 | [336987-love-and-knights-solitaire.json](./336987-love-and-knights-solitaire.json) |
 | Love & Pies | 417327 | [417327-love-and-pies.json](./417327-love-and-pies.json) |
 | Love & Sex: Second Base | 229010 | [229010-love-and-sex-second-base.json](./229010-love-and-sex-second-base.json) |
 | Love & Survival | 193777 | [193777-love-and-survival.json](./193777-love-and-survival.json) |
