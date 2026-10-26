@@ -3507,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell, the Dungeon Again! | 96259 | [96259-hell-the-dungeon-again.json](./96259-hell-the-dungeon-again.json) |
 | Hell: A Cyberpunk Thriller | 4297 | [4297-hell-a-cyberpunk-thriller.json](./4297-hell-a-cyberpunk-thriller.json) |
 | Hell: Fight for Gilrand | 187781 | [187781-hell-fight-for-gilrand.json](./187781-hell-fight-for-gilrand.json) |
+| Hell's 8th Avenue: Miori's Mysterious Notebook | 348699 | [348699-hells-8th-avenue-mioris-mysterious-notebook.json](./348699-hells-8th-avenue-mioris-mysterious-notebook.json) |
 | Hell's Bell | 295861 | [295861-hells-bell.json](./295861-hells-bell.json) |
 | Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
@@ -5676,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Animals: English - Spanish | 28068 | [28068-hidden-animals-english-spanish.json](./28068-hidden-animals-english-spanish.json) |
 | Hidden Anime Girls | 369666 | [369666-hidden-anime-girls.json](./369666-hidden-anime-girls.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
+| Hidden Bananas | 348683 | [348683-hidden-bananas.json](./348683-hidden-bananas.json) |
 | Hidden Battle Top-Down 3D | 205004 | [205004-hidden-battle-top-down-3d.json](./205004-hidden-battle-top-down-3d.json) |
 | Hidden Beast | 189347 | [189347-hidden-beast.json](./189347-hidden-beast.json) |
 | Hidden Breaking Bed: Top-Down 3D | 269980 | [269980-hidden-breaking-bed-top-down-3d.json](./269980-hidden-breaking-bed-top-down-3d.json) |
