@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Sailboat Race | 334231 | [334231-save-the-sailboat-race.json](./334231-save-the-sailboat-race.json) |
 | Save the School Flower Action | 195437 | [195437-save-the-school-flower-action.json](./195437-save-the-school-flower-action.json) |
 | Save the Shapes | 380604 | [380604-save-the-shapes.json](./380604-save-the-shapes.json) |
+| Save the Sheep | 368995 | [368995-save-the-sheep.json](./368995-save-the-sheep.json) |
 | Save the Teenies | 256227 | [256227-save-the-teenies.json](./256227-save-the-teenies.json) |
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
 | Save the Titanic | 22106 | [22106-save-the-titanic.json](./22106-save-the-titanic.json) |
@@ -7059,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining the Holy Ark | 46063 | [46063-shining-the-holy-ark.json](./46063-shining-the-holy-ark.json) |
 | Shining Wind | 72920 | [72920-shining-wind.json](./72920-shining-wind.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
+| Shinjisougeki Carnival | 368986 | [368986-shinjisougeki-carnival.json](./368986-shinjisougeki-carnival.json) |
 | Shinjuku Anomaly | 386407 | [386407-shinjuku-anomaly.json](./386407-shinjuku-anomaly.json) |
 | Shinjuku Dungeon | 222471 | [222471-shinjuku-dungeon.json](./222471-shinjuku-dungeon.json) |
 | Shinjuku no Okami | 70573 | [70573-shinjuku-no-okami.json](./70573-shinjuku-no-okami.json) |
@@ -10859,6 +10861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughterhouse | 376815 | [376815-slaughterhouse.json](./376815-slaughterhouse.json) |
 | Slaughtertrain | 179457 | [179457-slaughtertrain.json](./179457-slaughtertrain.json) |
 | Slaughtra | 344408 | [344408-slaughtra.json](./344408-slaughtra.json) |
+| Slav or Not | 368971 | [368971-slav-or-not.json](./368971-slav-or-not.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slava Ukraini! | 201582 | [201582-slava-ukraini.json](./201582-slava-ukraini.json) |
 | Slavania | 171819 | [171819-slavania.json](./171819-slavania.json) |
@@ -11216,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Alchemist | 265108 | [265108-slime-alchemist.json](./265108-slime-alchemist.json) |
 | Slime and Machinegun | 412599 | [412599-slime-and-machinegun.json](./412599-slime-and-machinegun.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
+| Slime Ascension | 368983 | [368983-slime-ascension.json](./368983-slime-ascension.json) |
 | Slime Battle | 380752 | [380752-slime-battle.json](./380752-slime-battle.json) |
 | Slime Brawly Brawl | 280295 | [280295-slime-brawly-brawl.json](./280295-slime-brawly-brawl.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
@@ -11419,6 +11423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slip & Skid | 275082 | [275082-slip-and-skid.json](./275082-slip-and-skid.json) |
 | Slip Gear: Jet Pack | 28550 | [28550-slip-gear-jet-pack.json](./28550-slip-gear-jet-pack.json) |
 | Slip Gear: Jet Pack Wastlands | 28549 | [28549-slip-gear-jet-pack-wastlands.json](./28549-slip-gear-jet-pack-wastlands.json) |
+| Slip Oot | 368981 | [368981-slip-oot.json](./368981-slip-oot.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
 | SlipDream Resonator | 190379 | [190379-slipdream-resonator.json](./190379-slipdream-resonator.json) |
@@ -21730,6 +21735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Tide | 27613 | [27613-steel-tide.json](./27613-steel-tide.json) |
 | Steel Titan | 262185 | [262185-steel-titan.json](./262185-steel-titan.json) |
 | Steel Titans | 392869 | [392869-steel-titans.json](./392869-steel-titans.json) |
+| Steel Torrent | 369132 | [369132-steel-torrent.json](./369132-steel-torrent.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Vampire | 111415 | [111415-steel-vampire.json](./111415-steel-vampire.json) |
 | Steel Wars Royale | 148368 | [148368-steel-wars-royale.json](./148368-steel-wars-royale.json) |
@@ -25445,6 +25451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bubble Pop | 248454 | [248454-super-bubble-pop.json](./248454-super-bubble-pop.json) |
 | Super Bubble Pop | 4187 | [4187-super-bubble-pop.json](./4187-super-bubble-pop.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
+| Super Bug Hunters | 368996 | [368996-super-bug-hunters.json](./368996-super-bug-hunters.json) |
 | Super Build | 120727 | [120727-super-build.json](./120727-super-build.json) |
 | Super Bull Knight | 234558 | [234558-super-bull-knight.json](./234558-super-bull-knight.json) |
 | Super Bullet Break | 196819 | [196819-super-bullet-break.json](./196819-super-bullet-break.json) |
@@ -27485,6 +27492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spooky Subgame Spectacular | 262836 | [262836-super-spooky-subgame-spectacular.json](./262836-super-spooky-subgame-spectacular.json) |
 | Super Sport Challenge | 69715 | [69715-super-sport-challenge.json](./69715-super-sport-challenge.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
+| Super Sports Challenge | 369131 | [369131-super-sports-challenge.json](./369131-super-sports-challenge.json) |
 | Super Sports Isle | 410197 | [410197-super-sports-isle.json](./410197-super-sports-isle.json) |
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
@@ -29099,6 +29107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Pirate | 382397 | [382397-sweet-pirate.json](./382397-sweet-pirate.json) |
 | Sweet Pool | 145909 | [145909-sweet-pool.json](./145909-sweet-pool.json) |
+| Sweet Pool | 368974 | [368974-sweet-pool.json](./368974-sweet-pool.json) |
 | Sweet Pool | 86674 | [86674-sweet-pool.json](./86674-sweet-pool.json) |
 | Sweet Portal | 392900 | [392900-sweet-portal.json](./392900-sweet-portal.json) |
 | Sweet Princess Prom Night | 87613 | [87613-sweet-princess-prom-night.json](./87613-sweet-princess-prom-night.json) |
