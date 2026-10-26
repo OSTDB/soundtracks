@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Life | 97174 | [97174-journey-of-life.json](./97174-journey-of-life.json) |
 | Journey of Realm: Dawn Dew | 279562 | [279562-journey-of-realm-dawn-dew.json](./279562-journey-of-realm-dawn-dew.json) |
 | Journey of Reincarnation | 303598 | [303598-journey-of-reincarnation.json](./303598-journey-of-reincarnation.json) |
+| Journey Of Rune | 343484 | [343484-journey-of-rune.json](./343484-journey-of-rune.json) |
 | Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
 | Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
 | Journey of the Fox | 101287 | [101287-journey-of-the-fox.json](./101287-journey-of-the-fox.json) |
