@@ -3848,7 +3848,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Crawler | 399272 | [399272-nightmare-crawler.json](./399272-nightmare-crawler.json) |
 | Nightmare Creatures | 3414 | [3414-nightmare-creatures.json](./3414-nightmare-creatures.json) |
 | Nightmare Creatures | 341699 | [341699-nightmare-creatures.json](./341699-nightmare-creatures.json) |
-| Nightmare Creatures II | 45860 | [45860-nightmare-creatures-ii.json](./45860-nightmare-creatures-ii.json) |
 | Nightmare Delivery | 411670 | [411670-nightmare-delivery.json](./411670-nightmare-delivery.json) |
 | Nightmare Diary | 229703 | [229703-nightmare-diary.json](./229703-nightmare-diary.json) |
 | Nightmare Drive | 179679 | [179679-nightmare-drive.json](./179679-nightmare-drive.json) |
