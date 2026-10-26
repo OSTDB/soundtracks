@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T23:04:55.380Z",
-  "total_missing": 267277,
+  "generated_at": "2026-10-26T23:18:58.364Z",
+  "total_missing": 267325,
   "games": [
     {
       "igdb_id": 191680,
@@ -2110,6 +2110,11 @@
       "igdb_id": 334173,
       "game_name": "100 Cats Istanbul",
       "file": "missing/0-9/334173-100-cats-istanbul.json"
+    },
+    {
+      "igdb_id": 334602,
+      "game_name": "100 Cats Italy",
+      "file": "missing/0-9/334602-100-cats-italy.json"
     },
     {
       "igdb_id": 283042,
@@ -14810,6 +14815,11 @@
       "igdb_id": 177479,
       "game_name": "A (W)hole lot of Colors",
       "file": "missing/A/177479-a-w-hole-lot-of-colors.json"
+    },
+    {
+      "igdb_id": 334608,
+      "game_name": "A 20-year-old game is being remade with the newest engine RPG Maker Unite and distributed for free?: RPG Maker's heroes vs. the demon king",
+      "file": "missing/A/334608-a-20-year-old-game-is-being-remade-with-the-newest-engine-rpg-maker-unite-and-distributed-for-free-rpg-makers-heroes-vs-the-demon-king.json"
     },
     {
       "igdb_id": 299470,
@@ -96092,6 +96102,11 @@
       "file": "missing/B/158036-bad-meme.json"
     },
     {
+      "igdb_id": 334611,
+      "game_name": "Bad Midwife",
+      "file": "missing/B/334611-bad-midwife.json"
+    },
+    {
       "igdb_id": 69755,
       "game_name": "Bad Milk",
       "file": "missing/B/69755-bad-milk.json"
@@ -96185,11 +96200,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -113565,6 +113575,11 @@
       "igdb_id": 175761,
       "game_name": "Beast Quest: Ultimate Heroes",
       "file": "missing/B/175761-beast-quest-ultimate-heroes.json"
+    },
+    {
+      "igdb_id": 334624,
+      "game_name": "Beast Saga",
+      "file": "missing/B/334624-beast-saga.json"
     },
     {
       "igdb_id": 222442,
@@ -154362,6 +154377,11 @@
       "file": "missing/B/230341-brave.json"
     },
     {
+      "igdb_id": 334601,
+      "game_name": "Brave",
+      "file": "missing/B/334601-brave.json"
+    },
+    {
       "igdb_id": 6926,
       "game_name": "Brave",
       "file": "missing/B/6926-brave.json"
@@ -164910,6 +164930,11 @@
       "igdb_id": 241948,
       "game_name": "Bullet Runner: The First Slaughter",
       "file": "missing/B/241948-bullet-runner-the-first-slaughter.json"
+    },
+    {
+      "igdb_id": 334603,
+      "game_name": "Bullet Shine",
+      "file": "missing/B/334603-bullet-shine.json"
     },
     {
       "igdb_id": 167525,
@@ -200400,6 +200425,11 @@
       "igdb_id": 11273,
       "game_name": "Children of the Nile: Alexandria",
       "file": "missing/C/11273-children-of-the-nile-alexandria.json"
+    },
+    {
+      "igdb_id": 334614,
+      "game_name": "Children of the Nile: Alexandria",
+      "file": "missing/C/334614-children-of-the-nile-alexandria.json"
     },
     {
       "igdb_id": 27834,
@@ -278750,6 +278780,11 @@
       "igdb_id": 403322,
       "game_name": "Deductopia",
       "file": "missing/D/403322-deductopia.json"
+    },
+    {
+      "igdb_id": 334610,
+      "game_name": "Deductopia Chapter 1: Bring Your Pet to School Day",
+      "file": "missing/D/334610-deductopia-chapter-1-bring-your-pet-to-school-day.json"
     },
     {
       "igdb_id": 355531,
@@ -393907,6 +393942,11 @@
       "file": "missing/F/294215-filekiller.json"
     },
     {
+      "igdb_id": 334597,
+      "game_name": "Filiy Eclipse",
+      "file": "missing/F/334597-filiy-eclipse.json"
+    },
+    {
       "igdb_id": 169788,
       "game_name": "Fill & Cross: Christmas Riddles",
       "file": "missing/F/169788-fill-and-cross-christmas-riddles.json"
@@ -436865,6 +436905,11 @@
       "igdb_id": 116890,
       "game_name": "Galaxy Monster",
       "file": "missing/G/116890-galaxy-monster.json"
+    },
+    {
+      "igdb_id": 334594,
+      "game_name": "Galaxy Odyssey",
+      "file": "missing/G/334594-galaxy-odyssey.json"
     },
     {
       "igdb_id": 206136,
@@ -563852,6 +563897,11 @@
       "file": "missing/I/230975-ixion-deluxe-edition.json"
     },
     {
+      "igdb_id": 334626,
+      "game_name": "Iyashikei Action Game",
+      "file": "missing/I/334626-iyashikei-action-game.json"
+    },
+    {
       "igdb_id": 292515,
       "game_name": "Iz",
       "file": "missing/I/292515-iz.json"
@@ -593492,6 +593542,11 @@
       "file": "missing/K/162729-killing-floor-camo-weapon-pack.json"
     },
     {
+      "igdb_id": 334620,
+      "game_name": "Killing Floor: Character Pack Bundle",
+      "file": "missing/K/334620-killing-floor-character-pack-bundle.json"
+    },
+    {
       "igdb_id": 162726,
       "game_name": "Killing Floor: Community Weapon Pack",
       "file": "missing/K/162726-killing-floor-community-weapon-pack.json"
@@ -593585,6 +593640,11 @@
       "igdb_id": 162719,
       "game_name": "Killing Floor: Urban Nightmare Character Pack",
       "file": "missing/K/162719-killing-floor-urban-nightmare-character-pack.json"
+    },
+    {
+      "igdb_id": 334621,
+      "game_name": "Killing Floor: Weapons Bundle",
+      "file": "missing/K/334621-killing-floor-weapons-bundle.json"
     },
     {
       "igdb_id": 191905,
@@ -593935,11 +593995,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -653097,6 +653152,11 @@
       "file": "missing/M/139478-machizzle.json"
     },
     {
+      "igdb_id": 334600,
+      "game_name": "Macho Harvest: Muscular Harvest Puzzle",
+      "file": "missing/M/334600-macho-harvest-muscular-harvest-puzzle.json"
+    },
+    {
       "igdb_id": 40079,
       "game_name": "Macho Mouse",
       "file": "missing/M/40079-macho-mouse.json"
@@ -683342,6 +683402,16 @@
       "file": "missing/M/245035-mega-man-arkanoid.json"
     },
     {
+      "igdb_id": 334629,
+      "game_name": "Mega Man at the Tokyo Olympics",
+      "file": "missing/M/334629-mega-man-at-the-tokyo-olympics.json"
+    },
+    {
+      "igdb_id": 334628,
+      "game_name": "Mega Man at the Tokyo Olympics 2",
+      "file": "missing/M/334628-mega-man-at-the-tokyo-olympics-2.json"
+    },
+    {
       "igdb_id": 1731,
       "game_name": "Mega Man Battle & Chase",
       "file": "missing/M/1731-mega-man-battle-and-chase.json"
@@ -712140,6 +712210,11 @@
       "igdb_id": 212154,
       "game_name": "MMI",
       "file": "missing/M/212154-mmi.json"
+    },
+    {
+      "igdb_id": 334606,
+      "game_name": "MMKK",
+      "file": "missing/M/334606-mmkk.json"
     },
     {
       "igdb_id": 343815,
@@ -760382,6 +760457,11 @@
       "file": "missing/N/312263-newton-apple-tree.json"
     },
     {
+      "igdb_id": 334607,
+      "game_name": "Newton Coin",
+      "file": "missing/N/334607-newton-coin.json"
+    },
+    {
       "igdb_id": 187388,
       "game_name": "Newton Going Home",
       "file": "missing/N/187388-newton-going-home.json"
@@ -779770,6 +779850,11 @@
       "igdb_id": 238391,
       "game_name": "Obstacle Course Car Parking",
       "file": "missing/O/238391-obstacle-course-car-parking.json"
+    },
+    {
+      "igdb_id": 334612,
+      "game_name": "Obstacle Overdrive",
+      "file": "missing/O/334612-obstacle-overdrive.json"
     },
     {
       "igdb_id": 359728,
@@ -823697,6 +823782,11 @@
       "file": "missing/P/272272-pestilence.json"
     },
     {
+      "igdb_id": 334622,
+      "game_name": "Pestilence",
+      "file": "missing/P/334622-pestilence.json"
+    },
+    {
       "igdb_id": 201563,
       "game_name": "Pestilent Hunters",
       "file": "missing/P/201563-pestilent-hunters.json"
@@ -837092,6 +837182,16 @@
       "file": "missing/P/377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json"
     },
     {
+      "igdb_id": 334580,
+      "game_name": "Pixel Cross Stitch: Color by Number - Flags Pack",
+      "file": "missing/P/334580-pixel-cross-stitch-color-by-number-flags-pack.json"
+    },
+    {
+      "igdb_id": 334581,
+      "game_name": "Pixel Cross Stitch: Color by Number - Flowers and Butterflies Pack 2",
+      "file": "missing/P/334581-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-2.json"
+    },
+    {
       "igdb_id": 359878,
       "game_name": "Pixel Cross Stitch: Color by Number - Flowers and Butterflies Pack 3",
       "file": "missing/P/359878-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-3.json"
@@ -837105,6 +837205,21 @@
       "igdb_id": 377608,
       "game_name": "Pixel Cross Stitch: Color by Number - Halloween Pack 2",
       "file": "missing/P/377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json"
+    },
+    {
+      "igdb_id": 334582,
+      "game_name": "Pixel Cross Stitch: Color by Number - Landscapes Pack 2",
+      "file": "missing/P/334582-pixel-cross-stitch-color-by-number-landscapes-pack-2.json"
+    },
+    {
+      "igdb_id": 334583,
+      "game_name": "Pixel Cross Stitch: Color by Number - Landscapes Pack 3",
+      "file": "missing/P/334583-pixel-cross-stitch-color-by-number-landscapes-pack-3.json"
+    },
+    {
+      "igdb_id": 334584,
+      "game_name": "Pixel Cross Stitch: Color by Number - Menacing Monsters Pack",
+      "file": "missing/P/334584-pixel-cross-stitch-color-by-number-menacing-monsters-pack.json"
     },
     {
       "igdb_id": 359876,
@@ -837132,9 +837247,24 @@
       "file": "missing/P/374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json"
     },
     {
+      "igdb_id": 334586,
+      "game_name": "Pixel Cross Stitch: Color by Number - Simple Patterns Pack 3",
+      "file": "missing/P/334586-pixel-cross-stitch-color-by-number-simple-patterns-pack-3.json"
+    },
+    {
+      "igdb_id": 334587,
+      "game_name": "Pixel Cross Stitch: Color by Number - Simple Patterns Pack 4",
+      "file": "missing/P/334587-pixel-cross-stitch-color-by-number-simple-patterns-pack-4.json"
+    },
+    {
       "igdb_id": 374128,
       "game_name": "Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5",
       "file": "missing/P/374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json"
+    },
+    {
+      "igdb_id": 334588,
+      "game_name": "Pixel Cross Stitch: Color by Number - Spring Pack",
+      "file": "missing/P/334588-pixel-cross-stitch-color-by-number-spring-pack.json"
     },
     {
       "igdb_id": 339715,
@@ -837157,6 +837287,16 @@
       "file": "missing/P/377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json"
     },
     {
+      "igdb_id": 334592,
+      "game_name": "Pixel Cross Stitch: Color by Number - Under The Sea Pack 2",
+      "file": "missing/P/334592-pixel-cross-stitch-color-by-number-under-the-sea-pack-2.json"
+    },
+    {
+      "igdb_id": 334593,
+      "game_name": "Pixel Cross Stitch: Color by Number - Under The Sea Pack 3",
+      "file": "missing/P/334593-pixel-cross-stitch-color-by-number-under-the-sea-pack-3.json"
+    },
+    {
       "igdb_id": 361226,
       "game_name": "Pixel Cross Stitch: Color by Number - Vacations Pack",
       "file": "missing/P/361226-pixel-cross-stitch-color-by-number-vacations-pack.json"
@@ -837175,6 +837315,31 @@
       "igdb_id": 383178,
       "game_name": "Pixel Cross Stitch: Color by Number - Women At Work Pack",
       "file": "missing/P/383178-pixel-cross-stitch-color-by-number-women-at-work-pack.json"
+    },
+    {
+      "igdb_id": 334579,
+      "game_name": "Pixel Cross Stitch: Fantasy Medieval Pack 2",
+      "file": "missing/P/334579-pixel-cross-stitch-fantasy-medieval-pack-2.json"
+    },
+    {
+      "igdb_id": 334585,
+      "game_name": "Pixel Cross Stitch: Menacing Monsters Pack 2",
+      "file": "missing/P/334585-pixel-cross-stitch-menacing-monsters-pack-2.json"
+    },
+    {
+      "igdb_id": 334589,
+      "game_name": "Pixel Cross Stitch: Spring Pack 2",
+      "file": "missing/P/334589-pixel-cross-stitch-spring-pack-2.json"
+    },
+    {
+      "igdb_id": 334590,
+      "game_name": "Pixel Cross Stitch: Tribal Craze Pack 2",
+      "file": "missing/P/334590-pixel-cross-stitch-tribal-craze-pack-2.json"
+    },
+    {
+      "igdb_id": 334591,
+      "game_name": "Pixel Cross Stitch: Tribal Craze Pack 3",
+      "file": "missing/P/334591-pixel-cross-stitch-tribal-craze-pack-3.json"
     },
     {
       "igdb_id": 39001,
@@ -844450,6 +844615,31 @@
       "igdb_id": 145357,
       "game_name": "Play Together",
       "file": "missing/P/145357-play-together.json"
+    },
+    {
+      "igdb_id": 334615,
+      "game_name": "Play Together: Hunter Cash's Hidden Safe",
+      "file": "missing/P/334615-play-together-hunter-cashs-hidden-safe.json"
+    },
+    {
+      "igdb_id": 334616,
+      "game_name": "Play Together: Starter Pack - Bear Boy",
+      "file": "missing/P/334616-play-together-starter-pack-bear-boy.json"
+    },
+    {
+      "igdb_id": 334618,
+      "game_name": "Play Together: Starter Pack - Bear Girl",
+      "file": "missing/P/334618-play-together-starter-pack-bear-girl.json"
+    },
+    {
+      "igdb_id": 334617,
+      "game_name": "Play Together: Starter Pack - Chic Black",
+      "file": "missing/P/334617-play-together-starter-pack-chic-black.json"
+    },
+    {
+      "igdb_id": 334619,
+      "game_name": "Play Together: Starter Pack - Chic White",
+      "file": "missing/P/334619-play-together-starter-pack-chic-white.json"
     },
     {
       "igdb_id": 29624,
@@ -886525,6 +886715,11 @@
       "igdb_id": 141615,
       "game_name": "Quest Arrest",
       "file": "missing/Q/141615-quest-arrest.json"
+    },
+    {
+      "igdb_id": 334625,
+      "game_name": "Quest Braintainment",
+      "file": "missing/Q/334625-quest-braintainment.json"
     },
     {
       "igdb_id": 290954,
@@ -962547,6 +962742,11 @@
       "file": "missing/S/329765-secret-cats-spring-festival.json"
     },
     {
+      "igdb_id": 334609,
+      "game_name": "Secret Cats: St. Patrick",
+      "file": "missing/S/334609-secret-cats-st-patrick.json"
+    },
+    {
       "igdb_id": 315300,
       "game_name": "Secret Cats: Zoo",
       "file": "missing/S/315300-secret-cats-zoo.json"
@@ -1016142,6 +1016342,11 @@
       "file": "missing/S/201809-sonic-cd-episode-metal.json"
     },
     {
+      "igdb_id": 334627,
+      "game_name": "Sonic CD: Static Charge",
+      "file": "missing/S/334627-sonic-cd-static-charge.json"
+    },
+    {
       "igdb_id": 198545,
       "game_name": "Sonic CD++",
       "file": "missing/S/198545-sonic-cd.json"
@@ -1065127,6 +1065332,11 @@
       "file": "missing/S/194380-sub-uber-marine.json"
     },
     {
+      "igdb_id": 334623,
+      "game_name": "Sub-Verge",
+      "file": "missing/S/334623-sub-verge.json"
+    },
+    {
       "igdb_id": 339653,
       "game_name": "Sub0ptimal",
       "file": "missing/S/339653-sub0ptimal.json"
@@ -1095400,6 +1095610,11 @@
       "igdb_id": 383095,
       "game_name": "Synthetic Orders",
       "file": "missing/S/383095-synthetic-orders.json"
+    },
+    {
+      "igdb_id": 334596,
+      "game_name": "Synthetic Paradox",
+      "file": "missing/S/334596-synthetic-paradox.json"
     },
     {
       "igdb_id": 276159,
@@ -1176940,6 +1177155,11 @@
       "igdb_id": 389409,
       "game_name": "The World Beyond",
       "file": "missing/T/389409-the-world-beyond.json"
+    },
+    {
+      "igdb_id": 334613,
+      "game_name": "The World Eater & Probiotic Hero Dungeon of Roguelike",
+      "file": "missing/T/334613-the-world-eater-and-probiotic-hero-dungeon-of-roguelike.json"
     },
     {
       "igdb_id": 13546,
@@ -1269367,6 +1269587,11 @@
       "file": "missing/V/81002-vr-dunhuang.json"
     },
     {
+      "igdb_id": 334595,
+      "game_name": "VR Dunk Assistant",
+      "file": "missing/V/334595-vr-dunk-assistant.json"
+    },
+    {
       "igdb_id": 105130,
       "game_name": "VR Enigma",
       "file": "missing/V/105130-vr-enigma.json"
@@ -1270210,6 +1270435,11 @@
       "igdb_id": 216488,
       "game_name": "VR War Lab",
       "file": "missing/V/216488-vr-war-lab.json"
+    },
+    {
+      "igdb_id": 334598,
+      "game_name": "VR Wilderness Survival",
+      "file": "missing/V/334598-vr-wilderness-survival.json"
     },
     {
       "igdb_id": 168082,
@@ -1274020,6 +1274250,11 @@
       "igdb_id": 30901,
       "game_name": "Wanderland",
       "file": "missing/W/30901-wanderland.json"
+    },
+    {
+      "igdb_id": 334605,
+      "game_name": "Wanderling",
+      "file": "missing/W/334605-wanderling.json"
     },
     {
       "igdb_id": 145380,
@@ -1305220,6 +1305455,11 @@
       "igdb_id": 72180,
       "game_name": "World History Quiz: Cavemen to Democracy",
       "file": "missing/W/72180-world-history-quiz-cavemen-to-democracy.json"
+    },
+    {
+      "igdb_id": 334604,
+      "game_name": "World Hockey '88",
+      "file": "missing/W/334604-world-hockey-88.json"
     },
     {
       "igdb_id": 71973,
