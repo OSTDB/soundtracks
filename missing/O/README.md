@@ -2880,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation DogFight | 95396 | [95396-operation-dogfight.json](./95396-operation-dogfight.json) |
 | Operation Echo | 228919 | [228919-operation-echo.json](./228919-operation-echo.json) |
 | Operation Eco-Nightmare | 210686 | [210686-operation-eco-nightmare.json](./210686-operation-eco-nightmare.json) |
+| Operation Empty Quiver | 380497 | [380497-operation-empty-quiver.json](./380497-operation-empty-quiver.json) |
 | Operation Epic Furious: Strait to Hell | 401453 | [401453-operation-epic-furious-strait-to-hell.json](./401453-operation-epic-furious-strait-to-hell.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
 | Operation Eventide | 392457 | [392457-operation-eventide.json](./392457-operation-eventide.json) |
