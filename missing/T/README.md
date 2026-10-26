@@ -4619,6 +4619,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Batman & Robin | 45203 | [45203-the-adventures-of-batman-and-robin.json](./45203-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin: Activity Centre | 127639 | [127639-the-adventures-of-batman-and-robin-activity-centre.json](./127639-the-adventures-of-batman-and-robin-activity-centre.json) |
 | The Adventures of Batman & Robin: Tiger Barcodzz | 217728 | [217728-the-adventures-of-batman-and-robin-tiger-barcodzz.json](./217728-the-adventures-of-batman-and-robin-tiger-barcodzz.json) |
+| The Adventures of Batman & Robin: Tiger Barcodzz - 01: Killer Croc | 360475 | [360475-the-adventures-of-batman-and-robin-tiger-barcodzz-01-killer-croc.json](./360475-the-adventures-of-batman-and-robin-tiger-barcodzz-01-killer-croc.json) |
+| The Adventures of Batman & Robin: Tiger Barcodzz - 02: Catwoman | 360477 | [360477-the-adventures-of-batman-and-robin-tiger-barcodzz-02-catwoman.json](./360477-the-adventures-of-batman-and-robin-tiger-barcodzz-02-catwoman.json) |
+| The Adventures of Batman & Robin: Tiger Barcodzz - 03: The Joker | 360478 | [360478-the-adventures-of-batman-and-robin-tiger-barcodzz-03-the-joker.json](./360478-the-adventures-of-batman-and-robin-tiger-barcodzz-03-the-joker.json) |
+| The Adventures of Batman & Robin: Tiger Barcodzz - 04: Robin | 360479 | [360479-the-adventures-of-batman-and-robin-tiger-barcodzz-04-robin.json](./360479-the-adventures-of-batman-and-robin-tiger-barcodzz-04-robin.json) |
+| The Adventures of Batman & Robin: Tiger Barcodzz - 05: Batman | 360480 | [360480-the-adventures-of-batman-and-robin-tiger-barcodzz-05-batman.json](./360480-the-adventures-of-batman-and-robin-tiger-barcodzz-05-batman.json) |
+| The Adventures of Batman & Robin: Tiger Barcodzz - 06: Man-Bat | 360482 | [360482-the-adventures-of-batman-and-robin-tiger-barcodzz-06-man-bat.json](./360482-the-adventures-of-batman-and-robin-tiger-barcodzz-06-man-bat.json) |
 | The Adventures of Batman & Robin: Tiger Barcodzz - 07: Killer Croc | 360486 | [360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json](./360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json) |
 | The Adventures of Bayou Billy | 218910 | [218910-the-adventures-of-bayou-billy.json](./218910-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
@@ -11213,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The love letter | 398435 | [398435-the-love-letter.json](./398435-the-love-letter.json) |
 | The Love Letter | 63820 | [63820-the-love-letter.json](./63820-the-love-letter.json) |
 | The Love of Cooking | 384791 | [384791-the-love-of-cooking.json](./384791-the-love-of-cooking.json) |
+| The Love's Ordeal | 360625 | [360625-the-loves-ordeal.json](./360625-the-loves-ordeal.json) |
 | The Lover of Me | 184328 | [184328-the-lover-of-me.json](./184328-the-lover-of-me.json) |
 | The Lucid Dreamer Bundle | 201012 | [201012-the-lucid-dreamer-bundle.json](./201012-the-lucid-dreamer-bundle.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
@@ -25001,6 +25008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
 | Trapped | 305360 | [305360-trapped.json](./305360-trapped.json) |
+| Trapped | 360621 | [360621-trapped.json](./360621-trapped.json) |
 | Trapped 2 | 84296 | [84296-trapped-2.json](./84296-trapped-2.json) |
 | Trapped 2: Pirates | 311648 | [311648-trapped-2-pirates.json](./311648-trapped-2-pirates.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
