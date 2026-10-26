@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machiavelli's Ascent | 68549 | [68549-machiavellis-ascent.json](./68549-machiavellis-ascent.json) |
 | Machick | 293342 | [293342-machick.json](./293342-machick.json) |
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
+| Machick 2: Journey to the East | 381066 | [381066-machick-2-journey-to-the-east.json](./381066-machick-2-journey-to-the-east.json) |
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machigatta Shain-Kyouiku Mattaku Kimi no Kaisha de ha Ittai Donna Shain-Kyouiku wo | 236794 | [236794-machigatta-shain-kyouiku-mattaku-kimi-no-kaisha-de-ha-ittai-donna-shain-kyouiku-wo.json](./236794-machigatta-shain-kyouiku-mattaku-kimi-no-kaisha-de-ha-ittai-donna-shain-kyouiku-wo.json) |
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
@@ -704,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Romania | 369676 | [369676-mafia-romania.json](./369676-mafia-romania.json) |
 | Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
 | Mafia Simulator | 304570 | [304570-mafia-simulator.json](./304570-mafia-simulator.json) |
+| Mafia Solitaire | 381057 | [381057-mafia-solitaire.json](./381057-mafia-solitaire.json) |
 | Mafia Thief | 277870 | [277870-mafia-thief.json](./277870-mafia-thief.json) |
 | Mafia Transporter 3D - Transportation Simulator for Mafia Racing Drivers 9+ | 88379 | [88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json](./88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json) |
 | Mafia Wars | 52206 | [52206-mafia-wars.json](./52206-mafia-wars.json) |
@@ -11077,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miro and the Flower of Youth | 305483 | [305483-miro-and-the-flower-of-youth.json](./305483-miro-and-the-flower-of-youth.json) |
 | Miroh Jr. | 307885 | [307885-miroh-jr.json](./307885-miroh-jr.json) |
 | Mirren: Star Legends | 363671 | [363671-mirren-star-legends.json](./363671-mirren-star-legends.json) |
+| Mirria | 381081 | [381081-mirria.json](./381081-mirria.json) |
 | Mirror and Queen | 57501 | [57501-mirror-and-queen.json](./57501-mirror-and-queen.json) |
 | Mirror Angel's Paradise | 107702 | [107702-mirror-angels-paradise.json](./107702-mirror-angels-paradise.json) |
 | Mirror Atelier | 369351 | [369351-mirror-atelier.json](./369351-mirror-atelier.json) |
