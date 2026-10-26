@@ -6342,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HighQ Quiz | 172370 | [172370-highq-quiz.json](./172370-highq-quiz.json) |
 | Highreach | 348331 | [348331-highreach.json](./348331-highreach.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
+| Highrise | 375211 | [375211-highrise.json](./375211-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
 | Highrise City: Metro & Planes | 285117 | [285117-highrise-city-metro-and-planes.json](./285117-highrise-city-metro-and-planes.json) |
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
