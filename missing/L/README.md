@@ -4339,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbus | 310118 | [310118-limbus.json](./310118-limbus.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
 | Limbus Company: Season 5 - Oblivion | 319013 | [319013-limbus-company-season-5-oblivion.json](./319013-limbus-company-season-5-oblivion.json) |
+| Limbus Company: Season 6 - Zàng Huā Yín | 341710 | [341710-limbus-company-season-6-zang-hua-yin.json](./341710-limbus-company-season-6-zang-hua-yin.json) |
 | Limbus Company: Season 8 - Punctum | 416722 | [416722-limbus-company-season-8-punctum.json](./416722-limbus-company-season-8-punctum.json) |
 | Limbus Stable | 352213 | [352213-limbus-stable.json](./352213-limbus-stable.json) |
 | Lime Ergot | 138142 | [138142-lime-ergot.json](./138142-lime-ergot.json) |
