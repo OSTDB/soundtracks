@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abraxas | 263384 | [263384-abraxas.json](./263384-abraxas.json) |
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
+| Abrez | 368517 | [368517-abrez.json](./368517-abrez.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abriss: Build to Destroy | 163860 | [163860-abriss-build-to-destroy.json](./163860-abriss-build-to-destroy.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
@@ -2215,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Dragon | 334782 | [334782-achievement-hunter-dragon.json](./334782-achievement-hunter-dragon.json) |
 | Achievement Hunter: Extreme | 368374 | [368374-achievement-hunter-extreme.json](./368374-achievement-hunter-extreme.json) |
 | Achievement Hunter: Foxy | 334761 | [334761-achievement-hunter-foxy.json](./334761-achievement-hunter-foxy.json) |
+| Achievement Hunter: Gnom | 368451 | [368451-achievement-hunter-gnom.json](./368451-achievement-hunter-gnom.json) |
 | Achievement Hunter: Kiborg | 334760 | [334760-achievement-hunter-kiborg.json](./334760-achievement-hunter-kiborg.json) |
 | Achievement Hunter: Knight | 334781 | [334781-achievement-hunter-knight.json](./334781-achievement-hunter-knight.json) |
 | Achievement Hunter: Overdose | 368155 | [368155-achievement-hunter-overdose.json](./368155-achievement-hunter-overdose.json) |
