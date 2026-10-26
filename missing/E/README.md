@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Memories: Onyx & Phoebe | 316204 | [316204-ecchi-memories-onyx-and-phoebe.json](./316204-ecchi-memories-onyx-and-phoebe.json) |
 | Ecchi Memory Game | 110966 | [110966-ecchi-memory-game.json](./110966-ecchi-memory-game.json) |
 | Ecchi na Seed | 97831 | [97831-ecchi-na-seed.json](./97831-ecchi-na-seed.json) |
+| Ecchi Numbers | 375141 | [375141-ecchi-numbers.json](./375141-ecchi-numbers.json) |
 | Ecchi Oppai: Fantasy DLC | 324433 | [324433-ecchi-oppai-fantasy-dlc.json](./324433-ecchi-oppai-fantasy-dlc.json) |
 | Ecchi Oppai: Fusion DLC | 324434 | [324434-ecchi-oppai-fusion-dlc.json](./324434-ecchi-oppai-fusion-dlc.json) |
 | Ecchi Oppai: Uniforms DLC | 324435 | [324435-ecchi-oppai-uniforms-dlc.json](./324435-ecchi-oppai-uniforms-dlc.json) |
@@ -6486,6 +6487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: A MudRunner Game - Season 1: Cave Odyssey | 397701 | [397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json](./397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json) |
 | Expeditions: A MudRunner Game - Season 2: White Dawn | 397703 | [397703-expeditions-a-mudrunner-game-season-2-white-dawn.json](./397703-expeditions-a-mudrunner-game-season-2-white-dawn.json) |
 | Expeditions: A MudRunner Game - Season 3: Icy Shores | 397702 | [397702-expeditions-a-mudrunner-game-season-3-icy-shores.json](./397702-expeditions-a-mudrunner-game-season-3-icy-shores.json) |
+| Expeditions: A MudRunner Game - Season 4: Amber Dusk | 375146 | [375146-expeditions-a-mudrunner-game-season-4-amber-dusk.json](./375146-expeditions-a-mudrunner-game-season-4-amber-dusk.json) |
 | Expeditions: A MudRunner Game - Supreme Edition | 280667 | [280667-expeditions-a-mudrunner-game-supreme-edition.json](./280667-expeditions-a-mudrunner-game-supreme-edition.json) |
 | Expeditions: A MudRunner Game - The Great Don 71 | 289860 | [289860-expeditions-a-mudrunner-game-the-great-don-71.json](./289860-expeditions-a-mudrunner-game-the-great-don-71.json) |
 | Expeditions: Rome | 146650 | [146650-expeditions-rome.json](./146650-expeditions-rome.json) |
