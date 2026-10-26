@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: Theme Park Fun | 23391 | [23391-peppa-pig-theme-park-fun.json](./23391-peppa-pig-theme-park-fun.json) |
 | Peppa Pig: World Adventures | 229119 | [229119-peppa-pig-world-adventures.json](./229119-peppa-pig-world-adventures.json) |
 | Pepper | 291850 | [291850-pepper.json](./291850-pepper.json) |
+| Pepper Blast | 362321 | [362321-pepper-blast.json](./362321-pepper-blast.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Pepper II | 18803 | [18803-pepper-ii.json](./18803-pepper-ii.json) |
 | Pepper Pengui | 363046 | [363046-pepper-pengui.json](./363046-pepper-pengui.json) |
@@ -3898,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Dancing in Starlight - Gouto-Douji Costume | 324970 | [324970-persona-5-dancing-in-starlight-gouto-douji-costume.json](./324970-persona-5-dancing-in-starlight-gouto-douji-costume.json) |
 | Persona 5: Dancing in Starlight - Groovy | 324705 | [324705-persona-5-dancing-in-starlight-groovy.json](./324705-persona-5-dancing-in-starlight-groovy.json) |
 | Persona 5: Dancing in Starlight - Heeho's School Uniform | 324969 | [324969-persona-5-dancing-in-starlight-heehos-school-uniform.json](./324969-persona-5-dancing-in-starlight-heehos-school-uniform.json) |
+| Persona 5: Dancing in Starlight - Original Crossdressing Set | 362251 | [362251-persona-5-dancing-in-starlight-original-crossdressing-set.json](./362251-persona-5-dancing-in-starlight-original-crossdressing-set.json) |
 | Persona 5: Dancing in Starlight - Protagonist's Life in the Attic Set | 324967 | [324967-persona-5-dancing-in-starlight-protagonists-life-in-the-attic-set.json](./324967-persona-5-dancing-in-starlight-protagonists-life-in-the-attic-set.json) |
 | Persona 5: Dancing in Starlight - Race Queen Set | 324709 | [324709-persona-5-dancing-in-starlight-race-queen-set.json](./324709-persona-5-dancing-in-starlight-race-queen-set.json) |
 | Persona 5: Dancing in Starlight - Sonic Suit | 324965 | [324965-persona-5-dancing-in-starlight-sonic-suit.json](./324965-persona-5-dancing-in-starlight-sonic-suit.json) |
@@ -3905,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Dancing in Starlight - Trish Costume V1 | 324710 | [324710-persona-5-dancing-in-starlight-trish-costume-v1.json](./324710-persona-5-dancing-in-starlight-trish-costume-v1.json) |
 | Persona 5: Dancing in Starlight - Trish Costume V2 | 324711 | [324711-persona-5-dancing-in-starlight-trish-costume-v2.json](./324711-persona-5-dancing-in-starlight-trish-costume-v2.json) |
 | Persona 5: Dancing In Starlight - Wake Up, Get Up, Get Out There (OP ver.) | 324708 | [324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json](./324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json) |
+| Persona 5: Dancing in Starlight - Yakuza Set | 362250 | [362250-persona-5-dancing-in-starlight-yakuza-set.json](./362250-persona-5-dancing-in-starlight-yakuza-set.json) |
 | Persona 5: Funkin' in Starlight | 327858 | [327858-persona-5-funkin-in-starlight.json](./327858-persona-5-funkin-in-starlight.json) |
 | Persona 5: Goro Akechi Dating Simulator | 179107 | [179107-persona-5-goro-akechi-dating-simulator.json](./179107-persona-5-goro-akechi-dating-simulator.json) |
 | Persona 5: Phantom Thieves Logo Morgana Car Sticker | 409214 | [409214-persona-5-phantom-thieves-logo-morgana-car-sticker.json](./409214-persona-5-phantom-thieves-logo-morgana-car-sticker.json) |
@@ -8353,6 +8356,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plot of the Druid | 126533 | [126533-plot-of-the-druid.json](./126533-plot-of-the-druid.json) |
 | Plot Twist | 329649 | [329649-plot-twist.json](./329649-plot-twist.json) |
 | Plot's 3 | 91538 | [91538-plots-3.json](./91538-plots-3.json) |
+| Plotonium Destructive Edge X: Wings of Solitude | 362227 | [362227-plotonium-destructive-edge-x-wings-of-solitude.json](./362227-plotonium-destructive-edge-x-wings-of-solitude.json) |
+| Plotonium Explosive Smasher DX: Machine Slayer - Oh Yes! Edition | 362226 | [362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json](./362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Plotwords | 394116 | [394116-plotwords.json](./394116-plotwords.json) |
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
@@ -8791,6 +8796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
 | PogoChamp | 142797 | [142797-pogochamp.json](./142797-pogochamp.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
+| Pogoman | 362315 | [362315-pogoman.json](./362315-pogoman.json) |
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
 | Pogopa | 406855 | [406855-pogopa.json](./406855-pogopa.json) |
 | Pogoppl | 236749 | [236749-pogoppl.json](./236749-pogoppl.json) |
@@ -14565,6 +14571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pup Rummy | 89818 | [89818-pup-rummy.json](./89818-pup-rummy.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | PuPaiPo Space Deluxe | 126969 | [126969-pupaipo-space-deluxe.json](./126969-pupaipo-space-deluxe.json) |
+| PupDash | 362229 | [362229-pupdash.json](./362229-pupdash.json) |
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
 | Puppe Yerde | 392753 | [392753-puppe-yerde.json](./392753-puppe-yerde.json) |
