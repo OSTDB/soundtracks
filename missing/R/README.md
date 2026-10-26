@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randy the Racoon | 345061 | [345061-randy-the-racoon.json](./345061-randy-the-racoon.json) |
 | Randy's Adventure | 146621 | [146621-randys-adventure.json](./146621-randys-adventure.json) |
 | Randy's Soccer Quest | 180511 | [180511-randys-soccer-quest.json](./180511-randys-soccer-quest.json) |
+| Ranfren: Not Lucid | 338644 | [338644-ranfren-not-lucid.json](./338644-ranfren-not-lucid.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | RangBi | 297720 | [297720-rangbi.json](./297720-rangbi.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
@@ -3355,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Panda x Cats Bundle | 331512 | [331512-red-panda-x-cats-bundle.json](./331512-red-panda-x-cats-bundle.json) |
 | Red Panda: The Quiet Path | 373327 | [373327-red-panda-the-quiet-path.json](./373327-red-panda-the-quiet-path.json) |
 | Red Passport: Ticket to Russia | 373669 | [373669-red-passport-ticket-to-russia.json](./373669-red-passport-ticket-to-russia.json) |
+| Red Pippy | 338628 | [338628-red-pippy.json](./338628-red-pippy.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
 | Red Planet Rampage | 291178 | [291178-red-planet-rampage.json](./291178-red-planet-rampage.json) |
 | Red Planet Rampart | 311205 | [311205-red-planet-rampart.json](./311205-red-planet-rampart.json) |
@@ -4234,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Position | 346543 | [346543-remote-position.json](./346543-remote-position.json) |
 | Remote Presence | 275634 | [275634-remote-presence.json](./275634-remote-presence.json) |
 | Remote Racers | 84830 | [84830-remote-racers.json](./84830-remote-racers.json) |
+| Remote Reaper: FPV Drone | 338625 | [338625-remote-reaper-fpv-drone.json](./338625-remote-reaper-fpv-drone.json) |
 | Remote Union | 410941 | [410941-remote-union.json](./410941-remote-union.json) |
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
 | Remothered: Broken Porcelain | 117309 | [117309-remothered-broken-porcelain.json](./117309-remothered-broken-porcelain.json) |
