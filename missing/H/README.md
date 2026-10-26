@@ -4228,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Lovely Lieutenant | 316194 | [316194-hentai-girls-lovely-lieutenant.json](./316194-hentai-girls-lovely-lieutenant.json) |
 | Hentai Girls: Lust [18+] | 344971 | [344971-hentai-girls-lust-18.json](./344971-hentai-girls-lust-18.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
+| Hentai Girls: Maid Cafe Love | 343713 | [343713-hentai-girls-maid-cafe-love.json](./343713-hentai-girls-maid-cafe-love.json) |
 | Hentai Girls: Marvelous Magician | 332493 | [332493-hentai-girls-marvelous-magician.json](./332493-hentai-girls-marvelous-magician.json) |
 | Hentai Girls: Mommy Milkers | 294018 | [294018-hentai-girls-mommy-milkers.json](./294018-hentai-girls-mommy-milkers.json) |
 | Hentai Girls: Naughty Astronaut | 342402 | [342402-hentai-girls-naughty-astronaut.json](./342402-hentai-girls-naughty-astronaut.json) |
