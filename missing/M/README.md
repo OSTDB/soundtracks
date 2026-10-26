@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
 | Mafia Simulator | 304570 | [304570-mafia-simulator.json](./304570-mafia-simulator.json) |
 | Mafia Solitaire | 381057 | [381057-mafia-solitaire.json](./381057-mafia-solitaire.json) |
+| Mafia Solitaire 2 | 336986 | [336986-mafia-solitaire-2.json](./336986-mafia-solitaire-2.json) |
 | Mafia Thief | 277870 | [277870-mafia-thief.json](./277870-mafia-thief.json) |
 | Mafia Transporter 3D - Transportation Simulator for Mafia Racing Drivers 9+ | 88379 | [88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json](./88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json) |
 | Mafia Wars | 52206 | [52206-mafia-wars.json](./52206-mafia-wars.json) |
@@ -2770,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maple Blade | 420013 | [420013-maple-blade.json](./420013-maple-blade.json) |
 | Maple Colors | 322259 | [322259-maple-colors.json](./322259-maple-colors.json) |
 | Maple Colors H | 91694 | [91694-maple-colors-h.json](./91694-maple-colors-h.json) |
+| Maple Colors: Kessen ha Gakuensai | 337032 | [337032-maple-colors-kessen-ha-gakuensai.json](./337032-maple-colors-kessen-ha-gakuensai.json) |
 | Maple County | 182346 | [182346-maple-county.json](./182346-maple-county.json) |
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
@@ -4584,8 +4586,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Made in Time | 385437 | [385437-match-made-in-time.json](./385437-match-made-in-time.json) |
 | Match Manor | 269094 | [269094-match-manor.json](./269094-match-manor.json) |
 | Match Marbles 10 | 337236 | [337236-match-marbles-10.json](./337236-match-marbles-10.json) |
+| Match Marbles 11 | 336991 | [336991-match-marbles-11.json](./336991-match-marbles-11.json) |
 | Match Marbles 15 | 401143 | [401143-match-marbles-15.json](./401143-match-marbles-15.json) |
 | Match Marbles 3 | 337237 | [337237-match-marbles-3.json](./337237-match-marbles-3.json) |
+| Match Marbles 6 | 336992 | [336992-match-marbles-6.json](./336992-match-marbles-6.json) |
 | Match Match Mania! | 148969 | [148969-match-match-mania.json](./148969-match-match-mania.json) |
 | Match Me If You Can | 248806 | [248806-match-me-if-you-can.json](./248806-match-me-if-you-can.json) |
 | Match More | 32671 | [32671-match-more.json](./32671-match-more.json) |
@@ -18048,6 +18052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterica | 158908 | [158908-mysterica.json](./158908-mysterica.json) |
 | Mysteries & Nightmares: Morgiana | 35445 | [35445-mysteries-and-nightmares-morgiana.json](./35445-mysteries-and-nightmares-morgiana.json) |
 | Mysteries Dragon Chess | 81046 | [81046-mysteries-dragon-chess.json](./81046-mysteries-dragon-chess.json) |
+| Mysteries Mix 2: Whispers of Hollow Town | 336985 | [336985-mysteries-mix-2-whispers-of-hollow-town.json](./336985-mysteries-mix-2-whispers-of-hollow-town.json) |
 | Mysteries of Darkness | 187120 | [187120-mysteries-of-darkness.json](./187120-mysteries-of-darkness.json) |
 | Mysteries of Fence | 52086 | [52086-mysteries-of-fence.json](./52086-mysteries-of-fence.json) |
 | Mysteries of Horus | 54222 | [54222-mysteries-of-horus.json](./54222-mysteries-of-horus.json) |
