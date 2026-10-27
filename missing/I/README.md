@@ -4887,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Decree | 326205 | [326205-iron-decree.json](./326205-iron-decree.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Dice | 352145 | [352145-iron-dice.json](./352145-iron-dice.json) |
+| Iron Door | 306310 | [306310-iron-door.json](./306310-iron-door.json) |
 | Iron Dusk Path of Honor | 366135 | [366135-iron-dusk-path-of-honor.json](./366135-iron-dusk-path-of-honor.json) |
 | Iron Emblem | 215765 | [215765-iron-emblem.json](./215765-iron-emblem.json) |
 | Iron Emblem: Gaiden | 353819 | [353819-iron-emblem-gaiden.json](./353819-iron-emblem-gaiden.json) |
