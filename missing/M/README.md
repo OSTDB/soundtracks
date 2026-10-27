@@ -4221,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mashou Hime Tiruana Haramase Saimin: Ningen o Shiitageru Mazoku no Hime ga Anji Hitotsu de Niku Gangu ni Naru | 59027 | [59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json](./59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json) |
 | Mashou no Yakata Gabalin | 41790 | [41790-mashou-no-yakata-gabalin.json](./41790-mashou-no-yakata-gabalin.json) |
 | Mask | 39126 | [39126-mask.json](./39126-mask.json) |
+| Mask Around | 292493 | [292493-mask-around.json](./292493-mask-around.json) |
 | Mask City: Chapter Zero | 373859 | [373859-mask-city-chapter-zero.json](./373859-mask-city-chapter-zero.json) |
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
 | Mask II | 39125 | [39125-mask-ii.json](./39125-mask-ii.json) |
@@ -5434,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazeing | 152624 | [152624-mazeing.json](./152624-mazeing.json) |
 | Mazeing | 306384 | [306384-mazeing.json](./306384-mazeing.json) |
 | Mazekko Tower | 83814 | [83814-mazekko-tower.json](./83814-mazekko-tower.json) |
+| Mazelit | 292487 | [292487-mazelit.json](./292487-mazelit.json) |
 | Mazelit: Rolling With Style | 295346 | [295346-mazelit-rolling-with-style.json](./295346-mazelit-rolling-with-style.json) |
 | Mazeman | 172396 | [172396-mazeman.json](./172396-mazeman.json) |
 | Mazeman | 174276 | [174276-mazeman.json](./174276-mazeman.json) |
@@ -13621,6 +13623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Man | 310998 | [310998-monster-man.json](./310998-monster-man.json) |
 | Monster Manor | 115779 | [115779-monster-manor.json](./115779-monster-manor.json) |
+| Monster Mash | 292498 | [292498-monster-mash.json](./292498-monster-mash.json) |
 | Monster Mashing Deluxe | 116042 | [116042-monster-mashing-deluxe.json](./116042-monster-mashing-deluxe.json) |
 | Monster Master | 195938 | [195938-monster-master.json](./195938-monster-master.json) |
 | Monster Match | 131935 | [131935-monster-match.json](./131935-monster-match.json) |
@@ -14338,6 +14341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonwalker | 13017 | [13017-moonwalker.json](./13017-moonwalker.json) |
 | Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
 | MoonWar | 178924 | [178924-moonwar.json](./178924-moonwar.json) |
+| MoonWhite | 292576 | [292576-moonwhite.json](./292576-moonwhite.json) |
 | Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
 | Moony: Black_Lotus | 326226 | [326226-moony-black-lotus.json](./326226-moony-black-lotus.json) |
 | Moonyolk | 213914 | [213914-moonyolk.json](./213914-moonyolk.json) |
