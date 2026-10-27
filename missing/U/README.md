@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
 | Unoriginal CRINGE Meme Hack | 360138 | [360138-unoriginal-cringe-meme-hack.json](./360138-unoriginal-cringe-meme-hack.json) |
+| Unoriginal Space Shooter | 317200 | [317200-unoriginal-space-shooter.json](./317200-unoriginal-space-shooter.json) |
 | Unorthodox Game | 262587 | [262587-unorthodox-game.json](./262587-unorthodox-game.json) |
 | Unotale: Card Game | 223859 | [223859-unotale-card-game.json](./223859-unotale-card-game.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
@@ -2991,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Use Your Mind | 241470 | [241470-use-your-mind.json](./241470-use-your-mind.json) |
 | Use Your Outside Voice, Richie Tozier! | 157520 | [157520-use-your-outside-voice-richie-tozier.json](./157520-use-your-outside-voice-richie-tozier.json) |
 | Use Your Psychic Powers at Applebee's | 222185 | [222185-use-your-psychic-powers-at-applebees.json](./222185-use-your-psychic-powers-at-applebees.json) |
+| Use Your Words 2 | 317179 | [317179-use-your-words-2.json](./317179-use-your-words-2.json) |
 | Used Car Tycoon Game | 362066 | [362066-used-car-tycoon-game.json](./362066-used-car-tycoon-game.json) |
 | Useless Box | 109608 | [109608-useless-box.json](./109608-useless-box.json) |
 | Useless Box: The Game | 126615 | [126615-useless-box-the-game.json](./126615-useless-box-the-game.json) |
