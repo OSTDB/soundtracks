@@ -3034,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
 | Dead Heat | 92387 | [92387-dead-heat.json](./92387-dead-heat.json) |
+| Dead Heat Riders | 288175 | [288175-dead-heat-riders.json](./288175-dead-heat-riders.json) |
 | Dead Heat Scramble | 48950 | [48950-dead-heat-scramble.json](./48950-dead-heat-scramble.json) |
 | Dead Heat Unleashed | 327007 | [327007-dead-heat-unleashed.json](./327007-dead-heat-unleashed.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
