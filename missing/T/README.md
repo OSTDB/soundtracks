@@ -8363,6 +8363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frogman Show DS: Datte, Shouganai janai. | 287081 | [287081-the-frogman-show-ds-datte-shouganai-janai.json](./287081-the-frogman-show-ds-datte-shouganai-janai.json) |
 | The Frogs | 145444 | [145444-the-frogs.json](./145444-the-frogs.json) |
 | The Front of Greed | 106388 | [106388-the-front-of-greed.json](./106388-the-front-of-greed.json) |
+| The Front Yard | 304088 | [304088-the-front-yard.json](./304088-the-front-yard.json) |
 | The Frontier | 30929 | [30929-the-frontier.json](./30929-the-frontier.json) |
 | The Frontier Outskirts VR | 91192 | [91192-the-frontier-outskirts-vr.json](./91192-the-frontier-outskirts-vr.json) |
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
@@ -12308,6 +12309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Occupied Base | 271309 | [271309-the-occupied-base.json](./271309-the-occupied-base.json) |
 | The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
 | The Ocean Hunter | 39475 | [39475-the-ocean-hunter.json](./39475-the-ocean-hunter.json) |
+| The Ocean View From the Keiyo Line | 304093 | [304093-the-ocean-view-from-the-keiyo-line.json](./304093-the-ocean-view-from-the-keiyo-line.json) |
 | The Ocean Will Have Us All | 220695 | [220695-the-ocean-will-have-us-all.json](./220695-the-ocean-will-have-us-all.json) |
 | The Octots | 165452 | [165452-the-octots.json](./165452-the-octots.json) |
 | The Odaiba Box | 53766 | [53766-the-odaiba-box.json](./53766-the-odaiba-box.json) |
