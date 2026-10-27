@@ -4522,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
 | MasterChef: Culinary Showdown | 319628 | [319628-masterchef-culinary-showdown.json](./319628-masterchef-culinary-showdown.json) |
+| MasterChef: Learn to Cook! | 299804 | [299804-masterchef-learn-to-cook.json](./299804-masterchef-learn-to-cook.json) |
 | MasterChef: Learn to Cook! - Complete Edition | 324375 | [324375-masterchef-learn-to-cook-complete-edition.json](./324375-masterchef-learn-to-cook-complete-edition.json) |
 | MasterChef: Learn to Cook! - Fruits, Nuts & Sweets | 324480 | [324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json](./324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json) |
 | MasterChef: Learn to Cook! - Meat, Dairy & Seafood | 324481 | [324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json](./324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json) |
@@ -16120,6 +16121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudoba | 236302 | [236302-mudoba.json](./236302-mudoba.json) |
 | Mudoku: Next Sudoku | 292267 | [292267-mudoku-next-sudoku.json](./292267-mudoku-next-sudoku.json) |
 | MudRunner | 54789 | [54789-mudrunner.json](./54789-mudrunner.json) |
+| MudRunner VR | 299809 | [299809-mudrunner-vr.json](./299809-mudrunner-vr.json) |
 | Mue | 257262 | [257262-mue.json](./257262-mue.json) |
 | Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
 | Muerte's Arena | 110099 | [110099-muertes-arena.json](./110099-muertes-arena.json) |
