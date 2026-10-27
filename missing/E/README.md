@@ -360,8 +360,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthBound 64 | 133324 | [133324-earthbound-64.json](./133324-earthbound-64.json) |
 | EarthBound 64 Experience | 238206 | [238206-earthbound-64-experience.json](./238206-earthbound-64-experience.json) |
 | EarthBound Beginnings | 11191 | [11191-earthbound-beginnings.json](./11191-earthbound-beginnings.json) |
+| EarthBound Beginnings Remake | 311014 | [311014-earthbound-beginnings-remake.json](./311014-earthbound-beginnings-remake.json) |
 | EarthBound Dimensions | 311281 | [311281-earthbound-dimensions.json](./311281-earthbound-dimensions.json) |
 | Earthbound Halloween Hack | 139353 | [139353-earthbound-halloween-hack.json](./139353-earthbound-halloween-hack.json) |
+| Earthbound Mod Menu | 311022 | [311022-earthbound-mod-menu.json](./311022-earthbound-mod-menu.json) |
 | EarthBound Zero Remake | 324007 | [324007-earthbound-zero-remake.json](./324007-earthbound-zero-remake.json) |
 | Earthbound: Randomizer | 362795 | [362795-earthbound-randomizer.json](./362795-earthbound-randomizer.json) |
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
