@@ -4369,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikiss 3 Cute: Complete Limited Edition | 182478 | [182478-aikiss-3-cute-complete-limited-edition.json](./182478-aikiss-3-cute-complete-limited-edition.json) |
 | Aikode | 255658 | [255658-aikode.json](./255658-aikode.json) |
 | Aikokuryuu no Memoria | 257455 | [257455-aikokuryuu-no-memoria.json](./257455-aikokuryuu-no-memoria.json) |
+| Aikyam | 302904 | [302904-aikyam.json](./302904-aikyam.json) |
 | Aileronia | 392098 | [392098-aileronia.json](./392098-aileronia.json) |
 | Ailin: Traps and Treasures | 210576 | [210576-ailin-traps-and-treasures.json](./210576-ailin-traps-and-treasures.json) |
 | Ailing Space | 176201 | [176201-ailing-space.json](./176201-ailing-space.json) |
@@ -9507,6 +9508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antz World Sportz | 50059 | [50059-antz-world-sportz.json](./50059-antz-world-sportz.json) |
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anu: Tablets of Thoth | 422688 | [422688-anu-tablets-of-thoth.json](./422688-anu-tablets-of-thoth.json) |
+| Anubis | 302915 | [302915-anubis.json](./302915-anubis.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anubis Dungeon | 76495 | [76495-anubis-dungeon.json](./76495-anubis-dungeon.json) |
 | Anubis II | 4677 | [4677-anubis-ii.json](./4677-anubis-ii.json) |
@@ -11586,6 +11588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen | 120603 | [120603-arisen.json](./120603-arisen.json) |
+| Arisen Force: HeroTest | 302980 | [302980-arisen-force-herotest.json](./302980-arisen-force-herotest.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
 | Arisen Force: Vonimir | 244893 | [244893-arisen-force-vonimir.json](./244893-arisen-force-vonimir.json) |
