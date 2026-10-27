@@ -8218,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumina | 119091 | [119091-lumina.json](./119091-lumina.json) |
 | Lumina | 347889 | [347889-lumina.json](./347889-lumina.json) |
 | Lumina | 355599 | [355599-lumina.json](./355599-lumina.json) |
+| Lumina Rush | 289829 | [289829-lumina-rush.json](./289829-lumina-rush.json) |
 | Luminaria | 365602 | [365602-luminaria.json](./365602-luminaria.json) |
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
 | Luminary | 152498 | [152498-luminary.json](./152498-luminary.json) |
