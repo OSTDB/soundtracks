@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neath | 380409 | [380409-neath.json](./380409-neath.json) |
 | Neave | 368430 | [368430-neave.json](./368430-neave.json) |
 | Neave 2 | 212886 | [212886-neave-2.json](./212886-neave-2.json) |
+| Nebelmer | 319604 | [319604-nebelmer.json](./319604-nebelmer.json) |
 | Nebo | 182927 | [182927-nebo.json](./182927-nebo.json) |
 | Neboslav | 285118 | [285118-neboslav.json](./285118-neboslav.json) |
 | Nebs | 159183 | [159183-nebs.json](./159183-nebs.json) |
