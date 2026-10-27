@@ -15059,6 +15059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Threat of North | 112157 | [112157-the-threat-of-north.json](./112157-the-threat-of-north.json) |
 | The Three Cardinals | 408709 | [408709-the-three-cardinals.json](./408709-the-three-cardinals.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
+| The Three Kingdoms Era in China 2000 Years Ago: God Pass | 308860 | [308860-the-three-kingdoms-era-in-china-2000-years-ago-god-pass.json](./308860-the-three-kingdoms-era-in-china-2000-years-ago-god-pass.json) |
 | The Three Kingdoms of China | 115489 | [115489-the-three-kingdoms-of-china.json](./115489-the-three-kingdoms-of-china.json) |
 | The Three Kingdoms of Destiny | 312653 | [312653-the-three-kingdoms-of-destiny.json](./312653-the-three-kingdoms-of-destiny.json) |
 | The Three Kingdoms: Rebirth | 373710 | [373710-the-three-kingdoms-rebirth.json](./373710-the-three-kingdoms-rebirth.json) |
@@ -19606,6 +19607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Trap: Hidden Objects | 51978 | [51978-time-trap-hidden-objects.json](./51978-time-trap-hidden-objects.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
 | Time Travel | 204489 | [204489-time-travel.json](./204489-time-travel.json) |
+| Time Travel Bundle | 308828 | [308828-time-travel-bundle.json](./308828-time-travel-bundle.json) |
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
 | Time Travel Train | 381194 | [381194-time-travel-train.json](./381194-time-travel-train.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
@@ -22785,6 +22787,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Lost Branch of Legend | 208635 | [208635-touhou-lost-branch-of-legend.json](./208635-touhou-lost-branch-of-legend.json) |
 | Touhou: Lost Children at the Bamboo Forest | 234776 | [234776-touhou-lost-children-at-the-bamboo-forest.json](./234776-touhou-lost-children-at-the-bamboo-forest.json) |
 | Touhou: New World | 242038 | [242038-touhou-new-world.json](./242038-touhou-new-world.json) |
+| Touhou: New World - Gensokyo Dreaming | 308832 | [308832-touhou-new-world-gensokyo-dreaming.json](./308832-touhou-new-world-gensokyo-dreaming.json) |
+| Touhou: New World + Story DLC Bundle | 308833 | [308833-touhou-new-world-story-dlc-bundle.json](./308833-touhou-new-world-story-dlc-bundle.json) |
 | Touhou: Phantom Assembler | 230169 | [230169-touhou-phantom-assembler.json](./230169-touhou-phantom-assembler.json) |
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
 | Touhou: Scarlet Curiosity | 24462 | [24462-touhou-scarlet-curiosity.json](./24462-touhou-scarlet-curiosity.json) |
