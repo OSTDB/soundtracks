@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
 | FallNation | 217213 | [217213-fallnation.json](./217213-fallnation.json) |
 | FallNation Lost Stories | 294941 | [294941-fallnation-lost-stories.json](./294941-fallnation-lost-stories.json) |
+| Fallopian Frenzy! Come Again? | 301226 | [301226-fallopian-frenzy-come-again.json](./301226-fallopian-frenzy-come-again.json) |
 | Fallosophy | 379952 | [379952-fallosophy.json](./379952-fallosophy.json) |
 | Fallout 1.5: Resurrection | 237828 | [237828-fallout-1-5-resurrection.json](./237828-fallout-1-5-resurrection.json) |
 | Fallout 2 Restoration Project Updated | 416640 | [416640-fallout-2-restoration-project-updated.json](./416640-fallout-2-restoration-project-updated.json) |
@@ -2526,6 +2527,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food | 14454 | [14454-fast-food.json](./14454-fast-food.json) |
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
 | Fast Food 2025 Simulator | 336417 | [336417-fast-food-2025-simulator.json](./336417-fast-food-2025-simulator.json) |
+| Fast Food 64 | 301785 | [301785-fast-food-64.json](./301785-fast-food-64.json) |
+| Fast Food 64: Holiday Snacks | 301786 | [301786-fast-food-64-holiday-snacks.json](./301786-fast-food-64-holiday-snacks.json) |
 | Fast Food Chef | 234745 | [234745-fast-food-chef.json](./234745-fast-food-chef.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Escape | 406884 | [406884-fast-food-escape.json](./406884-fast-food-escape.json) |
@@ -5584,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Ducks | 221701 | [221701-fishing-ducks.json](./221701-fishing-ducks.json) |
 | Fishing Echoes | 264670 | [264670-fishing-echoes.json](./264670-fishing-echoes.json) |
 | Fishing Fanatic | 209436 | [209436-fishing-fanatic.json](./209436-fishing-fanatic.json) |
+| Fishing Fantasy: Buzzrod | 301798 | [301798-fishing-fantasy-buzzrod.json](./301798-fishing-fantasy-buzzrod.json) |
 | Fishing Fever | 400439 | [400439-fishing-fever.json](./400439-fishing-fever.json) |
 | Fishing Fighters | 146836 | [146836-fishing-fighters.json](./146836-fishing-fighters.json) |
 | Fishing Fishing | 303050 | [303050-fishing-fishing.json](./303050-fishing-fishing.json) |
@@ -6183,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame of Rebellion | 238085 | [238085-flame-of-rebellion.json](./238085-flame-of-rebellion.json) |
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
 | Flame of Valhalla | 329022 | [329022-flame-of-valhalla.json](./329022-flame-of-valhalla.json) |
+| Flame Protector: Sliding Kill | 301873 | [301873-flame-protector-sliding-kill.json](./301873-flame-protector-sliding-kill.json) |
 | Flame VS Blaze | 27720 | [27720-flame-vs-blaze.json](./27720-flame-vs-blaze.json) |
 | Flame Zapper Kotsujin | 144086 | [144086-flame-zapper-kotsujin.json](./144086-flame-zapper-kotsujin.json) |
 | Flame, Forest & Flood | 404179 | [404179-flame-forest-and-flood.json](./404179-flame-forest-and-flood.json) |
@@ -6422,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flauresyn | 341151 | [341151-flauresyn.json](./341151-flauresyn.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flavor Rave | 401310 | [401310-flavor-rave.json](./401310-flavor-rave.json) |
+| Flavors of Fortune | 301882 | [301882-flavors-of-fortune.json](./301882-flavors-of-fortune.json) |
 | Flavors of Spain | 407542 | [407542-flavors-of-spain.json](./407542-flavors-of-spain.json) |
 | Flavortown:VR | 118142 | [118142-flavortown-vr.json](./118142-flavortown-vr.json) |
 | Flavouride | 187757 | [187757-flavouride.json](./187757-flavouride.json) |
@@ -7106,6 +7112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowering Nightshade | 158400 | [158400-flowering-nightshade.json](./158400-flowering-nightshade.json) |
 | Flowering Void | 380217 | [380217-flowering-void.json](./380217-flowering-void.json) |
 | Flowerless Gardenia | 118629 | [118629-flowerless-gardenia.json](./118629-flowerless-gardenia.json) |
+| FlowerRock | 301227 | [301227-flowerrock.json](./301227-flowerrock.json) |
 | Flowers 2 by Powgi | 140419 | [140419-flowers-2-by-powgi.json](./140419-flowers-2-by-powgi.json) |
 | Flowers and Deities | 350787 | [350787-flowers-and-deities.json](./350787-flowers-and-deities.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
@@ -10210,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Friendship Club | 36147 | [36147-friendship-club.json](./36147-friendship-club.json) |
 | Friendship Dungeon: Party Puzzler | 374918 | [374918-friendship-dungeon-party-puzzler.json](./374918-friendship-dungeon-party-puzzler.json) |
+| Friendship Island | 301878 | [301878-friendship-island.json](./301878-friendship-island.json) |
 | Friendship Simulator | 359358 | [359358-friendship-simulator.json](./359358-friendship-simulator.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
 | Friendship21s | 254961 | [254961-friendship21s.json](./254961-friendship21s.json) |
@@ -11112,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Bokko Heroes X | 59972 | [59972-full-bokko-heroes-x.json](./59972-full-bokko-heroes-x.json) |
 | Full Bore | 10339 | [10339-full-bore.json](./10339-full-bore.json) |
 | Full Circle | 143517 | [143517-full-circle.json](./143517-full-circle.json) |
+| Full Circle: Rocketeer | 301787 | [301787-full-circle-rocketeer.json](./301787-full-circle-rocketeer.json) |
 | Full Code | 215214 | [215214-full-code.json](./215214-full-code.json) |
 | Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
 | Full Contact | 353613 | [353613-full-contact.json](./353613-full-contact.json) |
