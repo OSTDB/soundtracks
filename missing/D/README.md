@@ -8044,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinner for Pigeons | 168385 | [168385-dinner-for-pigeons.json](./168385-dinner-for-pigeons.json) |
 | Dinner Party | 179992 | [179992-dinner-party.json](./179992-dinner-party.json) |
 | Dinner with an Owl | 139057 | [139057-dinner-with-an-owl.json](./139057-dinner-with-an-owl.json) |
+| DinnerDinnner | 288807 | [288807-dinnerdinnner.json](./288807-dinnerdinnner.json) |
 | Dino | 100355 | [100355-dino.json](./100355-dino.json) |
 | Dino | 267359 | [267359-dino.json](./267359-dino.json) |
 | Dino | 272361 | [272361-dino.json](./272361-dino.json) |
@@ -9332,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Heart Makina Gaiden 07 ~5-dai Kaijinshuu Shingeki!~ | 59073 | [59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json](./59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json) |
 | Divine Heart Makina Gaiden 08 ~Kindan no Junai Shokushu Hen~ | 59072 | [59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json](./59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json) |
 | Divine Intervention (Pt. 1) | 141017 | [141017-divine-intervention-pt-1.json](./141017-divine-intervention-pt-1.json) |
+| Divine Journey 2: The Five Books of Moses | 288721 | [288721-divine-journey-2-the-five-books-of-moses.json](./288721-divine-journey-2-the-five-books-of-moses.json) |
 | Divine Journey: The Life of Jesus | 280199 | [280199-divine-journey-the-life-of-jesus.json](./280199-divine-journey-the-life-of-jesus.json) |
 | Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
 | Divine Legacy: Neo Amburia | 343739 | [343739-divine-legacy-neo-amburia.json](./343739-divine-legacy-neo-amburia.json) |
@@ -13415,6 +13417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadstone: The Immortal Prisoner | 154351 | [154351-dreadstone-the-immortal-prisoner.json](./154351-dreadstone-the-immortal-prisoner.json) |
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
+| Dreadweave | 288795 | [288795-dreadweave.json](./288795-dreadweave.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
 | Dreadwoods Gatekeeper | 295507 | [295507-dreadwoods-gatekeeper.json](./295507-dreadwoods-gatekeeper.json) |
 | Dreadwoods Gatekeeper: Prologue | 295494 | [295494-dreadwoods-gatekeeper-prologue.json](./295494-dreadwoods-gatekeeper-prologue.json) |
