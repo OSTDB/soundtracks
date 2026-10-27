@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapper | 202182 | [202182-zapper.json](./202182-zapper.json) |
 | Zapper: One Wicked Cricket! | 4583 | [4583-zapper-one-wicked-cricket.json](./4583-zapper-one-wicked-cricket.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
+| Zaraq | 319054 | [319054-zaraq.json](./319054-zaraq.json) |
 | Zarathrusta | 28514 | [28514-zarathrusta.json](./28514-zarathrusta.json) |
 | Zarathustra: Cybergeddon | 276096 | [276096-zarathustra-cybergeddon.json](./276096-zarathustra-cybergeddon.json) |
 | Zardoz | 106301 | [106301-zardoz.json](./106301-zardoz.json) |
