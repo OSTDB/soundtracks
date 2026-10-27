@@ -2876,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
 | Rebel! Pure Love Fighters! | 153027 | [153027-rebel-pure-love-fighters.json](./153027-rebel-pure-love-fighters.json) |
 | Rebellion | 223359 | [223359-rebellion.json](./223359-rebellion.json) |
+| Rebellion Against Rebellion | 296402 | [296402-rebellion-against-rebellion.json](./296402-rebellion-against-rebellion.json) |
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
 | Rebellion Corporation | 230970 | [230970-rebellion-corporation.json](./230970-rebellion-corporation.json) |
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn Protocol | 249088 | [249088-reborn-protocol.json](./249088-reborn-protocol.json) |
 | Reborn Souls | 201589 | [201589-reborn-souls.json](./201589-reborn-souls.json) |
 | Reborn to Veer | 236244 | [236244-reborn-to-veer.json](./236244-reborn-to-veer.json) |
+| Reborn: Dragona PH | 296412 | [296412-reborn-dragona-ph.json](./296412-reborn-dragona-ph.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
 | Reborn: Fate of Gods | 216953 | [216953-reborn-fate-of-gods.json](./216953-reborn-fate-of-gods.json) |
 | Reborn: New Life | 396590 | [396590-reborn-new-life.json](./396590-reborn-new-life.json) |
@@ -3598,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
 | Redjack: Revenge of the Brethren | 18297 | [18297-redjack-revenge-of-the-brethren.json](./18297-redjack-revenge-of-the-brethren.json) |
 | RedLantern | 392943 | [392943-redlantern.json](./392943-redlantern.json) |
+| Redlight | 296318 | [296318-redlight.json](./296318-redlight.json) |
 | RedLightCenter | 61176 | [61176-redlightcenter.json](./61176-redlightcenter.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
 | Redline | 8681 | [8681-redline.json](./8681-redline.json) |
@@ -7096,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River, Carry Me Away | 185310 | [185310-river-carry-me-away.json](./185310-river-carry-me-away.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | Riverflow | 252267 | [252267-riverflow.json](./252267-riverflow.json) |
+| Rivers of Chaos | 296343 | [296343-rivers-of-chaos.json](./296343-rivers-of-chaos.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Riverwood Village | 268909 | [268909-riverwood-village.json](./268909-riverwood-village.json) |
@@ -10432,6 +10436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Die Retry | 109512 | [109512-run-die-retry.json](./109512-run-die-retry.json) |
 | Run Dorothy Run | 89380 | [89380-run-dorothy-run.json](./89380-run-dorothy-run.json) |
 | Run Dude | 128288 | [128288-run-dude.json](./128288-run-dude.json) |
+| Run Dungeon | 296329 | [296329-run-dungeon.json](./296329-run-dungeon.json) |
 | Run Elephant Run | 280847 | [280847-run-elephant-run.json](./280847-run-elephant-run.json) |
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
 | Run Fire | 258504 | [258504-run-fire.json](./258504-run-fire.json) |
