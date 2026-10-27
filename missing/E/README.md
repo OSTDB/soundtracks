@@ -1956,7 +1956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element TD 2 | 129388 | [129388-element-td-2.json](./129388-element-td-2.json) |
 | Element Z | 120763 | [120763-element-z.json](./120763-element-z.json) |
 | Element147 | 98016 | [98016-element147.json](./98016-element147.json) |
-| Element4l | 8715 | [8715-element4l.json](./8715-element4l.json) |
 | Elementail | 360513 | [360513-elementail.json](./360513-elementail.json) |
 | Elementaire | 297088 | [297088-elementaire.json](./297088-elementaire.json) |
 | Elemental | 230161 | [230161-elemental.json](./230161-elemental.json) |
