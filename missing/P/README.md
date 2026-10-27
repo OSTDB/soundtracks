@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
 | Pathfinder: Wrath of the Righteous - Mythic Edition | 166284 | [166284-pathfinder-wrath-of-the-righteous-mythic-edition.json](./166284-pathfinder-wrath-of-the-righteous-mythic-edition.json) |
 | Pathfinder: Wrath of the Righteous - Paint of War | 193127 | [193127-pathfinder-wrath-of-the-righteous-paint-of-war.json](./193127-pathfinder-wrath-of-the-righteous-paint-of-war.json) |
+| Pathfinder: Wrath of the Righteous - Season Pass 2 | 308827 | [308827-pathfinder-wrath-of-the-righteous-season-pass-2.json](./308827-pathfinder-wrath-of-the-righteous-season-pass-2.json) |
 | Pathfinder: Wrath of the Righteous - The Lord of Nothing | 269217 | [269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json](./269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json) |
 | Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles | 215691 | [215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json](./215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json) |
 | Pathfinder: Wrath of the Righteous - Through the Ashes | 198351 | [198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json](./198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json) |
@@ -10107,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers | 152297 | [152297-police-simulator-patrol-officers.json](./152297-police-simulator-patrol-officers.json) |
 | Police Simulator: Patrol Officers - Complete Edition | 399824 | [399824-police-simulator-patrol-officers-complete-edition.json](./399824-police-simulator-patrol-officers-complete-edition.json) |
 | Police Simulator: Patrol Officers - Extended Edition | 292618 | [292618-police-simulator-patrol-officers-extended-edition.json](./292618-police-simulator-patrol-officers-extended-edition.json) |
+| Police Simulator: Patrol Officers - Garage Bundle | 308826 | [308826-police-simulator-patrol-officers-garage-bundle.json](./308826-police-simulator-patrol-officers-garage-bundle.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
 | Police Simulator: Patrol Officers - Guardian Police Vehicle | 278390 | [278390-police-simulator-patrol-officers-guardian-police-vehicle.json](./278390-police-simulator-patrol-officers-guardian-police-vehicle.json) |
 | Police Simulator: Patrol Officers - Highway Patrol Expansion | 297735 | [297735-police-simulator-patrol-officers-highway-patrol-expansion.json](./297735-police-simulator-patrol-officers-highway-patrol-expansion.json) |
