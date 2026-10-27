@@ -4608,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
 | Rescue Team: Clouded Mind | 311217 | [311217-rescue-team-clouded-mind.json](./311217-rescue-team-clouded-mind.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
+| Rescue Team: Evil Genius - Collector's Edition | 326566 | [326566-rescue-team-evil-genius-collectors-edition.json](./326566-rescue-team-evil-genius-collectors-edition.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
 | Rescue Team: Legion of Destruction | 410458 | [410458-rescue-team-legion-of-destruction.json](./410458-rescue-team-legion-of-destruction.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
@@ -9236,6 +9237,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 502 | 351567 | [351567-room-502.json](./351567-room-502.json) |
 | Room 54: Horde Survival | 335414 | [335414-room-54-horde-survival.json](./335414-room-54-horde-survival.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
+| Room and a Half | 326559 | [326559-room-and-a-half.json](./326559-room-and-a-half.json) |
+| Room and a Half 2 | 326560 | [326560-room-and-a-half-2.json](./326560-room-and-a-half-2.json) |
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
 | Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
 | Room Cleaning | 264988 | [264988-room-cleaning.json](./264988-room-cleaning.json) |
