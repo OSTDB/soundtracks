@@ -8879,6 +8879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Roads | 189922 | [189922-hot-roads.json](./189922-hot-roads.json) |
 | Hot Robot | 367205 | [367205-hot-robot.json](./367205-hot-robot.json) |
 | Hot Rod | 12146 | [12146-hot-rod.json](./12146-hot-rod.json) |
+| Hot Rod Mayhem | 320785 | [320785-hot-rod-mayhem.json](./320785-hot-rod-mayhem.json) |
 | Hot Rod Racer | 85180 | [85180-hot-rod-racer.json](./85180-hot-rod-racer.json) |
 | Hot Rod: Garage to Glory | 73365 | [73365-hot-rod-garage-to-glory.json](./73365-hot-rod-garage-to-glory.json) |
 | Hot Routes: VR Football | 122843 | [122843-hot-routes-vr-football.json](./122843-hot-routes-vr-football.json) |
