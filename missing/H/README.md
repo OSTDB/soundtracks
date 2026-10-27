@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangar 1914 | 292366 | [292366-hangar-1914.json](./292366-hangar-1914.json) |
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
+| Hangar 8 | 312604 | [312604-hangar-8.json](./312604-hangar-8.json) |
 | Hangaroo | 225814 | [225814-hangaroo.json](./225814-hangaroo.json) |
 | Hangcliff | 252598 | [252598-hangcliff.json](./252598-hangcliff.json) |
 | Hangeki | 17697 | [17697-hangeki.json](./17697-hangeki.json) |
@@ -5715,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
 | Hibow Supporter | 182873 | [182873-hibow-supporter.json](./182873-hibow-supporter.json) |
 | Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
+| Hickory Clock | 312591 | [312591-hickory-clock.json](./312591-hickory-clock.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
 | Hidamari no Sanatorium | 285374 | [285374-hidamari-no-sanatorium.json](./285374-hidamari-no-sanatorium.json) |
 | Hidden | 135586 | [135586-hidden.json](./135586-hidden.json) |
