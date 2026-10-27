@@ -2468,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
 | Tcg & Duel | 346375 | [346375-tcg-and-duel.json](./346375-tcg-and-duel.json) |
+| TCG Card Shop Empire | 323680 | [323680-tcg-card-shop-empire.json](./323680-tcg-card-shop-empire.json) |
 | TCG Card Shop Manager | 328084 | [328084-tcg-card-shop-manager.json](./328084-tcg-card-shop-manager.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
 | TCG Master Trader | 368362 | [368362-tcg-master-trader.json](./368362-tcg-master-trader.json) |
@@ -8991,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
 | The Help Desk | 149493 | [149493-the-help-desk.json](./149493-the-help-desk.json) |
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
+| The Helping Hand Paradox | 323651 | [323651-the-helping-hand-paradox.json](./323651-the-helping-hand-paradox.json) |
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
 | The Henchmen | 389670 | [389670-the-henchmen.json](./389670-the-henchmen.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
@@ -10430,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Transmission | 356685 | [356685-the-last-transmission.json](./356685-the-last-transmission.json) |
 | The Last Tree | 38813 | [38813-the-last-tree.json](./38813-the-last-tree.json) |
 | The Last Trooper | 15245 | [15245-the-last-trooper.json](./15245-the-last-trooper.json) |
+| The Last Utopi | 323671 | [323671-the-last-utopi.json](./323671-the-last-utopi.json) |
 | The Last V8 | 26347 | [26347-the-last-v8.json](./26347-the-last-v8.json) |
 | The Last Vampire | 293315 | [293315-the-last-vampire.json](./293315-the-last-vampire.json) |
 | The Last Vampire | 77173 | [77173-the-last-vampire.json](./77173-the-last-vampire.json) |
@@ -20503,6 +20506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
 | Toad Tavern | 313247 | [313247-toad-tavern.json](./313247-toad-tavern.json) |
 | Toad Turf | 391898 | [391898-toad-turf.json](./391898-toad-turf.json) |
+| Toad vs. Wart | 323679 | [323679-toad-vs-wart.json](./323679-toad-vs-wart.json) |
 | Toad's Adventure | 48318 | [48318-toads-adventure.json](./48318-toads-adventure.json) |
 | Toad's Christmas Adventure | 214997 | [214997-toads-christmas-adventure.json](./214997-toads-christmas-adventure.json) |
 | Toad's Soul Hopper | 301024 | [301024-toads-soul-hopper.json](./301024-toads-soul-hopper.json) |
@@ -21434,6 +21438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonari no Princess Rolfee! | 70402 | [70402-tonari-no-princess-rolfee.json](./70402-tonari-no-princess-rolfee.json) |
 | Tonari no Totoro | 184324 | [184324-tonari-no-totoro.json](./184324-tonari-no-totoro.json) |
 | Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
+| TondaSan | 323669 | [323669-tondasan.json](./323669-tondasan.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
 | Tondemo Nishibuuki 2: Paris Boutard Rally | 296731 | [296731-tondemo-nishibuuki-2-paris-boutard-rally.json](./296731-tondemo-nishibuuki-2-paris-boutard-rally.json) |
 | Tone Sphere | 82740 | [82740-tone-sphere.json](./82740-tone-sphere.json) |
@@ -24224,6 +24229,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Im Köblitzer Bergland Route Add-On | 156395 | [156395-train-simulator-im-koblitzer-bergland-route-add-on.json](./156395-train-simulator-im-koblitzer-bergland-route-add-on.json) |
 | Train Simulator: Isle of Wight Route Add-On | 156483 | [156483-train-simulator-isle-of-wight-route-add-on.json](./156483-train-simulator-isle-of-wight-route-add-on.json) |
 | Train Simulator: JR Higashi-Nihon Yamanote-sen Uchi-mawari | 91809 | [91809-train-simulator-jr-higashi-nihon-yamanote-sen-uchi-mawari.json](./91809-train-simulator-jr-higashi-nihon-yamanote-sen-uchi-mawari.json) |
+| Train Simulator: JR Hokkaido 1 | 323663 | [323663-train-simulator-jr-hokkaido-1.json](./323663-train-simulator-jr-hokkaido-1.json) |
+| Train Simulator: JR Shikoku 1 | 323660 | [323660-train-simulator-jr-shikoku-1.json](./323660-train-simulator-jr-shikoku-1.json) |
+| Train Simulator: Keihin Kyuukou Dentetsu Honsen Kurihamasen 600-gata | 323659 | [323659-train-simulator-keihin-kyuukou-dentetsu-honsen-kurihamasen-600-gata.json](./323659-train-simulator-keihin-kyuukou-dentetsu-honsen-kurihamasen-600-gata.json) |
+| Train Simulator: Kintetsu Minami Osaka-sen Yoshino-sen | 323667 | [323667-train-simulator-kintetsu-minami-osaka-sen-yoshino-sen.json](./323667-train-simulator-kintetsu-minami-osaka-sen-yoshino-sen.json) |
 | Train Simulator: Konstanz-Villingen Route Add-On | 156388 | [156388-train-simulator-konstanz-villingen-route-add-on.json](./156388-train-simulator-konstanz-villingen-route-add-on.json) |
 | Train Simulator: LGV: Marseille - Avignon Route Add-On | 156356 | [156356-train-simulator-lgv-marseille-avignon-route-add-on.json](./156356-train-simulator-lgv-marseille-avignon-route-add-on.json) |
 | Train Simulator: Liverpool-Manchester Route Add-On | 156442 | [156442-train-simulator-liverpool-manchester-route-add-on.json](./156442-train-simulator-liverpool-manchester-route-add-on.json) |
@@ -24245,6 +24254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Midland Main Line: Leicester - Derby & Nottingham Route Add-On | 156466 | [156466-train-simulator-midland-main-line-leicester-derby-and-nottingham-route-add-on.json](./156466-train-simulator-midland-main-line-leicester-derby-and-nottingham-route-add-on.json) |
 | Train Simulator: Midland Main Line: Nottingham - Lincoln Route | 207742 | [207742-train-simulator-midland-main-line-nottingham-lincoln-route.json](./207742-train-simulator-midland-main-line-nottingham-lincoln-route.json) |
 | Train Simulator: Mighty Seddin Freight Route Add-On | 156452 | [156452-train-simulator-mighty-seddin-freight-route-add-on.json](./156452-train-simulator-mighty-seddin-freight-route-add-on.json) |
+| Train Simulator: Minami France | 323666 | [323666-train-simulator-minami-france.json](./323666-train-simulator-minami-france.json) |
 | Train Simulator: Mittenwaldbahn: Garmisch-Partenkirchen - Innsbruck Route Add-On | 156387 | [156387-train-simulator-mittenwaldbahn-garmisch-partenkirchen-innsbruck-route-add-on.json](./156387-train-simulator-mittenwaldbahn-garmisch-partenkirchen-innsbruck-route-add-on.json) |
 | Train Simulator: Montana Hi-Line: Shelby - Havre Route Add-On | 156477 | [156477-train-simulator-montana-hi-line-shelby-havre-route-add-on.json](./156477-train-simulator-montana-hi-line-shelby-havre-route-add-on.json) |
 | Train Simulator: Mosel Valley: Koblenz - Trier Route Add-On | 156429 | [156429-train-simulator-mosel-valley-koblenz-trier-route-add-on.json](./156429-train-simulator-mosel-valley-koblenz-trier-route-add-on.json) |
@@ -24254,6 +24264,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Munich - Rosenheim Route Add-On | 156350 | [156350-train-simulator-munich-rosenheim-route-add-on.json](./156350-train-simulator-munich-rosenheim-route-add-on.json) |
 | Train Simulator: Munich-Augsburg Route Add-On | 156392 | [156392-train-simulator-munich-augsburg-route-add-on.json](./156392-train-simulator-munich-augsburg-route-add-on.json) |
 | Train Simulator: Münster - Bremen Route Add-On | 156472 | [156472-train-simulator-munster-bremen-route-add-on.json](./156472-train-simulator-munster-bremen-route-add-on.json) |
+| Train Simulator: Nagoya Tetsudou 1 | 323662 | [323662-train-simulator-nagoya-tetsudou-1.json](./323662-train-simulator-nagoya-tetsudou-1.json) |
+| Train Simulator: Nanbu Juukan Tetsudou | 323658 | [323658-train-simulator-nanbu-juukan-tetsudou.json](./323658-train-simulator-nanbu-juukan-tetsudou.json) |
 | Train Simulator: New Zealand DJ Loco Pack | 191025 | [191025-train-simulator-new-zealand-dj-loco-pack.json](./191025-train-simulator-new-zealand-dj-loco-pack.json) |
 | Train Simulator: Norddeutsche-Bahn: Kiel - Lübeck Route Add-On | 156390 | [156390-train-simulator-norddeutsche-bahn-kiel-lubeck-route-add-on.json](./156390-train-simulator-norddeutsche-bahn-kiel-lubeck-route-add-on.json) |
 | Train Simulator: Norfolk Southern SD70ACU | 265716 | [265716-train-simulator-norfolk-southern-sd70acu.json](./265716-train-simulator-norfolk-southern-sd70acu.json) |
@@ -24280,6 +24292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Rudolfsbahn: Bruck an der Mur - Selzthal & Knittelfeld | 293693 | [293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json](./293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json) |
 | Train Simulator: Ruhr-Sieg Route Add-On | 156450 | [156450-train-simulator-ruhr-sieg-route-add-on.json](./156450-train-simulator-ruhr-sieg-route-add-on.json) |
 | Train Simulator: Salzburg - Mühldorf Route | 191023 | [191023-train-simulator-salzburg-muhldorf-route.json](./191023-train-simulator-salzburg-muhldorf-route.json) |
+| Train Simulator: Seibu Tetsudou Shinjuku-sen Shin-2000 10000-kei | 323661 | [323661-train-simulator-seibu-tetsudou-shinjuku-sen-shin-2000-10000-kei.json](./323661-train-simulator-seibu-tetsudou-shinjuku-sen-shin-2000-10000-kei.json) |
 | Train Simulator: Semmeringbahn - Mürzzuschlag to Gloggnitz Route Add-On | 156461 | [156461-train-simulator-semmeringbahn-murzzuschlag-to-gloggnitz-route-add-on.json](./156461-train-simulator-semmeringbahn-murzzuschlag-to-gloggnitz-route-add-on.json) |
 | Train Simulator: Shanghai Maglev Route Add-On | 156422 | [156422-train-simulator-shanghai-maglev-route-add-on.json](./156422-train-simulator-shanghai-maglev-route-add-on.json) |
 | Train Simulator: Sheerness Branch Extension Route Add-On | 156434 | [156434-train-simulator-sheerness-branch-extension-route-add-on.json](./156434-train-simulator-sheerness-branch-extension-route-add-on.json) |
