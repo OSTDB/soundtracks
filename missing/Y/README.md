@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
 | Young Detectives: Animals | 312509 | [312509-young-detectives-animals.json](./312509-young-detectives-animals.json) |
 | Young Detectives: Farm | 312511 | [312511-young-detectives-farm.json](./312511-young-detectives-farm.json) |
+| Young Detectives: Holidays | 309390 | [309390-young-detectives-holidays.json](./309390-young-detectives-holidays.json) |
 | Young Detectives: School | 312510 | [312510-young-detectives-school.json](./312510-young-detectives-school.json) |
 | Young Detectives: Space | 312512 | [312512-young-detectives-space.json](./312512-young-detectives-space.json) |
 | Young Detectives: Undersea | 309564 | [309564-young-detectives-undersea.json](./309564-young-detectives-undersea.json) |
