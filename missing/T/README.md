@@ -4493,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
+| That One Dungeon | 289825 | [289825-that-one-dungeon.json](./289825-that-one-dungeon.json) |
 | That One Otter Game | 355527 | [355527-that-one-otter-game.json](./355527-that-one-otter-game.json) |
 | That Potato Game | 247951 | [247951-that-potato-game.json](./247951-that-potato-game.json) |
 | That Puzzle Game Everyone Knows | 135023 | [135023-that-puzzle-game-everyone-knows.json](./135023-that-puzzle-game-everyone-knows.json) |
@@ -16971,6 +16972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Sold a Million 3 | 70061 | [70061-they-sold-a-million-3.json](./70061-they-sold-a-million-3.json) |
 | They Sold a Million II | 73335 | [73335-they-sold-a-million-ii.json](./73335-they-sold-a-million-ii.json) |
 | They Speak From The Abyss: Zenith | 252033 | [252033-they-speak-from-the-abyss-zenith.json](./252033-they-speak-from-the-abyss-zenith.json) |
+| They Speak To Us | 289830 | [289830-they-speak-to-us.json](./289830-they-speak-to-us.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They Stole a Million | 11850 | [11850-they-stole-a-million.json](./11850-they-stole-a-million.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
