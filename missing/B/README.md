@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1607,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana | 305277 | [305277-banana.json](./305277-banana.json) |
 | Banana | 305441 | [305441-banana.json](./305441-banana.json) |
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
+| Banana & Cucumber | 314231 | [314231-banana-and-cucumber.json](./314231-banana-and-cucumber.json) |
 | Banana & Tomato | 311764 | [311764-banana-and-tomato.json](./311764-banana-and-tomato.json) |
 | Banana 2 | 311850 | [311850-banana-2.json](./311850-banana-2.json) |
 | Banana 2: Fruit | 314429 | [314429-banana-2-fruit.json](./314429-banana-2-fruit.json) |
@@ -1642,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Drama: Tiger | 278342 | [278342-banana-drama-tiger.json](./278342-banana-drama-tiger.json) |
 | Banana Extreme | 329069 | [329069-banana-extreme.json](./329069-banana-extreme.json) |
 | Banana for Scale | 130341 | [130341-banana-for-scale.json](./130341-banana-for-scale.json) |
+| Banana Gine | 314313 | [314313-banana-gine.json](./314313-banana-gine.json) |
 | Banana girl | 106606 | [106606-banana-girl.json](./106606-banana-girl.json) |
 | Banana Girls | 338192 | [338192-banana-girls.json](./338192-banana-girls.json) |
 | Banana Grab | 231626 | [231626-banana-grab.json](./231626-banana-grab.json) |
@@ -1656,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Loco | 372021 | [372021-banana-loco.json](./372021-banana-loco.json) |
 | Banana Man | 15658 | [15658-banana-man.json](./15658-banana-man.json) |
 | Banana Massacre | 338193 | [338193-banana-massacre.json](./338193-banana-massacre.json) |
+| Banana Monkeys | 314245 | [314245-banana-monkeys.json](./314245-banana-monkeys.json) |
 | Banana Nababa | 124565 | [124565-banana-nababa.json](./124565-banana-nababa.json) |
 | Banana Next Gen | 323428 | [323428-banana-next-gen.json](./323428-banana-next-gen.json) |
 | Banana Ninja vs. 100 Mann | 359568 | [359568-banana-ninja-vs-100-mann.json](./359568-banana-ninja-vs-100-mann.json) |
@@ -3413,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
 | Battle Santa 64 | 281041 | [281041-battle-santa-64.json](./281041-battle-santa-64.json) |
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
+| Battle Shanghai: Dragon's Eye | 314220 | [314220-battle-shanghai-dragons-eye.json](./314220-battle-shanghai-dragons-eye.json) |
 | Battle Shapers | 244184 | [244184-battle-shapers.json](./244184-battle-shapers.json) |
 | Battle Shapes | 58614 | [58614-battle-shapes.json](./58614-battle-shapes.json) |
 | Battle Sheep | 52439 | [52439-battle-sheep.json](./52439-battle-sheep.json) |
@@ -5138,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before You Forget | 261447 | [261447-before-you-forget.json](./261447-before-you-forget.json) |
 | Before Your Eyes | 305472 | [305472-before-your-eyes.json](./305472-before-your-eyes.json) |
 | BeforeDisaster | 368224 | [368224-beforedisaster.json](./368224-beforedisaster.json) |
+| Befriended Curse | 314321 | [314321-befriended-curse.json](./314321-befriended-curse.json) |
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
 | Befuddle | 232875 | [232875-befuddle.json](./232875-befuddle.json) |
 | Bega's Battle | 23938 | [23938-begas-battle.json](./23938-begas-battle.json) |
@@ -9163,6 +9169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks: Richard III | 120791 | [120791-blocks-richard-iii.json](./120791-blocks-richard-iii.json) |
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
+| Blocks! | 314228 | [314228-blocks.json](./314228-blocks.json) |
 | BlockShip Wars: Roguelike | 81689 | [81689-blockship-wars-roguelike.json](./81689-blockship-wars-roguelike.json) |
 | Blockships | 27999 | [27999-blockships.json](./27999-blockships.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
@@ -12028,6 +12035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Cats Puzzle: Halloween | 193122 | [193122-box-cats-puzzle-halloween.json](./193122-box-cats-puzzle-halloween.json) |
 | Box Chaos | 328553 | [328553-box-chaos.json](./328553-box-chaos.json) |
 | Box Clicker | 303058 | [303058-box-clicker.json](./303058-box-clicker.json) |
+| Box Clicker | 314236 | [314236-box-clicker.json](./314236-box-clicker.json) |
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
 | Box Dog | 329096 | [329096-box-dog.json](./329096-box-dog.json) |
