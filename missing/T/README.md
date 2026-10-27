@@ -6572,6 +6572,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crow's Eye | 6730 | [6730-the-crows-eye.json](./6730-the-crows-eye.json) |
 | The Crow's Eye: Deluxe Edition | 187854 | [187854-the-crows-eye-deluxe-edition.json](./187854-the-crows-eye-deluxe-edition.json) |
 | The Crowded party game collection | 28887 | [28887-the-crowded-party-game-collection.json](./28887-the-crowded-party-game-collection.json) |
+| The Crown & The Flame: Book 1 | 313634 | [313634-the-crown-and-the-flame-book-1.json](./313634-the-crown-and-the-flame-book-1.json) |
+| The Crown & The Flame: Book 2 | 313635 | [313635-the-crown-and-the-flame-book-2.json](./313635-the-crown-and-the-flame-book-2.json) |
+| The Crown & The Flame: Book 3 | 313637 | [313637-the-crown-and-the-flame-book-3.json](./313637-the-crown-and-the-flame-book-3.json) |
 | The Crown of Leaves | 51446 | [51446-the-crown-of-leaves.json](./51446-the-crown-of-leaves.json) |
 | The Crown of Leaves: Chapter 2 | 168840 | [168840-the-crown-of-leaves-chapter-2.json](./168840-the-crown-of-leaves-chapter-2.json) |
 | The Crown of Wu | 198497 | [198497-the-crown-of-wu.json](./198497-the-crown-of-wu.json) |
@@ -8891,6 +8894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Halloween Story | 219170 | [219170-the-halloween-story.json](./219170-the-halloween-story.json) |
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
 | The Hallways | 284310 | [284310-the-hallways.json](./284310-the-hallways.json) |
+| The Hallways | 313655 | [313655-the-hallways.json](./313655-the-hallways.json) |
 | The Halting Solution | 364639 | [364639-the-halting-solution.json](./364639-the-halting-solution.json) |
 | The Hamburger Isles | 356292 | [356292-the-hamburger-isles.json](./356292-the-hamburger-isles.json) |
 | The Hamiltonian Circuit | 297612 | [297612-the-hamiltonian-circuit.json](./297612-the-hamiltonian-circuit.json) |
@@ -13426,9 +13430,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Heir: Book 1 | 313675 | [313675-the-royal-heir-book-1.json](./313675-the-royal-heir-book-1.json) |
 | The Royal Heir: Book 2 | 313684 | [313684-the-royal-heir-book-2.json](./313684-the-royal-heir-book-2.json) |
 | The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
+| The Royal Holiday | 313672 | [313672-the-royal-holiday.json](./313672-the-royal-holiday.json) |
 | The Royal Marines Commando | 9370 | [9370-the-royal-marines-commando.json](./9370-the-royal-marines-commando.json) |
+| The Royal Masquerade | 313643 | [313643-the-royal-masquerade.json](./313643-the-royal-masquerade.json) |
 | The Royal Office of Magick Affairs | 315654 | [315654-the-royal-office-of-magick-affairs.json](./315654-the-royal-office-of-magick-affairs.json) |
 | The Royal Rebel Casino | 369365 | [369365-the-royal-rebel-casino.json](./369365-the-royal-rebel-casino.json) |
+| The Royal Romance: Book 1 | 313668 | [313668-the-royal-romance-book-1.json](./313668-the-royal-romance-book-1.json) |
+| The Royal Romance: Book 2 | 313669 | [313669-the-royal-romance-book-2.json](./313669-the-royal-romance-book-2.json) |
+| The Royal Romance: Book 3 | 313670 | [313670-the-royal-romance-book-3.json](./313670-the-royal-romance-book-3.json) |
 | The Royal Writ | 340830 | [340830-the-royal-writ.json](./340830-the-royal-writ.json) |
 | The RPG | 250819 | [250819-the-rpg.json](./250819-the-rpg.json) |
 | The Rub Rabbits! | 20488 | [20488-the-rub-rabbits.json](./20488-the-rub-rabbits.json) |
@@ -25821,6 +25830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
 | Tree | 107899 | [107899-tree.json](./107899-tree.json) |
+| Tree Eater | 313654 | [313654-tree-eater.json](./313654-tree-eater.json) |
 | Tree Golf | 181662 | [181662-tree-golf.json](./181662-tree-golf.json) |
 | Tree Hole: Adventures In Wonderland | 248191 | [248191-tree-hole-adventures-in-wonderland.json](./248191-tree-hole-adventures-in-wonderland.json) |
 | Tree House : The Avocado Mayhem | 121255 | [121255-tree-house-the-avocado-mayhem.json](./121255-tree-house-the-avocado-mayhem.json) |
@@ -28175,6 +28185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizz'ed Firefarta | 407248 | [407248-twizzed-firefarta.json](./407248-twizzed-firefarta.json) |
 | Twizzle Puzzle: Animals | 280249 | [280249-twizzle-puzzle-animals.json](./280249-twizzle-puzzle-animals.json) |
 | Twizzle Puzzle: Cats | 277753 | [277753-twizzle-puzzle-cats.json](./277753-twizzle-puzzle-cats.json) |
+| Twizzle Puzzle: Dragons | 313653 | [313653-twizzle-puzzle-dragons.json](./313653-twizzle-puzzle-dragons.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Twizzle Puzzle: Mushrooms | 310260 | [310260-twizzle-puzzle-mushrooms.json](./310260-twizzle-puzzle-mushrooms.json) |
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
