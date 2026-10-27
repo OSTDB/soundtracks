@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Seeker | 370882 | [370882-immortal-seeker.json](./370882-immortal-seeker.json) |
 | Immortal Sins | 22029 | [22029-immortal-sins.json](./22029-immortal-sins.json) |
 | Immortal Snake Nest | 282845 | [282845-immortal-snake-nest.json](./282845-immortal-snake-nest.json) |
+| Immortal Souls: Dark Crusade | 321318 | [321318-immortal-souls-dark-crusade.json](./321318-immortal-souls-dark-crusade.json) |
 | Immortal Souls: John Turner #1 | 92399 | [92399-immortal-souls-john-turner-1.json](./92399-immortal-souls-john-turner-1.json) |
 | Immortal Space God | 164893 | [164893-immortal-space-god.json](./164893-immortal-space-god.json) |
 | Immortal Tactics: War of the Eternals | 192756 | [192756-immortal-tactics-war-of-the-eternals.json](./192756-immortal-tactics-war-of-the-eternals.json) |
