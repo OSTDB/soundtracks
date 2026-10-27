@@ -835,7 +835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3168,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Desert City | 281952 | [281952-battle-for-desert-city.json](./281952-battle-for-desert-city.json) |
 | Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
 | Battle For Embolia | 123390 | [123390-battle-for-embolia.json](./123390-battle-for-embolia.json) |
+| Battle for Ercaton: Robot Uprising | 291437 | [291437-battle-for-ercaton-robot-uprising.json](./291437-battle-for-ercaton-robot-uprising.json) |
 | Battle for Gaming | 110081 | [110081-battle-for-gaming.json](./110081-battle-for-gaming.json) |
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
@@ -7779,6 +7779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole Simulator | 159544 | [159544-black-hole-simulator.json](./159544-black-hole-simulator.json) |
 | Black Hole Survivor | 311559 | [311559-black-hole-survivor.json](./311559-black-hole-survivor.json) |
 | Black Hole Visitor Center | 364459 | [364459-black-hole-visitor-center.json](./364459-black-hole-visitor-center.json) |
+| Black Hole Void | 291427 | [291427-black-hole-void.json](./291427-black-hole-void.json) |
 | Black Hole Void: Survive The Hole | 332601 | [332601-black-hole-void-survive-the-hole.json](./332601-black-hole-void-survive-the-hole.json) |
 | Black Hole: Farmageddon | 382410 | [382410-black-hole-farmageddon.json](./382410-black-hole-farmageddon.json) |
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
@@ -10398,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
 | BoBo | 14328 | [14328-bobo.json](./14328-bobo.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
+| Bobo Blitz | 291434 | [291434-bobo-blitz.json](./291434-bobo-blitz.json) |
 | Bobo in Hell | 391980 | [391980-bobo-in-hell.json](./391980-bobo-in-hell.json) |
 | Bobo Robot | 129653 | [129653-bobo-robot.json](./129653-bobo-robot.json) |
 | Bobo the Cat | 221984 | [221984-bobo-the-cat.json](./221984-bobo-the-cat.json) |
@@ -14782,6 +14784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletkour | 210480 | [210480-bulletkour.json](./210480-bulletkour.json) |
 | Bulletline | 101365 | [101365-bulletline.json](./101365-bulletline.json) |
 | BulletLive | 235660 | [235660-bulletlive.json](./235660-bulletlive.json) |
+| Bulletmancer | 291426 | [291426-bulletmancer.json](./291426-bulletmancer.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulleto Master | 81090 | [81090-bulleto-master.json](./81090-bulleto-master.json) |
 | Bulletombe | 316367 | [316367-bulletombe.json](./316367-bulletombe.json) |
