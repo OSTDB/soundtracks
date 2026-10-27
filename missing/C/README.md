@@ -9202,6 +9202,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-Pilot | 183378 | [183378-co-pilot.json](./183378-co-pilot.json) |
 | Co\|incidence | 303045 | [303045-co-incidence.json](./303045-co-incidence.json) |
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
+| Coach Bus Driving Simulator: Comfort Long Road Vehicle | 308840 | [308840-coach-bus-driving-simulator-comfort-long-road-vehicle.json](./308840-coach-bus-driving-simulator-comfort-long-road-vehicle.json) |
+| Coach Bus Driving Simulator: Fast Long Road Vehicle | 308839 | [308839-coach-bus-driving-simulator-fast-long-road-vehicle.json](./308839-coach-bus-driving-simulator-fast-long-road-vehicle.json) |
 | Coach Fight | 304104 | [304104-coach-fight.json](./304104-coach-fight.json) |
 | Coach K College Basketball | 46226 | [46226-coach-k-college-basketball.json](./46226-coach-k-college-basketball.json) |
 | Coaching Simulator | 312448 | [312448-coaching-simulator.json](./312448-coaching-simulator.json) |
@@ -11509,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
 | Conscript: Golden Gun Pack | 332002 | [332002-conscript-golden-gun-pack.json](./332002-conscript-golden-gun-pack.json) |
 | Conscript: Officer Edition | 384585 | [384585-conscript-officer-edition.json](./384585-conscript-officer-edition.json) |
+| Conscript: Trench Raider Pack | 308838 | [308838-conscript-trench-raider-pack.json](./308838-conscript-trench-raider-pack.json) |
 | Consecrated | 312297 | [312297-consecrated.json](./312297-consecrated.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Consentual Love In A Dungeon | 210471 | [210471-consentual-love-in-a-dungeon.json](./210471-consentual-love-in-a-dungeon.json) |
