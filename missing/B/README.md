@@ -835,7 +835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6353,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Band Survivors | 374786 | [374786-big-band-survivors.json](./374786-big-band-survivors.json) |
 | Big Bang | 263386 | [263386-big-bang.json](./263386-big-bang.json) |
 | Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
+| Big Bang Board Games | 288254 | [288254-big-bang-board-games.json](./288254-big-bang-board-games.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
 | Big Bang Brain Games | 84461 | [84461-big-bang-brain-games.json](./84461-big-bang-brain-games.json) |
 | Big Bang Mini | 18549 | [18549-big-bang-mini.json](./18549-big-bang-mini.json) |
@@ -6360,6 +6360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
 | Big Bang Racing | 58023 | [58023-big-bang-racing.json](./58023-big-bang-racing.json) |
 | Big Bang Show | 45943 | [45943-big-bang-show.json](./45943-big-bang-show.json) |
+| Big Bang Sudoku | 288255 | [288255-big-bang-sudoku.json](./288255-big-bang-sudoku.json) |
 | Big Bang West II | 338054 | [338054-big-bang-west-ii.json](./338054-big-bang-west-ii.json) |
 | Big Bash Boom | 112895 | [112895-big-bash-boom.json](./112895-big-bash-boom.json) |
 | Big Bash Cricket | 170402 | [170402-big-bash-cricket.json](./170402-big-bash-cricket.json) |
@@ -10682,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt Riley: A Reggae Adventure | 89052 | [89052-bolt-riley-a-reggae-adventure.json](./89052-bolt-riley-a-reggae-adventure.json) |
 | Bolt Runner | 298094 | [298094-bolt-runner.json](./298094-bolt-runner.json) |
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
+| Bolt'n'Punch | 288258 | [288258-boltnpunch.json](./288258-boltnpunch.json) |
 | BoltBreak 2 | 276281 | [276281-boltbreak-2.json](./276281-boltbreak-2.json) |
 | BoltBreak: Powers and Maps Pack | 252595 | [252595-boltbreak-powers-and-maps-pack.json](./252595-boltbreak-powers-and-maps-pack.json) |
 | Boltcraft | 203914 | [203914-boltcraft.json](./203914-boltcraft.json) |
@@ -12297,6 +12299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy with Cat | 207172 | [207172-boy-with-cat.json](./207172-boy-with-cat.json) |
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
+| Boyband Hell | 288177 | [288177-boyband-hell.json](./288177-boyband-hell.json) |
 | Boyce the Voice | 285369 | [285369-boyce-the-voice.json](./285369-boyce-the-voice.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend Exorcist | 265535 | [265535-boyfriend-exorcist.json](./265535-boyfriend-exorcist.json) |
