@@ -3408,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pendula Swing: The Complete Journey | 130075 | [130075-pendula-swing-the-complete-journey.json](./130075-pendula-swing-the-complete-journey.json) |
 | Penduline Village | 275654 | [275654-penduline-village.json](./275654-penduline-village.json) |
 | Pendulo Adventure Pack | 223537 | [223537-pendulo-adventure-pack.json](./223537-pendulo-adventure-pack.json) |
+| Pendulo Studios Collection | 284750 | [284750-pendulo-studios-collection.json](./284750-pendulo-studios-collection.json) |
 | Pendulous | 64841 | [64841-pendulous.json](./64841-pendulous.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Penelope Syndrome | 341585 | [341585-penelope-syndrome.json](./341585-penelope-syndrome.json) |
