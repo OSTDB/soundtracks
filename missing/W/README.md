@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack A Tako | 202179 | [202179-whack-a-tako.json](./202179-whack-a-tako.json) |
 | Whack a Vote: Hammering the Polls | 30785 | [30785-whack-a-vote-hammering-the-polls.json](./30785-whack-a-vote-hammering-the-polls.json) |
 | Whack First!: Fight the Moles | 212268 | [212268-whack-first-fight-the-moles.json](./212268-whack-first-fight-the-moles.json) |
+| Whack Mole | 328199 | [328199-whack-mole.json](./328199-whack-mole.json) |
 | Whack the Burglar | 234465 | [234465-whack-the-burglar.json](./234465-whack-the-burglar.json) |
 | Whack the Burglars | 193801 | [193801-whack-the-burglars.json](./193801-whack-the-burglars.json) |
 | Whack the Serial Killer | 90514 | [90514-whack-the-serial-killer.json](./90514-whack-the-serial-killer.json) |
@@ -3847,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Fog | 347871 | [347871-whispers-in-the-fog.json](./347871-whispers-in-the-fog.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
+| Whispers in the Wood | 328198 | [328198-whispers-in-the-wood.json](./328198-whispers-in-the-wood.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
 | Whispers of Ancient Stone | 195578 | [195578-whispers-of-ancient-stone.json](./195578-whispers-of-ancient-stone.json) |
 | Whispers of Appalachia | 389925 | [389925-whispers-of-appalachia.json](./389925-whispers-of-appalachia.json) |
@@ -5190,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter's Wish: Spirits of Edo | 195090 | [195090-winters-wish-spirits-of-edo.json](./195090-winters-wish-spirits-of-edo.json) |
 | Winter's Wrath | 369460 | [369460-winters-wrath.json](./369460-winters-wrath.json) |
 | Winterbells | 95367 | [95367-winterbells.json](./95367-winterbells.json) |
+| WinterBunny444 | 328385 | [328385-winterbunny444.json](./328385-winterbunny444.json) |
 | Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
 | Wintercoffin | 323592 | [323592-wintercoffin.json](./323592-wintercoffin.json) |
 | Winterfall | 118453 | [118453-winterfall.json](./118453-winterfall.json) |
