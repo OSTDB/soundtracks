@@ -3053,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariachi Legends | 252852 | [252852-mariachi-legends.json](./252852-mariachi-legends.json) |
 | Mariachi Undead | 157413 | [157413-mariachi-undead.json](./157413-mariachi-undead.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
+| Mariana | 318361 | [318361-mariana.json](./318361-mariana.json) |
 | Maribato! | 234649 | [234649-maribato.json](./234649-maribato.json) |
 | Marica: Shinjitsu no Sekai | 61389 | [61389-marica-shinjitsu-no-sekai.json](./61389-marica-shinjitsu-no-sekai.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
@@ -5277,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Crusher | 104827 | [104827-maze-crusher.json](./104827-maze-crusher.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
+| Maze Domination | 318450 | [318450-maze-domination.json](./318450-maze-domination.json) |
 | Maze Escape | 160303 | [160303-maze-escape.json](./160303-maze-escape.json) |
 | Maze Escape | 320813 | [320813-maze-escape.json](./320813-maze-escape.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
@@ -10054,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Mills Online | 351071 | [351071-mills-online.json](./351071-mills-online.json) |
 | Millsberry | 227936 | [227936-millsberry.json](./227936-millsberry.json) |
+| Millumi | 318372 | [318372-millumi.json](./318372-millumi.json) |
 | Milly's Meadow | 346663 | [346663-millys-meadow.json](./346663-millys-meadow.json) |
 | MilMo | 93509 | [93509-milmo.json](./93509-milmo.json) |
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
