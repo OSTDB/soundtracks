@@ -5242,7 +5242,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem 2048 | 269125 | [269125-mayhem-2048.json](./269125-mayhem-2048.json) |
 | Mayhem À La Carte | 417462 | [417462-mayhem-a-la-carte.json](./417462-mayhem-a-la-carte.json) |
 | Mayhem Above | 55502 | [55502-mayhem-above.json](./55502-mayhem-above.json) |
-| Mayhem Brawler | 143858 | [143858-mayhem-brawler.json](./143858-mayhem-brawler.json) |
 | Mayhem Brawler II: Best of Both Worlds | 264802 | [264802-mayhem-brawler-ii-best-of-both-worlds.json](./264802-mayhem-brawler-ii-best-of-both-worlds.json) |
 | Mayhem Combat | 104410 | [104410-mayhem-combat.json](./104410-mayhem-combat.json) |
 | Mayhem Combat - Fighting Game | 104550 | [104550-mayhem-combat-fighting-game.json](./104550-mayhem-combat-fighting-game.json) |
@@ -12523,7 +12522,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modice | 421198 | [421198-modice.json](./421198-modice.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | ModNation Racers | 4841 | [4841-modnation-racers.json](./4841-modnation-racers.json) |
-| ModNation Racers: Road Trip | 22882 | [22882-modnation-racers-road-trip.json](./22882-modnation-racers-road-trip.json) |
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
 | Modo Modo | 374022 | [374022-modo-modo.json](./374022-modo-modo.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
