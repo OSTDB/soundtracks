@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: The Thousand-Year Door Encore | 357451 | [357451-paper-mario-the-thousand-year-door-encore.json](./357451-paper-mario-the-thousand-year-door-encore.json) |
 | Paper Mario: The Thousand-Year Door Randomizer | 407252 | [407252-paper-mario-the-thousand-year-door-randomizer.json](./407252-paper-mario-the-thousand-year-door-randomizer.json) |
 | Paper Mario: Time Strewn Star | 323363 | [323363-paper-mario-time-strewn-star.json](./323363-paper-mario-time-strewn-star.json) |
+| Paper Mario: TTYD - Tower of Trials | 313077 | [313077-paper-mario-ttyd-tower-of-trials.json](./313077-paper-mario-ttyd-tower-of-trials.json) |
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
 | Paper Monsters Recut | 17668 | [17668-paper-monsters-recut.json](./17668-paper-monsters-recut.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
@@ -3048,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC-Man | 25148 | [25148-pc-man.json](./25148-pc-man.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
+| PCDX | 313082 | [313082-pcdx.json](./313082-pcdx.json) |
 | PD Ultraman Link | 107621 | [107621-pd-ultraman-link.json](./107621-pd-ultraman-link.json) |
 | PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
 | PDC World Championship Darts 2008 | 5092 | [5092-pdc-world-championship-darts-2008.json](./5092-pdc-world-championship-darts-2008.json) |
@@ -8358,9 +8360,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation All-Stars Battle Royale | 7390 | [7390-playstation-all-stars-battle-royale.json](./7390-playstation-all-stars-battle-royale.json) |
 | PlayStation All-Stars Battle Royale: Big Daddy Plushy | 315076 | [315076-playstation-all-stars-battle-royale-big-daddy-plushy.json](./315076-playstation-all-stars-battle-royale-big-daddy-plushy.json) |
 | PlayStation All-Stars Battle Royale: Bistro Toro | 315078 | [315078-playstation-all-stars-battle-royale-bistro-toro.json](./315078-playstation-all-stars-battle-royale-bistro-toro.json) |
+| PlayStation All-Stars Battle Royale: Emmet Graves | 313038 | [313038-playstation-all-stars-battle-royale-emmet-graves.json](./313038-playstation-all-stars-battle-royale-emmet-graves.json) |
 | PlayStation All-Stars Battle Royale: Fearless | 312972 | [312972-playstation-all-stars-battle-royale-fearless.json](./312972-playstation-all-stars-battle-royale-fearless.json) |
 | PlayStation All-Stars Battle Royale: Funky Astro Suit PaRappa | 315077 | [315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json](./315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json) |
 | PlayStation All-Stars Battle Royale: Instructor Mooselini Minion | 315079 | [315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json](./315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json) |
+| PlayStation All-Stars Battle Royale: Isaac Clarke | 313041 | [313041-playstation-all-stars-battle-royale-isaac-clarke.json](./313041-playstation-all-stars-battle-royale-isaac-clarke.json) |
+| PlayStation All-Stars Battle Royale: Kat & Dusty | 313037 | [313037-playstation-all-stars-battle-royale-kat-and-dusty.json](./313037-playstation-all-stars-battle-royale-kat-and-dusty.json) |
+| PlayStation All-Stars Battle Royale: Zeus | 313040 | [313040-playstation-all-stars-battle-royale-zeus.json](./313040-playstation-all-stars-battle-royale-zeus.json) |
 | PlayStation Classic | 213365 | [213365-playstation-classic.json](./213365-playstation-classic.json) |
 | PlayStation Home | 80196 | [80196-playstation-home.json](./80196-playstation-home.json) |
 | PlayStation Home Arcade | 80197 | [80197-playstation-home-arcade.json](./80197-playstation-home-arcade.json) |
@@ -9574,6 +9580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pinball Generations | 259768 | [259768-pokemon-pinball-generations.json](./259768-pokemon-pinball-generations.json) |
 | Pokémon Pinball Mini | 66030 | [66030-pokemon-pinball-mini.json](./66030-pokemon-pinball-mini.json) |
 | Pokémon Pinball: Ruby & Sapphire | 4069 | [4069-pokemon-pinball-ruby-and-sapphire.json](./4069-pokemon-pinball-ruby-and-sapphire.json) |
+| Pokémon Pisces Version | 313075 | [313075-pokemon-pisces-version.json](./313075-pokemon-pisces-version.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Plastic Pyrite | 409024 | [409024-pokemon-plastic-pyrite.json](./409024-pokemon-plastic-pyrite.json) |
 | Pokémon Platinum Kaizo | 417294 | [417294-pokemon-platinum-kaizo.json](./417294-pokemon-platinum-kaizo.json) |
@@ -14728,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch & Judy | 354584 | [354584-punch-and-judy.json](./354584-punch-and-judy.json) |
 | Punch A Plant! | 306431 | [306431-punch-a-plant.json](./306431-punch-a-plant.json) |
 | Punch Arena | 390726 | [390726-punch-arena.json](./390726-punch-arena.json) |
+| Punch Ball Antonball | 313052 | [313052-punch-ball-antonball.json](./313052-punch-ball-antonball.json) |
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
 | Punch Bomb | 31852 | [31852-punch-bomb.json](./31852-punch-bomb.json) |
 | Punch Boy | 83212 | [83212-punch-boy.json](./83212-punch-boy.json) |
