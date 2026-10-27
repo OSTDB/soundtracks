@@ -4543,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Project | 249676 | [249676-final-project.json](./249676-final-project.json) |
 | Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
 | Final Racing | 206761 | [206761-final-racing.json](./206761-final-racing.json) |
+| Final Ranger | 280953 | [280953-final-ranger.json](./280953-final-ranger.json) |
 | Final Recurrence | 215570 | [215570-final-recurrence.json](./215570-final-recurrence.json) |
 | Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
 | Final Remedy | 236778 | [236778-final-remedy.json](./236778-final-remedy.json) |
@@ -8379,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forfeit | 217359 | [217359-forfeit.json](./217359-forfeit.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge | 19937 | [19937-forge.json](./19937-forge.json) |
+| Forge | 280963 | [280963-forge.json](./280963-forge.json) |
 | Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
 | Forge and Fight | 118768 | [118768-forge-and-fight.json](./118768-forge-and-fight.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
@@ -11932,6 +11934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
 | Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
+| Future Flash | 280952 | [280952-future-flash.json](./280952-future-flash.json) |
 | Future Football Manager | 214110 | [214110-future-football-manager.json](./214110-future-football-manager.json) |
 | Future Fortune | 173194 | [173194-future-fortune.json](./173194-future-fortune.json) |
 | Future Front | 241283 | [241283-future-front.json](./241283-future-front.json) |
