@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mace: The Dark Age | 3535 | [3535-mace-the-dark-age.json](./3535-mace-the-dark-age.json) |
 | Maces and Dices | 252028 | [252028-maces-and-dices.json](./252028-maces-and-dices.json) |
 | MacGolf | 288706 | [288706-macgolf.json](./288706-macgolf.json) |
+| MacGolf Classic | 294654 | [294654-macgolf-classic.json](./294654-macgolf-classic.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
 | Mach Go Go Go | 228608 | [228608-mach-go-go-go.json](./228608-mach-go-go-go.json) |
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
@@ -2200,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make War | 121410 | [121410-make-war.json](./121410-make-war.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
 | Make Way | 258230 | [258230-make-way.json](./258230-make-way.json) |
+| Make Way | 294663 | [294663-make-way.json](./294663-make-way.json) |
 | Make Way: Legends Pack | 399141 | [399141-make-way-legends-pack.json](./399141-make-way-legends-pack.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
 | Make your Adventure | 135011 | [135011-make-your-adventure.json](./135011-make-your-adventure.json) |
@@ -3145,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi's Delightful Adventure | 307725 | [307725-mario-and-luigis-delightful-adventure.json](./307725-mario-and-luigis-delightful-adventure.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
 | Mario & Sonic at the London 2012 Olympic Games | 2708 | [2708-mario-and-sonic-at-the-london-2012-olympic-games.json](./2708-mario-and-sonic-at-the-london-2012-olympic-games.json) |
+| Mario & Sonic at the London 2012 Olympic Games: Virtual Card Album | 294652 | [294652-mario-and-sonic-at-the-london-2012-olympic-games-virtual-card-album.json](./294652-mario-and-sonic-at-the-london-2012-olympic-games-virtual-card-album.json) |
 | Mario & Sonic at the Olympic Games | 132108 | [132108-mario-and-sonic-at-the-olympic-games.json](./132108-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Games Tokyo 2020: Arcade Edition | 158975 | [158975-mario-and-sonic-at-the-olympic-games-tokyo-2020-arcade-edition.json](./158975-mario-and-sonic-at-the-olympic-games-tokyo-2020-arcade-edition.json) |
 | Mario & Sonic at the Olympic Winter Games | 132109 | [132109-mario-and-sonic-at-the-olympic-winter-games.json](./132109-mario-and-sonic-at-the-olympic-winter-games.json) |
@@ -8644,6 +8647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metonymy | 67898 | [67898-metonymy.json](./67898-metonymy.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
 | Metrail | 125108 | [125108-metrail.json](./125108-metrail.json) |
+| Metranaut | 294745 | [294745-metranaut.json](./294745-metranaut.json) |
 | Metrania | 75595 | [75595-metrania.json](./75595-metrania.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metrico | 19919 | [19919-metrico.json](./19919-metrico.json) |
@@ -10367,6 +10371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindLoop | 365195 | [365195-mindloop.json](./365195-mindloop.json) |
 | Mindmazer | 180646 | [180646-mindmazer.json](./180646-mindmazer.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
+| MindMindMind | 294672 | [294672-mindmindmind.json](./294672-mindmindmind.json) |
 | Mindmist | 142653 | [142653-mindmist.json](./142653-mindmist.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
 | Mindread | 293992 | [293992-mindread.json](./293992-mindread.json) |
@@ -15695,12 +15700,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP2: Virtual Land | 283660 | [283660-mp2-virtual-land.json](./283660-mp2-virtual-land.json) |
 | MP2: Warriors | 283658 | [283658-mp2-warriors.json](./283658-mp2-warriors.json) |
 | MP2: Yoshi Valley | 283774 | [283774-mp2-yoshi-valley.json](./283774-mp2-yoshi-valley.json) |
+| MP3: (Piranha Plant's) Pipe Wonderland | 294756 | [294756-mp3-piranha-plants-pipe-wonderland.json](./294756-mp3-piranha-plants-pipe-wonderland.json) |
 | MP3: Big Boo's Black Hole Boardwalk | 314580 | [314580-mp3-big-boos-black-hole-boardwalk.json](./314580-mp3-big-boos-black-hole-boardwalk.json) |
+| MP3: Bowser's Carnival | 294757 | [294757-mp3-bowsers-carnival.json](./294757-mp3-bowsers-carnival.json) |
 | MP3: DK's Jungle Adventure | 314578 | [314578-mp3-dks-jungle-adventure.json](./314578-mp3-dks-jungle-adventure.json) |
+| MP3: Electrodome | 294761 | [294761-mp3-electrodome.json](./294761-mp3-electrodome.json) |
 | MP3: Ghastly Graveyard | 314585 | [314585-mp3-ghastly-graveyard.json](./314585-mp3-ghastly-graveyard.json) |
 | MP3: Loserville | 314579 | [314579-mp3-loserville.json](./314579-mp3-loserville.json) |
+| MP3: Maple Blossom Beach | 294759 | [294759-mp3-maple-blossom-beach.json](./294759-mp3-maple-blossom-beach.json) |
 | MP3: Parched Sands | 314582 | [314582-mp3-parched-sands.json](./314582-mp3-parched-sands.json) |
+| MP3: Seasonal Woodland | 294755 | [294755-mp3-seasonal-woodland.json](./294755-mp3-seasonal-woodland.json) |
 | MP3: Shiver Blossom Shore | 314583 | [314583-mp3-shiver-blossom-shore.json](./314583-mp3-shiver-blossom-shore.json) |
+| MP3: TRG Land Direct | 294760 | [294760-mp3-trg-land-direct.json](./294760-mp3-trg-land-direct.json) |
+| MP3: Yoshi's Galapagos | 294758 | [294758-mp3-yoshis-galapagos.json](./294758-mp3-yoshis-galapagos.json) |
 | MP5 | 201242 | [201242-mp5.json](./201242-mp5.json) |
 | MPaliens | 120913 | [120913-mpaliens.json](./120913-mpaliens.json) |
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
@@ -18235,6 +18247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myopia | 362445 | [362445-myopia.json](./362445-myopia.json) |
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
+| MyPopgoes | 294744 | [294744-mypopgoes.json](./294744-mypopgoes.json) |
 | MyPopgoes: New and Improved! | 327307 | [327307-mypopgoes-new-and-improved.json](./327307-mypopgoes-new-and-improved.json) |
 | Myrcella the Meandering Mage | 271610 | [271610-myrcella-the-meandering-mage.json](./271610-myrcella-the-meandering-mage.json) |
 | Mýrdalssandur, Iceland | 130176 | [130176-myrdalssandur-iceland.json](./130176-myrdalssandur-iceland.json) |
