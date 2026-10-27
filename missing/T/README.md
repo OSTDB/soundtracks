@@ -10511,6 +10511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Eratus: Dragonlord | 167268 | [167268-the-legend-of-eratus-dragonlord.json](./167268-the-legend-of-eratus-dragonlord.json) |
 | The Legend of Evil | 110892 | [110892-the-legend-of-evil.json](./110892-the-legend-of-evil.json) |
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
+| The Legend of Ezra Raymond Squirrel | 331774 | [331774-the-legend-of-ezra-raymond-squirrel.json](./331774-the-legend-of-ezra-raymond-squirrel.json) |
 | The Legend of Fatinha | 415846 | [415846-the-legend-of-fatinha.json](./415846-the-legend-of-fatinha.json) |
 | The Legend of Faty | 100557 | [100557-the-legend-of-faty.json](./100557-the-legend-of-faty.json) |
 | The Legend of Fidex | 145606 | [145606-the-legend-of-fidex.json](./145606-the-legend-of-fidex.json) |
@@ -10664,6 +10665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
 | The Legend of The Black Wizard | 157471 | [157471-the-legend-of-the-black-wizard.json](./157471-the-legend-of-the-black-wizard.json) |
 | The Legend of the Blue Sword | 307980 | [307980-the-legend-of-the-blue-sword.json](./307980-the-legend-of-the-blue-sword.json) |
+| The Legend of the Chao | 331776 | [331776-the-legend-of-the-chao.json](./331776-the-legend-of-the-chao.json) |
 | The Legend of the Dragonflame High School | 54849 | [54849-the-legend-of-the-dragonflame-high-school.json](./54849-the-legend-of-the-dragonflame-high-school.json) |
 | The Legend of the Dragonflame High School 2 | 115380 | [115380-the-legend-of-the-dragonflame-high-school-2.json](./115380-the-legend-of-the-dragonflame-high-school-2.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
@@ -22164,6 +22166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Accurate GamePlay | 188321 | [188321-totally-accurate-gameplay.json](./188321-totally-accurate-gameplay.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Convenient | 188907 | [188907-totally-convenient.json](./188907-totally-convenient.json) |
+| Totally Defenceless | 331801 | [331801-totally-defenceless.json](./331801-totally-defenceless.json) |
 | Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
 | Totally Normal Boyfriend | 189864 | [189864-totally-normal-boyfriend.json](./189864-totally-normal-boyfriend.json) |
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
@@ -23861,6 +23864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: ScotRail Express: Edinburgh - Glasgow Route Add-On | 359488 | [359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json](./359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json) |
 | Train Sim World 5: Sherman Hill - Cheyenne - Laramie | 332095 | [332095-train-sim-world-5-sherman-hill-cheyenne-laramie.json](./332095-train-sim-world-5-sherman-hill-cheyenne-laramie.json) |
 | Train Sim World 5: Southern BR Class 313 EMU | 359484 | [359484-train-sim-world-5-southern-br-class-313-emu.json](./359484-train-sim-world-5-southern-br-class-313-emu.json) |
+| Train Sim World 5: Special Edition | 331829 | [331829-train-sim-world-5-special-edition.json](./331829-train-sim-world-5-special-edition.json) |
 | Train Sim World 5: Spirit of Steam: Liverpool Lime Street - Crewe Route Add-On | 359961 | [359961-train-sim-world-5-spirit-of-steam-liverpool-lime-street-crewe-route-add-on.json](./359961-train-sim-world-5-spirit-of-steam-liverpool-lime-street-crewe-route-add-on.json) |
 | Train Sim World 5: Spoorlijn Zwolle - Groningen Route Add-On | 354563 | [354563-train-sim-world-5-spoorlijn-zwolle-groningen-route-add-on.json](./354563-train-sim-world-5-spoorlijn-zwolle-groningen-route-add-on.json) |
 | Train Sim World 5: Tees Valley Line: Darlington – Saltburn-by-the-Sea Route Add-On | 359937 | [359937-train-sim-world-5-tees-valley-line-darlington-saltburn-by-the-sea-route-add-on.json](./359937-train-sim-world-5-tees-valley-line-darlington-saltburn-by-the-sea-route-add-on.json) |
@@ -23869,7 +23873,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Thomas & Friends 80th Anniversary Expansion | 354562 | [354562-train-sim-world-5-thomas-and-friends-80th-anniversary-expansion.json](./354562-train-sim-world-5-thomas-and-friends-80th-anniversary-expansion.json) |
 | Train Sim World 5: Thomas & Friends Edition | 336885 | [336885-train-sim-world-5-thomas-and-friends-edition.json](./336885-train-sim-world-5-thomas-and-friends-edition.json) |
 | Train Sim World 5: Thomas & Friends Visit the West Somerset Railway | 354561 | [354561-train-sim-world-5-thomas-and-friends-visit-the-west-somerset-railway.json](./354561-train-sim-world-5-thomas-and-friends-visit-the-west-somerset-railway.json) |
+| Train Sim World 5: UK Regional Edition | 331830 | [331830-train-sim-world-5-uk-regional-edition.json](./331830-train-sim-world-5-uk-regional-edition.json) |
 | Train Sim World 5: Union Pacific Heritage Livery Collection | 359184 | [359184-train-sim-world-5-union-pacific-heritage-livery-collection.json](./359184-train-sim-world-5-union-pacific-heritage-livery-collection.json) |
+| Train Sim World 5: USA Regional Edition | 331831 | [331831-train-sim-world-5-usa-regional-edition.json](./331831-train-sim-world-5-usa-regional-edition.json) |
 | Train Sim World 5: West Coast Main Line: London Euston - Milton Keynes Route Add-On | 360158 | [360158-train-sim-world-5-west-coast-main-line-london-euston-milton-keynes-route-add-on.json](./360158-train-sim-world-5-west-coast-main-line-london-euston-milton-keynes-route-add-on.json) |
 | Train Sim World 5: West Coast Main Line: Preston - Carlisle | 402357 | [402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json](./402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json) |
 | Train Sim World 5: West Cornwall Local: Penzance - St Austell & St Ives Route | 359494 | [359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json](./359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json) |
@@ -26173,6 +26179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trionix | 91287 | [91287-trionix.json](./91287-trionix.json) |
 | Triopticon | 284281 | [284281-triopticon.json](./284281-triopticon.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
+| Triotale | 331778 | [331778-triotale.json](./331778-triotale.json) |
 | Trip | 110120 | [110120-trip.json](./110120-trip.json) |
 | Trip | 217479 | [217479-trip.json](./217479-trip.json) |
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
