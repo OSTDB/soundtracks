@@ -3338,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
 | Ten Shot | 310268 | [310268-ten-shot.json](./310268-ten-shot.json) |
+| Ten Ten | 318463 | [318463-ten-ten.json](./318463-ten-ten.json) |
 | Ten Thousand Immortals | 284287 | [284287-ten-thousand-immortals.json](./284287-ten-thousand-immortals.json) |
 | Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
 | Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
@@ -9983,6 +9984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight of Niraking | 392162 | [392162-the-knight-of-niraking.json](./392162-the-knight-of-niraking.json) |
 | The Knight of the Castles | 184453 | [184453-the-knight-of-the-castles.json](./184453-the-knight-of-the-castles.json) |
 | The Knight of the Crimson Tower | 228895 | [228895-the-knight-of-the-crimson-tower.json](./228895-the-knight-of-the-crimson-tower.json) |
+| The Knight of Thistledown | 318461 | [318461-the-knight-of-thistledown.json](./318461-the-knight-of-thistledown.json) |
 | The Knight of Turn | 192667 | [192667-the-knight-of-turn.json](./192667-the-knight-of-turn.json) |
 | The Knight Witch | 201483 | [201483-the-knight-witch.json](./201483-the-knight-witch.json) |
 | The Knight's Challenge | 350369 | [350369-the-knights-challenge.json](./350369-the-knights-challenge.json) |
@@ -22634,6 +22636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rakuryuusei: The Shattered Sky | 280870 | [280870-touhou-rakuryuusei-the-shattered-sky.json](./280870-touhou-rakuryuusei-the-shattered-sky.json) |
 | Touhou Rei'iden: The Highly Responsive to Prayers | 45967 | [45967-touhou-reiiden-the-highly-responsive-to-prayers.json](./45967-touhou-reiiden-the-highly-responsive-to-prayers.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
+| Touhou Renkyouto: Subterranean Festival of Love and Jealousy | 318452 | [318452-touhou-renkyouto-subterranean-festival-of-love-and-jealousy.json](./318452-touhou-renkyouto-subterranean-festival-of-love-and-jealousy.json) |
 | Touhou Rhythm Carnival! Kurenai | 77860 | [77860-touhou-rhythm-carnival-kurenai.json](./77860-touhou-rhythm-carnival-kurenai.json) |
 | Touhou Rinrinki: Crafts of the Lucky Beast | 356040 | [356040-touhou-rinrinki-crafts-of-the-lucky-beast.json](./356040-touhou-rinrinki-crafts-of-the-lucky-beast.json) |
 | Touhou Risouen: Terminus of Unreal Darkside | 360202 | [360202-touhou-risouen-terminus-of-unreal-darkside.json](./360202-touhou-risouen-terminus-of-unreal-darkside.json) |
