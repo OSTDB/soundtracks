@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Costume "Forever U & I" | 306197 | [306197-yohane-the-parhelion-costume-forever-u-and-i.json](./306197-yohane-the-parhelion-costume-forever-u-and-i.json) |
 | Yohane the Parhelion: Costume "Holy Knight" | 316223 | [316223-yohane-the-parhelion-costume-holy-knight.json](./316223-yohane-the-parhelion-costume-holy-knight.json) |
 | Yohane the Parhelion: Costume "Million Dollar Kitty" | 312119 | [312119-yohane-the-parhelion-costume-million-dollar-kitty.json](./312119-yohane-the-parhelion-costume-million-dollar-kitty.json) |
+| Yohane the Parhelion: Costume "Summer Vacation" | 308841 | [308841-yohane-the-parhelion-costume-summer-vacation.json](./308841-yohane-the-parhelion-costume-summer-vacation.json) |
 | Yohane the Parhelion: Numazu in the Mirage - "Yohane the Parhelion" song set | 315499 | [315499-yohane-the-parhelion-numazu-in-the-mirage-yohane-the-parhelion-song-set.json](./315499-yohane-the-parhelion-numazu-in-the-mirage-yohane-the-parhelion-song-set.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Far far away" | 315497 | [315497-yohane-the-parhelion-numazu-in-the-mirage-costume-far-far-away.json](./315497-yohane-the-parhelion-numazu-in-the-mirage-costume-far-far-away.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Fledgling" | 315495 | [315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json](./315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json) |
