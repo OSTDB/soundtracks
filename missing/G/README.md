@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Your Breath | 415756 | [415756-gamble-your-breath.json](./415756-gamble-your-breath.json) |
 | Gamble: Hard Exit | 389481 | [389481-gamble-hard-exit.json](./389481-gamble-hard-exit.json) |
 | Gamblemancer TD | 280101 | [280101-gamblemancer-td.json](./280101-gamblemancer-td.json) |
+| Gambler Densetsu Tetsuya Digest | 332956 | [332956-gambler-densetsu-tetsuya-digest.json](./332956-gambler-densetsu-tetsuya-digest.json) |
 | Gambler Densetsu Tetsuya: Shinjuku Tenun-hen | 281451 | [281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json](./281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json) |
 | Gambler Jiko Chuushin-ha 2: Dorapon Quest | 44406 | [44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json](./44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json) |
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Doraemon: Shin Nobita no Nippon Tanjou | 59055 | [59055-game-doraemon-shin-nobita-no-nippon-tanjou.json](./59055-game-doraemon-shin-nobita-no-nippon-tanjou.json) |
 | Game e-Ninja Neptunia | 116803 | [116803-game-e-ninja-neptunia.json](./116803-game-e-ninja-neptunia.json) |
 | Game Empire Tycoon: Dealer Simulator | 315932 | [315932-game-empire-tycoon-dealer-simulator.json](./315932-game-empire-tycoon-dealer-simulator.json) |
+| Game for Aliens | 332941 | [332941-game-for-aliens.json](./332941-game-for-aliens.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
@@ -1356,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Labs | 263413 | [263413-gamma-labs.json](./263413-gamma-labs.json) |
 | Gamma Nocturne 1 | 211698 | [211698-gamma-nocturne-1.json](./211698-gamma-nocturne-1.json) |
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
+| Gamma Zero | 332923 | [332923-gamma-zero.json](./332923-gamma-zero.json) |
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
@@ -5593,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf For Fun in Ice | 173229 | [173229-golf-for-fun-in-ice.json](./173229-golf-for-fun-in-ice.json) |
 | Golf for Workgroups | 30109 | [30109-golf-for-workgroups.json](./30109-golf-for-workgroups.json) |
 | Golf Galore | 104875 | [104875-golf-galore.json](./104875-golf-galore.json) |
+| Golf Gambit | 332908 | [332908-golf-gambit.json](./332908-golf-gambit.json) |
 | Golf Gaming | 181721 | [181721-golf-gaming.json](./181721-golf-gaming.json) |
 | Golf Gang | 142998 | [142998-golf-gang.json](./142998-golf-gang.json) |
 | Golf Grand Slam | 48285 | [48285-golf-grand-slam.json](./48285-golf-grand-slam.json) |
@@ -7488,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Steps | 411970 | [411970-green-steps.json](./411970-green-steps.json) |
 | Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
 | Green the Planet | 344937 | [344937-green-the-planet.json](./344937-green-the-planet.json) |
+| Green Thing from the Planet Jupiter | 332933 | [332933-green-thing-from-the-planet-jupiter.json](./332933-green-thing-from-the-planet-jupiter.json) |
 | Green Thumb | 291571 | [291571-green-thumb.json](./291571-green-thumb.json) |
 | Green Thumb Cards | 62157 | [62157-green-thumb-cards.json](./62157-green-thumb-cards.json) |
 | Green Valley | 224620 | [224620-green-valley.json](./224620-green-valley.json) |
