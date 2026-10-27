@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature's Wrath VR | 31038 | [31038-natures-wrath-vr.json](./31038-natures-wrath-vr.json) |
 | Nature's Zombie Apocalypse | 24993 | [24993-natures-zombie-apocalypse.json](./24993-natures-zombie-apocalypse.json) |
 | NatureFly | 86534 | [86534-naturefly.json](./86534-naturefly.json) |
+| Natures Ascendancy | 301237 | [301237-natures-ascendancy.json](./301237-natures-ascendancy.json) |
 | Naturix | 159182 | [159182-naturix.json](./159182-naturix.json) |
 | Naufrage | 182888 | [182888-naufrage.json](./182888-naufrage.json) |
 | Naught | 117751 | [117751-naught.json](./117751-naught.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
 | Necromancer's Army | 405706 | [405706-necromancers-army.json](./405706-necromancers-army.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
+| Necromancer's Revenge | 301880 | [301880-necromancers-revenge.json](./301880-necromancers-revenge.json) |
 | Necromancia | 302197 | [302197-necromancia.json](./302197-necromancia.json) |
 | Necromania: Trap of Darkness | 68965 | [68965-necromania-trap-of-darkness.json](./68965-necromania-trap-of-darkness.json) |
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
@@ -1503,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ned: Iron Outlaw | 256981 | [256981-ned-iron-outlaw.json](./256981-ned-iron-outlaw.json) |
 | Ned's Garden | 380105 | [380105-neds-garden.json](./380105-neds-garden.json) |
 | Neden | 182373 | [182373-neden.json](./182373-neden.json) |
+| Neden | 301800 | [301800-neden.json](./301800-neden.json) |
 | Nederland | 57013 | [57013-nederland.json](./57013-nederland.json) |
 | Nedetskie Skazki | 252821 | [252821-nedetskie-skazki.json](./252821-nedetskie-skazki.json) |
 | Nedia Hotel | 201548 | [201548-nedia-hotel.json](./201548-nedia-hotel.json) |
@@ -1564,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted - Black Edition | 43492 | [43492-need-for-speed-most-wanted-black-edition.json](./43492-need-for-speed-most-wanted-black-edition.json) |
 | Need for Speed: Most Wanted 5-1-0 | 121504 | [121504-need-for-speed-most-wanted-5-1-0.json](./121504-need-for-speed-most-wanted-5-1-0.json) |
+| Need for Speed: Most Wanted Demo | 301229 | [301229-need-for-speed-most-wanted-demo.json](./301229-need-for-speed-most-wanted-demo.json) |
 | Need for Speed: Nitro | 103 | [103-need-for-speed-nitro.json](./103-need-for-speed-nitro.json) |
 | Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
 | Need for Speed: Nitro-X | 84701 | [84701-need-for-speed-nitro-x.json](./84701-need-for-speed-nitro-x.json) |
@@ -4499,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
 | Ninja Stealth 4 | 163314 | [163314-ninja-stealth-4.json](./163314-ninja-stealth-4.json) |
+| Ninja Stealth 5 | 301308 | [301308-ninja-stealth-5.json](./301308-ninja-stealth-5.json) |
 | Ninja Step | 364651 | [364651-ninja-step.json](./364651-ninja-step.json) |
 | Ninja Story: Akio's Tale | 102743 | [102743-ninja-story-akios-tale.json](./102743-ninja-story-akios-tale.json) |
 | Ninja Strike | 11189 | [11189-ninja-strike.json](./11189-ninja-strike.json) |
@@ -5586,6 +5591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
 | Nonplace | 347593 | [347593-nonplace.json](./347593-nonplace.json) |
 | NonPlatonic Forms | 416362 | [416362-nonplatonic-forms.json](./416362-nonplatonic-forms.json) |
+| Nonsense | 301788 | [301788-nonsense.json](./301788-nonsense.json) |
 | Nonsense Asteroid | 134327 | [134327-nonsense-asteroid.json](./134327-nonsense-asteroid.json) |
 | Nonsense Fall | 348937 | [348937-nonsense-fall.json](./348937-nonsense-fall.json) |
 | Nonsense Soccer | 156874 | [156874-nonsense-soccer.json](./156874-nonsense-soccer.json) |
