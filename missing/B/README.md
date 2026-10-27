@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
 | Bago | 83449 | [83449-bago.json](./83449-bago.json) |
 | Bagration | 81665 | [81665-bagration.json](./81665-bagration.json) |
+| Baguette Wars | 313638 | [313638-baguette-wars.json](./313638-baguette-wars.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
 | Bahama Conch n Burger Shack | 113537 | [113537-bahama-conch-n-burger-shack.json](./113537-bahama-conch-n-burger-shack.json) |
 | Bahamian Rhapsody | 167378 | [167378-bahamian-rhapsody.json](./167378-bahamian-rhapsody.json) |
