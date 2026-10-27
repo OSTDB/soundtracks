@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | MadWheels | 185476 | [185476-madwheels.json](./185476-madwheels.json) |
+| Madzik | 294184 | [294184-madzik.json](./294184-madzik.json) |
 | Maegami ga Nagakute Seikaku ga Kurai Kakuu no Otoko | 416645 | [416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json](./416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json) |
 | Maeldor: Enhanced Edition | 235687 | [235687-maeldor-enhanced-edition.json](./235687-maeldor-enhanced-edition.json) |
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
@@ -2754,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansions of Madness: Altered Fates | 155415 | [155415-mansions-of-madness-altered-fates.json](./155415-mansions-of-madness-altered-fates.json) |
 | Mansions of Madness: Dark Reflections | 168929 | [168929-mansions-of-madness-dark-reflections.json](./168929-mansions-of-madness-dark-reflections.json) |
 | Mansions of Madness: What Lies Within | 168928 | [168928-mansions-of-madness-what-lies-within.json](./168928-mansions-of-madness-what-lies-within.json) |
+| Manticore | 293581 | [293581-manticore.json](./293581-manticore.json) |
 | Mantis Burn Racing | 24918 | [24918-mantis-burn-racing.json](./24918-mantis-burn-racing.json) |
 | Mantis Burn Racing: Battle Cars | 170307 | [170307-mantis-burn-racing-battle-cars.json](./170307-mantis-burn-racing-battle-cars.json) |
 | Mantis Burn Racing: Elite Class | 170305 | [170305-mantis-burn-racing-elite-class.json](./170305-mantis-burn-racing-elite-class.json) |
@@ -3785,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Power Industries Deluxe | 122168 | [122168-mars-power-industries-deluxe.json](./122168-mars-power-industries-deluxe.json) |
 | Mars Quest | 147220 | [147220-mars-quest.json](./147220-mars-quest.json) |
 | Mars Raid | 245455 | [245455-mars-raid.json](./245455-mars-raid.json) |
+| Mars Rapid Transit | 294194 | [294194-mars-rapid-transit.json](./294194-mars-rapid-transit.json) |
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Simulator: Red Planet | 29591 | [29591-mars-simulator-red-planet.json](./29591-mars-simulator-red-planet.json) |
@@ -5730,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Ritz: Steel Rondo | 32959 | [32959-mecha-ritz-steel-rondo.json](./32959-mecha-ritz-steel-rondo.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
 | Mecha Royale Online | 104212 | [104212-mecha-royale-online.json](./104212-mecha-royale-online.json) |
+| Mecha Simultactics | 293671 | [293671-mecha-simultactics.json](./293671-mecha-simultactics.json) |
 | Mecha Snake | 148130 | [148130-mecha-snake.json](./148130-mecha-snake.json) |
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
 | Mecha Survivors | 359921 | [359921-mecha-survivors.json](./359921-mecha-survivors.json) |
@@ -8592,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Destroyer | 178963 | [178963-meteor-destroyer.json](./178963-meteor-destroyer.json) |
 | Meteor Down! | 250880 | [250880-meteor-down.json](./250880-meteor-down.json) |
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
+| Meteor Havok | 293585 | [293585-meteor-havok.json](./293585-meteor-havok.json) |
 | Meteor Hunt Idle | 248096 | [248096-meteor-hunt-idle.json](./248096-meteor-hunt-idle.json) |
 | Meteor Mess | 220554 | [220554-meteor-mess.json](./220554-meteor-mess.json) |
 | Meteor Missiles | 142158 | [142158-meteor-missiles.json](./142158-meteor-missiles.json) |
@@ -10272,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind of the Eyes | 223339 | [223339-mind-of-the-eyes.json](./223339-mind-of-the-eyes.json) |
+| Mind of the Midwest | 293606 | [293606-mind-of-the-midwest.json](./293606-mind-of-the-midwest.json) |
 | Mind Over Magic | 211357 | [211357-mind-over-magic.json](./211357-mind-over-magic.json) |
 | Mind Over Magnet | 247310 | [247310-mind-over-magnet.json](./247310-mind-over-magnet.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
@@ -11121,6 +11127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
 | Minimalism | 29648 | [29648-minimalism.json](./29648-minimalism.json) |
 | Minimalist Box | 367010 | [367010-minimalist-box.json](./367010-minimalist-box.json) |
+| Minimalist Farm Tycoon | 294098 | [294098-minimalist-farm-tycoon.json](./294098-minimalist-farm-tycoon.json) |
 | Minimalist Mastery | 362781 | [362781-minimalist-mastery.json](./362781-minimalist-mastery.json) |
 | Minimalist Sudoku | 326295 | [326295-minimalist-sudoku.json](./326295-minimalist-sudoku.json) |
 | Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
@@ -11214,6 +11221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Stoic | 373310 | [373310-ministry-of-stoic.json](./373310-ministry-of-stoic.json) |
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
 | Minisweeper | 91195 | [91195-minisweeper.json](./91195-minisweeper.json) |
+| Minit Man | 293669 | [293669-minit-man.json](./293669-minit-man.json) |
 | MiniTale | 341288 | [341288-minitale.json](./341288-minitale.json) |
 | MiniTank: Desert Strike | 336973 | [336973-minitank-desert-strike.json](./336973-minitank-desert-strike.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
@@ -11555,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
 | Misc. A Tiny Tale | 138025 | [138025-misc-a-tiny-tale.json](./138025-misc-a-tiny-tale.json) |
 | Mischance | 148937 | [148937-mischance.json](./148937-mischance.json) |
+| Mischief | 294112 | [294112-mischief.json](./294112-mischief.json) |
 | Mischief Castle | 308162 | [308162-mischief-castle.json](./308162-mischief-castle.json) |
 | Mischief Dungeon Life | 204285 | [204285-mischief-dungeon-life.json](./204285-mischief-dungeon-life.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition | 225040 | [225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json](./225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json) |
@@ -11963,6 +11972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
 | Mithral Gun:Biomechanical | 122016 | [122016-mithral-gun-biomechanical.json](./122016-mithral-gun-biomechanical.json) |
+| Mithrall | 293584 | [293584-mithrall.json](./293584-mithrall.json) |
 | Mithronia: Tower Wars | 265322 | [265322-mithronia-tower-wars.json](./265322-mithronia-tower-wars.json) |
 | Mitigate | 384348 | [384348-mitigate.json](./384348-mitigate.json) |
 | Miting Simulator | 150393 | [150393-miting-simulator.json](./150393-miting-simulator.json) |
@@ -13132,6 +13142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Mono-Space | 278923 | [278923-mono-space.json](./278923-mono-space.json) |
+| Mono! | 294111 | [294111-mono.json](./294111-mono.json) |
 | Monoa City Parking | 121316 | [121316-monoa-city-parking.json](./121316-monoa-city-parking.json) |
 | Monobehevo | 196678 | [196678-monobehevo.json](./196678-monobehevo.json) |
 | Monobeno: Happy End | 396370 | [396370-monobeno-happy-end.json](./396370-monobeno-happy-end.json) |
@@ -15556,6 +15567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moved Mind | 292420 | [292420-moved-mind.json](./292420-moved-mind.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
 | Moveit | 188500 | [188500-moveit.json](./188500-moveit.json) |
+| Movement Gods | 294181 | [294181-movement-gods.json](./294181-movement-gods.json) |
 | Movers in the Warehouse | 171879 | [171879-movers-in-the-warehouse.json](./171879-movers-in-the-warehouse.json) |
 | Moves | 129081 | [129081-moves.json](./129081-moves.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
@@ -16903,6 +16915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutation Phase | 105093 | [105093-mutation-phase.json](./105093-mutation-phase.json) |
 | Mutations | 300556 | [300556-mutations.json](./300556-mutations.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
+| Mute Crimson DX | 293595 | [293595-mute-crimson-dx.json](./293595-mute-crimson-dx.json) |
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muted | 247899 | [247899-muted.json](./247899-muted.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
