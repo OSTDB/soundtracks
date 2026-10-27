@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
 | Magic Bubble | 45743 | [45743-magic-bubble.json](./45743-magic-bubble.json) |
 | Magic Bubbles | 225208 | [225208-magic-bubbles.json](./225208-magic-bubbles.json) |
+| Magic Card: CZ12 | 287690 | [287690-magic-card-cz12.json](./287690-magic-card-cz12.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Cards Solitaire 2: The Fountain of Life | 274915 | [274915-magic-cards-solitaire-2-the-fountain-of-life.json](./274915-magic-cards-solitaire-2-the-fountain-of-life.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
@@ -2891,6 +2892,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marauder Knight | 367296 | [367296-marauder-knight.json](./367296-marauder-knight.json) |
 | Marauder of Dystopia: The Weakest Go To The Wall | 254397 | [254397-marauder-of-dystopia-the-weakest-go-to-the-wall.json](./254397-marauder-of-dystopia-the-weakest-go-to-the-wall.json) |
 | Marauders | 132995 | [132995-marauders.json](./132995-marauders.json) |
+| Marballs | 287610 | [287610-marballs.json](./287610-marballs.json) |
+| Marballs 2 | 287611 | [287611-marballs-2.json](./287611-marballs-2.json) |
 | Marbella Vice | 371620 | [371620-marbella-vice.json](./371620-marbella-vice.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
@@ -7330,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mellings | 383440 | [383440-mellings.json](./383440-mellings.json) |
 | Mello | 188917 | [188917-mello.json](./188917-mello.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
+| Mellow | 287612 | [287612-mellow.json](./287612-mellow.json) |
 | Mellow Meadow Deluxe | 185497 | [185497-mellow-meadow-deluxe.json](./185497-mellow-meadow-deluxe.json) |
 | Mellow's PillowLand | 389013 | [389013-mellows-pillowland.json](./389013-mellows-pillowland.json) |
 | Mellstroy Survivor | 369753 | [369753-mellstroy-survivor.json](./369753-mellstroy-survivor.json) |
@@ -9573,6 +9577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Memoria | 403160 | [403160-midnight-memoria.json](./403160-midnight-memoria.json) |
 | Midnight Memories | 207747 | [207747-midnight-memories.json](./207747-midnight-memories.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
+| Midnight Monitor: Aldercourt | 287601 | [287601-midnight-monitor-aldercourt.json](./287601-midnight-monitor-aldercourt.json) |
 | Midnight Munchies | 343056 | [343056-midnight-munchies.json](./343056-midnight-munchies.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
