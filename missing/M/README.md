@@ -5479,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maziacs | 93136 | [93136-maziacs.json](./93136-maziacs.json) |
 | Mazie | 296038 | [296038-mazie.json](./296038-mazie.json) |
 | Mazin Saga: Mutant Fighter | 36947 | [36947-mazin-saga-mutant-fighter.json](./36947-mazin-saga-mutant-fighter.json) |
+| Mazinator | 285961 | [285961-mazinator.json](./285961-mazinator.json) |
 | Mazing | 165763 | [165763-mazing.json](./165763-mazing.json) |
 | Mazing Mad | 367278 | [367278-mazing-mad.json](./367278-mazing-mad.json) |
 | Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
@@ -8169,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
 | Merrily Perilly | 104028 | [104028-merrily-perilly.json](./104028-merrily-perilly.json) |
 | Merror | 374641 | [374641-merror.json](./374641-merror.json) |
+| Merry Bear | 285958 | [285958-merry-bear.json](./285958-merry-bear.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
 | Merry Clickmas | 23683 | [23683-merry-clickmas.json](./23683-merry-clickmas.json) |
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
@@ -16226,6 +16228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MugenCards | 200698 | [200698-mugencards.json](./200698-mugencards.json) |
 | Mugengikyou: First Disaster | 301352 | [301352-mugengikyou-first-disaster.json](./301352-mugengikyou-first-disaster.json) |
 | Mugengikyou: Second Departure | 301356 | [301356-mugengikyou-second-departure.json](./301356-mugengikyou-second-departure.json) |
+| Mugger Party | 286026 | [286026-mugger-party.json](./286026-mugger-party.json) |
 | Muggle Studies | 216440 | [216440-muggle-studies.json](./216440-muggle-studies.json) |
 | Muggo Clicker | 311479 | [311479-muggo-clicker.json](./311479-muggo-clicker.json) |
 | Muggo! | 237510 | [237510-muggo.json](./237510-muggo.json) |
