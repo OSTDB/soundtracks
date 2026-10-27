@@ -2547,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onka | 257317 | [257317-onka.json](./257317-onka.json) |
 | Online @ The Perfect Time | 208169 | [208169-online-the-perfect-time.json](./208169-online-the-perfect-time.json) |
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
+| Online Car Simulator | 293580 | [293580-online-car-simulator.json](./293580-online-car-simulator.json) |
 | Online Chess Kingdoms | 93388 | [93388-online-chess-kingdoms.json](./93388-online-chess-kingdoms.json) |
 | Online Circle Pong | 75000 | [75000-online-circle-pong.json](./75000-online-circle-pong.json) |
 | Online FNAF | 271388 | [271388-online-fnaf.json](./271388-online-fnaf.json) |
@@ -3571,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Legend 2 | 82753 | [82753-oriental-legend-2.json](./82753-oriental-legend-2.json) |
 | Oriental Legend Super | 82749 | [82749-oriental-legend-super.json](./82749-oriental-legend-super.json) |
 | Oriental Valley x Village Head Yiang Crossover Bundle DLC | 305545 | [305545-oriental-valley-x-village-head-yiang-crossover-bundle-dlc.json](./305545-oriental-valley-x-village-head-yiang-crossover-bundle-dlc.json) |
+| Orientir | 294104 | [294104-orientir.json](./294104-orientir.json) |
 | Orifoldium | 326282 | [326282-orifoldium.json](./326282-orifoldium.json) |
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
 | Origament: A Paper Adventure | 346998 | [346998-origament-a-paper-adventure.json](./346998-origament-a-paper-adventure.json) |
