@@ -2207,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Forces: Navy SEALs - Weapons of Mass Destruction | 72523 | [72523-elite-forces-navy-seals-weapons-of-mass-destruction.json](./72523-elite-forces-navy-seals-weapons-of-mass-destruction.json) |
 | Elite Forces: Unit 77 | 21291 | [21291-elite-forces-unit-77.json](./21291-elite-forces-unit-77.json) |
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
+| Elite Hacker: Retro Hacking Evolution | 316569 | [316569-elite-hacker-retro-hacking-evolution.json](./316569-elite-hacker-retro-hacking-evolution.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
 | Elite Sniper Shooter 2 | 245215 | [245215-elite-sniper-shooter-2.json](./245215-elite-sniper-shooter-2.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endline | 144984 | [144984-endline.json](./144984-endline.json) |
 | Endling | 187734 | [187734-endling.json](./187734-endling.json) |
 | Endling: Extinction is Forever | 105623 | [105623-endling-extinction-is-forever.json](./105623-endling-extinction-is-forever.json) |
+| Endme | 316571 | [316571-endme.json](./316571-endme.json) |
 | Endo | 158503 | [158503-endo.json](./158503-endo.json) |
 | Endocrisis | 143368 | [143368-endocrisis.json](./143368-endocrisis.json) |
 | Endocrisis Hyperactive | 173294 | [173294-endocrisis-hyperactive.json](./173294-endocrisis-hyperactive.json) |
