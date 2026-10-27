@@ -4586,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
 | Deep Sleep | 380751 | [380751-deep-sleep.json](./380751-deep-sleep.json) |
 | Deep Sleep Trilogy | 123695 | [123695-deep-sleep-trilogy.json](./123695-deep-sleep-trilogy.json) |
+| Deep Sleep: The Beggining | 291410 | [291410-deep-sleep-the-beggining.json](./291410-deep-sleep-the-beggining.json) |
 | Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
 | Deep Sorrow | 74931 | [74931-deep-sorrow.json](./74931-deep-sorrow.json) |
 | Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
@@ -5614,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demoniak | 12044 | [12044-demoniak.json](./12044-demoniak.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
+| Demonic Deckmaster | 291505 | [291505-demonic-deckmaster.json](./291505-demonic-deckmaster.json) |
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
 | Demonic Destruction! | 261451 | [261451-demonic-destruction.json](./261451-demonic-destruction.json) |
 | Demonic Episode | 269479 | [269479-demonic-episode.json](./269479-demonic-episode.json) |
@@ -6036,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descension | 208447 | [208447-descension.json](./208447-descension.json) |
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
+| Descensus | 291499 | [291499-descensus.json](./291499-descensus.json) |
 | Descent | 110983 | [110983-descent.json](./110983-descent.json) |
 | Descent | 201122 | [201122-descent.json](./201122-descent.json) |
 | Descent | 242692 | [242692-descent.json](./242692-descent.json) |
@@ -8050,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Breeder 4 | 65587 | [65587-dino-breeder-4.json](./65587-dino-breeder-4.json) |
 | Dino Bros | 371323 | [371323-dino-bros.json](./371323-dino-bros.json) |
 | Dino Cap | 376499 | [376499-dino-cap.json](./376499-dino-cap.json) |
+| Dino Cats | 291411 | [291411-dino-cats.json](./291411-dino-cats.json) |
 | Dino Chomp | 351695 | [351695-dino-chomp.json](./351695-dino-chomp.json) |
 | Dino City | 42202 | [42202-dino-city.json](./42202-dino-city.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
@@ -15660,6 +15664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Vixens: A Tale of Temptation | 278985 | [278985-dungeon-vixens-a-tale-of-temptation.json](./278985-dungeon-vixens-a-tale-of-temptation.json) |
 | Dungeon Voxel | 193256 | [193256-dungeon-voxel.json](./193256-dungeon-voxel.json) |
 | Dungeon vs Gunner | 224062 | [224062-dungeon-vs-gunner.json](./224062-dungeon-vs-gunner.json) |
+| Dungeon Walk 2: Konton no Kamigami | 291494 | [291494-dungeon-walk-2-konton-no-kamigami.json](./291494-dungeon-walk-2-konton-no-kamigami.json) |
 | Dungeon Walk 4: Solitary Insect Princess | 391124 | [391124-dungeon-walk-4-solitary-insect-princess.json](./391124-dungeon-walk-4-solitary-insect-princess.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon Ward | 193851 | [193851-dungeon-ward.json](./193851-dungeon-ward.json) |
@@ -15849,6 +15854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons Adventurer | 237789 | [237789-dungeons-adventurer.json](./237789-dungeons-adventurer.json) |
 | Dungeons Again | 120742 | [120742-dungeons-again.json](./120742-dungeons-again.json) |
+| Dungeons and Diners | 291408 | [291408-dungeons-and-diners.json](./291408-dungeons-and-diners.json) |
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
 | Dungeons and Goblins | 270328 | [270328-dungeons-and-goblins.json](./270328-dungeons-and-goblins.json) |
