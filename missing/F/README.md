@@ -6999,7 +6999,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Frenzy | 25137 | [25137-floppy-frenzy.json](./25137-floppy-frenzy.json) |
 | Floppy From Outer Space | 183347 | [183347-floppy-from-outer-space.json](./183347-floppy-from-outer-space.json) |
 | Floppy Jump 3-in-1 | 385550 | [385550-floppy-jump-3-in-1.json](./385550-floppy-jump-3-in-1.json) |
-| Floppy Knights | 130182 | [130182-floppy-knights.json](./130182-floppy-knights.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
 | Floppy Turd | 233402 | [233402-floppy-turd.json](./233402-floppy-turd.json) |
