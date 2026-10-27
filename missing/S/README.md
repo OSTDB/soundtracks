@@ -7824,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Fever | 330812 | [330812-shopping-fever.json](./330812-shopping-fever.json) |
 | Shopping in a Winter Zombieland | 276174 | [276174-shopping-in-a-winter-zombieland.json](./276174-shopping-in-a-winter-zombieland.json) |
 | Shopping Mall Girl | 86826 | [86826-shopping-mall-girl.json](./86826-shopping-mall-girl.json) |
+| Shopping Mall Girl: Complete Edition | 328775 | [328775-shopping-mall-girl-complete-edition.json](./328775-shopping-mall-girl-complete-edition.json) |
 | Shopping Mall Girl: Sunny Edition | 356819 | [356819-shopping-mall-girl-sunny-edition.json](./356819-shopping-mall-girl-sunny-edition.json) |
 | Shopping Mall Parking | 233757 | [233757-shopping-mall-parking.json](./233757-shopping-mall-parking.json) |
 | Shopping Mall Renovator | 216671 | [216671-shopping-mall-renovator.json](./216671-shopping-mall-renovator.json) |
@@ -10615,6 +10616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Resort 2 | 375974 | [375974-sky-resort-2.json](./375974-sky-resort-2.json) |
 | Sky Resort 3 | 384600 | [384600-sky-resort-3.json](./384600-sky-resort-3.json) |
 | Sky Revolver | 342154 | [342154-sky-revolver.json](./342154-sky-revolver.json) |
+| Sky Rhythm | 328909 | [328909-sky-rhythm.json](./328909-sky-rhythm.json) |
 | Sky Road | 76383 | [76383-sky-road.json](./76383-sky-road.json) |
 | Sky Robo | 327321 | [327321-sky-robo.json](./327321-sky-robo.json) |
 | Sky Rogue | 11633 | [11633-sky-rogue.json](./11633-sky-rogue.json) |
@@ -13511,6 +13513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban | 305555 | [305555-sokoban.json](./305555-sokoban.json) |
 | Sokoban | 306039 | [306039-sokoban.json](./306039-sokoban.json) |
+| Sokoban | 328911 | [328911-sokoban.json](./328911-sokoban.json) |
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban | 6136 | [6136-sokoban.json](./6136-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
@@ -15690,6 +15693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
 | SoulCalibur III | 370000 | [370000-soulcalibur-iii.json](./370000-soulcalibur-iii.json) |
 | SoulCalibur III: Arcade Edition | 299306 | [299306-soulcalibur-iii-arcade-edition.json](./299306-soulcalibur-iii-arcade-edition.json) |
+| SoulCalibur IV | 328917 | [328917-soulcalibur-iv.json](./328917-soulcalibur-iv.json) |
 | Soulcalibur Legends | 5170 | [5170-soulcalibur-legends.json](./5170-soulcalibur-legends.json) |
 | SoulCalibur V: Collectors Edition | 44655 | [44655-soulcalibur-v-collectors-edition.json](./44655-soulcalibur-v-collectors-edition.json) |
 | SoulCalibur VI: 2B | 168722 | [168722-soulcalibur-vi-2b.json](./168722-soulcalibur-vi-2b.json) |
@@ -17148,6 +17152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Survivors | 244732 | [244732-spaceship-survivors.json](./244732-spaceship-survivors.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
+| Spaceship Typing | 328897 | [328897-spaceship-typing.json](./328897-spaceship-typing.json) |
 | Spaceship Warlock | 72522 | [72522-spaceship-warlock.json](./72522-spaceship-warlock.json) |
 | Spaceshipment | 328302 | [328302-spaceshipment.json](./328302-spaceshipment.json) |
 | Spaceships | 189907 | [189907-spaceships.json](./189907-spaceships.json) |
@@ -17471,6 +17476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Specters | 164046 | [164046-specters.json](./164046-specters.json) |
 | Specters of the Sun | 257207 | [257207-specters-of-the-sun.json](./257207-specters-of-the-sun.json) |
+| Spectography | 328929 | [328929-spectography.json](./328929-spectography.json) |
 | Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
 | Spectra | 19960 | [19960-spectra.json](./19960-spectra.json) |
 | Spectra | 275506 | [275506-spectra.json](./275506-spectra.json) |
@@ -19010,6 +19016,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Deluxe | 288280 | [288280-sport-and-fun-swimming-ultra-deluxe.json](./288280-sport-and-fun-swimming-ultra-deluxe.json) |
 | Sport & Fun: Swimming - Ultra Director's Cut | 328835 | [328835-sport-and-fun-swimming-ultra-directors-cut.json](./328835-sport-and-fun-swimming-ultra-directors-cut.json) |
 | Sport & Fun: Swimming - Ultra Extended | 328834 | [328834-sport-and-fun-swimming-ultra-extended.json](./328834-sport-and-fun-swimming-ultra-extended.json) |
+| Sport & Fun: Swimming - Ultra GOTY Edition | 328776 | [328776-sport-and-fun-swimming-ultra-goty-edition.json](./328776-sport-and-fun-swimming-ultra-goty-edition.json) |
+| Sport & Fun: Swimming - Ultra Happy Edition | 328777 | [328777-sport-and-fun-swimming-ultra-happy-edition.json](./328777-sport-and-fun-swimming-ultra-happy-edition.json) |
 | Sport & Fun: Swimming - Ultra Legendary | 328833 | [328833-sport-and-fun-swimming-ultra-legendary.json](./328833-sport-and-fun-swimming-ultra-legendary.json) |
 | Sport & Fun: Swimming - Ultra Platinum | 328832 | [328832-sport-and-fun-swimming-ultra-platinum.json](./328832-sport-and-fun-swimming-ultra-platinum.json) |
 | Sport & Fun: Swimming - Ultra Premium | 328831 | [328831-sport-and-fun-swimming-ultra-premium.json](./328831-sport-and-fun-swimming-ultra-premium.json) |
@@ -19273,14 +19281,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout of Control | 310125 | [310125-sprout-of-control.json](./310125-sprout-of-control.json) |
 | Sprout Valley + Bit Orchard: Animal Valley | 277892 | [277892-sprout-valley-bit-orchard-animal-valley.json](./277892-sprout-valley-bit-orchard-animal-valley.json) |
 | Sprout Valley Big Pack | 328993 | [328993-sprout-valley-big-pack.json](./328993-sprout-valley-big-pack.json) |
+| Sprout Valley: Anniversary Edition | 328781 | [328781-sprout-valley-anniversary-edition.json](./328781-sprout-valley-anniversary-edition.json) |
 | Sprout Valley: Cows | 300937 | [300937-sprout-valley-cows.json](./300937-sprout-valley-cows.json) |
 | Sprout Valley: Easter | 293844 | [293844-sprout-valley-easter.json](./293844-sprout-valley-easter.json) |
 | Sprout Valley: Friends Forever | 332505 | [332505-sprout-valley-friends-forever.json](./332505-sprout-valley-friends-forever.json) |
 | Sprout Valley: Friends Forever Expansion | 332526 | [332526-sprout-valley-friends-forever-expansion.json](./332526-sprout-valley-friends-forever-expansion.json) |
+| Sprout Valley: Legendary Edition | 328780 | [328780-sprout-valley-legendary-edition.json](./328780-sprout-valley-legendary-edition.json) |
 | Sprout Valley: New Friend - Momo | 317666 | [317666-sprout-valley-new-friend-momo.json](./317666-sprout-valley-new-friend-momo.json) |
 | Sprout Valley: Nico's Skins | 316247 | [316247-sprout-valley-nicos-skins.json](./316247-sprout-valley-nicos-skins.json) |
 | Sprout Valley: Special Edition | 304776 | [304776-sprout-valley-special-edition.json](./304776-sprout-valley-special-edition.json) |
 | Sprout Valley: Spray Paint | 317291 | [317291-sprout-valley-spray-paint.json](./317291-sprout-valley-spray-paint.json) |
+| Sprout Valley: Summer Edition | 328779 | [328779-sprout-valley-summer-edition.json](./328779-sprout-valley-summer-edition.json) |
+| Sprout Valley: Ultimate Edition | 328778 | [328778-sprout-valley-ultimate-edition.json](./328778-sprout-valley-ultimate-edition.json) |
 | Sprout's Meadow | 414110 | [414110-sprouts-meadow.json](./414110-sprouts-meadow.json) |
 | SproutBound | 368152 | [368152-sproutbound.json](./368152-sproutbound.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
@@ -24248,6 +24260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Bat | 120111 | [120111-stupid-bat.json](./120111-stupid-bat.json) |
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
 | Stupid Cars | 300839 | [300839-stupid-cars.json](./300839-stupid-cars.json) |
+| Stupid Cars | 328893 | [328893-stupid-cars.json](./328893-stupid-cars.json) |
 | Stupid Clicker Game | 26554 | [26554-stupid-clicker-game.json](./26554-stupid-clicker-game.json) |
 | Stupid Dog Find Out HD | 232496 | [232496-stupid-dog-find-out-hd.json](./232496-stupid-dog-find-out-hd.json) |
 | Stupid Horse Channel | 353808 | [353808-stupid-horse-channel.json](./353808-stupid-horse-channel.json) |
