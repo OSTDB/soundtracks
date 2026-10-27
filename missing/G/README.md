@@ -3924,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' Frontline: The Lunasia Covenant | 400303 | [400303-girls-frontline-the-lunasia-covenant.json](./400303-girls-frontline-the-lunasia-covenant.json) |
 | Girls' Last Tour: Book Burning Simulator | 150558 | [150558-girls-last-tour-book-burning-simulator.json](./150558-girls-last-tour-book-burning-simulator.json) |
 | Girls' RPG: Cinderella Life | 92477 | [92477-girls-rpg-cinderella-life.json](./92477-girls-rpg-cinderella-life.json) |
+| Girlvania Expansion Pack: Legs & Feet | 316575 | [316575-girlvania-expansion-pack-legs-and-feet.json](./316575-girlvania-expansion-pack-legs-and-feet.json) |
 | Girlvania: Summer Lust | 169127 | [169127-girlvania-summer-lust.json](./169127-girlvania-summer-lust.json) |
 | Girp | 137545 | [137545-girp.json](./137545-girp.json) |
 | Girthbound | 389522 | [389522-girthbound.json](./389522-girthbound.json) |
@@ -5340,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gokuraku Chuka Taisen | 37711 | [37711-gokuraku-chuka-taisen.json](./37711-gokuraku-chuka-taisen.json) |
 | Gokuraku Jong Premium | 319622 | [319622-gokuraku-jong-premium.json](./319622-gokuraku-jong-premium.json) |
 | Gokuraku Yuugi: Game Tengoku | 41376 | [41376-gokuraku-yuugi-game-tengoku.json](./41376-gokuraku-yuugi-game-tengoku.json) |
+| Gokusaishiki Sushi Taisen: Proud Tradition vs. Crazy Imitation | 316658 | [316658-gokusaishiki-sushi-taisen-proud-tradition-vs-crazy-imitation.json](./316658-gokusaishiki-sushi-taisen-proud-tradition-vs-crazy-imitation.json) |
 | Gokuu Densetsu: Magic Beast Warriors | 43775 | [43775-gokuu-densetsu-magic-beast-warriors.json](./43775-gokuu-densetsu-magic-beast-warriors.json) |
 | Gol Show | 248822 | [248822-gol-show.json](./248822-gol-show.json) |
 | GOL:Legend | 99581 | [99581-gol-legend.json](./99581-gol-legend.json) |
