@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Room: 205 | 349104 | [349104-haunted-room-205.json](./349104-haunted-room-205.json) |
 | Haunted Room! Urami-chan | 351785 | [351785-haunted-room-urami-chan.json](./351785-haunted-room-urami-chan.json) |
 | Haunted School | 403170 | [403170-haunted-school.json](./403170-haunted-school.json) |
+| Haunted School: The Presence Behind You | 313639 | [313639-haunted-school-the-presence-behind-you.json](./313639-haunted-school-the-presence-behind-you.json) |
 | Haunted Science: Welcome To I.R.H.I.A. | 359003 | [359003-haunted-science-welcome-to-i-r-h-i-a.json](./359003-haunted-science-welcome-to-i-r-h-i-a.json) |
 | Haunted Service | 387601 | [387601-haunted-service.json](./387601-haunted-service.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
@@ -6398,6 +6399,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Simulator 2017 | 286757 | [286757-high-school-simulator-2017.json](./286757-high-school-simulator-2017.json) |
 | High School Simulator 2018 | 80997 | [80997-high-school-simulator-2018.json](./80997-high-school-simulator-2018.json) |
 | High School Story | 39189 | [39189-high-school-story.json](./39189-high-school-story.json) |
+| High School Story: Book 1 | 313626 | [313626-high-school-story-book-1.json](./313626-high-school-story-book-1.json) |
+| High School Story: Book 2 | 313627 | [313627-high-school-story-book-2.json](./313627-high-school-story-book-2.json) |
+| High School Story: Book 3 | 313628 | [313628-high-school-story-book-3.json](./313628-high-school-story-book-3.json) |
+| High School Story: Class Act - Book 1 | 313629 | [313629-high-school-story-class-act-book-1.json](./313629-high-school-story-class-act-book-1.json) |
+| High School Story: Class Act - Book 2 | 313630 | [313630-high-school-story-class-act-book-2.json](./313630-high-school-story-class-act-book-2.json) |
+| High School Story: Class Act - Book 3 | 313631 | [313631-high-school-story-class-act-book-3.json](./313631-high-school-story-class-act-book-3.json) |
 | High School Survival | 281945 | [281945-high-school-survival.json](./281945-high-school-survival.json) |
 | High School Vampire Girlfriend | 206003 | [206003-high-school-vampire-girlfriend.json](./206003-high-school-vampire-girlfriend.json) |
 | High School: Bisexual Experience | 106590 | [106590-high-school-bisexual-experience.json](./106590-high-school-bisexual-experience.json) |
