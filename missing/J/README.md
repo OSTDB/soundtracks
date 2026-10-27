@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jajazinho e as Delicias de Cristais | 148668 | [148668-jajazinho-e-as-delicias-de-cristais.json](./148668-jajazinho-e-as-delicias-de-cristais.json) |
 | Jak & Daxter: The Lost Levels | 319202 | [319202-jak-and-daxter-the-lost-levels.json](./319202-jak-and-daxter-the-lost-levels.json) |
 | Jak 3 | 1530 | [1530-jak-3.json](./1530-jak-3.json) |
+| Jak 3 | 302985 | [302985-jak-3.json](./302985-jak-3.json) |
 | Jak 3: The Journey Back Gold Edition | 237431 | [237431-jak-3-the-journey-back-gold-edition.json](./237431-jak-3-the-journey-back-gold-edition.json) |
 | Jak and Daxter Collection | 20113 | [20113-jak-and-daxter-collection.json](./20113-jak-and-daxter-collection.json) |
 | Jak and Daxter: The Precursor Legacy | 302690 | [302690-jak-and-daxter-the-precursor-legacy.json](./302690-jak-and-daxter-the-precursor-legacy.json) |
@@ -1215,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Adventures | 85207 | [85207-jewel-adventures.json](./85207-jewel-adventures.json) |
 | Jewel BEM Hunter Lime | 264644 | [264644-jewel-bem-hunter-lime.json](./264644-jewel-bem-hunter-lime.json) |
 | Jewel bits | 34151 | [34151-jewel-bits.json](./34151-jewel-bits.json) |
+| Jewel Blast: Celestris | 302996 | [302996-jewel-blast-celestris.json](./302996-jewel-blast-celestris.json) |
 | Jewel Coloring | 401156 | [401156-jewel-coloring.json](./401156-jewel-coloring.json) |
 | Jewel Craft | 209996 | [209996-jewel-craft.json](./209996-jewel-craft.json) |
 | Jewel Craft Fusion | 277323 | [277323-jewel-craft-fusion.json](./277323-jewel-craft-fusion.json) |
