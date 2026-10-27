@@ -2735,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Cat: Learn to Read Music | 90382 | [90382-bass-cat-learn-to-read-music.json](./90382-bass-cat-learn-to-read-music.json) |
 | Bass Class | 145246 | [145246-bass-class.json](./145246-bass-class.json) |
 | Bass Defense | 309538 | [309538-bass-defense.json](./309538-bass-defense.json) |
+| Bass Defense: First Memorythms | 309403 | [309403-bass-defense-first-memorythms.json](./309403-bass-defense-first-memorythms.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
 | Bass Fishing 3D HD | 101015 | [101015-bass-fishing-3d-hd.json](./101015-bass-fishing-3d-hd.json) |
 | Bass Fishing Tatsujin Techou | 282823 | [282823-bass-fishing-tatsujin-techou.json](./282823-bass-fishing-tatsujin-techou.json) |
@@ -5125,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
 | Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
 | Before the Echo | 9780 | [9780-before-the-echo.json](./9780-before-the-echo.json) |
+| Before the End | 309412 | [309412-before-the-end.json](./309412-before-the-end.json) |
 | Before the End | 350355 | [350355-before-the-end.json](./350355-before-the-end.json) |
 | Before the explosion | 204810 | [204810-before-the-explosion.json](./204810-before-the-explosion.json) |
 | Before the Fall | 411540 | [411540-before-the-fall.json](./411540-before-the-fall.json) |
