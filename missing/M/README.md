@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.U.L.E. | 23895 | [23895-m-u-l-e.json](./23895-m-u-l-e.json) |
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
+| M's Cases: Chapter 1 - Vanishing of Melisma | 327097 | [327097-ms-cases-chapter-1-vanishing-of-melisma.json](./327097-ms-cases-chapter-1-vanishing-of-melisma.json) |
 | M(ae)rry-go-round | 255565 | [255565-m-ae-rry-go-round.json](./255565-m-ae-rry-go-round.json) |
 | M*A*S*H | 22734 | [22734-m-a-s-h.json](./22734-m-a-s-h.json) |
 | M*A*S*H: The Adventure Game | 327234 | [327234-m-a-s-h-the-adventure-game.json](./327234-m-a-s-h-the-adventure-game.json) |
@@ -582,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Cubed | 33259 | [33259-madness-cubed.json](./33259-madness-cubed.json) |
 | Madness Hydraulic | 290417 | [290417-madness-hydraulic.json](./290417-madness-hydraulic.json) |
 | Madness in Square Garden | 214965 | [214965-madness-in-square-garden.json](./214965-madness-in-square-garden.json) |
+| Madness in the Banaverse | 327132 | [327132-madness-in-the-banaverse.json](./327132-madness-in-the-banaverse.json) |
 | Madness in the Dark | 251011 | [251011-madness-in-the-dark.json](./251011-madness-in-the-dark.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
@@ -709,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Live! | 78327 | [78327-mafia-live.json](./78327-mafia-live.json) |
 | Mafia Online | 266991 | [266991-mafia-online.json](./266991-mafia-online.json) |
 | Mafia Online | 403813 | [403813-mafia-online.json](./403813-mafia-online.json) |
+| Mafia Online Town Asleep | 327137 | [327137-mafia-online-town-asleep.json](./327137-mafia-online-town-asleep.json) |
 | Mafia Online: Wild West | 145258 | [145258-mafia-online-wild-west.json](./145258-mafia-online-wild-west.json) |
 | Mafia Pigs | 224984 | [224984-mafia-pigs.json](./224984-mafia-pigs.json) |
 | Mafia Pinball | 97149 | [97149-mafia-pinball.json](./97149-mafia-pinball.json) |
@@ -2582,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
 | Mangrove Express | 408107 | [408107-mangrove-express.json](./408107-mangrove-express.json) |
 | MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
+| Mangui | 327101 | [327101-mangui.json](./327101-mangui.json) |
 | ManGuin: Penguin Apocalypse | 130704 | [130704-manguin-penguin-apocalypse.json](./130704-manguin-penguin-apocalypse.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
 | Manhattan Chase | 74030 | [74030-manhattan-chase.json](./74030-manhattan-chase.json) |
@@ -8566,6 +8570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
 | Metro 2055 | 356553 | [356553-metro-2055.json](./356553-metro-2055.json) |
 | Metro Architect | 407458 | [407458-metro-architect.json](./407458-metro-architect.json) |
+| Metro Awakening Deluxe Edition | 327147 | [327147-metro-awakening-deluxe-edition.json](./327147-metro-awakening-deluxe-edition.json) |
 | Metro Awakening VR | 284720 | [284720-metro-awakening-vr.json](./284720-metro-awakening-vr.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro City: Night Shift | 416890 | [416890-metro-city-night-shift.json](./416890-metro-city-night-shift.json) |
@@ -10423,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Dragonborn Mash-up | 233961 | [233961-minecraft-dragonborn-mash-up.json](./233961-minecraft-dragonborn-mash-up.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
+| Minecraft: Essentials | 327115 | [327115-minecraft-essentials.json](./327115-minecraft-essentials.json) |
 | Minecraft: Fantastic Fairgrounds | 316689 | [316689-minecraft-fantastic-fairgrounds.json](./316689-minecraft-fantastic-fairgrounds.json) |
 | Minecraft: Festive Mash-up | 234224 | [234224-minecraft-festive-mash-up.json](./234224-minecraft-festive-mash-up.json) |
 | Minecraft: Fire TV Edition | 140463 | [140463-minecraft-fire-tv-edition.json](./140463-minecraft-fire-tv-edition.json) |
@@ -10441,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Jurassic World | 148125 | [148125-minecraft-jurassic-world.json](./148125-minecraft-jurassic-world.json) |
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
+| MInecraft: Lava Chicken | 327116 | [327116-minecraft-lava-chicken.json](./327116-minecraft-lava-chicken.json) |
 | Minecraft: Mega Man X | 239210 | [239210-minecraft-mega-man-x.json](./239210-minecraft-mega-man-x.json) |
 | Minecraft: Minecon 2015 Skin Pack | 301522 | [301522-minecraft-minecon-2015-skin-pack.json](./301522-minecraft-minecon-2015-skin-pack.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
@@ -11945,7 +11952,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
 | Mizbak's Adventure | 37653 | [37653-mizbaks-adventure.json](./37653-mizbaks-adventure.json) |
 | Mizeria | 262823 | [262823-mizeria.json](./262823-mizeria.json) |
+| Mizi No!: Blank Slate | 327108 | [327108-mizi-no-blank-slate.json](./327108-mizi-no-blank-slate.json) |
+| Mizi No!: Everyday Objects | 327106 | [327106-mizi-no-everyday-objects.json](./327106-mizi-no-everyday-objects.json) |
+| Mizi No!: Kintsugi | 327105 | [327105-mizi-no-kintsugi.json](./327105-mizi-no-kintsugi.json) |
 | Mizi No!: Paperwork | 382491 | [382491-mizi-no-paperwork.json](./382491-mizi-no-paperwork.json) |
+| Mizi No!: Playful Patterns | 327107 | [327107-mizi-no-playful-patterns.json](./327107-mizi-no-playful-patterns.json) |
 | Mizu | 190365 | [190365-mizu.json](./190365-mizu.json) |
 | Mizu | 229701 | [229701-mizu.json](./229701-mizu.json) |
 | Mizu no Senritsu | 220576 | [220576-mizu-no-senritsu.json](./220576-mizu-no-senritsu.json) |
@@ -16703,6 +16714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
 | Mutated Muter's Invasion | 150984 | [150984-mutated-muters-invasion.json](./150984-mutated-muters-invasion.json) |
 | Mutation | 146539 | [146539-mutation.json](./146539-mutation.json) |
+| Mutation | 327144 | [327144-mutation.json](./327144-mutation.json) |
 | Mutation Madness | 264690 | [264690-mutation-madness.json](./264690-mutation-madness.json) |
 | Mutation Mayhem | 102914 | [102914-mutation-mayhem.json](./102914-mutation-mayhem.json) |
 | Mutation Nation | 39522 | [39522-mutation-nation.json](./39522-mutation-nation.json) |
@@ -17312,6 +17324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: Plus Ultra Edition | 136147 | [136147-my-hero-ones-justice-2-plus-ultra-edition.json](./136147-my-hero-ones-justice-2-plus-ultra-edition.json) |
 | My Hero One's Justice 2: Weekend Clothes 1-A Lively Set | 228025 | [228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json](./228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json) |
 | My Hero One's Justice: Additional Mission - Gale | 168256 | [168256-my-hero-ones-justice-additional-mission-gale.json](./168256-my-hero-ones-justice-additional-mission-gale.json) |
+| My Hero One's Justice: Deku Shoot Style | 327112 | [327112-my-hero-ones-justice-deku-shoot-style.json](./327112-my-hero-ones-justice-deku-shoot-style.json) |
 | My Hero One's Justice: Mission - Above and Beyond Endeavor | 168253 | [168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json](./168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json) |
 | My Hero One's Justice: Mission - O.F.A Deku Shoot Style | 168254 | [168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json](./168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json) |
 | My Hero One's Justice: Playable Character - Inasa Yoarashi | 168255 | [168255-my-hero-ones-justice-playable-character-inasa-yoarashi.json](./168255-my-hero-ones-justice-playable-character-inasa-yoarashi.json) |
