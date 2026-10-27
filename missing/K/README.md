@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Simulator 2025 | 342416 | [342416-kebab-simulator-2025.json](./342416-kebab-simulator-2025.json) |
 | Kebab Simulator VR | 310481 | [310481-kebab-simulator-vr.json](./310481-kebab-simulator-vr.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
+| Kebab World | 304546 | [304546-kebab-world.json](./304546-kebab-world.json) |
 | Kebabstar | 295307 | [295307-kebabstar.json](./295307-kebabstar.json) |
 | Keda | 178509 | [178509-keda.json](./178509-keda.json) |
 | Kedama no Gonjiro | 112092 | [112092-kedama-no-gonjiro.json](./112092-kedama-no-gonjiro.json) |
