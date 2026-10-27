@@ -5570,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi | 17541 | [17541-reversi.json](./17541-reversi.json) |
 | Reversi | 230720 | [230720-reversi.json](./230720-reversi.json) |
 | Reversi | 288835 | [288835-reversi.json](./288835-reversi.json) |
+| Reversi | 315465 | [315465-reversi.json](./315465-reversi.json) |
 | Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
 | Reversi | 328912 | [328912-reversi.json](./328912-reversi.json) |
 | Reversi | 395796 | [395796-reversi.json](./395796-reversi.json) |
