@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.K. Punk: G.O.L.D | 289945 | [289945-t-k-punk-g-o-l-d.json](./289945-t-k-punk-g-o-l-d.json) |
 | T.N.T | 41778 | [41778-t-n-t.json](./41778-t-n-t.json) |
 | T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy | 76599 | [76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
+| T.V Favorites Bundle | 284747 | [284747-t-v-favorites-bundle.json](./284747-t-v-favorites-bundle.json) |
 | T.W. Burgess Presents: Pylons | 169877 | [169877-t-w-burgess-presents-pylons.json](./169877-t-w-burgess-presents-pylons.json) |
 | T.W.I.R.L. | 399150 | [399150-t-w-i-r-l.json](./399150-t-w-i-r-l.json) |
 | T'Was a Time of Dread | 122639 | [122639-twas-a-time-of-dread.json](./122639-twas-a-time-of-dread.json) |
@@ -5422,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Skin Pack 1 | 255230 | [255230-the-battle-of-polytopia-skin-pack-1.json](./255230-the-battle-of-polytopia-skin-pack-1.json) |
 | The Battle of Polytopia: Skin Pack 2 | 255231 | [255231-the-battle-of-polytopia-skin-pack-2.json](./255231-the-battle-of-polytopia-skin-pack-2.json) |
 | The Battle of Polytopia: Skin Pack 3 | 255232 | [255232-the-battle-of-polytopia-skin-pack-3.json](./255232-the-battle-of-polytopia-skin-pack-3.json) |
+| The Battle of Polytopia: Skin Pack 4 | 285059 | [285059-the-battle-of-polytopia-skin-pack-4.json](./285059-the-battle-of-polytopia-skin-pack-4.json) |
 | The Battle of Polytopia: Solaris | 370330 | [370330-the-battle-of-polytopia-solaris.json](./370330-the-battle-of-polytopia-solaris.json) |
 | The Battle of Polytopia: To-Lï | 371523 | [371523-the-battle-of-polytopia-to-li.json](./371523-the-battle-of-polytopia-to-li.json) |
 | The Battle of Polytopia: Ürkaz | 371526 | [371526-the-battle-of-polytopia-urkaz.json](./371526-the-battle-of-polytopia-urkaz.json) |
