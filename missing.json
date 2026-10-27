@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T13:09:36.330Z",
-  "total_missing": 270076,
+  "generated_at": "2026-10-27T13:18:44.278Z",
+  "total_missing": 270124,
   "games": [
     {
       "igdb_id": 191680,
@@ -97207,11 +97207,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -123380,6 +123375,11 @@
       "igdb_id": 29665,
       "game_name": "Beyond the City VR",
       "file": "missing/B/29665-beyond-the-city-vr.json"
+    },
+    {
+      "igdb_id": 303547,
+      "game_name": "Beyond The Clouds",
+      "file": "missing/B/303547-beyond-the-clouds.json"
     },
     {
       "igdb_id": 389510,
@@ -199932,6 +199932,11 @@
       "file": "missing/C/193694-chess-club.json"
     },
     {
+      "igdb_id": 303527,
+      "game_name": "Chess Club Valley",
+      "file": "missing/C/303527-chess-club-valley.json"
+    },
+    {
       "igdb_id": 216701,
       "game_name": "Chess Corp",
       "file": "missing/C/216701-chess-corp.json"
@@ -249617,6 +249622,11 @@
       "file": "missing/C/45540-crying-aseimei-sendou.json"
     },
     {
+      "igdb_id": 303443,
+      "game_name": "Crying Crystal",
+      "file": "missing/C/303443-crying-crystal.json"
+    },
+    {
       "igdb_id": 99085,
       "game_name": "Crying is not Enough",
       "file": "missing/C/99085-crying-is-not-enough.json"
@@ -250020,6 +250030,11 @@
       "igdb_id": 132468,
       "game_name": "Cryptic Rooms",
       "file": "missing/C/132468-cryptic-rooms.json"
+    },
+    {
+      "igdb_id": 303444,
+      "game_name": "Cryptic Route",
+      "file": "missing/C/303444-cryptic-route.json"
     },
     {
       "igdb_id": 61710,
@@ -251065,6 +251080,11 @@
       "igdb_id": 333181,
       "game_name": "Crystal: Automaton",
       "file": "missing/C/333181-crystal-automaton.json"
+    },
+    {
+      "igdb_id": 303445,
+      "game_name": "Crystal's Castle",
+      "file": "missing/C/303445-crystals-castle.json"
     },
     {
       "igdb_id": 402571,
@@ -255032,6 +255052,11 @@
       "file": "missing/C/365066-curse-of-woney.json"
     },
     {
+      "igdb_id": 303446,
+      "game_name": "Curse of Yggdrasil",
+      "file": "missing/C/303446-curse-of-yggdrasil.json"
+    },
+    {
       "igdb_id": 380102,
       "game_name": "Curse of Yggdrasil",
       "file": "missing/C/380102-curse-of-yggdrasil.json"
@@ -255577,6 +255602,11 @@
       "file": "missing/C/294554-cursed-place.json"
     },
     {
+      "igdb_id": 303448,
+      "game_name": "Cursed Places: Hotel Floor 13",
+      "file": "missing/C/303448-cursed-places-hotel-floor-13.json"
+    },
+    {
       "igdb_id": 372749,
       "game_name": "Cursed Presence",
       "file": "missing/C/372749-cursed-presence.json"
@@ -255650,6 +255680,11 @@
       "igdb_id": 315470,
       "game_name": "Cursed Swamp Escape 3",
       "file": "missing/C/315470-cursed-swamp-escape-3.json"
+    },
+    {
+      "igdb_id": 303447,
+      "game_name": "Cursed Sword Edo",
+      "file": "missing/C/303447-cursed-sword-edo.json"
     },
     {
       "igdb_id": 315583,
@@ -259562,6 +259597,11 @@
       "file": "missing/C/369652-cyclopean-ii-the-dreamlands.json"
     },
     {
+      "igdb_id": 303453,
+      "game_name": "Cyclopean: The Great Abyss",
+      "file": "missing/C/303453-cyclopean-the-great-abyss.json"
+    },
+    {
       "igdb_id": 253251,
       "game_name": "Cyclopong",
       "file": "missing/C/253251-cyclopong.json"
@@ -261800,6 +261840,11 @@
       "igdb_id": 183234,
       "game_name": "Daily",
       "file": "missing/D/183234-daily.json"
+    },
+    {
+      "igdb_id": 303449,
+      "game_name": "Daily Bread",
+      "file": "missing/D/303449-daily-bread.json"
     },
     {
       "igdb_id": 224069,
@@ -264572,6 +264617,11 @@
       "file": "missing/D/278706-dangerous-coins.json"
     },
     {
+      "igdb_id": 303452,
+      "game_name": "Dangerous Connections",
+      "file": "missing/D/303452-dangerous-connections.json"
+    },
+    {
       "igdb_id": 330573,
       "game_name": "Dangerous Curves",
       "file": "missing/D/330573-dangerous-curves.json"
@@ -265522,6 +265572,11 @@
       "file": "missing/D/380231-dark.json"
     },
     {
+      "igdb_id": 303457,
+      "game_name": "Dark & Quispy",
+      "file": "missing/D/303457-dark-and-quispy.json"
+    },
+    {
       "igdb_id": 144371,
       "game_name": "Dark & Under",
       "file": "missing/D/144371-dark-and-under.json"
@@ -266132,6 +266187,11 @@
       "file": "missing/D/382815-dark-cut-2.json"
     },
     {
+      "igdb_id": 303451,
+      "game_name": "Dark Daemon",
+      "file": "missing/D/303451-dark-daemon.json"
+    },
+    {
       "igdb_id": 120754,
       "game_name": "Dark Data",
       "file": "missing/D/120754-dark-data.json"
@@ -266337,6 +266397,11 @@
       "file": "missing/D/260412-dark-desire-mute-6.json"
     },
     {
+      "igdb_id": 303450,
+      "game_name": "Dark Destruction",
+      "file": "missing/D/303450-dark-destruction.json"
+    },
+    {
       "igdb_id": 68582,
       "game_name": "Dark Devotion",
       "file": "missing/D/68582-dark-devotion.json"
@@ -266445,6 +266510,11 @@
       "igdb_id": 415503,
       "game_name": "Dark Doll",
       "file": "missing/D/415503-dark-doll.json"
+    },
+    {
+      "igdb_id": 303454,
+      "game_name": "Dark Door",
+      "file": "missing/D/303454-dark-door.json"
     },
     {
       "igdb_id": 380232,
@@ -266585,6 +266655,11 @@
       "igdb_id": 398416,
       "game_name": "Dark Engines",
       "file": "missing/D/398416-dark-engines.json"
+    },
+    {
+      "igdb_id": 303456,
+      "game_name": "Dark Era",
+      "file": "missing/D/303456-dark-era.json"
     },
     {
       "igdb_id": 311596,
@@ -267160,6 +267235,11 @@
       "igdb_id": 65599,
       "game_name": "Dark Meadow: The Pact",
       "file": "missing/D/65599-dark-meadow-the-pact.json"
+    },
+    {
+      "igdb_id": 303459,
+      "game_name": "Dark Memories: Investigation",
+      "file": "missing/D/303459-dark-memories-investigation.json"
     },
     {
       "igdb_id": 284829,
@@ -269027,6 +269107,11 @@
       "file": "missing/D/59252-darkestville-castle.json"
     },
     {
+      "igdb_id": 303455,
+      "game_name": "Darkfall",
+      "file": "missing/D/303455-darkfall.json"
+    },
+    {
       "igdb_id": 382549,
       "game_name": "Darkfall Shadows",
       "file": "missing/D/382549-darkfall-shadows.json"
@@ -269170,6 +269255,11 @@
       "igdb_id": 360021,
       "game_name": "Darklord's Tower",
       "file": "missing/D/360021-darklords-tower.json"
+    },
+    {
+      "igdb_id": 303460,
+      "game_name": "Darkly Darkness",
+      "file": "missing/D/303460-darkly-darkness.json"
     },
     {
       "igdb_id": 12037,
@@ -269365,6 +269455,11 @@
       "igdb_id": 36298,
       "game_name": "Darkness Within 2: The Dark Lineage - Director's Cut Edition",
       "file": "missing/D/36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json"
+    },
+    {
+      "igdb_id": 303458,
+      "game_name": "Darknesssssssssssssssss",
+      "file": "missing/D/303458-darknesssssssssssssssss.json"
     },
     {
       "igdb_id": 20018,
@@ -275562,6 +275657,11 @@
       "file": "missing/D/249086-dead-on-arrival.json"
     },
     {
+      "igdb_id": 303461,
+      "game_name": "Dead On Arrival",
+      "file": "missing/D/303461-dead-on-arrival.json"
+    },
+    {
       "igdb_id": 380246,
       "game_name": "Dead On Arrival",
       "file": "missing/D/380246-dead-on-arrival.json"
@@ -278142,6 +278242,11 @@
       "file": "missing/D/391097-dealmaster.json"
     },
     {
+      "igdb_id": 303465,
+      "game_name": "Deals With Witch",
+      "file": "missing/D/303465-deals-with-witch.json"
+    },
+    {
       "igdb_id": 74183,
       "game_name": "Dean Daimon",
       "file": "missing/D/74183-dean-daimon.json"
@@ -278917,6 +279022,11 @@
       "file": "missing/D/268907-death-fighter-v-2.json"
     },
     {
+      "igdb_id": 303464,
+      "game_name": "Death Finder",
+      "file": "missing/D/303464-death-finder.json"
+    },
+    {
       "igdb_id": 374746,
       "game_name": "Death Flags",
       "file": "missing/D/374746-death-flags.json"
@@ -279465,6 +279575,11 @@
       "igdb_id": 238306,
       "game_name": "Death Pool",
       "file": "missing/D/238306-death-pool.json"
+    },
+    {
+      "igdb_id": 303462,
+      "game_name": "Death Protocol",
+      "file": "missing/D/303462-death-protocol.json"
     },
     {
       "igdb_id": 271655,
@@ -280085,6 +280200,11 @@
       "igdb_id": 4270,
       "game_name": "Deathkeep",
       "file": "missing/D/4270-deathkeep.json"
+    },
+    {
+      "igdb_id": 303463,
+      "game_name": "Deathland Drifters",
+      "file": "missing/D/303463-deathland-drifters.json"
     },
     {
       "igdb_id": 74513,
@@ -355267,6 +355387,11 @@
       "file": "missing/E/60967-emit-vol-3-watashi-ni-sayonara-wo.json"
     },
     {
+      "igdb_id": 303517,
+      "game_name": "Emitime",
+      "file": "missing/E/303517-emitime.json"
+    },
+    {
       "igdb_id": 110818,
       "game_name": "Emitters: Drone Invasions",
       "file": "missing/E/110818-emitters-drone-invasions.json"
@@ -360477,6 +360602,11 @@
       "file": "missing/E/363981-eol-ui-moheom.json"
     },
     {
+      "igdb_id": 303518,
+      "game_name": "EOL: End Of Line",
+      "file": "missing/E/303518-eol-end-of-line.json"
+    },
+    {
       "igdb_id": 204347,
       "game_name": "Eolia",
       "file": "missing/E/204347-eolia.json"
@@ -362052,6 +362182,11 @@
       "file": "missing/E/184361-equipmentris.json"
     },
     {
+      "igdb_id": 303519,
+      "game_name": "Equire",
+      "file": "missing/E/303519-equire.json"
+    },
+    {
       "igdb_id": 359353,
       "game_name": "Equitania",
       "file": "missing/E/359353-equitania.json"
@@ -363317,6 +363452,11 @@
       "file": "missing/E/120721-escape-again.json"
     },
     {
+      "igdb_id": 303522,
+      "game_name": "Escape And Build",
+      "file": "missing/E/303522-escape-and-build.json"
+    },
+    {
       "igdb_id": 121477,
       "game_name": "Escape Architect VR",
       "file": "missing/E/121477-escape-architect-vr.json"
@@ -363745,6 +363885,11 @@
       "igdb_id": 211624,
       "game_name": "Escape from Ever After",
       "file": "missing/E/211624-escape-from-ever-after.json"
+    },
+    {
+      "igdb_id": 303521,
+      "game_name": "Escape from Ever After: Onboarding",
+      "file": "missing/E/303521-escape-from-ever-after-onboarding.json"
     },
     {
       "igdb_id": 259041,
@@ -364985,6 +365130,11 @@
       "igdb_id": 278419,
       "game_name": "Escape Party",
       "file": "missing/E/278419-escape-party.json"
+    },
+    {
+      "igdb_id": 303520,
+      "game_name": "Escape Peng",
+      "file": "missing/E/303520-escape-peng.json"
     },
     {
       "igdb_id": 132683,
@@ -397482,6 +397632,11 @@
       "file": "missing/F/120709-fighting-frenzy-swole-simulator.json"
     },
     {
+      "igdb_id": 303523,
+      "game_name": "Fighting Frontier",
+      "file": "missing/F/303523-fighting-frontier.json"
+    },
+    {
       "igdb_id": 44627,
       "game_name": "Fighting Fury",
       "file": "missing/F/44627-fighting-fury.json"
@@ -401007,6 +401162,11 @@
       "file": "missing/F/415859-find-the-needle.json"
     },
     {
+      "igdb_id": 303525,
+      "game_name": "Find the Orange Narwhal",
+      "file": "missing/F/303525-find-the-orange-narwhal.json"
+    },
+    {
       "igdb_id": 328604,
       "game_name": "Find the Pairs",
       "file": "missing/F/328604-find-the-pairs.json"
@@ -401180,6 +401340,11 @@
       "igdb_id": 158524,
       "game_name": "FindDark",
       "file": "missing/F/158524-finddark.json"
+    },
+    {
+      "igdb_id": 303524,
+      "game_name": "Finder",
+      "file": "missing/F/303524-finder.json"
     },
     {
       "igdb_id": 196716,
@@ -421750,6 +421915,11 @@
       "igdb_id": 290016,
       "game_name": "Fortnite: Chill Vibez Pack",
       "file": "missing/F/290016-fortnite-chill-vibez-pack.json"
+    },
+    {
+      "igdb_id": 303531,
+      "game_name": "Fortnite: Crimson Warden Pack",
+      "file": "missing/F/303531-fortnite-crimson-warden-pack.json"
     },
     {
       "igdb_id": 243231,
@@ -546112,6 +546282,11 @@
       "file": "missing/I/43178-idle-champions-of-the-forgotten-realms.json"
     },
     {
+      "igdb_id": 303546,
+      "game_name": "Idle Champions: Aarakocra Glitch Orkira Skin & Feat Pack",
+      "file": "missing/I/303546-idle-champions-aarakocra-glitch-orkira-skin-and-feat-pack.json"
+    },
+    {
       "igdb_id": 289847,
       "game_name": "Idle Champions: Aasimar Glitch Donaar Skin & Feat Pack",
       "file": "missing/I/289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json"
@@ -546147,6 +546322,11 @@
       "file": "missing/I/289849-idle-champions-baldurs-gate-dynaheir-theme-pack.json"
     },
     {
+      "igdb_id": 303545,
+      "game_name": "Idle Champions: Casual Karlach Skin & Feat Pack",
+      "file": "missing/I/303545-idle-champions-casual-karlach-skin-and-feat-pack.json"
+    },
+    {
       "igdb_id": 313708,
       "game_name": "Idle Champions: Chibi Birdsong Skin & Feat Pack",
       "file": "missing/I/313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json"
@@ -546155,6 +546335,21 @@
       "igdb_id": 313697,
       "game_name": "Idle Champions: Chibi Shadowheart Skin & Feat Pack",
       "file": "missing/I/313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 303543,
+      "game_name": "Idle Champions: Classic Demogorgon Familiar Pack",
+      "file": "missing/I/303543-idle-champions-classic-demogorgon-familiar-pack.json"
+    },
+    {
+      "igdb_id": 303544,
+      "game_name": "Idle Champions: Classic Nordom Skin & Feat Pack",
+      "file": "missing/I/303544-idle-champions-classic-nordom-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 303541,
+      "game_name": "Idle Champions: Classic Remorhaz Familiar Pack",
+      "file": "missing/I/303541-idle-champions-classic-remorhaz-familiar-pack.json"
     },
     {
       "igdb_id": 313705,
@@ -546177,9 +546372,24 @@
       "file": "missing/I/277357-idle-champions-eonstaryx-the-time-dragon-familiar-pack.json"
     },
     {
+      "igdb_id": 303540,
+      "game_name": "Idle Champions: High Harper Jaheira Skin & Feat Pack",
+      "file": "missing/I/303540-idle-champions-high-harper-jaheira-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 303539,
+      "game_name": "Idle Champions: Icewind Dale Artemis Skin & Feat Pack",
+      "file": "missing/I/303539-idle-champions-icewind-dale-artemis-skin-and-feat-pack.json"
+    },
+    {
       "igdb_id": 313704,
       "game_name": "Idle Champions: Infiltrator Nahara Skin & Feat Pack",
       "file": "missing/I/313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 303542,
+      "game_name": "Idle Champions: Jack the Pumpkin Sprout Familiar Pack",
+      "file": "missing/I/303542-idle-champions-jack-the-pumpkin-sprout-familiar-pack.json"
     },
     {
       "igdb_id": 312975,
@@ -546222,6 +546432,11 @@
       "file": "missing/I/306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json"
     },
     {
+      "igdb_id": 303538,
+      "game_name": "Idle Champions: Mythic Diana Theme Pack",
+      "file": "missing/I/303538-idle-champions-mythic-diana-theme-pack.json"
+    },
+    {
       "igdb_id": 255982,
       "game_name": "Idle Champions: Mythic Freely Skin & Feat Pack",
       "file": "missing/I/255982-idle-champions-mythic-freely-skin-and-feat-pack.json"
@@ -546230,6 +546445,21 @@
       "igdb_id": 254376,
       "game_name": "Idle Champions: Mythic Ishi Skin & Feat Pack",
       "file": "missing/I/254376-idle-champions-mythic-ishi-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 303537,
+      "game_name": "Idle Champions: Painted Tortle Gromma Theme Pack",
+      "file": "missing/I/303537-idle-champions-painted-tortle-gromma-theme-pack.json"
+    },
+    {
+      "igdb_id": 303536,
+      "game_name": "Idle Champions: Plushie Evandra Skin & Feat Pack",
+      "file": "missing/I/303536-idle-champions-plushie-evandra-skin-and-feat-pack.json"
+    },
+    {
+      "igdb_id": 303535,
+      "game_name": "Idle Champions: Plushie Nixie Skin & Feat Pack",
+      "file": "missing/I/303535-idle-champions-plushie-nixie-skin-and-feat-pack.json"
     },
     {
       "igdb_id": 252589,
@@ -599837,11 +600067,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -617100,6 +617325,11 @@
       "igdb_id": 178308,
       "game_name": "Lady in a Leotard With a Gun",
       "file": "missing/L/178308-lady-in-a-leotard-with-a-gun.json"
+    },
+    {
+      "igdb_id": 303534,
+      "game_name": "Lady in Midnight",
+      "file": "missing/L/303534-lady-in-midnight.json"
     },
     {
       "igdb_id": 220749,
@@ -720735,6 +720965,11 @@
       "igdb_id": 175325,
       "game_name": "Modern Ludo",
       "file": "missing/M/175325-modern-ludo.json"
+    },
+    {
+      "igdb_id": 303529,
+      "game_name": "Modern Modern Chef",
+      "file": "missing/M/303529-modern-modern-chef.json"
     },
     {
       "igdb_id": 377691,
@@ -938030,6 +938265,11 @@
       "igdb_id": 147866,
       "game_name": "Rocket Rabbit - Coin Race",
       "file": "missing/R/147866-rocket-rabbit-coin-race.json"
+    },
+    {
+      "igdb_id": 303532,
+      "game_name": "Rocket Racing: Fuse Starter Quest Pack",
+      "file": "missing/R/303532-rocket-racing-fuse-starter-quest-pack.json"
     },
     {
       "igdb_id": 13751,
