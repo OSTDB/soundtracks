@@ -4041,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathless Dungeon | 118064 | [118064-deathless-dungeon.json](./118064-deathless-dungeon.json) |
 | Deathless Hyperion | 145411 | [145411-deathless-hyperion.json](./145411-deathless-hyperion.json) |
 | Deathless: The City's Thirst | 34270 | [34270-deathless-the-citys-thirst.json](./34270-deathless-the-citys-thirst.json) |
+| Deathless: The Hero Quest | 302325 | [302325-deathless-the-hero-quest.json](./302325-deathless-the-hero-quest.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
 | Deathloop 4 You | 376863 | [376863-deathloop-4-you.json](./376863-deathloop-4-you.json) |
@@ -7204,6 +7205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice | 288365 | [288365-dice.json](./288365-dice.json) |
 | Dice | 309457 | [309457-dice.json](./309457-dice.json) |
 | Dice | 87320 | [87320-dice.json](./87320-dice.json) |
+| Dice 'n Goblins | 302395 | [302395-dice-n-goblins.json](./302395-dice-n-goblins.json) |
 | Dice & Fighter | 126388 | [126388-dice-and-fighter.json](./126388-dice-and-fighter.json) |
 | Dice & Fold | 276684 | [276684-dice-and-fold.json](./276684-dice-and-fold.json) |
 | Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
