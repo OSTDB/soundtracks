@@ -654,8 +654,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanokon: Esuii | 72556 | [72556-kanokon-esuii.json](./72556-kanokon-esuii.json) |
 | Kanon | 290848 | [290848-kanon.json](./290848-kanon.json) |
 | Kanon | 290878 | [290878-kanon.json](./290878-kanon.json) |
+| Kanon | 290906 | [290906-kanon.json](./290906-kanon.json) |
+| Kanon | 290968 | [290968-kanon.json](./290968-kanon.json) |
+| Kanon | 290969 | [290969-kanon.json](./290969-kanon.json) |
+| Kanon | 290971 | [290971-kanon.json](./290971-kanon.json) |
 | Kanon no Kakin Nikki | 330659 | [330659-kanon-no-kakin-nikki.json](./330659-kanon-no-kakin-nikki.json) |
 | Kanon: Best Edition | 290863 | [290863-kanon-best-edition.json](./290863-kanon-best-edition.json) |
+| Kanon: Memorial Edition | 290967 | [290967-kanon-memorial-edition.json](./290967-kanon-memorial-edition.json) |
 | Kanon: Standard Edition | 290871 | [290871-kanon-standard-edition.json](./290871-kanon-standard-edition.json) |
 | Kanoso | 301523 | [301523-kanoso.json](./301523-kanoso.json) |
 | Kanraku Ojyosama: Pregnant Race | 108936 | [108936-kanraku-ojyosama-pregnant-race.json](./108936-kanraku-ojyosama-pregnant-race.json) |
@@ -3407,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Carnage | 291336 | [291336-kitchen-carnage.json](./291336-kitchen-carnage.json) |
 | Kitchen Chaos | 232921 | [232921-kitchen-chaos.json](./232921-kitchen-chaos.json) |
 | Kitchen Confidence | 236855 | [236855-kitchen-confidence.json](./236855-kitchen-confidence.json) |
+| Kitchen Delights | 290889 | [290889-kitchen-delights.json](./290889-kitchen-delights.json) |
 | Kitchen Frenzy | 174787 | [174787-kitchen-frenzy.json](./174787-kitchen-frenzy.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen Island VR | 158593 | [158593-kitchen-island-vr.json](./158593-kitchen-island-vr.json) |
@@ -4335,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
 | Kokoro no Pro | 266870 | [266870-kokoro-no-pro.json](./266870-kokoro-no-pro.json) |
 | Kokoro no Yami no Saki ni | 81035 | [81035-kokoro-no-yami-no-saki-ni.json](./81035-kokoro-no-yami-no-saki-ni.json) |
+| Kokoro Quest | 290970 | [290970-kokoro-quest.json](./290970-kokoro-quest.json) |
 | Kokoro Talkers | 325446 | [325446-kokoro-talkers.json](./325446-kokoro-talkers.json) |
 | Kokoro Ultimate | 199352 | [199352-kokoro-ultimate.json](./199352-kokoro-ultimate.json) |
 | Kokoro: Baka-Monogatari | 150134 | [150134-kokoro-baka-monogatari.json](./150134-kokoro-baka-monogatari.json) |
