@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom | 146173 | [146173-maelstrom.json](./146173-maelstrom.json) |
 | Maelstrom | 207802 | [207802-maelstrom.json](./207802-maelstrom.json) |
+| Maelstrom | 281874 | [281874-maelstrom.json](./281874-maelstrom.json) |
 | Maelstrom | 71446 | [71446-maelstrom.json](./71446-maelstrom.json) |
 | Maelstrom Legacy: The Tesla Mystery | 207714 | [207714-maelstrom-legacy-the-tesla-mystery.json](./207714-maelstrom-legacy-the-tesla-mystery.json) |
 | Maelstrom: A Yaoi Visual Novel | 159571 | [159571-maelstrom-a-yaoi-visual-novel.json](./159571-maelstrom-a-yaoi-visual-novel.json) |
@@ -3753,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marrow Marrow | 369775 | [369775-marrow-marrow.json](./369775-marrow-marrow.json) |
 | Marry a Deep One | 319748 | [319748-marry-a-deep-one.json](./319748-marry-a-deep-one.json) |
 | Marry Me, Misato! | 166667 | [166667-marry-me-misato.json](./166667-marry-me-misato.json) |
+| Mars | 281857 | [281857-mars.json](./281857-mars.json) |
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
 | Mars 2030 | 34234 | [34234-mars-2030.json](./34234-mars-2030.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
@@ -6047,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Defense Z | 346904 | [346904-medieval-defense-z.json](./346904-medieval-defense-z.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dungeon | 230952 | [230952-medieval-dungeon.json](./230952-medieval-dungeon.json) |
+| Medieval Dynasty New Settlement | 282159 | [282159-medieval-dynasty-new-settlement.json](./282159-medieval-dynasty-new-settlement.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
 | Medieval Dynasty: Hunting Pack | 415186 | [415186-medieval-dynasty-hunting-pack.json](./415186-medieval-dynasty-hunting-pack.json) |
 | Medieval Dynasty: The Backwood | 415188 | [415188-medieval-dynasty-the-backwood.json](./415188-medieval-dynasty-the-backwood.json) |
@@ -7220,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megumi Rescue | 46139 | [46139-megumi-rescue.json](./46139-megumi-rescue.json) |
 | Megumichan Ijiwaru? Soretomo Kawaigaru? | 98041 | [98041-megumichan-ijiwaru-soretomo-kawaigaru.json](./98041-megumichan-ijiwaru-soretomo-kawaigaru.json) |
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
+| Meguru Dungeon | 282167 | [282167-meguru-dungeon.json](./282167-meguru-dungeon.json) |
 | Meh | 314247 | [314247-meh.json](./314247-meh.json) |
 | Mehen | 386090 | [386090-mehen.json](./386090-mehen.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
@@ -10834,6 +10838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miney Company: A Data Racket | 86746 | [86746-miney-company-a-data-racket.json](./86746-miney-company-a-data-racket.json) |
 | Minforiga | 149866 | [149866-minforiga.json](./149866-minforiga.json) |
 | Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
+| Ming Imperial Guards | 282165 | [282165-ming-imperial-guards.json](./282165-ming-imperial-guards.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
 | Mingle Magnet | 37567 | [37567-mingle-magnet.json](./37567-mingle-magnet.json) |
@@ -15787,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Bean: Flying Teddy | 112139 | [112139-mr-bean-flying-teddy.json](./112139-mr-bean-flying-teddy.json) |
 | Mr Blaster | 41942 | [41942-mr-blaster.json](./41942-mr-blaster.json) |
 | Mr Boom's Firework Factory | 114504 | [114504-mr-booms-firework-factory.json](./114504-mr-booms-firework-factory.json) |
+| Mr Bucket Told Me To | 281868 | [281868-mr-bucket-told-me-to.json](./281868-mr-bucket-told-me-to.json) |
 | Mr Bullet | 130292 | [130292-mr-bullet.json](./130292-mr-bullet.json) |
 | Mr Bullet 3D | 217769 | [217769-mr-bullet-3d.json](./217769-mr-bullet-3d.json) |
 | Mr Burt | 102824 | [102824-mr-burt.json](./102824-mr-burt.json) |
