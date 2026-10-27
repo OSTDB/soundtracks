@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Neon Cube | 55635 | [55635-2d-neon-cube.json](./55635-2d-neon-cube.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Platformer Game (Toy Factory) | 184282 | [184282-2d-platformer-game-toy-factory.json](./184282-2d-platformer-game-toy-factory.json) |
+| 2D Solomonar's Apprentice | 298543 | [298543-2d-solomonars-apprentice.json](./298543-2d-solomonars-apprentice.json) |
 | 2D Top Racing | 304445 | [304445-2d-top-racing.json](./304445-2d-top-racing.json) |
 | 2D Ver. Mega Man Legends 3: The Prologue! | 394414 | [394414-2d-ver-mega-man-legends-3-the-prologue.json](./394414-2d-ver-mega-man-legends-3-the-prologue.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Maze | 382550 | [382550-3d-maze.json](./382550-3d-maze.json) |
 | 3D Maze | 421216 | [421216-3d-maze.json](./421216-3d-maze.json) |
 | 3D Mega Rides Avenger | 56918 | [56918-3d-mega-rides-avenger.json](./56918-3d-mega-rides-avenger.json) |
+| 3D Mersi | 299189 | [299189-3d-mersi.json](./299189-3d-mersi.json) |
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
 | 3D Miner | 242978 | [242978-3d-miner.json](./242978-3d-miner.json) |
 | 3D Minesweeper | 384102 | [384102-3d-minesweeper.json](./384102-3d-minesweeper.json) |
@@ -2156,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3rees | 305728 | [305728-3rees.json](./305728-3rees.json) |
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
 | 3Souls | 409216 | [409216-3souls.json](./409216-3souls.json) |
+| 3Souls: Parallel Edition | 295779 | [295779-3souls-parallel-edition.json](./295779-3souls-parallel-edition.json) |
 | 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
 | 3T Games Compilation | 80400 | [80400-3t-games-compilation.json](./80400-3t-games-compilation.json) |
 | 3T Games Compilation 1 | 60615 | [60615-3t-games-compilation-1.json](./60615-3t-games-compilation-1.json) |
@@ -2294,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
 | 42 Ways to Die in Space | 199346 | [199346-42-ways-to-die-in-space.json](./199346-42-ways-to-die-in-space.json) |
 | 420 Button Clicker | 124689 | [124689-420-button-clicker.json](./124689-420-button-clicker.json) |
+| 420Blaze It 2: Game of the Year | 298607 | [298607-420blaze-it-2-game-of-the-year.json](./298607-420blaze-it-2-game-of-the-year.json) |
 | 428: Shibuya Scramble | 95069 | [95069-428-shibuya-scramble.json](./95069-428-shibuya-scramble.json) |
 | 4294967296 | 319995 | [319995-4294967296.json](./319995-4294967296.json) |
 | 42nd Street | 84338 | [84338-42nd-street.json](./84338-42nd-street.json) |
