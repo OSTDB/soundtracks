@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
 | S.T.A.C.K.E.R.: Nuclear Scavenger | 410017 | [410017-s-t-a-c-k-e-r-nuclear-scavenger.json](./410017-s-t-a-c-k-e-r-nuclear-scavenger.json) |
 | S.T.A.G. | 272454 | [272454-s-t-a-g.json](./272454-s-t-a-g.json) |
+| S.T.A.L.K.E.R. 1989 | 332905 | [332905-s-t-a-l-k-e-r-1989.json](./332905-s-t-a-l-k-e-r-1989.json) |
 | S.T.A.L.K.E.R. 2: Cost of Hope | 396025 | [396025-s-t-a-l-k-e-r-2-cost-of-hope.json](./396025-s-t-a-l-k-e-r-2-cost-of-hope.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition | 284360 | [284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json](./284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition | 169175 | [169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json](./169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json) |
@@ -2224,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarabaeus | 26273 | [26273-scarabaeus.json](./26273-scarabaeus.json) |
 | Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
 | Scarabeus: Pearls of Nile | 65037 | [65037-scarabeus-pearls-of-nile.json](./65037-scarabeus-pearls-of-nile.json) |
+| Scaravan 66 | 332961 | [332961-scaravan-66.json](./332961-scaravan-66.json) |
 | Scare Crow | 187090 | [187090-scare-crow.json](./187090-scare-crow.json) |
 | Scare Girl | 380728 | [380728-scare-girl.json](./380728-scare-girl.json) |
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
@@ -3016,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraps: Modular Vehicle Combat | 12816 | [12816-scraps-modular-vehicle-combat.json](./12816-scraps-modular-vehicle-combat.json) |
 | Scraptail: Down the Drain | 278514 | [278514-scraptail-down-the-drain.json](./278514-scraptail-down-the-drain.json) |
 | Scrapvival | 190150 | [190150-scrapvival.json](./190150-scrapvival.json) |
+| Scrapworks Simulator | 332951 | [332951-scrapworks-simulator.json](./332951-scrapworks-simulator.json) |
 | Scrapyard Dog | 12338 | [12338-scrapyard-dog.json](./12338-scrapyard-dog.json) |
 | Scrapyard Dog | 234652 | [234652-scrapyard-dog.json](./234652-scrapyard-dog.json) |
 | Scrapyard Robot Rampage | 115010 | [115010-scrapyard-robot-rampage.json](./115010-scrapyard-robot-rampage.json) |
@@ -7524,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi | 63582 | [63582-shogi.json](./63582-shogi.json) |
 | Shogi 2 | 282637 | [282637-shogi-2.json](./282637-shogi-2.json) |
 | Shogi 3 | 282638 | [282638-shogi-3.json](./282638-shogi-3.json) |
+| Shogi 3D | 332907 | [332907-shogi-3d.json](./332907-shogi-3d.json) |
 | Shogi no Hoshi | 45604 | [45604-shogi-no-hoshi.json](./45604-shogi-no-hoshi.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Revolution Gekisashi 13 | 336108 | [336108-shogi-revolution-gekisashi-13.json](./336108-shogi-revolution-gekisashi-13.json) |
@@ -8723,6 +8727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Bomber | 24131 | [24131-silent-bomber.json](./24131-silent-bomber.json) |
 | Silent Breach | 323267 | [323267-silent-breach.json](./323267-silent-breach.json) |
 | Silent Breath | 287462 | [287462-silent-breath.json](./287462-silent-breath.json) |
+| Silent Burial | 332947 | [332947-silent-burial.json](./332947-silent-burial.json) |
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
 | Silent Castle | 399717 | [399717-silent-castle.json](./399717-silent-castle.json) |
 | Silent Cause | 287238 | [287238-silent-cause.json](./287238-silent-cause.json) |
@@ -13610,6 +13615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace | 91840 | [91840-solace.json](./91840-solace.json) |
 | Solace Creek | 314920 | [314920-solace-creek.json](./314920-solace-creek.json) |
 | Solace Dreams | 142721 | [142721-solace-dreams.json](./142721-solace-dreams.json) |
+| Solace Inc. 2 | 332929 | [332929-solace-inc-2.json](./332929-solace-inc-2.json) |
 | Solace State | 107594 | [107594-solace-state.json](./107594-solace-state.json) |
 | Solace: Begin Your Escape | 391557 | [391557-solace-begin-your-escape.json](./391557-solace-begin-your-escape.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
@@ -19052,6 +19058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportsman's Double Play | 63648 | [63648-sportsmans-double-play.json](./63648-sportsmans-double-play.json) |
 | Sportsman's Pack: Cabela's Big Game Hunter 2005 & Rapala Pro Fishing | 78930 | [78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json](./78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json) |
 | Sportsman's Paradise 2 | 126293 | [126293-sportsmans-paradise-2.json](./126293-sportsmans-paradise-2.json) |
+| Sportvida CyberDash | 332914 | [332914-sportvida-cyberdash.json](./332914-sportvida-cyberdash.json) |
 | Sporty Games | 188899 | [188899-sporty-games.json](./188899-sporty-games.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot and His Friends | 208768 | [208768-spot-and-his-friends.json](./208768-spot-and-his-friends.json) |
@@ -21028,6 +21035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarGazing | 145288 | [145288-stargazing.json](./145288-stargazing.json) |
 | Stargazing 64 | 350523 | [350523-stargazing-64.json](./350523-stargazing-64.json) |
 | Stargazing: Genesis | 195705 | [195705-stargazing-genesis.json](./195705-stargazing-genesis.json) |
+| Stargears | 332918 | [332918-stargears.json](./332918-stargears.json) |
 | Stargirl and the Thief from the Exploded Moon | 313572 | [313572-stargirl-and-the-thief-from-the-exploded-moon.json](./313572-stargirl-and-the-thief-from-the-exploded-moon.json) |
 | Starglider | 12778 | [12778-starglider.json](./12778-starglider.json) |
 | Starglider 2 | 12779 | [12779-starglider-2.json](./12779-starglider-2.json) |
@@ -21535,6 +21543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
 | Starwatchers: The Search for Cosmic Jam | 178923 | [178923-starwatchers-the-search-for-cosmic-jam.json](./178923-starwatchers-the-search-for-cosmic-jam.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
+| Starwave Defender | 332921 | [332921-starwave-defender.json](./332921-starwave-defender.json) |
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
 | Starway Fleet | 29103 | [29103-starway-fleet.json](./29103-starway-fleet.json) |
 | Starway VR | 111373 | [111373-starway-vr.json](./111373-starway-vr.json) |
@@ -21978,6 +21987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
 | Steel Runner | 175179 | [175179-steel-runner.json](./175179-steel-runner.json) |
+| Steel Runner | 332952 | [332952-steel-runner.json](./332952-steel-runner.json) |
 | Steel Salvo | 145545 | [145545-steel-salvo.json](./145545-steel-salvo.json) |
 | Steel Sand Mars Chronicles: Survival Simulator | 294834 | [294834-steel-sand-mars-chronicles-survival-simulator.json](./294834-steel-sand-mars-chronicles-survival-simulator.json) |
 | Steel Saviour | 139080 | [139080-steel-saviour.json](./139080-steel-saviour.json) |
@@ -22106,6 +22116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Breach | 401686 | [401686-stellar-breach.json](./401686-stellar-breach.json) |
 | Stellar Broadcast | 421850 | [421850-stellar-broadcast.json](./421850-stellar-broadcast.json) |
 | Stellar Cafe | 360777 | [360777-stellar-cafe.json](./360777-stellar-cafe.json) |
+| Stellar Cardworks | 332940 | [332940-stellar-cardworks.json](./332940-stellar-cardworks.json) |
 | Stellar Checkpoint | 311593 | [311593-stellar-checkpoint.json](./311593-stellar-checkpoint.json) |
 | Stellar Code | 326775 | [326775-stellar-code.json](./326775-stellar-code.json) |
 | Stellar Conquest | 248595 | [248595-stellar-conquest.json](./248595-stellar-conquest.json) |
@@ -22846,6 +22857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Looter | 298154 | [298154-storage-looter.json](./298154-storage-looter.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
+| Store Empire | 332944 | [332944-store-empire.json](./332944-store-empire.json) |
 | Store It! | 355035 | [355035-store-it.json](./355035-store-it.json) |
 | Store Keeper | 344985 | [344985-store-keeper.json](./344985-store-keeper.json) |
 | Store Simulator | 285670 | [285670-store-simulator.json](./285670-store-simulator.json) |
