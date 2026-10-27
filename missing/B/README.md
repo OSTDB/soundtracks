@@ -9058,6 +9058,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockBlast Friend Edition | 412895 | [412895-blockblast-friend-edition.json](./412895-blockblast-friend-edition.json) |
 | BlockBlasters | 356548 | [356548-blockblasters.json](./356548-blockblasters.json) |
 | Blockbuster | 15677 | [15677-blockbuster.json](./15677-blockbuster.json) |
+| Blockbuster | 327740 | [327740-blockbuster.json](./327740-blockbuster.json) |
+| BlockBuster | 327741 | [327741-blockbuster.json](./327741-blockbuster.json) |
 | BlockBuster | 68647 | [68647-blockbuster.json](./68647-blockbuster.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
 | Blockbuster World Video Game Championship II | 210600 | [210600-blockbuster-world-video-game-championship-ii.json](./210600-blockbuster-world-video-game-championship-ii.json) |
@@ -13605,6 +13607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
 | BRoS: Battle Royale of Survival | 240722 | [240722-bros-battle-royale-of-survival.json](./240722-bros-battle-royale-of-survival.json) |
 | Brotate | 163704 | [163704-brotate.json](./163704-brotate.json) |
+| Brotato + Abyssal Terrors DLC Bundle | 327717 | [327717-brotato-abyssal-terrors-dlc-bundle.json](./327717-brotato-abyssal-terrors-dlc-bundle.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
@@ -15193,6 +15196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrow | 287496 | [287496-burrow.json](./287496-burrow.json) |
 | Burrow | 376800 | [376800-burrow.json](./376800-burrow.json) |
 | Burrow burrow | 159784 | [159784-burrow-burrow.json](./159784-burrow-burrow.json) |
+| Burrow Wing | 327760 | [327760-burrow-wing.json](./327760-burrow-wing.json) |
 | Burrows | 178397 | [178397-burrows.json](./178397-burrows.json) |
 | Burrows | 377195 | [377195-burrows.json](./377195-burrows.json) |
 | Burrows | 380045 | [380045-burrows.json](./380045-burrows.json) |
