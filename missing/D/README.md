@@ -13947,6 +13947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill to the Stars | 262812 | [262812-drill-to-the-stars.json](./262812-drill-to-the-stars.json) |
 | Drill Up | 348945 | [348945-drill-up.json](./348945-drill-up.json) |
 | Driller Tanks | 94636 | [94636-driller-tanks.json](./94636-driller-tanks.json) |
+| DrillHead | 330089 | [330089-drillhead.json](./330089-drillhead.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | DrillMania | 106458 | [106458-drillmania.json](./106458-drillmania.json) |
 | Drillmaster 9000 | 348012 | [348012-drillmaster-9000.json](./348012-drillmaster-9000.json) |
@@ -14706,6 +14707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckWorld Revive | 327960 | [327960-duckworld-revive.json](./327960-duckworld-revive.json) |
 | DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
 | Ducky Bouncy | 259967 | [259967-ducky-bouncy.json](./259967-ducky-bouncy.json) |
+| Ducky Clicker | 330080 | [330080-ducky-clicker.json](./330080-ducky-clicker.json) |
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | Ducky Dive | 232579 | [232579-ducky-dive.json](./232579-ducky-dive.json) |
@@ -15907,6 +15909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustoria | 347570 | [347570-dustoria.json](./347570-dustoria.json) |
 | Dustpine District | 419858 | [419858-dustpine-district.json](./419858-dustpine-district.json) |
 | Dustpocalypse | 422136 | [422136-dustpocalypse.json](./422136-dustpocalypse.json) |
+| Dustswap: Dusttrust | 330050 | [330050-dustswap-dusttrust.json](./330050-dustswap-dusttrust.json) |
 | Dusttale | 136912 | [136912-dusttale.json](./136912-dusttale.json) |
 | Dusttale Reimagined | 329662 | [329662-dusttale-reimagined.json](./329662-dusttale-reimagined.json) |
 | Dusttale: Last Genocide | 362314 | [362314-dusttale-last-genocide.json](./362314-dusttale-last-genocide.json) |
