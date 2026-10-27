@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jieitai World | 254449 | [254449-jieitai-world.json](./254449-jieitai-world.json) |
 | Jiēxiànyuán de Shǐmìng | 161164 | [161164-jiexianyuan-de-shiming.json](./161164-jiexianyuan-de-shiming.json) |
 | Jiffy | 142690 | [142690-jiffy.json](./142690-jiffy.json) |
+| Jiffy Bag | 305808 | [305808-jiffy-bag.json](./305808-jiffy-bag.json) |
 | Jig-a-Pix Pets | 209987 | [209987-jig-a-pix-pets.json](./209987-jig-a-pix-pets.json) |
 | Jig-a-Pix Wild World | 47919 | [47919-jig-a-pix-wild-world.json](./47919-jig-a-pix-wild-world.json) |
 | Jig-a-Pix Wonderful World | 209988 | [209988-jig-a-pix-wonderful-world.json](./209988-jig-a-pix-wonderful-world.json) |
