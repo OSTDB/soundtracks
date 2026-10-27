@@ -6585,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep In Space | 18561 | [18561-sheep-in-space.json](./18561-sheep-in-space.json) |
 | Sheep Island | 160195 | [160195-sheep-island.json](./160195-sheep-island.json) |
 | Sheep Island | 373072 | [373072-sheep-island.json](./373072-sheep-island.json) |
+| Sheep It Up | 305734 | [305734-sheep-it-up.json](./305734-sheep-it-up.json) |
 | Sheep It Up! | 195590 | [195590-sheep-it-up.json](./195590-sheep-it-up.json) |
 | Sheep Lad | 236759 | [236759-sheep-lad.json](./236759-sheep-lad.json) |
 | Sheep Lass: Quest Zero | 334253 | [334253-sheep-lass-quest-zero.json](./334253-sheep-lass-quest-zero.json) |
@@ -7449,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro no Shinju | 151852 | [151852-shiro-no-shinju.json](./151852-shiro-no-shinju.json) |
 | Shiro Project | 138171 | [138171-shiro-project.json](./138171-shiro-project.json) |
 | Shiro Project: Re Castle Defense | 133386 | [133386-shiro-project-re-castle-defense.json](./133386-shiro-project-re-castle-defense.json) |
+| Shiro to Dragon | 305807 | [305807-shiro-to-dragon.json](./305807-shiro-to-dragon.json) |
 | Shiro to Kuro no Alice | 70889 | [70889-shiro-to-kuro-no-alice.json](./70889-shiro-to-kuro-no-alice.json) |
 | Shiro to Kuro no Alice for Nintendo Switch | 200458 | [200458-shiro-to-kuro-no-alice-for-nintendo-switch.json](./200458-shiro-to-kuro-no-alice-for-nintendo-switch.json) |
 | Shiro to Kuro no Alice: Twilight Line | 136471 | [136471-shiro-to-kuro-no-alice-twilight-line.json](./136471-shiro-to-kuro-no-alice-twilight-line.json) |
@@ -9478,6 +9480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
 | Simulacrum | 201125 | [201125-simulacrum.json](./201125-simulacrum.json) |
+| Simulacrum | 305813 | [305813-simulacrum.json](./305813-simulacrum.json) |
 | Simulacrum: Chapter One | 122916 | [122916-simulacrum-chapter-one.json](./122916-simulacrum-chapter-one.json) |
 | Simulador Profesional de Fútbol | 70334 | [70334-simulador-profesional-de-futbol.json](./70334-simulador-profesional-de-futbol.json) |
 | SimuLadron | 381630 | [381630-simuladron.json](./381630-simuladron.json) |
@@ -11291,6 +11294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender: Lonely Home | 126446 | [126446-slender-lonely-home.json](./126446-slender-lonely-home.json) |
 | Slender: New Hope | 321430 | [321430-slender-new-hope.json](./321430-slender-new-hope.json) |
 | Slender: Reborn | 327987 | [327987-slender-reborn.json](./327987-slender-reborn.json) |
+| Slender: The 8 Pages | 305740 | [305740-slender-the-8-pages.json](./305740-slender-the-8-pages.json) |
 | Slender: The Arrival | 265723 | [265723-slender-the-arrival.json](./265723-slender-the-arrival.json) |
 | Slender: The Arrival VR | 302594 | [302594-slender-the-arrival-vr.json](./302594-slender-the-arrival-vr.json) |
 | Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
@@ -14859,6 +14863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Nebulous | 282688 | [282688-sonic-nebulous.json](./282688-sonic-nebulous.json) |
 | Sonic Neo Genesis | 325849 | [325849-sonic-neo-genesis.json](./325849-sonic-neo-genesis.json) |
 | Sonic Neon Adventure | 331363 | [331363-sonic-neon-adventure.json](./331363-sonic-neon-adventure.json) |
+| Sonic Nexus | 305833 | [305833-sonic-nexus.json](./305833-sonic-nexus.json) |
 | Sonic no 7 Narabe | 261286 | [261286-sonic-no-7-narabe.json](./261286-sonic-no-7-narabe.json) |
 | Sonic no Daifuugou | 261276 | [261276-sonic-no-daifuugou.json](./261276-sonic-no-daifuugou.json) |
 | Sonic no Jigen Ressha | 261290 | [261290-sonic-no-jigen-ressha.json](./261290-sonic-no-jigen-ressha.json) |
@@ -27592,6 +27597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Princess & Puzzle Collection: 18 Games in 1 | 385126 | [385126-super-princess-and-puzzle-collection-18-games-in-1.json](./385126-super-princess-and-puzzle-collection-18-games-in-1.json) |
 | Super Princess Peach | 20497 | [20497-super-princess-peach.json](./20497-super-princess-peach.json) |
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
+| Super Princess' 2092 Exodus | 305736 | [305736-super-princess-2092-exodus.json](./305736-super-princess-2092-exodus.json) |
 | Super Producers | 98008 | [98008-super-producers.json](./98008-super-producers.json) |
 | Super Psycho Baseball | 227421 | [227421-super-psycho-baseball.json](./227421-super-psycho-baseball.json) |
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
