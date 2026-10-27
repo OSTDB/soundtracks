@@ -3658,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenvi | 166031 | [166031-tenvi.json](./166031-tenvi.json) |
 | Tenya Wanya Teens | 63667 | [63667-tenya-wanya-teens.json](./63667-tenya-wanya-teens.json) |
 | Teo 64 | 299564 | [299564-teo-64.json](./299564-teo-64.json) |
+| Teo Dove Pro Skater 2 | 295215 | [295215-teo-dove-pro-skater-2.json](./295215-teo-dove-pro-skater-2.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | Teocida | 144568 | [144568-teocida.json](./144568-teocida.json) |
 | Teocida + Estigma | 265712 | [265712-teocida-estigma.json](./265712-teocida-estigma.json) |
@@ -7080,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Desire of the Amazons | 272279 | [272279-the-desire-of-the-amazons.json](./272279-the-desire-of-the-amazons.json) |
 | The Desolate Hope | 17351 | [17351-the-desolate-hope.json](./17351-the-desolate-hope.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
+| The Destiny Of Nagari | 295229 | [295229-the-destiny-of-nagari.json](./295229-the-destiny-of-nagari.json) |
 | The Destiny Star of Girlfriend: Episode of Fujiko | 305322 | [305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json](./305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json) |
 | The Destroyer from Jail | 378377 | [378377-the-destroyer-from-jail.json](./378377-the-destroyer-from-jail.json) |
 | The Detail | 9080 | [9080-the-detail.json](./9080-the-detail.json) |
@@ -16917,6 +16919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came From the Moon | 33790 | [33790-they-came-from-the-moon.json](./33790-they-came-from-the-moon.json) |
 | They came from the Skies | 54197 | [54197-they-came-from-the-skies.json](./54197-they-came-from-the-skies.json) |
 | They Came From the Sky | 118328 | [118328-they-came-from-the-sky.json](./118328-they-came-from-the-sky.json) |
+| They Can Fart | 295301 | [295301-they-can-fart.json](./295301-they-can-fart.json) |
 | They Cannot Hear Me | 343164 | [343164-they-cannot-hear-me.json](./343164-they-cannot-hear-me.json) |
 | They Come at Poop Time | 185355 | [185355-they-come-at-poop-time.json](./185355-they-come-at-poop-time.json) |
 | They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
@@ -20544,6 +20547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Bee Jazz | 404537 | [404537-to-bee-jazz.json](./404537-to-bee-jazz.json) |
 | To Bee or Not to Bee | 184801 | [184801-to-bee-or-not-to-bee.json](./184801-to-bee-or-not-to-bee.json) |
 | To Bring Her Back | 316804 | [316804-to-bring-her-back.json](./316804-to-bring-her-back.json) |
+| To Build a Home | 295205 | [295205-to-build-a-home.json](./295205-to-build-a-home.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
 | To Carry a Sword | 190440 | [190440-to-carry-a-sword.json](./190440-to-carry-a-sword.json) |
 | To Crime Nirvana | 180064 | [180064-to-crime-nirvana.json](./180064-to-crime-nirvana.json) |
@@ -25304,6 +25308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traitor | 372252 | [372252-traitor.json](./372252-traitor.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
 | Traitor: Feducall | 187107 | [187107-traitor-feducall.json](./187107-traitor-feducall.json) |
+| Traitor's Gambit | 295220 | [295220-traitors-gambit.json](./295220-traitors-gambit.json) |
 | Traitor's Kitchen | 372225 | [372225-traitors-kitchen.json](./372225-traitors-kitchen.json) |
 | Traitorous Trek | 263967 | [263967-traitorous-trek.json](./263967-traitorous-trek.json) |
 | Traitors | 336336 | [336336-traitors.json](./336336-traitors.json) |
@@ -27085,6 +27090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Hentai Puzzle | 163568 | [163568-true-hentai-puzzle.json](./163568-true-hentai-puzzle.json) |
 | True Hentai Puzzle: 666 | 163569 | [163569-true-hentai-puzzle-666.json](./163569-true-hentai-puzzle-666.json) |
 | True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
+| True Idle Simulator 2 | 295294 | [295294-true-idle-simulator-2.json](./295294-true-idle-simulator-2.json) |
 | True Legacy | 88946 | [88946-true-legacy.json](./88946-true-legacy.json) |
 | True Lies | 282484 | [282484-true-lies.json](./282484-true-lies.json) |
 | True Love | 320026 | [320026-true-love.json](./320026-true-love.json) |
