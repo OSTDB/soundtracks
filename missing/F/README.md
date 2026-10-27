@@ -4257,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV | 282725 | [282725-final-fantasy-iv.json](./282725-final-fantasy-iv.json) |
 | Final Fantasy IV | 283093 | [283093-final-fantasy-iv.json](./283093-final-fantasy-iv.json) |
 | Final Fantasy IV | 283313 | [283313-final-fantasy-iv.json](./283313-final-fantasy-iv.json) |
+| Final Fantasy IV | 283317 | [283317-final-fantasy-iv.json](./283317-final-fantasy-iv.json) |
 | Final Fantasy IV | 380634 | [380634-final-fantasy-iv.json](./380634-final-fantasy-iv.json) |
 | Final Fantasy IV Advance | 406 | [406-final-fantasy-iv-advance.json](./406-final-fantasy-iv-advance.json) |
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
@@ -5271,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
 | Firelust | 176915 | [176915-firelust.json](./176915-firelust.json) |
 | Firemakaf | 178606 | [178606-firemakaf.json](./178606-firemakaf.json) |
+| Fireman | 283009 | [283009-fireman.json](./283009-fireman.json) |
 | Fireman Fred | 14067 | [14067-fireman-fred.json](./14067-fireman-fred.json) |
 | Fireman Sam | 14068 | [14068-fireman-sam.json](./14068-fireman-sam.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
