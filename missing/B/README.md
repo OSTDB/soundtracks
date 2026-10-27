@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Abyss | 253419 | [253419-backrooms-abyss.json](./253419-backrooms-abyss.json) |
 | Backrooms Anomaly | 374836 | [374836-backrooms-anomaly.json](./374836-backrooms-anomaly.json) |
 | Backrooms Blackmarket | 348848 | [348848-backrooms-blackmarket.json](./348848-backrooms-blackmarket.json) |
+| Backrooms Brotherhood | 307641 | [307641-backrooms-brotherhood.json](./307641-backrooms-brotherhood.json) |
 | Backrooms Cats and Lava | 304830 | [304830-backrooms-cats-and-lava.json](./304830-backrooms-cats-and-lava.json) |
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
 | Backrooms Cycle | 256781 | [256781-backrooms-cycle.json](./256781-backrooms-cycle.json) |
@@ -10609,6 +10610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boll's Journey | 365065 | [365065-bolls-journey.json](./365065-bolls-journey.json) |
 | Bolmn | 401373 | [401373-bolmn.json](./401373-bolmn.json) |
 | Bolo | 21916 | [21916-bolo.json](./21916-bolo.json) |
+| Bolo | 307651 | [307651-bolo.json](./307651-bolo.json) |
 | Bolo | 376750 | [376750-bolo.json](./376750-bolo.json) |
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
@@ -11367,6 +11369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Officer | 117132 | [117132-border-officer.json](./117132-border-officer.json) |
 | Border Patrol Simulator | 334342 | [334342-border-patrol-simulator.json](./334342-border-patrol-simulator.json) |
 | Border Pioneer | 290777 | [290777-border-pioneer.json](./290777-border-pioneer.json) |
+| Border Police: Contraband Simulator 2024 | 307639 | [307639-border-police-contraband-simulator-2024.json](./307639-border-police-contraband-simulator-2024.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
