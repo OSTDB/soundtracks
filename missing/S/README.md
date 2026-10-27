@@ -3893,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets After Class | 303297 | [303297-secrets-after-class.json](./303297-secrets-after-class.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
+| Secrets in Green | 326006 | [326006-secrets-in-green.json](./326006-secrets-in-green.json) |
 | Secrets of a Campfire | 156072 | [156072-secrets-of-a-campfire.json](./156072-secrets-of-a-campfire.json) |
 | Secrets of Ailzylia | 234680 | [234680-secrets-of-ailzylia.json](./234680-secrets-of-ailzylia.json) |
 | Secrets of Blackrock Manor: Escape Room | 344652 | [344652-secrets-of-blackrock-manor-escape-room.json](./344652-secrets-of-blackrock-manor-escape-room.json) |
@@ -12931,6 +12932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros. Classic | 345107 | [345107-snow-bros-classic.json](./345107-snow-bros-classic.json) |
 | Snow Bros. Classic Collection | 387669 | [387669-snow-bros-classic-collection.json](./387669-snow-bros-classic-collection.json) |
 | Snow Bros. Jr. | 117967 | [117967-snow-bros-jr.json](./117967-snow-bros-jr.json) |
+| Snow Bros. Special: Anniversary Edition | 325981 | [325981-snow-bros-special-anniversary-edition.json](./325981-snow-bros-special-anniversary-edition.json) |
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
 | Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
@@ -21605,6 +21607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
 | Starverse: Requiem Aeternam Eden | 342543 | [342543-starverse-requiem-aeternam-eden.json](./342543-starverse-requiem-aeternam-eden.json) |
 | Starving | 28754 | [28754-starving.json](./28754-starving.json) |
+| Starving Cat | 326004 | [326004-starving-cat.json](./326004-starving-cat.json) |
 | Starving Gods | 401928 | [401928-starving-gods.json](./401928-starving-gods.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starvoid | 2019 | [2019-starvoid.json](./2019-starvoid.json) |
@@ -25628,6 +25631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
 | Super 190-in-1 | 137388 | [137388-super-190-in-1.json](./137388-super-190-in-1.json) |
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
+| Super 3D Maze 16 | 325983 | [325983-super-3d-maze-16.json](./325983-super-3d-maze-16.json) |
 | Super 3D Table Tennis | 147072 | [147072-super-3d-table-tennis.json](./147072-super-3d-table-tennis.json) |
 | Super 8 Football | 267552 | [267552-super-8-football.json](./267552-super-8-football.json) |
 | Super 80s World | 116013 | [116013-super-80s-world.json](./116013-super-80s-world.json) |
