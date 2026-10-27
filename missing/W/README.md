@@ -1062,11 +1062,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
 | Wardwell House VR | 163966 | [163966-wardwell-house-vr.json](./163966-wardwell-house-vr.json) |
 | Ware's Laboratory | 373111 | [373111-wares-laboratory.json](./373111-wares-laboratory.json) |
+| WarEcon: Build & Conquer | 293659 | [293659-warecon-build-and-conquer.json](./293659-warecon-build-and-conquer.json) |
 | Wared | 119451 | [119451-wared.json](./119451-wared.json) |
 | Warehouse 30 | 403013 | [403013-warehouse-30.json](./403013-warehouse-30.json) |
 | Warehouse and Logistics Simulator | 17031 | [17031-warehouse-and-logistics-simulator.json](./17031-warehouse-and-logistics-simulator.json) |
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
 | Warehouse Hunter | 212502 | [212502-warehouse-hunter.json](./212502-warehouse-hunter.json) |
+| Warehouse Inc. | 294116 | [294116-warehouse-inc.json](./294116-warehouse-inc.json) |
 | Warehouse Job | 353773 | [353773-warehouse-job.json](./353773-warehouse-job.json) |
 | Warehouse Keeper | 230710 | [230710-warehouse-keeper.json](./230710-warehouse-keeper.json) |
 | Warehouse Manager Simulator | 294296 | [294296-warehouse-manager-simulator.json](./294296-warehouse-manager-simulator.json) |
@@ -5184,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Grae | 188827 | [188827-winter-grae.json](./188827-winter-grae.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Hunting | 373603 | [373603-winter-hunting.json](./373603-winter-hunting.json) |
+| Winter is here | 294110 | [294110-winter-is-here.json](./294110-winter-is-here.json) |
 | Winter Is... | 92389 | [92389-winter-is.json](./92389-winter-is.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Magic | 182929 | [182929-winter-magic.json](./182929-winter-magic.json) |
