@@ -13230,6 +13230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Station | 86760 | [86760-dread-station.json](./86760-dread-station.json) |
 | Dread Templar | 144585 | [144585-dread-templar.json](./144585-dread-templar.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
+| Dread Tomb | 317785 | [317785-dread-tomb.json](./317785-dread-tomb.json) |
 | Dread Weight | 249334 | [249334-dread-weight.json](./249334-dread-weight.json) |
 | Dread X Collection | 137056 | [137056-dread-x-collection.json](./137056-dread-x-collection.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
