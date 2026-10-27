@@ -3077,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach Up 2-Gou | 122931 | [122931-peach-up-2-gou.json](./122931-peach-up-2-gou.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
+| Peach's Journey | 331229 | [331229-peachs-journey.json](./331229-peachs-journey.json) |
 | Peachboy Legend | 78941 | [78941-peachboy-legend.json](./78941-peachboy-legend.json) |
 | Peachboy Legend II | 37655 | [37655-peachboy-legend-ii.json](./37655-peachboy-legend-ii.json) |
 | Peaches and Dreams | 293852 | [293852-peaches-and-dreams.json](./293852-peaches-and-dreams.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrolhead Paradise | 252561 | [252561-petrolhead-paradise.json](./252561-petrolhead-paradise.json) |
 | PetRPG | 166472 | [166472-petrpg.json](./166472-petrpg.json) |
 | Pets | 314303 | [314303-pets.json](./314303-pets.json) |
+| Pets | 331219 | [331219-pets.json](./331219-pets.json) |
 | Pets and Friends | 335355 | [335355-pets-and-friends.json](./335355-pets-and-friends.json) |
 | Pets and Friends Butterflies Bundle | 366792 | [366792-pets-and-friends-butterflies-bundle.json](./366792-pets-and-friends-butterflies-bundle.json) |
 | Pets and Friends Easter Bundle | 396924 | [396924-pets-and-friends-easter-bundle.json](./396924-pets-and-friends-easter-bundle.json) |
@@ -4547,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom: Phantom of Inferno - Nitro Archive | 413191 | [413191-phantom-phantom-of-inferno-nitro-archive.json](./413191-phantom-phantom-of-inferno-nitro-archive.json) |
 | Phantom's Call | 262858 | [262858-phantoms-call.json](./262858-phantoms-call.json) |
 | Phantom's Hour | 407387 | [407387-phantoms-hour.json](./407387-phantoms-hour.json) |
+| Phantomancer | 331234 | [331234-phantomancer.json](./331234-phantomancer.json) |
 | Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
 | Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
 | Phantomphobia: Yijie | 331945 | [331945-phantomphobia-yijie.json](./331945-phantomphobia-yijie.json) |
