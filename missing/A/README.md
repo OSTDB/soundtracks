@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wise Use of Time | 34579 | [34579-a-wise-use-of-time.json](./34579-a-wise-use-of-time.json) |
 | A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
+| A Witch in Time: Yamada-kun to Nananin no Majo | 292009 | [292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json](./292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json) |
 | A Witch Shall be Born | 315559 | [315559-a-witch-shall-be-born.json](./315559-a-witch-shall-be-born.json) |
 | A Witch's Game | 293552 | [293552-a-witchs-game.json](./293552-a-witchs-game.json) |
 | A Witch's Stop | 382374 | [382374-a-witchs-stop.json](./382374-a-witchs-stop.json) |
@@ -3725,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife | 195976 | [195976-afterlife.json](./195976-afterlife.json) |
 | Afterlife | 264043 | [264043-afterlife.json](./264043-afterlife.json) |
 | Afterlife | 301685 | [301685-afterlife.json](./301685-afterlife.json) |
+| Afterlife Airlines | 292031 | [292031-afterlife-airlines.json](./292031-afterlife-airlines.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife Connections LLC | 307715 | [307715-afterlife-connections-llc.json](./307715-afterlife-connections-llc.json) |
 | Afterlife Empire | 35320 | [35320-afterlife-empire.json](./35320-afterlife-empire.json) |
@@ -8842,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Sudoku | 263324 | [263324-anime-sudoku.json](./263324-anime-sudoku.json) |
 | Anime Sunset Ride | 153014 | [153014-anime-sunset-ride.json](./153014-anime-sunset-ride.json) |
 | Anime Tank Blitz: Warbound Legends | 283293 | [283293-anime-tank-blitz-warbound-legends.json](./283293-anime-tank-blitz-warbound-legends.json) |
+| Anime Thighs | 291943 | [291943-anime-thighs.json](./291943-anime-thighs.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
 | Anime Toy Shop Simulator: Japanese Style | 389920 | [389920-anime-toy-shop-simulator-japanese-style.json](./389920-anime-toy-shop-simulator-japanese-style.json) |
 | Anime Uni | 273943 | [273943-anime-uni.json](./273943-anime-uni.json) |
@@ -10116,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Energizer | 197666 | [197666-aqua-energizer.json](./197666-aqua-energizer.json) |
 | Aqua Fish | 52411 | [52411-aqua-fish.json](./52411-aqua-fish.json) |
 | Aqua Forest | 72989 | [72989-aqua-forest.json](./72989-aqua-forest.json) |
+| Aqua Fortis Aqua Valis | 291963 | [291963-aqua-fortis-aqua-valis.json](./291963-aqua-fortis-aqua-valis.json) |
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
 | Aqua Glide | 334853 | [334853-aqua-glide.json](./334853-aqua-glide.json) |
 | Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
