@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Command | 45933 | [45933-earth-command.json](./45933-earth-command.json) |
 | Earth Command: The Future of Our World is in Your Hands | 209177 | [209177-earth-command-the-future-of-our-world-is-in-your-hands.json](./209177-earth-command-the-future-of-our-world-is-in-your-hands.json) |
 | Earth Craft | 299893 | [299893-earth-craft.json](./299893-earth-craft.json) |
+| Earth Crisis | 305726 | [305726-earth-crisis.json](./305726-earth-crisis.json) |
 | Earth Daddy | 319282 | [319282-earth-daddy.json](./319282-earth-daddy.json) |
 | Earth Defence | 14049 | [14049-earth-defence.json](./14049-earth-defence.json) |
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
