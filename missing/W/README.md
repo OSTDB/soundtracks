@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: 20,000 Leagues Under the Sea | 220525 | [220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json](./220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
+| Walkabout Mini Golf: Around the World in 80 Days | 286549 | [286549-walkabout-mini-golf-around-the-world-in-80-days.json](./286549-walkabout-mini-golf-around-the-world-in-80-days.json) |
 | Walkabout Mini Golf: Atlantis | 232952 | [232952-walkabout-mini-golf-atlantis.json](./232952-walkabout-mini-golf-atlantis.json) |
 | Walkabout Mini Golf: Blokhaven | 408259 | [408259-walkabout-mini-golf-blokhaven.json](./408259-walkabout-mini-golf-blokhaven.json) |
 | Walkabout Mini Golf: Crystal Lair | 360337 | [360337-walkabout-mini-golf-crystal-lair.json](./360337-walkabout-mini-golf-crystal-lair.json) |
@@ -2225,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave of Color | 389942 | [389942-wave-of-color.json](./389942-wave-of-color.json) |
 | Wave of Darkness | 17704 | [17704-wave-of-darkness.json](./17704-wave-of-darkness.json) |
 | Wave Race | 48915 | [48915-wave-race.json](./48915-wave-race.json) |
+| Wave Race 64 | 286694 | [286694-wave-race-64.json](./286694-wave-race-64.json) |
 | Wave Race 64 | 308048 | [308048-wave-race-64.json](./308048-wave-race-64.json) |
 | Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
 | Wave Race 64: Shindou Pak Taiou Version | 47740 | [47740-wave-race-64-shindou-pak-taiou-version.json](./47740-wave-race-64-shindou-pak-taiou-version.json) |
