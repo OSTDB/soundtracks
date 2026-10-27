@@ -26612,6 +26612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Land | 130090 | [130090-super-luigi-land.json](./130090-super-luigi-land.json) |
 | Super Luigi Land Wii | 294783 | [294783-super-luigi-land-wii.json](./294783-super-luigi-land-wii.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
+| Super Luigi Paradise | 320218 | [320218-super-luigi-paradise.json](./320218-super-luigi-paradise.json) |
 | Super Luigi Sunburn | 313428 | [313428-super-luigi-sunburn.json](./313428-super-luigi-sunburn.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
@@ -26781,8 +26782,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros 4: Escapade | 318550 | [318550-super-mario-bros-4-escapade.json](./318550-super-mario-bros-4-escapade.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
 | Super Mario Bros HF | 274982 | [274982-super-mario-bros-hf.json](./274982-super-mario-bros-hf.json) |
+| Super Mario Bros: Bloody Battles | 320215 | [320215-super-mario-bros-bloody-battles.json](./320215-super-mario-bros-bloody-battles.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
 | Super Mario Bros: Dual Dash | 320158 | [320158-super-mario-bros-dual-dash.json](./320158-super-mario-bros-dual-dash.json) |
+| Super Mario Bros: Fierce Days | 320211 | [320211-super-mario-bros-fierce-days.json](./320211-super-mario-bros-fierce-days.json) |
 | Super Mario Bros: Hello | 318863 | [318863-super-mario-bros-hello.json](./318863-super-mario-bros-hello.json) |
 | Super Mario Bros: Impending Doom | 336103 | [336103-super-mario-bros-impending-doom.json](./336103-super-mario-bros-impending-doom.json) |
 | Super Mario Bros: Merry Mountain Christmas Adventure - SMW Christmas Edition V3.0 | 229679 | [229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json](./229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json) |
@@ -26790,6 +26793,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Odyssey - Chapter 1 | 134294 | [134294-super-mario-bros-odyssey-chapter-1.json](./134294-super-mario-bros-odyssey-chapter-1.json) |
 | Super Mario Bros: Restless Reality | 320223 | [320223-super-mario-bros-restless-reality.json](./320223-super-mario-bros-restless-reality.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
+| Super Mario Bros: Seeking Sunshine | 320216 | [320216-super-mario-bros-seeking-sunshine.json](./320216-super-mario-bros-seeking-sunshine.json) |
+| Super Mario Bros: Shine Expedition | 320214 | [320214-super-mario-bros-shine-expedition.json](./320214-super-mario-bros-shine-expedition.json) |
 | Super Mario Bros: The Early Years | 268364 | [268364-super-mario-bros-the-early-years.json](./268364-super-mario-bros-the-early-years.json) |
 | Super Mario Bros: The Hunt for the Magical Key | 268365 | [268365-super-mario-bros-the-hunt-for-the-magical-key.json](./268365-super-mario-bros-the-hunt-for-the-magical-key.json) |
 | Super Mario Bros: Unofficial PC Port | 340337 | [340337-super-mario-bros-unofficial-pc-port.json](./340337-super-mario-bros-unofficial-pc-port.json) |
