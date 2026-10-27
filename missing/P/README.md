@@ -7868,6 +7868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of Pirates | 115533 | [115533-planet-of-pirates.json](./115533-planet-of-pirates.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
+| Planet of the Apes | 282414 | [282414-planet-of-the-apes.json](./282414-planet-of-the-apes.json) |
 | Planet of the Apes | 282720 | [282720-planet-of-the-apes.json](./282720-planet-of-the-apes.json) |
 | Planet of the Apes | 49358 | [49358-planet-of-the-apes.json](./49358-planet-of-the-apes.json) |
 | Planet of the Apes: Last Frontier | 54709 | [54709-planet-of-the-apes-last-frontier.json](./54709-planet-of-the-apes-last-frontier.json) |
@@ -8777,11 +8778,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Clothier | 102632 | [102632-pocket-clothier.json](./102632-pocket-clothier.json) |
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Color Trump | 137983 | [137983-pocket-color-trump.json](./137983-pocket-color-trump.json) |
+| Pocket Cooking | 282417 | [282417-pocket-cooking.json](./282417-pocket-cooking.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Cowboys | 235255 | [235255-pocket-cowboys.json](./235255-pocket-cowboys.json) |
 | Pocket Creature PVP | 399480 | [399480-pocket-creature-pvp.json](./399480-pocket-creature-pvp.json) |
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
+| Pocket Densha 2 | 282418 | [282418-pocket-densha-2.json](./282418-pocket-densha-2.json) |
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
 | Pocket Dogs | 49357 | [49357-pocket-dogs.json](./49357-pocket-dogs.json) |
 | Pocket Drift Rally | 391833 | [391833-pocket-drift-rally.json](./391833-pocket-drift-rally.json) |
@@ -9615,6 +9618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Modern Emerald | 283549 | [283549-pokemon-modern-emerald.json](./283549-pokemon-modern-emerald.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
+| Pokémon My Ass | 282740 | [282740-pokemon-my-ass.json](./282740-pokemon-my-ass.json) |
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
 | Pokemon Mystery Dungeon: Cryptic Conundrum | 373505 | [373505-pokemon-mystery-dungeon-cryptic-conundrum.json](./373505-pokemon-mystery-dungeon-cryptic-conundrum.json) |
 | Pokémon Mystery Dungeon: Explorers of Alpha | 381141 | [381141-pokemon-mystery-dungeon-explorers-of-alpha.json](./381141-pokemon-mystery-dungeon-explorers-of-alpha.json) |
@@ -11548,6 +11552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
 | Power Lode Runner | 38243 | [38243-power-lode-runner.json](./38243-power-lode-runner.json) |
 | Power Lords | 24005 | [24005-power-lords.json](./24005-power-lords.json) |
+| Power Lords: Quest for Volcan | 282736 | [282736-power-lords-quest-for-volcan.json](./282736-power-lords-quest-for-volcan.json) |
 | Power Lords: Quest for Volcan | 40924 | [40924-power-lords-quest-for-volcan.json](./40924-power-lords-quest-for-volcan.json) |
 | Power Math | 209898 | [209898-power-math.json](./209898-power-math.json) |
 | Power Meter | 341464 | [341464-power-meter.json](./341464-power-meter.json) |
@@ -15233,6 +15238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Pursuit of Redemption | 148979 | [148979-pursuit-of-redemption.json](./148979-pursuit-of-redemption.json) |
 | Pursuit of the Bookkeeper | 150412 | [150412-pursuit-of-the-bookkeeper.json](./150412-pursuit-of-the-bookkeeper.json) |
+| Pursuit of the Pink Panther | 282735 | [282735-pursuit-of-the-pink-panther.json](./282735-pursuit-of-the-pink-panther.json) |
 | Puru-Chara Friends: Hoppe-chan to Sanrio Characters | 115185 | [115185-puru-chara-friends-hoppe-chan-to-sanrio-characters.json](./115185-puru-chara-friends-hoppe-chan-to-sanrio-characters.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
@@ -16033,6 +16039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pxl-Ship | 133359 | [133359-pxl-ship.json](./133359-pxl-ship.json) |
 | pXt | 98883 | [98883-pxt.json](./98883-pxt.json) |
 | Pygmalion Lied | 178889 | [178889-pygmalion-lied.json](./178889-pygmalion-lied.json) |
+| Pygmy | 282734 | [282734-pygmy.json](./282734-pygmy.json) |
 | Pyhare | 338279 | [338279-pyhare.json](./338279-pyhare.json) |
 | Pyjama Party | 184346 | [184346-pyjama-party.json](./184346-pyjama-party.json) |
 | Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
