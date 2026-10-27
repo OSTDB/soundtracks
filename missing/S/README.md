@@ -11379,6 +11379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime and Machinegun | 412599 | [412599-slime-and-machinegun.json](./412599-slime-and-machinegun.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
 | Slime Ascension | 368983 | [368983-slime-ascension.json](./368983-slime-ascension.json) |
+| Slime Attack: Survivor | 329468 | [329468-slime-attack-survivor.json](./329468-slime-attack-survivor.json) |
 | Slime Battle | 380752 | [380752-slime-battle.json](./380752-slime-battle.json) |
 | Slime Brawly Brawl | 280295 | [280295-slime-brawly-brawl.json](./280295-slime-brawly-brawl.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
@@ -16459,6 +16460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Intervention | 125748 | [125748-space-intervention.json](./125748-space-intervention.json) |
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
 | Space Intruders | 38923 | [38923-space-intruders.json](./38923-space-intruders.json) |
+| Space Invader | 329469 | [329469-space-invader.json](./329469-space-invader.json) |
 | Space Invaders | 18133 | [18133-space-invaders.json](./18133-space-invaders.json) |
 | Space Invaders | 200391 | [200391-space-invaders.json](./200391-space-invaders.json) |
 | Space Invaders | 200392 | [200392-space-invaders.json](./200392-space-invaders.json) |
@@ -17678,6 +17680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedRooms | 268957 | [268957-speedrooms.json](./268957-speedrooms.json) |
 | Speedrun | 140924 | [140924-speedrun.json](./140924-speedrun.json) |
 | Speedrun | 148854 | [148854-speedrun.json](./148854-speedrun.json) |
+| Speedrun Academie | 329490 | [329490-speedrun-academie.json](./329490-speedrun-academie.json) |
 | Speedrun Maker | 340187 | [340187-speedrun-maker.json](./340187-speedrun-maker.json) |
 | Speedrun Ninja | 116204 | [116204-speedrun-ninja.json](./116204-speedrun-ninja.json) |
 | Speedrun Simulator | 350342 | [350342-speedrun-simulator.json](./350342-speedrun-simulator.json) |
@@ -22219,6 +22222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Sovereigns | 176178 | [176178-stellar-sovereigns.json](./176178-stellar-sovereigns.json) |
 | Stellar Sphere | 115356 | [115356-stellar-sphere.json](./115356-stellar-sphere.json) |
 | Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
+| Stellar Strider | 329505 | [329505-stellar-strider.json](./329505-stellar-strider.json) |
 | Stellar Stroll | 244323 | [244323-stellar-stroll.json](./244323-stellar-stroll.json) |
 | Stellar Survivor | 119476 | [119476-stellar-survivor.json](./119476-stellar-survivor.json) |
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
