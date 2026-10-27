@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
 | Rage Runner | 9010 | [9010-rage-runner.json](./9010-rage-runner.json) |
 | Rage Simulator | 265612 | [265612-rage-simulator.json](./265612-rage-simulator.json) |
+| Rage Swarm | 323697 | [323697-rage-swarm.json](./323697-rage-swarm.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
 | Rage Wars | 30564 | [30564-rage-wars.json](./30564-rage-wars.json) |
 | Rage: Anarchy Edition | 43033 | [43033-rage-anarchy-edition.json](./43033-rage-anarchy-edition.json) |
