@@ -5287,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
 | Maze Mayhem | 189889 | [189889-maze-mayhem.json](./189889-maze-mayhem.json) |
+| Maze Mice | 327735 | [327735-maze-mice.json](./327735-maze-mice.json) |
 | Maze Monsters | 266111 | [266111-maze-monsters.json](./266111-maze-monsters.json) |
 | Maze Nightmare: Edge of Darkness | 379710 | [379710-maze-nightmare-edge-of-darkness.json](./379710-maze-nightmare-edge-of-darkness.json) |
 | Maze Ninja | 115141 | [115141-maze-ninja.json](./115141-maze-ninja.json) |
