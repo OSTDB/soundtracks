@@ -7125,6 +7125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronosurge: Echoes of the Void | 371855 | [371855-chronosurge-echoes-of-the-void.json](./371855-chronosurge-echoes-of-the-void.json) |
 | ChronoTecture: The Eprologue | 167350 | [167350-chronotecture-the-eprologue.json](./167350-chronotecture-the-eprologue.json) |
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
+| ChronoVenture | 321285 | [321285-chronoventure.json](./321285-chronoventure.json) |
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 113559 | [113559-chrysalis.json](./113559-chrysalis.json) |
@@ -12370,6 +12371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
 | Corporeal | 365138 | [365138-corporeal.json](./365138-corporeal.json) |
 | Corpse Burger | 420595 | [420595-corpse-burger.json](./420595-corpse-burger.json) |
+| Corpse Carnival | 321302 | [321302-corpse-carnival.json](./321302-corpse-carnival.json) |
 | Corpse Castle | 138671 | [138671-corpse-castle.json](./138671-corpse-castle.json) |
 | Corpse Clue | 176983 | [176983-corpse-clue.json](./176983-corpse-clue.json) |
 | Corpse Collector | 341676 | [341676-corpse-collector.json](./341676-corpse-collector.json) |
