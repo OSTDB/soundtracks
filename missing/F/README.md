@@ -5994,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at RPG Boy's | 339599 | [339599-five-nights-at-rpg-boys.json](./339599-five-nights-at-rpg-boys.json) |
 | Five Nights at Sexy's | 207700 | [207700-five-nights-at-sexys.json](./207700-five-nights-at-sexys.json) |
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
+| Five Nights At Skibidi Toilets | 311529 | [311529-five-nights-at-skibidi-toilets.json](./311529-five-nights-at-skibidi-toilets.json) |
 | Five Nights At Smog's Poutinerie | 236315 | [236315-five-nights-at-smogs-poutinerie.json](./236315-five-nights-at-smogs-poutinerie.json) |
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
 | Five Nights at Sonic's 4: Halloween Edition | 413155 | [413155-five-nights-at-sonics-4-halloween-edition.json](./413155-five-nights-at-sonics-4-halloween-edition.json) |
@@ -6910,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor 13 | 377578 | [377578-floor-13.json](./377578-floor-13.json) |
 | Floor 13: Deep State | 163791 | [163791-floor-13-deep-state.json](./163791-floor-13-deep-state.json) |
 | Floor 9 | 316478 | [316478-floor-9.json](./316478-floor-9.json) |
+| Floor 9: Beginning | 311526 | [311526-floor-9-beginning.json](./311526-floor-9-beginning.json) |
 | Floor By Floor | 95259 | [95259-floor-by-floor.json](./95259-floor-by-floor.json) |
 | Floor Chess | 244747 | [244747-floor-chess.json](./244747-floor-chess.json) |
 | Floor Drop | 413655 | [413655-floor-drop.json](./413655-floor-drop.json) |
