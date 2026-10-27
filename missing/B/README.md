@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack Quest: Battles And Adventures | 295116 | [295116-backpack-quest-battles-and-adventures.json](./295116-backpack-quest-battles-and-adventures.json) |
 | Backpack Raiders | 383055 | [383055-backpack-raiders.json](./383055-backpack-raiders.json) |
 | Backpack Seeker's | 348727 | [348727-backpack-seekers.json](./348727-backpack-seekers.json) |
+| Backpack Survivors | 305207 | [305207-backpack-survivors.json](./305207-backpack-survivors.json) |
 | Backpack Twins | 117432 | [117432-backpack-twins.json](./117432-backpack-twins.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
