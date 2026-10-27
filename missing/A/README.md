@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affairs of the Court: Deluxe Edition | 52574 | [52574-affairs-of-the-court-deluxe-edition.json](./52574-affairs-of-the-court-deluxe-edition.json) |
 | Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
 | Affected: The Manor | 72421 | [72421-affected-the-manor.json](./72421-affected-the-manor.json) |
+| Affection: San Shimai to Juusha no Shoujo | 329476 | [329476-affection-san-shimai-to-juusha-no-shoujo.json](./329476-affection-san-shimai-to-juusha-no-shoujo.json) |
 | Affectionate Annie | 271669 | [271669-affectionate-annie.json](./271669-affectionate-annie.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity | 122063 | [122063-affinity.json](./122063-affinity.json) |
@@ -4110,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agora: Soul of the Oracle | 169895 | [169895-agora-soul-of-the-oracle.json](./169895-agora-soul-of-the-oracle.json) |
 | Agoraphobia | 179011 | [179011-agoraphobia.json](./179011-agoraphobia.json) |
+| Agoraphobia: Director's Cut | 329488 | [329488-agoraphobia-directors-cut.json](./329488-agoraphobia-directors-cut.json) |
 | Agoraphobia: Knock Knock | 159759 | [159759-agoraphobia-knock-knock.json](./159759-agoraphobia-knock-knock.json) |
 | Agos | 206602 | [206602-agos.json](./206602-agos.json) |
 | AGOS: A Game of Space | 138768 | [138768-agos-a-game-of-space.json](./138768-agos-a-game-of-space.json) |
@@ -7701,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Anathema | 114098 | [114098-ancient-anathema.json](./114098-ancient-anathema.json) |
 | Ancient and Arcane: Escape Room Bundle | 410840 | [410840-ancient-and-arcane-escape-room-bundle.json](./410840-ancient-and-arcane-escape-room-bundle.json) |
 | Ancient Anguish MUD | 138502 | [138502-ancient-anguish-mud.json](./138502-ancient-anguish-mud.json) |
+| Ancient Ants Adventure | 329512 | [329512-ancient-ants-adventure.json](./329512-ancient-ants-adventure.json) |
 | Ancient Archer | 353614 | [353614-ancient-archer.json](./353614-ancient-archer.json) |
 | Ancient Arenas: Chariots | 200986 | [200986-ancient-arenas-chariots.json](./200986-ancient-arenas-chariots.json) |
 | Ancient Arrow | 239666 | [239666-ancient-arrow.json](./239666-ancient-arrow.json) |
