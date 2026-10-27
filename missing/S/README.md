@@ -20179,6 +20179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Staplers! 4 | 67924 | [67924-staplers-4.json](./67924-staplers-4.json) |
 | Star | 277712 | [277712-star.json](./277712-star.json) |
+| Star Academy: Audition! | 299813 | [299813-star-academy-audition.json](./299813-star-academy-audition.json) |
 | Star Academy: Breakthrough! | 360898 | [360898-star-academy-breakthrough.json](./360898-star-academy-breakthrough.json) |
 | Star Academy: Showtime! | 327859 | [327859-star-academy-showtime.json](./327859-star-academy-showtime.json) |
 | Star Aegis | 155996 | [155996-star-aegis.json](./155996-star-aegis.json) |
