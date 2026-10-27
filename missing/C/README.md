@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
 | Campus Fantasy | 329338 | [329338-campus-fantasy.json](./329338-campus-fantasy.json) |
 | Campus Romance 101 | 232851 | [232851-campus-romance-101.json](./232851-campus-romance-101.json) |
+| Campus Shock Night | 282172 | [282172-campus-shock-night.json](./282172-campus-shock-night.json) |
 | Campwood | 395096 | [395096-campwood.json](./395096-campwood.json) |
 | Camundongo Miguel na Ilha dos Novo Pogos | 298411 | [298411-camundongo-miguel-na-ilha-dos-novo-pogos.json](./298411-camundongo-miguel-na-ilha-dos-novo-pogos.json) |
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
@@ -2503,7 +2504,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
 | Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
 | Cars Arena | 111374 | [111374-cars-arena.json](./111374-cars-arena.json) |
+| Cars Mater-National Championship | 281853 | [281853-cars-mater-national-championship.json](./281853-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
+| Cars Mater-National Championship | 281855 | [281855-cars-mater-national-championship.json](./281855-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
 | Cars Supercharged | 76453 | [76453-cars-supercharged.json](./76453-cars-supercharged.json) |
 | Cars Toon | 36249 | [36249-cars-toon.json](./36249-cars-toon.json) |
@@ -2554,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartels & Cutthroats | 22497 | [22497-cartels-and-cutthroats.json](./22497-cartels-and-cutthroats.json) |
 | Carter Story | 202637 | [202637-carter-story.json](./202637-carter-story.json) |
 | Carth | 164061 | [164061-carth.json](./164061-carth.json) |
+| Carthanc | 281867 | [281867-carthanc.json](./281867-carthanc.json) |
 | Cartier 06 | 335139 | [335139-cartier-06.json](./335139-cartier-06.json) |
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
 | Cartographer | 199611 | [199611-cartographer.json](./199611-cartographer.json) |
@@ -7878,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of God I: Prison Empire - Outrage | 170431 | [170431-city-of-god-i-prison-empire-outrage.json](./170431-city-of-god-i-prison-empire-outrage.json) |
 | City of Graves | 284975 | [284975-city-of-graves.json](./284975-city-of-graves.json) |
 | City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
+| City of Heroes: Homecoming | 281858 | [281858-city-of-heroes-homecoming.json](./281858-city-of-heroes-homecoming.json) |
 | City of Jade: Imperial Frontier | 102372 | [102372-city-of-jade-imperial-frontier.json](./102372-city-of-jade-imperial-frontier.json) |
 | City of Lambs | 28095 | [28095-city-of-lambs.json](./28095-city-of-lambs.json) |
 | City of Lost Hope | 299690 | [299690-city-of-lost-hope.json](./299690-city-of-lost-hope.json) |
@@ -12920,6 +12925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmopolitan | 269749 | [269749-cosmopolitan.json](./269749-cosmopolitan.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 127861 | [127861-cosmos.json](./127861-cosmos.json) |
+| Cosmos | 281862 | [281862-cosmos.json](./281862-cosmos.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Bit | 182231 | [182231-cosmos-bit.json](./182231-cosmos-bit.json) |
 | Cosmos Cat | 265486 | [265486-cosmos-cat.json](./265486-cosmos-cat.json) |
