@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Forgotten Fairyland | 372655 | [372655-walkabout-mini-golf-forgotten-fairyland.json](./372655-walkabout-mini-golf-forgotten-fairyland.json) |
 | Walkabout Mini Golf: Gardens of Babylon | 196105 | [196105-walkabout-mini-golf-gardens-of-babylon.json](./196105-walkabout-mini-golf-gardens-of-babylon.json) |
 | Walkabout Mini Golf: Homestar Runner Distraction Pack | 402688 | [402688-walkabout-mini-golf-homestar-runner-distraction-pack.json](./402688-walkabout-mini-golf-homestar-runner-distraction-pack.json) |
+| Walkabout Mini Golf: Ice Lair | 289836 | [289836-walkabout-mini-golf-ice-lair.json](./289836-walkabout-mini-golf-ice-lair.json) |
 | Walkabout Mini Golf: Jim Henson's Labyrinth | 198158 | [198158-walkabout-mini-golf-jim-hensons-labyrinth.json](./198158-walkabout-mini-golf-jim-hensons-labyrinth.json) |
 | Walkabout Mini Golf: Journey to the Center of the Earth | 251576 | [251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json](./251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json) |
 | Walkabout Mini Golf: Laser Lair | 251577 | [251577-walkabout-mini-golf-laser-lair.json](./251577-walkabout-mini-golf-laser-lair.json) |
@@ -1867,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspear Online | 68475 | [68475-warspear-online.json](./68475-warspear-online.json) |
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
 | WarSphere | 253459 | [253459-warsphere.json](./253459-warsphere.json) |
+| WarSphere: The Worthy Branch | 289901 | [289901-warsphere-the-worthy-branch.json](./289901-warsphere-the-worthy-branch.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
 | Warstride Challenges | 148964 | [148964-warstride-challenges.json](./148964-warstride-challenges.json) |
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
@@ -2314,6 +2316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Kawasaki UTV Pack | 376283 | [376283-way-of-the-hunter-kawasaki-utv-pack.json](./376283-way-of-the-hunter-kawasaki-utv-pack.json) |
 | Way of the Hunter: Lintukoto Reserve | 312278 | [312278-way-of-the-hunter-lintukoto-reserve.json](./312278-way-of-the-hunter-lintukoto-reserve.json) |
 | Way of the Hunter: Map Pack 1 | 378557 | [378557-way-of-the-hunter-map-pack-1.json](./378557-way-of-the-hunter-map-pack-1.json) |
+| Way of the Hunter: Map Pack 2 | 289903 | [289903-way-of-the-hunter-map-pack-2.json](./289903-way-of-the-hunter-map-pack-2.json) |
+| Way of the Hunter: Matariki Park | 289904 | [289904-way-of-the-hunter-matariki-park.json](./289904-way-of-the-hunter-matariki-park.json) |
 | Way of the Hunter: Night Hunting Pack | 349237 | [349237-way-of-the-hunter-night-hunting-pack.json](./349237-way-of-the-hunter-night-hunting-pack.json) |
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
 | Way of the Hunter: Steyr Arms Pack | 272878 | [272878-way-of-the-hunter-steyr-arms-pack.json](./272878-way-of-the-hunter-steyr-arms-pack.json) |
@@ -2574,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Devourer | 282248 | [282248-weapon-devourer.json](./282248-weapon-devourer.json) |
 | Weapon Hacker | 133377 | [133377-weapon-hacker.json](./133377-weapon-hacker.json) |
 | Weapon Meister | 282220 | [282220-weapon-meister.json](./282220-weapon-meister.json) |
+| Weapon Mix | 289902 | [289902-weapon-mix.json](./289902-weapon-mix.json) |
 | Weapon Party | 277977 | [277977-weapon-party.json](./277977-weapon-party.json) |
 | Weapon Rearing | 338389 | [338389-weapon-rearing.json](./338389-weapon-rearing.json) |
 | Weapon Shop Decillionaire | 275817 | [275817-weapon-shop-decillionaire.json](./275817-weapon-shop-decillionaire.json) |
@@ -2867,6 +2872,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Paradise | 119827 | [119827-welcome-to-paradise.json](./119827-welcome-to-paradise.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
 | Welcome to Paradize: Archeology Quest | 295652 | [295652-welcome-to-paradize-archeology-quest.json](./295652-welcome-to-paradize-archeology-quest.json) |
+| Welcome to ParadiZe: Dark Fantasy Cosmetic Pack | 289906 | [289906-welcome-to-paradize-dark-fantasy-cosmetic-pack.json](./289906-welcome-to-paradize-dark-fantasy-cosmetic-pack.json) |
+| Welcome to ParadiZe: Holidays Cosmetic Pack | 289907 | [289907-welcome-to-paradize-holidays-cosmetic-pack.json](./289907-welcome-to-paradize-holidays-cosmetic-pack.json) |
+| Welcome to ParadiZe: Military Cosmetic Pack | 289908 | [289908-welcome-to-paradize-military-cosmetic-pack.json](./289908-welcome-to-paradize-military-cosmetic-pack.json) |
+| Welcome to ParadiZe: Phantasm Cosmetic Pack | 289909 | [289909-welcome-to-paradize-phantasm-cosmetic-pack.json](./289909-welcome-to-paradize-phantasm-cosmetic-pack.json) |
+| Welcome to ParadiZe: Uniforms Cosmetic Pack | 289910 | [289910-welcome-to-paradize-uniforms-cosmetic-pack.json](./289910-welcome-to-paradize-uniforms-cosmetic-pack.json) |
 | Welcome to Paradize: Zombot Edition | 288857 | [288857-welcome-to-paradize-zombot-edition.json](./288857-welcome-to-paradize-zombot-edition.json) |
 | Welcome to Pinehills | 165673 | [165673-welcome-to-pinehills.json](./165673-welcome-to-pinehills.json) |
 | Welcome to Planet E1d0r4d0! | 279858 | [279858-welcome-to-planet-e1d0r4d0.json](./279858-welcome-to-planet-e1d0r4d0.json) |
@@ -5105,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie Witch's Superbroom | 60047 | [60047-winnie-witchs-superbroom.json](./60047-winnie-witchs-superbroom.json) |
 | Winnie-the-Bear: Honey Run | 326697 | [326697-winnie-the-bear-honey-run.json](./326697-winnie-the-bear-honey-run.json) |
 | Winnie-the-Pooh Hops for Honey | 349335 | [349335-winnie-the-pooh-hops-for-honey.json](./349335-winnie-the-pooh-hops-for-honey.json) |
+| Winnie-The-Pooh Taste Test | 289832 | [289832-winnie-the-pooh-taste-test.json](./289832-winnie-the-pooh-taste-test.json) |
 | Winnie-the-Pooh: Black Honey | 366261 | [366261-winnie-the-pooh-black-honey.json](./366261-winnie-the-pooh-black-honey.json) |
 | Winnie-the-Pooh: Realm of Torment | 253809 | [253809-winnie-the-pooh-realm-of-torment.json](./253809-winnie-the-pooh-realm-of-torment.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
