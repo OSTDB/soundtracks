@@ -26933,6 +26933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 6: Going Viral | 268934 | [268934-tropico-6-going-viral.json](./268934-tropico-6-going-viral.json) |
 | Tropico 6: Lobbyistico | 155171 | [155171-tropico-6-lobbyistico.json](./155171-tropico-6-lobbyistico.json) |
 | Tropico 6: Next Gen Edition | 191496 | [191496-tropico-6-next-gen-edition.json](./191496-tropico-6-next-gen-edition.json) |
+| Tropico 6: Nintendo Switch Starter Bundle | 283202 | [283202-tropico-6-nintendo-switch-starter-bundle.json](./283202-tropico-6-nintendo-switch-starter-bundle.json) |
 | Tropico 6: Return to Nature | 334642 | [334642-tropico-6-return-to-nature.json](./334642-tropico-6-return-to-nature.json) |
 | Tropico 6: Spitter | 155172 | [155172-tropico-6-spitter.json](./155172-tropico-6-spitter.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
