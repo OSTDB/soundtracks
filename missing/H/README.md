@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbingers of Destiny | 392412 | [392412-harbingers-of-destiny.json](./392412-harbingers-of-destiny.json) |
 | Harbingers: Infinity War | 188297 | [188297-harbingers-infinity-war.json](./188297-harbingers-infinity-war.json) |
 | Harbingers: Last Survival | 188361 | [188361-harbingers-last-survival.json](./188361-harbingers-last-survival.json) |
+| Harbor | 332955 | [332955-harbor.json](./332955-harbor.json) |
 | Harbor Captain | 294042 | [294042-harbor-captain.json](./294042-harbor-captain.json) |
 | Harbor Escape | 40671 | [40671-harbor-escape.json](./40671-harbor-escape.json) |
 | Harbor Havoc 3D | 181165 | [181165-harbor-havoc-3d.json](./181165-harbor-havoc-3d.json) |
@@ -8152,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HooperVania | 265859 | [265859-hoopervania.json](./265859-hoopervania.json) |
 | Hoopin' It Up | 137859 | [137859-hoopin-it-up.json](./137859-hoopin-it-up.json) |
 | Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
+| Hoops Ahead: Basketball Manager | 332917 | [332917-hoops-ahead-basketball-manager.json](./332917-hoops-ahead-basketball-manager.json) |
 | Hoops Madness | 140354 | [140354-hoops-madness.json](./140354-hoops-madness.json) |
 | Hoops Manager 2 | 175249 | [175249-hoops-manager-2.json](./175249-hoops-manager-2.json) |
 | Hoops Mania | 417382 | [417382-hoops-mania.json](./417382-hoops-mania.json) |
@@ -8715,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
 | Hostile Entity | 408491 | [408491-hostile-entity.json](./408491-hostile-entity.json) |
 | Hostile Intent | 259423 | [259423-hostile-intent.json](./259423-hostile-intent.json) |
+| Hostile Lands | 332920 | [332920-hostile-lands.json](./332920-hostile-lands.json) |
 | Hostile Makeover | 10416 | [10416-hostile-makeover.json](./10416-hostile-makeover.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
@@ -10536,6 +10539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperbolic Arcade Trading | 138503 | [138503-hyperbolic-arcade-trading.json](./138503-hyperbolic-arcade-trading.json) |
 | Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
 | Hyperborea | 117703 | [117703-hyperborea.json](./117703-hyperborea.json) |
+| Hyperborea | 332932 | [332932-hyperborea.json](./332932-hyperborea.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
 | HyperBowl | 105444 | [105444-hyperbowl.json](./105444-hyperbowl.json) |
