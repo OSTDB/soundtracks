@@ -3985,6 +3985,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epos Survivors | 372688 | [372688-epos-survivors.json](./372688-epos-survivors.json) |
 | EPS Series Vol. 1: Because I Love You - Yukiko Morikawa | 286507 | [286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json](./286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json) |
 | EPS Series Vol. 2: Moonlight to Daybreak - Yukie Nakama | 286510 | [286510-eps-series-vol-2-moonlight-to-daybreak-yukie-nakama.json](./286510-eps-series-vol-2-moonlight-to-daybreak-yukie-nakama.json) |
+| EPS Series Vol. 3: Come and Kiss Me - Tomomi Tsunoda | 286554 | [286554-eps-series-vol-3-come-and-kiss-me-tomomi-tsunoda.json](./286554-eps-series-vol-3-come-and-kiss-me-tomomi-tsunoda.json) |
+| EPS Series Vol. 4: Noise Reduction - Tomoa Yamamoto | 286555 | [286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json](./286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json) |
+| EPS Series Vol. 5: Believer Dreamer - Junko Mizutani | 286562 | [286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json](./286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json) |
 | Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
 | Epsilon corp. | 33082 | [33082-epsilon-corp.json](./33082-epsilon-corp.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
@@ -7176,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
 | Ezekiel: Noa and the Automaton Urbis | 398495 | [398495-ezekiel-noa-and-the-automaton-urbis.json](./398495-ezekiel-noa-and-the-automaton-urbis.json) |
 | Ezerath 3D | 298683 | [298683-ezerath-3d.json](./298683-ezerath-3d.json) |
+| Ezerath Mini | 286558 | [286558-ezerath-mini.json](./286558-ezerath-mini.json) |
 | Ezerath Plus | 271100 | [271100-ezerath-plus.json](./271100-ezerath-plus.json) |
 | Ezmeralda | 384265 | [384265-ezmeralda.json](./384265-ezmeralda.json) |
 | Ezmuze 3 | 130073 | [130073-ezmuze-3.json](./130073-ezmuze-3.json) |
