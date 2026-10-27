@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-26T06:36:36.749Z",
-  "total_soundtracks": 2593,
+  "generated_at": "2026-10-27T18:57:41.888Z",
+  "total_soundtracks": 2613,
   "games": [
     {
       "igdb_id": 7522,
@@ -2511,6 +2511,20 @@
       ]
     },
     {
+      "igdb_id": 139177,
+      "game_name": "Batbarian: Testament of the Primordials",
+      "game_url": "https://ostdb.net/games/batbarian-testament-of-the-primordials",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c6f594ef4f62e2c0076ee4ce",
+      "albums": [
+        {
+          "album_name": "Batbarian: Testament of the Primordials (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7Lkv6AqoEjsOdwUzgMTSdW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3796,
       "game_name": "Baten Kaitos Origins",
       "game_url": "https://ostdb.net/games/baten-kaitos-origins",
@@ -3402,6 +3416,20 @@
           "album_name": "Blasphemous (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1oGyVpRrssPhtz23UDTYYS",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75158,
+      "game_name": "Blazing Beaks",
+      "game_url": "https://ostdb.net/games/blazing-beaks",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27333627d762068607afe3528e5",
+      "albums": [
+        {
+          "album_name": "Blazing Beaks (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1VctBuRN1Q1HgVm8cJkOSf",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -5797,6 +5825,20 @@
       ]
     },
     {
+      "igdb_id": 13365,
+      "game_name": "Cryptark",
+      "game_url": "https://ostdb.net/games/cryptark",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27372681229a71faf69197b74ac",
+      "albums": [
+        {
+          "album_name": "Cryptark Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3tv36VVTuoENWVIbhNmOSZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 213029,
       "game_name": "Cryptmaster",
       "game_url": "https://ostdb.net/games/cryptmaster",
@@ -6426,6 +6468,20 @@
           "album_name": "Dead Cells (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5MuOiTfGZfVbZ1rPcDX5A0",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 142877,
+      "game_name": "Dead Cells: Fatal Falls",
+      "game_url": "https://ostdb.net/games/dead-cells-fatal-falls",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e35aebc45977d07aea9131c5",
+      "albums": [
+        {
+          "album_name": "Dead Cells Fatal Falls (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/32IemXh1bY1bV5gC5yHdXu",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -8565,6 +8621,20 @@
       ]
     },
     {
+      "igdb_id": 74330,
+      "game_name": "Elderborn",
+      "game_url": "https://ostdb.net/games/elderborn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d29956468611c42f468099e6",
+      "albums": [
+        {
+          "album_name": "ELDERBORN (Extended OST) [Original Game Soundtrack]",
+          "spotify_url": "https://open.spotify.com/album/7kldbthpMxDEGltFkG5sYu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 116403,
       "game_name": "Eldest Souls",
       "game_url": "https://ostdb.net/games/eldest-souls",
@@ -8573,6 +8643,20 @@
         {
           "album_name": "Eldest Souls (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/22BGzcyLNuyFoxUMN1eMPk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8715,
+      "game_name": "Element4l",
+      "game_url": "https://ostdb.net/games/element4l",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c07fd7dc1dc635013d87739",
+      "albums": [
+        {
+          "album_name": "Element4l (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0eETcPo4yzAGAMUs6pDEv2",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -11215,6 +11299,20 @@
       ]
     },
     {
+      "igdb_id": 23667,
+      "game_name": "Go Vacation",
+      "game_url": "https://ostdb.net/games/go-vacation",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27391b8707c340a37d2afca17a3",
+      "albums": [
+        {
+          "album_name": "GO VACATION ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/7ArbYpw1qT8YamS2mlzZS9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 88973,
       "game_name": "Goblin Sword",
       "game_url": "https://ostdb.net/games/goblin-sword",
@@ -13824,6 +13922,20 @@
           "album_name": "Into the Breach Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5HaoWXvyhc7jFlPb0vCVfM",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115062,
+      "game_name": "Into the Radius",
+      "game_url": "https://ostdb.net/games/into-the-radius",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27361be499c2e9dbe6d5e124884",
+      "albums": [
+        {
+          "album_name": "Into the Radius (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1YfSrNQ7lZxNFkvFgKQYzN",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -16473,6 +16585,20 @@
       ]
     },
     {
+      "igdb_id": 143858,
+      "game_name": "Mayhem Brawler",
+      "game_url": "https://ostdb.net/games/mayhem-brawler",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734b53319c45eb9796f31ba7d0",
+      "albums": [
+        {
+          "album_name": "Mayhem Brawler (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7qTWJyuvvBJSA04exLJHjq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 219,
       "game_name": "MDK",
       "game_url": "https://ostdb.net/games/mdk",
@@ -17440,6 +17566,20 @@
           "album_name": "Young Legends Learn and Rise",
           "spotify_url": "https://open.spotify.com/album/3tgX8zRIUS2jSogO0g2TU3",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22882,
+      "game_name": "ModNation Racers: Road Trip",
+      "game_url": "https://ostdb.net/games/modnation-racers-road-trip",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc1a28cd1f2e4687d4aa0922",
+      "albums": [
+        {
+          "album_name": "ModNation Racers: Road Trip (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5rI73mor94VSyTC19wVm5x",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -18775,6 +18915,20 @@
       ]
     },
     {
+      "igdb_id": 142251,
+      "game_name": "No Place Like Home",
+      "game_url": "https://ostdb.net/games/no-place-like-home",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732460171e3bf45c1764efb88a",
+      "albums": [
+        {
+          "album_name": "No Place Like Home (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3BnrV0RMUmiCznuBPuqRrm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 279627,
       "game_name": "No Rest for the Wicked",
       "game_url": "https://ostdb.net/games/no-rest-for-the-wicked",
@@ -20015,6 +20169,20 @@
       ]
     },
     {
+      "igdb_id": 105680,
+      "game_name": "Phogs!",
+      "game_url": "https://ostdb.net/games/phogs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dbfa8d2ca75beec85ca45f66",
+      "albums": [
+        {
+          "album_name": "PHOGS! Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4gdwbIh7hLp2aR499l511m",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 122766,
       "game_name": "Pilgrims",
       "game_url": "https://ostdb.net/games/pilgrims",
@@ -20079,6 +20247,20 @@
         {
           "album_name": "Pixel Piracy Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4TmkhWJalPzZXqY04Hzpty",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 95386,
+      "game_name": "PixelJunk Monsters 2",
+      "game_url": "https://ostdb.net/games/pixeljunk-monsters-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27357d5482f828aed77cf26293b",
+      "albums": [
+        {
+          "album_name": "PixelJunk Monsters 2 Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5mJghdk2ZQcyXYQ1Ry1U2O",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -21111,6 +21293,20 @@
       ]
     },
     {
+      "igdb_id": 122265,
+      "game_name": "Rebel Cops",
+      "game_url": "https://ostdb.net/games/rebel-cops",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27395ecdd0bf6234dd210dc2756",
+      "albums": [
+        {
+          "album_name": "Rebel Cops (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0jtel4CM01LsOVSfAC6Pbs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 434,
       "game_name": "Red Dead Redemption",
       "game_url": "https://ostdb.net/games/red-dead-redemption",
@@ -22077,6 +22273,20 @@
       ]
     },
     {
+      "igdb_id": 57420,
+      "game_name": "Riverbond",
+      "game_url": "https://ostdb.net/games/riverbond",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a41d493224d839d8d6ca2525",
+      "albums": [
+        {
+          "album_name": "Riverbond (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2BjvQExxrUsxgdG8CZTJ1P",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 233676,
       "game_name": "Road 96: Mile 0",
       "game_url": "https://ostdb.net/games/road-96-mile-0",
@@ -22225,6 +22435,20 @@
         {
           "album_name": "ROLLING THUNDER Original Soundtrack (Game Sound Effect)",
           "spotify_url": "https://open.spotify.com/album/5cdjYeQc17kwyAInIUCsRP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11312,
+      "game_name": "Romancing SaGa 2",
+      "game_url": "https://ostdb.net/games/romancing-saga-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27323817740de2650dfd7cf9c99",
+      "albums": [
+        {
+          "album_name": "Romancing SaGa 2 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7bVkVOCdMpJvnjBHAWERYi",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23971,6 +24195,20 @@
       ]
     },
     {
+      "igdb_id": 122712,
+      "game_name": "Soda Dungeon 2",
+      "game_url": "https://ostdb.net/games/soda-dungeon-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c67a1440fc2b1936cbf2d008",
+      "albums": [
+        {
+          "album_name": "Soda Dungeon 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0oKYjGa7MdIr1Bpbe6ICXT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 116156,
       "game_name": "Solar Ash",
       "game_url": "https://ostdb.net/games/solar-ash",
@@ -24671,6 +24909,20 @@
         {
           "album_name": "Spore Hero (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/45w0X5yaXdrQJftz3vt9T0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 143627,
+      "game_name": "Sprawl",
+      "game_url": "https://ostdb.net/games/sprawl",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273858ad8d8072bb2c1b6baf8e7",
+      "albums": [
+        {
+          "album_name": "SPRAWL (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1LJ5pr8AC8s4cBJotkWhoq",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26688,6 +26940,20 @@
           "album_name": "The Beginner's Guide",
           "spotify_url": "https://open.spotify.com/album/17PZkpr7sonufLV22ZYxio",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121767,
+      "game_name": "The Big Con",
+      "game_url": "https://ostdb.net/games/the-big-con",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27388c7120908f2722d390f61cd",
+      "albums": [
+        {
+          "album_name": "The Big Con Original Soundtrack!",
+          "spotify_url": "https://open.spotify.com/album/5YxyE5jsSIrKRq9yWPWQPA",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -31931,6 +32197,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/composers-choice-original-game-soundtrack/1574533806?uo=4",
           "album_link_url": "https://album.link/i/1574533806"
+        }
+      ]
+    },
+    {
+      "igdb_id": 110581,
+      "game_name": "World's End Club",
+      "game_url": "https://ostdb.net/games/worlds-end-club",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273df3fbb6bb60dc807bc9e4ea1",
+      "albums": [
+        {
+          "album_name": "World's End Club Official Soundtrack 1",
+          "spotify_url": "https://open.spotify.com/album/7bamjNG7p1Dop060UwpkEo",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
