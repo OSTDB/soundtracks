@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Puzzle | 105358 | [105358-ecchi-puzzle.json](./105358-ecchi-puzzle.json) |
 | Ecchi Puzzles | 382493 | [382493-ecchi-puzzles.json](./382493-ecchi-puzzles.json) |
 | Ecchi Secrets | 308639 | [308639-ecchi-secrets.json](./308639-ecchi-secrets.json) |
+| Ecchi Secrets: Complete Edition | 312059 | [312059-ecchi-secrets-complete-edition.json](./312059-ecchi-secrets-complete-edition.json) |
 | Ecchi Secrets: Futuristic Edition | 324379 | [324379-ecchi-secrets-futuristic-edition.json](./324379-ecchi-secrets-futuristic-edition.json) |
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
 | Ecchi Secrets: Wet & Wild Edition | 404276 | [404276-ecchi-secrets-wet-and-wild-edition.json](./404276-ecchi-secrets-wet-and-wild-edition.json) |
