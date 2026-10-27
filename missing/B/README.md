@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Blues | 76467 | [76467-baby-blues.json](./76467-baby-blues.json) |
 | Baby Blues Nightmares: Toddler Horror Game | 291377 | [291377-baby-blues-nightmares-toddler-horror-game.json](./291377-baby-blues-nightmares-toddler-horror-game.json) |
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
+| Baby Boomer 2: 35 Years Too Soon | 308308 | [308308-baby-boomer-2-35-years-too-soon.json](./308308-baby-boomer-2-35-years-too-soon.json) |
 | Baby Bug | 14279 | [14279-baby-bug.json](./14279-baby-bug.json) |
 | Baby Bump 2 | 313726 | [313726-baby-bump-2.json](./313726-baby-bump-2.json) |
 | Baby Bump: Book 1 | 313725 | [313725-baby-bump-book-1.json](./313725-baby-bump-book-1.json) |
@@ -4230,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
 | Bear Shooter | 330487 | [330487-bear-shooter.json](./330487-bear-shooter.json) |
 | Bear Soul | 152686 | [152686-bear-soul.json](./152686-bear-soul.json) |
+| Bear Stearns Bravo | 308154 | [308154-bear-stearns-bravo.json](./308154-bear-stearns-bravo.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
 | Bear the Terrain | 211095 | [211095-bear-the-terrain.json](./211095-bear-the-terrain.json) |
@@ -8775,6 +8777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blister Blight | 290615 | [290615-blister-blight.json](./290615-blister-blight.json) |
 | Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
+| Blitz | 308289 | [308289-blitz.json](./308289-blitz.json) |
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
 | Blitz Brigade | 63292 | [63292-blitz-brigade.json](./63292-blitz-brigade.json) |
@@ -9855,6 +9858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow Up Pieces: Unleashed | 116791 | [116791-blow-up-pieces-unleashed.json](./116791-blow-up-pieces-unleashed.json) |
 | Blow Up! | 47556 | [47556-blow-up.json](./47556-blow-up.json) |
 | Blow-Up: Avenge Humanity | 345096 | [345096-blow-up-avenge-humanity.json](./345096-blow-up-avenge-humanity.json) |
+| Blow'em Out | 308202 | [308202-blowem-out.json](./308202-blowem-out.json) |
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
 | Blower | 180664 | [180664-blower.json](./180664-blower.json) |
 | Blowfly: DungHole Wanderer | 202745 | [202745-blowfly-dunghole-wanderer.json](./202745-blowfly-dunghole-wanderer.json) |
@@ -12090,6 +12094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Runners: Deluxe! | 398676 | [398676-box-runners-deluxe.json](./398676-box-runners-deluxe.json) |
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
 | Box Rush 2: Ice Worlds | 200569 | [200569-box-rush-2-ice-worlds.json](./200569-box-rush-2-ice-worlds.json) |
+| Box Smash | 308298 | [308298-box-smash.json](./308298-box-smash.json) |
 | Box Stocks | 348756 | [348756-box-stocks.json](./348756-box-stocks.json) |
 | Box Survivors World | 172984 | [172984-box-survivors-world.json](./172984-box-survivors-world.json) |
 | Box the Beat VR | 160213 | [160213-box-the-beat-vr.json](./160213-box-the-beat-vr.json) |
