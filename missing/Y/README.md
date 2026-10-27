@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
 | Yie Ar Kung-Fu | 239171 | [239171-yie-ar-kung-fu.json](./239171-yie-ar-kung-fu.json) |
 | Yield! Fall of Rome | 305425 | [305425-yield-fall-of-rome.json](./305425-yield-fall-of-rome.json) |
+| YieldTrillions | 328193 | [328193-yieldtrillions.json](./328193-yieldtrillions.json) |
 | Yihongyuan | 236947 | [236947-yihongyuan.json](./236947-yihongyuan.json) |
 | YIIK: A Postmodern RPG | 30206 | [30206-yiik-a-postmodern-rpg.json](./30206-yiik-a-postmodern-rpg.json) |
 | YIIK: I.V | 228310 | [228310-yiik-i-v.json](./228310-yiik-i-v.json) |
