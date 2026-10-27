@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garyouden Sangoku Seiha no Kei | 392738 | [392738-garyouden-sangoku-seiha-no-kei.json](./392738-garyouden-sangoku-seiha-no-kei.json) |
 | Garyuu-ou | 41726 | [41726-garyuu-ou.json](./41726-garyuu-ou.json) |
 | Garzey's Wing | 363152 | [363152-garzeys-wing.json](./363152-garzeys-wing.json) |
+| Gas Gas Heli! | 312043 | [312043-gas-gas-heli.json](./312043-gas-gas-heli.json) |
 | Gas Gas Rocket! | 289554 | [289554-gas-gas-rocket.json](./289554-gas-gas-rocket.json) |
 | Gas Girl | 266642 | [266642-gas-girl.json](./266642-gas-girl.json) |
 | Gas Guzzlers Extreme | 8472 | [8472-gas-guzzlers-extreme.json](./8472-gas-guzzlers-extreme.json) |
