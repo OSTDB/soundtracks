@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Joe | 307586 | [307586-hammer-joe.json](./307586-hammer-joe.json) |
 | Hammer Keep | 180796 | [180796-hammer-keep.json](./180796-hammer-keep.json) |
 | Hammer Kid | 187490 | [187490-hammer-kid.json](./187490-hammer-kid.json) |
+| Hammer Knight | 292495 | [292495-hammer-knight.json](./292495-hammer-knight.json) |
 | Hammer of Fury | 38971 | [38971-hammer-of-fury.json](./38971-hammer-of-fury.json) |
 | Hammer of the Gods | 19703 | [19703-hammer-of-the-gods.json](./19703-hammer-of-the-gods.json) |
 | Hammer Penguins | 340563 | [340563-hammer-penguins.json](./340563-hammer-penguins.json) |
@@ -1542,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Boiled | 228883 | [228883-hard-boiled.json](./228883-hard-boiled.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
 | Hard Bullet | 139702 | [139702-hard-bullet.json](./139702-hard-bullet.json) |
+| Hard Chip | 292482 | [292482-hard-chip.json](./292482-hard-chip.json) |
 | Hard Core | 85909 | [85909-hard-core.json](./85909-hard-core.json) |
 | Hard Core Puzzle | 335449 | [335449-hard-core-puzzle.json](./335449-hard-core-puzzle.json) |
 | Hard Corps | 76979 | [76979-hard-corps.json](./76979-hard-corps.json) |
