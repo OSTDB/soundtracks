@@ -3970,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Seas | 53585 | [53585-secrets-of-the-seas.json](./53585-secrets-of-the-seas.json) |
 | Secrets of the Shiratori Twins | 247413 | [247413-secrets-of-the-shiratori-twins.json](./247413-secrets-of-the-shiratori-twins.json) |
 | Secrets of the Shore | 293839 | [293839-secrets-of-the-shore.json](./293839-secrets-of-the-shore.json) |
+| Secrets of the Silent School | 291502 | [291502-secrets-of-the-silent-school.json](./291502-secrets-of-the-silent-school.json) |
 | Secrets of the Temple | 193416 | [193416-secrets-of-the-temple.json](./193416-secrets-of-the-temple.json) |
 | Secrets of the Titanic 1912-2012 | 54345 | [54345-secrets-of-the-titanic-1912-2012.json](./54345-secrets-of-the-titanic-1912-2012.json) |
 | Secrets of the Tundra | 292219 | [292219-secrets-of-the-tundra.json](./292219-secrets-of-the-tundra.json) |
@@ -3985,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets to Success: With Dr. Brain | 375928 | [375928-secrets-to-success-with-dr-brain.json](./375928-secrets-to-success-with-dr-brain.json) |
 | Secrets Under Eco | 287184 | [287184-secrets-under-eco.json](./287184-secrets-under-eco.json) |
 | Secrets Untold | 182750 | [182750-secrets-untold.json](./182750-secrets-untold.json) |
+| Sect And Monsters | 291492 | [291492-sect-and-monsters.json](./291492-sect-and-monsters.json) |
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
 | Sect Leader's Decree | 393981 | [393981-sect-leaders-decree.json](./393981-sect-leaders-decree.json) |
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
@@ -10028,6 +10030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
 | SixteenPetals | 393556 | [393556-sixteenpetals.json](./393556-sixteenpetals.json) |
 | Sixth Extinction | 144616 | [144616-sixth-extinction.json](./144616-sixth-extinction.json) |
+| Sixth Force | 291500 | [291500-sixth-force.json](./291500-sixth-force.json) |
 | Sixth Grade Detective | 33911 | [33911-sixth-grade-detective.json](./33911-sixth-grade-detective.json) |
 | Sixth Night | 129710 | [129710-sixth-night.json](./129710-sixth-night.json) |
 | Sixth Sense Investigations | 22026 | [22026-sixth-sense-investigations.json](./22026-sixth-sense-investigations.json) |
@@ -24388,6 +24391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Strongblade: Match 3 Puzzle and Match-3 Adventure | 253848 | [253848-strongblade-match-3-puzzle-and-match-3-adventure.json](./253848-strongblade-match-3-puzzle-and-match-3-adventure.json) |
 | Strongest Angel Zerachiel! | 292377 | [292377-strongest-angel-zerachiel.json](./292377-strongest-angel-zerachiel.json) |
+| Strongest Imp | 291428 | [291428-strongest-imp.json](./291428-strongest-imp.json) |
 | Strongford Penitentiary Lost Tape 91 | 285401 | [285401-strongford-penitentiary-lost-tape-91.json](./285401-strongford-penitentiary-lost-tape-91.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
 | Stronghold | 273261 | [273261-stronghold.json](./273261-stronghold.json) |
@@ -25199,6 +25203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style | 148419 | [148419-sugar-style.json](./148419-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen | 49811 | [49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json](./49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json) |
+| Sugar Tanks Arena | 291506 | [291506-sugar-tanks-arena.json](./291506-sugar-tanks-arena.json) |
 | Sugar-Coated | 221038 | [221038-sugar-coated.json](./221038-sugar-coated.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
 | Sugar, Sugar: The Christmas Special | 319429 | [319429-sugar-sugar-the-christmas-special.json](./319429-sugar-sugar-the-christmas-special.json) |
