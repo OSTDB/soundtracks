@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
 | BangBangShooting | 151141 | [151141-bangbangshooting.json](./151141-bangbangshooting.json) |
 | Bangers Unlimited 2 | 107006 | [107006-bangers-unlimited-2.json](./107006-bangers-unlimited-2.json) |
+| Bangkok Awakening | 320115 | [320115-bangkok-awakening.json](./320115-bangkok-awakening.json) |
 | Bangkok Story: A Stray Dog | 216760 | [216760-bangkok-story-a-stray-dog.json](./216760-bangkok-story-a-stray-dog.json) |
 | Bangkok: City of Legends | 416965 | [416965-bangkok-city-of-legends.json](./416965-bangkok-city-of-legends.json) |
 | Bangungot | 217862 | [217862-bangungot.json](./217862-bangungot.json) |
@@ -7477,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitgwa Eodumui Jeonjaeng | 220290 | [220290-bitgwa-eodumui-jeonjaeng.json](./220290-bitgwa-eodumui-jeonjaeng.json) |
 | BitHero Survivors | 366982 | [366982-bithero-survivors.json](./366982-bithero-survivors.json) |
 | Bitiverse | 412905 | [412905-bitiverse.json](./412905-bitiverse.json) |
+| Bitkub Metaverse | 320111 | [320111-bitkub-metaverse.json](./320111-bitkub-metaverse.json) |
 | Bitlands | 197193 | [197193-bitlands.json](./197193-bitlands.json) |
 | BitLiberator | 340036 | [340036-bitliberator.json](./340036-bitliberator.json) |
 | BitLife | 140762 | [140762-bitlife.json](./140762-bitlife.json) |
@@ -11988,6 +11990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Jumping Challenge | 215200 | [215200-bowsers-jumping-challenge.json](./215200-bowsers-jumping-challenge.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
 | Bowser's Last Stand | 321813 | [321813-bowsers-last-stand.json](./321813-bowsers-last-stand.json) |
+| Bowser's Recruitment | 320212 | [320212-bowsers-recruitment.json](./320212-bowsers-recruitment.json) |
 | Bowser's Revenge 3 | 276782 | [276782-bowsers-revenge-3.json](./276782-bowsers-revenge-3.json) |
 | Bowser's Revenge 4 | 316124 | [316124-bowsers-revenge-4.json](./316124-bowsers-revenge-4.json) |
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
@@ -14332,6 +14335,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugby | 283133 | [283133-bugby.json](./283133-bugby.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugdasu | 347301 | [347301-bugdasu.json](./347301-bugdasu.json) |
+| BugDive | 320191 | [320191-bugdive.json](./320191-bugdive.json) |
+| BugDive Deluxe Demo Edition | 320192 | [320192-bugdive-deluxe-demo-edition.json](./320192-bugdive-deluxe-demo-edition.json) |
 | Bugdom | 50343 | [50343-bugdom.json](./50343-bugdom.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
 | Bugged Out | 266619 | [266619-bugged-out.json](./266619-bugged-out.json) |
