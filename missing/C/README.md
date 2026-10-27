@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm | 308268 | [308268-cataclysm.json](./308268-cataclysm.json) |
 | Cataclysm Survivors | 266109 | [266109-cataclysm-survivors.json](./266109-cataclysm-survivors.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
+| Cataclysm Wars | 327747 | [327747-cataclysm-wars.json](./327747-cataclysm-wars.json) |
 | Cataclysm: Bright Future Ahead | 339303 | [339303-cataclysm-bright-future-ahead.json](./339303-cataclysm-bright-future-ahead.json) |
 | Cataclysm: Bright Nights | 194968 | [194968-cataclysm-bright-nights.json](./194968-cataclysm-bright-nights.json) |
 | Cataclysm: Dark Days Ahead | 18730 | [18730-cataclysm-dark-days-ahead.json](./18730-cataclysm-dark-days-ahead.json) |
