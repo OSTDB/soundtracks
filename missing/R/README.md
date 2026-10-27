@@ -10271,6 +10271,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules of Destruction | 55679 | [55679-rules-of-destruction.json](./55679-rules-of-destruction.json) |
 | Rules of Engagement | 14421 | [14421-rules-of-engagement.json](./14421-rules-of-engagement.json) |
 | Rules of Engagement 2 | 14420 | [14420-rules-of-engagement-2.json](./14420-rules-of-engagement-2.json) |
+| Rules of Engagement: Book 1 | 313651 | [313651-rules-of-engagement-book-1.json](./313651-rules-of-engagement-book-1.json) |
+| Rules of Engagement: Book 2 | 313657 | [313657-rules-of-engagement-book-2.json](./313657-rules-of-engagement-book-2.json) |
+| Rules of Engagement: Book 3 | 313660 | [313660-rules-of-engagement-book-3.json](./313660-rules-of-engagement-book-3.json) |
+| Rules of Engagement: Newlyweds | 313663 | [313663-rules-of-engagement-newlyweds.json](./313663-rules-of-engagement-newlyweds.json) |
 | Rules of Engagement: The Grey State | 372660 | [372660-rules-of-engagement-the-grey-state.json](./372660-rules-of-engagement-the-grey-state.json) |
 | Rules of Gravity | 158586 | [158586-rules-of-gravity.json](./158586-rules-of-gravity.json) |
 | Rules of Nature | 348812 | [348812-rules-of-nature.json](./348812-rules-of-nature.json) |
