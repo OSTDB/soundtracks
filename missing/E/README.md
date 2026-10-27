@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Hydlide II MSX | 343717 | [343717-eggconsole-hydlide-ii-msx.json](./343717-eggconsole-hydlide-ii-msx.json) |
 | Eggconsole Hydlide II PC-8801 | 297312 | [297312-eggconsole-hydlide-ii-pc-8801.json](./297312-eggconsole-hydlide-ii-pc-8801.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
+| Eggconsole Hydlide PC-8801 | 280607 | [280607-eggconsole-hydlide-pc-8801.json](./280607-eggconsole-hydlide-pc-8801.json) |
 | Eggconsole Kiss of Murder PC-8801 | 375407 | [375407-eggconsole-kiss-of-murder-pc-8801.json](./375407-eggconsole-kiss-of-murder-pc-8801.json) |
 | Eggconsole Kohakuiro no Yuigon PC-8801mkIISR | 393629 | [393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json](./393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json) |
 | Eggconsole Lizard PC-8801 | 379358 | [379358-eggconsole-lizard-pc-8801.json](./379358-eggconsole-lizard-pc-8801.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
 | Eggconsole Xak Precious Package: The Tower of Gazzel PC-8801mkIISR | 358628 | [358628-eggconsole-xak-precious-package-the-tower-of-gazzel-pc-8801mkiisr.json](./358628-eggconsole-xak-precious-package-the-tower-of-gazzel-pc-8801mkiisr.json) |
 | Eggconsole Xanadu MSX | 378796 | [378796-eggconsole-xanadu-msx.json](./378796-eggconsole-xanadu-msx.json) |
+| Eggconsole Xanadu PC-8801mkIISR | 280608 | [280608-eggconsole-xanadu-pc-8801mkiisr.json](./280608-eggconsole-xanadu-pc-8801mkiisr.json) |
 | Eggconsole Xanadu Scenario II PC-8801mkIISR | 314859 | [314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json](./314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json) |
 | Eggconsole Yokai Tantei PC-8801 | 283284 | [283284-eggconsole-yokai-tantei-pc-8801.json](./283284-eggconsole-yokai-tantei-pc-8801.json) |
 | Eggconsole Ys II MSX2 | 328525 | [328525-eggconsole-ys-ii-msx2.json](./328525-eggconsole-ys-ii-msx2.json) |
@@ -4360,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Amexs-137 | 289257 | [289257-escape-from-amexs-137.json](./289257-escape-from-amexs-137.json) |
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
 | Escape from Andromeda | 289733 | [289733-escape-from-andromeda.json](./289733-escape-from-andromeda.json) |
+| Escape from Arcturus | 280948 | [280948-escape-from-arcturus.json](./280948-escape-from-arcturus.json) |
 | Escape From Area 51 | 390439 | [390439-escape-from-area-51.json](./390439-escape-from-area-51.json) |
 | Escape from Area 99 | 284390 | [284390-escape-from-area-99.json](./284390-escape-from-area-99.json) |
 | Escape from Baba Yaga | 297995 | [297995-escape-from-baba-yaga.json](./297995-escape-from-baba-yaga.json) |
