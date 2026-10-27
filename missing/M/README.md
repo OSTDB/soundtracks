@@ -16190,6 +16190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Platform Golf | 264583 | [264583-multiplayer-platform-golf.json](./264583-multiplayer-platform-golf.json) |
 | Multiplayer RPG | 307737 | [307737-multiplayer-rpg.json](./307737-multiplayer-rpg.json) |
 | Multiplayer Shooter FPS | 243530 | [243530-multiplayer-shooter-fps.json](./243530-multiplayer-shooter-fps.json) |
+| Multiplayer Shooters | 313666 | [313666-multiplayer-shooters.json](./313666-multiplayer-shooters.json) |
 | Multiplayer Spiders | 296362 | [296362-multiplayer-spiders.json](./296362-multiplayer-spiders.json) |
 | Multiplayer Survivors | 307738 | [307738-multiplayer-survivors.json](./307738-multiplayer-survivors.json) |
 | Multiplayer Table Football | 182159 | [182159-multiplayer-table-football.json](./182159-multiplayer-table-football.json) |
