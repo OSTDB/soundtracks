@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War: Ultimate Edition - Deluxe Version | 164770 | [164770-gears-of-war-ultimate-edition-deluxe-version.json](./164770-gears-of-war-ultimate-edition-deluxe-version.json) |
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
 | Gears Triple Bundle | 161180 | [161180-gears-triple-bundle.json](./161180-gears-triple-bundle.json) |
+| Gears Unchained: The Rise of Revolution | 309380 | [309380-gears-unchained-the-rise-of-revolution.json](./309380-gears-unchained-the-rise-of-revolution.json) |
 | Gearshifters: Collector's Edition | 159021 | [159021-gearshifters-collectors-edition.json](./159021-gearshifters-collectors-edition.json) |
 | Gearspark | 385450 | [385450-gearspark.json](./385450-gearspark.json) |
 | GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
@@ -4179,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch in the System | 236809 | [236809-glitch-in-the-system.json](./236809-glitch-in-the-system.json) |
 | Glitch Karts | 377783 | [377783-glitch-karts.json](./377783-glitch-karts.json) |
 | Glitch Maze.exe | 293074 | [293074-glitch-maze-exe.json](./293074-glitch-maze-exe.json) |
+| Glitch of The Game | 309401 | [309401-glitch-of-the-game.json](./309401-glitch-of-the-game.json) |
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
 | Glitch Pets | 104828 | [104828-glitch-pets.json](./104828-glitch-pets.json) |
 | Glitch Puzzle | 202214 | [202214-glitch-puzzle.json](./202214-glitch-puzzle.json) |
@@ -5934,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good puzzle | 155651 | [155651-good-puzzle.json](./155651-good-puzzle.json) |
 | Good puzzle: Castles | 161364 | [161364-good-puzzle-castles.json](./161364-good-puzzle-castles.json) |
 | Good Sleep Company | 340319 | [340319-good-sleep-company.json](./340319-good-sleep-company.json) |
+| Good Soup | 309319 | [309319-good-soup.json](./309319-good-soup.json) |
 | Good Soup | 381134 | [381134-good-soup.json](./381134-good-soup.json) |
 | Good Vibes | 178500 | [178500-good-vibes.json](./178500-good-vibes.json) |
 | Good-bye Old World | 183317 | [183317-good-bye-old-world.json](./183317-good-bye-old-world.json) |
@@ -6877,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
+| Graphwar II | 309395 | [309395-graphwar-ii.json](./309395-graphwar-ii.json) |
 | Grapixo Arte em Guerra | 407522 | [407522-grapixo-arte-em-guerra.json](./407522-grapixo-arte-em-guerra.json) |
 | Grappin | 168699 | [168699-grappin.json](./168699-grappin.json) |
 | Grapple | 12878 | [12878-grapple.json](./12878-grapple.json) |
@@ -9044,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Chain | 117135 | [117135-gun-chain.json](./117135-gun-chain.json) |
 | Gun Club VR: SWAT DLC | 155456 | [155456-gun-club-vr-swat-dlc.json](./155456-gun-club-vr-swat-dlc.json) |
 | Gun Commando | 52221 | [52221-gun-commando.json](./52221-gun-commando.json) |
+| Gun Crate Raccoon | 309426 | [309426-gun-crate-raccoon.json](./309426-gun-crate-raccoon.json) |
 | Gun Crazy | 110093 | [110093-gun-crazy.json](./110093-gun-crazy.json) |
 | Gun Dealer | 348904 | [348904-gun-dealer.json](./348904-gun-dealer.json) |
 | Gun Dealer | 40064 | [40064-gun-dealer.json](./40064-gun-dealer.json) |
