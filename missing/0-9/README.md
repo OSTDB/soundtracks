@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D City | 271675 | [271675-3d-city.json](./271675-3d-city.json) |
 | 3D City Run 2 | 350762 | [350762-3d-city-run-2.json](./350762-3d-city-run-2.json) |
 | 3D Classics: Kirby's Adventure | 84617 | [84617-3d-classics-kirbys-adventure.json](./84617-3d-classics-kirbys-adventure.json) |
+| 3D Color Labyrinth | 282158 | [282158-3d-color-labyrinth.json](./282158-3d-color-labyrinth.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Combat Zone | 203863 | [203863-3d-combat-zone.json](./203863-3d-combat-zone.json) |
 | 3D Construction Kit | 38852 | [38852-3d-construction-kit.json](./38852-3d-construction-kit.json) |
