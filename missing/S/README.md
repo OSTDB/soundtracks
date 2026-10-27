@@ -6009,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady's Poopong | 63786 | [63786-shadys-poopong.json](./63786-shadys-poopong.json) |
 | Shady's Poopong: 22nd Anniversary Edition | 60618 | [60618-shadys-poopong-22nd-anniversary-edition.json](./60618-shadys-poopong-22nd-anniversary-edition.json) |
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
+| Shaft Hero | 314209 | [314209-shaft-hero.json](./314209-shaft-hero.json) |
 | Shaftdiver | 218090 | [218090-shaftdiver.json](./218090-shaftdiver.json) |
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
@@ -7151,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Core | 214947 | [214947-shining-core.json](./214947-shining-core.json) |
 | Shining Flower: HikaruHana | 172040 | [172040-shining-flower-hikaruhana.json](./172040-shining-flower-hikaruhana.json) |
 | Shining Force | 3041 | [3041-shining-force.json](./3041-shining-force.json) |
+| Shining Force Alternate | 314212 | [314212-shining-force-alternate.json](./314212-shining-force-alternate.json) |
 | Shining Force CD | 3198 | [3198-shining-force-cd.json](./3198-shining-force-cd.json) |
 | Shining Force Classics | 112181 | [112181-shining-force-classics.json](./112181-shining-force-classics.json) |
 | Shining Force Cross | 65251 | [65251-shining-force-cross.json](./65251-shining-force-cross.json) |
@@ -11407,6 +11409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Sliding Seas | 174584 | [174584-sliding-seas.json](./174584-sliding-seas.json) |
+| Sliding Tiles | 314222 | [314222-sliding-tiles.json](./314222-sliding-tiles.json) |
 | Sliding-Block Puzzles | 92426 | [92426-sliding-block-puzzles.json](./92426-sliding-block-puzzles.json) |
 | Slidungeon | 150401 | [150401-slidungeon.json](./150401-slidungeon.json) |
 | Slidy | 26509 | [26509-slidy.json](./26509-slidy.json) |
