@@ -10515,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poobo | 383160 | [383160-poobo.json](./383160-poobo.json) |
 | Poochie Puppy | 347074 | [347074-poochie-puppy.json](./347074-poochie-puppy.json) |
+| Poodle Clicker | 309391 | [309391-poodle-clicker.json](./309391-poodle-clicker.json) |
 | Poodle Jump! | 368997 | [368997-poodle-jump.json](./368997-poodle-jump.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poöf vs. The Cursed Kitty | 10712 | [10712-poof-vs-the-cursed-kitty.json](./10712-poof-vs-the-cursed-kitty.json) |
@@ -12176,6 +12177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime | 214977 | [214977-prime.json](./214977-prime.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime & Load: 1776 | 107470 | [107470-prime-and-load-1776.json](./107470-prime-and-load-1776.json) |
+| Prime Agents | 309399 | [309399-prime-agents.json](./309399-prime-agents.json) |
 | Prime Arena | 67874 | [67874-prime-arena.json](./67874-prime-arena.json) |
 | Prime Directive | 212676 | [212676-prime-directive.json](./212676-prime-directive.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
@@ -14370,6 +14372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychofunk | 161776 | [161776-psychofunk.json](./161776-psychofunk.json) |
 | Psycholog | 264707 | [264707-psycholog.json](./264707-psycholog.json) |
 | Psychological Challenge | 348561 | [348561-psychological-challenge.json](./348561-psychological-challenge.json) |
+| Psychological Operation | 309396 | [309396-psychological-operation.json](./309396-psychological-operation.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychomachia | 361048 | [361048-psychomachia.json](./361048-psychomachia.json) |
