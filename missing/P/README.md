@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Reciclator | 145894 | [145894-pc-reciclator.json](./145894-pc-reciclator.json) |
 | PC Selección Española de Fútbol Eurocopa '96 | 84224 | [84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json](./84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json) |
 | PC Store Simulator | 346167 | [346167-pc-store-simulator.json](./346167-pc-store-simulator.json) |
+| PC Tycoon 2 | 293047 | [293047-pc-tycoon-2.json](./293047-pc-tycoon-2.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | PC-Darts | 81067 | [81067-pc-darts.json](./81067-pc-darts.json) |
@@ -3308,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggo! | 154819 | [154819-peggo.json](./154819-peggo.json) |
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
+| PegIdle | 293056 | [293056-pegidle.json](./293056-pegidle.json) |
 | PegIt | 92873 | [92873-pegit.json](./92873-pegit.json) |
 | PegPigeon | 405549 | [405549-pegpigeon.json](./405549-pegpigeon.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
@@ -5350,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pieces of the Kingdom | 377965 | [377965-pieces-of-the-kingdom.json](./377965-pieces-of-the-kingdom.json) |
+| Pieces of the Past | 293042 | [293042-pieces-of-the-past.json](./293042-pieces-of-the-past.json) |
 | Piecework: The Jigsaw Museum | 421788 | [421788-piecework-the-jigsaw-museum.json](./421788-piecework-the-jigsaw-museum.json) |
 | PieClicker | 245740 | [245740-pieclicker.json](./245740-pieclicker.json) |
 | Piecrust | 311699 | [311699-piecrust.json](./311699-piecrust.json) |
@@ -6451,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Planet | 135556 | [135556-pirate-planet.json](./135556-pirate-planet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Pop Mega Quiz | 232499 | [232499-pirate-pop-mega-quiz.json](./232499-pirate-pop-mega-quiz.json) |
+| Pirate Pop Quest | 293050 | [293050-pirate-pop-quest.json](./293050-pirate-pop-quest.json) |
 | Pirate Popper VR | 153486 | [153486-pirate-popper-vr.json](./153486-pirate-popper-vr.json) |
 | Pirate Poppers | 209955 | [209955-pirate-poppers.json](./209955-pirate-poppers.json) |
 | Pirate Radio | 176392 | [176392-pirate-radio.json](./176392-pirate-radio.json) |
@@ -12282,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
 | Primordial Fate | 342537 | [342537-primordial-fate.json](./342537-primordial-fate.json) |
+| Primordial Genesis | 293043 | [293043-primordial-genesis.json](./293043-primordial-genesis.json) |
 | Primordial Nation | 297856 | [297856-primordial-nation.json](./297856-primordial-nation.json) |
 | Primordial Pain | 223099 | [223099-primordial-pain.json](./223099-primordial-pain.json) |
 | Primordial Soup | 308608 | [308608-primordial-soup.json](./308608-primordial-soup.json) |
