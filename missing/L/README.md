@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamia's Game Room | 33724 | [33724-lamias-game-room.json](./33724-lamias-game-room.json) |
 | Lamia's Plan | 154893 | [154893-lamias-plan.json](./154893-lamias-plan.json) |
 | Lamina | 184259 | [184259-lamina.json](./184259-lamina.json) |
+| Lamina Bruise | 293040 | [293040-lamina-bruise.json](./293040-lamina-bruise.json) |
 | Lamina Island | 224537 | [224537-lamina-island.json](./224537-lamina-island.json) |
 | Lamm | 29600 | [29600-lamm.json](./29600-lamm.json) |
 | Lammana: The Looe Island Mystery | 132466 | [132466-lammana-the-looe-island-mystery.json](./132466-lammana-the-looe-island-mystery.json) |
