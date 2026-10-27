@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Company | 297071 | [297071-factory-company.json](./297071-factory-company.json) |
 | Factory Control Inc. | 252706 | [252706-factory-control-inc.json](./252706-factory-control-inc.json) |
 | Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
+| Factory Escape | 329508 | [329508-factory-escape.json](./329508-factory-escape.json) |
 | Factory Farming | 230737 | [230737-factory-farming.json](./230737-factory-farming.json) |
 | Factory idle | 95942 | [95942-factory-idle.json](./95942-factory-idle.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
@@ -1863,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Voyagers | 400195 | [400195-fantasy-voyagers.json](./400195-fantasy-voyagers.json) |
 | Fantasy Waifu Collector | 369140 | [369140-fantasy-waifu-collector.json](./369140-fantasy-waifu-collector.json) |
 | Fantasy War Heroes: Chilling Fog | 319273 | [319273-fantasy-war-heroes-chilling-fog.json](./319273-fantasy-war-heroes-chilling-fog.json) |
+| Fantasy Warlord | 329477 | [329477-fantasy-warlord.json](./329477-fantasy-warlord.json) |
 | Fantasy Wars | 7332 | [7332-fantasy-wars.json](./7332-fantasy-wars.json) |
 | Fantasy Wars: Endless Heroes | 390601 | [390601-fantasy-wars-endless-heroes.json](./390601-fantasy-wars-endless-heroes.json) |
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
@@ -6683,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipBook: Canvas Pack 1 | 317927 | [317927-flipbook-canvas-pack-1.json](./317927-flipbook-canvas-pack-1.json) |
 | FlipBook: Canvas Pack 2 | 317928 | [317928-flipbook-canvas-pack-2.json](./317928-flipbook-canvas-pack-2.json) |
 | FlipCard | 351751 | [351751-flipcard.json](./351751-flipcard.json) |
+| FlipCat | 329506 | [329506-flipcat.json](./329506-flipcat.json) |
 | FlipFlipDuck | 175268 | [175268-flipflipduck.json](./175268-flipflipduck.json) |
 | Flipflop Solitaire | 82725 | [82725-flipflop-solitaire.json](./82725-flipflop-solitaire.json) |
 | Flipi Rivals | 420685 | [420685-flipi-rivals.json](./420685-flipi-rivals.json) |
@@ -8552,6 +8555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Champions | 201552 | [201552-forsaken-champions.json](./201552-forsaken-champions.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
+| Forsaken Facilities | 329502 | [329502-forsaken-facilities.json](./329502-forsaken-facilities.json) |
 | Forsaken Flesh | 138491 | [138491-forsaken-flesh.json](./138491-forsaken-flesh.json) |
 | Forsaken Frontiers | 288820 | [288820-forsaken-frontiers.json](./288820-forsaken-frontiers.json) |
 | Forsaken Generation | 65801 | [65801-forsaken-generation.json](./65801-forsaken-generation.json) |
@@ -9197,6 +9201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox in the Woods | 164936 | [164936-fox-in-the-woods.json](./164936-fox-in-the-woods.json) |
 | Fox Jones and the Treasures of el Dorado | 66553 | [66553-fox-jones-and-the-treasures-of-el-dorado.json](./66553-fox-jones-and-the-treasures-of-el-dorado.json) |
 | Fox Junction | 44726 | [44726-fox-junction.json](./44726-fox-junction.json) |
+| Fox Legend | 329503 | [329503-fox-legend.json](./329503-fox-legend.json) |
 | Fox McCloud's Blazing Blueberry Blast Off | 328850 | [328850-fox-mcclouds-blazing-blueberry-blast-off.json](./328850-fox-mcclouds-blazing-blueberry-blast-off.json) |
 | Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
 | Fox Quest: The Elemental Keys | 310273 | [310273-fox-quest-the-elemental-keys.json](./310273-fox-quest-the-elemental-keys.json) |
@@ -9322,6 +9327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fraction War | 101425 | [101425-fraction-war.json](./101425-fraction-war.json) |
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
 | Fractions | 42172 | [42172-fractions.json](./42172-fractions.json) |
+| Fractious | 329458 | [329458-fractious.json](./329458-fractious.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
 | Fracture | 374888 | [374888-fracture.json](./374888-fracture.json) |
 | Fracture | 6996 | [6996-fracture.json](./6996-fracture.json) |
