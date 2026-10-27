@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Rhythm | 359883 | [359883-neon-rhythm.json](./359883-neon-rhythm.json) |
 | Neon Rider | 104618 | [104618-neon-rider.json](./104618-neon-rider.json) |
 | Neon Rider | 393778 | [393778-neon-rider.json](./393778-neon-rider.json) |
+| Neon Rider Classic | 290879 | [290879-neon-rider-classic.json](./290879-neon-rider-classic.json) |
 | Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
 | Neon Road | 221368 | [221368-neon-road.json](./221368-neon-road.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
@@ -5074,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Shot | 398919 | [398919-no-shot.json](./398919-no-shot.json) |
 | No Sidewalks in the Mushroom Kingdom | 177296 | [177296-no-sidewalks-in-the-mushroom-kingdom.json](./177296-no-sidewalks-in-the-mushroom-kingdom.json) |
 | No Signal | 111418 | [111418-no-signal.json](./111418-no-signal.json) |
+| No Signal | 290895 | [290895-no-signal.json](./290895-no-signal.json) |
 | No Signal | 294108 | [294108-no-signal.json](./294108-no-signal.json) |
 | No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
 | No Signal: Chornobyl | 414165 | [414165-no-signal-chornobyl.json](./414165-no-signal-chornobyl.json) |
