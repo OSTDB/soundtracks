@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
 | Abducted | 350206 | [350206-abducted.json](./350206-abducted.json) |
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
+| Abducted Toad: 10th Anniversary Edition! | 321315 | [321315-abducted-toad-10th-anniversary-edition.json](./321315-abducted-toad-10th-anniversary-edition.json) |
 | Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction | 14202 | [14202-abduction.json](./14202-abduction.json) |
@@ -3252,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Cleaner | 301680 | [301680-aerial-cleaner.json](./301680-aerial-cleaner.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
+| Aerial Guard | 321279 | [321279-aerial-guard.json](./321279-aerial-guard.json) |
 | Aerial Guardian | 104830 | [104830-aerial-guardian.json](./104830-aerial-guardian.json) |
 | Aerial Life: Premium Limited Edition | 166989 | [166989-aerial-life-premium-limited-edition.json](./166989-aerial-life-premium-limited-edition.json) |
 | Aerial Lockdown | 337421 | [337421-aerial-lockdown.json](./337421-aerial-lockdown.json) |
@@ -5978,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliro1 | 381680 | [381680-aliro1.json](./381680-aliro1.json) |
 | Alis: World Reborn | 409410 | [409410-alis-world-reborn.json](./409410-alis-world-reborn.json) |
 | Alisa Quest | 146060 | [146060-alisa-quest.json](./146060-alisa-quest.json) |
+| Alisa: The Parting | 321313 | [321313-alisa-the-parting.json](./321313-alisa-the-parting.json) |
 | Alisa's Grimoire | 375561 | [375561-alisas-grimoire.json](./375561-alisas-grimoire.json) |
 | Alisa’s Incident Report | 390627 | [390627-alisa-s-incident-report.json](./390627-alisa-s-incident-report.json) |
 | Alisha's Sexual Fear | 373529 | [373529-alishas-sexual-fear.json](./373529-alishas-sexual-fear.json) |
@@ -13321,6 +13324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
 | Astral Attack | 13806 | [13806-astral-attack.json](./13806-astral-attack.json) |
 | Astral Blaze | 368593 | [368593-astral-blaze.json](./368593-astral-blaze.json) |
+| Astral Blitz | 321280 | [321280-astral-blitz.json](./321280-astral-blitz.json) |
 | Astral Blitz | 390093 | [390093-astral-blitz.json](./390093-astral-blitz.json) |
 | Astral Breakers | 19953 | [19953-astral-breakers.json](./19953-astral-breakers.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
