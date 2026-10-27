@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want to Talk About My Friend | 356518 | [356518-i-want-to-talk-about-my-friend.json](./356518-i-want-to-talk-about-my-friend.json) |
 | I Want to Wear Your Wool | 400050 | [400050-i-want-to-wear-your-wool.json](./400050-i-want-to-wear-your-wool.json) |
 | I Want Toilet!!!!!! | 52748 | [52748-i-want-toilet.json](./52748-i-want-toilet.json) |
+| I Want Watermelon | 296850 | [296850-i-want-watermelon.json](./296850-i-want-watermelon.json) |
 | I Want You To Notice Me: His Story | 401277 | [401277-i-want-you-to-notice-me-his-story.json](./401277-i-want-you-to-notice-me-his-story.json) |
 | I Want Your Heart | 284248 | [284248-i-want-your-heart.json](./284248-i-want-your-heart.json) |
 | I was a Cannibal for the FBI | 71526 | [71526-i-was-a-cannibal-for-the-fbi.json](./71526-i-was-a-cannibal-for-the-fbi.json) |
