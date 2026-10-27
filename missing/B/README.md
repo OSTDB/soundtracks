@@ -820,7 +820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1012,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BakeryDiary | 391624 | [391624-bakerydiary.json](./391624-bakerydiary.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Baki the Grappler: Ultimate Championship | 44109 | [44109-baki-the-grappler-ultimate-championship.json](./44109-baki-the-grappler-ultimate-championship.json) |
+| Baki-baki Memoir | 314823 | [314823-baki-baki-memoir.json](./314823-baki-baki-memoir.json) |
 | Baki: King of Souls | 194155 | [194155-baki-king-of-souls.json](./194155-baki-king-of-souls.json) |
 | Baking Bad | 372028 | [372028-baking-bad.json](./372028-baking-bad.json) |
 | Baking Bustle | 158536 | [158536-baking-bustle.json](./158536-baking-bustle.json) |
