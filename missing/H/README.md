@@ -6342,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Heat Major League Baseball 2003 | 6435 | [6435-high-heat-major-league-baseball-2003.json](./6435-high-heat-major-league-baseball-2003.json) |
 | High Heat Major League Baseball 2004 | 24089 | [24089-high-heat-major-league-baseball-2004.json](./24089-high-heat-major-league-baseball-2004.json) |
 | High Heels! | 241807 | [241807-high-heels.json](./241807-high-heels.json) |
+| High Impact | 311538 | [311538-high-impact.json](./311538-high-impact.json) |
 | High Impact Football | 40061 | [40061-high-impact-football.json](./40061-high-impact-football.json) |
 | High Impact Paintball | 72468 | [72468-high-impact-paintball.json](./72468-high-impact-paintball.json) |
 | High Jinx! | 217977 | [217977-high-jinx.json](./217977-high-jinx.json) |
@@ -6752,6 +6753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hime to Boin | 77669 | [77669-hime-to-boin.json](./77669-hime-to-boin.json) |
 | Hime to Otome no Yakimochi Love | 416692 | [416692-hime-to-otome-no-yakimochi-love.json](./416692-hime-to-otome-no-yakimochi-love.json) |
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
+| Himegashima Island | 311555 | [311555-himegashima-island.json](./311555-himegashima-island.json) |
 | Himegimi Detective | 74694 | [74694-himegimi-detective.json](./74694-himegimi-detective.json) |
 | Himegoto | 281943 | [281943-himegoto.json](./281943-himegoto.json) |
 | Himehibi: New Princess Days Zoku! Nigakki | 218483 | [218483-himehibi-new-princess-days-zoku-nigakki.json](./218483-himehibi-new-princess-days-zoku-nigakki.json) |
