@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SC Triple Cat Games Bundle | 333689 | [333689-sc-triple-cat-games-bundle.json](./333689-sc-triple-cat-games-bundle.json) |
 | SC2VN: The eSports Visual Novel | 19076 | [19076-sc2vn-the-esports-visual-novel.json](./19076-sc2vn-the-esports-visual-novel.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
+| SCAD | 309936 | [309936-scad.json](./309936-scad.json) |
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
 | Scaffolder | 195056 | [195056-scaffolder.json](./195056-scaffolder.json) |
 | Scalak | 100543 | [100543-scalak.json](./100543-scalak.json) |
@@ -9114,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
 | Sim Settlements 2 | 298970 | [298970-sim-settlements-2.json](./298970-sim-settlements-2.json) |
+| Sim Solver | 309928 | [309928-sim-solver.json](./309928-sim-solver.json) |
 | Sim Sports Raid | 384213 | [384213-sim-sports-raid.json](./384213-sim-sports-raid.json) |
 | Sim Taxi | 271387 | [271387-sim-taxi.json](./271387-sim-taxi.json) |
 | Sim Taxi 2 | 271379 | [271379-sim-taxi-2.json](./271379-sim-taxi-2.json) |
@@ -10140,6 +10142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletal Dance Party | 101064 | [101064-skeletal-dance-party.json](./101064-skeletal-dance-party.json) |
 | Skeletal Dos Dreams | 176781 | [176781-skeletal-dos-dreams.json](./176781-skeletal-dos-dreams.json) |
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
+| Skeletal Skism 2 | 309911 | [309911-skeletal-skism-2.json](./309911-skeletal-skism-2.json) |
 | Skeletery | 236756 | [236756-skeletery.json](./236756-skeletery.json) |
 | Skelethrone: The Chronicles of Ericona | 228288 | [228288-skelethrone-the-chronicles-of-ericona.json](./228288-skelethrone-the-chronicles-of-ericona.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
@@ -18490,6 +18493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinner Invaders | 172967 | [172967-spinner-invaders.json](./172967-spinner-invaders.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinner: Rogueblade | 347602 | [347602-spinner-rogueblade.json](./347602-spinner-rogueblade.json) |
+| Spinners | 309945 | [309945-spinners.json](./309945-spinners.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
 | Spinning Image | 408487 | [408487-spinning-image.json](./408487-spinning-image.json) |
