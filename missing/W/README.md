@@ -7796,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Universe: Fire Pro Women - Dome Super Female Big Battle: All Japan Women VS J.W.P. | 37627 | [37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json](./37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json) |
 | Wrestling With Emotions | 138546 | [138546-wrestling-with-emotions.json](./138546-wrestling-with-emotions.json) |
 | Wret | 352871 | [352871-wret.json](./352871-wret.json) |
+| Wretch | 300743 | [300743-wretch.json](./300743-wretch.json) |
 | Wretch | 366985 | [366985-wretch.json](./366985-wretch.json) |
 | Wretch: Divine Ascent | 352750 | [352750-wretch-divine-ascent.json](./352750-wretch-divine-ascent.json) |
 | Wretched Depths | 242595 | [242595-wretched-depths.json](./242595-wretched-depths.json) |
