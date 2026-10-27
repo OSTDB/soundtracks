@@ -1061,6 +1061,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You, With Me: A Kinetic Novel | 90490 | [90490-you-with-me-a-kinetic-novel.json](./90490-you-with-me-a-kinetic-novel.json) |
 | You, you've got me wrong! | 82683 | [82683-you-youve-got-me-wrong.json](./82683-you-youve-got-me-wrong.json) |
 | You: The Untold Stories | 106543 | [106543-you-the-untold-stories.json](./106543-you-the-untold-stories.json) |
+| You. Me. Heaven. | 329483 | [329483-you-me-heaven.json](./329483-you-me-heaven.json) |
+| You. Me. Hell. | 329480 | [329480-you-me-hell.json](./329480-you-me-hell.json) |
 | You... and who else? | 33098 | [33098-you-and-who-else.json](./33098-you-and-who-else.json) |
 | You'll Stay Here Forever | 250346 | [250346-youll-stay-here-forever.json](./250346-youll-stay-here-forever.json) |
 | You're a Dad | 318109 | [318109-youre-a-dad.json](./318109-youre-a-dad.json) |
