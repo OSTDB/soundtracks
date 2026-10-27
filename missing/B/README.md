@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballade2: the Celestial Promise | 118414 | [118414-ballade2-the-celestial-promise.json](./118414-ballade2-the-celestial-promise.json) |
 | Ballads at Midnight | 207399 | [207399-ballads-at-midnight.json](./207399-ballads-at-midnight.json) |
 | Ballads of Hongye | 197151 | [197151-ballads-of-hongye.json](./197151-ballads-of-hongye.json) |
+| Ballads of Hongye Reborn | 317781 | [317781-ballads-of-hongye-reborn.json](./317781-ballads-of-hongye-reborn.json) |
 | Ballance | 20895 | [20895-ballance.json](./20895-ballance.json) |
 | Ballance: The Return | 127371 | [127371-ballance-the-return.json](./127371-ballance-the-return.json) |
 | Ballapalooza | 275110 | [275110-ballapalooza.json](./275110-ballapalooza.json) |
@@ -9179,6 +9180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockville | 195449 | [195449-blockville.json](./195449-blockville.json) |
 | Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
 | Blockwick 2 | 35038 | [35038-blockwick-2.json](./35038-blockwick-2.json) |
+| BlockWorld Ai | 317773 | [317773-blockworld-ai.json](./317773-blockworld-ai.json) |
 | Blockxy Puzzle Adventure | 328560 | [328560-blockxy-puzzle-adventure.json](./328560-blockxy-puzzle-adventure.json) |
 | Blocky | 100836 | [100836-blocky.json](./100836-blocky.json) |
 | Blocky | 234699 | [234699-blocky.json](./234699-blocky.json) |
