@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairdresser Builder Bundle | 311044 | [311044-hairdresser-builder-bundle.json](./311044-hairdresser-builder-bundle.json) |
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
 | Hairdresser Simulator | 149731 | [149731-hairdresser-simulator.json](./149731-hairdresser-simulator.json) |
+| Hairdresser Simulator: Beards and Mustaches | 293125 | [293125-hairdresser-simulator-beards-and-mustaches.json](./293125-hairdresser-simulator-beards-and-mustaches.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
 | Hairy Legs | 91880 | [91880-hairy-legs.json](./91880-hairy-legs.json) |
 | Hairy Tales | 22172 | [22172-hairy-tales.json](./22172-hairy-tales.json) |
