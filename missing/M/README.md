@@ -3875,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Arts Peerless War | 259000 | [259000-martial-arts-peerless-war.json](./259000-martial-arts-peerless-war.json) |
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
+| Martial Beat 2 | 292033 | [292033-martial-beat-2.json](./292033-martial-beat-2.json) |
 | Martial Champion | 39544 | [39544-martial-champion.json](./39544-martial-champion.json) |
 | Martial Fire | 232440 | [232440-martial-fire.json](./232440-martial-fire.json) |
 | Martial Heroes | 68119 | [68119-martial-heroes.json](./68119-martial-heroes.json) |
@@ -13088,6 +13089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Mansion | 193645 | [193645-monkey-mansion.json](./193645-monkey-mansion.json) |
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
+| Monkey Math School Sunshine | 291969 | [291969-monkey-math-school-sunshine.json](./291969-monkey-math-school-sunshine.json) |
 | Monkey Milk | 211124 | [211124-monkey-milk.json](./211124-monkey-milk.json) |
 | Monkey Mischief | 51065 | [51065-monkey-mischief.json](./51065-monkey-mischief.json) |
 | Monkey Mischief! Party Time | 92362 | [92362-monkey-mischief-party-time.json](./92362-monkey-mischief-party-time.json) |
