@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Burn The Bonfire of Taiwan | 369448 | [369448-re-burn-the-bonfire-of-taiwan.json](./369448-re-burn-the-bonfire-of-taiwan.json) |
 | Re:Call | 364068 | [364068-re-call.json](./364068-re-call.json) |
 | Re:Call | 92486 | [92486-re-call.json](./92486-re-call.json) |
+| Re:Choice | 324790 | [324790-re-choice.json](./324790-re-choice.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
 | Re:cord Noah: Fractal of Oblivion | 402327 | [402327-re-cord-noah-fractal-of-oblivion.json](./402327-re-cord-noah-fractal-of-oblivion.json) |
 | Re:Curse | 247352 | [247352-re-curse.json](./247352-re-curse.json) |
@@ -4766,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Village: Gold Edition | 204722 | [204722-resident-evil-village-gold-edition.json](./204722-resident-evil-village-gold-edition.json) |
 | Resident Evil Village: Shadows of Rose | 230951 | [230951-resident-evil-village-shadows-of-rose.json](./230951-resident-evil-village-shadows-of-rose.json) |
 | Resident Evil Village: The Mercenaries - Additional Orders | 230974 | [230974-resident-evil-village-the-mercenaries-additional-orders.json](./230974-resident-evil-village-the-mercenaries-additional-orders.json) |
+| Resident Evil Village: VR Mode | 324804 | [324804-resident-evil-village-vr-mode.json](./324804-resident-evil-village-vr-mode.json) |
 | Resident Evil Village: Winters' Expansion | 204721 | [204721-resident-evil-village-winters-expansion.json](./204721-resident-evil-village-winters-expansion.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
