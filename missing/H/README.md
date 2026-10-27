@@ -7528,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Höll Space 5D6 | 147197 | [147197-holl-space-5d6.json](./147197-holl-space-5d6.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
+| Hollo Ball | 291960 | [291960-hollo-ball.json](./291960-hollo-ball.json) |
 | Hollow | 182886 | [182886-hollow.json](./182886-hollow.json) |
 | Hollow | 186257 | [186257-hollow.json](./186257-hollow.json) |
 | Hollow 2 | 116756 | [116756-hollow-2.json](./116756-hollow-2.json) |
