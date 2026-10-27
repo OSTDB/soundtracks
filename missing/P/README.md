@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palavras Cruzadas: O Globo | 252063 | [252063-palavras-cruzadas-o-globo.json](./252063-palavras-cruzadas-o-globo.json) |
 | Palavrinhas | 329784 | [329784-palavrinhas.json](./329784-palavrinhas.json) |
 | Pale | 337011 | [337011-pale.json](./337011-pale.json) |
+| Pale Abyss | 331783 | [331783-pale-abyss.json](./331783-pale-abyss.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
 | Pale Echoes | 35068 | [35068-pale-echoes.json](./35068-pale-echoes.json) |
@@ -10570,6 +10571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooplers | 127599 | [127599-pooplers.json](./127599-pooplers.json) |
 | Poopnauts | 418275 | [418275-poopnauts.json](./418275-poopnauts.json) |
 | Poopy Time | 305407 | [305407-poopy-time.json](./305407-poopy-time.json) |
+| Poopy's Wonderland | 331796 | [331796-poopys-wonderland.json](./331796-poopys-wonderland.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
 | Poor Bunny! | 239132 | [239132-poor-bunny.json](./239132-poor-bunny.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
@@ -13534,6 +13536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project Reality | 294572 | [294572-project-reality.json](./294572-project-reality.json) |
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
+| Project Reality | 331779 | [331779-project-reality.json](./331779-project-reality.json) |
 | Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
 | Project Reality: BF2 | 79694 | [79694-project-reality-bf2.json](./79694-project-reality-bf2.json) |
 | Project Rebearth | 301075 | [301075-project-rebearth.json](./301075-project-rebearth.json) |
