@@ -8926,6 +8926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno Mitsumasa Pepperon-mura no Shiki | 245246 | [245246-anno-mitsumasa-pepperon-mura-no-shiki.json](./245246-anno-mitsumasa-pepperon-mura-no-shiki.json) |
 | Anno Online | 8111 | [8111-anno-online.json](./8111-anno-online.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
+| Anno: Mutationem - Complete Edition | 323670 | [323670-anno-mutationem-complete-edition.json](./323670-anno-mutationem-complete-edition.json) |
 | Annotation of Love | 86608 | [86608-annotation-of-love.json](./86608-annotation-of-love.json) |
 | Annoy Squidward | 324931 | [324931-annoy-squidward.json](./324931-annoy-squidward.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
@@ -12105,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Club Challenge | 102891 | [102891-art-club-challenge.json](./102891-art-club-challenge.json) |
 | Art Code Summoner | 216092 | [216092-art-code-summoner.json](./216092-art-code-summoner.json) |
 | Art Dash | 303678 | [303678-art-dash.json](./303678-art-dash.json) |
+| Art Detective: Hidden in Gusu | 323689 | [323689-art-detective-hidden-in-gusu.json](./323689-art-detective-hidden-in-gusu.json) |
 | Art Detective: Hidden Through Ancient China | 320327 | [320327-art-detective-hidden-through-ancient-china.json](./320327-art-detective-hidden-through-ancient-china.json) |
 | Art Diff | 303677 | [303677-art-diff.json](./303677-art-diff.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
