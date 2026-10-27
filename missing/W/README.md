@@ -6967,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World League Baseball | 269969 | [269969-world-league-baseball.json](./269969-world-league-baseball.json) |
 | World League Live! Football | 186048 | [186048-world-league-live-football.json](./186048-world-league-live-football.json) |
 | World League Soccer '98 | 45466 | [45466-world-league-soccer-98.json](./45466-world-league-soccer-98.json) |
+| World Left Behind | 284516 | [284516-world-left-behind.json](./284516-world-left-behind.json) |
 | World Legends | 164316 | [164316-world-legends.json](./164316-world-legends.json) |
 | World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
 | World Map Quiz | 181146 | [181146-world-map-quiz.json](./181146-world-map-quiz.json) |
