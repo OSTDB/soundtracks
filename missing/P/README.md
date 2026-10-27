@@ -7754,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet destroyer | 123867 | [123867-planet-destroyer.json](./123867-planet-destroyer.json) |
 | Planet Dexter's Grossology | 71322 | [71322-planet-dexters-grossology.json](./71322-planet-dexters-grossology.json) |
 | Planet Diver | 34069 | [34069-planet-diver.json](./34069-planet-diver.json) |
+| Planet Divers | 307633 | [307633-planet-divers.json](./307633-planet-divers.json) |
 | Planet Dysphoria | 181744 | [181744-planet-dysphoria.json](./181744-planet-dysphoria.json) |
 | Planet Ennea | 229653 | [229653-planet-ennea.json](./229653-planet-ennea.json) |
 | Planet Explorers | 5573 | [5573-planet-explorers.json](./5573-planet-explorers.json) |
