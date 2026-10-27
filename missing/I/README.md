@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Magic School | 281449 | [281449-idle-magic-school.json](./281449-idle-magic-school.json) |
 | Idle Mall Tycoon | 276650 | [276650-idle-mall-tycoon.json](./276650-idle-mall-tycoon.json) |
 | Idle Mars Colony | 233621 | [233621-idle-mars-colony.json](./233621-idle-mars-colony.json) |
+| Idle Meteor | 295211 | [295211-idle-meteor.json](./295211-idle-meteor.json) |
 | Idle Military Factory Tycoon | 251443 | [251443-idle-military-factory-tycoon.json](./251443-idle-military-factory-tycoon.json) |
 | Idle Mining Company | 255801 | [255801-idle-mining-company.json](./255801-idle-mining-company.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
@@ -5691,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itchana Tchones Zombie Terror | 285139 | [285139-itchana-tchones-zombie-terror.json](./285139-itchana-tchones-zombie-terror.json) |
 | Itchy Scratchy | 215547 | [215547-itchy-scratchy.json](./215547-itchy-scratchy.json) |
 | iTD | 131191 | [131191-itd.json](./131191-itd.json) |
+| Item Collector Ball | 295203 | [295203-item-collector-ball.json](./295203-item-collector-ball.json) |
 | Item Collector: Pirates | 369338 | [369338-item-collector-pirates.json](./369338-item-collector-pirates.json) |
 | Item Frenzy | 328516 | [328516-item-frenzy.json](./328516-item-frenzy.json) |
 | Item Getter: Bokura no Kagaku to Mahou no Kankei | 69100 | [69100-item-getter-bokura-no-kagaku-to-mahou-no-kankei.json](./69100-item-getter-bokura-no-kagaku-to-mahou-no-kankei.json) |
