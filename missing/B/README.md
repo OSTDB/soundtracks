@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6046,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Law: The Third Wave | 74077 | [74077-beyond-the-law-the-third-wave.json](./74077-beyond-the-law-the-third-wave.json) |
 | Beyond the Legend: Mysteries of Olympus | 106968 | [106968-beyond-the-legend-mysteries-of-olympus.json](./106968-beyond-the-legend-mysteries-of-olympus.json) |
 | Beyond the Lens | 244738 | [244738-beyond-the-lens.json](./244738-beyond-the-lens.json) |
+| Beyond the Map | 332913 | [332913-beyond-the-map.json](./332913-beyond-the-map.json) |
 | Beyond the Marion | 338233 | [338233-beyond-the-marion.json](./338233-beyond-the-marion.json) |
 | Beyond the Mind | 103837 | [103837-beyond-the-mind.json](./103837-beyond-the-mind.json) |
 | Beyond The Mist: Beginnings | 327908 | [327908-beyond-the-mist-beginnings.json](./327908-beyond-the-mist-beginnings.json) |
@@ -7986,6 +7988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksea Odyssey | 12979 | [12979-blacksea-odyssey.json](./12979-blacksea-odyssey.json) |
 | Blacksea Odyssey: Limited Edition | 166202 | [166202-blacksea-odyssey-limited-edition.json](./166202-blacksea-odyssey-limited-edition.json) |
 | BlackShadows | 34561 | [34561-blackshadows.json](./34561-blackshadows.json) |
+| Blackshard | 332935 | [332935-blackshard.json](./332935-blackshard.json) |
 | BlackShield: Upora Story | 81066 | [81066-blackshield-upora-story.json](./81066-blackshield-upora-story.json) |
 | Blackshift | 118147 | [118147-blackshift.json](./118147-blackshift.json) |
 | BlackShot | 33760 | [33760-blackshot.json](./33760-blackshot.json) |
@@ -10018,6 +10021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluem | 199396 | [199396-bluem.json](./199396-bluem.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | Blueman | 392717 | [392717-blueman.json](./392717-blueman.json) |
+| Blueprint Bob | 332948 | [332948-blueprint-bob.json](./332948-blueprint-bob.json) |
 | Blueprint Hell | 315782 | [315782-blueprint-hell.json](./315782-blueprint-hell.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blueprint Tycoon | 28727 | [28727-blueprint-tycoon.json](./28727-blueprint-tycoon.json) |
