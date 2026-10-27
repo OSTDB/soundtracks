@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Arrow Is Missing | 280738 | [280738-ice-arrow-is-missing.json](./280738-ice-arrow-is-missing.json) |
 | Ice Ball | 185466 | [185466-ice-ball.json](./185466-ice-ball.json) |
 | Ice Battle | 236933 | [236933-ice-battle.json](./236933-ice-battle.json) |
+| Ice Block Puzzle | 297428 | [297428-ice-block-puzzle.json](./297428-ice-block-puzzle.json) |
 | Ice Breaker | 280330 | [280330-ice-breaker.json](./280330-ice-breaker.json) |
 | Ice Breaker: The Gathering | 318166 | [318166-ice-breaker-the-gathering.json](./318166-ice-breaker-the-gathering.json) |
 | Ice Breaker: The Red Clan | 318165 | [318165-ice-breaker-the-red-clan.json](./318165-ice-breaker-the-red-clan.json) |
@@ -4063,6 +4064,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intellivision Collection 2 | 147179 | [147179-intellivision-collection-2.json](./147179-intellivision-collection-2.json) |
 | Intellivision Flashback | 57450 | [57450-intellivision-flashback.json](./57450-intellivision-flashback.json) |
 | Intellivision Greatest Hits: 20th Anniversary Edition | 210044 | [210044-intellivision-greatest-hits-20th-anniversary-edition.json](./210044-intellivision-greatest-hits-20th-anniversary-edition.json) |
+| Intellivision Lives! | 299109 | [299109-intellivision-lives.json](./299109-intellivision-lives.json) |
+| Intellivision Lives! | 299111 | [299111-intellivision-lives.json](./299111-intellivision-lives.json) |
 | Intellivision Lives! | 3956 | [3956-intellivision-lives.json](./3956-intellivision-lives.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intellivision Shark! Shark! Gen2 | 61858 | [61858-intellivision-shark-shark-gen2.json](./61858-intellivision-shark-shark-gen2.json) |
