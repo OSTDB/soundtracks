@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
 | Give Up 2 | 250183 | [250183-give-up-2.json](./250183-give-up-2.json) |
+| Give Up Robot 2 | 281591 | [281591-give-up-robot-2.json](./281591-give-up-robot-2.json) |
 | Give Up the Ghost: A Puzzle Checklist | 206471 | [206471-give-up-the-ghost-a-puzzle-checklist.json](./206471-give-up-the-ghost-a-puzzle-checklist.json) |
 | Giving Yourself Away | 340826 | [340826-giving-yourself-away.json](./340826-giving-yourself-away.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
@@ -6299,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
 | Gotham Knights: Collector's Edition | 201777 | [201777-gotham-knights-collectors-edition.json](./201777-gotham-knights-collectors-edition.json) |
 | Gotham Knights: Deluxe Edition | 201037 | [201037-gotham-knights-deluxe-edition.json](./201037-gotham-knights-deluxe-edition.json) |
+| Gotham Knights: Heroic Assault | 281430 | [281430-gotham-knights-heroic-assault.json](./281430-gotham-knights-heroic-assault.json) |
 | Gotham Knights: Heroic Assault: The Kelvin Incident | 281563 | [281563-gotham-knights-heroic-assault-the-kelvin-incident.json](./281563-gotham-knights-heroic-assault-the-kelvin-incident.json) |
 | Gotham Knights: Special Edition | 324765 | [324765-gotham-knights-special-edition.json](./324765-gotham-knights-special-edition.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
