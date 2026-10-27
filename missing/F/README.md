@@ -6716,7 +6716,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Trip | 233108 | [233108-flip-trip.json](./233108-flip-trip.json) |
 | Flip Words | 77381 | [77381-flip-words.json](./77381-flip-words.json) |
 | Flip XY | 180099 | [180099-flip-xy.json](./180099-flip-xy.json) |
+| Flip-Flip | 304066 | [304066-flip-flip.json](./304066-flip-flip.json) |
 | Flip-Flip Jigsaw Girls | 410383 | [410383-flip-flip-jigsaw-girls.json](./410383-flip-flip-jigsaw-girls.json) |
+| Flip-Flip plus | 304067 | [304067-flip-flip-plus.json](./304067-flip-flip-plus.json) |
 | Flip-Flop Fury | 402521 | [402521-flip-flop-fury.json](./402521-flip-flop-fury.json) |
 | Flip-It | 159167 | [159167-flip-it.json](./159167-flip-it.json) |
 | Flip-it & Magnose | 79067 | [79067-flip-it-and-magnose.json](./79067-flip-it-and-magnose.json) |
@@ -7148,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluff Labs | 155857 | [155857-fluff-labs.json](./155857-fluff-labs.json) |
 | Fluff Up | 405579 | [405579-fluff-up.json](./405579-fluff-up.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
+| Fluff's Adventure: A Tale of Fur and Steel | 303992 | [303992-fluffs-adventure-a-tale-of-fur-and-steel.json](./303992-fluffs-adventure-a-tale-of-fur-and-steel.json) |
 | Fluffland | 183421 | [183421-fluffland.json](./183421-fluffland.json) |
 | Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
 | Flufftopia: Fluffmazing Edition | 386272 | [386272-flufftopia-fluffmazing-edition.json](./386272-flufftopia-fluffmazing-edition.json) |
