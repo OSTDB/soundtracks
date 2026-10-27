@@ -9143,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FotoMuseo 3D | 420770 | [420770-fotomuseo-3d.json](./420770-fotomuseo-3d.json) |
 | Fotress S | 245985 | [245985-fotress-s.json](./245985-fotress-s.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
+| Foul | 302898 | [302898-foul.json](./302898-foul.json) |
 | Foul Play | 160072 | [160072-foul-play.json](./160072-foul-play.json) |
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
 | Foul Play - Mystery at Awkward Manor | 127783 | [127783-foul-play-mystery-at-awkward-manor.json](./127783-foul-play-mystery-at-awkward-manor.json) |
@@ -11408,6 +11409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
 | Funky Monkey: Time to Slack Off! | 373671 | [373671-funky-monkey-time-to-slack-off.json](./373671-funky-monkey-time-to-slack-off.json) |
 | Funky Mouse | 93482 | [93482-funky-mouse.json](./93482-funky-mouse.json) |
+| Funky Panic Attack | 302912 | [302912-funky-panic-attack.json](./302912-funky-panic-attack.json) |
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
 | Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
