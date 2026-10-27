@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radar N Rockets | 256209 | [256209-radar-n-rockets.json](./256209-radar-n-rockets.json) |
 | Radar Scope | 39391 | [39391-radar-scope.json](./39391-radar-scope.json) |
 | Radar Simulation | 25487 | [25487-radar-simulation.json](./25487-radar-simulation.json) |
+| Radar Zone | 281861 | [281861-radar-zone.json](./281861-radar-zone.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
@@ -2672,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Bad Chess | 56131 | [56131-really-bad-chess.json](./56131-really-bad-chess.json) |
 | Really Boring Website | 142974 | [142974-really-boring-website.json](./142974-really-boring-website.json) |
 | Really Dog | 276182 | [276182-really-dog.json](./276182-really-dog.json) |
+| Really Dog: DLC | 282170 | [282170-really-dog-dlc.json](./282170-really-dog-dlc.json) |
 | Really Happy Mouse | 241409 | [241409-really-happy-mouse.json](./241409-really-happy-mouse.json) |
 | Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
 | Really Simple Golf | 303712 | [303712-really-simple-golf.json](./303712-really-simple-golf.json) |
