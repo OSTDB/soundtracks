@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Iceblade of Narin | 419360 | [419360-warframe-iceblade-of-narin.json](./419360-warframe-iceblade-of-narin.json) |
 | Warframe: Initiate Power Pack | 374143 | [374143-warframe-initiate-power-pack.json](./374143-warframe-initiate-power-pack.json) |
 | Warframe: Isleweaver | 421816 | [421816-warframe-isleweaver.json](./421816-warframe-isleweaver.json) |
+| Warframe: Jade Chorus Pack | 318444 | [318444-warframe-jade-chorus-pack.json](./318444-warframe-jade-chorus-pack.json) |
 | Warframe: Jade Shadows | 306772 | [306772-warframe-jade-shadows.json](./306772-warframe-jade-shadows.json) |
 | Warframe: Koumei & the Five Fates | 421814 | [421814-warframe-koumei-and-the-five-fates.json](./421814-warframe-koumei-and-the-five-fates.json) |
 | Warframe: Nyx Warframe | 325577 | [325577-warframe-nyx-warframe.json](./325577-warframe-nyx-warframe.json) |
@@ -6276,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
 | Woody Woodpecker Racing | 259482 | [259482-woody-woodpecker-racing.json](./259482-woody-woodpecker-racing.json) |
 | Woody Woodpecker Racing | 8013 | [8013-woody-woodpecker-racing.json](./8013-woody-woodpecker-racing.json) |
+| Woody Woodpecker: Escape from Buzz Buzzard Park | 318380 | [318380-woody-woodpecker-escape-from-buzz-buzzard-park.json](./318380-woody-woodpecker-escape-from-buzz-buzzard-park.json) |
 | Woody Woodpecker: Escape from Buzz Buzzard Park | 43561 | [43561-woody-woodpecker-escape-from-buzz-buzzard-park.json](./43561-woody-woodpecker-escape-from-buzz-buzzard-park.json) |
 | Woody's Incredible Journey to the Escape from Eternal Terror | 265684 | [265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json](./265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json) |
 | WoodZone | 107815 | [107815-woodzone.json](./107815-woodzone.json) |
