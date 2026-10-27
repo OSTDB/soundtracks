@@ -818,7 +818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3170,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Gear 3 | 286628 | [286628-battle-gear-3.json](./286628-battle-gear-3.json) |
 | Battle Gear 3 | 91877 | [91877-battle-gear-3.json](./91877-battle-gear-3.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
+| Battle Gear 4 Tuned | 323668 | [323668-battle-gear-4-tuned.json](./323668-battle-gear-4-tuned.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
 | Battle Girls | 34405 | [34405-battle-girls.json](./34405-battle-girls.json) |
 | Battle Golf | 233922 | [233922-battle-golf.json](./233922-battle-golf.json) |
@@ -5987,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Melee | 294576 | [294576-beyond-melee.json](./294576-beyond-melee.json) |
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Memories: Darkness of the Soul | 328568 | [328568-beyond-memories-darkness-of-the-soul.json](./328568-beyond-memories-darkness-of-the-soul.json) |
+| Beyond Memories: Tale of the Lost Souls | 323657 | [323657-beyond-memories-tale-of-the-lost-souls.json](./323657-beyond-memories-tale-of-the-lost-souls.json) |
 | Beyond Minimalism | 102923 | [102923-beyond-minimalism.json](./102923-beyond-minimalism.json) |
 | Beyond Myths | 224708 | [224708-beyond-myths.json](./224708-beyond-myths.json) |
 | Beyond One's Past | 333979 | [333979-beyond-ones-past.json](./333979-beyond-ones-past.json) |
@@ -6769,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bîme | 251828 | [251828-bime.json](./251828-bime.json) |
 | Bimfli & His Time Travels: Egypt | 328557 | [328557-bimfli-and-his-time-travels-egypt.json](./328557-bimfli-and-his-time-travels-egypt.json) |
 | Bimfli & His Time Travels: Japan | 328556 | [328556-bimfli-and-his-time-travels-japan.json](./328556-bimfli-and-his-time-travels-japan.json) |
+| Bimfli & His Time Travels: Paris | 323692 | [323692-bimfli-and-his-time-travels-paris.json](./323692-bimfli-and-his-time-travels-paris.json) |
 | Bimfli and His Travels In Time: Greece | 328558 | [328558-bimfli-and-his-travels-in-time-greece.json](./328558-bimfli-and-his-travels-in-time-greece.json) |
 | BimiCraft: Beyond Earth | 412886 | [412886-bimicraft-beyond-earth.json](./412886-bimicraft-beyond-earth.json) |
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
@@ -10370,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Recorded | 377079 | [377079-bodycam-recorded.json](./377079-bodycam-recorded.json) |
 | Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
 | Bodycam Shooter 2025 | 330807 | [330807-bodycam-shooter-2025.json](./330807-bodycam-shooter-2025.json) |
+| Bodycam Unrecord Shooter | 323681 | [323681-bodycam-unrecord-shooter.json](./323681-bodycam-unrecord-shooter.json) |
 | BodyCam Zombie Waves | 343495 | [343495-bodycam-zombie-waves.json](./343495-bodycam-zombie-waves.json) |
 | Bodycamera FPS | 400174 | [400174-bodycamera-fps.json](./400174-bodycamera-fps.json) |
 | Bodycheck | 10666 | [10666-bodycheck.json](./10666-bodycheck.json) |
@@ -11962,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowmen | 277383 | [277383-bowmen.json](./277383-bowmen.json) |
 | Bows Space | 359396 | [359396-bows-space.json](./359396-bows-space.json) |
 | Bowser Blast | 307410 | [307410-bowser-blast.json](./307410-bowser-blast.json) |
+| Bowser Jr: A New Beginning | 323678 | [323678-bowser-jr-a-new-beginning.json](./323678-bowser-jr-a-new-beginning.json) |
 | Bowser Jr.'s Journey | 266895 | [266895-bowser-jr-s-journey.json](./266895-bowser-jr-s-journey.json) |
 | Bowser's Dank Rave 2017 Edition: Extra Long Name That I Don't Feel Like Typing | 313330 | [313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json](./313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json) |
 | Bowser's Dark Story | 155012 | [155012-bowsers-dark-story.json](./155012-bowsers-dark-story.json) |
@@ -14817,6 +14821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker 1945: Capture the Gray Wolf | 415073 | [415073-bunker-1945-capture-the-gray-wolf.json](./415073-bunker-1945-capture-the-gray-wolf.json) |
 | Bunker 22 | 203892 | [203892-bunker-22.json](./203892-bunker-22.json) |
 | Bunker 2322 | 196263 | [196263-bunker-2322.json](./196263-bunker-2322.json) |
+| Bunker 3D | 323655 | [323655-bunker-3d.json](./323655-bunker-3d.json) |
 | Bunker 58 | 29638 | [29638-bunker-58.json](./29638-bunker-58.json) |
 | Bunker Builder & Construction Simulator | 328562 | [328562-bunker-builder-and-construction-simulator.json](./328562-bunker-builder-and-construction-simulator.json) |
 | Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
