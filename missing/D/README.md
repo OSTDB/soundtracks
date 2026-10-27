@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
 | Dawn Awakening | 174705 | [174705-dawn-awakening.json](./174705-dawn-awakening.json) |
 | Dawn Break -Origin- | 117629 | [117629-dawn-break-origin.json](./117629-dawn-break-origin.json) |
+| Dawn Break: Night Witch | 294678 | [294678-dawn-break-night-witch.json](./294678-dawn-break-night-witch.json) |
 | Dawn Break: The Flaming Emperor | 95690 | [95690-dawn-break-the-flaming-emperor.json](./95690-dawn-break-the-flaming-emperor.json) |
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
 | Dawn City | 81775 | [81775-dawn-city.json](./81775-dawn-city.json) |
@@ -2635,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Dual Force | 212690 | [212690-dc-dual-force.json](./212690-dc-dual-force.json) |
 | DC Heroes United | 323030 | [323030-dc-heroes-united.json](./323030-dc-heroes-united.json) |
 | DC Super Hero Girls | 58643 | [58643-dc-super-hero-girls.json](./58643-dc-super-hero-girls.json) |
+| DC Super Hero Girls: Blitz | 294679 | [294679-dc-super-hero-girls-blitz.json](./294679-dc-super-hero-girls-blitz.json) |
 | DC Super Hero Girls: Food Fight | 316786 | [316786-dc-super-hero-girls-food-fight.json](./316786-dc-super-hero-girls-food-fight.json) |
 | DC Super Hero Girls: Teen Power | 143617 | [143617-dc-super-hero-girls-teen-power.json](./143617-dc-super-hero-girls-teen-power.json) |
 | DC Task Force | 327754 | [327754-dc-task-force.json](./327754-dc-task-force.json) |
@@ -3119,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Moon: Revenge on Phobos | 51509 | [51509-dead-moon-revenge-on-phobos.json](./51509-dead-moon-revenge-on-phobos.json) |
 | Dead Motherland: Zombie Co-op | 127731 | [127731-dead-motherland-zombie-co-op.json](./127731-dead-motherland-zombie-co-op.json) |
 | Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
+| Dead Names | 294647 | [294647-dead-names.json](./294647-dead-names.json) |
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead Nation: Apocalypse Edition | 20063 | [20063-dead-nation-apocalypse-edition.json](./20063-dead-nation-apocalypse-edition.json) |
 | Dead Nation: Road to Devastation | 20336 | [20336-dead-nation-road-to-devastation.json](./20336-dead-nation-road-to-devastation.json) |
@@ -11053,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny Worlds: Ultimate Supporter Edition | 255260 | [255260-doom-and-destiny-worlds-ultimate-supporter-edition.json](./255260-doom-and-destiny-worlds-ultimate-supporter-edition.json) |
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
+| Doom 2 In Name Only | 294749 | [294749-doom-2-in-name-only.json](./294749-doom-2-in-name-only.json) |
 | Doom 2 In Spain Only | 258890 | [258890-doom-2-in-spain-only.json](./258890-doom-2-in-spain-only.json) |
 | Doom 2 Reloaded | 160288 | [160288-doom-2-reloaded.json](./160288-doom-2-reloaded.json) |
 | Doom 2 the Way id Did | 141066 | [141066-doom-2-the-way-id-did.json](./141066-doom-2-the-way-id-did.json) |
