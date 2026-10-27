@@ -3857,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For America: Zap Edition | 399817 | [399817-fight-for-america-zap-edition.json](./399817-fight-for-america-zap-edition.json) |
 | Fight For Eden | 164989 | [164989-fight-for-eden.json](./164989-fight-for-eden.json) |
 | Fight for Eden: Heat | 253943 | [253943-fight-for-eden-heat.json](./253943-fight-for-eden-heat.json) |
+| Fight for Freedom: Civil War | 294192 | [294192-fight-for-freedom-civil-war.json](./294192-fight-for-freedom-civil-war.json) |
 | Fight for Gold II | 111854 | [111854-fight-for-gold-ii.json](./111854-fight-for-gold-ii.json) |
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
@@ -6062,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights with Firearms | 405308 | [405308-five-nights-with-firearms.json](./405308-five-nights-with-firearms.json) |
 | Five Nights with Floppa: R | 370213 | [370213-five-nights-with-floppa-r.json](./370213-five-nights-with-floppa-r.json) |
 | Five Nights With James | 212249 | [212249-five-nights-with-james.json](./212249-five-nights-with-james.json) |
+| Five Nights With Los Penguinos | 293579 | [293579-five-nights-with-los-penguinos.json](./293579-five-nights-with-los-penguinos.json) |
 | Five Nights with Mac Tonight | 268031 | [268031-five-nights-with-mac-tonight.json](./268031-five-nights-with-mac-tonight.json) |
 | Five Nights with Mac Tonight 2 | 305326 | [305326-five-nights-with-mac-tonight-2.json](./305326-five-nights-with-mac-tonight-2.json) |
 | Five Nights with Maids | 405935 | [405935-five-nights-with-maids.json](./405935-five-nights-with-maids.json) |
@@ -10531,6 +10533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogmaster | 268035 | [268035-frogmaster.json](./268035-frogmaster.json) |
 | Frogmonster | 187372 | [187372-frogmonster.json](./187372-frogmonster.json) |
 | Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
+| Frogo Jump | 293601 | [293601-frogo-jump.json](./293601-frogo-jump.json) |
 | Frogreign | 260558 | [260558-frogreign.json](./260558-frogreign.json) |
 | Frogs | 229253 | [229253-frogs.json](./229253-frogs.json) |
 | Frogs | 318688 | [318688-frogs.json](./318688-frogs.json) |
@@ -10761,6 +10764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontlines: Fuel of War | 6997 | [6997-frontlines-fuel-of-war.json](./6997-frontlines-fuel-of-war.json) |
 | Frontrunners | 171518 | [171518-frontrunners.json](./171518-frontrunners.json) |
 | FrontWars | 364859 | [364859-frontwars.json](./364859-frontwars.json) |
+| Frood Robotics | 294121 | [294121-frood-robotics.json](./294121-frood-robotics.json) |
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
 | Froooog | 315943 | [315943-froooog.json](./315943-froooog.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
@@ -11016,6 +11020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fry Egg | 246274 | [246274-fry-egg.json](./246274-fry-egg.json) |
 | Fry Me Omelettes | 95969 | [95969-fry-me-omelettes.json](./95969-fry-me-omelettes.json) |
 | FRZ Racing | 238926 | [238926-frz-racing.json](./238926-frz-racing.json) |
+| FSA Driving | 294102 | [294102-fsa-driving.json](./294102-fsa-driving.json) |
 | FSKN | 350357 | [350357-fskn.json](./350357-fskn.json) |
 | FSR: French Street Racing | 208480 | [208480-fsr-french-street-racing.json](./208480-fsr-french-street-racing.json) |
 | FT Nibbles | 137379 | [137379-ft-nibbles.json](./137379-ft-nibbles.json) |
