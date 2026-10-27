@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
 | A.B.Cop Air Bike | 39363 | [39363-a-b-cop-air-bike.json](./39363-a-b-cop-air-bike.json) |
 | A.C.E | 338346 | [338346-a-c-e.json](./338346-a-c-e.json) |
+| A.C.E.: Air Combat Elite | 326027 | [326027-a-c-e-air-combat-elite.json](./326027-a-c-e-air-combat-elite.json) |
 | A.C.I.T. Soup | 406706 | [406706-a-c-i-t-soup.json](./406706-a-c-i-t-soup.json) |
 | A.D. 2044 | 93168 | [93168-a-d-2044.json](./93168-a-d-2044.json) |
 | A.D. 2083 | 46766 | [46766-a-d-2083.json](./46766-a-d-2083.json) |
@@ -12445,6 +12446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascending Realms | 338533 | [338533-ascending-realms.json](./338533-ascending-realms.json) |
 | Ascending: Dojo | 170523 | [170523-ascending-dojo.json](./170523-ascending-dojo.json) |
 | Ascendora | 349466 | [349466-ascendora.json](./349466-ascendora.json) |
+| Ascendrix | 326005 | [326005-ascendrix.json](./326005-ascendrix.json) |
 | Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascendshaft and Endless Shaft | 144174 | [144174-ascendshaft-and-endless-shaft.json](./144174-ascendshaft-and-endless-shaft.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
