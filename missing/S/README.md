@@ -13587,7 +13587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Crisis | 171963 | [171963-soda-crisis.json](./171963-soda-crisis.json) |
 | Soda Drinker Pro | 20037 | [20037-soda-drinker-pro.json](./20037-soda-drinker-pro.json) |
 | Soda Dungeon | 27685 | [27685-soda-dungeon.json](./27685-soda-dungeon.json) |
-| Soda Dungeon 2 | 122712 | [122712-soda-dungeon-2.json](./122712-soda-dungeon-2.json) |
 | Soda Hunt | 221793 | [221793-soda-hunt.json](./221793-soda-hunt.json) |
 | Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
 | Soda Sabotage | 200469 | [200469-soda-sabotage.json](./200469-soda-sabotage.json) |
@@ -19402,7 +19401,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotto! | 80154 | [80154-spotto.json](./80154-spotto.json) |
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Spram's Metroid Doom | 142220 | [142220-sprams-metroid-doom.json](./142220-sprams-metroid-doom.json) |
-| Sprawl | 143627 | [143627-sprawl.json](./143627-sprawl.json) |
 | Sprawl | 57467 | [57467-sprawl.json](./57467-sprawl.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spray | 385404 | [385404-spray.json](./385404-spray.json) |
