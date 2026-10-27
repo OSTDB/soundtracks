@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | A (W)hole lot of Colors | 177479 | [177479-a-w-hole-lot-of-colors.json](./177479-a-w-hole-lot-of-colors.json) |
+| A 20 Second Platformer | 305727 | [305727-a-20-second-platformer.json](./305727-a-20-second-platformer.json) |
 | A 20-year-old game is being remade with the newest engine RPG Maker Unite and distributed for free?: RPG Maker's heroes vs. the demon king | 334608 | [334608-a-20-year-old-game-is-being-remade-with-the-newest-engine-rpg-maker-unite-and-distributed-for-free-rpg-makers-heroes-vs-the-demon-king.json](./334608-a-20-year-old-game-is-being-remade-with-the-newest-engine-rpg-maker-unite-and-distributed-for-free-rpg-makers-heroes-vs-the-demon-king.json) |
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
 | A 2nd X Thing Episode 2: Digital Groove | 287845 | [287845-a-2nd-x-thing-episode-2-digital-groove.json](./287845-a-2nd-x-thing-episode-2-digital-groove.json) |
@@ -1857,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Death | 159578 | [159578-abyss-of-death.json](./159578-abyss-of-death.json) |
 | Abyss of Doom | 403689 | [403689-abyss-of-doom.json](./403689-abyss-of-doom.json) |
 | Abyss of Dungeons | 306976 | [306976-abyss-of-dungeons.json](./306976-abyss-of-dungeons.json) |
+| Abyss of Empires:The Mythology | 305830 | [305830-abyss-of-empires-the-mythology.json](./305830-abyss-of-empires-the-mythology.json) |
 | Abyss of Gloom | 287347 | [287347-abyss-of-gloom.json](./287347-abyss-of-gloom.json) |
 | Abyss of Light | 283876 | [283876-abyss-of-light.json](./283876-abyss-of-light.json) |
 | Abyss of Neptune | 145563 | [145563-abyss-of-neptune.json](./145563-abyss-of-neptune.json) |
@@ -2402,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Wonderlands | 320476 | [320476-across-the-wonderlands.json](./320476-across-the-wonderlands.json) |
 | Across-Stitch | 226098 | [226098-across-stitch.json](./226098-across-stitch.json) |
 | Acrostics on Stream | 261264 | [261264-acrostics-on-stream.json](./261264-acrostics-on-stream.json) |
+| Acrylic Nails! | 305792 | [305792-acrylic-nails.json](./305792-acrylic-nails.json) |
 | Acrylic Palette: Irodori Cafe - Cheers | 222463 | [222463-acrylic-palette-irodori-cafe-cheers.json](./222463-acrylic-palette-irodori-cafe-cheers.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | AcShooting | 270003 | [270003-acshooting.json](./270003-acshooting.json) |
@@ -11771,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARMA: Gold Edition | 27937 | [27937-arma-gold-edition.json](./27937-arma-gold-edition.json) |
 | ArmaCulture | 148310 | [148310-armaculture.json](./148310-armaculture.json) |
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
+| Armada | 305826 | [305826-armada.json](./305826-armada.json) |
 | Armada | 346920 | [346920-armada.json](./346920-armada.json) |
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
 | Armada 2: Exodus | 364362 | [364362-armada-2-exodus.json](./364362-armada-2-exodus.json) |
