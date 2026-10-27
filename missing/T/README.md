@@ -8409,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
 | The Game of Robot | 69716 | [69716-the-game-of-robot.json](./69716-the-game-of-robot.json) |
 | The Game of Squids: Ultimate Parody Game | 181000 | [181000-the-game-of-squids-ultimate-parody-game.json](./181000-the-game-of-squids-ultimate-parody-game.json) |
+| The Game of the Goose | 317172 | [317172-the-game-of-the-goose.json](./317172-the-game-of-the-goose.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
 | The Game of Worlds Tournament! | 57485 | [57485-the-game-of-worlds-tournament.json](./57485-the-game-of-worlds-tournament.json) |
