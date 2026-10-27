@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Service | 387601 | [387601-haunted-service.json](./387601-haunted-service.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Starbase | 317360 | [317360-haunted-starbase.json](./317360-haunted-starbase.json) |
+| Haunted Streamer | 331236 | [331236-haunted-streamer.json](./331236-haunted-streamer.json) |
 | Haunted Theme Park Hidden Object | 99503 | [99503-haunted-theme-park-hidden-object.json](./99503-haunted-theme-park-hidden-object.json) |
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
 | Haunted Train: Frozen in Time - Collector's Edition | 76478 | [76478-haunted-train-frozen-in-time-collectors-edition.json](./76478-haunted-train-frozen-in-time-collectors-edition.json) |
