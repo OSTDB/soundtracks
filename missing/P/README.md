@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzerkampf | 282075 | [282075-panzerkampf.json](./282075-panzerkampf.json) |
 | Panzermadels: Tank Dating Simulator | 34987 | [34987-panzermadels-tank-dating-simulator.json](./34987-panzermadels-tank-dating-simulator.json) |
 | Panzers East! | 24673 | [24673-panzers-east.json](./24673-panzers-east.json) |
+| Pao Pao | 318956 | [318956-pao-pao.json](./318956-pao-pao.json) |
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
 | Paon: Beyond the Pien | 153164 | [153164-paon-beyond-the-pien.json](./153164-paon-beyond-the-pien.json) |
 | Pãozito | 256120 | [256120-paozito.json](./256120-paozito.json) |
@@ -6043,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinecone Grove | 420513 | [420513-pinecone-grove.json](./420513-pinecone-grove.json) |
 | Pinedrop Vale | 358655 | [358655-pinedrop-vale.json](./358655-pinedrop-vale.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
+| Pinevale Settlements | 319053 | [319053-pinevale-settlements.json](./319053-pinevale-settlements.json) |
 | Pineview Drive: Homeless | 116487 | [116487-pineview-drive-homeless.json](./116487-pineview-drive-homeless.json) |
 | Pineview Drive: Rising Storm | 234706 | [234706-pineview-drive-rising-storm.json](./234706-pineview-drive-rising-storm.json) |
 | Pinewater | 413782 | [413782-pinewater.json](./413782-pinewater.json) |
@@ -12918,6 +12920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Problem Attic | 76159 | [76159-problem-attic.json](./76159-problem-attic.json) |
 | Problem Here | 144078 | [144078-problem-here.json](./144078-problem-here.json) |
 | Problem Sleuth | 336732 | [336732-problem-sleuth.json](./336732-problem-sleuth.json) |
+| Problem Solver Club | 319034 | [319034-problem-solver-club.json](./319034-problem-solver-club.json) |
 | Problem Trolley | 202044 | [202044-problem-trolley.json](./202044-problem-trolley.json) |
 | Problematic | 409388 | [409388-problematic.json](./409388-problematic.json) |
 | Problemlöser | 277936 | [277936-problemloser.json](./277936-problemloser.json) |
@@ -14136,6 +14139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prove You Can Win | 341441 | [341441-prove-you-can-win.json](./341441-prove-you-can-win.json) |
 | Prove You're Human | 397804 | [397804-prove-youre-human.json](./397804-prove-youre-human.json) |
 | Proven: A Math RPG | 158059 | [158059-proven-a-math-rpg.json](./158059-proven-a-math-rpg.json) |
+| Proverbs | 318962 | [318962-proverbs.json](./318962-proverbs.json) |
 | Proviant | 90618 | [90618-proviant.json](./90618-proviant.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
 | Providentia Academy | 341440 | [341440-providentia-academy.json](./341440-providentia-academy.json) |
