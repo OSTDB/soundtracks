@@ -4957,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsutake Game | 294007 | [294007-matsutake-game.json](./294007-matsutake-game.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
 | Matt Murphy: The Case of the Stone Guest | 309715 | [309715-matt-murphy-the-case-of-the-stone-guest.json](./309715-matt-murphy-the-case-of-the-stone-guest.json) |
+| Matt Patrol | 283012 | [283012-matt-patrol.json](./283012-matt-patrol.json) |
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
 | Matta Blatta | 60346 | [60346-matta-blatta.json](./60346-matta-blatta.json) |
 | Mattami Restaurant & Cafe Tycoon | 292421 | [292421-mattami-restaurant-and-cafe-tycoon.json](./292421-mattami-restaurant-and-cafe-tycoon.json) |
@@ -13472,6 +13473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hearts R | 268394 | [268394-monster-hearts-r.json](./268394-monster-hearts-r.json) |
 | Monster Hero | 19127 | [19127-monster-hero.json](./19127-monster-hero.json) |
 | Monster Hero | 303057 | [303057-monster-hero.json](./303057-monster-hero.json) |
+| Monster Hide | 283320 | [283320-monster-hide.json](./283320-monster-hide.json) |
 | Monster High Skulltimate Secrets | 314521 | [314521-monster-high-skulltimate-secrets.json](./314521-monster-high-skulltimate-secrets.json) |
 | Monster High: 13 Wishes | 25142 | [25142-monster-high-13-wishes.json](./25142-monster-high-13-wishes.json) |
 | Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
@@ -14156,6 +14158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
 | Moon Lab Shooter | 235773 | [235773-moon-lab-shooter.json](./235773-moon-lab-shooter.json) |
+| Moon Lander | 283025 | [283025-moon-lander.json](./283025-moon-lander.json) |
 | Moon Lander | 41989 | [41989-moon-lander.json](./41989-moon-lander.json) |
 | Moon Landing | 235079 | [235079-moon-landing.json](./235079-moon-landing.json) |
 | Moon Landing | 235081 | [235081-moon-landing.json](./235081-moon-landing.json) |
