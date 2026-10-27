@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Breakout | 276264 | [276264-galactic-breakout.json](./276264-galactic-breakout.json) |
 | Galactic Bulwark Strike | 100629 | [100629-galactic-bulwark-strike.json](./100629-galactic-bulwark-strike.json) |
 | Galactic Campaign | 116878 | [116878-galactic-campaign.json](./116878-galactic-campaign.json) |
+| Galactic Caretaker | 319050 | [319050-galactic-caretaker.json](./319050-galactic-caretaker.json) |
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Chase | 24826 | [24826-galactic-chase.json](./24826-galactic-chase.json) |
@@ -4656,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Net | 128862 | [128862-go-net.json](./128862-go-net.json) |
 | Go Next! | 415995 | [415995-go-next.json](./415995-go-next.json) |
 | Go Noodle | 275687 | [275687-go-noodle.json](./275687-go-noodle.json) |
+| Go North | 319058 | [319058-go-north.json](./319058-go-north.json) |
 | Go Nutz | 217271 | [217271-go-nutz.json](./217271-go-nutz.json) |
 | Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
@@ -5206,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
 | Godstone | 187822 | [187822-godstone.json](./187822-godstone.json) |
+| Godstone Tactics | 319041 | [319041-godstone-tactics.json](./319041-godstone-tactics.json) |
 | Godstrike | 141527 | [141527-godstrike.json](./141527-godstrike.json) |
 | Godstruction | 126276 | [126276-godstruction.json](./126276-godstruction.json) |
 | Godsvivors | 260518 | [260518-godsvivors.json](./260518-godsvivors.json) |
