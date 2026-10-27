@@ -14079,6 +14079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive of the Dead | 414854 | [414854-drive-of-the-dead.json](./414854-drive-of-the-dead.json) |
 | Drive On Lucy | 323299 | [323299-drive-on-lucy.json](./323299-drive-on-lucy.json) |
 | Drive or Die | 156706 | [156706-drive-or-die.json](./156706-drive-or-die.json) |
+| Drive Out | 311525 | [311525-drive-out.json](./311525-drive-out.json) |
 | Drive Real Truck SImulator | 409625 | [409625-drive-real-truck-simulator.json](./409625-drive-real-truck-simulator.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Switch Evade | 103826 | [103826-drive-switch-evade.json](./103826-drive-switch-evade.json) |
@@ -14625,6 +14626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Universe | 19548 | [19548-dual-universe.json](./19548-dual-universe.json) |
 | Dual! | 90676 | [90676-dual.json](./90676-dual.json) |
 | DualForce Idle | 183551 | [183551-dualforce-idle.json](./183551-dualforce-idle.json) |
+| DuaLight | 311552 | [311552-dualight.json](./311552-dualight.json) |
 | Dualikiwi | 297086 | [297086-dualikiwi.json](./297086-dualikiwi.json) |
 | Dualism | 142906 | [142906-dualism.json](./142906-dualism.json) |
 | Duality | 112786 | [112786-duality.json](./112786-duality.json) |
