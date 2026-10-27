@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O reino em outro mundo | 315131 | [315131-o-reino-em-outro-mundo.json](./315131-o-reino-em-outro-mundo.json) |
 | O Réquiem das Crianças | 385652 | [385652-o-requiem-das-criancas.json](./385652-o-requiem-das-criancas.json) |
 | O Salão Encantado | 216274 | [216274-o-salao-encantado.json](./216274-o-salao-encantado.json) |
+| O Sítio do Picapau Amarelo: As Reinações de Narizinho | 286924 | [286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json](./286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json) |
 | O Vagabundo | 290018 | [290018-o-vagabundo.json](./290018-o-vagabundo.json) |
 | O Viajante | 281889 | [281889-o-viajante.json](./281889-o-viajante.json) |
 | O-Bot The Robot | 336608 | [336608-o-bot-the-robot.json](./336608-o-bot-the-robot.json) |
