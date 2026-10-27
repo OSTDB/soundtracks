@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acute Art VR Museum | 87945 | [87945-acute-art-vr-museum.json](./87945-acute-art-vr-museum.json) |
 | ACUVAC: A Suck And Blow Adventure | 318561 | [318561-acuvac-a-suck-and-blow-adventure.json](./318561-acuvac-a-suck-and-blow-adventure.json) |
 | Ad Agency Simulator | 291326 | [291326-ad-agency-simulator.json](./291326-ad-agency-simulator.json) |
+| Ad Astra | 294670 | [294670-ad-astra.json](./294670-ad-astra.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Astra Infinita: The New Evolution | 367170 | [367170-ad-astra-infinita-the-new-evolution.json](./367170-ad-astra-infinita-the-new-evolution.json) |
 | Ad Astra: Sci-Fi Tower Defense | 326232 | [326232-ad-astra-sci-fi-tower-defense.json](./326232-ad-astra-sci-fi-tower-defense.json) |
@@ -5478,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleya's Ascent | 142840 | [142840-aleyas-ascent.json](./142840-aleyas-ascent.json) |
 | Alf | 65580 | [65580-alf.json](./65580-alf.json) |
 | Alf in the Color Caves | 59502 | [59502-alf-in-the-color-caves.json](./59502-alf-in-the-color-caves.json) |
+| Alf Jonathan y la piedra de los Valcroix | 294645 | [294645-alf-jonathan-y-la-piedra-de-los-valcroix.json](./294645-alf-jonathan-y-la-piedra-de-los-valcroix.json) |
 | ALF: The First Adventure | 12249 | [12249-alf-the-first-adventure.json](./12249-alf-the-first-adventure.json) |
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
@@ -6680,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altair Assault | 117138 | [117138-altair-assault.json](./117138-altair-assault.json) |
 | Altair Breaker | 208682 | [208682-altair-breaker.json](./208682-altair-breaker.json) |
 | Altair Breaker: Legend Set | 221612 | [221612-altair-breaker-legend-set.json](./221612-altair-breaker-legend-set.json) |
+| Altalite | 294673 | [294673-altalite.json](./294673-altalite.json) |
 | Altar | 25598 | [25598-altar.json](./25598-altar.json) |
 | Altar | 337820 | [337820-altar.json](./337820-altar.json) |
 | Altar Corp | 409225 | [409225-altar-corp.json](./409225-altar-corp.json) |
