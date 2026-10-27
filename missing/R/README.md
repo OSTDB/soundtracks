@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
 | Recession | 38797 | [38797-recession.json](./38797-recession.json) |
 | Recettear: An Item Shop's Tale | 12524 | [12524-recettear-an-item-shops-tale.json](./12524-recettear-an-item-shops-tale.json) |
+| Recettear: An Item Shop's Tale HD Edition | 327136 | [327136-recettear-an-item-shops-tale-hd-edition.json](./327136-recettear-an-item-shops-tale-hd-edition.json) |
 | Recharge | 332861 | [332861-recharge.json](./332861-recharge.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
@@ -4669,12 +4670,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2 | 396728 | [396728-resident-evil-2.json](./396728-resident-evil-2.json) |
 | Resident Evil 2 + Resident Evil 3 Bundle | 167078 | [167078-resident-evil-2-resident-evil-3-bundle.json](./167078-resident-evil-2-resident-evil-3-bundle.json) |
 | Resident Evil 2: Arcade | 387130 | [387130-resident-evil-2-arcade.json](./387130-resident-evil-2-arcade.json) |
+| Resident Evil 2: Claire Costume '98 | 327113 | [327113-resident-evil-2-claire-costume-98.json](./327113-resident-evil-2-claire-costume-98.json) |
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Deluxe Edition | 110809 | [110809-resident-evil-2-deluxe-edition.json](./110809-resident-evil-2-deluxe-edition.json) |
 | Resident Evil 2: Dual Shock Ver. | 213875 | [213875-resident-evil-2-dual-shock-ver.json](./213875-resident-evil-2-dual-shock-ver.json) |
 | Resident Evil 2: Extra DLC Pack | 164773 | [164773-resident-evil-2-extra-dlc-pack.json](./164773-resident-evil-2-extra-dlc-pack.json) |
 | Resident Evil 2: Kendo's Cut | 225802 | [225802-resident-evil-2-kendos-cut.json](./225802-resident-evil-2-kendos-cut.json) |
+| Resident Evil 2: Leon Costume '98 | 327114 | [327114-resident-evil-2-leon-costume-98.json](./327114-resident-evil-2-leon-costume-98.json) |
 | Resident Evil 2: Marvin's Mod | 333762 | [333762-resident-evil-2-marvins-mod.json](./333762-resident-evil-2-marvins-mod.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
 | Resident Evil 2: Seamless HD Project | 322045 | [322045-resident-evil-2-seamless-hd-project.json](./322045-resident-evil-2-seamless-hd-project.json) |
