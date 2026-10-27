@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
 | Tetris | 287892 | [287892-tetris.json](./287892-tetris.json) |
+| Tetris | 310995 | [310995-tetris.json](./310995-tetris.json) |
 | Tetris | 326807 | [326807-tetris.json](./326807-tetris.json) |
 | Tetris | 88894 | [88894-tetris.json](./88894-tetris.json) |
 | Tetris | 91204 | [91204-tetris.json](./91204-tetris.json) |
@@ -7091,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Difference Between Us | 184309 | [184309-the-difference-between-us.json](./184309-the-difference-between-us.json) |
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
+| The Digital Asset Inquisition | 311007 | [311007-the-digital-asset-inquisition.json](./311007-the-digital-asset-inquisition.json) |
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
 | The Dimension of Anaconda | 360101 | [360101-the-dimension-of-anaconda.json](./360101-the-dimension-of-anaconda.json) |
 | The Diner | 250537 | [250537-the-diner.json](./250537-the-diner.json) |
@@ -16055,6 +16057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
 | The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
 | The Way Remastered | 96202 | [96202-the-way-remastered.json](./96202-the-way-remastered.json) |
+| The Way The Gingerbread Cookie Crumbles | 311027 | [311027-the-way-the-gingerbread-cookie-crumbles.json](./311027-the-way-the-gingerbread-cookie-crumbles.json) |
 | The Way to Defeat the Archfiend | 87974 | [87974-the-way-to-defeat-the-archfiend.json](./87974-the-way-to-defeat-the-archfiend.json) |
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
 | The Way We All Go | 345102 | [345102-the-way-we-all-go.json](./345102-the-way-we-all-go.json) |
