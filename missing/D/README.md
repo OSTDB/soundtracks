@@ -8062,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino War | 100811 | [100811-dino-war.json](./100811-dino-war.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
+| Dino-Ducks Dash | 323125 | [323125-dino-ducks-dash.json](./323125-dino-ducks-dash.json) |
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinobag's Arcade | 169749 | [169749-dinobags-arcade.json](./169749-dinobags-arcade.json) |
@@ -13108,6 +13109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Light | 106500 | [106500-draw-light.json](./106500-draw-light.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw music | 167558 | [167558-draw-music.json](./167558-draw-music.json) |
+| Draw N Guess Multiplayer | 323122 | [323122-draw-n-guess-multiplayer.json](./323122-draw-n-guess-multiplayer.json) |
 | Draw Near | 95600 | [95600-draw-near.json](./95600-draw-near.json) |
 | Draw Nine | 135613 | [135613-draw-nine.json](./135613-draw-nine.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
