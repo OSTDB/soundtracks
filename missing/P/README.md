@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Sharpening Simulator | 57172 | [57172-pencil-sharpening-simulator.json](./57172-pencil-sharpening-simulator.json) |
 | Pencil Story - Free Logic Game | 36487 | [36487-pencil-story-free-logic-game.json](./36487-pencil-story-free-logic-game.json) |
 | Pencil Whipped | 72546 | [72546-pencil-whipped.json](./72546-pencil-whipped.json) |
+| Pencil! | 306927 | [306927-pencil.json](./306927-pencil.json) |
 | Pencilvania | 292755 | [292755-pencilvania.json](./292755-pencilvania.json) |
 | Pendelum | 138540 | [138540-pendelum.json](./138540-pendelum.json) |
 | Pendle Hill | 151513 | [151513-pendle-hill.json](./151513-pendle-hill.json) |
