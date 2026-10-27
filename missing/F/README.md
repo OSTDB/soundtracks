@@ -3980,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Force 2 | 11615 | [11615-fighting-force-2.json](./11615-fighting-force-2.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Frenzy: Swole Simulator | 120709 | [120709-fighting-frenzy-swole-simulator.json](./120709-fighting-frenzy-swole-simulator.json) |
+| Fighting Frontier | 303523 | [303523-fighting-frontier.json](./303523-fighting-frontier.json) |
 | Fighting Fury | 44627 | [44627-fighting-fury.json](./44627-fighting-fury.json) |
 | Fighting Golf | 40042 | [40042-fighting-golf.json](./40042-fighting-golf.json) |
 | Fighting Hawk | 40041 | [40041-fighting-hawk.json](./40041-fighting-hawk.json) |
@@ -4685,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Murderer 2 | 192454 | [192454-find-the-murderer-2.json](./192454-find-the-murderer-2.json) |
 | Find the Murderer 3 | 236364 | [236364-find-the-murderer-3.json](./236364-find-the-murderer-3.json) |
 | Find The Needle | 415859 | [415859-find-the-needle.json](./415859-find-the-needle.json) |
+| Find the Orange Narwhal | 303525 | [303525-find-the-orange-narwhal.json](./303525-find-the-orange-narwhal.json) |
 | Find the Pairs | 328604 | [328604-find-the-pairs.json](./328604-find-the-pairs.json) |
 | Find the Pairs Memo Game for Kids | 273971 | [273971-find-the-pairs-memo-game-for-kids.json](./273971-find-the-pairs-memo-game-for-kids.json) |
 | Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
@@ -4720,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find-o'-Lantern | 317794 | [317794-find-o-lantern.json](./317794-find-o-lantern.json) |
 | Find! | 244834 | [244834-find.json](./244834-find.json) |
 | FindDark | 158524 | [158524-finddark.json](./158524-finddark.json) |
+| Finder | 303524 | [303524-finder.json](./303524-finder.json) |
 | Finder Love: Hara Fumina - Futari no Futari de... | 196716 | [196716-finder-love-hara-fumina-futari-no-futari-de.json](./196716-finder-love-hara-fumina-futari-no-futari-de.json) |
 | Finder Love: Hoshino Aki - Nangoku Trouble Rendezvous | 196715 | [196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json](./196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json) |
 | Finder Love: Kudo Risa - First Shoot ha Kimi to | 196717 | [196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json](./196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json) |
@@ -8834,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 7 - Season 4: Override | 414179 | [414179-fortnite-chapter-7-season-4-override.json](./414179-fortnite-chapter-7-season-4-override.json) |
 | Fortnite: Checkered Past Pack | 305610 | [305610-fortnite-checkered-past-pack.json](./305610-fortnite-checkered-past-pack.json) |
 | Fortnite: Chill Vibez Pack | 290016 | [290016-fortnite-chill-vibez-pack.json](./290016-fortnite-chill-vibez-pack.json) |
+| Fortnite: Crimson Warden Pack | 303531 | [303531-fortnite-crimson-warden-pack.json](./303531-fortnite-crimson-warden-pack.json) |
 | Fortnite: Cross Comms Pack | 243231 | [243231-fortnite-cross-comms-pack.json](./243231-fortnite-cross-comms-pack.json) |
 | Fortnite: Cuddle Buns Pack | 333587 | [333587-fortnite-cuddle-buns-pack.json](./333587-fortnite-cuddle-buns-pack.json) |
 | Fortnite: Darkest Grumblings Pack | 331962 | [331962-fortnite-darkest-grumblings-pack.json](./331962-fortnite-darkest-grumblings-pack.json) |
