@@ -4596,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats 6 | 390037 | [390037-find-cats-6.json](./390037-find-cats-6.json) |
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
+| Find Colibries | 309381 | [309381-find-colibries.json](./309381-find-colibries.json) |
 | Find Difference | 386186 | [386186-find-difference.json](./386186-find-difference.json) |
 | Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
 | Find Differences Stewardess | 95324 | [95324-find-differences-stewardess.json](./95324-find-differences-stewardess.json) |
@@ -4624,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
 | Find Match Icons | 174044 | [174044-find-match-icons.json](./174044-find-match-icons.json) |
 | Find Matt's Cats | 269974 | [269974-find-matts-cats.json](./269974-find-matts-cats.json) |
+| Find Me | 309418 | [309418-find-me.json](./309418-find-me.json) |
 | Find Me | 365427 | [365427-find-me.json](./365427-find-me.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
@@ -7870,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Seasons | 239117 | [239117-football-seasons.json](./239117-football-seasons.json) |
 | Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
 | Football Simulation Shoot Game | 220060 | [220060-football-simulation-shoot-game.json](./220060-football-simulation-shoot-game.json) |
+| Football Squad | 309424 | [309424-football-squad.json](./309424-football-squad.json) |
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
 | Football Stars Legend 24 | 261888 | [261888-football-stars-legend-24.json](./261888-football-stars-legend-24.json) |
 | Football Stars: Head Ball Soccer Co-op Battle | 328535 | [328535-football-stars-head-ball-soccer-co-op-battle.json](./328535-football-stars-head-ball-soccer-co-op-battle.json) |
