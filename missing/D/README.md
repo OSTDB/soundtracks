@@ -5877,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Ascension | 296890 | [296890-depths-of-ascension.json](./296890-depths-of-ascension.json) |
 | Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
 | Depths of Dagon | 148276 | [148276-depths-of-dagon.json](./148276-depths-of-dagon.json) |
+| Depths of Darkness | 292484 | [292484-depths-of-darkness.json](./292484-depths-of-darkness.json) |
 | Depths of Despair | 300443 | [300443-depths-of-despair.json](./300443-depths-of-despair.json) |
 | Depths of Dread | 32174 | [32174-depths-of-dread.json](./32174-depths-of-dread.json) |
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
@@ -7799,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | Digital Devil Story: Megami Tensei | 136113 | [136113-digital-devil-story-megami-tensei.json](./136113-digital-devil-story-megami-tensei.json) |
 | Digital Devil Story: Megami Tensei II | 48656 | [48656-digital-devil-story-megami-tensei-ii.json](./48656-digital-devil-story-megami-tensei-ii.json) |
+| Digital Diamond Baseball | 292562 | [292562-digital-diamond-baseball.json](./292562-digital-diamond-baseball.json) |
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
 | Digital Diamond Baseball V8 | 117166 | [117166-digital-diamond-baseball-v8.json](./117166-digital-diamond-baseball-v8.json) |
@@ -11904,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down With Fear | 236345 | [236345-down-with-fear.json](./236345-down-with-fear.json) |
 | Down With Hell: Crystal | 385863 | [385863-down-with-hell-crystal.json](./385863-down-with-hell-crystal.json) |
 | Down with the Ship | 365205 | [365205-down-with-the-ship.json](./365205-down-with-the-ship.json) |
+| Down Word | 292506 | [292506-down-word.json](./292506-down-word.json) |
 | Down. | 134994 | [134994-down.json](./134994-down.json) |
 | Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
