@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra | 202338 | [202338-umbra.json](./202338-umbra.json) |
 | Umbra | 219531 | [219531-umbra.json](./219531-umbra.json) |
 | Umbra | 304828 | [304828-umbra.json](./304828-umbra.json) |
+| Umbra | 319619 | [319619-umbra.json](./319619-umbra.json) |
 | Umbra | 380750 | [380750-umbra.json](./380750-umbra.json) |
 | Umbra | 95415 | [95415-umbra.json](./95415-umbra.json) |
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
