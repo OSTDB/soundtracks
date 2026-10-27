@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Miglia: Great 1000 Miles Rally | 39354 | [39354-1000-miglia-great-1000-miles-rally.json](./39354-1000-miglia-great-1000-miles-rally.json) |
 | 1000 Needles | 188439 | [188439-1000-needles.json](./188439-1000-needles.json) |
 | 1000 of Single Stroke | 297641 | [297641-1000-of-single-stroke.json](./297641-1000-of-single-stroke.json) |
+| 1000 Princes | 323686 | [323686-1000-princes.json](./323686-1000-princes.json) |
 | 1000 Questions Quiz! National Flag | 317903 | [317903-1000-questions-quiz-national-flag.json](./317903-1000-questions-quiz-national-flag.json) |
 | 1000 Questions to Be Chosen by the Cat Lord | 404260 | [404260-1000-questions-to-be-chosen-by-the-cat-lord.json](./404260-1000-questions-to-be-chosen-by-the-cat-lord.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
