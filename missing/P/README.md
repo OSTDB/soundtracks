@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Warriors II: Dogfight! | 43448 | [43448-pacific-warriors-ii-dogfight.json](./43448-pacific-warriors-ii-dogfight.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
 | Pacifish | 203545 | [203545-pacifish.json](./203545-pacifish.json) |
+| Pacifish: Recast | 330090 | [330090-pacifish-recast.json](./330090-pacifish-recast.json) |
 | Pacifist Outside | 180591 | [180591-pacifist-outside.json](./180591-pacifist-outside.json) |
 | Pacifix War Iwo Jima | 231922 | [231922-pacifix-war-iwo-jima.json](./231922-pacifix-war-iwo-jima.json) |
 | Pack | 342659 | [342659-pack.json](./342659-pack.json) |
@@ -5084,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico de Pon | 279771 | [279771-pico-de-pon.json](./279771-pico-de-pon.json) |
 | Pico Dino | 288668 | [288668-pico-dino.json](./288668-pico-dino.json) |
+| Pico Drift | 330073 | [330073-pico-drift.json](./330073-pico-drift.json) |
 | Pico Driller | 177940 | [177940-pico-driller.json](./177940-pico-driller.json) |
 | Pico Islands | 189360 | [189360-pico-islands.json](./189360-pico-islands.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
