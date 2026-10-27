@@ -3394,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
 | Ferocious | 152017 | [152017-ferocious.json](./152017-ferocious.json) |
 | Ferra | 344144 | [344144-ferra.json](./344144-ferra.json) |
+| Ferral Quest | 308182 | [308182-ferral-quest.json](./308182-ferral-quest.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 4855 | [4855-ferrari-challenge-trofeo-pirelli.json](./4855-ferrari-challenge-trofeo-pirelli.json) |
@@ -4739,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding America: The West - Collector's Edition | 292914 | [292914-finding-america-the-west-collectors-edition.json](./292914-finding-america-the-west-collectors-edition.json) |
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
+| Finding Buddies | 308169 | [308169-finding-buddies.json](./308169-finding-buddies.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
 | Finding Chuchu | 371630 | [371630-finding-chuchu.json](./371630-finding-chuchu.json) |
 | Finding Cinderella | 207171 | [207171-finding-cinderella.json](./207171-finding-cinderella.json) |
@@ -8663,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Ratsack | 271784 | [271784-fort-ratsack.json](./271784-fort-ratsack.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fort Solis: Terra Edition | 262225 | [262225-fort-solis-terra-edition.json](./262225-fort-solis-terra-edition.json) |
+| Fort Stars | 308171 | [308171-fort-stars.json](./308171-fort-stars.json) |
 | Fort Sumter | 118420 | [118420-fort-sumter.json](./118420-fort-sumter.json) |
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Fort Zombie | 27498 | [27498-fort-zombie.json](./27498-fort-zombie.json) |
@@ -11160,6 +11163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Stride | 382991 | [382991-full-stride.json](./382991-full-stride.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
 | Full Throttle | 180 | [180-full-throttle.json](./180-full-throttle.json) |
+| Full Throttle | 308176 | [308176-full-throttle.json](./308176-full-throttle.json) |
 | Full Throttle | 46843 | [46843-full-throttle.json](./46843-full-throttle.json) |
 | Full Throttle 2 | 327805 | [327805-full-throttle-2.json](./327805-full-throttle-2.json) |
 | Full Throttle Parking | 388010 | [388010-full-throttle-parking.json](./388010-full-throttle-parking.json) |
@@ -11508,6 +11512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious: Heat Racing | 199910 | [199910-furious-heat-racing.json](./199910-furious-heat-racing.json) |
 | Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
+| Furitsu Metatopology Daigaku Fuzoku Joshi Koukou | 308286 | [308286-furitsu-metatopology-daigaku-fuzoku-joshi-koukou.json](./308286-furitsu-metatopology-daigaku-fuzoku-joshi-koukou.json) |
 | Furius Legacy | 209763 | [209763-furius-legacy.json](./209763-furius-legacy.json) |
 | Furlong Fracas | 248761 | [248761-furlong-fracas.json](./248761-furlong-fracas.json) |
 | FurnCap | 145985 | [145985-furncap.json](./145985-furncap.json) |
