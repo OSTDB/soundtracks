@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find-a-frog | 229011 | [229011-find-a-frog.json](./229011-find-a-frog.json) |
 | Find-Life EP1 | 113500 | [113500-find-life-ep1.json](./113500-find-life-ep1.json) |
 | Find-O-Vision | 366425 | [366425-find-o-vision.json](./366425-find-o-vision.json) |
+| Find-o'-Lantern | 317794 | [317794-find-o-lantern.json](./317794-find-o-lantern.json) |
 | Find! | 244834 | [244834-find.json](./244834-find.json) |
 | FindDark | 158524 | [158524-finddark.json](./158524-finddark.json) |
 | Finder Love: Hara Fumina - Futari no Futari de... | 196716 | [196716-finder-love-hara-fumina-futari-no-futari-de.json](./196716-finder-love-hara-fumina-futari-no-futari-de.json) |
@@ -7683,6 +7684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foolish Earthlings! | 362789 | [362789-foolish-earthlings.json](./362789-foolish-earthlings.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Fools Fortune | 134961 | [134961-fools-fortune.json](./134961-fools-fortune.json) |
+| Fools, Maniacs and Liars | 317786 | [317786-fools-maniacs-and-liars.json](./317786-fools-maniacs-and-liars.json) |
 | Foonda | 196172 | [196172-foonda.json](./196172-foonda.json) |
 | Foosball | 95332 | [95332-foosball.json](./95332-foosball.json) |
 | Foosball - Street Edition | 17113 | [17113-foosball-street-edition.json](./17113-foosball-street-edition.json) |
@@ -11155,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Void | 204028 | [204028-full-void.json](./204028-full-void.json) |
 | Full Void: Special Edition | 260078 | [260078-full-void-special-edition.json](./260078-full-void-special-edition.json) |
 | Full-Scale Invasion | 287727 | [287727-full-scale-invasion.json](./287727-full-scale-invasion.json) |
+| FullAni | 317802 | [317802-fullani.json](./317802-fullani.json) |
 | FullBlast | 33864 | [33864-fullblast.json](./33864-fullblast.json) |
 | Fullbright Presents: Toilet Spiders | 320286 | [320286-fullbright-presents-toilet-spiders.json](./320286-fullbright-presents-toilet-spiders.json) |
 | Fullcourt Thunder | 60995 | [60995-fullcourt-thunder.json](./60995-fullcourt-thunder.json) |
