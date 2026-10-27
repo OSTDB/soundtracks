@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanako Descends to Hell | 39151 | [39151-nanako-descends-to-hell.json](./39151-nanako-descends-to-hell.json) |
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
 | Naname de Magic! | 213831 | [213831-naname-de-magic.json](./213831-naname-de-magic.json) |
+| Nananana Tamago | 320798 | [320798-nananana-tamago.json](./320798-nananana-tamago.json) |
 | Nanatama: Chronicle of Dungeon Maker | 59366 | [59366-nanatama-chronicle-of-dungeon-maker.json](./59366-nanatama-chronicle-of-dungeon-maker.json) |
 | Nanatsu Kaze no Shima Monogatari | 18493 | [18493-nanatsu-kaze-no-shima-monogatari.json](./18493-nanatsu-kaze-no-shima-monogatari.json) |
 | Nanatsu no Hikan | 137031 | [137031-nanatsu-no-hikan.json](./137031-nanatsu-no-hikan.json) |
@@ -6522,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts | 282631 | [282631-nuts.json](./282631-nuts.json) |
 | Nuts | 309576 | [309576-nuts.json](./309576-nuts.json) |
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
+| Nuts About Nuts | 320780 | [320780-nuts-about-nuts.json](./320780-nuts-about-nuts.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | Nuts Pipeline | 411994 | [411994-nuts-pipeline.json](./411994-nuts-pipeline.json) |
 | Nuts Protocol | 207192 | [207192-nuts-protocol.json](./207192-nuts-protocol.json) |
