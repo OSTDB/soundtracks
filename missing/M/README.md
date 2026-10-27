@@ -10052,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way Jigsaw Puzzles | 265319 | [265319-milky-way-jigsaw-puzzles.json](./265319-milky-way-jigsaw-puzzles.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 1 | 265246 | [265246-milky-way-jigsaw-puzzles-expansion-pack-1.json](./265246-milky-way-jigsaw-puzzles-expansion-pack-1.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 2 | 265247 | [265247-milky-way-jigsaw-puzzles-expansion-pack-2.json](./265247-milky-way-jigsaw-puzzles-expansion-pack-2.json) |
+| Milky Way TD Survivors Autobattler RTS: Earth | 291429 | [291429-milky-way-td-survivors-autobattler-rts-earth.json](./291429-milky-way-td-survivors-autobattler-rts-earth.json) |
 | Milky Way Wishes | 271264 | [271264-milky-way-wishes.json](./271264-milky-way-wishes.json) |
 | Milky Way Wishes | 271407 | [271407-milky-way-wishes.json](./271407-milky-way-wishes.json) |
 | Milky Way: TD Survivors Autobattler RTS | 289782 | [289782-milky-way-td-survivors-autobattler-rts.json](./289782-milky-way-td-survivors-autobattler-rts.json) |
@@ -17541,6 +17542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Heroes | 188341 | [188341-my-heroes.json](./188341-my-heroes.json) |
 | My Heroes: SEA | 142426 | [142426-my-heroes-sea.json](./142426-my-heroes-sea.json) |
 | My Hidden Dreams | 339928 | [339928-my-hidden-dreams.json](./339928-my-hidden-dreams.json) |
+| My Hidden Pets: Find My Duck | 291420 | [291420-my-hidden-pets-find-my-duck.json](./291420-my-hidden-pets-find-my-duck.json) |
 | My Hidden Things | 134322 | [134322-my-hidden-things.json](./134322-my-hidden-things.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My High School Detective | 231422 | [231422-my-high-school-detective.json](./231422-my-high-school-detective.json) |
