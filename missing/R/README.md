@@ -6919,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual on the Eve | 112200 | [112200-ritual-on-the-eve.json](./112200-ritual-on-the-eve.json) |
 | Ritual Party | 339973 | [339973-ritual-party.json](./339973-ritual-party.json) |
 | Ritual Static | 397655 | [397655-ritual-static.json](./397655-ritual-static.json) |
+| Ritual Tides | 321319 | [321319-ritual-tides.json](./321319-ritual-tides.json) |
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
 | Ritual: Crown of Horns | 117897 | [117897-ritual-crown-of-horns.json](./117897-ritual-crown-of-horns.json) |
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
