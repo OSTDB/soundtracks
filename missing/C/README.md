@@ -7342,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cielle Is Not Happy | 402277 | [402277-cielle-is-not-happy.json](./402277-cielle-is-not-happy.json) |
 | Cielo | 181292 | [181292-cielo.json](./181292-cielo.json) |
 | Cien Años Después | 203333 | [203333-cien-anos-despues.json](./203333-cien-anos-despues.json) |
+| Cienie | 305251 | [305251-cienie.json](./305251-cienie.json) |
 | Cigar Break | 323813 | [323813-cigar-break.json](./323813-cigar-break.json) |
 | Cigarette Quest | 229829 | [229829-cigarette-quest.json](./229829-cigarette-quest.json) |
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
