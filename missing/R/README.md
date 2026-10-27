@@ -5276,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
 | Return to Basic Killing | 274032 | [274032-return-to-basic-killing.json](./274032-return-to-basic-killing.json) |
 | Return To Booty Grotto | 363003 | [363003-return-to-booty-grotto.json](./363003-return-to-booty-grotto.json) |
+| Return to Campus | 328926 | [328926-return-to-campus.json](./328926-return-to-campus.json) |
 | Return To Castle Arbeitsamt | 402874 | [402874-return-to-castle-arbeitsamt.json](./402874-return-to-castle-arbeitsamt.json) |
 | Return to Castle Wolfenstein: Game of the Year Edition | 209195 | [209195-return-to-castle-wolfenstein-game-of-the-year-edition.json](./209195-return-to-castle-wolfenstein-game-of-the-year-edition.json) |
 | Return to Castle Wolfenstein: Operation Resurrection | 77219 | [77219-return-to-castle-wolfenstein-operation-resurrection.json](./77219-return-to-castle-wolfenstein-operation-resurrection.json) |
@@ -5541,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi | 230720 | [230720-reversi.json](./230720-reversi.json) |
 | Reversi | 288835 | [288835-reversi.json](./288835-reversi.json) |
 | Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
+| Reversi | 328912 | [328912-reversi.json](./328912-reversi.json) |
 | Reversi | 395796 | [395796-reversi.json](./395796-reversi.json) |
 | Reversi | 88592 | [88592-reversi.json](./88592-reversi.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
@@ -6355,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rikorisu: Lycoris Radiata | 77864 | [77864-rikorisu-lycoris-radiata.json](./77864-rikorisu-lycoris-radiata.json) |
 | Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
 | Rikua | 218672 | [218672-rikua.json](./218672-rikua.json) |
+| Rikujou Boueitai Mao-chan | 328920 | [328920-rikujou-boueitai-mao-chan.json](./328920-rikujou-boueitai-mao-chan.json) |
 | Rilakkuma Farm | 284426 | [284426-rilakkuma-farm.json](./284426-rilakkuma-farm.json) |
 | Rilakkuma Loop | 283825 | [283825-rilakkuma-loop.json](./283825-rilakkuma-loop.json) |
 | Rilakkuma na Mainichi | 49796 | [49796-rilakkuma-na-mainichi.json](./49796-rilakkuma-na-mainichi.json) |
@@ -10899,6 +10902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Knight | 193948 | [193948-rust-knight.json](./193948-rust-knight.json) |
 | Rust Mobile | 358975 | [358975-rust-mobile.json](./358975-rust-mobile.json) |
 | Rust of New York | 407168 | [407168-rust-of-new-york.json](./407168-rust-of-new-york.json) |
+| Rust of Steel | 328922 | [328922-rust-of-steel.json](./328922-rust-of-steel.json) |
 | Rust Onslaught | 341511 | [341511-rust-onslaught.json](./341511-rust-onslaught.json) |
 | Rust Racers | 133815 | [133815-rust-racers.json](./133815-rust-racers.json) |
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
