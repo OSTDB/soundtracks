@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.M.S | 240075 | [240075-s-m-s.json](./240075-s-m-s.json) |
 | S.N.A.P. | 390475 | [390475-s-n-a-p.json](./390475-s-n-a-p.json) |
 | S.N.I.P.E.R : Hunter Scope - Legacy Edition | 312061 | [312061-s-n-i-p-e-r-hunter-scope-legacy-edition.json](./312061-s-n-i-p-e-r-hunter-scope-legacy-edition.json) |
+| S.N.I.P.E.R: Hunter Scope - Eagle Eye | 308830 | [308830-s-n-i-p-e-r-hunter-scope-eagle-eye.json](./308830-s-n-i-p-e-r-hunter-scope-eagle-eye.json) |
 | S.N.I.P.E.R: Hunter Scope - Hero's Edition | 387680 | [387680-s-n-i-p-e-r-hunter-scope-heros-edition.json](./387680-s-n-i-p-e-r-hunter-scope-heros-edition.json) |
 | S.N.I.P.E.R: Hunter Scope - Tactical Arsenal | 306551 | [306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json](./306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json) |
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
@@ -19412,6 +19413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Valley: Nico's Skins | 316247 | [316247-sprout-valley-nicos-skins.json](./316247-sprout-valley-nicos-skins.json) |
 | Sprout Valley: Special Edition | 304776 | [304776-sprout-valley-special-edition.json](./304776-sprout-valley-special-edition.json) |
 | Sprout Valley: Spray Paint | 317291 | [317291-sprout-valley-spray-paint.json](./317291-sprout-valley-spray-paint.json) |
+| Sprout Valley: Summer | 308831 | [308831-sprout-valley-summer.json](./308831-sprout-valley-summer.json) |
 | Sprout Valley: Summer Edition | 328779 | [328779-sprout-valley-summer-edition.json](./328779-sprout-valley-summer-edition.json) |
 | Sprout Valley: Ultimate Edition | 328778 | [328778-sprout-valley-ultimate-edition.json](./328778-sprout-valley-ultimate-edition.json) |
 | Sprout's Meadow | 414110 | [414110-sprouts-meadow.json](./414110-sprouts-meadow.json) |
@@ -27364,6 +27366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Hatsune Miku | 322749 | [322749-super-monkey-ball-banana-rumble-hatsune-miku.json](./322749-super-monkey-ball-banana-rumble-hatsune-miku.json) |
 | Super Monkey Ball: Banana Rumble - Knuckles | 309080 | [309080-super-monkey-ball-banana-rumble-knuckles.json](./309080-super-monkey-ball-banana-rumble-knuckles.json) |
 | Super Monkey Ball: Banana Rumble - Launch Edition | 288656 | [288656-super-monkey-ball-banana-rumble-launch-edition.json](./288656-super-monkey-ball-banana-rumble-launch-edition.json) |
+| Super Monkey Ball: Banana Rumble - Sega Character Pass | 308836 | [308836-super-monkey-ball-banana-rumble-sega-character-pass.json](./308836-super-monkey-ball-banana-rumble-sega-character-pass.json) |
 | Super Monkey Ball: Banana Rumble - Sonic | 310655 | [310655-super-monkey-ball-banana-rumble-sonic.json](./310655-super-monkey-ball-banana-rumble-sonic.json) |
 | Super Monkey Ball: Banana Rumble - Sonic and Shadow Skins | 317963 | [317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json](./317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json) |
 | Super Monkey Ball: Banana Rumble - Tails | 309068 | [309068-super-monkey-ball-banana-rumble-tails.json](./309068-super-monkey-ball-banana-rumble-tails.json) |
