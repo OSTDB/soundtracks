@@ -8323,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Works: Build, Trade, Destroy | 4720 | [4720-blast-works-build-trade-destroy.json](./4720-blast-works-build-trade-destroy.json) |
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
+| Blast-A-Finn | 325375 | [325375-blast-a-finn.json](./325375-blast-a-finn.json) |
 | Blast-Axis | 119542 | [119542-blast-axis.json](./119542-blast-axis.json) |
 | Blast-off | 34767 | [34767-blast-off.json](./34767-blast-off.json) |
 | Blast! | 15675 | [15675-blast.json](./15675-blast.json) |
