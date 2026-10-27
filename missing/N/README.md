@@ -4047,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshade | 26225 | [26225-nightshade.json](./26225-nightshade.json) |
 | Nightshade | 31764 | [31764-nightshade.json](./31764-nightshade.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
+| Nightshade Mysteries: Eternal Moon | 319057 | [319057-nightshade-mysteries-eternal-moon.json](./319057-nightshade-mysteries-eternal-moon.json) |
 | Nightshade Mysteries: Eternal Moon - Collector's Edition | 345674 | [345674-nightshade-mysteries-eternal-moon-collectors-edition.json](./345674-nightshade-mysteries-eternal-moon-collectors-edition.json) |
 | Nightshade Ninja Warrior | 245268 | [245268-nightshade-ninja-warrior.json](./245268-nightshade-ninja-warrior.json) |
 | Nightshaders | 245812 | [245812-nightshaders.json](./245812-nightshaders.json) |
@@ -4787,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NMDC | 199584 | [199584-nmdc.json](./199584-nmdc.json) |
 | NMNE | 181106 | [181106-nmne.json](./181106-nmne.json) |
 | Nmnmah | 392711 | [392711-nmnmah.json](./392711-nmnmah.json) |
+| Nnnnnight | 319059 | [319059-nnnnnight.json](./319059-nnnnnight.json) |
 | Nnnnnn | 134352 | [134352-nnnnnn.json](./134352-nnnnnn.json) |
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
 | No Alien Dating Allowed! | 382481 | [382481-no-alien-dating-allowed.json](./382481-no-alien-dating-allowed.json) |
@@ -5968,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
 | Nothing Together | 285162 | [285162-nothing-together.json](./285162-nothing-together.json) |
 | Nothing_Matters | 230439 | [230439-nothing-matters.json](./230439-nothing-matters.json) |
+| Nothing.SeriOS | 319035 | [319035-nothing-serios.json](./319035-nothing-serios.json) |
 | Nothmere | 387715 | [387715-nothmere.json](./387715-nothmere.json) |
 | NotHog | 275673 | [275673-nothog.json](./275673-nothog.json) |
 | Notice | 277337 | [277337-notice.json](./277337-notice.json) |
