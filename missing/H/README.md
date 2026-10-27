@@ -1845,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Half-Blood Prince | 4906 | [4906-harry-potter-and-the-half-blood-prince.json](./4906-harry-potter-and-the-half-blood-prince.json) |
 | Harry Potter and the Order of the Phoenix | 266194 | [266194-harry-potter-and-the-order-of-the-phoenix.json](./266194-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harry Potter and the Order of the Phoenix | 366316 | [366316-harry-potter-and-the-order-of-the-phoenix.json](./366316-harry-potter-and-the-order-of-the-phoenix.json) |
+| Harry Potter and the Order of the Phoenix Mini-Game | 318954 | [318954-harry-potter-and-the-order-of-the-phoenix-mini-game.json](./318954-harry-potter-and-the-order-of-the-phoenix-mini-game.json) |
 | Harry Potter and the Prisoner of Azkaban | 3943 | [3943-harry-potter-and-the-prisoner-of-azkaban.json](./3943-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban | 96159 | [96159-harry-potter-and-the-prisoner-of-azkaban.json](./96159-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
@@ -5685,6 +5686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
 | Hi, How Are You | 251426 | [251426-hi-how-are-you.json](./251426-hi-how-are-you.json) |
 | Hi! Hamtaro: Ham-Ham Challenge | 77875 | [77875-hi-hamtaro-ham-ham-challenge.json](./77875-hi-hamtaro-ham-ham-challenge.json) |
+| Hi! These Are Your Eyeballs | 319049 | [319049-hi-these-are-your-eyeballs.json](./319049-hi-these-are-your-eyeballs.json) |
 | Hiarcs Chess for iPad | 103135 | [103135-hiarcs-chess-for-ipad.json](./103135-hiarcs-chess-for-ipad.json) |
 | Hiatari Ryoukou! | 258850 | [258850-hiatari-ryoukou.json](./258850-hiatari-ryoukou.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
@@ -5750,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats in Santa's Realm | 279125 | [279125-hidden-cats-in-santas-realm.json](./279125-hidden-cats-in-santas-realm.json) |
 | Hidden Cats in Spooky Town | 266771 | [266771-hidden-cats-in-spooky-town.json](./266771-hidden-cats-in-spooky-town.json) |
 | Hidden Cats in Spooky Village | 375577 | [375577-hidden-cats-in-spooky-village.json](./375577-hidden-cats-in-spooky-village.json) |
+| Hidden Cats in Tokyo | 318961 | [318961-hidden-cats-in-tokyo.json](./318961-hidden-cats-in-tokyo.json) |
 | Hidden Cats in Town | 244274 | [244274-hidden-cats-in-town.json](./244274-hidden-cats-in-town.json) |
 | Hidden Cats In White Sand Village | 367036 | [367036-hidden-cats-in-white-sand-village.json](./367036-hidden-cats-in-white-sand-village.json) |
 | Hidden Cats of Atlantis | 324246 | [324246-hidden-cats-of-atlantis.json](./324246-hidden-cats-of-atlantis.json) |
