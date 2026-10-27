@@ -630,12 +630,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Puzzle | 105358 | [105358-ecchi-puzzle.json](./105358-ecchi-puzzle.json) |
 | Ecchi Puzzles | 382493 | [382493-ecchi-puzzles.json](./382493-ecchi-puzzles.json) |
 | Ecchi Secrets | 308639 | [308639-ecchi-secrets.json](./308639-ecchi-secrets.json) |
+| Ecchi Secrets: Bath Time | 308846 | [308846-ecchi-secrets-bath-time.json](./308846-ecchi-secrets-bath-time.json) |
 | Ecchi Secrets: Complete Edition | 312059 | [312059-ecchi-secrets-complete-edition.json](./312059-ecchi-secrets-complete-edition.json) |
+| Ecchi Secrets: Date Night | 308847 | [308847-ecchi-secrets-date-night.json](./308847-ecchi-secrets-date-night.json) |
+| Ecchi Secrets: Futuristic Dream | 308845 | [308845-ecchi-secrets-futuristic-dream.json](./308845-ecchi-secrets-futuristic-dream.json) |
 | Ecchi Secrets: Futuristic Edition | 324379 | [324379-ecchi-secrets-futuristic-edition.json](./324379-ecchi-secrets-futuristic-edition.json) |
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
+| Ecchi Secrets: Steamy Class | 308844 | [308844-ecchi-secrets-steamy-class.json](./308844-ecchi-secrets-steamy-class.json) |
 | Ecchi Secrets: Wet & Wild Edition | 404276 | [404276-ecchi-secrets-wet-and-wild-edition.json](./404276-ecchi-secrets-wet-and-wild-edition.json) |
 | Ecchi Sky | 379326 | [379326-ecchi-sky.json](./379326-ecchi-sky.json) |
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
+| Ecchi Time: Mia | 308848 | [308848-ecchi-time-mia.json](./308848-ecchi-time-mia.json) |
+| Ecchi Time: Nadia | 308849 | [308849-ecchi-time-nadia.json](./308849-ecchi-time-nadia.json) |
+| Ecchi Time: Roxi | 308850 | [308850-ecchi-time-roxi.json](./308850-ecchi-time-roxi.json) |
+| Ecchi Time: Samanta | 308851 | [308851-ecchi-time-samanta.json](./308851-ecchi-time-samanta.json) |
+| Ecchi Time: Valeria | 308854 | [308854-ecchi-time-valeria.json](./308854-ecchi-time-valeria.json) |
+| Ecchi Time: Xena | 308852 | [308852-ecchi-time-xena.json](./308852-ecchi-time-xena.json) |
+| Ecchi Time: Yoko | 308853 | [308853-ecchi-time-yoko.json](./308853-ecchi-time-yoko.json) |
 | Ecchi Uncover | 333519 | [333519-ecchi-uncover.json](./333519-ecchi-uncover.json) |
 | Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
 | Ecclesia Online | 143452 | [143452-ecclesia-online.json](./143452-ecclesia-online.json) |
@@ -3810,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Mickey Awesome Edition | 345246 | [345246-epic-mickey-awesome-edition.json](./345246-epic-mickey-awesome-edition.json) |
 | Epic Mickey: Power of Illusion | 6765 | [6765-epic-mickey-power-of-illusion.json](./6765-epic-mickey-power-of-illusion.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
+| Epic Mickey: Rebrushed - Costume Pack | 308842 | [308842-epic-mickey-rebrushed-costume-pack.json](./308842-epic-mickey-rebrushed-costume-pack.json) |
 | Epic Monster Quest | 271635 | [271635-epic-monster-quest.json](./271635-epic-monster-quest.json) |
 | Epic Ninja | 220013 | [220013-epic-ninja.json](./220013-epic-ninja.json) |
 | Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
