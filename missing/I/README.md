@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Keep | 405434 | [405434-idle-keep.json](./405434-idle-keep.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
+| Idle Kitties Online | 314316 | [314316-idle-kitties-online.json](./314316-idle-kitties-online.json) |
 | Idle Knight | 407183 | [407183-idle-knight.json](./407183-idle-knight.json) |
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
 | Idle Knights | 220174 | [220174-idle-knights.json](./220174-idle-knights.json) |
@@ -1707,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikatan: Ikamono Tantei | 72774 | [72774-ikatan-ikamono-tantei.json](./72774-ikatan-ikamono-tantei.json) |
 | Ikazuse! Koi no Doki Doki Penguin Land MD | 62488 | [62488-ikazuse-koi-no-doki-doki-penguin-land-md.json](./62488-ikazuse-koi-no-doki-doki-penguin-land-md.json) |
 | Ike Ike Dendai Bus | 251072 | [251072-ike-ike-dendai-bus.json](./251072-ike-ike-dendai-bus.json) |
+| Ike! Ike!! Hamster | 314210 | [314210-ike-ike-hamster.json](./314210-ike-ike-hamster.json) |
 | IKEA VR Experience | 33400 | [33400-ikea-vr-experience.json](./33400-ikea-vr-experience.json) |
 | Ikebana | 352962 | [352962-ikebana.json](./352962-ikebana.json) |
 | Ikeda: The Scrap Hunter E.P. | 120668 | [120668-ikeda-the-scrap-hunter-e-p.json](./120668-ikeda-the-scrap-hunter-e-p.json) |
