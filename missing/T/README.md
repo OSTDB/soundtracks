@@ -19800,7 +19800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
 | Timeless: The Forgotten Town - Collector's Edition | 30066 | [30066-timeless-the-forgotten-town-collectors-edition.json](./30066-timeless-the-forgotten-town-collectors-edition.json) |
 | Timeless: The Lost Castle | 74248 | [74248-timeless-the-lost-castle.json](./74248-timeless-the-lost-castle.json) |
-| Timelie | 122385 | [122385-timelie.json](./122385-timelie.json) |
 | Timelie: Game of the Year Edition | 169192 | [169192-timelie-game-of-the-year-edition.json](./169192-timelie-game-of-the-year-edition.json) |
 | Timeline | 197554 | [197554-timeline.json](./197554-timeline.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
