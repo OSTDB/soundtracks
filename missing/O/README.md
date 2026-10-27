@@ -2335,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Off | 300872 | [300872-one-off.json](./300872-one-off.json) |
 | One-Off R | 300876 | [300876-one-off-r.json](./300876-one-off-r.json) |
 | One-Screen Game | 334538 | [334538-one-screen-game.json](./334538-one-screen-game.json) |
+| One-sided Loneliness | 304091 | [304091-one-sided-loneliness.json](./304091-one-sided-loneliness.json) |
 | One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
 | One-Two-Three | 91910 | [91910-one-two-three.json](./91910-one-two-three.json) |
 | One-Way | 202317 | [202317-one-way.json](./202317-one-way.json) |
@@ -3856,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku no Omocha in Acolyte | 97489 | [97489-otaku-no-omocha-in-acolyte.json](./97489-otaku-no-omocha-in-acolyte.json) |
 | Otaku no Omocha in High Priest | 108944 | [108944-otaku-no-omocha-in-high-priest.json](./108944-otaku-no-omocha-in-high-priest.json) |
 | Otaku Puzzle | 367624 | [367624-otaku-puzzle.json](./367624-otaku-puzzle.json) |
+| Otaku Simulator | 304069 | [304069-otaku-simulator.json](./304069-otaku-simulator.json) |
 | Otaku Survival Horror | 343060 | [343060-otaku-survival-horror.json](./343060-otaku-survival-horror.json) |
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
 | Otaku's Challenge | 367628 | [367628-otakus-challenge.json](./367628-otakus-challenge.json) |
