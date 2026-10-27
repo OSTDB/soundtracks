@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samuel Prince Attorney at Law: Chapter 1 | 365593 | [365593-samuel-prince-attorney-at-law-chapter-1.json](./365593-samuel-prince-attorney-at-law-chapter-1.json) |
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
 | Samuel Sage: The Mystery at Penby Inn | 285505 | [285505-samuel-sage-the-mystery-at-penby-inn.json](./285505-samuel-sage-the-mystery-at-penby-inn.json) |
+| Samui kara Nabe Kuitai ne Joon-chan to!! | 330062 | [330062-samui-kara-nabe-kuitai-ne-joon-chan-to.json](./330062-samui-kara-nabe-kuitai-ne-joon-chan-to.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai Academy: Paws of Fury | 366773 | [366773-samurai-academy-paws-of-fury.json](./366773-samurai-academy-paws-of-fury.json) |
@@ -1952,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
 | Save Me Mr Tako: Definitive Edition | 143839 | [143839-save-me-mr-tako-definitive-edition.json](./143839-save-me-mr-tako-definitive-edition.json) |
 | Save me Mr Tako: Tasukete Tako-San | 55175 | [55175-save-me-mr-tako-tasukete-tako-san.json](./55175-save-me-mr-tako-tasukete-tako-san.json) |
+| Save Me My Hero | 330081 | [330081-save-me-my-hero.json](./330081-save-me-my-hero.json) |
 | Save Me, Dad! | 181169 | [181169-save-me-dad.json](./181169-save-me-dad.json) |
 | Save Me, Sakuya-san!: Remilia Scarlet's Coin and Glass Game | 165948 | [165948-save-me-sakuya-san-remilia-scarlets-coin-and-glass-game.json](./165948-save-me-sakuya-san-remilia-scarlets-coin-and-glass-game.json) |
 | Save Mom | 366369 | [366369-save-mom.json](./366369-save-mom.json) |
@@ -2840,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP Containment Breach | 242403 | [242403-scp-containment-breach.json](./242403-scp-containment-breach.json) |
 | SCP Containment Breach: HD Edition | 385651 | [385651-scp-containment-breach-hd-edition.json](./385651-scp-containment-breach-hd-edition.json) |
 | SCP Foundation: ITTLG - Chapter 1 | 196101 | [196101-scp-foundation-ittlg-chapter-1.json](./196101-scp-foundation-ittlg-chapter-1.json) |
+| SCP Foundation: Universe Horror | 330049 | [330049-scp-foundation-universe-horror.json](./330049-scp-foundation-universe-horror.json) |
 | SCP Horror Series 2 | 273576 | [273576-scp-horror-series-2.json](./273576-scp-horror-series-2.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
 | SCP Operations | 244720 | [244720-scp-operations.json](./244720-scp-operations.json) |
@@ -12196,6 +12199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
 | Smoke Keeper | 414765 | [414765-smoke-keeper.json](./414765-smoke-keeper.json) |
 | Smoke Masks | 321041 | [321041-smoke-masks.json](./321041-smoke-masks.json) |
+| Smoked Fish and Cabbage | 330067 | [330067-smoked-fish-and-cabbage.json](./330067-smoked-fish-and-cabbage.json) |
 | Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
 | Smoked Gun | 149378 | [149378-smoked-gun.json](./149378-smoked-gun.json) |
@@ -14704,6 +14708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Madness | 331101 | [331101-sonic-madness.json](./331101-sonic-madness.json) |
 | Sonic Madness | 413758 | [413758-sonic-madness.json](./413758-sonic-madness.json) |
 | Sonic Madventure | 352168 | [352168-sonic-madventure.json](./352168-sonic-madventure.json) |
+| Sonic Madventure 2 | 330100 | [330100-sonic-madventure-2.json](./330100-sonic-madventure-2.json) |
 | Sonic Magenta | 316487 | [316487-sonic-magenta.json](./316487-sonic-magenta.json) |
 | Sonic Mania & Sonic Plus | 317341 | [317341-sonic-mania-and-sonic-plus.json](./317341-sonic-mania-and-sonic-plus.json) |
 | Sonic Mania + Team Sonic Racing Double Pack | 139949 | [139949-sonic-mania-team-sonic-racing-double-pack.json](./139949-sonic-mania-team-sonic-racing-double-pack.json) |
@@ -14915,6 +14920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Spinball: Life Savers | 274722 | [274722-sonic-spinball-life-savers.json](./274722-sonic-spinball-life-savers.json) |
 | Sonic Stage Collection | 335626 | [335626-sonic-stage-collection.json](./335626-sonic-stage-collection.json) |
 | Sonic Stars | 331865 | [331865-sonic-stars.json](./331865-sonic-stars.json) |
+| Sonic Stash | 330093 | [330093-sonic-stash.json](./330093-sonic-stash.json) |
 | Sonic Streak 2 | 330867 | [330867-sonic-streak-2.json](./330867-sonic-streak-2.json) |
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
 | Sonic Suggests | 136822 | [136822-sonic-suggests.json](./136822-sonic-suggests.json) |
@@ -15191,10 +15197,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SonicE | 330709 | [330709-sonice.json](./330709-sonice.json) |
 | SonicN | 175927 | [175927-sonicn.json](./175927-sonicn.json) |
 | SoniComi | 33528 | [33528-sonicomi.json](./33528-sonicomi.json) |
+| SonicVerse Adventures | 330096 | [330096-sonicverse-adventures.json](./330096-sonicverse-adventures.json) |
 | Sonik Adventure | 330875 | [330875-sonik-adventure.json](./330875-sonik-adventure.json) |
 | Sonikku Dance Dance Revolution | 331089 | [331089-sonikku-dance-dance-revolution.json](./331089-sonikku-dance-dance-revolution.json) |
 | SoniPro | 61906 | [61906-sonipro.json](./61906-sonipro.json) |
 | Sonki's Lagoon | 391193 | [391193-sonkis-lagoon.json](./391193-sonkis-lagoon.json) |
+| SonKnuck Adventure | 330068 | [330068-sonknuck-adventure.json](./330068-sonknuck-adventure.json) |
+| SonKnuck Adventure 2 | 330069 | [330069-sonknuck-adventure-2.json](./330069-sonknuck-adventure-2.json) |
 | SonKnuck Adventure 3 | 326805 | [326805-sonknuck-adventure-3.json](./326805-sonknuck-adventure-3.json) |
 | SonKnuck RPG | 330337 | [330337-sonknuck-rpg.json](./330337-sonknuck-rpg.json) |
 | Sonnet | 402478 | [402478-sonnet.json](./402478-sonnet.json) |
@@ -21158,6 +21167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
 | Staroot | 337290 | [337290-staroot.json](./337290-staroot.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
+| Starpatch | 330055 | [330055-starpatch.json](./330055-starpatch.json) |
 | Starpath | 402419 | [402419-starpath.json](./402419-starpath.json) |
 | StarPeace | 73286 | [73286-starpeace.json](./73286-starpeace.json) |
 | StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
@@ -29262,6 +29272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
+| Swarm Racer 3000 | 330077 | [330077-swarm-racer-3000.json](./330077-swarm-racer-3000.json) |
 | Swarm Simulator: Evolution | 96588 | [96588-swarm-simulator-evolution.json](./96588-swarm-simulator-evolution.json) |
 | Swarm Survivor: Endless Siege | 391630 | [391630-swarm-survivor-endless-siege.json](./391630-swarm-survivor-endless-siege.json) |
 | Swarm Sweeper | 351604 | [351604-swarm-sweeper.json](./351604-swarm-sweeper.json) |
