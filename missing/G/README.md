@@ -8653,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Guardians of the Wild Sky | 347896 | [347896-guardians-of-the-wild-sky.json](./347896-guardians-of-the-wild-sky.json) |
 | Guardians of the Zodiac | 299008 | [299008-guardians-of-the-zodiac.json](./299008-guardians-of-the-zodiac.json) |
+| Guardians of Time: The Chronicles of Chronos | 290448 | [290448-guardians-of-time-the-chronicles-of-chronos.json](./290448-guardians-of-time-the-chronicles-of-chronos.json) |
 | Guardians of Victoria | 34882 | [34882-guardians-of-victoria.json](./34882-guardians-of-victoria.json) |
 | Guardians Survival | 244307 | [244307-guardians-survival.json](./244307-guardians-survival.json) |
 | Guardians: Denjin Makai II | 46781 | [46781-guardians-denjin-makai-ii.json](./46781-guardians-denjin-makai-ii.json) |
