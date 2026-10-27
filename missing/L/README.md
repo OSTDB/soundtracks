@@ -2867,6 +2867,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings Touch | 23494 | [23494-lemmings-touch.json](./23494-lemmings-touch.json) |
 | Lemmings Tribes | 240378 | [240378-lemmings-tribes.json](./240378-lemmings-tribes.json) |
 | Lemnis Gate | 119464 | [119464-lemnis-gate.json](./119464-lemnis-gate.json) |
+| Lemon | 314314 | [314314-lemon.json](./314314-lemon.json) |
+| Lemon | 314315 | [314315-lemon.json](./314315-lemon.json) |
 | Lemon Cake | 137111 | [137111-lemon-cake.json](./137111-lemon-cake.json) |
 | Lemon Pending | 179362 | [179362-lemon-pending.json](./179362-lemon-pending.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
