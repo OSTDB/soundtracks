@@ -5822,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Best. Game. Ever. | 210476 | [210476-best-game-ever.json](./210476-best-game-ever.json) |
 | Bestial Warrior | 47553 | [47553-bestial-warrior.json](./47553-bestial-warrior.json) |
+| Bestiario | 296847 | [296847-bestiario.json](./296847-bestiario.json) |
 | Bestiary | 135083 | [135083-bestiary.json](./135083-bestiary.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary Exam | 114749 | [114749-bestiary-exam.json](./114749-bestiary-exam.json) |
@@ -13729,6 +13730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotate | 163704 | [163704-brotate.json](./163704-brotate.json) |
 | Brotato + Abyssal Terrors DLC Bundle | 327717 | [327717-brotato-abyssal-terrors-dlc-bundle.json](./327717-brotato-abyssal-terrors-dlc-bundle.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
+| Brotato: Abyssal Terrors | 296840 | [296840-brotato-abyssal-terrors.json](./296840-brotato-abyssal-terrors.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
 | Brotes | 306792 | [306792-brotes.json](./306792-brotes.json) |
@@ -14162,6 +14164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Tanks TD 2 | 342251 | [342251-bubble-tanks-td-2.json](./342251-bubble-tanks-td-2.json) |
 | Bubble Tanks Tower Defense | 234700 | [234700-bubble-tanks-tower-defense.json](./234700-bubble-tanks-tower-defense.json) |
 | Bubble Tanks Tower Defense 1.5 | 234703 | [234703-bubble-tanks-tower-defense-1-5.json](./234703-bubble-tanks-tower-defense-1-5.json) |
+| Bubble Tea Tycoon | 296855 | [296855-bubble-tea-tycoon.json](./296855-bubble-tea-tycoon.json) |
 | Bubble Tea: Game for Thinking and Imagination | 151024 | [151024-bubble-tea-game-for-thinking-and-imagination.json](./151024-bubble-tea-game-for-thinking-and-imagination.json) |
 | Bubble Tea: Game for Thinking and Imagination - Escape | 168246 | [168246-bubble-tea-game-for-thinking-and-imagination-escape.json](./168246-bubble-tea-game-for-thinking-and-imagination-escape.json) |
 | Bubble Tower 3D | 314478 | [314478-bubble-tower-3d.json](./314478-bubble-tower-3d.json) |
