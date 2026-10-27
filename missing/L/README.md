@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Luna | 188308 | [188308-labyrinth-of-luna.json](./188308-labyrinth-of-luna.json) |
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
 | Labyrinth of Refrain: Coven of Dusk | 13062 | [13062-labyrinth-of-refrain-coven-of-dusk.json](./13062-labyrinth-of-refrain-coven-of-dusk.json) |
+| Labyrinth of Shadows | 330497 | [330497-labyrinth-of-shadows.json](./330497-labyrinth-of-shadows.json) |
 | Labyrinth of the Chaka King | 142733 | [142733-labyrinth-of-the-chaka-king.json](./142733-labyrinth-of-the-chaka-king.json) |
 | Labyrinth of the Crystal Princess | 406652 | [406652-labyrinth-of-the-crystal-princess.json](./406652-labyrinth-of-the-crystal-princess.json) |
 | Labyrinth of the Demon King | 188867 | [188867-labyrinth-of-the-demon-king.json](./188867-labyrinth-of-the-demon-king.json) |
@@ -635,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landfall Archives | 243542 | [243542-landfall-archives.json](./243542-landfall-archives.json) |
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
 | Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
+| Landing | 330670 | [330670-landing.json](./330670-landing.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landing High Japan | 129142 | [129142-landing-high-japan.json](./129142-landing-high-japan.json) |
 | Landing Party | 74089 | [74089-landing-party.json](./74089-landing-party.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LeapSchool Math | 208323 | [208323-leapschool-math.json](./208323-leapschool-math.json) |
 | LeapSchool Reading | 208324 | [208324-leapschool-reading.json](./208324-leapschool-reading.json) |
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
+| Learn & Play Collection | 330631 | [330631-learn-and-play-collection.json](./330631-learn-and-play-collection.json) |
 | Learn & Play: Dino Coloring | 400073 | [400073-learn-and-play-dino-coloring.json](./400073-learn-and-play-dino-coloring.json) |
 | Learn 2 Kaizo | 135545 | [135545-learn-2-kaizo.json](./135545-learn-2-kaizo.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
@@ -5654,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock Parsing | 81930 | [81930-lock-parsing.json](./81930-lock-parsing.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
+| Lock. Stock. And Hungry Pumpkins. | 330481 | [330481-lock-stock-and-hungry-pumpkins.json](./330481-lock-stock-and-hungry-pumpkins.json) |
 | Lock's Quest | 18264 | [18264-locks-quest.json](./18264-locks-quest.json) |
 | Lock's Quest | 46557 | [46557-locks-quest.json](./46557-locks-quest.json) |
 | Lockdown | 286791 | [286791-lockdown.json](./286791-lockdown.json) |
