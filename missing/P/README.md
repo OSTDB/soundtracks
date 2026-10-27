@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper io 2: Complete Edition | 331857 | [331857-paper-io-2-complete-edition.json](./331857-paper-io-2-complete-edition.json) |
 | Paper io 2: Gold Edition | 395681 | [395681-paper-io-2-gold-edition.json](./395681-paper-io-2-gold-edition.json) |
 | Paper io 2: Mishmash DLC | 263546 | [263546-paper-io-2-mishmash-dlc.json](./263546-paper-io-2-mishmash-dlc.json) |
+| Paper io 2: Variety Pack | 280616 | [280616-paper-io-2-variety-pack.json](./280616-paper-io-2-variety-pack.json) |
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
 | Paper Lily: Chapter 1 | 227213 | [227213-paper-lily-chapter-1.json](./227213-paper-lily-chapter-1.json) |
@@ -3206,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebble Beach Golf Links | 4273 | [4273-pebble-beach-golf-links.json](./4273-pebble-beach-golf-links.json) |
 | Pebble Beach no Hatou New: Tournament Edition | 38143 | [38143-pebble-beach-no-hatou-new-tournament-edition.json](./38143-pebble-beach-no-hatou-new-tournament-edition.json) |
+| Pebble Beach no Hatou Plus | 280945 | [280945-pebble-beach-no-hatou-plus.json](./280945-pebble-beach-no-hatou-plus.json) |
 | Pebble End | 187772 | [187772-pebble-end.json](./187772-pebble-end.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
 | Pebble of Time | 165145 | [165145-pebble-of-time.json](./165145-pebble-of-time.json) |
@@ -6972,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint 2: Deluxe Edition | 256267 | [256267-pixel-paint-2-deluxe-edition.json](./256267-pixel-paint-2-deluxe-edition.json) |
 | Pixel Paint 2: Extended Edition | 263605 | [263605-pixel-paint-2-extended-edition.json](./263605-pixel-paint-2-extended-edition.json) |
 | Pixel Paint 2: GOTY Edition | 287125 | [287125-pixel-paint-2-goty-edition.json](./287125-pixel-paint-2-goty-edition.json) |
+| Pixel Paint 2: Legendary Edition | 280612 | [280612-pixel-paint-2-legendary-edition.json](./280612-pixel-paint-2-legendary-edition.json) |
 | Pixel Paint 2: Ocean | 273308 | [273308-pixel-paint-2-ocean.json](./273308-pixel-paint-2-ocean.json) |
 | Pixel Paint 2: Platinum Edition | 283166 | [283166-pixel-paint-2-platinum-edition.json](./283166-pixel-paint-2-platinum-edition.json) |
 | Pixel Paint 2: Premium Edition | 271833 | [271833-pixel-paint-2-premium-edition.json](./271833-pixel-paint-2-premium-edition.json) |
