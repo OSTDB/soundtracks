@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satori's Dungeon Kingdom 2: The Heart Of Masked Memory | 210591 | [210591-satoris-dungeon-kingdom-2-the-heart-of-masked-memory.json](./210591-satoris-dungeon-kingdom-2-the-heart-of-masked-memory.json) |
 | Satoru Gojo Backshot Simulator | 320904 | [320904-satoru-gojo-backshot-simulator.json](./320904-satoru-gojo-backshot-simulator.json) |
 | Satoyama Note: Natsukusa Komichi | 277505 | [277505-satoyama-note-natsukusa-komichi.json](./277505-satoyama-note-natsukusa-komichi.json) |
+| Satoyama Note: Spring Walk | 330660 | [330660-satoyama-note-spring-walk.json](./330660-satoyama-note-spring-walk.json) |
 | Satryn Deluxe | 186106 | [186106-satryn-deluxe.json](./186106-satryn-deluxe.json) |
 | Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
 | Satsuki-iro no Sora ni | 412795 | [412795-satsuki-iro-no-sora-ni.json](./412795-satsuki-iro-no-sora-ni.json) |
@@ -5703,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow President | 73470 | [73470-shadow-president.json](./73470-shadow-president.json) |
 | Shadow Pride | 227367 | [227367-shadow-pride.json](./227367-shadow-pride.json) |
 | Shadow Princess: Crystalbound | 422489 | [422489-shadow-princess-crystalbound.json](./422489-shadow-princess-crystalbound.json) |
+| Shadow Prisoner | 330464 | [330464-shadow-prisoner.json](./330464-shadow-prisoner.json) |
 | Shadow Project | 359892 | [359892-shadow-project.json](./359892-shadow-project.json) |
 | Shadow Protocol | 351750 | [351750-shadow-protocol.json](./351750-shadow-protocol.json) |
 | Shadow Pulse | 273793 | [273793-shadow-pulse.json](./273793-shadow-pulse.json) |
@@ -7549,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
 | Shogun Curse | 289779 | [289779-shogun-curse.json](./289779-shogun-curse.json) |
+| Shogun Soul: Legendary Puzzle | 330615 | [330615-shogun-soul-legendary-puzzle.json](./330615-shogun-soul-legendary-puzzle.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War | 436 | [436-shogun-total-war.json](./436-shogun-total-war.json) |
 | Shogun: Total War - Gold Edition | 35893 | [35893-shogun-total-war-gold-edition.json](./35893-shogun-total-war-gold-edition.json) |
@@ -10789,7 +10792,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline | 370425 | [370425-skyline.json](./370425-skyline.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | Skyline Bowling | 330609 | [330609-skyline-bowling.json](./330609-skyline-bowling.json) |
+| Skyline Bowling: Bright Style | 330626 | [330626-skyline-bowling-bright-style.json](./330626-skyline-bowling-bright-style.json) |
 | Skyline Bowling: Complete Edition | 333724 | [333724-skyline-bowling-complete-edition.json](./333724-skyline-bowling-complete-edition.json) |
+| Skyline Bowling: Light Style | 330627 | [330627-skyline-bowling-light-style.json](./330627-skyline-bowling-light-style.json) |
 | Skyline Bowling: Spooky Edition | 376246 | [376246-skyline-bowling-spooky-edition.json](./376246-skyline-bowling-spooky-edition.json) |
 | Skyline Drift Simulator 2 | 103652 | [103652-skyline-drift-simulator-2.json](./103652-skyline-drift-simulator-2.json) |
 | Skyline Skaters | 6029 | [6029-skyline-skaters.json](./6029-skyline-skaters.json) |
@@ -14306,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Silence: Crownless King Expansion | 402542 | [402542-songs-of-silence-crownless-king-expansion.json](./402542-songs-of-silence-crownless-king-expansion.json) |
+| Songs of Silence: Lighteaters | 330642 | [330642-songs-of-silence-lighteaters.json](./330642-songs-of-silence-lighteaters.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
 | Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
 | Songs of Syx | 123861 | [123861-songs-of-syx.json](./123861-songs-of-syx.json) |
@@ -14467,6 +14473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Battle Force | 332649 | [332649-sonic-battle-force.json](./332649-sonic-battle-force.json) |
 | Sonic Battle R | 169233 | [169233-sonic-battle-r.json](./169233-sonic-battle-r.json) |
 | Sonic Battle Rush | 266507 | [266507-sonic-battle-rush.json](./266507-sonic-battle-rush.json) |
+| Sonic Battles | 330460 | [330460-sonic-battles.json](./330460-sonic-battles.json) |
 | Sonic Beat | 58689 | [58689-sonic-beat.json](./58689-sonic-beat.json) |
 | Sonic Billiards | 261246 | [261246-sonic-billiards.json](./261246-sonic-billiards.json) |
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
@@ -14786,6 +14793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic QZV | 331761 | [331761-sonic-qzv.json](./331761-sonic-qzv.json) |
 | Sonic R Characters: Metal Knuckles & Tails Doll | 242033 | [242033-sonic-r-characters-metal-knuckles-and-tails-doll.json](./242033-sonic-r-characters-metal-knuckles-and-tails-doll.json) |
 | Sonic R Mania | 401296 | [401296-sonic-r-mania.json](./401296-sonic-r-mania.json) |
+| Sonic R Mini | 330461 | [330461-sonic-r-mini.json](./330461-sonic-r-mini.json) |
 | Sonic R/Sonic 3D | 210307 | [210307-sonic-r-sonic-3d.json](./210307-sonic-r-sonic-3d.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
 | Sonic Racing CrossWorlds: Season Pass | 370461 | [370461-sonic-racing-crossworlds-season-pass.json](./370461-sonic-racing-crossworlds-season-pass.json) |
@@ -14859,6 +14867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
 | Sonic Roll-a-Ball | 326162 | [326162-sonic-roll-a-ball.json](./326162-sonic-roll-a-ball.json) |
 | Sonic Roller 1 & 2 Deluxe | 330550 | [330550-sonic-roller-1-and-2-deluxe.json](./330550-sonic-roller-1-and-2-deluxe.json) |
+| Sonic RPG | 330459 | [330459-sonic-rpg.json](./330459-sonic-rpg.json) |
 | Sonic RPG: Episode 10 | 333982 | [333982-sonic-rpg-episode-10.json](./333982-sonic-rpg-episode-10.json) |
 | Sonic RPG: Episode 7 | 273562 | [273562-sonic-rpg-episode-7.json](./273562-sonic-rpg-episode-7.json) |
 | Sonic Rumble Party | 300454 | [300454-sonic-rumble-party.json](./300454-sonic-rumble-party.json) |
@@ -15158,6 +15167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Murdering Insanity | 321819 | [321819-sonic-the-murdering-insanity.json](./321819-sonic-the-murdering-insanity.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
 | Sonic: Total Immersion | 331153 | [331153-sonic-total-immersion.json](./331153-sonic-total-immersion.json) |
+| Sonic: Ultimate Chaos | 330458 | [330458-sonic-ultimate-chaos.json](./330458-sonic-ultimate-chaos.json) |
 | Sonic.2017 | 313550 | [313550-sonic-2017.json](./313550-sonic-2017.json) |
 | Sonic.EXE | 45556 | [45556-sonic-exe.json](./45556-sonic-exe.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
@@ -15307,6 +15317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
 | Sorcerer's Path | 87969 | [87969-sorcerers-path.json](./87969-sorcerers-path.json) |
 | Sorcerer's Refuge | 409518 | [409518-sorcerers-refuge.json](./409518-sorcerers-refuge.json) |
+| Sorcerer's Servant | 330646 | [330646-sorcerers-servant.json](./330646-sorcerers-servant.json) |
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
 | Sorceress | 235363 | [235363-sorceress.json](./235363-sorceress.json) |
 | Sorceress | 88580 | [88580-sorceress.json](./88580-sorceress.json) |
@@ -19815,6 +19826,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacks: Village! | 364000 | [364000-stacks-village.json](./364000-stacks-village.json) |
 | Stacksquatch | 118243 | [118243-stacksquatch.json](./118243-stacksquatch.json) |
+| Stacky Dash: Action Pack | 330628 | [330628-stacky-dash-action-pack.json](./330628-stacky-dash-action-pack.json) |
+| Stacky Dash: Anime Pack | 330629 | [330629-stacky-dash-anime-pack.json](./330629-stacky-dash-anime-pack.json) |
 | Stacky Dash: Complete Edition | 333726 | [333726-stacky-dash-complete-edition.json](./333726-stacky-dash-complete-edition.json) |
 | Stacky Hero | 227866 | [227866-stacky-hero.json](./227866-stacky-hero.json) |
 | Stacky Spinners | 184386 | [184386-stacky-spinners.json](./184386-stacky-spinners.json) |
@@ -20260,6 +20273,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of the Show | 192624 | [192624-star-of-the-show.json](./192624-star-of-the-show.json) |
 | Star Ores Inc. | 347604 | [347604-star-ores-inc.json](./347604-star-ores-inc.json) |
 | Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
+| Star Overdrive: Deluxe Edition | 330623 | [330623-star-overdrive-deluxe-edition.json](./330623-star-overdrive-deluxe-edition.json) |
+| Star Overdrive: Deluxe Upgrade DLC | 330630 | [330630-star-overdrive-deluxe-upgrade-dlc.json](./330630-star-overdrive-deluxe-upgrade-dlc.json) |
 | Star Overhead | 274357 | [274357-star-overhead.json](./274357-star-overhead.json) |
 | Star Pagga | 63226 | [63226-star-pagga.json](./63226-star-pagga.json) |
 | Star Parodier | 37605 | [37605-star-parodier.json](./37605-star-parodier.json) |
@@ -23343,6 +23358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Gods: Orpheus Edition | 385325 | [385325-stray-gods-orpheus-edition.json](./385325-stray-gods-orpheus-edition.json) |
 | Stray Kids SKZOO Tamagotchi | 334864 | [334864-stray-kids-skzoo-tamagotchi.json](./334864-stray-kids-skzoo-tamagotchi.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
+| Stray of Lost Cat | 330649 | [330649-stray-of-lost-cat.json](./330649-stray-of-lost-cat.json) |
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Path | 268948 | [268948-stray-path.json](./268948-stray-path.json) |
 | Stray Sheep and Corpse Love | 393979 | [393979-stray-sheep-and-corpse-love.json](./393979-stray-sheep-and-corpse-love.json) |
@@ -23495,6 +23511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Errands | 360624 | [360624-street-errands.json](./360624-street-errands.json) |
 | Street Fight Club Simulator | 373837 | [373837-street-fight-club-simulator.json](./373837-street-fight-club-simulator.json) |
 | Street Fighter | 6930 | [6930-street-fighter.json](./6930-street-fighter.json) |
+| Street Fighter 2 | 330661 | [330661-street-fighter-2.json](./330661-street-fighter-2.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 30th Anniversary Collection: International | 298020 | [298020-street-fighter-30th-anniversary-collection-international.json](./298020-street-fighter-30th-anniversary-collection-international.json) |
 | Street Fighter 5: Guile | 324177 | [324177-street-fighter-5-guile.json](./324177-street-fighter-5-guile.json) |
