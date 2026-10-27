@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Enclave Armory Bundle | 334291 | [334291-fallout-76-enclave-armory-bundle.json](./334291-fallout-76-enclave-armory-bundle.json) |
 | Fallout 76: Ghoul Within | 341476 | [341476-fallout-76-ghoul-within.json](./341476-fallout-76-ghoul-within.json) |
 | Fallout 76: Gleaming Depths | 314487 | [314487-fallout-76-gleaming-depths.json](./314487-fallout-76-gleaming-depths.json) |
+| Fallout 76: Gleaming Depths - Deluxe Edition | 331817 | [331817-fallout-76-gleaming-depths-deluxe-edition.json](./331817-fallout-76-gleaming-depths-deluxe-edition.json) |
 | Fallout 76: Gone Fission | 347166 | [347166-fallout-76-gone-fission.json](./347166-fallout-76-gone-fission.json) |
 | Fallout 76: Infestations | 405074 | [405074-fallout-76-infestations.json](./405074-fallout-76-infestations.json) |
 | Fallout 76: Milepost Zero | 314486 | [314486-fallout-76-milepost-zero.json](./314486-fallout-76-milepost-zero.json) |
@@ -9110,6 +9111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Hundred Catapults | 237190 | [237190-four-hundred-catapults.json](./237190-four-hundred-catapults.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four in a Row | 146688 | [146688-four-in-a-row.json](./146688-four-in-a-row.json) |
+| Four in a Row | 331805 | [331805-four-in-a-row.json](./331805-four-in-a-row.json) |
 | Four In A Row - Classic Games | 102690 | [102690-four-in-a-row-classic-games.json](./102690-four-in-a-row-classic-games.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Kings One War | 110903 | [110903-four-kings-one-war.json](./110903-four-kings-one-war.json) |
@@ -11156,6 +11158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Match | 328658 | [328658-fun-match.json](./328658-fun-match.json) |
 | Fun on the Farm with Barney | 71608 | [71608-fun-on-the-farm-with-barney.json](./71608-fun-on-the-farm-with-barney.json) |
 | Fun Pack | 319790 | [319790-fun-pack.json](./319790-fun-pack.json) |
+| Fun Pack Series Edition | 331816 | [331816-fun-pack-series-edition.json](./331816-fun-pack-series-edition.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
 | Fun Puzzles Bundle | 331544 | [331544-fun-puzzles-bundle.json](./331544-fun-puzzles-bundle.json) |
 | Fun Puzzles Premium Bundle | 331545 | [331545-fun-puzzles-premium-bundle.json](./331545-fun-puzzles-premium-bundle.json) |
