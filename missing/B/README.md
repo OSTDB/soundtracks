@@ -7589,6 +7589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitter Belief | 223350 | [223350-bitter-belief.json](./223350-bitter-belief.json) |
 | Bitter Dream | 319660 | [319660-bitter-dream.json](./319660-bitter-dream.json) |
 | Bitter End | 175682 | [175682-bitter-end.json](./175682-bitter-end.json) |
+| Bitter Exclusion | 281873 | [281873-bitter-exclusion.json](./281873-bitter-exclusion.json) |
 | Bitter Harvest | 391535 | [391535-bitter-harvest.json](./391535-bitter-harvest.json) |
 | Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
