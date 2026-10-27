@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
 | Ice Scream United | 243705 | [243705-ice-scream-united.json](./243705-ice-scream-united.json) |
+| Ice Sisters: Princesses of the Frozen Age | 332354 | [332354-ice-sisters-princesses-of-the-frozen-age.json](./332354-ice-sisters-princesses-of-the-frozen-age.json) |
 | Ice Slider | 355232 | [355232-ice-slider.json](./355232-ice-slider.json) |
 | Ice Slider | 409373 | [409373-ice-slider.json](./409373-ice-slider.json) |
 | Ice Slider Z | 294403 | [294403-ice-slider-z.json](./294403-ice-slider-z.json) |
