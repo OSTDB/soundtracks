@@ -4597,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
+| Deepest Dungeons | 319048 | [319048-deepest-dungeons.json](./319048-deepest-dungeons.json) |
 | Deepest Fear | 324579 | [324579-deepest-fear.json](./324579-deepest-fear.json) |
 | Deepest Grievances | 397865 | [397865-deepest-grievances.json](./397865-deepest-grievances.json) |
 | Deepest Oblivion | 271813 | [271813-deepest-oblivion.json](./271813-deepest-oblivion.json) |
@@ -4826,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defendun | 240681 | [240681-defendun.json](./240681-defendun.json) |
 | Defense & Protect Epic Towers | 231963 | [231963-defense-and-protect-epic-towers.json](./231963-defense-and-protect-epic-towers.json) |
+| Defense Breakers | 318957 | [318957-defense-breakers.json](./318957-defense-breakers.json) |
 | Defense Cards | 267298 | [267298-defense-cards.json](./267298-defense-cards.json) |
 | Defense Clicker | 74600 | [74600-defense-clicker.json](./74600-defense-clicker.json) |
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
@@ -11976,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Plague | 338915 | [338915-dr-plague.json](./338915-dr-plague.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
 | Dr. Popper | 85722 | [85722-dr-popper.json](./85722-dr-popper.json) |
+| Dr. Priori’s Time Escape | 319047 | [319047-dr-priori-s-time-escape.json](./319047-dr-priori-s-time-escape.json) |
 | Dr. Psycho: Hospital Escape | 401115 | [401115-dr-psycho-hospital-escape.json](./401115-dr-psycho-hospital-escape.json) |
 | Dr. Psycho: Hospital Escape 2 | 270512 | [270512-dr-psycho-hospital-escape-2.json](./270512-dr-psycho-hospital-escape-2.json) |
 | Dr. Rabbit's Toothpaste Tower | 320989 | [320989-dr-rabbits-toothpaste-tower.json](./320989-dr-rabbits-toothpaste-tower.json) |
