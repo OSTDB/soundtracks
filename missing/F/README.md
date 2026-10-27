@@ -6228,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flanders KIller | 383767 | [383767-flanders-killer.json](./383767-flanders-killer.json) |
 | Flandre's Dream: 36000 ft Deep | 121282 | [121282-flandres-dream-36000-ft-deep.json](./121282-flandres-dream-36000-ft-deep.json) |
+| Flank Speed | 292565 | [292565-flank-speed.json](./292565-flank-speed.json) |
 | Flanker 2.0 | 708 | [708-flanker-2-0.json](./708-flanker-2-0.json) |
 | Flanker 2.5 | 709 | [709-flanker-2-5.json](./709-flanker-2-5.json) |
 | Flanker: Call of the Ghost | 353792 | [353792-flanker-call-of-the-ghost.json](./353792-flanker-call-of-the-ghost.json) |
