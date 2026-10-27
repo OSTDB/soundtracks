@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes to the End of the World | 352101 | [352101-15-minutes-to-the-end-of-the-world.json](./352101-15-minutes-to-the-end-of-the-world.json) |
 | 15 Move Hole Puzzle | 94162 | [94162-15-move-hole-puzzle.json](./94162-15-move-hole-puzzle.json) |
 | 15 Puzzle | 268864 | [268864-15-puzzle.json](./268864-15-puzzle.json) |
+| 15 Puzzle | 282592 | [282592-15-puzzle.json](./282592-15-puzzle.json) |
 | 15 Puzzle | 67073 | [67073-15-puzzle.json](./67073-15-puzzle.json) |
 | 15 Weeks Before Summer! | 358063 | [358063-15-weeks-before-summer.json](./358063-15-weeks-before-summer.json) |
 | 15 Years a Doomer | 262260 | [262260-15-years-a-doomer.json](./262260-15-years-a-doomer.json) |
