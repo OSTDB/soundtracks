@@ -2786,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom | 304975 | [304975-kingdom.json](./304975-kingdom.json) |
 | Kingdom | 372233 | [372233-kingdom.json](./372233-kingdom.json) |
 | Kingdom Adventurers | 256175 | [256175-kingdom-adventurers.json](./256175-kingdom-adventurers.json) |
+| Kingdom Ascension | 323145 | [323145-kingdom-ascension.json](./323145-kingdom-ascension.json) |
 | Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
 | Kingdom Bash | 58076 | [58076-kingdom-bash.json](./58076-kingdom-bash.json) |
 | Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
@@ -4579,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Rail Driving Tour: LRT Uijeongbu | 292361 | [292361-korean-rail-driving-tour-lrt-uijeongbu.json](./292361-korean-rail-driving-tour-lrt-uijeongbu.json) |
 | Korean Scary Folk Tales VR : The Forbidden Book | 103181 | [103181-korean-scary-folk-tales-vr-the-forbidden-book.json](./103181-korean-scary-folk-tales-vr-the-forbidden-book.json) |
 | Korean Student Simulator | 402734 | [402734-korean-student-simulator.json](./402734-korean-student-simulator.json) |
+| Koregafuko | 323143 | [323143-koregafuko.json](./323143-koregafuko.json) |
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
 | Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
 | KORG DS-10 Plus | 124490 | [124490-korg-ds-10-plus.json](./124490-korg-ds-10-plus.json) |
