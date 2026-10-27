@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T19:11:00.487Z",
-  "total_soundtracks": 2622,
+  "generated_at": "2026-10-27T19:26:25.120Z",
+  "total_soundtracks": 2629,
   "games": [
     {
       "igdb_id": 7522,
@@ -13541,6 +13541,20 @@
       ]
     },
     {
+      "igdb_id": 131869,
+      "game_name": "I Am Dead",
+      "game_url": "https://ostdb.net/games/i-am-dead",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a4d20304f4fec08f6201b693",
+      "albums": [
+        {
+          "album_name": "I Am Dead (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2GkaFODWCCn9YTkj4kW9lO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 9139,
       "game_name": "Ibb & Obb",
       "game_url": "https://ostdb.net/games/ibb-and-obb",
@@ -18745,6 +18759,20 @@
       ]
     },
     {
+      "igdb_id": 132005,
+      "game_name": "NieR Re[in]carnation",
+      "game_url": "https://ostdb.net/games/nier-re-in-carnation",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a94e0e1558782357a1733bfa",
+      "albums": [
+        {
+          "album_name": "NieR Re[in]carnation Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4kBFR5P8wqKnNBznYM2P6x",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 131999,
       "game_name": "NieR Replicant ver.1.22474487139...",
       "game_url": "https://ostdb.net/games/nier-replicant-ver-1-22474487139",
@@ -21064,6 +21092,20 @@
           "album_name": "Quantum Break - Original Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 102119,
+      "game_name": "Quarantine Circular",
+      "game_url": "https://ostdb.net/games/quarantine-circular",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738ee1c22f0b39dee4afc0795c",
+      "albums": [
+        {
+          "album_name": "Quarantine Circular (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6nxop8InC6J3YBH3IcAmvc",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -23674,6 +23716,20 @@
           "album_name": "Shovel Knight The Definitive Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0mDSPMGVdWORtoEuxhyMJx",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 122097,
+      "game_name": "Shovel Knight Dig",
+      "game_url": "https://ostdb.net/games/shovel-knight-dig",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27388cbf0975589bc8a77142e10",
+      "albums": [
+        {
+          "album_name": "Shovel Knight Dig (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Db3ftiB12eMuDbtXS3pjL",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -29295,6 +29351,20 @@
       ]
     },
     {
+      "igdb_id": 122385,
+      "game_name": "Timelie",
+      "game_url": "https://ostdb.net/games/timelie",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27332f75b061a8bcfcf372427ca",
+      "albums": [
+        {
+          "album_name": "Timelie (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/41mCBin3gNQTsHHGUUrMUf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2142,
       "game_name": "TimeSplitters",
       "game_url": "https://ostdb.net/games/timesplitters",
@@ -31571,6 +31641,20 @@
       ]
     },
     {
+      "igdb_id": 27870,
+      "game_name": "We Know the Devil",
+      "game_url": "https://ostdb.net/games/we-know-the-devil",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730ba05a0bbb7528f13a94a567",
+      "albums": [
+        {
+          "album_name": "We Know The Devil (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1wNOkDGeO8Mr0DnhIntbAq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 6454,
       "game_name": "We Love Katamari",
       "game_url": "https://ostdb.net/games/we-love-katamari",
@@ -31891,6 +31975,20 @@
         {
           "album_name": "Windbound (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/77LOpuObbIxGRfOZFR8ubd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9284,
+      "game_name": "Wings of Vi",
+      "game_url": "https://ostdb.net/games/wings-of-vi",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735f79713bbe23254e2e08ebab",
+      "albums": [
+        {
+          "album_name": "Wings of Vi Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/04AJ9kMzDRE5gpGr1zx9pC",
           "apple_music_url": "",
           "album_link_url": ""
         }
