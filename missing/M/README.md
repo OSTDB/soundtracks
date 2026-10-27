@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Project Nexus: Legacy of the S-3LF Eater | 269488 | [269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json](./269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json) |
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
+| Madnessarum | 285318 | [285318-madnessarum.json](./285318-madnessarum.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
 | Mado | 364841 | [364841-mado.json](./364841-mado.json) |
 | Mado Marks | 414617 | [414617-mado-marks.json](./414617-mado-marks.json) |
@@ -17343,6 +17344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Esports Club | 346192 | [346192-my-esports-club.json](./346192-my-esports-club.json) |
 | My European Trucking Skills | 316856 | [316856-my-european-trucking-skills.json](./316856-my-european-trucking-skills.json) |
 | My Everyday Life at Insect Academy | 364529 | [364529-my-everyday-life-at-insect-academy.json](./364529-my-everyday-life-at-insect-academy.json) |
+| My Evil Clones | 285492 | [285492-my-evil-clones.json](./285492-my-evil-clones.json) |
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
 | My Ex is a Ghost | 132612 | [132612-my-ex-is-a-ghost.json](./132612-my-ex-is-a-ghost.json) |
 | My Ex-Boyfriend the Space Tyrant | 17624 | [17624-my-ex-boyfriend-the-space-tyrant.json](./17624-my-ex-boyfriend-the-space-tyrant.json) |
