@@ -3853,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Monster Quest | 271635 | [271635-epic-monster-quest.json](./271635-epic-monster-quest.json) |
 | Epic Ninja | 220013 | [220013-epic-ninja.json](./220013-epic-ninja.json) |
 | Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
+| Epic of Brave | 286021 | [286021-epic-of-brave.json](./286021-epic-of-brave.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
 | Epic Palace: Knossos | 147370 | [147370-epic-palace-knossos.json](./147370-epic-palace-knossos.json) |
 | Epic Pandemonium | 253961 | [253961-epic-pandemonium.json](./253961-epic-pandemonium.json) |
@@ -4731,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Darkness | 95166 | [95166-escape-the-darkness.json](./95166-escape-the-darkness.json) |
 | Escape the Dead | 217212 | [217212-escape-the-dead.json](./217212-escape-the-dead.json) |
 | Escape the Desert | 348696 | [348696-escape-the-desert.json](./348696-escape-the-desert.json) |
+| Escape the Dungeon: The Eye of Tormak | 286017 | [286017-escape-the-dungeon-the-eye-of-tormak.json](./286017-escape-the-dungeon-the-eye-of-tormak.json) |
 | Escape the Dynasty | 389719 | [389719-escape-the-dynasty.json](./389719-escape-the-dynasty.json) |
 | Escape the Emerald Star | 205994 | [205994-escape-the-emerald-star.json](./205994-escape-the-emerald-star.json) |
 | Escape the Enterprise | 110552 | [110552-escape-the-enterprise.json](./110552-escape-the-enterprise.json) |
