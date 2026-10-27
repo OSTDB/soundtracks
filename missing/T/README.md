@@ -4398,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanks For Listening | 126946 | [126946-thanks-for-listening.json](./126946-thanks-for-listening.json) |
 | Thanks for the Soup | 408519 | [408519-thanks-for-the-soup.json](./408519-thanks-for-the-soup.json) |
 | Thanks Merlin | 297344 | [297344-thanks-merlin.json](./297344-thanks-merlin.json) |
+| Thanks Tanks! | 332380 | [332380-thanks-tanks.json](./332380-thanks-tanks.json) |
 | Thanks, Come Again | 245389 | [245389-thanks-come-again.json](./245389-thanks-come-again.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
 | Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
@@ -5763,6 +5764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brave Furries | 53711 | [53711-the-brave-furries.json](./53711-the-brave-furries.json) |
 | The Brave Hearts II: False Skies | 415480 | [415480-the-brave-hearts-ii-false-skies.json](./415480-the-brave-hearts-ii-false-skies.json) |
 | The Brave Little Cloud | 275828 | [275828-the-brave-little-cloud.json](./275828-the-brave-little-cloud.json) |
+| The Brave Little Pigs | 332344 | [332344-the-brave-little-pigs.json](./332344-the-brave-little-pigs.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
 | The Braves & Bows | 32292 | [32292-the-braves-and-bows.json](./32292-the-braves-and-bows.json) |
@@ -7659,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exit of Nightmare | 320614 | [320614-the-exit-of-nightmare.json](./320614-the-exit-of-nightmare.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Exit Strategy | 377346 | [377346-the-exit-strategy.json](./377346-the-exit-strategy.json) |
+| The Exit: Liminal Anomaly Horror | 332345 | [332345-the-exit-liminal-anomaly-horror.json](./332345-the-exit-liminal-anomaly-horror.json) |
 | The Exodus | 188839 | [188839-the-exodus.json](./188839-the-exodus.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
 | The Exorcist | 117425 | [117425-the-exorcist.json](./117425-the-exorcist.json) |
@@ -11023,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
 | The Little Moon | 329410 | [329410-the-little-moon.json](./329410-the-little-moon.json) |
+| The Little Pixel That Could | 332377 | [332377-the-little-pixel-that-could.json](./332377-the-little-pixel-that-could.json) |
 | The Little Plane That Could | 213216 | [213216-the-little-plane-that-could.json](./213216-the-little-plane-that-could.json) |
 | The Little Raven & Friends: The Tricycle Story | 71971 | [71971-the-little-raven-and-friends-the-tricycle-story.json](./71971-the-little-raven-and-friends-the-tricycle-story.json) |
 | The Little Red Lie | 145541 | [145541-the-little-red-lie.json](./145541-the-little-red-lie.json) |
@@ -13782,6 +13786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shapeshifting Detective | 105629 | [105629-the-shapeshifting-detective.json](./105629-the-shapeshifting-detective.json) |
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
+| The Shattered | 332369 | [332369-the-shattered.json](./332369-the-shattered.json) |
 | The Shattered Knight of Elaria | 319231 | [319231-the-shattered-knight-of-elaria.json](./319231-the-shattered-knight-of-elaria.json) |
 | The Shattered Mind of Lucas Hayes | 387420 | [387420-the-shattered-mind-of-lucas-hayes.json](./387420-the-shattered-mind-of-lucas-hayes.json) |
 | The Shattered Veil | 324731 | [324731-the-shattered-veil.json](./324731-the-shattered-veil.json) |
@@ -14453,6 +14458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stanley Parable Demonstration | 14544 | [14544-the-stanley-parable-demonstration.json](./14544-the-stanley-parable-demonstration.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Star Named Eos | 226505 | [226505-the-star-named-eos.json](./226505-the-star-named-eos.json) |
+| The Stare | 332384 | [332384-the-stare.json](./332384-the-stare.json) |
 | The Starfallen Prince | 385241 | [385241-the-starfallen-prince.json](./385241-the-starfallen-prince.json) |
 | The Starfighter | 371585 | [371585-the-starfighter.json](./371585-the-starfighter.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
@@ -15522,6 +15528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
 | The Ungrateful Son | 340593 | [340593-the-ungrateful-son.json](./340593-the-ungrateful-son.json) |
 | The Unhaunted Lolhouse | 106512 | [106512-the-unhaunted-lolhouse.json](./106512-the-unhaunted-lolhouse.json) |
+| The Unholy Priest | 332368 | [332368-the-unholy-priest.json](./332368-the-unholy-priest.json) |
 | The Unholy Society | 78751 | [78751-the-unholy-society.json](./78751-the-unholy-society.json) |
 | The Unic | 254697 | [254697-the-unic.json](./254697-the-unic.json) |
 | The Unicated | 327388 | [327388-the-unicated.json](./327388-the-unicated.json) |
@@ -19858,6 +19865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Knights | 180481 | [180481-tiny-knights.json](./180481-tiny-knights.json) |
 | Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
 | Tiny Lands | 142488 | [142488-tiny-lands.json](./142488-tiny-lands.json) |
+| Tiny Lands: Deluxe Edition | 332347 | [332347-tiny-lands-deluxe-edition.json](./332347-tiny-lands-deluxe-edition.json) |
 | Tiny Lands: Diorama set 1 | 404268 | [404268-tiny-lands-diorama-set-1.json](./404268-tiny-lands-diorama-set-1.json) |
 | Tiny Lands: Expansion Pack 1 | 231288 | [231288-tiny-lands-expansion-pack-1.json](./231288-tiny-lands-expansion-pack-1.json) |
 | Tiny Lands: Expansion Pack 2 | 269978 | [269978-tiny-lands-expansion-pack-2.json](./269978-tiny-lands-expansion-pack-2.json) |
