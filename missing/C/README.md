@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Void | 118610 | [118610-call-of-the-void.json](./118610-call-of-the-void.json) |
 | Call of the Wild: The Angler - Deluxe Edition | 264133 | [264133-call-of-the-wild-the-angler-deluxe-edition.json](./264133-call-of-the-wild-the-angler-deluxe-edition.json) |
 | Call of the Wild: The Angler - Japan Fishing Reserve | 331812 | [331812-call-of-the-wild-the-angler-japan-fishing-reserve.json](./331812-call-of-the-wild-the-angler-japan-fishing-reserve.json) |
+| Call of the Wild: The Angler - LakePal Bait Boat Pack | 318443 | [318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json](./318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json) |
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign: From North Africa to Northern Europe | 73730 | [73730-campaign-from-north-africa-to-northern-europe.json](./73730-campaign-from-north-africa-to-northern-europe.json) |
 | Campaigns on the Danube | 59498 | [59498-campaigns-on-the-danube.json](./59498-campaigns-on-the-danube.json) |
 | Campaña contra el Opio 2024 | 298967 | [298967-campana-contra-el-opio-2024.json](./298967-campana-contra-el-opio-2024.json) |
+| Campanella | 318469 | [318469-campanella.json](./318469-campanella.json) |
 | Campeones | 39117 | [39117-campeones.json](./39117-campeones.json) |
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
 | Camper Renovator | 172131 | [172131-camper-renovator.json](./172131-camper-renovator.json) |
@@ -1677,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Against Humanity | 377779 | [377779-capybara-against-humanity.json](./377779-capybara-against-humanity.json) |
 | Capybara and Friends Cozy Bundle | 357721 | [357721-capybara-and-friends-cozy-bundle.json](./357721-capybara-and-friends-cozy-bundle.json) |
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
+| Capybara Go! | 318448 | [318448-capybara-go.json](./318448-capybara-go.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Madness | 231273 | [231273-capybara-madness.json](./231273-capybara-madness.json) |
 | Capybara Park | 312189 | [312189-capybara-park.json](./312189-capybara-park.json) |
@@ -10520,6 +10523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Master | 248376 | [248376-combat-master.json](./248376-combat-master.json) |
 | Combat Master: Battle to Death | 344555 | [344555-combat-master-battle-to-death.json](./344555-combat-master-battle-to-death.json) |
 | Combat Master: Season 1 | 318437 | [318437-combat-master-season-1.json](./318437-combat-master-season-1.json) |
+| Combat Master: Season 2 | 318442 | [318442-combat-master-season-2.json](./318442-combat-master-season-2.json) |
 | Combat Mech VR | 157506 | [157506-combat-mech-vr.json](./157506-combat-mech-vr.json) |
 | Combat Medic | 249910 | [249910-combat-medic.json](./249910-combat-medic.json) |
 | Combat Medic: Special Ops | 70041 | [70041-combat-medic-special-ops.json](./70041-combat-medic-special-ops.json) |
@@ -11187,6 +11191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condor Heroes | 100905 | [100905-condor-heroes.json](./100905-condor-heroes.json) |
 | Condors vs. Ocelots | 164932 | [164932-condors-vs-ocelots.json](./164932-condors-vs-ocelots.json) |
 | Condottiero | 394132 | [394132-condottiero.json](./394132-condottiero.json) |
+| Conduct AR! | 318365 | [318365-conduct-ar.json](./318365-conduct-ar.json) |
 | Conduct Deluxe! | 76438 | [76438-conduct-deluxe.json](./76438-conduct-deluxe.json) |
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
 | Conduct Together!: Track Pack 2 | 307247 | [307247-conduct-together-track-pack-2.json](./307247-conduct-together-track-pack-2.json) |
@@ -17105,6 +17110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Protocol Prologue | 213340 | [213340-cyber-protocol-prologue.json](./213340-cyber-protocol-prologue.json) |
 | Cyber Protocol: Retro Arcade | 219467 | [219467-cyber-protocol-retro-arcade.json](./219467-cyber-protocol-retro-arcade.json) |
 | Cyber Puncake | 276680 | [276680-cyber-puncake.json](./276680-cyber-puncake.json) |
+| Cyber Quest | 318464 | [318464-cyber-quest.json](./318464-cyber-quest.json) |
 | Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
