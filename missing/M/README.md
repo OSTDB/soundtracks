@@ -15391,6 +15391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Ball to Green | 291518 | [291518-move-ball-to-green.json](./291518-move-ball-to-green.json) |
 | Move Blocks | 285454 | [285454-move-blocks.json](./285454-move-blocks.json) |
 | Move Code Lines | 284561 | [284561-move-code-lines.json](./284561-move-code-lines.json) |
+| Move Counters That Get More Cursed | 323654 | [323654-move-counters-that-get-more-cursed.json](./323654-move-counters-that-get-more-cursed.json) |
 | Move Dash Rush | 386920 | [386920-move-dash-rush.json](./386920-move-dash-rush.json) |
 | Move Dodge and Kill | 169353 | [169353-move-dodge-and-kill.json](./169353-move-dodge-and-kill.json) |
 | Move Egg in Time | 116448 | [116448-move-egg-in-time.json](./116448-move-egg-in-time.json) |
