@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfheim: Chapter 1 | 207745 | [207745-elfheim-chapter-1.json](./207745-elfheim-chapter-1.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfie: A Sand Plan | 367988 | [367988-elfie-a-sand-plan.json](./367988-elfie-a-sand-plan.json) |
+| Elfin Around | 285436 | [285436-elfin-around.json](./285436-elfin-around.json) |
 | Elfin Clay | 189904 | [189904-elfin-clay.json](./189904-elfin-clay.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfin Paradise | 419383 | [419383-elfin-paradise.json](./419383-elfin-paradise.json) |
@@ -6688,6 +6689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expanse | 343772 | [343772-expanse.json](./343772-expanse.json) |
 | ExpanSim | 117640 | [117640-expansim.json](./117640-expansim.json) |
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
+| Expansion | 285310 | [285310-expansion.json](./285310-expansion.json) |
 | Expansion Core | 201510 | [201510-expansion-core.json](./201510-expansion-core.json) |
 | Expect No Mercy | 47103 | [47103-expect-no-mercy.json](./47103-expect-no-mercy.json) |
 | Expedia Cenote Experience | 109626 | [109626-expedia-cenote-experience.json](./109626-expedia-cenote-experience.json) |
@@ -6859,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extermination 1 | 304705 | [304705-extermination-1.json](./304705-extermination-1.json) |
 | Extermination Day | 256703 | [256703-extermination-day.json](./256703-extermination-day.json) |
 | Extermination Ship | 346546 | [346546-extermination-ship.json](./346546-extermination-ship.json) |
+| Extermination Shock | 285430 | [285430-extermination-shock.json](./285430-extermination-shock.json) |
 | Exterminator | 12733 | [12733-exterminator.json](./12733-exterminator.json) |
 | Exterminator | 238557 | [238557-exterminator.json](./238557-exterminator.json) |
 | Exterminator | 290376 | [290376-exterminator.json](./290376-exterminator.json) |
