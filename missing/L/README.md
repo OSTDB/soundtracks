@@ -4402,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LimeLight Lemonade Jam | 371255 | [371255-limelight-lemonade-jam.json](./371255-limelight-lemonade-jam.json) |
 | Limen | 236921 | [236921-limen.json](./236921-limen.json) |
 | limentional | 296930 | [296930-limentional.json](./296930-limentional.json) |
+| Limerence | 299701 | [299701-limerence.json](./299701-limerence.json) |
 | Limerence | 411959 | [411959-limerence.json](./411959-limerence.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
