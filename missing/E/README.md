@@ -4669,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Game | 25848 | [25848-escape-the-game.json](./25848-escape-the-game.json) |
 | Escape the Game: Episode 1 | 170807 | [170807-escape-the-game-episode-1.json](./170807-escape-the-game-episode-1.json) |
 | Escape The Garage | 322275 | [322275-escape-the-garage.json](./322275-escape-the-garage.json) |
+| Escape the Ghost House | 320217 | [320217-escape-the-ghost-house.json](./320217-escape-the-ghost-house.json) |
 | Escape the Glitch | 287032 | [287032-escape-the-glitch.json](./287032-escape-the-glitch.json) |
 | Escape the Glitch 2: Backrooms | 299517 | [299517-escape-the-glitch-2-backrooms.json](./299517-escape-the-glitch-2-backrooms.json) |
 | Escape the Glubinka | 271112 | [271112-escape-the-glubinka.json](./271112-escape-the-glubinka.json) |
@@ -5090,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Knight | 338281 | [338281-eternal-knight.json](./338281-eternal-knight.json) |
 | Eternal Labyrinth | 338271 | [338271-eternal-labyrinth.json](./338271-eternal-labyrinth.json) |
 | Eternal Lands | 69208 | [69208-eternal-lands.json](./69208-eternal-lands.json) |
+| Eternal League | 320106 | [320106-eternal-league.json](./320106-eternal-league.json) |
 | Eternal Legend | 45794 | [45794-eternal-legend.json](./45794-eternal-legend.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Link | 345085 | [345085-eternal-link.json](./345085-eternal-link.json) |
@@ -6202,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Polaris | 364612 | [364612-ex-polaris.json](./364612-ex-polaris.json) |
 | Ex Sanguis | 346768 | [346768-ex-sanguis.json](./346768-ex-sanguis.json) |
 | Ex Shooter: Triple Bundle Pack | 218467 | [218467-ex-shooter-triple-bundle-pack.json](./218467-ex-shooter-triple-bundle-pack.json) |
+| Ex Terra | 320207 | [320207-ex-terra.json](./320207-ex-terra.json) |
 | Ex Vitro | 255789 | [255789-ex-vitro.json](./255789-ex-vitro.json) |
 | EX-802 | 330942 | [330942-ex-802.json](./330942-ex-802.json) |
 | Ex-Argent: Menes no Sairyuu | 206566 | [206566-ex-argent-menes-no-sairyuu.json](./206566-ex-argent-menes-no-sairyuu.json) |
