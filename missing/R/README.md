@@ -2941,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
 | Reburning Meteorite | 320806 | [320806-reburning-meteorite.json](./320806-reburning-meteorite.json) |
 | Rebus Master: Picture Puzzles | 420787 | [420787-rebus-master-picture-puzzles.json](./420787-rebus-master-picture-puzzles.json) |
+| Rebus Rush | 332334 | [332334-rebus-rush.json](./332334-rebus-rush.json) |
 | Rebut! | 389003 | [389003-rebut.json](./389003-rebut.json) |
 | Rec | 322669 | [322669-rec.json](./322669-rec.json) |
 | Rec Center Tycoon | 28694 | [28694-rec-center-tycoon.json](./28694-rec-center-tycoon.json) |
@@ -7574,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Battler | 4491 | [4491-robot-battler.json](./4491-robot-battler.json) |
 | Robot Beekeeper | 356304 | [356304-robot-beekeeper.json](./356304-robot-beekeeper.json) |
 | Robot Bowl | 39518 | [39518-robot-bowl.json](./39518-robot-bowl.json) |
+| Robot Boxing: Real Fighting Steel Battle | 332337 | [332337-robot-boxing-real-fighting-steel-battle.json](./332337-robot-boxing-real-fighting-steel-battle.json) |
 | Robot Bros | 89240 | [89240-robot-bros.json](./89240-robot-bros.json) |
 | Robot Car War: Transform Battle Machines | 187472 | [187472-robot-car-war-transform-battle-machines.json](./187472-robot-car-war-transform-battle-machines.json) |
 | Robot Carnage | 122852 | [122852-robot-carnage.json](./122852-robot-carnage.json) |
