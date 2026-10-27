@@ -7140,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Word | 325524 | [325524-diamond-word.json](./325524-diamond-word.json) |
 | DiamondFalls | 68578 | [68578-diamondfalls.json](./68578-diamondfalls.json) |
 | Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
+| Diamonds | 308208 | [308208-diamonds.json](./308208-diamonds.json) |
 | Diamonds | 348583 | [348583-diamonds.json](./348583-diamonds.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diana Hamilton's Dreams | 141718 | [141718-diana-hamiltons-dreams.json](./141718-diana-hamiltons-dreams.json) |
@@ -11123,6 +11124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomfields | 354929 | [354929-doomfields.json](./354929-doomfields.json) |
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
+| Dooming The Bar | 308183 | [308183-dooming-the-bar.json](./308183-dooming-the-bar.json) |
 | Doomium | 307817 | [307817-doomium.json](./307817-doomium.json) |
 | Doomkid | 259434 | [259434-doomkid.json](./259434-doomkid.json) |
 | Doomkid's Mega! | 262998 | [262998-doomkids-mega.json](./262998-doomkids-mega.json) |
