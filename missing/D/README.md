@@ -7715,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digi-Dodgy | 336676 | [336676-digi-dodgy.json](./336676-digi-dodgy.json) |
 | Digi-Doll | 345964 | [345964-digi-doll.json](./345964-digi-doll.json) |
 | Digi-tiles | 202074 | [202074-digi-tiles.json](./202074-digi-tiles.json) |
+| Digical League | 286488 | [286488-digical-league.json](./286488-digical-league.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | DigiGods: Build and Battle | 325874 | [325874-digigods-build-and-battle.json](./325874-digigods-build-and-battle.json) |
 | Digimon | 194324 | [194324-digimon.json](./194324-digimon.json) |
@@ -10244,6 +10245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollmaker 2 | 391138 | [391138-dollmaker-2.json](./391138-dollmaker-2.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls Made Here | 390082 | [390082-dolls-made-here.json](./390082-dolls-made-here.json) |
+| Dolls Nest | 286376 | [286376-dolls-nest.json](./286376-dolls-nest.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
 | Dollshouse | 381939 | [381939-dollshouse.json](./381939-dollshouse.json) |
@@ -11873,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
 | Doukutsu Demake | 183019 | [183019-doukutsu-demake.json](./183019-doukutsu-demake.json) |
 | Doukutsu Randamu | 216421 | [216421-doukutsu-randamu.json](./216421-doukutsu-randamu.json) |
+| Doukyuu Re-Mix Billiard Multiple | 286489 | [286489-doukyuu-re-mix-billiard-multiple.json](./286489-doukyuu-re-mix-billiard-multiple.json) |
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
 | Doukyuusei 2 | 38260 | [38260-doukyuusei-2.json](./38260-doukyuusei-2.json) |
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
