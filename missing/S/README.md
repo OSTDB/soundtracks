@@ -8689,6 +8689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigillum | 407173 | [407173-sigillum.json](./407173-sigillum.json) |
 | Sigillvm: Resonance | 346264 | [346264-sigillvm-resonance.json](./346264-sigillvm-resonance.json) |
 | Sigils of Elohim | 17808 | [17808-sigils-of-elohim.json](./17808-sigils-of-elohim.json) |
+| Sigils of Nightfall | 306921 | [306921-sigils-of-nightfall.json](./306921-sigils-of-nightfall.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
 | Sigma 7 | 36861 | [36861-sigma-7.json](./36861-sigma-7.json) |
 | Sigma Battle Royale Shooter | 231899 | [231899-sigma-battle-royale-shooter.json](./231899-sigma-battle-royale-shooter.json) |
@@ -12094,6 +12095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Dash: Demolition Run | 406575 | [406575-smash-dash-demolition-run.json](./406575-smash-dash-demolition-run.json) |
 | Smash Derby | 36776 | [36776-smash-derby.json](./36776-smash-derby.json) |
 | Smash Drums | 152212 | [152212-smash-drums.json](./152212-smash-drums.json) |
+| Smash Drums: Le Frickin’ Rock Show! | 306923 | [306923-smash-drums-le-frickin-rock-show.json](./306923-smash-drums-le-frickin-rock-show.json) |
 | Smash Drums: Pop Rock Legends | 306954 | [306954-smash-drums-pop-rock-legends.json](./306954-smash-drums-pop-rock-legends.json) |
 | Smash Dungeon | 115189 | [115189-smash-dungeon.json](./115189-smash-dungeon.json) |
 | Smash Frenzy | 54373 | [54373-smash-frenzy.json](./54373-smash-frenzy.json) |
