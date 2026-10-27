@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Robot | 356301 | [356301-way-of-robot.json](./356301-way-of-robot.json) |
 | Way of Tanks | 246253 | [246253-way-of-tanks.json](./246253-way-of-tanks.json) |
 | Way of the Bullet | 245723 | [245723-way-of-the-bullet.json](./245723-way-of-the-bullet.json) |
+| Way of the Chook | 314830 | [314830-way-of-the-chook.json](./314830-way-of-the-chook.json) |
 | Way of the Cossack | 25550 | [25550-way-of-the-cossack.json](./25550-way-of-the-cossack.json) |
 | Way of the Dogg | 20109 | [20109-way-of-the-dogg.json](./20109-way-of-the-dogg.json) |
 | Way of the Exploding Stick | 290866 | [290866-way-of-the-exploding-stick.json](./290866-way-of-the-exploding-stick.json) |
