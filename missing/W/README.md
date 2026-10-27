@@ -7871,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurps | 91583 | [91583-wurps.json](./91583-wurps.json) |
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
 | Wurst Defender Coop Edition | 76440 | [76440-wurst-defender-coop-edition.json](./76440-wurst-defender-coop-edition.json) |
+| Wurzelimperium | 320107 | [320107-wurzelimperium.json](./320107-wurzelimperium.json) |
 | Wuscar | 203884 | [203884-wuscar.json](./203884-wuscar.json) |
 | Wushu Chronicles 2 | 171024 | [171024-wushu-chronicles-2.json](./171024-wushu-chronicles-2.json) |
 | Wuthering Waves: All Silent Souls Can Sing | 326608 | [326608-wuthering-waves-all-silent-souls-can-sing.json](./326608-wuthering-waves-all-silent-souls-can-sing.json) |
