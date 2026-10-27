@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
 | Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori | 62127 | [62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json](./62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
+| Ogiri Adventure Game | 330668 | [330668-ogiri-adventure-game.json](./330668-ogiri-adventure-game.json) |
 | Ogopogo | 158539 | [158539-ogopogo.json](./158539-ogopogo.json) |
 | Ogopogo | 351546 | [351546-ogopogo.json](./351546-ogopogo.json) |
 | Ogora | 323936 | [323936-ogora.json](./323936-ogora.json) |
@@ -3667,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortheo Voyage | 289457 | [289457-ortheo-voyage.json](./289457-ortheo-voyage.json) |
 | Ortheo's Interdimensional Jam Session | 245992 | [245992-ortheos-interdimensional-jam-session.json](./245992-ortheos-interdimensional-jam-session.json) |
 | Ortho | 152322 | [152322-ortho.json](./152322-ortho.json) |
+| Ortho Blaze | 330084 | [330084-ortho-blaze.json](./330084-ortho-blaze.json) |
 | Ortho Robot | 8728 | [8728-ortho-robot.json](./8728-ortho-robot.json) |
 | Orthodox | 138583 | [138583-orthodox.json](./138583-orthodox.json) |
 | Orthoiso | 119675 | [119675-orthoiso.json](./119675-orthoiso.json) |
