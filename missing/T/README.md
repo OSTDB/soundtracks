@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target Pinball | 307399 | [307399-target-pinball.json](./307399-target-pinball.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Target Runner | 149690 | [149690-target-runner.json](./149690-target-runner.json) |
+| Target Rush | 292042 | [292042-target-rush.json](./292042-target-rush.json) |
 | Target speed | 82330 | [82330-target-speed.json](./82330-target-speed.json) |
 | Target Toss Pro: Bags | 85431 | [85431-target-toss-pro-bags.json](./85431-target-toss-pro-bags.json) |
 | Target Toss Pro: Lawn Darts | 66355 | [66355-target-toss-pro-lawn-darts.json](./66355-target-toss-pro-lawn-darts.json) |
@@ -17627,6 +17628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throwing Master | 226591 | [226591-throwing-master.json](./226591-throwing-master.json) |
 | Throwing Punches | 182394 | [182394-throwing-punches.json](./182394-throwing-punches.json) |
 | Throwing Stone | 167534 | [167534-throwing-stone.json](./167534-throwing-stone.json) |
+| Thru the City | 291941 | [291941-thru-the-city.json](./291941-thru-the-city.json) |
 | Thrunt XL | 111483 | [111483-thrunt-xl.json](./111483-thrunt-xl.json) |
 | Thrunt! | 134682 | [134682-thrunt.json](./134682-thrunt.json) |
 | Thrushbriar Hall | 111031 | [111031-thrushbriar-hall.json](./111031-thrushbriar-hall.json) |
@@ -17880,6 +17882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Heart | 400185 | [400185-ticket-to-heart.json](./400185-ticket-to-heart.json) |
 | Ticket to Nowhere | 412807 | [412807-ticket-to-nowhere.json](./412807-ticket-to-nowhere.json) |
 | Ticket to Ride | 267278 | [267278-ticket-to-ride.json](./267278-ticket-to-ride.json) |
+| Ticket To Ride: First Class Pack | 292038 | [292038-ticket-to-ride-first-class-pack.json](./292038-ticket-to-ride-first-class-pack.json) |
 | Ticket to Ride: First Journey | 69654 | [69654-ticket-to-ride-first-journey.json](./69654-ticket-to-ride-first-journey.json) |
 | Ticket to Ride: France | 154475 | [154475-ticket-to-ride-france.json](./154475-ticket-to-ride-france.json) |
 | Ticket to Ride: Germany | 154470 | [154470-ticket-to-ride-germany.json](./154470-ticket-to-ride-germany.json) |
@@ -26492,6 +26495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trio Triado The Game | 316592 | [316592-trio-triado-the-game.json](./316592-trio-triado-the-game.json) |
 | Triogram | 421187 | [421187-triogram.json](./421187-triogram.json) |
+| Trion | 292039 | [292039-trion.json](./292039-trion.json) |
 | Trioncube | 21547 | [21547-trioncube.json](./21547-trioncube.json) |
 | Trionix | 91287 | [91287-trionix.json](./91287-trionix.json) |
 | Triopticon | 284281 | [284281-triopticon.json](./284281-triopticon.json) |
