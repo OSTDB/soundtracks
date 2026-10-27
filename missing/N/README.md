@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
 | NeoNoid | 414791 | [414791-neonoid.json](./414791-neonoid.json) |
 | NeoNomicon | 37005 | [37005-neonomicon.json](./37005-neonomicon.json) |
+| Neonova | 313646 | [313646-neonova.json](./313646-neonova.json) |
 | NeonPlat's Cosmic Adventure | 59825 | [59825-neonplats-cosmic-adventure.json](./59825-neonplats-cosmic-adventure.json) |
 | NeonPowerUp! | 267841 | [267841-neonpowerup.json](./267841-neonpowerup.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
@@ -3883,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
 | Nightmare | 252735 | [252735-nightmare.json](./252735-nightmare.json) |
 | Nightmare | 30102 | [30102-nightmare.json](./30102-nightmare.json) |
+| Nightmare | 313661 | [313661-nightmare.json](./313661-nightmare.json) |
 | Nightmare | 360616 | [360616-nightmare.json](./360616-nightmare.json) |
 | Nightmare | 393515 | [393515-nightmare.json](./393515-nightmare.json) |
 | Nightmare Adventures: The Turning Thorn | 28681 | [28681-nightmare-adventures-the-turning-thorn.json](./28681-nightmare-adventures-the-turning-thorn.json) |
