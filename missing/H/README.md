@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy World 2 | 336487 | [336487-happy-world-2.json](./336487-happy-world-2.json) |
 | Happy Z-Day | 153341 | [153341-happy-z-day.json](./153341-happy-z-day.json) |
 | Happy Zone | 193937 | [193937-happy-zone.json](./193937-happy-zone.json) |
+| Happy Zoo | 298518 | [298518-happy-zoo.json](./298518-happy-zoo.json) |
 | Happy! Happy!! Boarders in Hokkaido | 61708 | [61708-happy-happy-boarders-in-hokkaido.json](./61708-happy-happy-boarders-in-hokkaido.json) |
 | Happy! The Hippo | 269988 | [269988-happy-the-hippo.json](./269988-happy-the-hippo.json) |
 | Happy's Clocks | 207594 | [207594-happys-clocks.json](./207594-happys-clocks.json) |
@@ -4989,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Road Online | 367851 | [367851-hero-road-online.json](./367851-hero-road-online.json) |
 | Hero Royale | 181144 | [181144-hero-royale.json](./181144-hero-royale.json) |
 | Hero Rush: Mad King | 72417 | [72417-hero-rush-mad-king.json](./72417-hero-rush-mad-king.json) |
+| Hero Saga | 298517 | [298517-hero-saga.json](./298517-hero-saga.json) |
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
 | Hero Seekers | 378763 | [378763-hero-seekers.json](./378763-hero-seekers.json) |
 | Hero Shuugou!! Pinball Party | 228639 | [228639-hero-shuugou-pinball-party.json](./228639-hero-shuugou-pinball-party.json) |
@@ -6403,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Dreams: Best Friends Forever | 60942 | [60942-high-school-dreams-best-friends-forever.json](./60942-high-school-dreams-best-friends-forever.json) |
 | High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
 | High School Fighters | 231430 | [231430-high-school-fighters.json](./231430-high-school-fighters.json) |
+| High School Fighting Game | 297988 | [297988-high-school-fighting-game.json](./297988-high-school-fighting-game.json) |
 | High School Games Offline 2023 | 296759 | [296759-high-school-games-offline-2023.json](./296759-high-school-games-offline-2023.json) |
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
@@ -9019,6 +9022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 2 | 300946 | [300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json](./300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 3 | 304810 | [304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json](./304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json) |
 | Hot Wheels Unleashed 2: Alien Encounters Expansion Pack | 302209 | [302209-hot-wheels-unleashed-2-alien-encounters-expansion-pack.json](./302209-hot-wheels-unleashed-2-alien-encounters-expansion-pack.json) |
+| Hot Wheels Unleashed 2: Fast & Furious Expansion Pack | 298536 | [298536-hot-wheels-unleashed-2-fast-and-furious-expansion-pack.json](./298536-hot-wheels-unleashed-2-fast-and-furious-expansion-pack.json) |
 | Hot Wheels Unleashed 2: Highway 35 Free Pack | 283610 | [283610-hot-wheels-unleashed-2-highway-35-free-pack.json](./283610-hot-wheels-unleashed-2-highway-35-free-pack.json) |
 | Hot Wheels Unleashed 2: Just a Scratch Pack | 271940 | [271940-hot-wheels-unleashed-2-just-a-scratch-pack.json](./271940-hot-wheels-unleashed-2-just-a-scratch-pack.json) |
 | Hot Wheels Unleashed 2: Mega Bites Free Pack | 297320 | [297320-hot-wheels-unleashed-2-mega-bites-free-pack.json](./297320-hot-wheels-unleashed-2-mega-bites-free-pack.json) |
@@ -9128,6 +9132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Hima | 260865 | [260865-hotel-hima.json](./260865-hotel-hima.json) |
 | Hotel Hustle | 300659 | [300659-hotel-hustle.json](./300659-hotel-hustle.json) |
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
+| Hotel Infinity | 297430 | [297430-hotel-infinity.json](./297430-hotel-infinity.json) |
 | Hotel Infinity | 351048 | [351048-hotel-infinity.json](./351048-hotel-infinity.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Investigation 09 | 352041 | [352041-hotel-investigation-09.json](./352041-hotel-investigation-09.json) |
@@ -9692,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HRmageddon | 397409 | [397409-hrmageddon.json](./397409-hrmageddon.json) |
 | Hrolfr vs. Evil Skulls | 379721 | [379721-hrolfr-vs-evil-skulls.json](./379721-hrolfr-vs-evil-skulls.json) |
 | Hroogar | 200314 | [200314-hroogar.json](./200314-hroogar.json) |
+| HRT Simulator 2023 | 299114 | [299114-hrt-simulator-2023.json](./299114-hrt-simulator-2023.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | HSHS | 303574 | [303574-hshs.json](./303574-hshs.json) |
@@ -10193,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter From Hell | 383456 | [383456-hunter-from-hell.json](./383456-hunter-from-hell.json) |
 | Hunter Girls | 259065 | [259065-hunter-girls.json](./259065-hunter-girls.json) |
 | Hunter Hearts | 164873 | [164873-hunter-hearts.json](./164873-hunter-hearts.json) |
+| Hunter Hitman | 297442 | [297442-hunter-hitman.json](./297442-hunter-hitman.json) |
 | Hunter Hitman | 340494 | [340494-hunter-hitman.json](./340494-hunter-hitman.json) |
 | Hunter in the Court of Beasts | 328931 | [328931-hunter-in-the-court-of-beasts.json](./328931-hunter-in-the-court-of-beasts.json) |
 | Hunter in the Lost Forest | 293202 | [293202-hunter-in-the-lost-forest.json](./293202-hunter-in-the-lost-forest.json) |
