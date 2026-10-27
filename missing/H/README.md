@@ -6259,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek | 234520 | [234520-hide-and-seek.json](./234520-hide-and-seek.json) |
 | Hide and Seek | 245670 | [245670-hide-and-seek.json](./245670-hide-and-seek.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
+| Hide and Seek | 303980 | [303980-hide-and-seek.json](./303980-hide-and-seek.json) |
 | Hide and Seek | 340003 | [340003-hide-and-seek.json](./340003-hide-and-seek.json) |
 | Hide and Seek | 361342 | [361342-hide-and-seek.json](./361342-hide-and-seek.json) |
 | Hide and Seek | 57570 | [57570-hide-and-seek.json](./57570-hide-and-seek.json) |
