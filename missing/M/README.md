@@ -5491,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazM: The Phantom of the Opera | 125865 | [125865-mazm-the-phantom-of-the-opera.json](./125865-mazm-the-phantom-of-the-opera.json) |
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
+| Mazy Match | 282743 | [282743-mazy-match.json](./282743-mazy-match.json) |
 | MazyMazes | 250267 | [250267-mazymazes.json](./250267-mazymazes.json) |
 | Mazzembly 1997 | 78512 | [78512-mazzembly-1997.json](./78512-mazzembly-1997.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
@@ -5514,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's Original: Happy Disc | 242061 | [242061-mcdonalds-original-happy-disc.json](./242061-mcdonalds-original-happy-disc.json) |
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
 | McDonald's Work Challenge | 218936 | [218936-mcdonalds-work-challenge.json](./218936-mcdonalds-work-challenge.json) |
+| McDonald's: Golden Arches Adventure | 282742 | [282742-mcdonalds-golden-arches-adventure.json](./282742-mcdonalds-golden-arches-adventure.json) |
 | McDonald's: Minedonalds | 325359 | [325359-mcdonalds-minedonalds.json](./325359-mcdonalds-minedonalds.json) |
 | McDonaldland | 15261 | [15261-mcdonaldland.json](./15261-mcdonaldland.json) |
 | McDonaldland | 285031 | [285031-mcdonaldland.json](./285031-mcdonaldland.json) |
@@ -17510,6 +17512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Gnome Wife Left Me | 278459 | [278459-my-gnome-wife-left-me.json](./278459-my-gnome-wife-left-me.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
+| My Golf | 282738 | [282738-my-golf.json](./282738-my-golf.json) |
 | My Golf 3D | 91166 | [91166-my-golf-3d.json](./91166-my-golf-3d.json) |
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
 | My Goth Girl | 400504 | [400504-my-goth-girl.json](./400504-my-goth-girl.json) |
