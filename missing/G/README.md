@@ -3450,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
 | Ghosts and Bureaucracy | 133064 | [133064-ghosts-and-bureaucracy.json](./133064-ghosts-and-bureaucracy.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
+| Ghosts in the Garden | 307630 | [307630-ghosts-in-the-garden.json](./307630-ghosts-in-the-garden.json) |
 | Ghosts in the Toybox: Chapter 1 | 99479 | [99479-ghosts-in-the-toybox-chapter-1.json](./99479-ghosts-in-the-toybox-chapter-1.json) |
 | Ghosts Keep Out | 407793 | [407793-ghosts-keep-out.json](./407793-ghosts-keep-out.json) |
 | Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
@@ -6388,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab the Sushi | 268023 | [268023-grab-the-sushi.json](./268023-grab-the-sushi.json) |
 | Grab the Win | 131237 | [131237-grab-the-win.json](./131237-grab-the-win.json) |
 | Grab Toy | 181035 | [181035-grab-toy.json](./181035-grab-toy.json) |
+| Grabage | 307623 | [307623-grabage.json](./307623-grabage.json) |
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
 | Grabatron | 174643 | [174643-grabatron.json](./174643-grabatron.json) |
 | GrabBag | 107936 | [107936-grabbag.json](./107936-grabbag.json) |
@@ -7668,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Heritage: Noble Duty | 266425 | [266425-grey-heritage-noble-duty.json](./266425-grey-heritage-noble-duty.json) |
 | Grey Instinct | 159305 | [159305-grey-instinct.json](./159305-grey-instinct.json) |
 | Grey Instinct: Part 2 | 235774 | [235774-grey-instinct-part-2.json](./235774-grey-instinct-part-2.json) |
+| Grey Lights | 308312 | [308312-grey-lights.json](./308312-grey-lights.json) |
 | Grey Lines | 261725 | [261725-grey-lines.json](./261725-grey-lines.json) |
 | Grey Lucidity | 154055 | [154055-grey-lucidity.json](./154055-grey-lucidity.json) |
 | Grey Matter | 78518 | [78518-grey-matter.json](./78518-grey-matter.json) |
