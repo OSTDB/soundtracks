@@ -819,7 +819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2282,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BarGirls | 400463 | [400463-bargirls.json](./400463-bargirls.json) |
 | Bargoer | 403372 | [403372-bargoer.json](./403372-bargoer.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
+| Barheim | 319030 | [319030-barheim.json](./319030-barheim.json) |
 | Barista | 310682 | [310682-barista.json](./310682-barista.json) |
 | Barista | 347150 | [347150-barista.json](./347150-barista.json) |
 | Barista Coffee Simulator | 342213 | [342213-barista-coffee-simulator.json](./342213-barista-coffee-simulator.json) |
@@ -5765,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
 | Best Rally | 104247 | [104247-best-rally.json](./104247-best-rally.json) |
 | Best Romance Game Ever | 183996 | [183996-best-romance-game-ever.json](./183996-best-romance-game-ever.json) |
+| Best Served Cold | 318952 | [318952-best-served-cold.json](./318952-best-served-cold.json) |
 | Best Served Haute | 323995 | [323995-best-served-haute.json](./323995-best-served-haute.json) |
 | Best Shot Pro Golf | 44422 | [44422-best-shot-pro-golf.json](./44422-best-shot-pro-golf.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
