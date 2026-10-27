@@ -3354,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temtem: Collector's Edition | 206674 | [206674-temtem-collectors-edition.json](./206674-temtem-collectors-edition.json) |
 | Temtem: Deluxe Edition | 212338 | [212338-temtem-deluxe-edition.json](./212338-temtem-deluxe-edition.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
+| Temtem: Swarm | 287618 | [287618-temtem-swarm.json](./287618-temtem-swarm.json) |
 | Temukung: Cultivation in Drylands | 327091 | [327091-temukung-cultivation-in-drylands.json](./327091-temukung-cultivation-in-drylands.json) |
 | Ten | 202770 | [202770-ten.json](./202770-ten.json) |
 | Ten 1K Games | 319526 | [319526-ten-1k-games.json](./319526-ten-1k-games.json) |
@@ -18435,6 +18436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Tora!Tora!Tora! MP098 | 173515 | [173515-tiger-fighter-1931-tora-tora-tora-mp098.json](./173515-tiger-fighter-1931-tora-tora-tora-mp098.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP100 | 173536 | [173536-tiger-fighter-1931-tora-tora-tora-mp100.json](./173536-tiger-fighter-1931-tora-tora-tora-mp100.json) |
 | Tiger Girl Hill Breaker | 158532 | [158532-tiger-girl-hill-breaker.json](./158532-tiger-girl-hill-breaker.json) |
+| Tiger Heli | 287597 | [287597-tiger-heli.json](./287597-tiger-heli.json) |
 | Tiger Heli | 4606 | [4606-tiger-heli.json](./4606-tiger-heli.json) |
 | Tiger Hunt | 41977 | [41977-tiger-hunt.json](./41977-tiger-hunt.json) |
 | Tiger Hunt | 68695 | [68695-tiger-hunt.json](./68695-tiger-hunt.json) |
@@ -20441,6 +20443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
 | Titanic: A Mysterious Undersea Adventure | 70783 | [70783-titanic-a-mysterious-undersea-adventure.json](./70783-titanic-a-mysterious-undersea-adventure.json) |
+| Titanic: A Space Between | 287613 | [287613-titanic-a-space-between.json](./287613-titanic-a-space-between.json) |
 | Titanic: Adventure out of Time | 7516 | [7516-titanic-adventure-out-of-time.json](./7516-titanic-adventure-out-of-time.json) |
 | Titanic: An Interactive Exploration | 45891 | [45891-titanic-an-interactive-exploration.json](./45891-titanic-an-interactive-exploration.json) |
 | Titanic: Challenge of Discovery | 71720 | [71720-titanic-challenge-of-discovery.json](./71720-titanic-challenge-of-discovery.json) |
