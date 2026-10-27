@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy White's Cue Ball | 50029 | [50029-jimmy-whites-cue-ball.json](./50029-jimmy-whites-cue-ball.json) |
 | Jimmy White's Cueball World | 208809 | [208809-jimmy-whites-cueball-world.json](./208809-jimmy-whites-cueball-world.json) |
 | Jimmy's Agony | 266777 | [266777-jimmys-agony.json](./266777-jimmys-agony.json) |
+| Jimmy's Fruity Adventure | 288709 | [288709-jimmys-fruity-adventure.json](./288709-jimmys-fruity-adventure.json) |
 | Jimmy's Journey | 121492 | [121492-jimmys-journey.json](./121492-jimmys-journey.json) |
 | Jimmy's Lost Fruits Journey 2: Veggocalypse | 265695 | [265695-jimmys-lost-fruits-journey-2-veggocalypse.json](./265695-jimmys-lost-fruits-journey-2-veggocalypse.json) |
 | Jimmy's No. 44 House | 356668 | [356668-jimmys-no-44-house.json](./356668-jimmys-no-44-house.json) |
