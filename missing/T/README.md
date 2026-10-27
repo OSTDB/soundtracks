@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
 | Taco Loco: Horror Game | 342274 | [342274-taco-loco-horror-game.json](./342274-taco-loco-horror-game.json) |
 | Taco Run | 56149 | [56149-taco-run.json](./56149-taco-run.json) |
+| Taco Terror | 296324 | [296324-taco-terror.json](./296324-taco-terror.json) |
 | Taco Tides | 292076 | [292076-taco-tides.json](./292076-taco-tides.json) |
 | Taco Tom 2 | 113047 | [113047-taco-tom-2.json](./113047-taco-tom-2.json) |
 | Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
@@ -1910,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 1 - Kamen Gensou Satsujin Jiken | 293239 | [293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json](./293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
+| Tantei Kibukawa Ryousuke Jiken-tan: Vol. 6 - Tsuikou Saku Jiken | 296408 | [296408-tantei-kibukawa-ryousuke-jiken-tan-vol-6-tsuikou-saku-jiken.json](./296408-tantei-kibukawa-ryousuke-jiken-tan-vol-6-tsuikou-saku-jiken.json) |
 | Tantei Opera Milky Holmes | 38481 | [38481-tantei-opera-milky-holmes.json](./38481-tantei-opera-milky-holmes.json) |
 | Tantei Opera Milky Holmes 2 | 150117 | [150117-tantei-opera-milky-holmes-2.json](./150117-tantei-opera-milky-holmes-2.json) |
 | Tantei Shinshi Dash! | 122873 | [122873-tantei-shinshi-dash.json](./122873-tantei-shinshi-dash.json) |
@@ -7125,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Difference Between Us | 184309 | [184309-the-difference-between-us.json](./184309-the-difference-between-us.json) |
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
 | The Digital Asset Inquisition | 311007 | [311007-the-digital-asset-inquisition.json](./311007-the-digital-asset-inquisition.json) |
+| The Dilemma | 296317 | [296317-the-dilemma.json](./296317-the-dilemma.json) |
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
 | The Dimension of Anaconda | 360101 | [360101-the-dimension-of-anaconda.json](./360101-the-dimension-of-anaconda.json) |
 | The Diner | 250537 | [250537-the-diner.json](./250537-the-diner.json) |
@@ -11622,6 +11625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Many Pieces of Mr. Coo: Fantabulous Edition | 247194 | [247194-the-many-pieces-of-mr-coo-fantabulous-edition.json](./247194-the-many-pieces-of-mr-coo-fantabulous-edition.json) |
 | The Many Sins of House Ocampo | 251651 | [251651-the-many-sins-of-house-ocampo.json](./251651-the-many-sins-of-house-ocampo.json) |
 | The Map Is the Thing | 348204 | [348204-the-map-is-the-thing.json](./348204-the-map-is-the-thing.json) |
+| The Mara Witch | 296413 | [296413-the-mara-witch.json](./296413-the-mara-witch.json) |
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
 | The Mare Show: Obscure Tech Skin Pack | 374097 | [374097-the-mare-show-obscure-tech-skin-pack.json](./374097-the-mare-show-obscure-tech-skin-pack.json) |
@@ -12368,6 +12372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old City: Leviathan | 14437 | [14437-the-old-city-leviathan.json](./14437-the-old-city-leviathan.json) |
 | The Old Flesh of Nuraga | 400555 | [400555-the-old-flesh-of-nuraga.json](./400555-the-old-flesh-of-nuraga.json) |
 | The Old Forest | 199588 | [199588-the-old-forest.json](./199588-the-old-forest.json) |
+| The Old Gentleman | 296327 | [296327-the-old-gentleman.json](./296327-the-old-gentleman.json) |
 | The Old House | 138760 | [138760-the-old-house.json](./138760-the-old-house.json) |
 | The Old House | 257895 | [257895-the-old-house.json](./257895-the-old-house.json) |
 | The Old Kazulka | 89371 | [89371-the-old-kazulka.json](./89371-the-old-kazulka.json) |
@@ -20114,6 +20119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pixels Vol. 1: Ninpo Blast | 308625 | [308625-tiny-pixels-vol-1-ninpo-blast.json](./308625-tiny-pixels-vol-1-ninpo-blast.json) |
 | Tiny Pixels Vol. 2: Stormy Knights | 338928 | [338928-tiny-pixels-vol-2-stormy-knights.json](./338928-tiny-pixels-vol-2-stormy-knights.json) |
 | Tiny Plane | 62613 | [62613-tiny-plane.json](./62613-tiny-plane.json) |
+| Tiny Planet | 296398 | [296398-tiny-planet.json](./296398-tiny-planet.json) |
 | Tiny Planet Protectors | 152000 | [152000-tiny-planet-protectors.json](./152000-tiny-planet-protectors.json) |
 | Tiny Plumbers | 54192 | [54192-tiny-plumbers.json](./54192-tiny-plumbers.json) |
 | Tiny Plushie Story | 356597 | [356597-tiny-plushie-story.json](./356597-tiny-plushie-story.json) |
@@ -20144,6 +20150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Shop | 297576 | [297576-tiny-shop.json](./297576-tiny-shop.json) |
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
+| Tiny Ski | 296321 | [296321-tiny-ski.json](./296321-tiny-ski.json) |
 | Tiny Sokoban | 228391 | [228391-tiny-sokoban.json](./228391-tiny-sokoban.json) |
 | Tiny Solar System | 221150 | [221150-tiny-solar-system.json](./221150-tiny-solar-system.json) |
 | Tiny Space Program | 174525 | [174525-tiny-space-program.json](./174525-tiny-space-program.json) |
@@ -26605,6 +26612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
 | Trivia Throwdown | 119992 | [119992-trivia-throwdown.json](./119992-trivia-throwdown.json) |
 | Trivia Town: Quiz Duel | 232064 | [232064-trivia-town-quiz-duel.json](./232064-trivia-town-quiz-duel.json) |
+| Trivia Trials | 296339 | [296339-trivia-trials.json](./296339-trivia-trials.json) |
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Trove | 55991 | [55991-trivia-trove.json](./55991-trivia-trove.json) |
 | Trivia Vault Baseball Trivia | 88070 | [88070-trivia-vault-baseball-trivia.json](./88070-trivia-vault-baseball-trivia.json) |
@@ -27215,6 +27223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Remember | 150409 | [150409-try-to-remember.json](./150409-try-to-remember.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Try to Survive! | 172379 | [172379-try-to-survive.json](./172379-try-to-survive.json) |
+| Try to Wake Up : The Legend of Trevis | 296337 | [296337-try-to-wake-up-the-legend-of-trevis.json](./296337-try-to-wake-up-the-legend-of-trevis.json) |
 | Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
 | Try. Die. Repeat. | 133875 | [133875-try-die-repeat.json](./133875-try-die-repeat.json) |
 | TryAndLove | 279555 | [279555-tryandlove.json](./279555-tryandlove.json) |
