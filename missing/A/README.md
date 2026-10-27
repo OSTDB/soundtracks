@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day for Fresh Sushi | 141554 | [141554-a-day-for-fresh-sushi.json](./141554-a-day-for-fresh-sushi.json) |
 | A Day for Soft Food | 304221 | [304221-a-day-for-soft-food.json](./304221-a-day-for-soft-food.json) |
 | A Day In Space | 249257 | [249257-a-day-in-space.json](./249257-a-day-in-space.json) |
+| A Day In The Future | 326523 | [326523-a-day-in-the-future.json](./326523-a-day-in-the-future.json) |
 | A Day in the Lie | 176237 | [176237-a-day-in-the-lie.json](./176237-a-day-in-the-lie.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day in the Life Of | 387694 | [387694-a-day-in-the-life-of.json](./387694-a-day-in-the-life-of.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
 | A New Life | 304304 | [304304-a-new-life.json](./304304-a-new-life.json) |
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
+| A New Spark | 326541 | [326541-a-new-spark.json](./326541-a-new-spark.json) |
 | A New World | 268882 | [268882-a-new-world.json](./268882-a-new-world.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
 | A New World: Kingdoms | 68474 | [68474-a-new-world-kingdoms.json](./68474-a-new-world-kingdoms.json) |
