@@ -4610,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape of Pinball | 339769 | [339769-escape-of-pinball.json](./339769-escape-of-pinball.json) |
 | Escape of The Hammer Princess | 312767 | [312767-escape-of-the-hammer-princess.json](./312767-escape-of-the-hammer-princess.json) |
 | Escape or Imprison | 227253 | [227253-escape-or-imprison.json](./227253-escape-or-imprison.json) |
+| Escape Panda | 302992 | [302992-escape-panda.json](./302992-escape-panda.json) |
 | Escape parking lot | 109406 | [109406-escape-parking-lot.json](./109406-escape-parking-lot.json) |
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
 | Escape Peng | 303520 | [303520-escape-peng.json](./303520-escape-peng.json) |
@@ -4635,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Marathon | 410388 | [410388-escape-room-marathon.json](./410388-escape-room-marathon.json) |
 | Escape Room Mega Bundle | 279036 | [279036-escape-room-mega-bundle.json](./279036-escape-room-mega-bundle.json) |
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
+| Escape Room of Flower | 302991 | [302991-escape-room-of-flower.json](./302991-escape-room-of-flower.json) |
 | Escape Room Pentalogy Bundle | 284488 | [284488-escape-room-pentalogy-bundle.json](./284488-escape-room-pentalogy-bundle.json) |
 | Escape Room Six Games Pack | 332011 | [332011-escape-room-six-games-pack.json](./332011-escape-room-six-games-pack.json) |
 | Escape Room Super Bundle | 295471 | [295471-escape-room-super-bundle.json](./295471-escape-room-super-bundle.json) |
@@ -6112,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evilmun Family: Season 5 water renewal Part 1 | 230533 | [230533-evilmun-family-season-5-water-renewal-part-1.json](./230533-evilmun-family-season-5-water-renewal-part-1.json) |
 | Evilot | 63386 | [63386-evilot.json](./63386-evilot.json) |
 | EvilSlayer | 367354 | [367354-evilslayer.json](./367354-evilslayer.json) |
+| Evilspunk | 302907 | [302907-evilspunk.json](./302907-evilspunk.json) |
 | Eviltech: Soul of Megawad | 261823 | [261823-eviltech-soul-of-megawad.json](./261823-eviltech-soul-of-megawad.json) |
 | EvilTrap | 297067 | [297067-eviltrap.json](./297067-eviltrap.json) |
 | EvilUp | 240133 | [240133-evilup.json](./240133-evilup.json) |
