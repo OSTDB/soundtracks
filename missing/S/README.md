@@ -1234,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SamuraiZero | 171474 | [171474-samuraizero.json](./171474-samuraizero.json) |
 | Samurise | 330741 | [330741-samurise.json](./330741-samurise.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk | 226402 | [226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json](./226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json) |
+| Samus Goes to the Fridge to Get a Glass of Milk 3D | 308164 | [308164-samus-goes-to-the-fridge-to-get-a-glass-of-milk-3d.json](./308164-samus-goes-to-the-fridge-to-get-a-glass-of-milk-3d.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
 | SamuTale | 56897 | [56897-samutale.json](./56897-samutale.json) |
 | Samuza | 287215 | [287215-samuza.json](./287215-samuza.json) |
@@ -4104,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Power Bundle: Weedcraft Inc & Cultist Simulator: Anthology | 331515 | [331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json](./331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seedship | 178454 | [178454-seedship.json](./178454-seedship.json) |
+| Seedsow Lullaby | 308306 | [308306-seedsow-lullaby.json](./308306-seedsow-lullaby.json) |
 | Seedverse | 409234 | [409234-seedverse.json](./409234-seedverse.json) |
 | Seeing Double | 384050 | [384050-seeing-double.json](./384050-seeing-double.json) |
 | Seeing Red | 321826 | [321826-seeing-red.json](./321826-seeing-red.json) |
@@ -11073,6 +11075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughter Horse 2 | 211133 | [211133-slaughter-horse-2.json](./211133-slaughter-horse-2.json) |
 | Slaughter Me Street: 1999 | 327276 | [327276-slaughter-me-street-1999.json](./327276-slaughter-me-street-1999.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
+| Slaughterfest | 308310 | [308310-slaughterfest.json](./308310-slaughterfest.json) |
 | Slaughterfest 2011 | 140890 | [140890-slaughterfest-2011.json](./140890-slaughterfest-2011.json) |
 | Slaughterfest 2012 | 140891 | [140891-slaughterfest-2012.json](./140891-slaughterfest-2012.json) |
 | Slaughterfest 3 | 140892 | [140892-slaughterfest-3.json](./140892-slaughterfest-3.json) |
@@ -11820,6 +11823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sludge Life | 131705 | [131705-sludge-life.json](./131705-sludge-life.json) |
 | Sludge Life 2 | 242597 | [242597-sludge-life-2.json](./242597-sludge-life-2.json) |
 | Sludge Life: The Big Mud Sessions | 254974 | [254974-sludge-life-the-big-mud-sessions.json](./254974-sludge-life-the-big-mud-sessions.json) |
+| Sludge Plunge | 308311 | [308311-sludge-plunge.json](./308311-sludge-plunge.json) |
 | Sludge Witch | 263336 | [263336-sludge-witch.json](./263336-sludge-witch.json) |
 | Sludgineers | 389622 | [389622-sludgineers.json](./389622-sludgineers.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
@@ -14320,6 +14324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
 | Somny & Yawn: Dream Detectives | 132604 | [132604-somny-and-yawn-dream-detectives.json](./132604-somny-and-yawn-dream-detectives.json) |
 | Somos | 110494 | [110494-somos.json](./110494-somos.json) |
+| Son and Bone | 308223 | [308223-son-and-bone.json](./308223-son-and-bone.json) |
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
 | Son of a Gun | 244250 | [244250-son-of-a-gun.json](./244250-son-of-a-gun.json) |
 | Son of a Witch | 102107 | [102107-son-of-a-witch.json](./102107-son-of-a-witch.json) |
@@ -14609,6 +14614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
 | Sonic Champions | 330527 | [330527-sonic-champions.json](./330527-sonic-champions.json) |
+| Sonic Championship | 308191 | [308191-sonic-championship.json](./308191-sonic-championship.json) |
 | Sonic Chances | 318514 | [318514-sonic-chances.json](./318514-sonic-chances.json) |
 | Sonic Chaos | 136816 | [136816-sonic-chaos.json](./136816-sonic-chaos.json) |
 | Sonic Chaos Planet | 330711 | [330711-sonic-chaos-planet.json](./330711-sonic-chaos-planet.json) |
@@ -15054,6 +15060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Fighters | 7728 | [7728-sonic-the-fighters.json](./7728-sonic-the-fighters.json) |
 | Sonic the Fighters 2 | 331300 | [331300-sonic-the-fighters-2.json](./331300-sonic-the-fighters-2.json) |
 | Sonic the Fighters Blitz | 321766 | [321766-sonic-the-fighters-blitz.json](./321766-sonic-the-fighters-blitz.json) |
+| Sonic The Fighters Blitz Hyper Edition | 308179 | [308179-sonic-the-fighters-blitz-hyper-edition.json](./308179-sonic-the-fighters-blitz-hyper-edition.json) |
 | Sonic The Funk | 392430 | [392430-sonic-the-funk.json](./392430-sonic-the-funk.json) |
 | Sonic the Gizoid | 326133 | [326133-sonic-the-gizoid.json](./326133-sonic-the-gizoid.json) |
 | Sonic the Hackable | 321071 | [321071-sonic-the-hackable.json](./321071-sonic-the-hackable.json) |
@@ -16078,6 +16085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Southside Racing | 329202 | [329202-southside-racing.json](./329202-southside-racing.json) |
 | Souvenir | 181561 | [181561-souvenir.json](./181561-souvenir.json) |
 | Souvenir | 295509 | [295509-souvenir.json](./295509-souvenir.json) |
+| Souvenirs | 308222 | [308222-souvenirs.json](./308222-souvenirs.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
 | Soverain: An Eternal Legend | 377176 | [377176-soverain-an-eternal-legend.json](./377176-soverain-an-eternal-legend.json) |
@@ -23624,6 +23632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer vs. Zombie | 345398 | [345398-streamer-vs-zombie.json](./345398-streamer-vs-zombie.json) |
 | Streamer's Court | 208817 | [208817-streamers-court.json](./208817-streamers-court.json) |
 | Streamer's Life | 124447 | [124447-streamers-life.json](./124447-streamers-life.json) |
+| StreamerBeater | 308214 | [308214-streamerbeater.json](./308214-streamerbeater.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
 | Streamers Cleaning Simulator | 312422 | [312422-streamers-cleaning-simulator.json](./312422-streamers-cleaning-simulator.json) |
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
@@ -24364,6 +24373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Bunnies Circus | 252927 | [252927-stunt-bunnies-circus.json](./252927-stunt-bunnies-circus.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
 | Stunt Car Parking and Driving Simulator | 91257 | [91257-stunt-car-parking-and-driving-simulator.json](./91257-stunt-car-parking-and-driving-simulator.json) |
+| Stunt Car Racer | 308149 | [308149-stunt-car-racer.json](./308149-stunt-car-racer.json) |
 | Stunt Cars | 85399 | [85399-stunt-cars.json](./85399-stunt-cars.json) |
 | Stunt Copter | 229021 | [229021-stunt-copter.json](./229021-stunt-copter.json) |
 | Stunt Corgi | 76989 | [76989-stunt-corgi.json](./76989-stunt-corgi.json) |
