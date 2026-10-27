@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quality Dreams, Reasonably Priced | 318478 | [318478-quality-dreams-reasonably-priced.json](./318478-quality-dreams-reasonably-priced.json) |
 | Quality Television | 180697 | [180697-quality-television.json](./180697-quality-television.json) |
 | Qualle Party | 292640 | [292640-qualle-party.json](./292640-qualle-party.json) |
+| Qualle Party: Bonus Maps | 296869 | [296869-qualle-party-bonus-maps.json](./296869-qualle-party-bonus-maps.json) |
 | Quallet | 287725 | [287725-quallet.json](./287725-quallet.json) |
 | Quan min zhao bu tong | 402360 | [402360-quan-min-zhao-bu-tong.json](./402360-quan-min-zhao-bu-tong.json) |
 | Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
 | Quest 64: Hard Mode | 214948 | [214948-quest-64-hard-mode.json](./214948-quest-64-hard-mode.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
+| Quest and Arena | 298521 | [298521-quest-and-arena.json](./298521-quest-and-arena.json) |
 | Quest Arrest | 141615 | [141615-quest-arrest.json](./141615-quest-arrest.json) |
 | Quest Braintainment | 334625 | [334625-quest-braintainment.json](./334625-quest-braintainment.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
@@ -856,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Brain Letter Hunt | 394561 | [394561-quick-brain-letter-hunt.json](./394561-quick-brain-letter-hunt.json) |
 | Quick Brain: Number Hunt | 394562 | [394562-quick-brain-number-hunt.json](./394562-quick-brain-number-hunt.json) |
 | Quick Brown | 393982 | [393982-quick-brown.json](./393982-quick-brown.json) |
+| Quick Cast Chaos | 298074 | [298074-quick-cast-chaos.json](./298074-quick-cast-chaos.json) |
 | Quick Choice Girl | 259715 | [259715-quick-choice-girl.json](./259715-quick-choice-girl.json) |
 | Quick Deduction Short Mysteries | 394558 | [394558-quick-deduction-short-mysteries.json](./394558-quick-deduction-short-mysteries.json) |
 | Quick Draw | 260150 | [260150-quick-draw.json](./260150-quick-draw.json) |
@@ -895,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuickCalculation | 387520 | [387520-quickcalculation.json](./387520-quickcalculation.json) |
 | Quickclaw | 257848 | [257848-quickclaw.json](./257848-quickclaw.json) |
 | Quickerflak | 186860 | [186860-quickerflak.json](./186860-quickerflak.json) |
+| Quickerflak 2 | 296857 | [296857-quickerflak-2.json](./296857-quickerflak-2.json) |
 | Quickflash: A Fabula Story | 192431 | [192431-quickflash-a-fabula-story.json](./192431-quickflash-a-fabula-story.json) |
 | Quickie Takeout | 417993 | [417993-quickie-takeout.json](./417993-quickie-takeout.json) |
 | Quickie World | 201267 | [201267-quickie-world.json](./201267-quickie-world.json) |
