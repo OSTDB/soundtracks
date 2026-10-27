@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
 | Parcel Frenzy: Get To Work! | 357149 | [357149-parcel-frenzy-get-to-work.json](./357149-parcel-frenzy-get-to-work.json) |
 | Parcel Mania | 275533 | [275533-parcel-mania.json](./275533-parcel-mania.json) |
+| Parcel Master | 317793 | [317793-parcel-master.json](./317793-parcel-master.json) |
 | Parcel Packing Simulator | 263994 | [263994-parcel-packing-simulator.json](./263994-parcel-packing-simulator.json) |
 | Parcel Panic | 125093 | [125093-parcel-panic.json](./125093-parcel-panic.json) |
 | Parcel Peaks | 391551 | [391551-parcel-peaks.json](./391551-parcel-peaks.json) |
@@ -5180,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross NP Vol. 6 | 148432 | [148432-picross-np-vol-6.json](./148432-picross-np-vol-6.json) |
 | Picross NP Vol. 7 | 148433 | [148433-picross-np-vol-7.json](./148433-picross-np-vol-7.json) |
 | Picross NP Vol. 8 | 148434 | [148434-picross-np-vol-8.json](./148434-picross-np-vol-8.json) |
+| Picross Records of The Shield Hero | 317886 | [317886-picross-records-of-the-shield-hero.json](./317886-picross-records-of-the-shield-hero.json) |
 | Picross S Capcom Classics Edition | 378164 | [378164-picross-s-capcom-classics-edition.json](./378164-picross-s-capcom-classics-edition.json) |
 | Picross S Doraemon & F Characters Edition | 335349 | [335349-picross-s-doraemon-and-f-characters-edition.json](./335349-picross-s-doraemon-and-f-characters-edition.json) |
 | Picross S Konami Antiques Edition | 395594 | [395594-picross-s-konami-antiques-edition.json](./395594-picross-s-konami-antiques-edition.json) |
@@ -6716,6 +6718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch Color by Number: Cute Pack 2 | 374096 | [374096-pixel-cross-stitch-color-by-number-cute-pack-2.json](./374096-pixel-cross-stitch-color-by-number-cute-pack-2.json) |
 | Pixel Cross Stitch Color by Number: Landscapes Pack 5 | 374095 | [374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json](./374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json) |
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
+| Pixel Cross Stitch: Color by Number | 317800 | [317800-pixel-cross-stitch-color-by-number.json](./317800-pixel-cross-stitch-color-by-number.json) |
 | Pixel Cross Stitch: Color by Number - Alien Worlds Pack 3 | 337560 | [337560-pixel-cross-stitch-color-by-number-alien-worlds-pack-3.json](./337560-pixel-cross-stitch-color-by-number-alien-worlds-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Miniatures Pack | 377602 | [377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json](./377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Pack 3 | 377606 | [377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json](./377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json) |
@@ -8875,6 +8878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocoyo World | 208235 | [208235-pocoyo-world.json](./208235-pocoyo-world.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
 | POD | 12960 | [12960-pod.json](./12960-pod.json) |
+| Pod Jam | 317792 | [317792-pod-jam.json](./317792-pod-jam.json) |
 | POD SpeedZone | 84320 | [84320-pod-speedzone.json](./84320-pod-speedzone.json) |
 | POD: Back to Hell | 93467 | [93467-pod-back-to-hell.json](./93467-pod-back-to-hell.json) |
 | Poda Wants a Statue | 260699 | [260699-poda-wants-a-statue.json](./260699-poda-wants-a-statue.json) |
@@ -11312,6 +11316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poupée Girl DS 2: Elegant Mint Style | 122302 | [122302-poupee-girl-ds-2-elegant-mint-style.json](./122302-poupee-girl-ds-2-elegant-mint-style.json) |
 | Poupou's Sausage Shop | 394114 | [394114-poupous-sausage-shop.json](./394114-poupous-sausage-shop.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
+| Pour Cappuccino 1000 | 317887 | [317887-pour-cappuccino-1000.json](./317887-pour-cappuccino-1000.json) |
 | Pour Quelques Bonbons... | 320994 | [320994-pour-quelques-bonbons.json](./320994-pour-quelques-bonbons.json) |
 | Pour There | 155994 | [155994-pour-there.json](./155994-pour-there.json) |
 | Pourdle | 332637 | [332637-pourdle.json](./332637-pourdle.json) |
