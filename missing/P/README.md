@@ -13440,6 +13440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hastur | 114891 | [114891-project-hastur.json](./114891-project-hastur.json) |
 | Project Haven | 124008 | [124008-project-haven.json](./124008-project-haven.json) |
 | Project Heartbeat | 130920 | [130920-project-heartbeat.json](./130920-project-heartbeat.json) |
+| Project Heck | 311527 | [311527-project-heck.json](./311527-project-heck.json) |
 | Project Hedra | 53481 | [53481-project-hedra.json](./53481-project-hedra.json) |
 | Project Heist Boss | 400669 | [400669-project-heist-boss.json](./400669-project-heist-boss.json) |
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
@@ -13786,6 +13787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project X Zone | 6864 | [6864-project-x-zone.json](./6864-project-x-zone.json) |
 | Project X Zone 2 | 9721 | [9721-project-x-zone-2.json](./9721-project-x-zone-2.json) |
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
+| Project X: Light Years | 311514 | [311514-project-x-light-years.json](./311514-project-x-light-years.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project Xandata | 75405 | [75405-project-xandata.json](./75405-project-xandata.json) |
 | Project Xenophobe | 325914 | [325914-project-xenophobe.json](./325914-project-xenophobe.json) |
