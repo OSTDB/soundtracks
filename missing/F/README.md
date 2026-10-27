@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmagia | 250918 | [250918-farmagia.json](./250918-farmagia.json) |
 | Farmagia: Afanc Skin - Baby Tomato | 324445 | [324445-farmagia-afanc-skin-baby-tomato.json](./324445-farmagia-afanc-skin-baby-tomato.json) |
 | Farmagia: Buddy Skin Bundle | 324471 | [324471-farmagia-buddy-skin-bundle.json](./324471-farmagia-buddy-skin-bundle.json) |
+| Farmagia: Digital Deluxe Edition | 320690 | [320690-farmagia-digital-deluxe-edition.json](./320690-farmagia-digital-deluxe-edition.json) |
 | Farmare: Ultimate Animal Survive | 374777 | [374777-farmare-ultimate-animal-survive.json](./374777-farmare-ultimate-animal-survive.json) |
 | Farmbotic | 348350 | [348350-farmbotic.json](./348350-farmbotic.json) |
 | Farmburgh | 236263 | [236263-farmburgh.json](./236263-farmburgh.json) |
