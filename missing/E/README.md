@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Super Tritorn MSX2 | 387663 | [387663-eggconsole-super-tritorn-msx2.json](./387663-eggconsole-super-tritorn-msx2.json) |
 | Eggconsole Templo Del Sol: Asteka II PC-8801 | 319319 | [319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json](./319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json) |
 | Eggconsole The Legend of Heroes Saga PC-8801 | 334093 | [334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json](./334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json) |
+| Eggconsole The Scheme PC-8801mkIISR | 323695 | [323695-eggconsole-the-scheme-pc-8801mkiisr.json](./323695-eggconsole-the-scheme-pc-8801mkiisr.json) |
 | Eggconsole Thexder PC-8801mkIISR | 274444 | [274444-eggconsole-thexder-pc-8801mkiisr.json](./274444-eggconsole-thexder-pc-8801mkiisr.json) |
 | Eggconsole Topple Zip PC-8801 | 306531 | [306531-eggconsole-topple-zip-pc-8801.json](./306531-eggconsole-topple-zip-pc-8801.json) |
 | Eggconsole Undeadline MSX2 | 320448 | [320448-eggconsole-undeadline-msx2.json](./320448-eggconsole-undeadline-msx2.json) |
