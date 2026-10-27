@@ -591,8 +591,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little to the Left Seeing Stars DLC Bundle | 312110 | [312110-a-little-to-the-left-seeing-stars-dlc-bundle.json](./312110-a-little-to-the-left-seeing-stars-dlc-bundle.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Extra Tidy Bundle | 312836 | [312836-a-little-to-the-left-extra-tidy-bundle.json](./312836-a-little-to-the-left-extra-tidy-bundle.json) |
+| A Little to the Left: Good Tidyings | 319539 | [319539-a-little-to-the-left-good-tidyings.json](./319539-a-little-to-the-left-good-tidyings.json) |
+| A Little to the Left: Merry Mess | 319538 | [319538-a-little-to-the-left-merry-mess.json](./319538-a-little-to-the-left-merry-mess.json) |
 | A Little to the Left: Packed | 351395 | [351395-a-little-to-the-left-packed.json](./351395-a-little-to-the-left-packed.json) |
 | A Little to the Left: Seeing Stars | 305034 | [305034-a-little-to-the-left-seeing-stars.json](./305034-a-little-to-the-left-seeing-stars.json) |
+| A Little to the Left: Something Eggstra | 319541 | [319541-a-little-to-the-left-something-eggstra.json](./319541-a-little-to-the-left-something-eggstra.json) |
 | A Little Turtle Has Just Hatched on a Beach in Texas. | 180491 | [180491-a-little-turtle-has-just-hatched-on-a-beach-in-texas.json](./180491-a-little-turtle-has-just-hatched-on-a-beach-in-texas.json) |
 | A Little Walk in the Woods | 274734 | [274734-a-little-walk-in-the-woods.json](./274734-a-little-walk-in-the-woods.json) |
 | A Little War | 107053 | [107053-a-little-war.json](./107053-a-little-war.json) |
@@ -7517,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | Amzula | 394139 | [394139-amzula.json](./394139-amzula.json) |
 | An Absolutely Not Suspicious Cabin in the Woods | 160212 | [160212-an-absolutely-not-suspicious-cabin-in-the-woods.json](./160212-an-absolutely-not-suspicious-cabin-in-the-woods.json) |
+| An Abstract Art Game in 10 Seconds | 319548 | [319548-an-abstract-art-game-in-10-seconds.json](./319548-an-abstract-art-game-in-10-seconds.json) |
 | An Abyss of Dreams | 325339 | [325339-an-abyss-of-dreams.json](./325339-an-abyss-of-dreams.json) |
 | An Action Roguelite For When You Have 20 Minutes to Spare | 244828 | [244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json](./244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
@@ -14675,6 +14679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoBlobber | 345066 | [345066-autoblobber.json](./345066-autoblobber.json) |
 | Autobots | 14457 | [14457-autobots.json](./14457-autobots.json) |
 | Autocard: Your RPG Adventure | 381264 | [381264-autocard-your-rpg-adventure.json](./381264-autocard-your-rpg-adventure.json) |
+| Autochef | 319532 | [319532-autochef.json](./319532-autochef.json) |
 | AutoChess Moba | 219104 | [219104-autochess-moba.json](./219104-autochess-moba.json) |
 | AutoChess of Gensokyo | 153142 | [153142-autochess-of-gensokyo.json](./153142-autochess-of-gensokyo.json) |
 | AutoCompete | 233099 | [233099-autocompete.json](./233099-autocompete.json) |
