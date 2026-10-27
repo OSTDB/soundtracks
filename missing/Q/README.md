@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qloister | 381928 | [381928-qloister.json](./381928-qloister.json) |
 | Qlorb 2 | 88241 | [88241-qlorb-2.json](./88241-qlorb-2.json) |
 | Qlrz | 134514 | [134514-qlrz.json](./134514-qlrz.json) |
+| Qlute | 307550 | [307550-qlute.json](./307550-qlute.json) |
 | QMC: Puritan | 272127 | [272127-qmc-puritan.json](./272127-qmc-puritan.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
 | Qomp2 | 263923 | [263923-qomp2.json](./263923-qomp2.json) |
