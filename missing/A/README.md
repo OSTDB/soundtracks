@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Snowman's Chance | 244154 | [244154-a-snowmans-chance.json](./244154-a-snowmans-chance.json) |
 | A Sold House | 133785 | [133785-a-sold-house.json](./133785-a-sold-house.json) |
 | A Soldier's Struggle | 385712 | [385712-a-soldiers-struggle.json](./385712-a-soldiers-struggle.json) |
+| A Solution | 331792 | [331792-a-solution.json](./331792-a-solution.json) |
 | A Song for Viggo | 61398 | [61398-a-song-for-viggo.json](./61398-a-song-for-viggo.json) |
 | A song in the void | 76325 | [76325-a-song-in-the-void.json](./76325-a-song-in-the-void.json) |
 | A Song of Sunlight | 265534 | [265534-a-song-of-sunlight.json](./265534-a-song-of-sunlight.json) |
@@ -11522,6 +11523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Scorched Earth | 103514 | [103514-ark-scorched-earth.json](./103514-ark-scorched-earth.json) |
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
 | Ark: Survival Ascended | 250509 | [250509-ark-survival-ascended.json](./250509-ark-survival-ascended.json) |
+| Ark: Survival Ascended - Fantastic Tames: Dreadmare | 331809 | [331809-ark-survival-ascended-fantastic-tames-dreadmare.json](./331809-ark-survival-ascended-fantastic-tames-dreadmare.json) |
 | Ark: Survival Evolved - Limited Collector's Edition | 136152 | [136152-ark-survival-evolved-limited-collectors-edition.json](./136152-ark-survival-evolved-limited-collectors-edition.json) |
 | Ark: Survival Evolved: Explorer's Edition | 118717 | [118717-ark-survival-evolved-explorers-edition.json](./118717-ark-survival-evolved-explorers-edition.json) |
 | Ark: Survival of the Fittest | 24412 | [24412-ark-survival-of-the-fittest.json](./24412-ark-survival-of-the-fittest.json) |
