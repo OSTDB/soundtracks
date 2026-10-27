@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
 | Kart Race | 50308 | [50308-kart-race.json](./50308-kart-race.json) |
+| Kart Race Kimete wa Drift! | 286363 | [286363-kart-race-kimete-wa-drift.json](./286363-kart-race-kimete-wa-drift.json) |
 | Kart Racing | 381228 | [381228-kart-racing.json](./381228-kart-racing.json) |
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
 | Kart Racing Star Simulator Game | 342414 | [342414-kart-racing-star-simulator-game.json](./342414-kart-racing-star-simulator-game.json) |
@@ -2392,7 +2393,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3176,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
 | Kioku Shoujo | 151533 | [151533-kioku-shoujo.json](./151533-kioku-shoujo.json) |
 | Kiomet | 358225 | [358225-kiomet.json](./358225-kiomet.json) |
+| Kiopioke! | 286369 | [286369-kiopioke.json](./286369-kiopioke.json) |
 | Kiou | 405681 | [405681-kiou.json](./405681-kiou.json) |
 | Kip 2: Beyond Boundaries | 360693 | [360693-kip-2-beyond-boundaries.json](./360693-kip-2-beyond-boundaries.json) |
 | Kip and Odosan | 236938 | [236938-kip-and-odosan.json](./236938-kip-and-odosan.json) |
