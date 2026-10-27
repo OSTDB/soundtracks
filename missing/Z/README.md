@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoogarnian | 215661 | [215661-zoogarnian.json](./215661-zoogarnian.json) |
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
 | Zooicide | 43124 | [43124-zooicide.json](./43124-zooicide.json) |
+| Zook Hero 2 | 311018 | [311018-zook-hero-2.json](./311018-zook-hero-2.json) |
 | Zook Hero Z | 231542 | [231542-zook-hero-z.json](./231542-zook-hero-z.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
 | Zookeeper Battle | 22189 | [22189-zookeeper-battle.json](./22189-zookeeper-battle.json) |
