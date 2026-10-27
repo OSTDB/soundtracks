@@ -2333,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Arba | 220007 | [220007-dawn-of-arba.json](./220007-dawn-of-arba.json) |
 | Dawn of Dark Blood | 229210 | [229210-dawn-of-dark-blood.json](./229210-dawn-of-dark-blood.json) |
 | Dawn of Darkness | 275204 | [275204-dawn-of-darkness.json](./275204-dawn-of-darkness.json) |
+| Dawn of Decay | 322616 | [322616-dawn-of-decay.json](./322616-dawn-of-decay.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of Defiance | 305290 | [305290-dawn-of-defiance.json](./305290-dawn-of-defiance.json) |
 | Dawn of Discovery | 662 | [662-dawn-of-discovery.json](./662-dawn-of-discovery.json) |
@@ -13190,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Admiral | 403933 | [403933-dread-admiral.json](./403933-dread-admiral.json) |
 | Dread Chess | 338338 | [338338-dread-chess.json](./338338-dread-chess.json) |
 | Dread Dawn | 250233 | [250233-dread-dawn.json](./250233-dread-dawn.json) |
+| Dread Days | 322624 | [322624-dread-days.json](./322624-dread-days.json) |
 | Dread Delusion | 159735 | [159735-dread-delusion.json](./159735-dread-delusion.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
 | Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
