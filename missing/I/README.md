@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion | 286769 | [286769-illusion.json](./286769-illusion.json) |
 | Illusion | 81280 | [81280-illusion.json](./81280-illusion.json) |
 | Illusion | 99650 | [99650-illusion.json](./99650-illusion.json) |
+| Illusion Box | 317787 | [317787-illusion-box.json](./317787-illusion-box.json) |
 | Illusion Connect | 139382 | [139382-illusion-connect.json](./139382-illusion-connect.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
 | Illusion Lands | 193257 | [193257-illusion-lands.json](./193257-illusion-lands.json) |
@@ -2554,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
 | Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
 | Inaccessible World | 86441 | [86441-inaccessible-world.json](./86441-inaccessible-world.json) |
+| Inagawa de Ikou!! | 317803 | [317803-inagawa-de-ikou.json](./317803-inagawa-de-ikou.json) |
 | Inago Rage | 335797 | [335797-inago-rage.json](./335797-inago-rage.json) |
 | Inaka Gurashi: Minami no Shima no Monogatari | 56385 | [56385-inaka-gurashi-minami-no-shima-no-monogatari.json](./56385-inaka-gurashi-minami-no-shima-no-monogatari.json) |
 | Inamina | 273895 | [273895-inamina.json](./273895-inamina.json) |
