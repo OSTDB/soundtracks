@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A maze in Citadel | 120037 | [120037-a-maze-in-citadel.json](./120037-a-maze-in-citadel.json) |
 | A Maze in Labyrinth | 406526 | [406526-a-maze-in-labyrinth.json](./406526-a-maze-in-labyrinth.json) |
 | A Maze In Love | 69381 | [69381-a-maze-in-love.json](./69381-a-maze-in-love.json) |
+| A Maze-ing Runner | 291459 | [291459-a-maze-ing-runner.json](./291459-a-maze-ing-runner.json) |
 | A Maze. / Space | 178487 | [178487-a-maze-space.json](./178487-a-maze-space.json) |
 | A Mazeing Tower Defense | 54470 | [54470-a-mazeing-tower-defense.json](./54470-a-mazeing-tower-defense.json) |
 | A Mazing Cheesesnake | 312849 | [312849-a-mazing-cheesesnake.json](./312849-a-mazing-cheesesnake.json) |
@@ -5005,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akayaisdead | 377626 | [377626-akayaisdead.json](./377626-akayaisdead.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akayo Therapy | 236306 | [236306-akayo-therapy.json](./236306-akayo-therapy.json) |
+| Akazu: Off limits | 291430 | [291430-akazu-off-limits.json](./291430-akazu-off-limits.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
 | Akazukin Cha-cha | 15887 | [15887-akazukin-cha-cha.json](./15887-akazukin-cha-cha.json) |
 | Akazukin Cha-cha | 228473 | [228473-akazukin-cha-cha.json](./228473-akazukin-cha-cha.json) |
@@ -9707,6 +9709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment Filled With Cats | 333868 | [333868-apartment-filled-with-cats.json](./333868-apartment-filled-with-cats.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
+| Apartment of Death | 291504 | [291504-apartment-of-death.json](./291504-apartment-of-death.json) |
 | Apartment of Love | 83803 | [83803-apartment-of-love.json](./83803-apartment-of-love.json) |
 | Apartment Story | 314709 | [314709-apartment-story.json](./314709-apartment-story.json) |
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
