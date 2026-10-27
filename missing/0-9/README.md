@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//Vol. 1 LG-Telecom | 300505 | [300505-hack-vol-1-lg-telecom.json](./300505-hack-vol-1-lg-telecom.json) |
 | .Hack//Z.E.R.O. | 390544 | [390544-hack-z-e-r-o.json](./390544-hack-z-e-r-o.json) |
 | .Headspace | 374425 | [374425-headspace.json](./374425-headspace.json) |
+| .If All The Lonely Nights. | 305724 | [305724-if-all-the-lonely-nights.json](./305724-if-all-the-lonely-nights.json) |
 | .kkrieger: Chapter 1 | 94683 | [94683-kkrieger-chapter-1.json](./94683-kkrieger-chapter-1.json) |
 | .Noon. | 58144 | [58144-noon.json](./58144-noon.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2XL Supercross | 69327 | [69327-2xl-supercross.json](./69327-2xl-supercross.json) |
 | 2XL Supercross HD | 96726 | [96726-2xl-supercross-hd.json](./96726-2xl-supercross-hd.json) |
 | 2XL Trophylite Rally | 95678 | [95678-2xl-trophylite-rally.json](./95678-2xl-trophylite-rally.json) |
+| 2Xtreme | 305796 | [305796-2xtreme.json](./305796-2xtreme.json) |
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 | 169088 | [169088-3.json](./169088-3.json) |
 | 3 BigEggs | 99572 | [99572-3-bigeggs.json](./99572-3-bigeggs.json) |
@@ -2147,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3rd Invasion: Zombies vs. Steel | 114555 | [114555-3rd-invasion-zombies-vs-steel.json](./114555-3rd-invasion-zombies-vs-steel.json) |
 | 3rd Space Incursion | 205958 | [205958-3rd-space-incursion.json](./205958-3rd-space-incursion.json) |
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
+| 3rees | 305728 | [305728-3rees.json](./305728-3rees.json) |
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
 | 3Souls | 409216 | [409216-3souls.json](./409216-3souls.json) |
 | 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
@@ -2784,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Slasher 4-in-1 Horror Demakes | 237312 | [237312-8-bit-slasher-4-in-1-horror-demakes.json](./237312-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Waterslide | 101105 | [101105-8-bit-waterslide.json](./101105-8-bit-waterslide.json) |
+| 8-Bit XMas 2011 | 305732 | [305732-8-bit-xmas-2011.json](./305732-8-bit-xmas-2011.json) |
 | 8-BIT Yu-No's Great Adventure | 209737 | [209737-8-bit-yu-nos-great-adventure.json](./209737-8-bit-yu-nos-great-adventure.json) |
 | 8-bitBot | 377123 | [377123-8-bitbot.json](./377123-8-bitbot.json) |
 | 8-gatsu 7-ka no Amayadori | 403956 | [403956-8-gatsu-7-ka-no-amayadori.json](./403956-8-gatsu-7-ka-no-amayadori.json) |
