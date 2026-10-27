@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caball: Sunset Hour | 332366 | [332366-caball-sunset-hour.json](./332366-caball-sunset-hour.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
 | Cabbage Crop | 290838 | [290838-cabbage-crop.json](./290838-cabbage-crop.json) |
+| Cabbage Patch Kids | 311019 | [311019-cabbage-patch-kids.json](./311019-cabbage-patch-kids.json) |
 | Cabbage Patch Kids: Adventures in the Park | 11144 | [11144-cabbage-patch-kids-adventures-in-the-park.json](./11144-cabbage-patch-kids-adventures-in-the-park.json) |
 | Cabbage Patch Kids: Butterfly Chase | 198705 | [198705-cabbage-patch-kids-butterfly-chase.json](./198705-cabbage-patch-kids-butterfly-chase.json) |
 | Cabbage Patch Kids: Picture Show | 40902 | [40902-cabbage-patch-kids-picture-show.json](./40902-cabbage-patch-kids-picture-show.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to Arms: Gates of Hell - Talvisota | 203893 | [203893-call-to-arms-gates-of-hell-talvisota.json](./203893-call-to-arms-gates-of-hell-talvisota.json) |
 | Call to Arms: Panzer Elite | 353292 | [353292-call-to-arms-panzer-elite.json](./353292-call-to-arms-panzer-elite.json) |
 | Call to Strike | 311133 | [311133-call-to-strike.json](./311133-call-to-strike.json) |
+| Call To Summon | 310983 | [310983-call-to-summon.json](./310983-call-to-summon.json) |
 | Call to Victory | 179483 | [179483-call-to-victory.json](./179483-call-to-victory.json) |
 | Callahan's Crosstime Saloon | 12410 | [12410-callahans-crosstime-saloon.json](./12410-callahans-crosstime-saloon.json) |
 | CallBack | 113575 | [113575-callback.json](./113575-callback.json) |
@@ -9274,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Cockeyed Helicopters | 156581 | [156581-cockeyed-helicopters.json](./156581-cockeyed-helicopters.json) |
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
+| Cockpit | 311010 | [311010-cockpit.json](./311010-cockpit.json) |
 | Cockpit Manager '14 | 50330 | [50330-cockpit-manager-14.json](./50330-cockpit-manager-14.json) |
 | Cockroach Clicker | 371337 | [371337-cockroach-clicker.json](./371337-cockroach-clicker.json) |
 | cockroach Planet Survival | 115528 | [115528-cockroach-planet-survival.json](./115528-cockroach-planet-survival.json) |
@@ -11361,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
 | ConnecTank | 152381 | [152381-connectank.json](./152381-connectank.json) |
+| Connected Fates | 310982 | [310982-connected-fates.json](./310982-connected-fates.json) |
 | Connected Hearts | 54525 | [54525-connected-hearts.json](./54525-connected-hearts.json) |
 | Connected Hearts: Cost of Beauty DLC | 291064 | [291064-connected-hearts-cost-of-beauty-dlc.json](./291064-connected-hearts-cost-of-beauty-dlc.json) |
 | Connected Hearts: Hour of the Witch | 417688 | [417688-connected-hearts-hour-of-the-witch.json](./417688-connected-hearts-hour-of-the-witch.json) |
@@ -13986,6 +13990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
 | Crazy Corn | 314362 | [314362-crazy-corn.json](./314362-crazy-corn.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
+| Crazy Crab | 310987 | [310987-crazy-crab.json](./310987-crazy-crab.json) |
 | Crazy Crab | 353932 | [353932-crazy-crab.json](./353932-crazy-crab.json) |
 | Crazy Crab 2 | 354088 | [354088-crazy-crab-2.json](./354088-crazy-crab-2.json) |
 | Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
