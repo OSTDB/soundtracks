@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zebra | 342171 | [342171-zebra.json](./342171-zebra.json) |
 | Zebra Evolution | 206734 | [206734-zebra-evolution.json](./206734-zebra-evolution.json) |
 | Zebra Logic Master | 238995 | [238995-zebra-logic-master.json](./238995-zebra-logic-master.json) |
+| Zebulon: A Lost Cat | 312036 | [312036-zebulon-a-lost-cat.json](./312036-zebulon-a-lost-cat.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed Shot | 107041 | [107041-zed-shot.json](./107041-zed-shot.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Target | 272797 | [272797-zero-target.json](./272797-zero-target.json) |
 | Zero Team USA | 40207 | [40207-zero-team-usa.json](./40207-zero-team-usa.json) |
 | Zero Tenshi: Blue Sun | 364399 | [364399-zero-tenshi-blue-sun.json](./364399-zero-tenshi-blue-sun.json) |
+| Zero the Kamikaze Squirrel | 312050 | [312050-zero-the-kamikaze-squirrel.json](./312050-zero-the-kamikaze-squirrel.json) |
 | Zero the Kamikaze Squirrel | 38405 | [38405-zero-the-kamikaze-squirrel.json](./38405-zero-the-kamikaze-squirrel.json) |
 | Zero to Army | 391893 | [391893-zero-to-army.json](./391893-zero-to-army.json) |
 | Zero to Dance Hero | 322530 | [322530-zero-to-dance-hero.json](./322530-zero-to-dance-hero.json) |
@@ -887,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zerosen | 345918 | [345918-zerosen.json](./345918-zerosen.json) |
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
+| Zerouno Games Collection Pack 1 | 312066 | [312066-zerouno-games-collection-pack-1.json](./312066-zerouno-games-collection-pack-1.json) |
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
 | Zerowake Gates | 379943 | [379943-zerowake-gates.json](./379943-zerowake-gates.json) |
 | ZeroZap | 108892 | [108892-zerozap.json](./108892-zerozap.json) |
