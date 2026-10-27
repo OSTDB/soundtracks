@@ -7688,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists: The Walking Dead | 11744 | [11744-the-escapists-the-walking-dead.json](./11744-the-escapists-the-walking-dead.json) |
 | The Escapists: The Walking Dead - Deluxe Edition | 53735 | [53735-the-escapists-the-walking-dead-deluxe-edition.json](./53735-the-escapists-the-walking-dead-deluxe-edition.json) |
 | The Esoteric Archive | 353501 | [353501-the-esoteric-archive.json](./353501-the-esoteric-archive.json) |
+| The Esoteric Formula | 294753 | [294753-the-esoteric-formula.json](./294753-the-esoteric-formula.json) |
 | The Esoterica: Hollow Earth | 30382 | [30382-the-esoterica-hollow-earth.json](./30382-the-esoterica-hollow-earth.json) |
 | The Essence of Luna | 323509 | [323509-the-essence-of-luna.json](./323509-the-essence-of-luna.json) |
 | The Essence of Speed 2020 | 96925 | [96925-the-essence-of-speed-2020.json](./96925-the-essence-of-speed-2020.json) |
@@ -22588,6 +22589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toughman Contest | 19760 | [19760-toughman-contest.json](./19760-toughman-contest.json) |
 | Touhai Densetsu Akagi: Yami ni Maiorita Tensai | 74767 | [74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json](./74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json) |
 | Touhai Densetsu: Akagi DS - Yami ni Maiorita Tensai | 124104 | [124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json](./124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json) |
+| Touhou | 294668 | [294668-touhou.json](./294668-touhou.json) |
 | Touhou 1: The Highly Responsive to Prayers NES Demake | 277165 | [277165-touhou-1-the-highly-responsive-to-prayers-nes-demake.json](./277165-touhou-1-the-highly-responsive-to-prayers-nes-demake.json) |
 | Touhou 3D Dungeon | 152988 | [152988-touhou-3d-dungeon.json](./152988-touhou-3d-dungeon.json) |
 | Touhou Adventure | 189858 | [189858-touhou-adventure.json](./189858-touhou-adventure.json) |
@@ -25391,6 +25393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers Generation 2 | 198946 | [198946-transformers-generation-2.json](./198946-transformers-generation-2.json) |
 | Transformers Prime: The Game | 23676 | [23676-transformers-prime-the-game.json](./23676-transformers-prime-the-game.json) |
 | Transformers Rescue Bots: Dash | 294511 | [294511-transformers-rescue-bots-dash.json](./294511-transformers-rescue-bots-dash.json) |
+| Transformers Rescue Bots: Hero Adventures | 294680 | [294680-transformers-rescue-bots-hero-adventures.json](./294680-transformers-rescue-bots-hero-adventures.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
 | Transformers Tatakai | 70938 | [70938-transformers-tatakai.json](./70938-transformers-tatakai.json) |
 | Transformers: Battle Masters | 70993 | [70993-transformers-battle-masters.json](./70993-transformers-battle-masters.json) |
@@ -28150,6 +28153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Legend | 400098 | [400098-twin-legend.json](./400098-twin-legend.json) |
+| Twin Mind: Murderous Jealousy | 294752 | [294752-twin-mind-murderous-jealousy.json](./294752-twin-mind-murderous-jealousy.json) |
 | Twin Mind: Murderous Jealousy - Collector's Edition | 170197 | [170197-twin-mind-murderous-jealousy-collectors-edition.json](./170197-twin-mind-murderous-jealousy-collectors-edition.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Mind: Nobody's Here - Collector's Edition | 226582 | [226582-twin-mind-nobodys-here-collectors-edition.json](./226582-twin-mind-nobodys-here-collectors-edition.json) |
