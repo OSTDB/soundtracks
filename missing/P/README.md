@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball King | 305566 | [305566-paintball-king.json](./305566-paintball-king.json) |
 | Paintball Madness | 356204 | [356204-paintball-madness.json](./356204-paintball-madness.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
+| Paintball Playground | 295743 | [295743-paintball-playground.json](./295743-paintball-playground.json) |
 | PaintBall War 2 | 154464 | [154464-paintball-war-2.json](./154464-paintball-war-2.json) |
 | Paintball with Friends | 195940 | [195940-paintball-with-friends.json](./195940-paintball-with-friends.json) |
 | Paintballers: MLPB 2024 | 295344 | [295344-paintballers-mlpb-2024.json](./295344-paintballers-mlpb-2024.json) |
@@ -7841,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Party Time | 343732 | [343732-planet-party-time.json](./343732-planet-party-time.json) |
 | Planet Patrol | 18476 | [18476-planet-patrol.json](./18476-planet-patrol.json) |
 | Planet Pilots | 59647 | [59647-planet-pilots.json](./59647-planet-pilots.json) |
+| Planet Pioneers | 295740 | [295740-planet-pioneers.json](./295740-planet-pioneers.json) |
 | Planet Prospector | 302911 | [302911-planet-prospector.json](./302911-planet-prospector.json) |
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
 | Planet Punch | 332306 | [332306-planet-punch.json](./332306-planet-punch.json) |
@@ -7875,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
 | Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
 | Planet Suika | 277732 | [277732-planet-suika.json](./277732-planet-suika.json) |
+| Planet Surf | 295738 | [295738-planet-surf.json](./295738-planet-surf.json) |
 | Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
 | Planet Surfer | 221145 | [221145-planet-surfer.json](./221145-planet-surfer.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
@@ -10617,6 +10620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Nation FX - Lite | 15692 | [15692-pool-nation-fx-lite.json](./15692-pool-nation-fx-lite.json) |
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
 | Pool of Death | 32795 | [32795-pool-of-death.json](./32795-pool-of-death.json) |
+| Pool of Madness | 295749 | [295749-pool-of-madness.json](./295749-pool-of-madness.json) |
 | Pool Panic | 95028 | [95028-pool-panic.json](./95028-pool-panic.json) |
 | Pool Paradise | 4073 | [4073-pool-paradise.json](./4073-pool-paradise.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
@@ -15936,6 +15940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlix | 68543 | [68543-puzzlix.json](./68543-puzzlix.json) |
 | Puzzlor | 399884 | [399884-puzzlor.json](./399884-puzzlor.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
+| PuzzMiX | 295756 | [295756-puzzmix.json](./295756-puzzmix.json) |
 | Puzznic | 12199 | [12199-puzznic.json](./12199-puzznic.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
