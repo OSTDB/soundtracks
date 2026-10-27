@@ -12876,6 +12876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II: Deluxe Edition | 27857 | [27857-assassins-creed-ii-deluxe-edition.json](./27857-assassins-creed-ii-deluxe-edition.json) |
 | Assassin's Creed II: Discovery | 18865 | [18865-assassins-creed-ii-discovery.json](./18865-assassins-creed-ii-discovery.json) |
 | Assassin's Creed II: Multiplayer | 412331 | [412331-assassins-creed-ii-multiplayer.json](./412331-assassins-creed-ii-multiplayer.json) |
+| Assassin's Creed II: The Master Assassin's Edition | 308856 | [308856-assassins-creed-ii-the-master-assassins-edition.json](./308856-assassins-creed-ii-the-master-assassins-edition.json) |
 | Assassin's Creed II: Ultimate Edition | 118455 | [118455-assassins-creed-ii-ultimate-edition.json](./118455-assassins-creed-ii-ultimate-edition.json) |
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
 | Assassin's Creed III Mobile | 68530 | [68530-assassins-creed-iii-mobile.json](./68530-assassins-creed-iii-mobile.json) |
