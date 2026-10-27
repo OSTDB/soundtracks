@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
 | Scrambled | 79680 | [79680-scrambled.json](./79680-scrambled.json) |
 | Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
+| Scrambled Eggs | 309409 | [309409-scrambled-eggs.json](./309409-scrambled-eggs.json) |
 | Scrambled: Syd City | 178896 | [178896-scrambled-syd-city.json](./178896-scrambled-syd-city.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
 | Scrandle | 342592 | [342592-scrandle.json](./342592-scrandle.json) |
@@ -9487,6 +9488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
 | Simulation World | 157573 | [157573-simulation-world.json](./157573-simulation-world.json) |
 | Simulation Zoo | 97987 | [97987-simulation-zoo.json](./97987-simulation-zoo.json) |
+| Simulation: Catalyst | 309385 | [309385-simulation-catalyst.json](./309385-simulation-catalyst.json) |
 | Simulator Bundle: Gas Station Simulator and Barn Finders | 265190 | [265190-simulator-bundle-gas-station-simulator-and-barn-finders.json](./265190-simulator-bundle-gas-station-simulator-and-barn-finders.json) |
 | Simulator gas station | 51414 | [51414-simulator-gas-station.json](./51414-simulator-gas-station.json) |
 | Simulator hipstera 2k17 | 75057 | [75057-simulator-hipstera-2k17.json](./75057-simulator-hipstera-2k17.json) |
@@ -10928,6 +10930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SL The Game | 320274 | [320274-sl-the-game.json](./320274-sl-the-game.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
 | Slabs | 103812 | [103812-slabs.json](./103812-slabs.json) |
+| Slack Off Master | 309420 | [309420-slack-off-master.json](./309420-slack-off-master.json) |
 | Slackball | 392905 | [392905-slackball.json](./392905-slackball.json) |
 | Slacker Dungeon | 190904 | [190904-slacker-dungeon.json](./190904-slacker-dungeon.json) |
 | Slackers: Carts of Glory | 293685 | [293685-slackers-carts-of-glory.json](./293685-slackers-carts-of-glory.json) |
@@ -24601,6 +24604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submerged: LaSol | 171784 | [171784-submerged-lasol.json](./171784-submerged-lasol.json) |
 | Submerged: Miku and the Sunken City | 91219 | [91219-submerged-miku-and-the-sunken-city.json](./91219-submerged-miku-and-the-sunken-city.json) |
+| Submergent | 309318 | [309318-submergent.json](./309318-submergent.json) |
 | Submeris | 341931 | [341931-submeris.json](./341931-submeris.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
 | Submersed | 128303 | [128303-submersed.json](./128303-submersed.json) |
@@ -28715,6 +28719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supply Chain Idle | 110677 | [110677-supply-chain-idle.json](./110677-supply-chain-idle.json) |
 | Supply Chained | 325325 | [325325-supply-chained.json](./325325-supply-chained.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
+| Suppress Academician | 309393 | [309393-suppress-academician.json](./309393-suppress-academician.json) |
 | Supra Binyot Lande 2: Melpert's Quest for Booti | 334637 | [334637-supra-binyot-lande-2-melperts-quest-for-booti.json](./334637-supra-binyot-lande-2-melperts-quest-for-booti.json) |
 | Supra Mayro Kratt | 300345 | [300345-supra-mayro-kratt.json](./300345-supra-mayro-kratt.json) |
 | Supra Smash Bross Devolution | 265074 | [265074-supra-smash-bross-devolution.json](./265074-supra-smash-bross-devolution.json) |
