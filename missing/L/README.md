@@ -4255,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
 | Lil' Satan's Cake Quest | 334456 | [334456-lil-satans-cake-quest.json](./334456-lil-satans-cake-quest.json) |
 | lil' Sherman | 127628 | [127628-lil-sherman.json](./127628-lil-sherman.json) |
+| Lil'Johnny Watermelon Smash | 324274 | [324274-liljohnny-watermelon-smash.json](./324274-liljohnny-watermelon-smash.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lilac & Her Light | 178919 | [178919-lilac-and-her-light.json](./178919-lilac-and-her-light.json) |
 | Lilac 0 | 329466 | [329466-lilac-0.json](./329466-lilac-0.json) |
@@ -4986,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Herbal Baker | 305963 | [305963-little-herbal-baker.json](./305963-little-herbal-baker.json) |
 | Little Hero | 194019 | [194019-little-hero.json](./194019-little-hero.json) |
 | Little Hero | 376803 | [376803-little-hero.json](./376803-little-hero.json) |
+| Little Hero Adventure | 324270 | [324270-little-hero-adventure.json](./324270-little-hero-adventure.json) |
 | Little Heroes | 283067 | [283067-little-heroes.json](./283067-little-heroes.json) |
 | Little Heroine Playset | 185596 | [185596-little-heroine-playset.json](./185596-little-heroine-playset.json) |
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
