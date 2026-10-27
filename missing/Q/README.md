@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Machina | 285951 | [285951-quest-machina.json](./285951-quest-machina.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest Master's Realm: Land of the Phoenix | 317077 | [317077-quest-masters-realm-land-of-the-phoenix.json](./317077-quest-masters-realm-land-of-the-phoenix.json) |
+| Quest of Dungeloria | 293057 | [293057-quest-of-dungeloria.json](./293057-quest-of-dungeloria.json) |
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
 | Quest of Dungeons | 414880 | [414880-quest-of-dungeons.json](./414880-quest-of-dungeons.json) |
 | Quest of Goddess | 277945 | [277945-quest-of-goddess.json](./277945-quest-of-goddess.json) |
