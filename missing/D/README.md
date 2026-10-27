@@ -4267,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Bullets | 258462 | [258462-deck-of-bullets.json](./258462-deck-of-bullets.json) |
 | Deck of Darkness: Infernal Depths | 295136 | [295136-deck-of-darkness-infernal-depths.json](./295136-deck-of-darkness-infernal-depths.json) |
 | Deck of Defense | 336663 | [336663-deck-of-defense.json](./336663-deck-of-defense.json) |
+| Deck of Delirium | 293046 | [293046-deck-of-delirium.json](./293046-deck-of-delirium.json) |
 | Deck of Destiny: Battleforge | 346667 | [346667-deck-of-destiny-battleforge.json](./346667-deck-of-destiny-battleforge.json) |
 | Deck of Haunts | 320726 | [320726-deck-of-haunts.json](./320726-deck-of-haunts.json) |
 | Deck of Life | 212831 | [212831-deck-of-life.json](./212831-deck-of-life.json) |
