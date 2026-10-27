@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
 | Saints Row: The Third Remastered | 132097 | [132097-saints-row-the-third-remastered.json](./132097-saints-row-the-third-remastered.json) |
 | Saints Row: Total Control | 66011 | [66011-saints-row-total-control.json](./66011-saints-row-total-control.json) |
+| Saipped Pursuit | 288252 | [288252-saipped-pursuit.json](./288252-saipped-pursuit.json) |
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
 | Sairento VR | 30522 | [30522-sairento-vr.json](./30522-sairento-vr.json) |
 | Sairento VR: Untethered | 193695 | [193695-sairento-vr-untethered.json](./193695-sairento-vr-untethered.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Massage | 276822 | [276822-sex-massage.json](./276822-sex-massage.json) |
 | Sex Massage 2 | 311579 | [311579-sex-massage-2.json](./311579-sex-massage-2.json) |
 | Sex Milfs | 276966 | [276966-sex-milfs.json](./276966-sex-milfs.json) |
+| Sex Monsters for Cyberpunk Sex | 288247 | [288247-sex-monsters-for-cyberpunk-sex.json](./288247-sex-monsters-for-cyberpunk-sex.json) |
 | Sex Monsters for Sex Motel | 288886 | [288886-sex-monsters-for-sex-motel.json](./288886-sex-monsters-for-sex-motel.json) |
 | Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
 | Sex Novel: Cheating Wife | 418852 | [418852-sex-novel-cheating-wife.json](./418852-sex-novel-cheating-wife.json) |
@@ -5449,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Beats | 301656 | [301656-sexy-beats.json](./301656-sexy-beats.json) |
 | Sexy Blackjack | 288056 | [288056-sexy-blackjack.json](./288056-sexy-blackjack.json) |
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
+| Sexy Boys for Cyberpunk Sex | 288248 | [288248-sexy-boys-for-cyberpunk-sex.json](./288248-sexy-boys-for-cyberpunk-sex.json) |
 | Sexy Boys for Sex Motel | 288892 | [288892-sexy-boys-for-sex-motel.json](./288892-sexy-boys-for-sex-motel.json) |
 | Sexy Breakout | 284240 | [284240-sexy-breakout.json](./284240-sexy-breakout.json) |
 | Sexy Caravan | 169099 | [169099-sexy-caravan.json](./169099-sexy-caravan.json) |
@@ -6946,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
 | Shìjiè Zhīwài de Yúrén Chuán | 373700 | [373700-shijie-zhiwai-de-yuren-chuan.json](./373700-shijie-zhiwai-de-yuren-chuan.json) |
 | Shijou Saikyou League Serie A: Ace Striker | 38202 | [38202-shijou-saikyou-league-serie-a-ace-striker.json](./38202-shijou-saikyou-league-serie-a-ace-striker.json) |
+| Shijou Saikyou Miyamoto Julia | 288156 | [288156-shijou-saikyou-miyamoto-julia.json](./288156-shijou-saikyou-miyamoto-julia.json) |
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shijou Saikyou no Quiz-ou Ketteisen Super | 38248 | [38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json](./38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
@@ -14551,6 +14555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 1 Spike Bug Fix & Spindash | 198532 | [198532-sonic-1-spike-bug-fix-and-spindash.json](./198532-sonic-1-spike-bug-fix-and-spindash.json) |
 | Sonic 1: Alt Reality | 333783 | [333783-sonic-1-alt-reality.json](./333783-sonic-1-alt-reality.json) |
 | Sonic 1: Point & Click Edition | 333892 | [333892-sonic-1-point-and-click-edition.json](./333892-sonic-1-point-and-click-edition.json) |
+| Sonic 1: Return to the Origin | 288256 | [288256-sonic-1-return-to-the-origin.json](./288256-sonic-1-return-to-the-origin.json) |
 | Sonic 1: South Island Expedition | 215157 | [215157-sonic-1-south-island-expedition.json](./215157-sonic-1-south-island-expedition.json) |
 | Sonic 1: The Super Challenges | 361659 | [361659-sonic-1-the-super-challenges.json](./361659-sonic-1-the-super-challenges.json) |
 | Sonic 1: WTF Lame | 323859 | [323859-sonic-1-wtf-lame.json](./323859-sonic-1-wtf-lame.json) |
@@ -25325,6 +25330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Puffworks | 373668 | [373668-suika-puffworks.json](./373668-suika-puffworks.json) |
 | Suika Shapes | 276165 | [276165-suika-shapes.json](./276165-suika-shapes.json) |
 | Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
+| Suika Watermelon Fruits | 288171 | [288171-suika-watermelon-fruits.json](./288171-suika-watermelon-fruits.json) |
 | Suika World | 280422 | [280422-suika-world.json](./280422-suika-world.json) |
 | Suikaiju | 331520 | [331520-suikaiju.json](./331520-suikaiju.json) |
 | Suikaiju x Red Panda Bundle | 333688 | [333688-suikaiju-x-red-panda-bundle.json](./333688-suikaiju-x-red-panda-bundle.json) |
@@ -25369,6 +25375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukebe Beach | 240695 | [240695-sukebe-beach.json](./240695-sukebe-beach.json) |
 | Sukebe Office | 244224 | [244224-sukebe-office.json](./244224-sukebe-office.json) |
 | Sukebe Orb | 409838 | [409838-sukebe-orb.json](./409838-sukebe-orb.json) |
+| Sukebooo Man | 288154 | [288154-sukebooo-man.json](./288154-sukebooo-man.json) |
 | Suki Desu Suzuki-kun: 4nin no Suzuki-kun | 206033 | [206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json](./206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json) |
 | Suki Suki Love | 365206 | [365206-suki-suki-love.json](./365206-suki-suki-love.json) |
 | Suki Tokimeki to Kiss | 344006 | [344006-suki-tokimeki-to-kiss.json](./344006-suki-tokimeki-to-kiss.json) |
@@ -26153,6 +26160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bubble Pop | 248454 | [248454-super-bubble-pop.json](./248454-super-bubble-pop.json) |
 | Super Bubble Pop | 4187 | [4187-super-bubble-pop.json](./4187-super-bubble-pop.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
+| Super Bug 2 | 288259 | [288259-super-bug-2.json](./288259-super-bug-2.json) |
 | Super Bug Hunters | 368996 | [368996-super-bug-hunters.json](./368996-super-bug-hunters.json) |
 | Super Build | 120727 | [120727-super-build.json](./120727-super-build.json) |
 | Super Bull Knight | 234558 | [234558-super-bull-knight.json](./234558-super-bull-knight.json) |
@@ -29069,6 +29077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surging Blood | 386891 | [386891-surging-blood.json](./386891-surging-blood.json) |
 | Suri: The Seventh Note | 333871 | [333871-suri-the-seventh-note.json](./333871-suri-the-seventh-note.json) |
 | Surmount | 126352 | [126352-surmount.json](./126352-surmount.json) |
+| Suroi | 288251 | [288251-suroi.json](./288251-suroi.json) |
 | Surprise Attack | 46783 | [46783-surprise-attack.json](./46783-surprise-attack.json) |
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
 | Surprise Eggs | 96609 | [96609-surprise-eggs.json](./96609-surprise-eggs.json) |
