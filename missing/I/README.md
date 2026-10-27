@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
 | I Think I'm in Love with a Demon Prince | 268985 | [268985-i-think-im-in-love-with-a-demon-prince.json](./268985-i-think-im-in-love-with-a-demon-prince.json) |
 | I Think the Waves are Watching Me | 59705 | [59705-i-think-the-waves-are-watching-me.json](./59705-i-think-the-waves-are-watching-me.json) |
+| I Think You Can | 323103 | [323103-i-think-you-can.json](./323103-i-think-you-can.json) |
 | I Thought I Knew You | 414836 | [414836-i-thought-i-knew-you.json](./414836-i-thought-i-knew-you.json) |
 | I told you | 220041 | [220041-i-told-you.json](./220041-i-told-you.json) |
 | I Told You So! | 178908 | [178908-i-told-you-so.json](./178908-i-told-you-so.json) |
@@ -5250,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Questaway: Jungle Farm | 233472 | [233472-island-questaway-jungle-farm.json](./233472-island-questaway-jungle-farm.json) |
 | Island Racer | 30039 | [30039-island-racer.json](./30039-island-racer.json) |
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
+| Island Raiders: War of Legends | 323150 | [323150-island-raiders-war-of-legends.json](./323150-island-raiders-war-of-legends.json) |
 | Island Robot Farm | 344883 | [344883-island-robot-farm.json](./344883-island-robot-farm.json) |
 | Island Saga | 123933 | [123933-island-saga.json](./123933-island-saga.json) |
 | Island Saver | 132996 | [132996-island-saver.json](./132996-island-saver.json) |
