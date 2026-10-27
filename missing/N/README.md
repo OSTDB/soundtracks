@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia | 69908 | [69908-neptunia.json](./69908-neptunia.json) |
+| Neptunia Game Maker R:Evolution / Neptunia: Sisters vs. Sisters: Day One Edition - Dual Pack Plus | 300752 | [300752-neptunia-game-maker-r-evolution-neptunia-sisters-vs-sisters-day-one-edition-dual-pack-plus.json](./300752-neptunia-game-maker-r-evolution-neptunia-sisters-vs-sisters-day-one-edition-dual-pack-plus.json) |
 | Neptunia GameMaker R:Evolution | 247467 | [247467-neptunia-gamemaker-r-evolution.json](./247467-neptunia-gamemaker-r-evolution.json) |
 | Neptunia GameMaker R:Evolution - Digital Deluxe Edition | 255521 | [255521-neptunia-gamemaker-r-evolution-digital-deluxe-edition.json](./255521-neptunia-gamemaker-r-evolution-digital-deluxe-edition.json) |
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
@@ -2935,6 +2936,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World Computing Bundle | 154968 | [154968-new-world-computing-bundle.json](./154968-new-world-computing-bundle.json) |
 | New World Horizon | 114955 | [114955-new-world-horizon.json](./114955-new-world-horizon.json) |
 | New World Order | 19215 | [19215-new-world-order.json](./19215-new-world-order.json) |
+| New World: Azoth Edition | 300754 | [300754-new-world-azoth-edition.json](./300754-new-world-azoth-edition.json) |
+| New World: Elysian Edition | 300755 | [300755-new-world-elysian-edition.json](./300755-new-world-elysian-edition.json) |
 | New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
 | New World: The Ideal World | 335762 | [335762-new-world-the-ideal-world.json](./335762-new-world-the-ideal-world.json) |
 | New World: The Tupis | 75603 | [75603-new-world-the-tupis.json](./75603-new-world-the-tupis.json) |
