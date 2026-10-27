@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
 | ECW: Born to be Wired | 394541 | [394541-ecw-born-to-be-wired.json](./394541-ecw-born-to-be-wired.json) |
 | ECW: Hardcore Revolution | 200888 | [200888-ecw-hardcore-revolution.json](./200888-ecw-hardcore-revolution.json) |
+| ECWolf | 307017 | [307017-ecwolf.json](./307017-ecwolf.json) |
 | Eczema Angel Orifice | 144107 | [144107-eczema-angel-orifice.json](./144107-eczema-angel-orifice.json) |
 | Ed & Edda: Grand Prix – Racing Champions | 346020 | [346020-ed-and-edda-grand-prix-racing-champions.json](./346020-ed-and-edda-grand-prix-racing-champions.json) |
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
@@ -2466,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Lord | 312987 | [312987-ember-lord.json](./312987-ember-lord.json) |
 | Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
 | Ember Seeker | 406844 | [406844-ember-seeker.json](./406844-ember-seeker.json) |
+| Ember Souls | 306942 | [306942-ember-souls.json](./306942-ember-souls.json) |
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
 | Ember Strike: The Battle for Willow Lane | 80203 | [80203-ember-strike-the-battle-for-willow-lane.json](./80203-ember-strike-the-battle-for-willow-lane.json) |
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
