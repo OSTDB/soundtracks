@@ -4185,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caylus | 175231 | [175231-caylus.json](./175231-caylus.json) |
 | Cayne | 26968 | [26968-cayne.json](./26968-cayne.json) |
 | Cazzarion: Astro Bouncer | 290418 | [290418-cazzarion-astro-bouncer.json](./290418-cazzarion-astro-bouncer.json) |
+| Cazzarion: Bomber Attack | 307637 | [307637-cazzarion-bomber-attack.json](./307637-cazzarion-bomber-attack.json) |
 | Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
 | Cazzarion: Car Chase | 304267 | [304267-cazzarion-car-chase.json](./304267-cazzarion-car-chase.json) |
 | Cazzarion: Coin Pilot | 305412 | [305412-cazzarion-coin-pilot.json](./305412-cazzarion-coin-pilot.json) |
@@ -8989,6 +8990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy Super Mario Bros. U 2 | 204221 | [204221-cloudy-super-mario-bros-u-2.json](./204221-cloudy-super-mario-bros-u-2.json) |
 | Cloudy Valley | 284826 | [284826-cloudy-valley.json](./284826-cloudy-valley.json) |
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
+| Cloudy with a Chance of Meatballs | 307566 | [307566-cloudy-with-a-chance-of-meatballs.json](./307566-cloudy-with-a-chance-of-meatballs.json) |
 | Cloudy with a Chance of Meatballs | 4767 | [4767-cloudy-with-a-chance-of-meatballs.json](./4767-cloudy-with-a-chance-of-meatballs.json) |
 | Clout | 105528 | [105528-clout.json](./105528-clout.json) |
 | Clout Chaser | 401064 | [401064-clout-chaser.json](./401064-clout-chaser.json) |
