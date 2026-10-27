@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadakichi Seven | 37656 | [37656-sadakichi-seven.json](./37656-sadakichi-seven.json) |
 | Sadakichi Seven: Hideyoshi no Ougon | 64289 | [64289-sadakichi-seven-hideyoshi-no-ougon.json](./64289-sadakichi-seven-hideyoshi-no-ougon.json) |
 | Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
+| Sadball | 318959 | [318959-sadball.json](./318959-sadball.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
 | Saddies: Attack!! | 60610 | [60610-saddies-attack.json](./60610-saddies-attack.json) |
 | Saddle Up and Drive | 258123 | [258123-saddle-up-and-drive.json](./258123-saddle-up-and-drive.json) |
@@ -8862,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Residence | 362402 | [362402-silent-residence.json](./362402-silent-residence.json) |
 | Silent Rooms: Chapter 1 | 293474 | [293474-silent-rooms-chapter-1.json](./293474-silent-rooms-chapter-1.json) |
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
+| Silent Sadie | 319040 | [319040-silent-sadie.json](./319040-silent-sadie.json) |
 | Silent Scale | 265846 | [265846-silent-scale.json](./265846-silent-scale.json) |
 | Silent Scope | 248779 | [248779-silent-scope.json](./248779-silent-scope.json) |
 | Silent Scope | 49182 | [49182-silent-scope.json](./49182-silent-scope.json) |
@@ -14293,6 +14295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonar | 418276 | [418276-sonar.json](./418276-sonar.json) |
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
+| Sonar Scout | 319043 | [319043-sonar-scout.json](./319043-sonar-scout.json) |
 | Sonata | 271137 | [271137-sonata.json](./271137-sonata.json) |
 | Sonata | 383787 | [383787-sonata.json](./383787-sonata.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
@@ -19936,6 +19939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stage 3: Azaria | 90434 | [90434-stage-3-azaria.json](./90434-stage-3-azaria.json) |
 | Stage 333 | 361105 | [361105-stage-333.json](./361105-stage-333.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
+| Stage Cleared | 319052 | [319052-stage-cleared.json](./319052-stage-cleared.json) |
 | Stage Fright | 81853 | [81853-stage-fright.json](./81853-stage-fright.json) |
 | Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
@@ -26799,6 +26803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
 | Super Mario Bros: Seeking Sunshine | 320216 | [320216-super-mario-bros-seeking-sunshine.json](./320216-super-mario-bros-seeking-sunshine.json) |
 | Super Mario Bros: Shine Expedition | 320214 | [320214-super-mario-bros-shine-expedition.json](./320214-super-mario-bros-shine-expedition.json) |
+| Super Mario Bros: Shine Pursuit | 318943 | [318943-super-mario-bros-shine-pursuit.json](./318943-super-mario-bros-shine-pursuit.json) |
 | Super Mario Bros: The Early Years | 268364 | [268364-super-mario-bros-the-early-years.json](./268364-super-mario-bros-the-early-years.json) |
 | Super Mario Bros: The Hunt for the Magical Key | 268365 | [268365-super-mario-bros-the-hunt-for-the-magical-key.json](./268365-super-mario-bros-the-hunt-for-the-magical-key.json) |
 | Super Mario Bros: Unofficial PC Port | 340337 | [340337-super-mario-bros-unofficial-pc-port.json](./340337-super-mario-bros-unofficial-pc-port.json) |
@@ -26872,6 +26877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Wonderland 1987 | 307720 | [307720-super-mario-bros-wonderland-1987.json](./307720-super-mario-bros-wonderland-1987.json) |
 | Super Mario Bros. X | 87816 | [87816-super-mario-bros-x.json](./87816-super-mario-bros-x.json) |
 | Super Mario Bros. X by 5438A38A | 358335 | [358335-super-mario-bros-x-by-5438a38a.json](./358335-super-mario-bros-x-by-5438a38a.json) |
+| Super Mario Bros.: Crimson Hours | 318944 | [318944-super-mario-bros-crimson-hours.json](./318944-super-mario-bros-crimson-hours.json) |
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Bros.: The Cookie of Destiny | 323353 | [323353-super-mario-bros-the-cookie-of-destiny.json](./323353-super-mario-bros-the-cookie-of-destiny.json) |
@@ -28527,6 +28533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superpoke! Pets | 299538 | [299538-superpoke-pets.json](./299538-superpoke-pets.json) |
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
 | Superposition | 414401 | [414401-superposition.json](./414401-superposition.json) |
+| SuperPosition | 318946 | [318946-superposition.json](./318946-superposition.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
 | SuperPower: World at War | 250177 | [250177-superpower-world-at-war.json](./250177-superpower-world-at-war.json) |
