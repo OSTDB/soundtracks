@@ -14435,6 +14435,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
 | The Smurfs | 106272 | [106272-the-smurfs.json](./106272-the-smurfs.json) |
 | The Smurfs | 23482 | [23482-the-smurfs.json](./23482-the-smurfs.json) |
+| The Smurfs | 287139 | [287139-the-smurfs.json](./287139-the-smurfs.json) |
+| The Smurfs | 287140 | [287140-the-smurfs.json](./287140-the-smurfs.json) |
 | The Smurfs | 287141 | [287141-the-smurfs.json](./287141-the-smurfs.json) |
 | The Smurfs | 287144 | [287144-the-smurfs.json](./287144-the-smurfs.json) |
 | The Smurfs | 287151 | [287151-the-smurfs.json](./287151-the-smurfs.json) |
@@ -14471,6 +14473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Platinum Edition | 328795 | [328795-the-smurfs-colorful-stories-platinum-edition.json](./328795-the-smurfs-colorful-stories-platinum-edition.json) |
 | The Smurfs: Colorful Stories - Premium Edition | 328796 | [328796-the-smurfs-colorful-stories-premium-edition.json](./328796-the-smurfs-colorful-stories-premium-edition.json) |
 | The Smurfs: Colorful Stories - Special Edition | 328797 | [328797-the-smurfs-colorful-stories-special-edition.json](./328797-the-smurfs-colorful-stories-special-edition.json) |
+| The Smurfs: Colorful Stories - Ultimate Edition | 287126 | [287126-the-smurfs-colorful-stories-ultimate-edition.json](./287126-the-smurfs-colorful-stories-ultimate-edition.json) |
 | The Smurfs: Dreams | 299572 | [299572-the-smurfs-dreams.json](./299572-the-smurfs-dreams.json) |
 | The Smurfs: Dreams - Digital Deluxe Edition | 389410 | [389410-the-smurfs-dreams-digital-deluxe-edition.json](./389410-the-smurfs-dreams-digital-deluxe-edition.json) |
 | The Smurfs: Flower Defense | 352946 | [352946-the-smurfs-flower-defense.json](./352946-the-smurfs-flower-defense.json) |
@@ -17290,6 +17293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Way!! | 199943 | [199943-this-way.json](./199943-this-way.json) |
 | This will not go well | 132452 | [132452-this-will-not-go-well.json](./132452-this-will-not-go-well.json) |
 | This Winter of Ours | 380726 | [380726-this-winter-of-ours.json](./380726-this-winter-of-ours.json) |
+| This Won't Make You Happy | 286937 | [286937-this-wont-make-you-happy.json](./286937-this-wont-make-you-happy.json) |
 | This World Is Over | 348386 | [348386-this-world-is-over.json](./348386-this-world-is-over.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
 | This, Too, Shall Pass | 176235 | [176235-this-too-shall-pass.json](./176235-this-too-shall-pass.json) |
