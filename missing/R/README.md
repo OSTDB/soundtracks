@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type | 263376 | [263376-r-type.json](./263376-r-type.json) |
 | R-Type | 279055 | [279055-r-type.json](./279055-r-type.json) |
 | R-Type | 279221 | [279221-r-type.json](./279221-r-type.json) |
+| R-Type | 308145 | [308145-r-type.json](./308145-r-type.json) |
 | R-Type | 6840 | [6840-r-type.json](./6840-r-type.json) |
 | R-Type Complete CD | 210583 | [210583-r-type-complete-cd.json](./210583-r-type-complete-cd.json) |
 | R-Type Delta | 28397 | [28397-r-type-delta.json](./28397-r-type-delta.json) |
@@ -386,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Apex | 58661 | [58661-racing-apex.json](./58661-racing-apex.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
 | Racing Bros | 135604 | [135604-racing-bros.json](./135604-racing-bros.json) |
+| Racing Bros: Mafias Revenge | 308326 | [308326-racing-bros-mafias-revenge.json](./308326-racing-bros-mafias-revenge.json) |
 | Racing Burnout | 90419 | [90419-racing-burnout.json](./90419-racing-burnout.json) |
 | Racing Car | 346068 | [346068-racing-car.json](./346068-racing-car.json) |
 | Racing Car | 40586 | [40586-racing-car.json](./40586-racing-car.json) |
@@ -1535,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randamn | 23936 | [23936-randamn.json](./23936-randamn.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Rando'Knights | 275491 | [275491-randoknights.json](./275491-randoknights.json) |
+| RandoJumper | 308148 | [308148-randojumper.json](./308148-randojumper.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Card Defense | 143392 | [143392-random-card-defense.json](./143392-random-card-defense.json) |
 | Random Coin | 411083 | [411083-random-coin.json](./411083-random-coin.json) |
@@ -3982,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reiner Knizia's Ra | 103566 | [103566-reiner-knizias-ra.json](./103566-reiner-knizias-ra.json) |
 | Reiner Knizia's Samurai | 22207 | [22207-reiner-knizias-samurai.json](./22207-reiner-knizias-samurai.json) |
 | Reiner Knizia's: The Confrontation | 34650 | [34650-reiner-knizias-the-confrontation.json](./34650-reiner-knizias-the-confrontation.json) |
+| Reines Du Sabbat | 308288 | [308288-reines-du-sabbat.json](./308288-reines-du-sabbat.json) |
 | Reinforced Machine | 291344 | [291344-reinforced-machine.json](./291344-reinforced-machine.json) |
 | ReinPhazer | 137459 | [137459-reinphazer.json](./137459-reinphazer.json) |
 | Reinquarantination | 182899 | [182899-reinquarantination.json](./182899-reinquarantination.json) |
@@ -4648,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue the Puppies | 401029 | [401029-rescue-the-puppies.json](./401029-rescue-the-puppies.json) |
 | Rescue To The Parallel | 256114 | [256114-rescue-to-the-parallel.json](./256114-rescue-to-the-parallel.json) |
 | Rescue Troopers | 190901 | [190901-rescue-troopers.json](./190901-rescue-troopers.json) |
+| Rescue Wings | 308172 | [308172-rescue-wings.json](./308172-rescue-wings.json) |
 | Rescue your chickens | 30672 | [30672-rescue-your-chickens.json](./30672-rescue-your-chickens.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
@@ -4956,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resthedex | 151175 | [151175-resthedex.json](./151175-resthedex.json) |
 | Resting Island | 362194 | [362194-resting-island.json](./362194-resting-island.json) |
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
+| Restless Dreams | 308284 | [308284-restless-dreams.json](./308284-restless-dreams.json) |
 | Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
 | Restless Kids | 216957 | [216957-restless-kids.json](./216957-restless-kids.json) |
 | Restless Lands | 262815 | [262815-restless-lands.json](./262815-restless-lands.json) |
@@ -5980,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
 | Rick Dangerous | 12202 | [12202-rick-dangerous.json](./12202-rick-dangerous.json) |
 | Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
+| Rick Dangerous 2 | 308151 | [308151-rick-dangerous-2.json](./308151-rick-dangerous-2.json) |
 | Rick Henderson | 113529 | [113529-rick-henderson.json](./113529-rick-henderson.json) |
 | Rick Ribbit in Ark Noodle's Math Challenge | 62688 | [62688-rick-ribbit-in-ark-noodles-math-challenge.json](./62688-rick-ribbit-in-ark-noodles-math-challenge.json) |
 | Rick Ribbit: Adventures in Early Learning | 62689 | [62689-rick-ribbit-adventures-in-early-learning.json](./62689-rick-ribbit-adventures-in-early-learning.json) |
@@ -10209,6 +10216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
 | Ruina Remake | 234152 | [234152-ruina-remake.json](./234152-ruina-remake.json) |
 | Ruina: Haito no Monogatari | 152475 | [152475-ruina-haito-no-monogatari.json](./152475-ruina-haito-no-monogatari.json) |
+| Ruinas | 308318 | [308318-ruinas.json](./308318-ruinas.json) |
 | Ruinas de Maimará | 326145 | [326145-ruinas-de-maimara.json](./326145-ruinas-de-maimara.json) |
 | Ruination | 114854 | [114854-ruination.json](./114854-ruination.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
