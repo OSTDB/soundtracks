@@ -5626,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
 | Golf | 372204 | [372204-golf.json](./372204-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
+| Golf & Domino | 292563 | [292563-golf-and-domino.json](./292563-golf-and-domino.json) |
 | Golf 1999 | 23133 | [23133-golf-1999.json](./23133-golf-1999.json) |
 | Golf 2D | 74208 | [74208-golf-2d.json](./74208-golf-2d.json) |
 | Golf 5 eClub | 194227 | [194227-golf-5-eclub.json](./194227-golf-5-eclub.json) |
@@ -9558,6 +9559,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Kurona | 199876 | [199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json](./199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Yang Yumo | 199869 | [199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json](./199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json) |
 | Gunvolt Chronicles: Luminous Avenger iX2 - Special DLC Boss: Kirin | 199931 | [199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json](./199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json) |
+| Gunvolt Records Cychronicle: Song Pack 2 | 292503 | [292503-gunvolt-records-cychronicle-song-pack-2.json](./292503-gunvolt-records-cychronicle-song-pack-2.json) |
+| Gunvolt Records Cychronicle: Song Pack 3 | 292504 | [292504-gunvolt-records-cychronicle-song-pack-3.json](./292504-gunvolt-records-cychronicle-song-pack-3.json) |
+| Gunvolt Records Cychronicle: Song Pack 4 | 292505 | [292505-gunvolt-records-cychronicle-song-pack-4.json](./292505-gunvolt-records-cychronicle-song-pack-4.json) |
 | Gunvolt Records Cychronicle: Song Pack 6 | 294845 | [294845-gunvolt-records-cychronicle-song-pack-6.json](./294845-gunvolt-records-cychronicle-song-pack-6.json) |
 | Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
