@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Pacte | 304056 | [304056-le-pacte.json](./304056-le-pacte.json) |
 | Le Parcours | 89734 | [89734-le-parcours.json](./89734-le-parcours.json) |
 | Le Parker: Sous Chef Extraordinaire | 99102 | [99102-le-parker-sous-chef-extraordinaire.json](./99102-le-parker-sous-chef-extraordinaire.json) |
+| Le pays d'Adibou | 307626 | [307626-le-pays-dadibou.json](./307626-le-pays-dadibou.json) |
 | Le Petit Raccoon | 388944 | [388944-le-petit-raccoon.json](./388944-le-petit-raccoon.json) |
 | Le Plan Spectral | 346368 | [346368-le-plan-spectral.json](./346368-le-plan-spectral.json) |
 | Le Pompier | 346064 | [346064-le-pompier.json](./346064-le-pompier.json) |
@@ -2829,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leitstellensimulator | 145257 | [145257-leitstellensimulator.json](./145257-leitstellensimulator.json) |
 | Lek gjemsel med Mummitrollet | 404209 | [404209-lek-gjemsel-med-mummitrollet.json](./404209-lek-gjemsel-med-mummitrollet.json) |
 | Lekano World Online | 330856 | [330856-lekano-world-online.json](./330856-lekano-world-online.json) |
+| Lekker Spelen: Origins | 307627 | [307627-lekker-spelen-origins.json](./307627-lekker-spelen-origins.json) |
 | Lekker Weertje Koekepeertje: Lente | 350014 | [350014-lekker-weertje-koekepeertje-lente.json](./350014-lekker-weertje-koekepeertje-lente.json) |
 | Leksi | 361909 | [361909-leksi.json](./361909-leksi.json) |
 | Lelie Navigation! | 156057 | [156057-lelie-navigation.json](./156057-lelie-navigation.json) |
