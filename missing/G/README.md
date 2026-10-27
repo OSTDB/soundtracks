@@ -3165,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost College: Hotel Fright - Chapter 1 | 193427 | [193427-ghost-college-hotel-fright-chapter-1.json](./193427-ghost-college-hotel-fright-chapter-1.json) |
 | Ghost Control | 405546 | [405546-ghost-control.json](./405546-ghost-control.json) |
 | Ghost Croquet | 32751 | [32751-ghost-croquet.json](./32751-ghost-croquet.json) |
+| Ghost Dance | 301324 | [301324-ghost-dance.json](./301324-ghost-dance.json) |
 | Ghost Deliverer | 350393 | [350393-ghost-deliverer.json](./350393-ghost-deliverer.json) |
 | Ghost Dimension | 126403 | [126403-ghost-dimension.json](./126403-ghost-dimension.json) |
 | Ghost Doll | 207661 | [207661-ghost-doll.json](./207661-ghost-doll.json) |
@@ -8540,6 +8541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guard Force: Covert Strike | 133754 | [133754-guard-force-covert-strike.json](./133754-guard-force-covert-strike.json) |
 | Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
 | Guard the Future | 117574 | [117574-guard-the-future.json](./117574-guard-the-future.json) |
+| Guard the Tower! | 301874 | [301874-guard-the-tower.json](./301874-guard-the-tower.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
 | GuardGrave | 275536 | [275536-guardgrave.json](./275536-guardgrave.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
