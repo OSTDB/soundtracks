@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganja Quest RPG | 368359 | [368359-ganja-quest-rpg.json](./368359-ganja-quest-rpg.json) |
 | Ganku Ganku | 251089 | [251089-ganku-ganku.json](./251089-ganku-ganku.json) |
 | Gansel and Hretel | 99157 | [99157-gansel-and-hretel.json](./99157-gansel-and-hretel.json) |
+| Ganso Hanjuku Hero | 292029 | [292029-ganso-hanjuku-hero.json](./292029-ganso-hanjuku-hero.json) |
 | Ganso Saiyuuki: Super Monkey Daibouken | 48487 | [48487-ganso-saiyuuki-super-monkey-daibouken.json](./48487-ganso-saiyuuki-super-monkey-daibouken.json) |
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
 | Ganso!! Yancha-maru | 186733 | [186733-ganso-yancha-maru.json](./186733-ganso-yancha-maru.json) |
