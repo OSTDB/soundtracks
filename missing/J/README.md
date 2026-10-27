@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Javols VR | 149220 | [149220-javols-vr.json](./149220-javols-vr.json) |
 | Jaw Breaker | 41141 | [41141-jaw-breaker.json](./41141-jaw-breaker.json) |
 | Jaw Breakers & The Confection Connection | 133165 | [133165-jaw-breakers-and-the-confection-connection.json](./133165-jaw-breakers-and-the-confection-connection.json) |
+| Jaw Evolution | 307559 | [307559-jaw-evolution.json](./307559-jaw-evolution.json) |
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
 | Jawbone Hollow | 343734 | [343734-jawbone-hollow.json](./343734-jawbone-hollow.json) |
 | Jawbreak | 271803 | [271803-jawbreak.json](./271803-jawbreak.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jenny LeClue: Detectivu | 21344 | [21344-jenny-leclue-detectivu.json](./21344-jenny-leclue-detectivu.json) |
 | Jenny Love You | 408122 | [408122-jenny-love-you.json](./408122-jenny-love-you.json) |
 | Jenny Lusby: Intergalactic Adventures | 307257 | [307257-jenny-lusby-intergalactic-adventures.json](./307257-jenny-lusby-intergalactic-adventures.json) |
+| Jenny of the Prairie | 307556 | [307556-jenny-of-the-prairie.json](./307556-jenny-of-the-prairie.json) |
 | Jenny the Witch | 384852 | [384852-jenny-the-witch.json](./384852-jenny-the-witch.json) |
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jensen Strikes Back | 340984 | [340984-jensen-strikes-back.json](./340984-jensen-strikes-back.json) |
