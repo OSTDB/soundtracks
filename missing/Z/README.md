@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zheros: The forgotten land | 174158 | [174158-zheros-the-forgotten-land.json](./174158-zheros-the-forgotten-land.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
 | Zhiel's Mystery | 237390 | [237390-zhiels-mystery.json](./237390-zhiels-mystery.json) |
+| Zhigu Military Exorcist | 302405 | [302405-zhigu-military-exorcist.json](./302405-zhigu-military-exorcist.json) |
 | Zhǐjiān Wèndào | 344512 | [344512-zhijian-wendao.json](./344512-zhijian-wendao.json) |
 | Zhījiāng Wǎngshì | 155549 | [155549-zhijiang-wangshi.json](./155549-zhijiang-wangshi.json) |
 | Zhījiāng Xiǎozhèn | 369570 | [369570-zhijiang-xiaozhen.json](./369570-zhijiang-xiaozhen.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zig Zag Flag Shag | 84470 | [84470-zig-zag-flag-shag.json](./84470-zig-zag-flag-shag.json) |
 | Zig Zag Game | 88216 | [88216-zig-zag-game.json](./88216-zig-zag-game.json) |
 | Zig Zag Go | 84933 | [84933-zig-zag-go.json](./84933-zig-zag-go.json) |
+| Zig Zag Jump: Fantasy Challenge | 302406 | [302406-zig-zag-jump-fantasy-challenge.json](./302406-zig-zag-jump-fantasy-challenge.json) |
 | Zig Zag Tilt | 197626 | [197626-zig-zag-tilt.json](./197626-zig-zag-tilt.json) |
 | Zigamus: Zombies at Vigamus | 57470 | [57470-zigamus-zombies-at-vigamus.json](./57470-zigamus-zombies-at-vigamus.json) |
 | Ziggi's First ABCs | 70044 | [70044-ziggis-first-abcs.json](./70044-ziggis-first-abcs.json) |
@@ -1030,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
 | ZigZag | 231998 | [231998-zigzag.json](./231998-zigzag.json) |
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
+| ZigZag Drifter | 302392 | [302392-zigzag-drifter.json](./302392-zigzag-drifter.json) |
 | Zigzag Infinite Runner | 123480 | [123480-zigzag-infinite-runner.json](./123480-zigzag-infinite-runner.json) |
 | Ziircon | 211277 | [211277-ziircon.json](./211277-ziircon.json) |
 | ZikSquare | 124130 | [124130-ziksquare.json](./124130-ziksquare.json) |
@@ -1052,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zine Fair Lady | 176956 | [176956-zine-fair-lady.json](./176956-zine-fair-lady.json) |
 | Zineth | 64122 | [64122-zineth.json](./64122-zineth.json) |
 | Zing Zing Zip | 40973 | [40973-zing-zing-zip.json](./40973-zing-zing-zip.json) |
+| Zink | 302407 | [302407-zink.json](./302407-zink.json) |
 | Zinkara | 348343 | [348343-zinkara.json](./348343-zinkara.json) |
 | Zinnia | 145595 | [145595-zinnia.json](./145595-zinnia.json) |
 | Zinuru the Great | 157213 | [157213-zinuru-the-great.json](./157213-zinuru-the-great.json) |
