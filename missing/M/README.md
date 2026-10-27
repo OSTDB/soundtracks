@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Party | 397811 | [397811-machine-party.json](./397811-machine-party.json) |
 | Machine Phantasm | 254399 | [254399-machine-phantasm.json](./254399-machine-phantasm.json) |
 | Machine Ruin Self-Destruction Masturbation Life of the Sky Temple | 189971 | [189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json](./189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json) |
+| Machine Runaway | 296966 | [296966-machine-runaway.json](./296966-machine-runaway.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machine World 2 | 50750 | [50750-machine-world-2.json](./50750-machine-world-2.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Hunter | 30416 | [30416-mad-hunter.json](./30416-mad-hunter.json) |
 | Mad Hunting Simulator VR | 113268 | [113268-mad-hunting-simulator-vr.json](./113268-mad-hunting-simulator-vr.json) |
 | Mad Island | 184247 | [184247-mad-island.json](./184247-mad-island.json) |
+| Mad Island | 296959 | [296959-mad-island.json](./296959-mad-island.json) |
 | Mad Jyacer | 276250 | [276250-mad-jyacer.json](./276250-mad-jyacer.json) |
 | Mad King Redemption | 361874 | [361874-mad-king-redemption.json](./361874-mad-king-redemption.json) |
 | Mad King's Lair: Tome of Destruction | 266755 | [266755-mad-kings-lair-tome-of-destruction.json](./266755-mad-kings-lair-tome-of-destruction.json) |
@@ -2097,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majulah | 367965 | [367965-majulah.json](./367965-majulah.json) |
 | Majustsushi Rintiara | 174123 | [174123-majustsushi-rintiara.json](./174123-majustsushi-rintiara.json) |
 | Majuu-ou: King of Demons | 38112 | [38112-majuu-ou-king-of-demons.json](./38112-majuu-ou-king-of-demons.json) |
+| Majyo Crush | 296967 | [296967-majyo-crush.json](./296967-majyo-crush.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Maka Dash | 302046 | [302046-maka-dash.json](./302046-maka-dash.json) |
 | Makabaka | 256673 | [256673-makabaka.json](./256673-makabaka.json) |
@@ -2266,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makyouden | 92122 | [92122-makyouden.json](./92122-makyouden.json) |
 | Mala Petaka | 224535 | [224535-mala-petaka.json](./224535-mala-petaka.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
+| Malachite: Temple of the Sun | 296968 | [296968-malachite-temple-of-the-sun.json](./296968-malachite-temple-of-the-sun.json) |
 | Malachite: Temple of the Sun - Collector's Edition | 378764 | [378764-malachite-temple-of-the-sun-collectors-edition.json](./378764-malachite-temple-of-the-sun-collectors-edition.json) |
 | Malagai | 23288 | [23288-malagai.json](./23288-malagai.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
@@ -4550,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Chess | 29180 | [29180-masters-of-chess.json](./29180-masters-of-chess.json) |
 | Masters of Fate Bundle: Bio Inc. Redemption & Cultist Simulator: Anthology | 331535 | [331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json](./331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json) |
 | Masters of Light | 285367 | [285367-masters-of-light.json](./285367-masters-of-light.json) |
+| Masters of Madness | 296849 | [296849-masters-of-madness.json](./296849-masters-of-madness.json) |
 | Masters of Mayhem | 314266 | [314266-masters-of-mayhem.json](./314266-masters-of-mayhem.json) |
 | Masters of Mystery: Crime of Fashion | 341071 | [341071-masters-of-mystery-crime-of-fashion.json](./341071-masters-of-mystery-crime-of-fashion.json) |
 | Masters of Puzzle | 96480 | [96480-masters-of-puzzle.json](./96480-masters-of-puzzle.json) |
@@ -13568,6 +13573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Legacy | 20066 | [20066-monster-legacy.json](./20066-monster-legacy.json) |
 | Monster Legacy: Cozy Puzzle Crossing | 356528 | [356528-monster-legacy-cozy-puzzle-crossing.json](./356528-monster-legacy-cozy-puzzle-crossing.json) |
 | Monster Legacy: New Horizons | 287038 | [287038-monster-legacy-new-horizons.json](./287038-monster-legacy-new-horizons.json) |
+| Monster Legacy: New Horizons 2 | 296858 | [296858-monster-legacy-new-horizons-2.json](./296858-monster-legacy-new-horizons-2.json) |
 | Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
 | Monster Legends | 59437 | [59437-monster-legends.json](./59437-monster-legends.json) |
