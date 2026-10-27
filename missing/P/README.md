@@ -14549,6 +14549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar: Lost Colony | 16687 | [16687-pulsar-lost-colony.json](./16687-pulsar-lost-colony.json) |
 | Pulsari | 404782 | [404782-pulsari.json](./404782-pulsari.json) |
 | Pulsars & Crowbars | 271599 | [271599-pulsars-and-crowbars.json](./271599-pulsars-and-crowbars.json) |
+| Pulsatio Cordis | 326567 | [326567-pulsatio-cordis.json](./326567-pulsatio-cordis.json) |
 | Pulsator | 39130 | [39130-pulsator.json](./39130-pulsator.json) |
 | Pulse | 13359 | [13359-pulse.json](./13359-pulse.json) |
 | Pulse | 177421 | [177421-pulse.json](./177421-pulse.json) |
