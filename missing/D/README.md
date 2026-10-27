@@ -12651,6 +12651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fantasy Book I and II Bundle | 99554 | [99554-dragon-fantasy-book-i-and-ii-bundle.json](./99554-dragon-fantasy-book-i-and-ii-bundle.json) |
 | Dragon Fantasy: The Black Tome of Ice | 36219 | [36219-dragon-fantasy-the-black-tome-of-ice.json](./36219-dragon-fantasy-the-black-tome-of-ice.json) |
 | Dragon Fantasy: The Volumes of Westeria | 17931 | [17931-dragon-fantasy-the-volumes-of-westeria.json](./17931-dragon-fantasy-the-volumes-of-westeria.json) |
+| Dragon Fate: Cards and Minigames | 285615 | [285615-dragon-fate-cards-and-minigames.json](./285615-dragon-fate-cards-and-minigames.json) |
 | Dragon Fight VR | 133389 | [133389-dragon-fight-vr.json](./133389-dragon-fight-vr.json) |
 | Dragon Fighter | 144672 | [144672-dragon-fighter.json](./144672-dragon-fighter.json) |
 | Dragon Fighter | 328351 | [328351-dragon-fighter.json](./328351-dragon-fighter.json) |
