@@ -9661,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Garden Pack | 324407 | [324407-freaky-trip-garden-pack.json](./324407-freaky-trip-garden-pack.json) |
 | Freaky Trip: Hobby Pack | 324405 | [324405-freaky-trip-hobby-pack.json](./324405-freaky-trip-hobby-pack.json) |
 | Freaky Trip: Legendary Edition | 294828 | [294828-freaky-trip-legendary-edition.json](./294828-freaky-trip-legendary-edition.json) |
+| Freaky Trip: Magnificent Edition | 312060 | [312060-freaky-trip-magnificent-edition.json](./312060-freaky-trip-magnificent-edition.json) |
 | Freaky Trip: Platinum Edition | 298571 | [298571-freaky-trip-platinum-edition.json](./298571-freaky-trip-platinum-edition.json) |
 | Freaky Trip: Premium Edition | 284500 | [284500-freaky-trip-premium-edition.json](./284500-freaky-trip-premium-edition.json) |
 | Freaky Trip: Space Pack | 324390 | [324390-freaky-trip-space-pack.json](./324390-freaky-trip-space-pack.json) |
@@ -10719,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Wars: The Rise of Fatty Sparkles | 64440 | [64440-frost-wars-the-rise-of-fatty-sparkles.json](./64440-frost-wars-the-rise-of-fatty-sparkles.json) |
 | Frost World | 355574 | [355574-frost-world.json](./355574-frost-world.json) |
 | Frostage | 114117 | [114117-frostage.json](./114117-frostage.json) |
+| Frostbite | 311974 | [311974-frostbite.json](./311974-frostbite.json) |
 | Frostbite | 364042 | [364042-frostbite.json](./364042-frostbite.json) |
 | FrostBite | 381039 | [381039-frostbite.json](./381039-frostbite.json) |
 | Frostbite Frenzy | 367922 | [367922-frostbite-frenzy.json](./367922-frostbite-frenzy.json) |
