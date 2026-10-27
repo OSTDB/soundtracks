@@ -19915,6 +19915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Castle | 326731 | [326731-tiny-castle.json](./326731-tiny-castle.json) |
 | Tiny Cat Fishing | 390191 | [390191-tiny-cat-fishing.json](./390191-tiny-cat-fishing.json) |
 | Tiny Catcher | 405034 | [405034-tiny-catcher.json](./405034-tiny-catcher.json) |
+| Tiny Cats | 306918 | [306918-tiny-cats.json](./306918-tiny-cats.json) |
 | Tiny Cats vs Toys | 407184 | [407184-tiny-cats-vs-toys.json](./407184-tiny-cats-vs-toys.json) |
 | Tiny Chao Garden | 314323 | [314323-tiny-chao-garden.json](./314323-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341691 | [341691-tiny-chao-garden.json](./341691-tiny-chao-garden.json) |
@@ -25968,6 +25969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trepang | 350757 | [350757-trepang.json](./350757-trepang.json) |
 | Trepang2 | 126212 | [126212-trepang2.json](./126212-trepang2.json) |
 | Trepang2: Banger Edition | 254414 | [254414-trepang2-banger-edition.json](./254414-trepang2-banger-edition.json) |
+| Trepang2: Bladekisser DLC | 307033 | [307033-trepang2-bladekisser-dlc.json](./307033-trepang2-bladekisser-dlc.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Trepidation | 247922 | [247922-trepidation.json](./247922-trepidation.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
