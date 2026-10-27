@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
 | Early Quest | 160127 | [160127-early-quest.json](./160127-early-quest.json) |
 | Early Quest 2 | 174042 | [174042-early-quest-2.json](./174042-early-quest-2.json) |
+| Early-blooming Black Lily: Hana to Itsuki no Gojitsudan 1 | 282169 | [282169-early-blooming-black-lily-hana-to-itsuki-no-gojitsudan-1.json](./282169-early-blooming-black-lily-hana-to-itsuki-no-gojitsudan-1.json) |
 | Early-blooming Black Lily: Hana to Itsuki no Naisho no Hanashi 1 | 276135 | [276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json](./276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json) |
 | Early-blooming Black Lily: Itsuki-chan no Obentou | 273344 | [273344-early-blooming-black-lily-itsuki-chan-no-obentou.json](./273344-early-blooming-black-lily-itsuki-chan-no-obentou.json) |
 | Early-blooming Black Lily: Moshi Mo-series | 275613 | [275613-early-blooming-black-lily-moshi-mo-series.json](./275613-early-blooming-black-lily-moshi-mo-series.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Collapse | 214387 | [214387-edge-of-collapse.json](./214387-edge-of-collapse.json) |
 | Edge of Dawn | 135799 | [135799-edge-of-dawn.json](./135799-edge-of-dawn.json) |
 | Edge of Dead: Under a Uranium Sky | 150597 | [150597-edge-of-dead-under-a-uranium-sky.json](./150597-edge-of-dead-under-a-uranium-sky.json) |
+| Edge of Death | 282173 | [282173-edge-of-death.json](./282173-edge-of-death.json) |
 | Edge of Destruction | 390741 | [390741-edge-of-destruction.json](./390741-edge-of-destruction.json) |
 | Edge Of Dread | 388723 | [388723-edge-of-dread.json](./388723-edge-of-dread.json) |
 | Edge of Dreams | 137862 | [137862-edge-of-dreams.json](./137862-edge-of-dreams.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
+| Esports Godfather Origin | 282161 | [282161-esports-godfather-origin.json](./282161-esports-godfather-origin.json) |
 | ESports Hero | 335458 | [335458-esports-hero.json](./335458-esports-hero.json) |
 | Esports Heroes | 259639 | [259639-esports-heroes.json](./259639-esports-heroes.json) |
 | Esports History | 172962 | [172962-esports-history.json](./172962-esports-history.json) |
