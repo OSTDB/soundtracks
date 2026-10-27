@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
 | A Few Days With: Rebecca | 301683 | [301683-a-few-days-with-rebecca.json](./301683-a-few-days-with-rebecca.json) |
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
+| A Few Days With: Tiffany | 306404 | [306404-a-few-days-with-tiffany.json](./306404-a-few-days-with-tiffany.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
 | A Few Days With: Violette | 301684 | [301684-a-few-days-with-violette.json](./301684-a-few-days-with-violette.json) |
 | A Few Minutes of Glory | 216159 | [216159-a-few-minutes-of-glory.json](./216159-a-few-minutes-of-glory.json) |
@@ -7021,6 +7022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazônia Viva: Animais em Extinção | 303330 | [303330-amazonia-viva-animais-em-extincao.json](./303330-amazonia-viva-animais-em-extincao.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
+| Amber Alert | 306398 | [306398-amber-alert.json](./306398-amber-alert.json) |
 | Amber Alert Director's Cut | 345679 | [345679-amber-alert-directors-cut.json](./345679-amber-alert-directors-cut.json) |
 | Amber Alert Total VR | 339722 | [339722-amber-alert-total-vr.json](./339722-amber-alert-total-vr.json) |
 | Amber Battle Royale | 226219 | [226219-amber-battle-royale.json](./226219-amber-battle-royale.json) |
@@ -9038,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalogenos | 404998 | [404998-anomalogenos.json](./404998-anomalogenos.json) |
 | Anomalous Adventure | 309951 | [309951-anomalous-adventure.json](./309951-anomalous-adventure.json) |
 | Anomalous City | 250274 | [250274-anomalous-city.json](./250274-anomalous-city.json) |
+| Anomalous Crossing: Shibuya | 306408 | [306408-anomalous-crossing-shibuya.json](./306408-anomalous-crossing-shibuya.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
@@ -15199,6 +15202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
 | Awaken: Chaos Era | 168327 | [168327-awaken-chaos-era.json](./168327-awaken-chaos-era.json) |
 | Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
+| Awaken: Hentai Dice | 306328 | [306328-awaken-hentai-dice.json](./306328-awaken-hentai-dice.json) |
 | Awaken: Underwater Odyssey | 133951 | [133951-awaken-underwater-odyssey.json](./133951-awaken-underwater-odyssey.json) |
 | Awakened | 261133 | [261133-awakened.json](./261133-awakened.json) |
 | Awakened Evil | 190077 | [190077-awakened-evil.json](./190077-awakened-evil.json) |
