@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unscramble Words | 88730 | [88730-unscramble-words.json](./88730-unscramble-words.json) |
 | Unscripted | 150764 | [150764-unscripted.json](./150764-unscripted.json) |
 | Unscripted | 223383 | [223383-unscripted.json](./223383-unscripted.json) |
+| Unscripted Fate | 295210 | [295210-unscripted-fate.json](./295210-unscripted-fate.json) |
 | Unsealed: Vigil | 414948 | [414948-unsealed-vigil.json](./414948-unsealed-vigil.json) |
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
 | Unseen | 328940 | [328940-unseen.json](./328940-unseen.json) |
