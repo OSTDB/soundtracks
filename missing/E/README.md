@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
 | Elemental Rush | 360689 | [360689-elemental-rush.json](./360689-elemental-rush.json) |
 | Elemental Saga | 361301 | [361301-elemental-saga.json](./361301-elemental-saga.json) |
+| Elemental Showdown | 325380 | [325380-elemental-showdown.json](./325380-elemental-showdown.json) |
 | Elemental Soul | 391606 | [391606-elemental-soul.json](./391606-elemental-soul.json) |
 | Elemental Strike: Mirage Tower | 132107 | [132107-elemental-strike-mirage-tower.json](./132107-elemental-strike-mirage-tower.json) |
 | Elemental Surge | 339735 | [339735-elemental-surge.json](./339735-elemental-surge.json) |
