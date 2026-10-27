@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haishin | 376675 | [376675-haishin.json](./376675-haishin.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
+| Haitoku Shirene: Anata no Shiranai Naraku no Soko | 314802 | [314802-haitoku-shirene-anata-no-shiranai-naraku-no-soko.json](./314802-haitoku-shirene-anata-no-shiranai-naraku-no-soko.json) |
 | Haitoku Silene | 157058 | [157058-haitoku-silene.json](./157058-haitoku-silene.json) |
 | Haiyuuenchi no Memento Memoria | 259056 | [259056-haiyuuenchi-no-memento-memoria.json](./259056-haiyuuenchi-no-memento-memoria.json) |
 | Hǎizéiwáng Jiējī Idle | 368443 | [368443-haizeiwang-jieji-idle.json](./368443-haizeiwang-jieji-idle.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsukoi, Mikan ni Tsuki Tsuzuku | 394076 | [394076-hatsukoi-mikan-ni-tsuki-tsuzuku.json](./394076-hatsukoi-mikan-ni-tsuki-tsuzuku.json) |
 | Hatsukoi! | 122109 | [122109-hatsukoi.json](./122109-hatsukoi.json) |
 | Hatsumira: From the Future Undying | 197543 | [197543-hatsumira-from-the-future-undying.json](./197543-hatsumira-from-the-future-undying.json) |
+| Hatsumonogatari | 314834 | [314834-hatsumonogatari.json](./314834-hatsumonogatari.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
 | Hatsune Miku and Future Stars: Project Mirai | 6805 | [6805-hatsune-miku-and-future-stars-project-mirai.json](./6805-hatsune-miku-and-future-stars-project-mirai.json) |
 | Hatsune Miku Bomb Squad! | 312961 | [312961-hatsune-miku-bomb-squad.json](./312961-hatsune-miku-bomb-squad.json) |
@@ -9178,6 +9180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houma Hunter Lime with Paint Maker | 166539 | [166539-houma-hunter-lime-with-paint-maker.json](./166539-houma-hunter-lime-with-paint-maker.json) |
 | Houma Hunter Lime: Special Collection Vol. 1 | 117026 | [117026-houma-hunter-lime-special-collection-vol-1.json](./117026-houma-hunter-lime-special-collection-vol-1.json) |
 | Houma Hunter Lime: Special Collection Vol.2 | 166538 | [166538-houma-hunter-lime-special-collection-vol-2.json](./166538-houma-hunter-lime-special-collection-vol-2.json) |
+| Houmatsu Tunnel | 314848 | [314848-houmatsu-tunnel.json](./314848-houmatsu-tunnel.json) |
 | Hound | 30316 | [30316-hound.json](./30316-hound.json) |
 | Hound Riders | 415780 | [415780-hound-riders.json](./415780-hound-riders.json) |
 | Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
