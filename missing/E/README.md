@@ -1381,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Xanadu Scenario II PC-8801mkIISR | 314859 | [314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json](./314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json) |
 | Eggconsole Yokai Tantei PC-8801 | 283284 | [283284-eggconsole-yokai-tantei-pc-8801.json](./283284-eggconsole-yokai-tantei-pc-8801.json) |
 | Eggconsole Ys II MSX2 | 328525 | [328525-eggconsole-ys-ii-msx2.json](./328525-eggconsole-ys-ii-msx2.json) |
+| Eggconsole Ys II PC-8801mkIISR | 290446 | [290446-eggconsole-ys-ii-pc-8801mkiisr.json](./290446-eggconsole-ys-ii-pc-8801mkiisr.json) |
 | Eggconsole Ys PC-8801mkIISR | 286210 | [286210-eggconsole-ys-pc-8801mkiisr.json](./286210-eggconsole-ys-pc-8801mkiisr.json) |
 | Eggconsole Yuureikun MSX2 | 381705 | [381705-eggconsole-yuureikun-msx2.json](./381705-eggconsole-yuureikun-msx2.json) |
 | Eggconsole Zodiac PC-8801 | 406070 | [406070-eggconsole-zodiac-pc-8801.json](./406070-eggconsole-zodiac-pc-8801.json) |
@@ -4579,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape game R00m15 | 410381 | [410381-escape-game-r00m15.json](./410381-escape-game-r00m15.json) |
 | Escape game R00m17 | 420691 | [420691-escape-game-r00m17.json](./420691-escape-game-r00m17.json) |
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
+| Escape Game The Abandoned Hospital | 290457 | [290457-escape-game-the-abandoned-hospital.json](./290457-escape-game-the-abandoned-hospital.json) |
 | Escape Game The Deserted House | 295688 | [295688-escape-game-the-deserted-house.json](./295688-escape-game-the-deserted-house.json) |
 | Escape Game The Dr. Mouse's Lab | 298585 | [298585-escape-game-the-dr-mouses-lab.json](./298585-escape-game-the-dr-mouses-lab.json) |
 | Escape Game The Empty School | 345693 | [345693-escape-game-the-empty-school.json](./345693-escape-game-the-empty-school.json) |
@@ -6845,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extermination Ship | 346546 | [346546-extermination-ship.json](./346546-extermination-ship.json) |
 | Exterminator | 12733 | [12733-exterminator.json](./12733-exterminator.json) |
 | Exterminator | 238557 | [238557-exterminator.json](./238557-exterminator.json) |
+| Exterminator | 290376 | [290376-exterminator.json](./290376-exterminator.json) |
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | Exterminatus: A Grim Odyssey | 370472 | [370472-exterminatus-a-grim-odyssey.json](./370472-exterminatus-a-grim-odyssey.json) |
