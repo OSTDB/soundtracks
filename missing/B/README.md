@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Ship Clapton II | 47547 | [47547-battle-ship-clapton-ii.json](./47547-battle-ship-clapton-ii.json) |
 | Battle Ships | 13869 | [13869-battle-ships.json](./13869-battle-ships.json) |
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
+| Battle Simulator | 301238 | [301238-battle-simulator.json](./301238-battle-simulator.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Slimes | 101409 | [101409-battle-slimes.json](./101409-battle-slimes.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
@@ -14191,6 +14192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubblien Pop | 81709 | [81709-bubblien-pop.json](./81709-bubblien-pop.json) |
 | Bubbly | 407150 | [407150-bubbly.json](./407150-bubbly.json) |
 | Bubbly Letters | 292058 | [292058-bubbly-letters.json](./292058-bubbly-letters.json) |
+| Bubbly's Symphony: Guardians of the Depths | 301319 | [301319-bubblys-symphony-guardians-of-the-depths.json](./301319-bubblys-symphony-guardians-of-the-depths.json) |
 | Bubbo: The Lost Hat | 148121 | [148121-bubbo-the-lost-hat.json](./148121-bubbo-the-lost-hat.json) |
 | Bubbu School | 224077 | [224077-bubbu-school.json](./224077-bubbu-school.json) |
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
