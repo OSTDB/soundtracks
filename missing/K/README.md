@@ -2362,7 +2362,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2379,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi Omou Yoru ni Kengeki wo | 396572 | [396572-kimi-omou-yoru-ni-kengeki-wo.json](./396572-kimi-omou-yoru-ni-kengeki-wo.json) |
 | Kimi sae Ireba | 314705 | [314705-kimi-sae-ireba.json](./314705-kimi-sae-ireba.json) |
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
+| Kimi to Boku to Hitorigoto | 314817 | [314817-kimi-to-boku-to-hitorigoto.json](./314817-kimi-to-boku-to-hitorigoto.json) |
 | Kimi to Boku to no Kishi no Hibi: Rakuen no Chevalier | 194583 | [194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json](./194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json) |
 | Kimi to Kanojo no Lily Vaganza | 316670 | [316670-kimi-to-kanojo-no-lily-vaganza.json](./316670-kimi-to-kanojo-no-lily-vaganza.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
@@ -4988,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubikon 3D: Pirates DLC | 372550 | [372550-kubikon-3d-pirates-dlc.json](./372550-kubikon-3d-pirates-dlc.json) |
 | Kubikon 3D: Warehouse DLC | 372552 | [372552-kubikon-3d-warehouse-dlc.json](./372552-kubikon-3d-warehouse-dlc.json) |
 | Kubitori Dolls: Retriever - Shimazu Kaidan 01 | 328312 | [328312-kubitori-dolls-retriever-shimazu-kaidan-01.json](./328312-kubitori-dolls-retriever-shimazu-kaidan-01.json) |
+| Kubitori Sarasa | 314803 | [314803-kubitori-sarasa.json](./314803-kubitori-sarasa.json) |
 | Kubits Gallery | 296690 | [296690-kubits-gallery.json](./296690-kubits-gallery.json) |
 | Kubix | 74996 | [74996-kubix.json](./74996-kubix.json) |
 | Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
