@@ -17579,6 +17579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan | 208845 | [208845-spartan.json](./208845-spartan.json) |
 | Spartan | 223336 | [223336-spartan.json](./223336-spartan.json) |
 | Spartan | 66895 | [66895-spartan.json](./66895-spartan.json) |
+| Spartan Commander Realtime | 284519 | [284519-spartan-commander-realtime.json](./284519-spartan-commander-realtime.json) |
 | Spartan Fist | 28876 | [28876-spartan-fist.json](./28876-spartan-fist.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
