@@ -4654,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
 | Find the Cat | 321200 | [321200-find-the-cat.json](./321200-find-the-cat.json) |
+| Find The Cat | 310438 | [310438-find-the-cat.json](./310438-find-the-cat.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Cats: Japan Journey | 364077 | [364077-find-the-cats-japan-journey.json](./364077-find-the-cats-japan-journey.json) |
 | Find the Cats: Memory | 195593 | [195593-find-the-cats-memory.json](./195593-find-the-cats-memory.json) |
