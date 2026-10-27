@@ -4189,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
 | Erotic Dream Puzzle | 312696 | [312696-erotic-dream-puzzle.json](./312696-erotic-dream-puzzle.json) |
 | Erotic Dungeon Survival | 82829 | [82829-erotic-dungeon-survival.json](./82829-erotic-dungeon-survival.json) |
+| Erotic Fiction for Cyberpunk Sex | 288244 | [288244-erotic-fiction-for-cyberpunk-sex.json](./288244-erotic-fiction-for-cyberpunk-sex.json) |
 | Erotic Fiction for Sex Motel | 288887 | [288887-erotic-fiction-for-sex-motel.json](./288887-erotic-fiction-for-sex-motel.json) |
 | Erotic Jigsaw Challenge Vol 2 | 106541 | [106541-erotic-jigsaw-challenge-vol-2.json](./106541-erotic-jigsaw-challenge-vol-2.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
