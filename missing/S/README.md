@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorcher | 115550 | [115550-scorcher.json](./115550-scorcher.json) |
 | Scorcher | 50381 | [50381-scorcher.json](./50381-scorcher.json) |
 | Scorchie Adventures | 306579 | [306579-scorchie-adventures.json](./306579-scorchie-adventures.json) |
+| Scorching Earth | 301290 | [301290-scorching-earth.json](./301290-scorching-earth.json) |
 | Scorching Engines | 271595 | [271595-scorching-engines.json](./271595-scorching-engines.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchlands | 165401 | [165401-scorchlands.json](./165401-scorchlands.json) |
@@ -3498,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
 | Seablip | 144811 | [144811-seablip.json](./144811-seablip.json) |
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
+| Seaburn | 301801 | [301801-seaburn.json](./301801-seaburn.json) |
 | SeaColony | 415067 | [415067-seacolony.json](./415067-seacolony.json) |
 | Seacorp Technologies | 108903 | [108903-seacorp-technologies.json](./108903-seacorp-technologies.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
@@ -8957,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent: Abandoned | 309437 | [309437-silent-abandoned.json](./309437-silent-abandoned.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silentium: Remastered | 240739 | [240739-silentium-remastered.json](./240739-silentium-remastered.json) |
+| Silenus | 301875 | [301875-silenus.json](./301875-silenus.json) |
 | Sileo: Tales of a New Dawn | 140917 | [140917-sileo-tales-of-a-new-dawn.json](./140917-sileo-tales-of-a-new-dawn.json) |
 | Silfade Gensoutan | 249769 | [249769-silfade-gensoutan.json](./249769-silfade-gensoutan.json) |
 | Silhouette | 132061 | [132061-silhouette.json](./132061-silhouette.json) |
@@ -8967,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silhouette Shooter | 73696 | [73696-silhouette-shooter.json](./73696-silhouette-shooter.json) |
 | Silhouette Stories | 198550 | [198550-silhouette-stories.json](./198550-silhouette-stories.json) |
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
+| Silhouettes | 301291 | [301291-silhouettes.json](./301291-silhouettes.json) |
 | Silhoun | 323421 | [323421-silhoun.json](./323421-silhoun.json) |
 | Silica | 247621 | [247621-silica.json](./247621-silica.json) |
 | Silicium | 381074 | [381074-silicium.json](./381074-silicium.json) |
@@ -10439,6 +10443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Skittles | 148170 | [148170-skittles.json](./148170-skittles.json) |
+| Skizz | 301857 | [301857-skizz.json](./301857-skizz.json) |
 | Skjoldur Story | 116892 | [116892-skjoldur-story.json](./116892-skjoldur-story.json) |
 | Sklime: A Difficult Climbing Adventure | 322528 | [322528-sklime-a-difficult-climbing-adventure.json](./322528-sklime-a-difficult-climbing-adventure.json) |
 | Sknow | 118206 | [118206-sknow.json](./118206-sknow.json) |
@@ -13264,6 +13269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowstorm of despair | 192596 | [192596-snowstorm-of-despair.json](./192596-snowstorm-of-despair.json) |
 | Snowtopia: Ski Resort Builder | 113363 | [113363-snowtopia-ski-resort-builder.json](./113363-snowtopia-ski-resort-builder.json) |
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
+| Snowtrix | 301300 | [301300-snowtrix.json](./301300-snowtrix.json) |
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy Leaps | 233436 | [233436-snowy-leaps.json](./233436-snowy-leaps.json) |
 | Snowy Love | 151458 | [151458-snowy-love.json](./151458-snowy-love.json) |
@@ -13554,6 +13560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
 | SodaCity | 33958 | [33958-sodacity.json](./33958-sodacity.json) |
+| Sodden | 301236 | [301236-sodden.json](./301236-sodden.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
 | SOE 64 | 401866 | [401866-soe-64.json](./401866-soe-64.json) |
 | Soer Dolls | 153906 | [153906-soer-dolls.json](./153906-soer-dolls.json) |
@@ -15747,6 +15754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul of Hometown | 216782 | [216782-soul-of-hometown.json](./216782-soul-of-hometown.json) |
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
+| Soul of Savarog | 301879 | [301879-soul-of-savarog.json](./301879-soul-of-savarog.json) |
 | Soul of Sovereignty: Prelude | 283407 | [283407-soul-of-sovereignty-prelude.json](./283407-soul-of-sovereignty-prelude.json) |
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
 | Soul of the Dungeon | 348039 | [348039-soul-of-the-dungeon.json](./348039-soul-of-the-dungeon.json) |
@@ -19278,6 +19286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Challenge Vol. 2 | 331921 | [331921-spot-challenge-vol-2.json](./331921-spot-challenge-vol-2.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Goes to Hollywood | 4454 | [4454-spot-goes-to-hollywood.json](./4454-spot-goes-to-hollywood.json) |
+| Spot H9 | 301309 | [301309-spot-h9.json](./301309-spot-h9.json) |
 | Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
 | Spot It in the Picture! Worldwide Knowledge x Academic Quiz | 409516 | [409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json](./409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json) |
 | Spot It! Mean Machines | 23679 | [23679-spot-it-mean-machines.json](./23679-spot-it-mean-machines.json) |
@@ -24574,6 +24583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suba Pogo | 414487 | [414487-suba-pogo.json](./414487-suba-pogo.json) |
 | Subaeria | 12814 | [12814-subaeria.json](./12814-subaeria.json) |
 | SubaraCity | 56281 | [56281-subaracity.json](./56281-subaracity.json) |
+| Subaru no Kishi | 301303 | [301303-subaru-no-kishi.json](./301303-subaru-no-kishi.json) |
 | subAtomic | 171783 | [171783-subatomic.json](./171783-subatomic.json) |
 | Subátor | 254484 | [254484-subator.json](./254484-subator.json) |
 | Subbuteo | 21457 | [21457-subbuteo.json](./21457-subbuteo.json) |
@@ -25264,6 +25274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suki! | 92119 | [92119-suki.json](./92119-suki.json) |
 | Suki's Spooky Romance | 100631 | [100631-sukis-spooky-romance.json](./100631-sukis-spooky-romance.json) |
 | Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
+| SuKuBus-Mission | 301306 | [301306-sukubus-mission.json](./301306-sukubus-mission.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | Sulfur | 233970 | [233970-sulfur.json](./233970-sulfur.json) |
 | Sulfur | 261285 | [261285-sulfur.json](./261285-sulfur.json) |
@@ -25320,6 +25331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Adventurers: Mediterranean | 374062 | [374062-summer-adventurers-mediterranean.json](./374062-summer-adventurers-mediterranean.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
 | Summer and Poetry Journey | 308909 | [308909-summer-and-poetry-journey.json](./308909-summer-and-poetry-journey.json) |
+| Summer and Winter Sports Games Bundle: 4K Edition | 301778 | [301778-summer-and-winter-sports-games-bundle-4k-edition.json](./301778-summer-and-winter-sports-games-bundle-4k-edition.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
 | Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
 | Summer Athletics 2009 | 21111 | [21111-summer-athletics-2009.json](./21111-summer-athletics-2009.json) |
