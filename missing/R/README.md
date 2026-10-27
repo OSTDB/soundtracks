@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rap Attack: 2pacalypse Now | 92683 | [92683-rap-attack-2pacalypse-now.json](./92683-rap-attack-2pacalypse-now.json) |
 | Rap Basketball | 37870 | [37870-rap-basketball.json](./37870-rap-basketball.json) |
 | Rap Jam: Volume One | 44458 | [44458-rap-jam-volume-one.json](./44458-rap-jam-volume-one.json) |
+| Rap Pop Jump Core | 303999 | [303999-rap-pop-jump-core.json](./303999-rap-pop-jump-core.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
@@ -5785,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhapsody: Marl Kingdom Chronicles – Deluxe Edition | 235072 | [235072-rhapsody-marl-kingdom-chronicles-deluxe-edition.json](./235072-rhapsody-marl-kingdom-chronicles-deluxe-edition.json) |
 | Rhapsody: Marl Kingdom Chronicles – Limited Edition | 284208 | [284208-rhapsody-marl-kingdom-chronicles-limited-edition.json](./284208-rhapsody-marl-kingdom-chronicles-limited-edition.json) |
 | Rhea of the Remnant | 392718 | [392718-rhea-of-the-remnant.json](./392718-rhea-of-the-remnant.json) |
+| Rheinland | 303997 | [303997-rheinland.json](./303997-rheinland.json) |
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
@@ -7717,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
+| Robot Street Fighting Games | 304074 | [304074-robot-street-fighting-games.json](./304074-robot-street-fighting-games.json) |
 | Robot TD | 258917 | [258917-robot-td.json](./258917-robot-td.json) |
 | Robot terminator | 120704 | [120704-robot-terminator.json](./120704-robot-terminator.json) |
 | Robot Transforming Gorilla Attack: Gorilla Games | 95797 | [95797-robot-transforming-gorilla-attack-gorilla-games.json](./95797-robot-transforming-gorilla-attack-gorilla-games.json) |
@@ -10635,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneEra | 422487 | [422487-runeera.json](./422487-runeera.json) |
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
 | Runefall 2: Collector's Edition | 221696 | [221696-runefall-2-collectors-edition.json](./221696-runefall-2-collectors-edition.json) |
+| Runeflame | 303991 | [303991-runeflame.json](./303991-runeflame.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
 | RuneKeeper | 396664 | [396664-runekeeper.json](./396664-runekeeper.json) |
 | RuneLight | 250858 | [250858-runelight.json](./250858-runelight.json) |
