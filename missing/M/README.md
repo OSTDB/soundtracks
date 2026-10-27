@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macho Shot | 317890 | [317890-macho-shot.json](./317890-macho-shot.json) |
 | Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
+| Macie's Magic Melee | 306403 | [306403-macies-magic-melee.json](./306403-macies-magic-melee.json) |
 | Macis | 307068 | [307068-macis.json](./307068-macis.json) |
 | Mackerelmedia Fish | 172499 | [172499-mackerelmedia-fish.json](./172499-mackerelmedia-fish.json) |
 | Mackle Story | 407459 | [407459-mackle-story.json](./407459-mackle-story.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | MagNets: Fully Charged | 21322 | [21322-magnets-fully-charged.json](./21322-magnets-fully-charged.json) |
 | Magnetta | 32448 | [32448-magnetta.json](./32448-magnetta.json) |
+| MagnetWorks | 306407 | [306407-magnetworks.json](./306407-magnetworks.json) |
 | Magnia | 123530 | [123530-magnia.json](./123530-magnia.json) |
 | Magnibox | 116051 | [116051-magnibox.json](./116051-magnibox.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
@@ -5638,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
 | Mebula | 56264 | [56264-mebula.json](./56264-mebula.json) |
+| Mec Me Loffa | 306312 | [306312-mec-me-loffa.json](./306312-mec-me-loffa.json) |
 | Mecanic | 213792 | [213792-mecanic.json](./213792-mecanic.json) |
 | Mecarobot Golf | 42498 | [42498-mecarobot-golf.json](./42498-mecarobot-golf.json) |
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
@@ -6114,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medium5 | 188332 | [188332-medium5.json](./188332-medium5.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medivination | 302505 | [302505-medivination.json](./302505-medivination.json) |
+| Medo do Escuro | 306320 | [306320-medo-do-escuro.json](./306320-medo-do-escuro.json) |
 | Medoka Magik Grls Extended | 159229 | [159229-medoka-magik-grls-extended.json](./159229-medoka-magik-grls-extended.json) |
 | Medulla | 147254 | [147254-medulla.json](./147254-medulla.json) |
 | Medusa | 228006 | [228006-medusa.json](./228006-medusa.json) |
