@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A&E Crime Scene: AR | 95872 | [95872-a-and-e-crime-scene-ar.json](./95872-a-and-e-crime-scene-ar.json) |
 | A=B | 182188 | [182188-a-b.json](./182188-a-b.json) |
 | A100 | 200380 | [200380-a100.json](./200380-a100.json) |
+| A189 | 307653 | [307653-a189.json](./307653-a189.json) |
 | A2 Racer II | 80309 | [80309-a2-racer-ii.json](./80309-a2-racer-ii.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
 | A2Be: A Science Fiction Narrative | 87810 | [87810-a2be-a-science-fiction-narrative.json](./87810-a2be-a-science-fiction-narrative.json) |
@@ -10542,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Naughty Boy | 147113 | [147113-arcade-archives-naughty-boy.json](./147113-arcade-archives-naughty-boy.json) |
 | Arcade Archives: Navarone | 243167 | [243167-arcade-archives-navarone.json](./243167-arcade-archives-navarone.json) |
 | Arcade Archives: Nebulasray | 343727 | [343727-arcade-archives-nebulasray.json](./343727-arcade-archives-nebulasray.json) |
+| Arcade Archives: Ninja Emaki | 307631 | [307631-arcade-archives-ninja-emaki.json](./307631-arcade-archives-ninja-emaki.json) |
 | Arcade Archives: Ninja Gaiden | 118286 | [118286-arcade-archives-ninja-gaiden.json](./118286-arcade-archives-ninja-gaiden.json) |
 | Arcade Archives: Ninja Kazan | 147114 | [147114-arcade-archives-ninja-kazan.json](./147114-arcade-archives-ninja-kazan.json) |
 | Arcade Archives: Ninja Spirit | 120330 | [120330-arcade-archives-ninja-spirit.json](./120330-arcade-archives-ninja-spirit.json) |
@@ -10866,6 +10868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana | 377106 | [377106-arcana.json](./377106-arcana.json) |
 | Arcana | 67701 | [67701-arcana.json](./67701-arcana.json) |
 | Arcana Academy | 367968 | [367968-arcana-academy.json](./367968-arcana-academy.json) |
+| Arcana Alchemia | 307643 | [307643-arcana-alchemia.json](./307643-arcana-alchemia.json) |
 | Arcana Automata | 361831 | [361831-arcana-automata.json](./361831-arcana-automata.json) |
 | Arcana Famiglia Collezione! Piccola Amore | 218493 | [218493-arcana-famiglia-collezione-piccola-amore.json](./218493-arcana-famiglia-collezione-piccola-amore.json) |
 | Arcana Famiglia: Festa Regalo | 194276 | [194276-arcana-famiglia-festa-regalo.json](./194276-arcana-famiglia-festa-regalo.json) |
