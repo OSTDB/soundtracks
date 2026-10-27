@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un:logical | 320393 | [320393-un-logical.json](./320393-un-logical.json) |
 | UN:Me | 381080 | [381080-un-me.json](./381080-un-me.json) |
 | Un/Fragment | 289925 | [289925-un-fragment.json](./289925-un-fragment.json) |
+| Una ad Astra | 330086 | [330086-una-ad-astra.json](./330086-una-ad-astra.json) |
 | Una Gesta Draconiana | 400870 | [400870-una-gesta-draconiana.json](./400870-una-gesta-draconiana.json) |
 | Una noche en órbita | 391669 | [391669-una-noche-en-orbita.json](./391669-una-noche-en-orbita.json) |
 | Una noche sin nombre | 314510 | [314510-una-noche-sin-nombre.json](./314510-una-noche-sin-nombre.json) |
@@ -1618,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Yellow But Blue | 318536 | [318536-undertale-yellow-but-blue.json](./318536-undertale-yellow-but-blue.json) |
 | Undertale Yellow: Shades of Justice | 351780 | [351780-undertale-yellow-shades-of-justice.json](./351780-undertale-yellow-shades-of-justice.json) |
 | Undertale: Bits and Pieces | 213254 | [213254-undertale-bits-and-pieces.json](./213254-undertale-bits-and-pieces.json) |
+| Undertale: Call of the Void | 330051 | [330051-undertale-call-of-the-void.json](./330051-undertale-call-of-the-void.json) |
 | Undertale: Call of the Void - Placek's Take | 329609 | [329609-undertale-call-of-the-void-placeks-take.json](./329609-undertale-call-of-the-void-placeks-take.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
 | Undertale: Collector's Edition | 136341 | [136341-undertale-collectors-edition.json](./136341-undertale-collectors-edition.json) |
@@ -1636,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UndertaleForFree | 397049 | [397049-undertaleforfree.json](./397049-undertaleforfree.json) |
 | UndertaleNDS | 376724 | [376724-undertalends.json](./376724-undertalends.json) |
 | Undertide | 323401 | [323401-undertide.json](./323401-undertide.json) |
+| Undertinge | 330048 | [330048-undertinge.json](./330048-undertinge.json) |
 | Undertoad: Mission Luigi | 225549 | [225549-undertoad-mission-luigi.json](./225549-undertoad-mission-luigi.json) |
 | Undertone | 229350 | [229350-undertone.json](./229350-undertone.json) |
 | Undertones | 104632 | [104632-undertones.json](./104632-undertones.json) |
@@ -2206,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnMetal: UnDeluxe Edition | 173099 | [173099-unmetal-undeluxe-edition.json](./173099-unmetal-undeluxe-edition.json) |
 | Unmixable Syrup | 404404 | [404404-unmixable-syrup.json](./404404-unmixable-syrup.json) |
 | Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
+| Unmourned | 330058 | [330058-unmourned.json](./330058-unmourned.json) |
 | Unmurk | 350386 | [350386-unmurk.json](./350386-unmurk.json) |
 | Unnamed | 130139 | [130139-unnamed.json](./130139-unnamed.json) |
 | Unnamed Arcade | 338586 | [338586-unnamed-arcade.json](./338586-unnamed-arcade.json) |
