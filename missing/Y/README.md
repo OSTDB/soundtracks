@@ -1884,3 +1884,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuzi Lims: anime runner | 81961 | [81961-yuzi-lims-anime-runner.json](./81961-yuzi-lims-anime-runner.json) |
 | Yuzusoft Collection | 203689 | [203689-yuzusoft-collection.json](./203689-yuzusoft-collection.json) |
 | Yves: Crazy Student | 327967 | [327967-yves-crazy-student.json](./327967-yves-crazy-student.json) |
+| Yvy | 304515 | [304515-yvy.json](./304515-yvy.json) |
