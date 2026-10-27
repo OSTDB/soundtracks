@@ -9754,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
 | Apocalypse Rush | 372545 | [372545-apocalypse-rush.json](./372545-apocalypse-rush.json) |
 | Apocalypse Rush | 83849 | [83849-apocalypse-rush.json](./83849-apocalypse-rush.json) |
+| Apocalypse Secrets | 321948 | [321948-apocalypse-secrets.json](./321948-apocalypse-secrets.json) |
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
 | Apocalypse Tale | 351766 | [351766-apocalypse-tale.json](./351766-apocalypse-tale.json) |
 | Apocalypse Traffic | 245260 | [245260-apocalypse-traffic.json](./245260-apocalypse-traffic.json) |
