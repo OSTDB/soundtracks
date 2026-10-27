@@ -6511,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
 | Detective Agency Mosaics | 293979 | [293979-detective-agency-mosaics.json](./293979-detective-agency-mosaics.json) |
 | Detective Agency: Murder at the Manor | 369130 | [369130-detective-agency-murder-at-the-manor.json](./369130-detective-agency-murder-at-the-manor.json) |
+| Detective AnnIntae: Missing Basketball Court | 306394 | [306394-detective-annintae-missing-basketball-court.json](./306394-detective-annintae-missing-basketball-court.json) |
 | Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
@@ -10086,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko no Donata no Kanjou Root | 415854 | [415854-doko-no-donata-no-kanjou-root.json](./415854-doko-no-donata-no-kanjou-root.json) |
 | Doko Roko | 59105 | [59105-doko-roko.json](./59105-doko-roko.json) |
 | Dokoban | 290327 | [290327-dokoban.json](./290327-dokoban.json) |
+| Dokoda | 306325 | [306325-dokoda.json](./306325-dokoda.json) |
 | Dokodemo Chinchin | 59127 | [59127-dokodemo-chinchin.json](./59127-dokodemo-chinchin.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Dorayaki Doraemon | 199449 | [199449-dokodemo-dorayaki-doraemon.json](./199449-dokodemo-dorayaki-doraemon.json) |
@@ -15944,6 +15946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusklight | 401002 | [401002-dusklight.json](./401002-dusklight.json) |
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | Duskmarch | 348042 | [348042-duskmarch.json](./348042-duskmarch.json) |
+| Duskmire | 306315 | [306315-duskmire.json](./306315-duskmire.json) |
 | DuskVeil | 366626 | [366626-duskveil.json](./366626-duskveil.json) |
 | Duskwood | 139073 | [139073-duskwood.json](./139073-duskwood.json) |
 | Duskworld | 198144 | [198144-duskworld.json](./198144-duskworld.json) |
