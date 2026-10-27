@@ -4814,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
 | Nizero Shogi | 361584 | [361584-nizero-shogi.json](./361584-nizero-shogi.json) |
+| Nizhan Future | 290372 | [290372-nizhan-future.json](./290372-nizhan-future.json) |
 | Njorun's Will | 200930 | [200930-njoruns-will.json](./200930-njoruns-will.json) |
 | Njuma | 287740 | [287740-njuma.json](./287740-njuma.json) |
 | NKCell | 169816 | [169816-nkcell.json](./169816-nkcell.json) |
