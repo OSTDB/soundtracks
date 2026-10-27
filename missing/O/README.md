@@ -3479,6 +3479,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
 | Ore no Kanojo ga Gachi Hentai Sugiru | 97480 | [97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json](./97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json) |
 | Ore no Ryouri | 44880 | [44880-ore-no-ryouri.json](./44880-ore-no-ryouri.json) |
+| Ore no Shikabane wo Koete Yuke | 305798 | [305798-ore-no-shikabane-wo-koete-yuke.json](./305798-ore-no-shikabane-wo-koete-yuke.json) |
+| Ore no Shikabane wo Koete Yuke | 305799 | [305799-ore-no-shikabane-wo-koete-yuke.json](./305799-ore-no-shikabane-wo-koete-yuke.json) |
 | Ore no Shikabane wo Koete Yuke | 65905 | [65905-ore-no-shikabane-wo-koete-yuke.json](./65905-ore-no-shikabane-wo-koete-yuke.json) |
 | Ore no Shita de Agake | 205643 | [205643-ore-no-shita-de-agake.json](./205643-ore-no-shita-de-agake.json) |
 | Ore no Yacht: Ganbare Nippon Challenge | 378439 | [378439-ore-no-yacht-ganbare-nippon-challenge.json](./378439-ore-no-yacht-ganbare-nippon-challenge.json) |
@@ -3933,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld: Spring of Shadows - Collector's Edition | 32788 | [32788-otherworld-spring-of-shadows-collectors-edition.json](./32788-otherworld-spring-of-shadows-collectors-edition.json) |
 | Otherworld: Spring of Shadows & Otherworld: Omens of Summer | 200957 | [200957-otherworld-spring-of-shadows-and-otherworld-omens-of-summer.json](./200957-otherworld-spring-of-shadows-and-otherworld-omens-of-summer.json) |
 | Otherworldly Air Gunship | 341517 | [341517-otherworldly-air-gunship.json](./341517-otherworldly-air-gunship.json) |
+| Otherworldly Ossuary | 305811 | [305811-otherworldly-ossuary.json](./305811-otherworldly-ossuary.json) |
 | Otherworldly Stars | 179513 | [179513-otherworldly-stars.json](./179513-otherworldly-stars.json) |
 | Otherworldly: Beginning of the Rift | 341518 | [341518-otherworldly-beginning-of-the-rift.json](./341518-otherworldly-beginning-of-the-rift.json) |
 | Otiiz's adventure - Sushi Champ | 113178 | [113178-otiizs-adventure-sushi-champ.json](./113178-otiizs-adventure-sushi-champ.json) |
@@ -5049,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyaji | 267276 | [267276-oyaji.json](./267276-oyaji.json) |
 | Oyako de Asobo: Miffy no Omocha-bako | 268398 | [268398-oyako-de-asobo-miffy-no-omocha-bako.json](./268398-oyako-de-asobo-miffy-no-omocha-bako.json) |
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
+| Oyasumii | 305832 | [305832-oyasumii.json](./305832-oyasumii.json) |
 | Oyatsu Quiz: Mogu-mogu Q - The Quiz Game | 228632 | [228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json](./228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json) |
 | Oyatu | 227737 | [227737-oyatu.json](./227737-oyatu.json) |
 | Oylinder | 223393 | [223393-oylinder.json](./223393-oylinder.json) |
