@@ -6529,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shed | 91728 | [91728-shed.json](./91728-shed.json) |
 | Shedding Blood | 399760 | [399760-shedding-blood.json](./399760-shedding-blood.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
+| Sheeeroom | 324810 | [324810-sheeeroom.json](./324810-sheeeroom.json) |
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
 | Sheep & Love | 390700 | [390700-sheep-and-love.json](./390700-sheep-and-love.json) |
 | Sheep a Sheep | 223917 | [223917-sheep-a-sheep.json](./223917-sheep-a-sheep.json) |
@@ -11448,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Match Adventure | 363056 | [363056-slime-match-adventure.json](./363056-slime-match-adventure.json) |
 | Slime Must Grow | 389917 | [389917-slime-must-grow.json](./389917-slime-must-grow.json) |
 | Slime Musume ha Ningen to Tomodachi ni Naritai you da | 308910 | [308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json](./308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json) |
+| Slime Nomi | 324795 | [324795-slime-nomi.json](./324795-slime-nomi.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
 | Slime Order | 370176 | [370176-slime-order.json](./370176-slime-order.json) |
 | Slime Pandemic TD | 171932 | [171932-slime-pandemic-td.json](./171932-slime-pandemic-td.json) |
@@ -13465,6 +13467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOF/Raiders | 78594 | [78594-sof-raiders.json](./78594-sof-raiders.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
+| Sofia in Exchange for Lies | 324789 | [324789-sofia-in-exchange-for-lies.json](./324789-sofia-in-exchange-for-lies.json) |
 | Sofia the First | 213469 | [213469-sofia-the-first.json](./213469-sofia-the-first.json) |
 | Sofia the First Royal Learning Tablet | 213378 | [213378-sofia-the-first-royal-learning-tablet.json](./213378-sofia-the-first-royal-learning-tablet.json) |
 | Sofia? | 177901 | [177901-sofia.json](./177901-sofia.json) |
@@ -23581,6 +23584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Additional Character - Ingrid & Outfit 2 & Outfit 3 (Sagat, C. Viper, Alex, Ingrid) | 375151 | [375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json](./375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json) |
 | Street Fighter 6: Additional Character - Tifa & Outfit 2 | 407144 | [407144-street-fighter-6-additional-character-tifa-and-outfit-2.json](./407144-street-fighter-6-additional-character-tifa-and-outfit-2.json) |
 | Street Fighter 6: Additional Character - Yasmine & Outfit 2 | 407145 | [407145-street-fighter-6-additional-character-yasmine-and-outfit-2.json](./407145-street-fighter-6-additional-character-yasmine-and-outfit-2.json) |
+| Street Fighter 6: Collector's Edition | 324775 | [324775-street-fighter-6-collectors-edition.json](./324775-street-fighter-6-collectors-edition.json) |
 | Street Fighter 6: Costume Color - Outfit 1 Color 10 | 242367 | [242367-street-fighter-6-costume-color-outfit-1-color-10.json](./242367-street-fighter-6-costume-color-outfit-1-color-10.json) |
 | Street Fighter 6: Deluxe Edition | 228737 | [228737-street-fighter-6-deluxe-edition.json](./228737-street-fighter-6-deluxe-edition.json) |
 | Street Fighter 6: Lenticular Edition | 239145 | [239145-street-fighter-6-lenticular-edition.json](./239145-street-fighter-6-lenticular-edition.json) |
@@ -24806,6 +24810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
 | Sudoku Puzzle | 89786 | [89786-sudoku-puzzle.json](./89786-sudoku-puzzle.json) |
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
+| Sudoku Quest | 324807 | [324807-sudoku-quest.json](./324807-sudoku-quest.json) |
 | Sudoku Quest | 33669 | [33669-sudoku-quest.json](./33669-sudoku-quest.json) |
 | Sudoku Quiz | 230706 | [230706-sudoku-quiz.json](./230706-sudoku-quiz.json) |
 | Sudoku Race | 267591 | [267591-sudoku-race.json](./267591-sudoku-race.json) |
