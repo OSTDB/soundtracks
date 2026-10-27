@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappingo | 23517 | [23517-tappingo.json](./23517-tappingo.json) |
+| Tapple: Idle Clicker | 314240 | [314240-tapple-idle-clicker.json](./314240-tapple-idle-clicker.json) |
 | TapPlease | 107046 | [107046-tapplease.json](./107046-tapplease.json) |
 | TapPlus | 384211 | [384211-tapplus.json](./384211-tapplus.json) |
 | Tappump | 265085 | [265085-tappump.json](./265085-tappump.json) |
@@ -5025,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apothecary of Trubiz | 376645 | [376645-the-apothecary-of-trubiz.json](./376645-the-apothecary-of-trubiz.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apotheosis Project | 35551 | [35551-the-apotheosis-project.json](./35551-the-apotheosis-project.json) |
+| The Apple | 314317 | [314317-the-apple.json](./314317-the-apple.json) |
 | The Apple Girl | 379969 | [379969-the-apple-girl.json](./379969-the-apple-girl.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
@@ -9853,6 +9855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
 | The King of Fighters '98 | 15429 | [15429-the-king-of-fighters-98.json](./15429-the-king-of-fighters-98.json) |
+| The King of Fighters '98: Combo | 314214 | [314214-the-king-of-fighters-98-combo.json](./314214-the-king-of-fighters-98-combo.json) |
 | The King of Fighters '98: Special Edition | 75472 | [75472-the-king-of-fighters-98-special-edition.json](./75472-the-king-of-fighters-98-special-edition.json) |
 | The King of Fighters '98: Ultimate Match | 43643 | [43643-the-king-of-fighters-98-ultimate-match.json](./43643-the-king-of-fighters-98-ultimate-match.json) |
 | The King of Fighters '98: Ultimate Match Online | 80866 | [80866-the-king-of-fighters-98-ultimate-match-online.json](./80866-the-king-of-fighters-98-ultimate-match-online.json) |
@@ -14867,6 +14870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
 | The Tawashi | 128416 | [128416-the-tawashi.json](./128416-the-tawashi.json) |
 | The Teacher Is My Mistress | 97770 | [97770-the-teacher-is-my-mistress.json](./97770-the-teacher-is-my-mistress.json) |
+| The Team Shell Hack | 314213 | [314213-the-team-shell-hack.json](./314213-the-team-shell-hack.json) |
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
 | The Tearoom | 141722 | [141722-the-tearoom.json](./141722-the-tearoom.json) |
 | The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
@@ -19863,6 +19867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Cat Fishing | 390191 | [390191-tiny-cat-fishing.json](./390191-tiny-cat-fishing.json) |
 | Tiny Catcher | 405034 | [405034-tiny-catcher.json](./405034-tiny-catcher.json) |
 | Tiny Cats vs Toys | 407184 | [407184-tiny-cats-vs-toys.json](./407184-tiny-cats-vs-toys.json) |
+| Tiny Chao Garden | 314323 | [314323-tiny-chao-garden.json](./314323-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341691 | [341691-tiny-chao-garden.json](./341691-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341693 | [341693-tiny-chao-garden.json](./341693-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341694 | [341694-tiny-chao-garden.json](./341694-tiny-chao-garden.json) |
@@ -23882,6 +23887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
 | Train Sim World 4: Semmeringbahn - Wiener Neustadt - Mürzzuschlag Route | 298259 | [298259-train-sim-world-4-semmeringbahn-wiener-neustadt-murzzuschlag-route.json](./298259-train-sim-world-4-semmeringbahn-wiener-neustadt-murzzuschlag-route.json) |
+| Train Sim World 5 | 314215 | [314215-train-sim-world-5.json](./314215-train-sim-world-5.json) |
 | Train Sim World 5: Amtrak's Acela | 359951 | [359951-train-sim-world-5-amtraks-acela.json](./359951-train-sim-world-5-amtraks-acela.json) |
 | Train Sim World 5: Arosalinie: Chur - Arosa Route Add-On | 359930 | [359930-train-sim-world-5-arosalinie-chur-arosa-route-add-on.json](./359930-train-sim-world-5-arosalinie-chur-arosa-route-add-on.json) |
 | Train Sim World 5: Avanti West Coast BR Class 390 Pendolino EMU | 332088 | [332088-train-sim-world-5-avanti-west-coast-br-class-390-pendolino-emu.json](./332088-train-sim-world-5-avanti-west-coast-br-class-390-pendolino-emu.json) |
