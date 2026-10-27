@@ -8534,6 +8534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Raiders | 353796 | [353796-meteor-raiders.json](./353796-meteor-raiders.json) |
 | Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
+| Meteor Shower | 319029 | [319029-meteor-shower.json](./319029-meteor-shower.json) |
 | Meteor Storm | 159754 | [159754-meteor-storm.json](./159754-meteor-storm.json) |
 | Meteor Storm | 319587 | [319587-meteor-storm.json](./319587-meteor-storm.json) |
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
@@ -9394,6 +9395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midgard Lava-a-Jato | 298428 | [298428-midgard-lava-a-jato.json](./298428-midgard-lava-a-jato.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
 | Midgardr | 393583 | [393583-midgardr.json](./393583-midgardr.json) |
+| Midheaven: Winds of Ambition | 318948 | [318948-midheaven-winds-of-ambition.json](./318948-midheaven-winds-of-ambition.json) |
 | Midi & Melody | 326537 | [326537-midi-and-melody.json](./326537-midi-and-melody.json) |
 | Midi Maze | 15265 | [15265-midi-maze.json](./15265-midi-maze.json) |
 | Midi the Cat | 183789 | [183789-midi-the-cat.json](./183789-midi-the-cat.json) |
