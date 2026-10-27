@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakayoshi Youchien | 49753 | [49753-nakayoshi-youchien.json](./49753-nakayoshi-youchien.json) |
 | Naked Adventure | 380170 | [380170-naked-adventure.json](./380170-naked-adventure.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
+| Naked Dash | 308314 | [308314-naked-dash.json](./308314-naked-dash.json) |
 | Naked Hero | 367279 | [367279-naked-hero.json](./367279-naked-hero.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
@@ -4815,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Brakes | 273544 | [273544-no-brakes.json](./273544-no-brakes.json) |
 | No Brakes io | 263582 | [263582-no-brakes-io.json](./263582-no-brakes-io.json) |
 | No Brakes Valet | 51169 | [51169-no-brakes-valet.json](./51169-no-brakes-valet.json) |
+| No Brakez | 308300 | [308300-no-brakez.json](./308300-no-brakez.json) |
 | No Break | 159162 | [159162-no-break.json](./159162-no-break.json) |
 | No Breaks Valet | 268949 | [268949-no-breaks-valet.json](./268949-no-breaks-valet.json) |
 | No Bugs On My Windshield | 292584 | [292584-no-bugs-on-my-windshield.json](./292584-no-bugs-on-my-windshield.json) |
@@ -5232,18 +5234,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Haouden | 4279 | [4279-nobunagas-ambition-haouden.json](./4279-nobunagas-ambition-haouden.json) |
+| Nobunaga's Ambition: Haouden - Power Up Kit | 308209 | [308209-nobunagas-ambition-haouden-power-up-kit.json](./308209-nobunagas-ambition-haouden-power-up-kit.json) |
 | Nobunaga's Ambition: Haouden with Power Up Kit | 91186 | [91186-nobunagas-ambition-haouden-with-power-up-kit.json](./91186-nobunagas-ambition-haouden-with-power-up-kit.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
 | Nobunaga's Ambition: Iron Triangle | 21290 | [21290-nobunagas-ambition-iron-triangle.json](./21290-nobunagas-ambition-iron-triangle.json) |
+| Nobunaga's Ambition: Kakushin - Power Up Kit | 308205 | [308205-nobunagas-ambition-kakushin-power-up-kit.json](./308205-nobunagas-ambition-kakushin-power-up-kit.json) |
 | Nobunaga's Ambition: Lord of Darkness | 394236 | [394236-nobunagas-ambition-lord-of-darkness.json](./394236-nobunagas-ambition-lord-of-darkness.json) |
 | Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
 | Nobunaga's Ambition: Reppuden with Power Up Kit | 55810 | [55810-nobunagas-ambition-reppuden-with-power-up-kit.json](./55810-nobunagas-ambition-reppuden-with-power-up-kit.json) |
+| Nobunaga's Ambition: Reppuuden - Power Up Kit | 308206 | [308206-nobunagas-ambition-reppuuden-power-up-kit.json](./308206-nobunagas-ambition-reppuuden-power-up-kit.json) |
 | Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
 | NOBUNAGA'S AMBITION: Sengoku Gunyuuden | 90573 | [90573-nobunagas-ambition-sengoku-gunyuuden.json](./90573-nobunagas-ambition-sengoku-gunyuuden.json) |
 | Nobunaga's Ambition: Shouseiroku | 269520 | [269520-nobunagas-ambition-shouseiroku.json](./269520-nobunagas-ambition-shouseiroku.json) |
 | Nobunaga's Ambition: Shouseiroku with Power Up Kit | 91187 | [91187-nobunagas-ambition-shouseiroku-with-power-up-kit.json](./91187-nobunagas-ambition-shouseiroku-with-power-up-kit.json) |
 | Nobunaga's Ambition: Soutenroku | 307184 | [307184-nobunagas-ambition-soutenroku.json](./307184-nobunagas-ambition-soutenroku.json) |
+| Nobunaga's Ambition: Soutenroku - Power Up Kit | 308211 | [308211-nobunagas-ambition-soutenroku-power-up-kit.json](./308211-nobunagas-ambition-soutenroku-power-up-kit.json) |
 | Nobunaga's Ambition: Soutenroku with Power Up Kit | 91199 | [91199-nobunagas-ambition-soutenroku-with-power-up-kit.json](./91199-nobunagas-ambition-soutenroku-with-power-up-kit.json) |
 | Nobunaga's Ambition: Souzou - Dokuganryutatsu Scenario | 150668 | [150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json](./150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json) |
 | Nobunaga's Ambition: Souzou - Itsukushima Scenario | 150675 | [150675-nobunagas-ambition-souzou-itsukushima-scenario.json](./150675-nobunagas-ambition-souzou-itsukushima-scenario.json) |
