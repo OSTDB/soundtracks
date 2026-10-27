@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genocide 2 | 38334 | [38334-genocide-2.json](./38334-genocide-2.json) |
 | Genocide 2: Genocide Square | 56417 | [56417-genocide-2-genocide-square.json](./56417-genocide-2-genocide-square.json) |
 | Genokids | 141137 | [141137-genokids.json](./141137-genokids.json) |
+| Genome Guardian | 293593 | [293593-genome-guardian.json](./293593-genome-guardian.json) |
 | Genome Guardian 2 | 390598 | [390598-genome-guardian-2.json](./390598-genome-guardian-2.json) |
 | Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
 | Genopanic | 204193 | [204193-genopanic.json](./204193-genopanic.json) |
@@ -8748,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Encounters | 377623 | [377623-guild-encounters.json](./377623-guild-encounters.json) |
 | Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
 | Guild Loot | 120239 | [120239-guild-loot.json](./120239-guild-loot.json) |
+| Guild Master | 293605 | [293605-guild-master.json](./293605-guild-master.json) |
 | Guild Master Manager | 207200 | [207200-guild-master-manager.json](./207200-guild-master-manager.json) |
 | Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
 | Guild no Uketsukejou desu ga, Yoko-scroll game ni natta no de Boss wo solo toubatsu shiyou to omoimasu. | 337521 | [337521-guild-no-uketsukejou-desu-ga-yoko-scroll-game-ni-natta-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu.json](./337521-guild-no-uketsukejou-desu-ga-yoko-scroll-game-ni-natta-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu.json) |
@@ -9660,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guzzler | 387406 | [387406-guzzler.json](./387406-guzzler.json) |
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
 | Gwan Moon High School: The Ghost Gate | 144011 | [144011-gwan-moon-high-school-the-ghost-gate.json](./144011-gwan-moon-high-school-the-ghost-gate.json) |
+| Gwarf | 294122 | [294122-gwarf.json](./294122-gwarf.json) |
 | GWARP | 395152 | [395152-gwarp.json](./395152-gwarp.json) |
 | Gwen the Magic Nanny | 54076 | [54076-gwen-the-magic-nanny.json](./54076-gwen-the-magic-nanny.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
