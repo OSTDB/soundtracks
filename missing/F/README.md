@@ -9242,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxo | 372039 | [372039-foxo.json](./372039-foxo.json) |
 | Foxo's Fun Schoolhouse | 310685 | [310685-foxos-fun-schoolhouse.json](./310685-foxos-fun-schoolhouse.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
+| Foxtale | 328900 | [328900-foxtale.json](./328900-foxtale.json) |
 | Foxtrot Creamery | 419877 | [419877-foxtrot-creamery.json](./419877-foxtrot-creamery.json) |
 | FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
 | Foxus | 79741 | [79741-foxus.json](./79741-foxus.json) |
@@ -9438,6 +9439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FragMiner | 398561 | [398561-fragminer.json](./398561-fragminer.json) |
 | Fragor Portum | 274432 | [274432-fragor-portum.json](./274432-fragor-portum.json) |
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
+| FragPunk Pioneer Bundle | 328916 | [328916-fragpunk-pioneer-bundle.json](./328916-fragpunk-pioneer-bundle.json) |
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
 | Fragrance Point | 252543 | [252543-fragrance-point.json](./252543-fragrance-point.json) |
 | Fragrance Tale | 58175 | [58175-fragrance-tale.json](./58175-fragrance-tale.json) |
