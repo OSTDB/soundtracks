@@ -7986,6 +7986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotguana | 337307 | [337307-shotguana.json](./337307-shotguana.json) |
 | Shotgun | 58595 | [58595-shotgun.json](./58595-shotgun.json) |
 | Shotgun Angelic | 183428 | [183428-shotgun-angelic.json](./183428-shotgun-angelic.json) |
+| Shotgun Chicken | 288803 | [288803-shotgun-chicken.json](./288803-shotgun-chicken.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | Shotgun Cop Man | 332568 | [332568-shotgun-cop-man.json](./332568-shotgun-cop-man.json) |
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
@@ -23371,6 +23372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of the Blanks | 281346 | [281346-story-of-the-blanks.json](./281346-story-of-the-blanks.json) |
 | Story of the Bug Eyed Monster | 91824 | [91824-story-of-the-bug-eyed-monster.json](./91824-story-of-the-bug-eyed-monster.json) |
 | Story of the Green Dragon | 109869 | [109869-story-of-the-green-dragon.json](./109869-story-of-the-green-dragon.json) |
+| Story of the Lost Dot | 288799 | [288799-story-of-the-lost-dot.json](./288799-story-of-the-lost-dot.json) |
 | Story of the Mirror | 290346 | [290346-story-of-the-mirror.json](./290346-story-of-the-mirror.json) |
 | Story of the Olivia | 241851 | [241851-story-of-the-olivia.json](./241851-story-of-the-olivia.json) |
 | Story of the Survivor | 33582 | [33582-story-of-the-survivor.json](./33582-story-of-the-survivor.json) |
@@ -30558,6 +30560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symble | 324850 | [324850-symble.json](./324850-symble.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
 | Symbol Link | 264219 | [264219-symbol-link.json](./264219-symbol-link.json) |
+| Symbol of Sacrifice | 288710 | [288710-symbol-of-sacrifice.json](./288710-symbol-of-sacrifice.json) |
 | Symbol Sudoku | 221101 | [221101-symbol-sudoku.json](./221101-symbol-sudoku.json) |
 | Symbolika | 396694 | [396694-symbolika.json](./396694-symbolika.json) |
 | symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
