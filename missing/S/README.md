@@ -4356,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
 | Seibu Keisatsu | 346045 | [346045-seibu-keisatsu.json](./346045-seibu-keisatsu.json) |
 | Seibu Keisatsu Part-III | 346046 | [346046-seibu-keisatsu-part-iii.json](./346046-seibu-keisatsu-part-iii.json) |
+| Seicross | 289162 | [289162-seicross.json](./289162-seicross.json) |
 | Seicross | 40408 | [40408-seicross.json](./40408-seicross.json) |
 | Seiden | 309431 | [309431-seiden.json](./309431-seiden.json) |
 | Seidkona: A Tale of Death and Dice | 184428 | [184428-seidkona-a-tale-of-death-and-dice.json](./184428-seidkona-a-tale-of-death-and-dice.json) |
@@ -9440,6 +9441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Mini Golf | 192406 | [192406-simple-mini-golf.json](./192406-simple-mini-golf.json) |
 | Simple Mini Golf 3D | 232566 | [232566-simple-mini-golf-3d.json](./232566-simple-mini-golf-3d.json) |
 | Simple Monster Hunter | 265421 | [265421-simple-monster-hunter.json](./265421-simple-monster-hunter.json) |
+| Simple Mosaics: Nonogram Puzzles | 289270 | [289270-simple-mosaics-nonogram-puzzles.json](./289270-simple-mosaics-nonogram-puzzles.json) |
 | Simple Multipliers | 243677 | [243677-simple-multipliers.json](./243677-simple-multipliers.json) |
 | Simple Number-Based Color Sense IQ Test | 290424 | [290424-simple-number-based-color-sense-iq-test.json](./290424-simple-number-based-color-sense-iq-test.json) |
 | Simple Racing | 108404 | [108404-simple-racing.json](./108404-simple-racing.json) |
@@ -11805,6 +11807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot & Learn Katakana | 403732 | [403732-slot-and-learn-katakana.json](./403732-slot-and-learn-katakana.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
+| Slot Fever | 289286 | [289286-slot-fever.json](./289286-slot-fever.json) |
 | Slot Gun | 311124 | [311124-slot-gun.json](./311124-slot-gun.json) |
 | Slot Heroes: Reels of Fate | 374951 | [374951-slot-heroes-reels-of-fate.json](./374951-slot-heroes-reels-of-fate.json) |
 | Slot Machine | 18421 | [18421-slot-machine.json](./18421-slot-machine.json) |
@@ -16832,6 +16835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mercenary Shooter : Episode 1 | 119998 | [119998-space-mercenary-shooter-episode-1.json](./119998-space-mercenary-shooter-episode-1.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Merchants: Arena | 30799 | [30799-space-merchants-arena.json](./30799-space-merchants-arena.json) |
+| Space Mergers | 289348 | [289348-space-mergers.json](./289348-space-mergers.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner Blast | 120662 | [120662-space-miner-blast.json](./120662-space-miner-blast.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
@@ -18171,6 +18175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
 | Spellsword Cards: Origins | 118104 | [118104-spellsword-cards-origins.json](./118104-spellsword-cards-origins.json) |
 | Spellsworn | 26573 | [26573-spellsworn.json](./26573-spellsworn.json) |
+| Spellsworn | 289358 | [289358-spellsworn.json](./289358-spellsworn.json) |
 | SpellTanks | 236863 | [236863-spelltanks.json](./236863-spelltanks.json) |
 | Spelltooth | 383063 | [383063-spelltooth.json](./383063-spelltooth.json) |
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
@@ -29413,6 +29418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Bar Idle | 248161 | [248161-sushi-bar-idle.json](./248161-sushi-bar-idle.json) |
+| Sushi Bar: Moebius | 289277 | [289277-sushi-bar-moebius.json](./289277-sushi-bar-moebius.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Belt | 181226 | [181226-sushi-belt.json](./181226-sushi-belt.json) |
 | Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
