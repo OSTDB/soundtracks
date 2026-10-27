@@ -835,7 +835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3113,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Checkers: Infinity War | 193959 | [193959-battle-checkers-infinity-war.json](./193959-battle-checkers-infinity-war.json) |
 | Battle Cheese | 78382 | [78382-battle-cheese.json](./78382-battle-cheese.json) |
 | Battle Chef Brigade Deluxe | 111825 | [111825-battle-chef-brigade-deluxe.json](./111825-battle-chef-brigade-deluxe.json) |
+| Battle Chess | 280808 | [280808-battle-chess.json](./280808-battle-chess.json) |
 | Battle Chess | 283606 | [283606-battle-chess.json](./283606-battle-chess.json) |
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
@@ -8296,6 +8296,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 218905 | [218905-blades-of-steel.json](./218905-blades-of-steel.json) |
 | Blades of Steel | 280812 | [280812-blades-of-steel.json](./280812-blades-of-steel.json) |
+| Blades of Steel | 280813 | [280813-blades-of-steel.json](./280813-blades-of-steel.json) |
+| Blades of Steel | 280814 | [280814-blades-of-steel.json](./280814-blades-of-steel.json) |
+| Blades of Steel | 280815 | [280815-blades-of-steel.json](./280815-blades-of-steel.json) |
+| Blades of Steel | 280816 | [280816-blades-of-steel.json](./280816-blades-of-steel.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
 | Blades of the Righteous | 34026 | [34026-blades-of-the-righteous.json](./34026-blades-of-the-righteous.json) |
 | Blades of the Three Kingdoms: Return | 172544 | [172544-blades-of-the-three-kingdoms-return.json](./172544-blades-of-the-three-kingdoms-return.json) |
@@ -14527,6 +14531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs | 397851 | [397851-bugs.json](./397851-bugs.json) |
 | Bugs and Bullets | 235055 | [235055-bugs-and-bullets.json](./235055-bugs-and-bullets.json) |
 | Bugs Bunny | 198703 | [198703-bugs-bunny.json](./198703-bugs-bunny.json) |
+| Bugs Bunny | 280805 | [280805-bugs-bunny.json](./280805-bugs-bunny.json) |
 | Bugs Bunny | 46887 | [46887-bugs-bunny.json](./46887-bugs-bunny.json) |
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
 | Bugs Bunny Birthday Bash | 283812 | [283812-bugs-bunny-birthday-bash.json](./283812-bugs-bunny-birthday-bash.json) |
