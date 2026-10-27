@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.I.A.: Mission in Asia | 53384 | [53384-m-i-a-mission-in-asia.json](./53384-m-i-a-mission-in-asia.json) |
 | M.I.C.E. | 168676 | [168676-m-i-c-e.json](./168676-m-i-c-e.json) |
 | M.I.N.D. | 95234 | [95234-m-i-n-d.json](./95234-m-i-n-d.json) |
+| M.I.N.S.K. | 331788 | [331788-m-i-n-s-k.json](./331788-m-i-n-s-k.json) |
 | M.O.O.D.S. | 199487 | [199487-m-o-o-d-s.json](./199487-m-o-o-d-s.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
 | M.O.R.E. | 97979 | [97979-m-o-r-e.json](./97979-m-o-r-e.json) |
@@ -4008,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom Infinite: Special X Costume | 386531 | [386531-marvel-vs-capcom-infinite-special-x-costume.json](./386531-marvel-vs-capcom-infinite-special-x-costume.json) |
 | Marvel vs. Capcom Infinite: Spencer Gottfried Costume | 386532 | [386532-marvel-vs-capcom-infinite-spencer-gottfried-costume.json](./386532-marvel-vs-capcom-infinite-spencer-gottfried-costume.json) |
 | Marvel vs. Capcom Origins | 21568 | [21568-marvel-vs-capcom-origins.json](./21568-marvel-vs-capcom-origins.json) |
+| Marvel vs. Capcom: Clash of Super Heroes | 331786 | [331786-marvel-vs-capcom-clash-of-super-heroes.json](./331786-marvel-vs-capcom-clash-of-super-heroes.json) |
 | Marvel vs. Capcom: Clash of Super Heroes | 8246 | [8246-marvel-vs-capcom-clash-of-super-heroes.json](./8246-marvel-vs-capcom-clash-of-super-heroes.json) |
 | Marvel vs. Capcom: Infinite - Arthur Fallen Angel Armor Costume | 386464 | [386464-marvel-vs-capcom-infinite-arthur-fallen-angel-armor-costume.json](./386464-marvel-vs-capcom-infinite-arthur-fallen-angel-armor-costume.json) |
 | Marvel vs. Capcom: Infinite - Black Panther | 161319 | [161319-marvel-vs-capcom-infinite-black-panther.json](./161319-marvel-vs-capcom-infinite-black-panther.json) |
@@ -5779,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Inner Sphere 'Mech Pak | 71752 | [71752-mechwarrior-4-inner-sphere-mech-pak.json](./71752-mechwarrior-4-inner-sphere-mech-pak.json) |
 | MechWarrior 4: Mercenaries | 19192 | [19192-mechwarrior-4-mercenaries.json](./19192-mechwarrior-4-mercenaries.json) |
 | MechWarrior 4: Vengeance | 786 | [786-mechwarrior-4-vengeance.json](./786-mechwarrior-4-vengeance.json) |
+| MechWarrior 5: Clans - Digital Collectors Edition | 331819 | [331819-mechwarrior-5-clans-digital-collectors-edition.json](./331819-mechwarrior-5-clans-digital-collectors-edition.json) |
 | Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | Mechwarrior 5: Clans - Wolves of Tukayyid | 377889 | [377889-mechwarrior-5-clans-wolves-of-tukayyid.json](./377889-mechwarrior-5-clans-wolves-of-tukayyid.json) |
@@ -8439,6 +8442,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaOps | 186241 | [186241-metaops.json](./186241-metaops.json) |
 | Metapathic | 406156 | [406156-metapathic.json](./406156-metapathic.json) |
 | Metaphobia | 127907 | [127907-metaphobia.json](./127907-metaphobia.json) |
+| Metaphor: ReFantazio - Atlus 35th Digital Anniversary Edition | 331820 | [331820-metaphor-refantazio-atlus-35th-digital-anniversary-edition.json](./331820-metaphor-refantazio-atlus-35th-digital-anniversary-edition.json) |
+| Metaphor: ReFantazio - Atlus 35th Digital Anniversary Edition Upgrade | 331821 | [331821-metaphor-refantazio-atlus-35th-digital-anniversary-edition-upgrade.json](./331821-metaphor-refantazio-atlus-35th-digital-anniversary-edition-upgrade.json) |
 | Metaphor: ReFantazio - Atlus Brand 35th Anniversary Edition | 344026 | [344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json](./344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json) |
 | Metaphor: ReFantazio - Collector's Edition | 300481 | [300481-metaphor-refantazio-collectors-edition.json](./300481-metaphor-refantazio-collectors-edition.json) |
 | Metaphor: ReFantazio - Launch Edition | 300480 | [300480-metaphor-refantazio-launch-edition.json](./300480-metaphor-refantazio-launch-edition.json) |
@@ -12827,6 +12832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mónǐ Jiā Zhuāngxiū | 117471 | [117471-moni-jia-zhuangxiu.json](./117471-moni-jia-zhuangxiu.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica e a Guarda dos Coelhos | 112669 | [112669-monica-e-a-guarda-dos-coelhos.json](./112669-monica-e-a-guarda-dos-coelhos.json) |
+| Mônica em: o mundo perdido | 331780 | [331780-monica-em-o-mundo-perdido.json](./331780-monica-em-o-mundo-perdido.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
 | Monica's Revenge Tragedy | 171299 | [171299-monicas-revenge-tragedy.json](./171299-monicas-revenge-tragedy.json) |
@@ -16803,6 +16809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP 2019: The Official Motocross Videogame | 120126 | [120126-mxgp-2019-the-official-motocross-videogame.json](./120126-mxgp-2019-the-official-motocross-videogame.json) |
 | MXGP 2020: The Official Motocross Videogame | 139939 | [139939-mxgp-2020-the-official-motocross-videogame.json](./139939-mxgp-2020-the-official-motocross-videogame.json) |
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
+| MXGP 24: Fox Holeshot Edition | 331822 | [331822-mxgp-24-fox-holeshot-edition.json](./331822-mxgp-24-fox-holeshot-edition.json) |
 | MXGP 24: The Official Game | 323182 | [323182-mxgp-24-the-official-game.json](./323182-mxgp-24-the-official-game.json) |
 | MXGP 26: The Official Game | 410677 | [410677-mxgp-26-the-official-game.json](./410677-mxgp-26-the-official-game.json) |
 | MXGP Motocross Rush | 251736 | [251736-mxgp-motocross-rush.json](./251736-mxgp-motocross-rush.json) |
