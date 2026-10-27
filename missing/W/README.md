@@ -6599,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordland: Let's Travel | 204928 | [204928-wordland-lets-travel.json](./204928-wordland-lets-travel.json) |
 | Wordlase | 28429 | [28429-wordlase.json](./28429-wordlase.json) |
 | Wordle | 265847 | [265847-wordle.json](./265847-wordle.json) |
+| Wordle | 311030 | [311030-wordle.json](./311030-wordle.json) |
 | Wordle 3 | 149865 | [149865-wordle-3.json](./149865-wordle-3.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
 | Wordle for Commodore 64 | 343696 | [343696-wordle-for-commodore-64.json](./343696-wordle-for-commodore-64.json) |
