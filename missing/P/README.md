@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pato & Lobo | 325690 | [325690-pato-and-lobo.json](./325690-pato-and-lobo.json) |
 | Pato Box | 56344 | [56344-pato-box.json](./56344-pato-box.json) |
 | Pato Martinez | 238599 | [238599-pato-martinez.json](./238599-pato-martinez.json) |
+| Patolino | 281876 | [281876-patolino.json](./281876-patolino.json) |
 | Patolli | 70280 | [70280-patolli.json](./70280-patolli.json) |
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
 | Patricia | 138541 | [138541-patricia.json](./138541-patricia.json) |
@@ -3881,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permia - Duels | 9717 | [9717-permia-duels.json](./9717-permia-duels.json) |
 | Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
 | Permuter | 325902 | [325902-permuter.json](./325902-permuter.json) |
+| Pernalonga | 281877 | [281877-pernalonga.json](./281877-pernalonga.json) |
 | Perncops Virtual Rig | 226707 | [226707-perncops-virtual-rig.json](./226707-perncops-virtual-rig.json) |
 | Peropero Candy: You no Shou | 373030 | [373030-peropero-candy-you-no-shou.json](./373030-peropero-candy-you-no-shou.json) |
 | Peropero Seduction | 98527 | [98527-peropero-seduction.json](./98527-peropero-seduction.json) |
