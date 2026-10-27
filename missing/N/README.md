@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia: Virtual Stars - Kizuna AI | 196085 | [196085-neptunia-virtual-stars-kizuna-ai.json](./196085-neptunia-virtual-stars-kizuna-ai.json) |
 | Neptunia: Virtual Stars - Towa Kiseki | 196086 | [196086-neptunia-virtual-stars-towa-kiseki.json](./196086-neptunia-virtual-stars-towa-kiseki.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
+| Neptunian Nightmare | 329484 | [329484-neptunian-nightmare.json](./329484-neptunian-nightmare.json) |
 | Neratte chu | 40989 | [40989-neratte-chu.json](./40989-neratte-chu.json) |
 | Nerd Blocks | 254673 | [254673-nerd-blocks.json](./254673-nerd-blocks.json) |
 | Nerd Bus | 184264 | [184264-nerd-bus.json](./184264-nerd-bus.json) |
