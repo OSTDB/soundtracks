@@ -3039,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Hibiscus Pack | 317357 | [317357-tekken-8-hibiscus-pack.json](./317357-tekken-8-hibiscus-pack.json) |
 | Tekken 8: Kunimitsu | 389215 | [389215-tekken-8-kunimitsu.json](./389215-tekken-8-kunimitsu.json) |
 | Tekken 8: Launch Edition | 283759 | [283759-tekken-8-launch-edition.json](./283759-tekken-8-launch-edition.json) |
+| Tekken 8: Lidia Sobieska | 310478 | [310478-tekken-8-lidia-sobieska.json](./310478-tekken-8-lidia-sobieska.json) |
 | Tekken 8: Miary Zo | 374185 | [374185-tekken-8-miary-zo.json](./374185-tekken-8-miary-zo.json) |
 | Tekken 8: Pac-Pixels | 374187 | [374187-tekken-8-pac-pixels.json](./374187-tekken-8-pac-pixels.json) |
 | Tekken 8: Phoenix Gate | 333580 | [333580-tekken-8-phoenix-gate.json](./333580-tekken-8-phoenix-gate.json) |
@@ -5822,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
 | The Bridge Curse 2: The Extrication | 244573 | [244573-the-bridge-curse-2-the-extrication.json](./244573-the-bridge-curse-2-the-extrication.json) |
 | The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
+| The Bridge to Yesterday | 310480 | [310480-the-bridge-to-yesterday.json](./310480-the-bridge-to-yesterday.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Bright In The Screen | 311323 | [311323-the-bright-in-the-screen.json](./311323-the-bright-in-the-screen.json) |
 | The Bright Path | 337498 | [337498-the-bright-path.json](./337498-the-bright-path.json) |
@@ -15790,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Village Story | 169776 | [169776-the-village-story.json](./169776-the-village-story.json) |
 | The Villager and the Werewolf | 221154 | [221154-the-villager-and-the-werewolf.json](./221154-the-villager-and-the-werewolf.json) |
 | The Villain Simulator | 319671 | [319671-the-villain-simulator.json](./319671-the-villain-simulator.json) |
+| The Villainess Is Adored by the Prince of the Neighbor Kingdom | 310444 | [310444-the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom.json](./310444-the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom.json) |
 | The Villainess Just Wants to Eat!! | 264327 | [264327-the-villainess-just-wants-to-eat.json](./264327-the-villainess-just-wants-to-eat.json) |
 | The Villainess Quits | 319674 | [319674-the-villainess-quits.json](./319674-the-villainess-quits.json) |
 | The Vineyard | 346627 | [346627-the-vineyard.json](./346627-the-vineyard.json) |
@@ -24465,6 +24468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Yard Builder | 167370 | [167370-train-yard-builder.json](./167370-train-yard-builder.json) |
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
 | Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
+| Train Your Brain! Spot the Difference with Animal Kids Photos | 310443 | [310443-train-your-brain-spot-the-difference-with-animal-kids-photos.json](./310443-train-your-brain-spot-the-difference-with-animal-kids-photos.json) |
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
 | Train Your Brain! Spot the Difference With Fish Photos | 308615 | [308615-train-your-brain-spot-the-difference-with-fish-photos.json](./308615-train-your-brain-spot-the-difference-with-fish-photos.json) |
 | Train Your Brain! Spot the Difference with Japanese landscapes | 312067 | [312067-train-your-brain-spot-the-difference-with-japanese-landscapes.json](./312067-train-your-brain-spot-the-difference-with-japanese-landscapes.json) |
@@ -25731,6 +25735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunt | 333479 | [333479-treasure-hunt.json](./333479-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
+| Treasure Hunt on a World Trip | 310442 | [310442-treasure-hunt-on-a-world-trip.json](./310442-treasure-hunt-on-a-world-trip.json) |
 | Treasure Hunt VR | 51741 | [51741-treasure-hunt-vr.json](./51741-treasure-hunt-vr.json) |
 | Treasure Hunter | 195062 | [195062-treasure-hunter.json](./195062-treasure-hunter.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
