@@ -5382,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isoball 3 | 409239 | [409239-isoball-3.json](./409239-isoball-3.json) |
 | IsoBoom | 55504 | [55504-isoboom.json](./55504-isoboom.json) |
 | IsoChess | 236779 | [236779-isochess.json](./236779-isochess.json) |
+| IsoCraft Story | 313641 | [313641-isocraft-story.json](./313641-isocraft-story.json) |
 | IsoCubes | 151605 | [151605-isocubes.json](./151605-isocubes.json) |
 | Isogashii Hito no Tame no Koumakyou | 365631 | [365631-isogashii-hito-no-tame-no-koumakyou.json](./365631-isogashii-hito-no-tame-no-koumakyou.json) |
 | Isoge Hero | 379573 | [379573-isoge-hero.json](./379573-isoge-hero.json) |
