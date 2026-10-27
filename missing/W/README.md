@@ -7246,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
 | World War Polygon | 175693 | [175693-world-war-polygon.json](./175693-world-war-polygon.json) |
 | World War Robot | 180713 | [180713-world-war-robot.json](./180713-world-war-robot.json) |
+| World War T-Series | 326520 | [326520-world-war-t-series.json](./326520-world-war-t-series.json) |
 | World War Toons | 60364 | [60364-world-war-toons.json](./60364-world-war-toons.json) |
 | World War Toons: Tank Arena VR | 230241 | [230241-world-war-toons-tank-arena-vr.json](./230241-world-war-toons-tank-arena-vr.json) |
 | World War ToonZ | 197536 | [197536-world-war-toonz.json](./197536-world-war-toonz.json) |
