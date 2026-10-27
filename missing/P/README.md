@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
 | Pajuu: Always With You | 177208 | [177208-pajuu-always-with-you.json](./177208-pajuu-always-with-you.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
+| Pakapow Party | 320114 | [320114-pakapow-party.json](./320114-pakapow-party.json) |
 | Pakicetus | 126516 | [126516-pakicetus.json](./126516-pakicetus.json) |
 | Pakistan Car Simulator Game | 335638 | [335638-pakistan-car-simulator-game.json](./335638-pakistan-car-simulator-game.json) |
 | Pakistan Quiz | 329411 | [329411-pakistan-quiz.json](./329411-pakistan-quiz.json) |
@@ -770,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
 | Paladin Lias | 160113 | [160113-paladin-lias.json](./160113-paladin-lias.json) |
 | Paladin Quest Disk: The Scrolls of Talmouth | 70284 | [70284-paladin-quest-disk-the-scrolls-of-talmouth.json](./70284-paladin-quest-disk-the-scrolls-of-talmouth.json) |
+| Paladin: The Game | 320122 | [320122-paladin-the-game.json](./320122-paladin-the-game.json) |
 | Paladin's Lance | 164925 | [164925-paladins-lance.json](./164925-paladins-lance.json) |
 | Paladin's Legacy | 356866 | [356866-paladins-legacy.json](./356866-paladins-legacy.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
@@ -3782,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perika Game | 302739 | [302739-perika-game.json](./302739-perika-game.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
 | Peril | 197786 | [197786-peril.json](./197786-peril.json) |
+| Peril | 320208 | [320208-peril.json](./320208-peril.json) |
 | Peril in the Agency | 365061 | [365061-peril-in-the-agency.json](./365061-peril-in-the-agency.json) |
 | Perilous Light | 374259 | [374259-perilous-light.json](./374259-perilous-light.json) |
 | Perilous Warp | 140357 | [140357-perilous-warp.json](./140357-perilous-warp.json) |
@@ -11804,6 +11807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Prelude to Freedom | 310122 | [310122-prelude-to-freedom.json](./310122-prelude-to-freedom.json) |
 | Prelude: Psychological Horror Game | 84135 | [84135-prelude-psychological-horror-game.json](./84135-prelude-psychological-horror-game.json) |
+| Premeow League | 320110 | [320110-premeow-league.json](./320110-premeow-league.json) |
 | Premier 2: Superleague | 73701 | [73701-premier-2-superleague.json](./73701-premier-2-superleague.json) |
 | Premier Action | 70915 | [70915-premier-action.json](./70915-premier-action.json) |
 | Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
@@ -11875,6 +11879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Present | 77268 | [77268-present.json](./77268-present.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
 | Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
+| Present Panic | 320213 | [320213-present-panic.json](./320213-present-panic.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
 | Present-X | 206066 | [206066-present-x.json](./206066-present-x.json) |
 | Presentable Liberty Remake | 212233 | [212233-presentable-liberty-remake.json](./212233-presentable-liberty-remake.json) |
@@ -12090,6 +12095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Hearts | 159312 | [159312-primal-hearts.json](./159312-primal-hearts.json) |
 | Primal Hearts | 315041 | [315041-primal-hearts.json](./315041-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
+| Primal Hearts 2 | 320220 | [320220-primal-hearts-2.json](./320220-primal-hearts-2.json) |
 | Primal Hunger | 211271 | [211271-primal-hunger.json](./211271-primal-hunger.json) |
 | Primal Hunt | 233017 | [233017-primal-hunt.json](./233017-primal-hunt.json) |
 | Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
@@ -14530,6 +14536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puke | 277256 | [277256-puke.json](./277256-puke.json) |
 | Puke Simulator | 76488 | [76488-puke-simulator.json](./76488-puke-simulator.json) |
 | Puke the Pirate | 268123 | [268123-puke-the-pirate.json](./268123-puke-the-pirate.json) |
+| Puke the Pirate: Rebarfed | 320127 | [320127-puke-the-pirate-rebarfed.json](./320127-puke-the-pirate-rebarfed.json) |
 | PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
 | Pukunpa: Joshikousei No Houkago | 71023 | [71023-pukunpa-joshikousei-no-houkago.json](./71023-pukunpa-joshikousei-no-houkago.json) |
 | PukuPuku Tennen Kairanban | 49759 | [49759-pukupuku-tennen-kairanban.json](./49759-pukupuku-tennen-kairanban.json) |
