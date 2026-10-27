@@ -6906,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilry | 34936 | [34936-devilry.json](./34936-devilry.json) |
 | Devils 'n Dragons Arcade | 208208 | [208208-devils-n-dragons-arcade.json](./208208-devils-n-dragons-arcade.json) |
 | Devils & Demons | 13170 | [13170-devils-and-demons.json](./13170-devils-and-demons.json) |
+| Devils Adventure | 313652 | [313652-devils-adventure.json](./313652-devils-adventure.json) |
 | Devils and Demons | 372789 | [372789-devils-and-demons.json](./372789-devils-and-demons.json) |
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
@@ -7502,6 +7503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diet Go Go | 39872 | [39872-diet-go-go.json](./39872-diet-go-go.json) |
 | Diet GoGo | 145604 | [145604-diet-gogo.json](./145604-diet-gogo.json) |
 | Diets and Deities | 244268 | [244268-diets-and-deities.json](./244268-diets-and-deities.json) |
+| Difference | 313664 | [313664-difference.json](./313664-difference.json) |
 | Difference Games | 255057 | [255057-difference-games.json](./255057-difference-games.json) |
 | Differences | 233617 | [233617-differences.json](./233617-differences.json) |
 | Differences Master | 392930 | [392930-differences-master.json](./392930-differences-master.json) |
@@ -8173,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Resurrection | 92988 | [92988-dinosaur-resurrection.json](./92988-dinosaur-resurrection.json) |
 | Dinosaur RPG: Dino Survival Simulator Survivor | 317451 | [317451-dinosaur-rpg-dino-survival-simulator-survivor.json](./317451-dinosaur-rpg-dino-survival-simulator-survivor.json) |
 | Dinosaur Run | 388236 | [388236-dinosaur-run.json](./388236-dinosaur-run.json) |
+| Dinosaur Running | 313658 | [313658-dinosaur-running.json](./313658-dinosaur-running.json) |
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
 | Dinosaur Shakespeare: To Date or Not to Date? | 120682 | [120682-dinosaur-shakespeare-to-date-or-not-to-date.json](./120682-dinosaur-shakespeare-to-date-or-not-to-date.json) |
 | Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent | 253975 | [253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json](./253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json) |
@@ -9232,6 +9235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Journey: The Life of Jesus | 280199 | [280199-divine-journey-the-life-of-jesus.json](./280199-divine-journey-the-life-of-jesus.json) |
 | Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
 | Divine Legacy: Neo Amburia | 343739 | [343739-divine-legacy-neo-amburia.json](./343739-divine-legacy-neo-amburia.json) |
+| Divine Light | 313659 | [313659-divine-light.json](./313659-divine-light.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
 | Divine Right | 175240 | [175240-divine-right.json](./175240-divine-right.json) |
