@@ -6472,6 +6472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Plan | 391229 | [391229-exit-plan.json](./391229-exit-plan.json) |
 | Exit Plan b | 364515 | [364515-exit-plan-b.json](./364515-exit-plan-b.json) |
 | Exit Please | 421454 | [421454-exit-please.json](./421454-exit-please.json) |
+| Exit Slum 11 | 296400 | [296400-exit-slum-11.json](./296400-exit-slum-11.json) |
 | Exit Station 7 | 309958 | [309958-exit-station-7.json](./309958-exit-station-7.json) |
 | Exit Strategy | 143103 | [143103-exit-strategy.json](./143103-exit-strategy.json) |
 | Exit Strategy | 345636 | [345636-exit-strategy.json](./345636-exit-strategy.json) |
