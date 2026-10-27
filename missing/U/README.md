@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Tale | 113746 | [113746-urban-tale.json](./113746-urban-tale.json) |
 | Urban Taxi Simulator | 268937 | [268937-urban-taxi-simulator.json](./268937-urban-taxi-simulator.json) |
 | Urban Terror | 9532 | [9532-urban-terror.json](./9532-urban-terror.json) |
+| Urban Thief Simulator: The Ultimate Heist | 283023 | [283023-urban-thief-simulator-the-ultimate-heist.json](./283023-urban-thief-simulator-the-ultimate-heist.json) |
 | Urban Trace: Parkour Simulator Pursuit | 303862 | [303862-urban-trace-parkour-simulator-pursuit.json](./303862-urban-trace-parkour-simulator-pursuit.json) |
 | Urban Trial Freestyle | 196841 | [196841-urban-trial-freestyle.json](./196841-urban-trial-freestyle.json) |
 | Urban Trial Freestyle 2 | 57841 | [57841-urban-trial-freestyle-2.json](./57841-urban-trial-freestyle-2.json) |
