@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Shield | 334082 | [334082-laser-shield.json](./334082-laser-shield.json) |
 | Laser Skirmish | 205059 | [205059-laser-skirmish.json](./205059-laser-skirmish.json) |
 | Laser Snaker | 85743 | [85743-laser-snaker.json](./85743-laser-snaker.json) |
+| Laser Sounds | 309384 | [309384-laser-sounds.json](./309384-laser-sounds.json) |
 | Laser Spider Playground | 354212 | [354212-laser-spider-playground.json](./354212-laser-spider-playground.json) |
 | Laser Squad | 12170 | [12170-laser-squad.json](./12170-laser-squad.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
@@ -3733,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
 | Life Can Be Amazing | 163183 | [163183-life-can-be-amazing.json](./163183-life-can-be-amazing.json) |
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
+| Life Codex | 309414 | [309414-life-codex.json](./309414-life-codex.json) |
 | Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
 | Life Dash | 336572 | [336572-life-dash.json](./336572-life-dash.json) |
 | Life Diviner | 184803 | [184803-life-diviner.json](./184803-life-diviner.json) |
@@ -4683,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links LS 2000: 10 Course Pack | 131270 | [131270-links-ls-2000-10-course-pack.json](./131270-links-ls-2000-10-course-pack.json) |
 | Links LS: 1998 Edition | 771 | [771-links-ls-1998-edition.json](./771-links-ls-1998-edition.json) |
 | Links Puzzle | 283377 | [283377-links-puzzle.json](./283377-links-puzzle.json) |
+| Links Quartz | 309389 | [309389-links-quartz.json](./309389-links-quartz.json) |
 | Links: Championship Course - Banff Springs | 69756 | [69756-links-championship-course-banff-springs.json](./69756-links-championship-course-banff-springs.json) |
 | Links: Championship Course - Barton Creek | 71952 | [71952-links-championship-course-barton-creek.json](./71952-links-championship-course-barton-creek.json) |
 | Links: Championship Course - Bountiful Golf Course | 77910 | [77910-links-championship-course-bountiful-golf-course.json](./77910-links-championship-course-bountiful-golf-course.json) |
