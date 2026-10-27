@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
 | Falling Petals: Bloom Edition | 405976 | [405976-falling-petals-bloom-edition.json](./405976-falling-petals-bloom-edition.json) |
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
+| Falling Rain | 327121 | [327121-falling-rain.json](./327121-falling-rain.json) |
 | Falling Sand! | 146811 | [146811-falling-sand.json](./146811-falling-sand.json) |
 | Falling Sands Fast | 152038 | [152038-falling-sands-fast.json](./152038-falling-sands-fast.json) |
 | Falling Skies | 135084 | [135084-falling-skies.json](./135084-falling-skies.json) |
@@ -3026,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Phantom | 236121 | [236121-fear-the-phantom.json](./236121-fear-the-phantom.json) |
 | Fear the Ring Place 0 | 398677 | [398677-fear-the-ring-place-0.json](./398677-fear-the-ring-place-0.json) |
 | Fear the Timeloop | 318266 | [318266-fear-the-timeloop.json](./318266-fear-the-timeloop.json) |
+| Fear the Unknown: Dave Story | 327096 | [327096-fear-the-unknown-dave-story.json](./327096-fear-the-unknown-dave-story.json) |
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
 | Fear The Void | 272256 | [272256-fear-the-void.json](./272256-fear-the-void.json) |
 | Fear the Walking Dead: Dead Run | 58483 | [58483-fear-the-walking-dead-dead-run.json](./58483-fear-the-walking-dead-dead-run.json) |
@@ -3166,6 +3168,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed The Scorchpot | 377819 | [377819-feed-the-scorchpot.json](./377819-feed-the-scorchpot.json) |
 | Feed Them | 415058 | [415058-feed-them.json](./415058-feed-them.json) |
 | Feed Us | 235245 | [235245-feed-us.json](./235245-feed-us.json) |
+| Feed Us 2 | 327125 | [327125-feed-us-2.json](./327125-feed-us-2.json) |
+| Feed Us 3 | 327129 | [327129-feed-us-3.json](./327129-feed-us-3.json) |
 | Feed Us 4 | 327185 | [327185-feed-us-4.json](./327185-feed-us-4.json) |
 | Feed Us Happy | 393518 | [393518-feed-us-happy.json](./393518-feed-us-happy.json) |
 | Feed Us V | 327190 | [327190-feed-us-v.json](./327190-feed-us-v.json) |
@@ -4669,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Thermal Core Trainer | 105809 | [105809-find-the-thermal-core-trainer.json](./105809-find-the-thermal-core-trainer.json) |
 | Find The Thing | 309635 | [309635-find-the-thing.json](./309635-find-the-thing.json) |
 | Find the Treasure | 126244 | [126244-find-the-treasure.json](./126244-find-the-treasure.json) |
+| Find The Truth | 327119 | [327119-find-the-truth.json](./327119-find-the-truth.json) |
 | Find the Way | 246330 | [246330-find-the-way.json](./246330-find-the-way.json) |
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
@@ -5854,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Likes Please: Neon Pack | 290788 | [290788-five-likes-please-neon-pack.json](./290788-five-likes-please-neon-pack.json) |
 | Five little monkeys jumping on the bed for toddler | 102636 | [102636-five-little-monkeys-jumping-on-the-bed-for-toddler.json](./102636-five-little-monkeys-jumping-on-the-bed-for-toddler.json) |
 | Five Magical Amulets | 72525 | [72525-five-magical-amulets.json](./72525-five-magical-amulets.json) |
+| Five Minutes Till Christmas | 327133 | [327133-five-minutes-till-christmas.json](./327133-five-minutes-till-christmas.json) |
 | Five More Minutes | 375218 | [375218-five-more-minutes.json](./375218-five-more-minutes.json) |
 | Five Mysterious Murders | 374759 | [374759-five-mysterious-murders.json](./374759-five-mysterious-murders.json) |
 | Five Nations | 146675 | [146675-five-nations.json](./146675-five-nations.json) |
