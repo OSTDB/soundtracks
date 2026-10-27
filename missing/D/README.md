@@ -7642,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
 | Digimon Alysion | 336087 | [336087-digimon-alysion.json](./336087-digimon-alysion.json) |
 | Digimon Anode Tamer/Cathode Tamer: Veedramon Version | 37554 | [37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json](./37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json) |
+| Digimon Card Game Tutorial App | 313084 | [313084-digimon-card-game-tutorial-app.json](./313084-digimon-card-game-tutorial-app.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
 | Digimon Crystal Version II | 247401 | [247401-digimon-crystal-version-ii.json](./247401-digimon-crystal-version-ii.json) |
@@ -10728,6 +10729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country: Tropical Freeze | 2923 | [2923-donkey-kong-country-tropical-freeze.json](./2923-donkey-kong-country-tropical-freeze.json) |
 | Donkey Kong Country: Tropical Freeze | 85576 | [85576-donkey-kong-country-tropical-freeze.json](./85576-donkey-kong-country-tropical-freeze.json) |
 | Donkey Kong Craze | 191268 | [191268-donkey-kong-craze.json](./191268-donkey-kong-craze.json) |
+| Donkey Kong DX | 313083 | [313083-donkey-kong-dx.json](./313083-donkey-kong-dx.json) |
 | Donkey Kong Game Watch | 172538 | [172538-donkey-kong-game-watch.json](./172538-donkey-kong-game-watch.json) |
 | Donkey Kong GB: Dinky Kong & Dixie Kong | 50039 | [50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json](./50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json) |
 | Donkey Kong Heardle | 203817 | [203817-donkey-kong-heardle.json](./203817-donkey-kong-heardle.json) |
