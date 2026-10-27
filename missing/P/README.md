@@ -5707,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
 | Pinball | 287542 | [287542-pinball.json](./287542-pinball.json) |
 | Pinball | 312266 | [312266-pinball.json](./312266-pinball.json) |
+| Pinball | 319529 | [319529-pinball.json](./319529-pinball.json) |
 | Pinball | 410874 | [410874-pinball.json](./410874-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball | 82093 | [82093-pinball.json](./82093-pinball.json) |
@@ -7346,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
 | Pixels Filling Squares 3.0 | 95944 | [95944-pixels-filling-squares-3-0.json](./95944-pixels-filling-squares-3-0.json) |
 | Pixels filling Squares DX | 101729 | [101729-pixels-filling-squares-dx.json](./101729-pixels-filling-squares-dx.json) |
+| Pixels for Christmas | 319617 | [319617-pixels-for-christmas.json](./319617-pixels-for-christmas.json) |
 | Pixels Guide to Staying Dead | 109771 | [109771-pixels-guide-to-staying-dead.json](./109771-pixels-guide-to-staying-dead.json) |
 | Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
 | Pixels Out of Space | 186253 | [186253-pixels-out-of-space.json](./186253-pixels-out-of-space.json) |
@@ -9770,6 +9772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
 | Pokémon: H Edition | 405761 | [405761-pokemon-h-edition.json](./405761-pokemon-h-edition.json) |
 | Pokémon: Harmonic Peace | 335148 | [335148-pokemon-harmonic-peace.json](./335148-pokemon-harmonic-peace.json) |
+| Pokémon: Legends of Sinnoh | 319543 | [319543-pokemon-legends-of-sinnoh.json](./319543-pokemon-legends-of-sinnoh.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
 | Pokémon: Let's Go, Eevee! | 102873 | [102873-pokemon-lets-go-eevee.json](./102873-pokemon-lets-go-eevee.json) |
 | Pokémon: Let's Go, Eevee! GBA | 217860 | [217860-pokemon-lets-go-eevee-gba.json](./217860-pokemon-lets-go-eevee-gba.json) |
