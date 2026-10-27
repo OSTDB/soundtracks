@@ -3523,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Robot Game | 261762 | [261762-giant-robot-game.json](./261762-giant-robot-game.json) |
 | Giant Rush | 321618 | [321618-giant-rush.json](./321618-giant-rush.json) |
 | Giant Rush: Brave DLC | 324436 | [324436-giant-rush-brave-dlc.json](./324436-giant-rush-brave-dlc.json) |
+| Giant Rush: Brave Edition | 330620 | [330620-giant-rush-brave-edition.json](./330620-giant-rush-brave-edition.json) |
 | Giant Rush: Cute DLC | 324437 | [324437-giant-rush-cute-dlc.json](./324437-giant-rush-cute-dlc.json) |
 | Giant Rush: Gold Edition | 385201 | [385201-giant-rush-gold-edition.json](./385201-giant-rush-gold-edition.json) |
 | Giant Rush: Silly DLC | 324438 | [324438-giant-rush-silly-dlc.json](./324438-giant-rush-silly-dlc.json) |
@@ -7975,6 +7976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrindCraft | 218110 | [218110-grindcraft.json](./218110-grindcraft.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | Grindhouse Games Volume I | 142851 | [142851-grindhouse-games-volume-i.json](./142851-grindhouse-games-volume-i.json) |
+| Grindset T.V. | 330641 | [330641-grindset-t-v.json](./330641-grindset-t-v.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
 | Grindstone | 124031 | [124031-grindstone.json](./124031-grindstone.json) |
 | Grindworm | 361817 | [361817-grindworm.json](./361817-grindworm.json) |
@@ -8943,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumdrop Gladiator | 381354 | [381354-gumdrop-gladiator.json](./381354-gumdrop-gladiator.json) |
 | Gumdrops | 185331 | [185331-gumdrops.json](./185331-gumdrops.json) |
 | Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
+| Gummy Bear Mafia | 330493 | [330493-gummy-bear-mafia.json](./330493-gummy-bear-mafia.json) |
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
