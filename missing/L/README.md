@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady in tomb: Beneath the ocean | 220749 | [220749-lady-in-tomb-beneath-the-ocean.json](./220749-lady-in-tomb-beneath-the-ocean.json) |
 | Lady In Wading | 40649 | [40649-lady-in-wading.json](./40649-lady-in-wading.json) |
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
+| Lady Killers | 321287 | [321287-lady-killers.json](./321287-lady-killers.json) |
 | Lady Knight Quest | 341095 | [341095-lady-knight-quest.json](./341095-lady-knight-quest.json) |
 | Lady Mabel Mysteries: Death on Board - Collector’s Edition | 383759 | [383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json](./383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json) |
 | Lady of Bones, a Mother's Legacy | 273757 | [273757-lady-of-bones-a-mothers-legacy.json](./273757-lady-of-bones-a-mothers-legacy.json) |
@@ -3083,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
 | Let's Find Larry! | 279431 | [279431-lets-find-larry.json](./279431-lets-find-larry.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
+| Let's Fly Away | 321286 | [321286-lets-fly-away.json](./321286-lets-fly-away.json) |
 | Let's Freeze Some Penguins | 348717 | [348717-lets-freeze-some-penguins.json](./348717-lets-freeze-some-penguins.json) |
 | Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
 | Let’s Get Breakfast | 183257 | [183257-let-s-get-breakfast.json](./183257-let-s-get-breakfast.json) |
@@ -4607,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingword | 307591 | [307591-lingword.json](./307591-lingword.json) |
 | Língxià Jìyì | 130924 | [130924-lingxia-jiyi.json](./130924-lingxia-jiyi.json) |
 | Linia Stripes | 221745 | [221745-linia-stripes.json](./221745-linia-stripes.json) |
+| Linja vs. the Maneclowns | 321290 | [321290-linja-vs-the-maneclowns.json](./321290-linja-vs-the-maneclowns.json) |
 | Link | 174799 | [174799-link.json](./174799-link.json) |
 | Link | 18925 | [18925-link.json](./18925-link.json) |
 | Link | 421380 | [421380-link.json](./421380-link.json) |
