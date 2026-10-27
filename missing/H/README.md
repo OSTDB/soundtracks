@@ -4991,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero.EXE | 133074 | [133074-hero-exe.json](./133074-hero-exe.json) |
 | Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
 | Hero's Adventure: Road to Passion | 275459 | [275459-heros-adventure-road-to-passion.json](./275459-heros-adventure-road-to-passion.json) |
+| Hero's Adventure: The Great Conquest | 322620 | [322620-heros-adventure-the-great-conquest.json](./322620-heros-adventure-the-great-conquest.json) |
 | Hero's Arms | 346633 | [346633-heros-arms.json](./346633-heros-arms.json) |
 | Hero's Delirium | 266758 | [266758-heros-delirium.json](./266758-heros-delirium.json) |
 | Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
