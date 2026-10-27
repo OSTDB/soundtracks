@@ -3394,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
 | Aestheta | 349742 | [349742-aestheta.json](./349742-aestheta.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
+| Aesthetic Clicker | 309906 | [309906-aesthetic-clicker.json](./309906-aesthetic-clicker.json) |
 | Aesthetic Melody | 28894 | [28894-aesthetic-melody.json](./28894-aesthetic-melody.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
 | Aesthetic World | 107481 | [107481-aesthetic-world.json](./107481-aesthetic-world.json) |
@@ -9217,6 +9218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anoun | 384681 | [384681-anoun.json](./384681-anoun.json) |
 | Anovill | 355529 | [355529-anovill.json](./355529-anovill.json) |
 | Anoxemia | 9877 | [9877-anoxemia.json](./9877-anoxemia.json) |
+| Anoxia Station | 309900 | [309900-anoxia-station.json](./309900-anoxia-station.json) |
 | Anoyo: Zero | 157551 | [157551-anoyo-zero.json](./157551-anoyo-zero.json) |
 | Anpanman Niko-niko Party | 59054 | [59054-anpanman-niko-niko-party.json](./59054-anpanman-niko-niko-party.json) |
 | Anpanman no AIUEO-N! | 289728 | [289728-anpanman-no-aiueo-n.json](./289728-anpanman-no-aiueo-n.json) |
@@ -13752,6 +13754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum of the Dead | 126935 | [126935-asylum-of-the-dead.json](./126935-asylum-of-the-dead.json) |
 | Asylum of the Forsaken | 318619 | [318619-asylum-of-the-forsaken.json](./318619-asylum-of-the-forsaken.json) |
 | Asylum of the Wretched | 262175 | [262175-asylum-of-the-wretched.json](./262175-asylum-of-the-wretched.json) |
+| Asylum Revenge | 309937 | [309937-asylum-revenge.json](./309937-asylum-revenge.json) |
 | Asylum: Patient Zero | 337192 | [337192-asylum-patient-zero.json](./337192-asylum-patient-zero.json) |
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
 | Asymm | 351559 | [351559-asymm.json](./351559-asymm.json) |
@@ -15076,6 +15079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avia Corporation | 240756 | [240756-avia-corporation.json](./240756-avia-corporation.json) |
 | Avia: Tropic Edition | 393432 | [393432-avia-tropic-edition.json](./393432-avia-tropic-edition.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
+| Avian Enigma | 309902 | [309902-avian-enigma.json](./309902-avian-enigma.json) |
 | Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
 | Avians Against Aviation | 298264 | [298264-avians-against-aviation.json](./298264-avians-against-aviation.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
