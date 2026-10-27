@@ -6687,8 +6687,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Rock Force | 194382 | [194382-mega-man-rock-force.json](./194382-mega-man-rock-force.json) |
 | Mega Man Rocks! | 322021 | [322021-mega-man-rocks.json](./322021-mega-man-rocks.json) |
 | Mega Man RPG: Prototype | 288040 | [288040-mega-man-rpg-prototype.json](./288040-mega-man-rpg-prototype.json) |
+| Mega Man Rush Marine | 290981 | [290981-mega-man-rush-marine.json](./290981-mega-man-rush-marine.json) |
 | Mega Man SNES | 377766 | [377766-mega-man-snes.json](./377766-mega-man-snes.json) |
 | Mega Man Soccer | 1730 | [1730-mega-man-soccer.json](./1730-mega-man-soccer.json) |
+| Mega Man Space Rescue | 290983 | [290983-mega-man-space-rescue.json](./290983-mega-man-space-rescue.json) |
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
 | Mega Man Star Force 3: Black Ace | 1786 | [1786-mega-man-star-force-3-black-ace.json](./1786-mega-man-star-force-3-black-ace.json) |
 | Mega Man Star Force 3: Red Joker | 1787 | [1787-mega-man-star-force-3-red-joker.json](./1787-mega-man-star-force-3-red-joker.json) |
@@ -17888,6 +17890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Planet [RTS] | 120717 | [120717-my-planet-rts.json](./120717-my-planet-rts.json) |
 | My Planet: Moon Child | 396004 | [396004-my-planet-moon-child.json](./396004-my-planet-moon-child.json) |
 | My PlayHome: Play Home Doll House | 100954 | [100954-my-playhome-play-home-doll-house.json](./100954-my-playhome-play-home-doll-house.json) |
+| My Pleasure: Season 1 | 290772 | [290772-my-pleasure-season-1.json](./290772-my-pleasure-season-1.json) |
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
 | My Pocket Arcade | 254316 | [254316-my-pocket-arcade.json](./254316-my-pocket-arcade.json) |
