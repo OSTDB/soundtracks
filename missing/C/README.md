@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Escape: Island | 181650 | [181650-can-you-escape-island.json](./181650-can-you-escape-island.json) |
 | Can you escape: Room Escape 1 | 106954 | [106954-can-you-escape-room-escape-1.json](./106954-can-you-escape-room-escape-1.json) |
 | Can You Escape? | 194391 | [194391-can-you-escape.json](./194391-can-you-escape.json) |
+| Can you finish it? | 330656 | [330656-can-you-finish-it.json](./330656-can-you-finish-it.json) |
 | Can You Get Off Work on Time? | 320816 | [320816-can-you-get-off-work-on-time.json](./320816-can-you-get-off-work-on-time.json) |
 | Can You Get Over It | 101379 | [101379-can-you-get-over-it.json](./101379-can-you-get-over-it.json) |
 | Can You Hear the Echo? | 181731 | [181731-can-you-hear-the-echo.json](./181731-can-you-hear-the-echo.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Fodder and Green Game Bundle | 214664 | [214664-cannon-fodder-and-green-game-bundle.json](./214664-cannon-fodder-and-green-game-bundle.json) |
 | Cannon Foundry Simulator | 219218 | [219218-cannon-foundry-simulator.json](./219218-cannon-foundry-simulator.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
+| Cannon Island | 330482 | [330482-cannon-island.json](./330482-cannon-island.json) |
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
 | Cannon Lab 13 | 157443 | [157443-cannon-lab-13.json](./157443-cannon-lab-13.json) |
 | Cannon Master: Military Sport | 280154 | [280154-cannon-master-military-sport.json](./280154-cannon-master-military-sport.json) |
@@ -2759,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Cats | 312755 | [312755-cast-cats.json](./312755-cast-cats.json) |
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
 | Cast N | 299489 | [299489-cast-n.json](./299489-cast-n.json) |
+| Cast n Chill | 330638 | [330638-cast-n-chill.json](./330638-cast-n-chill.json) |
 | Cast of the Seven Godsends: Redux | 20994 | [20994-cast-of-the-seven-godsends-redux.json](./20994-cast-of-the-seven-godsends-redux.json) |
 | Cast Out Colony | 247958 | [247958-cast-out-colony.json](./247958-cast-out-colony.json) |
 | Cast Outs | 380165 | [380165-cast-outs.json](./380165-cast-outs.json) |
@@ -4176,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
 | CCCP Calls! | 100490 | [100490-cccp-calls.json](./100490-cccp-calls.json) |
 | CCG Deck Adventures Wild Arena | 232338 | [232338-ccg-deck-adventures-wild-arena.json](./232338-ccg-deck-adventures-wild-arena.json) |
+| CCSS07: 64 Squares of Purple | 330470 | [330470-ccss07-64-squares-of-purple.json](./330470-ccss07-64-squares-of-purple.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CD 2: Trap Master | 244668 | [244668-cd-2-trap-master.json](./244668-cd-2-trap-master.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
@@ -4991,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Wars | 21051 | [21051-chaos-wars.json](./21051-chaos-wars.json) |
 | Chaos Wizard | 203195 | [203195-chaos-wizard.json](./203195-chaos-wizard.json) |
 | Chaos World | 7904 | [7904-chaos-world.json](./7904-chaos-world.json) |
+| Chaos X | 330457 | [330457-chaos-x.json](./330457-chaos-x.json) |
 | Chaos Zero Nightmare | 350249 | [350249-chaos-zero-nightmare.json](./350249-chaos-zero-nightmare.json) |
 | Chaos-Alante | 260236 | [260236-chaos-alante.json](./260236-chaos-alante.json) |
 | Chaos;Child Love Chu Chu!! | 65530 | [65530-chaos-child-love-chu-chu.json](./65530-chaos-child-love-chu-chu.json) |
@@ -8054,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Aliens | 175144 | [175144-clash-of-aliens.json](./175144-clash-of-aliens.json) |
 | Clash of Beasts | 197185 | [197185-clash-of-beasts.json](./197185-clash-of-beasts.json) |
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
+| Clash of Busts | 330471 | [330471-clash-of-busts.json](./330471-clash-of-busts.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
@@ -8169,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Games Collection Vol.2 | 219460 | [219460-classic-games-collection-vol-2.json](./219460-classic-games-collection-vol-2.json) |
 | Classic Hentai Logic Puzzle | 365280 | [365280-classic-hentai-logic-puzzle.json](./365280-classic-hentai-logic-puzzle.json) |
+| Classic Home Invasion | 330473 | [330473-classic-home-invasion.json](./330473-classic-home-invasion.json) |
 | Classic Internet Scary Maze Game: Game Boy Edition | 275670 | [275670-classic-internet-scary-maze-game-game-boy-edition.json](./275670-classic-internet-scary-maze-game-game-boy-edition.json) |
 | Classic Invaders | 270765 | [270765-classic-invaders.json](./270765-classic-invaders.json) |
 | Classic Jigsaw Puzzles | 162199 | [162199-classic-jigsaw-puzzles.json](./162199-classic-jigsaw-puzzles.json) |
@@ -12544,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Flow: A Relaxing VR Experience | 133162 | [133162-cosmic-flow-a-relaxing-vr-experience.json](./133162-cosmic-flow-a-relaxing-vr-experience.json) |
 | Cosmic Galaxy Wars | 396754 | [396754-cosmic-galaxy-wars.json](./396754-cosmic-galaxy-wars.json) |
 | Cosmic Gravity | 106755 | [106755-cosmic-gravity.json](./106755-cosmic-gravity.json) |
+| Cosmic Guardians | 330489 | [330489-cosmic-guardians.json](./330489-cosmic-guardians.json) |
 | Cosmic Guerilla | 276388 | [276388-cosmic-guerilla.json](./276388-cosmic-guerilla.json) |
 | Cosmic Guerrilla | 39991 | [39991-cosmic-guerrilla.json](./39991-cosmic-guerrilla.json) |
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
@@ -14436,6 +14444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime O'Clock | 214945 | [214945-crime-oclock.json](./214945-crime-oclock.json) |
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
 | Crime Opera Fandisk: The Caterpillar Candids | 330602 | [330602-crime-opera-fandisk-the-caterpillar-candids.json](./330602-crime-opera-fandisk-the-caterpillar-candids.json) |
+| Crime Opera II: The Floodgate Effect | 330467 | [330467-crime-opera-ii-the-floodgate-effect.json](./330467-crime-opera-ii-the-floodgate-effect.json) |
 | Crime or Punishment | 294001 | [294001-crime-or-punishment.json](./294001-crime-or-punishment.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
 | Crime Patrol | 5373 | [5373-crime-patrol.json](./5373-crime-patrol.json) |
