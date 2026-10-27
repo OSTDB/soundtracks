@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Effect 2: Retro Helix | 8601 | [8601-fear-effect-2-retro-helix.json](./8601-fear-effect-2-retro-helix.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
+| Fear FA 98 | 332915 | [332915-fear-fa-98.json](./332915-fear-fa-98.json) |
 | Fear for Sale: City of the Past | 140250 | [140250-fear-for-sale-city-of-the-past.json](./140250-fear-for-sale-city-of-the-past.json) |
 | Fear for Sale: City of the Past - Collector's Edition | 107836 | [107836-fear-for-sale-city-of-the-past-collectors-edition.json](./107836-fear-for-sale-city-of-the-past-collectors-edition.json) |
 | Fear for Sale: City of the Past HD - A Hidden Object Mystery | 88307 | [88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json](./88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json) |
@@ -10607,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
 | Frontline Force | 259421 | [259421-frontline-force.json](./259421-frontline-force.json) |
+| Frontline Fury: Trenches, Mud & Blood | 332965 | [332965-frontline-fury-trenches-mud-and-blood.json](./332965-frontline-fury-trenches-mud-and-blood.json) |
 | Frontline Heroes VR | 41914 | [41914-frontline-heroes-vr.json](./41914-frontline-heroes-vr.json) |
 | Frontline Heroes VR: 2017 Edition | 170878 | [170878-frontline-heroes-vr-2017-edition.json](./170878-frontline-heroes-vr-2017-edition.json) |
 | Frontline Logistics: Isarian Warfare | 362762 | [362762-frontline-logistics-isarian-warfare.json](./362762-frontline-logistics-isarian-warfare.json) |
@@ -10923,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel & Food Bundle | 284863 | [284863-fuel-and-food-bundle.json](./284863-fuel-and-food-bundle.json) |
 | Fuel Depot 360 | 92420 | [92420-fuel-depot-360.json](./92420-fuel-depot-360.json) |
 | Fuel Devourer | 262174 | [262174-fuel-devourer.json](./262174-fuel-devourer.json) |
+| Fuel Harvest Together | 332960 | [332960-fuel-harvest-together.json](./332960-fuel-harvest-together.json) |
 | Fuel Me Up | 342719 | [342719-fuel-me-up.json](./342719-fuel-me-up.json) |
 | Fuel Overdose | 20841 | [20841-fuel-overdose.json](./20841-fuel-overdose.json) |
 | Fuel Station Simulator | 302224 | [302224-fuel-station-simulator.json](./302224-fuel-station-simulator.json) |
