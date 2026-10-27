@@ -3896,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
 | Hellsino | 405554 | [405554-hellsino.json](./405554-hellsino.json) |
 | HellSlave II: Judgment of the Archon | 345575 | [345575-hellslave-ii-judgment-of-the-archon.json](./345575-hellslave-ii-judgment-of-the-archon.json) |
+| Hellslave: Project Z-Treme | 321282 | [321282-hellslave-project-z-treme.json](./321282-hellslave-project-z-treme.json) |
 | Hellslinger | 217976 | [217976-hellslinger.json](./217976-hellslinger.json) |
 | Hellspawn | 244204 | [244204-hellspawn.json](./244204-hellspawn.json) |
 | Hellsplit: Arena | 117599 | [117599-hellsplit-arena.json](./117599-hellsplit-arena.json) |
@@ -8508,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Girl Puzzle | 112702 | [112702-horror-girl-puzzle.json](./112702-horror-girl-puzzle.json) |
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
 | Horror Golf | 423871 | [423871-horror-golf.json](./423871-horror-golf.json) |
+| Horror High | 321289 | [321289-horror-high.json](./321289-horror-high.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
 | Horror Hospital 2: Survival | 294536 | [294536-horror-hospital-2-survival.json](./294536-horror-hospital-2-survival.json) |
 | Horror Hotel | 222734 | [222734-horror-hotel.json](./222734-horror-hotel.json) |
@@ -9073,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Mogul: Las Vegas | 54100 | [54100-hotel-mogul-las-vegas.json](./54100-hotel-mogul-las-vegas.json) |
 | Hotel of the Dead | 274749 | [274749-hotel-of-the-dead.json](./274749-hotel-of-the-dead.json) |
 | Hotel on the Grate | 180015 | [180015-hotel-on-the-grate.json](./180015-hotel-on-the-grate.json) |
+| Hotel Owner Simulator | 321320 | [321320-hotel-owner-simulator.json](./321320-hotel-owner-simulator.json) |
 | Hotel Paraíso | 401868 | [401868-hotel-paraiso.json](./401868-hotel-paraiso.json) |
 | Hotel Perkkow and the Two Vegetarian Werewolves | 294281 | [294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json](./294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json) |
 | Hotel Renovator: Disco Room & Furniture Set | 265717 | [265717-hotel-renovator-disco-room-and-furniture-set.json](./265717-hotel-renovator-disco-room-and-furniture-set.json) |
@@ -9363,6 +9366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hover Tank 3D | 399596 | [399596-hover-tank-3d.json](./399596-hover-tank-3d.json) |
 | Hover the Edge | 195963 | [195963-hover-the-edge.json](./195963-hover-the-edge.json) |
+| Hover Warz | 321283 | [321283-hover-warz.json](./321283-hover-warz.json) |
 | Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hoverbike Joust | 176219 | [176219-hoverbike-joust.json](./176219-hoverbike-joust.json) |
