@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Karpatia: Order of the Comet | 257983 | [257983-karpatia-order-of-the-comet.json](./257983-karpatia-order-of-the-comet.json) |
 | Karpe Diem | 316132 | [316132-karpe-diem.json](./316132-karpe-diem.json) |
+| Karporam | 291957 | [291957-karporam.json](./291957-karporam.json) |
 | Karpov | 242957 | [242957-karpov.json](./242957-karpov.json) |
 | Karryn's Prison: Gym Trainer Side Job | 254050 | [254050-karryns-prison-gym-trainer-side-job.json](./254050-karryns-prison-gym-trainer-side-job.json) |
 | Karsus | 297322 | [297322-karsus.json](./297322-karsus.json) |
@@ -2975,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Tales 2 | 10487 | [10487-kingdom-tales-2.json](./10487-kingdom-tales-2.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
 | Kingdom Treasury Collection | 121422 | [121422-kingdom-treasury-collection.json](./121422-kingdom-treasury-collection.json) |
+| Kingdom Two Crowns: Call of Olympus | 291949 | [291949-kingdom-two-crowns-call-of-olympus.json](./291949-kingdom-two-crowns-call-of-olympus.json) |
 | Kingdom Two Crowns: Essentials Pack | 324494 | [324494-kingdom-two-crowns-essentials-pack.json](./324494-kingdom-two-crowns-essentials-pack.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
@@ -3690,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klotski Unblock | 90828 | [90828-klotski-unblock.json](./90828-klotski-unblock.json) |
 | Klotski+ | 221707 | [221707-klotski.json](./221707-klotski.json) |
 | Klotzen! Panzer Battles | 88066 | [88066-klotzen-panzer-battles.json](./88066-klotzen-panzer-battles.json) |
+| Klub '99 | 292044 | [292044-klub-99.json](./292044-klub-99.json) |
 | Kluber's Adventure | 408985 | [408985-klubers-adventure.json](./408985-klubers-adventure.json) |
 | Klung | 182533 | [182533-klung.json](./182533-klung.json) |
 | Kluno: A Kid's Dream | 26767 | [26767-kluno-a-kids-dream.json](./26767-kluno-a-kids-dream.json) |
