@@ -2557,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neven | 75205 | [75205-neven.json](./75205-neven.json) |
 | Never | 262997 | [262997-never.json](./262997-never.json) |
 | Never / Together | 402908 | [402908-never-together.json](./402908-never-together.json) |
+| Never 7: The End of Infinity | 323131 | [323131-never-7-the-end-of-infinity.json](./323131-never-7-the-end-of-infinity.json) |
 | Never Again | 53930 | [53930-never-again.json](./53930-never-again.json) |
 | Never Alone | 273575 | [273575-never-alone.json](./273575-never-alone.json) |
 | Never Alone: Arctic Collection | 46702 | [46702-never-alone-arctic-collection.json](./46702-never-alone-arctic-collection.json) |
