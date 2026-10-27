@@ -10272,6 +10272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Colore | 147609 | [147609-colorful-colore.json](./147609-colorful-colore.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
 | Colorful Ghost | 311165 | [311165-colorful-ghost.json](./311165-colorful-ghost.json) |
+| Colorful Katana | 285432 | [285432-colorful-katana.json](./285432-colorful-katana.json) |
 | Colorful Life | 30178 | [30178-colorful-life.json](./30178-colorful-life.json) |
 | Colorful Life Simulator | 316646 | [316646-colorful-life-simulator.json](./316646-colorful-life-simulator.json) |
 | Colorful Logic | 221273 | [221273-colorful-logic.json](./221273-colorful-logic.json) |
@@ -15730,6 +15731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Sea EP | 61710 | [61710-cryptic-sea-ep.json](./61710-cryptic-sea-ep.json) |
 | Cryptic Tales: Crossroads | 371461 | [371461-cryptic-tales-crossroads.json](./371461-cryptic-tales-crossroads.json) |
 | Cryptica | 307157 | [307157-cryptica.json](./307157-cryptica.json) |
+| CrypticaL | 285497 | [285497-cryptical.json](./285497-cryptical.json) |
 | Cryptical Path | 270542 | [270542-cryptical-path.json](./270542-cryptical-path.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
