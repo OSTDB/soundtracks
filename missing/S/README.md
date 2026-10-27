@@ -6777,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheol | 127871 | [127871-sheol.json](./127871-sheol.json) |
 | Sheol Inferno | 324943 | [324943-sheol-inferno.json](./324943-sheol-inferno.json) |
 | Sheol no Mori: Tasogare no Majuuzukai | 381108 | [381108-sheol-no-mori-tasogare-no-majuuzukai.json](./381108-sheol-no-mori-tasogare-no-majuuzukai.json) |
+| Shep Hard | 281439 | [281439-shep-hard.json](./281439-shep-hard.json) |
 | Shepard Fairey VR: Damaged | 110899 | [110899-shepard-fairey-vr-damaged.json](./110899-shepard-fairey-vr-damaged.json) |
 | Shepherd | 192319 | [192319-shepherd.json](./192319-shepherd.json) |
 | Shepherd Dog | 249021 | [249021-shepherd-dog.json](./249021-shepherd-dog.json) |
@@ -13454,6 +13455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 245407 | [245407-soccer.json](./245407-soccer.json) |
 | Soccer | 247045 | [247045-soccer.json](./247045-soccer.json) |
 | Soccer | 261792 | [261792-soccer.json](./261792-soccer.json) |
+| Soccer | 281226 | [281226-soccer.json](./281226-soccer.json) |
 | Soccer | 300003 | [300003-soccer.json](./300003-soccer.json) |
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer | 346074 | [346074-soccer.json](./346074-soccer.json) |
