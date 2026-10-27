@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
 | Margikarman ItoA | 180084 | [180084-margikarman-itoa.json](./180084-margikarman-itoa.json) |
 | Margin of Error | 351544 | [351544-margin-of-error.json](./351544-margin-of-error.json) |
+| Margin of the Strange | 301867 | [301867-margin-of-the-strange.json](./301867-margin-of-the-strange.json) |
 | Marginal act | 93778 | [93778-marginal-act.json](./93778-marginal-act.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Margo: On The Brink | 223373 | [223373-margo-on-the-brink.json](./223373-margo-on-the-brink.json) |
@@ -4351,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
 | Master Detective Archives: Rain Code - Digital Deluxe Edition | 247654 | [247654-master-detective-archives-rain-code-digital-deluxe-edition.json](./247654-master-detective-archives-rain-code-digital-deluxe-edition.json) |
 | Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
+| Master Detective Archives: Rain Code Plus - Limited Edition | 300753 | [300753-master-detective-archives-rain-code-plus-limited-edition.json](./300753-master-detective-archives-rain-code-plus-limited-edition.json) |
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
 | Master Detective Reiji Takatori: Mystery Investigation | 400168 | [400168-master-detective-reiji-takatori-mystery-investigation.json](./400168-master-detective-reiji-takatori-mystery-investigation.json) |
 | Master Fighter IV | 48574 | [48574-master-fighter-iv.json](./48574-master-fighter-iv.json) |
@@ -7784,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital III HD | 212783 | [212783-mental-hospital-iii-hd.json](./212783-mental-hospital-iii-hd.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
+| Mental Math Madness | 301869 | [301869-mental-math-madness.json](./301869-mental-math-madness.json) |
 | Mental Math Tutor | 187186 | [187186-mental-math-tutor.json](./187186-mental-math-tutor.json) |
 | Mental Medicine | 405680 | [405680-mental-medicine.json](./405680-mental-medicine.json) |
 | Mental Repairs Inc | 79686 | [79686-mental-repairs-inc.json](./79686-mental-repairs-inc.json) |
@@ -13684,6 +13687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Puroresu | 266632 | [266632-monster-puroresu.json](./266632-monster-puroresu.json) |
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
 | Monster Puzzle | 32304 | [32304-monster-puzzle.json](./32304-monster-puzzle.json) |
+| Monster Quest | 301863 | [301863-monster-quest.json](./301863-monster-quest.json) |
 | Monster Race 2 | 61172 | [61172-monster-race-2.json](./61172-monster-race-2.json) |
 | Monster Race Okawari | 61173 | [61173-monster-race-okawari.json](./61173-monster-race-okawari.json) |
 | Monster Racer | 20466 | [20466-monster-racer.json](./20466-monster-racer.json) |
