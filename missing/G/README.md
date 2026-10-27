@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Harem | 165494 | [165494-gay-harem.json](./165494-gay-harem.json) |
 | Gay It Loud | 416763 | [416763-gay-it-loud.json](./416763-gay-it-loud.json) |
 | Gay Joker | 303315 | [303315-gay-joker.json](./303315-gay-joker.json) |
+| Gay Monopoly | 319542 | [319542-gay-monopoly.json](./319542-gay-monopoly.json) |
 | Gay Mukankei: Kidnapping a Maid Has Nothing to Do With Being Gay!! | 362069 | [362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json](./362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json) |
 | Gay Sex Adventures: Episode 2 | 280663 | [280663-gay-sex-adventures-episode-2.json](./280663-gay-sex-adventures-episode-2.json) |
 | Gay Sex Adventures: Episode 4 | 290803 | [290803-gay-sex-adventures-episode-4.json](./290803-gay-sex-adventures-episode-4.json) |
@@ -5333,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gokujou!! Mecha Mote Iinchou: Girls Motekawa Box | 130713 | [130713-gokujou-mecha-mote-iinchou-girls-motekawa-box.json](./130713-gokujou-mecha-mote-iinchou-girls-motekawa-box.json) |
 | Gokujou!! Mecha Mote Iinchou: MM My Best Friend! | 130390 | [130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json](./130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json) |
 | Gokuraku Chuka Taisen | 37711 | [37711-gokuraku-chuka-taisen.json](./37711-gokuraku-chuka-taisen.json) |
+| Gokuraku Jong Premium | 319622 | [319622-gokuraku-jong-premium.json](./319622-gokuraku-jong-premium.json) |
 | Gokuraku Yuugi: Game Tengoku | 41376 | [41376-gokuraku-yuugi-game-tengoku.json](./41376-gokuraku-yuugi-game-tengoku.json) |
 | Gokuu Densetsu: Magic Beast Warriors | 43775 | [43775-gokuu-densetsu-magic-beast-warriors.json](./43775-gokuu-densetsu-magic-beast-warriors.json) |
 | Gol Show | 248822 | [248822-gol-show.json](./248822-gol-show.json) |
@@ -6201,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gosdooma | 292427 | [292427-gosdooma.json](./292427-gosdooma.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
 | Gosh A Ghost | 188872 | [188872-gosh-a-ghost.json](./188872-gosh-a-ghost.json) |
+| Goshzilla Is In Love | 319540 | [319540-goshzilla-is-in-love.json](./319540-goshzilla-is-in-love.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | GoSickRogue | 260591 | [260591-gosickrogue.json](./260591-gosickrogue.json) |
 | Gospel of Abaddon | 148789 | [148789-gospel-of-abaddon.json](./148789-gospel-of-abaddon.json) |
