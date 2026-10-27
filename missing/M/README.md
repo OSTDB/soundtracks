@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Managun Wizard | 357015 | [357015-managun-wizard.json](./357015-managun-wizard.json) |
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manairons | 369857 | [369857-manairons.json](./369857-manairons.json) |
+| Manaka de Ikuno!! | 319633 | [319633-manaka-de-ikuno.json](./319633-manaka-de-ikuno.json) |
 | Manakoto Hitomi no Bawai | 268135 | [268135-manakoto-hitomi-no-bawai.json](./268135-manakoto-hitomi-no-bawai.json) |
 | Manala: Equinox War | 408594 | [408594-manala-equinox-war.json](./408594-manala-equinox-war.json) |
 | Manalith | 142902 | [142902-manalith.json](./142902-manalith.json) |
@@ -4496,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterblazer | 15258 | [15258-masterblazer.json](./15258-masterblazer.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
+| MasterChef: Culinary Showdown | 319628 | [319628-masterchef-culinary-showdown.json](./319628-masterchef-culinary-showdown.json) |
 | MasterChef: Learn to Cook! - Complete Edition | 324375 | [324375-masterchef-learn-to-cook-complete-edition.json](./324375-masterchef-learn-to-cook-complete-edition.json) |
 | MasterChef: Learn to Cook! - Fruits, Nuts & Sweets | 324480 | [324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json](./324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json) |
 | MasterChef: Learn to Cook! - Meat, Dairy & Seafood | 324481 | [324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json](./324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json) |
@@ -17525,6 +17527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: A Canterlot Wedding | 242952 | [242952-my-little-pony-a-canterlot-wedding.json](./242952-my-little-pony-a-canterlot-wedding.json) |
 | My Little Pony: A Maretime Bay Adventure | 191956 | [191956-my-little-pony-a-maretime-bay-adventure.json](./191956-my-little-pony-a-maretime-bay-adventure.json) |
 | My Little Pony: A Zephyr Heights Mystery | 290839 | [290839-my-little-pony-a-zephyr-heights-mystery.json](./290839-my-little-pony-a-zephyr-heights-mystery.json) |
+| My Little Pony: Adventures in Equestria - Deck-Building Game | 319544 | [319544-my-little-pony-adventures-in-equestria-deck-building-game.json](./319544-my-little-pony-adventures-in-equestria-deck-building-game.json) |
 | My Little Pony: Adventures in Ponyville | 341163 | [341163-my-little-pony-adventures-in-ponyville.json](./341163-my-little-pony-adventures-in-ponyville.json) |
 | My Little Pony: Best Friends Ball | 124742 | [124742-my-little-pony-best-friends-ball.json](./124742-my-little-pony-best-friends-ball.json) |
 | My Little Pony: Color By Magic | 138464 | [138464-my-little-pony-color-by-magic.json](./138464-my-little-pony-color-by-magic.json) |
