@@ -5078,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Wars | 347325 | [347325-god-wars.json](./347325-god-wars.json) |
 | God Wars 2 | 105055 | [105055-god-wars-2.json](./105055-god-wars-2.json) |
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
+| God Will | 308862 | [308862-god-will.json](./308862-god-will.json) |
 | God, I Hate Wasps | 135080 | [135080-god-i-hate-wasps.json](./135080-god-i-hate-wasps.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
@@ -8242,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 5 | 237880 | [237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json](./237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
 | Groove Coaster: Wai Wai Party!!!! - Wacca + Hardcore Tano*c Pack | 237881 | [237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json](./237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json) |
+| Groove Coaster: Wai Wai Party!!!!: Hololive Pack 2 | 308837 | [308837-groove-coaster-wai-wai-party-hololive-pack-2.json](./308837-groove-coaster-wai-wai-party-hololive-pack-2.json) |
 | Groove Coaster: Wai Wai Party!!!!!: Hit Song + VTuber Pack 6 | 300944 | [300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json](./300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json) |
 | Groove Coaster: Xand-Roid | 361452 | [361452-groove-coaster-xand-roid.json](./361452-groove-coaster-xand-roid.json) |
 | Groove Defense | 385680 | [385680-groove-defense.json](./385680-groove-defense.json) |
