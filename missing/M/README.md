@@ -12752,6 +12752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Life Simulator | 380163 | [380163-mom-life-simulator.json](./380163-mom-life-simulator.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Mom-chan Diet Wii Figureobics by Jung Da-yeon | 5013 | [5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json](./5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json) |
+| Mom's Tent | 302998 | [302998-moms-tent.json](./302998-moms-tent.json) |
 | Mombo Combo 2 | 134331 | [134331-mombo-combo-2.json](./134331-mombo-combo-2.json) |
 | Mombo Combo Legacy | 326858 | [326858-mombo-combo-legacy.json](./326858-mombo-combo-legacy.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
@@ -15126,6 +15127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Throne Edition | 412583 | [412583-moto-rush-gt-throne-edition.json](./412583-moto-rush-gt-throne-edition.json) |
 | Moto Rush GT: Ultimate Edition | 283138 | [283138-moto-rush-gt-ultimate-edition.json](./283138-moto-rush-gt-ultimate-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
+| Moto Rush Reborn | 302969 | [302969-moto-rush-reborn.json](./302969-moto-rush-reborn.json) |
 | Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
 | Moto VR | 86629 | [86629-moto-vr.json](./86629-moto-vr.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
@@ -15393,6 +15395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Bike Rally | 42485 | [42485-mountain-bike-rally.json](./42485-mountain-bike-rally.json) |
 | Mountain Bike Xtreme | 369170 | [369170-mountain-bike-xtreme.json](./369170-mountain-bike-xtreme.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
+| Mountain Boy | 302910 | [302910-mountain-boy.json](./302910-mountain-boy.json) |
 | Mountain Car Climb | 402347 | [402347-mountain-car-climb.json](./402347-mountain-car-climb.json) |
 | Mountain Climb Driver | 253225 | [253225-mountain-climb-driver.json](./253225-mountain-climb-driver.json) |
 | Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
@@ -16005,6 +16008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 213877 | [213877-ms-pac-man.json](./213877-ms-pac-man.json) |
 | Ms. Pac-Man | 219011 | [219011-ms-pac-man.json](./219011-ms-pac-man.json) |
 | Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
+| Ms. Pac-Man Returns | 302989 | [302989-ms-pac-man-returns.json](./302989-ms-pac-man-returns.json) |
 | Ms. Pac-Man: Maze Madness | 239193 | [239193-ms-pac-man-maze-madness.json](./239193-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness 2 | 306632 | [306632-ms-pac-man-maze-madness-2.json](./306632-ms-pac-man-maze-madness-2.json) |
