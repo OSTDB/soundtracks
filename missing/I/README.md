@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IF-16 Fighting Falcon | 368550 | [368550-if-16-fighting-falcon.json](./368550-if-16-fighting-falcon.json) |
 | iF-22 | 95458 | [95458-if-22.json](./95458-if-22.json) |
 | iF-22 Persian Gulf v5.0 | 62267 | [62267-if-22-persian-gulf-v5-0.json](./62267-if-22-persian-gulf-v5-0.json) |
+| IF: Imaginary Friends | 324800 | [324800-if-imaginary-friends.json](./324800-if-imaginary-friends.json) |
 | If... | 261458 | [261458-if.json](./261458-if.json) |
 | iF/A-18E Carrier Strike Fighter | 78014 | [78014-if-a-18e-carrier-strike-fighter.json](./78014-if-a-18e-carrier-strike-fighter.json) |
 | iFactor | 30611 | [30611-ifactor.json](./30611-ifactor.json) |
