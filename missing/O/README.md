@@ -3490,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
 | Ore no Kanojo ga Gachi Hentai Sugiru | 97480 | [97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json](./97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json) |
 | Ore no Ryouri | 44880 | [44880-ore-no-ryouri.json](./44880-ore-no-ryouri.json) |
+| Ore no Sentai Oranger | 290383 | [290383-ore-no-sentai-oranger.json](./290383-ore-no-sentai-oranger.json) |
 | Ore no Shikabane wo Koete Yuke | 305798 | [305798-ore-no-shikabane-wo-koete-yuke.json](./305798-ore-no-shikabane-wo-koete-yuke.json) |
 | Ore no Shikabane wo Koete Yuke | 305799 | [305799-ore-no-shikabane-wo-koete-yuke.json](./305799-ore-no-shikabane-wo-koete-yuke.json) |
 | Ore no Shikabane wo Koete Yuke | 65905 | [65905-ore-no-shikabane-wo-koete-yuke.json](./65905-ore-no-shikabane-wo-koete-yuke.json) |
