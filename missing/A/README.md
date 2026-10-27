@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A God-Like Backhand! | 29786 | [29786-a-god-like-backhand.json](./29786-a-god-like-backhand.json) |
 | A Goo Adventure | 38769 | [38769-a-goo-adventure.json](./38769-a-goo-adventure.json) |
 | A Good Cat and The Graduate Life | 312671 | [312671-a-good-cat-and-the-graduate-life.json](./312671-a-good-cat-and-the-graduate-life.json) |
+| A Good Day to Die Hard | 301312 | [301312-a-good-day-to-die-hard.json](./301312-a-good-day-to-die-hard.json) |
 | A Good Day to Pie | 185398 | [185398-a-good-day-to-pie.json](./185398-a-good-day-to-pie.json) |
 | A Good Deed On Harris Avenue | 404160 | [404160-a-good-deed-on-harris-avenue.json](./404160-a-good-deed-on-harris-avenue.json) |
 | A Good Field | 337800 | [337800-a-good-field.json](./337800-a-good-field.json) |
@@ -704,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mining Game | 120861 | [120861-a-mining-game.json](./120861-a-mining-game.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Mirror, Darkly | 340948 | [340948-a-mirror-darkly.json](./340948-a-mirror-darkly.json) |
+| A Missing Salesman | 301792 | [301792-a-missing-salesman.json](./301792-a-missing-salesman.json) |
 | A Moderately Uncomfortable Night with Tux | 338711 | [338711-a-moderately-uncomfortable-night-with-tux.json](./338711-a-moderately-uncomfortable-night-with-tux.json) |
 | A Modest Legacy | 193187 | [193187-a-modest-legacy.json](./193187-a-modest-legacy.json) |
 | A Mole in a Hole | 211249 | [211249-a-mole-in-a-hole.json](./211249-a-mole-in-a-hole.json) |
@@ -1053,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Super Mario Bros. X Thing: Prelude To The Stupid! | 270709 | [270709-a-super-mario-bros-x-thing-prelude-to-the-stupid.json](./270709-a-super-mario-bros-x-thing-prelude-to-the-stupid.json) |
 | A Super Mario Thing | 278626 | [278626-a-super-mario-thing.json](./278626-a-super-mario-thing.json) |
 | A Superplanet Called KG | 374899 | [374899-a-superplanet-called-kg.json](./374899-a-superplanet-called-kg.json) |
+| A Surgery Beyond The Heart | 301231 | [301231-a-surgery-beyond-the-heart.json](./301231-a-surgery-beyond-the-heart.json) |
 | A Tag Knight | 196575 | [196575-a-tag-knight.json](./196575-a-tag-knight.json) |
 | A Tale About Flowers | 188501 | [188501-a-tale-about-flowers.json](./188501-a-tale-about-flowers.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
@@ -1163,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Twisted Path To Renown | 275923 | [275923-a-twisted-path-to-renown.json](./275923-a-twisted-path-to-renown.json) |
 | A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
+| A Twisted Place | 301861 | [301861-a-twisted-place.json](./301861-a-twisted-place.json) |
 | A Twisted Tale | 190034 | [190034-a-twisted-tale.json](./190034-a-twisted-tale.json) |
 | A Typewriter's Story | 104145 | [104145-a-typewriters-story.json](./104145-a-typewriters-story.json) |
 | A Typical Day | 322548 | [322548-a-typical-day.json](./322548-a-typical-day.json) |
@@ -1524,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
 | Abandoned Knight | 33508 | [33508-abandoned-knight.json](./33508-abandoned-knight.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
+| Abandoned Moons | 301219 | [301219-abandoned-moons.json](./301219-abandoned-moons.json) |
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Places 2 | 11849 | [11849-abandoned-places-2.json](./11849-abandoned-places-2.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
@@ -1680,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Love, Hate and the other ones | 3080 | [3080-about-love-hate-and-the-other-ones.json](./3080-about-love-hate-and-the-other-ones.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | About Time! | 420209 | [420209-about-time.json](./420209-about-time.json) |
+| Above | 301218 | [301218-above.json](./301218-above.json) |
 | Above | 406287 | [406287-above.json](./406287-above.json) |
 | Above | 91138 | [91138-above.json](./91138-above.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
@@ -2722,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorabilis | 254373 | [254373-adorabilis.json](./254373-adorabilis.json) |
 | Adorable Adventures | 353276 | [353276-adorable-adventures.json](./353276-adorable-adventures.json) |
+| Adorable Dog: Gnomeageddon | 301253 | [301253-adorable-dog-gnomeageddon.json](./301253-adorable-dog-gnomeageddon.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
 | Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
 | Adorable Witch 2 | 192138 | [192138-adorable-witch-2.json](./192138-adorable-witch-2.json) |
@@ -8754,6 +8761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Knight: Card Game | 236969 | [236969-anime-knight-card-game.json](./236969-anime-knight-card-game.json) |
 | Anime Land | 91914 | [91914-anime-land.json](./91914-anime-land.json) |
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
+| Anime Love Life | 301216 | [301216-anime-love-life.json](./301216-anime-love-life.json) |
 | Anime Manga Style Girl: Color By Number Pixel Art Coloring | 370758 | [370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json](./370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json) |
 | Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
 | Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
@@ -8773,6 +8781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Quiz Challenge | 405671 | [405671-anime-quiz-challenge.json](./405671-anime-quiz-challenge.json) |
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
 | Anime Romance Boys Collection: 2 Game Bundle | 393763 | [393763-anime-romance-boys-collection-2-game-bundle.json](./393763-anime-romance-boys-collection-2-game-bundle.json) |
+| Anime School Chase Sim | 301215 | [301215-anime-school-chase-sim.json](./301215-anime-school-chase-sim.json) |
 | Anime School Girl Dating Sim | 296758 | [296758-anime-school-girl-dating-sim.json](./296758-anime-school-girl-dating-sim.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime School Zombie Simulator | 296754 | [296754-anime-school-zombie-simulator.json](./296754-anime-school-zombie-simulator.json) |
@@ -9487,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
 | Antrum | 113426 | [113426-antrum.json](./113426-antrum.json) |
 | Ants | 170965 | [170965-ants.json](./170965-ants.json) |
+| Ants | 301781 | [301781-ants.json](./301781-ants.json) |
 | Ants | 70252 | [70252-ants.json](./70252-ants.json) |
 | Ants Empire Colony | 358427 | [358427-ants-empire-colony.json](./358427-ants-empire-colony.json) |
 | Ants in Space! | 248031 | [248031-ants-in-space.json](./248031-ants-in-space.json) |
@@ -11594,6 +11604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
 | Arisen Force: Vonimir | 244893 | [244893-arisen-force-vonimir.json](./244893-arisen-force-vonimir.json) |
 | Arishia Tale | 300298 | [300298-arishia-tale.json](./300298-arishia-tale.json) |
+| Arishihi no Watashi-tachi he | 301235 | [301235-arishihi-no-watashi-tachi-he.json](./301235-arishihi-no-watashi-tachi-he.json) |
 | Arishihi no Watashitachi he | 394092 | [394092-arishihi-no-watashitachi-he.json](./394092-arishihi-no-watashitachi-he.json) |
 | Arising | 303676 | [303676-arising.json](./303676-arising.json) |
 | Aristear Remain | 77783 | [77783-aristear-remain.json](./77783-aristear-remain.json) |
