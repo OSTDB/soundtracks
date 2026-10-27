@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
 | Tank Universal | 9455 | [9455-tank-universal.json](./9455-tank-universal.json) |
 | Tank Universal: Challenger Eight | 72708 | [72708-tank-universal-challenger-eight.json](./72708-tank-universal-challenger-eight.json) |
+| Tank vs. Aliens | 286355 | [286355-tank-vs-aliens.json](./286355-tank-vs-aliens.json) |
 | Tank vs. Tank | 323114 | [323114-tank-vs-tank.json](./323114-tank-vs-tank.json) |
 | Tank vs. Tank GOTY Edition | 395684 | [395684-tank-vs-tank-goty-edition.json](./395684-tank-vs-tank-goty-edition.json) |
 | Tank vs. Tank: Deluxe Edition | 332507 | [332507-tank-vs-tank-deluxe-edition.json](./332507-tank-vs-tank-deluxe-edition.json) |
@@ -3144,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleportal 2 | 323583 | [323583-teleportal-2.json](./323583-teleportal-2.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
 | Teleportals. I swear it's a nice game. | 103192 | [103192-teleportals-i-swear-its-a-nice-game.json](./103192-teleportals-i-swear-its-a-nice-game.json) |
+| Teleportia | 286358 | [286358-teleportia.json](./286358-teleportia.json) |
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
@@ -23678,6 +23680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | TraceS | 176928 | [176928-traces.json](./176928-traces.json) |
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
+| Traces of the Unknown | 286354 | [286354-traces-of-the-unknown.json](./286354-traces-of-the-unknown.json) |
 | Traceur's Dreamlab VR | 148820 | [148820-traceurs-dreamlab-vr.json](./148820-traceurs-dreamlab-vr.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
 | Tracing Decay | 211143 | [211143-tracing-decay.json](./211143-tracing-decay.json) |
@@ -24363,6 +24366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 3: Thameslink BR Class 700/0 EMU | 257017 | [257017-train-simulator-3-thameslink-br-class-700-0-emu.json](./257017-train-simulator-3-thameslink-br-class-700-0-emu.json) |
 | Train Simulator Bangladesh | 375890 | [375890-train-simulator-bangladesh.json](./375890-train-simulator-bangladesh.json) |
 | Train Simulator Classic | 198295 | [198295-train-simulator-classic.json](./198295-train-simulator-classic.json) |
+| Train Simulator Classic: Amtrak AEM-7 | 286547 | [286547-train-simulator-classic-amtrak-aem-7.json](./286547-train-simulator-classic-amtrak-aem-7.json) |
 | Train Simulator Classic: BN Wagon Pack 01 | 226264 | [226264-train-simulator-classic-bn-wagon-pack-01.json](./226264-train-simulator-classic-bn-wagon-pack-01.json) |
 | Train Simulator Classic: Boston & Albany - Boston - Springfield Route Add-On | 357395 | [357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json](./357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json) |
 | Train Simulator Classic: Bozeman Pass - Livingston: Three Forks & Trident | 357284 | [357284-train-simulator-classic-bozeman-pass-livingston-three-forks-and-trident.json](./357284-train-simulator-classic-bozeman-pass-livingston-three-forks-and-trident.json) |
