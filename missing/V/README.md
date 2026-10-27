@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Rising: Founder's Pack - Eldest Bloodline | 297468 | [297468-v-rising-founders-pack-eldest-bloodline.json](./297468-v-rising-founders-pack-eldest-bloodline.json) |
 | V Rising: Haunted Nights Castle Pack | 272217 | [272217-v-rising-haunted-nights-castle-pack.json](./272217-v-rising-haunted-nights-castle-pack.json) |
 | V Rising: Invaders of Oakvale | 339621 | [339621-v-rising-invaders-of-oakvale.json](./339621-v-rising-invaders-of-oakvale.json) |
+| V Rising: Legacy of Castlevania | 296842 | [296842-v-rising-legacy-of-castlevania.json](./296842-v-rising-legacy-of-castlevania.json) |
 | V Rising: Razer Night Serpent Pack | 297495 | [297495-v-rising-razer-night-serpent-pack.json](./297495-v-rising-razer-night-serpent-pack.json) |
 | V Rising: Sinister Evolution Pack | 297497 | [297497-v-rising-sinister-evolution-pack.json](./297497-v-rising-sinister-evolution-pack.json) |
 | V tylu vraga 2: Brat'ya po oruzhiyu | 383942 | [383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacoo: The Adventure in Garbage City | 223413 | [223413-vacoo-the-adventure-in-garbage-city.json](./223413-vacoo-the-adventure-in-garbage-city.json) |
 | Vactics | 202067 | [202067-vactics.json](./202067-vactics.json) |
 | Vacuum | 274673 | [274673-vacuum.json](./274673-vacuum.json) |
+| Vacuum Balaena | 301791 | [301791-vacuum-balaena.json](./301791-vacuum-balaena.json) |
 | Vacuum Ball | 192820 | [192820-vacuum-ball.json](./192820-vacuum-ball.json) |
 | Vacuum Cleaner Robot Simulator: Pile Sos Edition | 369591 | [369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json](./369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json) |
 | Vacuum Pilot | 160254 | [160254-vacuum-pilot.json](./160254-vacuum-pilot.json) |
@@ -174,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrant Hearts | 25470 | [25470-vagrant-hearts.json](./25470-vagrant-hearts.json) |
 | Vagrant Hearts 2 | 35480 | [35480-vagrant-hearts-2.json](./35480-vagrant-hearts-2.json) |
 | Vagrant Hearts Zero | 28938 | [28938-vagrant-hearts-zero.json](./28938-vagrant-hearts-zero.json) |
+| Vagrant Moon | 298617 | [298617-vagrant-moon.json](./298617-vagrant-moon.json) |
 | Vagrant Shifter | 286129 | [286129-vagrant-shifter.json](./286129-vagrant-shifter.json) |
 | Vagrant Story | 2216 | [2216-vagrant-story.json](./2216-vagrant-story.json) |
 | Vagrant Strider | 272384 | [272384-vagrant-strider.json](./272384-vagrant-strider.json) |
@@ -1298,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
 | Vermin God: SCP Horror Game | 235157 | [235157-vermin-god-scp-horror-game.json](./235157-vermin-god-scp-horror-game.json) |
 | Vermin Hunter | 120774 | [120774-vermin-hunter.json](./120774-vermin-hunter.json) |
+| Vermin Kids | 301793 | [301793-vermin-kids.json](./301793-vermin-kids.json) |
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
 | Verminsteel | 392842 | [392842-verminsteel.json](./392842-verminsteel.json) |
 | Vermintide Collection | 107265 | [107265-vermintide-collection.json](./107265-vermintide-collection.json) |
