@@ -2472,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Interns | 357252 | [357252-we-interns.json](./357252-we-interns.json) |
 | We Kill Monsters | 255092 | [255092-we-kill-monsters.json](./255092-we-kill-monsters.json) |
 | We Know the Devil | 27870 | [27870-we-know-the-devil.json](./27870-we-know-the-devil.json) |
+| We Like It Here | 315447 | [315447-we-like-it-here.json](./315447-we-like-it-here.json) |
 | We Lost Our Human | 256874 | [256874-we-lost-our-human.json](./256874-we-lost-our-human.json) |
 | We Love Cake | 69093 | [69093-we-love-cake.json](./69093-we-love-cake.json) |
 | We Love Fish Tanks | 387332 | [387332-we-love-fish-tanks.json](./387332-we-love-fish-tanks.json) |
@@ -4240,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WiccAtriX | 282212 | [282212-wiccatrix.json](./282212-wiccatrix.json) |
 | Wicce | 32928 | [32928-wicce.json](./32928-wicce.json) |
 | Wichtel | 405483 | [405483-wichtel.json](./405483-wichtel.json) |
+| Wick3r: Cheese, Keys & Speed | 315462 | [315462-wick3r-cheese-keys-and-speed.json](./315462-wick3r-cheese-keys-and-speed.json) |
 | Wicked | 12233 | [12233-wicked.json](./12233-wicked.json) |
 | Wicked | 216827 | [216827-wicked.json](./216827-wicked.json) |
 | Wicked 18 | 38826 | [38826-wicked-18.json](./38826-wicked-18.json) |
