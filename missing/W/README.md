@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Happy Few | 9182 | [9182-we-happy-few.json](./9182-we-happy-few.json) |
 | We Happy Few: They Came From Below | 116682 | [116682-we-happy-few-they-came-from-below.json](./116682-we-happy-few-they-came-from-below.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
+| We Harvest Shadows | 314241 | [314241-we-harvest-shadows.json](./314241-we-harvest-shadows.json) |
 | We Have a Frog Problem | 228997 | [228997-we-have-a-frog-problem.json](./228997-we-have-a-frog-problem.json) |
 | We Have Doom at Home | 361303 | [361303-we-have-doom-at-home.json](./361303-we-have-doom-at-home.json) |
 | We Have Evangelion at Home | 363911 | [363911-we-have-evangelion-at-home.json](./363911-we-have-evangelion-at-home.json) |
@@ -2674,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
 | Wee-Woo | 130640 | [130640-wee-woo.json](./130640-wee-woo.json) |
+| Weeb | 314311 | [314311-weeb.json](./314311-weeb.json) |
 | Weebish Mines | 29085 | [29085-weebish-mines.json](./29085-weebish-mines.json) |
 | Weed | 82143 | [82143-weed.json](./82143-weed.json) |
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
