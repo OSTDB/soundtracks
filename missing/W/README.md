@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking Simulator | 128376 | [128376-walking-simulator.json](./128376-walking-simulator.json) |
 | Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
 | Walking Simulator A Month Club (Complete Edition) | 136100 | [136100-walking-simulator-a-month-club-complete-edition.json](./136100-walking-simulator-a-month-club-complete-edition.json) |
+| Walking Steel | 313645 | [313645-walking-steel.json](./313645-walking-steel.json) |
 | Walking Survival | 366576 | [366576-walking-survival.json](./366576-walking-survival.json) |
 | Walking Tourist | 134935 | [134935-walking-tourist.json](./134935-walking-tourist.json) |
 | Walking War Robots | 59759 | [59759-walking-war-robots.json](./59759-walking-war-robots.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War is Hare | 274523 | [274523-war-is-hare.json](./274523-war-is-hare.json) |
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
+| War Job | 313642 | [313642-war-job.json](./313642-war-job.json) |
 | War Land TD | 414508 | [414508-war-land-td.json](./414508-war-land-td.json) |
 | War Lands | 338400 | [338400-war-lands.json](./338400-war-lands.json) |
 | War Leaders: Clash of Nations | 53148 | [53148-war-leaders-clash-of-nations.json](./53148-war-leaders-clash-of-nations.json) |
