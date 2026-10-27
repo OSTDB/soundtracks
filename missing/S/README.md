@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Silver Edition | 250394 | [250394-s-n-i-p-e-r-hunter-scope-silver-edition.json](./250394-s-n-i-p-e-r-hunter-scope-silver-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Supreme Edition | 324369 | [324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json](./324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Throne Edition | 410859 | [410859-s-n-i-p-e-r-hunter-scope-throne-edition.json](./410859-s-n-i-p-e-r-hunter-scope-throne-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Ultimate Edition | 280622 | [280622-s-n-i-p-e-r-hunter-scope-ultimate-edition.json](./280622-s-n-i-p-e-r-hunter-scope-ultimate-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Ultimate Firepower | 303881 | [303881-s-n-i-p-e-r-hunter-scope-ultimate-firepower.json](./303881-s-n-i-p-e-r-hunter-scope-ultimate-firepower.json) |
 | S.N.I.P.E.R.: Hunter Scope - Weaponry Upgrade | 404554 | [404554-s-n-i-p-e-r-hunter-scope-weaponry-upgrade.json](./404554-s-n-i-p-e-r-hunter-scope-weaponry-upgrade.json) |
 | S.N.I.P.E.R.: Hunter Scope Content Bundle | 390911 | [390911-s-n-i-p-e-r-hunter-scope-content-bundle.json](./390911-s-n-i-p-e-r-hunter-scope-content-bundle.json) |
@@ -6835,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: The Darkest Mysteries Bundle | 310455 | [310455-sherlock-holmes-the-darkest-mysteries-bundle.json](./310455-sherlock-holmes-the-darkest-mysteries-bundle.json) |
 | Sherlock Holmes: The Devil's Daughter | 11563 | [11563-sherlock-holmes-the-devils-daughter.json](./11563-sherlock-holmes-the-devils-daughter.json) |
 | Sherlock Holmes: The Hound of the Baskervilles - Collector's Edition | 208999 | [208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json](./208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json) |
+| Sherlock Holmes: The Hunt for Moriarty | 280621 | [280621-sherlock-holmes-the-hunt-for-moriarty.json](./280621-sherlock-holmes-the-hunt-for-moriarty.json) |
 | Sherlock Holmes: The Mystery of the Mummy | 6786 | [6786-sherlock-holmes-the-mystery-of-the-mummy.json](./6786-sherlock-holmes-the-mystery-of-the-mummy.json) |
 | Sherlock Holmes: The Mystery of the Persian Carpet | 14854 | [14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json](./14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json) |
 | Sherlock Holmes: The Silver Earring | 6812 | [6812-sherlock-holmes-the-silver-earring.json](./6812-sherlock-holmes-the-silver-earring.json) |
@@ -12302,6 +12304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
 | SMB1 Autumn Challenge | 322651 | [322651-smb1-autumn-challenge.json](./322651-smb1-autumn-challenge.json) |
 | SMB3: The Rainbow Realms | 372199 | [372199-smb3-the-rainbow-realms.json](./372199-smb3-the-rainbow-realms.json) |
+| SMBW Randomizer | 280939 | [280939-smbw-randomizer.json](./280939-smbw-randomizer.json) |
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
@@ -13371,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: Treasure Hunter | 74010 | [74010-snowy-treasure-hunter.json](./74010-snowy-treasure-hunter.json) |
 | Snowy: Treasure Hunter 3 | 57584 | [57584-snowy-treasure-hunter-3.json](./57584-snowy-treasure-hunter-3.json) |
 | Snowyland | 187156 | [187156-snowyland.json](./187156-snowyland.json) |
+| SNQZ | 280623 | [280623-snqz.json](./280623-snqz.json) |
 | SNS | 163881 | [163881-sns.json](./163881-sns.json) |
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
 | Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
@@ -16359,6 +16363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
 | Space Battle | 160158 | [160158-space-battle.json](./160158-space-battle.json) |
 | Space Battle | 18740 | [18740-space-battle.json](./18740-space-battle.json) |
+| Space Battle | 280954 | [280954-space-battle.json](./280954-space-battle.json) |
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
 | Space Battle Arena | 170429 | [170429-space-battle-arena.json](./170429-space-battle-arena.json) |
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
@@ -24856,6 +24861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subroutine | 344992 | [344992-subroutine.json](./344992-subroutine.json) |
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subs | 119600 | [119600-subs.json](./119600-subs.json) |
+| Subs | 280959 | [280959-subs.json](./280959-subs.json) |
 | Subself: Lies Deep | 407848 | [407848-subself-lies-deep.json](./407848-subself-lies-deep.json) |
 | Subside | 265550 | [265550-subside.json](./265550-subside.json) |
 | Subsideria | 86591 | [86591-subsideria.json](./86591-subsideria.json) |
