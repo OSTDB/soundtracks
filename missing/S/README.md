@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Forth | 115491 | [115491-sail-forth.json](./115491-sail-forth.json) |
 | Sail Forth + Maelstrom Bundle | 284860 | [284860-sail-forth-maelstrom-bundle.json](./284860-sail-forth-maelstrom-bundle.json) |
 | Sail Forth: Maelstrom | 283240 | [283240-sail-forth-maelstrom.json](./283240-sail-forth-maelstrom.json) |
+| Sail of Dreams | 285313 | [285313-sail-of-dreams.json](./285313-sail-of-dreams.json) |
 | Sail or Fail | 290999 | [290999-sail-or-fail.json](./290999-sail-or-fail.json) |
 | Sail Ships | 102365 | [102365-sail-ships.json](./102365-sail-ships.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
@@ -2920,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Facility | 223326 | [223326-scp-facility.json](./223326-scp-facility.json) |
 | SCP: Facility Manager | 219623 | [219623-scp-facility-manager.json](./219623-scp-facility-manager.json) |
 | SCP: Forgotten Facility | 151005 | [151005-scp-forgotten-facility.json](./151005-scp-forgotten-facility.json) |
+| SCP: Foundation Simulator | 285305 | [285305-scp-foundation-simulator.json](./285305-scp-foundation-simulator.json) |
 | SCP: Fragmented Minds | 137487 | [137487-scp-fragmented-minds.json](./137487-scp-fragmented-minds.json) |
 | SCP: Ground Zero | 133853 | [133853-scp-ground-zero.json](./133853-scp-ground-zero.json) |
 | SCP: Hellworks | 296461 | [296461-scp-hellworks.json](./296461-scp-hellworks.json) |
@@ -6886,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Hero | 351630 | [351630-shield-hero.json](./351630-shield-hero.json) |
 | Shield Hero Rise | 188386 | [188386-shield-hero-rise.json](./188386-shield-hero-rise.json) |
 | Shield Impact | 81859 | [81859-shield-impact.json](./81859-shield-impact.json) |
+| Shield knight | 285308 | [285308-shield-knight.json](./285308-shield-knight.json) |
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
 | Shield of Shalwend | 133126 | [133126-shield-of-shalwend.json](./133126-shield-of-shalwend.json) |
 | Shield Shock | 123873 | [123873-shield-shock.json](./123873-shield-shock.json) |
@@ -7967,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shortcut Run | 318265 | [318265-shortcut-run.json](./318265-shortcut-run.json) |
 | Shortest Trip to Earth | 108656 | [108656-shortest-trip-to-earth.json](./108656-shortest-trip-to-earth.json) |
 | Shortest Trip to Earth: The Old Enemies | 154610 | [154610-shortest-trip-to-earth-the-old-enemies.json](./154610-shortest-trip-to-earth-the-old-enemies.json) |
+| Shorticulture | 285614 | [285614-shorticulture.json](./285614-shorticulture.json) |
 | Shortline Railroad | 223008 | [223008-shortline-railroad.json](./223008-shortline-railroad.json) |
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shortstop by the Sea | 411302 | [411302-shortstop-by-the-sea.json](./411302-shortstop-by-the-sea.json) |
@@ -10036,6 +10040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Six! | 88774 | [88774-six.json](./88774-six.json) |
 | Six. Eight. Two. | 281258 | [281258-six-eight-two.json](./281258-six-eight-two.json) |
+| Sixide | 285494 | [285494-sixide.json](./285494-sixide.json) |
 | Sixit | 145992 | [145992-sixit.json](./145992-sixit.json) |
 | Sixtar Gate: Startrail | 181103 | [181103-sixtar-gate-startrail.json](./181103-sixtar-gate-startrail.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
@@ -13901,6 +13906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
 | Solarflare | 405051 | [405051-solarflare.json](./405051-solarflare.json) |
 | Solargene | 149928 | [149928-solargene.json](./149928-solargene.json) |
+| Solaria | 285322 | [285322-solaria.json](./285322-solaria.json) |
 | Solaria Moon | 37395 | [37395-solaria-moon.json](./37395-solaria-moon.json) |
 | Solarian II | 229811 | [229811-solarian-ii.json](./229811-solarian-ii.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
@@ -18289,6 +18295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheriums | 189883 | [189883-spheriums.json](./189883-spheriums.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Sphero | 290298 | [290298-sphero.json](./290298-sphero.json) |
+| Spherocious | 285309 | [285309-spherocious.json](./285309-spherocious.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spheromania | 378361 | [378361-spheromania.json](./378361-spheromania.json) |
@@ -18794,6 +18801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Swap | 298111 | [298111-spirit-swap.json](./298111-spirit-swap.json) |
 | Spirit Talk | 386950 | [386950-spirit-talk.json](./386950-spirit-talk.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
+| Spirit Valley | 285319 | [285319-spirit-valley.json](./285319-spirit-valley.json) |
 | Spirit Valor | 319702 | [319702-spirit-valor.json](./319702-spirit-valor.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
 | Spirit Whirled | 68430 | [68430-spirit-whirled.json](./68430-spirit-whirled.json) |
@@ -25467,6 +25475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer and Poetry Journey | 308909 | [308909-summer-and-poetry-journey.json](./308909-summer-and-poetry-journey.json) |
 | Summer and Winter Sports Games Bundle: 4K Edition | 301778 | [301778-summer-and-winter-sports-games-bundle-4k-edition.json](./301778-summer-and-winter-sports-games-bundle-4k-edition.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
+| Summer at the Edge of the Universe | 285617 | [285617-summer-at-the-edge-of-the-universe.json](./285617-summer-at-the-edge-of-the-universe.json) |
 | Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
 | Summer Athletics 2009 | 21111 | [21111-summer-athletics-2009.json](./21111-summer-athletics-2009.json) |
 | Summer Beach | 275510 | [275510-summer-beach.json](./275510-summer-beach.json) |
