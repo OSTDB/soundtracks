@@ -4540,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
 | Korean Drone Flying Tour Donggeom-do | 342423 | [342423-korean-drone-flying-tour-donggeom-do.json](./342423-korean-drone-flying-tour-donggeom-do.json) |
 | Korean Drone Flying Tour Dongmak Beach | 342422 | [342422-korean-drone-flying-tour-dongmak-beach.json](./342422-korean-drone-flying-tour-dongmak-beach.json) |
+| Korean Drone Flying Tour East River | 332357 | [332357-korean-drone-flying-tour-east-river.json](./332357-korean-drone-flying-tour-east-river.json) |
 | Korean Drone Flying Tour Gangneung City | 330608 | [330608-korean-drone-flying-tour-gangneung-city.json](./330608-korean-drone-flying-tour-gangneung-city.json) |
 | Korean Drone Flying Tour Gapyeong-gun | 342421 | [342421-korean-drone-flying-tour-gapyeong-gun.json](./342421-korean-drone-flying-tour-gapyeong-gun.json) |
 | Korean Drone Flying Tour Geomdansan | 336426 | [336426-korean-drone-flying-tour-geomdansan.json](./336426-korean-drone-flying-tour-geomdansan.json) |
@@ -4556,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Pocheon-si | 351221 | [351221-korean-drone-flying-tour-pocheon-si.json](./351221-korean-drone-flying-tour-pocheon-si.json) |
 | Korean Drone Flying Tour Sang-jog-am | 357720 | [357720-korean-drone-flying-tour-sang-jog-am.json](./357720-korean-drone-flying-tour-sang-jog-am.json) |
 | Korean Drone Flying Tour Siheung-si | 345972 | [345972-korean-drone-flying-tour-siheung-si.json](./345972-korean-drone-flying-tour-siheung-si.json) |
+| Korean Drone Flying Tour Sogeumgang | 332356 | [332356-korean-drone-flying-tour-sogeumgang.json](./332356-korean-drone-flying-tour-sogeumgang.json) |
 | Korean Drone Flying Tour Soya-do | 343709 | [343709-korean-drone-flying-tour-soya-do.json](./343709-korean-drone-flying-tour-soya-do.json) |
 | Korean Drone Flying Tour Taean-gun | 336428 | [336428-korean-drone-flying-tour-taean-gun.json](./336428-korean-drone-flying-tour-taean-gun.json) |
 | Korean Drone Flying Tour Tomb of Prince Imyeong | 351222 | [351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json](./351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json) |
