@@ -2187,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zwölfzehn | 93186 | [93186-zwolfzehn.json](./93186-zwolfzehn.json) |
 | Zworx | 93489 | [93489-zworx.json](./93489-zworx.json) |
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
+| ZX Compendium | 319525 | [319525-zx-compendium.json](./319525-zx-compendium.json) |
 | ZX Spectrum Pac-Man Arcade | 281479 | [281479-zx-spectrum-pac-man-arcade.json](./281479-zx-spectrum-pac-man-arcade.json) |
 | ZX Terror House | 293359 | [293359-zx-terror-house.json](./293359-zx-terror-house.json) |
 | ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
