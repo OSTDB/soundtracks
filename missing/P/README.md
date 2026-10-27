@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: Rainbow Islands II | 48278 | [48278-parasol-stars-rainbow-islands-ii.json](./48278-parasol-stars-rainbow-islands-ii.json) |
 | Parasol Stars: The Story of Bubble Bobble III | 305618 | [305618-parasol-stars-the-story-of-bubble-bobble-iii.json](./305618-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasol Stars: The Story of Bubble Bobble III | 42101 | [42101-parasol-stars-the-story-of-bubble-bobble-iii.json](./42101-parasol-stars-the-story-of-bubble-bobble-iii.json) |
+| Parasomnia | 302412 | [302412-parasomnia.json](./302412-parasomnia.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
 | Parasomnia: No Rem | 318531 | [318531-parasomnia-no-rem.json](./318531-parasomnia-no-rem.json) |
 | Parasomnum | 269981 | [269981-parasomnum.json](./269981-parasomnum.json) |
@@ -4533,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Kiosk | 345708 | [345708-phantom-kiosk.json](./345708-phantom-kiosk.json) |
 | Phantom Lamb | 377906 | [377906-phantom-lamb.json](./377906-phantom-lamb.json) |
 | Phantom Legacy | 124527 | [124527-phantom-legacy.json](./124527-phantom-legacy.json) |
+| Phantom Line | 302324 | [302324-phantom-line.json](./302324-phantom-line.json) |
 | Phantom Mansion Chapter 1: The Red Chamber | 397699 | [397699-phantom-mansion-chapter-1-the-red-chamber.json](./397699-phantom-mansion-chapter-1-the-red-chamber.json) |
 | Phantom Mansion Chapter 2: The Orange Library | 397792 | [397792-phantom-mansion-chapter-2-the-orange-library.json](./397792-phantom-mansion-chapter-2-the-orange-library.json) |
 | Phantom Mansion II: Treasures of the Seven Seas - The Arabian Sea | 405128 | [405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json](./405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json) |
@@ -6681,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
 | Pixal Bitsonia | 419208 | [419208-pixal-bitsonia.json](./419208-pixal-bitsonia.json) |
 | Pixalo | 61310 | [61310-pixalo.json](./61310-pixalo.json) |
+| PixAnt Farm (Idle) | 302330 | [302330-pixant-farm-idle.json](./302330-pixant-farm-idle.json) |
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
 | Pixar Pals | 230398 | [230398-pixar-pals.json](./230398-pixar-pals.json) |
 | Pixar Pals Plus! | 230329 | [230329-pixar-pals-plus.json](./230329-pixar-pals-plus.json) |
@@ -15955,6 +15958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
 | Pyoro 64 | 142231 | [142231-pyoro-64.json](./142231-pyoro-64.json) |
 | Pyracurse | 28483 | [28483-pyracurse.json](./28483-pyracurse.json) |
+| Pyradice | 302337 | [302337-pyradice.json](./302337-pyradice.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
 | Pyramax | 12726 | [12726-pyramax.json](./12726-pyramax.json) |
 | PyraMaze | 177850 | [177850-pyramaze.json](./177850-pyramaze.json) |
