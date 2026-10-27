@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Project | 90855 | [90855-rain-project.json](./90855-rain-project.json) |
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
+| Rain Runner | 287062 | [287062-rain-runner.json](./287062-rain-runner.json) |
 | Rain Shower | 231745 | [231745-rain-shower.json](./231745-rain-shower.json) |
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
 | Rain Tactics | 274384 | [274384-rain-tactics.json](./274384-rain-tactics.json) |
