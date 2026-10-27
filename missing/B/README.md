@@ -820,7 +820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12703,6 +12702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Stars: Year Of The Tiger | 318578 | [318578-brawl-stars-year-of-the-tiger.json](./318578-brawl-stars-year-of-the-tiger.json) |
 | Brawl Tactics: Origins | 258089 | [258089-brawl-tactics-origins.json](./258089-brawl-tactics-origins.json) |
 | Brawl.io | 400068 | [400068-brawl-io.json](./400068-brawl-io.json) |
+| Brawl+ | 316120 | [316120-brawl.json](./316120-brawl.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
 | Brawlborn | 373049 | [373049-brawlborn.json](./373049-brawlborn.json) |
 | Brawler | 161606 | [161606-brawler.json](./161606-brawler.json) |
@@ -13934,6 +13934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bub-O Burst | 319075 | [319075-bub-o-burst.json](./319075-bub-o-burst.json) |
 | Bub-O Escape | 280739 | [280739-bub-o-escape.json](./280739-bub-o-escape.json) |
 | Bub's Big Blowout! | 265065 | [265065-bubs-big-blowout.json](./265065-bubs-big-blowout.json) |
+| Bub's Puzzle Blast! | 316032 | [316032-bubs-puzzle-blast.json](./316032-bubs-puzzle-blast.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba 'n' Stix | 11980 | [11980-bubba-n-stix.json](./11980-bubba-n-stix.json) |
 | Bubba in the Turd Dimension | 410990 | [410990-bubba-in-the-turd-dimension.json](./410990-bubba-in-the-turd-dimension.json) |
@@ -14534,6 +14535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buka | 96028 | [96028-buka.json](./96028-buka.json) |
 | Buki Buki! | 184837 | [184837-buki-buki.json](./184837-buki-buki.json) |
 | Bukkaku | 159186 | [159186-bukkaku.json](./159186-bukkaku.json) |
+| BuKnight: The Order of the Golden Crest | 316103 | [316103-buknight-the-order-of-the-golden-crest.json](./316103-buknight-the-order-of-the-golden-crest.json) |
 | Buku Sudoku | 74407 | [74407-buku-sudoku.json](./74407-buku-sudoku.json) |
 | Buku Sudoku Mahjongg Kakuro | 206693 | [206693-buku-sudoku-mahjongg-kakuro.json](./206693-buku-sudoku-mahjongg-kakuro.json) |
 | Bul Bakalım | 241468 | [241468-bul-bakal-m.json](./241468-bul-bakal-m.json) |
