@@ -3766,6 +3766,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: Before the Storm - Limited Edition | 82432 | [82432-life-is-strange-before-the-storm-limited-edition.json](./82432-life-is-strange-before-the-storm-limited-edition.json) |
 | Life is Strange: Before the Storm - Vinyl Edition | 82388 | [82388-life-is-strange-before-the-storm-vinyl-edition.json](./82388-life-is-strange-before-the-storm-vinyl-edition.json) |
 | Life is Strange: Before the Storm Remastered | 144776 | [144776-life-is-strange-before-the-storm-remastered.json](./144776-life-is-strange-before-the-storm-remastered.json) |
+| Life is Strange: Double Exposure - Deluxe Edition | 331257 | [331257-life-is-strange-double-exposure-deluxe-edition.json](./331257-life-is-strange-double-exposure-deluxe-edition.json) |
+| Life is Strange: Double Exposure - Ultimate Edition | 331258 | [331258-life-is-strange-double-exposure-ultimate-edition.json](./331258-life-is-strange-double-exposure-ultimate-edition.json) |
 | Life is Strange: Episode 1 - Chrysalis | 93914 | [93914-life-is-strange-episode-1-chrysalis.json](./93914-life-is-strange-episode-1-chrysalis.json) |
 | Life is Strange: Episode 2 - Out of Time | 93903 | [93903-life-is-strange-episode-2-out-of-time.json](./93903-life-is-strange-episode-2-out-of-time.json) |
 | Life is Strange: Episode 3 - Chaos Theory | 93904 | [93904-life-is-strange-episode-3-chaos-theory.json](./93904-life-is-strange-episode-3-chaos-theory.json) |
@@ -8212,6 +8214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
 | Luna: Shattered Hearts - Episode 1 | 36173 | [36173-luna-shattered-hearts-episode-1.json](./36173-luna-shattered-hearts-episode-1.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
+| Luna's Cathouse | 331220 | [331220-lunas-cathouse.json](./331220-lunas-cathouse.json) |
 | Luna's Diary | 382532 | [382532-lunas-diary.json](./382532-lunas-diary.json) |
 | Luna's Lab (Earth to Luna!) | 109546 | [109546-lunas-lab-earth-to-luna.json](./109546-lunas-lab-earth-to-luna.json) |
 | Luna's Postcards Around the World | 343381 | [343381-lunas-postcards-around-the-world.json](./343381-lunas-postcards-around-the-world.json) |
