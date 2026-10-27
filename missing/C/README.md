@@ -1250,6 +1250,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Defender | 380172 | [380172-cannon-defender.json](./380172-cannon-defender.json) |
 | Cannon Dinghies | 404768 | [404768-cannon-dinghies.json](./404768-cannon-dinghies.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
+| Cannon Fighter | 314839 | [314839-cannon-fighter.json](./314839-cannon-fighter.json) |
+| Cannon Fighter | 314840 | [314840-cannon-fighter.json](./314840-cannon-fighter.json) |
 | Cannon Fire | 83602 | [83602-cannon-fire.json](./83602-cannon-fire.json) |
 | Cannon Fire: Bloody Sea | 115568 | [115568-cannon-fire-bloody-sea.json](./115568-cannon-fire-bloody-sea.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
@@ -10440,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossus Mah Jong | 13507 | [13507-colossus-mah-jong.json](./13507-colossus-mah-jong.json) |
 | Colossus: Eternal Blight | 244913 | [244913-colossus-eternal-blight.json](./244913-colossus-eternal-blight.json) |
 | Colour Bind | 10101 | [10101-colour-bind.json](./10101-colour-bind.json) |
+| Colour Chain | 314841 | [314841-colour-chain.json](./314841-colour-chain.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
 | Colour My Dreams | 384039 | [384039-colour-my-dreams.json](./384039-colour-my-dreams.json) |
 | Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
