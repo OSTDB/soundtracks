@@ -5081,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim - El Lay | 377891 | [377891-session-skate-sim-el-lay.json](./377891-session-skate-sim-el-lay.json) |
 | Session: Skate Sim - Schoolyard | 293491 | [293491-session-skate-sim-schoolyard.json](./293491-session-skate-sim-schoolyard.json) |
 | Session: Skate Sim - Year 1 Pack | 285110 | [285110-session-skate-sim-year-1-pack.json](./285110-session-skate-sim-year-1-pack.json) |
+| Session: Skate Sim - Year One Complete Edition | 284760 | [284760-session-skate-sim-year-one-complete-edition.json](./284760-session-skate-sim-year-one-complete-edition.json) |
 | Session: Skate Sim - Year Two Pack | 331911 | [331911-session-skate-sim-year-two-pack.json](./331911-session-skate-sim-year-two-pack.json) |
 | Session: Skate Sim Waterpark & Chris Cole | 357406 | [357406-session-skate-sim-waterpark-and-chris-cole.json](./357406-session-skate-sim-waterpark-and-chris-cole.json) |
 | Session: Skate Sim Year One & Two Edition | 331843 | [331843-session-skate-sim-year-one-and-two-edition.json](./331843-session-skate-sim-year-one-and-two-edition.json) |
@@ -27665,6 +27666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nin-e Sisters | 277150 | [277150-super-nin-e-sisters.json](./277150-super-nin-e-sisters.json) |
 | Super Ninja | 299411 | [299411-super-ninja.json](./299411-super-ninja.json) |
 | Super Ninja Boy | 42603 | [42603-super-ninja-boy.json](./42603-super-ninja-boy.json) |
+| Super Ninja Bundle | 284869 | [284869-super-ninja-bundle.json](./284869-super-ninja-bundle.json) |
 | Super Ninja Hero VR | 31164 | [31164-super-ninja-hero-vr.json](./31164-super-ninja-hero-vr.json) |
 | Super Ninja Meow Cat | 115165 | [115165-super-ninja-meow-cat.json](./115165-super-ninja-meow-cat.json) |
 | Super Ninja Noodle Chef | 185598 | [185598-super-ninja-noodle-chef.json](./185598-super-ninja-noodle-chef.json) |
