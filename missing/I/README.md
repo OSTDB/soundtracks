@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Detective Umberto Theme Pack | 313706 | [313706-idle-champions-detective-umberto-theme-pack.json](./313706-idle-champions-detective-umberto-theme-pack.json) |
 | Idle Champions: Dr. Buzz Watson the Bee Familiar Pack | 313700 | [313700-idle-champions-dr-buzz-watson-the-bee-familiar-pack.json](./313700-idle-champions-dr-buzz-watson-the-bee-familiar-pack.json) |
 | Idle Champions: Eonstaryx the Time Dragon Familiar Pack | 277357 | [277357-idle-champions-eonstaryx-the-time-dragon-familiar-pack.json](./277357-idle-champions-eonstaryx-the-time-dragon-familiar-pack.json) |
+| Idle Champions: Feywild Fen Skin & Feat Pack | 285834 | [285834-idle-champions-feywild-fen-skin-and-feat-pack.json](./285834-idle-champions-feywild-fen-skin-and-feat-pack.json) |
 | Idle Champions: High Harper Jaheira Skin & Feat Pack | 303540 | [303540-idle-champions-high-harper-jaheira-skin-and-feat-pack.json](./303540-idle-champions-high-harper-jaheira-skin-and-feat-pack.json) |
 | Idle Champions: Icewind Dale Artemis Skin & Feat Pack | 303539 | [303539-idle-champions-icewind-dale-artemis-skin-and-feat-pack.json](./303539-idle-champions-icewind-dale-artemis-skin-and-feat-pack.json) |
 | Idle Champions: Infiltrator Nahara Skin & Feat Pack | 313704 | [313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json](./313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json) |
@@ -1185,11 +1186,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Masquerade Ball Rust Theme Pack | 313695 | [313695-idle-champions-masquerade-ball-rust-theme-pack.json](./313695-idle-champions-masquerade-ball-rust-theme-pack.json) |
 | Idle Champions: Mind Flayer Dark Urge Theme Pack | 289845 | [289845-idle-champions-mind-flayer-dark-urge-theme-pack.json](./289845-idle-champions-mind-flayer-dark-urge-theme-pack.json) |
 | Idle Champions: Mind Flayer Gale Theme Pack | 295363 | [295363-idle-champions-mind-flayer-gale-theme-pack.json](./295363-idle-champions-mind-flayer-gale-theme-pack.json) |
+| Idle Champions: Mind Flayer Karlach Theme Pack | 285835 | [285835-idle-champions-mind-flayer-karlach-theme-pack.json](./285835-idle-champions-mind-flayer-karlach-theme-pack.json) |
 | Idle Champions: Minute the Marut Familiar Pack | 274658 | [274658-idle-champions-minute-the-marut-familiar-pack.json](./274658-idle-champions-minute-the-marut-familiar-pack.json) |
 | Idle Champions: Ms. Squiggles the Octopus Familiar Pack | 306079 | [306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json](./306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json) |
 | Idle Champions: Mythic Diana Theme Pack | 303538 | [303538-idle-champions-mythic-diana-theme-pack.json](./303538-idle-champions-mythic-diana-theme-pack.json) |
 | Idle Champions: Mythic Freely Skin & Feat Pack | 255982 | [255982-idle-champions-mythic-freely-skin-and-feat-pack.json](./255982-idle-champions-mythic-freely-skin-and-feat-pack.json) |
 | Idle Champions: Mythic Ishi Skin & Feat Pack | 254376 | [254376-idle-champions-mythic-ishi-skin-and-feat-pack.json](./254376-idle-champions-mythic-ishi-skin-and-feat-pack.json) |
+| Idle Champions: Mythic Presto Theme Pack | 285840 | [285840-idle-champions-mythic-presto-theme-pack.json](./285840-idle-champions-mythic-presto-theme-pack.json) |
 | Idle Champions: Painted Tortle Gromma Theme Pack | 303537 | [303537-idle-champions-painted-tortle-gromma-theme-pack.json](./303537-idle-champions-painted-tortle-gromma-theme-pack.json) |
 | Idle Champions: Plushie Evandra Skin & Feat Pack | 303536 | [303536-idle-champions-plushie-evandra-skin-and-feat-pack.json](./303536-idle-champions-plushie-evandra-skin-and-feat-pack.json) |
 | Idle Champions: Plushie Nixie Skin & Feat Pack | 303535 | [303535-idle-champions-plushie-nixie-skin-and-feat-pack.json](./303535-idle-champions-plushie-nixie-skin-and-feat-pack.json) |
@@ -1197,6 +1200,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Sherlock Combs the Bee Familiar Pack | 313698 | [313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json](./313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json) |
 | Idle Champions: Solarya the Ki-rin Familiar Pack | 306075 | [306075-idle-champions-solarya-the-ki-rin-familiar-pack.json](./306075-idle-champions-solarya-the-ki-rin-familiar-pack.json) |
 | Idle Champions: Spelljammer Pilot Celeste Skin & Feat Pack | 274959 | [274959-idle-champions-spelljammer-pilot-celeste-skin-and-feat-pack.json](./274959-idle-champions-spelljammer-pilot-celeste-skin-and-feat-pack.json) |
+| Idle Champions: Spelljammer Pilot Gromma Skin & Feat Pack | 285838 | [285838-idle-champions-spelljammer-pilot-gromma-skin-and-feat-pack.json](./285838-idle-champions-spelljammer-pilot-gromma-skin-and-feat-pack.json) |
+| Idle Champions: Spelljammer Pilot Vi Skin & Feat Pack | 285839 | [285839-idle-champions-spelljammer-pilot-vi-skin-and-feat-pack.json](./285839-idle-champions-spelljammer-pilot-vi-skin-and-feat-pack.json) |
 | Idle Champions: Spymaster Aeon Theme Pack | 313707 | [313707-idle-champions-spymaster-aeon-theme-pack.json](./313707-idle-champions-spymaster-aeon-theme-pack.json) |
 | Idle Champions: Triton Glitch Nayeli Skin & Feat Pack | 313699 | [313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json](./313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json) |
 | Idle Champions: Undead Knight Solaak Skin & Feat Pack | 289848 | [289848-idle-champions-undead-knight-solaak-skin-and-feat-pack.json](./289848-idle-champions-undead-knight-solaak-skin-and-feat-pack.json) |
@@ -1207,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Wyrm Slayer Nova Skin & Feat Pack | 313710 | [313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json](./313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer Ravengard Theme Pack | 304429 | [304429-idle-champions-wyrm-slayer-ravengard-theme-pack.json](./304429-idle-champions-wyrm-slayer-ravengard-theme-pack.json) |
 | Idle Champions: Wyrm Slayer Selise Skin & Feat Pack | 306076 | [306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json](./306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json) |
+| Idle Champions: Xalimnos the Xorn Familiar Pack | 285836 | [285836-idle-champions-xalimnos-the-xorn-familiar-pack.json](./285836-idle-champions-xalimnos-the-xorn-familiar-pack.json) |
 | Idle Champions: Yuan-ti Glitch Havilar Skin & Feat Pack | 313701 | [313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json](./313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json) |
 | Idle Chess Story | 117793 | [117793-idle-chess-story.json](./117793-idle-chess-story.json) |
 | Idle Cinema Empire | 231937 | [231937-idle-cinema-empire.json](./231937-idle-cinema-empire.json) |
@@ -1813,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Fortresses and Focke-Wulfs - Dieppe | 272376 | [272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json](./272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json) |
 | IL-2 Sturmovik: Great Battles | 125836 | [125836-il-2-sturmovik-great-battles.json](./125836-il-2-sturmovik-great-battles.json) |
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
+| IL-2 Sturmovik: La-5F Series 38 Collector Plane | 285613 | [285613-il-2-sturmovik-la-5f-series-38-collector-plane.json](./285613-il-2-sturmovik-la-5f-series-38-collector-plane.json) |
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
 | IL-2 Sturmovik: Sky Nomads Campaign | 254906 | [254906-il-2-sturmovik-sky-nomads-campaign.json](./254906-il-2-sturmovik-sky-nomads-campaign.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
@@ -4373,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intimate Relationship | 189998 | [189998-intimate-relationship.json](./189998-intimate-relationship.json) |
 | Intimate, Infinite | 134009 | [134009-intimate-infinite.json](./134009-intimate-infinite.json) |
 | Intlovert Game Club | 342756 | [342756-intlovert-game-club.json](./342756-intlovert-game-club.json) |
+| Into | 285493 | [285493-into.json](./285493-into.json) |
 | Into a Dream | 129629 | [129629-into-a-dream.json](./129629-into-a-dream.json) |
 | Into a Hearth Yonder | 341682 | [341682-into-a-hearth-yonder.json](./341682-into-a-hearth-yonder.json) |
 | Into Abby's Head | 180549 | [180549-into-abbys-head.json](./180549-into-abbys-head.json) |
