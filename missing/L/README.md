@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
 | Launcher Heroes | 236817 | [236817-launcher-heroes.json](./236817-launcher-heroes.json) |
 | Launching Over It | 342796 | [342796-launching-over-it.json](./342796-launching-over-it.json) |
+| Laundering Simulator | 332383 | [332383-laundering-simulator.json](./332383-laundering-simulator.json) |
 | Launderley | 374304 | [374304-launderley.json](./374304-launderley.json) |
 | Laundro-Mess | 185551 | [185551-laundro-mess.json](./185551-laundro-mess.json) |
 | Laundromat 8 | 414615 | [414615-laundromat-8.json](./414615-laundromat-8.json) |
@@ -2244,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
 | Legend of the Hunter: House of Dragons | 313221 | [313221-legend-of-the-hunter-house-of-dragons.json](./313221-legend-of-the-hunter-house-of-dragons.json) |
+| Legend of the Kitties: Return of Echoes | 332355 | [332355-legend-of-the-kitties-return-of-echoes.json](./332355-legend-of-the-kitties-return-of-echoes.json) |
 | Legend of the Knucker-Hole | 62452 | [62452-legend-of-the-knucker-hole.json](./62452-legend-of-the-knucker-hole.json) |
 | Legend of the Lost Dragons | 134580 | [134580-legend-of-the-lost-dragons.json](./134580-legend-of-the-lost-dragons.json) |
 | Legend of the Ma On | 252662 | [252662-legend-of-the-ma-on.json](./252662-legend-of-the-ma-on.json) |
@@ -4192,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Ishin! - Sword Upgrade Materials Kit | 239214 | [239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json](./239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json) |
 | Like a Dragon: Ishin! - Third Division Armament Expansion Kit | 239213 | [239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json](./239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Collector's Edition | 327838 | [327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json](./327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json) |
+| Like a Dragon: Pirate Yakuza in Hawaii - Deluxe Edition | 332379 | [332379-like-a-dragon-pirate-yakuza-in-hawaii-deluxe-edition.json](./332379-like-a-dragon-pirate-yakuza-in-hawaii-deluxe-edition.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Extra Karaoke & CD Pack | 374435 | [374435-like-a-dragon-pirate-yakuza-in-hawaii-extra-karaoke-and-cd-pack.json](./374435-like-a-dragon-pirate-yakuza-in-hawaii-extra-karaoke-and-cd-pack.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Ichiban Pirate Crew Set | 374658 | [374658-like-a-dragon-pirate-yakuza-in-hawaii-ichiban-pirate-crew-set.json](./374658-like-a-dragon-pirate-yakuza-in-hawaii-ichiban-pirate-crew-set.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Ichiban Special Outfit Set | 374659 | [374659-like-a-dragon-pirate-yakuza-in-hawaii-ichiban-special-outfit-set.json](./374659-like-a-dragon-pirate-yakuza-in-hawaii-ichiban-special-outfit-set.json) |
