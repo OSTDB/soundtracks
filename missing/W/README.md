@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Upside Town | 241306 | [241306-walkabout-mini-golf-upside-town.json](./241306-walkabout-mini-golf-upside-town.json) |
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
 | Walkabout Mini Golf: Viva Las Elvis | 360338 | [360338-walkabout-mini-golf-viva-las-elvis.json](./360338-walkabout-mini-golf-viva-las-elvis.json) |
+| Walkabout Mini Golf: Wallace & Gromit | 306930 | [306930-walkabout-mini-golf-wallace-and-gromit.json](./306930-walkabout-mini-golf-wallace-and-gromit.json) |
 | Walkabout Mini Golf: Widow's Walkabout | 271918 | [271918-walkabout-mini-golf-widows-walkabout.json](./271918-walkabout-mini-golf-widows-walkabout.json) |
 | WalkBot | 212915 | [212915-walkbot.json](./212915-walkbot.json) |
 | Walker | 12818 | [12818-walker.json](./12818-walker.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
 | What Remains | 318969 | [318969-what-remains.json](./318969-what-remains.json) |
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
+| What the Bat?: Batty Goes to Battywood | 306932 | [306932-what-the-bat-batty-goes-to-battywood.json](./306932-what-the-bat-batty-goes-to-battywood.json) |
 | What the Block | 65327 | [65327-what-the-block.json](./65327-what-the-block.json) |
 | What the Car? | 248580 | [248580-what-the-car.json](./248580-what-the-car.json) |
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
@@ -5975,6 +5977,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein 3D | 306982 | [306982-wolfenstein-3d.json](./306982-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306984 | [306984-wolfenstein-3d.json](./306984-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306985 | [306985-wolfenstein-3d.json](./306985-wolfenstein-3d.json) |
+| Wolfenstein 3D | 307024 | [307024-wolfenstein-3d.json](./307024-wolfenstein-3d.json) |
+| Wolfenstein 3D | 307025 | [307025-wolfenstein-3d.json](./307025-wolfenstein-3d.json) |
+| Wolfenstein 3D Classic | 307004 | [307004-wolfenstein-3d-classic.json](./307004-wolfenstein-3d-classic.json) |
 | Wolfenstein 3D VR | 182821 | [182821-wolfenstein-3d-vr.json](./182821-wolfenstein-3d-vr.json) |
 | Wolfenstein 3D: Coffee Break | 308974 | [308974-wolfenstein-3d-coffee-break.json](./308974-wolfenstein-3d-coffee-break.json) |
 | Wolfenstein 3D: Second Encounter | 306961 | [306961-wolfenstein-3d-second-encounter.json](./306961-wolfenstein-3d-second-encounter.json) |
