@@ -7766,6 +7766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: The Curse of the Crimson Shadow - Collector's Edition | 174039 | [174039-city-legends-the-curse-of-the-crimson-shadow-collectors-edition.json](./174039-city-legends-the-curse-of-the-crimson-shadow-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
+| City Legends: The Witness in the Rye DLC | 312068 | [312068-city-legends-the-witness-in-the-rye-dlc.json](./312068-city-legends-the-witness-in-the-rye-dlc.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life 2008 | 15719 | [15719-city-life-2008.json](./15719-city-life-2008.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
@@ -16087,6 +16088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube's Kaizo World 4 | 338844 | [338844-cubes-kaizo-world-4.json](./338844-cubes-kaizo-world-4.json) |
 | CubeBall VR | 28806 | [28806-cubeball-vr.json](./28806-cubeball-vr.json) |
 | Cubebam | 284981 | [284981-cubebam.json](./284981-cubebam.json) |
+| Cubecat | 311979 | [311979-cubecat.json](./311979-cubecat.json) |
 | CubeCaust | 412300 | [412300-cubecaust.json](./412300-cubecaust.json) |
 | CubeCrafter | 248596 | [248596-cubecrafter.json](./248596-cubecrafter.json) |
 | CubeCubeRubik | 284982 | [284982-cubecuberubik.json](./284982-cubecuberubik.json) |
@@ -16667,6 +16669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House 15 | 365050 | [365050-cursed-house-15.json](./365050-cursed-house-15.json) |
 | Cursed House 16 | 407845 | [407845-cursed-house-16.json](./407845-cursed-house-16.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
+| Cursed House 4 | 312038 | [312038-cursed-house-4.json](./312038-cursed-house-4.json) |
 | Cursed House 5 | 313665 | [313665-cursed-house-5.json](./313665-cursed-house-5.json) |
 | Cursed House 6 | 419591 | [419591-cursed-house-6.json](./419591-cursed-house-6.json) |
 | Cursed House 7 | 337215 | [337215-cursed-house-7.json](./337215-cursed-house-7.json) |
