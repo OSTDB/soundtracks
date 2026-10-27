@@ -9767,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jungle Book | 248190 | [248190-the-jungle-book.json](./248190-the-jungle-book.json) |
 | The Jungle Book 2 | 186649 | [186649-the-jungle-book-2.json](./186649-the-jungle-book-2.json) |
 | The Jungle Book: Mowgli's Run | 58644 | [58644-the-jungle-book-mowglis-run.json](./58644-the-jungle-book-mowglis-run.json) |
+| The Jungle Book: New Wonder Adventures | 317883 | [317883-the-jungle-book-new-wonder-adventures.json](./317883-the-jungle-book-new-wonder-adventures.json) |
 | The Jungle Challenge | 366776 | [366776-the-jungle-challenge.json](./366776-the-jungle-challenge.json) |
 | The Junkyard | 337509 | [337509-the-junkyard.json](./337509-the-junkyard.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
@@ -12496,6 +12497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Palms | 137850 | [137850-the-palms.json](./137850-the-palms.json) |
 | The Pancakes Official Game Show | 176247 | [176247-the-pancakes-official-game-show.json](./176247-the-pancakes-official-game-show.json) |
 | The Pandemonium | 276377 | [276377-the-pandemonium.json](./276377-the-pandemonium.json) |
+| The Pane Puzzle | 317795 | [317795-the-pane-puzzle.json](./317795-the-pane-puzzle.json) |
 | The Pane Puzzle: The Real Challenge DLC 1 | 339717 | [339717-the-pane-puzzle-the-real-challenge-dlc-1.json](./339717-the-pane-puzzle-the-real-challenge-dlc-1.json) |
 | The Pane Puzzle: The Real Challenge DLC 2 | 339718 | [339718-the-pane-puzzle-the-real-challenge-dlc-2.json](./339718-the-pane-puzzle-the-real-challenge-dlc-2.json) |
 | The Panel DC | 119720 | [119720-the-panel-dc.json](./119720-the-panel-dc.json) |
@@ -13558,6 +13560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scream of Darkness | 379397 | [379397-the-scream-of-darkness.json](./379397-the-scream-of-darkness.json) |
 | The ScreaMaze | 114230 | [114230-the-screamaze.json](./114230-the-screamaze.json) |
 | The Screamer | 62616 | [62616-the-screamer.json](./62616-the-screamer.json) |
+| The Screecher | 317772 | [317772-the-screecher.json](./317772-the-screecher.json) |
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
 | The Scroll of Akbar Khan | 232553 | [232553-the-scroll-of-akbar-khan.json](./232553-the-scroll-of-akbar-khan.json) |
 | The Scroll of Black Loong | 298422 | [298422-the-scroll-of-black-loong.json](./298422-the-scroll-of-black-loong.json) |
@@ -22338,6 +22341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tou Ikkyoku Gojyuusan Honba | 360085 | [360085-tou-ikkyoku-gojyuusan-honba.json](./360085-tou-ikkyoku-gojyuusan-honba.json) |
 | Tou no Shita no Exercitus | 77827 | [77827-tou-no-shita-no-exercitus.json](./77827-tou-no-shita-no-exercitus.json) |
 | Toubatsu | 385825 | [385825-toubatsu.json](./385825-toubatsu.json) |
+| Toucan Adventure: Rio de Janeiro | 317884 | [317884-toucan-adventure-rio-de-janeiro.json](./317884-toucan-adventure-rio-de-janeiro.json) |
 | Toucan Rampage: Sandstorm Shooter | 278358 | [278358-toucan-rampage-sandstorm-shooter.json](./278358-toucan-rampage-sandstorm-shooter.json) |
 | Touch | 256328 | [256328-touch.json](./256328-touch.json) |
 | Touch 'N' Play Collection | 206746 | [206746-touch-n-play-collection.json](./206746-touch-n-play-collection.json) |
