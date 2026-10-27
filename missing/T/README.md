@@ -10709,6 +10709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Sword and Fairy 6: Limited Edition | 167085 | [167085-the-legend-of-sword-and-fairy-6-limited-edition.json](./167085-the-legend-of-sword-and-fairy-6-limited-edition.json) |
 | The Legend of Sword and Fairy 7: Dreamlike World | 235192 | [235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json](./235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json) |
 | The Legend of Tango | 34641 | [34641-the-legend-of-tango.json](./34641-the-legend-of-tango.json) |
+| The Legend Of Tartar | 316042 | [316042-the-legend-of-tartar.json](./316042-the-legend-of-tartar.json) |
 | The Legend of Thabor: Rise of the Mages | 329045 | [329045-the-legend-of-thabor-rise-of-the-mages.json](./329045-the-legend-of-thabor-rise-of-the-mages.json) |
 | The Legend of The Artifact | 59847 | [59847-the-legend-of-the-artifact.json](./59847-the-legend-of-the-artifact.json) |
 | The Legend of the Artifact Remastered | 58596 | [58596-the-legend-of-the-artifact-remastered.json](./58596-the-legend-of-the-artifact-remastered.json) |
@@ -22125,6 +22126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Soccer 2000 | 73353 | [73353-total-soccer-2000.json](./73353-total-soccer-2000.json) |
 | Total Soccer Manager | 49343 | [49343-total-soccer-manager.json](./49343-total-soccer-manager.json) |
 | Total Sports | 94637 | [94637-total-sports.json](./94637-total-sports.json) |
+| Total Supremacy | 316046 | [316046-total-supremacy.json](./316046-total-supremacy.json) |
 | Total Survival Simulator | 407361 | [407361-total-survival-simulator.json](./407361-total-survival-simulator.json) |
 | Total Tank Generals | 215725 | [215725-total-tank-generals.json](./215725-total-tank-generals.json) |
 | Total Tank Simulator | 75252 | [75252-total-tank-simulator.json](./75252-total-tank-simulator.json) |
