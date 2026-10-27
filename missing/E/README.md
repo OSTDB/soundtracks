@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
 | Elemental: War of Magic | 20451 | [20451-elemental-war-of-magic.json](./20451-elemental-war-of-magic.json) |
 | Elementalism | 269464 | [269464-elementalism.json](./269464-elementalism.json) |
+| Elementalist | 309400 | [309400-elementalist.json](./309400-elementalist.json) |
 | Elementalist: 0 | 182995 | [182995-elementalist-0.json](./182995-elementalist-0.json) |
 | Elementalist.io | 184104 | [184104-elementalist-io.json](./184104-elementalist-io.json) |
 | ElementalMaster Luna: The Moon Goddess And Lost Memories | 219247 | [219247-elementalmaster-luna-the-moon-goddess-and-lost-memories.json](./219247-elementalmaster-luna-the-moon-goddess-and-lost-memories.json) |
@@ -6514,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus: Proxima Centauri | 106323 | [106323-exodus-proxima-centauri.json](./106323-exodus-proxima-centauri.json) |
 | Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
 | Exodus: The Last War | 69930 | [69930-exodus-the-last-war.json](./69930-exodus-the-last-war.json) |
+| Exodus: The Rise of Chaos | 309397 | [309397-exodus-the-rise-of-chaos.json](./309397-exodus-the-rise-of-chaos.json) |
 | Exofinity Clicker | 383579 | [383579-exofinity-clicker.json](./383579-exofinity-clicker.json) |
 | Exoforge | 332931 | [332931-exoforge.json](./332931-exoforge.json) |
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
@@ -6850,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Catch: Boat Crab & Fishing Simulator | 336454 | [336454-extreme-catch-boat-crab-and-fishing-simulator.json](./336454-extreme-catch-boat-crab-and-fishing-simulator.json) |
 | Extreme City Delivery: Bike Ride Simulator | 323703 | [323703-extreme-city-delivery-bike-ride-simulator.json](./323703-extreme-city-delivery-bike-ride-simulator.json) |
 | Extreme Cleaning Simulator | 423200 | [423200-extreme-cleaning-simulator.json](./423200-extreme-cleaning-simulator.json) |
+| Extreme Climbing Mirage City | 309406 | [309406-extreme-climbing-mirage-city.json](./309406-extreme-climbing-mirage-city.json) |
 | Extreme Custom Night | 277965 | [277965-extreme-custom-night.json](./277965-extreme-custom-night.json) |
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
