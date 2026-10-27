@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcata | 125459 | [125459-falcata.json](./125459-falcata.json) |
 | Falco Totem Destroyer | 311216 | [311216-falco-totem-destroyer.json](./311216-falco-totem-destroyer.json) |
 | Falco Tunes | 301843 | [301843-falco-tunes.json](./301843-falco-tunes.json) |
+| Falco Xolon | 330474 | [330474-falco-xolon.json](./330474-falco-xolon.json) |
 | Falcomaster3000: Episode 1 | 179605 | [179605-falcomaster3000-episode-1.json](./179605-falcomaster3000-episode-1.json) |
 | Falcon | 12088 | [12088-falcon.json](./12088-falcon.json) |
 | Falcon 2023 | 283055 | [283055-falcon-2023.json](./283055-falcon-2023.json) |
@@ -7535,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follower A | 178510 | [178510-follower-a.json](./178510-follower-a.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
 | Following Seas | 293686 | [293686-following-seas.json](./293686-following-seas.json) |
+| Following Spandaramet | 330468 | [330468-following-spandaramet.json](./330468-following-spandaramet.json) |
 | Folly Of The Wizards | 253946 | [253946-folly-of-the-wizards.json](./253946-folly-of-the-wizards.json) |
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
 | FoMO | 272771 | [272771-fomo.json](./272771-fomo.json) |
