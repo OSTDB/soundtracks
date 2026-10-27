@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Sim 2020 | 147694 | [147694-farmer-sim-2020.json](./147694-farmer-sim-2020.json) |
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
 | Farmer Simulator 17 : New Harvest | 96557 | [96557-farmer-simulator-17-new-harvest.json](./96557-farmer-simulator-17-new-harvest.json) |
+| Farmer Simulator Evolution | 288161 | [288161-farmer-simulator-evolution.json](./288161-farmer-simulator-evolution.json) |
 | Farmer Survivors | 270516 | [270516-farmer-survivors.json](./270516-farmer-survivors.json) |
 | Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
@@ -5582,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
 | Fishhead: Blueprint | 142805 | [142805-fishhead-blueprint.json](./142805-fishhead-blueprint.json) |
 | Fishie Fishie | 79878 | [79878-fishie-fishie.json](./79878-fishie-fishie.json) |
+| Fishin' for Average Caucasian Boyfriends | 288176 | [288176-fishin-for-average-caucasian-boyfriends.json](./288176-fishin-for-average-caucasian-boyfriends.json) |
 | Fishin' Frenzy | 39421 | [39421-fishin-frenzy.json](./39421-fishin-frenzy.json) |
 | Fishing | 209435 | [209435-fishing.json](./209435-fishing.json) |
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
@@ -8311,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Ago | 136299 | [136299-forever-ago.json](./136299-forever-ago.json) |
+| Forever Blue Luminous | 288165 | [288165-forever-blue-luminous.json](./288165-forever-blue-luminous.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
 | Forever Forest | 113461 | [113461-forever-forest.json](./113461-forever-forest.json) |
 | Forever Fox | 106487 | [106487-forever-fox.json](./106487-forever-fox.json) |
@@ -8974,6 +8977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune & Gloria | 105324 | [105324-fortune-and-gloria.json](./105324-fortune-and-gloria.json) |
 | Fortune and Glory | 388125 | [388125-fortune-and-glory.json](./388125-fortune-and-glory.json) |
 | Fortune Arterial | 91514 | [91514-fortune-arterial.json](./91514-fortune-arterial.json) |
+| Fortune Avenue | 288180 | [288180-fortune-avenue.json](./288180-fortune-avenue.json) |
 | Fortune Builder | 40895 | [40895-fortune-builder.json](./40895-fortune-builder.json) |
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
 | Fortune Cookie | 59928 | [59928-fortune-cookie.json](./59928-fortune-cookie.json) |
@@ -11339,6 +11343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun with Cubes | 233122 | [233122-fun-with-cubes.json](./233122-fun-with-cubes.json) |
 | Fun with Friends and Trampolines | 367369 | [367369-fun-with-friends-and-trampolines.json](./367369-fun-with-friends-and-trampolines.json) |
 | Fun with Numbers | 91817 | [91817-fun-with-numbers.json](./91817-fun-with-numbers.json) |
+| Fun with Penis for Cyberpunk Sex | 288245 | [288245-fun-with-penis-for-cyberpunk-sex.json](./288245-fun-with-penis-for-cyberpunk-sex.json) |
 | Fun with Penis for Sex Motel | 288888 | [288888-fun-with-penis-for-sex-motel.json](./288888-fun-with-penis-for-sex-motel.json) |
 | Fun with Ragdolls: The Game | 123468 | [123468-fun-with-ragdolls-the-game.json](./123468-fun-with-ragdolls-the-game.json) |
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
