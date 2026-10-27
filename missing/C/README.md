@@ -5056,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Theory | 114298 | [114298-chaos-theory.json](./114298-chaos-theory.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
 | Chaos Town | 36819 | [36819-chaos-town.json](./36819-chaos-town.json) |
+| Chaos Trigger | 296860 | [296860-chaos-trigger.json](./296860-chaos-trigger.json) |
 | Chaos Uproar | 188949 | [188949-chaos-uproar.json](./188949-chaos-uproar.json) |
 | Chaos Village | 114822 | [114822-chaos-village.json](./114822-chaos-village.json) |
 | Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
@@ -16276,6 +16277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubical | 408745 | [408745-cubical.json](./408745-cubical.json) |
 | Cubicatch | 273809 | [273809-cubicatch.json](./273809-cubicatch.json) |
 | CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
+| Cubicle Farter | 296863 | [296863-cubicle-farter.json](./296863-cubicle-farter.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | Cubico | 120787 | [120787-cubico.json](./120787-cubico.json) |
 | Cubicolor | 282717 | [282717-cubicolor.json](./282717-cubicolor.json) |
