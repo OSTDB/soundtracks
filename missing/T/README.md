@@ -5733,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boogie Man | 46987 | [46987-the-boogie-man.json](./46987-the-boogie-man.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
+| The Book of Buja | 305248 | [305248-the-book-of-buja.json](./305248-the-book-of-buja.json) |
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Desires | 33874 | [33874-the-book-of-desires.json](./33874-the-book-of-desires.json) |
@@ -6550,6 +6551,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Porsche Triple Car Pack | 408886 | [408886-the-crew-motorfest-porsche-triple-car-pack.json](./408886-the-crew-motorfest-porsche-triple-car-pack.json) |
 | The Crew: Motorfest - RC Frenzy Pack | 408845 | [408845-the-crew-motorfest-rc-frenzy-pack.json](./408845-the-crew-motorfest-rc-frenzy-pack.json) |
 | The Crew: Motorfest - Season 10 | 408914 | [408914-the-crew-motorfest-season-10.json](./408914-the-crew-motorfest-season-10.json) |
+| The Crew: Motorfest - Season 4 | 305242 | [305242-the-crew-motorfest-season-4.json](./305242-the-crew-motorfest-season-4.json) |
+| The Crew: Motorfest - Season 5 | 305244 | [305244-the-crew-motorfest-season-5.json](./305244-the-crew-motorfest-season-5.json) |
+| The Crew: Motorfest - Season 6 | 305245 | [305245-the-crew-motorfest-season-6.json](./305245-the-crew-motorfest-season-6.json) |
+| The Crew: Motorfest - Season 7 | 305243 | [305243-the-crew-motorfest-season-7.json](./305243-the-crew-motorfest-season-7.json) |
 | The Crew: Motorfest - Season 8 | 408847 | [408847-the-crew-motorfest-season-8.json](./408847-the-crew-motorfest-season-8.json) |
 | The Crew: Motorfest - Season 9 | 408911 | [408911-the-crew-motorfest-season-9.json](./408911-the-crew-motorfest-season-9.json) |
 | The Crew: Motorfest - Triple Bike Pack | 393737 | [393737-the-crew-motorfest-triple-bike-pack.json](./393737-the-crew-motorfest-triple-bike-pack.json) |
@@ -16209,6 +16214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wired Narrative Bundle | 250173 | [250173-the-wired-narrative-bundle.json](./250173-the-wired-narrative-bundle.json) |
 | The Wisbey Mystery | 29880 | [29880-the-wisbey-mystery.json](./29880-the-wisbey-mystery.json) |
 | The Wisdom and/or Madness of Crowds | 102068 | [102068-the-wisdom-and-or-madness-of-crowds.json](./102068-the-wisdom-and-or-madness-of-crowds.json) |
+| The Wisdom of the Minotaur | 305257 | [305257-the-wisdom-of-the-minotaur.json](./305257-the-wisdom-of-the-minotaur.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Wishing Flower | 225761 | [225761-the-wishing-flower.json](./225761-the-wishing-flower.json) |
 | The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
@@ -21249,6 +21255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy’s The Division 2: Into the Dark Bundle | 408897 | [408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json](./408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json) |
 | Tom Clancy's The Division 2: New York DLC Bundle | 377722 | [377722-tom-clancys-the-division-2-new-york-dlc-bundle.json](./377722-tom-clancys-the-division-2-new-york-dlc-bundle.json) |
 | Tom Clancy’s The Division 2: Red Eye Pack | 377721 | [377721-tom-clancy-s-the-division-2-red-eye-pack.json](./377721-tom-clancy-s-the-division-2-red-eye-pack.json) |
+| Tom Clancy's The Division 2: Season 1 - First Rogue | 305236 | [305236-tom-clancys-the-division-2-season-1-first-rogue.json](./305236-tom-clancys-the-division-2-season-1-first-rogue.json) |
 | Tom Clancy’s The Division 2: Shady Pack | 408898 | [408898-tom-clancy-s-the-division-2-shady-pack.json](./408898-tom-clancy-s-the-division-2-shady-pack.json) |
 | Tom Clancy's The Division 2: The Pact | 379933 | [379933-tom-clancys-the-division-2-the-pact.json](./379933-tom-clancys-the-division-2-the-pact.json) |
 | Tom Clancy's The Division 2: The Phoenix Shield Edition | 112645 | [112645-tom-clancys-the-division-2-the-phoenix-shield-edition.json](./112645-tom-clancys-the-division-2-the-phoenix-shield-edition.json) |
@@ -26056,7 +26063,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
 | Trial Xtreme Freedom | 199975 | [199975-trial-xtreme-freedom.json](./199975-trial-xtreme-freedom.json) |
+| Trials | 305132 | [305132-trials.json](./305132-trials.json) |
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
+| Trials Bike Basic | 305133 | [305133-trials-bike-basic.json](./305133-trials-bike-basic.json) |
+| Trials Bike Pro | 305134 | [305134-trials-bike-pro.json](./305134-trials-bike-pro.json) |
 | Trials Construction Yard | 305135 | [305135-trials-construction-yard.json](./305135-trials-construction-yard.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
 | Trials Evolution: Origin of Pain | 22190 | [22190-trials-evolution-origin-of-pain.json](./22190-trials-evolution-origin-of-pain.json) |
