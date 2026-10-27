@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.OD | 281253 | [281253-l-od.json](./281253-l-od.json) |
 | L.S.D.: Lasting Spiritual Derangement | 174018 | [174018-l-s-d-lasting-spiritual-derangement.json](./174018-l-s-d-lasting-spiritual-derangement.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
+| L'Abbaye des Morts | 299101 | [299101-labbaye-des-morts.json](./299101-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 93452 | [93452-labbaye-des-morts.json](./93452-labbaye-des-morts.json) |
 | L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
 | L'Agonie Finale | 274115 | [274115-lagonie-finale.json](./274115-lagonie-finale.json) |
@@ -2034,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left to Die in Zombhai | 336509 | [336509-left-to-die-in-zombhai.json](./336509-left-to-die-in-zombhai.json) |
 | Left to My Own Devices | 180239 | [180239-left-to-my-own-devices.json](./180239-left-to-my-own-devices.json) |
 | Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
+| Left Turn Legend | 297515 | [297515-left-turn-legend.json](./297515-left-turn-legend.json) |
 | Left-Hand Path | 32901 | [32901-left-hand-path.json](./32901-left-hand-path.json) |
 | Left-Right: The Mansion | 114202 | [114202-left-right-the-mansion.json](./114202-left-right-the-mansion.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
@@ -4387,6 +4389,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limbus | 310118 | [310118-limbus.json](./310118-limbus.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
+| Limbus Company: Season 3 - Bon Voyage | 297432 | [297432-limbus-company-season-3-bon-voyage.json](./297432-limbus-company-season-3-bon-voyage.json) |
+| Limbus Company: Season 4 - Clear All Cathy | 297431 | [297431-limbus-company-season-4-clear-all-cathy.json](./297431-limbus-company-season-4-clear-all-cathy.json) |
 | Limbus Company: Season 5 - Oblivion | 319013 | [319013-limbus-company-season-5-oblivion.json](./319013-limbus-company-season-5-oblivion.json) |
 | Limbus Company: Season 6 - Zàng Huā Yín | 341710 | [341710-limbus-company-season-6-zang-hua-yin.json](./341710-limbus-company-season-6-zang-hua-yin.json) |
 | Limbus Company: Season 8 - Punctum | 416722 | [416722-limbus-company-season-8-punctum.json](./416722-limbus-company-season-8-punctum.json) |
@@ -4461,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limited Lifetime Corp | 208653 | [208653-limited-lifetime-corp.json](./208653-limited-lifetime-corp.json) |
 | Limited Rescue | 235039 | [235039-limited-rescue.json](./235039-limited-rescue.json) |
 | Limited Space | 406337 | [406337-limited-space.json](./406337-limited-space.json) |
+| Limitless | 298066 | [298066-limitless.json](./298066-limitless.json) |
 | Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limitless Survivor | 407171 | [407171-limitless-survivor.json](./407171-limitless-survivor.json) |
@@ -4793,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquidator: 3D Action Game | 205975 | [205975-liquidator-3d-action-game.json](./205975-liquidator-3d-action-game.json) |
 | Liquidators | 147297 | [147297-liquidators.json](./147297-liquidators.json) |
 | Liquidum: Femme Fatale | 297334 | [297334-liquidum-femme-fatale.json](./297334-liquidum-femme-fatale.json) |
+| Liquidum: Mirrors | 298077 | [298077-liquidum-mirrors.json](./298077-liquidum-mirrors.json) |
 | Liquidum: Secrets of the Deep | 310387 | [310387-liquidum-secrets-of-the-deep.json](./310387-liquidum-secrets-of-the-deep.json) |
 | Liquidum: Small & Tricky | 298051 | [298051-liquidum-small-and-tricky.json](./298051-liquidum-small-and-tricky.json) |
 | Liquor and Wine Shop Simulator: Store Simulator | 326398 | [326398-liquor-and-wine-shop-simulator-store-simulator.json](./326398-liquor-and-wine-shop-simulator-store-simulator.json) |
@@ -4917,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Boats of Farewell | 193730 | [193730-little-boats-of-farewell.json](./193730-little-boats-of-farewell.json) |
 | Little Bombers Returns | 275554 | [275554-little-bombers-returns.json](./275554-little-bombers-returns.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
+| Little Brats! | 298079 | [298079-little-brats.json](./298079-little-brats.json) |
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Buddy | 384329 | [384329-little-buddy.json](./384329-little-buddy.json) |
@@ -5181,6 +5188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
 | Little Picnic | 412806 | [412806-little-picnic.json](./412806-little-picnic.json) |
+| Little Piggy Defense | 297533 | [297533-little-piggy-defense.json](./297533-little-piggy-defense.json) |
 | Little Pilot | 370227 | [370227-little-pilot.json](./370227-little-pilot.json) |
 | Little Pink Best Buds | 60439 | [60439-little-pink-best-buds.json](./60439-little-pink-best-buds.json) |
 | Little Plane | 246467 | [246467-little-plane.json](./246467-little-plane.json) |
@@ -6800,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost For Swords | 274511 | [274511-lost-for-swords.json](./274511-lost-for-swords.json) |
 | Lost Forest | 256920 | [256920-lost-forest.json](./256920-lost-forest.json) |
 | Lost Found Secure | 380145 | [380145-lost-found-secure.json](./380145-lost-found-secure.json) |
+| Lost Fragment | 297445 | [297445-lost-fragment.json](./297445-lost-fragment.json) |
 | Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
 | Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
 | Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
@@ -8627,6 +8636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
 | LV-426 | 125139 | [125139-lv-426.json](./125139-lv-426.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
+| LvL50 | 299187 | [299187-lvl50.json](./299187-lvl50.json) |
 | LVL99: AxeRage | 125917 | [125917-lvl99-axerage.json](./125917-lvl99-axerage.json) |
 | LVN Fake News | 105740 | [105740-lvn-fake-news.json](./105740-lvn-fake-news.json) |
 | LX Patterns | 149461 | [149461-lx-patterns.json](./149461-lx-patterns.json) |
