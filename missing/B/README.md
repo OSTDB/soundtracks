@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8553,6 +8554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze Rush | 330569 | [330569-blaze-rush.json](./330569-blaze-rush.json) |
 | Blaze Union + Knights in the Nightmare Remastered Collection | 410803 | [410803-blaze-union-knights-in-the-nightmare-remastered-collection.json](./410803-blaze-union-knights-in-the-nightmare-remastered-collection.json) |
 | Blaze Union: Story to Reach the Future | 251467 | [251467-blaze-union-story-to-reach-the-future.json](./251467-blaze-union-story-to-reach-the-future.json) |
+| Blaze! Love To The Top | 284167 | [284167-blaze-love-to-the-top.json](./284167-blaze-love-to-the-top.json) |
 | Blazend | 186691 | [186691-blazend.json](./186691-blazend.json) |
 | Blazeo | 406326 | [406326-blazeo.json](./406326-blazeo.json) |
 | BlaZeon: The Bio-Cyborg Challenge | 42625 | [42625-blazeon-the-bio-cyborg-challenge.json](./42625-blazeon-the-bio-cyborg-challenge.json) |
@@ -9399,6 +9401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl III: Season 5 | 302174 | [302174-blood-bowl-iii-season-5.json](./302174-blood-bowl-iii-season-5.json) |
 | Blood Bowl Tablet | 29030 | [29030-blood-bowl-tablet.json](./29030-blood-bowl-tablet.json) |
 | Blood Bowl: Chaos Edition | 16400 | [16400-blood-bowl-chaos-edition.json](./16400-blood-bowl-chaos-edition.json) |
+| Blood Bowl: Dark Elves Edition | 284513 | [284513-blood-bowl-dark-elves-edition.json](./284513-blood-bowl-dark-elves-edition.json) |
 | Blood Bowl: Death Zone | 105663 | [105663-blood-bowl-death-zone.json](./105663-blood-bowl-death-zone.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Bowl: Legendary Edition | 10055 | [10055-blood-bowl-legendary-edition.json](./10055-blood-bowl-legendary-edition.json) |
