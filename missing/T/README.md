@@ -8126,6 +8126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floating City | 148884 | [148884-the-floating-city.json](./148884-the-floating-city.json) |
 | The Flock | 19968 | [19968-the-flock.json](./19968-the-flock.json) |
 | The Flood | 93780 | [93780-the-flood.json](./93780-the-flood.json) |
+| The Flood: Forgotten Exile | 332928 | [332928-the-flood-forgotten-exile.json](./332928-the-flood-forgotten-exile.json) |
 | The Floor is [Blank] | 157140 | [157140-the-floor-is-blank.json](./157140-the-floor-is-blank.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor is Jelly | 11309 | [11309-the-floor-is-jelly.json](./11309-the-floor-is-jelly.json) |
@@ -11978,6 +11979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Naki Files | 332937 | [332937-the-naki-files.json](./332937-the-naki-files.json) |
 | The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
