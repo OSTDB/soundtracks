@@ -6359,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone | 195984 | [195984-alone.json](./195984-alone.json) |
 | Alone | 196110 | [196110-alone.json](./196110-alone.json) |
 | Alone | 97495 | [97495-alone.json](./97495-alone.json) |
+| Alone A Long | 324798 | [324798-alone-a-long.json](./324798-alone-a-long.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
 | Alone House | 419949 | [419949-alone-house.json](./419949-alone-house.json) |
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
@@ -9951,6 +9952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | April | 110045 | [110045-april.json](./110045-april.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
 | April 7th | 58863 | [58863-april-7th.json](./58863-april-7th.json) |
+| April Freebee | 324819 | [324819-april-freebee.json](./324819-april-freebee.json) |
 | April Grove | 339401 | [339401-april-grove.json](./339401-april-grove.json) |
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
 | APT | 35534 | [35534-apt.json](./35534-apt.json) |
@@ -14222,6 +14224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack from Planet Smiley | 157968 | [157968-attack-from-planet-smiley.json](./157968-attack-from-planet-smiley.json) |
 | Attack from the Dead | 94056 | [94056-attack-from-the-dead.json](./94056-attack-from-the-dead.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
+| Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
 | Attack of Jeff the Killer: Scary Slender Life | 63154 | [63154-attack-of-jeff-the-killer-scary-slender-life.json](./63154-attack-of-jeff-the-killer-scary-slender-life.json) |
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
