@@ -7847,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wukong Survivors: Begin | 387379 | [387379-wukong-survivors-begin.json](./387379-wukong-survivors-begin.json) |
 | Wukong Survivors: God Slayer | 387507 | [387507-wukong-survivors-god-slayer.json](./387507-wukong-survivors-god-slayer.json) |
 | WuKong Up | 288452 | [288452-wukong-up.json](./288452-wukong-up.json) |
+| Wukong's Child: Monkey King Myth | 317268 | [317268-wukongs-child-monkey-king-myth.json](./317268-wukongs-child-monkey-king-myth.json) |
 | Wulfram | 64092 | [64092-wulfram.json](./64092-wulfram.json) |
 | Wulfram II | 71227 | [71227-wulfram-ii.json](./71227-wulfram-ii.json) |
 | Wulin Chess | 155938 | [155938-wulin-chess.json](./155938-wulin-chess.json) |
