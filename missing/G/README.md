@@ -4009,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
 | Gladiator Manager | 278095 | [278095-gladiator-manager.json](./278095-gladiator-manager.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
+| Gladiator Of Valor | 313656 | [313656-gladiator-of-valor.json](./313656-gladiator-of-valor.json) |
 | Gladiator Rising | 221218 | [221218-gladiator-rising.json](./221218-gladiator-rising.json) |
 | Gladiator Rising 2 | 297578 | [297578-gladiator-rising-2.json](./297578-gladiator-rising-2.json) |
 | Gladiator Rumble | 340303 | [340303-gladiator-rumble.json](./340303-gladiator-rumble.json) |
@@ -5967,6 +5968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight Universe | 271129 | [271129-goodnight-universe.json](./271129-goodnight-universe.json) |
 | Goodnight, B | 411801 | [411801-goodnight-b.json](./411801-goodnight-b.json) |
 | Goodnight, Sun | 419900 | [419900-goodnight-sun.json](./419900-goodnight-sun.json) |
+| Goodnight, Sweetie | 313647 | [313647-goodnight-sweetie.json](./313647-goodnight-sweetie.json) |
 | Goods Puzzle | 406165 | [406165-goods-puzzle.json](./406165-goods-puzzle.json) |
 | Goods Sorting 3 Match | 296746 | [296746-goods-sorting-3-match.json](./296746-goods-sorting-3-match.json) |
 | Goodsol Solitaire 101 | 106896 | [106896-goodsol-solitaire-101.json](./106896-goodsol-solitaire-101.json) |
