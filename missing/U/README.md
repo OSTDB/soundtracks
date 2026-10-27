@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Solitaire | 116789 | [116789-ultimate-solitaire.json](./116789-ultimate-solitaire.json) |
 | Ultimate Solitaire 1000 | 116788 | [116788-ultimate-solitaire-1000.json](./116788-ultimate-solitaire-1000.json) |
 | Ultimate Solitaire Collection | 270091 | [270091-ultimate-solitaire-collection.json](./270091-ultimate-solitaire-collection.json) |
+| Ultimate Sonic Quiz V.2 | 328357 | [328357-ultimate-sonic-quiz-v-2.json](./328357-ultimate-sonic-quiz-v-2.json) |
 | Ultimate Sonic Smackdown | 350894 | [350894-ultimate-sonic-smackdown.json](./350894-ultimate-sonic-smackdown.json) |
 | Ultimate Space Battleship | 337525 | [337525-ultimate-space-battleship.json](./337525-ultimate-space-battleship.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
@@ -1631,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Kindred Spirits | 231469 | [231469-undertale-kindred-spirits.json](./231469-undertale-kindred-spirits.json) |
 | Undertale: No More Deals | 279675 | [279675-undertale-no-more-deals.json](./279675-undertale-no-more-deals.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
+| Undertale: Repent to Jesus | 328203 | [328203-undertale-repent-to-jesus.json](./328203-undertale-repent-to-jesus.json) |
 | Undertale: Thanatos! | 330251 | [330251-undertale-thanatos.json](./330251-undertale-thanatos.json) |
 | Undertale: The Final Run | 223676 | [223676-undertale-the-final-run.json](./223676-undertale-the-final-run.json) |
 | Undertale: The Otherground | 331933 | [331933-undertale-the-otherground.json](./331933-undertale-the-otherground.json) |
