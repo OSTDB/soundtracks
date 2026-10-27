@@ -2179,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impale Your Friends! | 117573 | [117573-impale-your-friends.json](./117573-impale-your-friends.json) |
 | Impaler Gold | 196078 | [196078-impaler-gold.json](./196078-impaler-gold.json) |
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
+| Impasse | 317205 | [317205-impasse.json](./317205-impasse.json) |
 | Impassioned Fowl | 179544 | [179544-impassioned-fowl.json](./179544-impassioned-fowl.json) |
 | Impavidvm | 158527 | [158527-impavidvm.json](./158527-impavidvm.json) |
 | Impawlse | 303575 | [303575-impawlse.json](./303575-impawlse.json) |
