@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Building: Cats | 226363 | [226363-in-the-building-cats.json](./226363-in-the-building-cats.json) |
 | In the Bush | 173843 | [173843-in-the-bush.json](./173843-in-the-bush.json) |
 | In the Cards | 184896 | [184896-in-the-cards.json](./184896-in-the-cards.json) |
+| In the Chips | 307650 | [307650-in-the-chips.json](./307650-in-the-chips.json) |
 | In the Crags | 144683 | [144683-in-the-crags.json](./144683-in-the-crags.json) |
 | In the Dark | 327429 | [327429-in-the-dark.json](./327429-in-the-dark.json) |
 | In the Dark | 50748 | [50748-in-the-dark.json](./50748-in-the-dark.json) |
