@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Wars | 114732 | [114732-jelly-wars.json](./114732-jelly-wars.json) |
 | Jelly-Jelly | 301890 | [301890-jelly-jelly.json](./301890-jelly-jelly.json) |
 | Jelly's Adventure | 208328 | [208328-jellys-adventure.json](./208328-jellys-adventure.json) |
+| JellyBall | 321284 | [321284-jellyball.json](./321284-jellyball.json) |
 | Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
 | JellyBugs | 175254 | [175254-jellybugs.json](./175254-jellybugs.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
