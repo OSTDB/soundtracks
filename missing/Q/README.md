@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quail Crossing | 333158 | [333158-quail-crossing.json](./333158-quail-crossing.json) |
 | Quake | 239551 | [239551-quake.json](./239551-quake.json) |
 | Quake | 332258 | [332258-quake.json](./332258-quake.json) |
+| Quake + Quake II Enhanced Bundle | 283197 | [283197-quake-quake-ii-enhanced-bundle.json](./283197-quake-quake-ii-enhanced-bundle.json) |
 | Quake 1.5 | 117771 | [117771-quake-1-5.json](./117771-quake-1-5.json) |
 | Quake 2 25th Anniversary Collaborative Unit | 402807 | [402807-quake-2-25th-anniversary-collaborative-unit.json](./402807-quake-2-25th-anniversary-collaborative-unit.json) |
 | Quake 3 Fortress | 397034 | [397034-quake-3-fortress.json](./397034-quake-3-fortress.json) |
