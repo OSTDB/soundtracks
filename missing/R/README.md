@@ -7415,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
 | Robin of the Wood | 26434 | [26434-robin-of-the-wood.json](./26434-robin-of-the-wood.json) |
 | Robin to the Rescue | 60058 | [60058-robin-to-the-rescue.json](./60058-robin-to-the-rescue.json) |
+| Robin: The Twisted Timber Trail | 309934 | [309934-robin-the-twisted-timber-trail.json](./309934-robin-the-twisted-timber-trail.json) |
 | Robin's Island Adventure | 17844 | [17844-robins-island-adventure.json](./17844-robins-island-adventure.json) |
 | Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
