@@ -8297,6 +8297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuriken Trigger | 326074 | [326074-shuriken-trigger.json](./326074-shuriken-trigger.json) |
 | Shurikoo Sprint | 308994 | [308994-shurikoo-sprint.json](./308994-shurikoo-sprint.json) |
 | Shuruka Boxing | 348844 | [348844-shuruka-boxing.json](./348844-shuruka-boxing.json) |
+| Shush | 295224 | [295224-shush.json](./295224-shush.json) |
 | Shǔshān: Chū Zhāng Mǎiduàn Bǎn | 368536 | [368536-shushan-chu-zhang-maiduan-ban.json](./368536-shushan-chu-zhang-maiduan-ban.json) |
 | Shǔshān: Chū Zhāng Wǎngluò Bǎn | 368546 | [368546-shushan-chu-zhang-wangluo-ban.json](./368546-shushan-chu-zhang-wangluo-ban.json) |
 | Shǔshān: Chū Zhāng Zhèngshì Bǎn | 368575 | [368575-shushan-chu-zhang-zhengshi-ban.json](./368575-shushan-chu-zhang-zhengshi-ban.json) |
@@ -9822,6 +9823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sippin Hot Blickety Block N Bop Those Bad Battle Boys Down to Size Supreme | 213455 | [213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json](./213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json) |
 | Sippy Disco: Light Up The Dance Floor | 290257 | [290257-sippy-disco-light-up-the-dance-floor.json](./290257-sippy-disco-light-up-the-dance-floor.json) |
 | Sips and Sonnets | 346739 | [346739-sips-and-sonnets.json](./346739-sips-and-sonnets.json) |
+| Sipssassin | 295228 | [295228-sipssassin.json](./295228-sipssassin.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir Basil Pike Public School | 262163 | [262163-sir-basil-pike-public-school.json](./262163-sir-basil-pike-public-school.json) |
 | Sir Bucket | 295139 | [295139-sir-bucket.json](./295139-sir-bucket.json) |
@@ -10486,6 +10488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skrotens Hjältar | 328676 | [328676-skrotens-hjaltar.json](./328676-skrotens-hjaltar.json) |
 | Skrunkly Fighters | 327778 | [327778-skrunkly-fighters.json](./327778-skrunkly-fighters.json) |
 | Skrunkly gets a Meal Deal | 332984 | [332984-skrunkly-gets-a-meal-deal.json](./332984-skrunkly-gets-a-meal-deal.json) |
+| Skuf Backrooms | 295219 | [295219-skuf-backrooms.json](./295219-skuf-backrooms.json) |
 | Skuf For Altushki | 368554 | [368554-skuf-for-altushki.json](./368554-skuf-for-altushki.json) |
 | Skuf na dachie | 380668 | [380668-skuf-na-dachie.json](./380668-skuf-na-dachie.json) |
 | Skuf Simulator | 276968 | [276968-skuf-simulator.json](./276968-skuf-simulator.json) |
@@ -15984,6 +15987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstrive | 193260 | [193260-soulstrive.json](./193260-soulstrive.json) |
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
 | SoulSync City | 306800 | [306800-soulsync-city.json](./306800-soulsync-city.json) |
+| SoulTail | 295296 | [295296-soultail.json](./295296-soultail.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
 | Soulvars | 150176 | [150176-soulvars.json](./150176-soulvars.json) |
@@ -22224,6 +22228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Driver | 307989 | [307989-steel-driver.json](./307989-steel-driver.json) |
 | Steel Dungeon | 110162 | [110162-steel-dungeon.json](./110162-steel-dungeon.json) |
 | Steel Eagle: Cave Mission | 169287 | [169287-steel-eagle-cave-mission.json](./169287-steel-eagle-cave-mission.json) |
+| Steel Effigy | 295292 | [295292-steel-effigy.json](./295292-steel-effigy.json) |
 | Steel Empire | 45536 | [45536-steel-empire.json](./45536-steel-empire.json) |
 | Steel Empire | 45588 | [45588-steel-empire.json](./45588-steel-empire.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
@@ -22293,6 +22298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Swarm: Survivor | 387595 | [387595-steel-swarm-survivor.json](./387595-steel-swarm-survivor.json) |
 | Steel Sword Story | 112949 | [112949-steel-sword-story.json](./112949-steel-sword-story.json) |
 | Steel Sword Story S | 151560 | [151560-steel-sword-story-s.json](./151560-steel-sword-story-s.json) |
+| Steel Symphony | 295231 | [295231-steel-symphony.json](./295231-steel-symphony.json) |
 | Steel Talons | 126454 | [126454-steel-talons.json](./126454-steel-talons.json) |
 | Steel Team: Academy | 148933 | [148933-steel-team-academy.json](./148933-steel-team-academy.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
@@ -23230,6 +23236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Storm Wars CCG | 26236 | [26236-storm-wars-ccg.json](./26236-storm-wars-ccg.json) |
 | Storm: Frontline Nation | 10928 | [10928-storm-frontline-nation.json](./10928-storm-frontline-nation.json) |
+| Storm's Eye | 295303 | [295303-storms-eye.json](./295303-storms-eye.json) |
 | Storm's Wrath | 360630 | [360630-storms-wrath.json](./360630-storms-wrath.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormbane | 258956 | [258956-stormbane.json](./258956-stormbane.json) |
@@ -24792,6 +24799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subvirtual | 323444 | [323444-subvirtual.json](./323444-subvirtual.json) |
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
+| Subway | 295302 | [295302-subway.json](./295302-subway.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
 | Subway Builder | 370450 | [370450-subway-builder.json](./370450-subway-builder.json) |
 | Subway Clash 2 | 146715 | [146715-subway-clash-2.json](./146715-subway-clash-2.json) |
