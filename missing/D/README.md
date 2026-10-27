@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage | 10164 | [10164-darkness-within-2-the-dark-lineage.json](./10164-darkness-within-2-the-dark-lineage.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
+| Darkness: Prince of Shadows | 286023 | [286023-darkness-prince-of-shadows.json](./286023-darkness-prince-of-shadows.json) |
 | Darknesssssssssssssssss | 303458 | [303458-darknesssssssssssssssss.json](./303458-darknesssssssssssssssss.json) |
 | Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
 | Darknet | 99512 | [99512-darknet.json](./99512-darknet.json) |
