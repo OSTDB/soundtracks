@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [K]night City | 365226 | [365226-k-night-city.json](./365226-k-night-city.json) |
 | [OPT-OUT]: Uncanny | 153742 | [153742-opt-out-uncanny.json](./153742-opt-out-uncanny.json) |
 | [REC] Desolation | 333760 | [333760-rec-desolation.json](./333760-rec-desolation.json) |
+| [REC] Paroxysm | 302905 | [302905-rec-paroxysm.json](./302905-rec-paroxysm.json) |
 | [Redacted] | 292844 | [292844-redacted.json](./292844-redacted.json) |
 | [Redacted] | 396399 | [396399-redacted.json](./396399-redacted.json) |
 | [Redacted] the Safehouse | 398337 | [398337-redacted-the-safehouse.json](./398337-redacted-the-safehouse.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18th Floor | 333761 | [333761-18th-floor.json](./333761-18th-floor.json) |
 | 18th Gate | 84688 | [84688-18th-gate.json](./84688-18th-gate.json) |
 | 18th Hole | 38855 | [38855-18th-hole.json](./38855-18th-hole.json) |
+| 18Trip | 302999 | [302999-18trip.json](./302999-18trip.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
 | 1900 | 253249 | [253249-1900.json](./253249-1900.json) |
