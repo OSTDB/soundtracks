@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
 | Taiwan Daheng | 253798 | [253798-taiwan-daheng.json](./253798-taiwan-daheng.json) |
+| Taiwan Love Story⁵ | 326014 | [326014-taiwan-love-story5.json](./326014-taiwan-love-story5.json) |
 | Taiwan Mahjong | 125867 | [125867-taiwan-mahjong.json](./125867-taiwan-mahjong.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
 | Taiwan Monster Fruit: Prologue | 146216 | [146216-taiwan-monster-fruit-prologue.json](./146216-taiwan-monster-fruit-prologue.json) |
@@ -4075,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
 | Test of Fear | 350945 | [350945-test-of-fear.json](./350945-test-of-fear.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
+| Test Subject | 325984 | [325984-test-subject.json](./325984-test-subject.json) |
 | Test Subject 901 | 108039 | [108039-test-subject-901.json](./108039-test-subject-901.json) |
 | Test Subject Blue | 172473 | [172473-test-subject-blue.json](./172473-test-subject-blue.json) |
 | Test Subject Complete | 172475 | [172475-test-subject-complete.json](./172475-test-subject-complete.json) |
@@ -19738,6 +19740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkercore | 316686 | [316686-tinkercore.json](./316686-tinkercore.json) |
 | Tinkering Is Enough | 390579 | [390579-tinkering-is-enough.json](./390579-tinkering-is-enough.json) |
+| Tinkerlands | 326020 | [326020-tinkerlands.json](./326020-tinkerlands.json) |
 | Tinkerlands: A Shipwrecked Adventure | 274567 | [274567-tinkerlands-a-shipwrecked-adventure.json](./274567-tinkerlands-a-shipwrecked-adventure.json) |
 | Tinkernest | 404846 | [404846-tinkernest.json](./404846-tinkernest.json) |
 | TinkerQuarry | 47231 | [47231-tinkerquarry.json](./47231-tinkerquarry.json) |
