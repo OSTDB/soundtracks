@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to 1998 | 116986 | [116986-back-to-1998.json](./116986-back-to-1998.json) |
 | Back to 21 | 407409 | [407409-back-to-21.json](./407409-back-to-21.json) |
 | Back to Ashes | 120862 | [120862-back-to-ashes.json](./120862-back-to-ashes.json) |
+| Back To Back | 330490 | [330490-back-to-back.json](./330490-back-to-back.json) |
 | Back To Back | 379992 | [379992-back-to-back.json](./379992-back-to-back.json) |
 | Back to Base(Q2)ics Jam 1 | 316741 | [316741-back-to-base-q2-ics-jam-1.json](./316741-back-to-base-q2-ics-jam-1.json) |
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baker Business 3: Halloween Pack | 263107 | [263107-baker-business-3-halloween-pack.json](./263107-baker-business-3-halloween-pack.json) |
 | Baker Business 3: Spring Pack | 243049 | [243049-baker-business-3-spring-pack.json](./243049-baker-business-3-spring-pack.json) |
 | Baker Street Breakouts: A Sherlockian Escape Adventure | 231870 | [231870-baker-street-breakouts-a-sherlockian-escape-adventure.json](./231870-baker-street-breakouts-a-sherlockian-escape-adventure.json) |
+| Baker's Agony | 330475 | [330475-bakers-agony.json](./330475-bakers-agony.json) |
 | Baker's Dozen | 260859 | [260859-bakers-dozen.json](./260859-bakers-dozen.json) |
 | Bakeru | 254466 | [254466-bakeru.json](./254466-bakeru.json) |
 | Bakery | 75628 | [75628-bakery.json](./75628-bakery.json) |
@@ -4193,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear It | 277762 | [277762-bear-it.json](./277762-bear-it.json) |
 | Bear Knight Honey Quest | 340734 | [340734-bear-knight-honey-quest.json](./340734-bear-knight-honey-quest.json) |
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
+| Bear Shooter | 330487 | [330487-bear-shooter.json](./330487-bear-shooter.json) |
 | Bear Soul | 152686 | [152686-bear-soul.json](./152686-bear-soul.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
@@ -5201,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
 | Being Her Darkest Friend | 60216 | [60216-being-her-darkest-friend.json](./60216-being-her-darkest-friend.json) |
 | Being John | 283989 | [283989-being-john.json](./283989-being-john.json) |
+| Being John Gogh | 330498 | [330498-being-john-gogh.json](./330498-being-john-gogh.json) |
 | Being Left the F*** Alone Simulator | 195962 | [195962-being-left-the-f-alone-simulator.json](./195962-being-left-the-f-alone-simulator.json) |
 | Being Mindful | 168641 | [168641-being-mindful.json](./168641-being-mindful.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
@@ -6395,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Head Bash | 64331 | [64331-big-head-bash.json](./64331-big-head-bash.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
+| Big Helmet Heroes: Exalted Edition | 330618 | [330618-big-helmet-heroes-exalted-edition.json](./330618-big-helmet-heroes-exalted-edition.json) |
 | Big Hero 6: Bot Fight | 60832 | [60832-big-hero-6-bot-fight.json](./60832-big-hero-6-bot-fight.json) |
 | Big Hit VR Baseball | 28789 | [28789-big-hit-vr-baseball.json](./28789-big-hit-vr-baseball.json) |
 | Big Honour | 299820 | [299820-big-honour.json](./299820-big-honour.json) |
@@ -7752,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mountain of Tlaltecuhtli | 388557 | [388557-black-mountain-of-tlaltecuhtli.json](./388557-black-mountain-of-tlaltecuhtli.json) |
 | Black My White | 334763 | [334763-black-my-white.json](./334763-black-my-white.json) |
 | Black My White Again | 334764 | [334764-black-my-white-again.json](./334764-black-my-white-again.json) |
+| Black Mystery: Wujing | 330643 | [330643-black-mystery-wujing.json](./330643-black-mystery-wujing.json) |
 | Black Myth: Destiny Man | 320608 | [320608-black-myth-destiny-man.json](./320608-black-myth-destiny-man.json) |
 | Black Myth: Heaven | 339342 | [339342-black-myth-heaven.json](./339342-black-myth-heaven.json) |
 | Black Myth: Zhong Kui | 361900 | [361900-black-myth-zhong-kui.json](./361900-black-myth-zhong-kui.json) |
