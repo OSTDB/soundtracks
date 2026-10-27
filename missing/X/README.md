@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiaomei and the Flame Dragon's Fist | 242398 | [242398-xiaomei-and-the-flame-dragons-fist.json](./242398-xiaomei-and-the-flame-dragons-fist.json) |
 | Xiǎoyuán Kǒusuàn | 333446 | [333446-xiaoyuan-kousuan.json](./333446-xiaoyuan-kousuan.json) |
 | Xiàrì de Huíyì | 163905 | [163905-xiari-de-huiyi.json](./163905-xiari-de-huiyi.json) |
+| Xibalba | 287599 | [287599-xibalba.json](./287599-xibalba.json) |
 | Xibalba | 61156 | [61156-xibalba.json](./61156-xibalba.json) |
 | Xìbāo Zhànzhēng | 116112 | [116112-xibao-zhanzheng.json](./116112-xibao-zhanzheng.json) |
 | Xicon Exedra: Minor Advancement | 381786 | [381786-xicon-exedra-minor-advancement.json](./381786-xicon-exedra-minor-advancement.json) |
