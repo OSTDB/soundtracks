@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Budapest | 408529 | [408529-101-cats-in-budapest.json](./408529-101-cats-in-budapest.json) |
 | 101 Cats in Cancun | 337516 | [337516-101-cats-in-cancun.json](./337516-101-cats-in-cancun.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
+| 101 Cats in Dubai | 287057 | [287057-101-cats-in-dubai.json](./287057-101-cats-in-dubai.json) |
 | 101 Cats in Dublin | 397637 | [397637-101-cats-in-dublin.json](./397637-101-cats-in-dublin.json) |
 | 101 Cats in Florence | 397636 | [397636-101-cats-in-florence.json](./397636-101-cats-in-florence.json) |
 | 101 Cats in Greece | 350323 | [350323-101-cats-in-greece.json](./350323-101-cats-in-greece.json) |
@@ -2029,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Pool: Billiards & Snooker | 205948 | [205948-3d-pool-billiards-and-snooker.json](./205948-3d-pool-billiards-and-snooker.json) |
 | 3D Power Drift | 84659 | [84659-3d-power-drift.json](./84659-3d-power-drift.json) |
+| 3D Printer: PrintMaster Simulator | 287116 | [287116-3d-printer-printmaster-simulator.json](./287116-3d-printer-printmaster-simulator.json) |
 | 3D PrintMaster Simulator | 273297 | [273297-3d-printmaster-simulator.json](./273297-3d-printmaster-simulator.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle Dark Fantasy | 357751 | [357751-3d-puzzle-dark-fantasy.json](./357751-3d-puzzle-dark-fantasy.json) |
