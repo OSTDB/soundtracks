@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Dream Fishing Arcade | 276639 | [276639-last-dream-fishing-arcade.json](./276639-last-dream-fishing-arcade.json) |
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
 | Last Dream: World Unknown | 33378 | [33378-last-dream-world-unknown.json](./33378-last-dream-world-unknown.json) |
+| Last Drop | 332949 | [332949-last-drop.json](./332949-last-drop.json) |
 | Last Duel: Inter Planet War 2012 | 12171 | [12171-last-duel-inter-planet-war-2012.json](./12171-last-duel-inter-planet-war-2012.json) |
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
 | Last Embryo: Either of Brave to Story | 163754 | [163754-last-embryo-either-of-brave-to-story.json](./163754-last-embryo-either-of-brave-to-story.json) |
@@ -2015,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left&Right | 86357 | [86357-left-and-right.json](./86357-left-and-right.json) |
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
+| Leftovers KO! | 332912 | [332912-leftovers-ko.json](./332912-leftovers-ko.json) |
 | LeftWay | 52279 | [52279-leftway.json](./52279-leftway.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
 | Lefty | 309955 | [309955-lefty.json](./309955-lefty.json) |
@@ -6093,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
 | Long Dives | 413166 | [413166-long-dives.json](./413166-long-dives.json) |
 | Long Dream | 217238 | [217238-long-dream.json](./217238-long-dream.json) |
+| Long Drive Island | 332959 | [332959-long-drive-island.json](./332959-long-drive-island.json) |
 | Long Drive North | 320382 | [320382-long-drive-north.json](./320382-long-drive-north.json) |
 | Long Gone Days | 31820 | [31820-long-gone-days.json](./31820-long-gone-days.json) |
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
