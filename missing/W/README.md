@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
 | WCW/nWo Thunder | 18315 | [18315-wcw-nwo-thunder.json](./18315-wcw-nwo-thunder.json) |
 | WD-40 Game | 250203 | [250203-wd-40-game.json](./250203-wd-40-game.json) |
+| WDF | 332942 | [332942-wdf.json](./332942-wdf.json) |
 | WDYK? 3: Urban Lingo | 234689 | [234689-wdyk-3-urban-lingo.json](./234689-wdyk-3-urban-lingo.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
 | We Are All Individuals | 53921 | [53921-we-are-all-individuals.json](./53921-we-are-all-individuals.json) |
@@ -4594,6 +4595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
 | Wildlife Simulator: Shark | 175575 | [175575-wildlife-simulator-shark.json](./175575-wildlife-simulator-shark.json) |
 | Wildlife Simulator: Wolf | 86902 | [86902-wildlife-simulator-wolf.json](./86902-wildlife-simulator-wolf.json) |
+| Wildlife Sports: Untamed | 332916 | [332916-wildlife-sports-untamed.json](./332916-wildlife-sports-untamed.json) |
 | WildLife Tetris | 144621 | [144621-wildlife-tetris.json](./144621-wildlife-tetris.json) |
 | Wildlife Tycoon: Venture Africa | 91661 | [91661-wildlife-tycoon-venture-africa.json](./91661-wildlife-tycoon-venture-africa.json) |
 | Wildlife VR | 32111 | [32111-wildlife-vr.json](./32111-wildlife-vr.json) |
