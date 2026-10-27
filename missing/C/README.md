@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake or Bomb? | 360922 | [360922-cake-or-bomb.json](./360922-cake-or-bomb.json) |
 | Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
+| Cake Shop 2 | 328379 | [328379-cake-shop-2.json](./328379-cake-shop-2.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Shop Simulator | 156876 | [156876-cake-shop-simulator.json](./156876-cake-shop-simulator.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
@@ -722,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Otechestvo Donbass | 117636 | [117636-call-of-otechestvo-donbass.json](./117636-call-of-otechestvo-donbass.json) |
 | Call of Outlaws | 256734 | [256734-call-of-outlaws.json](./256734-call-of-outlaws.json) |
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
+| Call of Ponchy: Mahjong Warfare | 328375 | [328375-call-of-ponchy-mahjong-warfare.json](./328375-call-of-ponchy-mahjong-warfare.json) |
 | Call of Saregnar | 185969 | [185969-call-of-saregnar.json](./185969-call-of-saregnar.json) |
 | Call of Senpai: Waifu Warfare | 192379 | [192379-call-of-senpai-waifu-warfare.json](./192379-call-of-senpai-waifu-warfare.json) |
 | Call of Senpai: Waifu Warfare 2 | 197574 | [197574-call-of-senpai-waifu-warfare-2.json](./197574-call-of-senpai-waifu-warfare-2.json) |
@@ -755,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Warzone | 332489 | [332489-call-of-warzone.json](./332489-call-of-warzone.json) |
 | Call of Yucatán | 341943 | [341943-call-of-yucatan.json](./341943-call-of-yucatan.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
+| Call The Abyss | 328191 | [328191-call-the-abyss.json](./328191-call-the-abyss.json) |
 | Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
 | Call to Arms | 17432 | [17432-call-to-arms.json](./17432-call-to-arms.json) |
@@ -8511,6 +8514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click to Survive | 179946 | [179946-click-to-survive.json](./179946-click-to-survive.json) |
 | Click to Ten | 227971 | [227971-click-to-ten.json](./227971-click-to-ten.json) |
 | Click To Ten 3D | 290616 | [290616-click-to-ten-3d.json](./290616-click-to-ten-3d.json) |
+| Click to Twelve | 328354 | [328354-click-to-twelve.json](./328354-click-to-twelve.json) |
 | Click Tycoon | 125196 | [125196-click-tycoon.json](./125196-click-tycoon.json) |
 | Click Your Crush! | 154363 | [154363-click-your-crush.json](./154363-click-your-crush.json) |
 | Click Your Poison: Infected | 193717 | [193717-click-your-poison-infected.json](./193717-click-your-poison-infected.json) |
@@ -11243,6 +11247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
 | Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
+| Conjurers | 328362 | [328362-conjurers.json](./328362-conjurers.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conker: Live & Reloaded | 1425 | [1425-conker-live-and-reloaded.json](./1425-conker-live-and-reloaded.json) |
 | Conker's Bad Fur Day | 1286 | [1286-conkers-bad-fur-day.json](./1286-conkers-bad-fur-day.json) |
@@ -14336,6 +14341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Creek: Survival Horror | 416812 | [416812-crescent-creek-survival-horror.json](./416812-crescent-creek-survival-horror.json) |
 | Crescent Hollow | 104143 | [104143-crescent-hollow.json](./104143-crescent-hollow.json) |
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
+| Crescent Overload | 328370 | [328370-crescent-overload.json](./328370-crescent-overload.json) |
 | Crescent Pale Mist | 21085 | [21085-crescent-pale-mist.json](./21085-crescent-pale-mist.json) |
 | Crescent Prism | 221664 | [221664-crescent-prism.json](./221664-crescent-prism.json) |
 | Crescent Prism | 387403 | [387403-crescent-prism.json](./387403-crescent-prism.json) |
@@ -15149,6 +15155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Of Blight | 417413 | [417413-crown-of-blight.json](./417413-crown-of-blight.json) |
 | Crown of Chaos | 335382 | [335382-crown-of-chaos.json](./335382-crown-of-chaos.json) |
 | Crown of Empire | 224068 | [224068-crown-of-empire.json](./224068-crown-of-empire.json) |
+| Crown of Exile | 328346 | [328346-crown-of-exile.json](./328346-crown-of-exile.json) |
 | Crown of Greed | 216725 | [216725-crown-of-greed.json](./216725-crown-of-greed.json) |
 | Crown of Hispania | 403203 | [403203-crown-of-hispania.json](./403203-crown-of-hispania.json) |
 | Crown of Light | 249846 | [249846-crown-of-light.json](./249846-crown-of-light.json) |
