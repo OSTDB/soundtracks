@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macrotis: A Mother's Journey | 100581 | [100581-macrotis-a-mothers-journey.json](./100581-macrotis-a-mothers-journey.json) |
 | Macs World | 193714 | [193714-macs-world.json](./193714-macs-world.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
+| Mad & Max: The Best Survival Game with Zombies and Dinosaurs | 309897 | [309897-mad-and-max-the-best-survival-game-with-zombies-and-dinosaurs.json](./309897-mad-and-max-the-best-survival-game-with-zombies-and-dinosaurs.json) |
 | Mad Adventures | 202747 | [202747-mad-adventures.json](./202747-mad-adventures.json) |
 | Mad Age and This Guy | 56613 | [56613-mad-age-and-this-guy.json](./56613-mad-age-and-this-guy.json) |
 | Mad Alien | 83354 | [83354-mad-alien.json](./83354-mad-alien.json) |
@@ -14091,6 +14092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Split Island: Dungeon Adventure | 220639 | [220639-moon-split-island-dungeon-adventure.json](./220639-moon-split-island-dungeon-adventure.json) |
 | Moon Surfing | 101519 | [101519-moon-surfing.json](./101519-moon-surfing.json) |
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
+| Moon Tower | 309899 | [309899-moon-tower.json](./309899-moon-tower.json) |
 | Moon Tower: Gotta Save the Universe Real Quick | 287224 | [287224-moon-tower-gotta-save-the-universe-real-quick.json](./287224-moon-tower-gotta-save-the-universe-real-quick.json) |
 | Moon Tropica | 347210 | [347210-moon-tropica.json](./347210-moon-tropica.json) |
 | Moon Tycoon | 120150 | [120150-moon-tycoon.json](./120150-moon-tycoon.json) |
