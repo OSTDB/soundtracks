@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Years Apart | 323989 | [323989-years-apart.json](./323989-years-apart.json) |
 | Yebushou: Defeat Pirates | 261853 | [261853-yebushou-defeat-pirates.json](./261853-yebushou-defeat-pirates.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
+| Yedesna Shoots 3 | 327748 | [327748-yedesna-shoots-3.json](./327748-yedesna-shoots-3.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
 | Yeeps | 304187 | [304187-yeeps.json](./304187-yeeps.json) |
 | Yeeraffe | 325300 | [325300-yeeraffe.json](./325300-yeeraffe.json) |
