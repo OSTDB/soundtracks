@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDD: Drone Drop Dash | 360560 | [360560-ddd-drone-drop-dash.json](./360560-ddd-drone-drop-dash.json) |
 | DDI Rally Championship | 260336 | [260336-ddi-rally-championship.json](./260336-ddi-rally-championship.json) |
 | DDI Touring Car Championship | 298681 | [298681-ddi-touring-car-championship.json](./298681-ddi-touring-car-championship.json) |
+| DDinosaur with Double D's | 332934 | [332934-ddinosaur-with-double-ds.json](./332934-ddinosaur-with-double-ds.json) |
 | DDM Soccer '96 | 93390 | [93390-ddm-soccer-96.json](./93390-ddm-soccer-96.json) |
 | DDoD | 361039 | [361039-ddod.json](./361039-ddod.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
@@ -3267,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space: Digital Deluxe Edition | 227398 | [227398-dead-space-digital-deluxe-edition.json](./227398-dead-space-digital-deluxe-edition.json) |
 | Dead Space: Flash | 315227 | [315227-dead-space-flash.json](./315227-dead-space-flash.json) |
 | Dead Space: Ignition | 20450 | [20450-dead-space-ignition.json](./20450-dead-space-ignition.json) |
+| Dead Spaceshot | 332919 | [332919-dead-spaceshot.json](./332919-dead-spaceshot.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
 | Dead Spell | 400250 | [400250-dead-spell.json](./400250-dead-spell.json) |
 | Dead Spin | 404215 | [404215-dead-spin.json](./404215-dead-spin.json) |
@@ -5086,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Express | 303468 | [303468-delivery-express.json](./303468-delivery-express.json) |
 | Delivery from the Pain | 108905 | [108905-delivery-from-the-pain.json](./108905-delivery-from-the-pain.json) |
 | Delivery Guy | 153125 | [153125-delivery-guy.json](./153125-delivery-guy.json) |
+| Delivery Guy Simulator | 332950 | [332950-delivery-guy-simulator.json](./332950-delivery-guy-simulator.json) |
 | Delivery Hot | 351125 | [351125-delivery-hot.json](./351125-delivery-hot.json) |
 | Delivery Impossible | 244191 | [244191-delivery-impossible.json](./244191-delivery-impossible.json) |
 | Delivery in Space | 200519 | [200519-delivery-in-space.json](./200519-delivery-in-space.json) |
