@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Runner | 384529 | [384529-rainbow-runner.json](./384529-rainbow-runner.json) |
 | Rainbow Six Mobile | 200333 | [200333-rainbow-six-mobile.json](./200333-rainbow-six-mobile.json) |
 | Rainbow Six: Black Ops | 132046 | [132046-rainbow-six-black-ops.json](./132046-rainbow-six-black-ops.json) |
+| Rainbow Six: Raven Shield | 314237 | [314237-rainbow-six-raven-shield.json](./314237-rainbow-six-raven-shield.json) |
 | Rainbow Skies | 52676 | [52676-rainbow-skies.json](./52676-rainbow-skies.json) |
 | Rainbow Skies: Limited Edition | 166232 | [166232-rainbow-skies-limited-edition.json](./166232-rainbow-skies-limited-edition.json) |
 | Rainbow Slide | 233235 | [233235-rainbow-slide.json](./233235-rainbow-slide.json) |
@@ -10677,6 +10678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
 | Runner | 279890 | [279890-runner.json](./279890-runner.json) |
 | Runner | 304908 | [304908-runner.json](./304908-runner.json) |
+| Runner | 314235 | [314235-runner.json](./314235-runner.json) |
 | Runner | 401907 | [401907-runner.json](./401907-runner.json) |
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
