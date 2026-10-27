@@ -4338,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloombase | 261171 | [261171-gloombase.json](./261171-gloombase.json) |
 | Gloombo | 422091 | [422091-gloombo.json](./422091-gloombo.json) |
 | Gloomfall | 336671 | [336671-gloomfall.json](./336671-gloomfall.json) |
+| Gloomgeons | 293059 | [293059-gloomgeons.json](./293059-gloomgeons.json) |
 | Gloomhaven | 106803 | [106803-gloomhaven.json](./106803-gloomhaven.json) |
 | Gloomhaven: Gold Edition | 254681 | [254681-gloomhaven-gold-edition.json](./254681-gloomhaven-gold-edition.json) |
 | Gloomhaven: Jaws of the Lion | 197889 | [197889-gloomhaven-jaws-of-the-lion.json](./197889-gloomhaven-jaws-of-the-lion.json) |
