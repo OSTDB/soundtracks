@@ -4850,7 +4850,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix's Faye | 348184 | [348184-phoenixs-faye.json](./348184-phoenixs-faye.json) |
 | Phoenotopia | 313272 | [313272-phoenotopia.json](./313272-phoenotopia.json) |
 | Phoenotopia: Awakening | 136805 | [136805-phoenotopia-awakening.json](./136805-phoenotopia-awakening.json) |
-| Phogs! | 105680 | [105680-phogs.json](./105680-phogs.json) |
 | Pholee | 294000 | [294000-pholee.json](./294000-pholee.json) |
 | Phone | 218998 | [218998-phone.json](./218998-phone.json) |
 | Phone Flipper Simulator | 390787 | [390787-phone-flipper-simulator.json](./390787-phone-flipper-simulator.json) |
@@ -7371,7 +7370,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Eden 2 | 131872 | [131872-pixeljunk-eden-2.json](./131872-pixeljunk-eden-2.json) |
 | PixelJunk Eden Encore | 140012 | [140012-pixeljunk-eden-encore.json](./140012-pixeljunk-eden-encore.json) |
 | PixelJunk Eden Obscura | 140013 | [140013-pixeljunk-eden-obscura.json](./140013-pixeljunk-eden-obscura.json) |
-| PixelJunk Monsters 2 | 95386 | [95386-pixeljunk-monsters-2.json](./95386-pixeljunk-monsters-2.json) |
 | PixelJunk Monsters 2: Danganronpa Pack | 140017 | [140017-pixeljunk-monsters-2-danganronpa-pack.json](./140017-pixeljunk-monsters-2-danganronpa-pack.json) |
 | PixelJunk Monsters 2: Deluxe Edition | 237904 | [237904-pixeljunk-monsters-2-deluxe-edition.json](./237904-pixeljunk-monsters-2-deluxe-edition.json) |
 | PixelJunk Monsters 2: Encore Pack | 140016 | [140016-pixeljunk-monsters-2-encore-pack.json](./140016-pixeljunk-monsters-2-encore-pack.json) |
