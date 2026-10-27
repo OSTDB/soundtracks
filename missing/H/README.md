@@ -3271,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Heldritch Rush | 422038 | [422038-heldritch-rush.json](./422038-heldritch-rush.json) |
 | Helen | 272210 | [272210-helen.json](./272210-helen.json) |
+| Helen in Hell | 318371 | [318371-helen-in-hell.json](./318371-helen-in-hell.json) |
 | Helen Keller Simulator | 412205 | [412205-helen-keller-simulator.json](./412205-helen-keller-simulator.json) |
 | Helen's Doll House | 184269 | [184269-helens-doll-house.json](./184269-helens-doll-house.json) |
 | Helen's Mysterious Castle | 27991 | [27991-helens-mysterious-castle.json](./27991-helens-mysterious-castle.json) |
