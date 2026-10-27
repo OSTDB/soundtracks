@@ -2191,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Targeting Maths Lab 2 | 291993 | [291993-targeting-maths-lab-2.json](./291993-targeting-maths-lab-2.json) |
 | Targeting Maths Lab 3 | 291994 | [291994-targeting-maths-lab-3.json](./291994-targeting-maths-lab-3.json) |
 | Targeting Maths Lab 4 | 291995 | [291995-targeting-maths-lab-4.json](./291995-targeting-maths-lab-4.json) |
+| Targeting Maths Lab 5 | 289365 | [289365-targeting-maths-lab-5.json](./289365-targeting-maths-lab-5.json) |
 | Targeting Maths Lab 6 | 291996 | [291996-targeting-maths-lab-6.json](./291996-targeting-maths-lab-6.json) |
 | Targeting Maths Lab Launch Pad | 291997 | [291997-targeting-maths-lab-launch-pad.json](./291997-targeting-maths-lab-launch-pad.json) |
 | TargetPop | 212156 | [212156-targetpop.json](./212156-targetpop.json) |
@@ -3385,11 +3386,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenbu Mega CD Special | 46384 | [46384-tenbu-mega-cd-special.json](./46384-tenbu-mega-cd-special.json) |
 | Tenchi Fukkatsu! | 98061 | [98061-tenchi-fukkatsu.json](./98061-tenchi-fukkatsu.json) |
 | Tenchi Muyo! Game-hen | 84452 | [84452-tenchi-muyo-game-hen.json](./84452-tenchi-muyo-game-hen.json) |
+| Tenchi Muyo! Mimiri Onsen: Yukemuri no Tabi | 289363 | [289363-tenchi-muyo-mimiri-onsen-yukemuri-no-tabi.json](./289363-tenchi-muyo-mimiri-onsen-yukemuri-no-tabi.json) |
 | Tenchi Muyo! Rensa Hitsuyou | 69329 | [69329-tenchi-muyo-rensa-hitsuyou.json](./69329-tenchi-muyo-rensa-hitsuyou.json) |
 | Tenchi Muyo! Ryo-Ohki | 288133 | [288133-tenchi-muyo-ryo-ohki.json](./288133-tenchi-muyo-ryo-ohki.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi Muyo! Ryou-ouki: Gokuraku CD-ROM | 288135 | [288135-tenchi-muyo-ryou-ouki-gokuraku-cd-rom.json](./288135-tenchi-muyo-ryou-ouki-gokuraku-cd-rom.json) |
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
+| Tenchi Muyo! Toko Muyo: Aniraji Collection | 289364 | [289364-tenchi-muyo-toko-muyo-aniraji-collection.json](./289364-tenchi-muyo-toko-muyo-aniraji-collection.json) |
 | Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau | 298800 | [298800-tenchi-wo-kurau.json](./298800-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau II: Sekiheki no Tatakai | 45019 | [45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json](./45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json) |
@@ -11173,6 +11176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Match Girl, by Hans Christian Andersen | 290401 | [290401-the-little-match-girl-by-hans-christian-andersen.json](./290401-the-little-match-girl-by-hans-christian-andersen.json) |
 | The Little Mermaid | 255682 | [255682-the-little-mermaid.json](./255682-the-little-mermaid.json) |
 | The Little Mermaid: Ariel and the Star Festival | 312065 | [312065-the-little-mermaid-ariel-and-the-star-festival.json](./312065-the-little-mermaid-ariel-and-the-star-festival.json) |
+| The Little Mermaid: Princess of the Underwater Kingdoms | 289367 | [289367-the-little-mermaid-princess-of-the-underwater-kingdoms.json](./289367-the-little-mermaid-princess-of-the-underwater-kingdoms.json) |
 | The Little Mermaid: The Wedding | 371003 | [371003-the-little-mermaid-the-wedding.json](./371003-the-little-mermaid-the-wedding.json) |
 | The Little Mermaid: Visual Harmony | 274449 | [274449-the-little-mermaid-visual-harmony.json](./274449-the-little-mermaid-visual-harmony.json) |
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
@@ -16824,6 +16828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Next Stop | 391879 | [391879-there-is-no-next-stop.json](./391879-there-is-no-next-stop.json) |
 | There is No Pause Button! | 69374 | [69374-there-is-no-pause-button.json](./69374-there-is-no-pause-button.json) |
 | There is No Plan B | 298390 | [298390-there-is-no-plan-b.json](./298390-there-is-no-plan-b.json) |
+| There Is No Sleep | 289284 | [289284-there-is-no-sleep.json](./289284-there-is-no-sleep.json) |
 | There Is No Tomorrow | 84041 | [84041-there-is-no-tomorrow.json](./84041-there-is-no-tomorrow.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
