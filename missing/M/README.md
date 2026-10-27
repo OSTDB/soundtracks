@@ -4898,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
+| Matreshka | 304529 | [304529-matreshka.json](./304529-matreshka.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matrimelee | 92937 | [92937-matrimelee.json](./92937-matrimelee.json) |
 | Matrioshkas On a Roll! | 418615 | [418615-matrioshkas-on-a-roll.json](./418615-matrioshkas-on-a-roll.json) |
@@ -10720,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 234164 | [234164-minesweeper.json](./234164-minesweeper.json) |
 | Minesweeper | 245020 | [245020-minesweeper.json](./245020-minesweeper.json) |
 | Minesweeper | 267982 | [267982-minesweeper.json](./267982-minesweeper.json) |
+| Minesweeper | 304543 | [304543-minesweeper.json](./304543-minesweeper.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
 | Minesweeper | 360126 | [360126-minesweeper.json](./360126-minesweeper.json) |
