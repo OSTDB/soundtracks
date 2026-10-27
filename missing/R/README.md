@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Truck Simulator USA & Ultimate 4x4 Offroad & Real Car Driving Simulator Bundle | 385130 | [385130-real-truck-simulator-usa-and-ultimate-4x4-offroad-and-real-car-driving-simulator-bundle.json](./385130-real-truck-simulator-usa-and-ultimate-4x4-offroad-and-real-car-driving-simulator-bundle.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
 | Real Turbo Racing | 100797 | [100797-real-turbo-racing.json](./100797-real-turbo-racing.json) |
+| Real Turmoil | 302408 | [302408-real-turmoil.json](./302408-real-turmoil.json) |
 | Real Vampires | 351402 | [351402-real-vampires.json](./351402-real-vampires.json) |
 | Real VR Fishing | 130566 | [130566-real-vr-fishing.json](./130566-real-vr-fishing.json) |
 | Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
@@ -8106,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
 | Rocket Panda | 302425 | [302425-rocket-panda.json](./302425-rocket-panda.json) |
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
+| Rocket Poker | 302396 | [302396-rocket-poker.json](./302396-rocket-poker.json) |
 | Rocket Power: Beach Bandits | 243188 | [243188-rocket-power-beach-bandits.json](./243188-rocket-power-beach-bandits.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Rabbit - Coin Race | 147866 | [147866-rocket-rabbit-coin-race.json](./147866-rocket-rabbit-coin-race.json) |
@@ -8758,6 +8760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rohgah Armor Force | 94756 | [94756-rohgah-armor-force.json](./94756-rohgah-armor-force.json) |
 | Roid Chimp | 366297 | [366297-roid-chimp.json](./366297-roid-chimp.json) |
 | Roid Rage | 113366 | [113366-roid-rage.json](./113366-roid-rage.json) |
+| Roiders | 302340 | [302340-roiders.json](./302340-roiders.json) |
 | Roidrekt | 114954 | [114954-roidrekt.json](./114954-roidrekt.json) |
 | Roids | 264564 | [264564-roids.json](./264564-roids.json) |
 | Rojiura Glory Hole | 193264 | [193264-rojiura-glory-hole.json](./193264-rojiura-glory-hole.json) |
