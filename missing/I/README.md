@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Spiral: Custom Spiral Pack | 291702 | [291702-idle-spiral-custom-spiral-pack.json](./291702-idle-spiral-custom-spiral-pack.json) |
 | Idle Spiral: Daily Spiral Pack | 290817 | [290817-idle-spiral-daily-spiral-pack.json](./290817-idle-spiral-daily-spiral-pack.json) |
 | Idle Spiral: Pixel Pack | 290821 | [290821-idle-spiral-pixel-pack.json](./290821-idle-spiral-pixel-pack.json) |
+| Idle Spiral: Railway Pack | 288923 | [288923-idle-spiral-railway-pack.json](./288923-idle-spiral-railway-pack.json) |
 | Idle Spiral: Snake Pack | 290815 | [290815-idle-spiral-snake-pack.json](./290815-idle-spiral-snake-pack.json) |
 | Idle Spiral: Space Pack | 290816 | [290816-idle-spiral-space-pack.json](./290816-idle-spiral-space-pack.json) |
 | Idle Spiral: Water Pack | 290819 | [290819-idle-spiral-water-pack.json](./290819-idle-spiral-water-pack.json) |
