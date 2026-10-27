@@ -4359,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
+| Sei-Romance Gakuen: Koi no Toki-meki Daisakusen | 283538 | [283538-sei-romance-gakuen-koi-no-toki-meki-daisakusen.json](./283538-sei-romance-gakuen-koi-no-toki-meki-daisakusen.json) |
 | Seibu Keisatsu | 346045 | [346045-seibu-keisatsu.json](./346045-seibu-keisatsu.json) |
 | Seibu Keisatsu Part-III | 346046 | [346046-seibu-keisatsu-part-iii.json](./346046-seibu-keisatsu-part-iii.json) |
 | Seicross | 289162 | [289162-seicross.json](./289162-seicross.json) |
@@ -11415,6 +11416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
 | Slendytubbies II | 214423 | [214423-slendytubbies-ii.json](./214423-slendytubbies-ii.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
+| Slendytubbies: Worlds | 283548 | [283548-slendytubbies-worlds.json](./283548-slendytubbies-worlds.json) |
 | Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
 | SLG Remix | 33428 | [33428-slg-remix.json](./33428-slg-remix.json) |
 | SLI-FI: 2D Planet Platformer | 55694 | [55694-sli-fi-2d-planet-platformer.json](./55694-sli-fi-2d-planet-platformer.json) |
@@ -29456,6 +29458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors: Viy | 107583 | [107583-survivors-viy.json](./107583-survivors-viy.json) |
 | SurviVR - Castle Defender | 120068 | [120068-survivr-castle-defender.json](./120068-survivr-castle-defender.json) |
 | SUS | 290548 | [290548-sus.json](./290548-sus.json) |
+| Sus Hat | 283545 | [283545-sus-hat.json](./283545-sus-hat.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | SUS: The Game | 282101 | [282101-sus-the-game.json](./282101-sus-the-game.json) |
 | Sus! | 377065 | [377065-sus.json](./377065-sus.json) |
