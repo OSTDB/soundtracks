@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
 | Water balls | 39847 | [39847-water-balls.json](./39847-water-balls.json) |
 | Water Bears VR | 34719 | [34719-water-bears-vr.json](./34719-water-bears-vr.json) |
+| Water Blast Shooter: Wet Gun | 323109 | [323109-water-blast-shooter-wet-gun.json](./323109-water-blast-shooter-wet-gun.json) |
 | Water Boiling Simulator | 179004 | [179004-water-boiling-simulator.json](./179004-water-boiling-simulator.json) |
 | Water Bugs | 73218 | [73218-water-bugs.json](./73218-water-bugs.json) |
 | Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
@@ -3037,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WestFallen | 201547 | [201547-westfallen.json](./201547-westfallen.json) |
 | Westgrove | 240321 | [240321-westgrove.json](./240321-westgrove.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
+| Westild's Law | 323108 | [323108-westilds-law.json](./323108-westilds-law.json) |
 | WestLand Adventure | 157051 | [157051-westland-adventure.json](./157051-westland-adventure.json) |
 | Westland Cowboy: Rodeo Rider | 259631 | [259631-westland-cowboy-rodeo-rider.json](./259631-westland-cowboy-rodeo-rider.json) |
 | Westland Survival | 105735 | [105735-westland-survival.json](./105735-westland-survival.json) |
