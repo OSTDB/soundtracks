@@ -2200,6 +2200,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot: Theo's Quest | 190416 | [190416-tarot-theos-quest.json](./190416-tarot-theos-quest.json) |
 | Tarotica Voo Doo | 28737 | [28737-tarotica-voo-doo.json](./28737-tarotica-voo-doo.json) |
 | Tarr Chronicles | 66757 | [66757-tarr-chronicles.json](./66757-tarr-chronicles.json) |
+| Tarragona 1+2: Escipions Tower/Escipions Caves | 315547 | [315547-tarragona-1-2-escipions-tower-escipions-caves.json](./315547-tarragona-1-2-escipions-tower-escipions-caves.json) |
+| Tarragona 3: Devil's Bridge | 315549 | [315549-tarragona-3-devils-bridge.json](./315549-tarragona-3-devils-bridge.json) |
+| Tarragona 4: Devil's Lair | 315544 | [315544-tarragona-4-devils-lair.json](./315544-tarragona-4-devils-lair.json) |
+| Tarragona 5: The Underground Empire | 315551 | [315551-tarragona-5-the-underground-empire.json](./315551-tarragona-5-the-underground-empire.json) |
 | Tarragona 6: Algernon's Lab | 315553 | [315553-tarragona-6-algernons-lab.json](./315553-tarragona-6-algernons-lab.json) |
 | Tarragona 7: Civilisations Crossroads | 315555 | [315555-tarragona-7-civilisations-crossroads.json](./315555-tarragona-7-civilisations-crossroads.json) |
 | Tarragona 8+9: Final Countdown | 315557 | [315557-tarragona-8-9-final-countdown.json](./315557-tarragona-8-9-final-countdown.json) |
@@ -10524,6 +10528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Baboo | 320143 | [320143-the-legend-of-baboo.json](./320143-the-legend-of-baboo.json) |
 | The Legend of Banjo-Kazooie: Gruntilda's Mask | 201769 | [201769-the-legend-of-banjo-kazooie-gruntildas-mask.json](./201769-the-legend-of-banjo-kazooie-gruntildas-mask.json) |
 | The Legend of Banjo-Kazooie: The Bear Waker | 135261 | [135261-the-legend-of-banjo-kazooie-the-bear-waker.json](./135261-the-legend-of-banjo-kazooie-the-bear-waker.json) |
+| The Legend of Banjo-Kazooie: The Bear Waker Deluxe | 315448 | [315448-the-legend-of-banjo-kazooie-the-bear-waker-deluxe.json](./315448-the-legend-of-banjo-kazooie-the-bear-waker-deluxe.json) |
 | The Legend of Banjo-Kazooie: The Jiggies of Time | 146272 | [146272-the-legend-of-banjo-kazooie-the-jiggies-of-time.json](./146272-the-legend-of-banjo-kazooie-the-jiggies-of-time.json) |
 | The Legend of Bear: Truck Trucker | 158179 | [158179-the-legend-of-bear-truck-trucker.json](./158179-the-legend-of-bear-truck-trucker.json) |
 | The Legend of Beowulf | 267391 | [267391-the-legend-of-beowulf.json](./267391-the-legend-of-beowulf.json) |
@@ -17065,6 +17070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
 | This is not RPG | 43156 | [43156-this-is-not-rpg.json](./43156-this-is-not-rpg.json) |
 | This is Not the End | 129466 | [129466-this-is-not-the-end.json](./129466-this-is-not-the-end.json) |
+| This is Not Your House | 315439 | [315439-this-is-not-your-house.json](./315439-this-is-not-your-house.json) |
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
 | This is the last time | 337550 | [337550-this-is-the-last-time.json](./337550-this-is-the-last-time.json) |
@@ -25728,6 +25734,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Abyss | 109358 | [109358-treasure-of-abyss.json](./109358-treasure-of-abyss.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
 | Treasure of Big Totem | 315258 | [315258-treasure-of-big-totem.json](./315258-treasure-of-big-totem.json) |
+| Treasure of Big Totem 16 | 315432 | [315432-treasure-of-big-totem-16.json](./315432-treasure-of-big-totem-16.json) |
+| Treasure of Big Totem 17 | 315433 | [315433-treasure-of-big-totem-17.json](./315433-treasure-of-big-totem-17.json) |
 | Treasure of Big Totem 2 | 315259 | [315259-treasure-of-big-totem-2.json](./315259-treasure-of-big-totem-2.json) |
 | Treasure of Big Totem 3 | 315260 | [315260-treasure-of-big-totem-3.json](./315260-treasure-of-big-totem-3.json) |
 | Treasure of Big Totem 4 | 315261 | [315261-treasure-of-big-totem-4.json](./315261-treasure-of-big-totem-4.json) |
@@ -25735,6 +25743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 6 | 315264 | [315264-treasure-of-big-totem-6.json](./315264-treasure-of-big-totem-6.json) |
 | Treasure of Big Totem 7 | 315266 | [315266-treasure-of-big-totem-7.json](./315266-treasure-of-big-totem-7.json) |
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
+| Treasure of Big Totem: The Narrative | 315441 | [315441-treasure-of-big-totem-the-narrative.json](./315441-treasure-of-big-totem-the-narrative.json) |
 | Treasure of Cutlass Reef | 261211 | [261211-treasure-of-cutlass-reef.json](./261211-treasure-of-cutlass-reef.json) |
 | Treasure of Nadia | 127644 | [127644-treasure-of-nadia.json](./127644-treasure-of-nadia.json) |
 | Treasure of Ocean | 399435 | [399435-treasure-of-ocean.json](./399435-treasure-of-ocean.json) |
@@ -26192,6 +26201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triennale Game Collection Vol. 2 | 207027 | [207027-triennale-game-collection-vol-2.json](./207027-triennale-game-collection-vol-2.json) |
 | Trifecta | 309556 | [309556-trifecta.json](./309556-trifecta.json) |
 | Trifide | 94381 | [94381-trifide.json](./94381-trifide.json) |
+| Trifling | 315531 | [315531-trifling.json](./315531-trifling.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
 | Trigaea | 227914 | [227914-trigaea.json](./227914-trigaea.json) |
