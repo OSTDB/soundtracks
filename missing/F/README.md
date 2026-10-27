@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Fruit | 399201 | [399201-false-fruit.json](./399201-false-fruit.json) |
 | False God | 399172 | [399172-false-god.json](./399172-false-god.json) |
 | False Hero | 275734 | [275734-false-hero.json](./275734-false-hero.json) |
+| False Hope | 323138 | [323138-false-hope.json](./323138-false-hope.json) |
 | False Hope | 408987 | [408987-false-hope.json](./408987-false-hope.json) |
 | False Love: Ghost or Not? | 414444 | [414444-false-love-ghost-or-not.json](./414444-false-love-ghost-or-not.json) |
 | False Mall | 311570 | [311570-false-mall.json](./311570-false-mall.json) |
@@ -5443,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
 | Fish RPG | 232912 | [232912-fish-rpg.json](./232912-fish-rpg.json) |
 | Fish Season | 350506 | [350506-fish-season.json](./350506-fish-season.json) |
+| Fish Shop Simulator | 323120 | [323120-fish-shop-simulator.json](./323120-fish-shop-simulator.json) |
 | Fish Simulator: Agonik Lake | 240761 | [240761-fish-simulator-agonik-lake.json](./240761-fish-simulator-agonik-lake.json) |
 | Fish Simulator: Aquarium Manager | 121785 | [121785-fish-simulator-aquarium-manager.json](./121785-fish-simulator-aquarium-manager.json) |
 | Fish Stick Protocol | 340540 | [340540-fish-stick-protocol.json](./340540-fish-stick-protocol.json) |
@@ -8842,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress Guardian | 394140 | [394140-fortress-guardian.json](./394140-fortress-guardian.json) |
 | Fortress Interior | 272168 | [272168-fortress-interior.json](./272168-fortress-interior.json) |
+| Fortress Legends | 323128 | [323128-fortress-legends.json](./323128-fortress-legends.json) |
 | Fortress Merge | 417272 | [417272-fortress-merge.json](./417272-fortress-merge.json) |
 | Fortress of the Arcane Conduit | 282617 | [282617-fortress-of-the-arcane-conduit.json](./282617-fortress-of-the-arcane-conduit.json) |
 | Fortress of the Undead | 248075 | [248075-fortress-of-the-undead.json](./248075-fortress-of-the-undead.json) |
@@ -9952,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
 | Fresh Craft : Survival & Creative | 101292 | [101292-fresh-craft-survival-and-creative.json](./101292-fresh-craft-survival-and-creative.json) |
+| Fresh Deck Poker: Mafia World | 323129 | [323129-fresh-deck-poker-mafia-world.json](./323129-fresh-deck-poker-mafia-world.json) |
 | Fresh Food Merge | 397989 | [397989-fresh-food-merge.json](./397989-fresh-food-merge.json) |
 | Fresh Force Frustrations: A Gay Superhero Erotic Visual Novel | 258831 | [258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json](./258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json) |
 | Fresh Hops | 333232 | [333232-fresh-hops.json](./333232-fresh-hops.json) |
