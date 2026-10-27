@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Baby | 353757 | [353757-egg-baby.json](./353757-egg-baby.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
 | Egg Collector | 246497 | [246497-egg-collector.json](./246497-egg-collector.json) |
+| Egg Defense | 295230 | [295230-egg-defense.json](./295230-egg-defense.json) |
 | Egg Drop | 264233 | [264233-egg-drop.json](./264233-egg-drop.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Finder | 360457 | [360457-egg-finder.json](./360457-egg-finder.json) |
@@ -4552,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
 | Escape From Zombie City | 85118 | [85118-escape-from-zombie-city.json](./85118-escape-from-zombie-city.json) |
 | Escape From Zombie U: Reloaded | 199601 | [199601-escape-from-zombie-u-reloaded.json](./199601-escape-from-zombie-u-reloaded.json) |
+| Escape From Zombietown | 295221 | [295221-escape-from-zombietown.json](./295221-escape-from-zombietown.json) |
 | Escape Gaia | 311586 | [311586-escape-gaia.json](./311586-escape-gaia.json) |
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape Game | 105753 | [105753-escape-game.json](./105753-escape-game.json) |
@@ -4735,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the House | 413116 | [413116-escape-the-house.json](./413116-escape-the-house.json) |
 | Escape the Humans | 362409 | [362409-escape-the-humans.json](./362409-escape-the-humans.json) |
 | Escape the Island | 128852 | [128852-escape-the-island.json](./128852-escape-the-island.json) |
+| Escape the Kreegan | 295226 | [295226-escape-the-kreegan.json](./295226-escape-the-kreegan.json) |
 | Escape the Lab | 126938 | [126938-escape-the-lab.json](./126938-escape-the-lab.json) |
 | Escape the Labyrinth | 109317 | [109317-escape-the-labyrinth.json](./109317-escape-the-labyrinth.json) |
 | Escape the Laser Trap | 332926 | [332926-escape-the-laser-trap.json](./332926-escape-the-laser-trap.json) |
@@ -5799,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlight | 184987 | [184987-everlight.json](./184987-everlight.json) |
 | Everlong | 124650 | [124650-everlong.json](./124650-everlong.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
+| Everlords | 295299 | [295299-everlords.json](./295299-everlords.json) |
 | Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverMerge | 135600 | [135600-evermerge.json](./135600-evermerge.json) |
