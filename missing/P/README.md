@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel de Pon: Event Version | 150105 | [150105-panel-de-pon-event-version.json](./150105-panel-de-pon-event-version.json) |
 | Panel de Pon: Event Version 2 | 150106 | [150106-panel-de-pon-event-version-2.json](./150106-panel-de-pon-event-version-2.json) |
 | Panel Flux | 269112 | [269112-panel-flux.json](./269112-panel-flux.json) |
+| Panel no Ninja Kesamaru | 305208 | [305208-panel-no-ninja-kesamaru.json](./305208-panel-no-ninja-kesamaru.json) |
 | Panel Quiz Attack 25 | 200419 | [200419-panel-quiz-attack-25.json](./200419-panel-quiz-attack-25.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Panel Room: Escape Game | 276927 | [276927-panel-room-escape-game.json](./276927-panel-room-escape-game.json) |
@@ -7544,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Possum | 199132 | [199132-pizza-possum.json](./199132-pizza-possum.json) |
 | Pizza Quest | 305489 | [305489-pizza-quest.json](./305489-pizza-quest.json) |
 | Pizza Quest | 311334 | [311334-pizza-quest.json](./311334-pizza-quest.json) |
+| Pizza Ready! | 305128 | [305128-pizza-ready.json](./305128-pizza-ready.json) |
 | Pizza Rogue: P.P.M.P.D.E.S. | 334218 | [334218-pizza-rogue-p-p-m-p-d-e-s.json](./334218-pizza-rogue-p-p-m-p-d-e-s.json) |
 | Pizza Run | 200582 | [200582-pizza-run.json](./200582-pizza-run.json) |
 | Pizza Rush Race: Fighting Boss | 320925 | [320925-pizza-rush-race-fighting-boss.json](./320925-pizza-rush-race-fighting-boss.json) |
@@ -12125,6 +12127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prim | 143333 | [143333-prim.json](./143333-prim.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
+| Primado Reig 103 | 305212 | [305212-primado-reig-103.json](./305212-primado-reig-103.json) |
 | Primage | 292969 | [292969-primage.json](./292969-primage.json) |
 | Primal | 11789 | [11789-primal.json](./11789-primal.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
@@ -12313,6 +12316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Lost Crown - Complete Upgrade Pack | 317691 | [317691-prince-of-persia-the-lost-crown-complete-upgrade-pack.json](./317691-prince-of-persia-the-lost-crown-complete-upgrade-pack.json) |
 | Prince of Persia: The Lost Crown - Dark Prince Skin | 317689 | [317689-prince-of-persia-the-lost-crown-dark-prince-skin.json](./317689-prince-of-persia-the-lost-crown-dark-prince-skin.json) |
 | Prince of Persia: The Lost Crown - Deluxe Edition | 252992 | [252992-prince-of-persia-the-lost-crown-deluxe-edition.json](./252992-prince-of-persia-the-lost-crown-deluxe-edition.json) |
+| Prince of Persia: The Lost Crown - Divine Trials | 305239 | [305239-prince-of-persia-the-lost-crown-divine-trials.json](./305239-prince-of-persia-the-lost-crown-divine-trials.json) |
+| Prince of Persia: The Lost Crown - Mask of Darkness | 305240 | [305240-prince-of-persia-the-lost-crown-mask-of-darkness.json](./305240-prince-of-persia-the-lost-crown-mask-of-darkness.json) |
 | Prince of Persia: The Lost Crown - Two Thrones Skin | 317690 | [317690-prince-of-persia-the-lost-crown-two-thrones-skin.json](./317690-prince-of-persia-the-lost-crown-two-thrones-skin.json) |
 | Prince of Persia: The Sands of Time | 213051 | [213051-prince-of-persia-the-sands-of-time.json](./213051-prince-of-persia-the-sands-of-time.json) |
 | Prince of Persia: The Sands of Time & Lara Croft Tomb Raider: The Prophecy | 84173 | [84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json](./84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json) |
@@ -15943,6 +15948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid | 185891 | [185891-pyramid.json](./185891-pyramid.json) |
 | Pyramid | 195054 | [195054-pyramid.json](./195054-pyramid.json) |
 | Pyramid | 25831 | [25831-pyramid.json](./25831-pyramid.json) |
+| Pyramid | 305223 | [305223-pyramid.json](./305223-pyramid.json) |
 | Pyramid | 86002 | [86002-pyramid.json](./86002-pyramid.json) |
 | Pyramid 2097 | 133738 | [133738-pyramid-2097.json](./133738-pyramid-2097.json) |
 | Pyramid Adventures | 46569 | [46569-pyramid-adventures.json](./46569-pyramid-adventures.json) |
