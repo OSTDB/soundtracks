@@ -5830,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCrisis | 243562 | [243562-mechcrisis.json](./243562-mechcrisis.json) |
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
 | MechCube: Escape | 121387 | [121387-mechcube-escape.json](./121387-mechcube-escape.json) |
+| MechDrachen | 288801 | [288801-mechdrachen.json](./288801-mechdrachen.json) |
 | Mechenosets | 311065 | [311065-mechenosets.json](./311065-mechenosets.json) |
 | Mechers | 257250 | [257250-mechers.json](./257250-mechers.json) |
 | Mechinus | 99497 | [99497-mechinus.json](./99497-mechinus.json) |
@@ -12976,6 +12977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
 | Money Maker | 111872 | [111872-money-maker.json](./111872-money-maker.json) |
+| Money Maker | 288806 | [288806-money-maker.json](./288806-money-maker.json) |
 | Money Maker | 343782 | [343782-money-maker.json](./343782-money-maker.json) |
 | Money Mansion | 170350 | [170350-money-mansion.json](./170350-money-mansion.json) |
 | Money Maze | 221897 | [221897-money-maze.json](./221897-money-maze.json) |
@@ -17069,6 +17071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My 5-Star Hotel | 106897 | [106897-my-5-star-hotel.json](./106897-my-5-star-hotel.json) |
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
 | My Adaptation In(to) Human | 301348 | [301348-my-adaptation-in-to-human.json](./301348-my-adaptation-in-to-human.json) |
+| My Adventure Book | 288722 | [288722-my-adventure-book.json](./288722-my-adventure-book.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
 | My Amazing Human Body | 129506 | [129506-my-amazing-human-body.json](./129506-my-amazing-human-body.json) |
 | My Ambitious Girlfriend | 299522 | [299522-my-ambitious-girlfriend.json](./299522-my-ambitious-girlfriend.json) |
