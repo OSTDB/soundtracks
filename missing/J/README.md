@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinmu Denshou Yaksa | 37683 | [37683-jinmu-denshou-yaksa.json](./37683-jinmu-denshou-yaksa.json) |
 | Jinni 2: The Ritual | 379405 | [379405-jinni-2-the-ritual.json](./379405-jinni-2-the-ritual.json) |
 | Jinro Burger | 402449 | [402449-jinro-burger.json](./402449-jinro-burger.json) |
+| Jinro Metropolis | 325996 | [325996-jinro-metropolis.json](./325996-jinro-metropolis.json) |
 | Jinrou Game | 296100 | [296100-jinrou-game.json](./296100-jinrou-game.json) |
 | Jinrui no Minasama he: Suhaaya Shuka | 394890 | [394890-jinrui-no-minasama-he-suhaaya-shuka.json](./394890-jinrui-no-minasama-he-suhaaya-shuka.json) |
 | Jinsei 8-man-7000-kai no Shokuji wo Tanoshiku suru: Oishiku Kiwameru Shokutsuu DS - Otona no Shuumatsu Henshuu-bu Gensen no Osusume Tenpo Jouhou Iri | 269591 | [269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json](./269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json) |
