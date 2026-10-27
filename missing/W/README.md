@@ -6295,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woolly | 373250 | [373250-woolly.json](./373250-woolly.json) |
 | Woolly Boy And The Circus | 292582 | [292582-woolly-boy-and-the-circus.json](./292582-woolly-boy-and-the-circus.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
+| WooLoop: Advent 2 Pack | 319616 | [319616-wooloop-advent-2-pack.json](./319616-wooloop-advent-2-pack.json) |
 | WooLoop: Aquatic Pack | 291697 | [291697-wooloop-aquatic-pack.json](./291697-wooloop-aquatic-pack.json) |
 | WooLoop: Halloween Pack | 272238 | [272238-wooloop-halloween-pack.json](./272238-wooloop-halloween-pack.json) |
 | WooLoop: Industry Pack | 266315 | [266315-wooloop-industry-pack.json](./266315-wooloop-industry-pack.json) |
