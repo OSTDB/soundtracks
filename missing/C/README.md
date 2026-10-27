@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canine | 239130 | [239130-canine.json](./239130-canine.json) |
 | Canine Derby Manager | 402491 | [402491-canine-derby-manager.json](./402491-canine-derby-manager.json) |
 | Canis Major | 208659 | [208659-canis-major.json](./208659-canis-major.json) |
+| Canis Major Alpha | 316660 | [316660-canis-major-alpha.json](./316660-canis-major-alpha.json) |
 | Cannabis Store Simulator | 359338 | [359338-cannabis-store-simulator.json](./359338-cannabis-store-simulator.json) |
 | Cannabiz: Weed Shop Owner | 391640 | [391640-cannabiz-weed-shop-owner.json](./391640-cannabiz-weed-shop-owner.json) |
 | Cannery Vale | 216339 | [216339-cannery-vale.json](./216339-cannery-vale.json) |
@@ -8562,6 +8563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
 | Clickbox | 132022 | [132022-clickbox.json](./132022-clickbox.json) |
 | Clickbox | 132023 | [132023-clickbox.json](./132023-clickbox.json) |
+| ClickCatToe | 316600 | [316600-clickcattoe.json](./316600-clickcattoe.json) |
 | ClickCells: CPU Girls | 385040 | [385040-clickcells-cpu-girls.json](./385040-clickcells-cpu-girls.json) |
 | ClickCells: Summer | 173834 | [173834-clickcells-summer.json](./173834-clickcells-summer.json) |
 | ClickCells: Winter Lady | 168213 | [168213-clickcells-winter-lady.json](./168213-clickcells-winter-lady.json) |
@@ -16717,6 +16719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Car | 182928 | [182928-cursor-car.json](./182928-cursor-car.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
 | Cursor Custodian | 178856 | [178856-cursor-custodian.json](./178856-cursor-custodian.json) |
+| Cursor Kingdom | 316668 | [316668-cursor-kingdom.json](./316668-cursor-kingdom.json) |
 | Cursor Story | 237355 | [237355-cursor-story.json](./237355-cursor-story.json) |
 | Cursor Thief | 261893 | [261893-cursor-thief.json](./261893-cursor-thief.json) |
 | Cursor*10 | 29042 | [29042-cursor-10.json](./29042-cursor-10.json) |
