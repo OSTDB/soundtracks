@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Mabel Mysteries: Death on Board - Collector’s Edition | 383759 | [383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json](./383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json) |
 | Lady of Bones, a Mother's Legacy | 273757 | [273757-lady-of-bones-a-mothers-legacy.json](./273757-lady-of-bones-a-mothers-legacy.json) |
 | Lady of Dreams | 215337 | [215337-lady-of-dreams.json](./215337-lady-of-dreams.json) |
+| Lady of Hwarang | 288166 | [288166-lady-of-hwarang.json](./288166-lady-of-hwarang.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
 | Lady Popular: Fashion Arena | 351050 | [351050-lady-popular-fashion-arena.json](./351050-lady-popular-fashion-arena.json) |
 | Lady Rose Wardrobe | 398639 | [398639-lady-rose-wardrobe.json](./398639-lady-rose-wardrobe.json) |
@@ -4959,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Christmas Workshop | 382306 | [382306-little-christmas-workshop.json](./382306-little-christmas-workshop.json) |
 | Little Cities | 201654 | [201654-little-cities.json](./201654-little-cities.json) |
 | Little Cities: Attractions Update | 251571 | [251571-little-cities-attractions-update.json](./251571-little-cities-attractions-update.json) |
+| Little Cities: Bigger! | 288170 | [288170-little-cities-bigger.json](./288170-little-cities-bigger.json) |
 | Little Cities: Diorama | 355958 | [355958-little-cities-diorama.json](./355958-little-cities-diorama.json) |
 | Little Cities: Hand Tracking Update | 251570 | [251570-little-cities-hand-tracking-update.json](./251570-little-cities-hand-tracking-update.json) |
 | Little Cities: Little Citizens Update | 251573 | [251573-little-cities-little-citizens-update.json](./251573-little-cities-little-citizens-update.json) |
@@ -7467,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love love demon ji | 385906 | [385906-love-love-demon-ji.json](./385906-love-love-demon-ji.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
 | Love Love Joe Biden: The Joe Biden Dating Simulator | 248819 | [248819-love-love-joe-biden-the-joe-biden-dating-simulator.json](./248819-love-love-joe-biden-the-joe-biden-dating-simulator.json) |
+| Love Love Knuckle | 288158 | [288158-love-love-knuckle.json](./288158-love-love-knuckle.json) |
 | Love Love Love | 284242 | [284242-love-love-love.json](./284242-love-love-love.json) |
 | Love Love Mystery Club | 386233 | [386233-love-love-mystery-club.json](./386233-love-love-mystery-club.json) |
 | Love Love School Days | 212174 | [212174-love-love-school-days.json](./212174-love-love-school-days.json) |
