@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makibishi Comic | 294981 | [294981-makibishi-comic.json](./294981-makibishi-comic.json) |
 | Makin Biscuits | 178516 | [178516-makin-biscuits.json](./178516-makin-biscuits.json) |
 | Making Burgers | 359321 | [359321-making-burgers.json](./359321-making-burgers.json) |
+| Making Fiends: Pumpin Plunkin' | 304072 | [304072-making-fiends-pumpin-plunkin.json](./304072-making-fiends-pumpin-plunkin.json) |
 | Making Friends | 303646 | [303646-making-friends.json](./303646-making-friends.json) |
 | Making History II: The War of the World | 15026 | [15026-making-history-ii-the-war-of-the-world.json](./15026-making-history-ii-the-war-of-the-world.json) |
 | Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
@@ -2366,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malvinas 2032 | 69243 | [69243-malvinas-2032.json](./69243-malvinas-2032.json) |
 | Malvinas: La Ultima Carta | 303645 | [303645-malvinas-la-ultima-carta.json](./303645-malvinas-la-ultima-carta.json) |
 | Malvirta Station | 271459 | [271459-malvirta-station.json](./271459-malvirta-station.json) |
+| Malware | 303987 | [303987-malware.json](./303987-malware.json) |
 | Malware Derby | 244896 | [244896-malware-derby.json](./244896-malware-derby.json) |
 | Malware Rewritten | 217353 | [217353-malware-rewritten.json](./217353-malware-rewritten.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
@@ -8271,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Dogs | 144769 | [144769-metal-dogs.json](./144769-metal-dogs.json) |
 | Metal Dogs EX Quest01: Here Comes the Metal Enemies | 296619 | [296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json](./296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
+| Metal Dragon | 304080 | [304080-metal-dragon.json](./304080-metal-dragon.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
 | Metal Drift | 14957 | [14957-metal-drift.json](./14957-metal-drift.json) |
@@ -12094,7 +12097,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 2K13 | 7064 | [7064-mlb-2k13.json](./7064-mlb-2k13.json) |
 | MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
 | MLB 9 Innings 16 | 57364 | [57364-mlb-9-innings-16.json](./57364-mlb-9-innings-16.json) |
+| MLB 9 Innings 17 | 304063 | [304063-mlb-9-innings-17.json](./304063-mlb-9-innings-17.json) |
 | MLB 9 Innings 18 | 96267 | [96267-mlb-9-innings-18.json](./96267-mlb-9-innings-18.json) |
+| MLB 9 Innings 19 | 304065 | [304065-mlb-9-innings-19.json](./304065-mlb-9-innings-19.json) |
+| MLB 9 Innings 20 | 304070 | [304070-mlb-9-innings-20.json](./304070-mlb-9-innings-20.json) |
 | MLB 9 Innings 21 | 145538 | [145538-mlb-9-innings-21.json](./145538-mlb-9-innings-21.json) |
 | MLB 9 Innings 23 | 243137 | [243137-mlb-9-innings-23.json](./243137-mlb-9-innings-23.json) |
 | MLB 9 Innings 24 | 303182 | [303182-mlb-9-innings-24.json](./303182-mlb-9-innings-24.json) |
