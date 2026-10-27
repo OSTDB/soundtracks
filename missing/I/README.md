@@ -52,7 +52,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I Am Data | 121538 | [121538-i-am-data.json](./121538-i-am-data.json) |
 | I am Dave | 255716 | [255716-i-am-dave.json](./255716-i-am-dave.json) |
-| I Am Dead | 131869 | [131869-i-am-dead.json](./131869-i-am-dead.json) |
 | I am Dictator | 149911 | [149911-i-am-dictator.json](./149911-i-am-dictator.json) |
 | I Am Die | 217381 | [217381-i-am-die.json](./217381-i-am-die.json) |
 | I Am Dog | 296918 | [296918-i-am-dog.json](./296918-i-am-dog.json) |
