@@ -13479,6 +13479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hospital: Doctor Mode | 154601 | [154601-project-hospital-doctor-mode.json](./154601-project-hospital-doctor-mode.json) |
 | Project Hospital: Hospital Services | 154599 | [154599-project-hospital-hospital-services.json](./154599-project-hospital-hospital-services.json) |
 | Project Hospital: Traumatology Department | 154598 | [154598-project-hospital-traumatology-department.json](./154598-project-hospital-traumatology-department.json) |
+| Project Hover | 306319 | [306319-project-hover.json](./306319-project-hover.json) |
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
 | Project Hunt | 253516 | [253516-project-hunt.json](./253516-project-hunt.json) |
 | Project Hybrid | 269223 | [269223-project-hybrid.json](./269223-project-hybrid.json) |
