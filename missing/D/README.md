@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day Zero - Build, Craft, Survive | 119485 | [119485-day-zero-build-craft-survive.json](./119485-day-zero-build-craft-survive.json) |
 | Day_000 | 261981 | [261981-day-000.json](./261981-day-000.json) |
 | Day: 40 | 116915 | [116915-day-40.json](./116915-day-40.json) |
+| Day: Dream | 290373 | [290373-day-dream.json](./290373-day-dream.json) |
 | Day/Night Town | 139267 | [139267-day-night-town.json](./139267-day-night-town.json) |
 | Daybreak | 217245 | [217245-daybreak.json](./217245-daybreak.json) |
 | Daybreak | 380239 | [380239-daybreak.json](./380239-daybreak.json) |
@@ -5793,8 +5794,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
 | Dental Recviem | 177236 | [177236-dental-recviem.json](./177236-dental-recviem.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
+| Dentist Bling | 290442 | [290442-dentist-bling.json](./290442-dentist-bling.json) |
 | Dentist Bling: Complete Edition | 294832 | [294832-dentist-bling-complete-edition.json](./294832-dentist-bling-complete-edition.json) |
 | Dentist Bling: Fantasy Edition | 304782 | [304782-dentist-bling-fantasy-edition.json](./304782-dentist-bling-fantasy-edition.json) |
+| Dentist Bling: Mad Scientist | 290443 | [290443-dentist-bling-mad-scientist.json](./290443-dentist-bling-mad-scientist.json) |
+| Dentist Bling: Tooth Fairy | 290444 | [290444-dentist-bling-tooth-fairy.json](./290444-dentist-bling-tooth-fairy.json) |
 | Dentist For Kids | 100224 | [100224-dentist-for-kids.json](./100224-dentist-for-kids.json) |
 | Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
@@ -7423,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing Adventure | 131896 | [131896-diddy-kong-racing-adventure.json](./131896-diddy-kong-racing-adventure.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
+| Diddy Kong Racing: Ocarina of Time | 290359 | [290359-diddy-kong-racing-ocarina-of-time.json](./290359-diddy-kong-racing-ocarina-of-time.json) |
 | Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
 | Didgery | 33867 | [33867-didgery.json](./33867-didgery.json) |
 | Didgery | 94109 | [94109-didgery.json](./94109-didgery.json) |
@@ -9893,6 +9898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Pound Theater | 179391 | [179391-dog-pound-theater.json](./179391-dog-pound-theater.json) |
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
+| Dog Racing: Lovely Pet Friends Paw | 290445 | [290445-dog-racing-lovely-pet-friends-paw.json](./290445-dog-racing-lovely-pet-friends-paw.json) |
 | Dog Run - Pet Dog Simulator | 107062 | [107062-dog-run-pet-dog-simulator.json](./107062-dog-run-pet-dog-simulator.json) |
 | Dog School: Lovely Puppy | 222179 | [222179-dog-school-lovely-puppy.json](./222179-dog-school-lovely-puppy.json) |
 | Dog Show Friends | 62043 | [62043-dog-show-friends.json](./62043-dog-show-friends.json) |
@@ -10868,6 +10874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
 | Donkey Kong Land: New Colors Mode | 173120 | [173120-donkey-kong-land-new-colors-mode.json](./173120-donkey-kong-land-new-colors-mode.json) |
 | Donkey Kong no Ongaku Asobi | 131901 | [131901-donkey-kong-no-ongaku-asobi.json](./131901-donkey-kong-no-ongaku-asobi.json) |
+| Donkey Kong Pac-Man Crossover | 290237 | [290237-donkey-kong-pac-man-crossover.json](./290237-donkey-kong-pac-man-crossover.json) |
 | Donkey Kong Plus | 185889 | [185889-donkey-kong-plus.json](./185889-donkey-kong-plus.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
