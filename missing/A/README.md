@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
 | Agtnan: Monster Shutdown Sequence | 116022 | [116022-agtnan-monster-shutdown-sequence.json](./116022-agtnan-monster-shutdown-sequence.json) |
 | Aguante Imaginario | 107240 | [107240-aguante-imaginario.json](./107240-aguante-imaginario.json) |
+| Agujero | 296846 | [296846-agujero.json](./296846-agujero.json) |
 | Aguni: Unmei no Saki | 413839 | [413839-aguni-unmei-no-saki.json](./413839-aguni-unmei-no-saki.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | AGwaK Adventures | 313574 | [313574-agwak-adventures.json](./313574-agwak-adventures.json) |
@@ -4289,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Mahjong 2000 | 308215 | [308215-ai-mahjong-2000.json](./308215-ai-mahjong-2000.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Mahjong Selection | 349952 | [349952-ai-mahjong-selection.json](./349952-ai-mahjong-selection.json) |
+| Ai no Karakuri | 296861 | [296861-ai-no-karakuri.json](./296861-ai-no-karakuri.json) |
 | AI Olympius | 254030 | [254030-ai-olympius.json](./254030-ai-olympius.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI People | 317314 | [317314-ai-people.json](./317314-ai-people.json) |
@@ -6484,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone With a Bunch of Robots | 115158 | [115158-alone-with-a-bunch-of-robots.json](./115158-alone-with-a-bunch-of-robots.json) |
 | Alone With You | 8635 | [8635-alone-with-you.json](./8635-alone-with-you.json) |
 | Alone Without Her | 19380 | [19380-alone-without-her.json](./19380-alone-without-her.json) |
+| Alone: Chapter 1 | 296885 | [296885-alone-chapter-1.json](./296885-alone-chapter-1.json) |
 | Alone: Cold Winter | 239202 | [239202-alone-cold-winter.json](./239202-alone-cold-winter.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone: Zombiewoods | 385662 | [385662-alone-zombiewoods.json](./385662-alone-zombiewoods.json) |
@@ -12413,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Dreams | 14170 | [14170-artificial-dreams.json](./14170-artificial-dreams.json) |
 | Artificial Entanglement | 192768 | [192768-artificial-entanglement.json](./192768-artificial-entanglement.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
+| Artificial Fashionista | 296862 | [296862-artificial-fashionista.json](./296862-artificial-fashionista.json) |
 | Artificial Fashionista: Autumn Collection | 363693 | [363693-artificial-fashionista-autumn-collection.json](./363693-artificial-fashionista-autumn-collection.json) |
 | Artificial Fashionista: Extra Collection | 363691 | [363691-artificial-fashionista-extra-collection.json](./363691-artificial-fashionista-extra-collection.json) |
 | Artificial Fashionista: Spring Collection | 363692 | [363692-artificial-fashionista-spring-collection.json](./363692-artificial-fashionista-spring-collection.json) |
