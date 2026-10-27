@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.IV Evolution: Hatsubai Kinen Gentei Set | 307056 | [307056-a-iv-evolution-hatsubai-kinen-gentei-set.json](./307056-a-iv-evolution-hatsubai-kinen-gentei-set.json) |
 | A.J.'s World of Discovery | 73176 | [73176-a-j-s-world-of-discovery.json](./73176-a-j-s-world-of-discovery.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
+| A.L.I.G.N.E.D | 317168 | [317168-a-l-i-g-n-e-d.json](./317168-a-l-i-g-n-e-d.json) |
 | A.L.T. | 239590 | [239590-a-l-t.json](./239590-a-l-t.json) |
 | A.M.C.: Astro Marine Corps | 11881 | [11881-a-m-c-astro-marine-corps.json](./11881-a-m-c-astro-marine-corps.json) |
 | A.N.N. | 306778 | [306778-a-n-n.json](./306778-a-n-n.json) |
@@ -8551,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalon: Epic Monsters Battle | 355120 | [355120-animalon-epic-monsters-battle.json](./355120-animalon-epic-monsters-battle.json) |
 | Animals | 203527 | [203527-animals.json](./203527-animals.json) |
 | Animals | 314287 | [314287-animals.json](./314287-animals.json) |
+| Animals & Coins | 317177 | [317177-animals-and-coins.json](./317177-animals-and-coins.json) |
 | Animals Collision | 199375 | [199375-animals-collision.json](./199375-animals-collision.json) |
 | Animals Fight | 192764 | [192764-animals-fight.json](./192764-animals-fight.json) |
 | Animals In Buildings | 177311 | [177311-animals-in-buildings.json](./177311-animals-in-buildings.json) |
@@ -8671,6 +8673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
 | Anime Girls Basketball League | 309004 | [309004-anime-girls-basketball-league.json](./309004-anime-girls-basketball-league.json) |
 | Anime Girls Jigsaw Puzzles | 384007 | [384007-anime-girls-jigsaw-puzzles.json](./384007-anime-girls-jigsaw-puzzles.json) |
+| Anime Girls Military Strike | 317263 | [317263-anime-girls-military-strike.json](./317263-anime-girls-military-strike.json) |
 | Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
 | Anime Girls vs. Soldiers | 191043 | [191043-anime-girls-vs-soldiers.json](./191043-anime-girls-vs-soldiers.json) |
 | Anime Girls: Beautiful Bride | 317881 | [317881-anime-girls-beautiful-bride.json](./317881-anime-girls-beautiful-bride.json) |
@@ -10394,6 +10397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Cosmo Gang the Video | 246874 | [246874-arcade-archives-cosmo-gang-the-video.json](./246874-arcade-archives-cosmo-gang-the-video.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
+| Arcade Archives: Crime City | 317264 | [317264-arcade-archives-crime-city.json](./317264-arcade-archives-crime-city.json) |
 | Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
 | Arcade Archives: Cue Brick | 303858 | [303858-arcade-archives-cue-brick.json](./303858-arcade-archives-cue-brick.json) |
 | Arcade Archives: Cybattler | 145373 | [145373-arcade-archives-cybattler.json](./145373-arcade-archives-cybattler.json) |
@@ -11238,6 +11242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArduGolf: 18-Hole Mini Golf | 227997 | [227997-ardugolf-18-hole-mini-golf.json](./227997-ardugolf-18-hole-mini-golf.json) |
 | ArduLO | 414321 | [414321-ardulo.json](./414321-ardulo.json) |
 | Arduminer | 227998 | [227998-arduminer.json](./227998-arduminer.json) |
+| ArduRogue | 317192 | [317192-ardurogue.json](./317192-ardurogue.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
 | Ardy Lightfoot | 42736 | [42736-ardy-lightfoot.json](./42736-ardy-lightfoot.json) |
 | Ardy the Aardvark | 25036 | [25036-ardy-the-aardvark.json](./25036-ardy-the-aardvark.json) |
@@ -15006,6 +15011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventura Copilului Albastru și Urât | 198321 | [198321-aventura-copilului-albastru-si-urat.json](./198321-aventura-copilului-albastru-si-urat.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
 | Aventura na Selva com Gilberto Barros | 145386 | [145386-aventura-na-selva-com-gilberto-barros.json](./145386-aventura-na-selva-com-gilberto-barros.json) |
+| Aventuras en la Manigua | 317190 | [317190-aventuras-en-la-manigua.json](./317190-aventuras-en-la-manigua.json) |
 | Aventuras na Selva | 215309 | [215309-aventuras-na-selva.json](./215309-aventuras-na-selva.json) |
 | Avenue Escape | 390485 | [390485-avenue-escape.json](./390485-avenue-escape.json) |
 | Avenue Flo | 18878 | [18878-avenue-flo.json](./18878-avenue-flo.json) |
