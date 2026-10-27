@@ -5402,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live checkpoint | 127677 | [127677-live-checkpoint.json](./127677-live-checkpoint.json) |
 | Live Cycling Manager 2 | 197760 | [197760-live-cycling-manager-2.json](./197760-live-cycling-manager-2.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
+| Live Day | 302320 | [302320-live-day.json](./302320-live-day.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live for Speed | 9492 | [9492-live-for-speed.json](./9492-live-for-speed.json) |
 | Live Hard, Die Hard | 265826 | [265826-live-hard-die-hard.json](./265826-live-hard-die-hard.json) |
