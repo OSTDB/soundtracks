@@ -3041,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Eclipse of Ragnarok | 379350 | [379350-infernal-eclipse-of-ragnarok.json](./379350-infernal-eclipse-of-ragnarok.json) |
 | Infernal House | 174633 | [174633-infernal-house.json](./174633-infernal-house.json) |
 | Infernal Hunt | 303580 | [303580-infernal-hunt.json](./303580-infernal-hunt.json) |
+| Infernal Legions | 326000 | [326000-infernal-legions.json](./326000-infernal-legions.json) |
 | Infernal Racket | 72355 | [72355-infernal-racket.json](./72355-infernal-racket.json) |
 | Infernal Road | 224036 | [224036-infernal-road.json](./224036-infernal-road.json) |
 | Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
@@ -5232,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
 | Island of Mogambo | 268986 | [268986-island-of-mogambo.json](./268986-island-of-mogambo.json) |
 | Island of Ruin | 391622 | [391622-island-of-ruin.json](./391622-island-of-ruin.json) |
+| Island of Sacrifice | 326008 | [326008-island-of-sacrifice.json](./326008-island-of-sacrifice.json) |
 | Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
 | Island of the Damned | 185469 | [185469-island-of-the-damned.json](./185469-island-of-the-damned.json) |
 | Island of Winds | 171529 | [171529-island-of-winds.json](./171529-island-of-winds.json) |
