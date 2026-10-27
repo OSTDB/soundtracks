@@ -4476,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Defender | 379164 | [379164-air-defender.json](./379164-air-defender.json) |
 | Air Defenders | 219981 | [219981-air-defenders.json](./219981-air-defenders.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
+| Air Drop | 318369 | [318369-air-drop.json](./318369-air-drop.json) |
 | Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
 | Air Duel: 80 Years of Dogfighting | 72528 | [72528-air-duel-80-years-of-dogfighting.json](./72528-air-duel-80-years-of-dogfighting.json) |
 | Air Field Hockey | 175157 | [175157-air-field-hockey.json](./175157-air-field-hockey.json) |
@@ -7599,6 +7600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Outcry, Prelude | 198319 | [198319-an-outcry-prelude.json](./198319-an-outcry-prelude.json) |
 | An Outland Village | 327728 | [327728-an-outland-village.json](./327728-an-outland-village.json) |
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
+| An Unfinished Game | 318451 | [318451-an-unfinished-game.json](./318451-an-unfinished-game.json) |
 | An unfolding Adventure | 184795 | [184795-an-unfolding-adventure.json](./184795-an-unfolding-adventure.json) |
 | An Uninvited Guest | 195546 | [195546-an-uninvited-guest.json](./195546-an-uninvited-guest.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
@@ -11167,6 +11169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Eggs | 280931 | [280931-arctic-eggs.json](./280931-arctic-eggs.json) |
 | Arctic Escape | 84758 | [84758-arctic-escape.json](./84758-arctic-escape.json) |
 | Arctic Fleet | 112967 | [112967-arctic-fleet.json](./112967-arctic-fleet.json) |
+| Arctic Flyer | 318376 | [318376-arctic-flyer.json](./318376-arctic-flyer.json) |
 | Arctic Grave | 382831 | [382831-arctic-grave.json](./382831-arctic-grave.json) |
 | Arctic Incident | 221924 | [221924-arctic-incident.json](./221924-arctic-incident.json) |
 | Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
