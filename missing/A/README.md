@@ -428,6 +428,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Good Place To Die | 247317 | [247317-a-good-place-to-die.json](./247317-a-good-place-to-die.json) |
 | A Gorilla vs. 100 Men Simulator | 359567 | [359567-a-gorilla-vs-100-men-simulator.json](./359567-a-gorilla-vs-100-men-simulator.json) |
 | A Gracewind Tale: Do You Copy? | 97468 | [97468-a-gracewind-tale-do-you-copy.json](./97468-a-gracewind-tale-do-you-copy.json) |
+| A Gracewind Tale: Midnight Shift with Lenny Motts | 327729 | [327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json](./327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json) |
+| A Gracewind Tale: The Leeds Murder | 327730 | [327730-a-gracewind-tale-the-leeds-murder.json](./327730-a-gracewind-tale-the-leeds-murder.json) |
 | A Grain of Truth | 388278 | [388278-a-grain-of-truth.json](./388278-a-grain-of-truth.json) |
 | A Grande Bagunça Espacial: The Big Space Mess | 90459 | [90459-a-grande-bagunca-espacial-the-big-space-mess.json](./90459-a-grande-bagunca-espacial-the-big-space-mess.json) |
 | A Grave Errand | 419620 | [419620-a-grave-errand.json](./419620-a-grave-errand.json) |
@@ -7571,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Otaku like me has 2 Fiancees?! | 208271 | [208271-an-otaku-like-me-has-2-fiancees.json](./208271-an-otaku-like-me-has-2-fiancees.json) |
 | An Outcry | 182180 | [182180-an-outcry.json](./182180-an-outcry.json) |
 | An Outcry, Prelude | 198319 | [198319-an-outcry-prelude.json](./198319-an-outcry-prelude.json) |
+| An Outland Village | 327728 | [327728-an-outland-village.json](./327728-an-outland-village.json) |
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
 | An unfolding Adventure | 184795 | [184795-an-unfolding-adventure.json](./184795-an-unfolding-adventure.json) |
 | An Uninvited Guest | 195546 | [195546-an-uninvited-guest.json](./195546-an-uninvited-guest.json) |
@@ -12843,6 +12846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 3: Judgment of Atlantis | 124163 | [124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json](./124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Lost Tales of Greece | 241431 | [241431-assassins-creed-odyssey-the-lost-tales-of-greece.json](./241431-assassins-creed-odyssey-the-lost-tales-of-greece.json) |
 | Assassin's Creed Odyssey: Those Who Are Treasured | 325330 | [325330-assassins-creed-odyssey-those-who-are-treasured.json](./325330-assassins-creed-odyssey-those-who-are-treasured.json) |
+| Assassin's Creed Origins: Secrets of the First Pyramids | 327770 | [327770-assassins-creed-origins-secrets-of-the-first-pyramids.json](./327770-assassins-creed-origins-secrets-of-the-first-pyramids.json) |
 | Assassin's Creed Origins: The Hidden Ones | 22964 | [22964-assassins-creed-origins-the-hidden-ones.json](./22964-assassins-creed-origins-the-hidden-ones.json) |
 | Assassin's Creed Revelations Mobile | 68529 | [68529-assassins-creed-revelations-mobile.json](./68529-assassins-creed-revelations-mobile.json) |
 | Assassin's Creed Revelations: Mediterranean Traveler Map Pack | 167242 | [167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json](./167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json) |
@@ -13276,6 +13280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Vortex | 370906 | [370906-astra-vortex.json](./370906-astra-vortex.json) |
 | Astra Wing | 384825 | [384825-astra-wing.json](./384825-astra-wing.json) |
 | Astra: Ardent Show | 395947 | [395947-astra-ardent-show.json](./395947-astra-ardent-show.json) |
+| Astra: Era of Anguish | 327757 | [327757-astra-era-of-anguish.json](./327757-astra-era-of-anguish.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astra's Garden | 234543 | [234543-astras-garden.json](./234543-astras-garden.json) |
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
