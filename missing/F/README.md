@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Strike | 45111 | [45111-fantasy-strike.json](./45111-fantasy-strike.json) |
 | Fantasy Strike: Core Pack | 169312 | [169312-fantasy-strike-core-pack.json](./169312-fantasy-strike-core-pack.json) |
 | Fantasy Survivors | 240654 | [240654-fantasy-survivors.json](./240654-fantasy-survivors.json) |
+| Fantasy Sword | 323691 | [323691-fantasy-sword.json](./323691-fantasy-sword.json) |
 | Fantasy Tactics | 334923 | [334923-fantasy-tactics.json](./334923-fantasy-tactics.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Sextet Vol. 2: Adventurer's Days | 144071 | [144071-fantasy-tavern-sextet-vol-2-adventurers-days.json](./144071-fantasy-tavern-sextet-vol-2-adventurers-days.json) |
