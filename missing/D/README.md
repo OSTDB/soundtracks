@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date The Dude | 342491 | [342491-date-the-dude.json](./342491-date-the-dude.json) |
 | Date Time: Melissa, Morris, Anna | 244166 | [244166-date-time-melissa-morris-anna.json](./244166-date-time-melissa-morris-anna.json) |
 | Date Treat | 146520 | [146520-date-treat.json](./146520-date-treat.json) |
+| Date Tseries | 326521 | [326521-date-tseries.json](./326521-date-tseries.json) |
 | Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
 | Date Warp | 17400 | [17400-date-warp.json](./17400-date-warp.json) |
 | Date With a Girl: Mahjong | 368904 | [368904-date-with-a-girl-mahjong.json](./368904-date-with-a-girl-mahjong.json) |
@@ -5787,6 +5788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth of Extinction: Definitive Edition | 222236 | [222236-depth-of-extinction-definitive-edition.json](./222236-depth-of-extinction-definitive-edition.json) |
 | Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
 | Depth VR | 31098 | [31098-depth-vr.json](./31098-depth-vr.json) |
+| Depth-Blind | 326565 | [326565-depth-blind.json](./326565-depth-blind.json) |
 | Depth: Aquatic Stealth | 79194 | [79194-depth-aquatic-stealth.json](./79194-depth-aquatic-stealth.json) |
 | Depth: Digital Deluxe Edition | 52889 | [52889-depth-digital-deluxe-edition.json](./52889-depth-digital-deluxe-edition.json) |
 | Depth:Origin | 351787 | [351787-depth-origin.json](./351787-depth-origin.json) |
@@ -9335,12 +9337,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Technika 3 Pack | 225046 | [225046-djmax-respect-v-technika-3-pack.json](./225046-djmax-respect-v-technika-3-pack.json) |
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
 | DJMax Respect V: Technika Tune & Q Pack | 225051 | [225051-djmax-respect-v-technika-tune-and-q-pack.json](./225051-djmax-respect-v-technika-tune-and-q-pack.json) |
+| DJMAX Respect V: Tekken Pack | 326533 | [326533-djmax-respect-v-tekken-pack.json](./326533-djmax-respect-v-tekken-pack.json) |
 | DJMax Respect V: Trilogy Pack | 225045 | [225045-djmax-respect-v-trilogy-pack.json](./225045-djmax-respect-v-trilogy-pack.json) |
 | DJMax Respect V: V Extension II Pack | 225055 | [225055-djmax-respect-v-v-extension-ii-pack.json](./225055-djmax-respect-v-v-extension-ii-pack.json) |
 | DJMax Respect V: V Extension III Pack | 226691 | [226691-djmax-respect-v-v-extension-iii-pack.json](./226691-djmax-respect-v-v-extension-iii-pack.json) |
 | DJMax Respect V: V Extension IV Pack | 252048 | [252048-djmax-respect-v-v-extension-iv-pack.json](./252048-djmax-respect-v-v-extension-iv-pack.json) |
 | DJMax Respect V: V Extension Pack | 225057 | [225057-djmax-respect-v-v-extension-pack.json](./225057-djmax-respect-v-v-extension-pack.json) |
 | DJMax Respect V: V Extension V Pack | 279537 | [279537-djmax-respect-v-v-extension-v-pack.json](./279537-djmax-respect-v-v-extension-v-pack.json) |
+| DJMax Respect V: V Liberty II Pack | 326531 | [326531-djmax-respect-v-v-liberty-ii-pack.json](./326531-djmax-respect-v-v-liberty-ii-pack.json) |
 | DJMax Respect V: V Liberty III Pack | 351490 | [351490-djmax-respect-v-v-liberty-iii-pack.json](./351490-djmax-respect-v-v-liberty-iii-pack.json) |
 | DJMax Respect V: V Liberty IV Pack | 410701 | [410701-djmax-respect-v-v-liberty-iv-pack.json](./410701-djmax-respect-v-v-liberty-iv-pack.json) |
 | DJMax Respect V: V Liberty Pack | 307059 | [307059-djmax-respect-v-v-liberty-pack.json](./307059-djmax-respect-v-v-liberty-pack.json) |
@@ -15309,6 +15313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon No Dungeon: Blood Knight | 171023 | [171023-dungeon-no-dungeon-blood-knight.json](./171023-dungeon-no-dungeon-blood-knight.json) |
 | Dungeon No Dungeon: Reaper | 171022 | [171022-dungeon-no-dungeon-reaper.json](./171022-dungeon-no-dungeon-reaper.json) |
 | Dungeon No Dungeon: Tyrant's Endgame | 253968 | [253968-dungeon-no-dungeon-tyrants-endgame.json](./253968-dungeon-no-dungeon-tyrants-endgame.json) |
+| Dungeon Odyssey | 326555 | [326555-dungeon-odyssey.json](./326555-dungeon-odyssey.json) |
 | Dungeon of Argion | 245941 | [245941-dungeon-of-argion.json](./245941-dungeon-of-argion.json) |
 | Dungeon of Astaroth | 293976 | [293976-dungeon-of-astaroth.json](./293976-dungeon-of-astaroth.json) |
 | Dungeon of Calibris: Demon Orb | 412011 | [412011-dungeon-of-calibris-demon-orb.json](./412011-dungeon-of-calibris-demon-orb.json) |
