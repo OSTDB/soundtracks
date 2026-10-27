@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
 | I'm a King | 151557 | [151557-im-a-king.json](./151557-im-a-king.json) |
 | I’m a Love Interest in My Childhood Friend’s Halloween Story | 179674 | [179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json](./179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json) |
+| I'm a Rocker! | 289289 | [289289-im-a-rocker.json](./289289-im-a-rocker.json) |
 | I'm a Sardine Keita | 384571 | [384571-im-a-sardine-keita.json](./384571-im-a-sardine-keita.json) |
 | I'm a Side Character in a BL story! | 177877 | [177877-im-a-side-character-in-a-bl-story.json](./177877-im-a-side-character-in-a-bl-story.json) |
 | I’m a Wizard, But I Dig | 384526 | [384526-i-m-a-wizard-but-i-dig.json](./384526-i-m-a-wizard-but-i-dig.json) |
