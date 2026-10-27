@@ -3441,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteretsu Daihyakka: Choujikuu Sugoroku | 37956 | [37956-kiteretsu-daihyakka-choujikuu-sugoroku.json](./37956-kiteretsu-daihyakka-choujikuu-sugoroku.json) |
 | Kiteretsu Daihyakka: Kiteretsu Toki Kyuushutsu Daisakusen Nari | 349444 | [349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json](./349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json) |
 | Kiteretsu Daihyakka: Koujiki Daihatsumei Nari | 349429 | [349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json](./349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json) |
+| Kiteretsu Soudan Dial | 287250 | [287250-kiteretsu-soudan-dial.json](./287250-kiteretsu-soudan-dial.json) |
 | Kiteretsu Soudan Dial: Heard Mikaishuu Kaii nomi Shutsugen | 301623 | [301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json](./301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kithack Model Club | 244685 | [244685-kithack-model-club.json](./244685-kithack-model-club.json) |
@@ -3926,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Expansion Packs Collection | 231282 | [231282-knights-and-guns-expansion-packs-collection.json](./231282-knights-and-guns-expansion-packs-collection.json) |
 | Knights & Guns: Extended Edition | 199820 | [199820-knights-and-guns-extended-edition.json](./199820-knights-and-guns-extended-edition.json) |
 | Knights & Guns: Gold Edition | 270794 | [270794-knights-and-guns-gold-edition.json](./270794-knights-and-guns-gold-edition.json) |
+| Knights & Guns: GOTY Edition | 287127 | [287127-knights-and-guns-goty-edition.json](./287127-knights-and-guns-goty-edition.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
 | Knights & Guns: NY Edition | 277893 | [277893-knights-and-guns-ny-edition.json](./277893-knights-and-guns-ny-edition.json) |
 | Knights & Guns: Platinum Edition | 274494 | [274494-knights-and-guns-platinum-edition.json](./274494-knights-and-guns-platinum-edition.json) |
@@ -4386,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koloboke: Sickness Simulator | 373344 | [373344-koloboke-sickness-simulator.json](./373344-koloboke-sickness-simulator.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
+| Koltera | 287138 | [287138-koltera.json](./287138-koltera.json) |
 | Koltera 2 | 392207 | [392207-koltera-2.json](./392207-koltera-2.json) |
 | Kolumno | 111641 | [111641-kolumno.json](./111641-kolumno.json) |
 | Kolydr | 387605 | [387605-kolydr.json](./387605-kolydr.json) |
