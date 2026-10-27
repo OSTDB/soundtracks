@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5079,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kujaku-ou II | 48439 | [48439-kujaku-ou-ii.json](./48439-kujaku-ou-ii.json) |
 | Kujibiki Unbalance: Kaichou Onegai Smash Fight | 165564 | [165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json](./165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json) |
 | Kujlevka | 172179 | [172179-kujlevka.json](./172179-kujlevka.json) |
+| Kukinta | 285306 | [285306-kukinta.json](./285306-kukinta.json) |
 | KukkoroDays | 136255 | [136255-kukkorodays.json](./136255-kukkorodays.json) |
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
