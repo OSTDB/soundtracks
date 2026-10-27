@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Is Missing! | 210224 | [210224-mario-is-missing.json](./210224-mario-is-missing.json) |
 | Mario Is Missing! | 48135 | [48135-mario-is-missing.json](./48135-mario-is-missing.json) |
 | Mario is Missing! Done Right | 130032 | [130032-mario-is-missing-done-right.json](./130032-mario-is-missing-done-right.json) |
+| Mario Jam | 316024 | [316024-mario-jam.json](./316024-mario-jam.json) |
 | Mario Kart | 221269 | [221269-mario-kart.json](./221269-mario-kart.json) |
 | Mario Kart 64 Deluxe | 254601 | [254601-mario-kart-64-deluxe.json](./254601-mario-kart-64-deluxe.json) |
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
@@ -7018,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman X Omega Blaster - Ultimate Edition | 369208 | [369208-megaman-x-omega-blaster-ultimate-edition.json](./369208-megaman-x-omega-blaster-ultimate-edition.json) |
 | Megaman X Retribution | 323023 | [323023-megaman-x-retribution.json](./323023-megaman-x-retribution.json) |
 | Megaman X Virus | 323027 | [323027-megaman-x-virus.json](./323027-megaman-x-virus.json) |
+| Megaman X: Omega Blaster | 316023 | [316023-megaman-x-omega-blaster.json](./316023-megaman-x-omega-blaster.json) |
 | Megaman X: Omega Blaster - Definitive Edition | 369207 | [369207-megaman-x-omega-blaster-definitive-edition.json](./369207-megaman-x-omega-blaster-definitive-edition.json) |
 | Megaman ZX Genesis | 334150 | [334150-megaman-zx-genesis.json](./334150-megaman-zx-genesis.json) |
 | MegaMan: Citrus Cult | 323767 | [323767-megaman-citrus-cult.json](./323767-megaman-citrus-cult.json) |
@@ -12535,6 +12537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogeko Castle | 61296 | [61296-mogeko-castle.json](./61296-mogeko-castle.json) |
 | Mogh | 126526 | [126526-mogh.json](./126526-mogh.json) |
 | MoghVR | 160136 | [160136-moghvr.json](./160136-moghvr.json) |
+| MogMog Planet | 316034 | [316034-mogmog-planet.json](./316034-mogmog-planet.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Mogrimera: Disciple of Order | 249907 | [249907-mogrimera-disciple-of-order.json](./249907-mogrimera-disciple-of-order.json) |
 | Mogu Valley | 371607 | [371607-mogu-valley.json](./371607-mogu-valley.json) |
@@ -17925,6 +17928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time | 235617 | [235617-my-time.json](./235617-my-time.json) |
 | My Time Alive | 159593 | [159593-my-time-alive.json](./159593-my-time-alive.json) |
 | My Time at Etheria | 281307 | [281307-my-time-at-etheria.json](./281307-my-time-at-etheria.json) |
+| My Time at Evershine | 316012 | [316012-my-time-at-evershine.json](./316012-my-time-at-evershine.json) |
 | My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
 | My Time at Portia: Housewarming Gift Set | 300930 | [300930-my-time-at-portia-housewarming-gift-set.json](./300930-my-time-at-portia-housewarming-gift-set.json) |
 | My Time At Portia: Player Costume Package | 294956 | [294956-my-time-at-portia-player-costume-package.json](./294956-my-time-at-portia-player-costume-package.json) |
