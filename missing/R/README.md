@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakshasa Street: Born to be King | 174709 | [174709-rakshasa-street-born-to-be-king.json](./174709-rakshasa-street-born-to-be-king.json) |
 | Rakshasa Street: Wargod | 193894 | [193894-rakshasa-street-wargod.json](./193894-rakshasa-street-wargod.json) |
 | Raku Jongg | 37356 | [37356-raku-jongg.json](./37356-raku-jongg.json) |
+| Rakudo yo Ori he | 322010 | [322010-rakudo-yo-ori-he.json](./322010-rakudo-yo-ori-he.json) |
 | Rakuen Hakai | 280742 | [280742-rakuen-hakai.json](./280742-rakuen-hakai.json) |
 | Rakuen no Rukia | 399192 | [399192-rakuen-no-rukia.json](./399192-rakuen-no-rukia.json) |
 | Rakuen Yuki | 205645 | [205645-rakuen-yuki.json](./205645-rakuen-yuki.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RelicMerge | 130074 | [130074-relicmerge.json](./130074-relicmerge.json) |
 | Relics 2: The Crusader's Tomb | 195236 | [195236-relics-2-the-crusaders-tomb.json](./195236-relics-2-the-crusaders-tomb.json) |
 | Relics of ancestors | 161334 | [161334-relics-of-ancestors.json](./161334-relics-of-ancestors.json) |
+| Relics of Aurelia | 322027 | [322027-relics-of-aurelia.json](./322027-relics-of-aurelia.json) |
 | Relics of Cilldrea | 236915 | [236915-relics-of-cilldrea.json](./236915-relics-of-cilldrea.json) |
 | Relics of Deldroneye 2: Island of Debreen | 137454 | [137454-relics-of-deldroneye-2-island-of-debreen.json](./137454-relics-of-deldroneye-2-island-of-debreen.json) |
 | Relics of Fate: A Penny Macey Mystery | 355593 | [355593-relics-of-fate-a-penny-macey-mystery.json](./355593-relics-of-fate-a-penny-macey-mystery.json) |
