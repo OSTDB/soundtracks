@@ -1870,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratten Reich | 195961 | [195961-ratten-reich.json](./195961-ratten-reich.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
 | Rattenkönig | 231786 | [231786-rattenkonig.json](./231786-rattenkonig.json) |
+| Rattenkönig | 293591 | [293591-rattenkonig.json](./293591-rattenkonig.json) |
 | Rattenwalzer: Pesnya o bor'be i zhizni chelovecheskoy | 367304 | [367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json](./367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json) |
 | Rattle | 100750 | [100750-rattle.json](./100750-rattle.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
@@ -2603,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real World RC | 240353 | [240353-real-world-rc.json](./240353-real-world-rc.json) |
 | Real Wrestling Fighting Game | 266255 | [266255-real-wrestling-fighting-game.json](./266255-real-wrestling-fighting-game.json) |
 | Real Zombie War Simulator | 237297 | [237297-real-zombie-war-simulator.json](./237297-real-zombie-war-simulator.json) |
+| Real-Gostop VR | 293664 | [293664-real-gostop-vr.json](./293664-real-gostop-vr.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
 | RealBX VR | 29481 | [29481-realbx-vr.json](./29481-realbx-vr.json) |
 | RealDol | 384336 | [384336-realdol.json](./384336-realdol.json) |
@@ -7102,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverflow | 252267 | [252267-riverflow.json](./252267-riverflow.json) |
 | Rivers of Chaos | 296343 | [296343-rivers-of-chaos.json](./296343-rivers-of-chaos.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
+| Riverside Gals | 294099 | [294099-riverside-gals.json](./294099-riverside-gals.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Riverwood Village | 268909 | [268909-riverwood-village.json](./268909-riverwood-village.json) |
 | Rivet | 137987 | [137987-rivet.json](./137987-rivet.json) |
