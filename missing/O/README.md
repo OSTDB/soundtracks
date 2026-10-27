@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
 | Oiligarchy | 101735 | [101735-oiligarchy.json](./101735-oiligarchy.json) |
 | Oily Tower | 386982 | [386982-oily-tower.json](./386982-oily-tower.json) |
+| Oimostfonwy | 326562 | [326562-oimostfonwy.json](./326562-oimostfonwy.json) |
 | Oinari Origami | 181171 | [181171-oinari-origami.json](./181171-oinari-origami.json) |
 | Oink Royale | 185600 | [185600-oink-royale.json](./185600-oink-royale.json) |
 | Oink Splash Party | 422522 | [422522-oink-splash-party.json](./422522-oink-splash-party.json) |
@@ -3689,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oryouri Pon! 11-gatsu-gou | 344848 | [344848-oryouri-pon-11-gatsu-gou.json](./344848-oryouri-pon-11-gatsu-gou.json) |
 | Oryouri Pon! 12-gatsu-gou | 344847 | [344847-oryouri-pon-12-gatsu-gou.json](./344847-oryouri-pon-12-gatsu-gou.json) |
 | Oryouri Pon! 2-gatsu-gou | 344850 | [344850-oryouri-pon-2-gatsu-gou.json](./344850-oryouri-pon-2-gatsu-gou.json) |
+| Oryum | 326526 | [326526-oryum.json](./326526-oryum.json) |
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
 | Os Cavaleiros do Zodíaco: A Guerra Galáctica | 278870 | [278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json](./278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
