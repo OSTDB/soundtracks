@@ -5611,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
 | Loan Shark | 350592 | [350592-loan-shark.json](./350592-loan-shark.json) |
 | Loan Wolf | 177505 | [177505-loan-wolf.json](./177505-loan-wolf.json) |
+| Loathsome Cleft | 313034 | [313034-loathsome-cleft.json](./313034-loathsome-cleft.json) |
 | Lobber | 257987 | [257987-lobber.json](./257987-lobber.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
 | Lober Lobe | 311475 | [311475-lober-lobe.json](./311475-lober-lobe.json) |
@@ -8063,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Sweet Home | 308372 | [308372-luigis-mansion-sweet-home.json](./308372-luigis-mansion-sweet-home.json) |
 | Luigi's Misadventures 5: Rougenia Merald's Challenge | 276789 | [276789-luigis-misadventures-5-rougenia-meralds-challenge.json](./276789-luigis-misadventures-5-rougenia-meralds-challenge.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
+| Luigi's Quest | 313088 | [313088-luigis-quest.json](./313088-luigis-quest.json) |
 | Luigi's Quest: Trouble in Sarasaland | 323612 | [323612-luigis-quest-trouble-in-sarasaland.json](./323612-luigis-quest-trouble-in-sarasaland.json) |
 | Luigi's Requiem | 319091 | [319091-luigis-requiem.json](./319091-luigis-requiem.json) |
 | Luigi's Revenge Interactive | 370091 | [370091-luigis-revenge-interactive.json](./370091-luigis-revenge-interactive.json) |
