@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxian | 277390 | [277390-galaxian.json](./277390-galaxian.json) |
 | Galaxian | 277391 | [277391-galaxian.json](./277391-galaxian.json) |
 | Galaxian | 277392 | [277392-galaxian.json](./277392-galaxian.json) |
+| Galaxian | 284380 | [284380-galaxian.json](./284380-galaxian.json) |
 | Galaxian | 4614 | [4614-galaxian.json](./4614-galaxian.json) |
 | Galaxian DX | 413202 | [413202-galaxian-dx.json](./413202-galaxian-dx.json) |
 | Galaxian Sleena | 304143 | [304143-galaxian-sleena.json](./304143-galaxian-sleena.json) |
