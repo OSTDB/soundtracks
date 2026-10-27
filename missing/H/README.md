@@ -5806,6 +5806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Caves | 173027 | [173027-hidden-caves.json](./173027-hidden-caves.json) |
 | Hidden Celtics | 322828 | [322828-hidden-celtics.json](./322828-hidden-celtics.json) |
 | Hidden Champion | 261715 | [261715-hidden-champion.json](./261715-hidden-champion.json) |
+| Hidden Chibis in Combinis | 302322 | [302322-hidden-chibis-in-combinis.json](./302322-hidden-chibis-in-combinis.json) |
 | Hidden Chinese Chess | 242109 | [242109-hidden-chinese-chess.json](./242109-hidden-chinese-chess.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
 | Hidden City: Hidden Object Adventure | 88900 | [88900-hidden-city-hidden-object-adventure.json](./88900-hidden-city-hidden-object-adventure.json) |
