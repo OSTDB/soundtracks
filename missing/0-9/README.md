@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Rollercoaster Rush | 133916 | [133916-3d-rollercoaster-rush.json](./133916-3d-rollercoaster-rush.json) |
 | 3D Seiddab Attack | 28477 | [28477-3d-seiddab-attack.json](./28477-3d-seiddab-attack.json) |
 | 3D Shooting Tsukuuru | 60581 | [60581-3d-shooting-tsukuuru.json](./60581-3d-shooting-tsukuuru.json) |
+| 3D Skills Start Here | 293101 | [293101-3d-skills-start-here.json](./293101-3d-skills-start-here.json) |
 | 3D Slime | 320843 | [320843-3d-slime.json](./320843-3d-slime.json) |
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
 | 3D Snowboard Resort Designer | 205950 | [205950-3d-snowboard-resort-designer.json](./205950-3d-snowboard-resort-designer.json) |
