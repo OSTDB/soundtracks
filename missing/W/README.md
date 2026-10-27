@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.I.M.S. | 374736 | [374736-w-i-m-s.json](./374736-w-i-m-s.json) |
 | W.I.N. | 41539 | [41539-w-i-n.json](./41539-w-i-n.json) |
 | W.I.T.C.H. | 374260 | [374260-w-i-t-c-h.json](./374260-w-i-t-c-h.json) |
+| W.I.T.S: Initiation | 287685 | [287685-w-i-t-s-initiation.json](./287685-w-i-t-s-initiation.json) |
 | W.O.L.F | 256333 | [256333-w-o-l-f.json](./256333-w-o-l-f.json) |
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
 | W.R.M. | 214345 | [214345-w-r-m.json](./214345-w-r-m.json) |
@@ -4281,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wibby Buddy | 366865 | [366865-wibby-buddy.json](./366865-wibby-buddy.json) |
 | Wibi!Data | 323558 | [323558-wibi-data.json](./323558-wibi-data.json) |
 | Wiblits | 58269 | [58269-wiblits.json](./58269-wiblits.json) |
+| Wiblu | 287692 | [287692-wiblu.json](./287692-wiblu.json) |
 | WiccAtriX | 282212 | [282212-wiccatrix.json](./282212-wiccatrix.json) |
 | Wicce | 32928 | [32928-wicce.json](./32928-wicce.json) |
 | Wichtel | 405483 | [405483-wichtel.json](./405483-wichtel.json) |
@@ -5624,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Eyes Closed: Season 2 | 414314 | [414314-with-eyes-closed-season-2.json](./414314-with-eyes-closed-season-2.json) |
 | With Eyes of Ice | 251971 | [251971-with-eyes-of-ice.json](./251971-with-eyes-of-ice.json) |
 | With Good Intentions | 197053 | [197053-with-good-intentions.json](./197053-with-good-intentions.json) |
+| With in the Obscurity | 287686 | [287686-with-in-the-obscurity.json](./287686-with-in-the-obscurity.json) |
 | With Locks of Love | 178581 | [178581-with-locks-of-love.json](./178581-with-locks-of-love.json) |
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
 | With Mountain Smiling | 250271 | [250271-with-mountain-smiling.json](./250271-with-mountain-smiling.json) |
@@ -5769,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Pool | 386287 | [386287-wizard-pool.json](./386287-wizard-pool.json) |
 | Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
 | Wizard Punks!!! | 392077 | [392077-wizard-punks.json](./392077-wizard-punks.json) |
+| Wizard Realm | 287684 | [287684-wizard-realm.json](./287684-wizard-realm.json) |
 | Wizard School Dropout | 416860 | [416860-wizard-school-dropout.json](./416860-wizard-school-dropout.json) |
 | Wizard Slime | 113173 | [113173-wizard-slime.json](./113173-wizard-slime.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
@@ -5776,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Tournament | 304012 | [304012-wizard-tournament.json](./304012-wizard-tournament.json) |
 | Wizard Vs Zombie | 88783 | [88783-wizard-vs-zombie.json](./88783-wizard-vs-zombie.json) |
 | Wizard Vs Zombie Unlocked | 100609 | [100609-wizard-vs-zombie-unlocked.json](./100609-wizard-vs-zombie-unlocked.json) |
+| Wizard War Online | 287682 | [287682-wizard-war-online.json](./287682-wizard-war-online.json) |
 | Wizard Warfare | 127196 | [127196-wizard-warfare.json](./127196-wizard-warfare.json) |
 | Wizard Warfare 2: Cephalopod Wars | 269201 | [269201-wizard-warfare-2-cephalopod-wars.json](./269201-wizard-warfare-2-cephalopod-wars.json) |
 | Wizard Wars | 300031 | [300031-wizard-wars.json](./300031-wizard-wars.json) |
@@ -5873,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards Tourney | 109438 | [109438-wizards-tourney.json](./109438-wizards-tourney.json) |
 | Wizards, Knights & Archers | 220719 | [220719-wizards-knights-and-archers.json](./220719-wizards-knights-and-archers.json) |
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
+| Wizarducks and the Lost Hat | 287683 | [287683-wizarducks-and-the-lost-hat.json](./287683-wizarducks-and-the-lost-hat.json) |
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
 | WizardWars.Online | 273763 | [273763-wizardwars-online.json](./273763-wizardwars-online.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
@@ -5903,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
 | Wizwag | 304014 | [304014-wizwag.json](./304014-wizwag.json) |
 | WizzBall | 81221 | [81221-wizzball.json](./81221-wizzball.json) |
+| Wizzerd Quest | 287687 | [287687-wizzerd-quest.json](./287687-wizzerd-quest.json) |
 | Wizzerd Quest 2 | 296455 | [296455-wizzerd-quest-2.json](./296455-wizzerd-quest-2.json) |
 | Wizzo PopOut | 348824 | [348824-wizzo-popout.json](./348824-wizzo-popout.json) |
 | WKSP Rumble | 156880 | [156880-wksp-rumble.json](./156880-wksp-rumble.json) |
@@ -5991,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
 | Wolf Souls | 249670 | [249670-wolf-souls.json](./249670-wolf-souls.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
+| Wolf Survival | 287688 | [287688-wolf-survival.json](./287688-wolf-survival.json) |
 | Wolf Tails | 99604 | [99604-wolf-tails.json](./99604-wolf-tails.json) |
 | Wolf Tales: Online RPG Sim | 145950 | [145950-wolf-tales-online-rpg-sim.json](./145950-wolf-tales-online-rpg-sim.json) |
 | Wolf The Lone Hunt | 274968 | [274968-wolf-the-lone-hunt.json](./274968-wolf-the-lone-hunt.json) |
@@ -6235,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
 | Wonderstructs | 414612 | [414612-wonderstructs.json](./414612-wonderstructs.json) |
+| Wonderway | 287689 | [287689-wonderway.json](./287689-wonderway.json) |
 | Wonderworld | 327771 | [327771-wonderworld.json](./327771-wonderworld.json) |
 | WonderWorld | 221640 | [221640-wonderworld.json](./221640-wonderworld.json) |
 | Wonderworld Amusement Park | 47968 | [47968-wonderworld-amusement-park.json](./47968-wonderworld-amusement-park.json) |
@@ -6327,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodstock 1969 | 96474 | [96474-woodstock-1969.json](./96474-woodstock-1969.json) |
 | Woodswalker | 384195 | [384195-woodswalker.json](./384195-woodswalker.json) |
 | Woodsy | 101602 | [101602-woodsy.json](./101602-woodsy.json) |
+| Woodsy Whatnots | 287691 | [287691-woodsy-whatnots.json](./287691-woodsy-whatnots.json) |
 | Woodturning 3D | 287664 | [287664-woodturning-3d.json](./287664-woodturning-3d.json) |
 | Woodturning 3D: Arts & Crafts | 288276 | [288276-woodturning-3d-arts-and-crafts.json](./288276-woodturning-3d-arts-and-crafts.json) |
 | Woodventure: Mahjong Connect | 238980 | [238980-woodventure-mahjong-connect.json](./238980-woodventure-mahjong-connect.json) |
