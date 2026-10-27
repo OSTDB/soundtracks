@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Bangerz | 265761 | [265761-head-bangerz.json](./265761-head-bangerz.json) |
 | Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
+| Head Chef | 293603 | [293603-head-chef.json](./293603-head-chef.json) |
 | Head Coach Tactics | 244140 | [244140-head-coach-tactics.json](./244140-head-coach-tactics.json) |
 | Head Coach v3 | 70477 | [70477-head-coach-v3.json](./70477-head-coach-v3.json) |
 | Head Collector VR | 309436 | [309436-head-collector-vr.json](./309436-head-collector-vr.json) |
@@ -5829,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
 | Hidden Collection - Fun Seek and Find Hidden Object Puzzles | 90370 | [90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json](./90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json) |
+| Hidden Corgi Mansion | 294186 | [294186-hidden-corgi-mansion.json](./294186-hidden-corgi-mansion.json) |
 | Hidden Cosmo Cats: Bonus Level | 291364 | [291364-hidden-cosmo-cats-bonus-level.json](./291364-hidden-cosmo-cats-bonus-level.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
@@ -6783,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Him, the Smile & Bloom Bundle | 330632 | [330632-him-the-smile-and-bloom-bundle.json](./330632-him-the-smile-and-bloom-bundle.json) |
 | Him, the Smile & Bloom: Additional scenario - Flower Halloween Night | 330625 | [330625-him-the-smile-and-bloom-additional-scenario-flower-halloween-night.json](./330625-him-the-smile-and-bloom-additional-scenario-flower-halloween-night.json) |
 | HimaNatsu: Of Churches, Sunflowers, and Long Summers | 410423 | [410423-himanatsu-of-churches-sunflowers-and-long-summers.json](./410423-himanatsu-of-churches-sunflowers-and-long-summers.json) |
+| Himantolo | 293660 | [293660-himantolo.json](./293660-himantolo.json) |
 | Himawari | 59462 | [59462-himawari.json](./59462-himawari.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
@@ -7623,6 +7626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Holmes Sherlock & Mycroft | 247367 | [247367-holmes-sherlock-and-mycroft.json](./247367-holmes-sherlock-and-mycroft.json) |
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
+| Holo Bike 3D | 293670 | [293670-holo-bike-3d.json](./293670-holo-bike-3d.json) |
 | Holo Dungeon | 180144 | [180144-holo-dungeon.json](./180144-holo-dungeon.json) |
 | Holo EN Rhythm Game | 179623 | [179623-holo-en-rhythm-game.json](./179623-holo-en-rhythm-game.json) |
 | Holo Hidden: My Lovely Fans Can't Be This Hidden | 361081 | [361081-holo-hidden-my-lovely-fans-cant-be-this-hidden.json](./361081-holo-hidden-my-lovely-fans-cant-be-this-hidden.json) |
@@ -10794,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperplasm | 142656 | [142656-hyperplasm.json](./142656-hyperplasm.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
+| HyperRaid | 293578 | [293578-hyperraid.json](./293578-hyperraid.json) |
 | Hyperrail Detective | 272762 | [272762-hyperrail-detective.json](./272762-hyperrail-detective.json) |
 | Hyperscale | 410398 | [410398-hyperscale.json](./410398-hyperscale.json) |
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
