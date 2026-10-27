@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Nine | 43186 | [43186-echo-nine.json](./43186-echo-nine.json) |
 | Echo of Combats | 114076 | [114076-echo-of-combats.json](./114076-echo-of-combats.json) |
 | Echo of Extinction | 274039 | [274039-echo-of-extinction.json](./274039-echo-of-extinction.json) |
+| Echo of Fear: Vol.1 Night Visit | 311528 | [311528-echo-of-fear-vol-1-night-visit.json](./311528-echo-of-fear-vol-1-night-visit.json) |
 | Echo of Humanity | 390723 | [390723-echo-of-humanity.json](./390723-echo-of-humanity.json) |
 | Echo of Migration | 258617 | [258617-echo-of-migration.json](./258617-echo-of-migration.json) |
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
@@ -2785,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Water Works | 407594 | [407594-empire-water-works.json](./407594-empire-water-works.json) |
 | Empire Z | 106738 | [106738-empire-z.json](./106738-empire-z.json) |
 | Empire: Four Kingdoms | 38893 | [38893-empire-four-kingdoms.json](./38893-empire-four-kingdoms.json) |
+| Empire: Sound of the North | 311511 | [311511-empire-sound-of-the-north.json](./311511-empire-sound-of-the-north.json) |
 | Empire: Total War - Downloadable Content Collection | 77238 | [77238-empire-total-war-downloadable-content-collection.json](./77238-empire-total-war-downloadable-content-collection.json) |
 | Empire: Total War - Elite Units of America | 82084 | [82084-empire-total-war-elite-units-of-america.json](./82084-empire-total-war-elite-units-of-america.json) |
 | Empire: Total War - Elite Units of the East | 82083 | [82083-empire-total-war-elite-units-of-the-east.json](./82083-empire-total-war-elite-units-of-the-east.json) |
@@ -3436,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
 | Enigma | 257825 | [257825-enigma.json](./257825-enigma.json) |
 | Enigma | 405496 | [405496-enigma.json](./405496-enigma.json) |
+| Enigma Awaken | 311517 | [311517-enigma-awaken.json](./311517-enigma-awaken.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
 | Enigma do Labirinto | 232455 | [232455-enigma-do-labirinto.json](./232455-enigma-do-labirinto.json) |
 | Enigma Engine | 143561 | [143561-enigma-engine.json](./143561-enigma-engine.json) |
@@ -4180,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error: Slasher Alert | 176251 | [176251-error-slasher-alert.json](./176251-error-slasher-alert.json) |
 | Error143 | 207032 | [207032-error143.json](./207032-error143.json) |
 | Error422 | 280743 | [280743-error422.json](./280743-error422.json) |
+| Error86 | 311523 | [311523-error86.json](./311523-error86.json) |
 | Errships | 258403 | [258403-errships.json](./258403-errships.json) |
 | Ersatz | 59238 | [59238-ersatz.json](./59238-ersatz.json) |
 | Erst Kerf | 130906 | [130906-erst-kerf.json](./130906-erst-kerf.json) |
