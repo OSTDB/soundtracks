@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Forest | 319186 | [319186-a-dark-forest.json](./319186-a-dark-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
+| A Dark Place 2 | 307002 | [307002-a-dark-place-2.json](./307002-a-dark-place-2.json) |
 | A Dark Room | 3245 | [3245-a-dark-room.json](./3245-a-dark-room.json) |
 | A Dark Sky Over Paradise | 228994 | [228994-a-dark-sky-over-paradise.json](./228994-a-dark-sky-over-paradise.json) |
 | A Dark World: The Glowing City | 126337 | [126337-a-dark-world-the-glowing-city.json](./126337-a-dark-world-the-glowing-city.json) |
@@ -3298,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Dancing: Secret Mission Disk | 242383 | [242383-aero-dancing-secret-mission-disk.json](./242383-aero-dancing-secret-mission-disk.json) |
 | Aero Effect | 134378 | [134378-aero-effect.json](./134378-aero-effect.json) |
 | Aero Elite: Combat Academy | 19711 | [19711-aero-elite-combat-academy.json](./19711-aero-elite-combat-academy.json) |
+| Aero Fighters | 306980 | [306980-aero-fighters.json](./306980-aero-fighters.json) |
 | Aero Fighters | 3147 | [3147-aero-fighters.json](./3147-aero-fighters.json) |
 | Aero Fighters 3 | 55051 | [55051-aero-fighters-3.json](./55051-aero-fighters-3.json) |
 | Aero Fighters Special | 351074 | [351074-aero-fighters-special.json](./351074-aero-fighters-special.json) |
@@ -4823,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airsoft Bomb | 102575 | [102575-airsoft-bomb.json](./102575-airsoft-bomb.json) |
 | Airsoft Online | 297765 | [297765-airsoft-online.json](./297765-airsoft-online.json) |
 | Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
+| Airspace Defender | 306929 | [306929-airspace-defender.json](./306929-airspace-defender.json) |
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
 | Airstrike | 94382 | [94382-airstrike.json](./94382-airstrike.json) |
 | AirStrike 3D: Operation W.A.T. | 70123 | [70123-airstrike-3d-operation-w-a-t.json](./70123-airstrike-3d-operation-w-a-t.json) |
@@ -6039,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | Alizarin Tetris | 93028 | [93028-alizarin-tetris.json](./93028-alizarin-tetris.json) |
 | Alize | 399762 | [399762-alize.json](./399762-alize.json) |
+| Alkahest | 306919 | [306919-alkahest.json](./306919-alkahest.json) |
 | Alkali | 154412 | [154412-alkali.json](./154412-alkali.json) |
 | Alkaline | 195492 | [195492-alkaline.json](./195492-alkaline.json) |
 | Alkapone Vs TumTum | 57445 | [57445-alkapone-vs-tumtum.json](./57445-alkapone-vs-tumtum.json) |
