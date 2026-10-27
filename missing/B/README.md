@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananas in Pyjamas: It's Party Time | 159092 | [159092-bananas-in-pyjamas-its-party-time.json](./159092-bananas-in-pyjamas-its-party-time.json) |
 | Bananas!!! | 22093 | [22093-bananas.json](./22093-bananas.json) |
 | BananaTron | 74066 | [74066-bananatron.json](./74066-bananatron.json) |
+| Bananaventure | 283563 | [283563-bananaventure.json](./283563-bananaventure.json) |
 | Bananner Nababber | 211089 | [211089-bananner-nababber.json](./211089-bananner-nababber.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
@@ -14332,6 +14333,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucket Truck VR Simulator | 326478 | [326478-bucket-truck-vr-simulator.json](./326478-bucket-truck-vr-simulator.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
+| Bucketz | 283556 | [283556-bucketz.json](./283556-bucketz.json) |
+| Bucketz Ride | 283557 | [283557-bucketz-ride.json](./283557-bucketz-ride.json) |
 | Buckler 2 | 116720 | [116720-buckler-2.json](./116720-buckler-2.json) |
 | Buckmasters Top Bow Championship | 122233 | [122233-buckmasters-top-bow-championship.json](./122233-buckmasters-top-bow-championship.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
