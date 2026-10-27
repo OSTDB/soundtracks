@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yan Love Remake | 296727 | [296727-yan-love-remake.json](./296727-yan-love-remake.json) |
 | Yan's World | 322103 | [322103-yans-world.json](./322103-yans-world.json) |
 | Yanchat | 333080 | [333080-yanchat.json](./333080-yanchat.json) |
+| Yancy | 312516 | [312516-yancy.json](./312516-yancy.json) |
 | Yanderain | 314821 | [314821-yanderain.json](./314821-yanderain.json) |
 | Yandere AI Girlfriend Simulator: With You Til The End | 256214 | [256214-yandere-ai-girlfriend-simulator-with-you-til-the-end.json](./256214-yandere-ai-girlfriend-simulator-with-you-til-the-end.json) |
 | Yandere Anime Boyfriend: A Day with Your Husbando Sim | 330223 | [330223-yandere-anime-boyfriend-a-day-with-your-husbando-sim.json](./330223-yandere-anime-boyfriend-a-day-with-your-husbando-sim.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yanpai Simulator | 113124 | [113124-yanpai-simulator.json](./113124-yanpai-simulator.json) |
 | Yanvania 2022 | 227977 | [227977-yanvania-2022.json](./227977-yanvania-2022.json) |
 | Yanyu | 158932 | [158932-yanyu.json](./158932-yanyu.json) |
+| YanYueDao Kill | 312518 | [312518-yanyuedao-kill.json](./312518-yanyuedao-kill.json) |
 | Yanzhong de Shijie: Conviction | 101252 | [101252-yanzhong-de-shijie-conviction.json](./101252-yanzhong-de-shijie-conviction.json) |
 | Yáo Àn Dēng Hǎi | 373709 | [373709-yao-an-deng-hai.json](./373709-yao-an-deng-hai.json) |
 | Yāo Dāo Zhuàn | 373695 | [373695-yao-dao-zhuan.json](./373695-yao-dao-zhuan.json) |
@@ -751,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomifuda: Kanji Survivors | 383146 | [383146-yomifuda-kanji-survivors.json](./383146-yomifuda-kanji-survivors.json) |
 | Yomo | 308011 | [308011-yomo.json](./308011-yomo.json) |
 | Yomotsu | 110719 | [110719-yomotsu.json](./110719-yomotsu.json) |
+| Yomp for Zhi | 312506 | [312506-yomp-for-zhi.json](./312506-yomp-for-zhi.json) |
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
 | Yona Yona | 314822 | [314822-yona-yona.json](./314822-yona-yona.json) |
 | Yondel | 380777 | [380777-yondel.json](./380777-yondel.json) |
@@ -1009,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have To Climb Out | 308350 | [308350-you-have-to-climb-out.json](./308350-you-have-to-climb-out.json) |
 | You Have to Go to Work | 176421 | [176421-you-have-to-go-to-work.json](./176421-you-have-to-go-to-work.json) |
 | You Have to Win the Game | 7556 | [7556-you-have-to-win-the-game.json](./7556-you-have-to-win-the-game.json) |
+| You Know My Name? | 312507 | [312507-you-know-my-name.json](./312507-you-know-my-name.json) |
 | You Know The Drill | 322212 | [322212-you-know-the-drill.json](./322212-you-know-the-drill.json) |
 | You Know The Drill | 362980 | [362980-you-know-the-drill.json](./362980-you-know-the-drill.json) |
 | You Left Me. | 99119 | [99119-you-left-me.json](./99119-you-left-me.json) |
@@ -1026,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Must Die | 220166 | [220166-you-must-die.json](./220166-you-must-die.json) |
 | You Must Escape | 343870 | [343870-you-must-escape.json](./343870-you-must-escape.json) |
 | You Must Escape 2 | 71197 | [71197-you-must-escape-2.json](./71197-you-must-escape-2.json) |
+| You Must Retry | 312508 | [312508-you-must-retry.json](./312508-you-must-retry.json) |
 | You need to Buy a Phone Charger | 361338 | [361338-you-need-to-buy-a-phone-charger.json](./361338-you-need-to-buy-a-phone-charger.json) |
 | You Need to Summon a Demon | 419868 | [419868-you-need-to-summon-a-demon.json](./419868-you-need-to-summon-a-demon.json) |
 | You Never Listen | 123909 | [123909-you-never-listen.json](./123909-you-never-listen.json) |
@@ -1151,6 +1156,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Bird Endless Flight | 333526 | [333526-young-bird-endless-flight.json](./333526-young-bird-endless-flight.json) |
 | Young Conker | 330693 | [330693-young-conker.json](./330693-young-conker.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
+| Young Detectives: Animals | 312509 | [312509-young-detectives-animals.json](./312509-young-detectives-animals.json) |
+| Young Detectives: Farm | 312511 | [312511-young-detectives-farm.json](./312511-young-detectives-farm.json) |
+| Young Detectives: School | 312510 | [312510-young-detectives-school.json](./312510-young-detectives-school.json) |
+| Young Detectives: Space | 312512 | [312512-young-detectives-space.json](./312512-young-detectives-space.json) |
 | Young Detectives: Undersea | 309564 | [309564-young-detectives-undersea.json](./309564-young-detectives-undersea.json) |
 | Young Dilbert Hi-Tech Hijinks | 70332 | [70332-young-dilbert-hi-tech-hijinks.json](./70332-young-dilbert-hi-tech-hijinks.json) |
 | Young Hearts | 272710 | [272710-young-hearts.json](./272710-young-hearts.json) |
