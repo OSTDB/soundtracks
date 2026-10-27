@@ -2784,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassandra's Journey 2: The Fifth Sun of Nostradamus | 56901 | [56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json](./56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json) |
 | Cassandra's Journey: The Legacy of Nostradamus | 64725 | [64725-cassandras-journey-the-legacy-of-nostradamus.json](./64725-cassandras-journey-the-legacy-of-nostradamus.json) |
 | Casse-Croute Deckbuilder | 399401 | [399401-casse-croute-deckbuilder.json](./399401-casse-croute-deckbuilder.json) |
+| Cassette | 295291 | [295291-cassette.json](./295291-cassette.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
 | Cassette Beasts: Deluxe Edition | 251108 | [251108-cassette-beasts-deluxe-edition.json](./251108-cassette-beasts-deluxe-edition.json) |
@@ -3592,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataract: Autobattler Roguelite Deckbuilder | 403200 | [403200-cataract-autobattler-roguelite-deckbuilder.json](./403200-cataract-autobattler-roguelite-deckbuilder.json) |
 | Cataractnacon & Zeangala | 271801 | [271801-cataractnacon-and-zeangala.json](./271801-cataractnacon-and-zeangala.json) |
 | Catarro | 152699 | [152699-catarro.json](./152699-catarro.json) |
+| Catarsis | 295304 | [295304-catarsis.json](./295304-catarsis.json) |
 | Catarsis: Catventure | 295259 | [295259-catarsis-catventure.json](./295259-catarsis-catventure.json) |
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
 | Catast | 274548 | [274548-catast.json](./274548-catast.json) |
@@ -8849,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
 | Clone Knights | 270527 | [270527-clone-knights.json](./270527-clone-knights.json) |
+| Clone War | 295290 | [295290-clone-war.json](./295290-clone-war.json) |
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clones | 16218 | [16218-clones.json](./16218-clones.json) |
@@ -9470,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Realize ~Guardian of Rebirth~ Collector's Edition | 122652 | [122652-code-realize-guardian-of-rebirth-collectors-edition.json](./122652-code-realize-guardian-of-rebirth-collectors-edition.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
 | Code: Replicant | 298986 | [298986-code-replicant.json](./298986-code-replicant.json) |
+| Code: Sentinel | 295202 | [295202-code-sentinel.json](./295202-code-sentinel.json) |
 | Code: Star Dungeon | 155448 | [155448-code-star-dungeon.json](./155448-code-star-dungeon.json) |
 | Code: Terraform | 401030 | [401030-code-terraform.json](./401030-code-terraform.json) |
 | Code: To Jin Yong | 208466 | [208466-code-to-jin-yong.json](./208466-code-to-jin-yong.json) |
@@ -9573,6 +9577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Dates | 247466 | [247466-coffee-dates.json](./247466-coffee-dates.json) |
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
+| Coffee For Cthulhu | 295232 | [295232-coffee-for-cthulhu.json](./295232-coffee-for-cthulhu.json) |
 | Coffee For Robots | 219740 | [219740-coffee-for-robots.json](./219740-coffee-for-robots.json) |
 | Coffee Inc 2 | 193686 | [193686-coffee-inc-2.json](./193686-coffee-inc-2.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
