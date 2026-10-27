@@ -7873,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Pikinini: Advanced Killer Cyborg | 372232 | [372232-lucky-pikinini-advanced-killer-cyborg.json](./372232-lucky-pikinini-advanced-killer-cyborg.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
 | Lucky Pirate Deck | 286219 | [286219-lucky-pirate-deck.json](./286219-lucky-pirate-deck.json) |
+| Lucky Pirate: Uncharted Territory | 326035 | [326035-lucky-pirate-uncharted-territory.json](./326035-lucky-pirate-uncharted-territory.json) |
 | Lucky Pirates | 346066 | [346066-lucky-pirates.json](./346066-lucky-pirates.json) |
 | Lucky Punk | 402372 | [402372-lucky-punk.json](./402372-lucky-punk.json) |
 | Lucky Pyramid Solitaire | 87295 | [87295-lucky-pyramid-solitaire.json](./87295-lucky-pyramid-solitaire.json) |
