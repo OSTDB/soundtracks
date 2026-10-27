@@ -4152,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
 | Final 5 | 231539 | [231539-final-5.json](./231539-final-5.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
+| Final Apex | 289268 | [289268-final-apex.json](./289268-final-apex.json) |
 | Final Archer VR | 119489 | [119489-final-archer-vr.json](./119489-final-archer-vr.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
