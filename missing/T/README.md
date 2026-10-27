@@ -8476,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
 | The Game is ON | 142694 | [142694-the-game-is-on.json](./142694-the-game-is-on.json) |
 | The Game is ON | 153026 | [153026-the-game-is-on.json](./153026-the-game-is-on.json) |
+| The Game Maker | 281445 | [281445-the-game-maker.json](./281445-the-game-maker.json) |
 | The Game Maker | 64485 | [64485-the-game-maker.json](./64485-the-game-maker.json) |
 | The Game of Annie | 246003 | [246003-the-game-of-annie.json](./246003-the-game-of-annie.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
