@@ -636,6 +636,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Escape Games: Tobira no nai Heya kara no Dasshutsu | 222210 | [222210-japanese-escape-games-tobira-no-nai-heya-kara-no-dasshutsu.json](./222210-japanese-escape-games-tobira-no-nai-heya-kara-no-dasshutsu.json) |
 | Japanese Escape Games: Toy House kara no Dasshutsu | 222218 | [222218-japanese-escape-games-toy-house-kara-no-dasshutsu.json](./222218-japanese-escape-games-toy-house-kara-no-dasshutsu.json) |
 | Japanese Fun: J64 | 363993 | [363993-japanese-fun-j64.json](./363993-japanese-fun-j64.json) |
+| Japanese Garden Escape | 315461 | [315461-japanese-garden-escape.json](./315461-japanese-garden-escape.json) |
+| Japanese Garden Escape 2 | 315466 | [315466-japanese-garden-escape-2.json](./315466-japanese-garden-escape-2.json) |
+| Japanese Garden Escape 3 | 315467 | [315467-japanese-garden-escape-3.json](./315467-japanese-garden-escape-3.json) |
 | Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
 | Japanese Hiragana & Katakana Review DS | 342834 | [342834-japanese-hiragana-and-katakana-review-ds.json](./342834-japanese-hiragana-and-katakana-review-ds.json) |
 | Japanese House Exploration | 308893 | [308893-japanese-house-exploration.json](./308893-japanese-house-exploration.json) |
