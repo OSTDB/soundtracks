@@ -7624,6 +7624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowpoint | 7607 | [7607-hollowpoint.json](./7607-hollowpoint.json) |
 | Hollowroot | 344356 | [344356-hollowroot.json](./344356-hollowroot.json) |
 | Holly 2: Magic Land | 24768 | [24768-holly-2-magic-land.json](./24768-holly-2-magic-land.json) |
+| Holly-Day Ice-Spionage | 285501 | [285501-holly-day-ice-spionage.json](./285501-holly-day-ice-spionage.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Holly: A Christmas Tale Deluxe | 54086 | [54086-holly-a-christmas-tale-deluxe.json](./54086-holly-a-christmas-tale-deluxe.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
@@ -8786,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horsez | 248608 | [248608-horsez.json](./248608-horsez.json) |
 | Horsez | 5096 | [5096-horsez.json](./5096-horsez.json) |
 | Horsle | 314416 | [314416-horsle.json](./314416-horsle.json) |
+| Horst: Der Ultimatives Rollenspiel | 285437 | [285437-horst-der-ultimatives-rollenspiel.json](./285437-horst-der-ultimatives-rollenspiel.json) |
 | Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
 | Horton Genetics: Breach | 414260 | [414260-horton-genetics-breach.json](./414260-horton-genetics-breach.json) |
@@ -10814,6 +10816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperide | 131423 | [131423-hyperide.json](./131423-hyperide.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
 | Hyperide: Vector Raid | 112815 | [112815-hyperide-vector-raid.json](./112815-hyperide-vector-raid.json) |
+| Hyperjustice: Hyper Holidays Expansion | 285320 | [285320-hyperjustice-hyper-holidays-expansion.json](./285320-hyperjustice-hyper-holidays-expansion.json) |
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
 | Hyperkin RetroN 5 | 23833 | [23833-hyperkin-retron-5.json](./23833-hyperkin-retron-5.json) |
 | Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
