@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Dynamo | 11990 | [11990-captain-dynamo.json](./11990-captain-dynamo.json) |
 | Captain Earth: Mind Labyrinth | 60987 | [60987-captain-earth-mind-labyrinth.json](./60987-captain-earth-mind-labyrinth.json) |
 | Captain Ed | 48539 | [48539-captain-ed.json](./48539-captain-ed.json) |
+| Captain Edward | 286359 | [286359-captain-edward.json](./286359-captain-edward.json) |
 | Captain Edward Continues | 341544 | [341544-captain-edward-continues.json](./341544-captain-edward-continues.json) |
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
 | Captain Firat | 360737 | [360737-captain-firat.json](./360737-captain-firat.json) |
@@ -5641,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess 2 | 139060 | [139060-chess-2.json](./139060-chess-2.json) |
 | Chess 2 | 296807 | [296807-chess-2.json](./296807-chess-2.json) |
 | Chess 2 | 399406 | [399406-chess-2.json](./399406-chess-2.json) |
+| Chess 2000 | 286368 | [286368-chess-2000.json](./286368-chess-2000.json) |
 | Chess 2048 | 373335 | [373335-chess-2048.json](./373335-chess-2048.json) |
 | Chess 4 Uzebox | 311361 | [311361-chess-4-uzebox.json](./311361-chess-4-uzebox.json) |
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
@@ -9350,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Cockeyed Helicopters | 156581 | [156581-cockeyed-helicopters.json](./156581-cockeyed-helicopters.json) |
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
+| CockHero: Battle Rookie | 286552 | [286552-cockhero-battle-rookie.json](./286552-cockhero-battle-rookie.json) |
 | Cockpit | 311010 | [311010-cockpit.json](./311010-cockpit.json) |
 | Cockpit Manager '14 | 50330 | [50330-cockpit-manager-14.json](./50330-cockpit-manager-14.json) |
 | Cockroach Clicker | 371337 | [371337-cockroach-clicker.json](./371337-cockroach-clicker.json) |
@@ -11579,6 +11582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquistador | 323803 | [323803-conquistador.json](./323803-conquistador.json) |
 | Conquistador Rex | 276678 | [276678-conquistador-rex.json](./276678-conquistador-rex.json) |
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
+| Conquistadors | 286356 | [286356-conquistadors.json](./286356-conquistadors.json) |
 | Conquiztador | 302228 | [302228-conquiztador.json](./302228-conquiztador.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conrad's Quest | 261418 | [261418-conrads-quest.json](./261418-conrads-quest.json) |
