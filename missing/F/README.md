@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmbotic | 348350 | [348350-farmbotic.json](./348350-farmbotic.json) |
 | Farmburgh | 236263 | [236263-farmburgh.json](./236263-farmburgh.json) |
 | Farmch Revolution | 390648 | [390648-farmch-revolution.json](./390648-farmch-revolution.json) |
+| Farmcoz | 285500 | [285500-farmcoz.json](./285500-farmcoz.json) |
 | FarmCraft | 264584 | [264584-farmcraft.json](./264584-farmcraft.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
 | FarmCraft 2 | 267263 | [267263-farmcraft-2.json](./267263-farmcraft-2.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Bone | 226156 | [226156-fish-bone.json](./226156-fish-bone.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
 | Fish Chips and Bombs | 311637 | [311637-fish-chips-and-bombs.json](./311637-fish-chips-and-bombs.json) |
+| Fish Combat: Arcade | 285312 | [285312-fish-combat-arcade.json](./285312-fish-combat-arcade.json) |
 | Fish Dude | 48946 | [48946-fish-dude.json](./48946-fish-dude.json) |
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
 | Fish Eater | 221344 | [221344-fish-eater.json](./221344-fish-eater.json) |
@@ -8300,6 +8302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
 | Forest Tower Defense | 215578 | [215578-forest-tower-defense.json](./215578-forest-tower-defense.json) |
 | Forest Walk | 311142 | [311142-forest-walk.json](./311142-forest-walk.json) |
+| Forest Warden | 285616 | [285616-forest-warden.json](./285616-forest-warden.json) |
 | Forest Warden | 347496 | [347496-forest-warden.json](./347496-forest-warden.json) |
 | Forest Whiskers | 383948 | [383948-forest-whiskers.json](./383948-forest-whiskers.json) |
 | Forest Woodman | 127773 | [127773-forest-woodman.json](./127773-forest-woodman.json) |
