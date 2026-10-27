@@ -2782,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawelek the Game. | 320035 | [320035-pawelek-the-game.json](./320035-pawelek-the-game.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
 | Pawfectly Designed | 275449 | [275449-pawfectly-designed.json](./275449-pawfectly-designed.json) |
+| Pawfectly Designed: Deluxe Edition | 312062 | [312062-pawfectly-designed-deluxe-edition.json](./312062-pawfectly-designed-deluxe-edition.json) |
 | Pawffice | 390162 | [390162-pawffice.json](./390162-pawffice.json) |
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
 | Pawful Dice | 390809 | [390809-pawful-dice.json](./390809-pawful-dice.json) |
@@ -8198,6 +8199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
 | Play Action Football | 49052 | [49052-play-action-football.json](./49052-play-action-football.json) |
 | Play and Learn with Josephine | 205021 | [205021-play-and-learn-with-josephine.json](./205021-play-and-learn-with-josephine.json) |
+| Play And Pray | 312039 | [312039-play-and-pray.json](./312039-play-and-pray.json) |
 | Play Ball | 40401 | [40401-play-ball.json](./40401-play-ball.json) |
 | Play Ball | 95401 | [95401-play-ball.json](./95401-play-ball.json) |
 | Play Boy | 93514 | [93514-play-boy.json](./93514-play-boy.json) |
@@ -10122,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police vs Thief: Violent Chasing | 326652 | [326652-police-vs-thief-violent-chasing.json](./326652-police-vs-thief-violent-chasing.json) |
 | Police vs. Gangster New York 3D | 267349 | [267349-police-vs-gangster-new-york-3d.json](./267349-police-vs-gangster-new-york-3d.json) |
 | Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
+| Police, Open The Door! | 312040 | [312040-police-open-the-door.json](./312040-police-open-the-door.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
 | Police: Destruction Street | 25403 | [25403-police-destruction-street.json](./25403-police-destruction-street.json) |
 | Policeman | 238896 | [238896-policeman.json](./238896-policeman.json) |
@@ -14762,6 +14765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Mania Hokuto no Ken 2: Gekitou Shura no Kuni Hen | 64166 | [64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json](./64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json) |
 | Punch Max | 302471 | [302471-punch-max.json](./302471-punch-max.json) |
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
+| Punch Out | 311981 | [311981-punch-out.json](./311981-punch-out.json) |
 | Punch Pong | 184983 | [184983-punch-pong.json](./184983-punch-pong.json) |
 | Punch Quest | 41505 | [41505-punch-quest.json](./41505-punch-quest.json) |
 | Punch the Garden | 269982 | [269982-punch-the-garden.json](./269982-punch-the-garden.json) |
