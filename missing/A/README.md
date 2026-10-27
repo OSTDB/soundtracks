@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Wizardry Enchantment | 284175 | [284175-a-wizardry-enchantment.json](./284175-a-wizardry-enchantment.json) |
+| A Wolf In Sheep's Clothing | 281590 | [281590-a-wolf-in-sheeps-clothing.json](./281590-a-wolf-in-sheeps-clothing.json) |
 | A Woman for All Seasons | 323217 | [323217-a-woman-for-all-seasons.json](./323217-a-woman-for-all-seasons.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A Work of Art | 319801 | [319801-a-work-of-art.json](./319801-a-work-of-art.json) |
@@ -5851,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
 | Alien Infestation | 139132 | [139132-alien-infestation.json](./139132-alien-infestation.json) |
 | Alien Invader | 92417 | [92417-alien-invader.json](./92417-alien-invader.json) |
+| Alien Invaders | 281222 | [281222-alien-invaders.json](./281222-alien-invaders.json) |
 | Alien Invaders from the Planet Plorth | 77167 | [77167-alien-invaders-from-the-planet-plorth.json](./77167-alien-invaders-from-the-planet-plorth.json) |
 | Alien Invaders Plus | 41533 | [41533-alien-invaders-plus.json](./41533-alien-invaders-plus.json) |
 | Alien Invasion | 219991 | [219991-alien-invasion.json](./219991-alien-invasion.json) |
@@ -12156,6 +12158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Robots | 68533 | [68533-army-of-robots.json](./68533-army-of-robots.json) |
 | Army of Ruin | 219057 | [219057-army-of-ruin.json](./219057-army-of-ruin.json) |
 | Army of Squirrels | 54721 | [54721-army-of-squirrels.json](./54721-army-of-squirrels.json) |
+| Army of Tactics | 281437 | [281437-army-of-tactics.json](./281437-army-of-tactics.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
 | Army of Tentacles: Assault on Rainbow Unicorn Island | 226232 | [226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json](./226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json) |
@@ -13441,6 +13444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 187250 | [187250-asteroids.json](./187250-asteroids.json) |
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
 | Asteroids | 239506 | [239506-asteroids.json](./239506-asteroids.json) |
+| Asteroids | 281233 | [281233-asteroids.json](./281233-asteroids.json) |
 | Asteroids | 319567 | [319567-asteroids.json](./319567-asteroids.json) |
 | Asteroids | 319568 | [319568-asteroids.json](./319568-asteroids.json) |
 | Asteroids | 376807 | [376807-asteroids.json](./376807-asteroids.json) |
@@ -13687,6 +13691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Golf | 122706 | [122706-astro-golf.json](./122706-astro-golf.json) |
 | Astro Ike | 204805 | [204805-astro-ike.json](./204805-astro-ike.json) |
+| Astro Invader | 281221 | [281221-astro-invader.json](./281221-astro-invader.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Invaders | 206236 | [206236-astro-invaders.json](./206236-astro-invaders.json) |
 | Astro Kitty: Space Mining | 422490 | [422490-astro-kitty-space-mining.json](./422490-astro-kitty-space-mining.json) |
@@ -14468,6 +14473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack from Mars | 217825 | [217825-attack-from-mars.json](./217825-attack-from-mars.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
 | Attack from Planet Smiley | 157968 | [157968-attack-from-planet-smiley.json](./157968-attack-from-planet-smiley.json) |
+| Attack from Space | 281234 | [281234-attack-from-space.json](./281234-attack-from-space.json) |
 | Attack from the Dead | 94056 | [94056-attack-from-the-dead.json](./94056-attack-from-the-dead.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
