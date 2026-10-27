@@ -10826,6 +10826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontcrush | 384177 | [384177-dontcrush.json](./384177-dontcrush.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
 | Dontforget Connected | 249613 | [249613-dontforget-connected.json](./249613-dontforget-connected.json) |
+| Dontrel Dolphin | 305801 | [305801-dontrel-dolphin.json](./305801-dontrel-dolphin.json) |
 | Dontrel Dolphin | 306003 | [306003-dontrel-dolphin.json](./306003-dontrel-dolphin.json) |
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Dontrel Dolphin 3 | 306186 | [306186-dontrel-dolphin-3.json](./306186-dontrel-dolphin-3.json) |
@@ -11132,6 +11133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
 | Dooming The Bar | 308183 | [308183-dooming-the-bar.json](./308183-dooming-the-bar.json) |
 | Doomium | 307817 | [307817-doomium.json](./307817-doomium.json) |
+| Doomium II | 305806 | [305806-doomium-ii.json](./305806-doomium-ii.json) |
 | Doomkid | 259434 | [259434-doomkid.json](./259434-doomkid.json) |
 | Doomkid's Mega! | 262998 | [262998-doomkids-mega.json](./262998-doomkids-mega.json) |
 | Doomori | 182208 | [182208-doomori.json](./182208-doomori.json) |
