@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Gear II | 742 | [742-heavy-gear-ii.json](./742-heavy-gear-ii.json) |
 | Heavy Gear III | 100191 | [100191-heavy-gear-iii.json](./100191-heavy-gear-iii.json) |
 | Heavy Hand: Complete DLC Bundle | 317677 | [317677-heavy-hand-complete-dlc-bundle.json](./317677-heavy-hand-complete-dlc-bundle.json) |
+| Heavy Hand: Pixel Tree Forest Fury | 317283 | [317283-heavy-hand-pixel-tree-forest-fury.json](./317283-heavy-hand-pixel-tree-forest-fury.json) |
 | Heavy Hand: Pixel Tree Forest Fury - Deluxe Edition | 317254 | [317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json](./317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json) |
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Hogur | 54079 | [54079-heavy-hogur.json](./54079-heavy-hogur.json) |
