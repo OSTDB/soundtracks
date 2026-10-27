@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Story | 158512 | [158512-viking-story.json](./158512-viking-story.json) |
 | Viking Survival | 267259 | [267259-viking-survival.json](./267259-viking-survival.json) |
 | Viking Survivors | 243623 | [243623-viking-survivors.json](./243623-viking-survivors.json) |
+| Viking Survivors: The Last Ragnarök | 319623 | [319623-viking-survivors-the-last-ragnarok.json](./319623-viking-survivors-the-last-ragnarok.json) |
 | Viking Trickshot: Full Game | 168083 | [168083-viking-trickshot-full-game.json](./168083-viking-trickshot-full-game.json) |
 | Viking Vengeance | 118779 | [118779-viking-vengeance.json](./118779-viking-vengeance.json) |
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
