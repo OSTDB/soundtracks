@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Collector's Edition | 136341 | [136341-undertale-collectors-edition.json](./136341-undertale-collectors-edition.json) |
 | Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
 | Undertale: Gameboy Edition | 351529 | [351529-undertale-gameboy-edition.json](./351529-undertale-gameboy-edition.json) |
+| Undertale: Hard Mode - Wonderful Idea [Genocide Ending] | 331800 | [331800-undertale-hard-mode-wonderful-idea-genocide-ending.json](./331800-undertale-hard-mode-wonderful-idea-genocide-ending.json) |
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Kindred Spirits | 231469 | [231469-undertale-kindred-spirits.json](./231469-undertale-kindred-spirits.json) |
 | Undertale: No More Deals | 279675 | [279675-undertale-no-more-deals.json](./279675-undertale-no-more-deals.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unkilled | 28821 | [28821-unkilled.json](./28821-unkilled.json) |
 | Unknightly | 75520 | [75520-unknightly.json](./75520-unknightly.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
+| Unknown 9: Awakening - Deluxe Edition | 331832 | [331832-unknown-9-awakening-deluxe-edition.json](./331832-unknown-9-awakening-deluxe-edition.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
 | Unknown Battle | 33524 | [33524-unknown-battle.json](./33524-unknown-battle.json) |
 | Unknown Castle | 119702 | [119702-unknown-castle.json](./119702-unknown-castle.json) |
