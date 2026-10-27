@@ -9588,6 +9588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosetia: A First Contact Simulation | 211616 | [211616-rosetia-a-first-contact-simulation.json](./211616-rosetia-a-first-contact-simulation.json) |
 | Rosetta | 228013 | [228013-rosetta.json](./228013-rosetta.json) |
 | Rosetta | 249110 | [249110-rosetta.json](./249110-rosetta.json) |
+| Rosetta | 288719 | [288719-rosetta.json](./288719-rosetta.json) |
 | Rosetta and the Well | 301989 | [301989-rosetta-and-the-well.json](./301989-rosetta-and-the-well.json) |
 | Rosette and Words | 96634 | [96634-rosette-and-words.json](./96634-rosette-and-words.json) |
 | Rosewater | 128935 | [128935-rosewater.json](./128935-rosewater.json) |
