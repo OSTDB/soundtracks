@@ -4995,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DejaVu by dropout.tv | 299994 | [299994-dejavu-by-dropout-tv.json](./299994-dejavu-by-dropout-tv.json) |
 | Dejection: An Ode | 57901 | [57901-dejection-an-ode.json](./57901-dejection-an-ode.json) |
 | Dejig: Aqua World | 300274 | [300274-dejig-aqua-world.json](./300274-dejig-aqua-world.json) |
+| Dejig: McKnight Art Collection | 307645 | [307645-dejig-mcknight-art-collection.json](./307645-dejig-mcknight-art-collection.json) |
 | Dejiko no Mahjong Party | 92611 | [92611-dejiko-no-mahjong-party.json](./92611-dejiko-no-mahjong-party.json) |
 | Deka Nomos | 416712 | [416712-deka-nomos.json](./416712-deka-nomos.json) |
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
