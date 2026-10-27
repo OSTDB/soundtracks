@@ -3714,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Murder | 209444 | [209444-perfect-murder.json](./209444-perfect-murder.json) |
 | Perfect New World | 175717 | [175717-perfect-new-world.json](./175717-perfect-new-world.json) |
 | Perfect Ninja Bundle | 331486 | [331486-perfect-ninja-bundle.json](./331486-perfect-ninja-bundle.json) |
+| Perfect Ninja Painter 3 | 329513 | [329513-perfect-ninja-painter-3.json](./329513-perfect-ninja-painter-3.json) |
 | Perfect Pachinko | 385719 | [385719-perfect-pachinko.json](./385719-perfect-pachinko.json) |
 | Perfect Pair Solitaire | 210005 | [210005-perfect-pair-solitaire.json](./210005-perfect-pair-solitaire.json) |
 | Perfect Park | 135102 | [135102-perfect-park.json](./135102-perfect-park.json) |
@@ -9754,6 +9755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Pokémon: Professor Oak Challenge | 338849 | [338849-pokemon-professor-oak-challenge.json](./338849-pokemon-professor-oak-challenge.json) |
+| Pokémon: Salt & Shadow | 329514 | [329514-pokemon-salt-and-shadow.json](./329514-pokemon-salt-and-shadow.json) |
 | Pokémon: The Evil Inside | 372777 | [372777-pokemon-the-evil-inside.json](./372777-pokemon-the-evil-inside.json) |
 | Pokemon: The Hodgepodge Platoon | 327157 | [327157-pokemon-the-hodgepodge-platoon.json](./327157-pokemon-the-hodgepodge-platoon.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
@@ -10080,6 +10082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polis 2: Någon ljuger | 307096 | [307096-polis-2-nagon-ljuger.json](./307096-polis-2-nagon-ljuger.json) |
 | Polis 3: Vargspår | 91907 | [91907-polis-3-vargspar.json](./91907-polis-3-vargspar.json) |
 | Polish Community Project | 301971 | [301971-polish-community-project.json](./301971-polish-community-project.json) |
+| Polish Simulator | 329495 | [329495-polish-simulator.json](./329495-polish-simulator.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Politaire | 58146 | [58146-politaire.json](./58146-politaire.json) |
 | Politica: Nothing Ideological. It's Just Business | 291313 | [291313-politica-nothing-ideological-its-just-business.json](./291313-politica-nothing-ideological-its-just-business.json) |
@@ -14687,6 +14690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
 | Punch-Out!! | 84799 | [84799-punch-out.json](./84799-punch-out.json) |
 | Punch-Out!! | 9150 | [9150-punch-out.json](./9150-punch-out.json) |
+| Punch-Out!!: Shouhin-ban | 329510 | [329510-punch-out-shouhin-ban.json](./329510-punch-out-shouhin-ban.json) |
 | Punch, Rest, Repeat | 400814 | [400814-punch-rest-repeat.json](./400814-punch-rest-repeat.json) |
 | Punch! | 321956 | [321956-punch.json](./321956-punch.json) |
 | Punch'Em Up | 307605 | [307605-punchem-up.json](./307605-punchem-up.json) |
@@ -15837,6 +15841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid of Ra | 338816 | [338816-pyramid-of-ra.json](./338816-pyramid-of-ra.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
 | Pyramid Peril | 343174 | [343174-pyramid-peril.json](./343174-pyramid-peril.json) |
+| Pyramid Platformer: The Gem Heist | 329516 | [329516-pyramid-platformer-the-gem-heist.json](./329516-pyramid-platformer-the-gem-heist.json) |
 | Pyramid Plunder | 105399 | [105399-pyramid-plunder.json](./105399-pyramid-plunder.json) |
 | Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
 | Pyramid Quest Bundle | 399801 | [399801-pyramid-quest-bundle.json](./399801-pyramid-quest-bundle.json) |
