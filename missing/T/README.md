@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from Hazelwood Post | 278899 | [278899-tales-from-hazelwood-post.json](./278899-tales-from-hazelwood-post.json) |
 | Tales from Heaven | 69570 | [69570-tales-from-heaven.json](./69570-tales-from-heaven.json) |
 | Tales From Hoia Baciu Forest | 202756 | [202756-tales-from-hoia-baciu-forest.json](./202756-tales-from-hoia-baciu-forest.json) |
+| Tales from Mars | 322012 | [322012-tales-from-mars.json](./322012-tales-from-mars.json) |
 | Tales from My Ass: Slice of Death | 255845 | [255845-tales-from-my-ass-slice-of-death.json](./255845-tales-from-my-ass-slice-of-death.json) |
 | Tales From The Arcade: Fartmania | 296471 | [296471-tales-from-the-arcade-fartmania.json](./296471-tales-from-the-arcade-fartmania.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
@@ -3789,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Formars: Akaki Hoshi no Gekito | 80339 | [80339-terra-formars-akaki-hoshi-no-gekito.json](./80339-terra-formars-akaki-hoshi-no-gekito.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
 | Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
+| Terra Inferno | 321952 | [321952-terra-inferno.json](./321952-terra-inferno.json) |
 | Terra Invicta: Dark Skies | 408608 | [408608-terra-invicta-dark-skies.json](./408608-terra-invicta-dark-skies.json) |
 | Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
@@ -6562,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crown of Leaves: Chapter 2 | 168840 | [168840-the-crown-of-leaves-chapter-2.json](./168840-the-crown-of-leaves-chapter-2.json) |
 | The Crown of Wu | 198497 | [198497-the-crown-of-wu.json](./198497-the-crown-of-wu.json) |
 | The Crown of Wu: Legend Edition | 234216 | [234216-the-crown-of-wu-legend-edition.json](./234216-the-crown-of-wu-legend-edition.json) |
+| The Crown Saga: Pi’s Adventure | 321938 | [321938-the-crown-saga-pi-s-adventure.json](./321938-the-crown-saga-pi-s-adventure.json) |
 | The Crown Stones: Mirrah | 26959 | [26959-the-crown-stones-mirrah.json](./26959-the-crown-stones-mirrah.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Cruciball | 359927 | [359927-the-cruciball.json](./359927-the-cruciball.json) |
@@ -7645,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Ever-Beginning Tale | 171981 | [171981-the-ever-beginning-tale.json](./171981-the-ever-beginning-tale.json) |
 | The Ever-Changing Jianghu | 280080 | [280080-the-ever-changing-jianghu.json](./280080-the-ever-changing-jianghu.json) |
+| The Everlasting Lovestory at the Windcap | 322019 | [322019-the-everlasting-lovestory-at-the-windcap.json](./322019-the-everlasting-lovestory-at-the-windcap.json) |
 | The Everloom | 377901 | [377901-the-everloom.json](./377901-the-everloom.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil D | 330047 | [330047-the-evil-d.json](./330047-the-evil-d.json) |
@@ -12450,6 +12454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Owl Quest | 155870 | [155870-the-owl-quest.json](./155870-the-owl-quest.json) |
 | The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
+| The Pac-Man Brothers | 321930 | [321930-the-pac-man-brothers.json](./321930-the-pac-man-brothers.json) |
 | The Pacifist's Great and Final Nightmare | 169629 | [169629-the-pacifists-great-and-final-nightmare.json](./169629-the-pacifists-great-and-final-nightmare.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
@@ -22379,6 +22384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | Touchgrind BMX 3: Rivals | 364425 | [364425-touchgrind-bmx-3-rivals.json](./364425-touchgrind-bmx-3-rivals.json) |
+| Touching Cloth At The End Of Time | 322011 | [322011-touching-cloth-at-the-end-of-time.json](./322011-touching-cloth-at-the-end-of-time.json) |
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
 | Touching Lights | 175608 | [175608-touching-lights.json](./175608-touching-lights.json) |
 | TouchMaster DS | 21442 | [21442-touchmaster-ds.json](./21442-touchmaster-ds.json) |
