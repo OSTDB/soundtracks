@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Crime Game | 251246 | [251246-illegal-crime-game.json](./251246-illegal-crime-game.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illegal Excavation | 249880 | [249880-illegal-excavation.json](./249880-illegal-excavation.json) |
+| Illegal Football | 293055 | [293055-illegal-football.json](./293055-illegal-football.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
 | Illegal Simulator | 302058 | [302058-illegal-simulator.json](./302058-illegal-simulator.json) |
 | Illie | 74950 | [74950-illie.json](./74950-illie.json) |
@@ -3799,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect Adventure | 140373 | [140373-insect-adventure.json](./140373-insect-adventure.json) |
 | Insect Dude! Underground Roots | 346531 | [346531-insect-dude-underground-roots.json](./346531-insect-dude-underground-roots.json) |
 | Insect Empires | 333428 | [333428-insect-empires.json](./333428-insect-empires.json) |
+| Insect Flight Simulator VR | 293124 | [293124-insect-flight-simulator-vr.json](./293124-insect-flight-simulator-vr.json) |
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
 | Insect Revolution VR | 117356 | [117356-insect-revolution-vr.json](./117356-insect-revolution-vr.json) |
