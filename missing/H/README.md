@@ -7971,6 +7971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Milf | 367044 | [367044-honey-milf.json](./367044-honey-milf.json) |
 | Honey or Else | 420796 | [420796-honey-or-else.json](./420796-honey-or-else.json) |
 | Honey Peach | 48307 | [48307-honey-peach.json](./48307-honey-peach.json) |
+| Honey Peach Clicker | 314242 | [314242-honey-peach-clicker.json](./314242-honey-peach-clicker.json) |
 | Honey Pot | 317391 | [317391-honey-pot.json](./317391-honey-pot.json) |
 | Honey Select | 22486 | [22486-honey-select.json](./22486-honey-select.json) |
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
