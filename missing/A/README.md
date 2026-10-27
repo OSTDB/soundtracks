@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
 | A Twisted Tale | 190034 | [190034-a-twisted-tale.json](./190034-a-twisted-tale.json) |
 | A Typewriter's Story | 104145 | [104145-a-typewriters-story.json](./104145-a-typewriters-story.json) |
+| A Typical Day | 322548 | [322548-a-typical-day.json](./322548-a-typical-day.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
 | A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
@@ -4512,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey: Casual Table Arcade | 306526 | [306526-air-hockey-casual-table-arcade.json](./306526-air-hockey-casual-table-arcade.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
 | Air Hoppers 2 | 151654 | [151654-air-hoppers-2.json](./151654-air-hoppers-2.json) |
+| Air Hunter | 322529 | [322529-air-hunter.json](./322529-air-hunter.json) |
 | Air Jet Fighter Combat: Europe Fly Plane Attack | 234624 | [234624-air-jet-fighter-combat-europe-fly-plane-attack.json](./234624-air-jet-fighter-combat-europe-fly-plane-attack.json) |
 | Air Land Sea | 79610 | [79610-air-land-sea.json](./79610-air-land-sea.json) |
 | Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
@@ -13480,6 +13482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
+| Astro Race | 322512 | [322512-astro-race.json](./322512-astro-race.json) |
 | Astro Raiders | 419902 | [419902-astro-raiders.json](./419902-astro-raiders.json) |
 | Astro Ranch | 66729 | [66729-astro-ranch.json](./66729-astro-ranch.json) |
 | Astro Rescue | 63108 | [63108-astro-rescue.json](./63108-astro-rescue.json) |
@@ -15079,6 +15082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avorion | 27114 | [27114-avorion.json](./27114-avorion.json) |
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
+| Avowed: Premium Edition | 322516 | [322516-avowed-premium-edition.json](./322516-avowed-premium-edition.json) |
 | Avoyd | 80807 | [80807-avoyd.json](./80807-avoyd.json) |
 | AVP: Evolution | 20087 | [20087-avp-evolution.json](./20087-avp-evolution.json) |
 | Avrach Resurrection | 137567 | [137567-avrach-resurrection.json](./137567-avrach-resurrection.json) |
