@@ -9641,6 +9641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huáijiù Bǎn Sānguózhì Idle RPG | 369188 | [369188-huaijiu-ban-sanguozhi-idle-rpg.json](./369188-huaijiu-ban-sanguozhi-idle-rpg.json) |
 | Huàn Shì Lù | 369350 | [369350-huan-shi-lu.json](./369350-huan-shi-lu.json) |
+| Huáng Dì: Zhuōlù zhī Zhàn | 319611 | [319611-huang-di-zhuolu-zhi-zhan.json](./319611-huang-di-zhuolu-zhi-zhan.json) |
 | Huang Quan Dream | 355194 | [355194-huang-quan-dream.json](./355194-huang-quan-dream.json) |
 | Huang Ye Ri Ji | 283417 | [283417-huang-ye-ri-ji.json](./283417-huang-ye-ri-ji.json) |
 | Huang Zhu Qian Kun | 308872 | [308872-huang-zhu-qian-kun.json](./308872-huang-zhu-qian-kun.json) |
