@@ -7853,6 +7853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
 | City of Wonder | 65952 | [65952-city-of-wonder.json](./65952-city-of-wonder.json) |
 | City Panic! | 269756 | [269756-city-panic.json](./269756-city-panic.json) |
+| City Park Play Date | 309939 | [309939-city-park-play-date.json](./309939-city-park-play-date.json) |
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Party | 384867 | [384867-city-party.json](./384867-city-party.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
@@ -9835,6 +9836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collectems | 61053 | [61053-collectems.json](./61053-collectems.json) |
 | Collectible Card Shop Master | 324988 | [324988-collectible-card-shop-master.json](./324988-collectible-card-shop-master.json) |
 | Collectible Cars Shop Simulator | 338929 | [338929-collectible-cars-shop-simulator.json](./338929-collectible-cars-shop-simulator.json) |
+| Collectibles! | 309930 | [309930-collectibles.json](./309930-collectibles.json) |
 | Collection of Mana | 27916 | [27916-collection-of-mana.json](./27916-collection-of-mana.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collection Pocket | 228493 | [228493-collection-pocket.json](./228493-collection-pocket.json) |
@@ -12350,6 +12352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
 | Corlero | 240668 | [240668-corlero.json](./240668-corlero.json) |
+| Corn | 309919 | [309919-corn.json](./309919-corn.json) |
 | Corn Buster | 42565 | [42565-corn-buster.json](./42565-corn-buster.json) |
 | Corn Kidz 64 | 266118 | [266118-corn-kidz-64.json](./266118-corn-kidz-64.json) |
 | Corn Maze | 54893 | [54893-corn-maze.json](./54893-corn-maze.json) |
@@ -16876,6 +16879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut Short | 179693 | [179693-cut-short.json](./179693-cut-short.json) |
 | Cut Smash Wrap | 127771 | [127771-cut-smash-wrap.json](./127771-cut-smash-wrap.json) |
+| Cut the Birch | 309932 | [309932-cut-the-birch.json](./309932-cut-the-birch.json) |
 | Cut the Birds | 65195 | [65195-cut-the-birds.json](./65195-cut-the-birds.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
 | Cut the Buttons | 26207 | [26207-cut-the-buttons.json](./26207-cut-the-buttons.json) |
