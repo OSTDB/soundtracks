@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece Odyssey: Traveling Outfit Set | 238380 | [238380-one-piece-odyssey-traveling-outfit-set.json](./238380-one-piece-odyssey-traveling-outfit-set.json) |
 | One Piece Unlimited World Red: Chopper Edition | 223469 | [223469-one-piece-unlimited-world-red-chopper-edition.json](./223469-one-piece-unlimited-world-red-chopper-edition.json) |
+| One Piece: Ambition | 319610 | [319610-one-piece-ambition.json](./319610-one-piece-ambition.json) |
 | One Piece: Bon! Bon! Journey!! | 117667 | [117667-one-piece-bon-bon-journey.json](./117667-one-piece-bon-bon-journey.json) |
 | One Piece: Bounty Rush | 75300 | [75300-one-piece-bounty-rush.json](./75300-one-piece-bounty-rush.json) |
 | One Piece: Burning Blood | 18443 | [18443-one-piece-burning-blood.json](./18443-one-piece-burning-blood.json) |
@@ -3927,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otiiz's adventure - Sushi Champ | 113178 | [113178-otiizs-adventure-sushi-champ.json](./113178-otiizs-adventure-sushi-champ.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otisdub Tag Plus | 417651 | [417651-otisdub-tag-plus.json](./417651-otisdub-tag-plus.json) |
+| Oto-hime | 319640 | [319640-oto-hime.json](./319640-oto-hime.json) |
 | Otoboke Ninja Colosseum | 38118 | [38118-otoboke-ninja-colosseum.json](./38118-otoboke-ninja-colosseum.json) |
 | Otoca D'or | 395764 | [395764-otoca-dor.json](./395764-otoca-dor.json) |
 | Otocky | 41234 | [41234-otocky.json](./41234-otocky.json) |
