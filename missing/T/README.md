@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tampon Trawl | 184123 | [184123-tampon-trawl.json](./184123-tampon-trawl.json) |
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
 | Tamriel Rebuilt | 186650 | [186650-tamriel-rebuilt.json](./186650-tamriel-rebuilt.json) |
+| Tamu | 306314 | [306314-tamu.json](./306314-tamu.json) |
 | Tamura Mitsuaki no Mahjong Seminar | 48886 | [48886-tamura-mitsuaki-no-mahjong-seminar.json](./48886-tamura-mitsuaki-no-mahjong-seminar.json) |
 | Tamzin Twins: The Tyranny of Tyrek | 388879 | [388879-tamzin-twins-the-tyranny-of-tyrek.json](./388879-tamzin-twins-the-tyranny-of-tyrek.json) |
 | Tàn Dǎo Hǎiguītāng | 373715 | [373715-tan-dao-haiguitang.json](./373715-tan-dao-haiguitang.json) |
@@ -9321,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hurricane of the Varstray: Collateral hazard | 34088 | [34088-the-hurricane-of-the-varstray-collateral-hazard.json](./34088-the-hurricane-of-the-varstray-collateral-hazard.json) |
 | The Hurt in Secret | 369550 | [369550-the-hurt-in-secret.json](./369550-the-hurt-in-secret.json) |
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
+| The Hustlers | 306412 | [306412-the-hustlers.json](./306412-the-hustlers.json) |
 | The Hydra | 194230 | [194230-the-hydra.json](./194230-the-hydra.json) |
 | The Hypnic Chain | 336729 | [336729-the-hypnic-chain.json](./336729-the-hypnic-chain.json) |
 | The Hypno Shop | 228364 | [228364-the-hypno-shop.json](./228364-the-hypno-shop.json) |
@@ -12648,6 +12650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
 | The Pepper Prince: Seasoning Pass (Episode 2-5) | 302467 | [302467-the-pepper-prince-seasoning-pass-episode-2-5.json](./302467-the-pepper-prince-seasoning-pass-episode-2-5.json) |
 | The Peresmeshnik | 136800 | [136800-the-peresmeshnik.json](./136800-the-peresmeshnik.json) |
+| The Perfect Bowl | 306390 | [306390-the-perfect-bowl.json](./306390-the-perfect-bowl.json) |
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect General | 4328 | [4328-the-perfect-general.json](./4328-the-perfect-general.json) |
 | The Perfect Match | 68420 | [68420-the-perfect-match.json](./68420-the-perfect-match.json) |
@@ -13875,6 +13878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Warrior Trilogy | 243065 | [243065-the-shadow-warrior-trilogy.json](./243065-the-shadow-warrior-trilogy.json) |
 | The Shadow You | 142657 | [142657-the-shadow-you.json](./142657-the-shadow-you.json) |
 | The Shadow's Terror | 257907 | [257907-the-shadows-terror.json](./257907-the-shadows-terror.json) |
+| The Shadowed Rune | 306331 | [306331-the-shadowed-rune.json](./306331-the-shadowed-rune.json) |
 | The Shadowland | 32796 | [32796-the-shadowland.json](./32796-the-shadowland.json) |
 | The Shadows Lengthen | 190481 | [190481-the-shadows-lengthen.json](./190481-the-shadows-lengthen.json) |
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
@@ -14602,6 +14606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
 | The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
+| The Stellar Station Engineer | 306396 | [306396-the-stellar-station-engineer.json](./306396-the-stellar-station-engineer.json) |
 | The Stepfather Remake | 332279 | [332279-the-stepfather-remake.json](./332279-the-stepfather-remake.json) |
 | The Steps as We Know Them | 149875 | [149875-the-steps-as-we-know-them.json](./149875-the-steps-as-we-know-them.json) |
 | The Steps of Divynia | 172968 | [172968-the-steps-of-divynia.json](./172968-the-steps-of-divynia.json) |
@@ -20103,6 +20108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
 | Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
 | Tiny Tank Showdown | 420658 | [420658-tiny-tank-showdown.json](./420658-tiny-tank-showdown.json) |
+| Tiny Tanks | 306392 | [306392-tiny-tanks.json](./306392-tiny-tanks.json) |
 | Tiny Tanks | 412601 | [412601-tiny-tanks.json](./412601-tiny-tanks.json) |
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tap Quest | 307066 | [307066-tiny-tap-quest.json](./307066-tiny-tap-quest.json) |
@@ -20493,6 +20499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Grant a Wish | 350889 | [350889-to-grant-a-wish.json](./350889-to-grant-a-wish.json) |
 | To Have and to Hold | 260317 | [260317-to-have-and-to-hold.json](./260317-to-have-and-to-hold.json) |
 | To Heaven | 392107 | [392107-to-heaven.json](./392107-to-heaven.json) |
+| To Hell and Back | 306327 | [306327-to-hell-and-back.json](./306327-to-hell-and-back.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
 | To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
@@ -21852,6 +21859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
 | Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
 | Top Secret | 79666 | [79666-top-secret.json](./79666-top-secret.json) |
+| Top Shot | 306386 | [306386-top-shot.json](./306386-top-shot.json) |
 | Top Shot II | 92323 | [92323-top-shot-ii.json](./92323-top-shot-ii.json) |
 | Top Shot: Dinosaur Hunter | 51019 | [51019-top-shot-dinosaur-hunter.json](./51019-top-shot-dinosaur-hunter.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
@@ -26870,6 +26878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Loader 3 | 268634 | [268634-truck-loader-3.json](./268634-truck-loader-3.json) |
 | Truck Loader 4 | 268643 | [268643-truck-loader-4.json](./268643-truck-loader-4.json) |
 | Truck Loader 5 | 268645 | [268645-truck-loader-5.json](./268645-truck-loader-5.json) |
+| Truck Manager | 306332 | [306332-truck-manager.json](./306332-truck-manager.json) |
 | Truck Mechanic Sim 2025 | 330610 | [330610-truck-mechanic-sim-2025.json](./330610-truck-mechanic-sim-2025.json) |
 | Truck Mechanic Simulator | 147848 | [147848-truck-mechanic-simulator.json](./147848-truck-mechanic-simulator.json) |
 | Truck Mechanic Simulator 2015 | 36188 | [36188-truck-mechanic-simulator-2015.json](./36188-truck-mechanic-simulator-2015.json) |
