@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T19:07:11.239Z",
-  "total_missing": 271179,
+  "generated_at": "2026-10-27T19:12:19.428Z",
+  "total_missing": 271177,
   "games": [
     {
       "igdb_id": 191680,
@@ -1004952,11 +1004952,6 @@
       "file": "missing/S/74020-simtunes.json"
     },
     {
-      "igdb_id": 122134,
-      "game_name": "Simulacra 2",
-      "file": "missing/S/122134-simulacra-2.json"
-    },
-    {
       "igdb_id": 198859,
       "game_name": "Simulacra 3",
       "file": "missing/S/198859-simulacra-3.json"
@@ -1274275,11 +1274270,6 @@
       "igdb_id": 305291,
       "game_name": "Vampire: The Masquerade - Reckoning of New York",
       "file": "missing/V/305291-vampire-the-masquerade-reckoning-of-new-york.json"
-    },
-    {
-      "igdb_id": 132102,
-      "game_name": "Vampire: The Masquerade - Shadows of New York",
-      "file": "missing/V/132102-vampire-the-masquerade-shadows-of-new-york.json"
     },
     {
       "igdb_id": 225608,
