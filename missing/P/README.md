@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.O.W.: Prisoners of War | 6820 | [6820-p-o-w-prisoners-of-war.json](./6820-p-o-w-prisoners-of-war.json) |
 | P.P. Hammer and His Pneumatic Weapon | 12712 | [12712-p-p-hammer-and-his-pneumatic-weapon.json](./12712-p-p-hammer-and-his-pneumatic-weapon.json) |
 | P.P.SH | 294071 | [294071-p-p-sh.json](./294071-p-p-sh.json) |
+| P.R.D.A. | 323144 | [323144-p-r-d-a.json](./323144-p-r-d-a.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
 | P.S.Rose | 202318 | [202318-p-s-rose.json](./202318-p-s-rose.json) |
 | P.T. | 11654 | [11654-p-t.json](./11654-p-t.json) |
@@ -6291,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipistrello and the Cursed Yoyo | 292157 | [292157-pipistrello-and-the-cursed-yoyo.json](./292157-pipistrello-and-the-cursed-yoyo.json) |
 | Pipkin | 315712 | [315712-pipkin.json](./315712-pipkin.json) |
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
+| Pipo | 323148 | [323148-pipo.json](./323148-pipo.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
 | Pipo Saru 2001 | 66544 | [66544-pipo-saru-2001.json](./66544-pipo-saru-2001.json) |
 | Pipo's on the Run | 178376 | [178376-pipos-on-the-run.json](./178376-pipos-on-the-run.json) |
@@ -7748,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Love Story | 407895 | [407895-planet-love-story.json](./407895-planet-love-story.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
+| Planet Miners | 323141 | [323141-planet-miners.json](./323141-planet-miners.json) |
 | Planet Minigolf | 21575 | [21575-planet-minigolf.json](./21575-planet-minigolf.json) |
 | Planet Minigolf: Stronghold Island | 21756 | [21756-planet-minigolf-stronghold-island.json](./21756-planet-minigolf-stronghold-island.json) |
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
