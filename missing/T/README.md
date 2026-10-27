@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
 | Tails of Iron II: Whiskers of Winter - Deluxe Edition | 331256 | [331256-tails-of-iron-ii-whiskers-of-winter-deluxe-edition.json](./331256-tails-of-iron-ii-whiskers-of-winter-deluxe-edition.json) |
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
+| Tails of Iron: Bright Fir Forest | 280942 | [280942-tails-of-iron-bright-fir-forest.json](./280942-tails-of-iron-bright-fir-forest.json) |
 | Tails of Iron: Complete Edition | 371205 | [371205-tails-of-iron-complete-edition.json](./371205-tails-of-iron-complete-edition.json) |
 | Tails of Iron: Crimson Knight Edition | 159209 | [159209-tails-of-iron-crimson-knight-edition.json](./159209-tails-of-iron-crimson-knight-edition.json) |
 | Tails of the North | 367480 | [367480-tails-of-the-north.json](./367480-tails-of-the-north.json) |
@@ -4251,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 215387 | [215387-tetris.json](./215387-tetris.json) |
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
+| Tetris | 280940 | [280940-tetris.json](./280940-tetris.json) |
 | Tetris | 287892 | [287892-tetris.json](./287892-tetris.json) |
 | Tetris | 310995 | [310995-tetris.json](./310995-tetris.json) |
 | Tetris | 326807 | [326807-tetris.json](./326807-tetris.json) |
@@ -7433,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edge | 340937 | [340937-the-edge.json](./340937-the-edge.json) |
 | The Edge Of | 160124 | [160124-the-edge-of.json](./160124-the-edge-of.json) |
 | The Edge of Allegoria | 219553 | [219553-the-edge-of-allegoria.json](./219553-the-edge-of-allegoria.json) |
+| The Edge of Forever | 280957 | [280957-the-edge-of-forever.json](./280957-the-edge-of-forever.json) |
 | The Edge of The World Z Will Shock You | 212827 | [212827-the-edge-of-the-world-z-will-shock-you.json](./212827-the-edge-of-the-world-z-will-shock-you.json) |
 | The Edge of Water | 399144 | [399144-the-edge-of-water.json](./399144-the-edge-of-water.json) |
 | The Edgelands | 28217 | [28217-the-edgelands.json](./28217-the-edgelands.json) |
@@ -27217,6 +27220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Remembrance: Kioku no Kakera | 64241 | [64241-true-remembrance-kioku-no-kakera.json](./64241-true-remembrance-kioku-no-kakera.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
+| True Stalker | 280962 | [280962-true-stalker.json](./280962-true-stalker.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Swing Golf Express | 84482 | [84482-true-swing-golf-express.json](./84482-true-swing-golf-express.json) |
 | True Tears | 166455 | [166455-true-tears.json](./166455-true-tears.json) |
