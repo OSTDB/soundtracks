@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Up There? | 282225 | [282225-whats-up-there.json](./282225-whats-up-there.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
 | What's Wrong with Jasper? | 178593 | [178593-whats-wrong-with-jasper.json](./178593-whats-wrong-with-jasper.json) |
+| What's Wrong With the Girls' Staircase | 291959 | [291959-whats-wrong-with-the-girls-staircase.json](./291959-whats-wrong-with-the-girls-staircase.json) |
 | What's Wrong With You? | 144256 | [144256-whats-wrong-with-you.json](./144256-whats-wrong-with-you.json) |
 | What's Your Emergency | 220641 | [220641-whats-your-emergency.json](./220641-whats-your-emergency.json) |
 | What's Your Gender? | 175790 | [175790-whats-your-gender.json](./175790-whats-your-gender.json) |
