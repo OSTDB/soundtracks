@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Iron II: Blood and Brine | 414781 | [414781-tails-of-iron-ii-blood-and-brine.json](./414781-tails-of-iron-ii-blood-and-brine.json) |
 | Tails of Iron II: Whiskers of Winter | 292877 | [292877-tails-of-iron-ii-whiskers-of-winter.json](./292877-tails-of-iron-ii-whiskers-of-winter.json) |
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
+| Tails of Iron II: Whiskers of Winter - Deluxe Edition | 331256 | [331256-tails-of-iron-ii-whiskers-of-winter-deluxe-edition.json](./331256-tails-of-iron-ii-whiskers-of-winter-deluxe-edition.json) |
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
 | Tails of Iron: Complete Edition | 371205 | [371205-tails-of-iron-complete-edition.json](./371205-tails-of-iron-complete-edition.json) |
 | Tails of Iron: Crimson Knight Edition | 159209 | [159209-tails-of-iron-crimson-knight-edition.json](./159209-tails-of-iron-crimson-knight-edition.json) |
@@ -9874,6 +9875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Omega Edition | 185982 | [185982-the-king-of-fighters-xv-omega-edition.json](./185982-the-king-of-fighters-xv-omega-edition.json) |
 | The King of Fighters XV: Omega Rugal | 323408 | [323408-the-king-of-fighters-xv-omega-rugal.json](./323408-the-king-of-fighters-xv-omega-rugal.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
+| The King of Fighters XV: Ultimate Edition | 331253 | [331253-the-king-of-fighters-xv-ultimate-edition.json](./331253-the-king-of-fighters-xv-ultimate-edition.json) |
 | The King of Fighters-A 2012 | 38737 | [38737-the-king-of-fighters-a-2012.json](./38737-the-king-of-fighters-a-2012.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
 | The King of Fighters: Dream Match 1999 | 45861 | [45861-the-king-of-fighters-dream-match-1999.json](./45861-the-king-of-fighters-dream-match-1999.json) |
@@ -12154,6 +12156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The North Road Remastered | 345131 | [345131-the-north-road-remastered.json](./345131-the-north-road-remastered.json) |
 | The Northern Gate: Special Agent | 191118 | [191118-the-northern-gate-special-agent.json](./191118-the-northern-gate-special-agent.json) |
 | The Northern Passage | 301414 | [301414-the-northern-passage.json](./301414-the-northern-passage.json) |
+| The Northern Path | 331233 | [331233-the-northern-path.json](./331233-the-northern-path.json) |
 | The Northsong Rift | 401840 | [401840-the-northsong-rift.json](./401840-the-northsong-rift.json) |
 | The Norwood Suite | 68369 | [68369-the-norwood-suite.json](./68369-the-norwood-suite.json) |
 | The Not Very Golden Age of Piracy | 120628 | [120628-the-not-very-golden-age-of-piracy.json](./120628-the-not-very-golden-age-of-piracy.json) |
@@ -13232,6 +13235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
 | The Rift Between Us | 258606 | [258606-the-rift-between-us.json](./258606-the-rift-between-us.json) |
 | The Riftbreaker | 115991 | [115991-the-riftbreaker.json](./115991-the-riftbreaker.json) |
+| The Riftbreaker: Complete Edition | 331254 | [331254-the-riftbreaker-complete-edition.json](./331254-the-riftbreaker-complete-edition.json) |
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
 | The Riftbreaker: World Expansion II | 220511 | [220511-the-riftbreaker-world-expansion-ii.json](./220511-the-riftbreaker-world-expansion-ii.json) |
 | The Rifted Skies | 407986 | [407986-the-rifted-skies.json](./407986-the-rifted-skies.json) |
@@ -14443,6 +14447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Squash P | 227921 | [227921-the-squash-p.json](./227921-the-squash-p.json) |
 | The Squeal of the Pig | 249190 | [249190-the-squeal-of-the-pig.json](./249190-the-squeal-of-the-pig.json) |
 | The Squid Plays | 376269 | [376269-the-squid-plays.json](./376269-the-squid-plays.json) |
+| The Squiggles Saga | 331222 | [331222-the-squiggles-saga.json](./331222-the-squiggles-saga.json) |
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
 | The Ssum | 194973 | [194973-the-ssum.json](./194973-the-ssum.json) |
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
@@ -14502,6 +14507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stone of Destiny | 284322 | [284322-the-stone-of-destiny.json](./284322-the-stone-of-destiny.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
 | The Stone of Madness | 138097 | [138097-the-stone-of-madness.json](./138097-the-stone-of-madness.json) |
+| The Stone of Madness: Special Edition | 331255 | [331255-the-stone-of-madness-special-edition.json](./331255-the-stone-of-madness-special-edition.json) |
 | The Stone of Sisyphus | 24902 | [24902-the-stone-of-sisyphus.json](./24902-the-stone-of-sisyphus.json) |
 | The Stone of Wisdom | 320575 | [320575-the-stone-of-wisdom.json](./320575-the-stone-of-wisdom.json) |
 | The Stone Ship | 408790 | [408790-the-stone-ship.json](./408790-the-stone-ship.json) |
@@ -17701,6 +17707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tideheart | 420221 | [420221-tideheart.json](./420221-tideheart.json) |
 | Tidepool | 407503 | [407503-tidepool.json](./407503-tidepool.json) |
 | Tides Odyssey | 315777 | [315777-tides-odyssey.json](./315777-tides-odyssey.json) |
+| Tides of Annihilation | 331212 | [331212-tides-of-annihilation.json](./331212-tides-of-annihilation.json) |
 | Tides of Blazefall | 389474 | [389474-tides-of-blazefall.json](./389474-tides-of-blazefall.json) |
 | Tides of Despair | 255013 | [255013-tides-of-despair.json](./255013-tides-of-despair.json) |
 | Tides of Dominion | 256419 | [256419-tides-of-dominion.json](./256419-tides-of-dominion.json) |
@@ -22164,6 +22171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Accurate Battlegrounds | 103222 | [103222-totally-accurate-battlegrounds.json](./103222-totally-accurate-battlegrounds.json) |
 | Totally Accurate Dating Simulator | 241505 | [241505-totally-accurate-dating-simulator.json](./241505-totally-accurate-dating-simulator.json) |
 | Totally Accurate GamePlay | 188321 | [188321-totally-accurate-gameplay.json](./188321-totally-accurate-gameplay.json) |
+| Totally Accurate Holiday Bowling | 331259 | [331259-totally-accurate-holiday-bowling.json](./331259-totally-accurate-holiday-bowling.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Convenient | 188907 | [188907-totally-convenient.json](./188907-totally-convenient.json) |
 | Totally Defenceless | 331801 | [331801-totally-defenceless.json](./331801-totally-defenceless.json) |
