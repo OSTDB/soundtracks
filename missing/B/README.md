@@ -822,7 +822,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6577,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot Hunter | 61902 | [61902-bigfoot-hunter.json](./61902-bigfoot-hunter.json) |
 | Bigfoot Hunting | 220157 | [220157-bigfoot-hunting.json](./220157-bigfoot-hunting.json) |
 | Bigfoot Hunting | 353950 | [353950-bigfoot-hunting.json](./353950-bigfoot-hunting.json) |
+| Bigfoot Life | 309909 | [309909-bigfoot-life.json](./309909-bigfoot-life.json) |
 | Bigfoot Monster Hunter | 216105 | [216105-bigfoot-monster-hunter.json](./216105-bigfoot-monster-hunter.json) |
 | Bigfoot Monster Hunter | 97050 | [97050-bigfoot-monster-hunter.json](./97050-bigfoot-monster-hunter.json) |
 | Bigfoot Quest | 90752 | [90752-bigfoot-quest.json](./90752-bigfoot-quest.json) |
@@ -10388,6 +10388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodacious Babes: Holidays | 302436 | [302436-bodacious-babes-holidays.json](./302436-bodacious-babes-holidays.json) |
 | Bodacious Babes: Nightlife | 295370 | [295370-bodacious-babes-nightlife.json](./295370-bodacious-babes-nightlife.json) |
 | Bode Miller Alpine Skiing | 43553 | [43553-bode-miller-alpine-skiing.json](./43553-bode-miller-alpine-skiing.json) |
+| Bodega | 309904 | [309904-bodega.json](./309904-bodega.json) |
 | Bodge Dall | 180457 | [180457-bodge-dall.json](./180457-bodge-dall.json) |
 | Bodhi 'n' Friends | 236264 | [236264-bodhi-n-friends.json](./236264-bodhi-n-friends.json) |
 | Bodi Pripravljen: Be Prepared | 379887 | [379887-bodi-pripravljen-be-prepared.json](./379887-bodi-pripravljen-be-prepared.json) |
