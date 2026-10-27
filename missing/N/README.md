@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nandemoya of Flower Street | 239797 | [239797-nandemoya-of-flower-street.json](./239797-nandemoya-of-flower-street.json) |
+| NandGame | 314811 | [314811-nandgame.json](./314811-nandgame.json) |
 | Nandome ka no Hajimemashite | 354767 | [354767-nandome-ka-no-hajimemashite.json](./354767-nandome-ka-no-hajimemashite.json) |
 | Nandome ka no Shiki | 393972 | [393972-nandome-ka-no-shiki.json](./393972-nandome-ka-no-shiki.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nendoroid Generation | 44485 | [44485-nendoroid-generation.json](./44485-nendoroid-generation.json) |
 | Nene Interactive Suicide | 393304 | [393304-nene-interactive-suicide.json](./393304-nene-interactive-suicide.json) |
 | NeNeKoNeKo | 394761 | [394761-nenekoneko.json](./394761-nenekoneko.json) |
+| Nenene Noble | 314800 | [314800-nenene-noble.json](./314800-nenene-noble.json) |
 | Nenneman: The Game | 217360 | [217360-nenneman-the-game.json](./217360-nenneman-the-game.json) |
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo 21 | 75491 | [75491-neo-21.json](./75491-neo-21.json) |
