@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Redbox | 112187 | [112187-zombie-redbox.json](./112187-zombie-redbox.json) |
 | Zombie Retro Simulation | 177273 | [177273-zombie-retro-simulation.json](./177273-zombie-retro-simulation.json) |
 | Zombie Riot | 36711 | [36711-zombie-riot.json](./36711-zombie-riot.json) |
+| Zombie Road Rage | 326535 | [326535-zombie-road-rage.json](./326535-zombie-road-rage.json) |
 | Zombie Road Rider | 126590 | [126590-zombie-road-rider.json](./126590-zombie-road-rider.json) |
 | Zombie Road Trip HD | 99145 | [99145-zombie-road-trip-hd.json](./99145-zombie-road-trip-hd.json) |
 | Zombie Roadkill 3D | 260869 | [260869-zombie-roadkill-3d.json](./260869-zombie-roadkill-3d.json) |
