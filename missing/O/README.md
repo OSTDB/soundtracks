@@ -4366,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Shattered Dreams Collection | 331419 | [331419-outbreak-shattered-dreams-collection.json](./331419-outbreak-shattered-dreams-collection.json) |
 | Outbreak: Silver Collection | 205579 | [205579-outbreak-silver-collection.json](./205579-outbreak-silver-collection.json) |
 | Outbreak: Strange Shades Collection | 331413 | [331413-outbreak-strange-shades-collection.json](./331413-outbreak-strange-shades-collection.json) |
+| Outbreak: Survival Kit Collection | 314806 | [314806-outbreak-survival-kit-collection.json](./314806-outbreak-survival-kit-collection.json) |
 | Outbreak: Take a Bite Collection | 331416 | [331416-outbreak-take-a-bite-collection.json](./331416-outbreak-take-a-bite-collection.json) |
 | Outbreak: Tenth Anniversary Celebration Collection | 331414 | [331414-outbreak-tenth-anniversary-celebration-collection.json](./331414-outbreak-tenth-anniversary-celebration-collection.json) |
 | Outbreak: The Fall of Cypress Ridge Collection | 331415 | [331415-outbreak-the-fall-of-cypress-ridge-collection.json](./331415-outbreak-the-fall-of-cypress-ridge-collection.json) |
@@ -4833,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
 | Overnight 2: Reboot | 370084 | [370084-overnight-2-reboot.json](./370084-overnight-2-reboot.json) |
 | Overnight Interview | 376024 | [376024-overnight-interview.json](./376024-overnight-interview.json) |
+| Overnight Tea | 314819 | [314819-overnight-tea.json](./314819-overnight-tea.json) |
 | Overnight Watch | 311589 | [311589-overnight-watch.json](./311589-overnight-watch.json) |
 | Overpaint | 102702 | [102702-overpaint.json](./102702-overpaint.json) |
 | Overpainted | 397741 | [397741-overpainted.json](./397741-overpainted.json) |
