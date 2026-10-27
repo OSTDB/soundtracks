@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World: Horses | 247634 | [247634-jigsaw-puzzle-world-horses.json](./247634-jigsaw-puzzle-world-horses.json) |
 | Jigsaw Puzzle World: India | 247631 | [247631-jigsaw-puzzle-world-india.json](./247631-jigsaw-puzzle-world-india.json) |
 | Jigsaw Puzzle World: Insects | 293610 | [293610-jigsaw-puzzle-world-insects.json](./293610-jigsaw-puzzle-world-insects.json) |
+| Jigsaw Puzzle World: Italy | 286145 | [286145-jigsaw-puzzle-world-italy.json](./286145-jigsaw-puzzle-world-italy.json) |
 | Jigsaw Puzzle World: Japan | 247646 | [247646-jigsaw-puzzle-world-japan.json](./247646-jigsaw-puzzle-world-japan.json) |
 | Jigsaw Puzzle World: Lions & Tigers | 357903 | [357903-jigsaw-puzzle-world-lions-and-tigers.json](./357903-jigsaw-puzzle-world-lions-and-tigers.json) |
 | Jigsaw Puzzle World: Mediterranean Food | 247626 | [247626-jigsaw-puzzle-world-mediterranean-food.json](./247626-jigsaw-puzzle-world-mediterranean-food.json) |
@@ -2866,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Yuusha | 222423 | [222423-jump-yuusha.json](./222423-jump-yuusha.json) |
 | Jump, challenge 100 floors | 247662 | [247662-jump-challenge-100-floors.json](./247662-jump-challenge-100-floors.json) |
 | Jump, Dodge, Die, Repeat | 246821 | [246821-jump-dodge-die-repeat.json](./246821-jump-dodge-die-repeat.json) |
+| Jump, Froggy! Jump! | 286016 | [286016-jump-froggy-jump.json](./286016-jump-froggy-jump.json) |
 | Jump, Mouse, Jump! | 391252 | [391252-jump-mouse-jump.json](./391252-jump-mouse-jump.json) |
 | Jump, Race, Fly | 264903 | [264903-jump-race-fly.json](./264903-jump-race-fly.json) |
 | Jump, Smash! | 106999 | [106999-jump-smash.json](./106999-jump-smash.json) |
