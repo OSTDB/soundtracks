@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
 | Jammed | 407151 | [407151-jammed.json](./407151-jammed.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
+| Jammer Dash | 314807 | [314807-jammer-dash.json](./314807-jammer-dash.json) |
 | Jammery | 177450 | [177450-jammery.json](./177450-jammery.json) |
 | Jammes | 38168 | [38168-jammes.json](./38168-jammes.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
