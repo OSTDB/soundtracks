@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenwood Drive | 311626 | [311626-ravenwood-drive.json](./311626-ravenwood-drive.json) |
 | Ravenwood Horror | 59916 | [59916-ravenwood-horror.json](./59916-ravenwood-horror.json) |
 | Raver Champions | 129589 | [129589-raver-champions.json](./129589-raver-champions.json) |
+| Raver's Rumble | 291967 | [291967-ravers-rumble.json](./291967-ravers-rumble.json) |
 | Raveren: The Legend Of Etheria | 378365 | [378365-raveren-the-legend-of-etheria.json](./378365-raveren-the-legend-of-etheria.json) |
 | Ravesta Racing | 127752 | [127752-ravesta-racing.json](./127752-ravesta-racing.json) |
 | Raving Mad | 93004 | [93004-raving-mad.json](./93004-raving-mad.json) |
@@ -4923,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
 | Resort Boss: Golf | 114798 | [114798-resort-boss-golf.json](./114798-resort-boss-golf.json) |
 | Resort Empire | 394361 | [394361-resort-empire.json](./394361-resort-empire.json) |
+| Resort Hotel: Bay Story | 291964 | [291964-resort-hotel-bay-story.json](./291964-resort-hotel-bay-story.json) |
 | Resort Island Simulator | 374441 | [374441-resort-island-simulator.json](./374441-resort-island-simulator.json) |
 | Resort Simulator | 407373 | [407373-resort-simulator.json](./407373-resort-simulator.json) |
 | Resortopia | 287627 | [287627-resortopia.json](./287627-resortopia.json) |
@@ -6541,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Saturn: Tales from the Rings | 169249 | [169249-rings-of-saturn-tales-from-the-rings.json](./169249-rings-of-saturn-tales-from-the-rings.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
 | Rings of Zilfin | 2891 | [2891-rings-of-zilfin.json](./2891-rings-of-zilfin.json) |
+| Ringside Seat | 291973 | [291973-ringside-seat.json](./291973-ringside-seat.json) |
 | Ringwold: The Last Collector | 414275 | [414275-ringwold-the-last-collector.json](./414275-ringwold-the-last-collector.json) |
 | Ringworld: Revenge of the Patriarch | 46727 | [46727-ringworld-revenge-of-the-patriarch.json](./46727-ringworld-revenge-of-the-patriarch.json) |
 | Ringwyrm | 410985 | [410985-ringwyrm.json](./410985-ringwyrm.json) |
@@ -10182,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruffnauts: Planet Pals | 363151 | [363151-ruffnauts-planet-pals.json](./363151-ruffnauts-planet-pals.json) |
 | Rufus Snackdown | 338401 | [338401-rufus-snackdown.json](./338401-rufus-snackdown.json) |
 | Rufus Snow Ride | 338404 | [338404-rufus-snow-ride.json](./338404-rufus-snow-ride.json) |
+| Rug Rats | 292037 | [292037-rug-rats.json](./292037-rug-rats.json) |
 | Rugby | 94199 | [94199-rugby.json](./94199-rugby.json) |
 | Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
@@ -10884,6 +10888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
+| Rush Hero | 291955 | [291955-rush-hero.json](./291955-rush-hero.json) |
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
 | Rush Hour | 28056 | [28056-rush-hour.json](./28056-rush-hour.json) |
 | Rush Hour | 385782 | [385782-rush-hour.json](./385782-rush-hour.json) |
