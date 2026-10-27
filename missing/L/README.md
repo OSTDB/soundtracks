@@ -8144,6 +8144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumeera and the Glow Reefs | 406803 | [406803-lumeera-and-the-glow-reefs.json](./406803-lumeera-and-the-glow-reefs.json) |
 | Lumen | 164330 | [164330-lumen.json](./164330-lumen.json) |
 | Lumen | 292608 | [292608-lumen.json](./292608-lumen.json) |
+| Lumen Inferius | 311536 | [311536-lumen-inferius.json](./311536-lumen-inferius.json) |
 | Lumen Race | 370776 | [370776-lumen-race.json](./370776-lumen-race.json) |
 | Lumen Rider | 256749 | [256749-lumen-rider.json](./256749-lumen-rider.json) |
 | Lumen: The Last Hope | 365612 | [365612-lumen-the-last-hope.json](./365612-lumen-the-last-hope.json) |
@@ -8174,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
 | Luminator DS | 124476 | [124476-luminator-ds.json](./124476-luminator-ds.json) |
 | Luminaya | 372640 | [372640-luminaya.json](./372640-luminaya.json) |
+| Luminedge | 311541 | [311541-luminedge.json](./311541-luminedge.json) |
 | LumineNight | 263034 | [263034-luminenight.json](./263034-luminenight.json) |
 | Luminera: The Radiant Journey | 197530 | [197530-luminera-the-radiant-journey.json](./197530-luminera-the-radiant-journey.json) |
 | Lumines | 4689 | [4689-lumines.json](./4689-lumines.json) |
