@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Tenshi: Blue Sun | 364399 | [364399-zero-tenshi-blue-sun.json](./364399-zero-tenshi-blue-sun.json) |
 | Zero the Kamikaze Squirrel | 38405 | [38405-zero-the-kamikaze-squirrel.json](./38405-zero-the-kamikaze-squirrel.json) |
 | Zero to Army | 391893 | [391893-zero-to-army.json](./391893-zero-to-army.json) |
+| Zero to Dance Hero | 322530 | [322530-zero-to-dance-hero.json](./322530-zero-to-dance-hero.json) |
 | Zero to Death | 297756 | [297756-zero-to-death.json](./297756-zero-to-death.json) |
 | Zero to Hero | 235325 | [235325-zero-to-hero.json](./235325-zero-to-hero.json) |
 | Zero to South | 418664 | [418664-zero-to-south.json](./418664-zero-to-south.json) |
