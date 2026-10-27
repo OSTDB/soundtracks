@@ -3390,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niara: Rebellion of the King Visual Novel RPG | 118648 | [118648-niara-rebellion-of-the-king-visual-novel-rpg.json](./118648-niara-rebellion-of-the-king-visual-novel-rpg.json) |
 | Niatang | 249643 | [249643-niatang.json](./249643-niatang.json) |
 | Nib, the Pen is Mightier AS a Sword | 141011 | [141011-nib-the-pen-is-mightier-as-a-sword.json](./141011-nib-the-pen-is-mightier-as-a-sword.json) |
+| Nibansen | 283539 | [283539-nibansen.json](./283539-nibansen.json) |
 | Nibansen Plus | 295470 | [295470-nibansen-plus.json](./295470-nibansen-plus.json) |
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nibble: Pizza Delivery | 254997 | [254997-nibble-pizza-delivery.json](./254997-nibble-pizza-delivery.json) |
@@ -4393,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden Sigma 2: Premium Box | 298018 | [298018-ninja-gaiden-sigma-2-premium-box.json](./298018-ninja-gaiden-sigma-2-premium-box.json) |
 | Ninja Gaiden Trilogy | 42729 | [42729-ninja-gaiden-trilogy.json](./42729-ninja-gaiden-trilogy.json) |
 | Ninja Gaiden Trilogy SNES | 377745 | [377745-ninja-gaiden-trilogy-snes.json](./377745-ninja-gaiden-trilogy-snes.json) |
+| Ninja Gaiden Upgrade A | 283797 | [283797-ninja-gaiden-upgrade-a.json](./283797-ninja-gaiden-upgrade-a.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
 | Ninja Gaiden: Dragon Sword | 21466 | [21466-ninja-gaiden-dragon-sword.json](./21466-ninja-gaiden-dragon-sword.json) |
 | Ninja Gaiden: Hurricane Pack I | 215249 | [215249-ninja-gaiden-hurricane-pack-i.json](./215249-ninja-gaiden-hurricane-pack-i.json) |
@@ -6178,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoWayBack | 202661 | [202661-nowayback.json](./202661-nowayback.json) |
 | Nowhere | 170964 | [170964-nowhere.json](./170964-nowhere.json) |
 | Nowhere | 272287 | [272287-nowhere.json](./272287-nowhere.json) |
+| Nowhere | 283550 | [283550-nowhere.json](./283550-nowhere.json) |
 | Nowhere Belonging | 376043 | [376043-nowhere-belonging.json](./376043-nowhere-belonging.json) |
 | Nowhere Girl | 110627 | [110627-nowhere-girl.json](./110627-nowhere-girl.json) |
 | Nowhere Highway | 385678 | [385678-nowhere-highway.json](./385678-nowhere-highway.json) |
