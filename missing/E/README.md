@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
 | Elven Mists 2 | 209199 | [209199-elven-mists-2.json](./209199-elven-mists-2.json) |
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
+| Elven Rivers IV: Raging Waves | 294747 | [294747-elven-rivers-iv-raging-waves.json](./294747-elven-rivers-iv-raging-waves.json) |
 | Elven Rivers VI: Guardians of Hope - Collector's Edition | 358406 | [358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json](./358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json) |
 | Elven Rivers VII: The Crimson Tide | 420567 | [420567-elven-rivers-vii-the-crimson-tide.json](./420567-elven-rivers-vii-the-crimson-tide.json) |
 | Elven Rivers VII: The Crimson Tide - Collector's Edition | 386356 | [386356-elven-rivers-vii-the-crimson-tide-collectors-edition.json](./386356-elven-rivers-vii-the-crimson-tide-collectors-edition.json) |
@@ -4709,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Boardgame | 336719 | [336719-escape-the-boardgame.json](./336719-escape-the-boardgame.json) |
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
 | Escape the Challenge | 120973 | [120973-escape-the-challenge.json](./120973-escape-the-challenge.json) |
+| Escape the Chambers | 294762 | [294762-escape-the-chambers.json](./294762-escape-the-chambers.json) |
 | Escape the City | 170910 | [170910-escape-the-city.json](./170910-escape-the-city.json) |
 | Escape the Clinic | 142295 | [142295-escape-the-clinic.json](./142295-escape-the-clinic.json) |
 | Escape the Dark Tower | 260233 | [260233-escape-the-dark-tower.json](./260233-escape-the-dark-tower.json) |
