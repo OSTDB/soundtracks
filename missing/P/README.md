@@ -5524,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2: New Year | 312294 | [312294-pikmin-2-new-year.json](./312294-pikmin-2-new-year.json) |
 | Pikmin 2: Snowy Tutorial | 314791 | [314791-pikmin-2-snowy-tutorial.json](./314791-pikmin-2-snowy-tutorial.json) |
 | Pikmin 2: Yellow Edition | 375785 | [375785-pikmin-2-yellow-edition.json](./375785-pikmin-2-yellow-edition.json) |
+| Pikmin 216 | 287482 | [287482-pikmin-216.json](./287482-pikmin-216.json) |
 | Pikmin 2D | 387584 | [387584-pikmin-2d.json](./387584-pikmin-2d.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
@@ -14270,6 +14271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prove You Can Win | 341441 | [341441-prove-you-can-win.json](./341441-prove-you-can-win.json) |
 | Prove You're Human | 397804 | [397804-prove-youre-human.json](./397804-prove-youre-human.json) |
 | Proven: A Math RPG | 158059 | [158059-proven-a-math-rpg.json](./158059-proven-a-math-rpg.json) |
+| Provenance | 287603 | [287603-provenance.json](./287603-provenance.json) |
 | Proverbs | 318962 | [318962-proverbs.json](./318962-proverbs.json) |
 | Proviant | 90618 | [90618-proviant.json](./90618-proviant.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
