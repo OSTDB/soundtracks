@@ -835,7 +835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10635,6 +10634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku to Nurse no Kenshuu Nisshi: Premium Edition | 146119 | [146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json](./146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json) |
 | Boku to Tsuri Nikki | 412519 | [412519-boku-to-tsuri-nikki.json](./412519-boku-to-tsuri-nikki.json) |
 | Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
+| Boku to, Bokura no Natsu | 283324 | [283324-boku-to-bokura-no-natsu.json](./283324-boku-to-bokura-no-natsu.json) |
 | Boku wa Chiisai | 210919 | [210919-boku-wa-chiisai.json](./210919-boku-wa-chiisai.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D - Kankuu All Stars | 222426 | [222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json](./222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
@@ -14561,6 +14561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build & Survive | 351722 | [351722-build-and-survive.json](./351722-build-and-survive.json) |
 | Build A Bank Tycoon | 394381 | [394381-build-a-bank-tycoon.json](./394381-build-a-bank-tycoon.json) |
 | Build a Boss | 158391 | [158391-build-a-boss.json](./158391-build-a-boss.json) |
+| Build A Bridge Collection | 283204 | [283204-build-a-bridge-collection.json](./283204-build-a-bridge-collection.json) |
 | Build a Bridge! | 114190 | [114190-build-a-bridge.json](./114190-build-a-bridge.json) |
 | Build a Cat Tower to reach the Fish | 413102 | [413102-build-a-cat-tower-to-reach-the-fish.json](./413102-build-a-cat-tower-to-reach-the-fish.json) |
 | Build a City Block | 261735 | [261735-build-a-city-block.json](./261735-build-a-city-block.json) |
