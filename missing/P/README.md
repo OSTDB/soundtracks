@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partizan | 270055 | [270055-partizan.json](./270055-partizan.json) |
 | Partless Ron | 155928 | [155928-partless-ron.json](./155928-partless-ron.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
+| Parts of the Elephant | 310483 | [310483-parts-of-the-elephant.json](./310483-parts-of-the-elephant.json) |
 | Partum Artifex | 186115 | [186115-partum-artifex.json](./186115-partum-artifex.json) |
 | Partway | 422092 | [422092-partway.json](./422092-partway.json) |
 | Party Animal | 92431 | [92431-party-animal.json](./92431-party-animal.json) |
@@ -5384,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon Sim: Bird Simulator - Lady Pigeon DLC | 309063 | [309063-pigeon-sim-bird-simulator-lady-pigeon-dlc.json](./309063-pigeon-sim-bird-simulator-lady-pigeon-dlc.json) |
 | Pigeon Simulator | 120304 | [120304-pigeon-simulator.json](./120304-pigeon-simulator.json) |
 | Pigeon Simulator Survival | 296459 | [296459-pigeon-simulator-survival.json](./296459-pigeon-simulator-survival.json) |
+| Pigeon Simulator: Bird Simulator - Premium Edition | 310429 | [310429-pigeon-simulator-bird-simulator-premium-edition.json](./310429-pigeon-simulator-bird-simulator-premium-edition.json) |
 | Pigeon Strike | 246000 | [246000-pigeon-strike.json](./246000-pigeon-strike.json) |
 | Pigeon West: Call of Gun. Isekai | 340394 | [340394-pigeon-west-call-of-gun-isekai.json](./340394-pigeon-west-call-of-gun-isekai.json) |
 | Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
