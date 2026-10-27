@@ -4161,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadence | 346640 | [346640-decadence.json](./346640-decadence.json) |
 | Decadence: A Tarnished World | 311357 | [311357-decadence-a-tarnished-world.json](./311357-decadence-a-tarnished-world.json) |
+| Decadent | 295737 | [295737-decadent.json](./295737-decadent.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
 | Decadent Thinking | 331919 | [331919-decadent-thinking.json](./331919-decadent-thinking.json) |
 | DecaDungeons | 393043 | [393043-decadungeons.json](./393043-decadungeons.json) |
@@ -14479,6 +14480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Business | 369040 | [369040-drug-business.json](./369040-drug-business.json) |
 | Drug Dealer 2049 | 421459 | [421459-drug-dealer-2049.json](./421459-drug-dealer-2049.json) |
 | Drug Dealer Manager | 217264 | [217264-drug-dealer-manager.json](./217264-drug-dealer-manager.json) |
+| Drug Dealer Sim: Street Hustle | 295761 | [295761-drug-dealer-sim-street-hustle.json](./295761-drug-dealer-sim-street-hustle.json) |
 | Drug Dealer: Schedule I | 370790 | [370790-drug-dealer-schedule-i.json](./370790-drug-dealer-schedule-i.json) |
 | Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
