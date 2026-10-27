@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
+| Saechi's Adventure | 316043 | [316043-saechis-adventure.json](./316043-saechis-adventure.json) |
 | Saeki Chizu Shiki Yumemihada: Dream Skincare | 68435 | [68435-saeki-chizu-shiki-yumemihada-dream-skincare.json](./68435-saeki-chizu-shiki-yumemihada-dream-skincare.json) |
 | Saeko-san to Issho! | 77850 | [77850-saeko-san-to-issho.json](./77850-saeko-san-to-issho.json) |
 | Saeko: Giantess Dating Sim | 258823 | [258823-saeko-giantess-dating-sim.json](./258823-saeko-giantess-dating-sim.json) |
@@ -4780,6 +4781,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Seonbi: Scholar of Joseon | 247949 | [247949-seonbi-scholar-of-joseon.json](./247949-seonbi-scholar-of-joseon.json) |
 | Seoul 2033 | 215092 | [215092-seoul-2033.json](./215092-seoul-2033.json) |
+| Seoul 2033: Shelter | 316038 | [316038-seoul-2033-shelter.json](./316038-seoul-2033-shelter.json) |
+| Seoul 2033: Yusijin | 316039 | [316039-seoul-2033-yusijin.json](./316039-seoul-2033-yusijin.json) |
 | Seoul Apocalypse | 256454 | [256454-seoul-apocalypse.json](./256454-seoul-apocalypse.json) |
 | Seoul Bridge | 383161 | [383161-seoul-bridge.json](./383161-seoul-bridge.json) |
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
@@ -25931,6 +25934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bull Knight | 234558 | [234558-super-bull-knight.json](./234558-super-bull-knight.json) |
 | Super Bullet Break | 196819 | [196819-super-bullet-break.json](./196819-super-bullet-break.json) |
 | Super Bullet Break: Day 1 Edition | 198393 | [198393-super-bullet-break-day-1-edition.json](./198393-super-bullet-break-day-1-edition.json) |
+| Super Bumble Trials | 316041 | [316041-super-bumble-trials.json](./316041-super-bumble-trials.json) |
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
 | Super Bunny | 25670 | [25670-super-bunny.json](./25670-super-bunny.json) |
 | Super Bunny Laser Spikes | 124513 | [124513-super-bunny-laser-spikes.json](./124513-super-bunny-laser-spikes.json) |
@@ -26124,6 +26128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Destroyer | 175631 | [175631-super-destroyer.json](./175631-super-destroyer.json) |
 | Super Destroyer | 378394 | [378394-super-destroyer.json](./378394-super-destroyer.json) |
 | Super Dev Quest | 414269 | [414269-super-dev-quest.json](./414269-super-dev-quest.json) |
+| Super Diagonal Mario | 316018 | [316018-super-diagonal-mario.json](./316018-super-diagonal-mario.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
 | Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
