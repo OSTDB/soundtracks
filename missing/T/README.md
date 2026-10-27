@@ -5312,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basement | 274942 | [274942-the-basement.json](./274942-the-basement.json) |
 | The Basement | 282493 | [282493-the-basement.json](./282493-the-basement.json) |
 | The Basement | 326942 | [326942-the-basement.json](./326942-the-basement.json) |
+| The Basement Ritual | 320781 | [320781-the-basement-ritual.json](./320781-the-basement-ritual.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
