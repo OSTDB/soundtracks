@@ -5779,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats in Tokyo | 318961 | [318961-hidden-cats-in-tokyo.json](./318961-hidden-cats-in-tokyo.json) |
 | Hidden Cats in Town | 244274 | [244274-hidden-cats-in-town.json](./244274-hidden-cats-in-town.json) |
 | Hidden Cats In White Sand Village | 367036 | [367036-hidden-cats-in-white-sand-village.json](./367036-hidden-cats-in-white-sand-village.json) |
+| Hidden Cats Invade Venice | 309405 | [309405-hidden-cats-invade-venice.json](./309405-hidden-cats-invade-venice.json) |
 | Hidden Cats of Atlantis | 324246 | [324246-hidden-cats-of-atlantis.json](./324246-hidden-cats-of-atlantis.json) |
 | Hidden Cats of Egypt | 322096 | [322096-hidden-cats-of-egypt.json](./322096-hidden-cats-of-egypt.json) |
 | Hidden Cats of Mars | 324245 | [324245-hidden-cats-of-mars.json](./324245-hidden-cats-of-mars.json) |
@@ -6520,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
 | Highway Getaway: ZigZag Blocky Car | 289726 | [289726-highway-getaway-zigzag-blocky-car.json](./289726-highway-getaway-zigzag-blocky-car.json) |
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
+| Highway Hijinks | 309402 | [309402-highway-hijinks.json](./309402-highway-hijinks.json) |
 | Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
 | Highway Insanity | 107135 | [107135-highway-insanity.json](./107135-highway-insanity.json) |
 | Highway Legends: Complete DLC Bundle | 317678 | [317678-highway-legends-complete-dlc-bundle.json](./317678-highway-legends-complete-dlc-bundle.json) |
