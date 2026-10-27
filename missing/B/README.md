@@ -5571,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bennu | 94057 | [94057-bennu.json](./94057-bennu.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
 | Benny Bash | 330973 | [330973-benny-bash.json](./330973-benny-bash.json) |
+| Benny the Blob | 322614 | [322614-benny-the-blob.json](./322614-benny-the-blob.json) |
 | Benny's Backrooms | 303109 | [303109-bennys-backrooms.json](./303109-bennys-backrooms.json) |
 | Bent Oak Island | 240719 | [240719-bent-oak-island.json](./240719-bent-oak-island.json) |
 | Bent on Destruction | 195648 | [195648-bent-on-destruction.json](./195648-bent-on-destruction.json) |
@@ -6975,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biolab Wars | 121066 | [121066-biolab-wars.json](./121066-biolab-wars.json) |
 | Bioleech | 366419 | [366419-bioleech.json](./366419-bioleech.json) |
 | Biologica! | 68775 | [68775-biologica.json](./68775-biologica.json) |
+| Biological Incident | 322622 | [322622-biological-incident.json](./322622-biological-incident.json) |
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
 | Bioma | 179945 | [179945-bioma.json](./179945-bioma.json) |
@@ -7798,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Pencil | 417944 | [417944-black-pencil.json](./417944-black-pencil.json) |
 | Black Penguin | 92958 | [92958-black-penguin.json](./92958-black-penguin.json) |
 | Black Pieces Move First | 360695 | [360695-black-pieces-move-first.json](./360695-black-pieces-move-first.json) |
+| Black Pine: Incident Response | 322510 | [322510-black-pine-incident-response.json](./322510-black-pine-incident-response.json) |
 | Black Plague | 405942 | [405942-black-plague.json](./405942-black-plague.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
@@ -10091,6 +10094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
 | Blur | 3235 | [3235-blur.json](./3235-blur.json) |
+| Blur Overdrive | 322545 | [322545-blur-overdrive.json](./322545-blur-overdrive.json) |
 | Blur time | 60790 | [60790-blur-time.json](./60790-blur-time.json) |
 | Bluravity | 152713 | [152713-bluravity.json](./152713-bluravity.json) |
 | Blured Angel | 161566 | [161566-blured-angel.json](./161566-blured-angel.json) |
@@ -10248,6 +10252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Was Hungry | 35905 | [35905-bob-was-hungry.json](./35905-bob-was-hungry.json) |
 | Bob Winner | 46734 | [46734-bob-winner.json](./46734-bob-winner.json) |
 | Bob Winner 2 | 25771 | [25771-bob-winner-2.json](./25771-bob-winner-2.json) |
+| Bob-Ball | 322549 | [322549-bob-ball.json](./322549-bob-ball.json) |
 | Bob: A thousand lives | 209488 | [209488-bob-a-thousand-lives.json](./209488-bob-a-thousand-lives.json) |
 | Bob.exe | 230870 | [230870-bob-exe.json](./230870-bob-exe.json) |
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
@@ -10367,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Slam | 40095 | [40095-body-slam.json](./40095-body-slam.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
 | BodyCam 2025 | 368253 | [368253-bodycam-2025.json](./368253-bodycam-2025.json) |
+| BodyCam Assault Shooter | 322509 | [322509-bodycam-assault-shooter.json](./322509-bodycam-assault-shooter.json) |
 | BodyCam GangZone | 335092 | [335092-bodycam-gangzone.json](./335092-bodycam-gangzone.json) |
 | Bodycam Onrecord | 365058 | [365058-bodycam-onrecord.json](./365058-bodycam-onrecord.json) |
 | Bodycam Police Simulator | 317218 | [317218-bodycam-police-simulator.json](./317218-bodycam-police-simulator.json) |
@@ -11496,6 +11502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boston Bomb Club | 10865 | [10865-boston-bomb-club.json](./10865-boston-bomb-club.json) |
 | Boston Nursing Home | 157174 | [157174-boston-nursing-home.json](./157174-boston-nursing-home.json) |
 | Bot Battles | 116835 | [116835-bot-battles.json](./116835-bot-battles.json) |
+| Bot Beats | 322619 | [322619-bot-beats.json](./322619-bot-beats.json) |
 | Bot Brigade | 202552 | [202552-bot-brigade.json](./202552-bot-brigade.json) |
 | Bot Colony | 16835 | [16835-bot-colony.json](./16835-bot-colony.json) |
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
