@@ -12179,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare: Serial Killers | 262321 | [262321-the-nightmare-serial-killers.json](./262321-the-nightmare-serial-killers.json) |
 | The Nightmares at The Krusty Krab | 382988 | [382988-the-nightmares-at-the-krusty-krab.json](./382988-the-nightmares-at-the-krusty-krab.json) |
 | The Nights on Arcade | 267073 | [267073-the-nights-on-arcade.json](./267073-the-nights-on-arcade.json) |
+| The Nightscarred: Forgotten Gods | 314820 | [314820-the-nightscarred-forgotten-gods.json](./314820-the-nightscarred-forgotten-gods.json) |
 | The Nightshift Code | 16076 | [16076-the-nightshift-code.json](./16076-the-nightshift-code.json) |
 | The Nightwatch | 289977 | [289977-the-nightwatch.json](./289977-the-nightwatch.json) |
 | The Nihil War | 224696 | [224696-the-nihil-war.json](./224696-the-nihil-war.json) |
@@ -23531,6 +23532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracon!2012:SE | 86735 | [86735-tracon-2012-se.json](./86735-tracon-2012-se.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
 | Traction Control | 148236 | [148236-traction-control.json](./148236-traction-control.json) |
+| Tractor Beams | 314816 | [314816-tractor-beams.json](./314816-tractor-beams.json) |
 | Tractor Cargo Driving Simulator | 393955 | [393955-tractor-cargo-driving-simulator.json](./393955-tractor-cargo-driving-simulator.json) |
 | Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
 | Tractor Farming Simulator 3D | 300844 | [300844-tractor-farming-simulator-3d.json](./300844-tractor-farming-simulator-3d.json) |
@@ -27167,6 +27169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 319850 | [319850-tsugunohi-supernatural-supermarket.json](./319850-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsuka Shikiru ha Yarazu no Ame | 395358 | [395358-tsuka-shikiru-ha-yarazu-no-ame.json](./395358-tsuka-shikiru-ha-yarazu-no-ame.json) |
+| Tsukame, Jinsei no Migiuchi! GoGo Zenkaiten Arashi wo Yobu! Honoo no Pachinkas Road | 314828 | [314828-tsukame-jinsei-no-migiuchi-gogo-zenkaiten-arashi-wo-yobu-honoo-no-pachinkas-road.json](./314828-tsukame-jinsei-no-migiuchi-gogo-zenkaiten-arashi-wo-yobu-honoo-no-pachinkas-road.json) |
 | Tsukasa no Satisfaction | 77851 | [77851-tsukasa-no-satisfaction.json](./77851-tsukasa-no-satisfaction.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
