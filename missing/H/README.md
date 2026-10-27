@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Obachestra Vol. 1 Awaking | 254617 | [254617-haunted-obachestra-vol-1-awaking.json](./254617-haunted-obachestra-vol-1-awaking.json) |
 | Haunted Obachestra Vol. 2 Bianke | 254618 | [254618-haunted-obachestra-vol-2-bianke.json](./254618-haunted-obachestra-vol-2-bianke.json) |
 | Haunted Past: Realm of Ghosts | 36380 | [36380-haunted-past-realm-of-ghosts.json](./36380-haunted-past-realm-of-ghosts.json) |
+| Haunted Paws | 302983 | [302983-haunted-paws.json](./302983-haunted-paws.json) |
 | Haunted Places | 207761 | [207761-haunted-places.json](./207761-haunted-places.json) |
 | Haunted Property | 309491 | [309491-haunted-property.json](./309491-haunted-property.json) |
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
@@ -3660,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire Fortress | 102902 | [102902-hellfire-fortress.json](./102902-hellfire-fortress.json) |
 | Hellfire Hair | 391301 | [391301-hellfire-hair.json](./391301-hellfire-hair.json) |
 | Hellfire Poncho | 283754 | [283754-hellfire-poncho.json](./283754-hellfire-poncho.json) |
+| Hellfire Rampage VR | 302914 | [302914-hellfire-rampage-vr.json](./302914-hellfire-rampage-vr.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
 | Hellfire Tactics | 208253 | [208253-hellfire-tactics.json](./208253-hellfire-tactics.json) |
 | Hellfire Zone | 68755 | [68755-hellfire-zone.json](./68755-hellfire-zone.json) |
@@ -8531,6 +8533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
 | Horrher | 362993 | [362993-horrher.json](./362993-horrher.json) |
 | Horrible Area | 277710 | [277710-horrible-area.json](./277710-horrible-area.json) |
+| Horrible Dream | 302908 | [302908-horrible-dream.json](./302908-horrible-dream.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
 | Horribunnies | 130178 | [130178-horribunnies.json](./130178-horribunnies.json) |
 | Horrid Henry | 67089 | [67089-horrid-henry.json](./67089-horrid-henry.json) |
@@ -10722,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdrive Inn | 265092 | [265092-hyperdrive-inn.json](./265092-hyperdrive-inn.json) |
 | HyperDrive X | 409241 | [409241-hyperdrive-x.json](./409241-hyperdrive-x.json) |
 | Hyperdrome | 125330 | [125330-hyperdrome.json](./125330-hyperdrome.json) |
+| HyperFantasy Mimesis | 302894 | [302894-hyperfantasy-mimesis.json](./302894-hyperfantasy-mimesis.json) |
 | HyperFatal | 303553 | [303553-hyperfatal.json](./303553-hyperfatal.json) |
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
 | Hyperfield | 295877 | [295877-hyperfield.json](./295877-hyperfield.json) |
