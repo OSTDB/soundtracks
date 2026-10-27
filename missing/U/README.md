@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
 | Ultimate Jan Ken Pon | 22033 | [22033-ultimate-jan-ken-pon.json](./22033-ultimate-jan-ken-pon.json) |
 | Ultimate Jazz Jackrabbit Doom | 196004 | [196004-ultimate-jazz-jackrabbit-doom.json](./196004-ultimate-jazz-jackrabbit-doom.json) |
+| Ultimate Jello Party | 306922 | [306922-ultimate-jello-party.json](./306922-ultimate-jello-party.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
 | Ultimate JOI | 379331 | [379331-ultimate-joi.json](./379331-ultimate-joi.json) |
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
@@ -1641,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Kindred Spirits | 231469 | [231469-undertale-kindred-spirits.json](./231469-undertale-kindred-spirits.json) |
 | Undertale: No More Deals | 279675 | [279675-undertale-no-more-deals.json](./279675-undertale-no-more-deals.json) |
+| Undertale: Promised. | 307021 | [307021-undertale-promised.json](./307021-undertale-promised.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
 | Undertale: Repent to Jesus | 328203 | [328203-undertale-repent-to-jesus.json](./328203-undertale-repent-to-jesus.json) |
 | Undertale: Thanatos! | 330251 | [330251-undertale-thanatos.json](./330251-undertale-thanatos.json) |
