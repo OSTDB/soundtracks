@@ -4342,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestiais & Dragões | 240741 | [240741-celestiais-and-dragoes.json](./240741-celestiais-and-dragoes.json) |
 | Celestial | 122031 | [122031-celestial.json](./122031-celestial.json) |
 | Celestial Ascend | 387108 | [387108-celestial-ascend.json](./387108-celestial-ascend.json) |
+| Celestial Ascent | 292048 | [292048-celestial-ascent.json](./292048-celestial-ascent.json) |
 | Celestial Breach | 30795 | [30795-celestial-breach.json](./30795-celestial-breach.json) |
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
@@ -13921,6 +13922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cray-5 | 13530 | [13530-cray-5.json](./13530-cray-5.json) |
 | Crayation: The First Sketch | 379010 | [379010-crayation-the-first-sketch.json](./379010-crayation-the-first-sketch.json) |
 | Craymel Check | 294598 | [294598-craymel-check.json](./294598-craymel-check.json) |
+| Crayola Adventures | 291972 | [291972-crayola-adventures.json](./291972-crayola-adventures.json) |
 | Crayola Amazing Art Adventure | 360204 | [360204-crayola-amazing-art-adventure.json](./360204-crayola-amazing-art-adventure.json) |
 | Crayola Art Adventure | 230360 | [230360-crayola-art-adventure.json](./230360-crayola-art-adventure.json) |
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
