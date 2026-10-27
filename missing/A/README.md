@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | A (W)hole lot of Colors | 177479 | [177479-a-w-hole-lot-of-colors.json](./177479-a-w-hole-lot-of-colors.json) |
+| A 1-2-3 | 299784 | [299784-a-1-2-3.json](./299784-a-1-2-3.json) |
 | A 20 Second Platformer | 305727 | [305727-a-20-second-platformer.json](./305727-a-20-second-platformer.json) |
 | A 20-year-old game is being remade with the newest engine RPG Maker Unite and distributed for free?: RPG Maker's heroes vs. the demon king | 334608 | [334608-a-20-year-old-game-is-being-remade-with-the-newest-engine-rpg-maker-unite-and-distributed-for-free-rpg-makers-heroes-vs-the-demon-king.json](./334608-a-20-year-old-game-is-being-remade-with-the-newest-engine-rpg-maker-unite-and-distributed-for-free-rpg-makers-heroes-vs-the-demon-king.json) |
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
 | A Factory Roguelike | 379570 | [379570-a-factory-roguelike.json](./379570-a-factory-roguelike.json) |
 | A Fading Melody | 68650 | [68650-a-fading-melody.json](./68650-a-fading-melody.json) |
+| A Faerie's Tale | 299783 | [299783-a-faeries-tale.json](./299783-a-faeries-tale.json) |
 | A Fairy Tale | 84729 | [84729-a-fairy-tale.json](./84729-a-fairy-tale.json) |
 | A Fairy Tale of Lotus | 142977 | [142977-a-fairy-tale-of-lotus.json](./142977-a-fairy-tale-of-lotus.json) |
 | A False Saint, An Honest Rogue | 56937 | [56937-a-false-saint-an-honest-rogue.json](./56937-a-false-saint-an-honest-rogue.json) |
@@ -668,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
 | A Match Made In Hell | 402863 | [402863-a-match-made-in-hell.json](./402863-a-match-made-in-hell.json) |
+| A Matching Game | 299810 | [299810-a-matching-game.json](./299810-a-matching-game.json) |
 | A Matter of Caos: Episode 1 | 102001 | [102001-a-matter-of-caos-episode-1.json](./102001-a-matter-of-caos-episode-1.json) |
 | A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
 | A Matter of Caos: Episode 3 | 101922 | [101922-a-matter-of-caos-episode-3.json](./101922-a-matter-of-caos-episode-3.json) |
@@ -1605,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction! | 241448 | [241448-abduction.json](./241448-abduction.json) |
 | Abductor | 41192 | [41192-abductor.json](./41192-abductor.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
+| Abel: Shin Mokushiroku Taisen | 299785 | [299785-abel-shin-mokushiroku-taisen.json](./299785-abel-shin-mokushiroku-taisen.json) |
 | Abelana's Atom Maker | 157381 | [157381-abelanas-atom-maker.json](./157381-abelanas-atom-maker.json) |
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
 | Abelina | 377433 | [377433-abelina.json](./377433-abelina.json) |
@@ -3858,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Darkness: Die Suche nach Relict | 118291 | [118291-age-of-darkness-die-suche-nach-relict.json](./118291-age-of-darkness-die-suche-nach-relict.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
 | Age of Defense | 29247 | [29247-age-of-defense.json](./29247-age-of-defense.json) |
+| Age of Defense | 299711 | [299711-age-of-defense.json](./299711-age-of-defense.json) |
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
 | Age of Delirium | 400048 | [400048-age-of-delirium.json](./400048-age-of-delirium.json) |
@@ -4489,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Combat 2015 | 227208 | [227208-air-combat-2015.json](./227208-air-combat-2015.json) |
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
+| Air Combat II Special | 299793 | [299793-air-combat-ii-special.json](./299793-air-combat-ii-special.json) |
 | Air Combat III | 171887 | [171887-air-combat-iii.json](./171887-air-combat-iii.json) |
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
 | Air Combat MF: Echoes of War | 305635 | [305635-air-combat-mf-echoes-of-war.json](./305635-air-combat-mf-echoes-of-war.json) |
@@ -5022,7 +5028,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akihabara Senryoukumi | 82584 | [82584-akihabara-senryoukumi.json](./82584-akihabara-senryoukumi.json) |
 | Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
 | Akiiwan: Survival | 361850 | [361850-akiiwan-survival.json](./361850-akiiwan-survival.json) |
+| Akiko Gold: The Queen of Adult | 299794 | [299794-akiko-gold-the-queen-of-adult.json](./299794-akiko-gold-the-queen-of-adult.json) |
 | Akiko Hard | 300662 | [300662-akiko-hard.json](./300662-akiko-hard.json) |
+| Akiko Premium Version | 299795 | [299795-akiko-premium-version.json](./299795-akiko-premium-version.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
 | Akimbo: Kung-Fu Hero | 1995 | [1995-akimbo-kung-fu-hero.json](./1995-akimbo-kung-fu-hero.json) |
 | Akimbot | 300484 | [300484-akimbot.json](./300484-akimbot.json) |
@@ -5587,6 +5595,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice Must Find the Key to Escape | 91304 | [91304-alice-must-find-the-key-to-escape.json](./91304-alice-must-find-the-key-to-escape.json) |
 | Alice no Hyouhonbako | 394571 | [394571-alice-no-hyouhonbako.json](./394571-alice-no-hyouhonbako.json) |
+| Alice no Yakata | 299797 | [299797-alice-no-yakata.json](./299797-alice-no-yakata.json) |
+| Alice no Yakata 3 | 299796 | [299796-alice-no-yakata-3.json](./299796-alice-no-yakata-3.json) |
+| Alice no Yakata II | 299798 | [299798-alice-no-yakata-ii.json](./299798-alice-no-yakata-ii.json) |
 | Alice on Delivery | 396708 | [396708-alice-on-delivery.json](./396708-alice-on-delivery.json) |
 | Alice Order | 219815 | [219815-alice-order.json](./219815-alice-order.json) |
 | Alice Running Adventures | 235044 | [235044-alice-running-adventures.json](./235044-alice-running-adventures.json) |
@@ -7562,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy Hates Robots | 356303 | [356303-amy-hates-robots.json](./356303-amy-hates-robots.json) |
 | Amy Rose in Sonic the Hedgehog | 129176 | [129176-amy-rose-in-sonic-the-hedgehog.json](./129176-amy-rose-in-sonic-the-hedgehog.json) |
 | Amy Rose in Sonic the Hedgehog 2 | 129177 | [129177-amy-rose-in-sonic-the-hedgehog-2.json](./129177-amy-rose-in-sonic-the-hedgehog-2.json) |
+| Amy to Yobanaide | 299799 | [299799-amy-to-yobanaide.json](./299799-amy-to-yobanaide.json) |
 | Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
 | Amy's Animal Hair Salon | 104426 | [104426-amys-animal-hair-salon.json](./104426-amys-animal-hair-salon.json) |
 | Amy's Fun-2-3 Adventure | 14255 | [14255-amys-fun-2-3-adventure.json](./14255-amys-fun-2-3-adventure.json) |
@@ -8024,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aneurism IV | 297064 | [297064-aneurism-iv.json](./297064-aneurism-iv.json) |
 | Anfractuos | 70291 | [70291-anfractuos.json](./70291-anfractuos.json) |
 | Angel | 292433 | [292433-angel.json](./292433-angel.json) |
+| Angel | 299800 | [299800-angel.json](./299800-angel.json) |
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
 | Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
@@ -8040,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Graffiti S: Anata he no Profile | 253767 | [253767-angel-graffiti-s-anata-he-no-profile.json](./253767-angel-graffiti-s-anata-he-no-profile.json) |
 | Angel Graffiti: Anata he no Profile | 45440 | [45440-angel-graffiti-anata-he-no-profile.json](./45440-angel-graffiti-anata-he-no-profile.json) |
 | Angel Guardian | 312161 | [312161-angel-guardian.json](./312161-angel-guardian.json) |
+| Angel Halo | 299801 | [299801-angel-halo.json](./299801-angel-halo.json) |
 | Angel Hare's Learning Adventure | 277183 | [277183-angel-hares-learning-adventure.json](./277183-angel-hares-learning-adventure.json) |
 | Angel Hearts | 67342 | [67342-angel-hearts.json](./67342-angel-hearts.json) |
 | Angel Hua Yin | 339843 | [339843-angel-hua-yin.json](./339843-angel-hua-yin.json) |
@@ -8981,6 +8995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Seasonal Decorations Pack | 227405 | [227405-anno-1800-seasonal-decorations-pack.json](./227405-anno-1800-seasonal-decorations-pack.json) |
 | Anno 1800: Seat of Power | 151056 | [151056-anno-1800-seat-of-power.json](./151056-anno-1800-seat-of-power.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
+| Anno 1800: Steampunk Pack | 299695 | [299695-anno-1800-steampunk-pack.json](./299695-anno-1800-steampunk-pack.json) |
 | Anno 1800: Sunken Treasures | 150908 | [150908-anno-1800-sunken-treasures.json](./150908-anno-1800-sunken-treasures.json) |
 | Anno 1800: The High Life | 165588 | [165588-anno-1800-the-high-life.json](./165588-anno-1800-the-high-life.json) |
 | Anno 1800: The Passage | 121765 | [121765-anno-1800-the-passage.json](./121765-anno-1800-the-passage.json) |
@@ -10250,6 +10265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
 | Arab Drift Cars 3 | 362967 | [362967-arab-drift-cars-3.json](./362967-arab-drift-cars-3.json) |
 | Arabel | 142140 | [142140-arabel.json](./142140-arabel.json) |
+| Arabesque: Shoujo-tachi no Orinasu Ai no Monogatari | 299802 | [299802-arabesque-shoujo-tachi-no-orinasu-ai-no-monogatari.json](./299802-arabesque-shoujo-tachi-no-orinasu-ai-no-monogatari.json) |
 | Arabian | 13682 | [13682-arabian.json](./13682-arabian.json) |
 | Arabian Fight | 39362 | [39362-arabian-fight.json](./39362-arabian-fight.json) |
 | Arabian Kid | 304245 | [304245-arabian-kid.json](./304245-arabian-kid.json) |
@@ -12116,6 +12132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arpsic | 187176 | [187176-arpsic.json](./187176-arpsic.json) |
 | ARPventure | 349649 | [349649-arpventure.json](./349649-arpventure.json) |
 | Arq Of The Abyss | 379085 | [379085-arq-of-the-abyss.json](./379085-arq-of-the-abyss.json) |
+| Arquelphos | 299803 | [299803-arquelphos.json](./299803-arquelphos.json) |
 | Arran: The Book of Heroes | 172519 | [172519-arran-the-book-of-heroes.json](./172519-arran-the-book-of-heroes.json) |
 | Arranged | 118798 | [118798-arranged.json](./118798-arranged.json) |
 | Arrapha | 136229 | [136229-arrapha.json](./136229-arrapha.json) |
