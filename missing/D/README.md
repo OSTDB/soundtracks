@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Zombie | 64853 | [64853-day-of-the-zombie.json](./64853-day-of-the-zombie.json) |
 | Day of Vaccination | 148904 | [148904-day-of-vaccination.json](./148904-day-of-vaccination.json) |
 | Day Off Simulator | 262799 | [262799-day-off-simulator.json](./262799-day-off-simulator.json) |
+| Day Off: Moonriver Incident | 309920 | [309920-day-off-moonriver-incident.json](./309920-day-off-moonriver-incident.json) |
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
@@ -4718,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defence to death | 28762 | [28762-defence-to-death.json](./28762-defence-to-death.json) |
 | Defence War | 131322 | [131322-defence-war.json](./131322-defence-war.json) |
 | DefenceOrder | 196509 | [196509-defenceorder.json](./196509-defenceorder.json) |
+| Defend 99 | 309935 | [309935-defend-99.json](./309935-defend-99.json) |
 | Defend Against Cats | 388169 | [388169-defend-against-cats.json](./388169-defend-against-cats.json) |
 | Defend Earth: Xenos Survivors | 320738 | [320738-defend-earth-xenos-survivors.json](./320738-defend-earth-xenos-survivors.json) |
 | Defend from Candyland! | 186675 | [186675-defend-from-candyland.json](./186675-defend-from-candyland.json) |
@@ -8213,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinotopia: Game Land Activity Center | 70442 | [70442-dinotopia-game-land-activity-center.json](./70442-dinotopia-game-land-activity-center.json) |
 | Dinotopia: The Sunstone Odyssey | 3879 | [3879-dinotopia-the-sunstone-odyssey.json](./3879-dinotopia-the-sunstone-odyssey.json) |
 | Dinotraz | 408232 | [408232-dinotraz.json](./408232-dinotraz.json) |
+| DinoTribe | 309926 | [309926-dinotribe.json](./309926-dinotribe.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
 | Dinox | 85085 | [85085-dinox.json](./85085-dinox.json) |
