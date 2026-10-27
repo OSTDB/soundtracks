@@ -1729,7 +1729,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors: Abyss - Atelier Series Vacation Costume Set | 379119 | [379119-warriors-abyss-atelier-series-vacation-costume-set.json](./379119-warriors-abyss-atelier-series-vacation-costume-set.json) |
 | Warriors: Abyss - Dynasty Warriors Classic Costume Set | 379118 | [379118-warriors-abyss-dynasty-warriors-classic-costume-set.json](./379118-warriors-abyss-dynasty-warriors-classic-costume-set.json) |
 | Warriors: Abyss - Dynasty Warriors Jin Dynasty Classic Costume Set | 379116 | [379116-warriors-abyss-dynasty-warriors-jin-dynasty-classic-costume-set.json](./379116-warriors-abyss-dynasty-warriors-jin-dynasty-classic-costume-set.json) |
+| Warriors: Abyss - Hack'n'Dash Edition | 331823 | [331823-warriors-abyss-hackndash-edition.json](./331823-warriors-abyss-hackndash-edition.json) |
 | Warriors: Abyss - Hack'n'Dash Legendary Costume Set | 379115 | [379115-warriors-abyss-hackndash-legendary-costume-set.json](./379115-warriors-abyss-hackndash-legendary-costume-set.json) |
+| Warriors: Abyss - Hack'n'Dash Ultimate Edition | 331824 | [331824-warriors-abyss-hackndash-ultimate-edition.json](./331824-warriors-abyss-hackndash-ultimate-edition.json) |
 | Warriors: Abyss - Master Ninja Formal Costume Set | 379114 | [379114-warriors-abyss-master-ninja-formal-costume-set.json](./379114-warriors-abyss-master-ninja-formal-costume-set.json) |
 | Warriors: Abyss - Master Ninja Legacy Costume Set | 379113 | [379113-warriors-abyss-master-ninja-legacy-costume-set.json](./379113-warriors-abyss-master-ninja-legacy-costume-set.json) |
 | Warriors: Abyss - Nobunaga's Ambition Yukimura Sanada Costume Set | 379112 | [379112-warriors-abyss-nobunagas-ambition-yukimura-sanada-costume-set.json](./379112-warriors-abyss-nobunagas-ambition-yukimura-sanada-costume-set.json) |
@@ -2287,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
 | Way of the Hunter: Steyr Arms Pack | 272878 | [272878-way-of-the-hunter-steyr-arms-pack.json](./272878-way-of-the-hunter-steyr-arms-pack.json) |
 | Way of the Hunter: Tikamoon Plains | 258834 | [258834-way-of-the-hunter-tikamoon-plains.json](./258834-way-of-the-hunter-tikamoon-plains.json) |
+| Way of the Hunter: Ultimate Edition | 331825 | [331825-way-of-the-hunter-ultimate-edition.json](./331825-way-of-the-hunter-ultimate-edition.json) |
 | Way of the Hunter: Wild Expeditions | 325658 | [325658-way-of-the-hunter-wild-expeditions.json](./325658-way-of-the-hunter-wild-expeditions.json) |
 | Way of the Knight | 114746 | [114746-way-of-the-knight.json](./114746-way-of-the-knight.json) |
 | Way of the Red | 25963 | [25963-way-of-the-red.json](./25963-way-of-the-red.json) |
@@ -2406,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Sisters | 418704 | [418704-we-are-sisters.json](./418704-we-are-sisters.json) |
 | We Are So Cooked | 388377 | [388377-we-are-so-cooked.json](./388377-we-are-so-cooked.json) |
 | We Are So Cooked | 388939 | [388939-we-are-so-cooked.json](./388939-we-are-so-cooked.json) |
+| We Are Soccer | 331782 | [331782-we-are-soccer.json](./331782-we-are-soccer.json) |
 | We Are Stardust | 299162 | [299162-we-are-stardust.json](./299162-we-are-stardust.json) |
 | We Are Sup | 288469 | [288469-we-are-sup.json](./288469-we-are-sup.json) |
 | We Are Terror: The First Days | 107762 | [107762-we-are-terror-the-first-days.json](./107762-we-are-terror-the-first-days.json) |
@@ -4855,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
 | Windstorm: Start of a Great Friendship | 186557 | [186557-windstorm-start-of-a-great-friendship.json](./186557-windstorm-start-of-a-great-friendship.json) |
 | Windstorm: Start of a Great Friendship - Remastered | 295730 | [295730-windstorm-start-of-a-great-friendship-remastered.json](./295730-windstorm-start-of-a-great-friendship-remastered.json) |
+| Windstorm: Start of a Great Friendship Remastered - Complete Edition | 331827 | [331827-windstorm-start-of-a-great-friendship-remastered-complete-edition.json](./331827-windstorm-start-of-a-great-friendship-remastered-complete-edition.json) |
 | Windsurfers Paradise | 12902 | [12902-windsurfers-paradise.json](./12902-windsurfers-paradise.json) |
 | Windsurfing MMX | 213988 | [213988-windsurfing-mmx.json](./213988-windsurfing-mmx.json) |
 | Windwalker | 14483 | [14483-windwalker.json](./14483-windwalker.json) |
@@ -7919,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K24 Bray Wyatt Bundle | 331508 | [331508-wwe-2k24-bray-wyatt-bundle.json](./331508-wwe-2k24-bray-wyatt-bundle.json) |
 | WWE 2K24 Deluxe Edition | 283601 | [283601-wwe-2k24-deluxe-edition.json](./283601-wwe-2k24-deluxe-edition.json) |
 | WWE 2K24 Forty Years of WrestleMania | 283602 | [283602-wwe-2k24-forty-years-of-wrestlemania.json](./283602-wwe-2k24-forty-years-of-wrestlemania.json) |
+| WWE 2K24: Bray Wyatt Edition | 331828 | [331828-wwe-2k24-bray-wyatt-edition.json](./331828-wwe-2k24-bray-wyatt-edition.json) |
 | WWE 2K24: ECW Punk Pack | 311076 | [311076-wwe-2k24-ecw-punk-pack.json](./311076-wwe-2k24-ecw-punk-pack.json) |
 | WWE 2K24: Global Superstars Pack | 332035 | [332035-wwe-2k24-global-superstars-pack.json](./332035-wwe-2k24-global-superstars-pack.json) |
 | WWE 2K24: MyRISE Mega-Boost | 332034 | [332034-wwe-2k24-myrise-mega-boost.json](./332034-wwe-2k24-myrise-mega-boost.json) |
