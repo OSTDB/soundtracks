@@ -2996,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Starchild | 400374 | [400374-end-of-starchild.json](./400374-end-of-starchild.json) |
 | End of Summer | 210570 | [210570-end-of-summer.json](./210570-end-of-summer.json) |
 | End of Summer | 415852 | [415852-end-of-summer.json](./415852-end-of-summer.json) |
+| End of the Line | 328366 | [328366-end-of-the-line.json](./328366-end-of-the-line.json) |
 | End of the Mine | 33283 | [33283-end-of-the-mine.json](./33283-end-of-the-mine.json) |
 | End of the Road VR | 43125 | [43125-end-of-the-road-vr.json](./43125-end-of-the-road-vr.json) |
 | End of the Skyline | 140499 | [140499-end-of-the-skyline.json](./140499-end-of-the-skyline.json) |
@@ -3321,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ener-G Dance Squad | 47921 | [47921-ener-g-dance-squad.json](./47921-ener-g-dance-squad.json) |
 | Ener-G Gym Rockets | 47912 | [47912-ener-g-gym-rockets.json](./47912-ener-g-gym-rockets.json) |
 | Ener-G: Modern Dance | 201272 | [201272-ener-g-modern-dance.json](./201272-ener-g-modern-dance.json) |
+| Enerdusk | 328196 | [328196-enerdusk.json](./328196-enerdusk.json) |
 | Energetic | 373290 | [373290-energetic.json](./373290-energetic.json) |
 | Energia | 29488 | [29488-energia.json](./29488-energia.json) |
 | Energie-Manager | 94659 | [94659-energie-manager.json](./94659-energie-manager.json) |
