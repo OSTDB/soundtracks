@@ -5477,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2: Caveless Edition | 270726 | [270726-pikmin-2-caveless-edition.json](./270726-pikmin-2-caveless-edition.json) |
 | Pikmin 2: Colossal Caverns | 140840 | [140840-pikmin-2-colossal-caverns.json](./140840-pikmin-2-colossal-caverns.json) |
 | Pikmin 2: New Year | 312294 | [312294-pikmin-2-new-year.json](./312294-pikmin-2-new-year.json) |
+| Pikmin 2: Snowy Tutorial | 314791 | [314791-pikmin-2-snowy-tutorial.json](./314791-pikmin-2-snowy-tutorial.json) |
 | Pikmin 2: Yellow Edition | 375785 | [375785-pikmin-2-yellow-edition.json](./375785-pikmin-2-yellow-edition.json) |
 | Pikmin 2D | 387584 | [387584-pikmin-2d.json](./387584-pikmin-2d.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
@@ -5541,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
 | Pikmin Stone | 375786 | [375786-pikmin-stone.json](./375786-pikmin-stone.json) |
 | Pikmin Treasure Hunt | 342714 | [342714-pikmin-treasure-hunt.json](./342714-pikmin-treasure-hunt.json) |
+| Pikmin Wars | 314794 | [314794-pikmin-wars.json](./314794-pikmin-wars.json) |
 | Pikmin: New Fortune | 314135 | [314135-pikmin-new-fortune.json](./314135-pikmin-new-fortune.json) |
 | Pikmin: Olimar's Descent | 307373 | [307373-pikmin-olimars-descent.json](./307373-pikmin-olimars-descent.json) |
 | Pikmin: Return to PNF-404 | 313353 | [313353-pikmin-return-to-pnf-404.json](./313353-pikmin-return-to-pnf-404.json) |
@@ -7957,6 +7959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Firefighter Simulator 2014 | 88286 | [88286-plant-firefighter-simulator-2014.json](./88286-plant-firefighter-simulator-2014.json) |
 | Plant Gallery: A Short Botanic Experience | 267437 | [267437-plant-gallery-a-short-botanic-experience.json](./267437-plant-gallery-a-short-botanic-experience.json) |
 | Plant Game | 405518 | [405518-plant-game.json](./405518-plant-game.json) |
+| Plant Mall | 314836 | [314836-plant-mall.json](./314836-plant-mall.json) |
 | Plant Nursery Simulator | 332575 | [332575-plant-nursery-simulator.json](./332575-plant-nursery-simulator.json) |
 | Plant Plots | 355578 | [355578-plant-plots.json](./355578-plant-plots.json) |
 | Plant Pong Deluxe | 350001 | [350001-plant-pong-deluxe.json](./350001-plant-pong-deluxe.json) |
@@ -9480,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
 | Pokemon Kanlara Ultimate | 349654 | [349654-pokemon-kanlara-ultimate.json](./349654-pokemon-kanlara-ultimate.json) |
 | Pokémon Kanto Black | 213234 | [213234-pokemon-kanto-black.json](./213234-pokemon-kanto-black.json) |
+| Pokémon Kanto Origins | 314829 | [314829-pokemon-kanto-origins.json](./314829-pokemon-kanto-origins.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
 | Pokémon Keishou | 312313 | [312313-pokemon-keishou.json](./312313-pokemon-keishou.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
@@ -13653,6 +13657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Shadow | 330291 | [330291-project-shadow.json](./330291-project-shadow.json) |
 | Project Shadow 2 | 330966 | [330966-project-shadow-2.json](./330966-project-shadow-2.json) |
 | Project Shadowglass | 370008 | [370008-project-shadowglass.json](./370008-project-shadowglass.json) |
+| Project Shaman | 314843 | [314843-project-shaman.json](./314843-project-shaman.json) |
 | Project Shanto Rancher | 188466 | [188466-project-shanto-rancher.json](./188466-project-shanto-rancher.json) |
 | Project Shield | 29632 | [29632-project-shield.json](./29632-project-shield.json) |
 | Project Shikai | 329733 | [329733-project-shikai.json](./329733-project-shikai.json) |
@@ -14671,6 +14676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Attack! | 298934 | [298934-pumpkin-attack.json](./298934-pumpkin-attack.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Clicker | 341436 | [341436-pumpkin-clicker.json](./341436-pumpkin-clicker.json) |
+| Pumpkin Dash | 314814 | [314814-pumpkin-dash.json](./314814-pumpkin-dash.json) |
 | Pumpkin Days | 115514 | [115514-pumpkin-days.json](./115514-pumpkin-days.json) |
 | Pumpkin Death Garden | 110936 | [110936-pumpkin-death-garden.json](./110936-pumpkin-death-garden.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
