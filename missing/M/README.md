@@ -9879,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Crusaders | 157002 | [157002-military-crusaders.json](./157002-military-crusaders.json) |
 | Military Defense | 326192 | [326192-military-defense.json](./326192-military-defense.json) |
 | Military Enlistment Office Escape Simulator | 233030 | [233030-military-enlistment-office-escape-simulator.json](./233030-military-enlistment-office-escape-simulator.json) |
+| Military Incremental Complex | 330099 | [330099-military-incremental-complex.json](./330099-military-incremental-complex.json) |
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
 | Military Madness | 44334 | [44334-military-madness.json](./44334-military-madness.json) |
 | Military Madness: Nectaris | 20505 | [20505-military-madness-nectaris.json](./20505-military-madness-nectaris.json) |
