@@ -4165,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out, Run | 394678 | [394678-lights-out-run.json](./394678-lights-out-run.json) |
 | Lights Out! | 376190 | [376190-lights-out.json](./376190-lights-out.json) |
 | Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
+| Lights! | 311983 | [311983-lights.json](./311983-lights.json) |
 | Lightsaver | 388384 | [388384-lightsaver.json](./388384-lightsaver.json) |
 | Lightseekers | 76550 | [76550-lightseekers.json](./76550-lightseekers.json) |
 | Lightslayer | 127784 | [127784-lightslayer.json](./127784-lightslayer.json) |
@@ -7248,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Order | 35731 | [35731-love-and-order.json](./35731-love-and-order.json) |
 | Love and Passion | 224506 | [224506-love-and-passion.json](./224506-love-and-passion.json) |
 | Love and Sex: First Base | 383555 | [383555-love-and-sex-first-base.json](./383555-love-and-sex-first-base.json) |
+| Love and Sex: Second Base - For A Fistful Of Waifu | 312049 | [312049-love-and-sex-second-base-for-a-fistful-of-waifu.json](./312049-love-and-sex-second-base-for-a-fistful-of-waifu.json) |
 | Love and War: Act I | 122860 | [122860-love-and-war-act-i.json](./122860-love-and-war-act-i.json) |
 | Love Angel Syndrome | 324884 | [324884-love-angel-syndrome.json](./324884-love-angel-syndrome.json) |
 | Love Anime Boys Club: Language and Date Zodiac Signs | 324196 | [324196-love-anime-boys-club-language-and-date-zodiac-signs.json](./324196-love-anime-boys-club-language-and-date-zodiac-signs.json) |
@@ -7597,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Cat: Dream Party | 247520 | [247520-lovely-cat-dream-party.json](./247520-lovely-cat-dream-party.json) |
 | Lovely Cat: Mermaid Castle | 247521 | [247521-lovely-cat-mermaid-castle.json](./247521-lovely-cat-mermaid-castle.json) |
 | Lovely Crush | 236925 | [236925-lovely-crush.json](./236925-lovely-crush.json) |
+| Lovely Crush | 312053 | [312053-lovely-crush.json](./312053-lovely-crush.json) |
 | Lovely Day | 185379 | [185379-lovely-day.json](./185379-lovely-day.json) |
 | Lovely Deco House | 402426 | [402426-lovely-deco-house.json](./402426-lovely-deco-house.json) |
 | Lovely Defenders | 279554 | [279554-lovely-defenders.json](./279554-lovely-defenders.json) |
