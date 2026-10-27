@@ -11970,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Rin ni Kiitemite! Koi no Rin Fuusui | 65535 | [65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json](./65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json) |
 | Dr. Robotnik in Sonic the Hedgehog | 198517 | [198517-dr-robotnik-in-sonic-the-hedgehog.json](./198517-dr-robotnik-in-sonic-the-hedgehog.json) |
 | Dr. Robotnik Turns Everybody into Frogs | 188087 | [188087-dr-robotnik-turns-everybody-into-frogs.json](./188087-dr-robotnik-turns-everybody-into-frogs.json) |
+| Dr. Robotnik's Badnik Quarrel | 321923 | [321923-dr-robotniks-badnik-quarrel.json](./321923-dr-robotniks-badnik-quarrel.json) |
 | Dr. Robotnik's Mean Bean Machine | 237313 | [237313-dr-robotniks-mean-bean-machine.json](./237313-dr-robotniks-mean-bean-machine.json) |
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | Dr. Robotnik's Ring Racers | 238878 | [238878-dr-robotniks-ring-racers.json](./238878-dr-robotniks-ring-racers.json) |
