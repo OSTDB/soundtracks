@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4d20304f4fec08f6201b693" width="60" /> | [I Am Dead](https://ostdb.net/games/i-am-dead) | **I Am Dead (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2GkaFODWCCn9YTkj4kW9lO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4fe8d7d8d97881894d39ea2" width="60" /> | [Ibb & Obb](https://ostdb.net/games/ibb-and-obb) | **Ibb & Obb (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6dccd9a83fb09e8ec66fd82" width="60" /> | [Icarus](https://ostdb.net/games/icarus) | **Icarus (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3imy5KGZRqOYCPzJUjqlyp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b5ed306b8a6ae152809d161" width="60" /> | [Ico](https://ostdb.net/games/ico) | **ICO -霧の中の旋律- (2021 Remaster)** · [Spotify](https://open.spotify.com/album/4m6LzuC4f5K6vifk2Rpje1)<br>**ICO～霧の中の旋律～** · [Spotify](https://open.spotify.com/album/0aF1ChvyWiOIDwWhg4Qljh) |
