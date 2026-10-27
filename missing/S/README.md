@@ -2812,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoundrel's Dungeon | 399600 | [399600-scoundrels-dungeon.json](./399600-scoundrels-dungeon.json) |
 | Scourge | 408288 | [408288-scourge.json](./408288-scourge.json) |
 | Scourge of Scavengers | 348274 | [348274-scourge-of-scavengers.json](./348274-scourge-of-scavengers.json) |
+| Scourge of the Reptiles | 325373 | [325373-scourge-of-the-reptiles.json](./325373-scourge-of-the-reptiles.json) |
 | Scourge of the Village | 277947 | [277947-scourge-of-the-village.json](./277947-scourge-of-the-village.json) |
 | Scourge of Viscerus | 261182 | [261182-scourge-of-viscerus.json](./261182-scourge-of-viscerus.json) |
 | Scourge of War: Gettysburg | 77312 | [77312-scourge-of-war-gettysburg.json](./77312-scourge-of-war-gettysburg.json) |
@@ -11776,6 +11777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slugterra: Slug it Out! | 60757 | [60757-slugterra-slug-it-out.json](./60757-slugterra-slug-it-out.json) |
 | Slugterra: Slug Life | 188286 | [188286-slugterra-slug-life.json](./188286-slugterra-slug-life.json) |
 | Slugtrip | 347796 | [347796-slugtrip.json](./347796-slugtrip.json) |
+| Slum Guide | 325405 | [325405-slum-guide.json](./325405-slum-guide.json) |
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
 | Slumber | 394397 | [394397-slumber.json](./394397-slumber.json) |
 | Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
@@ -12461,6 +12463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake II | 10141 | [10141-snake-ii.json](./10141-snake-ii.json) |
 | Snake III | 133870 | [133870-snake-iii.json](./133870-snake-iii.json) |
 | Snake in the Cube | 158070 | [158070-snake-in-the-cube.json](./158070-snake-in-the-cube.json) |
+| Snake in the Dark | 325381 | [325381-snake-in-the-dark.json](./325381-snake-in-the-dark.json) |
 | Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
 | Snake It | 94325 | [94325-snake-it.json](./94325-snake-it.json) |
 | Snake It 'Til You Make It | 153833 | [153833-snake-it-til-you-make-it.json](./153833-snake-it-til-you-make-it.json) |
@@ -12524,6 +12527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakelike | 113874 | [113874-snakelike.json](./113874-snakelike.json) |
 | SnakeLike | 374231 | [374231-snakelike.json](./374231-snakelike.json) |
 | SnakeLogic | 104674 | [104674-snakelogic.json](./104674-snakelogic.json) |
+| Snakeloop | 325368 | [325368-snakeloop.json](./325368-snakeloop.json) |
 | Snakenoid | 84875 | [84875-snakenoid.json](./84875-snakenoid.json) |
 | Snakenoid Deluxe | 84874 | [84874-snakenoid-deluxe.json](./84874-snakenoid-deluxe.json) |
 | Snakenpon | 164065 | [164065-snakenpon.json](./164065-snakenpon.json) |
@@ -14632,6 +14636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frontiers x Monster Hunter Pack | 255233 | [255233-sonic-frontiers-x-monster-hunter-pack.json](./255233-sonic-frontiers-x-monster-hunter-pack.json) |
 | Sonic Frontiers: Digital Deluxe Edition | 214559 | [214559-sonic-frontiers-digital-deluxe-edition.json](./214559-sonic-frontiers-digital-deluxe-edition.json) |
 | Sonic Frontiers: Holiday Cheer Suit | 352840 | [352840-sonic-frontiers-holiday-cheer-suit.json](./352840-sonic-frontiers-holiday-cheer-suit.json) |
+| Sonic Frontiers: Sonic Adventure 2 Shoes | 325364 | [325364-sonic-frontiers-sonic-adventure-2-shoes.json](./325364-sonic-frontiers-sonic-adventure-2-shoes.json) |
 | Sonic Frontiers: Sonic’s Birthday Bash | 254487 | [254487-sonic-frontiers-sonic-s-birthday-bash.json](./254487-sonic-frontiers-sonic-s-birthday-bash.json) |
 | Sonic Frost | 316970 | [316970-sonic-frost.json](./316970-sonic-frost.json) |
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
@@ -15935,6 +15940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South of Midnight: Weaver's Edition | 394391 | [394391-south-of-midnight-weavers-edition.json](./394391-south-of-midnight-weavers-edition.json) |
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South of Real: Rough Beast | 124671 | [124671-south-of-real-rough-beast.json](./124671-south-of-real-rough-beast.json) |
+| South of the Circle: Deluxe Edition | 325387 | [325387-south-of-the-circle-deluxe-edition.json](./325387-south-of-the-circle-deluxe-edition.json) |
 | South Pacific Quest | 69529 | [69529-south-pacific-quest.json](./69529-south-pacific-quest.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park : The Stick of Truth + The Fractured but Whole Bundle | 164783 | [164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json](./164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json) |
@@ -17421,6 +17427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spec Ops: Ranger Team Bravo | 9341 | [9341-spec-ops-ranger-team-bravo.json](./9341-spec-ops-ranger-team-bravo.json) |
 | Spec Ops: Rangers Lead the Way | 9340 | [9340-spec-ops-rangers-lead-the-way.json](./9340-spec-ops-rangers-lead-the-way.json) |
 | Spec Ops: Stealth Patrol | 9343 | [9343-spec-ops-stealth-patrol.json](./9343-spec-ops-stealth-patrol.json) |
+| Spec Ops: War on Terrorism | 325389 | [325389-spec-ops-war-on-terrorism.json](./325389-spec-ops-war-on-terrorism.json) |
 | Spec: Kan | 222478 | [222478-spec-kan.json](./222478-spec-kan.json) |
 | Special Agent CyberDuck | 199983 | [199983-special-agent-cyberduck.json](./199983-special-agent-cyberduck.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
@@ -21545,6 +21552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
 | StarSim | 238094 | [238094-starsim.json](./238094-starsim.json) |
+| StarSim: BattleZone | 325356 | [325356-starsim-battlezone.json](./325356-starsim-battlezone.json) |
 | Starsky & Hutch | 243809 | [243809-starsky-and-hutch.json](./243809-starsky-and-hutch.json) |
 | Starslave | 308523 | [308523-starslave.json](./308523-starslave.json) |
 | StarSmashers | 32140 | [32140-starsmashers.json](./32140-starsmashers.json) |
@@ -27380,6 +27388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pixel World | 149829 | [149829-super-pixel-world.json](./149829-super-pixel-world.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
+| Super Platform Tag | 325371 | [325371-super-platform-tag.json](./325371-super-platform-tag.json) |
 | Super Platformer | 182745 | [182745-super-platformer.json](./182745-super-platformer.json) |
 | Super Play Action Football | 42454 | [42454-super-play-action-football.json](./42454-super-play-action-football.json) |
 | Super Plexis | 56346 | [56346-super-plexis.json](./56346-super-plexis.json) |
