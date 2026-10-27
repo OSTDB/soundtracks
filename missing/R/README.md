@@ -4550,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Frenzy | 53501 | [53501-rescue-frenzy.json](./53501-rescue-frenzy.json) |
 | Rescue Friends Solitaire | 156544 | [156544-rescue-friends-solitaire.json](./156544-rescue-friends-solitaire.json) |
 | Rescue from Atlantis | 71751 | [71751-rescue-from-atlantis.json](./71751-rescue-from-atlantis.json) |
+| Rescue Girl Operation: Code X | 330488 | [330488-rescue-girl-operation-code-x.json](./330488-rescue-girl-operation-code-x.json) |
 | Rescue Guys: Firefighters Simulator | 407347 | [407347-rescue-guys-firefighters-simulator.json](./407347-rescue-guys-firefighters-simulator.json) |
 | Rescue Heli | 349794 | [349794-rescue-heli.json](./349794-rescue-heli.json) |
 | Rescue Heli RH407 | 345006 | [345006-rescue-heli-rh407.json](./345006-rescue-heli-rh407.json) |
@@ -4888,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resta um | 230716 | [230716-resta-um.json](./230716-resta-um.json) |
 | Restart | 240774 | [240774-restart.json](./240774-restart.json) |
 | Restart Heart | 341858 | [341858-restart-heart.json](./341858-restart-heart.json) |
+| Restart ShuHan Dynasty: Origin | 330663 | [330663-restart-shuhan-dynasty-origin.json](./330663-restart-shuhan-dynasty-origin.json) |
 | Restart Your Life Adventures of Tylenol | 207668 | [207668-restart-your-life-adventures-of-tylenol.json](./207668-restart-your-life-adventures-of-tylenol.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant at the End of Time | 257880 | [257880-restaurant-at-the-end-of-time.json](./257880-restaurant-at-the-end-of-time.json) |
