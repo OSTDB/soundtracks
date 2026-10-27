@@ -21167,6 +21167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Origin Collection | 53803 | [53803-tom-clancys-origin-collection.json](./53803-tom-clancys-origin-collection.json) |
 | Tom Clancy's Rainbow Six | 1842 | [1842-tom-clancys-rainbow-six.json](./1842-tom-clancys-rainbow-six.json) |
 | Tom Clancy's Rainbow Six | 249139 | [249139-tom-clancys-rainbow-six.json](./249139-tom-clancys-rainbow-six.json) |
+| Tom Clancy's Rainbow Six 3 | 305802 | [305802-tom-clancys-rainbow-six-3.json](./305802-tom-clancys-rainbow-six-3.json) |
 | Tom Clancy's Rainbow Six 3 | 9891 | [9891-tom-clancys-rainbow-six-3.json](./9891-tom-clancys-rainbow-six-3.json) |
 | Tom Clancy's Rainbow Six 3: Athena Sword | 1848 | [1848-tom-clancys-rainbow-six-3-athena-sword.json](./1848-tom-clancys-rainbow-six-3-athena-sword.json) |
 | Tom Clancy's Rainbow Six 3: Black Arrow | 47321 | [47321-tom-clancys-rainbow-six-3-black-arrow.json](./47321-tom-clancys-rainbow-six-3-black-arrow.json) |
