@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capers vs Pirates | 336680 | [336680-capers-vs-pirates.json](./336680-capers-vs-pirates.json) |
 | Capes | 217376 | [217376-capes.json](./217376-capes.json) |
 | Capes: King City Edition | 303287 | [303287-capes-king-city-edition.json](./303287-capes-king-city-edition.json) |
+| Capes: Skin Pack | 310473 | [310473-capes-skin-pack.json](./310473-capes-skin-pack.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | Capgras | 138023 | [138023-capgras.json](./138023-capgras.json) |
 | Caphaclus Recommence | 207369 | [207369-caphaclus-recommence.json](./207369-caphaclus-recommence.json) |
@@ -10140,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
 | Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
+| Color Water Sort: Relax Edition | 310434 | [310434-color-water-sort-relax-edition.json](./310434-color-water-sort-relax-edition.json) |
 | Color Water Sort: Time Attack Edition | 320694 | [320694-color-water-sort-time-attack-edition.json](./320694-color-water-sort-time-attack-edition.json) |
 | Color X Memory | 368682 | [368682-color-x-memory.json](./368682-color-x-memory.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
@@ -10218,6 +10220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book for Kids: Full Version | 162615 | [162615-coloring-book-for-kids-full-version.json](./162615-coloring-book-for-kids-full-version.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
 | Coloring Book Series: Aquarium | 283280 | [283280-coloring-book-series-aquarium.json](./283280-coloring-book-series-aquarium.json) |
+| Coloring Book Series: Dinosaur Museum | 310464 | [310464-coloring-book-series-dinosaur-museum.json](./310464-coloring-book-series-dinosaur-museum.json) |
 | Coloring Book: Adventure Bundle - 90 Drawings | 362377 | [362377-coloring-book-adventure-bundle-90-drawings.json](./362377-coloring-book-adventure-bundle-90-drawings.json) |
 | Coloring Book: Animals Edition - 90 drawings | 397873 | [397873-coloring-book-animals-edition-90-drawings.json](./397873-coloring-book-animals-edition-90-drawings.json) |
 | Coloring Book: Bundle For Kids - 140 drawings | 284510 | [284510-coloring-book-bundle-for-kids-140-drawings.json](./284510-coloring-book-bundle-for-kids-140-drawings.json) |
@@ -10384,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorize | 380079 | [380079-colorize.json](./380079-colorize.json) |
 | Colorize ASMR | 303051 | [303051-colorize-asmr.json](./303051-colorize-asmr.json) |
 | Colorize Inspect | 150425 | [150425-colorize-inspect.json](./150425-colorize-inspect.json) |
+| Colorizing | 310463 | [310463-colorizing.json](./310463-colorizing.json) |
 | Colorizing: Collection 1 | 368770 | [368770-colorizing-collection-1.json](./368770-colorizing-collection-1.json) |
 | Colorizing: Cozy Days | 362199 | [362199-colorizing-cozy-days.json](./362199-colorizing-cozy-days.json) |
 | Colorizing: Daydream | 371420 | [371420-colorizing-daydream.json](./371420-colorizing-daydream.json) |
@@ -11997,6 +12001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena Culinary Legends | 385177 | [385177-cooking-arena-culinary-legends.json](./385177-cooking-arena-culinary-legends.json) |
 | Cooking Arena Doner Delight | 317896 | [317896-cooking-arena-doner-delight.json](./317896-cooking-arena-doner-delight.json) |
 | Cooking Arena Pancake Paradise | 316198 | [316198-cooking-arena-pancake-paradise.json](./316198-cooking-arena-pancake-paradise.json) |
+| Cooking Arena Pastry Chef | 310462 | [310462-cooking-arena-pastry-chef.json](./310462-cooking-arena-pastry-chef.json) |
 | Cooking Arena Ultimate Feast | 381808 | [381808-cooking-arena-ultimate-feast.json](./381808-cooking-arena-ultimate-feast.json) |
 | Cooking Arena World Tour Edition | 385196 | [385196-cooking-arena-world-tour-edition.json](./385196-cooking-arena-world-tour-edition.json) |
 | Cooking Arena: 10 in 1 Edition | 295678 | [295678-cooking-arena-10-in-1-edition.json](./295678-cooking-arena-10-in-1-edition.json) |
@@ -16371,6 +16376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Heretic Pack | 246922 | [246922-cult-of-the-lamb-heretic-pack.json](./246922-cult-of-the-lamb-heretic-pack.json) |
 | Cult of the Lamb: Pilgrim Pack | 312627 | [312627-cult-of-the-lamb-pilgrim-pack.json](./312627-cult-of-the-lamb-pilgrim-pack.json) |
 | Cult of the Lamb: Relics of the Old Faith | 246406 | [246406-cult-of-the-lamb-relics-of-the-old-faith.json](./246406-cult-of-the-lamb-relics-of-the-old-faith.json) |
+| Cult of the Lamb: Sinful Edition | 310433 | [310433-cult-of-the-lamb-sinful-edition.json](./310433-cult-of-the-lamb-sinful-edition.json) |
 | Cult of the Lamb: The One Who Waits | 408806 | [408806-cult-of-the-lamb-the-one-who-waits.json](./408806-cult-of-the-lamb-the-one-who-waits.json) |
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
@@ -16447,6 +16453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup Heroes: Diamond Hoard Bundle | 385161 | [385161-cup-heroes-diamond-hoard-bundle.json](./385161-cup-heroes-diamond-hoard-bundle.json) |
 | Cup Heroes: Diamond Satchel Bundle | 410855 | [410855-cup-heroes-diamond-satchel-bundle.json](./410855-cup-heroes-diamond-satchel-bundle.json) |
 | Cup Heroes: Handful Bundle | 386564 | [386564-cup-heroes-handful-bundle.json](./386564-cup-heroes-handful-bundle.json) |
+| Cup Killer: Sandbox Game | 310461 | [310461-cup-killer-sandbox-game.json](./310461-cup-killer-sandbox-game.json) |
 | Cup Manager | 93170 | [93170-cup-manager.json](./93170-cup-manager.json) |
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
@@ -16820,6 +16827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2: It's a Night Magic Spring Full Swing All In Pack | 298113 | [298113-custom-order-maid-3d2-its-a-night-magic-spring-full-swing-all-in-pack.json](./298113-custom-order-maid-3d2-its-a-night-magic-spring-full-swing-all-in-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic Step in Summer All in One Pack | 311720 | [311720-custom-order-maid-3d2-its-a-night-magic-step-in-summer-all-in-one-pack.json](./311720-custom-order-maid-3d2-its-a-night-magic-step-in-summer-all-in-one-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic the Arrival of Spring All In Pack | 298043 | [298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json](./298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json) |
+| Custom Order Maid 3D2: It's a Night Magic the Change of Seasons All in One Pack | 310479 | [310479-custom-order-maid-3d2-its-a-night-magic-the-change-of-seasons-all-in-one-pack.json](./310479-custom-order-maid-3d2-its-a-night-magic-the-change-of-seasons-all-in-one-pack.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01 | 296663 | [296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json](./296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01fb | 296662 | [296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json](./296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-02 | 296661 | [296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json](./296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json) |
