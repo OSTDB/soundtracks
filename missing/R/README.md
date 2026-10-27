@@ -9298,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
 | Roof Leak Hero | 385250 | [385250-roof-leak-hero.json](./385250-roof-leak-hero.json) |
 | Roof Rage | 77775 | [77775-roof-rage.json](./77775-roof-rage.json) |
+| Roof Rails | 288249 | [288249-roof-rails.json](./288249-roof-rails.json) |
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
 | Roofgrown Life | 348690 | [348690-roofgrown-life.json](./348690-roofgrown-life.json) |
