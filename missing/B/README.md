@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjax | 15660 | [15660-banjax.json](./15660-banjax.json) |
 | Banjo X | 194643 | [194643-banjo-x.json](./194643-banjo-x.json) |
 | Banjo-Kazooie & The Quest for Cake | 294713 | [294713-banjo-kazooie-and-the-quest-for-cake.json](./294713-banjo-kazooie-and-the-quest-for-cake.json) |
+| Banjo-Kazooie 4: Quest for Kurkoins | 313060 | [313060-banjo-kazooie-4-quest-for-kurkoins.json](./313060-banjo-kazooie-4-quest-for-kurkoins.json) |
 | Banjo-Kazooie and the NightBear Before Christmas | 165155 | [165155-banjo-kazooie-and-the-nightbear-before-christmas.json](./165155-banjo-kazooie-and-the-nightbear-before-christmas.json) |
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
 | Banjo-Kazooie Online | 206127 | [206127-banjo-kazooie-online.json](./206127-banjo-kazooie-online.json) |
@@ -1835,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Nostalgia 64 | 154990 | [154990-banjo-kazooie-nostalgia-64.json](./154990-banjo-kazooie-nostalgia-64.json) |
 | Banjo-Kazooie: Nuts & Bolts - L.O.G.'s Lost Challenges | 229855 | [229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json](./229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json) |
 | Banjo-Kazooie: Stay at Home | 147221 | [147221-banjo-kazooie-stay-at-home.json](./147221-banjo-kazooie-stay-at-home.json) |
+| Banjo-Kazooie: The Corrupted Jiggys | 313063 | [313063-banjo-kazooie-the-corrupted-jiggys.json](./313063-banjo-kazooie-the-corrupted-jiggys.json) |
 | Banjo-Kazooie: The Hidden Lair | 234122 | [234122-banjo-kazooie-the-hidden-lair.json](./234122-banjo-kazooie-the-hidden-lair.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
@@ -10690,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
 | Bomb! Bomb! Carnival!! | 187155 | [187155-bomb-bomb-carnival.json](./187155-bomb-bomb-carnival.json) |
 | Bomb! Tank | 199902 | [199902-bomb-tank.json](./199902-bomb-tank.json) |
+| Bomba | 313057 | [313057-bomba.json](./313057-bomba.json) |
 | Bomba Patch | 126442 | [126442-bomba-patch.json](./126442-bomba-patch.json) |
 | Bomba: The Explosive Hero | 213956 | [213956-bomba-the-explosive-hero.json](./213956-bomba-the-explosive-hero.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
@@ -12007,9 +12010,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser Jr: A New Beginning | 323678 | [323678-bowser-jr-a-new-beginning.json](./323678-bowser-jr-a-new-beginning.json) |
 | Bowser Jr.'s Journey | 266895 | [266895-bowser-jr-s-journey.json](./266895-bowser-jr-s-journey.json) |
 | Bowser's Dank Rave 2017 Edition: Extra Long Name That I Don't Feel Like Typing | 313330 | [313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json](./313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json) |
+| Bowser's Dank Rave Infinite: Mario and Bowser Stop the Illuminati To Rave 5Ever | 313090 | [313090-bowsers-dank-rave-infinite-mario-and-bowser-stop-the-illuminati-to-rave-5ever.json](./313090-bowsers-dank-rave-infinite-mario-and-bowser-stop-the-illuminati-to-rave-5ever.json) |
 | Bowser's Dark Story | 155012 | [155012-bowsers-dark-story.json](./155012-bowsers-dark-story.json) |
 | Bowser's Diary: Take the Quiz! | 328602 | [328602-bowsers-diary-take-the-quiz.json](./328602-bowsers-diary-take-the-quiz.json) |
 | Bowser's Fury | 142909 | [142909-bowsers-fury.json](./142909-bowsers-fury.json) |
+| Bowser's Fury Online | 313081 | [313081-bowsers-fury-online.json](./313081-bowsers-fury-online.json) |
 | Bowser's Jumping Challenge | 215200 | [215200-bowsers-jumping-challenge.json](./215200-bowsers-jumping-challenge.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
 | Bowser's Last Stand | 321813 | [321813-bowsers-last-stand.json](./321813-bowsers-last-stand.json) |
@@ -14986,6 +14991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Buoyancy | 115347 | [115347-buoyancy.json](./115347-buoyancy.json) |
 | Buoyant | 120608 | [120608-buoyant.json](./120608-buoyant.json) |
+| Bupcraft Mod | 313086 | [313086-bupcraft-mod.json](./313086-bupcraft-mod.json) |
 | Bura: The Way the Wind Blows | 217361 | [217361-bura-the-way-the-wind-blows.json](./217361-bura-the-way-the-wind-blows.json) |
 | Buraco | 364435 | [364435-buraco.json](./364435-buraco.json) |
 | Burai Fighter | 2382 | [2382-burai-fighter.json](./2382-burai-fighter.json) |
