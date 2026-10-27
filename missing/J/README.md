@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World: Rabbits | 286237 | [286237-jigsaw-puzzle-world-rabbits.json](./286237-jigsaw-puzzle-world-rabbits.json) |
 | Jigsaw Puzzle World: Reptiles | 247649 | [247649-jigsaw-puzzle-world-reptiles.json](./247649-jigsaw-puzzle-world-reptiles.json) |
 | Jigsaw Puzzle World: Reptiles 2 | 247640 | [247640-jigsaw-puzzle-world-reptiles-2.json](./247640-jigsaw-puzzle-world-reptiles-2.json) |
+| Jigsaw Puzzle World: Rooms | 293607 | [293607-jigsaw-puzzle-world-rooms.json](./293607-jigsaw-puzzle-world-rooms.json) |
 | Jigsaw Puzzle World: Scandinavia | 357899 | [357899-jigsaw-puzzle-world-scandinavia.json](./357899-jigsaw-puzzle-world-scandinavia.json) |
 | Jigsaw Puzzle World: Sharks | 357898 | [357898-jigsaw-puzzle-world-sharks.json](./357898-jigsaw-puzzle-world-sharks.json) |
 | Jigsaw Puzzle World: South Korea | 293069 | [293069-jigsaw-puzzle-world-south-korea.json](./293069-jigsaw-puzzle-world-south-korea.json) |
