@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids VS | 50586 | [50586-zoids-vs.json](./50586-zoids-vs.json) |
 | Zoids VS II | 50585 | [50585-zoids-vs-ii.json](./50585-zoids-vs-ii.json) |
 | Zoids VS III | 50576 | [50576-zoids-vs-iii.json](./50576-zoids-vs-iii.json) |
+| Zoids Wild Arena | 300644 | [300644-zoids-wild-arena.json](./300644-zoids-wild-arena.json) |
 | Zoids Wild: Infinity Blast | 146832 | [146832-zoids-wild-infinity-blast.json](./146832-zoids-wild-infinity-blast.json) |
 | Zoids: Battle Legends | 10629 | [10629-zoids-battle-legends.json](./10629-zoids-battle-legends.json) |
 | Zoids: Chuuou Tairiku no Tatakai | 64655 | [64655-zoids-chuuou-tairiku-no-tatakai.json](./64655-zoids-chuuou-tairiku-no-tatakai.json) |
