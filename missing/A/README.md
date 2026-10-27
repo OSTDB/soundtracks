@@ -7655,6 +7655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy City 1: Atomic Version | 272002 | [272002-anarchy-city-1-atomic-version.json](./272002-anarchy-city-1-atomic-version.json) |
 | Anarchy City 2: Neighbourhood Nightmare | 272003 | [272003-anarchy-city-2-neighbourhood-nightmare.json](./272003-anarchy-city-2-neighbourhood-nightmare.json) |
 | Anarchy City 3: Zero Tolerance | 272004 | [272004-anarchy-city-3-zero-tolerance.json](./272004-anarchy-city-3-zero-tolerance.json) |
+| Anarchy Hops | 319046 | [319046-anarchy-hops.json](./319046-anarchy-hops.json) |
 | Anarchy Legends: Online | 170385 | [170385-anarchy-legends-online.json](./170385-anarchy-legends-online.json) |
 | Anarchy Online | 1996 | [1996-anarchy-online.json](./1996-anarchy-online.json) |
 | Anarchy Online: Access Level 200 Heckler Juices | 27579 | [27579-anarchy-online-access-level-200-heckler-juices.json](./27579-anarchy-online-access-level-200-heckler-juices.json) |
@@ -9286,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antenna Dilemma: Prologue | 115343 | [115343-antenna-dilemma-prologue.json](./115343-antenna-dilemma-prologue.json) |
 | Antepenult | 356851 | [356851-antepenult.json](./356851-antepenult.json) |
 | Antero Sudoku | 359363 | [359363-antero-sudoku.json](./359363-antero-sudoku.json) |
+| Anterris | 318960 | [318960-anterris.json](./318960-anterris.json) |
 | Antes todo esto era campo | 417976 | [417976-antes-todo-esto-era-campo.json](./417976-antes-todo-esto-era-campo.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
