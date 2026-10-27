@@ -3551,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadside: Supporter Pack | 338016 | [338016-deadside-supporter-pack.json](./338016-deadside-supporter-pack.json) |
 | Deadsiege | 110557 | [110557-deadsiege.json](./110557-deadsiege.json) |
 | Deadsigns | 149043 | [149043-deadsigns.json](./149043-deadsigns.json) |
+| Deadstar: The Game | 328344 | [328344-deadstar-the-game.json](./328344-deadstar-the-game.json) |
 | Deadstate Heroes | 424642 | [424642-deadstate-heroes.json](./424642-deadstate-heroes.json) |
 | Deadstone | 17916 | [17916-deadstone.json](./17916-deadstone.json) |
 | Deadstorm Pirates | 39788 | [39788-deadstorm-pirates.json](./39788-deadstorm-pirates.json) |
@@ -4103,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
 | Deca Sports Freedom | 2661 | [2661-deca-sports-freedom.json](./2661-deca-sports-freedom.json) |
+| Decade | 328368 | [328368-decade.json](./328368-decade.json) |
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadence | 346640 | [346640-decadence.json](./346640-decadence.json) |
 | Decadence: A Tarnished World | 311357 | [311357-decadence-a-tarnished-world.json](./311357-decadence-a-tarnished-world.json) |
@@ -5137,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Force: Black Hawk Down - Team Sabre | 9351 | [9351-delta-force-black-hawk-down-team-sabre.json](./9351-delta-force-black-hawk-down-team-sabre.json) |
 | Delta Force: Black Hawk Down Platinum Pack | 224486 | [224486-delta-force-black-hawk-down-platinum-pack.json](./224486-delta-force-black-hawk-down-platinum-pack.json) |
 | Delta Force: Land Warrior | 9350 | [9350-delta-force-land-warrior.json](./9350-delta-force-land-warrior.json) |
+| Delta Force: Season 1 - Genesis | 328381 | [328381-delta-force-season-1-genesis.json](./328381-delta-force-season-1-genesis.json) |
 | Delta Force: Task Force Dagger | 9348 | [9348-delta-force-task-force-dagger.json](./9348-delta-force-task-force-dagger.json) |
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
 | Delta Force: Xtreme 2 | 9352 | [9352-delta-force-xtreme-2.json](./9352-delta-force-xtreme-2.json) |
@@ -9240,6 +9243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | División Especial de Detectives! | 159011 | [159011-division-especial-de-detectives.json](./159011-division-especial-de-detectives.json) |
 | Division of Labour | 216651 | [216651-division-of-labour.json](./216651-division-of-labour.json) |
 | Divnozemye | 290858 | [290858-divnozemye.json](./290858-divnozemye.json) |
+| Divorce Chatroom | 328348 | [328348-divorce-chatroom.json](./328348-divorce-chatroom.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
 | Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
@@ -12472,6 +12476,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fantasy: The Volumes of Westeria | 17931 | [17931-dragon-fantasy-the-volumes-of-westeria.json](./17931-dragon-fantasy-the-volumes-of-westeria.json) |
 | Dragon Fight VR | 133389 | [133389-dragon-fight-vr.json](./133389-dragon-fight-vr.json) |
 | Dragon Fighter | 144672 | [144672-dragon-fighter.json](./144672-dragon-fighter.json) |
+| Dragon Fighter | 328351 | [328351-dragon-fighter.json](./328351-dragon-fighter.json) |
+| Dragon Fighter II | 328353 | [328353-dragon-fighter-ii.json](./328353-dragon-fighter-ii.json) |
+| Dragon Fighter III | 328378 | [328378-dragon-fighter-iii.json](./328378-dragon-fighter-iii.json) |
 | Dragon Fin Soup | 17377 | [17377-dragon-fin-soup.json](./17377-dragon-fin-soup.json) |
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
 | Dragon Fire | 24844 | [24844-dragon-fire.json](./24844-dragon-fire.json) |
