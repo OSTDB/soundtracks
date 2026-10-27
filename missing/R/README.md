@@ -2833,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rearmed Trials | 231994 | [231994-rearmed-trials.json](./231994-rearmed-trials.json) |
 | Rearranged | 382275 | [382275-rearranged.json](./382275-rearranged.json) |
 | Rearview Mirror | 283609 | [283609-rearview-mirror.json](./283609-rearview-mirror.json) |
+| Reason Unfound | 292477 | [292477-reason-unfound.json](./292477-reason-unfound.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reasonable Claustrophobia | 182922 | [182922-reasonable-claustrophobia.json](./182922-reasonable-claustrophobia.json) |
 | Reasoning of Courage Nori 3 Balanced Diet | 251680 | [251680-reasoning-of-courage-nori-3-balanced-diet.json](./251680-reasoning-of-courage-nori-3-balanced-diet.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Report: Stas | 322814 | [322814-report-stas.json](./322814-report-stas.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
 | Reporter 2 | 123393 | [123393-reporter-2.json](./123393-reporter-2.json) |
+| Reports from Vera Cruz | 292508 | [292508-reports-from-vera-cruz.json](./292508-reports-from-vera-cruz.json) |
 | Repose | 272831 | [272831-repose.json](./272831-repose.json) |
 | Repose: Deluxe Edition | 380148 | [380148-repose-deluxe-edition.json](./380148-repose-deluxe-edition.json) |
 | Reposition Defense | 348685 | [348685-reposition-defense.json](./348685-reposition-defense.json) |
@@ -5824,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
 | Rhodes | 229023 | [229023-rhodes.json](./229023-rhodes.json) |
+| Rhodesia '72 | 292500 | [292500-rhodesia-72.json](./292500-rhodesia-72.json) |
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
 | Rhombus | 370894 | [370894-rhombus.json](./370894-rhombus.json) |
 | Rhyme Land | 306035 | [306035-rhyme-land.json](./306035-rhyme-land.json) |
@@ -6841,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising of the Moon | 186511 | [186511-rising-of-the-moon.json](./186511-rising-of-the-moon.json) |
 | Rising Robots | 90502 | [90502-rising-robots.json](./90502-rising-robots.json) |
 | Rising Runner | 32729 | [32729-rising-runner.json](./32729-rising-runner.json) |
+| Rising Sands | 292572 | [292572-rising-sands.json](./292572-rising-sands.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
 | Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
 | Rising Spirit | 402350 | [402350-rising-spirit.json](./402350-rising-spirit.json) |
@@ -8980,6 +8984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Car | 156215 | [156215-rolling-car.json](./156215-rolling-car.json) |
 | Rolling Car | 198069 | [198069-rolling-car.json](./198069-rolling-car.json) |
 | Rolling Car: Deluxe Edition | 204300 | [204300-rolling-car-deluxe-edition.json](./204300-rolling-car-deluxe-edition.json) |
+| Rolling Combine | 292573 | [292573-rolling-combine.json](./292573-rolling-combine.json) |
 | Rolling Crash | 277500 | [277500-rolling-crash.json](./277500-rolling-crash.json) |
 | Rolling Cube | 148691 | [148691-rolling-cube.json](./148691-rolling-cube.json) |
 | Rolling Cube | 246364 | [246364-rolling-cube.json](./246364-rolling-cube.json) |
@@ -9043,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollovski | 202151 | [202151-rollovski.json](./202151-rollovski.json) |
 | Rolls and Girls | 367027 | [367027-rolls-and-girls.json](./367027-rolls-and-girls.json) |
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
+| RollTale | 292483 | [292483-rolltale.json](./292483-rolltale.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Rolly Dango | 306042 | [306042-rolly-dango.json](./306042-rolly-dango.json) |
