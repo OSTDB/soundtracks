@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkbolt | 132712 | [132712-darkbolt.json](./132712-darkbolt.json) |
 | Darkborn | 25560 | [25560-darkborn.json](./25560-darkborn.json) |
 | Darkbound | 325333 | [325333-darkbound.json](./325333-darkbound.json) |
+| Darkcean | 284188 | [284188-darkcean.json](./284188-darkcean.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | DarkCoating | 163397 | [163397-darkcoating.json](./163397-darkcoating.json) |
 | Darkdire | 112954 | [112954-darkdire.json](./112954-darkdire.json) |
@@ -7267,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Battle: 3d Board Game | 348395 | [348395-dice-battle-3d-board-game.json](./348395-dice-battle-3d-board-game.json) |
 | Dice Birth Road | 290475 | [290475-dice-birth-road.json](./290475-dice-birth-road.json) |
 | Dice Blaze | 288836 | [288836-dice-blaze.json](./288836-dice-blaze.json) |
+| Dice Block | 284170 | [284170-dice-block.json](./284170-dice-block.json) |
 | Dice Brawl: Captain's League | 108960 | [108960-dice-brawl-captains-league.json](./108960-dice-brawl-captains-league.json) |
 | Dice Breaker | 26849 | [26849-dice-breaker.json](./26849-dice-breaker.json) |
 | Dice Carnival | 406262 | [406262-dice-carnival.json](./406262-dice-carnival.json) |
