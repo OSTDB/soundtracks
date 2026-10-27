@@ -4216,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petey Pedro Unbeetable Adventure | 272237 | [272237-petey-pedro-unbeetable-adventure.json](./272237-petey-pedro-unbeetable-adventure.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
 | Petit Computer | 64865 | [64865-petit-computer.json](./64865-petit-computer.json) |
+| Petit Game Collection Vol.1 | 283315 | [283315-petit-game-collection-vol-1.json](./283315-petit-game-collection-vol-1.json) |
 | Petit Island | 204526 | [204526-petit-island.json](./204526-petit-island.json) |
 | Petit Novel Series: Harvest December | 59433 | [59433-petit-novel-series-harvest-december.json](./59433-petit-novel-series-harvest-december.json) |
 | Petit Petit Petit | 239763 | [239763-petit-petit-petit.json](./239763-petit-petit-petit.json) |
@@ -11028,6 +11029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porkshire Hero | 331485 | [331485-porkshire-hero.json](./331485-porkshire-hero.json) |
 | Porky Pig's Haunted Holiday | 42472 | [42472-porky-pigs-haunted-holiday.json](./42472-porky-pigs-haunted-holiday.json) |
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
+| Porky's | 283004 | [283004-porkys.json](./283004-porkys.json) |
 | Porn Empire | 294030 | [294030-porn-empire.json](./294030-porn-empire.json) |
 | Porn Handyman VR | 417408 | [417408-porn-handyman-vr.json](./417408-porn-handyman-vr.json) |
 | Porn Pizza Delivery Boy | 369674 | [369674-porn-pizza-delivery-boy.json](./369674-porn-pizza-delivery-boy.json) |
