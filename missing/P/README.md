@@ -6529,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: Armada of the Damned | 68228 | [68228-pirates-of-the-caribbean-armada-of-the-damned.json](./68228-pirates-of-the-caribbean-armada-of-the-damned.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 194266 | [194266-pirates-of-the-caribbean-dead-mans-chest.json](./194266-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
+| Pirates Of The Caribbean: Islands Of Fortune | 294649 | [294649-pirates-of-the-caribbean-islands-of-fortune.json](./294649-pirates-of-the-caribbean-islands-of-fortune.json) |
 | Pirates of the Caribbean: Isles Of War | 62529 | [62529-pirates-of-the-caribbean-isles-of-war.json](./62529-pirates-of-the-caribbean-isles-of-war.json) |
 | Pirates of the Caribbean: New Horizons | 310699 | [310699-pirates-of-the-caribbean-new-horizons.json](./310699-pirates-of-the-caribbean-new-horizons.json) |
 | Pirates of the Caribbean: The Curse of the Black Pearl | 19218 | [19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json](./19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json) |
@@ -8686,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pneuma | 384242 | [384242-pneuma.json](./384242-pneuma.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
+| PneumaticCraft: Repressurized | 294671 | [294671-pneumaticcraft-repressurized.json](./294671-pneumaticcraft-repressurized.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
 | Pnevmo-Capsula: Domiki | 155872 | [155872-pnevmo-capsula-domiki.json](./155872-pnevmo-capsula-domiki.json) |
 | PNG Mall | 272345 | [272345-png-mall.json](./272345-png-mall.json) |
@@ -9834,6 +9836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: A Star in the Desert | 360191 | [360191-pokemon-a-star-in-the-desert.json](./360191-pokemon-a-star-in-the-desert.json) |
 | Pokémon: Abstract Version | 281477 | [281477-pokemon-abstract-version.json](./281477-pokemon-abstract-version.json) |
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
+| Pokémon: Battle Trainer | 294650 | [294650-pokemon-battle-trainer.json](./294650-pokemon-battle-trainer.json) |
 | Pokémon: Blossom of the Soul | 143023 | [143023-pokemon-blossom-of-the-soul.json](./143023-pokemon-blossom-of-the-soul.json) |
 | Pokémon: Breakdown Blast | 288076 | [288076-pokemon-breakdown-blast.json](./288076-pokemon-breakdown-blast.json) |
 | Pokémon: Burning Lotus | 265218 | [265218-pokemon-burning-lotus.json](./265218-pokemon-burning-lotus.json) |
@@ -14399,6 +14402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Hopper | 83405 | [83405-psycho-hopper.json](./83405-psycho-hopper.json) |
 | Psycho Inn | 396477 | [396477-psycho-inn.json](./396477-psycho-inn.json) |
 | Psycho Killer | 74033 | [74033-psycho-killer.json](./74033-psycho-killer.json) |
+| Psycho Logy | 294750 | [294750-psycho-logy.json](./294750-psycho-logy.json) |
 | Psycho on the loose | 30036 | [30036-psycho-on-the-loose.json](./30036-psycho-on-the-loose.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Reign | 216939 | [216939-psycho-reign.json](./216939-psycho-reign.json) |
