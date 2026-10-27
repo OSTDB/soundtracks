@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | while True: learn() | 76840 | [76840-while-true-learn.json](./76840-while-true-learn.json) |
 | While Waiting | 253330 | [253330-while-waiting.json](./253330-while-waiting.json) |
 | While Waiting My Turn | 253382 | [253382-while-waiting-my-turn.json](./253382-while-waiting-my-turn.json) |
+| While We Sleep: Slendrina Is Here | 321278 | [321278-while-we-sleep-slendrina-is-here.json](./321278-while-we-sleep-slendrina-is-here.json) |
 | While You Are Downloading | 87963 | [87963-while-you-are-downloading.json](./87963-while-you-are-downloading.json) |
 | Whim | 216830 | [216830-whim.json](./216830-whim.json) |
 | Whimel Academy | 275558 | [275558-whimel-academy.json](./275558-whimel-academy.json) |
