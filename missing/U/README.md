@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utapau Chase | 245968 | [245968-utapau-chase.json](./245968-utapau-chase.json) |
 | Utauta-Uh: Seirei Songs | 167052 | [167052-utauta-uh-seirei-songs.json](./167052-utauta-uh-seirei-songs.json) |
 | Utawarerumono | 24080 | [24080-utawarerumono.json](./24080-utawarerumono.json) |
+| Utawarerumono Trilogy Set | 317791 | [317791-utawarerumono-trilogy-set.json](./317791-utawarerumono-trilogy-set.json) |
 | Utawarerumono Zan: Premium Edition | 136709 | [136709-utawarerumono-zan-premium-edition.json](./136709-utawarerumono-zan-premium-edition.json) |
 | Utawarerumono: Lost Flag | 120286 | [120286-utawarerumono-lost-flag.json](./120286-utawarerumono-lost-flag.json) |
 | Utawarerumono: Mask of Deception | 13548 | [13548-utawarerumono-mask-of-deception.json](./13548-utawarerumono-mask-of-deception.json) |
