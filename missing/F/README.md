@@ -5831,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Happens | 407485 | [407485-fit-happens.json](./407485-fit-happens.json) |
 | Fit In | 113055 | [113055-fit-in.json](./113055-fit-in.json) |
 | Fit in Bed | 309024 | [309024-fit-in-bed.json](./309024-fit-in-bed.json) |
+| Fit In The Hole | 291956 | [291956-fit-in-the-hole.json](./291956-fit-in-the-hole.json) |
 | Fit Kit | 181175 | [181175-fit-kit.json](./181175-fit-kit.json) |
 | Fit Life | 359291 | [359291-fit-life.json](./359291-fit-life.json) |
 | Fit Music for Wii U | 61696 | [61696-fit-music-for-wii-u.json](./61696-fit-music-for-wii-u.json) |
@@ -6217,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flames & Fortune | 396752 | [396752-flames-and-fortune.json](./396752-flames-and-fortune.json) |
 | Flames of Damnation | 332349 | [332349-flames-of-damnation.json](./332349-flames-of-damnation.json) |
 | Flaming Core | 317054 | [317054-flaming-core.json](./317054-flaming-core.json) |
+| Flaming Flagon | 291968 | [291968-flaming-flagon.json](./291968-flaming-flagon.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
 | Flaming/Million | 153319 | [153319-flaming-million.json](./153319-flaming-million.json) |
@@ -8972,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Factory | 413873 | [413873-fortune-factory.json](./413873-fortune-factory.json) |
 | Fortune Fragments | 391788 | [391788-fortune-fragments.json](./391788-fortune-fragments.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
+| Fortune Hunter | 292047 | [292047-fortune-hunter.json](./292047-fortune-hunter.json) |
 | Fortune Hunters | 117729 | [117729-fortune-hunters.json](./117729-fortune-hunters.json) |
 | Fortune Lover Trial Version: Alan Edition | 254935 | [254935-fortune-lover-trial-version-alan-edition.json](./254935-fortune-lover-trial-version-alan-edition.json) |
 | Fortune Lover Trial Version: Geordo Edition | 254932 | [254932-fortune-lover-trial-version-geordo-edition.json](./254932-fortune-lover-trial-version-geordo-edition.json) |
@@ -11456,6 +11459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
 | Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
+| Funky Restaurant | 291965 | [291965-funky-restaurant.json](./291965-funky-restaurant.json) |
 | Funky Smugglers | 64278 | [64278-funky-smugglers.json](./64278-funky-smugglers.json) |
 | Funkyheart | 369894 | [369894-funkyheart.json](./369894-funkyheart.json) |
 | FunkyMouse's ISO | 340271 | [340271-funkymouses-iso.json](./340271-funkymouses-iso.json) |
