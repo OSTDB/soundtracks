@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
 | Mafate | 347828 | [347828-mafate.json](./347828-mafate.json) |
 | Mafdet and the Book of the Dead | 72377 | [72377-mafdet-and-the-book-of-the-dead.json](./72377-mafdet-and-the-book-of-the-dead.json) |
+| Mafia | 325379 | [325379-mafia.json](./325379-mafia.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
 | Mafia Business Simulator | 394480 | [394480-mafia-business-simulator.json](./394480-mafia-business-simulator.json) |
@@ -5442,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's Original: Happy Disc | 242061 | [242061-mcdonalds-original-happy-disc.json](./242061-mcdonalds-original-happy-disc.json) |
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
 | McDonald's Work Challenge | 218936 | [218936-mcdonalds-work-challenge.json](./218936-mcdonalds-work-challenge.json) |
+| McDonald's: Minedonalds | 325359 | [325359-mcdonalds-minedonalds.json](./325359-mcdonalds-minedonalds.json) |
 | McDonaldland | 15261 | [15261-mcdonaldland.json](./15261-mcdonaldland.json) |
 | McDonaldland | 285031 | [285031-mcdonaldland.json](./285031-mcdonaldland.json) |
 | McDoomguy's Slaughterific Sample Platter | 307814 | [307814-mcdoomguys-slaughterific-sample-platter.json](./307814-mcdoomguys-slaughterific-sample-platter.json) |
@@ -7541,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Ghosts | 308229 | [308229-memory-ghosts.json](./308229-memory-ghosts.json) |
 | Memory Girl + | 327909 | [327909-memory-girl.json](./327909-memory-girl.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
+| Memory Holder: Animal Kingdom | 325397 | [325397-memory-holder-animal-kingdom.json](./325397-memory-holder-animal-kingdom.json) |
 | Memory Holder: The Alphabet | 347037 | [347037-memory-holder-the-alphabet.json](./347037-memory-holder-the-alphabet.json) |
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
@@ -8790,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
 | Mia and me - Free the Unicorns! | 96191 | [96191-mia-and-me-free-the-unicorns.json](./96191-mia-and-me-free-the-unicorns.json) |
 | Mia and me: Freedom for Centopia | 107003 | [107003-mia-and-me-freedom-for-centopia.json](./107003-mia-and-me-freedom-for-centopia.json) |
+| Mia and Me: Magic Friends | 325398 | [325398-mia-and-me-magic-friends.json](./325398-mia-and-me-magic-friends.json) |
 | Mia and the Bugaboos | 22121 | [22121-mia-and-the-bugaboos.json](./22121-mia-and-the-bugaboos.json) |
 | Mia and the Dragon Princess | 212737 | [212737-mia-and-the-dragon-princess.json](./212737-mia-and-the-dragon-princess.json) |
 | Mia Fey: Ace Spirit Attorney | 303005 | [303005-mia-fey-ace-spirit-attorney.json](./303005-mia-fey-ace-spirit-attorney.json) |
@@ -17039,6 +17043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Daddy, My Christmas | 266140 | [266140-my-daddy-my-christmas.json](./266140-my-daddy-my-christmas.json) |
 | My Daily Pets | 270976 | [270976-my-daily-pets.json](./270976-my-daily-pets.json) |
 | My Dangerous Life | 156700 | [156700-my-dangerous-life.json](./156700-my-dangerous-life.json) |
+| My Dark Eden | 325372 | [325372-my-dark-eden.json](./325372-my-dark-eden.json) |
 | My Darkest Moment | 188312 | [188312-my-darkest-moment.json](./188312-my-darkest-moment.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
@@ -17447,6 +17452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life: Farm Vet | 282143 | [282143-my-life-farm-vet.json](./282143-my-life-farm-vet.json) |
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
 | My Life: Riding Stables 3 | 221690 | [221690-my-life-riding-stables-3.json](./221690-my-life-riding-stables-3.json) |
+| My Life: Zoo Vet | 325399 | [325399-my-life-zoo-vet.json](./325399-my-life-zoo-vet.json) |
 | My Lil Afterlife | 347757 | [347757-my-lil-afterlife.json](./347757-my-lil-afterlife.json) |
 | My Lil Horror | 168168 | [168168-my-lil-horror.json](./168168-my-lil-horror.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
