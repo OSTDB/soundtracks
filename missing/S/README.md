@@ -10693,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
 | Sky Kid | 17282 | [17282-sky-kid.json](./17282-sky-kid.json) |
 | Sky Kid | 239160 | [239160-sky-kid.json](./239160-sky-kid.json) |
+| Sky Kid | 287596 | [287596-sky-kid.json](./287596-sky-kid.json) |
 | Sky Kid | 293755 | [293755-sky-kid.json](./293755-sky-kid.json) |
 | Sky Kid Deluxe | 17283 | [17283-sky-kid-deluxe.json](./17283-sky-kid-deluxe.json) |
 | Sky Kid: Enhanced | 355605 | [355605-sky-kid-enhanced.json](./355605-sky-kid-enhanced.json) |
@@ -11636,6 +11637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
 | Slime-san: Content Creator | 112734 | [112734-slime-san-content-creator.json](./112734-slime-san-content-creator.json) |
 | Slime-san: Superslime Edition | 96019 | [96019-slime-san-superslime-edition.json](./96019-slime-san-superslime-edition.json) |
+| Slime, Fire and Soul | 287794 | [287794-slime-fire-and-soul.json](./287794-slime-fire-and-soul.json) |
 | Slime: Desulted | 183465 | [183465-slime-desulted.json](./183465-slime-desulted.json) |
 | Slime: Isekai Memories | 178301 | [178301-slime-isekai-memories.json](./178301-slime-isekai-memories.json) |
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
@@ -13994,6 +13996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | Solfege | 240067 | [240067-solfege.json](./240067-solfege.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
+| SolForge Fusion | 287619 | [287619-solforge-fusion.json](./287619-solforge-fusion.json) |
 | Solheim | 397830 | [397830-solheim.json](./397830-solheim.json) |
 | Soli-tair-ror | 382969 | [382969-soli-tair-ror.json](./382969-soli-tair-ror.json) |
 | Solicheck | 68426 | [68426-solicheck.json](./68426-solicheck.json) |
@@ -21372,6 +21375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starglider | 12778 | [12778-starglider.json](./12778-starglider.json) |
 | Starglider 2 | 12779 | [12779-starglider-2.json](./12779-starglider-2.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
+| Starground | 287606 | [287606-starground.json](./287606-starground.json) |
 | Stargrove Scramble | 177939 | [177939-stargrove-scramble.json](./177939-stargrove-scramble.json) |
 | Stargunner | 19379 | [19379-stargunner.json](./19379-stargunner.json) |
 | Starguy IV | 184252 | [184252-starguy-iv.json](./184252-starguy-iv.json) |
@@ -26086,6 +26090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blackjack Battle 2 Turbo Edition - The Card Warriors | 30928 | [30928-super-blackjack-battle-2-turbo-edition-the-card-warriors.json](./30928-super-blackjack-battle-2-turbo-edition-the-card-warriors.json) |
 | Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
+| Super Blob Blaster | 287604 | [287604-super-blob-blaster.json](./287604-super-blob-blaster.json) |
 | Super Block | 172655 | [172655-super-block.json](./172655-super-block.json) |
 | Super Block | 71182 | [71182-super-block.json](./71182-super-block.json) |
 | Super Block Boy and Friends | 333165 | [333165-super-block-boy-and-friends.json](./333165-super-block-boy-and-friends.json) |
@@ -27312,6 +27317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Path | 314130 | [314130-super-mario-star-path.json](./314130-super-mario-star-path.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
+| Super Mario Star Road Retooled | 287617 | [287617-super-mario-star-road-retooled.json](./287617-super-mario-star-road-retooled.json) |
 | Super Mario Star Road: The Green Comet | 222747 | [222747-super-mario-star-road-the-green-comet.json](./222747-super-mario-star-road-the-green-comet.json) |
 | Super Mario Star Scramble 3 | 215250 | [215250-super-mario-star-scramble-3.json](./215250-super-mario-star-scramble-3.json) |
 | Super Mario Star Scramble Jam | 370297 | [370297-super-mario-star-scramble-jam.json](./370297-super-mario-star-scramble-jam.json) |
