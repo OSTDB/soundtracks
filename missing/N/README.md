@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Race 2 | 286645 | [286645-neon-race-2.json](./286645-neon-race-2.json) |
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
 | Neon Raiders | 363147 | [363147-neon-raiders.json](./363147-neon-raiders.json) |
+| Neon Rain | 305125 | [305125-neon-rain.json](./305125-neon-rain.json) |
 | Neon Rhythm | 359883 | [359883-neon-rhythm.json](./359883-neon-rhythm.json) |
 | Neon Rider | 104618 | [104618-neon-rider.json](./104618-neon-rider.json) |
 | Neon Rider | 393778 | [393778-neon-rider.json](./393778-neon-rider.json) |
@@ -5984,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing But Me and You | 380631 | [380631-nothing-but-me-and-you.json](./380631-nothing-but-me-and-you.json) |
 | Nothing Can | 223340 | [223340-nothing-can.json](./223340-nothing-can.json) |
 | Nothing Can Stop Us Encore | 236307 | [236307-nothing-can-stop-us-encore.json](./236307-nothing-can-stop-us-encore.json) |
+| Nothing Door | 305230 | [305230-nothing-door.json](./305230-nothing-door.json) |
 | Nothing Goes Right: Bad Business | 412603 | [412603-nothing-goes-right-bad-business.json](./412603-nothing-goes-right-bad-business.json) |
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
