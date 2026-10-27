@@ -13017,6 +13017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu: Famista Online 2010 | 218396 | [218396-pro-yakyuu-famista-online-2010.json](./218396-pro-yakyuu-famista-online-2010.json) |
 | Pro Yakyuu: Greatest Nine 98 | 275140 | [275140-pro-yakyuu-greatest-nine-98.json](./275140-pro-yakyuu-greatest-nine-98.json) |
 | Pro Zombie Soccer AE | 90347 | [90347-pro-zombie-soccer-ae.json](./90347-pro-zombie-soccer-ae.json) |
+| Pro-Logic Mah-Jong Hai-Shin | 290976 | [290976-pro-logic-mah-jong-hai-shin.json](./290976-pro-logic-mah-jong-hai-shin.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
 | Pro-Putt Domo | 68059 | [68059-pro-putt-domo.json](./68059-pro-putt-domo.json) |
 | Probability 0 | 16739 | [16739-probability-0.json](./16739-probability-0.json) |
