@@ -1656,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
 | OMSI: The Bus Simulator | 47037 | [47037-omsi-the-bus-simulator.json](./47037-omsi-the-bus-simulator.json) |
 | Omusubi | 304818 | [304818-omusubi.json](./304818-omusubi.json) |
+| Omut | 317184 | [317184-omut.json](./317184-omut.json) |
 | Omvorm | 109494 | [109494-omvorm.json](./109494-omvorm.json) |
 | Omvros | 404187 | [404187-omvros.json](./404187-omvros.json) |
 | On & Off | 412468 | [412468-on-and-off.json](./412468-on-and-off.json) |
