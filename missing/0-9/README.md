@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 London Cats | 282722 | [282722-100-london-cats.json](./282722-100-london-cats.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
 | 100 March Cats | 288728 | [288728-100-march-cats.json](./288728-100-march-cats.json) |
+| 100 March Cats: Extra Content | 289333 | [289333-100-march-cats-extra-content.json](./289333-100-march-cats-extra-content.json) |
 | 100 Marshmallow Cats | 393730 | [393730-100-marshmallow-cats.json](./393730-100-marshmallow-cats.json) |
 | 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
 | 100 Meter | 247051 | [247051-100-meter.json](./247051-100-meter.json) |
@@ -1016,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1414: Crossroads | 241301 | [241301-1414-crossroads.json](./241301-1414-crossroads.json) |
 | 1428: Shadows over Silesia | 130261 | [130261-1428-shadows-over-silesia.json](./130261-1428-shadows-over-silesia.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
+| 1428: Shadows over Silesia - Tourney at the Bear Rock | 289334 | [289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json](./289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json) |
 | 1483 Anno Domini | 409431 | [409431-1483-anno-domini.json](./409431-1483-anno-domini.json) |
 | 1492: Anno Domini | 402829 | [402829-1492-anno-domini.json](./402829-1492-anno-domini.json) |
 | 1492: Colonization of the New World | 373086 | [373086-1492-colonization-of-the-new-world.json](./373086-1492-colonization-of-the-new-world.json) |
@@ -1051,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1500DS Spirits Vol. 7: Chess | 79959 | [79959-1500ds-spirits-vol-7-chess.json](./79959-1500ds-spirits-vol-7-chess.json) |
 | 153 Hand Video Poker | 84670 | [84670-153-hand-video-poker.json](./84670-153-hand-video-poker.json) |
 | 155th Anniversary of the Pony Express | 288131 | [288131-155th-anniversary-of-the-pony-express.json](./288131-155th-anniversary-of-the-pony-express.json) |
+| 15th Floor | 289335 | [289335-15th-floor.json](./289335-15th-floor.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 15x15 | 109473 | [109473-15x15.json](./109473-15x15.json) |
 | 16 | 263010 | [263010-16.json](./263010-16.json) |
