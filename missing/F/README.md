@@ -7311,6 +7311,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
 | Fly Light | 361497 | [361497-fly-light.json](./361497-fly-light.json) |
+| Fly Like a Bird 2 | 286919 | [286919-fly-like-a-bird-2.json](./286919-fly-like-a-bird-2.json) |
+| Fly Like a Bird 3 | 286920 | [286920-fly-like-a-bird-3.json](./286920-fly-like-a-bird-3.json) |
 | Fly Like A Bird 4 | 95957 | [95957-fly-like-a-bird-4.json](./95957-fly-like-a-bird-4.json) |
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
 | Fly Me To The Moon | 369462 | [369462-fly-me-to-the-moon.json](./369462-fly-me-to-the-moon.json) |
@@ -7772,6 +7774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foot Blobbers | 176346 | [176346-foot-blobbers.json](./176346-foot-blobbers.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
 | Foot Clinic: Complete Edition | 273323 | [273323-foot-clinic-complete-edition.json](./273323-foot-clinic-complete-edition.json) |
+| Foot Clinic: Fishy Edition | 287131 | [287131-foot-clinic-fishy-edition.json](./287131-foot-clinic-fishy-edition.json) |
 | Foot Clinic: Smelly Edition | 304785 | [304785-foot-clinic-smelly-edition.json](./304785-foot-clinic-smelly-edition.json) |
 | Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
 | Foot Massage | 288909 | [288909-foot-massage.json](./288909-foot-massage.json) |
@@ -9739,6 +9742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
 | Freaky Trip: Camp Pack | 324414 | [324414-freaky-trip-camp-pack.json](./324414-freaky-trip-camp-pack.json) |
 | Freaky Trip: Complete Edition | 290447 | [290447-freaky-trip-complete-edition.json](./290447-freaky-trip-complete-edition.json) |
+| Freaky Trip: Definitive Edition | 287130 | [287130-freaky-trip-definitive-edition.json](./287130-freaky-trip-definitive-edition.json) |
 | Freaky Trip: Deluxe Edition | 275059 | [275059-freaky-trip-deluxe-edition.json](./275059-freaky-trip-deluxe-edition.json) |
 | Freaky Trip: Extended Edition | 277913 | [277913-freaky-trip-extended-edition.json](./277913-freaky-trip-extended-edition.json) |
 | Freaky Trip: Fall Pack | 275056 | [275056-freaky-trip-fall-pack.json](./275056-freaky-trip-fall-pack.json) |
@@ -11300,6 +11304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess: Complete Edition | 277912 | [277912-fun-chess-complete-edition.json](./277912-fun-chess-complete-edition.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Extended Edition | 263551 | [263551-fun-chess-extended-edition.json](./263551-fun-chess-extended-edition.json) |
+| Fun Chess: GOTY Edition | 287129 | [287129-fun-chess-goty-edition.json](./287129-fun-chess-goty-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Chess: Premium Edition | 270792 | [270792-fun-chess-premium-edition.json](./270792-fun-chess-premium-edition.json) |
 | Fun Chess: Special Edition | 268559 | [268559-fun-chess-special-edition.json](./268559-fun-chess-special-edition.json) |
@@ -11821,6 +11826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
 | Fuss-Ball | 59802 | [59802-fuss-ball.json](./59802-fuss-ball.json) |
 | Fussball Live | 43741 | [43741-fussball-live.json](./43741-fussball-live.json) |
+| Fussball Manager 24 | 287248 | [287248-fussball-manager-24.json](./287248-fussball-manager-24.json) |
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
 | Fussball Manager Bundesliga 2001 | 209417 | [209417-fussball-manager-bundesliga-2001.json](./209417-fussball-manager-bundesliga-2001.json) |
