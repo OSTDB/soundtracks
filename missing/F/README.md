@@ -4972,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: Anna on the Run | 229859 | [229859-fire-emblem-fates-anna-on-the-run.json](./229859-fire-emblem-fates-anna-on-the-run.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
 | Fire Emblem Fates: Conquest | 21863 | [21863-fire-emblem-fates-conquest.json](./21863-fire-emblem-fates-conquest.json) |
+| Fire Emblem Fates: Shadow Dragon | 287485 | [287485-fire-emblem-fates-shadow-dragon.json](./287485-fire-emblem-fates-shadow-dragon.json) |
 | Fire Emblem Fates: Silent Waves | 403051 | [403051-fire-emblem-fates-silent-waves.json](./403051-fire-emblem-fates-silent-waves.json) |
 | Fire Emblem Fates: Special Edition | 10229 | [10229-fire-emblem-fates-special-edition.json](./10229-fire-emblem-fates-special-edition.json) |
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
@@ -9761,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred | 25841 | [25841-fred.json](./25841-fred.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
 | Fred and Jeff: The Atomic Sulfate | 387396 | [387396-fred-and-jeff-the-atomic-sulfate.json](./387396-fred-and-jeff-the-atomic-sulfate.json) |
+| Fred Durst Companion | 287487 | [287487-fred-durst-companion.json](./287487-fred-durst-companion.json) |
 | Fred Figglehorn | 261966 | [261966-fred-figglehorn.json](./261966-fred-figglehorn.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
