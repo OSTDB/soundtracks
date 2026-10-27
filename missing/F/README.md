@@ -3884,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight N' Fall | 182308 | [182308-fight-n-fall.json](./182308-fight-n-fall.json) |
 | Fight Night | 12324 | [12324-fight-night.json](./12324-fight-night.json) |
 | Fight Night 2004 | 5835 | [5835-fight-night-2004.json](./5835-fight-night-2004.json) |
+| Fight Night Round 2 | 290386 | [290386-fight-night-round-2.json](./290386-fight-night-round-2.json) |
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
 | Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
@@ -5056,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: The Shadow of Dawn | 384011 | [384011-fire-emblem-the-shadow-of-dawn.json](./384011-fire-emblem-the-shadow-of-dawn.json) |
 | Fire Emblem: The Sun God's Wrath | 140873 | [140873-fire-emblem-the-sun-gods-wrath.json](./140873-fire-emblem-the-sun-gods-wrath.json) |
 | Fire Emblem: Thracia 776 | 1437 | [1437-fire-emblem-thracia-776.json](./1437-fire-emblem-thracia-776.json) |
+| Fire Emblem: Thracia 776 - Forseti's Cut | 290361 | [290361-fire-emblem-thracia-776-forsetis-cut.json](./290361-fire-emblem-thracia-776-forsetis-cut.json) |
 | Fire Emblem: Three Houses - Cindered Shadows | 132224 | [132224-fire-emblem-three-houses-cindered-shadows.json](./132224-fire-emblem-three-houses-cindered-shadows.json) |
 | Fire Emblem: Three Houses - Expansion Pass | 293729 | [293729-fire-emblem-three-houses-expansion-pass.json](./293729-fire-emblem-three-houses-expansion-pass.json) |
 | Fire Emblem: Three Houses - Seasons of Warfare Edition | 136363 | [136363-fire-emblem-three-houses-seasons-of-warfare-edition.json](./136363-fire-emblem-three-houses-seasons-of-warfare-edition.json) |
@@ -9726,6 +9728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Racing | 233112 | [233112-freaky-racing.json](./233112-freaky-racing.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
 | Freaky Trip: Camp Pack | 324414 | [324414-freaky-trip-camp-pack.json](./324414-freaky-trip-camp-pack.json) |
+| Freaky Trip: Complete Edition | 290447 | [290447-freaky-trip-complete-edition.json](./290447-freaky-trip-complete-edition.json) |
 | Freaky Trip: Deluxe Edition | 275059 | [275059-freaky-trip-deluxe-edition.json](./275059-freaky-trip-deluxe-edition.json) |
 | Freaky Trip: Extended Edition | 277913 | [277913-freaky-trip-extended-edition.json](./277913-freaky-trip-extended-edition.json) |
 | Freaky Trip: Fall Pack | 275056 | [275056-freaky-trip-fall-pack.json](./275056-freaky-trip-fall-pack.json) |
@@ -9936,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
+| FreeGen | 290380 | [290380-freegen.json](./290380-freegen.json) |
 | Freegglers | 185159 | [185159-freegglers.json](./185159-freegglers.json) |
 | FreeGuessr | 338640 | [338640-freeguessr.json](./338640-freeguessr.json) |
 | Freehand Solitaire | 90497 | [90497-freehand-solitaire.json](./90497-freehand-solitaire.json) |
