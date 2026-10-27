@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Carrier Simulator | 326460 | [326460-car-carrier-simulator.json](./326460-car-carrier-simulator.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Chase Simulator | 222760 | [222760-car-chase-simulator.json](./222760-car-chase-simulator.json) |
+| Car Clicker | 314233 | [314233-car-clicker.json](./314233-car-clicker.json) |
 | Car Combine Mania | 342280 | [342280-car-combine-mania.json](./342280-car-combine-mania.json) |
 | Car Constructor | 169834 | [169834-car-constructor.json](./169834-car-constructor.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
@@ -5877,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
 | Chickado | 262853 | [262853-chickado.json](./262853-chickado.json) |
 | Chickcharge | 413055 | [413055-chickcharge.json](./413055-chickcharge.json) |
+| Chicken | 314230 | [314230-chicken.json](./314230-chicken.json) |
 | Chicken | 94716 | [94716-chicken.json](./94716-chicken.json) |
 | Chicken & Egg | 224992 | [224992-chicken-and-egg.json](./224992-chicken-and-egg.json) |
 | Chicken ~Boiled Egg~ | 99769 | [99769-chicken-boiled-egg.json](./99769-chicken-boiled-egg.json) |
@@ -8880,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closure | 201622 | [201622-closure.json](./201622-closure.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
+| Clothing | 314234 | [314234-clothing.json](./314234-clothing.json) |
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
 | Clothing Store Simulator | 300492 | [300492-clothing-store-simulator.json](./300492-clothing-store-simulator.json) |
 | Clothing Store Simulator | 381799 | [381799-clothing-store-simulator.json](./381799-clothing-store-simulator.json) |
@@ -14952,6 +14955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
 | Cross Set | 34114 | [34114-cross-set.json](./34114-cross-set.json) |
 | Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
+| Cross Shoot | 314221 | [314221-cross-shoot.json](./314221-cross-shoot.json) |
 | Cross Soul | 132453 | [132453-cross-soul.json](./132453-cross-soul.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
