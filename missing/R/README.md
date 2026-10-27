@@ -5488,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
 | Revenge of Roger Rouge | 33516 | [33516-revenge-of-roger-rouge.json](./33516-revenge-of-roger-rouge.json) |
 | Revenge of the 'Gator: Gold | 257393 | [257393-revenge-of-the-gator-gold.json](./257393-revenge-of-the-gator-gold.json) |
+| Revenge of the Antagonist | 290890 | [290890-revenge-of-the-antagonist.json](./290890-revenge-of-the-antagonist.json) |
 | Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
 | Revenge of the Balloon-Headed Mexican | 66514 | [66514-revenge-of-the-balloon-headed-mexican.json](./66514-revenge-of-the-balloon-headed-mexican.json) |
 | Revenge of the Beefsteak Tomatoes | 22760 | [22760-revenge-of-the-beefsteak-tomatoes.json](./22760-revenge-of-the-beefsteak-tomatoes.json) |
@@ -8259,6 +8260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
 | Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
+| Rockman Bug Sweeper | 290979 | [290979-rockman-bug-sweeper.json](./290979-rockman-bug-sweeper.json) |
 | Rockman Complete Works: Rockman | 84124 | [84124-rockman-complete-works-rockman.json](./84124-rockman-complete-works-rockman.json) |
 | Rockman Complete Works: Rockman 2 - Dr. Wily no Nazo | 171827 | [171827-rockman-complete-works-rockman-2-dr-wily-no-nazo.json](./171827-rockman-complete-works-rockman-2-dr-wily-no-nazo.json) |
 | Rockman Complete Works: Rockman 3 - Dr. Wily no Saigo!? | 171828 | [171828-rockman-complete-works-rockman-3-dr-wily-no-saigo.json](./171828-rockman-complete-works-rockman-3-dr-wily-no-saigo.json) |
@@ -8266,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman Complete Works: Rockman 5 - Blues no Wana!? | 171830 | [171830-rockman-complete-works-rockman-5-blues-no-wana.json](./171830-rockman-complete-works-rockman-5-blues-no-wana.json) |
 | Rockman Complete Works: Rockman 6 - Shijou Saidai no Tatakai!! | 171832 | [171832-rockman-complete-works-rockman-6-shijou-saidai-no-tatakai.json](./171832-rockman-complete-works-rockman-6-shijou-saidai-no-tatakai.json) |
 | Rockman Dash / Rockman Dash 2 Value Pack | 171885 | [171885-rockman-dash-rockman-dash-2-value-pack.json](./171885-rockman-dash-rockman-dash-2-value-pack.json) |
+| Rockman Dash Golf | 290977 | [290977-rockman-dash-golf.json](./290977-rockman-dash-golf.json) |
 | Rockman Dash Zhěngjiù Dìqiú Dàmàoxiǎn | 290875 | [290875-rockman-dash-zhengjiu-diqiu-damaoxian.json](./290875-rockman-dash-zhengjiu-diqiu-damaoxian.json) |
 | Rockman Dash: 5tsu no Shima no Daibouken! | 229209 | [229209-rockman-dash-5tsu-no-shima-no-daibouken.json](./229209-rockman-dash-5tsu-no-shima-no-daibouken.json) |
 | Rockman Dash: Hagane no Boukenshin | 44060 | [44060-rockman-dash-hagane-no-boukenshin.json](./44060-rockman-dash-hagane-no-boukenshin.json) |
@@ -8292,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman IQ Xuànfēng | 389005 | [389005-rockman-iq-xuanfeng.json](./389005-rockman-iq-xuanfeng.json) |
 | Rockman No Constancy | 48027 | [48027-rockman-no-constancy.json](./48027-rockman-no-constancy.json) |
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
+| Rockman no Dot Art Logic | 290964 | [290964-rockman-no-dot-art-logic.json](./290964-rockman-no-dot-art-logic.json) |
 | Rockman no Huángjīn Dìguó | 66918 | [66918-rockman-no-huangjin-diguo.json](./66918-rockman-no-huangjin-diguo.json) |
 | Rockman Online | 66610 | [66610-rockman-online.json](./66610-rockman-online.json) |
 | Rockman Panic Fire | 281347 | [281347-rockman-panic-fire.json](./281347-rockman-panic-fire.json) |
@@ -9670,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
 | Rotox | 15360 | [15360-rotox.json](./15360-rotox.json) |
+| Rotrex | 290978 | [290978-rotrex.json](./290978-rotrex.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotted: A Brain Rot Simulator | 403927 | [403927-rotted-a-brain-rot-simulator.json](./403927-rotted-a-brain-rot-simulator.json) |
 | Rotten Apple | 238539 | [238539-rotten-apple.json](./238539-rotten-apple.json) |
