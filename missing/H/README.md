@@ -4732,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbal Hunter | 294057 | [294057-herbal-hunter.json](./294057-herbal-hunter.json) |
 | Herbal Remedies | 266203 | [266203-herbal-remedies.json](./266203-herbal-remedies.json) |
 | Herbalist Simulator | 127826 | [127826-herbalist-simulator.json](./127826-herbalist-simulator.json) |
+| Herbals Tycoon | 328369 | [328369-herbals-tycoon.json](./328369-herbals-tycoon.json) |
 | Herbert Crawler Post LD Edition | 180551 | [180551-herbert-crawler-post-ld-edition.json](./180551-herbert-crawler-post-ld-edition.json) |
 | Herbert's Dummy Run | 30217 | [30217-herberts-dummy-run.json](./30217-herberts-dummy-run.json) |
 | Herbert's Island Adventure | 313575 | [313575-herberts-island-adventure.json](./313575-herberts-island-adventure.json) |
