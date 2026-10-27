@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Man Sam | 13712 | [13712-fat-man-sam.json](./13712-fat-man-sam.json) |
 | Fat Mask | 31610 | [31610-fat-mask.json](./31610-fat-mask.json) |
 | Fat Mole | 101683 | [101683-fat-mole.json](./101683-fat-mole.json) |
+| Fat Orc Life Simulator | 326518 | [326518-fat-orc-life-simulator.json](./326518-fat-orc-life-simulator.json) |
 | Fat Princess | 19820 | [19820-fat-princess.json](./19820-fat-princess.json) |
 | Fat Princess Adventures | 11199 | [11199-fat-princess-adventures.json](./11199-fat-princess-adventures.json) |
 | Fat Princess: Fat Roles | 276802 | [276802-fat-princess-fat-roles.json](./276802-fat-princess-fat-roles.json) |
@@ -5714,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishy But In 2.5D | 163807 | [163807-fishy-but-in-2-5d.json](./163807-fishy-but-in-2-5d.json) |
 | Fishy Dish | 383960 | [383960-fishy-dish.json](./383960-fishy-dish.json) |
 | Fishy Dungeon Delving | 230917 | [230917-fishy-dungeon-delving.json](./230917-fishy-dungeon-delving.json) |
+| Fishy Escape | 326546 | [326546-fishy-escape.json](./326546-fishy-escape.json) |
 | Fishy2 | 129381 | [129381-fishy2.json](./129381-fishy2.json) |
 | Fishyphus | 265828 | [265828-fishyphus.json](./265828-fishyphus.json) |
 | Fisk | 81089 | [81089-fisk.json](./81089-fisk.json) |
@@ -10595,6 +10597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Hunter: Erza's Wheel of Fortune - Deluxe Edition | 239034 | [239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json](./239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Fashion | 239032 | [239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json](./239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json) |
 | Frontier Hunter: Hairstyle Pack | 266628 | [266628-frontier-hunter-hairstyle-pack.json](./266628-frontier-hunter-hairstyle-pack.json) |
+| Frontier Hunter: PlayStation Exclusive Costume Pack | 326536 | [326536-frontier-hunter-playstation-exclusive-costume-pack.json](./326536-frontier-hunter-playstation-exclusive-costume-pack.json) |
 | Frontier Hunter: Weapon Package | 239008 | [239008-frontier-hunter-weapon-package.json](./239008-frontier-hunter-weapon-package.json) |
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
 | Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
