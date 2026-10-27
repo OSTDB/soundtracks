@@ -2536,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled God of War Live-Service Game | 386715 | [386715-untitled-god-of-war-live-service-game.json](./386715-untitled-god-of-war-live-service-game.json) |
 | Untitled God of War Sequel | 411299 | [411299-untitled-god-of-war-sequel.json](./411299-untitled-god-of-war-sequel.json) |
 | Untitled Goop Game | 181668 | [181668-untitled-goop-game.json](./181668-untitled-goop-game.json) |
+| Untitled Goose Game & Thank Goodness You're Here! Bundle | 310441 | [310441-untitled-goose-game-and-thank-goodness-youre-here-bundle.json](./310441-untitled-goose-game-and-thank-goodness-youre-here-bundle.json) |
 | Untitled Hand Game | 344968 | [344968-untitled-hand-game.json](./344968-untitled-hand-game.json) |
 | Untitled Hand Game: Titled Edition | 344969 | [344969-untitled-hand-game-titled-edition.json](./344969-untitled-hand-game-titled-edition.json) |
 | Untitled Hello Neighbor Game | 418235 | [418235-untitled-hello-neighbor-game.json](./418235-untitled-hello-neighbor-game.json) |
