@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
 | Deadly Dash | 387407 | [387407-deadly-dash.json](./387407-deadly-dash.json) |
 | Deadly Daycare VR | 157909 | [157909-deadly-daycare-vr.json](./157909-deadly-daycare-vr.json) |
+| Deadly Days + Orbital Bullet Bundle | 283192 | [283192-deadly-days-orbital-bullet-bundle.json](./283192-deadly-days-orbital-bullet-bundle.json) |
 | Deadly Days: The Final Shelter | 199941 | [199941-deadly-days-the-final-shelter.json](./199941-deadly-days-the-final-shelter.json) |
 | Deadly Deals | 348591 | [348591-deadly-deals.json](./348591-deadly-deals.json) |
 | Deadly Delivery | 252005 | [252005-deadly-delivery.json](./252005-deadly-delivery.json) |
@@ -6667,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Patch | 257958 | [257958-detective-patch.json](./257958-detective-patch.json) |
 | Detective Penguin | 340533 | [340533-detective-penguin.json](./340533-detective-penguin.json) |
 | Detective Pikachu Returns | 128307 | [128307-detective-pikachu-returns.json](./128307-detective-pikachu-returns.json) |
+| Detective Pomu and the Tatsuki Manor Mystery | 283333 | [283333-detective-pomu-and-the-tatsuki-manor-mystery.json](./283333-detective-pomu-and-the-tatsuki-manor-mystery.json) |
 | Detective Puz | 133907 | [133907-detective-puz.json](./133907-detective-puz.json) |
 | Detective R & Prophet J | 402369 | [402369-detective-r-and-prophet-j.json](./402369-detective-r-and-prophet-j.json) |
 | Detective Riddles: Sherlock's Heritage | 91096 | [91096-detective-riddles-sherlocks-heritage.json](./91096-detective-riddles-sherlocks-heritage.json) |
@@ -7315,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice of Dusk | 417299 | [417299-dice-of-dusk.json](./417299-dice-of-dusk.json) |
 | Dice of Fate | 136867 | [136867-dice-of-fate.json](./136867-dice-of-fate.json) |
 | Dice of Fate | 413452 | [413452-dice-of-fate.json](./413452-dice-of-fate.json) |
+| Dice of God | 283318 | [283318-dice-of-god.json](./283318-dice-of-god.json) |
 | Dice of Kalma | 357258 | [357258-dice-of-kalma.json](./357258-dice-of-kalma.json) |
 | Dice of Knights | 166612 | [166612-dice-of-knights.json](./166612-dice-of-knights.json) |
 | Dice of Life | 184466 | [184466-dice-of-life.json](./184466-dice-of-life.json) |
@@ -13044,6 +13047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
 | Dragon's Lair | 272319 | [272319-dragons-lair.json](./272319-dragons-lair.json) |
 | Dragon's Lair | 272320 | [272320-dragons-lair.json](./272320-dragons-lair.json) |
+| Dragon's Lair | 283008 | [283008-dragons-lair.json](./283008-dragons-lair.json) |
 | Dragon's Lair HD | 100618 | [100618-dragons-lair-hd.json](./100618-dragons-lair-hd.json) |
 | Dragon's Lair II: Time Warp | 323845 | [323845-dragons-lair-ii-time-warp.json](./323845-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair Part II: Escape from Singe's Castle | 418248 | [418248-dragons-lair-part-ii-escape-from-singes-castle.json](./418248-dragons-lair-part-ii-escape-from-singes-castle.json) |
