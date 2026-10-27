@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K.I.N.G. | 387930 | [387930-k-i-n-g.json](./387930-k-i-n-g.json) |
 | K.O. King | 66942 | [66942-k-o-king.json](./66942-k-o-king.json) |
 | K.O. The Live Boxing | 386677 | [386677-k-o-the-live-boxing.json](./386677-k-o-the-live-boxing.json) |
+| K.O.: The Pro Boxing | 281596 | [281596-k-o-the-pro-boxing.json](./281596-k-o-the-pro-boxing.json) |
 | K.O.L.M. | 68899 | [68899-k-o-l-m.json](./68899-k-o-l-m.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K'nife Fight | 137455 | [137455-knife-fight.json](./137455-knife-fight.json) |
@@ -267,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaite Shabette Hajimeyou! Monster Farm DS | 98248 | [98248-kaite-shabette-hajimeyou-monster-farm-ds.json](./98248-kaite-shabette-hajimeyou-monster-farm-ds.json) |
 | Kaite Tsukutte Asoberu: Dezaemon | 67611 | [67611-kaite-tsukutte-asoberu-dezaemon.json](./67611-kaite-tsukutte-asoberu-dezaemon.json) |
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
+| Kaitei Taisensou!! Treasure World | 281597 | [281597-kaitei-taisensou-treasure-world.json](./281597-kaitei-taisensou-treasure-world.json) |
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
 | Kaiten Puyoman Kuu Carbuncle | 253764 | [253764-kaiten-puyoman-kuu-carbuncle.json](./253764-kaiten-puyoman-kuu-carbuncle.json) |
 | Kaiten Sushi VR | 245809 | [245809-kaiten-sushi-vr.json](./245809-kaiten-sushi-vr.json) |
@@ -2395,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
