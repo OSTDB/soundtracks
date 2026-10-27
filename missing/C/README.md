@@ -11961,6 +11961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convent Chronicles: Revelation | 371397 | [371397-convent-chronicles-revelation.json](./371397-convent-chronicles-revelation.json) |
 | Convent Of Magical Chambers | 404962 | [404962-convent-of-magical-chambers.json](./404962-convent-of-magical-chambers.json) |
 | Conventional Vampires | 301407 | [301407-conventional-vampires.json](./301407-conventional-vampires.json) |
+| Convento | 290769 | [290769-convento.json](./290769-convento.json) |
 | Convergence | 225517 | [225517-convergence.json](./225517-convergence.json) |
 | Convergence | 380086 | [380086-convergence.json](./380086-convergence.json) |
 | Convergence Compulsion | 137345 | [137345-convergence-compulsion.json](./137345-convergence-compulsion.json) |
@@ -12043,7 +12044,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Monster Munch | 40587 | [40587-cookie-monster-munch.json](./40587-cookie-monster-munch.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookie Run: Kingdom | 142737 | [142737-cookie-run-kingdom.json](./142737-cookie-run-kingdom.json) |
-| Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
 | Cookie Run: OvenSmash | 193973 | [193973-cookie-run-ovensmash.json](./193973-cookie-run-ovensmash.json) |
 | Cookie Run: Puzzle World | 198315 | [198315-cookie-run-puzzle-world.json](./198315-cookie-run-puzzle-world.json) |
 | Cookie Run: The Darkest Night - Chapter 1 | 272686 | [272686-cookie-run-the-darkest-night-chapter-1.json](./272686-cookie-run-the-darkest-night-chapter-1.json) |
@@ -16387,6 +16387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubstacle | 189375 | [189375-cubstacle.json](./189375-cubstacle.json) |
 | CuBuGo | 175130 | [175130-cubugo.json](./175130-cubugo.json) |
 | Cubuleto | 374124 | [374124-cubuleto.json](./374124-cubuleto.json) |
+| Cubus | 290882 | [290882-cubus.json](./290882-cubus.json) |
 | Cubway | 31800 | [31800-cubway.json](./31800-cubway.json) |
 | Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
 | Cuby Panic | 313988 | [313988-cuby-panic.json](./313988-cuby-panic.json) |
@@ -16398,6 +16399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuccchi | 159156 | [159156-cuccchi.json](./159156-cuccchi.json) |
 | Cucina Stellata: Starred Cuisine | 341891 | [341891-cucina-stellata-starred-cuisine.json](./341891-cucina-stellata-starred-cuisine.json) |
 | Cuckold Chair Simulator 2023 | 267303 | [267303-cuckold-chair-simulator-2023.json](./267303-cuckold-chair-simulator-2023.json) |
+| Cuckold House | 290891 | [290891-cuckold-house.json](./290891-cuckold-house.json) |
 | Cuckold Life Simulator | 375972 | [375972-cuckold-life-simulator.json](./375972-cuckold-life-simulator.json) |
 | Cuckold Sex: Episode 1 | 301643 | [301643-cuckold-sex-episode-1.json](./301643-cuckold-sex-episode-1.json) |
 | Cuckold Sex: Episode 2 | 301645 | [301645-cuckold-sex-episode-2.json](./301645-cuckold-sex-episode-2.json) |
