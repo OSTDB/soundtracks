@@ -219,8 +219,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 01 Deadliest Zone Catch: Boat Crab & Fishing Simulator | 263940 | [263940-01-deadliest-zone-catch-boat-crab-and-fishing-simulator.json](./263940-01-deadliest-zone-catch-boat-crab-and-fishing-simulator.json) |
 | 01's Blackhole | 200635 | [200635-01s-blackhole.json](./200635-01s-blackhole.json) |
 | 0101 | 303889 | [303889-0101.json](./303889-0101.json) |
+| 0101: Classic Bonus Levels 1 | 320799 | [320799-0101-classic-bonus-levels-1.json](./320799-0101-classic-bonus-levels-1.json) |
+| 0101: Classic Bonus Levels 2 | 320803 | [320803-0101-classic-bonus-levels-2.json](./320803-0101-classic-bonus-levels-2.json) |
 | 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
+| 0101: Counter Bonus Levels 1 | 320800 | [320800-0101-counter-bonus-levels-1.json](./320800-0101-counter-bonus-levels-1.json) |
+| 0101: Counter Bonus Levels 2 | 320804 | [320804-0101-counter-bonus-levels-2.json](./320804-0101-counter-bonus-levels-2.json) |
 | 0101: Counter Bonus Levels 3 | 325454 | [325454-0101-counter-bonus-levels-3.json](./325454-0101-counter-bonus-levels-3.json) |
+| 0101: Pusher Bonus Levels 1 | 320801 | [320801-0101-pusher-bonus-levels-1.json](./320801-0101-pusher-bonus-levels-1.json) |
+| 0101: Pusher Bonus Levels 2 | 320802 | [320802-0101-pusher-bonus-levels-2.json](./320802-0101-pusher-bonus-levels-2.json) |
 | 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
 | 027 | 278425 | [278425-027.json](./278425-027.json) |
 | 03:17 am | 315778 | [315778-03-17-am.json](./315778-03-17-am.json) |
