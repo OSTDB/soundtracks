@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Spooky | 393712 | [393712-secret-cats-spooky.json](./393712-secret-cats-spooky.json) |
 | Secret Cats: Spring Festival | 329765 | [329765-secret-cats-spring-festival.json](./329765-secret-cats-spring-festival.json) |
 | Secret Cats: St. Patrick | 334609 | [334609-secret-cats-st-patrick.json](./334609-secret-cats-st-patrick.json) |
+| Secret Cats: Winter | 324250 | [324250-secret-cats-winter.json](./324250-secret-cats-winter.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret Challenge | 342494 | [342494-secret-challenge.json](./342494-secret-challenge.json) |
 | Secret City: Chalk of Fate | 139731 | [139731-secret-city-chalk-of-fate.json](./139731-secret-city-chalk-of-fate.json) |
@@ -9754,6 +9755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
 | Sir Magical Jelly | 197027 | [197027-sir-magical-jelly.json](./197027-sir-magical-jelly.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
+| Sir Quest and the Temple of Apollo | 324279 | [324279-sir-quest-and-the-temple-of-apollo.json](./324279-sir-quest-and-the-temple-of-apollo.json) |
 | Sir Questionnaire | 96201 | [96201-sir-questionnaire.json](./96201-sir-questionnaire.json) |
 | Sir Squire | 220496 | [220496-sir-squire.json](./220496-sir-squire.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
@@ -19013,6 +19015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
 | Spoons III | 70369 | [70369-spoons-iii.json](./70369-spoons-iii.json) |
 | Spoop Troop | 304697 | [304697-spoop-troop.json](./304697-spoop-troop.json) |
+| Spoopcore 3D | 324263 | [324263-spoopcore-3d.json](./324263-spoopcore-3d.json) |
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spoopy Maryo | 318040 | [318040-spoopy-maryo.json](./318040-spoopy-maryo.json) |
 | Spoorky | 110897 | [110897-spoorky.json](./110897-spoorky.json) |
@@ -22101,6 +22104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Torrent | 369132 | [369132-steel-torrent.json](./369132-steel-torrent.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Vampire | 111415 | [111415-steel-vampire.json](./111415-steel-vampire.json) |
+| Steel Warrior | 324272 | [324272-steel-warrior.json](./324272-steel-warrior.json) |
 | Steel Wars Royale | 148368 | [148368-steel-wars-royale.json](./148368-steel-wars-royale.json) |
 | Steel Wolverines: Modern Armored Combat | 418233 | [418233-steel-wolverines-modern-armored-combat.json](./418233-steel-wolverines-modern-armored-combat.json) |
 | Steel Wool Studios Bundle | 240350 | [240350-steel-wool-studios-bundle.json](./240350-steel-wool-studios-bundle.json) |
@@ -23954,6 +23958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force 2004 | 273012 | [273012-strike-force-2004.json](./273012-strike-force-2004.json) |
 | Strike Force 3 | 260606 | [260606-strike-force-3.json](./260606-strike-force-3.json) |
 | Strike Force Bowling | 4185 | [4185-strike-force-bowling.json](./4185-strike-force-bowling.json) |
+| Strike Force Commando | 324277 | [324277-strike-force-commando.json](./324277-strike-force-commando.json) |
 | Strike Force Foxx | 85400 | [85400-strike-force-foxx.json](./85400-strike-force-foxx.json) |
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Heroes | 213516 | [213516-strike-force-heroes.json](./213516-strike-force-heroes.json) |
@@ -27512,6 +27517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
 | Super Rhino Turtle | 154320 | [154320-super-rhino-turtle.json](./154320-super-rhino-turtle.json) |
 | Super Rhythm Duel | 127213 | [127213-super-rhythm-duel.json](./127213-super-rhythm-duel.json) |
+| Super Ricko’s Islands | 324341 | [324341-super-ricko-s-islands.json](./324341-super-ricko-s-islands.json) |
 | Super Ricko's Odyssey | 333133 | [333133-super-rickos-odyssey.json](./333133-super-rickos-odyssey.json) |
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
 | Super RMN Bros. | 355166 | [355166-super-rmn-bros.json](./355166-super-rmn-bros.json) |
@@ -28946,6 +28952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
 | Survive the Silence | 368889 | [368889-survive-the-silence.json](./368889-survive-the-silence.json) |
 | Survive the Spin | 396490 | [396490-survive-the-spin.json](./396490-survive-the-spin.json) |
+| Survive the Squids | 324268 | [324268-survive-the-squids.json](./324268-survive-the-squids.json) |
 | Survive the Story | 173014 | [173014-survive-the-story.json](./173014-survive-the-story.json) |
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
