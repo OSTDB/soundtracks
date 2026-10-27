@@ -4454,7 +4454,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Nightmare | 212120 | [212120-into-the-nightmare.json](./212120-into-the-nightmare.json) |
 | Into The Noid | 276651 | [276651-into-the-noid.json](./276651-into-the-noid.json) |
 | Into the Planet's Flesh | 401626 | [401626-into-the-planets-flesh.json](./401626-into-the-planets-flesh.json) |
-| Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
 | Into the Restless Ruins | 295885 | [295885-into-the-restless-ruins.json](./295885-into-the-restless-ruins.json) |
 | Into the Sinkhole | 213201 | [213201-into-the-sinkhole.json](./213201-into-the-sinkhole.json) |
