@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 358071 | [358071-2048.json](./358071-2048.json) |
 | 2048 | 387159 | [387159-2048.json](./387159-2048.json) |
 | 2048 | 392962 | [392962-2048.json](./392962-2048.json) |
+| 2048 10x10 | 281417 | [281417-2048-10x10.json](./281417-2048-10x10.json) |
 | 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
 | 2048 7x7 | 231839 | [231839-2048-7x7.json](./231839-2048-7x7.json) |
 | 2048 8x8 | 250216 | [250216-2048-8x8.json](./250216-2048-8x8.json) |
@@ -1920,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Air Hockey | 154912 | [154912-3d-air-hockey.json](./154912-3d-air-hockey.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
 | 3D Atlas | 92624 | [92624-3d-atlas.json](./92624-3d-atlas.json) |
+| 3D Attack | 281225 | [281225-3d-attack.json](./281225-3d-attack.json) |
 | 3D Ball Blaster | 300007 | [300007-3d-ball-blaster.json](./300007-3d-ball-blaster.json) |
 | 3D Basketball Champs Elite | 101467 | [101467-3d-basketball-champs-elite.json](./101467-3d-basketball-champs-elite.json) |
 | 3D Bat Attack | 75231 | [75231-3d-bat-attack.json](./75231-3d-bat-attack.json) |
@@ -1931,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Bomb Alley | 8522 | [8522-3d-bomb-alley.json](./8522-3d-bomb-alley.json) |
 | 3D Bomberman | 198218 | [198218-3d-bomberman.json](./198218-3d-bomberman.json) |
 | 3D Bomberman Atomic | 198214 | [198214-3d-bomberman-atomic.json](./198214-3d-bomberman-atomic.json) |
+| 3D Bowling | 281224 | [281224-3d-bowling.json](./281224-3d-bowling.json) |
 | 3D Bowling Master | 105848 | [105848-3d-bowling-master.json](./105848-3d-bowling-master.json) |
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
 | 3D Breakthru | 14149 | [14149-3d-breakthru.json](./14149-3d-breakthru.json) |
@@ -2093,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Slime | 320843 | [320843-3d-slime.json](./320843-3d-slime.json) |
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
 | 3D Snowboard Resort Designer | 205950 | [205950-3d-snowboard-resort-designer.json](./205950-3d-snowboard-resort-designer.json) |
+| 3D Soccer | 281223 | [281223-3d-soccer.json](./281223-3d-soccer.json) |
 | 3D Sonic Action | 331719 | [331719-3d-sonic-action.json](./331719-3d-sonic-action.json) |
 | 3D Sonic the Hedgehog | 84656 | [84656-3d-sonic-the-hedgehog.json](./84656-3d-sonic-the-hedgehog.json) |
 | 3D Space Harrier | 47687 | [47687-3d-space-harrier.json](./47687-3d-space-harrier.json) |
