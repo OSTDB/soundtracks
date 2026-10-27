@@ -1425,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Chronicles: Haunting Tales | 321512 | [321512-jigsaw-chronicles-haunting-tales.json](./321512-jigsaw-chronicles-haunting-tales.json) |
 | Jigsaw Chronicles: Heroes of Legend | 317217 | [317217-jigsaw-chronicles-heroes-of-legend.json](./317217-jigsaw-chronicles-heroes-of-legend.json) |
 | Jigsaw Chronicles: Most Wanted | 325002 | [325002-jigsaw-chronicles-most-wanted.json](./325002-jigsaw-chronicles-most-wanted.json) |
+| Jigsaw City Princess | 332353 | [332353-jigsaw-city-princess.json](./332353-jigsaw-city-princess.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
 | Jigsaw Detective | 366437 | [366437-jigsaw-detective.json](./366437-jigsaw-detective.json) |
 | Jigsaw Explorer | 290261 | [290261-jigsaw-explorer.json](./290261-jigsaw-explorer.json) |
@@ -2120,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Lionface | 167541 | [167541-johnny-lionface.json](./167541-johnny-lionface.json) |
 | Johnny Mnemonic | 73241 | [73241-johnny-mnemonic.json](./73241-johnny-mnemonic.json) |
 | Johnny Nero Action Hero | 72993 | [72993-johnny-nero-action-hero.json](./72993-johnny-nero-action-hero.json) |
+| Johnny Ostad's Collection Bundle | 332352 | [332352-johnny-ostads-collection-bundle.json](./332352-johnny-ostads-collection-bundle.json) |
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
 | Johnny Platform's Biscuit Romp | 78301 | [78301-johnny-platforms-biscuit-romp.json](./78301-johnny-platforms-biscuit-romp.json) |
 | Johnny Rocketfingers Complete Game Collection! | 252680 | [252680-johnny-rocketfingers-complete-game-collection.json](./252680-johnny-rocketfingers-complete-game-collection.json) |
@@ -2832,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Warrior | 182799 | [182799-jump-warrior.json](./182799-jump-warrior.json) |
 | Jump with Friends | 118131 | [118131-jump-with-friends.json](./118131-jump-with-friends.json) |
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
+| Jump You+ | 332351 | [332351-jump-you.json](./332351-jump-you.json) |
 | Jump Yuusha | 222423 | [222423-jump-yuusha.json](./222423-jump-yuusha.json) |
 | Jump, challenge 100 floors | 247662 | [247662-jump-challenge-100-floors.json](./247662-jump-challenge-100-floors.json) |
 | Jump, Dodge, Die, Repeat | 246821 | [246821-jump-dodge-die-repeat.json](./246821-jump-dodge-die-repeat.json) |
@@ -3232,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Hunter | 151648 | [151648-jurassic-hunter.json](./151648-jurassic-hunter.json) |
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
 | Jurassic Island VR | 105702 | [105702-jurassic-island-vr.json](./105702-jurassic-island-vr.json) |
+| Jurassic Island: Little Dinosaur Park | 332358 | [332358-jurassic-island-little-dinosaur-park.json](./332358-jurassic-island-little-dinosaur-park.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
 | Jurassic Knights: Tactics | 311898 | [311898-jurassic-knights-tactics.json](./311898-jurassic-knights-tactics.json) |
 | Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
