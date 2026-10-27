@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrial | 339731 | [339731-electrial.json](./339731-electrial.json) |
 | ElectriarCode | 210220 | [210220-electriarcode.json](./210220-electriarcode.json) |
 | Electric | 187162 | [187162-electric.json](./187162-electric.json) |
+| Electric Blue: Gecko dash! | 297530 | [297530-electric-blue-gecko-dash.json](./297530-electric-blue-gecko-dash.json) |
 | Electric Car Tycoon | 217199 | [217199-electric-car-tycoon.json](./217199-electric-car-tycoon.json) |
 | Electric Crayon 3.1: At the Zoo | 68970 | [68970-electric-crayon-3-1-at-the-zoo.json](./68970-electric-crayon-3-1-at-the-zoo.json) |
 | Electric Crayon Deluxe: Dinosaurs Are Forever | 71765 | [71765-electric-crayon-deluxe-dinosaurs-are-forever.json](./71765-electric-crayon-deluxe-dinosaurs-are-forever.json) |
@@ -3324,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure | 81037 | [81037-endure.json](./81037-endure.json) |
 | Endure Island | 213976 | [213976-endure-island.json](./213976-endure-island.json) |
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
+| Endure the Swarm | 297425 | [297425-endure-the-swarm.json](./297425-endure-the-swarm.json) |
 | Enduring Mountain | 213999 | [213999-enduring-mountain.json](./213999-enduring-mountain.json) |
 | Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
 | Enduro Racer | 6666 | [6666-enduro-racer.json](./6666-enduro-racer.json) |
@@ -3733,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eormor: Shattered Lands | 120918 | [120918-eormor-shattered-lands.json](./120918-eormor-shattered-lands.json) |
 | Eos | 147330 | [147330-eos.json](./147330-eos.json) |
 | EOS Black | 393554 | [393554-eos-black.json](./393554-eos-black.json) |
+| EOS RED | 299201 | [299201-eos-red.json](./299201-eos-red.json) |
 | EOS-503 | 256991 | [256991-eos-503.json](./256991-eos-503.json) |
 | EOS: Edge of Skyhigh | 43798 | [43798-eos-edge-of-skyhigh.json](./43798-eos-edge-of-skyhigh.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
@@ -4288,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
 | Escape Artist: The Trial | 30591 | [30591-escape-artist-the-trial.json](./30591-escape-artist-the-trial.json) |
 | Escape Asylum | 96936 | [96936-escape-asylum.json](./96936-escape-asylum.json) |
+| Escape Baba Yaga | 298000 | [298000-escape-baba-yaga.json](./298000-escape-baba-yaga.json) |
 | Escape Backrooms Collection | 415388 | [415388-escape-backrooms-collection.json](./415388-escape-backrooms-collection.json) |
 | Escape Basement | 261206 | [261206-escape-basement.json](./261206-escape-basement.json) |
 | Escape Black Orion VR | 107408 | [107408-escape-black-orion-vr.json](./107408-escape-black-orion-vr.json) |
@@ -4332,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
 | Escape from Andromeda | 289733 | [289733-escape-from-andromeda.json](./289733-escape-from-andromeda.json) |
 | Escape From Area 51 | 390439 | [390439-escape-from-area-51.json](./390439-escape-from-area-51.json) |
+| Escape from Baba Yaga | 297995 | [297995-escape-from-baba-yaga.json](./297995-escape-from-baba-yaga.json) |
 | Escape from Bash Street School! | 312818 | [312818-escape-from-bash-street-school.json](./312818-escape-from-bash-street-school.json) |
 | Escape From Bell Cave | 166300 | [166300-escape-from-bell-cave.json](./166300-escape-from-bell-cave.json) |
 | Escape From Benjamin's Room | 347058 | [347058-escape-from-benjamins-room.json](./347058-escape-from-benjamins-room.json) |
