@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncrowned | 281909 | [281909-uncrowned.json](./281909-uncrowned.json) |
 | Unctrl | 320302 | [320302-unctrl.json](./320302-unctrl.json) |
 | Uncult | 264203 | [264203-uncult.json](./264203-uncult.json) |
+| Uncursed | 329491 | [329491-uncursed.json](./329491-uncursed.json) |
 | Uncursed | 331985 | [331985-uncursed.json](./331985-uncursed.json) |
 | Undake 30 UraGame Daisakusen | 341155 | [341155-undake-30-uragame-daisakusen.json](./341155-undake-30-uragame-daisakusen.json) |
 | Undake30 SameGame Daisakusen | 178914 | [178914-undake30-samegame-daisakusen.json](./178914-undake30-samegame-daisakusen.json) |
@@ -1647,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertunnel | 236369 | [236369-undertunnel.json](./236369-undertunnel.json) |
 | Undervault | 129771 | [129771-undervault.json](./129771-undervault.json) |
 | Underverse Battles | 261870 | [261870-underverse-battles.json](./261870-underverse-battles.json) |
+| Underward | 329494 | [329494-underward.json](./329494-underward.json) |
 | Underwater | 148361 | [148361-underwater.json](./148361-underwater.json) |
 | Underwater | 156217 | [156217-underwater.json](./156217-underwater.json) |
 | Underwater | 385399 | [385399-underwater.json](./385399-underwater.json) |
@@ -1727,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undying | 119360 | [119360-undying.json](./119360-undying.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
 | Undying Flame | 404173 | [404173-undying-flame.json](./404173-undying-flame.json) |
+| Undying Flower | 329481 | [329481-undying-flower.json](./329481-undying-flower.json) |
 | Undying Lantern | 197131 | [197131-undying-lantern.json](./197131-undying-lantern.json) |
 | Undying Memoir | 270646 | [270646-undying-memoir.json](./270646-undying-memoir.json) |
 | Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
