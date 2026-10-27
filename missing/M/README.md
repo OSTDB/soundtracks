@@ -8093,6 +8093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meshchera | 415882 | [415882-meshchera.json](./415882-meshchera.json) |
 | Meshimase Haramase | 97524 | [97524-meshimase-haramase.json](./97524-meshimase-haramase.json) |
+| Meshimase! Remilia Ojou-sama! | 324254 | [324254-meshimase-remilia-ojou-sama.json](./324254-meshimase-remilia-ojou-sama.json) |
 | Meshuda | 406213 | [406213-meshuda.json](./406213-meshuda.json) |
 | Mesih | 281386 | [281386-mesih.json](./281386-mesih.json) |
 | Mesmalie | 361116 | [361116-mesmalie.json](./361116-mesmalie.json) |
@@ -12414,6 +12415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modulea | 373823 | [373823-modulea.json](./373823-modulea.json) |
 | Modulo | 142774 | [142774-modulo.json](./142774-modulo.json) |
 | Modulor | 265321 | [265321-modulor.json](./265321-modulor.json) |
+| Modulus: Factory Automation | 324265 | [324265-modulus-factory-automation.json](./324265-modulus-factory-automation.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
 | Modyssey | 323234 | [323234-modyssey.json](./323234-modyssey.json) |
 | Moe | 113853 | [113853-moe.json](./113853-moe.json) |
@@ -18060,6 +18062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyHoriZen | 153935 | [153935-myhorizen.json](./153935-myhorizen.json) |
 | MyKonami Slots | 370753 | [370753-mykonami-slots.json](./370753-mykonami-slots.json) |
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
+| MyLittlePool | 324275 | [324275-mylittlepool.json](./324275-mylittlepool.json) |
 | Mylk | 146830 | [146830-mylk.json](./146830-mylk.json) |
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
 | MyMan | 93150 | [93150-myman.json](./93150-myman.json) |
