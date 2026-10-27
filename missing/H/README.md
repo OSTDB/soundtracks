@@ -1760,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley's Humongous Adventure | 20337 | [20337-harleys-humongous-adventure.json](./20337-harleys-humongous-adventure.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
 | Harm Other | 96502 | [96502-harm-other.json](./96502-harm-other.json) |
+| Harm: Weather Warfare | 286015 | [286015-harm-weather-warfare.json](./286015-harm-weather-warfare.json) |
 | Harma | 260566 | [260566-harma.json](./260566-harma.json) |
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | Harmful | 216170 | [216170-harmful.json](./216170-harmful.json) |
@@ -2716,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal The Survivors | 322130 | [322130-heal-the-survivors.json](./322130-heal-the-survivors.json) |
 | Heal Them All | 34299 | [34299-heal-them-all.json](./34299-heal-them-all.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
+| Healed To Death | 285830 | [285830-healed-to-death.json](./285830-healed-to-death.json) |
 | Healer | 257850 | [257850-healer.json](./257850-healer.json) |
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
 | Healer's Quest | 29380 | [29380-healers-quest.json](./29380-healers-quest.json) |
@@ -4637,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Seed Prison | 301668 | [301668-hentai-tales-seed-prison.json](./301668-hentai-tales-seed-prison.json) |
 | Hentai Tales: Sex Apartment | 275532 | [275532-hentai-tales-sex-apartment.json](./275532-hentai-tales-sex-apartment.json) |
 | Hentai Tales: Strange Land Apaku | 312721 | [312721-hentai-tales-strange-land-apaku.json](./312721-hentai-tales-strange-land-apaku.json) |
+| Hentai Tales: Succubus Utopia | 286140 | [286140-hentai-tales-succubus-utopia.json](./286140-hentai-tales-succubus-utopia.json) |
 | Hentai Tales: Taboo Sisters | 340456 | [340456-hentai-tales-taboo-sisters.json](./340456-hentai-tales-taboo-sisters.json) |
 | Hentai Tales: The Brave and Demon | 340457 | [340457-hentai-tales-the-brave-and-demon.json](./340457-hentai-tales-the-brave-and-demon.json) |
 | Hentai Tales: The Red Act In Lockdown | 389604 | [389604-hentai-tales-the-red-act-in-lockdown.json](./389604-hentai-tales-the-red-act-in-lockdown.json) |
