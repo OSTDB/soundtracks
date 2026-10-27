@@ -8552,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guadalcanal Campaign | 23992 | [23992-guadalcanal-campaign.json](./23992-guadalcanal-campaign.json) |
 | Guaishou | 177228 | [177228-guaishou.json](./177228-guaishou.json) |
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
+| Guano | 287488 | [287488-guano.json](./287488-guano.json) |
 | Guano Gladiators | 38733 | [38733-guano-gladiators.json](./38733-guano-gladiators.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guānyú Wǒ Bèi Xuéjiě Jiǎn Huí Jiā Dāng Nǚyǒu Zhè Jiàn Shì | 397226 | [397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json](./397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json) |
