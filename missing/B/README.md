@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Ashes | 14290 | [14290-battle-for-the-ashes.json](./14290-battle-for-the-ashes.json) |
 | Battle for the Board | 259091 | [259091-battle-for-the-board.json](./259091-battle-for-the-board.json) |
 | Battle for the Galaxy | 54955 | [54955-battle-for-the-galaxy.json](./54955-battle-for-the-galaxy.json) |
+| Battle For The Hill | 294123 | [294123-battle-for-the-hill.json](./294123-battle-for-the-hill.json) |
 | Battle for the Kingdom | 156631 | [156631-battle-for-the-kingdom.json](./156631-battle-for-the-kingdom.json) |
 | Battle for the Mountain Throne | 98456 | [98456-battle-for-the-mountain-throne.json](./98456-battle-for-the-mountain-throne.json) |
 | Battle for the Raise | 391817 | [391817-battle-for-the-raise.json](./391817-battle-for-the-raise.json) |
@@ -4017,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Clicker | 355136 | [355136-bdsm-clicker.json](./355136-bdsm-clicker.json) |
 | BDSM Fuel Station: Interactive Physics Simulation | 326287 | [326287-bdsm-fuel-station-interactive-physics-simulation.json](./326287-bdsm-fuel-station-interactive-physics-simulation.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
+| BDSM Sex: Episode 1 | 294195 | [294195-bdsm-sex-episode-1.json](./294195-bdsm-sex-episode-1.json) |
 | BDSM Sex: Episode 2 | 295381 | [295381-bdsm-sex-episode-2.json](./295381-bdsm-sex-episode-2.json) |
 | BDSM Sex: Episode 3 | 295382 | [295382-bdsm-sex-episode-3.json](./295382-bdsm-sex-episode-3.json) |
 | BDSM Sex: Episode 4 | 295383 | [295383-bdsm-sex-episode-4.json](./295383-bdsm-sex-episode-4.json) |
@@ -14965,6 +14967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Renovator | 216649 | [216649-bunker-renovator.json](./216649-bunker-renovator.json) |
 | Bunker Tidy Up | 417324 | [417324-bunker-tidy-up.json](./417324-bunker-tidy-up.json) |
 | Bunker: Nightmare Begins | 116925 | [116925-bunker-nightmare-begins.json](./116925-bunker-nightmare-begins.json) |
+| Bunker's Shadow | 293113 | [293113-bunkers-shadow.json](./293113-bunkers-shadow.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunkered with Femboy | 388175 | [388175-bunkered-with-femboy.json](./388175-bunkered-with-femboy.json) |
 | BunkerSim | 77794 | [77794-bunkersim.json](./77794-bunkersim.json) |
@@ -15010,6 +15013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Garden | 294658 | [294658-bunny-garden.json](./294658-bunny-garden.json) |
 | Bunny Garden 2 | 375379 | [375379-bunny-garden-2.json](./375379-bunny-garden-2.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
+| Bunny Guntz | 294189 | [294189-bunny-guntz.json](./294189-bunny-guntz.json) |
 | Bunny Guys! | 258361 | [258361-bunny-guys.json](./258361-bunny-guys.json) |
 | Bunny Haven | 383737 | [383737-bunny-haven.json](./383737-bunny-haven.json) |
 | Bunny Hill | 139879 | [139879-bunny-hill.json](./139879-bunny-hill.json) |
@@ -15624,6 +15628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Killer | 128305 | [128305-butterfly-killer.json](./128305-butterfly-killer.json) |
 | Butterfly Moment | 63719 | [63719-butterfly-moment.json](./63719-butterfly-moment.json) |
+| Butterfly Simulator | 293114 | [293114-butterfly-simulator.json](./293114-butterfly-simulator.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
 | Butterfly Soup | 69414 | [69414-butterfly-soup.json](./69414-butterfly-soup.json) |
 | Butterfly Soup 2 | 165549 | [165549-butterfly-soup-2.json](./165549-butterfly-soup-2.json) |
