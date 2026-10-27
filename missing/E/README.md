@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Over It: Fall Flat From the Top | 201560 | [201560-egg-over-it-fall-flat-from-the-top.json](./201560-egg-over-it-fall-flat-from-the-top.json) |
 | Egg Rabbit | 157423 | [157423-egg-rabbit.json](./157423-egg-rabbit.json) |
 | Egg Raiders | 320784 | [320784-egg-raiders.json](./320784-egg-raiders.json) |
+| Egg RTX | 288707 | [288707-egg-rtx.json](./288707-egg-rtx.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Egg Splash | 89194 | [89194-egg-splash.json](./89194-egg-splash.json) |
 | Egg Squeeze | 318509 | [318509-egg-squeeze.json](./318509-egg-squeeze.json) |
@@ -4089,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erayu | 58903 | [58903-erayu.json](./58903-erayu.json) |
 | Erazer: Devise & Destroy | 164058 | [164058-erazer-devise-and-destroy.json](./164058-erazer-devise-and-destroy.json) |
 | Erdetspill | 411414 | [411414-erdetspill.json](./411414-erdetspill.json) |
+| Erdluitl: Legends of Below | 288708 | [288708-erdluitl-legends-of-below.json](./288708-erdluitl-legends-of-below.json) |
 | EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
@@ -6255,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evoscape | 325301 | [325301-evoscape.json](./325301-evoscape.json) |
 | Evospace | 114069 | [114069-evospace.json](./114069-evospace.json) |
 | EvoSprout | 382288 | [382288-evosprout.json](./382288-evosprout.json) |
+| Evostrike | 288800 | [288800-evostrike.json](./288800-evostrike.json) |
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
 | Evotinction | 115848 | [115848-evotinction.json](./115848-evotinction.json) |
 | EvoTown | 136408 | [136408-evotown.json](./136408-evotown.json) |
