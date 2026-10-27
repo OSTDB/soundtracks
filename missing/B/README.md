@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Bad Writer | 195016 | [195016-bad-writer.json](./195016-bad-writer.json) |
 | Bad-Boon Strikes Back | 341706 | [341706-bad-boon-strikes-back.json](./341706-bad-boon-strikes-back.json) |
+| Bad-Draw | 330053 | [330053-bad-draw.json](./330053-bad-draw.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
 | Badaboom: Deluxe Edition | 281948 | [281948-badaboom-deluxe-edition.json](./281948-badaboom-deluxe-edition.json) |
@@ -6109,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond: The Static | 108901 | [108901-beyond-the-static.json](./108901-beyond-the-static.json) |
 | Beyond.Frontiers | 316733 | [316733-beyond-frontiers.json](./316733-beyond-frontiers.json) |
 | Beyonders | 408275 | [408275-beyonders.json](./408275-beyonders.json) |
+| BeyondSonic | 330094 | [330094-beyondsonic.json](./330094-beyondsonic.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | Bez-MX | 282097 | [282097-bez-mx.json](./282097-bez-mx.json) |
 | Bezier: Second Edition | 142701 | [142701-bezier-second-edition.json](./142701-bezier-second-edition.json) |
