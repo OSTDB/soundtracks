@@ -6740,6 +6740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Chiko 2 | 305490 | [305490-lost-chiko-2.json](./305490-lost-chiko-2.json) |
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
 | Lost Children of the Mansion | 392857 | [392857-lost-children-of-the-mansion.json](./392857-lost-children-of-the-mansion.json) |
+| Lost Chronicles | 296851 | [296851-lost-chronicles.json](./296851-lost-chronicles.json) |
 | Lost Chronicles of Zerzura | 17559 | [17559-lost-chronicles-of-zerzura.json](./17559-lost-chronicles-of-zerzura.json) |
 | Lost Chronicles: Fall of Caesar | 137437 | [137437-lost-chronicles-fall-of-caesar.json](./137437-lost-chronicles-fall-of-caesar.json) |
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
@@ -6850,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Abyss | 156895 | [156895-lost-in-abyss.json](./156895-lost-in-abyss.json) |
 | Lost in Anomaly | 325622 | [325622-lost-in-anomaly.json](./325622-lost-in-anomaly.json) |
 | Lost in Art | 407328 | [407328-lost-in-art.json](./407328-lost-in-art.json) |
+| Lost in Art: A Miniature Realm | 296865 | [296865-lost-in-art-a-miniature-realm.json](./296865-lost-in-art-a-miniature-realm.json) |
 | Lost in Bardo | 74954 | [74954-lost-in-bardo.json](./74954-lost-in-bardo.json) |
 | Lost in Blindness | 146709 | [146709-lost-in-blindness.json](./146709-lost-in-blindness.json) |
 | Lost in Blue | 175759 | [175759-lost-in-blue.json](./175759-lost-in-blue.json) |
@@ -8242,11 +8244,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
 | Luminous Arc Infinity | 25101 | [25101-luminous-arc-infinity.json](./25101-luminous-arc-infinity.json) |
 | Luminous Combat | 95607 | [95607-luminous-combat.json](./95607-luminous-combat.json) |
+| Luminous Crusader | 296961 | [296961-luminous-crusader.json](./296961-luminous-crusader.json) |
 | Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
 | Luminous Nights | 224725 | [224725-luminous-nights.json](./224725-luminous-nights.json) |
 | Luminous of Stellar | 228486 | [228486-luminous-of-stellar.json](./228486-luminous-of-stellar.json) |
 | Luminous Plume | 140981 | [140981-luminous-plume.json](./140981-luminous-plume.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
+| Luminous Skies: Interstellar | 296962 | [296962-luminous-skies-interstellar.json](./296962-luminous-skies-interstellar.json) |
 | Luminous Storia | 374208 | [374208-luminous-storia.json](./374208-luminous-storia.json) |
 | Luminous Threads: A Visual Novel | 306414 | [306414-luminous-threads-a-visual-novel.json](./306414-luminous-threads-a-visual-novel.json) |
 | Luminus | 169657 | [169657-luminus.json](./169657-luminus.json) |
@@ -8336,6 +8340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Ball | 92281 | [92281-lunar-ball.json](./92281-lunar-ball.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
 | Lunar Chrysalis | 406077 | [406077-lunar-chrysalis.json](./406077-lunar-chrysalis.json) |
+| Lunar City Builder | 296963 | [296963-lunar-city-builder.json](./296963-lunar-city-builder.json) |
 | Lunar Command | 73499 | [73499-lunar-command.json](./73499-lunar-command.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
@@ -8366,6 +8371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar maiden, River-side Angel, and the Godlike Moment | 258884 | [258884-lunar-maiden-river-side-angel-and-the-godlike-moment.json](./258884-lunar-maiden-river-side-angel-and-the-godlike-moment.json) |
 | Lunar Manor | 113619 | [113619-lunar-manor.json](./113619-lunar-manor.json) |
 | Lunar Mirror | 371624 | [371624-lunar-mirror.json](./371624-lunar-mirror.json) |
+| Lunar Mirror: Moon Night Without Light | 296964 | [296964-lunar-mirror-moon-night-without-light.json](./296964-lunar-mirror-moon-night-without-light.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Mystery 2103 | 387480 | [387480-lunar-mystery-2103.json](./387480-lunar-mystery-2103.json) |
 | Lunar New Year Lanterns | 369879 | [369879-lunar-new-year-lanterns.json](./369879-lunar-new-year-lanterns.json) |
@@ -8508,6 +8514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusófona Games Collection 2023 | 260335 | [260335-lusofona-games-collection-2023.json](./260335-lusofona-games-collection-2023.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
+| Lust & Legends | 296965 | [296965-lust-and-legends.json](./296965-lust-and-legends.json) |
 | Lust & Magic: Chisalla in a Flower Basket | 199775 | [199775-lust-and-magic-chisalla-in-a-flower-basket.json](./199775-lust-and-magic-chisalla-in-a-flower-basket.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
 | Lust Academy: Season 2 | 223351 | [223351-lust-academy-season-2.json](./223351-lust-academy-season-2.json) |
