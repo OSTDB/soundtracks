@@ -7261,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamlurker | 271632 | [271632-the-dreamlurker.json](./271632-the-dreamlurker.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
 | The Dreams of Candlelight | 128220 | [128220-the-dreams-of-candlelight.json](./128220-the-dreams-of-candlelight.json) |
+| The Dreams of Fritz | 312598 | [312598-the-dreams-of-fritz.json](./312598-the-dreams-of-fritz.json) |
 | The Dreamscape | 339203 | [339203-the-dreamscape.json](./339203-the-dreamscape.json) |
 | The Dreamwalkers | 127221 | [127221-the-dreamwalkers.json](./127221-the-dreamwalkers.json) |
 | The Dreamwell Enigma: Barlington Estate | 276376 | [276376-the-dreamwell-enigma-barlington-estate.json](./276376-the-dreamwell-enigma-barlington-estate.json) |
@@ -9542,6 +9543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
 | The Invisible Hand | 25224 | [25224-the-invisible-hand.json](./25224-the-invisible-hand.json) |
 | The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
+| The Invisible Smoke Factory | 312592 | [312592-the-invisible-smoke-factory.json](./312592-the-invisible-smoke-factory.json) |
 | The Invisible Us | 378532 | [378532-the-invisible-us.json](./378532-the-invisible-us.json) |
 | The IOTA Project | 55671 | [55671-the-iota-project.json](./55671-the-iota-project.json) |
 | The Irate Gamer Game | 20195 | [20195-the-irate-gamer-game.json](./20195-the-irate-gamer-game.json) |
