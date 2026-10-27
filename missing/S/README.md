@@ -2439,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schacht | 31775 | [31775-schacht.json](./31775-schacht.json) |
 | Schäferstündchen Adventures | 78920 | [78920-schaferstundchen-adventures.json](./78920-schaferstundchen-adventures.json) |
 | SchafkopfSpiel | 141048 | [141048-schafkopfspiel.json](./141048-schafkopfspiel.json) |
+| Schape Dodger | 326530 | [326530-schape-dodger.json](./326530-schape-dodger.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | Schastye | 158408 | [158408-schastye.json](./158408-schastye.json) |
 | Schatte: The Witch and the Fake Shadow | 74917 | [74917-schatte-the-witch-and-the-fake-shadow.json](./74917-schatte-the-witch-and-the-fake-shadow.json) |
@@ -6440,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered State | 203750 | [203750-shattered-state.json](./203750-shattered-state.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
+| Shattered Time | 326539 | [326539-shattered-time.json](./326539-shattered-time.json) |
 | Shattered Union | 6046 | [6046-shattered-union.json](./6046-shattered-union.json) |
 | Shattered Vault | 390783 | [390783-shattered-vault.json](./390783-shattered-vault.json) |
 | Shattered Void | 340380 | [340380-shattered-void.json](./340380-shattered-void.json) |
@@ -9038,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
 | Silver Vault | 164066 | [164066-silver-vault.json](./164066-silver-vault.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
+| Silver's Adventure | 326552 | [326552-silvers-adventure.json](./326552-silvers-adventure.json) |
 | Silverball | 76466 | [76466-silverball.json](./76466-silverball.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
@@ -14567,6 +14570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Debut | 337169 | [337169-sonic-debut.json](./337169-sonic-debut.json) |
 | Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
 | Sonic Delta 40Mb | 141474 | [141474-sonic-delta-40mb.json](./141474-sonic-delta-40mb.json) |
+| Sonic Delta: Chaos Collision | 326548 | [326548-sonic-delta-chaos-collision.json](./326548-sonic-delta-chaos-collision.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Digitalized | 326152 | [326152-sonic-digitalized.json](./326152-sonic-digitalized.json) |
 | Sonic Dimensional Funkin' | 271066 | [271066-sonic-dimensional-funkin.json](./271066-sonic-dimensional-funkin.json) |
@@ -14598,6 +14602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic EVO | 331724 | [331724-sonic-evo.json](./331724-sonic-evo.json) |
 | Sonic Exe One More Round | 307225 | [307225-sonic-exe-one-more-round.json](./307225-sonic-exe-one-more-round.json) |
 | Sonic Exe One More Time | 307224 | [307224-sonic-exe-one-more-time.json](./307224-sonic-exe-one-more-time.json) |
+| Sonic EXP | 326549 | [326549-sonic-exp.json](./326549-sonic-exp.json) |
 | Sonic Fan Remix | 228589 | [228589-sonic-fan-remix.json](./228589-sonic-fan-remix.json) |
 | Sonic Fever | 321077 | [321077-sonic-fever.json](./321077-sonic-fever.json) |
 | Sonic FGX | 299995 | [299995-sonic-fgx.json](./299995-sonic-fgx.json) |
@@ -14685,6 +14690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Inflation Adventure | 140538 | [140538-sonic-inflation-adventure.json](./140538-sonic-inflation-adventure.json) |
 | Sonic Into Cyberspace | 316485 | [316485-sonic-into-cyberspace.json](./316485-sonic-into-cyberspace.json) |
 | Sonic into the Black Sea | 417671 | [417671-sonic-into-the-black-sea.json](./417671-sonic-into-the-black-sea.json) |
+| Sonic Involution | 326553 | [326553-sonic-involution.json](./326553-sonic-involution.json) |
 | Sonic Island: Lost Paradise | 317512 | [317512-sonic-island-lost-paradise.json](./317512-sonic-island-lost-paradise.json) |
 | Sonic Islands | 368089 | [368089-sonic-islands.json](./368089-sonic-islands.json) |
 | Sonic Jam | 133930 | [133930-sonic-jam.json](./133930-sonic-jam.json) |
@@ -14792,6 +14798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Pocket Advance | 330589 | [330589-sonic-pocket-advance.json](./330589-sonic-pocket-advance.json) |
 | Sonic Point of Action | 326136 | [326136-sonic-point-of-action.json](./326136-sonic-point-of-action.json) |
 | Sonic Pong 2 | 330696 | [330696-sonic-pong-2.json](./330696-sonic-pong-2.json) |
+| Sonic Portals | 326547 | [326547-sonic-portals.json](./326547-sonic-portals.json) |
 | Sonic Power of Nitro | 330305 | [330305-sonic-power-of-nitro.json](./330305-sonic-power-of-nitro.json) |
 | Sonic Powerdrift | 330710 | [330710-sonic-powerdrift.json](./330710-sonic-powerdrift.json) |
 | Sonic Powered Up | 333939 | [333939-sonic-powered-up.json](./333939-sonic-powered-up.json) |
@@ -14884,6 +14891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
 | Sonic Roll-a-Ball | 326162 | [326162-sonic-roll-a-ball.json](./326162-sonic-roll-a-ball.json) |
 | Sonic Roller 1 & 2 Deluxe | 330550 | [330550-sonic-roller-1-and-2-deluxe.json](./330550-sonic-roller-1-and-2-deluxe.json) |
+| Sonic Roller Enby | 326538 | [326538-sonic-roller-enby.json](./326538-sonic-roller-enby.json) |
 | Sonic RPG | 330459 | [330459-sonic-rpg.json](./330459-sonic-rpg.json) |
 | Sonic RPG: Episode 10 | 333982 | [333982-sonic-rpg-episode-10.json](./333982-sonic-rpg-episode-10.json) |
 | Sonic RPG: Episode 7 | 273562 | [273562-sonic-rpg-episode-7.json](./273562-sonic-rpg-episode-7.json) |
@@ -15034,6 +15042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: A New Adventure | 361629 | [361629-sonic-the-hedgehog-a-new-adventure.json](./361629-sonic-the-hedgehog-a-new-adventure.json) |
 | Sonic the Hedgehog: Blasting Adventure | 317704 | [317704-sonic-the-hedgehog-blasting-adventure.json](./317704-sonic-the-hedgehog-blasting-adventure.json) |
 | Sonic the Hedgehog: Borderline | 318516 | [318516-sonic-the-hedgehog-borderline.json](./318516-sonic-the-hedgehog-borderline.json) |
+| Sonic the Hedgehog: Brutus | 326550 | [326550-sonic-the-hedgehog-brutus.json](./326550-sonic-the-hedgehog-brutus.json) |
 | Sonic the Hedgehog: Chaos Delta | 335712 | [335712-sonic-the-hedgehog-chaos-delta.json](./335712-sonic-the-hedgehog-chaos-delta.json) |
 | Sonic the Hedgehog: Chaos Factor | 330963 | [330963-sonic-the-hedgehog-chaos-factor.json](./330963-sonic-the-hedgehog-chaos-factor.json) |
 | Sonic the Hedgehog: Chaos Spirits | 331396 | [331396-sonic-the-hedgehog-chaos-spirits.json](./331396-sonic-the-hedgehog-chaos-spirits.json) |
@@ -20252,6 +20261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
 | Star Legends Pro (Dreamsky) | 97168 | [97168-star-legends-pro-dreamsky.json](./97168-star-legends-pro-dreamsky.json) |
+| Star Life | 326515 | [326515-star-life.json](./326515-star-life.json) |
 | Star Light | 100271 | [100271-star-light.json](./100271-star-light.json) |
 | Star Light Dynamics | 313961 | [313961-star-light-dynamics.json](./313961-star-light-dynamics.json) |
 | Star Loot | 348259 | [348259-star-loot.json](./348259-star-loot.json) |
@@ -23120,6 +23130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stradiwackius: The Counting Concert | 207114 | [207114-stradiwackius-the-counting-concert.json](./207114-stradiwackius-the-counting-concert.json) |
 | Strafest | 397854 | [397854-strafest.json](./397854-strafest.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
+| Straftat: Weapons, Maps and Hats | 326569 | [326569-straftat-weapons-maps-and-hats.json](./326569-straftat-weapons-maps-and-hats.json) |
 | Strahl | 4336 | [4336-strahl.json](./4336-strahl.json) |
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
 | Straight Ahead | 187394 | [187394-straight-ahead.json](./187394-straight-ahead.json) |
@@ -24275,6 +24286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Dog Find Out HD | 232496 | [232496-stupid-dog-find-out-hd.json](./232496-stupid-dog-find-out-hd.json) |
 | Stupid Horse Channel | 353808 | [353808-stupid-horse-channel.json](./353808-stupid-horse-channel.json) |
 | Stupid Never Dies | 381212 | [381212-stupid-never-dies.json](./381212-stupid-never-dies.json) |
+| Stupid Ninjas | 326561 | [326561-stupid-ninjas.json](./326561-stupid-ninjas.json) |
 | Stupid Quest | 116814 | [116814-stupid-quest.json](./116814-stupid-quest.json) |
 | Stupid Raft Battle Simulator | 29375 | [29375-stupid-raft-battle-simulator.json](./29375-stupid-raft-battle-simulator.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
@@ -24983,6 +24995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Runners | 269207 | [269207-suicide-runners.json](./269207-suicide-runners.json) |
 | Suicide Squad: Kill The Justice League - Deluxe Edition | 239147 | [239147-suicide-squad-kill-the-justice-league-deluxe-edition.json](./239147-suicide-squad-kill-the-justice-league-deluxe-edition.json) |
 | Suicide Squad: Kill the Justice League - Season 3: Season of Lawless | 321529 | [321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json](./321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json) |
+| Suicide Squad: Kill the Justice League - Season of Deathstroke | 326557 | [326557-suicide-squad-kill-the-justice-league-season-of-deathstroke.json](./326557-suicide-squad-kill-the-justice-league-season-of-deathstroke.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
 | Suicide Squad: Kill the Justice League - Season of the Joker | 317868 | [317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json](./317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json) |
 | Suicide Strike | 8404 | [8404-suicide-strike.json](./8404-suicide-strike.json) |
@@ -28501,8 +28514,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar YG | 178345 | [178345-superstar-yg.json](./178345-superstar-yg.json) |
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
 | Superstein | 235865 | [235865-superstein.json](./235865-superstein.json) |
+| Superstition | 326522 | [326522-superstition.json](./326522-superstition.json) |
 | Superstition BlackCat | 330331 | [330331-superstition-blackcat.json](./330331-superstition-blackcat.json) |
 | Superstition S2 | 177357 | [177357-superstition-s2.json](./177357-superstition-s2.json) |
+| Superstition S3 | 326524 | [326524-superstition-s3.json](./326524-superstition-s3.json) |
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
 | Superstorm Melon Date | 169734 | [169734-superstorm-melon-date.json](./169734-superstorm-melon-date.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
@@ -29758,6 +29773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch Galaxy | 22198 | [22198-switch-galaxy.json](./22198-switch-galaxy.json) |
 | Switch Galaxy Ultra | 35517 | [35517-switch-galaxy-ultra.json](./35517-switch-galaxy-ultra.json) |
+| Switch Girl: Special Rescue Beauty | 326543 | [326543-switch-girl-special-rescue-beauty.json](./326543-switch-girl-special-rescue-beauty.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
 | Switch or Not? | 95951 | [95951-switch-or-not.json](./95951-switch-or-not.json) |
 | Switch Poker | 339427 | [339427-switch-poker.json](./339427-switch-poker.json) |
