@@ -3457,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts'n Goblins Arcade | 41139 | [41139-ghostsn-goblins-arcade.json](./41139-ghostsn-goblins-arcade.json) |
 | Ghostscape | 80158 | [80158-ghostscape.json](./80158-ghostscape.json) |
 | Ghostship | 417396 | [417396-ghostship.json](./417396-ghostship.json) |
+| Ghostslayers | 325369 | [325369-ghostslayers.json](./325369-ghostslayers.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
 | Ghostus | 263329 | [263329-ghostus.json](./263329-ghostus.json) |
 | Ghostwage | 224694 | [224694-ghostwage.json](./224694-ghostwage.json) |
@@ -4012,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
 | Gladiators Idle | 340304 | [340304-gladiators-idle.json](./340304-gladiators-idle.json) |
 | Gladiators Manager | 155861 | [155861-gladiators-manager.json](./155861-gladiators-manager.json) |
+| Gladiators of Citadelum | 325357 | [325357-gladiators-of-citadelum.json](./325357-gladiators-of-citadelum.json) |
 | Gladiators of Roma Revixit | 374369 | [374369-gladiators-of-roma-revixit.json](./374369-gladiators-of-roma-revixit.json) |
 | Gladiators of the Arena | 90403 | [90403-gladiators-of-the-arena.json](./90403-gladiators-of-the-arena.json) |
 | Gladiators Simulator: The Champions of Liberty | 342399 | [342399-gladiators-simulator-the-champions-of-liberty.json](./342399-gladiators-simulator-the-champions-of-liberty.json) |
