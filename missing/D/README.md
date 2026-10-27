@@ -4090,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | deathwish | 318690 | [318690-deathwish.json](./318690-deathwish.json) |
 | Deathwish | 215541 | [215541-deathwish.json](./215541-deathwish.json) |
 | Deathwish Enforcers | 203766 | [203766-deathwish-enforcers.json](./203766-deathwish-enforcers.json) |
+| Deathwish Enforcers: Special Edition | 305225 | [305225-deathwish-enforcers-special-edition.json](./305225-deathwish-enforcers-special-edition.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
 | Debauchery & Magic | 420588 | [420588-debauchery-and-magic.json](./420588-debauchery-and-magic.json) |
@@ -8659,6 +8660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Definitive Edition | 41590 | [41590-dishonored-definitive-edition.json](./41590-dishonored-definitive-edition.json) |
 | Dishonored: The Knife of Dunwall | 14568 | [14568-dishonored-the-knife-of-dunwall.json](./14568-dishonored-the-knife-of-dunwall.json) |
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
+| Dishop | 305121 | [305121-dishop.json](./305121-dishop.json) |
 | Dishventory | 347110 | [347110-dishventory.json](./347110-dishventory.json) |
 | Dishwasher | 103436 | [103436-dishwasher.json](./103436-dishwasher.json) |
 | Dishwashing Simulator | 291513 | [291513-dishwashing-simulator.json](./291513-dishwashing-simulator.json) |
@@ -15412,6 +15414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Erotic Master Plus | 307265 | [307265-dungeon-of-erotic-master-plus.json](./307265-dungeon-of-erotic-master-plus.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
 | Dungeon of Eyden | 155943 | [155943-dungeon-of-eyden.json](./155943-dungeon-of-eyden.json) |
+| Dungeon of Fercho'po | 305259 | [305259-dungeon-of-ferchopo.json](./305259-dungeon-of-ferchopo.json) |
 | Dungeon of Final Glory | 219765 | [219765-dungeon-of-final-glory.json](./219765-dungeon-of-final-glory.json) |
 | Dungeon of Gods | 199915 | [199915-dungeon-of-gods.json](./199915-dungeon-of-gods.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
