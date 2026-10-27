@@ -6717,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Castle: The Old Ones Awaken | 168060 | [168060-lost-castle-the-old-ones-awaken.json](./168060-lost-castle-the-old-ones-awaken.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
+| Lost Chakras | 305821 | [305821-lost-chakras.json](./305821-lost-chakras.json) |
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
 | Lost Chiko 2 | 305490 | [305490-lost-chiko-2.json](./305490-lost-chiko-2.json) |
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
