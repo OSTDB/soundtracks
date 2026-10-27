@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Dungeon | 220186 | [220186-impossible-dungeon.json](./220186-impossible-dungeon.json) |
 | Impossible Fighter Frog | 86554 | [86554-impossible-fighter-frog.json](./86554-impossible-fighter-frog.json) |
 | Impossible Flappy | 87896 | [87896-impossible-flappy.json](./87896-impossible-flappy.json) |
+| Impossible Game | 292574 | [292574-impossible-game.json](./292574-impossible-game.json) |
 | Impossible Geometry | 34358 | [34358-impossible-geometry.json](./34358-impossible-geometry.json) |
 | Impossible Golf: Worldwide Fantasy Tour | 210083 | [210083-impossible-golf-worldwide-fantasy-tour.json](./210083-impossible-golf-worldwide-fantasy-tour.json) |
 | Impossible Island | 302770 | [302770-impossible-island.json](./302770-impossible-island.json) |
