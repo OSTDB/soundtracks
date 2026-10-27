@@ -9892,6 +9892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
 | Miko No Kanata: Curious Tales from the Shrine -Ne no Shou- | 83361 | [83361-miko-no-kanata-curious-tales-from-the-shrine-ne-no-shou.json](./83361-miko-no-kanata-curious-tales-from-the-shrine-ne-no-shou.json) |
 | Miko No Kanata: Curious Tales from the Shrine -Rin no Shou- | 83389 | [83389-miko-no-kanata-curious-tales-from-the-shrine-rin-no-shou.json](./83389-miko-no-kanata-curious-tales-from-the-shrine-rin-no-shou.json) |
+| Miko Sniper | 302335 | [302335-miko-sniper.json](./302335-miko-sniper.json) |
 | Miko to Akemi no Jungle Adventures | 137855 | [137855-miko-to-akemi-no-jungle-adventures.json](./137855-miko-to-akemi-no-jungle-adventures.json) |
 | Miko x Miko Sisters: Kagura-kei no Miko to Akuryou | 333522 | [333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json](./333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json) |
 | Miko-san Fighter! Ryouko-chan | 395756 | [395756-miko-san-fighter-ryouko-chan.json](./395756-miko-san-fighter-ryouko-chan.json) |
@@ -12939,6 +12940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Mansion | 170350 | [170350-money-mansion.json](./170350-money-mansion.json) |
 | Money Maze | 221897 | [221897-money-maze.json](./221897-money-maze.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
+| Money Money Run | 302394 | [302394-money-money-run.json](./302394-money-money-run.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
 | Money Movers | 95982 | [95982-money-movers.json](./95982-money-movers.json) |
 | Money Movers 2 | 95983 | [95983-money-movers-2.json](./95983-money-movers-2.json) |
@@ -15371,6 +15373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouldog | 372723 | [372723-mouldog.json](./372723-mouldog.json) |
 | Mouldy Old Void | 303020 | [303020-mouldy-old-void.json](./303020-mouldy-old-void.json) |
 | Moulin Rouge Senki: Melville no Honoo | 48816 | [48816-moulin-rouge-senki-melville-no-honoo.json](./48816-moulin-rouge-senki-melville-no-honoo.json) |
+| Mound of Music | 302334 | [302334-mound-of-music.json](./302334-mound-of-music.json) |
 | Moundville Factory Lost Tape 89 | 285402 | [285402-moundville-factory-lost-tape-89.json](./285402-moundville-factory-lost-tape-89.json) |
 | Mount & Blade Collection | 54229 | [54229-mount-and-blade-collection.json](./54229-mount-and-blade-collection.json) |
 | Mount & Blade Full Collection | 53364 | [53364-mount-and-blade-full-collection.json](./53364-mount-and-blade-full-collection.json) |
