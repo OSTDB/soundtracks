@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackeRPG | 280125 | [280125-hackerpg.json](./280125-hackerpg.json) |
 | Hackers | 80455 | [80455-hackers.json](./80455-hackers.json) |
 | Hackerwars.io | 139874 | [139874-hackerwars-io.json](./139874-hackerwars-io.json) |
+| HackHub: Ultimate Hacker Simulator | 304523 | [304523-hackhub-ultimate-hacker-simulator.json](./304523-hackhub-ultimate-hacker-simulator.json) |
 | Hacking Ball 3D | 193237 | [193237-hacking-ball-3d.json](./193237-hacking-ball-3d.json) |
 | Hacking for Hermann | 199369 | [199369-hacking-for-hermann.json](./199369-hacking-for-hermann.json) |
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
@@ -1335,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
 | Happy Cook | 200118 | [200118-happy-cook.json](./200118-happy-cook.json) |
 | Happy Cookies | 365261 | [365261-happy-cookies.json](./365261-happy-cookies.json) |
+| Happy Corner | 304531 | [304531-happy-corner.json](./304531-happy-corner.json) |
 | Happy Critters | 33419 | [33419-happy-critters.json](./33419-happy-critters.json) |
 | Happy Dance Collection | 51024 | [51024-happy-dance-collection.json](./51024-happy-dance-collection.json) |
 | Happy Dash | 267341 | [267341-happy-dash.json](./267341-happy-dash.json) |
@@ -3029,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven On Jupiter | 327384 | [327384-heaven-on-jupiter.json](./327384-heaven-on-jupiter.json) |
 | Heaven Over It | 304029 | [304029-heaven-over-it.json](./304029-heaven-over-it.json) |
 | Heaven Quest | 209867 | [209867-heaven-quest.json](./209867-heaven-quest.json) |
+| Heaven Seeker: The Savior of This Cruel World | 304554 | [304554-heaven-seeker-the-savior-of-this-cruel-world.json](./304554-heaven-seeker-the-savior-of-this-cruel-world.json) |
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
 | Heaven Will Be Mine | 69482 | [69482-heaven-will-be-mine.json](./69482-heaven-will-be-mine.json) |
@@ -3505,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell of Verdun | 243550 | [243550-hell-of-verdun.json](./243550-hell-of-verdun.json) |
 | Hell Of War: Combined Arms | 411596 | [411596-hell-of-war-combined-arms.json](./411596-hell-of-war-combined-arms.json) |
 | Hell on Earth | 28145 | [28145-hell-on-earth.json](./28145-hell-on-earth.json) |
+| Hell On Earth | 304528 | [304528-hell-on-earth.json](./304528-hell-on-earth.json) |
 | Hell On Earth Shareware | 275212 | [275212-hell-on-earth-shareware.json](./275212-hell-on-earth-shareware.json) |
 | Hell on Ice | 180686 | [180686-hell-on-ice.json](./180686-hell-on-ice.json) |
 | Hell Pages | 161610 | [161610-hell-pages.json](./161610-hell-pages.json) |
