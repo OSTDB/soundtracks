@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamp Man Down | 109379 | [109379-lamp-man-down.json](./109379-lamp-man-down.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
 | Lamp Post | 290872 | [290872-lamp-post.json](./290872-lamp-post.json) |
+| Lamplight | 304508 | [304508-lamplight.json](./304508-lamplight.json) |
 | Lamplight City mobile | 175316 | [175316-lamplight-city-mobile.json](./175316-lamplight-city-mobile.json) |
 | Lamplight Station | 76682 | [76682-lamplight-station.json](./76682-lamplight-station.json) |
 | Lamplighter | 150417 | [150417-lamplighter.json](./150417-lamplighter.json) |
@@ -2315,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Pirates | 316729 | [316729-legend-pirates.json](./316729-legend-pirates.json) |
 | Legend Sang 1 | 374264 | [374264-legend-sang-1.json](./374264-legend-sang-1.json) |
 | Legend Sang 5 | 339870 | [339870-legend-sang-5.json](./339870-legend-sang-5.json) |
+| Legend Square | 304513 | [304513-legend-square.json](./304513-legend-square.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
 | Legend: Legacy of the Dragons | 71187 | [71187-legend-legacy-of-the-dragons.json](./71187-legend-legacy-of-the-dragons.json) |
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
@@ -6985,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lost Lost | 330507 | [330507-lost-lost-lost.json](./330507-lost-lost-lost.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Luggage | 18501 | [18501-lost-luggage.json](./18501-lost-luggage.json) |
+| Lost Lullabies: The Orphanage Chronicles | 304530 | [304530-lost-lullabies-the-orphanage-chronicles.json](./304530-lost-lullabies-the-orphanage-chronicles.json) |
 | Lost Lures | 387302 | [387302-lost-lures.json](./387302-lost-lures.json) |
 | Lost Luxury | 268896 | [268896-lost-luxury.json](./268896-lost-luxury.json) |
 | Lost Manor | 302190 | [302190-lost-manor.json](./302190-lost-manor.json) |
@@ -8417,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lúnhuí Xiūxiān Jué | 157565 | [157565-lunhui-xiuxian-jue.json](./157565-lunhui-xiuxian-jue.json) |
 | Lúnhuí Xiūxiān Zhuàn | 373688 | [373688-lunhui-xiuxian-zhuan.json](./373688-lunhui-xiuxian-zhuan.json) |
 | Lúnhuí Xiūzhēn OL | 163890 | [163890-lunhui-xiuzhen-ol.json](./163890-lunhui-xiuzhen-ol.json) |
+| Lunia Record | 304511 | [304511-lunia-record.json](./304511-lunia-record.json) |
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
 | Lunicus | 79597 | [79597-lunicus.json](./79597-lunicus.json) |
 | Lunistice | 139168 | [139168-lunistice.json](./139168-lunistice.json) |
