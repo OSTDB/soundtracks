@@ -2773,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
 | Paw Paw Death Festival | 309938 | [309938-paw-paw-death-festival.json](./309938-paw-paw-death-festival.json) |
 | Paw Paw Destiny | 241786 | [241786-paw-paw-destiny.json](./241786-paw-paw-destiny.json) |
+| Paw Paw Miaw | 286360 | [286360-paw-paw-miaw.json](./286360-paw-paw-miaw.json) |
 | Paw Paw Paw | 118289 | [118289-paw-paw-paw.json](./118289-paw-paw-paw.json) |
 | Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
@@ -11821,6 +11822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
 | Praxion-7 | 416332 | [416332-praxion-7.json](./416332-praxion-7.json) |
+| Praxis Fighter X | 286379 | [286379-praxis-fighter-x.json](./286379-praxis-fighter-x.json) |
 | Praxium | 385626 | [385626-praxium.json](./385626-praxium.json) |
 | Pray & Slay | 423884 | [423884-pray-and-slay.json](./423884-pray-and-slay.json) |
 | Pray and Spray | 160120 | [160120-pray-and-spray.json](./160120-pray-and-spray.json) |
