@@ -6794,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dreams | 194364 | [194364-lost-dreams.json](./194364-lost-dreams.json) |
 | Lost Dunes | 149828 | [149828-lost-dunes.json](./149828-lost-dunes.json) |
 | Lost Dungeon | 120734 | [120734-lost-dungeon.json](./120734-lost-dungeon.json) |
+| Lost Dungeon | 287795 | [287795-lost-dungeon.json](./287795-lost-dungeon.json) |
 | Lost Dutchman Mine | 12670 | [12670-lost-dutchman-mine.json](./12670-lost-dutchman-mine.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
 | Lost Earth | 138529 | [138529-lost-earth.json](./138529-lost-earth.json) |
