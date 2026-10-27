@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Rats: Redridge | 319651 | [319651-half-rats-redridge.json](./319651-half-rats-redridge.json) |
 | Halfbrick Blast Off | 92332 | [92332-halfbrick-blast-off.json](./92332-halfbrick-blast-off.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
+| Halfling | 316562 | [316562-halfling.json](./316562-halfling.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
 | Halfquake | 272151 | [272151-halfquake.json](./272151-halfquake.json) |
@@ -6234,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide And Seek | 296416 | [296416-hide-and-seek.json](./296416-hide-and-seek.json) |
 | Hide and Seek 2: Story of Demian | 254293 | [254293-hide-and-seek-2-story-of-demian.json](./254293-hide-and-seek-2-story-of-demian.json) |
 | Hide and Seek Scramble! | 203738 | [203738-hide-and-seek-scramble.json](./203738-hide-and-seek-scramble.json) |
+| Hide and Seek with Noah | 316570 | [316570-hide-and-seek-with-noah.json](./316570-hide-and-seek-with-noah.json) |
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Shoot | 160202 | [160202-hide-and-shoot.json](./160202-hide-and-shoot.json) |
@@ -6972,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit N Descent | 179921 | [179921-hit-n-descent.json](./179921-hit-n-descent.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
 | Hit Ninja | 85183 | [85183-hit-ninja.json](./85183-hit-ninja.json) |
+| Hit of Chernobyl | 316567 | [316567-hit-of-chernobyl.json](./316567-hit-of-chernobyl.json) |
 | Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
 | Hit Tennis 3 | 246268 | [246268-hit-tennis-3.json](./246268-hit-tennis-3.json) |
@@ -9784,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hum Drum Experiences | 109300 | [109300-hum-drum-experiences.json](./109300-hum-drum-experiences.json) |
 | Human | 133865 | [133865-human.json](./133865-human.json) |
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
+| Human Beings' Extinction Day: 2074 | 316673 | [316673-human-beings-extinction-day-2074.json](./316673-human-beings-extinction-day-2074.json) |
 | Human Bowling | 283270 | [283270-human-bowling.json](./283270-human-bowling.json) |
 | Human Cargo | 194449 | [194449-human-cargo.json](./194449-human-cargo.json) |
 | Human Chop 2 | 102002 | [102002-human-chop-2.json](./102002-human-chop-2.json) |
@@ -10384,6 +10388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydlide: Arranged | 411370 | [411370-hydlide-arranged.json](./411370-hydlide-arranged.json) |
 | Hydra | 12152 | [12152-hydra.json](./12152-hydra.json) |
 | Hydra | 126444 | [126444-hydra.json](./126444-hydra.json) |
+| Hydra | 316565 | [316565-hydra.json](./316565-hydra.json) |
 | Hydra Heli 2 | 390066 | [390066-hydra-heli-2.json](./390066-hydra-heli-2.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
 | Hydra Slayer | 33776 | [33776-hydra-slayer.json](./33776-hydra-slayer.json) |
