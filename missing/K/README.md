@@ -3604,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klaws | 382877 | [382877-klaws.json](./382877-klaws.json) |
 | Klax | 285593 | [285593-klax.json](./285593-klax.json) |
 | Klax | 286421 | [286421-klax.json](./286421-klax.json) |
+| Klax | 311034 | [311034-klax.json](./311034-klax.json) |
 | Klaymen Gun-Hockey | 43749 | [43749-klaymen-gun-hockey.json](./43749-klaymen-gun-hockey.json) |
 | Klein v.0.1 | 333605 | [333605-klein-v-0-1.json](./333605-klein-v-0-1.json) |
 | Kleks Academy | 348718 | [348718-kleks-academy.json](./348718-kleks-academy.json) |
