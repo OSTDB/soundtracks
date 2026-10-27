@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Butterfly in the District of Dreams | 28914 | [28914-a-butterfly-in-the-district-of-dreams.json](./28914-a-butterfly-in-the-district-of-dreams.json) |
 | A Butterfly's Dream | 194996 | [194996-a-butterflys-dream.json](./194996-a-butterflys-dream.json) |
 | A Buttload of Free Games | 135226 | [135226-a-buttload-of-free-games.json](./135226-a-buttload-of-free-games.json) |
+| A Byte War | 325370 | [325370-a-byte-war.json](./325370-a-byte-war.json) |
 | A Caçadora: Sorriso de Vampiro | 215792 | [215792-a-cacadora-sorriso-de-vampiro.json](./215792-a-cacadora-sorriso-de-vampiro.json) |
 | A Cafe at the End of the World | 389588 | [389588-a-cafe-at-the-end-of-the-world.json](./389588-a-cafe-at-the-end-of-the-world.json) |
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
@@ -1647,7 +1648,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
+| About a Boy | 325390 | [325390-about-a-boy.json](./325390-about-a-boy.json) |
 | About a Boy | 349801 | [349801-about-a-boy.json](./349801-about-a-boy.json) |
+| About a Boy: Deluxe Edition | 325392 | [325392-about-a-boy-deluxe-edition.json](./325392-about-a-boy-deluxe-edition.json) |
 | About a Girl | 361004 | [361004-about-a-girl.json](./361004-about-a-girl.json) |
 | About an Elf | 187860 | [187860-about-an-elf.json](./187860-about-an-elf.json) |
 | About Emma | 179038 | [179038-about-emma.json](./179038-about-emma.json) |
@@ -5096,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
 | ALaLa: Wake Mi Up! | 36424 | [36424-alala-wake-mi-up.json](./36424-alala-wake-mi-up.json) |
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
+| Alaloth: Champions of The Four Kingdoms - Deluxe Edition | 325391 | [325391-alaloth-champions-of-the-four-kingdoms-deluxe-edition.json](./325391-alaloth-champions-of-the-four-kingdoms-deluxe-edition.json) |
 | Alan Hansen's Sports Challenge | 4665 | [4665-alan-hansens-sports-challenge.json](./4665-alan-hansens-sports-challenge.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Probe: Amateur Surgeon - Christmas Edition | 65917 | [65917-alan-probe-amateur-surgeon-christmas-edition.json](./65917-alan-probe-amateur-surgeon-christmas-edition.json) |
