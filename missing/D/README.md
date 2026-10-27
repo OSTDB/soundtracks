@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dadish 2 | 142986 | [142986-dadish-2.json](./142986-dadish-2.json) |
 | Dadish 3 | 199111 | [199111-dadish-3.json](./199111-dadish-3.json) |
 | Dadish 3D | 294865 | [294865-dadish-3d.json](./294865-dadish-3d.json) |
+| Dadish Collection | 312047 | [312047-dadish-collection.json](./312047-dadish-collection.json) |
 | Dadlympics | 265146 | [265146-dadlympics.json](./265146-dadlympics.json) |
 | Dadoo: Twists, Turns, and Mischiefs | 264807 | [264807-dadoo-twists-turns-and-mischiefs.json](./264807-dadoo-twists-turns-and-mischiefs.json) |
 | Dadton Aguinández | 320621 | [320621-dadton-aguinandez.json](./320621-dadton-aguinandez.json) |
