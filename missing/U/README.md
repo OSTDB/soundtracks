@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukraine War 2022 | 287734 | [287734-ukraine-war-2022.json](./287734-ukraine-war-2022.json) |
 | Ukrainian ball in search of gas | 91409 | [91409-ukrainian-ball-in-search-of-gas.json](./91409-ukrainian-ball-in-search-of-gas.json) |
 | Ukrainian Farmy | 198267 | [198267-ukrainian-farmy.json](./198267-ukrainian-farmy.json) |
+| Ukrainian Fight Drone Simulator | 306326 | [306326-ukrainian-fight-drone-simulator.json](./306326-ukrainian-fight-drone-simulator.json) |
 | Ukrainian Warfare: Gostomel Heroes | 391787 | [391787-ukrainian-warfare-gostomel-heroes.json](./391787-ukrainian-warfare-gostomel-heroes.json) |
 | Ukrainien Agent | 207682 | [207682-ukrainien-agent.json](./207682-ukrainien-agent.json) |
 | Uktena | 150596 | [150596-uktena.json](./150596-uktena.json) |
@@ -2639,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwording | 199561 | [199561-unwording.json](./199561-unwording.json) |
 | Unwound | 235873 | [235873-unwound.json](./235873-unwound.json) |
 | Unwoven | 409780 | [409780-unwoven.json](./409780-unwoven.json) |
+| Unyha | 306389 | [306389-unyha.json](./306389-unyha.json) |
 | Unyielding | 156527 | [156527-unyielding.json](./156527-unyielding.json) |
 | Unyverse | 289919 | [289919-unyverse.json](./289919-unyverse.json) |
 | Unzipping a Mirror | 206538 | [206538-unzipping-a-mirror.json](./206538-unzipping-a-mirror.json) |
