@@ -14954,6 +14954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude, Stop | 29965 | [29965-dude-stop.json](./29965-dude-stop.json) |
 | Dude, Where Is My Beer? | 140482 | [140482-dude-where-is-my-beer.json](./140482-dude-where-is-my-beer.json) |
 | DudeGo | 292967 | [292967-dudego.json](./292967-dudego.json) |
+| Dudelings: Arcade Sportsball | 287797 | [287797-dudelings-arcade-sportsball.json](./287797-dudelings-arcade-sportsball.json) |
 | Dudeology 1 | 234730 | [234730-dudeology-1.json](./234730-dudeology-1.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
 | Dudeski | 187799 | [187799-dudeski.json](./187799-dudeski.json) |
@@ -15751,6 +15752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Cardboard | 290898 | [290898-dungeons-and-cardboard.json](./290898-dungeons-and-cardboard.json) |
 | Dungeons & Degenerate Gamblers | 248673 | [248673-dungeons-and-degenerate-gamblers.json](./248673-dungeons-and-degenerate-gamblers.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
+| Dungeons & Dining Tables | 287484 | [287484-dungeons-and-dining-tables.json](./287484-dungeons-and-dining-tables.json) |
 | Dungeons & Directories | 381931 | [381931-dungeons-and-directories.json](./381931-dungeons-and-directories.json) |
 | Dungeons & Dragons | 172452 | [172452-dungeons-and-dragons.json](./172452-dungeons-and-dragons.json) |
 | Dungeons & Dragons Bundle | 242666 | [242666-dungeons-and-dragons-bundle.json](./242666-dungeons-and-dragons-bundle.json) |
