@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emi's Solo Ghost Hunting | 350954 | [350954-emis-solo-ghost-hunting.json](./350954-emis-solo-ghost-hunting.json) |
 | Emi's Solo Ghost Hunting 2 | 408020 | [408020-emis-solo-ghost-hunting-2.json](./408020-emis-solo-ghost-hunting-2.json) |
 | Emiko's Pledge 3 | 211635 | [211635-emikos-pledge-3.json](./211635-emikos-pledge-3.json) |
+| Emiko's Pledge 4 | 306393 | [306393-emikos-pledge-4.json](./306393-emikos-pledge-4.json) |
 | Emil Chronicle Online | 263690 | [263690-emil-chronicle-online.json](./263690-emil-chronicle-online.json) |
 | Emilio Butragueño Fútbol | 81152 | [81152-emilio-butragueno-futbol.json](./81152-emilio-butragueno-futbol.json) |
 | Emily | 334036 | [334036-emily.json](./334036-emily.json) |
@@ -5977,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Clowns | 125267 | [125267-evil-clowns.json](./125267-evil-clowns.json) |
 | Evil Cogs | 93740 | [93740-evil-cogs.json](./93740-evil-cogs.json) |
 | Evil Core: The Fallen Cities | 71916 | [71916-evil-core-the-fallen-cities.json](./71916-evil-core-the-fallen-cities.json) |
+| Evil Corporation | 306329 | [306329-evil-corporation.json](./306329-evil-corporation.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Dark | 311225 | [311225-evil-dark.json](./311225-evil-dark.json) |
