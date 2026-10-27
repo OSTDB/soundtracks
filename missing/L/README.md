@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana EX | 22186 | [22186-la-mulana-ex.json](./22186-la-mulana-ex.json) |
 | LA: Streets of Sorcery | 361025 | [361025-la-streets-of-sorcery.json](./361025-la-streets-of-sorcery.json) |
 | Lab | 199511 | [199511-lab.json](./199511-lab.json) |
+| Lab | 314797 | [314797-lab.json](./314797-lab.json) |
 | Lab 03 Yrinth | 75433 | [75433-lab-03-yrinth.json](./75433-lab-03-yrinth.json) |
 | Lab 7: Cold Nights | 126895 | [126895-lab-7-cold-nights.json](./126895-lab-7-cold-nights.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
@@ -7001,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Order | 22789 | [22789-lost-order.json](./22789-lost-order.json) |
 | Lost Pages: The First Cycle | 226755 | [226755-lost-pages-the-first-cycle.json](./226755-lost-pages-the-first-cycle.json) |
 | Lost Paradise | 402842 | [402842-lost-paradise.json](./402842-lost-paradise.json) |
+| Lost Paradise of Karuta | 314837 | [314837-lost-paradise-of-karuta.json](./314837-lost-paradise-of-karuta.json) |
 | Lost Passage: Ushinawareta Hitofushi | 165536 | [165536-lost-passage-ushinawareta-hitofushi.json](./165536-lost-passage-ushinawareta-hitofushi.json) |
 | Lost Patient | 369858 | [369858-lost-patient.json](./369858-lost-patient.json) |
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
