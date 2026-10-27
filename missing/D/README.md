@@ -10207,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
 | Doll Fashion Atelier | 58694 | [58694-doll-fashion-atelier.json](./58694-doll-fashion-atelier.json) |
 | Doll Grabber | 304907 | [304907-doll-grabber.json](./304907-doll-grabber.json) |
+| Doll Impostor | 290900 | [290900-doll-impostor.json](./290900-doll-impostor.json) |
 | Doll INC | 346690 | [346690-doll-inc.json](./346690-doll-inc.json) |
 | Doll of Resurrection | 109337 | [109337-doll-of-resurrection.json](./109337-doll-of-resurrection.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
@@ -15730,6 +15731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons | 8849 | [8849-dungeons.json](./8849-dungeons.json) |
 | Dungeons & Bombs | 143488 | [143488-dungeons-and-bombs.json](./143488-dungeons-and-bombs.json) |
 | Dungeons & Brooms | 183447 | [183447-dungeons-and-brooms.json](./183447-dungeons-and-brooms.json) |
+| Dungeons & Cardboard | 290898 | [290898-dungeons-and-cardboard.json](./290898-dungeons-and-cardboard.json) |
 | Dungeons & Degenerate Gamblers | 248673 | [248673-dungeons-and-degenerate-gamblers.json](./248673-dungeons-and-degenerate-gamblers.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
 | Dungeons & Directories | 381931 | [381931-dungeons-and-directories.json](./381931-dungeons-and-directories.json) |
