@@ -6717,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Woman Barbie | 144856 | [144856-working-woman-barbie.json](./144856-working-woman-barbie.json) |
 | Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
 | Workplace Fantasy All Age Edition | 273797 | [273797-workplace-fantasy-all-age-edition.json](./273797-workplace-fantasy-all-age-edition.json) |
+| Workplace Fantasy: Raina's Ending | 312051 | [312051-workplace-fantasy-rainas-ending.json](./312051-workplace-fantasy-rainas-ending.json) |
 | Workplace Hazard | 373731 | [373731-workplace-hazard.json](./373731-workplace-hazard.json) |
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
