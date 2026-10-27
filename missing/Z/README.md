@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Blast Crew | 125194 | [125194-zombie-blast-crew.json](./125194-zombie-blast-crew.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Blitz | 329423 | [329423-zombie-blitz.json](./329423-zombie-blitz.json) |
+| Zombie Blitzkrieg | 311515 | [311515-zombie-blitzkrieg.json](./311515-zombie-blitzkrieg.json) |
 | Zombie Blocks: Pixel Shooter Gun | 328086 | [328086-zombie-blocks-pixel-shooter-gun.json](./328086-zombie-blocks-pixel-shooter-gun.json) |
 | Zombie Bloxx | 75584 | [75584-zombie-bloxx.json](./75584-zombie-bloxx.json) |
 | Zombie Boom | 31608 | [31608-zombie-boom.json](./31608-zombie-boom.json) |
