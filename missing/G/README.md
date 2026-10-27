@@ -6601,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Champion | 143374 | [143374-grand-champion.json](./143374-grand-champion.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
 | Grand Chase M | 56262 | [56262-grand-chase-m.json](./56262-grand-chase-m.json) |
+| Grand Circuit | 305817 | [305817-grand-circuit.json](./305817-grand-circuit.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
@@ -7512,6 +7513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Hawk Platoon | 215014 | [215014-green-hawk-platoon.json](./215014-green-hawk-platoon.json) |
 | Green Heights | 322094 | [322094-green-heights.json](./322094-green-heights.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
+| Green Hell VR: The Spirits of Amazonia Part 1 | 305825 | [305825-green-hell-vr-the-spirits-of-amazonia-part-1.json](./305825-green-hell-vr-the-spirits-of-amazonia-part-1.json) |
 | Green Hill Zone 2.5D | 332550 | [332550-green-hill-zone-2-5d.json](./332550-green-hill-zone-2-5d.json) |
 | Green Horizon: VR Golf | 382531 | [382531-green-horizon-vr-golf.json](./382531-green-horizon-vr-golf.json) |
 | Green House | 93380 | [93380-green-house.json](./93380-green-house.json) |
