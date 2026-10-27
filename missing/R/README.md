@@ -4171,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reload Map Jam | 271844 | [271844-reload-map-jam.json](./271844-reload-map-jam.json) |
 | Reloader: test_subject | 168129 | [168129-reloader-test-subject.json](./168129-reloader-test-subject.json) |
 | Reloadian | 389223 | [389223-reloadian.json](./389223-reloadian.json) |
+| Relocation Simulator | 293122 | [293122-relocation-simulator.json](./293122-relocation-simulator.json) |
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | Relyctum | 261439 | [261439-relyctum.json](./261439-relyctum.json) |
 | REM Hemispheres | 408701 | [408701-rem-hemispheres.json](./408701-rem-hemispheres.json) |
@@ -4405,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renowned Explorers: International Society - More to Explore | 19387 | [19387-renowned-explorers-international-society-more-to-explore.json](./19387-renowned-explorers-international-society-more-to-explore.json) |
 | Renowned Explorers: The Emperor's Challenge | 51876 | [51876-renowned-explorers-the-emperors-challenge.json](./51876-renowned-explorers-the-emperors-challenge.json) |
 | Renshin no Astral | 196601 | [196601-renshin-no-astral.json](./196601-renshin-no-astral.json) |
+| Rent A Car Simulator 24 | 293121 | [293121-rent-a-car-simulator-24.json](./293121-rent-a-car-simulator-24.json) |
 | Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
 | Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
@@ -7173,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Dealer Simulator | 253571 | [253571-road-dealer-simulator.json](./253571-road-dealer-simulator.json) |
 | Road Defense: Outsiders | 203754 | [203754-road-defense-outsiders.json](./203754-road-defense-outsiders.json) |
 | Road Diner Simulator | 190463 | [190463-road-diner-simulator.json](./190463-road-diner-simulator.json) |
+| Road Dinner Simulator | 293120 | [293120-road-dinner-simulator.json](./293120-road-dinner-simulator.json) |
 | Road Dogs | 28673 | [28673-road-dogs.json](./28673-road-dogs.json) |
 | Road Domination | 236860 | [236860-road-domination.json](./236860-road-domination.json) |
 | Road Doom | 108308 | [108308-road-doom.json](./108308-road-doom.json) |
