@@ -3427,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Burst | 201690 | [201690-kitten-burst.json](./201690-kitten-burst.json) |
 | Kitten Cannon | 25889 | [25889-kitten-cannon.json](./25889-kitten-cannon.json) |
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
+| Kitten Food Alley | 332963 | [332963-kitten-food-alley.json](./332963-kitten-food-alley.json) |
 | Kitten Hero | 203679 | [203679-kitten-hero.json](./203679-kitten-hero.json) |
 | Kitten Island | 251112 | [251112-kitten-island.json](./251112-kitten-island.json) |
 | Kitten Kaboodle | 40236 | [40236-kitten-kaboodle.json](./40236-kitten-kaboodle.json) |
