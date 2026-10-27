@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | TapKO | 336323 | [336323-tapko.json](./336323-tapko.json) |
 | TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
+| TapMan | 302993 | [302993-tapman.json](./302993-tapman.json) |
 | TapMazing | 372046 | [372046-tapmazing.json](./372046-tapmazing.json) |
 | Tapnimals | 102687 | [102687-tapnimals.json](./102687-tapnimals.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 9th Day | 32824 | [32824-the-9th-day.json](./32824-the-9th-day.json) |
 | The 9th Dragon | 394675 | [394675-the-9th-dragon.json](./394675-the-9th-dragon.json) |
 | The 9th Gate | 110712 | [110712-the-9th-gate.json](./110712-the-9th-gate.json) |
+| The 9th Station of M.t... | 302982 | [302982-the-9th-station-of-m-t.json](./302982-the-9th-station-of-m-t.json) |
 | The A-Team | 198699 | [198699-the-a-team.json](./198699-the-a-team.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
@@ -10319,6 +10321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Man Survivor | 258529 | [258529-the-last-man-survivor.json](./258529-the-last-man-survivor.json) |
 | The Last Market | 391098 | [391098-the-last-market.json](./391098-the-last-market.json) |
 | The Last Martian | 267812 | [267812-the-last-martian.json](./267812-the-last-martian.json) |
+| The Last Match Girl | 302977 | [302977-the-last-match-girl.json](./302977-the-last-match-girl.json) |
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
 | The Last Maverick: Survival Raft Adventure | 95876 | [95876-the-last-maverick-survival-raft-adventure.json](./95876-the-last-maverick-survival-raft-adventure.json) |
 | The Last Meadow | 337897 | [337897-the-last-meadow.json](./337897-the-last-meadow.json) |
@@ -15157,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tomb Raider Trilogy | 7470 | [7470-the-tomb-raider-trilogy.json](./7470-the-tomb-raider-trilogy.json) |
 | The Tomb: Pinball | 79664 | [79664-the-tomb-pinball.json](./79664-the-tomb-pinball.json) |
 | The Tombs of Ultra 5 | 189373 | [189373-the-tombs-of-ultra-5.json](./189373-the-tombs-of-ultra-5.json) |
+| The Tome of All Tales | 302987 | [302987-the-tome-of-all-tales.json](./302987-the-tome-of-all-tales.json) |
 | The Tomorrow Children | 7604 | [7604-the-tomorrow-children.json](./7604-the-tomorrow-children.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tomorrow Corporation Collection | 124784 | [124784-the-tomorrow-corporation-collection.json](./124784-the-tomorrow-corporation-collection.json) |
