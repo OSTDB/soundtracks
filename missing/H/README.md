@@ -7431,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HolgiMan | 94213 | [94213-holgiman.json](./94213-holgiman.json) |
 | Holi-Zone 97 | 323269 | [323269-holi-zone-97.json](./323269-holi-zone-97.json) |
 | Holic Online | 72772 | [72772-holic-online.json](./72772-holic-online.json) |
+| Holidate | 311008 | [311008-holidate.json](./311008-holidate.json) |
 | Holiday Adventures: Hawaii | 296819 | [296819-holiday-adventures-hawaii.json](./296819-holiday-adventures-hawaii.json) |
 | Holiday After Special | 310965 | [310965-holiday-after-special.json](./310965-holiday-after-special.json) |
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
