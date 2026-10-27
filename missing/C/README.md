@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Underworld | 333653 | [333653-call-of-the-underworld.json](./333653-call-of-the-underworld.json) |
 | Call of the Void | 118610 | [118610-call-of-the-void.json](./118610-call-of-the-void.json) |
 | Call of the Wild: The Angler - Deluxe Edition | 264133 | [264133-call-of-the-wild-the-angler-deluxe-edition.json](./264133-call-of-the-wild-the-angler-deluxe-edition.json) |
+| Call of the Wild: The Angler - Japan Fishing Reserve | 331812 | [331812-call-of-the-wild-the-angler-japan-fishing-reserve.json](./331812-call-of-the-wild-the-angler-japan-fishing-reserve.json) |
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
@@ -1749,7 +1750,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
 | Car Mechanic Simulator 2021: Drag Racing | 225229 | [225229-car-mechanic-simulator-2021-drag-racing.json](./225229-car-mechanic-simulator-2021-drag-racing.json) |
+| Car Mechanic Simulator 2021: Ford Remastered DLC | 331811 | [331811-car-mechanic-simulator-2021-ford-remastered-dlc.json](./331811-car-mechanic-simulator-2021-ford-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Jeep RAM Remastered | 296266 | [296266-car-mechanic-simulator-2021-jeep-ram-remastered.json](./296266-car-mechanic-simulator-2021-jeep-ram-remastered.json) |
+| Car Mechanic Simulator 2021: Mazda Remastered DLC | 331810 | [331810-car-mechanic-simulator-2021-mazda-remastered-dlc.json](./331810-car-mechanic-simulator-2021-mazda-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Mercedes-Benz Remastered DLC | 231841 | [231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json](./231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Rims | 285696 | [285696-car-mechanic-simulator-2021-rims.json](./285696-car-mechanic-simulator-2021-rims.json) |
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
@@ -5313,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
 | Checkmate II | 278859 | [278859-checkmate-ii.json](./278859-checkmate-ii.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
+| Checkmate Survivors | 331813 | [331813-checkmate-survivors.json](./331813-checkmate-survivors.json) |
 | Checkmate! | 108057 | [108057-checkmate.json](./108057-checkmate.json) |
 | Checkmate! My Shogi Club President can't be this Cute! | 253997 | [253997-checkmate-my-shogi-club-president-cant-be-this-cute.json](./253997-checkmate-my-shogi-club-president-cant-be-this-cute.json) |
 | Checkmates | 57371 | [57371-checkmates.json](./57371-checkmates.json) |
@@ -12931,6 +12935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryside Bears | 43502 | [43502-countryside-bears.json](./43502-countryside-bears.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
 | Countryside Legends | 339327 | [339327-countryside-legends.json](./339327-countryside-legends.json) |
+| Countryside Life | 331798 | [331798-countryside-life.json](./331798-countryside-life.json) |
 | Countryside Life Simulator | 286988 | [286988-countryside-life-simulator.json](./286988-countryside-life-simulator.json) |
 | Countrytale 2010 | 399409 | [399409-countrytale-2010.json](./399409-countrytale-2010.json) |
 | Countup | 358882 | [358882-countup.json](./358882-countup.json) |
