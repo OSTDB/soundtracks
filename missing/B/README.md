@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BaconBaconBacon | 58296 | [58296-baconbaconbacon.json](./58296-baconbaconbacon.json) |
 | BaconX | 330862 | [330862-baconx.json](./330862-baconx.json) |
 | Bacrush | 347038 | [347038-bacrush.json](./347038-bacrush.json) |
+| Bacta 1 & 2 + Voice | 299814 | [299814-bacta-1-and-2-voice.json](./299814-bacta-1-and-2-voice.json) |
 | Bacta 2: The Resurrection of Bacta | 66899 | [66899-bacta-2-the-resurrection-of-bacta.json](./66899-bacta-2-the-resurrection-of-bacta.json) |
 | Bacteria | 33386 | [33386-bacteria.json](./33386-bacteria.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
@@ -826,7 +827,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battington Manor | 393481 | [393481-battington-manor.json](./393481-battington-manor.json) |
 | Battland | 292612 | [292612-battland.json](./292612-battland.json) |
 | Battlantis | 38544 | [38544-battlantis.json](./38544-battlantis.json) |
+| Battle | 299815 | [299815-battle.json](./299815-battle.json) |
 | Battle | 333448 | [333448-battle.json](./333448-battle.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
 | Battle 100 | 103818 | [103818-battle-100.json](./103818-battle-100.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bell Ringer | 33919 | [33919-bell-ringer.json](./33919-bell-ringer.json) |
 | Bell, Book and Candleban | 237544 | [237544-bell-book-and-candleban.json](./237544-bell-book-and-candleban.json) |
 | Bell's Avenue | 214148 | [214148-bells-avenue.json](./214148-bells-avenue.json) |
+| Bell's Avenue Vol. 2 | 299816 | [299816-bells-avenue-vol-2.json](./299816-bells-avenue-vol-2.json) |
 | Bell's Avenue Vol. 3 | 299817 | [299817-bells-avenue-vol-3.json](./299817-bells-avenue-vol-3.json) |
 | Bella | 260939 | [260939-bella.json](./260939-bella.json) |
 | Bella & Friends: Puppy Doctor | 100781 | [100781-bella-and-friends-puppy-doctor.json](./100781-bella-and-friends-puppy-doctor.json) |
@@ -10004,6 +10006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
 | Blue Monster: Rainbow Survival | 221339 | [221339-blue-monster-rainbow-survival.json](./221339-blue-monster-rainbow-survival.json) |
 | Blue Moon | 221990 | [221990-blue-moon.json](./221990-blue-moon.json) |
+| Blue Moon | 299688 | [299688-blue-moon.json](./299688-blue-moon.json) |
 | Blue Moon Princess | 299495 | [299495-blue-moon-princess.json](./299495-blue-moon-princess.json) |
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
 | Blue Nebula | 252119 | [252119-blue-nebula.json](./252119-blue-nebula.json) |
