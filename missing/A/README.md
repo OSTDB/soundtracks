@@ -15472,6 +15472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azlan: Rise of the Burlpups | 164991 | [164991-azlan-rise-of-the-burlpups.json](./164991-azlan-rise-of-the-burlpups.json) |
 | Aznak | 199312 | [199312-aznak.json](./199312-aznak.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
+| Azooma Escape | 311549 | [311549-azooma-escape.json](./311549-azooma-escape.json) |
 | Azorius | 261729 | [261729-azorius.json](./261729-azorius.json) |
 | Azoth | 338723 | [338723-azoth.json](./338723-azoth.json) |
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
