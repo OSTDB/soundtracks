@@ -14340,6 +14340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
 | Crazy Veggies | 28787 | [28787-crazy-veggies.json](./28787-crazy-veggies.json) |
 | Crazy Voyage | 324289 | [324289-crazy-voyage.json](./324289-crazy-voyage.json) |
+| Crazy War | 283555 | [283555-crazy-war.json](./283555-crazy-war.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy Wheels | 103161 | [103161-crazy-wheels.json](./103161-crazy-wheels.json) |
 | Crazy Wife | 300294 | [300294-crazy-wife.json](./300294-crazy-wife.json) |
