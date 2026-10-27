@@ -7644,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Valkyrie EXS-TiA: Concerto 2 | 393947 | [393947-holy-valkyrie-exs-tia-concerto-2.json](./393947-holy-valkyrie-exs-tia-concerto-2.json) |
 | Holy War | 273484 | [273484-holy-war.json](./273484-holy-war.json) |
 | Holy Warrior | 121574 | [121574-holy-warrior.json](./121574-holy-warrior.json) |
+| Holy Wars: Sons of Enoch | 329501 | [329501-holy-wars-sons-of-enoch.json](./329501-holy-wars-sons-of-enoch.json) |
 | Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
 | Holyday City: Reloaded | 76536 | [76536-holyday-city-reloaded.json](./76536-holyday-city-reloaded.json) |
 | HolyHunt | 241791 | [241791-holyhunt.json](./241791-holyhunt.json) |
