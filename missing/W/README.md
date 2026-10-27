@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakeboarding XS | 325383 | [325383-wakeboarding-xs.json](./325383-wakeboarding-xs.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
 | Wakey Wakey | 178568 | [178568-wakey-wakey.json](./178568-wakey-wakey.json) |
+| Wakey Wakey | 305729 | [305729-wakey-wakey.json](./305729-wakey-wakey.json) |
 | Wakfu: Kelba Island | 23650 | [23650-wakfu-kelba-island.json](./23650-wakfu-kelba-island.json) |
 | Wakfu: Les Gardiens | 167643 | [167643-wakfu-les-gardiens.json](./167643-wakfu-les-gardiens.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
@@ -2482,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Kill Monsters | 255092 | [255092-we-kill-monsters.json](./255092-we-kill-monsters.json) |
 | We Know the Devil | 27870 | [27870-we-know-the-devil.json](./27870-we-know-the-devil.json) |
 | We Like It Here | 315447 | [315447-we-like-it-here.json](./315447-we-like-it-here.json) |
+| We Live Inside A Dream | 305816 | [305816-we-live-inside-a-dream.json](./305816-we-live-inside-a-dream.json) |
 | We Lost Our Human | 256874 | [256874-we-lost-our-human.json](./256874-we-lost-our-human.json) |
 | We Love Cake | 69093 | [69093-we-love-cake.json](./69093-we-love-cake.json) |
 | We Love Fish Tanks | 387332 | [387332-we-love-fish-tanks.json](./387332-we-love-fish-tanks.json) |
@@ -4410,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Draw | 420795 | [420795-wild-draw.json](./420795-wild-draw.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Earth: African Safari | 50711 | [50711-wild-earth-african-safari.json](./50711-wild-earth-african-safari.json) |
+| Wild Eclipse | 305824 | [305824-wild-eclipse.json](./305824-wild-eclipse.json) |
 | Wild Explorer | 373298 | [373298-wild-explorer.json](./373298-wild-explorer.json) |
 | Wild Fire | 320598 | [320598-wild-fire.json](./320598-wild-fire.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
