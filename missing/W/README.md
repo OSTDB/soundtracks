@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
 | Warhammer 40,000: Dark Millennium | 32668 | [32668-warhammer-40-000-dark-millennium.json](./32668-warhammer-40-000-dark-millennium.json) |
 | Warhammer 40,000: Dark Nexus Arena | 32716 | [32716-warhammer-40-000-dark-nexus-arena.json](./32716-warhammer-40-000-dark-nexus-arena.json) |
+| Warhammer 40,000: Darktide - Grim Protocols | 322542 | [322542-warhammer-40-000-darktide-grim-protocols.json](./322542-warhammer-40-000-darktide-grim-protocols.json) |
 | Warhammer 40,000: Darktide - Imperial Edition | 203255 | [203255-warhammer-40-000-darktide-imperial-edition.json](./203255-warhammer-40-000-darktide-imperial-edition.json) |
 | Warhammer 40,000: Darktide - Secrets of the Machine God | 302173 | [302173-warhammer-40-000-darktide-secrets-of-the-machine-god.json](./302173-warhammer-40-000-darktide-secrets-of-the-machine-god.json) |
 | Warhammer 40,000: Darktide - Skitarii | 402515 | [402515-warhammer-40-000-darktide-skitarii.json](./402515-warhammer-40-000-darktide-skitarii.json) |
@@ -4561,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderless: Meadowfell | 359920 | [359920-wilderless-meadowfell.json](./359920-wilderless-meadowfell.json) |
 | Wilderlocke | 356754 | [356754-wilderlocke.json](./356754-wilderlocke.json) |
 | Wildermyth: Off-hand Item Skin Pack | 324402 | [324402-wildermyth-off-hand-item-skin-pack.json](./324402-wildermyth-off-hand-item-skin-pack.json) |
+| Wildermyth: Omenroad | 322613 | [322613-wildermyth-omenroad.json](./322613-wildermyth-omenroad.json) |
 | Wilderness | 377146 | [377146-wilderness.json](./377146-wilderness.json) |
 | Wilderness Campaign | 24802 | [24802-wilderness-campaign.json](./24802-wilderness-campaign.json) |
 | Wilderness Edge | 342880 | [342880-wilderness-edge.json](./342880-wilderness-edge.json) |
