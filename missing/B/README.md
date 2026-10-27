@@ -8827,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Man | 287493 | [287493-blob-man.json](./287493-blob-man.json) |
 | Blob Person | 149715 | [149715-blob-person.json](./149715-blob-person.json) |
 | Blob Quest | 213391 | [213391-blob-quest.json](./213391-blob-quest.json) |
+| Blob the Klex | 316583 | [316583-blob-the-klex.json](./316583-blob-the-klex.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
 | Blob Wars | 385365 | [385365-blob-wars.json](./385365-blob-wars.json) |
 | Blob Wars: Attrition | 144887 | [144887-blob-wars-attrition.json](./144887-blob-wars-attrition.json) |
