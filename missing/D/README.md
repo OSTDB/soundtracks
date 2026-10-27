@@ -3605,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal | 4800 | [4800-deal-or-no-deal.json](./4800-deal-or-no-deal.json) |
 | Deal or No Deal: Das Interaktive DVD-Spiel | 242434 | [242434-deal-or-no-deal-das-interaktive-dvd-spiel.json](./242434-deal-or-no-deal-das-interaktive-dvd-spiel.json) |
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
+| Deal or No Deal: Electronic Personald Hand Held Game | 316577 | [316577-deal-or-no-deal-electronic-personald-hand-held-game.json](./316577-deal-or-no-deal-electronic-personald-hand-held-game.json) |
 | Deal or No Deal: Family Challenge | 242377 | [242377-deal-or-no-deal-family-challenge.json](./242377-deal-or-no-deal-family-challenge.json) |
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
 | Deal or No Deal: Special Edition | 51036 | [51036-deal-or-no-deal-special-edition.json](./51036-deal-or-no-deal-special-edition.json) |
