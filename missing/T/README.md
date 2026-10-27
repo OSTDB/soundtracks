@@ -2100,6 +2100,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TapMazing | 372046 | [372046-tapmazing.json](./372046-tapmazing.json) |
 | Tapnimals | 102687 | [102687-tapnimals.json](./102687-tapnimals.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
+| Tapper | 307546 | [307546-tapper.json](./307546-tapper.json) |
+| Tapper | 307547 | [307547-tapper.json](./307547-tapper.json) |
+| Tapper | 307548 | [307548-tapper.json](./307548-tapper.json) |
+| Tapper | 307549 | [307549-tapper.json](./307549-tapper.json) |
+| Tapper | 307552 | [307552-tapper.json](./307552-tapper.json) |
 | Tapper Basic | 297607 | [297607-tapper-basic.json](./297607-tapper-basic.json) |
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
@@ -3398,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TendyTrainer | 112803 | [112803-tendytrainer.json](./112803-tendytrainer.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
 | Tenebra | 360014 | [360014-tenebra.json](./360014-tenebra.json) |
+| Tenebra 2 | 307564 | [307564-tenebra-2.json](./307564-tenebra-2.json) |
 | Tenebrae | 188876 | [188876-tenebrae.json](./188876-tenebrae.json) |
 | Tenebrarium | 408272 | [408272-tenebrarium.json](./408272-tenebrarium.json) |
 | Tenebrarium | 417965 | [417965-tenebrarium.json](./417965-tenebrarium.json) |
@@ -12280,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oathkeeper | 189344 | [189344-the-oathkeeper.json](./189344-the-oathkeeper.json) |
 | The Obedience Experiment | 406893 | [406893-the-obedience-experiment.json](./406893-the-obedience-experiment.json) |
 | The Object | 316182 | [316182-the-object.json](./316182-the-object.json) |
+| The Obligatory Undertale Yellow Sans fight | 307553 | [307553-the-obligatory-undertale-yellow-sans-fight.json](./307553-the-obligatory-undertale-yellow-sans-fight.json) |
 | The Oblivion Asylum | 117676 | [117676-the-oblivion-asylum.json](./117676-the-oblivion-asylum.json) |
 | The Obscura Experiment | 239652 | [239652-the-obscura-experiment.json](./239652-the-obscura-experiment.json) |
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
@@ -20078,6 +20085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Sokoban | 228391 | [228391-tiny-sokoban.json](./228391-tiny-sokoban.json) |
 | Tiny Solar System | 221150 | [221150-tiny-solar-system.json](./221150-tiny-solar-system.json) |
 | Tiny Space Program | 174525 | [174525-tiny-space-program.json](./174525-tiny-space-program.json) |
+| Tiny Speedster | 307636 | [307636-tiny-speedster.json](./307636-tiny-speedster.json) |
 | Tiny Squads | 244628 | [244628-tiny-squads.json](./244628-tiny-squads.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
 | Tiny Step | 267333 | [267333-tiny-step.json](./267333-tiny-step.json) |
@@ -23478,6 +23486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toynip | 219545 | [219545-toynip.json](./219545-toynip.json) |
 | Toyota Celica GT Rally | 69772 | [69772-toyota-celica-gt-rally.json](./69772-toyota-celica-gt-rally.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
+| Toys | 307649 | [307649-toys.json](./307649-toys.json) |
 | Toys & Physics | 153314 | [153314-toys-and-physics.json](./153314-toys-and-physics.json) |
 | Toys and Me: Bubble Pop | 98845 | [98845-toys-and-me-bubble-pop.json](./98845-toys-and-me-bubble-pop.json) |
 | Toys Cracker | 310081 | [310081-toys-cracker.json](./310081-toys-cracker.json) |
@@ -27812,6 +27821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Turtle Fly: Into Space | 232574 | [232574-turtle-fly-into-space.json](./232574-turtle-fly-into-space.json) |
 | Turtle Invaders | 252138 | [252138-turtle-invaders.json](./252138-turtle-invaders.json) |
+| Turtle Jump | 307652 | [307652-turtle-jump.json](./307652-turtle-jump.json) |
 | Turtle Lu | 90133 | [90133-turtle-lu.json](./90133-turtle-lu.json) |
 | Turtle Odyssey | 34157 | [34157-turtle-odyssey.json](./34157-turtle-odyssey.json) |
 | Turtle Quest | 74915 | [74915-turtle-quest.json](./74915-turtle-quest.json) |
@@ -27936,6 +27946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twice Bitten | 343176 | [343176-twice-bitten.json](./343176-twice-bitten.json) |
 | Twice Dead | 349082 | [349082-twice-dead.json](./349082-twice-dead.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
+| Twiddlefinger | 307551 | [307551-twiddlefinger.json](./307551-twiddlefinger.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
 | Twilight | 206534 | [206534-twilight.json](./206534-twilight.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
