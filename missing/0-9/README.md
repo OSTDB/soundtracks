@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
 | 1-2-Swift | 29690 | [29690-1-2-swift.json](./29690-1-2-swift.json) |
 | 1-2-Whopping Word Search! | 316806 | [316806-1-2-whopping-word-search.json](./316806-1-2-whopping-word-search.json) |
+| 1-2-Word Search! | 300728 | [300728-1-2-word-search.json](./300728-1-2-word-search.json) |
 | 1-800 Super | 175151 | [175151-1-800-super.json](./175151-1-800-super.json) |
 | 1-800-Monsters | 179563 | [179563-1-800-monsters.json](./179563-1-800-monsters.json) |
 | 1-900-Cult | 242118 | [242118-1-900-cult.json](./242118-1-900-cult.json) |
@@ -2740,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball 3 | 232450 | [232450-8-ball-3.json](./232450-8-ball-3.json) |
 | 8 Ball 4 | 400987 | [400987-8-ball-4.json](./400987-8-ball-4.json) |
 | 8 Ball Action | 38566 | [38566-8-ball-action.json](./38566-8-ball-action.json) |
+| 8 Ball Billiards Classic | 300667 | [300667-8-ball-billiards-classic.json](./300667-8-ball-billiards-classic.json) |
 | 8 Ball by Pokerist | 377125 | [377125-8-ball-by-pokerist.json](./377125-8-ball-by-pokerist.json) |
 | 8 Ball Clash | 194918 | [194918-8-ball-clash.json](./194918-8-ball-clash.json) |
 | 8 Ball Hero | 223930 | [223930-8-ball-hero.json](./223930-8-ball-hero.json) |
