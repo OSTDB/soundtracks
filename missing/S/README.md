@@ -14150,6 +14150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solivagant | 262840 | [262840-solivagant.json](./262840-solivagant.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
+| Solnox: Grimoire of Seasons | 302321 | [302321-solnox-grimoire-of-seasons.json](./302321-solnox-grimoire-of-seasons.json) |
 | Solo | 145987 | [145987-solo.json](./145987-solo.json) |
 | Solo | 277771 | [277771-solo.json](./277771-solo.json) |
 | Solo | 28315 | [28315-solo.json](./28315-solo.json) |
@@ -21161,6 +21162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDrone Extreme | 20815 | [20815-stardrone-extreme.json](./20815-stardrone-extreme.json) |
 | StarDrone VR | 118930 | [118930-stardrone-vr.json](./118930-stardrone-vr.json) |
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
+| Stardrop | 302398 | [302398-stardrop.json](./302398-stardrop.json) |
 | Stardrop | 30634 | [30634-stardrop.json](./30634-stardrop.json) |
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
@@ -29002,6 +29004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
 | Survival & Simulator | 121263 | [121263-survival-and-simulator.json](./121263-survival-and-simulator.json) |
 | Survival 2: Get Lucky | 65417 | [65417-survival-2-get-lucky.json](./65417-survival-2-get-lucky.json) |
+| Survival 2099 | 302339 | [302339-survival-2099.json](./302339-survival-2099.json) |
 | Survival 456 But It's Impostor | 223899 | [223899-survival-456-but-its-impostor.json](./223899-survival-456-but-its-impostor.json) |
 | Survival Academy | 223379 | [223379-survival-academy.json](./223379-survival-academy.json) |
 | Survival Advanced | 280089 | [280089-survival-advanced.json](./280089-survival-advanced.json) |
