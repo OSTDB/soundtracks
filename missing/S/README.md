@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
 | Sailing Simulator: Baltic Sea & Caribbean | 195998 | [195998-sailing-simulator-baltic-sea-and-caribbean.json](./195998-sailing-simulator-baltic-sea-and-caribbean.json) |
 | Sailing Stone | 189881 | [189881-sailing-stone.json](./189881-sailing-stone.json) |
+| Sailing the Winds | 323699 | [323699-sailing-the-winds.json](./323699-sailing-the-winds.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
 | Sailist | 244333 | [244333-sailist.json](./244333-sailist.json) |
 | Sailor Cats | 202708 | [202708-sailor-cats.json](./202708-sailor-cats.json) |
@@ -11789,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumberer's Universe | 226622 | [226622-slumberers-universe.json](./226622-slumberers-universe.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
+| Slumbering Woods | 323688 | [323688-slumbering-woods.json](./323688-slumbering-woods.json) |
 | Slumlord Simulator | 75629 | [75629-slumlord-simulator.json](./75629-slumlord-simulator.json) |
 | Slumpunk | 382505 | [382505-slumpunk.json](./382505-slumpunk.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
@@ -28051,6 +28053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tennis Champs | 56442 | [56442-super-tennis-champs.json](./56442-super-tennis-champs.json) |
 | Super Terrestrial | 422059 | [422059-super-terrestrial.json](./422059-super-terrestrial.json) |
 | Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
+| Super Terrible Project: Revenge | 323677 | [323677-super-terrible-project-revenge.json](./323677-super-terrible-project-revenge.json) |
 | Super Tetris | 100287 | [100287-super-tetris.json](./100287-super-tetris.json) |
 | Super Tetris | 46116 | [46116-super-tetris.json](./46116-super-tetris.json) |
 | Super Tetris 2 + BomBliss: Gentei-ban | 236679 | [236679-super-tetris-2-bombliss-gentei-ban.json](./236679-super-tetris-2-bombliss-gentei-ban.json) |
