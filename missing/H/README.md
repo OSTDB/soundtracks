@@ -4589,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Cheerful Puppy Tsubaki | 288306 | [288306-hentai-stars-cheerful-puppy-tsubaki.json](./288306-hentai-stars-cheerful-puppy-tsubaki.json) |
 | Hentai Stars: Complete + | 324452 | [324452-hentai-stars-complete.json](./324452-hentai-stars-complete.json) |
 | Hentai Stars: Complete Edition | 288282 | [288282-hentai-stars-complete-edition.json](./288282-hentai-stars-complete-edition.json) |
+| Hentai Stars: Definitive Edition | 284937 | [284937-hentai-stars-definitive-edition.json](./284937-hentai-stars-definitive-edition.json) |
 | Hentai Stars: Deluxe Edition | 268561 | [268561-hentai-stars-deluxe-edition.json](./268561-hentai-stars-deluxe-edition.json) |
 | Hentai Stars: Extended Edition | 277907 | [277907-hentai-stars-extended-edition.json](./277907-hentai-stars-extended-edition.json) |
 | Hentai Stars: Happy Edition | 304783 | [304783-hentai-stars-happy-edition.json](./304783-hentai-stars-happy-edition.json) |
@@ -4972,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
 | Hero of Fate | 250886 | [250886-hero-of-fate.json](./250886-hero-of-fate.json) |
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
+| Hero of Fate: Deluxe Edition | 284936 | [284936-hero-of-fate-deluxe-edition.json](./284936-hero-of-fate-deluxe-edition.json) |
 | Hero of Fate: Western Chronicles | 274655 | [274655-hero-of-fate-western-chronicles.json](./274655-hero-of-fate-western-chronicles.json) |
 | Hero of Giants: Dinosaurs Strike VR | 367540 | [367540-hero-of-giants-dinosaurs-strike-vr.json](./367540-hero-of-giants-dinosaurs-strike-vr.json) |
 | Hero of Ideal | 393948 | [393948-hero-of-ideal.json](./393948-hero-of-ideal.json) |
