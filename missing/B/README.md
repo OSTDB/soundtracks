@@ -835,7 +835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -994,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakahaza | 356215 | [356215-bakahaza.json](./356215-bakahaza.json) |
 | Bakahazard | 316633 | [316633-bakahazard.json](./316633-bakahazard.json) |
 | Bakar Game | 365275 | [365275-bakar-game.json](./365275-bakar-game.json) |
+| Bakaru: Lendas Indígenas Brasileiras | 289278 | [289278-bakaru-lendas-indigenas-brasileiras.json](./289278-bakaru-lendas-indigenas-brasileiras.json) |
 | BakaSonic | 323034 | [323034-bakasonic.json](./323034-bakasonic.json) |
 | Bakatonosama Mahjong Manyuki | 47575 | [47575-bakatonosama-mahjong-manyuki.json](./47575-bakatonosama-mahjong-manyuki.json) |
 | Bake Care | 177931 | [177931-bake-care.json](./177931-bake-care.json) |
@@ -5701,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry | 193250 | [193250-berry.json](./193250-berry.json) |
 | Berry Barrel Blitz | 302766 | [302766-berry-barrel-blitz.json](./302766-berry-barrel-blitz.json) |
 | Berry Bash | 301055 | [301055-berry-bash.json](./301055-berry-bash.json) |
+| Berry Berry Mew Mew | 289359 | [289359-berry-berry-mew-mew.json](./289359-berry-berry-mew-mew.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Couple | 334799 | [334799-berry-couple.json](./334799-berry-couple.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
@@ -8177,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
 | Blade Arts: Tasogare no Miyako R'lyeh | 43855 | [43855-blade-arts-tasogare-no-miyako-rlyeh.json](./43855-blade-arts-tasogare-no-miyako-rlyeh.json) |
 | Blade Assault | 207392 | [207392-blade-assault.json](./207392-blade-assault.json) |
+| Blade Assault: Launch Edition | 289354 | [289354-blade-assault-launch-edition.json](./289354-blade-assault-launch-edition.json) |
 | Blade Ballet | 22430 | [22430-blade-ballet.json](./22430-blade-ballet.json) |
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
 | Blade Blitz | 345057 | [345057-blade-blitz.json](./345057-blade-blitz.json) |
@@ -10903,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | BombGears | 110713 | [110713-bombgears.json](./110713-bombgears.json) |
 | Bombinator | 29050 | [29050-bombinator.json](./29050-bombinator.json) |
+| Bombing | 289288 | [289288-bombing.json](./289288-bombing.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
 | Bombing!! 2: A Graffiti Paradise | 225700 | [225700-bombing-2-a-graffiti-paradise.json](./225700-bombing-2-a-graffiti-paradise.json) |
