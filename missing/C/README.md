@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Star Break | 96009 | [96009-candy-star-break.json](./96009-candy-star-break.json) |
 | Candy Storm Bunny Catcher | 342727 | [342727-candy-storm-bunny-catcher.json](./342727-candy-storm-bunny-catcher.json) |
+| Candy Stripe: Minarai Tenshi | 283327 | [283327-candy-stripe-minarai-tenshi.json](./283327-candy-stripe-minarai-tenshi.json) |
 | Candy Sugar Drop | 233475 | [233475-candy-sugar-drop.json](./233475-candy-sugar-drop.json) |
 | Candy Thieves: Tale of Gnomes | 90577 | [90577-candy-thieves-tale-of-gnomes.json](./90577-candy-thieves-tale-of-gnomes.json) |
 | Candy Trail | 359335 | [359335-candy-trail.json](./359335-candy-trail.json) |
@@ -1992,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Night at Gigi's | 407854 | [407854-card-night-at-gigis.json](./407854-card-night-at-gigis.json) |
 | Card Nova Hyper | 236193 | [236193-card-nova-hyper.json](./236193-card-nova-hyper.json) |
 | Card of Darkness | 122759 | [122759-card-of-darkness.json](./122759-card-of-darkness.json) |
+| Card of Destiny: Hikari to Yami no Tougousha | 283328 | [283328-card-of-destiny-hikari-to-yami-no-tougousha.json](./283328-card-of-destiny-hikari-to-yami-no-tougousha.json) |
 | Card of Spirits | 32439 | [32439-card-of-spirits.json](./32439-card-of-spirits.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
 | Card Party Showdown | 405903 | [405903-card-party-showdown.json](./405903-card-party-showdown.json) |
@@ -2927,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Explorer: The Dark Below | 174172 | [174172-castle-explorer-the-dark-below.json](./174172-castle-explorer-the-dark-below.json) |
 | Castle Fall: Age of the Magogs | 91807 | [91807-castle-fall-age-of-the-magogs.json](./91807-castle-fall-age-of-the-magogs.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
+| Castle Fantasia: Seima Taisen | 283329 | [283329-castle-fantasia-seima-taisen.json](./283329-castle-fantasia-seima-taisen.json) |
 | Castle Flipper | 111425 | [111425-castle-flipper.json](./111425-castle-flipper.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Frankenstein | 391290 | [391290-castle-frankenstein.json](./391290-castle-frankenstein.json) |
@@ -8002,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City: 909 | 165950 | [165950-city-909.json](./165950-city-909.json) |
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
 | City::Ephemera | 322040 | [322040-city-ephemera.json](./322040-city-ephemera.json) |
+| City's Hero Collection | 283205 | [283205-citys-hero-collection.json](./283205-citys-hero-collection.json) |
 | City’s Hero Collection | 328537 | [328537-city-s-hero-collection.json](./328537-city-s-hero-collection.json) |
 | CityBattle: Virtual Earth | 78358 | [78358-citybattle-virtual-earth.json](./78358-citybattle-virtual-earth.json) |
 | CityBeat: The Sorority Shuffle | 171990 | [171990-citybeat-the-sorority-shuffle.json](./171990-citybeat-the-sorority-shuffle.json) |
@@ -8724,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climate State | 208671 | [208671-climate-state.json](./208671-climate-state.json) |
 | Climate Station | 350384 | [350384-climate-station.json](./350384-climate-station.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
+| Climax Landers: Motte ke! Minige Campaign | 283331 | [283331-climax-landers-motte-ke-minige-campaign.json](./283331-climax-landers-motte-ke-minige-campaign.json) |
 | Climb | 103965 | [103965-climb.json](./103965-climb.json) |
 | Climb | 182760 | [182760-climb.json](./182760-climb.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
@@ -11174,6 +11179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
+| Computer Intro! | 283015 | [283015-computer-intro.json](./283015-computer-intro.json) |
 | Computer Man | 415496 | [415496-computer-man.json](./415496-computer-man.json) |
 | Computer Manufacturer | 348901 | [348901-computer-manufacturer.json](./348901-computer-manufacturer.json) |
 | Computer Math Games II | 44358 | [44358-computer-math-games-ii.json](./44358-computer-math-games-ii.json) |
@@ -13465,6 +13471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CPU Invaders: Micro Spheres | 413658 | [413658-cpu-invaders-micro-spheres.json](./413658-cpu-invaders-micro-spheres.json) |
 | CPU Invaders: Movie Attack | 396210 | [396210-cpu-invaders-movie-attack.json](./396210-cpu-invaders-movie-attack.json) |
 | CR Godzilla 3S-T Battle | 75894 | [75894-cr-godzilla-3s-t-battle.json](./75894-cr-godzilla-3s-t-battle.json) |
+| CR Hissatsu Shigotonin Pachitte Chonmage @ VPACHI | 283332 | [283332-cr-hissatsu-shigotonin-pachitte-chonmage-vpachi.json](./283332-cr-hissatsu-shigotonin-pachitte-chonmage-vpachi.json) |
 | CR Persona 4 the Pachinko | 59377 | [59377-cr-persona-4-the-pachinko.json](./59377-cr-persona-4-the-pachinko.json) |
 | CR Ring: Noroi no 7-Kakan | 61492 | [61492-cr-ring-noroi-no-7-kakan.json](./61492-cr-ring-noroi-no-7-kakan.json) |
 | CR Ring: Unmei no Hi | 60807 | [60807-cr-ring-unmei-no-hi.json](./60807-cr-ring-unmei-no-hi.json) |
@@ -16517,6 +16524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Pilgrim Pack | 312627 | [312627-cult-of-the-lamb-pilgrim-pack.json](./312627-cult-of-the-lamb-pilgrim-pack.json) |
 | Cult of the Lamb: Relics of the Old Faith | 246406 | [246406-cult-of-the-lamb-relics-of-the-old-faith.json](./246406-cult-of-the-lamb-relics-of-the-old-faith.json) |
 | Cult of the Lamb: Sinful Edition | 310433 | [310433-cult-of-the-lamb-sinful-edition.json](./310433-cult-of-the-lamb-sinful-edition.json) |
+| Cult of the Lamb: Sins of the Flesh | 283335 | [283335-cult-of-the-lamb-sins-of-the-flesh.json](./283335-cult-of-the-lamb-sins-of-the-flesh.json) |
 | Cult of the Lamb: The One Who Waits | 408806 | [408806-cult-of-the-lamb-the-one-who-waits.json](./408806-cult-of-the-lamb-the-one-who-waits.json) |
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
