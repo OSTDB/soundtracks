@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Stop for the Night | 304305 | [304305-a-stop-for-the-night.json](./304305-a-stop-for-the-night.json) |
 | A Storied Life: Tabitha | 362283 | [362283-a-storied-life-tabitha.json](./362283-a-storied-life-tabitha.json) |
 | A storm is approaching | 184447 | [184447-a-storm-is-approaching.json](./184447-a-storm-is-approaching.json) |
+| A Storm Unsung | 296334 | [296334-a-storm-unsung.json](./296334-a-storm-unsung.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
 | A Story Beside | 110710 | [110710-a-story-beside.json](./110710-a-story-beside.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advanced Xoru | 2297 | [2297-advanced-xoru.json](./2297-advanced-xoru.json) |
+| Advancing Chess | 296352 | [296352-advancing-chess.json](./296352-advancing-chess.json) |
 | Advantage Tennis | 11888 | [11888-advantage-tennis.json](./11888-advantage-tennis.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
@@ -13397,6 +13399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
 | Astlibra Mini Side Story: Cave of Genghiri | 185876 | [185876-astlibra-mini-side-story-cave-of-genghiri.json](./185876-astlibra-mini-side-story-cave-of-genghiri.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
+| Aston | 296344 | [296344-aston.json](./296344-aston.json) |
 | Aston May Die | 206576 | [206576-aston-may-die.json](./206576-aston-may-die.json) |
 | Aston Villa Club Football | 267891 | [267891-aston-villa-club-football.json](./267891-aston-villa-club-football.json) |
 | Aston Villa Club Football 2005 | 267895 | [267895-aston-villa-club-football-2005.json](./267895-aston-villa-club-football-2005.json) |
