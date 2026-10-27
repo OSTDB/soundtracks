@@ -2400,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Mud: Offroad Car Simulator & Truck | 270330 | [270330-4x4-mud-offroad-car-simulator-and-truck.json](./270330-4x4-mud-offroad-car-simulator-and-truck.json) |
 | 4x4 Off-Road Challenge | 127168 | [127168-4x4-off-road-challenge.json](./127168-4x4-off-road-challenge.json) |
 | 4x4 Off-Road Racing | 12287 | [12287-4x4-off-road-racing.json](./12287-4x4-off-road-racing.json) |
+| 4x4 OffRoad Collection | 283203 | [283203-4x4-offroad-collection.json](./283203-4x4-offroad-collection.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 4x4 Offroad Driver 2 | 237552 | [237552-4x4-offroad-driver-2.json](./237552-4x4-offroad-driver-2.json) |
 | 4X4 Progress | 333648 | [333648-4x4-progress.json](./333648-4x4-progress.json) |
