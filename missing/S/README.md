@@ -5304,6 +5304,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Industry XXX | 311175 | [311175-sex-industry-xxx.json](./311175-sex-industry-xxx.json) |
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
+| Sex Kitten Sim-Date 2 | 305119 | [305119-sex-kitten-sim-date-2.json](./305119-sex-kitten-sim-date-2.json) |
+| Sex Kitten Sim-Date 4 | 305118 | [305118-sex-kitten-sim-date-4.json](./305118-sex-kitten-sim-date-4.json) |
+| Sex Kitten Sim-Date 5 | 305120 | [305120-sex-kitten-sim-date-5.json](./305120-sex-kitten-sim-date-5.json) |
 | Sex Latex | 272933 | [272933-sex-latex.json](./272933-sex-latex.json) |
 | Sex Lesson | 368086 | [368086-sex-lesson.json](./368086-sex-lesson.json) |
 | Sex Magic | 295320 | [295320-sex-magic.json](./295320-sex-magic.json) |
@@ -10471,6 +10474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull and Bones: Premium Edition | 208432 | [208432-skull-and-bones-premium-edition.json](./208432-skull-and-bones-premium-edition.json) |
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
+| Skull and Bones: Season 3 - Into the Dragon’s Wake | 305238 | [305238-skull-and-bones-season-3-into-the-dragon-s-wake.json](./305238-skull-and-bones-season-3-into-the-dragon-s-wake.json) |
 | Skull Bullets | 188859 | [188859-skull-bullets.json](./188859-skull-bullets.json) |
 | Skull Chainz | 167516 | [167516-skull-chainz.json](./167516-skull-chainz.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
@@ -15874,6 +15878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulivion II | 288821 | [288821-soulivion-ii.json](./288821-soulivion-ii.json) |
 | SoulJah Kingdom Rise | 243372 | [243372-souljah-kingdom-rise.json](./243372-souljah-kingdom-rise.json) |
 | Soulker Defense | 258608 | [258608-soulker-defense.json](./258608-soulker-defense.json) |
+| Soulkin | 305211 | [305211-soulkin.json](./305211-soulkin.json) |
 | Soulknight Survivor | 253363 | [253363-soulknight-survivor.json](./253363-soulknight-survivor.json) |
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
 | Soulless Steel | 268958 | [268958-soulless-steel.json](./268958-soulless-steel.json) |
@@ -21303,6 +21308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | StarLightRiders: HyperJump | 115331 | [115331-starlightriders-hyperjump.json](./115331-starlightriders-hyperjump.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
+| Starlink Battle For Atlas: Lance Starship Pack | 305232 | [305232-starlink-battle-for-atlas-lance-starship-pack.json](./305232-starlink-battle-for-atlas-lance-starship-pack.json) |
 | Starlink: Battle for Atlas | 317065 | [317065-starlink-battle-for-atlas.json](./317065-starlink-battle-for-atlas.json) |
 | Starlink: Battle for Atlas - Collection Pack 2 | 168441 | [168441-starlink-battle-for-atlas-collection-pack-2.json](./168441-starlink-battle-for-atlas-collection-pack-2.json) |
 | Starlink: Battle for Atlas - Deluxe Edition | 121507 | [121507-starlink-battle-for-atlas-deluxe-edition.json](./121507-starlink-battle-for-atlas-deluxe-edition.json) |
@@ -24336,6 +24342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stubborn Shibas | 382408 | [382408-stubborn-shibas.json](./382408-stubborn-shibas.json) |
 | Stubbs the Zombie in Rebel Without a Pulse | 79 | [79-stubbs-the-zombie-in-rebel-without-a-pulse.json](./79-stubbs-the-zombie-in-rebel-without-a-pulse.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
+| Stuck At Lv. 1 | 305126 | [305126-stuck-at-lv-1.json](./305126-stuck-at-lv-1.json) |
 | Stuck in Fears: North-east | 383471 | [383471-stuck-in-fears-north-east.json](./383471-stuck-in-fears-north-east.json) |
 | Stuck In Paris | 182132 | [182132-stuck-in-paris.json](./182132-stuck-in-paris.json) |
 | Stuck in the Airport | 357186 | [357186-stuck-in-the-airport.json](./357186-stuck-in-the-airport.json) |
