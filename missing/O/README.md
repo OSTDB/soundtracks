@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Village Simulator 1962 | 10638 | [10638-old-village-simulator-1962.json](./10638-old-village-simulator-1962.json) |
 | Old Watch | 76681 | [76681-old-watch.json](./76681-old-watch.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
+| Old World: Behind the Throne | 296841 | [296841-old-world-behind-the-throne.json](./296841-old-world-behind-the-throne.json) |
 | Old World: Complete | 219778 | [219778-old-world-complete.json](./219778-old-world-complete.json) |
 | Old World: Empires of the Indus | 400418 | [400418-old-world-empires-of-the-indus.json](./400418-old-world-empires-of-the-indus.json) |
 | Old World: Heroes of the Aegean | 199580 | [199580-old-world-heroes-of-the-aegean.json](./199580-old-world-heroes-of-the-aegean.json) |
