@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
 | Idra and the Little Fish | 229637 | [229637-idra-and-the-little-fish.json](./229637-idra-and-the-little-fish.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
+| Idumea | 319039 | [319039-idumea.json](./319039-idumea.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
 | Idun: Frontline Survival | 329284 | [329284-idun-frontline-survival.json](./329284-idun-frontline-survival.json) |
 | Idunn Gurdians | 121540 | [121540-idunn-gurdians.json](./121540-idunn-gurdians.json) |
@@ -3364,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Star M | 208175 | [208175-infinity-star-m.json](./208175-infinity-star-m.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai: Digital Deluxe Edition | 262330 | [262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json](./262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json) |
+| Infinity Sweeper | 319032 | [319032-infinity-sweeper.json](./319032-infinity-sweeper.json) |
 | Infinity Sword | 105665 | [105665-infinity-sword.json](./105665-infinity-sword.json) |
 | Infinity Tank Battle | 107389 | [107389-infinity-tank-battle.json](./107389-infinity-tank-battle.json) |
 | Infinity Tao | 284273 | [284273-infinity-tao.json](./284273-infinity-tao.json) |
@@ -5224,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
 | Island Hopper | 93421 | [93421-island-hopper.json](./93421-island-hopper.json) |
 | Island Invasion | 112675 | [112675-island-invasion.json](./112675-island-invasion.json) |
+| Island Keeper | 319051 | [319051-island-keeper.json](./319051-island-keeper.json) |
 | Island King | 261415 | [261415-island-king.json](./261415-island-king.json) |
 | Island Life | 92439 | [92439-island-life.json](./92439-island-life.json) |
 | Island Maker | 383738 | [383738-island-maker.json](./383738-island-maker.json) |
