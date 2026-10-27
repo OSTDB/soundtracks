@@ -3323,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pekoratchi | 256977 | [256977-pekoratchi.json](./256977-pekoratchi.json) |
 | Peku | 117383 | [117383-peku.json](./117383-peku.json) |
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
+| Pelago | 303984 | [303984-pelago.json](./303984-pelago.json) |
 | Pelé: Soccer Legend | 234613 | [234613-pele-soccer-legend.json](./234613-pele-soccer-legend.json) |
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
 | Pelea | 51546 | [51546-pelea.json](./51546-pelea.json) |
@@ -3735,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Landing | 265587 | [265587-perfect-landing.json](./265587-perfect-landing.json) |
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
+| Perfect Love | 304089 | [304089-perfect-love.json](./304089-perfect-love.json) |
 | Perfect Match | 15338 | [15338-perfect-match.json](./15338-perfect-match.json) |
 | Perfect Match | 313739 | [313739-perfect-match.json](./313739-perfect-match.json) |
 | Perfect Match 2 | 313740 | [313740-perfect-match-2.json](./313740-perfect-match-2.json) |
@@ -3848,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perman World | 346040 | [346040-perman-world.json](./346040-perman-world.json) |
 | Permanence | 145927 | [145927-permanence.json](./145927-permanence.json) |
 | Permanence | 225795 | [225795-permanence.json](./225795-permanence.json) |
+| Permanence Break | 303985 | [303985-permanence-break.json](./303985-permanence-break.json) |
 | Permanence TD | 195256 | [195256-permanence-td.json](./195256-permanence-td.json) |
 | Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
 | Permanent Sleep | 220742 | [220742-permanent-sleep.json](./220742-permanent-sleep.json) |
@@ -7330,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeline: Star Hotel | 64503 | [64503-pixeline-star-hotel.json](./64503-pixeline-star-hotel.json) |
 | Pixeline: Syng, Leg og Lær | 143751 | [143751-pixeline-syng-leg-og-l-r.json](./143751-pixeline-syng-leg-og-l-r.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
+| Pixelitos: Spritle Royale | 303979 | [303979-pixelitos-spritle-royale.json](./303979-pixelitos-spritle-royale.json) |
 | PixelJunk Eden 2 | 131872 | [131872-pixeljunk-eden-2.json](./131872-pixeljunk-eden-2.json) |
 | PixelJunk Eden Encore | 140012 | [140012-pixeljunk-eden-encore.json](./140012-pixeljunk-eden-encore.json) |
 | PixelJunk Eden Obscura | 140013 | [140013-pixeljunk-eden-obscura.json](./140013-pixeljunk-eden-obscura.json) |
@@ -10625,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poolcore: Submersion | 354485 | [354485-poolcore-submersion.json](./354485-poolcore-submersion.json) |
 | Poolgame | 222962 | [222962-poolgame.json](./222962-poolgame.json) |
 | Pooliminal | 412202 | [412202-pooliminal.json](./412202-pooliminal.json) |
+| Poolrooms | 303990 | [303990-poolrooms.json](./303990-poolrooms.json) |
 | Pools | 274791 | [274791-pools.json](./274791-pools.json) |
 | Pools of Darkness | 12761 | [12761-pools-of-darkness.json](./12761-pools-of-darkness.json) |
 | Poolscape | 379400 | [379400-poolscape.json](./379400-poolscape.json) |
@@ -15052,6 +15057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Purgatory: Mark's Creepy Story | 235291 | [235291-purgatory-marks-creepy-story.json](./235291-purgatory-marks-creepy-story.json) |
 | Purgatory: War of the Damned | 10729 | [10729-purgatory-war-of-the-damned.json](./10729-purgatory-war-of-the-damned.json) |
+| Purge Party | 303996 | [303996-purge-party.json](./303996-purge-party.json) |
 | Purge Persist and Profit | 184233 | [184233-purge-persist-and-profit.json](./184233-purge-persist-and-profit.json) |
 | Purge: Three vs Blood | 190975 | [190975-purge-three-vs-blood.json](./190975-purge-three-vs-blood.json) |
 | Puri-Puri | 177935 | [177935-puri-puri.json](./177935-puri-puri.json) |
@@ -15801,6 +15807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzzles & Conquest | 234451 | [234451-puzzles-and-conquest.json](./234451-puzzles-and-conquest.json) |
 | Puzzles & Survival | 215091 | [215091-puzzles-and-survival.json](./215091-puzzles-and-survival.json) |
+| Puzzles and Pieces | 304081 | [304081-puzzles-and-pieces.json](./304081-puzzles-and-pieces.json) |
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
 | Puzzles By Axis | 86415 | [86415-puzzles-by-axis.json](./86415-puzzles-by-axis.json) |
 | Puzzles Dino | 414501 | [414501-puzzles-dino.json](./414501-puzzles-dino.json) |
