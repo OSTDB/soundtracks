@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House for Alesa 3 | 303314 | [303314-a-house-for-alesa-3.json](./303314-a-house-for-alesa-3.json) |
 | A House for Alesa Remake | 398636 | [398636-a-house-for-alesa-remake.json](./398636-a-house-for-alesa-remake.json) |
 | A House in California | 60457 | [60457-a-house-in-california.json](./60457-a-house-in-california.json) |
+| A House in the Rift | 314798 | [314798-a-house-in-the-rift.json](./314798-a-house-in-the-rift.json) |
 | A House Inside Me | 397286 | [397286-a-house-inside-me.json](./397286-a-house-inside-me.json) |
 | A House Made of Sweets | 387931 | [387931-a-house-made-of-sweets.json](./387931-a-house-made-of-sweets.json) |
 | A House of Endless Windows | 345040 | [345040-a-house-of-endless-windows.json](./345040-a-house-of-endless-windows.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Second Face: The Eye of Geltz is watching Us | 67684 | [67684-a-second-face-the-eye-of-geltz-is-watching-us.json](./67684-a-second-face-the-eye-of-geltz-is-watching-us.json) |
 | A Second Mario Bros. X Thing: Analog Funk | 304212 | [304212-a-second-mario-bros-x-thing-analog-funk.json](./304212-a-second-mario-bros-x-thing-analog-funk.json) |
+| A Secret Between You and Me | 314792 | [314792-a-secret-between-you-and-me.json](./314792-a-secret-between-you-and-me.json) |
 | A Series of Temporal Mishaps | 193269 | [193269-a-series-of-temporal-mishaps.json](./193269-a-series-of-temporal-mishaps.json) |
 | A Session with Dr. Liebnitz | 338402 | [338402-a-session-with-dr-liebnitz.json](./338402-a-session-with-dr-liebnitz.json) |
 | A Sexy Tour With Marie | 368576 | [368576-a-sexy-tour-with-marie.json](./368576-a-sexy-tour-with-marie.json) |
@@ -12464,6 +12466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asaki, Yumemishi ~Hitotose~ | 130021 | [130021-asaki-yumemishi-hitotose.json](./130021-asaki-yumemishi-hitotose.json) |
 | Asakura! P | 63096 | [63096-asakura-p.json](./63096-asakura-p.json) |
 | Asameshimae Nyanko | 44450 | [44450-asameshimae-nyanko.json](./44450-asameshimae-nyanko.json) |
+| Asami Escape | 314809 | [314809-asami-escape.json](./314809-asami-escape.json) |
 | Asatsugutori | 163145 | [163145-asatsugutori.json](./163145-asatsugutori.json) |
 | Asbak | 303896 | [303896-asbak.json](./303896-asbak.json) |
 | Asbury Pines | 258480 | [258480-asbury-pines.json](./258480-asbury-pines.json) |
