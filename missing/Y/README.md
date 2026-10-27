@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yo! Noid | 19612 | [19612-yo-noid.json](./19612-yo-noid.json) |
 | Yo! Noid 2: Game of a Year Edition | 133918 | [133918-yo-noid-2-game-of-a-year-edition.json](./133918-yo-noid-2-game-of-a-year-edition.json) |
+| Yo! Noid 4: Episode 3 | 316597 | [316597-yo-noid-4-episode-3.json](./316597-yo-noid-4-episode-3.json) |
 | Yo! Walk the Line | 96324 | [96324-yo-walk-the-line.json](./96324-yo-walk-the-line.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
 | Yoake Mae yori Ruri Iro na | 60801 | [60801-yoake-mae-yori-ruri-iro-na.json](./60801-yoake-mae-yori-ruri-iro-na.json) |
@@ -1687,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
 | Yumeutsutsu Re:Master Bundle Pack | 144205 | [144205-yumeutsutsu-re-master-bundle-pack.json](./144205-yumeutsutsu-re-master-bundle-pack.json) |
+| Yumezame no Kasetsu | 316667 | [316667-yumezame-no-kasetsu.json](./316667-yumezame-no-kasetsu.json) |
 | Yumi's Adventure | 348211 | [348211-yumis-adventure.json](./348211-yumis-adventure.json) |
 | Yumiko in the Haunted Mansion | 220776 | [220776-yumiko-in-the-haunted-mansion.json](./220776-yumiko-in-the-haunted-mansion.json) |
 | Yumm | 343615 | [343615-yumm.json](./343615-yumm.json) |
