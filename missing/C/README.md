@@ -3841,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden in Japan | 280654 | [280654-cats-hidden-in-japan.json](./280654-cats-hidden-in-japan.json) |
 | Cats Hidden in Magic Places | 309047 | [309047-cats-hidden-in-magic-places.json](./309047-cats-hidden-in-magic-places.json) |
 | Cats Hidden in Paris: Extra Level | 255705 | [255705-cats-hidden-in-paris-extra-level.json](./255705-cats-hidden-in-paris-extra-level.json) |
+| Cats Hidden in Spooky Places | 317895 | [317895-cats-hidden-in-spooky-places.json](./317895-cats-hidden-in-spooky-places.json) |
 | Cats Hidden Timeline | 311896 | [311896-cats-hidden-timeline.json](./311896-cats-hidden-timeline.json) |
 | Cats Hiding in 3D | 318209 | [318209-cats-hiding-in-3d.json](./318209-cats-hiding-in-3d.json) |
 | Cats Huddled Together | 277839 | [277839-cats-huddled-together.json](./277839-cats-huddled-together.json) |
@@ -11917,6 +11918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Cats Pop | 95331 | [95331-cookie-cats-pop.json](./95331-cookie-cats-pop.json) |
 | Cookie Champion | 175187 | [175187-cookie-champion.json](./175187-cookie-champion.json) |
 | Cookie Clicker | 215855 | [215855-cookie-clicker.json](./215855-cookie-clicker.json) |
+| Cookie Clicker classic | 317780 | [317780-cookie-clicker-classic.json](./317780-cookie-clicker-classic.json) |
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
 | Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
 | Cookie Collector 2 | 58734 | [58734-cookie-collector-2.json](./58734-cookie-collector-2.json) |
@@ -11965,6 +11967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena | 259586 | [259586-cooking-arena.json](./259586-cooking-arena.json) |
 | Cooking Arena Breakfast Bonanza | 316197 | [316197-cooking-arena-breakfast-bonanza.json](./316197-cooking-arena-breakfast-bonanza.json) |
 | Cooking Arena Culinary Legends | 385177 | [385177-cooking-arena-culinary-legends.json](./385177-cooking-arena-culinary-legends.json) |
+| Cooking Arena Doner Delight | 317896 | [317896-cooking-arena-doner-delight.json](./317896-cooking-arena-doner-delight.json) |
 | Cooking Arena Pancake Paradise | 316198 | [316198-cooking-arena-pancake-paradise.json](./316198-cooking-arena-pancake-paradise.json) |
 | Cooking Arena Ultimate Feast | 381808 | [381808-cooking-arena-ultimate-feast.json](./381808-cooking-arena-ultimate-feast.json) |
 | Cooking Arena World Tour Edition | 385196 | [385196-cooking-arena-world-tour-edition.json](./385196-cooking-arena-world-tour-edition.json) |
