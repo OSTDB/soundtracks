@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3465,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
 | Battle Teams 2 | 102862 | [102862-battle-teams-2.json](./102862-battle-teams-2.json) |
 | Battle Teams 2: Iconic Bundle | 302206 | [302206-battle-teams-2-iconic-bundle.json](./302206-battle-teams-2-iconic-bundle.json) |
+| Battle Teams 2: She Panda Gift Pack | 324285 | [324285-battle-teams-2-she-panda-gift-pack.json](./324285-battle-teams-2-she-panda-gift-pack.json) |
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
 | Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
@@ -6313,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Boo's Revenge | 261431 | [261431-big-boos-revenge.json](./261431-big-boos-revenge.json) |
 | Big Boot Baseball | 116063 | [116063-big-boot-baseball.json](./116063-big-boot-baseball.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
+| Big Boy Adventure | 324340 | [324340-big-boy-adventure.json](./324340-big-boy-adventure.json) |
 | Big Boy Boxing | 145410 | [145410-big-boy-boxing.json](./145410-big-boy-boxing.json) |
 | Big Brain Wolf | 14993 | [14993-big-brain-wolf.json](./14993-big-brain-wolf.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
@@ -15427,6 +15430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Busy Beaver | 134399 | [134399-busy-busy-beaver.json](./134399-busy-busy-beaver.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | Busy Spider | 117450 | [117450-busy-spider.json](./117450-busy-spider.json) |
+| Busy Streets | 324269 | [324269-busy-streets.json](./324269-busy-streets.json) |
 | Busy Sweets Factory | 44499 | [44499-busy-sweets-factory.json](./44499-busy-sweets-factory.json) |
 | Busy With Holes | 365561 | [365561-busy-with-holes.json](./365561-busy-with-holes.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
