@@ -3075,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Sharpshooter 4 | 27562 | [27562-marine-sharpshooter-4.json](./27562-marine-sharpshooter-4.json) |
 | Marine Sharpshooter II: Jungle Warfare | 10537 | [10537-marine-sharpshooter-ii-jungle-warfare.json](./10537-marine-sharpshooter-ii-jungle-warfare.json) |
 | Marine Survivors | 213970 | [213970-marine-survivors.json](./213970-marine-survivors.json) |
+| Marine Survivors | 331230 | [331230-marine-survivors.json](./331230-marine-survivors.json) |
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Marine Wars | 40583 | [40583-marine-wars.json](./40583-marine-wars.json) |
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
@@ -9075,9 +9076,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 2002: Professional Edition | 711 | [711-microsoft-flight-simulator-2002-professional-edition.json](./711-microsoft-flight-simulator-2002-professional-edition.json) |
 | Microsoft Flight Simulator 2004: A Century of Flight | 712 | [712-microsoft-flight-simulator-2004-a-century-of-flight.json](./712-microsoft-flight-simulator-2004-a-century-of-flight.json) |
 | Microsoft Flight Simulator 2024 | 252830 | [252830-microsoft-flight-simulator-2024.json](./252830-microsoft-flight-simulator-2024.json) |
+| Microsoft Flight Simulator 2024: Aviator Edition | 331260 | [331260-microsoft-flight-simulator-2024-aviator-edition.json](./331260-microsoft-flight-simulator-2024-aviator-edition.json) |
 | Microsoft Flight Simulator 2024: City Update 12 - Germany 2 | 362039 | [362039-microsoft-flight-simulator-2024-city-update-12-germany-2.json](./362039-microsoft-flight-simulator-2024-city-update-12-germany-2.json) |
 | Microsoft Flight Simulator 2024: City Update 16 - Italy | 415296 | [415296-microsoft-flight-simulator-2024-city-update-16-italy.json](./415296-microsoft-flight-simulator-2024-city-update-16-italy.json) |
+| Microsoft Flight Simulator 2024: Deluxe Edition | 331261 | [331261-microsoft-flight-simulator-2024-deluxe-edition.json](./331261-microsoft-flight-simulator-2024-deluxe-edition.json) |
 | Microsoft Flight Simulator 2024: National Championship Air Races | 405085 | [405085-microsoft-flight-simulator-2024-national-championship-air-races.json](./405085-microsoft-flight-simulator-2024-national-championship-air-races.json) |
+| Microsoft Flight Simulator 2024: Premium Deluxe Edition | 331262 | [331262-microsoft-flight-simulator-2024-premium-deluxe-edition.json](./331262-microsoft-flight-simulator-2024-premium-deluxe-edition.json) |
 | Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
 | Microsoft Flight Simulator 2024: World Update 22 - US National Parks | 405084 | [405084-microsoft-flight-simulator-2024-world-update-22-us-national-parks.json](./405084-microsoft-flight-simulator-2024-world-update-22-us-national-parks.json) |
 | Microsoft Flight Simulator 3.0 | 3355 | [3355-microsoft-flight-simulator-3-0.json](./3355-microsoft-flight-simulator-3-0.json) |
@@ -13511,6 +13515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Path | 187226 | [187226-monster-path.json](./187226-monster-path.json) |
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
+| Monster Physics | 331232 | [331232-monster-physics.json](./331232-monster-physics.json) |
 | Monster Pitfall | 56841 | [56841-monster-pitfall.json](./56841-monster-pitfall.json) |
 | Monster Planet 2 | 233426 | [233426-monster-planet-2.json](./233426-monster-planet-2.json) |
 | Monster Poolside Sumo | 263468 | [263468-monster-poolside-sumo.json](./263468-monster-poolside-sumo.json) |
@@ -14256,6 +14261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
 | Mordhau: Archduke Set | 272449 | [272449-mordhau-archduke-set.json](./272449-mordhau-archduke-set.json) |
+| Mordhau: Diamond Edition | 331263 | [331263-mordhau-diamond-edition.json](./331263-mordhau-diamond-edition.json) |
 | Mordhau: Gold Edition | 256429 | [256429-mordhau-gold-edition.json](./256429-mordhau-gold-edition.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
 | Mordheim: City of the Damned - Complete Edition | 121424 | [121424-mordheim-city-of-the-damned-complete-edition.json](./121424-mordheim-city-of-the-damned-complete-edition.json) |
