@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakeboarding HD | 53013 | [53013-wakeboarding-hd.json](./53013-wakeboarding-hd.json) |
 | Wakeboarding Unleashed Featuring Shaun Murray | 23694 | [23694-wakeboarding-unleashed-featuring-shaun-murray.json](./23694-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Wakeboarding Unleashed Featuring Shaun Murray | 248685 | [248685-wakeboarding-unleashed-featuring-shaun-murray.json](./248685-wakeboarding-unleashed-featuring-shaun-murray.json) |
+| Wakeboarding XS | 325383 | [325383-wakeboarding-xs.json](./325383-wakeboarding-xs.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
 | Wakey Wakey | 178568 | [178568-wakey-wakey.json](./178568-wakey-wakey.json) |
 | Wakfu: Kelba Island | 23650 | [23650-wakfu-kelba-island.json](./23650-wakfu-kelba-island.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanting Shock | 361675 | [361675-wanting-shock.json](./361675-wanting-shock.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
 | Wantless: Solace at World’s End | 179999 | [179999-wantless-solace-at-world-s-end.json](./179999-wantless-solace-at-world-s-end.json) |
+| Wanwan Datte Uchuu No Shinpi | 325385 | [325385-wanwan-datte-uchuu-no-shinpi.json](./325385-wanwan-datte-uchuu-no-shinpi.json) |
 | Waochi! Math Homerun | 395686 | [395686-waochi-math-homerun.json](./395686-waochi-math-homerun.json) |
 | Wappy Dog | 47852 | [47852-wappy-dog.json](./47852-wappy-dog.json) |
 | War | 255331 | [255331-war.json](./255331-war.json) |
@@ -1639,7 +1641,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
 | Warplanes: Air Corp | 266302 | [266302-warplanes-air-corp.json](./266302-warplanes-air-corp.json) |
 | Warplanes: Battles over Pacific | 195395 | [195395-warplanes-battles-over-pacific.json](./195395-warplanes-battles-over-pacific.json) |
+| Warplanes: WW1 + Space Commander Bundle | 325402 | [325402-warplanes-ww1-space-commander-bundle.json](./325402-warplanes-ww1-space-commander-bundle.json) |
+| Warplanes: WW1 + WW2 + Space Commander Bundle | 325401 | [325401-warplanes-ww1-ww2-space-commander-bundle.json](./325401-warplanes-ww1-ww2-space-commander-bundle.json) |
 | Warplanes: WW1 Sky Aces | 123569 | [123569-warplanes-ww1-sky-aces.json](./123569-warplanes-ww1-sky-aces.json) |
+| Warplanes: WW2 + Space Commander Bundle | 325403 | [325403-warplanes-ww2-space-commander-bundle.json](./325403-warplanes-ww2-space-commander-bundle.json) |
 | Warplanes: WW2 Dogfight | 112929 | [112929-warplanes-ww2-dogfight.json](./112929-warplanes-ww2-dogfight.json) |
 | Warplock | 377152 | [377152-warplock.json](./377152-warplock.json) |
 | Warpman | 48640 | [48640-warpman.json](./48640-warpman.json) |
