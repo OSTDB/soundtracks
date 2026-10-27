@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor | 352790 | [352790-raptor.json](./352790-raptor.json) |
 | Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
 | Raptor Evolution: Gold Edition | 404283 | [404283-raptor-evolution-gold-edition.json](./404283-raptor-evolution-gold-edition.json) |
+| Raptor Rampage: Dino Hunter | 317208 | [317208-raptor-rampage-dino-hunter.json](./317208-raptor-rampage-dino-hunter.json) |
 | Raptor RPG: Dino Sim | 328377 | [328377-raptor-rpg-dino-sim.json](./328377-raptor-rpg-dino-sim.json) |
 | Raptor Runner | 349656 | [349656-raptor-runner.json](./349656-raptor-runner.json) |
 | Raptor Rush | 242610 | [242610-raptor-rush.json](./242610-raptor-rush.json) |
@@ -2812,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reasonable Claustrophobia | 182922 | [182922-reasonable-claustrophobia.json](./182922-reasonable-claustrophobia.json) |
 | Reasoning of Courage Nori 3 Balanced Diet | 251680 | [251680-reasoning-of-courage-nori-3-balanced-diet.json](./251680-reasoning-of-courage-nori-3-balanced-diet.json) |
+| Reasoning of Courage Nori 8 Definition of Kindness | 317274 | [317274-reasoning-of-courage-nori-8-definition-of-kindness.json](./317274-reasoning-of-courage-nori-8-definition-of-kindness.json) |
 | Reasons | 349789 | [349789-reasons.json](./349789-reasons.json) |
 | Reasons For Kym | 304720 | [304720-reasons-for-kym.json](./304720-reasons-for-kym.json) |
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
@@ -4877,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonite | 269473 | [269473-resonite.json](./269473-resonite.json) |
 | Resonurgy | 422662 | [422662-resonurgy.json](./422662-resonurgy.json) |
 | Résop Paz Yandere True | 320149 | [320149-resop-paz-yandere-true.json](./320149-resop-paz-yandere-true.json) |
+| Resope! | 317275 | [317275-resope.json](./317275-resope.json) |
 | Resoraki | 238652 | [238652-resoraki.json](./238652-resoraki.json) |
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
 | Resort Boss: Golf | 114798 | [114798-resort-boss-golf.json](./114798-resort-boss-golf.json) |
@@ -9407,6 +9410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
 | Rope Dancer | 359320 | [359320-rope-dancer.json](./359320-rope-dancer.json) |
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
+| Rope Hope | 317270 | [317270-rope-hope.json](./317270-rope-hope.json) |
 | Rope Rescue | 65772 | [65772-rope-rescue.json](./65772-rope-rescue.json) |
 | Rope Up! | 401165 | [401165-rope-up.json](./401165-rope-up.json) |
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
