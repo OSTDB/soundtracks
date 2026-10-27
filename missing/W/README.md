@@ -3740,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhichWayOut? | 287703 | [287703-whichwayout.json](./287703-whichwayout.json) |
 | Whiff of Fear | 101978 | [101978-whiff-of-fear.json](./101978-whiff-of-fear.json) |
 | Whiffle Blasters | 116850 | [116850-whiffle-blasters.json](./116850-whiffle-blasters.json) |
+| While (true) | 312594 | [312594-while-true.json](./312594-while-true.json) |
 | While 1: | 364620 | [364620-while-1.json](./364620-while-1.json) |
 | While Dreaming | 185357 | [185357-while-dreaming.json](./185357-while-dreaming.json) |
 | While Mom is Away | 312552 | [312552-while-mom-is-away.json](./312552-while-mom-is-away.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire | 243 | [243-who-wants-to-be-a-millionaire.json](./243-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 310596 | [310596-who-wants-to-be-a-millionaire.json](./310596-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 310597 | [310597-who-wants-to-be-a-millionaire.json](./310597-who-wants-to-be-a-millionaire.json) |
+| Who Wants to Be a Millionaire | 312608 | [312608-who-wants-to-be-a-millionaire.json](./312608-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 81512 | [81512-who-wants-to-be-a-millionaire.json](./81512-who-wants-to-be-a-millionaire.json) |
 | Who Wants To Be A Millionaire 2010 | 311654 | [311654-who-wants-to-be-a-millionaire-2010.json](./311654-who-wants-to-be-a-millionaire-2010.json) |
 | Who Wants to Be a Millionaire: 1st Edition | 50649 | [50649-who-wants-to-be-a-millionaire-1st-edition.json](./50649-who-wants-to-be-a-millionaire-1st-edition.json) |
@@ -5150,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games Collection | 324192 | [324192-winter-games-collection.json](./324192-winter-games-collection.json) |
 | Winter Games Collection + Advent Calendar | 357021 | [357021-winter-games-collection-advent-calendar.json](./357021-winter-games-collection-advent-calendar.json) |
 | Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
+| Winter Girl | 312539 | [312539-winter-girl.json](./312539-winter-girl.json) |
 | Winter Girls 2048 | 111366 | [111366-winter-girls-2048.json](./111366-winter-girls-2048.json) |
 | Winter Grae | 188827 | [188827-winter-grae.json](./188827-winter-grae.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
@@ -6845,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Enduro Rally | 111671 | [111671-world-enduro-rally.json](./111671-world-enduro-rally.json) |
 | World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
 | World Eternal Online | 222460 | [222460-world-eternal-online.json](./222460-world-eternal-online.json) |
+| World Eternal: Battlegrounds | 312537 | [312537-world-eternal-battlegrounds.json](./312537-world-eternal-battlegrounds.json) |
 | World Evolution Soccer | 263907 | [263907-world-evolution-soccer.json](./263907-world-evolution-soccer.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
@@ -6874,6 +6878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Hockey '88 | 334604 | [334604-world-hockey-88.json](./334604-world-hockey-88.json) |
 | World Hockey '95 | 71973 | [71973-world-hockey-95.json](./71973-world-hockey-95.json) |
 | World Hockey Manager | 88883 | [88883-world-hockey-manager.json](./88883-world-hockey-manager.json) |
+| World Horror Story | 312538 | [312538-world-horror-story.json](./312538-world-horror-story.json) |
 | World Hunter | 60634 | [60634-world-hunter.json](./60634-world-hunter.json) |
 | World II World | 218096 | [218096-world-ii-world.json](./218096-world-ii-world.json) |
 | World II: Hunting Boss | 82403 | [82403-world-ii-hunting-boss.json](./82403-world-ii-hunting-boss.json) |
@@ -7453,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormgrubber | 257522 | [257522-wormgrubber.json](./257522-wormgrubber.json) |
 | Wormhole | 195084 | [195084-wormhole.json](./195084-wormhole.json) |
 | Wormhole | 307618 | [307618-wormhole.json](./307618-wormhole.json) |
+| Wormhole | 312528 | [312528-wormhole.json](./312528-wormhole.json) |
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
 | Wormhole Adventurer | 199273 | [199273-wormhole-adventurer.json](./199273-wormhole-adventurer.json) |
 | Wormhole Cafe | 235709 | [235709-wormhole-cafe.json](./235709-wormhole-cafe.json) |
@@ -7595,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wow! Wow! Wubbzy | 76890 | [76890-wow-wow-wubbzy.json](./76890-wow-wow-wubbzy.json) |
 | Wowo Island | 375508 | [375508-wowo-island.json](./375508-wowo-island.json) |
 | Wowowow Korone Box | 165402 | [165402-wowowow-korone-box.json](./165402-wowowow-korone-box.json) |
+| Woxin Jianghu | 312529 | [312529-woxin-jianghu.json](./312529-woxin-jianghu.json) |
 | Woyo!! | 301958 | [301958-woyo.json](./301958-woyo.json) |
 | Wozznic | 88839 | [88839-wozznic.json](./88839-wozznic.json) |
 | WPCA: World Phasebound Control Authority | 394524 | [394524-wpca-world-phasebound-control-authority.json](./394524-wpca-world-phasebound-control-authority.json) |
@@ -7800,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong | 372615 | [372615-wrong.json](./372615-wrong.json) |
 | Wrong Answer | 389676 | [389676-wrong-answer.json](./389676-wrong-answer.json) |
 | Wrong Box | 174179 | [174179-wrong-box.json](./174179-wrong-box.json) |
+| Wrong Bullet | 312530 | [312530-wrong-bullet.json](./312530-wrong-bullet.json) |
 | Wrong Dimension - The One Dimensional Platformer | 32224 | [32224-wrong-dimension-the-one-dimensional-platformer.json](./32224-wrong-dimension-the-one-dimensional-platformer.json) |
 | Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
 | Wrong Elevator | 291297 | [291297-wrong-elevator.json](./291297-wrong-elevator.json) |
@@ -7859,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wukong Survivors: God Slayer | 387507 | [387507-wukong-survivors-god-slayer.json](./387507-wukong-survivors-god-slayer.json) |
 | WuKong Up | 288452 | [288452-wukong-up.json](./288452-wukong-up.json) |
 | Wukong's Child: Monkey King Myth | 317268 | [317268-wukongs-child-monkey-king-myth.json](./317268-wukongs-child-monkey-king-myth.json) |
+| Wukong's Pool | 312532 | [312532-wukongs-pool.json](./312532-wukongs-pool.json) |
 | Wulfram | 64092 | [64092-wulfram.json](./64092-wulfram.json) |
 | Wulfram II | 71227 | [71227-wulfram-ii.json](./71227-wulfram-ii.json) |
 | Wulin Chess | 155938 | [155938-wulin-chess.json](./155938-wulin-chess.json) |
@@ -8084,6 +8093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | wxSand | 146671 | [146671-wxsand.json](./146671-wxsand.json) |
 | Wyatt Derp | 57762 | [57762-wyatt-derp.json](./57762-wyatt-derp.json) |
 | Wyatt Derp 2: Peacekeeper | 57722 | [57722-wyatt-derp-2-peacekeeper.json](./57722-wyatt-derp-2-peacekeeper.json) |
+| Wyatt Earp and The Cowboys Wargame Ssp | 312534 | [312534-wyatt-earp-and-the-cowboys-wargame-ssp.json](./312534-wyatt-earp-and-the-cowboys-wargame-ssp.json) |
 | Wyatt Earp's Old West | 58072 | [58072-wyatt-earps-old-west.json](./58072-wyatt-earps-old-west.json) |
 | Wycheweald | 340730 | [340730-wycheweald.json](./340730-wycheweald.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
