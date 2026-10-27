@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Against Humanity | 377779 | [377779-capybara-against-humanity.json](./377779-capybara-against-humanity.json) |
 | Capybara and Friends Cozy Bundle | 357721 | [357721-capybara-and-friends-cozy-bundle.json](./357721-capybara-and-friends-cozy-bundle.json) |
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
+| Capybara Fighters! | 312609 | [312609-capybara-fighters.json](./312609-capybara-fighters.json) |
 | Capybara Go! | 318448 | [318448-capybara-go.json](./318448-capybara-go.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Madness | 231273 | [231273-capybara-madness.json](./231273-capybara-madness.json) |
