@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS: F-15C Aggressors Air Combat Maneuvering Campaign by Maple Flag | 296518 | [296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json](./296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json) |
 | DCS: Mi-24P OutPost Campaign by Stone Sky | 296887 | [296887-dcs-mi-24p-outpost-campaign-by-stone-sky.json](./296887-dcs-mi-24p-outpost-campaign-by-stone-sky.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
+| DCS: P-51D Debden Eagles Campaign by Reflected Simulations | 285061 | [285061-dcs-p-51d-debden-eagles-campaign-by-reflected-simulations.json](./285061-dcs-p-51d-debden-eagles-campaign-by-reflected-simulations.json) |
 | DD Sequencer | 356285 | [356285-dd-sequencer.json](./356285-dd-sequencer.json) |
 | DDD Pool | 92835 | [92835-ddd-pool.json](./92835-ddd-pool.json) |
 | DDD: Demons Double Down | 390779 | [390779-ddd-demons-double-down.json](./390779-ddd-demons-double-down.json) |
@@ -6925,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Crush | 6827 | [6827-devils-crush.json](./6827-devils-crush.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
+| Devil's Deck: Polar Night Falls | 284876 | [284876-devils-deck-polar-night-falls.json](./284876-devils-deck-polar-night-falls.json) |
 | Devil's Derby | 337494 | [337494-devils-derby.json](./337494-devils-derby.json) |
 | Devil's Dice | 412803 | [412803-devils-dice.json](./412803-devils-dice.json) |
 | Devil's Dream | 149889 | [149889-devils-dream.json](./149889-devils-dream.json) |
@@ -9402,6 +9404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY My Boy | 165704 | [165704-diy-my-boy.json](./165704-diy-my-boy.json) |
 | DIY My Lady | 163945 | [163945-diy-my-lady.json](./163945-diy-my-lady.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
+| DIY Paper Doll: Classy Edition | 284940 | [284940-diy-paper-doll-classy-edition.json](./284940-diy-paper-doll-classy-edition.json) |
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | DIY Tour: Indie Rock Simulator | 197552 | [197552-diy-tour-indie-rock-simulator.json](./197552-diy-tour-indie-rock-simulator.json) |
 | Dizzel | 379403 | [379403-dizzel.json](./379403-dizzel.json) |
@@ -10295,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dome Keeper: Deluxe Edition | 402958 | [402958-dome-keeper-deluxe-edition.json](./402958-dome-keeper-deluxe-edition.json) |
 | Dome Keeper: The Lost Keepers | 400396 | [400396-dome-keeper-the-lost-keepers.json](./400396-dome-keeper-the-lost-keepers.json) |
 | Dome no Yabou F1 GP Nippon no Chousen | 386522 | [386522-dome-no-yabou-f1-gp-nippon-no-chousen.json](./386522-dome-no-yabou-f1-gp-nippon-no-chousen.json) |
+| Dome RPG | 284872 | [284872-dome-rpg.json](./284872-dome-rpg.json) |
 | Dome-King Cabbage | 152283 | [152283-dome-king-cabbage.json](./152283-dome-king-cabbage.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
@@ -12812,6 +12816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Dark Prince - Coach Joe's Dungeon Gym | 268576 | [268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json](./268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json) |
 | Dragon Quest Monsters: The Dark Prince - Digital Deluxe Edition | 268553 | [268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json](./268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Master Edition | 261373 | [261373-dragon-quest-monsters-the-dark-prince-master-edition.json](./261373-dragon-quest-monsters-the-dark-prince-master-edition.json) |
+| Dragon Quest Monsters: The Dark Prince - Mighty Meat Platter | 284942 | [284942-dragon-quest-monsters-the-dark-prince-mighty-meat-platter.json](./284942-dragon-quest-monsters-the-dark-prince-mighty-meat-platter.json) |
 | Dragon Quest Monsters: The Dark Prince - Treasure Trunks | 268571 | [268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json](./268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json) |
 | Dragon Quest Monsters: The Withered World | 403174 | [403174-dragon-quest-monsters-the-withered-world.json](./403174-dragon-quest-monsters-the-withered-world.json) |
 | Dragon Quest Monsters: The Withered World - Digital Deluxe Edition | 418330 | [418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json](./418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json) |
@@ -13314,6 +13319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawful 2 | 19083 | [19083-drawful-2.json](./19083-drawful-2.json) |
 | Drawgaem | 158605 | [158605-drawgaem.json](./158605-drawgaem.json) |
 | Drawing Carnival | 276958 | [276958-drawing-carnival.json](./276958-drawing-carnival.json) |
+| Drawing Carnival: Anime Edition | 284939 | [284939-drawing-carnival-anime-edition.json](./284939-drawing-carnival-anime-edition.json) |
 | Drawing Carnival: Anime Style | 276960 | [276960-drawing-carnival-anime-style.json](./276960-drawing-carnival-anime-style.json) |
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
 | Drawing Carnival: Horror Style | 276961 | [276961-drawing-carnival-horror-style.json](./276961-drawing-carnival-horror-style.json) |
@@ -13885,6 +13891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamshift | 383797 | [383797-dreamshift.json](./383797-dreamshift.json) |
 | DreamShock | 316159 | [316159-dreamshock.json](./316159-dreamshock.json) |
 | Dreamshot Fantasia | 278914 | [278914-dreamshot-fantasia.json](./278914-dreamshot-fantasia.json) |
+| Dreamslayer | 285058 | [285058-dreamslayer.json](./285058-dreamslayer.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspaces | 181682 | [181682-dreamspaces.json](./181682-dreamspaces.json) |
