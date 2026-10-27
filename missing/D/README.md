@@ -2928,7 +2928,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cat Bounce | 387631 | [387631-dead-cat-bounce.json](./387631-dead-cat-bounce.json) |
 | Dead Cells: Action Game of the Year | 122268 | [122268-dead-cells-action-game-of-the-year.json](./122268-dead-cells-action-game-of-the-year.json) |
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
-| Dead Cells: Fatal Falls | 142877 | [142877-dead-cells-fatal-falls.json](./142877-dead-cells-fatal-falls.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: Prisoner's Edition | 136322 | [136322-dead-cells-prisoners-edition.json](./136322-dead-cells-prisoners-edition.json) |
 | Dead Cells: Return to Castlevania | 228520 | [228520-dead-cells-return-to-castlevania.json](./228520-dead-cells-return-to-castlevania.json) |
