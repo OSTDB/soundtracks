@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pirate's End | 176276 | [176276-a-pirates-end.json](./176276-a-pirates-end.json) |
 | A Pirate's Pleasure: Bonus Stories | 193124 | [193124-a-pirates-pleasure-bonus-stories.json](./193124-a-pirates-pleasure-bonus-stories.json) |
 | A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
+| A Pizza Delivery | 328195 | [328195-a-pizza-delivery.json](./328195-a-pizza-delivery.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
 | A Place for the Unwilling | 18653 | [18653-a-place-for-the-unwilling.json](./18653-a-place-for-the-unwilling.json) |
 | A Place in the Sun | 305424 | [305424-a-place-in-the-sun.json](./305424-a-place-in-the-sun.json) |
@@ -4800,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airwolf | 8848 | [8848-airwolf.json](./8848-airwolf.json) |
 | Airxonix | 15827 | [15827-airxonix.json](./15827-airxonix.json) |
 | Aisai Nikki | 82968 | [82968-aisai-nikki.json](./82968-aisai-nikki.json) |
+| Aisera's Ladder | 328197 | [328197-aiseras-ladder.json](./328197-aiseras-ladder.json) |
 | Aishi & Reimu | 369468 | [369468-aishi-and-reimu.json](./369468-aishi-and-reimu.json) |
 | Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
 | Aisle Lord | 46395 | [46395-aisle-lord.json](./46395-aisle-lord.json) |
