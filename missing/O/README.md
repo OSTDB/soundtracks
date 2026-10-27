@@ -3779,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshirikko Venus | 194580 | [194580-oshirikko-venus.json](./194580-oshirikko-venus.json) |
 | Oshirikko Venus 2 | 194581 | [194581-oshirikko-venus-2.json](./194581-oshirikko-venus-2.json) |
 | Oshiya! Push! | 185518 | [185518-oshiya-push.json](./185518-oshiya-push.json) |
+| Oshukuju | 316665 | [316665-oshukuju.json](./316665-oshukuju.json) |
 | Osiris | 116067 | [116067-osiris.json](./116067-osiris.json) |
 | Osiris | 224954 | [224954-osiris.json](./224954-osiris.json) |
 | Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
