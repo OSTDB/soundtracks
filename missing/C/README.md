@@ -8908,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Closing Spaces | 178898 | [178898-closing-spaces.json](./178898-closing-spaces.json) |
 | Closing Time | 260576 | [260576-closing-time.json](./260576-closing-time.json) |
+| Clossure | 302399 | [302399-clossure.json](./302399-clossure.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 201622 | [201622-closure.json](./201622-closure.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
