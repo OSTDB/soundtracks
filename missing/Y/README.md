@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yan Love Remake | 296727 | [296727-yan-love-remake.json](./296727-yan-love-remake.json) |
 | Yan's World | 322103 | [322103-yans-world.json](./322103-yans-world.json) |
 | Yanchat | 333080 | [333080-yanchat.json](./333080-yanchat.json) |
+| Yanderain | 314821 | [314821-yanderain.json](./314821-yanderain.json) |
 | Yandere AI Girlfriend Simulator: With You Til The End | 256214 | [256214-yandere-ai-girlfriend-simulator-with-you-til-the-end.json](./256214-yandere-ai-girlfriend-simulator-with-you-til-the-end.json) |
 | Yandere Anime Boyfriend: A Day with Your Husbando Sim | 330223 | [330223-yandere-anime-boyfriend-a-day-with-your-husbando-sim.json](./330223-yandere-anime-boyfriend-a-day-with-your-husbando-sim.json) |
 | Yandere Anime Girlfriend: The Mean Waifu Sim | 330224 | [330224-yandere-anime-girlfriend-the-mean-waifu-sim.json](./330224-yandere-anime-girlfriend-the-mean-waifu-sim.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere-Chan | 125998 | [125998-yandere-chan.json](./125998-yandere-chan.json) |
 | Yandere: Love & Madness | 338643 | [338643-yandere-love-and-madness.json](./338643-yandere-love-and-madness.json) |
 | Yanderella | 125858 | [125858-yanderella.json](./125858-yanderella.json) |
+| Yanderella Death Harem | 314805 | [314805-yanderella-death-harem.json](./314805-yanderella-death-harem.json) |
 | Yang2020: Path to Presidency | 127468 | [127468-yang2020-path-to-presidency.json](./127468-yang2020-path-to-presidency.json) |
 | Yangshuo Invasion | 321368 | [321368-yangshuo-invasion.json](./321368-yangshuo-invasion.json) |
 | Yánhuáng Dàlù | 130150 | [130150-yanhuang-dalu.json](./130150-yanhuang-dalu.json) |
@@ -750,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomo | 308011 | [308011-yomo.json](./308011-yomo.json) |
 | Yomotsu | 110719 | [110719-yomotsu.json](./110719-yomotsu.json) |
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
+| Yona Yona | 314822 | [314822-yona-yona.json](./314822-yona-yona.json) |
 | Yondel | 380777 | [380777-yondel.json](./380777-yondel.json) |
 | YonDelver | 201484 | [201484-yondelver.json](./201484-yondelver.json) |
 | Yonder World: Interview with the Void | 190067 | [190067-yonder-world-interview-with-the-void.json](./190067-yonder-world-interview-with-the-void.json) |
