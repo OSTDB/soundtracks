@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0101: Pusher Bonus Levels 2 | 320802 | [320802-0101-pusher-bonus-levels-2.json](./320802-0101-pusher-bonus-levels-2.json) |
 | 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
 | 027 | 278425 | [278425-027.json](./278425-027.json) |
+| 02Rhythm | 316025 | [316025-02rhythm.json](./316025-02rhythm.json) |
 | 03:17 am | 315778 | [315778-03-17-am.json](./315778-03-17-am.json) |
 | 03.04 | 113188 | [113188-03-04.json](./113188-03-04.json) |
 | 07Gorillas | 325492 | [325492-07gorillas.json](./325492-07gorillas.json) |
