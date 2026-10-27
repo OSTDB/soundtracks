@@ -5717,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
 | Rez Plz | 124100 | [124100-rez-plz.json](./124100-rez-plz.json) |
 | Rezal | 339685 | [339685-rezal.json](./339685-rezal.json) |
+| Rezarlisia Stories | 320794 | [320794-rezarlisia-stories.json](./320794-rezarlisia-stories.json) |
 | Rezarus | 326849 | [326849-rezarus.json](./326849-rezarus.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
@@ -7363,6 +7364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
 | Robert Rodriguez's The Limit: An Immersive Cinema Experience | 112843 | [112843-robert-rodriguezs-the-limit-an-immersive-cinema-experience.json](./112843-robert-rodriguezs-the-limit-an-immersive-cinema-experience.json) |
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
+| Robert's Spooktacular Ghost Train | 320775 | [320775-roberts-spooktacular-ghost-train.json](./320775-roberts-spooktacular-ghost-train.json) |
 | Robertinho Adventures | 390179 | [390179-robertinho-adventures.json](./390179-robertinho-adventures.json) |
 | Roberto el Lagarto | 302618 | [302618-roberto-el-lagarto.json](./302618-roberto-el-lagarto.json) |
 | Roberto Selavino's Putting Championship | 60853 | [60853-roberto-selavinos-putting-championship.json](./60853-roberto-selavinos-putting-championship.json) |
