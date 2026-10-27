@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
 | Dance Magic Fashion Style Games | 96298 | [96298-dance-magic-fashion-style-games.json](./96298-dance-magic-fashion-style-games.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
+| Dance Maniax 2ndMIX append JPARADISE | 314328 | [314328-dance-maniax-2ndmix-append-jparadise.json](./314328-dance-maniax-2ndmix-append-jparadise.json) |
 | Dance Master | 247074 | [247074-dance-master.json](./247074-dance-master.json) |
 | Dance Mat Typing | 141118 | [141118-dance-mat-typing.json](./141118-dance-mat-typing.json) |
 | Dance Moms Rising Star | 396691 | [396691-dance-moms-rising-star.json](./396691-dance-moms-rising-star.json) |
@@ -710,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance! Dance! Dance! | 132806 | [132806-dance-dance-dance.json](./132806-dance-dance-dance.json) |
 | Dance! Dance! Dance! | 339794 | [339794-dance-dance-dance.json](./339794-dance-dance-dance.json) |
 | Dance! It's Your Stage | 209000 | [209000-dance-its-your-stage.json](./209000-dance-its-your-stage.json) |
+| DanceDanceRevolution Kids | 314327 | [314327-dancedancerevolution-kids.json](./314327-dancedancerevolution-kids.json) |
 | DanceDanceRevolution: Classroom Edition | 208998 | [208998-dancedancerevolution-classroom-edition.json](./208998-dancedancerevolution-classroom-edition.json) |
 | DanceDouDoou | 264229 | [264229-dancedoudoou.json](./264229-dancedoudoou.json) |
 | DanceGirl: Swimwear | 368067 | [368067-dancegirl-swimwear.json](./368067-dancegirl-swimwear.json) |
@@ -9896,6 +9898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogpile | 373491 | [373491-dogpile.json](./373491-dogpile.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs | 311240 | [311240-dogs.json](./311240-dogs.json) |
+| Dogs | 314312 | [314312-dogs.json](./314312-dogs.json) |
 | Dogs and Paws | 308604 | [308604-dogs-and-paws.json](./308604-dogs-and-paws.json) |
 | Dogs and Pigs | 187187 | [187187-dogs-and-pigs.json](./187187-dogs-and-pigs.json) |
 | Dogs Contrast | 333485 | [333485-dogs-contrast.json](./333485-dogs-contrast.json) |
