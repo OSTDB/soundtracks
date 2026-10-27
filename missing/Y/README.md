@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Smashi | 229662 | [229662-yume-smashi.json](./229662-yume-smashi.json) |
 | Yume Tagai | 166580 | [166580-yume-tagai.json](./166580-yume-tagai.json) |
 | Yume Tenshi | 364030 | [364030-yume-tenshi.json](./364030-yume-tenshi.json) |
+| Yume Tsushin | 281230 | [281230-yume-tsushin.json](./281230-yume-tsushin.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
 | Yume wa Maeyono | 166469 | [166469-yume-wa-maeyono.json](./166469-yume-wa-maeyono.json) |
 | Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
