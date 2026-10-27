@@ -5264,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Any Cost but Free | 369144 | [369144-sex-any-cost-but-free.json](./369144-sex-any-cost-but-free.json) |
 | Sex Apocalypse 3D | 219605 | [219605-sex-apocalypse-3d.json](./219605-sex-apocalypse-3d.json) |
 | Sex Battle [Interacademy! NTR Gangbang Game] | 82938 | [82938-sex-battle-interacademy-ntr-gangbang-game.json](./82938-sex-battle-interacademy-ntr-gangbang-game.json) |
+| Sex Bushes | 286553 | [286553-sex-bushes.json](./286553-sex-bushes.json) |
 | Sex Campus Story 18+ | 258944 | [258944-sex-campus-story-18.json](./258944-sex-campus-story-18.json) |
 | Sex Care Magical Girl | 82799 | [82799-sex-care-magical-girl.json](./82799-sex-care-magical-girl.json) |
 | Sex Chess | 202535 | [202535-sex-chess.json](./202535-sex-chess.json) |
@@ -10825,6 +10826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybound | 381387 | [381387-skybound.json](./381387-skybound.json) |
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
 | Skybound Saga | 352236 | [352236-skybound-saga.json](./352236-skybound-saga.json) |
+| Skybound: Card Survival | 286692 | [286692-skybound-card-survival.json](./286692-skybound-card-survival.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
 | Skybreak! | 300435 | [300435-skybreak.json](./300435-skybreak.json) |
 | Skybreakers | 270619 | [270619-skybreakers.json](./270619-skybreakers.json) |
@@ -12300,6 +12302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
 | Smile Dog | 361620 | [361620-smile-dog.json](./361620-smile-dog.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
+| Smile For Me: Mega Happiness Bundle | 286695 | [286695-smile-for-me-mega-happiness-bundle.json](./286695-smile-for-me-mega-happiness-bundle.json) |
 | Smile Guide: The Apple Escape | 56136 | [56136-smile-guide-the-apple-escape.json](./56136-smile-guide-the-apple-escape.json) |
 | Smile Inc. | 25178 | [25178-smile-inc.json](./25178-smile-inc.json) |
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
@@ -18549,6 +18552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike in Transylvania | 70278 | [70278-spike-in-transylvania.json](./70278-spike-in-transylvania.json) |
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
 | Spike Mtn | 213536 | [213536-spike-mtn.json](./213536-spike-mtn.json) |
+| Spike Schema | 286353 | [286353-spike-schema.json](./286353-spike-schema.json) |
 | Spike the Hedgehog | 91555 | [91555-spike-the-hedgehog.json](./91555-spike-the-hedgehog.json) |
 | Spike Volleyball | 112846 | [112846-spike-volleyball.json](./112846-spike-volleyball.json) |
 | Spike's Water Balloons | 46512 | [46512-spikes-water-balloons.json](./46512-spikes-water-balloons.json) |
@@ -21010,6 +21014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Imperial Assault | 198919 | [198919-star-wars-imperial-assault.json](./198919-star-wars-imperial-assault.json) |
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Imperial Assault - Legends of the Alliance | 76411 | [76411-star-wars-imperial-assault-legends-of-the-alliance.json](./76411-star-wars-imperial-assault-legends-of-the-alliance.json) |
+| Star Wars: Imperial Commando | 286374 | [286374-star-wars-imperial-commando.json](./286374-star-wars-imperial-commando.json) |
 | Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
 | Star Wars: Jedi Challenges | 75089 | [75089-star-wars-jedi-challenges.json](./75089-star-wars-jedi-challenges.json) |
 | Star Wars: Jedi Knight - Dark Forces II | 150 | [150-star-wars-jedi-knight-dark-forces-ii.json](./150-star-wars-jedi-knight-dark-forces-ii.json) |
