@@ -14684,6 +14684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Flight | 331238 | [331238-aurora-flight.json](./331238-aurora-flight.json) |
 | Aurora Heights | 374762 | [374762-aurora-heights.json](./374762-aurora-heights.json) |
 | Aurora Hex: Pattern Puzzles | 117616 | [117616-aurora-hex-pattern-puzzles.json](./117616-aurora-hex-pattern-puzzles.json) |
+| Aurora Hills: Chapter 1 | 295741 | [295741-aurora-hills-chapter-1.json](./295741-aurora-hills-chapter-1.json) |
 | Aurora Hills: Chapter 2 | 394056 | [394056-aurora-hills-chapter-2.json](./394056-aurora-hills-chapter-2.json) |
 | Aurora Light Pony: Ponies and Horses in the Valley of Stars | 336408 | [336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json](./336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
