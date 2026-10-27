@@ -4911,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: My Hero Academia | 317819 | [317819-overwatch-2-my-hero-academia.json](./317819-overwatch-2-my-hero-academia.json) |
 | Overwatch 2: Pink Mercy Skin | 322629 | [322629-overwatch-2-pink-mercy-skin.json](./322629-overwatch-2-pink-mercy-skin.json) |
 | Overwatch 2: PlayStation Plus Mega Bundle | 316064 | [316064-overwatch-2-playstation-plus-mega-bundle.json](./316064-overwatch-2-playstation-plus-mega-bundle.json) |
+| Overwatch 2: Rose Gold Mercy Bundle | 322628 | [322628-overwatch-2-rose-gold-mercy-bundle.json](./322628-overwatch-2-rose-gold-mercy-bundle.json) |
 | Overwatch 2: Season 10 - Venture Forth | 294507 | [294507-overwatch-2-season-10-venture-forth.json](./294507-overwatch-2-season-10-venture-forth.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
 | Overwatch 2: Season 14 - Hazard | 324865 | [324865-overwatch-2-season-14-hazard.json](./324865-overwatch-2-season-14-hazard.json) |
