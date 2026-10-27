@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
 | I Want to Be a Girl and I Don't Know Why That's so Hard | 240121 | [240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json](./240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json) |
 | I Want to be Alive | 252610 | [252610-i-want-to-be-alive.json](./252610-i-want-to-be-alive.json) |
+| I Want To Be Happy | 293672 | [293672-i-want-to-be-happy.json](./293672-i-want-to-be-happy.json) |
 | I Want to Be Human | 36433 | [36433-i-want-to-be-human.json](./36433-i-want-to-be-human.json) |
 | I Want to be Popular! | 183902 | [183902-i-want-to-be-popular.json](./183902-i-want-to-be-popular.json) |
 | I Want to Believe | 319728 | [319728-i-want-to-believe.json](./319728-i-want-to-believe.json) |
@@ -3921,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnis Experiment | 281238 | [281238-insomnis-experiment.json](./281238-insomnis-experiment.json) |
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
+| Inspection | 294188 | [294188-inspection.json](./294188-inspection.json) |
 | Inspection Report | 309923 | [309923-inspection-report.json](./309923-inspection-report.json) |
 | Inspector | 123958 | [123958-inspector.json](./123958-inspector.json) |
 | Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
