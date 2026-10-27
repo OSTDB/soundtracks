@@ -5577,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Biggest Loser Challenge | 51003 | [51003-the-biggest-loser-challenge.json](./51003-the-biggest-loser-challenge.json) |
 | The Bigs 2 | 210441 | [210441-the-bigs-2.json](./210441-the-bigs-2.json) |
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
+| The Bike: Moto Ride Simulator | 288163 | [288163-the-bike-moto-ride-simulator.json](./288163-the-bike-moto-ride-simulator.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
 | The Bilestoad | 39780 | [39780-the-bilestoad.json](./39780-the-bilestoad.json) |
 | The Billion Clicker | 387596 | [387596-the-billion-clicker.json](./387596-the-billion-clicker.json) |
@@ -10414,6 +10415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Part II Remastered: Patch 2.0.0 | 382537 | [382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json](./382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json) |
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
 | The Last of Us Part II: Grounded Update | 251381 | [251381-the-last-of-us-part-ii-grounded-update.json](./251381-the-last-of-us-part-ii-grounded-update.json) |
+| The Last of Us Part III | 288169 | [288169-the-last-of-us-part-iii.json](./288169-the-last-of-us-part-iii.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last of Us: Between The Years | 305372 | [305372-the-last-of-us-between-the-years.json](./305372-the-last-of-us-between-the-years.json) |
 | The Last of Us: Ellie Edition | 101462 | [101462-the-last-of-us-ellie-edition.json](./101462-the-last-of-us-ellie-edition.json) |
@@ -12182,6 +12184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
 | The Ned Balls | 113393 | [113393-the-ned-balls.json](./113393-the-ned-balls.json) |
 | The Need for Speed | 90 | [90-the-need-for-speed.json](./90-the-need-for-speed.json) |
+| The Need to Live | 288160 | [288160-the-need-to-live.json](./288160-the-need-to-live.json) |
 | The Nefargad | 278871 | [278871-the-nefargad.json](./278871-the-nefargad.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neighborhood | 180592 | [180592-the-neighborhood.json](./180592-the-neighborhood.json) |
@@ -16402,6 +16405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
 | The Wizards: Dark Times | 119331 | [119331-the-wizards-dark-times.json](./119331-the-wizards-dark-times.json) |
+| The Wizards: Dark Times - Brotherhood | 288172 | [288172-the-wizards-dark-times-brotherhood.json](./288172-the-wizards-dark-times-brotherhood.json) |
 | The Wizards: Enhanced Edition | 116134 | [116134-the-wizards-enhanced-edition.json](./116134-the-wizards-enhanced-edition.json) |
 | The Wizardz Dungeon | 216677 | [216677-the-wizardz-dungeon.json](./216677-the-wizardz-dungeon.json) |
 | The Wolf | 154308 | [154308-the-wolf.json](./154308-the-wolf.json) |
@@ -16565,6 +16569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yellow Moon's School: The Ghosts Day | 288618 | [288618-the-yellow-moons-school-the-ghosts-day.json](./288618-the-yellow-moons-school-the-ghosts-day.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
 | The Yellow Sign | 336342 | [336342-the-yellow-sign.json](./336342-the-yellow-sign.json) |
+| The Yokai's Curse | 288152 | [288152-the-yokais-curse.json](./288152-the-yokais-curse.json) |
 | The Yolk's on You | 40919 | [40919-the-yolks-on-you.json](./40919-the-yolks-on-you.json) |
 | The Yoshi Garden | 145477 | [145477-the-yoshi-garden.json](./145477-the-yoshi-garden.json) |
 | The You Quiz | 361757 | [361757-the-you-quiz.json](./361757-the-you-quiz.json) |
