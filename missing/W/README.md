@@ -2722,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
 | Weedcraft Inc + Bio Inc. Redemption: Medical Herbs Bundle | 292619 | [292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json](./292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json) |
 | Weedcraft Inc + Crossroads Inn: Weed and Greet Bundle | 288861 | [288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json](./288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json) |
+| Weedcraft Inc + Moonshine Inc + Big Pharma: Chemistry Tycoons Bundle | 284755 | [284755-weedcraft-inc-moonshine-inc-big-pharma-chemistry-tycoons-bundle.json](./284755-weedcraft-inc-moonshine-inc-big-pharma-chemistry-tycoons-bundle.json) |
 | Weedcraft Inc + Ruinarch: Devil Lettuce Bundle | 288858 | [288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json](./288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json) |
 | Weedcraft Inc + Terraformers: Aim High Bundle | 272181 | [272181-weedcraft-inc-terraformers-aim-high-bundle.json](./272181-weedcraft-inc-terraformers-aim-high-bundle.json) |
 | Weeds Social Club | 55013 | [55013-weeds-social-club.json](./55013-weeds-social-club.json) |
