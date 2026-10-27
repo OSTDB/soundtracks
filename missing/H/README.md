@@ -4314,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
 | Hentai Girls: Sexy Sakura | 336419 | [336419-hentai-girls-sexy-sakura.json](./336419-hentai-girls-sexy-sakura.json) |
 | Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
+| Hentai Girls: Sweet Doctor | 288164 | [288164-hentai-girls-sweet-doctor.json](./288164-hentai-girls-sweet-doctor.json) |
 | Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
 | Hentai Girls: The Princesses | 301676 | [301676-hentai-girls-the-princesses.json](./301676-hentai-girls-the-princesses.json) |
 | Hentai Girls: Ultra Complete | 324467 | [324467-hentai-girls-ultra-complete.json](./324467-hentai-girls-ultra-complete.json) |
@@ -10597,6 +10598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Fighter Boost Mode ON | 98895 | [98895-hyper-fighter-boost-mode-on.json](./98895-hyper-fighter-boost-mode-on.json) |
 | Hyper Fighters | 10423 | [10423-hyper-fighters.json](./10423-hyper-fighters.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
+| Hyper Flex | 288178 | [288178-hyper-flex.json](./288178-hyper-flex.json) |
 | Hyper Flight | 117486 | [117486-hyper-flight.json](./117486-hyper-flight.json) |
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
 | Hyper Frenzy | 152828 | [152828-hyper-frenzy.json](./152828-hyper-frenzy.json) |
