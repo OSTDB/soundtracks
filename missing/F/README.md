@@ -7996,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Vast Future: Colour Palette 4 | 295705 | [295705-for-a-vast-future-colour-palette-4.json](./295705-for-a-vast-future-colour-palette-4.json) |
 | For a Vast Future: Colour Palette 6 | 295706 | [295706-for-a-vast-future-colour-palette-6.json](./295706-for-a-vast-future-colour-palette-6.json) |
 | For a Vast Future: Colour Palette 8 | 288307 | [288307-for-a-vast-future-colour-palette-8.json](./288307-for-a-vast-future-colour-palette-8.json) |
+| For a Vast Future: Complete Edition | 284938 | [284938-for-a-vast-future-complete-edition.json](./284938-for-a-vast-future-complete-edition.json) |
 | For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
 | For a Vast Future: Deluxe Edition | 268557 | [268557-for-a-vast-future-deluxe-edition.json](./268557-for-a-vast-future-deluxe-edition.json) |
 | For a Vast Future: Director's Cut | 295701 | [295701-for-a-vast-future-directors-cut.json](./295701-for-a-vast-future-directors-cut.json) |
