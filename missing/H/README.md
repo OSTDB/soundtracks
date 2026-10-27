@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HB2 Plus | 91349 | [91349-hb2-plus.json](./91349-hb2-plus.json) |
 | HBD-RPG | 266110 | [266110-hbd-rpg.json](./266110-hbd-rpg.json) |
 | HC-Hexagon | 115505 | [115505-hc-hexagon.json](./115505-hc-hexagon.json) |
+| HD | 301859 | [301859-hd.json](./301859-hd.json) |
 | HDoom | 136850 | [136850-hdoom.json](./136850-hdoom.json) |
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
 | He | 286066 | [286066-he.json](./286066-he.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Saphilamun | 230220 | [230220-heart-of-saphilamun.json](./230220-heart-of-saphilamun.json) |
 | Heart of Scrap | 56341 | [56341-heart-of-scrap.json](./56341-heart-of-scrap.json) |
 | Heart of Sengoku | 250237 | [250237-heart-of-sengoku.json](./250237-heart-of-sengoku.json) |
+| Heart of Shadows | 301223 | [301223-heart-of-shadows.json](./301223-heart-of-shadows.json) |
 | Heart of Siam | 158916 | [158916-heart-of-siam.json](./158916-heart-of-siam.json) |
 | Heart of Stone | 361003 | [361003-heart-of-stone.json](./361003-heart-of-stone.json) |
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
@@ -3951,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helmet Heroes | 31383 | [31383-helmet-heroes.json](./31383-helmet-heroes.json) |
 | HelmetFire | 351265 | [351265-helmetfire.json](./351265-helmetfire.json) |
 | HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
+| Helmo Online | 301796 | [301796-helmo-online.json](./301796-helmo-online.json) |
 | Helmouth Halls | 125143 | [125143-helmouth-halls.json](./125143-helmouth-halls.json) |
 | Helmscape | 221116 | [221116-helmscape.json](./221116-helmscape.json) |
 | Help | 30931 | [30931-help.json](./30931-help.json) |
@@ -8682,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Magic | 406726 | [406726-horse-magic.json](./406726-horse-magic.json) |
 | Horse Magnifier | 396387 | [396387-horse-magnifier.json](./396387-horse-magnifier.json) |
 | Horse Manager | 357854 | [357854-horse-manager.json](./357854-horse-manager.json) |
+| Horse Mansion | 301795 | [301795-horse-mansion.json](./301795-horse-mansion.json) |
 | Horse Master | 62453 | [62453-horse-master.json](./62453-horse-master.json) |
 | Horse Park Tycoon | 87897 | [87897-horse-park-tycoon.json](./87897-horse-park-tycoon.json) |
 | Horse Park Tycoon 2 | 116445 | [116445-horse-park-tycoon-2.json](./116445-horse-park-tycoon-2.json) |
