@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raanaa: The Shaman Girl - The Frozen World | 335407 | [335407-raanaa-the-shaman-girl-the-frozen-world.json](./335407-raanaa-the-shaman-girl-the-frozen-world.json) |
 | Raanaa: The Shaman Girl - The Windman's Land | 321148 | [321148-raanaa-the-shaman-girl-the-windmans-land.json](./321148-raanaa-the-shaman-girl-the-windmans-land.json) |
 | Raanaa: The Shaman Girl - Valhalla | 342142 | [342142-raanaa-the-shaman-girl-valhalla.json](./342142-raanaa-the-shaman-girl-valhalla.json) |
+| RaaSool | 326021 | [326021-raasool.json](./326021-raasool.json) |
 | Raatihuone | 116219 | [116219-raatihuone.json](./116219-raatihuone.json) |
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
 | Rabauken: Spirit Resort | 400394 | [400394-rabauken-spirit-resort.json](./400394-rabauken-spirit-resort.json) |
@@ -893,6 +894,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Broken Planet: Hades Betrayal | 57003 | [57003-raiders-of-the-broken-planet-hades-betrayal.json](./57003-raiders-of-the-broken-planet-hades-betrayal.json) |
 | Raiders of the Broken Planet: Wardog Fury | 57002 | [57002-raiders-of-the-broken-planet-wardog-fury.json](./57002-raiders-of-the-broken-planet-wardog-fury.json) |
 | Raiders of the Lost Ark | 18036 | [18036-raiders-of-the-lost-ark.json](./18036-raiders-of-the-lost-ark.json) |
+| Raiders of the Lost Ark | 326023 | [326023-raiders-of-the-lost-ark.json](./326023-raiders-of-the-lost-ark.json) |
+| Raiders of the Lost Ark: Tanis | 326028 | [326028-raiders-of-the-lost-ark-tanis.json](./326028-raiders-of-the-lost-ark-tanis.json) |
 | Raiders of Valhalla | 238570 | [238570-raiders-of-valhalla.json](./238570-raiders-of-valhalla.json) |
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
@@ -1968,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray - Part 2 | 229596 | [229596-ray-part-2.json](./229596-ray-part-2.json) |
 | Ray & Stoic Gronk | 211985 | [211985-ray-and-stoic-gronk.json](./211985-ray-and-stoic-gronk.json) |
 | Ray And Cooper | 310584 | [310584-ray-and-cooper.json](./310584-ray-and-cooper.json) |
+| Ray and the Guitar | 326029 | [326029-ray-and-the-guitar.json](./326029-ray-and-the-guitar.json) |
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
 | Ray Bibbia | 181598 | [181598-ray-bibbia.json](./181598-ray-bibbia.json) |
 | Ray Blade | 98027 | [98027-ray-blade.json](./98027-ray-blade.json) |
@@ -3278,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Feud | 69566 | [69566-red-feud.json](./69566-red-feud.json) |
 | Red Finger | 339400 | [339400-red-finger.json](./339400-red-finger.json) |
 | Red Flag | 406756 | [406756-red-flag.json](./406756-red-flag.json) |
+| Red Flagg: Don't Call me Blue Redux | 326030 | [326030-red-flagg-dont-call-me-blue-redux.json](./326030-red-flagg-dont-call-me-blue-redux.json) |
 | Red Flood | 321567 | [321567-red-flood.json](./321567-red-flood.json) |
 | Red Flower | 230959 | [230959-red-flower.json](./230959-red-flower.json) |
 | Red Flu | 81217 | [81217-red-flu.json](./81217-red-flu.json) |
@@ -4379,6 +4384,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
 | RentoFortune | 187545 | [187545-rentofortune.json](./187545-rentofortune.json) |
 | RentPoly | 384250 | [384250-rentpoly.json](./384250-rentpoly.json) |
+| Renuncio: Parte 2 - El Escape | 326032 | [326032-renuncio-parte-2-el-escape.json](./326032-renuncio-parte-2-el-escape.json) |
+| Renuncio! | 326031 | [326031-renuncio.json](./326031-renuncio.json) |
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
 | Reouija Sleepover | 214436 | [214436-reouija-sleepover.json](./214436-reouija-sleepover.json) |
 | Repair Adventure | 265531 | [265531-repair-adventure.json](./265531-repair-adventure.json) |
@@ -7333,6 +7340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbie | 225218 | [225218-robbie.json](./225218-robbie.json) |
 | Robbie Swifthand and the Orb of Mysteries | 76404 | [76404-robbie-swifthand-and-the-orb-of-mysteries.json](./76404-robbie-swifthand-and-the-orb-of-mysteries.json) |
 | Robbie's Tale | 236890 | [236890-robbies-tale.json](./236890-robbies-tale.json) |
+| Robbing the Princess | 326034 | [326034-robbing-the-princess.json](./326034-robbing-the-princess.json) |
 | Robbing Time | 350778 | [350778-robbing-time.json](./350778-robbing-time.json) |
 | Robbit Mon Dieu | 63781 | [63781-robbit-mon-dieu.json](./63781-robbit-mon-dieu.json) |
 | Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
