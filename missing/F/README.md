@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famulus | 326728 | [326728-famulus.json](./326728-famulus.json) |
 | Fan Dungeon: A Day in the Life of Team Tomorrow! | 184344 | [184344-fan-dungeon-a-day-in-the-life-of-team-tomorrow.json](./184344-fan-dungeon-a-day-in-the-life-of-team-tomorrow.json) |
 | Fan Fun | 30553 | [30553-fan-fun.json](./30553-fan-fun.json) |
+| Fan Fun | 307647 | [307647-fan-fun.json](./307647-fan-fun.json) |
 | Fan Fun 3D | 99985 | [99985-fan-fun-3d.json](./99985-fan-fun-3d.json) |
 | Fan Pop Rhythm Stage: Aim for the Heart | 279137 | [279137-fan-pop-rhythm-stage-aim-for-the-heart.json](./279137-fan-pop-rhythm-stage-aim-for-the-heart.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
