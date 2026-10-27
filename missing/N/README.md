@@ -4525,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | Ninjabread Man: Blades of Fury | 307782 | [307782-ninjabread-man-blades-of-fury.json](./307782-ninjabread-man-blades-of-fury.json) |
+| Ninjabun | 322626 | [322626-ninjabun.json](./322626-ninjabun.json) |
 | NinjaFT | 237426 | [237426-ninjaft.json](./237426-ninjaft.json) |
 | NinjaGo Endless Runner | 59303 | [59303-ninjago-endless-runner.json](./59303-ninjago-endless-runner.json) |
 | Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
