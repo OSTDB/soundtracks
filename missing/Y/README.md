@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yashik | 76367 | [76367-yashik.json](./76367-yashik.json) |
 | Yaso: Curse of Soirée | 182892 | [182892-yaso-curse-of-soiree.json](./182892-yaso-curse-of-soiree.json) |
 | Yasogaya Murder Cases | 238597 | [238597-yasogaya-murder-cases.json](./238597-yasogaya-murder-cases.json) |
+| Yass or Pass | 304090 | [304090-yass-or-pass.json](./304090-yass-or-pass.json) |
 | Yasuda Fire & Marine: Safety Rally | 48863 | [48863-yasuda-fire-and-marine-safety-rally.json](./48863-yasuda-fire-and-marine-safety-rally.json) |
 | Yasuhati | 142349 | [142349-yasuhati.json](./142349-yasuhati.json) |
 | Yasuke Simulator | 333626 | [333626-yasuke-simulator.json](./333626-yasuke-simulator.json) |
