@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranox | 273828 | [273828-paranox.json](./273828-paranox.json) |
 | Paranoya | 204269 | [204269-paranoya.json](./204269-paranoya.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
+| ParaParaParadise V1.1 | 314329 | [314329-paraparaparadise-v1-1.json](./314329-paraparaparadise-v1-1.json) |
 | Paraplasm: Beyond the Veil | 295160 | [295160-paraplasm-beyond-the-veil.json](./295160-paraplasm-beyond-the-veil.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
 | PaRappa the Rapper | 6080 | [6080-parappa-the-rapper.json](./6080-parappa-the-rapper.json) |
@@ -2941,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Boys in Blue Tailor Pack | 312016 | [312016-payday-3-boys-in-blue-tailor-pack.json](./312016-payday-3-boys-in-blue-tailor-pack.json) |
 | Payday 3: Boys in Blue Weapon Pack | 312009 | [312009-payday-3-boys-in-blue-weapon-pack.json](./312009-payday-3-boys-in-blue-weapon-pack.json) |
 | Payday 3: Chapter 2 - Boys in Blue | 314343 | [314343-payday-3-chapter-2-boys-in-blue.json](./314343-payday-3-chapter-2-boys-in-blue.json) |
+| Payday 3: Chapter 3 - Houston Breakout | 314227 | [314227-payday-3-chapter-3-houston-breakout.json](./314227-payday-3-chapter-3-houston-breakout.json) |
 | Payday 3: Chapter 4 - Fear & Greed | 371317 | [371317-payday-3-chapter-4-fear-and-greed.json](./371317-payday-3-chapter-4-fear-and-greed.json) |
 | Payday 3: Fear & Greed Heist | 338033 | [338033-payday-3-fear-and-greed-heist.json](./338033-payday-3-fear-and-greed-heist.json) |
 | Payday 3: Fear & Greed Tailor Pack | 338034 | [338034-payday-3-fear-and-greed-tailor-pack.json](./338034-payday-3-fear-and-greed-tailor-pack.json) |
@@ -7481,6 +7483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Break Head to Head | 164306 | [164306-pizza-break-head-to-head.json](./164306-pizza-break-head-to-head.json) |
 | Pizza Chef | 40758 | [40758-pizza-chef.json](./40758-pizza-chef.json) |
 | Pizza City | 225591 | [225591-pizza-city.json](./225591-pizza-city.json) |
+| Pizza Clicker | 314244 | [314244-pizza-clicker.json](./314244-pizza-clicker.json) |
 | Pizza Clickers | 343973 | [343973-pizza-clickers.json](./343973-pizza-clickers.json) |
 | Pizza Connection 2 | 27590 | [27590-pizza-connection-2.json](./27590-pizza-connection-2.json) |
 | Pizza Connection 3 | 29142 | [29142-pizza-connection-3.json](./29142-pizza-connection-3.json) |
@@ -10601,6 +10604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poom | 165143 | [165143-poom.json](./165143-poom.json) |
 | Poom: Miasma Massacre | 229757 | [229757-poom-miasma-massacre.json](./229757-poom-miasma-massacre.json) |
 | Poon Puzzle: Hard Levels DLC | 295109 | [295109-poon-puzzle-hard-levels-dlc.json](./295109-poon-puzzle-hard-levels-dlc.json) |
+| Poop | 314318 | [314318-poop.json](./314318-poop.json) |
 | Poop | 314398 | [314398-poop.json](./314398-poop.json) |
 | Poop City | 367185 | [367185-poop-city.json](./367185-poop-city.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
@@ -13411,6 +13415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Green Beat | 36017 | [36017-project-green-beat.json](./36017-project-green-beat.json) |
 | Project Guard | 84805 | [84805-project-guard.json](./84805-project-guard.json) |
 | Project Gunship | 202549 | [202549-project-gunship.json](./202549-project-gunship.json) |
+| Project GW | 314320 | [314320-project-gw.json](./314320-project-gw.json) |
 | Project H | 158393 | [158393-project-h.json](./158393-project-h.json) |
 | Project H.A.M.M.E.R. | 71891 | [71891-project-h-a-m-m-e-r.json](./71891-project-h-a-m-m-e-r.json) |
 | Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
@@ -14544,6 +14549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pufflings: Journey Through a Fantasy World | 397921 | [397921-pufflings-journey-through-a-fantasy-world.json](./397921-pufflings-journey-through-a-fantasy-world.json) |
 | Puffmin Quest | 313354 | [313354-puffmin-quest.json](./313354-puffmin-quest.json) |
 | Puffy Dog Puzzle | 379005 | [379005-puffy-dog-puzzle.json](./379005-puffy-dog-puzzle.json) |
+| Puffy no P.S. I Love You | 314219 | [314219-puffy-no-p-s-i-love-you.json](./314219-puffy-no-p-s-i-love-you.json) |
 | Puffy's Saga | 12725 | [12725-puffys-saga.json](./12725-puffys-saga.json) |
 | Pug and Seek | 341437 | [341437-pug-and-seek.json](./341437-pug-and-seek.json) |
 | Pug Hop Mole Bop | 254672 | [254672-pug-hop-mole-bop.json](./254672-pug-hop-mole-bop.json) |
