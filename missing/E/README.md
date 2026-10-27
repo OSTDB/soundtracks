@@ -4059,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
 | Era One | 258333 | [258333-era-one.json](./258333-era-one.json) |
 | Era Online: Şeref Savaşı | 415972 | [415972-era-online-seref-savas.json](./415972-era-online-seref-savas.json) |
+| Era uma vez um gato | 286926 | [286926-era-uma-vez-um-gato.json](./286926-era-uma-vez-um-gato.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
 | eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
 | Eradicate | 183769 | [183769-eradicate.json](./183769-eradicate.json) |
@@ -6700,13 +6701,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
 | Expedition: Shadow World | 332939 | [332939-expedition-shadow-world.json](./332939-expedition-shadow-world.json) |
 | Expeditions | 363013 | [363013-expeditions.json](./363013-expeditions.json) |
+| Expeditions: A MudRunner Game - Cotco Canyon | 287133 | [287133-expeditions-a-mudrunner-game-cotco-canyon.json](./287133-expeditions-a-mudrunner-game-cotco-canyon.json) |
 | Expeditions: A MudRunner Game - Day One Edition | 291542 | [291542-expeditions-a-mudrunner-game-day-one-edition.json](./291542-expeditions-a-mudrunner-game-day-one-edition.json) |
+| Expeditions: A MudRunner Game - Pioneer Pack | 287134 | [287134-expeditions-a-mudrunner-game-pioneer-pack.json](./287134-expeditions-a-mudrunner-game-pioneer-pack.json) |
 | Expeditions: A MudRunner Game - Season 1: Cave Odyssey | 397701 | [397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json](./397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json) |
 | Expeditions: A MudRunner Game - Season 2: White Dawn | 397703 | [397703-expeditions-a-mudrunner-game-season-2-white-dawn.json](./397703-expeditions-a-mudrunner-game-season-2-white-dawn.json) |
 | Expeditions: A MudRunner Game - Season 3: Icy Shores | 397702 | [397702-expeditions-a-mudrunner-game-season-3-icy-shores.json](./397702-expeditions-a-mudrunner-game-season-3-icy-shores.json) |
 | Expeditions: A MudRunner Game - Season 4: Amber Dusk | 375146 | [375146-expeditions-a-mudrunner-game-season-4-amber-dusk.json](./375146-expeditions-a-mudrunner-game-season-4-amber-dusk.json) |
 | Expeditions: A MudRunner Game - Supreme Edition | 280667 | [280667-expeditions-a-mudrunner-game-supreme-edition.json](./280667-expeditions-a-mudrunner-game-supreme-edition.json) |
 | Expeditions: A MudRunner Game - The Great Don 71 | 289860 | [289860-expeditions-a-mudrunner-game-the-great-don-71.json](./289860-expeditions-a-mudrunner-game-the-great-don-71.json) |
+| Expeditions: A MudRunner Game - Year 1 Edition | 287135 | [287135-expeditions-a-mudrunner-game-year-1-edition.json](./287135-expeditions-a-mudrunner-game-year-1-edition.json) |
+| Expeditions: A MudRunner Game - Year 1 Pass | 287136 | [287136-expeditions-a-mudrunner-game-year-1-pass.json](./287136-expeditions-a-mudrunner-game-year-1-pass.json) |
 | Expeditions: Rome | 146650 | [146650-expeditions-rome.json](./146650-expeditions-rome.json) |
 | Expeditions: Samurai | 404904 | [404904-expeditions-samurai.json](./404904-expeditions-samurai.json) |
 | Expel | 156947 | [156947-expel.json](./156947-expel.json) |
