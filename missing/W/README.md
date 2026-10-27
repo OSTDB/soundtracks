@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildeck | 411419 | [411419-wildeck.json](./411419-wildeck.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
 | Wildemist Isle | 129008 | [129008-wildemist-isle.json](./129008-wildemist-isle.json) |
+| Wilder: Bahadur's Story | 280806 | [280806-wilder-bahadurs-story.json](./280806-wilder-bahadurs-story.json) |
 | Wilderings: The Lost Spring | 361652 | [361652-wilderings-the-lost-spring.json](./361652-wilderings-the-lost-spring.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
 | Wilderless | 301964 | [301964-wilderless.json](./301964-wilderless.json) |
