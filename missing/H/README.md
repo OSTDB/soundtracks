@@ -2232,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Dawn: The Zombie Apocalypse | 150267 | [150267-haunted-dawn-the-zombie-apocalypse.json](./150267-haunted-dawn-the-zombie-apocalypse.json) |
 | Haunted Domains | 54078 | [54078-haunted-domains.json](./54078-haunted-domains.json) |
 | Haunted Dungeons: Hyakki Castle | 110831 | [110831-haunted-dungeons-hyakki-castle.json](./110831-haunted-dungeons-hyakki-castle.json) |
+| Haunted Elevator | 309914 | [309914-haunted-elevator.json](./309914-haunted-elevator.json) |
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Game | 181026 | [181026-haunted-game.json](./181026-haunted-game.json) |
 | Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
@@ -9212,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hounded | 347083 | [347083-hounded.json](./347083-hounded.json) |
 | Hounds: The Last Hope | 35373 | [35373-hounds-the-last-hope.json](./35373-hounds-the-last-hope.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
+| Hour of Survival: Zombie Craft | 309913 | [309913-hour-of-survival-zombie-craft.json](./309913-hour-of-survival-zombie-craft.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
 | Hour of the Witch | 312048 | [312048-hour-of-the-witch.json](./312048-hour-of-the-witch.json) |
 | Hour of Victory | 7011 | [7011-hour-of-victory.json](./7011-hour-of-victory.json) |
@@ -10255,6 +10257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntfeast | 147431 | [147431-huntfeast.json](./147431-huntfeast.json) |
 | HuntForOut | 207731 | [207731-huntforout.json](./207731-huntforout.json) |
 | Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
+| Huntin' Ducks | 309921 | [309921-huntin-ducks.json](./309921-huntin-ducks.json) |
 | Hunting and Camping: In a Singularity | 214685 | [214685-hunting-and-camping-in-a-singularity.json](./214685-hunting-and-camping-in-a-singularity.json) |
 | Hunting Animals - Shooting Simulator | 87144 | [87144-hunting-animals-shooting-simulator.json](./87144-hunting-animals-shooting-simulator.json) |
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
