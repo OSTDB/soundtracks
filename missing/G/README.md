@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: Tactical Equipment Pack | 234919 | [234919-generation-zero-tactical-equipment-pack.json](./234919-generation-zero-tactical-equipment-pack.json) |
 | Generation Zero: Tactical Equipment Pack 2 | 266391 | [266391-generation-zero-tactical-equipment-pack-2.json](./266391-generation-zero-tactical-equipment-pack-2.json) |
 | Generation Zero: Tubular Vanity Pack | 234930 | [234930-generation-zero-tubular-vanity-pack.json](./234930-generation-zero-tubular-vanity-pack.json) |
+| Generation Zero: Ultimate Bundle | 284870 | [284870-generation-zero-ultimate-bundle.json](./284870-generation-zero-ultimate-bundle.json) |
 | Generation Zero: US Weapons Pack | 234928 | [234928-generation-zero-us-weapons-pack.json](./234928-generation-zero-us-weapons-pack.json) |
 | Generation Zero: US Weapons Pack 2 | 234925 | [234925-generation-zero-us-weapons-pack-2.json](./234925-generation-zero-us-weapons-pack-2.json) |
 | Generations | 237260 | [237260-generations.json](./237260-generations.json) |
@@ -8982,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Jam | 266894 | [266894-guitar-jam.json](./266894-guitar-jam.json) |
 | Guitar Legend: Get on Stage! | 247348 | [247348-guitar-legend-get-on-stage.json](./247348-guitar-legend-get-on-stage.json) |
 | Guitar Life: Lesson 1 | 287887 | [287887-guitar-life-lesson-1.json](./287887-guitar-life-lesson-1.json) |
+| Guitar Maker | 284874 | [284874-guitar-maker.json](./284874-guitar-maker.json) |
 | Guitar Praise: Expansion Pack 1 | 240173 | [240173-guitar-praise-expansion-pack-1.json](./240173-guitar-praise-expansion-pack-1.json) |
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
 | Guitar Praise: Stryper | 240172 | [240172-guitar-praise-stryper.json](./240172-guitar-praise-stryper.json) |
