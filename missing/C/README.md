@@ -4998,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos of Hearts | 31636 | [31636-chaos-of-hearts.json](./31636-chaos-of-hearts.json) |
 | Chaos on Deponia | 5062 | [5062-chaos-on-deponia.json](./5062-chaos-on-deponia.json) |
 | Chaos on Wheels: Deluxe Edition | 370899 | [370899-chaos-on-wheels-deluxe-edition.json](./370899-chaos-on-wheels-deluxe-edition.json) |
+| Chaos Order | 315532 | [315532-chaos-order.json](./315532-chaos-order.json) |
 | Chaos Overlords | 629 | [629-chaos-overlords.json](./629-chaos-overlords.json) |
 | Chaos Party | 139410 | [139410-chaos-party.json](./139410-chaos-party.json) |
 | Chaos Reborn | 13222 | [13222-chaos-reborn.json](./13222-chaos-reborn.json) |
@@ -6618,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
 | Choro Q 64 2: Hacha-mecha Grand Prix Race | 47742 | [47742-choro-q-64-2-hacha-mecha-grand-prix-race.json](./47742-choro-q-64-2-hacha-mecha-grand-prix-race.json) |
 | Choro Q HG 3 | 196257 | [196257-choro-q-hg-3.json](./196257-choro-q-hg-3.json) |
+| Choro Q Holiday Puzzle | 315437 | [315437-choro-q-holiday-puzzle.json](./315437-choro-q-holiday-puzzle.json) |
 | Choro Q Marine: Q-Boat | 71033 | [71033-choro-q-marine-q-boat.json](./71033-choro-q-marine-q-boat.json) |
 | Choro Q Park | 46095 | [46095-choro-q-park.json](./46095-choro-q-park.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
@@ -7083,6 +7085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chrono Trigger: Crimson Echoes | 38266 | [38266-chrono-trigger-crimson-echoes.json](./38266-chrono-trigger-crimson-echoes.json) |
 | Chrono Trigger: Jet Bike Special | 38105 | [38105-chrono-trigger-jet-bike-special.json](./38105-chrono-trigger-jet-bike-special.json) |
+| Chrono Trigger: Prophet's Guile | 315449 | [315449-chrono-trigger-prophets-guile.json](./315449-chrono-trigger-prophets-guile.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
@@ -9325,6 +9328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
 | Code Arcturus | 133097 | [133097-code-arcturus.json](./133097-code-arcturus.json) |
 | Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
+| Code Breaker | 315457 | [315457-code-breaker.json](./315457-code-breaker.json) |
 | Code Breaker | 380076 | [380076-code-breaker.json](./380076-code-breaker.json) |
 | Code Brown | 111178 | [111178-code-brown.json](./111178-code-brown.json) |
 | Code Bunny | 183988 | [183988-code-bunny.json](./183988-code-bunny.json) |
@@ -10106,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Syndrome | 32447 | [32447-color-syndrome.json](./32447-color-syndrome.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
+| Color Theory | 315452 | [315452-color-theory.json](./315452-color-theory.json) |
 | Color Tiles - Puzzle | 106911 | [106911-color-tiles-puzzle.json](./106911-color-tiles-puzzle.json) |
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
 | Color Tower Defence | 309712 | [309712-color-tower-defence.json](./309712-color-tower-defence.json) |
@@ -16691,6 +16696,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
 | Cursed Station | 343025 | [343025-cursed-station.json](./343025-cursed-station.json) |
+| Cursed Swamp Escape | 315468 | [315468-cursed-swamp-escape.json](./315468-cursed-swamp-escape.json) |
+| Cursed Swamp Escape 2 | 315469 | [315469-cursed-swamp-escape-2.json](./315469-cursed-swamp-escape-2.json) |
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
 | Cursed Theatre Escape | 315583 | [315583-cursed-theatre-escape.json](./315583-cursed-theatre-escape.json) |
 | Cursed to Golf | 142358 | [142358-cursed-to-golf.json](./142358-cursed-to-golf.json) |
