@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
 | Rage Wars | 30564 | [30564-rage-wars.json](./30564-rage-wars.json) |
 | Rage: Anarchy Edition | 43033 | [43033-rage-anarchy-edition.json](./43033-rage-anarchy-edition.json) |
+| Rage: Anger Management | 281442 | [281442-rage-anger-management.json](./281442-rage-anger-management.json) |
 | Rage: The Scorchers | 10751 | [10751-rage-the-scorchers.json](./10751-rage-the-scorchers.json) |
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | RageBall | 299699 | [299699-rageball.json](./299699-rageball.json) |
