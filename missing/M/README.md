@@ -7472,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorania | 68550 | [68550-memorania.json](./68550-memorania.json) |
 | Memorel | 293501 | [293501-memorel.json](./293501-memorel.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
+| Memoreum | 306935 | [306935-memoreum.json](./306935-memoreum.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
 | Memoria | 132732 | [132732-memoria.json](./132732-memoria.json) |
 | Memoria | 191172 | [191172-memoria.json](./191172-memoria.json) |
@@ -11353,6 +11354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Mia | 54834 | [54834-miracle-mia.json](./54834-miracle-mia.json) |
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
+| Miracle Pool | 306934 | [306934-miracle-pool.json](./306934-miracle-pool.json) |
 | Miracle Ropit's Adventure in 2100 | 64685 | [64685-miracle-ropits-adventure-in-2100.json](./64685-miracle-ropits-adventure-in-2100.json) |
 | Miracle Snack Shop | 113331 | [113331-miracle-snack-shop.json](./113331-miracle-snack-shop.json) |
 | Miracle Space Race | 43779 | [43779-miracle-space-race.json](./43779-miracle-space-race.json) |
@@ -13427,6 +13429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Outlanders | 322022 | [322022-monster-hunter-outlanders.json](./322022-monster-hunter-outlanders.json) |
 | Monster Hunter Portable 3rd | 42759 | [42759-monster-hunter-portable-3rd.json](./42759-monster-hunter-portable-3rd.json) |
 | Monster Hunter Portable 3rd HD Ver. | 78633 | [78633-monster-hunter-portable-3rd-hd-ver.json](./78633-monster-hunter-portable-3rd-hd-ver.json) |
+| Monster Hunter Puzzles: Felyne Isles | 307018 | [307018-monster-hunter-puzzles-felyne-isles.json](./307018-monster-hunter-puzzles-felyne-isles.json) |
 | Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
@@ -16224,6 +16227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Survivors | 307738 | [307738-multiplayer-survivors.json](./307738-multiplayer-survivors.json) |
 | Multiplayer Table Football | 182159 | [182159-multiplayer-table-football.json](./182159-multiplayer-table-football.json) |
 | Multiplayer Turtles | 249330 | [249330-multiplayer-turtles.json](./249330-multiplayer-turtles.json) |
+| Multiplayer Werewolves | 307023 | [307023-multiplayer-werewolves.json](./307023-multiplayer-werewolves.json) |
 | Multiplayer Wizards | 304820 | [304820-multiplayer-wizards.json](./304820-multiplayer-wizards.json) |
 | Multiplayer.Golf | 205657 | [205657-multiplayer-golf.json](./205657-multiplayer-golf.json) |
 | Multiple Territory War | 419202 | [419202-multiple-territory-war.json](./419202-multiple-territory-war.json) |
