@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Die Today | 332378 | [332378-you-die-today.json](./332378-you-die-today.json) |
 | You Died but a Necromancer Revived You | 116041 | [116041-you-died-but-a-necromancer-revived-you.json](./116041-you-died-but-a-necromancer-revived-you.json) |
 | You Do Jump | 202012 | [202012-you-do-jump.json](./202012-you-do-jump.json) |
+| You Do Voodoo | 294751 | [294751-you-do-voodoo.json](./294751-you-do-voodoo.json) |
 | You Doesn't Exist | 65826 | [65826-you-doesnt-exist.json](./65826-you-doesnt-exist.json) |
 | You Don't Belong Here | 391115 | [391115-you-dont-belong-here.json](./391115-you-dont-belong-here.json) |
 | You Don't Have Time | 121054 | [121054-you-dont-have-time.json](./121054-you-dont-have-time.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Gonna Miss the Bus! | 271683 | [271683-youre-gonna-miss-the-bus.json](./271683-youre-gonna-miss-the-bus.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're in the Movies | 7258 | [7258-youre-in-the-movies.json](./7258-youre-in-the-movies.json) |
+| You're Just Imagining It | 294666 | [294666-youre-just-imagining-it.json](./294666-youre-just-imagining-it.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
 | You're My Hero | 55934 | [55934-youre-my-hero.json](./55934-youre-my-hero.json) |
 | You're My Penguin | 254650 | [254650-youre-my-penguin.json](./254650-youre-my-penguin.json) |
