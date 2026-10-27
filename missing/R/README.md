@@ -5505,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Revenot | 144225 | [144225-revenot.json](./144225-revenot.json) |
 | Rever dun Manege | 118211 | [118211-rever-dun-manege.json](./118211-rever-dun-manege.json) |
+| Reverb | 304536 | [304536-reverb.json](./304536-reverb.json) |
 | Reverb Arcade | 256145 | [256145-reverb-arcade.json](./256145-reverb-arcade.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
 | Reverence | 193732 | [193732-reverence.json](./193732-reverence.json) |
@@ -9014,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly Rails | 345701 | [345701-rolly-rails.json](./345701-rolly-rails.json) |
 | Rolly Rolly | 78535 | [78535-rolly-rolly.json](./78535-rolly-rolly.json) |
 | Rolly's Adventure | 119560 | [119560-rollys-adventure.json](./119560-rollys-adventure.json) |
+| Rollz | 304507 | [304507-rollz.json](./304507-rollz.json) |
 | Rolo to the Rescue | 46200 | [46200-rolo-to-the-rescue.json](./46200-rolo-to-the-rescue.json) |
 | Roly Poly | 196669 | [196669-roly-poly.json](./196669-roly-poly.json) |
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
@@ -9979,6 +9981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPGolf | 98161 | [98161-rpgolf.json](./98161-rpgolf.json) |
 | RPGolf Legends | 151813 | [151813-rpgolf-legends.json](./151813-rpgolf-legends.json) |
 | RPM Racing | 42466 | [42466-rpm-racing.json](./42466-rpm-racing.json) |
+| RPM: Road Punk Mayhem | 304521 | [304521-rpm-road-punk-mayhem.json](./304521-rpm-road-punk-mayhem.json) |
 | RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Hunger | 371426 | [371426-rps-hunger.json](./371426-rps-hunger.json) |
 | RPS Knights | 257244 | [257244-rps-knights.json](./257244-rps-knights.json) |
