@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
 | Caball | 267282 | [267282-caball.json](./267282-caball.json) |
+| Caball: Sunset Hour | 332366 | [332366-caball-sunset-hour.json](./332366-caball-sunset-hour.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
 | Cabbage Crop | 290838 | [290838-cabbage-crop.json](./290838-cabbage-crop.json) |
 | Cabbage Patch Kids: Adventures in the Park | 11144 | [11144-cabbage-patch-kids-adventures-in-the-park.json](./11144-cabbage-patch-kids-adventures-in-the-park.json) |
@@ -15050,6 +15051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crosswords For Dummies | 208801 | [208801-crosswords-for-dummies.json](./208801-crosswords-for-dummies.json) |
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
+| Crosswords: World Tour | 332329 | [332329-crosswords-world-tour.json](./332329-crosswords-world-tour.json) |
 | CrossWorlds: Escape | 31810 | [31810-crossworlds-escape.json](./31810-crossworlds-escape.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Creeper | 203206 | [203206-crossy-creeper.json](./203206-crossy-creeper.json) |
