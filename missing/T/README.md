@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Clive Rosfield | 325597 | [325597-tekken-8-clive-rosfield.json](./325597-tekken-8-clive-rosfield.json) |
 | Tekken 8: Collaboration Set - Clive Rosfield & Phoenix Gate | 384749 | [384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json](./384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
+| Tekken 8: Genmaji Temple | 319605 | [319605-tekken-8-genmaji-temple.json](./319605-tekken-8-genmaji-temple.json) |
 | Tekken 8: Heihachi Mishima | 310523 | [310523-tekken-8-heihachi-mishima.json](./310523-tekken-8-heihachi-mishima.json) |
 | Tekken 8: Hibiscus Pack | 317357 | [317357-tekken-8-hibiscus-pack.json](./317357-tekken-8-hibiscus-pack.json) |
 | Tekken 8: Kunimitsu | 389215 | [389215-tekken-8-kunimitsu.json](./389215-tekken-8-kunimitsu.json) |
@@ -3321,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
 | Temukung: Cultivation in Drylands | 327091 | [327091-temukung-cultivation-in-drylands.json](./327091-temukung-cultivation-in-drylands.json) |
 | Ten | 202770 | [202770-ten.json](./202770-ten.json) |
+| Ten 1K Games | 319526 | [319526-ten-1k-games.json](./319526-ten-1k-games.json) |
 | Ten Bells | 312127 | [312127-ten-bells.json](./312127-ten-bells.json) |
 | Ten by Eight | 63072 | [63072-ten-by-eight.json](./63072-ten-by-eight.json) |
 | Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
@@ -4292,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrocombat | 260598 | [260598-tetrocombat.json](./260598-tetrocombat.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
 | Tetrogue Dragons | 164266 | [164266-tetrogue-dragons.json](./164266-tetrogue-dragons.json) |
+| Tetroi | 319535 | [319535-tetroi.json](./319535-tetroi.json) |
 | Tetroid 2012 | 73655 | [73655-tetroid-2012.json](./73655-tetroid-2012.json) |
 | Tetrominer | 324725 | [324725-tetrominer.json](./324725-tetrominer.json) |
 | Tetromino Attack | 117808 | [117808-tetromino-attack.json](./117808-tetromino-attack.json) |
