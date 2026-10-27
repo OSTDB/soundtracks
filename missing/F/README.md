@@ -10093,6 +10093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs. Zardy | 329149 | [329149-friday-night-funkin-vs-zardy.json](./329149-friday-night-funkin-vs-zardy.json) |
 | Friday Night Funkin': vs.Tails Doll | 275262 | [275262-friday-night-funkin-vs-tails-doll.json](./275262-friday-night-funkin-vs-tails-doll.json) |
 | Friday Night Funkin': Wednesday's Infidelity | 325668 | [325668-friday-night-funkin-wednesdays-infidelity.json](./325668-friday-night-funkin-wednesdays-infidelity.json) |
+| Friday Night Funkin': Yellow | 316026 | [316026-friday-night-funkin-yellow.json](./316026-friday-night-funkin-yellow.json) |
 | Friday Night Knockout | 357671 | [357671-friday-night-knockout.json](./357671-friday-night-knockout.json) |
 | Friday Night Monster of Monsters | 393270 | [393270-friday-night-monster-of-monsters.json](./393270-friday-night-monster-of-monsters.json) |
 | Friday Night Pikmin | 308375 | [308375-friday-night-pikmin.json](./308375-friday-night-pikmin.json) |
