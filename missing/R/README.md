@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Friday | 365619 | [365619-radical-friday.json](./365619-radical-friday.json) |
 | Radical Heights | 96239 | [96239-radical-heights.json](./96239-radical-heights.json) |
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
+| Radical Problems | 316114 | [316114-radical-problems.json](./316114-radical-problems.json) |
 | Radical Rabbit Stew | 116592 | [116592-radical-rabbit-stew.json](./116592-radical-rabbit-stew.json) |
 | Radical Race | 301098 | [301098-radical-race.json](./301098-radical-race.json) |
 | Radical Radial | 40088 | [40088-radical-radial.json](./40088-radical-radial.json) |
@@ -1133,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Islands Extra | 45749 | [45749-rainbow-islands-extra.json](./45749-rainbow-islands-extra.json) |
 | Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
 | Rainbow Islands: Candyland | 78444 | [78444-rainbow-islands-candyland.json](./78444-rainbow-islands-candyland.json) |
+| Rainbow Islands: The Story of Bubble Bobble 2 | 316031 | [316031-rainbow-islands-the-story-of-bubble-bobble-2.json](./316031-rainbow-islands-the-story-of-bubble-bobble-2.json) |
 | Rainbow Islands: The Story of Bubble Bobble 2 | 4405 | [4405-rainbow-islands-the-story-of-bubble-bobble-2.json](./4405-rainbow-islands-the-story-of-bubble-bobble-2.json) |
 | Rainbow Islands: Towering Adventure! | 21241 | [21241-rainbow-islands-towering-adventure.json](./21241-rainbow-islands-towering-adventure.json) |
 | Rainbow Jigsaw | 241664 | [241664-rainbow-jigsaw.json](./241664-rainbow-jigsaw.json) |
@@ -3370,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red November | 94031 | [94031-red-november.json](./94031-red-november.json) |
 | Red Oath: The Forsaken One | 391528 | [391528-red-oath-the-forsaken-one.json](./391528-red-oath-the-forsaken-one.json) |
 | Red Obsidian Remnant | 29070 | [29070-red-obsidian-remnant.json](./29070-red-obsidian-remnant.json) |
+| Red October | 316119 | [316119-red-october.json](./316119-red-october.json) |
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
 | Red Ops: The First Infection | 253860 | [253860-red-ops-the-first-infection.json](./253860-red-ops-the-first-infection.json) |
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
@@ -3505,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redaxium 2 | 207294 | [207294-redaxium-2.json](./207294-redaxium-2.json) |
 | REday -1 | 377931 | [377931-reday-1.json](./377931-reday-1.json) |
 | Redbean | 412464 | [412464-redbean.json](./412464-redbean.json) |
+| Redbean Rhapsody | 316044 | [316044-redbean-rhapsody.json](./316044-redbean-rhapsody.json) |
 | Redbeard's Recoil | 344707 | [344707-redbeards-recoil.json](./344707-redbeards-recoil.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
 | RedCard 2003 | 46027 | [46027-redcard-2003.json](./46027-redcard-2003.json) |
@@ -10386,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from Blablublas horror | 386543 | [386543-run-from-blablublas-horror.json](./386543-run-from-blablublas-horror.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run from Duck | 379931 | [379931-run-from-duck.json](./379931-run-from-duck.json) |
+| Run from the Feds! | 316019 | [316019-run-from-the-feds.json](./316019-run-from-the-feds.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Ghost Run | 125057 | [125057-run-ghost-run.json](./125057-run-ghost-run.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
@@ -10920,6 +10925,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Test | 370548 | [370548-russian-test.json](./370548-russian-test.json) |
 | Russian Train Trip | 189054 | [189054-russian-train-trip.json](./189054-russian-train-trip.json) |
 | Russian Train Trip 2 | 235640 | [235640-russian-train-trip-2.json](./235640-russian-train-trip-2.json) |
+| Russian Train Trip 2: A Beautiful Girl In Your Place | 316117 | [316117-russian-train-trip-2-a-beautiful-girl-in-your-place.json](./316117-russian-train-trip-2-a-beautiful-girl-in-your-place.json) |
+| Russian Train Trip 2: Fast Time | 316115 | [316115-russian-train-trip-2-fast-time.json](./316115-russian-train-trip-2-fast-time.json) |
+| Russian Train Trip 2: Putin's Posters in the Train Car | 316118 | [316118-russian-train-trip-2-putins-posters-in-the-train-car.json](./316118-russian-train-trip-2-putins-posters-in-the-train-car.json) |
+| Russian Train Trip 2: VIP Seat In The Train Car | 316116 | [316116-russian-train-trip-2-vip-seat-in-the-train-car.json](./316116-russian-train-trip-2-vip-seat-in-the-train-car.json) |
+| Russian Train Trip 3: Beer On The Train | 316110 | [316110-russian-train-trip-3-beer-on-the-train.json](./316110-russian-train-trip-3-beer-on-the-train.json) |
+| Russian Train Trip 3: Flashlight | 316109 | [316109-russian-train-trip-3-flashlight.json](./316109-russian-train-trip-3-flashlight.json) |
+| Russian Train Trip 3: Gorbachev's Posters In The Apartment | 316106 | [316106-russian-train-trip-3-gorbachevs-posters-in-the-apartment.json](./316106-russian-train-trip-3-gorbachevs-posters-in-the-apartment.json) |
+| Russian Train Trip 3: Instant Arrival In Novosibirsk | 316108 | [316108-russian-train-trip-3-instant-arrival-in-novosibirsk.json](./316108-russian-train-trip-3-instant-arrival-in-novosibirsk.json) |
+| Russian Train Trip 3: People In A Train Car | 316111 | [316111-russian-train-trip-3-people-in-a-train-car.json](./316111-russian-train-trip-3-people-in-a-train-car.json) |
+| Russian Train Trip 3: Personal Computer In The Apartment | 316107 | [316107-russian-train-trip-3-personal-computer-in-the-apartment.json](./316107-russian-train-trip-3-personal-computer-in-the-apartment.json) |
+| Russian Train Trip 3: Posters In The Train Car | 316112 | [316112-russian-train-trip-3-posters-in-the-train-car.json](./316112-russian-train-trip-3-posters-in-the-train-car.json) |
 | Russian Village Simulator | 253458 | [253458-russian-village-simulator.json](./253458-russian-village-simulator.json) |
 | Russian Village Simulator 2 | 387745 | [387745-russian-village-simulator-2.json](./387745-russian-village-simulator-2.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
@@ -11104,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuki Densyo: Dragoon | 60064 | [60064-ryuki-densyo-dragoon.json](./60064-ryuki-densyo-dragoon.json) |
 | Ryuko: Legend of Shadow Hunter | 174778 | [174778-ryuko-legend-of-shadow-hunter.json](./174778-ryuko-legend-of-shadow-hunter.json) |
 | Ryuthela | 353928 | [353928-ryuthela.json](./353928-ryuthela.json) |
+| Ryuu ga Gotoku 0 Kihon Muryou App | 316113 | [316113-ryuu-ga-gotoku-0-kihon-muryou-app.json](./316113-ryuu-ga-gotoku-0-kihon-muryou-app.json) |
 | Ryuu ga Gotoku Ishin! | 12736 | [12736-ryuu-ga-gotoku-ishin.json](./12736-ryuu-ga-gotoku-ishin.json) |
 | Ryuu ga Gotoku Ishin! Muryou App | 317101 | [317101-ryuu-ga-gotoku-ishin-muryou-app.json](./317101-ryuu-ga-gotoku-ishin-muryou-app.json) |
 | Ryuu ga Gotoku Kenzan! | 7442 | [7442-ryuu-ga-gotoku-kenzan.json](./7442-ryuu-ga-gotoku-kenzan.json) |
