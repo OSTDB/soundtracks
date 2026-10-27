@@ -5299,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going To Bed | 375790 | [375790-going-to-bed.json](./375790-going-to-bed.json) |
 | Going Under | 122662 | [122662-going-under.json](./122662-going-under.json) |
 | Going Up | 31946 | [31946-going-up.json](./31946-going-up.json) |
+| Going Up | 327138 | [327138-going-up.json](./327138-going-up.json) |
 | Going Up? | 120124 | [120124-going-up.json](./120124-going-up.json) |
 | Going Up?? | 282789 | [282789-going-up.json](./282789-going-up.json) |
 | Goinund | 105095 | [105095-goinund.json](./105095-goinund.json) |
@@ -8409,6 +8410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
 | GSpot Master | 286393 | [286393-gspot-master.json](./286393-gspot-master.json) |
+| GSPro | 327109 | [327109-gspro.json](./327109-gspro.json) |
 | GSPS The Game | 360113 | [360113-gsps-the-game.json](./360113-gsps-the-game.json) |
 | Gst Wars | 360711 | [360711-gst-wars.json](./360711-gst-wars.json) |
 | GT 24 | 210726 | [210726-gt-24.json](./210726-gt-24.json) |
@@ -9122,6 +9124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guncar Arena | 215585 | [215585-guncar-arena.json](./215585-guncar-arena.json) |
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
 | Guncaster | 367575 | [367575-guncaster.json](./367575-guncaster.json) |
+| GunCat | 327102 | [327102-guncat.json](./327102-guncat.json) |
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
 | Gunclone Arena | 389647 | [389647-gunclone-arena.json](./389647-gunclone-arena.json) |
 | Guncom 2 | 43532 | [43532-guncom-2.json](./43532-guncom-2.json) |
