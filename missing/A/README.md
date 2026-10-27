@@ -6203,6 +6203,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All You Can Play: 10 Action-Games | 137502 | [137502-all-you-can-play-10-action-games.json](./137502-all-you-can-play-10-action-games.json) |
 | All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
 | All You Need is Help | 299592 | [299592-all-you-need-is-help.json](./299592-all-you-need-is-help.json) |
+| All You Need is Help: Lively Friends Bundle | 320698 | [320698-all-you-need-is-help-lively-friends-bundle.json](./320698-all-you-need-is-help-lively-friends-bundle.json) |
+| All You Need is Help: The Lively Friends Pack | 320700 | [320700-all-you-need-is-help-the-lively-friends-pack.json](./320700-all-you-need-is-help-the-lively-friends-pack.json) |
 | All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
 | All Your Time-Tossed Selves | 134379 | [134379-all-your-time-tossed-selves.json](./134379-all-your-time-tossed-selves.json) |
@@ -8600,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Babes: Solitaire | 110515 | [110515-anime-babes-solitaire.json](./110515-anime-babes-solitaire.json) |
 | Anime Beauty Girl Puzzle: Love Game History Adventure | 252699 | [252699-anime-beauty-girl-puzzle-love-game-history-adventure.json](./252699-anime-beauty-girl-puzzle-love-game-history-adventure.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
+| Anime Boys Dating: Sexy Halloween Costumes | 320790 | [320790-anime-boys-dating-sexy-halloween-costumes.json](./320790-anime-boys-dating-sexy-halloween-costumes.json) |
 | Anime Bubble Pop | 75812 | [75812-anime-bubble-pop.json](./75812-anime-bubble-pop.json) |
 | Anime Cards | 154279 | [154279-anime-cards.json](./154279-anime-cards.json) |
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
@@ -11459,6 +11462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria Disconnect | 132479 | [132479-aria-disconnect.json](./132479-aria-disconnect.json) |
 | Aria of Destiny | 326828 | [326828-aria-of-destiny.json](./326828-aria-of-destiny.json) |
 | Aria of God Killing | 193977 | [193977-aria-of-god-killing.json](./193977-aria-of-god-killing.json) |
+| Aria of Song | 320786 | [320786-aria-of-song.json](./320786-aria-of-song.json) |
 | Aria The Origination: Aoi Hoshi no Il Cielo - Motto Dekkai Tsumeawase | 394584 | [394584-aria-the-origination-aoi-hoshi-no-il-cielo-motto-dekkai-tsumeawase.json](./394584-aria-the-origination-aoi-hoshi-no-il-cielo-motto-dekkai-tsumeawase.json) |
 | ARIA: Angelic Realms In Arborea | 255552 | [255552-aria-angelic-realms-in-arborea.json](./255552-aria-angelic-realms-in-arborea.json) |
 | Aria: Aqua Ritmo | 56291 | [56291-aria-aqua-ritmo.json](./56291-aria-aqua-ritmo.json) |
