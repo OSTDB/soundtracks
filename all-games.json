@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T19:05:57.212Z",
-  "total_soundtracks": 2620,
+  "generated_at": "2026-10-27T19:11:00.487Z",
+  "total_soundtracks": 2622,
   "games": [
     {
       "igdb_id": 7522,
@@ -23881,6 +23881,20 @@
       ]
     },
     {
+      "igdb_id": 122134,
+      "game_name": "Simulacra 2",
+      "game_url": "https://ostdb.net/games/simulacra-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737bf648b893c5b9f20aeb05bf",
+      "albums": [
+        {
+          "album_name": "Simulacra 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6sKozDzIzf3e6z3bdHgNEg",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 571,
       "game_name": "Singularity",
       "game_url": "https://ostdb.net/games/singularity",
@@ -30784,6 +30798,20 @@
           "album_name": "Vampire: The Masquerade - Bloodlines 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4frosi4f327peOOCTIwX3F",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 132102,
+      "game_name": "Vampire: The Masquerade - Shadows of New York",
+      "game_url": "https://ostdb.net/games/vampire-the-masquerade-shadows-of-new-york",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a1360f31f526f6518bd55031",
+      "albums": [
+        {
+          "album_name": "Vampire: The Masquerade – Shadows of New York Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0dSSQuUJvXXNYx59zs4Z2O",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
