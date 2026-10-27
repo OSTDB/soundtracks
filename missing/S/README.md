@@ -4834,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sepulcrum | 344889 | [344889-sepulcrum.json](./344889-sepulcrum.json) |
 | Seq | 175080 | [175080-seq.json](./175080-seq.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
+| Sequence | 304526 | [304526-sequence.json](./304526-sequence.json) |
 | Sequence Jump | 361854 | [361854-sequence-jump.json](./361854-sequence-jump.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Sequence Storm | 111533 | [111533-sequence-storm.json](./111533-sequence-storm.json) |
@@ -10886,6 +10887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skymote | 417612 | [417612-skymote.json](./417612-skymote.json) |
 | Skynet Rising : Portal to the Past | 25738 | [25738-skynet-rising-portal-to-the-past.json](./25738-skynet-rising-portal-to-the-past.json) |
 | Skynet Simulator | 177429 | [177429-skynet-simulator.json](./177429-skynet-simulator.json) |
+| SkyNuggets | 304553 | [304553-skynuggets.json](./304553-skynuggets.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | Skyraine | 53616 | [53616-skyraine.json](./53616-skyraine.json) |
@@ -12710,6 +12712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snark Busters: All Revved Up | 96592 | [96592-snark-busters-all-revved-up.json](./96592-snark-busters-all-revved-up.json) |
 | Snark Busters: Welcome to the Club | 53638 | [53638-snark-busters-welcome-to-the-club.json](./53638-snark-busters-welcome-to-the-club.json) |
 | Snarl | 396583 | [396583-snarl.json](./396583-snarl.json) |
+| Snatch & Swallow | 304517 | [304517-snatch-and-swallow.json](./304517-snatch-and-swallow.json) |
 | Snatch Squad | 365686 | [365686-snatch-squad.json](./365686-snatch-squad.json) |
 | Snatched | 302822 | [302822-snatched.json](./302822-snatched.json) |
 | Snatched | 395585 | [395585-snatched.json](./395585-snatched.json) |
@@ -16121,6 +16124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign's Enigma | 327057 | [327057-sovereigns-enigma.json](./327057-sovereigns-enigma.json) |
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
 | Soviet | 93441 | [93441-soviet.json](./93441-soviet.json) |
+| Soviet Anomaly 7 | 304506 | [304506-soviet-anomaly-7.json](./304506-soviet-anomaly-7.json) |
 | Soviet Bear Uni Adventure | 125094 | [125094-soviet-bear-uni-adventure.json](./125094-soviet-bear-uni-adventure.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet City | 19866 | [19866-soviet-city.json](./19866-soviet-city.json) |
@@ -18698,6 +18702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spiritless Ltd. | 247883 | [247883-spiritless-ltd.json](./247883-spiritless-ltd.json) |
 | Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
+| Spiritmorph | 304535 | [304535-spiritmorph.json](./304535-spiritmorph.json) |
 | Spiritoké | 240653 | [240653-spiritoke.json](./240653-spiritoke.json) |
 | Spirits | 239573 | [239573-spirits.json](./239573-spirits.json) |
 | Spirits | 7403 | [7403-spirits.json](./7403-spirits.json) |
@@ -23055,6 +23060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop the Bus | 83464 | [83464-stop-the-bus.json](./83464-stop-the-bus.json) |
 | Stop the Bus! | 187701 | [187701-stop-the-bus.json](./187701-stop-the-bus.json) |
 | Stop the Cult | 189913 | [189913-stop-the-cult.json](./189913-stop-the-cult.json) |
+| Stop The F | 304509 | [304509-stop-the-f.json](./304509-stop-the-f.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop the Saturnians! | 188841 | [188841-stop-the-saturnians.json](./188841-stop-the-saturnians.json) |
 | Stop the Slimes | 273967 | [273967-stop-the-slimes.json](./273967-stop-the-slimes.json) |
@@ -25574,6 +25580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
 | Suncroft | 412343 | [412343-suncroft.json](./412343-suncroft.json) |
 | Sundae Drive | 422089 | [422089-sundae-drive.json](./422089-sundae-drive.json) |
+| Sundae Picnic | 304542 | [304542-sundae-picnic.json](./304542-sundae-picnic.json) |
 | Sundance | 39411 | [39411-sundance.json](./39411-sundance.json) |
 | Sunday & Magazine: White Comic | 61448 | [61448-sunday-and-magazine-white-comic.json](./61448-sunday-and-magazine-white-comic.json) |
 | Sunday City | 376280 | [376280-sunday-city.json](./376280-sunday-city.json) |
@@ -29677,6 +29684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Fantasy World | 339463 | [339463-sweet-fantasy-world.json](./339463-sweet-fantasy-world.json) |
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
 | Sweet Feets | 254383 | [254383-sweet-feets.json](./254383-sweet-feets.json) |
+| Sweet Forest | 304549 | [304549-sweet-forest.json](./304549-sweet-forest.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
 | Sweet Fuse: At Your Side | 20103 | [20103-sweet-fuse-at-your-side.json](./20103-sweet-fuse-at-your-side.json) |
@@ -30738,6 +30746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Flaw Recruit | 79880 | [79880-system-flaw-recruit.json](./79880-system-flaw-recruit.json) |
 | System Goose Overload | 90651 | [90651-system-goose-overload.json](./90651-system-goose-overload.json) |
 | System Intrusion | 169367 | [169367-system-intrusion.json](./169367-system-intrusion.json) |
+| System Malfunction | 304512 | [304512-system-malfunction.json](./304512-system-malfunction.json) |
 | System Mania | 54423 | [54423-system-mania.json](./54423-system-mania.json) |
 | System of Souls | 204995 | [204995-system-of-souls.json](./204995-system-of-souls.json) |
 | System Overload | 390218 | [390218-system-overload.json](./390218-system-overload.json) |
