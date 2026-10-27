@@ -15285,6 +15285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Adventure | 165934 | [165934-dungeon-adventure.json](./165934-dungeon-adventure.json) |
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
 | Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
+| Dungeon Adventure Island | 282168 | [282168-dungeon-adventure-island.json](./282168-dungeon-adventure-island.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon And Darkness | 332562 | [332562-dungeon-and-darkness.json](./332562-dungeon-and-darkness.json) |
 | Dungeon and Puzzles | 142267 | [142267-dungeon-and-puzzles.json](./142267-dungeon-and-puzzles.json) |
