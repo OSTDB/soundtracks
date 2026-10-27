@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Love | 72663 | [72663-day-of-love.json](./72663-day-of-love.json) |
 | Day of Night | 277495 | [277495-day-of-night.json](./277495-day-of-night.json) |
 | Day of Red Letter | 253031 | [253031-day-of-red-letter.json](./253031-day-of-red-letter.json) |
+| Day of the Bobteds | 319624 | [319624-day-of-the-bobteds.json](./319624-day-of-the-bobteds.json) |
 | Day of the dead | 243675 | [243675-day-of-the-dead.json](./243675-day-of-the-dead.json) |
 | Day of the Dead: Solitaire Collection | 161362 | [161362-day-of-the-dead-solitaire-collection.json](./161362-day-of-the-dead-solitaire-collection.json) |
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
@@ -9686,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgekill | 345687 | [345687-dodgekill.json](./345687-dodgekill.json) |
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
 | Dodgem Arena | 43693 | [43693-dodgem-arena.json](./43693-dodgem-arena.json) |
+| Dodgems and Connect 4 | 319530 | [319530-dodgems-and-connect-4.json](./319530-dodgems-and-connect-4.json) |
 | Dodgeout+ | 245199 | [245199-dodgeout.json](./245199-dodgeout.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
 | Dodgerman | 113645 | [113645-dodgerman.json](./113645-dodgerman.json) |
