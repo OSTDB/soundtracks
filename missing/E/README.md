@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Ascent | 276676 | [276676-elemental-ascent.json](./276676-elemental-ascent.json) |
 | Elemental Battlefields | 188999 | [188999-elemental-battlefields.json](./188999-elemental-battlefields.json) |
 | Elemental Combat | 55223 | [55223-elemental-combat.json](./55223-elemental-combat.json) |
+| Elemental Cube | 308317 | [308317-elemental-cube.json](./308317-elemental-cube.json) |
 | Elemental Defender | 339733 | [339733-elemental-defender.json](./339733-elemental-defender.json) |
 | Elemental Dreams | 277187 | [277187-elemental-dreams.json](./277187-elemental-dreams.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
@@ -5698,6 +5699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverDead: Zombie Apocalypse | 63681 | [63681-everdead-zombie-apocalypse.json](./63681-everdead-zombie-apocalypse.json) |
 | Everdell | 210527 | [210527-everdell.json](./210527-everdell.json) |
 | Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
+| Everdream | 307562 | [307562-everdream.json](./307562-everdream.json) |
 | Everdream Valley | 138613 | [138613-everdream-valley.json](./138613-everdream-valley.json) |
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
 | Everdream Valley: Summer Fun DLC | 255154 | [255154-everdream-valley-summer-fun-dlc.json](./255154-everdream-valley-summer-fun-dlc.json) |
