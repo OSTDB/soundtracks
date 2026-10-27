@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahiana (G) | 395377 | [395377-dahiana-g.json](./395377-dahiana-g.json) |
+| Dahlia | 321291 | [321291-dahlia.json](./321291-dahlia.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahlia no Wakudeki: Danchi-zuma Akiko ga Ochiru Jijou | 160198 | [160198-dahlia-no-wakudeki-danchi-zuma-akiko-ga-ochiru-jijou.json](./160198-dahlia-no-wakudeki-danchi-zuma-akiko-ga-ochiru-jijou.json) |
 | Dahlia: Lasciatemi morire | 275476 | [275476-dahlia-lasciatemi-morire.json](./275476-dahlia-lasciatemi-morire.json) |
@@ -7110,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
 | Diamond Stacks | 89624 | [89624-diamond-stacks.json](./89624-diamond-stacks.json) |
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
+| Diamond Sword, Wooden Sword | 321300 | [321300-diamond-sword-wooden-sword.json](./321300-diamond-sword-wooden-sword.json) |
 | Diamond Thief | 371300 | [371300-diamond-thief.json](./371300-diamond-thief.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
 | Diamond Word | 325524 | [325524-diamond-word.json](./325524-diamond-word.json) |
@@ -14138,6 +14140,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DROD RPG: Tendry's Tale | 8991 | [8991-drod-rpg-tendrys-tale.json](./8991-drod-rpg-tendrys-tale.json) |
 | DROD: Journey to Rooted Hold | 9085 | [9085-drod-journey-to-rooted-hold.json](./9085-drod-journey-to-rooted-hold.json) |
 | DROD: King Dugan's Dungeon | 9084 | [9084-drod-king-dugans-dungeon.json](./9084-drod-king-dugans-dungeon.json) |
+| DROD: Smitemaster's Selection Expansion 13 - Treacle Stew | 321317 | [321317-drod-smitemasters-selection-expansion-13-treacle-stew.json](./321317-drod-smitemasters-selection-expansion-13-treacle-stew.json) |
+| DROD: Smitemaster's Selection Expansions 1+2 | 321307 | [321307-drod-smitemasters-selection-expansions-1-2.json](./321307-drod-smitemasters-selection-expansions-1-2.json) |
+| DROD: Smitemaster's Selection Expansions 11+12 | 321316 | [321316-drod-smitemasters-selection-expansions-11-12.json](./321316-drod-smitemasters-selection-expansions-11-12.json) |
+| DROD: Smitemaster's Selection Expansions 3+4 | 321309 | [321309-drod-smitemasters-selection-expansions-3-4.json](./321309-drod-smitemasters-selection-expansions-3-4.json) |
+| DROD: Smitemaster's Selection Expansions 5+6 | 321310 | [321310-drod-smitemasters-selection-expansions-5-6.json](./321310-drod-smitemasters-selection-expansions-5-6.json) |
+| DROD: Smitemaster's Selection Expansions 7+8 | 321311 | [321311-drod-smitemasters-selection-expansions-7-8.json](./321311-drod-smitemasters-selection-expansions-7-8.json) |
+| DROD: Smitemaster's Selection Expansions 9+10 | 321314 | [321314-drod-smitemasters-selection-expansions-9-10.json](./321314-drod-smitemasters-selection-expansions-9-10.json) |
 | DROD: The City Beneath | 9086 | [9086-drod-the-city-beneath.json](./9086-drod-the-city-beneath.json) |
 | DROD: The Second Sky | 8823 | [8823-drod-the-second-sky.json](./8823-drod-the-second-sky.json) |
 | Drogna | 13709 | [13709-drogna.json](./13709-drogna.json) |
