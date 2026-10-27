@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Waifus TCG | 273365 | [273365-underground-waifus-tcg.json](./273365-underground-waifus-tcg.json) |
 | Underground-Mining-Simulator 2011 | 53938 | [53938-underground-mining-simulator-2011.json](./53938-underground-mining-simulator-2011.json) |
 | Underground: Chapter 1 | 367555 | [367555-underground-chapter-1.json](./367555-underground-chapter-1.json) |
+| Underground: World War | 302319 | [302319-underground-world-war.json](./302319-underground-world-war.json) |
 | Underground22 | 249085 | [249085-underground22.json](./249085-underground22.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Undergrowth: VR Maze | 149266 | [149266-undergrowth-vr-maze.json](./149266-undergrowth-vr-maze.json) |
