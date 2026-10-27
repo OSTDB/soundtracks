@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Oddities | 402931 | [402931-ocean-oddities.json](./402931-ocean-oddities.json) |
 | Ocean of Battles | 124246 | [124246-ocean-of-battles.json](./124246-ocean-of-battles.json) |
 | Ocean of Eyes | 328957 | [328957-ocean-of-eyes.json](./328957-ocean-of-eyes.json) |
+| Ocean of Mermaids | 285317 | [285317-ocean-of-mermaids.json](./285317-ocean-of-mermaids.json) |
 | Ocean Oi | 183959 | [183959-ocean-oi.json](./183959-ocean-oi.json) |
 | Ocean Otter Climb | 341495 | [341495-ocean-otter-climb.json](./341495-ocean-otter-climb.json) |
 | Ocean Patrol | 249138 | [249138-ocean-patrol.json](./249138-ocean-patrol.json) |
@@ -4128,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Field Trip Adventure + More Missions Pack Set | 304812 | [304812-our-field-trip-adventure-more-missions-pack-set.json](./304812-our-field-trip-adventure-more-missions-pack-set.json) |
 | Our Final Choice | 384905 | [384905-our-final-choice.json](./384905-our-final-choice.json) |
 | Our Flick Erasers | 123375 | [123375-our-flick-erasers.json](./123375-our-flick-erasers.json) |
+| Our Freedom | 285435 | [285435-our-freedom.json](./285435-our-freedom.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
 | Our Hero! Hyper Sword | 99086 | [99086-our-hero-hyper-sword.json](./99086-our-hero-hyper-sword.json) |
@@ -4776,6 +4778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverDrift Festival: Damage Cars Pack | 286142 | [286142-overdrift-festival-damage-cars-pack.json](./286142-overdrift-festival-damage-cars-pack.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
 | OverDrift Festival: Exclusive Cars Pack#1 | 292672 | [292672-overdrift-festival-exclusive-cars-pack-1.json](./292672-overdrift-festival-exclusive-cars-pack-1.json) |
+| OverDrift Festival: Police Cars Pack | 285431 | [285431-overdrift-festival-police-cars-pack.json](./285431-overdrift-festival-police-cars-pack.json) |
 | Overdrive | 12710 | [12710-overdrive.json](./12710-overdrive.json) |
 | Overdrive | 203565 | [203565-overdrive.json](./203565-overdrive.json) |
 | Overdrive Blaster | 308322 | [308322-overdrive-blaster.json](./308322-overdrive-blaster.json) |
