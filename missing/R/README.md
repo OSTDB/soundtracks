@@ -9108,6 +9108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Empire | 13752 | [13752-roman-empire.json](./13752-roman-empire.json) |
 | Roman Empire Farming | 300958 | [300958-roman-empire-farming.json](./300958-roman-empire-farming.json) |
 | Roman Empire Simulator | 265201 | [265201-roman-empire-simulator.json](./265201-roman-empire-simulator.json) |
+| Roman Empire Simulator | 280610 | [280610-roman-empire-simulator.json](./280610-roman-empire-simulator.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
 | Roman Empire Wars | 158644 | [158644-roman-empire-wars.json](./158644-roman-empire-wars.json) |
 | Roman Rumble | 374815 | [374815-roman-rumble.json](./374815-roman-rumble.json) |
