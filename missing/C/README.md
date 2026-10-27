@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candle Prick | 185609 | [185609-candle-prick.json](./185609-candle-prick.json) |
 | Candle Under Water | 124173 | [124173-candle-under-water.json](./124173-candle-under-water.json) |
 | Candle Wood | 315115 | [315115-candle-wood.json](./315115-candle-wood.json) |
+| Candleholder | 330057 | [330057-candleholder.json](./330057-candleholder.json) |
 | Candlelight | 200472 | [200472-candlelight.json](./200472-candlelight.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candlelight | 33296 | [33296-candlelight.json](./33296-candlelight.json) |
@@ -1893,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Adventure | 187271 | [187271-card-adventure.json](./187271-card-adventure.json) |
 | Card Apocalypse | 148839 | [148839-card-apocalypse.json](./148839-card-apocalypse.json) |
 | Card Artisan | 366129 | [366129-card-artisan.json](./366129-card-artisan.json) |
+| Card Attack: Gabee's Roads | 330082 | [330082-card-attack-gabees-roads.json](./330082-card-attack-gabees-roads.json) |
 | Card Bard | 293971 | [293971-card-bard.json](./293971-card-bard.json) |
 | Card Battle Simulator | 268312 | [268312-card-battle-simulator.json](./268312-card-battle-simulator.json) |
 | Card Battle Spirit Link | 107742 | [107742-card-battle-spirit-link.json](./107742-card-battle-spirit-link.json) |
@@ -3126,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Symphony of the Night - Reborn | 338814 | [338814-castlevania-symphony-of-the-night-reborn.json](./338814-castlevania-symphony-of-the-night-reborn.json) |
 | Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
 | Castlevania: The Adventure | 1118 | [1118-castlevania-the-adventure.json](./1118-castlevania-the-adventure.json) |
+| Castlevania: The Adventure - Masque of Retribution | 330060 | [330060-castlevania-the-adventure-masque-of-retribution.json](./330060-castlevania-the-adventure-masque-of-retribution.json) |
 | Castlevania: The Adventure DX | 280448 | [280448-castlevania-the-adventure-dx.json](./280448-castlevania-the-adventure-dx.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
 | Castlevania: The Arcade | 1145 | [1145-castlevania-the-arcade.json](./1145-castlevania-the-arcade.json) |
@@ -3320,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Lovescapes | 204427 | [204427-cat-lovescapes.json](./204427-cat-lovescapes.json) |
 | Cat Magic School | 350002 | [350002-cat-magic-school.json](./350002-cat-magic-school.json) |
 | Cat Mail Co. | 406739 | [406739-cat-mail-co.json](./406739-cat-mail-co.json) |
+| Cat Me If You Can | 330066 | [330066-cat-me-if-you-can.json](./330066-cat-me-if-you-can.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
 | Cat Meme Clicker | 391214 | [391214-cat-meme-clicker.json](./391214-cat-meme-clicker.json) |
 | Cat Memories - Find the Hidden Stories | 305973 | [305973-cat-memories-find-the-hidden-stories.json](./305973-cat-memories-find-the-hidden-stories.json) |
@@ -5640,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Tiger | 103928 | [103928-chess-tiger.json](./103928-chess-tiger.json) |
 | Chess Titans | 26679 | [26679-chess-titans.json](./26679-chess-titans.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
+| Chess Ultimate | 330078 | [330078-chess-ultimate.json](./330078-chess-ultimate.json) |
 | Chess Ultra | 31561 | [31561-chess-ultra.json](./31561-chess-ultra.json) |
 | Chess Undress | 260338 | [260338-chess-undress.json](./260338-chess-undress.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
