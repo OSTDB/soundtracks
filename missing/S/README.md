@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.M.P.C.U.: Special Monster Pest Control Unit | 381279 | [381279-s-m-p-c-u-special-monster-pest-control-unit.json](./381279-s-m-p-c-u-special-monster-pest-control-unit.json) |
 | S.M.S | 240075 | [240075-s-m-s.json](./240075-s-m-s.json) |
 | S.N.A.P. | 390475 | [390475-s-n-a-p.json](./390475-s-n-a-p.json) |
+| S.N.I.P.E.R : Hunter Scope - Legacy Edition | 312061 | [312061-s-n-i-p-e-r-hunter-scope-legacy-edition.json](./312061-s-n-i-p-e-r-hunter-scope-legacy-edition.json) |
 | S.N.I.P.E.R: Hunter Scope - Hero's Edition | 387680 | [387680-s-n-i-p-e-r-hunter-scope-heros-edition.json](./387680-s-n-i-p-e-r-hunter-scope-heros-edition.json) |
 | S.N.I.P.E.R: Hunter Scope - Tactical Arsenal | 306551 | [306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json](./306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json) |
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
@@ -4324,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Segapede | 227784 | [227784-segapede.json](./227784-segapede.json) |
 | SegaSonic Bros. | 200448 | [200448-segasonic-bros.json](./200448-segasonic-bros.json) |
 | Segfault | 75430 | [75430-segfault.json](./75430-segfault.json) |
+| Segle | 311976 | [311976-segle.json](./311976-segle.json) |
 | Segment | 93728 | [93728-segment.json](./93728-segment.json) |
 | Segredos do Mar | 262213 | [262213-segredos-do-mar.json](./262213-segredos-do-mar.json) |
 | Sehoni Island: Monsters and Adventures | 236843 | [236843-sehoni-island-monsters-and-adventures.json](./236843-sehoni-island-monsters-and-adventures.json) |
@@ -15207,6 +15209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X | 54549 | [54549-sonic-x.json](./54549-sonic-x.json) |
 | Sonic X Bowling | 299872 | [299872-sonic-x-bowling.json](./299872-sonic-x-bowling.json) |
 | Sonic X Shadow Generations: Day One Edition | 381127 | [381127-sonic-x-shadow-generations-day-one-edition.json](./381127-sonic-x-shadow-generations-day-one-edition.json) |
+| Sonic x Shadow Generations: Digital Deluxe Edition | 312063 | [312063-sonic-x-shadow-generations-digital-deluxe-edition.json](./312063-sonic-x-shadow-generations-digital-deluxe-edition.json) |
 | Sonic X Shadow Generations: Digital Deluxe Upgrade | 331901 | [331901-sonic-x-shadow-generations-digital-deluxe-upgrade.json](./331901-sonic-x-shadow-generations-digital-deluxe-upgrade.json) |
 | Sonic X Shadow Generations: Sonic Jam Skin | 323393 | [323393-sonic-x-shadow-generations-sonic-jam-skin.json](./323393-sonic-x-shadow-generations-sonic-jam-skin.json) |
 | Sonic X Shadow Generations: Sonic the Hedgehog 3 Movie Pack | 325688 | [325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json](./325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json) |
@@ -18143,6 +18146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spica Adventure | 60051 | [60051-spica-adventure.json](./60051-spica-adventure.json) |
 | Spice and Wolf VR | 105419 | [105419-spice-and-wolf-vr.json](./105419-spice-and-wolf-vr.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
+| Spice Bandits | 312073 | [312073-spice-bandits.json](./312073-spice-bandits.json) |
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
 | Spice Odyssey | 310492 | [310492-spice-odyssey.json](./310492-spice-odyssey.json) |
 | Spice Road | 17287 | [17287-spice-road.json](./17287-spice-road.json) |
@@ -20303,6 +20307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fur Day | 313091 | [313091-star-fur-day.json](./313091-star-fur-day.json) |
 | Star Fury | 24777 | [24777-star-fury.json](./24777-star-fury.json) |
 | Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
+| Star Galaxy Academy: Princess Legacy | 312071 | [312071-star-galaxy-academy-princess-legacy.json](./312071-star-galaxy-academy-princess-legacy.json) |
 | Star Garden | 334856 | [334856-star-garden.json](./334856-star-garden.json) |
 | Star General | 74087 | [74087-star-general.json](./74087-star-general.json) |
 | Star Ghazi | 345951 | [345951-star-ghazi.json](./345951-star-ghazi.json) |
@@ -22558,6 +22563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Frame | 331272 | [331272-stick-frame.json](./331272-stick-frame.json) |
 | Stick Game | 72518 | [72518-stick-game.json](./72518-stick-game.json) |
 | Stick Go story | 201704 | [201704-stick-go-story.json](./201704-stick-go-story.json) |
+| Stick Guys | 312070 | [312070-stick-guys.json](./312070-stick-guys.json) |
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
@@ -25053,6 +25059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Dental Darling | 389073 | [389073-sugoi-girls-dental-darling.json](./389073-sugoi-girls-dental-darling.json) |
 | Sugoi Girls: Dragon Love | 351232 | [351232-sugoi-girls-dragon-love.json](./351232-sugoi-girls-dragon-love.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
+| Sugoi Girls: Exotic Egypt | 312069 | [312069-sugoi-girls-exotic-egypt.json](./312069-sugoi-girls-exotic-egypt.json) |
 | Sugoi Girls: Firefighter Love | 358650 | [358650-sugoi-girls-firefighter-love.json](./358650-sugoi-girls-firefighter-love.json) |
 | Sugoi Girls: Kinky Knight | 308492 | [308492-sugoi-girls-kinky-knight.json](./308492-sugoi-girls-kinky-knight.json) |
 | Sugoi Girls: Lovely Wife | 303864 | [303864-sugoi-girls-lovely-wife.json](./303864-sugoi-girls-lovely-wife.json) |
