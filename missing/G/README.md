@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
 | George's Memories Ep.1 | 105241 | [105241-georges-memories-ep-1.json](./105241-georges-memories-ep-1.json) |
 | Georgie and Me | 249083 | [249083-georgie-and-me.json](./249083-georgie-and-me.json) |
+| Georgie-Yolkie | 323693 | [323693-georgie-yolkie.json](./323693-georgie-yolkie.json) |
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
 | Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
 | GeoSafari | 85945 | [85945-geosafari.json](./85945-geosafari.json) |
