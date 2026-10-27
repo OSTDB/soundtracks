@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Havoc | 15244 | [15244-lands-of-havoc.json](./15244-lands-of-havoc.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Lands of Jail | 381063 | [381063-lands-of-jail.json](./381063-lands-of-jail.json) |
+| Lands of Koastalia | 295208 | [295208-lands-of-koastalia.json](./295208-lands-of-koastalia.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
 | Lands of Lore: Guardians of Destiny | 2494 | [2494-lands-of-lore-guardians-of-destiny.json](./2494-lands-of-lore-guardians-of-destiny.json) |
 | Lands of Lore: The Throne of Chaos | 2528 | [2528-lands-of-lore-the-throne-of-chaos.json](./2528-lands-of-lore-the-throne-of-chaos.json) |
