@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Break Pro Basketball 3 | 82314 | [82314-fast-break-pro-basketball-3.json](./82314-fast-break-pro-basketball-3.json) |
 | Fast Bubble | 28094 | [28094-fast-bubble.json](./28094-fast-bubble.json) |
 | Fast Burger Simulator | 230411 | [230411-fast-burger-simulator.json](./230411-fast-burger-simulator.json) |
+| Fast Car | 309931 | [309931-fast-car.json](./309931-fast-car.json) |
 | Fast cars racing | 108381 | [108381-fast-cars-racing.json](./108381-fast-cars-racing.json) |
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
 | Fast Cubes | 166818 | [166818-fast-cubes.json](./166818-fast-cubes.json) |
@@ -7157,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Kitchen Saga | 369078 | [369078-fluffy-kitchen-saga.json](./369078-fluffy-kitchen-saga.json) |
 | Fluffy Milo | 195631 | [195631-fluffy-milo.json](./195631-fluffy-milo.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
+| Fluffy Sailors | 309924 | [309924-fluffy-sailors.json](./309924-fluffy-sailors.json) |
 | Fluffy Showdown | 360679 | [360679-fluffy-showdown.json](./360679-fluffy-showdown.json) |
 | Fluffy Slime Maker | 106769 | [106769-fluffy-slime-maker.json](./106769-fluffy-slime-maker.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
