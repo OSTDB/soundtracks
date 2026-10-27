@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hastilude | 33127 | [33127-hastilude.json](./33127-hastilude.json) |
 | Hasty Snow | 117704 | [117704-hasty-snow.json](./117704-hasty-snow.json) |
 | Hat Hunters | 103428 | [103428-hat-hunters.json](./103428-hat-hunters.json) |
+| Hat Kid Steals the Declaration of Independence 3: Kingslayer | 313056 | [313056-hat-kid-steals-the-declaration-of-independence-3-kingslayer.json](./313056-hat-kid-steals-the-declaration-of-independence-3-kingslayer.json) |
 | Hat Trick | 12326 | [12326-hat-trick.json](./12326-hat-trick.json) |
 | Hat Trick Hero '93 | 39375 | [39375-hat-trick-hero-93.json](./39375-hat-trick-hero-93.json) |
 | Hat Trick Hero '94 | 39374 | [39374-hat-trick-hero-94.json](./39374-hat-trick-hero-94.json) |
