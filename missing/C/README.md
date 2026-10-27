@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cantirium: God Slayer | 240726 | [240726-cantirium-god-slayer.json](./240726-cantirium-god-slayer.json) |
 | Cantrip | 186070 | [186070-cantrip.json](./186070-cantrip.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
+| Canvas | 326568 | [326568-canvas.json](./326568-canvas.json) |
 | Canvas 2: Niji-iro no Sketch | 269410 | [269410-canvas-2-niji-iro-no-sketch.json](./269410-canvas-2-niji-iro-no-sketch.json) |
 | Canvas 3: Tanshoku no Pastel | 269411 | [269411-canvas-3-tanshoku-no-pastel.json](./269411-canvas-3-tanshoku-no-pastel.json) |
 | Canvas Attack! | 397295 | [397295-canvas-attack.json](./397295-canvas-attack.json) |
@@ -4937,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Crown | 217190 | [217190-chaos-crown.json](./217190-chaos-crown.json) |
 | Chaos Dream: Retribution | 119450 | [119450-chaos-dream-retribution.json](./119450-chaos-dream-retribution.json) |
+| Chaos Dynasty Honey | 326542 | [326542-chaos-dynasty-honey.json](./326542-chaos-dynasty-honey.json) |
 | Chaos Edge | 29090 | [29090-chaos-edge.json](./29090-chaos-edge.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Faction | 192095 | [192095-chaos-faction.json](./192095-chaos-faction.json) |
