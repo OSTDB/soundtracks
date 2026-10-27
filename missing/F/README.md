@@ -5573,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman’s Bait: Marlin Challenge | 270623 | [270623-fisherman-s-bait-marlin-challenge.json](./270623-fisherman-s-bait-marlin-challenge.json) |
 | Fisherman's Bass Club | 43427 | [43427-fishermans-bass-club.json](./43427-fishermans-bass-club.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
+| Fisherman's Palace | 286022 | [286022-fishermans-palace.json](./286022-fishermans-palace.json) |
 | Fisherman's Paradise II | 209430 | [209430-fishermans-paradise-ii.json](./209430-fishermans-paradise-ii.json) |
 | Fisherman's Peril | 143492 | [143492-fishermans-peril.json](./143492-fishermans-peril.json) |
 | Fisherman's Trap | 397219 | [397219-fishermans-trap.json](./397219-fishermans-trap.json) |
@@ -7016,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Turd | 233402 | [233402-floppy-turd.json](./233402-floppy-turd.json) |
 | Flora | 364685 | [364685-flora.json](./364685-flora.json) |
 | Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
+| Flora and the Ceibo Seeds | 286019 | [286019-flora-and-the-ceibo-seeds.json](./286019-flora-and-the-ceibo-seeds.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
 | Flora Coloring | 221345 | [221345-flora-coloring.json](./221345-flora-coloring.json) |
 | Flora Corner | 336654 | [336654-flora-corner.json](./336654-flora-corner.json) |
@@ -8267,6 +8269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Elf | 122057 | [122057-forest-of-elf.json](./122057-forest-of-elf.json) |
 | Forest of Liars | 96494 | [96494-forest-of-liars.json](./96494-forest-of-liars.json) |
 | Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
+| Forest of Perdition | 286024 | [286024-forest-of-perdition.json](./286024-forest-of-perdition.json) |
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
 | Forest Of Terenu | 369875 | [369875-forest-of-terenu.json](./369875-forest-of-terenu.json) |
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
