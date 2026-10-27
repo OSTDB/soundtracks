@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Fear: Aooni | 296243 | [296243-absolute-fear-aooni.json](./296243-absolute-fear-aooni.json) |
 | Absolute Force Online | 64311 | [64311-absolute-force-online.json](./64311-absolute-force-online.json) |
+| Absolute Insanity | 288742 | [288742-absolute-insanity.json](./288742-absolute-insanity.json) |
 | Absolute Instant | 253731 | [253731-absolute-instant.json](./253731-absolute-instant.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
@@ -1898,7 +1899,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Ring | 339958 | [339958-abyss-ring.json](./339958-abyss-ring.json) |
 | Abyss Saga | 369111 | [369111-abyss-saga.json](./369111-abyss-saga.json) |
 | Abyss School | 270862 | [270862-abyss-school.json](./270862-abyss-school.json) |
+| Abyss Seeker | 288737 | [288737-abyss-seeker.json](./288737-abyss-seeker.json) |
 | Abyss Seeker: What Do You See Deep in The Abyss | 324893 | [324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json](./324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json) |
+| Abyss Signal: Expedition | 288738 | [288738-abyss-signal-expedition.json](./288738-abyss-signal-expedition.json) |
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
@@ -1926,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Lapidary | 411093 | [411093-abyssal-lapidary.json](./411093-abyssal-lapidary.json) |
 | Abyssal Maw | 372125 | [372125-abyssal-maw.json](./372125-abyssal-maw.json) |
 | Abyssal Merge | 384912 | [384912-abyssal-merge.json](./384912-abyssal-merge.json) |
+| Abyssal Reflections | 288736 | [288736-abyssal-reflections.json](./288736-abyssal-reflections.json) |
 | Abyssal Shade | 337790 | [337790-abyssal-shade.json](./337790-abyssal-shade.json) |
 | Abyssal Soul | 412810 | [412810-abyssal-soul.json](./412810-abyssal-soul.json) |
 | Abyssal Sun | 397737 | [397737-abyssal-sun.json](./397737-abyssal-sun.json) |
@@ -1951,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABZoo | 14203 | [14203-abzoo.json](./14203-abzoo.json) |
 | Abzu: Deluxe Edition | 52553 | [52553-abzu-deluxe-edition.json](./52553-abzu-deluxe-edition.json) |
 | AC Milan Club Football | 267875 | [267875-ac-milan-club-football.json](./267875-ac-milan-club-football.json) |
+| AC Sailing | 288714 | [288714-ac-sailing.json](./288714-ac-sailing.json) |
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: 2020 Super Baseball | 86816 | [86816-aca-neo-geo-2020-super-baseball.json](./86816-aca-neo-geo-2020-super-baseball.json) |
@@ -3330,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
 | AerialDrop | 23326 | [23326-aerialdrop.json](./23326-aerialdrop.json) |
+| Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
@@ -8798,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Nimble Ninja | 362370 | [362370-anime-girls-nimble-ninja.json](./362370-anime-girls-nimble-ninja.json) |
 | Anime Girls: Shanghai Romance | 393414 | [393414-anime-girls-shanghai-romance.json](./393414-anime-girls-shanghai-romance.json) |
 | Anime Girls: Stellar Invasion | 396432 | [396432-anime-girls-stellar-invasion.json](./396432-anime-girls-stellar-invasion.json) |
+| Anime Girls: Sun of a Beach | 288718 | [288718-anime-girls-sun-of-a-beach.json](./288718-anime-girls-sun-of-a-beach.json) |
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
 | Anime Girls: Tokyo Christmas | 381704 | [381704-anime-girls-tokyo-christmas.json](./381704-anime-girls-tokyo-christmas.json) |
 | Anime Girls: Wasteland Shootout | 315662 | [315662-anime-girls-wasteland-shootout.json](./315662-anime-girls-wasteland-shootout.json) |
@@ -11083,6 +11090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanterra | 303346 | [303346-arcanterra.json](./303346-arcanterra.json) |
 | Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
 | Arcanum Echo: Sorairo no Elexia | 130595 | [130595-arcanum-echo-sorairo-no-elexia.json](./130595-arcanum-echo-sorairo-no-elexia.json) |
+| Arcanum Fortuna | 288711 | [288711-arcanum-fortuna.json](./288711-arcanum-fortuna.json) |
 | Arcanum: Theory of Magic | 328899 | [328899-arcanum-theory-of-magic.json](./328899-arcanum-theory-of-magic.json) |
 | Arcanus Online | 351054 | [351054-arcanus-online.json](./351054-arcanus-online.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
@@ -11215,6 +11223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald Applebrook's Abenteuer | 112058 | [112058-archibald-applebrooks-abenteuer.json](./112058-archibald-applebrooks-abenteuer.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
+| Archie's Ribs | 288808 | [288808-archies-ribs.json](./288808-archies-ribs.json) |
 | Archimedean Dynasty | 2197 | [2197-archimedean-dynasty.json](./2197-archimedean-dynasty.json) |
 | Archipel Logic Infinite | 310261 | [310261-archipel-logic-infinite.json](./310261-archipel-logic-infinite.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
