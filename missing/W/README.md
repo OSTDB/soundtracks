@@ -8046,12 +8046,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K24 Deluxe Edition | 283601 | [283601-wwe-2k24-deluxe-edition.json](./283601-wwe-2k24-deluxe-edition.json) |
 | WWE 2K24 Forty Years of WrestleMania | 283602 | [283602-wwe-2k24-forty-years-of-wrestlemania.json](./283602-wwe-2k24-forty-years-of-wrestlemania.json) |
 | WWE 2K24: Bray Wyatt Edition | 331828 | [331828-wwe-2k24-bray-wyatt-edition.json](./331828-wwe-2k24-bray-wyatt-edition.json) |
+| WWE 2K24: Cross-Gen Edition | 289351 | [289351-wwe-2k24-cross-gen-edition.json](./289351-wwe-2k24-cross-gen-edition.json) |
 | WWE 2K24: ECW Punk Pack | 311076 | [311076-wwe-2k24-ecw-punk-pack.json](./311076-wwe-2k24-ecw-punk-pack.json) |
 | WWE 2K24: Global Superstars Pack | 332035 | [332035-wwe-2k24-global-superstars-pack.json](./332035-wwe-2k24-global-superstars-pack.json) |
 | WWE 2K24: MyRISE Mega-Boost | 332034 | [332034-wwe-2k24-myrise-mega-boost.json](./332034-wwe-2k24-myrise-mega-boost.json) |
 | WWE 2K24: Nightmare Family Pack | 296252 | [296252-wwe-2k24-nightmare-family-pack.json](./296252-wwe-2k24-nightmare-family-pack.json) |
 | WWE 2K24: Pat McAfee Show Pack | 332036 | [332036-wwe-2k24-pat-mcafee-show-pack.json](./332036-wwe-2k24-pat-mcafee-show-pack.json) |
 | WWE 2K24: Post Malone & Friends Pack | 322712 | [322712-wwe-2k24-post-malone-and-friends-pack.json](./322712-wwe-2k24-post-malone-and-friends-pack.json) |
+| WWE 2K24: Season Pass | 289352 | [289352-wwe-2k24-season-pass.json](./289352-wwe-2k24-season-pass.json) |
 | WWE 2K24: WCW Pack | 332033 | [332033-wwe-2k24-wcw-pack.json](./332033-wwe-2k24-wcw-pack.json) |
 | WWE 2K25: Attitude Era Superstars Pack | 366790 | [366790-wwe-2k25-attitude-era-superstars-pack.json](./366790-wwe-2k25-attitude-era-superstars-pack.json) |
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
