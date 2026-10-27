@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Gone Wild | 343220 | [343220-balls-gone-wild.json](./343220-balls-gone-wild.json) |
 | Balls like a Frog | 290658 | [290658-balls-like-a-frog.json](./290658-balls-like-a-frog.json) |
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
+| Balls of Destiny | 328892 | [328892-balls-of-destiny.json](./328892-balls-of-destiny.json) |
 | Balls of Fame Holiday Bundle | 227700 | [227700-balls-of-fame-holiday-bundle.json](./227700-balls-of-fame-holiday-bundle.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Life | 313546 | [313546-balls-of-life.json](./313546-balls-of-life.json) |
@@ -2171,6 +2172,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Boots of Pegasus | 328868 | [328868-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-boots-of-pegasus.json](./328868-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-boots-of-pegasus.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Coppie | 328880 | [328880-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-coppie.json](./328880-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-coppie.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Digtale | 328881 | [328881-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-digtale.json](./328881-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-digtale.json) |
+| Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Ganon | 328890 | [328890-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-ganon.json](./328890-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-ganon.json) |
+| Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Geekrock | 328888 | [328888-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-geekrock.json](./328888-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-geekrock.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Geldman | 328875 | [328875-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-geldman.json](./328875-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-geldman.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Gibdos | 328886 | [328886-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-gibdos.json](./328886-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-gibdos.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Guplla | 328882 | [328882-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-guplla.json](./328882-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-guplla.json) |
@@ -2189,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Spear Trooper | 328873 | [328873-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-spear-trooper.json](./328873-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-spear-trooper.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Stalfone | 328887 | [328887-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-stalfone.json](./328887-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-stalfone.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Vali | 328874 | [328874-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-vali.json](./328874-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-vali.json) |
+| Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Wart | 328889 | [328889-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-wart.json](./328889-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-wart.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Wizzrobe | 328876 | [328876-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-wizzrobe.json](./328876-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-wizzrobe.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Zora | 328877 | [328877-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-zora.json](./328877-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-zora.json) |
 | Barcode Battler: Bio-Zabrin | 338371 | [338371-barcode-battler-bio-zabrin.json](./338371-barcode-battler-bio-zabrin.json) |
@@ -12904,6 +12908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout | 227733 | [227733-breakout.json](./227733-breakout.json) |
 | Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
 | Breakout | 308606 | [308606-breakout.json](./308606-breakout.json) |
+| Breakout | 328918 | [328918-breakout.json](./328918-breakout.json) |
 | Breakout | 85967 | [85967-breakout.json](./85967-breakout.json) |
 | Breakout 13 | 212735 | [212735-breakout-13.json](./212735-breakout-13.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
