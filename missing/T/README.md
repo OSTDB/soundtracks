@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamayoshi +Vance | 323359 | [323359-tamayoshi-vance.json](./323359-tamayoshi-vance.json) |
 | Tamayura Mirai | 240818 | [240818-tamayura-mirai.json](./240818-tamayura-mirai.json) |
 | Tambo: The Last Night | 389578 | [389578-tambo-the-last-night.json](./389578-tambo-the-last-night.json) |
+| Tambor Hero | 296854 | [296854-tambor-hero.json](./296854-tambor-hero.json) |
 | Tambourine | 399193 | [399193-tambourine.json](./399193-tambourine.json) |
 | Tambourine Tangerine | 315617 | [315617-tambourine-tangerine.json](./315617-tambourine-tangerine.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
@@ -7884,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Night | 236198 | [236198-the-fallen-night.json](./236198-the-fallen-night.json) |
 | The Fallen of the Blaze Empire | 117363 | [117363-the-fallen-of-the-blaze-empire.json](./117363-the-fallen-of-the-blaze-empire.json) |
 | The Fallen Priest | 276397 | [276397-the-fallen-priest.json](./276397-the-fallen-priest.json) |
+| The Fallen Star | 296856 | [296856-the-fallen-star.json](./296856-the-fallen-star.json) |
 | The Fallen Will | 386447 | [386447-the-fallen-will.json](./386447-the-fallen-will.json) |
 | The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
 | The Falling Skies | 405879 | [405879-the-falling-skies.json](./405879-the-falling-skies.json) |
@@ -14271,6 +14273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Throwback Fit Kit | 158965 | [158965-the-sims-4-throwback-fit-kit.json](./158965-the-sims-4-throwback-fit-kit.json) |
 | The Sims 4: Tiny Living Stuff | 129132 | [129132-the-sims-4-tiny-living-stuff.json](./129132-the-sims-4-tiny-living-stuff.json) |
 | The Sims 4: Toddler Stuff | 54696 | [54696-the-sims-4-toddler-stuff.json](./54696-the-sims-4-toddler-stuff.json) |
+| The Sims 4: Urban Homage Kit | 296898 | [296898-the-sims-4-urban-homage-kit.json](./296898-the-sims-4-urban-homage-kit.json) |
 | The Sims 4: Vintage Glamour Stuff | 121025 | [121025-the-sims-4-vintage-glamour-stuff.json](./121025-the-sims-4-vintage-glamour-stuff.json) |
 | The Sims 4: Wonderland Playroom Kit | 404231 | [404231-the-sims-4-wonderland-playroom-kit.json](./404231-the-sims-4-wonderland-playroom-kit.json) |
 | The Sims 4: Yard Charm Kit | 404230 | [404230-the-sims-4-yard-charm-kit.json](./404230-the-sims-4-yard-charm-kit.json) |
@@ -20517,6 +20520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
 | To Be a HerpWitch | 135033 | [135033-to-be-a-herpwitch.json](./135033-to-be-a-herpwitch.json) |
 | To Be A King: Volume 1 | 254754 | [254754-to-be-a-king-volume-1.json](./254754-to-be-a-king-volume-1.json) |
+| To Be A King: Volume 2 - Part 1 | 296868 | [296868-to-be-a-king-volume-2-part-1.json](./296868-to-be-a-king-volume-2-part-1.json) |
 | To Be Altered | 370664 | [370664-to-be-altered.json](./370664-to-be-altered.json) |
 | To Be Besieged | 416765 | [416765-to-be-besieged.json](./416765-to-be-besieged.json) |
 | To Be Connected | 390596 | [390596-to-be-connected.json](./390596-to-be-connected.json) |
