@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T19:20:39.828Z",
-  "total_missing": 271227,
+  "generated_at": "2026-10-27T19:27:24.860Z",
+  "total_missing": 271218,
   "games": [
     {
       "igdb_id": 191680,
@@ -97735,11 +97735,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -543187,11 +543182,6 @@
       "file": "missing/I/255716-i-am-dave.json"
     },
     {
-      "igdb_id": 131869,
-      "game_name": "I Am Dead",
-      "file": "missing/I/131869-i-am-dead.json"
-    },
-    {
       "igdb_id": 149911,
       "game_name": "I am Dictator",
       "file": "missing/I/149911-i-am-dictator.json"
@@ -602705,11 +602695,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -773977,11 +773962,6 @@
       "file": "missing/N/116728-niepan-zhi-lu.json"
     },
     {
-      "igdb_id": 132005,
-      "game_name": "NieR Re[in]carnation",
-      "file": "missing/N/132005-nier-re-in-carnation.json"
-    },
-    {
       "igdb_id": 259669,
       "game_name": "NieR Re[in]carnation: The People and the World",
       "file": "missing/N/259669-nier-re-in-carnation-the-people-and-the-world.json"
@@ -898307,11 +898287,6 @@
       "file": "missing/Q/138630-quarantine-arena.json"
     },
     {
-      "igdb_id": 102119,
-      "game_name": "Quarantine Circular",
-      "file": "missing/Q/102119-quarantine-circular.json"
-    },
-    {
       "igdb_id": 150519,
       "game_name": "Quarantine Cutz",
       "file": "missing/Q/150519-quarantine-cutz.json"
@@ -997810,11 +997785,6 @@
       "igdb_id": 361337,
       "game_name": "Shovel Game",
       "file": "missing/S/361337-shovel-game.json"
-    },
-    {
-      "igdb_id": 122097,
-      "game_name": "Shovel Knight Dig",
-      "file": "missing/S/122097-shovel-knight-dig.json"
     },
     {
       "igdb_id": 27242,
@@ -1211147,11 +1211117,6 @@
       "file": "missing/T/74248-timeless-the-lost-castle.json"
     },
     {
-      "igdb_id": 122385,
-      "game_name": "Timelie",
-      "file": "missing/T/122385-timelie.json"
-    },
-    {
       "igdb_id": 169192,
       "game_name": "Timelie: Game of the Year Edition",
       "file": "missing/T/169192-timelie-game-of-the-year-edition.json"
@@ -1302242,11 +1302207,6 @@
       "file": "missing/W/255092-we-kill-monsters.json"
     },
     {
-      "igdb_id": 27870,
-      "game_name": "We Know the Devil",
-      "file": "missing/W/27870-we-know-the-devil.json"
-    },
-    {
       "igdb_id": 315447,
       "game_name": "We Like It Here",
       "file": "missing/W/315447-we-like-it-here.json"
@@ -1315000,11 +1314960,6 @@
       "igdb_id": 216838,
       "game_name": "Wings of the Universe",
       "file": "missing/W/216838-wings-of-the-universe.json"
-    },
-    {
-      "igdb_id": 9284,
-      "game_name": "Wings of Vi",
-      "file": "missing/W/9284-wings-of-vi.json"
     },
     {
       "igdb_id": 112772,
