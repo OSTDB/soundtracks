@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
 | Inter Solar 83 | 236231 | [236231-inter-solar-83.json](./236231-inter-solar-83.json) |
 | Inter-view | 134909 | [134909-inter-view.json](./134909-inter-view.json) |
+| INTER08JECT | 312595 | [312595-inter08ject.json](./312595-inter08ject.json) |
 | InterAct | 247002 | [247002-interact.json](./247002-interact.json) |
 | Interactive Buddy | 136397 | [136397-interactive-buddy.json](./136397-interactive-buddy.json) |
 | Interactive Buddy for Mobile | 356030 | [356030-interactive-buddy-for-mobile.json](./356030-interactive-buddy-for-mobile.json) |
