@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vendetta: Curse of Raven's Cry | 14602 | [14602-vendetta-curse-of-ravens-cry.json](./14602-vendetta-curse-of-ravens-cry.json) |
 | Vendetta: Curse of Raven's Cry - Deluxe Edition | 53875 | [53875-vendetta-curse-of-ravens-cry-deluxe-edition.json](./53875-vendetta-curse-of-ravens-cry-deluxe-edition.json) |
 | Vendetta: Mafia Wars | 216856 | [216856-vendetta-mafia-wars.json](./216856-vendetta-mafia-wars.json) |
+| Vending Dokan!: Kozy Kiosk | 331218 | [331218-vending-dokan-kozy-kiosk.json](./331218-vending-dokan-kozy-kiosk.json) |
 | Vending Machine Business Simulator | 312420 | [312420-vending-machine-business-simulator.json](./312420-vending-machine-business-simulator.json) |
 | Vending Machine Champ | 362162 | [362162-vending-machine-champ.json](./362162-vending-machine-champ.json) |
 | Vending Machine Co. | 347747 | [347747-vending-machine-co.json](./347747-vending-machine-co.json) |
@@ -2489,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visions of Aftermath: Boomtown | 9526 | [9526-visions-of-aftermath-boomtown.json](./9526-visions-of-aftermath-boomtown.json) |
 | Visions of Eternity | 281317 | [281317-visions-of-eternity.json](./281317-visions-of-eternity.json) |
 | Visions of Evil | 264525 | [264525-visions-of-evil.json](./264525-visions-of-evil.json) |
+| Visions of Mana: Digital Deluxe Edition | 331264 | [331264-visions-of-mana-digital-deluxe-edition.json](./331264-visions-of-mana-digital-deluxe-edition.json) |
 | Visit Bloofpiter Today | 302510 | [302510-visit-bloofpiter-today.json](./302510-visit-bloofpiter-today.json) |
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitations | 156610 | [156610-visitations.json](./156610-visitations.json) |
