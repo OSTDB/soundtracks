@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi sae Ireba | 314705 | [314705-kimi-sae-ireba.json](./314705-kimi-sae-ireba.json) |
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
 | Kimi to Boku to no Kishi no Hibi: Rakuen no Chevalier | 194583 | [194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json](./194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json) |
+| Kimi to Kanojo no Lily Vaganza | 316670 | [316670-kimi-to-kanojo-no-lily-vaganza.json](./316670-kimi-to-kanojo-no-lily-vaganza.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
 | Kimi to Koishite, Soshite Sotsugyou Suru | 395153 | [395153-kimi-to-koishite-soshite-sotsugyou-suru.json](./395153-kimi-to-koishite-soshite-sotsugyou-suru.json) |
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
