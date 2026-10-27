@@ -7886,6 +7886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Handheld 2013 | 42867 | [42867-football-manager-handheld-2013.json](./42867-football-manager-handheld-2013.json) |
 | Football Manager Handheld 2014 | 62519 | [62519-football-manager-handheld-2014.json](./62519-football-manager-handheld-2014.json) |
 | Football Manager Handheld 2015 | 380663 | [380663-football-manager-handheld-2015.json](./380663-football-manager-handheld-2015.json) |
+| Football Manager Lifestyle 24 | 295217 | [295217-football-manager-lifestyle-24.json](./295217-football-manager-lifestyle-24.json) |
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Manager Touch 2016 | 371216 | [371216-football-manager-touch-2016.json](./371216-football-manager-touch-2016.json) |
