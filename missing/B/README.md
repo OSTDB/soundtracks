@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1751,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bane Murrain | 271080 | [271080-bane-murrain.json](./271080-bane-murrain.json) |
 | Bane of Oakenshade | 323581 | [323581-bane-of-oakenshade.json](./323581-bane-of-oakenshade.json) |
 | Bane: Dawn of the Lost | 358743 | [358743-bane-dawn-of-the-lost.json](./358743-bane-dawn-of-the-lost.json) |
+| Banebush | 327141 | [327141-banebush.json](./327141-banebush.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
 | Bang | 285674 | [285674-bang.json](./285674-bang.json) |
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
@@ -6505,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Top | 85927 | [85927-big-top.json](./85927-big-top.json) |
 | Big Top Best Kids Games Bundle | 303877 | [303877-big-top-best-kids-games-bundle.json](./303877-big-top-best-kids-games-bundle.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
+| Big Trouble in Little Chimney | 327122 | [327122-big-trouble-in-little-chimney.json](./327122-big-trouble-in-little-chimney.json) |
 | Big Trouble in Little China | 13397 | [13397-big-trouble-in-little-china.json](./13397-big-trouble-in-little-china.json) |
 | Big Trouble in Little Garden | 183280 | [183280-big-trouble-in-little-garden.json](./183280-big-trouble-in-little-garden.json) |
 | Big Truck 4X4 Challenge | 385266 | [385266-big-truck-4x4-challenge.json](./385266-big-truck-4x4-challenge.json) |
