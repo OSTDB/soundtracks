@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Hour: Aesthetics Pack "Redline" | 353352 | [353352-zero-hour-aesthetics-pack-redline.json](./353352-zero-hour-aesthetics-pack-redline.json) |
 | Zero Hour: Aesthetics Pack "Serpentine" | 353351 | [353351-zero-hour-aesthetics-pack-serpentine.json](./353351-zero-hour-aesthetics-pack-serpentine.json) |
 | Zero Hour: Aesthetics Pack "Titanium" | 353350 | [353350-zero-hour-aesthetics-pack-titanium.json](./353350-zero-hour-aesthetics-pack-titanium.json) |
+| Zero Hour: Kill Zone | 317269 | [317269-zero-hour-kill-zone.json](./317269-zero-hour-kill-zone.json) |
 | Zero Hour: Savanna Aesthetics Pack | 353354 | [353354-zero-hour-savanna-aesthetics-pack.json](./353354-zero-hour-savanna-aesthetics-pack.json) |
 | Zero Idle | 143604 | [143604-zero-idle.json](./143604-zero-idle.json) |
 | Zero Jikan he... | 329793 | [329793-zero-jikan-he.json](./329793-zero-jikan-he.json) |
@@ -1035,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zillion II: The Tri Formation | 46114 | [46114-zillion-ii-the-tri-formation.json](./46114-zillion-ii-the-tri-formation.json) |
 | Zillions of Games | 311470 | [311470-zillions-of-games.json](./311470-zillions-of-games.json) |
 | Zilm: a game of reflex | 64135 | [64135-zilm-a-game-of-reflex.json](./64135-zilm-a-game-of-reflex.json) |
+| Zim Sala Bim | 317194 | [317194-zim-sala-bim.json](./317194-zim-sala-bim.json) |
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
 | Zima | 346624 | [346624-zima.json](./346624-zima.json) |
 | Zima uhodi! | 96871 | [96871-zima-uhodi.json](./96871-zima-uhodi.json) |
