@@ -12633,6 +12633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Miners | 333546 | [333546-prison-miners.json](./333546-prison-miners.json) |
 | Prison Notes | 328192 | [328192-prison-notes.json](./328192-prison-notes.json) |
 | Prison of Husks | 269682 | [269682-prison-of-husks.json](./269682-prison-of-husks.json) |
+| Prison of Illusion: Gold Edition | 301780 | [301780-prison-of-illusion-gold-edition.json](./301780-prison-of-illusion-gold-edition.json) |
 | Prison of Lies | 183422 | [183422-prison-of-lies.json](./183422-prison-of-lies.json) |
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
 | Prison of Son | 128999 | [128999-prison-of-son.json](./128999-prison-of-son.json) |
@@ -15197,6 +15198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push-Cars | 175752 | [175752-push-cars.json](./175752-push-cars.json) |
 | Push-Cars 2: On Europe Streets | 350462 | [350462-push-cars-2-on-europe-streets.json](./350462-push-cars-2-on-europe-streets.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
+| Push: A Duolingo Horror | 301322 | [301322-push-a-duolingo-horror.json](./301322-push-a-duolingo-horror.json) |
 | Push: Griefing Made Legal | 142935 | [142935-push-griefing-made-legal.json](./142935-push-griefing-made-legal.json) |
 | Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
 | Push'n Pull | 361740 | [361740-pushn-pull.json](./361740-pushn-pull.json) |
