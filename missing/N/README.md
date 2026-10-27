@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Code Plus | 199949 | [199949-nexus-code-plus.json](./199949-nexus-code-plus.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
 | Nexus of the Dead God: The Microcosm | 406517 | [406517-nexus-of-the-dead-god-the-microcosm.json](./406517-nexus-of-the-dead-god-the-microcosm.json) |
+| Nexus PI | 289271 | [289271-nexus-pi.json](./289271-nexus-pi.json) |
 | Nexus Protocol | 329049 | [329049-nexus-protocol.json](./329049-nexus-protocol.json) |
 | Nexus Rumble: The Ultimate Showdown | 304869 | [304869-nexus-rumble-the-ultimate-showdown.json](./304869-nexus-rumble-the-ultimate-showdown.json) |
 | Nexus Station | 318997 | [318997-nexus-station.json](./318997-nexus-station.json) |
@@ -4561,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja: Shadow of the Dash | 311627 | [311627-ninja-shadow-of-the-dash.json](./311627-ninja-shadow-of-the-dash.json) |
 | Ninja: ShadowBlade | 339903 | [339903-ninja-shadowblade.json](./339903-ninja-shadowblade.json) |
 | Ninja: The Lost Legacy | 279851 | [279851-ninja-the-lost-legacy.json](./279851-ninja-the-lost-legacy.json) |
+| Ninja: Waltz of night | 289274 | [289274-ninja-waltz-of-night.json](./289274-ninja-waltz-of-night.json) |
 | Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | Ninjabread Man: Blades of Fury | 307782 | [307782-ninjabread-man-blades-of-fury.json](./307782-ninjabread-man-blades-of-fury.json) |
@@ -6699,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NYX x Barbie: The Movie | 256453 | [256453-nyx-x-barbie-the-movie.json](./256453-nyx-x-barbie-the-movie.json) |
 | NYX: The Awakening | 122055 | [122055-nyx-the-awakening.json](./122055-nyx-the-awakening.json) |
 | Nyxerion | 350902 | [350902-nyxerion.json](./350902-nyxerion.json) |
+| Nyxia Survivors | 289293 | [289293-nyxia-survivors.json](./289293-nyxia-survivors.json) |
 | NyxQuest: Kindred Spirits | 10262 | [10262-nyxquest-kindred-spirits.json](./10262-nyxquest-kindred-spirits.json) |
 | NYXverse.AI | 381586 | [381586-nyxverse-ai.json](./381586-nyxverse-ai.json) |
 | Nyyo | 210569 | [210569-nyyo.json](./210569-nyyo.json) |
