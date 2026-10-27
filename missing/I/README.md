@@ -4739,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
 | Invisible Opus | 407841 | [407841-invisible-opus.json](./407841-invisible-opus.json) |
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
+| Invisible Places: Pixel Art Jigsaw Puzzle | 287478 | [287478-invisible-places-pixel-art-jigsaw-puzzle.json](./287478-invisible-places-pixel-art-jigsaw-puzzle.json) |
 | Invisible Seams | 321934 | [321934-invisible-seams.json](./321934-invisible-seams.json) |
 | Invisible Services: Pixel Art Jigsaw Puzzle | 162208 | [162208-invisible-services-pixel-art-jigsaw-puzzle.json](./162208-invisible-services-pixel-art-jigsaw-puzzle.json) |
 | Invisible Sign: Isu | 221028 | [221028-invisible-sign-isu.json](./221028-invisible-sign-isu.json) |
