@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
 | Science Skaters | 375423 | [375423-science-skaters.json](./375423-science-skaters.json) |
 | Science Sleuths Vol. 1: Mysteries of the Blob and the Exploding Lawnmowers | 319017 | [319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json](./319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json) |
+| Science Soldier | 295742 | [295742-science-soldier.json](./295742-science-soldier.json) |
 | Science Trivia Quiz 100 Wonders | 409659 | [409659-science-trivia-quiz-100-wonders.json](./409659-science-trivia-quiz-100-wonders.json) |
 | Science: The Game | 293699 | [293699-science-the-game.json](./293699-science-the-game.json) |
 | Scientific Project: Optic | 258431 | [258431-scientific-project-optic.json](./258431-scientific-project-optic.json) |
@@ -3864,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Super Seducer | 297753 | [297753-secret-of-super-seducer.json](./297753-secret-of-super-seducer.json) |
 | Secret of the Abbey | 326845 | [326845-secret-of-the-abbey.json](./326845-secret-of-the-abbey.json) |
 | Secret of the Corral | 252124 | [252124-secret-of-the-corral.json](./252124-secret-of-the-corral.json) |
+| Secret of the Deep | 295752 | [295752-secret-of-the-deep.json](./295752-secret-of-the-deep.json) |
 | Secret of the Island: Escape | 315796 | [315796-secret-of-the-island-escape.json](./315796-secret-of-the-island-escape.json) |
 | Secret of the Lost Cavern | 107393 | [107393-secret-of-the-lost-cavern.json](./107393-secret-of-the-lost-cavern.json) |
 | Secret of the Magic Crystals | 10427 | [10427-secret-of-the-magic-crystals.json](./10427-secret-of-the-magic-crystals.json) |
@@ -13043,6 +13045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Beast Chess | 355203 | [355203-snow-beast-chess.json](./355203-snow-beast-chess.json) |
 | Snow Blocks | 262798 | [262798-snow-blocks.json](./262798-snow-blocks.json) |
 | Snow Blocks 2 | 272929 | [272929-snow-blocks-2.json](./272929-snow-blocks-2.json) |
+| Snow Blower: Idle Game | 295744 | [295744-snow-blower-idle-game.json](./295744-snow-blower-idle-game.json) |
 | Snow Board Championship | 39801 | [39801-snow-board-championship.json](./39801-snow-board-championship.json) |
 | Snow Bound Land | 77419 | [77419-snow-bound-land.json](./77419-snow-bound-land.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
@@ -24048,6 +24051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
 | Street Warriors Online | 34067 | [34067-street-warriors-online.json](./34067-street-warriors-online.json) |
+| Street Wise: A Teenager's Story | 295760 | [295760-street-wise-a-teenagers-story.json](./295760-street-wise-a-teenagers-story.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
 | Streetball 2: On Fire | 256168 | [256168-streetball-2-on-fire.json](./256168-streetball-2-on-fire.json) |
 | Streetball Allstar: Showdown | 244092 | [244092-streetball-allstar-showdown.json](./244092-streetball-allstar-showdown.json) |
