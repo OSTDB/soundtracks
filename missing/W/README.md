@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When The World Became Black | 298134 | [298134-when-the-world-became-black.json](./298134-when-the-world-became-black.json) |
 | When Them Demons Cry | 376021 | [376021-when-them-demons-cry.json](./376021-when-them-demons-cry.json) |
 | When There Is No More Snow | 184421 | [184421-when-there-is-no-more-snow.json](./184421-when-there-is-no-more-snow.json) |
+| When Trees Turn to Ice | 321931 | [321931-when-trees-turn-to-ice.json](./321931-when-trees-turn-to-ice.json) |
 | When Vikings Attack! | 9123 | [9123-when-vikings-attack.json](./9123-when-vikings-attack.json) |
 | When Voices Died | 390465 | [390465-when-voices-died.json](./390465-when-voices-died.json) |
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
