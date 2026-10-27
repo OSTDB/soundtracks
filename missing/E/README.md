@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EagleRoad: WorldRise | 406297 | [406297-eagleroad-worldrise.json](./406297-eagleroad-worldrise.json) |
 | Eagles | 13842 | [13842-eagles.json](./13842-eagles.json) |
 | Eagles Expedition | 143933 | [143933-eagles-expedition.json](./143933-eagles-expedition.json) |
+| Eagles of World War 2 | 294106 | [294106-eagles-of-world-war-2.json](./294106-eagles-of-world-war-2.json) |
 | Eagles Strike | 59314 | [59314-eagles-strike.json](./59314-eagles-strike.json) |
 | Eagletalon vs. Horde of the Flies | 127604 | [127604-eagletalon-vs-horde-of-the-flies.json](./127604-eagletalon-vs-horde-of-the-flies.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
@@ -886,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
 | Eclipse | 260856 | [260856-eclipse.json](./260856-eclipse.json) |
 | Eclipse | 295243 | [295243-eclipse.json](./295243-eclipse.json) |
+| Eclipse 2: Invasion of Darkness | 293586 | [293586-eclipse-2-invasion-of-darkness.json](./293586-eclipse-2-invasion-of-darkness.json) |
 | Eclipse Below | 350628 | [350628-eclipse-below.json](./350628-eclipse-below.json) |
 | Eclipse Breaker | 292411 | [292411-eclipse-breaker.json](./292411-eclipse-breaker.json) |
 | Eclipse Casino | 326254 | [326254-eclipse-casino.json](./326254-eclipse-casino.json) |
@@ -5234,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Vampire | 336640 | [336640-eternal-vampire.json](./336640-eternal-vampire.json) |
 | Eternal Vault | 286083 | [286083-eternal-vault.json](./286083-eternal-vault.json) |
 | Eternal Vigil | 263972 | [263972-eternal-vigil.json](./263972-eternal-vigil.json) |
+| Eternal Void | 294117 | [294117-eternal-void.json](./294117-eternal-void.json) |
 | Eternal Voyager | 374644 | [374644-eternal-voyager.json](./374644-eternal-voyager.json) |
 | Eternal Warfare | 166617 | [166617-eternal-warfare.json](./166617-eternal-warfare.json) |
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
