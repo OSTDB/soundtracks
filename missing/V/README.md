@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verso | 177803 | [177803-verso.json](./177803-verso.json) |
 | Versus | 285907 | [285907-versus.json](./285907-versus.json) |
 | Versus | 94053 | [94053-versus.json](./94053-versus.json) |
+| Versus Dev | 289917 | [289917-versus-dev.json](./289917-versus-dev.json) |
 | Versus Go | 325905 | [325905-versus-go.json](./325905-versus-go.json) |
 | Versus Hero: Kakutou-ou he no Michi | 64799 | [64799-versus-hero-kakutou-ou-he-no-michi.json](./64799-versus-hero-kakutou-ou-he-no-michi.json) |
 | Versus in the Dark | 325021 | [325021-versus-in-the-dark.json](./325021-versus-in-the-dark.json) |
@@ -1586,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViCrew | 331165 | [331165-vicrew.json](./331165-vicrew.json) |
 | Victim 10 PM | 358336 | [358336-victim-10-pm.json](./358336-victim-10-pm.json) |
 | Victim Cache: The RPG | 54973 | [54973-victim-cache-the-rpg.json](./54973-victim-cache-the-rpg.json) |
+| Victim Complex | 289916 | [289916-victim-complex.json](./289916-victim-complex.json) |
 | Victim Doll | 239195 | [239195-victim-doll.json](./239195-victim-doll.json) |
 | Victim of Xen | 8348 | [8348-victim-of-xen.json](./8348-victim-of-xen.json) |
 | Victim.exe | 335344 | [335344-victim-exe.json](./335344-victim-exe.json) |
@@ -2247,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Corporation | 94354 | [94354-virtual-corporation.json](./94354-virtual-corporation.json) |
 | Virtual Cottage 2 | 324942 | [324942-virtual-cottage-2.json](./324942-virtual-cottage-2.json) |
 | Virtual country: Yuan fairy summon | 201668 | [201668-virtual-country-yuan-fairy-summon.json](./201668-virtual-country-yuan-fairy-summon.json) |
+| Virtual Darling: VR | 289914 | [289914-virtual-darling-vr.json](./289914-virtual-darling-vr.json) |
 | Virtual Deep Sea Fishing | 206060 | [206060-virtual-deep-sea-fishing.json](./206060-virtual-deep-sea-fishing.json) |
 | Virtual Dodgeball | 231517 | [231517-virtual-dodgeball.json](./231517-virtual-dodgeball.json) |
 | Virtual Double Yakuman | 355119 | [355119-virtual-double-yakuman.json](./355119-virtual-double-yakuman.json) |
@@ -2291,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Insanity | 39779 | [39779-virtual-insanity.json](./39779-virtual-insanity.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Islands: Mini-Golf Challenge | 31528 | [31528-virtual-islands-mini-golf-challenge.json](./31528-virtual-islands-mini-golf-challenge.json) |
+| Virtual Jigsaw Puzzles: Animals | 289913 | [289913-virtual-jigsaw-puzzles-animals.json](./289913-virtual-jigsaw-puzzles-animals.json) |
 | Virtual Job Shop Simulator | 107273 | [107273-virtual-job-shop-simulator.json](./107273-virtual-job-shop-simulator.json) |
 | Virtual Jockey | 231515 | [231515-virtual-jockey.json](./231515-virtual-jockey.json) |
 | Virtual K'nex | 206020 | [206020-virtual-knex.json](./206020-virtual-knex.json) |
@@ -2362,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Rides 3: Flipping Disc | 273582 | [273582-virtual-rides-3-flipping-disc.json](./273582-virtual-rides-3-flipping-disc.json) |
 | Virtual Rides 3: Forge | 273585 | [273585-virtual-rides-3-forge.json](./273585-virtual-rides-3-forge.json) |
 | Virtual Rides 3: Northstar | 273396 | [273396-virtual-rides-3-northstar.json](./273396-virtual-rides-3-northstar.json) |
+| Virtual Rides 3: Ride Pack | 289912 | [289912-virtual-rides-3-ride-pack.json](./289912-virtual-rides-3-ride-pack.json) |
 | Virtual Rides 3: Roundtrip | 273579 | [273579-virtual-rides-3-roundtrip.json](./273579-virtual-rides-3-roundtrip.json) |
 | Virtual Rides 3: Salsa | 273584 | [273584-virtual-rides-3-salsa.json](./273584-virtual-rides-3-salsa.json) |
 | Virtual Rides 3: The Falcon | 273581 | [273581-virtual-rides-3-the-falcon.json](./273581-virtual-rides-3-the-falcon.json) |
@@ -2413,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual-O | 31266 | [31266-virtual-o.json](./31266-virtual-o.json) |
 | VirtualAbbey | 107131 | [107131-virtualabbey.json](./107131-virtualabbey.json) |
 | VirtualBus | 383790 | [383790-virtualbus.json](./383790-virtualbus.json) |
+| VirtualBuster | 289915 | [289915-virtualbuster.json](./289915-virtualbuster.json) |
 | VirtualCast | 180212 | [180212-virtualcast.json](./180212-virtualcast.json) |
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
@@ -2996,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volguard | 85934 | [85934-volguard.json](./85934-volguard.json) |
 | Volguard II | 48551 | [48551-volguard-ii.json](./48551-volguard-ii.json) |
 | Volkstein | 90150 | [90150-volkstein.json](./90150-volkstein.json) |
+| Vollema | 289911 | [289911-vollema.json](./289911-vollema.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
 | Volley Balley | 90895 | [90895-volley-balley.json](./90895-volley-balley.json) |
 | Volley Bomb | 239092 | [239092-volley-bomb.json](./239092-volley-bomb.json) |
