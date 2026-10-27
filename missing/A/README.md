@@ -6502,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha 2 | 323996 | [323996-alpha-2.json](./323996-alpha-2.json) |
 | Alpha Accident: Terra Nova | 256878 | [256878-alpha-accident-terra-nova.json](./256878-alpha-accident-terra-nova.json) |
 | Alpha Ace | 188364 | [188364-alpha-ace.json](./188364-alpha-ace.json) |
+| Alpha and Iota | 304516 | [304516-alpha-and-iota.json](./304516-alpha-and-iota.json) |
 | Alpha and Omega | 98810 | [98810-alpha-and-omega.json](./98810-alpha-and-omega.json) |
 | Alpha Beam With Ernie | 3252 | [3252-alpha-beam-with-ernie.json](./3252-alpha-beam-with-ernie.json) |
 | Alpha Black Zero: Intrepid Protocol | 73232 | [73232-alpha-black-zero-intrepid-protocol.json](./73232-alpha-black-zero-intrepid-protocol.json) |
@@ -8586,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalistic | 211048 | [211048-animalistic.json](./211048-animalistic.json) |
 | Animalistic: Last Man on Earth | 279253 | [279253-animalistic-last-man-on-earth.json](./279253-animalistic-last-man-on-earth.json) |
 | Animality | 29914 | [29914-animality.json](./29914-animality.json) |
+| AnimalLaboratory | 304550 | [304550-animallaboratory.json](./304550-animallaboratory.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
 | Animaloid Girl | 263199 | [263199-animaloid-girl.json](./263199-animaloid-girl.json) |
 | Animalon: Epic Monsters Battle | 355120 | [355120-animalon-epic-monsters-battle.json](./355120-animalon-epic-monsters-battle.json) |
