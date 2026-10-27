@@ -13103,6 +13103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draught | 383170 | [383170-draught.json](./383170-draught.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
 | Draughts | 210221 | [210221-draughts.json](./210221-draughts.json) |
+| Draughts | 310988 | [310988-draughts.json](./310988-draughts.json) |
 | Draughts | 379618 | [379618-draughts.json](./379618-draughts.json) |
 | Dravo's Twisted Show | 410076 | [410076-dravos-twisted-show.json](./410076-dravos-twisted-show.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
