@@ -12451,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Jet-Fighter : Air War | 107116 | [107116-modern-jet-fighter-air-war.json](./107116-modern-jet-fighter-air-war.json) |
 | Modern Life | 196594 | [196594-modern-life.json](./196594-modern-life.json) |
 | Modern Ludo | 175325 | [175325-modern-ludo.json](./175325-modern-ludo.json) |
+| Modern Modern Chef | 303529 | [303529-modern-modern-chef.json](./303529-modern-modern-chef.json) |
 | Modern Mud | 377691 | [377691-modern-mud.json](./377691-modern-mud.json) |
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
 | Modern Naval Combat | 153149 | [153149-modern-naval-combat.json](./153149-modern-naval-combat.json) |
