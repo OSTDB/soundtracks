@@ -4230,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
 | Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
+| Agricola Revised Edition | 281851 | [281851-agricola-revised-edition.json](./281851-agricola-revised-edition.json) |
 | Agricola: All Creatures Big and Small | 24025 | [24025-agricola-all-creatures-big-and-small.json](./24025-agricola-all-creatures-big-and-small.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
 | Agricultural Simulator 2011: Extended Edition | 28720 | [28720-agricultural-simulator-2011-extended-edition.json](./28720-agricultural-simulator-2011-extended-edition.json) |
@@ -6099,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliro1 | 381680 | [381680-aliro1.json](./381680-aliro1.json) |
 | Alis: World Reborn | 409410 | [409410-alis-world-reborn.json](./409410-alis-world-reborn.json) |
 | Alisa Quest | 146060 | [146060-alisa-quest.json](./146060-alisa-quest.json) |
+| Alisa: Developer's Cut | 282157 | [282157-alisa-developers-cut.json](./282157-alisa-developers-cut.json) |
 | Alisa: The Parting | 321313 | [321313-alisa-the-parting.json](./321313-alisa-the-parting.json) |
 | Alisa's Grimoire | 375561 | [375561-alisas-grimoire.json](./375561-alisas-grimoire.json) |
 | Alisa’s Incident Report | 390627 | [390627-alisa-s-incident-report.json](./390627-alisa-s-incident-report.json) |
@@ -8866,6 +8868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
 | Anime Redemption | 284512 | [284512-anime-redemption.json](./284512-anime-redemption.json) |
 | Anime Romance Boys Collection: 2 Game Bundle | 393763 | [393763-anime-romance-boys-collection-2-game-bundle.json](./393763-anime-romance-boys-collection-2-game-bundle.json) |
+| Anime RPG: Isekai Journey | 282156 | [282156-anime-rpg-isekai-journey.json](./282156-anime-rpg-isekai-journey.json) |
 | Anime School Chase Sim | 301215 | [301215-anime-school-chase-sim.json](./301215-anime-school-chase-sim.json) |
 | Anime School Girl Dating Sim | 296758 | [296758-anime-school-girl-dating-sim.json](./296758-anime-school-girl-dating-sim.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
