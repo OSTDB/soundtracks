@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T kara Hajimaru Monogatari | 172737 | [172737-t-kara-hajimaru-monogatari.json](./172737-t-kara-hajimaru-monogatari.json) |
 | T Simulator | 118617 | [118617-t-simulator.json](./118617-t-simulator.json) |
 | T_ | 178850 | [178850-t.json](./178850-t.json) |
+| T-Abyssal Virus: Origin | 324283 | [324283-t-abyssal-virus-origin.json](./324283-t-abyssal-virus-origin.json) |
 | T-Bird | 122967 | [122967-t-bird.json](./122967-t-bird.json) |
 | T-Crisis 4 110% A.I. Turbo Remix Tetris | 374227 | [374227-t-crisis-4-110-a-i-turbo-remix-tetris.json](./374227-t-crisis-4-110-a-i-turbo-remix-tetris.json) |
 | T-Dragon Quest 2: Mazoku no Daichi | 325651 | [325651-t-dragon-quest-2-mazoku-no-daichi.json](./325651-t-dragon-quest-2-mazoku-no-daichi.json) |
@@ -7253,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Druid | 240759 | [240759-the-druid.json](./240759-the-druid.json) |
 | The Drunken Beard | 343203 | [343203-the-drunken-beard.json](./343203-the-drunken-beard.json) |
 | The Duchess Affair | 313886 | [313886-the-duchess-affair.json](./313886-the-duchess-affair.json) |
+| The Duchess Curse | 324342 | [324342-the-duchess-curse.json](./324342-the-duchess-curse.json) |
 | The Duck Amikaze Strikes Back | 344544 | [344544-the-duck-amikaze-strikes-back.json](./344544-the-duck-amikaze-strikes-back.json) |
 | The Duck Fell | 140941 | [140941-the-duck-fell.json](./140941-the-duck-fell.json) |
 | The Duck Is In Danger | 368532 | [368532-the-duck-is-in-danger.json](./368532-the-duck-is-in-danger.json) |
@@ -7966,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fighting Wolf AT | 268897 | [268897-the-fighting-wolf-at.json](./268897-the-fighting-wolf-at.json) |
 | The Filfth of Us | 284280 | [284280-the-filfth-of-us.json](./284280-the-filfth-of-us.json) |
 | The Filmmaker - A Text Adventure | 29409 | [29409-the-filmmaker-a-text-adventure.json](./29409-the-filmmaker-a-text-adventure.json) |
+| The Final Act | 324280 | [324280-the-final-act.json](./324280-the-final-act.json) |
 | The Final Answer | 211114 | [211114-the-final-answer.json](./211114-the-final-answer.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Bastion | 238507 | [238507-the-final-bastion.json](./238507-the-final-bastion.json) |
@@ -8742,6 +8745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Smog | 244752 | [244752-the-great-smog.json](./244752-the-great-smog.json) |
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
 | The Great Space Race | 300555 | [300555-the-great-space-race.json](./300555-the-great-space-race.json) |
+| The Great Sperm Race | 324345 | [324345-the-great-sperm-race.json](./324345-the-great-sperm-race.json) |
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
 | The Great Tournament | 86758 | [86758-the-great-tournament.json](./86758-the-great-tournament.json) |
 | The Great Tournament 2 | 86759 | [86759-the-great-tournament-2.json](./86759-the-great-tournament-2.json) |
@@ -9436,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infectious Madness of Doctor Dekker 2 | 321046 | [321046-the-infectious-madness-of-doctor-dekker-2.json](./321046-the-infectious-madness-of-doctor-dekker-2.json) |
 | The Infernal Abyss | 337657 | [337657-the-infernal-abyss.json](./337657-the-infernal-abyss.json) |
 | The Infernal Masquerade | 236963 | [236963-the-infernal-masquerade.json](./236963-the-infernal-masquerade.json) |
+| The Infernal Mist | 324258 | [324258-the-infernal-mist.json](./324258-the-infernal-mist.json) |
 | The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
 | The Infernal Tome | 2517 | [2517-the-infernal-tome.json](./2517-the-infernal-tome.json) |
 | The Infernalist | 371355 | [371355-the-infernalist.json](./371355-the-infernalist.json) |
@@ -16318,6 +16323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worm - A Lean Short | 128431 | [128431-the-worm-a-lean-short.json](./128431-the-worm-a-lean-short.json) |
 | The Worm in Paradise | 36845 | [36845-the-worm-in-paradise.json](./36845-the-worm-in-paradise.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
+| The Worm's Memoirs | 324255 | [324255-the-worms-memoirs.json](./324255-the-worms-memoirs.json) |
 | The Worries of Santa Clauses | 324774 | [324774-the-worries-of-santa-clauses.json](./324774-the-worries-of-santa-clauses.json) |
 | The Worst Day Ever | 97191 | [97191-the-worst-day-ever.json](./97191-the-worst-day-ever.json) |
 | The Worst Game | 390555 | [390555-the-worst-game.json](./390555-the-worst-game.json) |
@@ -16872,6 +16878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
 | Thine Cometh | 184258 | [184258-thine-cometh.json](./184258-thine-cometh.json) |
 | Thine Rogueth | 374229 | [374229-thine-rogueth.json](./374229-thine-rogueth.json) |
+| Thing & Fist | 324259 | [324259-thing-and-fist.json](./324259-thing-and-fist.json) |
 | Thing Bounces Back | 44107 | [44107-thing-bounces-back.json](./44107-thing-bounces-back.json) |
 | Thing on a Spring | 26247 | [26247-thing-on-a-spring.json](./26247-thing-on-a-spring.json) |
 | Thing Thing 2 | 92452 | [92452-thing-thing-2.json](./92452-thing-thing-2.json) |
@@ -17388,6 +17395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Abyss | 217314 | [217314-through-the-abyss.json](./217314-through-the-abyss.json) |
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
 | Through the Ages: New Leaders & Wonders | 155052 | [155052-through-the-ages-new-leaders-and-wonders.json](./155052-through-the-ages-new-leaders-and-wonders.json) |
+| Through the Backrooms | 324344 | [324344-through-the-backrooms.json](./324344-through-the-backrooms.json) |
 | Through the Dark: Prologue | 36822 | [36822-through-the-dark-prologue.json](./36822-through-the-dark-prologue.json) |
 | Through the Dust | 123893 | [123893-through-the-dust.json](./123893-through-the-dust.json) |
 | Through the Edges | 333669 | [333669-through-the-edges.json](./333669-through-the-edges.json) |
@@ -24419,6 +24427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2019: C44aci Locomotive - ARG/Mineral Resources Pack | 306116 | [306116-trainz-2019-c44aci-locomotive-arg-mineral-resources-pack.json](./306116-trainz-2019-c44aci-locomotive-arg-mineral-resources-pack.json) |
 | Trainz 2019: C44aci Locomotive - Aurizon Pack | 325040 | [325040-trainz-2019-c44aci-locomotive-aurizon-pack.json](./325040-trainz-2019-c44aci-locomotive-aurizon-pack.json) |
 | Trainz 2019: C44aci Locomotive - Xstrata/Glencore Pack | 325032 | [325032-trainz-2019-c44aci-locomotive-xstrata-glencore-pack.json](./325032-trainz-2019-c44aci-locomotive-xstrata-glencore-pack.json) |
+| Trainz 2019: Model Trainz - Chicago | 324286 | [324286-trainz-2019-model-trainz-chicago.json](./324286-trainz-2019-model-trainz-chicago.json) |
 | Trainz 2019: Model Trainz - Freemont Mills | 306115 | [306115-trainz-2019-model-trainz-freemont-mills.json](./306115-trainz-2019-model-trainz-freemont-mills.json) |
 | Trainz 2019: Model Trainz - Germany | 325037 | [325037-trainz-2019-model-trainz-germany.json](./325037-trainz-2019-model-trainz-germany.json) |
 | Trainz 2019: NSW Bradken 120T Coal Hopper Mega Pack | 325027 | [325027-trainz-2019-nsw-bradken-120t-coal-hopper-mega-pack.json](./325027-trainz-2019-nsw-bradken-120t-coal-hopper-mega-pack.json) |
@@ -24429,6 +24438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2019: Pro Train - F-Series: FAA Container | 280144 | [280144-trainz-2019-pro-train-f-series-faa-container.json](./280144-trainz-2019-pro-train-f-series-faa-container.json) |
 | Trainz 2019: Pro Train - SD40-2 Loco Bundle 4 | 306113 | [306113-trainz-2019-pro-train-sd40-2-loco-bundle-4.json](./306113-trainz-2019-pro-train-sd40-2-loco-bundle-4.json) |
 | Trainz 2019: Pro Train - Sequoia Valley | 306112 | [306112-trainz-2019-pro-train-sequoia-valley.json](./306112-trainz-2019-pro-train-sequoia-valley.json) |
+| Trainz 2019: Pro Train: NS Heritage Loco Bundle 1 | 324273 | [324273-trainz-2019-pro-train-ns-heritage-loco-bundle-1.json](./324273-trainz-2019-pro-train-ns-heritage-loco-bundle-1.json) |
 | Trainz 2019: Pro Train: NS Loco Bundle 1 | 325028 | [325028-trainz-2019-pro-train-ns-loco-bundle-1.json](./325028-trainz-2019-pro-train-ns-loco-bundle-1.json) |
 | Trainz 2019: ProTrain - AC4400CW Loco Bundle 1 | 306114 | [306114-trainz-2019-protrain-ac4400cw-loco-bundle-1.json](./306114-trainz-2019-protrain-ac4400cw-loco-bundle-1.json) |
 | Trainz 2019: RCH 14T Class A/B Tankers | 325033 | [325033-trainz-2019-rch-14t-class-a-b-tankers.json](./325033-trainz-2019-rch-14t-class-a-b-tankers.json) |
@@ -24440,6 +24450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2022: Model Trainz - Freemont Mills | 306119 | [306119-trainz-2022-model-trainz-freemont-mills.json](./306119-trainz-2022-model-trainz-freemont-mills.json) |
 | Trainz 2022: Pro Train - F-Series: FAA Container | 280143 | [280143-trainz-2022-pro-train-f-series-faa-container.json](./280143-trainz-2022-pro-train-f-series-faa-container.json) |
 | Trainz 2022: Pro Train - Sequoia Valley | 306121 | [306121-trainz-2022-pro-train-sequoia-valley.json](./306121-trainz-2022-pro-train-sequoia-valley.json) |
+| Trainz 2022: Pro Train: NS Heritage Loco Bundle 1 | 324266 | [324266-trainz-2022-pro-train-ns-heritage-loco-bundle-1.json](./324266-trainz-2022-pro-train-ns-heritage-loco-bundle-1.json) |
 | Trainz 2022: ProTrain - AC4400CW Loco Bundle 1 | 306120 | [306120-trainz-2022-protrain-ac4400cw-loco-bundle-1.json](./306120-trainz-2022-protrain-ac4400cw-loco-bundle-1.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
 | Trainz Classics Volume 1 & 2 | 54184 | [54184-trainz-classics-volume-1-and-2.json](./54184-trainz-classics-volume-1-and-2.json) |
@@ -24584,6 +24595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Pro Train - TGV Duplex | 212240 | [212240-trainz-plus-pro-train-tgv-duplex.json](./212240-trainz-plus-pro-train-tgv-duplex.json) |
 | Trainz Plus: Pro Train Class 68 DRS | 207366 | [207366-trainz-plus-pro-train-class-68-drs.json](./207366-trainz-plus-pro-train-class-68-drs.json) |
 | Trainz Plus: Pro Train DB/DR Auxiliary Train | 237946 | [237946-trainz-plus-pro-train-db-dr-auxiliary-train.json](./237946-trainz-plus-pro-train-db-dr-auxiliary-train.json) |
+| Trainz Plus: Pro Train: NS Heritage Loco Bundle 1 | 324267 | [324267-trainz-plus-pro-train-ns-heritage-loco-bundle-1.json](./324267-trainz-plus-pro-train-ns-heritage-loco-bundle-1.json) |
 | Trainz Plus: Pro Trainz TEE Rheingold | 205474 | [205474-trainz-plus-pro-trainz-tee-rheingold.json](./205474-trainz-plus-pro-trainz-tee-rheingold.json) |
 | Trainz Plus: ProTrain - AC4400CW Loco Bundle 1 | 306104 | [306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json](./306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json) |
 | Trainz Plus: PRR X23 Boxcar | 205556 | [205556-trainz-plus-prr-x23-boxcar.json](./205556-trainz-plus-prr-x23-boxcar.json) |
@@ -25534,6 +25546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travellin Cats in Christmas | 297837 | [297837-travellin-cats-in-christmas.json](./297837-travellin-cats-in-christmas.json) |
 | Travellin Cats in Jingle Jam | 273813 | [273813-travellin-cats-in-jingle-jam.json](./273813-travellin-cats-in-jingle-jam.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
+| Travellin Cats in USA | 324247 | [324247-travellin-cats-in-usa.json](./324247-travellin-cats-in-usa.json) |
 | Travelling At Night | 326862 | [326862-travelling-at-night.json](./326862-travelling-at-night.json) |
 | Travelling Home: Ever After | 406663 | [406663-travelling-home-ever-after.json](./406663-travelling-home-ever-after.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
