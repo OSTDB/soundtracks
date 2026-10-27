@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mappy | 239157 | [239157-mappy.json](./239157-mappy.json) |
 | Mappy | 293754 | [293754-mappy.json](./293754-mappy.json) |
 | Mappy | 313132 | [313132-mappy.json](./313132-mappy.json) |
+| Mappy | 322526 | [322526-mappy.json](./322526-mappy.json) |
 | Mappy Atari | 321213 | [321213-mappy-atari.json](./321213-mappy-atari.json) |
 | Mappy Kids | 48625 | [48625-mappy-kids.json](./48625-mappy-kids.json) |
 | Mappy Micro Player | 304231 | [304231-mappy-micro-player.json](./304231-mappy-micro-player.json) |
@@ -3557,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Mystery Meat | 174730 | [174730-marios-mystery-meat.json](./174730-marios-mystery-meat.json) |
 | Mario's New Adventure | 314102 | [314102-marios-new-adventure.json](./314102-marios-new-adventure.json) |
 | Mario's New Earth | 195027 | [195027-marios-new-earth.json](./195027-marios-new-earth.json) |
+| Mario's Nightmare Quest | 322618 | [322618-marios-nightmare-quest.json](./322618-marios-nightmare-quest.json) |
 | Mario's Orange Lavaburst Adventure | 328659 | [328659-marios-orange-lavaburst-adventure.json](./328659-marios-orange-lavaburst-adventure.json) |
 | Mario's Peregrination: Kingdom Elementum Phantasia | 278632 | [278632-marios-peregrination-kingdom-elementum-phantasia.json](./278632-marios-peregrination-kingdom-elementum-phantasia.json) |
 | Mario's Picross | 71976 | [71976-marios-picross.json](./71976-marios-picross.json) |
@@ -3738,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
 | Mars Horizon 2: The Search for Life | 244142 | [244142-mars-horizon-2-the-search-for-life.json](./244142-mars-horizon-2-the-search-for-life.json) |
 | Mars Industries | 30778 | [30778-mars-industries.json](./30778-mars-industries.json) |
+| Mars Lives!! | 322612 | [322612-mars-lives.json](./322612-mars-lives.json) |
 | Mars Man | 287348 | [287348-mars-man.json](./287348-mars-man.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
 | Mars Mission II | 59475 | [59475-mars-mission-ii.json](./59475-mars-mission-ii.json) |
@@ -15984,6 +15987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mucorales | 285850 | [285850-mucorales.json](./285850-mucorales.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
+| Mud Pies | 322550 | [322550-mud-pies.json](./322550-mud-pies.json) |
 | Mud River | 171869 | [171869-mud-river.json](./171869-mud-river.json) |
 | Mud Tyres: Offroad Edition | 90066 | [90066-mud-tyres-offroad-edition.json](./90066-mud-tyres-offroad-edition.json) |
 | Mud Way | 212670 | [212670-mud-way.json](./212670-mud-way.json) |
