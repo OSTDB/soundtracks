@@ -14249,6 +14249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop In VR | 137912 | [137912-drop-in-vr.json](./137912-drop-in-vr.json) |
 | Drop It | 285127 | [285127-drop-it.json](./285127-drop-it.json) |
 | Drop It: Block Paradise! | 85104 | [85104-drop-it-block-paradise.json](./85104-drop-it-block-paradise.json) |
+| Drop It! Jelly Man | 324284 | [324284-drop-it-jelly-man.json](./324284-drop-it-jelly-man.json) |
 | Drop Kick Zombie! | 118763 | [118763-drop-kick-zombie.json](./118763-drop-kick-zombie.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
@@ -14344,6 +14345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
 | Drug Schedule | 339226 | [339226-drug-schedule.json](./339226-drug-schedule.json) |
+| Drug Story: The First Chapters | 324248 | [324248-drug-story-the-first-chapters.json](./324248-drug-story-the-first-chapters.json) |
 | Drug Trader Simulator | 327439 | [327439-drug-trader-simulator.json](./327439-drug-trader-simulator.json) |
 | Drug Wars | 14945 | [14945-drug-wars.json](./14945-drug-wars.json) |
 | Drug Wars: A Game Based on the New York Drug Market | 72172 | [72172-drug-wars-a-game-based-on-the-new-york-drug-market.json](./72172-drug-wars-a-game-based-on-the-new-york-drug-market.json) |
@@ -15263,6 +15265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Keeper Gold | 46632 | [46632-dungeon-keeper-gold.json](./46632-dungeon-keeper-gold.json) |
 | Dungeon Keeper Online | 92414 | [92414-dungeon-keeper-online.json](./92414-dungeon-keeper-online.json) |
 | Dungeon Keeper Premium | 334252 | [334252-dungeon-keeper-premium.json](./334252-dungeon-keeper-premium.json) |
+| Dungeon Keeper: Labyrinth Legacy | 324282 | [324282-dungeon-keeper-labyrinth-legacy.json](./324282-dungeon-keeper-labyrinth-legacy.json) |
 | Dungeon Keeper: The Deeper Dungeons | 9226 | [9226-dungeon-keeper-the-deeper-dungeons.json](./9226-dungeon-keeper-the-deeper-dungeons.json) |
 | Dungeon Kid | 48511 | [48511-dungeon-kid.json](./48511-dungeon-kid.json) |
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
