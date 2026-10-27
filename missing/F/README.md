@@ -7533,6 +7533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FolkOrigin | 292391 | [292391-folkorigin.json](./292391-folkorigin.json) |
 | Folktale | 215306 | [215306-folktale.json](./215306-folktale.json) |
 | Folktale Fury | 379422 | [379422-folktale-fury.json](./379422-folktale-fury.json) |
+| Folletti | 321321 | [321321-folletti.json](./321321-folletti.json) |
 | Follia: Dear Father | 118671 | [118671-follia-dear-father.json](./118671-follia-dear-father.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow Dream | 296591 | [296591-follow-dream.json](./296591-follow-dream.json) |
