@@ -824,7 +824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6501,6 +6500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
 | Big Pixel Racing | 384023 | [384023-big-pixel-racing.json](./384023-big-pixel-racing.json) |
 | Big Quest 2: the Adventure | 163738 | [163738-big-quest-2-the-adventure.json](./163738-big-quest-2-the-adventure.json) |
+| Big Range Hunting | 305804 | [305804-big-range-hunting.json](./305804-big-range-hunting.json) |
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Red Racing | 19233 | [19233-big-red-racing.json](./19233-big-red-racing.json) |
 | Big Rig | 74021 | [74021-big-rig.json](./74021-big-rig.json) |
@@ -9127,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
 | Blocked Up | 183897 | [183897-blocked-up.json](./183897-blocked-up.json) |
 | Blocked Zona | 200565 | [200565-blocked-zona.json](./200565-blocked-zona.json) |
+| Blocked-Out! | 305805 | [305805-blocked-out.json](./305805-blocked-out.json) |
 | Blocked! | 207580 | [207580-blocked.json](./207580-blocked.json) |
 | Blocker | 15678 | [15678-blocker.json](./15678-blocker.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
@@ -11653,6 +11654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottom Squad | 378594 | [378594-bottom-squad.json](./378594-bottom-squad.json) |
 | Bottom-up Beatdown: Hostile Takeover | 373595 | [373595-bottom-up-beatdown-hostile-takeover.json](./373595-bottom-up-beatdown-hostile-takeover.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
+| Bottomless Block Barrage | 305738 | [305738-bottomless-block-barrage.json](./305738-bottomless-block-barrage.json) |
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
 | Bottoms Up | 176941 | [176941-bottoms-up.json](./176941-bottoms-up.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
@@ -14916,6 +14918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Defense | 161631 | [161631-bunker-defense.json](./161631-bunker-defense.json) |
 | Bunker Down | 344437 | [344437-bunker-down.json](./344437-bunker-down.json) |
 | Bunker Farmer | 296590 | [296590-bunker-farmer.json](./296590-bunker-farmer.json) |
+| Bunker Game | 305831 | [305831-bunker-game.json](./305831-bunker-game.json) |
 | Bunker KYS | 390456 | [390456-bunker-kys.json](./390456-bunker-kys.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
