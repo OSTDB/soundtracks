@@ -9717,6 +9717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin World | 94347 | [94347-coin-world.json](./94347-coin-world.json) |
 | Coin X Union | 339312 | [339312-coin-x-union.json](./339312-coin-x-union.json) |
 | Coin-Op Kingdom | 98766 | [98766-coin-op-kingdom.json](./98766-coin-op-kingdom.json) |
+| Coin-Op Vice | 289816 | [289816-coin-op-vice.json](./289816-coin-op-vice.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
 | CoinBlock Clicker | 274904 | [274904-coinblock-clicker.json](./274904-coinblock-clicker.json) |
 | Coinbox Hero | 294224 | [294224-coinbox-hero.json](./294224-coinbox-hero.json) |
