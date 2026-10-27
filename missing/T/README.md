@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
+| Take a Walk | 329517 | [329517-take-a-walk.json](./329517-take-a-walk.json) |
 | Take Bomb: The Suit Take Off | 280254 | [280254-take-bomb-the-suit-take-off.json](./280254-take-bomb-the-suit-take-off.json) |
 | Take Care (of Me) | 339422 | [339422-take-care-of-me.json](./339422-take-care-of-me.json) |
 | Take Care of It: Memories | 405443 | [405443-take-care-of-it-memories.json](./405443-take-care-of-it-memories.json) |
@@ -19333,6 +19334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time For Changes | 418203 | [418203-time-for-changes.json](./418203-time-for-changes.json) |
 | Time For Kill | 353633 | [353633-time-for-kill.json](./353633-time-for-kill.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
+| Time For Tom | 329485 | [329485-time-for-tom.json](./329485-time-for-tom.json) |
 | Time for You to Leave | 416355 | [416355-time-for-you-to-leave.json](./416355-time-for-you-to-leave.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
 | Time for You: Chapter 02 - Dirty Thoughts and Corporate Bots | 170373 | [170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json](./170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json) |
@@ -21846,6 +21848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | ToriDori | 211825 | [211825-toridori.json](./211825-toridori.json) |
 | Torii | 141335 | [141335-torii.json](./141335-torii.json) |
+| Torii Guardian | 329504 | [329504-torii-guardian.json](./329504-torii-guardian.json) |
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
 | Torikago no Mukougawa | 268665 | [268665-torikago-no-mukougawa.json](./268665-torikago-no-mukougawa.json) |
@@ -23544,6 +23547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffix: City Rush | 175138 | [175138-traffix-city-rush.json](./175138-traffix-city-rush.json) |
 | Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
 | Trafico | 81797 | [81797-trafico.json](./81797-trafico.json) |
+| Tragedy at Ashville Lane | 329459 | [329459-tragedy-at-ashville-lane.json](./329459-tragedy-at-ashville-lane.json) |
 | Tragedy of Loneliness | 158614 | [158614-tragedy-of-loneliness.json](./158614-tragedy-of-loneliness.json) |
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
 | Tragedy Theater | 260164 | [260164-tragedy-theater.json](./260164-tragedy-theater.json) |
