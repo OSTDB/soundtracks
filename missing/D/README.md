@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
 | Dangerous Fight | 284997 | [284997-dangerous-fight.json](./284997-dangerous-fight.json) |
 | Dangerous Fists | 219673 | [219673-dangerous-fists.json](./219673-dangerous-fists.json) |
+| Dangerous Galaxy | 291945 | [291945-dangerous-galaxy.json](./291945-dangerous-galaxy.json) |
 | Dangerous Games: Illusionist | 140212 | [140212-dangerous-games-illusionist.json](./140212-dangerous-games-illusionist.json) |
 | Dangerous Games: Illusionist - Collector's Edition | 81078 | [81078-dangerous-games-illusionist-collectors-edition.json](./81078-dangerous-games-illusionist-collectors-edition.json) |
 | Dangerous Games: Illusionist HD - A Magical Hidden Object Mystery | 95248 | [95248-dangerous-games-illusionist-hd-a-magical-hidden-object-mystery.json](./95248-dangerous-games-illusionist-hd-a-magical-hidden-object-mystery.json) |
@@ -4039,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathblossom | 339494 | [339494-deathblossom.json](./339494-deathblossom.json) |
 | Deathbounce | 65256 | [65256-deathbounce.json](./65256-deathbounce.json) |
 | Deathbound | 135796 | [135796-deathbound.json](./135796-deathbound.json) |
+| Deathbound | 292043 | [292043-deathbound.json](./292043-deathbound.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathbound: Ultimate Edition | 313211 | [313211-deathbound-ultimate-edition.json](./313211-deathbound-ultimate-edition.json) |
 | Deathbulge: Battle of the Bands | 114778 | [114778-deathbulge-battle-of-the-bands.json](./114778-deathbulge-battle-of-the-bands.json) |
@@ -7287,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Legacy: Deluxe Edition | 173102 | [173102-dice-legacy-deluxe-edition.json](./173102-dice-legacy-deluxe-edition.json) |
 | Dice Life: Dice Game | 291618 | [291618-dice-life-dice-game.json](./291618-dice-life-dice-game.json) |
 | Dice Looter | 414145 | [414145-dice-looter.json](./414145-dice-looter.json) |
+| Dice Mage | 291958 | [291958-dice-mage.json](./291958-dice-mage.json) |
 | Dice Mage 2 | 87866 | [87866-dice-mage-2.json](./87866-dice-mage-2.json) |
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
 | Dice Mayor | 253470 | [253470-dice-mayor.json](./253470-dice-mayor.json) |
@@ -8371,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 5: Ford Raptor Edition | 146133 | [146133-dirt-5-ford-raptor-edition.json](./146133-dirt-5-ford-raptor-edition.json) |
 | Dirt 5: Limited Edition | 139955 | [139955-dirt-5-limited-edition.json](./139955-dirt-5-limited-edition.json) |
 | Dirt 5: Super Size Content Pack | 170823 | [170823-dirt-5-super-size-content-pack.json](./170823-dirt-5-super-size-content-pack.json) |
+| Dirt 5: Uproar Content Pack | 292030 | [292030-dirt-5-uproar-content-pack.json](./292030-dirt-5-uproar-content-pack.json) |
 | Dirt 5: Wild Spirits Content Pack | 292027 | [292027-dirt-5-wild-spirits-content-pack.json](./292027-dirt-5-wild-spirits-content-pack.json) |
 | Dirt 5: Year One Edition | 164796 | [164796-dirt-5-year-one-edition.json](./164796-dirt-5-year-one-edition.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
@@ -11670,6 +11674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon 3: The Rosetta Stone | 281520 | [281520-double-dragon-3-the-rosetta-stone.json](./281520-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon Advance | 6384 | [6384-double-dragon-advance.json](./6384-double-dragon-advance.json) |
 | Double Dragon Dodgeball | 374779 | [374779-double-dragon-dodgeball.json](./374779-double-dragon-dodgeball.json) |
+| Double Dragon Gaiden: Rise of the Dragons - Sacred Reunion | 291950 | [291950-double-dragon-gaiden-rise-of-the-dragons-sacred-reunion.json](./291950-double-dragon-gaiden-rise-of-the-dragons-sacred-reunion.json) |
 | Double Dragon II | 136134 | [136134-double-dragon-ii.json](./136134-double-dragon-ii.json) |
 | Double Dragon II SNES Port | 377224 | [377224-double-dragon-ii-snes-port.json](./377224-double-dragon-ii-snes-port.json) |
 | Double Dragon II: The Revenge | 198728 | [198728-double-dragon-ii-the-revenge.json](./198728-double-dragon-ii-the-revenge.json) |
