@@ -3023,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
 | Fear Me: The Silent | 331355 | [331355-fear-me-the-silent.json](./331355-fear-me-the-silent.json) |
 | Fear Night Tales: Do You Like Coffee? | 389521 | [389521-fear-night-tales-do-you-like-coffee.json](./389521-fear-night-tales-do-you-like-coffee.json) |
+| Fear Odyssey | 290887 | [290887-fear-odyssey.json](./290887-fear-odyssey.json) |
 | Fear of Biosec | 332537 | [332537-fear-of-biosec.json](./332537-fear-of-biosec.json) |
 | Fear of Bugs: The Fear Experience | 218991 | [218991-fear-of-bugs-the-fear-experience.json](./218991-fear-of-bugs-the-fear-experience.json) |
 | Fear of Clowns | 28420 | [28420-fear-of-clowns.json](./28420-fear-of-clowns.json) |
@@ -11678,6 +11679,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Shakespeare: Oops! All Dragons! | 152805 | [152805-furry-shakespeare-oops-all-dragons.json](./152805-furry-shakespeare-oops-all-dragons.json) |
 | Furry Shakespeare: To Date or Not to Date Cat Girls? | 115492 | [115492-furry-shakespeare-to-date-or-not-to-date-cat-girls.json](./115492-furry-shakespeare-to-date-or-not-to-date-cat-girls.json) |
 | Furry Shakespeare: To Date Or Not To Date Cat Girls? - 2 Prophecy of Convenience | 253951 | [253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json](./253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json) |
+| Furry Shakespeare: To Date Or Not To Date Cat Girls? If Made Today | 290884 | [290884-furry-shakespeare-to-date-or-not-to-date-cat-girls-if-made-today.json](./290884-furry-shakespeare-to-date-or-not-to-date-cat-girls-if-made-today.json) |
+| Furry Shakespeare: To Date Or Not To Date Spooky Cat Girls 2?! | 290901 | [290901-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls-2.json](./290901-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls-2.json) |
 | Furry Shakespeare: Two Incredibly Ripped, Absolutely Shredded Noble Kinsmen | 196471 | [196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json](./196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json) |
 | Furry Stories: Alpha-Male | 130297 | [130297-furry-stories-alpha-male.json](./130297-furry-stories-alpha-male.json) |
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
