@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Warehouse | 195605 | [195605-under-the-warehouse.json](./195605-under-the-warehouse.json) |
 | Under the Water | 174105 | [174105-under-the-water.json](./174105-under-the-water.json) |
 | Under the Weather | 145925 | [145925-under-the-weather.json](./145925-under-the-weather.json) |
+| Under The Whisper | 293589 | [293589-under-the-whisper.json](./293589-under-the-whisper.json) |
 | Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Under The Yoke | 268939 | [268939-under-the-yoke.json](./268939-under-the-yoke.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable | 28858 | [28858-unstable.json](./28858-unstable.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
+| Unstable Cylinder | 294182 | [294182-unstable-cylinder.json](./294182-unstable-cylinder.json) |
 | Unstable Engineer | 384743 | [384743-unstable-engineer.json](./384743-unstable-engineer.json) |
 | Unstable Rock | 213320 | [213320-unstable-rock.json](./213320-unstable-rock.json) |
 | Unstable Star | 338583 | [338583-unstable-star.json](./338583-unstable-star.json) |
@@ -2841,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Dreambog | 323391 | [323391-urban-dreambog.json](./323391-urban-dreambog.json) |
 | Urban Drug Empire | 223138 | [223138-urban-drug-empire.json](./223138-urban-drug-empire.json) |
 | Urban Entrepreneur | 273395 | [273395-urban-entrepreneur.json](./273395-urban-entrepreneur.json) |
+| Urban Escape | 294185 | [294185-urban-escape.json](./294185-urban-escape.json) |
 | Urban Exploration Bundle | 218462 | [218462-urban-exploration-bundle.json](./218462-urban-exploration-bundle.json) |
 | Urban Explorer | 120699 | [120699-urban-explorer.json](./120699-urban-explorer.json) |
 | Urban Explorer Golf | 105170 | [105170-urban-explorer-golf.json](./105170-urban-explorer-golf.json) |
