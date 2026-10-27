@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zday Survival Simulator | 202840 | [202840-zday-survival-simulator.json](./202840-zday-survival-simulator.json) |
 | ZDog Hotel Hero Z | 305849 | [305849-zdog-hotel-hero-z.json](./305849-zdog-hotel-hero-z.json) |
 | ZDoom Adventures! | 252215 | [252215-zdoom-adventures.json](./252215-zdoom-adventures.json) |
+| ZDoom Community Map Project II | 312593 | [312593-zdoom-community-map-project-ii.json](./312593-zdoom-community-map-project-ii.json) |
 | ZDSimulator | 108792 | [108792-zdsimulator.json](./108792-zdsimulator.json) |
 | ZDSimulator: Shevchenko-Timkove Route | 392436 | [392436-zdsimulator-shevchenko-timkove-route.json](./392436-zdsimulator-shevchenko-timkove-route.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
