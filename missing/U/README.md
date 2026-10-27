@@ -2503,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
 | Until None Remain VR | 68365 | [68365-until-none-remain-vr.json](./68365-until-none-remain-vr.json) |
 | Until None Remain: Battle Royale VR | 74556 | [74556-until-none-remain-battle-royale-vr.json](./74556-until-none-remain-battle-royale-vr.json) |
+| Until Oblivion | 309908 | [309908-until-oblivion.json](./309908-until-oblivion.json) |
 | Until September | 120047 | [120047-until-september.json](./120047-until-september.json) |
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
 | Until the Last | 59144 | [59144-until-the-last.json](./59144-until-the-last.json) |
