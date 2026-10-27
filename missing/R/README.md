@@ -2855,7 +2855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel | 52756 | [52756-rebel.json](./52756-rebel.json) |
 | Rebel | 78086 | [78086-rebel.json](./78086-rebel.json) |
 | Rebel Charge at Chickamauga | 12742 | [12742-rebel-charge-at-chickamauga.json](./12742-rebel-charge-at-chickamauga.json) |
-| Rebel Cops | 122265 | [122265-rebel-cops.json](./122265-rebel-cops.json) |
 | Rebel Duet | 275837 | [275837-rebel-duet.json](./275837-rebel-duet.json) |
 | Rebel Engine | 201529 | [201529-rebel-engine.json](./201529-rebel-engine.json) |
 | Rebel Engine | 374272 | [374272-rebel-engine.json](./374272-rebel-engine.json) |
@@ -9175,7 +9174,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing Mario | 268107 | [268107-romancing-mario.json](./268107-romancing-mario.json) |
 | Romancing Monarchy | 105137 | [105137-romancing-monarchy.json](./105137-romancing-monarchy.json) |
 | Romancing SaGa | 11311 | [11311-romancing-saga.json](./11311-romancing-saga.json) |
-| Romancing SaGa 2 | 11312 | [11312-romancing-saga-2.json](./11312-romancing-saga-2.json) |
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing SaGa Re;UniverSe | 109593 | [109593-romancing-saga-re-universe.json](./109593-romancing-saga-re-universe.json) |
 | Romancing SaGa: Minstrel Song Remastered | 203315 | [203315-romancing-saga-minstrel-song-remastered.json](./203315-romancing-saga-minstrel-song-remastered.json) |
