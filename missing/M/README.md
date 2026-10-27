@@ -8447,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaltech: Earthsiege Speech Pack | 98937 | [98937-metaltech-earthsiege-speech-pack.json](./98937-metaltech-earthsiege-speech-pack.json) |
 | Metalworking | 168632 | [168632-metalworking.json](./168632-metalworking.json) |
 | Metalyx | 354579 | [354579-metalyx.json](./354579-metalyx.json) |
+| Metamathema | 320782 | [320782-metamathema.json](./320782-metamathema.json) |
 | Metamaze | 178491 | [178491-metamaze.json](./178491-metamaze.json) |
 | Metamon | 227835 | [227835-metamon.json](./227835-metamon.json) |
 | Metamon Island | 223947 | [223947-metamon-island.json](./223947-metamon-island.json) |
@@ -11419,6 +11420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror War: Reincarnation of Holiness | 215605 | [215605-mirror-war-reincarnation-of-holiness.json](./215605-mirror-war-reincarnation-of-holiness.json) |
 | Mirror Wizard | 412210 | [412210-mirror-wizard.json](./412210-mirror-wizard.json) |
 | Mirror World | 296985 | [296985-mirror-world.json](./296985-mirror-world.json) |
+| Mirror, Mirror | 320704 | [320704-mirror-mirror.json](./320704-mirror-mirror.json) |
 | Mirror: The Lost Shards | 170798 | [170798-mirror-the-lost-shards.json](./170798-mirror-the-lost-shards.json) |
 | Mirror's Edge | 77348 | [77348-mirrors-edge.json](./77348-mirrors-edge.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
@@ -18289,6 +18291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Dungeon: Shiren the Wanderer | 78341 | [78341-mystery-dungeon-shiren-the-wanderer.json](./78341-mystery-dungeon-shiren-the-wanderer.json) |
 | Mystery Egg Shop Simulator | 391526 | [391526-mystery-egg-shop-simulator.json](./391526-mystery-egg-shop-simulator.json) |
 | Mystery Egyptian Kings | 102259 | [102259-mystery-egyptian-kings.json](./102259-mystery-egyptian-kings.json) |
+| Mystery Escape Room Bundle | 320696 | [320696-mystery-escape-room-bundle.json](./320696-mystery-escape-room-bundle.json) |
 | Mystery Fun House | 18520 | [18520-mystery-fun-house.json](./18520-mystery-fun-house.json) |
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
 | Mystery Horror Bundle: Saint Kotar & Charon's Staircase | 380703 | [380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json](./380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json) |
