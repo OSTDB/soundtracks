@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Land | 40333 | [40333-fantasy-land.json](./40333-fantasy-land.json) |
 | Fantasy Lands | 286790 | [286790-fantasy-lands.json](./286790-fantasy-lands.json) |
 | Fantasy Legend: War of Contract | 96551 | [96551-fantasy-legend-war-of-contract.json](./96551-fantasy-legend-war-of-contract.json) |
+| Fantasy Legion | 314211 | [314211-fantasy-legion.json](./314211-fantasy-legion.json) |
 | Fantasy Life | 214147 | [214147-fantasy-life.json](./214147-fantasy-life.json) |
 | Fantasy Life | 6770 | [6770-fantasy-life.json](./6770-fantasy-life.json) |
 | Fantasy Life i: The Celestial Express | 417334 | [417334-fantasy-life-i-the-celestial-express.json](./417334-fantasy-life-i-the-celestial-express.json) |
