@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Horror Game for Cowards | 312677 | [312677-a-horror-game-for-cowards.json](./312677-a-horror-game-for-cowards.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
+| A House for Alesa | 288157 | [288157-a-house-for-alesa.json](./288157-a-house-for-alesa.json) |
 | A House for Alesa 2 | 303036 | [303036-a-house-for-alesa-2.json](./303036-a-house-for-alesa-2.json) |
 | A House for Alesa 3 | 303314 | [303314-a-house-for-alesa-3.json](./303314-a-house-for-alesa-3.json) |
 | A House for Alesa Remake | 398636 | [398636-a-house-for-alesa-remake.json](./398636-a-house-for-alesa-remake.json) |
@@ -2810,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
 | Adult Charades! Guess Words on Your Heads While Tilting Up or Down | 98863 | [98863-adult-charades-guess-words-on-your-heads-while-tilting-up-or-down.json](./98863-adult-charades-guess-words-on-your-heads-while-tilting-up-or-down.json) |
 | Adult Film Cameraman | 85954 | [85954-adult-film-cameraman.json](./85954-adult-film-cameraman.json) |
+| Adult for Cyberpunk Sex | 288241 | [288241-adult-for-cyberpunk-sex.json](./288241-adult-for-cyberpunk-sex.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Math | 113412 | [113412-adult-math.json](./113412-adult-math.json) |
 | Adult Puzzle: Hentai Maid Aruha | 298606 | [298606-adult-puzzle-hentai-maid-aruha.json](./298606-adult-puzzle-hentai-maid-aruha.json) |
@@ -8662,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals | 314287 | [314287-animals.json](./314287-animals.json) |
 | Animals & Coins | 317177 | [317177-animals-and-coins.json](./317177-animals-and-coins.json) |
 | Animals Collision | 199375 | [199375-animals-collision.json](./199375-animals-collision.json) |
+| Animals Drop | 288168 | [288168-animals-drop.json](./288168-animals-drop.json) |
 | Animals Fight | 192764 | [192764-animals-fight.json](./192764-animals-fight.json) |
 | Animals In Buildings | 177311 | [177311-animals-in-buildings.json](./177311-animals-in-buildings.json) |
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
@@ -9746,6 +9749,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
 | Apathy: Shougakkou de Atta Kowai Hanashi - Getsuyoubi | 210824 | [210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json](./210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json) |
 | APB | 11905 | [11905-apb.json](./11905-apb.json) |
+| APB | 288033 | [288033-apb.json](./288033-apb.json) |
+| APB | 288034 | [288034-apb.json](./288034-apb.json) |
 | APB | 37097 | [37097-apb.json](./37097-apb.json) |
 | APB: All Points Bulletin | 23369 | [23369-apb-all-points-bulletin.json](./23369-apb-all-points-bulletin.json) |
 | APE | 404982 | [404982-ape.json](./404982-ape.json) |
@@ -15105,6 +15110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
 | Avatar Superstar | 20120 | [20120-avatar-superstar.json](./20120-avatar-superstar.json) |
 | Avatar Warfare! | 59778 | [59778-avatar-warfare.json](./59778-avatar-warfare.json) |
+| Avatar World | 288155 | [288155-avatar-world.json](./288155-avatar-world.json) |
 | Avatar: Consolidate | 103831 | [103831-avatar-consolidate.json](./103831-avatar-consolidate.json) |
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
 | Avatar: Frontiers of Pandora - Deluxe Edition | 283590 | [283590-avatar-frontiers-of-pandora-deluxe-edition.json](./283590-avatar-frontiers-of-pandora-deluxe-edition.json) |
