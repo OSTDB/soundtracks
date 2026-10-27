@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagaku Ninja-Tai Gatchaman | 62233 | [62233-kagaku-ninja-tai-gatchaman.json](./62233-kagaku-ninja-tai-gatchaman.json) |
 | Kagami | 410415 | [410415-kagami.json](./410415-kagami.json) |
 | Kagami no Kuni no Legend | 256323 | [256323-kagami-no-kuni-no-legend.json](./256323-kagami-no-kuni-no-legend.json) |
+| Kagami: An Odyssey in Japanese Language Learning | 284190 | [284190-kagami-an-odyssey-in-japanese-language-learning.json](./284190-kagami-an-odyssey-in-japanese-language-learning.json) |
 | Kagamihara/Justice | 222256 | [222256-kagamihara-justice.json](./222256-kagamihara-justice.json) |
 | Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
 | Kaged | 6519 | [6519-kaged.json](./6519-kaged.json) |
@@ -2394,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4515,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea | 324668 | [324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json](./324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json) |
 | Kono Aozora ni Yakusoku wo: Refine | 324677 | [324677-kono-aozora-ni-yakusoku-wo-refine.json](./324677-kono-aozora-ni-yakusoku-wo-refine.json) |
 | Kono Aozora ni Yakusoku wo: Te no Hira no Rakuen | 324676 | [324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json](./324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json) |
+| Kono Bushitsu ha Kitaku Shinai-bu ga Senkyo Shimashita: Portable - Gakuen Dog Year-hen | 284392 | [284392-kono-bushitsu-ha-kitaku-shinai-bu-ga-senkyo-shimashita-portable-gakuen-dog-year-hen.json](./284392-kono-bushitsu-ha-kitaku-shinai-bu-ga-senkyo-shimashita-portable-gakuen-dog-year-hen.json) |
 | Kono Hareta Sora no Shita de | 77885 | [77885-kono-hareta-sora-no-shita-de.json](./77885-kono-hareta-sora-no-shita-de.json) |
 | Kono Koi, 5-fun de Owarimasu. | 396656 | [396656-kono-koi-5-fun-de-owarimasu.json](./396656-kono-koi-5-fun-de-owarimasu.json) |
 | Kono Koi, Seishun ni Yori. | 194585 | [194585-kono-koi-seishun-ni-yori.json](./194585-kono-koi-seishun-ni-yori.json) |
