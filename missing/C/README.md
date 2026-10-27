@@ -2823,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle | 166672 | [166672-castle.json](./166672-castle.json) |
 | Castle | 331325 | [331325-castle.json](./331325-castle.json) |
 | Castle & Myosotis | 178662 | [178662-castle-and-myosotis.json](./178662-castle-and-myosotis.json) |
+| Castle 3D | 323665 | [323665-castle-3d.json](./323665-castle-3d.json) |
 | Castle Adventure | 46645 | [46645-castle-adventure.json](./46645-castle-adventure.json) |
 | Castle Age HD | 109065 | [109065-castle-age-hd.json](./109065-castle-age-hd.json) |
 | Castle and Cursor | 374818 | [374818-castle-and-cursor.json](./374818-castle-and-cursor.json) |
@@ -4165,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Dart Wheel | 296087 | [296087-cazzarion-dart-wheel.json](./296087-cazzarion-dart-wheel.json) |
 | Cazzarion: Drone Attack | 320760 | [320760-cazzarion-drone-attack.json](./320760-cazzarion-drone-attack.json) |
 | Cazzarion: Drone Flight | 317566 | [317566-cazzarion-drone-flight.json](./317566-cazzarion-drone-flight.json) |
+| Cazzarion: Fallen Kingdom | 323682 | [323682-cazzarion-fallen-kingdom.json](./323682-cazzarion-fallen-kingdom.json) |
 | Cazzarion: Fishing | 335091 | [335091-cazzarion-fishing.json](./335091-cazzarion-fishing.json) |
 | Cazzarion: Flak Battle | 306051 | [306051-cazzarion-flak-battle.json](./306051-cazzarion-flak-battle.json) |
 | Cazzarion: Forest Defense | 299507 | [299507-cazzarion-forest-defense.json](./299507-cazzarion-forest-defense.json) |
@@ -9285,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Platform Jumper | 3861 | [3861-cocoto-platform-jumper.json](./3861-cocoto-platform-jumper.json) |
 | Cocoto Surprise | 50983 | [50983-cocoto-surprise.json](./50983-cocoto-surprise.json) |
 | Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
+| Cod Quest! | 323673 | [323673-cod-quest.json](./323673-cod-quest.json) |
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 338681 | [338681-coda.json](./338681-coda.json) |
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
@@ -10163,6 +10166,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Travel MAX | 95296 | [95296-coloring-book-travel-max.json](./95296-coloring-book-travel-max.json) |
 | Coloring Book - Yummies | 89528 | [89528-coloring-book-yummies.json](./89528-coloring-book-yummies.json) |
 | Coloring Book - ZOO MAX | 100656 | [100656-coloring-book-zoo-max.json](./100656-coloring-book-zoo-max.json) |
+| Coloring Book for Adults 2 | 323674 | [323674-coloring-book-for-adults-2.json](./323674-coloring-book-for-adults-2.json) |
+| Coloring Book for Adults 2: Full Version | 323676 | [323676-coloring-book-for-adults-2-full-version.json](./323676-coloring-book-for-adults-2-full-version.json) |
 | Coloring Book for Kids | 162618 | [162618-coloring-book-for-kids.json](./162618-coloring-book-for-kids.json) |
 | Coloring Book for Kids: Full Version | 162615 | [162615-coloring-book-for-kids-full-version.json](./162615-coloring-book-for-kids-full-version.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
@@ -12278,6 +12283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corid | 416339 | [416339-corid.json](./416339-corid.json) |
 | Coridden | 158972 | [158972-coridden.json](./158972-coridden.json) |
 | Coridden: Deluxe Edition | 380150 | [380150-coridden-deluxe-edition.json](./380150-coridden-deluxe-edition.json) |
+| Coring | 323684 | [323684-coring.json](./323684-coring.json) |
 | Corinne | 377986 | [377986-corinne.json](./377986-corinne.json) |
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
