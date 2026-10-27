@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin no Mondai: The Wars | 141147 | [141147-penguin-no-mondai-the-wars.json](./141147-penguin-no-mondai-the-wars.json) |
 | Penguin no Mondai+ Bakushou! Roulette Battle!! | 222490 | [222490-penguin-no-mondai-bakushou-roulette-battle.json](./222490-penguin-no-mondai-bakushou-roulette-battle.json) |
 | Penguin Noir | 247764 | [247764-penguin-noir.json](./247764-penguin-noir.json) |
+| Penguin Origins | 327711 | [327711-penguin-origins.json](./327711-penguin-origins.json) |
 | Penguin Pairs | 239109 | [239109-penguin-pairs.json](./239109-penguin-pairs.json) |
 | Penguin Panic | 162838 | [162838-penguin-panic.json](./162838-penguin-panic.json) |
 | Penguin Panic! | 311564 | [311564-penguin-panic.json](./311564-penguin-panic.json) |
@@ -4951,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano: Learn and Play - Ultra Special | 304791 | [304791-piano-learn-and-play-ultra-special.json](./304791-piano-learn-and-play-ultra-special.json) |
 | Pianoforte | 251476 | [251476-pianoforte.json](./251476-pianoforte.json) |
 | PianoGlow | 338633 | [338633-pianoglow.json](./338633-pianoglow.json) |
+| PianoVision | 327725 | [327725-pianovision.json](./327725-pianovision.json) |
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
 | Piatka | 55779 | [55779-piatka.json](./55779-piatka.json) |
@@ -6181,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Pinyon Shift | 421204 | [421204-pinyon-shift.json](./421204-pinyon-shift.json) |
 | Pinzzo | 195597 | [195597-pinzzo.json](./195597-pinzzo.json) |
+| Pio | 327713 | [327713-pio.json](./327713-pio.json) |
 | Pio the Chick | 391663 | [391663-pio-the-chick.json](./391663-pio-the-chick.json) |
 | Piofiore no Banshou | 69342 | [69342-piofiore-no-banshou.json](./69342-piofiore-no-banshou.json) |
 | Piofiore: Episodio 1926 | 136944 | [136944-piofiore-episodio-1926.json](./136944-piofiore-episodio-1926.json) |
@@ -9638,6 +9641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Star Sapphire | 288074 | [288074-pokemon-star-sapphire.json](./288074-pokemon-star-sapphire.json) |
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
 | Pokémon Stranded | 252122 | [252122-pokemon-stranded.json](./252122-pokemon-stranded.json) |
+| Pokémon Study: Hikaruze! Pokémon Typing PC | 327714 | [327714-pokemon-study-hikaruze-pokemon-typing-pc.json](./327714-pokemon-study-hikaruze-pokemon-typing-pc.json) |
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
 | Pokémon Sun Moon Double Pack | 136900 | [136900-pokemon-sun-moon-double-pack.json](./136900-pokemon-sun-moon-double-pack.json) |
 | Pokémon Super Gold 97 | 142232 | [142232-pokemon-super-gold-97.json](./142232-pokemon-super-gold-97.json) |
@@ -12198,6 +12202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia Classic | 21797 | [21797-prince-of-persia-classic.json](./21797-prince-of-persia-classic.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
 | Prince of Persia Collection: Limited Edition | 209893 | [209893-prince-of-persia-collection-limited-edition.json](./209893-prince-of-persia-collection-limited-edition.json) |
+| Prince of Persia HD | 327769 | [327769-prince-of-persia-hd.json](./327769-prince-of-persia-hd.json) |
 | Prince of Persia Retro | 284854 | [284854-prince-of-persia-retro.json](./284854-prince-of-persia-retro.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
 | Prince of Persia Trilogy HD | 21715 | [21715-prince-of-persia-trilogy-hd.json](./21715-prince-of-persia-trilogy-hd.json) |
