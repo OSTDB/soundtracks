@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Rensenki: Omoide Gaeshi + Gakuen Rensenki | 222246 | [222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json](./222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json) |
 | Sangoku Rensenki: Otome no Heihou! Omoidegaeshi | 221596 | [221596-sangoku-rensenki-otome-no-heihou-omoidegaeshi.json](./221596-sangoku-rensenki-otome-no-heihou-omoidegaeshi.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
+| Sangoku Taisen Smash! | 302994 | [302994-sangoku-taisen-smash.json](./302994-sangoku-taisen-smash.json) |
 | Sangoku Xiangqi | 259096 | [259096-sangoku-xiangqi.json](./259096-sangoku-xiangqi.json) |
 | Sangoku-hime 2: Kouki Houkou, Mezameshi Taiga | 313993 | [313993-sangoku-hime-2-kouki-houkou-mezameshi-taiga.json](./313993-sangoku-hime-2-kouki-houkou-mezameshi-taiga.json) |
 | Sangoku-hime 2: Tenka Hatou, Shishi no Keishousha | 313994 | [313994-sangoku-hime-2-tenka-hatou-shishi-no-keishousha.json](./313994-sangoku-hime-2-tenka-hatou-shishi-no-keishousha.json) |
@@ -3530,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
 | SEAL Team 12 | 17602 | [17602-seal-team-12.json](./17602-seal-team-12.json) |
 | Seal the Breach | 405762 | [405762-seal-the-breach.json](./405762-seal-the-breach.json) |
+| Seal the Rift | 302896 | [302896-seal-the-rift.json](./302896-seal-the-rift.json) |
 | Seal World | 168583 | [168583-seal-world.json](./168583-seal-world.json) |
 | Seal: Travelers of Destiny | 63106 | [63106-seal-travelers-of-destiny.json](./63106-seal-travelers-of-destiny.json) |
 | Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
@@ -5066,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Set a Watch: Digital Edition | 341982 | [341982-set-a-watch-digital-edition.json](./341982-set-a-watch-digital-edition.json) |
 | Set Adrift | 374027 | [374027-set-adrift.json](./374027-set-adrift.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
+| Set Sail! Arena | 302897 | [302897-set-sail-arena.json](./302897-set-sail-arena.json) |
 | Set with Friends | 319614 | [319614-set-with-friends.json](./319614-set-with-friends.json) |
 | Set Yourself on Fire | 306616 | [306616-set-yourself-on-fire.json](./306616-set-yourself-on-fire.json) |
 | Setback | 198558 | [198558-setback.json](./198558-setback.json) |
@@ -6960,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikokushi: Food and Sightseeing and Beauties | 168606 | [168606-shikokushi-food-and-sightseeing-and-beauties.json](./168606-shikokushi-food-and-sightseeing-and-beauties.json) |
 | Shikoutei no Michi he | 223963 | [223963-shikoutei-no-michi-he.json](./223963-shikoutei-no-michi-he.json) |
 | Shil | 400483 | [400483-shil.json](./400483-shil.json) |
+| Shiling | 302974 | [302974-shiling.json](./302974-shiling.json) |
 | Shíliù Zhāng Mahjong | 128548 | [128548-shiliu-zhang-mahjong.json](./128548-shiliu-zhang-mahjong.json) |
 | Shíliù Zhāng Mahjong II | 128549 | [128549-shiliu-zhang-mahjong-ii.json](./128549-shiliu-zhang-mahjong-ii.json) |
 | Shillelagh | 181021 | [181021-shillelagh.json](./181021-shillelagh.json) |
@@ -11175,6 +11179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayin DX | 266754 | [266754-slayin-dx.json](./266754-slayin-dx.json) |
 | Slaymeji: Roguelite Desktop Survivor | 415784 | [415784-slaymeji-roguelite-desktop-survivor.json](./415784-slaymeji-roguelite-desktop-survivor.json) |
 | Slays Demons in the DaTang | 368369 | [368369-slays-demons-in-the-datang.json](./368369-slays-demons-in-the-datang.json) |
+| Slayscape | 302972 | [302972-slayscape.json](./302972-slayscape.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | SlaytheCube Remake | 133898 | [133898-slaythecube-remake.json](./133898-slaythecube-remake.json) |
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
@@ -14403,6 +14408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song Song | 273406 | [273406-song-song.json](./273406-song-song.json) |
 | Song Summoner: The Unsung Heroes | 23042 | [23042-song-summoner-the-unsung-heroes.json](./23042-song-summoner-the-unsung-heroes.json) |
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
+| SongBird: FlingAThing | 302899 | [302899-songbird-flingathing.json](./302899-songbird-flingathing.json) |
 | Songbirds: Creative Gaming | 174231 | [174231-songbirds-creative-gaming.json](./174231-songbirds-creative-gaming.json) |
 | Songboy | 377651 | [377651-songboy.json](./377651-songboy.json) |
 | Songbringer Bundle | 118864 | [118864-songbringer-bundle.json](./118864-songbringer-bundle.json) |
@@ -17451,6 +17457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparky: Hills of Death | 303993 | [303993-sparky-hills-of-death.json](./303993-sparky-hills-of-death.json) |
 | Sparky: The Christmas Elf | 175568 | [175568-sparky-the-christmas-elf.json](./175568-sparky-the-christmas-elf.json) |
 | Sparky's Hunt | 31681 | [31681-sparkys-hunt.json](./31681-sparkys-hunt.json) |
+| Sparrow | 302900 | [302900-sparrow.json](./302900-sparrow.json) |
 | Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
 | Sparrow Shop | 384196 | [384196-sparrow-shop.json](./384196-sparrow-shop.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
@@ -18199,6 +18206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
 | Spice Odyssey | 310492 | [310492-spice-odyssey.json](./310492-spice-odyssey.json) |
 | Spice Road | 17287 | [17287-spice-road.json](./17287-spice-road.json) |
+| Spice Trade | 302903 | [302903-spice-trade.json](./302903-spice-trade.json) |
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
 | SpiceX | 362994 | [362994-spicex.json](./362994-spicex.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
@@ -18883,6 +18891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Apart | 324313 | [324313-split-apart.json](./324313-split-apart.json) |
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
 | Split Bullet | 33341 | [33341-split-bullet.json](./33341-split-bullet.json) |
+| Split Decision | 302901 | [302901-split-decision.json](./302901-split-decision.json) |
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
 | Split Echo | 265493 | [265493-split-echo.json](./265493-split-echo.json) |
 | Split Fiction: Friend's Pass | 347331 | [347331-split-fiction-friends-pass.json](./347331-split-fiction-friends-pass.json) |
