@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone-X | 118114 | [118114-warzone-x.json](./118114-warzone-x.json) |
 | Warzone: Clash of Generals | 71018 | [71018-warzone-clash-of-generals.json](./71018-warzone-clash-of-generals.json) |
 | Warzoom | 263999 | [263999-warzoom.json](./263999-warzoom.json) |
+| Was God Birthed!? | 308200 | [308200-was-god-birthed.json](./308200-was-god-birthed.json) |
 | Was it a Cat I Saw? | 207203 | [207203-was-it-a-cat-i-saw.json](./207203-was-it-a-cat-i-saw.json) |
 | Was It Worth It? | 152811 | [152811-was-it-worth-it.json](./152811-was-it-worth-it.json) |
 | WAS: The Hourglass of Lepidoptera | 139044 | [139044-was-the-hourglass-of-lepidoptera.json](./139044-was-the-hourglass-of-lepidoptera.json) |
@@ -2111,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Pipes | 104092 | [104092-water-pipes.json](./104092-water-pipes.json) |
 | Water Pipes 3 | 102842 | [102842-water-pipes-3.json](./102842-water-pipes-3.json) |
 | Water Planet | 27297 | [27297-water-planet.json](./27297-water-planet.json) |
+| Water Polo | 308141 | [308141-water-polo.json](./308141-water-polo.json) |
 | Water Polo | 346104 | [346104-water-polo.json](./346104-water-polo.json) |
 | Water Rain | 158077 | [158077-water-rain.json](./158077-water-rain.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
@@ -3716,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Wally? Travel Pack 2 | 85485 | [85485-wheres-wally-travel-pack-2.json](./85485-wheres-wally-travel-pack-2.json) |
 | Where's Wally? Travel Pack 3 | 85484 | [85484-wheres-wally-travel-pack-3.json](./85484-wheres-wally-travel-pack-3.json) |
 | Where's Worldo?! | 229072 | [229072-wheres-worldo.json](./229072-wheres-worldo.json) |
+| WhereHurt | 308218 | [308218-wherehurt.json](./308218-wherehurt.json) |
 | Wherein She Completely Cuts Herself From Reality: A Parabolic Emotion from recovery into despair | 350977 | [350977-wherein-she-completely-cuts-herself-from-reality-a-parabolic-emotion-from-recovery-into-despair.json](./350977-wherein-she-completely-cuts-herself-from-reality-a-parabolic-emotion-from-recovery-into-despair.json) |
 | WhereTaken | 323198 | [323198-wheretaken.json](./323198-wheretaken.json) |
 | WhereTaken Classic | 246242 | [246242-wheretaken-classic.json](./246242-wheretaken-classic.json) |
