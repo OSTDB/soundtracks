@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes Ⅱ | 303505 | [303505-echoes-ii.json](./303505-echoes-ii.json) |
 | Echoes III | 107373 | [107373-echoes-iii.json](./107373-echoes-iii.json) |
 | Echoes In Static | 395879 | [395879-echoes-in-static.json](./395879-echoes-in-static.json) |
+| Echoes in the Deep: A Fateforge Tale | 302326 | [302326-echoes-in-the-deep-a-fateforge-tale.json](./302326-echoes-in-the-deep-a-fateforge-tale.json) |
 | Echoes in the Storm | 373216 | [373216-echoes-in-the-storm.json](./373216-echoes-in-the-storm.json) |
 | Echoes in White | 110723 | [110723-echoes-in-white.json](./110723-echoes-in-white.json) |
 | Echoes of a Thread | 393053 | [393053-echoes-of-a-thread.json](./393053-echoes-of-a-thread.json) |
@@ -3467,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma Express: Hidden Objects | 233629 | [233629-enigma-express-hidden-objects.json](./233629-enigma-express-hidden-objects.json) |
 | Enigma Force | 14055 | [14055-enigma-force.json](./14055-enigma-force.json) |
 | Enigma Heart | 351000 | [351000-enigma-heart.json](./351000-enigma-heart.json) |
+| Enigma of Forest | 302393 | [302393-enigma-of-forest.json](./302393-enigma-of-forest.json) |
 | Enigma of Sector Sigma | 262986 | [262986-enigma-of-sector-sigma.json](./262986-enigma-of-sector-sigma.json) |
 | Enigma of Sépia | 331861 | [331861-enigma-of-sepia.json](./331861-enigma-of-sepia.json) |
 | Enigma Prison | 32096 | [32096-enigma-prison.json](./32096-enigma-prison.json) |
@@ -4382,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Heaven | 183808 | [183808-escape-from-heaven.json](./183808-escape-from-heaven.json) |
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
 | Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
+| Escape from Hornhead | 302338 | [302338-escape-from-hornhead.json](./302338-escape-from-hornhead.json) |
 | Escape from hospital | 169392 | [169392-escape-from-hospital.json](./169392-escape-from-hospital.json) |
 | Escape from Irene | 329565 | [329565-escape-from-irene.json](./329565-escape-from-irene.json) |
 | Escape from Irene: Parasite | 370856 | [370856-escape-from-irene-parasite.json](./370856-escape-from-irene-parasite.json) |
