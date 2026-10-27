@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Knights Adventure | 156574 | [156574-a-knights-adventure.json](./156574-a-knights-adventure.json) |
 | A knots story | 101705 | [101705-a-knots-story.json](./101705-a-knots-story.json) |
 | A Kobold Story : Trenchcoat Adventurer | 373570 | [373570-a-kobold-story-trenchcoat-adventurer.json](./373570-a-kobold-story-trenchcoat-adventurer.json) |
+| A Koopa's Adventure | 320209 | [320209-a-koopas-adventure.json](./320209-a-koopas-adventure.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Koopa's Revenge 2 | 307669 | [307669-a-koopas-revenge-2.json](./307669-a-koopas-revenge-2.json) |
 | A Kristus Story: A Night Market Holiday Tale | 322048 | [322048-a-kristus-story-a-night-market-holiday-tale.json](./322048-a-kristus-story-a-night-market-holiday-tale.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Sanctuary | 308362 | [308362-alien-sanctuary.json](./308362-alien-sanctuary.json) |
 | Alien Scumbags | 124627 | [124627-alien-scumbags.json](./124627-alien-scumbags.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
+| Alien Ship Console | 320205 | [320205-alien-ship-console.json](./320205-alien-ship-console.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 2: Reloaded | 11088 | [11088-alien-shooter-2-reloaded.json](./11088-alien-shooter-2-reloaded.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
@@ -8241,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry King | 301121 | [301121-angry-king.json](./301121-angry-king.json) |
 | Angry Mother Earth | 265562 | [265562-angry-mother-earth.json](./265562-angry-mother-earth.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
+| Angry Neighbor Simulator | 320219 | [320219-angry-neighbor-simulator.json](./320219-angry-neighbor-simulator.json) |
 | Angry Neighbor: The Strange House | 241833 | [241833-angry-neighbor-the-strange-house.json](./241833-angry-neighbor-the-strange-house.json) |
 | Angry Neighbor: The Temporary Neighbor | 241838 | [241838-angry-neighbor-the-temporary-neighbor.json](./241838-angry-neighbor-the-temporary-neighbor.json) |
 | Angry Penguin | 294597 | [294597-angry-penguin.json](./294597-angry-penguin.json) |
