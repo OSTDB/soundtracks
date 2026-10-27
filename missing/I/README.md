@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Sky Nomads Campaign | 254906 | [254906-il-2-sturmovik-sky-nomads-campaign.json](./254906-il-2-sturmovik-sky-nomads-campaign.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Il-2 Sturmovik: Ultimate Edition | 146130 | [146130-il-2-sturmovik-ultimate-edition.json](./146130-il-2-sturmovik-ultimate-edition.json) |
+| IL13-Sonya E-Links | 331235 | [331235-il13-sonya-e-links.json](./331235-il13-sonya-e-links.json) |
 | Ilamentia | 36133 | [36133-ilamentia.json](./36133-ilamentia.json) |
 | Ilavath: Battle Arenas | 291723 | [291723-ilavath-battle-arenas.json](./291723-ilavath-battle-arenas.json) |
 | Ilbis: The Ocean of Death | 83873 | [83873-ilbis-the-ocean-of-death.json](./83873-ilbis-the-ocean-of-death.json) |
