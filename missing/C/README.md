@@ -10457,11 +10457,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
 | Coloring Pixels: RPG Book | 162592 | [162592-coloring-pixels-rpg-book.json](./162592-coloring-pixels-rpg-book.json) |
 | Coloring Pixels: Safari Pack | 162594 | [162594-coloring-pixels-safari-pack.json](./162594-coloring-pixels-safari-pack.json) |
+| Coloring Pixels: Sci-Fi Fantasy Vistas Pack | 280951 | [280951-coloring-pixels-sci-fi-fantasy-vistas-pack.json](./280951-coloring-pixels-sci-fi-fantasy-vistas-pack.json) |
 | Coloring Pixels: Space Pack | 162596 | [162596-coloring-pixels-space-pack.json](./162596-coloring-pixels-space-pack.json) |
 | Coloring Pixels: Spring Pack | 162597 | [162597-coloring-pixels-spring-pack.json](./162597-coloring-pixels-spring-pack.json) |
 | Coloring Pixels: Steampunk Pack | 231329 | [231329-coloring-pixels-steampunk-pack.json](./231329-coloring-pixels-steampunk-pack.json) |
 | Coloring Pixels: Tarot Pack | 225005 | [225005-coloring-pixels-tarot-pack.json](./225005-coloring-pixels-tarot-pack.json) |
 | Coloring Pixels: Technology Pack | 162614 | [162614-coloring-pixels-technology-pack.json](./162614-coloring-pixels-technology-pack.json) |
+| Coloring Pixels: Time Travel Pack | 280950 | [280950-coloring-pixels-time-travel-pack.json](./280950-coloring-pixels-time-travel-pack.json) |
 | Coloring Pixels: Transport Pack | 255253 | [255253-coloring-pixels-transport-pack.json](./255253-coloring-pixels-transport-pack.json) |
 | Coloring Pixels: Variety Pack | 162603 | [162603-coloring-pixels-variety-pack.json](./162603-coloring-pixels-variety-pack.json) |
 | Coloring Pixels: Vistas Pack | 162595 | [162595-coloring-pixels-vistas-pack.json](./162595-coloring-pixels-vistas-pack.json) |
