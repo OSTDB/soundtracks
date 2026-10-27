@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Player Pro: Mega Man | 317711 | [317711-nano-player-pro-mega-man.json](./317711-nano-player-pro-mega-man.json) |
 | Nano Project | 28674 | [28674-nano-project.json](./28674-nano-project.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
+| Nano Runner | 297531 | [297531-nano-runner.json](./297531-nano-runner.json) |
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
 | Nano Squadron | 391986 | [391986-nano-squadron.json](./391986-nano-squadron.json) |
 | Nano Wars | 157018 | [157018-nano-wars.json](./157018-nano-wars.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoCars | 258324 | [258324-neocars.json](./258324-neocars.json) |
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
 | Neoclassical: Chromaticist | 348133 | [348133-neoclassical-chromaticist.json](./348133-neoclassical-chromaticist.json) |
+| Neoclyps | 297438 | [297438-neoclyps.json](./297438-neoclyps.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
 | Neocon Tower Defence 3 | 297157 | [297157-neocon-tower-defence-3.json](./297157-neocon-tower-defence-3.json) |
 | NeoCore: Dark Depths | 140877 | [140877-neocore-dark-depths.json](./140877-neocore-dark-depths.json) |
@@ -3162,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
 | NFL 2010 | 21847 | [21847-nfl-2010.json](./21847-nfl-2010.json) |
 | NFL 2K | 8842 | [8842-nfl-2k.json](./8842-nfl-2k.json) |
+| NFL 2K Playmakers | 299177 | [299177-nfl-2k-playmakers.json](./299177-nfl-2k-playmakers.json) |
 | NFL 2K1 | 8843 | [8843-nfl-2k1.json](./8843-nfl-2k1.json) |
 | NFL 2K2 | 8845 | [8845-nfl-2k2.json](./8845-nfl-2k2.json) |
 | NFL Blitz | 19807 | [19807-nfl-blitz.json](./19807-nfl-blitz.json) |
@@ -4321,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Captains | 85604 | [85604-ninja-captains.json](./85604-ninja-captains.json) |
 | Ninja Castle Escape | 156939 | [156939-ninja-castle-escape.json](./156939-ninja-castle-escape.json) |
 | Ninja Cat Remewstered | 406931 | [406931-ninja-cat-remewstered.json](./406931-ninja-cat-remewstered.json) |
+| Ninja Cats | 299192 | [299192-ninja-cats.json](./299192-ninja-cats.json) |
 | Ninja Cats vs Samurai Dogs | 16795 | [16795-ninja-cats-vs-samurai-dogs.json](./16795-ninja-cats-vs-samurai-dogs.json) |
 | Ninja Cats: Tactics | 361799 | [361799-ninja-cats-tactics.json](./361799-ninja-cats-tactics.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
@@ -4494,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Senki | 92465 | [92465-ninja-senki.json](./92465-ninja-senki.json) |
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
 | Ninja Sentai Kakuranger | 310198 | [310198-ninja-sentai-kakuranger.json](./310198-ninja-sentai-kakuranger.json) |
+| Ninja Shadow: Shall we Date? | 299195 | [299195-ninja-shadow-shall-we-date.json](./299195-ninja-shadow-shall-we-date.json) |
 | Ninja Shodown | 194215 | [194215-ninja-shodown.json](./194215-ninja-shodown.json) |
 | Ninja Shurican | 183467 | [183467-ninja-shurican.json](./183467-ninja-shurican.json) |
 | Ninja Shuriken Master | 300855 | [300855-ninja-shuriken-master.json](./300855-ninja-shuriken-master.json) |
@@ -4543,6 +4548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja World | 268104 | [268104-ninja-world.json](./268104-ninja-world.json) |
 | Ninja World 2 | 268105 | [268105-ninja-world-2.json](./268105-ninja-world-2.json) |
 | Ninja World 3 | 268106 | [268106-ninja-world-3.json](./268106-ninja-world-3.json) |
+| Ninja World Adventure | 299193 | [299193-ninja-world-adventure.json](./299193-ninja-world-adventure.json) |
 | Ninja-Kid II | 41742 | [41742-ninja-kid-ii.json](./41742-ninja-kid-ii.json) |
 | Ninja-kun: Ashura no Shou | 230290 | [230290-ninja-kun-ashura-no-shou.json](./230290-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Ashura no Shou | 37326 | [37326-ninja-kun-ashura-no-shou.json](./37326-ninja-kun-ashura-no-shou.json) |
