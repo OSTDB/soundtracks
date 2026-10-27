@@ -4431,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CellFactor: Psychokinetic Wars | 21673 | [21673-cellfactor-psychokinetic-wars.json](./21673-cellfactor-psychokinetic-wars.json) |
 | CellFactor: Revolution | 21420 | [21420-cellfactor-revolution.json](./21420-cellfactor-revolution.json) |
 | CellFighter | 93216 | [93216-cellfighter.json](./93216-cellfighter.json) |
+| Cellfish | 287063 | [287063-cellfish.json](./287063-cellfish.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
 | Cellitaire | 338713 | [338713-cellitaire.json](./338713-cellitaire.json) |
 | Cellmons | 204562 | [204562-cellmons.json](./204562-cellmons.json) |
