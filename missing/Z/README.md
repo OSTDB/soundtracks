@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Simulator | 150278 | [150278-zombie-simulator.json](./150278-zombie-simulator.json) |
 | Zombie Skape | 84968 | [84968-zombie-skape.json](./84968-zombie-skape.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
+| Zombie Slaughter: Dead Zone | 317882 | [317882-zombie-slaughter-dead-zone.json](./317882-zombie-slaughter-dead-zone.json) |
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
 | Zombie Slayer Diox | 84967 | [84967-zombie-slayer-diox.json](./84967-zombie-slayer-diox.json) |
 | Zombie Slayers | 129031 | [129031-zombie-slayers.json](./129031-zombie-slayers.json) |
@@ -1904,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Quest | 20277 | [20277-zoo-quest.json](./20277-zoo-quest.json) |
 | Zoo Rampage | 17622 | [17622-zoo-rampage.json](./17622-zoo-rampage.json) |
 | Zoo Rescue | 92301 | [92301-zoo-rescue.json](./92301-zoo-rescue.json) |
+| Zoo Rescue: Match 3 & Animals | 317878 | [317878-zoo-rescue-match-3-and-animals.json](./317878-zoo-rescue-match-3-and-animals.json) |
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
 | Zoo Sounds: Fun Educational Games for Kids | 95654 | [95654-zoo-sounds-fun-educational-games-for-kids.json](./95654-zoo-sounds-fun-educational-games-for-kids.json) |
 | Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
