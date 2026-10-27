@@ -5186,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Offworld Arena | 102371 | [102371-heroes-of-the-offworld-arena.json](./102371-heroes-of-the-offworld-arena.json) |
 | Heroes of the Pacific | 5861 | [5861-heroes-of-the-pacific.json](./5861-heroes-of-the-pacific.json) |
 | Heroes of the Seasons | 285671 | [285671-heroes-of-the-seasons.json](./285671-heroes-of-the-seasons.json) |
+| Heroes of the Seven Islands | 324252 | [324252-heroes-of-the-seven-islands.json](./324252-heroes-of-the-seven-islands.json) |
 | Heroes of the Seven Seas | 33673 | [33673-heroes-of-the-seven-seas.json](./33673-heroes-of-the-seven-seas.json) |
 | Heroes of the Three Kingdoms 2 | 143499 | [143499-heroes-of-the-three-kingdoms-2.json](./143499-heroes-of-the-three-kingdoms-2.json) |
 | Heroes of the Three Kingdoms 3 | 143504 | [143504-heroes-of-the-three-kingdoms-3.json](./143504-heroes-of-the-three-kingdoms-3.json) |
@@ -5741,7 +5742,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats in Spooky Village | 375577 | [375577-hidden-cats-in-spooky-village.json](./375577-hidden-cats-in-spooky-village.json) |
 | Hidden Cats in Town | 244274 | [244274-hidden-cats-in-town.json](./244274-hidden-cats-in-town.json) |
 | Hidden Cats In White Sand Village | 367036 | [367036-hidden-cats-in-white-sand-village.json](./367036-hidden-cats-in-white-sand-village.json) |
+| Hidden Cats of Atlantis | 324246 | [324246-hidden-cats-of-atlantis.json](./324246-hidden-cats-of-atlantis.json) |
 | Hidden Cats of Egypt | 322096 | [322096-hidden-cats-of-egypt.json](./322096-hidden-cats-of-egypt.json) |
+| Hidden Cats of Mars | 324245 | [324245-hidden-cats-of-mars.json](./324245-hidden-cats-of-mars.json) |
 | Hidden Cats of Mayan | 340471 | [340471-hidden-cats-of-mayan.json](./340471-hidden-cats-of-mayan.json) |
 | Hidden Cats of Shanghai | 340472 | [340472-hidden-cats-of-shanghai.json](./340472-hidden-cats-of-shanghai.json) |
 | Hidden Cats on Christmas | 380707 | [380707-hidden-cats-on-christmas.json](./380707-hidden-cats-on-christmas.json) |
