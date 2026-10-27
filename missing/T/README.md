@@ -5268,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Rescue Expedition | 374828 | [374828-the-backrooms-rescue-expedition.json](./374828-the-backrooms-rescue-expedition.json) |
 | The Backrooms: Reset | 365740 | [365740-the-backrooms-reset.json](./365740-the-backrooms-reset.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
+| The Backrooms: Unseen Tapes | 288802 | [288802-the-backrooms-unseen-tapes.json](./288802-the-backrooms-unseen-tapes.json) |
 | The Backrooms: You've Been Here Before | 276161 | [276161-the-backrooms-youve-been-here-before.json](./276161-the-backrooms-youve-been-here-before.json) |
 | The Backstreets | 304289 | [304289-the-backstreets.json](./304289-the-backstreets.json) |
 | The Backworld | 201539 | [201539-the-backworld.json](./201539-the-backworld.json) |
@@ -5759,12 +5760,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boo-chelor | 372668 | [372668-the-boo-chelor.json](./372668-the-boo-chelor.json) |
 | The Boogie Man | 46987 | [46987-the-boogie-man.json](./46987-the-boogie-man.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
+| The book by the blue | 288723 | [288723-the-book-by-the-blue.json](./288723-the-book-by-the-blue.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Buja | 305248 | [305248-the-book-of-buja.json](./305248-the-book-of-buja.json) |
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Desires | 33874 | [33874-the-book-of-desires.json](./33874-the-book-of-desires.json) |
 | The Book of Distance | 161568 | [161568-the-book-of-distance.json](./161568-the-book-of-distance.json) |
+| The Book of Good | 288724 | [288724-the-book-of-good.json](./288724-the-book-of-good.json) |
 | The Book of Lulu | 281295 | [281295-the-book-of-lulu.json](./281295-the-book-of-lulu.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
 | The Book of Plagues | 346180 | [346180-the-book-of-plagues.json](./346180-the-book-of-plagues.json) |
@@ -8615,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
 | The Girl In White | 376655 | [376655-the-girl-in-white.json](./376655-the-girl-in-white.json) |
 | The Girl on the Train | 74247 | [74247-the-girl-on-the-train.json](./74247-the-girl-on-the-train.json) |
+| The Girl Under The Tree: Anna | 288796 | [288796-the-girl-under-the-tree-anna.json](./288796-the-girl-under-the-tree-anna.json) |
 | The Girl Walks Back | 393542 | [393542-the-girl-walks-back.json](./393542-the-girl-walks-back.json) |
 | The Girl Who Kicked a Rabbit | 253302 | [253302-the-girl-who-kicked-a-rabbit.json](./253302-the-girl-who-kicked-a-rabbit.json) |
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
@@ -20100,6 +20104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Hoops: Idle Shooter | 392304 | [392304-tiny-hoops-idle-shooter.json](./392304-tiny-hoops-idle-shooter.json) |
 | Tiny Hope | 70895 | [70895-tiny-hope.json](./70895-tiny-hope.json) |
 | Tiny House | 182858 | [182858-tiny-house.json](./182858-tiny-house.json) |
+| Tiny House | 288589 | [288589-tiny-house.json](./288589-tiny-house.json) |
 | Tiny House Finds | 383676 | [383676-tiny-house-finds.json](./383676-tiny-house-finds.json) |
 | Tiny House Simulator | 318617 | [318617-tiny-house-simulator.json](./318617-tiny-house-simulator.json) |
 | Tiny Hunter | 154080 | [154080-tiny-hunter.json](./154080-tiny-hunter.json) |
@@ -20654,6 +20659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the End 2 | 174304 | [174304-to-the-end-2.json](./174304-to-the-end-2.json) |
 | To the End of the Way | 327432 | [327432-to-the-end-of-the-way.json](./327432-to-the-end-of-the-way.json) |
 | To the Finale. | 373713 | [373713-to-the-finale.json](./373713-to-the-finale.json) |
+| To The Flame | 288587 | [288587-to-the-flame.json](./288587-to-the-flame.json) |
 | To The Grave: The Hunters of Faenora | 358385 | [358385-to-the-grave-the-hunters-of-faenora.json](./358385-to-the-grave-the-hunters-of-faenora.json) |
 | To The Grave: The Wildlands of Faenora | 307976 | [307976-to-the-grave-the-wildlands-of-faenora.json](./307976-to-the-grave-the-wildlands-of-faenora.json) |
 | To the Hall of the Mountain King | 279524 | [279524-to-the-hall-of-the-mountain-king.json](./279524-to-the-hall-of-the-mountain-king.json) |
@@ -22511,6 +22517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toto Quest | 204852 | [204852-toto-quest.json](./204852-toto-quest.json) |
 | Totò Sapore e La Magica Storia Della Pizza | 144813 | [144813-toto-sapore-e-la-magica-storia-della-pizza.json](./144813-toto-sapore-e-la-magica-storia-della-pizza.json) |
 | Toto Temple Deluxe | 20963 | [20963-toto-temple-deluxe.json](./20963-toto-temple-deluxe.json) |
+| Toto Zoo | 288588 | [288588-toto-zoo.json](./288588-toto-zoo.json) |
 | Toto's Journey | 410200 | [410200-totos-journey.json](./410200-totos-journey.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totoball | 54876 | [54876-totoball.json](./54876-totoball.json) |
