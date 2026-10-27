@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T19:01:17.695Z",
-  "total_soundtracks": 2618,
+  "generated_at": "2026-10-27T19:05:57.212Z",
+  "total_soundtracks": 2620,
   "games": [
     {
       "igdb_id": 7522,
@@ -10329,6 +10329,20 @@
       ]
     },
     {
+      "igdb_id": 130182,
+      "game_name": "Floppy Knights",
+      "game_url": "https://ostdb.net/games/floppy-knights",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736a608dfe1b28d607b43ba821",
+      "albums": [
+        {
+          "album_name": "Floppy Knights (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7ItttycyjQ4ZPNgGVcIBnv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1353,
       "game_name": "flOw",
       "game_url": "https://ostdb.net/games/flow",
@@ -19429,6 +19443,20 @@
         {
           "album_name": "Opus Magnum (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4Ah1TJHyNHpqmK6rAK7R3X",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 77569,
+      "game_name": "Opus: Rocket of Whispers",
+      "game_url": "https://ostdb.net/games/opus-rocket-of-whispers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734fdf780795ce4d16a39dc513",
+      "albums": [
+        {
+          "album_name": "OPUS: Rocket of Whispers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5I0p3fQ7ZKDZbCUte8CNV0",
           "apple_music_url": "",
           "album_link_url": ""
         }
