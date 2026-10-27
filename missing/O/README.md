@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
 | O Empire! Ward off Thy Rot | 399039 | [399039-o-empire-ward-off-thy-rot.json](./399039-o-empire-ward-off-thy-rot.json) |
+| O Enigma da Esfinge | 299113 | [299113-o-enigma-da-esfinge.json](./299113-o-enigma-da-esfinge.json) |
 | O Horror Amarelo | 338939 | [338939-o-horror-amarelo.json](./338939-o-horror-amarelo.json) |
 | O Jardim Magico 3 | 251380 | [251380-o-jardim-magico-3.json](./251380-o-jardim-magico-3.json) |
 | O Livro Mágico | 290084 | [290084-o-livro-magico.json](./290084-o-livro-magico.json) |
@@ -1964,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One King Is Enough | 348581 | [348581-one-king-is-enough.json](./348581-one-king-is-enough.json) |
 | One Last Adventure | 294808 | [294808-one-last-adventure.json](./294808-one-last-adventure.json) |
 | One Last Box | 408015 | [408015-one-last-box.json](./408015-one-last-box.json) |
+| One Last Breath: Seeds of Hope Edition | 298007 | [298007-one-last-breath-seeds-of-hope-edition.json](./298007-one-last-breath-seeds-of-hope-edition.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
 | One Last Clip | 347599 | [347599-one-last-clip.json](./347599-one-last-clip.json) |
 | One Last Crane | 95330 | [95330-one-last-crane.json](./95330-one-last-crane.json) |
@@ -2098,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night Stand | 25776 | [25776-one-night-stand.json](./25776-one-night-stand.json) |
 | One Night Too Many | 182805 | [182805-one-night-too-many.json](./182805-one-night-too-many.json) |
 | One Night Two Crazies | 31876 | [31876-one-night-two-crazies.json](./31876-one-night-two-crazies.json) |
+| One Night With Baba Yaga: A Gnosis Tale | 297994 | [297994-one-night-with-baba-yaga-a-gnosis-tale.json](./297994-one-night-with-baba-yaga-a-gnosis-tale.json) |
 | One Night with Clara | 171003 | [171003-one-night-with-clara.json](./171003-one-night-with-clara.json) |
 | One Night With Stalin | 392939 | [392939-one-night-with-stalin.json](./392939-one-night-with-stalin.json) |
 | One Night You're Crazy | 61645 | [61645-one-night-youre-crazy.json](./61645-one-night-youre-crazy.json) |
@@ -3819,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osouji Sentai Clean Keeper | 91785 | [91785-osouji-sentai-clean-keeper.json](./91785-osouji-sentai-clean-keeper.json) |
 | Osouji Sentai Clean Keeper H | 91784 | [91784-osouji-sentai-clean-keeper-h.json](./91784-osouji-sentai-clean-keeper-h.json) |
 | OSP Entertainment Complete Archive | 63792 | [63792-osp-entertainment-complete-archive.json](./63792-osp-entertainment-complete-archive.json) |
+| Ospesjel | 297415 | [297415-ospesjel.json](./297415-ospesjel.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
 | Ossan Kyoushi no Joshikousei Tsuma ga Yarichin Danshi ni Netorareru Hanashi | 82996 | [82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json](./82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
