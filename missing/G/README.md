@@ -4614,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Guess | 89981 | [89981-go-guess.json](./89981-go-guess.json) |
 | Go Hell Go Gou: Tsukiotoshitego | 378910 | [378910-go-hell-go-gou-tsukiotoshitego.json](./378910-go-hell-go-gou-tsukiotoshitego.json) |
 | Go Hell Go: Tsukiotoshiteko | 268002 | [268002-go-hell-go-tsukiotoshiteko.json](./268002-go-hell-go-tsukiotoshiteko.json) |
+| Go Hell Go: Tsukiotoshiteko - Limited Edition | 330079 | [330079-go-hell-go-tsukiotoshiteko-limited-edition.json](./330079-go-hell-go-tsukiotoshiteko-limited-edition.json) |
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Home - Rage incoming | 35400 | [35400-go-home-rage-incoming.json](./35400-go-home-rage-incoming.json) |
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
@@ -5229,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
 | Godzone 6 | 401926 | [401926-godzone-6.json](./401926-godzone-6.json) |
 | Goeland: Seagull Adventure | 292994 | [292994-goeland-seagull-adventure.json](./292994-goeland-seagull-adventure.json) |
+| Goemon 64: Recompiled | 330074 | [330074-goemon-64-recompiled.json](./330074-goemon-64-recompiled.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
 | Goemon: New Age Shutsudou! | 49598 | [49598-goemon-new-age-shutsudou.json](./49598-goemon-new-age-shutsudou.json) |
 | Goemon: Shin Sedai Shuumei | 73580 | [73580-goemon-shin-sedai-shuumei.json](./73580-goemon-shin-sedai-shuumei.json) |
