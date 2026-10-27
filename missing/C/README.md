@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan: The Trade Road | 390563 | [390563-caravan-the-trade-road.json](./390563-caravan-the-trade-road.json) |
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Caravaneer 2 | 102034 | [102034-caravaneer-2.json](./102034-caravaneer-2.json) |
+| Caravanners | 320126 | [320126-caravanners.json](./320126-caravanners.json) |
 | Caravanserail | 33387 | [33387-caravanserail.json](./33387-caravanserail.json) |
 | Caravel: Deadly Rooms of Death | 69705 | [69705-caravel-deadly-rooms-of-death.json](./69705-caravel-deadly-rooms-of-death.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
@@ -14301,6 +14302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures: Docking Station - Creatures 3 | 192135 | [192135-creatures-docking-station-creatures-3.json](./192135-creatures-docking-station-creatures-3.json) |
 | Creatures: Raised in Space | 46085 | [46085-creatures-raised-in-space.json](./46085-creatures-raised-in-space.json) |
 | Creaturing: Sea Wonders | 340561 | [340561-creaturing-sea-wonders.json](./340561-creaturing-sea-wonders.json) |
+| Creatzor: Isekai Dino Fighter | 320113 | [320113-creatzor-isekai-dino-fighter.json](./320113-creatzor-isekai-dino-fighter.json) |
 | Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
@@ -14576,6 +14578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Russia | 174027 | [174027-criminal-russia.json](./174027-criminal-russia.json) |
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
 | Criminal Stories: Presumed Partners | 417709 | [417709-criminal-stories-presumed-partners.json](./417709-criminal-stories-presumed-partners.json) |
+| Criminalist | 320120 | [320120-criminalist.json](./320120-criminalist.json) |
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
 | Criminally Yours | 347085 | [347085-criminally-yours.json](./347085-criminally-yours.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
@@ -15501,6 +15504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryostasis | 2967 | [2967-cryostasis.json](./2967-cryostasis.json) |
 | Cryowakers | 266428 | [266428-cryowakers.json](./266428-cryowakers.json) |
 | Cryphora | 342288 | [342288-cryphora.json](./342288-cryphora.json) |
+| Crypt | 320128 | [320128-crypt.json](./320128-crypt.json) |
 | Crypt | 376824 | [376824-crypt.json](./376824-crypt.json) |
 | Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
 | Crypt Capers | 348938 | [348938-crypt-capers.json](./348938-crypt-capers.json) |
