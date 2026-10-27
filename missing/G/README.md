@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameCenter CX: Arino no Chousenjou | 274424 | [274424-gamecenter-cx-arino-no-chousenjou.json](./274424-gamecenter-cx-arino-no-chousenjou.json) |
 | GameCenter CX: Arino no Chousenjou 2 | 274425 | [274425-gamecenter-cx-arino-no-chousenjou-2.json](./274425-gamecenter-cx-arino-no-chousenjou-2.json) |
 | GameCenter CX: Arino no Chousenjou 2 | 79923 | [79923-gamecenter-cx-arino-no-chousenjou-2.json](./79923-gamecenter-cx-arino-no-chousenjou-2.json) |
+| GameChanger: Episode 1 | 283020 | [283020-gamechanger-episode-1.json](./283020-gamechanger-episode-1.json) |
 | Gamecraft | 118424 | [118424-gamecraft.json](./118424-gamecraft.json) |
 | Gameday Live | 82066 | [82066-gameday-live.json](./82066-gameday-live.json) |
 | Gamedec | 121531 | [121531-gamedec.json](./121531-gamedec.json) |
@@ -7580,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Revival | 340325 | [340325-green-revival.json](./340325-green-revival.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
 | Green Sans | 232423 | [232423-green-sans.json](./232423-green-sans.json) |
+| Green Sauce Bundle | 283193 | [283193-green-sauce-bundle.json](./283193-green-sauce-bundle.json) |
 | Green Slaugther | 87973 | [87973-green-slaugther.json](./87973-green-slaugther.json) |
 | Green Soldiers Heroes: Extreme Bikers | 371299 | [371299-green-soldiers-heroes-extreme-bikers.json](./371299-green-soldiers-heroes-extreme-bikers.json) |
 | Green Squares | 245769 | [245769-green-squares.json](./245769-green-squares.json) |
