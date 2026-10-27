@@ -3971,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Dice | 235822 | [235822-knights-of-dice.json](./235822-knights-of-dice.json) |
 | Knights of Fate | 201575 | [201575-knights-of-fate.json](./201575-knights-of-fate.json) |
 | Knights of Fiona | 377659 | [377659-knights-of-fiona.json](./377659-knights-of-fiona.json) |
+| Knights of Fresco | 283546 | [283546-knights-of-fresco.json](./283546-knights-of-fresco.json) |
 | Knights of Frontier Valley | 216695 | [216695-knights-of-frontier-valley.json](./216695-knights-of-frontier-valley.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
 | Knights of Honor | 2040 | [2040-knights-of-honor.json](./2040-knights-of-honor.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konjiki no Gash Bell!! Yuujou no Dengeki Dream Tag Tournament | 269755 | [269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json](./269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json) |
 | Konjiki no Gash Bell!! Yuujou no Tag Battle Full Power | 3969 | [3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json](./3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json) |
 | Konjiki no Gash Bell!! Yuujou Tag Battle | 234643 | [234643-konjiki-no-gash-bell-yuujou-tag-battle.json](./234643-konjiki-no-gash-bell-yuujou-tag-battle.json) |
+| Konjiki no Gash Bell!!: Friends of Eternal Bonds | 283534 | [283534-konjiki-no-gash-bell-friends-of-eternal-bonds.json](./283534-konjiki-no-gash-bell-friends-of-eternal-bonds.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
 | Konkey Dong | 413215 | [413215-konkey-dong.json](./413215-konkey-dong.json) |
 | Konkey Dong | 413216 | [413216-konkey-dong.json](./413216-konkey-dong.json) |
