@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn & Play Collection | 330631 | [330631-learn-and-play-collection.json](./330631-learn-and-play-collection.json) |
 | Learn & Play: Dino Coloring | 400073 | [400073-learn-and-play-dino-coloring.json](./400073-learn-and-play-dino-coloring.json) |
 | Learn 2 Kaizo | 135545 | [135545-learn-2-kaizo.json](./135545-learn-2-kaizo.json) |
+| Learn and Play: Blackjack & Solitaire | 322540 | [322540-learn-and-play-blackjack-and-solitaire.json](./322540-learn-and-play-blackjack-and-solitaire.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Chess | 240066 | [240066-learn-chess.json](./240066-learn-chess.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
@@ -6501,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lordmancer 2 | 176189 | [176189-lordmancer-2.json](./176189-lordmancer-2.json) |
 | Lords & Knights | 323155 | [323155-lords-and-knights.json](./323155-lords-and-knights.json) |
 | Lords & Peasants | 20057 | [20057-lords-and-peasants.json](./20057-lords-and-peasants.json) |
+| Lords & Villeins: The Great Houses | 322627 | [322627-lords-and-villeins-the-great-houses.json](./322627-lords-and-villeins-the-great-houses.json) |
 | Lords and Peasents | 220783 | [220783-lords-and-peasents.json](./220783-lords-and-peasents.json) |
 | Lords and Tactics | 247759 | [247759-lords-and-tactics.json](./247759-lords-and-tactics.json) |
 | Lords Mobile | 29009 | [29009-lords-mobile.json](./29009-lords-mobile.json) |
