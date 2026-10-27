@@ -3378,8 +3378,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fern Wardrobe | 381226 | [381226-fern-wardrobe.json](./381226-fern-wardrobe.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
 | Fernandez Must Die | 12092 | [12092-fernandez-must-die.json](./12092-fernandez-must-die.json) |
+| Fernando Fernández: Un Rescate Accidentado | 322535 | [322535-fernando-fernandez-un-rescate-accidentado.json](./322535-fernando-fernandez-un-rescate-accidentado.json) |
 | Fernando Martin Basket Master | 51439 | [51439-fernando-martin-basket-master.json](./51439-fernando-martin-basket-master.json) |
 | Fernando Martín Executive | 71753 | [71753-fernando-martin-executive.json](./71753-fernando-martin-executive.json) |
+| Fernando: Detective Privado | 322538 | [322538-fernando-detective-privado.json](./322538-fernando-detective-privado.json) |
 | Fernbus Coach Simulator | 33896 | [33896-fernbus-coach-simulator.json](./33896-fernbus-coach-simulator.json) |
 | Fernbus Coach Simulator: Map Poland | 332014 | [332014-fernbus-coach-simulator-map-poland.json](./332014-fernbus-coach-simulator-map-poland.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
@@ -4471,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Lolita | 92144 | [92144-final-lolita.json](./92144-final-lolita.json) |
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
 | Final Match | 99730 | [99730-final-match.json](./99730-final-match.json) |
+| Final Memories | 322543 | [322543-final-memories.json](./322543-final-memories.json) |
 | Final Meteor | 58598 | [58598-final-meteor.json](./58598-final-meteor.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
@@ -7032,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Garden Tycoon | 146732 | [146732-flower-garden-tycoon.json](./146732-flower-garden-tycoon.json) |
 | Flower Garden: Connect Mania | 232485 | [232485-flower-garden-connect-mania.json](./232485-flower-garden-connect-mania.json) |
 | Flower Girl 2 | 209340 | [209340-flower-girl-2.json](./209340-flower-girl-2.json) |
+| Flower Girl Adventure | 322547 | [322547-flower-girl-adventure.json](./322547-flower-girl-adventure.json) |
 | Flower in the Snow: Resurrection | 164998 | [164998-flower-in-the-snow-resurrection.json](./164998-flower-in-the-snow-resurrection.json) |
 | Flower in Us | 263601 | [263601-flower-in-us.json](./263601-flower-in-us.json) |
 | Flower Knight Girl | 109196 | [109196-flower-knight-girl.json](./109196-flower-knight-girl.json) |
@@ -8476,6 +8480,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
 | Formation Z | 346072 | [346072-formation-z.json](./346072-formation-z.json) |
 | Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
+| Former Dawn | 322514 | [322514-former-dawn.json](./322514-former-dawn.json) |
+| Former Dawn | 322515 | [322515-former-dawn.json](./322515-former-dawn.json) |
 | Former Future | 128452 | [128452-former-future.json](./128452-former-future.json) |
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
 | Formido | 372243 | [372243-formido.json](./372243-formido.json) |
