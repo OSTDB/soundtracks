@@ -4065,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
 | Hentai Ami | 245995 | [245995-hentai-ami.json](./245995-hentai-ami.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
+| Hentai Anime Girls Succubus: Extended Edition | 312058 | [312058-hentai-anime-girls-succubus-extended-edition.json](./312058-hentai-anime-girls-succubus-extended-edition.json) |
 | Hentai Anime Poker | 131271 | [131271-hentai-anime-poker.json](./131271-hentai-anime-poker.json) |
 | Hentai Aqua Lorelei | 367167 | [367167-hentai-aqua-lorelei.json](./367167-hentai-aqua-lorelei.json) |
 | Hentai Arcade: Lustful Girls | 111577 | [111577-hentai-arcade-lustful-girls.json](./111577-hentai-arcade-lustful-girls.json) |
@@ -6477,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise | 375211 | [375211-highrise.json](./375211-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
 | Highrise City: Metro & Planes | 285117 | [285117-highrise-city-metro-and-planes.json](./285117-highrise-city-metro-and-planes.json) |
+| Highrise City: Vacation Season | 312037 | [312037-highrise-city-vacation-season.json](./312037-highrise-city-vacation-season.json) |
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
 | Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
 | Highschool Romance | 22214 | [22214-highschool-romance.json](./22214-highschool-romance.json) |
@@ -7397,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Egypt Edition | 366783 | [366783-hole-io-egypt-edition.json](./366783-hole-io-egypt-edition.json) |
 | Hole io: Freak Edition | 275051 | [275051-hole-io-freak-edition.json](./275051-hole-io-freak-edition.json) |
 | Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
+| Hole io: Godlike Edition | 312057 | [312057-hole-io-godlike-edition.json](./312057-hole-io-godlike-edition.json) |
 | Hole io: Gold Edition | 331818 | [331818-hole-io-gold-edition.json](./331818-hole-io-gold-edition.json) |
 | Hole io: Japan DLC | 378969 | [378969-hole-io-japan-dlc.json](./378969-hole-io-japan-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
@@ -9199,6 +9202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hounds: The Last Hope | 35373 | [35373-hounds-the-last-hope.json](./35373-hounds-the-last-hope.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
+| Hour of the Witch | 312048 | [312048-hour-of-the-witch.json](./312048-hour-of-the-witch.json) |
 | Hour of Victory | 7011 | [7011-hour-of-victory.json](./7011-hour-of-victory.json) |
 | Hourglass | 122270 | [122270-hourglass.json](./122270-hourglass.json) |
 | Hourglass of Summer | 73005 | [73005-hourglass-of-summer.json](./73005-hourglass-of-summer.json) |
