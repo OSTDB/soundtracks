@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden's Prison | 350517 | [350517-edens-prison.json](./350517-edens-prison.json) |
 | Eden* | 36272 | [36272-eden.json](./36272-eden.json) |
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
+| Edenfall | 321940 | [321940-edenfall.json](./321940-edenfall.json) |
 | Edengate: The Edge of Life | 217918 | [217918-edengate-the-edge-of-life.json](./217918-edengate-the-edge-of-life.json) |
 | Edengrad | 34968 | [34968-edengrad.json](./34968-edengrad.json) |
 | Edengrall | 129102 | [129102-edengrall.json](./129102-edengrall.json) |
@@ -2514,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Dragon | 15834 | [15834-emerald-dragon.json](./15834-emerald-dragon.json) |
 | Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
 | Emerald Eyes | 168394 | [168394-emerald-eyes.json](./168394-emerald-eyes.json) |
+| Emerald Fighters | 321922 | [321922-emerald-fighters.json](./321922-emerald-fighters.json) |
 | Emerald Gallery: 2-Score | 384160 | [384160-emerald-gallery-2-score.json](./384160-emerald-gallery-2-score.json) |
 | Emerald Glazed Bundle | 82383 | [82383-emerald-glazed-bundle.json](./82383-emerald-glazed-bundle.json) |
 | Emerald Hunter | 330961 | [330961-emerald-hunter.json](./330961-emerald-hunter.json) |
@@ -2931,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchantment 2: Sun's Tear | 337836 | [337836-enchantment-2-suns-tear.json](./337836-enchantment-2-suns-tear.json) |
 | Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
 | Enchantment: Secret Hideaway - Collector's Edition | 395948 | [395948-enchantment-secret-hideaway-collectors-edition.json](./395948-enchantment-secret-hideaway-collectors-edition.json) |
+| Enchantress of the Sea | 322014 | [322014-enchantress-of-the-sea.json](./322014-enchantress-of-the-sea.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclave HD | 169240 | [169240-enclave-hd.json](./169240-enclave-hd.json) |
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
@@ -5792,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everslaught Invasion | 252108 | [252108-everslaught-invasion.json](./252108-everslaught-invasion.json) |
 | Eversoul | 174607 | [174607-eversoul.json](./174607-eversoul.json) |
 | Everspace | 14172 | [14172-everspace.json](./14172-everspace.json) |
+| Everspace 2: Alienware Ship Skin | 321946 | [321946-everspace-2-alienware-ship-skin.json](./321946-everspace-2-alienware-ship-skin.json) |
 | Everspace 2: Stellar Edition | 246298 | [246298-everspace-2-stellar-edition.json](./246298-everspace-2-stellar-edition.json) |
 | Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
 | Everspace 2: Wrath of the Ancients | 329493 | [329493-everspace-2-wrath-of-the-ancients.json](./329493-everspace-2-wrath-of-the-ancients.json) |
