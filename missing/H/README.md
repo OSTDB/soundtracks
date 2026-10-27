@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
 | Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
 | Hangman | 285157 | [285157-hangman.json](./285157-hangman.json) |
+| Hangman | 315463 | [315463-hangman.json](./315463-hangman.json) |
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
 | Hangman | 329790 | [329790-hangman.json](./329790-hangman.json) |
 | Hangman | 377831 | [377831-hangman.json](./377831-hangman.json) |
@@ -8642,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Plinko | 357855 | [357855-horse-plinko.json](./357855-horse-plinko.json) |
 | Horse Race | 202001 | [202001-horse-race.json](./202001-horse-race.json) |
 | Horse Race Starter | 76958 | [76958-horse-race-starter.json](./76958-horse-race-starter.json) |
+| Horse Races | 315464 | [315464-horse-races.json](./315464-horse-races.json) |
 | Horse Racing | 284951 | [284951-horse-racing.json](./284951-horse-racing.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing 2016 | 38770 | [38770-horse-racing-2016.json](./38770-horse-racing-2016.json) |
