@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Glitch | 140949 | [140949-tech-glitch.json](./140949-tech-glitch.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
+| Tech Shop Simulator | 295762 | [295762-tech-shop-simulator.json](./295762-tech-shop-simulator.json) |
 | Tech Support 2077 | 123957 | [123957-tech-support-2077.json](./123957-tech-support-2077.json) |
 | Tech Support: Error Unknown | 87975 | [87975-tech-support-error-unknown.json](./87975-tech-support-error-unknown.json) |
 | Tech vs Magic | 126480 | [126480-tech-vs-magic.json](./126480-tech-vs-magic.json) |
@@ -5020,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anime Super Remix: Kyojin no Hoshi | 268391 | [268391-the-anime-super-remix-kyojin-no-hoshi.json](./268391-the-anime-super-remix-kyojin-no-hoshi.json) |
 | The Annual Ghost Town Pumpkin Festival | 141145 | [141145-the-annual-ghost-town-pumpkin-festival.json](./141145-the-annual-ghost-town-pumpkin-festival.json) |
 | The Anointed: David Saves Keilah | 215030 | [215030-the-anointed-david-saves-keilah.json](./215030-the-anointed-david-saves-keilah.json) |
+| The Anomalous Hour | 295758 | [295758-the-anomalous-hour.json](./295758-the-anomalous-hour.json) |
 | The Anomaly | 271300 | [271300-the-anomaly.json](./271300-the-anomaly.json) |
 | The Anomaly 2: Water | 271301 | [271301-the-anomaly-2-water.json](./271301-the-anomaly-2-water.json) |
 | The Anomaly 3: Tower | 280893 | [280893-the-anomaly-3-tower.json](./280893-the-anomaly-3-tower.json) |
@@ -8518,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gateway to Hell | 271752 | [271752-the-gateway-to-hell.json](./271752-the-gateway-to-hell.json) |
 | The Gateway Trilogy | 51980 | [51980-the-gateway-trilogy.json](./51980-the-gateway-trilogy.json) |
 | The Gauntlet | 294930 | [294930-the-gauntlet.json](./294930-the-gauntlet.json) |
+| The Gauntlet | 295736 | [295736-the-gauntlet.json](./295736-the-gauntlet.json) |
 | The Gayest & Greyest Castle In All Of Parthoris | 268870 | [268870-the-gayest-and-greyest-castle-in-all-of-parthoris.json](./268870-the-gayest-and-greyest-castle-in-all-of-parthoris.json) |
 | The Gaze of The Eternal Sun | 302409 | [302409-the-gaze-of-the-eternal-sun.json](./302409-the-gaze-of-the-eternal-sun.json) |
 | The Gazebo | 358949 | [358949-the-gazebo.json](./358949-the-gazebo.json) |
