@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Warrior | 26408 | [26408-rad-warrior.json](./26408-rad-warrior.json) |
 | Rad: Before the Adventure | 183470 | [183470-rad-before-the-adventure.json](./183470-rad-before-the-adventure.json) |
 | Radac: Tailor-Made | 48821 | [48821-radac-tailor-made.json](./48821-radac-tailor-made.json) |
+| Radagon Boss FIght | 290362 | [290362-radagon-boss-fight.json](./290362-radagon-boss-fight.json) |
 | Radar | 282669 | [282669-radar.json](./282669-radar.json) |
 | Radar Chaos | 25551 | [25551-radar-chaos.json](./25551-radar-chaos.json) |
 | Radar Defense | 81053 | [81053-radar-defense.json](./81053-radar-defense.json) |
@@ -8246,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Dr. Wily no Nazo | 170742 | [170742-rockman-2-dr-wily-no-nazo.json](./170742-rockman-2-dr-wily-no-nazo.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
+| Rockman 2: StalkerMaestro vs The Rockmen | 290238 | [290238-rockman-2-stalkermaestro-vs-the-rockmen.json](./290238-rockman-2-stalkermaestro-vs-the-rockmen.json) |
 | Rockman 3: Burst Chaser | 304132 | [304132-rockman-3-burst-chaser.json](./304132-rockman-3-burst-chaser.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
 | Rockman 3: The Last of Mushroom Kingdom?! | 245360 | [245360-rockman-3-the-last-of-mushroom-kingdom.json](./245360-rockman-3-the-last-of-mushroom-kingdom.json) |
