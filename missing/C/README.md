@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
 | Calico Wilder and the Crystal Blade | 416553 | [416553-calico-wilder-and-the-crystal-blade.json](./416553-calico-wilder-and-the-crystal-blade.json) |
 | Calico: Neat Things | 330568 | [330568-calico-neat-things.json](./330568-calico-neat-things.json) |
+| California Escapades | 311542 | [311542-california-escapades.json](./311542-california-escapades.json) |
 | California Games | 154872 | [154872-california-games.json](./154872-california-games.json) |
 | California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
 | California Games | 263877 | [263877-california-games.json](./263877-california-games.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Snakes | 193705 | [193705-call-of-snakes.json](./193705-call-of-snakes.json) |
 | Call of the Ages: Collector's Edition | 341086 | [341086-call-of-the-ages-collectors-edition.json](./341086-call-of-the-ages-collectors-edition.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
+| Call of The Deep | 311530 | [311530-call-of-the-deep.json](./311530-call-of-the-deep.json) |
 | Call of the Elder Gods | 347882 | [347882-call-of-the-elder-gods.json](./347882-call-of-the-elder-gods.json) |
 | Call of the Golden Valley | 219217 | [219217-call-of-the-golden-valley.json](./219217-call-of-the-golden-valley.json) |
 | Call of the Grave | 310089 | [310089-call-of-the-grave.json](./310089-call-of-the-grave.json) |
@@ -2621,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascade | 60904 | [60904-cascade.json](./60904-cascade.json) |
 | Cascade Falls | 374944 | [374944-cascade-falls.json](./374944-cascade-falls.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
+| Cascadia | 311522 | [311522-cascadia.json](./311522-cascadia.json) |
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Cascading Failure | 155690 | [155690-cascading-failure.json](./155690-cascading-failure.json) |
 | Cascadio | 134948 | [134948-cascadio.json](./134948-cascadio.json) |
@@ -7371,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Manager Simulator | 365827 | [365827-cinema-manager-simulator.json](./365827-cinema-manager-simulator.json) |
 | Cinema Quest | 107249 | [107249-cinema-quest.json](./107249-cinema-quest.json) |
 | Cinema Simulator | 167581 | [167581-cinema-simulator.json](./167581-cinema-simulator.json) |
+| Cinema Simulator 2025 | 311546 | [311546-cinema-simulator-2025.json](./311546-cinema-simulator-2025.json) |
 | Cinema Story | 333438 | [333438-cinema-story.json](./333438-cinema-story.json) |
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
 | Cinema Tycoon | 369679 | [369679-cinema-tycoon.json](./369679-cinema-tycoon.json) |
@@ -14354,6 +14358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
 | Creeping Clark | 336169 | [336169-creeping-clark.json](./336169-creeping-clark.json) |
 | Creeping Deck: Pharaoh's Curse | 225228 | [225228-creeping-deck-pharaohs-curse.json](./225228-creeping-deck-pharaohs-curse.json) |
+| Creeping Dusk | 311539 | [311539-creeping-dusk.json](./311539-creeping-dusk.json) |
 | Creeping It Reel | 141049 | [141049-creeping-it-reel.json](./141049-creeping-it-reel.json) |
 | Creepless | 253427 | [253427-creepless.json](./253427-creepless.json) |
 | Creepo's Tales 2 | 101928 | [101928-creepos-tales-2.json](./101928-creepos-tales-2.json) |
