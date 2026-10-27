@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromental | 363318 | [363318-necromental.json](./363318-necromental.json) |
 | NecroMerc | 348150 | [348150-necromerc.json](./348150-necromerc.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
+| Necromon | 294096 | [294096-necromon.json](./294096-necromon.json) |
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
 | Necromunda: Hired Gun - Gang Wars Cosmetics Bundle | 223535 | [223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json](./223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json) |
 | Necromunda: Hired Gun - Hellhound Pack | 223536 | [223536-necromunda-hired-gun-hellhound-pack.json](./223536-necromunda-hired-gun-hellhound-pack.json) |
@@ -3843,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
 | Nightclub Shufflepuck | 91516 | [91516-nightclub-shufflepuck.json](./91516-nightclub-shufflepuck.json) |
+| NightClub Simulator | 293119 | [293119-nightclub-simulator.json](./293119-nightclub-simulator.json) |
 | NightCrawler | 288822 | [288822-nightcrawler.json](./288822-nightcrawler.json) |
 | Nightcrawler VR Bowling | 37400 | [37400-nightcrawler-vr-bowling.json](./37400-nightcrawler-vr-bowling.json) |
 | NightCry | 19132 | [19132-nightcry.json](./19132-nightcry.json) |
@@ -4358,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Flip | 300856 | [300856-ninja-flip.json](./300856-ninja-flip.json) |
 | Ninja Forest Maze | 274963 | [274963-ninja-forest-maze.json](./274963-ninja-forest-maze.json) |
 | Ninja Frog | 93523 | [93523-ninja-frog.json](./93523-ninja-frog.json) |
+| Ninja Frogs | 294193 | [294193-ninja-frogs.json](./294193-ninja-frogs.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
 | Ninja Fun | 213897 | [213897-ninja-fun.json](./213897-ninja-fun.json) |
 | Ninja Fuzzgrawth | 228384 | [228384-ninja-fuzzgrawth.json](./228384-ninja-fuzzgrawth.json) |
@@ -5072,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Shot | 398919 | [398919-no-shot.json](./398919-no-shot.json) |
 | No Sidewalks in the Mushroom Kingdom | 177296 | [177296-no-sidewalks-in-the-mushroom-kingdom.json](./177296-no-sidewalks-in-the-mushroom-kingdom.json) |
 | No Signal | 111418 | [111418-no-signal.json](./111418-no-signal.json) |
+| No Signal | 294108 | [294108-no-signal.json](./294108-no-signal.json) |
 | No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
 | No Signal: Chornobyl | 414165 | [414165-no-signal-chornobyl.json](./414165-no-signal-chornobyl.json) |
 | No Skirt Convenience Shop | 212193 | [212193-no-skirt-convenience-shop.json](./212193-no-skirt-convenience-shop.json) |
@@ -5886,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Alone | 223040 | [223040-not-alone.json](./223040-not-alone.json) |
 | Not Alone | 297861 | [297861-not-alone.json](./297861-not-alone.json) |
+| Not Alone: Classic | 294113 | [294113-not-alone-classic.json](./294113-not-alone-classic.json) |
 | Not Alone: Remake | 216971 | [216971-not-alone-remake.json](./216971-not-alone-remake.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
 | Not An NPC Game | 418297 | [418297-not-an-npc-game.json](./418297-not-an-npc-game.json) |
