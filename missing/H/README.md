@@ -10090,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Girls | 259065 | [259065-hunter-girls.json](./259065-hunter-girls.json) |
 | Hunter Hearts | 164873 | [164873-hunter-hearts.json](./164873-hunter-hearts.json) |
 | Hunter Hitman | 340494 | [340494-hunter-hitman.json](./340494-hunter-hitman.json) |
+| Hunter in the Court of Beasts | 328931 | [328931-hunter-in-the-court-of-beasts.json](./328931-hunter-in-the-court-of-beasts.json) |
 | Hunter in the Lost Forest | 293202 | [293202-hunter-in-the-lost-forest.json](./293202-hunter-in-the-lost-forest.json) |
 | Hunter Island: Monsters & Dragons | 200113 | [200113-hunter-island-monsters-and-dragons.json](./200113-hunter-island-monsters-and-dragons.json) |
 | Hunter Killer | 94008 | [94008-hunter-killer.json](./94008-hunter-killer.json) |
