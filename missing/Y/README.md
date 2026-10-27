@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yì Shìjiè Wúlítóu Shēnghuó 2 | 367429 | [367429-yi-shijie-wulitou-shenghuo-2.json](./367429-yi-shijie-wulitou-shenghuo-2.json) |
 | Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
 | Yie Ar Kung-Fu | 239171 | [239171-yie-ar-kung-fu.json](./239171-yie-ar-kung-fu.json) |
+| Yie Ar Kung-Fu | 311028 | [311028-yie-ar-kung-fu.json](./311028-yie-ar-kung-fu.json) |
 | Yield! Fall of Rome | 305425 | [305425-yield-fall-of-rome.json](./305425-yield-fall-of-rome.json) |
 | YieldTrillions | 328193 | [328193-yieldtrillions.json](./328193-yieldtrillions.json) |
 | Yihongyuan | 236947 | [236947-yihongyuan.json](./236947-yihongyuan.json) |
