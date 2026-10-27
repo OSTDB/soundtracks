@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unou Kids DS | 124117 | [124117-unou-kids-ds.json](./124117-unou-kids-ds.json) |
 | Unou no Tatsujin: Hirameki Kosodate My Angel | 124116 | [124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json](./124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json) |
 | Unou no Tatsujin: Machigai Sagashi Museum | 146795 | [146795-unou-no-tatsujin-machigai-sagashi-museum.json](./146795-unou-no-tatsujin-machigai-sagashi-museum.json) |
+| Unou Paradise | 289905 | [289905-unou-paradise.json](./289905-unou-paradise.json) |
 | Unou Tanren UnoTan DS: Shichida Shiki Otona no Shun Kan Training | 124115 | [124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json](./124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json) |
 | Unova Nights | 410358 | [410358-unova-nights.json](./410358-unova-nights.json) |
 | Unpacking | 134276 | [134276-unpacking.json](./134276-unpacking.json) |
