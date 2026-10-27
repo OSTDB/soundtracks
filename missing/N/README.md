@@ -3593,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
 | Night Dessert | 334458 | [334458-night-dessert.json](./334458-night-dessert.json) |
 | Night Detective | 90229 | [90229-night-detective.json](./90229-night-detective.json) |
+| Night Doner | 318378 | [318378-night-doner.json](./318378-night-doner.json) |
 | Night Dream | 26797 | [26797-night-dream.json](./26797-night-dream.json) |
 | Night Dreamer | 154058 | [154058-night-dreamer.json](./154058-night-dreamer.json) |
 | Night Dreams | 147299 | [147299-night-dreams.json](./147299-night-dreams.json) |
