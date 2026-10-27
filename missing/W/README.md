@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
 | Wade | 385384 | [385384-wade.json](./385384-wade.json) |
 | WadoVice64 | 387157 | [387157-wadovice64.json](./387157-wadovice64.json) |
+| Waffle | 298532 | [298532-waffle.json](./298532-waffle.json) |
 | Waffle Blast | 245181 | [245181-waffle-blast.json](./245181-waffle-blast.json) |
 | Waffle Boy's Jungle Adventure | 416939 | [416939-waffle-boys-jungle-adventure.json](./416939-waffle-boys-jungle-adventure.json) |
 | Waffle Cone Willie | 311888 | [311888-waffle-cone-willie.json](./311888-waffle-cone-willie.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiter Please! | 359319 | [359319-waiter-please.json](./359319-waiter-please.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
 | Waiting for Eurydice | 385673 | [385673-waiting-for-eurydice.json](./385673-waiting-for-eurydice.json) |
+| Waiting for Instructions Run | 296859 | [296859-waiting-for-instructions-run.json](./296859-waiting-for-instructions-run.json) |
 | Waiting for Odysseus | 412909 | [412909-waiting-for-odysseus.json](./412909-waiting-for-odysseus.json) |
 | Waiting For the Loop | 75036 | [75036-waiting-for-the-loop.json](./75036-waiting-for-the-loop.json) |
 | Waiting for the Raven | 138601 | [138601-waiting-for-the-raven.json](./138601-waiting-for-the-raven.json) |
@@ -2427,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We are Monsters | 299406 | [299406-we-are-monsters.json](./299406-we-are-monsters.json) |
 | We Are Not Alone: Contact | 312866 | [312866-we-are-not-alone-contact.json](./312866-we-are-not-alone-contact.json) |
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
+| We Are Only Moving Towards Each Other | 299117 | [299117-we-are-only-moving-towards-each-other.json](./299117-we-are-only-moving-towards-each-other.json) |
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
 | We Are Saved | 307181 | [307181-we-are-saved.json](./307181-we-are-saved.json) |
@@ -2717,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekday Warrior | 214390 | [214390-weekday-warrior.json](./214390-weekday-warrior.json) |
 | Weekdays | 309416 | [309416-weekdays.json](./309416-weekdays.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
+| Weekend Hentai | 298620 | [298620-weekend-hentai.json](./298620-weekend-hentai.json) |
 | Weekend in Waimanalo | 301221 | [301221-weekend-in-waimanalo.json](./301221-weekend-in-waimanalo.json) |
 | Weekend Renters | 415466 | [415466-weekend-renters.json](./415466-weekend-renters.json) |
 | Weekend Solitaire: Airplanes | 388887 | [388887-weekend-solitaire-airplanes.json](./388887-weekend-solitaire-airplanes.json) |
@@ -4023,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Wolf: Treasure Hunter | 243612 | [243612-white-wolf-treasure-hunter.json](./243612-white-wolf-treasure-hunter.json) |
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
 | White-Water Domo | 68060 | [68060-white-water-domo.json](./68060-white-water-domo.json) |
+| White: Invasion | 297983 | [297983-white-invasion.json](./297983-white-invasion.json) |
 | WhiteBird | 119670 | [119670-whitebird.json](./119670-whitebird.json) |
 | WhiteClothes | 247941 | [247941-whiteclothes.json](./247941-whiteclothes.json) |
 | Whitedary | 400700 | [400700-whitedary.json](./400700-whitedary.json) |
@@ -4063,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Are You!? | 256522 | [256522-who-are-you.json](./256522-who-are-you.json) |
 | Who Are You? | 148253 | [148253-who-are-you.json](./148253-who-are-you.json) |
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
+| Who Axed You? | 298506 | [298506-who-axed-you.json](./298506-who-axed-you.json) |
 | Who Dares Wins | 26280 | [26280-who-dares-wins.json](./26280-who-dares-wins.json) |
 | Who Dares Wins | 26281 | [26281-who-dares-wins.json](./26281-who-dares-wins.json) |
 | Who Dares Wins | 360149 | [360149-who-dares-wins.json](./360149-who-dares-wins.json) |
@@ -4167,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who wants to strip this babe?: Hentai Teacher | 280445 | [280445-who-wants-to-strip-this-babe-hentai-teacher.json](./280445-who-wants-to-strip-this-babe-hentai-teacher.json) |
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
 | Who Was The Cat? | 335740 | [335740-who-was-the-cat.json](./335740-who-was-the-cat.json) |
+| Who Wears The Crown? | 297985 | [297985-who-wears-the-crown.json](./297985-who-wears-the-crown.json) |
 | Who Will... | 178848 | [178848-who-will.json](./178848-who-will.json) |
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Beast | 358263 | [358263-whos-beast.json](./358263-whos-beast.json) |
@@ -4461,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Man Jump | 305465 | [305465-wild-man-jump.json](./305465-wild-man-jump.json) |
 | Wild Man Jump | 305473 | [305473-wild-man-jump.json](./305473-wild-man-jump.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
+| Wild Mars | 297984 | [297984-wild-mars.json](./297984-wild-mars.json) |
 | Wild Metal Country | 20132 | [20132-wild-metal-country.json](./20132-wild-metal-country.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
 | Wild N Chill | 403353 | [403353-wild-n-chill.json](./403353-wild-n-chill.json) |
@@ -4694,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Die Alone | 177398 | [177398-will-die-alone.json](./177398-will-die-alone.json) |
 | Will Glow the Wisp | 36978 | [36978-will-glow-the-wisp.json](./36978-will-glow-the-wisp.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
+| Will I Survive Tonight? | 298618 | [298618-will-i-survive-tonight.json](./298618-will-i-survive-tonight.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
 | Will it Crush? | 90034 | [90034-will-it-crush.json](./90034-will-it-crush.json) |
 | Will It Ever End? | 143572 | [143572-will-it-ever-end.json](./143572-will-it-ever-end.json) |
@@ -4923,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windwalker | 270013 | [270013-windwalker.json](./270013-windwalker.json) |
 | Windwalkers | 9185 | [9185-windwalkers.json](./9185-windwalkers.json) |
 | Windward | 17902 | [17902-windward.json](./17902-windward.json) |
+| Windward Horizon | 298621 | [298621-windward-horizon.json](./298621-windward-horizon.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
 | Windy Creator | 327751 | [327751-windy-creator.json](./327751-windy-creator.json) |
@@ -5573,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchpop | 390142 | [390142-witchpop.json](./390142-witchpop.json) |
 | Witchpunk | 226137 | [226137-witchpunk.json](./226137-witchpunk.json) |
 | WitchRider | 312543 | [312543-witchrider.json](./312543-witchrider.json) |
+| Witchroid Vania: A Magical Girl’s Fantastical Adventures | 297982 | [297982-witchroid-vania-a-magical-girl-s-fantastical-adventures.json](./297982-witchroid-vania-a-magical-girl-s-fantastical-adventures.json) |
 | WitchSpring | 87260 | [87260-witchspring.json](./87260-witchspring.json) |
 | WitchSpring R | 210515 | [210515-witchspring-r.json](./210515-witchspring-r.json) |
 | WitchSpring R: Costume - Black Pearl Set | 316224 | [316224-witchspring-r-costume-black-pearl-set.json](./316224-witchspring-r-costume-black-pearl-set.json) |
@@ -6055,6 +6066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolves in Sheep's Clothing | 292317 | [292317-wolves-in-sheeps-clothing.json](./292317-wolves-in-sheeps-clothing.json) |
 | Wolves on the Westwind: The Vampire of Havena | 203920 | [203920-wolves-on-the-westwind-the-vampire-of-havena.json](./203920-wolves-on-the-westwind-the-vampire-of-havena.json) |
 | Wolvesville | 262964 | [262964-wolvesville.json](./262964-wolvesville.json) |
+| Woman Guerrillero | 298516 | [298516-woman-guerrillero.json](./298516-woman-guerrillero.json) |
 | Woman Simulator | 378548 | [378548-woman-simulator.json](./378548-woman-simulator.json) |
 | Woman's Body | 112458 | [112458-womans-body.json](./112458-womans-body.json) |
 | Womanizer | 274688 | [274688-womanizer.json](./274688-womanizer.json) |
@@ -6736,12 +6748,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Dawgs: Rivet Retriever | 84936 | [84936-working-dawgs-rivet-retriever.json](./84936-working-dawgs-rivet-retriever.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
 | Working Noir | 255857 | [255857-working-noir.json](./255857-working-noir.json) |
+| Working On It | 298622 | [298622-working-on-it.json](./298622-working-on-it.json) |
 | Working Stiffs | 281335 | [281335-working-stiffs.json](./281335-working-stiffs.json) |
 | Working Through The End | 388180 | [388180-working-through-the-end.json](./388180-working-through-the-end.json) |
 | Working Tidal | 176142 | [176142-working-tidal.json](./176142-working-tidal.json) |
 | Working Woman Barbie | 144856 | [144856-working-woman-barbie.json](./144856-working-woman-barbie.json) |
 | Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
 | Workplace Fantasy All Age Edition | 273797 | [273797-workplace-fantasy-all-age-edition.json](./273797-workplace-fantasy-all-age-edition.json) |
+| Workplace Fantasy: New Girl Chapter | 297981 | [297981-workplace-fantasy-new-girl-chapter.json](./297981-workplace-fantasy-new-girl-chapter.json) |
 | Workplace Fantasy: Raina's Ending | 312051 | [312051-workplace-fantasy-rainas-ending.json](./312051-workplace-fantasy-rainas-ending.json) |
 | Workplace Hazard | 373731 | [373731-workplace-hazard.json](./373731-workplace-hazard.json) |
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
