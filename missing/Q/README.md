@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quack Attack 1985 | 32117 | [32117-quack-attack-1985.json](./32117-quack-attack-1985.json) |
 | Quack Attack 1985: Turbo DX Edition | 138603 | [138603-quack-attack-1985-turbo-dx-edition.json](./138603-quack-attack-1985-turbo-dx-edition.json) |
 | Quack Invasion | 244886 | [244886-quack-invasion.json](./244886-quack-invasion.json) |
+| Quack Jump | 313636 | [313636-quack-jump.json](./313636-quack-jump.json) |
 | Quack Magic | 338649 | [338649-quack-magic.json](./338649-quack-magic.json) |
 | Quack my Duck | 258392 | [258392-quack-my-duck.json](./258392-quack-my-duck.json) |
 | Quack Quack Up | 402884 | [402884-quack-quack-up.json](./402884-quack-quack-up.json) |
@@ -615,6 +616,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Anne's Lace | 387561 | [387561-queen-annes-lace.json](./387561-queen-annes-lace.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen At Arms: Deluxe Edition | 53488 | [53488-queen-at-arms-deluxe-edition.json](./53488-queen-at-arms-deluxe-edition.json) |
+| Queen B: Book 1 | 313632 | [313632-queen-b-book-1.json](./313632-queen-b-book-1.json) |
+| Queen B: Book 2 | 313633 | [313633-queen-b-book-2.json](./313633-queen-b-book-2.json) |
 | Queen Beast | 225213 | [225213-queen-beast.json](./225213-queen-beast.json) |
 | Queen Boat | 364360 | [364360-queen-boat.json](./364360-queen-boat.json) |
 | Queen Busters | 324157 | [324157-queen-busters.json](./324157-queen-busters.json) |
