@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vargverse | 228293 | [228293-vargverse.json](./228293-vargverse.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
+| Variable Puzzle | 330657 | [330657-variable-puzzle.json](./330657-variable-puzzle.json) |
 | Variables | 118581 | [118581-variables.json](./118581-variables.json) |
 | Variables 2 | 169399 | [169399-variables-2.json](./169399-variables-2.json) |
 | Variant 22 | 234674 | [234674-variant-22.json](./234674-variant-22.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Virgin Queen | 59740 | [59740-virgin-queen.json](./59740-virgin-queen.json) |
 | Virgin Queen Beauty | 59739 | [59739-virgin-queen-beauty.json](./59739-virgin-queen-beauty.json) |
+| Virgin Simulator | 330065 | [330065-virgin-simulator.json](./330065-virgin-simulator.json) |
 | Virginia | 21599 | [21599-virginia.json](./21599-virginia.json) |
 | Virgo and the Sparklings Game | 249662 | [249662-virgo-and-the-sparklings-game.json](./249662-virgo-and-the-sparklings-game.json) |
 | Virgo Versus the Zodiac | 28772 | [28772-virgo-versus-the-zodiac.json](./28772-virgo-versus-the-zodiac.json) |
