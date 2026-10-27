@@ -3848,8 +3848,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats are Liquid: A Better Place | 126727 | [126727-cats-are-liquid-a-better-place.json](./126727-cats-are-liquid-a-better-place.json) |
 | Cats are Liquid: A Light in the Shadows | 32163 | [32163-cats-are-liquid-a-light-in-the-shadows.json](./32163-cats-are-liquid-a-light-in-the-shadows.json) |
 | Cats Around Us: Black Cat | 347859 | [347859-cats-around-us-black-cat.json](./347859-cats-around-us-black-cat.json) |
+| Cats Around Us: Giant Cat | 296406 | [296406-cats-around-us-giant-cat.json](./296406-cats-around-us-giant-cat.json) |
 | Cats Around Us: Yarn Ball | 416389 | [416389-cats-around-us-yarn-ball.json](./416389-cats-around-us-yarn-ball.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
+| Cats Balance | 296405 | [296405-cats-balance.json](./296405-cats-balance.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Bundle | 273329 | [273329-cats-bundle.json](./273329-cats-bundle.json) |
 | Cats Contrast | 332970 | [332970-cats-contrast.json](./332970-cats-contrast.json) |
@@ -5326,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaves | 281892 | [281892-chaves.json](./281892-chaves.json) |
 | Chaves Arena | 252903 | [252903-chaves-arena.json](./252903-chaves-arena.json) |
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
+| Cheap Car Repair | 296409 | [296409-cheap-car-repair.json](./296409-cheap-car-repair.json) |
 | Cheap Game | 157516 | [157516-cheap-game.json](./157516-cheap-game.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Cheap Golf | 28948 | [28948-cheap-golf.json](./28948-cheap-golf.json) |
@@ -7549,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Attractions | 12003 | [12003-circus-attractions.json](./12003-circus-attractions.json) |
 | Circus Baby's Diner | 194384 | [194384-circus-babys-diner.json](./194384-circus-babys-diner.json) |
 | Circus Caper | 48099 | [48099-circus-caper.json](./48099-circus-caper.json) |
+| Circus Challenge | 296316 | [296316-circus-challenge.json](./296316-circus-challenge.json) |
 | Circus Charlie | 25692 | [25692-circus-charlie.json](./25692-circus-charlie.json) |
 | Circus Convoy | 376721 | [376721-circus-convoy.json](./376721-circus-convoy.json) |
 | Circus Empire | 21490 | [21490-circus-empire.json](./21490-circus-empire.json) |
@@ -10573,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Arms: the Classic | 135798 | [135798-combat-arms-the-classic.json](./135798-combat-arms-the-classic.json) |
 | Combat Beans: Total Mayhem | 224670 | [224670-combat-beans-total-mayhem.json](./224670-combat-beans-total-mayhem.json) |
 | Combat Casino | 172012 | [172012-combat-casino.json](./172012-combat-casino.json) |
+| Combat Cat | 296315 | [296315-combat-cat.json](./296315-combat-cat.json) |
 | Combat Cats | 25488 | [25488-combat-cats.json](./25488-combat-cats.json) |
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
 | Combat Chess | 11277 | [11277-combat-chess.json](./11277-combat-chess.json) |
