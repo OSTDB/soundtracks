@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujutsu Kaisen Rumble: Survivaton | 405441 | [405441-jujutsu-kaisen-rumble-survivaton.json](./405441-jujutsu-kaisen-rumble-survivaton.json) |
 | Jujutsu Kaisen: Cursed Clash | 255396 | [255396-jujutsu-kaisen-cursed-clash.json](./255396-jujutsu-kaisen-cursed-clash.json) |
 | Jujutsu Kaisen: Cursed Clash - Deluxe Edition | 276324 | [276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json](./276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json) |
+| Jujutsu Kaisen: Cursed Clash - Jujutsu High First-Years Outfit Set | 289838 | [289838-jujutsu-kaisen-cursed-clash-jujutsu-high-first-years-outfit-set.json](./289838-jujutsu-kaisen-cursed-clash-jujutsu-high-first-years-outfit-set.json) |
 | Jujutsu Kaisen: Cursed Clash - Kyoto Jujutsu High School Girls' Outfit Set | 317959 | [317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json](./317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json) |
 | Jujutsu Kaisen: Cursed Clash - The Shibuya Incident | 307753 | [307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json](./307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json) |
 | Jujutsutchi 0 | 230186 | [230186-jujutsutchi-0.json](./230186-jujutsutchi-0.json) |
@@ -2961,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Platform Minigame | 158683 | [158683-jumping-platform-minigame.json](./158683-jumping-platform-minigame.json) |
 | Jumping Pop | 46798 | [46798-jumping-pop.json](./46798-jumping-pop.json) |
 | Jumping Stack Ball | 147723 | [147723-jumping-stack-ball.json](./147723-jumping-stack-ball.json) |
+| Jumping Steve | 289817 | [289817-jumping-steve.json](./289817-jumping-steve.json) |
 | Jumping Tank | 29701 | [29701-jumping-tank.json](./29701-jumping-tank.json) |
 | Jumping Troll | 416751 | [416751-jumping-troll.json](./416751-jumping-troll.json) |
 | Jumping Whopper | 238203 | [238203-jumping-whopper.json](./238203-jumping-whopper.json) |
