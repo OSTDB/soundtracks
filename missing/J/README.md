@@ -3632,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
 | Juukou Senki: Bullet Battlers | 228567 | [228567-juukou-senki-bullet-battlers.json](./228567-juukou-senki-bullet-battlers.json) |
+| Juuni-ban-me ni Warui Yume no Sachi | 320793 | [320793-juuni-ban-me-ni-warui-yume-no-sachi.json](./320793-juuni-ban-me-ni-warui-yume-no-sachi.json) |
 | Juuouki | 86410 | [86410-juuouki.json](./86410-juuouki.json) |
 | Juurin | 93986 | [93986-juurin.json](./93986-juurin.json) |
 | Juurru | 241839 | [241839-juurru.json](./241839-juurru.json) |
