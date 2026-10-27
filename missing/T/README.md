@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot | 95371 | [95371-tarot.json](./95371-tarot.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tarot Readings Premium | 118741 | [118741-tarot-readings-premium.json](./118741-tarot-readings-premium.json) |
+| Tarot Realms | 293060 | [293060-tarot-realms.json](./293060-tarot-realms.json) |
 | Tarot Spell | 390271 | [390271-tarot-spell.json](./390271-tarot-spell.json) |
 | Tarot Tokens | 417282 | [417282-tarot-tokens.json](./417282-tarot-tokens.json) |
 | Tarot Uranai | 254587 | [254587-tarot-uranai.json](./254587-tarot-uranai.json) |
@@ -4127,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Subject Blue | 172473 | [172473-test-subject-blue.json](./172473-test-subject-blue.json) |
 | Test Subject Complete | 172475 | [172475-test-subject-complete.json](./172475-test-subject-complete.json) |
 | Test Subject Green | 172474 | [172474-test-subject-green.json](./172474-test-subject-green.json) |
+| Test Subject Name | 293045 | [293045-test-subject-name.json](./293045-test-subject-name.json) |
 | Test Test Test | 281340 | [281340-test-test-test.json](./281340-test-test-test.json) |
 | Test the limits of your courage! Hanechari | 49117 | [49117-test-the-limits-of-your-courage-hanechari.json](./49117-test-the-limits-of-your-courage-hanechari.json) |
 | Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
