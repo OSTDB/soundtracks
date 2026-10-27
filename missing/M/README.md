@@ -14239,6 +14239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstone Crossroads | 116081 | [116081-moonstone-crossroads.json](./116081-moonstone-crossroads.json) |
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
 | Moonstone Island: Autumnal Accessories DLC Pack | 317958 | [317958-moonstone-island-autumnal-accessories-dlc-pack.json](./317958-moonstone-island-autumnal-accessories-dlc-pack.json) |
+| Moonstone Island: Chef's Kiss DLC Pack | 310468 | [310468-moonstone-island-chefs-kiss-dlc-pack.json](./310468-moonstone-island-chefs-kiss-dlc-pack.json) |
 | Moonstone Island: Cozy Comforts DLC | 306555 | [306555-moonstone-island-cozy-comforts-dlc.json](./306555-moonstone-island-cozy-comforts-dlc.json) |
 | Moonstone Island: Decor Galor DLC Pack | 306556 | [306556-moonstone-island-decor-galor-dlc-pack.json](./306556-moonstone-island-decor-galor-dlc-pack.json) |
 | Moonstone Island: Decorator's Pass | 306557 | [306557-moonstone-island-decorators-pass.json](./306557-moonstone-island-decorators-pass.json) |
