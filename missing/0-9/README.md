@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Xtinction | 274943 | [274943-3xtinction.json](./274943-3xtinction.json) |
 | 3xtinction: 2urvive Mercenaries Pack | 377375 | [377375-3xtinction-2urvive-mercenaries-pack.json](./377375-3xtinction-2urvive-mercenaries-pack.json) |
 | 3xtinction: Broken Mind Mercenaries Pack | 377376 | [377376-3xtinction-broken-mind-mercenaries-pack.json](./377376-3xtinction-broken-mind-mercenaries-pack.json) |
+| 3xtinction: Deluxe Edition | 331244 | [331244-3xtinction-deluxe-edition.json](./331244-3xtinction-deluxe-edition.json) |
 | 3xtinction: Premium Pack 2 | 377377 | [377377-3xtinction-premium-pack-2.json](./377377-3xtinction-premium-pack-2.json) |
 | 4 Action Hits Collection | 420699 | [420699-4-action-hits-collection.json](./420699-4-action-hits-collection.json) |
 | 4 Alice : Lorange Journey | 76508 | [76508-4-alice-lorange-journey.json](./76508-4-alice-lorange-journey.json) |
