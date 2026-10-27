@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carestia | 136143 | [136143-carestia.json](./136143-carestia.json) |
 | Caretaker | 362014 | [362014-caretaker.json](./362014-caretaker.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
+| Caretaker: The Bureau | 324822 | [324822-caretaker-the-bureau.json](./324822-caretaker-the-bureau.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
 | Cargasm | 79256 | [79256-cargasm.json](./79256-cargasm.json) |
 | Cargo | 222774 | [222774-cargo.json](./222774-cargo.json) |
@@ -2864,6 +2865,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Demolition VR | 55260 | [55260-castle-demolition-vr.json](./55260-castle-demolition-vr.json) |
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
 | Castle Diorama | 183398 | [183398-castle-diorama.json](./183398-castle-diorama.json) |
+| Castle Doombad 2: Muahaha! | 324787 | [324787-castle-doombad-2-muahaha.json](./324787-castle-doombad-2-muahaha.json) |
+| Castle Doombad Classic | 324781 | [324781-castle-doombad-classic.json](./324781-castle-doombad-classic.json) |
+| Castle Doombad: Free To Slay | 324780 | [324780-castle-doombad-free-to-slay.json](./324780-castle-doombad-free-to-slay.json) |
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Empire | 263969 | [263969-castle-empire.json](./263969-castle-empire.json) |
 | Castle Escape | 187100 | [187100-castle-escape.json](./187100-castle-escape.json) |
@@ -6488,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chompy: The Greedy Crocodile | 138626 | [138626-chompy-the-greedy-crocodile.json](./138626-chompy-the-greedy-crocodile.json) |
 | Chóngshēng Zhànshì | 158537 | [158537-chongsheng-zhanshi.json](./158537-chongsheng-zhanshi.json) |
 | Chonka | 142212 | [142212-chonka.json](./142212-chonka.json) |
+| Chonkers | 324792 | [324792-chonkers.json](./324792-chonkers.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
@@ -10119,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorfall | 404788 | [404788-colorfall.json](./404788-colorfall.json) |
 | Colorfill | 278884 | [278884-colorfill.json](./278884-colorfill.json) |
 | Colorfle | 265042 | [265042-colorfle.json](./265042-colorfle.json) |
+| Colorfle Unlimited | 324821 | [324821-colorfle-unlimited.json](./324821-colorfle-unlimited.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
