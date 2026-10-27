@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5297,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bella II | 260938 | [260938-bella-ii.json](./260938-bella-ii.json) |
 | Bella Sara | 269570 | [269570-bella-sara.json](./269570-bella-sara.json) |
 | Bella Sara 2: The Magic of Drasilmare | 84987 | [84987-bella-sara-2-the-magic-of-drasilmare.json](./84987-bella-sara-2-the-magic-of-drasilmare.json) |
+| Bella Wants Blood | 302981 | [302981-bella-wants-blood.json](./302981-bella-wants-blood.json) |
 | Bella-Anna's Head | 376554 | [376554-bella-annas-head.json](./376554-bella-annas-head.json) |
 | Bella: The girl in the Woods | 148836 | [148836-bella-the-girl-in-the-woods.json](./148836-bella-the-girl-in-the-woods.json) |
 | Belladonna | 301696 | [301696-belladonna.json](./301696-belladonna.json) |
@@ -14948,6 +14950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny & Piggy | 30692 | [30692-bunny-and-piggy.json](./30692-bunny-and-piggy.json) |
 | Bunny Adventure | 147918 | [147918-bunny-adventure.json](./147918-bunny-adventure.json) |
 | Bunny Adventure | 86397 | [86397-bunny-adventure.json](./86397-bunny-adventure.json) |
+| Bunny Alice in Wonderland | 302913 | [302913-bunny-alice-in-wonderland.json](./302913-bunny-alice-in-wonderland.json) |
 | Bunny Bastion | 419379 | [419379-bunny-bastion.json](./419379-bunny-bastion.json) |
 | Bunny Battle Nemesis | 255612 | [255612-bunny-battle-nemesis.json](./255612-bunny-battle-nemesis.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
