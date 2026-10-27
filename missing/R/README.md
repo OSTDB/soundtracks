@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor | 352790 | [352790-raptor.json](./352790-raptor.json) |
 | Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
 | Raptor Evolution: Gold Edition | 404283 | [404283-raptor-evolution-gold-edition.json](./404283-raptor-evolution-gold-edition.json) |
+| Raptor RPG: Dino Sim | 328377 | [328377-raptor-rpg-dino-sim.json](./328377-raptor-rpg-dino-sim.json) |
 | Raptor Runner | 349656 | [349656-raptor-runner.json](./349656-raptor-runner.json) |
 | Raptor Rush | 242610 | [242610-raptor-rush.json](./242610-raptor-rush.json) |
 | Raptor Territory | 143449 | [143449-raptor-territory.json](./143449-raptor-territory.json) |
@@ -7110,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Homeward 3: Underwater World | 120951 | [120951-road-homeward-3-underwater-world.json](./120951-road-homeward-3-underwater-world.json) |
 | Road Homeward 4: Last Step | 123557 | [123557-road-homeward-4-last-step.json](./123557-road-homeward-4-last-step.json) |
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
+| Road Island Adventure | 328376 | [328376-road-island-adventure.json](./328376-road-island-adventure.json) |
 | Road Jumper | 394482 | [394482-road-jumper.json](./394482-road-jumper.json) |
 | Road Kings | 361840 | [361840-road-kings.json](./361840-road-kings.json) |
 | Road Legends | 90128 | [90128-road-legends.json](./90128-road-legends.json) |
