@@ -10724,6 +10724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines of Volantis | 121354 | [121354-mines-of-volantis.json](./121354-mines-of-volantis.json) |
 | Minescroller | 178612 | [178612-minescroller.json](./178612-minescroller.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
+| MineSorter | 298545 | [298545-minesorter.json](./298545-minesorter.json) |
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
 | MineSweep | 96878 | [96878-minesweep.json](./96878-minesweep.json) |
 | Minesweeper | 234164 | [234164-minesweeper.json](./234164-minesweeper.json) |
@@ -13627,6 +13628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster of Nyum | 192675 | [192675-monster-of-nyum.json](./192675-monster-of-nyum.json) |
 | Monster of the Deep: Final Fantasy XV | 37087 | [37087-monster-of-the-deep-final-fantasy-xv.json](./37087-monster-of-the-deep-final-fantasy-xv.json) |
 | Monster of the Matrix | 179558 | [179558-monster-of-the-matrix.json](./179558-monster-of-the-matrix.json) |
+| Monster of the Weekend | 297427 | [297427-monster-of-the-weekend.json](./297427-monster-of-the-weekend.json) |
 | Monster Ops 10 | 379334 | [379334-monster-ops-10.json](./379334-monster-ops-10.json) |
 | Monster Ops 12 | 349272 | [349272-monster-ops-12.json](./349272-monster-ops-12.json) |
 | Monster Ops 13 | 400692 | [400692-monster-ops-13.json](./400692-monster-ops-13.json) |
@@ -13974,6 +13976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monti: The Hidden Secret | 278989 | [278989-monti-the-hidden-secret.json](./278989-monti-the-hidden-secret.json) |
 | Montjoie! | 66719 | [66719-montjoie.json](./66719-montjoie.json) |
 | Montone | 415887 | [415887-montone.json](./415887-montone.json) |
+| MonTowers: Legend of Summoners | 299097 | [299097-montowers-legend-of-summoners.json](./299097-montowers-legend-of-summoners.json) |
 | MonTowers2 | 224008 | [224008-montowers2.json](./224008-montowers2.json) |
 | Monty is Innocent | 26279 | [26279-monty-is-innocent.json](./26279-monty-is-innocent.json) |
 | Monty Mole Island | 282731 | [282731-monty-mole-island.json](./282731-monty-mole-island.json) |
@@ -14137,6 +14140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Village | 119639 | [119639-moon-village.json](./119639-moon-village.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
 | Moon War | 40560 | [40560-moon-war.json](./40560-moon-war.json) |
+| Moon War Meta | 298071 | [298071-moon-war-meta.json](./298071-moon-war-meta.json) |
 | Moon Wars | 287233 | [287233-moon-wars.json](./287233-moon-wars.json) |
 | Moon Watch | 315789 | [315789-moon-watch.json](./315789-moon-watch.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
@@ -14484,6 +14488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
 | Mori no Fukurou | 72270 | [72270-mori-no-fukurou.json](./72270-mori-no-fukurou.json) |
 | Mori no Naka de Mayoi Ie kara no Dasshutsu | 358494 | [358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json](./358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json) |
+| Mori no Naku Shunkan he: The End of a Saga | 299185 | [299185-mori-no-naku-shunkan-he-the-end-of-a-saga.json](./299185-mori-no-naku-shunkan-he-the-end-of-a-saga.json) |
 | Mòrì Zhàn Jī | 367585 | [367585-mori-zhan-ji.json](./367585-mori-zhan-ji.json) |
 | Mori's Nightmare: Hide and seek | 159842 | [159842-moris-nightmare-hide-and-seek.json](./159842-moris-nightmare-hide-and-seek.json) |
 | Moria | 77304 | [77304-moria.json](./77304-moria.json) |
@@ -15473,6 +15478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Trophy | 59057 | [59057-mouse-trophy.json](./59057-mouse-trophy.json) |
 | Mouse Wants Cheese | 261308 | [261308-mouse-wants-cheese.json](./261308-mouse-wants-cheese.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
+| Mouse World | 298081 | [298081-mouse-world.json](./298081-mouse-world.json) |
 | Mouse: P.I. For Hire Story DLC | 401468 | [401468-mouse-p-i-for-hire-story-dlc.json](./401468-mouse-p-i-for-hire-story-dlc.json) |
 | MouseBot | 112062 | [112062-mousebot.json](./112062-mousebot.json) |
 | MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
@@ -17422,6 +17428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Gyaru Girlfriend | 210609 | [210609-my-gyaru-girlfriend.json](./210609-my-gyaru-girlfriend.json) |
 | My Gym Mommy Treats Me Like A Kid | 393560 | [393560-my-gym-mommy-treats-me-like-a-kid.json](./393560-my-gym-mommy-treats-me-like-a-kid.json) |
 | My Gym: Fitness Studio Manager | 233473 | [233473-my-gym-fitness-studio-manager.json](./233473-my-gym-fitness-studio-manager.json) |
+| My Hamster Pet | 298539 | [298539-my-hamster-pet.json](./298539-my-hamster-pet.json) |
 | My Happy Place | 229774 | [229774-my-happy-place.json](./229774-my-happy-place.json) |
 | My Haunted Doll | 125061 | [125061-my-haunted-doll.json](./125061-my-haunted-doll.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
@@ -17994,6 +18001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Bully | 206027 | [206027-my-sweet-bully.json](./206027-my-sweet-bully.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
+| My Sweet Home Dungeon | 299199 | [299199-my-sweet-home-dungeon.json](./299199-my-sweet-home-dungeon.json) |
 | My Sweet Puppy Love | 208280 | [208280-my-sweet-puppy-love.json](./208280-my-sweet-puppy-love.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
 | My Sweet Stalker | 205998 | [205998-my-sweet-stalker.json](./205998-my-sweet-stalker.json) |
