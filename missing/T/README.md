@@ -8502,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gateway Trilogy | 51980 | [51980-the-gateway-trilogy.json](./51980-the-gateway-trilogy.json) |
 | The Gauntlet | 294930 | [294930-the-gauntlet.json](./294930-the-gauntlet.json) |
 | The Gayest & Greyest Castle In All Of Parthoris | 268870 | [268870-the-gayest-and-greyest-castle-in-all-of-parthoris.json](./268870-the-gayest-and-greyest-castle-in-all-of-parthoris.json) |
+| The Gaze of The Eternal Sun | 302409 | [302409-the-gaze-of-the-eternal-sun.json](./302409-the-gaze-of-the-eternal-sun.json) |
 | The Gazebo | 358949 | [358949-the-gazebo.json](./358949-the-gazebo.json) |
 | The Gears Don't Grind | 124573 | [124573-the-gears-dont-grind.json](./124573-the-gears-dont-grind.json) |
 | The Geekwad: Games of the Galaxy | 71772 | [71772-the-geekwad-games-of-the-galaxy.json](./71772-the-geekwad-games-of-the-galaxy.json) |
@@ -13537,6 +13538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacred Amulet | 57581 | [57581-the-sacred-amulet.json](./57581-the-sacred-amulet.json) |
 | The Sacred Geography of Kazakhstan | 214701 | [214701-the-sacred-geography-of-kazakhstan.json](./214701-the-sacred-geography-of-kazakhstan.json) |
 | The Sacred Hero | 26872 | [26872-the-sacred-hero.json](./26872-the-sacred-hero.json) |
+| The Sacred Memory | 302323 | [302323-the-sacred-memory.json](./302323-the-sacred-memory.json) |
 | The Sacred Mirror of Kofun | 70081 | [70081-the-sacred-mirror-of-kofun.json](./70081-the-sacred-mirror-of-kofun.json) |
 | The Sacred Stone: A Story Adventure | 33777 | [33777-the-sacred-stone-a-story-adventure.json](./33777-the-sacred-stone-a-story-adventure.json) |
 | The Sacred Tears True | 9483 | [9483-the-sacred-tears-true.json](./9483-the-sacred-tears-true.json) |
@@ -14570,6 +14572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spreader | 312021 | [312021-the-spreader.json](./312021-the-spreader.json) |
 | The Spring | 366312 | [366312-the-spring.json](./366312-the-spring.json) |
 | The Springlock: Aftermath | 315504 | [315504-the-springlock-aftermath.json](./315504-the-springlock-aftermath.json) |
+| The SpudFather | 302329 | [302329-the-spudfather.json](./302329-the-spudfather.json) |
 | The Spy | 94115 | [94115-the-spy.json](./94115-the-spy.json) |
 | The Spy I Married | 327991 | [327991-the-spy-i-married.json](./327991-the-spy-i-married.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
@@ -23008,6 +23011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Empire Builder | 127096 | [127096-tower-empire-builder.json](./127096-tower-empire-builder.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower Fall | 211643 | [211643-tower-fall.json](./211643-tower-fall.json) |
+| Tower Field | 302328 | [302328-tower-field.json](./302328-tower-field.json) |
 | Tower Fortress | 75968 | [75968-tower-fortress.json](./75968-tower-fortress.json) |
 | Tower FRA | 55985 | [55985-tower-fra.json](./55985-tower-fra.json) |
 | Tower Guy: Remastered | 177224 | [177224-tower-guy-remastered.json](./177224-tower-guy-remastered.json) |
