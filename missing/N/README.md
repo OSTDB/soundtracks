@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu Uso: Ahead of the Reminiscence | 379631 | [379631-natsu-uso-ahead-of-the-reminiscence.json](./379631-natsu-uso-ahead-of-the-reminiscence.json) |
 | Natsu Yume Kanata | 391261 | [391261-natsu-yume-kanata.json](./391261-natsu-yume-kanata.json) |
 | Natsu-Mon: 20th Century Summer Kid | 236697 | [236697-natsu-mon-20th-century-summer-kid.json](./236697-natsu-mon-20th-century-summer-kid.json) |
+| Natsu-Mon: 20th Century Summer Kid Sunset Bundle | 312075 | [312075-natsu-mon-20th-century-summer-kid-sunset-bundle.json](./312075-natsu-mon-20th-century-summer-kid-sunset-bundle.json) |
 | Natsu-Mon: 20th Century Summer Kid: Broadcast Over Sunset | 306196 | [306196-natsu-mon-20th-century-summer-kid-broadcast-over-sunset.json](./306196-natsu-mon-20th-century-summer-kid-broadcast-over-sunset.json) |
 | Natsuha & Fuyumi: When Summer And Winter Meet | 383060 | [383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json](./383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json) |
 | Natsuiro Communication | 77943 | [77943-natsuiro-communication.json](./77943-natsuiro-communication.json) |
