@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Nivis | 211264 | [211264-red-nivis.json](./211264-red-nivis.json) |
 | Red Nose Guy Gauntlet Inc.: The Burnout | 371328 | [371328-red-nose-guy-gauntlet-inc-the-burnout.json](./371328-red-nose-guy-gauntlet-inc-the-burnout.json) |
 | Red Nose Guy Suika | 280326 | [280326-red-nose-guy-suika.json](./280326-red-nose-guy-suika.json) |
+| Red Nose Guy The LegenDairy Quest | 309388 | [309388-red-nose-guy-the-legendairy-quest.json](./309388-red-nose-guy-the-legendairy-quest.json) |
 | Red November | 94031 | [94031-red-november.json](./94031-red-november.json) |
 | Red Oath: The Forsaken One | 391528 | [391528-red-oath-the-forsaken-one.json](./391528-red-oath-the-forsaken-one.json) |
 | Red Obsidian Remnant | 29070 | [29070-red-obsidian-remnant.json](./29070-red-obsidian-remnant.json) |
@@ -4959,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Kids | 216957 | [216957-restless-kids.json](./216957-restless-kids.json) |
 | Restless Lands | 262815 | [262815-restless-lands.json](./262815-restless-lands.json) |
 | Restless Night | 154901 | [154901-restless-night.json](./154901-restless-night.json) |
+| Restless Nights | 309398 | [309398-restless-nights.json](./309398-restless-nights.json) |
 | Restless Nights | 393756 | [393756-restless-nights.json](./393756-restless-nights.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Spirit | 99468 | [99468-restless-spirit.json](./99468-restless-spirit.json) |
