@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Aerobics | 48176 | [48176-dance-aerobics.json](./48176-dance-aerobics.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Assembly | 228504 | [228504-dance-assembly.json](./228504-dance-assembly.json) |
+| Dance Break Dance | 317171 | [317171-dance-break-dance.json](./317171-dance-break-dance.json) |
 | Dance Central | 175660 | [175660-dance-central.json](./175660-dance-central.json) |
 | Dance Central | 18953 | [18953-dance-central.json](./18953-dance-central.json) |
 | Dance Central 2 | 20091 | [20091-dance-central-2.json](./20091-dance-central-2.json) |
