@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
 | Baseball | 277862 | [277862-baseball.json](./277862-baseball.json) |
 | Baseball | 280876 | [280876-baseball.json](./280876-baseball.json) |
+| Baseball | 281220 | [281220-baseball.json](./281220-baseball.json) |
 | Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
 | Baseball | 299610 | [299610-baseball.json](./299610-baseball.json) |
 | Baseball | 300004 | [300004-baseball.json](./300004-baseball.json) |
@@ -2691,6 +2693,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball | 18344 | [18344-basketball.json](./18344-basketball.json) |
 | Basketball | 191088 | [191088-basketball.json](./191088-basketball.json) |
 | Basketball | 246504 | [246504-basketball.json](./246504-basketball.json) |
+| Basketball | 281219 | [281219-basketball.json](./281219-basketball.json) |
+| Basketball | 281235 | [281235-basketball.json](./281235-basketball.json) |
 | Basketball | 346079 | [346079-basketball.json](./346079-basketball.json) |
 | Basketball | 347704 | [347704-basketball.json](./347704-basketball.json) |
 | Basketball | 5689 | [5689-basketball.json](./5689-basketball.json) |
@@ -3012,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battington Manor | 393481 | [393481-battington-manor.json](./393481-battington-manor.json) |
 | Battland | 292612 | [292612-battland.json](./292612-battland.json) |
 | Battlantis | 38544 | [38544-battlantis.json](./38544-battlantis.json) |
+| Battle | 281218 | [281218-battle.json](./281218-battle.json) |
 | Battle | 299815 | [299815-battle.json](./299815-battle.json) |
 | Battle | 333448 | [333448-battle.json](./333448-battle.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
@@ -8246,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Runner 9732 | 80854 | [80854-blade-runner-9732.json](./80854-blade-runner-9732.json) |
 | Blade Runner: Enhanced Edition | 131847 | [131847-blade-runner-enhanced-edition.json](./131847-blade-runner-enhanced-edition.json) |
 | Blade Runner: Revelations | 100901 | [100901-blade-runner-revelations.json](./100901-blade-runner-revelations.json) |
+| Blade Sight | 281227 | [281227-blade-sight.json](./281227-blade-sight.json) |
 | Blade Strangers | 37032 | [37032-blade-strangers.json](./37032-blade-strangers.json) |
 | Blade Symphony | 8408 | [8408-blade-symphony.json](./8408-blade-symphony.json) |
 | Blade Tempest | 372454 | [372454-blade-tempest.json](./372454-blade-tempest.json) |
@@ -10484,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Kounts | 423863 | [423863-body-kounts.json](./423863-body-kounts.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body of Mine | 302198 | [302198-body-of-mine.json](./302198-body-of-mine.json) |
+| Body of Work | 281443 | [281443-body-of-work.json](./281443-body-of-work.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Slam | 40095 | [40095-body-slam.json](./40095-body-slam.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
@@ -15404,6 +15411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Squad | 169729 | [169729-burst-squad.json](./169729-burst-squad.json) |
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
 | Burst! | 321409 | [321409-burst.json](./321409-burst.json) |
+| Bursting Balloons | 281237 | [281237-bursting-balloons.json](./281237-bursting-balloons.json) |
 | Burstly | 74742 | [74742-burstly.json](./74742-burstly.json) |
 | BursTrick: Wake Boarding!! | 44766 | [44766-burstrick-wake-boarding.json](./44766-burstrick-wake-boarding.json) |
 | Burt Roger | 176806 | [176806-burt-roger.json](./176806-burt-roger.json) |
