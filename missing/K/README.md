@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalma | 349470 | [349470-kalma.json](./349470-kalma.json) |
 | Kalonline | 32613 | [32613-kalonline.json](./32613-kalonline.json) |
 | Kalpa | 170466 | [170466-kalpa.json](./170466-kalpa.json) |
+| Kalpa of Sword | 328925 | [328925-kalpa-of-sword.json](./328925-kalpa-of-sword.json) |
 | Kalpa of Universe: Mobile | 145542 | [145542-kalpa-of-universe-mobile.json](./145542-kalpa-of-universe-mobile.json) |
 | Kalpa: Cosmic Symphony | 292295 | [292295-kalpa-cosmic-symphony.json](./292295-kalpa-cosmic-symphony.json) |
 | Kalpa: Cosmic Symphony - Camellia Pack | 397712 | [397712-kalpa-cosmic-symphony-camellia-pack.json](./397712-kalpa-cosmic-symphony-camellia-pack.json) |
@@ -648,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanokon: Esuii | 72556 | [72556-kanokon-esuii.json](./72556-kanokon-esuii.json) |
 | Kanon | 290848 | [290848-kanon.json](./290848-kanon.json) |
 | Kanon | 290878 | [290878-kanon.json](./290878-kanon.json) |
+| Kanon no Kakin Nikki | 330659 | [330659-kanon-no-kakin-nikki.json](./330659-kanon-no-kakin-nikki.json) |
 | Kanon: Best Edition | 290863 | [290863-kanon-best-edition.json](./290863-kanon-best-edition.json) |
 | Kanon: Standard Edition | 290871 | [290871-kanon-standard-edition.json](./290871-kanon-standard-edition.json) |
 | Kanoso | 301523 | [301523-kanoso.json](./301523-kanoso.json) |
@@ -791,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karateka | 27551 | [27551-karateka.json](./27551-karateka.json) |
 | Karateka | 4602 | [4602-karateka.json](./4602-karateka.json) |
 | Karawan | 180232 | [180232-karawan.json](./180232-karawan.json) |
+| Karazakushiki | 330648 | [330648-karazakushiki.json](./330648-karazakushiki.json) |
 | KarBoom | 62667 | [62667-karboom.json](./62667-karboom.json) |
 | Kardashev | 267847 | [267847-kardashev.json](./267847-kardashev.json) |
 | Kardboard Kings: Card Game Island | 222960 | [222960-kardboard-kings-card-game-island.json](./222960-kardboard-kings-card-game-island.json) |
@@ -5306,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
 | KWRPGII | 323969 | [323969-kwrpgii.json](./323969-kwrpgii.json) |
 | KWRPGIII | 323922 | [323922-kwrpgiii.json](./323922-kwrpgiii.json) |
+| Kwun Tong | 330666 | [330666-kwun-tong.json](./330666-kwun-tong.json) |
 | Kyatto Ninden Teyandee | 24480 | [24480-kyatto-ninden-teyandee.json](./24480-kyatto-ninden-teyandee.json) |
 | Kyber Knights | 126927 | [126927-kyber-knights.json](./126927-kyber-knights.json) |
 | Kye | 271700 | [271700-kye.json](./271700-kye.json) |
