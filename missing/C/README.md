@@ -12173,6 +12173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
 | Copter Crisis | 51123 | [51123-copter-crisis.json](./51123-copter-crisis.json) |
 | Copter Strike VR | 240628 | [240628-copter-strike-vr.json](./240628-copter-strike-vr.json) |
+| Copter.io | 322527 | [322527-copter-io.json](./322527-copter-io.json) |
 | Copts & Robbers | 59766 | [59766-copts-and-robbers.json](./59766-copts-and-robbers.json) |
 | Copy Cats | 407162 | [407162-copy-cats.json](./407162-copy-cats.json) |
 | Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
