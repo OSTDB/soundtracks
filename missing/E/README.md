@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagletalon vs. Horde of the Flies | 127604 | [127604-eagletalon-vs-horde-of-the-flies.json](./127604-eagletalon-vs-horde-of-the-flies.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Ear Cat | 100916 | [100916-ear-cat.json](./100916-ear-cat.json) |
+| Ear Clicker | 330496 | [330496-ear-clicker.json](./330496-ear-clicker.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
 | Earache: Extreme Metal Racing | 72596 | [72596-earache-extreme-metal-racing.json](./72596-earache-extreme-metal-racing.json) |
 | Eardis: Revolution Force | 112893 | [112893-eardis-revolution-force.json](./112893-eardis-revolution-force.json) |
@@ -4445,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Lost World | 133676 | [133676-escape-from-the-lost-world.json](./133676-escape-from-the-lost-world.json) |
 | Escape from the Marble Monster | 216733 | [216733-escape-from-the-marble-monster.json](./216733-escape-from-the-marble-monster.json) |
 | Escape from the Mindmaster | 18567 | [18567-escape-from-the-mindmaster.json](./18567-escape-from-the-mindmaster.json) |
+| Escape from the nightmare | 330655 | [330655-escape-from-the-nightmare.json](./330655-escape-from-the-nightmare.json) |
 | Escape from the Nuke | 276099 | [276099-escape-from-the-nuke.json](./276099-escape-from-the-nuke.json) |
 | Escape From the Pharaoh's Tomb | 312084 | [312084-escape-from-the-pharaohs-tomb.json](./312084-escape-from-the-pharaohs-tomb.json) |
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
@@ -5535,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve of the Genesis | 38500 | [38500-eve-of-the-genesis.json](./38500-eve-of-the-genesis.json) |
 | Eve of the Storm | 265558 | [265558-eve-of-the-storm.json](./265558-eve-of-the-storm.json) |
 | Eve Online | 2584 | [2584-eve-online.json](./2584-eve-online.json) |
+| Eve Online: 20th Anniversary Collector's Edition | 330639 | [330639-eve-online-20th-anniversary-collectors-edition.json](./330639-eve-online-20th-anniversary-collectors-edition.json) |
 | Eve Online: Apocrypha | 329789 | [329789-eve-online-apocrypha.json](./329789-eve-online-apocrypha.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
 | Eve Online: Citadel | 329907 | [329907-eve-online-citadel.json](./329907-eve-online-citadel.json) |
