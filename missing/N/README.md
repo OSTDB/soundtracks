@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopirate | 244149 | [244149-nekopirate.json](./244149-nekopirate.json) |
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
 | Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
+| NekoSpin | 330095 | [330095-nekospin.json](./330095-nekospin.json) |
 | Nekoto | 296594 | [296594-nekoto.json](./296594-nekoto.json) |
 | Nekour | 138501 | [138501-nekour.json](./138501-nekour.json) |
 | Nekowater | 274034 | [274034-nekowater.json](./274034-nekowater.json) |
@@ -6325,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nullmaze | 158415 | [158415-nullmaze.json](./158415-nullmaze.json) |
 | Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
 | Nullpointer | 68446 | [68446-nullpointer.json](./68446-nullpointer.json) |
+| Nullpomino | 330075 | [330075-nullpomino.json](./330075-nullpomino.json) |
 | Nullptr | 158234 | [158234-nullptr.json](./158234-nullptr.json) |
 | Nüllptr | 181675 | [181675-nullptr.json](./181675-nullptr.json) |
 | Nullschwert | 258419 | [258419-nullschwert.json](./258419-nullschwert.json) |
