@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7957,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack | 131529 | [131529-blackjack.json](./131529-blackjack.json) |
 | Blackjack | 204476 | [204476-blackjack.json](./204476-blackjack.json) |
 | Blackjack | 224087 | [224087-blackjack.json](./224087-blackjack.json) |
+| Blackjack | 315460 | [315460-blackjack.json](./315460-blackjack.json) |
 | Blackjack | 348302 | [348302-blackjack.json](./348302-blackjack.json) |
 | Blackjack | 41530 | [41530-blackjack.json](./41530-blackjack.json) |
 | Blackjack | 418292 | [418292-blackjack.json](./418292-blackjack.json) |
@@ -9694,6 +9696,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar 4 | 24104 | [24104-bloody-roar-4.json](./24104-bloody-roar-4.json) |
 | Bloody Roar Extreme | 225826 | [225826-bloody-roar-extreme.json](./225826-bloody-roar-extreme.json) |
 | Bloody Rune | 320433 | [320433-bloody-rune.json](./320433-bloody-rune.json) |
+| Bloody Rust | 315537 | [315537-bloody-rust.json](./315537-bloody-rust.json) |
+| Bloody Rust 2 | 315538 | [315538-bloody-rust-2.json](./315538-bloody-rust-2.json) |
 | Bloody Sand: The Gods Of Assyria | 150476 | [150476-bloody-sand-the-gods-of-assyria.json](./150476-bloody-sand-the-gods-of-assyria.json) |
 | Bloody Service | 155948 | [155948-bloody-service.json](./155948-bloody-service.json) |
 | Bloody Shrine | 284019 | [284019-bloody-shrine.json](./284019-bloody-shrine.json) |
