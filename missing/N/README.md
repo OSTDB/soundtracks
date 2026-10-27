@@ -3780,6 +3780,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Stop | 228319 | [228319-night-stop.json](./228319-night-stop.json) |
 | Night Strike Infiltrators | 185388 | [185388-night-strike-infiltrators.json](./185388-night-strike-infiltrators.json) |
 | Night Strike Resistance: WW2 | 386782 | [386782-night-strike-resistance-ww2.json](./386782-night-strike-resistance-ww2.json) |
+| Night Striker | 307654 | [307654-night-striker.json](./307654-night-striker.json) |
+| Night Striker | 307655 | [307655-night-striker.json](./307655-night-striker.json) |
 | Night Striker | 37324 | [37324-night-striker.json](./37324-night-striker.json) |
 | Night Striker Gear | 330380 | [330380-night-striker-gear.json](./330380-night-striker-gear.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
