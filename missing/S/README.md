@@ -3552,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Sealed Fortress | 403228 | [403228-sealed-fortress.json](./403228-sealed-fortress.json) |
+| Sealed in Wax | 285957 | [285957-sealed-in-wax.json](./285957-sealed-in-wax.json) |
 | Sealed With a Dragon’s Kiss | 298988 | [298988-sealed-with-a-dragon-s-kiss.json](./298988-sealed-with-a-dragon-s-kiss.json) |
 | Sealer Assist | 103954 | [103954-sealer-assist.json](./103954-sealer-assist.json) |
 | Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
@@ -5186,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
 | Seven Stars 3D 2 | 381262 | [381262-seven-stars-3d-2.json](./381262-seven-stars-3d-2.json) |
 | Seven Suns of Orion | 418732 | [418732-seven-suns-of-orion.json](./418732-seven-suns-of-orion.json) |
+| Seven Trials of Magic | 285955 | [285955-seven-trials-of-magic.json](./285955-seven-trials-of-magic.json) |
 | Seven Weeks of Cat Monarchy | 59338 | [59338-seven-weeks-of-cat-monarchy.json](./59338-seven-weeks-of-cat-monarchy.json) |
 | Seven Wonders of St. Clementine | 120944 | [120944-seven-wonders-of-st-clementine.json](./120944-seven-wonders-of-st-clementine.json) |
 | Seven: Drowned Past | 280861 | [280861-seven-drowned-past.json](./280861-seven-drowned-past.json) |
@@ -8984,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Thunder: A-10 Tank Killer II | 871 | [871-silent-thunder-a-10-tank-killer-ii.json](./871-silent-thunder-a-10-tank-killer-ii.json) |
 | Silent Tweets | 87987 | [87987-silent-tweets.json](./87987-silent-tweets.json) |
 | Silent Water | 397415 | [397415-silent-water.json](./397415-silent-water.json) |
+| Silent Weapons for Quiet Wars | 285959 | [285959-silent-weapons-for-quiet-wars.json](./285959-silent-weapons-for-quiet-wars.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
 | Silent Woods: the Cleansed | 150626 | [150626-silent-woods-the-cleansed.json](./150626-silent-woods-the-cleansed.json) |
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
@@ -11304,6 +11307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SleepingPills | 383515 | [383515-sleepingpills.json](./383515-sleepingpills.json) |
 | Sleepless | 177804 | [177804-sleepless.json](./177804-sleepless.json) |
 | Sleepless | 201637 | [201637-sleepless.json](./201637-sleepless.json) |
+| Sleepless | 285833 | [285833-sleepless.json](./285833-sleepless.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepless in the Sapphire City | 299864 | [299864-sleepless-in-the-sapphire-city.json](./299864-sleepless-in-the-sapphire-city.json) |
 | Sleepless Night | 172485 | [172485-sleepless-night.json](./172485-sleepless-night.json) |
@@ -11749,6 +11753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slip Oot | 368981 | [368981-slip-oot.json](./368981-slip-oot.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
+| SlipBreak | 285954 | [285954-slipbreak.json](./285954-slipbreak.json) |
 | SlipDream Resonator | 190379 | [190379-slipdream-resonator.json](./190379-slipdream-resonator.json) |
 | SlipDrive | 104553 | [104553-slipdrive.json](./104553-slipdrive.json) |
 | Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
@@ -18785,6 +18790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Solitaire | 90511 | [90511-spirit-solitaire.json](./90511-spirit-solitaire.json) |
 | Spirit Speaker | 335854 | [335854-spirit-speaker.json](./335854-spirit-speaker.json) |
 | Spirit Stones | 39178 | [39178-spirit-stones.json](./39178-spirit-stones.json) |
+| Spirit Summoner | 286020 | [286020-spirit-summoner.json](./286020-spirit-summoner.json) |
 | Spirit Swap | 298111 | [298111-spirit-swap.json](./298111-spirit-swap.json) |
 | Spirit Talk | 386950 | [386950-spirit-talk.json](./386950-spirit-talk.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
@@ -23527,6 +23533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Shadow | 258651 | [258651-strange-shadow.json](./258651-strange-shadow.json) |
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
 | Strange Space | 35437 | [35437-strange-space.json](./35437-strange-space.json) |
+| Strange Survivors | 286027 | [286027-strange-survivors.json](./286027-strange-survivors.json) |
 | Strange Tales from Longchun: Sacrifice | 400188 | [400188-strange-tales-from-longchun-sacrifice.json](./400188-strange-tales-from-longchun-sacrifice.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
