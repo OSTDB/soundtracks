@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icon | 399909 | [399909-icon.json](./399909-icon.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Icon_Survive | 340520 | [340520-icon-survive.json](./340520-icon-survive.json) |
+| Iconia Defenders | 289827 | [289827-iconia-defenders.json](./289827-iconia-defenders.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
 | Iconic | 362768 | [362768-iconic.json](./362768-iconic.json) |
