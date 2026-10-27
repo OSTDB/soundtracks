@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sansara Naga 2 | 42369 | [42369-sansara-naga-2.json](./42369-sansara-naga-2.json) |
 | Sansuu Driller | 222245 | [222245-sansuu-driller.json](./222245-sansuu-driller.json) |
 | Sansuu Tsuma Zuki | 345922 | [345922-sansuu-tsuma-zuki.json](./345922-sansuu-tsuma-zuki.json) |
+| Santa | 322024 | [322024-santa.json](./322024-santa.json) |
 | Santa and Present Chaos | 278992 | [278992-santa-and-present-chaos.json](./278992-santa-and-present-chaos.json) |
 | Santa Arrow Master - Bowmaster | 104690 | [104690-santa-arrow-master-bowmaster.json](./104690-santa-arrow-master-bowmaster.json) |
 | Santa Challenge | 130959 | [130959-santa-challenge.json](./130959-santa-challenge.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw Box Jam: Bus Out | 338662 | [338662-screw-box-jam-bus-out.json](./338662-screw-box-jam-bus-out.json) |
 | Screw Dive | 362807 | [362807-screw-dive.json](./362807-screw-dive.json) |
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
+| Screw Drivers: Supporter Pack | 321953 | [321953-screw-drivers-supporter-pack.json](./321953-screw-drivers-supporter-pack.json) |
 | Screw It | 418223 | [418223-screw-it.json](./418223-screw-it.json) |
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
 | Screw Master | 340523 | [340523-screw-master.json](./340523-screw-master.json) |
@@ -4497,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semo | 369104 | [369104-semo.json](./369104-semo.json) |
 | SEMP 64 | 331964 | [331964-semp-64.json](./331964-semp-64.json) |
 | Semper Fi | 78966 | [78966-semper-fi.json](./78966-semper-fi.json) |
+| Semper Fidelis | 322013 | [322013-semper-fidelis.json](./322013-semper-fidelis.json) |
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
 | Semperfly | 372595 | [372595-semperfly.json](./372595-semperfly.json) |
 | Sempiternal | 272375 | [272375-sempiternal.json](./272375-sempiternal.json) |
@@ -8153,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
 | Shrot | 291382 | [291382-shrot.json](./291382-shrot.json) |
 | Shroud | 295999 | [295999-shroud.json](./295999-shroud.json) |
+| Shroud of Gloom | 322028 | [322028-shroud-of-gloom.json](./322028-shroud-of-gloom.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
 | Shroud of the Avatar: Forsaken Virtues | 3187 | [3187-shroud-of-the-avatar-forsaken-virtues.json](./3187-shroud-of-the-avatar-forsaken-virtues.json) |
 | Shroud of the Woods | 389729 | [389729-shroud-of-the-woods.json](./389729-shroud-of-the-woods.json) |
@@ -19535,6 +19539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squadron | 348688 | [348688-squadron.json](./348688-squadron.json) |
 | Squadron 42 | 19128 | [19128-squadron-42.json](./19128-squadron-42.json) |
 | Squadron II | 116444 | [116444-squadron-ii.json](./116444-squadron-ii.json) |
+| Squadron: Ghost | 322029 | [322029-squadron-ghost.json](./322029-squadron-ghost.json) |
 | Squadron: Sky Guardians | 51420 | [51420-squadron-sky-guardians.json](./51420-squadron-sky-guardians.json) |
 | Squake | 26229 | [26229-squake.json](./26229-squake.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
