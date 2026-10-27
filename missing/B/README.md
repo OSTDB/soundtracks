@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4071,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Buggy Racing | 11287 | [11287-beach-buggy-racing.json](./11287-beach-buggy-racing.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
 | Beach Buggy Racing 2: Tesla Edition | 341009 | [341009-beach-buggy-racing-2-tesla-edition.json](./341009-beach-buggy-racing-2-tesla-edition.json) |
+| Beach Bums | 307001 | [307001-beach-bums.json](./307001-beach-bums.json) |
 | Beach Buzzin Chopper | 42779 | [42779-beach-buzzin-chopper.json](./42779-beach-buzzin-chopper.json) |
 | Beach Cafe III: The Escape Room | 266316 | [266316-beach-cafe-iii-the-escape-room.json](./266316-beach-cafe-iii-the-escape-room.json) |
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
@@ -9197,6 +9199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
 | Blockstorm | 20920 | [20920-blockstorm.json](./20920-blockstorm.json) |
 | Blockstory | 137030 | [137030-blockstory.json](./137030-blockstory.json) |
+| Blocksworld | 306940 | [306940-blocksworld.json](./306940-blocksworld.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
 | Blocksy | 292059 | [292059-blocksy.json](./292059-blocksy.json) |
 | BlockTanks | 324917 | [324917-blocktanks.json](./324917-blocktanks.json) |
@@ -13233,6 +13236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickFall: Fun Game of Bricks | 97213 | [97213-brickfall-fun-game-of-bricks.json](./97213-brickfall-fun-game-of-bricks.json) |
 | Brickfest | 97192 | [97192-brickfest.json](./97192-brickfest.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
+| Brickgame | 307035 | [307035-brickgame.json](./307035-brickgame.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
 | Bricking in America | 90430 | [90430-bricking-in-america.json](./90430-bricking-in-america.json) |
 | Brickle | 336321 | [336321-brickle.json](./336321-brickle.json) |
@@ -15219,6 +15223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Monkey Solitaire 3 | 91560 | [91560-burning-monkey-solitaire-3.json](./91560-burning-monkey-solitaire-3.json) |
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
+| Burning Out | 306920 | [306920-burning-out.json](./306920-burning-out.json) |
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
 | Burning Rainbow | 380499 | [380499-burning-rainbow.json](./380499-burning-rainbow.json) |
 | Burning Rangers Tribute | 335632 | [335632-burning-rangers-tribute.json](./335632-burning-rangers-tribute.json) |
