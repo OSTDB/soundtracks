@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacrosse Shot | 61041 | [61041-lacrosse-shot.json](./61041-lacrosse-shot.json) |
 | Lacrymo Tennis 2016 | 135065 | [135065-lacrymo-tennis-2016.json](./135065-lacrymo-tennis-2016.json) |
 | Lacuna | 138733 | [138733-lacuna.json](./138733-lacuna.json) |
+| Lacuna + Encodya Bundle | 283194 | [283194-lacuna-encodya-bundle.json](./283194-lacuna-encodya-bundle.json) |
 | Lacuna Draft | 220592 | [220592-lacuna-draft.json](./220592-lacuna-draft.json) |
 | Lacuna Passage | 28780 | [28780-lacuna-passage.json](./28780-lacuna-passage.json) |
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Bites | 163852 | [163852-legacy-bites.json](./163852-legacy-bites.json) |
 | Legacy Code | 185034 | [185034-legacy-code.json](./185034-legacy-code.json) |
 | Legacy Code | 421444 | [421444-legacy-code.json](./421444-legacy-code.json) |
+| Legacy Mystery Bundle | 283195 | [283195-legacy-mystery-bundle.json](./283195-legacy-mystery-bundle.json) |
 | Legacy of Aeroja | 193480 | [193480-legacy-of-aeroja.json](./193480-legacy-of-aeroja.json) |
 | Legacy of Ancestors | 346589 | [346589-legacy-of-ancestors.json](./346589-legacy-of-ancestors.json) |
 | Legacy of Animal: Hog's Life 2 | 291390 | [291390-legacy-of-animal-hogs-life-2.json](./291390-legacy-of-animal-hogs-life-2.json) |
@@ -6171,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lones | 285331 | [285331-lones.json](./285331-lones.json) |
 | Lonesome Road | 349408 | [349408-lonesome-road.json](./349408-lonesome-road.json) |
 | Lonesome Town | 394660 | [394660-lonesome-town.json](./394660-lonesome-town.json) |
+| Lonesome Village + A Tiny Sticker Tale Bundle | 283196 | [283196-lonesome-village-a-tiny-sticker-tale-bundle.json](./283196-lonesome-village-a-tiny-sticker-tale-bundle.json) |
 | LoneStar | 264933 | [264933-lonestar.json](./264933-lonestar.json) |
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
 | Lonewolf: Zombie FPS 3D | 240939 | [240939-lonewolf-zombie-fps-3d.json](./240939-lonewolf-zombie-fps-3d.json) |
@@ -6549,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Click 5 | 347778 | [347778-lord-of-the-click-5.json](./347778-lord-of-the-click-5.json) |
 | Lord of the Cyberdemons | 263364 | [263364-lord-of-the-cyberdemons.json](./263364-lord-of-the-cyberdemons.json) |
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
+| Lord of the Dungeon | 283013 | [283013-lord-of-the-dungeon.json](./283013-lord-of-the-dungeon.json) |
 | Lord of the Imps | 212979 | [212979-lord-of-the-imps.json](./212979-lord-of-the-imps.json) |
 | Lord of the Jungle | 142763 | [142763-lord-of-the-jungle.json](./142763-lord-of-the-jungle.json) |
 | Lord of the Mall (Lord of Them All!) | 184253 | [184253-lord-of-the-mall-lord-of-them-all.json](./184253-lord-of-the-mall-lord-of-them-all.json) |
