@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Day Roommate | 158168 | [158168-rainy-day-roommate.json](./158168-rainy-day-roommate.json) |
 | Rainy Day Spider Solitaire | 366447 | [366447-rainy-day-spider-solitaire.json](./366447-rainy-day-spider-solitaire.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
+| Rainy Mari | 327726 | [327726-rainy-mari.json](./327726-rainy-mari.json) |
 | Rainy Morning Kitchen Fire Blues | 135778 | [135778-rainy-morning-kitchen-fire-blues.json](./135778-rainy-morning-kitchen-fire-blues.json) |
 | Rainy Neon: Baku | 138444 | [138444-rainy-neon-baku.json](./138444-rainy-neon-baku.json) |
 | Rainy Night | 128940 | [128940-rainy-night.json](./128940-rainy-night.json) |
@@ -2270,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Take | 151802 | [151802-re-take.json](./151802-re-take.json) |
 | Re:Touring | 244609 | [244609-re-touring.json](./244609-re-touring.json) |
 | Re:Turn - One Way Trip | 138021 | [138021-re-turn-one-way-trip.json](./138021-re-turn-one-way-trip.json) |
+| Re:Ver Project - Tokyo | 327755 | [327755-re-ver-project-tokyo.json](./327755-re-ver-project-tokyo.json) |
 | Re:Vessel | 202321 | [202321-re-vessel.json](./202321-re-vessel.json) |
 | Re:Zero - Infinity | 193944 | [193944-re-zero-infinity.json](./193944-re-zero-infinity.json) |
 | Re:Zero - Starting Life in Another World: Death or Kiss | 26668 | [26668-re-zero-starting-life-in-another-world-death-or-kiss.json](./26668-re-zero-starting-life-in-another-world-death-or-kiss.json) |
