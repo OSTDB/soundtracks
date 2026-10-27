@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karryn's Prison: Gym Trainer Side Job | 254050 | [254050-karryns-prison-gym-trainer-side-job.json](./254050-karryns-prison-gym-trainer-side-job.json) |
 | Karsus | 297322 | [297322-karsus.json](./297322-karsus.json) |
 | Karsus | 60620 | [60620-karsus.json](./60620-karsus.json) |
+| Kart | 296864 | [296864-kart.json](./296864-kart.json) |
 | Kart Attack | 52533 | [52533-kart-attack.json](./52533-kart-attack.json) |
 | Kart Bros | 347246 | [347246-kart-bros.json](./347246-kart-bros.json) |
 | Kart Challenge | 45057 | [45057-kart-challenge.json](./45057-kart-challenge.json) |
