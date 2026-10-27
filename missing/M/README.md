@@ -7319,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody Quest | 257444 | [257444-melody-quest.json](./257444-melody-quest.json) |
 | Melody's Escape | 16933 | [16933-melodys-escape.json](./16933-melodys-escape.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
+| Melody's Melon Mania | 311977 | [311977-melodys-melon-mania.json](./311977-melodys-melon-mania.json) |
 | Melodyssey | 204510 | [204510-melodyssey.json](./204510-melodyssey.json) |
 | MelodyVerse | 188849 | [188849-melodyverse.json](./188849-melodyverse.json) |
 | MeloMisterio: Play Your Melody | 351783 | [351783-melomisterio-play-your-melody.json](./351783-melomisterio-play-your-melody.json) |
@@ -11999,6 +12000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Ultra Deluxe | 300935 | [300935-mixx-island-remix-plus-ultra-deluxe.json](./300935-mixx-island-remix-plus-ultra-deluxe.json) |
 | Mixx Island: Remix Plus - Ultra Extended | 306545 | [306545-mixx-island-remix-plus-ultra-extended.json](./306545-mixx-island-remix-plus-ultra-extended.json) |
 | Mixx Island: Remix Plus - Ultra Legendary | 324449 | [324449-mixx-island-remix-plus-ultra-legendary.json](./324449-mixx-island-remix-plus-ultra-legendary.json) |
+| Mixx Island: Remix Plus - Ultra Premium | 312074 | [312074-mixx-island-remix-plus-ultra-premium.json](./312074-mixx-island-remix-plus-ultra-premium.json) |
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
 | Mixx Island: Remix Plus - Ultra Ultimate | 303860 | [303860-mixx-island-remix-plus-ultra-ultimate.json](./303860-mixx-island-remix-plus-ultra-ultimate.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
@@ -14219,6 +14221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
 | Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
 | Moonshot | 286048 | [286048-moonshot.json](./286048-moonshot.json) |
+| Moonshot | 312045 | [312045-moonshot.json](./312045-moonshot.json) |
 | Moonshot Mission | 370439 | [370439-moonshot-mission.json](./370439-moonshot-mission.json) |
 | Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
@@ -17424,6 +17427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My High School Life Simulator | 296739 | [296739-my-high-school-life-simulator.json](./296739-my-high-school-life-simulator.json) |
 | My Hobby: Needlework Galore - Household | 311732 | [311732-my-hobby-needlework-galore-household.json](./311732-my-hobby-needlework-galore-household.json) |
 | My Hobby: Needlework Galore - Tiny Home | 311731 | [311731-my-hobby-needlework-galore-tiny-home.json](./311731-my-hobby-needlework-galore-tiny-home.json) |
+| My Hobby: Needlework Galore - Vintage | 312054 | [312054-my-hobby-needlework-galore-vintage.json](./312054-my-hobby-needlework-galore-vintage.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
 | My Holiday Car | 106996 | [106996-my-holiday-car.json](./106996-my-holiday-car.json) |
 | My Holiday Car: Sunrise City | 104455 | [104455-my-holiday-car-sunrise-city.json](./104455-my-holiday-car-sunrise-city.json) |
