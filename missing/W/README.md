@@ -3449,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Stuffed Animals Attack! | 203103 | [203103-when-stuffed-animals-attack.json](./203103-when-stuffed-animals-attack.json) |
 | When Tails Gets Bored | 228460 | [228460-when-tails-gets-bored.json](./228460-when-tails-gets-bored.json) |
 | When Tails Gets Bored: Special Edition | 330795 | [330795-when-tails-gets-bored-special-edition.json](./330795-when-tails-gets-bored-special-edition.json) |
+| When Team3 Gets Bored | 330091 | [330091-when-team3-gets-bored.json](./330091-when-team3-gets-bored.json) |
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
 | When The Bell Goes Silent | 356517 | [356517-when-the-bell-goes-silent.json](./356517-when-the-bell-goes-silent.json) |
 | When the Devil Takes Hold | 235799 | [235799-when-the-devil-takes-hold.json](./235799-when-the-devil-takes-hold.json) |
@@ -5007,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wink Out | 404410 | [404410-wink-out.json](./404410-wink-out.json) |
 | Winkeltje: Cat Companion | 273939 | [273939-winkeltje-cat-companion.json](./273939-winkeltje-cat-companion.json) |
 | Winkeltje: The Little Shop | 114493 | [114493-winkeltje-the-little-shop.json](./114493-winkeltje-the-little-shop.json) |
+| Winken | 330088 | [330088-winken.json](./330088-winken.json) |
 | WinKings | 33889 | [33889-winkings.json](./33889-winkings.json) |
 | Winky the Little Bear | 213857 | [213857-winky-the-little-bear.json](./213857-winky-the-little-bear.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
