@@ -4178,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ourmaze | 26367 | [26367-ourmaze.json](./26367-ourmaze.json) |
 | Ourobolos | 378376 | [378376-ourobolos.json](./378376-ourobolos.json) |
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
+| Ouroboros | 308155 | [308155-ouroboros.json](./308155-ouroboros.json) |
 | Ouroboros | 340969 | [340969-ouroboros.json](./340969-ouroboros.json) |
 | Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
 | Ouroboros Solitaire | 405689 | [405689-ouroboros-solitaire.json](./405689-ouroboros-solitaire.json) |
@@ -4752,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverDrift Festival: Exclusive Cars Pack#1 | 292672 | [292672-overdrift-festival-exclusive-cars-pack-1.json](./292672-overdrift-festival-exclusive-cars-pack-1.json) |
 | Overdrive | 12710 | [12710-overdrive.json](./12710-overdrive.json) |
 | Overdrive | 203565 | [203565-overdrive.json](./203565-overdrive.json) |
+| Overdrive Blaster | 308322 | [308322-overdrive-blaster.json](./308322-overdrive-blaster.json) |
 | Overdrive City | 136934 | [136934-overdrive-city.json](./136934-overdrive-city.json) |
 | Overdrive Escape | 249296 | [249296-overdrive-escape.json](./249296-overdrive-escape.json) |
 | Overdrive II: Shadow Battle | 323169 | [323169-overdrive-ii-shadow-battle.json](./323169-overdrive-ii-shadow-battle.json) |
