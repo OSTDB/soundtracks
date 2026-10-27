@@ -6345,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoWings Safari | 30088 | [30088-gowings-safari.json](./30088-gowings-safari.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
 | Goyangi Jeongwon: Merge | 214381 | [214381-goyangi-jeongwon-merge.json](./214381-goyangi-jeongwon-merge.json) |
+| Gozen 4-ji no Manimani: Nisemono World's End | 314831 | [314831-gozen-4-ji-no-manimani-nisemono-worlds-end.json](./314831-gozen-4-ji-no-manimani-nisemono-worlds-end.json) |
 | Gozen Yoji no mani-mani | 285423 | [285423-gozen-yoji-no-mani-mani.json](./285423-gozen-yoji-no-mani-mani.json) |
 | Gozonji: Yaji Kita Chin Douchuu | 48480 | [48480-gozonji-yaji-kita-chin-douchuu.json](./48480-gozonji-yaji-kita-chin-douchuu.json) |
 | GP 500 | 93475 | [93475-gp-500.json](./93475-gp-500.json) |
