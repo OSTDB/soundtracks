@@ -5100,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire on the Mountain | 272696 | [272696-fire-on-the-mountain.json](./272696-fire-on-the-mountain.json) |
 | Fire One | 39515 | [39515-fire-one.json](./39515-fire-one.json) |
 | Fire Opal | 153875 | [153875-fire-opal.json](./153875-fire-opal.json) |
+| Fire Path | 289818 | [289818-fire-path.json](./289818-fire-path.json) |
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
@@ -10625,6 +10626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From The Forgotten | 340262 | [340262-from-the-forgotten.json](./340262-from-the-forgotten.json) |
 | From the life of a thief | 398652 | [398652-from-the-life-of-a-thief.json](./398652-from-the-life-of-a-thief.json) |
 | From The Mystery Zone | 307798 | [307798-from-the-mystery-zone.json](./307798-from-the-mystery-zone.json) |
+| From The Night | 289823 | [289823-from-the-night.json](./289823-from-the-night.json) |
 | From The Other Side | 328361 | [328361-from-the-other-side.json](./328361-from-the-other-side.json) |
 | From The Past | 329689 | [329689-from-the-past.json](./329689-from-the-past.json) |
 | From the Psychothread | 278611 | [278611-from-the-psychothread.json](./278611-from-the-psychothread.json) |
