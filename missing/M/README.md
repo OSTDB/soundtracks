@@ -6886,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalotrain | 285551 | [285551-megalotrain.json](./285551-megalotrain.json) |
 | MegaMacho Oco | 185926 | [185926-megamacho-oco.json](./185926-megamacho-oco.json) |
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
+| MegaMan Adventure | 317174 | [317174-megaman-adventure.json](./317174-megaman-adventure.json) |
 | Megaman Exe Radio | 336460 | [336460-megaman-exe-radio.json](./336460-megaman-exe-radio.json) |
 | MegaMan NT Warrior Advanced PET | 336716 | [336716-megaman-nt-warrior-advanced-pet.json](./336716-megaman-nt-warrior-advanced-pet.json) |
 | MegaMan NT Warrior Advanced PET | 352780 | [352780-megaman-nt-warrior-advanced-pet.json](./352780-megaman-nt-warrior-advanced-pet.json) |
@@ -17825,6 +17826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Space Bar | 293530 | [293530-my-space-bar.json](./293530-my-space-bar.json) |
 | My Spanish Coach | 72912 | [72912-my-spanish-coach.json](./72912-my-spanish-coach.json) |
 | My Spanish Coach Level 2: Intermediate | 92356 | [92356-my-spanish-coach-level-2-intermediate.json](./92356-my-spanish-coach-level-2-intermediate.json) |
+| My Special Summer Vacation 2 | 317178 | [317178-my-special-summer-vacation-2.json](./317178-my-special-summer-vacation-2.json) |
 | My Spelling Words | 93073 | [93073-my-spelling-words.json](./93073-my-spelling-words.json) |
 | My Splitting Image | 355231 | [355231-my-splitting-image.json](./355231-my-splitting-image.json) |
 | My Starry Princess | 298996 | [298996-my-starry-princess.json](./298996-my-starry-princess.json) |
