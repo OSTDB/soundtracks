@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad's Coming | 212671 | [212671-dads-coming.json](./212671-dads-coming.json) |
 | Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
 | Dad’s Gonna Be a Travel Influencer. | 403932 | [403932-dad-s-gonna-be-a-travel-influencer.json](./403932-dad-s-gonna-be-a-travel-influencer.json) |
+| Dad's Last Fishing Trip | 328894 | [328894-dads-last-fishing-trip.json](./328894-dads-last-fishing-trip.json) |
 | Daddy Comes Home | 330477 | [330477-daddy-comes-home.json](./330477-daddy-comes-home.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
@@ -1772,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
 | Darkest Dungeon II: Hero Origin Pack | 370240 | [370240-darkest-dungeon-ii-hero-origin-pack.json](./370240-darkest-dungeon-ii-hero-origin-pack.json) |
 | Darkest Dungeon II: Infernal Supporter Pack | 370241 | [370241-darkest-dungeon-ii-infernal-supporter-pack.json](./370241-darkest-dungeon-ii-infernal-supporter-pack.json) |
+| Darkest Dungeon II: Inhuman Bondage | 328905 | [328905-darkest-dungeon-ii-inhuman-bondage.json](./328905-darkest-dungeon-ii-inhuman-bondage.json) |
 | Darkest Dungeon II: Kingdoms | 296837 | [296837-darkest-dungeon-ii-kingdoms.json](./296837-darkest-dungeon-ii-kingdoms.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkest Dungeon II: Resolute Edition | 383423 | [383423-darkest-dungeon-ii-resolute-edition.json](./383423-darkest-dungeon-ii-resolute-edition.json) |
@@ -7303,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dictator's Creed | 212749 | [212749-dictators-creed.json](./212749-dictators-creed.json) |
 | Dictators:No Peace Countryballs | 129040 | [129040-dictators-no-peace-countryballs.json](./129040-dictators-no-peace-countryballs.json) |
 | Diction | 319124 | [319124-diction.json](./319124-diction.json) |
+| Dictionary Glory! | 328927 | [328927-dictionary-glory.json](./328927-dictionary-glory.json) |
 | Dictocracy | 344704 | [344704-dictocracy.json](./344704-dictocracy.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
 | Did It Myself ABC123 | 85087 | [85087-did-it-myself-abc123.json](./85087-did-it-myself-abc123.json) |
@@ -7844,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensions | 141810 | [141810-dimensions.json](./141810-dimensions.json) |
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
 | Dimensions 2 | 408955 | [408955-dimensions-2.json](./408955-dimensions-2.json) |
+| Dimensions of Mind | 328930 | [328930-dimensions-of-mind.json](./328930-dimensions-of-mind.json) |
 | Dimensions Puzzle | 163547 | [163547-dimensions-puzzle.json](./163547-dimensions-puzzle.json) |
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
@@ -8152,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
 | Dinosaurs and Animal Friends to the Rescue | 353999 | [353999-dinosaurs-and-animal-friends-to-the-rescue.json](./353999-dinosaurs-and-animal-friends-to-the-rescue.json) |
 | Dinosaurs Are People Too | 107662 | [107662-dinosaurs-are-people-too.json](./107662-dinosaurs-are-people-too.json) |
+| Dinosaurs in Place | 328914 | [328914-dinosaurs-in-place.json](./328914-dinosaurs-in-place.json) |
 | Dinosaurs Outbreak | 370789 | [370789-dinosaurs-outbreak.json](./370789-dinosaurs-outbreak.json) |
 | Dinosaurs Prehistoric Survivors | 99291 | [99291-dinosaurs-prehistoric-survivors.json](./99291-dinosaurs-prehistoric-survivors.json) |
 | Dinosaurs: A Prehistoric Adventure 2 | 195579 | [195579-dinosaurs-a-prehistoric-adventure-2.json](./195579-dinosaurs-a-prehistoric-adventure-2.json) |
@@ -8960,6 +8965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Displaced Defense | 253974 | [253974-displaced-defense.json](./253974-displaced-defense.json) |
+| DisplaceMen | 328919 | [328919-displacemen.json](./328919-displacemen.json) |
 | Displacement | 341422 | [341422-displacement.json](./341422-displacement.json) |
 | Displacement of Water | 417574 | [417574-displacement-of-water.json](./417574-displacement-of-water.json) |
 | Disposable Corps | 343468 | [343468-disposable-corps.json](./343468-disposable-corps.json) |
@@ -13911,6 +13917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriftOn | 129053 | [129053-drifton.json](./129053-drifton.json) |
 | Driftpunk Racer | 106456 | [106456-driftpunk-racer.json](./106456-driftpunk-racer.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
+| Driftwave | 328932 | [328932-driftwave.json](./328932-driftwave.json) |
 | DriftWay | 121981 | [121981-driftway.json](./121981-driftway.json) |
 | Driftwood | 129563 | [129563-driftwood.json](./129563-driftwood.json) |
 | Driftwood | 31831 | [31831-driftwood.json](./31831-driftwood.json) |
