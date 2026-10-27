@@ -4390,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rental Commander | 292955 | [292955-rental-commander.json](./292955-rental-commander.json) |
 | Rental House | 313336 | [313336-rental-house.json](./313336-rental-house.json) |
 | Rental-ya: Stage-gata Nazotoki Story | 212445 | [212445-rental-ya-stage-gata-nazotoki-story.json](./212445-rental-ya-stage-gata-nazotoki-story.json) |
+| Rented Nightmare | 313039 | [313039-rented-nightmare.json](./313039-rented-nightmare.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rento Fortune Monolit | 105624 | [105624-rento-fortune-monolit.json](./105624-rento-fortune-monolit.json) |
 | Rento Fortune Monolit: Deep Board | 170741 | [170741-rento-fortune-monolit-deep-board.json](./170741-rento-fortune-monolit-deep-board.json) |
@@ -5823,6 +5824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Heaven Groove: Memory Match-Up | 410642 | [410642-rhythm-heaven-groove-memory-match-up.json](./410642-rhythm-heaven-groove-memory-match-up.json) |
 | Rhythm Heaven Megamix | 18220 | [18220-rhythm-heaven-megamix.json](./18220-rhythm-heaven-megamix.json) |
 | Rhythm Heaven Megamix: Sonic 2 Edition | 314490 | [314490-rhythm-heaven-megamix-sonic-2-edition.json](./314490-rhythm-heaven-megamix-sonic-2-edition.json) |
+| Rhythm Heaven Re-Megamix | 313055 | [313055-rhythm-heaven-re-megamix.json](./313055-rhythm-heaven-re-megamix.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Hero | 152869 | [152869-rhythm-hero.json](./152869-rhythm-hero.json) |
 | Rhythm Journey | 188305 | [188305-rhythm-journey.json](./188305-rhythm-journey.json) |
