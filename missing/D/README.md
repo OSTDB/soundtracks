@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daze | 112661 | [112661-daze.json](./112661-daze.json) |
 | Daze | 229555 | [229555-daze.json](./229555-daze.json) |
 | Daze Before Christmas | 7662 | [7662-daze-before-christmas.json](./7662-daze-before-christmas.json) |
+| Dazed In Space | 318460 | [318460-dazed-in-space.json](./318460-dazed-in-space.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
 | Dazzly Stories: Ambre's Secret | 346723 | [346723-dazzly-stories-ambres-secret.json](./346723-dazzly-stories-ambres-secret.json) |
 | DB2: Disco Boogie of the Dead Beats | 335499 | [335499-db2-disco-boogie-of-the-dead-beats.json](./335499-db2-disco-boogie-of-the-dead-beats.json) |
@@ -3354,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | Deadball Specialist | 58191 | [58191-deadball-specialist.json](./58191-deadball-specialist.json) |
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
+| Deadbeat | 318449 | [318449-deadbeat.json](./318449-deadbeat.json) |
 | Deadbeat Heroes | 74197 | [74197-deadbeat-heroes.json](./74197-deadbeat-heroes.json) |
 | Deadbeats Encore | 177201 | [177201-deadbeats-encore.json](./177201-deadbeats-encore.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
@@ -7564,6 +7566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
 | Digaway | 372115 | [372115-digaway.json](./372115-digaway.json) |
+| Digbeat: Godot Deeper | 318360 | [318360-digbeat-godot-deeper.json](./318360-digbeat-godot-deeper.json) |
 | Digby Extreme | 74689 | [74689-digby-extreme.json](./74689-digby-extreme.json) |
 | Digby Forever | 98535 | [98535-digby-forever.json](./98535-digby-forever.json) |
 | Digby Jump | 98536 | [98536-digby-jump.json](./98536-digby-jump.json) |
@@ -14062,6 +14065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Switch Evade | 103826 | [103826-drive-switch-evade.json](./103826-drive-switch-evade.json) |
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
+| Drive Thru Miami | 318375 | [318375-drive-thru-miami.json](./318375-drive-thru-miami.json) |
 | Drive Thru Simulator | 326441 | [326441-drive-thru-simulator.json](./326441-drive-thru-simulator.json) |
 | Drive Time Radio | 232910 | [232910-drive-time-radio.json](./232910-drive-time-radio.json) |
 | Drive to Hell | 36135 | [36135-drive-to-hell.json](./36135-drive-to-hell.json) |
