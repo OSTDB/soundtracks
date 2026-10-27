@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Sae Vol.1 | 97778 | [97778-magical-girl-sae-vol-1.json](./97778-magical-girl-sae-vol-1.json) |
 | Magical Girl Sarah: Her Dark Skin Clouded White With Cum | 82794 | [82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json](./82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json) |
 | Magical girl story | 193811 | [193811-magical-girl-story.json](./193811-magical-girl-story.json) |
+| Magical Girl Witch Trials | 324791 | [324791-magical-girl-witch-trials.json](./324791-magical-girl-witch-trials.json) |
 | Magical Girl Witch Trials: Famitsu DX Pack | 403787 | [403787-magical-girl-witch-trials-famitsu-dx-pack.json](./403787-magical-girl-witch-trials-famitsu-dx-pack.json) |
 | Magical Girl Yusya-chan and the Labyrinth of Lust | 406694 | [406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json](./406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json) |
 | Magical Girl: Final Pink Star | 389715 | [389715-magical-girl-final-pink-star.json](./389715-magical-girl-final-pink-star.json) |
@@ -10792,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Resort | 26587 | [26587-mini-golf-resort.json](./26587-mini-golf-resort.json) |
 | Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
 | Mini Golf RPG | 188400 | [188400-mini-golf-rpg.json](./188400-mini-golf-rpg.json) |
+| Mini Golf Simulator | 324808 | [324808-mini-golf-simulator.json](./324808-mini-golf-simulator.json) |
 | Mini Golf Simulator | 407552 | [407552-mini-golf-simulator.json](./407552-mini-golf-simulator.json) |
 | Mini Golf Star Retro Golf Game | 104695 | [104695-mini-golf-star-retro-golf-game.json](./104695-mini-golf-star-retro-golf-game.json) |
 | Mini Golf Worlds | 245799 | [245799-mini-golf-worlds.json](./245799-mini-golf-worlds.json) |
