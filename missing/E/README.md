@@ -1280,8 +1280,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Adventure of Randar MSX2 | 399637 | [399637-eggconsole-adventure-of-randar-msx2.json](./399637-eggconsole-adventure-of-randar-msx2.json) |
 | Eggconsole Aqua Polis SOS MSX | 325892 | [325892-eggconsole-aqua-polis-sos-msx.json](./325892-eggconsole-aqua-polis-sos-msx.json) |
 | Eggconsole Aramo MSX | 370806 | [370806-eggconsole-aramo-msx.json](./370806-eggconsole-aramo-msx.json) |
+| Eggconsole Arctic PC-8801mkIISR | 332330 | [332330-eggconsole-arctic-pc-8801mkiisr.json](./332330-eggconsole-arctic-pc-8801mkiisr.json) |
 | Eggconsole Arguice no Tsubasa PC-8801mkIISR | 312082 | [312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json](./312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json) |
 | Eggconsole Babylon PC-8801mkIISR | 328528 | [328528-eggconsole-babylon-pc-8801mkiisr.json](./328528-eggconsole-babylon-pc-8801mkiisr.json) |
+| Eggconsole Burai: Jokan PC-8801mkIISR | 332331 | [332331-eggconsole-burai-jokan-pc-8801mkiisr.json](./332331-eggconsole-burai-jokan-pc-8801mkiisr.json) |
 | Eggconsole Carmine 88 PC-8801mkIISR | 330400 | [330400-eggconsole-carmine-88-pc-8801mkiisr.json](./330400-eggconsole-carmine-88-pc-8801mkiisr.json) |
 | Eggconsole Courageous Perseus PC-8801 | 386184 | [386184-eggconsole-courageous-perseus-pc-8801.json](./386184-eggconsole-courageous-perseus-pc-8801.json) |
 | Eggconsole Crimson II PC-8801mkIISR | 365538 | [365538-eggconsole-crimson-ii-pc-8801mkiisr.json](./365538-eggconsole-crimson-ii-pc-8801mkiisr.json) |
@@ -4583,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Six Games Pack | 332011 | [332011-escape-room-six-games-pack.json](./332011-escape-room-six-games-pack.json) |
 | Escape Room Super Bundle | 295471 | [295471-escape-room-super-bundle.json](./295471-escape-room-super-bundle.json) |
 | Escape Room Ultimate Bundle | 306493 | [306493-escape-room-ultimate-bundle.json](./306493-escape-room-ultimate-bundle.json) |
+| Escape Room Ultimate Trilogy | 332333 | [332333-escape-room-ultimate-trilogy.json](./332333-escape-room-ultimate-trilogy.json) |
 | Escape Room VR | 128340 | [128340-escape-room-vr.json](./128340-escape-room-vr.json) |
 | Escape Room VR: Inner Voices | 135724 | [135724-escape-room-vr-inner-voices.json](./135724-escape-room-vr-inner-voices.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
