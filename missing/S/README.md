@@ -10342,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skill Random Defense | 311196 | [311196-skill-random-defense.json](./311196-skill-random-defense.json) |
 | Skill Test: Online | 319639 | [319639-skill-test-online.json](./319639-skill-test-online.json) |
 | Skill Up! | 289445 | [289445-skill-up.json](./289445-skill-up.json) |
+| Skillful Pixel Dungeon | 312607 | [312607-skillful-pixel-dungeon.json](./312607-skillful-pixel-dungeon.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
 | Skillshot City | 28014 | [28014-skillshot-city.json](./28014-skillshot-city.json) |
@@ -14284,6 +14285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somniac | 409211 | [409211-somniac.json](./409211-somniac.json) |
 | Somnicoda | 323296 | [323296-somnicoda.json](./323296-somnicoda.json) |
 | Somnifuge | 330702 | [330702-somnifuge.json](./330702-somnifuge.json) |
+| Somnilithe | 312597 | [312597-somnilithe.json](./312597-somnilithe.json) |
 | Somniphobia | 152472 | [152472-somniphobia.json](./152472-somniphobia.json) |
 | Somniphobia | 340940 | [340940-somniphobia.json](./340940-somniphobia.json) |
 | Somnis: Rumble Rush | 332441 | [332441-somnis-rumble-rush.json](./332441-somnis-rumble-rush.json) |
