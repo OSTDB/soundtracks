@@ -3816,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
 | Perimeter 2: New Earth | 14859 | [14859-perimeter-2-new-earth.json](./14859-perimeter-2-new-earth.json) |
 | Perimeter: Emperor's Testament | 10692 | [10692-perimeter-emperors-testament.json](./10692-perimeter-emperors-testament.json) |
+| Perimeter: Legate Edition | 299806 | [299806-perimeter-legate-edition.json](./299806-perimeter-legate-edition.json) |
 | Period Cube: Shackles of Amadeus | 59160 | [59160-period-cube-shackles-of-amadeus.json](./59160-period-cube-shackles-of-amadeus.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
 | Periodic Deliveries | 127266 | [127266-periodic-deliveries.json](./127266-periodic-deliveries.json) |
