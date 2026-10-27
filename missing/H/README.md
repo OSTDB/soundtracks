@@ -4066,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Ami | 245995 | [245995-hentai-ami.json](./245995-hentai-ami.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
 | Hentai Anime Girls Succubus: Extended Edition | 312058 | [312058-hentai-anime-girls-succubus-extended-edition.json](./312058-hentai-anime-girls-succubus-extended-edition.json) |
+| Hentai Anime Girls Succubus: New Image Puzzle | 310472 | [310472-hentai-anime-girls-succubus-new-image-puzzle.json](./310472-hentai-anime-girls-succubus-new-image-puzzle.json) |
 | Hentai Anime Poker | 131271 | [131271-hentai-anime-poker.json](./131271-hentai-anime-poker.json) |
 | Hentai Aqua Lorelei | 367167 | [367167-hentai-aqua-lorelei.json](./367167-hentai-aqua-lorelei.json) |
 | Hentai Arcade: Lustful Girls | 111577 | [111577-hentai-arcade-lustful-girls.json](./111577-hentai-arcade-lustful-girls.json) |
@@ -4163,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dating Stories: Brazil - Extended Edition | 313786 | [313786-hentai-dating-stories-brazil-extended-edition.json](./313786-hentai-dating-stories-brazil-extended-edition.json) |
 | Hentai Dating Stories: Brazil - Premium Edition | 317913 | [317913-hentai-dating-stories-brazil-premium-edition.json](./317913-hentai-dating-stories-brazil-premium-edition.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
+| Hentai Dating Stories: Brazil - Ultimate Edition | 310432 | [310432-hentai-dating-stories-brazil-ultimate-edition.json](./310432-hentai-dating-stories-brazil-ultimate-edition.json) |
 | Hentai Demon | 365423 | [365423-hentai-demon.json](./365423-hentai-demon.json) |
 | Hentai Demon | 387503 | [387503-hentai-demon.json](./387503-hentai-demon.json) |
 | Hentai Demon's Lullaby | 390500 | [390500-hentai-demons-lullaby.json](./390500-hentai-demons-lullaby.json) |
@@ -4299,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: Amazing Edition | 317912 | [317912-hentai-golf-amazing-edition.json](./317912-hentai-golf-amazing-edition.json) |
 | Hentai Golf: Complete + | 324468 | [324468-hentai-golf-complete.json](./324468-hentai-golf-complete.json) |
 | Hentai Golf: Deluxe Edition | 283178 | [283178-hentai-golf-deluxe-edition.json](./283178-hentai-golf-deluxe-edition.json) |
+| Hentai Golf: Director's Cut | 310450 | [310450-hentai-golf-directors-cut.json](./310450-hentai-golf-directors-cut.json) |
 | Hentai Golf: Extended Edition | 289200 | [289200-hentai-golf-extended-edition.json](./289200-hentai-golf-extended-edition.json) |
 | Hentai Golf: Golf Ball Set 1 | 317658 | [317658-hentai-golf-golf-ball-set-1.json](./317658-hentai-golf-golf-ball-set-1.json) |
 | Hentai Golf: Golf Ball Set 2 | 317659 | [317659-hentai-golf-golf-ball-set-2.json](./317659-hentai-golf-golf-ball-set-2.json) |
@@ -4532,9 +4535,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sokoban | 106650 | [106650-hentai-sokoban.json](./106650-hentai-sokoban.json) |
 | Hentai Solitaire | 308513 | [308513-hentai-solitaire.json](./308513-hentai-solitaire.json) |
 | Hentai Solitaire | 371040 | [371040-hentai-solitaire.json](./371040-hentai-solitaire.json) |
+| Hentai Solitaire: Cards Pack 1 | 310469 | [310469-hentai-solitaire-cards-pack-1.json](./310469-hentai-solitaire-cards-pack-1.json) |
+| Hentai Solitaire: Cards Pack 2 | 310470 | [310470-hentai-solitaire-cards-pack-2.json](./310470-hentai-solitaire-cards-pack-2.json) |
 | Hentai Solitaire: Complete + | 324450 | [324450-hentai-solitaire-complete.json](./324450-hentai-solitaire-complete.json) |
+| Hentai Solitaire: Deluxe Edition | 310431 | [310431-hentai-solitaire-deluxe-edition.json](./310431-hentai-solitaire-deluxe-edition.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
 | Hentai Solitaire: Special Edition | 317911 | [317911-hentai-solitaire-special-edition.json](./317911-hentai-solitaire-special-edition.json) |
+| Hentai Solitaire: Themes Pack | 310476 | [310476-hentai-solitaire-themes-pack.json](./310476-hentai-solitaire-themes-pack.json) |
 | Hentai Solitaire: Ultimate Edition | 313785 | [313785-hentai-solitaire-ultimate-edition.json](./313785-hentai-solitaire-ultimate-edition.json) |
 | Hentai SpaceSuit | 243553 | [243553-hentai-spacesuit.json](./243553-hentai-spacesuit.json) |
 | Hentai Special 4-in-1 | 399644 | [399644-hentai-special-4-in-1.json](./399644-hentai-special-4-in-1.json) |
@@ -4550,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Extended Edition | 277907 | [277907-hentai-stars-extended-edition.json](./277907-hentai-stars-extended-edition.json) |
 | Hentai Stars: Happy Edition | 304783 | [304783-hentai-stars-happy-edition.json](./304783-hentai-stars-happy-edition.json) |
 | Hentai Stars: Lonely Kitty Ran | 288299 | [288299-hentai-stars-lonely-kitty-ran.json](./288299-hentai-stars-lonely-kitty-ran.json) |
+| Hentai Stars: Magnificent Edition | 310430 | [310430-hentai-stars-magnificent-edition.json](./310430-hentai-stars-magnificent-edition.json) |
 | Hentai Stars: Platinum Edition | 295677 | [295677-hentai-stars-platinum-edition.json](./295677-hentai-stars-platinum-edition.json) |
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Shy Fox Ayame | 288293 | [288293-hentai-stars-shy-fox-ayame.json](./288293-hentai-stars-shy-fox-ayame.json) |
@@ -9512,6 +9520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Die in a Morgue | 108167 | [108167-how-to-die-in-a-morgue.json](./108167-how-to-die-in-a-morgue.json) |
 | How to Die. | 218131 | [218131-how-to-die.json](./218131-how-to-die.json) |
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
+| How to Draw | 310451 | [310451-how-to-draw.json](./310451-how-to-draw.json) |
 | How to Escape a Kidnapper | 367450 | [367450-how-to-escape-a-kidnapper.json](./367450-how-to-escape-a-kidnapper.json) |
 | How to Fly a Cannon | 405537 | [405537-how-to-fly-a-cannon.json](./405537-how-to-fly-a-cannon.json) |
 | How to Fool a Liar King | 72344 | [72344-how-to-fool-a-liar-king.json](./72344-how-to-fool-a-liar-king.json) |
