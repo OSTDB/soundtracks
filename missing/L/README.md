@@ -6351,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Loopical | 175602 | [175602-loopical.json](./175602-loopical.json) |
 | Looping | 18511 | [18511-looping.json](./18511-looping.json) |
+| Looping Art Museum | 302975 | [302975-looping-art-museum.json](./302975-looping-art-museum.json) |
 | Looping Doors: Diner | 342487 | [342487-looping-doors-diner.json](./342487-looping-doors-diner.json) |
 | Looping Doors: Subway | 342488 | [342488-looping-doors-subway.json](./342488-looping-doors-subway.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
@@ -8292,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
 | Luna's Cathouse | 331220 | [331220-lunas-cathouse.json](./331220-lunas-cathouse.json) |
 | Luna's Diary | 382532 | [382532-lunas-diary.json](./382532-lunas-diary.json) |
+| Luna's Eyes | 302902 | [302902-lunas-eyes.json](./302902-lunas-eyes.json) |
 | Luna's Lab (Earth to Luna!) | 109546 | [109546-lunas-lab-earth-to-luna.json](./109546-lunas-lab-earth-to-luna.json) |
 | Luna's Postcards Around the World | 343381 | [343381-lunas-postcards-around-the-world.json](./343381-lunas-postcards-around-the-world.json) |
 | Luna's Room | 397237 | [397237-lunas-room.json](./397237-lunas-room.json) |
