@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Abbaye des Morts | 93452 | [93452-labbaye-des-morts.json](./93452-labbaye-des-morts.json) |
 | L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
 | L'Agonie Finale | 274115 | [274115-lagonie-finale.json](./274115-lagonie-finale.json) |
+| L'Albero Azzurro | 317281 | [317281-lalbero-azzurro.json](./317281-lalbero-azzurro.json) |
 | L'Ange et le Demon | 202682 | [202682-lange-et-le-demon.json](./202682-lange-et-le-demon.json) |
 | L'Angolo Di Farenz: Avventure Vampiresche | 256922 | [256922-langolo-di-farenz-avventure-vampiresche.json](./256922-langolo-di-farenz-avventure-vampiresche.json) |
 | L'Artisan Meurtrier | 329060 | [329060-lartisan-meurtrier.json](./329060-lartisan-meurtrier.json) |
@@ -57,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Cestrue Seyuntres | 128451 | [128451-lcestrue-seyuntres.json](./128451-lcestrue-seyuntres.json) |
 | L'Empereur | 85737 | [85737-lempereur.json](./85737-lempereur.json) |
 | L'Empire Banger V1 | 412766 | [412766-lempire-banger-v1.json](./412766-lempire-banger-v1.json) |
+| L'Eredità | 317207 | [317207-leredita.json](./317207-leredita.json) |
 | L'esprit du loup | 144074 | [144074-lesprit-du-loup.json](./144074-lesprit-du-loup.json) |
 | L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
 | L'Île Archéo | 285119 | [285119-lile-archeo.json](./285119-lile-archeo.json) |
@@ -7776,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Chess | 367986 | [367986-lucha-chess.json](./367986-lucha-chess.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Lucha Libre AAA: Héroes del Ring | 7060 | [7060-lucha-libre-aaa-heroes-del-ring.json](./7060-lucha-libre-aaa-heroes-del-ring.json) |
+| Lucha Libre: Legend of the Mask | 317188 | [317188-lucha-libre-legend-of-the-mask.json](./317188-lucha-libre-legend-of-the-mask.json) |
 | Lucha Underground | 257260 | [257260-lucha-underground.json](./257260-lucha-underground.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucia and the Possessed World | 266988 | [266988-lucia-and-the-possessed-world.json](./266988-lucia-and-the-possessed-world.json) |
