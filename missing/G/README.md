@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General Room | 176979 | [176979-general-room.json](./176979-general-room.json) |
 | General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
 | General War Memories | 168623 | [168623-general-war-memories.json](./168623-general-war-memories.json) |
+| General Warfare | 328928 | [328928-general-warfare.json](./328928-general-warfare.json) |
 | General's Son | 48579 | [48579-generals-son.json](./48579-generals-son.json) |
 | Generality | 205068 | [205068-generality.json](./205068-generality.json) |
 | Generality 4 | 302227 | [302227-generality-4.json](./302227-generality-4.json) |
@@ -4845,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Colony | 235705 | [235705-goblin-colony.json](./235705-goblin-colony.json) |
 | Goblin Commander: Unleash the Horde | 3934 | [3934-goblin-commander-unleash-the-horde.json](./3934-goblin-commander-unleash-the-horde.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
+| Goblin Corrosion | 328913 | [328913-goblin-corrosion.json](./328913-goblin-corrosion.json) |
 | Goblin Daily Life | 263131 | [263131-goblin-daily-life.json](./263131-goblin-daily-life.json) |
 | Goblin Dash | 235042 | [235042-goblin-dash.json](./235042-goblin-dash.json) |
 | Goblin Defenders: Steel 'n' Wood | 53076 | [53076-goblin-defenders-steel-n-wood.json](./53076-goblin-defenders-steel-n-wood.json) |
@@ -6760,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma Don't Click That! | 292938 | [292938-grandma-dont-click-that.json](./292938-grandma-dont-click-that.json) |
 | Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
+| Grandma, No! | 328915 | [328915-grandma-no.json](./328915-grandma-no.json) |
 | Grandma's Cheese | 246836 | [246836-grandmas-cheese.json](./246836-grandmas-cheese.json) |
 | Grandma's Garden | 376810 | [376810-grandmas-garden.json](./376810-grandmas-garden.json) |
 | Grandma's Ghosts | 176307 | [176307-grandmas-ghosts.json](./176307-grandmas-ghosts.json) |
