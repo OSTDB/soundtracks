@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Farming | 230737 | [230737-factory-farming.json](./230737-factory-farming.json) |
 | Factory idle | 95942 | [95942-factory-idle.json](./95942-factory-idle.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
+| Factory Islands | 288797 | [288797-factory-islands.json](./288797-factory-islands.json) |
 | Factory Manager | 106317 | [106317-factory-manager.json](./106317-factory-manager.json) |
 | Factory Manager Simulator | 164053 | [164053-factory-manager-simulator.json](./164053-factory-manager-simulator.json) |
 | Factory missions | 101744 | [101744-factory-missions.json](./101744-factory-missions.json) |
@@ -3110,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feather Land | 381064 | [381064-feather-land.json](./381064-feather-land.json) |
 | Feather of Praying | 102970 | [102970-feather-of-praying.json](./102970-feather-of-praying.json) |
 | Feather Park | 218569 | [218569-feather-park.json](./218569-feather-park.json) |
+| Feather Trail | 288715 | [288715-feather-trail.json](./288715-feather-trail.json) |
 | Featherborn | 309743 | [309743-featherborn.json](./309743-featherborn.json) |
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
 | Feathered Escape | 288667 | [288667-feathered-escape.json](./288667-feathered-escape.json) |
@@ -7592,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folia Felina | 381303 | [381303-folia-felina.json](./381303-folia-felina.json) |
 | Folia: The King's Revelry | 236750 | [236750-folia-the-kings-revelry.json](./236750-folia-the-kings-revelry.json) |
 | Foliage vs. Undead | 330828 | [330828-foliage-vs-undead.json](./330828-foliage-vs-undead.json) |
+| Folie Fatale | 288798 | [288798-folie-fatale.json](./288798-folie-fatale.json) |
 | Folie Fatale: Kousaku Fanaticism | 364513 | [364513-folie-fatale-kousaku-fanaticism.json](./364513-folie-fatale-kousaku-fanaticism.json) |
 | Folk Emerging | 244766 | [244766-folk-emerging.json](./244766-folk-emerging.json) |
 | Folk Hero | 244242 | [244242-folk-hero.json](./244242-folk-hero.json) |
