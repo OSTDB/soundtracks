@@ -10493,6 +10493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
 | Hydrogen | 295875 | [295875-hydrogen.json](./295875-hydrogen.json) |
+| Hydrogen Game | 295201 | [295201-hydrogen-game.json](./295201-hydrogen-game.json) |
 | Hydroneer | 123783 | [123783-hydroneer.json](./123783-hydroneer.json) |
 | Hydroneer: Journey to Volcalidus | 285576 | [285576-hydroneer-journey-to-volcalidus.json](./285576-hydroneer-journey-to-volcalidus.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
