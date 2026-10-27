@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Sniper | 338395 | [338395-war-sniper.json](./338395-war-sniper.json) |
 | War Solution | 119851 | [119851-war-solution.json](./119851-war-solution.json) |
 | War Stained | 152470 | [152470-war-stained.json](./152470-war-stained.json) |
+| War Stars | 327719 | [327719-war-stars.json](./327719-war-stars.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tank Combat | 149382 | [149382-war-tank-combat.json](./149382-war-tank-combat.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastebraver: A Tiny Survival Tale | 207348 | [207348-wastebraver-a-tiny-survival-tale.json](./207348-wastebraver-a-tiny-survival-tale.json) |
 | Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
 | Wasted | 182832 | [182832-wasted.json](./182832-wasted.json) |
+| Wasted | 327744 | [327744-wasted.json](./327744-wasted.json) |
 | Wasted | 338393 | [338393-wasted.json](./338393-wasted.json) |
 | Wasted Bloodline | 338254 | [338254-wasted-bloodline.json](./338254-wasted-bloodline.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
@@ -3587,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Jellyfish: +450 | 282226 | [282226-where-jellyfish-450.json](./282226-where-jellyfish-450.json) |
 | Where Kiwis | 306780 | [306780-where-kiwis.json](./306780-where-kiwis.json) |
 | Where Moss Grows | 397060 | [397060-where-moss-grows.json](./397060-where-moss-grows.json) |
+| Where No Fear Was | 327759 | [327759-where-no-fear-was.json](./327759-where-no-fear-was.json) |
 | Where Noble Plans Lie | 334015 | [334015-where-noble-plans-lie.json](./334015-where-noble-plans-lie.json) |
 | Where Rabbits | 279089 | [279089-where-rabbits.json](./279089-where-rabbits.json) |
 | Where Safety Ends R | 289896 | [289896-where-safety-ends-r.json](./289896-where-safety-ends-r.json) |
@@ -4873,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windward | 17902 | [17902-windward.json](./17902-windward.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
+| Windy Creator | 327751 | [327751-windy-creator.json](./327751-windy-creator.json) |
 | Windy Meadow: A Roadwarden Tale | 243774 | [243774-windy-meadow-a-roadwarden-tale.json](./243774-windy-meadow-a-roadwarden-tale.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
@@ -5023,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner's Circle: Rusty Wallace | 217720 | [217720-winners-circle-rusty-wallace.json](./217720-winners-circle-rusty-wallace.json) |
 | Winner's Soccer Evolution | 233045 | [233045-winners-soccer-evolution.json](./233045-winners-soccer-evolution.json) |
 | Winners and Losers | 179466 | [179466-winners-and-losers.json](./179466-winners-and-losers.json) |
+| Winners Don't Do Drugs | 327764 | [327764-winners-dont-do-drugs.json](./327764-winners-dont-do-drugs.json) |
 | Winnie the Bear | 326698 | [326698-winnie-the-bear.json](./326698-winnie-the-bear.json) |
 | Winnie the Pooh and Tigger Too | 70250 | [70250-winnie-the-pooh-and-tigger-too.json](./70250-winnie-the-pooh-and-tigger-too.json) |
 | Winnie the Pooh in the Hundred Acre Wood | 51370 | [51370-winnie-the-pooh-in-the-hundred-acre-wood.json](./51370-winnie-the-pooh-in-the-hundred-acre-wood.json) |
@@ -5659,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Golf RPG | 243711 | [243711-wizard-golf-rpg.json](./243711-wizard-golf-rpg.json) |
 | Wizard Graph | 185501 | [185501-wizard-graph.json](./185501-wizard-graph.json) |
 | Wizard Hand | 338652 | [338652-wizard-hand.json](./338652-wizard-hand.json) |
+| Wizard Hangover ExtreamZz!! | 327766 | [327766-wizard-hangover-extreamzz.json](./327766-wizard-hangover-extreamzz.json) |
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
 | Wizard Hult | 409893 | [409893-wizard-hult.json](./409893-wizard-hult.json) |
 | Wizard Hunter 2348 | 55743 | [55743-wizard-hunter-2348.json](./55743-wizard-hunter-2348.json) |
@@ -6145,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
 | Wonderstructs | 414612 | [414612-wonderstructs.json](./414612-wonderstructs.json) |
+| Wonderworld | 327771 | [327771-wonderworld.json](./327771-wonderworld.json) |
 | WonderWorld | 221640 | [221640-wonderworld.json](./221640-wonderworld.json) |
 | Wonderworld Amusement Park | 47968 | [47968-wonderworld-amusement-park.json](./47968-wonderworld-amusement-park.json) |
 | Wondrous Magic | 42352 | [42352-wondrous-magic.json](./42352-wondrous-magic.json) |
