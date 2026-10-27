@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Pro Yakyuu '96 | 384770 | [384770-jikkyou-pawafuru-pro-yakyuu-96.json](./384770-jikkyou-pawafuru-pro-yakyuu-96.json) |
 | Jikkyou Pawafuru Pro Yakyuu '96: Kaimaku-ban | 42644 | [42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json](./42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json) |
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
+| Jikkyou Pawafuru Puroyakyu | 284189 | [284189-jikkyou-pawafuru-puroyakyu.json](./284189-jikkyou-pawafuru-puroyakyu.json) |
 | Jikkyou Pawafuru Puroyakyu '95 | 63563 | [63563-jikkyou-pawafuru-puroyakyu-95.json](./63563-jikkyou-pawafuru-puroyakyu-95.json) |
 | Jikkyou Pawafuru Puroyakyu '97: Kaimaku-ban | 229566 | [229566-jikkyou-pawafuru-puroyakyu-97-kaimaku-ban.json](./229566-jikkyou-pawafuru-puroyakyu-97-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '98: Kaimaku-ban | 229571 | [229571-jikkyou-pawafuru-puroyakyu-98-kaimaku-ban.json](./229571-jikkyou-pawafuru-puroyakyu-98-kaimaku-ban.json) |
