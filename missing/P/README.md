@@ -4163,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Rabbit's Number Garden | 208865 | [208865-peter-rabbits-number-garden.json](./208865-peter-rabbits-number-garden.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter Talisman: Lord of the Harvest | 182257 | [182257-peter-talisman-lord-of-the-harvest.json](./182257-peter-talisman-lord-of-the-harvest.json) |
+| Peter's Adventures in English | 315455 | [315455-peters-adventures-in-english.json](./315455-peters-adventures-in-english.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
 | Peter's Day Out | 165366 | [165366-peters-day-out.json](./165366-peters-day-out.json) |
 | Peter's House | 364585 | [364585-peters-house.json](./364585-peters-house.json) |
