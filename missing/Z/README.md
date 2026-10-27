@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zagamihara | 192632 | [192632-zagamihara.json](./192632-zagamihara.json) |
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
 | Zagerrrr | 176366 | [176366-zagerrrr.json](./176366-zagerrrr.json) |
+| Zaggy Car | 308299 | [308299-zaggy-car.json](./308299-zaggy-car.json) |
 | ZagZag | 369904 | [369904-zagzag.json](./369904-zagzag.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
 | Zahalia: The Curse of Zezor | 212102 | [212102-zahalia-the-curse-of-zezor.json](./212102-zahalia-the-curse-of-zezor.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombotron 2 | 278619 | [278619-zombotron-2.json](./278619-zombotron-2.json) |
 | Zombotron 2: Time Machine | 278621 | [278621-zombotron-2-time-machine.json](./278621-zombotron-2-time-machine.json) |
 | Zombotron Re-Boot | 275690 | [275690-zombotron-re-boot.json](./275690-zombotron-re-boot.json) |
+| Zombots: Invasion | 306405 | [306405-zombots-invasion.json](./306405-zombots-invasion.json) |
 | Zombow | 106131 | [106131-zombow.json](./106131-zombow.json) |
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
 | Zombrio | 156905 | [156905-zombrio.json](./156905-zombrio.json) |
