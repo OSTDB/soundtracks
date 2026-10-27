@@ -6793,6 +6793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Game Maker Series: Jetman | 207891 | [207891-pixel-game-maker-series-jetman.json](./207891-pixel-game-maker-series-jetman.json) |
 | Pixel Game Maker Series: Kingdom Fighter | 203720 | [203720-pixel-game-maker-series-kingdom-fighter.json](./203720-pixel-game-maker-series-kingdom-fighter.json) |
+| Pixel Game Maker Series: Lunlun Super Hero Babies Plus NewGames | 330616 | [330616-pixel-game-maker-series-lunlun-super-hero-babies-plus-newgames.json](./330616-pixel-game-maker-series-lunlun-super-hero-babies-plus-newgames.json) |
 | Pixel Game Maker Series: LunLun Superherobabys DX | 283263 | [283263-pixel-game-maker-series-lunlun-superherobabys-dx.json](./283263-pixel-game-maker-series-lunlun-superherobabys-dx.json) |
 | Pixel Game Maker Series: Ninja Otedama R | 247487 | [247487-pixel-game-maker-series-ninja-otedama-r.json](./247487-pixel-game-maker-series-ninja-otedama-r.json) |
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
@@ -6802,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Stray Witch and the Ghost Train | 370820 | [370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json](./370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json) |
 | Pixel Game Maker Series: Tentacled Terrors Tyrannize Terra! | 244824 | [244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json](./244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json) |
 | Pixel Game Maker Series: The Willow Man | 316190 | [316190-pixel-game-maker-series-the-willow-man.json](./316190-pixel-game-maker-series-the-willow-man.json) |
+| Pixel Game Maker Series: Timothy and the Tower of Mu | 330617 | [330617-pixel-game-maker-series-timothy-and-the-tower-of-mu.json](./330617-pixel-game-maker-series-timothy-and-the-tower-of-mu.json) |
 | Pixel Game Maker Series: Verzeus | 225500 | [225500-pixel-game-maker-series-verzeus.json](./225500-pixel-game-maker-series-verzeus.json) |
 | Pixel Game Maker Series: Weapon User | 365546 | [365546-pixel-game-maker-series-weapon-user.json](./365546-pixel-game-maker-series-weapon-user.json) |
 | Pixel Gangsters | 211184 | [211184-pixel-gangsters.json](./211184-pixel-gangsters.json) |
@@ -7410,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
 | Pixture | 97994 | [97994-pixture.json](./97994-pixture.json) |
 | Pixurvival | 182093 | [182093-pixurvival.json](./182093-pixurvival.json) |
+| Pixvana Spin Play | 330478 | [330478-pixvana-spin-play.json](./330478-pixvana-spin-play.json) |
 | Pixvault | 116066 | [116066-pixvault.json](./116066-pixvault.json) |
 | Pixxelverse Online | 243239 | [243239-pixxelverse-online.json](./243239-pixxelverse-online.json) |
 | Pixxle: A Pixel Puzzle Game | 91147 | [91147-pixxle-a-pixel-puzzle-game.json](./91147-pixxle-a-pixel-puzzle-game.json) |
@@ -10068,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polilaser | 238493 | [238493-polilaser.json](./238493-polilaser.json) |
 | Polimines | 195457 | [195457-polimines.json](./195457-polimines.json) |
 | Polimines 2 | 244653 | [244653-polimines-2.json](./244653-polimines-2.json) |
+| Polimines: Deluxe | 330622 | [330622-polimines-deluxe.json](./330622-polimines-deluxe.json) |
 | Polinizamor | 179037 | [179037-polinizamor.json](./179037-polinizamor.json) |
 | PoliPlanet | 168576 | [168576-poliplanet.json](./168576-poliplanet.json) |
 | Polis | 307097 | [307097-polis.json](./307097-polis.json) |
@@ -12501,6 +12505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Gambit | 411031 | [411031-prison-gambit.json](./411031-prison-gambit.json) |
 | Prison Gang Wars | 268982 | [268982-prison-gang-wars.json](./268982-prison-gang-wars.json) |
 | Prison Girl | 150645 | [150645-prison-girl.json](./150645-prison-girl.json) |
+| Prison Guard: Warden Simulator | 330613 | [330613-prison-guard-warden-simulator.json](./330613-prison-guard-warden-simulator.json) |
 | Prison in Cafe | 272702 | [272702-prison-in-cafe.json](./272702-prison-in-cafe.json) |
 | Prison King | 216658 | [216658-prison-king.json](./216658-prison-king.json) |
 | Prison Life 2 | 216959 | [216959-prison-life-2.json](./216959-prison-life-2.json) |
@@ -15243,6 +15248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
 | Puzzle & Monarch | 345589 | [345589-puzzle-and-monarch.json](./345589-puzzle-and-monarch.json) |
 | Puzzle & Squishies | 109560 | [109560-puzzle-and-squishies.json](./109560-puzzle-and-squishies.json) |
+| Puzzle & Summoner | 330614 | [330614-puzzle-and-summoner.json](./330614-puzzle-and-summoner.json) |
 | Puzzle & Tantei Collection | 49798 | [49798-puzzle-and-tantei-collection.json](./49798-puzzle-and-tantei-collection.json) |
 | Puzzle 10 | 256221 | [256221-puzzle-10.json](./256221-puzzle-10.json) |
 | Puzzle 26: The 7th Day | 252556 | [252556-puzzle-26-the-7th-day.json](./252556-puzzle-26-the-7th-day.json) |
