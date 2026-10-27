@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verti-Go Home! | 118690 | [118690-verti-go-home.json](./118690-verti-go-home.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
 | Vertical Adventure: Jump, Die, Retry | 207857 | [207857-vertical-adventure-jump-die-retry.json](./207857-vertical-adventure-jump-die-retry.json) |
+| Vertical Collapse: Ghost in the Machine | 326544 | [326544-vertical-collapse-ghost-in-the-machine.json](./326544-vertical-collapse-ghost-in-the-machine.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
 | Vertical Fall | 111860 | [111860-vertical-fall.json](./111860-vertical-fall.json) |
 | Vertical Golf | 197654 | [197654-vertical-golf.json](./197654-vertical-golf.json) |
