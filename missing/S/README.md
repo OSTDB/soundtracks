@@ -7625,6 +7625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
 | Shojo Calibur.io | 188390 | [188390-shojo-calibur-io.json](./188390-shojo-calibur-io.json) |
 | Shojo Warriors | 340375 | [340375-shojo-warriors.json](./340375-shojo-warriors.json) |
+| Shoka | 304075 | [304075-shoka.json](./304075-shoka.json) |
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
 | Shoku Pain | 415986 | [415986-shoku-pain.json](./415986-shoku-pain.json) |
@@ -10863,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylark | 217350 | [217350-skylark.json](./217350-skylark.json) |
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
 | Skylax! The Lab Runner | 369664 | [369664-skylax-the-lab-runner.json](./369664-skylax-the-lab-runner.json) |
+| SkyLeague | 304000 | [304000-skyleague.json](./304000-skyleague.json) |
 | SkyLeap | 262809 | [262809-skyleap.json](./262809-skyleap.json) |
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | Skylight | 64096 | [64096-skylight.json](./64096-skylight.json) |
@@ -14997,6 +14999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 2 | 287668 | [287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json](./287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2022 - Round 1 | 287658 | [287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json](./287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json) |
 | Sonic Robo Blast 2: Persona | 141509 | [141509-sonic-robo-blast-2-persona.json](./141509-sonic-robo-blast-2-persona.json) |
+| Sonic Robo Blast 2: The Chaotix | 304084 | [304084-sonic-robo-blast-2-the-chaotix.json](./304084-sonic-robo-blast-2-the-chaotix.json) |
 | Sonic Robo Blast 2: Top Down | 282704 | [282704-sonic-robo-blast-2-top-down.json](./282704-sonic-robo-blast-2-top-down.json) |
 | Sonic Robo Blast! | 201071 | [201071-sonic-robo-blast.json](./201071-sonic-robo-blast.json) |
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
@@ -17445,6 +17448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparky Marky: Episode 2 | 252263 | [252263-sparky-marky-episode-2.json](./252263-sparky-marky-episode-2.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparky Rush: Purrils in Pawsville! | 374912 | [374912-sparky-rush-purrils-in-pawsville.json](./374912-sparky-rush-purrils-in-pawsville.json) |
+| Sparky: Hills of Death | 303993 | [303993-sparky-hills-of-death.json](./303993-sparky-hills-of-death.json) |
 | Sparky: The Christmas Elf | 175568 | [175568-sparky-the-christmas-elf.json](./175568-sparky-the-christmas-elf.json) |
 | Sparky's Hunt | 31681 | [31681-sparkys-hunt.json](./31681-sparkys-hunt.json) |
 | Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
@@ -17680,6 +17684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum | 34009 | [34009-spectrum.json](./34009-spectrum.json) |
 | Spectrum 6 | 240838 | [240838-spectrum-6.json](./240838-spectrum-6.json) |
+| Spectrum Descent | 304082 | [304082-spectrum-descent.json](./304082-spectrum-descent.json) |
 | Spectrum Forces | 178252 | [178252-spectrum-forces.json](./178252-spectrum-forces.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
@@ -18839,6 +18844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon: Version 2.0.0 | 230106 | [230106-splatoon-version-2-0-0.json](./230106-splatoon-version-2-0-0.json) |
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
 | Splatter | 173134 | [173134-splatter.json](./173134-splatter.json) |
+| Splatter World | 304076 | [304076-splatter-world.json](./304076-splatter-world.json) |
 | Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
 | Splatterbot | 297007 | [297007-splatterbot.json](./297007-splatterbot.json) |
 | Splatterhouse | 218366 | [218366-splatterhouse.json](./218366-splatterhouse.json) |
@@ -20291,6 +20297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Defender | 78896 | [78896-star-defender.json](./78896-star-defender.json) |
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
 | Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
+| Star Defender 4 | 304060 | [304060-star-defender-4.json](./304060-star-defender-4.json) |
 | Star Defenders | 195070 | [195070-star-defenders.json](./195070-star-defenders.json) |
 | Star Defense | 90910 | [90910-star-defense.json](./90910-star-defense.json) |
 | Star Destroyer | 113618 | [113618-star-destroyer.json](./113618-star-destroyer.json) |
@@ -21704,6 +21711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starspawn: A Miskatonic Mystery | 347785 | [347785-starspawn-a-miskatonic-mystery.json](./347785-starspawn-a-miskatonic-mystery.json) |
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
 | StarStorm | 258032 | [258032-starstorm.json](./258032-starstorm.json) |
+| Starstream | 303982 | [303982-starstream.json](./303982-starstream.json) |
 | Starstride | 264622 | [264622-starstride.json](./264622-starstride.json) |
 | Starstrike | 343972 | [343972-starstrike.json](./343972-starstrike.json) |
 | Starstrike 2 | 39133 | [39133-starstrike-2.json](./39133-starstrike-2.json) |
@@ -27050,6 +27058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy + Super Mario Galaxy 2 | 366878 | [366878-super-mario-galaxy-super-mario-galaxy-2.json](./366878-super-mario-galaxy-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 2 2: Super Mario Galaxy 1 | 288078 | [288078-super-mario-galaxy-2-2-super-mario-galaxy-1.json](./288078-super-mario-galaxy-2-2-super-mario-galaxy-1.json) |
+| Super Mario Galaxy 2 3: Impossible Hak 2 | 304094 | [304094-super-mario-galaxy-2-3-impossible-hak-2.json](./304094-super-mario-galaxy-2-3-impossible-hak-2.json) |
 | Super Mario Galaxy 2: Collectors Anxiety | 281019 | [281019-super-mario-galaxy-2-collectors-anxiety.json](./281019-super-mario-galaxy-2-collectors-anxiety.json) |
 | Super Mario Galaxy 2: Cosmic Clones Challenge | 294766 | [294766-super-mario-galaxy-2-cosmic-clones-challenge.json](./294766-super-mario-galaxy-2-cosmic-clones-challenge.json) |
 | Super Mario Galaxy 2: Master Mode | 294575 | [294575-super-mario-galaxy-2-master-mode.json](./294575-super-mario-galaxy-2-master-mode.json) |
