@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
 | Saucy Devil Gordon | 310660 | [310660-saucy-devil-gordon.json](./310660-saucy-devil-gordon.json) |
 | Saucy Devil Gordon 2 | 310661 | [310661-saucy-devil-gordon-2.json](./310661-saucy-devil-gordon-2.json) |
+| Saudade | 317180 | [317180-saudade.json](./317180-saudade.json) |
 | Saudi Drift | 214938 | [214938-saudi-drift.json](./214938-saudi-drift.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
 | Sauna | 178039 | [178039-sauna.json](./178039-sauna.json) |
@@ -14409,6 +14410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Sega All-Stars Racing Arcade | 280800 | [280800-sonic-and-sega-all-stars-racing-arcade.json](./280800-sonic-and-sega-all-stars-racing-arcade.json) |
 | Sonic & Shadow | 330516 | [330516-sonic-and-shadow.json](./330516-sonic-and-shadow.json) |
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
+| Sonic & Tails | 317280 | [317280-sonic-and-tails.json](./317280-sonic-and-tails.json) |
 | Sonic 04 | 265224 | [265224-sonic-04.json](./265224-sonic-04.json) |
 | Sonic 1 8-bit Redux | 317353 | [317353-sonic-1-8-bit-redux.json](./317353-sonic-1-8-bit-redux.json) |
 | Sonic 1 Co-op | 361500 | [361500-sonic-1-co-op.json](./361500-sonic-1-co-op.json) |
@@ -14647,6 +14649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Exe One More Round | 307225 | [307225-sonic-exe-one-more-round.json](./307225-sonic-exe-one-more-round.json) |
 | Sonic Exe One More Time | 307224 | [307224-sonic-exe-one-more-time.json](./307224-sonic-exe-one-more-time.json) |
 | Sonic EXP | 326549 | [326549-sonic-exp.json](./326549-sonic-exp.json) |
+| Sonic Explorers | 317267 | [317267-sonic-explorers.json](./317267-sonic-explorers.json) |
 | Sonic Fan Remix | 228589 | [228589-sonic-fan-remix.json](./228589-sonic-fan-remix.json) |
 | Sonic Fever | 321077 | [321077-sonic-fever.json](./321077-sonic-fever.json) |
 | Sonic FGX | 299995 | [299995-sonic-fgx.json](./299995-sonic-fgx.json) |
@@ -14778,11 +14781,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania Atmosphere | 241896 | [241896-sonic-mania-atmosphere.json](./241896-sonic-mania-atmosphere.json) |
 | Sonic Mania Competition Plus | 333890 | [333890-sonic-mania-competition-plus.json](./333890-sonic-mania-competition-plus.json) |
 | Sonic Mania Fangame | 326995 | [326995-sonic-mania-fangame.json](./326995-sonic-mania-fangame.json) |
+| Sonic Mania Heroes | 317279 | [317279-sonic-mania-heroes.json](./317279-sonic-mania-heroes.json) |
 | Sonic Mania Plus | 94873 | [94873-sonic-mania-plus.json](./94873-sonic-mania-plus.json) |
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
 | Sonic Mania: Boss Rush+ | 333678 | [333678-sonic-mania-boss-rush.json](./333678-sonic-mania-boss-rush.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
 | Sonic Mania: Encore | 164855 | [164855-sonic-mania-encore.json](./164855-sonic-mania-encore.json) |
+| Sonic Mania: The Misfits Pack | 317201 | [317201-sonic-mania-the-misfits-pack.json](./317201-sonic-mania-the-misfits-pack.json) |
 | Sonic Mars | 229527 | [229527-sonic-mars.json](./229527-sonic-mars.json) |
 | Sonic Mars Remake | 332576 | [332576-sonic-mars-remake.json](./332576-sonic-mars-remake.json) |
 | Sonic Matrix | 331397 | [331397-sonic-matrix.json](./331397-sonic-matrix.json) |
@@ -14849,6 +14854,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Powered Up | 333939 | [333939-sonic-powered-up.json](./333939-sonic-powered-up.json) |
 | Sonic Prime Dash | 254490 | [254490-sonic-prime-dash.json](./254490-sonic-prime-dash.json) |
 | Sonic Project Hero Rewired | 413926 | [413926-sonic-project-hero-rewired.json](./413926-sonic-project-hero-rewired.json) |
+| Sonic Project S | 317282 | [317282-sonic-project-s.json](./317282-sonic-project-s.json) |
+| Sonic Pursuit | 317202 | [317202-sonic-pursuit.json](./317202-sonic-pursuit.json) |
 | Sonic Putter | 233037 | [233037-sonic-putter.json](./233037-sonic-putter.json) |
 | Sonic Putter | 261251 | [261251-sonic-putter.json](./261251-sonic-putter.json) |
 | Sonic Puzz | 331757 | [331757-sonic-puzz.json](./331757-sonic-puzz.json) |
@@ -14951,6 +14958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Rush Rerun | 365772 | [365772-sonic-rush-rerun.json](./365772-sonic-rush-rerun.json) |
 | Sonic RX | 331725 | [331725-sonic-rx.json](./331725-sonic-rx.json) |
 | Sonic S Adventure | 331648 | [331648-sonic-s-adventure.json](./331648-sonic-s-adventure.json) |
+| Sonic Saga | 317203 | [317203-sonic-saga.json](./317203-sonic-saga.json) |
 | Sonic Saga: The Mystery of South Island | 370287 | [370287-sonic-saga-the-mystery-of-south-island.json](./370287-sonic-saga-the-mystery-of-south-island.json) |
 | Sonic Saturn | 210303 | [210303-sonic-saturn.json](./210303-sonic-saturn.json) |
 | Sonic Scene Creator 5 | 328340 | [328340-sonic-scene-creator-5.json](./328340-sonic-scene-creator-5.json) |
@@ -15201,6 +15209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic_1_2_3_Rom: Sonic.Ribs | 308635 | [308635-sonic-1-2-3-rom-sonic-ribs.json](./308635-sonic-1-2-3-rom-sonic-ribs.json) |
 | Sonic: After the Sequel | 19722 | [19722-sonic-after-the-sequel.json](./19722-sonic-after-the-sequel.json) |
 | Sonic: After the Sequel - Omega | 313570 | [313570-sonic-after-the-sequel-omega.json](./313570-sonic-after-the-sequel-omega.json) |
+| Sonic: Battle of Chaos Mugen - The Final Battle | 317197 | [317197-sonic-battle-of-chaos-mugen-the-final-battle.json](./317197-sonic-battle-of-chaos-mugen-the-final-battle.json) |
 | Sonic: Before the Sequel | 19723 | [19723-sonic-before-the-sequel.json](./19723-sonic-before-the-sequel.json) |
 | Sonic: Before the Sequel - Aftermath | 139181 | [139181-sonic-before-the-sequel-aftermath.json](./139181-sonic-before-the-sequel-aftermath.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
@@ -18455,6 +18464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinning Maze | 31581 | [31581-spinning-maze.json](./31581-spinning-maze.json) |
 | Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
 | Spinning Pong | 238387 | [238387-spinning-pong.json](./238387-spinning-pong.json) |
+| Spinning Puzzle Compare the Universe | 317271 | [317271-spinning-puzzle-compare-the-universe.json](./317271-spinning-puzzle-compare-the-universe.json) |
 | Spinning Scarecrow | 360096 | [360096-spinning-scarecrow.json](./360096-spinning-scarecrow.json) |
 | Spinning Top | 163840 | [163840-spinning-top.json](./163840-spinning-top.json) |
 | Spinnortality | 51471 | [51471-spinnortality.json](./51471-spinnortality.json) |
@@ -19188,6 +19198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Diff 3D | 268955 | [268955-spot-the-diff-3d.json](./268955-spot-the-diff-3d.json) |
 | Spot the Difference | 409199 | [409199-spot-the-difference.json](./409199-spot-the-difference.json) |
 | Spot the Difference 3D | 365000 | [365000-spot-the-difference-3d.json](./365000-spot-the-difference-3d.json) |
+| Spot The Difference Food & Drink | 317272 | [317272-spot-the-difference-food-and-drink.json](./317272-spot-the-difference-food-and-drink.json) |
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spot The Difference: Fantasy Edition | 289190 | [289190-spot-the-difference-fantasy-edition.json](./289190-spot-the-difference-fantasy-edition.json) |
@@ -19860,6 +19871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
 | Stable Orbit | 28547 | [28547-stable-orbit.json](./28547-stable-orbit.json) |
+| Stable Stories: Forest and Meadow Ride | 317273 | [317273-stable-stories-forest-and-meadow-ride.json](./317273-stable-stories-forest-and-meadow-ride.json) |
 | StableBound | 297004 | [297004-stablebound.json](./297004-stablebound.json) |
 | Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
 | Stack | 135714 | [135714-stack.json](./135714-stack.json) |
@@ -19974,6 +19986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stair Quest | 148409 | [148409-stair-quest.json](./148409-stair-quest.json) |
 | Stair Surfers | 175126 | [175126-stair-surfers.json](./175126-stair-surfers.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
+| Stair Tower | 317183 | [317183-stair-tower.json](./317183-stair-tower.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Staircore | 383131 | [383131-staircore.json](./383131-staircore.json) |
 | Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
@@ -22786,6 +22799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stinkoman 20X6 | 124605 | [124605-stinkoman-20x6.json](./124605-stinkoman-20x6.json) |
 | Stinky Company Simulator | 211741 | [211741-stinky-company-simulator.json](./211741-stinky-company-simulator.json) |
 | Stinky Snake | 104245 | [104245-stinky-snake.json](./104245-stinky-snake.json) |
+| Stinkytown | 317185 | [317185-stinkytown.json](./317185-stinkytown.json) |
 | Stint: Rift Apart | 191168 | [191168-stint-rift-apart.json](./191168-stint-rift-apart.json) |
 | Stíny noci | 397831 | [397831-stiny-noci.json](./397831-stiny-noci.json) |
 | Stip | 347491 | [347491-stip.json](./347491-stip.json) |
