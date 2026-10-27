@@ -818,7 +818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13528,6 +13527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Pieces | 137286 | [137286-broken-pieces.json](./137286-broken-pieces.json) |
 | Broken Pipe | 193669 | [193669-broken-pipe.json](./193669-broken-pipe.json) |
 | Broken Prism | 346211 | [346211-broken-prism.json](./346211-broken-prism.json) |
+| Broken Psyche | 326003 | [326003-broken-psyche.json](./326003-broken-psyche.json) |
 | Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
 | Broken Race | 372099 | [372099-broken-race.json](./372099-broken-race.json) |
 | Broken Reality 2000 | 226272 | [226272-broken-reality-2000.json](./226272-broken-reality-2000.json) |
