@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Cannon 3 | 207814 | [207814-laser-cannon-3.json](./207814-laser-cannon-3.json) |
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
 | Laser Circle | 312180 | [312180-laser-circle.json](./312180-laser-circle.json) |
+| Laser Dance | 306925 | [306925-laser-dance.json](./306925-laser-dance.json) |
 | Laser Defense Extreme | 291333 | [291333-laser-defense-extreme.json](./291333-laser-defense-extreme.json) |
 | Laser Disco Defenders | 22362 | [22362-laser-disco-defenders.json](./22362-laser-disco-defenders.json) |
 | Laser Dolphin | 54169 | [54169-laser-dolphin.json](./54169-laser-dolphin.json) |
@@ -7680,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers: Koi ni Ochitara... | 382247 | [382247-lovers-koi-ni-ochitara.json](./382247-lovers-koi-ni-ochitara.json) |
 | Lovers’ Fun! | 402457 | [402457-lovers-fun.json](./402457-lovers-fun.json) |
 | Lovesick | 177738 | [177738-lovesick.json](./177738-lovesick.json) |
+| Lovesick | 306933 | [306933-lovesick.json](./306933-lovesick.json) |
 | Lovesick | 413796 | [413796-lovesick.json](./413796-lovesick.json) |
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
 | LoveUnholyc: Dark Fantasy Love | 296785 | [296785-loveunholyc-dark-fantasy-love.json](./296785-loveunholyc-dark-fantasy-love.json) |
