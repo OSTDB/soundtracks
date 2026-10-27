@@ -7567,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Thing from the Planet Jupiter | 332933 | [332933-green-thing-from-the-planet-jupiter.json](./332933-green-thing-from-the-planet-jupiter.json) |
 | Green Thumb | 291571 | [291571-green-thumb.json](./291571-green-thumb.json) |
 | Green Thumb Cards | 62157 | [62157-green-thumb-cards.json](./62157-green-thumb-cards.json) |
+| Green Top | 299704 | [299704-green-top.json](./299704-green-top.json) |
 | Green Valley | 224620 | [224620-green-valley.json](./224620-green-valley.json) |
 | Green Valley County | 385341 | [385341-green-valley-county.json](./385341-green-valley-county.json) |
 | Green Valley: Fun on the Farm | 54059 | [54059-green-valley-fun-on-the-farm.json](./54059-green-valley-fun-on-the-farm.json) |
