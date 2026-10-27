@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paratrooper | 245156 | [245156-paratrooper.json](./245156-paratrooper.json) |
 | Paratrooper | 25155 | [25155-paratrooper.json](./25155-paratrooper.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
+| Paratroopers Raid | 316563 | [316563-paratroopers-raid.json](./316563-paratroopers-raid.json) |
 | Paravalence: With My Angel | 378975 | [378975-paravalence-with-my-angel.json](./378975-paravalence-with-my-angel.json) |
 | Paravoid | 384046 | [384046-paravoid.json](./384046-paravoid.json) |
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
@@ -3857,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Persecution: The Elevator | 311154 | [311154-persecution-the-elevator.json](./311154-persecution-the-elevator.json) |
 | Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
+| Persephone | 316568 | [316568-persephone.json](./316568-persephone.json) |
 | Persephone Lives | 350911 | [350911-persephone-lives.json](./350911-persephone-lives.json) |
 | Persephone Volumes 1 to 3 | 262274 | [262274-persephone-volumes-1-to-3.json](./262274-persephone-volumes-1-to-3.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
@@ -14054,6 +14056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proto Cuckoo 64 | 150982 | [150982-proto-cuckoo-64.json](./150982-proto-cuckoo-64.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
+| Proto Sonic | 316601 | [316601-proto-sonic.json](./316601-proto-sonic.json) |
 | Proto Type | 92885 | [92885-proto-type.json](./92885-proto-type.json) |
 | Proto Zero | 406152 | [406152-proto-zero.json](./406152-proto-zero.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
