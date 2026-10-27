@@ -1765,8 +1765,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Battle of Stalingrad | 17995 | [17995-il-2-sturmovik-battle-of-stalingrad.json](./17995-il-2-sturmovik-battle-of-stalingrad.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Battle of Bodenplatte | 139045 | [139045-il-2-sturmovik-battle-of-stalingrad-battle-of-bodenplatte.json](./139045-il-2-sturmovik-battle-of-stalingrad-battle-of-bodenplatte.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Flying Circus - Volume II | 243161 | [243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json](./243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Havoc Over the Kuban Campaign | 321950 | [321950-il-2-sturmovik-battle-of-stalingrad-havoc-over-the-kuban-campaign.json](./321950-il-2-sturmovik-battle-of-stalingrad-havoc-over-the-kuban-campaign.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - I.A.R. 80-A and 80-B Collector Planes | 295399 | [295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json](./295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.XIVe with Teardrop Canopy | 243160 | [243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json](./243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Ta 152 H-1 Collector Plane | 321944 | [321944-il-2-sturmovik-battle-of-stalingrad-ta-152-h-1-collector-plane.json](./321944-il-2-sturmovik-battle-of-stalingrad-ta-152-h-1-collector-plane.json) |
 | IL-2 Sturmovik: Battle of Stalingrad Deluxe Edition | 300968 | [300968-il-2-sturmovik-battle-of-stalingrad-deluxe-edition.json](./300968-il-2-sturmovik-battle-of-stalingrad-deluxe-edition.json) |
 | IL-2 Sturmovik: Birds of Prey | 193298 | [193298-il-2-sturmovik-birds-of-prey.json](./193298-il-2-sturmovik-birds-of-prey.json) |
 | IL-2 Sturmovik: Birds of Prey | 7016 | [7016-il-2-sturmovik-birds-of-prey.json](./7016-il-2-sturmovik-birds-of-prey.json) |
@@ -4684,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
 | Invisible Opus | 407841 | [407841-invisible-opus.json](./407841-invisible-opus.json) |
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
+| Invisible Seams | 321934 | [321934-invisible-seams.json](./321934-invisible-seams.json) |
 | Invisible Services: Pixel Art Jigsaw Puzzle | 162208 | [162208-invisible-services-pixel-art-jigsaw-puzzle.json](./162208-invisible-services-pixel-art-jigsaw-puzzle.json) |
 | Invisible Sign: Isu | 221028 | [221028-invisible-sign-isu.json](./221028-invisible-sign-isu.json) |
 | Invisible Sign: Isu - Nemureru Mori | 221030 | [221030-invisible-sign-isu-nemureru-mori.json](./221030-invisible-sign-isu-nemureru-mori.json) |
