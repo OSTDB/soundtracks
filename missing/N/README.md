@@ -4627,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Mini Classics: Zelda | 206370 | [206370-nintendo-mini-classics-zelda.json](./206370-nintendo-mini-classics-zelda.json) |
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Nightmare Deluxe | 313341 | [313341-nintendo-nightmare-deluxe.json](./313341-nintendo-nightmare-deluxe.json) |
+| Nintendo no Golf | 315438 | [315438-nintendo-no-golf.json](./315438-nintendo-no-golf.json) |
 | Nintendo Pennant Chase Baseball | 67797 | [67797-nintendo-pennant-chase-baseball.json](./67797-nintendo-pennant-chase-baseball.json) |
 | Nintendo Pocket Football Club | 47645 | [47645-nintendo-pocket-football-club.json](./47645-nintendo-pocket-football-club.json) |
 | Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
