@@ -3897,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Party | 147248 | [147248-fight-party.json](./147248-fight-party.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
 | Fight Poker | 404832 | [404832-fight-poker.json](./404832-fight-poker.json) |
+| Fight School Simulator | 293123 | [293123-fight-school-simulator.json](./293123-fight-school-simulator.json) |
 | Fight Sparring VR | 41951 | [41951-fight-sparring-vr.json](./41951-fight-sparring-vr.json) |
 | Fight Tennis | 321769 | [321769-fight-tennis.json](./321769-fight-tennis.json) |
 | Fight the Dracula! | 229357 | [229357-fight-the-dracula.json](./229357-fight-the-dracula.json) |
@@ -7735,6 +7736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
 | Fool's Gold | 421811 | [421811-fools-gold.json](./421811-fools-gold.json) |
 | Fool's Paradise | 149410 | [149410-fools-paradise.json](./149410-fools-paradise.json) |
+| Fool's Paradise | 293051 | [293051-fools-paradise.json](./293051-fools-paradise.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | FoolHut Pack: 3 games in 1 | 295123 | [295123-foolhut-pack-3-games-in-1.json](./295123-foolhut-pack-3-games-in-1.json) |
 | Fooling Dead | 392709 | [392709-fooling-dead.json](./392709-fooling-dead.json) |
@@ -9949,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeland | 208423 | [208423-freeland.json](./208423-freeland.json) |
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freelands | 396529 | [396529-freelands.json](./396529-freelands.json) |
+| Freelife | 293036 | [293036-freelife.json](./293036-freelife.json) |
 | Freeline! | 404923 | [404923-freeline.json](./404923-freeline.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
 | Freeman and Bob | 252921 | [252921-freeman-and-bob.json](./252921-freeman-and-bob.json) |
@@ -10506,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy | 14080 | [14080-froggy.json](./14080-froggy.json) |
 | Froggy | 193290 | [193290-froggy.json](./193290-froggy.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
+| Froggy Bouncing Adventures | 293048 | [293048-froggy-bouncing-adventures.json](./293048-froggy-bouncing-adventures.json) |
 | Froggy Brews | 351261 | [351261-froggy-brews.json](./351261-froggy-brews.json) |
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
 | Froggy Castle 2 | 243407 | [243407-froggy-castle-2.json](./243407-froggy-castle-2.json) |
