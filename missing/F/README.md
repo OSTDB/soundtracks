@@ -4715,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Alex | 344379 | [344379-finding-alex.json](./344379-finding-alex.json) |
 | Finding Alina | 149708 | [149708-finding-alina.json](./149708-finding-alina.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
+| Finding America: New England - Collector's Edition | 325395 | [325395-finding-america-new-england-collectors-edition.json](./325395-finding-america-new-england-collectors-edition.json) |
 | Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
 | Finding America: The Great Lakes - Collector's Edition | 321502 | [321502-finding-america-the-great-lakes-collectors-edition.json](./321502-finding-america-the-great-lakes-collectors-edition.json) |
 | Finding America: The Heartland | 212101 | [212101-finding-america-the-heartland.json](./212101-finding-america-the-heartland.json) |
@@ -7477,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
 | Foghorns Drown | 382273 | [382273-foghorns-drown.json](./382273-foghorns-drown.json) |
 | Fogline Protocol | 397277 | [397277-fogline-protocol.json](./397277-fogline-protocol.json) |
+| Fogpiercer | 325365 | [325365-fogpiercer.json](./325365-fogpiercer.json) |
 | Fogreaver | 335211 | [335211-fogreaver.json](./335211-fogreaver.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
@@ -11291,6 +11293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Deluxe Edition | 362964 | [362964-funko-fusion-deluxe-edition.json](./362964-funko-fusion-deluxe-edition.json) |
 | Funko Fusion: Frankenstein | 354049 | [354049-funko-fusion-frankenstein.json](./354049-funko-fusion-frankenstein.json) |
 | Funko Fusion: Happy Funkoween Pack | 373882 | [373882-funko-fusion-happy-funkoween-pack.json](./373882-funko-fusion-happy-funkoween-pack.json) |
+| Funko Fusion: Hazel & Cha-Cha Pack | 325360 | [325360-funko-fusion-hazel-and-cha-cha-pack.json](./325360-funko-fusion-hazel-and-cha-cha-pack.json) |
 | Funko Fusion: Invincible Pack | 323320 | [323320-funko-fusion-invincible-pack.json](./323320-funko-fusion-invincible-pack.json) |
 | Funko Fusion: Jurassic World Bonus Pack | 354238 | [354238-funko-fusion-jurassic-world-bonus-pack.json](./354238-funko-fusion-jurassic-world-bonus-pack.json) |
 | Funko Fusion: Jurassic World Rebirth DLC | 354021 | [354021-funko-fusion-jurassic-world-rebirth-dlc.json](./354021-funko-fusion-jurassic-world-rebirth-dlc.json) |
@@ -11310,6 +11313,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Universal Monsters Pack | 353216 | [353216-funko-fusion-universal-monsters-pack.json](./353216-funko-fusion-universal-monsters-pack.json) |
 | Funko Fusion: Universal Monsters Pack Bundle | 332016 | [332016-funko-fusion-universal-monsters-pack-bundle.json](./332016-funko-fusion-universal-monsters-pack-bundle.json) |
 | Funko Fusion: WDC Pack | 354229 | [354229-funko-fusion-wdc-pack.json](./354229-funko-fusion-wdc-pack.json) |
+| Funko Fusion: Wicked Movie DLC Bundle | 325363 | [325363-funko-fusion-wicked-movie-dlc-bundle.json](./325363-funko-fusion-wicked-movie-dlc-bundle.json) |
+| Funko Fusion: Wicked Movie Pack 1 | 325361 | [325361-funko-fusion-wicked-movie-pack-1.json](./325361-funko-fusion-wicked-movie-pack-1.json) |
+| Funko Fusion: Wicked Movie Pack 2 | 325362 | [325362-funko-fusion-wicked-movie-pack-2.json](./325362-funko-fusion-wicked-movie-pack-2.json) |
 | Funko Fusion: Wicked Movie Pack 3 | 354230 | [354230-funko-fusion-wicked-movie-pack-3.json](./354230-funko-fusion-wicked-movie-pack-3.json) |
 | Funko Fusion: Wolfie Pack | 354241 | [354241-funko-fusion-wolfie-pack.json](./354241-funko-fusion-wolfie-pack.json) |
 | Funko Fusion: Yuletide Pack | 332471 | [332471-funko-fusion-yuletide-pack.json](./332471-funko-fusion-yuletide-pack.json) |
