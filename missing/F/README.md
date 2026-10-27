@@ -3951,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy Classics Vol. 1 | 389081 | [389081-fighting-fantasy-classics-vol-1.json](./389081-fighting-fantasy-classics-vol-1.json) |
+| Fighting Fantasy Classics: Armies of Death | 313671 | [313671-fighting-fantasy-classics-armies-of-death.json](./313671-fighting-fantasy-classics-armies-of-death.json) |
 | Fighting Fantasy Classics: Caverns of the Snow Witch | 170851 | [170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json](./170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json) |
 | Fighting Fantasy Classics: Eye of the Dragon | 349202 | [349202-fighting-fantasy-classics-eye-of-the-dragon.json](./349202-fighting-fantasy-classics-eye-of-the-dragon.json) |
 | Fighting Fantasy Classics: The Port of Peril | 353813 | [353813-fighting-fantasy-classics-the-port-of-peril.json](./353813-fighting-fantasy-classics-the-port-of-peril.json) |
