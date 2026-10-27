@@ -3796,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskers | 180237 | [180237-whiskers.json](./180237-whiskers.json) |
 | Whiskers | 233068 | [233068-whiskers.json](./233068-whiskers.json) |
 | Whiskers | 272300 | [272300-whiskers.json](./272300-whiskers.json) |
+| Whiskers | 311551 | [311551-whiskers.json](./311551-whiskers.json) |
 | Whiskers and Wizardry | 345084 | [345084-whiskers-and-wizardry.json](./345084-whiskers-and-wizardry.json) |
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
 | Whiskers on Time's Corner | 370098 | [370098-whiskers-on-times-corner.json](./370098-whiskers-on-times-corner.json) |
@@ -3851,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Tying the Knot | 268927 | [268927-whispered-secrets-tying-the-knot.json](./268927-whispered-secrets-tying-the-knot.json) |
 | Whispered Stories: Sandman | 175803 | [175803-whispered-stories-sandman.json](./175803-whispered-stories-sandman.json) |
 | Whispering Abyss | 216829 | [216829-whispering-abyss.json](./216829-whispering-abyss.json) |
+| Whispering Age | 311535 | [311535-whispering-age.json](./311535-whispering-age.json) |
 | Whispering Death | 312551 | [312551-whispering-death.json](./312551-whispering-death.json) |
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
 | Whispering Flames | 107933 | [107933-whispering-flames.json](./107933-whispering-flames.json) |
@@ -5751,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
 | Wizard's Harmony R | 108169 | [108169-wizards-harmony-r.json](./108169-wizards-harmony-r.json) |
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
+| Wizard's Legacy | 311560 | [311560-wizards-legacy.json](./311560-wizards-legacy.json) |
 | Wizard's Oblation | 374016 | [374016-wizards-oblation.json](./374016-wizards-oblation.json) |
 | Wizard's Quest | 148818 | [148818-wizards-quest.json](./148818-wizards-quest.json) |
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
