@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba Fitness World Party | 5308 | [5308-zumba-fitness-world-party.json](./5308-zumba-fitness-world-party.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
 | Zumba Marble Blast | 309056 | [309056-zumba-marble-blast.json](./309056-zumba-marble-blast.json) |
+| Zumba Royal Marble Shooter Mania | 323107 | [323107-zumba-royal-marble-shooter-mania.json](./323107-zumba-royal-marble-shooter-mania.json) |
 | Zumba World: The Crazy Marble Dimension | 389076 | [389076-zumba-world-the-crazy-marble-dimension.json](./389076-zumba-world-the-crazy-marble-dimension.json) |
 | Zumba World: The Marble Monster Adventure | 400172 | [400172-zumba-world-the-marble-monster-adventure.json](./400172-zumba-world-the-marble-monster-adventure.json) |
 | Zumba: Dragon's Marble Trial | 381714 | [381714-zumba-dragons-marble-trial.json](./381714-zumba-dragons-marble-trial.json) |
