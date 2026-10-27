@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism | 34945 | [34945-feudalism.json](./34945-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
+| Feudalism III | 281586 | [281586-feudalism-iii.json](./281586-feudalism-iii.json) |
 | Feuerwache: Mission - Leben retten | 81479 | [81479-feuerwache-mission-leben-retten.json](./81479-feuerwache-mission-leben-retten.json) |
 | Feuerwehr 3D | 93448 | [93448-feuerwehr-3d.json](./93448-feuerwehr-3d.json) |
 | Fever | 235588 | [235588-fever.json](./235588-fever.json) |
