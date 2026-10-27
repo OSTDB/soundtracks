@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T18:58:56.284Z",
-  "total_missing": 271180,
+  "generated_at": "2026-10-27T19:07:11.239Z",
+  "total_missing": 271179,
   "games": [
     {
       "igdb_id": 191680,
@@ -31660,11 +31660,6 @@
       "igdb_id": 410070,
       "game_name": "Aerial_Knight's MrFreezy",
       "file": "missing/A/410070-aerial-knights-mrfreezy.json"
-    },
-    {
-      "igdb_id": 138206,
-      "game_name": "Aerial_Knight's Never Yield",
-      "file": "missing/A/138206-aerial-knights-never-yield.json"
     },
     {
       "igdb_id": 169190,
@@ -97727,6 +97722,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -113997,11 +113997,6 @@
       "file": "missing/B/333674-beach-buddies-brawl.json"
     },
     {
-      "igdb_id": 11287,
-      "game_name": "Beach Buggy Racing",
-      "file": "missing/B/11287-beach-buggy-racing.json"
-    },
-    {
       "igdb_id": 110044,
       "game_name": "Beach Buggy Racing 2",
       "file": "missing/B/110044-beach-buggy-racing-2.json"
@@ -122975,6 +122970,16 @@
       "igdb_id": 228261,
       "game_name": "Better Call Saul Kart",
       "file": "missing/B/228261-better-call-saul-kart.json"
+    },
+    {
+      "igdb_id": 290982,
+      "game_name": "Better Cluck Next Time",
+      "file": "missing/B/290982-better-cluck-next-time.json"
+    },
+    {
+      "igdb_id": 290980,
+      "game_name": "Better Cluck Next Time II",
+      "file": "missing/B/290980-better-cluck-next-time-ii.json"
     },
     {
       "igdb_id": 341862,
@@ -133160,11 +133165,6 @@
       "igdb_id": 278271,
       "game_name": "Black silk girl",
       "file": "missing/B/278271-black-silk-girl.json"
-    },
-    {
-      "igdb_id": 122132,
-      "game_name": "Black Skylands",
-      "file": "missing/B/122132-black-skylands.json"
     },
     {
       "igdb_id": 290334,
@@ -232755,11 +232755,6 @@
       "igdb_id": 142737,
       "game_name": "Cookie Run: Kingdom",
       "file": "missing/C/142737-cookie-run-kingdom.json"
-    },
-    {
-      "igdb_id": 78951,
-      "game_name": "Cookie Run: OvenBreak",
-      "file": "missing/C/78951-cookie-run-ovenbreak.json"
     },
     {
       "igdb_id": 193973,
@@ -414402,11 +414397,6 @@
       "file": "missing/F/385550-floppy-jump-3-in-1.json"
     },
     {
-      "igdb_id": 130182,
-      "game_name": "Floppy Knights",
-      "file": "missing/F/130182-floppy-knights.json"
-    },
-    {
       "igdb_id": 230299,
       "game_name": "Floppy Knights: Version 2.0",
       "file": "missing/F/230299-floppy-knights-version-2-0.json"
@@ -538412,11 +538402,6 @@
       "file": "missing/H/171585-hundred-chances.json"
     },
     {
-      "igdb_id": 120720,
-      "game_name": "Hundred Days",
-      "file": "missing/H/120720-hundred-days.json"
-    },
-    {
       "igdb_id": 167181,
       "game_name": "Hundred Days: Grape Lab",
       "file": "missing/H/167181-hundred-days-grape-lab.json"
@@ -602600,6 +602585,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -694877,6 +694867,11 @@
       "file": "missing/M/288040-mega-man-rpg-prototype.json"
     },
     {
+      "igdb_id": 290981,
+      "game_name": "Mega Man Rush Marine",
+      "file": "missing/M/290981-mega-man-rush-marine.json"
+    },
+    {
       "igdb_id": 377766,
       "game_name": "Mega Man SNES",
       "file": "missing/M/377766-mega-man-snes.json"
@@ -694885,6 +694880,11 @@
       "igdb_id": 1730,
       "game_name": "Mega Man Soccer",
       "file": "missing/M/1730-mega-man-soccer.json"
+    },
+    {
+      "igdb_id": 290983,
+      "game_name": "Mega Man Space Rescue",
+      "file": "missing/M/290983-mega-man-space-rescue.json"
     },
     {
       "igdb_id": 1785,
@@ -805380,11 +805380,6 @@
       "igdb_id": 234662,
       "game_name": "Opus: Prism Peak",
       "file": "missing/O/234662-opus-prism-peak.json"
-    },
-    {
-      "igdb_id": 77569,
-      "game_name": "Opus: Rocket of Whispers",
-      "file": "missing/O/77569-opus-rocket-of-whispers.json"
     },
     {
       "igdb_id": 186535,
