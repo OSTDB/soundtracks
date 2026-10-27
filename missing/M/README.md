@@ -5477,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
 | Me && Mory | 341287 | [341287-me-and-and-mory.json](./341287-me-and-and-mory.json) |
 | Me Alone Reissue | 203843 | [203843-me-alone-reissue.json](./203843-me-alone-reissue.json) |
+| Me and Gamer Girl | 323102 | [323102-me-and-gamer-girl.json](./323102-me-and-gamer-girl.json) |
 | Me And Gamer Girl: Gamer-joshi to Hikikomori | 324197 | [324197-me-and-gamer-girl-gamer-joshi-to-hikikomori.json](./324197-me-and-gamer-girl-gamer-joshi-to-hikikomori.json) |
 | Me and My Cat's Island | 285915 | [285915-me-and-my-cats-island.json](./285915-me-and-my-cats-island.json) |
 | Me and My Dinosaur | 58696 | [58696-me-and-my-dinosaur.json](./58696-me-and-my-dinosaur.json) |
@@ -7755,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Go | 76501 | [76501-meow-go.json](./76501-meow-go.json) |
 | Meow Lab | 149349 | [149349-meow-lab.json](./149349-meow-lab.json) |
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
+| Meow Meow Invasion | 323139 | [323139-meow-meow-invasion.json](./323139-meow-meow-invasion.json) |
 | Meow Meow Wizard Arena | 289256 | [289256-meow-meow-wizard-arena.json](./289256-meow-meow-wizard-arena.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
 | Meow Mission | 322246 | [322246-meow-mission.json](./322246-meow-mission.json) |
