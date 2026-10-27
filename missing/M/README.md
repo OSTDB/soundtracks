@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Piano Tiles 2018 - Music Game | 110594 | [110594-magic-piano-tiles-2018-music-game.json](./110594-magic-piano-tiles-2018-music-game.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pixel Survival | 233419 | [233419-magic-pixel-survival.json](./233419-magic-pixel-survival.json) |
+| Magic Planet Snack | 283547 | [283547-magic-planet-snack.json](./283547-magic-planet-snack.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
 | Magic Potion Destroyer | 55227 | [55227-magic-potion-destroyer.json](./55227-magic-potion-destroyer.json) |
 | Magic Potion Explorer | 33550 | [33550-magic-potion-explorer.json](./33550-magic-potion-explorer.json) |
@@ -15713,7 +15714,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP1: vila do Chaves | 283423 | [283423-mp1-vila-do-chaves.json](./283423-mp1-vila-do-chaves.json) |
 | MP1: Watch Out! | 283637 | [283637-mp1-watch-out.json](./283637-mp1-watch-out.json) |
 | MP1: Wii Menu | 283425 | [283425-mp1-wii-menu.json](./283425-mp1-wii-menu.json) |
+| MP2: A Bad Time | 283785 | [283785-mp2-a-bad-time.json](./283785-mp2-a-bad-time.json) |
 | MP2: Adventure Land | 283662 | [283662-mp2-adventure-land.json](./283662-mp2-adventure-land.json) |
+| MP2: Aqua Land | 283792 | [283792-mp2-aqua-land.json](./283792-mp2-aqua-land.json) |
 | MP2: Beach Bowl Galaxy | 283670 | [283670-mp2-beach-bowl-galaxy.json](./283670-mp2-beach-bowl-galaxy.json) |
 | MP2: Bill Nye's Science Lab | 283777 | [283777-mp2-bill-nyes-science-lab.json](./283777-mp2-bill-nyes-science-lab.json) |
 | MP2: Blue Koopa Land | 283779 | [283779-mp2-blue-koopa-land.json](./283779-mp2-blue-koopa-land.json) |
@@ -15725,25 +15728,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP2: E. Gadd's Garage | 283657 | [283657-mp2-e-gadds-garage.json](./283657-mp2-e-gadds-garage.json) |
 | MP2: Element of Kindness | 283666 | [283666-mp2-element-of-kindness.json](./283666-mp2-element-of-kindness.json) |
 | MP2: Eventide Island | 283661 | [283661-mp2-eventide-island.json](./283661-mp2-eventide-island.json) |
+| MP2: Fonic's Discovery Land | 283784 | [283784-mp2-fonics-discovery-land.json](./283784-mp2-fonics-discovery-land.json) |
 | MP2: Freezing Fissure | 283652 | [283652-mp2-freezing-fissure.json](./283652-mp2-freezing-fissure.json) |
 | MP2: Frostbite Ruins | 283671 | [283671-mp2-frostbite-ruins.json](./283671-mp2-frostbite-ruins.json) |
 | MP2: Ganon's Spooky Forest | 283665 | [283665-mp2-ganons-spooky-forest.json](./283665-mp2-ganons-spooky-forest.json) |
+| MP2: Golden Chance | 283786 | [283786-mp2-golden-chance.json](./283786-mp2-golden-chance.json) |
 | MP2: Hope Land | 283780 | [283780-mp2-hope-land.json](./283780-mp2-hope-land.json) |
 | MP2: Ice Land | 283676 | [283676-mp2-ice-land.json](./283676-mp2-ice-land.json) |
 | MP2: JMGO Sands | 283781 | [283781-mp2-jmgo-sands.json](./283781-mp2-jmgo-sands.json) |
 | MP2: Koopa Kid Land | 283773 | [283773-mp2-koopa-kid-land.json](./283773-mp2-koopa-kid-land.json) |
+| MP2: Lava Land | 283787 | [283787-mp2-lava-land.json](./283787-mp2-lava-land.json) |
 | MP2: Music Park | 283654 | [283654-mp2-music-park.json](./283654-mp2-music-park.json) |
 | MP2: Neon Heights | 283656 | [283656-mp2-neon-heights.json](./283656-mp2-neon-heights.json) |
 | MP2: Open RCT2 | 283782 | [283782-mp2-open-rct2.json](./283782-mp2-open-rct2.json) |
 | MP2: Petropolis (Block Party) | 283775 | [283775-mp2-petropolis-block-party.json](./283775-mp2-petropolis-block-party.json) |
 | MP2: Pikmin | 283653 | [283653-mp2-pikmin.json](./283653-mp2-pikmin.json) |
 | MP2: Pinball Land | 283664 | [283664-mp2-pinball-land.json](./283664-mp2-pinball-land.json) |
+| MP2: Rosalina's Cosmic Icecap | 283791 | [283791-mp2-rosalinas-cosmic-icecap.json](./283791-mp2-rosalinas-cosmic-icecap.json) |
 | MP2: Shy Guy Jungle | 283674 | [283674-mp2-shy-guy-jungle.json](./283674-mp2-shy-guy-jungle.json) |
 | MP2: Spooky Town | 283668 | [283668-mp2-spooky-town.json](./283668-mp2-spooky-town.json) |
 | MP2: Summer's Lake | 283659 | [283659-mp2-summers-lake.json](./283659-mp2-summers-lake.json) |
+| MP2: Time Land | 283788 | [283788-mp2-time-land.json](./283788-mp2-time-land.json) |
 | MP2: Toy Dream | 283655 | [283655-mp2-toy-dream.json](./283655-mp2-toy-dream.json) |
+| MP2: UwU Land | 283790 | [283790-mp2-uwu-land.json](./283790-mp2-uwu-land.json) |
 | MP2: Virtual Land | 283660 | [283660-mp2-virtual-land.json](./283660-mp2-virtual-land.json) |
 | MP2: Warriors | 283658 | [283658-mp2-warriors.json](./283658-mp2-warriors.json) |
+| MP2: Wooded Land | 283789 | [283789-mp2-wooded-land.json](./283789-mp2-wooded-land.json) |
 | MP2: Yoshi Valley | 283774 | [283774-mp2-yoshi-valley.json](./283774-mp2-yoshi-valley.json) |
 | MP3: (Piranha Plant's) Pipe Wonderland | 294756 | [294756-mp3-piranha-plants-pipe-wonderland.json](./294756-mp3-piranha-plants-pipe-wonderland.json) |
 | MP3: Big Boo's Black Hole Boardwalk | 314580 | [314580-mp3-big-boos-black-hole-boardwalk.json](./314580-mp3-big-boos-black-hole-boardwalk.json) |
@@ -18451,6 +18461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Box: Hidden Secrets | 174041 | [174041-mystery-box-hidden-secrets.json](./174041-mystery-box-hidden-secrets.json) |
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Case Files: 13th Skull | 5515 | [5515-mystery-case-files-13th-skull.json](./5515-mystery-case-files-13th-skull.json) |
+| Mystery Case Files: A Crime in Reflection - Collector's Edition | 283552 | [283552-mystery-case-files-a-crime-in-reflection-collectors-edition.json](./283552-mystery-case-files-a-crime-in-reflection-collectors-edition.json) |
 | Mystery Case Files: Black Crown | 140229 | [140229-mystery-case-files-black-crown.json](./140229-mystery-case-files-black-crown.json) |
 | Mystery Case Files: Black Crown - Collector's Edition | 127100 | [127100-mystery-case-files-black-crown-collectors-edition.json](./127100-mystery-case-files-black-crown-collectors-edition.json) |
 | Mystery Case Files: Broken Hour | 56174 | [56174-mystery-case-files-broken-hour.json](./56174-mystery-case-files-broken-hour.json) |
