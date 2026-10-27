@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeroes | 312527 | [312527-xeroes.json](./312527-xeroes.json) |
 | Xerxes | 295671 | [295671-xerxes.json](./295671-xerxes.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
+| Xevious | 284382 | [284382-xevious.json](./284382-xevious.json) |
 | Xevious 3D | 23394 | [23394-xevious-3d.json](./23394-xevious-3d.json) |
 | Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
 | Xevious 3D/G+ | 220149 | [220149-xevious-3d-g.json](./220149-xevious-3d-g.json) |
