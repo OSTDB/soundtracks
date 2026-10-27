@@ -6030,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Soccer World | 354475 | [354475-pinball-soccer-world.json](./354475-pinball-soccer-world.json) |
 | Pinball Spectacular | 61308 | [61308-pinball-spectacular.json](./61308-pinball-spectacular.json) |
 | Pinball Spire x 9 Years of Shadows | 396120 | [396120-pinball-spire-x-9-years-of-shadows.json](./396120-pinball-spire-x-9-years-of-shadows.json) |
+| Pinball Storm: Lokanta | 295212 | [295212-pinball-storm-lokanta.json](./295212-pinball-storm-lokanta.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
 | Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
@@ -13166,6 +13167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Programa do Ratinho | 163360 | [163360-programa-do-ratinho.json](./163360-programa-do-ratinho.json) |
 | PrograMaze | 346791 | [346791-programaze.json](./346791-programaze.json) |
 | Programmer Dungeon Knightress | 199566 | [199566-programmer-dungeon-knightress.json](./199566-programmer-dungeon-knightress.json) |
+| Programming Factory | 295225 | [295225-programming-factory.json](./295225-programming-factory.json) |
 | Progress | 40171 | [40171-progress.json](./40171-progress.json) |
 | Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
 | Progress Bar Simulator | 130747 | [130747-progress-bar-simulator.json](./130747-progress-bar-simulator.json) |
