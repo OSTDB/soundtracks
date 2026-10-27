@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost or Trick | 167560 | [167560-ghost-or-trick.json](./167560-ghost-or-trick.json) |
 | Ghost Palace | 287517 | [287517-ghost-palace.json](./287517-ghost-palace.json) |
 | Ghost Parade | 104987 | [104987-ghost-parade.json](./104987-ghost-parade.json) |
+| Ghost Party | 283554 | [283554-ghost-party.json](./283554-ghost-party.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Party Nyanbaba | 187846 | [187846-ghost-party-nyanbaba.json](./187846-ghost-party-nyanbaba.json) |
 | Ghost Party: Nemuri-hime | 308873 | [308873-ghost-party-nemuri-hime.json](./308873-ghost-party-nemuri-hime.json) |
