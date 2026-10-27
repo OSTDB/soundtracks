@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Paris | 337610 | [337610-101-cats-in-paris.json](./337610-101-cats-in-paris.json) |
 | 101 Cats in Prague | 350321 | [350321-101-cats-in-prague.json](./350321-101-cats-in-prague.json) |
 | 101 Cats in Rio de Janeiro | 397634 | [397634-101-cats-in-rio-de-janeiro.json](./397634-101-cats-in-rio-de-janeiro.json) |
+| 101 Cats in Rome | 326080 | [326080-101-cats-in-rome.json](./326080-101-cats-in-rome.json) |
 | 101 Cats in Saint Petersburg | 397635 | [397635-101-cats-in-saint-petersburg.json](./397635-101-cats-in-saint-petersburg.json) |
 | 101 Cats in Seoul | 374826 | [374826-101-cats-in-seoul.json](./374826-101-cats-in-seoul.json) |
 | 101 Cats in Shenzhen | 337515 | [337515-101-cats-in-shenzhen.json](./337515-101-cats-in-shenzhen.json) |
@@ -1724,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Tactical Lines | 158538 | [158538-3-tactical-lines.json](./158538-3-tactical-lines.json) |
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
 | 3-2-1, Rattle Battle! | 51056 | [51056-3-2-1-rattle-battle.json](./51056-3-2-1-rattle-battle.json) |
+| 3-Bit Explorer | 326037 | [326037-3-bit-explorer.json](./326037-3-bit-explorer.json) |
 | 3-choume no Tama: Tama and Friends - 3-choume Obake Panic!! | 49149 | [49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json](./49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json) |
 | 3-D Body Adventure | 129505 | [129505-3-d-body-adventure.json](./129505-3-d-body-adventure.json) |
 | 3-D Bomberman | 85953 | [85953-3-d-bomberman.json](./85953-3-d-bomberman.json) |
