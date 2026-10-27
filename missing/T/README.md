@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails Adventure | 19715 | [19715-tails-adventure.json](./19715-tails-adventure.json) |
 | Tails Adventure: Armada | 333895 | [333895-tails-adventure-armada.json](./333895-tails-adventure-armada.json) |
 | Tails Adventure: Fire of Robollion | 267216 | [267216-tails-adventure-fire-of-robollion.json](./267216-tails-adventure-fire-of-robollion.json) |
+| Tails Adventures GG2SMS | 308195 | [308195-tails-adventures-gg2sms.json](./308195-tails-adventures-gg2sms.json) |
 | Tails and Pines | 192448 | [192448-tails-and-pines.json](./192448-tails-and-pines.json) |
 | Tails Doll | 279577 | [279577-tails-doll.json](./279577-tails-doll.json) |
 | Tails Football | 362899 | [362899-tails-football.json](./362899-tails-football.json) |
@@ -614,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
 | Tails' Picross | 321400 | [321400-tails-picross.json](./321400-tails-picross.json) |
 | Tails' Skypatrol | 45796 | [45796-tails-skypatrol.json](./45796-tails-skypatrol.json) |
+| Tails' Skypatrol GG2SMS | 308197 | [308197-tails-skypatrol-gg2sms.json](./308197-tails-skypatrol-gg2sms.json) |
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
 | Tailside: Cozy Cafe Sim | 296995 | [296995-tailside-cozy-cafe-sim.json](./296995-tailside-cozy-cafe-sim.json) |
 | Tailspin! | 177371 | [177371-tailspin.json](./177371-tailspin.json) |
@@ -2870,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles | 146006 | [146006-teenage-mutant-ninja-turtles.json](./146006-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 19747 | [19747-teenage-mutant-ninja-turtles.json](./19747-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 218922 | [218922-teenage-mutant-ninja-turtles.json](./218922-teenage-mutant-ninja-turtles.json) |
+| Teenage Mutant Ninja Turtles | 308150 | [308150-teenage-mutant-ninja-turtles.json](./308150-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 3815 | [3815-teenage-mutant-ninja-turtles.json](./3815-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 76209 | [76209-teenage-mutant-ninja-turtles.json](./76209-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles 2: Battle Nexus | 146058 | [146058-teenage-mutant-ninja-turtles-2-battle-nexus.json](./146058-teenage-mutant-ninja-turtles-2-battle-nexus.json) |
@@ -6003,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cartoon Works | 313044 | [313044-the-cartoon-works.json](./313044-the-cartoon-works.json) |
 | The Cascadier | 366573 | [366573-the-cascadier.json](./366573-the-cascadier.json) |
 | The Case Book of Arne | 139219 | [139219-the-case-book-of-arne.json](./139219-the-case-book-of-arne.json) |
+| The Case Book of Arne: Interlude | 308216 | [308216-the-case-book-of-arne-interlude.json](./308216-the-case-book-of-arne-interlude.json) |
 | The Case of Andrew D. | 299370 | [299370-the-case-of-andrew-d.json](./299370-the-case-of-andrew-d.json) |
 | The Case of Arcadia Springs | 385301 | [385301-the-case-of-arcadia-springs.json](./385301-the-case-of-arcadia-springs.json) |
 | The Case of the Cautious Condor | 70968 | [70968-the-case-of-the-cautious-condor.json](./70968-the-case-of-the-cautious-condor.json) |
@@ -10243,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Girl ~ Janna's diary of survive | 103658 | [103658-the-last-girl-jannas-diary-of-survive.json](./103658-the-last-girl-jannas-diary-of-survive.json) |
 | The Last Golden Fox | 247930 | [247930-the-last-golden-fox.json](./247930-the-last-golden-fox.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
+| The Last Goodbye | 308181 | [308181-the-last-goodbye.json](./308181-the-last-goodbye.json) |
 | The Last Guardian: Collector's Edition | 38490 | [38490-the-last-guardian-collectors-edition.json](./38490-the-last-guardian-collectors-edition.json) |
 | The Last Guardian: First-Press Limited Edition | 166983 | [166983-the-last-guardian-first-press-limited-edition.json](./166983-the-last-guardian-first-press-limited-edition.json) |
 | The Last Guardian: Limited Edition | 405004 | [405004-the-last-guardian-limited-edition.json](./405004-the-last-guardian-limited-edition.json) |
@@ -10550,6 +10555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Azarias | 207191 | [207191-the-legend-of-azarias.json](./207191-the-legend-of-azarias.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
 | The Legend of Baboo | 320143 | [320143-the-legend-of-baboo.json](./320143-the-legend-of-baboo.json) |
+| The Legend of Banjo | 308161 | [308161-the-legend-of-banjo.json](./308161-the-legend-of-banjo.json) |
 | The Legend of Banjo-Kazooie: Gruntilda's Mask | 201769 | [201769-the-legend-of-banjo-kazooie-gruntildas-mask.json](./201769-the-legend-of-banjo-kazooie-gruntildas-mask.json) |
 | The Legend of Banjo-Kazooie: The Bear Waker | 135261 | [135261-the-legend-of-banjo-kazooie-the-bear-waker.json](./135261-the-legend-of-banjo-kazooie-the-bear-waker.json) |
 | The Legend of Banjo-Kazooie: The Bear Waker Deluxe | 315448 | [315448-the-legend-of-banjo-kazooie-the-bear-waker-deluxe.json](./315448-the-legend-of-banjo-kazooie-the-bear-waker-deluxe.json) |
@@ -27356,6 +27362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Baby | 252082 | [252082-tube-baby.json](./252082-tube-baby.json) |
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
 | Tube Jumpers | 99406 | [99406-tube-jumpers.json](./99406-tube-jumpers.json) |
+| Tube Noodles | 308173 | [308173-tube-noodles.json](./308173-tube-noodles.json) |
 | Tube Panic | 40163 | [40163-tube-panic.json](./40163-tube-panic.json) |
 | Tube Repairs | 370258 | [370258-tube-repairs.json](./370258-tube-repairs.json) |
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
