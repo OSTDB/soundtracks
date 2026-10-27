@@ -4889,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serene Hike | 246791 | [246791-serene-hike.json](./246791-serene-hike.json) |
 | Serene Seasons | 334027 | [334027-serene-seasons.json](./334027-serene-seasons.json) |
 | Serenitrove | 341541 | [341541-serenitrove.json](./341541-serenitrove.json) |
+| Serenity | 291961 | [291961-serenity.json](./291961-serenity.json) |
 | Serenity | 313862 | [313862-serenity.json](./313862-serenity.json) |
 | Serenity | 392294 | [392294-serenity.json](./392294-serenity.json) |
 | Serenity | 418862 | [418862-serenity.json](./418862-serenity.json) |
@@ -10968,6 +10969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyward | 193447 | [193447-skyward.json](./193447-skyward.json) |
+| Skyward | 291940 | [291940-skyward.json](./291940-skyward.json) |
 | Skyward Battles | 334855 | [334855-skyward-battles.json](./334855-skyward-battles.json) |
 | Skyward Collapse | 9328 | [9328-skyward-collapse.json](./9328-skyward-collapse.json) |
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
@@ -12951,6 +12953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
 | Sniper: Ghost Warrior Trilogy | 53633 | [53633-sniper-ghost-warrior-trilogy.json](./53633-sniper-ghost-warrior-trilogy.json) |
 | Sniper: Path of Vengeance | 26889 | [26889-sniper-path-of-vengeance.json](./26889-sniper-path-of-vengeance.json) |
+| Sniperbot: The Hype Game | 291954 | [291954-sniperbot-the-hype-game.json](./291954-sniperbot-the-hype-game.json) |
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
@@ -18057,6 +18060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
 | Spellbroken | 152012 | [152012-spellbroken.json](./152012-spellbroken.json) |
 | Spellbrush’s Tactical Game | 402685 | [402685-spellbrush-s-tactical-game.json](./402685-spellbrush-s-tactical-game.json) |
+| Spellcard Academy | 291942 | [291942-spellcard-academy.json](./291942-spellcard-academy.json) |
 | SpellCarved | 397268 | [397268-spellcarved.json](./397268-spellcarved.json) |
 | Spellcast | 361626 | [361626-spellcast.json](./361626-spellcast.json) |
 | SpellCast | 254447 | [254447-spellcast.json](./254447-spellcast.json) |
@@ -25274,6 +25278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Mission | 18566 | [18566-suicide-mission.json](./18566-suicide-mission.json) |
 | Suicide Run | 60054 | [60054-suicide-run.json](./60054-suicide-run.json) |
 | Suicide Runners | 269207 | [269207-suicide-runners.json](./269207-suicide-runners.json) |
+| Suicide Simulator | 292045 | [292045-suicide-simulator.json](./292045-suicide-simulator.json) |
 | Suicide Squad: Kill The Justice League - Deluxe Edition | 239147 | [239147-suicide-squad-kill-the-justice-league-deluxe-edition.json](./239147-suicide-squad-kill-the-justice-league-deluxe-edition.json) |
 | Suicide Squad: Kill the Justice League - Season 3: Season of Lawless | 321529 | [321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json](./321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json) |
 | Suicide Squad: Kill the Justice League - Season of Deathstroke | 326557 | [326557-suicide-squad-kill-the-justice-league-season-of-deathstroke.json](./326557-suicide-squad-kill-the-justice-league-season-of-deathstroke.json) |
