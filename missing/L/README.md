@@ -4829,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Adventurer | 98464 | [98464-little-adventurer.json](./98464-little-adventurer.json) |
 | Little Adventurer II | 61607 | [61607-little-adventurer-ii.json](./61607-little-adventurer-ii.json) |
 | Little Adventurer III | 83547 | [83547-little-adventurer-iii.json](./83547-little-adventurer-iii.json) |
+| Little Adventurer Treasure Hunt | 330083 | [330083-little-adventurer-treasure-hunt.json](./330083-little-adventurer-treasure-hunt.json) |
 | Little Aid | 204388 | [204388-little-aid.json](./204388-little-aid.json) |
 | Little Aid | 56558 | [56558-little-aid.json](./56558-little-aid.json) |
 | Little Aid Portable | 204389 | [204389-little-aid-portable.json](./204389-little-aid-portable.json) |
