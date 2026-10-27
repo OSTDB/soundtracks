@@ -7119,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
 | Lost Word of Jenny: Ushinawareta Message | 48434 | [48434-lost-word-of-jenny-ushinawareta-message.json](./48434-lost-word-of-jenny-ushinawareta-message.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
+| Lost World | 308316 | [308316-lost-world.json](./308316-lost-world.json) |
 | Lost World Sudoku | 245673 | [245673-lost-world-sudoku.json](./245673-lost-world-sudoku.json) |
 | Lost World Survivor | 348588 | [348588-lost-world-survivor.json](./348588-lost-world-survivor.json) |
 | Lost Worlds Prophecy | 95666 | [95666-lost-worlds-prophecy.json](./95666-lost-worlds-prophecy.json) |
@@ -7174,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Challenge | 3983 | [3983-lotus-challenge.json](./3983-lotus-challenge.json) |
 | Lotus Digital | 90973 | [90973-lotus-digital.json](./90973-lotus-digital.json) |
 | Lotus Esprit Turbo Challenge | 12671 | [12671-lotus-esprit-turbo-challenge.json](./12671-lotus-esprit-turbo-challenge.json) |
+| Lotus Esprit Turbo Challenge | 308147 | [308147-lotus-esprit-turbo-challenge.json](./308147-lotus-esprit-turbo-challenge.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
 | Lotus Lantern: Rescue Mother | 286380 | [286380-lotus-lantern-rescue-mother.json](./286380-lotus-lantern-rescue-mother.json) |
