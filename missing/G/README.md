@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 10: Souhide Series Omatsuri-zukushi | 222176 | [222176-g-mode-archives-10-souhide-series-omatsuri-zukushi.json](./222176-g-mode-archives-10-souhide-series-omatsuri-zukushi.json) |
 | G-Mode Archives 11: Senbazuru | 222175 | [222175-g-mode-archives-11-senbazuru.json](./222175-g-mode-archives-11-senbazuru.json) |
 | G-Mode Archives 12: Night Hike | 222174 | [222174-g-mode-archives-12-night-hike.json](./222174-g-mode-archives-12-night-hike.json) |
+| G-Mode Archives 13: Rinji Shuuden | 288717 | [288717-g-mode-archives-13-rinji-shuuden.json](./288717-g-mode-archives-13-rinji-shuuden.json) |
 | G-Mode Archives 15: Chura-jima Kurashi | 163238 | [163238-g-mode-archives-15-chura-jima-kurashi.json](./163238-g-mode-archives-15-chura-jima-kurashi.json) |
 | G-Mode Archives 16: Beach Volleyball Girl Shizuku 2: Hishou-hen | 222173 | [222173-g-mode-archives-16-beach-volleyball-girl-shizuku-2-hishou-hen.json](./222173-g-mode-archives-16-beach-volleyball-girl-shizuku-2-hishou-hen.json) |
 | G-Mode Archives 17: Flyhight Cloudia III | 170501 | [170501-g-mode-archives-17-flyhight-cloudia-iii.json](./170501-g-mode-archives-17-flyhight-cloudia-iii.json) |
