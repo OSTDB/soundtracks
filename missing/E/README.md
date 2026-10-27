@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earn to Die 2: Exodus | 101914 | [101914-earn-to-die-2-exodus.json](./101914-earn-to-die-2-exodus.json) |
 | Earn to Die 2012 | 378003 | [378003-earn-to-die-2012.json](./378003-earn-to-die-2012.json) |
 | Earn To Die 3 | 345928 | [345928-earn-to-die-3.json](./345928-earn-to-die-3.json) |
+| Earn to Die Rogue | 300653 | [300653-earn-to-die-rogue.json](./300653-earn-to-die-rogue.json) |
 | Earn Your Legacy | 404078 | [404078-earn-your-legacy.json](./404078-earn-your-legacy.json) |
 | Earnest Evans Collection | 375602 | [375602-earnest-evans-collection.json](./375602-earnest-evans-collection.json) |
 | Ears and Burgers | 174295 | [174295-ears-and-burgers.json](./174295-ears-and-burgers.json) |
@@ -737,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoed Nights | 408194 | [408194-echoed-nights.json](./408194-echoed-nights.json) |
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
 | Echoes | 264209 | [264209-echoes.json](./264209-echoes.json) |
+| Echoes | 300758 | [300758-echoes.json](./300758-echoes.json) |
 | Echoes | 303503 | [303503-echoes.json](./303503-echoes.json) |
 | Echoes | 395994 | [395994-echoes.json](./395994-echoes.json) |
 | Echoes | 409224 | [409224-echoes.json](./409224-echoes.json) |
@@ -5139,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Lands | 69208 | [69208-eternal-lands.json](./69208-eternal-lands.json) |
 | Eternal League | 320106 | [320106-eternal-league.json](./320106-eternal-league.json) |
 | Eternal Legend | 45794 | [45794-eternal-legend.json](./45794-eternal-legend.json) |
+| Eternal Light | 300736 | [300736-eternal-light.json](./300736-eternal-light.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Link | 345085 | [345085-eternal-link.json](./345085-eternal-link.json) |
 | Eternal Love | 164283 | [164283-eternal-love.json](./164283-eternal-love.json) |
