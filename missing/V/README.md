@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidblazers | 253286 | [253286-voidblazers.json](./253286-voidblazers.json) |
 | Voidbloom | 410248 | [410248-voidbloom.json](./410248-voidbloom.json) |
 | Voidborn | 211924 | [211924-voidborn.json](./211924-voidborn.json) |
+| Voidcall | 287608 | [287608-voidcall.json](./287608-voidcall.json) |
 | VoidCraft Island Chronicles: Sky Survival | 322401 | [322401-voidcraft-island-chronicles-sky-survival.json](./322401-voidcraft-island-chronicles-sky-survival.json) |
 | Voidcrisis | 210889 | [210889-voidcrisis.json](./210889-voidcrisis.json) |
 | Voidcutter Fuzor | 347746 | [347746-voidcutter-fuzor.json](./347746-voidcutter-fuzor.json) |
