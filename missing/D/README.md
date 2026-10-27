@@ -16237,6 +16237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors: Gundam | 6977 | [6977-dynasty-warriors-gundam.json](./6977-dynasty-warriors-gundam.json) |
 | Dynasty Warriors: Gundam 2 | 6978 | [6978-dynasty-warriors-gundam-2.json](./6978-dynasty-warriors-gundam-2.json) |
 | Dynasty Warriors: Gundam 3 | 6982 | [6982-dynasty-warriors-gundam-3.json](./6982-dynasty-warriors-gundam-3.json) |
+| Dynasty Warriors: Origins - Digital Deluxe Edition | 327145 | [327145-dynasty-warriors-origins-digital-deluxe-edition.json](./327145-dynasty-warriors-origins-digital-deluxe-edition.json) |
 | Dynasty Warriors: Origins - Visions of Four Heroes | 377234 | [377234-dynasty-warriors-origins-visions-of-four-heroes.json](./377234-dynasty-warriors-origins-visions-of-four-heroes.json) |
 | Dynasty Warriors: Strikeforce | 6983 | [6983-dynasty-warriors-strikeforce.json](./6983-dynasty-warriors-strikeforce.json) |
 | Dynasty Warriors: Unleashed | 67194 | [67194-dynasty-warriors-unleashed.json](./67194-dynasty-warriors-unleashed.json) |
