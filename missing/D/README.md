@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dal Segno | 37038 | [37038-dal-segno.json](./37038-dal-segno.json) |
 | Dal'X | 94601 | [94601-dalx.json](./94601-dalx.json) |
 | Dala and The Cursed Forest | 292768 | [292768-dala-and-the-cursed-forest.json](./292768-dala-and-the-cursed-forest.json) |
+| Dalafri | 324809 | [324809-dalafri.json](./324809-dalafri.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
 | Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
 | Dale and Peakot | 270736 | [270736-dale-and-peakot.json](./270736-dale-and-peakot.json) |
@@ -8654,6 +8655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DisMonster - Catch the shadow! | 103673 | [103673-dismonster-catch-the-shadow.json](./103673-dismonster-catch-the-shadow.json) |
 | Disney | 220082 | [220082-disney.json](./220082-disney.json) |
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
+| Disney 20Q | 324794 | [324794-disney-20q.json](./324794-disney-20q.json) |
 | Disney All-Star Cards | 98009 | [98009-disney-all-star-cards.json](./98009-disney-all-star-cards.json) |
 | Disney City Girl | 62415 | [62415-disney-city-girl.json](./62415-disney-city-girl.json) |
 | Disney Classic Games Collection | 172397 | [172397-disney-classic-games-collection.json](./172397-disney-classic-games-collection.json) |
@@ -9564,6 +9566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Watson - Treasure Island | 33442 | [33442-doctor-watson-treasure-island.json](./33442-doctor-watson-treasure-island.json) |
 | Doctor Watson: The Riddle of the Catacombs | 33443 | [33443-doctor-watson-the-riddle-of-the-catacombs.json](./33443-doctor-watson-the-riddle-of-the-catacombs.json) |
 | Doctor What! | 68883 | [68883-doctor-what.json](./68883-doctor-what.json) |
+| Doctor Who 20Q | 324797 | [324797-doctor-who-20q.json](./324797-doctor-who-20q.json) |
 | Doctor Who and the Daleks | 218359 | [218359-doctor-who-and-the-daleks.json](./218359-doctor-who-and-the-daleks.json) |
 | Doctor Who and the Mines of Terror | 13597 | [13597-doctor-who-and-the-mines-of-terror.json](./13597-doctor-who-and-the-mines-of-terror.json) |
 | Doctor Who and the Warlord | 66675 | [66675-doctor-who-and-the-warlord.json](./66675-doctor-who-and-the-warlord.json) |
@@ -12071,6 +12074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula Unleashed | 5376 | [5376-dracula-unleashed.json](./5376-dracula-unleashed.json) |
 | Dracula vs. Monsters | 298584 | [298584-dracula-vs-monsters.json](./298584-dracula-vs-monsters.json) |
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
+| Dracula X: Nocturne In the Moonlight - Ultimate | 324813 | [324813-dracula-x-nocturne-in-the-moonlight-ultimate.json](./324813-dracula-x-nocturne-in-the-moonlight-ultimate.json) |
 | Dracula: A Gothic RPG | 146744 | [146744-dracula-a-gothic-rpg.json](./146744-dracula-a-gothic-rpg.json) |
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
 | Dracula: Love Kills | 16688 | [16688-dracula-love-kills.json](./16688-dracula-love-kills.json) |
