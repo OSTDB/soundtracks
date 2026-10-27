@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temtem: Collector's Edition | 206674 | [206674-temtem-collectors-edition.json](./206674-temtem-collectors-edition.json) |
 | Temtem: Deluxe Edition | 212338 | [212338-temtem-deluxe-edition.json](./212338-temtem-deluxe-edition.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
+| Temukung: Cultivation in Drylands | 327091 | [327091-temukung-cultivation-in-drylands.json](./327091-temukung-cultivation-in-drylands.json) |
 | Ten | 202770 | [202770-ten.json](./202770-ten.json) |
 | Ten Bells | 312127 | [312127-ten-bells.json](./312127-ten-bells.json) |
 | Ten by Eight | 63072 | [63072-ten-by-eight.json](./63072-ten-by-eight.json) |
@@ -12183,6 +12184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Now We've Named | 215226 | [215226-the-now-weve-named.json](./215226-the-now-weve-named.json) |
 | The Nowhere Express | 413790 | [413790-the-nowhere-express.json](./413790-the-nowhere-express.json) |
 | The NTR Pregnancy Hunting Adventure of Karen: Whose Seed Will Wife Get Pregnant Of | 82734 | [82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json](./82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json) |
+| The Nuclear Factory | 327140 | [327140-the-nuclear-factory.json](./327140-the-nuclear-factory.json) |
 | The Null Frequency | 365304 | [365304-the-null-frequency.json](./365304-the-null-frequency.json) |
 | The Null Hypothesis | 346937 | [346937-the-null-hypothesis.json](./346937-the-null-hypothesis.json) |
 | The Nullpoint | 110263 | [110263-the-nullpoint.json](./110263-the-nullpoint.json) |
@@ -12914,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
 | The Qaedon Wars - The Story Begins | 110829 | [110829-the-qaedon-wars-the-story-begins.json](./110829-the-qaedon-wars-the-story-begins.json) |
 | The Qixia Diary | 391102 | [391102-the-qixia-diary.json](./391102-the-qixia-diary.json) |
+| The Quarantine | 327118 | [327118-the-quarantine.json](./327118-the-quarantine.json) |
 | The Quarantine Sector | 371429 | [371429-the-quarantine-sector.json](./371429-the-quarantine-sector.json) |
 | The Quarry: '50s Throwback Character Outfits | 224517 | [224517-the-quarry-50s-throwback-character-outfits.json](./224517-the-quarry-50s-throwback-character-outfits.json) |
 | The Quarry: Deluxe Edition | 197608 | [197608-the-quarry-deluxe-edition.json](./197608-the-quarry-deluxe-edition.json) |
@@ -14346,6 +14349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sopranos: Road to Respect | 17248 | [17248-the-sopranos-road-to-respect.json](./17248-the-sopranos-road-to-respect.json) |
 | The Sorcerer of Claymorgue Castle | 18526 | [18526-the-sorcerer-of-claymorgue-castle.json](./18526-the-sorcerer-of-claymorgue-castle.json) |
 | The Sorcerer's Apprentice | 47868 | [47868-the-sorcerers-apprentice.json](./47868-the-sorcerers-apprentice.json) |
+| The Sorcerer’s Detritus | 327120 | [327120-the-sorcerer-s-detritus.json](./327120-the-sorcerer-s-detritus.json) |
 | The Sorcerer's Sword | 244212 | [244212-the-sorcerers-sword.json](./244212-the-sorcerers-sword.json) |
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
@@ -21523,6 +21527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Truand | 405499 | [405499-tony-truand.json](./405499-tony-truand.json) |
 | Tony: Montezuma's Gold | 403543 | [403543-tony-montezumas-gold.json](./403543-tony-montezumas-gold.json) |
 | Tony's Crispy Crisps | 361745 | [361745-tonys-crispy-crisps.json](./361745-tonys-crispy-crisps.json) |
+| Tonya The Killer | 327134 | [327134-tonya-the-killer.json](./327134-tonya-the-killer.json) |
 | Tonzura-kun | 386520 | [386520-tonzura-kun.json](./386520-tonzura-kun.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
 | Too Accurate to Be Scary...Your True Feelings Revealed by This Image | 409505 | [409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json](./409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json) |
