@@ -5529,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
 | Beneath the Deep | 211449 | [211449-beneath-the-deep.json](./211449-beneath-the-deep.json) |
 | Beneath the Earth: Backrooms | 273792 | [273792-beneath-the-earth-backrooms.json](./273792-beneath-the-earth-backrooms.json) |
+| Beneath the Frost | 323133 | [323133-beneath-the-frost.json](./323133-beneath-the-frost.json) |
 | Beneath the Graves | 224976 | [224976-beneath-the-graves.json](./224976-beneath-the-graves.json) |
 | Beneath The Hill | 410298 | [410298-beneath-the-hill.json](./410298-beneath-the-hill.json) |
 | Beneath the Lighthouse | 59378 | [59378-beneath-the-lighthouse.json](./59378-beneath-the-lighthouse.json) |
@@ -12220,6 +12221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bragnarok | 275123 | [275123-bragnarok.json](./275123-bragnarok.json) |
 | Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
 | Brahman: The Gate of Salvation | 236327 | [236327-brahman-the-gate-of-salvation.json](./236327-brahman-the-gate-of-salvation.json) |
+| Brahmarakshas | 323146 | [323146-brahmarakshas.json](./323146-brahmarakshas.json) |
 | Braiiinz | 179894 | [179894-braiiinz.json](./179894-braiiinz.json) |
 | Brain | 130707 | [130707-brain.json](./130707-brain.json) |
 | Brain | 367197 | [367197-brain.json](./367197-brain.json) |
