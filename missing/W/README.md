@@ -6875,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Evolution Soccer | 263907 | [263907-world-evolution-soccer.json](./263907-world-evolution-soccer.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
+| World Fantasy 2 | 302416 | [302416-world-fantasy-2.json](./302416-world-fantasy-2.json) |
 | World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
 | World Fighting | 203263 | [203263-world-fighting.json](./203263-world-fighting.json) |
 | World Flipper | 130653 | [130653-world-flipper.json](./130653-world-flipper.json) |
@@ -7266,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 1: Ruined - Part 2 | 265118 | [265118-world-war-1-ruined-part-2.json](./265118-world-war-1-ruined-part-2.json) |
 | World War 1945 | 109534 | [109534-world-war-1945.json](./109534-world-war-1945.json) |
 | World War 2 | 206615 | [206615-world-war-2.json](./206615-world-war-2.json) |
+| World War 2 Agenda | 302417 | [302417-world-war-2-agenda.json](./302417-world-war-2-agenda.json) |
 | World War 2 Sniper | 53107 | [53107-world-war-2-sniper.json](./53107-world-war-2-sniper.json) |
 | World War 2 Winter Gun Range VR Simulator | 125096 | [125096-world-war-2-winter-gun-range-vr-simulator.json](./125096-world-war-2-winter-gun-range-vr-simulator.json) |
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
