@@ -2548,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Light | 150280 | [150280-path-to-light.json](./150280-path-to-light.json) |
 | Path to Magehood | 286941 | [286941-path-to-magehood.json](./286941-path-to-magehood.json) |
 | Path to Mnemosyne | 68450 | [68450-path-to-mnemosyne.json](./68450-path-to-mnemosyne.json) |
+| Path to Nothing | 291436 | [291436-path-to-nothing.json](./291436-path-to-nothing.json) |
 | Path to Nowhere | 219839 | [219839-path-to-nowhere.json](./219839-path-to-nowhere.json) |
 | Path to Nowhere: Ditty Nightsong | 329175 | [329175-path-to-nowhere-ditty-nightsong.json](./329175-path-to-nowhere-ditty-nightsong.json) |
 | Path to Nowhere: Dreamy Bubble | 377968 | [377968-path-to-nowhere-dreamy-bubble.json](./377968-path-to-nowhere-dreamy-bubble.json) |
@@ -2853,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
 | Paws Coven | 390076 | [390076-paws-coven.json](./390076-paws-coven.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
+| Paws in the Maze | 291497 | [291497-paws-in-the-maze.json](./291497-paws-in-the-maze.json) |
 | Paws of Coal | 247444 | [247444-paws-of-coal.json](./247444-paws-of-coal.json) |
 | Paws of Fury | 181342 | [181342-paws-of-fury.json](./181342-paws-of-fury.json) |
 | Paws on the Sand: Lionessy Sins | 149699 | [149699-paws-on-the-sand-lionessy-sins.json](./149699-paws-on-the-sand-lionessy-sins.json) |
@@ -2860,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws: A Shelter 2 Game | 17007 | [17007-paws-a-shelter-2-game.json](./17007-paws-a-shelter-2-game.json) |
 | Paws: A Shelter 2 Game - Pitter Patter Edition | 154943 | [154943-paws-a-shelter-2-game-pitter-patter-edition.json](./154943-paws-a-shelter-2-game-pitter-patter-edition.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
+| Pawsome Cats in Kittynawa | 291423 | [291423-pawsome-cats-in-kittynawa.json](./291423-pawsome-cats-in-kittynawa.json) |
 | Pawsome Resort | 374711 | [374711-pawsome-resort.json](./374711-pawsome-resort.json) |
 | Pawsta | 347834 | [347834-pawsta.json](./347834-pawsta.json) |
 | Pawtastic Diner | 305427 | [305427-pawtastic-diner.json](./305427-pawtastic-diner.json) |
@@ -15302,6 +15305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put Anna | 105173 | [105173-put-anna.json](./105173-put-anna.json) |
 | Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
 | Put In Bad | 131330 | [131330-put-in-bad.json](./131330-put-in-bad.json) |
+| Put it here | 291498 | [291498-put-it-here.json](./291498-put-it-here.json) |
 | Put One In for Johnny Minn | 366710 | [366710-put-one-in-for-johnny-minn.json](./366710-put-one-in-for-johnny-minn.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
