@@ -7667,6 +7667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Altered State | 400881 | [400881-an-altered-state.json](./400881-an-altered-state.json) |
 | An Amazing Wizard | 169313 | [169313-an-amazing-wizard.json](./169313-an-amazing-wizard.json) |
 | An American Tail | 68257 | [68257-an-american-tail.json](./68257-an-american-tail.json) |
+| An American Tail: Animated Movie Book | 280961 | [280961-an-american-tail-animated-movie-book.json](./280961-an-american-tail-animated-movie-book.json) |
 | An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
 | An American Tail: Fievel Goes West | 2308 | [2308-an-american-tail-fievel-goes-west.json](./2308-an-american-tail-fievel-goes-west.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
