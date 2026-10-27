@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
 | 1/2 Red Riding Hood | 190045 | [190045-1-2-red-riding-hood.json](./190045-1-2-red-riding-hood.json) |
 | 1/2 Summer | 98415 | [98415-1-2-summer.json](./98415-1-2-summer.json) |
+| 1/8192 | 304534 | [304534-1-8192.json](./304534-1-8192.json) |
 | 1% Survival Escape | 210836 | [210836-1-survival-escape.json](./210836-1-survival-escape.json) |
 | 1+1=？ | 333480 | [333480-1-1.json](./333480-1-1.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
