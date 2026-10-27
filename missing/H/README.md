@@ -2876,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Hearthstone: Voyage to the Sunken City | 387386 | [387386-hearthstone-voyage-to-the-sunken-city.json](./387386-hearthstone-voyage-to-the-sunken-city.json) |
 | Hearthstone: Whispers of Old Gods | 19162 | [19162-hearthstone-whispers-of-old-gods.json](./19162-hearthstone-whispers-of-old-gods.json) |
+| Hearthstorm | 307635 | [307635-hearthstorm.json](./307635-hearthstorm.json) |
 | Hearthwater | 412947 | [412947-hearthwater.json](./412947-hearthwater.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
