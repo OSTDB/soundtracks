@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Collapse: Ghost in the Machine | 326544 | [326544-vertical-collapse-ghost-in-the-machine.json](./326544-vertical-collapse-ghost-in-the-machine.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
 | Vertical Fall | 111860 | [111860-vertical-fall.json](./111860-vertical-fall.json) |
+| Vertical Fighters | 295200 | [295200-vertical-fighters.json](./295200-vertical-fighters.json) |
 | Vertical Golf | 197654 | [197654-vertical-golf.json](./197654-vertical-golf.json) |
 | Vertical Kingdom | 202602 | [202602-vertical-kingdom.json](./202602-vertical-kingdom.json) |
 | Vertical Quest | 249209 | [249209-vertical-quest.json](./249209-vertical-quest.json) |
@@ -2794,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Fate | 412916 | [412916-void-fate.json](./412916-void-fate.json) |
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Flesh | 362168 | [362168-void-flesh.json](./362168-void-flesh.json) |
+| Void Foundation: Into The Void | 295287 | [295287-void-foundation-into-the-void.json](./295287-void-foundation-into-the-void.json) |
 | Void Frontiers | 384049 | [384049-void-frontiers.json](./384049-void-frontiers.json) |
 | Void Funk | 250846 | [250846-void-funk.json](./250846-void-funk.json) |
 | Void Future: Hacking Protocol | 376207 | [376207-void-future-hacking-protocol.json](./376207-void-future-hacking-protocol.json) |
