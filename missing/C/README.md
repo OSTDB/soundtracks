@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
 | Candice DeBebe's Scandalous Secrets | 110931 | [110931-candice-debebes-scandalous-secrets.json](./110931-candice-debebes-scandalous-secrets.json) |
 | Candice DeBebe's Tantalising Tricks | 223396 | [223396-candice-debebes-tantalising-tricks.json](./223396-candice-debebes-tantalising-tricks.json) |
+| Candidus Caves | 297429 | [297429-candidus-caves.json](./297429-candidus-caves.json) |
 | Candied Carols | 177343 | [177343-candied-carols.json](./177343-candied-carols.json) |
 | Candied Violets | 178527 | [178527-candied-violets.json](./178527-candied-violets.json) |
 | Candies 'N Curses | 112174 | [112174-candies-n-curses.json](./112174-candies-n-curses.json) |
@@ -1910,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
 | Carbuncle Pi | 400985 | [400985-carbuncle-pi.json](./400985-carbuncle-pi.json) |
 | Carcará: Asas da Justiça | 133857 | [133857-carcara-asas-da-justica.json](./133857-carcara-asas-da-justica.json) |
+| Carcass | 298533 | [298533-carcass.json](./298533-carcass.json) |
 | Carcass Clad | 405160 | [405160-carcass-clad.json](./405160-carcass-clad.json) |
 | Carcassonne | 21832 | [21832-carcassonne.json](./21832-carcassonne.json) |
 | Carcassonne | 370250 | [370250-carcassonne.json](./370250-carcassonne.json) |
@@ -3097,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Puzzle: Encore of the Night | 1148 | [1148-castlevania-puzzle-encore-of-the-night.json](./1148-castlevania-puzzle-encore-of-the-night.json) |
 | Castlevania Requiem: Symphony of the Night & Rondo of Blood | 109594 | [109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json](./109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json) |
 | Castlevania Retold II | 222975 | [222975-castlevania-retold-ii.json](./222975-castlevania-retold-ii.json) |
+| Castlevania ReVamped | 299108 | [299108-castlevania-revamped.json](./299108-castlevania-revamped.json) |
 | Castlevania SNES Port | 377219 | [377219-castlevania-snes-port.json](./377219-castlevania-snes-port.json) |
 | Castlevania: Anniversary Collection - Ultimate Edition | 384321 | [384321-castlevania-anniversary-collection-ultimate-edition.json](./384321-castlevania-anniversary-collection-ultimate-edition.json) |
 | Castlevania: Aria of Sorrow | 1134 | [1134-castlevania-aria-of-sorrow.json](./1134-castlevania-aria-of-sorrow.json) |
@@ -3560,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catalyst of Quoralis | 417643 | [417643-catalyst-of-quoralis.json](./417643-catalyst-of-quoralis.json) |
 | Catalyst: Blind Faith | 221217 | [221217-catalyst-blind-faith.json](./221217-catalyst-blind-faith.json) |
 | Catalyst: From the Stars | 333456 | [333456-catalyst-from-the-stars.json](./333456-catalyst-from-the-stars.json) |
+| Catamyst | 299087 | [299087-catamyst.json](./299087-catamyst.json) |
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
@@ -4369,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
 | Celestian Tales: Realms Beyond | 55252 | [55252-celestian-tales-realms-beyond.json](./55252-celestian-tales-realms-beyond.json) |
 | Celestio 64 | 257399 | [257399-celestio-64.json](./257399-celestio-64.json) |
+| Celestium | 298611 | [298611-celestium.json](./298611-celestium.json) |
 | Celestrion | 33956 | [33956-celestrion.json](./33956-celestrion.json) |
 | Celestwald Adventure | 284812 | [284812-celestwald-adventure.json](./284812-celestwald-adventure.json) |
 | Celetania | 92415 | [92415-celetania.json](./92415-celetania.json) |
@@ -5306,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Château Royale Jigsaw: Expansion Pack 2 | 357877 | [357877-chateau-royale-jigsaw-expansion-pack-2.json](./357877-chateau-royale-jigsaw-expansion-pack-2.json) |
 | Château Royale Jigsaw: Expansion Pack 3 | 357878 | [357878-chateau-royale-jigsaw-expansion-pack-3.json](./357878-chateau-royale-jigsaw-expansion-pack-3.json) |
 | ChatFight! | 220544 | [220544-chatfight.json](./220544-chatfight.json) |
+| Chatfox Tax Evasion Adventure | 297420 | [297420-chatfox-tax-evasion-adventure.json](./297420-chatfox-tax-evasion-adventure.json) |
 | ChatGladiators | 411104 | [411104-chatgladiators.json](./411104-chatgladiators.json) |
 | Chatle | 415433 | [415433-chatle.json](./415433-chatle.json) |
 | ChatPlay | 379185 | [379185-chatplay.json](./379185-chatplay.json) |
@@ -8402,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Champ | 60461 | [60461-clay-champ.json](./60461-clay-champ.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clay Hunt | 175235 | [175235-clay-hunt.json](./175235-clay-hunt.json) |
+| Clay Jam | 299181 | [299181-clay-jam.json](./299181-clay-jam.json) |
 | Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
 | Clay Shoot | 277502 | [277502-clay-shoot.json](./277502-clay-shoot.json) |
@@ -8648,6 +8655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickonomy | 345621 | [345621-clickonomy.json](./345621-clickonomy.json) |
 | Clickout | 302813 | [302813-clickout.json](./302813-clickout.json) |
 | ClickPlay 3 | 339155 | [339155-clickplay-3.json](./339155-clickplay-3.json) |
+| Clickpocalypse | 298531 | [298531-clickpocalypse.json](./298531-clickpocalypse.json) |
 | Clickpocalypse II | 247311 | [247311-clickpocalypse-ii.json](./247311-clickpocalypse-ii.json) |
 | Clickr | 10095 | [10095-clickr.json](./10095-clickr.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
@@ -13865,6 +13873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
 | Crave | 170250 | [170250-crave.json](./170250-crave.json) |
+| Craving | 297447 | [297447-craving.json](./297447-craving.json) |
 | Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
 | Crawl | 295634 | [295634-crawl.json](./295634-crawl.json) |
 | Crawl On One | 249660 | [249660-crawl-on-one.json](./249660-crawl-on-one.json) |
