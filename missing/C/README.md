@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Coven | 177943 | [177943-candy-coven.json](./177943-candy-coven.json) |
 | Candy Creeps | 227814 | [227814-candy-creeps.json](./227814-candy-creeps.json) |
 | Candy Crisis | 265261 | [265261-candy-crisis.json](./265261-candy-crisis.json) |
+| Candy Cruncher | 284384 | [284384-candy-cruncher.json](./284384-candy-cruncher.json) |
 | Candy Crush Friends Saga | 125288 | [125288-candy-crush-friends-saga.json](./125288-candy-crush-friends-saga.json) |
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga | 251430 | [251430-candy-crush-saga.json](./251430-candy-crush-saga.json) |
@@ -10577,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Column Taker | 114962 | [114962-column-taker.json](./114962-column-taker.json) |
 | Columns | 117538 | [117538-columns.json](./117538-columns.json) |
 | Columns | 182891 | [182891-columns.json](./182891-columns.json) |
+| Columns | 284379 | [284379-columns.json](./284379-columns.json) |
 | Columns | 311356 | [311356-columns.json](./311356-columns.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Columns 97 | 63128 | [63128-columns-97.json](./63128-columns-97.json) |
