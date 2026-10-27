@@ -5212,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retroid | 268414 | [268414-retroid.json](./268414-retroid.json) |
 | Retroid: Cartridge Protocol | 361006 | [361006-retroid-cartridge-protocol.json](./361006-retroid-cartridge-protocol.json) |
 | Retroids | 56850 | [56850-retroids.json](./56850-retroids.json) |
+| Retrojam 2 | 319545 | [319545-retrojam-2.json](./319545-retrojam-2.json) |
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
 | Retrojam 4 | 384216 | [384216-retrojam-4.json](./384216-retrojam-4.json) |
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
@@ -9719,6 +9720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
 | RoVR | 55127 | [55127-rovr.json](./55127-rovr.json) |
 | Row Away | 365743 | [365743-row-away.json](./365743-row-away.json) |
+| Row Farm | 319534 | [319534-row-farm.json](./319534-row-farm.json) |
 | Row Hard | 351383 | [351383-row-hard.json](./351383-row-hard.json) |
 | Row of Numbers | 234731 | [234731-row-of-numbers.json](./234731-row-of-numbers.json) |
 | Rowan Needs Shinies! | 420586 | [420586-rowan-needs-shinies.json](./420586-rowan-needs-shinies.json) |
