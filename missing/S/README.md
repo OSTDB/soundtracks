@@ -11404,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
 | Slidey | 317055 | [317055-slidey.json](./317055-slidey.json) |
 | Slidey Feet | 243635 | [243635-slidey-feet.json](./243635-slidey-feet.json) |
+| Slidezzle | 311519 | [311519-slidezzle.json](./311519-slidezzle.json) |
 | Sliding | 270564 | [270564-sliding.json](./270564-sliding.json) |
 | Sliding Bears | 337049 | [337049-sliding-bears.json](./337049-sliding-bears.json) |
 | Sliding ground | 184373 | [184373-sliding-ground.json](./184373-sliding-ground.json) |
@@ -21537,6 +21538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Beyond Reach | 13208 | [13208-stars-beyond-reach.json](./13208-stars-beyond-reach.json) |
 | Stars Blast | 243088 | [243088-stars-blast.json](./243088-stars-blast.json) |
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
+| Stars Commander | 311532 | [311532-stars-commander.json](./311532-stars-commander.json) |
 | Stars Era: Abyss Frontier | 289303 | [289303-stars-era-abyss-frontier.json](./289303-stars-era-abyss-frontier.json) |
 | Stars Era: Lost Stars | 128238 | [128238-stars-era-lost-stars.json](./128238-stars-era-lost-stars.json) |
 | Stars Era: The Final Defence | 320241 | [320241-stars-era-the-final-defence.json](./320241-stars-era-the-final-defence.json) |
@@ -24925,6 +24927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Sweeper | 197720 | [197720-sudoku-sweeper.json](./197720-sudoku-sweeper.json) |
 | Sudoku Time | 155355 | [155355-sudoku-time.json](./155355-sudoku-time.json) |
 | Sudoku to 3-Tsu no Puzzle: Nikoli no Puzzle Variety | 222313 | [222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json](./222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json) |
+| Sudoku Topology | 311510 | [311510-sudoku-topology.json](./311510-sudoku-topology.json) |
 | Sudoku Touch | 88415 | [88415-sudoku-touch.json](./88415-sudoku-touch.json) |
 | Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
 | Sudoku Universe | 122322 | [122322-sudoku-universe.json](./122322-sudoku-universe.json) |
@@ -27752,6 +27755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shadow Break: Showdown! Ninja vs. The Three Kaijus | 192062 | [192062-super-shadow-break-showdown-ninja-vs-the-three-kaijus.json](./192062-super-shadow-break-showdown-ninja-vs-the-three-kaijus.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
 | Super Shadow of the Beast | 42453 | [42453-super-shadow-of-the-beast.json](./42453-super-shadow-of-the-beast.json) |
+| Super Shaking Girl!!! | 311520 | [311520-super-shaking-girl.json](./311520-super-shaking-girl.json) |
 | Super Shanghai 2005 | 64253 | [64253-super-shanghai-2005.json](./64253-super-shanghai-2005.json) |
 | Super Shanghai: Dragon's Eye | 406085 | [406085-super-shanghai-dragons-eye.json](./406085-super-shanghai-dragons-eye.json) |
 | Super Shanghai: Dragon's Eye | 78447 | [78447-super-shanghai-dragons-eye.json](./78447-super-shanghai-dragons-eye.json) |
