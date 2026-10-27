@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
 | Car Parking & Car Driving Simulator 2023 | 271702 | [271702-car-parking-and-car-driving-simulator-2023.json](./271702-car-parking-and-car-driving-simulator-2023.json) |
 | Car Parking 2 | 232448 | [232448-car-parking-2.json](./232448-car-parking-2.json) |
+| Car Parking 2 | 323095 | [323095-car-parking-2.json](./323095-car-parking-2.json) |
 | Car Parking Adventure | 384283 | [384283-car-parking-adventure.json](./384283-car-parking-adventure.json) |
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Legends: Deluxe Edition | 413577 | [413577-car-parking-legends-deluxe-edition.json](./413577-car-parking-legends-deluxe-edition.json) |
@@ -5421,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
 | Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
+| Chef de Bubble | 323096 | [323096-chef-de-bubble.json](./323096-chef-de-bubble.json) |
 | Chef Leo's Creative Kitchen | 343378 | [343378-chef-leos-creative-kitchen.json](./343378-chef-leos-creative-kitchen.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Edition | 229122 | [229122-chef-life-a-restaurant-simulator-al-forno-edition.json](./229122-chef-life-a-restaurant-simulator-al-forno-edition.json) |
@@ -9570,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin 'n Carry | 63684 | [63684-coin-n-carry.json](./63684-coin-n-carry.json) |
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
 | Coin Blitz | 369527 | [369527-coin-blitz.json](./369527-coin-blitz.json) |
+| Coin Cascade | 323124 | [323124-coin-cascade.json](./323124-coin-cascade.json) |
 | Coin Coliseum | 184851 | [184851-coin-coliseum.json](./184851-coin-coliseum.json) |
 | Coin Collection Challenge | 379904 | [379904-coin-collection-challenge.json](./379904-coin-collection-challenge.json) |
 | Coin Commander | 128349 | [128349-coin-commander.json](./128349-coin-commander.json) |
@@ -9912,6 +9915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony 7 | 8398 | [8398-colony-7.json](./8398-colony-7.json) |
 | Colony Antares | 150682 | [150682-colony-antares.json](./150682-colony-antares.json) |
 | Colony Assault | 34554 | [34554-colony-assault.json](./34554-colony-assault.json) |
+| Colony Attack | 323097 | [323097-colony-attack.json](./323097-colony-attack.json) |
 | Colony Battle | 145686 | [145686-colony-battle.json](./145686-colony-battle.json) |
 | Colony Defenders TD | 286648 | [286648-colony-defenders-td.json](./286648-colony-defenders-td.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
@@ -16386,6 +16390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cupcake Doodle | 101424 | [101424-cupcake-doodle.json](./101424-cupcake-doodle.json) |
 | Cupcake House: Liv's cupcakes matching sweetness! | 252705 | [252705-cupcake-house-livs-cupcakes-matching-sweetness.json](./252705-cupcake-house-livs-cupcakes-matching-sweetness.json) |
+| Cupcake Mania | 323098 | [323098-cupcake-mania.json](./323098-cupcake-mania.json) |
 | Cupcake Match | 146751 | [146751-cupcake-match.json](./146751-cupcake-match.json) |
 | Cupcake Remember | 190028 | [190028-cupcake-remember.json](./190028-cupcake-remember.json) |
 | Cupcake: an Apartment Adventure | 163818 | [163818-cupcake-an-apartment-adventure.json](./163818-cupcake-an-apartment-adventure.json) |
