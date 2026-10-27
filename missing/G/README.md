@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Geometra - Join the Colors | 255055 | [255055-geometra-join-the-colors.json](./255055-geometra-join-the-colors.json) |
 | Geometric Brothers | 271640 | [271640-geometric-brothers.json](./271640-geometric-brothers.json) |
+| Geometric Brothers + Advance Pack Set | 280609 | [280609-geometric-brothers-advance-pack-set.json](./280609-geometric-brothers-advance-pack-set.json) |
 | Geometric Brothers: Advance Pack | 281925 | [281925-geometric-brothers-advance-pack.json](./281925-geometric-brothers-advance-pack.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
 | Geometric Force Field | 284614 | [284614-geometric-force-field.json](./284614-geometric-force-field.json) |
@@ -9341,7 +9342,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Character Pass | 273330 | [273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json](./273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Deluxe Edition | 273332 | [273332-gungrave-g-o-r-e-ultimate-enhanced-edition-deluxe-edition.json](./273332-gungrave-g-o-r-e-ultimate-enhanced-edition-deluxe-edition.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Harry Macdowel | 275046 | [275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json](./275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json) |
+| Gungrave G.O.R.E: Ultimate Enhanced Edition - Quartz | 280611 | [280611-gungrave-g-o-r-e-ultimate-enhanced-edition-quartz.json](./280611-gungrave-g-o-r-e-ultimate-enhanced-edition-quartz.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Time Limited | 273301 | [273301-gungrave-g-o-r-e-ultimate-enhanced-edition-time-limited.json](./273301-gungrave-g-o-r-e-ultimate-enhanced-edition-time-limited.json) |
+| Gungrave G.O.R.E: Ultimate Enhanced Edition - Yensen The Boostmaster | 280624 | [280624-gungrave-g-o-r-e-ultimate-enhanced-edition-yensen-the-boostmaster.json](./280624-gungrave-g-o-r-e-ultimate-enhanced-edition-yensen-the-boostmaster.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Young Gun Grave | 273300 | [273300-gungrave-g-o-r-e-ultimate-enhanced-edition-young-gun-grave.json](./273300-gungrave-g-o-r-e-ultimate-enhanced-edition-young-gun-grave.json) |
 | Gungrave VR | 71456 | [71456-gungrave-vr.json](./71456-gungrave-vr.json) |
 | Gungrave VR U.N | 115562 | [115562-gungrave-vr-u-n.json](./115562-gungrave-vr-u-n.json) |
