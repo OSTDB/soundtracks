@@ -8055,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Endless Edition | 287882 | [287882-plants-vs-zombies-endless-edition.json](./287882-plants-vs-zombies-endless-edition.json) |
 | Plants vs. Zombies: Fusion | 330905 | [330905-plants-vs-zombies-fusion.json](./330905-plants-vs-zombies-fusion.json) |
 | Plants vs. Zombies: Garden Warfare | 3146 | [3146-plants-vs-zombies-garden-warfare.json](./3146-plants-vs-zombies-garden-warfare.json) |
+| Plants vs. Zombies: Garden Warfare - Zomboss Down | 305818 | [305818-plants-vs-zombies-garden-warfare-zomboss-down.json](./305818-plants-vs-zombies-garden-warfare-zomboss-down.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
 | Plants vs. Zombies: Garden Warfare 2 - Deluxe Edition | 81997 | [81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json](./81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json) |
 | Plants vs. Zombies: GOTY Edition | 20546 | [20546-plants-vs-zombies-goty-edition.json](./20546-plants-vs-zombies-goty-edition.json) |
@@ -9572,6 +9573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Ópalo | 194322 | [194322-pokemon-opalo.json](./194322-pokemon-opalo.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
+| Pokémon Orange | 305739 | [305739-pokemon-orange.json](./305739-pokemon-orange.json) |
 | Pokémon Orange Islands | 213823 | [213823-pokemon-orange-islands.json](./213823-pokemon-orange-islands.json) |
 | Pokemon Orb Version | 283116 | [283116-pokemon-orb-version.json](./283116-pokemon-orb-version.json) |
 | Pokémon Origins | 395775 | [395775-pokemon-origins.json](./395775-pokemon-origins.json) |
@@ -12054,6 +12056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Please | 177384 | [177384-pretty-please.json](./177384-pretty-please.json) |
 | Pretty Princess Party | 135339 | [135339-pretty-princess-party.json](./135339-pretty-princess-party.json) |
 | Pretty Princess: Magical Garden Island | 248295 | [248295-pretty-princess-magical-garden-island.json](./248295-pretty-princess-magical-garden-island.json) |
+| Pretty Princess' Castle Escape | 305733 | [305733-pretty-princess-castle-escape.json](./305733-pretty-princess-castle-escape.json) |
 | Pretty Rhythm: My Deco Rainbow Wedding | 141150 | [141150-pretty-rhythm-my-deco-rainbow-wedding.json](./141150-pretty-rhythm-my-deco-rainbow-wedding.json) |
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Pretty Soldier Sailor Moon | 46788 | [46788-pretty-soldier-sailor-moon.json](./46788-pretty-soldier-sailor-moon.json) |
@@ -13781,6 +13784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Vostok: Episode 1 | 189892 | [189892-project-vostok-episode-1.json](./189892-project-vostok-episode-1.json) |
 | Project VR Wild Hunt | 120674 | [120674-project-vr-wild-hunt.json](./120674-project-vr-wild-hunt.json) |
 | Project W.A.K.E. | 286431 | [286431-project-w-a-k-e.json](./286431-project-w-a-k-e.json) |
+| Project Walker | 305822 | [305822-project-walker.json](./305822-project-walker.json) |
 | Project Wand: Festival Of Futas | 290790 | [290790-project-wand-festival-of-futas.json](./290790-project-wand-festival-of-futas.json) |
 | Project Wand: Land of Leng | 379537 | [379537-project-wand-land-of-leng.json](./379537-project-wand-land-of-leng.json) |
 | Project War Mobile | 234461 | [234461-project-war-mobile.json](./234461-project-war-mobile.json) |
