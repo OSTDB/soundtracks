@@ -2529,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
+| Days Gone: Broken Road | 331216 | [331216-days-gone-broken-road.json](./331216-days-gone-broken-road.json) |
 | Days Gone: Challenge Mode | 321218 | [321218-days-gone-challenge-mode.json](./321218-days-gone-challenge-mode.json) |
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceased.cable | 318158 | [318158-deceased-cable.json](./318158-deceased-cable.json) |
 | Deceit | 24515 | [24515-deceit.json](./24515-deceit.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
+| Deceit 2: Master Edition | 331267 | [331267-deceit-2-master-edition.json](./331267-deceit-2-master-edition.json) |
 | Deceitful Devotions | 227945 | [227945-deceitful-devotions.json](./227945-deceitful-devotions.json) |
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
 | Deceive Inc.: Of Queens and Kings | 272493 | [272493-deceive-inc-of-queens-and-kings.json](./272493-deceive-inc-of-queens-and-kings.json) |
@@ -8646,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Deluxe Edition | 214448 | [214448-disney-dreamlight-valley-deluxe-edition.json](./214448-disney-dreamlight-valley-deluxe-edition.json) |
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
 | Disney Dreamlight Valley: Enchanted Adventure | 266853 | [266853-disney-dreamlight-valley-enchanted-adventure.json](./266853-disney-dreamlight-valley-enchanted-adventure.json) |
+| Disney Dreamlight Valley: Enchanted Edition | 331226 | [331226-disney-dreamlight-valley-enchanted-edition.json](./331226-disney-dreamlight-valley-enchanted-edition.json) |
 | Disney Dreamlight Valley: Gold Edition | 279247 | [279247-disney-dreamlight-valley-gold-edition.json](./279247-disney-dreamlight-valley-gold-edition.json) |
 | Disney Dreamlight Valley: Missions in Uncharted Space | 228430 | [228430-disney-dreamlight-valley-missions-in-uncharted-space.json](./228430-disney-dreamlight-valley-missions-in-uncharted-space.json) |
 | Disney Dreamlight Valley: Mysteries of Skull Rock | 355677 | [355677-disney-dreamlight-valley-mysteries-of-skull-rock.json](./355677-disney-dreamlight-valley-mysteries-of-skull-rock.json) |
@@ -8656,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: The Laugh Floor | 288695 | [288695-disney-dreamlight-valley-the-laugh-floor.json](./288695-disney-dreamlight-valley-the-laugh-floor.json) |
 | Disney Dreamlight Valley: The Pumpkin King Returns | 279239 | [279239-disney-dreamlight-valley-the-pumpkin-king-returns.json](./279239-disney-dreamlight-valley-the-pumpkin-king-returns.json) |
 | Disney Dreamlight Valley: The Remembering | 252303 | [252303-disney-dreamlight-valley-the-remembering.json](./252303-disney-dreamlight-valley-the-remembering.json) |
+| Disney Dreamlight Valley: The Storybook Vale Bundle | 331227 | [331227-disney-dreamlight-valley-the-storybook-vale-bundle.json](./331227-disney-dreamlight-valley-the-storybook-vale-bundle.json) |
 | Disney Dreamlight Valley: The Winter Ball | 381099 | [381099-disney-dreamlight-valley-the-winter-ball.json](./381099-disney-dreamlight-valley-the-winter-ball.json) |
 | Disney Dreamlight Valley: Thrills & Frills | 300014 | [300014-disney-dreamlight-valley-thrills-and-frills.json](./300014-disney-dreamlight-valley-thrills-and-frills.json) |
 | Disney Dreamlight Valley: Ultimate Edition | 214449 | [214449-disney-dreamlight-valley-ultimate-edition.json](./214449-disney-dreamlight-valley-ultimate-edition.json) |
@@ -16030,6 +16034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
 | Dying For Treasure | 141007 | [141007-dying-for-treasure.json](./141007-dying-for-treasure.json) |
 | Dying In Dungeon | 181765 | [181765-dying-in-dungeon.json](./181765-dying-in-dungeon.json) |
+| Dying Light 2 Stay Human: Digital Extras Edition | 331266 | [331266-dying-light-2-stay-human-digital-extras-edition.json](./331266-dying-light-2-stay-human-digital-extras-edition.json) |
 | Dying Light 2: Stay Human - Bloody Ties | 214400 | [214400-dying-light-2-stay-human-bloody-ties.json](./214400-dying-light-2-stay-human-bloody-ties.json) |
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
 | Dying Light 2: Stay Human - Cloud Version | 172429 | [172429-dying-light-2-stay-human-cloud-version.json](./172429-dying-light-2-stay-human-cloud-version.json) |
