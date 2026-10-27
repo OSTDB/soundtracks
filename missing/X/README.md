@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xanguito Aventura | 150763 | [150763-xanguito-aventura.json](./150763-xanguito-aventura.json) |
 | Xanniban | 231495 | [231495-xanniban.json](./231495-xanniban.json) |
 | Xanthaphobia | 266789 | [266789-xanthaphobia.json](./266789-xanthaphobia.json) |
+| Xanthiom | 311973 | [311973-xanthiom.json](./311973-xanthiom.json) |
 | Xanthiom Zero | 240815 | [240815-xanthiom-zero.json](./240815-xanthiom-zero.json) |
 | Xanthippe's Last Night with Socrates | 364623 | [364623-xanthippes-last-night-with-socrates.json](./364623-xanthippes-last-night-with-socrates.json) |
 | Xanxillium | 110232 | [110232-xanxillium.json](./110232-xanxillium.json) |
