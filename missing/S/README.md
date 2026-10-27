@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SambaSim | 299382 | [299382-sambasim.json](./299382-sambasim.json) |
 | Sambird | 413475 | [413475-sambird.json](./413475-sambird.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
+| Same Break Game | 310454 | [310454-same-break-game.json](./310454-same-break-game.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same or Different | 69718 | [69718-same-or-different.json](./69718-same-or-different.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
@@ -6780,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: The Awakened - Remastered Edition | 27849 | [27849-sherlock-holmes-the-awakened-remastered-edition.json](./27849-sherlock-holmes-the-awakened-remastered-edition.json) |
 | Sherlock Holmes: The Awakened - The Sleuth's Attire | 245169 | [245169-sherlock-holmes-the-awakened-the-sleuths-attire.json](./245169-sherlock-holmes-the-awakened-the-sleuths-attire.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
+| Sherlock Holmes: The Darkest Mysteries Bundle | 310455 | [310455-sherlock-holmes-the-darkest-mysteries-bundle.json](./310455-sherlock-holmes-the-darkest-mysteries-bundle.json) |
 | Sherlock Holmes: The Devil's Daughter | 11563 | [11563-sherlock-holmes-the-devils-daughter.json](./11563-sherlock-holmes-the-devils-daughter.json) |
 | Sherlock Holmes: The Hound of the Baskervilles - Collector's Edition | 208999 | [208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json](./208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json) |
 | Sherlock Holmes: The Mystery of the Mummy | 6786 | [6786-sherlock-holmes-the-mystery-of-the-mummy.json](./6786-sherlock-holmes-the-mystery-of-the-mummy.json) |
@@ -7868,7 +7870,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Fever | 330812 | [330812-shopping-fever.json](./330812-shopping-fever.json) |
 | Shopping in a Winter Zombieland | 276174 | [276174-shopping-in-a-winter-zombieland.json](./276174-shopping-in-a-winter-zombieland.json) |
 | Shopping Mall Girl | 86826 | [86826-shopping-mall-girl.json](./86826-shopping-mall-girl.json) |
+| Shopping Mall Girl: Classy Look | 310465 | [310465-shopping-mall-girl-classy-look.json](./310465-shopping-mall-girl-classy-look.json) |
 | Shopping Mall Girl: Complete Edition | 328775 | [328775-shopping-mall-girl-complete-edition.json](./328775-shopping-mall-girl-complete-edition.json) |
+| Shopping Mall Girl: Summer Time | 310466 | [310466-shopping-mall-girl-summer-time.json](./310466-shopping-mall-girl-summer-time.json) |
 | Shopping Mall Girl: Sunny Edition | 356819 | [356819-shopping-mall-girl-sunny-edition.json](./356819-shopping-mall-girl-sunny-edition.json) |
 | Shopping Mall Parking | 233757 | [233757-shopping-mall-parking.json](./233757-shopping-mall-parking.json) |
 | Shopping Mall Renovator | 216671 | [216671-shopping-mall-renovator.json](./216671-shopping-mall-renovator.json) |
@@ -16313,6 +16317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crafter | 291585 | [291585-space-crafter.json](./291585-space-crafter.json) |
 | Space Crafting | 200973 | [200973-space-crafting.json](./200973-space-crafting.json) |
 | Space Crawl | 55465 | [55465-space-crawl.json](./55465-space-crawl.json) |
+| Space Crew & Bomber Crew Bundle | 310447 | [310447-space-crew-and-bomber-crew-bundle.json](./310447-space-crew-and-bomber-crew-bundle.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
 | Space Crusade | 7648 | [7648-space-crusade.json](./7648-space-crusade.json) |
@@ -26617,6 +26622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
 | Super Kawaii Turtle Fighter | 56354 | [56354-super-kawaii-turtle-fighter.json](./56354-super-kawaii-turtle-fighter.json) |
+| Super Kawaii! Finding Mistakes in Panda Photos | 310446 | [310446-super-kawaii-finding-mistakes-in-panda-photos.json](./310446-super-kawaii-finding-mistakes-in-panda-photos.json) |
 | Super Kayak Maker | 138495 | [138495-super-kayak-maker.json](./138495-super-kayak-maker.json) |
 | Super Keepy Ups | 111852 | [111852-super-keepy-ups.json](./111852-super-keepy-ups.json) |
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
@@ -30405,6 +30411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synapsis 2 | 299760 | [299760-synapsis-2.json](./299760-synapsis-2.json) |
 | Synaxarion Christian Stories: Great Martyr Christina of Tyre | 324476 | [324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json](./324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json) |
 | Synaxarion Christian Stories: Holy Martyr Neophytos | 313228 | [313228-synaxarion-christian-stories-holy-martyr-neophytos.json](./313228-synaxarion-christian-stories-holy-martyr-neophytos.json) |
+| Synaxarion Christian Stories: Holy Martyr Savvas the Goth | 310445 | [310445-synaxarion-christian-stories-holy-martyr-savvas-the-goth.json](./310445-synaxarion-christian-stories-holy-martyr-savvas-the-goth.json) |
 | Synaxarion: Great Martyr Theodore the Tyro | 306536 | [306536-synaxarion-great-martyr-theodore-the-tyro.json](./306536-synaxarion-great-martyr-theodore-the-tyro.json) |
 | Sync | 296802 | [296802-sync.json](./296802-sync.json) |
 | Sync | 61978 | [61978-sync.json](./61978-sync.json) |
