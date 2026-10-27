@@ -5860,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nighs at Fairy's | 405066 | [405066-five-nighs-at-fairys.json](./405066-five-nighs-at-fairys.json) |
 | Five Night At Freddy's: Security Breach - Glamrock Factory | 269420 | [269420-five-night-at-freddys-security-breach-glamrock-factory.json](./269420-five-night-at-freddys-security-breach-glamrock-factory.json) |
 | Five Night's at Freddy's: The Silver Eyes Fangame | 214429 | [214429-five-nights-at-freddys-the-silver-eyes-fangame.json](./214429-five-nights-at-freddys-the-silver-eyes-fangame.json) |
+| Five Nights At Amendoca's | 330092 | [330092-five-nights-at-amendocas.json](./330092-five-nights-at-amendocas.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
 | Five Nights at Candy's | 45983 | [45983-five-nights-at-candys.json](./45983-five-nights-at-candys.json) |
@@ -11472,6 +11473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
 | Furry Defenders​​ | 381176 | [381176-furry-defenders.json](./381176-furry-defenders.json) |
 | Furry Dream | 236118 | [236118-furry-dream.json](./236118-furry-dream.json) |
+| Furry Exodus | 330085 | [330085-furry-exodus.json](./330085-furry-exodus.json) |
 | Furry Fairy Tales | 310487 | [310487-furry-fairy-tales.json](./310487-furry-fairy-tales.json) |
 | Furry Fantasy | 207794 | [207794-furry-fantasy.json](./207794-furry-fantasy.json) |
 | Furry Farm | 329099 | [329099-furry-farm.json](./329099-furry-farm.json) |
