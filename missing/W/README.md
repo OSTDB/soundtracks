@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
 | Walk | 152080 | [152080-walk.json](./152080-walk.json) |
+| Walk | 330662 | [330662-walk.json](./330662-walk.json) |
 | Walk and Stroll | 239728 | [239728-walk-and-stroll.json](./239728-walk-and-stroll.json) |
 | Walk Around And Do Nothing | 392358 | [392358-walk-around-and-do-nothing.json](./392358-walk-around-and-do-nothing.json) |
 | Walk Around the World | 414532 | [414532-walk-around-the-world.json](./414532-walk-around-the-world.json) |
@@ -584,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wanderlust: Transsiberian | 132503 | [132503-wanderlust-transsiberian.json](./132503-wanderlust-transsiberian.json) |
 | Wandersky | 383709 | [383709-wandersky.json](./383709-wandersky.json) |
+| Wandervania | 330483 | [330483-wandervania.json](./330483-wandervania.json) |
 | WanderVR | 220526 | [220526-wandervr.json](./220526-wandervr.json) |
 | Wandfall | 377247 | [377247-wandfall.json](./377247-wandfall.json) |
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
@@ -5301,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Of Hers | 385744 | [385744-wish-of-hers.json](./385744-wish-of-hers.json) |
 | Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
 | Wish Project | 35307 | [35307-wish-project.json](./35307-wish-project.json) |
+| Wish Ready Go! | 330667 | [330667-wish-ready-go.json](./330667-wish-ready-go.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
 | Wish Upon | 390618 | [390618-wish-upon.json](./390618-wish-upon.json) |
 | Wish Upon a Block | 388707 | [388707-wish-upon-a-block.json](./388707-wish-upon-a-block.json) |
