@@ -10495,6 +10495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From The Forgotten | 340262 | [340262-from-the-forgotten.json](./340262-from-the-forgotten.json) |
 | From the life of a thief | 398652 | [398652-from-the-life-of-a-thief.json](./398652-from-the-life-of-a-thief.json) |
 | From The Mystery Zone | 307798 | [307798-from-the-mystery-zone.json](./307798-from-the-mystery-zone.json) |
+| From The Other Side | 328361 | [328361-from-the-other-side.json](./328361-from-the-other-side.json) |
 | From The Past | 329689 | [329689-from-the-past.json](./329689-from-the-past.json) |
 | From the Psychothread | 278611 | [278611-from-the-psychothread.json](./278611-from-the-psychothread.json) |
 | From the Shadows | 142329 | [142329-from-the-shadows.json](./142329-from-the-shadows.json) |
