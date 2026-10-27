@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
 | Tank Universal | 9455 | [9455-tank-universal.json](./9455-tank-universal.json) |
 | Tank Universal: Challenger Eight | 72708 | [72708-tank-universal-challenger-eight.json](./72708-tank-universal-challenger-eight.json) |
+| Tank vs. Tank | 323114 | [323114-tank-vs-tank.json](./323114-tank-vs-tank.json) |
 | Tank vs. Tank GOTY Edition | 395684 | [395684-tank-vs-tank-goty-edition.json](./395684-tank-vs-tank-goty-edition.json) |
 | Tank vs. Tank: Deluxe Edition | 332507 | [332507-tank-vs-tank-deluxe-edition.json](./332507-tank-vs-tank-deluxe-edition.json) |
 | Tank vs. Tank: Discovery Edition | 400205 | [400205-tank-vs-tank-discovery-edition.json](./400205-tank-vs-tank-discovery-edition.json) |
@@ -7582,6 +7583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
 | The Epoch Turning | 271324 | [271324-the-epoch-turning.json](./271324-the-epoch-turning.json) |
 | The Epyx Collection: Handheld | 298580 | [298580-the-epyx-collection-handheld.json](./298580-the-epyx-collection-handheld.json) |
+| The Epyx Games: Sports Collection | 323110 | [323110-the-epyx-games-sports-collection.json](./323110-the-epyx-games-sports-collection.json) |
 | The Equalizer | 38743 | [38743-the-equalizer.json](./38743-the-equalizer.json) |
 | The Equalizer 2 | 97220 | [97220-the-equalizer-2.json](./97220-the-equalizer-2.json) |
 | The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
@@ -21345,6 +21347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
 | Tombs & Trials | 360701 | [360701-tombs-and-trials.json](./360701-tombs-and-trials.json) |
+| Tombs of Myra | 323111 | [323111-tombs-of-myra.json](./323111-tombs-of-myra.json) |
 | Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
 | TombStar | 138867 | [138867-tombstar.json](./138867-tombstar.json) |
 | Tombstone City | 44377 | [44377-tombstone-city.json](./44377-tombstone-city.json) |
