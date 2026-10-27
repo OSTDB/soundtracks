@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Inside the Escape | 324985 | [324985-backrooms-inside-the-escape.json](./324985-backrooms-inside-the-escape.json) |
 | Backrooms: Labyrinth Glitch | 407803 | [407803-backrooms-labyrinth-glitch.json](./407803-backrooms-labyrinth-glitch.json) |
 | Backrooms: Last Chance | 407802 | [407802-backrooms-last-chance.json](./407802-backrooms-last-chance.json) |
+| Backrooms: Lethal Expedition | 292566 | [292566-backrooms-lethal-expedition.json](./292566-backrooms-lethal-expedition.json) |
 | Backrooms: Liminal Conflict | 302327 | [302327-backrooms-liminal-conflict.json](./302327-backrooms-liminal-conflict.json) |
 | BackRooms: Lost | 301270 | [301270-backrooms-lost.json](./301270-backrooms-lost.json) |
 | Backrooms: Lost Place | 290543 | [290543-backrooms-lost-place.json](./290543-backrooms-lost-place.json) |
@@ -6073,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Stories: Jester | 338231 | [338231-beyond-stories-jester.json](./338231-beyond-stories-jester.json) |
 | Beyond Tenmei | 303714 | [303714-beyond-tenmei.json](./303714-beyond-tenmei.json) |
 | Beyond Terra | 177737 | [177737-beyond-terra.json](./177737-beyond-terra.json) |
+| Beyond Terra | 292501 | [292501-beyond-terra.json](./292501-beyond-terra.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Beyond | 20303 | [20303-beyond-the-beyond.json](./20303-beyond-the-beyond.json) |
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
@@ -6203,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bher | 359361 | [359361-bher.json](./359361-bher.json) |
 | Bhop Craze | 201503 | [201503-bhop-craze.json](./201503-bhop-craze.json) |
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
+| Bhop up! | 292478 | [292478-bhop-up.json](./292478-bhop-up.json) |
 | BHU | 60309 | [60309-bhu.json](./60309-bhu.json) |
 | BHunter | 78521 | [78521-bhunter.json](./78521-bhunter.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
@@ -13551,6 +13554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix II Deluxe | 148451 | [148451-brix-ii-deluxe.json](./148451-brix-ii-deluxe.json) |
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
+| Bro YuanShen Survivors | 292481 | [292481-bro-yuanshen-survivors.json](./292481-bro-yuanshen-survivors.json) |
 | Bro, Where's My Head? | 151445 | [151445-bro-wheres-my-head.json](./151445-bro-wheres-my-head.json) |
 | Broad Daylight | 319289 | [319289-broad-daylight.json](./319289-broad-daylight.json) |
 | Broad Sword | 270000 | [270000-broad-sword.json](./270000-broad-sword.json) |
