@@ -6749,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
 | Rise of Three Kingdoms | 172068 | [172068-rise-of-three-kingdoms.json](./172068-rise-of-three-kingdoms.json) |
 | Rise of Titans | 58158 | [58158-rise-of-titans.json](./58158-rise-of-titans.json) |
+| Rise of Tochos | 306330 | [306330-rise-of-tochos.json](./306330-rise-of-tochos.json) |
 | Rise of Transport | 365882 | [365882-rise-of-transport.json](./365882-rise-of-transport.json) |
 | Rise of Valor | 396689 | [396689-rise-of-valor.json](./396689-rise-of-valor.json) |
 | Rise of Venice: Beyond the Sea | 10775 | [10775-rise-of-venice-beyond-the-sea.json](./10775-rise-of-venice-beyond-the-sea.json) |
@@ -8651,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Tank | 235849 | [235849-rogue-tank.json](./235849-rogue-tank.json) |
 | Rogue Tanks | 312998 | [312998-rogue-tanks.json](./312998-rogue-tanks.json) |
 | Rogue Tides | 275706 | [275706-rogue-tides.json](./275706-rogue-tides.json) |
+| Rogue Tiles | 306317 | [306317-rogue-tiles.json](./306317-rogue-tiles.json) |
 | Rogue Titan | 312132 | [312132-rogue-titan.json](./312132-rogue-titan.json) |
 | Rogue Trooper | 292227 | [292227-rogue-trooper.json](./292227-rogue-trooper.json) |
 | Rogue Trooper | 36881 | [36881-rogue-trooper.json](./36881-rogue-trooper.json) |
@@ -8873,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Splat! | 116420 | [116420-roller-splat.json](./116420-roller-splat.json) |
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
+| Roller's Escape | 306318 | [306318-rollers-escape.json](./306318-rollers-escape.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | Rollerball | 79731 | [79731-rollerball.json](./79731-rollerball.json) |
 | RollerBall | 245736 | [245736-rollerball.json](./245736-rollerball.json) |
@@ -9527,6 +9530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosewater | 128935 | [128935-rosewater.json](./128935-rosewater.json) |
 | RoShamBo Arena | 34714 | [34714-roshambo-arena.json](./34714-roshambo-arena.json) |
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
+| Roshpit Champions 2 | 306411 | [306411-roshpit-champions-2.json](./306411-roshpit-champions-2.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
 | Rosie's Reality | 356020 | [356020-rosies-reality.json](./356020-rosies-reality.json) |
