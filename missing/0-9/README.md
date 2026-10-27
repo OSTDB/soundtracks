@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | '98 Year Koushien | 58510 | [58510-98-year-koushien.json](./58510-98-year-koushien.json) |
 | '99 Koushien | 58516 | [58516-99-koushien.json](./58516-99-koushien.json) |
 | 'Allo 'Allo! Cartoon Fun! | 14249 | [14249-allo-allo-cartoon-fun.json](./14249-allo-allo-cartoon-fun.json) |
+| 'Ard Drivin' | 314225 | [314225-ard-drivin.json](./314225-ard-drivin.json) |
 | 'Dillos | 79665 | [79665-dillos.json](./79665-dillos.json) |
 | 'Er*Bert | 98236 | [98236-er-bert.json](./98236-er-bert.json) |
 | 'In You We Trust, Not Algorithms': Newbie Matsumoto's Manual Elevator Operation with Sticky Notes | 410891 | [410891-in-you-we-trust-not-algorithms-newbie-matsumotos-manual-elevator-operation-with-sticky-notes.json](./410891-in-you-we-trust-not-algorithms-newbie-matsumotos-manual-elevator-operation-with-sticky-notes.json) |
@@ -1337,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 and Some Change | 421833 | [421833-20-and-some-change.json](./421833-20-and-some-change.json) |
 | 20 Billion Wives | 56146 | [56146-20-billion-wives.json](./56146-20-billion-wives.json) |
 | 20 Bunnies | 187274 | [187274-20-bunnies.json](./187274-20-bunnies.json) |
+| 20 Challenges: Episode 1 - A Feard Enemy | 314217 | [314217-20-challenges-episode-1-a-feard-enemy.json](./314217-20-challenges-episode-1-a-feard-enemy.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
 | 20 Challenges: Episode 3 - The Tale from a Bone | 339244 | [339244-20-challenges-episode-3-the-tale-from-a-bone.json](./339244-20-challenges-episode-3-the-tale-from-a-bone.json) |
 | 20 Challenges: Episode 4 - Temple of the Elements | 344022 | [344022-20-challenges-episode-4-temple-of-the-elements.json](./344022-20-challenges-episode-4-temple-of-the-elements.json) |
