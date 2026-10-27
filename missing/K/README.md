@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karta Centauri | 369614 | [369614-karta-centauri.json](./369614-karta-centauri.json) |
 | Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
+| Karting of Banban | 324816 | [324816-karting-of-banban.json](./324816-karting-of-banban.json) |
 | Karting Superstars | 265034 | [265034-karting-superstars.json](./265034-karting-superstars.json) |
 | Karting with Animals | 303604 | [303604-karting-with-animals.json](./303604-karting-with-animals.json) |
 | Karting4Fun | 159531 | [159531-karting4fun.json](./159531-karting4fun.json) |
@@ -2360,7 +2361,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
