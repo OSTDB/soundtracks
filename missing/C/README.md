@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
 | Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
 | Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
+| Call of Honor: Duty of Warfare | 288162 | [288162-call-of-honor-duty-of-warfare.json](./288162-call-of-honor-duty-of-warfare.json) |
 | Call of Honor: Duty of Warfare & Battlefront Trench Warriors: Ops of Warfare | 305623 | [305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json](./305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json) |
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
@@ -17499,6 +17500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
 | Cyberpunk Speed Assassin | 315905 | [315905-cyberpunk-speed-assassin.json](./315905-cyberpunk-speed-assassin.json) |
+| Cyberpunk Women for Cyberpunk Sex | 288246 | [288246-cyberpunk-women-for-cyberpunk-sex.json](./288246-cyberpunk-women-for-cyberpunk-sex.json) |
 | Cyberpunk Women for Sex Motel | 288896 | [288896-cyberpunk-women-for-sex-motel.json](./288896-cyberpunk-women-for-sex-motel.json) |
 | Cyberpunk: Red-Light District | 266323 | [266323-cyberpunk-red-light-district.json](./266323-cyberpunk-red-light-district.json) |
 | Cyberpunk: The Arasaka's Plot | 120199 | [120199-cyberpunk-the-arasakas-plot.json](./120199-cyberpunk-the-arasakas-plot.json) |
