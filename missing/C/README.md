@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catburglar | 110894 | [110894-catburglar.json](./110894-catburglar.json) |
 | Catburglar | 406789 | [406789-catburglar.json](./406789-catburglar.json) |
 | Catbusters | 226139 | [226139-catbusters.json](./226139-catbusters.json) |
+| CatCat | 325400 | [325400-catcat.json](./325400-catcat.json) |
 | CatCat | 345960 | [345960-catcat.json](./345960-catcat.json) |
 | CatCat Save The World | 284794 | [284794-catcat-save-the-world.json](./284794-catcat-save-the-world.json) |
 | CatCatch | 107759 | [107759-catcatch.json](./107759-catcatch.json) |
