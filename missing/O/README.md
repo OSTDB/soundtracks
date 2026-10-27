@@ -4466,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlander: Fantastic Princess | 261798 | [261798-outlander-fantastic-princess.json](./261798-outlander-fantastic-princess.json) |
 | Outlanders | 127983 | [127983-outlanders.json](./127983-outlanders.json) |
 | Outlanders | 328052 | [328052-outlanders.json](./328052-outlanders.json) |
+| Outlanders 2: Second Nature | 305131 | [305131-outlanders-2-second-nature.json](./305131-outlanders-2-second-nature.json) |
 | Outlanders: Flood and Fire | 235589 | [235589-outlanders-flood-and-fire.json](./235589-outlanders-flood-and-fire.json) |
 | Outlanders: Heir of the Roads | 236879 | [236879-outlanders-heir-of-the-roads.json](./236879-outlanders-heir-of-the-roads.json) |
 | Outlanders: Home is Where the Heart is | 277431 | [277431-outlanders-home-is-where-the-heart-is.json](./277431-outlanders-home-is-where-the-heart-is.json) |
