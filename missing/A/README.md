@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
 | A show she never watched. | 395739 | [395739-a-show-she-never-watched.json](./395739-a-show-she-never-watched.json) |
 | A Shower Story | 153802 | [153802-a-shower-story.json](./153802-a-shower-story.json) |
+| A Shrimpful Adventure | 314269 | [314269-a-shrimpful-adventure.json](./314269-a-shrimpful-adventure.json) |
 | A Silent Statue | 274939 | [274939-a-silent-statue.json](./274939-a-silent-statue.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
 | A Silly Goofy Dream 2 | 253477 | [253477-a-silly-goofy-dream-2.json](./253477-a-silly-goofy-dream-2.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
 | Air Ranger 2: Rescue Helicopter | 68268 | [68268-air-ranger-2-rescue-helicopter.json](./68268-air-ranger-2-rescue-helicopter.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
+| Air Royale | 314232 | [314232-air-royale.json](./314232-air-royale.json) |
 | Air Sea Modern Conflict | 305985 | [305985-air-sea-modern-conflict.json](./305985-air-sea-modern-conflict.json) |
 | Air Soccer Impossible | 234072 | [234072-air-soccer-impossible.json](./234072-air-soccer-impossible.json) |
 | Air Stacky | 291589 | [291589-air-stacky.json](./291589-air-stacky.json) |
