@@ -817,7 +817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1958,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
 | Barbarian Kingdom | 216633 | [216633-barbarian-kingdom.json](./216633-barbarian-kingdom.json) |
 | Barbarian Legend | 153902 | [153902-barbarian-legend.json](./153902-barbarian-legend.json) |
+| Barbarian Saga bundle | 331806 | [331806-barbarian-saga-bundle.json](./331806-barbarian-saga-bundle.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
 | Barbarian Souls | 81793 | [81793-barbarian-souls.json](./81793-barbarian-souls.json) |
 | Barbarian Trash | 110827 | [110827-barbarian-trash.json](./110827-barbarian-trash.json) |
@@ -4792,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Girl | 368619 | [368619-beautiful-girl.json](./368619-beautiful-girl.json) |
 | Beautiful Girl Fight School | 130207 | [130207-beautiful-girl-fight-school.json](./130207-beautiful-girl-fight-school.json) |
 | Beautiful Girls on Campus: Memories of Youth | 420678 | [420678-beautiful-girls-on-campus-memories-of-youth.json](./420678-beautiful-girls-on-campus-memories-of-youth.json) |
+| Beautiful Indie Worlds | 331807 | [331807-beautiful-indie-worlds.json](./331807-beautiful-indie-worlds.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
 | Beautiful Katamari | 6456 | [6456-beautiful-katamari.json](./6456-beautiful-katamari.json) |
@@ -10517,6 +10518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boldly Forward | 383997 | [383997-boldly-forward.json](./383997-boldly-forward.json) |
 | Bolek i Lolek: Język angielski dla najmłodszych | 351832 | [351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json](./351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json) |
 | Bolek i Lolek: Tajemnicze Zamczysko | 218514 | [218514-bolek-i-lolek-tajemnicze-zamczysko.json](./218514-bolek-i-lolek-tajemnicze-zamczysko.json) |
+| Bolero | 331797 | [331797-bolero.json](./331797-bolero.json) |
 | Bolf | 125066 | [125066-bolf.json](./125066-bolf.json) |
 | BoliKa | 328072 | [328072-bolika.json](./328072-bolika.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
@@ -10856,6 +10858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneCraft | 51268 | [51268-bonecraft.json](./51268-bonecraft.json) |
 | Boned Again: Survivors | 362185 | [362185-boned-again-survivors.json](./362185-boned-again-survivors.json) |
 | Bonedle | 379170 | [379170-bonedle.json](./379170-bonedle.json) |
+| Bonehammer | 331791 | [331791-bonehammer.json](./331791-bonehammer.json) |
 | Bonehearts | 395147 | [395147-bonehearts.json](./395147-bonehearts.json) |
 | Bonehold | 366910 | [366910-bonehold.json](./366910-bonehold.json) |
 | Bonelab | 198230 | [198230-bonelab.json](./198230-bonelab.json) |
