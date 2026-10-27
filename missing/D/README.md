@@ -5971,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descend | 400828 | [400828-descend.json](./400828-descend.json) |
 | Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
+| Descendant | 309422 | [309422-descendant.json](./309422-descendant.json) |
 | Descendants of the Hellbeast | 184250 | [184250-descendants-of-the-hellbeast.json](./184250-descendants-of-the-hellbeast.json) |
 | Descended | 265589 | [265589-descended.json](./265589-descended.json) |
 | Descenders | 52200 | [52200-descenders.json](./52200-descenders.json) |
@@ -7199,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
 | Dice Delve | 184454 | [184454-dice-delve.json](./184454-dice-delve.json) |
 | Dice Derby | 366418 | [366418-dice-derby.json](./366418-dice-derby.json) |
+| Dice Dice Dice | 309383 | [309383-dice-dice-dice.json](./309383-dice-dice-dice.json) |
 | Dice Dice Dice: A Roll Playing Game | 291300 | [291300-dice-dice-dice-a-roll-playing-game.json](./291300-dice-dice-dice-a-roll-playing-game.json) |
 | Dice Dreams | 233897 | [233897-dice-dreams.json](./233897-dice-dreams.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
@@ -9764,6 +9766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dofus Touch | 96289 | [96289-dofus-touch.json](./96289-dofus-touch.json) |
 | Dofus: Battles | 174334 | [174334-dofus-battles.json](./174334-dofus-battles.json) |
 | Dog | 271842 | [271842-dog.json](./271842-dog.json) |
+| Dog | 309415 | [309415-dog.json](./309415-dog.json) |
 | Dog | 314399 | [314399-dog.json](./314399-dog.json) |
 | Dog | 314401 | [314401-dog.json](./314401-dog.json) |
 | Dog Adventure | 187192 | [187192-dog-adventure.json](./187192-dog-adventure.json) |
@@ -15248,6 +15251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Directive | 391627 | [391627-dungeon-directive.json](./391627-dungeon-directive.json) |
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
 | Dungeon Divas | 381776 | [381776-dungeon-divas.json](./381776-dungeon-divas.json) |
+| Dungeon Diver | 309423 | [309423-dungeon-diver.json](./309423-dungeon-diver.json) |
 | Dungeon Dogs | 224059 | [224059-dungeon-dogs.json](./224059-dungeon-dogs.json) |
 | Dungeon Dominator | 408778 | [408778-dungeon-dominator.json](./408778-dungeon-dominator.json) |
 | Dungeon Done | 311484 | [311484-dungeon-done.json](./311484-dungeon-done.json) |
