@@ -5479,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
 | Revenge of the Savage Planet: Day One Edition | 324773 | [324773-revenge-of-the-savage-planet-day-one-edition.json](./324773-revenge-of-the-savage-planet-day-one-edition.json) |
 | Revenge of the Shadow Ninja | 244709 | [244709-revenge-of-the-shadow-ninja.json](./244709-revenge-of-the-shadow-ninja.json) |
+| Revenge of the Speeddemons! | 305812 | [305812-revenge-of-the-speeddemons.json](./305812-revenge-of-the-speeddemons.json) |
 | Revenge of the Spirit: Rite of Resurrection | 32854 | [32854-revenge-of-the-spirit-rite-of-resurrection.json](./32854-revenge-of-the-spirit-rite-of-resurrection.json) |
 | Revenge of the Sunfish | 18084 | [18084-revenge-of-the-sunfish.json](./18084-revenge-of-the-sunfish.json) |
 | Revenge of the Sus | 177268 | [177268-revenge-of-the-sus.json](./177268-revenge-of-the-sus.json) |
@@ -5573,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
 | Reverse Side | 17733 | [17733-reverse-side.json](./17733-reverse-side.json) |
+| Reverse Snake Extreme | 305823 | [305823-reverse-snake-extreme.json](./305823-reverse-snake-extreme.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
 | Reverse: 1999 | 188383 | [188383-reverse-1999.json](./188383-reverse-1999.json) |
 | ReverseBlue x Re-birthend | 362785 | [362785-reverseblue-x-re-birthend.json](./362785-reverseblue-x-re-birthend.json) |
@@ -10735,6 +10737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Fable Petite Party | 374575 | [374575-running-fable-petite-party.json](./374575-running-fable-petite-party.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running Fred | 294531 | [294531-running-fred.json](./294531-running-fred.json) |
+| Running Girl | 305722 | [305722-running-girl.json](./305722-running-girl.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
 | Running High | 43769 | [43769-running-high.json](./43769-running-high.json) |
 | Running Horror | 386813 | [386813-running-horror.json](./386813-running-horror.json) |
