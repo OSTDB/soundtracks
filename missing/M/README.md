@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magma Project Hacker | 41313 | [41313-magma-project-hacker.json](./41313-magma-project-hacker.json) |
 | Magma Tsunami | 32547 | [32547-magma-tsunami.json](./32547-magma-tsunami.json) |
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
+| MagMax | 289161 | [289161-magmax.json](./289161-magmax.json) |
 | MagMax | 29033 | [29033-magmax.json](./29033-magmax.json) |
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
@@ -11583,6 +11584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
 | Mischief Moves In | 414166 | [414166-mischief-moves-in.json](./414166-mischief-moves-in.json) |
 | Mischief on Main Street | 105232 | [105232-mischief-on-main-street.json](./105232-mischief-on-main-street.json) |
+| Mischievous | 289282 | [289282-mischievous.json](./289282-mischievous.json) |
 | Miscreant | 422649 | [422649-miscreant.json](./422649-miscreant.json) |
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
@@ -18263,6 +18265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mylk | 146830 | [146830-mylk.json](./146830-mylk.json) |
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
 | MyMan | 93150 | [93150-myman.json](./93150-myman.json) |
+| MyMustache | 289279 | [289279-mymustache.json](./289279-mymustache.json) |
 | Mymyry | 106890 | [106890-mymyry.json](./106890-mymyry.json) |
 | MyNBA2K16 | 79975 | [79975-mynba2k16.json](./79975-mynba2k16.json) |
 | myNotebook: Tan | 91868 | [91868-mynotebook-tan.json](./91868-mynotebook-tan.json) |
