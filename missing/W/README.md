@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather the Storm | 377109 | [377109-weather-the-storm.json](./377109-weather-the-storm.json) |
 | Weathered | 62827 | [62827-weathered.json](./62827-weathered.json) |
 | Weatherium | 402693 | [402693-weatherium.json](./402693-weatherium.json) |
+| Weatherman | 319056 | [319056-weatherman.json](./319056-weatherman.json) |
 | Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
 | Weave | 183935 | [183935-weave.json](./183935-weave.json) |
@@ -6291,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woohoojin Bridges | 112119 | [112119-woohoojin-bridges.json](./112119-woohoojin-bridges.json) |
 | Wookie's Blade | 118133 | [118133-wookies-blade.json](./118133-wookies-blade.json) |
 | Wool | 377141 | [377141-wool.json](./377141-wool.json) |
+| Wool at the Gates | 319042 | [319042-wool-at-the-gates.json](./319042-wool-at-the-gates.json) |
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | Woolly | 373250 | [373250-woolly.json](./373250-woolly.json) |
 | Woolly Boy And The Circus | 292582 | [292582-woolly-boy-and-the-circus.json](./292582-woolly-boy-and-the-circus.json) |
