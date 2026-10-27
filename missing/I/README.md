@@ -3413,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influence | 25482 | [25482-influence.json](./25482-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
+| Influencer Boxing | 309942 | [309942-influencer-boxing.json](./309942-influencer-boxing.json) |
 | Influencer Simulator 25 | 374392 | [374392-influencer-simulator-25.json](./374392-influencer-simulator-25.json) |
 | Influent Language Learning Game | 17037 | [17037-influent-language-learning-game.json](./17037-influent-language-learning-game.json) |
 | Influent: Definitive Edition | 252604 | [252604-influent-definitive-edition.json](./252604-influent-definitive-edition.json) |
@@ -3900,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnis Experiment | 281238 | [281238-insomnis-experiment.json](./281238-insomnis-experiment.json) |
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
+| Inspection Report | 309923 | [309923-inspection-report.json](./309923-inspection-report.json) |
 | Inspector | 123958 | [123958-inspector.json](./123958-inspector.json) |
 | Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
 | Inspector Gadget | 198766 | [198766-inspector-gadget.json](./198766-inspector-gadget.json) |
@@ -5715,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsuka, Todoku, Ano Sora ni.: You no Michi to Hi no Tasogare to | 372571 | [372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json](./372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json) |
 | Itsumo no Jikan, itsumo no Basho de | 97799 | [97799-itsumo-no-jikan-itsumo-no-basho-de.json](./97799-itsumo-no-jikan-itsumo-no-basho-de.json) |
 | Itsutsu no Neito+ | 206550 | [206550-itsutsu-no-neito.json](./206550-itsutsu-no-neito.json) |
+| Itsy | 309898 | [309898-itsy.json](./309898-itsy.json) |
 | Itsy Blitzy | 107391 | [107391-itsy-blitzy.json](./107391-itsy-blitzy.json) |
 | Ittle Dew | 7964 | [7964-ittle-dew.json](./7964-ittle-dew.json) |
 | Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
@@ -5839,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IzanamiYako | 348212 | [348212-izanamiyako.json](./348212-izanamiyako.json) |
 | Izel's Observatory | 182082 | [182082-izels-observatory.json](./182082-izels-observatory.json) |
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
+| Izgub 2001 | 309910 | [309910-izgub-2001.json](./309910-izgub-2001.json) |
 | Izil's Adventures: Blackfeather's Legacy | 186089 | [186089-izils-adventures-blackfeathers-legacy.json](./186089-izils-adventures-blackfeathers-legacy.json) |
 | IziMiniGame | 125853 | [125853-iziminigame.json](./125853-iziminigame.json) |
 | Izio: The Pixel Kishi | 250769 | [250769-izio-the-pixel-kishi.json](./250769-izio-the-pixel-kishi.json) |
