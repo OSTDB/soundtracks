@@ -3152,12 +3152,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedgehog Destiny | 331744 | [331744-hedgehog-destiny.json](./331744-hedgehog-destiny.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
+| Hedgehog Pet | 326513 | [326513-hedgehog-pet.json](./326513-hedgehog-pet.json) |
+| Hedgehog Simulator | 326514 | [326514-hedgehog-simulator.json](./326514-hedgehog-simulator.json) |
 | Hedgehog's Adventures 2 | 99188 | [99188-hedgehogs-adventures-2.json](./99188-hedgehogs-adventures-2.json) |
 | Hedgehog's Adventures 3 | 91273 | [91273-hedgehogs-adventures-3.json](./91273-hedgehogs-adventures-3.json) |
 | Hedgehog's Dilemma | 374418 | [374418-hedgehogs-dilemma.json](./374418-hedgehogs-dilemma.json) |
 | HedgeHogers | 175099 | [175099-hedgehogers.json](./175099-hedgehogers.json) |
 | Hedgehogs in Space | 54080 | [54080-hedgehogs-in-space.json](./54080-hedgehogs-in-space.json) |
 | Hedgehot: Battle Strike | 217498 | [217498-hedgehot-battle-strike.json](./217498-hedgehot-battle-strike.json) |
+| Hedgephysics ++ | 326545 | [326545-hedgephysics.json](./326545-hedgephysics.json) |
 | Hedgerow | 178875 | [178875-hedgerow.json](./178875-hedgerow.json) |
 | HedgeWars | 28346 | [28346-hedgewars.json](./28346-hedgewars.json) |
 | Hedgie Simulator | 170935 | [170935-hedgie-simulator.json](./170935-hedgie-simulator.json) |
