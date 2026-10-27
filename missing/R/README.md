@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Raving Rabbids Activity Centre | 193368 | [193368-rayman-raving-rabbids-activity-centre.json](./193368-rayman-raving-rabbids-activity-centre.json) |
 | Rayman Raving Rabbids TV Party | 193365 | [193365-rayman-raving-rabbids-tv-party.json](./193365-rayman-raving-rabbids-tv-party.json) |
 | Rayman Raving Rabbids TV Party | 193367 | [193367-rayman-raving-rabbids-tv-party.json](./193367-rayman-raving-rabbids-tv-party.json) |
+| Rayman Raving Rabbids: Reburrowed | 307554 | [307554-rayman-raving-rabbids-reburrowed.json](./307554-rayman-raving-rabbids-reburrowed.json) |
 | Rayman Raving Rabbids: TV Party | 5117 | [5117-rayman-raving-rabbids-tv-party.json](./5117-rayman-raving-rabbids-tv-party.json) |
 | Rayman Redemption | 135262 | [135262-rayman-redemption.json](./135262-rayman-redemption.json) |
 | Rayman ReDesigner | 227926 | [227926-rayman-redesigner.json](./227926-rayman-redesigner.json) |
@@ -10711,6 +10712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
 | RunnerDot | 153986 | [153986-runnerdot.json](./153986-runnerdot.json) |
+| Runnero | 307640 | [307640-runnero.json](./307640-runnero.json) |
 | Runners | 176817 | [176817-runners.json](./176817-runners.json) |
 | RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
 | RunnerSky | 264561 | [264561-runnersky.json](./264561-runnersky.json) |
