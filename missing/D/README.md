@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
 | DaGeDar | 47924 | [47924-dagedar.json](./47924-dagedar.json) |
 | Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
+| Dagga | 329462 | [329462-dagga.json](./329462-dagga.json) |
 | Dagger Directive | 264207 | [264207-dagger-directive.json](./264207-dagger-directive.json) |
 | Dagger Froggy | 315354 | [315354-dagger-froggy.json](./315354-dagger-froggy.json) |
 | Dagger of heroes | 211664 | [211664-dagger-of-heroes.json](./211664-dagger-of-heroes.json) |
@@ -16052,6 +16053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
 | Dying Light 2: Stay Human - The Walking Dead Bundle | 259068 | [259068-dying-light-2-stay-human-the-walking-dead-bundle.json](./259068-dying-light-2-stay-human-the-walking-dead-bundle.json) |
 | Dying Light 2: Stay Human - Ultimate Edition | 169196 | [169196-dying-light-2-stay-human-ultimate-edition.json](./169196-dying-light-2-stay-human-ultimate-edition.json) |
+| Dying Light: 10th Anniversary Bundle | 329496 | [329496-dying-light-10th-anniversary-bundle.json](./329496-dying-light-10th-anniversary-bundle.json) |
 | Dying Light: 5th Anniversary Bundle | 224132 | [224132-dying-light-5th-anniversary-bundle.json](./224132-dying-light-5th-anniversary-bundle.json) |
 | Dying Light: Bad Blood | 76891 | [76891-dying-light-bad-blood.json](./76891-dying-light-bad-blood.json) |
 | Dying Light: Bozak Horde | 16299 | [16299-dying-light-bozak-horde.json](./16299-dying-light-bozak-horde.json) |
