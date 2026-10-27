@@ -5303,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alea Jacta Est: Spartacus 73BC | 169290 | [169290-alea-jacta-est-spartacus-73bc.json](./169290-alea-jacta-est-spartacus-73bc.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
 | Aleato | 349112 | [349112-aleato.json](./349112-aleato.json) |
+| Aleator | 323142 | [323142-aleator.json](./323142-aleator.json) |
 | Alebound | 356021 | [356021-alebound.json](./356021-alebound.json) |
 | Alec Adventure | 172971 | [172971-alec-adventure.json](./172971-alec-adventure.json) |
 | Aledorn | 197154 | [197154-aledorn.json](./197154-aledorn.json) |
