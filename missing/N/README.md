@@ -5660,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noozh: Deep in Nightmares | 58551 | [58551-noozh-deep-in-nightmares.json](./58551-noozh-deep-in-nightmares.json) |
 | Nope | 184468 | [184468-nope.json](./184468-nope.json) |
 | Nope Nope Nope Nope Nurses | 261755 | [261755-nope-nope-nope-nope-nurses.json](./261755-nope-nope-nope-nope-nurses.json) |
+| Nope Nope Nope Nurses | 284202 | [284202-nope-nope-nope-nurses.json](./284202-nope-nope-nope-nurses.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
 | Noplace | 420564 | [420564-noplace.json](./420564-noplace.json) |
