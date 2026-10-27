@@ -11201,6 +11201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Island | 401906 | [401906-slender-island.json](./401906-slender-island.json) |
 | Slender Killer | 327021 | [327021-slender-killer.json](./327021-slender-killer.json) |
 | Slender Man in Sonic Forever | 361574 | [361574-slender-man-in-sonic-forever.json](./361574-slender-man-in-sonic-forever.json) |
+| Slender Man Origins | 327150 | [327150-slender-man-origins.json](./327150-slender-man-origins.json) |
 | Slender Man Origins 2: House of Slender | 223626 | [223626-slender-man-origins-2-house-of-slender.json](./223626-slender-man-origins-2-house-of-slender.json) |
 | Slender Man Origins 3: Abandoned School | 101428 | [101428-slender-man-origins-3-abandoned-school.json](./101428-slender-man-origins-3-abandoned-school.json) |
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
@@ -27592,6 +27593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
 | Super Seducer 3 | 109347 | [109347-super-seducer-3.json](./109347-super-seducer-3.json) |
 | Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
+| Super Senseless Soccer | 327126 | [327126-super-senseless-soccer.json](./327126-super-senseless-soccer.json) |
 | Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
 | Super Sentai Battle: Dice-O | 59823 | [59823-super-sentai-battle-dice-o.json](./59823-super-sentai-battle-dice-o.json) |
 | Super Sentai Battle: Ranger Cross | 65897 | [65897-super-sentai-battle-ranger-cross.json](./65897-super-sentai-battle-ranger-cross.json) |
