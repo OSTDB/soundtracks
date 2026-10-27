@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravanserail | 33387 | [33387-caravanserail.json](./33387-caravanserail.json) |
 | Caravel: Deadly Rooms of Death | 69705 | [69705-caravel-deadly-rooms-of-death.json](./69705-caravel-deadly-rooms-of-death.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
+| Carbon | 304533 | [304533-carbon.json](./304533-carbon.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
 | Carbón Heart | 294949 | [294949-carbon-heart.json](./294949-carbon-heart.json) |
 | Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
@@ -9644,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Digger | 246349 | [246349-coin-digger.json](./246349-coin-digger.json) |
 | Coin Dozer | 354047 | [354047-coin-dozer.json](./354047-coin-dozer.json) |
 | Coin Drop | 58196 | [58196-coin-drop.json](./58196-coin-drop.json) |
+| Coin Eruption | 304551 | [304551-coin-eruption.json](./304551-coin-eruption.json) |
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
 | Coin Factory Idle: Money Games | 249312 | [249312-coin-factory-idle-money-games.json](./249312-coin-factory-idle-money-games.json) |
@@ -11949,6 +11951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
 | Cook Dungeon | 127174 | [127174-cook-dungeon.json](./127174-cook-dungeon.json) |
 | Cook Fest | 236392 | [236392-cook-fest.json](./236392-cook-fest.json) |
+| Cook For Love | 304520 | [304520-cook-for-love.json](./304520-cook-for-love.json) |
 | Cook for Me Grandpa! | 365276 | [365276-cook-for-me-grandpa.json](./365276-cook-for-me-grandpa.json) |
 | Cook for the Giant | 52827 | [52827-cook-for-the-giant.json](./52827-cook-for-the-giant.json) |
 | Cook It! | 185500 | [185500-cook-it.json](./185500-cook-it.json) |
@@ -14728,6 +14731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Sword Saga: The Peloran Wars | 32183 | [32183-crimson-sword-saga-the-peloran-wars.json](./32183-crimson-sword-saga-the-peloran-wars.json) |
 | Crimson System: VɅΔ Protocol | 361073 | [361073-crimson-system-v-protocol.json](./361073-crimson-system-v-protocol.json) |
 | Crimson Tale | 334656 | [334656-crimson-tale.json](./334656-crimson-tale.json) |
+| Crimson Temple | 304544 | [304544-crimson-temple.json](./304544-crimson-temple.json) |
 | Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
 | Crimson Tide: Operation Online | 55402 | [55402-crimson-tide-operation-online.json](./55402-crimson-tide-operation-online.json) |
