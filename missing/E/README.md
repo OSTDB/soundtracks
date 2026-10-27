@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole: Arugisu no Tsubasa | 385060 | [385060-eggconsole-arugisu-no-tsubasa.json](./385060-eggconsole-arugisu-no-tsubasa.json) |
 | Eggconsole: Hydlide 3 - PC-8801mkIISR | 287588 | [287588-eggconsole-hydlide-3-pc-8801mkiisr.json](./287588-eggconsole-hydlide-3-pc-8801mkiisr.json) |
 | Eggconsole: Hydlide 3 S.V. - PC-9801 | 356532 | [356532-eggconsole-hydlide-3-s-v-pc-9801.json](./356532-eggconsole-hydlide-3-s-v-pc-9801.json) |
+| Eggdog Extended | 284196 | [284196-eggdog-extended.json](./284196-eggdog-extended.json) |
 | Eggerland | 41259 | [41259-eggerland.json](./41259-eggerland.json) |
 | Eggerland 2 | 47529 | [47529-eggerland-2.json](./47529-eggerland-2.json) |
 | Eggerland Mystery | 41807 | [41807-eggerland-mystery.json](./41807-eggerland-mystery.json) |
@@ -1882,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electromaze Defense | 81803 | [81803-electromaze-defense.json](./81803-electromaze-defense.json) |
 | Electron Flux | 264710 | [264710-electron-flux.json](./264710-electron-flux.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
+| Electron World | 284169 | [284169-electron-world.json](./284169-electron-world.json) |
 | Electron Zaraftor | 276295 | [276295-electron-zaraftor.json](./276295-electron-zaraftor.json) |
 | Electronauts | 81056 | [81056-electronauts.json](./81056-electronauts.json) |
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
@@ -2907,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emu Otori Clicker | 341993 | [341993-emu-otori-clicker.json](./341993-emu-otori-clicker.json) |
 | Emüd | 60842 | [60842-emud.json](./60842-emud.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
+| Emulate Thrill | 284181 | [284181-emulate-thrill.json](./284181-emulate-thrill.json) |
 | Emurinoo | 139149 | [139149-emurinoo.json](./139149-emurinoo.json) |
 | Emuurom | 135002 | [135002-emuurom.json](./135002-emuurom.json) |
 | EmyLiveShow: Anime Puzzle Game | 289181 | [289181-emyliveshow-anime-puzzle-game.json](./289181-emyliveshow-anime-puzzle-game.json) |
@@ -4356,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
 | Escape from Andromeda | 289733 | [289733-escape-from-andromeda.json](./289733-escape-from-andromeda.json) |
 | Escape From Area 51 | 390439 | [390439-escape-from-area-51.json](./390439-escape-from-area-51.json) |
+| Escape from Area 99 | 284390 | [284390-escape-from-area-99.json](./284390-escape-from-area-99.json) |
 | Escape from Baba Yaga | 297995 | [297995-escape-from-baba-yaga.json](./297995-escape-from-baba-yaga.json) |
 | Escape from Bash Street School! | 312818 | [312818-escape-from-bash-street-school.json](./312818-escape-from-bash-street-school.json) |
 | Escape From Bell Cave | 166300 | [166300-escape-from-bell-cave.json](./166300-escape-from-bell-cave.json) |
