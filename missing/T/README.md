@@ -6656,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crystal of Kings | 39487 | [39487-the-crystal-of-kings.json](./39487-the-crystal-of-kings.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Crystal Skull | 69558 | [69558-the-crystal-skull.json](./69558-the-crystal-skull.json) |
+| The Crystals of Atlantis | 290456 | [290456-the-crystals-of-atlantis.json](./290456-the-crystals-of-atlantis.json) |
 | The Crystals of Atlantis | 96282 | [96282-the-crystals-of-atlantis.json](./96282-the-crystals-of-atlantis.json) |
 | The Cub | 194744 | [194744-the-cub.json](./194744-the-cub.json) |
 | The Cub: Back to Earth Edition | 350803 | [350803-the-cub-back-to-earth-edition.json](./350803-the-cub-back-to-earth-edition.json) |
@@ -9305,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House: A Maple Street Story | 363681 | [363681-the-house-a-maple-street-story.json](./363681-the-house-a-maple-street-story.json) |
 | The Housekeeper | 390039 | [390039-the-housekeeper.json](./390039-the-housekeeper.json) |
 | The Housekeeper | 398903 | [398903-the-housekeeper.json](./398903-the-housekeeper.json) |
+| The Hovering Castle | 290357 | [290357-the-hovering-castle.json](./290357-the-hovering-castle.json) |
 | The Howl | 179491 | [179491-the-howl.json](./179491-the-howl.json) |
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
@@ -12258,6 +12260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
 | The night spoke our names | 208310 | [208310-the-night-spoke-our-names.json](./208310-the-night-spoke-our-names.json) |
 | The Night the Carsons Disappeared | 30764 | [30764-the-night-the-carsons-disappeared.json](./30764-the-night-the-carsons-disappeared.json) |
+| The Night Wanderer | 290366 | [290366-the-night-wanderer.json](./290366-the-night-wanderer.json) |
 | The Night Way Home | 165954 | [165954-the-night-way-home.json](./165954-the-night-way-home.json) |
 | The Night You'd Wish to Forget | 190015 | [190015-the-night-youd-wish-to-forget.json](./190015-the-night-youd-wish-to-forget.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
@@ -14449,6 +14452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Personal Boards 1 | 283261 | [283261-the-smurfs-colorful-stories-personal-boards-1.json](./283261-the-smurfs-colorful-stories-personal-boards-1.json) |
 | The Smurfs: Colorful Stories - Personal Boards 2 | 284507 | [284507-the-smurfs-colorful-stories-personal-boards-2.json](./284507-the-smurfs-colorful-stories-personal-boards-2.json) |
 | The Smurfs: Colorful Stories - Personal Boards 3 | 287177 | [287177-the-smurfs-colorful-stories-personal-boards-3.json](./287177-the-smurfs-colorful-stories-personal-boards-3.json) |
+| The Smurfs: Colorful Stories - Personal Boards 4 | 290455 | [290455-the-smurfs-colorful-stories-personal-boards-4.json](./290455-the-smurfs-colorful-stories-personal-boards-4.json) |
 | The Smurfs: Colorful Stories - Personal Boards 5 | 294854 | [294854-the-smurfs-colorful-stories-personal-boards-5.json](./294854-the-smurfs-colorful-stories-personal-boards-5.json) |
 | The Smurfs: Colorful Stories - Personal Boards 6 | 298588 | [298588-the-smurfs-colorful-stories-personal-boards-6.json](./298588-the-smurfs-colorful-stories-personal-boards-6.json) |
 | The Smurfs: Colorful Stories - Platinum Edition | 328795 | [328795-the-smurfs-colorful-stories-platinum-edition.json](./328795-the-smurfs-colorful-stories-platinum-edition.json) |
@@ -19850,6 +19854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
 | TimeSplitters 2 Redux | 290771 | [290771-timesplitters-2-redux.json](./290771-timesplitters-2-redux.json) |
+| TimeSplitters Next | 290385 | [290385-timesplitters-next.json](./290385-timesplitters-next.json) |
 | TimeSplitters Rewind | 27286 | [27286-timesplitters-rewind.json](./27286-timesplitters-rewind.json) |
 | TimeSplitters: Future Perfect | 2144 | [2144-timesplitters-future-perfect.json](./2144-timesplitters-future-perfect.json) |
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
