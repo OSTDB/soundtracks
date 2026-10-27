@@ -5670,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Contestant | 124530 | [124530-the-blue-contestant.json](./124530-the-blue-contestant.json) |
 | The Blue Crystal Rod | 38183 | [38183-the-blue-crystal-rod.json](./38183-the-blue-crystal-rod.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
+| The Blue Marlin | 313046 | [313046-the-blue-marlin.json](./313046-the-blue-marlin.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
 | The Blue Pendrive | 306220 | [306220-the-blue-pendrive.json](./306220-the-blue-pendrive.json) |
 | The Blue Stars | 260578 | [260578-the-blue-stars.json](./260578-the-blue-stars.json) |
@@ -5992,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cartesian Project | 160114 | [160114-the-cartesian-project.json](./160114-the-cartesian-project.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
 | The Cartoon Cat: Jigsaw Puzzle | 213818 | [213818-the-cartoon-cat-jigsaw-puzzle.json](./213818-the-cartoon-cat-jigsaw-puzzle.json) |
+| The Cartoon Works | 313044 | [313044-the-cartoon-works.json](./313044-the-cartoon-works.json) |
 | The Cascadier | 366573 | [366573-the-cascadier.json](./366573-the-cascadier.json) |
 | The Case Book of Arne | 139219 | [139219-the-case-book-of-arne.json](./139219-the-case-book-of-arne.json) |
 | The Case of Andrew D. | 299370 | [299370-the-case-of-andrew-d.json](./299370-the-case-of-andrew-d.json) |
@@ -12561,6 +12563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Past Rhapsody | 211056 | [211056-the-past-rhapsody.json](./211056-the-past-rhapsody.json) |
 | The Pasture | 30017 | [30017-the-pasture.json](./30017-the-pasture.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
+| The Patchmaker's Workshop | 313089 | [313089-the-patchmakers-workshop.json](./313089-the-patchmakers-workshop.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
@@ -14716,6 +14719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Bunnies: Scarlet Wonder Ninjas | 319303 | [319303-the-super-bunnies-scarlet-wonder-ninjas.json](./319303-the-super-bunnies-scarlet-wonder-ninjas.json) |
 | The Super Chum Bucket | 245706 | [245706-the-super-chum-bucket.json](./245706-the-super-chum-bucket.json) |
 | The Super Mario Bros. Movie 64 DS | 270380 | [270380-the-super-mario-bros-movie-64-ds.json](./270380-the-super-mario-bros-movie-64-ds.json) |
+| The Super Mario Bros. Movie Demastered | 313078 | [313078-the-super-mario-bros-movie-demastered.json](./313078-the-super-mario-bros-movie-demastered.json) |
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
 | The Super Mario Bros. Super Show: Mario's Greatest Movie Moments - Quiz Game | 325094 | [325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json](./325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json) |
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
