@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3787,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleships Combat: Evolved | 364609 | [364609-battleships-combat-evolved.json](./364609-battleships-combat-evolved.json) |
 | Battleships General Quarters | 273563 | [273563-battleships-general-quarters.json](./273563-battleships-general-quarters.json) |
 | Battleships Simulator | 407557 | [407557-battleships-simulator.json](./407557-battleships-simulator.json) |
+| Battleshots: Chaos Edition | 321945 | [321945-battleshots-chaos-edition.json](./321945-battleshots-chaos-edition.json) |
 | BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
 | Battlesight | 132128 | [132128-battlesight.json](./132128-battlesight.json) |
 | BattleSky Brigade: Harpooner | 122764 | [122764-battlesky-brigade-harpooner.json](./122764-battlesky-brigade-harpooner.json) |
