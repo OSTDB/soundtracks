@@ -8376,6 +8376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grover's Travels | 333206 | [333206-grovers-travels.json](./333206-grovers-travels.json) |
 | Grow | 28503 | [28503-grow.json](./28503-grow.json) |
 | Grow & Go: Cozy Deliveries | 414406 | [414406-grow-and-go-cozy-deliveries.json](./414406-grow-and-go-cozy-deliveries.json) |
+| Grow a Carrot | 289831 | [289831-grow-a-carrot.json](./289831-grow-a-carrot.json) |
 | Grow a Girlfriend | 353394 | [353394-grow-a-girlfriend.json](./353394-grow-a-girlfriend.json) |
 | Grow and Smile: For Balling | 242981 | [242981-grow-and-smile-for-balling.json](./242981-grow-and-smile-for-balling.json) |
 | Grow Battle: Fish and Feed | 103865 | [103865-grow-battle-fish-and-feed.json](./103865-grow-battle-fish-and-feed.json) |
