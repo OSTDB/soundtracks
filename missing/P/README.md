@@ -7740,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Crusher | 367718 | [367718-planet-crusher.json](./367718-planet-crusher.json) |
 | Planet Deathmatch | 56352 | [56352-planet-deathmatch.json](./56352-planet-deathmatch.json) |
+| Planet Defender | 310999 | [310999-planet-defender.json](./310999-planet-defender.json) |
 | Planet Defender | 386331 | [386331-planet-defender.json](./386331-planet-defender.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
 | Planet destroyer | 123867 | [123867-planet-destroyer.json](./123867-planet-destroyer.json) |
@@ -10943,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porno Party: Sailor Fuku to Yakyuken - The Yakyuken Game | 96310 | [96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json](./96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json) |
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
 | Pornographer | 411054 | [411054-pornographer.json](./411054-pornographer.json) |
+| Pornoman | 311012 | [311012-pornoman.json](./311012-pornoman.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
 | Pororo Sports Day | 394387 | [394387-pororo-sports-day.json](./394387-pororo-sports-day.json) |
 | Porp | 133656 | [133656-porp.json](./133656-porp.json) |
@@ -11187,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posthaste Emporium | 250874 | [250874-posthaste-emporium.json](./250874-posthaste-emporium.json) |
 | Posthuman: Guardians vs Psion | 398559 | [398559-posthuman-guardians-vs-psion.json](./398559-posthuman-guardians-vs-psion.json) |
 | Posthuman: Sanctuary | 105270 | [105270-posthuman-sanctuary.json](./105270-posthuman-sanctuary.json) |
+| Postie | 311013 | [311013-postie.json](./311013-postie.json) |
 | Postie | 345599 | [345599-postie.json](./345599-postie.json) |
 | PostItGuess.io | 165359 | [165359-postitguess-io.json](./165359-postitguess-io.json) |
 | Postknight | 27329 | [27329-postknight.json](./27329-postknight.json) |
