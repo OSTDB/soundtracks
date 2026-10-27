@@ -5585,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
 | Shadow Dancer | 6876 | [6876-shadow-dancer.json](./6876-shadow-dancer.json) |
 | Shadow Dancer: The Secret of Shinobi | 10217 | [10217-shadow-dancer-the-secret-of-shinobi.json](./10217-shadow-dancer-the-secret-of-shinobi.json) |
+| Shadow Dash | 316566 | [316566-shadow-dash.json](./316566-shadow-dash.json) |
 | Shadow Defense: Kingdom | 103842 | [103842-shadow-defense-kingdom.json](./103842-shadow-defense-kingdom.json) |
 | Shadow Detective | 292577 | [292577-shadow-detective.json](./292577-shadow-detective.json) |
 | Shadow Dream | 330306 | [330306-shadow-dream.json](./330306-shadow-dream.json) |
@@ -7092,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
 | Shinda Classmate kara Koibumi ga Todoita. | 285872 | [285872-shinda-classmate-kara-koibumi-ga-todoita.json](./285872-shinda-classmate-kara-koibumi-ga-todoita.json) |
+| Shinde Shinde Tsuyoku nare!...? | 316657 | [316657-shinde-shinde-tsuyoku-nare.json](./316657-shinde-shinde-tsuyoku-nare.json) |
 | Shindig | 149250 | [149250-shindig.json](./149250-shindig.json) |
 | Shine | 69775 | [69775-shine.json](./69775-shine.json) |
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
@@ -7456,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shisha: The Lost Souls | 205903 | [205903-shisha-the-lost-souls.json](./205903-shisha-the-lost-souls.json) |
 | Shishi: Ballad of the Oracle | 120093 | [120093-shishi-ballad-of-the-oracle.json](./120093-shishi-ballad-of-the-oracle.json) |
 | Shishi: Timeless Prelude | 203715 | [203715-shishi-timeless-prelude.json](./203715-shishi-timeless-prelude.json) |
+| Shissou shita Yuujin no Heya ni Nokosareteita Game | 316663 | [316663-shissou-shita-yuujin-no-heya-ni-nokosareteita-game.json](./316663-shissou-shita-yuujin-no-heya-ni-nokosareteita-game.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
 | Shissou, Yankee Damashii | 70592 | [70592-shissou-yankee-damashii.json](./70592-shissou-yankee-damashii.json) |
 | Shisya | 270779 | [270779-shisya.json](./270779-shisya.json) |
@@ -13238,6 +13241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Fart Away | 338631 | [338631-so-fart-away.json](./338631-so-fart-away.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So How About Swapping Our Wives and Disciplining Them? | 98498 | [98498-so-how-about-swapping-our-wives-and-disciplining-them.json](./98498-so-how-about-swapping-our-wives-and-disciplining-them.json) |
+| So Hungry | 316662 | [316662-so-hungry.json](./316662-so-hungry.json) |
 | So I bought a little chainsaw | 367599 | [367599-so-i-bought-a-little-chainsaw.json](./367599-so-i-bought-a-little-chainsaw.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Let Us Melt | 68276 | [68276-so-let-us-melt.json](./68276-so-let-us-melt.json) |
@@ -27956,6 +27960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Solvers: Spellbound! | 69941 | [69941-super-solvers-spellbound.json](./69941-super-solvers-spellbound.json) |
 | Super Solvers: Treasure Mountain! | 70340 | [70340-super-solvers-treasure-mountain.json](./70340-super-solvers-treasure-mountain.json) |
 | Super Sonday | 367601 | [367601-super-sonday.json](./367601-super-sonday.json) |
+| Super Sonic Battle | 316588 | [316588-super-sonic-battle.json](./316588-super-sonic-battle.json) |
 | Super Sonic Bros. | 318026 | [318026-super-sonic-bros.json](./318026-super-sonic-bros.json) |
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
 | Super Sonic in Sonic 3D | 198546 | [198546-super-sonic-in-sonic-3d.json](./198546-super-sonic-in-sonic-3d.json) |
@@ -28656,6 +28661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supra Binyot Lande 2: Melpert's Quest for Booti | 334637 | [334637-supra-binyot-lande-2-melperts-quest-for-booti.json](./334637-supra-binyot-lande-2-melperts-quest-for-booti.json) |
 | Supra Mayro Kratt | 300345 | [300345-supra-mayro-kratt.json](./300345-supra-mayro-kratt.json) |
 | Supra Smash Bross Devolution | 265074 | [265074-supra-smash-bross-devolution.json](./265074-supra-smash-bross-devolution.json) |
+| Supra Smash Bross Devolution 2.22: You Can (Not) Be Serious | 316599 | [316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json](./316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
 | Supraland | 89354 | [89354-supraland.json](./89354-supraland.json) |
