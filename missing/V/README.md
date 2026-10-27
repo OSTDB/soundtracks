@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VB Mario Kart | 165164 | [165164-vb-mario-kart.json](./165164-vb-mario-kart.json) |
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
 | VB Racing | 223851 | [223851-vb-racing.json](./223851-vb-racing.json) |
+| VBR Clash | 312041 | [312041-vbr-clash.json](./312041-vbr-clash.json) |
 | VBS1 | 94962 | [94962-vbs1.json](./94962-vbs1.json) |
 | VBS2 | 94963 | [94963-vbs2.json](./94963-vbs2.json) |
 | VBS3 | 60994 | [60994-vbs3.json](./60994-vbs3.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vec Sports Boxing | 273284 | [273284-vec-sports-boxing.json](./273284-vec-sports-boxing.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Veccol | 111535 | [111535-veccol.json](./111535-veccol.json) |
+| Veccy Bird | 311978 | [311978-veccy-bird.json](./311978-veccy-bird.json) |
 | Vecindad Sistema Solar | 394590 | [394590-vecindad-sistema-solar.json](./394590-vecindad-sistema-solar.json) |
 | Vecitas | 30524 | [30524-vecitas.json](./30524-vecitas.json) |
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
