@@ -7637,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shojo Calibur.io | 188390 | [188390-shojo-calibur-io.json](./188390-shojo-calibur-io.json) |
 | Shojo Warriors | 340375 | [340375-shojo-warriors.json](./340375-shojo-warriors.json) |
 | Shoka | 304075 | [304075-shoka.json](./304075-shoka.json) |
+| Shoko | 296338 | [296338-shoko.json](./296338-shoko.json) |
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
 | Shoku Pain | 415986 | [415986-shoku-pain.json](./415986-shoku-pain.json) |
@@ -8264,6 +8265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shugo Chara! Amu no Niji-iro Chara Change | 70666 | [70666-shugo-chara-amu-no-niji-iro-chara-change.json](./70666-shugo-chara-amu-no-niji-iro-chara-change.json) |
 | Shugo Chara! Spirit! Chara Formation-Rhythm | 124276 | [124276-shugo-chara-spirit-chara-formation-rhythm.json](./124276-shugo-chara-spirit-chara-formation-rhythm.json) |
 | Shǔguāng zhī Shī | 157116 | [157116-shuguang-zhi-shi.json](./157116-shuguang-zhi-shi.json) |
+| Shui's Odyssey | 296312 | [296312-shuis-odyssey.json](./296312-shuis-odyssey.json) |
 | Shuǐhǔ Zhuàn | 138098 | [138098-shuihu-zhuan.json](./138098-shuihu-zhuan.json) |
 | Shuǐhǔ Zhuàn | 78259 | [78259-shuihu-zhuan.json](./78259-shuihu-zhuan.json) |
 | Shujinkou: Akuma Quests | 366791 | [366791-shujinkou-akuma-quests.json](./366791-shujinkou-akuma-quests.json) |
@@ -8660,6 +8662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads Assault | 393386 | [393386-sift-heads-assault.json](./393386-sift-heads-assault.json) |
 | Sift Heads Assault 2 | 393387 | [393387-sift-heads-assault-2.json](./393387-sift-heads-assault-2.json) |
 | Sift Heads Assault 3 | 393389 | [393389-sift-heads-assault-3.json](./393389-sift-heads-assault-3.json) |
+| Sift Heads Cartels | 296325 | [296325-sift-heads-cartels.json](./296325-sift-heads-cartels.json) |
 | Sift Heads Cartels Act 1 | 393394 | [393394-sift-heads-cartels-act-1.json](./393394-sift-heads-cartels-act-1.json) |
 | Sift Heads Cartels Act 2 | 393395 | [393395-sift-heads-cartels-act-2.json](./393395-sift-heads-cartels-act-2.json) |
 | Sift Heads Cartels Act 3 | 393396 | [393396-sift-heads-cartels-act-3.json](./393396-sift-heads-cartels-act-3.json) |
@@ -9057,6 +9060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silpheed: The Lost Planet | 22009 | [22009-silpheed-the-lost-planet.json](./22009-silpheed-the-lost-planet.json) |
 | Silt | 152261 | [152261-silt.json](./152261-silt.json) |
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
+| Silva | 296410 | [296410-silva.json](./296410-silva.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | Silva Saga II: The Legend of Light and Darkness | 63758 | [63758-silva-saga-ii-the-legend-of-light-and-darkness.json](./63758-silva-saga-ii-the-legend-of-light-and-darkness.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
@@ -21748,6 +21752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
 | StarSim | 238094 | [238094-starsim.json](./238094-starsim.json) |
 | StarSim: BattleZone | 325356 | [325356-starsim-battlezone.json](./325356-starsim-battlezone.json) |
+| StarsKnight | 296399 | [296399-starsknight.json](./296399-starsknight.json) |
 | Starsky & Hutch | 243809 | [243809-starsky-and-hutch.json](./243809-starsky-and-hutch.json) |
 | Starslave | 308523 | [308523-starslave.json](./308523-starslave.json) |
 | StarSmashers | 32140 | [32140-starsmashers.json](./32140-starsmashers.json) |
@@ -22753,6 +22758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
 | Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
+| Stickman Browser | 296404 | [296404-stickman-browser.json](./296404-stickman-browser.json) |
 | Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
 | Stickman Destruction 2 | 81677 | [81677-stickman-destruction-2.json](./81677-stickman-destruction-2.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
@@ -24003,6 +24009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
 | Street Power Football | 134708 | [134708-street-power-football.json](./134708-street-power-football.json) |
 | Street Pursuit | 266174 | [266174-street-pursuit.json](./266174-street-pursuit.json) |
+| Street Race Kings | 296328 | [296328-street-race-kings.json](./296328-street-race-kings.json) |
 | Street Racer | 19770 | [19770-street-racer.json](./19770-street-racer.json) |
 | Street Racer | 307078 | [307078-street-racer.json](./307078-street-racer.json) |
 | Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
@@ -26009,6 +26016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Block Boy and Friends | 333165 | [333165-super-block-boy-and-friends.json](./333165-super-block-boy-and-friends.json) |
 | Super Block Crush | 236340 | [236340-super-block-crush.json](./236340-super-block-crush.json) |
 | Super Block Jump | 306497 | [306497-super-block-jump.json](./306497-super-block-jump.json) |
+| Super Blockbuster | 296335 | [296335-super-blockbuster.json](./296335-super-blockbuster.json) |
 | Super Blockbuster | 90923 | [90923-super-blockbuster.json](./90923-super-blockbuster.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
@@ -27697,6 +27705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzle Platformer Deluxe | 20997 | [20997-super-puzzle-platformer-deluxe.json](./20997-super-puzzle-platformer-deluxe.json) |
 | Super Puzzle Sisters | 30737 | [30737-super-puzzle-sisters.json](./30737-super-puzzle-sisters.json) |
+| Super Puzzled Cat | 296403 | [296403-super-puzzled-cat.json](./296403-super-puzzled-cat.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
 | Super Pyonpon | 349749 | [349749-super-pyonpon.json](./349749-super-pyonpon.json) |
 | Super Qix | 39408 | [39408-super-qix.json](./39408-super-qix.json) |
@@ -28501,6 +28510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
 | SuperDude | 103923 | [103923-superdude.json](./103923-superdude.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
+| SuperEat Man | 296401 | [296401-supereat-man.json](./296401-supereat-man.json) |
 | SuperEpic: The Entertainment War | 126820 | [126820-superepic-the-entertainment-war.json](./126820-superepic-the-entertainment-war.json) |
 | SuperEpic: The Entertainment War - Badge Edition | 167027 | [167027-superepic-the-entertainment-war-badge-edition.json](./167027-superepic-the-entertainment-war-badge-edition.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
