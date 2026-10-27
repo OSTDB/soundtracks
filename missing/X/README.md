@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Runner | 252575 | [252575-x-runner.json](./252575-x-runner.json) |
 | X-Rush | 242002 | [242002-x-rush.json](./242002-x-rush.json) |
 | X-Sail | 249709 | [249709-x-sail.json](./249709-x-sail.json) |
+| X-Samkok | 328363 | [328363-x-samkok.json](./328363-x-samkok.json) |
 | X-Scape | 67155 | [67155-x-scape.json](./67155-x-scape.json) |
 | X-Squad | 19423 | [19423-x-squad.json](./19423-x-squad.json) |
 | X-Tactics | 19482 | [19482-x-tactics.json](./19482-x-tactics.json) |
