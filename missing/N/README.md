@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naoko to Hide-bou: Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I | 268489 | [268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json](./268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json) |
 | Naomi | 397135 | [397135-naomi.json](./397135-naomi.json) |
 | Naomi Clicker | 302435 | [302435-naomi-clicker.json](./302435-naomi-clicker.json) |
+| Naomi Clicker: Premium DLC | 321947 | [321947-naomi-clicker-premium-dlc.json](./321947-naomi-clicker-premium-dlc.json) |
 | Napalm: The Crimson Crisis | 69892 | [69892-napalm-the-crimson-crisis.json](./69892-napalm-the-crimson-crisis.json) |
 | Napobination | 320946 | [320946-napobination.json](./320946-napobination.json) |
 | Napoleon | 125336 | [125336-napoleon.json](./125336-napoleon.json) |
