@@ -10905,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
 | Command: Showcase - Operation Desert Falcon | 266793 | [266793-command-showcase-operation-desert-falcon.json](./266793-command-showcase-operation-desert-falcon.json) |
 | Command? Dungeon World: Twine Version | 184423 | [184423-command-dungeon-world-twine-version.json](./184423-command-dungeon-world-twine-version.json) |
+| Commandeer | 292507 | [292507-commandeer.json](./292507-commandeer.json) |
 | Commandeer Armament | 98309 | [98309-commandeer-armament.json](./98309-commandeer-armament.json) |
 | Commander - World 1 | 130829 | [130829-commander-world-1.json](./130829-commander-world-1.json) |
 | Commander '85 | 119100 | [119100-commander-85.json](./119100-commander-85.json) |
@@ -12737,6 +12738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Horizon - Icosahedron Video Game Puzzle | 76715 | [76715-cosmic-horizon-icosahedron-video-game-puzzle.json](./76715-cosmic-horizon-icosahedron-video-game-puzzle.json) |
 | Cosmic Horizon - World First 3D Game Puzzle Ever | 76717 | [76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json](./76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json) |
 | Cosmic Horizons: Path of the Wanderer | 278552 | [278552-cosmic-horizons-path-of-the-wanderer.json](./278552-cosmic-horizons-path-of-the-wanderer.json) |
+| Cosmic Horror Tales: Roots Below | 292491 | [292491-cosmic-horror-tales-roots-below.json](./292491-cosmic-horror-tales-roots-below.json) |
 | Cosmic Husbandry | 354917 | [354917-cosmic-husbandry.json](./354917-cosmic-husbandry.json) |
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
@@ -16321,6 +16323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubin | 299744 | [299744-cubin.json](./299744-cubin.json) |
 | Cubin II | 368485 | [368485-cubin-ii.json](./368485-cubin-ii.json) |
 | Cubinko | 234066 | [234066-cubinko.json](./234066-cubinko.json) |
+| Cubint | 292486 | [292486-cubint.json](./292486-cubint.json) |
 | Cubio | 321152 | [321152-cubio.json](./321152-cubio.json) |
 | Cubio | 381131 | [381131-cubio.json](./381131-cubio.json) |
 | Cubion | 75050 | [75050-cubion.json](./75050-cubion.json) |
