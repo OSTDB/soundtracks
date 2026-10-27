@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
 | Railfan | 10741 | [10741-railfan.json](./10741-railfan.json) |
 | Railfan: Taiwan High Speed Rail | 10742 | [10742-railfan-taiwan-high-speed-rail.json](./10742-railfan-taiwan-high-speed-rail.json) |
+| RailGods of Hysterra | 320119 | [320119-railgods-of-hysterra.json](./320119-railgods-of-hysterra.json) |
 | Railgun | 110250 | [110250-railgun.json](./110250-railgun.json) |
 | Railgun 500 | 264595 | [264595-railgun-500.json](./264595-railgun-500.json) |
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
