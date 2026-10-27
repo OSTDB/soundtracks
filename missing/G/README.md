@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga & Galaxian DX | 280708 | [280708-galaga-and-galaxian-dx.json](./280708-galaga-and-galaxian-dx.json) |
 | Galaga 2000 | 218365 | [218365-galaga-2000.json](./218365-galaga-2000.json) |
 | Galaga 30th Collection | 25188 | [25188-galaga-30th-collection.json](./25188-galaga-30th-collection.json) |
+| Galaga 3D Impact | 327745 | [327745-galaga-3d-impact.json](./327745-galaga-3d-impact.json) |
 | Galaga Arrangement | 132113 | [132113-galaga-arrangement.json](./132113-galaga-arrangement.json) |
 | Galaga Arrangement | 178409 | [178409-galaga-arrangement.json](./178409-galaga-arrangement.json) |
 | Galaga Assault | 58475 | [58475-galaga-assault.json](./58475-galaga-assault.json) |
@@ -3289,6 +3290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Story | 135572 | [135572-ghost-story.json](./135572-ghost-story.json) |
 | Ghost Story | 184585 | [184585-ghost-story.json](./184585-ghost-story.json) |
 | Ghost Story | 311269 | [311269-ghost-story.json](./311269-ghost-story.json) |
+| Ghost Story: Love Destiny | 327718 | [327718-ghost-story-love-destiny.json](./327718-ghost-story-love-destiny.json) |
 | Ghost Strike | 410384 | [410384-ghost-strike.json](./410384-ghost-strike.json) |
 | Ghost Study | 229328 | [229328-ghost-study.json](./229328-ghost-study.json) |
 | Ghost Suburb II: From Beyond Sleep into the Eyes of Madness | 124602 | [124602-ghost-suburb-ii-from-beyond-sleep-into-the-eyes-of-madness.json](./124602-ghost-suburb-ii-from-beyond-sleep-into-the-eyes-of-madness.json) |
