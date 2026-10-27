@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Party Time DLC Bundle | 336439 | [336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json](./336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json) |
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
+| Gas Station Simulator: Car Junkyard | 286557 | [286557-gas-station-simulator-car-junkyard.json](./286557-gas-station-simulator-car-junkyard.json) |
 | Gas Station Simulator: DLC Pack | 267415 | [267415-gas-station-simulator-dlc-pack.json](./267415-gas-station-simulator-dlc-pack.json) |
 | Gas Station Simulator: Drive-In Cinema | 331176 | [331176-gas-station-simulator-drive-in-cinema.json](./331176-gas-station-simulator-drive-in-cinema.json) |
 | Gas Station Simulator: RV Camp | 346728 | [346728-gas-station-simulator-rv-camp.json](./346728-gas-station-simulator-rv-camp.json) |
