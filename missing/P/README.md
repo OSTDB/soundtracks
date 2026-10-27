@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
 | Parashoot Stan | 64196 | [64196-parashoot-stan.json](./64196-parashoot-stan.json) |
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
+| Paraside: Duality Unbound | 293600 | [293600-paraside-duality-unbound.json](./293600-paraside-duality-unbound.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
 | Parasite | 376608 | [376608-parasite.json](./376608-parasite.json) |
@@ -2399,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Password | 135304 | [135304-password.json](./135304-password.json) |
 | Password Manager | 401499 | [401499-password-manager.json](./401499-password-manager.json) |
 | Password Not Valid | 410949 | [410949-password-not-valid.json](./410949-password-not-valid.json) |
+| Past Angel | 293658 | [293658-past-angel.json](./293658-past-angel.json) |
 | Past Apparitions | 383499 | [383499-past-apparitions.json](./383499-past-apparitions.json) |
 | Past Cure | 44116 | [44116-past-cure.json](./44116-past-cure.json) |
 | Past Due | 96232 | [96232-past-due.json](./96232-past-due.json) |
@@ -2532,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Oxiflame | 319842 | [319842-path-of-the-oxiflame.json](./319842-path-of-the-oxiflame.json) |
 | Path of the Rabbit | 177230 | [177230-path-of-the-rabbit.json](./177230-path-of-the-rabbit.json) |
 | Path of The Runecaster | 399839 | [399839-path-of-the-runecaster.json](./399839-path-of-the-runecaster.json) |
+| Path of the Tank | 293663 | [293663-path-of-the-tank.json](./293663-path-of-the-tank.json) |
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path of the Zenith Master | 372016 | [372016-path-of-the-zenith-master.json](./372016-path-of-the-zenith-master.json) |
 | Path of Titans | 122927 | [122927-path-of-titans.json](./122927-path-of-titans.json) |
@@ -7604,6 +7607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Worm | 9079 | [9079-pizza-worm.json](./9079-pizza-worm.json) |
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
 | Pizzaïolo-Ninja | 374603 | [374603-pizzaiolo-ninja.json](./374603-pizzaiolo-ninja.json) |
+| Pizzakai | 293665 | [293665-pizzakai.json](./293665-pizzakai.json) |
 | PizzaMaker | 362821 | [362821-pizzamaker.json](./362821-pizzamaker.json) |
 | Pizzamon | 194863 | [194863-pizzamon.json](./194863-pizzamon.json) |
 | Pizzapocalypse | 307230 | [307230-pizzapocalypse.json](./307230-pizzapocalypse.json) |
@@ -15130,6 +15134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
 | Purple: Director's Cut | 306202 | [306202-purple-directors-cut.json](./306202-purple-directors-cut.json) |
 | Purplearc | 374598 | [374598-purplearc.json](./374598-purplearc.json) |
+| Purpose 1951 | 293583 | [293583-purpose-1951.json](./293583-purpose-1951.json) |
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
 | Purr Pals | 5110 | [5110-purr-pals.json](./5110-purr-pals.json) |
