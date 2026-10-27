@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Surfer | 377646 | [377646-aero-surfer.json](./377646-aero-surfer.json) |
 | Aero Tales Online: The World | 207720 | [207720-aero-tales-online-the-world.json](./207720-aero-tales-online-the-world.json) |
 | Aero the Acro-Bat | 49256 | [49256-aero-the-acro-bat.json](./49256-aero-the-acro-bat.json) |
+| Aero The Acro-Bat | 310437 | [310437-aero-the-acro-bat.json](./310437-aero-the-acro-bat.json) |
 | Aero the Acro-Bat 2 | 5349 | [5349-aero-the-acro-bat-2.json](./5349-aero-the-acro-bat-2.json) |
 | Aero The Acro-Bat 2 | 312089 | [312089-aero-the-acro-bat-2.json](./312089-aero-the-acro-bat-2.json) |
 | Aero the Acro-Bat Collection | 375600 | [375600-aero-the-acro-bat-collection.json](./375600-aero-the-acro-bat-collection.json) |
@@ -4719,6 +4720,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Flight Simulator | 251630 | [251630-airplane-flight-simulator.json](./251630-airplane-flight-simulator.json) |
 | Airplane Flight Simulator: Dangerous Landings | 328580 | [328580-airplane-flight-simulator-dangerous-landings.json](./328580-airplane-flight-simulator-dangerous-landings.json) |
 | Airplane Flight Simulator: EVO | 343494 | [343494-airplane-flight-simulator-evo.json](./343494-airplane-flight-simulator-evo.json) |
+| Airplane Flight Simulator: Farming Agricultural Plane S2-Carrier | 310474 | [310474-airplane-flight-simulator-farming-agricultural-plane-s2-carrier.json](./310474-airplane-flight-simulator-farming-agricultural-plane-s2-carrier.json) |
+| Airplane Flight Simulator: Military Cargo Transport Plane C12-Transit | 310475 | [310475-airplane-flight-simulator-military-cargo-transport-plane-c12-transit.json](./310475-airplane-flight-simulator-military-cargo-transport-plane-c12-transit.json) |
 | Airplane Mode | 126434 | [126434-airplane-mode.json](./126434-airplane-mode.json) |
 | Airplane Parking Mania 3D | 239320 | [239320-airplane-parking-mania-3d.json](./239320-airplane-parking-mania-3d.json) |
 | Airplane Race Simulator 2 Player Game | 261341 | [261341-airplane-race-simulator-2-player-game.json](./261341-airplane-race-simulator-2-player-game.json) |
@@ -8643,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dance-Off: Dungeons and Dancers | 336410 | [336410-anime-dance-off-dungeons-and-dancers.json](./336410-anime-dance-off-dungeons-and-dancers.json) |
 | Anime Dance-Off: Ghost Party | 319781 | [319781-anime-dance-off-ghost-party.json](./319781-anime-dance-off-ghost-party.json) |
 | Anime Dance-Off: Las Vegas | 343728 | [343728-anime-dance-off-las-vegas.json](./343728-anime-dance-off-las-vegas.json) |
+| Anime Dance-Off: Party Total | 310456 | [310456-anime-dance-off-party-total.json](./310456-anime-dance-off-party-total.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Butterflies | 360467 | [360467-anime-dream-match-butterflies.json](./360467-anime-dream-match-butterflies.json) |
@@ -10666,6 +10670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Vs. Super Mario Bros. | 67198 | [67198-arcade-archives-vs-super-mario-bros.json](./67198-arcade-archives-vs-super-mario-bros.json) |
 | Arcade Archives: vs. Super Xevious Mystery of Gump | 297294 | [297294-arcade-archives-vs-super-xevious-mystery-of-gump.json](./297294-arcade-archives-vs-super-xevious-mystery-of-gump.json) |
 | Arcade Archives: vs. Tennis | 147099 | [147099-arcade-archives-vs-tennis.json](./147099-arcade-archives-vs-tennis.json) |
+| Arcade Archives: vs. The Adventure of Valkyrie - The Legend of the Key of Time | 310457 | [310457-arcade-archives-vs-the-adventure-of-valkyrie-the-legend-of-the-key-of-time.json](./310457-arcade-archives-vs-the-adventure-of-valkyrie-the-legend-of-the-key-of-time.json) |
 | Arcade Archives: Vs. The Quest of Ki | 322039 | [322039-arcade-archives-vs-the-quest-of-ki.json](./322039-arcade-archives-vs-the-quest-of-ki.json) |
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
 | Arcade Archives: War of Aero | 289185 | [289185-arcade-archives-war-of-aero.json](./289185-arcade-archives-war-of-aero.json) |
