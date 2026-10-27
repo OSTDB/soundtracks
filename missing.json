@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-27T18:49:48.115Z",
-  "total_missing": 271197,
+  "generated_at": "2026-10-27T18:58:56.284Z",
+  "total_missing": 271180,
   "games": [
     {
       "igdb_id": 191680,
@@ -107755,11 +107755,6 @@
       "igdb_id": 396640,
       "game_name": "Batara: Fate Unbound",
       "file": "missing/B/396640-batara-fate-unbound.json"
-    },
-    {
-      "igdb_id": 139177,
-      "game_name": "Batbarian: Testament of the Primordials",
-      "file": "missing/B/139177-batbarian-testament-of-the-primordials.json"
     },
     {
       "igdb_id": 75187,
@@ -250997,11 +250992,6 @@
       "file": "missing/C/110043-cryptantcrab.json"
     },
     {
-      "igdb_id": 13365,
-      "game_name": "Cryptark",
-      "file": "missing/C/13365-cryptark.json"
-    },
-    {
       "igdb_id": 271111,
       "game_name": "CryptaSync Cyber: Urban Depths",
       "file": "missing/C/271111-cryptasync-cyber-urban-depths.json"
@@ -275750,11 +275740,6 @@
       "igdb_id": 221962,
       "game_name": "Dead Cells: Everyone is Here!",
       "file": "missing/D/221962-dead-cells-everyone-is-here.json"
-    },
-    {
-      "igdb_id": 142877,
-      "game_name": "Dead Cells: Fatal Falls",
-      "file": "missing/D/142877-dead-cells-fatal-falls.json"
     },
     {
       "igdb_id": 274723,
@@ -353360,11 +353345,6 @@
       "igdb_id": 98016,
       "game_name": "Element147",
       "file": "missing/E/98016-element147.json"
-    },
-    {
-      "igdb_id": 8715,
-      "game_name": "Element4l",
-      "file": "missing/E/8715-element4l.json"
     },
     {
       "igdb_id": 360513,
@@ -463082,11 +463062,6 @@
       "file": "missing/G/255666-go-up.json"
     },
     {
-      "igdb_id": 23667,
-      "game_name": "Go Vacation",
-      "file": "missing/G/23667-go-vacation.json"
-    },
-    {
       "igdb_id": 133998,
       "game_name": "Go West",
       "file": "missing/G/133998-go-west.json"
@@ -565160,11 +565135,6 @@
       "igdb_id": 401626,
       "game_name": "Into the Planet's Flesh",
       "file": "missing/I/401626-into-the-planets-flesh.json"
-    },
-    {
-      "igdb_id": 115062,
-      "game_name": "Into the Radius",
-      "file": "missing/I/115062-into-the-radius.json"
     },
     {
       "igdb_id": 279128,
@@ -687682,11 +687652,6 @@
       "file": "missing/M/55502-mayhem-above.json"
     },
     {
-      "igdb_id": 143858,
-      "game_name": "Mayhem Brawler",
-      "file": "missing/M/143858-mayhem-brawler.json"
-    },
-    {
       "igdb_id": 264802,
       "game_name": "Mayhem Brawler II: Best of Both Worlds",
       "file": "missing/M/264802-mayhem-brawler-ii-best-of-both-worlds.json"
@@ -724085,11 +724050,6 @@
       "igdb_id": 4841,
       "game_name": "ModNation Racers",
       "file": "missing/M/4841-modnation-racers.json"
-    },
-    {
-      "igdb_id": 22882,
-      "game_name": "ModNation Racers: Road Trip",
-      "file": "missing/M/22882-modnation-racers-road-trip.json"
     },
     {
       "igdb_id": 238451,
@@ -781365,11 +781325,6 @@
       "igdb_id": 141136,
       "game_name": "No Place for the Dissident",
       "file": "missing/N/141136-no-place-for-the-dissident.json"
-    },
-    {
-      "igdb_id": 142251,
-      "game_name": "No Place Like Home",
-      "file": "missing/N/142251-no-place-like-home.json"
     },
     {
       "igdb_id": 233534,
@@ -839427,11 +839382,6 @@
       "file": "missing/P/136805-phoenotopia-awakening.json"
     },
     {
-      "igdb_id": 105680,
-      "game_name": "Phogs!",
-      "file": "missing/P/105680-phogs.json"
-    },
-    {
       "igdb_id": 294000,
       "game_name": "Pholee",
       "file": "missing/P/294000-pholee.json"
@@ -852030,11 +851980,6 @@
       "igdb_id": 140013,
       "game_name": "PixelJunk Eden Obscura",
       "file": "missing/P/140013-pixeljunk-eden-obscura.json"
-    },
-    {
-      "igdb_id": 95386,
-      "game_name": "PixelJunk Monsters 2",
-      "file": "missing/P/95386-pixeljunk-monsters-2.json"
     },
     {
       "igdb_id": 140017,
@@ -915637,11 +915582,6 @@
       "file": "missing/R/12742-rebel-charge-at-chickamauga.json"
     },
     {
-      "igdb_id": 122265,
-      "game_name": "Rebel Cops",
-      "file": "missing/R/122265-rebel-cops.json"
-    },
-    {
       "igdb_id": 275837,
       "game_name": "Rebel Duet",
       "file": "missing/R/275837-rebel-duet.json"
@@ -947235,11 +947175,6 @@
       "igdb_id": 11311,
       "game_name": "Romancing SaGa",
       "file": "missing/R/11311-romancing-saga.json"
-    },
-    {
-      "igdb_id": 11312,
-      "game_name": "Romancing SaGa 2",
-      "file": "missing/R/11312-romancing-saga-2.json"
     },
     {
       "igdb_id": 109592,
@@ -1025402,11 +1025337,6 @@
       "file": "missing/S/27685-soda-dungeon.json"
     },
     {
-      "igdb_id": 122712,
-      "game_name": "Soda Dungeon 2",
-      "file": "missing/S/122712-soda-dungeon-2.json"
-    },
-    {
       "igdb_id": 221793,
       "game_name": "Soda Hunt",
       "file": "missing/S/221793-soda-hunt.json"
@@ -1054480,11 +1054410,6 @@
       "igdb_id": 142220,
       "game_name": "Spram's Metroid Doom",
       "file": "missing/S/142220-sprams-metroid-doom.json"
-    },
-    {
-      "igdb_id": 143627,
-      "game_name": "Sprawl",
-      "file": "missing/S/143627-sprawl.json"
     },
     {
       "igdb_id": 57467,
@@ -1139695,11 +1139620,6 @@
       "igdb_id": 270702,
       "game_name": "The Big City",
       "file": "missing/T/270702-the-big-city.json"
-    },
-    {
-      "igdb_id": 121767,
-      "game_name": "The Big Con",
-      "file": "missing/T/121767-the-big-con.json"
     },
     {
       "igdb_id": 201255,
@@ -1326505,11 +1326425,6 @@
       "igdb_id": 101707,
       "game_name": "World's End Chapter 3",
       "file": "missing/W/101707-worlds-end-chapter-3.json"
-    },
-    {
-      "igdb_id": 110581,
-      "game_name": "World's End Club",
-      "file": "missing/W/110581-worlds-end-club.json"
     },
     {
       "igdb_id": 146152,
