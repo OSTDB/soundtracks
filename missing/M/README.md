@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macho Scooping | 291908 | [291908-macho-scooping.json](./291908-macho-scooping.json) |
 | Macho Shot | 317890 | [317890-macho-shot.json](./317890-macho-shot.json) |
 | Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
+| Machorium: Muscle Aquarium Simulator | 295222 | [295222-machorium-muscle-aquarium-simulator.json](./295222-machorium-muscle-aquarium-simulator.json) |
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
 | Macie's Magic Melee | 306403 | [306403-macies-magic-melee.json](./306403-macies-magic-melee.json) |
 | Macis | 307068 | [307068-macis.json](./307068-macis.json) |
@@ -395,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Wild Fairy Tale | 152696 | [152696-mad-wild-fairy-tale.json](./152696-mad-wild-fairy-tale.json) |
+| Mad World Survivors | 295295 | [295295-mad-world-survivors.json](./295295-mad-world-survivors.json) |
 | Mad World: Age of Darkness | 197594 | [197594-mad-world-age-of-darkness.json](./197594-mad-world-age-of-darkness.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
 | Mad Zombie | 86562 | [86562-mad-zombie.json](./86562-mad-zombie.json) |
@@ -10053,6 +10055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
 | Millennium 5: Battle of the Millennium | 54240 | [54240-millennium-5-battle-of-the-millennium.json](./54240-millennium-5-battle-of-the-millennium.json) |
 | Millennium 5: The Battle of the Millennium | 8176 | [8176-millennium-5-the-battle-of-the-millennium.json](./8176-millennium-5-the-battle-of-the-millennium.json) |
+| Millennium Arcade | 295293 | [295293-millennium-arcade.json](./295293-millennium-arcade.json) |
 | Millennium Conflict | 213528 | [213528-millennium-conflict.json](./213528-millennium-conflict.json) |
 | Millennium Dawn: A Modern Day Mod | 256450 | [256450-millennium-dawn-a-modern-day-mod.json](./256450-millennium-dawn-a-modern-day-mod.json) |
 | Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
@@ -15997,6 +16000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MrClean.exe | 249097 | [249097-mrclean-exe.json](./249097-mrclean-exe.json) |
 | MrFox | 207770 | [207770-mrfox.json](./207770-mrfox.json) |
 | MRG: Matando Robôs Gigantes - O Jogo | 346776 | [346776-mrg-matando-robos-gigantes-o-jogo.json](./346776-mrg-matando-robos-gigantes-o-jogo.json) |
+| MrHuh | 295213 | [295213-mrhuh.json](./295213-mrhuh.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | Mrs Kim | 110214 | [110214-mrs-kim.json](./110214-mrs-kim.json) |
 | Mrs. Dad vs. Körv | 78515 | [78515-mrs-dad-vs-korv.json](./78515-mrs-dad-vs-korv.json) |
