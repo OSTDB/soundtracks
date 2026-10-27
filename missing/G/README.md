@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gastro Rush | 122088 | [122088-gastro-rush.json](./122088-gastro-rush.json) |
 | GastroEx | 215245 | [215245-gastroex.json](./215245-gastroex.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
+| GastroRun | 306400 | [306400-gastrorun.json](./306400-gastrorun.json) |
 | Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
 | GasZilla | 226800 | [226800-gaszilla.json](./226800-gaszilla.json) |
 | Gat Life: Boyfriend Bar | 60451 | [60451-gat-life-boyfriend-bar.json](./60451-gat-life-boyfriend-bar.json) |
@@ -2963,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
 | Get Medieval | 71795 | [71795-get-medieval.json](./71795-get-medieval.json) |
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
+| Get More Fries! | 306322 | [306322-get-more-fries.json](./306322-get-more-fries.json) |
 | Get Mushi Club: Minna no Konchuu Daizukan | 153816 | [153816-get-mushi-club-minna-no-konchuu-daizukan.json](./153816-get-mushi-club-minna-no-konchuu-daizukan.json) |
 | Get Off My Planet | 180645 | [180645-get-off-my-planet.json](./180645-get-off-my-planet.json) |
 | Get Off My Space! | 192233 | [192233-get-off-my-space.json](./192233-get-off-my-space.json) |
