@@ -14237,6 +14237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Operator | 247902 | [247902-drone-operator.json](./247902-drone-operator.json) |
 | Drone Perspective | 285941 | [285941-drone-perspective.json](./285941-drone-perspective.json) |
+| Drone Pilot: Extreme Flight Simulator | 310449 | [310449-drone-pilot-extreme-flight-simulator.json](./310449-drone-pilot-extreme-flight-simulator.json) |
 | Drone Race Simulator | 228018 | [228018-drone-race-simulator.json](./228018-drone-race-simulator.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Racer | 127200 | [127200-drone-racer.json](./127200-drone-racer.json) |
