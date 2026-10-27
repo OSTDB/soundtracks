@@ -7046,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
 | The Devil Within: Satgat | 213423 | [213423-the-devil-within-satgat.json](./213423-the-devil-within-satgat.json) |
+| The Devil's Bride | 320108 | [320108-the-devils-bride.json](./320108-the-devils-bride.json) |
 | The Devil's Bride | 326215 | [326215-the-devils-bride.json](./326215-the-devils-bride.json) |
 | The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
 | The Devil's Chosen | 201449 | [201449-the-devils-chosen.json](./201449-the-devils-chosen.json) |
@@ -10246,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last King's Archer | 153371 | [153371-the-last-kings-archer.json](./153371-the-last-kings-archer.json) |
+| The Last Knife | 320118 | [320118-the-last-knife.json](./320118-the-last-knife.json) |
 | The Last Knight | 310061 | [310061-the-last-knight.json](./310061-the-last-knight.json) |
 | The Last Knight: Day One | 83194 | [83194-the-last-knight-day-one.json](./83194-the-last-knight-day-one.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
@@ -13646,6 +13648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Timberland | 278361 | [278361-the-secret-of-timberland.json](./278361-the-secret-of-timberland.json) |
 | The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
 | The Secret of Weepstone | 360921 | [360921-the-secret-of-weepstone.json](./360921-the-secret-of-weepstone.json) |
+| The Secret of Whispering | 320210 | [320210-the-secret-of-whispering.json](./320210-the-secret-of-whispering.json) |
 | The Secret Ops | 232933 | [232933-the-secret-ops.json](./232933-the-secret-ops.json) |
 | The Secret Order 3: Ancient Times | 33639 | [33639-the-secret-order-3-ancient-times.json](./33639-the-secret-order-3-ancient-times.json) |
 | The Secret Order 4: Beyond Time | 31586 | [31586-the-secret-order-4-beyond-time.json](./31586-the-secret-order-4-beyond-time.json) |
@@ -17157,6 +17160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
 | Thorns: Adlia | 301067 | [301067-thorns-adlia.json](./301067-thorns-adlia.json) |
 | Thornspell | 401464 | [401464-thornspell.json](./401464-thornspell.json) |
+| Thorny Times | 320194 | [320194-thorny-times.json](./320194-thorny-times.json) |
 | Thornyway | 28656 | [28656-thornyway.json](./28656-thornyway.json) |
 | Thoroughbred Breeder | 37789 | [37789-thoroughbred-breeder.json](./37789-thoroughbred-breeder.json) |
 | Thoroughbred Breeder II | 37788 | [37788-thoroughbred-breeder-ii.json](./37788-thoroughbred-breeder-ii.json) |
@@ -21183,6 +21187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Dahl | 369151 | [369151-tom-dahl.json](./369151-tom-dahl.json) |
+| Tom Hanks is in: Jeopardy! | 320123 | [320123-tom-hanks-is-in-jeopardy.json](./320123-tom-hanks-is-in-jeopardy.json) |
 | Tom Lander: The Exiled King | 387388 | [387388-tom-lander-the-exiled-king.json](./387388-tom-lander-the-exiled-king.json) |
 | Tom Landry Strategy Football | 71380 | [71380-tom-landry-strategy-football.json](./71380-tom-landry-strategy-football.json) |
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
