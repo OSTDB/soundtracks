@@ -8678,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluto Rim: Storm Commander | 141507 | [141507-pluto-rim-storm-commander.json](./141507-pluto-rim-storm-commander.json) |
 | Pluto Strikes Back | 51216 | [51216-pluto-strikes-back.json](./51216-pluto-strikes-back.json) |
 | Pluto's Ascent: Celestial Card | 395515 | [395515-plutos-ascent-celestial-card.json](./395515-plutos-ascent-celestial-card.json) |
+| Pluto's Buried-Bone Treasure | 288159 | [288159-plutos-buried-bone-treasure.json](./288159-plutos-buried-bone-treasure.json) |
 | Pluto's Island | 190938 | [190938-plutos-island.json](./190938-plutos-island.json) |
 | Pluto's Sheep-Dog Day | 246516 | [246516-plutos-sheep-dog-day.json](./246516-plutos-sheep-dog-day.json) |
 | Pluto's Tears | 176974 | [176974-plutos-tears.json](./176974-plutos-tears.json) |
@@ -14394,6 +14395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic | 187201 | [187201-psychic.json](./187201-psychic.json) |
 | Psychic 5 | 39393 | [39393-psychic-5.json](./39393-psychic-5.json) |
 | Psychic Cat | 182224 | [182224-psychic-cat.json](./182224-psychic-cat.json) |
+| Psychic Eclipse | 288174 | [288174-psychic-eclipse.json](./288174-psychic-eclipse.json) |
 | Psychic Eclipse Code: Green | 289357 | [289357-psychic-eclipse-code-green.json](./289357-psychic-eclipse-code-green.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
@@ -14585,6 +14587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pucca, Let’s Cook! | 263689 | [263689-pucca-let-s-cook.json](./263689-pucca-let-s-cook.json) |
 | Pucca's Kisses Game | 65980 | [65980-puccas-kisses-game.json](./65980-puccas-kisses-game.json) |
 | Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
+| Pucchin Puzzle | 288173 | [288173-pucchin-puzzle.json](./288173-pucchin-puzzle.json) |
 | Puchi Carat | 37322 | [37322-puchi-carat.json](./37322-puchi-carat.json) |
 | Puchi Eva: Evangelion@Game | 59826 | [59826-puchi-eva-evangelion-game.json](./59826-puchi-eva-evangelion-game.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
