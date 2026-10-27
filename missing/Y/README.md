@@ -49,6 +49,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaga | 103048 | [103048-yaga.json](./103048-yaga.json) |
 | Yaga: Armful Edition | 186527 | [186527-yaga-armful-edition.json](./186527-yaga-armful-edition.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
+| Yaga's Candy House | 298003 | [298003-yagas-candy-house.json](./298003-yagas-candy-house.json) |
+| Yaga's Hunt | 298004 | [298004-yagas-hunt.json](./298004-yagas-hunt.json) |
 | Yagami Hiroki no Game-Taste: Munasawagi no Yokan | 166496 | [166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json](./166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json) |
 | Yagazem Elements | 334332 | [334332-yagazem-elements.json](./334332-yagazem-elements.json) |
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
@@ -222,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Goth BDSM 8 | 372261 | [372261-yandere-goth-bdsm-8.json](./372261-yandere-goth-bdsm-8.json) |
 | Yandere Goth BDSM 9 | 372262 | [372262-yandere-goth-bdsm-9.json](./372262-yandere-goth-bdsm-9.json) |
 | Yandere Goth Boss: Valentine's Day | 338362 | [338362-yandere-goth-boss-valentines-day.json](./338362-yandere-goth-boss-valentines-day.json) |
+| Yandere Institute Dating Simulator | 296311 | [296311-yandere-institute-dating-simulator.json](./296311-yandere-institute-dating-simulator.json) |
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
 | Yandere na Onee-chan ni Aishitsukusareru Kankin Seikatsu | 97470 | [97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json](./97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json) |
 | Yandere no Sutoka | 285048 | [285048-yandere-no-sutoka.json](./285048-yandere-no-sutoka.json) |
@@ -307,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasha: Legends of the Demon Blade - Deluxe Edition | 351139 | [351139-yasha-legends-of-the-demon-blade-deluxe-edition.json](./351139-yasha-legends-of-the-demon-blade-deluxe-edition.json) |
 | Yashi - Sand Driver | 411675 | [411675-yashi-sand-driver.json](./411675-yashi-sand-driver.json) |
 | Yashik | 76367 | [76367-yashik.json](./76367-yashik.json) |
+| Yashiyu No Hyper Ultra Action DX | 299110 | [299110-yashiyu-no-hyper-ultra-action-dx.json](./299110-yashiyu-no-hyper-ultra-action-dx.json) |
 | Yaso: Curse of Soirée | 182892 | [182892-yaso-curse-of-soiree.json](./182892-yaso-curse-of-soiree.json) |
 | Yasogaya Murder Cases | 238597 | [238597-yasogaya-murder-cases.json](./238597-yasogaya-murder-cases.json) |
 | Yass or Pass | 304090 | [304090-yass-or-pass.json](./304090-yass-or-pass.json) |
@@ -1627,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yum Yummy Superlicious | 96736 | [96736-yum-yummy-superlicious.json](./96736-yum-yummy-superlicious.json) |
 | Yum! Finger | 243710 | [243710-yum-finger.json](./243710-yum-finger.json) |
 | Yum's Farm | 375857 | [375857-yums-farm.json](./375857-yums-farm.json) |
+| Yuma Nest | 296960 | [296960-yuma-nest.json](./296960-yuma-nest.json) |
 | Yumahorome: Toki wo Tometa Yakata de Asu wo Sagasu Maigo-tachi | 368643 | [368643-yumahorome-toki-wo-tometa-yakata-de-asu-wo-sagasu-maigo-tachi.json](./368643-yumahorome-toki-wo-tometa-yakata-de-asu-wo-sagasu-maigo-tachi.json) |
 | YuMayhem | 292861 | [292861-yumayhem.json](./292861-yumayhem.json) |
 | Yume | 142269 | [142269-yume.json](./142269-yume.json) |
@@ -1887,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho: Sunset Fighters | 45607 | [45607-yuyu-hakusho-sunset-fighters.json](./45607-yuyu-hakusho-sunset-fighters.json) |
 | YuYu Hakusho: Tokubetsu-hen | 42532 | [42532-yuyu-hakusho-tokubetsu-hen.json](./42532-yuyu-hakusho-tokubetsu-hen.json) |
 | Yuyukana: Under the Starlight | 396469 | [396469-yuyukana-under-the-starlight.json](./396469-yuyukana-under-the-starlight.json) |
+| Yuyuko is suffering from lack of appetite | 298604 | [298604-yuyuko-is-suffering-from-lack-of-appetite.json](./298604-yuyuko-is-suffering-from-lack-of-appetite.json) |
 | Yuyuko's Butterfly Dream | 113143 | [113143-yuyukos-butterfly-dream.json](./113143-yuyukos-butterfly-dream.json) |
 | Yuzai x Muzai | 69206 | [69206-yuzai-x-muzai.json](./69206-yuzai-x-muzai.json) |
 | Yuzi Lims: anime runner | 81961 | [81961-yuzi-lims-anime-runner.json](./81961-yuzi-lims-anime-runner.json) |
