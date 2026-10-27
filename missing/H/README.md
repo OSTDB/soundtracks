@@ -5876,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Hijinks: No Cats in the Orgy, Please! | 385805 | [385805-hidden-hijinks-no-cats-in-the-orgy-please.json](./385805-hidden-hijinks-no-cats-in-the-orgy-please.json) |
 | Hidden Histories: The Principality | 189020 | [189020-hidden-histories-the-principality.json](./189020-hidden-histories-the-principality.json) |
 | Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
+| Hidden in Clickville | 306941 | [306941-hidden-in-clickville.json](./306941-hidden-in-clickville.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden in my Paradise + Hidden around the World Bundle | 399810 | [399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json](./399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json) |
 | Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
@@ -6856,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hipster Chess | 256438 | [256438-hipster-chess.json](./256438-hipster-chess.json) |
 | Hipster Kickball | 396384 | [396384-hipster-kickball.json](./396384-hipster-kickball.json) |
 | Hipster Sheep | 114736 | [114736-hipster-sheep.json](./114736-hipster-sheep.json) |
+| HiPurrLand | 306931 | [306931-hipurrland.json](./306931-hipurrland.json) |
 | HipWitch | 172985 | [172985-hipwitch.json](./172985-hipwitch.json) |
 | HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
@@ -7653,6 +7655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloSprint | 127706 | [127706-holosprint.json](./127706-holosprint.json) |
 | Holosseum | 40347 | [40347-holosseum.json](./40347-holosseum.json) |
 | Holostar Command: Quantum Alliance | 150969 | [150969-holostar-command-quantum-alliance.json](./150969-holostar-command-quantum-alliance.json) |
+| Holotanks | 306939 | [306939-holotanks.json](./306939-holotanks.json) |
 | HoloTrials: Case Covered | 409620 | [409620-holotrials-case-covered.json](./409620-holotrials-case-covered.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holotz's Castle | 62145 | [62145-holotzs-castle.json](./62145-holotzs-castle.json) |
