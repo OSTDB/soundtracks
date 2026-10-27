@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of Snooker: One Shot | 170937 | [170937-legends-of-snooker-one-shot.json](./170937-legends-of-snooker-one-shot.json) |
 | Legends of Solitaire: Curse of the Dragons | 34532 | [34532-legends-of-solitaire-curse-of-the-dragons.json](./34532-legends-of-solitaire-curse-of-the-dragons.json) |
+| Legends of Starkadia | 290902 | [290902-legends-of-starkadia.json](./290902-legends-of-starkadia.json) |
 | Legends of Talia: Arcadia | 74461 | [74461-legends-of-talia-arcadia.json](./74461-legends-of-talia-arcadia.json) |
 | Legends of the East: The Cobra's Eye - Collector's Edition | 381379 | [381379-legends-of-the-east-the-cobras-eye-collectors-edition.json](./381379-legends-of-the-east-the-cobras-eye-collectors-edition.json) |
 | Legends of The Internet | 311208 | [311208-legends-of-the-internet.json](./311208-legends-of-the-internet.json) |
@@ -2889,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemon Cake | 137111 | [137111-lemon-cake.json](./137111-lemon-cake.json) |
 | Lemon Pending | 179362 | [179362-lemon-pending.json](./179362-lemon-pending.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
+| Lemonade Apocalypse | 290965 | [290965-lemonade-apocalypse.json](./290965-lemonade-apocalypse.json) |
 | Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
 | Lemonade Tycoon 2: New York Edition | 68041 | [68041-lemonade-tycoon-2-new-york-edition.json](./68041-lemonade-tycoon-2-new-york-edition.json) |
 | Lemonade. | 184051 | [184051-lemonade.json](./184051-lemonade.json) |
@@ -4351,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
 | Lily Diary | 301132 | [301132-lily-diary.json](./301132-lily-diary.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
+| Lily in DreamWorld | 290892 | [290892-lily-in-dreamworld.json](./290892-lily-in-dreamworld.json) |
 | Lily in Puzzle World | 267832 | [267832-lily-in-puzzle-world.json](./267832-lily-in-puzzle-world.json) |
 | Lily of Swampville | 58605 | [58605-lily-of-swampville.json](./58605-lily-of-swampville.json) |
 | Lily of the Hollow | 115038 | [115038-lily-of-the-hollow.json](./115038-lily-of-the-hollow.json) |
@@ -4379,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limax.io | 54892 | [54892-limax-io.json](./54892-limax-io.json) |
 | Limb Chopper | 323985 | [323985-limb-chopper.json](./323985-limb-chopper.json) |
 | Limb Driver | 348582 | [348582-limb-driver.json](./348582-limb-driver.json) |
+| Limb From Limb | 290881 | [290881-limb-from-limb.json](./290881-limb-from-limb.json) |
 | Limb Hunter | 156222 | [156222-limb-hunter.json](./156222-limb-hunter.json) |
 | Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
@@ -4784,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
 | Liquid Defense | 91281 | [91281-liquid-defense.json](./91281-liquid-defense.json) |
 | Liquid Dungeon Byproduct | 178863 | [178863-liquid-dungeon-byproduct.json](./178863-liquid-dungeon-byproduct.json) |
+| Liquid Entry | 290766 | [290766-liquid-entry.json](./290766-liquid-entry.json) |
 | Liquid Havoc | 212105 | [212105-liquid-havoc.json](./212105-liquid-havoc.json) |
 | Liquid Kids | 16750 | [16750-liquid-kids.json](./16750-liquid-kids.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
