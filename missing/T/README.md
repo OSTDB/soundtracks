@@ -7437,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls Anthology | 23832 | [23832-the-elder-scrolls-anthology.json](./23832-the-elder-scrolls-anthology.json) |
+| The Elder Scrolls Bundle | 290975 | [290975-the-elder-scrolls-bundle.json](./290975-the-elder-scrolls-bundle.json) |
 | The Elder Scrolls II: Daggerfall | 53 | [53-the-elder-scrolls-ii-daggerfall.json](./53-the-elder-scrolls-ii-daggerfall.json) |
 | The Elder Scrolls III: Morrowind - Game of the Year Edition | 24775 | [24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json](./24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 1 | 279659 | [279659-the-finals-season-1.json](./279659-the-finals-season-1.json) |
 | The Finals: Season 10 - Fantasy League | 398016 | [398016-the-finals-season-10-fantasy-league.json](./398016-the-finals-season-10-fantasy-league.json) |
 | The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
+| The Finals: Season 2 | 290770 | [290770-the-finals-season-2.json](./290770-the-finals-season-2.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
 | The Finals: Season 4 - It's Showtime! | 326563 | [326563-the-finals-season-4-its-showtime.json](./326563-the-finals-season-4-its-showtime.json) |
 | The Finals: Season 6 - Rising Stars! | 400948 | [400948-the-finals-season-6-rising-stars.json](./400948-the-finals-season-6-rising-stars.json) |
@@ -16188,6 +16190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Welkin World: Rebels | 121278 | [121278-the-welkin-world-rebels.json](./121278-the-welkin-world-rebels.json) |
 | The Well | 169799 | [169799-the-well.json](./169799-the-well.json) |
 | The Well | 72520 | [72520-the-well.json](./72520-the-well.json) |
+| The Well of Essenwood | 290903 | [290903-the-well-of-essenwood.json](./290903-the-well-of-essenwood.json) |
 | The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
 | The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
 | The Well: Episode 1 | 333621 | [333621-the-well-episode-1.json](./333621-the-well-episode-1.json) |
@@ -16681,8 +16684,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Bloodhound | 206795 | [206795-thehunter-call-of-the-wild-bloodhound.json](./206795-thehunter-call-of-the-wild-bloodhound.json) |
 | TheHunter: Call of the Wild - Cuatro Colinas Game Reserve | 154340 | [154340-thehunter-call-of-the-wild-cuatro-colinas-game-reserve.json](./154340-thehunter-call-of-the-wild-cuatro-colinas-game-reserve.json) |
 | TheHunter: Call of the Wild - Duck and Cover Pack | 206814 | [206814-thehunter-call-of-the-wild-duck-and-cover-pack.json](./206814-thehunter-call-of-the-wild-duck-and-cover-pack.json) |
+| TheHunter: Call of the Wild - Emerald Coast Cosmetic Pack | 290768 | [290768-thehunter-call-of-the-wild-emerald-coast-cosmetic-pack.json](./290768-thehunter-call-of-the-wild-emerald-coast-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Facing the Wild 1 | 206822 | [206822-thehunter-call-of-the-wild-facing-the-wild-1.json](./206822-thehunter-call-of-the-wild-facing-the-wild-1.json) |
 | TheHunter: Call of the Wild - Free Species: European Rabbit | 206796 | [206796-thehunter-call-of-the-wild-free-species-european-rabbit.json](./206796-thehunter-call-of-the-wild-free-species-european-rabbit.json) |
+| TheHunter: Call of the Wild - High Caliber Weapon Pack | 290767 | [290767-thehunter-call-of-the-wild-high-caliber-weapon-pack.json](./290767-thehunter-call-of-the-wild-high-caliber-weapon-pack.json) |
 | TheHunter: Call of the Wild - High-Tech Hunting Pack | 206799 | [206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json](./206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json) |
 | TheHunter: Call of the Wild - Hirschfelden Veteran Cosmetic Pack | 266392 | [266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json](./266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Hunter Power Pack | 266390 | [266390-thehunter-call-of-the-wild-hunter-power-pack.json](./266390-thehunter-call-of-the-wild-hunter-power-pack.json) |
@@ -19845,6 +19850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timespinner 2: Unwoven Dream | 268677 | [268677-timespinner-2-unwoven-dream.json](./268677-timespinner-2-unwoven-dream.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
+| TimeSplitters 2 Redux | 290771 | [290771-timesplitters-2-redux.json](./290771-timesplitters-2-redux.json) |
 | TimeSplitters Rewind | 27286 | [27286-timesplitters-rewind.json](./27286-timesplitters-rewind.json) |
 | TimeSplitters: Future Perfect | 2144 | [2144-timesplitters-future-perfect.json](./2144-timesplitters-future-perfect.json) |
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
@@ -24045,6 +24051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: Bahnstrecke Salzburg - Rosenheim Route Add-On | 293695 | [293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json](./293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json) |
 | Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route | 286525 | [286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json](./286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json) |
 | Train Sim World 4: Edinburgh - Glasgow: Engineering Express Pack | 288920 | [288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json](./288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json) |
+| Train Sim World 4: Fife Circle Line - Edinburgh: Markinch via Dunfermline & Kirkcaldy Route | 290905 | [290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json](./290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json) |
 | Train Sim World 4: Flying Scotsman Centenary Edition | 274417 | [274417-train-sim-world-4-flying-scotsman-centenary-edition.json](./274417-train-sim-world-4-flying-scotsman-centenary-edition.json) |
 | Train Sim World 4: LIRR Commuter - New York: Long Beach, Hempstead & Hicksville | 308438 | [308438-train-sim-world-4-lirr-commuter-new-york-long-beach-hempstead-and-hicksville.json](./308438-train-sim-world-4-lirr-commuter-new-york-long-beach-hempstead-and-hicksville.json) |
 | Train Sim World 4: London Overground Suffragette line: Gospel Oak - Barking Riverside Route Add-On | 293692 | [293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json](./293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json) |
