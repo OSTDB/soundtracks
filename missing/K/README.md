@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaidogaku | 380491 | [380491-kaidogaku.json](./380491-kaidogaku.json) |
 | Kaidop | 297901 | [297901-kaidop.json](./297901-kaidop.json) |
 | Kaidou ni Kisu | 380806 | [380806-kaidou-ni-kisu.json](./380806-kaidou-ni-kisu.json) |
+| Kaidro: Clan Battles | 289824 | [289824-kaidro-clan-battles.json](./289824-kaidro-clan-battles.json) |
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
 | Kaii Judge Labyrinth | 288431 | [288431-kaii-judge-labyrinth.json](./288431-kaii-judge-labyrinth.json) |
 | Kaiichi Otto-sensei Tokyo Daigaku Kanshuu: Suku-suku Kosodate DS - Akachan to Asobou! | 269632 | [269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json](./269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json) |
