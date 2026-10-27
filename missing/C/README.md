@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Chase Simulator | 222760 | [222760-car-chase-simulator.json](./222760-car-chase-simulator.json) |
 | Car Clicker | 314233 | [314233-car-clicker.json](./314233-car-clicker.json) |
 | Car Combine Mania | 342280 | [342280-car-combine-mania.json](./342280-car-combine-mania.json) |
+| Car Company Tycoon | 300657 | [300657-car-company-tycoon.json](./300657-car-company-tycoon.json) |
 | Car Constructor | 169834 | [169834-car-constructor.json](./169834-car-constructor.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
@@ -2893,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Crush: Epic Strategy Game | 57221 | [57221-castle-crush-epic-strategy-game.json](./57221-castle-crush-epic-strategy-game.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
+| Castle Defender Saga | 300665 | [300665-castle-defender-saga.json](./300665-castle-defender-saga.json) |
 | Castle Defense | 182852 | [182852-castle-defense.json](./182852-castle-defense.json) |
 | Castle Defense | 277158 | [277158-castle-defense.json](./277158-castle-defense.json) |
 | Castle Demolition VR | 55260 | [55260-castle-demolition-vr.json](./55260-castle-demolition-vr.json) |
@@ -3415,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rescue | 329530 | [329530-cat-rescue.json](./329530-cat-rescue.json) |
 | Cat Rescue Helicopter | 231958 | [231958-cat-rescue-helicopter.json](./231958-cat-rescue-helicopter.json) |
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
+| Cat Rescue Story | 300751 | [300751-cat-rescue-story.json](./300751-cat-rescue-story.json) |
 | Cat Rooms: Sticker Decor! | 423864 | [423864-cat-rooms-sticker-decor.json](./423864-cat-rooms-sticker-decor.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Sandbox | 277738 | [277738-cat-sandbox.json](./277738-cat-sandbox.json) |
@@ -4224,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Tank Killer | 304328 | [304328-cazzarion-tank-killer.json](./304328-cazzarion-tank-killer.json) |
 | Cazzarion: Treasure Diver | 315901 | [315901-cazzarion-treasure-diver.json](./315901-cazzarion-treasure-diver.json) |
 | Cazzarion: UFO Kidnapping | 324984 | [324984-cazzarion-ufo-kidnapping.json](./324984-cazzarion-ufo-kidnapping.json) |
+| Cazzarion: Whack A Zombie | 300734 | [300734-cazzarion-whack-a-zombie.json](./300734-cazzarion-whack-a-zombie.json) |
 | Cazzarion: Zombie Drive | 301803 | [301803-cazzarion-zombie-drive.json](./301803-cazzarion-zombie-drive.json) |
 | CB Chara Wars: Ushinawareta Gag | 38154 | [38154-cb-chara-wars-ushinawareta-gag.json](./38154-cb-chara-wars-ushinawareta-gag.json) |
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
@@ -13001,6 +13005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
 | Counter Force | 393042 | [393042-counter-force.json](./393042-counter-force.json) |
 | Counter Force | 4773 | [4773-counter-force.json](./4773-counter-force.json) |
+| Counter Force: Tactical Warfare | 300735 | [300735-counter-force-tactical-warfare.json](./300735-counter-force-tactical-warfare.json) |
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Protocol: Origins | 420682 | [420682-counter-protocol-origins.json](./420682-counter-protocol-origins.json) |
@@ -13154,6 +13159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coven Escape | 315596 | [315596-coven-escape.json](./315596-coven-escape.json) |
 | Coven Escape 2 | 315597 | [315597-coven-escape-2.json](./315597-coven-escape-2.json) |
 | Coven of Crones | 373590 | [373590-coven-of-crones.json](./373590-coven-of-crones.json) |
+| Coven of Ebony | 300672 | [300672-coven-of-ebony.json](./300672-coven-of-ebony.json) |
 | Coven of the Chicken Foot | 381218 | [381218-coven-of-the-chicken-foot.json](./381218-coven-of-the-chicken-foot.json) |
 | Coven: All Powerful | 351562 | [351562-coven-all-powerful.json](./351562-coven-all-powerful.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
