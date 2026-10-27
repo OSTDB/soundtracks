@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Grudge | 403551 | [403551-galaxy-grudge.json](./403551-galaxy-grudge.json) |
 | Galaxy Guardian Royale | 159807 | [159807-galaxy-guardian-royale.json](./159807-galaxy-guardian-royale.json) |
 | Galaxy Gunners | 38570 | [38570-galaxy-gunners.json](./38570-galaxy-gunners.json) |
+| Galaxy Hassle | 326011 | [326011-galaxy-hassle.json](./326011-galaxy-hassle.json) |
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
 | Galaxy Highways | 167364 | [167364-galaxy-highways.json](./167364-galaxy-highways.json) |
 | Galaxy Hordes | 258978 | [258978-galaxy-hordes.json](./258978-galaxy-hordes.json) |
@@ -1420,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangpire: Fire & Fury | 188309 | [188309-gangpire-fire-and-fury.json](./188309-gangpire-fire-and-fury.json) |
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
 | Gangs of London | 23136 | [23136-gangs-of-london.json](./23136-gangs-of-london.json) |
+| Gangs of Neo Tokyo | 325986 | [325986-gangs-of-neo-tokyo.json](./325986-gangs-of-neo-tokyo.json) |
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
 | Gangs of Sherwood: Lionheart Edition | 271679 | [271679-gangs-of-sherwood-lionheart-edition.json](./271679-gangs-of-sherwood-lionheart-edition.json) |
 | Gangs of Space | 54522 | [54522-gangs-of-space.json](./54522-gangs-of-space.json) |
