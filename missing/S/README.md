@@ -14429,6 +14429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic All-Stars | 321061 | [321061-sonic-all-stars.json](./321061-sonic-all-stars.json) |
 | Sonic AM2 | 334738 | [334738-sonic-am2.json](./334738-sonic-am2.json) |
 | Sonic an Untold Darkness | 326161 | [326161-sonic-an-untold-darkness.json](./326161-sonic-an-untold-darkness.json) |
+| Sonic and Ice | 331225 | [331225-sonic-and-ice.json](./331225-sonic-and-ice.json) |
 | Sonic and Mario | 330722 | [330722-sonic-and-mario.json](./330722-sonic-and-mario.json) |
 | Sonic and Meister | 331442 | [331442-sonic-and-meister.json](./331442-sonic-and-meister.json) |
 | Sonic and Seanic: The Dark Brotherhood Saga | 335628 | [335628-sonic-and-seanic-the-dark-brotherhood-saga.json](./335628-sonic-and-seanic-the-dark-brotherhood-saga.json) |
@@ -14567,6 +14568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Epoch Advance | 213239 | [213239-sonic-epoch-advance.json](./213239-sonic-epoch-advance.json) |
 | Sonic Epsilon | 332553 | [332553-sonic-epsilon.json](./332553-sonic-epsilon.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
+| Sonic Eruption | 331224 | [331224-sonic-eruption.json](./331224-sonic-eruption.json) |
 | Sonic Escape | 370218 | [370218-sonic-escape.json](./370218-sonic-escape.json) |
 | Sonic Essence | 337174 | [337174-sonic-essence.json](./337174-sonic-essence.json) |
 | Sonic Eternal Rings | 330322 | [330322-sonic-eternal-rings.json](./330322-sonic-eternal-rings.json) |
@@ -14881,6 +14883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
 | Sonic Skyfall | 316497 | [316497-sonic-skyfall.json](./316497-sonic-skyfall.json) |
 | Sonic Skywind: Episode II | 327000 | [327000-sonic-skywind-episode-ii.json](./327000-sonic-skywind-episode-ii.json) |
+| Sonic Slash | 331228 | [331228-sonic-slash.json](./331228-sonic-slash.json) |
 | Sonic Slash | 350060 | [350060-sonic-slash.json](./350060-sonic-slash.json) |
 | Sonic Slider | 233042 | [233042-sonic-slider.json](./233042-sonic-slider.json) |
 | Sonic Smackdown | 134575 | [134575-sonic-smackdown.json](./134575-sonic-smackdown.json) |
