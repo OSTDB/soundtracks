@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tap RPG | 327660 | [327660-dark-tap-rpg.json](./327660-dark-tap-rpg.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Dark Temple | 164569 | [164569-dark-temple.json](./164569-dark-temple.json) |
+| Dark the Dead | 304556 | [304556-dark-the-dead.json](./304556-dark-the-dead.json) |
 | Dark Theme Bundle | 265191 | [265191-dark-theme-bundle.json](./265191-dark-theme-bundle.json) |
 | Dark Things | 335174 | [335174-dark-things.json](./335174-dark-things.json) |
 | Dark Throne | 29597 | [29597-dark-throne.json](./29597-dark-throne.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Siege | 406905 | [406905-demon-siege.json](./406905-demon-siege.json) |
 | Demon Sighting | 168592 | [168592-demon-sighting.json](./168592-demon-sighting.json) |
 | Demon Skin | 145582 | [145582-demon-skin.json](./145582-demon-skin.json) |
+| Demon Slayer | 304557 | [304557-demon-slayer.json](./304557-demon-slayer.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Gyutaro Character Pack | 226692 | [226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json](./226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer 5 | 320711 | [320711-demon-slayer-5.json](./320711-demon-slayer-5.json) |
@@ -6847,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
 | Devil_catching_bees | 119012 | [119012-devil-catching-bees.json](./119012-devil-catching-bees.json) |
 | Devil, It's Me | 161714 | [161714-devil-its-me.json](./161714-devil-its-me.json) |
+| Devil.., Heart and Possession | 304545 | [304545-devil-heart-and-possession.json](./304545-devil-heart-and-possession.json) |
 | Devil's 5 Days: Mischief Game | 232558 | [232558-devils-5-days-mischief-game.json](./232558-devils-5-days-mischief-game.json) |
 | Devil's Academy DxD | 386251 | [386251-devils-academy-dxd.json](./386251-devils-academy-dxd.json) |
 | Devil's Advocate: Alexander Twist | 224581 | [224581-devils-advocate-alexander-twist.json](./224581-devils-advocate-alexander-twist.json) |
@@ -7861,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension of the Boomed | 251546 | [251546-dimension-of-the-boomed.json](./251546-dimension-of-the-boomed.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
 | Dimension Painter | 256183 | [256183-dimension-painter.json](./256183-dimension-painter.json) |
+| Dimension Pirates | 304505 | [304505-dimension-pirates.json](./304505-dimension-pirates.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
 | Dimension Reign | 129484 | [129484-dimension-reign.json](./129484-dimension-reign.json) |
 | Dimension Rift Zero | 149271 | [149271-dimension-rift-zero.json](./149271-dimension-rift-zero.json) |
