@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Razy Antiks | 22768 | [22768-k-razy-antiks.json](./22768-k-razy-antiks.json) |
 | K-Shoot Mania | 59775 | [59775-k-shoot-mania.json](./59775-k-shoot-mania.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
+| K!ll All Litterbugs | 302909 | [302909-k-ll-all-litterbugs.json](./302909-k-ll-all-litterbugs.json) |
 | K. Hawk: Survival Instinct | 93199 | [93199-k-hawk-survival-instinct.json](./93199-k-hawk-survival-instinct.json) |
 | K.C. Munchkin! | 18738 | [18738-k-c-munchkin.json](./18738-k-c-munchkin.json) |
 | K.C.'s Crazy Nightmare! | 40730 | [40730-k-c-s-crazy-nightmare.json](./40730-k-c-s-crazy-nightmare.json) |
