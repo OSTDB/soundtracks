@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Build Wonders: Galaxy | 320779 | [320779-lets-build-wonders-galaxy.json](./320779-lets-build-wonders-galaxy.json) |
 | Let's Build Wonders: Galaxy — Star Trade Chamber Pass | 337532 | [337532-lets-build-wonders-galaxy-star-trade-chamber-pass.json](./337532-lets-build-wonders-galaxy-star-trade-chamber-pass.json) |
 | Let's Bully Nash | 249320 | [249320-lets-bully-nash.json](./249320-lets-bully-nash.json) |
+| Let's Café | 301297 | [301297-lets-cafe.json](./301297-lets-cafe.json) |
 | Let's Catapult | 274912 | [274912-lets-catapult.json](./274912-lets-catapult.json) |
 | Let's Catch | 21352 | [21352-lets-catch.json](./21352-lets-catch.json) |
 | Let's Cheer! | 20241 | [20241-lets-cheer.json](./20241-lets-cheer.json) |
@@ -4439,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Trial | 344724 | [344724-liminal-trial.json](./344724-liminal-trial.json) |
 | Liminal Underground: Creatures Beyond | 411125 | [411125-liminal-underground-creatures-beyond.json](./411125-liminal-underground-creatures-beyond.json) |
 | Liminal Universe | 324176 | [324176-liminal-universe.json](./324176-liminal-universe.json) |
+| Liminal Void | 301864 | [301864-liminal-void.json](./301864-liminal-void.json) |
 | Liminal Waters | 373545 | [373545-liminal-waters.json](./373545-liminal-waters.json) |
 | Liminal: Escape Route | 407800 | [407800-liminal-escape-route.json](./407800-liminal-escape-route.json) |
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
@@ -6988,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Life: Origins | 207758 | [207758-lost-life-origins.json](./207758-lost-life-origins.json) |
 | Lost Light | 148295 | [148295-lost-light.json](./148295-lost-light.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
+| Lost Light: Bright Mates | 301881 | [301881-lost-light-bright-mates.json](./301881-lost-light-bright-mates.json) |
 | Lost Liminal | 348567 | [348567-lost-liminal.json](./348567-lost-liminal.json) |
 | Lost Lost Lost | 330507 | [330507-lost-lost-lost.json](./330507-lost-lost-lost.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
@@ -8380,6 +8383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
 | Lunaria Fantasia | 338101 | [338101-lunaria-fantasia.json](./338101-lunaria-fantasia.json) |
 | Lunaris | 353947 | [353947-lunaris.json](./353947-lunaris.json) |
+| Lunarium | 301234 | [301234-lunarium.json](./301234-lunarium.json) |
 | Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
