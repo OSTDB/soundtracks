@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Reality: The Legend of Greenbush | 397151 | [397151-edge-of-reality-the-legend-of-greenbush.json](./397151-edge-of-reality-the-legend-of-greenbush.json) |
 | Edge of Reality: The Legend of Greenbush Collector's Edition | 339726 | [339726-edge-of-reality-the-legend-of-greenbush-collectors-edition.json](./339726-edge-of-reality-the-legend-of-greenbush-collectors-edition.json) |
 | Edge of Sanity | 214504 | [214504-edge-of-sanity.json](./214504-edge-of-sanity.json) |
+| Edge of Sanity: Eldritch Edition | 331265 | [331265-edge-of-sanity-eldritch-edition.json](./331265-edge-of-sanity-eldritch-edition.json) |
 | Edge of Sanity: Supporter Pack | 324416 | [324416-edge-of-sanity-supporter-pack.json](./324416-edge-of-sanity-supporter-pack.json) |
 | Edge of Soul: Ragnarok | 284919 | [284919-edge-of-soul-ragnarok.json](./284919-edge-of-soul-ragnarok.json) |
 | Edge of Space | 16533 | [16533-edge-of-space.json](./16533-edge-of-space.json) |
