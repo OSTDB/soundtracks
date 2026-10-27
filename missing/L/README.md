@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lancen Adventure | 321814 | [321814-lancen-adventure.json](./321814-lancen-adventure.json) |
 | Lancer Tactics | 375255 | [375255-lancer-tactics.json](./375255-lancer-tactics.json) |
 | Land Air Sea Warfare HD | 109017 | [109017-land-air-sea-warfare-hd.json](./109017-land-air-sea-warfare-hd.json) |
+| Land Before Time: Adventure Valley | 318945 | [318945-land-before-time-adventure-valley.json](./318945-land-before-time-adventure-valley.json) |
 | Land Crashers | 114711 | [114711-land-crashers.json](./114711-land-crashers.json) |
 | Land Develop | 387330 | [387330-land-develop.json](./387330-land-develop.json) |
 | Land Drifters | 238746 | [238746-land-drifters.json](./238746-land-drifters.json) |
@@ -4204,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Infinite Wealth - Special Outfit: Hello Work Employee (Ichiban) | 288221 | [288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json](./288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json) |
 | Like a Dragon: Infinite Wealth - Ultimate Edition | 284866 | [284866-like-a-dragon-infinite-wealth-ultimate-edition.json](./284866-like-a-dragon-infinite-wealth-ultimate-edition.json) |
 | Like a Dragon: Infinite Wealth - Yakuza CD Collection Set | 288218 | [288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json](./288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json) |
+| Like a Dragon: Infinite Wealth Special Trial Version | 319033 | [319033-like-a-dragon-infinite-wealth-special-trial-version.json](./319033-like-a-dragon-infinite-wealth-special-trial-version.json) |
 | Like a Dragon: Ishin! - Gun Upgrade Materials Kit | 239215 | [239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json](./239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json) |
 | Like a Dragon: Ishin! - Ryoma Growth Support | 247390 | [247390-like-a-dragon-ishin-ryoma-growth-support.json](./247390-like-a-dragon-ishin-ryoma-growth-support.json) |
 | Like a Dragon: Ishin! - Shinsengumi Captain's Set | 239212 | [239212-like-a-dragon-ishin-shinsengumi-captains-set.json](./239212-like-a-dragon-ishin-shinsengumi-captains-set.json) |
@@ -6896,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Transit | 409724 | [409724-lost-in-transit.json](./409724-lost-in-transit.json) |
 | Lost In Transit | 375867 | [375867-lost-in-transit.json](./375867-lost-in-transit.json) |
 | Lost in Translation | 394118 | [394118-lost-in-translation.json](./394118-lost-in-translation.json) |
+| Lost in Tropics | 319031 | [319031-lost-in-tropics.json](./319031-lost-in-tropics.json) |
 | Lost in Voice | 384831 | [384831-lost-in-voice.json](./384831-lost-in-voice.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
@@ -7332,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Ice Rink | 254949 | [254949-love-ice-rink.json](./254949-love-ice-rink.json) |
 | Love Idol Maker | 297014 | [297014-love-idol-maker.json](./297014-love-idol-maker.json) |
 | Love In a Bottle | 202643 | [202643-love-in-a-bottle.json](./202643-love-in-a-bottle.json) |
+| Love in an Enchanted Realm | 318966 | [318966-love-in-an-enchanted-realm.json](./318966-love-in-an-enchanted-realm.json) |
 | Love in Belarus | 152465 | [152465-love-in-belarus.json](./152465-love-in-belarus.json) |
 | Love In Drawing | 112461 | [112461-love-in-drawing.json](./112461-love-in-drawing.json) |
 | Love in Lockdown: Eli Version | 215772 | [215772-love-in-lockdown-eli-version.json](./215772-love-in-lockdown-eli-version.json) |
