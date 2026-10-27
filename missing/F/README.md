@@ -5009,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: The Four Kings | 214494 | [214494-fire-emblem-the-four-kings.json](./214494-fire-emblem-the-four-kings.json) |
 | Fire Emblem: The Hag in White | 335825 | [335825-fire-emblem-the-hag-in-white.json](./335825-fire-emblem-the-hag-in-white.json) |
 | Fire Emblem: The Lonely Mirror | 273926 | [273926-fire-emblem-the-lonely-mirror.json](./273926-fire-emblem-the-lonely-mirror.json) |
+| Fire Emblem: The Morrow’s Golden Country | 318447 | [318447-fire-emblem-the-morrow-s-golden-country.json](./318447-fire-emblem-the-morrow-s-golden-country.json) |
 | Fire Emblem: The Road to Ruin | 144674 | [144674-fire-emblem-the-road-to-ruin.json](./144674-fire-emblem-the-road-to-ruin.json) |
 | Fire Emblem: The Shadow of Dawn | 384011 | [384011-fire-emblem-the-shadow-of-dawn.json](./384011-fire-emblem-the-shadow-of-dawn.json) |
 | Fire Emblem: The Sun God's Wrath | 140873 | [140873-fire-emblem-the-sun-gods-wrath.json](./140873-fire-emblem-the-sun-gods-wrath.json) |
@@ -5078,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire ProWrestling Z | 23718 | [23718-fire-prowrestling-z.json](./23718-fire-prowrestling-z.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
+| Fire Rescue | 318366 | [318366-fire-rescue.json](./318366-fire-rescue.json) |
 | Fire Rescue | 80850 | [80850-fire-rescue.json](./80850-fire-rescue.json) |
 | Fire Rides | 74960 | [74960-fire-rides.json](./74960-fire-rides.json) |
 | Fire Rock | 41302 | [41302-fire-rock.json](./41302-fire-rock.json) |
@@ -5976,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Macho's | 165473 | [165473-five-nights-at-machos.json](./165473-five-nights-at-machos.json) |
 | Five Nights At Maggies | 301498 | [301498-five-nights-at-maggies.json](./301498-five-nights-at-maggies.json) |
 | Five Nights At Monkeys | 374968 | [374968-five-nights-at-monkeys.json](./374968-five-nights-at-monkeys.json) |
+| Five Nights at Mr. Krabs | 318377 | [318377-five-nights-at-mr-krabs.json](./318377-five-nights-at-mr-krabs.json) |
 | Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
@@ -7813,6 +7816,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 2024 Mobile | 295327 | [295327-football-manager-2024-mobile.json](./295327-football-manager-2024-mobile.json) |
 | Football Manager 2024 Touch | 266727 | [266727-football-manager-2024-touch.json](./266727-football-manager-2024-touch.json) |
+| Football Manager 25 | 318381 | [318381-football-manager-25.json](./318381-football-manager-25.json) |
+| Football Manager 25 Console | 318382 | [318382-football-manager-25-console.json](./318382-football-manager-25-console.json) |
+| Football Manager 25 Mobile | 318385 | [318385-football-manager-25-mobile.json](./318385-football-manager-25-mobile.json) |
+| Football Manager 25 Touch | 318383 | [318383-football-manager-25-touch.json](./318383-football-manager-25-touch.json) |
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
 | Football Manager 26 Console | 367571 | [367571-football-manager-26-console.json](./367571-football-manager-26-console.json) |
 | Football Manager 26 Mobile | 367576 | [367576-football-manager-26-mobile.json](./367576-football-manager-26-mobile.json) |
