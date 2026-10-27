@@ -3648,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa Phantasy Reverie Series: Special Edition | 201032 | [201032-klonoa-phantasy-reverie-series-special-edition.json](./201032-klonoa-phantasy-reverie-series-special-edition.json) |
 | Klonoa: Door to Phantomile | 270725 | [270725-klonoa-door-to-phantomile.json](./270725-klonoa-door-to-phantomile.json) |
 | Klonoa: Empire of Dreams | 6492 | [6492-klonoa-empire-of-dreams.json](./6492-klonoa-empire-of-dreams.json) |
+| Klonoa: The Dream Chapter | 326551 | [326551-klonoa-the-dream-chapter.json](./326551-klonoa-the-dream-chapter.json) |
 | Klorb | 348030 | [348030-klorb.json](./348030-klorb.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
 | Klostyn | 340865 | [340865-klostyn.json](./340865-klostyn.json) |
