@@ -8122,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Dark Xuan Yuan Sword | 361296 | [361296-honkai-impact-3rd-dark-xuan-yuan-sword.json](./361296-honkai-impact-3rd-dark-xuan-yuan-sword.json) |
 | Honkai Impact 3rd: Dawn of Glory | 279724 | [279724-honkai-impact-3rd-dawn-of-glory.json](./279724-honkai-impact-3rd-dawn-of-glory.json) |
 | Honkai Impact 3rd: Dorm Life | 362032 | [362032-honkai-impact-3rd-dorm-life.json](./362032-honkai-impact-3rd-dorm-life.json) |
+| Honkai Impact 3rd: Dreamseeking Voyage | 284193 | [284193-honkai-impact-3rd-dreamseeking-voyage.json](./284193-honkai-impact-3rd-dreamseeking-voyage.json) |
 | Honkai Impact 3rd: Drumming in New Resolutions | 332301 | [332301-honkai-impact-3rd-drumming-in-new-resolutions.json](./332301-honkai-impact-3rd-drumming-in-new-resolutions.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
 | Honkai Impact 3rd: Equinox Gate | 276497 | [276497-honkai-impact-3rd-equinox-gate.json](./276497-honkai-impact-3rd-equinox-gate.json) |
@@ -10725,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperborea | 117703 | [117703-hyperborea.json](./117703-hyperborea.json) |
 | Hyperborea | 332932 | [332932-hyperborea.json](./332932-hyperborea.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
+| Hyperbound | 284376 | [284376-hyperbound.json](./284376-hyperbound.json) |
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
 | HyperBowl | 105444 | [105444-hyperbowl.json](./105444-hyperbowl.json) |
 | Hyperbowl Plus! Edition | 256373 | [256373-hyperbowl-plus-edition.json](./256373-hyperbowl-plus-edition.json) |
