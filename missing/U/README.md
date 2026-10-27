@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
 | Undiscovered | 416167 | [416167-undiscovered.json](./416167-undiscovered.json) |
 | Undiscovered House | 149698 | [149698-undiscovered-house.json](./149698-undiscovered-house.json) |
+| Undiscovered Technology of the Pharaohs | 283553 | [283553-undiscovered-technology-of-the-pharaohs.json](./283553-undiscovered-technology-of-the-pharaohs.json) |
 | Undiscovered World: The Incan Sun | 416165 | [416165-undiscovered-world-the-incan-sun.json](./416165-undiscovered-world-the-incan-sun.json) |
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed Champ | 112735 | [112735-undisputed-champ.json](./112735-undisputed-champ.json) |
