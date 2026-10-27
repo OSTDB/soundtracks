@@ -5402,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Mahjong | 67925 | [67925-the-battle-of-mahjong.json](./67925-the-battle-of-mahjong.json) |
 | The Battle of Olympus | 265038 | [265038-the-battle-of-olympus.json](./265038-the-battle-of-olympus.json) |
 | The Battle of Olympus | 7773 | [7773-the-battle-of-olympus.json](./7773-the-battle-of-olympus.json) |
+| The Battle of Olympus: Item Randomizer | 283794 | [283794-the-battle-of-olympus-item-randomizer.json](./283794-the-battle-of-olympus-item-randomizer.json) |
 | The Battle of Polytopia | 57153 | [57153-the-battle-of-polytopia.json](./57153-the-battle-of-polytopia.json) |
 | The Battle of Polytopia: Ai-Mo | 371519 | [371519-the-battle-of-polytopia-ai-mo.json](./371519-the-battle-of-polytopia-ai-mo.json) |
 | The Battle of Polytopia: All Special Tribes | 219477 | [219477-the-battle-of-polytopia-all-special-tribes.json](./219477-the-battle-of-polytopia-all-special-tribes.json) |
@@ -23177,6 +23178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Chaos | 268881 | [268881-tower-of-chaos.json](./268881-tower-of-chaos.json) |
 | Tower of Dal Gurak | 271953 | [271953-tower-of-dal-gurak.json](./271953-tower-of-dal-gurak.json) |
 | Tower of Darkness | 217990 | [217990-tower-of-darkness.json](./217990-tower-of-darkness.json) |
+| Tower of Delight | 283793 | [283793-tower-of-delight.json](./283793-tower-of-delight.json) |
 | Tower of Destiny | 283131 | [283131-tower-of-destiny.json](./283131-tower-of-destiny.json) |
 | Tower of Doom | 150499 | [150499-tower-of-doom.json](./150499-tower-of-doom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
