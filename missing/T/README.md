@@ -12095,6 +12095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neverland of the Mountain and Sea | 236966 | [236966-the-neverland-of-the-mountain-and-sea.json](./236966-the-neverland-of-the-mountain-and-sea.json) |
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
+| The New Adventures of Sonic the Hedgehog | 316589 | [316589-the-new-adventures-of-sonic-the-hedgehog.json](./316589-the-new-adventures-of-sonic-the-hedgehog.json) |
 | The New Adventures of the Time Machine | 24127 | [24127-the-new-adventures-of-the-time-machine.json](./24127-the-new-adventures-of-the-time-machine.json) |
 | The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
@@ -12192,6 +12193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
 | The Noid's Super Pizza Shootout | 342587 | [342587-the-noids-super-pizza-shootout.json](./342587-the-noids-super-pizza-shootout.json) |
+| The Noise's Jam-Packed Radical Mini Mayhem! | 316590 | [316590-the-noises-jam-packed-radical-mini-mayhem.json](./316590-the-noises-jam-packed-radical-mini-mayhem.json) |
 | The Nom: Complete Edition | 289193 | [289193-the-nom-complete-edition.json](./289193-the-nom-complete-edition.json) |
 | The Nomads of Dragon Storms | 146591 | [146591-the-nomads-of-dragon-storms.json](./146591-the-nomads-of-dragon-storms.json) |
 | The Noodle | 108223 | [108223-the-noodle.json](./108223-the-noodle.json) |
@@ -15040,6 +15042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Throne of Bernicia | 191173 | [191173-the-throne-of-bernicia.json](./191173-the-throne-of-bernicia.json) |
+| The Throne of the Monster | 316666 | [316666-the-throne-of-the-monster.json](./316666-the-throne-of-the-monster.json) |
 | The Throng | 335304 | [335304-the-throng.json](./335304-the-throng.json) |
 | The Thundermans: Dr. Colosso On The Run | 258358 | [258358-the-thundermans-dr-colosso-on-the-run.json](./258358-the-thundermans-dr-colosso-on-the-run.json) |
 | The Thundermans: Heroes & Villains Unite | 258310 | [258310-the-thundermans-heroes-and-villains-unite.json](./258310-the-thundermans-heroes-and-villains-unite.json) |
@@ -15456,6 +15459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trolling Adventure | 384008 | [384008-the-trolling-adventure.json](./384008-the-trolling-adventure.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
+| The Trouble: Defense | 316661 | [316661-the-trouble-defense.json](./316661-the-trouble-defense.json) |
 | The Truck Game | 114250 | [114250-the-truck-game.json](./114250-the-truck-game.json) |
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
 | The True Love Rings | 220514 | [220514-the-true-love-rings.json](./220514-the-true-love-rings.json) |
@@ -22042,6 +22046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toshiue Kanojo | 317092 | [317092-toshiue-kanojo.json](./317092-toshiue-kanojo.json) |
 | Toshiue Kanojo 2 | 392966 | [392966-toshiue-kanojo-2.json](./392966-toshiue-kanojo-2.json) |
 | Toshiue Kanojo no Amayaka Dousei | 402711 | [402711-toshiue-kanojo-no-amayaka-dousei.json](./402711-toshiue-kanojo-no-amayaka-dousei.json) |
+| Toshokan de ha Oshiuka ni. | 316671 | [316671-toshokan-de-ha-oshiuka-ni.json](./316671-toshokan-de-ha-oshiuka-ni.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
 | Toss | 402223 | [402223-toss.json](./402223-toss.json) |
@@ -22654,6 +22659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
 | Touhou Seicross | 204492 | [204492-touhou-seicross.json](./204492-touhou-seicross.json) |
 | Touhou Seikaen: Blue devil in the Belvedere | 148365 | [148365-touhou-seikaen-blue-devil-in-the-belvedere.json](./148365-touhou-seikaen-blue-devil-in-the-belvedere.json) |
+| Touhou Seisenei: Forlorn Souls of Wicked Past | 316659 | [316659-touhou-seisenei-forlorn-souls-of-wicked-past.json](./316659-touhou-seisenei-forlorn-souls-of-wicked-past.json) |
 | Touhou Shifuujou: The Alternative Age | 283830 | [283830-touhou-shifuujou-the-alternative-age.json](./283830-touhou-shifuujou-the-alternative-age.json) |
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
 | Touhou Shinmadan: The Ancient Square | 335061 | [335061-touhou-shinmadan-the-ancient-square.json](./335061-touhou-shinmadan-the-ancient-square.json) |
@@ -25337,6 +25343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transworld Surf: Next Wave | 69158 | [69158-transworld-surf-next-wave.json](./69158-transworld-surf-next-wave.json) |
 | Transylmania | 267402 | [267402-transylmania.json](./267402-transylmania.json) |
 | Transylmania Deluxe | 265880 | [265880-transylmania-deluxe.json](./265880-transylmania-deluxe.json) |
+| Transylmania Deluxe: SAGE 2024 Edition | 316591 | [316591-transylmania-deluxe-sage-2024-edition.json](./316591-transylmania-deluxe-sage-2024-edition.json) |
 | Transylmania II: The Vampire Bites Back! | 267416 | [267416-transylmania-ii-the-vampire-bites-back.json](./267416-transylmania-ii-the-vampire-bites-back.json) |
 | Transylmania: Retro Edition | 368790 | [368790-transylmania-retro-edition.json](./368790-transylmania-retro-edition.json) |
 | Transylvania | 12262 | [12262-transylvania.json](./12262-transylvania.json) |
@@ -26288,6 +26295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio Adventures | 111456 | [111456-trio-adventures.json](./111456-trio-adventures.json) |
 | Trio Infernale | 122138 | [122138-trio-infernale.json](./122138-trio-infernale.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
+| Trio Triado The Game | 316592 | [316592-trio-triado-the-game.json](./316592-trio-triado-the-game.json) |
 | Triogram | 421187 | [421187-triogram.json](./421187-triogram.json) |
 | Trioncube | 21547 | [21547-trioncube.json](./21547-trioncube.json) |
 | Trionix | 91287 | [91287-trionix.json](./91287-trionix.json) |
@@ -27131,6 +27139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsos | 191580 | [191580-tsos.json](./191580-tsos.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
 | Tsubaki to One Room: Kizuna Kirameku Koi Iroha SS | 371594 | [371594-tsubaki-to-one-room-kizuna-kirameku-koi-iroha-ss.json](./371594-tsubaki-to-one-room-kizuna-kirameku-koi-iroha-ss.json) |
+| Tsubame no Sedai | 316672 | [316672-tsubame-no-sedai.json](./316672-tsubame-no-sedai.json) |
 | Tsubasa Chronicle | 68230 | [68230-tsubasa-chronicle.json](./68230-tsubasa-chronicle.json) |
 | Tsubasa Chronicle Vol. 2 | 124108 | [124108-tsubasa-chronicle-vol-2.json](./124108-tsubasa-chronicle-vol-2.json) |
 | Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
