@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Bowling: Collector's Edition | 61343 | [61343-elf-bowling-collectors-edition.json](./61343-elf-bowling-collectors-edition.json) |
 | Elf Cat Jeff | 185425 | [185425-elf-cat-jeff.json](./185425-elf-cat-jeff.json) |
 | Elf Clash | 349741 | [349741-elf-clash.json](./349741-elf-clash.json) |
+| Elf Defense | 303995 | [303995-elf-defense.json](./303995-elf-defense.json) |
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
 | Elf Gets Pissed | 261183 | [261183-elf-gets-pissed.json](./261183-elf-gets-pissed.json) |
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
@@ -5349,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka | 220015 | [220015-eureka.json](./220015-eureka.json) |
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
 | Eureka | 322573 | [322573-eureka.json](./322573-eureka.json) |
+| Eureka fountains | 304083 | [304083-eureka-fountains.json](./304083-eureka-fountains.json) |
 | Eureka Seven AO: Jungfrau no Hanabanatachi | 44590 | [44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json](./44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json) |
 | Eureka Seven Vol. 2: The New Vision | 21439 | [21439-eureka-seven-vol-2-the-new-vision.json](./21439-eureka-seven-vol-2-the-new-vision.json) |
 | Eureka Seven Vol.1: The New Wave | 19641 | [19641-eureka-seven-vol-1-the-new-wave.json](./19641-eureka-seven-vol-1-the-new-wave.json) |
