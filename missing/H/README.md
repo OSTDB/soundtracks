@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
 | Half-Life 2: MMod - Minerva | 270708 | [270708-half-life-2-mmod-minerva.json](./270708-half-life-2-mmod-minerva.json) |
 | Half-Life 2: Survivor | 320851 | [320851-half-life-2-survivor.json](./320851-half-life-2-survivor.json) |
+| Half-Life 2: Very Hard Mod | 287486 | [287486-half-life-2-very-hard-mod.json](./287486-half-life-2-very-hard-mod.json) |
 | Half-Life 2: VR Mod | 28827 | [28827-half-life-2-vr-mod.json](./28827-half-life-2-vr-mod.json) |
 | Half-Life 2: VR Mod - Episode One | 243118 | [243118-half-life-2-vr-mod-episode-one.json](./243118-half-life-2-vr-mod-episode-one.json) |
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
@@ -5630,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexoJago | 286772 | [286772-hexojago.json](./286772-hexojago.json) |
 | Hexologic | 86323 | [86323-hexologic.json](./86323-hexologic.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
+| HexOn | 287479 | [287479-hexon.json](./287479-hexon.json) |
 | Hexonaut | 293168 | [293168-hexonaut.json](./293168-hexonaut.json) |
 | Hexonex | 169658 | [169658-hexonex.json](./169658-hexonex.json) |
 | Hexonia | 153775 | [153775-hexonia.json](./153775-hexonia.json) |
@@ -6462,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Secret Romance | 298920 | [298920-high-school-secret-romance.json](./298920-high-school-secret-romance.json) |
 | High School Simulator 2017 | 286757 | [286757-high-school-simulator-2017.json](./286757-high-school-simulator-2017.json) |
 | High School Simulator 2018 | 80997 | [80997-high-school-simulator-2018.json](./80997-high-school-simulator-2018.json) |
+| High School Simulator 2019 | 287602 | [287602-high-school-simulator-2019.json](./287602-high-school-simulator-2019.json) |
 | High School Story | 39189 | [39189-high-school-story.json](./39189-high-school-story.json) |
 | High School Story: Book 1 | 313626 | [313626-high-school-story-book-1.json](./313626-high-school-story-book-1.json) |
 | High School Story: Book 2 | 313627 | [313627-high-school-story-book-2.json](./313627-high-school-story-book-2.json) |
@@ -10312,6 +10315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters of Idlearth | 348371 | [348371-hunters-of-idlearth.json](./348371-hunters-of-idlearth.json) |
 | Hunters of Ralk | 291016 | [291016-hunters-of-ralk.json](./291016-hunters-of-ralk.json) |
 | Hunters of the Dead | 17749 | [17749-hunters-of-the-dead.json](./17749-hunters-of-the-dead.json) |
+| Hunters On-Chain | 287483 | [287483-hunters-on-chain.json](./287483-hunters-on-chain.json) |
 | Hunters War | 124592 | [124592-hunters-war.json](./124592-hunters-war.json) |
 | Hunters: Episode One | 63800 | [63800-hunters-episode-one.json](./63800-hunters-episode-one.json) |
 | Hunters: Relic Of Stars | 395485 | [395485-hunters-relic-of-stars.json](./395485-hunters-relic-of-stars.json) |
