@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bunnies 3 | 287070 | [287070-i-commissioned-some-bunnies-3.json](./287070-i-commissioned-some-bunnies-3.json) |
 | I Commissioned Some Bunnies 4 | 306437 | [306437-i-commissioned-some-bunnies-4.json](./306437-i-commissioned-some-bunnies-4.json) |
 | I Commissioned Some Bunnies 5 | 306438 | [306438-i-commissioned-some-bunnies-5.json](./306438-i-commissioned-some-bunnies-5.json) |
+| I Commissioned Some Bunnies 6 | 301228 | [301228-i-commissioned-some-bunnies-6.json](./301228-i-commissioned-some-bunnies-6.json) |
 | I Commissioned Some Butterflies | 270127 | [270127-i-commissioned-some-butterflies.json](./270127-i-commissioned-some-butterflies.json) |
 | I Commissioned Some Butterflies 2 | 302332 | [302332-i-commissioned-some-butterflies-2.json](./302332-i-commissioned-some-butterflies-2.json) |
 | I Commissioned Some Butterflies 4 | 315349 | [315349-i-commissioned-some-butterflies-4.json](./315349-i-commissioned-some-butterflies-4.json) |
@@ -4832,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Irian: City of Ruin | 370733 | [370733-irian-city-of-ruin.json](./370733-irian-city-of-ruin.json) |
 | Iridescent | 298667 | [298667-iridescent.json](./298667-iridescent.json) |
+| Iridescent | 301860 | [301860-iridescent.json](./301860-iridescent.json) |
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
 | Iridion 3D | 6449 | [6449-iridion-3d.json](./6449-iridion-3d.json) |
 | Iridis Alpha | 28570 | [28570-iridis-alpha.json](./28570-iridis-alpha.json) |
@@ -5546,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Runs Red | 117440 | [117440-it-runs-red.json](./117440-it-runs-red.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
 | IT Specialist Simulator | 346606 | [346606-it-specialist-simulator.json](./346606-it-specialist-simulator.json) |
+| It Started With Hairs | 301299 | [301299-it-started-with-hairs.json](./301299-it-started-with-hairs.json) |
 | IT Startup: Tech Fodder | 168121 | [168121-it-startup-tech-fodder.json](./168121-it-startup-tech-fodder.json) |
 | It Steals | 138512 | [138512-it-steals.json](./138512-it-steals.json) |
 | It sucks to be a succulent | 179668 | [179668-it-sucks-to-be-a-succulent.json](./179668-it-sucks-to-be-a-succulent.json) |
