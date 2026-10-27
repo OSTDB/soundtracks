@@ -12808,6 +12808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
 | Pro Virtual Racing | 356510 | [356510-pro-virtual-racing.json](./356510-pro-virtual-racing.json) |
+| Pro Wrestler Story | 332336 | [332336-pro-wrestler-story.json](./332336-pro-wrestler-story.json) |
 | Pro Wrestling | 18143 | [18143-pro-wrestling.json](./18143-pro-wrestling.json) |
 | Pro Wrestling | 9512 | [9512-pro-wrestling.json](./9512-pro-wrestling.json) |
 | Pro Wrestling Kentei DS | 66990 | [66990-pro-wrestling-kentei-ds.json](./66990-pro-wrestling-kentei-ds.json) |
@@ -15244,6 +15245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventure Blockle | 54529 | [54529-puzzle-adventure-blockle.json](./54529-puzzle-adventure-blockle.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures Bundle 4 in 1 | 368085 | [368085-puzzle-adventures-bundle-4-in-1.json](./368085-puzzle-adventures-bundle-4-in-1.json) |
+| Puzzle Adventures: Farm Animals | 332335 | [332335-puzzle-adventures-farm-animals.json](./332335-puzzle-adventures-farm-animals.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Adventures: Sea Animals | 329424 | [329424-puzzle-adventures-sea-animals.json](./329424-puzzle-adventures-sea-animals.json) |
 | Puzzle Adventures: Serve Dishes | 329429 | [329429-puzzle-adventures-serve-dishes.json](./329429-puzzle-adventures-serve-dishes.json) |
