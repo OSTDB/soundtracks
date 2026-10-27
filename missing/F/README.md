@@ -10255,6 +10255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Detective -1 | 325675 | [325675-frog-detective-1.json](./325675-frog-detective-1.json) |
 | Frog Detective 2: The Case of the Invisible Wizard | 121338 | [121338-frog-detective-2-the-case-of-the-invisible-wizard.json](./121338-frog-detective-2-the-case-of-the-invisible-wizard.json) |
 | Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
+| Frog Escape | 324288 | [324288-frog-escape.json](./324288-frog-escape.json) |
 | Frog Fable | 95971 | [95971-frog-fable.json](./95971-frog-fable.json) |
 | Frog Fall | 410328 | [410328-frog-fall.json](./410328-frog-fall.json) |
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
