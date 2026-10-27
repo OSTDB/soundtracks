@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-commerce Simulator | 303507 | [303507-e-commerce-simulator.json](./303507-e-commerce-simulator.json) |
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
 | E-FCC | 311742 | [311742-e-fcc.json](./311742-e-fcc.json) |
+| E-Girl RoomMate | 290908 | [290908-e-girl-roommate.json](./290908-e-girl-roommate.json) |
 | E-gon Adventures | 340538 | [340538-e-gon-adventures.json](./340538-e-gon-adventures.json) |
 | E-mail clue | 200388 | [200388-e-mail-clue.json](./200388-e-mail-clue.json) |
 | E-mail Football | 200386 | [200386-e-mail-football.json](./200386-e-mail-football.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Launch Edition | 180259 | [180259-elden-ring-launch-edition.json](./180259-elden-ring-launch-edition.json) |
 | Elden Ring: Nightreign - Seeker's Edition | 375852 | [375852-elden-ring-nightreign-seekers-edition.json](./375852-elden-ring-nightreign-seekers-edition.json) |
 | Elden Ring: Shadow of the Erdtree - Collector's Edition | 288654 | [288654-elden-ring-shadow-of-the-erdtree-collectors-edition.json](./288654-elden-ring-shadow-of-the-erdtree-collectors-edition.json) |
+| Elden Ring: Shadow of the Erdtree - Premium Bundle | 290894 | [290894-elden-ring-shadow-of-the-erdtree-premium-bundle.json](./290894-elden-ring-shadow-of-the-erdtree-premium-bundle.json) |
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
 | Elden Ring: Tarnished Edition | 338079 | [338079-elden-ring-tarnished-edition.json](./338079-elden-ring-tarnished-edition.json) |
 | Elden Sword | 371122 | [371122-elden-sword.json](./371122-elden-sword.json) |
@@ -6475,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit From | 119692 | [119692-exit-from.json](./119692-exit-from.json) |
 | Exit From: Director's Cut | 252014 | [252014-exit-from-directors-cut.json](./252014-exit-from-directors-cut.json) |
 | Exit Kun | 285666 | [285666-exit-kun.json](./285666-exit-kun.json) |
+| Exit Kun: Play Together | 290904 | [290904-exit-kun-play-together.json](./290904-exit-kun-play-together.json) |
 | Exit Lab 15 Rooms | 390525 | [390525-exit-lab-15-rooms.json](./390525-exit-lab-15-rooms.json) |
 | Exit Lab Beginner Level | 390494 | [390494-exit-lab-beginner-level.json](./390494-exit-lab-beginner-level.json) |
 | Exit Lab Expert Level | 390493 | [390493-exit-lab-expert-level.json](./390493-exit-lab-expert-level.json) |
