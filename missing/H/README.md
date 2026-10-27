@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangover | 389994 | [389994-hangover.json](./389994-hangover.json) |
 | Hangover | 81824 | [81824-hangover.json](./81824-hangover.json) |
 | Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
+| Hangry | 291440 | [291440-hangry.json](./291440-hangry.json) |
 | Hangry Bunnies From Mars | 54698 | [54698-hangry-bunnies-from-mars.json](./54698-hangry-bunnies-from-mars.json) |
 | Hangtime! | 373342 | [373342-hangtime.json](./373342-hangtime.json) |
 | HangTogether | 161633 | [161633-hangtogether.json](./161633-hangtogether.json) |
@@ -2990,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Incremental | 366965 | [366965-heat-incremental.json](./366965-heat-incremental.json) |
 | Heat Index | 338278 | [338278-heat-index.json](./338278-heat-index.json) |
 | Heat Me Up! | 378385 | [378385-heat-me-up.json](./378385-heat-me-up.json) |
+| Heat or Die | 291496 | [291496-heat-or-die.json](./291496-heat-or-die.json) |
 | Heat Project 2 | 140225 | [140225-heat-project-2.json](./140225-heat-project-2.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
@@ -5047,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Adventure: Road to Passion | 275459 | [275459-heros-adventure-road-to-passion.json](./275459-heros-adventure-road-to-passion.json) |
 | Hero's Adventure: The Great Conquest | 322620 | [322620-heros-adventure-the-great-conquest.json](./322620-heros-adventure-the-great-conquest.json) |
 | Hero's Arms | 346633 | [346633-heros-arms.json](./346633-heros-arms.json) |
+| Hero's black dungeon | 291407 | [291407-heros-black-dungeon.json](./291407-heros-black-dungeon.json) |
 | Hero's Delirium | 266758 | [266758-heros-delirium.json](./266758-heros-delirium.json) |
 | Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
 | Hero's Destiny | 396481 | [396481-heros-destiny.json](./396481-heros-destiny.json) |
@@ -5782,8 +5785,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Capybaras with Orange | 279502 | [279502-hidden-capybaras-with-orange.json](./279502-hidden-capybaras-with-orange.json) |
 | Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition | 320320 | [320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json](./320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
+| Hidden Cat Outlaws | 291414 | [291414-hidden-cat-outlaws.json](./291414-hidden-cat-outlaws.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
+| Hidden Cats in Berlin | 291421 | [291421-hidden-cats-in-berlin.json](./291421-hidden-cats-in-berlin.json) |
 | Hidden Cats In ButtonWood Street | 322033 | [322033-hidden-cats-in-buttonwood-street.json](./322033-hidden-cats-in-buttonwood-street.json) |
 | Hidden Cats in Christmas | 379445 | [379445-hidden-cats-in-christmas.json](./379445-hidden-cats-in-christmas.json) |
 | Hidden Cats In Fallen Leaves Town | 311486 | [311486-hidden-cats-in-fallen-leaves-town.json](./311486-hidden-cats-in-fallen-leaves-town.json) |
@@ -5841,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Desert War: Top-Down 3D | 204829 | [204829-hidden-desert-war-top-down-3d.json](./204829-hidden-desert-war-top-down-3d.json) |
 | Hidden Desire | 220035 | [220035-hidden-desire.json](./220035-hidden-desire.json) |
 | Hidden Dimensions 3 | 31191 | [31191-hidden-dimensions-3.json](./31191-hidden-dimensions-3.json) |
+| Hidden Dino Cats: Bonus Level | 291413 | [291413-hidden-dino-cats-bonus-level.json](./291413-hidden-dino-cats-bonus-level.json) |
 | Hidden Dogs | 333412 | [333412-hidden-dogs.json](./333412-hidden-dogs.json) |
 | Hidden Door | 360519 | [360519-hidden-door.json](./360519-hidden-door.json) |
 | Hidden Dose | 184598 | [184598-hidden-dose.json](./184598-hidden-dose.json) |
@@ -6158,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Photo | 84520 | [84520-hidden-photo.json](./84520-hidden-photo.json) |
 | Hidden Photo Mysteries: The Truth Gets Scary | 415060 | [415060-hidden-photo-mysteries-the-truth-gets-scary.json](./415060-hidden-photo-mysteries-the-truth-gets-scary.json) |
 | Hidden Pictures Puzzle Play | 106751 | [106751-hidden-pictures-puzzle-play.json](./106751-hidden-pictures-puzzle-play.json) |
+| Hidden Pirates Top-Down 3D | 291415 | [291415-hidden-pirates-top-down-3d.json](./291415-hidden-pirates-top-down-3d.json) |
 | Hidden Pleasure: Closer and Closer | 409531 | [409531-hidden-pleasure-closer-and-closer.json](./409531-hidden-pleasure-closer-and-closer.json) |
 | Hidden Pleasure: Deeper and Deeper | 410385 | [410385-hidden-pleasure-deeper-and-deeper.json](./410385-hidden-pleasure-deeper-and-deeper.json) |
 | Hidden Pleasure: Faster and Faster | 403714 | [403714-hidden-pleasure-faster-and-faster.json](./403714-hidden-pleasure-faster-and-faster.json) |
@@ -6251,10 +6258,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World War II: Top-Down 3D | 269976 | [269976-hidden-world-war-ii-top-down-3d.json](./269976-hidden-world-war-ii-top-down-3d.json) |
 | Hidden Worlds Bundle | 328520 | [328520-hidden-worlds-bundle.json](./328520-hidden-worlds-bundle.json) |
 | HiddenFrog | 186124 | [186124-hiddenfrog.json](./186124-hiddenfrog.json) |
+| HiddenLight | 291424 | [291424-hiddenlight.json](./291424-hiddenlight.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
 | HiddenSet | 311872 | [311872-hiddenset.json](./311872-hiddenset.json) |
 | Hiddenverse: Ariadna Dreaming | 203374 | [203374-hiddenverse-ariadna-dreaming.json](./203374-hiddenverse-ariadna-dreaming.json) |
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
+| Hiddenverse: Kingdom Fall | 291418 | [291418-hiddenverse-kingdom-fall.json](./291418-hiddenverse-kingdom-fall.json) |
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
 | Hide | 183997 | [183997-hide.json](./183997-hide.json) |
