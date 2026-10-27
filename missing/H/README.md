@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
 | Harry Buster | 218539 | [218539-harry-buster.json](./218539-harry-buster.json) |
 | Harry Is A Porter | 212112 | [212112-harry-is-a-porter.json](./212112-harry-is-a-porter.json) |
+| Harry McLinestrider | 330098 | [330098-harry-mclinestrider.json](./330098-harry-mclinestrider.json) |
 | Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
 | Harry Potter | 248180 | [248180-harry-potter.json](./248180-harry-potter.json) |
 | Harry Potter and the Chamber of Secrets | 117322 | [117322-harry-potter-and-the-chamber-of-secrets.json](./117322-harry-potter-and-the-chamber-of-secrets.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haze Man: The Local Hero | 327952 | [327952-haze-man-the-local-hero.json](./327952-haze-man-the-local-hero.json) |
 | Haze of Lucidity: The Fish | 390087 | [390087-haze-of-lucidity-the-fish.json](./390087-haze-of-lucidity-the-fish.json) |
 | Haze Together | 411047 | [411047-haze-together.json](./411047-haze-together.json) |
+| Haze's Hectic Halloween Happenstance | 330054 | [330054-hazes-hectic-halloween-happenstance.json](./330054-hazes-hectic-halloween-happenstance.json) |
 | Hazel | 227930 | [227930-hazel.json](./227930-hazel.json) |
 | Hazel & The Deep | 321024 | [321024-hazel-and-the-deep.json](./321024-hazel-and-the-deep.json) |
 | Hazel Rush | 413010 | [413010-hazel-rush.json](./413010-hazel-rush.json) |
@@ -5867,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Vampire Secrets | 60831 | [60831-hidden-mysteries-vampire-secrets.json](./60831-hidden-mysteries-vampire-secrets.json) |
 | Hidden Mystery: Triple pack | 130658 | [130658-hidden-mystery-triple-pack.json](./130658-hidden-mystery-triple-pack.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
+| Hidden Nemesis | 330636 | [330636-hidden-nemesis.json](./330636-hidden-nemesis.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object - 12 in 1 bundle | 90581 | [90581-hidden-object-12-in-1-bundle.json](./90581-hidden-object-12-in-1-bundle.json) |
 | Hidden Object - Home Makeover | 71572 | [71572-hidden-object-home-makeover.json](./71572-hidden-object-home-makeover.json) |
@@ -6688,6 +6691,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Him & I | 123545 | [123545-him-and-i.json](./123545-him-and-i.json) |
 | Him, the Smile & Bloom | 315911 | [315911-him-the-smile-and-bloom.json](./315911-him-the-smile-and-bloom.json) |
+| Him, the Smile & Bloom Bundle | 330632 | [330632-him-the-smile-and-bloom-bundle.json](./330632-him-the-smile-and-bloom-bundle.json) |
+| Him, the Smile & Bloom: Additional scenario - Flower Halloween Night | 330625 | [330625-him-the-smile-and-bloom-additional-scenario-flower-halloween-night.json](./330625-him-the-smile-and-bloom-additional-scenario-flower-halloween-night.json) |
 | HimaNatsu: Of Churches, Sunflowers, and Long Summers | 410423 | [410423-himanatsu-of-churches-sunflowers-and-long-summers.json](./410423-himanatsu-of-churches-sunflowers-and-long-summers.json) |
 | Himawari | 59462 | [59462-himawari.json](./59462-himawari.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
@@ -9436,6 +9441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to create a witch | 380544 | [380544-how-to-create-a-witch.json](./380544-how-to-create-a-witch.json) |
 | How to Date a Magical Girl! | 107882 | [107882-how-to-date-a-magical-girl.json](./107882-how-to-date-a-magical-girl.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
+| How to Date an Entity (and stay alive) | 330072 | [330072-how-to-date-an-entity-and-stay-alive.json](./330072-how-to-date-an-entity-and-stay-alive.json) |
 | How to Destroy a City | 408080 | [408080-how-to-destroy-a-city.json](./408080-how-to-destroy-a-city.json) |
 | How to Die in a Morgue | 108167 | [108167-how-to-die-in-a-morgue.json](./108167-how-to-die-in-a-morgue.json) |
 | How to Die. | 218131 | [218131-how-to-die.json](./218131-how-to-die.json) |
