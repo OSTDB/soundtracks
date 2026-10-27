@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papo Town Clinic | 299235 | [299235-papo-town-clinic.json](./299235-papo-town-clinic.json) |
 | Papo Town Countries | 299283 | [299283-papo-town-countries.json](./299283-papo-town-countries.json) |
 | Papo Town Dessert Shop | 299276 | [299276-papo-town-dessert-shop.json](./299276-papo-town-dessert-shop.json) |
+| Papo Town Fairy Princess | 299196 | [299196-papo-town-fairy-princess.json](./299196-papo-town-fairy-princess.json) |
 | Papo Town Fairytales | 299251 | [299251-papo-town-fairytales.json](./299251-papo-town-fairytales.json) |
 | Papo Town Farm | 299250 | [299250-papo-town-farm.json](./299250-papo-town-farm.json) |
 | Papo Town Fire Department | 299245 | [299245-papo-town-fire-department.json](./299245-papo-town-fire-department.json) |
@@ -1944,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paratroopers Raid | 316563 | [316563-paratroopers-raid.json](./316563-paratroopers-raid.json) |
 | Paravalence: With My Angel | 378975 | [378975-paravalence-with-my-angel.json](./378975-paravalence-with-my-angel.json) |
 | Paravoid | 384046 | [384046-paravoid.json](./384046-paravoid.json) |
+| Paravox | 299089 | [299089-paravox.json](./299089-paravox.json) |
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
 | Parcel | 17699 | [17699-parcel.json](./17699-parcel.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
@@ -5246,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
 | Pictlogica: Final Fantasy | 36998 | [36998-pictlogica-final-fantasy.json](./36998-pictlogica-final-fantasy.json) |
 | Picto-Cross: 1 Nonogram per Day | 390035 | [390035-picto-cross-1-nonogram-per-day.json](./390035-picto-cross-1-nonogram-per-day.json) |
+| PictoChat | 297998 | [297998-pictochat.json](./297998-pictochat.json) |
 | Pictode Collection | 201983 | [201983-pictode-collection.json](./201983-pictode-collection.json) |
 | Pictoglyph | 157920 | [157920-pictoglyph.json](./157920-pictoglyph.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
@@ -5915,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: The Machine - Bride of Pin Bot️ | 239023 | [239023-pinball-fx-the-machine-bride-of-pin-bot.json](./239023-pinball-fx-the-machine-bride-of-pin-bot.json) |
 | Pinball FX: The Princess Bride Pinball | 316244 | [316244-pinball-fx-the-princess-bride-pinball.json](./316244-pinball-fx-the-princess-bride-pinball.json) |
 | Pinball FX: Universal Classics Pinball | 239022 | [239022-pinball-fx-universal-classics-pinball.json](./239022-pinball-fx-universal-classics-pinball.json) |
+| Pinball FX: Universal Pinball - TV Classics | 298083 | [298083-pinball-fx-universal-pinball-tv-classics.json](./298083-pinball-fx-universal-pinball-tv-classics.json) |
 | Pinball FX: Williams Pinball - Anthology 1 | 375590 | [375590-pinball-fx-williams-pinball-anthology-1.json](./375590-pinball-fx-williams-pinball-anthology-1.json) |
 | Pinball FX: Williams Pinball - Star Trek: The Next Generation | 261330 | [261330-pinball-fx-williams-pinball-star-trek-the-next-generation.json](./261330-pinball-fx-williams-pinball-star-trek-the-next-generation.json) |
 | Pinball FX: Williams Pinball - Swords of Fury | 239019 | [239019-pinball-fx-williams-pinball-swords-of-fury.json](./239019-pinball-fx-williams-pinball-swords-of-fury.json) |
@@ -6171,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Island | 150929 | [150929-pink-island.json](./150929-pink-island.json) |
 | Pink Light | 412897 | [412897-pink-light.json](./412897-pink-light.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
+| Pink Noise | 297975 | [297975-pink-noise.json](./297975-pink-noise.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
 | Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
 | Pink Panther: Pinkadelic Pursuit | 8108 | [8108-pink-panther-pinkadelic-pursuit.json](./8108-pink-panther-pinkadelic-pursuit.json) |
@@ -6545,6 +6550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Golden tits - Chapter 1 | 212956 | [212956-pirates-golden-tits-chapter-1.json](./212956-pirates-golden-tits-chapter-1.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
+| Pirates: Rogue's Fortune | 298072 | [298072-pirates-rogues-fortune.json](./298072-pirates-rogues-fortune.json) |
 | Pirates: The Key of Dreams | 21827 | [21827-pirates-the-key-of-dreams.json](./21827-pirates-the-key-of-dreams.json) |
 | Pirates: The Legend of Black Kat | 5983 | [5983-pirates-the-legend-of-black-kat.json](./5983-pirates-the-legend-of-black-kat.json) |
 | Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
@@ -6559,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piratopia: Raiders of Pirate Bay | 239585 | [239585-piratopia-raiders-of-pirate-bay.json](./239585-piratopia-raiders-of-pirate-bay.json) |
 | Pirofauna | 317189 | [317189-pirofauna.json](./317189-pirofauna.json) |
 | Piron Virus | 275091 | [275091-piron-virus.json](./275091-piron-virus.json) |
+| Piroot | 297977 | [297977-piroot.json](./297977-piroot.json) |
 | Piropa | 382587 | [382587-piropa.json](./382587-piropa.json) |
 | PiroPito | 276754 | [276754-piropito.json](./276754-piropito.json) |
 | Pirouette | 120666 | [120666-pirouette.json](./120666-pirouette.json) |
@@ -6655,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitman | 76178 | [76178-pitman.json](./76178-pitman.json) |
 | Pitstop Challenge | 25444 | [25444-pitstop-challenge.json](./25444-pitstop-challenge.json) |
 | Pitstop II | 24660 | [24660-pitstop-ii.json](./24660-pitstop-ii.json) |
+| Pitta | 297976 | [297976-pitta.json](./297976-pitta.json) |
 | PitterPot | 110811 | [110811-pitterpot.json](./110811-pitterpot.json) |
 | Pittsfield | 98322 | [98322-pittsfield.json](./98322-pittsfield.json) |
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
@@ -6798,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cup Soccer 17 | 32354 | [32354-pixel-cup-soccer-17.json](./32354-pixel-cup-soccer-17.json) |
 | Pixel Cup Soccer: Ultimate Edition | 158544 | [158544-pixel-cup-soccer-ultimate-edition.json](./158544-pixel-cup-soccer-ultimate-edition.json) |
 | Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
+| Pixel Defender | 298078 | [298078-pixel-defender.json](./298078-pixel-defender.json) |
 | Pixel Defenders Puzzle | 22154 | [22154-pixel-defenders-puzzle.json](./22154-pixel-defenders-puzzle.json) |
 | Pixel Demolish | 220066 | [220066-pixel-demolish.json](./220066-pixel-demolish.json) |
 | Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
@@ -8453,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Help Me! I'm Stuck In Esoteric Prime Number Hell! | 339869 | [339869-please-help-me-im-stuck-in-esoteric-prime-number-hell.json](./339869-please-help-me-im-stuck-in-esoteric-prime-number-hell.json) |
 | Please Hold Me | 132556 | [132556-please-hold-me.json](./132556-please-hold-me.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
+| Please Insert Disc | 298080 | [298080-please-insert-disc.json](./298080-please-insert-disc.json) |
 | Please Knock on My Door | 29064 | [29064-please-knock-on-my-door.json](./29064-please-knock-on-my-door.json) |
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
 | Please Leave Me Alone | 301948 | [301948-please-leave-me-alone.json](./301948-please-leave-me-alone.json) |
@@ -8537,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ploid Saga | 132628 | [132628-ploid-saga.json](./132628-ploid-saga.json) |
 | Plokoth | 133315 | [133315-plokoth.json](./133315-plokoth.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
+| Plop, Fizz, Boom! | 297418 | [297418-plop-fizz-boom.json](./297418-plop-fizz-boom.json) |
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
 | Plot | 68748 | [68748-plot.json](./68748-plot.json) |
 | Plot Armor | 123422 | [123422-plot-armor.json](./123422-plot-armor.json) |
@@ -9088,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Abismal | 314717 | [314717-pokemon-abismal.json](./314717-pokemon-abismal.json) |
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
 | Pokémon Adventures: Red Chapter | 145931 | [145931-pokemon-adventures-red-chapter.json](./145931-pokemon-adventures-red-chapter.json) |
+| Pokémon Africanus | 298010 | [298010-pokemon-africanus.json](./298010-pokemon-africanus.json) |
 | Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
 | Pokémon All In Version | 410794 | [410794-pokemon-all-in-version.json](./410794-pokemon-all-in-version.json) |
 | Pokémon Alpha Sapphire | 6898 | [6898-pokemon-alpha-sapphire.json](./6898-pokemon-alpha-sapphire.json) |
@@ -12534,6 +12546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Heart | 283127 | [283127-prism-heart.json](./283127-prism-heart.json) |
 | Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
+| Prism Indigo | 297421 | [297421-prism-indigo.json](./297421-prism-indigo.json) |
 | Prism Indigo DX | 298242 | [298242-prism-indigo-dx.json](./298242-prism-indigo-dx.json) |
 | Prism Panic | 396707 | [396707-prism-panic.json](./396707-prism-panic.json) |
 | Prism Pets | 85349 | [85349-prism-pets.json](./85349-prism-pets.json) |
@@ -13108,6 +13121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
 | Professor Pemda's Puzzle Pyramid | 362794 | [362794-professor-pemdas-puzzle-pyramid.json](./362794-professor-pemdas-puzzle-pyramid.json) |
+| Professor Quackerton in: The Locked Birdhouse | 299116 | [299116-professor-quackerton-in-the-locked-birdhouse.json](./299116-professor-quackerton-in-the-locked-birdhouse.json) |
 | Professor Rubik's Brain Fitness | 139058 | [139058-professor-rubiks-brain-fitness.json](./139058-professor-rubiks-brain-fitness.json) |
 | Professor Simulator | 373873 | [373873-professor-simulator.json](./373873-professor-simulator.json) |
 | Professor Watts Memory Match: Cats | 109400 | [109400-professor-watts-memory-match-cats.json](./109400-professor-watts-memory-match-cats.json) |
