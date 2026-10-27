@@ -5658,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Lost | 155889 | [155889-shadow-lost.json](./155889-shadow-lost.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
 | Shadow Man: 2econd Coming | 3599 | [3599-shadow-man-2econd-coming.json](./3599-shadow-man-2econd-coming.json) |
+| Shadow Mansion | 306385 | [306385-shadow-mansion.json](./306385-shadow-mansion.json) |
 | Shadow Mansion 2 | 374144 | [374144-shadow-mansion-2.json](./374144-shadow-mansion-2.json) |
 | Shadow Mantis | 377086 | [377086-shadow-mantis.json](./377086-shadow-mantis.json) |
 | Shadow Matching Puzzles | 231904 | [231904-shadow-matching-puzzles.json](./231904-shadow-matching-puzzles.json) |
@@ -18515,6 +18516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinners | 309945 | [309945-spinners.json](./309945-spinners.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
+| Spinning Battles | 306323 | [306323-spinning-battles.json](./306323-spinning-battles.json) |
 | Spinning Image | 408487 | [408487-spinning-image.json](./408487-spinning-image.json) |
 | Spinning Maze | 31581 | [31581-spinning-maze.json](./31581-spinning-maze.json) |
 | Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
@@ -20451,6 +20453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Overhead | 274357 | [274357-star-overhead.json](./274357-star-overhead.json) |
 | Star Pagga | 63226 | [63226-star-pagga.json](./63226-star-pagga.json) |
 | Star Parodier | 37605 | [37605-star-parodier.json](./37605-star-parodier.json) |
+| Star Patrol Nova | 306399 | [306399-star-patrol-nova.json](./306399-star-patrol-nova.json) |
 | Star Paws | 47175 | [47175-star-paws.json](./47175-star-paws.json) |
 | Star Periphery | 354202 | [354202-star-periphery.json](./354202-star-periphery.json) |
 | Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
@@ -25739,6 +25742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Farm | 333005 | [333005-sunshine-farm.json](./333005-sunshine-farm.json) |
 | Sunshine Gravy: Fall | 364842 | [364842-sunshine-gravy-fall.json](./364842-sunshine-gravy-fall.json) |
 | Sunshine Heavy Industries | 146834 | [146834-sunshine-heavy-industries.json](./146834-sunshine-heavy-industries.json) |
+| Sunshine In WoozaVille! | 306397 | [306397-sunshine-in-woozaville.json](./306397-sunshine-in-woozaville.json) |
 | Sunshine Island | 237647 | [237647-sunshine-island.json](./237647-sunshine-island.json) |
 | Sunshine Love | 342763 | [342763-sunshine-love.json](./342763-sunshine-love.json) |
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
