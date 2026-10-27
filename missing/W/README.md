@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wex | 415847 | [415847-wex.json](./415847-wex.json) |
 | Wexew Mexem | 253783 | [253783-wexew-mexem.json](./253783-wexew-mexem.json) |
 | Weyrdlets: Fishing & Friends - Summer Update | 347863 | [347863-weyrdlets-fishing-and-friends-summer-update.json](./347863-weyrdlets-fishing-and-friends-summer-update.json) |
+| Weyrdlets: Frosty Festivities | 327123 | [327123-weyrdlets-frosty-festivities.json](./327123-weyrdlets-frosty-festivities.json) |
 | Weyrwood | 112923 | [112923-weyrwood.json](./112923-weyrwood.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WFO World Football Online | 215649 | [215649-wfo-world-football-online.json](./215649-wfo-world-football-online.json) |
@@ -4789,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Child | 34632 | [34632-wind-child.json](./34632-wind-child.json) |
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
 | Wind Fantasy II: Alive | 350516 | [350516-wind-fantasy-ii-alive.json](./350516-wind-fantasy-ii-alive.json) |
+| Wind Fantasy: NeXus | 327139 | [327139-wind-fantasy-nexus.json](./327139-wind-fantasy-nexus.json) |
 | Wind Field | 292254 | [292254-wind-field.json](./292254-wind-field.json) |
 | Wind Force | 116984 | [116984-wind-force.json](./116984-wind-force.json) |
 | Wind from City | 149874 | [149874-wind-from-city.json](./149874-wind-from-city.json) |
