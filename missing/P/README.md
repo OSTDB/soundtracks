@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-in-Time | 282488 | [282488-pac-in-time.json](./282488-pac-in-time.json) |
 | Pac-In-Time | 242404 | [242404-pac-in-time.json](./242404-pac-in-time.json) |
 | Pac-In-Time | 242407 | [242407-pac-in-time.json](./242407-pac-in-time.json) |
+| Pac-Jr. | 284388 | [284388-pac-jr.json](./284388-pac-jr.json) |
 | Pac-Kong | 40581 | [40581-pac-kong.json](./40581-pac-kong.json) |
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 218351 | [218351-pac-land.json](./218351-pac-land.json) |
@@ -4525,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
 | Phantom Core 2 | 288639 | [288639-phantom-core-2.json](./288639-phantom-core-2.json) |
+| Phantom Core: The Moon Mission | 284176 | [284176-phantom-core-the-moon-mission.json](./284176-phantom-core-the-moon-mission.json) |
 | Phantom Dash | 302789 | [302789-phantom-dash.json](./302789-phantom-dash.json) |
 | Phantom Demon Siege | 345026 | [345026-phantom-demon-siege.json](./345026-phantom-demon-siege.json) |
 | Phantom Doctrine: Deluxe Edition | 107257 | [107257-phantom-doctrine-deluxe-edition.json](./107257-phantom-doctrine-deluxe-edition.json) |
@@ -8106,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies Garden Warfare 2: Deluxe Upgrade | 318695 | [318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json](./318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json) |
 | Plants vs. Zombies Hybrid Version | 324169 | [324169-plants-vs-zombies-hybrid-version.json](./324169-plants-vs-zombies-hybrid-version.json) |
 | Plants vs. Zombies Plus | 271938 | [271938-plants-vs-zombies-plus.json](./271938-plants-vs-zombies-plus.json) |
+| Plants vs. Zombies Presents: Talking Zombatar | 284386 | [284386-plants-vs-zombies-presents-talking-zombatar.json](./284386-plants-vs-zombies-presents-talking-zombatar.json) |
 | Plants vs. Zombies: Back to the Roots | 228263 | [228263-plants-vs-zombies-back-to-the-roots.json](./228263-plants-vs-zombies-back-to-the-roots.json) |
 | Plants vs. Zombies: Battle for Neighborville | 121618 | [121618-plants-vs-zombies-battle-for-neighborville.json](./121618-plants-vs-zombies-battle-for-neighborville.json) |
 | Plants vs. Zombies: Battle for Neighborville - Complete Edition | 142819 | [142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json](./142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json) |
@@ -8121,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Heroes | 25230 | [25230-plants-vs-zombies-heroes.json](./25230-plants-vs-zombies-heroes.json) |
 | Plants vs. Zombies: Match | 287877 | [287877-plants-vs-zombies-match.json](./287877-plants-vs-zombies-match.json) |
 | Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
+| Plants vs. Zombies: Project Hot Tub | 284391 | [284391-plants-vs-zombies-project-hot-tub.json](./284391-plants-vs-zombies-project-hot-tub.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plants War | 65331 | [65331-plants-war.json](./65331-plants-war.json) |
 | Plantsportation | 249930 | [249930-plantsportation.json](./249930-plantsportation.json) |
@@ -9923,6 +9927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Academy: Texas Hold'em 2 | 209350 | [209350-poker-academy-texas-holdem-2.json](./209350-poker-academy-texas-holdem-2.json) |
 | Poker Ball | 68542 | [68542-poker-ball.json](./68542-poker-ball.json) |
 | Poker Champion: Texas Hold'em | 163169 | [163169-poker-champion-texas-holdem.json](./163169-poker-champion-texas-holdem.json) |
+| Poker Championship | 284515 | [284515-poker-championship.json](./284515-poker-championship.json) |
 | Poker Chase | 166141 | [166141-poker-chase.json](./166141-poker-chase.json) |
 | Poker Clicker | 341566 | [341566-poker-clicker.json](./341566-poker-clicker.json) |
 | Poker Club | 138204 | [138204-poker-club.json](./138204-poker-club.json) |
