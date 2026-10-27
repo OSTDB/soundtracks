@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1days | 424687 | [424687-1days.json](./424687-1days.json) |
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
+| 1K Games | 319533 | [319533-1k-games.json](./319533-1k-games.json) |
 | 1K ZX Chess | 391019 | [391019-1k-zx-chess.json](./391019-1k-zx-chess.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
 | 1M84 | 173018 | [173018-1m84.json](./173018-1m84.json) |
@@ -2509,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Days a Sacrifice | 71502 | [71502-6-days-a-sacrifice.json](./71502-6-days-a-sacrifice.json) |
 | 6 Feet Under | 177938 | [177938-6-feet-under.json](./177938-6-feet-under.json) |
 | 6 ft Blunder | 307231 | [307231-6-ft-blunder.json](./307231-6-ft-blunder.json) |
+| 6 Games | 319562 | [319562-6-games.json](./319562-6-games.json) |
 | 6 Great Games: Windows XP Edition | 314719 | [314719-6-great-games-windows-xp-edition.json](./314719-6-great-games-windows-xp-edition.json) |
 | 6 Inch My Darling | 45449 | [45449-6-inch-my-darling.json](./45449-6-inch-my-darling.json) |
 | 6 Keys: The Gym | 370289 | [370289-6-keys-the-gym.json](./370289-6-keys-the-gym.json) |
