@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Aachen | 155135 | [155135-omsi-2-aachen.json](./155135-omsi-2-aachen.json) |
 | OMSI 2: Add-On - Man SL200 | 255076 | [255076-omsi-2-add-on-man-sl200.json](./255076-omsi-2-add-on-man-sl200.json) |
 | OMSI 2: Add-On Coachbus 303-Series | 253435 | [253435-omsi-2-add-on-coachbus-303-series.json](./253435-omsi-2-add-on-coachbus-303-series.json) |
+| OMSI 2: Add-on MAN Standardbus II | 286141 | [286141-omsi-2-add-on-man-standardbus-ii.json](./286141-omsi-2-add-on-man-standardbus-ii.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
 | OMSI 2: Agora Bus Family Citybus Vol. 1 | 266153 | [266153-omsi-2-agora-bus-family-citybus-vol-1.json](./266153-omsi-2-agora-bus-family-citybus-vol-1.json) |
 | OMSI 2: Bad Hügelsdorf 2020 | 155130 | [155130-omsi-2-bad-hugelsdorf-2020.json](./155130-omsi-2-bad-hugelsdorf-2020.json) |
@@ -4772,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdox | 130682 | [130682-overdox.json](./130682-overdox.json) |
 | Overdrawn | 361108 | [361108-overdrawn.json](./361108-overdrawn.json) |
 | OverDrift Festival | 155984 | [155984-overdrift-festival.json](./155984-overdrift-festival.json) |
+| OverDrift Festival: Damage Cars Pack | 286142 | [286142-overdrift-festival-damage-cars-pack.json](./286142-overdrift-festival-damage-cars-pack.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
 | OverDrift Festival: Exclusive Cars Pack#1 | 292672 | [292672-overdrift-festival-exclusive-cars-pack-1.json](./292672-overdrift-festival-exclusive-cars-pack-1.json) |
 | Overdrive | 12710 | [12710-overdrive.json](./12710-overdrive.json) |
