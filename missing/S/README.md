@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikoro Saiko: Memento Mori | 314824 | [314824-saikoro-saiko-memento-mori.json](./314824-saikoro-saiko-memento-mori.json) |
 | Saikoro Saiko: Miss Fortune | 314826 | [314826-saikoro-saiko-miss-fortune.json](./314826-saikoro-saiko-miss-fortune.json) |
 | Saikoro Saiko: Promises | 314825 | [314825-saikoro-saiko-promises.json](./314825-saikoro-saiko-promises.json) |
+| Saikuru | 287059 | [287059-saikuru.json](./287059-saikuru.json) |
 | Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
 | Saikyo Robots | 251824 | [251824-saikyo-robots.json](./251824-saikyo-robots.json) |
 | Saikyou Ginsei Chess | 83453 | [83453-saikyou-ginsei-chess.json](./83453-saikyou-ginsei-chess.json) |
@@ -9958,6 +9959,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sítio do Pica-Pau Amarelo | 81031 | [81031-sitio-do-pica-pau-amarelo.json](./81031-sitio-do-pica-pau-amarelo.json) |
+| Sítio do Picapau Amarelo: A Nova Aritmética da Emília | 286931 | [286931-sitio-do-picapau-amarelo-a-nova-aritmetica-da-emilia.json](./286931-sitio-do-picapau-amarelo-a-nova-aritmetica-da-emilia.json) |
+| Sítio do Picapau Amarelo: As Novas Reinações de Narizinho | 286928 | [286928-sitio-do-picapau-amarelo-as-novas-reinacoes-de-narizinho.json](./286928-sitio-do-picapau-amarelo-as-novas-reinacoes-de-narizinho.json) |
+| Sítio do Picapau Amarelo: Caçadas de Pedrinho | 286934 | [286934-sitio-do-picapau-amarelo-cacadas-de-pedrinho.json](./286934-sitio-do-picapau-amarelo-cacadas-de-pedrinho.json) |
+| Sítio do Picapau Amarelo: Emília e a Reforma da Natureza | 286929 | [286929-sitio-do-picapau-amarelo-emilia-e-a-reforma-da-natureza.json](./286929-sitio-do-picapau-amarelo-emilia-e-a-reforma-da-natureza.json) |
+| Sítio do Picapau Amarelo: Geografia de Dona Benta | 286923 | [286923-sitio-do-picapau-amarelo-geografia-de-dona-benta.json](./286923-sitio-do-picapau-amarelo-geografia-de-dona-benta.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
 | Sito Pons 500cc Grand Prix | 70321 | [70321-sito-pons-500cc-grand-prix.json](./70321-sito-pons-500cc-grand-prix.json) |
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
@@ -9977,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six | 60012 | [60012-six.json](./60012-six.json) |
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
 | Six Ages 2: Lights Going Out | 245860 | [245860-six-ages-2-lights-going-out.json](./245860-six-ages-2-lights-going-out.json) |
+| Six Blow: Hatching Eggs | 287060 | [287060-six-blow-hatching-eggs.json](./287060-six-blow-hatching-eggs.json) |
 | Six Braves | 201588 | [201588-six-braves.json](./201588-six-braves.json) |
 | Six Cabins in Serpent Ridge National Forest | 287221 | [287221-six-cabins-in-serpent-ridge-national-forest.json](./287221-six-cabins-in-serpent-ridge-national-forest.json) |
 | Six Card Golf | 202046 | [202046-six-card-golf.json](./202046-six-card-golf.json) |
@@ -13094,6 +13101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
 | Snow Buddies: Dog Sled Race | 333499 | [333499-snow-buddies-dog-sled-race.json](./333499-snow-buddies-dog-sled-race.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
+| Snow Cone Serenade | 287061 | [287061-snow-cone-serenade.json](./287061-snow-cone-serenade.json) |
 | Snow Cone Tycoon | 240850 | [240850-snow-cone-tycoon.json](./240850-snow-cone-tycoon.json) |
 | Snow Cones: Episode 1 | 182831 | [182831-snow-cones-episode-1.json](./182831-snow-cones-episode-1.json) |
 | Snow Cones: Episode 2 | 177331 | [177331-snow-cones-episode-2.json](./177331-snow-cones-episode-2.json) |
@@ -25203,6 +25211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Ghouls | 374961 | [374961-sugar-ghouls.json](./374961-sugar-ghouls.json) |
 | Sugar Girls | 258826 | [258826-sugar-girls.json](./258826-sugar-girls.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
+| Sugar Jar | 286939 | [286939-sugar-jar.json](./286939-sugar-jar.json) |
 | Sugar Jelly Crush | 199989 | [199989-sugar-jelly-crush.json](./199989-sugar-jelly-crush.json) |
 | Sugar Lies | 415258 | [415258-sugar-lies.json](./415258-sugar-lies.json) |
 | Sugar Lust | 276963 | [276963-sugar-lust.json](./276963-sugar-lust.json) |
