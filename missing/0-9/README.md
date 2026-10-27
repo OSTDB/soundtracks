@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20b | 169819 | [169819-20b.json](./169819-20b.json) |
 | 20MTD: Emberpath | 275552 | [275552-20mtd-emberpath.json](./275552-20mtd-emberpath.json) |
 | 20Q | 320398 | [320398-20q.json](./320398-20q.json) |
+| 20Q Music: Rock and Pop | 324796 | [324796-20q-music-rock-and-pop.json](./324796-20q-music-rock-and-pop.json) |
 | 20Q: The Simpsons | 320399 | [320399-20q-the-simpsons.json](./320399-20q-the-simpsons.json) |
 | 20Something | 29673 | [29673-20something.json](./29673-20something.json) |
 | 20th Century Beauties | 350636 | [350636-20th-century-beauties.json](./350636-20th-century-beauties.json) |
@@ -2876,6 +2877,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Monkeys of Shaolin | 94078 | [94078-9-monkeys-of-shaolin.json](./94078-9-monkeys-of-shaolin.json) |
 | 9 Monkeys of Shaolin + Ash of Gods + Redeemer: Bundle | 194258 | [194258-9-monkeys-of-shaolin-ash-of-gods-redeemer-bundle.json](./194258-9-monkeys-of-shaolin-ash-of-gods-redeemer-bundle.json) |
 | 9 R.I.P. | 241526 | [241526-9-r-i-p.json](./241526-9-r-i-p.json) |
+| 9 R.I.P. Aroma Edition | 324696 | [324696-9-r-i-p-aroma-edition.json](./324696-9-r-i-p-aroma-edition.json) |
+| 9 R.I.P.: Day One Edition | 324697 | [324697-9-r-i-p-day-one-edition.json](./324697-9-r-i-p-day-one-edition.json) |
 | 9 R.I.P.: Special Edition | 257269 | [257269-9-r-i-p-special-edition.json](./257269-9-r-i-p-special-edition.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9 Souls | 357763 | [357763-9-souls.json](./357763-9-souls.json) |
