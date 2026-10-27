@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Play VR | 298117 | [298117-paper-play-vr.json](./298117-paper-play-vr.json) |
 | Paper Protocol | 311851 | [311851-paper-protocol.json](./311851-paper-protocol.json) |
 | Paper Puzzle | 319131 | [319131-paper-puzzle.json](./319131-paper-puzzle.json) |
+| Paper Puzzle Ⅱ | 320787 | [320787-paper-puzzle-ii.json](./320787-paper-puzzle-ii.json) |
 | Paper Quest | 29519 | [29519-paper-quest.json](./29519-paper-quest.json) |
 | Paper Red and the Spirits Ink | 305484 | [305484-paper-red-and-the-spirits-ink.json](./305484-paper-red-and-the-spirits-ink.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
