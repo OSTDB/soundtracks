@@ -9241,6 +9241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
 | Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
 | Coaster Crash Course | 373065 | [373065-coaster-crash-course.json](./373065-coaster-crash-course.json) |
+| Coaster Mania | 306926 | [306926-coaster-mania.json](./306926-coaster-mania.json) |
 | Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
 | Coaster Works | 6725 | [6725-coaster-works.json](./6725-coaster-works.json) |
@@ -12268,6 +12269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cor Ex Machina | 63876 | [63876-cor-ex-machina.json](./63876-cor-ex-machina.json) |
 | Cora | 366836 | [366836-cora.json](./366836-cora.json) |
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
+| CorActio | 306999 | [306999-coractio.json](./306999-coractio.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coral & The Abyss | 311890 | [311890-coral-and-the-abyss.json](./311890-coral-and-the-abyss.json) |
 | Coral Caper | 245794 | [245794-coral-caper.json](./245794-coral-caper.json) |
@@ -16779,6 +16781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursflip | 380630 | [380630-cursflip.json](./380630-cursflip.json) |
 | Cursifix | 376638 | [376638-cursifix.json](./376638-cursifix.json) |
 | Cursor | 352340 | [352340-cursor.json](./352340-cursor.json) |
+| Cursor & Meow | 306998 | [306998-cursor-and-meow.json](./306998-cursor-and-meow.json) |
 | Cursor Blast | 348439 | [348439-cursor-blast.json](./348439-cursor-blast.json) |
 | Cursor Car | 182928 | [182928-cursor-car.json](./182928-cursor-car.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
