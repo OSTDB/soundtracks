@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farstar: Exodus | 132132 | [132132-farstar-exodus.json](./132132-farstar-exodus.json) |
 | Fart Cat! | 64867 | [64867-fart-cat.json](./64867-fart-cat.json) |
 | Fart Drop DX | 369672 | [369672-fart-drop-dx.json](./369672-fart-drop-dx.json) |
+| Fart Fiasco Premium | 284518 | [284518-fart-fiasco-premium.json](./284518-fart-fiasco-premium.json) |
 | Fart Game | 321575 | [321575-fart-game.json](./321575-fart-game.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
 | Fart Killer | 312865 | [312865-fart-killer.json](./312865-fart-killer.json) |
