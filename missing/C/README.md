@@ -12789,6 +12789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Gang the Puzzle | 18382 | [18382-cosmo-gang-the-puzzle.json](./18382-cosmo-gang-the-puzzle.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
 | Cosmo Magnat | 337058 | [337058-cosmo-magnat.json](./337058-cosmo-magnat.json) |
+| Cosmo Mambo No. 5 | 304077 | [304077-cosmo-mambo-no-5.json](./304077-cosmo-mambo-no-5.json) |
 | Cosmo Nash: Culinary Courier | 290990 | [290990-cosmo-nash-culinary-courier.json](./290990-cosmo-nash-culinary-courier.json) |
 | Cosmo Odyssey 2: Comeback to Origin | 238550 | [238550-cosmo-odyssey-2-comeback-to-origin.json](./238550-cosmo-odyssey-2-comeback-to-origin.json) |
 | Cosmo Player Z | 190495 | [190495-cosmo-player-z.json](./190495-cosmo-player-z.json) |
@@ -17091,6 +17092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber AI Defense | 359533 | [359533-cyber-ai-defense.json](./359533-cyber-ai-defense.json) |
 | Cyber Arena | 74481 | [74481-cyber-arena.json](./74481-cyber-arena.json) |
 | Cyber Arms Val-Kaizer | 336183 | [336183-cyber-arms-val-kaizer.json](./336183-cyber-arms-val-kaizer.json) |
+| Cyber Assasin | 303998 | [303998-cyber-assasin.json](./303998-cyber-assasin.json) |
 | Cyber Assault | 257899 | [257899-cyber-assault.json](./257899-cyber-assault.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Attack | 215535 | [215535-cyber-attack.json](./215535-cyber-attack.json) |
