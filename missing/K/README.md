@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kithack Model Club | 244685 | [244685-kithack-model-club.json](./244685-kithack-model-club.json) |
 | Kithe #14 | 137506 | [137506-kithe-14.json](./137506-kithe-14.json) |
+| Kiting Cat | 323683 | [323683-kiting-cat.json](./323683-kiting-cat.json) |
 | Kiting Mechanics | 239739 | [239739-kiting-mechanics.json](./239739-kiting-mechanics.json) |
 | Kitiplant | 291721 | [291721-kitiplant.json](./291721-kitiplant.json) |
 | Kito Pizzas | 397691 | [397691-kito-pizzas.json](./397691-kito-pizzas.json) |
