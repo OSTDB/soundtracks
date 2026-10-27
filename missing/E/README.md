@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eburnean | 98296 | [98296-eburnean.json](./98296-eburnean.json) |
 | Ecchi 2: compile 2D chan | 111638 | [111638-ecchi-2-compile-2d-chan.json](./111638-ecchi-2-compile-2d-chan.json) |
 | Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
+| Ecchi Blast Vol. 1 | 317892 | [317892-ecchi-blast-vol-1.json](./317892-ecchi-blast-vol-1.json) |
 | Ecchi Breaker | 378797 | [378797-ecchi-breaker.json](./378797-ecchi-breaker.json) |
 | Ecchi Cards | 104846 | [104846-ecchi-cards.json](./104846-ecchi-cards.json) |
 | Ecchi Crush | 401114 | [401114-ecchi-crush.json](./401114-ecchi-crush.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Revival Xanadu Easy Ver PC-9801 | 347313 | [347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json](./347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json) |
 | Eggconsole Riglas PC-8801 | 324189 | [324189-eggconsole-riglas-pc-8801.json](./324189-eggconsole-riglas-pc-8801.json) |
 | Eggconsole Seilane PC-8801MkIISR | 308640 | [308640-eggconsole-seilane-pc-8801mkiisr.json](./308640-eggconsole-seilane-pc-8801mkiisr.json) |
+| Eggconsole Silver Ghost PC-8801mkIISR | 317893 | [317893-eggconsole-silver-ghost-pc-8801mkiisr.json](./317893-eggconsole-silver-ghost-pc-8801mkiisr.json) |
 | Eggconsole Sorcerian PC-8801mkIISR | 304797 | [304797-eggconsole-sorcerian-pc-8801mkiisr.json](./304797-eggconsole-sorcerian-pc-8801mkiisr.json) |
 | Eggconsole Star Cruiser PC-8801mkIISR | 317225 | [317225-eggconsole-star-cruiser-pc-8801mkiisr.json](./317225-eggconsole-star-cruiser-pc-8801mkiisr.json) |
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
