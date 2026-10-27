@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jay Walker | 109410 | [109410-jay-walker.json](./109410-jay-walker.json) |
 | Jay's Walkin' | 156554 | [156554-jays-walkin.json](./156554-jays-walkin.json) |
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
+| JaygiWare | 329515 | [329515-jaygiware.json](./329515-jaygiware.json) |
 | Jaywalk: An Endless Arcade Hopper Game | 406233 | [406233-jaywalk-an-endless-arcade-hopper-game.json](./406233-jaywalk-an-endless-arcade-hopper-game.json) |
 | Jazz Age | 126954 | [126954-jazz-age.json](./126954-jazz-age.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
