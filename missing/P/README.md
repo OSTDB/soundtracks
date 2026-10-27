@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PalWar | 371275 | [371275-palwar.json](./371275-palwar.json) |
 | Palworld: Palfarm | 369677 | [369677-palworld-palfarm.json](./369677-palworld-palfarm.json) |
 | Palworld: Pokémon Mod | 296045 | [296045-palworld-pokemon-mod.json](./296045-palworld-pokemon-mod.json) |
+| Pam's Fantastic Adventures | 285960 | [285960-pams-fantastic-adventures.json](./285960-pams-fantastic-adventures.json) |
 | Pam's Fantastic Escape | 243723 | [243723-pams-fantastic-escape.json](./243723-pams-fantastic-escape.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
@@ -3774,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Pixel Dungeon | 312605 | [312605-perfect-pixel-dungeon.json](./312605-perfect-pixel-dungeon.json) |
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
 | Perfect Porcelain | 391135 | [391135-perfect-porcelain.json](./391135-perfect-porcelain.json) |
+| Perfect Poses | 286018 | [286018-perfect-poses.json](./286018-perfect-poses.json) |
 | Perfect Round Disc Golf | 118583 | [118583-perfect-round-disc-golf.json](./118583-perfect-round-disc-golf.json) |
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
 | Perfect Slices | 253282 | [253282-perfect-slices.json](./253282-perfect-slices.json) |
@@ -7363,8 +7365,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeline Skolebøger: Dansk | 64501 | [64501-pixeline-skoleb-ger-dansk.json](./64501-pixeline-skoleb-ger-dansk.json) |
 | Pixeline Skolehjælp: Dansk – Kaos i Kommakøbing | 285853 | [285853-pixeline-skolehj-lp-dansk-kaos-i-kommak-bing.json](./285853-pixeline-skolehj-lp-dansk-kaos-i-kommak-bing.json) |
 | Pixeline Skolehjælp: Dinosaurer – De Frygtelige Øgler | 285851 | [285851-pixeline-skolehj-lp-dinosaurer-de-frygtelige-gler.json](./285851-pixeline-skolehj-lp-dinosaurer-de-frygtelige-gler.json) |
+| Pixeline Skolehjælp: Lær at Stave – Stavning eller kaos | 285844 | [285844-pixeline-skolehj-lp-l-r-at-stave-stavning-eller-kaos.json](./285844-pixeline-skolehj-lp-l-r-at-stave-stavning-eller-kaos.json) |
+| Pixeline Skolehjælp: Lær om Klima & Vejr – Vejr og Vind med Samme Sind | 285832 | [285832-pixeline-skolehj-lp-l-r-om-klima-and-vejr-vejr-og-vind-med-samme-sind.json](./285832-pixeline-skolehj-lp-l-r-om-klima-and-vejr-vejr-og-vind-med-samme-sind.json) |
+| Pixeline Skolehjælp: Lær om Regning – Talmesterens labyrint | 285837 | [285837-pixeline-skolehj-lp-l-r-om-regning-talmesterens-labyrint.json](./285837-pixeline-skolehj-lp-l-r-om-regning-talmesterens-labyrint.json) |
+| Pixeline Skolehjælp: Lær om Vikingerne – Kongekampen | 285841 | [285841-pixeline-skolehj-lp-l-r-om-vikingerne-kongekampen.json](./285841-pixeline-skolehj-lp-l-r-om-vikingerne-kongekampen.json) |
 | Pixeline Skolehjælp: Learning English – Money or Nothing | 285852 | [285852-pixeline-skolehj-lp-learning-english-money-or-nothing.json](./285852-pixeline-skolehj-lp-learning-english-money-or-nothing.json) |
 | Pixeline Skolehjælp: Matematik – Tåger over Talstrup | 285854 | [285854-pixeline-skolehj-lp-matematik-tager-over-talstrup.json](./285854-pixeline-skolehj-lp-matematik-tager-over-talstrup.json) |
+| Pixeline Skolehjælp: Sikker på Cykel – Byens Bedste Bud | 285843 | [285843-pixeline-skolehj-lp-sikker-pa-cykel-byens-bedste-bud.json](./285843-pixeline-skolehj-lp-sikker-pa-cykel-byens-bedste-bud.json) |
 | Pixeline: for Fulde Sejl | 147880 | [147880-pixeline-for-fulde-sejl.json](./147880-pixeline-for-fulde-sejl.json) |
 | Pixeline: fuld af Fis og Ballade | 147881 | [147881-pixeline-fuld-af-fis-og-ballade.json](./147881-pixeline-fuld-af-fis-og-ballade.json) |
 | Pixeline: I Pixieland | 49766 | [49766-pixeline-i-pixieland.json](./49766-pixeline-i-pixieland.json) |
@@ -10143,6 +10150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Force | 10709 | [10709-police-force.json](./10709-police-force.json) |
 | Police Force | 125763 | [125763-police-force.json](./125763-police-force.json) |
 | Police Force 2 | 10710 | [10710-police-force-2.json](./10710-police-force-2.json) |
+| Police Force: Law and Honor | 285611 | [285611-police-force-law-and-honor.json](./285611-police-force-law-and-honor.json) |
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
 | Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
@@ -10221,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polish Simulator | 329495 | [329495-polish-simulator.json](./329495-polish-simulator.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Politaire | 58146 | [58146-politaire.json](./58146-politaire.json) |
+| Polite animals | 285428 | [285428-polite-animals.json](./285428-polite-animals.json) |
 | Politica: Nothing Ideological. It's Just Business | 291313 | [291313-politica-nothing-ideological-its-just-business.json](./291313-politica-nothing-ideological-its-just-business.json) |
 | Political Animals | 25678 | [25678-political-animals.json](./25678-political-animals.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
@@ -10716,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Killer: Flush or Die | 335997 | [335997-poop-killer-flush-or-die.json](./335997-poop-killer-flush-or-die.json) |
 | Poop on Red | 326238 | [326238-poop-on-red.json](./326238-poop-on-red.json) |
 | Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
+| Poop Prince | 285962 | [285962-poop-prince.json](./285962-poop-prince.json) |
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | PooPee Wars | 55623 | [55623-poopee-wars.json](./55623-poopee-wars.json) |
@@ -14984,6 +14994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
 | Puppeteer | 212232 | [212232-puppeteer.json](./212232-puppeteer.json) |
 | Puppeteer: Control | 261836 | [261836-puppeteer-control.json](./261836-puppeteer-control.json) |
+| Puppeteer's Curse | 285499 | [285499-puppeteers-curse.json](./285499-puppeteers-curse.json) |
 | Puppetmaster: Pose Viewer | 245741 | [245741-puppetmaster-pose-viewer.json](./245741-puppetmaster-pose-viewer.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
