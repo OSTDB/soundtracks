@@ -1166,6 +1166,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
 | Fallout 76: Season 2 - Armor Ace | 141570 | [141570-fallout-76-season-2-armor-ace.json](./141570-fallout-76-season-2-armor-ace.json) |
 | Fallout 76: Season 3 - The Scribe of Avalon | 141571 | [141571-fallout-76-season-3-the-scribe-of-avalon.json](./141571-fallout-76-season-3-the-scribe-of-avalon.json) |
+| Fallout 76: Season 4 - Cold Steel | 307009 | [307009-fallout-76-season-4-cold-steel.json](./307009-fallout-76-season-4-cold-steel.json) |
+| Fallout 76: Season 5 - Escape from the 42nd Century | 307010 | [307010-fallout-76-season-5-escape-from-the-42nd-century.json](./307010-fallout-76-season-5-escape-from-the-42nd-century.json) |
+| Fallout 76: Season 6 - The Unstoppables! vs The Diabolicals | 307011 | [307011-fallout-76-season-6-the-unstoppables-vs-the-diabolicals.json](./307011-fallout-76-season-6-the-unstoppables-vs-the-diabolicals.json) |
+| Fallout 76: Season 7 - Zorbo's Revenge | 307012 | [307012-fallout-76-season-7-zorbos-revenge.json](./307012-fallout-76-season-7-zorbos-revenge.json) |
+| Fallout 76: Season 8 - A Better Life Underground | 307013 | [307013-fallout-76-season-8-a-better-life-underground.json](./307013-fallout-76-season-8-a-better-life-underground.json) |
 | Fallout 76: Skyline Valley | 305150 | [305150-fallout-76-skyline-valley.json](./305150-fallout-76-skyline-valley.json) |
 | Fallout 76: Skyline Valley - Deluxe Edition | 305493 | [305493-fallout-76-skyline-valley-deluxe-edition.json](./305493-fallout-76-skyline-valley-deluxe-edition.json) |
 | Fallout 76: Skyline Valley - Lost Treasures Bundle | 305492 | [305492-fallout-76-skyline-valley-lost-treasures-bundle.json](./305492-fallout-76-skyline-valley-lost-treasures-bundle.json) |
@@ -9457,6 +9462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Sun | 329194 | [329194-fragile-sun.json](./329194-fragile-sun.json) |
 | Fragment | 125768 | [125768-fragment.json](./125768-fragment.json) |
 | Fragment | 172049 | [172049-fragment.json](./172049-fragment.json) |
+| Fragment | 307019 | [307019-fragment.json](./307019-fragment.json) |
 | Fragment Collapse | 409678 | [409678-fragment-collapse.json](./409678-fragment-collapse.json) |
 | Fragment Hunter | 101725 | [101725-fragment-hunter.json](./101725-fragment-hunter.json) |
 | Fragment Hunters | 213009 | [213009-fragment-hunters.json](./213009-fragment-hunters.json) |
