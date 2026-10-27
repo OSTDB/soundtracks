@@ -4835,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermetica | 293875 | [293875-hermetica.json](./293875-hermetica.json) |
 | Hermetica | 388301 | [388301-hermetica.json](./388301-hermetica.json) |
 | Hermeticism | 229733 | [229733-hermeticism.json](./229733-hermeticism.json) |
+| Hermeticism | 322015 | [322015-hermeticism.json](./322015-hermeticism.json) |
 | Hermetika VR | 184933 | [184933-hermetika-vr.json](./184933-hermetika-vr.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
 | Hermine's Ghost Town Adventure | 311320 | [311320-hermines-ghost-town-adventure.json](./311320-hermines-ghost-town-adventure.json) |
@@ -5760,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats: Japan | 334038 | [334038-hidden-cats-japan.json](./334038-hidden-cats-japan.json) |
 | Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
 | Hidden Cats: Rome | 350572 | [350572-hidden-cats-rome.json](./350572-hidden-cats-rome.json) |
+| Hidden Cats: Thief | 322031 | [322031-hidden-cats-thief.json](./322031-hidden-cats-thief.json) |
 | Hidden Cats: Zombie Hunter | 365284 | [365284-hidden-cats-zombie-hunter.json](./365284-hidden-cats-zombie-hunter.json) |
 | Hidden Caves | 173027 | [173027-hidden-caves.json](./173027-hidden-caves.json) |
 | Hidden Celtics | 322828 | [322828-hidden-celtics.json](./322828-hidden-celtics.json) |
@@ -8099,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hontou no Negaigoto | 413744 | [413744-hontou-no-negaigoto.json](./413744-hontou-no-negaigoto.json) |
 | Honu | 369079 | [369079-honu.json](./369079-honu.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
+| Hood Ninja | 321932 | [321932-hood-ninja.json](./321932-hood-ninja.json) |
 | Hood RPG | 326099 | [326099-hood-rpg.json](./326099-hood-rpg.json) |
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
 | Hood Warfare | 233644 | [233644-hood-warfare.json](./233644-hood-warfare.json) |
@@ -8522,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
 | Horror Legends | 111603 | [111603-horror-legends.json](./111603-horror-legends.json) |
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
+| Horror Manor | 321955 | [321955-horror-manor.json](./321955-horror-manor.json) |
 | Horror Maze | 172996 | [172996-horror-maze.json](./172996-horror-maze.json) |
 | Horror Maze 2 | 246838 | [246838-horror-maze-2.json](./246838-horror-maze-2.json) |
 | Horror Maze: Dungeon Edition | 110086 | [110086-horror-maze-dungeon-edition.json](./110086-horror-maze-dungeon-edition.json) |
