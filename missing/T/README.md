@@ -3691,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Land | 138515 | [138515-terminal-land.json](./138515-terminal-land.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
 | Terminal Madness: The Awakening | 204187 | [204187-terminal-madness-the-awakening.json](./204187-terminal-madness-the-awakening.json) |
+| Terminal One | 328194 | [328194-terminal-one.json](./328194-terminal-one.json) |
 | Terminal Outbreak | 346503 | [346503-terminal-outbreak.json](./346503-terminal-outbreak.json) |
 | Terminal Protocol | 126949 | [126949-terminal-protocol.json](./126949-terminal-protocol.json) |
 | Terminal Reign | 416003 | [416003-terminal-reign.json](./416003-terminal-reign.json) |
@@ -8179,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The Fool | 36130 | [36130-the-fool.json](./36130-the-fool.json) |
 | The Fool and his Money | 64185 | [64185-the-fool-and-his-money.json](./64185-the-fool-and-his-money.json) |
+| The Fool's Apprentice | 328382 | [328382-the-fools-apprentice.json](./328382-the-fools-apprentice.json) |
 | The Fool's Errand | 12107 | [12107-the-fools-errand.json](./12107-the-fools-errand.json) |
 | The Football A | 216356 | [216356-the-football-a.json](./216356-the-football-a.json) |
 | The Football Collection 2008 | 147194 | [147194-the-football-collection-2008.json](./147194-the-football-collection-2008.json) |
@@ -17181,6 +17183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThreadSpace: Hyperbol | 14802 | [14802-threadspace-hyperbol.json](./14802-threadspace-hyperbol.json) |
 | Threat | 94410 | [94410-threat.json](./94410-threat.json) |
 | Threat Actor | 245745 | [245745-threat-actor.json](./245745-threat-actor.json) |
+| Threat Vector | 328202 | [328202-threat-vector.json](./328202-threat-vector.json) |
 | ThreatGen: Red vs. Blue | 113812 | [113812-threatgen-red-vs-blue.json](./113812-threatgen-red-vs-blue.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
@@ -20314,6 +20317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To and Fro | 312163 | [312163-to-and-fro.json](./312163-to-and-fro.json) |
 | To Arms!! | 207826 | [207826-to-arms.json](./207826-to-arms.json) |
 | To Aru Majutsu No Index | 44526 | [44526-to-aru-majutsu-no-index.json](./44526-to-aru-majutsu-no-index.json) |
+| To Aru Otoko to Onna no Naresome | 328204 | [328204-to-aru-otoko-to-onna-no-naresome.json](./328204-to-aru-otoko-to-onna-no-naresome.json) |
 | To Ash | 33226 | [33226-to-ash.json](./33226-to-ash.json) |
 | To Ash & Ember | 157493 | [157493-to-ash-and-ember.json](./157493-to-ash-and-ember.json) |
 | To Azimuth | 18436 | [18436-to-azimuth.json](./18436-to-azimuth.json) |
