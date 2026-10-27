@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific War | 69923 | [69923-pacific-war.json](./69923-pacific-war.json) |
 | Pacific Warriors II: Dogfight! | 43448 | [43448-pacific-warriors-ii-dogfight.json](./43448-pacific-warriors-ii-dogfight.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
+| Pacification Light | 304552 | [304552-pacification-light.json](./304552-pacification-light.json) |
 | Pacifish | 203545 | [203545-pacifish.json](./203545-pacifish.json) |
 | Pacifish: Recast | 330090 | [330090-pacifish-recast.json](./330090-pacifish-recast.json) |
 | Pacifist Outside | 180591 | [180591-pacifist-outside.json](./180591-pacifist-outside.json) |
@@ -10974,6 +10975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Glacia | 262167 | [262167-port-glacia.json](./262167-port-glacia.json) |
 | Port Logistics Simulator: Dockside Harbor Handling | 340524 | [340524-port-logistics-simulator-dockside-harbor-handling.json](./340524-port-logistics-simulator-dockside-harbor-handling.json) |
 | Port of Call | 35598 | [35598-port-of-call.json](./35598-port-of-call.json) |
+| Port of Jumanah | 304537 | [304537-port-of-jumanah.json](./304537-port-of-jumanah.json) |
 | Port of Mars | 256811 | [256811-port-of-mars.json](./256811-port-of-mars.json) |
 | Port Royale 2 | 8391 | [8391-port-royale-2.json](./8391-port-royale-2.json) |
 | Port Royale 3: Dawn of Pirates | 10713 | [10713-port-royale-3-dawn-of-pirates.json](./10713-port-royale-3-dawn-of-pirates.json) |
@@ -11310,6 +11312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
 | Potion Punch 2+ | 385569 | [385569-potion-punch-2.json](./385569-potion-punch-2.json) |
+| Potion Punch Rivals | 304540 | [304540-potion-punch-rivals.json](./304540-potion-punch-rivals.json) |
 | Potion Quest | 306773 | [306773-potion-quest.json](./306773-potion-quest.json) |
 | Potion Shop Simulator | 290953 | [290953-potion-shop-simulator.json](./290953-potion-shop-simulator.json) |
 | Potion Slingers | 248036 | [248036-potion-slingers.json](./248036-potion-slingers.json) |
@@ -11443,6 +11446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
 | Power Gate | 42130 | [42130-power-gate.json](./42130-power-gate.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
+| Power Grid | 304527 | [304527-power-grid.json](./304527-power-grid.json) |
 | Power Grounds | 197774 | [197774-power-grounds.json](./197774-power-grounds.json) |
 | Power Gunner | 112390 | [112390-power-gunner.json](./112390-power-gunner.json) |
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
@@ -14108,6 +14112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protium | 68351 | [68351-protium.json](./68351-protium.json) |
 | Proto Akane | 197088 | [197088-proto-akane.json](./197088-proto-akane.json) |
 | Proto Cuckoo 64 | 150982 | [150982-proto-cuckoo-64.json](./150982-proto-cuckoo-64.json) |
+| Proto Garden | 304525 | [304525-proto-garden.json](./304525-proto-garden.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
 | Proto Sonic | 316601 | [316601-proto-sonic.json](./316601-proto-sonic.json) |
