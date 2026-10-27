@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
+| Ramshackle.Exe | 289294 | [289294-ramshackle-exe.json](./289294-ramshackle-exe.json) |
 | Ramune's Square Dungeon | 367284 | [367284-ramunes-square-dungeon.json](./367284-ramunes-square-dungeon.json) |
 | Ran Online | 50450 | [50450-ran-online.json](./50450-ran-online.json) |
 | Rana Card | 345059 | [345059-rana-card.json](./345059-rana-card.json) |
@@ -2925,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirthing | 239771 | [239771-rebirthing.json](./239771-rebirthing.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | ReBlade: The Death Spiral | 387145 | [387145-reblade-the-death-spiral.json](./387145-reblade-the-death-spiral.json) |
+| Reblica | 289290 | [289290-reblica.json](./289290-reblica.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
 | Reboant: Rise of the Nuhort | 75519 | [75519-reboant-rise-of-the-nuhort.json](./75519-reboant-rise-of-the-nuhort.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
