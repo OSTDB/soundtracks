@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
 | Omamori | 185069 | [185069-omamori.json](./185069-omamori.json) |
 | OmanaC: C2 | 213882 | [213882-omanac-c2.json](./213882-omanac-c2.json) |
+| Omapeli | 284878 | [284878-omapeli.json](./284878-omapeli.json) |
 | Omar Sharif Bridge | 88800 | [88800-omar-sharif-bridge.json](./88800-omar-sharif-bridge.json) |
 | Omar Sharif Bridge II | 208997 | [208997-omar-sharif-bridge-ii.json](./208997-omar-sharif-bridge-ii.json) |
 | Omar Sharif on Bridge | 73490 | [73490-omar-sharif-on-bridge.json](./73490-omar-sharif-on-bridge.json) |
@@ -2125,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - People Pack | 324403 | [324403-one-night-burlesque-people-pack.json](./324403-one-night-burlesque-people-pack.json) |
 | One Night: Burlesque - Premium Edition | 288283 | [288283-one-night-burlesque-premium-edition.json](./288283-one-night-burlesque-premium-edition.json) |
 | One Night: Burlesque - Sins Pack | 324391 | [324391-one-night-burlesque-sins-pack.json](./324391-one-night-burlesque-sins-pack.json) |
+| One Night: Burlesque - Special Edition | 284933 | [284933-one-night-burlesque-special-edition.json](./284933-one-night-burlesque-special-edition.json) |
 | One Night: Burlesque - Superb Edition | 317246 | [317246-one-night-burlesque-superb-edition.json](./317246-one-night-burlesque-superb-edition.json) |
 | One Night: Burlesque - Ultimate Edition | 283168 | [283168-one-night-burlesque-ultimate-edition.json](./283168-one-night-burlesque-ultimate-edition.json) |
 | One Night: Young Bride for One Night | 341602 | [341602-one-night-young-bride-for-one-night.json](./341602-one-night-young-bride-for-one-night.json) |
@@ -3569,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orient on the Murder Express | 310491 | [310491-orient-on-the-murder-express.json](./310491-orient-on-the-murder-express.json) |
 | Oriental Blue | 271139 | [271139-oriental-blue.json](./271139-oriental-blue.json) |
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
+| Oriental Bundle | 284749 | [284749-oriental-bundle.json](./284749-oriental-bundle.json) |
 | Oriental Dreams | 54263 | [54263-oriental-dreams.json](./54263-oriental-dreams.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
@@ -4867,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overly Qualified Ms. Mary | 219061 | [219061-overly-qualified-ms-mary.json](./219061-overly-qualified-ms-mary.json) |
 | Overmind | 327180 | [327180-overmind.json](./327180-overmind.json) |
 | Overmortal | 262900 | [262900-overmortal.json](./262900-overmortal.json) |
+| Overnet | 285055 | [285055-overnet.json](./285055-overnet.json) |
 | Overnight | 136317 | [136317-overnight.json](./136317-overnight.json) |
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
 | Overnight 2: Reboot | 370084 | [370084-overnight-2-reboot.json](./370084-overnight-2-reboot.json) |
