@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kairos | 229155 | [229155-kairos.json](./229155-kairos.json) |
 | Kairos | 411799 | [411799-kairos.json](./411799-kairos.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
+| Kairos'Light: Vanilla | 322625 | [322625-kairoslight-vanilla.json](./322625-kairoslight-vanilla.json) |
 | Kaisa | 95362 | [95362-kaisa.json](./95362-kaisa.json) |
 | Kaisa: Resurrection | 212145 | [212145-kaisa-resurrection.json](./212145-kaisa-resurrection.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
