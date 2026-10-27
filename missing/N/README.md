@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 6 | 262818 | [262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json](./262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 8 | 262830 | [262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json](./262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json) |
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
+| Nature Challenge | 316017 | [316017-nature-challenge.json](./316017-nature-challenge.json) |
 | Nature Defenders | 33833 | [33833-nature-defenders.json](./33833-nature-defenders.json) |
 | Nature Escapes | 215635 | [215635-nature-escapes.json](./215635-nature-escapes.json) |
 | Nature Escapes 2 | 235182 | [235182-nature-escapes-2.json](./235182-nature-escapes-2.json) |
@@ -6157,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nozomi-chan no Spiritual Card | 405493 | [405493-nozomi-chan-no-spiritual-card.json](./405493-nozomi-chan-no-spiritual-card.json) |
 | Nozomu School Daze | 411649 | [411649-nozomu-school-daze.json](./411649-nozomu-school-daze.json) |
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
+| NPC Adventure: The Arena Update | 316010 | [316010-npc-adventure-the-arena-update.json](./316010-npc-adventure-the-arena-update.json) |
 | NPC Blacksmith Simulator | 417475 | [417475-npc-blacksmith-simulator.json](./417475-npc-blacksmith-simulator.json) |
 | Npc Problems: Vertex Coloring | 126655 | [126655-npc-problems-vertex-coloring.json](./126655-npc-problems-vertex-coloring.json) |
 | NPC Simulator | 390595 | [390595-npc-simulator.json](./390595-npc-simulator.json) |
