@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kara Legends | 133134 | [133134-kara-legends.json](./133134-kara-legends.json) |
 | Kara no Oukoku | 380433 | [380433-kara-no-oukoku.json](./380433-kara-no-oukoku.json) |
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
+| Karabast | 300761 | [300761-karabast.json](./300761-karabast.json) |
 | KaraCreate | 191073 | [191073-karacreate.json](./191073-karacreate.json) |
 | KaraDedeler 1989 | 165712 | [165712-karadedeler-1989.json](./165712-karadedeler-1989.json) |
 | Karagon | 190048 | [190048-karagon.json](./190048-karagon.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper's Curse | 298670 | [298670-keepers-curse.json](./298670-keepers-curse.json) |
 | Keeper's Toll | 216882 | [216882-keepers-toll.json](./216882-keepers-toll.json) |
 | Keeper's Vigil | 405041 | [405041-keepers-vigil.json](./405041-keepers-vigil.json) |
+| KeeperFX | 300654 | [300654-keeperfx.json](./300654-keeperfx.json) |
 | KeeperRL | 17968 | [17968-keeperrl.json](./17968-keeperrl.json) |
 | Keepers | 257385 | [257385-keepers.json](./257385-keepers.json) |
 | Keepers 1477 | 306062 | [306062-keepers-1477.json](./306062-keepers-1477.json) |
@@ -2014,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
 | Kieta Princess | 41300 | [41300-kieta-princess.json](./41300-kieta-princess.json) |
 | Kieta Sekai to Tsuki to Shoujo: The World was Prayed by The Girl Living A Thousand Years | 97462 | [97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json](./97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json) |
+| Kiganjo | 300658 | [300658-kiganjo.json](./300658-kiganjo.json) |
 | Kigetsu no Yoru | 368634 | [368634-kigetsu-no-yoru.json](./368634-kigetsu-no-yoru.json) |
 | Kigurumi Kombat | 74757 | [74757-kigurumi-kombat.json](./74757-kigurumi-kombat.json) |
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
