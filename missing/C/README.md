@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 5 | 308961 | [308961-call-of-duty-modern-warfare-iii-season-5.json](./308961-call-of-duty-modern-warfare-iii-season-5.json) |
 | Call of Duty: Modern Warfare III - Season 6 | 318510 | [318510-call-of-duty-modern-warfare-iii-season-6.json](./318510-call-of-duty-modern-warfare-iii-season-6.json) |
 | Call of Duty: Modern Warfare III - Tech Luxe Pro Pack | 291077 | [291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json](./291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json) |
+| Call of Duty: Modern Warfare III - Tracer Pack: Zodiac - Cancer Pro Pack | 324278 | [324278-call-of-duty-modern-warfare-iii-tracer-pack-zodiac-cancer-pro-pack.json](./324278-call-of-duty-modern-warfare-iii-tracer-pack-zodiac-cancer-pro-pack.json) |
 | Call of Duty: Modern Warfare III - Vault Edition | 276133 | [276133-call-of-duty-modern-warfare-iii-vault-edition.json](./276133-call-of-duty-modern-warfare-iii-vault-edition.json) |
 | Call of Duty: Modern Warfare III - Warhammer 40K Crossover Pack | 302211 | [302211-call-of-duty-modern-warfare-iii-warhammer-40k-crossover-pack.json](./302211-call-of-duty-modern-warfare-iii-warhammer-40k-crossover-pack.json) |
 | Call of Duty: Modern Warfare Remastered - Variety Map Pack | 168155 | [168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json](./168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json) |
@@ -2771,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast N | 299489 | [299489-cast-n.json](./299489-cast-n.json) |
 | Cast n Chill | 330638 | [330638-cast-n-chill.json](./330638-cast-n-chill.json) |
 | Cast of the Seven Godsends: Redux | 20994 | [20994-cast-of-the-seven-godsends-redux.json](./20994-cast-of-the-seven-godsends-redux.json) |
+| Cast or Pass | 324262 | [324262-cast-or-pass.json](./324262-cast-or-pass.json) |
 | Cast Out Colony | 247958 | [247958-cast-out-colony.json](./247958-cast-out-colony.json) |
 | Cast Outs | 380165 | [380165-cast-outs.json](./380165-cast-outs.json) |
 | Cast Piercer | 170879 | [170879-cast-piercer.json](./170879-cast-piercer.json) |
@@ -11395,6 +11397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest | 395858 | [395858-conquest.json](./395858-conquest.json) |
 | Conquest | 86011 | [86011-conquest.json](./86011-conquest.json) |
 | Conquest Age | 62235 | [62235-conquest-age.json](./62235-conquest-age.json) |
+| Conquest Dark | 324257 | [324257-conquest-dark.json](./324257-conquest-dark.json) |
 | Conquest Emperor | 369745 | [369745-conquest-emperor.json](./369745-conquest-emperor.json) |
 | Conquest Manager | 269129 | [269129-conquest-manager.json](./269129-conquest-manager.json) |
 | Conquest of Chesterwoode | 73204 | [73204-conquest-of-chesterwoode.json](./73204-conquest-of-chesterwoode.json) |
@@ -14147,6 +14150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
 | Crazy Veggies | 28787 | [28787-crazy-veggies.json](./28787-crazy-veggies.json) |
+| Crazy Voyage | 324289 | [324289-crazy-voyage.json](./324289-crazy-voyage.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy Wheels | 103161 | [103161-crazy-wheels.json](./103161-crazy-wheels.json) |
 | Crazy Wife | 300294 | [300294-crazy-wife.json](./300294-crazy-wife.json) |
