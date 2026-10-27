@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sauna 2000 | 210586 | [210586-sauna-2000.json](./210586-sauna-2000.json) |
 | Sauna Mario World | 338838 | [338838-sauna-mario-world.json](./338838-sauna-mario-world.json) |
 | Sauna Mario World 2 | 338836 | [338836-sauna-mario-world-2.json](./338836-sauna-mario-world-2.json) |
+| Sauna of The Dead | 292494 | [292494-sauna-of-the-dead.json](./292494-sauna-of-the-dead.json) |
 | Sauna Simulator | 312430 | [312430-sauna-simulator.json](./312430-sauna-simulator.json) |
 | Saunageddon | 348837 | [348837-saunageddon.json](./348837-saunageddon.json) |
 | Saurian | 19384 | [19384-saurian.json](./19384-saurian.json) |
@@ -6642,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
 | Shelf Happens | 419828 | [419828-shelf-happens.json](./419828-shelf-happens.json) |
 | Shelf Heroes | 336147 | [336147-shelf-heroes.json](./336147-shelf-heroes.json) |
+| Shelf Life | 292490 | [292490-shelf-life.json](./292490-shelf-life.json) |
 | Shelf Life | 373146 | [373146-shelf-life.json](./373146-shelf-life.json) |
 | Shelf Work VR | 418316 | [418316-shelf-work-vr.json](./418316-shelf-work-vr.json) |
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
@@ -10621,6 +10623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Diver | 239491 | [239491-sky-diver.json](./239491-sky-diver.json) |
 | Sky Diving: Parachute Flight Simulator | 329431 | [329431-sky-diving-parachute-flight-simulator.json](./329431-sky-diving-parachute-flight-simulator.json) |
 | Sky Division | 246786 | [246786-sky-division.json](./246786-sky-division.json) |
+| Sky Dominion | 292561 | [292561-sky-dominion.json](./292561-sky-dominion.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
 | Sky End Market | 333460 | [333460-sky-end-market.json](./333460-sky-end-market.json) |
@@ -15681,6 +15684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul | 76174 | [76174-soul.json](./76174-soul.json) |
 | Soul & Sword | 42533 | [42533-soul-and-sword.json](./42533-soul-and-sword.json) |
+| Soul #531 | 292497 | [292497-soul-531.json](./292497-soul-531.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
 | Soul Ark: Brave and Fate | 199948 | [199948-soul-ark-brave-and-fate.json](./199948-soul-ark-brave-and-fate.json) |
 | Soul Armors Recollect | 322711 | [322711-soul-armors-recollect.json](./322711-soul-armors-recollect.json) |
@@ -16047,6 +16051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundart | 127076 | [127076-soundart.json](./127076-soundart.json) |
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundbusting | 177996 | [177996-soundbusting.json](./177996-soundbusting.json) |
+| Soundelta | 292571 | [292571-soundelta.json](./292571-soundelta.json) |
 | Soundfall | 106821 | [106821-soundfall.json](./106821-soundfall.json) |
 | Soundgrass | 381079 | [381079-soundgrass.json](./381079-soundgrass.json) |
 | SoundKilla | 295154 | [295154-soundkilla.json](./295154-soundkilla.json) |
@@ -17048,6 +17053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Spider | 201568 | [201568-space-spider.json](./201568-space-spider.json) |
 | Space Sprint | 38903 | [38903-space-sprint.json](./38903-space-sprint.json) |
 | Space Sprinter VR | 160098 | [160098-space-sprinter-vr.json](./160098-space-sprinter-vr.json) |
+| Space Sprouts | 292560 | [292560-space-sprouts.json](./292560-space-sprouts.json) |
 | Space Squad Survival | 346725 | [346725-space-squad-survival.json](./346725-space-squad-survival.json) |
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
@@ -26276,6 +26282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cube 3D | 278959 | [278959-super-cube-3d.json](./278959-super-cube-3d.json) |
 | Super Cube Smash | 32741 | [32741-super-cube-smash.json](./32741-super-cube-smash.json) |
 | Super Cuber | 29716 | [29716-super-cuber.json](./29716-super-cuber.json) |
+| Super Cubiform | 292492 | [292492-super-cubiform.json](./292492-super-cubiform.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
@@ -27623,6 +27630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Off Road | 365894 | [365894-super-off-road.json](./365894-super-off-road.json) |
 | Super Off Road Track Pack | 245280 | [245280-super-off-road-track-pack.json](./245280-super-off-road-track-pack.json) |
 | Super Off Road: The Baja | 42575 | [42575-super-off-road-the-baja.json](./42575-super-off-road-the-baja.json) |
+| Super Onion Boy+ | 292476 | [292476-super-onion-boy.json](./292476-super-onion-boy.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
 | Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
