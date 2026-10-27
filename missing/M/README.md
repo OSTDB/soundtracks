@@ -4817,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Rescue Plus | 343385 | [343385-math-rescue-plus.json](./343385-math-rescue-plus.json) |
 | Math Rescue: Rounding and Estimation game | 97139 | [97139-math-rescue-rounding-and-estimation-game.json](./97139-math-rescue-rounding-and-estimation-game.json) |
 | Math RTS | 81777 | [81777-math-rts.json](./81777-math-rts.json) |
+| Math Seeker | 316572 | [316572-math-seeker.json](./316572-math-seeker.json) |
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
 | Math Tables Mania: Learn Multiplications and Divisions | 87638 | [87638-math-tables-mania-learn-multiplications-and-divisions.json](./87638-math-tables-mania-learn-multiplications-and-divisions.json) |
 | Math the Question | 130840 | [130840-math-the-question.json](./130840-math-the-question.json) |
@@ -10423,6 +10424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
 | Minecraft x Crocs: Choose Your Mode | 310599 | [310599-minecraft-x-crocs-choose-your-mode.json](./310599-minecraft-x-crocs-choose-your-mode.json) |
 | Minecraft X Magic: The Gathering Skin Pack | 362947 | [362947-minecraft-x-magic-the-gathering-skin-pack.json](./362947-minecraft-x-magic-the-gathering-skin-pack.json) |
+| Minecraft, But If You Touch Grass You Die | 316576 | [316576-minecraft-but-if-you-touch-grass-you-die.json](./316576-minecraft-but-if-you-touch-grass-you-die.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
 | Minecraft: 1st Animal Friends Skin Pack | 316692 | [316692-minecraft-1st-animal-friends-skin-pack.json](./316692-minecraft-1st-animal-friends-skin-pack.json) |
 | Minecraft: 1st Birthday Skin Pack | 255346 | [255346-minecraft-1st-birthday-skin-pack.json](./255346-minecraft-1st-birthday-skin-pack.json) |
@@ -18211,6 +18213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Experiment Quiz | 386202 | [386202-mysterious-experiment-quiz.json](./386202-mysterious-experiment-quiz.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
 | Mysterious House | 190916 | [190916-mysterious-house.json](./190916-mysterious-house.json) |
+| Mysterious House | 316582 | [316582-mysterious-house.json](./316582-mysterious-house.json) |
 | Mysterious House | 376828 | [376828-mysterious-house.json](./376828-mysterious-house.json) |
 | Mysterious insects | 82468 | [82468-mysterious-insects.json](./82468-mysterious-insects.json) |
 | Mysterious Island | 283622 | [283622-mysterious-island.json](./283622-mysterious-island.json) |
