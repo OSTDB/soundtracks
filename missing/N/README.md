@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near-Mage: Deluxe Edition | 402955 | [402955-near-mage-deluxe-edition.json](./402955-near-mage-deluxe-edition.json) |
 | NearEscape | 109685 | [109685-nearescape.json](./109685-nearescape.json) |
 | Nearly Dead: Live and Let Die | 235190 | [235190-nearly-dead-live-and-let-die.json](./235190-nearly-dead-live-and-let-die.json) |
+| Nearly Friendly Tribes | 299685 | [299685-nearly-friendly-tribes.json](./299685-nearly-friendly-tribes.json) |
 | Nearly Impossible Odds | 373284 | [373284-nearly-impossible-odds.json](./373284-nearly-impossible-odds.json) |
 | NearPrime VR | 122141 | [122141-nearprime-vr.json](./122141-nearprime-vr.json) |
 | Nearwood | 60336 | [60336-nearwood.json](./60336-nearwood.json) |
