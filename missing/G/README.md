@@ -3871,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Life: Sleepover Party | 50592 | [50592-girls-life-sleepover-party.json](./50592-girls-life-sleepover-party.json) |
 | Girls Life: Strass & Diamonds | 68073 | [68073-girls-life-strass-and-diamonds.json](./68073-girls-life-strass-and-diamonds.json) |
 | Girls Love Toys | 241286 | [241286-girls-love-toys.json](./241286-girls-love-toys.json) |
+| Girls Made Pudding | 324785 | [324785-girls-made-pudding.json](./324785-girls-made-pudding.json) |
 | Girls of DOA Blackjack: The Kasumi Version | 1394 | [1394-girls-of-doa-blackjack-the-kasumi-version.json](./1394-girls-of-doa-blackjack-the-kasumi-version.json) |
 | Girls of Hentai Mosaic | 230140 | [230140-girls-of-hentai-mosaic.json](./230140-girls-of-hentai-mosaic.json) |
 | Girls of the Tower | 279532 | [279532-girls-of-the-tower.json](./279532-girls-of-the-tower.json) |
@@ -7990,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
 | GrindCraft | 218110 | [218110-grindcraft.json](./218110-grindcraft.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
+| GrindFest | 324815 | [324815-grindfest.json](./324815-grindfest.json) |
 | Grindhouse Games Volume I | 142851 | [142851-grindhouse-games-volume-i.json](./142851-grindhouse-games-volume-i.json) |
 | Grindset T.V. | 330641 | [330641-grindset-t-v.json](./330641-grindset-t-v.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
