@@ -4006,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intake: Be Aggressive | 174225 | [174225-intake-be-aggressive.json](./174225-intake-be-aggressive.json) |
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
 | Integer Snake | 26203 | [26203-integer-snake.json](./26203-integer-snake.json) |
+| Integrated | 323652 | [323652-integrated.json](./323652-integrated.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Integrity | 387500 | [387500-integrity.json](./387500-integrity.json) |
 | Integuments: Shadow of Shrek | 367700 | [367700-integuments-shadow-of-shrek.json](./367700-integuments-shadow-of-shrek.json) |
