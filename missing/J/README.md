@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack*Bot | 92155 | [92155-jack-bot.json](./92155-jack-bot.json) |
 | Jackal | 14133 | [14133-jackal.json](./14133-jackal.json) |
 | Jackal | 25334 | [25334-jackal.json](./25334-jackal.json) |
+| Jackal | 328345 | [328345-jackal.json](./328345-jackal.json) |
 | Jackal Squad: Classic Shooting | 197704 | [197704-jackal-squad-classic-shooting.json](./197704-jackal-squad-classic-shooting.json) |
 | Jackal Squad: Pixel World War | 199978 | [199978-jackal-squad-pixel-world-war.json](./199978-jackal-squad-pixel-world-war.json) |
 | Jackalope | 216686 | [216686-jackalope.json](./216686-jackalope.json) |
