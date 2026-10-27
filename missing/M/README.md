@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mancala | 89473 | [89473-mancala.json](./89473-mancala.json) |
 | Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
+| Mancers of Magic | 295765 | [295765-mancers-of-magic.json](./295765-mancers-of-magic.json) |
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
 | Manchester United Championship Soccer | 42503 | [42503-manchester-united-championship-soccer.json](./42503-manchester-united-championship-soccer.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
@@ -4010,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Pinball: Captain America | 21718 | [21718-marvel-pinball-captain-america.json](./21718-marvel-pinball-captain-america.json) |
 | Marvel Puzzle Quest: Dark Reign | 82445 | [82445-marvel-puzzle-quest-dark-reign.json](./82445-marvel-puzzle-quest-dark-reign.json) |
+| Marvel Quiz Quest | 295819 | [295819-marvel-quiz-quest.json](./295819-marvel-quiz-quest.json) |
 | Marvel Realm of Champions | 122756 | [122756-marvel-realm-of-champions.json](./122756-marvel-realm-of-champions.json) |
 | Marvel Rivals: Pick-Up Bundle | 355093 | [355093-marvel-rivals-pick-up-bundle.json](./355093-marvel-rivals-pick-up-bundle.json) |
 | Marvel Rivals: PlayStation Exclusive | 355092 | [355092-marvel-rivals-playstation-exclusive.json](./355092-marvel-rivals-playstation-exclusive.json) |
@@ -7276,6 +7278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mel The Pyramid Cat | 401742 | [401742-mel-the-pyramid-cat.json](./401742-mel-the-pyramid-cat.json) |
 | Mel The Space Cat | 387482 | [387482-mel-the-space-cat.json](./387482-mel-the-space-cat.json) |
 | Mel-Practice | 402481 | [402481-mel-practice.json](./402481-mel-practice.json) |
+| Melan | 295754 | [295754-melan.json](./295754-melan.json) |
 | Melancholia Maze | 366305 | [366305-melancholia-maze.json](./366305-melancholia-maze.json) |
 | Melancholic Dreamtower | 322727 | [322727-melancholic-dreamtower.json](./322727-melancholic-dreamtower.json) |
 | Melancholic Night | 399688 | [399688-melancholic-night.json](./399688-melancholic-night.json) |
@@ -10784,6 +10787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineSweeper.R | 389523 | [389523-minesweeper-r.json](./389523-minesweeper-r.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Minetic | 349893 | [349893-minetic.json](./349893-minetic.json) |
+| Mineval | 295748 | [295748-mineval.json](./295748-mineval.json) |
 | Miney Company: A Data Racket | 86746 | [86746-miney-company-a-data-racket.json](./86746-miney-company-a-data-racket.json) |
 | Minforiga | 149866 | [149866-minforiga.json](./149866-minforiga.json) |
 | Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
