@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaming Late at Night | 177886 | [177886-gaming-late-at-night.json](./177886-gaming-late-at-night.json) |
 | Gaming Raiding | 312989 | [312989-gaming-raiding.json](./312989-gaming-raiding.json) |
 | Gamino | 94551 | [94551-gamino.json](./94551-gamino.json) |
+| Gamit: The Skyward Voyage | 321281 | [321281-gamit-the-skyward-voyage.json](./321281-gamit-the-skyward-voyage.json) |
 | Gamitate the Meditation Game | 147374 | [147374-gamitate-the-meditation-game.json](./147374-gamitate-the-meditation-game.json) |
 | Gamius Type IV | 51175 | [51175-gamius-type-iv.json](./51175-gamius-type-iv.json) |
 | Gamlet | 146109 | [146109-gamlet.json](./146109-gamlet.json) |
@@ -8975,6 +8976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gumdrop Gladiator | 381354 | [381354-gumdrop-gladiator.json](./381354-gumdrop-gladiator.json) |
 | Gumdrops | 185331 | [185331-gumdrops.json](./185331-gumdrops.json) |
+| Gummibär Mobile Game | 321276 | [321276-gummibar-mobile-game.json](./321276-gummibar-mobile-game.json) |
 | Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
 | Gummy Bear Mafia | 330493 | [330493-gummy-bear-mafia.json](./330493-gummy-bear-mafia.json) |
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
