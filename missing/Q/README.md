@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of the Otaku: There can be Only One | 251992 | [251992-queen-of-the-otaku-there-can-be-only-one.json](./251992-queen-of-the-otaku-there-can-be-only-one.json) |
 | Queen of the Pack | 161577 | [161577-queen-of-the-pack.json](./161577-queen-of-the-pack.json) |
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
+| Queen of the Vesparians | 326015 | [326015-queen-of-the-vesparians.json](./326015-queen-of-the-vesparians.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
 | Queen Pirate: Love Adrift | 298992 | [298992-queen-pirate-love-adrift.json](./298992-queen-pirate-love-adrift.json) |
 | Queen Rules | 144057 | [144057-queen-rules.json](./144057-queen-rules.json) |
@@ -723,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for Camelot: Dragon Games | 320992 | [320992-quest-for-camelot-dragon-games.json](./320992-quest-for-camelot-dragon-games.json) |
 | Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
 | Quest for Choices: Ivan's Tale - Chapter 0+1 | 392393 | [392393-quest-for-choices-ivans-tale-chapter-0-1.json](./392393-quest-for-choices-ivans-tale-chapter-0-1.json) |
+| Quest for Cinema | 326016 | [326016-quest-for-cinema.json](./326016-quest-for-cinema.json) |
 | Quest For Corgi Butts | 328050 | [328050-quest-for-corgi-butts.json](./328050-quest-for-corgi-butts.json) |
 | Quest for Eclair | 311322 | [311322-quest-for-eclair.json](./311322-quest-for-eclair.json) |
 | Quest For Fame | 209748 | [209748-quest-for-fame.json](./209748-quest-for-fame.json) |
@@ -750,10 +752,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for the Pinnacle | 238508 | [238508-quest-for-the-pinnacle.json](./238508-quest-for-the-pinnacle.json) |
 | Quest for the Royal Jelly | 26827 | [26827-quest-for-the-royal-jelly.json](./26827-quest-for-the-royal-jelly.json) |
 | Quest for the Shaven Yak Starring Ren Hoëk and Stimpy | 7986 | [7986-quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy.json](./7986-quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy.json) |
+| Quest for the Strawberry Pie | 326017 | [326017-quest-for-the-strawberry-pie.json](./326017-quest-for-the-strawberry-pie.json) |
 | Quest for the Traitor Saint | 57497 | [57497-quest-for-the-traitor-saint.json](./57497-quest-for-the-traitor-saint.json) |
 | Quest for the Unicorn | 356852 | [356852-quest-for-the-unicorn.json](./356852-quest-for-the-unicorn.json) |
 | Quest For The X | 259822 | [259822-quest-for-the-x.json](./259822-quest-for-the-x.json) |
 | Quest For Wartorn Brotherhood | 118389 | [118389-quest-for-wartorn-brotherhood.json](./118389-quest-for-wartorn-brotherhood.json) |
+| Quest for Yeti | 326019 | [326019-quest-for-yeti.json](./326019-quest-for-yeti.json) |
 | Quest for Yrolg | 57098 | [57098-quest-for-yrolg.json](./57098-quest-for-yrolg.json) |
 | Quest Forge: By Order of Kings | 48889 | [48889-quest-forge-by-order-of-kings.json](./48889-quest-forge-by-order-of-kings.json) |
 | Quest Girl | 323243 | [323243-quest-girl.json](./323243-quest-girl.json) |
