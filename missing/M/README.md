@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Massage | 323014 | [323014-magical-massage.json](./323014-magical-massage.json) |
 | Magical Maze | 147749 | [147749-magical-maze.json](./147749-magical-maze.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
+| Magical Mic Duel: Senpai, Hear My Spell | 288167 | [288167-magical-mic-duel-senpai-hear-my-spell.json](./288167-magical-mic-duel-senpai-hear-my-spell.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
 | Magical Monster Land | 110671 | [110671-magical-monster-land.json](./110671-magical-monster-land.json) |
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
@@ -8242,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Revelations - Ring Spirits | 112194 | [112194-meta-revelations-ring-spirits.json](./112194-meta-revelations-ring-spirits.json) |
 | Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
 | Meta Sudoku | 208639 | [208639-meta-sudoku.json](./208639-meta-sudoku.json) |
+| Meta Visual Art | 288378 | [288378-meta-visual-art.json](./288378-meta-visual-art.json) |
 | Meta World: My City | 193861 | [193861-meta-world-my-city.json](./193861-meta-world-my-city.json) |
 | Meta-Ph-List: Gamma X 2097 | 43755 | [43755-meta-ph-list-gamma-x-2097.json](./43755-meta-ph-list-gamma-x-2097.json) |
 | Meta: Assembled | 392795 | [392795-meta-assembled.json](./392795-meta-assembled.json) |
@@ -12918,6 +12920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco 2 | 194505 | [194505-monaco-2.json](./194505-monaco-2.json) |
 | Monaco 360: Retro Racing | 68556 | [68556-monaco-360-retro-racing.json](./68556-monaco-360-retro-racing.json) |
 | Monaco GP | 408809 | [408809-monaco-gp.json](./408809-monaco-gp.json) |
+| Monaco Grand Prix | 288257 | [288257-monaco-grand-prix.json](./288257-monaco-grand-prix.json) |
 | Monaco Grand Prix | 3413 | [3413-monaco-grand-prix.json](./3413-monaco-grand-prix.json) |
 | Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
 | Monaco: What's Yours Is Mine | 8739 | [8739-monaco-whats-yours-is-mine.json](./8739-monaco-whats-yours-is-mine.json) |
@@ -14671,6 +14674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Ermac | 266217 | [266217-mortal-kombat-1-ermac.json](./266217-mortal-kombat-1-ermac.json) |
 | Mortal Kombat 1: Ghostface | 312337 | [312337-mortal-kombat-1-ghostface.json](./312337-mortal-kombat-1-ghostface.json) |
 | Mortal Kombat 1: Homelander | 266219 | [266219-mortal-kombat-1-homelander.json](./266219-mortal-kombat-1-homelander.json) |
+| Mortal Kombat 1: Invasions - Season of the Cryomancer | 288181 | [288181-mortal-kombat-1-invasions-season-of-the-cryomancer.json](./288181-mortal-kombat-1-invasions-season-of-the-cryomancer.json) |
 | Mortal Kombat 1: Invasions - Season of the Huntress | 310607 | [310607-mortal-kombat-1-invasions-season-of-the-huntress.json](./310607-mortal-kombat-1-invasions-season-of-the-huntress.json) |
 | Mortal Kombat 1: Invasions - Season of the Reptile | 311073 | [311073-mortal-kombat-1-invasions-season-of-the-reptile.json](./311073-mortal-kombat-1-invasions-season-of-the-reptile.json) |
 | Mortal Kombat 1: Invasions - Season of the Soul Eater | 311075 | [311075-mortal-kombat-1-invasions-season-of-the-soul-eater.json](./311075-mortal-kombat-1-invasions-season-of-the-soul-eater.json) |
@@ -17627,6 +17631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
 | My Landlord Is a Sadistic MILF | 418857 | [418857-my-landlord-is-a-sadistic-milf.json](./418857-my-landlord-is-a-sadistic-milf.json) |
 | My Last 20 | 348144 | [348144-my-last-20.json](./348144-my-last-20.json) |
+| My Last Appointment | 288242 | [288242-my-last-appointment.json](./288242-my-last-appointment.json) |
 | My Last First Kiss | 186572 | [186572-my-last-first-kiss.json](./186572-my-last-first-kiss.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
 | My Last Friend | 134911 | [134911-my-last-friend.json](./134911-my-last-friend.json) |
