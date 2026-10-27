@@ -3203,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What if Your Girl Was a Frog? | 202553 | [202553-what-if-your-girl-was-a-frog.json](./202553-what-if-your-girl-was-a-frog.json) |
 | What in Carnation?! | 398810 | [398810-what-in-carnation.json](./398810-what-in-carnation.json) |
 | What Is Death? | 390187 | [390187-what-is-death.json](./390187-what-is-death.json) |
+| What Is in the Black Box? | 326026 | [326026-what-is-in-the-black-box.json](./326026-what-is-in-the-black-box.json) |
 | What Is Love?: Vol. 1 | 203921 | [203921-what-is-love-vol-1.json](./203921-what-is-love-vol-1.json) |
 | What is My Name | 305538 | [305538-what-is-my-name.json](./305538-what-is-my-name.json) |
 | What is Older? | 374674 | [374674-what-is-older.json](./374674-what-is-older.json) |
