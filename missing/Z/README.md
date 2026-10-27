@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaba the Frog | 55800 | [55800-zaba-the-frog.json](./55800-zaba-the-frog.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zabawa Karaoke | 367920 | [367920-zabawa-karaoke.json](./367920-zabawa-karaoke.json) |
+| Zabb World: Secret Stories | 320112 | [320112-zabb-world-secret-stories.json](./320112-zabb-world-secret-stories.json) |
 | Zabugorie: The Fairy Planet | 57638 | [57638-zabugorie-the-fairy-planet.json](./57638-zabugorie-the-fairy-planet.json) |
 | Zabula's Quest | 144224 | [144224-zabulas-quest.json](./144224-zabulas-quest.json) |
 | Zac Zac adventure | 133360 | [133360-zac-zac-adventure.json](./133360-zac-zac-adventure.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenkoku Koukou Soccer 2 | 42350 | [42350-zenkoku-koukou-soccer-2.json](./42350-zenkoku-koukou-soccer-2.json) |
 | Zenku | 384881 | [384881-zenku.json](./384881-zenku.json) |
 | Zenless Zone Zero: Update 1.1 - Undercover R&B | 316048 | [316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json](./316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json) |
+| Zenless Zone Zero: Update 1.2 - Tour de Inferno | 320109 | [320109-zenless-zone-zero-update-1-2-tour-de-inferno.json](./320109-zenless-zone-zero-update-1-2-tour-de-inferno.json) |
 | Zenless Zone Zero: Update 1.3 - Virtual Revenge | 320860 | [320860-zenless-zone-zero-update-1-3-virtual-revenge.json](./320860-zenless-zone-zero-update-1-3-virtual-revenge.json) |
 | Zenless Zone Zero: Update 1.5 - Astra-nomical Moment | 327812 | [327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json](./327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json) |
 | Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past | 339793 | [339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json](./339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json) |
