@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Rites | 320471 | [320471-last-rites.json](./320471-last-rites.json) |
 | Last Rites | 71124 | [71124-last-rites.json](./71124-last-rites.json) |
 | Last Rites 1347 | 323574 | [323574-last-rites-1347.json](./323574-last-rites-1347.json) |
+| Last Rollbug | 319613 | [319613-last-rollbug.json](./319613-last-rollbug.json) |
 | Last Rose | 125800 | [125800-last-rose.json](./125800-last-rose.json) |
 | Last Round | 260522 | [260522-last-round.json](./260522-last-round.json) |
 | Last Round at the End of the World | 404087 | [404087-last-round-at-the-end-of-the-world.json](./404087-last-round-at-the-end-of-the-world.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Star Wars the Force Awakens - Star Wars Rebels Character Pack | 355112 | [355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json](./355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json) |
 | Lego Star Wars the Force Awakens - The Freemaker Adventures Character Pack | 355114 | [355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json](./355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json) |
 | LEGO Star Wars: Castaways | 182441 | [182441-lego-star-wars-castaways.json](./182441-lego-star-wars-castaways.json) |
+| Lego Star Wars: End of War | 319612 | [319612-lego-star-wars-end-of-war.json](./319612-lego-star-wars-end-of-war.json) |
 | LEGO Star Wars: Microfighters | 288100 | [288100-lego-star-wars-microfighters.json](./288100-lego-star-wars-microfighters.json) |
 | LEGO Star Wars: The Complete Saga | 194935 | [194935-lego-star-wars-the-complete-saga.json](./194935-lego-star-wars-the-complete-saga.json) |
 | LEGO Star Wars: The Force Awakens - Deluxe Edition | 53271 | [53271-lego-star-wars-the-force-awakens-deluxe-edition.json](./53271-lego-star-wars-the-force-awakens-deluxe-edition.json) |
