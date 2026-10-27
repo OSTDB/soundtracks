@@ -4890,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serene Estates: Last Guy | 372677 | [372677-serene-estates-last-guy.json](./372677-serene-estates-last-guy.json) |
 | Serene Hike | 246791 | [246791-serene-hike.json](./246791-serene-hike.json) |
 | Serene Seasons | 334027 | [334027-serene-seasons.json](./334027-serene-seasons.json) |
+| Serenestadt | 290880 | [290880-serenestadt.json](./290880-serenestadt.json) |
 | Serenitrove | 341541 | [341541-serenitrove.json](./341541-serenitrove.json) |
 | Serenity | 291961 | [291961-serenity.json](./291961-serenity.json) |
 | Serenity | 313862 | [313862-serenity.json](./313862-serenity.json) |
@@ -12810,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
 | Sneaky Purr | 422479 | [422479-sneaky-purr.json](./422479-sneaky-purr.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
+| Sneaky Snacks | 290885 | [290885-sneaky-snacks.json](./290885-sneaky-snacks.json) |
 | Sneaky Snake | 124560 | [124560-sneaky-snake.json](./124560-sneaky-snake.json) |
 | Sneaky Snakes | 49025 | [49025-sneaky-snakes.json](./49025-sneaky-snakes.json) |
 | Sneaky Sneaky | 14553 | [14553-sneaky-sneaky.json](./14553-sneaky-sneaky.json) |
@@ -25200,6 +25202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style | 148419 | [148419-sugar-style.json](./148419-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen | 49811 | [49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json](./49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json) |
+| Sugar Tanks 2 | 290966 | [290966-sugar-tanks-2.json](./290966-sugar-tanks-2.json) |
 | Sugar Tanks Arena | 291506 | [291506-sugar-tanks-arena.json](./291506-sugar-tanks-arena.json) |
 | Sugar-Coated | 221038 | [221038-sugar-coated.json](./221038-sugar-coated.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
