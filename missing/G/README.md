@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban VR | 382847 | [382847-garten-of-banban-vr.json](./382847-garten-of-banban-vr.json) |
 | Garten of Banban VR: Distorting Clay | 324742 | [324742-garten-of-banban-vr-distorting-clay.json](./324742-garten-of-banban-vr-distorting-clay.json) |
 | Garten of Banban: Last Ticket to the Abyss | 363986 | [363986-garten-of-banban-last-ticket-to-the-abyss.json](./363986-garten-of-banban-last-ticket-to-the-abyss.json) |
+| Garten of Banban: Punchrush | 288035 | [288035-garten-of-banban-punchrush.json](./288035-garten-of-banban-punchrush.json) |
 | Gartic | 50158 | [50158-gartic.json](./50158-gartic.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
 | Gartic Show | 184285 | [184285-gartic-show.json](./184285-gartic-show.json) |
@@ -3891,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls don't like me | 182905 | [182905-girls-dont-like-me.json](./182905-girls-dont-like-me.json) |
 | Girls Eliminate | 405336 | [405336-girls-eliminate.json](./405336-girls-eliminate.json) |
 | Girls Fashion 3D: Mezase! Top Stylist | 222331 | [222331-girls-fashion-3d-mezase-top-stylist.json](./222331-girls-fashion-3d-mezase-top-stylist.json) |
+| Girls for Sex for Cyberpunk Sex | 288243 | [288243-girls-for-sex-for-cyberpunk-sex.json](./288243-girls-for-sex-for-cyberpunk-sex.json) |
 | Girls for Sex for Sex Motel | 288893 | [288893-girls-for-sex-for-sex-motel.json](./288893-girls-for-sex-for-sex-motel.json) |
 | Girls Frantic Clan | 263606 | [263606-girls-frantic-clan.json](./263606-girls-frantic-clan.json) |
 | Girls Free | 127940 | [127940-girls-free.json](./127940-girls-free.json) |
