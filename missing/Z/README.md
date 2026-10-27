@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 1 / Metroid 1 Combo Randomizer | 152749 | [152749-zelda-1-metroid-1-combo-randomizer.json](./152749-zelda-1-metroid-1-combo-randomizer.json) |
 | Zelda 2 DX | 323022 | [323022-zelda-2-dx.json](./323022-zelda-2-dx.json) |
+| Zelda 64 | 313064 | [313064-zelda-64.json](./313064-zelda-64.json) |
 | Zelda 64 1996 | 315033 | [315033-zelda-64-1996.json](./315033-zelda-64-1996.json) |
 | Zelda 64 1997 | 286619 | [286619-zelda-64-1997.json](./286619-zelda-64-1997.json) |
 | Zelda 64: Dawn & Dusk | 132646 | [132646-zelda-64-dawn-and-dusk.json](./132646-zelda-64-dawn-and-dusk.json) |
