@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage: Anarchy Edition | 43033 | [43033-rage-anarchy-edition.json](./43033-rage-anarchy-edition.json) |
 | Rage: The Scorchers | 10751 | [10751-rage-the-scorchers.json](./10751-rage-the-scorchers.json) |
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
+| RageBall | 299699 | [299699-rageball.json](./299699-rageball.json) |
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
 | RageByte | 383677 | [383677-ragebyte.json](./383677-ragebyte.json) |
 | Ragedanger Earth | 203664 | [203664-ragedanger-earth.json](./203664-ragedanger-earth.json) |
@@ -4150,6 +4151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relive | 34413 | [34413-relive.json](./34413-relive.json) |
 | Relive the Fear: Perfect Neighbor | 410494 | [410494-relive-the-fear-perfect-neighbor.json](./410494-relive-the-fear-perfect-neighbor.json) |
 | Relive The Past | 387966 | [387966-relive-the-past.json](./387966-relive-the-past.json) |
+| Relive Your Life | 299703 | [299703-relive-your-life.json](./299703-relive-your-life.json) |
 | Reliving the End | 318155 | [318155-reliving-the-end.json](./318155-reliving-the-end.json) |
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
 | Relo | 295306 | [295306-relo.json](./295306-relo.json) |
