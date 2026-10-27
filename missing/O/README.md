@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
 | Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
 | Operation: Black Mesa | 6740 | [6740-operation-black-mesa.json](./6740-operation-black-mesa.json) |
+| Operation: Chateau Pregny | 302990 | [302990-operation-chateau-pregny.json](./302990-operation-chateau-pregny.json) |
 | Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
 | Operation: Desert City | 177271 | [177271-operation-desert-city.json](./177271-operation-desert-city.json) |
 | Operation: Desert Storm | 8712 | [8712-operation-desert-storm.json](./8712-operation-desert-storm.json) |
@@ -4498,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Mayor Panic | 144675 | [144675-outlaw-mayor-panic.json](./144675-outlaw-mayor-panic.json) |
 | Outlaw Racers | 47085 | [47085-outlaw-racers.json](./47085-outlaw-racers.json) |
 | Outlaw Racing | 210603 | [210603-outlaw-racing.json](./210603-outlaw-racing.json) |
+| Outlaw Squadron | 302973 | [302973-outlaw-squadron.json](./302973-outlaw-squadron.json) |
 | Outlaw Tales: Survival Online | 118657 | [118657-outlaw-tales-survival-online.json](./118657-outlaw-tales-survival-online.json) |
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlaw Tennis | 5977 | [5977-outlaw-tennis.json](./5977-outlaw-tennis.json) |
