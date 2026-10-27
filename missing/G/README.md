@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
 | G-Mode Archives+: Momoko no Kasei Bowling - La Mars Cup | 266172 | [266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json](./266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json) |
 | G-Mode Archives+: Monstre Waltz | 388382 | [388382-g-mode-archives-monstre-waltz.json](./388382-g-mode-archives-monstre-waltz.json) |
+| G-Mode Archives+: Persona 3: Aegis The First Mission | 298527 | [298527-g-mode-archives-persona-3-aegis-the-first-mission.json](./298527-g-mode-archives-persona-3-aegis-the-first-mission.json) |
 | G-Mode Archives+: Ridge Racer | 416050 | [416050-g-mode-archives-ridge-racer.json](./416050-g-mode-archives-ridge-racer.json) |
 | G-Mode Archives+: Saiko Mystery Series vol. 1 - Three, Mittsu no Kioki | 251472 | [251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json](./251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol. 2 - Angel City | 254928 | [254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json](./254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Storm | 233382 | [233382-galaxy-storm.json](./233382-galaxy-storm.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
 | Galaxy Survivors | 212839 | [212839-galaxy-survivors.json](./212839-galaxy-survivors.json) |
+| Galaxy Swirl | 297529 | [297529-galaxy-swirl.json](./297529-galaxy-swirl.json) |
 | Galaxy Too Far | 285947 | [285947-galaxy-too-far.json](./285947-galaxy-too-far.json) |
 | Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
@@ -1950,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gato | 19702 | [19702-gato.json](./19702-gato.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
+| Gatos contra el mundo | 299092 | [299092-gatos-contra-el-mundo.json](./299092-gatos-contra-el-mundo.json) |
 | Gatotag | 403924 | [403924-gatotag.json](./403924-gatotag.json) |
 | Gats.io | 327907 | [327907-gats-io.json](./327907-gats-io.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
@@ -2603,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genkai Totsuki Monster Monpiece | 145407 | [145407-genkai-totsuki-monster-monpiece.json](./145407-genkai-totsuki-monster-monpiece.json) |
 | Genkai! Yamazumi Battle | 222374 | [222374-genkai-yamazumi-battle.json](./222374-genkai-yamazumi-battle.json) |
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
+| Genma Taisen | 298528 | [298528-genma-taisen.json](./298528-genma-taisen.json) |
 | GenMobile | 202810 | [202810-genmobile.json](./202810-genmobile.json) |
 | Gennady | 252013 | [252013-gennady.json](./252013-gennady.json) |
 | Geno 2 the Generals' Orders | 265933 | [265933-geno-2-the-generals-orders.json](./265933-geno-2-the-generals-orders.json) |
@@ -4643,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Golf | 60885 | [60885-go-go-golf.json](./60885-go-go-golf.json) |
 | Go Go Gummo | 376523 | [376523-go-go-gummo.json](./376523-go-go-gummo.json) |
 | Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
+| Go Go Magnet! | 297513 | [297513-go-go-magnet.json](./297513-go-go-magnet.json) |
 | Go go mr yamaguchi | 39811 | [39811-go-go-mr-yamaguchi.json](./39811-go-go-mr-yamaguchi.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
@@ -9311,6 +9316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave VR U.N | 115562 | [115562-gungrave-vr-u-n.json](./115562-gungrave-vr-u-n.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gungriffon Blaze | 21978 | [21978-gungriffon-blaze.json](./21978-gungriffon-blaze.json) |
+| GunGun: Race Against Time | 297514 | [297514-gungun-race-against-time.json](./297514-gungun-race-against-time.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
 | GunHed: Aratanaru Tatakai | 48478 | [48478-gunhed-aratanaru-tatakai.json](./48478-gunhed-aratanaru-tatakai.json) |
