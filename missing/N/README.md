@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuro | 141857 | [141857-neuro.json](./141857-neuro.json) |
 | Neuro | 98896 | [98896-neuro.json](./98896-neuro.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
+| Neuro Hacker: Truth | 285307 | [285307-neuro-hacker-truth.json](./285307-neuro-hacker-truth.json) |
 | Neuro Hunter | 71491 | [71491-neuro-hunter.json](./71491-neuro-hunter.json) |
 | Neuro Nightmare | 340949 | [340949-neuro-nightmare.json](./340949-neuro-nightmare.json) |
 | Neuroarena: Black Duel Master | 363569 | [363569-neuroarena-black-duel-master.json](./363569-neuroarena-black-duel-master.json) |
