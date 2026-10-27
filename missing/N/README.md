@@ -5323,6 +5323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal Hunt | 75762 | [75762-nocturnal-hunt.json](./75762-nocturnal-hunt.json) |
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
 | Nocturnal Quest | 386416 | [386416-nocturnal-quest.json](./386416-nocturnal-quest.json) |
+| Nocturnal Relics | 302336 | [302336-nocturnal-relics.json](./302336-nocturnal-relics.json) |
 | Nocturnal Sun | 374926 | [374926-nocturnal-sun.json](./374926-nocturnal-sun.json) |
 | Nocturnal Survivors | 345370 | [345370-nocturnal-survivors.json](./345370-nocturnal-survivors.json) |
 | Nocturnal Throne | 373732 | [373732-nocturnal-throne.json](./373732-nocturnal-throne.json) |
