@@ -5365,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eufloria Classic | 321480 | [321480-eufloria-classic.json](./321480-eufloria-classic.json) |
 | Eufloria HD | 15395 | [15395-eufloria-hd.json](./15395-eufloria-hd.json) |
 | Eugene's Dream: The Daily Ins And Outs Of A Sane Robot In An Insane World | 160069 | [160069-eugenes-dream-the-daily-ins-and-outs-of-a-sane-robot-in-an-insane-world.json](./160069-eugenes-dream-the-daily-ins-and-outs-of-a-sane-robot-in-an-insane-world.json) |
+| Eugenia's Pursuit: The Hidden Legacy | 291417 | [291417-eugenias-pursuit-the-hidden-legacy.json](./291417-eugenias-pursuit-the-hidden-legacy.json) |
 | Eugenics | 18426 | [18426-eugenics.json](./18426-eugenics.json) |
 | Eukarion Tales 2 | 247422 | [247422-eukarion-tales-2.json](./247422-eukarion-tales-2.json) |
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
