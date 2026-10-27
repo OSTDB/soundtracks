@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallotGuessr | 394453 | [394453-ballotguessr.json](./394453-ballotguessr.json) |
 | Ballotoro | 349769 | [349769-ballotoro.json](./349769-ballotoro.json) |
 | Ballotron | 192297 | [192297-ballotron.json](./192297-ballotron.json) |
+| Ballotron Galaxy | 329509 | [329509-ballotron-galaxy.json](./329509-ballotron-galaxy.json) |
 | Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
 | Ballpark | 24749 | [24749-ballpark.json](./24749-ballpark.json) |
 | Ballpoint Universe | 50861 | [50861-ballpoint-universe.json](./50861-ballpoint-universe.json) |
@@ -11796,6 +11797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundel | 33230 | [33230-boundel.json](./33230-boundel.json) |
 | Bounden | 61876 | [61876-bounden.json](./61876-bounden.json) |
 | Bounder | 13428 | [13428-bounder.json](./13428-bounder.json) |
+| Boundland | 329511 | [329511-boundland.json](./329511-boundland.json) |
 | Boundless | 14365 | [14365-boundless.json](./14365-boundless.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
 | Boundless Paths | 267023 | [267023-boundless-paths.json](./267023-boundless-paths.json) |
