@@ -10526,6 +10526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The World Warrior | 276090 | [276090-minecraft-the-world-warrior.json](./276090-minecraft-the-world-warrior.json) |
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
 | Minecraft: Tiny Takeover | 393595 | [393595-minecraft-tiny-takeover.json](./393595-minecraft-tiny-takeover.json) |
+| Minecraft: Toontown | 326036 | [326036-minecraft-toontown.json](./326036-minecraft-toontown.json) |
 | Minecraft: Toy Story Mash-up | 254066 | [254066-minecraft-toy-story-mash-up.json](./254066-minecraft-toy-story-mash-up.json) |
 | Minecraft: Trails & Tales | 240295 | [240295-minecraft-trails-and-tales.json](./240295-minecraft-trails-and-tales.json) |
 | Minecraft: Trails & Tales | 240296 | [240296-minecraft-trails-and-tales.json](./240296-minecraft-trails-and-tales.json) |
