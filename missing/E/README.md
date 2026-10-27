@@ -5502,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
 | Evades X | 396444 | [396444-evades-x.json](./396444-evades-x.json) |
 | Evades.io | 112223 | [112223-evades-io.json](./112223-evades-io.json) |
+| Evaluate | 329457 | [329457-evaluate.json](./329457-evaluate.json) |
 | Evan Quest | 170357 | [170357-evan-quest.json](./170357-evan-quest.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
 | Evan, Daniel and Friends. Vol 2 | 238970 | [238970-evan-daniel-and-friends-vol-2.json](./238970-evan-daniel-and-friends-vol-2.json) |
@@ -5786,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace | 14172 | [14172-everspace.json](./14172-everspace.json) |
 | Everspace 2: Stellar Edition | 246298 | [246298-everspace-2-stellar-edition.json](./246298-everspace-2-stellar-edition.json) |
 | Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
+| Everspace 2: Wrath of the Ancients | 329493 | [329493-everspace-2-wrath-of-the-ancients.json](./329493-everspace-2-wrath-of-the-ancients.json) |
 | Everspace: Encounters | 74892 | [74892-everspace-encounters.json](./74892-everspace-encounters.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Everspace: Ultimate Edition | 361101 | [361101-everspace-ultimate-edition.json](./361101-everspace-ultimate-edition.json) |
