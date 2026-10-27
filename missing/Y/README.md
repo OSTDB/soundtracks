@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoru no Umi de Otsukisama wo Tsuru | 147229 | [147229-yoru-no-umi-de-otsukisama-wo-tsuru.json](./147229-yoru-no-umi-de-otsukisama-wo-tsuru.json) |
 | Yoru, Tomosu | 136740 | [136740-yoru-tomosu.json](./136740-yoru-tomosu.json) |
 | Yorumorukimiri | 147336 | [147336-yorumorukimiri.json](./147336-yorumorukimiri.json) |
+| Yorumorukimiri: Hajimari no Shoujo | 325374 | [325374-yorumorukimiri-hajimari-no-shoujo.json](./325374-yorumorukimiri-hajimari-no-shoujo.json) |
 | Yorumorukimiri: Shippo-tachi no Kizuna | 147337 | [147337-yorumorukimiri-shippo-tachi-no-kizuna.json](./147337-yorumorukimiri-shippo-tachi-no-kizuna.json) |
 | Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
 | Yosemite Forest Ranger | 201126 | [201126-yosemite-forest-ranger.json](./201126-yosemite-forest-ranger.json) |
