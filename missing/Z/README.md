@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 3.0 - A Sleepwalker's Confession | 406810 | [406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json](./406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json) |
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
 | Zenmai Zamurai | 124128 | [124128-zenmai-zamurai.json](./124128-zenmai-zamurai.json) |
+| Zeno | 281232 | [281232-zeno.json](./281232-zeno.json) |
 | Zeno Archives | 52109 | [52109-zeno-archives.json](./52109-zeno-archives.json) |
 | Zeno Clash | 6360 | [6360-zeno-clash.json](./6360-zeno-clash.json) |
 | Zeno Clash II | 2048 | [2048-zeno-clash-ii.json](./2048-zeno-clash-ii.json) |
@@ -1777,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies. | 95370 | [95370-zombies.json](./95370-zombies.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
 | Zombies.io | 334539 | [334539-zombies-io.json](./334539-zombies-io.json) |
+| ZombieSmash HD | 281446 | [281446-zombiesmash-hd.json](./281446-zombiesmash-hd.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
 | ZombiesWaves | 149902 | [149902-zombieswaves.json](./149902-zombieswaves.json) |
 | ZombieThon | 98843 | [98843-zombiethon.json](./98843-zombiethon.json) |
