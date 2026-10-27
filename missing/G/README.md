@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls & Guardians | 348982 | [348982-ghouls-and-guardians.json](./348982-ghouls-and-guardians.json) |
 | Ghouls Grooves and Garlic | 416354 | [416354-ghouls-grooves-and-garlic.json](./416354-ghouls-grooves-and-garlic.json) |
 | Ghouls vs Humans: Classic Reborn | 361501 | [361501-ghouls-vs-humans-classic-reborn.json](./361501-ghouls-vs-humans-classic-reborn.json) |
+| GhoulScrapers | 316008 | [316008-ghoulscrapers.json](./316008-ghoulscrapers.json) |
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
 | Ghunter | 322112 | [322112-ghunter.json](./322112-ghunter.json) |
 | Ghurka | 295672 | [295672-ghurka.json](./295672-ghurka.json) |
@@ -8670,6 +8671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Person? | 88466 | [88466-guess-the-person.json](./88466-guess-the-person.json) |
 | Guess the Word | 115339 | [115339-guess-the-word.json](./115339-guess-the-word.json) |
 | Guess the Word | 277341 | [277341-guess-the-word.json](./277341-guess-the-word.json) |
+| Guess Their Answer | 316105 | [316105-guess-their-answer.json](./316105-guess-their-answer.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
 | Guess who ? | 104929 | [104929-guess-who.json](./104929-guess-who.json) |
 | Guess Who? | 331927 | [331927-guess-who.json](./331927-guess-who.json) |
