@@ -8352,6 +8352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch Truck Tycoon | 35118 | [35118-lunch-truck-tycoon.json](./35118-lunch-truck-tycoon.json) |
 | Lunch Truck Tycoon 2 | 44220 | [44220-lunch-truck-tycoon-2.json](./44220-lunch-truck-tycoon-2.json) |
 | Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
+| Lunch-O-Matic | 320121 | [320121-lunch-o-matic.json](./320121-lunch-o-matic.json) |
 | Lunch-Out 3: Waste Disposal 20XX | 371531 | [371531-lunch-out-3-waste-disposal-20xx.json](./371531-lunch-out-3-waste-disposal-20xx.json) |
 | Lunchy | 320401 | [320401-lunchy.json](./320401-lunchy.json) |
 | Lune | 32455 | [32455-lune.json](./32455-lune.json) |
