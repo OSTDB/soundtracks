@@ -7344,6 +7344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Egypt Edition | 366783 | [366783-hole-io-egypt-edition.json](./366783-hole-io-egypt-edition.json) |
 | Hole io: Freak Edition | 275051 | [275051-hole-io-freak-edition.json](./275051-hole-io-freak-edition.json) |
 | Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
+| Hole io: Gold Edition | 331818 | [331818-hole-io-gold-edition.json](./331818-hole-io-gold-edition.json) |
 | Hole io: Japan DLC | 378969 | [378969-hole-io-japan-dlc.json](./378969-hole-io-japan-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
 | Hole io: Warzone | 300945 | [300945-hole-io-warzone.json](./300945-hole-io-warzone.json) |
