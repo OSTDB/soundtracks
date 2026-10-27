@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4177,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Bean There, Swung That | 373038 | [373038-bean-there-swung-that.json](./373038-bean-there-swung-that.json) |
+| Bean to Me! | 318458 | [318458-bean-to-me.json](./318458-bean-to-me.json) |
 | Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
 | Bean's Adventure | 359446 | [359446-beans-adventure.json](./359446-beans-adventure.json) |
 | Bean's Jack | 410906 | [410906-beans-jack.json](./410906-beans-jack.json) |
@@ -4187,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
+| Beans Of Production | 318465 | [318465-beans-of-production.json](./318465-beans-of-production.json) |
 | Beans or Bones | 253775 | [253775-beans-or-bones.json](./253775-beans-or-bones.json) |
 | Beans: The Coffee Shop Simulator | 28866 | [28866-beans-the-coffee-shop-simulator.json](./28866-beans-the-coffee-shop-simulator.json) |
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
@@ -8966,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
 | Block Jumper | 230961 | [230961-block-jumper.json](./230961-block-jumper.json) |
 | Block King Demands Red Squares | 347088 | [347088-block-king-demands-red-squares.json](./347088-block-king-demands-red-squares.json) |
+| Block Koala | 318468 | [318468-block-koala.json](./318468-block-koala.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
 | Block Legend | 38801 | [38801-block-legend.json](./38801-block-legend.json) |
 | Block Line Engineer | 188944 | [188944-block-line-engineer.json](./188944-block-line-engineer.json) |
@@ -9491,6 +9495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood: Refreshed Supply - Death Wish | 394316 | [394316-blood-refreshed-supply-death-wish.json](./394316-blood-refreshed-supply-death-wish.json) |
 | Blood: The Last Vampire - First Volume | 65028 | [65028-blood-the-last-vampire-first-volume.json](./65028-blood-the-last-vampire-first-volume.json) |
 | Blood: The Last Vampire - Last Volume | 65026 | [65026-blood-the-last-vampire-last-volume.json](./65026-blood-the-last-vampire-last-volume.json) |
+| Blood: What Lies Beneath | 318374 | [318374-blood-what-lies-beneath.json](./318374-blood-what-lies-beneath.json) |
 | Blood+ | 286589 | [286589-blood.json](./286589-blood.json) |
 | Blood+ One Night Kiss | 23128 | [23128-blood-one-night-kiss.json](./23128-blood-one-night-kiss.json) |
 | Blood+: Final Piece | 72478 | [72478-blood-final-piece.json](./72478-blood-final-piece.json) |
@@ -9942,6 +9947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Laserdisc Challenge | 359895 | [359895-blue-laserdisc-challenge.json](./359895-blue-laserdisc-challenge.json) |
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
 | Blue Libra 2 | 25539 | [25539-blue-libra-2.json](./25539-blue-libra-2.json) |
+| Blue Light | 318370 | [318370-blue-light.json](./318370-blue-light.json) |
 | Blue Lightning | 12364 | [12364-blue-lightning.json](./12364-blue-lightning.json) |
 | Blue Lightning | 74903 | [74903-blue-lightning.json](./74903-blue-lightning.json) |
 | Blue Madonna | 52473 | [52473-blue-madonna.json](./52473-blue-madonna.json) |
