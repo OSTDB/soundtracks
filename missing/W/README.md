@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
 | Warships Online | 23624 | [23624-warships-online.json](./23624-warships-online.json) |
 | Warshmallows | 132613 | [132613-warshmallows.json](./132613-warshmallows.json) |
+| Warshovel: Idle RPG | 324803 | [324803-warshovel-idle-rpg.json](./324803-warshovel-idle-rpg.json) |
 | Warside | 17785 | [17785-warside.json](./17785-warside.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | Warsim: The Realm of Aslona | 43148 | [43148-warsim-the-realm-of-aslona.json](./43148-warsim-the-realm-of-aslona.json) |
@@ -2761,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Wormholes | 323438 | [323438-weird-wormholes.json](./323438-weird-wormholes.json) |
 | Weird: Truth is Stranger than Fiction | 69217 | [69217-weird-truth-is-stranger-than-fiction.json](./69217-weird-truth-is-stranger-than-fiction.json) |
 | Weirdlands | 144978 | [144978-weirdlands.json](./144978-weirdlands.json) |
+| Weirdo | 324805 | [324805-weirdo.json](./324805-weirdo.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | Weiss Schwarz Portable: 2nd Turn | 269508 | [269508-weiss-schwarz-portable-2nd-turn.json](./269508-weiss-schwarz-portable-2nd-turn.json) |
@@ -6338,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Charades | 396009 | [396009-word-charades.json](./396009-word-charades.json) |
 | Word Charm | 88511 | [88511-word-charm.json](./88511-word-charm.json) |
+| Word Chase | 324814 | [324814-word-chase.json](./324814-word-chase.json) |
 | Word Chef | 192066 | [192066-word-chef.json](./192066-word-chef.json) |
 | Word Chef: Letter Pop | 241330 | [241330-word-chef-letter-pop.json](./241330-word-chef-letter-pop.json) |
 | Word Choices | 233052 | [233052-word-choices.json](./233052-word-choices.json) |
