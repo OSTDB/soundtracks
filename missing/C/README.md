@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Gun | 163705 | [163705-candy-gun.json](./163705-candy-gun.json) |
 | Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
 | Candy Hentai | 301662 | [301662-candy-hentai.json](./301662-candy-hentai.json) |
+| Candy House in the Dark Forest | 294125 | [294125-candy-house-in-the-dark-forest.json](./294125-candy-house-in-the-dark-forest.json) |
 | Candy Ice Cream Jam Match 3 | 166297 | [166297-candy-ice-cream-jam-match-3.json](./166297-candy-ice-cream-jam-match-3.json) |
 | Candy Jump 2: The Old Age | 104404 | [104404-candy-jump-2-the-old-age.json](./104404-candy-jump-2-the-old-age.json) |
 | Candy Jump featuring Frosty | 147131 | [147131-candy-jump-featuring-frosty.json](./147131-candy-jump-featuring-frosty.json) |
@@ -4249,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
 | CCCP Calls! | 100490 | [100490-cccp-calls.json](./100490-cccp-calls.json) |
 | CCG Deck Adventures Wild Arena | 232338 | [232338-ccg-deck-adventures-wild-arena.json](./232338-ccg-deck-adventures-wild-arena.json) |
+| CCO Car Crash Online Simulator | 293662 | [293662-cco-car-crash-online-simulator.json](./293662-cco-car-crash-online-simulator.json) |
 | CCSS07: 64 Squares of Purple | 330470 | [330470-ccss07-64-squares-of-purple.json](./330470-ccss07-64-squares-of-purple.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CD 2: Trap Master | 244668 | [244668-cd-2-trap-master.json](./244668-cd-2-trap-master.json) |
@@ -11684,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Titanium Edition | 305488 | [305488-construction-simulator-titanium-edition.json](./305488-construction-simulator-titanium-edition.json) |
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
 | Construction Simulator: Year 2 Season Pass | 293132 | [293132-construction-simulator-year-2-season-pass.json](./293132-construction-simulator-year-2-season-pass.json) |
+| Construction Simulator: Year 2 Season Pass - Pickup Truck | 294100 | [294100-construction-simulator-year-2-season-pass-pickup-truck.json](./294100-construction-simulator-year-2-season-pass-pickup-truck.json) |
 | Construction Site Driver | 186578 | [186578-construction-site-driver.json](./186578-construction-site-driver.json) |
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
 | Construction Worker Simulator | 151102 | [151102-construction-worker-simulator.json](./151102-construction-worker-simulator.json) |
@@ -14894,6 +14897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Round-Up | 21824 | [21824-critter-round-up.json](./21824-critter-round-up.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
 | Critter Town | 323597 | [323597-critter-town.json](./323597-critter-town.json) |
+| Critterball Derby | 293594 | [293594-critterball-derby.json](./293594-critterball-derby.json) |
 | CritterGarden | 273766 | [273766-crittergarden.json](./273766-crittergarden.json) |
 | Critters Breakout | 373355 | [373355-critters-breakout.json](./373355-critters-breakout.json) |
 | Critters for Sale | 123420 | [123420-critters-for-sale.json](./123420-critters-for-sale.json) |
@@ -16755,6 +16759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Digilens | 347481 | [347481-cursed-digilens.json](./347481-cursed-digilens.json) |
 | Cursed Dungeon | 190017 | [190017-cursed-dungeon.json](./190017-cursed-dungeon.json) |
 | Cursed Enigma: Priest and Prayers | 278276 | [278276-cursed-enigma-priest-and-prayers.json](./278276-cursed-enigma-priest-and-prayers.json) |
+| Cursed Enigma: The Midnight Apartment | 294103 | [294103-cursed-enigma-the-midnight-apartment.json](./294103-cursed-enigma-the-midnight-apartment.json) |
 | Cursed Fables: A Gilded Rose - Collector's Edition | 338782 | [338782-cursed-fables-a-gilded-rose-collectors-edition.json](./338782-cursed-fables-a-gilded-rose-collectors-edition.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
 | Cursed Fables: Before the Clock Strikes | 318568 | [318568-cursed-fables-before-the-clock-strikes.json](./318568-cursed-fables-before-the-clock-strikes.json) |
