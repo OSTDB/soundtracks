@@ -7395,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amok! | 41531 | [41531-amok.json](./41531-amok.json) |
 | Amon | 75934 | [75934-amon.json](./75934-amon.json) |
 | Amon Amarth | 76156 | [76156-amon-amarth.json](./76156-amon-amarth.json) |
+| Amon Ra | 316586 | [316586-amon-ra.json](./316586-amon-ra.json) |
 | Among Ashes | 258510 | [258510-among-ashes.json](./258510-among-ashes.json) |
 | Among Ass 2: Butt Warfare | 170900 | [170900-among-ass-2-butt-warfare.json](./170900-among-ass-2-butt-warfare.json) |
 | Among Ass: Trilogy | 213432 | [213432-among-ass-trilogy.json](./213432-among-ass-trilogy.json) |
