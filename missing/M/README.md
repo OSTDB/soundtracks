@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malevolence Inc. | 200327 | [200327-malevolence-inc.json](./200327-malevolence-inc.json) |
 | Malevolence: Shutdown | 269465 | [269465-malevolence-shutdown.json](./269465-malevolence-shutdown.json) |
 | Malevolence: The Sword of Ahkranox | 16908 | [16908-malevolence-the-sword-of-ahkranox.json](./16908-malevolence-the-sword-of-ahkranox.json) |
+| Malevolent Madness | 326525 | [326525-malevolent-madness.json](./326525-malevolent-madness.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
 | Malfunction | 43167 | [43167-malfunction.json](./43167-malfunction.json) |
 | Malfunction FPS | 168326 | [168326-malfunction-fps.json](./168326-malfunction-fps.json) |
@@ -6633,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man W | 403215 | [403215-mega-man-w.json](./403215-mega-man-w.json) |
 | Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
 | Mega Man World 3 DX | 315770 | [315770-mega-man-world-3-dx.json](./315770-mega-man-world-3-dx.json) |
+| Mega Man World 4 DX | 326554 | [326554-mega-man-world-4-dx.json](./326554-mega-man-world-4-dx.json) |
 | Mega Man X | 88645 | [88645-mega-man-x.json](./88645-mega-man-x.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
 | Mega Man X Alpha Kaizo | 268419 | [268419-mega-man-x-alpha-kaizo.json](./268419-mega-man-x-alpha-kaizo.json) |
@@ -7354,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Lordz | 198239 | [198239-meme-lordz.json](./198239-meme-lordz.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
 | Meme Run | 60787 | [60787-meme-run.json](./60787-meme-run.json) |
+| Meme Shooter in Sandbox Memes | 326517 | [326517-meme-shooter-in-sandbox-memes.json](./326517-meme-shooter-in-sandbox-memes.json) |
 | Meme Survivors: Backrooms | 343747 | [343747-meme-survivors-backrooms.json](./343747-meme-survivors-backrooms.json) |
 | Meme Wars | 366827 | [366827-meme-wars.json](./366827-meme-wars.json) |
 | Memebonk | 406062 | [406062-memebonk.json](./406062-memebonk.json) |
@@ -9368,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midgard Lava-a-Jato | 298428 | [298428-midgard-lava-a-jato.json](./298428-midgard-lava-a-jato.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
 | Midgardr | 393583 | [393583-midgardr.json](./393583-midgardr.json) |
+| Midi & Melody | 326537 | [326537-midi-and-melody.json](./326537-midi-and-melody.json) |
 | Midi Maze | 15265 | [15265-midi-maze.json](./15265-midi-maze.json) |
 | Midi the Cat | 183789 | [183789-midi-the-cat.json](./183789-midi-the-cat.json) |
 | Midinous | 173225 | [173225-midinous.json](./173225-midinous.json) |
@@ -10429,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
 | Minecraft: Essentials | 327115 | [327115-minecraft-essentials.json](./327115-minecraft-essentials.json) |
+| Minecraft: Extra Food | 326534 | [326534-minecraft-extra-food.json](./326534-minecraft-extra-food.json) |
 | Minecraft: Fantastic Fairgrounds | 316689 | [316689-minecraft-fantastic-fairgrounds.json](./316689-minecraft-fantastic-fairgrounds.json) |
 | Minecraft: Festive Mash-up | 234224 | [234224-minecraft-festive-mash-up.json](./234224-minecraft-festive-mash-up.json) |
 | Minecraft: Fire TV Edition | 140463 | [140463-minecraft-fire-tv-edition.json](./140463-minecraft-fire-tv-edition.json) |
