@@ -3655,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
 | Teratoma: The Last Rebellion | 79867 | [79867-teratoma-the-last-rebellion.json](./79867-teratoma-the-last-rebellion.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
+| Terbis | 324799 | [324799-terbis.json](./324799-terbis.json) |
 | Tercios: Honor and Glory | 258325 | [258325-tercios-honor-and-glory.json](./258325-tercios-honor-and-glory.json) |
 | Tercity Life Simulator | 274375 | [274375-tercity-life-simulator.json](./274375-tercity-life-simulator.json) |
 | Terebikko Ultra Hero Series: Ultraman | 293985 | [293985-terebikko-ultra-hero-series-ultraman.json](./293985-terebikko-ultra-hero-series-ultraman.json) |
@@ -9446,6 +9447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infirmity | 267428 | [267428-the-infirmity.json](./267428-the-infirmity.json) |
 | The Inheritance | 281364 | [281364-the-inheritance.json](./281364-the-inheritance.json) |
 | The Inheritance of Crimson Manor | 149163 | [149163-the-inheritance-of-crimson-manor.json](./149163-the-inheritance-of-crimson-manor.json) |
+| The Inheritance of Crimson Manor: Victorian Edition | 324776 | [324776-the-inheritance-of-crimson-manor-victorian-edition.json](./324776-the-inheritance-of-crimson-manor-victorian-edition.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
 | The Initiate: The First Interviews | 109555 | [109555-the-initiate-the-first-interviews.json](./109555-the-initiate-the-first-interviews.json) |
@@ -10651,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Rome | 66563 | [66563-the-legend-of-rome.json](./66563-the-legend-of-rome.json) |
 | The Legend of Santa | 256344 | [256344-the-legend-of-santa.json](./256344-the-legend-of-santa.json) |
 | The Legend of Sebb Linus | 289297 | [289297-the-legend-of-sebb-linus.json](./289297-the-legend-of-sebb-linus.json) |
+| The Legend of Shiande | 324783 | [324783-the-legend-of-shiande.json](./324783-the-legend-of-shiande.json) |
 | The Legend of Shonan | 387002 | [387002-the-legend-of-shonan.json](./387002-the-legend-of-shonan.json) |
 | The Legend of Silkroad | 39416 | [39416-the-legend-of-silkroad.json](./39416-the-legend-of-silkroad.json) |
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
@@ -12703,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
 | The Ploshers | 116907 | [116907-the-ploshers.json](./116907-the-ploshers.json) |
 | The Plucky Squire x The Swords of Ditto: Mormo's Curse Bundle | 356822 | [356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json](./356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json) |
+| The Plucky Squire: Deluxe Edition | 324778 | [324778-the-plucky-squire-deluxe-edition.json](./324778-the-plucky-squire-deluxe-edition.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plumber Thing | 223000 | [223000-the-plumber-thing.json](./223000-the-plumber-thing.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
@@ -16314,6 +16318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worm - A Lean Short | 128431 | [128431-the-worm-a-lean-short.json](./128431-the-worm-a-lean-short.json) |
 | The Worm in Paradise | 36845 | [36845-the-worm-in-paradise.json](./36845-the-worm-in-paradise.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
+| The Worries of Santa Clauses | 324774 | [324774-the-worries-of-santa-clauses.json](./324774-the-worries-of-santa-clauses.json) |
 | The Worst Day Ever | 97191 | [97191-the-worst-day-ever.json](./97191-the-worst-day-ever.json) |
 | The Worst Game | 390555 | [390555-the-worst-game.json](./390555-the-worst-game.json) |
 | The Worst Game Ever | 161640 | [161640-the-worst-game-ever.json](./161640-the-worst-game-ever.json) |
@@ -28163,6 +28168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Retro Items Pack | 223543 | [223543-two-point-hospital-retro-items-pack.json](./223543-two-point-hospital-retro-items-pack.json) |
 | Two Point Hospital: Speedy Recovery | 193142 | [193142-two-point-hospital-speedy-recovery.json](./193142-two-point-hospital-speedy-recovery.json) |
 | Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
+| Two Point Museum: Explorer Edition | 324779 | [324779-two-point-museum-explorer-edition.json](./324779-two-point-museum-explorer-edition.json) |
 | Two Point Museum: Explorer Upgrade Pack | 368783 | [368783-two-point-museum-explorer-upgrade-pack.json](./368783-two-point-museum-explorer-upgrade-pack.json) |
 | Two Point Museum: Fantasy Finds | 351182 | [351182-two-point-museum-fantasy-finds.json](./351182-two-point-museum-fantasy-finds.json) |
 | Two Point Museum: Rides & Relics | 418502 | [418502-two-point-museum-rides-and-relics.json](./418502-two-point-museum-rides-and-relics.json) |
