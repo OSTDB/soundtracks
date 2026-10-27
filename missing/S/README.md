@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scatch: The Painter Cat | 195960 | [195960-scatch-the-painter-cat.json](./195960-scatch-the-painter-cat.json) |
 | Scatter | 114247 | [114247-scatter.json](./114247-scatter.json) |
 | Scattered Ashes | 268966 | [268966-scattered-ashes.json](./268966-scattered-ashes.json) |
+| Scattered Thoughts | 317798 | [317798-scattered-thoughts.json](./317798-scattered-thoughts.json) |
 | Scattered Wings | 398578 | [398578-scattered-wings.json](./398578-scattered-wings.json) |
 | Scattergories Weekly | 376139 | [376139-scattergories-weekly.json](./376139-scattergories-weekly.json) |
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
@@ -2521,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Evasion | 277194 | [277194-school-evasion.json](./277194-school-evasion.json) |
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
 | School Fantasy | 267423 | [267423-school-fantasy.json](./267423-school-fantasy.json) |
+| School Fighter | 317809 | [317809-school-fighter.json](./317809-school-fighter.json) |
 | School Flight Simulator | 234650 | [234650-school-flight-simulator.json](./234650-school-flight-simulator.json) |
 | School for the Friendless | 179366 | [179366-school-for-the-friendless.json](./179366-school-for-the-friendless.json) |
 | School Girl Apartment Paradise | 210314 | [210314-school-girl-apartment-paradise.json](./210314-school-girl-apartment-paradise.json) |
@@ -20262,6 +20264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
 | Star Fox: Event Horizon | 401708 | [401708-star-fox-event-horizon.json](./401708-star-fox-event-horizon.json) |
 | Star Fox: Super Weekend | 42365 | [42365-star-fox-super-weekend.json](./42365-star-fox-super-weekend.json) |
+| Star Freight | 317801 | [317801-star-freight.json](./317801-star-freight.json) |
 | Star Fur Day | 313091 | [313091-star-fur-day.json](./313091-star-fur-day.json) |
 | Star Fury | 24777 | [24777-star-fury.json](./24777-star-fury.json) |
 | Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
@@ -21175,6 +21178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarHorse Pocket | 108764 | [108764-starhorse-pocket.json](./108764-starhorse-pocket.json) |
 | Staring Contest | 369545 | [369545-staring-contest.json](./369545-staring-contest.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
+| Stario: Haven Tower | 317782 | [317782-stario-haven-tower.json](./317782-stario-haven-tower.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Starion Tactics | 10891 | [10891-starion-tactics.json](./10891-starion-tactics.json) |
 | Starium | 335796 | [335796-starium.json](./335796-starium.json) |
