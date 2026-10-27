@@ -15080,6 +15080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushing It! Together: Sisyphus Co-Op | 339175 | [339175-pushing-it-together-sisyphus-co-op.json](./339175-pushing-it-together-sisyphus-co-op.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Pushing the limit | 157098 | [157098-pushing-the-limit.json](./157098-pushing-the-limit.json) |
+| Pushle Deluxe | 328896 | [328896-pushle-deluxe.json](./328896-pushle-deluxe.json) |
 | Pushman | 247313 | [247313-pushman.json](./247313-pushman.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
 | Pushover | 11627 | [11627-pushover.json](./11627-pushover.json) |
@@ -15403,6 +15404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Galaxy: Pet Show - 57 new puzzles | 378865 | [378865-puzzle-galaxy-pet-show-57-new-puzzles.json](./378865-puzzle-galaxy-pet-show-57-new-puzzles.json) |
 | Puzzle Gallery: Jigsaw Art Collection | 383155 | [383155-puzzle-gallery-jigsaw-art-collection.json](./383155-puzzle-gallery-jigsaw-art-collection.json) |
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
+| Puzzle Game | 328906 | [328906-puzzle-game.json](./328906-puzzle-game.json) |
 | Puzzle Game | 366919 | [366919-puzzle-game.json](./366919-puzzle-game.json) |
 | Puzzle Game | 97201 | [97201-puzzle-game.json](./97201-puzzle-game.json) |
 | Puzzle Game Blast | 90741 | [90741-puzzle-game-blast.json](./90741-puzzle-game-blast.json) |
